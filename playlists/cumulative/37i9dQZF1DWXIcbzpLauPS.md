@@ -2,9 +2,9 @@
 
 ### [The Core](https://open.spotify.com/playlist/37i9dQZF1DWXIcbzpLauPS)
 
-> the best new metalcore\. where brutality and technicality collide\. Cover: Loathe
+> the best new metalcore\. where brutality and technicality collide\. Cover: Imminence
 
-1,605 songs - 4 day 1 hr 28 min
+1,607 songs - 4 day 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [All Of Us](https://open.spotify.com/track/710DVlWcrmDX9I5AcZ9k4p) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [All Of Us](https://open.spotify.com/album/5uy1loJEmbo6aRXp4ylNi9) | 3:58 | 2022-03-18 | 2022-05-21 |
 | [All Pride No Pain](https://open.spotify.com/track/35qULvfVsRGHE2u4OkNzI0) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [Southern Hostility](https://open.spotify.com/album/5NGFaarv4KxVYH9LvaMLso) | 3:27 | 2022-07-13 | 2022-07-23 |
 | [All That I Can Give](https://open.spotify.com/track/2BvCKRAs9xnDzm8CFo0hi9) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Vol\. 2](https://open.spotify.com/album/7lAOJSvVNt3hTZ9MQMSBmB) | 3:18 | 2024-05-10 | 2024-09-21 |
-| [All The Love Is Gone](https://open.spotify.com/track/5YSEFmTZBt1Ne3p0S9ZQMr) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [All The Love Is Gone](https://open.spotify.com/album/3ak5P45tjuLYZehqjruTez) | 3:02 | 2025-02-21 |  |
+| [All The Love Is Gone](https://open.spotify.com/track/5YSEFmTZBt1Ne3p0S9ZQMr) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [All The Love Is Gone](https://open.spotify.com/album/3ak5P45tjuLYZehqjruTez) | 3:02 | 2025-02-21 | 2026-06-22 |
 | [All This Beauty Can't Be Real](https://open.spotify.com/track/1Sum0C04vG82xEJ2snJtwu) | [Chaosbay](https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk) | [All This Beauty Can't Be Real](https://open.spotify.com/album/098oySHjDce2srMZmKPmpz) | 3:51 | 2022-05-06 | 2022-05-28 |
 | [All Wrong](https://open.spotify.com/track/4o8v3qZ0nBh2k5EpdS1IK7) | [MoistCr1tikal](https://open.spotify.com/artist/3NTvftovapkDsi2pc7eeS0), [Nik Nocturnal](https://open.spotify.com/artist/1Gc5ZiJhqjQQcfvMTSCa3q), [Knosis](https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh) | [All Wrong](https://open.spotify.com/album/1JDT7uQeWyt8HIEZnmv2pv) | 3:02 | 2025-05-23 | 2026-06-16 |
 | [allured](https://open.spotify.com/track/0E5BAno4o00oI3HZFvVXhd) | [sace6](https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS) | [allured](https://open.spotify.com/album/2qX9evcsvtcxdRKc0tJKLn) | 3:30 | 2026-04-17 |  |
@@ -186,7 +186,7 @@
 | [Black Sheep](https://open.spotify.com/track/2izSnazOLEjr2N8ioPj2tQ) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [Black Sheep](https://open.spotify.com/album/7dOV7dlS4FDKXpWp4TdCoX) | 3:52 | 2023-07-28 | 2024-05-11 |
 | [BLACK\_WAVE](https://open.spotify.com/track/3s3czPHKW5TXmZoeUB9yu7) | [Moodring](https://open.spotify.com/artist/75gi4UlMiDGTClCgtZVpH0) | [BLACK\_WAVE](https://open.spotify.com/album/5kGa3VEUVZLdtiQuwc73FI) | 3:06 | 2023-04-24 | 2024-03-02 |
 | [Blackhole](https://open.spotify.com/track/2qcXDpEzi89CMgxPXAiiI8) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Blackhole](https://open.spotify.com/album/0WOFwPsTBGs4nWaPPZfLxI) | 3:20 | 2025-01-17 | 2026-01-31 |
-| [Blade Between the Teeth](https://open.spotify.com/track/75fvKk1uW8imdFqfCtoUNg) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Blade Between the Teeth](https://open.spotify.com/album/1fWsu9q3HgkBW9Miw6QdS6) | 2:46 | 2025-11-07 |  |
+| [Blade Between the Teeth](https://open.spotify.com/track/75fvKk1uW8imdFqfCtoUNg) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Blade Between the Teeth](https://open.spotify.com/album/1fWsu9q3HgkBW9Miw6QdS6) | 2:46 | 2025-11-07 | 2026-06-22 |
 | [Bleed](https://open.spotify.com/track/3twNlcDcyTluh5UahXP8AB) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Bleed](https://open.spotify.com/album/2RkuogMfmVrJgweGc80pd4) | 3:40 | 2026-03-10 |  |
 | [Bleed the Future](https://open.spotify.com/track/4DgVZwzoF2dENlLTvhWjr0) | [Archspire](https://open.spotify.com/artist/7F9ZL4TJNr8AoU0UUQX8ih) | [Bleed the Future](https://open.spotify.com/album/3voN4heYWAWr2uxYlcL3pc) | 3:48 | 2022-07-13 | 2022-07-21 |
 | [Bleed to Shine](https://open.spotify.com/track/06u0qVkMlhfHjslALHm8KK) | [Any Given Day](https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU) | [Bleed to Shine](https://open.spotify.com/album/7afP1ymXXHc6o984S0TBOk) | 4:15 | 2026-01-16 |  |
@@ -976,6 +976,7 @@
 | [Nostalgia Kills](https://open.spotify.com/track/4Air2IBYs2o8boiqqyod6t) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Injury Episode](https://open.spotify.com/album/0nZNn9KNOqjQ45hMK4a2X2) | 3:03 | 2026-06-16 |  |
 | [Not Welcome](https://open.spotify.com/track/4PFv0DkA3FuUtqpOr114mf) | [Dayshell](https://open.spotify.com/artist/4yextvMjXxQXzyQkyS1jYX) | [Not Welcome](https://open.spotify.com/album/77g3OkMfG71WyL1dhEkliw) | 3:46 | 2023-09-15 | 2023-09-30 |
 | [Nothing Inspires Forgiveness Quite Like Revenge](https://open.spotify.com/track/70Q0xePiAhrp7HkGQ21pbp) | [Patient Sixty\-Seven](https://open.spotify.com/artist/1wklENd4yCkEW1u0fkJR2c) | [Nothing Inspires Forgiveness Quite Like Revenge](https://open.spotify.com/album/3DfAAUOPBBaqQSBm6agznT) | 3:31 | 2024-03-01 | 2024-08-26 |
+| [Novocaine](https://open.spotify.com/track/7bcvoCr6gZgH0E65uRvEmm) | [If Not For Me](https://open.spotify.com/artist/5aqpMOXNPtkxwT7jWuE9Vd), [Catch Your Breath](https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22) | [Novocaine](https://open.spotify.com/album/6oqo2AgdjQK1JRJWRPLN5C) | 3:23 | 2026-06-22 |  |
 | [Nu11](https://open.spotify.com/track/71znMFmbSmumzXb2EczBHb) | [Bound in Fear](https://open.spotify.com/artist/58P2qDnyWpUDoiCtfHvLTL), [Taylor Barber](https://open.spotify.com/artist/13sCECOFwaranrSOhJkmcs) | [Penance](https://open.spotify.com/album/4b8sNQIh75Wl0Ivv6MO1KZ) | 3:55 | 2022-07-13 | 2022-07-15 |
 | [nuBlood \(feat\. Fame On Fire\)](https://open.spotify.com/track/2UuW4bsWhUUWcD07r2tSdq) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg), [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [nuBlood \(feat\. Fame On Fire\)](https://open.spotify.com/album/4z8wwx2xRFIrk9DJY9Aw7u) | 3:23 | 2022-12-10 | 2023-02-18 |
 | [Numb](https://open.spotify.com/track/3huUzljK6ZcZ22XUvubeC0) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Numb](https://open.spotify.com/album/6QHccEtF5S0WqUsraPvziw) | 3:35 | 2023-10-27 | 2025-02-22 |
@@ -1092,6 +1093,7 @@
 | [Pushing The Pink Envelope](https://open.spotify.com/track/4hvDdBwERAE7KbDRqia8WS) | [The Callous Daoboys](https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0) | [Pushing The Pink Envelope](https://open.spotify.com/album/1aQ0u8V9EOwE8ohlaFeHhm) | 4:11 | 2023-09-29 | 2024-05-11 |
 | [Quicksand \(feat\. Michael Swank\)](https://open.spotify.com/track/3B2lC0tHokLJuPOhKaLycU) | [Outline In Color](https://open.spotify.com/artist/6drAKOLWO1vzBrdmJmg5SE), [Foxera](https://open.spotify.com/artist/3YMpkFfYLXaD8eZlQalBHC), [Michael Swank](https://open.spotify.com/artist/1p4l2x4EUENGm1VCQfBkuu) | [Quicksand](https://open.spotify.com/album/3vo077XHNBeAEVlnWGQUCG) | 2:32 | 2022-07-01 | 2023-05-23 |
 | [Quiet Place](https://open.spotify.com/track/16wpegfQ1aspAFanGa5PsY) | [Vanna](https://open.spotify.com/artist/7cXUCar1BPOeMI2qza9oa1) | [Quiet Place](https://open.spotify.com/album/0OnjogVixHqvs6Fmw736Dr) | 3:25 | 2025-03-14 | 2025-05-10 |
+| [R.I.P\. \(feat\. Skylar Grey\)](https://open.spotify.com/track/4t2iBQXTof6BoWCIxkgFF1) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [R.I.P\. \(feat\. Skylar Grey\)](https://open.spotify.com/album/2BdQsMhZDuxilUo1mG12OK) | 4:00 | 2026-06-22 |  |
 | [Rage](https://open.spotify.com/track/013gFBH6Qqs79Zbj7WOdsu) | [Aviana](https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy) | [Rage](https://open.spotify.com/album/1ywnN4cbTEzEidQxfKAFTN) | 3:36 | 2022-07-13 | 2022-07-23 |
 | [Rage](https://open.spotify.com/track/5fKQoFnP46hSNH2xD6hlDL) | [Bleeding Through](https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi) | [Rage](https://open.spotify.com/album/2UaM4rE9GCvkjbdrDyqxwu) | 3:54 | 2022-07-13 | 2022-07-23 |
 | [RAIN](https://open.spotify.com/track/7jvtwjcmvwRvRizkgIJdqA) | [HEAVENSGATE](https://open.spotify.com/artist/5xxpBuljNlb95kr6fcf6hj) | [RAIN](https://open.spotify.com/album/14dDeoUMafE62Z3S8mquFM) | 2:57 | 2025-07-25 | 2025-08-16 |

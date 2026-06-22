@@ -1,6 +1,6 @@
 {
   "description": "If your workout doubles as an outlet for your aggression, this is the playlist for you.",
-  "num_followers": 2501796,
+  "num_followers": 2501764,
   "original_name": "Heavy Workout",
   "owner": {
     "name": "Spotify",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-04-27 18:33:24",
       "album": {
-        "name": "You Get One",
-        "url": "https://open.spotify.com/album/45mqk7FIJfOKGmxIf5DQ1j"
-      },
-      "artists": [
-        {
-          "name": "The Plot In You",
-          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
-        }
-      ],
-      "duration_ms": 180403,
-      "name": "You Get One",
-      "url": "https://open.spotify.com/track/27FTxVOBjgkv8Ox47iNftf"
-    },
-    {
-      "added_at": "2026-04-27 18:33:24",
-      "album": {
         "name": "Vengeance Falls (Special Edition)",
         "url": "https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 269266,
       "name": "Strife",
       "url": "https://open.spotify.com/track/15zUfY9L1p7bN9JsgaTAP0"
+    },
+    {
+      "added_at": "2026-04-27 18:33:24",
+      "album": {
+        "name": "You Get One",
+        "url": "https://open.spotify.com/album/45mqk7FIJfOKGmxIf5DQ1j"
+      },
+      "artists": [
+        {
+          "name": "The Plot In You",
+          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
+        }
+      ],
+      "duration_ms": 180403,
+      "name": "You Get One",
+      "url": "https://open.spotify.com/track/27FTxVOBjgkv8Ox47iNftf"
     },
     {
       "added_at": "2026-04-27 18:33:24",

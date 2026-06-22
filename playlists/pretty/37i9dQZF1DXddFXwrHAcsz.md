@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddFXwrHAcsz.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 80's! Cover: André Hazes
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,464 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,481 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Een Beetje Verliefd](https://open.spotify.com/track/0XLlGrXn98Td1cPAeKcZns) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Gewoon Andre](https://open.spotify.com/album/6toU0S9DdSnpkwFaguQgIe) | 4:14 |
 | 2 | [Belle Hélène](https://open.spotify.com/track/46LNQvIkDX7hs0M466DD6h) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [Doris Day en Andere Stukken](https://open.spotify.com/album/74D7apTRKmj8K2gIq4B5gK) | 2:49 |
 | 3 | [Kronenburg Park](https://open.spotify.com/track/5l0mUA4hwewx7cj8KzBGGE) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [Foto Van Een Mooie Dag](https://open.spotify.com/album/69JWMizDVll3nRlU7YIEEF) | 4:03 |
-| 4 | [Over De Muur](https://open.spotify.com/track/5rAG0XusRfyLrzYV7A7lBL) | [Klein Orkest](https://open.spotify.com/artist/2jtIQ2r2x8P4I23sIDDL3n) | [Het Beste Van Klein Orkest](https://open.spotify.com/album/4s3BG8LwbkOcQ5ktxjt5wf) | 3:29 |
-| 5 | [Belgie ..\. \(Is Er Leven Op Pluto ...\)](https://open.spotify.com/track/0otIFwtEKqrDBGb3cvLRu4) | [Het Goede Doel](https://open.spotify.com/artist/73G7RMWMbWUGc8tkXeQoJQ) | [Belgie](https://open.spotify.com/album/3FhvAa1JUA71NTX6AJBfpc) | 6:00 |
+| 4 | [Belgie ..\. \(Is Er Leven Op Pluto ...\)](https://open.spotify.com/track/0otIFwtEKqrDBGb3cvLRu4) | [Het Goede Doel](https://open.spotify.com/artist/73G7RMWMbWUGc8tkXeQoJQ) | [Belgie](https://open.spotify.com/album/3FhvAa1JUA71NTX6AJBfpc) | 6:00 |
+| 5 | [Over De Muur](https://open.spotify.com/track/5rAG0XusRfyLrzYV7A7lBL) | [Klein Orkest](https://open.spotify.com/artist/2jtIQ2r2x8P4I23sIDDL3n) | [Het Beste Van Klein Orkest](https://open.spotify.com/album/4s3BG8LwbkOcQ5ktxjt5wf) | 3:29 |
 | 6 | [Je Loog Tegen Mij](https://open.spotify.com/track/53348QPO1Bhkd8oFABaGYK) | [Drukwerk](https://open.spotify.com/artist/5k1FBxAglBtDC8H26LOo4F) | [Drukwerk](https://open.spotify.com/album/4P5Qfh2yBKzZrBJ5OoC9KL) | 3:26 |
 | 7 | [De Bom](https://open.spotify.com/track/3i2ZaFbGMZmerAEoVHvsmB) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [Doe Maar \- De Singles \(Het Complete Singles Overzicht\)](https://open.spotify.com/album/5dEuc3PFwHlw3OR2IwCX4S) | 2:41 |
 | 8 | [Het Is Koud Zonder Jou](https://open.spotify.com/track/3K9DdzUlsLa1SynqM5XhLj) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [N Vriend](https://open.spotify.com/album/12SKNd3eWiv0LAqHGEmJwb) | 4:06 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddFXwrHAcsz.md) - [plain]
 | 56 | [Mijn Stad](https://open.spotify.com/track/3NytgJzTuo28YJXP82ys1y) | [Danny De Munk](https://open.spotify.com/artist/5Mww2P8ni50lmfOTsBmGHn) | [Mijn Levenslied](https://open.spotify.com/album/1ZsiKqXJH3U7qN6pX3nHme) | 3:11 |
 | 57 | [De Verzonken Stad](https://open.spotify.com/track/67ic5KKc4Q8zPyfuu11VYn) | [Frank](https://open.spotify.com/artist/6FZRvArR9oNmZWraG4rXyI), [Mirella](https://open.spotify.com/artist/35iXe0ysO9vDK2vCESHAbz) | [De Verzonken Stad & Andere Hits](https://open.spotify.com/album/2KDci5Jcw5iP7UEVud2nLV) | 3:49 |
 | 58 | [Pierrot](https://open.spotify.com/track/3vgw77I33tT8m2T0MYbsM2) | [Bonnie St\. Claire](https://open.spotify.com/artist/4241gEqmLtq8iCZybFquzK) | [Favorieten Expres](https://open.spotify.com/album/0tozdNweUVwfbGuQwywE2Q) | 3:14 |
-| 59 | [Ontmoeting](https://open.spotify.com/track/2EK4CN6zYeHuZh8HqHwB4E) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Alle 40 Goed](https://open.spotify.com/album/4EuC8OYvXJPgjFBPM1yZG3) | 4:31 |
-| 60 | [Alles Kan Een Mens Gelukkig Maken \(2007\)](https://open.spotify.com/track/3etYmuPZnHkNoXXP1h8Jd4) | [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb) | [Liefde voor Muziek](https://open.spotify.com/album/6qNtFuFTyYCVEA1a3J3EpI) | 3:29 |
+| 59 | [Alles Kan Een Mens Gelukkig Maken \(2007\)](https://open.spotify.com/track/3etYmuPZnHkNoXXP1h8Jd4) | [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb) | [Liefde voor Muziek](https://open.spotify.com/album/6qNtFuFTyYCVEA1a3J3EpI) | 3:29 |
+| 60 | [Ontmoeting](https://open.spotify.com/track/2EK4CN6zYeHuZh8HqHwB4E) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Alle 40 Goed](https://open.spotify.com/album/4EuC8OYvXJPgjFBPM1yZG3) | 4:31 |
 
 Snapshot ID: `AAAAAKvtRVDVCqDN7Q8lXyY9yARvBWjD`

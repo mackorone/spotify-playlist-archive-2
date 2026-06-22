@@ -4,7 +4,7 @@
 
 > This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-241 songs - 20 hr 40 min
+242 songs - 20 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Broken & Blue \(feat\. Joe Bonamassa\)](https://open.spotify.com/track/6YhIOU8jVa14jqcyc6bCKf) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Real Gone](https://open.spotify.com/album/5Y3BKzJMHKfPlGb24weYXe) | 4:22 | 2023-09-15 | 2024-04-03 |
 | [Broken Record](https://open.spotify.com/track/5SC1EaTcQ4ndI9sQkHpjVT) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Breakthrough](https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n) | 6:58 | 2025-07-20 |  |
 | [Burning Hell](https://open.spotify.com/track/48sF2RpuNbsHok1EEBucuv) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 6:49 | 2022-08-10 | 2022-10-08 |
+| [Calling Card \(Live\)](https://open.spotify.com/track/3MudtSQEXaKYCzco95uGVi) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [The Spirit Of Rory Live From Cork](https://open.spotify.com/album/67XEF1IHUmQF2sas0AZ2hq) | 4:43 | 2026-06-22 |  |
 | [Chains And Things](https://open.spotify.com/track/1nfPffRWvEZtcKqgrrMAR2) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [B.B\. King's Blues Summit 100, Vol\. II](https://open.spotify.com/album/3CF0t7Ma6fTi97UZZKaZHh) | 5:03 | 2025-10-19 | 2025-11-16 |
 | [Chains And Things](https://open.spotify.com/track/2uK43c3VurRJmePMQKle84) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Chains And Things](https://open.spotify.com/album/1JGZNt476A3wZ0YUwtI3Js) | 5:03 | 2025-10-30 |  |
 | [Chocolate Jesus](https://open.spotify.com/track/2EGzr81qumpLxgL8pFzJxZ) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Don't Explain](https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT) | 2:39 | 2022-09-08 | 2022-09-16 |
@@ -114,7 +115,7 @@
 | [Is It Safe To Go Home](https://open.spotify.com/track/7p0zvKPEscOjVBlCZ6RA5p) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe Vol\. 2](https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP) | 6:22 | 2023-10-10 | 2024-08-30 |
 | [It's Hard But It's Fair](https://open.spotify.com/track/0nXc4KXgMDAtRsQXwulH9t) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe Vol\. 2](https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP) | 3:15 | 2023-10-10 | 2024-06-01 |
 | [I’m Going Down](https://open.spotify.com/track/0p2gjEwWiiU6N5Xk0HI2xC) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [I’m Going Down](https://open.spotify.com/album/35y6SzyOwEbX19F9TIvf0c) | 5:30 | 2025-02-03 | 2025-04-11 |
-| [I’m Going Home](https://open.spotify.com/track/5DyjxEFavEjhc6MoM94Fpb) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [I’m Going Home / Trying To Do Right](https://open.spotify.com/album/1jAX2M9aW7DnJRgHFZXNhf) | 4:02 | 2026-03-22 |  |
+| [I’m Going Home](https://open.spotify.com/track/5DyjxEFavEjhc6MoM94Fpb) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [I’m Going Home / Trying To Do Right](https://open.spotify.com/album/1jAX2M9aW7DnJRgHFZXNhf) | 4:02 | 2026-03-22 | 2026-06-22 |
 | [Just 'Cos You Can Don't Mean You Should](https://open.spotify.com/track/2NqFYXn1io5bJuQYok0xin) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Redemption](https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ) | 6:40 | 2022-08-06 |  |
 | [Just 'Cos You Can Don’t Mean You Should \(Live\)](https://open.spotify.com/track/2ZYO00AxBjv8jeaPahRyhk) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Tales Of Time \(Live\)](https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3) | 7:58 | 2023-04-23 | 2023-05-13 |
 | [King Bee Shakedown](https://open.spotify.com/track/0BCVkygu0IIKP864Y8A8Gv) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Redemption](https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ) | 4:22 | 2022-08-05 | 2024-03-02 |

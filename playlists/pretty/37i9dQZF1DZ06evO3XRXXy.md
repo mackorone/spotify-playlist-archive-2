@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 
 > This is Kenny G\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,156 likes - 46 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,175 likes - 46 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 | 6 | [Yesterday](https://open.spotify.com/track/0DPUhwShX0kQQvrG4A0CCD) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [I'm In The Mood For Love ..\. The Most Romantic Melodies Of All Time](https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM) | 2:59 |
 | 7 | [Silhouette](https://open.spotify.com/track/3E3u7Aq7DvJCj2kiGXAknO) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Silhouette](https://open.spotify.com/album/6cVND8ZOdvMdSgpdGXQHvi) | 5:27 |
 | 8 | [In The Rain](https://open.spotify.com/track/41bWhFyo0NndpMMedZGMl0) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Breathless](https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy) | 5:00 |
-| 9 | [Cry \(feat\. Kenny G\)](https://open.spotify.com/track/6gB7wTgC9qubJKxOS4cNDE) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Whatever's Clever!](https://open.spotify.com/album/2ivbRaW10BVYVDTGRGDW6p) | 3:07 |
+| 9 | [Loving You \- Edit](https://open.spotify.com/track/0KH4lkNCzPACif93d7u7A9) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Greatest Hits](https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56) | 3:19 |
 | 10 | [You Raise Me Up](https://open.spotify.com/track/3yYMnwomVxxFZCMsHqJ6sC) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [I'm In The Mood For Love ..\. The Most Romantic Melodies Of All Time](https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM) | 3:14 |
-| 11 | [Loving You \- Edit](https://open.spotify.com/track/0KH4lkNCzPACif93d7u7A9) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Greatest Hits](https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56) | 3:19 |
+| 11 | [Cry \(feat\. Kenny G\)](https://open.spotify.com/track/6gB7wTgC9qubJKxOS4cNDE) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Whatever's Clever!](https://open.spotify.com/album/2ivbRaW10BVYVDTGRGDW6p) | 3:07 |
 | 12 | [Sentimental](https://open.spotify.com/track/5I7uF6AdRy5SbtHE6k1QJo) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Breathless](https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy) | 6:35 |
 | 13 | [My Heart Will Go On \(Love Theme from "Titanic"\)](https://open.spotify.com/track/5U1K5WABwd5WF63b1Nd7ej) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Ultimate Kenny G](https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P) | 4:21 |
 | 14 | [If](https://open.spotify.com/track/05CovbrGQALQUh4yVonNfa) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [I'm In The Mood For Love ..\. The Most Romantic Melodies Of All Time](https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM) | 3:25 |
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 | 31 | [The Champion's Theme](https://open.spotify.com/track/6ZlnnjYGa9xsucij2hV5f7) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Songbird: The Best Of Kenny G](https://open.spotify.com/album/0QBvGlklvMn3Tx5xEzFZ06) | 4:19 |
 | 32 | [Use This Gospel](https://open.spotify.com/track/0oPOuDmmkVp3h6puekhs6P) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [JESUS IS KING](https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9) | 3:33 |
 | 33 | [Everytime I Close My Eyes \(with Babyface\)](https://open.spotify.com/track/3QAWgoXqVTJ77tmy4ctoyB) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [The Moment](https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp) | 4:58 |
-| 34 | [Besame Mucho](https://open.spotify.com/track/7DnNhtCHZlhbXaLSebOFso) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Rhythm & Romance](https://open.spotify.com/album/50pPvpL85j6tSLbnLqC9IO) | 7:11 |
-| 35 | [You Send Me \(with Michael Bolton\)](https://open.spotify.com/track/6qB2W0DcQo2kLyqw2JUo5k) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB), [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Greatest Hits](https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56) | 4:04 |
+| 34 | [You Send Me \(with Michael Bolton\)](https://open.spotify.com/track/6qB2W0DcQo2kLyqw2JUo5k) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB), [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Greatest Hits](https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56) | 4:04 |
+| 35 | [Besame Mucho](https://open.spotify.com/track/7DnNhtCHZlhbXaLSebOFso) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Rhythm & Romance](https://open.spotify.com/album/50pPvpL85j6tSLbnLqC9IO) | 7:11 |
 | 36 | [Stranger On The Shore](https://open.spotify.com/track/56YAQYJltZevVwJUNAlLxw) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Classics In The Key Of G](https://open.spotify.com/album/6z3utjo3iGofLUnxWL9zXh) | 3:07 |
 | 37 | [Mi manchi](https://open.spotify.com/track/0czae8hEbfn2zSF5iKCZoE) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Amore \(Remastered\)](https://open.spotify.com/album/1sZg35UlVHKJzigDlx2uSJ) | 3:34 |
-| 38 | [Sabor A Mi](https://open.spotify.com/track/4Pu9FoZv0FPYD1aDE1lmJ2) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Rhythm & Romance](https://open.spotify.com/album/50pPvpL85j6tSLbnLqC9IO) | 4:22 |
-| 39 | [Jasmine Flower](https://open.spotify.com/track/1bbT0SzSrKuDIfH5SU6w2U) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Ultimate Kenny G](https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P) | 4:36 |
+| 38 | [Jasmine Flower](https://open.spotify.com/track/1bbT0SzSrKuDIfH5SU6w2U) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Ultimate Kenny G](https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P) | 4:36 |
+| 39 | [Sabor A Mi](https://open.spotify.com/track/4Pu9FoZv0FPYD1aDE1lmJ2) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Rhythm & Romance](https://open.spotify.com/album/50pPvpL85j6tSLbnLqC9IO) | 4:22 |
 | 40 | [Edelweiss](https://open.spotify.com/track/4rWdnvbc7NxXGhjp3lIzRD) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Innocence](https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x) | 3:27 |
 | 41 | [Paradise](https://open.spotify.com/track/7vK5XIuj2sglBRFFN4KR43) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Paradise](https://open.spotify.com/album/1JeUDgG8kEdUUlqa6Omgsr) | 4:14 |
 | 42 | [Love Theme from St\. Elmo's Fire \(feat\. Kenny G\) \- Live](https://open.spotify.com/track/7AcZoTDqYtqYyYYt3CBPSw) | [David Foster](https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [You're The Inspiration: The Music Of David Foster And Friends \(Int'l DMD\)](https://open.spotify.com/album/7zXao5a6CPcsA8mbmdKpVs) | 2:56 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 | 45 | [Lullaby Tres](https://open.spotify.com/track/1hlvi8WHybUmBgtyohwSCT) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Lullaby Tres](https://open.spotify.com/album/3keFDbJF9CnEBm9Xm9XGB3) | 2:04 |
 | 46 | [Nocturne Op\. 9 No\. 2](https://open.spotify.com/track/3dszUBBQ0KE3upy6AR8WBv) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Innocence](https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x) | 2:26 |
 
-Snapshot ID: `ajSGgAAAAACZ9urmcFZqwDLEPer20l3i`
+Snapshot ID: `ajXYAAAAAAA4Tru5kYe1Bv2/Ur3HPQ2d`

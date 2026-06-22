@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 
 > The best in new rock\. Cover: The Buoys
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,303 likes - 81 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,309 likes - 81 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

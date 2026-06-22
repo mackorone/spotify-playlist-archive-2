@@ -4,7 +4,7 @@
 
 > This is Danny Ocean\. The essential tracks, all in one playlist.
 
-106 songs - 5 hr 17 min
+107 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [SI ES AMOR](https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [@dannocean](https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA) | 3:32 | 2023-11-10 |  |
 | [Si no no](https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 2:29 | 2024-05-05 |  |
 | [Si no no \- Sped Up](https://open.spotify.com/track/1FP4PNU2kALF0Mo6wTyD0h) | [High and Low HITS](https://open.spotify.com/artist/5Yx5W4EetQuOwbvHrCFL9Y), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Si no no \(Sped Up\)](https://open.spotify.com/album/5iX82sKziuE48Rz6W1QESm) | 2:01 | 2024-05-27 | 2024-05-28 |
+| [Si tú supieras…](https://open.spotify.com/track/6aPlrDbqDmON1KAkUn4D6U) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [babylona blue](https://open.spotify.com/album/6Q4c6DexERmNLUyDeTj738) | 2:20 | 2026-06-22 |  |
 | [Sunshine](https://open.spotify.com/track/2uSNmomB97wZrIO7rGXteO) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Louis BPM](https://open.spotify.com/artist/54NBSkiOmMBEfacGfefPq0) | [Babylon Club](https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj) | 2:21 | 2025-08-04 | 2025-08-22 |
 | [Swing](https://open.spotify.com/track/4DbhxwlkhTbCTqlZptxmI6) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 2:35 | 2023-11-10 |  |
 | [Tauro y Piscis](https://open.spotify.com/track/0saR6zgPZPIDxVxujDX2Ah) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 2:24 | 2024-05-05 | 2025-08-04 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-693 songs - 1 day 23 hr 52 min
+694 songs - 1 day 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -490,8 +490,9 @@
 | [Safe Place From The Storm \- Radio Mix](https://open.spotify.com/track/783pbFxtjCh946QCVr75iw) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn), [Jon Gass](https://open.spotify.com/artist/7fkqSrrXRdljTJMdEjqlNQ) | [All That Matters](https://open.spotify.com/album/7IkFQ66wAlgoNTAKUyRXcw) | 5:20 | 2023-12-30 |  |
 | [Same Song](https://open.spotify.com/track/5STQsgq6o82sqKYfymtqe7) | [LaKisha Jones](https://open.spotify.com/artist/3lmeQnSYHi5KoLctIwMQXv) | [So Glad I'm Me \(Deluxe Version\)](https://open.spotify.com/album/2axCyrRo1yZC6fQDNmd8rG) | 4:09 | 2024-07-10 |  |
 | [Sanity](https://open.spotify.com/track/1SMBqiTr7Gl9Xz9xGBkPbr) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Kismet](https://open.spotify.com/album/6b5qQmB2IQBQULdHl73wtx) | 3:27 | 2023-12-30 |  |
-| [Sarai qui](https://open.spotify.com/track/3p0tUvqwfaypMhK6wVcjKl) | [Alessandro Safina](https://open.spotify.com/artist/5ITJs06INM9JWxK5hROEj3), [Sarah Brightman](https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5) | [Dedicated](https://open.spotify.com/album/7F6JXUZ6PEaz53NbFrVMDv) | 3:57 | 2025-08-01 |  |
+| [Sarai qui](https://open.spotify.com/track/3p0tUvqwfaypMhK6wVcjKl) | [Alessandro Safina](https://open.spotify.com/artist/5ITJs06INM9JWxK5hROEj3), [Sarah Brightman](https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5) | [Dedicated](https://open.spotify.com/album/7F6JXUZ6PEaz53NbFrVMDv) | 3:57 | 2025-08-01 | 2026-06-22 |
 | [Sarai qui](https://open.spotify.com/track/6AkxMe1ehIPWBSZCY0IN5a) | [Alessandro Safina](https://open.spotify.com/artist/5ITJs06INM9JWxK5hROEj3), [Sarah Brightman](https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5) | [Dedicated](https://open.spotify.com/album/79QhSwjbypSQbOchP0zm0s) | 3:57 | 2023-12-30 | 2025-08-02 |
+| [Sarai Qui](https://open.spotify.com/track/0kTUjdmpjFJZWEfzCRVv9B) | [Sarah Brightman](https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5), [Alessandro Safina](https://open.spotify.com/artist/5ITJs06INM9JWxK5hROEj3) | [Symphony](https://open.spotify.com/album/7BclonSaXZr4X2ThvUWaeS) | 3:56 | 2026-06-21 |  |
 | [Satisfaction](https://open.spotify.com/track/7twfQ9tExZor0CaC3FogKj) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [Self Control](https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D) | 3:52 | 2023-12-30 | 2024-09-13 |
 | [Save Me](https://open.spotify.com/track/4Cg6KyUuFSzfMcZ6n7MN93) | [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [Bitterblue](https://open.spotify.com/album/1v5QM7InRItBLO6JjrtigN) | 4:07 | 2023-12-30 |  |
 | [Save Me Tonight](https://open.spotify.com/track/18T30dIaan4ETXksSfpCJQ) | [Mick Jones](https://open.spotify.com/artist/7zQmORVNaWz1cW1KJB2cTX) | [Mick Jones](https://open.spotify.com/album/5geCRg9dV7n6cYTtVtbtr0) | 3:51 | 2023-12-30 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 601004,
+  "num_followers": 601065,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2026-05-29 04:00:58",
       "album": {
-        "name": "Experience (Solo Piano)",
-        "url": "https://open.spotify.com/album/3Z7ioqwupmWCZx5hzWzbom"
-      },
-      "artists": [
-        {
-          "name": "Ludovico Einaudi",
-          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
-        }
-      ],
-      "duration_ms": 307202,
-      "name": "Experience - Solo Piano",
-      "url": "https://open.spotify.com/track/5U87k9mIyu2sGQppcqV4Dw"
-    },
-    {
-      "added_at": "2026-05-29 04:00:58",
-      "album": {
         "name": "Lullabies for Mila",
         "url": "https://open.spotify.com/album/7DfeNcn4aBR5eimaq9imOx"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 220773,
       "name": "Lyric Pieces, Book 5, Op. 54: Nocturne",
       "url": "https://open.spotify.com/track/2GJFu2G9fhaYFrOoX9bejs"
+    },
+    {
+      "added_at": "2026-05-29 04:00:58",
+      "album": {
+        "name": "Experience (Solo Piano)",
+        "url": "https://open.spotify.com/album/3Z7ioqwupmWCZx5hzWzbom"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        }
+      ],
+      "duration_ms": 307202,
+      "name": "Experience - Solo Piano",
+      "url": "https://open.spotify.com/track/5U87k9mIyu2sGQppcqV4Dw"
     },
     {
       "added_at": "2026-05-29 04:00:58",
@@ -251,22 +251,6 @@
     {
       "added_at": "2026-05-29 04:00:58",
       "album": {
-        "name": "improvisation",
-        "url": "https://open.spotify.com/album/6YN6hrmHvrLewiHT4h7tRD"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 137775,
-      "name": "improvisation",
-      "url": "https://open.spotify.com/track/1BmSnDPeEgtI9lYp4resjj"
-    },
-    {
-      "added_at": "2026-05-29 04:00:58",
-      "album": {
         "name": "Mussorgsky: Pictures at an Exhibition - Expanded Edition",
         "url": "https://open.spotify.com/album/5kxCGK9XhXVD9AX9wje6om"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 136960,
       "name": "Polovetsian Dances from Prince Igor: Introduzione",
       "url": "https://open.spotify.com/track/1KeJxSvW6pLU1ieRfQOMca"
+    },
+    {
+      "added_at": "2026-05-29 04:00:58",
+      "album": {
+        "name": "improvisation",
+        "url": "https://open.spotify.com/album/6YN6hrmHvrLewiHT4h7tRD"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 137775,
+      "name": "improvisation",
+      "url": "https://open.spotify.com/track/1BmSnDPeEgtI9lYp4resjj"
     },
     {
       "added_at": "2026-05-29 04:00:58",
@@ -443,26 +443,6 @@
     {
       "added_at": "2026-05-29 04:00:58",
       "album": {
-        "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
-        "url": "https://open.spotify.com/album/2w6cYUhoQ1uZ26JMVz7Vdj"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Martin Stadtfeld",
-          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
-        }
-      ],
-      "duration_ms": 268002,
-      "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
-      "url": "https://open.spotify.com/track/3mYWVZeUiEHei3XwIsaxfI"
-    },
-    {
-      "added_at": "2026-05-29 04:00:58",
-      "album": {
         "name": "Bach/Busoni; Mendelssohn; Schubert/Liszt - Songs Without Words",
         "url": "https://open.spotify.com/album/0su0yxTZDCOxbdHNyfTKLt"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 194000,
       "name": "Lieder ohne Worte, Op. 19, No. 1",
       "url": "https://open.spotify.com/track/2ZoSiPSkWqz36Qqtl940zr"
+    },
+    {
+      "added_at": "2026-05-29 04:00:58",
+      "album": {
+        "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
+        "url": "https://open.spotify.com/album/2w6cYUhoQ1uZ26JMVz7Vdj"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Martin Stadtfeld",
+          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
+        }
+      ],
+      "duration_ms": 268002,
+      "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
+      "url": "https://open.spotify.com/track/3mYWVZeUiEHei3XwIsaxfI"
     },
     {
       "added_at": "2026-05-29 04:00:58",
@@ -711,6 +711,22 @@
     {
       "added_at": "2026-05-29 04:00:58",
       "album": {
+        "name": "Solon Islandus (Complete Works)",
+        "url": "https://open.spotify.com/album/6tfhwuXTsrLYu7BAB4MG65"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 162374,
+      "name": "Faded Leaves Fall",
+      "url": "https://open.spotify.com/track/6c8BkPhzkqPOb2wUZbBXSa"
+    },
+    {
+      "added_at": "2026-05-29 04:00:58",
+      "album": {
         "name": "Johann Sebastian Bach, Michel Richard Delalande, Henry Purcell, Antonio Vivaldi, Wolfgang Amadeus Mozart: L'Europe Musicale des XVII et XVII",
         "url": "https://open.spotify.com/album/0wzY6cMuHfuyJ0VRxxtAug"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 85000,
       "name": "Suite d'Abdelazer: or, the moor's revenge: Rondeau",
       "url": "https://open.spotify.com/track/1ZIFF4VPWGYA9OG3uYcFgI"
-    },
-    {
-      "added_at": "2026-05-29 04:00:58",
-      "album": {
-        "name": "Solon Islandus (Complete Works)",
-        "url": "https://open.spotify.com/album/6tfhwuXTsrLYu7BAB4MG65"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 162374,
-      "name": "Faded Leaves Fall",
-      "url": "https://open.spotify.com/track/6c8BkPhzkqPOb2wUZbBXSa"
     },
     {
       "added_at": "2026-05-29 04:00:58",
@@ -1967,26 +1967,30 @@
     {
       "added_at": "2026-05-29 04:00:58",
       "album": {
-        "name": "Vanhal: Symphonies, Vol. 3",
-        "url": "https://open.spotify.com/album/1gwIAPEe0zzLanZamBsQQ2"
+        "name": "Bruch, Brahms & Schubert: Chamber Works",
+        "url": "https://open.spotify.com/album/7opugbzWAHbl5FKUZGjzgz"
       },
       "artists": [
         {
-          "name": "Johann Baptist Vanhal",
-          "url": "https://open.spotify.com/artist/0dzul8iKQZ52HPrqk41Ij6"
+          "name": "Max Bruch",
+          "url": "https://open.spotify.com/artist/0521x50ZcNqqT1fKMJg5c5"
         },
         {
-          "name": "Toronto Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/76mnXDnPlFWta9lUzGQnNC"
+          "name": "Natalia Lomeiko",
+          "url": "https://open.spotify.com/artist/0VRKTtCSFNvoGRjwt2Q7oG"
         },
         {
-          "name": "Kevin Mallon",
-          "url": "https://open.spotify.com/artist/6PwinjxhkFHQ9GqZjdBm3s"
+          "name": "Yuri Zhislin",
+          "url": "https://open.spotify.com/artist/73nyE5x0JnuIdIFckF1kNu"
+        },
+        {
+          "name": "Ivan Martin",
+          "url": "https://open.spotify.com/artist/6yZfmnuE5QB8HfxbQlYJNE"
         }
       ],
-      "duration_ms": 223493,
-      "name": "Symphony in C Minor, Bryan Cm2: II. Andante",
-      "url": "https://open.spotify.com/track/61BZ2UBzjv5i6AHadb18Lz"
+      "duration_ms": 159010,
+      "name": "8 Pieces, Op. 83 (Arr. for Violin, Viola & Piano): No. 2, Allegro con moto",
+      "url": "https://open.spotify.com/track/1xWTaBLkw6T758GCLXNubf"
     },
     {
       "added_at": "2026-05-29 04:00:58",
@@ -2007,6 +2011,30 @@
       "duration_ms": 199066,
       "name": "Mendelssohns Lieder, S. 547: Auf Flugeln des Gesanges (from Op. 34, No. 2)",
       "url": "https://open.spotify.com/track/3Mb9IoWbfxU27yEdxAUEDp"
+    },
+    {
+      "added_at": "2026-05-29 04:00:58",
+      "album": {
+        "name": "Vanhal: Symphonies, Vol. 3",
+        "url": "https://open.spotify.com/album/1gwIAPEe0zzLanZamBsQQ2"
+      },
+      "artists": [
+        {
+          "name": "Johann Baptist Vanhal",
+          "url": "https://open.spotify.com/artist/0dzul8iKQZ52HPrqk41Ij6"
+        },
+        {
+          "name": "Toronto Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/76mnXDnPlFWta9lUzGQnNC"
+        },
+        {
+          "name": "Kevin Mallon",
+          "url": "https://open.spotify.com/artist/6PwinjxhkFHQ9GqZjdBm3s"
+        }
+      ],
+      "duration_ms": 223493,
+      "name": "Symphony in C Minor, Bryan Cm2: II. Andante",
+      "url": "https://open.spotify.com/track/61BZ2UBzjv5i6AHadb18Lz"
     },
     {
       "added_at": "2026-05-29 04:00:58",
@@ -2047,30 +2075,6 @@
       "duration_ms": 376560,
       "name": "Sarabande et rigaudon, Op. 93: Sarabande",
       "url": "https://open.spotify.com/track/5KwqOPqGO04tDkpppNklad"
-    },
-    {
-      "added_at": "2026-05-29 04:00:58",
-      "album": {
-        "name": "Early One Morning",
-        "url": "https://open.spotify.com/album/4fYC3U6IjW0DrxgR06hWqe"
-      },
-      "artists": [
-        {
-          "name": "Oskar Merikanto",
-          "url": "https://open.spotify.com/artist/79AE2ZiBtN7Qbcbr5dGIwd"
-        },
-        {
-          "name": "Camerata Finlandia",
-          "url": "https://open.spotify.com/artist/5d50sz80VdFchQOw37sZ5w"
-        },
-        {
-          "name": "Jorma Panula",
-          "url": "https://open.spotify.com/artist/6F5qpnsKmlsYVbh8iB4TCi"
-        }
-      ],
-      "duration_ms": 78066,
-      "name": "Kesaillan idylli (Summer Night's Idyll), Op. 16, No. 2: Kesaillan idylli [Summer Night's Idyll] , Op. 16, No. 2 [arr. J. Panula]",
-      "url": "https://open.spotify.com/track/2Y9DRm38cPNvXQn1sJ8Tnw"
     }
   ],
   "unique_name": "Classical Focus",

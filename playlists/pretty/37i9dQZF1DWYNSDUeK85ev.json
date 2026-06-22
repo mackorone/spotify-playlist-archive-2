@@ -1,6 +1,6 @@
 {
   "description": "La playlist que prende la fiesta.",
-  "num_followers": 696801,
+  "num_followers": 696818,
   "original_name": "Joda",
   "owner": {
     "name": "Spotify",
@@ -811,30 +811,18 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
-        "name": "Pistola Remix",
-        "url": "https://open.spotify.com/album/5uvaIwoUvjtR3wETfwB95T"
+        "name": "La Champions Liga",
+        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
       },
       "artists": [
         {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "DT.Bilardo",
-          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
-        },
-        {
-          "name": "El Mas Ladron",
-          "url": "https://open.spotify.com/artist/1M1s4ofh9rBEBWhyYsXAcn"
-        },
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+          "name": "La Champions Liga",
+          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
         }
       ],
-      "duration_ms": 136806,
-      "name": "Pistola Remix",
-      "url": "https://open.spotify.com/track/10cA6m379GINGe7ZF6g3q1"
+      "duration_ms": 127973,
+      "name": "Dime si eres feliz",
+      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
     },
     {
       "added_at": "2026-06-19 03:00:21",
@@ -879,18 +867,30 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
-        "name": "La Champions Liga",
-        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
+        "name": "Pistola Remix",
+        "url": "https://open.spotify.com/album/5uvaIwoUvjtR3wETfwB95T"
       },
       "artists": [
         {
-          "name": "La Champions Liga",
-          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        },
+        {
+          "name": "El Mas Ladron",
+          "url": "https://open.spotify.com/artist/1M1s4ofh9rBEBWhyYsXAcn"
+        },
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
         }
       ],
-      "duration_ms": 127973,
-      "name": "Dime si eres feliz",
-      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
+      "duration_ms": 136806,
+      "name": "Pistola Remix",
+      "url": "https://open.spotify.com/track/10cA6m379GINGe7ZF6g3q1"
     },
     {
       "added_at": "2026-06-19 03:00:21",
@@ -1571,6 +1571,26 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
+        "name": "Te Vas - Guaracha",
+        "url": "https://open.spotify.com/album/4kupmdYVj25p0q3PZWVTCV"
+      },
+      "artists": [
+        {
+          "name": "DJ Cuba",
+          "url": "https://open.spotify.com/artist/185gdgGAP7g2lZX9dVFDaE"
+        },
+        {
+          "name": "Pity DJ",
+          "url": "https://open.spotify.com/artist/5g97L1SY9pc0tHrgvDG29a"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "Te Vas - Guaracha",
+      "url": "https://open.spotify.com/track/7amwHhFhSdeDbeNtSllcsP"
+    },
+    {
+      "added_at": "2026-06-19 03:00:21",
+      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/7vMcapwZDRheyqRiuxhGFU"
       },
@@ -1591,26 +1611,6 @@
       "duration_ms": 154624,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/4KlrEwjhXnHLtmKauxVHJz"
-    },
-    {
-      "added_at": "2026-06-19 03:00:21",
-      "album": {
-        "name": "Te Vas - Guaracha",
-        "url": "https://open.spotify.com/album/4kupmdYVj25p0q3PZWVTCV"
-      },
-      "artists": [
-        {
-          "name": "DJ Cuba",
-          "url": "https://open.spotify.com/artist/185gdgGAP7g2lZX9dVFDaE"
-        },
-        {
-          "name": "Pity DJ",
-          "url": "https://open.spotify.com/artist/5g97L1SY9pc0tHrgvDG29a"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "Te Vas - Guaracha",
-      "url": "https://open.spotify.com/track/7amwHhFhSdeDbeNtSllcsP"
     },
     {
       "added_at": "2026-06-19 03:00:21",
@@ -1683,26 +1683,6 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
-        "name": "Kaleb Di Masi: RKT SESSION #4",
-        "url": "https://open.spotify.com/album/5u8hNZSa0vta5X8bVWtD5H"
-      },
-      "artists": [
-        {
-          "name": "Papu DJ",
-          "url": "https://open.spotify.com/artist/1Z7q2glJYLsPpPoPIgBjdE"
-        },
-        {
-          "name": "Kaleb Di Masi",
-          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
-        }
-      ],
-      "duration_ms": 205234,
-      "name": "Kaleb Di Masi: RKT SESSION #4",
-      "url": "https://open.spotify.com/track/6tHv7TJRAIazETTRMaqSzV"
-    },
-    {
-      "added_at": "2026-06-19 03:00:21",
-      "album": {
         "name": "Obsesion (Guaracha)",
         "url": "https://open.spotify.com/album/26qDBQFOm6EJJbIetZIIHb"
       },
@@ -1723,6 +1703,26 @@
       "duration_ms": 107460,
       "name": "Obsesion (Guaracha)",
       "url": "https://open.spotify.com/track/2QTKoIZKP8Y8pmisdmFx89"
+    },
+    {
+      "added_at": "2026-06-19 03:00:21",
+      "album": {
+        "name": "Kaleb Di Masi: RKT SESSION #4",
+        "url": "https://open.spotify.com/album/5u8hNZSa0vta5X8bVWtD5H"
+      },
+      "artists": [
+        {
+          "name": "Papu DJ",
+          "url": "https://open.spotify.com/artist/1Z7q2glJYLsPpPoPIgBjdE"
+        },
+        {
+          "name": "Kaleb Di Masi",
+          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
+        }
+      ],
+      "duration_ms": 205234,
+      "name": "Kaleb Di Masi: RKT SESSION #4",
+      "url": "https://open.spotify.com/track/6tHv7TJRAIazETTRMaqSzV"
     },
     {
       "added_at": "2026-06-19 03:00:21",

@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKk3TLwZn2ny.md) - [plain]
 | 38 | [Final Notice](https://open.spotify.com/track/2BQSzyr5tnLcnyQrK3Io7a) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Final Notice](https://open.spotify.com/album/4oJ8uRTGb6RXlyyTx5W3aW) | 2:59 |
 | 39 | [Say Cheese \(feat\. Elevator Jay\)](https://open.spotify.com/track/2sDXpPNots6fAZWa2sVl2G) | [Michael Christmas](https://open.spotify.com/artist/1POk07q5vJ4NcdOgkLyPzp), [Elevator Jay](https://open.spotify.com/artist/2JmhnB4HLAf3PjqmikkJrC) | [Say Cheese \(feat\. Elevator Jay\)](https://open.spotify.com/album/1BqlYDKcWfyj0vMPLRspqh) | 3:16 |
 | 40 | [Special One](https://open.spotify.com/track/3KwNz4zdzLdj6GUMWt0UqV) | [Yungen](https://open.spotify.com/artist/3ijd7T9kkzgvfx1az6Z3wj) | [Project Purple](https://open.spotify.com/album/4PLUrpYS9dQzPReNc5zkpg) | 3:37 |
-| 41 | [Walking Away](https://open.spotify.com/track/0ATBZJ1E0lkMC9oweBVLqa) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Lessons in Love](https://open.spotify.com/album/3t5VFTO58tnYpZVeJYGQhD) | 3:32 |
-| 42 | [Need You More](https://open.spotify.com/track/5P1oDdVOnO17KrB26DS5CC) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [What If?](https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5) | 2:42 |
+| 41 | [Need You More](https://open.spotify.com/track/5P1oDdVOnO17KrB26DS5CC) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [What If?](https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5) | 2:42 |
+| 42 | [Walking Away](https://open.spotify.com/track/0ATBZJ1E0lkMC9oweBVLqa) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Lessons in Love](https://open.spotify.com/album/3t5VFTO58tnYpZVeJYGQhD) | 3:32 |
 | 43 | [Dark Eyes](https://open.spotify.com/track/48nmwkCtOpkwx46cIoiZKW) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Dead Sweet](https://open.spotify.com/album/4VQdvEIuUSQsIVrRahezeH) | 2:52 |
 | 44 | [Countdown](https://open.spotify.com/track/5c12s5qzsC9tu9IwyMIUgi) | [Salle](https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf) | [Countdown](https://open.spotify.com/album/7LInTNKbSTA1j8wCk2hT48) | 2:20 |
 | 45 | [Fix My Lonely](https://open.spotify.com/track/6QlUoc2IFZO9iAMnRxVJHl) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x) | [Symptoms Of A Teen](https://open.spotify.com/album/32HZ71X3o8JgNmYxSb8f1W) | 3:01 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKk3TLwZn2ny.md) - [plain]
 | 68 | [Cherryade](https://open.spotify.com/track/4THRgFPO27hQxYi672AI8q) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [JD\. REID](https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ) | [Dead Sweet](https://open.spotify.com/album/4VQdvEIuUSQsIVrRahezeH) | 3:19 |
 | 69 | [Loose](https://open.spotify.com/track/5XNK0HZfoTf7hhivBgmeUh) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM) | [Loose \[ALT\]](https://open.spotify.com/album/6iE7hjTGriBjRuzCl2kOYS) | 2:58 |
 
-Snapshot ID: `AcUwkAAAAADcP7IgmqibpDwHF5cxBWTH`
+Snapshot ID: `AcU2WAAAAADgyaDSXY4pBZg+TGBxldAK`

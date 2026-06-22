@@ -1,12 +1,12 @@
 {
   "description": "Hardstyle in het Nederlands. Feest!",
-  "num_followers": 88246,
+  "num_followers": 88275,
   "original_name": "Nederlandse Hardstyle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEJZ42NEFpgc0mSo+JSgDLJdWzb3",
+  "snapshot_id": "AAAAAM3YTxbxWQ1rLjDu1Z80zgbVzUeI",
   "tracks": [
     {
       "added_at": "2026-06-11 22:00:25",
@@ -651,6 +651,26 @@
     {
       "added_at": "2026-06-11 22:00:25",
       "album": {
+        "name": "Naar de Klote",
+        "url": "https://open.spotify.com/album/2g7jh6kFGHmykld5fia8Oy"
+      },
+      "artists": [
+        {
+          "name": "Barry Fest",
+          "url": "https://open.spotify.com/artist/3kH0MXsr8tprp65VGOuMTY"
+        },
+        {
+          "name": "Hak op de Tak",
+          "url": "https://open.spotify.com/artist/4N4zllt2MXplNv5tciBn9e"
+        }
+      ],
+      "duration_ms": 209600,
+      "name": "Naar de Klote",
+      "url": "https://open.spotify.com/track/4CRLvmPuOAPxhSqbsJLUfH"
+    },
+    {
+      "added_at": "2026-06-11 22:00:25",
+      "album": {
         "name": "Chaos",
         "url": "https://open.spotify.com/album/7HLaSZwK4sheOVJNg12hC6"
       },
@@ -671,26 +691,6 @@
       "duration_ms": 154064,
       "name": "Chaos",
       "url": "https://open.spotify.com/track/2YeN5MsDe24lWB40Vx4wNN"
-    },
-    {
-      "added_at": "2026-06-11 22:00:25",
-      "album": {
-        "name": "Naar de Klote",
-        "url": "https://open.spotify.com/album/2g7jh6kFGHmykld5fia8Oy"
-      },
-      "artists": [
-        {
-          "name": "Barry Fest",
-          "url": "https://open.spotify.com/artist/3kH0MXsr8tprp65VGOuMTY"
-        },
-        {
-          "name": "Hak op de Tak",
-          "url": "https://open.spotify.com/artist/4N4zllt2MXplNv5tciBn9e"
-        }
-      ],
-      "duration_ms": 209600,
-      "name": "Naar de Klote",
-      "url": "https://open.spotify.com/track/4CRLvmPuOAPxhSqbsJLUfH"
     },
     {
       "added_at": "2026-06-11 22:00:25",
@@ -827,6 +827,26 @@
     {
       "added_at": "2026-06-11 22:00:25",
       "album": {
+        "name": "Het Is Een Nacht (Total Loss Remix)",
+        "url": "https://open.spotify.com/album/3xUfmOr4zK9Q5KdoIxC1V3"
+      },
+      "artists": [
+        {
+          "name": "Arjon Oostrom",
+          "url": "https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb"
+        },
+        {
+          "name": "Dr Rude",
+          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
+        }
+      ],
+      "duration_ms": 257202,
+      "name": "Het Is Een Nacht - Total Loss Remix",
+      "url": "https://open.spotify.com/track/7F17y60qAsDiOmWj5XZOhQ"
+    },
+    {
+      "added_at": "2026-06-11 22:00:25",
+      "album": {
         "name": "In Mijn Bloed (feat. Eelco)",
         "url": "https://open.spotify.com/album/58J28k6uKH7deW2yBxs5w9"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 191174,
       "name": "In Mijn Bloed (feat. Eelco)",
       "url": "https://open.spotify.com/track/0wzj3pDbsajHGuTeVWrpxE"
-    },
-    {
-      "added_at": "2026-06-11 22:00:25",
-      "album": {
-        "name": "Het Is Een Nacht (Total Loss Remix)",
-        "url": "https://open.spotify.com/album/3xUfmOr4zK9Q5KdoIxC1V3"
-      },
-      "artists": [
-        {
-          "name": "Arjon Oostrom",
-          "url": "https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb"
-        },
-        {
-          "name": "Dr Rude",
-          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
-        }
-      ],
-      "duration_ms": 257202,
-      "name": "Het Is Een Nacht - Total Loss Remix",
-      "url": "https://open.spotify.com/track/7F17y60qAsDiOmWj5XZOhQ"
     },
     {
       "added_at": "2026-06-11 22:00:25",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 70's! Cover: Rob de Nijs
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,482 likes - 60 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,492 likes - 60 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 | 3 | [Jimmy \- Originele Studio Versie](https://open.spotify.com/track/10qcJkRx2MVqnAVKtBquS6) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Hoe Sterk Is De Eenzame Fietser](https://open.spotify.com/album/43GWGeGchyR7Td3pkK2HRG) | 3:56 |
 | 4 | [Jan Klaassen De Trompetter](https://open.spotify.com/track/1ebr7FJjtFRM3hq1qBXoT3) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [In De Uren Van De Middag \(Expanded Edition\)](https://open.spotify.com/album/1HYy0T6EbZVJR2ioeTVRrg) | 3:12 |
 | 5 | [Voor Haar](https://open.spotify.com/track/5qKdMteVok1Rog4vIKz75q) | [Frans Halsema](https://open.spotify.com/artist/6AppB7gke4WXNRhtlTdSJy) | [Frans Halsema 1939\-1984](https://open.spotify.com/album/0440RuDjeEIRAo5bwADBav) | 2:52 |
-| 6 | [Laat Me Alleen](https://open.spotify.com/track/1Z3Ns97nNVgXWGsgwOOQKG) | [Rita Hovink](https://open.spotify.com/artist/7blaRp95WUYbzLU6wXO87m) | [Laat Me Alleen \- 16 Onvergetelijke Liedjes](https://open.spotify.com/album/6RBetjOqVEFWiaMePJCzIf) | 4:41 |
-| 7 | [Het Dorp \- Single Version](https://open.spotify.com/track/60B0BFGuCb5w1aCYmxfwKs) | [Wim Sonneveld](https://open.spotify.com/artist/6PeXy9NJcXE6CUH12YsboM) | [Liedjes 3 & 4 \- Wim Sonneveld](https://open.spotify.com/album/4PlaU7rWKNmjsM28mvM7a3) | 3:14 |
+| 6 | [Het Dorp \- Single Version](https://open.spotify.com/track/60B0BFGuCb5w1aCYmxfwKs) | [Wim Sonneveld](https://open.spotify.com/artist/6PeXy9NJcXE6CUH12YsboM) | [Liedjes 3 & 4 \- Wim Sonneveld](https://open.spotify.com/album/4PlaU7rWKNmjsM28mvM7a3) | 3:14 |
+| 7 | [Laat Me Alleen](https://open.spotify.com/track/1Z3Ns97nNVgXWGsgwOOQKG) | [Rita Hovink](https://open.spotify.com/artist/7blaRp95WUYbzLU6wXO87m) | [Laat Me Alleen \- 16 Onvergetelijke Liedjes](https://open.spotify.com/album/6RBetjOqVEFWiaMePJCzIf) | 4:41 |
 | 8 | [Zing \- Vecht \- Huil \- Bid \- Lach \- Werk en Bewonder](https://open.spotify.com/track/6WSFHH1ReDQoeT7bUsufBo) | [Ramses Shaffy](https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4) | [De Top 10 Van](https://open.spotify.com/album/2Nc13S1yJXsN9xFO3XJphl) | 4:41 |
 | 9 | [Manuela](https://open.spotify.com/track/5wwi3PFLF74ifd5yDmNRph) | [Jacques Herb](https://open.spotify.com/artist/3say7qPpfTJlo8bxcpHQkc) | [Jacques Herb](https://open.spotify.com/album/2dnBP1VFcWr4S7l6QWEOlO) | 4:59 |
 | 10 | [Als De Rook Om Je Hoofd Is Verdwenen](https://open.spotify.com/track/2jpptvSaztyVA95fvLq5O9) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Het Beste Van Boudewijn De Groot](https://open.spotify.com/album/3jQCW6iuKAnDYZN9j67eiD) | 3:24 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 | 35 | [Meisjes Met Rode Haren](https://open.spotify.com/track/5NKXshbPQekjqoR2l3Q6JZ) | [Arne Jansen](https://open.spotify.com/artist/0JvAQH3pfJAvEL8cAd6TSe) | [Zijn Allergrootste Hits](https://open.spotify.com/album/6SlNC7rFjsx0BKszgslACL) | 5:35 |
 | 36 | [Zomerzon](https://open.spotify.com/track/3TYZ9VnkrOZt1rcWiRd5uz) | [De Makkers](https://open.spotify.com/artist/6cS8yBmSD1NLa0kzAmLwnl) | [Zomerzon / Als Je Zorgen Hebt](https://open.spotify.com/album/7vKLxVV6e4uXMoCurAjKBM) | 3:42 |
 | 37 | [Angelique](https://open.spotify.com/track/78lbU2qP55R0rqqSebur4p) | [André van Duin](https://open.spotify.com/artist/1G2QbSM5dLTtqeZHYnxXsF) | [André van Duin](https://open.spotify.com/album/7xDv53IspICoxPuySv8OVh) | 2:14 |
-| 38 | [Morgen Ben Ik De Bruid](https://open.spotify.com/track/78cz0SmR2T67fHKdhGdtfx) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 3:20 |
-| 39 | [Brandend Zand](https://open.spotify.com/track/31ZmFDuJqMAaH30JBetArW) | [Gert Timmerman](https://open.spotify.com/artist/0TtfbvSVlFBeYI3uEEWPlC), [Gert & Hermien](https://open.spotify.com/artist/40JZ4PcqTsMqvVWLi0OaOP) | [Brandend Zand](https://open.spotify.com/album/7H0qBQQweMzWTOnQ1YRFM7) | 3:23 |
+| 38 | [Brandend Zand](https://open.spotify.com/track/31ZmFDuJqMAaH30JBetArW) | [Gert Timmerman](https://open.spotify.com/artist/0TtfbvSVlFBeYI3uEEWPlC), [Gert & Hermien](https://open.spotify.com/artist/40JZ4PcqTsMqvVWLi0OaOP) | [Brandend Zand](https://open.spotify.com/album/7H0qBQQweMzWTOnQ1YRFM7) | 3:23 |
+| 39 | [Morgen Ben Ik De Bruid](https://open.spotify.com/track/78cz0SmR2T67fHKdhGdtfx) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 3:20 |
 | 40 | [Kom Van Dat Dak Af](https://open.spotify.com/track/1q8BkBdleysfnUhxISo489) | [Peter Koelewijn](https://open.spotify.com/artist/3oavnC2N25caTse16Gj8HR) | [De Mooiste Liedjes, Vol.1](https://open.spotify.com/album/5oZZQ6gRnhBlBDrrvVDPQA) | 2:36 |
 | 41 | [Te Veel, Te Vaak](https://open.spotify.com/track/21akKWbeYAd1HPzMUGMvMg) | [Liesbeth List](https://open.spotify.com/artist/4x9b95tQANyGxHLQzWN0If) | [100 Mooiste Liedjes van Ramses en Liesbeth](https://open.spotify.com/album/0Yj16bjpuUz4sLggLn8XFR) | 3:42 |
 | 42 | [Voor Niets](https://open.spotify.com/track/4XF8lgqdTfxQGrc0EUkDyp) | [Bob Bouber](https://open.spotify.com/artist/4v3HGAZZfMeK9ueNgZpxEW) | [Voor Niets](https://open.spotify.com/album/2z6fKrPNXv57GE6KqaxHmY) | 3:20 |

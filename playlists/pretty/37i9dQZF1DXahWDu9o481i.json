@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Alvaro Diaz",
-  "num_followers": 102019,
+  "num_followers": 102023,
   "original_name": "Editors' Picks: Best Songs of May",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2026-06-01 05:00:24",
       "album": {
+        "name": "Mad About It",
+        "url": "https://open.spotify.com/album/4VjiPFf4esJ94jdP6DYtfR"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "duration_ms": 157008,
+      "name": "Mad About It",
+      "url": "https://open.spotify.com/track/6npl3kyUizb2JQWv0c6G8o"
+    },
+    {
+      "added_at": "2026-06-01 05:00:24",
+      "album": {
         "name": "Smoke",
         "url": "https://open.spotify.com/album/5NZawJNAy7ntRWNKlArhOe"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 150653,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/2KFJYXqd3fVEHfWSNhlTEp"
-    },
-    {
-      "added_at": "2026-06-01 05:00:24",
-      "album": {
-        "name": "Mad About It",
-        "url": "https://open.spotify.com/album/4VjiPFf4esJ94jdP6DYtfR"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        }
-      ],
-      "duration_ms": 157008,
-      "name": "Mad About It",
-      "url": "https://open.spotify.com/track/6npl3kyUizb2JQWv0c6G8o"
     },
     {
       "added_at": "2026-06-01 05:00:24",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-06-01 05:00:24",
       "album": {
-        "name": "Run away with me",
-        "url": "https://open.spotify.com/album/2ZOVj0KkuAxyKh9Dxonjof"
-      },
-      "artists": [
-        {
-          "name": "breakkaway",
-          "url": "https://open.spotify.com/artist/5z5HaEaQY18oRwCuIXf826"
-        }
-      ],
-      "duration_ms": 238500,
-      "name": "Run away with me",
-      "url": "https://open.spotify.com/track/6LT3c2tVapQRzHQSne8gYI"
-    },
-    {
-      "added_at": "2026-06-01 05:00:24",
-      "album": {
         "name": "Free Wheeling",
         "url": "https://open.spotify.com/album/2mRgxy62xHxJDtNMGB7mx3"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 229592,
       "name": "Free Wheeling",
       "url": "https://open.spotify.com/track/43DKVQnMysID1lXOaHqG9n"
+    },
+    {
+      "added_at": "2026-06-01 05:00:24",
+      "album": {
+        "name": "Run away with me",
+        "url": "https://open.spotify.com/album/2ZOVj0KkuAxyKh9Dxonjof"
+      },
+      "artists": [
+        {
+          "name": "breakkaway",
+          "url": "https://open.spotify.com/artist/5z5HaEaQY18oRwCuIXf826"
+        }
+      ],
+      "duration_ms": 238500,
+      "name": "Run away with me",
+      "url": "https://open.spotify.com/track/6LT3c2tVapQRzHQSne8gYI"
     },
     {
       "added_at": "2026-06-01 05:00:24",
@@ -659,6 +659,26 @@
       "duration_ms": 223425,
       "name": "Daisies",
       "url": "https://open.spotify.com/track/4q0uQNqaIchPOgvhODEsnG"
+    },
+    {
+      "added_at": "2026-06-01 05:00:24",
+      "album": {
+        "name": "Antes De Ti",
+        "url": "https://open.spotify.com/album/4oenvaL2jFacESPIFH4rBF"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        },
+        {
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+        }
+      ],
+      "duration_ms": 176580,
+      "name": "Antes De Ti",
+      "url": "https://open.spotify.com/track/6zpMOUVDo9fpT37BLywSPl"
     },
     {
       "added_at": "2026-06-01 05:00:24",
@@ -707,22 +727,18 @@
     {
       "added_at": "2026-06-01 05:00:24",
       "album": {
-        "name": "Antes De Ti",
-        "url": "https://open.spotify.com/album/4oenvaL2jFacESPIFH4rBF"
+        "name": "New Muscles",
+        "url": "https://open.spotify.com/album/2N2LCCVDf8LDxolIYNAK3J"
       },
       "artists": [
         {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        },
-        {
-          "name": "pablopablo",
-          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
         }
       ],
-      "duration_ms": 176580,
-      "name": "Antes De Ti",
-      "url": "https://open.spotify.com/track/6zpMOUVDo9fpT37BLywSPl"
+      "duration_ms": 234236,
+      "name": "New Muscles",
+      "url": "https://open.spotify.com/track/4i1PwZv3CJ4CV0vEZ69rzE"
     },
     {
       "added_at": "2026-06-01 05:00:24",
@@ -755,22 +771,6 @@
       "duration_ms": 243760,
       "name": "Dancing On The Wall",
       "url": "https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp"
-    },
-    {
-      "added_at": "2026-06-01 05:00:24",
-      "album": {
-        "name": "New Muscles",
-        "url": "https://open.spotify.com/album/2N2LCCVDf8LDxolIYNAK3J"
-      },
-      "artists": [
-        {
-          "name": "mary in the junkyard",
-          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
-        }
-      ],
-      "duration_ms": 234236,
-      "name": "New Muscles",
-      "url": "https://open.spotify.com/track/4i1PwZv3CJ4CV0vEZ69rzE"
     },
     {
       "added_at": "2026-06-01 05:00:24",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAAAItSBnTdV51VpqH69ILXs/",
+  "snapshot_id": "ajXYAAAAAAAqifz3h3PuXrthwUZotwC4",
   "tracks": [
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Last Word",
-        "url": "https://open.spotify.com/album/1J7BPFUS7fzCkG4rc4AQQt"
+        "name": "My Favorite Person",
+        "url": "https://open.spotify.com/album/6inkUk39Y7bzsJuQtCDCya"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
         }
       ],
-      "duration_ms": 249229,
-      "name": "Start Stoppin'",
-      "url": "https://open.spotify.com/track/43X4A9MxKCrPUSie2SZuuT"
+      "duration_ms": 255733,
+      "name": "My Favorite Person",
+      "url": "https://open.spotify.com/track/5o6oXm9EqlIU9OtfSu1gCy"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Last Word",
+        "url": "https://open.spotify.com/album/1J7BPFUS7fzCkG4rc4AQQt"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 249229,
+      "name": "Start Stoppin'",
+      "url": "https://open.spotify.com/track/43X4A9MxKCrPUSie2SZuuT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Survival",
         "url": "https://open.spotify.com/album/1fOZphC5VkWPwhX4X5OuAb"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 222026,
       "name": "Survival",
       "url": "https://open.spotify.com/track/00ihnchhdgnad1IZSKrM3X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Favorite Person",
-        "url": "https://open.spotify.com/album/6inkUk39Y7bzsJuQtCDCya"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 255733,
-      "name": "My Favorite Person",
-      "url": "https://open.spotify.com/track/5o6oXm9EqlIU9OtfSu1gCy"
     },
     {
       "added_at": null,

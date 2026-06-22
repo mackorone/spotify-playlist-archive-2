@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Oğuzhan Koç
 
-615 songs - 1 day 7 hr 12 min
+616 songs - 1 day 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Defterli](https://open.spotify.com/track/0t7SfyrCjUzh8A7gRZ6gaK) | [Bengü Beker](https://open.spotify.com/artist/3D1JNJeLVPBmwhCbyqlTHW) | [Defterli](https://open.spotify.com/album/0ukCUTo9LZNu6avurHhlRz) | 3:56 | 2024-06-27 | 2024-11-01 |
 | [Deli Gibi Seviyorum](https://open.spotify.com/track/5XxrX23t1iTDbHYCVqgXRJ) | [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Deli Gibi Seviyorum](https://open.spotify.com/album/4essjMvGbfxJXi6U4WyS6r) | 2:12 | 2024-10-24 | 2024-12-22 |
 | [Deli Yangınım](https://open.spotify.com/track/2dWy6kY5UjAMxowgLylmBa) | [Emrah Karaduman](https://open.spotify.com/artist/7FvMAbdiffitFmbuJN3Vsk), [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Deli Yangınım](https://open.spotify.com/album/4E0WzArTNydcJl0ehDCxTm) | 3:45 | 2024-12-19 | 2025-11-11 |
+| [Delikanlım \- Live](https://open.spotify.com/track/6JhH7wWNy5MX6VrHIgTitQ) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm) | [Delikanlım \(Live\)](https://open.spotify.com/album/4nF8sJ3IuapgSwJJIXLjWa) | 5:37 | 2026-06-18 |  |
 | [Delil](https://open.spotify.com/track/6FBtVmBv2LciEc7o02CmF5) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Delil](https://open.spotify.com/album/0aQQsIQHfZLR1lHk5xA4NH) | 2:22 | 2024-06-27 | 2024-08-05 |
 | [Denizler Derya](https://open.spotify.com/track/0QfeYJR33agZbEk1IKaaKk) | [Yasir Miy](https://open.spotify.com/artist/2FxIS6uj3aDXwHBU1Y2mBW), [Batuhan Kordel](https://open.spotify.com/artist/53GzfAvawfKb966INeFp18) | [Denizler Derya](https://open.spotify.com/album/2GkdmyUO37FrB3ia4XAbVX) | 4:10 | 2024-08-08 | 2024-08-23 |
 | [Derbeder](https://open.spotify.com/track/6OATjzm4jOcPr2JaTELCUQ) | [Emre Şakar](https://open.spotify.com/artist/0rdwmnIhNkunUZvqAIU0Kh) | [Derbeder](https://open.spotify.com/album/2ZDnY4BVepv4dT3AuZmDBk) | 2:23 | 2024-09-05 | 2024-09-13 |
@@ -375,7 +376,7 @@
 | [Mavi Boncuk](https://open.spotify.com/track/30jTzuGmvdEEGyslBTTAcK) | [Ceylin Arslan](https://open.spotify.com/artist/1WQSj0aNrCPWRw7zf1PYcw) | [Mavi Boncuk](https://open.spotify.com/album/4Hs7lpH4O30GL6im3efQmL) | 2:34 | 2025-11-13 | 2025-11-28 |
 | [Max](https://open.spotify.com/track/7lRMajzI2xa34EQg2SKecS) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Max](https://open.spotify.com/album/30xEU4sNXkYHvtSIiM8uUV) | 3:49 | 2025-05-27 | 2025-09-06 |
 | [Mağlup](https://open.spotify.com/track/2YZdLhFIIODNxeVtVy4qLC) | [Çağan Şengül](https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw) | [Mağlup](https://open.spotify.com/album/19JJCx7HlJEhhW3oVwphxI) | 2:40 | 2024-11-07 | 2025-01-20 |
-| [MAŞALLAH](https://open.spotify.com/track/2qzQNdEUKc9ntvASZgsAo3) | [Doğukan Sarıtaş](https://open.spotify.com/artist/530b8gZ5AZjVYeJwQGdSeC), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [MAŞALLAH](https://open.spotify.com/album/40PaLTeBPPMSHQszHIt6ON) | 2:17 | 2025-06-26 |  |
+| [MAŞALLAH](https://open.spotify.com/track/2qzQNdEUKc9ntvASZgsAo3) | [Doğukan Sarıtaş](https://open.spotify.com/artist/530b8gZ5AZjVYeJwQGdSeC), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [MAŞALLAH](https://open.spotify.com/album/40PaLTeBPPMSHQszHIt6ON) | 2:17 | 2025-06-26 | 2026-06-22 |
 | [Mecnun](https://open.spotify.com/track/7pvJS491DvAF634AxRGUZG) | [Siyam](https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo) | [Mecnun](https://open.spotify.com/album/2zwLL93kAc8TwamDzSocET) | 2:28 | 2024-11-21 | 2025-03-05 |
 | [Meleğim](https://open.spotify.com/track/6qjpvoOyxCl2DoLalk1DBV) | [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Meleğim](https://open.spotify.com/album/444lQ55RAdFaSf4CQLb0i7) | 2:45 | 2024-07-25 | 2024-08-28 |
 | [Mesafeler](https://open.spotify.com/track/0g1yZORNiAs4BjQiPFwQdO) | [Murat Dalkılıç](https://open.spotify.com/artist/6dDaXbE1caD65TONToYXYx) | [O](https://open.spotify.com/album/3JhaX44hysxWDeLtyqxBpq) | 2:46 | 2025-07-17 | 2025-09-26 |

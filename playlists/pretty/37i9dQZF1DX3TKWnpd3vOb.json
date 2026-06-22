@@ -1,6 +1,6 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Los Tres",
-  "num_followers": 186073,
+  "num_followers": 186059,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
-        "name": "Bien",
-        "url": "https://open.spotify.com/album/0nWFCj8PtvoSWJpmlhRrSs"
-      },
-      "artists": [
-        {
-          "name": "99 Payasos",
-          "url": "https://open.spotify.com/artist/2WSHIN9bs2GkKpPCaRz23c"
-        }
-      ],
-      "duration_ms": 177487,
-      "name": "Bien",
-      "url": "https://open.spotify.com/track/0pMmpEaKdAJnu3RWxWDw6B"
-    },
-    {
-      "added_at": "2026-04-10 19:32:23",
-      "album": {
         "name": "Rocanrol de los Misterios",
         "url": "https://open.spotify.com/album/4oQsoi5cEKYBVikVUjREua"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 259329,
       "name": "Rocanrol de los Misterios",
       "url": "https://open.spotify.com/track/3xUxTxWrERgq8p6XpUfRaO"
+    },
+    {
+      "added_at": "2026-04-10 19:32:23",
+      "album": {
+        "name": "Bien",
+        "url": "https://open.spotify.com/album/0nWFCj8PtvoSWJpmlhRrSs"
+      },
+      "artists": [
+        {
+          "name": "99 Payasos",
+          "url": "https://open.spotify.com/artist/2WSHIN9bs2GkKpPCaRz23c"
+        }
+      ],
+      "duration_ms": 177487,
+      "name": "Bien",
+      "url": "https://open.spotify.com/track/0pMmpEaKdAJnu3RWxWDw6B"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
-        "name": "Un D\u00eda por Concepci\u00f3n",
-        "url": "https://open.spotify.com/album/5bh1wyxjcC5CzXjKo0eaTw"
-      },
-      "artists": [
-        {
-          "name": "Billy Norton",
-          "url": "https://open.spotify.com/artist/1UfRX7LoEjVtkiVgykLgCb"
-        }
-      ],
-      "duration_ms": 183484,
-      "name": "Un D\u00eda por Concepci\u00f3n",
-      "url": "https://open.spotify.com/track/4VhvatqWWBgHHwqJmFx8x2"
-    },
-    {
-      "added_at": "2026-04-10 19:32:23",
-      "album": {
         "name": "La vida mi vida se vive as\u00ed (Radio Edit)",
         "url": "https://open.spotify.com/album/6d8HeRuWTKAoDDWxzeoRGS"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 174683,
       "name": "La vida mi vida se vive as\u00ed - Radio Edit",
       "url": "https://open.spotify.com/track/4KiadmrJu0p0LYGPshd7kB"
+    },
+    {
+      "added_at": "2026-04-10 19:32:23",
+      "album": {
+        "name": "Un D\u00eda por Concepci\u00f3n",
+        "url": "https://open.spotify.com/album/5bh1wyxjcC5CzXjKo0eaTw"
+      },
+      "artists": [
+        {
+          "name": "Billy Norton",
+          "url": "https://open.spotify.com/artist/1UfRX7LoEjVtkiVgykLgCb"
+        }
+      ],
+      "duration_ms": 183484,
+      "name": "Un D\u00eda por Concepci\u00f3n",
+      "url": "https://open.spotify.com/track/4VhvatqWWBgHHwqJmFx8x2"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -687,6 +687,38 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
+        "name": "Esta Tarde Vi Llover",
+        "url": "https://open.spotify.com/album/68EfOoUKQD6O5ZvCvtDzOp"
+      },
+      "artists": [
+        {
+          "name": "Los Ex",
+          "url": "https://open.spotify.com/artist/4sWPy7Kj9RwdpAxe5onUhP"
+        }
+      ],
+      "duration_ms": 153991,
+      "name": "Esta Tarde Vi Llover",
+      "url": "https://open.spotify.com/track/2wpimO7JjiN8HuoW5caZ3F"
+    },
+    {
+      "added_at": "2026-04-10 19:32:23",
+      "album": {
+        "name": "Fantasmas",
+        "url": "https://open.spotify.com/album/6FIXBpcKzb14AXzKo9Tx9L"
+      },
+      "artists": [
+        {
+          "name": "BBS Paranoicos",
+          "url": "https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U"
+        }
+      ],
+      "duration_ms": 232457,
+      "name": "Fantasmas",
+      "url": "https://open.spotify.com/track/1uqgJz87jIFsYdHDCbmTgT"
+    },
+    {
+      "added_at": "2026-04-10 19:32:23",
+      "album": {
         "name": "Mar de nubes",
         "url": "https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q"
       },
@@ -699,6 +731,150 @@
       "duration_ms": 251000,
       "name": "Nuestra se\u00f1al",
       "url": "https://open.spotify.com/track/3JIy8mnMI0PvcrbCP9wMX3"
+    },
+    {
+      "added_at": "2026-04-10 19:32:23",
+      "album": {
+        "name": "All\u00ed Va",
+        "url": "https://open.spotify.com/album/4t8GmiNlKqpXlVcPJdvyT9"
+      },
+      "artists": [
+        {
+          "name": "Pettinellis",
+          "url": "https://open.spotify.com/artist/2UqwAwxVtnr9MyQ96yNoGD"
+        }
+      ],
+      "duration_ms": 153942,
+      "name": "All\u00ed Va",
+      "url": "https://open.spotify.com/track/7a4vF2iVE2BspL2yRy47nX"
+    },
+    {
+      "added_at": "2026-04-10 19:32:23",
+      "album": {
+        "name": "Hojas de T\u00e9 (2023)",
+        "url": "https://open.spotify.com/album/7FRwcTiH6qSLJ1qzsqUZRe"
+      },
+      "artists": [
+        {
+          "name": "Los Tres",
+          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
+        }
+      ],
+      "duration_ms": 209610,
+      "name": "Hojas de T\u00e9 - 2023",
+      "url": "https://open.spotify.com/track/4IEX5xveQUzxKFau8euNK0"
+    },
+    {
+      "added_at": "2026-04-10 19:32:23",
+      "album": {
+        "name": "De La Luz",
+        "url": "https://open.spotify.com/album/7Aum3NoxOUSKlD0fzjGdp0"
+      },
+      "artists": [
+        {
+          "name": "Kuervos del Sur",
+          "url": "https://open.spotify.com/artist/6BYwseleN4FiZvX4dFirBj"
+        }
+      ],
+      "duration_ms": 281133,
+      "name": "\u00danete A Mi Ser",
+      "url": "https://open.spotify.com/track/1Sfe6sTE6E3pkW1wjSmLRS"
+    },
+    {
+      "added_at": "2026-04-10 19:32:23",
+      "album": {
+        "name": "De Polic\u00eda a Ladr\u00f3n",
+        "url": "https://open.spotify.com/album/2N7ur7BWpL1xvZ6fIfSzR6"
+      },
+      "artists": [
+        {
+          "name": "Lanza Internacional",
+          "url": "https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT"
+        }
+      ],
+      "duration_ms": 192646,
+      "name": "De Polic\u00eda a Ladr\u00f3n",
+      "url": "https://open.spotify.com/track/1jebYwGYhXdIpehhcKyJTt"
+    },
+    {
+      "added_at": "2026-04-10 19:32:23",
+      "album": {
+        "name": "Amaneciendo",
+        "url": "https://open.spotify.com/album/3UeaOvDIWsGVqUmsTjZ3Gd"
+      },
+      "artists": [
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry"
+        }
+      ],
+      "duration_ms": 288226,
+      "name": "Amaneciendo",
+      "url": "https://open.spotify.com/track/7bPavFLJlHzL5lXvzCeoAr"
+    },
+    {
+      "added_at": "2026-04-10 19:32:23",
+      "album": {
+        "name": "A Cada Segundo",
+        "url": "https://open.spotify.com/album/3J5wDJn7CcCpWg1TcuImG1"
+      },
+      "artists": [
+        {
+          "name": "BBS Paranoicos",
+          "url": "https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U"
+        }
+      ],
+      "duration_ms": 220452,
+      "name": "A Cada Segundo",
+      "url": "https://open.spotify.com/track/1V8gq40G3Fxxx4CW6r43nd"
+    },
+    {
+      "added_at": "2026-04-10 19:32:23",
+      "album": {
+        "name": "\u00cdcaro",
+        "url": "https://open.spotify.com/album/0PNzBHZUXpSsehZx7kzYii"
+      },
+      "artists": [
+        {
+          "name": "tortugan\u00f3nima",
+          "url": "https://open.spotify.com/artist/0jsPe8wkYOMs1yd3zd2aRR"
+        }
+      ],
+      "duration_ms": 277809,
+      "name": "\u00cdcaro",
+      "url": "https://open.spotify.com/track/3uc0lXpV31UPnZiMV9eUXi"
+    },
+    {
+      "added_at": "2026-04-10 19:32:23",
+      "album": {
+        "name": "De La Luz",
+        "url": "https://open.spotify.com/album/0GsaLK3qnIHXrFCflRmuCZ"
+      },
+      "artists": [
+        {
+          "name": "Kuervos del Sur",
+          "url": "https://open.spotify.com/artist/6BYwseleN4FiZvX4dFirBj"
+        }
+      ],
+      "duration_ms": 307691,
+      "name": "De La Luz",
+      "url": "https://open.spotify.com/track/0muLiRaM3pjoBDA0VTUTFt"
+    },
+    {
+      "added_at": "2026-04-10 19:32:23",
+      "album": {
+        "name": "Baladas del Fin del Mundo",
+        "url": "https://open.spotify.com/album/0WPzYjeKd2clBUAgdZv6yw"
+      },
+      "artists": [
+        {
+          "name": "Los Makana",
+          "url": "https://open.spotify.com/artist/0mtBfe3vziCV83NXGXWgD5"
+        }
+      ],
+      "duration_ms": 248593,
+      "name": "Revelando, Develando",
+      "url": "https://open.spotify.com/track/7vjVFkNHk3nq6OiuzaoQck"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -735,22 +911,6 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
-        "name": "All\u00ed Va",
-        "url": "https://open.spotify.com/album/4t8GmiNlKqpXlVcPJdvyT9"
-      },
-      "artists": [
-        {
-          "name": "Pettinellis",
-          "url": "https://open.spotify.com/artist/2UqwAwxVtnr9MyQ96yNoGD"
-        }
-      ],
-      "duration_ms": 153942,
-      "name": "All\u00ed Va",
-      "url": "https://open.spotify.com/track/7a4vF2iVE2BspL2yRy47nX"
-    },
-    {
-      "added_at": "2026-04-10 19:32:23",
-      "album": {
         "name": "Fuiste Bueno (Remaster 2022)",
         "url": "https://open.spotify.com/album/3eI9SdNHCYX10fukBnhuZy"
       },
@@ -767,24 +927,8 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
-        "name": "Esta Tarde Vi Llover",
-        "url": "https://open.spotify.com/album/68EfOoUKQD6O5ZvCvtDzOp"
-      },
-      "artists": [
-        {
-          "name": "Los Ex",
-          "url": "https://open.spotify.com/artist/4sWPy7Kj9RwdpAxe5onUhP"
-        }
-      ],
-      "duration_ms": 153991,
-      "name": "Esta Tarde Vi Llover",
-      "url": "https://open.spotify.com/track/2wpimO7JjiN8HuoW5caZ3F"
-    },
-    {
-      "added_at": "2026-04-10 19:32:23",
-      "album": {
-        "name": "Mariposa Peregrina",
-        "url": "https://open.spotify.com/album/6Xyg15pXpZOhVaIkpoY5D1"
+        "name": "La Cuenta",
+        "url": "https://open.spotify.com/album/2TGDNCjdZS6w4oGFzuQMfc"
       },
       "artists": [
         {
@@ -792,29 +936,13 @@
           "url": "https://open.spotify.com/artist/6BYwseleN4FiZvX4dFirBj"
         },
         {
-          "name": "Joe Vasconcellos",
-          "url": "https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce"
+          "name": "Nano Stern",
+          "url": "https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X"
         }
       ],
-      "duration_ms": 258269,
-      "name": "Mariposa Peregrina",
-      "url": "https://open.spotify.com/track/4gMeMbcQg2susBehVPgZwS"
-    },
-    {
-      "added_at": "2026-04-10 19:32:23",
-      "album": {
-        "name": "Conducci\u00f3n",
-        "url": "https://open.spotify.com/album/2FlMmTEO3k9TAHZiVEIgdr"
-      },
-      "artists": [
-        {
-          "name": "Ases Falsos",
-          "url": "https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1"
-        }
-      ],
-      "duration_ms": 241786,
-      "name": "Simetr\u00eda",
-      "url": "https://open.spotify.com/track/3M5dIqhYOkHLhvsjxLn05b"
+      "duration_ms": 237634,
+      "name": "La Cuenta",
+      "url": "https://open.spotify.com/track/1n5XbZt3DGxj0DjIgPUan2"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -835,18 +963,18 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
-        "name": "Hojas de T\u00e9 (2023)",
-        "url": "https://open.spotify.com/album/7FRwcTiH6qSLJ1qzsqUZRe"
+        "name": "Conducci\u00f3n",
+        "url": "https://open.spotify.com/album/2FlMmTEO3k9TAHZiVEIgdr"
       },
       "artists": [
         {
-          "name": "Los Tres",
-          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
+          "name": "Ases Falsos",
+          "url": "https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1"
         }
       ],
-      "duration_ms": 209610,
-      "name": "Hojas de T\u00e9 - 2023",
-      "url": "https://open.spotify.com/track/4IEX5xveQUzxKFau8euNK0"
+      "duration_ms": 241786,
+      "name": "Simetr\u00eda",
+      "url": "https://open.spotify.com/track/3M5dIqhYOkHLhvsjxLn05b"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -887,18 +1015,22 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
-        "name": "De La Luz",
-        "url": "https://open.spotify.com/album/7Aum3NoxOUSKlD0fzjGdp0"
+        "name": "Mariposa Peregrina",
+        "url": "https://open.spotify.com/album/6Xyg15pXpZOhVaIkpoY5D1"
       },
       "artists": [
         {
           "name": "Kuervos del Sur",
           "url": "https://open.spotify.com/artist/6BYwseleN4FiZvX4dFirBj"
+        },
+        {
+          "name": "Joe Vasconcellos",
+          "url": "https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce"
         }
       ],
-      "duration_ms": 281133,
-      "name": "\u00danete A Mi Ser",
-      "url": "https://open.spotify.com/track/1Sfe6sTE6E3pkW1wjSmLRS"
+      "duration_ms": 258269,
+      "name": "Mariposa Peregrina",
+      "url": "https://open.spotify.com/track/4gMeMbcQg2susBehVPgZwS"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -923,22 +1055,6 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
-        "name": "Fantasmas",
-        "url": "https://open.spotify.com/album/6FIXBpcKzb14AXzKo9Tx9L"
-      },
-      "artists": [
-        {
-          "name": "BBS Paranoicos",
-          "url": "https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U"
-        }
-      ],
-      "duration_ms": 232457,
-      "name": "Fantasmas",
-      "url": "https://open.spotify.com/track/1uqgJz87jIFsYdHDCbmTgT"
-    },
-    {
-      "added_at": "2026-04-10 19:32:23",
-      "album": {
         "name": "Vacaciones de Invierno (ac\u00fastico)",
         "url": "https://open.spotify.com/album/64s6CIsbBLV2OLWHWrBzS2"
       },
@@ -959,22 +1075,6 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
-        "name": "Solo de Ti",
-        "url": "https://open.spotify.com/album/29MnwmnbfpgL9AqH4FDzBF"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Ilabaca",
-          "url": "https://open.spotify.com/artist/0PyhxG9e14b5UvwUH0X3Qd"
-        }
-      ],
-      "duration_ms": 237830,
-      "name": "Solo de Ti",
-      "url": "https://open.spotify.com/track/01pHsM5mHXLRT01w9wt1JT"
-    },
-    {
-      "added_at": "2026-04-10 19:32:23",
-      "album": {
         "name": "Mirar La Luz",
         "url": "https://open.spotify.com/album/6Yjmxngg0nEBFR49QtpIbV"
       },
@@ -991,18 +1091,18 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
-        "name": "De Polic\u00eda a Ladr\u00f3n",
-        "url": "https://open.spotify.com/album/2N7ur7BWpL1xvZ6fIfSzR6"
+        "name": "Solo de Ti",
+        "url": "https://open.spotify.com/album/29MnwmnbfpgL9AqH4FDzBF"
       },
       "artists": [
         {
-          "name": "Lanza Internacional",
-          "url": "https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT"
+          "name": "Hermanos Ilabaca",
+          "url": "https://open.spotify.com/artist/0PyhxG9e14b5UvwUH0X3Qd"
         }
       ],
-      "duration_ms": 192646,
-      "name": "De Polic\u00eda a Ladr\u00f3n",
-      "url": "https://open.spotify.com/track/1jebYwGYhXdIpehhcKyJTt"
+      "duration_ms": 237830,
+      "name": "Solo de Ti",
+      "url": "https://open.spotify.com/track/01pHsM5mHXLRT01w9wt1JT"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -1039,54 +1139,6 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
-        "name": "De La Luz",
-        "url": "https://open.spotify.com/album/0GsaLK3qnIHXrFCflRmuCZ"
-      },
-      "artists": [
-        {
-          "name": "Kuervos del Sur",
-          "url": "https://open.spotify.com/artist/6BYwseleN4FiZvX4dFirBj"
-        }
-      ],
-      "duration_ms": 307691,
-      "name": "De La Luz",
-      "url": "https://open.spotify.com/track/0muLiRaM3pjoBDA0VTUTFt"
-    },
-    {
-      "added_at": "2026-04-10 19:32:23",
-      "album": {
-        "name": "Amaneciendo",
-        "url": "https://open.spotify.com/album/3UeaOvDIWsGVqUmsTjZ3Gd"
-      },
-      "artists": [
-        {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry"
-        }
-      ],
-      "duration_ms": 288226,
-      "name": "Amaneciendo",
-      "url": "https://open.spotify.com/track/7bPavFLJlHzL5lXvzCeoAr"
-    },
-    {
-      "added_at": "2026-04-10 19:32:23",
-      "album": {
-        "name": "A Cada Segundo",
-        "url": "https://open.spotify.com/album/3J5wDJn7CcCpWg1TcuImG1"
-      },
-      "artists": [
-        {
-          "name": "BBS Paranoicos",
-          "url": "https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U"
-        }
-      ],
-      "duration_ms": 220452,
-      "name": "A Cada Segundo",
-      "url": "https://open.spotify.com/track/1V8gq40G3Fxxx4CW6r43nd"
-    },
-    {
-      "added_at": "2026-04-10 19:32:23",
-      "album": {
         "name": "Al otro lado del canal",
         "url": "https://open.spotify.com/album/60nnIm6s1dPSEdd68kYI2V"
       },
@@ -1103,42 +1155,6 @@
       "duration_ms": 155849,
       "name": "Al otro lado del canal",
       "url": "https://open.spotify.com/track/55er5KcKNggTKgedq7EElN"
-    },
-    {
-      "added_at": "2026-04-10 19:32:23",
-      "album": {
-        "name": "El Ni\u00f1o Que Viv\u00eda Entre Sombras",
-        "url": "https://open.spotify.com/album/7miX6KkbYuLJIv2wzkT5mH"
-      },
-      "artists": [
-        {
-          "name": "We Are The Grand",
-          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
-        }
-      ],
-      "duration_ms": 236084,
-      "name": "El Ni\u00f1o Que Viv\u00eda Entre Sombras",
-      "url": "https://open.spotify.com/track/4FnpTRCPcc5BkQeGlxrSFL"
-    },
-    {
-      "added_at": "2026-04-10 19:32:23",
-      "album": {
-        "name": "La Cuenta",
-        "url": "https://open.spotify.com/album/2TGDNCjdZS6w4oGFzuQMfc"
-      },
-      "artists": [
-        {
-          "name": "Kuervos del Sur",
-          "url": "https://open.spotify.com/artist/6BYwseleN4FiZvX4dFirBj"
-        },
-        {
-          "name": "Nano Stern",
-          "url": "https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X"
-        }
-      ],
-      "duration_ms": 237634,
-      "name": "La Cuenta",
-      "url": "https://open.spotify.com/track/1n5XbZt3DGxj0DjIgPUan2"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -1191,8 +1207,8 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
-        "name": "Coraz\u00f3n Negro",
-        "url": "https://open.spotify.com/album/5UGVjuYlzgYGalIrb4jqPI"
+        "name": "El Ni\u00f1o Que Viv\u00eda Entre Sombras",
+        "url": "https://open.spotify.com/album/7miX6KkbYuLJIv2wzkT5mH"
       },
       "artists": [
         {
@@ -1200,25 +1216,9 @@
           "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
         }
       ],
-      "duration_ms": 242166,
-      "name": "Coraz\u00f3n Negro",
-      "url": "https://open.spotify.com/track/2kacIVCOgeIypJgcsxJomO"
-    },
-    {
-      "added_at": "2026-04-10 19:32:23",
-      "album": {
-        "name": "\u00cdcaro",
-        "url": "https://open.spotify.com/album/0PNzBHZUXpSsehZx7kzYii"
-      },
-      "artists": [
-        {
-          "name": "tortugan\u00f3nima",
-          "url": "https://open.spotify.com/artist/0jsPe8wkYOMs1yd3zd2aRR"
-        }
-      ],
-      "duration_ms": 277809,
-      "name": "\u00cdcaro",
-      "url": "https://open.spotify.com/track/3uc0lXpV31UPnZiMV9eUXi"
+      "duration_ms": 236084,
+      "name": "El Ni\u00f1o Que Viv\u00eda Entre Sombras",
+      "url": "https://open.spotify.com/track/4FnpTRCPcc5BkQeGlxrSFL"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -1275,38 +1275,6 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
-        "name": "Eternos",
-        "url": "https://open.spotify.com/album/185elkt7JwuHDngR8Zwu7C"
-      },
-      "artists": [
-        {
-          "name": "We Are The Grand",
-          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
-        }
-      ],
-      "duration_ms": 205765,
-      "name": "Eternos",
-      "url": "https://open.spotify.com/track/0BUmMJhkDWkTafX43x0AUx"
-    },
-    {
-      "added_at": "2026-04-10 19:32:23",
-      "album": {
-        "name": "Baladas del Fin del Mundo",
-        "url": "https://open.spotify.com/album/0WPzYjeKd2clBUAgdZv6yw"
-      },
-      "artists": [
-        {
-          "name": "Los Makana",
-          "url": "https://open.spotify.com/artist/0mtBfe3vziCV83NXGXWgD5"
-        }
-      ],
-      "duration_ms": 248593,
-      "name": "Revelando, Develando",
-      "url": "https://open.spotify.com/track/7vjVFkNHk3nq6OiuzaoQck"
-    },
-    {
-      "added_at": "2026-04-10 19:32:23",
-      "album": {
         "name": "Como es que no gozas",
         "url": "https://open.spotify.com/album/03odKd6H9wlEQIHmjgBdEv"
       },
@@ -1323,18 +1291,18 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
-        "name": "Asocial",
-        "url": "https://open.spotify.com/album/57KPFodpLITwBR9iKUd2S6"
+        "name": "Coraz\u00f3n Negro",
+        "url": "https://open.spotify.com/album/5UGVjuYlzgYGalIrb4jqPI"
       },
       "artists": [
         {
-          "name": "Pez Pl\u00e1tano",
-          "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
+          "name": "We Are The Grand",
+          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
         }
       ],
-      "duration_ms": 197747,
-      "name": "Asocial",
-      "url": "https://open.spotify.com/track/2bCBHwtv930VSVbYfU1Ovd"
+      "duration_ms": 242166,
+      "name": "Coraz\u00f3n Negro",
+      "url": "https://open.spotify.com/track/2kacIVCOgeIypJgcsxJomO"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -1355,18 +1323,18 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
-        "name": "Hacia Ti",
-        "url": "https://open.spotify.com/album/10wRR4tgYvTkFijAhuy7S2"
+        "name": "Asocial",
+        "url": "https://open.spotify.com/album/57KPFodpLITwBR9iKUd2S6"
       },
       "artists": [
         {
-          "name": "We Are The Grand",
-          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
+          "name": "Pez Pl\u00e1tano",
+          "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
         }
       ],
-      "duration_ms": 225967,
-      "name": "Hacia Ti",
-      "url": "https://open.spotify.com/track/1FAezqCTrgpec0tRG0PTLG"
+      "duration_ms": 197747,
+      "name": "Asocial",
+      "url": "https://open.spotify.com/track/2bCBHwtv930VSVbYfU1Ovd"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -1407,18 +1375,18 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
-        "name": "Partido Platanista",
-        "url": "https://open.spotify.com/album/1e7tcO1zPJdfuZsbfXHDb0"
+        "name": "Eternos",
+        "url": "https://open.spotify.com/album/185elkt7JwuHDngR8Zwu7C"
       },
       "artists": [
         {
-          "name": "Pez Pl\u00e1tano",
-          "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
+          "name": "We Are The Grand",
+          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
         }
       ],
-      "duration_ms": 152500,
-      "name": "Partido Platanista",
-      "url": "https://open.spotify.com/track/6PtGrEnNsQYHw74jIZDq6X"
+      "duration_ms": 205765,
+      "name": "Eternos",
+      "url": "https://open.spotify.com/track/0BUmMJhkDWkTafX43x0AUx"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -1439,18 +1407,18 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
-        "name": "Ases Falsos En El Coliseo",
-        "url": "https://open.spotify.com/album/3z9ajon3uJlZpp4x3KIz3R"
+        "name": "Partido Platanista",
+        "url": "https://open.spotify.com/album/1e7tcO1zPJdfuZsbfXHDb0"
       },
       "artists": [
         {
-          "name": "Ases Falsos",
-          "url": "https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1"
+          "name": "Pez Pl\u00e1tano",
+          "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
         }
       ],
-      "duration_ms": 243270,
-      "name": "Mala Fama - En Vivo",
-      "url": "https://open.spotify.com/track/1guVg6k2Hw4jwG70bqYzHI"
+      "duration_ms": 152500,
+      "name": "Partido Platanista",
+      "url": "https://open.spotify.com/track/6PtGrEnNsQYHw74jIZDq6X"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -1471,6 +1439,54 @@
       "duration_ms": 251454,
       "name": "Rescatame",
       "url": "https://open.spotify.com/track/0GjoTJLgbBerEXztomm2WU"
+    },
+    {
+      "added_at": "2026-04-10 19:32:23",
+      "album": {
+        "name": "Ases Falsos En El Coliseo",
+        "url": "https://open.spotify.com/album/3z9ajon3uJlZpp4x3KIz3R"
+      },
+      "artists": [
+        {
+          "name": "Ases Falsos",
+          "url": "https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1"
+        }
+      ],
+      "duration_ms": 243270,
+      "name": "Mala Fama - En Vivo",
+      "url": "https://open.spotify.com/track/1guVg6k2Hw4jwG70bqYzHI"
+    },
+    {
+      "added_at": "2026-04-10 19:32:23",
+      "album": {
+        "name": "Hacia Ti",
+        "url": "https://open.spotify.com/album/10wRR4tgYvTkFijAhuy7S2"
+      },
+      "artists": [
+        {
+          "name": "We Are The Grand",
+          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
+        }
+      ],
+      "duration_ms": 225967,
+      "name": "Hacia Ti",
+      "url": "https://open.spotify.com/track/1FAezqCTrgpec0tRG0PTLG"
+    },
+    {
+      "added_at": "2026-04-10 19:32:23",
+      "album": {
+        "name": "Relatos Falsos De Historias Verdaderas",
+        "url": "https://open.spotify.com/album/69WV2fR1pnJFNaskXNz6sS"
+      },
+      "artists": [
+        {
+          "name": "Julius Popper",
+          "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
+        }
+      ],
+      "duration_ms": 236901,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/23U4DUgZM7YQU1Q5DbjRPr"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -1511,22 +1527,6 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
-        "name": "Relatos Falsos De Historias Verdaderas",
-        "url": "https://open.spotify.com/album/69WV2fR1pnJFNaskXNz6sS"
-      },
-      "artists": [
-        {
-          "name": "Julius Popper",
-          "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
-        }
-      ],
-      "duration_ms": 236901,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/23U4DUgZM7YQU1Q5DbjRPr"
-    },
-    {
-      "added_at": "2026-04-10 19:32:23",
-      "album": {
         "name": "La Llamada",
         "url": "https://open.spotify.com/album/7HKAzGH5Lo7v2WYRIAuZDt"
       },
@@ -1555,6 +1555,22 @@
       "duration_ms": 172836,
       "name": "Adecuado",
       "url": "https://open.spotify.com/track/1I5n8449fEIHXSnoAh7K6K"
+    },
+    {
+      "added_at": "2026-04-10 19:32:23",
+      "album": {
+        "name": "Mujer Primavera",
+        "url": "https://open.spotify.com/album/4JBPCOkcSLndKUtKDg5JZQ"
+      },
+      "artists": [
+        {
+          "name": "Julius Popper",
+          "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
+        }
+      ],
+      "duration_ms": 276431,
+      "name": "Mujer Primavera",
+      "url": "https://open.spotify.com/track/4lOvfLvl7BhAbNKMpVOY51"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -1595,22 +1611,6 @@
       "duration_ms": 247947,
       "name": "Bajo Los \u00c1rboles",
       "url": "https://open.spotify.com/track/4PyUNDyAuEtw8LWv1Cd6uV"
-    },
-    {
-      "added_at": "2026-04-10 19:32:23",
-      "album": {
-        "name": "Mujer Primavera",
-        "url": "https://open.spotify.com/album/4JBPCOkcSLndKUtKDg5JZQ"
-      },
-      "artists": [
-        {
-          "name": "Julius Popper",
-          "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
-        }
-      ],
-      "duration_ms": 276431,
-      "name": "Mujer Primavera",
-      "url": "https://open.spotify.com/track/4lOvfLvl7BhAbNKMpVOY51"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
-        "name": "Ya No Te Esperar\u00e9",
-        "url": "https://open.spotify.com/album/6CpwgrssmzTfRoL1QHEjmy"
-      },
-      "artists": [
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        }
-      ],
-      "duration_ms": 208298,
-      "name": "Ya No Te Esperar\u00e9",
-      "url": "https://open.spotify.com/track/5qJMvyGIJryYsDQ8SVStQ0"
-    },
-    {
-      "added_at": "2026-04-10 19:32:23",
-      "album": {
         "name": "Cayeron L\u00e1grimas",
         "url": "https://open.spotify.com/album/4OLMOISUPqjvgJFc4SrOak"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 215639,
       "name": "Cayeron L\u00e1grimas",
       "url": "https://open.spotify.com/track/3awaeive1cSrGalmCHOFtK"
+    },
+    {
+      "added_at": "2026-04-10 19:32:23",
+      "album": {
+        "name": "Ya No Te Esperar\u00e9",
+        "url": "https://open.spotify.com/album/6CpwgrssmzTfRoL1QHEjmy"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "duration_ms": 208298,
+      "name": "Ya No Te Esperar\u00e9",
+      "url": "https://open.spotify.com/track/5qJMvyGIJryYsDQ8SVStQ0"
     }
   ],
   "unique_name": "Rock Chileno",

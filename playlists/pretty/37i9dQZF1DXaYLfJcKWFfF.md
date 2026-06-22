@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Dumama
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,243 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,259 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 42 | [Killer](https://open.spotify.com/track/6c38SPfKudn76YKBDy60cL) | [CHXRL](https://open.spotify.com/artist/53YDsmOqu4zlV0VQbNUUNZ) | [Killer](https://open.spotify.com/album/4cL9lVAmKtRqA1hC8nNwe5) | 3:28 |
 | 43 | [Rabbit Hole](https://open.spotify.com/track/6uZhBQRPCVOvMs9g58EEm1) | [Ava like Lava](https://open.spotify.com/artist/2L7QE83MaWKPuIwaxSyEfk) | [Malice in Wonderland \(Deluxe\)](https://open.spotify.com/album/4njgWtWmM9y6EVA7HohLTT) | 2:37 |
 | 44 | [where's your girlfriend](https://open.spotify.com/track/3a660Cnhydjs5O5g0yQ1ME) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [where's your girlfriend](https://open.spotify.com/album/4allJNrFZH7Ob9jO98TofS) | 3:33 |
-| 45 | [Zama](https://open.spotify.com/track/4oUi4rp4C82sg14Lv9toXE) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Zama](https://open.spotify.com/album/1aIckDg233lILdqqBt0Rfh) | 4:23 |
+| 45 | [Day Dreamer](https://open.spotify.com/track/6zqplY3N7clSXQx0sEaUsv) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Day Dreamer](https://open.spotify.com/album/1RHOujtZ6kG3ev2M4Sv2OW) | 3:12 |
 | 46 | [Unloved](https://open.spotify.com/track/6JDDPUvENdRLOyfpLGPLif) | [Jack Apk](https://open.spotify.com/artist/0dze6vYaglBcALjI2P2vrs), [two.cozyy](https://open.spotify.com/artist/5VaI5ZkKSmiL5GeQWhlCCH) | [Unloved](https://open.spotify.com/album/6aXzs8k5WXmJMlVoxSQrsd) | 3:41 |
-| 47 | [Pour Some More](https://open.spotify.com/track/0FpWKANWyGMQku1LNLUO7a) | [Yas Mayou](https://open.spotify.com/artist/23tleadB20w0exvWcMYROK) | [Pour Some More](https://open.spotify.com/album/2GWRXNkOxM7otzMuhInBqF) | 3:27 |
+| 47 | [Zama](https://open.spotify.com/track/4oUi4rp4C82sg14Lv9toXE) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Zama](https://open.spotify.com/album/1aIckDg233lILdqqBt0Rfh) | 4:23 |
 | 48 | [Burn](https://open.spotify.com/track/6GEsX9hkY1PnmXKVwHWfG8) | [Ashlie Skye](https://open.spotify.com/artist/51cBqHMx6juJ3TTwwGfEgM) | [Burn](https://open.spotify.com/album/1b5a25IOKqULsVhZilxxd1) | 3:10 |
-| 49 | [Day Dreamer](https://open.spotify.com/track/6zqplY3N7clSXQx0sEaUsv) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Day Dreamer](https://open.spotify.com/album/1RHOujtZ6kG3ev2M4Sv2OW) | 3:12 |
+| 49 | [Pour Some More](https://open.spotify.com/track/0FpWKANWyGMQku1LNLUO7a) | [Yas Mayou](https://open.spotify.com/artist/23tleadB20w0exvWcMYROK) | [Pour Some More](https://open.spotify.com/album/2GWRXNkOxM7otzMuhInBqF) | 3:27 |
 | 50 | [I’m On Fire \(feat\. The Cavemen.\)](https://open.spotify.com/track/50caDbmTdqSkDXmTm8e5xa) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [HOPE!!](https://open.spotify.com/album/3x1Avu2Fct0HPWBpl0ob4b) | 2:38 |
 | 51 | [DRIVE](https://open.spotify.com/track/6eJ0U0TczrBdDuqowey6uv) | [Hannovr](https://open.spotify.com/artist/0o2zqxVB0ofk28wqpPzFZf) | [DRIVE](https://open.spotify.com/album/5O8MapuKShYfk0gOpHGU8M) | 4:15 |
 | 52 | [Panic Island](https://open.spotify.com/track/03TKqOsWlyjFA5IhWflp5t) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Cincinnati Pumpin!!](https://open.spotify.com/album/5krskJ12OhkTlYuGwxJ0W3) | 2:02 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 55 | [OKAY!](https://open.spotify.com/track/6lmewW4pJlDGmZWgaWa1mT) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [OKAY!](https://open.spotify.com/album/329L2mns4w0MAQTmxg00v8) | 2:57 |
 | 56 | [Rest Of Your Life](https://open.spotify.com/track/5SbqZBOTw1mVo7ZVbQCgki) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [REST OF YOUR LIFE](https://open.spotify.com/album/1kX8emZvIDGcAUhkObEaFz) | 4:31 |
 | 57 | [showmetheway !!](https://open.spotify.com/track/6JRfbZ9d0Caw35pbCsOTSL) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc) | [showmetheway !!](https://open.spotify.com/album/3JYPab6Bqkk4BXdvdinw5G) | 2:20 |
-| 58 | [Souls x Mates](https://open.spotify.com/track/7x46LYaPdZCdare3bWBiwo) | [Dandi Noxx](https://open.spotify.com/artist/1Hq5fqbb6DloZnrHnsPubz) | [Souls x Mates](https://open.spotify.com/album/56sY9khk2hWWxssbXtnAaA) | 3:51 |
-| 59 | [Nyoni Yami](https://open.spotify.com/track/1hO7XxOmMRAo3gj2UYqqEg) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF), [Yoav](https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH) | [Nyoni Yami](https://open.spotify.com/album/1U2hqgPgcpntPLQyYnBxUy) | 3:32 |
+| 58 | [Nyoni Yami](https://open.spotify.com/track/1hO7XxOmMRAo3gj2UYqqEg) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF), [Yoav](https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH) | [Nyoni Yami](https://open.spotify.com/album/1U2hqgPgcpntPLQyYnBxUy) | 3:32 |
+| 59 | [Souls x Mates](https://open.spotify.com/track/7x46LYaPdZCdare3bWBiwo) | [Dandi Noxx](https://open.spotify.com/artist/1Hq5fqbb6DloZnrHnsPubz) | [Souls x Mates](https://open.spotify.com/album/56sY9khk2hWWxssbXtnAaA) | 3:51 |
 | 60 | [Yalwa](https://open.spotify.com/track/45wZB5tjked2XJN1AB8lcR) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Yalwa](https://open.spotify.com/album/6K8LNHPN2rCs6ljbCxREYO) | 2:34 |
 | 61 | [Adwuma](https://open.spotify.com/track/3dGJ23oxQnLpSoboXe8IYj) | [Kay Slice](https://open.spotify.com/artist/1mPNT5YwLcCKfjdTwOfSC8), [Gyedu\-Blay Ambolley](https://open.spotify.com/artist/3K7G8Czqv2acbaWlxFfjbj) | [Adwuma](https://open.spotify.com/album/0aG6AoazPMX1PL8mCIVHCs) | 3:30 |
 | 62 | [Faya](https://open.spotify.com/track/6bS5s8LrmKI5ZV7RxyFmlm) | [LAGOS IN PARIS](https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe), [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU) | [Faya](https://open.spotify.com/album/43ohjP5OkrsrlmewjaDkqk) | 3:56 |

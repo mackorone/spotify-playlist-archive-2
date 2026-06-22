@@ -407,26 +407,6 @@
     {
       "added_at": "2026-06-11 23:01:05",
       "album": {
-        "name": "Sinatra",
-        "url": "https://open.spotify.com/album/6facASUoGUBZNCEWiQ9I3R"
-      },
-      "artists": [
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        },
-        {
-          "name": "Frah Quintale",
-          "url": "https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN"
-        }
-      ],
-      "duration_ms": 211840,
-      "name": "2% (feat. Frah Quintale)",
-      "url": "https://open.spotify.com/track/5ODlTG5qxhCsC05E36Rv25"
-    },
-    {
-      "added_at": "2026-06-11 23:01:05",
-      "album": {
         "name": "DIO LO SA",
         "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 200000,
       "name": "IO T\u2019O GIUR\u2019 (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/4z9xPVz2Sii4dhM7yhxOpj"
+    },
+    {
+      "added_at": "2026-06-11 23:01:05",
+      "album": {
+        "name": "Sinatra",
+        "url": "https://open.spotify.com/album/6facASUoGUBZNCEWiQ9I3R"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Frah Quintale",
+          "url": "https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN"
+        }
+      ],
+      "duration_ms": 211840,
+      "name": "2% (feat. Frah Quintale)",
+      "url": "https://open.spotify.com/track/5ODlTG5qxhCsC05E36Rv25"
     },
     {
       "added_at": "2026-06-11 23:01:05",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-06-11 23:01:05",
       "album": {
-        "name": "I Nomi del Diavolo",
-        "url": "https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh"
-      },
-      "artists": [
-        {
-          "name": "Kid Yugi",
-          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
-        }
-      ],
-      "duration_ms": 164211,
-      "name": "Lilith",
-      "url": "https://open.spotify.com/track/6YB8rH5Lr340A4ps8eV7hw"
-    },
-    {
-      "added_at": "2026-06-11 23:01:05",
-      "album": {
         "name": "IL CORAGGIO DEI BAMBINI",
         "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 172615,
       "name": "COME VUOI",
       "url": "https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE"
+    },
+    {
+      "added_at": "2026-06-11 23:01:05",
+      "album": {
+        "name": "I Nomi del Diavolo",
+        "url": "https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "duration_ms": 164211,
+      "name": "Lilith",
+      "url": "https://open.spotify.com/track/6YB8rH5Lr340A4ps8eV7hw"
     },
     {
       "added_at": "2026-06-11 23:01:05",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-06-11 23:01:05",
       "album": {
-        "name": "ASTRO DELUXE",
-        "url": "https://open.spotify.com/album/3Lo62QIzWRpUzcL0WXkPfL"
-      },
-      "artists": [
-        {
-          "name": "Astro",
-          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
-        }
-      ],
-      "duration_ms": 159999,
-      "name": "M A Y B A C H",
-      "url": "https://open.spotify.com/track/6PsvhJZhALSH3iVWXhFxvD"
-    },
-    {
-      "added_at": "2026-06-11 23:01:05",
-      "album": {
         "name": "IL CORAGGIO DEI BAMBINI",
         "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 215421,
       "name": "X CASO (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/2E32Pv8w20r6ZH4oFecxOf"
+    },
+    {
+      "added_at": "2026-06-11 23:01:05",
+      "album": {
+        "name": "ASTRO DELUXE",
+        "url": "https://open.spotify.com/album/3Lo62QIzWRpUzcL0WXkPfL"
+      },
+      "artists": [
+        {
+          "name": "Astro",
+          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
+        }
+      ],
+      "duration_ms": 159999,
+      "name": "M A Y B A C H",
+      "url": "https://open.spotify.com/track/6PsvhJZhALSH3iVWXhFxvD"
     },
     {
       "added_at": "2026-06-11 23:01:05",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-06-11 23:01:05",
       "album": {
-        "name": "Malammore",
-        "url": "https://open.spotify.com/album/4A9xE2QAA6dgTcqMrnjpqP"
-      },
-      "artists": [
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        }
-      ],
-      "duration_ms": 265454,
-      "name": "Ti Amo",
-      "url": "https://open.spotify.com/track/1pq4fzp7UvGPLGzueOKaEf"
-    },
-    {
-      "added_at": "2026-06-11 23:01:05",
-      "album": {
         "name": "Fenomeno",
         "url": "https://open.spotify.com/album/4ADdQgtvkvsnxYlg850nGA"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 264573,
       "name": "Stavo Pensando A Te",
       "url": "https://open.spotify.com/track/3UPigmZoN3ahvBgQdU9VK5"
+    },
+    {
+      "added_at": "2026-06-11 23:01:05",
+      "album": {
+        "name": "Malammore",
+        "url": "https://open.spotify.com/album/4A9xE2QAA6dgTcqMrnjpqP"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "duration_ms": 265454,
+      "name": "Ti Amo",
+      "url": "https://open.spotify.com/track/1pq4fzp7UvGPLGzueOKaEf"
     },
     {
       "added_at": "2026-06-11 23:01:05",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-06-11 23:01:05",
       "album": {
-        "name": "Potere",
-        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
-      },
-      "artists": [
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        }
-      ],
-      "duration_ms": 180009,
-      "name": "Torna Da Me",
-      "url": "https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4"
-    },
-    {
-      "added_at": "2026-06-11 23:01:05",
-      "album": {
         "name": "L'Angelo del Male",
         "url": "https://open.spotify.com/album/6hv38luXAPIi4ieI63KfFb"
       },
@@ -907,18 +891,18 @@
     {
       "added_at": "2026-06-11 23:01:05",
       "album": {
-        "name": "GVESVS",
-        "url": "https://open.spotify.com/album/1fONeOwepyow1t4dUw0RcL"
+        "name": "Potere",
+        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
       },
       "artists": [
         {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
         }
       ],
-      "duration_ms": 194106,
-      "name": "Veleno",
-      "url": "https://open.spotify.com/track/5b5LAmQZx3mKmhL7PQGegi"
+      "duration_ms": 180009,
+      "name": "Torna Da Me",
+      "url": "https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4"
     },
     {
       "added_at": "2026-06-11 23:01:05",
@@ -935,6 +919,22 @@
       "duration_ms": 179072,
       "name": "Donna",
       "url": "https://open.spotify.com/track/5EeDZPNPIjEtEZsHMkX1m7"
+    },
+    {
+      "added_at": "2026-06-11 23:01:05",
+      "album": {
+        "name": "GVESVS",
+        "url": "https://open.spotify.com/album/1fONeOwepyow1t4dUw0RcL"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 194106,
+      "name": "Veleno",
+      "url": "https://open.spotify.com/track/5b5LAmQZx3mKmhL7PQGegi"
     },
     {
       "added_at": "2026-06-11 23:01:05",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-06-11 23:01:05",
       "album": {
-        "name": "Persona",
-        "url": "https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu"
-      },
-      "artists": [
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 230922,
-      "name": "CRUDELIA - I nervi",
-      "url": "https://open.spotify.com/track/5dsz7MTrNdN9aMTrnp7sOG"
-    },
-    {
-      "added_at": "2026-06-11 23:01:05",
-      "album": {
         "name": "Tutti i Nomi del Diavolo",
         "url": "https://open.spotify.com/album/5UIxxfAYiTSd9U7Iz5WwmQ"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 203592,
       "name": "Ex Angelo - Original Version",
       "url": "https://open.spotify.com/track/5Ac0RG0vnlsy3e5eeYEryB"
+    },
+    {
+      "added_at": "2026-06-11 23:01:05",
+      "album": {
+        "name": "Persona",
+        "url": "https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 230922,
+      "name": "CRUDELIA - I nervi",
+      "url": "https://open.spotify.com/track/5dsz7MTrNdN9aMTrnp7sOG"
     },
     {
       "added_at": "2026-06-11 23:01:05",
@@ -1047,34 +1047,6 @@
       "duration_ms": 187431,
       "name": "STUPIDO",
       "url": "https://open.spotify.com/track/6HVRRlc2sBlkcKEkhlsp86"
-    },
-    {
-      "added_at": "2026-06-11 23:01:05",
-      "album": {
-        "name": "Nerissima",
-        "url": "https://open.spotify.com/album/4aVP5OanDJz1dXGV1Y0TER"
-      },
-      "artists": [
-        {
-          "name": "Nerissima Serpe",
-          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
-        },
-        {
-          "name": "Fritu",
-          "url": "https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF"
-        },
-        {
-          "name": "Dibla",
-          "url": "https://open.spotify.com/artist/01XCyobLTxOrswogL7YNIu"
-        },
-        {
-          "name": "Jiz",
-          "url": "https://open.spotify.com/artist/38CThoTDmXugNnfonW466d"
-        }
-      ],
-      "duration_ms": 158022,
-      "name": "Ridere di Te (2026)",
-      "url": "https://open.spotify.com/track/0HVfLomqxqMyOXh37yob8d"
     },
     {
       "added_at": "2026-06-11 23:01:05",
@@ -1107,6 +1079,34 @@
       "duration_ms": 167880,
       "name": "Red Light",
       "url": "https://open.spotify.com/track/1kZLATTXQa5BtEKH8GbW2U"
+    },
+    {
+      "added_at": "2026-06-11 23:01:05",
+      "album": {
+        "name": "Nerissima",
+        "url": "https://open.spotify.com/album/4aVP5OanDJz1dXGV1Y0TER"
+      },
+      "artists": [
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Fritu",
+          "url": "https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF"
+        },
+        {
+          "name": "Dibla",
+          "url": "https://open.spotify.com/artist/01XCyobLTxOrswogL7YNIu"
+        },
+        {
+          "name": "Jiz",
+          "url": "https://open.spotify.com/artist/38CThoTDmXugNnfonW466d"
+        }
+      ],
+      "duration_ms": 158022,
+      "name": "Ridere di Te (2026)",
+      "url": "https://open.spotify.com/track/0HVfLomqxqMyOXh37yob8d"
     },
     {
       "added_at": "2026-06-11 23:01:05",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-06-11 23:01:05",
       "album": {
-        "name": "Resta Ancora Un Po'",
-        "url": "https://open.spotify.com/album/5Yy72IJnQKirTKQ54lZBpO"
-      },
-      "artists": [
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 147162,
-      "name": "Resta Ancora Un Po'",
-      "url": "https://open.spotify.com/track/48zY2jicewpCnYEnWtrPPn"
-    },
-    {
-      "added_at": "2026-06-11 23:01:05",
-      "album": {
         "name": "L'erba cattiva",
         "url": "https://open.spotify.com/album/2Dbxqy0O665QXENEoKc1oH"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 231655,
       "name": "Parole di ghiaccio",
       "url": "https://open.spotify.com/track/1mItEeAlTepKfWUOpu8h6b"
+    },
+    {
+      "added_at": "2026-06-11 23:01:05",
+      "album": {
+        "name": "Resta Ancora Un Po'",
+        "url": "https://open.spotify.com/album/5Yy72IJnQKirTKQ54lZBpO"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 147162,
+      "name": "Resta Ancora Un Po'",
+      "url": "https://open.spotify.com/track/48zY2jicewpCnYEnWtrPPn"
     },
     {
       "added_at": "2026-06-11 23:01:05",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2026-06-11 23:01:05",
       "album": {
-        "name": "Nerissima",
-        "url": "https://open.spotify.com/album/4aVP5OanDJz1dXGV1Y0TER"
-      },
-      "artists": [
-        {
-          "name": "Nerissima Serpe",
-          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
-        },
-        {
-          "name": "Fritu",
-          "url": "https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF"
-        }
-      ],
-      "duration_ms": 121212,
-      "name": "Vicini ma Lontani",
-      "url": "https://open.spotify.com/track/1rUtOIReT93YATZLv4GqNy"
-    },
-    {
-      "added_at": "2026-06-11 23:01:05",
-      "album": {
         "name": "Angelina Jolie",
         "url": "https://open.spotify.com/album/6sE81aPV364gLYtUBwgzwR"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 169671,
       "name": "Angelina Jolie",
       "url": "https://open.spotify.com/track/0tD4EXZRm1JGDYWtKYFLWK"
+    },
+    {
+      "added_at": "2026-06-11 23:01:05",
+      "album": {
+        "name": "Nerissima",
+        "url": "https://open.spotify.com/album/4aVP5OanDJz1dXGV1Y0TER"
+      },
+      "artists": [
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Fritu",
+          "url": "https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF"
+        }
+      ],
+      "duration_ms": 121212,
+      "name": "Vicini ma Lontani",
+      "url": "https://open.spotify.com/track/1rUtOIReT93YATZLv4GqNy"
     },
     {
       "added_at": "2026-06-11 23:01:05",

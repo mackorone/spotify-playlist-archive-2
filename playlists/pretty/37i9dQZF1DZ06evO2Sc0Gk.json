@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAACrK6GC5/19l7g4OcA94/0b",
+  "snapshot_id": "ajXYAAAAAAB0ELnoGv/qg1dWcMavabZ6",
   "tracks": [
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life is Eazi, Vol. 2 - Lagos to London",
-        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 168159,
-      "name": "Pour Me Water",
-      "url": "https://open.spotify.com/track/1XIPyyGqBSU20i4gSagsLV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One Day You Will Understand",
         "url": "https://open.spotify.com/album/6Z22tsn1nyT9CmcTZa8ZEC"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 150000,
       "name": "Baby I'm Jealous",
       "url": "https://open.spotify.com/track/5lAOltJO0aw2FUP5Use4cD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 168159,
+      "name": "Pour Me Water",
+      "url": "https://open.spotify.com/track/1XIPyyGqBSU20i4gSagsLV"
     },
     {
       "added_at": null,
@@ -467,26 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "See What We've Done",
-        "url": "https://open.spotify.com/album/7t2OiJ1lU1nvmdHB1oOf0d"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 172101,
-      "name": "Where Have You Been?",
-      "url": "https://open.spotify.com/track/6v3Hqzmo0iGbXneqU0kYz3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Doyin",
         "url": "https://open.spotify.com/album/3G9nwad9keufs9f45T69Z9"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 153962,
       "name": "Doyin",
       "url": "https://open.spotify.com/track/71iknvVFjHMMs0nit8eh2M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "See What We've Done",
+        "url": "https://open.spotify.com/album/7t2OiJ1lU1nvmdHB1oOf0d"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 172101,
+      "name": "Where Have You Been?",
+      "url": "https://open.spotify.com/track/6v3Hqzmo0iGbXneqU0kYz3"
     },
     {
       "added_at": null,
@@ -887,26 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "See What We've Done",
-        "url": "https://open.spotify.com/album/7t2OiJ1lU1nvmdHB1oOf0d"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 208377,
-      "name": "Taste",
-      "url": "https://open.spotify.com/track/1mgXDDTHADa8FIGL2wcV4F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Call Waiting",
         "url": "https://open.spotify.com/album/5JkpF4etIZ5IOrAPzCcfjI"
       },
@@ -931,34 +911,6 @@
       "duration_ms": 150702,
       "name": "Call Waiting",
       "url": "https://open.spotify.com/track/6E7inQoWgdOxhFw4GmNS4c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Never Walk Alone",
-        "url": "https://open.spotify.com/album/1zwm4teG7b5ySEn1cqmPV9"
-      },
-      "artists": [
-        {
-          "name": "ChopLife SoundSystem",
-          "url": "https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Les Teriba",
-          "url": "https://open.spotify.com/artist/7fwk67xtIn7vS7t6EwvkbG"
-        },
-        {
-          "name": "Jessi Selm",
-          "url": "https://open.spotify.com/artist/1WLMT9B3XcmOH7WxEOi4pq"
-        }
-      ],
-      "duration_ms": 214710,
-      "name": "Never Walk Alone",
-      "url": "https://open.spotify.com/track/1rUjssvd1FdBjlTGTwohaK"
     },
     {
       "added_at": null,
@@ -1000,9 +952,53 @@
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 153951,
-      "name": "Criminal",
-      "url": "https://open.spotify.com/track/5OPBR3M5xZJgt5uzLaYLHf"
+      "duration_ms": 208377,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/1mgXDDTHADa8FIGL2wcV4F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never Walk Alone",
+        "url": "https://open.spotify.com/album/1zwm4teG7b5ySEn1cqmPV9"
+      },
+      "artists": [
+        {
+          "name": "ChopLife SoundSystem",
+          "url": "https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Les Teriba",
+          "url": "https://open.spotify.com/artist/7fwk67xtIn7vS7t6EwvkbG"
+        },
+        {
+          "name": "Jessi Selm",
+          "url": "https://open.spotify.com/artist/1WLMT9B3XcmOH7WxEOi4pq"
+        }
+      ],
+      "duration_ms": 214710,
+      "name": "Never Walk Alone",
+      "url": "https://open.spotify.com/track/1rUjssvd1FdBjlTGTwohaK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F1 The Album",
+        "url": "https://open.spotify.com/album/2HwRKkEp7jXbxXwcGyZYHK"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 173149,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/5sjuPu1wyt0n5hybW07RyQ"
     },
     {
       "added_at": null,
@@ -1027,18 +1023,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "F1 The Album",
-        "url": "https://open.spotify.com/album/2HwRKkEp7jXbxXwcGyZYHK"
+        "name": "See What We've Done",
+        "url": "https://open.spotify.com/album/7t2OiJ1lU1nvmdHB1oOf0d"
       },
       "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
         {
           "name": "Mr Eazi",
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 173149,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/5sjuPu1wyt0n5hybW07RyQ"
+      "duration_ms": 153951,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/5OPBR3M5xZJgt5uzLaYLHf"
     },
     {
       "added_at": null,

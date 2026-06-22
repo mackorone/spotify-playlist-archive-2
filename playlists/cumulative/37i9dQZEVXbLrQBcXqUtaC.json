@@ -13857,6 +13857,24 @@
     },
     {
       "album": {
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "date_added": "2026-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256493,
+      "name": "Imaginary",
+      "url": "https://open.spotify.com/track/7q6CybWAg3uYLgS5tDWqmd"
+    },
+    {
+      "album": {
         "name": "El Hal Romancy",
         "url": "https://open.spotify.com/album/0WV17sD6xRIcndI9o20HqP"
       },
@@ -15960,7 +15978,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 299560,
       "name": "Let Down",
       "url": "https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr"
@@ -18036,7 +18054,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 235368,
       "name": "Maool",
       "url": "https://open.spotify.com/track/7GFPmRIpmI1qRym5wRtSjZ"
@@ -28794,7 +28812,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N"
@@ -28812,7 +28830,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/6hkOqJ5mE093AQf2lbZnsG"
@@ -33932,7 +33950,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 321689,
       "name": "\u0628\u0627\u0639\u0646\u064a \u0648\u0631\u0627\u062d",
       "url": "https://open.spotify.com/track/6Yyou08EWcxFXJVL7gnGeD"

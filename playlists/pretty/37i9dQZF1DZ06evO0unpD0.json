@@ -1,12 +1,12 @@
 {
   "description": "This is Salif Keita. The essential tracks, all in one playlist.",
-  "num_followers": 13858,
+  "num_followers": 13866,
   "original_name": "This Is Salif Keita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAABolCB6H/vHHkJi3Ms4ENqm",
+  "snapshot_id": "ajXYAAAAAADbLdgZJPdNlt66vjUeKuOU",
   "tracks": [
     {
       "added_at": null,
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 249600,
-      "name": "Tal\u00e9",
-      "url": "https://open.spotify.com/track/5Z279TzbPAtGQNRpcfxq32"
+      "duration_ms": 233493,
+      "name": "Da",
+      "url": "https://open.spotify.com/track/0fZtdXVFyrE2oFLGqSrZtT"
     },
     {
       "added_at": null,
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 233493,
-      "name": "Da",
-      "url": "https://open.spotify.com/track/0fZtdXVFyrE2oFLGqSrZtT"
+      "duration_ms": 249600,
+      "name": "Tal\u00e9",
+      "url": "https://open.spotify.com/track/5Z279TzbPAtGQNRpcfxq32"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ali",
-        "url": "https://open.spotify.com/album/6vg8mzMg5Re5aRIKi4YrIo"
+        "name": "Folon",
+        "url": "https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 311666,
-      "name": "Tomorrow (Sadio)",
-      "url": "https://open.spotify.com/track/5IbLPMxWuRQWTmbEdV018a"
+      "duration_ms": 394306,
+      "name": "Tekere",
+      "url": "https://open.spotify.com/track/6DFxJ5NncVCnUnEaRRRWjh"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Folon",
-        "url": "https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O"
+        "name": "Ali",
+        "url": "https://open.spotify.com/album/6vg8mzMg5Re5aRIKi4YrIo"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 394306,
-      "name": "Tekere",
-      "url": "https://open.spotify.com/track/6DFxJ5NncVCnUnEaRRRWjh"
+      "duration_ms": 311666,
+      "name": "Tomorrow (Sadio)",
+      "url": "https://open.spotify.com/track/5IbLPMxWuRQWTmbEdV018a"
     },
     {
       "added_at": null,
@@ -699,18 +699,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soro",
-        "url": "https://open.spotify.com/album/62DPGNE8CtgV8OKT8BUzZG"
+        "name": "Betece - All Stars",
+        "url": "https://open.spotify.com/album/5RKQ7g6iYe2l6tlUfAwXsf"
       },
       "artists": [
+        {
+          "name": "Africando",
+          "url": "https://open.spotify.com/artist/0ffXAvDlWnqwiciaBFek6V"
+        },
         {
           "name": "Salif Keita",
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 361933,
-      "name": "Cono",
-      "url": "https://open.spotify.com/track/7cms6JQGv9q2iA2XN35V0n"
+      "duration_ms": 303773,
+      "name": "Ntoman",
+      "url": "https://open.spotify.com/track/6AOlffSmJ6QNAzPV4SnmKQ"
     },
     {
       "added_at": null,
@@ -747,22 +751,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Betece - All Stars",
-        "url": "https://open.spotify.com/album/5RKQ7g6iYe2l6tlUfAwXsf"
+        "name": "Soro",
+        "url": "https://open.spotify.com/album/62DPGNE8CtgV8OKT8BUzZG"
       },
       "artists": [
-        {
-          "name": "Africando",
-          "url": "https://open.spotify.com/artist/0ffXAvDlWnqwiciaBFek6V"
-        },
         {
           "name": "Salif Keita",
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 303773,
-      "name": "Ntoman",
-      "url": "https://open.spotify.com/track/6AOlffSmJ6QNAzPV4SnmKQ"
+      "duration_ms": 361933,
+      "name": "Cono",
+      "url": "https://open.spotify.com/track/7cms6JQGv9q2iA2XN35V0n"
     },
     {
       "added_at": null,

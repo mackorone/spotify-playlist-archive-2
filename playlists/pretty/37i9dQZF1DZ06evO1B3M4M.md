@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1B3M4M.md) - [plain]
 
 > This is James Newton Howard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,302 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,301 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1B3M4M.md) - [plain]
 | 49 | [I Can Carry You](https://open.spotify.com/track/5C3mNI59yu2t5UVlFT2AXz) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Blood Diamond \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2YwDj8TchnUvnxekoIcQ0X) | 1:30 |
 | 50 | [Fantastic Beasts Theme \- Solo Piano](https://open.spotify.com/track/18b656dcOv1olz14Xj5EZi) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Fantastic Beasts: The Crimes Of Grindelwald \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF) | 1:37 |
 
-Snapshot ID: `ajSGgAAAAAABxlUUvbdttXMbgdQcoREt`
+Snapshot ID: `ajXYAAAAAABMI4amuIz8ie4i326I7J0r`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0d4YcX.md) - [plain]
 
 > This is Amber Mark\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,433 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,434 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0d4YcX.md) - [plain]
 | 4 | [What It Is](https://open.spotify.com/track/0w3A7y2EJ8awXWMUtftue5) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 5:25 |
 | 5 | [Sink In](https://open.spotify.com/track/3jFHtovu88ZrWf0nmK90ab) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Loosies](https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f) | 2:16 |
 | 6 | [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/track/1kUJ7401ShEYzAgdTfg2Dp) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Pretty Idea](https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu) | 3:38 |
-| 7 | [Waiting \- Demo](https://open.spotify.com/track/6sqjaO9q52sNKJ8S4x53DD) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Waiting \(Demo\)](https://open.spotify.com/album/1wncWM9JUHEyyo83zellqP) | 1:41 |
-| 8 | [Comin’ Around Again](https://open.spotify.com/track/6If1Aw9BpAtmnP1GByGjfr) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Comin’ Around Again](https://open.spotify.com/album/1wzwhaqsrOEoLZxYjA2fIv) | 3:06 |
+| 7 | [Comin’ Around Again](https://open.spotify.com/track/6If1Aw9BpAtmnP1GByGjfr) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Comin’ Around Again](https://open.spotify.com/album/1wzwhaqsrOEoLZxYjA2fIv) | 3:06 |
+| 8 | [Waiting \- Demo](https://open.spotify.com/track/6sqjaO9q52sNKJ8S4x53DD) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Waiting \(Demo\)](https://open.spotify.com/album/1wncWM9JUHEyyo83zellqP) | 1:41 |
 | 9 | [Foreign Things](https://open.spotify.com/track/1tyGqOo8VRLDVQETLtMyDS) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 3:00 |
 | 10 | [Let Me Love You](https://open.spotify.com/track/74HEWnUuj2GIb1jb1BcO0G) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Pretty Idea](https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu) | 3:32 |
 | 11 | [What If](https://open.spotify.com/track/3yhInewGeB4AzUJKyz3SUR) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [What If](https://open.spotify.com/album/0XObJRKFbMGcYmSvctXK4Q) | 3:35 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0d4YcX.md) - [plain]
 | 39 | [S P A C E](https://open.spotify.com/track/5qbNuYdT99BCBM8KwVNVW5) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [3:33am](https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i) | 3:25 |
 | 40 | [Heart\-Shaped Box](https://open.spotify.com/track/3t9UffGSsulotQbSLrQTWY) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Heart\-Shaped Box](https://open.spotify.com/album/3WPDRb3GzyeFL2a08MqGZz) | 2:49 |
 | 41 | [No Bus](https://open.spotify.com/track/0a8iHqEqV1FAcRGyDTKFym) | [lophiile](https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R), [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [No Bus](https://open.spotify.com/album/0tBwgaezW7QUFPSlobYAqi) | 3:04 |
-| 42 | [Most Men \- A COLORS SHOW](https://open.spotify.com/track/6oNlhbPtDLVMcSKzloa3WO) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Most Men \- A COLORS SHOW](https://open.spotify.com/album/4Ll6gnAL7gDjnZM8tOEndi) | 4:13 |
-| 43 | [Wait So Yeah](https://open.spotify.com/track/7thsRzXNfsM38Z3DuUB3AB) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Loosies](https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f) | 2:21 |
+| 42 | [Wait So Yeah](https://open.spotify.com/track/7thsRzXNfsM38Z3DuUB3AB) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Loosies](https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f) | 2:21 |
+| 43 | [Most Men \- A COLORS SHOW](https://open.spotify.com/track/6oNlhbPtDLVMcSKzloa3WO) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Most Men \- A COLORS SHOW](https://open.spotify.com/album/4Ll6gnAL7gDjnZM8tOEndi) | 4:13 |
 | 44 | [Generous](https://open.spotify.com/track/6bgPMgXiSvSxRS6qKn9wK4) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Generous](https://open.spotify.com/album/0TCR8wB4v4fstHa3CJmZG4) | 2:44 |
 | 45 | [Out of Luck](https://open.spotify.com/track/5vwBdLidaM8UEE6Hcn7zu7) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Sweet Justice](https://open.spotify.com/album/2TvE3Ck4cUcXwwD7bkO7pl) | 3:50 |
-| 46 | [Heatwave](https://open.spotify.com/track/5DQ45iTgC4PgcaYt89gg6y) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Heatwave](https://open.spotify.com/album/4g9FEP9LOTOblQ8ni00ymY) | 4:29 |
-| 47 | [GODDESS REIGN](https://open.spotify.com/track/1PTYb9Ta9dBHSXexc9etic) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [MAKER'S DESIGN](https://open.spotify.com/album/2TunGa3NkPq54qjCozALUl) | 3:29 |
+| 46 | [GODDESS REIGN](https://open.spotify.com/track/1PTYb9Ta9dBHSXexc9etic) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [MAKER'S DESIGN](https://open.spotify.com/album/2TunGa3NkPq54qjCozALUl) | 3:29 |
+| 47 | [Heatwave](https://open.spotify.com/track/5DQ45iTgC4PgcaYt89gg6y) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Heatwave](https://open.spotify.com/album/4g9FEP9LOTOblQ8ni00ymY) | 4:29 |
 | 48 | [Regret](https://open.spotify.com/track/4wQp3kcxjM778uwcymCXK4) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [3:33am](https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i) | 3:23 |
 | 49 | [Save My Love \(feat\. Amber Mark\)](https://open.spotify.com/track/5tson2htpYtXMALweS4aW5) | [Lonr.](https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Reminiscence \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6eyrmkH16YkwGFyWanYa82) | 3:13 |
 | 50 | [Trees On Fire \(ft\. Amber Mark and Marco McKinnis\)](https://open.spotify.com/track/5xoWa1jhbcg8i0Z2cRtphe) | [DJDS](https://open.spotify.com/artist/0orEyXhG0KnPEDVgpctNJI), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Marco McKinnis](https://open.spotify.com/artist/2hnEiOVSXzO81ruLVH0KUR) | [Big Wave More Fire](https://open.spotify.com/album/30tc5b5AulEnOeyKTT9Cz3) | 3:46 |
 
-Snapshot ID: `ajSGgAAAAAAznKHMhFka2PT2rFdLwtUi`
+Snapshot ID: `ajXYAAAAAAC9IxtyZFQLOEqRsweKPzI2`

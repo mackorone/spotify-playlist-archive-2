@@ -1,12 +1,12 @@
 {
   "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 16208,
+  "num_followers": 16212,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAAAh9nLwa0dXyGP2rXjabZCV",
+  "snapshot_id": "ajXYAAAAAACPcD5PmqAZpSSYCZELmWEg",
   "tracks": [
     {
       "added_at": null,
@@ -123,26 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SHAKE THE SNOW GLOBE",
-        "url": "https://open.spotify.com/album/2ZzatxW5gv1XZ0uai8TKxk"
-      },
-      "artists": [
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 160720,
-      "name": "BEST ON EARTH (feat. BIA) - Bonus",
-      "url": "https://open.spotify.com/track/0xKBkLcF71uUQeTA7FSu4A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Official FIFA World Cup 2026\u2122 Album",
         "url": "https://open.spotify.com/album/3cLao7JVaEFsplFdY8TkJT"
       },
@@ -163,6 +143,26 @@
       "duration_ms": 181241,
       "name": "Energy",
       "url": "https://open.spotify.com/track/6pBkDdHNn7xujkpXYxqE2f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SHAKE THE SNOW GLOBE",
+        "url": "https://open.spotify.com/album/2ZzatxW5gv1XZ0uai8TKxk"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 160720,
+      "name": "BEST ON EARTH (feat. BIA) - Bonus",
+      "url": "https://open.spotify.com/track/0xKBkLcF71uUQeTA7FSu4A"
     },
     {
       "added_at": null,
@@ -339,30 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Young (ft. BIA & Destroy Lonely)",
-        "url": "https://open.spotify.com/album/340zyCfyEhnqTgi1u51KGE"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-        }
-      ],
-      "duration_ms": 168074,
-      "name": "Young (ft. BIA & Destroy Lonely)",
-      "url": "https://open.spotify.com/track/5IGgVDDTEXBZhtPIeUdYdD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Su\u00e9ltate (From Sing 2)",
         "url": "https://open.spotify.com/album/1XVamMw0XzgCe7SStQTlai"
       },
@@ -387,6 +363,30 @@
       "duration_ms": 210631,
       "name": "Su\u00e9ltate (From Sing 2) (with Sam i & Jarina De Marco feat. Anitta, BIA)",
       "url": "https://open.spotify.com/track/5GFcYCn3ciDSFTRYOi4oVY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Young (ft. BIA & Destroy Lonely)",
+        "url": "https://open.spotify.com/album/340zyCfyEhnqTgi1u51KGE"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        }
+      ],
+      "duration_ms": 168074,
+      "name": "Young (ft. BIA & Destroy Lonely)",
+      "url": "https://open.spotify.com/track/5IGgVDDTEXBZhtPIeUdYdD"
     },
     {
       "added_at": null,
@@ -619,26 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FAST X (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/04qe48XDdDs4hdurvRDsCF"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Fast & Furious: The Fast Saga",
-          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
-        }
-      ],
-      "duration_ms": 43200,
-      "name": "Furious",
-      "url": "https://open.spotify.com/track/272slxHVqV2k38mxVP2hat"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Real World",
         "url": "https://open.spotify.com/album/1oOQ3NNONlroyPGbElifW3"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 132537,
       "name": "It's You (feat. BIA)",
       "url": "https://open.spotify.com/track/1JwxfXrNbw2tfh0X4ZzQtR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FAST X (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/04qe48XDdDs4hdurvRDsCF"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Fast & Furious: The Fast Saga",
+          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
+        }
+      ],
+      "duration_ms": 43200,
+      "name": "Furious",
+      "url": "https://open.spotify.com/track/272slxHVqV2k38mxVP2hat"
     },
     {
       "added_at": null,
@@ -735,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LIGHTS OUT",
-        "url": "https://open.spotify.com/album/7EvhlLz5NF0LGUn6s0ceZv"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 198352,
-      "name": "LIGHTS OUT",
-      "url": "https://open.spotify.com/track/4WWTcYV2tlGm7KwfPpXgLb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "blame the chat",
         "url": "https://open.spotify.com/album/1yWAdXtJTkmV4LmLBhSMbY"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 139680,
       "name": "fine shyt (feat. BIA)",
       "url": "https://open.spotify.com/track/6XpoHMRgTntAML54Ok1Y5D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LIGHTS OUT",
+        "url": "https://open.spotify.com/album/7EvhlLz5NF0LGUn6s0ceZv"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 198352,
+      "name": "LIGHTS OUT",
+      "url": "https://open.spotify.com/track/4WWTcYV2tlGm7KwfPpXgLb"
     },
     {
       "added_at": null,
@@ -839,26 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "moo",
-        "url": "https://open.spotify.com/album/5RHHriIsaO6PnS4DodUsat"
-      },
-      "artists": [
-        {
-          "name": "DDG",
-          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "jaded (feat. BIA)",
-      "url": "https://open.spotify.com/track/02Qel05Z1siC6oZUWjeP3p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FOR CERTAIN",
         "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
       },
@@ -875,22 +855,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toxic Chocolate",
-        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
+        "name": "moo",
+        "url": "https://open.spotify.com/album/5RHHriIsaO6PnS4DodUsat"
       },
       "artists": [
         {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
         },
         {
           "name": "BIA",
           "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         }
       ],
-      "duration_ms": 181812,
-      "name": "Eat It Up (feat. BIA)",
-      "url": "https://open.spotify.com/track/3nePMGxrBMKtffHpkKqSHA"
+      "duration_ms": 187826,
+      "name": "jaded (feat. BIA)",
+      "url": "https://open.spotify.com/track/02Qel05Z1siC6oZUWjeP3p"
     },
     {
       "added_at": null,
@@ -915,22 +895,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "nights and weekends",
-        "url": "https://open.spotify.com/album/39jNh5MndiuFTNjDjuWnDQ"
+        "name": "Toxic Chocolate",
+        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
       },
       "artists": [
         {
-          "name": "310babii",
-          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         },
         {
           "name": "BIA",
           "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         }
       ],
-      "duration_ms": 137003,
-      "name": "back it up",
-      "url": "https://open.spotify.com/track/3I23NiySJ2e5j7T1s3Q6XL"
+      "duration_ms": 181812,
+      "name": "Eat It Up (feat. BIA)",
+      "url": "https://open.spotify.com/track/3nePMGxrBMKtffHpkKqSHA"
     },
     {
       "added_at": null,
@@ -947,6 +927,26 @@
       "duration_ms": 162779,
       "name": "SKATE",
       "url": "https://open.spotify.com/track/5eeNzRV0twsDptfHslE7XR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "nights and weekends",
+        "url": "https://open.spotify.com/album/39jNh5MndiuFTNjDjuWnDQ"
+      },
+      "artists": [
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 137003,
+      "name": "back it up",
+      "url": "https://open.spotify.com/track/3I23NiySJ2e5j7T1s3Q6XL"
     },
     {
       "added_at": null,
@@ -991,26 +991,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'M THAT BITCH",
-        "url": "https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Timbaland",
-          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
-        }
-      ],
-      "duration_ms": 152043,
-      "name": "I'M THAT BITCH",
-      "url": "https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FOR CERTAIN",
         "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 227669,
       "name": "Buy What U Want",
       "url": "https://open.spotify.com/track/2DEIPMzcyKZ45YYYPZl4WC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'M THAT BITCH",
+        "url": "https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ],
+      "duration_ms": 152043,
+      "name": "I'M THAT BITCH",
+      "url": "https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62"
     },
     {
       "added_at": null,

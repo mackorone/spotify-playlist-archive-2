@@ -1,12 +1,12 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Haylie Davis",
-  "num_followers": 425864,
+  "num_followers": 425881,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALRFlf7Gvv3LRzdo8cX0MMWK356U",
+  "snapshot_id": "AAAAAOCBRMMj93nj4ZdLYk5uyp2mrIOS",
   "tracks": [
     {
       "added_at": "2026-06-12 04:00:58",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-06-12 04:00:58",
       "album": {
-        "name": "Hold On (Hourglass)",
-        "url": "https://open.spotify.com/album/1xT90CemUTK48e1L3y7Pfx"
-      },
-      "artists": [
-        {
-          "name": "Devon Gilfillian",
-          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
-        }
-      ],
-      "duration_ms": 248613,
-      "name": "Hold On (Hourglass)",
-      "url": "https://open.spotify.com/track/1QDySElJ1ReSMXctn2RlX2"
-    },
-    {
-      "added_at": "2026-06-12 04:00:58",
-      "album": {
         "name": "The Very Last Day",
         "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 174735,
       "name": "Every Night",
       "url": "https://open.spotify.com/track/5BrN8NTopdMoVuidy7jFRo"
+    },
+    {
+      "added_at": "2026-06-12 04:00:58",
+      "album": {
+        "name": "Hold On (Hourglass)",
+        "url": "https://open.spotify.com/album/1xT90CemUTK48e1L3y7Pfx"
+      },
+      "artists": [
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        }
+      ],
+      "duration_ms": 248613,
+      "name": "Hold On (Hourglass)",
+      "url": "https://open.spotify.com/track/1QDySElJ1ReSMXctn2RlX2"
     },
     {
       "added_at": "2026-06-12 04:00:58",
@@ -799,22 +799,6 @@
       "duration_ms": 178081,
       "name": "It's Been Too Long (Since I've Loved Someone)",
       "url": "https://open.spotify.com/track/25Mf214vqBqOxgTgXevqZp"
-    },
-    {
-      "added_at": "2026-06-12 04:00:58",
-      "album": {
-        "name": "Metamodern Sounds in Country Music",
-        "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 146106,
-      "name": "Life of Sin",
-      "url": "https://open.spotify.com/track/7oop0Rsh4jhdOtglVL3Dmf"
     },
     {
       "added_at": "2026-06-12 04:00:58",
@@ -883,6 +867,22 @@
       "duration_ms": 321400,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/1kb4gNmvXUhQItlxnI6sLe"
+    },
+    {
+      "added_at": "2026-06-12 04:00:58",
+      "album": {
+        "name": "Metamodern Sounds in Country Music",
+        "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "duration_ms": 146106,
+      "name": "Life of Sin",
+      "url": "https://open.spotify.com/track/7oop0Rsh4jhdOtglVL3Dmf"
     },
     {
       "added_at": "2026-06-12 04:00:58",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-06-12 04:00:58",
       "album": {
-        "name": "Choose Love / It\u2019s Been Too Long",
-        "url": "https://open.spotify.com/album/7rcXmePnj6U9ScOvXkaMuU"
-      },
-      "artists": [
-        {
-          "name": "Ringo Starr",
-          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
-        }
-      ],
-      "duration_ms": 234801,
-      "name": "Choose Love",
-      "url": "https://open.spotify.com/track/1IRZD7Wz6WRy06v2BEofAr"
-    },
-    {
-      "added_at": "2026-06-12 04:00:58",
-      "album": {
         "name": "Hard Working Americans",
         "url": "https://open.spotify.com/album/4b8yPzgOgP0oeOU2SVeCSN"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 288693,
       "name": "Stomp and Holler",
       "url": "https://open.spotify.com/track/21MxnjLrvBUY3XgwU7l6kn"
+    },
+    {
+      "added_at": "2026-06-12 04:00:58",
+      "album": {
+        "name": "Choose Love / It\u2019s Been Too Long",
+        "url": "https://open.spotify.com/album/7rcXmePnj6U9ScOvXkaMuU"
+      },
+      "artists": [
+        {
+          "name": "Ringo Starr",
+          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
+        }
+      ],
+      "duration_ms": 234801,
+      "name": "Choose Love",
+      "url": "https://open.spotify.com/track/1IRZD7Wz6WRy06v2BEofAr"
     },
     {
       "added_at": "2026-06-12 04:00:58",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-06-12 04:00:58",
       "album": {
-        "name": "Lie To Me",
-        "url": "https://open.spotify.com/album/0OanktBjwWfJ6rdNICU5ET"
-      },
-      "artists": [
-        {
-          "name": "The Jaws of Brooklyn",
-          "url": "https://open.spotify.com/artist/0G8ZAUGVk9uCR2xycfkepP"
-        }
-      ],
-      "duration_ms": 172014,
-      "name": "Lie To Me",
-      "url": "https://open.spotify.com/track/29VmWHsaU3HhRn88PSLg0M"
-    },
-    {
-      "added_at": "2026-06-12 04:00:58",
-      "album": {
         "name": "Look Who's Back",
         "url": "https://open.spotify.com/album/46VxArVIVJrpSJrHD3P2ji"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 220586,
       "name": "What You Don't Do",
       "url": "https://open.spotify.com/track/2txZKGnh75sFb3FFnuwjgF"
+    },
+    {
+      "added_at": "2026-06-12 04:00:58",
+      "album": {
+        "name": "Lie To Me",
+        "url": "https://open.spotify.com/album/0OanktBjwWfJ6rdNICU5ET"
+      },
+      "artists": [
+        {
+          "name": "The Jaws of Brooklyn",
+          "url": "https://open.spotify.com/artist/0G8ZAUGVk9uCR2xycfkepP"
+        }
+      ],
+      "duration_ms": 172014,
+      "name": "Lie To Me",
+      "url": "https://open.spotify.com/track/29VmWHsaU3HhRn88PSLg0M"
     },
     {
       "added_at": "2026-06-12 04:00:58",

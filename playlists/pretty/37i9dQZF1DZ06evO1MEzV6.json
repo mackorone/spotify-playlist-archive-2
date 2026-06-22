@@ -1,12 +1,12 @@
 {
   "description": "This is beabadoobee. The essential tracks, all in one playlist.",
-  "num_followers": 124984,
+  "num_followers": 125004,
   "original_name": "This Is beabadoobee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAADcZ5o4NY9i8RYv4E6nd22H",
+  "snapshot_id": "ajXYAAAAAABttoD6/o4vupWTHI1ANYHI",
   "tracks": [
     {
       "added_at": null,
@@ -151,22 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "the way things go",
-        "url": "https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 187800,
-      "name": "the way things go",
-      "url": "https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coffee",
         "url": "https://open.spotify.com/album/5wQU9QESgj4rLyLECGTJGn"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 126824,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/429NtPmr12aypzFH3FkN9l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "the way things go",
+        "url": "https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 187800,
+      "name": "the way things go",
+      "url": "https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv"
     },
     {
       "added_at": null,
@@ -635,22 +635,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "fall in love with a girl (feat. Beabadoobee)",
-        "url": "https://open.spotify.com/album/18czgkFPCbEyxqTGt3dBQ1"
+        "name": "Patched Up",
+        "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
       },
       "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        },
         {
           "name": "beabadoobee",
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 190853,
-      "name": "fall in love with a girl (feat. Beabadoobee)",
-      "url": "https://open.spotify.com/track/0rH1Y0mcALJgAq8EKF2Zwt"
+      "duration_ms": 255021,
+      "name": "The Way I Spoke",
+      "url": "https://open.spotify.com/track/4NuAQGfKJhrJnTtBSMNrtz"
     },
     {
       "added_at": null,
@@ -687,18 +683,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Patched Up",
-        "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
+        "name": "fall in love with a girl (feat. Beabadoobee)",
+        "url": "https://open.spotify.com/album/18czgkFPCbEyxqTGt3dBQ1"
       },
       "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        },
         {
           "name": "beabadoobee",
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 255021,
-      "name": "The Way I Spoke",
-      "url": "https://open.spotify.com/track/4NuAQGfKJhrJnTtBSMNrtz"
+      "duration_ms": 190853,
+      "name": "fall in love with a girl (feat. Beabadoobee)",
+      "url": "https://open.spotify.com/track/0rH1Y0mcALJgAq8EKF2Zwt"
     },
     {
       "added_at": null,

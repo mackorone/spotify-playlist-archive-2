@@ -1,12 +1,12 @@
 {
   "description": "Workout with Haryanvi Songs.",
-  "num_followers": 58838,
+  "num_followers": 58884,
   "original_name": "Haryanvi Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH2dQ1U9P1AVaXu1PQwbzQQ5sRt/",
+  "snapshot_id": "AAAAAJXeTGdOFSsnh0WKg+Vd4v2E0Bee",
   "tracks": [
     {
       "added_at": "2026-06-12 12:43:40",
@@ -335,18 +335,26 @@
     {
       "added_at": "2026-06-12 12:43:40",
       "album": {
-        "name": "Og",
-        "url": "https://open.spotify.com/album/6jO2GFWlZRkYqVXc5U3nnS"
+        "name": "Lala Lori",
+        "url": "https://open.spotify.com/album/594NRt70OyoHOUljG5CBiy"
       },
       "artists": [
         {
-          "name": "Gulzaar Chhaniwala",
-          "url": "https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo"
+          "name": "Fazilpuria",
+          "url": "https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX"
+        },
+        {
+          "name": "Jaani",
+          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
+        },
+        {
+          "name": "Afsana Khan",
+          "url": "https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo"
         }
       ],
-      "duration_ms": 185153,
-      "name": "Og",
-      "url": "https://open.spotify.com/track/2y286nV941JBSCJUF35fhC"
+      "duration_ms": 160000,
+      "name": "Lala Lori",
+      "url": "https://open.spotify.com/track/7r48j4khJzIT2uqcIU33ax"
     },
     {
       "added_at": "2026-06-12 12:43:40",
@@ -371,26 +379,18 @@
     {
       "added_at": "2026-06-12 12:43:40",
       "album": {
-        "name": "Lala Lori",
-        "url": "https://open.spotify.com/album/594NRt70OyoHOUljG5CBiy"
+        "name": "Og",
+        "url": "https://open.spotify.com/album/6jO2GFWlZRkYqVXc5U3nnS"
       },
       "artists": [
         {
-          "name": "Fazilpuria",
-          "url": "https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX"
-        },
-        {
-          "name": "Jaani",
-          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
-        },
-        {
-          "name": "Afsana Khan",
-          "url": "https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo"
+          "name": "Gulzaar Chhaniwala",
+          "url": "https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Lala Lori",
-      "url": "https://open.spotify.com/track/7r48j4khJzIT2uqcIU33ax"
+      "duration_ms": 185153,
+      "name": "Og",
+      "url": "https://open.spotify.com/track/2y286nV941JBSCJUF35fhC"
     },
     {
       "added_at": "2026-06-12 12:43:40",

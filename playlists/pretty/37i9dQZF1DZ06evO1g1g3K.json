@@ -1,12 +1,12 @@
 {
   "description": "This is Durand Bernarr. The essential tracks, all in one playlist.",
-  "num_followers": 7323,
+  "num_followers": 7328,
   "original_name": "This Is Durand Bernarr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAAAJhN8CplspWvT4tcheVIrw",
+  "snapshot_id": "ajXYAAAAAADzrqzAh1ugmjBLNGB80Pbm",
   "tracks": [
     {
       "added_at": null,
@@ -411,26 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Terrell One Million Show",
-        "url": "https://open.spotify.com/album/3cAgKKxhswmZu3t8OC8Hr1"
-      },
-      "artists": [
-        {
-          "name": "Terrell Grice",
-          "url": "https://open.spotify.com/artist/2uyVNFnf9icQH8UizUvxHP"
-        },
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 291620,
-      "name": "I Like It",
-      "url": "https://open.spotify.com/track/2whrzPDuhdUfLYaE8xENIN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Antidote",
         "url": "https://open.spotify.com/album/4qMSxLQ4cw8ZsQgX0V3o2R"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 227750,
       "name": "Antidote",
       "url": "https://open.spotify.com/track/1FNH1V63OdaLf69OvEvQBK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Terrell One Million Show",
+        "url": "https://open.spotify.com/album/3cAgKKxhswmZu3t8OC8Hr1"
+      },
+      "artists": [
+        {
+          "name": "Terrell Grice",
+          "url": "https://open.spotify.com/artist/2uyVNFnf9icQH8UizUvxHP"
+        },
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 291620,
+      "name": "I Like It",
+      "url": "https://open.spotify.com/track/2whrzPDuhdUfLYaE8xENIN"
     },
     {
       "added_at": null,
@@ -503,6 +503,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "baby, can we?",
+        "url": "https://open.spotify.com/album/3bgs7xRzqhbubFe4t1xoUZ"
+      },
+      "artists": [
+        {
+          "name": "Dawn Richard",
+          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
+        },
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 246422,
+      "name": "baby, can we?",
+      "url": "https://open.spotify.com/track/2VAqycb7wkoJvHjAg3GLdk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DUR&",
         "url": "https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki"
       },
@@ -515,6 +535,22 @@
       "duration_ms": 305218,
       "name": "Company",
       "url": "https://open.spotify.com/track/1SxojyK5aAEHRS2mnNgVhU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BLOOM",
+        "url": "https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 369998,
+      "name": "GENEROUS",
+      "url": "https://open.spotify.com/track/15iKg3vhtQNgIMtv6IzylW"
     },
     {
       "added_at": null,
@@ -535,22 +571,6 @@
       "duration_ms": 349319,
       "name": "Completed - A COLORS SHOW",
       "url": "https://open.spotify.com/track/2VU9K6Cw4ocEaamg0iNkqr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BLOOM",
-        "url": "https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 369998,
-      "name": "GENEROUS",
-      "url": "https://open.spotify.com/track/15iKg3vhtQNgIMtv6IzylW"
     },
     {
       "added_at": null,
@@ -607,26 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "baby, can we?",
-        "url": "https://open.spotify.com/album/3bgs7xRzqhbubFe4t1xoUZ"
-      },
-      "artists": [
-        {
-          "name": "Dawn Richard",
-          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
-        },
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 246422,
-      "name": "baby, can we?",
-      "url": "https://open.spotify.com/track/2VAqycb7wkoJvHjAg3GLdk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Humo en la Trampa 3",
         "url": "https://open.spotify.com/album/5q8hNRlU7Bzo0WOui0hbci"
       },
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Route",
-        "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 207947,
-      "name": "Neutral",
-      "url": "https://open.spotify.com/track/1Yphx7raUV3ZKTpayAo2l2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wanderlust",
         "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 239815,
       "name": "H.I. (feat. Devin Tracy)",
       "url": "https://open.spotify.com/track/0L8fkRTODFPnShmcGlbuzP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Route",
+        "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 207947,
+      "name": "Neutral",
+      "url": "https://open.spotify.com/track/1Yphx7raUV3ZKTpayAo2l2"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "B-Boys Blues (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/26uTBBw7ZHAggZpOFP0ANQ"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 173605,
-      "name": "Homage",
-      "url": "https://open.spotify.com/track/4jCwxj1GpM7MTSNy6i2ihs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DUR&",
         "url": "https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki"
       },
@@ -783,26 +767,6 @@
       "duration_ms": 282219,
       "name": "Melody",
       "url": "https://open.spotify.com/track/0cc4hNDMidsGNzAZ2jFw71"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Raw In Amsterdam (Live)",
-        "url": "https://open.spotify.com/album/2V6vqIHHdVfSvH7bMeAWEd"
-      },
-      "artists": [
-        {
-          "name": "Philip Lassiter",
-          "url": "https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L"
-        },
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 291053,
-      "name": "Bump The Man - Live",
-      "url": "https://open.spotify.com/track/5yWFIKczW4utUfbHkrZt7p"
     },
     {
       "added_at": null,

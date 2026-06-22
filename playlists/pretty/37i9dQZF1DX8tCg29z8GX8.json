@@ -1,6 +1,6 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 20881,
+  "num_followers": 20884,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,22 @@
     {
       "added_at": "2026-06-19 00:02:01",
       "album": {
-        "name": "Lomo Lomo",
-        "url": "https://open.spotify.com/album/4MTFOFZPAkcVKhnk76J6EK"
+        "name": "Love Don't Cost A Dime (Re-Up)",
+        "url": "https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT"
       },
       "artists": [
         {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
         },
         {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 175130,
-      "name": "Lomo Lomo",
-      "url": "https://open.spotify.com/track/12jJRu9yInIX7oTxoXtM0S"
+      "duration_ms": 147600,
+      "name": "Love Don't Cost A Dime (Re-Up)",
+      "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
     },
     {
       "added_at": "2026-06-19 00:02:01",
@@ -195,22 +195,22 @@
     {
       "added_at": "2026-06-19 00:02:01",
       "album": {
-        "name": "Love Don't Cost A Dime (Re-Up)",
-        "url": "https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT"
+        "name": "Lomo Lomo",
+        "url": "https://open.spotify.com/album/4MTFOFZPAkcVKhnk76J6EK"
       },
       "artists": [
         {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
         },
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "duration_ms": 147600,
-      "name": "Love Don't Cost A Dime (Re-Up)",
-      "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
+      "duration_ms": 175130,
+      "name": "Lomo Lomo",
+      "url": "https://open.spotify.com/track/12jJRu9yInIX7oTxoXtM0S"
     },
     {
       "added_at": "2026-06-19 00:02:01",
@@ -551,26 +551,6 @@
     {
       "added_at": "2026-06-19 00:02:01",
       "album": {
-        "name": "ODO PA",
-        "url": "https://open.spotify.com/album/4B2Bs2cX0e7mhEeHyogBiz"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Kweku Flick",
-          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "ODO PA",
-      "url": "https://open.spotify.com/track/4XyamF81pJyWkC8Q1ps1Ff"
-    },
-    {
-      "added_at": "2026-06-19 00:02:01",
-      "album": {
         "name": "Gymnastic",
         "url": "https://open.spotify.com/album/4vIBy4r7qrMAJDCCSLqVkT"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 210566,
       "name": "Gymnastic",
       "url": "https://open.spotify.com/track/53ZyjcAefL9uRYtDFes78m"
+    },
+    {
+      "added_at": "2026-06-19 00:02:01",
+      "album": {
+        "name": "ODO PA",
+        "url": "https://open.spotify.com/album/4B2Bs2cX0e7mhEeHyogBiz"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kweku Flick",
+          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "ODO PA",
+      "url": "https://open.spotify.com/track/4XyamF81pJyWkC8Q1ps1Ff"
     },
     {
       "added_at": "2026-06-19 00:02:01",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-06-19 00:02:01",
       "album": {
-        "name": "Redemption Valley",
-        "url": "https://open.spotify.com/album/5yrqs9rxblxjsZL7FEniJw"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        }
-      ],
-      "duration_ms": 165981,
-      "name": "Yawa (Hosanna)",
-      "url": "https://open.spotify.com/track/6z8ar5d1V3YMtpa5KBWIAP"
-    },
-    {
-      "added_at": "2026-06-19 00:02:01",
-      "album": {
         "name": "Very Soon",
         "url": "https://open.spotify.com/album/42R7w5OImRPdU3Ex59eXd2"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 189177,
       "name": "Very Soon",
       "url": "https://open.spotify.com/track/1tBfoI9tFVl8ampIRG4eTr"
+    },
+    {
+      "added_at": "2026-06-19 00:02:01",
+      "album": {
+        "name": "Redemption Valley",
+        "url": "https://open.spotify.com/album/5yrqs9rxblxjsZL7FEniJw"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "duration_ms": 165981,
+      "name": "Yawa (Hosanna)",
+      "url": "https://open.spotify.com/track/6z8ar5d1V3YMtpa5KBWIAP"
     },
     {
       "added_at": "2026-06-19 00:02:01",
@@ -751,38 +751,6 @@
     {
       "added_at": "2026-06-19 00:02:01",
       "album": {
-        "name": "This Is Not the Tape III",
-        "url": "https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        }
-      ],
-      "duration_ms": 168346,
-      "name": "Fefe Ne Fe",
-      "url": "https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV"
-    },
-    {
-      "added_at": "2026-06-19 00:02:01",
-      "album": {
-        "name": "Matter",
-        "url": "https://open.spotify.com/album/05O6DVCuHwbJJKE6lj4VRb"
-      },
-      "artists": [
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        }
-      ],
-      "duration_ms": 169541,
-      "name": "Matter",
-      "url": "https://open.spotify.com/track/1LtqcH7fpqyIiGUgJvNIbM"
-    },
-    {
-      "added_at": "2026-06-19 00:02:01",
-      "album": {
         "name": "CAME OF AGE",
         "url": "https://open.spotify.com/album/1WEt6ZRsPzCTQqmRGgaRID"
       },
@@ -795,6 +763,22 @@
       "duration_ms": 167067,
       "name": "EASY",
       "url": "https://open.spotify.com/track/0zGx4JuFITnZggFoEWuXUh"
+    },
+    {
+      "added_at": "2026-06-19 00:02:01",
+      "album": {
+        "name": "This Is Not the Tape III",
+        "url": "https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "duration_ms": 168346,
+      "name": "Fefe Ne Fe",
+      "url": "https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV"
     },
     {
       "added_at": "2026-06-19 00:02:01",
@@ -819,6 +803,22 @@
     {
       "added_at": "2026-06-19 00:02:01",
       "album": {
+        "name": "Matter",
+        "url": "https://open.spotify.com/album/05O6DVCuHwbJJKE6lj4VRb"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 169541,
+      "name": "Matter",
+      "url": "https://open.spotify.com/track/1LtqcH7fpqyIiGUgJvNIbM"
+    },
+    {
+      "added_at": "2026-06-19 00:02:01",
+      "album": {
         "name": "The Interface (Shatta Music Genre)",
         "url": "https://open.spotify.com/album/6m4SzULX5PaOIw6zQKmyFl"
       },
@@ -831,6 +831,38 @@
       "duration_ms": 151288,
       "name": "Yawa Ni (shatta music)",
       "url": "https://open.spotify.com/track/7IveKHTxWlPKm3TJOBqo27"
+    },
+    {
+      "added_at": "2026-06-19 00:02:01",
+      "album": {
+        "name": "BALENCIAGA II",
+        "url": "https://open.spotify.com/album/4ZDzI9tLDiRfd2zL5XmQug"
+      },
+      "artists": [
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        },
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        },
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        },
+        {
+          "name": "SAMA'",
+          "url": "https://open.spotify.com/artist/56lnidsuyzPjHuymxZCwPM"
+        },
+        {
+          "name": "Oseikrom Sikanii",
+          "url": "https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN"
+        }
+      ],
+      "duration_ms": 301530,
+      "name": "BALENCIAGA II",
+      "url": "https://open.spotify.com/track/1NPH6x3Pb3ByklHyaA5MGV"
     },
     {
       "added_at": "2026-06-19 00:02:01",
@@ -879,54 +911,6 @@
     {
       "added_at": "2026-06-19 00:02:01",
       "album": {
-        "name": "BALENCIAGA II",
-        "url": "https://open.spotify.com/album/4ZDzI9tLDiRfd2zL5XmQug"
-      },
-      "artists": [
-        {
-          "name": "O'Kenneth",
-          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
-        },
-        {
-          "name": "Medikal",
-          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
-        },
-        {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
-        },
-        {
-          "name": "SAMA'",
-          "url": "https://open.spotify.com/artist/56lnidsuyzPjHuymxZCwPM"
-        },
-        {
-          "name": "Oseikrom Sikanii",
-          "url": "https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN"
-        }
-      ],
-      "duration_ms": 301530,
-      "name": "BALENCIAGA II",
-      "url": "https://open.spotify.com/track/1NPH6x3Pb3ByklHyaA5MGV"
-    },
-    {
-      "added_at": "2026-06-19 00:02:01",
-      "album": {
-        "name": "The Odyssey",
-        "url": "https://open.spotify.com/album/1cMwW3RWNFCLR8A9gUQRVG"
-      },
-      "artists": [
-        {
-          "name": "AratheJay",
-          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Ara No Dey Sleep",
-      "url": "https://open.spotify.com/track/3sQgX4EW0lnLYr0BAbPA9g"
-    },
-    {
-      "added_at": "2026-06-19 00:02:01",
-      "album": {
         "name": "Habit",
         "url": "https://open.spotify.com/album/6c98Q6htS2zxyjaPT8vrJS"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 173033,
       "name": "Habit",
       "url": "https://open.spotify.com/track/1NtUT0I0TUPZB6OrN4dbkc"
+    },
+    {
+      "added_at": "2026-06-19 00:02:01",
+      "album": {
+        "name": "The Odyssey",
+        "url": "https://open.spotify.com/album/1cMwW3RWNFCLR8A9gUQRVG"
+      },
+      "artists": [
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Ara No Dey Sleep",
+      "url": "https://open.spotify.com/track/3sQgX4EW0lnLYr0BAbPA9g"
     },
     {
       "added_at": "2026-06-19 00:02:01",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-06-19 00:02:01",
       "album": {
-        "name": "TORCHER II",
-        "url": "https://open.spotify.com/album/5OKoGIvE7RR2RMVyuYPUhD"
-      },
-      "artists": [
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        }
-      ],
-      "duration_ms": 179368,
-      "name": "Many Times",
-      "url": "https://open.spotify.com/track/1Z1qgSImhoKPVPgSDuXlrY"
-    },
-    {
-      "added_at": "2026-06-19 00:02:01",
-      "album": {
         "name": "No Issues",
         "url": "https://open.spotify.com/album/67InfoNsNPlkHNQcB2FUEn"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 201369,
       "name": "No Issues",
       "url": "https://open.spotify.com/track/4epMA12G6SPOTJryCZ4ouF"
+    },
+    {
+      "added_at": "2026-06-19 00:02:01",
+      "album": {
+        "name": "TORCHER II",
+        "url": "https://open.spotify.com/album/5OKoGIvE7RR2RMVyuYPUhD"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "duration_ms": 179368,
+      "name": "Many Times",
+      "url": "https://open.spotify.com/track/1Z1qgSImhoKPVPgSDuXlrY"
     },
     {
       "added_at": "2026-06-19 00:02:01",
@@ -1043,22 +1043,18 @@
     {
       "added_at": "2026-06-19 00:02:01",
       "album": {
-        "name": "Mon B\u00e9b\u00e9 (with King Promise)",
-        "url": "https://open.spotify.com/album/5lQrNveZHKVrsG16jYOVzc"
+        "name": "BALENCIAGA",
+        "url": "https://open.spotify.com/album/4xA3y8qPxOG6zRjk1ZE0G9"
       },
       "artists": [
         {
-          "name": "KOJO BLAK",
-          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
         }
       ],
-      "duration_ms": 168791,
-      "name": "Mon B\u00e9b\u00e9 (with King Promise)",
-      "url": "https://open.spotify.com/track/6WDxmvyUaZpxS9vCtfA5iC"
+      "duration_ms": 140014,
+      "name": "BALENCIAGA",
+      "url": "https://open.spotify.com/track/1v50F7vK31Czts54YID73W"
     },
     {
       "added_at": "2026-06-19 00:02:01",
@@ -1083,34 +1079,22 @@
     {
       "added_at": "2026-06-19 00:02:01",
       "album": {
-        "name": "BALENCIAGA",
-        "url": "https://open.spotify.com/album/4xA3y8qPxOG6zRjk1ZE0G9"
+        "name": "Mon B\u00e9b\u00e9 (with King Promise)",
+        "url": "https://open.spotify.com/album/5lQrNveZHKVrsG16jYOVzc"
       },
       "artists": [
         {
-          "name": "O'Kenneth",
-          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
-        }
-      ],
-      "duration_ms": 140014,
-      "name": "BALENCIAGA",
-      "url": "https://open.spotify.com/track/1v50F7vK31Czts54YID73W"
-    },
-    {
-      "added_at": "2026-06-19 00:02:01",
-      "album": {
-        "name": "sankofa",
-        "url": "https://open.spotify.com/album/3LWU6KJE2nMfhQNI2pSVCY"
-      },
-      "artists": [
+          "name": "KOJO BLAK",
+          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
+        },
         {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
         }
       ],
-      "duration_ms": 156200,
-      "name": "sankofa",
-      "url": "https://open.spotify.com/track/0JwTlwOTMnxar1Sk0tBVaj"
+      "duration_ms": 168791,
+      "name": "Mon B\u00e9b\u00e9 (with King Promise)",
+      "url": "https://open.spotify.com/track/6WDxmvyUaZpxS9vCtfA5iC"
     },
     {
       "added_at": "2026-06-19 00:02:01",
@@ -1131,6 +1115,22 @@
       "duration_ms": 170840,
       "name": "meet 4 corner",
       "url": "https://open.spotify.com/track/1xzClFt96f9K5mGCCAXTD8"
+    },
+    {
+      "added_at": "2026-06-19 00:02:01",
+      "album": {
+        "name": "sankofa",
+        "url": "https://open.spotify.com/album/3LWU6KJE2nMfhQNI2pSVCY"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 156200,
+      "name": "sankofa",
+      "url": "https://open.spotify.com/track/0JwTlwOTMnxar1Sk0tBVaj"
     },
     {
       "added_at": "2026-06-19 00:02:01",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-06-19 00:02:01",
       "album": {
-        "name": "Webkid (Shatta Music)",
-        "url": "https://open.spotify.com/album/6KPB8evaWx5LNoyqQWcTdh"
-      },
-      "artists": [
-        {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
-        }
-      ],
-      "duration_ms": 137992,
-      "name": "Webkid (Shatta Music)",
-      "url": "https://open.spotify.com/track/2yt19nfbH7CIIRG1WKABPY"
-    },
-    {
-      "added_at": "2026-06-19 00:02:01",
-      "album": {
         "name": "Olivia",
         "url": "https://open.spotify.com/album/71LNcbKRpuxYZ3rfG8zZhm"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 185660,
       "name": "Olivia",
       "url": "https://open.spotify.com/track/1mUPiWUDXCQvkiNpzNa0yk"
+    },
+    {
+      "added_at": "2026-06-19 00:02:01",
+      "album": {
+        "name": "Webkid (Shatta Music)",
+        "url": "https://open.spotify.com/album/6KPB8evaWx5LNoyqQWcTdh"
+      },
+      "artists": [
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "duration_ms": 137992,
+      "name": "Webkid (Shatta Music)",
+      "url": "https://open.spotify.com/track/2yt19nfbH7CIIRG1WKABPY"
     },
     {
       "added_at": "2026-06-19 00:02:01",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2026-06-19 00:02:01",
       "album": {
+        "name": "WALK WITH ME",
+        "url": "https://open.spotify.com/album/5AMNvhVAyOSfEwTtZ4lXdl"
+      },
+      "artists": [
+        {
+          "name": "Kweku Smoke",
+          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
+        }
+      ],
+      "duration_ms": 221418,
+      "name": "Someday Soon",
+      "url": "https://open.spotify.com/track/1tefeAORT76SRH3r4Qoj0g"
+    },
+    {
+      "added_at": "2026-06-19 00:02:01",
+      "album": {
         "name": "Peace Of Mind",
         "url": "https://open.spotify.com/album/6XeLqCyD4eWpW45Y0YMgit"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 179250,
       "name": "Peace Of Mind",
       "url": "https://open.spotify.com/track/1H3xndRZIQBSHjEeNjWZXK"
-    },
-    {
-      "added_at": "2026-06-19 00:02:01",
-      "album": {
-        "name": "WALK WITH ME",
-        "url": "https://open.spotify.com/album/5AMNvhVAyOSfEwTtZ4lXdl"
-      },
-      "artists": [
-        {
-          "name": "Kweku Smoke",
-          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
-        }
-      ],
-      "duration_ms": 221418,
-      "name": "Someday Soon",
-      "url": "https://open.spotify.com/track/1tefeAORT76SRH3r4Qoj0g"
     },
     {
       "added_at": "2026-06-19 00:02:01",
@@ -1347,22 +1347,22 @@
     {
       "added_at": "2026-06-19 00:02:01",
       "album": {
-        "name": "After The Storm",
-        "url": "https://open.spotify.com/album/0KAOzTgE6sRm9LKOoFsPW4"
+        "name": "Akua Broni",
+        "url": "https://open.spotify.com/album/0DL4sDESnkZXriFwYpvjVb"
       },
       "artists": [
         {
-          "name": "Del B",
-          "url": "https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t"
+          "name": "Moon Byni",
+          "url": "https://open.spotify.com/artist/3qfpTiMILzhUEZWlQaM229"
         },
         {
-          "name": "DJ Boat",
-          "url": "https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ"
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
         }
       ],
-      "duration_ms": 168000,
-      "name": "After The Storm",
-      "url": "https://open.spotify.com/track/4hXheeJyYrG8j6YpKzZd38"
+      "duration_ms": 156428,
+      "name": "Akua Broni",
+      "url": "https://open.spotify.com/track/06qbJEpg6a4HTPYS8nSqMN"
     },
     {
       "added_at": "2026-06-19 00:02:01",
@@ -1383,22 +1383,22 @@
     {
       "added_at": "2026-06-19 00:02:01",
       "album": {
-        "name": "Akua Broni",
-        "url": "https://open.spotify.com/album/0DL4sDESnkZXriFwYpvjVb"
+        "name": "After The Storm",
+        "url": "https://open.spotify.com/album/0KAOzTgE6sRm9LKOoFsPW4"
       },
       "artists": [
         {
-          "name": "Moon Byni",
-          "url": "https://open.spotify.com/artist/3qfpTiMILzhUEZWlQaM229"
+          "name": "Del B",
+          "url": "https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t"
         },
         {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+          "name": "DJ Boat",
+          "url": "https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ"
         }
       ],
-      "duration_ms": 156428,
-      "name": "Akua Broni",
-      "url": "https://open.spotify.com/track/06qbJEpg6a4HTPYS8nSqMN"
+      "duration_ms": 168000,
+      "name": "After The Storm",
+      "url": "https://open.spotify.com/track/4hXheeJyYrG8j6YpKzZd38"
     },
     {
       "added_at": "2026-06-19 00:02:01",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2026-06-19 00:02:01",
       "album": {
-        "name": "Fallen Angel",
-        "url": "https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m"
-      },
-      "artists": [
-        {
-          "name": "Smallgod",
-          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 200869,
-      "name": "Fallen Angel",
-      "url": "https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI"
-    },
-    {
-      "added_at": "2026-06-19 00:02:01",
-      "album": {
         "name": "Crazy Love",
         "url": "https://open.spotify.com/album/5bolp7EDlLNan3nQIQwpOD"
       },
@@ -1471,6 +1451,26 @@
       "duration_ms": 169285,
       "name": "Crazy Love",
       "url": "https://open.spotify.com/track/4sckyDjgswzH5RBBHTNlax"
+    },
+    {
+      "added_at": "2026-06-19 00:02:01",
+      "album": {
+        "name": "Fallen Angel",
+        "url": "https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m"
+      },
+      "artists": [
+        {
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 200869,
+      "name": "Fallen Angel",
+      "url": "https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI"
     },
     {
       "added_at": "2026-06-19 00:02:01",

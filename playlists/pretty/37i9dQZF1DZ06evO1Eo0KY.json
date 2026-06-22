@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAABod6UlUw09j4X+trXKAhWi",
+  "snapshot_id": "ajXYAAAAAACjDuHNwhF95spiujKcc7gB",
   "tracks": [
     {
       "added_at": null,
@@ -71,6 +71,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trapper\u2019s Alley 3: Hell or High Water",
+        "url": "https://open.spotify.com/album/0mUWeveVKfmPmCkbwjnAmH"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "Chip$",
+          "url": "https://open.spotify.com/artist/3zP3PBJ5SVfBuYWnzheUHu"
+        },
+        {
+          "name": "Dave Hill",
+          "url": "https://open.spotify.com/artist/66Vcz9MZB6FA5fJQuIiB2z"
+        }
+      ],
+      "duration_ms": 157692,
+      "name": "Beautiful Snow",
+      "url": "https://open.spotify.com/track/6N2txwEaU7WkJ8JKglUb5a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Penalty of Leadership",
         "url": "https://open.spotify.com/album/3jGa3xK9xpXMWpAN8JJ8NL"
       },
@@ -111,34 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trapper\u2019s Alley 3: Hell or High Water",
-        "url": "https://open.spotify.com/album/0mUWeveVKfmPmCkbwjnAmH"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        },
-        {
-          "name": "Chip$",
-          "url": "https://open.spotify.com/artist/3zP3PBJ5SVfBuYWnzheUHu"
-        },
-        {
-          "name": "Dave Hill",
-          "url": "https://open.spotify.com/artist/66Vcz9MZB6FA5fJQuIiB2z"
-        }
-      ],
-      "duration_ms": 157692,
-      "name": "Beautiful Snow",
-      "url": "https://open.spotify.com/track/6N2txwEaU7WkJ8JKglUb5a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fair Exchange No Robbery",
         "url": "https://open.spotify.com/album/4jpTuerIpgU77hzRCfcXZj"
       },
@@ -155,6 +155,26 @@
       "duration_ms": 211973,
       "name": "Designer Drugs",
       "url": "https://open.spotify.com/track/2f36pRZBYcLOqEDEhqSnmI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trapper\u2019s Alley 3: Hell or High Water",
+        "url": "https://open.spotify.com/album/0mUWeveVKfmPmCkbwjnAmH"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "duration_ms": 206219,
+      "name": "My Last Try",
+      "url": "https://open.spotify.com/track/3r4ulyrmE9XazYF2xXUh5n"
     },
     {
       "added_at": null,
@@ -199,26 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trapper\u2019s Alley 3: Hell or High Water",
-        "url": "https://open.spotify.com/album/0mUWeveVKfmPmCkbwjnAmH"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        }
-      ],
-      "duration_ms": 206219,
-      "name": "My Last Try",
-      "url": "https://open.spotify.com/track/3r4ulyrmE9XazYF2xXUh5n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fair Exchange No Robbery",
         "url": "https://open.spotify.com/album/4jpTuerIpgU77hzRCfcXZj"
       },
@@ -232,9 +232,33 @@
           "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
         }
       ],
-      "duration_ms": 199183,
-      "name": "Power Nap",
-      "url": "https://open.spotify.com/track/7CMMfKzZ98rYOvQJpHeSv1"
+      "duration_ms": 191990,
+      "name": "Stuck in Traffic",
+      "url": "https://open.spotify.com/track/6RKVaQhPzmtlDdcysWIV67"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trapper\u2019s Alley 3: Hell or High Water",
+        "url": "https://open.spotify.com/album/0mUWeveVKfmPmCkbwjnAmH"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "Chip$",
+          "url": "https://open.spotify.com/artist/3zP3PBJ5SVfBuYWnzheUHu"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "Hamburger Helper",
+      "url": "https://open.spotify.com/track/5PpBhvXZdVr5XdQ0C3mLnc"
     },
     {
       "added_at": null,
@@ -279,6 +303,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fair Exchange No Robbery",
+        "url": "https://open.spotify.com/album/4jpTuerIpgU77hzRCfcXZj"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "duration_ms": 199183,
+      "name": "Power Nap",
+      "url": "https://open.spotify.com/track/7CMMfKzZ98rYOvQJpHeSv1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trapper\u2019s Alley 3: Hell or High Water",
         "url": "https://open.spotify.com/album/0mUWeveVKfmPmCkbwjnAmH"
       },
@@ -299,26 +343,6 @@
       "duration_ms": 202816,
       "name": "Mama Maxine",
       "url": "https://open.spotify.com/track/2DT9lOMa17zHErPFtwFaXF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fair Exchange No Robbery",
-        "url": "https://open.spotify.com/album/4jpTuerIpgU77hzRCfcXZj"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        }
-      ],
-      "duration_ms": 191990,
-      "name": "Stuck in Traffic",
-      "url": "https://open.spotify.com/track/6RKVaQhPzmtlDdcysWIV67"
     },
     {
       "added_at": null,
@@ -371,30 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trapper\u2019s Alley 3: Hell or High Water",
-        "url": "https://open.spotify.com/album/0mUWeveVKfmPmCkbwjnAmH"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        },
-        {
-          "name": "Chip$",
-          "url": "https://open.spotify.com/artist/3zP3PBJ5SVfBuYWnzheUHu"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "Hamburger Helper",
-      "url": "https://open.spotify.com/track/5PpBhvXZdVr5XdQ0C3mLnc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fair Exchange No Robbery",
         "url": "https://open.spotify.com/album/4jpTuerIpgU77hzRCfcXZj"
       },
@@ -415,6 +415,26 @@
       "duration_ms": 192000,
       "name": "0 Tre Nine",
       "url": "https://open.spotify.com/track/7nabDIEKSh2D5UrXEYgqQf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trapper\u2019s Alley 3: Hell or High Water",
+        "url": "https://open.spotify.com/album/0mUWeveVKfmPmCkbwjnAmH"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "duration_ms": 163076,
+      "name": "Don't Tell Me (Trinidadian James)",
+      "url": "https://open.spotify.com/track/5KPiywmn2bDABjQqnDuAAF"
     },
     {
       "added_at": null,
@@ -459,26 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trapper\u2019s Alley 3: Hell or High Water",
-        "url": "https://open.spotify.com/album/0mUWeveVKfmPmCkbwjnAmH"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        }
-      ],
-      "duration_ms": 163076,
-      "name": "Don't Tell Me (Trinidadian James)",
-      "url": "https://open.spotify.com/track/5KPiywmn2bDABjQqnDuAAF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fair Exchange No Robbery",
         "url": "https://open.spotify.com/album/4jpTuerIpgU77hzRCfcXZj"
       },
@@ -495,6 +495,26 @@
       "duration_ms": 204497,
       "name": "Scrabble",
       "url": "https://open.spotify.com/track/63oUxKSMNovNJiLxgrSmWU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trapper\u2019s Alley 3: Hell or High Water",
+        "url": "https://open.spotify.com/album/0mUWeveVKfmPmCkbwjnAmH"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "duration_ms": 205285,
+      "name": "Grinding My Gears",
+      "url": "https://open.spotify.com/track/4FTjHZ6YqCi6w1CWyGfecO"
     },
     {
       "added_at": null,
@@ -547,26 +567,6 @@
       "duration_ms": 171210,
       "name": "Cordon Bleu",
       "url": "https://open.spotify.com/track/4gsjB5FGbSk8DVErMQEM0a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trapper\u2019s Alley 3: Hell or High Water",
-        "url": "https://open.spotify.com/album/0mUWeveVKfmPmCkbwjnAmH"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        }
-      ],
-      "duration_ms": 205285,
-      "name": "Grinding My Gears",
-      "url": "https://open.spotify.com/track/4FTjHZ6YqCi6w1CWyGfecO"
     },
     {
       "added_at": null,
@@ -931,26 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dump Gawd: Shot Clock King",
-        "url": "https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs"
-      },
-      "artists": [
-        {
-          "name": "Tha God Fahim",
-          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 146807,
-      "name": "Wit out a Question",
-      "url": "https://open.spotify.com/track/0luxbKG9tGZuAuMaN6g4Tg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Civilis\u00e9, Pt. III",
         "url": "https://open.spotify.com/album/4O12LgQbABuaxgrj0HUHze"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 190000,
       "name": "Civilis\u00e9, Pt. III",
       "url": "https://open.spotify.com/track/6LUlBqmoTEldzJ5RSA1KKP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ultimate Dump Gawd 2",
+        "url": "https://open.spotify.com/album/4BK1I0k2gg8PmhBPMiV1ac"
+      },
+      "artists": [
+        {
+          "name": "Tha God Fahim",
+          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 142222,
+      "name": "Blk Luster S",
+      "url": "https://open.spotify.com/track/5mtYUulyfrFWugzqHLe8mw"
     },
     {
       "added_at": null,
@@ -1011,8 +1011,36 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ultimate Dump Gawd 2",
-        "url": "https://open.spotify.com/album/4BK1I0k2gg8PmhBPMiV1ac"
+        "name": "Play With Something Safe",
+        "url": "https://open.spotify.com/album/78Cct5R4fo9aGCRdxAuTTP"
+      },
+      "artists": [
+        {
+          "name": "Rosco P Coldchain",
+          "url": "https://open.spotify.com/artist/3YBBdrVEWJrj4XONK0UtP2"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Ab Liva",
+          "url": "https://open.spotify.com/artist/53WOQvBO23MHgjpnpjYVTi"
+        },
+        {
+          "name": "Jimmie D",
+          "url": "https://open.spotify.com/artist/1grzkPdyoi7RbrBTMIIxRU"
+        }
+      ],
+      "duration_ms": 248076,
+      "name": "Play With Something Safe",
+      "url": "https://open.spotify.com/track/1fIzr1E8cAKmfkZ0E1BRBm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dump Gawd: Shot Clock King",
+        "url": "https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs"
       },
       "artists": [
         {
@@ -1024,33 +1052,9 @@
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         }
       ],
-      "duration_ms": 142222,
-      "name": "Blk Luster S",
-      "url": "https://open.spotify.com/track/5mtYUulyfrFWugzqHLe8mw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Salvation for the Wicked",
-        "url": "https://open.spotify.com/album/7K2xeRfeFRsEE7PFjWvSpM"
-      },
-      "artists": [
-        {
-          "name": "Ransom",
-          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
-        },
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "OFFERINGS",
-      "url": "https://open.spotify.com/track/5hMnU2uA3XbuDEulRabqRc"
+      "duration_ms": 146807,
+      "name": "Wit out a Question",
+      "url": "https://open.spotify.com/track/0luxbKG9tGZuAuMaN6g4Tg"
     },
     {
       "added_at": null,
@@ -1066,11 +1070,15 @@
         {
           "name": "Nicholas Craven",
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Poppy Bricks",
+          "url": "https://open.spotify.com/artist/27LMCWUzDF0MRvJt4aP5py"
         }
       ],
-      "duration_ms": 152049,
-      "name": "Thread the Needle",
-      "url": "https://open.spotify.com/track/4yqk2d1ChKJsyKFShTY3JI"
+      "duration_ms": 193136,
+      "name": "Mr. Quaker Oats",
+      "url": "https://open.spotify.com/track/0AaQu9DCyTlT0RkTaGSytT"
     }
   ],
   "unique_name": "This Is Nicholas Craven",

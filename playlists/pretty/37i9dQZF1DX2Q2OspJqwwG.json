@@ -1,6 +1,6 @@
 {
   "description": "Un playlist (foarte) divers. Plot twist-ul anului inclus. Ian \ud83e\udd1d Azteca",
-  "num_followers": 37383,
+  "num_followers": 37452,
   "original_name": "Viral \u00een Rom\u00e2nia",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,22 @@
     {
       "added_at": "2026-06-19 17:37:54",
       "album": {
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
+      },
+      "artists": [
+        {
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+        }
+      ],
+      "duration_ms": 180740,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
+    },
+    {
+      "added_at": "2026-06-19 17:37:54",
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
-    },
-    {
-      "added_at": "2026-06-19 17:37:54",
-      "album": {
-        "name": "Self Aware",
-        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
-      },
-      "artists": [
-        {
-          "name": "Temper City",
-          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
-        }
-      ],
-      "duration_ms": 180740,
-      "name": "Self Aware",
-      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
     },
     {
       "added_at": "2026-06-19 17:37:54",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-06-19 17:37:54",
       "album": {
-        "name": "White Keys",
-        "url": "https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 144101,
-      "name": "White Keys",
-      "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
-    },
-    {
-      "added_at": "2026-06-19 17:37:54",
-      "album": {
         "name": "Dai Dai",
         "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 223448,
       "name": "Dai Dai",
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
+    },
+    {
+      "added_at": "2026-06-19 17:37:54",
+      "album": {
+        "name": "White Keys",
+        "url": "https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 144101,
+      "name": "White Keys",
+      "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
     },
     {
       "added_at": "2026-06-19 17:37:54",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-06-19 17:37:54",
       "album": {
-        "name": "iloveitiloveitiloveit",
-        "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
-      },
-      "artists": [
-        {
-          "name": "Bella Kay",
-          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
-        }
-      ],
-      "duration_ms": 183237,
-      "name": "iloveitiloveitiloveit",
-      "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
-    },
-    {
-      "added_at": "2026-06-19 17:37:54",
-      "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 204768,
       "name": "EoO",
       "url": "https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8"
+    },
+    {
+      "added_at": "2026-06-19 17:37:54",
+      "album": {
+        "name": "iloveitiloveitiloveit",
+        "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "duration_ms": 183237,
+      "name": "iloveitiloveitiloveit",
+      "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
     },
     {
       "added_at": "2026-06-19 17:37:54",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2026-06-19 17:37:54",
       "album": {
-        "name": "Show Me Love",
-        "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
-      },
-      "artists": [
-        {
-          "name": "WizTheMc",
-          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
-        },
-        {
-          "name": "bees & honey",
-          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
-        }
-      ],
-      "duration_ms": 176965,
-      "name": "Show Me Love",
-      "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
-    },
-    {
-      "added_at": "2026-06-19 17:37:54",
-      "album": {
         "name": "Movin' To The Sun",
         "url": "https://open.spotify.com/album/7sCzauzbInQn7NEsvTAtqq"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 142200,
       "name": "Movin' To The Sun",
       "url": "https://open.spotify.com/track/25DgjoTlKK8KjstM4cZ8L2"
+    },
+    {
+      "added_at": "2026-06-19 17:37:54",
+      "album": {
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
+      },
+      "artists": [
+        {
+          "name": "WizTheMc",
+          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
+        },
+        {
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+        }
+      ],
+      "duration_ms": 176965,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
     },
     {
       "added_at": "2026-06-19 17:37:54",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2026-06-19 17:37:54",
       "album": {
+        "name": "Colores",
+        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 205933,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1"
+    },
+    {
+      "added_at": "2026-06-19 17:37:54",
+      "album": {
         "name": "THIS MUSIC MAY CONTAIN HOPE.",
         "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 301674,
       "name": "Click Clack Symphony. (feat. Hans Zimmer)",
       "url": "https://open.spotify.com/track/0XOynYFi9hQfIXKnTct9A7"
-    },
-    {
-      "added_at": "2026-06-19 17:37:54",
-      "album": {
-        "name": "Colores",
-        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 205933,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1"
     },
     {
       "added_at": "2026-06-19 17:37:54",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2026-06-19 17:37:54",
       "album": {
+        "name": "do i clench my fists?",
+        "url": "https://open.spotify.com/album/0fjrtU0uPBqg10AMHhKYSX"
+      },
+      "artists": [
+        {
+          "name": "ridgeclub",
+          "url": "https://open.spotify.com/artist/4MT74NV1GnOKWtwpEVRRu1"
+        }
+      ],
+      "duration_ms": 153275,
+      "name": "do i clench my fists?",
+      "url": "https://open.spotify.com/track/08QUYTMO6gZDCKQFTCXBbz"
+    },
+    {
+      "added_at": "2026-06-19 17:37:54",
+      "album": {
         "name": "Vaitimbora",
         "url": "https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 135131,
       "name": "Vaitimbora",
       "url": "https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm"
-    },
-    {
-      "added_at": "2026-06-19 17:37:54",
-      "album": {
-        "name": "do i clench my fists?",
-        "url": "https://open.spotify.com/album/0fjrtU0uPBqg10AMHhKYSX"
-      },
-      "artists": [
-        {
-          "name": "ridgeclub",
-          "url": "https://open.spotify.com/artist/4MT74NV1GnOKWtwpEVRRu1"
-        }
-      ],
-      "duration_ms": 153275,
-      "name": "do i clench my fists?",
-      "url": "https://open.spotify.com/track/08QUYTMO6gZDCKQFTCXBbz"
     },
     {
       "added_at": "2026-06-19 17:37:54",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-06-19 17:37:54",
       "album": {
-        "name": "Choke Me",
-        "url": "https://open.spotify.com/album/1yzM3NW5HL2wlQPW2yvoxW"
-      },
-      "artists": [
-        {
-          "name": "Alexandra C\u0103pit\u0103nescu",
-          "url": "https://open.spotify.com/artist/6C2GlsTc6EVC7uKar8F1G0"
-        }
-      ],
-      "duration_ms": 180725,
-      "name": "Choke Me",
-      "url": "https://open.spotify.com/track/0itI8ykSUDp4dfwiHY6fnw"
-    },
-    {
-      "added_at": "2026-06-19 17:37:54",
-      "album": {
         "name": "EMDP (The Last Album)",
         "url": "https://open.spotify.com/album/2G4T745eynlKnJdhDj3bAB"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 163759,
       "name": "Y Que Fue?",
       "url": "https://open.spotify.com/track/2wAmparvQdtQemzY9I8PKv"
+    },
+    {
+      "added_at": "2026-06-19 17:37:54",
+      "album": {
+        "name": "Choke Me",
+        "url": "https://open.spotify.com/album/1yzM3NW5HL2wlQPW2yvoxW"
+      },
+      "artists": [
+        {
+          "name": "Alexandra C\u0103pit\u0103nescu",
+          "url": "https://open.spotify.com/artist/6C2GlsTc6EVC7uKar8F1G0"
+        }
+      ],
+      "duration_ms": 180725,
+      "name": "Choke Me",
+      "url": "https://open.spotify.com/track/0itI8ykSUDp4dfwiHY6fnw"
     },
     {
       "added_at": "2026-06-19 17:37:54",

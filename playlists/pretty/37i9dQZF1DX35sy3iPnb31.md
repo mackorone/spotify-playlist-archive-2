@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,932 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,936 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 34 | [Iya Yemoja](https://open.spotify.com/track/5TQ35IypatWLHzkLnYCr06) | [KARABA](https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy), [Zapapaya](https://open.spotify.com/artist/2qDwLZAEADFu1KEpO3y126), [Okan](https://open.spotify.com/artist/3lzMXGRYV6IqjfU16Igakt), [Rob Rivera](https://open.spotify.com/artist/6QWBQN0e18qB6zj0szX7Vm) | [Iya Yemoja](https://open.spotify.com/album/46P8cuPwurhmpHzn1tFhGz) | 3:36 |
 | 35 | [THEO](https://open.spotify.com/track/4k1C99VNcTqtGgTJk8OMBt) | [k.alcordo](https://open.spotify.com/artist/4t8VuYPxKPp0iS9f2qjl3E) | [THEO](https://open.spotify.com/album/0Ia9aO3tQYbEWL9l4QERTv) | 2:56 |
 | 36 | [Little Boy](https://open.spotify.com/track/1xxgjvqq3jmyzDAYZ7xEUW) | [Kalsey Kulyk](https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu) | [Little Boy](https://open.spotify.com/album/6Qb2nkecGuW8cezFkA6IYy) | 3:38 |
-| 37 | [Where Do You Want To Be?](https://open.spotify.com/track/6i93cFNQRYkfDYUyQFrnzf) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [Where Do You Want To Be?](https://open.spotify.com/album/5AMldJrAc2BWJxTNhbeoc6) | 4:53 |
-| 38 | [What You Say \- ft umru](https://open.spotify.com/track/3BKxeAZVfa0b1xlWT68Aev) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9), [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx) | [What You Say \(ft umru\)](https://open.spotify.com/album/264RHe2ivch3CdUQFhh9Gb) | 3:39 |
-| 39 | [Marathon](https://open.spotify.com/track/1YBzcUoJZthEfBvamvR7Y6) | [Burgundy](https://open.spotify.com/artist/6hkp7FR5xaFjMpMBxHWbpX) | [Marathon](https://open.spotify.com/album/2OsCTcjrqHmer0jxi2jilj) | 2:28 |
+| 37 | [Marathon](https://open.spotify.com/track/1YBzcUoJZthEfBvamvR7Y6) | [Burgundy](https://open.spotify.com/artist/6hkp7FR5xaFjMpMBxHWbpX) | [Marathon](https://open.spotify.com/album/2OsCTcjrqHmer0jxi2jilj) | 2:28 |
+| 38 | [Where Do You Want To Be?](https://open.spotify.com/track/6i93cFNQRYkfDYUyQFrnzf) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [Where Do You Want To Be?](https://open.spotify.com/album/5AMldJrAc2BWJxTNhbeoc6) | 4:53 |
+| 39 | [What You Say \- ft umru](https://open.spotify.com/track/3BKxeAZVfa0b1xlWT68Aev) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9), [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx) | [What You Say \(ft umru\)](https://open.spotify.com/album/264RHe2ivch3CdUQFhh9Gb) | 3:39 |
 | 40 | [Who Do You Wanna Be](https://open.spotify.com/track/3iTwxZVmH5DoSIlFzlxvfL) | [Noah Derksen](https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936) | [Mercy on the Skyline](https://open.spotify.com/album/6apkwQWQydjuIaUnh8IE1s) | 3:42 |
 | 41 | [To Be Lost](https://open.spotify.com/track/05rBzLk023AtT5NnKplUiS) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [To Be Lost in a Dream](https://open.spotify.com/album/6aQQFR5r0EAfQIztJu5W3o) | 2:55 |
 | 42 | [So Smart](https://open.spotify.com/track/5rV446j06aqas9T74HHBfE) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [So Smart](https://open.spotify.com/album/2kiDQxItZBO8QSLZqH6euQ) | 2:49 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 44 | [dog eyed](https://open.spotify.com/track/5yv6DEzfnzdvIhqHgC5QTN) | [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW) | [dog eyed](https://open.spotify.com/album/37t07kZf7Wo1OF8tVwKRYi) | 2:17 |
 | 45 | [Univers](https://open.spotify.com/track/4b5mmyOtZQZR8RsmKuKohL) | [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo) | [Univers](https://open.spotify.com/album/7diFYGJ5FZ6x3iYwM5jJAn) | 2:24 |
 | 46 | [Tethered](https://open.spotify.com/track/62EzEgubVZvysSJ5tdI5Z6) | [Lucas Mason](https://open.spotify.com/artist/1zZNBtF7Cqq8imxRyfV9Ra) | [Tethered](https://open.spotify.com/album/382poICiVdod0ZqSrvHpuL) | 4:01 |
-| 47 | [Get It N Go](https://open.spotify.com/track/2mx5ILjJOOBgoVx690edNb) | [Sofia Ly](https://open.spotify.com/artist/7iET9fffY6L2FC9vojK9a4) | [Get It N Go](https://open.spotify.com/album/1Pob5uyZOs72497AiC2Qwj) | 2:57 |
-| 48 | [Many Men](https://open.spotify.com/track/2QuWFGLmx5l6oFlmfiTNio) | [Bolu Ajibade](https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg) | [Many Men](https://open.spotify.com/album/57mPLz3Ii7CXM6kJqjvuWu) | 2:35 |
+| 47 | [Many Men](https://open.spotify.com/track/2QuWFGLmx5l6oFlmfiTNio) | [Bolu Ajibade](https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg) | [Many Men](https://open.spotify.com/album/57mPLz3Ii7CXM6kJqjvuWu) | 2:35 |
+| 48 | [Get It N Go](https://open.spotify.com/track/2mx5ILjJOOBgoVx690edNb) | [Sofia Ly](https://open.spotify.com/artist/7iET9fffY6L2FC9vojK9a4) | [Get It N Go](https://open.spotify.com/album/1Pob5uyZOs72497AiC2Qwj) | 2:57 |
 | 49 | [In Your Arms](https://open.spotify.com/track/5k5M9d3KpJv0zv6Y9LhraU) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8), [C The Reason](https://open.spotify.com/artist/1SXilrjOlDsfjsSLP2mBFk) | [In Your Arms](https://open.spotify.com/album/2zR2CvE3sANYBc19r5dvC6) | 3:27 |
-| 50 | [Fous de nous deux](https://open.spotify.com/track/34pKCpWbrzLva99r9lkF7n) | [Clodelle](https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt) | [Fous de nous deux](https://open.spotify.com/album/0SXQw0b0sVz0LTGv7t6Utb) | 2:49 |
+| 50 | [Don't Go Far](https://open.spotify.com/track/33qLiRPjkus5clxQvBBLgW) | [Falana](https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj) | [Don't Go Far](https://open.spotify.com/album/1ujn7USDCKuolHuK5UE8Fn) | 3:18 |
 
 Snapshot ID: `AAAAAD/gRP+gTvjzUAsxAl6BLW6sFry1`

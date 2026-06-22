@@ -4,7 +4,7 @@
 
 > This is Rina Sawayama\. The essential tracks, all in one playlist.
 
-56 songs - 3 hr 9 min
+57 songs - 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [I'm Free \(feat\. Rina Sawayama\)](https://open.spotify.com/track/5YXlSRFFpJCiEqfn9kctWI) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [I'm Free \(feat\. Rina Sawayama\)](https://open.spotify.com/album/44fVvCJwKKIZ5SSzMKyih2) | 3:02 | 2024-06-23 |  |
 | [Imagining](https://open.spotify.com/track/6CXHTCR4vfCzMZlXZUiw1u) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 3:32 | 2023-05-02 |  |
 | [Imagining \(feat\. Amaarae\)](https://open.spotify.com/track/4H9yO3xQEpKHbLwF6n5ldj) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Hold The Girl \(Bonus Edition\)](https://open.spotify.com/album/6XSoviEu85xxQIAtX9VPIb) | 3:40 | 2023-12-13 | 2024-03-23 |
-| [Kiss Me](https://open.spotify.com/track/7iUvtFAYg293pzSfKNBGlG) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Kiss Me](https://open.spotify.com/album/3dYzgkq8CgNH72HHYmNfCQ) | 3:21 | 2023-10-01 |  |
+| [Kiss Me](https://open.spotify.com/track/761wHjP1czD9swYSbsQzrv) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [For Your Consideration](https://open.spotify.com/album/4wTRDq3gIEGAj3LKpbQuUX) | 3:21 | 2026-06-22 |  |
+| [Kiss Me](https://open.spotify.com/track/7iUvtFAYg293pzSfKNBGlG) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Kiss Me](https://open.spotify.com/album/3dYzgkq8CgNH72HHYmNfCQ) | 3:21 | 2023-10-01 | 2026-06-22 |
 | [Kiss Me \(feat\. Rina Sawayama\)](https://open.spotify.com/track/1ltDjZ5arFZ41ohXF37Yjt) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [For Your Consideration](https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83) | 3:21 | 2024-04-08 | 2024-10-28 |
 | [Love It If We Made It](https://open.spotify.com/track/6fhqgtrrMU7JSHXjo5KOlC) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA \(Deluxe Edition\)](https://open.spotify.com/album/0pWu9s2gPdVgqHpMR2LDEx) | 4:04 | 2023-05-02 | 2024-04-08 |
 | [Love Me 4 Me](https://open.spotify.com/track/28MOE4pVk5uN3wBDGBacET) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) | 3:12 | 2026-02-01 |  |

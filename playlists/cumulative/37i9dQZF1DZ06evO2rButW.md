@@ -4,7 +4,7 @@
 
 > This is Mon Laferte\. The essential tracks, all in one playlist.
 
-109 songs - 6 hr 49 min
+110 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,12 +51,13 @@
 | [Hoy No](https://open.spotify.com/track/41SJBO05x4mHd6tuSf9BTZ) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Grandes Éxitos del Boleroglam, Vol\. 2](https://open.spotify.com/album/49k8bx6FKOeKocIRppwnYE) | 4:02 | 2024-03-31 | 2026-04-04 |
 | [Incondicional](https://open.spotify.com/track/0ccQ1CddR2I7vDaA9GoqZA) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Euforia](https://open.spotify.com/album/4DxyXoUaJ7fYUAC0FyShHI) | 4:16 | 2026-05-17 |  |
 | [Invéntame](https://open.spotify.com/track/6g6FWPdAMf55CpmkoE7jF1) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Invéntame](https://open.spotify.com/album/5kiDMxfW38PbWnmIABlXBq) | 3:25 | 2023-03-24 |  |
-| [Irracional Cervical](https://open.spotify.com/track/3ot0v6pXsOeVupN3dWLBAb) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Femme Fatale Vol\. 2](https://open.spotify.com/album/29L7pXN58eLAlfhaAquyXh) | 3:51 | 2026-06-19 |  |
+| [Irracional Cervical](https://open.spotify.com/track/3ot0v6pXsOeVupN3dWLBAb) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Femme Fatale Vol\. 2](https://open.spotify.com/album/29L7pXN58eLAlfhaAquyXh) | 3:51 | 2026-06-19 | 2026-06-22 |
 | [La Danza de las Libélulas](https://open.spotify.com/track/67ed4jjP4A0IfcQfgCnGWl) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [El Caminante](https://open.spotify.com/album/3GoP2zfwzLlr23wpjZYwOw) | 3:40 | 2025-11-24 | 2026-06-20 |
 | [La Danza de las Libélulas](https://open.spotify.com/track/7l62bYBU4F4SiRdGDhnqTn) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [La Danza de las Libélulas](https://open.spotify.com/album/7mZmCL8uOUXpA2BASkmn5f) | 3:40 | 2023-03-24 | 2025-11-21 |
 | [La Mujer](https://open.spotify.com/track/3sQf1MpSqYoqVfdvao8vKt) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 3:09 | 2023-03-24 |  |
 | [La Tirana](https://open.spotify.com/track/50EbdrEGOfk6fWYOAIYo7I) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [La Tirana](https://open.spotify.com/album/3m4iMb2AizcRBHVi2YWZVp) | 4:04 | 2025-09-21 | 2025-11-21 |
 | [La Trenza](https://open.spotify.com/track/10Tf0pmDJDUIfzZf87kwt5) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 3:48 | 2024-06-23 | 2024-07-09 |
+| [Mary](https://open.spotify.com/track/5CRqwcvDcLXgv7Y7L3D0WP) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Femme Fatale Vol\. 2](https://open.spotify.com/album/29L7pXN58eLAlfhaAquyXh) | 2:45 | 2026-06-22 |  |
 | [Melancolía](https://open.spotify.com/track/5r9xrWqBtkiSFeEBk4VibB) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [FEMME FATALE](https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw) | 3:50 | 2025-10-26 |  |
 | [Metamorfosis](https://open.spotify.com/track/3CsUXmvprDXpBLACoBBJrN) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 3:10 | 2023-12-13 | 2025-04-10 |
 | [Mi Buen Amor](https://open.spotify.com/track/28UP90XhjCovLtieduYr9P) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 3:47 | 2023-03-24 |  |

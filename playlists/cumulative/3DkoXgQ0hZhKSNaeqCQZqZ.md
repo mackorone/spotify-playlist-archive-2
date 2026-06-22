@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-542 songs - 1 day 4 hr 35 min
+543 songs - 1 day 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -418,6 +418,7 @@
 | [Samoyed Song](https://open.spotify.com/track/43NZSHrCTxb1Tm9he7BAox) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [russelbuck](https://open.spotify.com/album/2bgUsX7DFr4VdUB35TMoUP) | 2:39 | 2023-06-14 |  |
 | [Saudade](https://open.spotify.com/track/5NWnwSzyinSP6q2eWgiCsd) | [Blushy Buttercup](https://open.spotify.com/artist/0uMP1ZUufTU7gi5tInsw4E), [Starmoon](https://open.spotify.com/artist/6LkHvIBzMUugKXmM853eqC) | [Saudade](https://open.spotify.com/album/2SeCRWXTI0zbla4KgOguW0) | 10:34 | 2025-02-06 | 2026-03-01 |
 | [save the world](https://open.spotify.com/track/0M5GNhQ9zGj8B8DRQRFYDp) | [lizzy's personal army](https://open.spotify.com/artist/6cakL54DPLwi90i79FrKal), [Ivy Hollivana](https://open.spotify.com/artist/3KfxN9H3BJ8cKj9qbjrO9X) | [all lizards go to heaven!!!](https://open.spotify.com/album/1CRlPPBbbvKRuyyam4ypvP) | 2:19 | 2024-08-15 |  |
+| [Say The Words](https://open.spotify.com/track/5zpo6JR8D1lO7iuypju0ZB) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [Say The Words](https://open.spotify.com/album/7KkEQMbrmpVsXzUtbrMYyO) | 3:37 | 2026-06-21 |  |
 | [Screaming at the Top](https://open.spotify.com/track/3d2IuTn71tQpHEkXAO5VsY) | [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu), [Schtewee](https://open.spotify.com/artist/052C9zO8Vd32kWv9fRwzi1) | [AURAL ALLIANCE STAGE 1](https://open.spotify.com/album/0NyuVquScsw96o0SEWVSII) | 1:00 | 2024-02-09 |  |
 | [Seven Run](https://open.spotify.com/track/75snRWqGIsPV1bPwQl35bJ) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [Seven Run](https://open.spotify.com/album/7I68LrOWt2J5w9h6Enn17c) | 1:37 | 2023-10-30 |  |
 | [Shadow in the Dark](https://open.spotify.com/track/4bIAlhrgDknR6iPH1ZW4ES) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [Raised by Aliens](https://open.spotify.com/album/1mTM51rvOXPen3pVzekCf3) | 4:14 | 2024-12-06 | 2026-03-01 |

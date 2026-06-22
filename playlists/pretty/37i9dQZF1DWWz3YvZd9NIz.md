@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best hardstyle remixes of songs you know!
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,124 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,161 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,10 +69,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 59 | [Wonderful Days \- Hardstyle Edit](https://open.spotify.com/track/6LrgA0g5A9jjRJFH6nKRnn) | [Thymo](https://open.spotify.com/artist/0Gmzk17bmcYkxnZqyOWfbn) | [Wonderful Days \(Hardstyle Edit\)](https://open.spotify.com/album/2ShcFyeiExEa5GVIiEEgH5) | 2:45 |
 | 60 | [Smooth Criminal](https://open.spotify.com/track/2HtC6KsunFKydl98AfxMze) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR) | [Smooth Criminal](https://open.spotify.com/album/4cL1zFrvk14x1t08QcVmTQ) | 2:14 |
 | 61 | [Euphoria \- Hardstyle Edit](https://open.spotify.com/track/6LABLxSNomagmMcVNhrPgA) | [Julian Brandts](https://open.spotify.com/artist/7gs4gtPp3xC3flmP0pauVd) | [Euphoria \(Hardstyle Edit\)](https://open.spotify.com/album/32FQWGoFHpoAlwtvNF0J3Z) | 3:34 |
-| 62 | [Boyz In Paris \(with VINAI\) \(Coone Remix\)](https://open.spotify.com/track/6R5ZDu7hQJqSGjJKe3J78K) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C) | [Boyz In Paris \(with VINAI\) \(Coone Remix\)](https://open.spotify.com/album/0l48E2jODBFaWoMjrpNyGm) | 3:36 |
-| 63 | [Be My Lover](https://open.spotify.com/track/4m5JH6q0ldwKW7s2YpcM3B) | [The Saints](https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc) | [Be My Lover](https://open.spotify.com/album/4hjneqKJ7b03mh48bqlAlB) | 2:21 |
-| 64 | [Epic Sax Song](https://open.spotify.com/track/1MBCOLWlw0wXeSlCgLQCK9) | [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c) | [Epic Sax Song](https://open.spotify.com/album/6NaT8AHDRPSuHT3IZKJjL4) | 2:56 |
-| 65 | [LOVE DON'T LET ME GO](https://open.spotify.com/track/2VEFILxPIsvijHQtwWSVU9) | [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb) | [LOVE DON'T LET ME GO](https://open.spotify.com/album/570TL1w3xvPBLH52kYinU4) | 3:04 |
+| 62 | [Be My Lover](https://open.spotify.com/track/4m5JH6q0ldwKW7s2YpcM3B) | [The Saints](https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc) | [Be My Lover](https://open.spotify.com/album/4hjneqKJ7b03mh48bqlAlB) | 2:21 |
+| 63 | [Boyz In Paris \(with VINAI\) \(Coone Remix\)](https://open.spotify.com/track/6R5ZDu7hQJqSGjJKe3J78K) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C) | [Boyz In Paris \(with VINAI\) \(Coone Remix\)](https://open.spotify.com/album/0l48E2jODBFaWoMjrpNyGm) | 3:36 |
+| 64 | [LOVE DON'T LET ME GO](https://open.spotify.com/track/2VEFILxPIsvijHQtwWSVU9) | [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb) | [LOVE DON'T LET ME GO](https://open.spotify.com/album/570TL1w3xvPBLH52kYinU4) | 3:04 |
+| 65 | [Epic Sax Song](https://open.spotify.com/track/1MBCOLWlw0wXeSlCgLQCK9) | [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c) | [Epic Sax Song](https://open.spotify.com/album/6NaT8AHDRPSuHT3IZKJjL4) | 2:56 |
 | 66 | [Fine Day](https://open.spotify.com/track/7aKme0bvekUFoMI0cHGIRk) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Fine Day](https://open.spotify.com/album/2ZIFHjv7tMdEsYfWy9HwFv) | 3:56 |
 | 67 | [Alone, Pt\. II \- Da Tweekaz Remix](https://open.spotify.com/track/22iyqD0gyzWHy6oAvPVAWk) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6) | [Alone, Pt\. II \(Remixes\)](https://open.spotify.com/album/2mxUoEbnEU5HQUApB1tm1X) | 3:42 |
 | 68 | [Fireflies](https://open.spotify.com/track/7hCKMM8TayzGLx0pWBdE1K) | [Vertile](https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH) | [Fireflies](https://open.spotify.com/album/6nOapUMLsTZEAmqImAeIHv) | 2:33 |

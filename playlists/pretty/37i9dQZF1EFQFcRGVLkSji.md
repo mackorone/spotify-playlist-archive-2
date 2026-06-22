@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M7L8SMVEFvblfFmcNtgaV">BNYX®</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 396 likes - 185 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 398 likes - 185 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 26 | [Wake Up](https://open.spotify.com/track/2Fks2AqmJRdUXETqIR8ElC) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [On My Own](https://open.spotify.com/album/3mmXDrl7NZMb98drcZxLC6) | 1:52 |
 | 27 | [I THOUGHT THAT I NEEDED YOU](https://open.spotify.com/track/3kvR6zZ5SUEu5POE7StefC) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/6qzsoMD2QnN9IZbPv5lOsy) | 2:51 |
 | 28 | [Familia](https://open.spotify.com/track/2OM0MeY7mPIRbs8SCzRdTH) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:34 |
-| 29 | [IM YEAT](https://open.spotify.com/track/5mEsgjX62uA42G3ooMubCC) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [IM YEAT](https://open.spotify.com/album/6WBTIajwa9AAwQusziUoae) | 2:48 |
-| 30 | [Tuition](https://open.spotify.com/track/3kw29NreyBGyArNmYARr63) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 2:49 |
+| 29 | [Tuition](https://open.spotify.com/track/3kw29NreyBGyArNmYARr63) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 2:49 |
+| 30 | [IM YEAT](https://open.spotify.com/track/5mEsgjX62uA42G3ooMubCC) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [IM YEAT](https://open.spotify.com/album/6WBTIajwa9AAwQusziUoae) | 2:48 |
 | 31 | [OH I DID](https://open.spotify.com/track/3mQCDD74WImZLkQxMvmxoK) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [NGeeYL](https://open.spotify.com/artist/5Z9mvkWNEpiKVQ36xVkMfe) | [DANGEROUS SUMMER](https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh) | 2:56 |
 | 32 | [Can’t stop it](https://open.spotify.com/track/1HqKqHh5iKQzz9LhQDlbgm) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:12 |
 | 33 | [DONNY DARKO \(FEAT\. LIL UZI VERT\)](https://open.spotify.com/track/4Uho2PKf7lBRYfRasw1J0n) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [HARDSTONE PSYCHO](https://open.spotify.com/album/55S2SOsWCYekWJtJ8LwVqV) | 1:56 |
@@ -123,8 +123,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 113 | [HunchO STEP! \(feat\. Quavo\)](https://open.spotify.com/track/1NAzcbuB9x6jSLDLXYxi1I) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [GENESIS FM](https://open.spotify.com/album/6ihOSYO8SFWGia9nClUPXe) | 3:20 |
 | 114 | [Space](https://open.spotify.com/track/1gkmyp15E1TGauH6sZ5PdX) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Glad You Came](https://open.spotify.com/album/02YWHzAqDtkFuNPAr82b8s) | 3:48 |
 | 115 | [holdin' on](https://open.spotify.com/track/3E9NYr5ij1O85Ynp82qUry) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS), [Diamond Cafe](https://open.spotify.com/artist/5iy5vWoWLniL8EMg5pFRrh) | [wood tip](https://open.spotify.com/album/2AtPEetSZOglaAP9KPVt1i) | 2:32 |
-| 116 | [Bottle Girl](https://open.spotify.com/track/6aQter7ScDBHhWcW8y0drP) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [On My Own](https://open.spotify.com/album/3mmXDrl7NZMb98drcZxLC6) | 2:16 |
-| 117 | [Morgan](https://open.spotify.com/track/6ippwBq8wypdrSqqvn56Wg) | [Benji Blue Bills](https://open.spotify.com/artist/7t6PzXRwTR6eb4lNHxyhIC), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [Out The Blue](https://open.spotify.com/album/0VHFW4XiYdVxfUzfjkUkIc) | 1:49 |
+| 116 | [Morgan](https://open.spotify.com/track/6ippwBq8wypdrSqqvn56Wg) | [Benji Blue Bills](https://open.spotify.com/artist/7t6PzXRwTR6eb4lNHxyhIC), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [Out The Blue](https://open.spotify.com/album/0VHFW4XiYdVxfUzfjkUkIc) | 1:49 |
+| 117 | [Bottle Girl](https://open.spotify.com/track/6aQter7ScDBHhWcW8y0drP) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [On My Own](https://open.spotify.com/album/3mmXDrl7NZMb98drcZxLC6) | 2:16 |
 | 118 | [Standin' on Bihness](https://open.spotify.com/track/7jwcHg8xGlX1xoDvWuo3AX) | [Druski](https://open.spotify.com/artist/4QXUDhKn7oIyfnaNEBkrkY), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [Standin' on Bihness](https://open.spotify.com/album/0fPZjdq6aXTikRcNGRglPF) | 2:35 |
 | 119 | [Like Woah](https://open.spotify.com/track/3zLejPGyTFJTx0ygDxOFWR) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [GHOST](https://open.spotify.com/album/4OrbijrYXkwBJF9drCrBFR) | 2:03 |
 | 120 | [Down Girl \(feat\. Duki\)](https://open.spotify.com/track/3rfA4Lrix4mhHiKcTI5KX9) | [Benji Blue Bills](https://open.spotify.com/artist/7t6PzXRwTR6eb4lNHxyhIC), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Out The Blue](https://open.spotify.com/album/0VHFW4XiYdVxfUzfjkUkIc) | 2:54 |
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 184 | [Teach Me.](https://open.spotify.com/track/6lk7eNQnklTjsEx30gUJ80) | [Ant Beale](https://open.spotify.com/artist/14piOhWdd0MbAPVmUqGLhH) | [Life's a Hazard](https://open.spotify.com/album/0UqowJBThZPMFlqPorNSR1) | 5:00 |
 | 185 | [Divided](https://open.spotify.com/track/6NJOdQyw2EPnRAstnXNTDG) | [Warner Meadows](https://open.spotify.com/artist/0FzMywSPPmb2hqv2gvcIFk) | [Divided](https://open.spotify.com/album/2zCmstd1DA381t9zoW8QDr) | 1:44 |
 
-Snapshot ID: `AcUwwgAAAABtudZ6tLmSJuP7OfExNJR1`
+Snapshot ID: `AcU2YgAAAADQilexqlIwQMUSKYCxBjVU`

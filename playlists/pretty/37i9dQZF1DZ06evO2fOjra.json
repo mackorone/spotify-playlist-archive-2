@@ -1,12 +1,12 @@
 {
   "description": "This is Korn. The essential tracks, all in one playlist.",
-  "num_followers": 573134,
+  "num_followers": 573178,
   "original_name": "This Is Korn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAAAYXkI/hL8uQFc6qE9Bva2e",
+  "snapshot_id": "ajXYAAAAAAAzEfJ5cPMSGIQ+46WaidNq",
   "tracks": [
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Nothing",
-        "url": "https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1"
+        "name": "Life Is Peachy",
+        "url": "https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 225731,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/5KVISJL93AgXcQG0WRJ3Gq"
+      "duration_ms": 201971,
+      "name": "Good God",
+      "url": "https://open.spotify.com/track/5JrajjztyjvkuUB8ZqzUML"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life Is Peachy",
-        "url": "https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH"
+        "name": "The Nothing",
+        "url": "https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 201971,
-      "name": "Good God",
-      "url": "https://open.spotify.com/track/5JrajjztyjvkuUB8ZqzUML"
+      "duration_ms": 225731,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/5KVISJL93AgXcQG0WRJ3Gq"
     },
     {
       "added_at": null,

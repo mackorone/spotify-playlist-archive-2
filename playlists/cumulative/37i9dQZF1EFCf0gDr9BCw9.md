@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-235 songs - 17 hr 39 min
+236 songs - 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [All Roads Lead Back to You](https://open.spotify.com/track/0vdx7Ru1ANgxu8iE4IMFuI) | [Anaïs Reno](https://open.spotify.com/artist/2yDfaA2valGk3S1Qw0bybK), [Emmet Cohen](https://open.spotify.com/artist/3kyGmsyTEpjopA521SSlLT) | [Lovesome Thing](https://open.spotify.com/album/1Bi6JhIeusqvHRaHQ8Oq82) | 4:22 | 2025-08-03 | 2026-05-23 |
 | [All Roads Lead Back to You](https://open.spotify.com/track/3cED9WCBnPWEQHY0f4HeGX) | [Anaïs Reno](https://open.spotify.com/artist/2yDfaA2valGk3S1Qw0bybK), [Emmet Cohen](https://open.spotify.com/artist/3kyGmsyTEpjopA521SSlLT) | [Lovesome Thing](https://open.spotify.com/album/3qQ95ohKlbRI8ZbMhFKuFP) | 4:22 | 2026-05-22 |  |
 | [All Roads Lead Back to You](https://open.spotify.com/track/19GEHeehDAz2SVAa53N40O) | [Anaïs Reno](https://open.spotify.com/artist/2yDfaA2valGk3S1Qw0bybK), [Emmet Cohen](https://open.spotify.com/artist/3kyGmsyTEpjopA521SSlLT), [Russell Hall](https://open.spotify.com/artist/2IZLjkTpDvr514Y8RBrpQT), [Kyle Poole](https://open.spotify.com/artist/5J4qaZ0wUvADmFAR3T4GIE) | [Lovesome Thing](https://open.spotify.com/album/2LwV0Qj6AlGJkEeCGxTh6K) | 4:22 | 2022-09-08 | 2025-08-04 |
+| [Amad](https://open.spotify.com/track/1TROHMWmCR5pWZgkFVsUHH) | [Slavic Soul Party!](https://open.spotify.com/artist/0WqRUsyv5vUBAKwznogKrE) | [Duke Ellington's Far East Suite](https://open.spotify.com/album/5vpTgY04AzRBacZxtGhFe6) | 5:43 | 2026-06-21 |  |
 | [Bagatelle](https://open.spotify.com/track/0kcLxUVQkwb4qbBhj5KwHh) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [Portrait of a Silk Thread: Newly Discovered Works of Billy Strayhorn](https://open.spotify.com/album/3dBICshGBbp0nlNnxY4vl6) | 4:01 | 2022-09-08 |  |
 | [Balcony Serenade \(Love\) \[Sonata\]](https://open.spotify.com/track/16iuWzKyvbJsh2EiUVADah) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [BD Music Presents Billy Strayhorn Played by Duke Ellington](https://open.spotify.com/album/1FtPZ5ml8WFnCMwd3sKaPQ) | 3:09 | 2022-09-08 |  |
 | [Ballad For Very Tired And Very Sad Lotus Eaters](https://open.spotify.com/track/1RYMwSbymCJ37heFBpSiiC) | [Herb Geller](https://open.spotify.com/artist/65xuAsfqBQjZ6p3co6NGBX) | [To Benny & Johnny With Love From Herb Geller](https://open.spotify.com/album/5qJddYaWqJEzwkhEkM1dZT) | 4:59 | 2026-06-19 |  |

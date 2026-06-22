@@ -1,6 +1,6 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover:  <a href=\"spotify:artist:4YT4KZPvKUyqgSgtXAJeS4\">Micha\u0142 Szpak</a>",
-  "num_followers": 42321,
+  "num_followers": 42320,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-06-08 09:39:58",
       "album": {
-        "name": "April",
-        "url": "https://open.spotify.com/album/1EAHV7js1kKeadDWMPX0lr"
-      },
-      "artists": [
-        {
-          "name": "Shyness!",
-          "url": "https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym"
-        }
-      ],
-      "duration_ms": 205038,
-      "name": "April I",
-      "url": "https://open.spotify.com/track/6lJm9RWKS4SlaPGkbKfZOb"
-    },
-    {
-      "added_at": "2026-06-08 09:39:58",
-      "album": {
         "name": "ci\u0119\u017cki szmal",
         "url": "https://open.spotify.com/album/5dEbAIybdNTbS0ivPaK7Jp"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 180000,
       "name": "ci\u0119\u017cki szmal",
       "url": "https://open.spotify.com/track/1INz9FSfzPbCUiXBt2Qa3l"
+    },
+    {
+      "added_at": "2026-06-08 09:39:58",
+      "album": {
+        "name": "April",
+        "url": "https://open.spotify.com/album/1EAHV7js1kKeadDWMPX0lr"
+      },
+      "artists": [
+        {
+          "name": "Shyness!",
+          "url": "https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym"
+        }
+      ],
+      "duration_ms": 205038,
+      "name": "April I",
+      "url": "https://open.spotify.com/track/6lJm9RWKS4SlaPGkbKfZOb"
     },
     {
       "added_at": "2026-06-08 09:39:58",
@@ -743,22 +743,6 @@
       "duration_ms": 184966,
       "name": "Nie ton\u0119",
       "url": "https://open.spotify.com/track/4mr8qzhUJ7PVPRJdoROaEI"
-    },
-    {
-      "added_at": "2026-06-08 09:39:58",
-      "album": {
-        "name": "Panienka",
-        "url": "https://open.spotify.com/album/0pXaZr73ujYW4B0QgUUZ4x"
-      },
-      "artists": [
-        {
-          "name": "Kamil Kowalski",
-          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
-        }
-      ],
-      "duration_ms": 169063,
-      "name": "Panienka",
-      "url": "https://open.spotify.com/track/1Lgg81BvOvFYjup8x9Gqeg"
     },
     {
       "added_at": "2026-06-08 09:39:58",
@@ -819,6 +803,22 @@
       "duration_ms": 153692,
       "name": "szczerze, mega mocne",
       "url": "https://open.spotify.com/track/11kYDoSAlArh9NwUqYkH2v"
+    },
+    {
+      "added_at": "2026-06-08 09:39:58",
+      "album": {
+        "name": "Panienka",
+        "url": "https://open.spotify.com/album/0pXaZr73ujYW4B0QgUUZ4x"
+      },
+      "artists": [
+        {
+          "name": "Kamil Kowalski",
+          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
+        }
+      ],
+      "duration_ms": 169063,
+      "name": "Panienka",
+      "url": "https://open.spotify.com/track/1Lgg81BvOvFYjup8x9Gqeg"
     },
     {
       "added_at": "2026-06-08 09:39:58",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-06-08 09:39:58",
       "album": {
-        "name": "Shyness!",
-        "url": "https://open.spotify.com/album/5zghhaw7NmCXcRcynyjkto"
-      },
-      "artists": [
-        {
-          "name": "Shyness!",
-          "url": "https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym"
-        }
-      ],
-      "duration_ms": 210581,
-      "name": "Stalker",
-      "url": "https://open.spotify.com/track/4WfWLe6Cue04oXW7okQhgw"
-    },
-    {
-      "added_at": "2026-06-08 09:39:58",
-      "album": {
         "name": "sweet",
         "url": "https://open.spotify.com/album/0qa3J0y5uJA60fMpsusIFB"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 131226,
       "name": "sweet",
       "url": "https://open.spotify.com/track/5qhjxWM1KUzliZapFw3JQM"
+    },
+    {
+      "added_at": "2026-06-08 09:39:58",
+      "album": {
+        "name": "Shyness!",
+        "url": "https://open.spotify.com/album/5zghhaw7NmCXcRcynyjkto"
+      },
+      "artists": [
+        {
+          "name": "Shyness!",
+          "url": "https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym"
+        }
+      ],
+      "duration_ms": 210581,
+      "name": "Stalker",
+      "url": "https://open.spotify.com/track/4WfWLe6Cue04oXW7okQhgw"
     },
     {
       "added_at": "2026-06-08 09:39:58",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2026-06-08 09:39:58",
       "album": {
+        "name": "Dance With The Devil",
+        "url": "https://open.spotify.com/album/0ujpagBaZaBKnAnptcdHed"
+      },
+      "artists": [
+        {
+          "name": "Madox",
+          "url": "https://open.spotify.com/artist/6AypwNfEAiPfY2S4sYHeqN"
+        }
+      ],
+      "duration_ms": 178167,
+      "name": "Dance With The Devil",
+      "url": "https://open.spotify.com/track/495SAEgFBafR5ecXnNGeoV"
+    },
+    {
+      "added_at": "2026-06-08 09:39:58",
+      "album": {
         "name": "The Moon",
         "url": "https://open.spotify.com/album/1zagFHQjBkeYbAQBTfcbsU"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 284422,
       "name": "The Moon",
       "url": "https://open.spotify.com/track/0OE1ohr4hpGd7icsVJ8W8g"
-    },
-    {
-      "added_at": "2026-06-08 09:39:58",
-      "album": {
-        "name": "Dance With The Devil",
-        "url": "https://open.spotify.com/album/0ujpagBaZaBKnAnptcdHed"
-      },
-      "artists": [
-        {
-          "name": "Madox",
-          "url": "https://open.spotify.com/artist/6AypwNfEAiPfY2S4sYHeqN"
-        }
-      ],
-      "duration_ms": 178167,
-      "name": "Dance With The Devil",
-      "url": "https://open.spotify.com/track/495SAEgFBafR5ecXnNGeoV"
     },
     {
       "added_at": "2026-06-08 09:39:58",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-06-08 09:39:58",
       "album": {
-        "name": "Kochany pami\u0119tniku",
-        "url": "https://open.spotify.com/album/6XPu2NgsidR1zDdhi3VHOL"
-      },
-      "artists": [
-        {
-          "name": "Pan Mariuszek",
-          "url": "https://open.spotify.com/artist/3aIzQGnu1l0eCZSNTsl3W9"
-        }
-      ],
-      "duration_ms": 189833,
-      "name": "Kochany pami\u0119tniku",
-      "url": "https://open.spotify.com/track/0GQkW5gGaROjNDtnH0T6jj"
-    },
-    {
-      "added_at": "2026-06-08 09:39:58",
-      "album": {
         "name": "bulletproof",
         "url": "https://open.spotify.com/album/5AnzlgR3wzsG7Yn4REMS5m"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 146181,
       "name": "bulletproof",
       "url": "https://open.spotify.com/track/4DRVf1eh2KhaxdfiQFk5NG"
+    },
+    {
+      "added_at": "2026-06-08 09:39:58",
+      "album": {
+        "name": "Kochany pami\u0119tniku",
+        "url": "https://open.spotify.com/album/6XPu2NgsidR1zDdhi3VHOL"
+      },
+      "artists": [
+        {
+          "name": "Pan Mariuszek",
+          "url": "https://open.spotify.com/artist/3aIzQGnu1l0eCZSNTsl3W9"
+        }
+      ],
+      "duration_ms": 189833,
+      "name": "Kochany pami\u0119tniku",
+      "url": "https://open.spotify.com/track/0GQkW5gGaROjNDtnH0T6jj"
     },
     {
       "added_at": "2026-06-08 09:39:58",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2026-06-08 09:39:58",
       "album": {
-        "name": "usa",
-        "url": "https://open.spotify.com/album/5936AQNkhWX56AIuejoKQp"
-      },
-      "artists": [
-        {
-          "name": "god.wifi",
-          "url": "https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1"
-        },
-        {
-          "name": "nath",
-          "url": "https://open.spotify.com/artist/2KrBpGpCHHnOWBA4WBWOdd"
-        }
-      ],
-      "duration_ms": 129032,
-      "name": "usa",
-      "url": "https://open.spotify.com/track/5funIcHMQlkEU1U0IygYjN"
-    },
-    {
-      "added_at": "2026-06-08 09:39:58",
-      "album": {
         "name": "Rodeo",
         "url": "https://open.spotify.com/album/0e71KflqBG790HkG7j5DgL"
       },
@@ -1395,38 +1375,22 @@
     {
       "added_at": "2026-06-08 09:39:58",
       "album": {
-        "name": "nocami, do \u015bwitu",
-        "url": "https://open.spotify.com/album/1xdIsORRS3nfikdVFb42i8"
+        "name": "usa",
+        "url": "https://open.spotify.com/album/5936AQNkhWX56AIuejoKQp"
       },
       "artists": [
         {
-          "name": "villaz",
-          "url": "https://open.spotify.com/artist/7Dgc5VSOtvobxlOOmNsvJp"
-        }
-      ],
-      "duration_ms": 189287,
-      "name": "ciszej",
-      "url": "https://open.spotify.com/track/4mPZBA527PlYtLpyZzzQjY"
-    },
-    {
-      "added_at": "2026-06-08 09:39:58",
-      "album": {
-        "name": "rom-com",
-        "url": "https://open.spotify.com/album/5dXJyDYM8eXKRkAZYerKf8"
-      },
-      "artists": [
-        {
-          "name": "Meg Mell",
-          "url": "https://open.spotify.com/artist/4HXy7mRjbdJwHHia5eG48k"
+          "name": "god.wifi",
+          "url": "https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1"
         },
         {
-          "name": "izdeb",
-          "url": "https://open.spotify.com/artist/2qxZhFhW3LoxfSrXnm497e"
+          "name": "nath",
+          "url": "https://open.spotify.com/artist/2KrBpGpCHHnOWBA4WBWOdd"
         }
       ],
-      "duration_ms": 268941,
-      "name": "rom-com",
-      "url": "https://open.spotify.com/track/0yRWI0NaGJKuRfFvQPXW1n"
+      "duration_ms": 129032,
+      "name": "usa",
+      "url": "https://open.spotify.com/track/5funIcHMQlkEU1U0IygYjN"
     },
     {
       "added_at": "2026-06-08 09:39:58",
@@ -1471,6 +1435,42 @@
     {
       "added_at": "2026-06-08 09:39:58",
       "album": {
+        "name": "rom-com",
+        "url": "https://open.spotify.com/album/5dXJyDYM8eXKRkAZYerKf8"
+      },
+      "artists": [
+        {
+          "name": "Meg Mell",
+          "url": "https://open.spotify.com/artist/4HXy7mRjbdJwHHia5eG48k"
+        },
+        {
+          "name": "izdeb",
+          "url": "https://open.spotify.com/artist/2qxZhFhW3LoxfSrXnm497e"
+        }
+      ],
+      "duration_ms": 268941,
+      "name": "rom-com",
+      "url": "https://open.spotify.com/track/0yRWI0NaGJKuRfFvQPXW1n"
+    },
+    {
+      "added_at": "2026-06-08 09:39:58",
+      "album": {
+        "name": "nocami, do \u015bwitu",
+        "url": "https://open.spotify.com/album/1xdIsORRS3nfikdVFb42i8"
+      },
+      "artists": [
+        {
+          "name": "villaz",
+          "url": "https://open.spotify.com/artist/7Dgc5VSOtvobxlOOmNsvJp"
+        }
+      ],
+      "duration_ms": 189287,
+      "name": "ciszej",
+      "url": "https://open.spotify.com/track/4mPZBA527PlYtLpyZzzQjY"
+    },
+    {
+      "added_at": "2026-06-08 09:39:58",
+      "album": {
         "name": "Nie chc\u0119 tu wraca\u0107 ju\u017c",
         "url": "https://open.spotify.com/album/2gUbKgJjAhfDkV5WGNHQCd"
       },
@@ -1487,6 +1487,22 @@
       "duration_ms": 250259,
       "name": "Nie chc\u0119 tu wraca\u0107 ju\u017c",
       "url": "https://open.spotify.com/track/4VXuZpGJlLgh9UCqQtBbGU"
+    },
+    {
+      "added_at": "2026-06-08 09:39:58",
+      "album": {
+        "name": "Drawing a line (Kayax Talent Hunt)",
+        "url": "https://open.spotify.com/album/3SqStLTIRhlus77GWfGCxd"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Salem",
+          "url": "https://open.spotify.com/artist/4TY67wi8GWj79RYcCsK6dn"
+        }
+      ],
+      "duration_ms": 219047,
+      "name": "Drawing a line (Kayax Talent Hunt)",
+      "url": "https://open.spotify.com/track/1U5foAHovYGQqOjiQSrdrQ"
     },
     {
       "added_at": "2026-06-08 09:39:58",
@@ -1515,18 +1531,18 @@
     {
       "added_at": "2026-06-08 09:39:58",
       "album": {
-        "name": "Drawing a line (Kayax Talent Hunt)",
-        "url": "https://open.spotify.com/album/3SqStLTIRhlus77GWfGCxd"
+        "name": "Sama s\u0142uchaj",
+        "url": "https://open.spotify.com/album/1kjorjjIHO8t9UC8P8iT0V"
       },
       "artists": [
         {
-          "name": "Gabriela Salem",
-          "url": "https://open.spotify.com/artist/4TY67wi8GWj79RYcCsK6dn"
+          "name": "Sienia",
+          "url": "https://open.spotify.com/artist/2e7TuhchY8aTY3v2qzMghX"
         }
       ],
-      "duration_ms": 219047,
-      "name": "Drawing a line (Kayax Talent Hunt)",
-      "url": "https://open.spotify.com/track/1U5foAHovYGQqOjiQSrdrQ"
+      "duration_ms": 173500,
+      "name": "Sama s\u0142uchaj",
+      "url": "https://open.spotify.com/track/5uiWeHUUj4KuG7uQZH9AAl"
     },
     {
       "added_at": "2026-06-08 09:39:58",
@@ -1543,22 +1559,6 @@
       "duration_ms": 152275,
       "name": "warszawa",
       "url": "https://open.spotify.com/track/6yau709RM3ze1xkkxi31Or"
-    },
-    {
-      "added_at": "2026-06-08 09:39:58",
-      "album": {
-        "name": "Sama s\u0142uchaj",
-        "url": "https://open.spotify.com/album/1kjorjjIHO8t9UC8P8iT0V"
-      },
-      "artists": [
-        {
-          "name": "Sienia",
-          "url": "https://open.spotify.com/artist/2e7TuhchY8aTY3v2qzMghX"
-        }
-      ],
-      "duration_ms": 173500,
-      "name": "Sama s\u0142uchaj",
-      "url": "https://open.spotify.com/track/5uiWeHUUj4KuG7uQZH9AAl"
     },
     {
       "added_at": "2026-06-08 09:39:58",
@@ -1731,18 +1731,18 @@
     {
       "added_at": "2026-06-08 09:39:58",
       "album": {
-        "name": "1986",
-        "url": "https://open.spotify.com/album/4Y5MQvSJeCXB9fIrMs8Zs6"
+        "name": "Bolt",
+        "url": "https://open.spotify.com/album/5Alc4ujo7Q3ISxeKd9gV62"
       },
       "artists": [
         {
-          "name": "Iwona Skv",
-          "url": "https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8"
+          "name": "Dawid Grzelak",
+          "url": "https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c"
         }
       ],
-      "duration_ms": 307146,
-      "name": "Dziewczyny",
-      "url": "https://open.spotify.com/track/3Ismbhh9YTgRZgXKzCKvri"
+      "duration_ms": 216860,
+      "name": "Bolt",
+      "url": "https://open.spotify.com/track/2cdwgNThDAVnQxqzPwtpSY"
     }
   ],
   "unique_name": "GLOW Polska",

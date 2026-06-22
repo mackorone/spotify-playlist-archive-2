@@ -1,6 +1,6 @@
 {
   "description": "Classic Contemporary Christian songs you can always count on! Cover: Lauren Daigle",
-  "num_followers": 673600,
+  "num_followers": 673677,
   "original_name": "Christian Classics",
   "owner": {
     "name": "Spotify",
@@ -407,18 +407,22 @@
     {
       "added_at": "2026-05-12 00:21:15",
       "album": {
-        "name": "Living Hope",
-        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
+        "name": "Holy Water",
+        "url": "https://open.spotify.com/album/0lGxlaY1aWzp6RWFDwNHAf"
       },
       "artists": [
         {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        },
+        {
+          "name": "Franni Cash",
+          "url": "https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1"
         }
       ],
-      "duration_ms": 327000,
-      "name": "Living Hope",
-      "url": "https://open.spotify.com/track/6nVm313QmsPlNllntTart1"
+      "duration_ms": 242666,
+      "name": "Holy Water",
+      "url": "https://open.spotify.com/track/6zb0RH9FmYB8Ronad1uK02"
     },
     {
       "added_at": "2026-05-12 00:21:15",
@@ -439,22 +443,18 @@
     {
       "added_at": "2026-05-12 00:21:15",
       "album": {
-        "name": "Holy Water",
-        "url": "https://open.spotify.com/album/0lGxlaY1aWzp6RWFDwNHAf"
+        "name": "Living Hope",
+        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
       },
       "artists": [
         {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
-        },
-        {
-          "name": "Franni Cash",
-          "url": "https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1"
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 242666,
-      "name": "Holy Water",
-      "url": "https://open.spotify.com/track/6zb0RH9FmYB8Ronad1uK02"
+      "duration_ms": 327000,
+      "name": "Living Hope",
+      "url": "https://open.spotify.com/track/6nVm313QmsPlNllntTart1"
     },
     {
       "added_at": "2026-05-12 00:21:15",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-05-12 00:21:15",
       "album": {
-        "name": "Speechless",
-        "url": "https://open.spotify.com/album/1l7ysbnQNktE8IGRSQeeKg"
-      },
-      "artists": [
-        {
-          "name": "Steven Curtis Chapman",
-          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
-        }
-      ],
-      "duration_ms": 237708,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/0GfsZEgIgJfcQ3uLWHZ2o3"
-    },
-    {
-      "added_at": "2026-05-12 00:21:15",
-      "album": {
         "name": "Jesus Freak (Remastered)",
         "url": "https://open.spotify.com/album/6KbHC5ADEGbnvl7Ge3GVQF"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 289906,
       "name": "Jesus Freak - Remastered 2013",
       "url": "https://open.spotify.com/track/4zAjQDduJhIRFSpfrIN68Z"
+    },
+    {
+      "added_at": "2026-05-12 00:21:15",
+      "album": {
+        "name": "Speechless",
+        "url": "https://open.spotify.com/album/1l7ysbnQNktE8IGRSQeeKg"
+      },
+      "artists": [
+        {
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
+        }
+      ],
+      "duration_ms": 237708,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/0GfsZEgIgJfcQ3uLWHZ2o3"
     },
     {
       "added_at": "2026-05-12 00:21:15",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-05-12 00:21:15",
       "album": {
-        "name": "God's Not Dead",
-        "url": "https://open.spotify.com/album/7Csd473gctS7rL0YUhjlkX"
-      },
-      "artists": [
-        {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
-        }
-      ],
-      "duration_ms": 258453,
-      "name": "God's Not Dead (Like A Lion)",
-      "url": "https://open.spotify.com/track/0eI19vR5WZ12fuYcEFUVkw"
-    },
-    {
-      "added_at": "2026-05-12 00:21:15",
-      "album": {
         "name": "One More Song for You",
         "url": "https://open.spotify.com/album/06cB2QYDAQBVfM2uhmXeNC"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 208266,
       "name": "Living Without Your Love",
       "url": "https://open.spotify.com/track/19JyDDO6hZmEjdagNDA2Km"
+    },
+    {
+      "added_at": "2026-05-12 00:21:15",
+      "album": {
+        "name": "God's Not Dead",
+        "url": "https://open.spotify.com/album/7Csd473gctS7rL0YUhjlkX"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "duration_ms": 258453,
+      "name": "God's Not Dead (Like A Lion)",
+      "url": "https://open.spotify.com/track/0eI19vR5WZ12fuYcEFUVkw"
     },
     {
       "added_at": "2026-05-12 00:21:15",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2026-05-12 00:21:15",
       "album": {
-        "name": "God's Not Dead",
-        "url": "https://open.spotify.com/album/7Csd473gctS7rL0YUhjlkX"
-      },
-      "artists": [
-        {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
-        }
-      ],
-      "duration_ms": 218200,
-      "name": "Your Love Never Fails",
-      "url": "https://open.spotify.com/track/1KedGIK1fpqpl56GkW5VgB"
-    },
-    {
-      "added_at": "2026-05-12 00:21:15",
-      "album": {
         "name": "The Champion",
         "url": "https://open.spotify.com/album/5izNB1WvXcrTHUy3RE1XB6"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 519333,
       "name": "The Champion",
       "url": "https://open.spotify.com/track/5w1Oq2woEW7QpEBQSzCb5x"
+    },
+    {
+      "added_at": "2026-05-12 00:21:15",
+      "album": {
+        "name": "God's Not Dead",
+        "url": "https://open.spotify.com/album/7Csd473gctS7rL0YUhjlkX"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "duration_ms": 218200,
+      "name": "Your Love Never Fails",
+      "url": "https://open.spotify.com/track/1KedGIK1fpqpl56GkW5VgB"
     },
     {
       "added_at": "2026-05-12 00:21:15",
@@ -2039,6 +2039,22 @@
     {
       "added_at": "2026-05-12 00:21:15",
       "album": {
+        "name": "Reckless Love",
+        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 333386,
+      "name": "Reckless Love",
+      "url": "https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD"
+    },
+    {
+      "added_at": "2026-05-12 00:21:15",
+      "album": {
         "name": "What A Beautiful Name",
         "url": "https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2"
       },
@@ -2055,22 +2071,6 @@
       "duration_ms": 238200,
       "name": "What A Beautiful Name",
       "url": "https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z"
-    },
-    {
-      "added_at": "2026-05-12 00:21:15",
-      "album": {
-        "name": "Reckless Love",
-        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
-      },
-      "artists": [
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 333386,
-      "name": "Reckless Love",
-      "url": "https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD"
     },
     {
       "added_at": "2026-05-12 00:21:15",
@@ -2135,6 +2135,22 @@
     {
       "added_at": "2026-05-12 00:21:15",
       "album": {
+        "name": "The Ascension",
+        "url": "https://open.spotify.com/album/4n00c0RLzY8dZiDnsNwHQf"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 279786,
+      "name": "This Is Amazing Grace",
+      "url": "https://open.spotify.com/track/5C64H6dEsQ15bS9gp0D3Xr"
+    },
+    {
+      "added_at": "2026-05-12 00:21:15",
+      "album": {
         "name": "There Is More (Live)",
         "url": "https://open.spotify.com/album/69o0gRM65PIT2vgZ72XTZm"
       },
@@ -2175,22 +2191,6 @@
     {
       "added_at": "2026-05-12 00:21:15",
       "album": {
-        "name": "The Ascension",
-        "url": "https://open.spotify.com/album/4n00c0RLzY8dZiDnsNwHQf"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 279786,
-      "name": "This Is Amazing Grace",
-      "url": "https://open.spotify.com/track/5C64H6dEsQ15bS9gp0D3Xr"
-    },
-    {
-      "added_at": "2026-05-12 00:21:15",
-      "album": {
         "name": "Goodness of God (Radio Version)",
         "url": "https://open.spotify.com/album/6PSBzgkRIDZaILu4gdYTOE"
       },
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2026-05-12 00:21:15",
       "album": {
-        "name": "2.0",
-        "url": "https://open.spotify.com/album/3zQ2tkiQovQZ7DJ8grJspS"
-      },
-      "artists": [
-        {
-          "name": "Citizen Way",
-          "url": "https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4"
-        }
-      ],
-      "duration_ms": 244786,
-      "name": "Bulletproof",
-      "url": "https://open.spotify.com/track/360aE5q4fclWPlsH73SdHO"
-    },
-    {
-      "added_at": "2026-05-12 00:21:15",
-      "album": {
         "name": "We Will Not Be Shaken (Live)",
         "url": "https://open.spotify.com/album/6Es2No0kYBzVAQlSmsEaZm"
       },
@@ -2267,6 +2251,22 @@
     {
       "added_at": "2026-05-12 00:21:15",
       "album": {
+        "name": "2.0",
+        "url": "https://open.spotify.com/album/3zQ2tkiQovQZ7DJ8grJspS"
+      },
+      "artists": [
+        {
+          "name": "Citizen Way",
+          "url": "https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4"
+        }
+      ],
+      "duration_ms": 244786,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/360aE5q4fclWPlsH73SdHO"
+    },
+    {
+      "added_at": "2026-05-12 00:21:15",
+      "album": {
         "name": "How Can It Be",
         "url": "https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0"
       },
@@ -2279,22 +2279,6 @@
       "duration_ms": 211600,
       "name": "Trust In You",
       "url": "https://open.spotify.com/track/4908mwb34dqgcaxHeFjitw"
-    },
-    {
-      "added_at": "2026-05-12 00:21:15",
-      "album": {
-        "name": "The Father's House",
-        "url": "https://open.spotify.com/album/7sEawI0wnDKeXS1cdiXr3M"
-      },
-      "artists": [
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 253640,
-      "name": "The Father's House - Studio",
-      "url": "https://open.spotify.com/track/5GDtkgG9T1BDknHHyDtghv"
     },
     {
       "added_at": "2026-05-12 00:21:15",
@@ -2315,6 +2299,22 @@
     {
       "added_at": "2026-05-12 00:21:15",
       "album": {
+        "name": "The Father's House",
+        "url": "https://open.spotify.com/album/7sEawI0wnDKeXS1cdiXr3M"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 253640,
+      "name": "The Father's House - Studio",
+      "url": "https://open.spotify.com/track/5GDtkgG9T1BDknHHyDtghv"
+    },
+    {
+      "added_at": "2026-05-12 00:21:15",
+      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/6pndQqpqNLi5Snk9qX43w9"
       },
@@ -2331,18 +2331,22 @@
     {
       "added_at": "2026-05-12 00:21:15",
       "album": {
-        "name": "Unspoken",
-        "url": "https://open.spotify.com/album/3E8lDVGWQKO7BOxRmcsayi"
+        "name": "Stand In Your Love (Radio Version)",
+        "url": "https://open.spotify.com/album/1ZID8iDyFaevr7kBna3Y9d"
       },
       "artists": [
         {
-          "name": "Unspoken",
-          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
         }
       ],
-      "duration_ms": 184733,
-      "name": "Start A Fire",
-      "url": "https://open.spotify.com/track/5y8qfDDccV2kEn4roGPter"
+      "duration_ms": 221333,
+      "name": "Stand In Your Love - Radio Version",
+      "url": "https://open.spotify.com/track/6HRU0CPcG0q3Dq8XVBWacL"
     },
     {
       "added_at": "2026-05-12 00:21:15",
@@ -2363,6 +2367,22 @@
     {
       "added_at": "2026-05-12 00:21:15",
       "album": {
+        "name": "Spoken For",
+        "url": "https://open.spotify.com/album/1tPtm5JRDC1kYZgb9WretN"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "duration_ms": 187573,
+      "name": "Word of God Speak",
+      "url": "https://open.spotify.com/track/6FVg2subR7uoD80BmTOsdR"
+    },
+    {
+      "added_at": "2026-05-12 00:21:15",
+      "album": {
         "name": "Reckless Love",
         "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
       },
@@ -2379,18 +2399,18 @@
     {
       "added_at": "2026-05-12 00:21:15",
       "album": {
-        "name": "Spoken For",
-        "url": "https://open.spotify.com/album/1tPtm5JRDC1kYZgb9WretN"
+        "name": "Unspoken",
+        "url": "https://open.spotify.com/album/3E8lDVGWQKO7BOxRmcsayi"
       },
       "artists": [
         {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
         }
       ],
-      "duration_ms": 187573,
-      "name": "Word of God Speak",
-      "url": "https://open.spotify.com/track/6FVg2subR7uoD80BmTOsdR"
+      "duration_ms": 184733,
+      "name": "Start A Fire",
+      "url": "https://open.spotify.com/track/5y8qfDDccV2kEn4roGPter"
     },
     {
       "added_at": "2026-05-12 00:21:15",
@@ -2431,22 +2451,34 @@
     {
       "added_at": "2026-05-12 00:21:15",
       "album": {
-        "name": "Stand In Your Love (Radio Version)",
-        "url": "https://open.spotify.com/album/1ZID8iDyFaevr7kBna3Y9d"
+        "name": "Welcome to the New",
+        "url": "https://open.spotify.com/album/4xBIDYQZtXRghjFPwqDLsP"
       },
       "artists": [
         {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
         }
       ],
-      "duration_ms": 221333,
-      "name": "Stand In Your Love - Radio Version",
-      "url": "https://open.spotify.com/track/6HRU0CPcG0q3Dq8XVBWacL"
+      "duration_ms": 255640,
+      "name": "Flawless",
+      "url": "https://open.spotify.com/track/6wa4KnRz7LjGeMkpIa1mAI"
+    },
+    {
+      "added_at": "2026-05-12 00:21:15",
+      "album": {
+        "name": "Big God",
+        "url": "https://open.spotify.com/album/3neRBcOUW8ZMem3hBAU1u1"
+      },
+      "artists": [
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "duration_ms": 191710,
+      "name": "Big God",
+      "url": "https://open.spotify.com/track/3vrD1zG1gJeGTkscxOMnO3"
     },
     {
       "added_at": "2026-05-12 00:21:15",
@@ -2467,18 +2499,18 @@
     {
       "added_at": "2026-05-12 00:21:15",
       "album": {
-        "name": "Welcome to the New",
-        "url": "https://open.spotify.com/album/4xBIDYQZtXRghjFPwqDLsP"
+        "name": "In Jesus Name (God Of Possible)",
+        "url": "https://open.spotify.com/album/6O6M9RO7S8AztEGAYKvD5T"
       },
       "artists": [
         {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+          "name": "Katy Nichole",
+          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
         }
       ],
-      "duration_ms": 255640,
-      "name": "Flawless",
-      "url": "https://open.spotify.com/track/6wa4KnRz7LjGeMkpIa1mAI"
+      "duration_ms": 222039,
+      "name": "In Jesus Name (God Of Possible)",
+      "url": "https://open.spotify.com/track/6Srgw41KlTpWtu5hbEKeja"
     },
     {
       "added_at": "2026-05-12 00:21:15",
@@ -2495,42 +2527,6 @@
       "duration_ms": 361386,
       "name": "Revelation Song",
       "url": "https://open.spotify.com/track/3pZVH0mPC6fxtmjOT0i9t5"
-    },
-    {
-      "added_at": "2026-05-12 00:21:15",
-      "album": {
-        "name": "Death Was Arrested",
-        "url": "https://open.spotify.com/album/7JnYzgXFC4jEM0XFtwRdK9"
-      },
-      "artists": [
-        {
-          "name": "North Point Worship",
-          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
-        },
-        {
-          "name": "Seth Condrey",
-          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
-        }
-      ],
-      "duration_ms": 293331,
-      "name": "Death Was Arrested",
-      "url": "https://open.spotify.com/track/7eBybNhcjCylloMZT2QjQE"
-    },
-    {
-      "added_at": "2026-05-12 00:21:15",
-      "album": {
-        "name": "In Jesus Name (God Of Possible)",
-        "url": "https://open.spotify.com/album/6O6M9RO7S8AztEGAYKvD5T"
-      },
-      "artists": [
-        {
-          "name": "Katy Nichole",
-          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
-        }
-      ],
-      "duration_ms": 222039,
-      "name": "In Jesus Name (God Of Possible)",
-      "url": "https://open.spotify.com/track/6Srgw41KlTpWtu5hbEKeja"
     }
   ],
   "unique_name": "Christian Classics",

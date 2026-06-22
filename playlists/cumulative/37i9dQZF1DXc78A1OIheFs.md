@@ -4,7 +4,7 @@
 
 > Discover the best in new music from Aotearoa\. Cover: Lorde
 
-347 songs - 19 hr 52 min
+349 songs - 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Clean](https://open.spotify.com/track/0YwpENNbchlW7WKAhgxEov) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [Clean](https://open.spotify.com/album/1XrG4FbpWriXEqBBriZD50) | 3:31 | 2025-06-19 | 2025-10-09 |
 | [Coats](https://open.spotify.com/track/3Ms4gyZoCG0e63Guz3gkBM) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Coats](https://open.spotify.com/album/2MhzYUysgTkEC01pE2Sfjv) | 3:28 | 2026-05-25 |  |
 | [Come Find Me](https://open.spotify.com/track/19fGfFfOBcjDbU4HRWrkz9) | [JessB](https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27) | [Come Find Me](https://open.spotify.com/album/44sMQlTP4ahbNno2fTfWZo) | 2:27 | 2024-05-20 | 2024-11-08 |
-| [Coming Home](https://open.spotify.com/track/6KAA7BldTJgqfPv5pvqhqj) | [Blindspott](https://open.spotify.com/artist/3ygVOsvZu30UQVK26idggu) | [Vol\. 3](https://open.spotify.com/album/2ybYUrbmkPXadAjJWmtcje) | 4:06 | 2025-05-29 |  |
+| [Coming Home](https://open.spotify.com/track/6KAA7BldTJgqfPv5pvqhqj) | [Blindspott](https://open.spotify.com/artist/3ygVOsvZu30UQVK26idggu) | [Vol\. 3](https://open.spotify.com/album/2ybYUrbmkPXadAjJWmtcje) | 4:06 | 2025-05-29 | 2026-06-22 |
 | [Commit](https://open.spotify.com/track/7gUkDBWUdzGnAQWSKuAHQm) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Commit](https://open.spotify.com/album/5e7TomyDOkTyYSVJnu4sJo) | 3:21 | 2024-08-15 | 2026-05-26 |
 | [Concubine](https://open.spotify.com/track/044xTtECAue47UQ8kxnvfL) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [The Great Escape](https://open.spotify.com/album/6FFK9dODdAHQuxCaldqIhb) | 4:16 | 2024-05-20 | 2026-04-26 |
 | [Cookie](https://open.spotify.com/track/0xdwUjqxpzEt7jZC0n0aN7) | [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX) | [Skeletons](https://open.spotify.com/album/4mJCH5WicAkf9wevEjVeuV) | 3:57 | 2024-11-28 | 2026-02-13 |
@@ -112,6 +112,7 @@
 | [Faery King](https://open.spotify.com/track/3jMJ7s8FQupDa1oRpaQsCc) | [Kiki Rockwell](https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F) | [Eldest Daughter Of An Eldest Daughter](https://open.spotify.com/album/4a5uJvHjC5NrORjUrtCV55) | 4:26 | 2024-10-18 |  |
 | [Faithfully](https://open.spotify.com/track/2UIkqoTk5YyvRpEEUIeoVg) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [Faithfully](https://open.spotify.com/album/0uSrvD5hS9m0j9Ldhlyg31) | 4:11 | 2024-05-20 | 2024-08-16 |
 | [Falling For You](https://open.spotify.com/track/7A88nTuJXs45pD7Y1miTQX) | [Kora](https://open.spotify.com/artist/5lc3ISF4CNThZEtJ2N4ZH6) | [Falling For You](https://open.spotify.com/album/5ub2Bf8lPIsARvvDDfsD0M) | 3:58 | 2024-05-20 | 2024-08-16 |
+| [Falling Into You](https://open.spotify.com/track/32CLNdivGU30Tw5XdjJLiZ) | [Tadpole](https://open.spotify.com/artist/2wkVc2BHIFZbfKtUFjFW1Q) | [Falling Into You](https://open.spotify.com/album/6hWLgDm2uTHtAZf17mVmmk) | 3:43 | 2026-06-22 |  |
 | [FEEL GOOD AURA](https://open.spotify.com/track/2i43SUgkp5g1W5rze9awuF) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H), [Caru](https://open.spotify.com/artist/2W3HtoJXnap6BDGYr8PRuv), [Romi Wrights](https://open.spotify.com/artist/0NW11rIYIi5R9bTax6kv9J) | [FEEL GOOD AURA](https://open.spotify.com/album/3T6oSRejjNgNcuoq4vd0nz) | 3:28 | 2025-06-12 | 2025-07-22 |
 | [Fever](https://open.spotify.com/track/4yzWBU2W6fUWHHshQLEwdi) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Fever](https://open.spotify.com/album/7sfCegKZtfF5c3PtrF6VP4) | 2:35 | 2025-01-30 | 2025-03-08 |
 | [FFS](https://open.spotify.com/track/4bfWDJBebYt4IttaK1pk3m) | [Lucian Rice](https://open.spotify.com/artist/2xxHXXg3zOxOsdb3cODhgs) | [right now, forever](https://open.spotify.com/album/0hxvUFor8krta7TpudUW1U) | 3:24 | 2024-10-18 | 2024-11-27 |
@@ -129,7 +130,7 @@
 | [Give Me That Feeling](https://open.spotify.com/track/77uJm6AgWF6Esf60O9LAU1) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B VI](https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE) | 4:14 | 2024-05-20 | 2026-04-26 |
 | [Glory](https://open.spotify.com/track/2h03aCUR0z5fKu5a26NGSt) | [Lontalius](https://open.spotify.com/artist/6v6tycmzJDLrgOXTj7mbT9) | [Glory](https://open.spotify.com/album/5G0tooiZgZU0RaroMA0FZK) | 4:46 | 2025-03-20 | 2025-05-01 |
 | [GO!](https://open.spotify.com/track/56VjJf0nMKrZ0aLBKmP2Rl) | [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0), [Sam Bruno](https://open.spotify.com/artist/2PgOtERwe37cW1U9z7zAHb) | [GO!](https://open.spotify.com/album/1G57wFuySUQ5H33inqfD7V) | 3:06 | 2024-08-15 |  |
-| [Gold Things](https://open.spotify.com/track/3wH727bYhimLg5cCL9ZCy7) | [Office Dog](https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5) | [Gold Things](https://open.spotify.com/album/3udQKwBiO7fJZcQTwkJ8j5) | 3:09 | 2026-04-26 |  |
+| [Gold Things](https://open.spotify.com/track/3wH727bYhimLg5cCL9ZCy7) | [Office Dog](https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5) | [Gold Things](https://open.spotify.com/album/3udQKwBiO7fJZcQTwkJ8j5) | 3:09 | 2026-04-26 | 2026-06-22 |
 | [GOLDTOPS](https://open.spotify.com/track/7mXUVbJYlfYg6frK2icDCD) | [Avantdale Bowling Club](https://open.spotify.com/artist/5Cs7q4jgkzn0pmj34qncqw), [DUSTY & GHOS](https://open.spotify.com/artist/45QADodjk5TcKefkz4SEww) | [TREES: The Remix EP](https://open.spotify.com/album/6pyl3320masvP5uc2SvXgK) | 2:54 | 2024-05-20 | 2024-11-22 |
 | [Gravitate \- Single Edit](https://open.spotify.com/track/7FvSf3Cx6faUnuZc5BKxIn) | [Sweet Mix Kids](https://open.spotify.com/artist/7D0Hb0WdjO98UZf8Uh1DX7), [LOU'ANA](https://open.spotify.com/artist/6bmZe9cAGCwdOgriWbhhy7) | [Gravitate](https://open.spotify.com/album/3UclHmm7VRyhZW8QHNOpJS) | 3:07 | 2024-05-20 | 2024-11-08 |
 | [Gravity](https://open.spotify.com/track/6gQmQi4GYJWN2Lxr4cArJ2) | [Jon Toogood](https://open.spotify.com/artist/7DV3aS9YkgLlQ05vw08CG8) | [Gravity](https://open.spotify.com/album/4z6z440xRZYzZsQmmkMKWQ) | 3:34 | 2024-08-15 | 2026-03-27 |
@@ -138,6 +139,7 @@
 | [Hammer](https://open.spotify.com/track/5XpZFOSIvQlHLZV39uHNkW) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Hammer](https://open.spotify.com/album/6yPr0ELbEgCD9cmS5CLBGU) | 3:13 | 2025-06-19 | 2025-11-03 |
 | [Hands](https://open.spotify.com/track/7esb7bZv9LaaqYNcvGXcuq) | [Lilly Carron](https://open.spotify.com/artist/2cKfPWgeyf4nVe1VVRJ91K) | [Hands](https://open.spotify.com/album/6Y6vPRTT6n4uMIz3tC4vzp) | 2:51 | 2024-05-20 | 2024-11-08 |
 | [Handyman.](https://open.spotify.com/track/1xd2siUNv5buHMILOQZeRB) | [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA), [Sione Toki](https://open.spotify.com/artist/7CyCft1T5A9pLksmToGkFV) | [Handyman.](https://open.spotify.com/album/27GwbvIdxCHWZ7oe1gr3yb) | 2:41 | 2024-08-22 |  |
+| [Happy Waste](https://open.spotify.com/track/6cHXjkTINW4YyMt2xouVdr) | [Villainy](https://open.spotify.com/artist/3TGyAB5Aa7rjP6roX8eSHe) | [Happy Waste](https://open.spotify.com/album/7KvscCbnsZyvmlGmALGep6) | 3:20 | 2026-06-22 |  |
 | [Harmless](https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Harmless](https://open.spotify.com/album/7fpdpcbXKbo8jDqwPW6M9Q) | 2:25 | 2024-05-20 |  |
 | [Have You Ever Seen the Rain](https://open.spotify.com/track/1AJCwu6LhfFTh6Lb7SYlCh) | [House of Shem](https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845), [Te Omeka Perkins](https://open.spotify.com/artist/0v4dd7o5DG0zJdqsYrn1Bf) | [Have You Ever Seen the Rain](https://open.spotify.com/album/6Xi9D8l2wWFU1zGhzPnMX9) | 3:13 | 2024-05-20 |  |
 | [Hazy Daisy](https://open.spotify.com/track/08FbJk7kI27f7lLwCQomQ9) | [Summer Thieves](https://open.spotify.com/artist/4WCnYYTO46t5FujuWKOc4W) | [Hazy Daisy](https://open.spotify.com/album/5NPTjHmYFakbHC25TMGZEf) | 2:52 | 2026-01-22 | 2026-02-13 |

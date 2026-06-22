@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,374 likes - 103 songs - 6 hr 7 min
+[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,374 likes - 104 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,5 +111,6 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 | 101 | [Better by You](https://open.spotify.com/track/3ix8181xinNXDEGp5OISPl) | [Lightbringers](https://open.spotify.com/artist/52UxMxuSqklbokL4qlhA1u) | [Better by You](https://open.spotify.com/album/1H6z6N4irGBcP97IrP3Edy) | 3:26 |
 | 102 | [For His Better Three Quarters](https://open.spotify.com/track/5D4gO0zn1nuXAdvFHnaaG4) | [Peplo](https://open.spotify.com/artist/69Befn5bTbE1KSQOQ2yVu5) | [For His Better Three Quarters](https://open.spotify.com/album/4x4GfPNzJELJlogra2nLGY) | 3:22 |
 | 103 | [Sunday feelin blue](https://open.spotify.com/track/5HxpA82MBhLlzrB46cqeGk) | [The Shine](https://open.spotify.com/artist/0hI3GGqvOL7dGXATVv9PDL) | [Sunday feelin blue](https://open.spotify.com/album/2LRE6xZXyyl89ycUp7Nepf) | 2:42 |
+| 104 | [Lips Parted](https://open.spotify.com/track/6Kg0rGcKTqAHqBt6ZD7wn4) | [Both Hands](https://open.spotify.com/artist/3flW9Wdr8HajNi1zIRjQCW) | [Lips Parted](https://open.spotify.com/album/1DfPPo6CWL6sgWvqzkjN6j) | 4:26 |
 
-Snapshot ID: `AAB8IQENspFHQBmiCLECGwWqj2mx6miF`
+Snapshot ID: `AAB8Ir365gRY9mS/zaKYo+Nx0/GN9lt/`

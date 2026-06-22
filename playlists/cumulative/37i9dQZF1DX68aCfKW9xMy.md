@@ -4,7 +4,7 @@
 
 > La casa de los corazones rotos.
 
-426 songs - 23 hr 21 min
+427 songs - 23 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Cuando Te Acuerdes De Mí](https://open.spotify.com/track/3G5vqzmeIK8tSATYaFLvC2) | [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Cuando Te Acuerdes De Mí](https://open.spotify.com/album/2qJlOmYuUzGNznB2wh6EZD) | 3:18 | 2022-07-08 | 2024-12-24 |
 | [Cuando Te Ame](https://open.spotify.com/track/1wdWyRs5xnuoa6itHiWVUN) | [Soñadores de Sinaloa](https://open.spotify.com/artist/0wrtLRkpE2Yu6Oge3tVXUf) | [Volumen 5](https://open.spotify.com/album/1vBjoHzTclIISicKH9HOtf) | 3:55 | 2022-03-29 | 2022-05-07 |
 | [Cuatro Rosas](https://open.spotify.com/track/4MNshDc0FgyiddMjlGbeCV) | [Banda Pelillos](https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE) | [Volver a Verte](https://open.spotify.com/album/7Fr4KyfCljns3TO7M0gS1S) | 4:08 | 2023-04-28 | 2024-04-19 |
-| [Culpable Tú](https://open.spotify.com/track/2KGzDt4jfP39i8INV4rpdO) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [Culpable Tú](https://open.spotify.com/album/1fovMxvYso6MyMdxVrATDC) | 3:51 | 2023-04-14 |  |
+| [Culpable Tú](https://open.spotify.com/track/2KGzDt4jfP39i8INV4rpdO) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [Culpable Tú](https://open.spotify.com/album/1fovMxvYso6MyMdxVrATDC) | 3:51 | 2023-04-14 | 2026-06-22 |
 | [Cuál Adiós](https://open.spotify.com/track/2k72t2UZv6SrsURrgjJLFL) | [Banda Clave Nueva](https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R) | [Sabor a Pacífico](https://open.spotify.com/album/66P9tgSBBxn0c5yZRjPmhI) | 3:29 | 2022-11-07 | 2022-11-13 |
 | [Cuál Adiós](https://open.spotify.com/track/3WWOgwKCsqi5GCO5eRoen0) | [Banda Clave Nueva](https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R) | [Ya No Vives En Mí](https://open.spotify.com/album/3GcFU0ICHxdr3rkWoRXcfE) | 3:29 | 2022-01-07 | 2024-10-10 |
 | [Cuál Adiós](https://open.spotify.com/track/5R9lPFnoJGppR1MsI7vHxy) | [Banda Clave Nueva](https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R) | [Ya No Vives En Mí](https://open.spotify.com/album/61NkuD5RHMUdi46sxcvCKE) | 3:29 | 2022-05-23 | 2024-04-19 |
@@ -373,6 +373,7 @@
 | [Tiempo Fuera](https://open.spotify.com/track/01gAbqtPWVRLzHKZjqbtwM) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Tiempo Fuera](https://open.spotify.com/album/3ofYz6uyOpKbp8DHnCefh3) | 3:18 | 2022-11-07 |  |
 | [TRES BOTELLAS](https://open.spotify.com/track/2CshODtf7iwe3pKlPmEWF5) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 2:42 | 2023-11-08 | 2026-02-28 |
 | [Tres Veces Te Engañé \- En Vivo](https://open.spotify.com/track/2mDtpjFCkc94ZBGPNFUCRB) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Tres Veces Te Engañé \(En Vivo\)](https://open.spotify.com/album/67cz8x4lTBKle18uAhzeRa) | 4:16 | 2023-09-22 | 2023-12-02 |
+| [Tu Ingratitud](https://open.spotify.com/track/5kiFSCCngEKd1YCkelaTz4) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Con Banda](https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV) | 3:28 | 2026-02-27 |  |
 | [Tu Maniquí](https://open.spotify.com/track/5XpvqqKEI3xWS4heKkXjb5) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Tu Maniquí](https://open.spotify.com/album/7HkqbCqtwAFIbtgFyeIpRi) | 2:34 | 2023-04-14 | 2023-08-01 |
 | [Tu No Eres Lo Que Quería](https://open.spotify.com/track/5N1tsOIzgNiRPx34J23LBt) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Subiendo De Nivel](https://open.spotify.com/album/7cEmIL6HeGkcCCUuycfdLh) | 1:50 | 2022-11-07 | 2023-08-09 |
 | [Tu No Eres Mi Ex](https://open.spotify.com/track/3PS6yVFca0BD2sjDMrlpZk) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Tu No Eres Mi Ex](https://open.spotify.com/album/0t1xeMlC95sUhbN7z8LTCk) | 2:17 | 2022-11-07 | 2023-01-06 |

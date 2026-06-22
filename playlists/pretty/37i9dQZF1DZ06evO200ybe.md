@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO200ybe.md) - [plain]
 
 > This is Chet Baker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,638 likes - 44 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,663 likes - 44 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,11 +13,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO200ybe.md) - [plain]
 | 3 | [Stardust](https://open.spotify.com/track/2g1iBv7SXxiXX0IEG4lz2k) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Reunion With Chet Baker](https://open.spotify.com/album/25FnmQMWGTGiwTGK8IKFGs) | 4:46 |
 | 4 | [Let's Get Lost](https://open.spotify.com/track/0UZFhlhUMrYyzzyOHkylM3) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings And Plays \(Remastered 2004\)](https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc) | 3:43 |
 | 5 | [I Fall In Love Too Easily](https://open.spotify.com/track/0F845nujLVqCb0XMZCh5Pc) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 3:21 |
-| 6 | [That Ole Devil Called Love](https://open.spotify.com/track/4gOLhCjZJdhmCrrkkd9jSG) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baker's Holiday](https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR) | 3:17 |
+| 6 | [You're My Thrill](https://open.spotify.com/track/350exLbRdtTfhVRPgdmIWi) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baker's Holiday](https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR) | 2:59 |
 | 7 | [The Touch Of Your Lips](https://open.spotify.com/track/5LLWrf6UdvgH9o1PGkNeYP) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baby Breeze \(Expanded Edition\)](https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM) | 2:42 |
 | 8 | ['Tis Autumn \- Mono](https://open.spotify.com/track/77eyTozd749OwrD7cQAQ5H) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet \(Mono\)](https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO) | 5:21 |
 | 9 | [Time After Time \- Vocal Version](https://open.spotify.com/track/4m6OC8u2rC6LMFtFWsME7d) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 2:46 |
-| 10 | [You're My Thrill](https://open.spotify.com/track/350exLbRdtTfhVRPgdmIWi) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baker's Holiday](https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR) | 2:59 |
+| 10 | [That Ole Devil Called Love](https://open.spotify.com/track/4gOLhCjZJdhmCrrkkd9jSG) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baker's Holiday](https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR) | 3:17 |
 | 11 | [Autumn Leaves](https://open.spotify.com/track/2iUrcZcAuVIahQD0dg9HLe) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [My Funny Valentine: The Best Of Chet Baker](https://open.spotify.com/album/1N1slntg5Bz5fe9S5S1R3t) | 7:03 |
 | 12 | [If You Could See Me Now \- Mono](https://open.spotify.com/track/2d1rjlkbvXPET5Rf4Ovl1r) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet \(Mono\)](https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO) | 5:19 |
 | 13 | [I Get Along Without You Very Well \(Except Sometimes\) \- Vocal Version](https://open.spotify.com/track/4gFlHAye7To29Fs4UszQUH) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 2:59 |
@@ -30,11 +30,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO200ybe.md) - [plain]
 | 20 | [You'd Be So Nice To Come Home To \- Mono](https://open.spotify.com/track/2oCnRryJfTMOV1gs0oA3Sv) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet \(Mono\)](https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO) | 4:36 |
 | 21 | [It's Always You \- Vocal Version](https://open.spotify.com/track/06UkYE0SZ3Y8zGRFOuWGAe) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 3:35 |
 | 22 | [I Wish You Love](https://open.spotify.com/track/1gF8EnsbcFBaYsNig7LhtN) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baby Breeze \(Expanded Edition\)](https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM) | 3:12 |
-| 23 | [Dancing on the Ceiling](https://open.spotify.com/track/27j5vjWiTCnys8U2AJQnJ3) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings: It Could Happen To You \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc) | 3:09 |
+| 23 | [It Could Happen to You](https://open.spotify.com/track/0Ve39xlLUEwJlxEpKR117l) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings: It Could Happen To You \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc) | 2:53 |
 | 24 | [It Never Entered My Mind \- Mono](https://open.spotify.com/track/20DLzdfrVKNJFsKQLj8eMh) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet \(Mono\)](https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO) | 4:42 |
 | 25 | [Summertime](https://open.spotify.com/track/0xUR9H98jgwFKhwrv9yQXI) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Quartet Vol\. 2 \(Chet Baker in Paris Vol\. 2\)](https://open.spotify.com/album/72e9cK7pld3vk8Ic1XVwMu) | 4:15 |
 | 26 | [Born To Be Blue](https://open.spotify.com/track/5Z0HDixFz1mtvPOXLtCKU9) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baby Breeze \(Expanded Edition\)](https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM) | 4:06 |
-| 27 | [It Could Happen to You](https://open.spotify.com/track/0Ve39xlLUEwJlxEpKR117l) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings: It Could Happen To You \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc) | 2:53 |
+| 27 | [Dancing on the Ceiling](https://open.spotify.com/track/27j5vjWiTCnys8U2AJQnJ3) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings: It Could Happen To You \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc) | 3:09 |
 | 28 | [September Song](https://open.spotify.com/track/40m3isgvDXdkSP2zh3p4uE) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet \(Keepnews Collection\)](https://open.spotify.com/album/1MlU3WEMLbxw9d4B08AptQ) | 3:05 |
 | 29 | [Autumn In New York](https://open.spotify.com/track/4PkJlDmHpr9o7KUxm0Uflx) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet In Paris: Everything Happens To Me \- The Complete Barclay Recording Vol\. 2](https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD) | 7:04 |
 | 30 | [These Foolish Things \(Remind Me Of You\)](https://open.spotify.com/track/3pXjJpOV4gPLcxTUEItg1B) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Quartet Vol\. 2 \(Chet Baker in Paris Vol\. 2\)](https://open.spotify.com/album/72e9cK7pld3vk8Ic1XVwMu) | 4:44 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO200ybe.md) - [plain]
 | 43 | [I Remember You \- Remastered 2004](https://open.spotify.com/track/6FYeRy9LuMYTEMXOVCRCJ5) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings And Plays \(Remastered 2004\)](https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc) | 3:15 |
 | 44 | [Neapolitan Phantasy](https://open.spotify.com/track/20xmXGsOL7nGsFyUxHszm2) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk), [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Smog \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5v9yUH4MkbT7Wovdz8Y54o) | 3:54 |
 
-Snapshot ID: `ajSGgAAAAACmu9NnlCDF5u4wElgJBfXz`
+Snapshot ID: `ajXYAAAAAADvUBVA5boS2DfbIJFkEDO1`

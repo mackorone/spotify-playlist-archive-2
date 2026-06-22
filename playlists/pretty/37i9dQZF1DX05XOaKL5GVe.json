@@ -1,6 +1,6 @@
 {
   "description": "Tesoros musicales del ayer.",
-  "num_followers": 987499,
+  "num_followers": 987698,
   "original_name": "Viejitas pero Bonitas",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Desde Andalucia",
-        "url": "https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw"
-      },
-      "artists": [
-        {
-          "name": "Isabel Pantoja",
-          "url": "https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo"
-        }
-      ],
-      "duration_ms": 325466,
-      "name": "Asi Fue",
-      "url": "https://open.spotify.com/track/419FFiitGchOUaIMEY7Dqi"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Mujer De Todos Mujer De Nadie",
         "url": "https://open.spotify.com/album/6BC7q1B5ss7OiX121KKoJK"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 210440,
       "name": "De Mi Enam\u00f3rate",
       "url": "https://open.spotify.com/track/2YpdOz01cVBMRfhdAELdLi"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Desde Andalucia",
+        "url": "https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw"
+      },
+      "artists": [
+        {
+          "name": "Isabel Pantoja",
+          "url": "https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo"
+        }
+      ],
+      "duration_ms": 325466,
+      "name": "Asi Fue",
+      "url": "https://open.spotify.com/track/419FFiitGchOUaIMEY7Dqi"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -989,22 +989,6 @@
       "url": "https://open.spotify.com/track/0QTJFY7wrFxL9JlJfQvJzv"
     },
     {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
-        "name": "Solo Exitos",
-        "url": "https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        }
-      ],
-      "duration_ms": 219826,
-      "name": "Con Olor a Hierba",
-      "url": "https://open.spotify.com/track/30PNkwSPcer18CoQ8uyUct"
-    },
-    {
       "added_at": "2024-09-26 19:28:08",
       "album": {
         "name": "Ya No Pienso en Ti (Spotify Singles)",
@@ -1019,6 +1003,22 @@
       "duration_ms": 187350,
       "name": "Ya No Pienso en Ti - Spotify Singles",
       "url": "https://open.spotify.com/track/0MlstFQR7Ak6k60xelYcz8"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Solo Exitos",
+        "url": "https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 219826,
+      "name": "Con Olor a Hierba",
+      "url": "https://open.spotify.com/track/30PNkwSPcer18CoQ8uyUct"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Digan Lo Que Digan: Banda Sonora Original De La Pe",
-        "url": "https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ"
-      },
-      "artists": [
-        {
-          "name": "Raphael",
-          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
-        }
-      ],
-      "duration_ms": 162040,
-      "name": "Digan lo que digan",
-      "url": "https://open.spotify.com/track/3JclUL96MU6SWZCPb1wzih"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Mocedades 5",
         "url": "https://open.spotify.com/album/09wkGIEU9667gEzg6Ywsbx"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 151133,
       "name": "Tu Cabeza en Mi Hombro",
       "url": "https://open.spotify.com/track/2AtlLNH6BCDhA5DX8FSpVL"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Digan Lo Que Digan: Banda Sonora Original De La Pe",
+        "url": "https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ"
+      },
+      "artists": [
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
+        }
+      ],
+      "duration_ms": 162040,
+      "name": "Digan lo que digan",
+      "url": "https://open.spotify.com/track/3JclUL96MU6SWZCPb1wzih"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "La M\u00e1s Completa Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/4JUkSVuOwbbMwCXETe6qa0"
-      },
-      "artists": [
-        {
-          "name": "Victor Yturbe \"El Piruli\"",
-          "url": "https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB"
-        }
-      ],
-      "duration_ms": 190533,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/75B5ZKWxccZztF9x76RKXt"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Mensajes De F\u00e9",
         "url": "https://open.spotify.com/album/0fn4QTKt2uL68GexFfRhS5"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 226866,
       "name": "La Monta\u00f1a (A Montanha)",
       "url": "https://open.spotify.com/track/4VlGrvfdv6p3DoFUaN2sph"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "La M\u00e1s Completa Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/4JUkSVuOwbbMwCXETe6qa0"
+      },
+      "artists": [
+        {
+          "name": "Victor Yturbe \"El Piruli\"",
+          "url": "https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB"
+        }
+      ],
+      "duration_ms": 190533,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/75B5ZKWxccZztF9x76RKXt"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Serie 32",
-        "url": "https://open.spotify.com/album/2PLljs7FAccVYVySNb0tRo"
+        "name": "Enamorada",
+        "url": "https://open.spotify.com/album/53a626hUxhtVTAyaVSX2Qc"
       },
       "artists": [
         {
-          "name": "Victor Yturbe \"El Piruli\"",
-          "url": "https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB"
+          "name": "Luc\u00eda M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN"
         }
       ],
-      "duration_ms": 230400,
-      "name": "Ver\u00f3nica",
-      "url": "https://open.spotify.com/track/0TwbY0aX7jIgJLFXZCUcti"
+      "duration_ms": 164826,
+      "name": "Mi Amor, Amor",
+      "url": "https://open.spotify.com/track/52MtS8GblLs1yBVLjecSk1"
     }
   ],
   "unique_name": "Viejitas pero Bonitas",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the South\. Cover: Yung Miami
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,270,226 likes - 99 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,270,207 likes - 99 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MUrG3NBYtM.md) - [plain]
 
 > De beste Indie releases\. Cover: Naaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,400 likes - 60 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,394 likes - 60 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MUrG3NBYtM.md) - [plain]
 | 22 | [To Space](https://open.spotify.com/track/356x2OD1llA9NfOMXVmGSk) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [EP \#2](https://open.spotify.com/album/4LZ7eLsW6zSsLjBFxhbBg8) | 3:53 |
 | 23 | [The Happy Dictator \(feat\. Sparks\)](https://open.spotify.com/track/50BLjPGDh9DjVp4qwwyG6d) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [The Happy Dictator \(feat\. Sparks\)](https://open.spotify.com/album/28hPpJ5zrajpudLVXzvEZF) | 4:44 |
 | 24 | [Sorry](https://open.spotify.com/track/02KWhwsDjIX8ZXgBgK9kOP) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [LOVED](https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl) | 3:17 |
-| 25 | [Rubber Band Man \(with Hozier\)](https://open.spotify.com/track/6rrqv0WwGTTlavCNqVGd6A) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Rubber Band Man \(with Hozier\)](https://open.spotify.com/album/6yWyUmKuNAPw5M4Ee3PtUq) | 3:40 |
-| 26 | [Take A Sexy Picture Of Me](https://open.spotify.com/track/0gQpTmVvkNauZzh5YSIrHY) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Take A Sexy Picture Of Me](https://open.spotify.com/album/1xqPeoLyajonkSFTtE7HQB) | 3:49 |
+| 25 | [Take A Sexy Picture Of Me](https://open.spotify.com/track/0gQpTmVvkNauZzh5YSIrHY) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Take A Sexy Picture Of Me](https://open.spotify.com/album/1xqPeoLyajonkSFTtE7HQB) | 3:49 |
+| 26 | [Rubber Band Man \(with Hozier\)](https://open.spotify.com/track/6rrqv0WwGTTlavCNqVGd6A) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Rubber Band Man \(with Hozier\)](https://open.spotify.com/album/6yWyUmKuNAPw5M4Ee3PtUq) | 3:40 |
 | 27 | [Hemingway](https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Hemingway](https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus) | 3:16 |
 | 28 | [Casablanca \(feat\. Paul Simonon and Johnny Marr\)](https://open.spotify.com/track/4PjP7VfSAPxyt2TprUpALA) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Paul Simonon](https://open.spotify.com/artist/62bYKAZ5EdmG5Aca9dtVan), [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [The Mountain](https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD) | 3:46 |
 | 29 | [moody](https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [moody](https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro) | 2:55 |
@@ -57,13 +57,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MUrG3NBYtM.md) - [plain]
 | 47 | [Healing](https://open.spotify.com/track/6C7S3LAPokFppY2ttt6VSi) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Dressed Like Boys](https://open.spotify.com/album/2aVuPgS0edNTSjUodsqwGn) | 3:35 |
 | 48 | [Juice](https://open.spotify.com/track/6VxBEwjCqZuQUxqhSedNFa) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [Night Light](https://open.spotify.com/album/28XX98fScUpE4dZN0hIvAR) | 4:29 |
 | 49 | [Talvez](https://open.spotify.com/track/4E7WCyQAldKeTR7vwpRMTP) | [Ão](https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod) | [Malandra](https://open.spotify.com/album/5azfYN3PqeXTNfC00wvKs1) | 3:54 |
-| 50 | [Call You Home](https://open.spotify.com/track/6asKWJ9heYSpUUlN77lgnc) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [First Rodeo](https://open.spotify.com/album/0tMYQo9n5L7w1uRknqg7Qj) | 3:43 |
-| 51 | [Television Love](https://open.spotify.com/track/4eh6lldHwQEu5yyfLzqrFw) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Television Love](https://open.spotify.com/album/2sp7hANBzhnwd3SlUZYPl0) | 4:40 |
+| 50 | [Television Love](https://open.spotify.com/track/4eh6lldHwQEu5yyfLzqrFw) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Television Love](https://open.spotify.com/album/2sp7hANBzhnwd3SlUZYPl0) | 4:40 |
+| 51 | [Call You Home](https://open.spotify.com/track/6asKWJ9heYSpUUlN77lgnc) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [First Rodeo](https://open.spotify.com/album/0tMYQo9n5L7w1uRknqg7Qj) | 3:43 |
 | 52 | [Homerun 2021](https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Homerun 2021](https://open.spotify.com/album/3eso9JkXxZyMBrjzUbsBxR) | 3:21 |
 | 53 | [Wake Me Up](https://open.spotify.com/track/1tenXdRDmbXA1spfbDSxmc) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [21st Century Fiction](https://open.spotify.com/album/6PXuxQUn7Ar2AKt2BSseX2) | 5:20 |
 | 54 | [Flowers In The Water](https://open.spotify.com/track/50WogEBOCXkA5vEV1Es58S) | [The Boxer Rebellion](https://open.spotify.com/artist/7DEseTqRODmSu3C7jxCHl5) | [Flowers In The Water](https://open.spotify.com/album/0aSClnSnwkJQUmJupW4fpe) | 3:59 |
-| 55 | [I'll Change for You](https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [I'll Change for You](https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL) | 3:16 |
-| 56 | [blind](https://open.spotify.com/track/2Juuq3nXnKIUziolpB5IaR) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [blind](https://open.spotify.com/album/77LigDv2MjixBi3sh4FNLc) | 3:30 |
+| 55 | [blind](https://open.spotify.com/track/2Juuq3nXnKIUziolpB5IaR) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [blind](https://open.spotify.com/album/77LigDv2MjixBi3sh4FNLc) | 3:30 |
+| 56 | [I'll Change for You](https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [I'll Change for You](https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL) | 3:16 |
 | 57 | [Down to be wrong](https://open.spotify.com/track/2d18juMmmN1KwjFtfEj0FP) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Down to be wrong](https://open.spotify.com/album/4C5577NRnfQm2EpHvb17dW) | 4:09 |
 | 58 | [Natural Woman](https://open.spotify.com/track/3s382wKMe6FvXmwTS1bWmN) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Muscle Shoals](https://open.spotify.com/album/4CgnYQ1ImIJaoxkgCmYXVt) | 3:05 |
 | 59 | [Legalize Living](https://open.spotify.com/track/7s4jEMchJ03AxIw7IQKZJT) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Legalize Living](https://open.spotify.com/album/50bN734086s72BiT5VNoPw) | 3:24 |

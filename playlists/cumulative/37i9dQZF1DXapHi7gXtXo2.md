@@ -4,7 +4,7 @@
 
 > Dale play y déjate llevar por estas finas melodías Indie.
 
-191 songs - 10 hr 34 min
+192 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Delorean](https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP) | [Mi$HNRZ](https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C) | [Delorean](https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t) | 3:08 | 2023-12-01 |  |
 | [Departamento](https://open.spotify.com/track/0L7UzdYmOkLhHoDLEcUa8f) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp), [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Departamento](https://open.spotify.com/album/6HOznOXnB3b994Rq9HMlzj) | 3:54 | 2023-12-01 | 2024-04-19 |
 | [Desnuda](https://open.spotify.com/track/0drLaDtp4SxzUJoLwEpNe1) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 3:45 | 2023-12-01 |  |
-| [DIAS DE PAJA](https://open.spotify.com/track/78GT2hT82AWRJq2kwXJAI5) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [DIAS DE PAJA](https://open.spotify.com/album/1j1tnRVfGpSzgjiOLE1dtX) | 3:53 | 2024-09-20 |  |
+| [DIAS DE PAJA](https://open.spotify.com/track/78GT2hT82AWRJq2kwXJAI5) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [DIAS DE PAJA](https://open.spotify.com/album/1j1tnRVfGpSzgjiOLE1dtX) | 3:53 | 2024-09-20 | 2026-06-22 |
 | [Duele](https://open.spotify.com/track/5aS8Tp9ewqjjKzdhqdgjaK) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [Duele](https://open.spotify.com/album/1cCRSSDJY4LUhn5goRDHO5) | 3:27 | 2023-12-01 |  |
 | [El Club](https://open.spotify.com/track/0vDfod7HBva0Kr0R4tEIpD) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [El Club](https://open.spotify.com/album/4WTDpgb2hxYeqaOtcsUOVh) | 2:39 | 2024-09-20 |  |
 | [El Encuentro](https://open.spotify.com/track/0PbDj1Lh8uZJ2ZcTRSBvQf) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3), [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX) | [El Encuentro](https://open.spotify.com/album/3NAGaIPdSjlSJhAbcgRU3A) | 2:58 | 2023-12-01 |  |
@@ -102,6 +102,7 @@
 | [Llamame](https://open.spotify.com/track/52pBr4O7TlAQ7rDS8TPxlf) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Llamame](https://open.spotify.com/album/3qx0TEK0UIW4bceOm50D8f) | 3:28 | 2024-06-07 |  |
 | [Llueve Sobre Mojado](https://open.spotify.com/track/7AbXvFA3CC6sA7t1wlwApo) | [Deborah De Corral](https://open.spotify.com/artist/0cEINGGZS5I0npSooTOQRZ) | [Piel](https://open.spotify.com/album/22zFtS2ipuNixDofMq176B) | 4:03 | 2024-09-20 |  |
 | [Lo que fuera](https://open.spotify.com/track/2vGH3bb9tWJjJYaBAtFnVr) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Lo que fuera](https://open.spotify.com/album/77YloBOjF7a1x3WEqsk9Ia) | 2:57 | 2024-01-19 |  |
+| [LO QUE PASÓ UNA VEZ](https://open.spotify.com/track/3DEuPFTumozG70UjBuZDTL) | [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [LO QUE PASÓ UNA VEZ](https://open.spotify.com/album/46AiJ3b8zW1Mg7L8oZHf8t) | 2:30 | 2024-09-20 |  |
 | [LOTO](https://open.spotify.com/track/01c2emv4rHsA4KZ5gBTLhv) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [LOTO](https://open.spotify.com/album/69ejRbPjsusOcKQm6ZwsSg) | 2:46 | 2023-12-01 | 2024-12-02 |
 | [Magia](https://open.spotify.com/track/1DhyUIHhu7e6KwiTfKasiU) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0), [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [Magia](https://open.spotify.com/album/2HKVZFyt8s52LzQYhZsmic) | 2:56 | 2023-12-01 | 2024-04-19 |
 | [Mar](https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Mar](https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2) | 3:58 | 2023-12-01 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 108054,
+  "num_followers": 108090,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAAA/6I1bNzrgqmO83x55sqdB",
+  "snapshot_id": "ajXYAAAAAAD4ncjbvZagccSudXTmW1oo",
   "tracks": [
     {
       "added_at": null,
@@ -1099,22 +1099,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRODUTO DO AMBIENTE",
-        "url": "https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN"
+        "name": "Trapzeiro (Meu Piseiro Brasileiro) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/3S4xoyB55MVXwT1ukuOL4p"
       },
       "artists": [
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        },
         {
           "name": "BK",
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "Nansy Silvvz",
-          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
         }
       ],
-      "duration_ms": 191338,
-      "name": "Se Eu N\u00e3o Manter",
-      "url": "https://open.spotify.com/track/0mBr4S97a0duSfgebe007c"
+      "duration_ms": 225803,
+      "name": "Vinho, Voz e Viol\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/1wx8J9hbkS1m2KMiXN9Q7B"
     },
     {
       "added_at": null,
@@ -1163,26 +1167,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trapzeiro (Meu Piseiro Brasileiro) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/3S4xoyB55MVXwT1ukuOL4p"
+        "name": "PRODUTO DO AMBIENTE",
+        "url": "https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN"
       },
       "artists": [
-        {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
-        },
         {
           "name": "BK",
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+          "name": "Nansy Silvvz",
+          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
         }
       ],
-      "duration_ms": 225803,
-      "name": "Vinho, Voz e Viol\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/1wx8J9hbkS1m2KMiXN9Q7B"
+      "duration_ms": 191338,
+      "name": "Se Eu N\u00e3o Manter",
+      "url": "https://open.spotify.com/track/0mBr4S97a0duSfgebe007c"
     },
     {
       "added_at": null,

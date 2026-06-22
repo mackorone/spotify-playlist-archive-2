@@ -29109,6 +29109,24 @@
     },
     {
       "album": {
+        "name": "Tu Palabra",
+        "url": "https://open.spotify.com/album/404H6EidSC1PmqDFfgr8Q8"
+      },
+      "artists": [
+        {
+          "name": "Pulso Divino",
+          "url": "https://open.spotify.com/artist/2XK1i9oymQY7yT0CsaVALI"
+        }
+      ],
+      "date_added": "2026-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187599,
+      "name": "Gigantes Caer\u00e1n",
+      "url": "https://open.spotify.com/track/1WOiMDM8mM1kOUte8Z4MYy"
+    },
+    {
+      "album": {
         "name": "Gin tonic sulla neve",
         "url": "https://open.spotify.com/album/4YwMJVkYTmDr9EPjr3v6u3"
       },
@@ -35834,6 +35852,24 @@
       "duration_ms": 131760,
       "name": "Into the Open Sky (another)",
       "url": "https://open.spotify.com/track/5gvks6u83FJHu9vTGK1vqV"
+    },
+    {
+      "album": {
+        "name": "Into The Thunder",
+        "url": "https://open.spotify.com/album/7oVoODSFUyTmO1AfkP5kdG"
+      },
+      "artists": [
+        {
+          "name": "Evil Creek",
+          "url": "https://open.spotify.com/artist/2I4085hTPFNAyGRFvgo1LM"
+        }
+      ],
+      "date_added": "2026-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167833,
+      "name": "Into The Thunder",
+      "url": "https://open.spotify.com/track/2AMRFkNYxJ1sqwwrV83d8Z"
     },
     {
       "album": {

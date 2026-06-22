@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tiranos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 10436,
+  "num_followers": 10441,
   "original_name": "This Is Los Tiranos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAABweXp5h0zByKyIlKOzMd4i",
+  "snapshot_id": "ajXYAAAAAAABAVFAiK7JrF7SRBqPL14n",
   "tracks": [
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voy A Pedirte Perd\u00f3n",
-        "url": "https://open.spotify.com/album/3aedPb0XrY7mikfdPjmCy6"
+        "name": "Pa Que Son Pasiones",
+        "url": "https://open.spotify.com/album/01yx9SBrqS2cmbXdGZ52Ze"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 161026,
-      "name": "Cajita De Cart\u00f3n",
-      "url": "https://open.spotify.com/track/758r1Fu3SHRePFwLA367Rf"
+      "duration_ms": 192888,
+      "name": "Sentencia",
+      "url": "https://open.spotify.com/track/0A68MP0eyN498lCVN1xi1s"
     },
     {
       "added_at": null,
@@ -415,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Que Son Pasiones",
-        "url": "https://open.spotify.com/album/01yx9SBrqS2cmbXdGZ52Ze"
+        "name": "Voy A Pedirte Perd\u00f3n",
+        "url": "https://open.spotify.com/album/3aedPb0XrY7mikfdPjmCy6"
       },
       "artists": [
         {
@@ -424,25 +424,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 192888,
-      "name": "Sentencia",
-      "url": "https://open.spotify.com/track/0A68MP0eyN498lCVN1xi1s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De la Tierra al Cielo VII",
-        "url": "https://open.spotify.com/album/3gEDDLBunavFzx7qenQPuh"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 176666,
-      "name": "Hay una Persona en Este Mundo",
-      "url": "https://open.spotify.com/track/73KDGz61qi7byZhoi0mX5p"
+      "duration_ms": 161026,
+      "name": "Cajita De Cart\u00f3n",
+      "url": "https://open.spotify.com/track/758r1Fu3SHRePFwLA367Rf"
     },
     {
       "added_at": null,
@@ -459,6 +443,22 @@
       "duration_ms": 197825,
       "name": "Matame a Besos",
       "url": "https://open.spotify.com/track/0om9GXGwk5d7VNyp0nOSuW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De la Tierra al Cielo VII",
+        "url": "https://open.spotify.com/album/3gEDDLBunavFzx7qenQPuh"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "Hay una Persona en Este Mundo",
+      "url": "https://open.spotify.com/track/73KDGz61qi7byZhoi0mX5p"
     },
     {
       "added_at": null,
@@ -631,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Sangre Nortena",
-        "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
+        "name": "De la Tierra al Cielo VII",
+        "url": "https://open.spotify.com/album/3gEDDLBunavFzx7qenQPuh"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 211017,
-      "name": "Esta Tristeza Mia",
-      "url": "https://open.spotify.com/track/4EdxO6asjtoqsOkslDs3Fr"
+      "duration_ms": 191164,
+      "name": "Amigo de la Luna",
+      "url": "https://open.spotify.com/track/5FqhnthUoK7zljqUpO1Cbi"
     },
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De la Tierra al Cielo VII",
-        "url": "https://open.spotify.com/album/3gEDDLBunavFzx7qenQPuh"
+        "name": "Con Sangre Nortena",
+        "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 191164,
-      "name": "Amigo de la Luna",
-      "url": "https://open.spotify.com/track/5FqhnthUoK7zljqUpO1Cbi"
+      "duration_ms": 211017,
+      "name": "Esta Tristeza Mia",
+      "url": "https://open.spotify.com/track/4EdxO6asjtoqsOkslDs3Fr"
     },
     {
       "added_at": null,
@@ -767,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Siempre",
-        "url": "https://open.spotify.com/album/6DrYJjF6s1khX4qntiY3ns"
+        "name": "Tesoros de Coleccion, Vol. 2",
+        "url": "https://open.spotify.com/album/1KxMT0hlHsrGLSO1gvVFYD"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 189546,
-      "name": "De Cantina En Cantina",
-      "url": "https://open.spotify.com/track/3roxfXpMk4yQqwoJFMDWCG"
+      "duration_ms": 190720,
+      "name": "Amor de Ayer",
+      "url": "https://open.spotify.com/track/0owdTmklmyKpjCJwoIDD0l"
     },
     {
       "added_at": null,
@@ -799,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Por Siempre",
+        "url": "https://open.spotify.com/album/6DrYJjF6s1khX4qntiY3ns"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 189546,
+      "name": "De Cantina En Cantina",
+      "url": "https://open.spotify.com/track/3roxfXpMk4yQqwoJFMDWCG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Voy A Pedirte Perd\u00f3n",
         "url": "https://open.spotify.com/album/3aedPb0XrY7mikfdPjmCy6"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 208480,
       "name": "Vamos A Olvidarnos De Ella",
       "url": "https://open.spotify.com/track/3epFeTILO3xEEfk7lSrsVe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tesoros de Coleccion, Vol. 2",
-        "url": "https://open.spotify.com/album/1KxMT0hlHsrGLSO1gvVFYD"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 190720,
-      "name": "Amor de Ayer",
-      "url": "https://open.spotify.com/track/0owdTmklmyKpjCJwoIDD0l"
     }
   ],
   "unique_name": "This Is Los Tiranos Del Norte",

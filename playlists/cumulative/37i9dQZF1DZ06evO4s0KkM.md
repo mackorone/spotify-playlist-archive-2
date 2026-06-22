@@ -4,7 +4,7 @@
 
 > This is Dropkick Murphys\. The essential tracks, all in one playlist.
 
-166 songs - 8 hr 59 min
+167 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Citizen I.C.E.](https://open.spotify.com/track/1Gjk9xVoLX2c5xFSBow3ut) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx), [Haywire 617](https://open.spotify.com/artist/5lU30M9td0FUDVSTCucwnu) | [Citizen I.C.E.](https://open.spotify.com/album/0a8UXVBxYkdx4KmYkjMamt) | 1:23 | 2026-02-06 | 2026-04-17 |
 | [Citizen I.C.E.](https://open.spotify.com/track/6hzZwWO7asPrugUO0dkdto) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx), [Haywire 617](https://open.spotify.com/artist/5lU30M9td0FUDVSTCucwnu) | [New England Forever](https://open.spotify.com/album/1QLd43rPsA1fPd0iDkbiJN) | 1:23 | 2026-04-17 |  |
 | [Cold Like This](https://open.spotify.com/track/2MKYwlWp7MkBnpcHHa00p3) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd), [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Cold Like This](https://open.spotify.com/album/4YRRq7Wef0x4HnDcCd15ah) | 2:36 | 2025-01-19 | 2025-07-06 |
-| [Cold Like This](https://open.spotify.com/track/7zbrhy02dy02pZdocV5WUq) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd), [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Dead Anthems](https://open.spotify.com/album/0nAORS2KFCgUx4VhpeuZUY) | 2:36 | 2025-07-20 |  |
+| [Cold Like This](https://open.spotify.com/track/7zbrhy02dy02pZdocV5WUq) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd), [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Dead Anthems](https://open.spotify.com/album/0nAORS2KFCgUx4VhpeuZUY) | 2:36 | 2025-07-20 | 2026-06-22 |
 | [Dig A Hole \(feat\. Woody Guthrie\)](https://open.spotify.com/track/6ExuAoRylhOacHhNp9aoKa) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx), [Woody Guthrie](https://open.spotify.com/artist/4rAgFKtlTr66ic18YZZyF1) | [This Machine Still Kills Fascists \(Expanded Edition\)](https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB) | 3:09 | 2023-02-04 | 2023-02-07 |
 | [Do Or Die](https://open.spotify.com/track/4zuEua2fQF5q6ev0oWt5XW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Do Or Die](https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk) | 1:50 | 2022-09-16 | 2023-05-16 |
 | [Dropped on My Head \- Bonus Track](https://open.spotify.com/track/0RrgoZaUjIpqhbJ7k2TNfD) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [For The People \(Expanded Edition\)](https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM) | 2:55 | 2025-11-10 | 2025-11-22 |
@@ -130,6 +130,7 @@
 | [The Auld Triangle](https://open.spotify.com/track/0waMJXxhuGuyTt8epERx7m) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 2:41 | 2022-09-16 |  |
 | [The Big Man](https://open.spotify.com/track/5SZUmkADxNYj3E8Gj9WoZC) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [For The People](https://open.spotify.com/album/2M3u2dW8uCvgzAIAqjPop5) | 2:53 | 2025-07-06 | 2025-11-22 |
 | [The Big Man](https://open.spotify.com/track/5hIsGzPEQzRHFvqdwtSAaS) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [For The People \(Expanded Edition\)](https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM) | 2:53 | 2025-11-22 |  |
+| [The Body of an American](https://open.spotify.com/track/0ssRHJddqgoCbkzUIp7wUx) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx), [Shane MacGowan](https://open.spotify.com/artist/68lZHeroea1NAuEDsfBUjv) | [The Body of an American](https://open.spotify.com/album/0iaPQBQimR1fOSV9RajVnK) | 4:18 | 2026-06-22 |  |
 | [The Boys Are Back](https://open.spotify.com/track/1tgjzmJnlRS6OGm4eBnvZ9) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [SIGNED and SEALED in BLOOD](https://open.spotify.com/album/26FegJRCntpliel4dauJIG) | 3:19 | 2026-03-09 | 2026-04-24 |
 | [The Boys Are Back](https://open.spotify.com/track/5ucsDWLvtuXORPi2QcZO39) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Signed and Sealed In Blood](https://open.spotify.com/album/1wI9Oqt2gbv0wM24NssHcc) | 3:19 | 2022-09-16 |  |
 | [The Boys Are Back](https://open.spotify.com/track/721vbd9Kof1A670dKDZyZh) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [SIGNED and SEALED in BLOOD](https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ) | 3:19 | 2023-01-22 | 2025-11-10 |

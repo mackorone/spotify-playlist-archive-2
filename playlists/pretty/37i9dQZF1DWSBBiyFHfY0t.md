@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBBiyFHfY0t.md) - [plain]
 
 > For frolicking joyously, freely and theatrically in this world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,315 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,325 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

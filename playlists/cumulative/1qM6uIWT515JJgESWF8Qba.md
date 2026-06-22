@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-264 songs - 16 hr 32 min
+265 songs - 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [Still Here](https://open.spotify.com/track/5DaMgetKGZ1PFvLUcv9NiY) | [Gizem Demirhan](https://open.spotify.com/artist/1E0M9BtLjPMUurgqUqpi7o) | [Still Here](https://open.spotify.com/album/6k7m9nMvk7dJVqW00aoWaz) | 3:48 | 2025-12-13 | 2026-01-21 |
 | [Stockholm Syndrome](https://open.spotify.com/track/7AnnurFLjLNAhOqyI5KSHR) | [Arnold Alaniz](https://open.spotify.com/artist/0Ma0R8ZNejeGKEI4YMnVll) | [Stockholm Syndrome](https://open.spotify.com/album/4LFyHeD7q5FruRYXWW0WuB) | 3:17 | 2026-01-03 | 2026-01-21 |
 | [Sugar Husk](https://open.spotify.com/track/5z1wdXc7CubJyvWkSqT8g6) | [Novelistme](https://open.spotify.com/artist/1x8JnJjZPlFO4UciBRXMQb) | [Sugar Husk](https://open.spotify.com/album/6FlVAZQscsAXMcXhtrNETh) | 2:13 | 2025-10-31 | 2025-12-28 |
+| [Summer Ends In June](https://open.spotify.com/track/0sJKhlWsiYhYDR8KEcC7Zn) | [Bad Valentines](https://open.spotify.com/artist/3xVdUhudpYUp6NH3Pim0sd) | [Memory Tattoos](https://open.spotify.com/album/225MfCZIbTNTA5m9tOollK) | 3:50 | 2026-06-21 |  |
 | [Summertime \(2025\)](https://open.spotify.com/track/5KnewAmxxneui5ZujMZkQV) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Songs For The Eternity.](https://open.spotify.com/album/08sRFB6te5DGLlvBj1IYdY) | 4:33 | 2025-12-31 | 2026-01-21 |
 | [Sunday Lazy Afternoon](https://open.spotify.com/track/2o9V82qmpXdcykHrfR168t) | [Johnny & The G\-Men](https://open.spotify.com/artist/6rdvPNdq54f4TVhXsabGV6) | [Sunday Lazy Afternoon](https://open.spotify.com/album/3LAwyyI6spkmdzMstWDXaB) | 4:52 | 2025-12-25 | 2026-01-21 |
 | [Symptoms](https://open.spotify.com/track/5hc8GGmxu3BgKXSniNkrSP) | [Ms\. Black](https://open.spotify.com/artist/1mBBTF4wjXjlIDbXN77rxi) | [Symptoms](https://open.spotify.com/album/3irfLhqD8GeOS4rExK08EI) | 2:51 | 2025-10-28 | 2025-12-28 |

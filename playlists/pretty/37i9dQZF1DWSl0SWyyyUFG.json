@@ -1,6 +1,6 @@
 {
   "description": "Recordando a los \u00eddolos de la m\u00fasica de banda. COSME TADEO en portada.",
-  "num_followers": 435339,
+  "num_followers": 435473,
   "original_name": "Banda: Viejitas Pero Bonitas",
   "owner": {
     "name": "Spotify",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Africanos Al Ataque",
-        "url": "https://open.spotify.com/album/05W649wdes7jKusqma34Gn"
-      },
-      "artists": [
-        {
-          "name": "Banda Torera Del Valle",
-          "url": "https://open.spotify.com/artist/7hiqN2yRNPbpMIZ2giCZX5"
-        }
-      ],
-      "duration_ms": 205635,
-      "name": "Ll\u00e9vame Rosas Y Olvida",
-      "url": "https://open.spotify.com/track/74Ug67cm77x3i28vjBOGqM"
-    },
-    {
-      "added_at": "2026-02-09 16:44:15",
-      "album": {
         "name": "Debajo De Los Laureles",
         "url": "https://open.spotify.com/album/3B80b6IGp3cnt5r190PwvZ"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 151742,
       "name": "Debajo De Los Laureles",
       "url": "https://open.spotify.com/track/45TkoeSmoScX2TYzLWnSSK"
+    },
+    {
+      "added_at": "2026-02-09 16:44:15",
+      "album": {
+        "name": "Africanos Al Ataque",
+        "url": "https://open.spotify.com/album/05W649wdes7jKusqma34Gn"
+      },
+      "artists": [
+        {
+          "name": "Banda Torera Del Valle",
+          "url": "https://open.spotify.com/artist/7hiqN2yRNPbpMIZ2giCZX5"
+        }
+      ],
+      "duration_ms": 205635,
+      "name": "Ll\u00e9vame Rosas Y Olvida",
+      "url": "https://open.spotify.com/track/74Ug67cm77x3i28vjBOGqM"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Bandido De Amores",
-        "url": "https://open.spotify.com/album/3aKOLaYOnr8JpjuF73WDAu"
+        "name": "A Bailar De Caballito",
+        "url": "https://open.spotify.com/album/2rXbAorimO8C06RkqS2oq5"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 156827,
-      "name": "Viejo Joven El",
-      "url": "https://open.spotify.com/track/18TFdHZoNVXHE5M75xGVc7"
+      "duration_ms": 241382,
+      "name": "No Bailes De Caballito",
+      "url": "https://open.spotify.com/track/1yOLrH7nF0R7MWDuuva6va"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Grupo El Mexicano",
-        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
+        "name": "Bandido De Amores",
+        "url": "https://open.spotify.com/album/3aKOLaYOnr8JpjuF73WDAu"
       },
       "artists": [
         {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 212746,
-      "name": "Ramito De Violetas",
-      "url": "https://open.spotify.com/track/5SiAusJizzxkKXy0oowWyK"
+      "duration_ms": 156827,
+      "name": "Viejo Joven El",
+      "url": "https://open.spotify.com/track/18TFdHZoNVXHE5M75xGVc7"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Los 20 para Coleccionar",
-        "url": "https://open.spotify.com/album/61L7qffqpjWVCTbxjFS9QF"
+        "name": "Grupo El Mexicano",
+        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
       },
       "artists": [
         {
-          "name": "Banda El Pueblito",
-          "url": "https://open.spotify.com/artist/15myS3NDS2iwVo2gyCl2rm"
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 157520,
-      "name": "El Papalotito",
-      "url": "https://open.spotify.com/track/39TNrfFgNsQlSaVkMCW3Uv"
+      "duration_ms": 212746,
+      "name": "Ramito De Violetas",
+      "url": "https://open.spotify.com/track/5SiAusJizzxkKXy0oowWyK"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Grupo El Mexicano",
-        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
+        "name": "Los 20 para Coleccionar",
+        "url": "https://open.spotify.com/album/61L7qffqpjWVCTbxjFS9QF"
       },
       "artists": [
         {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+          "name": "Banda El Pueblito",
+          "url": "https://open.spotify.com/artist/15myS3NDS2iwVo2gyCl2rm"
         }
       ],
-      "duration_ms": 208689,
-      "name": "La Bota",
-      "url": "https://open.spotify.com/track/3kUmCQhA8aFuKPYcZYNJ0X"
+      "duration_ms": 157520,
+      "name": "El Papalotito",
+      "url": "https://open.spotify.com/track/39TNrfFgNsQlSaVkMCW3Uv"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1771,18 +1771,18 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/0bSO97EWemxZI9dyzq5IS3"
+        "name": "Grupo El Mexicano",
+        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
       },
       "artists": [
         {
-          "name": "Banda Pelillos",
-          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 252213,
-      "name": "MI Vida Sin Ti",
-      "url": "https://open.spotify.com/track/7r7tEGlRGeeGsprdBIfBru"
+      "duration_ms": 208689,
+      "name": "La Bota",
+      "url": "https://open.spotify.com/track/3kUmCQhA8aFuKPYcZYNJ0X"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1803,18 +1803,18 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "A Bailar De Caballito",
-        "url": "https://open.spotify.com/album/2rXbAorimO8C06RkqS2oq5"
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/0bSO97EWemxZI9dyzq5IS3"
       },
       "artists": [
         {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+          "name": "Banda Pelillos",
+          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
         }
       ],
-      "duration_ms": 241382,
-      "name": "No Bailes De Caballito",
-      "url": "https://open.spotify.com/track/1yOLrH7nF0R7MWDuuva6va"
+      "duration_ms": 252213,
+      "name": "MI Vida Sin Ti",
+      "url": "https://open.spotify.com/track/7r7tEGlRGeeGsprdBIfBru"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1851,6 +1851,22 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
+        "name": "Grupo El Mexicano",
+        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 218267,
+      "name": "Feliz, Feliz",
+      "url": "https://open.spotify.com/track/6hFek9A3Xz4g1vgSYJBnzV"
+    },
+    {
+      "added_at": "2026-02-09 16:44:15",
+      "album": {
         "name": "Prov\u00f3came",
         "url": "https://open.spotify.com/album/2hKjSZ3fbwKYWpYr5xTuTN"
       },
@@ -1879,22 +1895,6 @@
       "duration_ms": 154853,
       "name": "El Alacr\u00e1n",
       "url": "https://open.spotify.com/track/11ZyiDSiT3aQCKE13adq2r"
-    },
-    {
-      "added_at": "2026-02-09 16:44:15",
-      "album": {
-        "name": "Grupo El Mexicano",
-        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 218267,
-      "name": "Feliz, Feliz",
-      "url": "https://open.spotify.com/track/6hFek9A3Xz4g1vgSYJBnzV"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "La Estrella De Los Bailes",
-        "url": "https://open.spotify.com/album/0KtFZRY2V1N4slEqBws2iH"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 210721,
-      "name": "Si Tu No Estas",
-      "url": "https://open.spotify.com/track/0nzquVPzNamazTbGY8pNvW"
-    },
-    {
-      "added_at": "2026-02-09 16:44:15",
-      "album": {
         "name": "Bandido De Amores",
         "url": "https://open.spotify.com/album/3aKOLaYOnr8JpjuF73WDAu"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 179887,
       "name": "Sangoloteadito",
       "url": "https://open.spotify.com/track/3Eql8puvczeQC4WWgcDv7R"
+    },
+    {
+      "added_at": "2026-02-09 16:44:15",
+      "album": {
+        "name": "La Estrella De Los Bailes",
+        "url": "https://open.spotify.com/album/0KtFZRY2V1N4slEqBws2iH"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 210721,
+      "name": "Si Tu No Estas",
+      "url": "https://open.spotify.com/track/0nzquVPzNamazTbGY8pNvW"
     },
     {
       "added_at": "2026-02-09 16:44:15",

@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 20498,
+  "num_followers": 20495,
   "original_name": "Fryderyk 2026",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "ZA DU\u017bO GITAR",
-        "url": "https://open.spotify.com/album/4pKTXtAB7zgaGs6HaGiZy5"
-      },
-      "artists": [
-        {
-          "name": "Jacko Brango",
-          "url": "https://open.spotify.com/artist/4cbzjCAZp1uf5Ctc7hqToV"
-        }
-      ],
-      "duration_ms": 207232,
-      "name": "ZE SPRITE'EM",
-      "url": "https://open.spotify.com/track/53c2HIUt4lNDN1W6tVrKBu"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "Tak m\u0142odo si\u0119 nie spotkamy",
         "url": "https://open.spotify.com/album/57tNR0XV962YDMH8ZDXStm"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 377680,
       "name": "Dni, kt\u00f3re przed nami",
       "url": "https://open.spotify.com/track/3qmIGvh3yQHnBzNaG2Wb9M"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "ZA DU\u017bO GITAR",
+        "url": "https://open.spotify.com/album/4pKTXtAB7zgaGs6HaGiZy5"
+      },
+      "artists": [
+        {
+          "name": "Jacko Brango",
+          "url": "https://open.spotify.com/artist/4cbzjCAZp1uf5Ctc7hqToV"
+        }
+      ],
+      "duration_ms": 207232,
+      "name": "ZE SPRITE'EM",
+      "url": "https://open.spotify.com/track/53c2HIUt4lNDN1W6tVrKBu"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -807,6 +807,22 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "Popi\u00f3\u0142",
+        "url": "https://open.spotify.com/album/73hQElTnbuhB7HT0w9gIN3"
+      },
+      "artists": [
+        {
+          "name": "B\u0142a\u017cej Kr\u00f3l",
+          "url": "https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4"
+        }
+      ],
+      "duration_ms": 281663,
+      "name": "Moja bestia",
+      "url": "https://open.spotify.com/track/0ZbwqrkZHD8NAG74mXJ7PL"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "Portraits",
         "url": "https://open.spotify.com/album/6zlXNLJmQVAJTScGy68ZHN"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 287346,
       "name": "Canon",
       "url": "https://open.spotify.com/track/0PMpVJKmad8FKWtbdeuzDt"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "Popi\u00f3\u0142",
-        "url": "https://open.spotify.com/album/73hQElTnbuhB7HT0w9gIN3"
-      },
-      "artists": [
-        {
-          "name": "B\u0142a\u017cej Kr\u00f3l",
-          "url": "https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4"
-        }
-      ],
-      "duration_ms": 281663,
-      "name": "Moja bestia",
-      "url": "https://open.spotify.com/track/0ZbwqrkZHD8NAG74mXJ7PL"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/38AMF23w6heUQ2Yh617s2V"
-      },
-      "artists": [
-        {
-          "name": "Nene Heroine",
-          "url": "https://open.spotify.com/artist/682FUdadxb0BbBEJosAiSR"
-        }
-      ],
-      "duration_ms": 444560,
-      "name": "Tokyo",
-      "url": "https://open.spotify.com/track/1Ruq8JmcNn0Us3jnZNaS9T"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "Przed Zmierzchem",
         "url": "https://open.spotify.com/album/1JfOqy8sGzn71x6WAeitCD"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 159803,
       "name": "TEMPO",
       "url": "https://open.spotify.com/track/2OsEoEDUiIskiYAWUl3YW8"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/38AMF23w6heUQ2Yh617s2V"
+      },
+      "artists": [
+        {
+          "name": "Nene Heroine",
+          "url": "https://open.spotify.com/artist/682FUdadxb0BbBEJosAiSR"
+        }
+      ],
+      "duration_ms": 444560,
+      "name": "Tokyo",
+      "url": "https://open.spotify.com/track/1Ruq8JmcNn0Us3jnZNaS9T"
     },
     {
       "added_at": "2026-05-26 09:05:26",

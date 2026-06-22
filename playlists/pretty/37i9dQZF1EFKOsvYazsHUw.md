@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4uT4afwoFqf5HupqMjErXX">Chiiild</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 570 likes - 141 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 569 likes - 141 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 | 140 | [Aquatic Reflections](https://open.spotify.com/track/5qnES870WffOrO2s0iG8SM) | [Yonatan Ayal](https://open.spotify.com/artist/6p79syafiayehoS7optud2) | [INNER\-SENSE](https://open.spotify.com/album/7IwpxeS1NtKpCbkKKck9BX) | 3:03 |
 | 141 | [Murder](https://open.spotify.com/track/7Ev7Bb8tPrQFR2MvQzrfM9) | [Thes](https://open.spotify.com/artist/7nnzlSxfrZkifdVvMhKyGp) | [Young Giant](https://open.spotify.com/album/4j6RpYZk9y67ggu1gWO8QL) | 4:35 |
 
-Snapshot ID: `AcUwwgAAAAAqs/2d0E/6Lic+uHn5OldR`
+Snapshot ID: `AcU2WAAAAABFrqFz52MKvnJOHV/iPWkr`

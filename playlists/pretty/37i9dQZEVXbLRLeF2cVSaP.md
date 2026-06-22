@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,548 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,551 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [агентство насилия™](https://open.spotify.com/track/6W3Psuj5yAWF2EQ4xRv6Ut) | [gotlibgotlibgotlib](https://open.spotify.com/artist/60BuDy9NuubibSQWzvE3w1), [Sabu](https://open.spotify.com/artist/7sg61WJ1RMuH3Yxtysrxny) | [агентство насилия™](https://open.spotify.com/album/4X9phIzro92X1TOjmQd7QE) | 2:15 |
 | 50 | [Jerk](https://open.spotify.com/track/065bY5WrLvI3NN9VCK0QLe) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful](https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4) | 2:15 |
 
-Snapshot ID: `McoQMAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `McthsAAAAAAAAAAAAAAAAAAAAAAAAGVu`

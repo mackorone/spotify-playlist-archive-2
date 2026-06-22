@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs sons du mois s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify.",
-  "num_followers": 402169,
+  "num_followers": 402149,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : Mai 2026",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2026-05-31 22:00:06",
       "album": {
-        "name": "Easy EP",
-        "url": "https://open.spotify.com/album/0QkPbnl52Cdx2cj8X3BhsH"
-      },
-      "artists": [
-        {
-          "name": "Smerz",
-          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
-        }
-      ],
-      "duration_ms": 154562,
-      "name": "lts here",
-      "url": "https://open.spotify.com/track/1KpkbuhBrbk3e9hO8xFWjL"
-    },
-    {
-      "added_at": "2026-05-31 22:00:06",
-      "album": {
         "name": "Map Of Her Shadow",
         "url": "https://open.spotify.com/album/7H56uy7txgy7mOSj9VJWkW"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 181593,
       "name": "FOMO",
       "url": "https://open.spotify.com/track/4Gaw3deCZcLHkai4OIjY4w"
+    },
+    {
+      "added_at": "2026-05-31 22:00:06",
+      "album": {
+        "name": "Easy EP",
+        "url": "https://open.spotify.com/album/0QkPbnl52Cdx2cj8X3BhsH"
+      },
+      "artists": [
+        {
+          "name": "Smerz",
+          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
+        }
+      ],
+      "duration_ms": 154562,
+      "name": "lts here",
+      "url": "https://open.spotify.com/track/1KpkbuhBrbk3e9hO8xFWjL"
     },
     {
       "added_at": "2026-05-31 22:00:06",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-05-31 22:00:06",
       "album": {
-        "name": "Replay",
-        "url": "https://open.spotify.com/album/3g1ttBs979kIuCcQywhOc0"
-      },
-      "artists": [
-        {
-          "name": "Ja\u00efa Rose",
-          "url": "https://open.spotify.com/artist/3uwTDwvi4L9Zo18M5oiZ3Y"
-        }
-      ],
-      "duration_ms": 176500,
-      "name": "Replay",
-      "url": "https://open.spotify.com/track/1EUmrCBpRI6RPNYFcziSU5"
-    },
-    {
-      "added_at": "2026-05-31 22:00:06",
-      "album": {
         "name": "Chroniques terrestres, Vol. 2",
         "url": "https://open.spotify.com/album/0KIS7MHEcUoYxmQFzsPN3T"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 203053,
       "name": "Hula Hoop (feat. Tuerie)",
       "url": "https://open.spotify.com/track/6C5SCWr6dl6XrPbMqweqee"
+    },
+    {
+      "added_at": "2026-05-31 22:00:06",
+      "album": {
+        "name": "Replay",
+        "url": "https://open.spotify.com/album/3g1ttBs979kIuCcQywhOc0"
+      },
+      "artists": [
+        {
+          "name": "Ja\u00efa Rose",
+          "url": "https://open.spotify.com/artist/3uwTDwvi4L9Zo18M5oiZ3Y"
+        }
+      ],
+      "duration_ms": 176500,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/1EUmrCBpRI6RPNYFcziSU5"
     },
     {
       "added_at": "2026-05-31 22:00:06",

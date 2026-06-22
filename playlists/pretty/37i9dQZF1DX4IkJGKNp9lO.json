@@ -1,6 +1,6 @@
 {
   "description": "Svenska punkklassiker och hardcore.",
-  "num_followers": 35660,
+  "num_followers": 35657,
   "original_name": "Svensk Punk",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
+        "name": "Sid & Nancy",
+        "url": "https://open.spotify.com/album/1vTPxtwE62Zpjl4A23x4Fa"
+      },
+      "artists": [
+        {
+          "name": "Mimikry",
+          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "Sid & Nancy",
+      "url": "https://open.spotify.com/track/7feyAI2f6JtCKmucVJOgWB"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
         "name": "F\u00f6rlorarna",
         "url": "https://open.spotify.com/album/3KeQBgt24FXOqtzEfpRJxT"
       },
@@ -723,26 +739,6 @@
       "duration_ms": 191007,
       "name": "F\u00f6rlorarna",
       "url": "https://open.spotify.com/track/6XVXlChzCSbdpMbkPIKFMx"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "Alderland (NO)",
-        "url": "https://open.spotify.com/album/6szx99wRMChXhT3p6arm2L"
-      },
-      "artists": [
-        {
-          "name": "Mimikry",
-          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
-        },
-        {
-          "name": "Renate",
-          "url": "https://open.spotify.com/artist/2Y8wXdNaw1DlGZvbwGgh5n"
-        }
-      ],
-      "duration_ms": 208202,
-      "name": "Alderland (NO)",
-      "url": "https://open.spotify.com/track/1m7AguIMU7bffCcc8j17sK"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -2107,18 +2103,22 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Sid & Nancy",
-        "url": "https://open.spotify.com/album/1vTPxtwE62Zpjl4A23x4Fa"
+        "name": "Alderland (NO)",
+        "url": "https://open.spotify.com/album/6szx99wRMChXhT3p6arm2L"
       },
       "artists": [
         {
           "name": "Mimikry",
           "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
+        },
+        {
+          "name": "Renate",
+          "url": "https://open.spotify.com/artist/2Y8wXdNaw1DlGZvbwGgh5n"
         }
       ],
-      "duration_ms": 156800,
-      "name": "Sid & Nancy",
-      "url": "https://open.spotify.com/track/7feyAI2f6JtCKmucVJOgWB"
+      "duration_ms": 208202,
+      "name": "Alderland (NO)",
+      "url": "https://open.spotify.com/track/1m7AguIMU7bffCcc8j17sK"
     },
     {
       "added_at": "2024-08-29 22:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "Aus der Schweiz f\u00fcr dich \u2013 musique suisse \u2013 musica svizzera \ud83c\udde8\ud83c\udded\nCover: Eileen Alister",
-  "num_followers": 37693,
+  "num_followers": 37692,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2026-06-18 22:00:53",
       "album": {
+        "name": "Full 180",
+        "url": "https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "duration_ms": 216249,
+      "name": "Full 180",
+      "url": "https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG"
+    },
+    {
+      "added_at": "2026-06-18 22:00:53",
+      "album": {
         "name": "Jamais \u00c9t\u00e9 (Cool)",
         "url": "https://open.spotify.com/album/0dpWyeA0DSO4CgMjSGspra"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 203106,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/59UM9sARVWyG9GLXOJIzoX"
-    },
-    {
-      "added_at": "2026-06-18 22:00:53",
-      "album": {
-        "name": "Full 180",
-        "url": "https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER"
-      },
-      "artists": [
-        {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
-        }
-      ],
-      "duration_ms": 216249,
-      "name": "Full 180",
-      "url": "https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG"
     },
     {
       "added_at": "2026-06-18 22:00:53",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-06-18 22:00:53",
       "album": {
-        "name": "Where Do Lost Dreams Go?",
-        "url": "https://open.spotify.com/album/1XcUjv4aM5b6nSt2l2rRW7"
-      },
-      "artists": [
-        {
-          "name": "Solong",
-          "url": "https://open.spotify.com/artist/5iXNhXMhenY5CglSJGTd6v"
-        }
-      ],
-      "duration_ms": 329898,
-      "name": "Where Do Lost Dreams Go?",
-      "url": "https://open.spotify.com/track/5DFD6xh3cbY2NNTh5L6zY8"
-    },
-    {
-      "added_at": "2026-06-18 22:00:53",
-      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/7nK6vEIK0sdUSuEA2iD57w"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 226334,
       "name": "Softly Speaking",
       "url": "https://open.spotify.com/track/7deNy580xvtMQzvzXhlBwF"
+    },
+    {
+      "added_at": "2026-06-18 22:00:53",
+      "album": {
+        "name": "Where Do Lost Dreams Go?",
+        "url": "https://open.spotify.com/album/1XcUjv4aM5b6nSt2l2rRW7"
+      },
+      "artists": [
+        {
+          "name": "Solong",
+          "url": "https://open.spotify.com/artist/5iXNhXMhenY5CglSJGTd6v"
+        }
+      ],
+      "duration_ms": 329898,
+      "name": "Where Do Lost Dreams Go?",
+      "url": "https://open.spotify.com/track/5DFD6xh3cbY2NNTh5L6zY8"
     },
     {
       "added_at": "2026-06-18 22:00:53",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-06-18 22:00:53",
       "album": {
-        "name": "There For You",
-        "url": "https://open.spotify.com/album/1jPj2x2a2UJCRuTR95u3Vv"
-      },
-      "artists": [
-        {
-          "name": "Linda Elys",
-          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
-        }
-      ],
-      "duration_ms": 205755,
-      "name": "There For You",
-      "url": "https://open.spotify.com/track/1gKgTg56snx9gfwyuJFogz"
-    },
-    {
-      "added_at": "2026-06-18 22:00:53",
-      "album": {
         "name": "Young Bones",
         "url": "https://open.spotify.com/album/6T6rIiwTaM8OixBIhHfnMW"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 184880,
       "name": "Hey You",
       "url": "https://open.spotify.com/track/1o3OICvacQhv1wMB9X71fe"
+    },
+    {
+      "added_at": "2026-06-18 22:00:53",
+      "album": {
+        "name": "There For You",
+        "url": "https://open.spotify.com/album/1jPj2x2a2UJCRuTR95u3Vv"
+      },
+      "artists": [
+        {
+          "name": "Linda Elys",
+          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
+        }
+      ],
+      "duration_ms": 205755,
+      "name": "There For You",
+      "url": "https://open.spotify.com/track/1gKgTg56snx9gfwyuJFogz"
     },
     {
       "added_at": "2026-06-18 22:00:53",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-06-18 22:00:53",
       "album": {
-        "name": "I LIKE YOU",
-        "url": "https://open.spotify.com/album/4KCm2VNnGwzEozViaX6jQB"
-      },
-      "artists": [
-        {
-          "name": "Melicious",
-          "url": "https://open.spotify.com/artist/62uR1xRDa5dv0KmWMgEQvH"
-        }
-      ],
-      "duration_ms": 156387,
-      "name": "I LIKE YOU",
-      "url": "https://open.spotify.com/track/2If9dziJFjIBDkkdKGcZoT"
-    },
-    {
-      "added_at": "2026-06-18 22:00:53",
-      "album": {
         "name": "Valse \u00e0 Demi",
         "url": "https://open.spotify.com/album/5imqbp4UGgNwRUftlTjUIR"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 199983,
       "name": "Take me as i am",
       "url": "https://open.spotify.com/track/2XQW9PF9na8qextnDmjg9K"
+    },
+    {
+      "added_at": "2026-06-18 22:00:53",
+      "album": {
+        "name": "I LIKE YOU",
+        "url": "https://open.spotify.com/album/4KCm2VNnGwzEozViaX6jQB"
+      },
+      "artists": [
+        {
+          "name": "Melicious",
+          "url": "https://open.spotify.com/artist/62uR1xRDa5dv0KmWMgEQvH"
+        }
+      ],
+      "duration_ms": 156387,
+      "name": "I LIKE YOU",
+      "url": "https://open.spotify.com/track/2If9dziJFjIBDkkdKGcZoT"
     },
     {
       "added_at": "2026-06-18 22:00:53",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2026-06-18 22:00:53",
       "album": {
+        "name": "January",
+        "url": "https://open.spotify.com/album/5CuTx7FzFZa3HvNHi6wlC2"
+      },
+      "artists": [
+        {
+          "name": "Pablo Nouvelle",
+          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
+        }
+      ],
+      "duration_ms": 136767,
+      "name": "You Hurt Me",
+      "url": "https://open.spotify.com/track/5DhoEhRFe9zk65yJwDQ71D"
+    },
+    {
+      "added_at": "2026-06-18 22:00:53",
+      "album": {
         "name": "Roommates",
         "url": "https://open.spotify.com/album/5Fl6WfcI7nBW7XPnUcEiLk"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 151250,
       "name": "Roommates",
       "url": "https://open.spotify.com/track/48tRJaSTyD9JJ1qcybPZiq"
-    },
-    {
-      "added_at": "2026-06-18 22:00:53",
-      "album": {
-        "name": "January",
-        "url": "https://open.spotify.com/album/5CuTx7FzFZa3HvNHi6wlC2"
-      },
-      "artists": [
-        {
-          "name": "Pablo Nouvelle",
-          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
-        }
-      ],
-      "duration_ms": 136767,
-      "name": "You Hurt Me",
-      "url": "https://open.spotify.com/track/5DhoEhRFe9zk65yJwDQ71D"
     },
     {
       "added_at": "2026-06-18 22:00:53",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-06-18 22:00:53",
       "album": {
-        "name": "Trapped in the Middle",
-        "url": "https://open.spotify.com/album/4g4OlXckIGoy5C7zMYskaw"
-      },
-      "artists": [
-        {
-          "name": "Joya Marleen",
-          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
-        }
-      ],
-      "duration_ms": 138443,
-      "name": "Trapped in the Middle",
-      "url": "https://open.spotify.com/track/5auKT8Cuq3ROPPRxZhMlle"
-    },
-    {
-      "added_at": "2026-06-18 22:00:53",
-      "album": {
         "name": "Tontauben",
         "url": "https://open.spotify.com/album/6V4AxqWLm9jJfhNYZUMr3Z"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 196400,
       "name": "Tontauben",
       "url": "https://open.spotify.com/track/2h0Mz4cN7JV79zeLmnMscN"
+    },
+    {
+      "added_at": "2026-06-18 22:00:53",
+      "album": {
+        "name": "Trapped in the Middle",
+        "url": "https://open.spotify.com/album/4g4OlXckIGoy5C7zMYskaw"
+      },
+      "artists": [
+        {
+          "name": "Joya Marleen",
+          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+        }
+      ],
+      "duration_ms": 138443,
+      "name": "Trapped in the Middle",
+      "url": "https://open.spotify.com/track/5auKT8Cuq3ROPPRxZhMlle"
     },
     {
       "added_at": "2026-06-18 22:00:53",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-06-18 22:00:53",
       "album": {
-        "name": "The Feast",
-        "url": "https://open.spotify.com/album/0eNHN1wdo7BA0kP0a2P7Gu"
-      },
-      "artists": [
-        {
-          "name": "Mary Middlefield",
-          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
-        }
-      ],
-      "duration_ms": 302882,
-      "name": "The Feast",
-      "url": "https://open.spotify.com/track/3zX3qdlhBdjSs0uE1mST8V"
-    },
-    {
-      "added_at": "2026-06-18 22:00:53",
-      "album": {
         "name": "Can't Be Loved",
         "url": "https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo"
       },
@@ -1327,18 +1311,18 @@
     {
       "added_at": "2026-06-18 22:00:53",
       "album": {
-        "name": "Chiara",
-        "url": "https://open.spotify.com/album/03IhA1ZKrQZYCtC1E1aq0q"
+        "name": "The Feast",
+        "url": "https://open.spotify.com/album/0eNHN1wdo7BA0kP0a2P7Gu"
       },
       "artists": [
         {
-          "name": "Valentino Vivace",
-          "url": "https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf"
+          "name": "Mary Middlefield",
+          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
         }
       ],
-      "duration_ms": 207028,
-      "name": "Chiara",
-      "url": "https://open.spotify.com/track/13SDcvkayQJdSgTUmTbrfe"
+      "duration_ms": 302882,
+      "name": "The Feast",
+      "url": "https://open.spotify.com/track/3zX3qdlhBdjSs0uE1mST8V"
     },
     {
       "added_at": "2026-06-18 22:00:53",
@@ -1371,6 +1355,22 @@
       "duration_ms": 192157,
       "name": "MAGAZINE",
       "url": "https://open.spotify.com/track/2dPRivcJCUxhlV1PfS4cxV"
+    },
+    {
+      "added_at": "2026-06-18 22:00:53",
+      "album": {
+        "name": "Chiara",
+        "url": "https://open.spotify.com/album/03IhA1ZKrQZYCtC1E1aq0q"
+      },
+      "artists": [
+        {
+          "name": "Valentino Vivace",
+          "url": "https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf"
+        }
+      ],
+      "duration_ms": 207028,
+      "name": "Chiara",
+      "url": "https://open.spotify.com/track/13SDcvkayQJdSgTUmTbrfe"
     },
     {
       "added_at": "2026-06-18 22:00:53",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2026-06-18 22:00:53",
       "album": {
-        "name": "Wasteland",
-        "url": "https://open.spotify.com/album/04XF5WXiZptRv11spXa0QB"
+        "name": "Coastline",
+        "url": "https://open.spotify.com/album/4PZY58e5kjo9Nxf0RY6QVn"
       },
       "artists": [
         {
-          "name": "ZIAN",
-          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
+          "name": "Shem Thomas",
+          "url": "https://open.spotify.com/artist/7HyZIaSYfZVB9quJJTryFw"
         }
       ],
-      "duration_ms": 163712,
-      "name": "Wasteland",
-      "url": "https://open.spotify.com/track/5fTSVKzNqVpuBsv4O7JDOW"
+      "duration_ms": 164089,
+      "name": "Coastline",
+      "url": "https://open.spotify.com/track/5Adz7uk3nkCKxHVbycjefV"
     },
     {
       "added_at": "2026-06-18 22:00:53",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2026-06-18 22:00:53",
       "album": {
-        "name": "Coastline",
-        "url": "https://open.spotify.com/album/4PZY58e5kjo9Nxf0RY6QVn"
+        "name": "Wasteland",
+        "url": "https://open.spotify.com/album/04XF5WXiZptRv11spXa0QB"
       },
       "artists": [
         {
-          "name": "Shem Thomas",
-          "url": "https://open.spotify.com/artist/7HyZIaSYfZVB9quJJTryFw"
+          "name": "ZIAN",
+          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
         }
       ],
-      "duration_ms": 164089,
-      "name": "Coastline",
-      "url": "https://open.spotify.com/track/5Adz7uk3nkCKxHVbycjefV"
+      "duration_ms": 163712,
+      "name": "Wasteland",
+      "url": "https://open.spotify.com/track/5fTSVKzNqVpuBsv4O7JDOW"
     },
     {
       "added_at": "2026-06-18 22:00:53",
@@ -1643,22 +1643,18 @@
     {
       "added_at": "2026-06-18 22:00:53",
       "album": {
-        "name": "Born With A Broken Heart",
-        "url": "https://open.spotify.com/album/2xilCRt00xyTgs3xW8i0Fb"
+        "name": "Old Again",
+        "url": "https://open.spotify.com/album/4gI5q0KtsUXV8lNzSVeM5T"
       },
       "artists": [
         {
-          "name": "Stress",
-          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
-        },
-        {
-          "name": "Marc Storace",
-          "url": "https://open.spotify.com/artist/3JJ2TxK8vyck6aIzU4XvVM"
+          "name": "ZIAN",
+          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
         }
       ],
-      "duration_ms": 186175,
-      "name": "Born With A Broken Heart",
-      "url": "https://open.spotify.com/track/6We5V23tVaQ7axZDfIvz8W"
+      "duration_ms": 197458,
+      "name": "Old Again",
+      "url": "https://open.spotify.com/track/5rU1wFFx3mWFVm2UcTg2Y3"
     }
   ],
   "unique_name": "Swiss Made",

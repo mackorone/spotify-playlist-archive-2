@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 
 > Start your morning right with this collection of soul & jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,120 likes - 92 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,211 likes - 92 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 | 91 | [Invitation Unknown](https://open.spotify.com/track/3lkTij6xN5ojKYDmDtzi39) | [Daylight Robbery!](https://open.spotify.com/artist/4iSyPXTjEjLTgM08lsnC0O), [Nick Marks](https://open.spotify.com/artist/24oDE0vaH0JH83VNAQ7pGL) | [Third Island Suite](https://open.spotify.com/album/2oGfo84fTjj5gskLBtUGB4) | 3:47 |
 | 92 | [Cinnamon Curls](https://open.spotify.com/track/4GSEf95lL4csXQlT2RGfOe) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Cinnamon Curls](https://open.spotify.com/album/49F31VHQxwOLpTRBsQboBL) | 4:06 |
 
-Snapshot ID: `AAAAAEeZGnmhYoj2ymg95lBwBdLo5gQz`
+Snapshot ID: `AAAAAPvGljoPIFb3YEUhs2BbyT3Uua8s`

@@ -1,6 +1,6 @@
 {
   "description": "Ghanaian Highlife Classics",
-  "num_followers": 9252,
+  "num_followers": 9264,
   "original_name": " Ghana Highlife Party",
   "owner": {
     "name": "Spotify",
@@ -507,8 +507,8 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
-        "name": "Koyon So",
-        "url": "https://open.spotify.com/album/42ERj6ANxjLvf9XufhAfgy"
+        "name": "Atadwe",
+        "url": "https://open.spotify.com/album/1RmAEbz2aviWvoa4YwUQNk"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/0ktHlUz0hzcpJnnAJ7KDPw"
         }
       ],
-      "duration_ms": 375573,
-      "name": "Koyon So - Game",
-      "url": "https://open.spotify.com/track/3JsL7IF5injWE1V8220Vul"
+      "duration_ms": 360573,
+      "name": "Atadwe",
+      "url": "https://open.spotify.com/track/77szM9v9r3cQLb753RcRjW"
     },
     {
       "added_at": "2026-02-20 08:28:52",
@@ -587,8 +587,8 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
-        "name": "Atadwe",
-        "url": "https://open.spotify.com/album/1RmAEbz2aviWvoa4YwUQNk"
+        "name": "Koyon So",
+        "url": "https://open.spotify.com/album/42ERj6ANxjLvf9XufhAfgy"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/0ktHlUz0hzcpJnnAJ7KDPw"
         }
       ],
-      "duration_ms": 360573,
-      "name": "Atadwe",
-      "url": "https://open.spotify.com/track/77szM9v9r3cQLb753RcRjW"
+      "duration_ms": 375573,
+      "name": "Koyon So - Game",
+      "url": "https://open.spotify.com/track/3JsL7IF5injWE1V8220Vul"
     },
     {
       "added_at": "2026-02-20 08:28:52",
@@ -979,6 +979,22 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
+        "name": "Love & Death",
+        "url": "https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5"
+      },
+      "artists": [
+        {
+          "name": "Ebo Taylor",
+          "url": "https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI"
+        }
+      ],
+      "duration_ms": 415090,
+      "name": "Love and Death",
+      "url": "https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44"
+    },
+    {
+      "added_at": "2026-02-20 08:28:52",
+      "album": {
         "name": "Soroku",
         "url": "https://open.spotify.com/album/56OAJsISgvpTsUv3PrkVJ3"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 456666,
       "name": "Soroku Special",
       "url": "https://open.spotify.com/track/1HIzAGOVvUIf1U7L2NUolW"
-    },
-    {
-      "added_at": "2026-02-20 08:28:52",
-      "album": {
-        "name": "Best of C. K. Mann",
-        "url": "https://open.spotify.com/album/2qHEqGNhRUZVxiMrAz4Oaa"
-      },
-      "artists": [
-        {
-          "name": "C. K. Mann",
-          "url": "https://open.spotify.com/artist/76ZoX4PUlQFIXHxCyIOcKi"
-        }
-      ],
-      "duration_ms": 527046,
-      "name": "Adwoa Yankey, Pt. 1",
-      "url": "https://open.spotify.com/track/0BsfJgIRCYqxuYNQk0vG87"
     },
     {
       "added_at": "2026-02-20 08:28:52",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
-        "name": "Love & Death",
-        "url": "https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5"
+        "name": "Best of C. K. Mann",
+        "url": "https://open.spotify.com/album/2qHEqGNhRUZVxiMrAz4Oaa"
       },
       "artists": [
         {
-          "name": "Ebo Taylor",
-          "url": "https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI"
+          "name": "C. K. Mann",
+          "url": "https://open.spotify.com/artist/76ZoX4PUlQFIXHxCyIOcKi"
         }
       ],
-      "duration_ms": 415090,
-      "name": "Love and Death",
-      "url": "https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44"
+      "duration_ms": 527046,
+      "name": "Adwoa Yankey, Pt. 1",
+      "url": "https://open.spotify.com/track/0BsfJgIRCYqxuYNQk0vG87"
     },
     {
       "added_at": "2026-02-20 08:28:52",

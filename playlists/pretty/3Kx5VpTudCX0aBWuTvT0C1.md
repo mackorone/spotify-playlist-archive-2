@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 1,803 likes - 62 songs - 3 hr 47 min
+[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 1,816 likes - 68 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,5 +70,11 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 | 60 | [Balla da solo](https://open.spotify.com/track/5i2OJvqlBWWuBNC3FTqOPM) | [Gin Ozz](https://open.spotify.com/artist/6Mt0M4SfhEqzg7Jkxoee54) | [Balla da solo](https://open.spotify.com/album/6goetFqE7uwg4jYxk0THyA) | 3:20 |
 | 61 | [Polaroid](https://open.spotify.com/track/3MiHgdxNBYMNAmna2i6Mvl) | [Maldimarte](https://open.spotify.com/artist/1B7WanK5AVSJp64eXruATD) | [Polaroid](https://open.spotify.com/album/0cAdWCQ0QQmj3dJy0jZH94) | 2:39 |
 | 62 | [Bara](https://open.spotify.com/track/50hb6zxmJMxrfavhe0fyn7) | [Merah](https://open.spotify.com/artist/0SqG39qV2HtVNgtjKSKGXQ) | [Utara](https://open.spotify.com/album/2Ds4iV3LPSya4zyVBHqhcn) | 3:49 |
+| 63 | [La forma exacta del miedo](https://open.spotify.com/track/27uE7Wi5Uf6RBp9aJyV6hi) | [Sergio Medina](https://open.spotify.com/artist/0ORqJysjGs60RzE1FRVzrB) | [Sergio Medina](https://open.spotify.com/album/3AduPpPMPzio2oNJvinrHq) | 4:21 |
+| 64 | [Fire on the Loose](https://open.spotify.com/track/1PAoqXpSbjeagxXwWi0tnV) | [Peder Pan](https://open.spotify.com/artist/2YOBFNivm8nZxtcXuSKQFV) | [Fire on the Loose](https://open.spotify.com/album/0aXK8rfirbKzeH9MoXniX5) | 4:04 |
+| 65 | [Working Nights and Weekends](https://open.spotify.com/track/3BBs9GYT85irXh1iaaM02o) | [Feyer](https://open.spotify.com/artist/7Eu9QyMHf0nXat8KuTJJX4) | [Working Nights and Weekends](https://open.spotify.com/album/3j87mSrNLlK02e3fUTgiXi) | 3:23 |
+| 66 | [Jinxed](https://open.spotify.com/track/557pPqr0mo1RF7SZsFvioQ) | [Maria Lavaux](https://open.spotify.com/artist/0mTHFtE2Z5Kvsfk6Ojxlpe) | [Jinxed](https://open.spotify.com/album/1d7b6y03CFYTNsEEAXU4fe) | 3:11 |
+| 67 | [I\-95](https://open.spotify.com/track/4Sh3dTSxURmD84A9tavTWc) | [Royal Fools](https://open.spotify.com/artist/4OQMfxWWXrkJJlIuUfkrC8) | [PROM](https://open.spotify.com/album/1fWnNXEHS7MeHzh5aoG2pg) | 3:53 |
+| 68 | [Rot](https://open.spotify.com/track/33zYnZAndE0Iv5kEWPmOTz) | [Hollowblades](https://open.spotify.com/artist/6e7RH4eLVsJuoj5eUnzEH6) | [Rot](https://open.spotify.com/album/1ZFNfZLOsZN6iFCLUsA5xa) | 2:49 |
 
-Snapshot ID: `AAACsJcTYN4ukbqiiJqyCzmDbR+0sYdD`
+Snapshot ID: `AAACtvVwx4qLnMTYYTbRt4v+SmUKtvrY`

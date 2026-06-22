@@ -1,6 +1,6 @@
 {
   "description": "per spingere come veri gym bro e gym sis",
-  "num_followers": 372165,
+  "num_followers": 372160,
   "original_name": "ADRENALINA",
   "owner": {
     "name": "Spotify",
@@ -627,26 +627,6 @@
     {
       "added_at": "2026-05-21 23:01:22",
       "album": {
-        "name": "Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course",
-        "url": "https://open.spotify.com/album/4lhyg7YGQagE8FT8cZBqyw"
-      },
-      "artists": [
-        {
-          "name": "JA\u0178-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 205733,
-      "name": "Numb / Encore",
-      "url": "https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn"
-    },
-    {
-      "added_at": "2026-05-21 23:01:22",
-      "album": {
         "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
         "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
+    },
+    {
+      "added_at": "2026-05-21 23:01:22",
+      "album": {
+        "name": "Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course",
+        "url": "https://open.spotify.com/album/4lhyg7YGQagE8FT8cZBqyw"
+      },
+      "artists": [
+        {
+          "name": "JA\u0178-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 205733,
+      "name": "Numb / Encore",
+      "url": "https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn"
     },
     {
       "added_at": "2026-05-21 23:01:22",
@@ -1403,34 +1403,6 @@
     {
       "added_at": "2026-05-21 23:01:22",
       "album": {
-        "name": "Berghain (Remix)",
-        "url": "https://open.spotify.com/album/5tY5Hafl8siFkPnxyllYVR"
-      },
-      "artists": [
-        {
-          "name": "Conrad Taylor",
-          "url": "https://open.spotify.com/artist/2xycbnmcCACddcAnOanEnw"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        },
-        {
-          "name": "Yves Tumor",
-          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
-        }
-      ],
-      "duration_ms": 154954,
-      "name": "Berghain - Remix",
-      "url": "https://open.spotify.com/track/7CI5IAi2z70tyJIVXxsHfw"
-    },
-    {
-      "added_at": "2026-05-21 23:01:22",
-      "album": {
         "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
         "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
       },
@@ -1455,6 +1427,34 @@
       "duration_ms": 148629,
       "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
       "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
+    },
+    {
+      "added_at": "2026-05-21 23:01:22",
+      "album": {
+        "name": "Berghain (Remix)",
+        "url": "https://open.spotify.com/album/5tY5Hafl8siFkPnxyllYVR"
+      },
+      "artists": [
+        {
+          "name": "Conrad Taylor",
+          "url": "https://open.spotify.com/artist/2xycbnmcCACddcAnOanEnw"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "duration_ms": 154954,
+      "name": "Berghain - Remix",
+      "url": "https://open.spotify.com/track/7CI5IAi2z70tyJIVXxsHfw"
     },
     {
       "added_at": "2026-05-21 23:01:22",
@@ -1555,26 +1555,6 @@
     {
       "added_at": "2026-05-21 23:01:22",
       "album": {
-        "name": "RYAN TED",
-        "url": "https://open.spotify.com/album/2U9mwmcJrUmkIpJm9gq8n7"
-      },
-      "artists": [
-        {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 124464,
-      "name": "Felpa Nera (feat. ANNA)",
-      "url": "https://open.spotify.com/track/168t3ud7jZIslO0P5ZDKnj"
-    },
-    {
-      "added_at": "2026-05-21 23:01:22",
-      "album": {
         "name": "Je M'appelle",
         "url": "https://open.spotify.com/album/6T6uWGOSAUhvoZfLlIyDuJ"
       },
@@ -1611,6 +1591,26 @@
       "duration_ms": 208845,
       "name": "Play Hard (feat. Ne-Yo & Akon) - New Edit",
       "url": "https://open.spotify.com/track/16Cs9KsHzgunxaEfGrXysG"
+    },
+    {
+      "added_at": "2026-05-21 23:01:22",
+      "album": {
+        "name": "RYAN TED",
+        "url": "https://open.spotify.com/album/2U9mwmcJrUmkIpJm9gq8n7"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 124464,
+      "name": "Felpa Nera (feat. ANNA)",
+      "url": "https://open.spotify.com/track/168t3ud7jZIslO0P5ZDKnj"
     },
     {
       "added_at": "2026-05-21 23:01:22",

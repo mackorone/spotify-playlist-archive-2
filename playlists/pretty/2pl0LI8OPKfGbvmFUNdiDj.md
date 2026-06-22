@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 935 likes - 60 songs - 3 hr 28 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 935 likes - 61 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,5 +68,6 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 58 | [The Mirror](https://open.spotify.com/track/6pUnpsCM1fvQrQsNxboHfZ) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [The Mirror](https://open.spotify.com/album/4ptWnwJL8v7UJLAcAgr9Bl) | 3:43 |
 | 59 | [Idontwantit](https://open.spotify.com/track/1EPdqwp61Fc9OPHD1QW2kl) | [Sean Blu](https://open.spotify.com/artist/5G0irBhjyBtG6hfg6fuBgx) | [Idontwantit](https://open.spotify.com/album/6fD0HfZ8Vb2bIIsdGHP99i) | 2:20 |
 | 60 | [Melbourne Cat](https://open.spotify.com/track/72cmQI7HC2RNIKeGbKUPNH) | [Jack Dahlqvist](https://open.spotify.com/artist/3J2oT5Sue8H2uhUVDvw1bI) | [Melbourne Cat](https://open.spotify.com/album/0acC0pSJGsYNirxkfWlOxK) | 4:18 |
+| 61 | [Take Another Drag](https://open.spotify.com/track/148ES5Swi6aBxRxy1LIAeq) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh), [Yung Father](https://open.spotify.com/artist/1u060weQXyTEVdGPZEfIM7) | [Take Another Drag](https://open.spotify.com/album/0QujmIPiE087gdOoMYtBiX) | 4:12 |
 
-Snapshot ID: `AAAD9r8azLA0HZ0O4OZo538T2NhK5ll5`
+Snapshot ID: `AAAD9+FxL7fA2rb3wljNdojZ7VOmKH9n`

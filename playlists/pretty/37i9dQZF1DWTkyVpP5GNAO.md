@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > Dale a Dios toda la gloria y alabanza! Foto: Averly Murrillo
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,889 likes - 75 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 560,901 likes - 75 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 | 74 | [Te Coronamos](https://open.spotify.com/track/6Ft5wueAtrPghqk7P0YrOt) | [Iglesia Rey De Reyes & Claudio Freidzon](https://open.spotify.com/artist/4xtmhwkXcI1bfDZNzQHR8F) | [Te Coronamos](https://open.spotify.com/album/4yfpZaK4QdCnf6LXjBsyKv) | 5:25 |
 | 75 | [Sublime Gracia](https://open.spotify.com/track/5cqKXjSnfj1TakGzvIzQiO) | [Marcos Vidal](https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Eterno](https://open.spotify.com/album/2ue3bbdkXbjMM892PpXIqf) | 4:25 |
 
-Snapshot ID: `AAAAAEday1Rgz9gZkdqCjilaZbiu9uu5`
+Snapshot ID: `AAAAAAbHY7eZLjT+FyexKpQhh544OugW`

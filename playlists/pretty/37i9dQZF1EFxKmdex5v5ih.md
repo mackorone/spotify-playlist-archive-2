@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,246 likes - 334 songs - 17 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,247 likes - 334 songs - 17 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,9 +107,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 97 | [Joy](https://open.spotify.com/track/57Ga9hGNv9hh9W5E1fx2Bc) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Monster \(Deluxe\)](https://open.spotify.com/album/4OwY7UUFCdDugJaKFNSkCd) | 3:13 |
 | 98 | [You](https://open.spotify.com/track/3LNRi4UytUnez6T0hFb4x3) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 2:59 |
 | 99 | [Easy Lover](https://open.spotify.com/track/2OBzYCYMNsD6yhBZZSs0xg) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 3:06 |
-| 100 | [Lie Like This](https://open.spotify.com/track/1rqIA9CG4Vj44JYVqBpxIj) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/0tDLeJartXoM4ACuUx2MOu) | 3:38 |
-| 101 | [Save Myself](https://open.spotify.com/track/0ea611uWUlkjPLmnsO20VM) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Ashlyn](https://open.spotify.com/album/57KvhLdbABnDYcOZ6l1FWJ) | 3:44 |
-| 102 | [Material Lover](https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Devil Wears Prada 2 \(Music From The Motion Picture\)](https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE) | 2:58 |
+| 100 | [Material Lover](https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Devil Wears Prada 2 \(Music From The Motion Picture\)](https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE) | 2:58 |
+| 101 | [Lie Like This](https://open.spotify.com/track/1rqIA9CG4Vj44JYVqBpxIj) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/0tDLeJartXoM4ACuUx2MOu) | 3:38 |
+| 102 | [Save Myself](https://open.spotify.com/track/0ea611uWUlkjPLmnsO20VM) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Ashlyn](https://open.spotify.com/album/57KvhLdbABnDYcOZ6l1FWJ) | 3:44 |
 | 103 | [call it the end](https://open.spotify.com/track/5a3tLTGA0HIDtrvnszXXBN) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:21 |
 | 104 | [Strong Enough \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/66VuIGcM7fd8NLMoORCqVJ) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Strong Enough](https://open.spotify.com/album/7DTTXmNJFIXdf5QyA0Y9JX) | 2:29 |
 | 105 | [Better in Color](https://open.spotify.com/track/0bt3YJTupDqdTKpnFFgs7f) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 2:13 |
@@ -223,11 +223,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 213 | [PRIDE](https://open.spotify.com/track/4fHjAlhou3qMEgLUSbtvPP) | [felix jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [NAGTTB+](https://open.spotify.com/album/6lte94zyWde7fR0o8XKQPZ) | 2:38 |
 | 214 | [Fall into You](https://open.spotify.com/track/1AeSZVz9UrF4m5kQ7KPmUu) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Dancing In The Dark](https://open.spotify.com/album/0735UJg7bIwGmv28e7zQOF) | 2:38 |
 | 215 | [Timebomb \(feat\. MOD SUN\)](https://open.spotify.com/track/4kAsc2vx4NBqk9dXn1nrZC) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Timebomb \(feat\. MOD SUN\)](https://open.spotify.com/album/40yndRDwPV70abVTMtxNBU) | 3:02 |
-| 216 | [Where Were You](https://open.spotify.com/track/1v2sakRkTMhPMVLU4IMyUB) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [The Shack: Music From and Inspired By the Original Motion Picture](https://open.spotify.com/album/40JDNqFUzKmBSMEfDHPztO) | 3:07 |
-| 217 | [Minute](https://open.spotify.com/track/5T9oCNxslGlodgZd282juI) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Feed The Beast](https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA) | 3:05 |
+| 216 | [Minute](https://open.spotify.com/track/5T9oCNxslGlodgZd282juI) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Feed The Beast](https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA) | 3:05 |
+| 217 | [Where Were You](https://open.spotify.com/track/1v2sakRkTMhPMVLU4IMyUB) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [The Shack: Music From and Inspired By the Original Motion Picture](https://open.spotify.com/album/40JDNqFUzKmBSMEfDHPztO) | 3:07 |
 | 218 | [Sunset](https://open.spotify.com/track/1qYnqHydtG4iV9YenAz8Ux) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Dancing With The Devil…The Art of Starting Over \(Deluxe Edition\)](https://open.spotify.com/album/2zbfishc70HpcgMu8ymtri) | 4:04 |
-| 219 | [Polkamania!](https://open.spotify.com/track/1GXIST9gaPpWcRrRhHUcJb) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [Polkamania!](https://open.spotify.com/album/1gqDuax64n9FHQxaFlyobc) | 4:06 |
-| 220 | [Heroine](https://open.spotify.com/track/04OCeDuqT4ympbgDZ8dcfT) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Heroine](https://open.spotify.com/album/4xT3ryrqfutVzV1cJN79Ww) | 2:35 |
+| 219 | [Heroine](https://open.spotify.com/track/04OCeDuqT4ympbgDZ8dcfT) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Heroine](https://open.spotify.com/album/4xT3ryrqfutVzV1cJN79Ww) | 2:35 |
+| 220 | [Polkamania!](https://open.spotify.com/track/1GXIST9gaPpWcRrRhHUcJb) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [Polkamania!](https://open.spotify.com/album/1gqDuax64n9FHQxaFlyobc) | 4:06 |
 | 221 | [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 |
 | 222 | [Devil You Don't](https://open.spotify.com/track/5NkAWXpJOE0mDtHlK8LlWZ) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Devil You Don't](https://open.spotify.com/album/540Q9Y4nYAdnUynF4GGck6) | 3:06 |
 | 223 | [You Belong \(from Spirit Untamed\)](https://open.spotify.com/track/1r4W3q6EIYuHyB7bppMEOt) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [You Belong \(from Spirit Untamed\)](https://open.spotify.com/album/2rFePcmzDB288agcX9ULin) | 3:16 |
@@ -343,4 +343,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 333 | [Dancehall](https://open.spotify.com/track/4GpqmcUvJcY5XJcwLSxMOi) | [Xternal](https://open.spotify.com/artist/1ddhUGauGANGPAmaUpgfvY) | [Old Fan Riddim](https://open.spotify.com/album/3egAD2whk3pAz5jMj13XyU) | 3:16 |
 | 334 | [Aliens](https://open.spotify.com/track/3n5lE0vC4SOb3tKP1h1fVD) | [The Dudley Corporation](https://open.spotify.com/artist/7Ch6Iyny8xZOqGcKbg1TEd) | [What a Human Does](https://open.spotify.com/album/3QdQhjtaMNBpwNgK1VwAR4) | 2:19 |
 
-Snapshot ID: `AcUwkAAAAAAVKcD+1EnDWNRw0SWFeB9k`
+Snapshot ID: `AcU2WAAAAAA97ybE9aOI8HWqcg9TFCsl`

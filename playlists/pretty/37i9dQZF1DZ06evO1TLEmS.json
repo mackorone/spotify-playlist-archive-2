@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAAAG8pB9xjbJj6ywxGSajOLT",
+  "snapshot_id": "ajXYAAAAAABKkRl2zQfl/Q78+yQ3ws5K",
   "tracks": [
     {
       "added_at": null,
@@ -575,6 +575,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Modern Man",
+        "url": "https://open.spotify.com/album/2mYhqIuQKJ8CQCkuJH14A2"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 184445,
+      "name": "Modern Man (feat. Madison Cunningham)",
+      "url": "https://open.spotify.com/track/5wo8gxWeFb9YsZ719fALSL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Who Are You Now",
         "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
       },
@@ -611,26 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Modern Man",
-        "url": "https://open.spotify.com/album/2mYhqIuQKJ8CQCkuJH14A2"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 184445,
-      "name": "Modern Man (feat. Madison Cunningham)",
-      "url": "https://open.spotify.com/track/5wo8gxWeFb9YsZ719fALSL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Broken Harvest",
         "url": "https://open.spotify.com/album/3cw9LHQyTxAjwGbkJDewme"
       },
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 283106,
-      "name": "Crystal",
-      "url": "https://open.spotify.com/track/2H3gBsloNdjGWlnct8GR1d"
+      "duration_ms": 151213,
+      "name": "Lola (My Love)",
+      "url": "https://open.spotify.com/track/6xfbp79nVK2quJDtoZyUPe"
     },
     {
       "added_at": null,
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 151213,
-      "name": "Lola (My Love)",
-      "url": "https://open.spotify.com/track/6xfbp79nVK2quJDtoZyUPe"
+      "duration_ms": 283106,
+      "name": "Crystal",
+      "url": "https://open.spotify.com/track/2H3gBsloNdjGWlnct8GR1d"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "The soft sound of some of the smoothest and sweetest vocal Jazz.",
-  "num_followers": 290513,
+  "num_followers": 290621,
   "original_name": "Sweet Jazz",
   "owner": {
     "name": "Spotify",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
-        "name": "I Love A Love Song!",
-        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
-      },
-      "artists": [
-        {
-          "name": "Rachael & Vilray",
-          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
-        }
-      ],
-      "duration_ms": 211706,
-      "name": "Any Little Time",
-      "url": "https://open.spotify.com/track/1sqn0LWWNkKM8XYaIyaw10"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
         "name": "In Her Words",
         "url": "https://open.spotify.com/album/7AdQX1dp37fnchc6h8sLuv"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 267160,
       "name": "Gone Again",
       "url": "https://open.spotify.com/track/2BwbCvzK0TomWh4Igp0wq3"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
+        "name": "I Love A Love Song!",
+        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
+      },
+      "artists": [
+        {
+          "name": "Rachael & Vilray",
+          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
+        }
+      ],
+      "duration_ms": 211706,
+      "name": "Any Little Time",
+      "url": "https://open.spotify.com/track/1sqn0LWWNkKM8XYaIyaw10"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
-        "name": "The Art Of Elegance",
-        "url": "https://open.spotify.com/album/2ZdIKuNRW5Jn9Bt1jYkevo"
-      },
-      "artists": [
-        {
-          "name": "Kristin Chenoweth",
-          "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
-        }
-      ],
-      "duration_ms": 189360,
-      "name": "Let\u2019s Fall In Love",
-      "url": "https://open.spotify.com/track/6YCIFKFWx0pxMEUl8Vko6l"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
         "name": "Because Of Billie",
         "url": "https://open.spotify.com/album/6Bz3G8ZBPt3raos669LnuB"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 270000,
       "name": "You've Changed",
       "url": "https://open.spotify.com/track/6R8E6KJoBLcSEtWRUcKali"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
+        "name": "The Art Of Elegance",
+        "url": "https://open.spotify.com/album/2ZdIKuNRW5Jn9Bt1jYkevo"
+      },
+      "artists": [
+        {
+          "name": "Kristin Chenoweth",
+          "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
+        }
+      ],
+      "duration_ms": 189360,
+      "name": "Let\u2019s Fall In Love",
+      "url": "https://open.spotify.com/track/6YCIFKFWx0pxMEUl8Vko6l"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -1555,34 +1555,6 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
-        "name": "Impressions of Evans",
-        "url": "https://open.spotify.com/album/2mfvi0m3cStWXw8prJ88J6"
-      },
-      "artists": [
-        {
-          "name": "Ellen Andersson",
-          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
-        },
-        {
-          "name": "Heine Hansen",
-          "url": "https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL"
-        },
-        {
-          "name": "Thomas Fonnesb\u00e6k",
-          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
-        },
-        {
-          "name": "Andreas Svendsen",
-          "url": "https://open.spotify.com/artist/0bCXY6V0VOWfibxyxZIxrH"
-        }
-      ],
-      "duration_ms": 268066,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/6UputvwZIO4RRQ0ZWI9mHq"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
         "name": "An Evening with/ Andy James & John Patitucci",
         "url": "https://open.spotify.com/album/3wmErkWqIMYJiQhplNUPhl"
       },
@@ -1635,6 +1607,34 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
+        "name": "Impressions of Evans",
+        "url": "https://open.spotify.com/album/2mfvi0m3cStWXw8prJ88J6"
+      },
+      "artists": [
+        {
+          "name": "Ellen Andersson",
+          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
+        },
+        {
+          "name": "Heine Hansen",
+          "url": "https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL"
+        },
+        {
+          "name": "Thomas Fonnesb\u00e6k",
+          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
+        },
+        {
+          "name": "Andreas Svendsen",
+          "url": "https://open.spotify.com/artist/0bCXY6V0VOWfibxyxZIxrH"
+        }
+      ],
+      "duration_ms": 268066,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/6UputvwZIO4RRQ0ZWI9mHq"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
         "name": "When I Get Low",
         "url": "https://open.spotify.com/album/70ljTIleoi86TjqilzoR3r"
       },
@@ -1647,6 +1647,26 @@
       "duration_ms": 165921,
       "name": "Smile",
       "url": "https://open.spotify.com/track/5H09kZp2YiQjnzhrjch3Ae"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
+        "name": "Flying Home",
+        "url": "https://open.spotify.com/album/1KwMYu5s3ytrnUuWdB0ud1"
+      },
+      "artists": [
+        {
+          "name": "Reinhardt Winkler",
+          "url": "https://open.spotify.com/artist/3qI7BI1j3lVPj7O93WYsyK"
+        },
+        {
+          "name": "Simone Kopmajer",
+          "url": "https://open.spotify.com/artist/7cylWVUnKfaVT2vpkNoRWB"
+        }
+      ],
+      "duration_ms": 293253,
+      "name": "Smoke Gets in Your Eyes",
+      "url": "https://open.spotify.com/track/377JiNUjjacysE2M01uEZF"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -1675,26 +1695,6 @@
       "duration_ms": 260502,
       "name": "Empty Dream",
       "url": "https://open.spotify.com/track/5BsUXjwjAofWEnPbETcK35"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
-        "name": "Flying Home",
-        "url": "https://open.spotify.com/album/1KwMYu5s3ytrnUuWdB0ud1"
-      },
-      "artists": [
-        {
-          "name": "Reinhardt Winkler",
-          "url": "https://open.spotify.com/artist/3qI7BI1j3lVPj7O93WYsyK"
-        },
-        {
-          "name": "Simone Kopmajer",
-          "url": "https://open.spotify.com/artist/7cylWVUnKfaVT2vpkNoRWB"
-        }
-      ],
-      "duration_ms": 293253,
-      "name": "Smoke Gets in Your Eyes",
-      "url": "https://open.spotify.com/track/377JiNUjjacysE2M01uEZF"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
-        "name": "More Understanding Than A Man / Dis, quand reviendras-tu ?",
-        "url": "https://open.spotify.com/album/4LiyJkRKcsoEvQjZ0cT70T"
-      },
-      "artists": [
-        {
-          "name": "Flore Benguigui & The Sensible Notes",
-          "url": "https://open.spotify.com/artist/0fPRM8MswpB7AksdDiE8g6"
-        }
-      ],
-      "duration_ms": 376600,
-      "name": "Dis, quand reviendras-tu ?",
-      "url": "https://open.spotify.com/track/0jMD8lrNmuSPBE4hYFIjS7"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
         "name": "Desperado",
         "url": "https://open.spotify.com/album/37ZtGtGstCyBZRre6ashNa"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 239380,
       "name": "Desperado",
       "url": "https://open.spotify.com/track/5Cbq127eIsrkHDvGweTzYB"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
+        "name": "More Understanding Than A Man / Dis, quand reviendras-tu ?",
+        "url": "https://open.spotify.com/album/4LiyJkRKcsoEvQjZ0cT70T"
+      },
+      "artists": [
+        {
+          "name": "Flore Benguigui & The Sensible Notes",
+          "url": "https://open.spotify.com/artist/0fPRM8MswpB7AksdDiE8g6"
+        }
+      ],
+      "duration_ms": 376600,
+      "name": "Dis, quand reviendras-tu ?",
+      "url": "https://open.spotify.com/track/0jMD8lrNmuSPBE4hYFIjS7"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -2351,22 +2351,6 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
-        "name": "My Sweetie & I",
-        "url": "https://open.spotify.com/album/2ey5s2msgrSIuW8BamCOHo"
-      },
-      "artists": [
-        {
-          "name": "Jesse Palter",
-          "url": "https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX"
-        }
-      ],
-      "duration_ms": 355102,
-      "name": "My Sweetie & I",
-      "url": "https://open.spotify.com/track/6A2cWbyXgKMufDUr5dAJkV"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
         "name": "Our Last Goodbye",
         "url": "https://open.spotify.com/album/1n2FLr2kCIyovK0UdIDzzl"
       },
@@ -2379,6 +2363,22 @@
       "duration_ms": 312817,
       "name": "Our Last Goodbye",
       "url": "https://open.spotify.com/track/67At7oengoEs0vS6v0lufo"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
+        "name": "My Sweetie & I",
+        "url": "https://open.spotify.com/album/2ey5s2msgrSIuW8BamCOHo"
+      },
+      "artists": [
+        {
+          "name": "Jesse Palter",
+          "url": "https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX"
+        }
+      ],
+      "duration_ms": 355102,
+      "name": "My Sweetie & I",
+      "url": "https://open.spotify.com/track/6A2cWbyXgKMufDUr5dAJkV"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -2403,6 +2403,26 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
+        "name": "AURORA BOREALIS",
+        "url": "https://open.spotify.com/album/1oAE9OBFqOn0ZJbSkEVynT"
+      },
+      "artists": [
+        {
+          "name": "Martina DaSilva",
+          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
+        },
+        {
+          "name": "Kelly Green",
+          "url": "https://open.spotify.com/artist/6MGNhzLevHtkeVTcwNpTmZ"
+        }
+      ],
+      "duration_ms": 282929,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/0EHpaJqVGopZF1FDCqGHRn"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
         "name": "The Sweetest Moments",
         "url": "https://open.spotify.com/album/5noyugUFfGlDodgODRAoIF"
       },
@@ -2423,26 +2443,6 @@
       "duration_ms": 278898,
       "name": "The Sweetest Moments",
       "url": "https://open.spotify.com/track/0RiaJTqHbBt9gSuhos3pla"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
-        "name": "AURORA BOREALIS",
-        "url": "https://open.spotify.com/album/1oAE9OBFqOn0ZJbSkEVynT"
-      },
-      "artists": [
-        {
-          "name": "Martina DaSilva",
-          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
-        },
-        {
-          "name": "Kelly Green",
-          "url": "https://open.spotify.com/artist/6MGNhzLevHtkeVTcwNpTmZ"
-        }
-      ],
-      "duration_ms": 282929,
-      "name": "Midnight Sun",
-      "url": "https://open.spotify.com/track/0EHpaJqVGopZF1FDCqGHRn"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -2479,6 +2479,22 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
+        "name": "Stations",
+        "url": "https://open.spotify.com/album/1d21jnvVSGyjHtvKBKJZH6"
+      },
+      "artists": [
+        {
+          "name": "Viktoria Tolstoy",
+          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
+        }
+      ],
+      "duration_ms": 293124,
+      "name": "The Streets of Berlin",
+      "url": "https://open.spotify.com/track/2KUrFIcgYAMbadHxF0JX4B"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
         "name": "Twinkle Twinkle",
         "url": "https://open.spotify.com/album/46xM6WD5LaI25lEW9QmCy5"
       },
@@ -2503,22 +2519,6 @@
       "duration_ms": 267993,
       "name": "Twinkle Twinkle",
       "url": "https://open.spotify.com/track/3kK1OWkLxPLaOJyaGYielG"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
-        "name": "Stations",
-        "url": "https://open.spotify.com/album/1d21jnvVSGyjHtvKBKJZH6"
-      },
-      "artists": [
-        {
-          "name": "Viktoria Tolstoy",
-          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
-        }
-      ],
-      "duration_ms": 293124,
-      "name": "The Streets of Berlin",
-      "url": "https://open.spotify.com/track/2KUrFIcgYAMbadHxF0JX4B"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -2651,22 +2651,6 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/6uQ7ls8RWxnZ2wbe7rJr8G"
-      },
-      "artists": [
-        {
-          "name": "Dasha Beets",
-          "url": "https://open.spotify.com/artist/5c74V4G4hH40lxp93rE9Xh"
-        }
-      ],
-      "duration_ms": 287277,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/3aNQimKCvTw7Ag3vHei2NX"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
         "name": "Old Love and New",
         "url": "https://open.spotify.com/album/435DJSlvexja6r2st5AjJ6"
       },
@@ -2679,6 +2663,22 @@
       "duration_ms": 253741,
       "name": "Old Love and New",
       "url": "https://open.spotify.com/track/74ma44w5wGAx3cGlLSVC7x"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/6uQ7ls8RWxnZ2wbe7rJr8G"
+      },
+      "artists": [
+        {
+          "name": "Dasha Beets",
+          "url": "https://open.spotify.com/artist/5c74V4G4hH40lxp93rE9Xh"
+        }
+      ],
+      "duration_ms": 287277,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/3aNQimKCvTw7Ag3vHei2NX"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -3083,6 +3083,26 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
+        "name": "Genius Loves Company",
+        "url": "https://open.spotify.com/album/4QpvUXLTSvZ5JfA8kOyfNk"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        },
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 235463,
+      "name": "You Don't Know Me (with Diana Krall)",
+      "url": "https://open.spotify.com/track/3NhDsoowimZMc97tDuG1T5"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
         "name": "Mrs. Cold",
         "url": "https://open.spotify.com/album/1WhW0QimR7aDE0qoBhzCaz"
       },
@@ -3115,26 +3135,6 @@
       "duration_ms": 210261,
       "name": "(They Long to Be) Close to You",
       "url": "https://open.spotify.com/track/6Ohs3mAuItU9fOcmH27m6u"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
-        "name": "Genius Loves Company",
-        "url": "https://open.spotify.com/album/4QpvUXLTSvZ5JfA8kOyfNk"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        },
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 235463,
-      "name": "You Don't Know Me (with Diana Krall)",
-      "url": "https://open.spotify.com/track/3NhDsoowimZMc97tDuG1T5"
     },
     {
       "added_at": "2026-02-09 08:12:01",

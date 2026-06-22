@@ -4,7 +4,7 @@
 
 > Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Marcelo Tofani
 
-1,172 songs - 2 day 10 hr 5 min
+1,173 songs - 2 day 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -689,7 +689,7 @@
 | [no seu tempo](https://open.spotify.com/track/6KwCZfifvEqY083x0zcQjk) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [no seu tempo](https://open.spotify.com/album/53O6paNKGZJT6rnyQuZaSg) | 2:38 | 2026-03-20 |  |
 | [Nocaute](https://open.spotify.com/track/38y1KFdUpHjUIWXcUYS8aC) | [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Iuri Rio Branco](https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Acrônico](https://open.spotify.com/album/5C71qOuXDL44ZmUbtP9WKr) | 3:55 | 2024-11-22 | 2025-07-26 |
 | [NOITE DE CAÇA](https://open.spotify.com/track/3vNEwUDgq46FPGk7xVhwTx) | [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [NOITE DE CAÇA](https://open.spotify.com/album/4BpC89Hz3YwISnrcYBfWbH) | 2:38 | 2023-02-14 | 2023-04-29 |
-| [Noites de Neon](https://open.spotify.com/track/427JHB9CmpmxSten7B2isW) | [Mariana Coelho](https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv) | [Ecos do Desejo](https://open.spotify.com/album/1D3f4CkQe0gklHKKxffj9C) | 2:26 | 2025-08-01 |  |
+| [Noites de Neon](https://open.spotify.com/track/427JHB9CmpmxSten7B2isW) | [Mariana Coelho](https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv) | [Ecos do Desejo](https://open.spotify.com/album/1D3f4CkQe0gklHKKxffj9C) | 2:26 | 2025-08-01 | 2026-06-22 |
 | [Noites de Papel](https://open.spotify.com/track/0gjfUMvW3dT1Vd0EkPokT9) | [Marô](https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u) | [Noites de Papel](https://open.spotify.com/album/4wd02ki6dUCKFmy74c80ls) | 2:18 | 2024-07-05 | 2024-11-23 |
 | [Noites em Miami](https://open.spotify.com/track/6KQ0cjaECXJy5TohPYqkQl) | [Vivi](https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Vivi](https://open.spotify.com/album/51pNtto5OEDHobez6PoXTI) | 3:03 | 2025-10-31 | 2026-02-28 |
 | [Nos Meus Sonhos](https://open.spotify.com/track/71OYvWfgOrjZ24aZO37fof) | [Luiza Possi](https://open.spotify.com/artist/46P1tvf6evAk5wk2Rg3jOq), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Nos Meus Sonhos](https://open.spotify.com/album/3IqsAzB9DiO2SaB93295lj) | 3:33 | 2023-06-02 | 2023-07-29 |
@@ -1052,6 +1052,7 @@
 | [Tenemos que hablar \- Real Magic](https://open.spotify.com/track/4wjURqSdOtZKt4qlQeioFJ) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Tenemos que hablar \(Real Magic\)](https://open.spotify.com/album/3vZUh3inLziRn9Zpa1cMAC) | 3:15 | 2023-09-29 | 2023-11-18 |
 | [Tengo](https://open.spotify.com/track/4lrvlZwLnLYlXLhP5dH7DV) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Tengo](https://open.spotify.com/album/5rVjky77bDIQXkKEmwjj9g) | 2:09 | 2023-07-07 | 2023-08-26 |
 | [Tentação](https://open.spotify.com/track/71txbUtWVkqbN7BOQcEkDI) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Beijo De Judas](https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd) | 2:54 | 2023-02-14 | 2023-06-24 |
+| [Tento](https://open.spotify.com/track/6gD3Vj0wlOoX5Fdt07PR9g) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Tento](https://open.spotify.com/album/6f5e19cpdZMwtaEB5KdwW3) | 3:21 | 2026-06-19 |  |
 | [Terminei](https://open.spotify.com/track/6ddpGpxAawAtX4mV2X85ys) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo), [Anna Pêgo](https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ) | [Terminei](https://open.spotify.com/album/32kgvxWFy0tKgXUpxdy77g) | 2:47 | 2023-02-14 | 2023-06-24 |
 | [terminou comigo na Bahia](https://open.spotify.com/track/5LmnWlRFgfvwZPBYTs2nYZ) | [IZRRA](https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV), [KING Saints](https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY), [Afrocidade](https://open.spotify.com/artist/1kbDI5eg73ftGzwOf4OKZL) | [terminou comigo na Bahia](https://open.spotify.com/album/1kmS6bdjx31b9NLHIweTqD) | 3:02 | 2023-10-13 | 2023-11-07 |
 | [Terça Feira](https://open.spotify.com/track/3XdQFjsygFV5iNaVpESQA7) | [Erre Êne](https://open.spotify.com/artist/24fsBfaqsEZxeG2bN9Cvzj), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB) | [Terça Feira](https://open.spotify.com/album/7G36lB6BrOBT9QrnTasWXU) | 2:48 | 2023-04-21 | 2023-06-10 |

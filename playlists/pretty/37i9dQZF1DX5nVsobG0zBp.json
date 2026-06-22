@@ -1,6 +1,6 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: LON3R JOHNY",
-  "num_followers": 85310,
+  "num_followers": 85340,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
@@ -523,6 +523,26 @@
     {
       "added_at": "2026-06-12 15:13:25",
       "album": {
+        "name": "Chakras",
+        "url": "https://open.spotify.com/album/1Mz8AqAAgcwDwF9LglSk6K"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 196384,
+      "name": "Chakras",
+      "url": "https://open.spotify.com/track/3dbWR5RYjRmbtY6QIGNUs4"
+    },
+    {
+      "added_at": "2026-06-12 15:13:25",
+      "album": {
         "name": "FIM DO NADA",
         "url": "https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc"
       },
@@ -543,26 +563,6 @@
       "duration_ms": 237134,
       "name": "Estrada (feat. Slow J & ProfJam)",
       "url": "https://open.spotify.com/track/7EUmkQTk9tt93C5J746OzL"
-    },
-    {
-      "added_at": "2026-06-12 15:13:25",
-      "album": {
-        "name": "Chakras",
-        "url": "https://open.spotify.com/album/1Mz8AqAAgcwDwF9LglSk6K"
-      },
-      "artists": [
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        },
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 196384,
-      "name": "Chakras",
-      "url": "https://open.spotify.com/track/3dbWR5RYjRmbtY6QIGNUs4"
     },
     {
       "added_at": "2026-06-12 15:13:25",
@@ -615,6 +615,22 @@
     {
       "added_at": "2026-06-12 15:13:25",
       "album": {
+        "name": "SWEET LIKE SUGAR",
+        "url": "https://open.spotify.com/album/297FcXyyU9OWhW1aulhNMJ"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "duration_ms": 170723,
+      "name": "SWEET LIKE SUGAR",
+      "url": "https://open.spotify.com/track/02Z5w9818U2uGmdCf2RasX"
+    },
+    {
+      "added_at": "2026-06-12 15:13:25",
+      "album": {
         "name": "Europa (feat. Deejay Telio, Teto & Gson)",
         "url": "https://open.spotify.com/album/4mJPvU4b5VgvQNgyuDcD0Q"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 216800,
       "name": "Europa (feat. Deejay Telio, Teto & Gson)",
       "url": "https://open.spotify.com/track/5bBQI31u2eqXJE5OyP4hxq"
-    },
-    {
-      "added_at": "2026-06-12 15:13:25",
-      "album": {
-        "name": "SWEET LIKE SUGAR",
-        "url": "https://open.spotify.com/album/297FcXyyU9OWhW1aulhNMJ"
-      },
-      "artists": [
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        }
-      ],
-      "duration_ms": 170723,
-      "name": "SWEET LIKE SUGAR",
-      "url": "https://open.spotify.com/track/02Z5w9818U2uGmdCf2RasX"
     },
     {
       "added_at": "2026-06-12 15:13:25",

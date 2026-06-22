@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,592 likes - 1,038 songs - 2 day 17 hr 28 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,592 likes - 1,054 songs - 2 day 18 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1046,5 +1046,21 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 1036 | [Phantom Pain](https://open.spotify.com/track/4NxNryJCCTgM1qH1yperrc) | [FUFZ](https://open.spotify.com/artist/6KNFJrJCNntGvNIJO64G41) | [Phantom Pain](https://open.spotify.com/album/2LlwJ8hXUQjgjNpeJ2ZgDb) | 4:12 |
 | 1037 | [Sweet Nothings](https://open.spotify.com/track/5meGXDPEwVvoZ5CDY4dnRZ) | [Condition Baker](https://open.spotify.com/artist/6FRx7aC6xjwPX4XM1Ryicu) | [Sweet Nothings](https://open.spotify.com/album/27VrebPBcPe2si5mYezIHp) | 2:45 |
 | 1038 | [Mend](https://open.spotify.com/track/041405dXJvK89ymfLPwd3M) | [Great Escapes](https://open.spotify.com/artist/5U9BpGbYvHLcS6ED35PGeG) | [Mend](https://open.spotify.com/album/6jaynVsSOfbjLstKOCqxP9) | 2:42 |
+| 1039 | [Blue Collar Dad](https://open.spotify.com/track/23CO2rdr3KFW7HWaFpxWEB) | [Pebblepimp](https://open.spotify.com/artist/0ASySyTBd1Pb2igFSE6SmV) | [Blue Collar Pride](https://open.spotify.com/album/4xyuuYqwEn52W5CswROaGU) | 4:03 |
+| 1040 | [Oh Come On!](https://open.spotify.com/track/2eao3HIlNiWH47YXbUDbYO) | [Your Friend Death](https://open.spotify.com/artist/2wFQuwL5t22Xi117f8nzRx) | [Oh Come On!](https://open.spotify.com/album/2HGuF5sdOMdRCGnd2EJCWB) | 3:07 |
+| 1041 | [Heart Of Gold](https://open.spotify.com/track/3hz6EzyfSjS6mqrsTfrHzc) | [Kolossos](https://open.spotify.com/artist/5YL0laVGokLXPoDkkbhB2K) | [Heart Of Gold](https://open.spotify.com/album/4YQkXWOikY2eSffOvCrad4) | 3:55 |
+| 1042 | [Paradiso Artificiale](https://open.spotify.com/track/6U2DWao3Sj3VnbfuFdgWRj) | [as44](https://open.spotify.com/artist/1C7ziBRTHYqVB6Psq0GQCX) | [Paradiso Artificiale](https://open.spotify.com/album/6iGbJYkvHWByBokmzysyLZ) | 2:22 |
+| 1043 | [Just Another Sun Going Down](https://open.spotify.com/track/0opwEDW1ipm3aGgCawAyye) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Seasons in Exile](https://open.spotify.com/album/2JpF6zKefRMIsMZIWEjk0c) | 3:42 |
+| 1044 | [Heads You Win, Tails We Lose](https://open.spotify.com/track/4PVKFz2AKeSIdgC5aynNNk) | [Antillectual](https://open.spotify.com/artist/1Z2XrFvat8f47ZaRfjTgZL) | [TOGETHER](https://open.spotify.com/album/0SHcHeNEecAMgM6HkPyNdZ) | 2:53 |
+| 1045 | [Hope for Warmth](https://open.spotify.com/track/7EPCczGAu1x4YmG5tSao2T) | [Koridor v Tuman](https://open.spotify.com/artist/7tA2EAaPfvp34wbn0SJ3b0) | [Hope for Warmth](https://open.spotify.com/album/0HDXmNXhNSalGD8OLCsLJQ) | 6:16 |
+| 1046 | [Vilified](https://open.spotify.com/track/3i2xkoKJGbMirHDYsAlJFm) | [John Pronto](https://open.spotify.com/artist/5QtUYAAvpQfIFojICPFZuq) | [Marigold](https://open.spotify.com/album/0Oh9m9wwRW4YaQU6qwDSVq) | 3:03 |
+| 1047 | [Tu ne brilles plus](https://open.spotify.com/track/4pekCR4Tysw3nRXtrpTWbL) | [MadCartoon](https://open.spotify.com/artist/5yxgqW8u7ldrsWSFTPBqPY) | [Splendides & Imparfaits](https://open.spotify.com/album/2pGzqgdkOG3d9QhUY69VTq) | 4:08 |
+| 1048 | [Я покидаю этот край](https://open.spotify.com/track/0mwPCwrMovGE0jOUy0s6Ka) | [Aleks Qt](https://open.spotify.com/artist/29OA00wnsr71wqUiL3dzD1) | [Я покидаю этот край](https://open.spotify.com/album/11L4Q39WXWIr9sYDMEsreD) | 3:26 |
+| 1049 | [Fire](https://open.spotify.com/track/6s9qYXqxPCV2x2EJglACvd) | [The Steel](https://open.spotify.com/artist/0o8mtfGFaxEYBF5TtoVOGY) | [The Steel II](https://open.spotify.com/album/5CelAdbDkCINozP22sFgEd) | 4:04 |
+| 1050 | [Travelmate](https://open.spotify.com/track/0Mh6iLcMzLNIxfSX84WAiw) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [Travelmate](https://open.spotify.com/album/47kxoZjpnJHmVk6W72fGse) | 3:38 |
+| 1051 | [Gimmick](https://open.spotify.com/track/4uFT0D47ztptmYn4lfybCb) | [Pigeon Pye](https://open.spotify.com/artist/72kLEU6mRB5iLrmABFhjlz) | [Story](https://open.spotify.com/album/1SEFpmr6CmYvQWXHDTMFa6) | 2:50 |
+| 1052 | [SOMEBODY ELSE // \(REPRISE\)](https://open.spotify.com/track/6FxHiKVeXuLDA4mc4BPCqR) | [The 508](https://open.spotify.com/artist/7aQxyxGdTVk0NvKqtyjMxB), [KIDD EXOTIKK](https://open.spotify.com/artist/6UFmeJ08DUDW8rzD8JdONe) | [SOMEBODY ELSE // \(REPRISE\)](https://open.spotify.com/album/12FRSQImYN5ExYLDMmOUvI) | 5:38 |
+| 1053 | [I See You](https://open.spotify.com/track/4121pSeIc1sxqnH4i3nEvi) | [RamShackle](https://open.spotify.com/artist/0io5dV4KEggh6b7TR1EOPV) | [I See You](https://open.spotify.com/album/3Ba69of6UprDdYXUFqi7Kx) | 3:37 |
+| 1054 | [Catching Matches](https://open.spotify.com/track/6E6mN52PjtMl9I0fEtPdLL) | [Dymer](https://open.spotify.com/artist/31uajf71LLM3lkx3jG05Tv) | [The End Is Always Nigh, The End Is Never Now](https://open.spotify.com/album/7azdUfeULBd4TBHO1NKoUy) | 3:28 |
 
-Snapshot ID: `AAAENf88kdX0ikhbEutVweE8w40O1rOz`
+Snapshot ID: `AAAERTX8AopiL0JlgrW22oRAFEpRpoE7`

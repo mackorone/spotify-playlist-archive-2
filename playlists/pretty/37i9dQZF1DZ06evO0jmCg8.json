@@ -1,12 +1,12 @@
 {
   "description": "This is Arch Enemy. The essential tracks, all in one playlist.",
-  "num_followers": 81124,
+  "num_followers": 81128,
   "original_name": "This Is Arch Enemy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAABV1H+smMsbyB3PhoaY4PtC",
+  "snapshot_id": "ajXYAAAAAAAjAWVs6B/OmC2+s7OIsQhf",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood Dynasty",
-        "url": "https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 225840,
-      "name": "A Million Suns",
-      "url": "https://open.spotify.com/track/0RXtkfxtmUFb7kcDTXQfYk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anthems of Rebellion",
         "url": "https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7"
       },
@@ -475,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Khaos Legions",
-        "url": "https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX"
+        "name": "Blood Dynasty",
+        "url": "https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8"
       },
       "artists": [
         {
@@ -484,9 +468,25 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 280826,
-      "name": "Under Black Flags We March",
-      "url": "https://open.spotify.com/track/3w9DBYm53qG0dnVdXit9nr"
+      "duration_ms": 225840,
+      "name": "A Million Suns",
+      "url": "https://open.spotify.com/track/0RXtkfxtmUFb7kcDTXQfYk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doomsday Machine",
+        "url": "https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 252053,
+      "name": "Carry the Cross",
+      "url": "https://open.spotify.com/track/5GnJy3HRwswXKX3rmffErf"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doomsday Machine",
-        "url": "https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS"
+        "name": "Khaos Legions",
+        "url": "https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 252053,
-      "name": "Carry the Cross",
-      "url": "https://open.spotify.com/track/5GnJy3HRwswXKX3rmffErf"
+      "duration_ms": 280826,
+      "name": "Under Black Flags We March",
+      "url": "https://open.spotify.com/track/3w9DBYm53qG0dnVdXit9nr"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Khaos Legions",
-        "url": "https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 289000,
-      "name": "Bloodstained Cross",
-      "url": "https://open.spotify.com/track/5GLFAymISsbuFDjGEtppMV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blood Dynasty (Expanded Deluxe Edition)",
         "url": "https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY"
       },
@@ -587,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Will To Power",
-        "url": "https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2"
+        "name": "Khaos Legions",
+        "url": "https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX"
       },
       "artists": [
         {
@@ -596,9 +580,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 235426,
-      "name": "Blood in the Water",
-      "url": "https://open.spotify.com/track/12pova27n3uHRQxrPnih9f"
+      "duration_ms": 289000,
+      "name": "Bloodstained Cross",
+      "url": "https://open.spotify.com/track/5GLFAymISsbuFDjGEtppMV"
     },
     {
       "added_at": null,
@@ -615,6 +599,22 @@
       "duration_ms": 259693,
       "name": "Enemy Within",
       "url": "https://open.spotify.com/track/64byKssQy7aEEgACgP5Gys"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Will To Power",
+        "url": "https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 235426,
+      "name": "Blood in the Water",
+      "url": "https://open.spotify.com/track/12pova27n3uHRQxrPnih9f"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood Dynasty (Expanded Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 47893,
-      "name": "Presage",
-      "url": "https://open.spotify.com/track/25HZHTKy9gkPwSCJMsmzpy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wages of Sin",
         "url": "https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 255133,
       "name": "Burning Angel",
       "url": "https://open.spotify.com/track/4OPnLRsM1PXQ5s3h1M9y0b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blood Dynasty (Expanded Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 47893,
+      "name": "Presage",
+      "url": "https://open.spotify.com/track/25HZHTKy9gkPwSCJMsmzpy"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rise of the Tyrant",
-        "url": "https://open.spotify.com/album/4ghmUVjSEgjv96xEARObbl"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 251586,
-      "name": "Revolution Begins",
-      "url": "https://open.spotify.com/track/1n6Iqdr5XQ6F4o0vvqmFjx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wages of Sin",
         "url": "https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 233000,
       "name": "Dead Bury Their Dead",
       "url": "https://open.spotify.com/track/3DrLHrmq5E0wEJlPw5Q1yJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rise of the Tyrant",
+        "url": "https://open.spotify.com/album/4ghmUVjSEgjv96xEARObbl"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 251586,
+      "name": "Revolution Begins",
+      "url": "https://open.spotify.com/track/1n6Iqdr5XQ6F4o0vvqmFjx"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rise of the Tyrant",
-        "url": "https://open.spotify.com/album/4ghmUVjSEgjv96xEARObbl"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 281386,
-      "name": "Blood On Your Hands",
-      "url": "https://open.spotify.com/track/122dV7zqPVekyeVmJQXnvD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wages of Sin",
         "url": "https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 291533,
       "name": "Heart of Darkness",
       "url": "https://open.spotify.com/track/4OQ08jPQlzsufwogvCjKwB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rise of the Tyrant",
+        "url": "https://open.spotify.com/album/4ghmUVjSEgjv96xEARObbl"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 281386,
+      "name": "Blood On Your Hands",
+      "url": "https://open.spotify.com/track/122dV7zqPVekyeVmJQXnvD"
     }
   ],
   "unique_name": "This Is Arch Enemy",

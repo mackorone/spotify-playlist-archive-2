@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: Meridian Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,767 likes - 60 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,763 likes - 60 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 22 | [Sin Freno](https://open.spotify.com/track/24drvQN3WTdQE2wzR37GAb) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k), [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Astra](https://open.spotify.com/album/4OAUrKQYGBtbThIVRIAVQx) | 5:13 |
 | 23 | [Bogotá](https://open.spotify.com/track/0OUM4ALGSMsPcQB56RFpd9) | [La Payara](https://open.spotify.com/artist/4AIoRABXF7oeowVHCspvo8) | [Conciencia](https://open.spotify.com/album/3kEZQaZLXKbs0nljnRMRnc) | 3:30 |
 | 24 | [Como Lo Pedí](https://open.spotify.com/track/2UTNZlatDykZEdZTrSFE4x) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Fuego](https://open.spotify.com/album/46DsjNFAHuGGjMfo1TAyct) | 4:05 |
-| 25 | [Tamarugal \(Para de Mirarme\)](https://open.spotify.com/track/737ifSsVNWrDFKeGnGVp6A) | [Felipe Schuster](https://open.spotify.com/artist/0qFRRA7zKheBLIsqHA2ouE) | [La Montaña](https://open.spotify.com/album/3aUiHq5tSrFLsF3GtoyDGV) | 3:33 |
-| 26 | [Efecto Manglar](https://open.spotify.com/track/6nZXV4QBvUomA2XPYnbEFc) | [Black Mambo](https://open.spotify.com/artist/0wNHERYaIvq0Q6fPWrEyYJ), [Ácido Pantera](https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW) | [Efecto Manglar](https://open.spotify.com/album/6yE10mtUlGMVyTH7J7gnyz) | 5:08 |
+| 25 | [Efecto Manglar](https://open.spotify.com/track/6nZXV4QBvUomA2XPYnbEFc) | [Black Mambo](https://open.spotify.com/artist/0wNHERYaIvq0Q6fPWrEyYJ), [Ácido Pantera](https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW) | [Efecto Manglar](https://open.spotify.com/album/6yE10mtUlGMVyTH7J7gnyz) | 5:08 |
+| 26 | [Tamarugal \(Para de Mirarme\)](https://open.spotify.com/track/737ifSsVNWrDFKeGnGVp6A) | [Felipe Schuster](https://open.spotify.com/artist/0qFRRA7zKheBLIsqHA2ouE) | [La Montaña](https://open.spotify.com/album/3aUiHq5tSrFLsF3GtoyDGV) | 3:33 |
 | 27 | [Nene](https://open.spotify.com/track/4072ATOEodtwhvqNn6YZ40) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k) | [Nene](https://open.spotify.com/album/0tgy5chY8udqVnwvAoFMBG) | 3:21 |
 | 28 | [Bleu de lune \(El Buho Remix\)](https://open.spotify.com/track/4FKT3e93KFlXf5KBh715EV) | [Zoufris Maracas](https://open.spotify.com/artist/2aW5pvTZYAAZxbh75uVzZD), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Bleu de lune \(El Buho Remix\)](https://open.spotify.com/album/1NB4UnMNf4SOXCY7iIIdyZ) | 4:41 |
 | 29 | [Resistencia](https://open.spotify.com/track/5djxB6YBAiznofQnUsMCet) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Recuerdos de Expiación](https://open.spotify.com/album/7mRiMo2ciSNhFF85xDEuUN) | 3:12 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 56 | [Baquiné](https://open.spotify.com/track/790wrIpx3y6WieD6FR7xh2) | [Ampersan](https://open.spotify.com/artist/5A7ayYKcSsydP31DqS4vQW) | [Baquiné](https://open.spotify.com/album/3tEpnzOPwroGkPUIdAHoUG) | 4:32 |
 | 57 | [Amanecerá \- Bial Hclap Remix](https://open.spotify.com/track/6xr1SVBNWy2ZCZIk4CPf8j) | [Montañera](https://open.spotify.com/artist/7bgO3Md82fHRDoFY1HnYlv), [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1) | [Amanecerá \(Bial Hclap Remix\)](https://open.spotify.com/album/0LpvThgcIor5tzATUijCrx) | 3:06 |
 | 58 | [Currulao Version](https://open.spotify.com/track/0tCCY12EmCOF8KSbJjpKKo) | [Dub Across Borders](https://open.spotify.com/artist/7c7NsrA9itbqcg9hvVAxK4) | [Por ti me voy](https://open.spotify.com/album/4Kxe5SQsLmD64rPIivJVil) | 5:17 |
-| 59 | [Reasons to Fight \(feat\. Ziggy Marley\)](https://open.spotify.com/track/1828klsRwI6LODnQ7dg5jG) | [Trending Tropics](https://open.spotify.com/artist/0zMG6jvwyAyy2MDrxB7vpC), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Trending Tropics](https://open.spotify.com/album/1TpBabkFoMsanBmClrqu2V) | 5:12 |
-| 60 | [Chureito en la mañana](https://open.spotify.com/track/1mRkO12GcDopMRRW9o4p5c) | [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6), [Bejuco](https://open.spotify.com/artist/4zlSN95eTYn6VD5wtWFkTk) | [Chureito en la Mañana](https://open.spotify.com/album/5B9smDQD7JTx7n6XPhqD6V) | 4:38 |
+| 59 | [Chureito en la mañana](https://open.spotify.com/track/1mRkO12GcDopMRRW9o4p5c) | [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6), [Bejuco](https://open.spotify.com/artist/4zlSN95eTYn6VD5wtWFkTk) | [Chureito en la Mañana](https://open.spotify.com/album/5B9smDQD7JTx7n6XPhqD6V) | 4:38 |
+| 60 | [Reasons to Fight \(feat\. Ziggy Marley\)](https://open.spotify.com/track/1828klsRwI6LODnQ7dg5jG) | [Trending Tropics](https://open.spotify.com/artist/0zMG6jvwyAyy2MDrxB7vpC), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Trending Tropics](https://open.spotify.com/album/1TpBabkFoMsanBmClrqu2V) | 5:12 |
 
 Snapshot ID: `AAAAAFBaofeEF39ABXwsbBYV2wV94SMl`

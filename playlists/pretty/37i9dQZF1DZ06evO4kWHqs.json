@@ -1,12 +1,12 @@
 {
   "description": "This is SadBoi. The essential tracks, all in one playlist.",
-  "num_followers": 429,
+  "num_followers": 430,
   "original_name": "This Is SadBoi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAAD7fPi07AXIoQugmxsq8Kvl",
+  "snapshot_id": "ajXYAAAAAAAL+nHcFMyIhsd4hl5R/KnM",
   "tracks": [
     {
       "added_at": null,
@@ -711,18 +711,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sister Wives",
-        "url": "https://open.spotify.com/album/4mLU0rGW0GooTEbWEaLNLt"
+        "name": "Easy Go! (SadBoi Remix)",
+        "url": "https://open.spotify.com/album/52Yo3AMJWez7caHauDDhT9"
       },
       "artists": [
+        {
+          "name": "Raghd",
+          "url": "https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw"
+        },
         {
           "name": "SadBoi",
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
         }
       ],
-      "duration_ms": 198842,
-      "name": "Sister Wives",
-      "url": "https://open.spotify.com/track/2m1GCnwvUjyjIZp3WXjOoU"
+      "duration_ms": 150017,
+      "name": "Easy Go! - SadBoi Remix",
+      "url": "https://open.spotify.com/track/3ZCXPRcZHn9vzc3Gr5374j"
     },
     {
       "added_at": null,
@@ -747,22 +751,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Easy Go! (SadBoi Remix)",
-        "url": "https://open.spotify.com/album/52Yo3AMJWez7caHauDDhT9"
+        "name": "Sister Wives",
+        "url": "https://open.spotify.com/album/4mLU0rGW0GooTEbWEaLNLt"
       },
       "artists": [
-        {
-          "name": "Raghd",
-          "url": "https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw"
-        },
         {
           "name": "SadBoi",
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
         }
       ],
-      "duration_ms": 150017,
-      "name": "Easy Go! - SadBoi Remix",
-      "url": "https://open.spotify.com/track/3ZCXPRcZHn9vzc3Gr5374j"
+      "duration_ms": 198842,
+      "name": "Sister Wives",
+      "url": "https://open.spotify.com/track/2m1GCnwvUjyjIZp3WXjOoU"
     },
     {
       "added_at": null,

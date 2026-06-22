@@ -1,12 +1,12 @@
 {
   "description": "This is Krewella. The essential tracks, all in one playlist.",
-  "num_followers": 28186,
+  "num_followers": 28184,
   "original_name": "This Is Krewella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAADD9NQFiUACanO64cwmFHBX",
+  "snapshot_id": "ajXYAAAAAABAQAdQ0IijiOikH6X0rmyc",
   "tracks": [
     {
       "added_at": null,
@@ -223,30 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love // Chaos",
-        "url": "https://open.spotify.com/album/3Iz1TViTuDQ6C7Cyn5CD7k"
-      },
-      "artists": [
-        {
-          "name": "Adventure Club",
-          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
-        },
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        },
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 186853,
-      "name": "Next Life (feat. Krewella)",
-      "url": "https://open.spotify.com/track/1s9PSUpePBIkHH1hKjFQ32"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Song to the Earth",
         "url": "https://open.spotify.com/album/5DZQzPTCPCpLGKQrG9iTPl"
       },
@@ -319,6 +295,30 @@
       "duration_ms": 231679,
       "name": "Love Song to the Earth",
       "url": "https://open.spotify.com/track/2Rbq28aQomoEswOXeK27CE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love // Chaos",
+        "url": "https://open.spotify.com/album/3Iz1TViTuDQ6C7Cyn5CD7k"
+      },
+      "artists": [
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        },
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 186853,
+      "name": "Next Life (feat. Krewella)",
+      "url": "https://open.spotify.com/track/1s9PSUpePBIkHH1hKjFQ32"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New World Pt. 1",
-        "url": "https://open.spotify.com/album/2Ar8jEA2FlEofQbzLZAcXz"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 198822,
-      "name": "Be There",
-      "url": "https://open.spotify.com/track/7K0pKyU2oYG8TJHXXyEHGy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alarm",
         "url": "https://open.spotify.com/album/6CCEPNPiwlWdgs571YhWf5"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 225428,
       "name": "Alarm",
       "url": "https://open.spotify.com/track/6ZRenQ13CN0GaOnuKL9QNQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New World Pt. 1",
+        "url": "https://open.spotify.com/album/2Ar8jEA2FlEofQbzLZAcXz"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 198822,
+      "name": "Be There",
+      "url": "https://open.spotify.com/track/7K0pKyU2oYG8TJHXXyEHGy"
     },
     {
       "added_at": null,
@@ -679,30 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "zer0 (The Remixes, Pt. 1)",
-        "url": "https://open.spotify.com/album/1tKNZiieRvhgkQce7FufKC"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        },
-        {
-          "name": "Nucleya",
-          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
-        },
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        }
-      ],
-      "duration_ms": 156190,
-      "name": "Good On You - MOTi Remix",
-      "url": "https://open.spotify.com/track/30PysXbn5cVodLBPGV2FWb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Superstar",
         "url": "https://open.spotify.com/album/2ZklcEqT1pZUX0hTNFNVOa"
       },
@@ -723,6 +699,30 @@
       "duration_ms": 204800,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/49mrGrTON4QYZri9gEHSFl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "zer0 (The Remixes, Pt. 1)",
+        "url": "https://open.spotify.com/album/1tKNZiieRvhgkQce7FufKC"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        },
+        {
+          "name": "Nucleya",
+          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
+        },
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "duration_ms": 156190,
+      "name": "Good On You - MOTi Remix",
+      "url": "https://open.spotify.com/track/30PysXbn5cVodLBPGV2FWb"
     },
     {
       "added_at": null,

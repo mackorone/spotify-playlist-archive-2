@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 
 > This is 2Baba\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,469 likes - 49 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,470 likes - 49 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 | 48 | [Human Being \(feat\. 2Face & Sound Sultan\)](https://open.spotify.com/track/5S9hSYitsTwmhBYKjsDOEC) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Sound Sultan](https://open.spotify.com/artist/3ncebjXyf0NwYMutzK2DNg) | [The Chairman](https://open.spotify.com/album/4CyMWcn79EcDbYi8MgSOKM) | 5:47 |
 | 49 | [Officially Blind](https://open.spotify.com/track/1sEG4j3BPpYyT4hFBQ2M4N) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Officially Blind](https://open.spotify.com/album/4VbAu57Fzi3DRW6opWs0C9) | 3:07 |
 
-Snapshot ID: `ajSGgAAAAACGQlvoYI5AiG+WygIzrNnp`
+Snapshot ID: `ajXYAAAAAABP3YviYoqjxRYlPAUJvvNk`

@@ -4,7 +4,7 @@
 
 > Hits terpanas dari Pamungkas, enau, Ari Lesmana, Ariana Grande, Bruno Mars serta artis terfavorit Anda dari dalam negeri dan mancanegara.
 
-394 songs - 1 day 0 hr 26 min
+395 songs - 1 day 0 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,7 @@
 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2023-03-23 | 2023-04-21 |
 | [Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:40 | 2024-03-28 | 2024-07-05 |
 | [Malam Rawan](https://open.spotify.com/track/6JBojdxAPtcPNfhFqmZEBt) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Malam Rawan](https://open.spotify.com/album/6K3f48VhTPIz9wFO1iQFOH) | 3:40 | 2025-10-17 | 2025-11-15 |
-| [MALU MALU](https://open.spotify.com/track/70mMQpJZwUuqardEybuaPP) | [dia](https://open.spotify.com/artist/6WgjNWwGACXaBy7NZripBu), [INDAHKUS](https://open.spotify.com/artist/1O4yyjVsY0VUpGMZiK7zNB) | [INI DIA](https://open.spotify.com/album/2zrnqv7JAhdID3uKiIxbUR) | 3:25 | 2026-04-10 |  |
+| [MALU MALU](https://open.spotify.com/track/70mMQpJZwUuqardEybuaPP) | [dia](https://open.spotify.com/artist/6WgjNWwGACXaBy7NZripBu), [INDAHKUS](https://open.spotify.com/artist/1O4yyjVsY0VUpGMZiK7zNB) | [INI DIA](https://open.spotify.com/album/2zrnqv7JAhdID3uKiIxbUR) | 3:25 | 2026-04-10 | 2026-06-22 |
 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 | 2025-06-06 | 2025-10-07 |
 | [Mangu](https://open.spotify.com/track/4e6TmHCC4PRUj75knNplNP) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj), [Charita Utami](https://open.spotify.com/artist/48yQuRfvklyupKmridU1du) | [Nalar](https://open.spotify.com/album/6XVW3zoK1nmskW7drvHy9h) | 4:21 | 2025-03-16 |  |
 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 | 2024-10-10 | 2025-01-25 |
@@ -266,6 +266,7 @@
 | [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 | 2026-02-27 |  |
 | [River](https://open.spotify.com/track/04CqLjewJiSAqM210vZAmT) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 2:42 | 2023-03-23 | 2023-04-21 |
 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 | 2024-06-28 | 2025-01-25 |
+| [rollerblade](https://open.spotify.com/track/3fL35dqYnnabdEp8Sln0lf) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [rollerblade](https://open.spotify.com/album/6TFeJFQOM62KtRRHe8fxGV) | 1:54 | 2026-06-22 |  |
 | [Rumah Singgah](https://open.spotify.com/track/3OTbh1VVrhebUzDor9r4pH) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [ASHER](https://open.spotify.com/album/2HNKo2vMGhc9wON4NDfb04) | 4:06 | 2024-07-25 | 2025-02-15 |
 | [Rumah Singgah](https://open.spotify.com/track/6raMBnVBIvvUngMLyDdzyP) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [ASHER](https://open.spotify.com/album/4km2qQIoGCCevm1Qf51OcE) | 4:06 | 2023-03-23 | 2023-09-08 |
 | [Running Wild](https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy \- :'\) \(Remixes\)](https://open.spotify.com/album/3nRmQ70bczWCLWyj1aRbt6) | 2:31 | 2024-12-06 | 2025-01-25 |

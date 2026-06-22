@@ -1,6 +1,6 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: Lijadu Sisters",
-  "num_followers": 131974,
+  "num_followers": 132016,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2025-09-30 11:32:09",
       "album": {
+        "name": "Love & Death",
+        "url": "https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5"
+      },
+      "artists": [
+        {
+          "name": "Ebo Taylor",
+          "url": "https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI"
+        }
+      ],
+      "duration_ms": 415090,
+      "name": "Love and Death",
+      "url": "https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44"
+    },
+    {
+      "added_at": "2025-09-30 11:32:09",
+      "album": {
         "name": "Sibongile",
         "url": "https://open.spotify.com/album/4RrSUmTqVB1mhabRH4KPGY"
       },
@@ -603,22 +619,6 @@
     {
       "added_at": "2025-09-30 11:32:09",
       "album": {
-        "name": "In Harmony",
-        "url": "https://open.spotify.com/album/1WhjbycsaQwSF00lQbGEAr"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 210613,
-      "name": "Nkosi Sikelel' iAfrika (Shosholoza Mix)",
-      "url": "https://open.spotify.com/track/4aMIL5JKiu1S4KwKbxRHsW"
-    },
-    {
-      "added_at": "2025-09-30 11:32:09",
-      "album": {
         "name": "Zombie",
         "url": "https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6"
       },
@@ -639,6 +639,22 @@
     {
       "added_at": "2025-09-30 11:32:09",
       "album": {
+        "name": "In Harmony",
+        "url": "https://open.spotify.com/album/1WhjbycsaQwSF00lQbGEAr"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 210613,
+      "name": "Nkosi Sikelel' iAfrika (Shosholoza Mix)",
+      "url": "https://open.spotify.com/track/4aMIL5JKiu1S4KwKbxRHsW"
+    },
+    {
+      "added_at": "2025-09-30 11:32:09",
+      "album": {
         "name": "Life Stories",
         "url": "https://open.spotify.com/album/5vf9w7uDuKx6FbaC82TlYg"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 365693,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/6lx5aHjUesS2XEyLxXknLQ"
-    },
-    {
-      "added_at": "2025-09-30 11:32:09",
-      "album": {
-        "name": "Daddy Lumba Essentials",
-        "url": "https://open.spotify.com/album/5DnSlaXpIKEvWgMEDhPyUE"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        }
-      ],
-      "duration_ms": 337606,
-      "name": "Theresa",
-      "url": "https://open.spotify.com/track/6YJQB5lQWD4GrYZA1SFmB6"
     }
   ],
   "unique_name": "Classic Afropop",

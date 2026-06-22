@@ -1,12 +1,12 @@
 {
   "description": "This is ZZ Top. The essential tracks, all in one playlist.",
-  "num_followers": 262668,
+  "num_followers": 262680,
   "original_name": "This Is ZZ Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAACXtSO9VSs9pa+LgRJZTTWy",
+  "snapshot_id": "ajXYAAAAAACdM1JTvFcMEKVXetf+FJtb",
   "tracks": [
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "RAW (\u2018That Little Ol' Band From Texas\u2019 Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1ffoQmr9pU3NXGz15QwKZw"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 281586,
+      "name": "La Grange",
+      "url": "https://open.spotify.com/track/2YgjwTiG85B2tvqmdRNpba"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Recycler",
         "url": "https://open.spotify.com/album/4ItwdwD5kWC4Wa9tIl0eEq"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 288400,
       "name": "Cheap Sunglasses",
       "url": "https://open.spotify.com/track/2te8SC3btY8aSBtOLTQFie"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RAW (\u2018That Little Ol' Band From Texas\u2019 Original Soundtrack)",
-        "url": "https://open.spotify.com/album/1ffoQmr9pU3NXGz15QwKZw"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 281586,
-      "name": "La Grange",
-      "url": "https://open.spotify.com/track/2YgjwTiG85B2tvqmdRNpba"
     },
     {
       "added_at": null,

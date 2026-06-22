@@ -1,6 +1,6 @@
 {
   "description": "Artistas LGBTQIA+ que brillan e inspiran.\nCover: Ruzzi",
-  "num_followers": 137174,
+  "num_followers": 137181,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2026-05-19 00:14:35",
       "album": {
+        "name": "Malegr\u00eda",
+        "url": "https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "duration_ms": 180646,
+      "name": "Conexi\u00f3n Ancestral",
+      "url": "https://open.spotify.com/track/3EjDI8FK3fMTVWNeclSP8v"
+    },
+    {
+      "added_at": "2026-05-19 00:14:35",
+      "album": {
         "name": "Madrugadas de nada",
         "url": "https://open.spotify.com/album/2GxuCSR5rGJuQCnp6eHLY5"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 217672,
       "name": "Madrugadas de nada",
       "url": "https://open.spotify.com/track/0HVfDPycENd4Y1i1ttkYMN"
-    },
-    {
-      "added_at": "2026-05-19 00:14:35",
-      "album": {
-        "name": "Malegr\u00eda",
-        "url": "https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4"
-      },
-      "artists": [
-        {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
-        }
-      ],
-      "duration_ms": 180646,
-      "name": "Conexi\u00f3n Ancestral",
-      "url": "https://open.spotify.com/track/3EjDI8FK3fMTVWNeclSP8v"
     },
     {
       "added_at": "2026-05-19 00:14:35",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-05-19 00:14:35",
       "album": {
-        "name": "EASY BOY",
-        "url": "https://open.spotify.com/album/0HhtQpQQZE43qLFJ9TJ2pd"
-      },
-      "artists": [
-        {
-          "name": "La Cruz",
-          "url": "https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ"
-        }
-      ],
-      "duration_ms": 176326,
-      "name": "EASY BOY",
-      "url": "https://open.spotify.com/track/4f6bRqMzm8HEJIbZI2RkbB"
-    },
-    {
-      "added_at": "2026-05-19 00:14:35",
-      "album": {
         "name": "escrita",
         "url": "https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 202282,
       "name": "m\u00e1s y menos",
       "url": "https://open.spotify.com/track/5RxXLXdfznLfRGMfEPyt0a"
+    },
+    {
+      "added_at": "2026-05-19 00:14:35",
+      "album": {
+        "name": "EASY BOY",
+        "url": "https://open.spotify.com/album/0HhtQpQQZE43qLFJ9TJ2pd"
+      },
+      "artists": [
+        {
+          "name": "La Cruz",
+          "url": "https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ"
+        }
+      ],
+      "duration_ms": 176326,
+      "name": "EASY BOY",
+      "url": "https://open.spotify.com/track/4f6bRqMzm8HEJIbZI2RkbB"
     },
     {
       "added_at": "2026-05-19 00:14:35",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-05-19 00:14:35",
       "album": {
-        "name": "M\u00e1s Que Amigas",
-        "url": "https://open.spotify.com/album/2tgiIMkITUGSyQaUVjtMpf"
-      },
-      "artists": [
-        {
-          "name": "BRUSES",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 161571,
-      "name": "M\u00e1s Que Amigas",
-      "url": "https://open.spotify.com/track/7vKgCQQc1gjudgVX4SALki"
-    },
-    {
-      "added_at": "2026-05-19 00:14:35",
-      "album": {
         "name": "Otros Ritmos",
         "url": "https://open.spotify.com/album/04s9wRdnHcOxBsz2swbiNc"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 222115,
       "name": "Otros Ritmos",
       "url": "https://open.spotify.com/track/090MzGykdRx3XjeQAuUOlE"
+    },
+    {
+      "added_at": "2026-05-19 00:14:35",
+      "album": {
+        "name": "M\u00e1s Que Amigas",
+        "url": "https://open.spotify.com/album/2tgiIMkITUGSyQaUVjtMpf"
+      },
+      "artists": [
+        {
+          "name": "BRUSES",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 161571,
+      "name": "M\u00e1s Que Amigas",
+      "url": "https://open.spotify.com/track/7vKgCQQc1gjudgVX4SALki"
     },
     {
       "added_at": "2026-05-19 00:14:35",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-05-19 00:14:35",
       "album": {
-        "name": "Ya No Es Lo Mismo",
-        "url": "https://open.spotify.com/album/60ks7eHWtmz6Wvbdx8k7DG"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 229573,
-      "name": "Ya No Es Lo Mismo",
-      "url": "https://open.spotify.com/track/3TNEAG1g4e32EyEzy7FqqC"
-    },
-    {
-      "added_at": "2026-05-19 00:14:35",
-      "album": {
         "name": "Multicolor",
         "url": "https://open.spotify.com/album/6f1t2zPTfzFJ8CEbzOsqxF"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 220777,
       "name": "Multicolor",
       "url": "https://open.spotify.com/track/5ltWXcgwXQTlEYAufeo5g6"
+    },
+    {
+      "added_at": "2026-05-19 00:14:35",
+      "album": {
+        "name": "Ya No Es Lo Mismo",
+        "url": "https://open.spotify.com/album/60ks7eHWtmz6Wvbdx8k7DG"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "Ya No Es Lo Mismo",
+      "url": "https://open.spotify.com/track/3TNEAG1g4e32EyEzy7FqqC"
     },
     {
       "added_at": "2026-05-19 00:14:35",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2026-05-19 00:14:35",
       "album": {
+        "name": "Bailemos en la Sala",
+        "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        }
+      ],
+      "duration_ms": 244088,
+      "name": "Bailemos en la Sala",
+      "url": "https://open.spotify.com/track/570Ct7gYSSC3bXiNkSFryX"
+    },
+    {
+      "added_at": "2026-05-19 00:14:35",
+      "album": {
         "name": "Drama Pop",
         "url": "https://open.spotify.com/album/6R4OZmoA8oEf2E2fyeUfkR"
       },
@@ -1279,18 +1295,18 @@
     {
       "added_at": "2026-05-19 00:14:35",
       "album": {
-        "name": "Bailemos en la Sala",
-        "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
+        "name": "Kick",
+        "url": "https://open.spotify.com/album/7vG4sP0DjiSzPPihnuXnLL"
       },
       "artists": [
         {
-          "name": "Adri\u00e1n Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
         }
       ],
-      "duration_ms": 244088,
-      "name": "Bailemos en la Sala",
-      "url": "https://open.spotify.com/track/570Ct7gYSSC3bXiNkSFryX"
+      "duration_ms": 163348,
+      "name": "Prada",
+      "url": "https://open.spotify.com/track/5MN4hnNta44Ezm2dfajQB0"
     },
     {
       "added_at": "2026-05-19 00:14:35",
@@ -1315,18 +1331,18 @@
     {
       "added_at": "2026-05-19 00:14:35",
       "album": {
-        "name": "Kick",
-        "url": "https://open.spotify.com/album/7vG4sP0DjiSzPPihnuXnLL"
+        "name": "Soy Asi",
+        "url": "https://open.spotify.com/album/6LKhRfBpI3Osjue9OgxWUl"
       },
       "artists": [
         {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+          "name": "Kevin Fret",
+          "url": "https://open.spotify.com/artist/2qljieCcALPZhtxYzQVLDM"
         }
       ],
-      "duration_ms": 163348,
-      "name": "Prada",
-      "url": "https://open.spotify.com/track/5MN4hnNta44Ezm2dfajQB0"
+      "duration_ms": 232362,
+      "name": "Soy Asi",
+      "url": "https://open.spotify.com/track/7qYCZTW9lkTYqvmat6S3RJ"
     },
     {
       "added_at": "2026-05-19 00:14:35",
@@ -1343,22 +1359,6 @@
       "duration_ms": 165874,
       "name": "t hice gay :$",
       "url": "https://open.spotify.com/track/1DUN1BbGpJGOKx0EuD9wHt"
-    },
-    {
-      "added_at": "2026-05-19 00:14:35",
-      "album": {
-        "name": "Soy Asi",
-        "url": "https://open.spotify.com/album/6LKhRfBpI3Osjue9OgxWUl"
-      },
-      "artists": [
-        {
-          "name": "Kevin Fret",
-          "url": "https://open.spotify.com/artist/2qljieCcALPZhtxYzQVLDM"
-        }
-      ],
-      "duration_ms": 232362,
-      "name": "Soy Asi",
-      "url": "https://open.spotify.com/track/7qYCZTW9lkTYqvmat6S3RJ"
     },
     {
       "added_at": "2026-05-19 00:14:35",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-05-19 00:14:35",
       "album": {
-        "name": "A La Playa",
-        "url": "https://open.spotify.com/album/00FBTtbNuQhQqSGIMNSHjU"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
-        }
-      ],
-      "duration_ms": 193870,
-      "name": "A La Playa",
-      "url": "https://open.spotify.com/track/2MANpdplWDEAnmHC2GA42W"
-    },
-    {
-      "added_at": "2026-05-19 00:14:35",
-      "album": {
         "name": "Canciones de Amor",
         "url": "https://open.spotify.com/album/1xyRm4Ti9USkm9sVTwVfXU"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 194043,
       "name": "Canciones de Amor",
       "url": "https://open.spotify.com/track/1RjmeNxL0KNM0KTH8aySAO"
+    },
+    {
+      "added_at": "2026-05-19 00:14:35",
+      "album": {
+        "name": "A La Playa",
+        "url": "https://open.spotify.com/album/00FBTtbNuQhQqSGIMNSHjU"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        }
+      ],
+      "duration_ms": 193870,
+      "name": "A La Playa",
+      "url": "https://open.spotify.com/track/2MANpdplWDEAnmHC2GA42W"
     },
     {
       "added_at": "2026-05-19 00:14:35",

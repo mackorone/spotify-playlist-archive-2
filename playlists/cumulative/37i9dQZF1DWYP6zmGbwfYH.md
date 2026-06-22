@@ -4,7 +4,7 @@
 
 > El icuiricui, el matalacachimba y el ruletero.
 
-351 songs - 20 hr 42 min
+352 songs - 20 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Notas De Sociedad](https://open.spotify.com/track/5PnGn9vbyCzHKNT2PpFeR0) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [Por Siempre](https://open.spotify.com/album/1bImnfk8i3lgo4XNyqoV8l) | 3:01 | 2021-10-12 | 2026-01-22 |
 | [Nuestra Canción](https://open.spotify.com/track/6t86si8IaIgLHEuZnaha33) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs) | [20th Anniversary Series](https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX) | 3:22 | 2023-06-02 | 2024-03-16 |
 | [Nuestra Canción](https://open.spotify.com/track/5o4hMBr9ovkytff8TBHreg) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs) | [Tesoros De Coleccion](https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda) | 3:23 | 2021-10-12 | 2023-05-26 |
+| [Nuestra Pobreza](https://open.spotify.com/track/3jRkFiUmUKlF0jMzI2NMc6) | [Joe Rodriguez](https://open.spotify.com/artist/72OLjE8BPRg2SZOeGjV2PW) | [Pídeme](https://open.spotify.com/album/1RrDX24HHQ1d8kpg2urVZM) | 3:21 | 2026-01-21 |  |
 | [O Me Voy O Te Vas](https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [O Me Voy O Te Vas](https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97) | 4:02 | 2023-11-09 | 2024-01-27 |
 | [Obsesión](https://open.spotify.com/track/5iDUrvgLFYz6402MFCjoht) | [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Y Seguimos Con Duranguense](https://open.spotify.com/album/3amg00222tTaGeh10Xc2kR) | 3:35 | 2021-10-12 |  |
 | [Ojitos Lindos](https://open.spotify.com/track/6fON6XAgh3MWT1QBw4katd) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Aesthetic](https://open.spotify.com/album/5tkoilf1HLk0ooGtaS8Okp) | 3:36 | 2023-11-09 | 2024-01-27 |
@@ -346,7 +347,7 @@
 | [Voy a pintar un corazón](https://open.spotify.com/track/5viiB7rsZZ6WZaWMHjTWSG) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Vivencias](https://open.spotify.com/album/56mu4xH2JACoVGZhr3f6KZ) | 3:28 | 2021-10-12 |  |
 | [Voy a pintar un corazón](https://open.spotify.com/track/6ztkxjvne5bjzUUnoskShx) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Album de Oro](https://open.spotify.com/album/7yZcbdxZv4trwSe3RfY8LE) | 3:28 | 2021-10-12 | 2024-04-19 |
 | [Y Así Fue](https://open.spotify.com/track/6rmVv5Nh80OfI8qWxHiyY2) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Soy Lo Que Quiero..\. Indispensable \(Edición Especial\)](https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb) | 2:46 | 2022-06-20 |  |
-| [Y Si Te Quedas, Que?](https://open.spotify.com/track/42X4cUqxpcu0wRhazXplak) | [Carlos D'Castro](https://open.spotify.com/artist/0GhPz9EJN7w5QcZRc54NeE) | [Y Si Te Quedas, Que?](https://open.spotify.com/album/4dAkXsd5DLwTJjT0enyi2Q) | 4:22 | 2026-01-21 |  |
+| [Y Si Te Quedas, Que?](https://open.spotify.com/track/42X4cUqxpcu0wRhazXplak) | [Carlos D'Castro](https://open.spotify.com/artist/0GhPz9EJN7w5QcZRc54NeE) | [Y Si Te Quedas, Que?](https://open.spotify.com/album/4dAkXsd5DLwTJjT0enyi2Q) | 4:22 | 2026-01-21 | 2026-06-22 |
 | [Y Sigues Siendo Tú](https://open.spotify.com/track/4AGPU9325LRTIBsBSJ5v75) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Haciendo Magia](https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy) | 2:35 | 2023-06-02 | 2024-01-27 |
 | [Y yo que te amo](https://open.spotify.com/track/5an6zLElxCiCAEbeInEqRY) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Con paso sensual](https://open.spotify.com/album/7GQTANMGR0SlhvqbP1yw4A) | 3:16 | 2025-08-13 |  |
 | [Ya Borracho](https://open.spotify.com/track/4NyUIohBa3CEMGcXURYSOh) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Noches Sin Fin](https://open.spotify.com/album/465rqQUVN9J9KTCphdfAKM) | 2:38 | 2026-01-21 |  |

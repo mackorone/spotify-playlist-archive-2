@@ -1,12 +1,12 @@
 {
   "description": "This is Lakeyah. The essential tracks, all in one playlist.",
-  "num_followers": 3931,
+  "num_followers": 3932,
   "original_name": "This Is Lakeyah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAAAqTIz95pNQlUqUGCnqdxbq",
+  "snapshot_id": "ajXYAAAAAABF4CfOTc5qepHEhqUr8xG+",
   "tracks": [
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "HERSKIII",
-        "url": "https://open.spotify.com/album/38JmIfXjU8a4rzXXfVhaYc"
+        "name": "Don't Go",
+        "url": "https://open.spotify.com/album/6bcHeawDcb8LE6VWSdWh8H"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
         }
       ],
-      "duration_ms": 120774,
-      "name": "HERSKIII",
-      "url": "https://open.spotify.com/track/56S3eKpkoFAslFnVWlzlxx"
+      "duration_ms": 178857,
+      "name": "Don\u2019t Go",
+      "url": "https://open.spotify.com/track/5de4ov0wqSliqRzzPIq1iw"
     },
     {
       "added_at": null,
@@ -303,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Go",
-        "url": "https://open.spotify.com/album/6bcHeawDcb8LE6VWSdWh8H"
+        "name": "HERSKIII",
+        "url": "https://open.spotify.com/album/38JmIfXjU8a4rzXXfVhaYc"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
         }
       ],
-      "duration_ms": 178857,
-      "name": "Don\u2019t Go",
-      "url": "https://open.spotify.com/track/5de4ov0wqSliqRzzPIq1iw"
+      "duration_ms": 120774,
+      "name": "HERSKIII",
+      "url": "https://open.spotify.com/track/56S3eKpkoFAslFnVWlzlxx"
     },
     {
       "added_at": null,
@@ -599,42 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ETHER",
-        "url": "https://open.spotify.com/album/3mirEbkWRb68aRgUGMeZkA"
-      },
-      "artists": [
-        {
-          "name": "Big Boogie",
-          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
-        },
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 194676,
-      "name": "WATER (with Lakeyah)",
-      "url": "https://open.spotify.com/track/364P8zq6aNHvuEH3Io4SIi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WANT EM HOOD",
-        "url": "https://open.spotify.com/album/5RDX2YRAeBPI5ayzMqHubO"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 165517,
-      "name": "WANT EM HOOD",
-      "url": "https://open.spotify.com/track/36tZ01gUYSQVF29hqYx5Xa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "incua (special edition)",
         "url": "https://open.spotify.com/album/1NJuOCEopoGxavyU2T0Y7t"
       },
@@ -667,6 +631,42 @@
       "duration_ms": 254915,
       "name": "FYT (Fuckin you tonight)",
       "url": "https://open.spotify.com/track/0tDpmDKQVeoFtXb15iR0sM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ETHER",
+        "url": "https://open.spotify.com/album/3mirEbkWRb68aRgUGMeZkA"
+      },
+      "artists": [
+        {
+          "name": "Big Boogie",
+          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 194676,
+      "name": "WATER (with Lakeyah)",
+      "url": "https://open.spotify.com/track/364P8zq6aNHvuEH3Io4SIi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WANT EM HOOD",
+        "url": "https://open.spotify.com/album/5RDX2YRAeBPI5ayzMqHubO"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "WANT EM HOOD",
+      "url": "https://open.spotify.com/track/36tZ01gUYSQVF29hqYx5Xa"
     },
     {
       "added_at": null,

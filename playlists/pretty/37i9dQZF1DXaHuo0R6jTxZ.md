@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 
 > The biggest Arabic song in the 1990's\. Cover : Amr Diab
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,017 likes - 40 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,054 likes - 40 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 | 31 | [Tallou Hbabna](https://open.spotify.com/track/3vvOccEtVWGrNbPaUsyNso) | [Wadih El Safi](https://open.spotify.com/artist/3f4YDbTkTN4DzVFodIBS8Z) | [The Very Best Of Wadi Al\-Safi](https://open.spotify.com/album/2LEdgefrrQ0KRSUpT6Cnh9) | 3:04 |
 | 32 | [Aïcha \- Version Mixte](https://open.spotify.com/track/59TEwguuXqdtjUrdG5trEa) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX) | [Sahra](https://open.spotify.com/album/0XID5D29qdqciKjMBsySwH) | 4:19 |
 | 33 | [Ya Leila Disco](https://open.spotify.com/track/04IvZrvzumdtX3sH2AmHXG) | [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [Ya Leila](https://open.spotify.com/album/651XwngqHNHNhwEsvOUL10) | 4:20 |
-| 34 | [Ya Alby](https://open.spotify.com/track/6mFeZYWPxxcncrVdgsm7gK) | [Amer Mounib](https://open.spotify.com/artist/4HUxfxFqEQGqkqWbiyy4m0) | [Ya Alby](https://open.spotify.com/album/5WzH9MSuo5vX7CUDMHcU37) | 3:57 |
-| 35 | [Qoulee Ouhibbouka](https://open.spotify.com/track/6OHINKaLH4ax5GMmVFHKR0) | [Kadim Al Sahir](https://open.spotify.com/artist/5FXMkwsloHI5c05GIkWpuK) | [Habibati Wal Matar](https://open.spotify.com/album/79Bw1khMvlEWxwtaooB0GB) | 5:31 |
+| 34 | [Qoulee Ouhibbouka](https://open.spotify.com/track/6OHINKaLH4ax5GMmVFHKR0) | [Kadim Al Sahir](https://open.spotify.com/artist/5FXMkwsloHI5c05GIkWpuK) | [Habibati Wal Matar](https://open.spotify.com/album/79Bw1khMvlEWxwtaooB0GB) | 5:31 |
+| 35 | [Ya Alby](https://open.spotify.com/track/6mFeZYWPxxcncrVdgsm7gK) | [Amer Mounib](https://open.spotify.com/artist/4HUxfxFqEQGqkqWbiyy4m0) | [Ya Alby](https://open.spotify.com/album/5WzH9MSuo5vX7CUDMHcU37) | 3:57 |
 | 36 | [Moughram Ya Leil](https://open.spotify.com/track/66glNNpBuK7OwQlcTCZQFv) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Ya Hayati](https://open.spotify.com/album/3UiIlxr5TSpXza4Ax3tSxl) | 5:03 |
 | 37 | [Nassam Alayna El Hawa](https://open.spotify.com/track/4d7DrWvGPobIFPRi84gjm0) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Ya Reit](https://open.spotify.com/album/10Vt1wAg974t1k5A8Z1jwp) | 4:03 |
 | 38 | [Keda Keda Ya Terella](https://open.spotify.com/track/3wlbAd9KLt8UcaZk0Vq5XB) | [Vicka](https://open.spotify.com/artist/1DvYjKqpI2Y3xP0hsqt29n) | [Nubian Legends](https://open.spotify.com/album/2tkQvpsJdhTkF11z83PPuf) | 4:42 |
-| 39 | [Awel Hob](https://open.spotify.com/track/0T76gVA9dWVl5MMNvpOXBB) | [Amer Mounib](https://open.spotify.com/artist/4HUxfxFqEQGqkqWbiyy4m0) | [Awel Hob](https://open.spotify.com/album/2gmPGyl7gTcWAtDZyI0xkO) | 4:16 |
-| 40 | [Yabo Khad](https://open.spotify.com/track/6RxNHl2RBomzslMDUCej8y) | [Fares](https://open.spotify.com/artist/501dBaY3hLn5aEWoOZha1k) | [High Quality Vol 1](https://open.spotify.com/album/1vQWKCqtIJjJYaJlKtFWxN) | 3:45 |
+| 39 | [Yabo Khad](https://open.spotify.com/track/6RxNHl2RBomzslMDUCej8y) | [Fares](https://open.spotify.com/artist/501dBaY3hLn5aEWoOZha1k) | [High Quality Vol 1](https://open.spotify.com/album/1vQWKCqtIJjJYaJlKtFWxN) | 3:45 |
+| 40 | [Awel Hob](https://open.spotify.com/track/0T76gVA9dWVl5MMNvpOXBB) | [Amer Mounib](https://open.spotify.com/artist/4HUxfxFqEQGqkqWbiyy4m0) | [Awel Hob](https://open.spotify.com/album/2gmPGyl7gTcWAtDZyI0xkO) | 4:16 |
 
 Snapshot ID: `AAAAAB7E/fvBUe6HHZXlv6iaigSvWc38`

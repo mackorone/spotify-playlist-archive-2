@@ -1,12 +1,12 @@
 {
   "description": "This is Gorillaz. The essential tracks, all in one playlist.",
-  "num_followers": 1245042,
+  "num_followers": 1245187,
   "original_name": "This Is Gorillaz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAAAzboSyYXqeGa/8pPfV6Wf0",
+  "snapshot_id": "ajXYAAAAAAA+j77FDx4uPJb8CLHzzya3",
   "tracks": [
     {
       "added_at": null,
@@ -828,13 +828,13 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         },
         {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
         }
       ],
-      "duration_ms": 180973,
-      "name": "The Valley of The Pagans (feat. Beck)",
-      "url": "https://open.spotify.com/track/3oP3Tfn86FRmxAGsV0TqCp"
+      "duration_ms": 333053,
+      "name": "D\u00e9sol\u00e9 (feat. Fatoumata Diawara) - Extended Version",
+      "url": "https://open.spotify.com/track/7rhtPZkcGCWgA3kizGwXwO"
     },
     {
       "added_at": null,
@@ -884,13 +884,13 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         },
         {
-          "name": "Fatoumata Diawara",
-          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
         }
       ],
-      "duration_ms": 333053,
-      "name": "D\u00e9sol\u00e9 (feat. Fatoumata Diawara) - Extended Version",
-      "url": "https://open.spotify.com/track/7rhtPZkcGCWgA3kizGwXwO"
+      "duration_ms": 180973,
+      "name": "The Valley of The Pagans (feat. Beck)",
+      "url": "https://open.spotify.com/track/3oP3Tfn86FRmxAGsV0TqCp"
     },
     {
       "added_at": null,

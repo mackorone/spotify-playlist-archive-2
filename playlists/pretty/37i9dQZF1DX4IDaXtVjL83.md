@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 
 > Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: NMIXX, Anderson\. Paak\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 506,304 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 506,310 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 | 40 | [Hot Mess](https://open.spotify.com/track/1SaLI6o5GhfcaxPVAJoD3r) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Hot Mess](https://open.spotify.com/album/2PvpuCui1GVO8DkFcCHzYU) | 3:12 |
 | 41 | [Stars + Yves](https://open.spotify.com/track/52vFAalJWVolzGZXmjtPIz) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 2:21 |
 | 42 | [YOU LIKE IT I LOVE IT](https://open.spotify.com/track/5H6cLsP1Ju4zghznKsw1zu) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz), [24kGoldn](https://open.spotify.com/artist/15Gkr52k58zVQQSDsEVwOC) | [YOU LIKE IT I LOVE IT](https://open.spotify.com/album/479QUz4xPJ8Tk8tV2KXDb9) | 3:02 |
-| 43 | [moonboy](https://open.spotify.com/track/4YoU6VbOH4KigttoGoPFjT) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [moonboy](https://open.spotify.com/album/7Ix2gCc8OGassm8RdqLCMa) | 2:53 |
-| 44 | [LOVE INSANE \(Feat\. JAY of ENHYPEN\)](https://open.spotify.com/track/3IglY1ukGerwdCA0FVWY2i) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [JAY \(ENHYPEN\)](https://open.spotify.com/artist/1dxyDekkPqYVKpC7iW71zJ) | [LOVE INSANE \(Feat\. JAY of ENHYPEN\)](https://open.spotify.com/album/2U3VnUzhG6tRWT7ZrjOWQI) | 2:31 |
+| 43 | [LOVE INSANE \(Feat\. JAY of ENHYPEN\)](https://open.spotify.com/track/3IglY1ukGerwdCA0FVWY2i) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [JAY \(ENHYPEN\)](https://open.spotify.com/artist/1dxyDekkPqYVKpC7iW71zJ) | [LOVE INSANE \(Feat\. JAY of ENHYPEN\)](https://open.spotify.com/album/2U3VnUzhG6tRWT7ZrjOWQI) | 2:31 |
+| 44 | [moonboy](https://open.spotify.com/track/4YoU6VbOH4KigttoGoPFjT) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [moonboy](https://open.spotify.com/album/7Ix2gCc8OGassm8RdqLCMa) | 2:53 |
 | 45 | [MEXE](https://open.spotify.com/track/43x4drok2kDJqm9dgRr685) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [MEXE](https://open.spotify.com/album/3pqOt29EZkGpqPHBfpPskX) | 2:26 |
 | 46 | [superstars](https://open.spotify.com/track/4v0cxd2ieNh7iGkoN2RRGj) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [superstars](https://open.spotify.com/album/6J8N4aJ1p1XwhGF2yk3HW0) | 2:24 |
 | 47 | [Feeling Lucky](https://open.spotify.com/track/53x0Yk1qOyurd2MefyF3Ny) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Feeling Lucky](https://open.spotify.com/album/4bc9PfPyv60qCh5S5g5eMb) | 2:31 |

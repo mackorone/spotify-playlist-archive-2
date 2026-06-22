@@ -1,6 +1,6 @@
 {
   "description": "Nousussa olevat hitit. \ud83c\udf2a\ufe0f ",
-  "num_followers": 60044,
+  "num_followers": 60038,
   "original_name": "Nousussa",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-06-18 21:00:40",
       "album": {
-        "name": "Sin\u00e4 ja se poitsu",
-        "url": "https://open.spotify.com/album/1ULaUYUGwW5J33Y14Re2wg"
-      },
-      "artists": [
-        {
-          "name": "SANNI",
-          "url": "https://open.spotify.com/artist/7meg3neLTT2WR1LDjL8jze"
-        }
-      ],
-      "duration_ms": 183957,
-      "name": "Sin\u00e4 ja se poitsu",
-      "url": "https://open.spotify.com/track/2LZBfB6j5FvYVhErj7e2Mh"
-    },
-    {
-      "added_at": "2026-06-18 21:00:40",
-      "album": {
         "name": "Kuka nauraa nyt",
         "url": "https://open.spotify.com/album/0sUq8q0GStH00NE6nDCVWX"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 175609,
       "name": "Kuka nauraa nyt",
       "url": "https://open.spotify.com/track/7GHKkXzjDJmjFB67KjhtHZ"
+    },
+    {
+      "added_at": "2026-06-18 21:00:40",
+      "album": {
+        "name": "Sin\u00e4 ja se poitsu",
+        "url": "https://open.spotify.com/album/1ULaUYUGwW5J33Y14Re2wg"
+      },
+      "artists": [
+        {
+          "name": "SANNI",
+          "url": "https://open.spotify.com/artist/7meg3neLTT2WR1LDjL8jze"
+        }
+      ],
+      "duration_ms": 183957,
+      "name": "Sin\u00e4 ja se poitsu",
+      "url": "https://open.spotify.com/track/2LZBfB6j5FvYVhErj7e2Mh"
     },
     {
       "added_at": "2026-06-18 21:00:40",
@@ -647,6 +647,22 @@
     {
       "added_at": "2026-06-18 21:00:40",
       "album": {
+        "name": "112",
+        "url": "https://open.spotify.com/album/623gXbUqzeIY6nxr3nKMdA"
+      },
+      "artists": [
+        {
+          "name": "Ida",
+          "url": "https://open.spotify.com/artist/2Jfsm2UQsgIpyfnksNNIzj"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "112",
+      "url": "https://open.spotify.com/track/7huJK8mp1FdJxmII15POPN"
+    },
+    {
+      "added_at": "2026-06-18 21:00:40",
+      "album": {
         "name": "Mustat sunnuntait",
         "url": "https://open.spotify.com/album/6ImfgFNiEsPVp2ALClyCPt"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 183461,
       "name": "Mustat sunnuntait",
       "url": "https://open.spotify.com/track/1LmOOpRQCtYuCubwh2PoE3"
-    },
-    {
-      "added_at": "2026-06-18 21:00:40",
-      "album": {
-        "name": "112",
-        "url": "https://open.spotify.com/album/623gXbUqzeIY6nxr3nKMdA"
-      },
-      "artists": [
-        {
-          "name": "Ida",
-          "url": "https://open.spotify.com/artist/2Jfsm2UQsgIpyfnksNNIzj"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "112",
-      "url": "https://open.spotify.com/track/7huJK8mp1FdJxmII15POPN"
     },
     {
       "added_at": "2026-06-18 21:00:40",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-06-18 21:00:40",
       "album": {
-        "name": "Olosuhteet",
-        "url": "https://open.spotify.com/album/0VnSP0fbUi0KEJolpnfZ1L"
-      },
-      "artists": [
-        {
-          "name": "Leyla",
-          "url": "https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra"
-        }
-      ],
-      "duration_ms": 188810,
-      "name": "Olosuhteet",
-      "url": "https://open.spotify.com/track/7M0XDUWSUWw3xtOh2kC7IG"
-    },
-    {
-      "added_at": "2026-06-18 21:00:40",
-      "album": {
         "name": "Ketjupoltetaan sillat",
         "url": "https://open.spotify.com/album/4XXjxAEjXD3EmT6ilxQXsb"
       },
@@ -1175,6 +1159,22 @@
     {
       "added_at": "2026-06-18 21:00:40",
       "album": {
+        "name": "Olosuhteet",
+        "url": "https://open.spotify.com/album/0VnSP0fbUi0KEJolpnfZ1L"
+      },
+      "artists": [
+        {
+          "name": "Leyla",
+          "url": "https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra"
+        }
+      ],
+      "duration_ms": 188810,
+      "name": "Olosuhteet",
+      "url": "https://open.spotify.com/track/7M0XDUWSUWw3xtOh2kC7IG"
+    },
+    {
+      "added_at": "2026-06-18 21:00:40",
+      "album": {
         "name": "Rautaa",
         "url": "https://open.spotify.com/album/4sFlXW6P8GXgZ8oAckX1HO"
       },
@@ -1187,22 +1187,6 @@
       "duration_ms": 160130,
       "name": "Rautaa",
       "url": "https://open.spotify.com/track/79D4icNYZNeZ6i53WUN0Qu"
-    },
-    {
-      "added_at": "2026-06-18 21:00:40",
-      "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/0gJ6JWcDUymLgGvkH5R2Ps"
-      },
-      "artists": [
-        {
-          "name": "Goldielocks",
-          "url": "https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59"
-        }
-      ],
-      "duration_ms": 183693,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/6e8lFyfQyQuA79TuZaHzjv"
     },
     {
       "added_at": "2026-06-18 21:00:40",
@@ -1223,6 +1207,22 @@
     {
       "added_at": "2026-06-18 21:00:40",
       "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/0gJ6JWcDUymLgGvkH5R2Ps"
+      },
+      "artists": [
+        {
+          "name": "Goldielocks",
+          "url": "https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59"
+        }
+      ],
+      "duration_ms": 183693,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/6e8lFyfQyQuA79TuZaHzjv"
+    },
+    {
+      "added_at": "2026-06-18 21:00:40",
+      "album": {
         "name": "Aerobikki",
         "url": "https://open.spotify.com/album/2gtjwgVXc1X5PWDZmmFCQC"
       },
@@ -1235,6 +1235,22 @@
       "duration_ms": 168919,
       "name": "Aerobikki",
       "url": "https://open.spotify.com/track/4iwe9PNipEfC47IgXIwxj9"
+    },
+    {
+      "added_at": "2026-06-18 21:00:40",
+      "album": {
+        "name": "Pallo jalast",
+        "url": "https://open.spotify.com/album/3faUCwH6s8olakIMxp7ps8"
+      },
+      "artists": [
+        {
+          "name": "Ramses II",
+          "url": "https://open.spotify.com/artist/0PI47Yot4sf9TVpnINMnPC"
+        }
+      ],
+      "duration_ms": 138773,
+      "name": "Pallo jalast",
+      "url": "https://open.spotify.com/track/4f6PlhctwuxoKdbkw0dJ3d"
     },
     {
       "added_at": "2026-06-18 21:00:40",
@@ -1275,22 +1291,6 @@
     {
       "added_at": "2026-06-18 21:00:40",
       "album": {
-        "name": "Pallo jalast",
-        "url": "https://open.spotify.com/album/3faUCwH6s8olakIMxp7ps8"
-      },
-      "artists": [
-        {
-          "name": "Ramses II",
-          "url": "https://open.spotify.com/artist/0PI47Yot4sf9TVpnINMnPC"
-        }
-      ],
-      "duration_ms": 138773,
-      "name": "Pallo jalast",
-      "url": "https://open.spotify.com/track/4f6PlhctwuxoKdbkw0dJ3d"
-    },
-    {
-      "added_at": "2026-06-18 21:00:40",
-      "album": {
         "name": "Se ei ollu min\u00e4",
         "url": "https://open.spotify.com/album/6lGv5jZ04AmTbHdkv6rEjQ"
       },
@@ -1323,22 +1323,18 @@
     {
       "added_at": "2026-06-18 21:00:40",
       "album": {
-        "name": "Kev\u00e4tkiima",
-        "url": "https://open.spotify.com/album/0IcYHhXS5oi0F6sJmgy0pT"
+        "name": "Paina play paina stop",
+        "url": "https://open.spotify.com/album/3wmjt0zXt7Dy48qPIXElDH"
       },
       "artists": [
         {
-          "name": "Sebastian Visa",
-          "url": "https://open.spotify.com/artist/5KGtBCbmfrpTqAq1ISbi1D"
-        },
-        {
-          "name": "Ira",
-          "url": "https://open.spotify.com/artist/2UkgjMChHf3vFEwOzLE5o9"
+          "name": "AB",
+          "url": "https://open.spotify.com/artist/76sQrG5TTCfEKDqFhc2zWm"
         }
       ],
-      "duration_ms": 153110,
-      "name": "Kev\u00e4tkiima",
-      "url": "https://open.spotify.com/track/6G2WYA3PdKa7lvgtwP6Ui0"
+      "duration_ms": 153320,
+      "name": "Paina play paina stop",
+      "url": "https://open.spotify.com/track/6qduNg6PErS5nVtOmL0sVb"
     }
   ],
   "unique_name": "Nousussa",

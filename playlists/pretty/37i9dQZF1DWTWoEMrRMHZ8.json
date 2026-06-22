@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: L\u00f4 Borges",
-  "num_followers": 355514,
+  "num_followers": 355496,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,22 @@
     {
       "added_at": "2026-06-17 12:55:23",
       "album": {
+        "name": "Vera Cruz",
+        "url": "https://open.spotify.com/album/1A7eEqH0oaRVURujDR5gqj"
+      },
+      "artists": [
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Vera Cruz",
+      "url": "https://open.spotify.com/track/7gEyYa53pf56NbDlaUuPnZ"
+    },
+    {
+      "added_at": "2026-06-17 12:55:23",
+      "album": {
         "name": "Sembal",
         "url": "https://open.spotify.com/album/3jb0i7cPqumhnn9vSJRLiy"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 212853,
       "name": "Sembal",
       "url": "https://open.spotify.com/track/5pJfwJZBwzJDhBP8pKeORU"
-    },
-    {
-      "added_at": "2026-06-17 12:55:23",
-      "album": {
-        "name": "Vera Cruz",
-        "url": "https://open.spotify.com/album/1A7eEqH0oaRVURujDR5gqj"
-      },
-      "artists": [
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Vera Cruz",
-      "url": "https://open.spotify.com/track/7gEyYa53pf56NbDlaUuPnZ"
     },
     {
       "added_at": "2026-06-17 12:55:23",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-06-17 12:55:23",
       "album": {
-        "name": "Denga (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3ZroXj4Ayz1012p5sWt2kf"
-      },
-      "artists": [
-        {
-          "name": "Giovani Cidreira",
-          "url": "https://open.spotify.com/artist/2SBQT5mUZ07UXABDj12pH1"
-        }
-      ],
-      "duration_ms": 125306,
-      "name": "Denga - Ao Vivo",
-      "url": "https://open.spotify.com/track/10hcDy5Rl0X96mc4j15vPg"
-    },
-    {
-      "added_at": "2026-06-17 12:55:23",
-      "album": {
         "name": "BEM ME QUER / MINHA FLOR",
         "url": "https://open.spotify.com/album/7IzEEUAuO7NNdXoRK3KMoo"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 242000,
       "name": "MINHA FLOR",
       "url": "https://open.spotify.com/track/2pN0iVbrmmja8zlJne0fvS"
+    },
+    {
+      "added_at": "2026-06-17 12:55:23",
+      "album": {
+        "name": "Denga (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3ZroXj4Ayz1012p5sWt2kf"
+      },
+      "artists": [
+        {
+          "name": "Giovani Cidreira",
+          "url": "https://open.spotify.com/artist/2SBQT5mUZ07UXABDj12pH1"
+        }
+      ],
+      "duration_ms": 125306,
+      "name": "Denga - Ao Vivo",
+      "url": "https://open.spotify.com/track/10hcDy5Rl0X96mc4j15vPg"
     },
     {
       "added_at": "2026-06-17 12:55:23",
@@ -1007,18 +1007,26 @@
     {
       "added_at": "2026-06-17 12:55:23",
       "album": {
-        "name": "Lugar Comum",
-        "url": "https://open.spotify.com/album/5fspAjJP9fDSjo5q63JUcV"
+        "name": "Desculpe o Au\u00ea (Ao Vivo)",
+        "url": "https://open.spotify.com/album/70ayyaP7jxqFfpvOvbtxqK"
       },
       "artists": [
         {
-          "name": "Michael Pipoquinha",
-          "url": "https://open.spotify.com/artist/3vT4VjcxsNrmnyk9UjYa6N"
+          "name": "Ti\u00ea",
+          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
+        },
+        {
+          "name": "Andr\u00e9 Whoong",
+          "url": "https://open.spotify.com/artist/1ZxKO0ur2O9gH35FV89coV"
+        },
+        {
+          "name": "Bona",
+          "url": "https://open.spotify.com/artist/3JcoeykZnLoV6Z1rSwsuMV"
         }
       ],
-      "duration_ms": 278212,
-      "name": "Lugar Comum",
-      "url": "https://open.spotify.com/track/7pGxkRuxLhftPUeur7O3e6"
+      "duration_ms": 213536,
+      "name": "Desculpe o Au\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/2wHOXgPbLgsrdDf60hsJy7"
     },
     {
       "added_at": "2026-06-17 12:55:23",
@@ -1047,26 +1055,18 @@
     {
       "added_at": "2026-06-17 12:55:23",
       "album": {
-        "name": "Desculpe o Au\u00ea (Ao Vivo)",
-        "url": "https://open.spotify.com/album/70ayyaP7jxqFfpvOvbtxqK"
+        "name": "Lugar Comum",
+        "url": "https://open.spotify.com/album/5fspAjJP9fDSjo5q63JUcV"
       },
       "artists": [
         {
-          "name": "Ti\u00ea",
-          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
-        },
-        {
-          "name": "Andr\u00e9 Whoong",
-          "url": "https://open.spotify.com/artist/1ZxKO0ur2O9gH35FV89coV"
-        },
-        {
-          "name": "Bona",
-          "url": "https://open.spotify.com/artist/3JcoeykZnLoV6Z1rSwsuMV"
+          "name": "Michael Pipoquinha",
+          "url": "https://open.spotify.com/artist/3vT4VjcxsNrmnyk9UjYa6N"
         }
       ],
-      "duration_ms": 213536,
-      "name": "Desculpe o Au\u00ea - Ao Vivo",
-      "url": "https://open.spotify.com/track/2wHOXgPbLgsrdDf60hsJy7"
+      "duration_ms": 278212,
+      "name": "Lugar Comum",
+      "url": "https://open.spotify.com/track/7pGxkRuxLhftPUeur7O3e6"
     },
     {
       "added_at": "2026-06-17 12:55:23",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2026-06-17 12:55:23",
       "album": {
-        "name": "Pra Saudade (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5QbY2a6b6lz0FWKC1PgGHF"
-      },
-      "artists": [
-        {
-          "name": "S\u00e1vio",
-          "url": "https://open.spotify.com/artist/4ElL2M4IPZftmoEmkHgMiz"
-        },
-        {
-          "name": "Dudu Nobre",
-          "url": "https://open.spotify.com/artist/4Mw0vJsDXTZF7kn7EsdNoD"
-        }
-      ],
-      "duration_ms": 227066,
-      "name": "Pra Saudade - Ao Vivo",
-      "url": "https://open.spotify.com/track/6i1snIJdkuNuqsBOBu0qAO"
-    },
-    {
-      "added_at": "2026-06-17 12:55:23",
-      "album": {
         "name": "L\u00e1",
         "url": "https://open.spotify.com/album/6ufHvSXLcsENitKj7GQ5fv"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 264686,
       "name": "L\u00e1",
       "url": "https://open.spotify.com/track/1NmbJR2cryUyat0SAWvQGZ"
+    },
+    {
+      "added_at": "2026-06-17 12:55:23",
+      "album": {
+        "name": "Pra Saudade (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5QbY2a6b6lz0FWKC1PgGHF"
+      },
+      "artists": [
+        {
+          "name": "S\u00e1vio",
+          "url": "https://open.spotify.com/artist/4ElL2M4IPZftmoEmkHgMiz"
+        },
+        {
+          "name": "Dudu Nobre",
+          "url": "https://open.spotify.com/artist/4Mw0vJsDXTZF7kn7EsdNoD"
+        }
+      ],
+      "duration_ms": 227066,
+      "name": "Pra Saudade - Ao Vivo",
+      "url": "https://open.spotify.com/track/6i1snIJdkuNuqsBOBu0qAO"
     },
     {
       "added_at": "2026-06-17 12:55:23",
@@ -1335,30 +1335,6 @@
     {
       "added_at": "2026-06-17 12:55:23",
       "album": {
-        "name": "Mandinga",
-        "url": "https://open.spotify.com/album/4guK13IUP7UcWIneUgqbt3"
-      },
-      "artists": [
-        {
-          "name": "Ana Cacimba",
-          "url": "https://open.spotify.com/artist/2VUDolPxpoiwL3oOXVst58"
-        },
-        {
-          "name": "L\u00e9o da Bodega",
-          "url": "https://open.spotify.com/artist/1CCSimZ4o0yIv6v7iQAh0g"
-        },
-        {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Mandinga",
-      "url": "https://open.spotify.com/track/3jEit8uxHNRvDwhHdMSE3H"
-    },
-    {
-      "added_at": "2026-06-17 12:55:23",
-      "album": {
         "name": "Garotos II (Ao Vivo)",
         "url": "https://open.spotify.com/album/7zY74hy1FpTWzsHo6zCVEw"
       },
@@ -1379,6 +1355,30 @@
       "duration_ms": 236061,
       "name": "Garotos II - Ao Vivo",
       "url": "https://open.spotify.com/track/5D7x9PXK62bJ1FzNmsNK4l"
+    },
+    {
+      "added_at": "2026-06-17 12:55:23",
+      "album": {
+        "name": "Mandinga",
+        "url": "https://open.spotify.com/album/4guK13IUP7UcWIneUgqbt3"
+      },
+      "artists": [
+        {
+          "name": "Ana Cacimba",
+          "url": "https://open.spotify.com/artist/2VUDolPxpoiwL3oOXVst58"
+        },
+        {
+          "name": "L\u00e9o da Bodega",
+          "url": "https://open.spotify.com/artist/1CCSimZ4o0yIv6v7iQAh0g"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Mandinga",
+      "url": "https://open.spotify.com/track/3jEit8uxHNRvDwhHdMSE3H"
     },
     {
       "added_at": "2026-06-17 12:55:23",

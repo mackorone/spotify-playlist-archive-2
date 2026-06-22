@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rsWDS.md) - [plain]
 
 > This is Chiquis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,034 likes - 49 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,036 likes - 49 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rsWDS.md) - [plain]
 | 24 | [55](https://open.spotify.com/track/2fkTJEDxZm7TrSqcBfPlKm) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [55](https://open.spotify.com/album/4yYClOIkFf8IgNNkZUhmax) | 3:08 |
 | 25 | [No Es Sólo Un Juego \- The Official Concacaf Gold Cup 2023\[TM\] Theme](https://open.spotify.com/track/7CKoaV13hpfEtlWQyvIe4N) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3) | [No Es Sólo Un Juego \(The Official Concacaf Gold Cup 2023\[TM\] Theme\)](https://open.spotify.com/album/7EtV6Wqr1xceSUfxYANlTM) | 2:47 |
 | 26 | [Entre Botellas](https://open.spotify.com/track/30UKdyPaiSVi6IJGO9ZCFv) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Entre Botellas](https://open.spotify.com/album/0bSkp1TVdU6PDkbm3BkJrE) | 3:26 |
-| 27 | [eres MÁS](https://open.spotify.com/track/0ECpWS4JhjTDrprNhBkJuN) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Janney](https://open.spotify.com/album/25X59yD47dtzAAq6bzXliA) | 2:23 |
+| 27 | [Souls](https://open.spotify.com/track/3Glq9PY4TH22PIB34a2tO7) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Janney](https://open.spotify.com/album/25X59yD47dtzAAq6bzXliA) | 0:32 |
 | 28 | [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/track/0KOk1oIIdfKrRNPSPH29eH) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/album/6XQpgJ9LkDhEOGumF82Ui7) | 3:39 |
 | 29 | [El Honor](https://open.spotify.com/track/3DqgiYt83EiFtzxRgcq7Y5) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Abeja Reina](https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ) | 2:45 |
 | 30 | [Vas a Volver](https://open.spotify.com/track/5OLsBXFgKC8VUAdrpL1Uta) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Entre Botellas](https://open.spotify.com/album/0bSkp1TVdU6PDkbm3BkJrE) | 3:03 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rsWDS.md) - [plain]
 | 48 | [Los Chismes](https://open.spotify.com/track/4pyIINpbOWfEmZi98NXFHL) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Lorenzo Mendez](https://open.spotify.com/artist/4ZfUIdc5Zm3N4E05eRSGac) | [Entre Botellas](https://open.spotify.com/album/0bSkp1TVdU6PDkbm3BkJrE) | 2:46 |
 | 49 | [SOMOS](https://open.spotify.com/track/7mpATTzOBRAR5A7wxQ9yph) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Jona Camacho](https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP) | [Flores En Mi Alma](https://open.spotify.com/album/1hVpAW53KRpFPDIDjRqv7E) | 2:41 |
 
-Snapshot ID: `ajSGgAAAAAAC3eIOlC6JvT32oWs2MPWj`
+Snapshot ID: `ajXYAAAAAAB0xCj6ffSl/vUBsbQrpYSB`

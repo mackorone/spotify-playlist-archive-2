@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > The full collection of Spotify Singles recordings\. Cover: Mack Keane
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,050 likes - 1,119 songs - 2 day 18 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,054 likes - 1,119 songs - 2 day 18 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

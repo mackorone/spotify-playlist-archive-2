@@ -1,6 +1,6 @@
 {
   "description": "Definitive African party starters, perfect for any jollof jam or braai! \"Spray\" money to these hits!",
-  "num_followers": 586671,
+  "num_followers": 586765,
   "original_name": "Afro Party Anthems",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,34 @@
     {
       "added_at": "2026-06-19 00:01:49",
       "album": {
+        "name": "SOUTH GIDI",
+        "url": "https://open.spotify.com/album/5hgdQMsPGxPnhZrAMi1IUQ"
+      },
+      "artists": [
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 375535,
+      "name": "MONEY CONSTANT",
+      "url": "https://open.spotify.com/track/12jMMRyPNMTNp3CRmdWMve"
+    },
+    {
+      "added_at": "2026-06-19 00:01:49",
+      "album": {
         "name": "Nakupenda",
         "url": "https://open.spotify.com/album/3xbbiXWEHWpCqxDAXKUu5d"
       },
@@ -263,34 +291,6 @@
     {
       "added_at": "2026-06-19 00:01:49",
       "album": {
-        "name": "SOUTH GIDI",
-        "url": "https://open.spotify.com/album/5hgdQMsPGxPnhZrAMi1IUQ"
-      },
-      "artists": [
-        {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
-        },
-        {
-          "name": "DJ Tunez",
-          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 375535,
-      "name": "MONEY CONSTANT",
-      "url": "https://open.spotify.com/track/12jMMRyPNMTNp3CRmdWMve"
-    },
-    {
-      "added_at": "2026-06-19 00:01:49",
-      "album": {
         "name": "Mofe",
         "url": "https://open.spotify.com/album/6Pshl1rktRcEVRGlPO9BrB"
       },
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-06-19 00:01:49",
       "album": {
-        "name": "FUN",
-        "url": "https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 188981,
-      "name": "FUN",
-      "url": "https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn"
-    },
-    {
-      "added_at": "2026-06-19 00:01:49",
-      "album": {
         "name": "Work Of Art",
         "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 157714,
       "name": "Lonely At The Top",
       "url": "https://open.spotify.com/track/5ZtK8XAVnoaGdBXZWCEVCY"
+    },
+    {
+      "added_at": "2026-06-19 00:01:49",
+      "album": {
+        "name": "FUN",
+        "url": "https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 188981,
+      "name": "FUN",
+      "url": "https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn"
     },
     {
       "added_at": "2026-06-19 00:01:49",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-06-19 00:01:49",
       "album": {
-        "name": "CLARITY OF MIND",
-        "url": "https://open.spotify.com/album/28c5qLjX7puNQ96Wa86t5k"
-      },
-      "artists": [
-        {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 192419,
-      "name": "I AM",
-      "url": "https://open.spotify.com/track/1iDNf6nP0BCXilLVVptflh"
-    },
-    {
-      "added_at": "2026-06-19 00:01:49",
-      "album": {
         "name": "Trench to Triumph",
         "url": "https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal"
       },
@@ -587,6 +571,38 @@
       "duration_ms": 221217,
       "name": "Ngozi",
       "url": "https://open.spotify.com/track/5mhM7bfzv52bzfCzlq8vH1"
+    },
+    {
+      "added_at": "2026-06-19 00:01:49",
+      "album": {
+        "name": "CLARITY OF MIND",
+        "url": "https://open.spotify.com/album/28c5qLjX7puNQ96Wa86t5k"
+      },
+      "artists": [
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 192419,
+      "name": "I AM",
+      "url": "https://open.spotify.com/track/1iDNf6nP0BCXilLVVptflh"
+    },
+    {
+      "added_at": "2026-06-19 00:01:49",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 154512,
+      "name": "FEEL",
+      "url": "https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj"
     },
     {
       "added_at": "2026-06-19 00:01:49",
@@ -615,22 +631,6 @@
       "duration_ms": 142487,
       "name": "Bank Alert",
       "url": "https://open.spotify.com/track/4wEpSkZ9V6CNZu8gwiOw1a"
-    },
-    {
-      "added_at": "2026-06-19 00:01:49",
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 154512,
-      "name": "FEEL",
-      "url": "https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj"
     },
     {
       "added_at": "2026-06-19 00:01:49",
@@ -807,6 +807,22 @@
     {
       "added_at": "2026-06-19 00:01:49",
       "album": {
+        "name": "IGBO",
+        "url": "https://open.spotify.com/album/6xwKKdz25SBmgdjnMf9SwS"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        }
+      ],
+      "duration_ms": 133852,
+      "name": "IGBO",
+      "url": "https://open.spotify.com/track/3v5d1SUogoec4mwuFFuls5"
+    },
+    {
+      "added_at": "2026-06-19 00:01:49",
+      "album": {
         "name": "THEY LOVE ME",
         "url": "https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 123582,
       "name": "AFRICAN GIRLS",
       "url": "https://open.spotify.com/track/1pDVWzY2lp3Y7Qi0WTY4Ad"
-    },
-    {
-      "added_at": "2026-06-19 00:01:49",
-      "album": {
-        "name": "IGBO",
-        "url": "https://open.spotify.com/album/6xwKKdz25SBmgdjnMf9SwS"
-      },
-      "artists": [
-        {
-          "name": "Didi B",
-          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
-        }
-      ],
-      "duration_ms": 133852,
-      "name": "IGBO",
-      "url": "https://open.spotify.com/track/3v5d1SUogoec4mwuFFuls5"
     },
     {
       "added_at": "2026-06-19 00:01:49",
@@ -923,6 +923,30 @@
     {
       "added_at": "2026-06-19 00:01:49",
       "album": {
+        "name": "Je m'appelle",
+        "url": "https://open.spotify.com/album/5lRDkN4fmcLGsqW0Ki4ZG2"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Chl\u00e9",
+          "url": "https://open.spotify.com/artist/78ExiA2p1L7zHf0qh3gvyv"
+        }
+      ],
+      "duration_ms": 243253,
+      "name": "Je m'appelle",
+      "url": "https://open.spotify.com/track/6eGPfRvMtXkP9yGT3KcXjV"
+    },
+    {
+      "added_at": "2026-06-19 00:01:49",
+      "album": {
         "name": "MAFFIAN",
         "url": "https://open.spotify.com/album/34MCeC9R3RzTxf3vzEJmWi"
       },
@@ -951,30 +975,6 @@
       "duration_ms": 172069,
       "name": "KELEBU",
       "url": "https://open.spotify.com/track/6aoKNOL481xVNuqeayQjPj"
-    },
-    {
-      "added_at": "2026-06-19 00:01:49",
-      "album": {
-        "name": "Je m'appelle",
-        "url": "https://open.spotify.com/album/5lRDkN4fmcLGsqW0Ki4ZG2"
-      },
-      "artists": [
-        {
-          "name": "Didi B",
-          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Chl\u00e9",
-          "url": "https://open.spotify.com/artist/78ExiA2p1L7zHf0qh3gvyv"
-        }
-      ],
-      "duration_ms": 243253,
-      "name": "Je m'appelle",
-      "url": "https://open.spotify.com/track/6eGPfRvMtXkP9yGT3KcXjV"
     },
     {
       "added_at": "2026-06-19 00:01:49",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2026-06-19 00:01:49",
       "album": {
+        "name": "Allergies",
+        "url": "https://open.spotify.com/album/3Vs7yW78OM1lQctmLNYdVp"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 173118,
+      "name": "Allergies",
+      "url": "https://open.spotify.com/track/18aqBVdhqN5SMYqg3FCSoE"
+    },
+    {
+      "added_at": "2026-06-19 00:01:49",
+      "album": {
         "name": "TaTaTa (feat. Travis Scott)",
         "url": "https://open.spotify.com/album/5g7VbiVwXeu8lVdj4tpAZ5"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 263571,
       "name": "Shu! (feat. Chley)",
       "url": "https://open.spotify.com/track/442DDArcRLNRxEeF75jRVk"
-    },
-    {
-      "added_at": "2026-06-19 00:01:49",
-      "album": {
-        "name": "Allergies",
-        "url": "https://open.spotify.com/album/3Vs7yW78OM1lQctmLNYdVp"
-      },
-      "artists": [
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 173118,
-      "name": "Allergies",
-      "url": "https://open.spotify.com/track/18aqBVdhqN5SMYqg3FCSoE"
     },
     {
       "added_at": "2026-06-19 00:01:49",

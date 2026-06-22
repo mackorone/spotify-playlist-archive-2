@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Manya
 
-882 songs - 1 day 19 hr 3 min
+883 songs - 1 day 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -593,7 +593,7 @@
 | [posłuszny](https://open.spotify.com/track/3RKy5uSxKjUglMJTe0M4XA) | [Seweryn](https://open.spotify.com/artist/3GpmeiPTFU97GPeokRl0RZ) | [posłuszny](https://open.spotify.com/album/2T9sDbInfrwjVzrJTOpL3U) | 2:31 | 2025-04-10 | 2025-04-18 |
 | [pov: nie dostaliśmy więcej czasu / płaszcz.](https://open.spotify.com/track/6rtWXq2m5h3j1iHf7YDUg0) | [Marianna Kniat](https://open.spotify.com/artist/4msYBkpUbynxMz8FgyQxiX) | [pov: nie dostaliśmy więcej czasu / płaszcz.](https://open.spotify.com/album/4IGAhWMLqLbCNUkJvqvEH3) | 3:33 | 2025-01-23 | 2025-02-23 |
 | [Powiedz](https://open.spotify.com/track/3z9K5dBzEyQWht7Y3PARnM) | [Maja Krzyżewska](https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL) | [Powiedz](https://open.spotify.com/album/42EQ6jPw9iIQuymNrrXxSq) | 2:03 | 2024-09-27 | 2025-01-24 |
-| [powiem/nie powiem](https://open.spotify.com/track/509mth4lw2dQQcGXtKMHDc) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [powiem/nie powiem](https://open.spotify.com/album/1wnV3DSxRwQzSiPEkQzQ4t) | 3:28 | 2026-04-17 |  |
+| [powiem/nie powiem](https://open.spotify.com/track/509mth4lw2dQQcGXtKMHDc) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [powiem/nie powiem](https://open.spotify.com/album/1wnV3DSxRwQzSiPEkQzQ4t) | 3:28 | 2026-04-17 | 2026-06-22 |
 | [Pozwól mi czuć](https://open.spotify.com/track/1maFv5IRJwGOwCWRnh53F0) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Pozwól mi czuć](https://open.spotify.com/album/46dAAbyTDO4x0MjzJMSR4P) | 3:20 | 2026-02-05 | 2026-05-01 |
 | [Pray](https://open.spotify.com/track/7yT5rUvzEQh60Olh2GXShd) | [ALICJA](https://open.spotify.com/artist/0aCRGI3PsmtCjyTCnRpRgM) | [Pray](https://open.spotify.com/album/3ADI3YJtPk0QUsdCY1soXx) | 3:00 | 2026-02-12 | 2026-05-24 |
 | [PRAY](https://open.spotify.com/track/47hPDWjpKJBtNTZ5mvpdBt) | [KUBA](https://open.spotify.com/artist/1bkyZDNNjgrIwr4qTtyHUW) | [PRAY](https://open.spotify.com/album/0i3m0nLfvE8essSOZrlStQ) | 2:45 | 2025-01-16 | 2025-03-21 |
@@ -769,6 +769,7 @@
 | [Tylko My](https://open.spotify.com/track/2uuvl8raTa0NMQqSAFBjnn) | [Jeremi Sikorski](https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw) | [Tylko My](https://open.spotify.com/album/199kLe1uSOlO4TwseBuOVl) | 2:10 | 2026-06-11 |  |
 | [Tylko na moment](https://open.spotify.com/track/1EjWpkR2JATl6hgQyOPwsO) | [Iga Jaworska](https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv) | [Tylko na moment](https://open.spotify.com/album/74Uk3H4hRvzyyo6aTEK6mv) | 1:58 | 2024-06-28 | 2024-08-23 |
 | [TYLKO Z TOBĄ](https://open.spotify.com/track/1xeUFDeg7xZB4r2MAtdbZ8) | [FANKA](https://open.spotify.com/artist/5wUmzMcZxXPMi2qpddL0wg) | [moje smęty](https://open.spotify.com/album/3R2Sx2CO4dKv2Y23ovoBBC) | 2:34 | 2025-11-28 | 2026-03-13 |
+| [Typ typa](https://open.spotify.com/track/5oegpY5VKqD9P9Yxc0dAGN) | [BSK](https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2), [Magiera](https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso) | [PAREA](https://open.spotify.com/album/1AOpiynvPtDsELd8VobMsq) | 2:18 | 2026-06-18 |  |
 | [Tęsknię](https://open.spotify.com/track/6ZIExaf8SeE2WYDazQtrdZ) | [Joulie Fox](https://open.spotify.com/artist/5hE1IPeVSiRpzsHBBBpzy4) | [Tęsknię](https://open.spotify.com/album/4bMP6PMo8Vm4LCJIzW7Si9) | 2:56 | 2025-12-05 | 2025-12-12 |
 | [Tęsknię Za Tobą](https://open.spotify.com/track/03dKatXVO2MlZsHTd9AX56) | [Julka Grabowska](https://open.spotify.com/artist/0eC2qcmwFOhPgzxaGoyasH), [Jxcob](https://open.spotify.com/artist/6NymiB9zG13gz3WbLzbXP2), [MtZ](https://open.spotify.com/artist/5qi3aTonrqAZjYw1D6X5Pu) | [Tęsknię Za Tobą](https://open.spotify.com/album/1YSR5yZCeBfoVgyvbHh0rr) | 2:05 | 2026-06-11 | 2026-06-19 |
 | [U Want Me Anyway](https://open.spotify.com/track/2NZpYLv014p6rfl2CYxDX6) | [Dani Marchio](https://open.spotify.com/artist/2lbntvM1QPq5hj4x3HO1dT) | [U Want Me Anyway](https://open.spotify.com/album/1voy9mRdneNwKnaBgIjLh4) | 3:20 | 2025-03-20 | 2025-06-28 |

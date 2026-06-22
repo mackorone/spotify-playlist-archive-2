@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIV1hAnuH1ilI>Justin Bieber</a>, <a href=spotify:playlist:37i9dQZF1EIUY5V9mnUM6w>Junior H</a>, <a href=spotify:playlist:37i9dQZF1EIV1oCGxzhRed>Taylor Swift</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIX6JB3qtkBJY>Dominic Fike</a>, <a href=spotify:playlist:37i9dQZF1EIUY5V9mnUM6w>Junior H</a>, <a href=spotify:playlist:37i9dQZF1EIZIiJvqaSAaz>sombr</a> and more",
   "name": "Sad Mix",
   "tracks": [
     {
@@ -1148,7 +1148,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 189567,
       "name": "Ana Meen",
       "url": "https://open.spotify.com/track/541Q0u2sHv70TzcUzuUVmy"
@@ -1538,7 +1538,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 261922,
       "name": "august",
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
@@ -1834,7 +1834,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 364068,
       "name": "Be'dna Laih",
       "url": "https://open.spotify.com/track/1SyXzPwgYooxNwcxwTrH6G"
@@ -3096,7 +3096,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 258225,
       "name": "Chhad Dila",
       "url": "https://open.spotify.com/track/75v90PN9FbhV1RC0ukWMWJ"
@@ -3274,7 +3274,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-14",
+      "date_removed": null,
       "duration_ms": 312212,
       "name": "CLBK (Cinta Lama Bersemi Kembali)",
       "url": "https://open.spotify.com/track/2U8pQU8Cj83kTs2dkQUHow"
@@ -3404,7 +3404,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 228080,
       "name": "Como Mirarte",
       "url": "https://open.spotify.com/track/0CXEPVeQDLgDBfvcsQpXq1"
@@ -4117,6 +4117,28 @@
     },
     {
       "album": {
+        "name": "DEPR</3$$ED MFKZ",
+        "url": "https://open.spotify.com/album/3VVqkkiUqVklgPcC4dnYos"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Gael Valenzuela",
+          "url": "https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221663,
+      "name": "DEMENCIA",
+      "url": "https://open.spotify.com/track/3BAtCOv7easPy9xoZ4h9Ng"
+    },
+    {
+      "album": {
         "name": "Tak Lekang Oleh Waktu",
         "url": "https://open.spotify.com/album/0SGKVrJINkmC5vhhFtuw1d"
       },
@@ -4824,7 +4846,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 286642,
       "name": "Em Cheppanu",
       "url": "https://open.spotify.com/track/4EbpZyCH7uXaLmSMTSDzr2"
@@ -5504,7 +5526,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 199764,
       "name": "Fat Funny Friend",
       "url": "https://open.spotify.com/track/7z3NjKBqjv3d1ykXCFQxaT"
@@ -6108,7 +6130,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 153190,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
@@ -7148,7 +7170,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 198213,
       "name": "I Can't Handle Change",
       "url": "https://open.spotify.com/track/37l31PrCNsg8baUjarNAi9"
@@ -7818,7 +7840,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 164678,
       "name": "If I Died Last Night",
       "url": "https://open.spotify.com/track/4NpFdj4CHgVSoQ32yHVmNL"
@@ -8006,7 +8028,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 225812,
       "name": "Inolvidable",
       "url": "https://open.spotify.com/track/0OTtnwUO8natNWSwdZvXVF"
@@ -9228,7 +9250,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 226298,
       "name": "LAS NOCHES",
       "url": "https://open.spotify.com/track/0uQhDYHyoZe5DpncrPolb6"
@@ -10750,7 +10772,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 229933,
       "name": "Me Soltaste",
       "url": "https://open.spotify.com/track/02yD6Wmpx5kLAoXLQOnuEb"
@@ -11584,6 +11606,28 @@
       "duration_ms": 207473,
       "name": "M\u1ea5t K\u1ebft N\u1ed1i",
       "url": "https://open.spotify.com/track/3CmacJj7VC4W6daC8BWd0h"
+    },
+    {
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/2RKBnWbG3fcGagjt4hmaYD"
+      },
+      "artists": [
+        {
+          "name": "Mani Sharma",
+          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246902,
+      "name": "Na Prema kathaku",
+      "url": "https://open.spotify.com/track/4GWOC3Gh6H9c32lb9ryGWK"
     },
     {
       "album": {
@@ -13064,7 +13108,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-29",
+      "date_removed": null,
       "duration_ms": 240613,
       "name": "Que Lloro",
       "url": "https://open.spotify.com/track/62clthR0fZmLbxeqxVJatQ"
@@ -15972,7 +16016,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 216000,
       "name": "Te Esper\u00e9",
       "url": "https://open.spotify.com/track/6W8Rl6LMWjCL17EvLlkyxc"
@@ -17276,7 +17320,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 182088,
       "name": "undressed",
       "url": "https://open.spotify.com/track/0TFTAtCYhp2tQ9KcJIZb55"
@@ -17546,7 +17590,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 199920,
       "name": "Voy a Olvidarte",
       "url": "https://open.spotify.com/track/6UwB2R8I5LoUmmYc0mphdl"
@@ -18254,7 +18298,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-22",
+      "date_removed": null,
       "duration_ms": 144101,
       "name": "White Keys",
       "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
@@ -18416,7 +18460,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 210880,
       "name": "Wish You The Best",
       "url": "https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr"
@@ -19156,7 +19200,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 217787,
       "name": "\u0628\u062a\u0641\u062a\u0643\u0631\u0646\u064a \u0633\u0627\u0639\u0627\u062a",
       "url": "https://open.spotify.com/track/7JN6ZcsdAz2e1JWexv8edB"
@@ -19336,7 +19380,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 272433,
       "name": "\u0644\u0645\u0627 \u0628\u064a\u0648\u062d\u0634\u0646\u064a",
       "url": "https://open.spotify.com/track/2Fr20ZrkJikzPU32YFLO43"

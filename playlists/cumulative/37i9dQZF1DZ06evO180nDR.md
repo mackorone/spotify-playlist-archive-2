@@ -4,7 +4,7 @@
 
 > This is Los Dareyes De La Sierra\. The essential tracks, all in one playlist.
 
-163 songs - 8 hr 27 min
+164 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Hombre De Negocios](https://open.spotify.com/track/465XYz4eYfKiSQD1EFMc5J) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Mis Favoritas](https://open.spotify.com/album/3U8i98qh9vg0OzxkQsV0dd) | 4:08 | 2022-06-01 | 2023-03-12 |
 | [Jacob and Co.](https://open.spotify.com/track/2l8ZwBatbKXlVrSexA4Gbr) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Redención \(Deluxe\)](https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl) | 3:14 | 2025-06-08 | 2025-07-06 |
 | [Juanito El Comandante](https://open.spotify.com/track/4gkFnMZqkMYv68qZz9tWrJ) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Mis Favoritas](https://open.spotify.com/album/3U8i98qh9vg0OzxkQsV0dd) | 3:36 | 2022-06-01 | 2022-12-21 |
-| [KAMIKAZE](https://open.spotify.com/track/3aQQ6AAzsyaEf6RowEPX7Z) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [SABIA](https://open.spotify.com/album/12122EVhwBiU1EyE92VSQe) | 2:39 | 2026-04-24 |  |
+| [KAMIKAZE](https://open.spotify.com/track/3aQQ6AAzsyaEf6RowEPX7Z) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [SABIA](https://open.spotify.com/album/12122EVhwBiU1EyE92VSQe) | 2:39 | 2026-04-24 | 2026-06-22 |
 | [La Avioneta](https://open.spotify.com/track/1aIdtyVK4s9NSfvYVrXmpJ) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [El Wiko](https://open.spotify.com/artist/711tZI6sxBPYHe5FvbLQjs) | [La Avioneta](https://open.spotify.com/album/0n5Mfmi6EO9EuGAK8YclFx) | 2:46 | 2024-10-14 | 2026-04-21 |
 | [La Carrucha \(En Vivo\)](https://open.spotify.com/track/7n9KJBLvSgJONM6Ow59fU2) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [La Carrucha \(En Vivo\)](https://open.spotify.com/album/2vI8Aflm0jIOqszgQuGaTG) | 3:21 | 2022-08-19 | 2024-08-13 |
 | [La Mas Bonita De Todas](https://open.spotify.com/track/4cFSwcJFUiOQJckhkEvSEn) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Dueña De Mi Vida](https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS) | 3:29 | 2022-06-01 | 2026-04-22 |
@@ -117,7 +117,8 @@
 | [Ni Con Patrulla](https://open.spotify.com/track/5KsUOwCSFIKKBsBxyCfgnS) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Redención \(Deluxe\)](https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl) | 2:40 | 2025-06-08 |  |
 | [No Quiero Vover A Verte](https://open.spotify.com/track/5bWXLr45F24kTmztUfO9bH) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Dueña De Mi Vida](https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS) | 2:44 | 2022-06-01 | 2022-10-13 |
 | [PASAPORTES](https://open.spotify.com/track/2Vq1rhWlKNEEGWTJrWOYmp) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [MIJA NO TE ASUSTES](https://open.spotify.com/album/34OOEmWpj7OnO5kCfal1MO) | 2:41 | 2025-02-23 |  |
-| [Pasta](https://open.spotify.com/track/5m6bsa7qhZXjSDDqwRRfTD) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Pasta](https://open.spotify.com/album/0EOkVu6Sp54EakQ5B0af0P) | 3:14 | 2025-08-03 |  |
+| [Pasta](https://open.spotify.com/track/5m6bsa7qhZXjSDDqwRRfTD) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Pasta](https://open.spotify.com/album/0EOkVu6Sp54EakQ5B0af0P) | 3:14 | 2025-08-03 | 2026-06-22 |
+| [PASTA](https://open.spotify.com/track/7gxY8xbRLWBvzQIkE5nZ46) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [SABIA](https://open.spotify.com/album/12122EVhwBiU1EyE92VSQe) | 3:14 | 2026-06-22 |  |
 | [Pinki Chilón](https://open.spotify.com/track/0Zgh7MzHM5UCKzvlAJRC2x) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Jorsshh](https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG) | [Redención](https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko) | 2:56 | 2025-05-11 | 2025-07-04 |
 | [Plata](https://open.spotify.com/track/1nmmWHhizEQ742gaAgnTjB) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Redención](https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko) | 2:54 | 2025-05-11 |  |
 | [Play Mode](https://open.spotify.com/track/69yPXq8mqM7jf8tROVVaU2) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Agua y Jabón + Play Mode](https://open.spotify.com/album/3VS0fKzz7D1bP18ono6VZ4) | 3:12 | 2025-09-27 |  |

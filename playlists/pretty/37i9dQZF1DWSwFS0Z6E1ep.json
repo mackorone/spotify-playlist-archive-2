@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 308775,
+  "num_followers": 308812,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "What'd I Say",
-        "url": "https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 307053,
-      "name": "What'd I Say, Pt. 1 & 2",
-      "url": "https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Shout!",
         "url": "https://open.spotify.com/album/3TU9a0ngwVYr7YRe5fJPVH"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 271983,
       "name": "Shout, Pts. 1 & 2",
       "url": "https://open.spotify.com/track/2ZNTPtYmAhN9vCwnAgqKn1"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "What'd I Say",
+        "url": "https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 307053,
+      "name": "What'd I Say, Pt. 1 & 2",
+      "url": "https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
-        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 160226,
-      "name": "Mess Around",
-      "url": "https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Come Go With Me: The Best Of The Del-Vikings",
         "url": "https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 162293,
       "name": "Come Go With Me",
       "url": "https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
+        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 160226,
+      "name": "Mess Around",
+      "url": "https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
         }
       ],
-      "duration_ms": 125637,
-      "name": "Don't Be Cruel",
-      "url": "https://open.spotify.com/track/01u6AEzGbGbQyYVdxajxqk"
+      "duration_ms": 130305,
+      "name": "Heartbreak Hotel",
+      "url": "https://open.spotify.com/track/6xNwKNYZcvgV3XTIwsgNio"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
         }
       ],
-      "duration_ms": 130305,
-      "name": "Heartbreak Hotel",
-      "url": "https://open.spotify.com/track/6xNwKNYZcvgV3XTIwsgNio"
+      "duration_ms": 125637,
+      "name": "Don't Be Cruel",
+      "url": "https://open.spotify.com/track/01u6AEzGbGbQyYVdxajxqk"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "The \"Chirping\" Crickets",
-        "url": "https://open.spotify.com/album/1KfXNUbZrdwHMtkAGNBLBq"
-      },
-      "artists": [
-        {
-          "name": "Buddy Holly & The Crickets",
-          "url": "https://open.spotify.com/artist/15jBNfRUPUgdZOTSaNoF5l"
-        }
-      ],
-      "duration_ms": 142773,
-      "name": "Not Fade Away",
-      "url": "https://open.spotify.com/track/6sBPjgvLZzHHrpxbBDjmdE"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Lloyd Price Greatest Hits: The Original ABC-Paramount Recordings",
         "url": "https://open.spotify.com/album/5qYhWkc4dKbKuevLza5rlh"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 157733,
       "name": "Personality",
       "url": "https://open.spotify.com/track/5vjigjfoXuJEttqLB3HTAg"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "The \"Chirping\" Crickets",
+        "url": "https://open.spotify.com/album/1KfXNUbZrdwHMtkAGNBLBq"
+      },
+      "artists": [
+        {
+          "name": "Buddy Holly & The Crickets",
+          "url": "https://open.spotify.com/artist/15jBNfRUPUgdZOTSaNoF5l"
+        }
+      ],
+      "duration_ms": 142773,
+      "name": "Not Fade Away",
+      "url": "https://open.spotify.com/track/6sBPjgvLZzHHrpxbBDjmdE"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Slow Down / A Fool for Loving You",
-        "url": "https://open.spotify.com/album/16tQIxNa9s3cmCjrcFUXgx"
-      },
-      "artists": [
-        {
-          "name": "Jack Earls",
-          "url": "https://open.spotify.com/artist/5oqGu2tDspg5xRwVqqbMpY"
-        },
-        {
-          "name": "The Jimbos",
-          "url": "https://open.spotify.com/artist/2tZSmD1d3c1iYRRDOVhh8F"
-        }
-      ],
-      "duration_ms": 137799,
-      "name": "Slow Down",
-      "url": "https://open.spotify.com/track/2s6ZdkCvWQAI5OyTaCVDyT"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Greatest",
         "url": "https://open.spotify.com/album/1tfvwgjJHU9zYWy4qIHZsV"
       },
@@ -1511,6 +1491,26 @@
       "duration_ms": 132970,
       "name": "Get Rhythm",
       "url": "https://open.spotify.com/track/2aq1oBnP7Q176mZw5P6eUk"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Slow Down / A Fool for Loving You",
+        "url": "https://open.spotify.com/album/16tQIxNa9s3cmCjrcFUXgx"
+      },
+      "artists": [
+        {
+          "name": "Jack Earls",
+          "url": "https://open.spotify.com/artist/5oqGu2tDspg5xRwVqqbMpY"
+        },
+        {
+          "name": "The Jimbos",
+          "url": "https://open.spotify.com/artist/2tZSmD1d3c1iYRRDOVhh8F"
+        }
+      ],
+      "duration_ms": 137799,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/2s6ZdkCvWQAI5OyTaCVDyT"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "The Essential Jerry Lee Lewis [The Sun Sessions]",
-        "url": "https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf"
-      },
-      "artists": [
-        {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
-        }
-      ],
-      "duration_ms": 172400,
-      "name": "Whole Lot of Shakin' Going On",
-      "url": "https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "The Very Best Of Little Richard",
         "url": "https://open.spotify.com/album/3LXNSUpx48PQxUn2StRqfu"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 128280,
       "name": "Long Tall Sally",
       "url": "https://open.spotify.com/track/1q7njNe2QfE0xbZMtTOT2m"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "The Essential Jerry Lee Lewis [The Sun Sessions]",
+        "url": "https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf"
+      },
+      "artists": [
+        {
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+        }
+      ],
+      "duration_ms": 172400,
+      "name": "Whole Lot of Shakin' Going On",
+      "url": "https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV"
     },
     {
       "added_at": "2022-06-07 05:25:13",

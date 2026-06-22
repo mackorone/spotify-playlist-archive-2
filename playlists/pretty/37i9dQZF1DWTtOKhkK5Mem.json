@@ -1,6 +1,6 @@
 {
   "description": "Male artists singing about love.",
-  "num_followers": 823290,
+  "num_followers": 823335,
   "original_name": "In the Arms of a Woman",
   "owner": {
     "name": "Spotify",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Hunter Hayes (Encore)",
-        "url": "https://open.spotify.com/album/5hVo5O3pGkc1VibXveW8gx"
-      },
-      "artists": [
-        {
-          "name": "Hunter Hayes",
-          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
-        }
-      ],
-      "duration_ms": 228840,
-      "name": "Wanted",
-      "url": "https://open.spotify.com/track/0p1BcEcYVO3uk4KDf3gzkY"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Always On My Mind",
         "url": "https://open.spotify.com/album/5lSPP40Df9t2nkusLZtXTb"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 213359,
       "name": "Always On My Mind",
       "url": "https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Hunter Hayes (Encore)",
+        "url": "https://open.spotify.com/album/5hVo5O3pGkc1VibXveW8gx"
+      },
+      "artists": [
+        {
+          "name": "Hunter Hayes",
+          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "Wanted",
+      "url": "https://open.spotify.com/track/0p1BcEcYVO3uk4KDf3gzkY"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "James Bay Spotify Session 2015",
-        "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 236786,
-      "name": "If You Ever Wanna Be In Love - James Bay Spotify Session 2015",
-      "url": "https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Michael Learns To Rock (1991)",
         "url": "https://open.spotify.com/album/4GxVVO2T9r3pf0WzseGyYR"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 273600,
       "name": "The Actor",
       "url": "https://open.spotify.com/track/7prFpeH9fXA7cL6ZZWLePs"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "James Bay Spotify Session 2015",
+        "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 236786,
+      "name": "If You Ever Wanna Be In Love - James Bay Spotify Session 2015",
+      "url": "https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "One In A Million You",
-        "url": "https://open.spotify.com/album/3sT09KMUA39aQYCofvoA1j"
-      },
-      "artists": [
-        {
-          "name": "Larry Graham",
-          "url": "https://open.spotify.com/artist/6lUcc15t11bnaPr2qOuFs2"
-        }
-      ],
-      "duration_ms": 252600,
-      "name": "One in a Million You",
-      "url": "https://open.spotify.com/track/1CzgvJvt2JRy4uEX3SVaxO"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Vital Signs",
         "url": "https://open.spotify.com/album/7t6t815Z23bjBVU4Qon6HD"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 252613,
       "name": "The Search Is Over",
       "url": "https://open.spotify.com/track/1M3xrSPzPcKkCnXGHFPKaw"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "One In A Million You",
+        "url": "https://open.spotify.com/album/3sT09KMUA39aQYCofvoA1j"
+      },
+      "artists": [
+        {
+          "name": "Larry Graham",
+          "url": "https://open.spotify.com/artist/6lUcc15t11bnaPr2qOuFs2"
+        }
+      ],
+      "duration_ms": 252600,
+      "name": "One in a Million You",
+      "url": "https://open.spotify.com/track/1CzgvJvt2JRy4uEX3SVaxO"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2055,22 +2055,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Exclusive",
-        "url": "https://open.spotify.com/album/5t7BjMUC2HXa5cWDOWmnVg"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 252160,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/1j3H54xdahpAkNI0q6S89q"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Songs About Jane",
         "url": "https://open.spotify.com/album/7gGcnUEEQgIMV2JRwVQbrF"
       },
@@ -2083,6 +2067,22 @@
       "duration_ms": 257133,
       "name": "She Will Be Loved",
       "url": "https://open.spotify.com/track/5s5t0OFg9lIlBFaCI14K1i"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Exclusive",
+        "url": "https://open.spotify.com/album/5t7BjMUC2HXa5cWDOWmnVg"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 252160,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/1j3H54xdahpAkNI0q6S89q"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Take Me Home: Yearbook Edition",
-        "url": "https://open.spotify.com/album/5SxEsi1PNyo1XfEKDYcFKF"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 219640,
-      "name": "Little Things",
-      "url": "https://open.spotify.com/track/7kSLdGdXLey7pzLsWpdg1h"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Sweet Baby James",
         "url": "https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 200579,
       "name": "Fire and Rain",
       "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Take Me Home: Yearbook Edition",
+        "url": "https://open.spotify.com/album/5SxEsi1PNyo1XfEKDYcFKF"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 219640,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/7kSLdGdXLey7pzLsWpdg1h"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2183,6 +2183,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Elton John (Remastered Version)",
+        "url": "https://open.spotify.com/album/7dtLYwLOdYQa2S8Vjeuxci"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 244226,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/17VegeBoHvMlIByrdu64KR"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "Nobody Else (Deluxe)",
         "url": "https://open.spotify.com/album/5QnHvl0ne6yEhRGw3ajvFF"
       },
@@ -2199,18 +2215,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Elton John (Remastered Version)",
-        "url": "https://open.spotify.com/album/7dtLYwLOdYQa2S8Vjeuxci"
+        "name": "In The Lonely Hour (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7p7RFI5jtwYDknwhnQgmlp"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 244226,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/17VegeBoHvMlIByrdu64KR"
+      "duration_ms": 172723,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/7IHOIqZUUInxjVkko181PB"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2247,38 +2263,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "In The Lonely Hour (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7p7RFI5jtwYDknwhnQgmlp"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 172723,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/7IHOIqZUUInxjVkko181PB"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Love Someone",
-        "url": "https://open.spotify.com/album/1y36YwGaSrqhDsxilR95iH"
-      },
-      "artists": [
-        {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        }
-      ],
-      "duration_ms": 205463,
-      "name": "Love Someone",
-      "url": "https://open.spotify.com/track/6r3baE6njwU4aoJq6zPukG"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "...Hits",
         "url": "https://open.spotify.com/album/7hV0YSxAQSng8H0zMR0HBf"
       },
@@ -2307,6 +2291,22 @@
       "duration_ms": 366640,
       "name": "I'm Not In Love",
       "url": "https://open.spotify.com/track/6cuKJ1bFFy4OjfkCI9YBqc"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Love Someone",
+        "url": "https://open.spotify.com/album/1y36YwGaSrqhDsxilR95iH"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "duration_ms": 205463,
+      "name": "Love Someone",
+      "url": "https://open.spotify.com/track/6r3baE6njwU4aoJq6zPukG"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2391,6 +2391,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3Iq8rXgxwlSPpRsIacNLgK"
+      },
+      "artists": [
+        {
+          "name": "Westlife",
+          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
+        }
+      ],
+      "duration_ms": 230800,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/19LoYrMj3ZlqQUrxa1ADQh"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "Ronan",
         "url": "https://open.spotify.com/album/1aYzN2EJMOgjFzuiDEiuEP"
       },
@@ -2403,22 +2419,6 @@
       "duration_ms": 258226,
       "name": "When You Say Nothing At All",
       "url": "https://open.spotify.com/track/306LQdB2k5yBGsiIV2oeC3"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Shawn Mendes",
-        "url": "https://open.spotify.com/album/6AjREacSERvnQTe6GFTx3c"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 235746,
-      "name": "Fallin' All In You",
-      "url": "https://open.spotify.com/track/5I8oEqbk2ZBmQfXCrZbUFb"
     }
   ],
   "unique_name": "In the Arms of a Woman",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\.   Cover: Channel Tres
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,204 likes - 97 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,240 likes - 97 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > This is Los Dos Carnales\. The essential tracks, all in one playlist.
 
-126 songs - 6 hr 27 min
+127 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Al Millón](https://open.spotify.com/track/6dJL9YwcrlXK7reyRfmM9V) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Al Millón](https://open.spotify.com/album/3l2ra3SNtDzWfjhhdx75Od) | 3:25 | 2022-06-01 | 2023-01-19 |
 | [Ay Nomás](https://open.spotify.com/track/1GmqZP4DB7qi0MEMbdiHac) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Al Estilo Rancheron](https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd) | 2:37 | 2022-06-01 |  |
 | [Bien por Ti](https://open.spotify.com/track/0kXfNdN2O8L7f4aURjHgTn) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Bien por Ti](https://open.spotify.com/album/0CI9E0YYEqflnprBhx13Um) | 2:26 | 2025-04-19 | 2025-05-07 |
+| [Borracho De Besos](https://open.spotify.com/track/6bC4NcabtEXMHUtIFMwlQ8) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [35 Aniversario \(Vol\. 1\)](https://open.spotify.com/album/18AC56GLpZH5t0m4dN150Z) | 3:41 | 2026-06-22 |  |
 | [Cabrón y Vago \- En Vivo](https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Puerta Abierta, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg) | 2:22 | 2022-06-01 |  |
 | [Cabrón y Vago \- En Vivo](https://open.spotify.com/track/4Baf5WbZIHnItDgprvfX6G) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Recordando los Inicios \(En Vivo\)](https://open.spotify.com/album/1h5zAN0B3z5IUnaXFg6H6B) | 2:21 | 2022-06-01 | 2024-05-04 |
 | [Cholos al Punto](https://open.spotify.com/track/7knvkQS97TeGHM4MdoohpB) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Cholos al Punto](https://open.spotify.com/album/2cPLZSwKE24J1sZLqzoIg1) | 2:39 | 2022-12-07 |  |
@@ -93,7 +94,7 @@
 | [Los Caminos de la Vida \- Spotify Singles](https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Los Caminos de la Vida \(Spotify Singles\)](https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5) | 5:28 | 2022-06-01 | 2025-11-09 |
 | [Los Dos Amigos \- En Vivo](https://open.spotify.com/track/5pjpZf1TXXqpCNS7WTuAeB) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [En Vivo Desde las Cañas](https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx) | 3:14 | 2022-06-01 | 2022-12-08 |
 | [Lupe Campos](https://open.spotify.com/track/4td9uuqgQFAzJ3qoJS6Ozx) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Circo](https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq) | 3:36 | 2022-06-01 |  |
-| [Me Derrito](https://open.spotify.com/track/3vcrtSYtHJrhyWEBkzSDpM) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Me Derrito](https://open.spotify.com/album/4XkaEPeQ7KLillZsiWpuVC) | 2:50 | 2026-03-22 |  |
+| [Me Derrito](https://open.spotify.com/track/3vcrtSYtHJrhyWEBkzSDpM) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Me Derrito](https://open.spotify.com/album/4XkaEPeQ7KLillZsiWpuVC) | 2:50 | 2026-03-22 | 2026-06-22 |
 | [Me Estoy Acostumbrando](https://open.spotify.com/track/123ZTlYqsFk57j8Q9ge47R) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Boleros de Hoy](https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox) | 3:09 | 2022-06-01 |  |
 | [Me Llamas](https://open.spotify.com/track/3zit24OlxsW8Z3pYl55WF6) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [NORTEÑAZO](https://open.spotify.com/artist/24Spi0bZV1slKqwAOlTf4f) | [Defendiendo la Vieja Escuela](https://open.spotify.com/album/2ARkzmZMpi6KQUfeE0k5EZ) | 4:21 | 2026-06-08 |  |
 | [Me Quedo Corto](https://open.spotify.com/track/3Y1R9AjjxKvKTTTirCJnlt) | [El Poder Del Norte De Arturo Buenrostro](https://open.spotify.com/artist/369DgLEdifFiRIfXMYaFFI), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Me Quedo Corto](https://open.spotify.com/album/08uEMT6l4krbkJDtbhVV8i) | 3:42 | 2024-10-27 | 2024-11-23 |

@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-581 songs - 1 day 12 hr 7 min
+585 songs - 1 day 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Andando Sin Prisa](https://open.spotify.com/track/7F14FNeb1lWPxNHXTkJvjk) | [El Sueño de Vákner](https://open.spotify.com/artist/7fWvpRmhgfH4IJpeXain5l) | [Andando Sin Prisa](https://open.spotify.com/album/5RCbfhmxo8NhkWQJZsIApe) | 4:28 | 2026-04-05 | 2026-04-21 |
 | [Angel Can You Hear Me](https://open.spotify.com/track/7zC97ICTUUdzfDRvlbtu6Y) | [Sam Wilson](https://open.spotify.com/artist/2HLoEJMRPOYaumUCslXOIW) | [Optimist](https://open.spotify.com/album/5A5PiRlBXDmIr7XhXoEBln) | 3:32 | 2025-09-03 |  |
 | [Aquella mirada](https://open.spotify.com/track/3KnPS50cVLvfJhaN8CGQUo) | [Exilio a Plutón](https://open.spotify.com/artist/0RDcwUWOCSUSxJe3mMNhqh) | [Aquella Mirada](https://open.spotify.com/album/61EmKeW5ZlfiO1Q5PI7Yw7) | 4:01 | 2025-10-06 | 2025-11-28 |
+| [Art of Illusion](https://open.spotify.com/track/34IvfagtpjzxvKq61JyaoL) | [Wildchains](https://open.spotify.com/artist/6LTDVLBOAZYAcrn459uQf8) | [The Great Fado I](https://open.spotify.com/album/6LbUYxq27ZKbb2TRJbfV19) | 3:01 | 2026-06-21 |  |
 | [Artık](https://open.spotify.com/track/461MvyYbmNiLKMjl9dLGbG) | [Aras Arslan](https://open.spotify.com/artist/6BKgIw6tXuCQM0UIs6yyEy) | [Artık](https://open.spotify.com/album/7FuyvKt1vQtehzmxiPDi4i) | 4:15 | 2025-11-25 | 2025-12-17 |
 | [Ashes To Grace](https://open.spotify.com/track/2Z5qebPh1gJTJWCf3yVt1n) | [The Render Line](https://open.spotify.com/artist/5h7q4HzHvLpDZl0YUVOuMR) | [You Can Do The Impossible](https://open.spotify.com/album/6zuAnc1h4qrD6OCoosnKfh) | 3:06 | 2026-05-20 | 2026-06-18 |
 | [Au bout de la nuit](https://open.spotify.com/track/5h2b8NmBP1NuDRcj3MiOY2) | [Adamé](https://open.spotify.com/artist/0sERWA25W58jwsWqspklGe) | [Au bout de la nuit](https://open.spotify.com/album/0fWJ5dT5EhIG9BrosvE55D) | 2:25 | 2025-11-03 | 2025-12-17 |
@@ -148,6 +149,7 @@
 | [Don´t Bring Me Down](https://open.spotify.com/track/4jVzDkL9RP27tfWy3q78Tn) | [Elizabeth](https://open.spotify.com/artist/0tgidGFMzSBoxZI87spcTW), [SinCrawler](https://open.spotify.com/artist/2aGUDAsWVwhbc8bnqNx5Ho) | [Don´t Bring Me Down](https://open.spotify.com/album/3tyHhtZSfDpBbCD8tT6RW6) | 3:41 | 2025-12-22 | 2026-04-21 |
 | [DOREEN](https://open.spotify.com/track/7LOQd5m4rMPhbojmmB1Bm7) | [MARYLANE](https://open.spotify.com/artist/5r45fyB9QJhHBZHinKcqyY) | [DOREEN](https://open.spotify.com/album/0w7r4xOOpJdTfhTgz63uix) | 5:08 | 2026-04-12 |  |
 | [Dream Again](https://open.spotify.com/track/39eQtcHzL3h7ZFLo2rsagt) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [Dream Again](https://open.spotify.com/album/0GFov3N8c9CZAbOjSUv0PW) | 4:16 | 2026-01-11 |  |
+| [Drinking](https://open.spotify.com/track/6YysdxnxuAhIO2Y8ty36uu) | [INTOTHEVOID](https://open.spotify.com/artist/4FYLVQGKQn5RIycdpzZtlj) | [Drinking](https://open.spotify.com/album/7tNTL4WyylZ97QB0YSxsuw) | 5:20 | 2026-06-21 |  |
 | [Día Uno](https://open.spotify.com/track/5VsgNggxi9TqdaTZdxGu5h) | [A New Addiction](https://open.spotify.com/artist/51K7A0J9GRIFQEYVsHtoNV) | [Día Uno](https://open.spotify.com/album/14xgFMCKwyOhnNKlnZHpwq) | 3:20 | 2025-10-09 | 2025-11-28 |
 | [E so chi sei](https://open.spotify.com/track/7wiewFshn7HGbfbkAjBAo0) | [Davide Tonello](https://open.spotify.com/artist/53qVOSpwIpsKTfgXl7o8QG), [Gigi Cavalli Cocchi](https://open.spotify.com/artist/1e8xgA8q63uywSwnkfbngd) | [E so chi sei](https://open.spotify.com/album/3ht8h2QMfmMdgVfaaXT0Ob) | 3:06 | 2026-05-30 |  |
 | [Easy Rollin](https://open.spotify.com/track/32v73Yi63EoEukVxoaSv93) | [CHOCA BLUES](https://open.spotify.com/artist/3cCPBFA3njtllaTGO7Av2W) | [The Way We Roll](https://open.spotify.com/album/1QkiIps2aHo0aqkw3xWukw) | 2:48 | 2026-03-14 | 2026-04-21 |
@@ -472,6 +474,7 @@
 | [Spaceship L\-U\-V](https://open.spotify.com/track/7F42O7dbgst9G1Z2Hkut5w) | [Shayan Regan](https://open.spotify.com/artist/4MqBmgnfLeYmizJVpJz65k) | [Zero Hour: Genesis](https://open.spotify.com/album/4TRnRuOoJeCcsQNRTuLd2r) | 2:20 | 2026-05-31 | 2026-06-18 |
 | [Sparks in this Town](https://open.spotify.com/track/3RqIdENWmSSxFVbkAYNFnZ) | [Fionn Camp](https://open.spotify.com/artist/2zlENRxJLJxwUaKpKBT38L), [Brandon Bing](https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR) | [Sparks in this Town](https://open.spotify.com/album/4WXHNk60Qd7lnwzWpjgsAZ) | 3:43 | 2026-05-24 |  |
 | [Spine](https://open.spotify.com/track/23DvAjrBATcWGDy6U9CqDB) | [Les Hommes Crabes](https://open.spotify.com/artist/4ULwrrKmZDTybXbNDC3xGL) | [GALAK 51](https://open.spotify.com/album/5advJux4HnBDXaLvUovkq6) | 4:29 | 2026-01-25 |  |
+| [Standing In The Light](https://open.spotify.com/track/4EFxWojLE1JWH8uxobQ5M4) | [Felix Commerell](https://open.spotify.com/artist/0oyPV1Y8OGya6ypcQJH36d), [Gianni Pontillo](https://open.spotify.com/artist/25WlZGbmXfwrs9dSWjyEZ7), [Thomy Gunn](https://open.spotify.com/artist/5LmWKf6HXvytwVL8ElnLcP) | [Standing In The Light](https://open.spotify.com/album/3gdxXCYrlx3NGSTtUPYSsn) | 3:46 | 2026-06-21 |  |
 | [Stay Back](https://open.spotify.com/track/02wm1989sxHOnZJK9IY0EU) | [Jenny Scara](https://open.spotify.com/artist/0F4yegE6Xa3vC2KvCoJTGw) | [I've Got a Story to Tell](https://open.spotify.com/album/5Ssz0Vi0rbAGXRkF4hhOoX) | 2:25 | 2026-04-30 | 2026-05-26 |
 | [Step By Step](https://open.spotify.com/track/4PxUH42cgwnWMVG4Wgri18) | [Amelina](https://open.spotify.com/artist/2KB8CcoEbyUA0hP58619Iu) | [Step By Step](https://open.spotify.com/album/3cec3xCfuMviPNoBTta7Qv) | 3:43 | 2026-05-25 | 2026-06-18 |
 | [Sternschnuppenmoment](https://open.spotify.com/track/5BVOoeObY2AYkSTQlokJxM) | [Foreignson and his Ghosts](https://open.spotify.com/artist/6mHpLUCFZ6U5aOY4Qmjy3h) | [Sternschnuppenmoment](https://open.spotify.com/album/43vzqAlHnIQKFRF8aK8hTk) | 3:52 | 2026-03-24 | 2026-04-21 |
@@ -519,6 +522,7 @@
 | [Three Good Motown Puns](https://open.spotify.com/track/52YlgRaJn2bzOeasVwQ1Sr) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [Three Good Motown Puns](https://open.spotify.com/album/0rHNfIKgzKZPMRlg57Qfj5) | 3:16 | 2026-06-14 |  |
 | [Thrift Store Girl](https://open.spotify.com/track/2jq9HoHfKXEJJR3noL0DQM) | [Idan Altman](https://open.spotify.com/artist/7MomsgGtMu3PUg3dRGleQQ) | [It all works out in the ☰nd](https://open.spotify.com/album/6j6ll53WaTvtgH4CYz4MAw) | 3:45 | 2025-12-22 | 2026-04-21 |
 | [Time Is A Weapon](https://open.spotify.com/track/7F0rYUVBoEV4wEFeXG070e) | [Julience](https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL) | [Time Is A Weapon](https://open.spotify.com/album/46wy0eBBTvxxI3llxxWkAE) | 3:30 | 2026-01-27 | 2026-03-18 |
+| [To blues tis monaksias](https://open.spotify.com/track/0i1sZjx82aJ1rOe6bPqWqy) | [Giorgos Martos](https://open.spotify.com/artist/3P8DI56L3cFZ7rEzoCoCVl) | [Psaks'to vathia](https://open.spotify.com/album/5fYs3dSNay0mHopgunjVXq) | 3:57 | 2026-06-21 |  |
 | [Tonight](https://open.spotify.com/track/5WeH9AfJ8rXgojFe2Ljgpf) | [Father 2 Son](https://open.spotify.com/artist/5yWnhjsEZd6oAmi80xpYv7) | [Tonight](https://open.spotify.com/album/1je3MKYL9fqv0leNc02zfr) | 3:05 | 2025-10-28 | 2025-12-17 |
 | [Too Good To Ignore](https://open.spotify.com/track/1oTPNzxF7XROhYe6AEvTfz) | [Penny Deluxe](https://open.spotify.com/artist/4IqTVknJLCF3Z1gjDPKe2t) | [Too Good To Ignore](https://open.spotify.com/album/42CINCmx63mfUPpe1floNp) | 6:43 | 2026-03-14 | 2026-04-21 |
 | [Too Late](https://open.spotify.com/track/13MB9XtESMGSWZfwpo4Z3G) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [See the Sun](https://open.spotify.com/album/6ezu2PIyB2NK6twZUcJzTs) | 3:44 | 2025-09-21 |  |

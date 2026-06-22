@@ -1,6 +1,6 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover: Yemi Alade & Bien",
-  "num_followers": 644906,
+  "num_followers": 644966,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,22 @@
     {
       "added_at": "2026-06-19 00:01:48",
       "album": {
-        "name": "catharsis",
-        "url": "https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S"
+        "name": "Gorgeous",
+        "url": "https://open.spotify.com/album/7Fo5tL7m98AhCG0GoA5XMx"
       },
       "artists": [
         {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
         },
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
         }
       ],
-      "duration_ms": 162587,
-      "name": "golibe",
-      "url": "https://open.spotify.com/track/0WjpZZPLAAADeY9Hdam4Nr"
+      "duration_ms": 182790,
+      "name": "Gorgeous",
+      "url": "https://open.spotify.com/track/26WHsDWr4zdbxtZ1XRdnsD"
     },
     {
       "added_at": "2026-06-19 00:01:48",
@@ -755,22 +755,22 @@
     {
       "added_at": "2026-06-19 00:01:48",
       "album": {
-        "name": "Gorgeous",
-        "url": "https://open.spotify.com/album/7Fo5tL7m98AhCG0GoA5XMx"
+        "name": "catharsis",
+        "url": "https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S"
       },
       "artists": [
         {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
         },
         {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 182790,
-      "name": "Gorgeous",
-      "url": "https://open.spotify.com/track/26WHsDWr4zdbxtZ1XRdnsD"
+      "duration_ms": 162587,
+      "name": "golibe",
+      "url": "https://open.spotify.com/track/0WjpZZPLAAADeY9Hdam4Nr"
     },
     {
       "added_at": "2026-06-19 00:01:48",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-06-19 00:01:48",
       "album": {
-        "name": "you",
-        "url": "https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR"
-      },
-      "artists": [
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 165642,
-      "name": "you",
-      "url": "https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l"
-    },
-    {
-      "added_at": "2026-06-19 00:01:48",
-      "album": {
         "name": "Calculate",
         "url": "https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo"
       },
@@ -835,6 +819,42 @@
       "duration_ms": 180688,
       "name": "Calculate",
       "url": "https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC"
+    },
+    {
+      "added_at": "2026-06-19 00:01:48",
+      "album": {
+        "name": "Signature (with Lasmid)",
+        "url": "https://open.spotify.com/album/38jBpb68a3lHX3yDkJvKoO"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "duration_ms": 162935,
+      "name": "Signature (with Lasmid)",
+      "url": "https://open.spotify.com/track/5lvBgJ7NIq4XTchoRJX4FJ"
+    },
+    {
+      "added_at": "2026-06-19 00:01:48",
+      "album": {
+        "name": "you",
+        "url": "https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 165642,
+      "name": "you",
+      "url": "https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l"
     },
     {
       "added_at": "2026-06-19 00:01:48",
@@ -863,26 +883,6 @@
       "duration_ms": 183947,
       "name": "Come Slide",
       "url": "https://open.spotify.com/track/75uppmIvjtxiutMdmA8C9c"
-    },
-    {
-      "added_at": "2026-06-19 00:01:48",
-      "album": {
-        "name": "Signature (with Lasmid)",
-        "url": "https://open.spotify.com/album/38jBpb68a3lHX3yDkJvKoO"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        },
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
-        }
-      ],
-      "duration_ms": 162935,
-      "name": "Signature (with Lasmid)",
-      "url": "https://open.spotify.com/track/5lvBgJ7NIq4XTchoRJX4FJ"
     },
     {
       "added_at": "2026-06-19 00:01:48",
@@ -919,6 +919,26 @@
       "duration_ms": 133624,
       "name": "Realness",
       "url": "https://open.spotify.com/track/6Uh5S2WjXoFPkgcVHaQV0d"
+    },
+    {
+      "added_at": "2026-06-19 00:01:48",
+      "album": {
+        "name": "Lomo Lomo",
+        "url": "https://open.spotify.com/album/4MTFOFZPAkcVKhnk76J6EK"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 175130,
+      "name": "Lomo Lomo",
+      "url": "https://open.spotify.com/track/12jJRu9yInIX7oTxoXtM0S"
     },
     {
       "added_at": "2026-06-19 00:01:48",
@@ -963,26 +983,6 @@
     {
       "added_at": "2026-06-19 00:01:48",
       "album": {
-        "name": "Lomo Lomo",
-        "url": "https://open.spotify.com/album/4MTFOFZPAkcVKhnk76J6EK"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 175130,
-      "name": "Lomo Lomo",
-      "url": "https://open.spotify.com/track/12jJRu9yInIX7oTxoXtM0S"
-    },
-    {
-      "added_at": "2026-06-19 00:01:48",
-      "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP"
       },
@@ -995,6 +995,26 @@
       "duration_ms": 137631,
       "name": "Higher",
       "url": "https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN"
+    },
+    {
+      "added_at": "2026-06-19 00:01:48",
+      "album": {
+        "name": "Run Away (OMALICHA)",
+        "url": "https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 176200,
+      "name": "Run Away (OMALICHA)",
+      "url": "https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q"
     },
     {
       "added_at": "2026-06-19 00:01:48",
@@ -1055,26 +1075,6 @@
       "duration_ms": 153098,
       "name": "alone (feat. BhadBoi OML)",
       "url": "https://open.spotify.com/track/37PVItglTwpHi9nq0ftOjg"
-    },
-    {
-      "added_at": "2026-06-19 00:01:48",
-      "album": {
-        "name": "Run Away (OMALICHA)",
-        "url": "https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        },
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 176200,
-      "name": "Run Away (OMALICHA)",
-      "url": "https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q"
     },
     {
       "added_at": "2026-06-19 00:01:48",
@@ -1199,6 +1199,26 @@
     {
       "added_at": "2026-06-19 00:01:48",
       "album": {
+        "name": "Bad Vibes",
+        "url": "https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 168406,
+      "name": "Bad Vibes (feat. Seyi Vibez)",
+      "url": "https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX"
+    },
+    {
+      "added_at": "2026-06-19 00:01:48",
+      "album": {
         "name": "I'M OK",
         "url": "https://open.spotify.com/album/76l0XFIFlbBpMhYHg5pgOZ"
       },
@@ -1219,26 +1239,6 @@
       "duration_ms": 157241,
       "name": "I'M OK",
       "url": "https://open.spotify.com/track/2f04CjDwGwX0QBHso7qdy5"
-    },
-    {
-      "added_at": "2026-06-19 00:01:48",
-      "album": {
-        "name": "Bad Vibes",
-        "url": "https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 168406,
-      "name": "Bad Vibes (feat. Seyi Vibez)",
-      "url": "https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX"
     },
     {
       "added_at": "2026-06-19 00:01:48",
@@ -1279,22 +1279,18 @@
     {
       "added_at": "2026-06-19 00:01:48",
       "album": {
-        "name": "Before The Morning Light",
-        "url": "https://open.spotify.com/album/2ReT5MpfcBcllICauo5NNr"
+        "name": "Luv Again",
+        "url": "https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv"
       },
       "artists": [
         {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
         }
       ],
-      "duration_ms": 193672,
-      "name": "Speak Up",
-      "url": "https://open.spotify.com/track/45974CiXdsg3UK6cvgmbOv"
+      "duration_ms": 220606,
+      "name": "Luv Again",
+      "url": "https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM"
     },
     {
       "added_at": "2026-06-19 00:01:48",
@@ -1323,18 +1319,22 @@
     {
       "added_at": "2026-06-19 00:01:48",
       "album": {
-        "name": "Luv Again",
-        "url": "https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv"
+        "name": "Before The Morning Light",
+        "url": "https://open.spotify.com/album/2ReT5MpfcBcllICauo5NNr"
       },
       "artists": [
         {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
         }
       ],
-      "duration_ms": 220606,
-      "name": "Luv Again",
-      "url": "https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM"
+      "duration_ms": 193672,
+      "name": "Speak Up",
+      "url": "https://open.spotify.com/track/45974CiXdsg3UK6cvgmbOv"
     }
   ],
   "unique_name": "Afropop",

@@ -1,6 +1,6 @@
 {
   "description": "Take it easy with these laid back tracks from the eighties...",
-  "num_followers": 1512245,
+  "num_followers": 1512257,
   "original_name": "Easy 80s",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-06-03 14:38:56",
       "album": {
-        "name": "Chicago 16 (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/4NmlDrnZOd3ejob9PoiOd9"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 304213,
-      "name": "Hard to Say I'm Sorry / Get Away - 2006 Remaster",
-      "url": "https://open.spotify.com/track/07TnWCHrFkvF61GzJuLVt0"
-    },
-    {
-      "added_at": "2024-06-03 14:38:56",
-      "album": {
         "name": "Alannah Myles",
         "url": "https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 287440,
       "name": "Black Velvet",
       "url": "https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N"
+    },
+    {
+      "added_at": "2024-06-03 14:38:56",
+      "album": {
+        "name": "Chicago 16 (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/4NmlDrnZOd3ejob9PoiOd9"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "duration_ms": 304213,
+      "name": "Hard to Say I'm Sorry / Get Away - 2006 Remaster",
+      "url": "https://open.spotify.com/track/07TnWCHrFkvF61GzJuLVt0"
     },
     {
       "added_at": "2024-06-03 14:38:56",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-06-03 14:38:56",
       "album": {
-        "name": "Rio (Collector's Edition)",
-        "url": "https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 333306,
-      "name": "Save a Prayer - 2009 Remaster",
-      "url": "https://open.spotify.com/track/1ff8lsrJ2kuZuofMw81EQo"
-    },
-    {
-      "added_at": "2024-06-03 14:38:56",
-      "album": {
         "name": "The Age Of Plastic",
         "url": "https://open.spotify.com/album/2fgCz9kQCDy0miERCy0sCJ"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 252773,
       "name": "Video Killed The Radio Star",
       "url": "https://open.spotify.com/track/7o7E1nrHWncYY7PY94gCiX"
+    },
+    {
+      "added_at": "2024-06-03 14:38:56",
+      "album": {
+        "name": "Rio (Collector's Edition)",
+        "url": "https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 333306,
+      "name": "Save a Prayer - 2009 Remaster",
+      "url": "https://open.spotify.com/track/1ff8lsrJ2kuZuofMw81EQo"
     },
     {
       "added_at": "2024-06-03 14:38:56",
@@ -999,18 +999,22 @@
     {
       "added_at": "2024-06-03 14:38:56",
       "album": {
-        "name": "Coming Around Again",
-        "url": "https://open.spotify.com/album/4e8tywT8lMIUakJnX6aFcc"
+        "name": "Baggariddim",
+        "url": "https://open.spotify.com/album/6UjYrQhvKY0dq6nos8TVc8"
       },
       "artists": [
         {
-          "name": "Carly Simon",
-          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+          "name": "UB40",
+          "url": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+        },
+        {
+          "name": "Chrissie Hynde",
+          "url": "https://open.spotify.com/artist/2ozLlEZTdSV3pjHgWwZMsi"
         }
       ],
-      "duration_ms": 218493,
-      "name": "Coming Around Again",
-      "url": "https://open.spotify.com/track/4YVjOnSTkv0ZVdgI6sS7Wb"
+      "duration_ms": 189093,
+      "name": "I Got You Babe",
+      "url": "https://open.spotify.com/track/07itbZUgkAmBi4CEH5NniJ"
     },
     {
       "added_at": "2024-06-03 14:38:56",
@@ -1047,22 +1051,18 @@
     {
       "added_at": "2024-06-03 14:38:56",
       "album": {
-        "name": "Baggariddim",
-        "url": "https://open.spotify.com/album/6UjYrQhvKY0dq6nos8TVc8"
+        "name": "Coming Around Again",
+        "url": "https://open.spotify.com/album/4e8tywT8lMIUakJnX6aFcc"
       },
       "artists": [
         {
-          "name": "UB40",
-          "url": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
-        },
-        {
-          "name": "Chrissie Hynde",
-          "url": "https://open.spotify.com/artist/2ozLlEZTdSV3pjHgWwZMsi"
+          "name": "Carly Simon",
+          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
         }
       ],
-      "duration_ms": 189093,
-      "name": "I Got You Babe",
-      "url": "https://open.spotify.com/track/07itbZUgkAmBi4CEH5NniJ"
+      "duration_ms": 218493,
+      "name": "Coming Around Again",
+      "url": "https://open.spotify.com/track/4YVjOnSTkv0ZVdgI6sS7Wb"
     },
     {
       "added_at": "2024-06-03 14:38:56",

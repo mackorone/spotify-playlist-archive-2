@@ -1,6 +1,6 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover:  6uff",
-  "num_followers": 191395,
+  "num_followers": 191431,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,26 @@
     {
       "added_at": "2026-06-19 00:01:51",
       "album": {
+        "name": "Exopa",
+        "url": "https://open.spotify.com/album/1VPdhKOOdHoiDI7OGoFZS9"
+      },
+      "artists": [
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        },
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        }
+      ],
+      "duration_ms": 190515,
+      "name": "Exopa",
+      "url": "https://open.spotify.com/track/74A0vehdP6e2ccKt7SRiRb"
+    },
+    {
+      "added_at": "2026-06-19 00:01:51",
+      "album": {
         "name": "PAY ME",
         "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
       },
@@ -587,22 +607,22 @@
     {
       "added_at": "2026-06-19 00:01:51",
       "album": {
-        "name": "Exopa",
-        "url": "https://open.spotify.com/album/1VPdhKOOdHoiDI7OGoFZS9"
+        "name": "Motho Waka",
+        "url": "https://open.spotify.com/album/6iKVn15atmmWwvz3qZFaVl"
       },
       "artists": [
         {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
         },
         {
-          "name": "Odunsi (The Engine)",
-          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+          "name": "Maglera Doe Boy",
+          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
         }
       ],
-      "duration_ms": 190515,
-      "name": "Exopa",
-      "url": "https://open.spotify.com/track/74A0vehdP6e2ccKt7SRiRb"
+      "duration_ms": 185454,
+      "name": "Motho Waka",
+      "url": "https://open.spotify.com/track/0V5v4EMQA5zlXwfQugIgJR"
     },
     {
       "added_at": "2026-06-19 00:01:51",
@@ -627,26 +647,6 @@
     {
       "added_at": "2026-06-19 00:01:51",
       "album": {
-        "name": "Motho Waka",
-        "url": "https://open.spotify.com/album/6iKVn15atmmWwvz3qZFaVl"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Maglera Doe Boy",
-          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
-        }
-      ],
-      "duration_ms": 185454,
-      "name": "Motho Waka",
-      "url": "https://open.spotify.com/track/0V5v4EMQA5zlXwfQugIgJR"
-    },
-    {
-      "added_at": "2026-06-19 00:01:51",
-      "album": {
         "name": "Everlasting Taker",
         "url": "https://open.spotify.com/album/2KDt3GJumWApNjXbGBaWH6"
       },
@@ -659,6 +659,22 @@
       "duration_ms": 118736,
       "name": "Everlasting Taker",
       "url": "https://open.spotify.com/track/4fuLcIzYkc6MtFc09GG1mZ"
+    },
+    {
+      "added_at": "2026-06-19 00:01:51",
+      "album": {
+        "name": "News at 7",
+        "url": "https://open.spotify.com/album/0QL33TwFCQGAF9prvHW3Wt"
+      },
+      "artists": [
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        }
+      ],
+      "duration_ms": 166097,
+      "name": "News at 7",
+      "url": "https://open.spotify.com/track/0BmV1Ke3e4dfuKNzNWrsXv"
     },
     {
       "added_at": "2026-06-19 00:01:51",
@@ -683,18 +699,18 @@
     {
       "added_at": "2026-06-19 00:01:51",
       "album": {
-        "name": "News at 7",
-        "url": "https://open.spotify.com/album/0QL33TwFCQGAF9prvHW3Wt"
+        "name": "NBA",
+        "url": "https://open.spotify.com/album/2ALybwwwe9YvLxFV7Ok5nK"
       },
       "artists": [
         {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
         }
       ],
-      "duration_ms": 166097,
-      "name": "News at 7",
-      "url": "https://open.spotify.com/track/0BmV1Ke3e4dfuKNzNWrsXv"
+      "duration_ms": 169043,
+      "name": "NBA",
+      "url": "https://open.spotify.com/track/6SYSI5Fol8vWUexnGsCY0E"
     },
     {
       "added_at": "2026-06-19 00:01:51",
@@ -715,22 +731,6 @@
     {
       "added_at": "2026-06-19 00:01:51",
       "album": {
-        "name": "NBA",
-        "url": "https://open.spotify.com/album/2ALybwwwe9YvLxFV7Ok5nK"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        }
-      ],
-      "duration_ms": 169043,
-      "name": "NBA",
-      "url": "https://open.spotify.com/track/6SYSI5Fol8vWUexnGsCY0E"
-    },
-    {
-      "added_at": "2026-06-19 00:01:51",
-      "album": {
         "name": "The Odyssey",
         "url": "https://open.spotify.com/album/1cMwW3RWNFCLR8A9gUQRVG"
       },
@@ -747,6 +747,26 @@
       "duration_ms": 179381,
       "name": "Talisman",
       "url": "https://open.spotify.com/track/2P22ObGtUEeNwO8r2BNfOW"
+    },
+    {
+      "added_at": "2026-06-19 00:01:51",
+      "album": {
+        "name": "Sexy Highlife",
+        "url": "https://open.spotify.com/album/1rAaxsX5aLqoay5bIQIXvi"
+      },
+      "artists": [
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        },
+        {
+          "name": "Bosom P-Yung",
+          "url": "https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ"
+        }
+      ],
+      "duration_ms": 127969,
+      "name": "Akosua Broni",
+      "url": "https://open.spotify.com/track/5lVoi1WVhCUHJuerWt6Kyf"
     },
     {
       "added_at": "2026-06-19 00:01:51",
@@ -775,22 +795,18 @@
     {
       "added_at": "2026-06-19 00:01:51",
       "album": {
-        "name": "Sexy Highlife",
-        "url": "https://open.spotify.com/album/1rAaxsX5aLqoay5bIQIXvi"
+        "name": "Ole",
+        "url": "https://open.spotify.com/album/6e1CdfcFjtnf37di95cDZk"
       },
       "artists": [
         {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
-        },
-        {
-          "name": "Bosom P-Yung",
-          "url": "https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ"
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
         }
       ],
-      "duration_ms": 127969,
-      "name": "Akosua Broni",
-      "url": "https://open.spotify.com/track/5lVoi1WVhCUHJuerWt6Kyf"
+      "duration_ms": 135333,
+      "name": "Ole",
+      "url": "https://open.spotify.com/track/4cp8wthzz6r1VXImwu35H7"
     },
     {
       "added_at": "2026-06-19 00:01:51",
@@ -847,22 +863,6 @@
       "duration_ms": 185690,
       "name": "Believer",
       "url": "https://open.spotify.com/track/5wtj681ak0jF5EeuoWmweC"
-    },
-    {
-      "added_at": "2026-06-19 00:01:51",
-      "album": {
-        "name": "Ole",
-        "url": "https://open.spotify.com/album/6e1CdfcFjtnf37di95cDZk"
-      },
-      "artists": [
-        {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
-        }
-      ],
-      "duration_ms": 135333,
-      "name": "Ole",
-      "url": "https://open.spotify.com/track/4cp8wthzz6r1VXImwu35H7"
     },
     {
       "added_at": "2026-06-19 00:01:51",

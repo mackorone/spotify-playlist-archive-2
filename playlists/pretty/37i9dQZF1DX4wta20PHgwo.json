@@ -1,6 +1,6 @@
 {
   "description": "The perfect backdrop to an evening spent relaxing in solitude.",
-  "num_followers": 2183487,
+  "num_followers": 2183467,
   "original_name": "Late Night Jazz",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-06-12 07:58:54",
       "album": {
-        "name": "Where Light Settles",
-        "url": "https://open.spotify.com/album/12zXswD56NoDPTM8zlR9Co"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Myra",
-          "url": "https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK"
-        }
-      ],
-      "duration_ms": 350640,
-      "name": "Some Rain Must Fall",
-      "url": "https://open.spotify.com/track/7bXGshtzy2q4qfndkageDQ"
-    },
-    {
-      "added_at": "2026-06-12 07:58:54",
-      "album": {
         "name": "Paramount Quartet",
         "url": "https://open.spotify.com/album/17ACl4xvmRJAPgjcBJEPmh"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 444677,
       "name": "First Song",
       "url": "https://open.spotify.com/track/2t3HFsxdM5liMav1TQIE1m"
+    },
+    {
+      "added_at": "2026-06-12 07:58:54",
+      "album": {
+        "name": "Where Light Settles",
+        "url": "https://open.spotify.com/album/12zXswD56NoDPTM8zlR9Co"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Myra",
+          "url": "https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK"
+        }
+      ],
+      "duration_ms": 350640,
+      "name": "Some Rain Must Fall",
+      "url": "https://open.spotify.com/track/7bXGshtzy2q4qfndkageDQ"
     },
     {
       "added_at": "2026-06-12 07:58:54",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-06-12 07:58:54",
       "album": {
-        "name": "El Bazita",
-        "url": "https://open.spotify.com/album/4tj3ZFELcUVaTuc1oqw8BY"
-      },
-      "artists": [
-        {
-          "name": "Avishai Cohen",
-          "url": "https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l"
-        }
-      ],
-      "duration_ms": 241303,
-      "name": "El Bazita",
-      "url": "https://open.spotify.com/track/4DD7TxEznG8QclshuPIbxv"
-    },
-    {
-      "added_at": "2026-06-12 07:58:54",
-      "album": {
         "name": "The Peacocks",
         "url": "https://open.spotify.com/album/22WyPgbJNJCoWQLfnPAEgd"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 423813,
       "name": "Stream",
       "url": "https://open.spotify.com/track/16w6mm1Wg1dD9Nqkl720O0"
+    },
+    {
+      "added_at": "2026-06-12 07:58:54",
+      "album": {
+        "name": "El Bazita",
+        "url": "https://open.spotify.com/album/4tj3ZFELcUVaTuc1oqw8BY"
+      },
+      "artists": [
+        {
+          "name": "Avishai Cohen",
+          "url": "https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l"
+        }
+      ],
+      "duration_ms": 241303,
+      "name": "El Bazita",
+      "url": "https://open.spotify.com/track/4DD7TxEznG8QclshuPIbxv"
     },
     {
       "added_at": "2026-06-12 07:58:54",
@@ -755,6 +755,22 @@
     {
       "added_at": "2026-06-12 07:58:54",
       "album": {
+        "name": "Unembeza",
+        "url": "https://open.spotify.com/album/0UtUATkwdBFmZA4eWUzLfA"
+      },
+      "artists": [
+        {
+          "name": "Nduduzo Makhathini",
+          "url": "https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft"
+        }
+      ],
+      "duration_ms": 263829,
+      "name": "Unembeza",
+      "url": "https://open.spotify.com/track/0oXf39CHXtxZYGWWNsExhF"
+    },
+    {
+      "added_at": "2026-06-12 07:58:54",
+      "album": {
         "name": "Stockholm Underground",
         "url": "https://open.spotify.com/album/6Q2EuXcFJk2EDWpKPsBchl"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 188716,
       "name": "Theme for Laura",
       "url": "https://open.spotify.com/track/4rH0C49g6oJcPzsHgCzNLQ"
-    },
-    {
-      "added_at": "2026-06-12 07:58:54",
-      "album": {
-        "name": "Unembeza",
-        "url": "https://open.spotify.com/album/0UtUATkwdBFmZA4eWUzLfA"
-      },
-      "artists": [
-        {
-          "name": "Nduduzo Makhathini",
-          "url": "https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft"
-        }
-      ],
-      "duration_ms": 263829,
-      "name": "Unembeza",
-      "url": "https://open.spotify.com/track/0oXf39CHXtxZYGWWNsExhF"
     },
     {
       "added_at": "2026-06-12 07:58:54",
@@ -939,26 +939,6 @@
     {
       "added_at": "2026-06-12 07:58:54",
       "album": {
-        "name": "Playing The Room",
-        "url": "https://open.spotify.com/album/3Uh0OBXUvooc3z8IgqO5US"
-      },
-      "artists": [
-        {
-          "name": "Avishai Cohen",
-          "url": "https://open.spotify.com/artist/7pLCGEFmIawVDA35Up9OSG"
-        },
-        {
-          "name": "Yonathan Avishai",
-          "url": "https://open.spotify.com/artist/71Ek3rVXvYuvaRamNMs5k7"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Azalea",
-      "url": "https://open.spotify.com/track/2Lz03NspvyxfiCjgdtpEVR"
-    },
-    {
-      "added_at": "2026-06-12 07:58:54",
-      "album": {
         "name": "Isabela",
         "url": "https://open.spotify.com/album/53IXzlGp6ibwzN5DHR156U"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 650226,
       "name": "Isabela",
       "url": "https://open.spotify.com/track/3sRMYgT5GinbUCw5pkGfKB"
+    },
+    {
+      "added_at": "2026-06-12 07:58:54",
+      "album": {
+        "name": "Playing The Room",
+        "url": "https://open.spotify.com/album/3Uh0OBXUvooc3z8IgqO5US"
+      },
+      "artists": [
+        {
+          "name": "Avishai Cohen",
+          "url": "https://open.spotify.com/artist/7pLCGEFmIawVDA35Up9OSG"
+        },
+        {
+          "name": "Yonathan Avishai",
+          "url": "https://open.spotify.com/artist/71Ek3rVXvYuvaRamNMs5k7"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Azalea",
+      "url": "https://open.spotify.com/track/2Lz03NspvyxfiCjgdtpEVR"
     },
     {
       "added_at": "2026-06-12 07:58:54",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2026-06-12 07:58:54",
       "album": {
-        "name": "Oblique Two-Step",
-        "url": "https://open.spotify.com/album/0mbTP0QGR7WRF7bDkYelW6"
-      },
-      "artists": [
-        {
-          "name": "Le Boeuf Brothers",
-          "url": "https://open.spotify.com/artist/4CKGMKn8tVtZOjILTE2Uc7"
-        }
-      ],
-      "duration_ms": 220493,
-      "name": "Oblique Two-Step",
-      "url": "https://open.spotify.com/track/02McZ2EWQf34IsdK8P3FjB"
-    },
-    {
-      "added_at": "2026-06-12 07:58:54",
-      "album": {
         "name": "There Will Always Be We",
         "url": "https://open.spotify.com/album/3tOVSgsrHavqZWIY6Vuywv"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 225206,
       "name": "The Past Is What Changes The Most",
       "url": "https://open.spotify.com/track/6wJpJyoDAPr5wQ7w0hapGx"
+    },
+    {
+      "added_at": "2026-06-12 07:58:54",
+      "album": {
+        "name": "Oblique Two-Step",
+        "url": "https://open.spotify.com/album/0mbTP0QGR7WRF7bDkYelW6"
+      },
+      "artists": [
+        {
+          "name": "Le Boeuf Brothers",
+          "url": "https://open.spotify.com/artist/4CKGMKn8tVtZOjILTE2Uc7"
+        }
+      ],
+      "duration_ms": 220493,
+      "name": "Oblique Two-Step",
+      "url": "https://open.spotify.com/track/02McZ2EWQf34IsdK8P3FjB"
     },
     {
       "added_at": "2026-06-12 07:58:54",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2026-06-12 07:58:54",
       "album": {
-        "name": "Orange Sea",
-        "url": "https://open.spotify.com/album/6Dvj8ssB0RIknMIQ5Fe0YM"
-      },
-      "artists": [
-        {
-          "name": "Matthias Bublath",
-          "url": "https://open.spotify.com/artist/3us680mKjIt756UpyYnqbV"
-        }
-      ],
-      "duration_ms": 369060,
-      "name": "What Are You Doing for the Rest of Your Life",
-      "url": "https://open.spotify.com/track/3DhFy161BJDOR5KcvtSmY7"
-    },
-    {
-      "added_at": "2026-06-12 07:58:54",
-      "album": {
         "name": "Secondo",
         "url": "https://open.spotify.com/album/7oJ1XC8Bd9jQqFKgxAFG7o"
       },
@@ -2047,18 +2031,18 @@
     {
       "added_at": "2026-06-12 07:58:54",
       "album": {
-        "name": "Pause",
-        "url": "https://open.spotify.com/album/4hsAzbCsj34wT8lBYArxn0"
+        "name": "Orange Sea",
+        "url": "https://open.spotify.com/album/6Dvj8ssB0RIknMIQ5Fe0YM"
       },
       "artists": [
         {
-          "name": "Casper Hejlesen",
-          "url": "https://open.spotify.com/artist/6wJA4brAniop9TeGhaL17g"
+          "name": "Matthias Bublath",
+          "url": "https://open.spotify.com/artist/3us680mKjIt756UpyYnqbV"
         }
       ],
-      "duration_ms": 263872,
-      "name": "Pause",
-      "url": "https://open.spotify.com/track/5kmRpMlAFCCuo8tWpNIvx9"
+      "duration_ms": 369060,
+      "name": "What Are You Doing for the Rest of Your Life",
+      "url": "https://open.spotify.com/track/3DhFy161BJDOR5KcvtSmY7"
     },
     {
       "added_at": "2026-06-12 07:58:54",
@@ -2083,6 +2067,22 @@
       "duration_ms": 207306,
       "name": "A Blacksmith's Tale",
       "url": "https://open.spotify.com/track/5dKt8ZixGTGg9Uif6znrOn"
+    },
+    {
+      "added_at": "2026-06-12 07:58:54",
+      "album": {
+        "name": "Pause",
+        "url": "https://open.spotify.com/album/4hsAzbCsj34wT8lBYArxn0"
+      },
+      "artists": [
+        {
+          "name": "Casper Hejlesen",
+          "url": "https://open.spotify.com/artist/6wJA4brAniop9TeGhaL17g"
+        }
+      ],
+      "duration_ms": 263872,
+      "name": "Pause",
+      "url": "https://open.spotify.com/track/5kmRpMlAFCCuo8tWpNIvx9"
     },
     {
       "added_at": "2026-06-12 07:58:54",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2026-06-12 07:58:54",
       "album": {
-        "name": "Loslassen",
-        "url": "https://open.spotify.com/album/135ABCv2URHzD38LYxby5Q"
-      },
-      "artists": [
-        {
-          "name": "Bastian Menz Quintett",
-          "url": "https://open.spotify.com/artist/3GScxzwqyHVE32qX1Gcu6k"
-        }
-      ],
-      "duration_ms": 261708,
-      "name": "Loslassen",
-      "url": "https://open.spotify.com/track/4lFv85FtR9pRqJVhY8hv7f"
-    },
-    {
-      "added_at": "2026-06-12 07:58:54",
-      "album": {
         "name": "Outside Introspections",
         "url": "https://open.spotify.com/album/0tCjmwUji1atshYWrDXBZf"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 309960,
       "name": "Just Go Ahead",
       "url": "https://open.spotify.com/track/6nbKLj4siHi1hc3YuFqauA"
+    },
+    {
+      "added_at": "2026-06-12 07:58:54",
+      "album": {
+        "name": "Loslassen",
+        "url": "https://open.spotify.com/album/135ABCv2URHzD38LYxby5Q"
+      },
+      "artists": [
+        {
+          "name": "Bastian Menz Quintett",
+          "url": "https://open.spotify.com/artist/3GScxzwqyHVE32qX1Gcu6k"
+        }
+      ],
+      "duration_ms": 261708,
+      "name": "Loslassen",
+      "url": "https://open.spotify.com/track/4lFv85FtR9pRqJVhY8hv7f"
     },
     {
       "added_at": "2026-06-12 07:58:54",

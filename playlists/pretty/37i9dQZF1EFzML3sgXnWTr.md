@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2RXuZnFEt8P7rr9UUIsyZo">Alessandro La Cava</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,908 likes - 96 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,907 likes - 96 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 24 | [Maranza](https://open.spotify.com/track/6Ybc2KTvfEiJeHSneaak7o) | [Il Pagante](https://open.spotify.com/artist/1vKXVGgIDP1XXZX4Tehjtn), [Fabio Rovazzi](https://open.spotify.com/artist/35orQw8LgQn7KOFjzCyY7E) | [FOMO](https://open.spotify.com/album/54ya3twstlGFMzEtsETqpl) | 3:00 |
 | 25 | [ALLUCINAZIONE COLLETTIVA](https://open.spotify.com/track/2znPPkwAfVVD7BJtqDSZqQ) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i) | [ALLUCINAZIONE COLLETTIVA](https://open.spotify.com/album/5wY53ViB7NBbvztuRDP7se) | 2:56 |
 | 26 | [NERO GOTICO](https://open.spotify.com/track/1KZKtIn6ul3F68mY4YY0cg) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [PRIMO](https://open.spotify.com/album/7u25F0vMvoStxcrqvzYGgp) | 3:04 |
-| 27 | [RAGAZZI FUORI](https://open.spotify.com/track/6fJcbngwZoGyhpO1JOHI2R) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [PRIMO](https://open.spotify.com/album/7u25F0vMvoStxcrqvzYGgp) | 2:56 |
-| 28 | [AL MIO PAESE](https://open.spotify.com/track/4uDzwzT9vjM6pUnhxmClxK) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi), [Levante](https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G), [DELIA](https://open.spotify.com/artist/0BjRnUqiITQwjqGtTeoxUS) | [SACRO](https://open.spotify.com/album/5fjacR3hNh14bYgoAyyEIS) | 3:17 |
+| 27 | [AL MIO PAESE](https://open.spotify.com/track/4uDzwzT9vjM6pUnhxmClxK) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi), [Levante](https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G), [DELIA](https://open.spotify.com/artist/0BjRnUqiITQwjqGtTeoxUS) | [SACRO](https://open.spotify.com/album/5fjacR3hNh14bYgoAyyEIS) | 3:17 |
+| 28 | [RAGAZZI FUORI](https://open.spotify.com/track/6fJcbngwZoGyhpO1JOHI2R) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [PRIMO](https://open.spotify.com/album/7u25F0vMvoStxcrqvzYGgp) | 2:56 |
 | 29 | [raggi gamma](https://open.spotify.com/track/6UEPZv9ZGcoZRxnkCq5C2p) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [sangiovanni](https://open.spotify.com/album/7oMyjqYnpRhVYQKwjHrnFd) | 3:15 |
 | 30 | [L'UNICA](https://open.spotify.com/track/4UFS1osMKu4hGJwZtmfvuX) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [G](https://open.spotify.com/album/5gvYcdf39vRCCPGBuh72VG) | 3:10 |
 | 31 | [Tutti I Miei Ricordi](https://open.spotify.com/track/6TcnHPvUaY3OH6SKKiS2N1) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [MATERIA \(TERRA\)](https://open.spotify.com/album/38nebQ0IpOOQ4y8OERnIwZ) | 3:24 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 61 | [Metà mondo](https://open.spotify.com/track/5zZ0yzln50TFBzKl1YNckG) | [Gio Evan](https://open.spotify.com/artist/1UjLyuJUXKzlECQRLIsF3n) | [Metà mondo](https://open.spotify.com/album/6dJf5WCRsjpCX0pvDlLdZy) | 2:58 |
 | 62 | [Odio Amore Chimico](https://open.spotify.com/track/02OZT1ygcgP9ZNc8AoUIiJ) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [MI AMI MI ODI](https://open.spotify.com/album/0grqDgwk7yAw6j4PxjHECP) | 3:40 |
 | 63 | [ESTREMO](https://open.spotify.com/track/6Q7DveRtCfLSMSg4p6VL82) | [Jacopo Sol](https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng) | [ESTREMO](https://open.spotify.com/album/7c05tr49abSfQZgJ0N3nDu) | 2:53 |
-| 64 | [Zero](https://open.spotify.com/track/6PlfN1EXFyXvh7D87Fe4hb) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Anime parallele](https://open.spotify.com/album/3hM5S9Gfx0ihdizWu5dgWF) | 3:21 |
-| 65 | [DI TUTTI](https://open.spotify.com/track/24cXuGIIlZKOsBztMwgrEK) | [Jacopo Sol](https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng) | [DI TUTTI](https://open.spotify.com/album/73wOQCcvqPi9oQQ2yTRbby) | 3:24 |
+| 64 | [DI TUTTI](https://open.spotify.com/track/24cXuGIIlZKOsBztMwgrEK) | [Jacopo Sol](https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng) | [DI TUTTI](https://open.spotify.com/album/73wOQCcvqPi9oQQ2yTRbby) | 3:24 |
+| 65 | [Zero](https://open.spotify.com/track/6PlfN1EXFyXvh7D87Fe4hb) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Anime parallele](https://open.spotify.com/album/3hM5S9Gfx0ihdizWu5dgWF) | 3:21 |
 | 66 | [VITA LENTA](https://open.spotify.com/track/6iqB8oRV4rhzHv6iSVkeah) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [SOUVENIR \(Extended Edition\)](https://open.spotify.com/album/7JajfTaMnKAwz3BcM67Zx9) | 2:10 |
 | 67 | [SOGNI SPORCHI](https://open.spotify.com/track/0TF3HpySQc7lV4tleKPFAY) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Musica Triste](https://open.spotify.com/album/0WkQEbjeD5IfLgpbHYb7aN) | 3:04 |
 | 68 | [Lame \(feat\. CLARA, Tedua\)](https://open.spotify.com/track/5sHB0BW7azchwsEINurkIM) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [GLORIA](https://open.spotify.com/album/6mygYhUqwT2zaoPcuCBBwf) | 2:28 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 95 | [Non cambia mai](https://open.spotify.com/track/4huAaH4Q2zf6pj6dhiCqOn) | [Luigi Strangis](https://open.spotify.com/artist/7kuB7tieHx2PaQwRTNFcnZ) | [Voglio la gonna](https://open.spotify.com/album/3NNCpZojXm9nasubGE0JTr) | 3:10 |
 | 96 | [Per sempre si](https://open.spotify.com/track/5FvH6VAvolNEooauCJFmA5) | [Couverture](https://open.spotify.com/artist/5MnkPWhF25sUyQKjkmFazf) | [Sanremo 2026 \- Strings & Piano Version](https://open.spotify.com/album/06hb15M2F0YbNC5XpoPovN) | 3:14 |
 
-Snapshot ID: `AcUwkAAAAADagkfh1Dlv3nTh2bJ3tAQB`
+Snapshot ID: `AcU2MAAAAAANtoVyuuxcDBc48DGQRXgP`

@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 55 | [Human](https://open.spotify.com/track/3z9JozYBleU6BhOY3rt0a3) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Future Renaissance](https://open.spotify.com/album/14WJvgC04sHE4m7HIXZ8Ri) | 2:35 |
 | 56 | [Frequency \(Go West\)](https://open.spotify.com/track/64jnLLOAwnDscTYCAc6oct) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW) | [Frequency \(Go West\)](https://open.spotify.com/album/72YdJwYP5izEXu4itP8u7B) | 2:33 |
 | 57 | [Ghost town...](https://open.spotify.com/track/38oXrd1MqNYOTdhIpgDYJ1) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Ghost town...](https://open.spotify.com/album/2Fwcr34Ta0UdWAHtakPLdD) | 2:44 |
-| 58 | [Peace of Mind](https://open.spotify.com/track/4K0d1T6SUO9Ji9vyXl657d) | [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [Peace of Mind](https://open.spotify.com/album/2hrhHhcevl0g70FBgynmIh) | 2:57 |
+| 58 | [LOVESONGS](https://open.spotify.com/track/2VxbZ0V7UK4tR17FVDwIPR) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BEAUTIFUL MADNESS](https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv) | 3:33 |
 | 59 | [WAKE UP](https://open.spotify.com/track/0lPFLQVyNQlhd9Pw7PdQFr) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BEAUTIFUL MADNESS](https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv) | 3:04 |
-| 60 | [LOVESONGS](https://open.spotify.com/track/2VxbZ0V7UK4tR17FVDwIPR) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BEAUTIFUL MADNESS](https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv) | 3:33 |
+| 60 | [Peace of Mind](https://open.spotify.com/track/4K0d1T6SUO9Ji9vyXl657d) | [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [Peace of Mind](https://open.spotify.com/album/2hrhHhcevl0g70FBgynmIh) | 2:57 |
 | 61 | [You Don't Know](https://open.spotify.com/track/15UDHEYwK7VjnWr0PpAaC8) | [Dan Port](https://open.spotify.com/artist/6KA3l8F3e3uI8jYBIDGVH5) | [You Don't Know](https://open.spotify.com/album/1QL4XnWI90TLqKnvP9bfta) | 2:43 |
 | 62 | [Energy](https://open.spotify.com/track/5YoLcp1bzRTN8sNWXuGvxu) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Energy](https://open.spotify.com/album/1GdqL2xW6eVsnBhTRQmTVc) | 4:01 |
 | 63 | [Don't Blame Me](https://open.spotify.com/track/70AwlxR2BDTHVOZqEG9Q4M) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq) | [Don't Blame Me](https://open.spotify.com/album/6s9hNo5GBTTVkCjhYc0fbG) | 2:00 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 143 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
 | 144 | [PRE](https://open.spotify.com/track/211CggMXVH5VprHhj8iHvF) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BEAUTIFUL MADNESS](https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv) | 0:17 |
 
-Snapshot ID: `AcUwwgAAAAADZwQOkcCCpaTnaLrHAF0z`
+Snapshot ID: `AcU2YgAAAACG84ZbniFe4fmsSqsUSDqo`

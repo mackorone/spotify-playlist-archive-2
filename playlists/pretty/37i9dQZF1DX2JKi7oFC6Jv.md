@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 
 > The best in UK Funky\. Cover: Roska
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,048 likes - 60 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,060 likes - 60 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,10 +32,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 22 | [Tribal Skank \- Radio Mix](https://open.spotify.com/track/1o8waXzOEeUIAlsApWyLEp) | [Fr3e](https://open.spotify.com/artist/6sezwfsYnNgPPKvmv9FmoF) | [Tribal Skank](https://open.spotify.com/album/2waOIVyj1rWWRyBssmfAbt) | 3:44 |
 | 23 | [Lighter VIP](https://open.spotify.com/track/58mlFUs5fy2d6B7bGA06iV) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR) | [Lighter EP](https://open.spotify.com/album/1aMv0600AWsjglH7gdeOuL) | 4:33 |
 | 24 | [Devil in a Blue Dress](https://open.spotify.com/track/6mXvnvgtkVjXlg8bjzN71g) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Party Hard](https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV) | 4:40 |
-| 25 | [Frontline](https://open.spotify.com/track/6h05VHWDLN16kDBSWe0KpH) | [Princess Nyah](https://open.spotify.com/artist/0hqvQutG576D21W1yxkSsh) | [Diary of a Princess](https://open.spotify.com/album/1mzpEX5Ofcd8Vehzt8pGQe) | 3:55 |
-| 26 | [Im Right Here \(Naughty Mix\)](https://open.spotify.com/track/5aVCzF8Df9wnnkskNK3ZDs) | [DJ MA1](https://open.spotify.com/artist/2QJVs1SDIWbAIqLSavHBQi) | [Im Right Here](https://open.spotify.com/album/4xJgP8lZ2v1F7SqSTScyvr) | 8:12 |
+| 25 | [Peas In A Pod](https://open.spotify.com/track/7HIxhNg4Ko9CvKYpVPMS94) | [Wilfy D](https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Peas In A Pod](https://open.spotify.com/album/4pbXoYwjXiX2vHD3zOGjmE) | 3:09 |
+| 26 | [Frontline](https://open.spotify.com/track/6h05VHWDLN16kDBSWe0KpH) | [Princess Nyah](https://open.spotify.com/artist/0hqvQutG576D21W1yxkSsh) | [Diary of a Princess](https://open.spotify.com/album/1mzpEX5Ofcd8Vehzt8pGQe) | 3:55 |
 | 27 | [BLU Magic](https://open.spotify.com/track/7jXF5MEo0MBRjdf5Uy7j1t) | [iLL BLU](https://open.spotify.com/artist/550Zxz0BTZi3yd8gX9QINw) | [The BLU Magic Project Remix EP](https://open.spotify.com/album/1p8R2BA13zfBxEO5fMlImp) | 4:32 |
-| 28 | [Peas In A Pod](https://open.spotify.com/track/7HIxhNg4Ko9CvKYpVPMS94) | [Wilfy D](https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Peas In A Pod](https://open.spotify.com/album/4pbXoYwjXiX2vHD3zOGjmE) | 3:09 |
+| 28 | [Im Right Here \(Naughty Mix\)](https://open.spotify.com/track/5aVCzF8Df9wnnkskNK3ZDs) | [DJ MA1](https://open.spotify.com/artist/2QJVs1SDIWbAIqLSavHBQi) | [Im Right Here](https://open.spotify.com/album/4xJgP8lZ2v1F7SqSTScyvr) | 8:12 |
 | 29 | [Timbao](https://open.spotify.com/track/5sNy4a6dJKPNb2DFZ4qvxZ) | [Lorenzo\_BITW](https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV) | [Basta / Timbao](https://open.spotify.com/album/2YgTYx8XxrFbOy08eVyNpA) | 3:48 |
 | 30 | [Tribal Warrior](https://open.spotify.com/track/0VhVO2DHLPRptJhTg60stS) | [Bakongo](https://open.spotify.com/artist/4FmchdtAj76UxQiNOjCgMo) | [Tribal Warrior](https://open.spotify.com/album/5qCvhwNOVnIunkiBwnbBYs) | 5:08 |
 | 31 | [Daydreaming \- Radio Edit](https://open.spotify.com/track/51JHr7mOf85cBREWpKlVLK) | [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr), [Calista](https://open.spotify.com/artist/6A2nY049pOVi16IhBf5Ui2) | [Daydreaming \(Radio Edit\)](https://open.spotify.com/album/3eIj8Z11UWvxinKSUe8qUt) | 3:13 |

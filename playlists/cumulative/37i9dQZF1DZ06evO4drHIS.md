@@ -4,7 +4,7 @@
 
 > This is Majo Aguilar\. The essential tracks, all in one playlist.
 
-108 songs - 5 hr 51 min
+109 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [El Beso](https://open.spotify.com/track/37yyaWgqSRle0sKxW2p4Vc) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [El Beso](https://open.spotify.com/album/7g9R1E1UH8WlAjg4zV2xfi) | 2:35 | 2025-02-08 | 2025-07-30 |
 | [El Beso](https://open.spotify.com/track/3SzujGUyomnzKxn6rJDnks) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [El Beso](https://open.spotify.com/album/3XxHWOtpyZaT0wdMJJgW7D) | 2:35 | 2025-01-12 | 2025-02-08 |
 | [El Son De La Negra \- En Vivo Desde Pa’l Norte](https://open.spotify.com/track/6pP8G7qP1KkAnzbCbVnsYs) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Pa'l Norte \(En Vivo Desde Pa’l Norte\)](https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g) | 2:51 | 2023-03-10 | 2023-11-11 |
-| [El Sonido De Tu Voz](https://open.spotify.com/track/5aUiMBbZIQq6Zf8A8Njabo) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [El Sonido De Tu Voz](https://open.spotify.com/album/2VEl4SYSktKfN8eu1avFzJ) | 2:50 | 2026-02-11 |  |
+| [El Sonido De Tu Voz](https://open.spotify.com/track/5aUiMBbZIQq6Zf8A8Njabo) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [El Sonido De Tu Voz](https://open.spotify.com/album/2VEl4SYSktKfN8eu1avFzJ) | 2:50 | 2026-02-11 | 2026-06-22 |
 | [En Toda La Chapa](https://open.spotify.com/track/0lQS5SFMbECLut107qQFc1) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [En Toda La Chapa](https://open.spotify.com/album/2erq5i5VDRtcuy9dZ94KcL) | 2:57 | 2023-03-10 | 2025-03-30 |
 | [Enamorada](https://open.spotify.com/track/5d7GrBtJgeLoyWJGdYPNhf) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Enamorada](https://open.spotify.com/album/0QdCNeJ98pEltXgQZGhFS8) | 3:15 | 2025-09-10 |  |
 | [Eternocumbia](https://open.spotify.com/track/5Rqe0tS03rOu8Wbxhcmt38) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Soy](https://open.spotify.com/album/7JIaT4KIRis6bQJWpxSNXN) | 2:50 | 2023-03-10 | 2023-09-22 |
@@ -71,6 +71,7 @@
 | [Nadie Como Tú](https://open.spotify.com/track/1ndseyLQi4OjwsmchDsLet) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Nadie Como Tú](https://open.spotify.com/album/3JfApDXBer1RCuD8XhRye1) | 3:30 | 2023-08-19 |  |
 | [No Más Canciones De Amor](https://open.spotify.com/track/5KUXDV43C0Id3obmoiMVTz) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [No Más Canciones De Amor](https://open.spotify.com/album/06OW44HrziPwbrneC0HrIQ) | 2:31 | 2025-08-24 | 2026-03-22 |
 | [No Pidas Perdón](https://open.spotify.com/track/4T25QSWF3CemmblwbyZqkt) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [No Pidas Perdón](https://open.spotify.com/album/1hsPg6bG6BBj5czbuF34sT) | 3:04 | 2025-04-13 | 2025-09-10 |
+| [No Te Apartes de Mí](https://open.spotify.com/track/5fHc0yLAyEAmzF3VDCXlDw) | [Cumbia Machine](https://open.spotify.com/artist/3nMgAD8mwuLXwtSNUzw8qc), [Yahir](https://open.spotify.com/artist/1bqHIHJm8coUJqqoguolZJ), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [No Te Apartes de Mí](https://open.spotify.com/album/7wHS73JJOpGAJwhNqrMdIk) | 3:52 | 2026-06-22 |  |
 | [No Te Apartes De Mí](https://open.spotify.com/track/1YVXnczV8oqpMqn8RVsW35) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Canta Con El Corazón](https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd) | 3:59 | 2025-12-16 |  |
 | [No Te Apartes De Mí](https://open.spotify.com/track/7s2vND0qEFZBWr7Z7VAhFI) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [No Te Apartes De Mí](https://open.spotify.com/album/4vZEQj9Y4lmnz7Vq8fk9QJ) | 3:59 | 2023-03-10 | 2025-12-16 |
 | [No Vamos A Funcionar](https://open.spotify.com/track/336u1NAZgNYgPOdFggPqEU) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mariachi Y Tequila \(Deluxe\)](https://open.spotify.com/album/1CWzi6omgWhMTbaeSzraSr) | 3:05 | 2024-03-04 | 2024-03-08 |

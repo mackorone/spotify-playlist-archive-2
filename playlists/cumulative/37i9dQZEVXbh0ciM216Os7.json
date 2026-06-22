@@ -25462,7 +25462,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 106500,
       "name": "GEMINI SEASON",
       "url": "https://open.spotify.com/track/46qZ2dq0jsXHtwsLaI9tl1"
@@ -39674,7 +39674,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 210666,
       "name": "Lion",
       "url": "https://open.spotify.com/track/5bnwzZqznMuHEluXp9Tpil"
@@ -43602,6 +43602,28 @@
       "duration_ms": 172235,
       "name": "Mission",
       "url": "https://open.spotify.com/track/4VHfI89GQDDxcKZKB3D1Ls"
+    },
+    {
+      "album": {
+        "name": "BULLY - DELUXE",
+        "url": "https://open.spotify.com/album/3hwveWhYFxGDLy6K6xlwFh"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112751,
+      "name": "MISSION CONTROL",
+      "url": "https://open.spotify.com/track/040LDuJ8MWKKhV9Fdwc64N"
     },
     {
       "album": {
@@ -57090,7 +57112,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 125000,
       "name": "R\u00f6vars\u00e5ngen",
       "url": "https://open.spotify.com/track/1tGNZx8VWvIX10lUyAiLi7"
@@ -65657,6 +65679,28 @@
     },
     {
       "album": {
+        "name": "D12 Forever (Vol. 1)",
+        "url": "https://open.spotify.com/album/6EJpcUijwWlVtj0F1KEJEc"
+      },
+      "artists": [
+        {
+          "name": "D12",
+          "url": "https://open.spotify.com/artist/5Qi4Bb7a8C0a00NZcA77L0"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156734,
+      "name": "Tenderism",
+      "url": "https://open.spotify.com/track/5GKGBNipsCqBgYSRo4zJXk"
+    },
+    {
+      "album": {
         "name": "Tension",
         "url": "https://open.spotify.com/album/4pWQp4aFODizJSpUYtcpQb"
       },
@@ -72564,6 +72608,28 @@
       "duration_ms": 228576,
       "name": "Valentino",
       "url": "https://open.spotify.com/track/6L20ODb45hB1XvEUpJDs6r"
+    },
+    {
+      "album": {
+        "name": "Epic Summer, Pt. 1",
+        "url": "https://open.spotify.com/album/6Pdm2Yy23yHJAUPmEd6Dh0"
+      },
+      "artists": [
+        {
+          "name": "Tommy J",
+          "url": "https://open.spotify.com/artist/3xjgxBP5F0xxUr2Srjc2IO"
+        },
+        {
+          "name": "Anders Sk\u00f6ld",
+          "url": "https://open.spotify.com/artist/4gShb2zZSGQ3idqSEGmSFD"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Vandraren",
+      "url": "https://open.spotify.com/track/14jKV3WkhHNKoSdoa3Hq2D"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Sei nella tua running era e stai preparando a tua prossima mezza maratona \ud83c\udfc3\ud83c\udffb",
-  "num_followers": 135326,
+  "num_followers": 135344,
   "original_name": "Hit Per Correre",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,26 @@
     {
       "added_at": "2026-05-21 15:21:54",
       "album": {
+        "name": "The Sound of Silence (CYRIL Remix)",
+        "url": "https://open.spotify.com/album/4AaJMesGEVwF7QpWMSG29p"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 185238,
+      "name": "The Sound of Silence - CYRIL Remix",
+      "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
+    },
+    {
+      "added_at": "2026-05-21 15:21:54",
+      "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
       },
@@ -127,26 +147,6 @@
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
-    },
-    {
-      "added_at": "2026-05-21 15:21:54",
-      "album": {
-        "name": "The Sound of Silence (CYRIL Remix)",
-        "url": "https://open.spotify.com/album/4AaJMesGEVwF7QpWMSG29p"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        },
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        }
-      ],
-      "duration_ms": 185238,
-      "name": "The Sound of Silence - CYRIL Remix",
-      "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
     },
     {
       "added_at": "2026-05-21 15:21:54",
@@ -363,26 +363,6 @@
     {
       "added_at": "2026-05-21 15:21:54",
       "album": {
-        "name": "Brat and it\u2019s completely different but also still brat",
-        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 143330,
-      "name": "Guess featuring billie eilish",
-      "url": "https://open.spotify.com/track/0IsIY8pfu1yaGkPUD7pkDx"
-    },
-    {
-      "added_at": "2026-05-21 15:21:54",
-      "album": {
         "name": "Where Are You Now",
         "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 148197,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
+    },
+    {
+      "added_at": "2026-05-21 15:21:54",
+      "album": {
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 143330,
+      "name": "Guess featuring billie eilish",
+      "url": "https://open.spotify.com/track/0IsIY8pfu1yaGkPUD7pkDx"
     },
     {
       "added_at": "2026-05-21 15:21:54",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2026-05-21 15:21:54",
       "album": {
+        "name": "Love Tonight",
+        "url": "https://open.spotify.com/album/5KXv2MHeoLSqZ96jRuFF9H"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        }
+      ],
+      "duration_ms": 241970,
+      "name": "Love Tonight (Edit)",
+      "url": "https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP"
+    },
+    {
+      "added_at": "2026-05-21 15:21:54",
+      "album": {
         "name": "Money Made Me A Savage (Calabria)",
         "url": "https://open.spotify.com/album/61ppUwJEtGqCONLN7UMNAK"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 123854,
       "name": "Money Made Me A Savage - Calabria",
       "url": "https://open.spotify.com/track/1VDfvBUMwL3m1Sd9dMorR4"
-    },
-    {
-      "added_at": "2026-05-21 15:21:54",
-      "album": {
-        "name": "Love Tonight",
-        "url": "https://open.spotify.com/album/5KXv2MHeoLSqZ96jRuFF9H"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        }
-      ],
-      "duration_ms": 241970,
-      "name": "Love Tonight (Edit)",
-      "url": "https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP"
     },
     {
       "added_at": "2026-05-21 15:21:54",
@@ -1303,30 +1303,6 @@
     {
       "added_at": "2026-05-21 15:21:54",
       "album": {
-        "name": "Turn Me On (feat. Vula)",
-        "url": "https://open.spotify.com/album/7mtnp7B5yFt3D3PAznGzc8"
-      },
-      "artists": [
-        {
-          "name": "Riton",
-          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
-        },
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        },
-        {
-          "name": "Vula",
-          "url": "https://open.spotify.com/artist/6YqhcZlSE8ugUcmoHLw9gz"
-        }
-      ],
-      "duration_ms": 208473,
-      "name": "Turn Me On (feat. Vula)",
-      "url": "https://open.spotify.com/track/0qaWEvPkts34WF68r8Dzx9"
-    },
-    {
-      "added_at": "2026-05-21 15:21:54",
-      "album": {
         "name": "Substitution (feat. Julian Perretta)",
         "url": "https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7"
       },
@@ -1347,6 +1323,30 @@
       "duration_ms": 181477,
       "name": "Substitution (feat. Julian Perretta)",
       "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
+    },
+    {
+      "added_at": "2026-05-21 15:21:54",
+      "album": {
+        "name": "Turn Me On (feat. Vula)",
+        "url": "https://open.spotify.com/album/7mtnp7B5yFt3D3PAznGzc8"
+      },
+      "artists": [
+        {
+          "name": "Riton",
+          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Vula",
+          "url": "https://open.spotify.com/artist/6YqhcZlSE8ugUcmoHLw9gz"
+        }
+      ],
+      "duration_ms": 208473,
+      "name": "Turn Me On (feat. Vula)",
+      "url": "https://open.spotify.com/track/0qaWEvPkts34WF68r8Dzx9"
     },
     {
       "added_at": "2026-05-21 15:21:54",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2026-05-21 15:21:54",
       "album": {
+        "name": "You Little Beauty",
+        "url": "https://open.spotify.com/album/1voOnpa4pILlDPVsrIFl8b"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 206587,
+      "name": "You Little Beauty",
+      "url": "https://open.spotify.com/track/1gRQxbfL4ULWyTosgXSbWT"
+    },
+    {
+      "added_at": "2026-05-21 15:21:54",
+      "album": {
         "name": "SHADOWS",
         "url": "https://open.spotify.com/album/2kjMYQKKsGLAivQKy6Hbtp"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 201739,
       "name": "SHADOWS",
       "url": "https://open.spotify.com/track/7esJ56tKqU6aWABAdJJrFR"
-    },
-    {
-      "added_at": "2026-05-21 15:21:54",
-      "album": {
-        "name": "You Little Beauty",
-        "url": "https://open.spotify.com/album/1voOnpa4pILlDPVsrIFl8b"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 206587,
-      "name": "You Little Beauty",
-      "url": "https://open.spotify.com/track/1gRQxbfL4ULWyTosgXSbWT"
     },
     {
       "added_at": "2026-05-21 15:21:54",
@@ -1615,26 +1615,6 @@
     {
       "added_at": "2026-05-21 15:21:54",
       "album": {
-        "name": "Actual Life 3 (January 1 - September 9 2022)",
-        "url": "https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        }
-      ],
-      "duration_ms": 201230,
-      "name": "Danielle (smile on my face)",
-      "url": "https://open.spotify.com/track/09Rv6ctDE0t9z8zk5FINg8"
-    },
-    {
-      "added_at": "2026-05-21 15:21:54",
-      "album": {
         "name": "Drums (Feat. Kim Petras)",
         "url": "https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M"
       },
@@ -1651,6 +1631,26 @@
       "duration_ms": 152400,
       "name": "Drums (Feat. Kim Petras)",
       "url": "https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc"
+    },
+    {
+      "added_at": "2026-05-21 15:21:54",
+      "album": {
+        "name": "Actual Life 3 (January 1 - September 9 2022)",
+        "url": "https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 201230,
+      "name": "Danielle (smile on my face)",
+      "url": "https://open.spotify.com/track/09Rv6ctDE0t9z8zk5FINg8"
     },
     {
       "added_at": "2026-05-21 15:21:54",
@@ -1719,26 +1719,6 @@
     {
       "added_at": "2026-05-21 15:21:54",
       "album": {
-        "name": "Lasting Lover",
-        "url": "https://open.spotify.com/album/262JcveAzA4ngibAS3Ocm8"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 218358,
-      "name": "Lasting Lover",
-      "url": "https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY"
-    },
-    {
-      "added_at": "2026-05-21 15:21:54",
-      "album": {
         "name": "Never Be Lonely",
         "url": "https://open.spotify.com/album/1DCiXnF1Z9XX4zxYCFytSX"
       },
@@ -1755,6 +1735,26 @@
       "duration_ms": 134570,
       "name": "Never Be Lonely",
       "url": "https://open.spotify.com/track/4beKzTMCCMDizozv4Y3Shj"
+    },
+    {
+      "added_at": "2026-05-21 15:21:54",
+      "album": {
+        "name": "Lasting Lover",
+        "url": "https://open.spotify.com/album/262JcveAzA4ngibAS3Ocm8"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 218358,
+      "name": "Lasting Lover",
+      "url": "https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY"
     },
     {
       "added_at": "2026-05-21 15:21:54",
@@ -1991,30 +1991,6 @@
     {
       "added_at": "2026-05-21 15:21:54",
       "album": {
-        "name": "Unholy (feat. Kim Petras) [ACRAZE Remix]",
-        "url": "https://open.spotify.com/album/5q2WZFrJpYs53Ky2PSjeIg"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        },
-        {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        }
-      ],
-      "duration_ms": 176500,
-      "name": "Unholy (feat. Kim Petras) - ACRAZE Remix",
-      "url": "https://open.spotify.com/track/2Jn3wcH9TSCFMQjlWreTft"
-    },
-    {
-      "added_at": "2026-05-21 15:21:54",
-      "album": {
         "name": "World Hold On (FISHER Rework)",
         "url": "https://open.spotify.com/album/0F05CIPVb8qpUAz202ECcc"
       },
@@ -2035,6 +2011,30 @@
       "duration_ms": 178304,
       "name": "World Hold On - FISHER Rework",
       "url": "https://open.spotify.com/track/6t180YbVeK9MWrj2zjMr5Z"
+    },
+    {
+      "added_at": "2026-05-21 15:21:54",
+      "album": {
+        "name": "Unholy (feat. Kim Petras) [ACRAZE Remix]",
+        "url": "https://open.spotify.com/album/5q2WZFrJpYs53Ky2PSjeIg"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        },
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        }
+      ],
+      "duration_ms": 176500,
+      "name": "Unholy (feat. Kim Petras) - ACRAZE Remix",
+      "url": "https://open.spotify.com/track/2Jn3wcH9TSCFMQjlWreTft"
     }
   ],
   "unique_name": "Hit Per Correre",

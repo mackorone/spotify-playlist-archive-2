@@ -1,12 +1,12 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 46248,
+  "num_followers": 46281,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAADWvnJngmAwT6fnL9+4PIv7",
+  "snapshot_id": "ajXYAAAAAABXThr63DJbC88JbfLDKGn/",
   "tracks": [
     {
       "added_at": null,
@@ -303,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "margiela",
-        "url": "https://open.spotify.com/album/6lCILy46F44uFdrHCunZss"
+        "name": "A Great Chaos (Deluxe)",
+        "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 138165,
-      "name": "margiela",
-      "url": "https://open.spotify.com/track/0RJaSzzb7t8kaEb5LzPFJC"
+      "duration_ms": 186756,
+      "name": "loading",
+      "url": "https://open.spotify.com/track/71NkBajKZWS6eu6PomUm6u"
     },
     {
       "added_at": null,
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Great Chaos (Deluxe)",
-        "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
+        "name": "margiela",
+        "url": "https://open.spotify.com/album/6lCILy46F44uFdrHCunZss"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 186756,
-      "name": "loading",
-      "url": "https://open.spotify.com/track/71NkBajKZWS6eu6PomUm6u"
+      "duration_ms": 138165,
+      "name": "margiela",
+      "url": "https://open.spotify.com/track/0RJaSzzb7t8kaEb5LzPFJC"
     },
     {
       "added_at": null,

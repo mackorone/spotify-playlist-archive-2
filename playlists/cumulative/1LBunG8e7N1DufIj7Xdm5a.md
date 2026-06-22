@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,463 songs - 9 day 22 hr 53 min
+4,465 songs - 9 day 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1600,6 +1600,7 @@
 | [Ghosts of Desire](https://open.spotify.com/track/4rC3NvlrjKGT1RXuvJcU7P) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Neon Apocalypse](https://open.spotify.com/album/0CjDkfwPy9Iw8wYV8GKLRG) | 2:41 | 2025-09-16 |  |
 | [Ghunghat Mein Chhupa Hai Chehra](https://open.spotify.com/track/3EpjVf2yHa1UBe5KgWXKtc) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Ghunghat Mein Chhupa Hai Chehra](https://open.spotify.com/album/362wVpruWIxJjqC6Pekp40) | 3:49 | 2025-05-20 |  |
 | [GIALLO NERI FOREVER SUMMER 2025 \- REMIX](https://open.spotify.com/track/4UJd2xAGXXPlNJQIqsFbZp) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SUMMER](https://open.spotify.com/album/1CeAeb6aLQb4lhvHMHUQIT) | 2:42 | 2025-12-10 |  |
+| [Gigantes Caerán](https://open.spotify.com/track/1WOiMDM8mM1kOUte8Z4MYy) | [Pulso Divino](https://open.spotify.com/artist/2XK1i9oymQY7yT0CsaVALI) | [Tu Palabra](https://open.spotify.com/album/404H6EidSC1PmqDFfgr8Q8) | 3:07 | 2026-06-21 |  |
 | [Gin tonic sulla neve](https://open.spotify.com/track/5iiW1CMlN1jFGE7348D142) | [Ivan PolliX](https://open.spotify.com/artist/59dMTfr8L1qzJaGPpzwzZt), [Luca Berga](https://open.spotify.com/artist/2lQTeZR7h9sPvnZexNQSFr) | [Gin tonic sulla neve](https://open.spotify.com/album/4YwMJVkYTmDr9EPjr3v6u3) | 2:33 | 2026-01-31 |  |
 | [Ginger Red \(Oh, So Bad\)](https://open.spotify.com/track/19t6cnKhQsDLuZzyeRKcaU) | [Blackened Rose](https://open.spotify.com/artist/0LGlGxDSHcyyLK0xOWfSVL) | [Ginger Red \(Oh, So Bad\)](https://open.spotify.com/album/0GBfTTT1ml0FrVMaAi1AzF) | 3:39 | 2025-05-18 |  |
 | [Giocattolo](https://open.spotify.com/track/69kLu8BAypcpAha6sxz78M) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [CRINGE](https://open.spotify.com/album/5tmgSk2cwKZEne551QfWWE) | 3:05 | 2025-05-12 |  |
@@ -1966,6 +1967,7 @@
 | [Into the Light \(another\)](https://open.spotify.com/track/1h9JCstjzdJRZ1Qvr8ntpk) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [New Age Relax](https://open.spotify.com/album/5RiMWmGi4npP6fcQJkVk8t) | 2:29 | 2025-09-19 |  |
 | [Into the Open Sky](https://open.spotify.com/track/0TYcWwO1bIGeneetZNO8Ei) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [New Music](https://open.spotify.com/album/66FfQzVqvA99zoTDlgmrqO) | 2:45 | 2025-09-19 |  |
 | [Into the Open Sky \(another\)](https://open.spotify.com/track/5gvks6u83FJHu9vTGK1vqV) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [New Music](https://open.spotify.com/album/66FfQzVqvA99zoTDlgmrqO) | 2:11 | 2025-09-19 |  |
+| [Into The Thunder](https://open.spotify.com/track/2AMRFkNYxJ1sqwwrV83d8Z) | [Evil Creek](https://open.spotify.com/artist/2I4085hTPFNAyGRFvgo1LM) | [Into The Thunder](https://open.spotify.com/album/7oVoODSFUyTmO1AfkP5kdG) | 2:47 | 2026-06-21 |  |
 | [Intro](https://open.spotify.com/track/3OAlxfXdEPMHZR8gcTYMCn) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [Grandi Bugie Legalizzate](https://open.spotify.com/album/5plR5qER6ZLx0CRmLaegEW) | 1:05 | 2025-04-04 |  |
 | [Intro \- Lo Scommettitore](https://open.spotify.com/track/6X50QZJawVfUBLZTU64SzM) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [Lo Scommettitore](https://open.spotify.com/album/5IfnJZpGKhohKV3yjQUuc0) | 1:12 | 2025-04-04 |  |
 | [Invierno, recordar](https://open.spotify.com/track/7vr3JUqR1ePVTunGlEShPs) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Estaciones](https://open.spotify.com/album/6cPmSd73dLyqLlaEMXQrOD) | 2:43 | 2026-04-12 |  |

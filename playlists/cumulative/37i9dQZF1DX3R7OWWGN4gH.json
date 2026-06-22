@@ -553,6 +553,24 @@
     },
     {
       "album": {
+        "name": "Bite Back",
+        "url": "https://open.spotify.com/album/3iglOihc41S44Q82EXv5d8"
+      },
+      "artists": [
+        {
+          "name": "Nieve Ella",
+          "url": "https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn"
+        }
+      ],
+      "date_added": "2026-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189337,
+      "name": "Bite Back",
+      "url": "https://open.spotify.com/track/6ybNNGb5PdHL31Fg0KNjrB"
+    },
+    {
+      "album": {
         "name": "CCTV",
         "url": "https://open.spotify.com/album/6pLPp1De6DXPHhFry71Dn0"
       },
@@ -730,7 +748,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-29",
+      "date_removed": null,
       "duration_ms": 148470,
       "name": "Breakfast",
       "url": "https://open.spotify.com/track/6GUiIbJ834FcHewby3PwV0"
@@ -1372,7 +1390,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 148898,
       "name": "Cry Evil!",
       "url": "https://open.spotify.com/track/5CXtNr0l1ItHoclXPpa8aR"
@@ -2520,7 +2538,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 171236,
       "name": "He Asked for It",
       "url": "https://open.spotify.com/track/748Jj8PHFv5YcURGcD9hrr"
@@ -2724,7 +2742,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 184559,
       "name": "HOUNDSOFHELL",
       "url": "https://open.spotify.com/track/0mWAqUgHBubNf7phC3hjA0"
@@ -4154,7 +4172,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 180690,
       "name": "Play with Fire (feat. Yacht Money)",
       "url": "https://open.spotify.com/track/7vguMCv8uVuZLiQJ156u3Z"

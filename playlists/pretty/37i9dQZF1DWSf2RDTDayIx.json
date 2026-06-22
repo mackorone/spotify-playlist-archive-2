@@ -1,6 +1,6 @@
 {
   "description": "Feel-good <a href=\"spotify:genre:edm_dance\">dance music</a>!",
-  "num_followers": 2484538,
+  "num_followers": 2484643,
   "original_name": "Happy Beats",
   "owner": {
     "name": "Spotify",
@@ -687,26 +687,6 @@
     {
       "added_at": "2026-06-08 19:50:59",
       "album": {
-        "name": "By Your Side (feat. Tom Grennan)",
-        "url": "https://open.spotify.com/album/6Z6QdCXb3IBonAUSwLP4iB"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
-        }
-      ],
-      "duration_ms": 189671,
-      "name": "By Your Side (feat. Tom Grennan)",
-      "url": "https://open.spotify.com/track/0vR2rIVORmgeKiGIgNT0fV"
-    },
-    {
-      "added_at": "2026-06-08 19:50:59",
-      "album": {
         "name": "Dancing Feet (feat. DNCE)",
         "url": "https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 157205,
       "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
       "url": "https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY"
+    },
+    {
+      "added_at": "2026-06-08 19:50:59",
+      "album": {
+        "name": "By Your Side (feat. Tom Grennan)",
+        "url": "https://open.spotify.com/album/6Z6QdCXb3IBonAUSwLP4iB"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "duration_ms": 189671,
+      "name": "By Your Side (feat. Tom Grennan)",
+      "url": "https://open.spotify.com/track/0vR2rIVORmgeKiGIgNT0fV"
     },
     {
       "added_at": "2026-06-08 19:50:59",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-06-08 19:50:59",
       "album": {
-        "name": "Beat Goes On (Rhythm to the Brain)",
-        "url": "https://open.spotify.com/album/3kzNiWgiBTQMD48QbWYSRn"
-      },
-      "artists": [
-        {
-          "name": "Campbell",
-          "url": "https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK"
-        }
-      ],
-      "duration_ms": 133213,
-      "name": "Beat Goes On (Rhythm to the Brain)",
-      "url": "https://open.spotify.com/track/4iAADGCKIR9GkLGvAHfZUS"
-    },
-    {
-      "added_at": "2026-06-08 19:50:59",
-      "album": {
         "name": "You Are My High",
         "url": "https://open.spotify.com/album/5s2iFBMZSNVZLodUvlJMKk"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 164000,
       "name": "You Are My High",
       "url": "https://open.spotify.com/track/5casx9bgvIoxPJ4jN6cLfX"
+    },
+    {
+      "added_at": "2026-06-08 19:50:59",
+      "album": {
+        "name": "Beat Goes On (Rhythm to the Brain)",
+        "url": "https://open.spotify.com/album/3kzNiWgiBTQMD48QbWYSRn"
+      },
+      "artists": [
+        {
+          "name": "Campbell",
+          "url": "https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK"
+        }
+      ],
+      "duration_ms": 133213,
+      "name": "Beat Goes On (Rhythm to the Brain)",
+      "url": "https://open.spotify.com/track/4iAADGCKIR9GkLGvAHfZUS"
     },
     {
       "added_at": "2026-06-08 19:50:59",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-06-08 19:50:59",
       "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/06YNty6N97umwjZFABQnvn"
-      },
-      "artists": [
-        {
-          "name": "Baauer",
-          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
-        }
-      ],
-      "duration_ms": 230465,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/28Fhf4E24Y4iZqQ09nOUJx"
-    },
-    {
-      "added_at": "2026-06-08 19:50:59",
-      "album": {
         "name": "Endless Summer",
         "url": "https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 187040,
       "name": "Endless Summer",
       "url": "https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK"
+    },
+    {
+      "added_at": "2026-06-08 19:50:59",
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/06YNty6N97umwjZFABQnvn"
+      },
+      "artists": [
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        }
+      ],
+      "duration_ms": 230465,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/28Fhf4E24Y4iZqQ09nOUJx"
     },
     {
       "added_at": "2026-06-08 19:50:59",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2026-06-08 19:50:59",
       "album": {
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/3qte9ec3e2N3SNIQk8qLzy"
+      },
+      "artists": [
+        {
+          "name": "Jodie Harsh",
+          "url": "https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i"
+        }
+      ],
+      "duration_ms": 161068,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/7quk6gEs1XOu8LOO6iaDZJ"
+    },
+    {
+      "added_at": "2026-06-08 19:50:59",
+      "album": {
         "name": "Better Times",
         "url": "https://open.spotify.com/album/02ie8m0VrTiwLr8NHMuo2T"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 234374,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/0KG7XrgM20KEmJrKsyFDAm"
-    },
-    {
-      "added_at": "2026-06-08 19:50:59",
-      "album": {
-        "name": "Good Time",
-        "url": "https://open.spotify.com/album/3qte9ec3e2N3SNIQk8qLzy"
-      },
-      "artists": [
-        {
-          "name": "Jodie Harsh",
-          "url": "https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i"
-        }
-      ],
-      "duration_ms": 161068,
-      "name": "Good Time",
-      "url": "https://open.spotify.com/track/7quk6gEs1XOu8LOO6iaDZJ"
     },
     {
       "added_at": "2026-06-08 19:50:59",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2026-06-08 19:50:59",
       "album": {
-        "name": "Zero",
-        "url": "https://open.spotify.com/album/0eVbfgaX5oyxgUMJ6hqf1v"
-      },
-      "artists": [
-        {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
-        }
-      ],
-      "duration_ms": 192727,
-      "name": "Zero",
-      "url": "https://open.spotify.com/track/7E0xvOIQIFyTa3balkUrI5"
-    },
-    {
-      "added_at": "2026-06-08 19:50:59",
-      "album": {
         "name": "True Desire",
         "url": "https://open.spotify.com/album/3gyd7Tyt0V1WdpddExb32w"
       },
@@ -1767,6 +1751,30 @@
       "duration_ms": 155660,
       "name": "True Desire",
       "url": "https://open.spotify.com/track/6PUUMmIRrF8x2oq8M001VI"
+    },
+    {
+      "added_at": "2026-06-08 19:50:59",
+      "album": {
+        "name": "Love On You (feat. Griff Clawson)",
+        "url": "https://open.spotify.com/album/7hijxy3rso2MSNyHf0K5kj"
+      },
+      "artists": [
+        {
+          "name": "The Magician",
+          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
+        },
+        {
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        },
+        {
+          "name": "Griff Clawson",
+          "url": "https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7"
+        }
+      ],
+      "duration_ms": 170196,
+      "name": "Love On You (feat. Griff Clawson)",
+      "url": "https://open.spotify.com/track/7Iv0928rZ28KjivhAJPqfC"
     },
     {
       "added_at": "2026-06-08 19:50:59",
@@ -1799,30 +1807,6 @@
     {
       "added_at": "2026-06-08 19:50:59",
       "album": {
-        "name": "Love On You (feat. Griff Clawson)",
-        "url": "https://open.spotify.com/album/7hijxy3rso2MSNyHf0K5kj"
-      },
-      "artists": [
-        {
-          "name": "The Magician",
-          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
-        },
-        {
-          "name": "A-Trak",
-          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
-        },
-        {
-          "name": "Griff Clawson",
-          "url": "https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7"
-        }
-      ],
-      "duration_ms": 170196,
-      "name": "Love On You (feat. Griff Clawson)",
-      "url": "https://open.spotify.com/track/7Iv0928rZ28KjivhAJPqfC"
-    },
-    {
-      "added_at": "2026-06-08 19:50:59",
-      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/5jDbwD0TERrZkdzzIPNfz7"
       },
@@ -1847,22 +1831,18 @@
     {
       "added_at": "2026-06-08 19:50:59",
       "album": {
-        "name": "I Feel The Love",
-        "url": "https://open.spotify.com/album/6JtIYFExLthQZE4mcACrh4"
+        "name": "Zero",
+        "url": "https://open.spotify.com/album/0eVbfgaX5oyxgUMJ6hqf1v"
       },
       "artists": [
         {
-          "name": "MALUGI",
-          "url": "https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6"
-        },
-        {
-          "name": "Sam Harper",
-          "url": "https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe"
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
         }
       ],
-      "duration_ms": 153931,
-      "name": "I Feel The Love",
-      "url": "https://open.spotify.com/track/4EFiddelscAtM5atK22z61"
+      "duration_ms": 192727,
+      "name": "Zero",
+      "url": "https://open.spotify.com/track/7E0xvOIQIFyTa3balkUrI5"
     },
     {
       "added_at": "2026-06-08 19:50:59",
@@ -1879,6 +1859,26 @@
       "duration_ms": 213706,
       "name": "Our Home",
       "url": "https://open.spotify.com/track/5r29ub7D58nOi0vZbnvWGv"
+    },
+    {
+      "added_at": "2026-06-08 19:50:59",
+      "album": {
+        "name": "I Feel The Love",
+        "url": "https://open.spotify.com/album/6JtIYFExLthQZE4mcACrh4"
+      },
+      "artists": [
+        {
+          "name": "MALUGI",
+          "url": "https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6"
+        },
+        {
+          "name": "Sam Harper",
+          "url": "https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe"
+        }
+      ],
+      "duration_ms": 153931,
+      "name": "I Feel The Love",
+      "url": "https://open.spotify.com/track/4EFiddelscAtM5atK22z61"
     },
     {
       "added_at": "2026-06-08 19:50:59",
@@ -1967,6 +1967,22 @@
     {
       "added_at": "2026-06-08 19:50:59",
       "album": {
+        "name": "TANZPARTEI II (Mixtape)",
+        "url": "https://open.spotify.com/album/6lvniwPO6u3mkNTN3tSQcR"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "duration_ms": 151599,
+      "name": "Friday (Alone Right Now)",
+      "url": "https://open.spotify.com/track/3hx5rxhEbaSIoHY1erGnby"
+    },
+    {
+      "added_at": "2026-06-08 19:50:59",
+      "album": {
         "name": "Akon's Beautiful Day (David Guetta & Hypaton Remix)",
         "url": "https://open.spotify.com/album/1jXTJXYCsFXQ5cdHEPgE06"
       },
@@ -1987,22 +2003,6 @@
       "duration_ms": 175846,
       "name": "Akon's Beautiful Day - David Guetta & Hypaton Remix",
       "url": "https://open.spotify.com/track/1RKqTwaovKWaxs9I8xdygQ"
-    },
-    {
-      "added_at": "2026-06-08 19:50:59",
-      "album": {
-        "name": "TANZPARTEI II (Mixtape)",
-        "url": "https://open.spotify.com/album/6lvniwPO6u3mkNTN3tSQcR"
-      },
-      "artists": [
-        {
-          "name": "ATRIP",
-          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
-        }
-      ],
-      "duration_ms": 151599,
-      "name": "Friday (Alone Right Now)",
-      "url": "https://open.spotify.com/track/3hx5rxhEbaSIoHY1erGnby"
     },
     {
       "added_at": "2026-06-08 19:50:59",

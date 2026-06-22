@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-629 songs - 1 day 11 hr 26 min
+630 songs - 1 day 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,8 @@
 | [Gonna Be Alright](https://open.spotify.com/track/3FT93wB21kLbUapwnxbKsF) | [Shayne Ward](https://open.spotify.com/artist/6H4lieipng8aGu3Hbd1UeJ) | [Breathless \(Expanded Edition\)](https://open.spotify.com/album/6PrJNLgXlHedN48xbaKqEG) | 4:23 | 2024-01-29 |  |
 | [Good In Goodbye](https://open.spotify.com/track/1rDBEE2J1D9oJhtdK29jk6) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Blown Away](https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9) | 4:19 | 2024-01-29 |  |
 | [Good Life](https://open.spotify.com/track/6OtCIsQZ64Vs1EbzztvAv4) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up](https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr) | 4:13 | 2024-01-29 |  |
-| [Got 2 Luv U \(feat\. Alexis Jordan\)](https://open.spotify.com/track/62pSYErgGri97X9aIyBzHm) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Alexis Jordan](https://open.spotify.com/artist/5LmYIx9kSWBJOWbP4xAxb1) | [Tomahawk Technique](https://open.spotify.com/album/25o3xNsjPJahI22xQENaPd) | 3:24 | 2024-01-29 |  |
+| [Got 2 Luv U \(feat\. Alexis Jordan\)](https://open.spotify.com/track/21ugcKQyclYBZvzmCXsZ9x) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Alexis Jordan](https://open.spotify.com/artist/5LmYIx9kSWBJOWbP4xAxb1) | [Tomahawk Technique](https://open.spotify.com/album/4buFyX9hP8UM5srjPqya1Y) | 3:24 | 2026-06-21 |  |
+| [Got 2 Luv U \(feat\. Alexis Jordan\)](https://open.spotify.com/track/62pSYErgGri97X9aIyBzHm) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Alexis Jordan](https://open.spotify.com/artist/5LmYIx9kSWBJOWbP4xAxb1) | [Tomahawk Technique](https://open.spotify.com/album/25o3xNsjPJahI22xQENaPd) | 3:24 | 2024-01-29 | 2026-06-22 |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2024-01-30 |  |
 | [greedy](https://open.spotify.com/track/2hBbSTlbdMHeb9fOvyGRy1) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy \(Official Video\)](https://open.spotify.com/album/3KpxjUcidZpMXMfi3m2VqE) | 2:34 | 2024-01-29 | 2024-02-02 |
 | [Greenlight \- From "Songland"](https://open.spotify.com/track/5HgbcQFIHjNcn46w8ORwhu) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greenlight \(From "Songland"\)](https://open.spotify.com/album/3RRyP3NlMJOrPGxjrRfK5l) | 3:00 | 2024-01-29 |  |

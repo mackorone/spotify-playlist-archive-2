@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3S9miHGqiEuJftY8aaaBvm">Paul \(of Waterboutus\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-104 songs - 4 hr 27 min
+106 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Maske weg](https://open.spotify.com/track/3eVgCJOjrVgBa087nZ7jWE) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [traence](https://open.spotify.com/album/3Oxkc0e9D6eTJUL4e1yiEE) | 2:58 | 2026-06-09 |  |
 | [Mein Blut](https://open.spotify.com/track/0Gt2V17WTLAL4VdmueTfS7) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [traence](https://open.spotify.com/album/3Oxkc0e9D6eTJUL4e1yiEE) | 2:05 | 2026-06-09 |  |
 | [Moneyfeen](https://open.spotify.com/track/0AuQf2tbJaP5gNw6xVUtc0) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz), [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Moneyfeen](https://open.spotify.com/album/2h0BSzn8CrAUCYENsGpbFI) | 2:39 | 2026-06-09 |  |
-| [Mr\. Olympia \- Bonus](https://open.spotify.com/track/4rlcTx4pjDWmJusjRQBLnH) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz), [Eljero Winchester](https://open.spotify.com/artist/4QdW2CcWnjVdq3deGqX1ZJ) | [Say Less \(Bonus\)](https://open.spotify.com/album/6C9yE5GnQrsrHjXexRn1Cc) | 3:37 | 2026-06-09 |  |
+| [Mr\. Olympia \- Bonus](https://open.spotify.com/track/4rlcTx4pjDWmJusjRQBLnH) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz), [Eljero Winchester](https://open.spotify.com/artist/4QdW2CcWnjVdq3deGqX1ZJ) | [Say Less \(Bonus\)](https://open.spotify.com/album/6C9yE5GnQrsrHjXexRn1Cc) | 3:37 | 2026-06-09 | 2026-06-22 |
+| [Mr\. Olympia \- Bonus](https://open.spotify.com/track/55z2FexDa5zs5qVRAUGcRP) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz), [Eljero Winchester](https://open.spotify.com/artist/4QdW2CcWnjVdq3deGqX1ZJ) | [Mr\. Olympia \(Bonus\)](https://open.spotify.com/album/4yzugVhilcYUxTOUXI2txZ) | 3:37 | 2026-06-21 |  |
 | [Nebel](https://open.spotify.com/track/5qpsr6fAJd12dd1TsCofZl) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Ich wünschte, es würd' mich kümmern](https://open.spotify.com/album/0N5tvHsq4LEOH7snMpeRbW) | 1:23 | 2026-06-09 |  |
 | [Neugeboren](https://open.spotify.com/track/7DG2bEeQrOBuWstVZOZwJK) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [Say Less \(Bonus\)](https://open.spotify.com/album/6C9yE5GnQrsrHjXexRn1Cc) | 3:33 | 2026-06-09 | 2026-06-19 |
 | [Nichts hittet mehr](https://open.spotify.com/track/02yiCq5hKu0U8NWdqJDKRv) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [traence](https://open.spotify.com/album/3Oxkc0e9D6eTJUL4e1yiEE) | 3:28 | 2026-06-09 |  |
@@ -100,7 +101,8 @@
 | [TAGTRAUM](https://open.spotify.com/track/5AP18jFPVYivF6m24upp8L) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [KULT](https://open.spotify.com/album/7CIFDR37hKi31m5jfratbz) | 2:35 | 2026-06-09 |  |
 | [Theorie und Praxis](https://open.spotify.com/track/3PTdT1lrROgSRZzHknt8x6) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3), [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [Bossbaby Tape](https://open.spotify.com/album/5GWhPUtYOpjZo28JNQaFzq) | 2:35 | 2026-06-09 |  |
 | [TONY STARK](https://open.spotify.com/track/3gke8lkcCbMv5D8ab3PMjx) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [KULT](https://open.spotify.com/album/7CIFDR37hKi31m5jfratbz) | 2:04 | 2026-06-09 |  |
-| [Too Many](https://open.spotify.com/track/61u6ZzrgtkYGR54OrgCoEg) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz), [LUIS](https://open.spotify.com/artist/1GdFniPzxbAmIGIn89RwoI) | [Say Less \(Bonus\)](https://open.spotify.com/album/6C9yE5GnQrsrHjXexRn1Cc) | 2:48 | 2026-06-09 |  |
+| [Too Many](https://open.spotify.com/track/61u6ZzrgtkYGR54OrgCoEg) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz), [LUIS](https://open.spotify.com/artist/1GdFniPzxbAmIGIn89RwoI) | [Say Less \(Bonus\)](https://open.spotify.com/album/6C9yE5GnQrsrHjXexRn1Cc) | 2:48 | 2026-06-09 | 2026-06-22 |
+| [Too Many](https://open.spotify.com/track/7vaLo1bu2w81T8XFk1aIuh) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz), [LUIS](https://open.spotify.com/artist/1GdFniPzxbAmIGIn89RwoI) | [Too Many](https://open.spotify.com/album/1b3dICrI5AJBDncrNkJ6fi) | 2:48 | 2026-06-21 |  |
 | [triff mich halben Weg](https://open.spotify.com/track/2BJkO8RkAzyFTVAwB1tjXE) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [traence](https://open.spotify.com/album/3Oxkc0e9D6eTJUL4e1yiEE) | 3:36 | 2026-06-09 |  |
 | [Tränen](https://open.spotify.com/track/653cdEL1j2MkpBYDUDuVz1) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN), [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5) | [Tränen](https://open.spotify.com/album/2ky9BhNZIjorR4hQUCxF7b) | 2:34 | 2026-06-09 |  |
 | [Unerlaubtes Fahren](https://open.spotify.com/track/4wiqWPFnkb3Y0ZOvpA0vFn) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [Freitag der 13.](https://open.spotify.com/album/2bu4H49Po6Jk5NDXInKdEM) | 2:44 | 2026-06-09 |  |

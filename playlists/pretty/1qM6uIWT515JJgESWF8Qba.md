@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 484 likes - 63 songs - 4 hr 0 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 484 likes - 64 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,5 +71,6 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 61 | [Freefalling](https://open.spotify.com/track/4nzQamGQeOgQXRTQscKALJ) | [Hurricane Shack](https://open.spotify.com/artist/7zYuBzs79HZttqyua6cDVa) | [Freefalling](https://open.spotify.com/album/38JXKYxSiJBLn3sdPOI4Us) | 3:09 |
 | 62 | [Silver Lake](https://open.spotify.com/track/3cMZDt1yPKZuP7UssRKfWI) | [The Homme](https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm) | [Silver Lake](https://open.spotify.com/album/4AMGWzEqgc2pui4p2vXC4y) | 4:11 |
 | 63 | [Break These Chains](https://open.spotify.com/track/6UXMNP2WDg7RhYpanEkSOL) | [Frank Palangi](https://open.spotify.com/artist/6Ubner1Clwb3h5MSH7FYwb) | [Break These Chains](https://open.spotify.com/album/5x59iPEINkuzJY35NV7hbf) | 3:24 |
+| 64 | [Summer Ends In June](https://open.spotify.com/track/0sJKhlWsiYhYDR8KEcC7Zn) | [Bad Valentines](https://open.spotify.com/artist/3xVdUhudpYUp6NH3Pim0sd) | [Memory Tattoos](https://open.spotify.com/album/225MfCZIbTNTA5m9tOollK) | 3:50 |
 
-Snapshot ID: `AAAB7UvtGvFeUTXeILrSMDnGeMtiTXQG`
+Snapshot ID: `AAAB7jEIx+D3lyo0RJA7vAm3s6oJzy2s`

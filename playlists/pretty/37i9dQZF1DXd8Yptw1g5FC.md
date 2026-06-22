@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Derya Uluğ ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,952 likes - 121 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,035 likes - 121 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Şımarık](https://open.spotify.com/track/1YLHRVAsWnNFCeLMfqz2dh) | [Derya Uluğ](https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj) | [Şımarık](https://open.spotify.com/album/2hi0BeIUFh2cqQjxYP4R1j) | 2:33 |
-| 2 | [ÖLÜ SESLER](https://open.spotify.com/track/0xvD7ihRvRhFDXjY8lI1QO) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [PASAJ](https://open.spotify.com/album/1Z8g0yHfmg7xlXtHVtZw1M) | 3:42 |
+| 2 | [ÖLÜ SESLER](https://open.spotify.com/track/0xvD7ihRvRhFDXjY8lI1QO) | [Motive](https://open.spotify.com/artist/5LjOSVqRWRs1eL2OY297Jg) | [PASAJ](https://open.spotify.com/album/1Z8g0yHfmg7xlXtHVtZw1M) | 3:42 |
 | 3 | [Unutacağım](https://open.spotify.com/track/6ZB2MjZFsNukr71joHmwQd) | [Serkan Nişancı](https://open.spotify.com/artist/5fEL815uzQRkyzW9wOfUTd) | [Unutacağım](https://open.spotify.com/album/4IJjWvJufVG6aFLmks1eMB) | 2:39 |
 | 4 | [NAZAR](https://open.spotify.com/track/6uvUXO63MVDzfMV7DMsYlZ) | [Gökhan Özen](https://open.spotify.com/artist/3QLMLmISoZnFxUdzSoT6JB), [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM) | [NAZAR](https://open.spotify.com/album/1ltvCwbMqAkRNm5qUYyquF) | 2:50 |
 | 5 | [Timsahlar](https://open.spotify.com/track/6wOuvnMDcWOTI9TTk8Jzem) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [Timsahlar](https://open.spotify.com/album/3ehDnWigd5HOYWLccjQ34G) | 2:44 |

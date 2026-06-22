@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayPfy4Qnnnr.md) - [plain]
 
 > Chanson alterno, rock festif, ska ou reggae, peu importe le genre : crie\-le bien fort, use tes cordes vocales !
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,419 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,448 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayPfy4Qnnnr.md) - [plain]
 | 38 | [L'odyssée du réel](https://open.spotify.com/track/6T8JxxGowkAfXH6YfwL2II) | [La Ruda Salska](https://open.spotify.com/artist/5wLQgAe9uO150K07T2MYvl) | [Passager du réel](https://open.spotify.com/album/2CtHL2zu55v3Xu1K1PUCvZ) | 4:55 |
 | 39 | [Les embouteillages](https://open.spotify.com/track/0H1Ih7vJhcoU4yy6XPXvrF) | [Sanseverino](https://open.spotify.com/artist/1jKouRXGXSjxHAx2ayWolz) | [Le Tango Des Gens](https://open.spotify.com/album/14VGXNhq3B646I7GWaXo9D) | 3:08 |
 | 40 | [Les p'tits plaisirs](https://open.spotify.com/track/215xowAMaWJgaBLVWMFBUS) | [Les Blérots de R.A.V.E.L.](https://open.spotify.com/artist/03f8NxYYzXXegwRNjft7v7) | [Voleurs du dimanche](https://open.spotify.com/album/4yrLwpLLBQmOk5PraYT7pY) | 3:02 |
-| 41 | [Plantation](https://open.spotify.com/track/3mdfBcdD8C3NbJ0SUBjA5i) | [KANA](https://open.spotify.com/artist/3hEwqHY3IUn19VmTBoKrfn) | [Entre Frères...](https://open.spotify.com/album/1RhTC6PKCNZmNMiblUu9Ng) | 3:33 |
-| 42 | [Emmène\-moi](https://open.spotify.com/track/4ulUmNlJ8LxT49lT5gXHkV) | [Les Tit' Nassels](https://open.spotify.com/artist/1cZthYGjUVOGcPbymiznkC) | [Deux, trois trucs](https://open.spotify.com/album/3koj7cBNbJ2cICgr4HNk6I) | 3:05 |
-| 43 | [La vida sonora](https://open.spotify.com/track/0xzotNNUxCfkyPvJfvIZyQ) | [Spook & The Guay](https://open.spotify.com/artist/785WwHSA7CvkBWom5EqVyg) | [Vida Sonora](https://open.spotify.com/album/0wqYkqebQ8MQDI2CcWAQIf) | 4:21 |
+| 41 | [Emmène\-moi](https://open.spotify.com/track/4ulUmNlJ8LxT49lT5gXHkV) | [Les Tit' Nassels](https://open.spotify.com/artist/1cZthYGjUVOGcPbymiznkC) | [Deux, trois trucs](https://open.spotify.com/album/3koj7cBNbJ2cICgr4HNk6I) | 3:05 |
+| 42 | [La vida sonora](https://open.spotify.com/track/0xzotNNUxCfkyPvJfvIZyQ) | [Spook & The Guay](https://open.spotify.com/artist/785WwHSA7CvkBWom5EqVyg) | [Vida Sonora](https://open.spotify.com/album/0wqYkqebQ8MQDI2CcWAQIf) | 4:21 |
+| 43 | [Plantation](https://open.spotify.com/track/3mdfBcdD8C3NbJ0SUBjA5i) | [KANA](https://open.spotify.com/artist/3hEwqHY3IUn19VmTBoKrfn) | [Entre Frères...](https://open.spotify.com/album/1RhTC6PKCNZmNMiblUu9Ng) | 3:33 |
 | 44 | [Awalpé](https://open.spotify.com/track/4cHUyhoq1PxNub0EE75Hbl) | [Les Fils De Teuhpu](https://open.spotify.com/artist/0MNXVnloSEVTmqTduBnJkt) | [La Schnek](https://open.spotify.com/album/2tC0TcdZtYpJ6mdovkEepR) | 3:01 |
 | 45 | [Kana diskan](https://open.spotify.com/track/3DDozsIhKdjaOhnEPwn9H3) | [Rasta Bigoud](https://open.spotify.com/artist/6bEut48ficVPo2kEIuxwSY) | [Kana diskan](https://open.spotify.com/album/3GH2MvtPq2yI84Em13I0GU) | 3:46 |
 | 46 | [Contes, vents et marées](https://open.spotify.com/track/3Y4HzUg1dQGheNoTqz1BMZ) | [Les Ogres De Barback](https://open.spotify.com/artist/3avSMklPuyXhcT5Smt1h7G) | [Les ogres de Barback édition limitée](https://open.spotify.com/album/6HHZ9va8KG5gvyQnrZQBg4) | 4:02 |

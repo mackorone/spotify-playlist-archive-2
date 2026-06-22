@@ -1,6 +1,6 @@
 {
   "description": "Acoustic rock and pop that makes you feel good.",
-  "num_followers": 616786,
+  "num_followers": 616837,
   "original_name": "Feel Good Acoustic",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-01-26 17:25:39",
       "album": {
-        "name": "Believe Acoustic",
-        "url": "https://open.spotify.com/album/4yz9rO7Q1UC2rK5eLOxmS7"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 221693,
-      "name": "As Long As You Love Me - Acoustic Version",
-      "url": "https://open.spotify.com/track/1kN9UiyOSRVCrSc49ft0lp"
-    },
-    {
-      "added_at": "2026-01-26 17:25:39",
-      "album": {
         "name": "Don't You Worry Child",
         "url": "https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 257923,
       "name": "Don't You Worry Child - Acoustic Version",
       "url": "https://open.spotify.com/track/4BpndTKEqpLgntffipC53q"
+    },
+    {
+      "added_at": "2026-01-26 17:25:39",
+      "album": {
+        "name": "Believe Acoustic",
+        "url": "https://open.spotify.com/album/4yz9rO7Q1UC2rK5eLOxmS7"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 221693,
+      "name": "As Long As You Love Me - Acoustic Version",
+      "url": "https://open.spotify.com/track/1kN9UiyOSRVCrSc49ft0lp"
     },
     {
       "added_at": "2026-01-26 17:25:39",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2026-01-26 17:25:39",
       "album": {
+        "name": "There's Nothing Holdin' Me Back (Acoustic)",
+        "url": "https://open.spotify.com/album/1t7E85IHgoM8HiU9QoRWr3"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 201093,
+      "name": "There's Nothing Holdin' Me Back - Acoustic",
+      "url": "https://open.spotify.com/track/6gnS49VEamgI5zQmjsUxs3"
+    },
+    {
+      "added_at": "2026-01-26 17:25:39",
+      "album": {
         "name": "Continuum",
         "url": "https://open.spotify.com/album/64GHlpPoKzuFlUL2mtkEcX"
       },
@@ -1523,18 +1539,18 @@
     {
       "added_at": "2026-01-26 17:25:39",
       "album": {
-        "name": "There's Nothing Holdin' Me Back (Acoustic)",
-        "url": "https://open.spotify.com/album/1t7E85IHgoM8HiU9QoRWr3"
+        "name": "The Covers, Vol. 4",
+        "url": "https://open.spotify.com/album/3ZAIFOXNrAcIR4PskJFTjU"
       },
       "artists": [
         {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+          "name": "Noah Guthrie",
+          "url": "https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3"
         }
       ],
-      "duration_ms": 201093,
-      "name": "There's Nothing Holdin' Me Back - Acoustic",
-      "url": "https://open.spotify.com/track/6gnS49VEamgI5zQmjsUxs3"
+      "duration_ms": 233377,
+      "name": "Set Fire To The Rain",
+      "url": "https://open.spotify.com/track/5foLNCCWHMFXIzgtuOVEis"
     },
     {
       "added_at": "2026-01-26 17:25:39",
@@ -1587,22 +1603,6 @@
       "duration_ms": 213819,
       "name": "Mercy - Acoustic Version",
       "url": "https://open.spotify.com/track/1uZ9Sb4JJRiG4gvINBfZMM"
-    },
-    {
-      "added_at": "2026-01-26 17:25:39",
-      "album": {
-        "name": "The Covers, Vol. 4",
-        "url": "https://open.spotify.com/album/3ZAIFOXNrAcIR4PskJFTjU"
-      },
-      "artists": [
-        {
-          "name": "Noah Guthrie",
-          "url": "https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3"
-        }
-      ],
-      "duration_ms": 233377,
-      "name": "Set Fire To The Rain",
-      "url": "https://open.spotify.com/track/5foLNCCWHMFXIzgtuOVEis"
     },
     {
       "added_at": "2026-01-26 17:25:39",

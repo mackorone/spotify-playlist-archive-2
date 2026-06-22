@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbub4v6aRx7T.md) - [plain]
 
 > Takeshi's Castle, Tracy Beaker and Pokemon, this one's for you!
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,238 likes - 80 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,265 likes - 80 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbub4v6aRx7T.md) - [plain]
 | 76 | [What Goes Around.../...Comes Around \(Interlude\)](https://open.spotify.com/track/4ZrEjG3Vef85NTve8ptC9Q) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [FutureSex/LoveSounds Deluxe Edition](https://open.spotify.com/album/0tcExuDWMQdBbwSpqN8Ku2) | 7:28 |
 | 77 | [Wifey](https://open.spotify.com/track/3NEzjZbeSCy72Kx1clSYgC) | [Next](https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA) | [Platinum & Gold Collection](https://open.spotify.com/album/6OlIbU9i7OaBrBqx7ZYAFS) | 4:03 |
 | 78 | [P's and Q's](https://open.spotify.com/track/4d7EzLODiMp4Cuf6tRxn7s) | [Kano](https://open.spotify.com/artist/50nN8IFD4xA67fI4jYbLV4) | [Home Sweet Home](https://open.spotify.com/album/7kimYKvLC03boI5vUyhhKB) | 4:08 |
-| 79 | [Leave \(Get Out\) \- 2018](https://open.spotify.com/track/6nIcGJK6Pj1ThzC6r8O8hA) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [JoJo \(2018\)](https://open.spotify.com/album/1kBeLaqLbXDFFnkYWH1ayn) | 3:59 |
-| 80 | [If It's Lovin' That You Want](https://open.spotify.com/track/1Q29dre9FCspRSarHziizl) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Music Of The Sun](https://open.spotify.com/album/19UbDbyaYRW1U7lBMYO9F2) | 3:28 |
+| 79 | [If It's Lovin' That You Want](https://open.spotify.com/track/1Q29dre9FCspRSarHziizl) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Music Of The Sun](https://open.spotify.com/album/19UbDbyaYRW1U7lBMYO9F2) | 3:28 |
+| 80 | [Leave \(Get Out\) \- 2018](https://open.spotify.com/track/6nIcGJK6Pj1ThzC6r8O8hA) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [JoJo \(2018\)](https://open.spotify.com/album/1kBeLaqLbXDFFnkYWH1ayn) | 3:59 |
 
 Snapshot ID: `AAAAAPB98Fzrn39jXElvP/uwvsUrBOC2`

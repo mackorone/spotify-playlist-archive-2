@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tl6tGvyHMK5cyDc38ZF7I">Fanny Hultman</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-153 songs - 7 hr 40 min
+154 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,8 @@
 | [Ljuger för mig själv](https://open.spotify.com/track/3zCm30Ye2uvSnny2TlIddt) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Murphy](https://open.spotify.com/album/0ifp69iIhsMylu8xPLA4Ya) | 2:08 | 2025-03-30 |  |
 | [Ljuger för mig själv](https://open.spotify.com/track/7uxi2Q19Lph3Vqznb5UBFS) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Ljuger för mig själv](https://open.spotify.com/album/1cE5bD6aTJdUPs04CgOzCP) | 2:08 | 2024-11-09 | 2025-03-31 |
 | [Lost](https://open.spotify.com/track/3XizVxUCAMusJkCcQ0FMGp) | [Iselin](https://open.spotify.com/artist/3rjHIPFed2qITXAWvArRtp) | [Lost](https://open.spotify.com/album/2ESYew5AXPQddiwnC5SuXf) | 2:56 | 2024-01-29 |  |
-| [Love Is Lonely](https://open.spotify.com/track/4IAjCbrxOPyfMqbVasSjwc) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: STICK OUT](https://open.spotify.com/album/2pb2RscdByJ8pc7dPT1SY2) | 3:17 | 2024-08-23 |  |
+| [Love Is Lonely](https://open.spotify.com/track/4IAjCbrxOPyfMqbVasSjwc) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: STICK OUT](https://open.spotify.com/album/2pb2RscdByJ8pc7dPT1SY2) | 3:17 | 2024-08-23 | 2026-06-22 |
+| [Love Is Lonely](https://open.spotify.com/track/5pVqYc2QDOEuBoQXe7dh7k) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: STICK OUT](https://open.spotify.com/album/1GxPOkewcCpjNEDeMFMGBT) | 3:17 | 2026-06-21 |  |
 | [Lägenheten \(Säg till han\)](https://open.spotify.com/track/3VJMWOIZZ3dmsExKbGi7DP) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 2:55 | 2024-01-29 |  |
 | [Mad Woman](https://open.spotify.com/track/6SScgnks6GJUzSDx8BgCEB) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Mad Woman](https://open.spotify.com/album/1jG11sbwvgBovDtIvWMQlq) | 2:47 | 2024-01-29 | 2024-03-27 |
 | [Mad Woman](https://open.spotify.com/track/5zMvjDWCoNtH3KJZZVYiHf) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ), [Emilie Nicolas](https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt) | [Mad Woman](https://open.spotify.com/album/01XFfAn904bPwUQ8Hgt2fy) | 2:48 | 2024-03-26 |  |

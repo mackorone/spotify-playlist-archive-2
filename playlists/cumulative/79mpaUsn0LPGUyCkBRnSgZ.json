@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "50 Song Memoir",
+        "url": "https://open.spotify.com/album/2b3JjOvKw9UN47ND80Tvri"
+      },
+      "artists": [
+        {
+          "name": "The Magnetic Fields",
+          "url": "https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK"
+        }
+      ],
+      "date_added": "2026-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164186,
+      "name": "'66: Wonder Where I'm From",
+      "url": "https://open.spotify.com/track/2cG5SteTq3agEiGzoXOa14"
+    },
+    {
+      "album": {
         "name": "Curtis (Expanded Edition)",
         "url": "https://open.spotify.com/album/3tgJmEz0R0ZsRSrpwafp4R"
       },

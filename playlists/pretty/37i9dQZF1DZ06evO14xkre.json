@@ -1,12 +1,12 @@
 {
   "description": "This is Kali Uchis. The essential tracks, all in one playlist.",
-  "num_followers": 306239,
+  "num_followers": 306263,
   "original_name": "This Is Kali Uchis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAAAyogPvww7/YBfa8O8UELcd",
+  "snapshot_id": "ajXYAAAAAABSItUYaQNHaGT4s9lHYRBc",
   "tracks": [
     {
       "added_at": null,
@@ -647,38 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
-        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 121145,
-      "name": "no eres tu(soy yo)",
-      "url": "https://open.spotify.com/track/6vOQUrwsokMFDQLbgRDhV8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sincerely,",
-        "url": "https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 356146,
-      "name": "Lose My Cool,",
-      "url": "https://open.spotify.com/track/54Z2Nr6JA67vqyNAWVYlBD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ORQU\u00cdDEAS",
         "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
       },
@@ -699,6 +667,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sincerely,",
+        "url": "https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 356146,
+      "name": "Lose My Cool,",
+      "url": "https://open.spotify.com/track/54Z2Nr6JA67vqyNAWVYlBD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
+        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 121145,
+      "name": "no eres tu(soy yo)",
+      "url": "https://open.spotify.com/track/6vOQUrwsokMFDQLbgRDhV8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Red Moon In Venus",
         "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
       },
@@ -711,6 +711,22 @@
       "duration_ms": 155083,
       "name": "Love Between...",
       "url": "https://open.spotify.com/track/128I36bDgYHU9l2QcgEGcd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 215666,
+      "name": "Dame Beso // Mu\u00e9vete",
+      "url": "https://open.spotify.com/track/21RAJfkAbaq85RWJQWoxkx"
     },
     {
       "added_at": null,
@@ -751,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ORQU\u00cdDEAS",
-        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 215666,
-      "name": "Dame Beso // Mu\u00e9vete",
-      "url": "https://open.spotify.com/track/21RAJfkAbaq85RWJQWoxkx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
         "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
       },
@@ -783,6 +783,22 @@
       "duration_ms": 180000,
       "name": "la luz(F\u00edn)",
       "url": "https://open.spotify.com/track/4a1s8jkTbAoTlvj6x8pHK6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 156037,
+      "name": "Diosa",
+      "url": "https://open.spotify.com/track/3RleMgz4iO0BNezGdSxDnY"
     },
     {
       "added_at": null,
@@ -819,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ORQU\u00cdDEAS",
-        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 156037,
-      "name": "Diosa",
-      "url": "https://open.spotify.com/track/3RleMgz4iO0BNezGdSxDnY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Isolation",
         "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
       },
@@ -855,22 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Vida",
-        "url": "https://open.spotify.com/album/5B2qGlPQNhyiwpQ47QHawn"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 206526,
-      "name": "Lottery",
-      "url": "https://open.spotify.com/track/10JsYPcjhsD9nwTuk51Jtb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
         "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 161539,
       "name": "//aguardiente y lim\u00f3n %\u1d55\u203f\u203f\u1d55%",
       "url": "https://open.spotify.com/track/0Ui4S8sgBCXv4Ao1HhTTun"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Vida",
+        "url": "https://open.spotify.com/album/5B2qGlPQNhyiwpQ47QHawn"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 206526,
+      "name": "Lottery",
+      "url": "https://open.spotify.com/track/10JsYPcjhsD9nwTuk51Jtb"
     },
     {
       "added_at": null,

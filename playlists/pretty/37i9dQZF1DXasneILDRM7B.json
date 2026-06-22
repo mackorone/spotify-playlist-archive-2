@@ -1,6 +1,6 @@
 {
   "description": "Please stand for your personal anthems. Cover: blink-182",
-  "num_followers": 3001609,
+  "num_followers": 3001603,
   "original_name": "Pure Pop Punk",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
-        "name": "5 Seconds Of Summer",
-        "url": "https://open.spotify.com/album/6GKIr03B2yvdP0TkWiGJVV"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 202496,
-      "name": "She Looks So Perfect",
-      "url": "https://open.spotify.com/track/1CQ2cMfrmFM1YdfmjENKVE"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
         "name": "A Hangover You Don't Deserve",
         "url": "https://open.spotify.com/album/43jBR9MNJk5AUuB56M0pRF"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 193000,
       "name": "1985",
       "url": "https://open.spotify.com/track/5oQcOu1omDykbIPSdSQQNJ"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
+        "name": "5 Seconds Of Summer",
+        "url": "https://open.spotify.com/album/6GKIr03B2yvdP0TkWiGJVV"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 202496,
+      "name": "She Looks So Perfect",
+      "url": "https://open.spotify.com/track/1CQ2cMfrmFM1YdfmjENKVE"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -921,22 +921,6 @@
       "url": "https://open.spotify.com/track/7mG2RbhyzGsjpQOz568d39"
     },
     {
-      "added_at": "2023-02-10 16:26:23",
-      "album": {
-        "name": "Road to Ruin (40th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 149786,
-      "name": "I Wanna Be Sedated",
-      "url": "https://open.spotify.com/track/5NoQvINZLBV1wMYPdNmReL"
-    },
-    {
       "added_at": "2023-01-25 14:57:38",
       "album": {
         "name": "Take Off Your Pants And Jacket",
@@ -951,6 +935,22 @@
       "duration_ms": 227200,
       "name": "Anthem Part Two",
       "url": "https://open.spotify.com/track/24CRDgNOgA72JLL7PHFjgB"
+    },
+    {
+      "added_at": "2023-02-10 16:26:23",
+      "album": {
+        "name": "Road to Ruin (40th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 149786,
+      "name": "I Wanna Be Sedated",
+      "url": "https://open.spotify.com/track/5NoQvINZLBV1wMYPdNmReL"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -1069,22 +1069,6 @@
       "url": "https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J"
     },
     {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
-        "name": "21st Century Breakdown",
-        "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 190986,
-      "name": "Know Your Enemy",
-      "url": "https://open.spotify.com/track/5qtwzv99vOr5UTwnTixn7j"
-    },
-    {
       "added_at": "2023-02-10 16:26:23",
       "album": {
         "name": "So Long, Astoria",
@@ -1099,6 +1083,22 @@
       "duration_ms": 258000,
       "name": "The Boys of Summer",
       "url": "https://open.spotify.com/track/5BmagRD7Thki6O1zZwbxBy"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
+        "name": "21st Century Breakdown",
+        "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 190986,
+      "name": "Know Your Enemy",
+      "url": "https://open.spotify.com/track/5qtwzv99vOr5UTwnTixn7j"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
-        "name": "Love Sux",
-        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 159746,
-      "name": "Bite Me",
-      "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
         "name": "The Chronicles of Life and Death (\"LIFE\" version)",
         "url": "https://open.spotify.com/album/6Qbaq8mJBFOV30nBMmqLxc"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 166053,
       "name": "I Just Wanna Live",
       "url": "https://open.spotify.com/track/5TjwiYZVMHVrGvRzbeCaV7"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
+        "name": "Love Sux",
+        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 159746,
+      "name": "Bite Me",
+      "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
     },
     {
       "added_at": "2023-02-10 16:26:23",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
-        "name": "Still Not Getting Any...",
-        "url": "https://open.spotify.com/album/6RSpKXfvVzCqtLi6VySxsU"
-      },
-      "artists": [
-        {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
-        }
-      ],
-      "duration_ms": 182986,
-      "name": "Shut Up!",
-      "url": "https://open.spotify.com/track/78pHMOI9qUWonIMySjO3XY"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
         "name": "Say It Like You Mean It",
         "url": "https://open.spotify.com/album/72ogyoH8DeqTMLYhFwgVx6"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 258266,
       "name": "The Best Of Me",
       "url": "https://open.spotify.com/track/1Up4RdOBpChNDytatxKDXP"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
+        "name": "Still Not Getting Any...",
+        "url": "https://open.spotify.com/album/6RSpKXfvVzCqtLi6VySxsU"
+      },
+      "artists": [
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        }
+      ],
+      "duration_ms": 182986,
+      "name": "Shut Up!",
+      "url": "https://open.spotify.com/track/78pHMOI9qUWonIMySjO3XY"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -1477,22 +1477,6 @@
       "url": "https://open.spotify.com/track/3u7EIgAlwNQtxkM4bOA7uI"
     },
     {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
-        "name": "The Same Old Blood Rush With A New Touch",
-        "url": "https://open.spotify.com/album/66cyBjBDqSWQgh5Ix3geNl"
-      },
-      "artists": [
-        {
-          "name": "Cute Is What We Aim For",
-          "url": "https://open.spotify.com/artist/7AsPubxWM5tfW4hTZEL3aP"
-        }
-      ],
-      "duration_ms": 203626,
-      "name": "The Curse of Curves",
-      "url": "https://open.spotify.com/track/6uzuW7L1t1UhnzbfXwtMtQ"
-    },
-    {
       "added_at": "2023-02-10 16:26:23",
       "album": {
         "name": "Hello Rockview",
@@ -1507,6 +1491,22 @@
       "duration_ms": 211400,
       "name": "All My Best Friends Are Metalheads",
       "url": "https://open.spotify.com/track/1hh4GY1zM7SUAyM3a2ziH5"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
+        "name": "The Same Old Blood Rush With A New Touch",
+        "url": "https://open.spotify.com/album/66cyBjBDqSWQgh5Ix3geNl"
+      },
+      "artists": [
+        {
+          "name": "Cute Is What We Aim For",
+          "url": "https://open.spotify.com/artist/7AsPubxWM5tfW4hTZEL3aP"
+        }
+      ],
+      "duration_ms": 203626,
+      "name": "The Curse of Curves",
+      "url": "https://open.spotify.com/track/6uzuW7L1t1UhnzbfXwtMtQ"
     },
     {
       "added_at": "2023-01-25 14:57:38",

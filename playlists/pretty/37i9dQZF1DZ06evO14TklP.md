@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14TklP.md) - [plain]
 
 > This is Ebony\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,448 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,471 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14TklP.md) - [plain]
 | 25 | [Sangue Ruim \#01](https://open.spotify.com/track/5WmegqJ48EYeF7L1pBgvWO) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [KM2 \(De Luxo\)](https://open.spotify.com/album/6TWX7QLULtq9672vLeUZTO) | 0:42 |
 | 26 | [SXO \- Irmãs de Pau Remix](https://open.spotify.com/track/4vr8YAo8u75p01nfqRdgJt) | [Carlos do Complexo](https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [NTGMX](https://open.spotify.com/album/1PX0GHNvrbAHtOyfBSilVQ) | 2:55 |
 | 27 | [BAILE NO RXOTA](https://open.spotify.com/track/3ll1oyrd95gYrzerOoBDod) | [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Gambiarra Chic, Pt\. 2](https://open.spotify.com/album/1cDks8kvbTPzmr8McMduVi) | 3:35 |
-| 28 | [Maserati](https://open.spotify.com/track/43cQmlREc5Fvt1f2Lo5RLz) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs), [Monna Brutal](https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [FÚRIA](https://open.spotify.com/album/3J5ykRCZav5xEqcZTkh7Sm) | 2:48 |
-| 29 | [Glossy](https://open.spotify.com/track/3S30QGvGK7YPhVPM6GC0N6) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Glossy](https://open.spotify.com/album/39WCvdoXW7iqdXCDP7hAcp) | 2:31 |
+| 28 | [Glossy](https://open.spotify.com/track/3S30QGvGK7YPhVPM6GC0N6) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Glossy](https://open.spotify.com/album/39WCvdoXW7iqdXCDP7hAcp) | 2:31 |
+| 29 | [Maserati](https://open.spotify.com/track/43cQmlREc5Fvt1f2Lo5RLz) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs), [Monna Brutal](https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [FÚRIA](https://open.spotify.com/album/3J5ykRCZav5xEqcZTkh7Sm) | 2:48 |
 | 30 | [LoveSong](https://open.spotify.com/track/2EKr8S6HHKJcuRXdxXDbwD) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [LoveSong](https://open.spotify.com/album/4MHpH5xowDkLR6BgImxHNS) | 2:22 |
 | 31 | [Bratz](https://open.spotify.com/track/30xwvoR89CZqAVdpxYQ6Ws) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Bratz](https://open.spotify.com/album/1uekeJ5YHFLhTer9KKHAwh) | 2:48 |
 | 32 | [KM2](https://open.spotify.com/track/5ZBkP9AbjM2JN7n0WKqpYp) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [KM2 \(De Luxo\)](https://open.spotify.com/album/6TWX7QLULtq9672vLeUZTO) | 2:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14TklP.md) - [plain]
 | 49 | [Caneta](https://open.spotify.com/track/2WxgnVuE9zJPWqqQacGHE0) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [BENO](https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Visão Periférica](https://open.spotify.com/album/3P2UK2xxbzATRIgogpF3YF) | 3:08 |
 | 50 | [Ca$h Ca$h](https://open.spotify.com/track/5cIQ6FpIhXXFN3cCpBZQSD) | [BlakkStar](https://open.spotify.com/artist/0xOEY6ZB9xhdW3SnfmlgvX), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Ca$h Ca$h](https://open.spotify.com/album/77cE3ZebHOAHnt2xdFJ9l1) | 3:04 |
 
-Snapshot ID: `ajSGgAAAAAC0aDuHdaoSVXJTnaVXjnmv`
+Snapshot ID: `ajXYAAAAAADMaEr8h9dRJ1AokLngHZOY`

@@ -4,7 +4,7 @@
 
 > This is Miel San Marcos\. The essential tracks, all in one playlist.
 
-125 songs - 11 hr 8 min
+126 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [Proverbios 1](https://open.spotify.com/track/60A3y9ISFy58PZVRm6YppC) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Josh Morales](https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS) | [Proverbios](https://open.spotify.com/album/2Jk1xdlyvHZebQuCgyPhQR) | 5:08 | 2024-01-02 | 2024-01-30 |
 | [Purifícame](https://open.spotify.com/track/2oTUQOSn9aLgRt7OMdDti8) | [Francheska Morales](https://open.spotify.com/artist/18A6KqeBdQA2FD2vZxfWmW), [Ricky y Ryan](https://open.spotify.com/artist/0CnDNDW88rAdqa0mfDpnjR), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Purifícame](https://open.spotify.com/album/2PbGm2su1UEV1uEgl1KyP0) | 3:27 | 2025-08-10 | 2025-10-18 |
 | [Que Jesus Brille Aqui](https://open.spotify.com/track/6lRrjIP4TAFiH6NweQAeyA) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Tu Habitación](https://open.spotify.com/album/3EOkmxLamBPxPJLeGPXaNd) | 1:14 | 2022-09-22 | 2022-09-25 |
-| [Quién Más \- Live](https://open.spotify.com/track/1D1YTMxa3k1GMyLjB9etvI) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc) | [Quién Más \(Live\)](https://open.spotify.com/album/4Ue61NSN8wZj6KD5gHdtKu) | 5:29 | 2024-08-18 |  |
+| [Quién Más](https://open.spotify.com/track/1lULQzrzFAgpIHYvuueJgP) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc) | [Eterno Dios](https://open.spotify.com/album/4C1H7azlbjrDwK2mVwZVpX) | 5:29 | 2026-06-22 |  |
+| [Quién Más \- Live](https://open.spotify.com/track/1D1YTMxa3k1GMyLjB9etvI) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc) | [Quién Más \(Live\)](https://open.spotify.com/album/4Ue61NSN8wZj6KD5gHdtKu) | 5:29 | 2024-08-18 | 2026-06-22 |
 | [Recibo Mi Milagro feat\. Josh Morales "Miel San Marcos" \(En Vivo\)](https://open.spotify.com/track/0E3z3U8GjuxRWhLuhHICVg) | [Emir Sensini](https://open.spotify.com/artist/0PymX5SwKjel2b1lXRvU20), [Josh Morales](https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [El Abrazo De Mi Padre \(En Vivo\)](https://open.spotify.com/album/1n5VT7UWkZe2LuNZYSrEZB) | 5:44 | 2022-09-16 | 2022-10-12 |
 | [Regocíjate Oh Moradora De Sión](https://open.spotify.com/track/6aSJ4pf8B5gzAFV5XF6gF2) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Avivamiento 1](https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p) | 2:53 | 2022-09-14 | 2026-01-15 |
 | [Remolineando \(feat\. Fernel Monroy\)](https://open.spotify.com/track/1NmECxDikubj4Hhu1dbrhl) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Fernel Monroy](https://open.spotify.com/artist/1o3WRYsnZllUekoxNdSAoG) | [Proezas](https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU) | 1:35 | 2022-09-14 |  |

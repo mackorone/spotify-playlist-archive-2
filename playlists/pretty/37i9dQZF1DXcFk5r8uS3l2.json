@@ -1,12 +1,12 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Sons of Legion",
-  "num_followers": 1069498,
+  "num_followers": 1069491,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPM1sXZP3fAwPajFzuIHVzNoHXyK",
+  "snapshot_id": "AAAAACqMgH1ir6/pN7C2gIIf3XxSdvCP",
   "tracks": [
     {
       "added_at": "2026-06-05 04:00:36",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-06-05 04:00:36",
       "album": {
-        "name": "Man's World",
-        "url": "https://open.spotify.com/album/7xDsxa6yIrJVBGk8XaNKrD"
-      },
-      "artists": [
-        {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
-        }
-      ],
-      "duration_ms": 162290,
-      "name": "Man's World",
-      "url": "https://open.spotify.com/track/1RmMogpswOSC96lpdeXIxU"
-    },
-    {
-      "added_at": "2026-06-05 04:00:36",
-      "album": {
         "name": "Roll Mega",
         "url": "https://open.spotify.com/album/1LliP2A3k2e090yvBJcE5l"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 282857,
       "name": "Twist Your Arm",
       "url": "https://open.spotify.com/track/69p1PZzleCCgTMDISqhibX"
+    },
+    {
+      "added_at": "2026-06-05 04:00:36",
+      "album": {
+        "name": "Man's World",
+        "url": "https://open.spotify.com/album/7xDsxa6yIrJVBGk8XaNKrD"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "duration_ms": 162290,
+      "name": "Man's World",
+      "url": "https://open.spotify.com/track/1RmMogpswOSC96lpdeXIxU"
     },
     {
       "added_at": "2026-06-05 04:00:36",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-06-05 04:00:36",
       "album": {
-        "name": "Wary + Strange",
-        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "Fancy Drones (Fracture Me)",
-      "url": "https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj"
-    },
-    {
-      "added_at": "2026-06-05 04:00:36",
-      "album": {
         "name": "Upside",
         "url": "https://open.spotify.com/album/4b2rsJxm5i3BTj1mkhGGSJ"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 301395,
       "name": "Upside",
       "url": "https://open.spotify.com/track/2mYnzR2Gm5mGNft7rZsInE"
+    },
+    {
+      "added_at": "2026-06-05 04:00:36",
+      "album": {
+        "name": "Wary + Strange",
+        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "Fancy Drones (Fracture Me)",
+      "url": "https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj"
     },
     {
       "added_at": "2026-06-05 04:00:36",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-06-05 04:00:36",
       "album": {
-        "name": "Best Believe",
-        "url": "https://open.spotify.com/album/1mqN7FXBKeUsL7mNxyOmE9"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 228192,
-      "name": "Best Believe",
-      "url": "https://open.spotify.com/track/25RTJhQWS4t1pjGqSV0i6U"
-    },
-    {
-      "added_at": "2026-06-05 04:00:36",
-      "album": {
         "name": "Joy, Joy!",
         "url": "https://open.spotify.com/album/6t1qkbhNBE3Nxt9yemCHrw"
       },
@@ -859,6 +843,22 @@
     {
       "added_at": "2026-06-05 04:00:36",
       "album": {
+        "name": "Best Believe",
+        "url": "https://open.spotify.com/album/1mqN7FXBKeUsL7mNxyOmE9"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 228192,
+      "name": "Best Believe",
+      "url": "https://open.spotify.com/track/25RTJhQWS4t1pjGqSV0i6U"
+    },
+    {
+      "added_at": "2026-06-05 04:00:36",
+      "album": {
         "name": "House On Fire (Deluxe Edition)",
         "url": "https://open.spotify.com/album/31vki7hqYMXMrVZePwMzKj"
       },
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-06-05 04:00:36",
       "album": {
-        "name": "Blood Harmony",
-        "url": "https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 199874,
-      "name": "Deep Stays Down",
-      "url": "https://open.spotify.com/track/2IbB995oiJcMJXTfkMHioG"
-    },
-    {
-      "added_at": "2026-06-05 04:00:36",
-      "album": {
         "name": "You Still Got Me",
         "url": "https://open.spotify.com/album/3VJps2m5A4Hv5ueNuH5pQi"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 292786,
       "name": "Let's Walk",
       "url": "https://open.spotify.com/track/749934L9Ujz8uNMBwGD4or"
+    },
+    {
+      "added_at": "2026-06-05 04:00:36",
+      "album": {
+        "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 199874,
+      "name": "Deep Stays Down",
+      "url": "https://open.spotify.com/track/2IbB995oiJcMJXTfkMHioG"
     },
     {
       "added_at": "2026-06-05 04:00:36",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-06-05 04:00:36",
       "album": {
-        "name": "Justified",
-        "url": "https://open.spotify.com/album/2LLMqNFixxuY0ea3pzRvc5"
-      },
-      "artists": [
-        {
-          "name": "Ghost Hounds",
-          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
-        }
-      ],
-      "duration_ms": 253657,
-      "name": "Justified",
-      "url": "https://open.spotify.com/track/1AYBEB31ytpqhUZGeXtJi8"
-    },
-    {
-      "added_at": "2026-06-05 04:00:36",
-      "album": {
         "name": "Days of Mellow",
         "url": "https://open.spotify.com/album/60IzFmXwMFetX2JaC9xbeu"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 154980,
       "name": "Days of Mellow",
       "url": "https://open.spotify.com/track/2gex4j0b22MmEXGqWmt5wx"
+    },
+    {
+      "added_at": "2026-06-05 04:00:36",
+      "album": {
+        "name": "Justified",
+        "url": "https://open.spotify.com/album/2LLMqNFixxuY0ea3pzRvc5"
+      },
+      "artists": [
+        {
+          "name": "Ghost Hounds",
+          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
+        }
+      ],
+      "duration_ms": 253657,
+      "name": "Justified",
+      "url": "https://open.spotify.com/track/1AYBEB31ytpqhUZGeXtJi8"
     },
     {
       "added_at": "2026-06-05 04:00:36",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2026-06-05 04:00:36",
       "album": {
+        "name": "Medium Raw",
+        "url": "https://open.spotify.com/album/2tSCbF8irTXTQdIMC80THg"
+      },
+      "artists": [
+        {
+          "name": "Early James",
+          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
+        }
+      ],
+      "duration_ms": 255573,
+      "name": "I Could Just Die Right Now",
+      "url": "https://open.spotify.com/track/00cOY9F6uYZCjS49sFNVxG"
+    },
+    {
+      "added_at": "2026-06-05 04:00:36",
+      "album": {
         "name": "Everything's Fine",
         "url": "https://open.spotify.com/album/1h64ZVnu3Zds9ZKRJcOE8k"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 234596,
       "name": "Everything's Fine",
       "url": "https://open.spotify.com/track/4zAonFIPy28okpnSUMzceT"
-    },
-    {
-      "added_at": "2026-06-05 04:00:36",
-      "album": {
-        "name": "Medium Raw",
-        "url": "https://open.spotify.com/album/2tSCbF8irTXTQdIMC80THg"
-      },
-      "artists": [
-        {
-          "name": "Early James",
-          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
-        }
-      ],
-      "duration_ms": 255573,
-      "name": "I Could Just Die Right Now",
-      "url": "https://open.spotify.com/track/00cOY9F6uYZCjS49sFNVxG"
     },
     {
       "added_at": "2026-06-05 04:00:36",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-06-05 04:00:36",
       "album": {
-        "name": "Make It All Work Out",
-        "url": "https://open.spotify.com/album/1yp2fTsVvwlrI65in48hWX"
-      },
-      "artists": [
-        {
-          "name": "Jesse Roper",
-          "url": "https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt"
-        }
-      ],
-      "duration_ms": 185133,
-      "name": "Make It All Work Out",
-      "url": "https://open.spotify.com/track/19FzdCwxA7hIsbmF8DLac5"
-    },
-    {
-      "added_at": "2026-06-05 04:00:36",
-      "album": {
         "name": "Crisscross Way",
         "url": "https://open.spotify.com/album/4ieVGOXktMLGjcLYv8i7Jb"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 164344,
       "name": "Crisscross Way",
       "url": "https://open.spotify.com/track/1meNMO8MXPNLm5I5mxQiv5"
+    },
+    {
+      "added_at": "2026-06-05 04:00:36",
+      "album": {
+        "name": "Make It All Work Out",
+        "url": "https://open.spotify.com/album/1yp2fTsVvwlrI65in48hWX"
+      },
+      "artists": [
+        {
+          "name": "Jesse Roper",
+          "url": "https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt"
+        }
+      ],
+      "duration_ms": 185133,
+      "name": "Make It All Work Out",
+      "url": "https://open.spotify.com/track/19FzdCwxA7hIsbmF8DLac5"
     },
     {
       "added_at": "2026-06-05 04:00:36",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-06-05 04:00:36",
       "album": {
-        "name": "Ugly",
-        "url": "https://open.spotify.com/album/7EfWvQIahrZafZL6xiyBQ3"
-      },
-      "artists": [
-        {
-          "name": "Oh He Dead",
-          "url": "https://open.spotify.com/artist/2nLlWcvMIIGHHnDOQMi0h6"
-        }
-      ],
-      "duration_ms": 335658,
-      "name": "Cover Me",
-      "url": "https://open.spotify.com/track/3BSJNXL0i0hBNNBI8qLMaQ"
-    },
-    {
-      "added_at": "2026-06-05 04:00:36",
-      "album": {
         "name": "Companions",
         "url": "https://open.spotify.com/album/53QsuWFAeqe5ihfdsL8VsN"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 225106,
       "name": "My Own Disguise",
       "url": "https://open.spotify.com/track/0vIbWBOYgO6TTkWe4ZarrH"
+    },
+    {
+      "added_at": "2026-06-05 04:00:36",
+      "album": {
+        "name": "Ugly",
+        "url": "https://open.spotify.com/album/7EfWvQIahrZafZL6xiyBQ3"
+      },
+      "artists": [
+        {
+          "name": "Oh He Dead",
+          "url": "https://open.spotify.com/artist/2nLlWcvMIIGHHnDOQMi0h6"
+        }
+      ],
+      "duration_ms": 335658,
+      "name": "Cover Me",
+      "url": "https://open.spotify.com/track/3BSJNXL0i0hBNNBI8qLMaQ"
     },
     {
       "added_at": "2026-06-05 04:00:36",

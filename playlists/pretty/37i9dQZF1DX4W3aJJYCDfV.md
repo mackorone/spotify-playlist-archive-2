@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Myles Smith, Jazzy, Fredo, FKA twigs and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,029,453 likes - 102 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,029,437 likes - 102 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

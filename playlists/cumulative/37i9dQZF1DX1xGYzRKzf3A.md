@@ -4,7 +4,7 @@
 
 > Tierra linda que siempre sueño, y que muy dentro llevo\. Ciudad de Monterrey ♥️
 
-477 songs - 1 day 3 hr 46 min
+478 songs - 1 day 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,7 @@
 | [Endless](https://open.spotify.com/track/0AKsM62IUY8IaOqGtB0u8n) | [Pato Shoucair](https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC) | [Heaven](https://open.spotify.com/album/1TrdljUtzilxGZqXKXjRxh) | 3:37 | 2025-11-09 | 2026-06-09 |
 | [Eras](https://open.spotify.com/track/6Tfdvb0Evy5rjjcoIiXRaO) | [KUMBIAMBEROS RS](https://open.spotify.com/artist/4dH4CQPLPsx2YDuH4Insak) | [Eras](https://open.spotify.com/album/6zVmmrev2eBuEDBRSCsUUg) | 3:39 | 2023-11-08 | 2025-06-18 |
 | [Eres Mi Droga](https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [IV](https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw) | 3:27 | 2023-06-16 | 2025-11-10 |
-| [Eres un Encanto](https://open.spotify.com/track/3ebkZroNB7RD6gnwLpRiHB) | [Vaquero](https://open.spotify.com/artist/2mHlGcW5Iwn9R4QDXjABjl) | [Los Éxitos De:](https://open.spotify.com/album/5prbNOmyk3XzdNnZFmYDst) | 3:05 | 2026-06-08 |  |
+| [Eres un Encanto](https://open.spotify.com/track/3ebkZroNB7RD6gnwLpRiHB) | [Vaquero](https://open.spotify.com/artist/2mHlGcW5Iwn9R4QDXjABjl) | [Los Éxitos De:](https://open.spotify.com/album/5prbNOmyk3XzdNnZFmYDst) | 3:05 | 2026-06-08 | 2026-06-22 |
 | [Eres un encanto \- En vivo](https://open.spotify.com/track/04xY2a4sWhjc1zCAdFwGSJ) | [Israel Morales](https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW) | [En vivo desde El Potrero](https://open.spotify.com/album/5aUra0wikb6Z7C5lms9DMf) | 3:23 | 2023-06-16 | 2025-06-18 |
 | [Es Así](https://open.spotify.com/track/6UcSnz6quThUb3XsjQbmgY) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Sam Vazquez](https://open.spotify.com/artist/3k684W4rJtfWKNkUZIhuAq) | [Es Así](https://open.spotify.com/album/0BF82aBeWmhKrMf81RpUeb) | 3:27 | 2025-11-09 | 2026-05-05 |
 | [Eslabón Por Eslabón](https://open.spotify.com/track/7ajSrG0IdN2XC27mPfgnum) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Esto Es Lo Nuestro](https://open.spotify.com/album/5fKj1UiyRfFcRmLGPN4tTn) | 3:01 | 2023-06-16 | 2024-04-19 |
@@ -296,6 +296,7 @@
 | [Mi Pasado y Mi Presente](https://open.spotify.com/track/588ROs3NuPqlPSYpIuitKS) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn) | [Plan B](https://open.spotify.com/album/24FPZ021AP83t8OSQHRaAx) | 3:40 | 2024-07-02 | 2025-11-10 |
 | [Mi Pregón](https://open.spotify.com/track/5EyZuJ9a2FAsgWxmjffl73) | [Los Chikos RK Ritmo Kumbiero](https://open.spotify.com/artist/0n7BQ1iMKUbfBP6QCxTqBt) | [Mi Pregón](https://open.spotify.com/album/6wiadyiTXY2DpfI6RMyXI2) | 3:21 | 2024-07-02 | 2025-06-18 |
 | [Mi Razón De Ser](https://open.spotify.com/track/03JbYQiWdbNU50NmmSU6q3) | [La Tropa Vallenata](https://open.spotify.com/artist/6ESzKdcEDKvhUek4ZaHruk) | [Los Caminos De La Vida](https://open.spotify.com/album/2I72wA4qxK4ur3biscv0hv) | 3:13 | 2023-06-16 | 2025-11-10 |
+| [Mi Tesoro](https://open.spotify.com/track/1kMcQ5ovfzCgvdMONCOWNS) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx), [Ramón Ayala](https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL) | [La Trayectoria 30 Exitos](https://open.spotify.com/album/7aYo3Fnbr79g0gSQS6xegH) | 3:01 | 2026-06-08 |  |
 | [Mi Trokita Cumbia](https://open.spotify.com/track/0TwWnaZ6JGfVuN4iZq2BzJ) | [Obzesion](https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS) | [Mi Trokita Cumbia](https://open.spotify.com/album/0tMsvi0IzNyRZFqF9qeFCz) | 2:14 | 2023-06-16 | 2025-10-08 |
 | [Mi Unico Camino](https://open.spotify.com/track/0zD1NLTk9QkTj7CZFCGVpX) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Las Más Tocadas](https://open.spotify.com/album/20Bcfqp9GJ3UNL1mDlZepp) | 2:52 | 2024-07-15 | 2025-11-10 |
 | [MIATA ᕙ\(⇀‸↼‶\)ᕗ](https://open.spotify.com/track/1k15ZgRhn8OxFalYbeaZ1h) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [ATP](https://open.spotify.com/album/5YAMa7LhSMdWOs1dF93g4V) | 3:00 | 2026-06-08 |  |

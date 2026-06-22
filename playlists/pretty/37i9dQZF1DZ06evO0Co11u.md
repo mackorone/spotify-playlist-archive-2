@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Co11u.md) - [plain]
 
 > This is Louis Armstrong\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,016 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,024 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Co11u.md) - [plain]
 | 6 | [A Kiss To Build A Dream On \- Single Version](https://open.spotify.com/track/5y8zb3grlQonjdqd27K39T) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Satchmo Serenades](https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc) | 3:01 |
 | 7 | [La vie en rose \- Remastered](https://open.spotify.com/track/57sKFCABC0VPxj4ZKkcEu7) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Dream a Little Dream of Me \(Remastered\)](https://open.spotify.com/album/0LamfjFk8I6YZGC5ocJcJ7) | 3:23 |
 | 8 | [They Can't Take That Away From Me](https://open.spotify.com/track/2U3ENhffoGzWcoYoR0U4Lm) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella and Louis](https://open.spotify.com/album/3kfnwa4p4uYiTOP8K8ooSE) | 4:39 |
-| 9 | [Mack the Knife](https://open.spotify.com/track/0RNxWy0PC3AyH4ThH3aGK6) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Great American Songbook](https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU) | 3:21 |
-| 10 | [Moon River](https://open.spotify.com/track/17gxfuiFUrLhbUKdunxUPJ) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello, Dolly! \(Remastered\)](https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC) | 2:59 |
+| 9 | [Moon River](https://open.spotify.com/track/17gxfuiFUrLhbUKdunxUPJ) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello, Dolly! \(Remastered\)](https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC) | 2:59 |
+| 10 | [Mack the Knife](https://open.spotify.com/track/0RNxWy0PC3AyH4ThH3aGK6) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Great American Songbook](https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU) | 3:21 |
 | 11 | [Autumn In New York](https://open.spotify.com/track/0f2489MzoisF9pKduawvce) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella And Louis Again](https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M) | 5:56 |
 | 12 | [The Nearness Of You](https://open.spotify.com/track/75LI0OCqjssEzuhEv42jYn) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella and Louis](https://open.spotify.com/album/3kfnwa4p4uYiTOP8K8ooSE) | 5:42 |
 | 13 | [Oops!](https://open.spotify.com/track/5Q7Ag0Geoh18cqVJHoDaPv) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Cheek To Cheek: The Complete Duet Recordings](https://open.spotify.com/album/07tbMxw9qeVsNIq0l7xBBX) | 3:11 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Co11u.md) - [plain]
 | 26 | [I'm In The Mood For Love \- Single Version](https://open.spotify.com/track/5rsGCb9gGF94iibePU5jMO) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Volume 1: Rhythm Saved The World \(1935\-1936\)](https://open.spotify.com/album/2ce0x6CSfBLGz5QIOYKlc4) | 3:10 |
 | 27 | [Blueberry Hill](https://open.spotify.com/track/2LSW1nlRZCHA6rZayezAUF) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello, Dolly! \(Remastered\)](https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC) | 3:20 |
 | 28 | [Makin' Whoopee](https://open.spotify.com/track/0YgEYSBt2e4BSTIQBhukou) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Louis Armstrong Meets Oscar Peterson \(Expanded Edition\)](https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0) | 3:56 |
-| 29 | [When You're Smiling \(The Whole World Smiles With You\) \- Without Intro](https://open.spotify.com/track/0aAdPAlrBJqqqkkhttZIKU) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Highlights From His Decca Years](https://open.spotify.com/album/0OdoPgKwi6l3paYTSFAWkS) | 4:04 |
-| 30 | [Gee, Baby, Ain't I Good To You?](https://open.spotify.com/track/0xZlk9LU0mS1ACYOupmpVp) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella And Louis Again](https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M) | 4:11 |
+| 29 | [Gee, Baby, Ain't I Good To You?](https://open.spotify.com/track/0xZlk9LU0mS1ACYOupmpVp) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella And Louis Again](https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M) | 4:11 |
+| 30 | [When You're Smiling \(The Whole World Smiles With You\) \- Without Intro](https://open.spotify.com/track/0aAdPAlrBJqqqkkhttZIKU) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Highlights From His Decca Years](https://open.spotify.com/album/0OdoPgKwi6l3paYTSFAWkS) | 4:04 |
 | 31 | [Someday](https://open.spotify.com/track/2j2XCGlfy49OcZtm5zM84G) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello, Dolly! \(Remastered\)](https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC) | 3:41 |
 | 32 | [Fantastic, That's You](https://open.spotify.com/track/0SyYvxTKhF3fMxYBz3Zmdm) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 2:58 |
 | 33 | [\(When We Are Dancin'\) I Get Ideas \- Single Version](https://open.spotify.com/track/4I7npxGquBQfADdUJ9JT8I) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Satchmo Serenades](https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Co11u.md) - [plain]
 | 49 | [West End Blues](https://open.spotify.com/track/1fcHyenlOvYHnF3xMz2wDB) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Essence of Armstrong](https://open.spotify.com/album/5FxOsi0n7p8SQJaZn3Ssxv) | 3:19 |
 | 50 | [When It's Sleepy Time Down South \- Alternative Lyric Version](https://open.spotify.com/track/13u468o9iYKzEqMwf52uUQ) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Gordon Jenkins And Orchestra](https://open.spotify.com/artist/0te6SxImmbdkGXxSQw9lmK) | [Work From Home with Louis Armstrong](https://open.spotify.com/album/3U8WS8pUUXfuoqFpnTmATq) | 3:14 |
 
-Snapshot ID: `ajSGgAAAAACbFZX9mH0WguSakWDskuun`
+Snapshot ID: `ajXYAAAAAADMVTK/cNZYbREGGoHC6PJc`

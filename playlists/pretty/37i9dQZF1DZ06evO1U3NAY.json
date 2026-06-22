@@ -1,12 +1,12 @@
 {
   "description": "This is Within Temptation. The essential tracks, all in one playlist.",
-  "num_followers": 170194,
+  "num_followers": 170211,
   "original_name": "This Is Within Temptation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAABektJNGp321OiRVH3MNj9b",
+  "snapshot_id": "ajXYAAAAAAAwo/h+HOr9THHxknUoarKG",
   "tracks": [
     {
       "added_at": null,
@@ -419,6 +419,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mother Earth",
+        "url": "https://open.spotify.com/album/1Ly5R8riIWwOfcugMwC7t3"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 331280,
+      "name": "Mother Earth",
+      "url": "https://open.spotify.com/track/0vZzCD8Gy1w6ph5PzLctVo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "OPVS NOIR Vol. 1",
         "url": "https://open.spotify.com/album/30g6j2xuqynpAiohatDOW6"
       },
@@ -439,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mother Earth",
-        "url": "https://open.spotify.com/album/1Ly5R8riIWwOfcugMwC7t3"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 331280,
-      "name": "Mother Earth",
-      "url": "https://open.spotify.com/track/0vZzCD8Gy1w6ph5PzLctVo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wireless",
         "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
       },
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 256466,
-      "name": "The Purge",
-      "url": "https://open.spotify.com/track/1xSQOcSAFcsEl7R9AiRHAL"
+      "duration_ms": 281380,
+      "name": "Wireless",
+      "url": "https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve"
     },
     {
       "added_at": null,
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 281380,
-      "name": "Wireless",
-      "url": "https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve"
+      "duration_ms": 256466,
+      "name": "The Purge",
+      "url": "https://open.spotify.com/track/1xSQOcSAFcsEl7R9AiRHAL"
     },
     {
       "added_at": null,

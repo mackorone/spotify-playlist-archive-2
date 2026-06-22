@@ -1,6 +1,6 @@
 {
   "description": "The whole truth. Cover: Latto",
-  "num_followers": 270728,
+  "num_followers": 270720,
   "original_name": "No Cap",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2026-05-29 04:01:26",
       "album": {
+        "name": "Last Lap",
+        "url": "https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "25",
+      "url": "https://open.spotify.com/track/0U60hgxzGit7juEuHul2y3"
+    },
+    {
+      "added_at": "2026-05-29 04:01:26",
+      "album": {
         "name": "Watch Me Now! (with NLE Choppa)",
         "url": "https://open.spotify.com/album/2WeVQRmOQpmfSRt4MlpeK4"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 135000,
       "name": "Watch Me Now! (with NLE Choppa)",
       "url": "https://open.spotify.com/track/1hoEI997iy6tutEfF5a9M6"
-    },
-    {
-      "added_at": "2026-05-29 04:01:26",
-      "album": {
-        "name": "Last Lap",
-        "url": "https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "25",
-      "url": "https://open.spotify.com/track/0U60hgxzGit7juEuHul2y3"
     },
     {
       "added_at": "2026-05-29 04:01:26",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-05-29 04:01:26",
       "album": {
-        "name": "Numb",
-        "url": "https://open.spotify.com/album/2UZOCW5ysMVZAP85uYW4ma"
-      },
-      "artists": [
-        {
-          "name": "JT",
-          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
-        }
-      ],
-      "duration_ms": 154469,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/2GeHPJJYtU5ABDo0bS0Jou"
-    },
-    {
-      "added_at": "2026-05-29 04:01:26",
-      "album": {
         "name": "Deep Thoughts",
         "url": "https://open.spotify.com/album/1P7Zt5WwMMY6cwts6WkY1M"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 167396,
       "name": "They Want To Be You (feat. Future)",
       "url": "https://open.spotify.com/track/2SDKEjkjZQxxSt8e9ZiqKx"
+    },
+    {
+      "added_at": "2026-05-29 04:01:26",
+      "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/2UZOCW5ysMVZAP85uYW4ma"
+      },
+      "artists": [
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "duration_ms": 154469,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/2GeHPJJYtU5ABDo0bS0Jou"
     },
     {
       "added_at": "2026-05-29 04:01:26",

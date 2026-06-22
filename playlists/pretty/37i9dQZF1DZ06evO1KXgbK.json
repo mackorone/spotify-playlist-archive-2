@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 255721,
+  "num_followers": 255735,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAACu6X4BQnu4m2c+mcqPaSdw",
+  "snapshot_id": "ajXYAAAAAAD8tRQqsuh339iYbO1mVf8K",
   "tracks": [
     {
       "added_at": null,
@@ -399,6 +399,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trackhouse (Daytona 500 Edition)",
+        "url": "https://open.spotify.com/album/56jg3KJcYmfL7RzYmG2O1Q"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 165619,
+      "name": "Powerful Women",
+      "url": "https://open.spotify.com/track/2p0VD8mwgVidhkioB1XNZm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Treasures",
         "url": "https://open.spotify.com/album/3tDqwmruXhYiBBVJuoQcGb"
       },
@@ -419,26 +439,6 @@
       "duration_ms": 276133,
       "name": "Just When I Needed You Most",
       "url": "https://open.spotify.com/track/0UKSP1rPdm2DybI4vHk6Iw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trackhouse (Daytona 500 Edition)",
-        "url": "https://open.spotify.com/album/56jg3KJcYmfL7RzYmG2O1Q"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 165619,
-      "name": "Powerful Women",
-      "url": "https://open.spotify.com/track/2p0VD8mwgVidhkioB1XNZm"
     },
     {
       "added_at": null,
@@ -655,6 +655,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love & Fear",
+        "url": "https://open.spotify.com/album/0y6Z7wpzSw7qMh9wyexwD3"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 244029,
+      "name": "Butterfly (feat. Dolly Parton)",
+      "url": "https://open.spotify.com/track/7vgUdXfoVjRcisDUvBXiQH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Honky Tonk Angels",
         "url": "https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w"
       },
@@ -679,22 +699,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love & Fear",
-        "url": "https://open.spotify.com/album/0y6Z7wpzSw7qMh9wyexwD3"
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh"
       },
       "artists": [
         {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 157427,
+      "name": "Baby I'm Burnin'",
+      "url": "https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PTX Vol. IV - Classics",
+        "url": "https://open.spotify.com/album/00JpoY0ZaQRXTNJUruibfX"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
         },
         {
           "name": "Dolly Parton",
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 244029,
-      "name": "Butterfly (feat. Dolly Parton)",
-      "url": "https://open.spotify.com/track/7vgUdXfoVjRcisDUvBXiQH"
+      "duration_ms": 131883,
+      "name": "Jolene (feat. Dolly Parton)",
+      "url": "https://open.spotify.com/track/4i8xlL0EqaSj9piUVUOQQO"
     },
     {
       "added_at": null,
@@ -727,42 +763,6 @@
       "duration_ms": 227692,
       "name": "Light of a Clear Blue Morning",
       "url": "https://open.spotify.com/track/5yoMf4Jx2PGNFybDuWNdvE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PTX Vol. IV - Classics",
-        "url": "https://open.spotify.com/album/00JpoY0ZaQRXTNJUruibfX"
-      },
-      "artists": [
-        {
-          "name": "Pentatonix",
-          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 131883,
-      "name": "Jolene (feat. Dolly Parton)",
-      "url": "https://open.spotify.com/track/4i8xlL0EqaSj9piUVUOQQO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 157427,
-      "name": "Baby I'm Burnin'",
-      "url": "https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq"
     },
     {
       "added_at": null,
@@ -863,22 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Harvest...First Gathering",
-        "url": "https://open.spotify.com/album/1cvsUKsk753nko4CmpzG4H"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 318844,
-      "name": "You Are",
-      "url": "https://open.spotify.com/track/6okcxWVQetuXyRKMcVqJXZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Great Balls Of Fire",
         "url": "https://open.spotify.com/album/4pLrDt2coR74cVQQxPtSQX"
       },
@@ -895,8 +879,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trio (2016 Remaster)",
-        "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
+        "name": "New Harvest...First Gathering",
+        "url": "https://open.spotify.com/album/1cvsUKsk753nko4CmpzG4H"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 318844,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/6okcxWVQetuXyRKMcVqJXZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Treasures",
+        "url": "https://open.spotify.com/album/3tDqwmruXhYiBBVJuoQcGb"
       },
       "artists": [
         {
@@ -904,17 +904,13 @@
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         },
         {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
-        },
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+          "name": "David Hidalgo",
+          "url": "https://open.spotify.com/artist/4pp6PKB7hDh3LqQVuSrHTD"
         }
       ],
-      "duration_ms": 176626,
-      "name": "My Dear Companion - 2015 Remaster",
-      "url": "https://open.spotify.com/track/4tSwFKkSd6MAN0VZcR0vyR"
+      "duration_ms": 247333,
+      "name": "Before The Next Teardrop Falls",
+      "url": "https://open.spotify.com/track/0AupRfqKZlAH0IAu29IjFR"
     },
     {
       "added_at": null,
@@ -947,8 +943,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Treasures",
-        "url": "https://open.spotify.com/album/3tDqwmruXhYiBBVJuoQcGb"
+        "name": "Trio (2016 Remaster)",
+        "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
       },
       "artists": [
         {
@@ -956,13 +952,17 @@
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         },
         {
-          "name": "David Hidalgo",
-          "url": "https://open.spotify.com/artist/4pp6PKB7hDh3LqQVuSrHTD"
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        },
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
         }
       ],
-      "duration_ms": 247333,
-      "name": "Before The Next Teardrop Falls",
-      "url": "https://open.spotify.com/track/0AupRfqKZlAH0IAu29IjFR"
+      "duration_ms": 176626,
+      "name": "My Dear Companion - 2015 Remaster",
+      "url": "https://open.spotify.com/track/4tSwFKkSd6MAN0VZcR0vyR"
     },
     {
       "added_at": null,

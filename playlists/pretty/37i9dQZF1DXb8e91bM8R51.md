@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 
 > Hip Hop pra fazer os corres da vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,035 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,031 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 | 38 | [Pick It Up](https://open.spotify.com/track/7l3ZNXBVVdhBz13Vo0kbLz) | [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Muddy Waters](https://open.spotify.com/album/5iluV9CqP7Wl9wjubwdw5h) | 4:11 |
 | 39 | [Thug Till It's Over](https://open.spotify.com/track/41vSsnP46DpUZC0YoNyk3U) | [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Good Job](https://open.spotify.com/album/45AcY6DFGCp9wYlAIu2Itu) | 2:09 |
 | 40 | [Walkin \- Key Glock remix](https://open.spotify.com/track/5GJS3CY3aqbT9j2lv434aQ) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Walkin \(Key Glock remix\)](https://open.spotify.com/album/4eaBgTvANMYXbm9i1Vyx3q) | 3:46 |
-| 41 | [The Coin Toss](https://open.spotify.com/track/0vOSCwr3CqjRY4CMXOcNOT) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [Roofless Records For Drop Tops: Disc 2](https://open.spotify.com/album/7A6d4aereF1Qy7HrtuohpW) | 2:46 |
-| 42 | [Eazy \(Feat\. Kanye West\)](https://open.spotify.com/track/7CbHgNrlybV0uyP1wJINDd) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/2yBfRM9cxHgHb155SdDoWl) | 3:53 |
+| 41 | [Eazy \(Feat\. Kanye West\)](https://open.spotify.com/track/7CbHgNrlybV0uyP1wJINDd) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/2yBfRM9cxHgHb155SdDoWl) | 3:53 |
+| 42 | [The Coin Toss](https://open.spotify.com/track/0vOSCwr3CqjRY4CMXOcNOT) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [Roofless Records For Drop Tops: Disc 2](https://open.spotify.com/album/7A6d4aereF1Qy7HrtuohpW) | 2:46 |
 | 43 | [My Friends \(feat\. Lil Durk\)](https://open.spotify.com/track/0wTTf3msjDJ8NcZGTmQJQV) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [My Friends \(feat\. Lil Durk\)](https://open.spotify.com/album/2clsCCVAKCSc7PcwJ7uFLW) | 2:38 |
 | 44 | [Distant Strangers \(feat\. The Kid LAROI & Imogen Heap\)](https://open.spotify.com/track/7oa9VKcTKyWIYTnaz5V6xI) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Distant Strangers \(feat\. The Kid LAROI & Imogen Heap\)](https://open.spotify.com/album/1cwp5FEVGQaKoBV1WPbIdJ) | 2:45 |
 | 45 | [Do It Right](https://open.spotify.com/track/4ZevD501qZiFK7FY8DFn0V) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Do It Right](https://open.spotify.com/album/6v0yp2gWW4rFao7LtIA8RR) | 2:54 |

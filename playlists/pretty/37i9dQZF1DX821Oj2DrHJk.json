@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 1970s.",
-  "num_followers": 32283,
+  "num_followers": 32292,
   "original_name": "70s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Communiqu\u00e9",
-        "url": "https://open.spotify.com/album/2xQBCPq2gQ7l8thLUUZSKu"
-      },
-      "artists": [
-        {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
-        }
-      ],
-      "duration_ms": 224666,
-      "name": "Lady Writer",
-      "url": "https://open.spotify.com/track/2RBcYkonAofm0rYycVrCGt"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "Get The Knack",
         "url": "https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 295400,
       "name": "My Sharona",
       "url": "https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "Communiqu\u00e9",
+        "url": "https://open.spotify.com/album/2xQBCPq2gQ7l8thLUUZSKu"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "duration_ms": 224666,
+      "name": "Lady Writer",
+      "url": "https://open.spotify.com/track/2RBcYkonAofm0rYycVrCGt"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Breakfast In America (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
-      },
-      "artists": [
-        {
-          "name": "Supertramp",
-          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
-        }
-      ],
-      "duration_ms": 159346,
-      "name": "Breakfast In America - Remastered 2010",
-      "url": "https://open.spotify.com/track/4a5pNRjwmzYQuEY1E7O6pj"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "Stranger In Town",
         "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 302626,
       "name": "Hollywood Nights",
       "url": "https://open.spotify.com/track/5VbePtZp1at8gH990zVyTI"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "Breakfast In America (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
+      },
+      "artists": [
+        {
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+        }
+      ],
+      "duration_ms": 159346,
+      "name": "Breakfast In America - Remastered 2010",
+      "url": "https://open.spotify.com/track/4a5pNRjwmzYQuEY1E7O6pj"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "10cc",
-        "url": "https://open.spotify.com/album/1NefUKCblMkMNlspyQrJEH"
-      },
-      "artists": [
-        {
-          "name": "10cc",
-          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
-        }
-      ],
-      "duration_ms": 318853,
-      "name": "Rubber Bullets",
-      "url": "https://open.spotify.com/track/1QQgSUKCG8GakzMOwi4lFS"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "Rumours",
         "url": "https://open.spotify.com/album/63k57x0qOkUWEMR0dkMivh"
       },
@@ -1555,6 +1539,22 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
+        "name": "10cc",
+        "url": "https://open.spotify.com/album/1NefUKCblMkMNlspyQrJEH"
+      },
+      "artists": [
+        {
+          "name": "10cc",
+          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
+        }
+      ],
+      "duration_ms": 318853,
+      "name": "Rubber Bullets",
+      "url": "https://open.spotify.com/track/1QQgSUKCG8GakzMOwi4lFS"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
         "name": "Suzi Quatro",
         "url": "https://open.spotify.com/album/06HJVlWlwBfMKf8BE0eAHW"
       },
@@ -1567,6 +1567,22 @@
       "duration_ms": 214400,
       "name": "Can the Can",
       "url": "https://open.spotify.com/track/6K0kK40E7PA2i9LsGmVCfK"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "Razamanaz",
+        "url": "https://open.spotify.com/album/19kMBEeYJUwXUI92KPCGeg"
+      },
+      "artists": [
+        {
+          "name": "Nazareth",
+          "url": "https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP"
+        }
+      ],
+      "duration_ms": 238146,
+      "name": "Bad Bad Boy",
+      "url": "https://open.spotify.com/track/3w5sVhdCNzQyCx0aANMMmD"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1599,22 +1615,6 @@
       "duration_ms": 194826,
       "name": "Live And Let Die",
       "url": "https://open.spotify.com/track/2TEW9YkQDKRHUxCHbEn0Gk"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
-        "name": "The Complete UK Recordings",
-        "url": "https://open.spotify.com/album/3gyK04qL9Si5MgCidiVy1V"
-      },
-      "artists": [
-        {
-          "name": "10cc",
-          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
-        }
-      ],
-      "duration_ms": 241572,
-      "name": "The Wall Street Shuffle",
-      "url": "https://open.spotify.com/track/3HyZGwZAq9oQJQBzSyjs7Q"
     }
   ],
   "unique_name": "70s Summer Rock",

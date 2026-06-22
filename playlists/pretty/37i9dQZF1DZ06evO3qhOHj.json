@@ -1,12 +1,12 @@
 {
   "description": "This is Mr. Big. The essential tracks, all in one playlist.",
-  "num_followers": 30880,
+  "num_followers": 30879,
   "original_name": "This Is Mr. Big",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAABCquIy4s6lWtHc+B9/TQHD",
+  "snapshot_id": "ajXYAAAAAAA+2ofxkBBMCldYC3bTZI0e",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What If...",
-        "url": "https://open.spotify.com/album/378UK4ew1Emc72jH4KzRfq"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 288746,
-      "name": "Undertow",
-      "url": "https://open.spotify.com/track/3g811urVvhkvAv3fT5BzTq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lean Into It [Expanded]",
         "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 239173,
       "name": "Road to Ruin",
       "url": "https://open.spotify.com/track/2mkrQ6styM2orpDSCTmfm8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What If...",
+        "url": "https://open.spotify.com/album/378UK4ew1Emc72jH4KzRfq"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 288746,
+      "name": "Undertow",
+      "url": "https://open.spotify.com/track/3g811urVvhkvAv3fT5BzTq"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What If...",
-        "url": "https://open.spotify.com/album/1HSKINJIwGJj6ECnx9gSiP"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 312040,
-      "name": "All the Way Up",
-      "url": "https://open.spotify.com/track/4JtkYz1y2fuu5r4AbedNCt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Get Over It",
         "url": "https://open.spotify.com/album/49pbcb2iALtFnSAZDcdBDE"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 252520,
       "name": "How Does It Feel",
       "url": "https://open.spotify.com/track/4JDD3UYWUKvYX5j1UwSg5d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What If...",
+        "url": "https://open.spotify.com/album/1HSKINJIwGJj6ECnx9gSiP"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 312040,
+      "name": "All the Way Up",
+      "url": "https://open.spotify.com/track/4JtkYz1y2fuu5r4AbedNCt"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Big (2023 Remastered)",
-        "url": "https://open.spotify.com/album/5OtrlDneedFuFRBHrtNa42"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 295472,
-      "name": "Had Enough - 2023 Remastered",
-      "url": "https://open.spotify.com/track/4bdJBbE17wBF9BRnaodYpk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lean Into It [Expanded]",
         "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 247093,
       "name": "Voodoo Kiss",
       "url": "https://open.spotify.com/track/3LdABwumpWjN7VAzXZh1xF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mr. Big (2023 Remastered)",
+        "url": "https://open.spotify.com/album/5OtrlDneedFuFRBHrtNa42"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 295472,
+      "name": "Had Enough - 2023 Remastered",
+      "url": "https://open.spotify.com/track/4bdJBbE17wBF9BRnaodYpk"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Actual Size",
-        "url": "https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq"
+        "name": "Hey Man (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7bFDSGXK3yycTj0E6lq5dd"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 292026,
-      "name": "Lost In America",
-      "url": "https://open.spotify.com/track/3JG9t9qhTYktLGEA3UXZYr"
+      "duration_ms": 270000,
+      "name": "Friend of The Working Girl",
+      "url": "https://open.spotify.com/track/6ZT2AEc1x7dBHF32vfsktP"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Actual Size",
+        "url": "https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 292026,
+      "name": "Lost In America",
+      "url": "https://open.spotify.com/track/3JG9t9qhTYktLGEA3UXZYr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "What If...",
         "url": "https://open.spotify.com/album/1HSKINJIwGJj6ECnx9gSiP"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 234693,
       "name": "As Far As I Can See",
       "url": "https://open.spotify.com/track/7K3IcXuMFzd3gTZBZNBKxf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hey Man (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7bFDSGXK3yycTj0E6lq5dd"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Friend of The Working Girl",
-      "url": "https://open.spotify.com/track/6ZT2AEc1x7dBHF32vfsktP"
     }
   ],
   "unique_name": "This Is Mr. Big",

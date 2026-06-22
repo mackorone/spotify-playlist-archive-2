@@ -4,7 +4,7 @@
 
 > This is Joan Sebastian\. The essential tracks, all in one playlist.
 
-87 songs - 4 hr 33 min
+88 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Invítame Un Cigarro](https://open.spotify.com/track/3SNOoNcM4sHo7TdeUJX1PL) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Más Allá Del Sol](https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM) | 2:42 | 2023-08-08 |  |
 | [Juanita \(Flor De Walamo\)](https://open.spotify.com/track/242lyf8OjxomhjLpeas75s) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Peor De Tus Antojos](https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim) | 3:22 | 2024-02-20 |  |
 | [Juliantla](https://open.spotify.com/track/7vrIweMapxdothM6NNPYy5) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [15 Éxitos](https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2) | 3:24 | 2023-08-08 |  |
-| [La Derrota](https://open.spotify.com/track/44P2cTsJ3QF8HQsgdlMJge) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [13 Celebrando El 13](https://open.spotify.com/album/3LRsbclfKVaByqLU641wH5) | 3:19 | 2023-08-08 |  |
+| [La Derrota](https://open.spotify.com/track/44P2cTsJ3QF8HQsgdlMJge) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [13 Celebrando El 13](https://open.spotify.com/album/3LRsbclfKVaByqLU641wH5) | 3:19 | 2023-08-08 | 2026-06-22 |
 | [La Mamá de los Pollitos](https://open.spotify.com/track/75Jq9WYY1EzcBsc8pPf3eD) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joyas Musicales, Vol\. 3: La Mamá de los Pollitos](https://open.spotify.com/album/3LtM9PLqBUT6nGSJy9wYyZ) | 2:48 | 2026-02-28 |  |
 | [La Prietita Que Yo Quiero](https://open.spotify.com/track/69O3Bdh6vBYY3cN3BwTH2Y) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Tambora, Vol\. 2](https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ) | 2:49 | 2023-08-08 |  |
 | [La Ventana](https://open.spotify.com/track/1js1ErXLdhEICtjWGG7Q6i) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Colección De Oro: Tres Grandes Con Mariachi, Vol\. 1 – Joan Sebastian](https://open.spotify.com/album/4nT0tuBlMgoUMIHnAMI43G) | 2:25 | 2023-09-25 | 2023-11-11 |
@@ -57,6 +57,7 @@
 | [Me La Escondieron Sus Padres](https://open.spotify.com/track/1Ke5g7pgyPRt5xaO5OBBhN) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con Tambora](https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ) | 3:23 | 2024-05-10 |  |
 | [Melodía Para Dos](https://open.spotify.com/track/623Lx99JwTGxEivWzNIyX0) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [15 Éxitos](https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2) | 3:06 | 2023-08-08 |  |
 | [Mi Cómplice](https://open.spotify.com/track/0iEH53cTwBCIZjJg6P81Gn) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Lo Mejor De Joan Sebastian](https://open.spotify.com/album/1lx8CxUv6eeiMkK7iv7Pte) | 3:07 | 2023-08-08 | 2026-03-20 |
+| [Mi Cómplice](https://open.spotify.com/track/61HrsOIuBD36ERPk77792M) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Mi Mexico Querido](https://open.spotify.com/album/1daXpKCEEDLb25H1UgzoIa) | 3:07 | 2026-06-22 |  |
 | [Muchachita De Ojos Claros](https://open.spotify.com/track/6KHHFJARqCRhevKe3ozHct) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Tambora, Vol\. 2](https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ) | 2:13 | 2023-08-08 |  |
 | [Más Allá Del Sol](https://open.spotify.com/track/3rusXt8aQcGDtYImYtL5tm) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Más Allá Del Sol](https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM) | 2:43 | 2023-08-08 |  |
 | [Más Allá del Sol \- La Luna](https://open.spotify.com/track/0tPCfeskeq62RaeDRUZkcn) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Secreto de Amor \(Las Noches\) EP](https://open.spotify.com/album/6beY717xGgNQnQtcPYXGPH) | 4:18 | 2025-11-09 | 2025-12-07 |

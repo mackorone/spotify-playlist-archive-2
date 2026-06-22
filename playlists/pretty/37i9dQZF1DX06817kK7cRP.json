@@ -1,6 +1,6 @@
 {
   "description": "Soft Jazz beats in the background while you're studying or relaxing.",
-  "num_followers": 202341,
+  "num_followers": 202366,
   "original_name": "Smooth Jazz Beats",
   "owner": {
     "name": "Spotify",
@@ -163,6 +163,22 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
+        "name": "Mood Swings",
+        "url": "https://open.spotify.com/album/5mNPsQ3gt6FRqENKabPJgF"
+      },
+      "artists": [
+        {
+          "name": "Jerk",
+          "url": "https://open.spotify.com/artist/47fuoUqgL8n7eSQsSdaCQf"
+        }
+      ],
+      "duration_ms": 150329,
+      "name": "Voices in my Head",
+      "url": "https://open.spotify.com/track/1tYkD1SYRtTGjOhczQ7IuW"
+    },
+    {
+      "added_at": "2026-05-26 07:53:18",
+      "album": {
         "name": "Hideouts",
         "url": "https://open.spotify.com/album/2482yoojUTuPHgC2PdUHxY"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 132972,
       "name": "Hideouts",
       "url": "https://open.spotify.com/track/0VD1obEexRZeAfYMluwSox"
-    },
-    {
-      "added_at": "2026-05-26 07:53:18",
-      "album": {
-        "name": "Mood Swings",
-        "url": "https://open.spotify.com/album/5mNPsQ3gt6FRqENKabPJgF"
-      },
-      "artists": [
-        {
-          "name": "Jerk",
-          "url": "https://open.spotify.com/artist/47fuoUqgL8n7eSQsSdaCQf"
-        }
-      ],
-      "duration_ms": 150329,
-      "name": "Voices in my Head",
-      "url": "https://open.spotify.com/track/1tYkD1SYRtTGjOhczQ7IuW"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -339,6 +339,26 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
+        "name": "Jezerro",
+        "url": "https://open.spotify.com/album/0zRaAbN8C00tQH0nQJB5UE"
+      },
+      "artists": [
+        {
+          "name": "\u00d8DYSSEE",
+          "url": "https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA"
+        },
+        {
+          "name": "delaney.",
+          "url": "https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h"
+        }
+      ],
+      "duration_ms": 153973,
+      "name": "Jezerro",
+      "url": "https://open.spotify.com/track/0wO5Kuq82JCh1w5XZBSqiZ"
+    },
+    {
+      "added_at": "2026-05-26 07:53:18",
+      "album": {
         "name": "Ensue\u00f1o",
         "url": "https://open.spotify.com/album/3db73nhhJH7DLraNobxn1q"
       },
@@ -359,26 +379,6 @@
       "duration_ms": 158117,
       "name": "Ensue\u00f1o",
       "url": "https://open.spotify.com/track/449WDT4cxUdfySxwnuTinu"
-    },
-    {
-      "added_at": "2026-05-26 07:53:18",
-      "album": {
-        "name": "Jezerro",
-        "url": "https://open.spotify.com/album/0zRaAbN8C00tQH0nQJB5UE"
-      },
-      "artists": [
-        {
-          "name": "\u00d8DYSSEE",
-          "url": "https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA"
-        },
-        {
-          "name": "delaney.",
-          "url": "https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h"
-        }
-      ],
-      "duration_ms": 153973,
-      "name": "Jezerro",
-      "url": "https://open.spotify.com/track/0wO5Kuq82JCh1w5XZBSqiZ"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -519,6 +519,22 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
+        "name": "Gomorra",
+        "url": "https://open.spotify.com/album/6VVBTVyunenDGqNgmTKZZT"
+      },
+      "artists": [
+        {
+          "name": "BeatsBySindri",
+          "url": "https://open.spotify.com/artist/3l4l6Du65QxJ1uhw8SLsyV"
+        }
+      ],
+      "duration_ms": 167694,
+      "name": "Gomorra",
+      "url": "https://open.spotify.com/track/7b2pxrFGHyyzoClnxKqEVC"
+    },
+    {
+      "added_at": "2026-05-26 07:53:18",
+      "album": {
         "name": "Cruise Control",
         "url": "https://open.spotify.com/album/7tSLPHy2Sg8YmHTTvREaAB"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 144000,
       "name": "Cruise Control",
       "url": "https://open.spotify.com/track/5xSQbBayVvZcjreQ4t3KhQ"
-    },
-    {
-      "added_at": "2026-05-26 07:53:18",
-      "album": {
-        "name": "Gomorra",
-        "url": "https://open.spotify.com/album/6VVBTVyunenDGqNgmTKZZT"
-      },
-      "artists": [
-        {
-          "name": "BeatsBySindri",
-          "url": "https://open.spotify.com/artist/3l4l6Du65QxJ1uhw8SLsyV"
-        }
-      ],
-      "duration_ms": 167694,
-      "name": "Gomorra",
-      "url": "https://open.spotify.com/track/7b2pxrFGHyyzoClnxKqEVC"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -591,26 +591,6 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
-        "name": "places i have yet to see",
-        "url": "https://open.spotify.com/album/1Uh4HKvQmuBWqaIshTEyiE"
-      },
-      "artists": [
-        {
-          "name": "tonbo",
-          "url": "https://open.spotify.com/artist/5yMbLExmd8BnFP1LaWPfQ4"
-        },
-        {
-          "name": "azayaka",
-          "url": "https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "places i have yet to see",
-      "url": "https://open.spotify.com/track/0ScamXll3uLlIp5Pt5s8Ze"
-    },
-    {
-      "added_at": "2026-05-26 07:53:18",
-      "album": {
         "name": "La Luz",
         "url": "https://open.spotify.com/album/1F064LtPXfOAstcUhdylwz"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 120000,
       "name": "La Luz",
       "url": "https://open.spotify.com/track/2wPiI06tTvnHyeV2Hn370J"
+    },
+    {
+      "added_at": "2026-05-26 07:53:18",
+      "album": {
+        "name": "places i have yet to see",
+        "url": "https://open.spotify.com/album/1Uh4HKvQmuBWqaIshTEyiE"
+      },
+      "artists": [
+        {
+          "name": "tonbo",
+          "url": "https://open.spotify.com/artist/5yMbLExmd8BnFP1LaWPfQ4"
+        },
+        {
+          "name": "azayaka",
+          "url": "https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "places i have yet to see",
+      "url": "https://open.spotify.com/track/0ScamXll3uLlIp5Pt5s8Ze"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
-        "name": "high downforce",
-        "url": "https://open.spotify.com/album/2wVHvyrMgTFW0OazHPe7Zq"
-      },
-      "artists": [
-        {
-          "name": "chill.farm",
-          "url": "https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF"
-        }
-      ],
-      "duration_ms": 140750,
-      "name": "high downforce",
-      "url": "https://open.spotify.com/track/6Ybsa98LVmJAr15DwXSbzl"
-    },
-    {
-      "added_at": "2026-05-26 07:53:18",
-      "album": {
         "name": "Reveries",
         "url": "https://open.spotify.com/album/2BtiUcWF9zmRoqgPAIJ2QA"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 122465,
       "name": "Get Home",
       "url": "https://open.spotify.com/track/1KcoB31KRMA6kq5wgxP5ws"
+    },
+    {
+      "added_at": "2026-05-26 07:53:18",
+      "album": {
+        "name": "high downforce",
+        "url": "https://open.spotify.com/album/2wVHvyrMgTFW0OazHPe7Zq"
+      },
+      "artists": [
+        {
+          "name": "chill.farm",
+          "url": "https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF"
+        }
+      ],
+      "duration_ms": 140750,
+      "name": "high downforce",
+      "url": "https://open.spotify.com/track/6Ybsa98LVmJAr15DwXSbzl"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
+        "name": "Millia",
+        "url": "https://open.spotify.com/album/33LQ8V4TyHEcjR9mCiEv2x"
+      },
+      "artists": [
+        {
+          "name": "lorleaf",
+          "url": "https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y"
+        }
+      ],
+      "duration_ms": 140689,
+      "name": "Millia",
+      "url": "https://open.spotify.com/track/0sUNV4asStRuzKZt00srik"
+    },
+    {
+      "added_at": "2026-05-26 07:53:18",
+      "album": {
         "name": "Lithography Vol. 1",
         "url": "https://open.spotify.com/album/3YSXfVKvNTn58sbkhDNPdb"
       },
@@ -1107,18 +1123,18 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
-        "name": "Millia",
-        "url": "https://open.spotify.com/album/33LQ8V4TyHEcjR9mCiEv2x"
+        "name": "Dive In!",
+        "url": "https://open.spotify.com/album/5ZnX85acDURGkTmsOKTUq5"
       },
       "artists": [
         {
-          "name": "lorleaf",
-          "url": "https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y"
+          "name": "Lavender Box",
+          "url": "https://open.spotify.com/artist/4qQYvOHb8QQ0E3mwOTPQk9"
         }
       ],
-      "duration_ms": 140689,
-      "name": "Millia",
-      "url": "https://open.spotify.com/track/0sUNV4asStRuzKZt00srik"
+      "duration_ms": 178750,
+      "name": "Dive In!",
+      "url": "https://open.spotify.com/track/6Y5w1dN90F0jreQGos2ypf"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -1147,38 +1163,6 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
-        "name": "Dive In!",
-        "url": "https://open.spotify.com/album/5ZnX85acDURGkTmsOKTUq5"
-      },
-      "artists": [
-        {
-          "name": "Lavender Box",
-          "url": "https://open.spotify.com/artist/4qQYvOHb8QQ0E3mwOTPQk9"
-        }
-      ],
-      "duration_ms": 178750,
-      "name": "Dive In!",
-      "url": "https://open.spotify.com/track/6Y5w1dN90F0jreQGos2ypf"
-    },
-    {
-      "added_at": "2026-05-26 07:53:18",
-      "album": {
-        "name": "Woodlander",
-        "url": "https://open.spotify.com/album/7sSPJBrN2fgSnW5rHSSKhG"
-      },
-      "artists": [
-        {
-          "name": "invention_",
-          "url": "https://open.spotify.com/artist/7uA2p3333eiW9Cknf1twtU"
-        }
-      ],
-      "duration_ms": 149123,
-      "name": "Woodlander",
-      "url": "https://open.spotify.com/track/577MuVDzCHjTASuPsU34Hs"
-    },
-    {
-      "added_at": "2026-05-26 07:53:18",
-      "album": {
         "name": "Table Talk",
         "url": "https://open.spotify.com/album/3N5XJpMVK4IF158ilJIemH"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 177441,
       "name": "Table Talk",
       "url": "https://open.spotify.com/track/6uOaF86KVwPuSGkklnYrko"
+    },
+    {
+      "added_at": "2026-05-26 07:53:18",
+      "album": {
+        "name": "Woodlander",
+        "url": "https://open.spotify.com/album/7sSPJBrN2fgSnW5rHSSKhG"
+      },
+      "artists": [
+        {
+          "name": "invention_",
+          "url": "https://open.spotify.com/artist/7uA2p3333eiW9Cknf1twtU"
+        }
+      ],
+      "duration_ms": 149123,
+      "name": "Woodlander",
+      "url": "https://open.spotify.com/track/577MuVDzCHjTASuPsU34Hs"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
-        "name": "Party Life",
-        "url": "https://open.spotify.com/album/1UGqZB7FGCWvMbwdc2eAW1"
-      },
-      "artists": [
-        {
-          "name": "Digital Candle",
-          "url": "https://open.spotify.com/artist/4c6b7cOrAun4kjZnQpJsSi"
-        }
-      ],
-      "duration_ms": 189521,
-      "name": "Yellow Rose",
-      "url": "https://open.spotify.com/track/0NoXLmUqcyoGB6mwGA1HmC"
-    },
-    {
-      "added_at": "2026-05-26 07:53:18",
-      "album": {
         "name": "High Expectations",
         "url": "https://open.spotify.com/album/6Or8HJNSBISRJNgukN5tyd"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 136438,
       "name": "High Expectations",
       "url": "https://open.spotify.com/track/4rn17OCKU2IAPEPVOi8kPy"
+    },
+    {
+      "added_at": "2026-05-26 07:53:18",
+      "album": {
+        "name": "Party Life",
+        "url": "https://open.spotify.com/album/1UGqZB7FGCWvMbwdc2eAW1"
+      },
+      "artists": [
+        {
+          "name": "Digital Candle",
+          "url": "https://open.spotify.com/artist/4c6b7cOrAun4kjZnQpJsSi"
+        }
+      ],
+      "duration_ms": 189521,
+      "name": "Yellow Rose",
+      "url": "https://open.spotify.com/track/0NoXLmUqcyoGB6mwGA1HmC"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -1667,26 +1667,6 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
-        "name": "overtake on the outside",
-        "url": "https://open.spotify.com/album/2cKPB2qD6K88rC6o3G7xaW"
-      },
-      "artists": [
-        {
-          "name": "trak-side",
-          "url": "https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh"
-        },
-        {
-          "name": "chill.farm",
-          "url": "https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF"
-        }
-      ],
-      "duration_ms": 151624,
-      "name": "overtake on the outside",
-      "url": "https://open.spotify.com/track/13wgIAjCCWKkebdUlPnS70"
-    },
-    {
-      "added_at": "2026-05-26 07:53:18",
-      "album": {
         "name": "Frontside",
         "url": "https://open.spotify.com/album/6IzKnfHfRAABTOc81vFydK"
       },
@@ -1707,18 +1687,22 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
-        "name": "Soft Shadows",
-        "url": "https://open.spotify.com/album/1p1bSDLIrNgYETMjggQqzf"
+        "name": "overtake on the outside",
+        "url": "https://open.spotify.com/album/2cKPB2qD6K88rC6o3G7xaW"
       },
       "artists": [
         {
-          "name": "Jesse Houghton",
-          "url": "https://open.spotify.com/artist/7LuufjFkjNN1Qwol9eOBvq"
+          "name": "trak-side",
+          "url": "https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh"
+        },
+        {
+          "name": "chill.farm",
+          "url": "https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF"
         }
       ],
-      "duration_ms": 155647,
-      "name": "Soft Shadows",
-      "url": "https://open.spotify.com/track/7DXIGDvTUP2JO1NEh02f2h"
+      "duration_ms": 151624,
+      "name": "overtake on the outside",
+      "url": "https://open.spotify.com/track/13wgIAjCCWKkebdUlPnS70"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -1743,6 +1727,22 @@
       "duration_ms": 142702,
       "name": "Cortado",
       "url": "https://open.spotify.com/track/4vGjoOyEmmbPovNCjoF8eQ"
+    },
+    {
+      "added_at": "2026-05-26 07:53:18",
+      "album": {
+        "name": "Soft Shadows",
+        "url": "https://open.spotify.com/album/1p1bSDLIrNgYETMjggQqzf"
+      },
+      "artists": [
+        {
+          "name": "Jesse Houghton",
+          "url": "https://open.spotify.com/artist/7LuufjFkjNN1Qwol9eOBvq"
+        }
+      ],
+      "duration_ms": 155647,
+      "name": "Soft Shadows",
+      "url": "https://open.spotify.com/track/7DXIGDvTUP2JO1NEh02f2h"
     },
     {
       "added_at": "2026-05-26 07:53:18",

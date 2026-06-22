@@ -1,12 +1,12 @@
 {
   "description": "This is Gabito Ballesteros. The essential tracks, all in one playlist.",
-  "num_followers": 184453,
+  "num_followers": 184468,
   "original_name": "This Is Gabito Ballesteros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAACINzseVA0bTS90y40q+UK8",
+  "snapshot_id": "ajXYAAAAAAARAJ+PfTJ+D2Tr5GwXkLe1",
   "tracks": [
     {
       "added_at": null,
@@ -183,6 +183,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gan\u00e9",
+        "url": "https://open.spotify.com/album/2XnvAhJy0R6qJT6GVYhKuZ"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 260949,
+      "name": "Gan\u00e9",
+      "url": "https://open.spotify.com/track/7ARRCcCMXLzdda2w5jxSY4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nata Montana",
         "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
       },
@@ -203,26 +223,6 @@
       "duration_ms": 174942,
       "name": "AMG",
       "url": "https://open.spotify.com/track/0FxtC8uFapbpDBliAU3sd6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gan\u00e9",
-        "url": "https://open.spotify.com/album/2XnvAhJy0R6qJT6GVYhKuZ"
-      },
-      "artists": [
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 260949,
-      "name": "Gan\u00e9",
-      "url": "https://open.spotify.com/track/7ARRCcCMXLzdda2w5jxSY4"
     },
     {
       "added_at": null,
@@ -335,26 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cartier",
-        "url": "https://open.spotify.com/album/1Dc6mH1teFQDQQXlgpl8pB"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 186494,
-      "name": "Cartier",
-      "url": "https://open.spotify.com/track/5xAikCeFXqHpVUuRKxBg4V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c9XODO",
         "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 245997,
       "name": "VINO TINTO",
       "url": "https://open.spotify.com/track/5UHK1rtK4MpBGb0KppIYh4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cartier",
+        "url": "https://open.spotify.com/album/1Dc6mH1teFQDQQXlgpl8pB"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 186494,
+      "name": "Cartier",
+      "url": "https://open.spotify.com/track/5xAikCeFXqHpVUuRKxBg4V"
     },
     {
       "added_at": null,
@@ -659,6 +659,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Compa Primo",
+        "url": "https://open.spotify.com/album/1cdxgijuBnrCsU7uhp7Ch4"
+      },
+      "artists": [
+        {
+          "name": "Nueva H",
+          "url": "https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 192768,
+      "name": "Compa Primo",
+      "url": "https://open.spotify.com/track/2DdaY2TLmJU8MlTqCLG8lg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Boss",
         "url": "https://open.spotify.com/album/6yeUuq8mHmEXuRe4KUiCKk"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 158036,
       "name": "Proyecto X",
       "url": "https://open.spotify.com/track/3PdxzrKH2jVQwAYWe0OMK8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Compa Primo",
-        "url": "https://open.spotify.com/album/1cdxgijuBnrCsU7uhp7Ch4"
-      },
-      "artists": [
-        {
-          "name": "Nueva H",
-          "url": "https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 192768,
-      "name": "Compa Primo",
-      "url": "https://open.spotify.com/track/2DdaY2TLmJU8MlTqCLG8lg"
     },
     {
       "added_at": null,
@@ -983,26 +983,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No Se Llevan Serenatas",
-        "url": "https://open.spotify.com/album/6MRvPbmvRXntgB8DiDsIT6"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        }
-      ],
-      "duration_ms": 259876,
-      "name": "CADAVER DE LA NOVIA",
-      "url": "https://open.spotify.com/track/2HkKMTTfFM4H7Hb7zKjDtm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "On The Road",
         "url": "https://open.spotify.com/album/7yQ1S9MYxf97ODMA9cdZiW"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 155560,
       "name": "La Pelinegra",
       "url": "https://open.spotify.com/track/4kVrTtUI2bVYk25HcoHFHt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ya No Se Llevan Serenatas",
+        "url": "https://open.spotify.com/album/6MRvPbmvRXntgB8DiDsIT6"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 259876,
+      "name": "CADAVER DE LA NOVIA",
+      "url": "https://open.spotify.com/track/2HkKMTTfFM4H7Hb7zKjDtm"
     },
     {
       "added_at": null,

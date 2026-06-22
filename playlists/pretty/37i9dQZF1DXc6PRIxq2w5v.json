@@ -1,6 +1,6 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: AO Cubo, 2metro, Nesk Only, Brunno Ramos",
-  "num_followers": 191985,
+  "num_followers": 192015,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,22 @@
     {
       "added_at": "2026-06-12 03:01:42",
       "album": {
+        "name": "Detalhes",
+        "url": "https://open.spotify.com/album/35Ig0rbCPiBZYvlDXe3X4H"
+      },
+      "artists": [
+        {
+          "name": "Nesk Only",
+          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
+        }
+      ],
+      "duration_ms": 198267,
+      "name": "Detalhes",
+      "url": "https://open.spotify.com/track/1Bie0bzOswMPKBznGUv3Bb"
+    },
+    {
+      "added_at": "2026-06-12 03:01:42",
+      "album": {
         "name": "Folha em Branco",
         "url": "https://open.spotify.com/album/7yXAdF64otcKyWcVTDMFBh"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 259672,
       "name": "Folha em Branco",
       "url": "https://open.spotify.com/track/3CkZRDRAZN8QvHZrwfxf9c"
-    },
-    {
-      "added_at": "2026-06-12 03:01:42",
-      "album": {
-        "name": "Detalhes",
-        "url": "https://open.spotify.com/album/35Ig0rbCPiBZYvlDXe3X4H"
-      },
-      "artists": [
-        {
-          "name": "Nesk Only",
-          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
-        }
-      ],
-      "duration_ms": 198267,
-      "name": "Detalhes",
-      "url": "https://open.spotify.com/track/1Bie0bzOswMPKBznGUv3Bb"
     },
     {
       "added_at": "2026-06-12 03:01:42",
@@ -239,6 +239,22 @@
     {
       "added_at": "2026-06-12 03:01:42",
       "album": {
+        "name": "Ontem",
+        "url": "https://open.spotify.com/album/5rJC6uOioyRXvD28qvdv1v"
+      },
+      "artists": [
+        {
+          "name": "Nesk Only",
+          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
+        }
+      ],
+      "duration_ms": 138187,
+      "name": "Ontem",
+      "url": "https://open.spotify.com/track/0HC8kh6xCPMmMm7PKI9L4S"
+    },
+    {
+      "added_at": "2026-06-12 03:01:42",
+      "album": {
         "name": "JUDAS",
         "url": "https://open.spotify.com/album/1HmnsaJjvtrbjaYzE6Tc04"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 214736,
       "name": "JUDAS",
       "url": "https://open.spotify.com/track/7gDMLxabbUqNucRhazMmeM"
-    },
-    {
-      "added_at": "2026-06-12 03:01:42",
-      "album": {
-        "name": "Ontem",
-        "url": "https://open.spotify.com/album/5rJC6uOioyRXvD28qvdv1v"
-      },
-      "artists": [
-        {
-          "name": "Nesk Only",
-          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
-        }
-      ],
-      "duration_ms": 138187,
-      "name": "Ontem",
-      "url": "https://open.spotify.com/track/0HC8kh6xCPMmMm7PKI9L4S"
     },
     {
       "added_at": "2026-06-12 03:01:42",
@@ -331,26 +331,6 @@
     {
       "added_at": "2026-06-12 03:01:42",
       "album": {
-        "name": "Quero Voltar",
-        "url": "https://open.spotify.com/album/4ilO0Yx4mfVSbtuViiaXj4"
-      },
-      "artists": [
-        {
-          "name": "Gui Hazel",
-          "url": "https://open.spotify.com/artist/5aoZ1HQ8sRZeMPnTr1IHJP"
-        },
-        {
-          "name": "TRDD Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        }
-      ],
-      "duration_ms": 174375,
-      "name": "Quero Voltar",
-      "url": "https://open.spotify.com/track/1aXoFwqmHiIaKt4ituOfHb"
-    },
-    {
-      "added_at": "2026-06-12 03:01:42",
-      "album": {
         "name": "Toque",
         "url": "https://open.spotify.com/album/4kQFY6U8Z976Zh8rS7toHV"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 173281,
       "name": "Toque",
       "url": "https://open.spotify.com/track/1afnYuwXwdmO4akkdvPdFq"
+    },
+    {
+      "added_at": "2026-06-12 03:01:42",
+      "album": {
+        "name": "Quero Voltar",
+        "url": "https://open.spotify.com/album/4ilO0Yx4mfVSbtuViiaXj4"
+      },
+      "artists": [
+        {
+          "name": "Gui Hazel",
+          "url": "https://open.spotify.com/artist/5aoZ1HQ8sRZeMPnTr1IHJP"
+        },
+        {
+          "name": "TRDD Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "duration_ms": 174375,
+      "name": "Quero Voltar",
+      "url": "https://open.spotify.com/track/1aXoFwqmHiIaKt4ituOfHb"
     },
     {
       "added_at": "2026-06-12 03:01:42",
@@ -443,6 +443,22 @@
     {
       "added_at": "2026-06-12 03:01:42",
       "album": {
+        "name": "Inabal\u00e1vel",
+        "url": "https://open.spotify.com/album/60GyXDIQsLsCm0n7mLOHHT"
+      },
+      "artists": [
+        {
+          "name": "Nesk Only",
+          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
+        }
+      ],
+      "duration_ms": 162991,
+      "name": "Inabal\u00e1vel",
+      "url": "https://open.spotify.com/track/1eLzqT8D2bwtfVEBWsoFTj"
+    },
+    {
+      "added_at": "2026-06-12 03:01:42",
+      "album": {
         "name": "Crises",
         "url": "https://open.spotify.com/album/27V8oYBFDgEtNN8Gaqukfe"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 144489,
       "name": "Crises",
       "url": "https://open.spotify.com/track/3vuXb0bz3HKp2Iey3vOpaX"
-    },
-    {
-      "added_at": "2026-06-12 03:01:42",
-      "album": {
-        "name": "Inabal\u00e1vel",
-        "url": "https://open.spotify.com/album/60GyXDIQsLsCm0n7mLOHHT"
-      },
-      "artists": [
-        {
-          "name": "Nesk Only",
-          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
-        }
-      ],
-      "duration_ms": 162991,
-      "name": "Inabal\u00e1vel",
-      "url": "https://open.spotify.com/track/1eLzqT8D2bwtfVEBWsoFTj"
     },
     {
       "added_at": "2026-06-12 03:01:42",
@@ -807,22 +807,18 @@
     {
       "added_at": "2026-06-12 03:01:42",
       "album": {
-        "name": "DNA",
-        "url": "https://open.spotify.com/album/4lSfrYeSmEDqnyBwq9FEUf"
+        "name": "Deus Me Estendeu Sua M\u00e3o",
+        "url": "https://open.spotify.com/album/11H96prjfGCKxIHVAuVLYH"
       },
       "artists": [
         {
           "name": "Lookas",
           "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
-        },
-        {
-          "name": "Novidade Urbana",
-          "url": "https://open.spotify.com/artist/3DgCbsyCW1JOgEJEe8WrVy"
         }
       ],
-      "duration_ms": 142622,
-      "name": "DNA",
-      "url": "https://open.spotify.com/track/7e5Sa9V4FkAi8QD4yS2og3"
+      "duration_ms": 167947,
+      "name": "Deus Me Estendeu Sua M\u00e3o",
+      "url": "https://open.spotify.com/track/6pn8UkB7vFhHtAFhmWwnP9"
     },
     {
       "added_at": "2026-06-12 03:01:42",
@@ -919,18 +915,22 @@
     {
       "added_at": "2026-06-12 03:01:42",
       "album": {
-        "name": "Deus Me Estendeu Sua M\u00e3o",
-        "url": "https://open.spotify.com/album/11H96prjfGCKxIHVAuVLYH"
+        "name": "DNA",
+        "url": "https://open.spotify.com/album/4lSfrYeSmEDqnyBwq9FEUf"
       },
       "artists": [
         {
           "name": "Lookas",
           "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+        },
+        {
+          "name": "Novidade Urbana",
+          "url": "https://open.spotify.com/artist/3DgCbsyCW1JOgEJEe8WrVy"
         }
       ],
-      "duration_ms": 167947,
-      "name": "Deus Me Estendeu Sua M\u00e3o",
-      "url": "https://open.spotify.com/track/6pn8UkB7vFhHtAFhmWwnP9"
+      "duration_ms": 142622,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/7e5Sa9V4FkAi8QD4yS2og3"
     },
     {
       "added_at": "2026-06-12 03:01:42",
@@ -1127,6 +1127,30 @@
     {
       "added_at": "2026-06-12 03:01:42",
       "album": {
+        "name": "Purificado",
+        "url": "https://open.spotify.com/album/1FUN8psp7l2kciJvxccBiV"
+      },
+      "artists": [
+        {
+          "name": "Duardin",
+          "url": "https://open.spotify.com/artist/47MHCD4zIJB5McYx01HD95"
+        },
+        {
+          "name": "TRDD Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 145125,
+      "name": "Purificado",
+      "url": "https://open.spotify.com/track/0Mh41QHiql9sTldoX8a4S5"
+    },
+    {
+      "added_at": "2026-06-12 03:01:42",
+      "album": {
         "name": "Dias de Luta",
         "url": "https://open.spotify.com/album/4fvDcNHgCQ2kqaSIVfWf5D"
       },
@@ -1151,30 +1175,6 @@
       "duration_ms": 206612,
       "name": "Dias de Luta",
       "url": "https://open.spotify.com/track/46nKQd1hydiLqHRJ6eb6qS"
-    },
-    {
-      "added_at": "2026-06-12 03:01:42",
-      "album": {
-        "name": "Purificado",
-        "url": "https://open.spotify.com/album/1FUN8psp7l2kciJvxccBiV"
-      },
-      "artists": [
-        {
-          "name": "Duardin",
-          "url": "https://open.spotify.com/artist/47MHCD4zIJB5McYx01HD95"
-        },
-        {
-          "name": "TRDD Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 145125,
-      "name": "Purificado",
-      "url": "https://open.spotify.com/track/0Mh41QHiql9sTldoX8a4S5"
     },
     {
       "added_at": "2026-06-12 03:01:42",
@@ -1231,8 +1231,8 @@
     {
       "added_at": "2026-06-12 03:01:42",
       "album": {
-        "name": "Irris\u00f3rio",
-        "url": "https://open.spotify.com/album/0JlfzFcZY4Zia7Q8Pl1dHO"
+        "name": "O Apocalipse \u00c9 Real",
+        "url": "https://open.spotify.com/album/0L1ThEUkm2eBunpHdSNTmq"
       },
       "artists": [
         {
@@ -1240,33 +1240,9 @@
           "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
         }
       ],
-      "duration_ms": 146750,
-      "name": "Irris\u00f3rio",
-      "url": "https://open.spotify.com/track/1hCCO4RPynQYID6E5G37ix"
-    },
-    {
-      "added_at": "2026-06-12 03:01:42",
-      "album": {
-        "name": "Gratid\u00e3o",
-        "url": "https://open.spotify.com/album/3tKHxULEO1rG2tzXlvGB0U"
-      },
-      "artists": [
-        {
-          "name": "Felipin",
-          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
-        },
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        },
-        {
-          "name": "TRDD Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        }
-      ],
-      "duration_ms": 138475,
-      "name": "Gratid\u00e3o",
-      "url": "https://open.spotify.com/track/6hP6Hoivjj4EruHu06PRmT"
+      "duration_ms": 155084,
+      "name": "O Apocalipse \u00c9 Real",
+      "url": "https://open.spotify.com/track/4XNDo3q3PjOoTjQkJ3PK1Z"
     },
     {
       "added_at": "2026-06-12 03:01:42",
@@ -1291,6 +1267,30 @@
       "duration_ms": 204210,
       "name": "Lesgo",
       "url": "https://open.spotify.com/track/6Ig0Tox0Jcomij14pZkkg1"
+    },
+    {
+      "added_at": "2026-06-12 03:01:42",
+      "album": {
+        "name": "Gratid\u00e3o",
+        "url": "https://open.spotify.com/album/3tKHxULEO1rG2tzXlvGB0U"
+      },
+      "artists": [
+        {
+          "name": "Felipin",
+          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
+        },
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        },
+        {
+          "name": "TRDD Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "duration_ms": 138475,
+      "name": "Gratid\u00e3o",
+      "url": "https://open.spotify.com/track/6hP6Hoivjj4EruHu06PRmT"
     },
     {
       "added_at": "2026-06-12 03:01:42",
@@ -1331,8 +1331,8 @@
     {
       "added_at": "2026-06-12 03:01:42",
       "album": {
-        "name": "O Apocalipse \u00c9 Real",
-        "url": "https://open.spotify.com/album/0L1ThEUkm2eBunpHdSNTmq"
+        "name": "Irris\u00f3rio",
+        "url": "https://open.spotify.com/album/0JlfzFcZY4Zia7Q8Pl1dHO"
       },
       "artists": [
         {
@@ -1340,29 +1340,9 @@
           "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
         }
       ],
-      "duration_ms": 155084,
-      "name": "O Apocalipse \u00c9 Real",
-      "url": "https://open.spotify.com/track/4XNDo3q3PjOoTjQkJ3PK1Z"
-    },
-    {
-      "added_at": "2026-06-12 03:01:42",
-      "album": {
-        "name": "Vejo Tudo",
-        "url": "https://open.spotify.com/album/21VWKSNfRqSlMZmWyIhRHp"
-      },
-      "artists": [
-        {
-          "name": "GBZIN",
-          "url": "https://open.spotify.com/artist/3luAYGXaZLEAJdsI9yHcfs"
-        },
-        {
-          "name": "Urban Music",
-          "url": "https://open.spotify.com/artist/1rlhLZKrDNMRbPUMbbgAgY"
-        }
-      ],
-      "duration_ms": 179196,
-      "name": "Vejo Tudo",
-      "url": "https://open.spotify.com/track/7cU0rhF9bMiiaWrLXyFIzK"
+      "duration_ms": 146750,
+      "name": "Irris\u00f3rio",
+      "url": "https://open.spotify.com/track/1hCCO4RPynQYID6E5G37ix"
     },
     {
       "added_at": "2026-06-12 03:01:42",
@@ -1383,6 +1363,26 @@
       "duration_ms": 131785,
       "name": "Profeta",
       "url": "https://open.spotify.com/track/5nYKIgbNukm47srcFcbceE"
+    },
+    {
+      "added_at": "2026-06-12 03:01:42",
+      "album": {
+        "name": "Vejo Tudo",
+        "url": "https://open.spotify.com/album/21VWKSNfRqSlMZmWyIhRHp"
+      },
+      "artists": [
+        {
+          "name": "GBZIN",
+          "url": "https://open.spotify.com/artist/3luAYGXaZLEAJdsI9yHcfs"
+        },
+        {
+          "name": "Urban Music",
+          "url": "https://open.spotify.com/artist/1rlhLZKrDNMRbPUMbbgAgY"
+        }
+      ],
+      "duration_ms": 179196,
+      "name": "Vejo Tudo",
+      "url": "https://open.spotify.com/track/7cU0rhF9bMiiaWrLXyFIzK"
     },
     {
       "added_at": "2026-06-12 03:01:42",

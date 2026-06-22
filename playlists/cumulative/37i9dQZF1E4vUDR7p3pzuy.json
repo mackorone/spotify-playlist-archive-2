@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Evil Level Live, JUST LIZZY, SCHANZ and more",
+  "description": "With Evil Level Live, Mercury Teardrop, JUST LIZZY and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -1549,6 +1549,24 @@
     },
     {
       "album": {
+        "name": "Black Petals Fallen",
+        "url": "https://open.spotify.com/album/0VpfOtuydZRkjByE18bVsW"
+      },
+      "artists": [
+        {
+          "name": "Voltaire's Ghost",
+          "url": "https://open.spotify.com/artist/4qh2ndBmksowS2QsZW8Iw3"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238950,
+      "name": "Black Petals Fallen",
+      "url": "https://open.spotify.com/track/2aknFS199XzsgMdXhf11Fr"
+    },
+    {
+      "album": {
         "name": "blackmarketplaylists intro",
         "url": "https://open.spotify.com/album/6xBNDEvDy7oatA2bUL6z05"
       },
@@ -1582,7 +1600,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 227364,
       "name": "Blackout",
       "url": "https://open.spotify.com/track/42cb08aGHuGCCUgVuylKIh"
@@ -2796,7 +2814,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 221679,
       "name": "contact",
       "url": "https://open.spotify.com/track/4huCxiN2GsEG6mY6yb73ih"
@@ -3738,7 +3756,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 257806,
       "name": "Devine",
       "url": "https://open.spotify.com/track/1dyeriqJfJaBo8exe4rIrf"
@@ -3782,6 +3800,24 @@
       "duration_ms": 419951,
       "name": "Die With Me - Bonus Track",
       "url": "https://open.spotify.com/track/2e2oV8Hlbn5HB2qSkEFRBE"
+    },
+    {
+      "album": {
+        "name": "The Shape Of Things",
+        "url": "https://open.spotify.com/album/5PkvBxnqiDOpekVPbDnfNr"
+      },
+      "artists": [
+        {
+          "name": "Bugeye",
+          "url": "https://open.spotify.com/artist/5coA87VxMQH8xZRRbhc03m"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236680,
+      "name": "Dirty Feds and Robbers",
+      "url": "https://open.spotify.com/track/0KtmB9qkfLp2qjKolDC0r0"
     },
     {
       "album": {
@@ -5272,7 +5308,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-15",
+      "date_removed": null,
       "duration_ms": 216032,
       "name": "Friday Escape",
       "url": "https://open.spotify.com/track/5OBnjLijavtXpnzEQKbYxL"
@@ -5946,6 +5982,28 @@
       "duration_ms": 390765,
       "name": "HEADRUSH",
       "url": "https://open.spotify.com/track/5LWbpBBZBZCF2EYzhc7FzO"
+    },
+    {
+      "album": {
+        "name": "Polymorphic",
+        "url": "https://open.spotify.com/album/1PnbbKTXvuQozdb5bGgKil"
+      },
+      "artists": [
+        {
+          "name": "Most Epic Dream",
+          "url": "https://open.spotify.com/artist/1VAUA0mKlUlO1JW1Wu1rQE"
+        },
+        {
+          "name": "Louisa",
+          "url": "https://open.spotify.com/artist/1woF2fKJM2HO8wLKZnZIqe"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "Heart Torn In Two",
+      "url": "https://open.spotify.com/track/0yNJRrUA3A4KbAIkCqnUT4"
     },
     {
       "album": {
@@ -7140,7 +7198,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 249659,
       "name": "Intuition",
       "url": "https://open.spotify.com/track/3qTfg3vNahLdMNx0h2Kaqe"
@@ -7270,7 +7328,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 359916,
       "name": "It's Gettin' Dark",
       "url": "https://open.spotify.com/track/3fm4PINJq7qg8hb0JNcIQS"
@@ -7414,7 +7472,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 234475,
       "name": "Josie Says",
       "url": "https://open.spotify.com/track/0uWnu6GoHw5gJ1Lj2tokgn"
@@ -9804,7 +9862,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 223663,
       "name": "One Chance",
       "url": "https://open.spotify.com/track/7eJiTUS9FthmhEL9qOrisn"
@@ -10790,7 +10848,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 308189,
       "name": "Requiem for My Memories",
       "url": "https://open.spotify.com/track/3yFsLOkdfCpXRzMWH2NLsZ"
@@ -10952,7 +11010,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 241893,
       "name": "Roseblood",
       "url": "https://open.spotify.com/track/0SvqrLZMvV3uSJ4gavipef"
@@ -11396,6 +11454,24 @@
       "duration_ms": 264662,
       "name": "Screens",
       "url": "https://open.spotify.com/track/2Ic49nqCcxn8bKvnA0fcQU"
+    },
+    {
+      "album": {
+        "name": "Everything According To Plan... PART-2",
+        "url": "https://open.spotify.com/album/2cVUL5ebo2D0syGGT7jUfF"
+      },
+      "artists": [
+        {
+          "name": "7 Seconds Later",
+          "url": "https://open.spotify.com/artist/23sO4cYkyuwZmUuQC7o57N"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222214,
+      "name": "Searching Each Life - Lost Souls",
+      "url": "https://open.spotify.com/track/1C2QGErCTRta0cycKMIexi"
     },
     {
       "album": {
@@ -12436,7 +12512,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Space Ibiza",
       "url": "https://open.spotify.com/track/1DVj0a6EQzBfoFuqLTvwA9"
@@ -13006,7 +13082,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 240744,
       "name": "Sweet Nightmare",
       "url": "https://open.spotify.com/track/3FCyLMarwPGkjLi9TWbgcO"
@@ -13166,6 +13242,36 @@
       "duration_ms": 152000,
       "name": "Takin' Out The Trash",
       "url": "https://open.spotify.com/track/4ssET8R9IELNKsXXHkbMil"
+    },
+    {
+      "album": {
+        "name": "Talk Again",
+        "url": "https://open.spotify.com/album/1uYisSqYH6S1ah1frJ7sil"
+      },
+      "artists": [
+        {
+          "name": "NON Studios",
+          "url": "https://open.spotify.com/artist/6thvgqU48W5uGqW57AQE9N"
+        },
+        {
+          "name": "Nuissance",
+          "url": "https://open.spotify.com/artist/6Oqt6uRl1ndkp42WPwBfOp"
+        },
+        {
+          "name": "ZWAZEY",
+          "url": "https://open.spotify.com/artist/1VhJLdWyR89Dj5qLXxXVh8"
+        },
+        {
+          "name": "Rhetorical",
+          "url": "https://open.spotify.com/artist/5nR56w1nJvwqdQjSOctibQ"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67005,
+      "name": "Talk Again",
+      "url": "https://open.spotify.com/track/6rqoeT4dXs39Ui19Vm4KVF"
     },
     {
       "album": {
@@ -14418,7 +14524,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-21",
+      "date_removed": null,
       "duration_ms": 341834,
       "name": "Thy Womb Full of Black Nectar",
       "url": "https://open.spotify.com/track/6Yhuv8w23vsF3m06bGIho0"
@@ -14566,7 +14672,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 209747,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/2ybupbmImjiwkAUFWbc11J"
@@ -14876,7 +14982,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "Turning Tables",
       "url": "https://open.spotify.com/track/1jn8wmfdemJ27wOwEFkvby"
@@ -15906,7 +16012,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-21",
+      "date_removed": null,
       "duration_ms": 226917,
       "name": "Whisper Park",
       "url": "https://open.spotify.com/track/6cCV0VdbECEBATuTYNXbNC"
@@ -16400,7 +16506,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 314181,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/3V8Nde6e1ziLaNsh5dxrHl"

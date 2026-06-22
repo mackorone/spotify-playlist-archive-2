@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,826 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,833 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,21 +17,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 7 | [Bye Bye](https://open.spotify.com/track/0M8S97mIFkU6azMy1TGkmJ) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Amaríssima](https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN) | 2:58 |
 | 8 | [Amor da Minha Vida](https://open.spotify.com/track/1cbLFYmad56AWDBu6HNIW0) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm) | [Noir](https://open.spotify.com/album/75bTLkQ8DYiTG70s8YU8BE) | 2:58 |
 | 9 | [Pavão](https://open.spotify.com/track/2KctlfjhWHJ3dTAxOGZ2UM) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Duda Raupp](https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp) | [Antes Que A Terra Acabe](https://open.spotify.com/album/1vHp8OwaCaQMhn0fnnu1Hi) | 4:26 |
-| 10 | [Que Confusão, Amor \- Spotify Singles](https://open.spotify.com/track/5ZXuUeesGs5adylptucGn6) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Que Confusão, Amor \- Spotify Singles](https://open.spotify.com/album/0EWMAQNKdQnyvlumh8GOEF) | 2:54 |
-| 11 | [Eternamente](https://open.spotify.com/track/3Ez01JZkWXupNqWLBwhGme) | [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v), [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Slap Sessions: Melly \(Ao Vivo\)](https://open.spotify.com/album/4IOY6NKMG3itD8WIW8rpgn) | 2:46 |
+| 10 | [Eternamente](https://open.spotify.com/track/3Ez01JZkWXupNqWLBwhGme) | [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v), [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Slap Sessions: Melly \(Ao Vivo\)](https://open.spotify.com/album/4IOY6NKMG3itD8WIW8rpgn) | 2:46 |
+| 11 | [Que Confusão, Amor \- Spotify Singles](https://open.spotify.com/track/5ZXuUeesGs5adylptucGn6) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Que Confusão, Amor \- Spotify Singles](https://open.spotify.com/album/0EWMAQNKdQnyvlumh8GOEF) | 2:54 |
 | 12 | [Gaveta/Onironauta](https://open.spotify.com/track/0hP16H5OZMQhBsNn4WBA5P) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Allefez](https://open.spotify.com/artist/7duD30ScTFqtnbx6qfphSY) | [Amaríssima V2 \(Remix\)](https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm) | 3:45 |
 | 13 | [sinais](https://open.spotify.com/track/75YxsDYdCVXE8bYQtGFtJd) | [Nina](https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5), [Machadez](https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2) | [rara e Brasileira](https://open.spotify.com/album/5ABMtrkmhOF0GiZjKaJIcr) | 3:43 |
 | 14 | [Apaixonado](https://open.spotify.com/track/7d6fo0hoWXzL1rcQ8jl2ZR) | [Thiago Jamelão](https://open.spotify.com/artist/7zHj1zkd6BDHQhMwWXLxQj) | [Apaixonado](https://open.spotify.com/album/1e1ElMB1qLhDlKQTcjYCsq) | 4:39 |
-| 15 | [Como Canta Gal](https://open.spotify.com/track/7IC9sOrydlTxfyAF8CM4mr) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Tudo Que Eu Sinto Faz Barulho](https://open.spotify.com/album/2aoEcifZSeLqfyFP9hrjl5) | 2:44 |
-| 16 | [Fiquei assim](https://open.spotify.com/track/4F9xeQ3OJF2DOtdZdcCxnz) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Fiquei assim](https://open.spotify.com/album/6lwP5k0KjFzM2Rk1sIdCfN) | 3:38 |
+| 15 | [Fiquei assim](https://open.spotify.com/track/4F9xeQ3OJF2DOtdZdcCxnz) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Fiquei assim](https://open.spotify.com/album/6lwP5k0KjFzM2Rk1sIdCfN) | 3:38 |
+| 16 | [Como Canta Gal](https://open.spotify.com/track/7IC9sOrydlTxfyAF8CM4mr) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Tudo Que Eu Sinto Faz Barulho](https://open.spotify.com/album/2aoEcifZSeLqfyFP9hrjl5) | 2:44 |
 | 17 | [Compartilhando o céu](https://open.spotify.com/track/79o4A5fUPdeniOCFNIb4Ag) | [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Dissolução](https://open.spotify.com/album/7m90r6b0oCcJlMPMzW9NXB) | 2:59 |
 | 18 | [Cola Comigo](https://open.spotify.com/track/1tByapKE4iJ52uQBc1V183) | [LUTHULY](https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS) | [Cola Comigo](https://open.spotify.com/album/5eucL3nRasXK7SCOnOZjhw) | 3:28 |
 | 19 | [Vai dar Bom \(Ao Vivo\)](https://open.spotify.com/track/4Z21ly8fVtNB282CwwTknZ) | [Reis do Nada](https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3), [NUNES](https://open.spotify.com/artist/4FRO1O8sl4JqvXrJSNGqPr) | [Neverlândia Sessions \(Ao Vivo\)](https://open.spotify.com/album/4HRRpkcYLFCJgGKBSviGkT) | 3:26 |
 | 20 | [Castigo](https://open.spotify.com/track/7zYNzITyQ41bb17sN1lafK) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Castigo](https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO) | 2:25 |
-| 21 | [FORA DA LEI](https://open.spotify.com/track/5icVJ94721IikUq0hEDvnv) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF) | [FORA DA LEI](https://open.spotify.com/album/2cV1oGBot85ZGwuTqOVz2E) | 3:06 |
-| 22 | [Abre Alas](https://open.spotify.com/track/5fIxKygXuceGxfawPWrnni) | [Patricia Marx](https://open.spotify.com/artist/43bh4WLBq3yxN3kIucxnHE), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Abre Alas](https://open.spotify.com/album/5QbIpuG7a3X9d3ItR53zT5) | 5:11 |
-| 23 | [Aprendi a Viver Só](https://open.spotify.com/track/1WbHIZnVa64bB3Tkt0vLxy) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw) | [Novela](https://open.spotify.com/album/2r8MFQSbAP5jB74eCRE6zx) | 3:18 |
-| 24 | [Sexto Sentido](https://open.spotify.com/track/0y2DFBipQ7BSI8c4IESodm) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [Sexto Sentido](https://open.spotify.com/album/0IRC5eVqNmvnJR5V6JdGRK) | 2:31 |
+| 21 | [Abre Alas](https://open.spotify.com/track/5fIxKygXuceGxfawPWrnni) | [Patricia Marx](https://open.spotify.com/artist/43bh4WLBq3yxN3kIucxnHE), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Abre Alas](https://open.spotify.com/album/5QbIpuG7a3X9d3ItR53zT5) | 5:11 |
+| 22 | [FORA DA LEI](https://open.spotify.com/track/5icVJ94721IikUq0hEDvnv) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF) | [FORA DA LEI](https://open.spotify.com/album/2cV1oGBot85ZGwuTqOVz2E) | 3:06 |
+| 23 | [Sexto Sentido](https://open.spotify.com/track/0y2DFBipQ7BSI8c4IESodm) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [Sexto Sentido](https://open.spotify.com/album/0IRC5eVqNmvnJR5V6JdGRK) | 2:31 |
+| 24 | [Aprendi a Viver Só](https://open.spotify.com/track/1WbHIZnVa64bB3Tkt0vLxy) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw) | [Novela](https://open.spotify.com/album/2r8MFQSbAP5jB74eCRE6zx) | 3:18 |
 | 25 | [PASSARINHO](https://open.spotify.com/track/5xnUZDsZHLVzOoSevGTNSl) | [Dora Sanches](https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR) | [PASSARINHO](https://open.spotify.com/album/1GkRQZoM0BzLpn5RkQ5VX8) | 3:21 |
 | 26 | [Desalinho](https://open.spotify.com/track/63gdjaFptxqaqCIwSI3xV9) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [Desalinho](https://open.spotify.com/album/06bc6mkcNAZxT1XxzHjrWR) | 3:25 |
 | 27 | [Fim…](https://open.spotify.com/track/44AB55f9QlY6BLwtjNJ6FS) | [Trivia](https://open.spotify.com/artist/2aedff5jy8iqr4GWGnee1g) | [MOMENTUM](https://open.spotify.com/album/4GhFPTHkOdxEcz8fSEsQsx) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 49 | [Aurora](https://open.spotify.com/track/1IurzB42M5kCAuk0Otp36V) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [Aurora](https://open.spotify.com/album/7lyl9H9Dz6pSqZ7do5UNOL) | 2:31 |
 | 50 | [Música](https://open.spotify.com/track/7HGFGnAuiRMKMAEnxbpFZ8) | [YAZI](https://open.spotify.com/artist/5PREKq9DL9Ka5yKjUVQCVP), [A Timeline](https://open.spotify.com/artist/6nFOozVSnRJPcEg3CxtOed) | [Música](https://open.spotify.com/album/3UGv2sdXNmT92Y3cejde4L) | 3:23 |
 
-Snapshot ID: `AAAAABtsBLlcGDYtEtdPi8+ssCy8VQfn`
+Snapshot ID: `AAAAAG29EG/SZZvl0Wo5dUCrkd3Rwg7y`

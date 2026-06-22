@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Mexican anthems to get the party started! ",
-  "num_followers": 217721,
+  "num_followers": 217782,
   "original_name": "Mexican Party Anthems",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Cumbias Sin Control",
-        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
-      },
-      "artists": [
-        {
-          "name": "Control",
-          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
-        }
-      ],
-      "duration_ms": 172706,
-      "name": "Tao, Tao",
-      "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol. 4",
         "url": "https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 200161,
       "name": "Sigo Chambeando",
       "url": "https://open.spotify.com/track/4PR0r2us3a64lTew6TVlF2"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "Cumbias Sin Control",
+        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
+      },
+      "artists": [
+        {
+          "name": "Control",
+          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
+        }
+      ],
+      "duration_ms": 172706,
+      "name": "Tao, Tao",
+      "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Cumbias Sin Control",
-        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
-      },
-      "artists": [
-        {
-          "name": "Control",
-          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
-        }
-      ],
-      "duration_ms": 215066,
-      "name": "Cumbia Con La Luna",
-      "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "Sergio El Bailador",
         "url": "https://open.spotify.com/album/1sk1X49mukrl5sFPjCtk1y"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 169600,
       "name": "Sergio el Bailador",
       "url": "https://open.spotify.com/track/3M7WBL64QOmuPiPjhySCJW"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "Cumbias Sin Control",
+        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
+      },
+      "artists": [
+        {
+          "name": "Control",
+          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
+        }
+      ],
+      "duration_ms": 215066,
+      "name": "Cumbia Con La Luna",
+      "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Arrempujala Arremangala",
-        "url": "https://open.spotify.com/album/7o3jw1zUej7NicDM4pNbzM"
+        "name": "Llorar",
+        "url": "https://open.spotify.com/album/2BFbazOqKrNnhed71Kfqw0"
       },
       "artists": [
         {
-          "name": "Los Karkik's",
-          "url": "https://open.spotify.com/artist/2kRcNmtZoQUI7F0hoYCnCg"
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
         }
       ],
-      "duration_ms": 193306,
-      "name": "La Jaiba",
-      "url": "https://open.spotify.com/track/0BQ7uJTvZDZxH4k7cwrSQ1"
+      "duration_ms": 223160,
+      "name": "Llorar",
+      "url": "https://open.spotify.com/track/7d00W7wOsi1V9nKxcedEi7"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Llorar",
-        "url": "https://open.spotify.com/album/2BFbazOqKrNnhed71Kfqw0"
+        "name": "Arrempujala Arremangala",
+        "url": "https://open.spotify.com/album/7o3jw1zUej7NicDM4pNbzM"
       },
       "artists": [
         {
-          "name": "Los Socios Del Ritmo",
-          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+          "name": "Los Karkik's",
+          "url": "https://open.spotify.com/artist/2kRcNmtZoQUI7F0hoYCnCg"
         }
       ],
-      "duration_ms": 223160,
-      "name": "Llorar",
-      "url": "https://open.spotify.com/track/7d00W7wOsi1V9nKxcedEi7"
+      "duration_ms": 193306,
+      "name": "La Jaiba",
+      "url": "https://open.spotify.com/track/0BQ7uJTvZDZxH4k7cwrSQ1"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -1375,6 +1375,22 @@
       "duration_ms": 150360,
       "name": "El Botecito",
       "url": "https://open.spotify.com/track/7GVxAP3rK73EvCoAqxk5vJ"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "Borrachera Con Los Honorables (Live)",
+        "url": "https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 188416,
+      "name": "La Boda Del Huitlacoche - Live",
+      "url": "https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -1403,22 +1419,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Se Menea Se Menea",
-        "url": "https://open.spotify.com/album/2E8WzqhyEL9SqioQ5Fgg8D"
-      },
-      "artists": [
-        {
-          "name": "Los Karkik's",
-          "url": "https://open.spotify.com/artist/2kRcNmtZoQUI7F0hoYCnCg"
-        }
-      ],
-      "duration_ms": 151875,
-      "name": "Se Menea",
-      "url": "https://open.spotify.com/track/6uhEqYTqhEkSH6Rlf3ILpj"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "No Se Va (En Vivo)",
         "url": "https://open.spotify.com/album/700G54RNkWryfdCZdfyw7A"
       },
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Borrachera Con Los Honorables (Live)",
-        "url": "https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv"
+        "name": "Se Menea Se Menea",
+        "url": "https://open.spotify.com/album/2E8WzqhyEL9SqioQ5Fgg8D"
       },
       "artists": [
         {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Los Karkik's",
+          "url": "https://open.spotify.com/artist/2kRcNmtZoQUI7F0hoYCnCg"
         }
       ],
-      "duration_ms": 188416,
-      "name": "La Boda Del Huitlacoche - Live",
-      "url": "https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs"
+      "duration_ms": 151875,
+      "name": "Se Menea",
+      "url": "https://open.spotify.com/track/6uhEqYTqhEkSH6Rlf3ILpj"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Arrempujala Arremangala",
-        "url": "https://open.spotify.com/album/7o3jw1zUej7NicDM4pNbzM"
+        "name": "Mi Trokita Cumbia",
+        "url": "https://open.spotify.com/album/7LYXdx1tTJHSdSilZOEhZq"
       },
       "artists": [
         {
-          "name": "Los Karkik's",
-          "url": "https://open.spotify.com/artist/2kRcNmtZoQUI7F0hoYCnCg"
+          "name": "Obzesion",
+          "url": "https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS"
         }
       ],
-      "duration_ms": 197982,
-      "name": "Arrempujala Arremangala",
-      "url": "https://open.spotify.com/track/00xWJo63OSXjWyihycznbe"
+      "duration_ms": 134050,
+      "name": "Mi Trokita Cumbia",
+      "url": "https://open.spotify.com/track/2UHhMxm2klYzrqcKMFvTzn"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -1515,6 +1515,22 @@
       "duration_ms": 145826,
       "name": "En Vida",
       "url": "https://open.spotify.com/track/7LNtyuekYHiZ99UxkrfCQR"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "Arrempujala Arremangala",
+        "url": "https://open.spotify.com/album/7o3jw1zUej7NicDM4pNbzM"
+      },
+      "artists": [
+        {
+          "name": "Los Karkik's",
+          "url": "https://open.spotify.com/artist/2kRcNmtZoQUI7F0hoYCnCg"
+        }
+      ],
+      "duration_ms": 197982,
+      "name": "Arrempujala Arremangala",
+      "url": "https://open.spotify.com/track/00xWJo63OSXjWyihycznbe"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -1567,22 +1583,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Mi Trokita Cumbia",
-        "url": "https://open.spotify.com/album/7LYXdx1tTJHSdSilZOEhZq"
-      },
-      "artists": [
-        {
-          "name": "Obzesion",
-          "url": "https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS"
-        }
-      ],
-      "duration_ms": 134050,
-      "name": "Mi Trokita Cumbia",
-      "url": "https://open.spotify.com/track/2UHhMxm2klYzrqcKMFvTzn"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "Mi Colecci\u00f3n",
         "url": "https://open.spotify.com/album/28iH8QQN9CbafK21M0BebE"
       },
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Ra\u00edces",
-        "url": "https://open.spotify.com/album/3P0x6Hb7bQmv3mAHZ3M4Pl"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 113306,
-      "name": "El Sinaloense",
-      "url": "https://open.spotify.com/track/57qATI59zt97GfYpac1FoS"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/0GrIKHwtfk4TpzwwJh9QPu"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 201084,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/5CYjYxgqGkYVXP70iVasim"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "Ra\u00edces",
+        "url": "https://open.spotify.com/album/3P0x6Hb7bQmv3mAHZ3M4Pl"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 113306,
+      "name": "El Sinaloense",
+      "url": "https://open.spotify.com/track/57qATI59zt97GfYpac1FoS"
     },
     {
       "added_at": "2024-08-30 08:25:49",

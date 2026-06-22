@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: ちゃくら
 
-2,049 songs - 5 day 6 hr 50 min
+2,050 songs - 5 day 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1367,7 +1367,7 @@
 | [ハッピースター](https://open.spotify.com/track/0NuNbA26R8KV5p0biOFqhJ) | [メとメ](https://open.spotify.com/artist/66yrLdRscnShf6ZIKqUltg) | [1st Single](https://open.spotify.com/album/5GB1jFBogsf27sIGcRhb5a) | 1:37 | 2023-02-28 | 2023-03-08 |
 | [ハッピーニューデイ](https://open.spotify.com/track/1KARoUcHOGpjPwm2on3JV5) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [ハッピーニューデイ](https://open.spotify.com/album/2sWvgDH6Yk64jaqlpJ0ZOY) | 3:07 | 2024-04-23 | 2024-07-07 |
 | [ハッピーバースデイ](https://open.spotify.com/track/7apBMKU3NQujC2wNQuX318) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [ハッピーバースデイ](https://open.spotify.com/album/2ol7chgZYv1s8UKCCRa76K) | 3:46 | 2026-03-03 | 2026-03-11 |
-| [ハッピーラッキーチャッピー](https://open.spotify.com/track/5Gb4sEeI5iitQlGaVbEcxX) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [BONE BORN BOMB](https://open.spotify.com/album/0KzrfbyL2GmX4fARXOY7pC) | 3:04 | 2025-06-03 |  |
+| [ハッピーラッキーチャッピー](https://open.spotify.com/track/5Gb4sEeI5iitQlGaVbEcxX) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [BONE BORN BOMB](https://open.spotify.com/album/0KzrfbyL2GmX4fARXOY7pC) | 3:04 | 2025-06-03 | 2026-06-22 |
 | [ハニートラップシンパシー](https://open.spotify.com/track/4rgAYAFKqFlpWlTqPUDI2D) | [Ryoko](https://open.spotify.com/artist/2Kftsi9hk6LiTvWZt0PDDF) | [ハニートラップシンパシー](https://open.spotify.com/album/0oMejJdpgTsU0hnf6LBURd) | 3:59 | 2022-05-31 | 2022-06-02 |
 | [ハニーマスタード](https://open.spotify.com/track/5IDoppEJu5SZSZxocK3UF3) | [Atomic Skipper](https://open.spotify.com/artist/3BraNqS870zA5KxrtuZXAd) | [ハニーマスタード](https://open.spotify.com/album/0W82Ie6aO1JMKhYXkIoHTO) | 3:01 | 2024-06-12 | 2024-07-10 |
 | [ハルのテーマ](https://open.spotify.com/track/2MWF1yLKSBRFfX7py96tko) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [ハルのテーマ](https://open.spotify.com/album/68m6h0QU4b8VEAKHapRUCw) | 4:28 | 2023-04-04 | 2023-04-12 |
@@ -1970,6 +1970,7 @@
 | [言わせない](https://open.spotify.com/track/2pqjnwREQKF3RYgP3gsGAY) | [黒子首](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [dig saw](https://open.spotify.com/album/5TaLQKn5KHpyL0b9V44kWl) | 3:17 | 2023-10-24 | 2023-11-16 |
 | [言わなきゃ](https://open.spotify.com/track/1xJQF9U6ghOqwnqqOoFbjZ) | [PASSEPIED](https://open.spotify.com/artist/115IWAVy4OTxhE0xdDef1c) | [言わなきゃ](https://open.spotify.com/album/6CSjLHuAeVPv3BsrcEG6w5) | 3:57 | 2022-05-31 | 2022-07-24 |
 | [話をしよう](https://open.spotify.com/track/3ptQoeQIULXjrzmWEgCtzZ) | [レイラ](https://open.spotify.com/artist/1q6rCB21jRvn4eofLLuWOf) | [話をしよう](https://open.spotify.com/album/7B3EF0pO3c5XeymDwd2cBD) | 5:04 | 2022-10-18 | 2022-11-02 |
+| [貸しっぱなしデスティニー](https://open.spotify.com/track/71xlmmNpMLE6tlnR8sWHdv) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [貸しっぱなしデスティニー/また帰ってきたケロッ！とマーチ](https://open.spotify.com/album/7khgjyRAoZsoOGC16CUDqJ) | 4:37 | 2026-06-16 |  |
 | [赤いタンバリン](https://open.spotify.com/track/4WGr7OwOGQJPuAHJEcH2sh) | [BiS](https://open.spotify.com/artist/686Q2yJDYA5wjFy1PJXjGX) | [BiS DiVE into ROCKS](https://open.spotify.com/album/4qndLQ0EqS02sFkHPP5CRz) | 3:23 | 2022-06-07 | 2022-07-08 |
 | [赤いワインに涙が・・・](https://open.spotify.com/track/48N4QmxXPEzt3J9nDMaGP0) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [赤いワインに涙が・・・](https://open.spotify.com/album/3bsUrgtonRDuRrwKbdDBtx) | 3:59 | 2025-08-05 | 2026-06-10 |
 | [赤い糸](https://open.spotify.com/track/3IyRJqEMThCTZ5BNuxesYt) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [赤い糸](https://open.spotify.com/album/3CSyfOS8nAynjTrDuNsHyr) | 3:22 | 2023-11-28 | 2023-12-06 |

@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: Langa",
-  "num_followers": 141379,
+  "num_followers": 141386,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -135,6 +135,26 @@
     {
       "added_at": "2026-06-11 07:46:46",
       "album": {
+        "name": "Relax My Eyes",
+        "url": "https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Abel Balder",
+          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
+        }
+      ],
+      "duration_ms": 192150,
+      "name": "Relax My Eyes",
+      "url": "https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH"
+    },
+    {
+      "added_at": "2026-06-11 07:46:46",
+      "album": {
         "name": "Gata Only (Remix)",
         "url": "https://open.spotify.com/album/3j6Hr2FWIsjgTKWbfRx0tu"
       },
@@ -155,26 +175,6 @@
       "duration_ms": 230513,
       "name": "Gata Only (Remix)",
       "url": "https://open.spotify.com/track/0JGTfiC4Z41GEEpMYLbWwO"
-    },
-    {
-      "added_at": "2026-06-11 07:46:46",
-      "album": {
-        "name": "Relax My Eyes",
-        "url": "https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN"
-      },
-      "artists": [
-        {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "Abel Balder",
-          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
-        }
-      ],
-      "duration_ms": 192150,
-      "name": "Relax My Eyes",
-      "url": "https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH"
     },
     {
       "added_at": "2026-06-11 07:46:46",
@@ -439,6 +439,22 @@
     {
       "added_at": "2026-06-11 07:46:46",
       "album": {
+        "name": "Soundgasm",
+        "url": "https://open.spotify.com/album/5dfgyak8CbmvnfGHUlBq1n"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 204755,
+      "name": "Soundgasm",
+      "url": "https://open.spotify.com/track/5c549LWiKCWGvcDsZwMN6v"
+    },
+    {
+      "added_at": "2026-06-11 07:46:46",
+      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/1VUmcEihv7XuiEnWW2b8ap"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 145986,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/1osIOdkR2nn1NUTBne4e6D"
-    },
-    {
-      "added_at": "2026-06-11 07:46:46",
-      "album": {
-        "name": "Soundgasm",
-        "url": "https://open.spotify.com/album/5dfgyak8CbmvnfGHUlBq1n"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 204755,
-      "name": "Soundgasm",
-      "url": "https://open.spotify.com/track/5c549LWiKCWGvcDsZwMN6v"
     },
     {
       "added_at": "2026-06-11 07:46:46",

@@ -1,6 +1,6 @@
 {
   "description": "Tus canciones favoritas de pop te acompa\u00f1an a donde quiera que vayas. ",
-  "num_followers": 240814,
+  "num_followers": 240829,
   "original_name": "Mamivan",
   "owner": {
     "name": "Spotify",
@@ -734,6 +734,10 @@
         {
           "name": "De La Ghetto",
           "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Yamir Enrique Chartuni Castro",
+          "url": "https://open.spotify.com/artist/2wmsY7VpYnOcoqnWFvxv8r"
         }
       ],
       "duration_ms": 322347,

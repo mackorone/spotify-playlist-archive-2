@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAADsCWzNd+gMvrE5EKtbr80a",
+  "snapshot_id": "ajXYAAAAAABA+18Q+t5V4Y5XVHqrywcV",
   "tracks": [
     {
       "added_at": null,
@@ -867,26 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Cour des Miracles",
-        "url": "https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql"
-      },
-      "artists": [
-        {
-          "name": "S.Pri Noir",
-          "url": "https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs"
-        },
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 196600,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/6T7NNeIXazB8t2fJVh8scc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Le gang des antillais",
         "url": "https://open.spotify.com/album/0dJ756gBNpM20RpDrmyPwF"
       },
@@ -907,22 +887,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drapeau blanc",
-        "url": "https://open.spotify.com/album/52QCCbwG9jpWUlFw13s3wW"
+        "name": "La Cour des Miracles",
+        "url": "https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql"
       },
       "artists": [
         {
-          "name": "Lord Esperanza",
-          "url": "https://open.spotify.com/artist/7CPznx8a1emLVLeCHGuJeN"
+          "name": "S.Pri Noir",
+          "url": "https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs"
         },
         {
           "name": "Yseult",
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 184920,
-      "name": "Laisse aller (feat. Yseult)",
-      "url": "https://open.spotify.com/track/1Knp7R9jX9ZyVmcHWitTD8"
+      "duration_ms": 196600,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/6T7NNeIXazB8t2fJVh8scc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Station",
+        "url": "https://open.spotify.com/album/1fOg8C9IgkSOjJgLq7SGn9"
+      },
+      "artists": [
+        {
+          "name": "Ria Sean",
+          "url": "https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od"
+        },
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/4S3Iw9rAoufrcTTJESkKmt"
     }
   ],
   "unique_name": "This Is Yseult",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Jon Drake, Bad Scullianz, Crimson Disc and more",
+  "description": "With Jon Drake, Autoimmune, Pinned Comment and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -1347,6 +1347,24 @@
     },
     {
       "album": {
+        "name": "Carry The Light",
+        "url": "https://open.spotify.com/album/5RRHyt3YETFIydjiXXjKL4"
+      },
+      "artists": [
+        {
+          "name": "Black Cart",
+          "url": "https://open.spotify.com/artist/5fXStMLN8YVqcGX1vo7bjl"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216756,
+      "name": "Carry The Light",
+      "url": "https://open.spotify.com/track/01QlANmhnuBGjN4ZzACMhR"
+    },
+    {
+      "album": {
         "name": "Black Smoke",
         "url": "https://open.spotify.com/album/3XnOuYd6ePzO6Np9r4XLpZ"
       },
@@ -1434,6 +1452,24 @@
       "duration_ms": 234590,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/08buGoheqrNstHvUJGprEN"
+    },
+    {
+      "album": {
+        "name": "Chimerie",
+        "url": "https://open.spotify.com/album/5IDDJSNqMWrZdrEnWsGg8Z"
+      },
+      "artists": [
+        {
+          "name": "Diligente",
+          "url": "https://open.spotify.com/artist/20aBNHvUGs6yHCR7UhIYoL"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190243,
+      "name": "Chimerie",
+      "url": "https://open.spotify.com/track/7gb0PI5cuRkdKUnoWNvi7q"
     },
     {
       "album": {
@@ -1628,7 +1664,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 271493,
       "name": "Colours",
       "url": "https://open.spotify.com/track/7naIMovL3V39rc5g7b8Ysu"
@@ -3005,6 +3041,24 @@
     },
     {
       "album": {
+        "name": "Ljuset",
+        "url": "https://open.spotify.com/album/7bSeVdj1nBW3Cr3IUNMqQ1"
+      },
+      "artists": [
+        {
+          "name": "Ljuset",
+          "url": "https://open.spotify.com/artist/3HK3MgZL468IV8m2TSXvax"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235589,
+      "name": "Elden",
+      "url": "https://open.spotify.com/track/5VcS5mmrBi7LJCTvN6N3oc"
+    },
+    {
+      "album": {
         "name": "Absurdia",
         "url": "https://open.spotify.com/album/7zY94cgdO7jWUkiBfdaYPg"
       },
@@ -4234,7 +4288,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 149538,
       "name": "Gin N Tonic",
       "url": "https://open.spotify.com/track/4lRrtbKHGIYXWGtP0i7F9K"
@@ -4614,7 +4668,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 217106,
       "name": "Heimamenn",
       "url": "https://open.spotify.com/track/5AKTnYiOl7Qqs4UVCxRBo3"
@@ -5804,7 +5858,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-17",
+      "date_removed": null,
       "duration_ms": 214001,
       "name": "Klokkene ringer for kvelden",
       "url": "https://open.spotify.com/track/3nO9J7Dfm4GTQkcQtYRVO0"
@@ -6100,7 +6154,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 275670,
       "name": "Let the Rain Fall",
       "url": "https://open.spotify.com/track/6XLUesMlr0D29UU7OjGfHQ"
@@ -7920,7 +7974,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 219752,
       "name": "Not Immortal",
       "url": "https://open.spotify.com/track/5fK9crvnMpEOU7aLe4X8wW"
@@ -8616,7 +8670,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 210117,
       "name": "Pay The Price",
       "url": "https://open.spotify.com/track/5pBvfqml5qtDwgd8AeiYwH"
@@ -8782,7 +8836,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 249818,
       "name": "Picture Of Time",
       "url": "https://open.spotify.com/track/2kH79NnF6USM1qGX2NE0xk"
@@ -9872,7 +9926,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 242946,
       "name": "Skuggorna p\u00e5 v\u00e4gen hem",
       "url": "https://open.spotify.com/track/3W5sENHWeCZzchAAzaqVNG"
@@ -9980,7 +10034,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-17",
+      "date_removed": null,
       "duration_ms": 251281,
       "name": "Sn\u00f8r i Helvete",
       "url": "https://open.spotify.com/track/38ehb2DHLwwVAPr0rD0IjR"
@@ -10849,6 +10903,24 @@
     },
     {
       "album": {
+        "name": "Televised (Radio Edit)",
+        "url": "https://open.spotify.com/album/1oepOHvzat2qXhKvOD4Tbe"
+      },
+      "artists": [
+        {
+          "name": "Teenage Bobby Awe",
+          "url": "https://open.spotify.com/artist/38AyJ4fS16RRXUr7SJBJpK"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169456,
+      "name": "Televised - Radio Edit",
+      "url": "https://open.spotify.com/track/1oRgzB0NVhJ3Yc27Zxj2Ix"
+    },
+    {
+      "album": {
         "name": "Tension",
         "url": "https://open.spotify.com/album/0xzZQi0IDJXgCMcfp62ySV"
       },
@@ -10954,7 +11026,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 258722,
       "name": "The Burial",
       "url": "https://open.spotify.com/track/1uIfT1ZQqtXVOImBRYOtL0"
@@ -13742,7 +13814,7 @@
       ],
       "date_added": "2026-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-21",
+      "date_removed": null,
       "duration_ms": 217667,
       "name": "Zwischen Dreck Und Licht",
       "url": "https://open.spotify.com/track/4B55PaipFFMirV00ewuTmE"

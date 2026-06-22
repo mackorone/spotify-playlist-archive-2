@@ -1,6 +1,6 @@
 {
   "description": "drinks em casa, nada melhor",
-  "num_followers": 123664,
+  "num_followers": 123668,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,22 @@
     {
       "added_at": "2026-06-17 15:55:38",
       "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 255278,
+      "name": "Cry Your Heart Out",
+      "url": "https://open.spotify.com/track/09u787BYeYIGd2mFIJ505t"
+    },
+    {
+      "added_at": "2026-06-17 15:55:38",
+      "album": {
         "name": "Ruin",
         "url": "https://open.spotify.com/album/2XjN9yRFbKUZOmcudyoTpg"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 199200,
       "name": "Ruin",
       "url": "https://open.spotify.com/track/13b9uA4xt7VRbBRGM8cT9q"
-    },
-    {
-      "added_at": "2026-06-17 15:55:38",
-      "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 255278,
-      "name": "Cry Your Heart Out",
-      "url": "https://open.spotify.com/track/09u787BYeYIGd2mFIJ505t"
     },
     {
       "added_at": "2026-06-17 15:55:38",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-06-17 15:55:38",
       "album": {
-        "name": "BITCH",
-        "url": "https://open.spotify.com/album/6QIxClpRlI72nsM3TwfGUR"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 162379,
-      "name": "BITCH",
-      "url": "https://open.spotify.com/track/53OEjS6e0dH9PGgrkr0sH4"
-    },
-    {
-      "added_at": "2026-06-17 15:55:38",
-      "album": {
         "name": "33 000 FT.",
         "url": "https://open.spotify.com/album/1DP1CM6GndWiLkYKMudhek"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 170868,
       "name": "Love Song (feat. Glasses)",
       "url": "https://open.spotify.com/track/0fD6vPYWty2Jy4VVozWzfp"
+    },
+    {
+      "added_at": "2026-06-17 15:55:38",
+      "album": {
+        "name": "BITCH",
+        "url": "https://open.spotify.com/album/6QIxClpRlI72nsM3TwfGUR"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 162379,
+      "name": "BITCH",
+      "url": "https://open.spotify.com/track/53OEjS6e0dH9PGgrkr0sH4"
     },
     {
       "added_at": "2026-06-17 15:55:38",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-06-17 15:55:38",
       "album": {
-        "name": "Chase Your Tail",
-        "url": "https://open.spotify.com/album/2VBxycc0YtWBprEsQxOmby"
-      },
-      "artists": [
-        {
-          "name": "BOY SODA",
-          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
-        }
-      ],
-      "duration_ms": 193915,
-      "name": "Chase Your Tail",
-      "url": "https://open.spotify.com/track/21QZn1gYqOE7HG3s6LHaxF"
-    },
-    {
-      "added_at": "2026-06-17 15:55:38",
-      "album": {
         "name": "Sweet Time",
         "url": "https://open.spotify.com/album/2L0mTw6WLlSkjxrZJXna5h"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 251433,
       "name": "Sweet Time",
       "url": "https://open.spotify.com/track/3wv9jIR1DAGxTRMm1kH6GL"
+    },
+    {
+      "added_at": "2026-06-17 15:55:38",
+      "album": {
+        "name": "Chase Your Tail",
+        "url": "https://open.spotify.com/album/2VBxycc0YtWBprEsQxOmby"
+      },
+      "artists": [
+        {
+          "name": "BOY SODA",
+          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
+        }
+      ],
+      "duration_ms": 193915,
+      "name": "Chase Your Tail",
+      "url": "https://open.spotify.com/track/21QZn1gYqOE7HG3s6LHaxF"
     },
     {
       "added_at": "2026-06-17 15:55:38",

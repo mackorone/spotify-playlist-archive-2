@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: Guitarricadelafuente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,295 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,294 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 43 | [Satisfacer Tu Deseo De Hombre](https://open.spotify.com/track/7AHniJFdQFqD7iePGU4B04) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [Satisfacer Tu Deseo De Hombre](https://open.spotify.com/album/3n1kR89j7noY6ipBbRTGfW) | 2:36 |
 | 44 | [Se te está olvidando](https://open.spotify.com/track/4NEBRtcCzUGsLaCCPH3zf3) | [SAZZA](https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe) | [Se te está olvidando](https://open.spotify.com/album/5J0wgA4qqbWqdS3Id84GPD) | 2:47 |
 | 45 | [Hoy ya no](https://open.spotify.com/track/0rtC4k3M8DkZdiNeoO37bz) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [Hoy ya no](https://open.spotify.com/album/0nP5xUA3mhn8T56eB6ZpfA) | 2:40 |
-| 46 | [corazón distante](https://open.spotify.com/track/1Db7H5M0JHVrSjeA8uufwS) | [Tatiana Delalvz](https://open.spotify.com/artist/4rFr57FRQgkd7FSwvQxBNP) | [corazón distante](https://open.spotify.com/album/0399cbykPgf4TRwqeu3x0J) | 2:18 |
-| 47 | [Algo me falta](https://open.spotify.com/track/1B6zVmn6jdStD6ZFRhn4rU) | [Lucia De la Puerta](https://open.spotify.com/artist/0LELId4nuwKoBlDUkRsuFa) | [Algo me falta](https://open.spotify.com/album/1suJSeK6upGYxxD1iMqIEE) | 3:01 |
+| 46 | [Algo me falta](https://open.spotify.com/track/1B6zVmn6jdStD6ZFRhn4rU) | [Lucia De la Puerta](https://open.spotify.com/artist/0LELId4nuwKoBlDUkRsuFa) | [Algo me falta](https://open.spotify.com/album/1suJSeK6upGYxxD1iMqIEE) | 3:01 |
+| 47 | [corazón distante](https://open.spotify.com/track/1Db7H5M0JHVrSjeA8uufwS) | [Tatiana Delalvz](https://open.spotify.com/artist/4rFr57FRQgkd7FSwvQxBNP) | [corazón distante](https://open.spotify.com/album/0399cbykPgf4TRwqeu3x0J) | 2:18 |
 | 48 | [Bandolero](https://open.spotify.com/track/03zEcizMmmeaZ6jCZ077ap) | [David Rees](https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L) | [Bandolero](https://open.spotify.com/album/5c6b7AbvBmCTZwmuwjWiQE) | 2:37 |
 | 49 | [TKM CNT XFA](https://open.spotify.com/track/3kHxYzvottpn4pmV5GBADA) | [Ladilla Rusa](https://open.spotify.com/artist/1JwhzFROpPDbDbstMTY7cF) | [TKM CNT XFA](https://open.spotify.com/album/7E3vNnKm7alB2ayeYuaO3Q) | 3:32 |
 | 50 | [Omaigach](https://open.spotify.com/track/0CUf3C7SNW7y4PyWgWFFK6) | [Chico Blanco](https://open.spotify.com/artist/7xLtt3vnhKGANQKpsaIMVa), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [Omaigach](https://open.spotify.com/album/453JEsE7EoOcvyBo4Qia7W) | 3:34 |

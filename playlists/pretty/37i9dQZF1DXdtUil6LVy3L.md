@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 
 > Cozy Christmas jazz tunes for your shopping, wrapping, cooking, studying or relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,959 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,957 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 | 2 | [Feliz navidad](https://open.spotify.com/track/465nAxOI5pErqke80RoQTF) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Feliz navidad](https://open.spotify.com/album/3gmuUZ1smESdC9G30KXUBU) | 2:03 |
 | 3 | [Silent Night](https://open.spotify.com/track/25VBSxpZDaYFif7pYVpUdO) | [Thames Quartet](https://open.spotify.com/artist/1R7RKpGGSeqK8pSBK79w7T) | [Silent Night](https://open.spotify.com/album/103crj7lihLZ9eBeWQxUUT) | 3:31 |
 | 4 | [Christmas Time Is Here](https://open.spotify.com/track/35OqFuNbclT3cFT92fYGTH) | [Dennis Riley\-Jones](https://open.spotify.com/artist/5x35NpbnjiEoY5sntHQLgr) | [Christmas Time Is Here](https://open.spotify.com/album/0XMkRH1T6WidEsdE7VuQ4S) | 2:46 |
-| 5 | [Christmas Time](https://open.spotify.com/track/3Cs5m2rS0UnYx4UWppPLP8) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Christmas Time](https://open.spotify.com/album/4O0xBHOwwopsTrx6Jo3MRt) | 2:02 |
-| 6 | [Here Comes Santa Claus](https://open.spotify.com/track/5J47ZMg53bfHMH1xChF7Go) | [Nordic Light Trio](https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35) | [Here Comes Santa Claus](https://open.spotify.com/album/6ENVnAPjnAitIUGlyS72Jj) | 2:20 |
+| 5 | [Here Comes Santa Claus](https://open.spotify.com/track/5J47ZMg53bfHMH1xChF7Go) | [Nordic Light Trio](https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35) | [Here Comes Santa Claus](https://open.spotify.com/album/6ENVnAPjnAitIUGlyS72Jj) | 2:20 |
+| 6 | [Christmas Time](https://open.spotify.com/track/3Cs5m2rS0UnYx4UWppPLP8) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Christmas Time](https://open.spotify.com/album/4O0xBHOwwopsTrx6Jo3MRt) | 2:02 |
 | 7 | [O Come, All Ye Faithful](https://open.spotify.com/track/4dCXTJhIjUlSMPwIFGeZlt) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [O Come, All Ye Faithful](https://open.spotify.com/album/1UsbNMO5iRcpE0ByR3iZfA) | 2:57 |
 | 8 | [Christmas Serenade](https://open.spotify.com/track/4Jd9637OEC5AtH3JEXqS16) | [Eternal Time Trio](https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988) | [Christmas Serenade](https://open.spotify.com/album/5HNnuo7hod2fRuiqpL7M3b) | 3:09 |
 | 9 | [Somewhere In My Memory](https://open.spotify.com/track/2okeg8ZIf25wcY5QGCjZAz) | [Ron Bladworth](https://open.spotify.com/artist/0BqBNOQfrBTClJMq6n03Mf) | [Somewhere In My Memory](https://open.spotify.com/album/3xVrlYjcB3OKVvfdvzMbCX) | 3:22 |
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 | 14 | [Please come home for christmas](https://open.spotify.com/track/4CjsInvWGmHOxxVQ2sS9F4) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [Please come home for christmas](https://open.spotify.com/album/5r2ZzaDZhyqzORtTWnbYPM) | 2:33 |
 | 15 | [Lost in the Stars](https://open.spotify.com/track/5Q9vFxDdswixkE6GtM4Se4) | [UWS Jazz Trio](https://open.spotify.com/artist/2hWsHcobGML6Rr9HAdY44K) | [Lost in the Stars](https://open.spotify.com/album/4RrIEi9MX1i5IOq9g6leA7) | 3:25 |
 | 16 | [The First Noel](https://open.spotify.com/track/4pVxflK7JBEAzj4pEY8G8e) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [The First Noel](https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX) | 2:30 |
-| 17 | [Happy Christmas, Little Friend](https://open.spotify.com/track/4k9rdBjThAkWE6dkGRT3a2) | [Smoke & Mirrors Trio](https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV) | [Happy Christmas, Little Friend](https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF) | 2:31 |
-| 18 | [A Christmas Feeling](https://open.spotify.com/track/02pcI6xxVuefKcYNA7prZh) | [Baker St.](https://open.spotify.com/artist/0k4UL5tOqUHXxJpxM4Wyae) | [A Christmas Feeling](https://open.spotify.com/album/65h1sbXFjZCaVuTQMfkZeF) | 3:13 |
+| 17 | [A Christmas Feeling](https://open.spotify.com/track/02pcI6xxVuefKcYNA7prZh) | [Baker St.](https://open.spotify.com/artist/0k4UL5tOqUHXxJpxM4Wyae) | [A Christmas Feeling](https://open.spotify.com/album/65h1sbXFjZCaVuTQMfkZeF) | 3:13 |
+| 18 | [Happy Christmas, Little Friend](https://open.spotify.com/track/4k9rdBjThAkWE6dkGRT3a2) | [Smoke & Mirrors Trio](https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV) | [Happy Christmas, Little Friend](https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF) | 2:31 |
 | 19 | [The Most Wonderful Day of The Year](https://open.spotify.com/track/6rnbHty5DmSiKwpLqOaZqK) | [Luke Marantz Trio](https://open.spotify.com/artist/6skWyJ0S6yQ2bKBQb1klxo) | [Silver Bells](https://open.spotify.com/album/5hTWeCX4XFKNB34Ch6W6oq) | 2:45 |
 | 20 | [I Saw Three Ships](https://open.spotify.com/track/1OfkfkZeJVO0hB26HTP1o2) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [I Saw Three Ships](https://open.spotify.com/album/72Eg5ywjro4gFFqgG8ewqS) | 2:48 |
 | 21 | [Where The Snow Still Falls](https://open.spotify.com/track/4zqKyUuJZeNkYL6hshi8dr) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [Where The Snow Still Falls](https://open.spotify.com/album/7wf4Oag4ekw439k4kSM5Jn) | 3:45 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 | 49 | [A Wishful Night](https://open.spotify.com/track/3jWmXtJ3wsEeT7irjvhSWD) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [A Wishful Night](https://open.spotify.com/album/3YOAvLdHA3542tlY3VwUtA) | 2:27 |
 | 50 | [The Holly and the Ivy](https://open.spotify.com/track/6kp3aicXY4wM8GtKjhT7jk) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [The First Noel](https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX) | 1:30 |
 | 51 | [Dance of the Sugar Plum Fairy](https://open.spotify.com/track/7h4Ayplz18fKgoPUIWfaJd) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Frosty The Snowman](https://open.spotify.com/album/008Ifp6NdPVfUafKcraamu) | 1:54 |
-| 52 | [Ave Maria](https://open.spotify.com/track/4Ed2ZWI33fojtD1FRhVk29) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [That Christmas Feel](https://open.spotify.com/album/1eRIaiBeErayP8Cfve02kJ) | 3:54 |
-| 53 | [Angels from the Realms of Glory](https://open.spotify.com/track/4AHihkbxRhNCsOnJdy8NBC) | [Trois Amis](https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7) | [Angels from the Realms of Glory](https://open.spotify.com/album/614xnvrnOoO8hojPMk5RUC) | 1:45 |
+| 52 | [Angels from the Realms of Glory](https://open.spotify.com/track/4AHihkbxRhNCsOnJdy8NBC) | [Trois Amis](https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7) | [Angels from the Realms of Glory](https://open.spotify.com/album/614xnvrnOoO8hojPMk5RUC) | 1:45 |
+| 53 | [Ave Maria](https://open.spotify.com/track/4Ed2ZWI33fojtD1FRhVk29) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [That Christmas Feel](https://open.spotify.com/album/1eRIaiBeErayP8Cfve02kJ) | 3:54 |
 | 54 | [Go Tell It On The Mountain](https://open.spotify.com/track/2IHJbBiT7v4oR4WXt63yVZ) | [Eltingvilles](https://open.spotify.com/artist/7qYYtUCPSVXspwRs4wiQ9R) | [Go Tell It On The Mountain](https://open.spotify.com/album/7IbDqi94MtPmiq4eLlZf6i) | 2:30 |
 | 55 | [Oh what a merry christmas day](https://open.spotify.com/track/4lIPBRlA44zsLXpGzg3mS1) | [Red Brick Lane](https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ) | [Oh what a merry christmas day](https://open.spotify.com/album/68NZ8wGUvONWBNzaYoosN3) | 1:36 |
 | 56 | [Up on the Housetop](https://open.spotify.com/track/2vGxnEVP4CQXSij7f2Bil9) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Christmas Time](https://open.spotify.com/album/4O0xBHOwwopsTrx6Jo3MRt) | 1:13 |

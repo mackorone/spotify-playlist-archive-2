@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dAid2.md) - [plain]
 
 > This is Chuck Berry\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,234 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,238 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dAid2.md) - [plain]
 | 26 | [Too Much Monkey Business](https://open.spotify.com/track/0aS1p8fwu06q47zUdShfAv) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [After School Session](https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH) | 2:54 |
 | 27 | [Back In The U.S.A.](https://open.spotify.com/track/114gCJP9NGrrs5gjPU8RTi) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck Berry Twist](https://open.spotify.com/album/2ZuKCxGEZsBByk0js4zfbx) | 2:26 |
 | 28 | [Tulane](https://open.spotify.com/track/5L5RO8srDgDnWcAAy2v5Br) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Back Home](https://open.spotify.com/album/2JMArOghmqNZFFuWDvkSwY) | 2:38 |
-| 29 | [Shake, Rattle And Roll](https://open.spotify.com/track/1JbHO0Kx2VsukFk0tEZVJt) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck Berry](https://open.spotify.com/album/22lITYheqEYw53CHJiQMgW) | 2:17 |
+| 29 | [Louis To Frisco](https://open.spotify.com/track/6H7OQEC6V2X0mB0ss3yrI8) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [From St\. Louie To Frisco](https://open.spotify.com/album/4qce3g6j5IGks63lY23eTD) | 2:20 |
 | 30 | [Brown Eyed Handsome Man](https://open.spotify.com/track/2KIz4ileT7mvzFhAR8U5gS) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [After School Session](https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH) | 2:17 |
-| 31 | [Louis To Frisco](https://open.spotify.com/track/6H7OQEC6V2X0mB0ss3yrI8) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [From St\. Louie To Frisco](https://open.spotify.com/album/4qce3g6j5IGks63lY23eTD) | 2:20 |
+| 31 | [Shake, Rattle And Roll](https://open.spotify.com/track/1JbHO0Kx2VsukFk0tEZVJt) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck Berry](https://open.spotify.com/album/22lITYheqEYw53CHJiQMgW) | 2:17 |
 | 32 | [Ain't That Just Like A Woman](https://open.spotify.com/track/6GjrZapKbtUORrjS2fXMmX) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Fresh Berry's](https://open.spotify.com/album/02JS9znmNXHp24jyQaimL6) | 2:12 |
 | 33 | [My Ding\-A\-Ling](https://open.spotify.com/track/2L8mIvM1OwkJyGb3WwDFT3) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Have Mercy \- His Complete Chess Recordings 1969 \- 1974](https://open.spotify.com/album/27q84AdiSVhTtrGOwwoMIW) | 3:43 |
 | 34 | [No Money Down](https://open.spotify.com/track/6RpRXXv69SeNcRqScvyd0F) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [After School Session](https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH) | 2:57 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dAid2.md) - [plain]
 | 42 | [Wee Wee Hours](https://open.spotify.com/track/2Fv6Dka7LJKU6U5X1cMTzC) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Hail! Hail! Rock 'N' Roll](https://open.spotify.com/album/3vbjfGvgC1nMGmpBPdDuOV) | 5:14 |
 | 43 | [Viva Viva Rock 'N' Roll](https://open.spotify.com/track/32KddGW46wnlpKbl62gqca) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [San Francisco Dues](https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR) | 2:02 |
 | 44 | [I Got To Find My Baby \- Single Version](https://open.spotify.com/track/5qojkHvPBrbT0Z7SAgYboD) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rockin' At The Hops](https://open.spotify.com/album/48jzxU4WCz6726keexOGoe) | 2:12 |
-| 45 | [Downbound Train](https://open.spotify.com/track/4q0J9IdCJ7l8YjNNxp4UZL) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [After School Session](https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH) | 2:49 |
-| 46 | [I'm Talking About You](https://open.spotify.com/track/4Qz94VdIvKAmtBIyuoAZW9) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [New Juke Box Hits](https://open.spotify.com/album/66vytUOJAN0XG0AomrREtH) | 1:48 |
+| 45 | [I'm Talking About You](https://open.spotify.com/track/4Qz94VdIvKAmtBIyuoAZW9) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [New Juke Box Hits](https://open.spotify.com/album/66vytUOJAN0XG0AomrREtH) | 1:48 |
+| 46 | [Downbound Train](https://open.spotify.com/track/4q0J9IdCJ7l8YjNNxp4UZL) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [After School Session](https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH) | 2:49 |
 | 47 | [You Two](https://open.spotify.com/track/3TuiKidTSxOK2bk9RPhrpN) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [St\. Louis To Liverpool](https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK) | 2:09 |
 | 48 | [House Of Blue Lights](https://open.spotify.com/track/0iVcJZ8bjL82406m2og7Df) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Blues](https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey) | 2:26 |
 | 49 | [St\. Louis Blues](https://open.spotify.com/track/0tsgFZdGoCVMeaXVmnrWbF) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck Berry In London](https://open.spotify.com/album/7iSQ8Jg0DA18JCl4SqpDEW) | 2:37 |
 | 50 | [Guitar Boogie](https://open.spotify.com/track/5ryMXRfAlmV5nyNueN3B1q) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [One Dozen Berry's](https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ) | 2:19 |
 
-Snapshot ID: `ajSGgAAAAAB6v2mWDNU4hKK/wkSCtB9W`
+Snapshot ID: `ajXYAAAAAACRPXO8WEQK+/rbu+Ye3TsB`

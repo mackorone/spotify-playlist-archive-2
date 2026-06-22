@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 24 | [Rather Be](https://open.spotify.com/track/1EWFaToJdvgN8IWQryocpN) | [Rat City](https://open.spotify.com/artist/6VSMAVF00xwG8Adoqnbqy6), [Isak Heim](https://open.spotify.com/artist/3noOJBzljbPMoifF6wY12v) | [Rather Be](https://open.spotify.com/album/1RVYoS6T7NbIBXPRkJEIdJ) | 3:17 |
 | 25 | [Boy, You Can Keep It](https://open.spotify.com/track/1yMvxlVkxC2KFjstP9Au9V) | [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN) | [Boy, You Can Keep It](https://open.spotify.com/album/5N73cTIVwwDhN2TsC6Umr3) | 2:27 |
 | 26 | [Heart Miles](https://open.spotify.com/track/7IKzUEyAypH22vz6yu0TMN) | [Jai Waetford](https://open.spotify.com/artist/65eKzckWWGA123QUyi2Qo3) | [Heart Miles](https://open.spotify.com/album/1cAUTH46IrJSTrdu0s7fI8) | 3:31 |
-| 27 | [Paper Doll](https://open.spotify.com/track/5QRq7LMDHVdCuIo1uys02H) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Not An Apology](https://open.spotify.com/album/1ukpF3eKewIjkKGpu70sKm) | 3:36 |
-| 28 | [Hush Hush](https://open.spotify.com/track/5B0vy1PSzov33OmFAQb1hZ) | [Alexis Jordan](https://open.spotify.com/artist/5LmYIx9kSWBJOWbP4xAxb1) | [Alexis Jordan](https://open.spotify.com/album/05Zdabhi19HHmjdD40uJBP) | 3:42 |
+| 27 | [Hush Hush](https://open.spotify.com/track/5B0vy1PSzov33OmFAQb1hZ) | [Alexis Jordan](https://open.spotify.com/artist/5LmYIx9kSWBJOWbP4xAxb1) | [Alexis Jordan](https://open.spotify.com/album/05Zdabhi19HHmjdD40uJBP) | 3:42 |
+| 28 | [Paper Doll](https://open.spotify.com/track/5QRq7LMDHVdCuIo1uys02H) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Not An Apology](https://open.spotify.com/album/1ukpF3eKewIjkKGpu70sKm) | 3:36 |
 | 29 | [30 Days](https://open.spotify.com/track/49QuascxmAg436Kx2GNyr4) | [The Saturdays](https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5) | [Living For The Weekend \(Deluxe Edition\)](https://open.spotify.com/album/57QWA73jnfLo1YHwnDZpoZ) | 3:04 |
 | 30 | [Magic](https://open.spotify.com/track/6Bhb59RtPbvA8z6tMiZX5q) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Monster](https://open.spotify.com/album/2XnbqGw1OR5dls6UovbKTx) | 3:10 |
 | 31 | [Collect My Love \(feat\. Alex Newell\)](https://open.spotify.com/track/0vKHq50iizaMQivSaItLf3) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN) | [55](https://open.spotify.com/album/66eHI59X5UEaLrEqrEDKTx) | 3:15 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 101 | [Livewire](https://open.spotify.com/track/46AbOV6ziHvcRa7klwiJwc) | [Cairo Gold](https://open.spotify.com/artist/0MURvFYyuOVvECDJkCCgAV) | [Cairo Gold](https://open.spotify.com/album/3tA1PiUa8QrgjEKVjpHAwe) | 3:12 |
 | 102 | [Have You Seen My Light](https://open.spotify.com/track/0BeaAtd0znjz9AfXAyD1XW) | [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH) | [October 8](https://open.spotify.com/album/6PTt3Rv4JQrQ6NkT1Fgn7z) | 3:07 |
 
-Snapshot ID: `AcUwwgAAAADzPhJgxc6LN/yN7cWTmmLY`
+Snapshot ID: `AcU2YgAAAADSPe2gnUxeOPuNmskcplq3`

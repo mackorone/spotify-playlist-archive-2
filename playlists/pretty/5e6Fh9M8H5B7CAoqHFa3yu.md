@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 338 likes - 2,400 songs - 5 day 21 hr 39 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 338 likes - 2,401 songs - 5 day 21 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2408,5 +2408,6 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2398 | [The Sun Is Coming Up](https://open.spotify.com/track/2vHtaaZyIRkT9sFgRmJ1vq) | [James J](https://open.spotify.com/artist/6zJ4IDzZLFWmNTY3xRMAkt) | [The Sun Is Coming Up](https://open.spotify.com/album/2ZYCwtR1Pqh72iYkHhsoDR) | 3:40 |
 | 2399 | [I See You](https://open.spotify.com/track/4121pSeIc1sxqnH4i3nEvi) | [RamShackle](https://open.spotify.com/artist/0io5dV4KEggh6b7TR1EOPV) | [I See You](https://open.spotify.com/album/3Ba69of6UprDdYXUFqi7Kx) | 3:37 |
 | 2400 | [INOPIA](https://open.spotify.com/track/0U4WS6XPqk2mTekMyf9hEF) | [Los Cansinos](https://open.spotify.com/artist/5ruDyDWrPtFECWQjzuMehx) | [INOPIA](https://open.spotify.com/album/3nbySGkd2EomrxB8T0CYci) | 2:33 |
+| 2401 | [Bara](https://open.spotify.com/track/50hb6zxmJMxrfavhe0fyn7) | [Merah](https://open.spotify.com/artist/0SqG39qV2HtVNgtjKSKGXQ) | [Utara](https://open.spotify.com/album/2Ds4iV3LPSya4zyVBHqhcn) | 3:49 |
 
-Snapshot ID: `AAAKLM0Xoz1kQZd5evGnGwy6xPRDJr3i`
+Snapshot ID: `AAAKLaPmU6hYNjYzE1Ws5nNjUFda3S3G`

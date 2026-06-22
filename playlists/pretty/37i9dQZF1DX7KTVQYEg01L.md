@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KTVQYEg01L.md) - [plain]
 
 > celebre seu dia no maior astral!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,366,028 likes - 70 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,365,874 likes - 70 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KTVQYEg01L.md) - [plain]
 | 69 | [Flames](https://open.spotify.com/track/33IOhptvC2Qoy2UhjiHXLV) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Flames](https://open.spotify.com/album/3B8J3BMp7lMA5YR5bUXHGK) | 3:15 |
 | 70 | [Remind Me to Forget](https://open.spotify.com/track/5sIx4BlfYGuZeSLF40N9GH) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Remind Me to Forget](https://open.spotify.com/album/5Og1PZOwpUkL8slf11stBq) | 3:37 |
 
-Snapshot ID: `AAAAAAfCTUBUokBeeL/R0dThLRm7afAf`
+Snapshot ID: `AAAAANTBixYz4g1XxoMGvnkH/WmnoG0q`

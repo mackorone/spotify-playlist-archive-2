@@ -1,12 +1,12 @@
 {
   "description": "The NEW radio! Huge playlist to brighten long days, from all genres. Shuffle it! New music added daily :) www.avondalerecords.com",
-  "num_followers": 1399,
+  "num_followers": 1404,
   "original_name": "Spotify Radio",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAAQzd2fV6iSmio4Unp67ulHpJyGR2tD",
+  "snapshot_id": "AAAQ1p6+siBnyWQ328AM9Hi2RQGtA360",
   "tracks": [
     {
       "added_at": "2026-05-12 03:36:45",
@@ -787,22 +787,6 @@
       "duration_ms": 157398,
       "name": "Gorebage Truck",
       "url": "https://open.spotify.com/track/1iA9HI2I8hMSIMAvGREa9Z"
-    },
-    {
-      "added_at": "2026-05-22 04:13:31",
-      "album": {
-        "name": "Walking on Water",
-        "url": "https://open.spotify.com/album/4IUfuPoWMRCaLEd80u3h1e"
-      },
-      "artists": [
-        {
-          "name": "Manafest",
-          "url": "https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL"
-        }
-      ],
-      "duration_ms": 186212,
-      "name": "Walking on Water",
-      "url": "https://open.spotify.com/track/5qIJ4leNwrjUD8SznQOi4X"
     },
     {
       "added_at": "2026-04-28 11:28:21",
@@ -3873,6 +3857,38 @@
       "url": "https://open.spotify.com/track/09RCC6rfTZWijrWnHFtcOH"
     },
     {
+      "added_at": "2026-06-21 15:11:20",
+      "album": {
+        "name": "Ringo & Toe Fur's Grace",
+        "url": "https://open.spotify.com/album/4GihuDrvvegzwffjOKg7rw"
+      },
+      "artists": [
+        {
+          "name": "Deceased Me",
+          "url": "https://open.spotify.com/artist/5Ns2AFqPjYey9cpVlJNwHU"
+        }
+      ],
+      "duration_ms": 239639,
+      "name": "Ringo & Toe Fur's Grace",
+      "url": "https://open.spotify.com/track/73qFkl5ZNoDtlyWcY9FLxq"
+    },
+    {
+      "added_at": "2026-06-21 07:05:49",
+      "album": {
+        "name": "hi-ya-no (Live at BCN, Coconut Creek, 2/1/25)",
+        "url": "https://open.spotify.com/album/2YabjXE4iNawMWC9yuZi21"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Tikis",
+          "url": "https://open.spotify.com/artist/3FgOxm7zjtZfsgLhSrCmDR"
+        }
+      ],
+      "duration_ms": 191189,
+      "name": "hi-ya-no - Live at BCN, Coconut Creek, 2/1/25",
+      "url": "https://open.spotify.com/track/17tvU7puNkg6krmnFv6bXk"
+    },
+    {
       "added_at": "2026-06-20 07:25:54",
       "album": {
         "name": "Sunshine Guilt",
@@ -3987,6 +4003,106 @@
       "duration_ms": 287302,
       "name": "Violet",
       "url": "https://open.spotify.com/track/450vQMoOuHJZpOZWaSd2eV"
+    },
+    {
+      "added_at": "2026-06-21 07:06:05",
+      "album": {
+        "name": "I'm Still Alive",
+        "url": "https://open.spotify.com/album/06oAaHEaQN2ygVsVNRmrkt"
+      },
+      "artists": [
+        {
+          "name": "Suljic",
+          "url": "https://open.spotify.com/artist/0srjyPgGy0aqHZH2KovTkq"
+        }
+      ],
+      "duration_ms": 197165,
+      "name": "I'm Still Alive",
+      "url": "https://open.spotify.com/track/5f3KrsnfPYy9QpiWSuWS6X"
+    },
+    {
+      "added_at": "2026-06-21 07:06:34",
+      "album": {
+        "name": "Limerence",
+        "url": "https://open.spotify.com/album/2rUOzBheHIUkRSJQ9rcze5"
+      },
+      "artists": [
+        {
+          "name": "Dropstitch",
+          "url": "https://open.spotify.com/artist/2IWa8sDlNqAtLwQOcpIKEz"
+        }
+      ],
+      "duration_ms": 253770,
+      "name": "Limerence",
+      "url": "https://open.spotify.com/track/7lz2EAlq84sw65h9Oblmo4"
+    },
+    {
+      "added_at": "2026-06-21 07:07:55",
+      "album": {
+        "name": "Fool",
+        "url": "https://open.spotify.com/album/5hDciASWujDpae79cVQdGI"
+      },
+      "artists": [
+        {
+          "name": "Former Jerks",
+          "url": "https://open.spotify.com/artist/67UsGwiimJ22ZU0zKYtRGY"
+        },
+        {
+          "name": "Thee Wrecking Crew",
+          "url": "https://open.spotify.com/artist/0RltW94tVg6OztzLsGu51w"
+        }
+      ],
+      "duration_ms": 256176,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/2onjHMPrCt11XvjKKJMFB6"
+    },
+    {
+      "added_at": "2026-06-21 07:17:05",
+      "album": {
+        "name": "The Best of Me",
+        "url": "https://open.spotify.com/album/1Q8TLja8NDsJb5uKZb6GkD"
+      },
+      "artists": [
+        {
+          "name": "Carve A Path",
+          "url": "https://open.spotify.com/artist/0u2Z1IEHUa7W6Elk5raydq"
+        }
+      ],
+      "duration_ms": 154190,
+      "name": "The Best of Me",
+      "url": "https://open.spotify.com/track/3n7ZVxio1kVh19S8F8nqxZ"
+    },
+    {
+      "added_at": "2026-06-21 07:17:43",
+      "album": {
+        "name": "A Better Man",
+        "url": "https://open.spotify.com/album/0OW5hSGssox0zIaOplHnR4"
+      },
+      "artists": [
+        {
+          "name": "Crafty McVillain",
+          "url": "https://open.spotify.com/artist/47wtKyzMEByReL7R3RJ4eP"
+        }
+      ],
+      "duration_ms": 226045,
+      "name": "A Better Man",
+      "url": "https://open.spotify.com/track/384a4Jss416SHevQuLdBOJ"
+    },
+    {
+      "added_at": "2026-06-22 02:56:16",
+      "album": {
+        "name": "GOG",
+        "url": "https://open.spotify.com/album/15VHKpoEHrAGzjYfvYGbXU"
+      },
+      "artists": [
+        {
+          "name": "Anorexia Isan",
+          "url": "https://open.spotify.com/artist/6UkNwT2LWo8pSWaBuI1eKa"
+        }
+      ],
+      "duration_ms": 237763,
+      "name": "Salem",
+      "url": "https://open.spotify.com/track/1F2jQat45PmNlSz1BcbZkc"
     }
   ],
   "unique_name": "Spotify Radio",

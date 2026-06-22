@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 
 > The best dance and electronic songs in the Middle East and North Africa\. Cover: HUGEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,771 likes - 67 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,817 likes - 67 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

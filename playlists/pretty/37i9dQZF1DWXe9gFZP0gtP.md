@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 
 > Calm your mind from anxiety with gentle piano and ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,918,794 likes - 160 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,919,248 likes - 160 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 | 159 | [Beleza](https://open.spotify.com/track/1OibVbUVn9ZRpPZAP2kjhg) | [Adrian Eden](https://open.spotify.com/artist/6cUUY5PB9iNclJ8YeFKKiN) | [Beleza](https://open.spotify.com/album/77ASBtDs3SGEvja4wDi0Bq) | 2:32 |
 | 160 | [Esoteric](https://open.spotify.com/track/4hM6zZNaebCwcyhon3lemg) | [Silvender](https://open.spotify.com/artist/27X4biNzBbSANHTSO2stdZ) | [Esoteric](https://open.spotify.com/album/6H34MA8D4isFu36CbPt17U) | 2:33 |
 
-Snapshot ID: `AAAAAPl9OKtL+Px4F65E46iMpi41rZyb`
+Snapshot ID: `AAAAAGq0DzIDxxo1pi+unDYNMxoTxUuv`

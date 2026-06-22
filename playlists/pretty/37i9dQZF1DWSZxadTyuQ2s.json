@@ -1,6 +1,6 @@
 {
   "description": "The sound of Afrobeats echoing around the world. Cover:  Rvssian,  Lojay, Sech",
-  "num_followers": 37893,
+  "num_followers": 37948,
   "original_name": "Global Afrobeats",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,22 @@
     {
       "added_at": "2026-06-19 00:01:46",
       "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 231618,
+      "name": "Ye",
+      "url": "https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O"
+    },
+    {
+      "added_at": "2026-06-19 00:01:46",
+      "album": {
         "name": "MY HEALER",
         "url": "https://open.spotify.com/album/7jXn39VRrZifIpznbHBDEZ"
       },
@@ -523,26 +539,6 @@
     {
       "added_at": "2026-06-19 00:01:46",
       "album": {
-        "name": "WORSHIP",
-        "url": "https://open.spotify.com/album/5VYH03sAzxNYEb3MZWOeWi"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        }
-      ],
-      "duration_ms": 163055,
-      "name": "WORSHIP",
-      "url": "https://open.spotify.com/track/7L1uMx4wG2A9pnRgb7hjQO"
-    },
-    {
-      "added_at": "2026-06-19 00:01:46",
-      "album": {
         "name": "FUN",
         "url": "https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ"
       },
@@ -559,18 +555,22 @@
     {
       "added_at": "2026-06-19 00:01:46",
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
+        "name": "WORSHIP",
+        "url": "https://open.spotify.com/album/5VYH03sAzxNYEb3MZWOeWi"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
         }
       ],
-      "duration_ms": 231618,
-      "name": "Ye",
-      "url": "https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O"
+      "duration_ms": 163055,
+      "name": "WORSHIP",
+      "url": "https://open.spotify.com/track/7L1uMx4wG2A9pnRgb7hjQO"
     },
     {
       "added_at": "2026-06-19 00:01:46",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2026-06-19 00:01:46",
       "album": {
+        "name": "The Summer That Saved Me",
+        "url": "https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 200346,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/67Cp7D1bHpGn3nsRaefokn"
+    },
+    {
+      "added_at": "2026-06-19 00:01:46",
+      "album": {
         "name": "Ballerina (with Rema, Skillibeng, & Disco Neil)",
         "url": "https://open.spotify.com/album/7Me0lVWxSy5AGNBCgcFEAZ"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 164536,
       "name": "Ballerina (with Rema, Skillibeng, & Disco Neil)",
       "url": "https://open.spotify.com/track/7wI4jzM1fIGoysnGJSpHZY"
-    },
-    {
-      "added_at": "2026-06-19 00:01:46",
-      "album": {
-        "name": "The Summer That Saved Me",
-        "url": "https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 200346,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/67Cp7D1bHpGn3nsRaefokn"
     },
     {
       "added_at": "2026-06-19 00:01:46",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-06-19 00:01:46",
       "album": {
-        "name": "INDUSTRY MACHINE",
-        "url": "https://open.spotify.com/album/6jqvqsLMnDQc1iRNkLwxrL"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 184821,
-      "name": "INDUSTRY MACHINE",
-      "url": "https://open.spotify.com/track/3wxFGa444tOpit0dsToPd6"
-    },
-    {
-      "added_at": "2026-06-19 00:01:46",
-      "album": {
         "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
         "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
       },
@@ -1379,6 +1363,22 @@
     {
       "added_at": "2026-06-19 00:01:46",
       "album": {
+        "name": "INDUSTRY MACHINE",
+        "url": "https://open.spotify.com/album/6jqvqsLMnDQc1iRNkLwxrL"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 184821,
+      "name": "INDUSTRY MACHINE",
+      "url": "https://open.spotify.com/track/3wxFGa444tOpit0dsToPd6"
+    },
+    {
+      "added_at": "2026-06-19 00:01:46",
+      "album": {
         "name": "NWANGOLO",
         "url": "https://open.spotify.com/album/1q0d2XSuxXTKatIOonQTl9"
       },
@@ -1395,30 +1395,6 @@
       "duration_ms": 151024,
       "name": "NWANGOLO",
       "url": "https://open.spotify.com/track/0JHiAVySqpLE1RpBMkZnau"
-    },
-    {
-      "added_at": "2026-06-19 00:01:46",
-      "album": {
-        "name": "CiCi (Deluxe)",
-        "url": "https://open.spotify.com/album/4kICF6A8HTzQ2EEH7GGsoY"
-      },
-      "artists": [
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        },
-        {
-          "name": "MOLIY",
-          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
-        }
-      ],
-      "duration_ms": 159272,
-      "name": "Nice n' Sweet (feat. MOLIY)",
-      "url": "https://open.spotify.com/track/7eilm0LI79IVtAKgqPCn28"
     },
     {
       "added_at": "2026-06-19 00:01:46",
@@ -1455,6 +1431,30 @@
       "duration_ms": 173185,
       "name": "Champion (feat. Ronaldinho Ga\u00facho & Tu Musica)",
       "url": "https://open.spotify.com/track/6jXEcOaoKY3fofq7P1rtCc"
+    },
+    {
+      "added_at": "2026-06-19 00:01:46",
+      "album": {
+        "name": "CiCi (Deluxe)",
+        "url": "https://open.spotify.com/album/4kICF6A8HTzQ2EEH7GGsoY"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        }
+      ],
+      "duration_ms": 159272,
+      "name": "Nice n' Sweet (feat. MOLIY)",
+      "url": "https://open.spotify.com/track/7eilm0LI79IVtAKgqPCn28"
     },
     {
       "added_at": "2026-06-19 00:01:46",

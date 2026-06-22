@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,852 likes - 113 songs - 7 hr 28 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,856 likes - 117 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,5 +121,9 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 111 | [My Eyes](https://open.spotify.com/track/7LraNdEYQC2epPHZVczNNB) | [Immortal Foreigner](https://open.spotify.com/artist/7JgL2uyFVHWiE0bct43ytm) | [My Eyes](https://open.spotify.com/album/4UwUmhnznZq2b0aSbNONrj) | 3:46 |
 | 112 | [Joy](https://open.spotify.com/track/5ud498A0z25t615wY15rBb) | [The Fades](https://open.spotify.com/artist/58FnrTrMiP3T8lUjkbNZdZ) | [Joy](https://open.spotify.com/album/1p1BPkpelCCzk7gD9aLZtT) | 2:32 |
 | 113 | [Fire on the Loose](https://open.spotify.com/track/1PAoqXpSbjeagxXwWi0tnV) | [Peder Pan](https://open.spotify.com/artist/2YOBFNivm8nZxtcXuSKQFV) | [Fire on the Loose](https://open.spotify.com/album/0aXK8rfirbKzeH9MoXniX5) | 4:04 |
+| 114 | [Art of Illusion](https://open.spotify.com/track/34IvfagtpjzxvKq61JyaoL) | [Wildchains](https://open.spotify.com/artist/6LTDVLBOAZYAcrn459uQf8) | [The Great Fado I](https://open.spotify.com/album/6LbUYxq27ZKbb2TRJbfV19) | 3:01 |
+| 115 | [Standing In The Light](https://open.spotify.com/track/4EFxWojLE1JWH8uxobQ5M4) | [Felix Commerell](https://open.spotify.com/artist/0oyPV1Y8OGya6ypcQJH36d), [Gianni Pontillo](https://open.spotify.com/artist/25WlZGbmXfwrs9dSWjyEZ7), [Thomy Gunn](https://open.spotify.com/artist/5LmWKf6HXvytwVL8ElnLcP) | [Standing In The Light](https://open.spotify.com/album/3gdxXCYrlx3NGSTtUPYSsn) | 3:46 |
+| 116 | [To blues tis monaksias](https://open.spotify.com/track/0i1sZjx82aJ1rOe6bPqWqy) | [Giorgos Martos](https://open.spotify.com/artist/3P8DI56L3cFZ7rEzoCoCVl) | [Psaks'to vathia](https://open.spotify.com/album/5fYs3dSNay0mHopgunjVXq) | 3:57 |
+| 117 | [Drinking](https://open.spotify.com/track/6YysdxnxuAhIO2Y8ty36uu) | [INTOTHEVOID](https://open.spotify.com/artist/4FYLVQGKQn5RIycdpzZtlj) | [Drinking](https://open.spotify.com/album/7tNTL4WyylZ97QB0YSxsuw) | 5:20 |
 
-Snapshot ID: `AAALwqYjdpILEP3HAFLmTAEP5/v6PvaI`
+Snapshot ID: `AAALxr6QU3f3JV63eZUQmwXEsT9/CZBT`

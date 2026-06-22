@@ -1,12 +1,12 @@
 {
   "description": "This is Jo\u00e3o Gilberto. The essential tracks, all in one playlist.",
-  "num_followers": 63380,
+  "num_followers": 63379,
   "original_name": "This Is Jo\u00e3o Gilberto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAADi9/pRwOu//CyK+OfGJMon",
+  "snapshot_id": "ajXYAAAAAAA0QLJtBps8ftjaXfPgCuAb",
   "tracks": [
     {
       "added_at": null,
@@ -811,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jo\u00e3o Voz E Viol\u00e3o",
-        "url": "https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX"
+        "name": "Voc\u00e9 e Eu",
+        "url": "https://open.spotify.com/album/3sgATVyngnXD04rREbRHQR"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 176360,
-      "name": "Voc\u00ea Vai Ver",
-      "url": "https://open.spotify.com/track/4qUeWZKSawVPEQpgh1sZvT"
+      "duration_ms": 150800,
+      "name": "O Barquinho",
+      "url": "https://open.spotify.com/track/7AsVESJqlCHKQADfHpfNf9"
     },
     {
       "added_at": null,
@@ -843,8 +843,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voc\u00e9 e Eu",
-        "url": "https://open.spotify.com/album/3sgATVyngnXD04rREbRHQR"
+        "name": "Jo\u00e3o Voz E Viol\u00e3o",
+        "url": "https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX"
       },
       "artists": [
         {
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 150800,
-      "name": "O Barquinho",
-      "url": "https://open.spotify.com/track/7AsVESJqlCHKQADfHpfNf9"
+      "duration_ms": 176360,
+      "name": "Voc\u00ea Vai Ver",
+      "url": "https://open.spotify.com/track/4qUeWZKSawVPEQpgh1sZvT"
     },
     {
       "added_at": null,
@@ -879,8 +879,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jo\u00e3o Voz E Viol\u00e3o",
-        "url": "https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX"
+        "name": "Corcovado",
+        "url": "https://open.spotify.com/album/3VaF3JOXtiv2nGFTMydLza"
       },
       "artists": [
         {
@@ -888,9 +888,9 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 234933,
-      "name": "Desde Que O Samba E Samba",
-      "url": "https://open.spotify.com/track/742NOzU6ugBLGmHXec0qau"
+      "duration_ms": 118661,
+      "name": "Corcovado",
+      "url": "https://open.spotify.com/track/3fYeqensiAoHgs645ttWnK"
     },
     {
       "added_at": null,
@@ -911,8 +911,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corcovado",
-        "url": "https://open.spotify.com/album/3VaF3JOXtiv2nGFTMydLza"
+        "name": "Jo\u00e3o Voz E Viol\u00e3o",
+        "url": "https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX"
       },
       "artists": [
         {
@@ -920,9 +920,9 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 118661,
-      "name": "Corcovado",
-      "url": "https://open.spotify.com/track/3fYeqensiAoHgs645ttWnK"
+      "duration_ms": 234933,
+      "name": "Desde Que O Samba E Samba",
+      "url": "https://open.spotify.com/track/742NOzU6ugBLGmHXec0qau"
     },
     {
       "added_at": null,

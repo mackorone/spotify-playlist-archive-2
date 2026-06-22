@@ -1,12 +1,12 @@
 {
   "description": "This is MC Dricka. The essential tracks, all in one playlist.",
-  "num_followers": 35348,
+  "num_followers": 35342,
   "original_name": "This Is MC Dricka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAADbhToOEgnE4s9UavcgKnfY",
+  "snapshot_id": "ajXYAAAAAADR5zHg6riLhEiwyGhzEo94",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,30 @@
       "duration_ms": 141273,
       "name": "Paga Pra Ser Gostosa",
       "url": "https://open.spotify.com/track/68VnSR2LiSkgo0k4KlUCBz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Medley Rel\u00edquia",
+        "url": "https://open.spotify.com/album/0mI5xvTAAYiq8JpXLew8pr"
+      },
+      "artists": [
+        {
+          "name": "TOMAS",
+          "url": "https://open.spotify.com/artist/5TL5gz3Q8oX0m9hNt2Jq7g"
+        },
+        {
+          "name": "DJ ADUTTZ",
+          "url": "https://open.spotify.com/artist/3KsFAFpgbYhZGXSDEQ3HzB"
+        },
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 250368,
+      "name": "Medley Rel\u00edquia",
+      "url": "https://open.spotify.com/track/6dy7GGUPNkJvEPXpiimodT"
     },
     {
       "added_at": null,
@@ -55,30 +79,6 @@
       "duration_ms": 235034,
       "name": "Thistle",
       "url": "https://open.spotify.com/track/7ipmIWVARgxxwcXZxzRYUX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Medley Rel\u00edquia",
-        "url": "https://open.spotify.com/album/0mI5xvTAAYiq8JpXLew8pr"
-      },
-      "artists": [
-        {
-          "name": "TOMAS",
-          "url": "https://open.spotify.com/artist/5TL5gz3Q8oX0m9hNt2Jq7g"
-        },
-        {
-          "name": "DJ ADUTTZ",
-          "url": "https://open.spotify.com/artist/3KsFAFpgbYhZGXSDEQ3HzB"
-        },
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 250368,
-      "name": "Medley Rel\u00edquia",
-      "url": "https://open.spotify.com/track/6dy7GGUPNkJvEPXpiimodT"
     },
     {
       "added_at": null,
@@ -143,34 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SOMA",
-        "url": "https://open.spotify.com/album/4vSNQ69cqRe2WgsdPXH3mv"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Dismantle",
-          "url": "https://open.spotify.com/artist/6sjpYOCYKYiurpvJk0oNEp"
-        },
-        {
-          "name": "DJ 2K DO TAQUARIL",
-          "url": "https://open.spotify.com/artist/2kZ9H7DxS0tzbLvCVrLgom"
-        },
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 219403,
-      "name": "Pente Rala",
-      "url": "https://open.spotify.com/track/16zADfKuIBd0rB8YnpddBI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revoada do Tubar\u00e3o",
         "url": "https://open.spotify.com/album/16SuYMsmpv5WbN33Bm2fqh"
       },
@@ -227,6 +199,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "SOMA",
+        "url": "https://open.spotify.com/album/4vSNQ69cqRe2WgsdPXH3mv"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Dismantle",
+          "url": "https://open.spotify.com/artist/6sjpYOCYKYiurpvJk0oNEp"
+        },
+        {
+          "name": "DJ 2K DO TAQUARIL",
+          "url": "https://open.spotify.com/artist/2kZ9H7DxS0tzbLvCVrLgom"
+        },
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 219403,
+      "name": "Pente Rala",
+      "url": "https://open.spotify.com/track/16zADfKuIBd0rB8YnpddBI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SET DJ GM 2.0",
         "url": "https://open.spotify.com/album/0N6o4RsribaIjjQkf3ZP1N"
       },
@@ -279,6 +279,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Festa na Marina",
+        "url": "https://open.spotify.com/album/50Lm8KlJ9bD92SYvvimBBX"
+      },
+      "artists": [
+        {
+          "name": "Bonde do gato preto",
+          "url": "https://open.spotify.com/artist/5A6NOdTbk43Jnr0GxFZQei"
+        },
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 135047,
+      "name": "Festa na Marina",
+      "url": "https://open.spotify.com/track/5SDbIKvFDRTy45WsXsgyxD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Facilita (Mc Dricka remix)",
         "url": "https://open.spotify.com/album/4qRNcUKlQDgrvrIae2fEey"
       },
@@ -303,26 +323,6 @@
       "duration_ms": 187500,
       "name": "Facilita - Mc Dricka remix",
       "url": "https://open.spotify.com/track/2rspmy4gPl0yWUFajxcQ1f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Festa na Marina",
-        "url": "https://open.spotify.com/album/50Lm8KlJ9bD92SYvvimBBX"
-      },
-      "artists": [
-        {
-          "name": "Bonde do gato preto",
-          "url": "https://open.spotify.com/artist/5A6NOdTbk43Jnr0GxFZQei"
-        },
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 135047,
-      "name": "Festa na Marina",
-      "url": "https://open.spotify.com/track/5SDbIKvFDRTy45WsXsgyxD"
     },
     {
       "added_at": null,
@@ -911,30 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mochila nas Costas / Empurra Empurra",
-        "url": "https://open.spotify.com/album/2lbGOLA9bXoP8dGElcKBZ9"
-      },
-      "artists": [
-        {
-          "name": "DJ Felipe \u00danico",
-          "url": "https://open.spotify.com/artist/4SWOPPVmBsxVY8MZxXkk2S"
-        },
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Mc Topre",
-          "url": "https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy"
-        }
-      ],
-      "duration_ms": 241777,
-      "name": "Mochila nas Costas / Empurra Empurra",
-      "url": "https://open.spotify.com/track/49N07rRWNp03L2HPCogaF0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vou Raspar Seu Bigodin / Tacar Fogo",
         "url": "https://open.spotify.com/album/1ebEq4DVbEkoTd2W6QtO80"
       },
@@ -963,26 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sentando no Pula Pula",
-        "url": "https://open.spotify.com/album/2B0DpXxVV6jHVxkDOHNqSB"
-      },
-      "artists": [
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Mc Nem Jm",
-          "url": "https://open.spotify.com/artist/2jUhhMRf5b01kLXKMC3ESs"
-        }
-      ],
-      "duration_ms": 174962,
-      "name": "Sentando no Pula Pula",
-      "url": "https://open.spotify.com/track/0wKhtUFFLf4b8DIZg4MNzX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fala Mal De Mim Pros Outros",
         "url": "https://open.spotify.com/album/21S0Nl37dHHXnfx3ZPmdML"
       },
@@ -1003,6 +959,50 @@
       "duration_ms": 138447,
       "name": "Fala Mal De Mim Pros Outros",
       "url": "https://open.spotify.com/track/4DBEmHoQi9x2nRE11CgLRF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mochila nas Costas / Empurra Empurra",
+        "url": "https://open.spotify.com/album/2lbGOLA9bXoP8dGElcKBZ9"
+      },
+      "artists": [
+        {
+          "name": "DJ Felipe \u00danico",
+          "url": "https://open.spotify.com/artist/4SWOPPVmBsxVY8MZxXkk2S"
+        },
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Topre",
+          "url": "https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy"
+        }
+      ],
+      "duration_ms": 241777,
+      "name": "Mochila nas Costas / Empurra Empurra",
+      "url": "https://open.spotify.com/track/49N07rRWNp03L2HPCogaF0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sentando no Pula Pula",
+        "url": "https://open.spotify.com/album/2B0DpXxVV6jHVxkDOHNqSB"
+      },
+      "artists": [
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Nem Jm",
+          "url": "https://open.spotify.com/artist/2jUhhMRf5b01kLXKMC3ESs"
+        }
+      ],
+      "duration_ms": 174962,
+      "name": "Sentando no Pula Pula",
+      "url": "https://open.spotify.com/track/0wKhtUFFLf4b8DIZg4MNzX"
     },
     {
       "added_at": null,
@@ -1071,6 +1071,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
+        "url": "https://open.spotify.com/album/3G1gxfsqkeaQmsf0eSp9jy"
+      },
+      "artists": [
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Novo Imp\u00e9rio",
+          "url": "https://open.spotify.com/artist/5AWdsNtZ3cFCrvGQovuPzu"
+        }
+      ],
+      "duration_ms": 197480,
+      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
+      "url": "https://open.spotify.com/track/4koUrXFuoId1b6wrMF3laS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Catucad\u00e3o",
         "url": "https://open.spotify.com/album/16TTVpfAEGzxNghkq34qNt"
       },
@@ -1095,26 +1115,6 @@
       "duration_ms": 138900,
       "name": "Catucad\u00e3o",
       "url": "https://open.spotify.com/track/7LryHNIEa0AtcaGjr5744f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
-        "url": "https://open.spotify.com/album/3G1gxfsqkeaQmsf0eSp9jy"
-      },
-      "artists": [
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Novo Imp\u00e9rio",
-          "url": "https://open.spotify.com/artist/5AWdsNtZ3cFCrvGQovuPzu"
-        }
-      ],
-      "duration_ms": 197480,
-      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
-      "url": "https://open.spotify.com/track/4koUrXFuoId1b6wrMF3laS"
     },
     {
       "added_at": null,
@@ -1371,34 +1371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Escolhas e Reflexos",
-        "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
-      },
-      "artists": [
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
-        },
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Iuri Rio Branco",
-          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
-        }
-      ],
-      "duration_ms": 213994,
-      "name": "Mundo da Fama",
-      "url": "https://open.spotify.com/track/6vqHCFSzYNzg96n8NoKxHt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De 38 Carregado",
         "url": "https://open.spotify.com/album/4yLieDOwSzxfv2GJEiYxmV"
       },
@@ -1435,6 +1407,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Escolhas e Reflexos",
+        "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
+      },
+      "artists": [
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Iuri Rio Branco",
+          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
+        }
+      ],
+      "duration_ms": 213994,
+      "name": "Mundo da Fama",
+      "url": "https://open.spotify.com/track/6vqHCFSzYNzg96n8NoKxHt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rave Don't Start Now",
         "url": "https://open.spotify.com/album/3xOrZD9NxfMTD08Yjx4vt7"
       },
@@ -1467,22 +1467,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Agrado Todos",
-        "url": "https://open.spotify.com/album/6YYqLDClhznmF4Xri1Di0a"
+        "name": "Rickweek",
+        "url": "https://open.spotify.com/album/3hWqmz0ezKfNe2pVW3eoNf"
       },
       "artists": [
         {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+          "name": "MC Rick",
+          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
         },
         {
-          "name": "DJBHBHDJ",
-          "url": "https://open.spotify.com/artist/7INZ7w7XryKByx9Aw8g5W0"
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
         }
       ],
-      "duration_ms": 125538,
-      "name": "N\u00e3o Agrado Todos",
-      "url": "https://open.spotify.com/track/0WbHf6LwbAh5k69ppYSwh9"
+      "duration_ms": 126511,
+      "name": "Vagabunda do Caralho",
+      "url": "https://open.spotify.com/track/4hlHoQgfFH0Ke875XAOkvc"
     }
   ],
   "unique_name": "This Is MC Dricka",

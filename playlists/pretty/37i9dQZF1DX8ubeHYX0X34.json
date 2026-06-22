@@ -1,6 +1,6 @@
 {
   "description": "Timeless Pakistani hits, all in one place. Cover - Hadiqa Kiani",
-  "num_followers": 69893,
+  "num_followers": 69912,
   "original_name": "All Time Pakistani Hits",
   "owner": {
     "name": "Spotify",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-03-24 20:06:52",
       "album": {
-        "name": "Tabeer",
-        "url": "https://open.spotify.com/album/6zvlSsksjFjshGKJm3lJWD"
-      },
-      "artists": [
-        {
-          "name": "Shafqat Amanat Ali",
-          "url": "https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm"
-        }
-      ],
-      "duration_ms": 276558,
-      "name": "Khaireyan De Naal",
-      "url": "https://open.spotify.com/track/0WxdqHRbdQ1R83ZvZ0qerN"
-    },
-    {
-      "added_at": "2026-03-24 20:06:52",
-      "album": {
         "name": "Aadat",
         "url": "https://open.spotify.com/album/5ANML1o1NBFwCzGaaeXdy5"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 378613,
       "name": "Teri Yaad",
       "url": "https://open.spotify.com/track/5R1mYWLSQ896Pfqa4iMCKH"
+    },
+    {
+      "added_at": "2026-03-24 20:06:52",
+      "album": {
+        "name": "Tabeer",
+        "url": "https://open.spotify.com/album/6zvlSsksjFjshGKJm3lJWD"
+      },
+      "artists": [
+        {
+          "name": "Shafqat Amanat Ali",
+          "url": "https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm"
+        }
+      ],
+      "duration_ms": 276558,
+      "name": "Khaireyan De Naal",
+      "url": "https://open.spotify.com/track/0WxdqHRbdQ1R83ZvZ0qerN"
     },
     {
       "added_at": "2026-03-24 20:06:52",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-03-24 20:06:52",
       "album": {
-        "name": "Now in Technicolor",
-        "url": "https://open.spotify.com/album/3YKc6pe4R3oM2sY8UXWEIz"
-      },
-      "artists": [
-        {
-          "name": "Mauj",
-          "url": "https://open.spotify.com/artist/7hF2h024edRGQQZ4XSfVLb"
-        }
-      ],
-      "duration_ms": 284761,
-      "name": "Khushfehmi",
-      "url": "https://open.spotify.com/track/7fhk5is4r1ZcLPsG8XCEYl"
-    },
-    {
-      "added_at": "2026-03-24 20:06:52",
-      "album": {
         "name": "Aadat",
         "url": "https://open.spotify.com/album/5ANML1o1NBFwCzGaaeXdy5"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 258093,
       "name": "Ik Din Aye Ga",
       "url": "https://open.spotify.com/track/3wUreem0PICuBnFN8nfvz7"
+    },
+    {
+      "added_at": "2026-03-24 20:06:52",
+      "album": {
+        "name": "Now in Technicolor",
+        "url": "https://open.spotify.com/album/3YKc6pe4R3oM2sY8UXWEIz"
+      },
+      "artists": [
+        {
+          "name": "Mauj",
+          "url": "https://open.spotify.com/artist/7hF2h024edRGQQZ4XSfVLb"
+        }
+      ],
+      "duration_ms": 284761,
+      "name": "Khushfehmi",
+      "url": "https://open.spotify.com/track/7fhk5is4r1ZcLPsG8XCEYl"
     },
     {
       "added_at": "2026-03-24 20:06:52",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-03-24 20:06:52",
       "album": {
-        "name": "Pyaas",
-        "url": "https://open.spotify.com/album/6tR4OP2sLkYlUgdaz1y9bW"
-      },
-      "artists": [
-        {
-          "name": "Jal",
-          "url": "https://open.spotify.com/artist/2f50lwdTtShldrc5JrA5fU"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "Ik Arzu",
-      "url": "https://open.spotify.com/track/4cndbON398hOOnGgqJwj4M"
-    },
-    {
-      "added_at": "2026-03-24 20:06:52",
-      "album": {
         "name": "Huqa Pani",
         "url": "https://open.spotify.com/album/4ccLUwsTaAt2fvVC75Copb"
       },
@@ -1043,18 +1027,18 @@
     {
       "added_at": "2026-03-24 20:06:52",
       "album": {
-        "name": "Chup",
-        "url": "https://open.spotify.com/album/5gwT7LD8k8457NUK824Kb5"
+        "name": "Pyaas",
+        "url": "https://open.spotify.com/album/6tR4OP2sLkYlUgdaz1y9bW"
       },
       "artists": [
         {
-          "name": "Zeb & Haniya",
-          "url": "https://open.spotify.com/artist/7yRWAVvdjzgjU2wrpaKXLA"
+          "name": "Jal",
+          "url": "https://open.spotify.com/artist/2f50lwdTtShldrc5JrA5fU"
         }
       ],
-      "duration_ms": 278146,
-      "name": "Paimana Bitte",
-      "url": "https://open.spotify.com/track/6KAE4MMywFS0Cy7ikNojQb"
+      "duration_ms": 279000,
+      "name": "Ik Arzu",
+      "url": "https://open.spotify.com/track/4cndbON398hOOnGgqJwj4M"
     },
     {
       "added_at": "2026-03-24 20:06:52",
@@ -1071,6 +1055,22 @@
       "duration_ms": 319658,
       "name": "Deewana",
       "url": "https://open.spotify.com/track/13Nh7FZe0D6vBlAREaqfTR"
+    },
+    {
+      "added_at": "2026-03-24 20:06:52",
+      "album": {
+        "name": "Chup",
+        "url": "https://open.spotify.com/album/5gwT7LD8k8457NUK824Kb5"
+      },
+      "artists": [
+        {
+          "name": "Zeb & Haniya",
+          "url": "https://open.spotify.com/artist/7yRWAVvdjzgjU2wrpaKXLA"
+        }
+      ],
+      "duration_ms": 278146,
+      "name": "Paimana Bitte",
+      "url": "https://open.spotify.com/track/6KAE4MMywFS0Cy7ikNojQb"
     },
     {
       "added_at": "2026-03-24 20:06:52",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-03-24 20:06:52",
       "album": {
-        "name": "Chup",
-        "url": "https://open.spotify.com/album/5gwT7LD8k8457NUK824Kb5"
-      },
-      "artists": [
-        {
-          "name": "Zeb & Haniya",
-          "url": "https://open.spotify.com/artist/7yRWAVvdjzgjU2wrpaKXLA"
-        }
-      ],
-      "duration_ms": 333706,
-      "name": "Chal Diye",
-      "url": "https://open.spotify.com/track/4KLXNggnzrpMrtZX1DAK8g"
-    },
-    {
-      "added_at": "2026-03-24 20:06:52",
-      "album": {
         "name": "Social Circus",
         "url": "https://open.spotify.com/album/4Nj2wbrQ8k2pzh4XQktP3K"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 378643,
       "name": "Man Gagan",
       "url": "https://open.spotify.com/track/1l3Jn24cC7UsLDqNIbH33a"
+    },
+    {
+      "added_at": "2026-03-24 20:06:52",
+      "album": {
+        "name": "Chup",
+        "url": "https://open.spotify.com/album/5gwT7LD8k8457NUK824Kb5"
+      },
+      "artists": [
+        {
+          "name": "Zeb & Haniya",
+          "url": "https://open.spotify.com/artist/7yRWAVvdjzgjU2wrpaKXLA"
+        }
+      ],
+      "duration_ms": 333706,
+      "name": "Chal Diye",
+      "url": "https://open.spotify.com/track/4KLXNggnzrpMrtZX1DAK8g"
     },
     {
       "added_at": "2026-03-24 20:06:52",

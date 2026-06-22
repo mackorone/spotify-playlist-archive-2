@@ -2,7 +2,7 @@
 
 ### [Taewitdak Radio](https://open.spotify.com/playlist/37i9dQZF1E4yFjPEVNm1gW)
 
-> With Yeat, Cuo Zay, Ken Carson and more
+> With Yeat, Cuo Zay, Autumn! and more
 
 253 songs - 10 hr 2 min
 
@@ -79,7 +79,7 @@
 | [Fake Lean](https://open.spotify.com/track/2WFIP6q6kHq5Rb2jyRHPMt) | [Liltae2](https://open.spotify.com/artist/39Uy66VmUsYNXUMGSPamA2), [10TA Lil A](https://open.spotify.com/artist/3E7zyjnY6AthfEeOAT1x3e), [Jay Juice](https://open.spotify.com/artist/64Hl5LjrETEjFk8WW1wkte), [Tse e2](https://open.spotify.com/artist/19BlmxaBy9f5dziurbhQLK) | [Higher Then Most Mixtape](https://open.spotify.com/album/5iL5cwFTfyC9XBfAqZjWF8) | 2:02 | 2025-11-29 | 2025-12-05 |
 | [Fan Of The Fuss](https://open.spotify.com/track/1uRRkNWCN7apsZmy9mIWc7) | [Mxdboi](https://open.spotify.com/artist/6r0cAxab3bGz70KL6JJHEv), [soexclusive](https://open.spotify.com/artist/4JKrB6b2vC2vS2QORvH7ix) | [Fan Of The Fuss](https://open.spotify.com/album/33w7jK8OpKUvWTIvly50Fm) | 2:13 | 2026-04-16 | 2026-04-20 |
 | [Farewell and Goodbye](https://open.spotify.com/track/1A0Vlu1w8HALdhy8eGpMLf) | [FinEsseMo](https://open.spotify.com/artist/0GWQysZc1ulCcyPRqaSkTp) | [SONDER](https://open.spotify.com/album/1yuHxt8cIsiGNzqdyES8Lc) | 3:37 | 2026-05-17 | 2026-05-26 |
-| [Fire in my heart](https://open.spotify.com/track/5XZN4J4EQeNYfxWBb9kBog) | [1400 Vault](https://open.spotify.com/artist/5HGDY5ljhjmfMCWvTDShiQ) | [Fire in my heart](https://open.spotify.com/album/4anMKTkHRHemr55s8Ovh8T) | 3:49 | 2025-11-29 |  |
+| [Fire in my heart](https://open.spotify.com/track/5XZN4J4EQeNYfxWBb9kBog) | [1400 Vault](https://open.spotify.com/artist/5HGDY5ljhjmfMCWvTDShiQ) | [Fire in my heart](https://open.spotify.com/album/4anMKTkHRHemr55s8Ovh8T) | 3:49 | 2025-11-29 | 2026-06-22 |
 | [Fuck Good Business \- Remix](https://open.spotify.com/track/43McxIOhxbphUzPBUFS2Mk) | [jamesstfu](https://open.spotify.com/artist/0059K1YKhjK2bwNDjvJwEU), [Glokk40Spazz](https://open.spotify.com/artist/5huQelNCoOS0IkUdYUDmgH) | [Fuck Good Business \(Remix\)](https://open.spotify.com/album/4mOtiqM6oNfuCQh3vjsVhP) | 3:15 | 2025-12-20 |  |
 | [FUCK WELLAND](https://open.spotify.com/track/624qGuhwPKPGFxbqbb5EsU) | [Zoidy\_](https://open.spotify.com/artist/2libLTYl8eFzNEy9kbAOby), [Jagger Parise](https://open.spotify.com/artist/6a4QaqUXgsrWLgStAMe5dV) | [a lantern for a montague](https://open.spotify.com/album/1uEQpgRPlnFKQkuls4967x) | 2:03 | 2025-12-22 | 2025-12-29 |
 | [Full Of Them Drugs](https://open.spotify.com/track/1gGuQsf0rPBJEk05Rjhnn7) | [Screwly G](https://open.spotify.com/artist/1eWvOyyLmTtEVjuV2StcqC) | [No Pain No Gain](https://open.spotify.com/album/0j4kcCJRc3pZgrApHgMlBt) | 3:10 | 2025-11-29 |  |
@@ -152,7 +152,7 @@
 | [Never that](https://open.spotify.com/track/0D50kcPvpyuGG6aIWi48WA) | [kappaa!](https://open.spotify.com/artist/59qj4dTLo3tVzjVGNTvgPu) | [Never that](https://open.spotify.com/album/4o9ltariIy117ZZ15zd9pq) | 2:43 | 2025-12-08 | 2025-12-26 |
 | [Never Theirs](https://open.spotify.com/track/3tImnBbcBQK6pE0G28VAg6) | [YFG Trap](https://open.spotify.com/artist/42MiKfvv8YFBf9SdijIlci) | [Okay, Wait...](https://open.spotify.com/album/6gOcbSfYL9qCPAmN2c9LaI) | 2:16 | 2025-12-01 | 2025-12-08 |
 | [Nightcore 2](https://open.spotify.com/track/6p1j9OP2IBdzR5tgtyJk10) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 3:02 | 2025-11-29 |  |
-| [nine](https://open.spotify.com/track/5yCYHKE6erkEF3M0eaBfBc) | [Che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [3](https://open.spotify.com/album/67Zf5EYdu6qicDS1JhCXpJ) | 1:54 | 2026-02-05 | 2026-06-17 |
+| [nine](https://open.spotify.com/track/5yCYHKE6erkEF3M0eaBfBc) | [Che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [3](https://open.spotify.com/album/67Zf5EYdu6qicDS1JhCXpJ) | 1:54 | 2026-02-05 |  |
 | [No Blickout](https://open.spotify.com/track/0OrIm11rR74jKvimJXvxAg) | [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [I Live, I Die, I Live Again \(Resurrected\)](https://open.spotify.com/album/6JqKTBpbRpGZ9RMUlPCbM2) | 2:40 | 2025-12-12 |  |
 | [No Folding \(Bonus\)](https://open.spotify.com/track/5bOhFcWSkQfDRTNblpLicF) | [VazClare](https://open.spotify.com/artist/0nYdbzhczBc4XzpFdHOG75), [killfazos](https://open.spotify.com/artist/3gstM7z6Ou4hsmy3CTrJFj) | [ANTI](https://open.spotify.com/album/4LsamGhaJ4QVjy3z6t2snN) | 2:03 | 2026-05-09 | 2026-06-03 |
 | [No Luv](https://open.spotify.com/track/3DmSkzTtzNisgROnoIbw4I) | [Cuo Zay](https://open.spotify.com/artist/6yFzNwvuceOObkopessurR) | [No Luv](https://open.spotify.com/album/35HuNLOzxkWe7rtw8xu4Ur) | 2:17 | 2026-02-24 | 2026-03-20 |
@@ -168,7 +168,7 @@
 | [Outcast Loyalty](https://open.spotify.com/track/2umGgxNHbu7lpwfv743kNl) | [The Outcastkid](https://open.spotify.com/artist/4BUKPBM2FnGlDqnNKE9FYt) | [Outcast Loyalty](https://open.spotify.com/album/3wBmmo5J0hujCTHn5YMMu9) | 2:00 | 2026-06-06 |  |
 | [OUTRO](https://open.spotify.com/track/0VIkfu39eJ3BBmmHvt6bQ5) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD), [F1LTHY](https://open.spotify.com/artist/6NmvwMFvNRQmWdW5N1nxsC) | [WAKE UP LUCKI](https://open.spotify.com/album/0BA1h18jGi9tQ4iUAacLMG) | 3:22 | 2025-12-31 | 2026-04-12 |
 | [Outta Time](https://open.spotify.com/track/14X6eTpHy7KBldsJwP1P4U) | [Desire](https://open.spotify.com/artist/3KPcAghCkTbiBpuAsZnWv3) | [From The Heart](https://open.spotify.com/album/3lghW9KrrpM6RoW3a1asdz) | 2:02 | 2025-12-09 | 2026-06-19 |
-| [P!NK GUN](https://open.spotify.com/track/08BRHjbgydIasySvi2lTpg) | [Nb Bankz](https://open.spotify.com/artist/0HOwMQocoFYdahNLRUtPKb) | [The Bank Is Open](https://open.spotify.com/album/2bcxjvR1K2TP7Gyz7Jbdim) | 2:18 | 2025-12-22 | 2026-06-21 |
+| [P!NK GUN](https://open.spotify.com/track/08BRHjbgydIasySvi2lTpg) | [Nb Bankz](https://open.spotify.com/artist/0HOwMQocoFYdahNLRUtPKb) | [The Bank Is Open](https://open.spotify.com/album/2bcxjvR1K2TP7Gyz7Jbdim) | 2:18 | 2025-12-22 |  |
 | [Pause](https://open.spotify.com/track/5l34Ale9qMFJZ0Pgclgejq) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [Danny G Beats](https://open.spotify.com/artist/2GKXcaJjE7H2z9WdY7sG0x), [jakesand](https://open.spotify.com/artist/3H9itUD9PSCzrLJfe3tllo) | [Pause](https://open.spotify.com/album/23YuMwACsvWrPlBf3mPOXi) | 2:02 | 2026-03-28 | 2026-03-29 |
 | [PDL](https://open.spotify.com/track/3k2xRF5wGlAZnRsSPOOAXn) | [Pasto Flocco](https://open.spotify.com/artist/4dQKBmnccqxpFiAk5qmvy7) | [GLE Presents: BLUEBILLZ EP](https://open.spotify.com/album/2yLq95mpSfaL9959tkbyL8) | 2:07 | 2025-11-29 | 2025-12-01 |
 | [petrol](https://open.spotify.com/track/3JBtFRUOBOSTUTMNu9s3MM) | [1oneam](https://open.spotify.com/artist/089ASSwOW4Cih3frNuDtUv) | [Sin +](https://open.spotify.com/album/0SGShXyFMMIf64gSEI4Whz) | 1:52 | 2025-12-09 | 2026-01-23 |
@@ -246,7 +246,7 @@
 | [Voices In My Head](https://open.spotify.com/track/6ZWgyxB0rdb1vur4J2hSCQ) | [Rayy Dubb](https://open.spotify.com/artist/5JkD3p2fJbGwVagjQSfD7h) | [Voices In My Head](https://open.spotify.com/album/7qGgYsuOOTVWPJgaDebx74) | 2:45 | 2025-11-29 |  |
 | [VVS FLOW](https://open.spotify.com/track/1KsaA94aJwiyTVDbKlgZQP) | [Boomy2Aktive](https://open.spotify.com/artist/7DgRxHJSV2odZIGViEUf6y), [2kfxded](https://open.spotify.com/artist/4pgEDns4neOULmbLvdyD88) | [VVS FLOW](https://open.spotify.com/album/3DD0Uzy7gfRRaj9zDucuRu) | 2:01 | 2026-05-18 | 2026-06-01 |
 | [WAR 1](https://open.spotify.com/track/5PyjS9OsRJR0vEbFd7I6HA) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Alivë](https://open.spotify.com/album/1n3e9mGQUpv1UXOxMre4My) | 2:33 | 2025-11-29 |  |
-| [We Don't Care](https://open.spotify.com/track/4KKo6OKDUak3by5jgC2crB) | [lil2posh](https://open.spotify.com/artist/3h76PMHrHwdKLziJERRpAr) | [Graduation Tape](https://open.spotify.com/album/2mzb44bBSeedDR4y0ewbgG) | 1:42 | 2026-06-15 |  |
+| [We Don't Care](https://open.spotify.com/track/4KKo6OKDUak3by5jgC2crB) | [lil2posh](https://open.spotify.com/artist/3h76PMHrHwdKLziJERRpAr) | [Graduation Tape](https://open.spotify.com/album/2mzb44bBSeedDR4y0ewbgG) | 1:42 | 2026-06-15 | 2026-06-22 |
 | [Where Ya At Max](https://open.spotify.com/track/771ihvk0W4LWBBIlLfiXEB) | [Ayerp Archive](https://open.spotify.com/artist/2V3RmEtxQ9xhMkfTmnLvpa) | [Where Ya At Max](https://open.spotify.com/album/4g8ebMA7ezNCWbemBuQqMi) | 2:31 | 2026-06-18 |  |
 | [Which 1 / Klueless](https://open.spotify.com/track/2jpXew4tUnqHiH7Uaj4Ioq) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [LORD](https://open.spotify.com/album/6djk4PgDnK96ckGP4ezYBn) | 2:23 | 2025-11-29 |  |
 | [WHITE T](https://open.spotify.com/track/1L3dcYffJhpNn07abhGCgF) | [Bigpay J](https://open.spotify.com/artist/3zZ2kpokg60U0F6aMcZCl5), [FlyLife](https://open.spotify.com/artist/6Wz3hFrNfQSjzQgMTRzazS) | [WHITE T](https://open.spotify.com/album/3LCbyCxBIFJfGvgZo7ecaN) | 2:54 | 2026-06-16 |  |

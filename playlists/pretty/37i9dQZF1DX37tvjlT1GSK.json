@@ -1,6 +1,6 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Kane Rodriguez, T3R Elemento en cover.",
-  "num_followers": 826282,
+  "num_followers": 826322,
   "original_name": "Sierre\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -859,26 +859,6 @@
     {
       "added_at": "2026-05-08 09:18:16",
       "album": {
-        "name": "Haciendo Memoria",
-        "url": "https://open.spotify.com/album/34nVEyCXj7H5vRoqLf34Ar"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 187034,
-      "name": "Haciendo Memoria",
-      "url": "https://open.spotify.com/track/1trlpTsQJoBoKQeHGDF72a"
-    },
-    {
-      "added_at": "2026-05-08 09:18:16",
-      "album": {
         "name": "Coraz\u00f3n Fr\u00edo",
         "url": "https://open.spotify.com/album/7aC9iMxYc7mHTN3mJWZFc1"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 263810,
       "name": "Coraz\u00f3n Fr\u00edo",
       "url": "https://open.spotify.com/track/0KSwFEkVh0KCBR0TwqBVen"
+    },
+    {
+      "added_at": "2026-05-08 09:18:16",
+      "album": {
+        "name": "Haciendo Memoria",
+        "url": "https://open.spotify.com/album/34nVEyCXj7H5vRoqLf34Ar"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 187034,
+      "name": "Haciendo Memoria",
+      "url": "https://open.spotify.com/track/1trlpTsQJoBoKQeHGDF72a"
     },
     {
       "added_at": "2026-05-08 09:18:16",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2026-05-08 09:18:16",
       "album": {
-        "name": "todo me vale madre",
-        "url": "https://open.spotify.com/album/6Un1jeqwMNafxhOHfjYXEx"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 176382,
-      "name": "todo me vale madre",
-      "url": "https://open.spotify.com/track/2JXwNWEICIo5Utov8kBot1"
-    },
-    {
-      "added_at": "2026-05-08 09:18:16",
-      "album": {
         "name": "Las 745",
         "url": "https://open.spotify.com/album/7n51uT7Fh9ck9ysRCyxftg"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 163073,
       "name": "Las 745",
       "url": "https://open.spotify.com/track/2qYB75lMyKTsejklUVuxSH"
+    },
+    {
+      "added_at": "2026-05-08 09:18:16",
+      "album": {
+        "name": "todo me vale madre",
+        "url": "https://open.spotify.com/album/6Un1jeqwMNafxhOHfjYXEx"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 176382,
+      "name": "todo me vale madre",
+      "url": "https://open.spotify.com/track/2JXwNWEICIo5Utov8kBot1"
     },
     {
       "added_at": "2026-05-08 09:18:16",

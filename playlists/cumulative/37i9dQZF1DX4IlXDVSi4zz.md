@@ -4,7 +4,7 @@
 
 > Dance the night away and just blame it on Tulum!
 
-322 songs - 19 hr 56 min
+323 songs - 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Falling](https://open.spotify.com/track/5LRyR8eIg7fSlH3GsdFqEi) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Alexis Roberts](https://open.spotify.com/artist/2GtBFxIWM3H6wRI2uzZvyt) | [Chemistry](https://open.spotify.com/album/3DmcV2cmZdX9olNRHcRUZ2) | 4:10 | 2025-07-14 | 2025-11-01 |
 | [Famax](https://open.spotify.com/track/4yhqQAKFiHNCXpxxFVhxRq) | [RAFFA GUIDO](https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ) | [Famax](https://open.spotify.com/album/1wwVoTyNUWFP6BAOcGWbZI) | 5:35 | 2024-03-08 | 2024-05-18 |
 | [Fara](https://open.spotify.com/track/0MSwEp1oqojExCixKd0xKu) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Fara](https://open.spotify.com/album/5eF1127c1C2jiqc3xuzeqd) | 3:02 | 2026-03-20 |  |
+| [Feel](https://open.spotify.com/track/3mxwrp5v4TcWK1T4MsXdcs) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Feel](https://open.spotify.com/album/2kVboAU8NCpgRBT7VyHcK1) | 2:38 | 2026-06-19 |  |
 | [Ferrari](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8) | 3:06 | 2023-12-07 |  |
 | [Fight to Love \- Radio Edit](https://open.spotify.com/track/0V2rtUVbb3Vpz2ZE5pu0Sa) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Maleh](https://open.spotify.com/artist/0SDzHvhNuUANVi0rEuUD9i) | [Fight to Love \(Radio Edit\)](https://open.spotify.com/album/6ttCwZ0VxKrzDFnOhHlTj3) | 4:07 | 2022-05-06 | 2022-07-29 |
 | [Flood](https://open.spotify.com/track/0Q9er9GdnwbKqOR94aLRPH) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP) | [Flood](https://open.spotify.com/album/70RHpvA9I8bijHS46uJcj6) | 4:32 | 2025-01-10 | 2025-02-16 |
@@ -283,7 +284,7 @@
 | [Sweet Disposition \- John Summit & Silver Panda Remix](https://open.spotify.com/track/6rGf5AsEaVskU0pO2ewcUL) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Silver Panda](https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da) | [Sweet Disposition \(John Summit & Silver Panda Remix\)](https://open.spotify.com/album/1xGF8XISTlMx8LCZrxhLa5) | 4:11 | 2024-07-19 | 2025-03-20 |
 | [Sweet Dreams](https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Sweet Dreams](https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR) | 2:18 | 2022-03-29 | 2024-08-10 |
 | [Sweet Potato](https://open.spotify.com/track/6E09140FnSWgjdUJJosGfx) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47) | [Sweet Potato](https://open.spotify.com/album/3jMgo1MoBGBoAHfy3cgEeV) | 2:46 | 2022-06-27 | 2022-07-27 |
-| [Tambora](https://open.spotify.com/track/5Lm6Vl5RjOF77si7Tv5Usz) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [MESTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n), [Martina Camargo](https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH) | [Tambora](https://open.spotify.com/album/7LUHIlbhuFHoZKRlamEd9Y) | 2:30 | 2026-03-20 |  |
+| [Tambora](https://open.spotify.com/track/5Lm6Vl5RjOF77si7Tv5Usz) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [MESTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n), [Martina Camargo](https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH) | [Tambora](https://open.spotify.com/album/7LUHIlbhuFHoZKRlamEd9Y) | 2:30 | 2026-03-20 | 2026-06-22 |
 | [Te Doy La Libertad](https://open.spotify.com/track/5ODIUPpNdmVZRjTMHa0Vjp) | [MESTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n) | [Spanish Chica](https://open.spotify.com/album/04LUS5N9H4DIxFty3pUnTN) | 4:04 | 2026-04-10 |  |
 | [Teka \(with Peso Pluma\)](https://open.spotify.com/track/555maXFEF9m0lE4UGRzCHk) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Teka \(with Peso Pluma\)](https://open.spotify.com/album/4MGpOqMU3FlZ7li35laoBu) | 2:43 | 2024-04-19 |  |
 | [Tell It To My Heart](https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Tell It To My Heart](https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G) | 2:45 | 2023-12-07 | 2026-03-21 |

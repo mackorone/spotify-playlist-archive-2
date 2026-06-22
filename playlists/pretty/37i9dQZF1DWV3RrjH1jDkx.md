@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra The Bausa, Tyla, Blackie og mange fler!! ♥️
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,102 likes - 97 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,092 likes - 97 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

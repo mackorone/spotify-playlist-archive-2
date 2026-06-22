@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. LAGOS en portada ",
-  "num_followers": 852011,
+  "num_followers": 852040,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2026-06-19 06:00:31",
       "album": {
+        "name": "Expansi\u00f3n",
+        "url": "https://open.spotify.com/album/69ceJyl4is6jkwTPjyCYMf"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "duration_ms": 161348,
+      "name": "Ay\u00fadame",
+      "url": "https://open.spotify.com/track/45f6FcdWcuBGB4GvFuwr9f"
+    },
+    {
+      "added_at": "2026-06-19 06:00:31",
+      "album": {
         "name": "DINAST\u00cdA (DELUXE)",
         "url": "https://open.spotify.com/album/7aTDbTfkSxsYEipu8Z4TNl"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 165949,
       "name": "ganga",
       "url": "https://open.spotify.com/track/4rrGcaA4OqeNty6CXxnfz0"
-    },
-    {
-      "added_at": "2026-06-19 06:00:31",
-      "album": {
-        "name": "Expansi\u00f3n",
-        "url": "https://open.spotify.com/album/69ceJyl4is6jkwTPjyCYMf"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        }
-      ],
-      "duration_ms": 161348,
-      "name": "Ay\u00fadame",
-      "url": "https://open.spotify.com/track/45f6FcdWcuBGB4GvFuwr9f"
     },
     {
       "added_at": "2026-06-19 06:00:31",
@@ -351,22 +351,6 @@
     {
       "added_at": "2026-06-19 06:00:31",
       "album": {
-        "name": "Mi Yo de Antes",
-        "url": "https://open.spotify.com/album/2y77rjJAPxg73wjdzAeTMN"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 182793,
-      "name": "Mi Yo de Antes",
-      "url": "https://open.spotify.com/track/0RAlrJTWdsaZVtfh1wDb3r"
-    },
-    {
-      "added_at": "2026-06-19 06:00:31",
-      "album": {
         "name": "Seguro Le Doli\u00f3",
         "url": "https://open.spotify.com/album/0laSYvHtmxy7gG0z8secrX"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 149459,
       "name": "Seguro Le Doli\u00f3",
       "url": "https://open.spotify.com/track/6KslzTHpbnoFGcRUkVgRXc"
+    },
+    {
+      "added_at": "2026-06-19 06:00:31",
+      "album": {
+        "name": "Mi Yo de Antes",
+        "url": "https://open.spotify.com/album/2y77rjJAPxg73wjdzAeTMN"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 182793,
+      "name": "Mi Yo de Antes",
+      "url": "https://open.spotify.com/track/0RAlrJTWdsaZVtfh1wDb3r"
     },
     {
       "added_at": "2026-06-19 06:00:31",
@@ -571,6 +571,22 @@
     {
       "added_at": "2026-06-19 06:00:31",
       "album": {
+        "name": "Al Final Del D\u00eda",
+        "url": "https://open.spotify.com/album/3b7fTYz6N1uu9a2Ifj51ME"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 208484,
+      "name": "Al Final Del D\u00eda",
+      "url": "https://open.spotify.com/track/6VBGFvNil2VJuZtYseebZ5"
+    },
+    {
+      "added_at": "2026-06-19 06:00:31",
+      "album": {
         "name": "K de Karma",
         "url": "https://open.spotify.com/album/67Amfz9H8W7fi35u8Cn7zc"
       },
@@ -583,26 +599,6 @@
       "duration_ms": 181933,
       "name": "Ruleta Rusa",
       "url": "https://open.spotify.com/track/0IZy9WMqzzK4HNTiHnuzBM"
-    },
-    {
-      "added_at": "2026-06-19 06:00:31",
-      "album": {
-        "name": "Modo Dif\u00edcil",
-        "url": "https://open.spotify.com/album/3kfuMuOaXbp69CayJ2kiqI"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 201461,
-      "name": "Modo Dif\u00edcil",
-      "url": "https://open.spotify.com/track/36HVLbDhXrvMTBRj6KTD31"
     },
     {
       "added_at": "2026-06-19 06:00:31",
@@ -655,6 +651,26 @@
     {
       "added_at": "2026-06-19 06:00:31",
       "album": {
+        "name": "Modo Dif\u00edcil",
+        "url": "https://open.spotify.com/album/3kfuMuOaXbp69CayJ2kiqI"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 201461,
+      "name": "Modo Dif\u00edcil",
+      "url": "https://open.spotify.com/track/36HVLbDhXrvMTBRj6KTD31"
+    },
+    {
+      "added_at": "2026-06-19 06:00:31",
+      "album": {
         "name": "100/10",
         "url": "https://open.spotify.com/album/1nwTWGhfS2GZBzhjuUr9Ww"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 158634,
       "name": "100/10",
       "url": "https://open.spotify.com/track/50uT8pGi81UxJQTersXOgF"
-    },
-    {
-      "added_at": "2026-06-19 06:00:31",
-      "album": {
-        "name": "Al Final Del D\u00eda",
-        "url": "https://open.spotify.com/album/3b7fTYz6N1uu9a2Ifj51ME"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 208484,
-      "name": "Al Final Del D\u00eda",
-      "url": "https://open.spotify.com/track/6VBGFvNil2VJuZtYseebZ5"
     },
     {
       "added_at": "2026-06-19 06:00:31",
@@ -983,6 +983,22 @@
     {
       "added_at": "2026-06-19 06:00:31",
       "album": {
+        "name": "Si Las Miradas Mataran",
+        "url": "https://open.spotify.com/album/2YSx52WRNoGQRyfbdG69IQ"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "Si Las Miradas Mataran",
+      "url": "https://open.spotify.com/track/45VBtZ50ERPzMohDRPjoDm"
+    },
+    {
+      "added_at": "2026-06-19 06:00:31",
+      "album": {
         "name": "Un Vals",
         "url": "https://open.spotify.com/album/5K0BYODFTljTcOLGOwBZJX"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 201000,
       "name": "Baddie",
       "url": "https://open.spotify.com/track/0ETHntyQqLE16k0ch034EQ"
-    },
-    {
-      "added_at": "2026-06-19 06:00:31",
-      "album": {
-        "name": "Si Las Miradas Mataran",
-        "url": "https://open.spotify.com/album/2YSx52WRNoGQRyfbdG69IQ"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Si Las Miradas Mataran",
-      "url": "https://open.spotify.com/track/45VBtZ50ERPzMohDRPjoDm"
     },
     {
       "added_at": "2026-06-19 06:00:31",
@@ -1307,6 +1307,26 @@
     {
       "added_at": "2026-06-19 06:00:31",
       "album": {
+        "name": "Injusto - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5vZ13fB8CvXLBIpFTFPLkE"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 284336,
+      "name": "Injusto - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/10nKyJBzqs6RqvBGxZpcbd"
+    },
+    {
+      "added_at": "2026-06-19 06:00:31",
+      "album": {
         "name": "Eso Si Es De Gangster",
         "url": "https://open.spotify.com/album/5DyoeBkxYOgCrA2TpCvJKL"
       },
@@ -1327,26 +1347,6 @@
       "duration_ms": 198361,
       "name": "Motelear",
       "url": "https://open.spotify.com/track/3O0qEIelB7qOCDvTRhQTP0"
-    },
-    {
-      "added_at": "2026-06-19 06:00:31",
-      "album": {
-        "name": "Injusto - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/5vZ13fB8CvXLBIpFTFPLkE"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
-        }
-      ],
-      "duration_ms": 284336,
-      "name": "Injusto - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/10nKyJBzqs6RqvBGxZpcbd"
     },
     {
       "added_at": "2026-06-19 06:00:31",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2026-06-19 06:00:31",
       "album": {
-        "name": "50/50",
-        "url": "https://open.spotify.com/album/14LepGB8kIKQCzxbKVMvdz"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 204849,
-      "name": "50/50",
-      "url": "https://open.spotify.com/track/2uBRBvEuLx0i3B1cbJLXxp"
-    },
-    {
-      "added_at": "2026-06-19 06:00:31",
-      "album": {
         "name": "No Me Pidas Un Tiempo",
         "url": "https://open.spotify.com/album/5CARWChEinGKjMDSIxV4ol"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 194782,
       "name": "No Me Pidas Un Tiempo",
       "url": "https://open.spotify.com/track/7vV6vTQGEhdfYIF9ZfFnR7"
+    },
+    {
+      "added_at": "2026-06-19 06:00:31",
+      "album": {
+        "name": "50/50",
+        "url": "https://open.spotify.com/album/14LepGB8kIKQCzxbKVMvdz"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 204849,
+      "name": "50/50",
+      "url": "https://open.spotify.com/track/2uBRBvEuLx0i3B1cbJLXxp"
     }
   ],
   "unique_name": "Top M\u00e9xico",

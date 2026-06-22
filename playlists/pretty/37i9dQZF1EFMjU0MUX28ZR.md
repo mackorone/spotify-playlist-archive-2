@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 | 67 | [Bite My Tongue](https://open.spotify.com/track/7cPgNZHPJixQLcCqlJye8E) | [Party Pupils](https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Bite My Tongue](https://open.spotify.com/album/4RagY5sJpWmzVtOOYKRoj8) | 2:47 |
 | 68 | [Distance](https://open.spotify.com/track/5HrHaeqSvIviQAmCZaPejd) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [Evan Blair](https://open.spotify.com/artist/0u2WtTXW4ljbqs0xe2Yn4f) | [Distance](https://open.spotify.com/album/0Mz3Jqxb6m7JUZsUJrN6cW) | 3:42 |
 | 69 | [Move On](https://open.spotify.com/track/5U8w6VEEWziplSyWHaQoO5) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Under The Streetlights](https://open.spotify.com/album/1CKtOvMSLqatFnR0OuYNxZ) | 3:11 |
-| 70 | [Five Past Ten](https://open.spotify.com/track/6iOQIQleZKnvWbPu9LZLnY) | [Blair](https://open.spotify.com/artist/5dllmwFsq4JlN1YK0f41Sm) | [Five Past Ten](https://open.spotify.com/album/0iEMgxSGCsUH77oJPtKFjT) | 3:31 |
-| 71 | [Holly!](https://open.spotify.com/track/4zxQeZ8bwNnYHhPqYGtl6i) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [NeverAlways \(Vol\. 2\)](https://open.spotify.com/album/3qE3tGZxXzTvhhI92csWfN) | 3:10 |
+| 70 | [Holly!](https://open.spotify.com/track/4zxQeZ8bwNnYHhPqYGtl6i) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [NeverAlways \(Vol\. 2\)](https://open.spotify.com/album/3qE3tGZxXzTvhhI92csWfN) | 3:10 |
+| 71 | [Five Past Ten](https://open.spotify.com/track/6iOQIQleZKnvWbPu9LZLnY) | [Blair](https://open.spotify.com/artist/5dllmwFsq4JlN1YK0f41Sm) | [Five Past Ten](https://open.spotify.com/album/0iEMgxSGCsUH77oJPtKFjT) | 3:31 |
 | 72 | [Strawberry Water](https://open.spotify.com/track/1VUDUqZizxZcgX6LZL8Mfp) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Problems](https://open.spotify.com/album/0cIfc3rnu2iEB4e7rRu0k3) | 2:20 |
 | 73 | [Lighting the flame](https://open.spotify.com/track/4ERY8Oze799EPY81W2sUYL) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [THE ART OF BEING A MESS](https://open.spotify.com/album/7k67om05Y9ceVrxusX2FG8) | 3:22 |
 | 74 | [Planetary](https://open.spotify.com/track/1QMG95ifE5bmg3tC39WaYv) | [Evan Blair](https://open.spotify.com/artist/0u2WtTXW4ljbqs0xe2Yn4f), [Argonaut&Wasp](https://open.spotify.com/artist/4egKcLg1EUyoap62usMj60) | [Planetary](https://open.spotify.com/album/0y2FFwmkhex0NlkVHIbZYE) | 4:55 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 | 113 | [Tactical](https://open.spotify.com/track/0K4medaHHc6OjEEgBy2qHn) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Dojo EP](https://open.spotify.com/album/3TYmNSqOycjNSMaXmG46zf) | 6:31 |
 | 114 | [Dojo](https://open.spotify.com/track/6EdpnaVhFJZGkI0th2SQwW) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Dojo EP](https://open.spotify.com/album/3TYmNSqOycjNSMaXmG46zf) | 5:03 |
 
-Snapshot ID: `AcUwkAAAAAD9wgDwQJc15TMJBOqZrL/1`
+Snapshot ID: `AcU2WAAAAAAW6XY21jzfZMwNDnFcr9Mi`

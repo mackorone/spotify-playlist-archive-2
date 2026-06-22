@@ -1,6 +1,6 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 563188,
+  "num_followers": 563180,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2026-02-27 14:15:13",
       "album": {
+        "name": "Riuh",
+        "url": "https://open.spotify.com/album/0t4RNN2t8lhd9yI9YxFHk5"
+      },
+      "artists": [
+        {
+          "name": "Feby Putri",
+          "url": "https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW"
+        }
+      ],
+      "duration_ms": 311496,
+      "name": "Usik",
+      "url": "https://open.spotify.com/track/5GgRntbjr23OK9MMST02di"
+    },
+    {
+      "added_at": "2026-02-27 14:15:13",
+      "album": {
         "name": "YURA",
         "url": "https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 262060,
       "name": "Cinta Dan Rahasia",
       "url": "https://open.spotify.com/track/4HXUMRdT6s6Am6YHcWmuib"
-    },
-    {
-      "added_at": "2026-02-27 14:15:13",
-      "album": {
-        "name": "Riuh",
-        "url": "https://open.spotify.com/album/0t4RNN2t8lhd9yI9YxFHk5"
-      },
-      "artists": [
-        {
-          "name": "Feby Putri",
-          "url": "https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW"
-        }
-      ],
-      "duration_ms": 311496,
-      "name": "Usik",
-      "url": "https://open.spotify.com/track/5GgRntbjr23OK9MMST02di"
     },
     {
       "added_at": "2026-02-27 14:15:13",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-467 songs - 23 hr 20 min
+468 songs - 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,8 @@
 | [He's a Bad Boy](https://open.spotify.com/track/16rPqhuTKqG41N4tHUGzZN) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Breaking up Is Hard to Do](https://open.spotify.com/album/2Ea6BUGbGQL8tmPmhNN1gY) | 2:22 | 2023-12-30 |  |
 | [He's in Town](https://open.spotify.com/track/6bt4wAVIw1xW7oCt6gXTUy) | [The Rockin' Berries](https://open.spotify.com/artist/6G18NLfr5luyGYgMKIupm3) | [They're in Town](https://open.spotify.com/album/5qpInSEP0qvV8XA6hsQ99i) | 2:39 | 2023-12-30 | 2025-12-21 |
 | [Heartbreaker](https://open.spotify.com/track/1yYfpshvncxodfCWjFsgbn) | [Gerald Brown](https://open.spotify.com/artist/0UBFE9knxbTF9bopaqiTqh) | [I\-35 Corridor: Rock, Blues, 80's, R&B and Funk Compilation](https://open.spotify.com/album/1IomGUBY624tyBMSOGsSri) | 4:04 | 2023-12-30 | 2026-04-23 |
-| [Heaven Is Being With You](https://open.spotify.com/track/1xFdKtl6NYdBB2IOtGeSbk) | [Jackie DeShannon](https://open.spotify.com/artist/0iVed2Qu7dmL0pIYCj1Xw8) | [What The World Needs Now Is… The Definitive Collection](https://open.spotify.com/album/6CqsSHxIQK08dnYKHmuMHO) | 2:20 | 2026-04-20 |  |
+| [Heaven Is Being with You](https://open.spotify.com/track/4DCeCxzvM8jJpIcn7IykDk) | [Jackie DeShannon](https://open.spotify.com/artist/0iVed2Qu7dmL0pIYCj1Xw8) | [JACKIE DESHANNON \- FOREVER POP HITS\(Energetic, High\-energy, Dynamic, Powerful\)](https://open.spotify.com/album/019RjZLR6f60p1NYt0CrXH) | 2:19 | 2026-06-21 |  |
+| [Heaven Is Being With You](https://open.spotify.com/track/1xFdKtl6NYdBB2IOtGeSbk) | [Jackie DeShannon](https://open.spotify.com/artist/0iVed2Qu7dmL0pIYCj1Xw8) | [What The World Needs Now Is… The Definitive Collection](https://open.spotify.com/album/6CqsSHxIQK08dnYKHmuMHO) | 2:20 | 2026-04-20 | 2026-06-22 |
 | [Help Me \(Find the Way Back to Your Heart](https://open.spotify.com/track/06bZN8p1dBhpoQZLL5BmAD) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [Andy Williams \- The Ultimate Hits Collection](https://open.spotify.com/album/5qeqn1KSQ8oEKsaEv99w3Z) | 2:16 | 2023-12-30 |  |
 | [Her Royal Majesty](https://open.spotify.com/track/1lnCcWCcHCN1uKx6toQuaA) | [James Darren, Shelley Fabares & Paul Peter](https://open.spotify.com/artist/0OD3Hhi7Dprc8AALYNHm5A) | [The Very Best of James Darren](https://open.spotify.com/album/6C145biC4F00ZZtwUcLvjt) | 2:13 | 2023-12-30 |  |
 | [Here I Am \(Singing My Way Home\)](https://open.spotify.com/track/6wLJiRkrSbqPzbNnrKSYNX) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [RESPECT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1EzytFSc1iJY6DjHR6fUMm) | 5:14 | 2026-04-24 |  |

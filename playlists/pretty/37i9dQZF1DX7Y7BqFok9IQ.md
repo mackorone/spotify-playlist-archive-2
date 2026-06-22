@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 
 > The best of modern blues rock\. Cover: The Black Keys
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,955 likes - 150 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,011 likes - 150 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 149 | [dirty claws](https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [play it pretty](https://open.spotify.com/album/7fip95aV1gjbCJBqHoa8lR) | 3:56 |
 | 150 | [Too Much Is Never Too Much](https://open.spotify.com/track/4fwvGZXHq2vYZUrO2TrESI) | [Gnarfunkel](https://open.spotify.com/artist/2mwAEuKKSnlOQouag2TUe5) | [Too Much Is Never Too Much](https://open.spotify.com/album/3bSxViAwIQ38614k0DYfPa) | 3:27 |
 
-Snapshot ID: `AAAAAG3e+91v6wUeQs9kdYPlB+TgkpjT`
+Snapshot ID: `AAAAAExrqyqXgtPgG71r7uFn8yK50gIg`

@@ -1,6 +1,6 @@
 {
   "description": "The best indie rock vibes \u2014 classic and current. ",
-  "num_followers": 2306353,
+  "num_followers": 2306240,
   "original_name": "Feel-Good Indie Rock",
   "owner": {
     "name": "Spotify",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-03-06 04:59:14",
       "album": {
-        "name": "Romance (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1eKVHMQJt9UVkuOb4gE3wy"
-      },
-      "artists": [
-        {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
-        }
-      ],
-      "duration_ms": 236245,
-      "name": "Before You I Just Forget",
-      "url": "https://open.spotify.com/track/1oVAmJ2oaHv5NWFH99jCWE"
-    },
-    {
-      "added_at": "2026-03-06 04:59:14",
-      "album": {
         "name": "It\u2019s Never Fair, Always True",
         "url": "https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 155997,
       "name": "strawberry chainsaw",
       "url": "https://open.spotify.com/track/4lAasiKJZR4CkDygazvpvB"
+    },
+    {
+      "added_at": "2026-03-06 04:59:14",
+      "album": {
+        "name": "Romance (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1eKVHMQJt9UVkuOb4gE3wy"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 236245,
+      "name": "Before You I Just Forget",
+      "url": "https://open.spotify.com/track/1oVAmJ2oaHv5NWFH99jCWE"
     },
     {
       "added_at": "2026-03-06 04:59:14",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2026-03-06 04:59:14",
       "album": {
-        "name": "Go Boy",
-        "url": "https://open.spotify.com/album/5MGppdhOf6M7mBsIWrg55E"
-      },
-      "artists": [
-        {
-          "name": "ODIE",
-          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
-        }
-      ],
-      "duration_ms": 176727,
-      "name": "Go Boy",
-      "url": "https://open.spotify.com/track/5J8ojwDIVnf6ZPwT8f32sQ"
-    },
-    {
-      "added_at": "2026-03-06 04:59:14",
-      "album": {
         "name": "New York",
         "url": "https://open.spotify.com/album/0fi5QEzJUB4aSYoRNTGqVa"
       },
@@ -2359,6 +2343,22 @@
       "duration_ms": 163264,
       "name": "New York",
       "url": "https://open.spotify.com/track/6a2HBMpj2G2wXSrgBl9ZNT"
+    },
+    {
+      "added_at": "2026-03-06 04:59:14",
+      "album": {
+        "name": "Go Boy",
+        "url": "https://open.spotify.com/album/5MGppdhOf6M7mBsIWrg55E"
+      },
+      "artists": [
+        {
+          "name": "ODIE",
+          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
+        }
+      ],
+      "duration_ms": 176727,
+      "name": "Go Boy",
+      "url": "https://open.spotify.com/track/5J8ojwDIVnf6ZPwT8f32sQ"
     },
     {
       "added_at": "2026-03-06 04:59:14",

@@ -1,6 +1,6 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 316349,
+  "num_followers": 316426,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "13",
-        "url": "https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 208266,
-      "name": "No Distance Left to Run",
-      "url": "https://open.spotify.com/track/0SaRvx9eYudSCQYNjuCQKX"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Pleased to Meet Me (Expanded)",
         "url": "https://open.spotify.com/album/2kTTz2kpR2AXtBmiIZEyyv"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 216916,
       "name": "Pets",
       "url": "https://open.spotify.com/track/5kcQEPksJHTOLQ4In5oGN2"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "13",
+        "url": "https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "No Distance Left to Run",
+      "url": "https://open.spotify.com/track/0SaRvx9eYudSCQYNjuCQKX"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Desperate Youth, Blood Thirsty Babes",
-        "url": "https://open.spotify.com/album/3a7OlM2onuyfcI0ldtbBSx"
+        "name": "Screamadelica",
+        "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
       },
       "artists": [
         {
-          "name": "TV On The Radio",
-          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+          "name": "Primal Scream",
+          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
         }
       ],
-      "duration_ms": 206986,
-      "name": "Staring at the Sun",
-      "url": "https://open.spotify.com/track/0tHRJGyVYXgZpeNlon6Zkl"
+      "duration_ms": 230533,
+      "name": "Movin' on Up",
+      "url": "https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Screamadelica",
-        "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
+        "name": "Desperate Youth, Blood Thirsty Babes",
+        "url": "https://open.spotify.com/album/3a7OlM2onuyfcI0ldtbBSx"
       },
       "artists": [
         {
-          "name": "Primal Scream",
-          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+          "name": "TV On The Radio",
+          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
         }
       ],
-      "duration_ms": 230533,
-      "name": "Movin' on Up",
-      "url": "https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj"
+      "duration_ms": 206986,
+      "name": "Staring at the Sun",
+      "url": "https://open.spotify.com/track/0tHRJGyVYXgZpeNlon6Zkl"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Return Of The Rentals",
-        "url": "https://open.spotify.com/album/41IJ0wgo3DWza5gIlJarRg"
-      },
-      "artists": [
-        {
-          "name": "The Rentals",
-          "url": "https://open.spotify.com/artist/3NmdKZUM96z7NGvL35g5PC"
-        }
-      ],
-      "duration_ms": 212266,
-      "name": "Friends of P.",
-      "url": "https://open.spotify.com/track/5NjIog0vXS0VBWa5a94vzJ"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Signals, Calls and Marches",
         "url": "https://open.spotify.com/album/3MylADAiyOAf5ddH6iiflo"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 233573,
       "name": "That's When I Reach for My Revolver",
       "url": "https://open.spotify.com/track/3bSKHihztyH9D1ZyQsoqzI"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Return Of The Rentals",
+        "url": "https://open.spotify.com/album/41IJ0wgo3DWza5gIlJarRg"
+      },
+      "artists": [
+        {
+          "name": "The Rentals",
+          "url": "https://open.spotify.com/artist/3NmdKZUM96z7NGvL35g5PC"
+        }
+      ],
+      "duration_ms": 212266,
+      "name": "Friends of P.",
+      "url": "https://open.spotify.com/track/5NjIog0vXS0VBWa5a94vzJ"
     },
     {
       "added_at": "2025-01-15 04:11:50",

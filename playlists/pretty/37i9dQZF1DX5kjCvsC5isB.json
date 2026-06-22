@@ -1,6 +1,6 @@
 {
   "description": "the bold women of rock & alternative today. Cover: The Warning",
-  "num_followers": 316750,
+  "num_followers": 316769,
   "original_name": "Fierce Femmes",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,22 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
+        "name": "Rest In Peace",
+        "url": "https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "duration_ms": 217327,
+      "name": "Rest In Peace",
+      "url": "https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
         "name": "kinda smacks",
         "url": "https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 136601,
       "name": "kinda smacks",
       "url": "https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
-        "name": "Rest In Peace",
-        "url": "https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE"
-      },
-      "artists": [
-        {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        }
-      ],
-      "duration_ms": 217327,
-      "name": "Rest In Peace",
-      "url": "https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Big Time Nothing",
-        "url": "https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 178722,
-      "name": "Big Time Nothing",
-      "url": "https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Over The Threshold",
         "url": "https://open.spotify.com/album/6j7try3OyUBLLNd0PfvWXU"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 249600,
       "name": "Over The Threshold",
       "url": "https://open.spotify.com/track/77tCZA3Fnj8OEateXdr2l3"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Big Time Nothing",
+        "url": "https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 178722,
+      "name": "Big Time Nothing",
+      "url": "https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "She\u2019s So Cool (with Pale Waves)",
-        "url": "https://open.spotify.com/album/3XLcU3IGsgZ6JwIApfrTmJ"
-      },
-      "artists": [
-        {
-          "name": "BRUSES",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        },
-        {
-          "name": "Pale Waves",
-          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "She\u2019s So Cool (with Pale Waves)",
-      "url": "https://open.spotify.com/track/2ma25BxbSTq90j64a0SP60"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Don't",
         "url": "https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 155893,
       "name": "Too Many Things",
       "url": "https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "She\u2019s So Cool (with Pale Waves)",
+        "url": "https://open.spotify.com/album/3XLcU3IGsgZ6JwIApfrTmJ"
+      },
+      "artists": [
+        {
+          "name": "BRUSES",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        },
+        {
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "She\u2019s So Cool (with Pale Waves)",
+      "url": "https://open.spotify.com/track/2ma25BxbSTq90j64a0SP60"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
+        "name": "The Pain",
+        "url": "https://open.spotify.com/album/7joUWLYVbBN7QllFU1hTsD"
+      },
+      "artists": [
+        {
+          "name": "Another Sky",
+          "url": "https://open.spotify.com/artist/08p5D6BYuwPqGsFuIDLNFr"
+        }
+      ],
+      "duration_ms": 221080,
+      "name": "The Pain",
+      "url": "https://open.spotify.com/track/7436W6cDzihQ5AJvTsa0Vw"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
         "name": "FCKN IN LOVE (Mute Choir Remix)",
         "url": "https://open.spotify.com/album/4rGngww6I50IfgUAZAnDxs"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 189818,
       "name": "FCKN IN LOVE (Mute Choir Remix)",
       "url": "https://open.spotify.com/track/7LzZoRUTE997XJlJakYyBF"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
-        "name": "The Pain",
-        "url": "https://open.spotify.com/album/7joUWLYVbBN7QllFU1hTsD"
-      },
-      "artists": [
-        {
-          "name": "Another Sky",
-          "url": "https://open.spotify.com/artist/08p5D6BYuwPqGsFuIDLNFr"
-        }
-      ],
-      "duration_ms": 221080,
-      "name": "The Pain",
-      "url": "https://open.spotify.com/track/7436W6cDzihQ5AJvTsa0Vw"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Phases",
-        "url": "https://open.spotify.com/album/12sSkOu2quogJ67DTjpX3s"
-      },
-      "artists": [
-        {
-          "name": "Marlhy",
-          "url": "https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA"
-        }
-      ],
-      "duration_ms": 169893,
-      "name": "Phases",
-      "url": "https://open.spotify.com/track/7FRlrXBo0ehkwX7CY6uuUF"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Live Your Truth Shred Some Gnar",
         "url": "https://open.spotify.com/album/5Ae3xDGRamEFOSmzdtPGGv"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 237955,
       "name": "Get with U",
       "url": "https://open.spotify.com/track/5xhXYjfrYlkd9BXPyCjn00"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Phases",
+        "url": "https://open.spotify.com/album/12sSkOu2quogJ67DTjpX3s"
+      },
+      "artists": [
+        {
+          "name": "Marlhy",
+          "url": "https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA"
+        }
+      ],
+      "duration_ms": 169893,
+      "name": "Phases",
+      "url": "https://open.spotify.com/track/7FRlrXBo0ehkwX7CY6uuUF"
     }
   ],
   "unique_name": "Fierce Femmes",

@@ -4,7 +4,7 @@
 
 > This is Story Of The Year\. The essential tracks, all in one playlist.
 
-71 songs - 4 hr 6 min
+72 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [I'm Alive](https://open.spotify.com/track/2QjfK1p1qzPCq0VRzx74hN) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Constant \(Deluxe Edition\)](https://open.spotify.com/album/5w2zfZyYBVlN3gE7ld5Zkg) | 4:15 | 2022-10-25 |  |
 | [In the Shadows](https://open.spotify.com/track/0mwgzibUcY7DE1Q09P2eL1) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Page Avenue](https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW) | 3:33 | 2022-10-25 |  |
 | [Into The Dark](https://open.spotify.com/track/3vmzd0WZcVir4OPYWgr3L5) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [A.R.S.O.N.](https://open.spotify.com/album/1Y4mInJWLEVgF3ly7Cop9d) | 3:27 | 2026-02-15 |  |
-| [Just Close Your Eyes \(Christian\)](https://open.spotify.com/track/76RksvwSv7RUYM16AAtbFu) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [WWE: The Music \- A New Day, Vol\. 10](https://open.spotify.com/album/2iKsNhYnCpBn0OXtEp1DzT) | 4:31 | 2022-10-25 |  |
+| [Just Close Your Eyes \(Christian\)](https://open.spotify.com/track/3tGnIvhC34bVSJLHWMNHHK) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [WWE: The Music \- A New Day, Vol\. 10](https://open.spotify.com/album/5bAVP3r8vFMHRSm83q4HCY) | 4:31 | 2026-06-22 |  |
+| [Just Close Your Eyes \(Christian\)](https://open.spotify.com/track/76RksvwSv7RUYM16AAtbFu) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [WWE: The Music \- A New Day, Vol\. 10](https://open.spotify.com/album/2iKsNhYnCpBn0OXtEp1DzT) | 4:31 | 2022-10-25 | 2026-06-22 |
 | [Knives Out](https://open.spotify.com/track/7MbvZUJDjIYVIdOEP2Hvko) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 3:04 | 2023-03-11 | 2023-04-02 |
 | [Miracle](https://open.spotify.com/track/0vYWk3uQezVYj9AU0yn8Mn) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Wolves](https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi) | 3:51 | 2022-10-25 |  |
 | [My Religion](https://open.spotify.com/track/6ayyblVZraNsTNd0OyINqj) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [A.R.S.O.N.](https://open.spotify.com/album/1Y4mInJWLEVgF3ly7Cop9d) | 3:08 | 2026-02-15 | 2026-02-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3p3m2k.md) - [plain]
 
 > This is Juliana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,838 likes - 49 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,842 likes - 49 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3p3m2k.md) - [plain]
 | 26 | [Cara de Idiota](https://open.spotify.com/track/4dKJDvoZ70XB4BIHMoGnAU) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [La Pista](https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil) | 3:11 |
 | 27 | [Cometa Feat\. Daniela Calle \- En Vivo](https://open.spotify.com/track/5mqYQFMbHe9NX1P8hWNZNl) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Daniela Calle](https://open.spotify.com/artist/7KpsVPUvyYUhwQaUCVNYZX) | [Cometa Feat\. Daniela Calle \(En Vivo\)](https://open.spotify.com/album/0hR2l1PUKrem5AbwJc9EJY) | 2:38 |
 | 28 | [Desde La Orilla](https://open.spotify.com/track/6JADr8YFprsEK8qczdQ01k) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Mar Adentro](https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo) | 3:58 |
-| 29 | [Corazón en Crisis](https://open.spotify.com/track/6V9ks2XCBDKtDBBEGLbA5I) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [DOS DOS DOS](https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP) | 3:28 |
+| 29 | [Cometa](https://open.spotify.com/track/2h8TbHimi3flhCt1v6536W) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [DOS DOS DOS](https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP) | 2:27 |
 | 30 | [Ausencia](https://open.spotify.com/track/4in1mmGO097Q3IYNaTZApa) | [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Siempre Fui Yo 2 \(Banda Sonora Original\)](https://open.spotify.com/album/4KAbxF4x33ZrI1PnRTZ6Lw) | 2:59 |
 | 31 | [Narices Frías](https://open.spotify.com/track/5SqOzL7GvRCJWTBmY7Kvvz) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Narices Frías](https://open.spotify.com/album/6y3zWGWXhoSPtMWC7b3C7Q) | 5:03 |
 | 32 | [YA NO SIENTO FRÍO](https://open.spotify.com/track/5pWKM3ZxK7T14uSyuxVrH5) | [Natalia Natalia](https://open.spotify.com/artist/0SY7fk6yoGlOzdUQNAueXQ), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [A Mala Hora](https://open.spotify.com/album/34TloCPADxqF8R3otAHRA6) | 3:19 |
-| 33 | [Cometa](https://open.spotify.com/track/2h8TbHimi3flhCt1v6536W) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [DOS DOS DOS](https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP) | 2:27 |
+| 33 | [Corazón en Crisis](https://open.spotify.com/track/6V9ks2XCBDKtDBBEGLbA5I) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [DOS DOS DOS](https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP) | 3:28 |
 | 34 | [Presiento](https://open.spotify.com/track/6xc4zqAPPvOr0zRaUo5tip) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Juliana](https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x) | 2:55 |
 | 35 | [Burbujas de Amor \- \(Sesión en vivo\)](https://open.spotify.com/track/2kipawZSvwFIVD0y6tT2LG) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Con las Que Crecí \(Sesión en Vivo\)](https://open.spotify.com/album/7mmgvSwgtVu8OhQNW6z0cr) | 3:22 |
 | 36 | [La Terminal](https://open.spotify.com/track/5ozNzOJeYpzIZaQc9C6jr3) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Terminal](https://open.spotify.com/album/1SrCPTPht9ws7CP1GVCt7o) | 2:58 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3p3m2k.md) - [plain]
 | 48 | [Si Quieres Marcharte Feat\. Dstance \(Cap\. 1\)](https://open.spotify.com/track/6ZuMhCPd0VP6vfjQIuJaOX) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Si Quieres Marcharte Feat\. Dstance \(Cap\. 1\)](https://open.spotify.com/album/2inN1Sd7GBOyIIDpIlkhZX) | 2:50 |
 | 49 | [Juro Feat\. Los Rumberos \(Cap\. 3\)](https://open.spotify.com/track/3VDRMczhOxenDb7GPYKy7i) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Juliana](https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x) | 4:08 |
 
-Snapshot ID: `ajSGgAAAAAD1RdmLU9JgkRVPXB7TsEo9`
+Snapshot ID: `ajXYAAAAAACW8Q5A4J6IZbWrQWgqdKTr`

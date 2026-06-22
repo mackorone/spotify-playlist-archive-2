@@ -1,12 +1,12 @@
 {
   "description": "This is Pabllo Vittar. The essential tracks, all in one playlist.",
-  "num_followers": 279940,
+  "num_followers": 279937,
   "original_name": "This Is Pabllo Vittar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAACD04a19jz3hmzqzg9egspQ",
+  "snapshot_id": "ajXYAAAAAAAb1NmhTf1LAflBC/b22xkx",
   "tracks": [
     {
       "added_at": null,
@@ -439,6 +439,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "N\u00e3o Esque\u00e7o",
+        "url": "https://open.spotify.com/album/5ZdxGjDEVczmubvGbzf5Ru"
+      },
+      "artists": [
+        {
+          "name": "Niara",
+          "url": "https://open.spotify.com/artist/1uDIjX8OKiqAM30JJdVg3l"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 185217,
+      "name": "N\u00e3o Esque\u00e7o",
+      "url": "https://open.spotify.com/track/3ycgRTqMzjmLMhWfuIKIcm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Charli",
         "url": "https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj"
       },
@@ -471,26 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Esque\u00e7o",
-        "url": "https://open.spotify.com/album/5ZdxGjDEVczmubvGbzf5Ru"
-      },
-      "artists": [
-        {
-          "name": "Niara",
-          "url": "https://open.spotify.com/artist/1uDIjX8OKiqAM30JJdVg3l"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 185217,
-      "name": "N\u00e3o Esque\u00e7o",
-      "url": "https://open.spotify.com/track/3ycgRTqMzjmLMhWfuIKIcm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Noitada",
         "url": "https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO"
       },
@@ -511,26 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SAL",
-        "url": "https://open.spotify.com/album/2QhW0MWqMoUENkeL2CFSXE"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "SAL",
-      "url": "https://open.spotify.com/track/4b5rbmik2mSrGo8IvjDUUp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Batid\u00e3o Tropical Vol. 2",
         "url": "https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 157492,
       "name": "Falta Coragem",
       "url": "https://open.spotify.com/track/2Ai0zPyvWl5BWpdv5YVguy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SAL",
+        "url": "https://open.spotify.com/album/2QhW0MWqMoUENkeL2CFSXE"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "SAL",
+      "url": "https://open.spotify.com/track/4b5rbmik2mSrGo8IvjDUUp"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Batid\u00e3o Tropical",
-        "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 167502,
-      "name": "Zap Zum",
-      "url": "https://open.spotify.com/track/7zyZ9yPXIQebb79PrMghpV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Batid\u00e3o Tropical Vol. 2",
         "url": "https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 133669,
       "name": "Rubi",
       "url": "https://open.spotify.com/track/6dIkrUW18wrp0402u2It44"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Batid\u00e3o Tropical",
+        "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 167502,
+      "name": "Zap Zum",
+      "url": "https://open.spotify.com/track/7zyZ9yPXIQebb79PrMghpV"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Batid\u00e3o Tropical",
-        "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 155597,
-      "name": "A Lua",
-      "url": "https://open.spotify.com/track/5yKXn2WXISKovZSzczhBI9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Batid\u00e3o Tropical Vol. 2",
         "url": "https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l"
       },
@@ -719,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Batid\u00e3o Tropical",
+        "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 155597,
+      "name": "A Lua",
+      "url": "https://open.spotify.com/track/5yKXn2WXISKovZSzczhBI9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AFTER",
         "url": "https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ"
       },
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Batid\u00e3o Tropical Vol. 2",
+        "url": "https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 192421,
+      "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
+      "url": "https://open.spotify.com/track/3XkzApmBofoR6p9eE4I6pI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "111 DELUXE",
         "url": "https://open.spotify.com/album/50a3b78Dxu3JENEgakhzaP"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 146543,
       "name": "Bandida (feat. Mc Mayara)",
       "url": "https://open.spotify.com/track/2VFTgZwiAdrADSLrUNHWt9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Batid\u00e3o Tropical Vol. 2",
-        "url": "https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 192421,
-      "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
-      "url": "https://open.spotify.com/track/3XkzApmBofoR6p9eE4I6pI"
     },
     {
       "added_at": null,
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Batid\u00e3o Tropical Vol. 2",
+        "url": "https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 240400,
+      "name": "Me Usa",
+      "url": "https://open.spotify.com/track/5SlyKJvJOM00wNZ5TdC8sM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pandora",
         "url": "https://open.spotify.com/album/1eHsHKConMfzho7k48pomW"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 128067,
       "name": "Garupa",
       "url": "https://open.spotify.com/track/6nmYC5NZrRjRMhyR4aHLoF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Batid\u00e3o Tropical Vol. 2",
-        "url": "https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 240400,
-      "name": "Me Usa",
-      "url": "https://open.spotify.com/track/5SlyKJvJOM00wNZ5TdC8sM"
     },
     {
       "added_at": null,

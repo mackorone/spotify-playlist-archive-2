@@ -1,12 +1,12 @@
 {
   "description": "This is Playboi Carti. The essential tracks, all in one playlist.",
-  "num_followers": 327016,
+  "num_followers": 327047,
   "original_name": "This Is Playboi Carti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAAC9e3rQAk9kyKW4S7Gh8Myj",
+  "snapshot_id": "ajXYAAAAAAC6KkL+i2/OBATkK7YCPnKD",
   "tracks": [
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALL RED",
-        "url": "https://open.spotify.com/album/3cdcIcidzGHVQW5e9qQgtx"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 148053,
-      "name": "ALL RED",
-      "url": "https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Leaks",
         "url": "https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 202162,
       "name": "Let's Do It (feat. Playboi Carti & Skooly)",
       "url": "https://open.spotify.com/track/7bhMeTchpDsG69wNmAZgzN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ALL RED",
+        "url": "https://open.spotify.com/album/3cdcIcidzGHVQW5e9qQgtx"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 148053,
+      "name": "ALL RED",
+      "url": "https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA"
     },
     {
       "added_at": null,
@@ -867,26 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mansion Musick",
-        "url": "https://open.spotify.com/album/0yhgc6S7U7pLxp0hjgPkH4"
-      },
-      "artists": [
-        {
-          "name": "Chief Keef",
-          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 166855,
-      "name": "Uh Uh - feat. Playboi Carti",
-      "url": "https://open.spotify.com/track/0C5RP61AWPA097x3vZzGKu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quality Control: Control The Streets Volume 2",
         "url": "https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 157645,
       "name": "100 Racks (Offset feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/4T2dHb8XBYHlVj7Dyo1cW9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mansion Musick",
+        "url": "https://open.spotify.com/album/0yhgc6S7U7pLxp0hjgPkH4"
+      },
+      "artists": [
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 166855,
+      "name": "Uh Uh - feat. Playboi Carti",
+      "url": "https://open.spotify.com/track/0C5RP61AWPA097x3vZzGKu"
     }
   ],
   "unique_name": "This Is Playboi Carti",

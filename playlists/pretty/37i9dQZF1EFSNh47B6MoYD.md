@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 33 | [Ni Te Vistas Que No Vas](https://open.spotify.com/track/1jkzb8dLnmTuTIHWOjQico) | [Isa Mebarak](https://open.spotify.com/artist/5Ll6dTdD1p7vJK3n2FDbN8) | [Cosa Buena](https://open.spotify.com/album/4LDEC5iNBJLx0vRsRWulyL) | 3:32 |
 | 34 | [No Soy Un Santo](https://open.spotify.com/track/4DxzM4ylCJTj9te1jWIPdG) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Poeta Herío](https://open.spotify.com/album/3e214gx6bbQgVykslGuK5F) | 2:57 |
 | 35 | [Cuando Se Ama Como Tú](https://open.spotify.com/track/5A6TF9z2XavNHuYXEJKsh0) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Cuando Se Ama Como Tú](https://open.spotify.com/album/2SfUxkmIm2CwqU9xwxQtun) | 3:51 |
-| 36 | [Mal Negocio](https://open.spotify.com/track/029npo2kAVAA4wEBqXGUSb) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Reunión \(Deluxe\)](https://open.spotify.com/album/3yIX4FmlUxf2E1UK2fURll) | 3:25 |
-| 37 | [Tempo \- Versión Español](https://open.spotify.com/track/0SIRVXaGCeLsJekmL5n7jC) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w) | [Tempo](https://open.spotify.com/album/5vmTSQN7bleXF3mlZgieli) | 2:46 |
+| 36 | [Tempo \- Versión Español](https://open.spotify.com/track/0SIRVXaGCeLsJekmL5n7jC) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w) | [Tempo](https://open.spotify.com/album/5vmTSQN7bleXF3mlZgieli) | 2:46 |
+| 37 | [Mal Negocio](https://open.spotify.com/track/029npo2kAVAA4wEBqXGUSb) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Reunión \(Deluxe\)](https://open.spotify.com/album/3yIX4FmlUxf2E1UK2fURll) | 3:25 |
 | 38 | [Perder Es Ganar](https://open.spotify.com/track/4p7IxXq8npnLl9MS98knQ6) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Cuando Se Ama Como Tú](https://open.spotify.com/album/2SfUxkmIm2CwqU9xwxQtun) | 3:27 |
 | 39 | [Cambio Y Fuera](https://open.spotify.com/track/0iWPjh1wwsIc6wwmFbeHgC) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Gloria](https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK) | 3:31 |
 | 40 | [Alguien Más](https://open.spotify.com/track/6UplHCI03dIUk2fxL1l9hq) | [Ednita Nazario](https://open.spotify.com/artist/1Lvrnoz3ZKzzrBuZ446e6P) | [Real](https://open.spotify.com/album/7AtAkhy1kqTe7EsuW2rmbf) | 4:08 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 149 | [Don't Give Up](https://open.spotify.com/track/6ARXRdPercoOClawyz2hOi) | [Ana Cristina Cash](https://open.spotify.com/artist/2R6hhNDQT8vBWQgCCmDnK0) | [The Sunshine State](https://open.spotify.com/album/5vkfBiDEnpWdpNqIW7AY37) | 4:14 |
 | 150 | [Cuarto Menguante](https://open.spotify.com/track/0jn4mbofhTz8M5iWAKFc51) | [LIZZIE BLASINI](https://open.spotify.com/artist/3U6BxnObGblB6VI1f5lvpH) | [Cuarto Menguante](https://open.spotify.com/album/3FoNl5uOXTrmILe49C1aN7) | 4:22 |
 
-Snapshot ID: `AcUwwgAAAACQ0S+lA79J5+iKyUpBx8Mq`
+Snapshot ID: `AcU2YgAAAAAdAhoIp7wd40qMNRCL3TOn`

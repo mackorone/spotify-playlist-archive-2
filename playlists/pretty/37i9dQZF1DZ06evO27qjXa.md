@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO27qjXa.md) - [plain]
 
 > This is Danny Go!\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,723 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,784 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Wiggle Dance](https://open.spotify.com/track/57qfCDMbmBzWHuVk3A9Iir) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Wiggle Dance](https://open.spotify.com/album/5cVUlWoP7MsItP5DoYfdyQ) | 3:04 |
-| 2 | [Chug Like a Train!](https://open.spotify.com/track/6xkSfdfDrw7RLT5DPRNxMF) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Chug Like a Train!](https://open.spotify.com/album/21YOTP8L3omVBhdv31YjNq) | 4:02 |
+| 1 | [Chug Like a Train!](https://open.spotify.com/track/6xkSfdfDrw7RLT5DPRNxMF) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Chug Like a Train!](https://open.spotify.com/album/21YOTP8L3omVBhdv31YjNq) | 4:02 |
+| 2 | [The Wiggle Dance](https://open.spotify.com/track/57qfCDMbmBzWHuVk3A9Iir) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Wiggle Dance](https://open.spotify.com/album/5cVUlWoP7MsItP5DoYfdyQ) | 3:04 |
 | 3 | [Sharks In The Water](https://open.spotify.com/track/4aKvFOdwJIaPgThgWZdZi8) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Sharks In The Water](https://open.spotify.com/album/2VsIoGKJLRHxcIw2B8oPEB) | 3:13 |
 | 4 | [Candy Cane Crush!](https://open.spotify.com/track/0jmbMP78lyWbm6XrHsys2U) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Candy Cane Crush!](https://open.spotify.com/album/2hYLyrESl8sozgPKE0j9s4) | 3:29 |
 | 5 | [The Robot Dance](https://open.spotify.com/track/6fwNk2mnS6TWcoY6JgQWxG) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Robot Dance](https://open.spotify.com/album/6OGrBu7bIicfKwsbTSvXGQ) | 3:12 |
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO27qjXa.md) - [plain]
 | 14 | [Gimme That Garbage!](https://open.spotify.com/track/2cyDjrEZ1cMZNWBFbK6vyG) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Gimme That Garbage!](https://open.spotify.com/album/0YD6dADYdtyrqhu3zMbNUy) | 3:21 |
 | 15 | [Playground Lullaby](https://open.spotify.com/track/5mL0a4InbyuZZAwhE4obOu) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Danny Go! Sleep Music](https://open.spotify.com/album/04fLbxdpEhCuNWIWdbaB7R) | 4:49 |
 | 16 | [Spooky Spiders Everywhere!](https://open.spotify.com/track/57LgRvOO6sDh5Mfqx4RY63) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Spooky Spiders Everywhere!](https://open.spotify.com/album/64Z3O18A2zMDcCNgPCZIJh) | 4:18 |
-| 17 | [Escape From Tiger Island! \- Jungle Adventure](https://open.spotify.com/track/3eyC4jl1SINfcVdW7yJXNP) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Escape From Tiger Island!](https://open.spotify.com/album/2B9Nqk0mkXmEr7n23dUVs8) | 4:31 |
-| 18 | [Flamingo Frenzy!](https://open.spotify.com/track/4XrKQR3F9zEik0jYbQZv1n) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Flamingo Frenzy!](https://open.spotify.com/album/3YYd0Mx451X9MMgLNe58Fa) | 5:23 |
-| 19 | [The Millipede March](https://open.spotify.com/track/6oca6aWQaiyt8mZj0ApidA) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Millipede March](https://open.spotify.com/album/0VuqUi0KwzaRyG2ig9Tgs6) | 3:12 |
+| 17 | [The Millipede March](https://open.spotify.com/track/6oca6aWQaiyt8mZj0ApidA) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Millipede March](https://open.spotify.com/album/0VuqUi0KwzaRyG2ig9Tgs6) | 3:12 |
+| 18 | [Escape From Tiger Island! \- Jungle Adventure](https://open.spotify.com/track/3eyC4jl1SINfcVdW7yJXNP) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Escape From Tiger Island!](https://open.spotify.com/album/2B9Nqk0mkXmEr7n23dUVs8) | 4:31 |
+| 19 | [Flamingo Frenzy!](https://open.spotify.com/track/4XrKQR3F9zEik0jYbQZv1n) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Flamingo Frenzy!](https://open.spotify.com/album/3YYd0Mx451X9MMgLNe58Fa) | 5:23 |
 | 20 | [Razz Ma Tazz Lullaby](https://open.spotify.com/track/3NhHZ4RuTSTrD7mG0JcLaI) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Danny Go! Sleep Music](https://open.spotify.com/album/04fLbxdpEhCuNWIWdbaB7R) | 3:29 |
 | 21 | [The Bat Wing Beat](https://open.spotify.com/track/1fFZ0TRXThCKcVCJx5LLrf) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Bat Wing Beat](https://open.spotify.com/album/48DBQhK2EEFB6cddf9DRVO) | 3:49 |
 | 22 | [Magnet Mania!](https://open.spotify.com/track/29BvKOZz1KNd0aHKNHeAjB) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Magnet Mania!](https://open.spotify.com/album/7tsgZYw4ug4VmaihnHPAQZ) | 5:41 |
@@ -42,13 +42,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO27qjXa.md) - [plain]
 | 32 | [The Monkey Dance](https://open.spotify.com/track/2CqFULRDTD6TGRTgEpEOxI) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Monkey Dance](https://open.spotify.com/album/5IHb5jK2ej5WRvL88hfVs9) | 2:22 |
 | 33 | [Package Pop!](https://open.spotify.com/track/01sDJ03maWvaItz8DzP4hK) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Package Pop!](https://open.spotify.com/album/3tdfxKVXO5V7YnFaSYShS3) | 5:08 |
 | 34 | [Ka\-Pow! 2: Attack of the Gravity Goldfish!](https://open.spotify.com/track/4Q2K0ZwwkafTcW1vwWSLOg) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Ka\-Pow! 2: Attack of the Gravity Goldfish!](https://open.spotify.com/album/06DxKoTL6ZTc8igBpiMV4t) | 7:34 |
-| 35 | [Don't Stop Digging](https://open.spotify.com/track/579J2fVS6Lw3ThTRrdSmnh) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Don't Stop Digging](https://open.spotify.com/album/7eKVI4vDBcufHLJer1yyxy) | 4:05 |
-| 36 | [Grocery Store DASH! \- Swipe and Scan](https://open.spotify.com/track/2ld6GcwMToKi6NpSA4urQF) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Grocery Store DASH!](https://open.spotify.com/album/51yipUUQPWXDyvvxkn2tkP) | 4:46 |
-| 37 | [Happy Moon](https://open.spotify.com/track/0h4XnULY4rpmAid4bNKiIQ) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Happy Moon](https://open.spotify.com/album/2uoegB0rfYELLyLU65qQwF) | 3:58 |
+| 35 | [Happy Moon](https://open.spotify.com/track/0h4XnULY4rpmAid4bNKiIQ) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Happy Moon](https://open.spotify.com/album/2uoegB0rfYELLyLU65qQwF) | 3:58 |
+| 36 | [Don't Stop Digging](https://open.spotify.com/track/579J2fVS6Lw3ThTRrdSmnh) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Don't Stop Digging](https://open.spotify.com/album/7eKVI4vDBcufHLJer1yyxy) | 4:05 |
+| 37 | [Grocery Store DASH! \- Swipe and Scan](https://open.spotify.com/track/2ld6GcwMToKi6NpSA4urQF) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Grocery Store DASH!](https://open.spotify.com/album/51yipUUQPWXDyvvxkn2tkP) | 4:46 |
 | 38 | [The Floor is Quicksand \- Pyramid Adventure](https://open.spotify.com/track/21PquaRGrYlY7MI2b9YNdr) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Floor is Quicksand \(Pyramid Adventure\)](https://open.spotify.com/album/4I8uTjGJhiMRPgyEMGGu1n) | 3:57 |
 | 39 | [The Stomp Clap Dance Song](https://open.spotify.com/track/6eUC9FU6VauzxWN7sv7CgD) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Stomp Clap Dance Song](https://open.spotify.com/album/1NzvQktWfTgwVCVE71VhaK) | 3:47 |
-| 40 | [Digging In The Dirt \- Construction Vehicles Dance](https://open.spotify.com/track/01hdETjucKH5ZrB4vkUqwV) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Digging In The Dirt \(Construction Vehicles Dance\)](https://open.spotify.com/album/37KlVr59FQRgCLnI1LSIUq) | 3:36 |
-| 41 | [The Space Race Planet Dance](https://open.spotify.com/track/5jvTizDVo08steVEiqXMbh) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Space Race Planet Dance](https://open.spotify.com/album/6d8g23NRnlaL3DJylM8x8w) | 4:00 |
+| 40 | [The Space Race Planet Dance](https://open.spotify.com/track/5jvTizDVo08steVEiqXMbh) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Space Race Planet Dance](https://open.spotify.com/album/6d8g23NRnlaL3DJylM8x8w) | 4:00 |
+| 41 | [Digging In The Dirt \- Construction Vehicles Dance](https://open.spotify.com/track/01hdETjucKH5ZrB4vkUqwV) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Digging In The Dirt \(Construction Vehicles Dance\)](https://open.spotify.com/album/37KlVr59FQRgCLnI1LSIUq) | 3:36 |
 | 42 | [Rabbit Turtle Rodeo](https://open.spotify.com/track/4q0MbjZR7Aagh3IEEzCsxN) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Rabbit Turtle Rodeo](https://open.spotify.com/album/3wHiRt7X5R2o2JnHXf1xAV) | 3:58 |
 | 43 | [The Floor is Lava 2 \- Into the Volcano](https://open.spotify.com/track/09zBhV6REwERPc3LDy1xx0) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Floor is Lava 2 \(Into the Volcano\)](https://open.spotify.com/album/5c5cttrxHIfk0MVYuXvx78) | 3:46 |
 | 44 | [The Ice King Freeze Dance](https://open.spotify.com/track/1a14fAbcmd3vwjUOHDgAXh) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Ice King Freeze Dance](https://open.spotify.com/album/6savsF7SNiPRKpzCCUqpG0) | 3:23 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO27qjXa.md) - [plain]
 | 47 | [Little Cat](https://open.spotify.com/track/0DAtPFHyXrKNhqnHqbh5hN) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Little Cat](https://open.spotify.com/album/7khTtFbmq7o0y1hrydp7VB) | 3:14 |
 | 48 | [Rainbow Disco Unicorn](https://open.spotify.com/track/5J8qbgtxKEgM8FXhLeatNm) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Rainbow Disco Unicorn](https://open.spotify.com/album/66a5wLzW596cfmq65VzSYG) | 2:58 |
 | 49 | [Math Whiz \- Addition Version](https://open.spotify.com/track/3fTXGuPQnTXh9cmjGkPTrW) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Math Whiz](https://open.spotify.com/album/7cOqy6a4SqQHtFbv907gbt) | 3:34 |
-| 50 | [Space Race \- Lullaby Version](https://open.spotify.com/track/0XR0JroNI3KATMxvQh0ETy) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Danny Go! Sleep Music, Vol\. 2 \(Lullaby Version\)](https://open.spotify.com/album/6p92UHr7NrpLtb13KO0gqe) | 7:50 |
+| 50 | [Bluey Theme \- Acapella Version](https://open.spotify.com/track/3DzlwU2KL2yyqJb5lhM1XS) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Bluey Theme \(Acapella Version\)](https://open.spotify.com/album/3eStOZlBWOOhexdhe203N0) | 1:10 |
 
-Snapshot ID: `ajSGgAAAAACJSRyLBRUVtcqbPyEbOIBq`
+Snapshot ID: `ajXYAAAAAAAUmm9/9eePLgnTKOoxDXzD`

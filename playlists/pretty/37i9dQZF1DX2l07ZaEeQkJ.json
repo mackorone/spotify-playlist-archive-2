@@ -1,6 +1,6 @@
 {
   "description": "trakas hdsptm \ud83d\udc7f\ud83d\udc79\ud83c\udf7b\ud83c\udf7e\ud83e\udee1\ud83d\udcb8",
-  "num_followers": 190137,
+  "num_followers": 190170,
   "original_name": "traka",
   "owner": {
     "name": "Spotify",
@@ -711,42 +711,6 @@
     {
       "added_at": "2025-02-14 19:20:37",
       "album": {
-        "name": "Vaquero (Remix)",
-        "url": "https://open.spotify.com/album/6BmfAaHoSJ7efARgJTLrAt"
-      },
-      "artists": [
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        },
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Andres Castillo",
-          "url": "https://open.spotify.com/artist/6swtbYCVvjJIjCb5MWaIT2"
-        },
-        {
-          "name": "La Dinastia",
-          "url": "https://open.spotify.com/artist/4HUY0hELnxz4RC6VvJzRyc"
-        },
-        {
-          "name": "Riky Produce",
-          "url": "https://open.spotify.com/artist/74mXQ4kCTwvcY9FtSrNm9c"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Vaquero - Remix",
-      "url": "https://open.spotify.com/track/7l3UuUZEqvxjhKYD2QBxOU"
-    },
-    {
-      "added_at": "2025-02-14 19:20:37",
-      "album": {
         "name": "Por Mi M\u00e9xico (Remix)",
         "url": "https://open.spotify.com/album/3p22kEU3PqsIrYWJpa9Bko"
       },
@@ -779,6 +743,42 @@
       "duration_ms": 405000,
       "name": "Por Mi M\u00e9xico (Remix)",
       "url": "https://open.spotify.com/track/2m3Fqmw1mfs39KklPmjq79"
+    },
+    {
+      "added_at": "2025-02-14 19:20:37",
+      "album": {
+        "name": "Vaquero (Remix)",
+        "url": "https://open.spotify.com/album/6BmfAaHoSJ7efARgJTLrAt"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Andres Castillo",
+          "url": "https://open.spotify.com/artist/6swtbYCVvjJIjCb5MWaIT2"
+        },
+        {
+          "name": "La Dinastia",
+          "url": "https://open.spotify.com/artist/4HUY0hELnxz4RC6VvJzRyc"
+        },
+        {
+          "name": "Riky Produce",
+          "url": "https://open.spotify.com/artist/74mXQ4kCTwvcY9FtSrNm9c"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Vaquero - Remix",
+      "url": "https://open.spotify.com/track/7l3UuUZEqvxjhKYD2QBxOU"
     },
     {
       "added_at": "2025-02-14 19:20:37",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2025-02-14 19:20:37",
       "album": {
-        "name": "Tony Montana",
-        "url": "https://open.spotify.com/album/3Mv6C4dGHRGyrXjPYEe5d2"
-      },
-      "artists": [
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        },
-        {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        }
-      ],
-      "duration_ms": 185567,
-      "name": "Tony Montana",
-      "url": "https://open.spotify.com/track/2eCJD7rEAjSt5zdV76qumQ"
-    },
-    {
-      "added_at": "2025-02-14 19:20:37",
-      "album": {
         "name": "Bling Bling",
         "url": "https://open.spotify.com/album/4LxiVBlQPYvmhx6UR4CIWy"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 162649,
       "name": "Bling Bling",
       "url": "https://open.spotify.com/track/5B8FWDSKUT5Ui1CsCfopWh"
+    },
+    {
+      "added_at": "2025-02-14 19:20:37",
+      "album": {
+        "name": "Tony Montana",
+        "url": "https://open.spotify.com/album/3Mv6C4dGHRGyrXjPYEe5d2"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "duration_ms": 185567,
+      "name": "Tony Montana",
+      "url": "https://open.spotify.com/track/2eCJD7rEAjSt5zdV76qumQ"
     },
     {
       "added_at": "2025-02-14 19:20:37",
@@ -1431,6 +1431,26 @@
     {
       "added_at": "2025-02-14 19:20:37",
       "album": {
+        "name": "Poco A Poco",
+        "url": "https://open.spotify.com/album/0Xc7skil4XnM9I2bzAtqgl"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 156040,
+      "name": "Poco A Poco",
+      "url": "https://open.spotify.com/track/4loIMejzvt11s97SGVEat8"
+    },
+    {
+      "added_at": "2025-02-14 19:20:37",
+      "album": {
         "name": "ALVRGZO",
         "url": "https://open.spotify.com/album/6ZbXdOGGsxEqOWM0WFOaF5"
       },
@@ -1451,26 +1471,6 @@
       "duration_ms": 162187,
       "name": "ALVRGZO",
       "url": "https://open.spotify.com/track/4DnhYGcizQepwr7vvvntih"
-    },
-    {
-      "added_at": "2025-02-14 19:20:37",
-      "album": {
-        "name": "Poco A Poco",
-        "url": "https://open.spotify.com/album/0Xc7skil4XnM9I2bzAtqgl"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 156040,
-      "name": "Poco A Poco",
-      "url": "https://open.spotify.com/track/4loIMejzvt11s97SGVEat8"
     },
     {
       "added_at": "2025-02-14 19:20:37",
@@ -1871,34 +1871,6 @@
     {
       "added_at": "2025-02-14 19:20:37",
       "album": {
-        "name": "Linea Del Perreo",
-        "url": "https://open.spotify.com/album/5QAA9U04wuRM8qnRbrKnOI"
-      },
-      "artists": [
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        },
-        {
-          "name": "Yeri Mua",
-          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
-        },
-        {
-          "name": "El Jordan 23",
-          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
-        },
-        {
-          "name": "Dj Kiire",
-          "url": "https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu"
-        }
-      ],
-      "duration_ms": 181137,
-      "name": "Linea Del Perreo",
-      "url": "https://open.spotify.com/track/1Aa54YEL20kiDPI6f4XGdS"
-    },
-    {
-      "added_at": "2025-02-14 19:20:37",
-      "album": {
         "name": "EXCESO",
         "url": "https://open.spotify.com/album/2j9oqldlB7MHc3MTjV3YSb"
       },
@@ -1927,6 +1899,34 @@
     {
       "added_at": "2025-02-14 19:20:37",
       "album": {
+        "name": "Linea Del Perreo",
+        "url": "https://open.spotify.com/album/5QAA9U04wuRM8qnRbrKnOI"
+      },
+      "artists": [
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        },
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        },
+        {
+          "name": "Dj Kiire",
+          "url": "https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu"
+        }
+      ],
+      "duration_ms": 181137,
+      "name": "Linea Del Perreo",
+      "url": "https://open.spotify.com/track/1Aa54YEL20kiDPI6f4XGdS"
+    },
+    {
+      "added_at": "2025-02-14 19:20:37",
+      "album": {
         "name": "Dembow Freson",
         "url": "https://open.spotify.com/album/3HnSkevqtdilqq6kWnEw7n"
       },
@@ -1939,26 +1939,6 @@
       "duration_ms": 128824,
       "name": "Dembow Freson",
       "url": "https://open.spotify.com/track/2BHYDz6p7INj1sPE9n2bK9"
-    },
-    {
-      "added_at": "2025-02-14 19:20:37",
-      "album": {
-        "name": "F*CK",
-        "url": "https://open.spotify.com/album/3qFjhIu38Fly1SXrWiD1Tq"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        }
-      ],
-      "duration_ms": 125000,
-      "name": "F*CK",
-      "url": "https://open.spotify.com/track/6e1e9WGpijrsGEDafrqmBL"
     },
     {
       "added_at": "2025-02-14 19:20:37",
@@ -1983,6 +1963,42 @@
     {
       "added_at": "2025-02-14 19:20:37",
       "album": {
+        "name": "F*CK",
+        "url": "https://open.spotify.com/album/3qFjhIu38Fly1SXrWiD1Tq"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 125000,
+      "name": "F*CK",
+      "url": "https://open.spotify.com/track/6e1e9WGpijrsGEDafrqmBL"
+    },
+    {
+      "added_at": "2025-02-14 19:20:37",
+      "album": {
+        "name": "MINIMI",
+        "url": "https://open.spotify.com/album/3T2NudFA3qcifGwgzWkQHY"
+      },
+      "artists": [
+        {
+          "name": "Bryan Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7FctMSq2t2zyod20njlcjP"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "MINIMI",
+      "url": "https://open.spotify.com/track/758S4LdiMkRdauciXJI1v7"
+    },
+    {
+      "added_at": "2025-02-14 19:20:37",
+      "album": {
         "name": "Otro Show",
         "url": "https://open.spotify.com/album/5KXm7Y71y5UX1KxDLnloGU"
       },
@@ -2003,22 +2019,6 @@
       "duration_ms": 160800,
       "name": "Otro Show",
       "url": "https://open.spotify.com/track/0uBrQT9ny21InKVEsc7lm2"
-    },
-    {
-      "added_at": "2025-02-14 19:20:37",
-      "album": {
-        "name": "MINIMI",
-        "url": "https://open.spotify.com/album/3T2NudFA3qcifGwgzWkQHY"
-      },
-      "artists": [
-        {
-          "name": "Bryan Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7FctMSq2t2zyod20njlcjP"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "MINIMI",
-      "url": "https://open.spotify.com/track/758S4LdiMkRdauciXJI1v7"
     },
     {
       "added_at": "2025-02-14 19:20:37",

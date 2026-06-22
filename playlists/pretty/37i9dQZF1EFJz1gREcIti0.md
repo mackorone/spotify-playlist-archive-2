@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3LRQHA0f13JHI5UZH2JLsz">Spencer Stewart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 790 likes - 147 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 789 likes - 147 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 19 | [More Than Enough](https://open.spotify.com/track/6Zq6Ehha3XT94zBhEhUdsF) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [It Was Divine](https://open.spotify.com/album/6aZ4ZtDzQNNIOFeHUj51No) | 2:31 |
 | 20 | [forever&more](https://open.spotify.com/track/1BzYFQWjXHLZ0c7AGJtL1Z) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk) | 2:56 |
 | 21 | [Haunted](https://open.spotify.com/track/1bx9j48IeWnDnPqcTTqT8Q) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:20 |
-| 22 | [Alone With You](https://open.spotify.com/track/7D3AvJojWNdkEWoSIwFLiE) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Alone With You](https://open.spotify.com/album/0kHOukhQ8TT7IFNyzq2DZo) | 3:46 |
-| 23 | [While You Were Sleeping](https://open.spotify.com/track/753iehfOnYSmjVfjx20znR) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 2:57 |
+| 22 | [While You Were Sleeping](https://open.spotify.com/track/753iehfOnYSmjVfjx20znR) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 2:57 |
+| 23 | [Alone With You](https://open.spotify.com/track/7D3AvJojWNdkEWoSIwFLiE) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Alone With You](https://open.spotify.com/album/0kHOukhQ8TT7IFNyzq2DZo) | 3:46 |
 | 24 | [Free Time](https://open.spotify.com/track/0fNLObXT9pvc3VED0oAevd) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Free Time](https://open.spotify.com/album/6b5iXFsc488so2TO4kUHfr) | 3:38 |
 | 25 | [What Love Will Do to You](https://open.spotify.com/track/4TvZH3MgJ1ZNBPquN2xwjK) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:51 |
 | 26 | [The Craving \- single version](https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Craving](https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI) | 2:53 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 53 | [Change My Mind](https://open.spotify.com/track/1ClklkdqMsWNvC0YdjNb1X) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Moongate](https://open.spotify.com/album/0teV5HNso0WGi7EwyASosR) | 2:54 |
 | 54 | [My Whole Life](https://open.spotify.com/track/4lKgbYUNuv7feL3FP1rFvB) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [It Was Divine](https://open.spotify.com/album/6aZ4ZtDzQNNIOFeHUj51No) | 2:42 |
 | 55 | [Clean Air](https://open.spotify.com/track/5uKnUmI97PCAT5GvX7vkWZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv) | 2:35 |
-| 56 | [Mandy](https://open.spotify.com/track/13cdHbMDnKqwKXMt37gyB2) | [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [Wish Me Luck](https://open.spotify.com/album/57UGysEyFzO6F6PQLYKRjt) | 3:05 |
-| 57 | [Cry about it! \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/2qMymtxoafC1JRtiiXUVFN) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Sincerely: P.S.](https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux) | 2:51 |
+| 56 | [Cry about it! \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/2qMymtxoafC1JRtiiXUVFN) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Sincerely: P.S.](https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux) | 2:51 |
+| 57 | [Mandy](https://open.spotify.com/track/13cdHbMDnKqwKXMt37gyB2) | [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [Wish Me Luck](https://open.spotify.com/album/57UGysEyFzO6F6PQLYKRjt) | 3:05 |
 | 58 | [Grade A \(feat\. JAWNY\)](https://open.spotify.com/track/6ek40cFUiRjxA2KrOHNfi3) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r), [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Grade A \(feat\. JAWNY\)](https://open.spotify.com/album/55yLoYwGsnb7tCg10LmKIJ) | 1:46 |
 | 59 | [Between Us](https://open.spotify.com/track/5Jqp5YuySyuTOTfFBLkY6K) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Sunbeam](https://open.spotify.com/album/5BRZHdsYHxgipEIy5Am2Ig) | 3:08 |
 | 60 | [Devil That I Know](https://open.spotify.com/track/0HmdysB9yEb1EVWe7aNIGT) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 2:50 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 74 | [better the first time](https://open.spotify.com/track/7bGrUqtsMPi9FF59gYaSXS) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [our little angel \- EP](https://open.spotify.com/album/6RIPoDTAV7hnyBAM5xrKVV) | 3:09 |
 | 75 | [Pilot](https://open.spotify.com/track/36t9gWH3NGsrjP9jlaK1Dw) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:13 |
 | 76 | [Josslyn \- Demo](https://open.spotify.com/track/02CR9rag6hSFz795H2BJIo) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Josslyn](https://open.spotify.com/album/4H3mlT00kr4bJrY80GOFnx) | 2:49 |
-| 77 | [who hurt you](https://open.spotify.com/track/6sBAlJ2mhfHHxf8XLURHSO) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk) | 3:28 |
-| 78 | [I'll Forget About You \(In Time\)](https://open.spotify.com/track/08V0Lz2ZHYPIrcBljL3fUs) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time: The Final Hour](https://open.spotify.com/album/7cbnBLsnivg6Of3MDkFPcW) | 4:12 |
+| 77 | [I'll Forget About You \(In Time\)](https://open.spotify.com/track/08V0Lz2ZHYPIrcBljL3fUs) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time: The Final Hour](https://open.spotify.com/album/7cbnBLsnivg6Of3MDkFPcW) | 4:12 |
+| 78 | [who hurt you](https://open.spotify.com/track/6sBAlJ2mhfHHxf8XLURHSO) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk) | 3:28 |
 | 79 | [life is funny](https://open.spotify.com/track/1gvnmAf6mXyT8dsZmv5y70) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk) | 3:26 |
 | 80 | [die for my bitch](https://open.spotify.com/track/4JcibCP49g3evpDtS4Ij6x) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk) | 2:53 |
 | 81 | [Watch Out for the Narcs](https://open.spotify.com/track/2mPzb3nt5M9dnQFRmNn7To) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Top Shotta](https://open.spotify.com/album/4dsMe3EBC8xURaxMhyorgf) | 3:36 |
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 146 | [Free Fall \- Edit](https://open.spotify.com/track/5rQtSoeRRO4y3d54z1Kd1f) | [Beckah Amani](https://open.spotify.com/artist/6AlUh97NNEBLo3OqYORyIi) | [Free Fall](https://open.spotify.com/album/4df4LmPcayUQczAkV63sn4) | 3:01 |
 | 147 | [Mockingbird](https://open.spotify.com/track/1AlxrPQuJNXOl3wQOXyv68) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE) | [Rave](https://open.spotify.com/album/4ETd0GtmlvoPnD8woGy2sX) | 3:28 |
 
-Snapshot ID: `AcUwkAAAAAAxsB2YlnLIQrIxd0cmcaIw`
+Snapshot ID: `AcU2MAAAAAAibP27B/205bXbuRLK+FAB`

@@ -1,6 +1,6 @@
 {
   "description": "\ud55c\uacc4\ub97c \ub6f0\uc5b4\ub118\ub294 \ub2f9\uc2e0\uc744 \uc6b4\ub3d9\uc744 \uc704\ud558\uc5ec.",
-  "num_followers": 21231,
+  "num_followers": 21232,
   "original_name": "3\ub300 1000",
   "owner": {
     "name": "Spotify",
@@ -171,18 +171,18 @@
     {
       "added_at": "2026-06-20 05:27:51",
       "album": {
-        "name": "american dream",
-        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+        "name": "WE ON GO",
+        "url": "https://open.spotify.com/album/6UMD37okfr1vtlDJ7JLitX"
       },
       "artists": [
         {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         }
       ],
-      "duration_ms": 270697,
-      "name": "redrum",
-      "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
+      "duration_ms": 168533,
+      "name": "WE ON GO",
+      "url": "https://open.spotify.com/track/01vCzM84c5JLSkG2iXC9VZ"
     },
     {
       "added_at": "2026-06-20 05:27:51",
@@ -215,18 +215,18 @@
     {
       "added_at": "2026-06-20 05:27:51",
       "album": {
-        "name": "WE ON GO",
-        "url": "https://open.spotify.com/album/6UMD37okfr1vtlDJ7JLitX"
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
       },
       "artists": [
         {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 168533,
-      "name": "WE ON GO",
-      "url": "https://open.spotify.com/track/01vCzM84c5JLSkG2iXC9VZ"
+      "duration_ms": 270697,
+      "name": "redrum",
+      "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
     },
     {
       "added_at": "2026-06-20 05:27:51",
@@ -1191,6 +1191,30 @@
     {
       "added_at": "2026-06-20 05:27:51",
       "album": {
+        "name": "My Feelings For You (Mark Knight Remix)",
+        "url": "https://open.spotify.com/album/3P4T0xEYwLZiB9xhzM0tzF"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Sebastien Drums",
+          "url": "https://open.spotify.com/artist/0lHsjYcb3lGjkJQQqC6HVt"
+        },
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        }
+      ],
+      "duration_ms": 224515,
+      "name": "My Feelings For You - Mark Knight Remix",
+      "url": "https://open.spotify.com/track/2hLczPN5CH5qhc6J4WBJHs"
+    },
+    {
+      "added_at": "2026-06-20 05:27:51",
+      "album": {
         "name": "D-Day: A Gangsta Grillz Mixtape",
         "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
       },
@@ -1219,30 +1243,6 @@
       "duration_ms": 309322,
       "name": "Stick (with JID & J. Cole feat. Kenny Mason & Sheck Wes)",
       "url": "https://open.spotify.com/track/1BzXvBpIFWJgu0P8P6xmP4"
-    },
-    {
-      "added_at": "2026-06-20 05:27:51",
-      "album": {
-        "name": "My Feelings For You (Mark Knight Remix)",
-        "url": "https://open.spotify.com/album/3P4T0xEYwLZiB9xhzM0tzF"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Sebastien Drums",
-          "url": "https://open.spotify.com/artist/0lHsjYcb3lGjkJQQqC6HVt"
-        },
-        {
-          "name": "Mark Knight",
-          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
-        }
-      ],
-      "duration_ms": 224515,
-      "name": "My Feelings For You - Mark Knight Remix",
-      "url": "https://open.spotify.com/track/2hLczPN5CH5qhc6J4WBJHs"
     },
     {
       "added_at": "2026-06-20 05:27:51",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-06-20 05:27:51",
       "album": {
-        "name": "Show Me The Money 12 Semi Final",
-        "url": "https://open.spotify.com/album/4mj2mIydZYvONlklytC17S"
-      },
-      "artists": [
-        {
-          "name": "HAON",
-          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "ON to the next (Prod. by Crush, ZICO)",
-      "url": "https://open.spotify.com/track/63JNA2B4qHmoedZCthpo0e"
-    },
-    {
-      "added_at": "2026-06-20 05:27:51",
-      "album": {
         "name": "prada dem (feat. Offset)",
         "url": "https://open.spotify.com/album/2hTlK2bJqMK4LrFvzcxPKY"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 165346,
       "name": "prada dem (feat. Offset)",
       "url": "https://open.spotify.com/track/0ZBg0OsGKgZajDgFtryiz7"
+    },
+    {
+      "added_at": "2026-06-20 05:27:51",
+      "album": {
+        "name": "Show Me The Money 12 Semi Final",
+        "url": "https://open.spotify.com/album/4mj2mIydZYvONlklytC17S"
+      },
+      "artists": [
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "ON to the next (Prod. by Crush, ZICO)",
+      "url": "https://open.spotify.com/track/63JNA2B4qHmoedZCthpo0e"
     },
     {
       "added_at": "2026-06-20 05:27:51",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-06-20 05:27:51",
       "album": {
-        "name": "Yarrr",
-        "url": "https://open.spotify.com/album/2xMOUARfRlDtpJD1PlCNtQ"
-      },
-      "artists": [
-        {
-          "name": "HAON",
-          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
-        }
-      ],
-      "duration_ms": 166999,
-      "name": "Yarrr",
-      "url": "https://open.spotify.com/track/4BT0LtYtDN8bBaCPN0CPo1"
-    },
-    {
-      "added_at": "2026-06-20 05:27:51",
-      "album": {
         "name": "Show Me The Money 12 Episode 2",
         "url": "https://open.spotify.com/album/1rLmqXt57Fcdp6MCVhAgTJ"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 221197,
       "name": "EMERGENCY (Feat. J-Tong) (Prod. by Hukky Shibaseki)",
       "url": "https://open.spotify.com/track/4sKfiEkA7eCO0aztGv7kY7"
+    },
+    {
+      "added_at": "2026-06-20 05:27:51",
+      "album": {
+        "name": "Yarrr",
+        "url": "https://open.spotify.com/album/2xMOUARfRlDtpJD1PlCNtQ"
+      },
+      "artists": [
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        }
+      ],
+      "duration_ms": 166999,
+      "name": "Yarrr",
+      "url": "https://open.spotify.com/track/4BT0LtYtDN8bBaCPN0CPo1"
     },
     {
       "added_at": "2026-06-20 05:27:51",
@@ -1903,30 +1903,6 @@
     {
       "added_at": "2026-06-20 05:27:51",
       "album": {
-        "name": "Show Me The Money 12 Episode 2",
-        "url": "https://open.spotify.com/album/1rLmqXt57Fcdp6MCVhAgTJ"
-      },
-      "artists": [
-        {
-          "name": "Lil Moshpit",
-          "url": "https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy"
-        },
-        {
-          "name": "ZENE THE ZILLA",
-          "url": "https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN"
-        },
-        {
-          "name": "JUSTHIS",
-          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "MR. ROCKLEE (Feat. JUSTHIS) (Prod. by Lil Moshpit)",
-      "url": "https://open.spotify.com/track/3MC7fwjrvN8Qz4Ky9L45qy"
-    },
-    {
-      "added_at": "2026-06-20 05:27:51",
-      "album": {
         "name": "Dandelion",
         "url": "https://open.spotify.com/album/6YPTwr9e07jNzBJgXbmoQZ"
       },
@@ -1947,22 +1923,26 @@
     {
       "added_at": "2026-06-20 05:27:51",
       "album": {
-        "name": "Show Me The Money 12 Semi Final",
-        "url": "https://open.spotify.com/album/4mj2mIydZYvONlklytC17S"
+        "name": "Show Me The Money 12 Episode 2",
+        "url": "https://open.spotify.com/album/1rLmqXt57Fcdp6MCVhAgTJ"
       },
       "artists": [
         {
-          "name": "NOWIMYOUNG",
-          "url": "https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G"
+          "name": "Lil Moshpit",
+          "url": "https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy"
         },
         {
-          "name": "E SENS",
-          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
+          "name": "ZENE THE ZILLA",
+          "url": "https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN"
+        },
+        {
+          "name": "JUSTHIS",
+          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
         }
       ],
-      "duration_ms": 283298,
-      "name": "Animal (Feat. E SENS) (Prod. by Hukky Shibaseki)",
-      "url": "https://open.spotify.com/track/7IbvjT2EMzYFDUiu0VpkuN"
+      "duration_ms": 211000,
+      "name": "MR. ROCKLEE (Feat. JUSTHIS) (Prod. by Lil Moshpit)",
+      "url": "https://open.spotify.com/track/3MC7fwjrvN8Qz4Ky9L45qy"
     },
     {
       "added_at": "2026-06-20 05:27:51",
@@ -2007,26 +1987,22 @@
     {
       "added_at": "2026-06-20 05:27:51",
       "album": {
-        "name": "NOVA (feat. Gaeko & Royal 44)",
-        "url": "https://open.spotify.com/album/5U5jWaaftyPBNoXMSlRxiL"
+        "name": "Show Me The Money 12 Semi Final",
+        "url": "https://open.spotify.com/album/4mj2mIydZYvONlklytC17S"
       },
       "artists": [
         {
-          "name": "MINGI",
-          "url": "https://open.spotify.com/artist/3ZHodgUsqkIUsek6ke65bO"
+          "name": "NOWIMYOUNG",
+          "url": "https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G"
         },
         {
-          "name": "Gaeko",
-          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
-        },
-        {
-          "name": "Royal 44",
-          "url": "https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC"
+          "name": "E SENS",
+          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
         }
       ],
-      "duration_ms": 170854,
-      "name": "NOVA (feat. Gaeko & Royal 44)",
-      "url": "https://open.spotify.com/track/7dibrsiKT2BiZHvuVtBqdY"
+      "duration_ms": 283298,
+      "name": "Animal (Feat. E SENS) (Prod. by Hukky Shibaseki)",
+      "url": "https://open.spotify.com/track/7IbvjT2EMzYFDUiu0VpkuN"
     },
     {
       "added_at": "2026-06-20 05:27:51",
@@ -2059,6 +2035,26 @@
       "duration_ms": 201106,
       "name": "SHALALA",
       "url": "https://open.spotify.com/track/2gAX00D7NOBKdcKbOXdpFR"
+    },
+    {
+      "added_at": "2026-06-20 05:27:51",
+      "album": {
+        "name": "Street Man Fighter Original Vol.3 (Mission by Rank)",
+        "url": "https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP"
+      },
+      "artists": [
+        {
+          "name": "YOON MIRAE",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 189373,
+      "name": "LAW (Prod. Czaer)",
+      "url": "https://open.spotify.com/track/0VES0jpNQEdRpD31gYDIMe"
     }
   ],
   "unique_name": "3\ub300 1000",

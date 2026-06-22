@@ -1,6 +1,6 @@
 {
   "description": "lay back. chill out. ",
-  "num_followers": 224134,
+  "num_followers": 224163,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-06-19 04:00:31",
       "album": {
-        "name": "Even Closer",
-        "url": "https://open.spotify.com/album/7KgzSaFHNmywgJTxBcY3zw"
-      },
-      "artists": [
-        {
-          "name": "Goapele",
-          "url": "https://open.spotify.com/artist/5cgtn5YWC3Fr06wTps1dBq"
-        }
-      ],
-      "duration_ms": 229693,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/2UXEwIOtNGUUgGdXnds8V7"
-    },
-    {
-      "added_at": "2026-06-19 04:00:31",
-      "album": {
         "name": "Rufus Featuring Chaka Khan",
         "url": "https://open.spotify.com/album/3iWfRfxjYYQFN2Kvh3GuYX"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 200146,
       "name": "Sweet Thing",
       "url": "https://open.spotify.com/track/0bqZnsPz4klg5TuWGcKb34"
+    },
+    {
+      "added_at": "2026-06-19 04:00:31",
+      "album": {
+        "name": "Even Closer",
+        "url": "https://open.spotify.com/album/7KgzSaFHNmywgJTxBcY3zw"
+      },
+      "artists": [
+        {
+          "name": "Goapele",
+          "url": "https://open.spotify.com/artist/5cgtn5YWC3Fr06wTps1dBq"
+        }
+      ],
+      "duration_ms": 229693,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2UXEwIOtNGUUgGdXnds8V7"
     },
     {
       "added_at": "2026-06-19 04:00:31",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-06-19 04:00:31",
       "album": {
-        "name": "Trilogy",
-        "url": "https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 196360,
-      "name": "What You Need",
-      "url": "https://open.spotify.com/track/7IpDQcksaT8SxS7vOX4SRm"
-    },
-    {
-      "added_at": "2026-06-19 04:00:31",
-      "album": {
         "name": "I Want You (Deluxe Edition)",
         "url": "https://open.spotify.com/album/28nUWsyczStUhYKXTY1IoW"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 274400,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/2gmWJA9oF4GD2Vw5QoRqu1"
+    },
+    {
+      "added_at": "2026-06-19 04:00:31",
+      "album": {
+        "name": "Trilogy",
+        "url": "https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 196360,
+      "name": "What You Need",
+      "url": "https://open.spotify.com/track/7IpDQcksaT8SxS7vOX4SRm"
     },
     {
       "added_at": "2026-06-19 04:00:31",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-06-19 04:00:31",
       "album": {
-        "name": "Doctrine of Love",
-        "url": "https://open.spotify.com/album/0k0sjLVPQXuItNsNNnht9l"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 200573,
-      "name": "Doctrine of Love",
-      "url": "https://open.spotify.com/track/0CJHyugq95CyGnDcau66cU"
-    },
-    {
-      "added_at": "2026-06-19 04:00:31",
-      "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 239093,
       "name": "By Your Side (Neptunes Remix) - Remastered",
       "url": "https://open.spotify.com/track/3kprgvuvboBSSrLz9qI4Yt"
+    },
+    {
+      "added_at": "2026-06-19 04:00:31",
+      "album": {
+        "name": "Doctrine of Love",
+        "url": "https://open.spotify.com/album/0k0sjLVPQXuItNsNNnht9l"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 200573,
+      "name": "Doctrine of Love",
+      "url": "https://open.spotify.com/track/0CJHyugq95CyGnDcau66cU"
     },
     {
       "added_at": "2026-06-19 04:00:31",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2026-06-19 04:00:31",
       "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 279360,
+      "name": "Can U Handle It?",
+      "url": "https://open.spotify.com/track/6gRGMnzrsAY5Fl2byZf2jd"
+    },
+    {
+      "added_at": "2026-06-19 04:00:31",
+      "album": {
         "name": "Bloom (feat. Strings From Paris)",
         "url": "https://open.spotify.com/album/06hyNaRnnj4Byzh8IqyZQW"
       },
@@ -1251,18 +1267,18 @@
     {
       "added_at": "2026-06-19 04:00:31",
       "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+        "name": "1st Born Second",
+        "url": "https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77"
       },
       "artists": [
         {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+          "name": "Bilal",
+          "url": "https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs"
         }
       ],
-      "duration_ms": 279360,
-      "name": "Can U Handle It?",
-      "url": "https://open.spotify.com/track/6gRGMnzrsAY5Fl2byZf2jd"
+      "duration_ms": 318666,
+      "name": "Soul Sista",
+      "url": "https://open.spotify.com/track/1eetzMDPNpYSZOreBw7SSk"
     },
     {
       "added_at": "2026-06-19 04:00:31",
@@ -1283,22 +1299,6 @@
       "duration_ms": 160000,
       "name": "\"You hate Jazz?\"",
       "url": "https://open.spotify.com/track/3tq1hLwEtiAJ7Cr9ghjshV"
-    },
-    {
-      "added_at": "2026-06-19 04:00:31",
-      "album": {
-        "name": "1st Born Second",
-        "url": "https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77"
-      },
-      "artists": [
-        {
-          "name": "Bilal",
-          "url": "https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs"
-        }
-      ],
-      "duration_ms": 318666,
-      "name": "Soul Sista",
-      "url": "https://open.spotify.com/track/1eetzMDPNpYSZOreBw7SSk"
     },
     {
       "added_at": "2026-06-19 04:00:31",

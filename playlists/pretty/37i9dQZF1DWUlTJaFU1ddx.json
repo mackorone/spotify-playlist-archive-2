@@ -1,6 +1,6 @@
 {
   "description": "The sweet sounds of Jordan.",
-  "num_followers": 32734,
+  "num_followers": 32737,
   "original_name": "Jordan Sounds",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,22 @@
     {
       "added_at": "2024-12-21 19:38:19",
       "album": {
+        "name": "\u0644\u0627 \u062a\u063a\u0645\u0632\u064a\u0646\u064a",
+        "url": "https://open.spotify.com/album/3KVMPfIaR2QTJIguyhdnxh"
+      },
+      "artists": [
+        {
+          "name": "Laith Abu Joda",
+          "url": "https://open.spotify.com/artist/409IHz2Yvi1kdUmrjein3m"
+        }
+      ],
+      "duration_ms": 178912,
+      "name": "\u0644\u0627 \u062a\u063a\u0645\u0632\u064a\u0646\u064a",
+      "url": "https://open.spotify.com/track/3XknoC28vtiUyutxsG9ul6"
+    },
+    {
+      "added_at": "2024-12-21 19:38:19",
+      "album": {
         "name": "Balak",
         "url": "https://open.spotify.com/album/2I2lamkjFbeLFLUEcH8SAc"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 184800,
       "name": "Balak",
       "url": "https://open.spotify.com/track/5x7LMsSBWbQlLnmxF3U5PC"
-    },
-    {
-      "added_at": "2024-12-21 19:38:19",
-      "album": {
-        "name": "\u0644\u0627 \u062a\u063a\u0645\u0632\u064a\u0646\u064a",
-        "url": "https://open.spotify.com/album/3KVMPfIaR2QTJIguyhdnxh"
-      },
-      "artists": [
-        {
-          "name": "Laith Abu Joda",
-          "url": "https://open.spotify.com/artist/409IHz2Yvi1kdUmrjein3m"
-        }
-      ],
-      "duration_ms": 178912,
-      "name": "\u0644\u0627 \u062a\u063a\u0645\u0632\u064a\u0646\u064a",
-      "url": "https://open.spotify.com/track/3XknoC28vtiUyutxsG9ul6"
     },
     {
       "added_at": "2024-12-21 19:38:19",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-12-21 19:38:19",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/3JNS9fh8RFw3N86GCCbZp6"
-      },
-      "artists": [
-        {
-          "name": "zeyne",
-          "url": "https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf"
-        }
-      ],
-      "duration_ms": 199333,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/4ktzD6OYjb2u2kqfecXK79"
-    },
-    {
-      "added_at": "2024-12-21 19:38:19",
-      "album": {
         "name": "Awlaweeti",
         "url": "https://open.spotify.com/album/3a2OXlPWjiG2nlTMtgrMrT"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 218677,
       "name": "Awlaweeti",
       "url": "https://open.spotify.com/track/0BjeDBqH1MeHMqYUWjCqGe"
+    },
+    {
+      "added_at": "2024-12-21 19:38:19",
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/3JNS9fh8RFw3N86GCCbZp6"
+      },
+      "artists": [
+        {
+          "name": "zeyne",
+          "url": "https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf"
+        }
+      ],
+      "duration_ms": 199333,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/4ktzD6OYjb2u2kqfecXK79"
     },
     {
       "added_at": "2024-12-21 19:38:19",
@@ -783,8 +783,8 @@
     {
       "added_at": "2024-12-21 19:38:19",
       "album": {
-        "name": "Hala O Ghala",
-        "url": "https://open.spotify.com/album/74vATKQHUWKVc4T7uYLK3n"
+        "name": "Ammal Tehlaw",
+        "url": "https://open.spotify.com/album/1GOZ3S72ib2ZU1MjpeRy42"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO"
         }
       ],
-      "duration_ms": 211282,
-      "name": "Hala O Ghala",
-      "url": "https://open.spotify.com/track/1DJ2pwtprG3edEU2pbVVDi"
+      "duration_ms": 189870,
+      "name": "Ammal Tehlaw",
+      "url": "https://open.spotify.com/track/1hUZU0lCce1QzcaqWjwWiE"
     },
     {
       "added_at": "2024-12-21 19:38:19",
@@ -863,8 +863,8 @@
     {
       "added_at": "2024-12-21 19:38:19",
       "album": {
-        "name": "Ammal Tehlaw",
-        "url": "https://open.spotify.com/album/1GOZ3S72ib2ZU1MjpeRy42"
+        "name": "Hala O Ghala",
+        "url": "https://open.spotify.com/album/74vATKQHUWKVc4T7uYLK3n"
       },
       "artists": [
         {
@@ -872,9 +872,9 @@
           "url": "https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO"
         }
       ],
-      "duration_ms": 189870,
-      "name": "Ammal Tehlaw",
-      "url": "https://open.spotify.com/track/1hUZU0lCce1QzcaqWjwWiE"
+      "duration_ms": 211282,
+      "name": "Hala O Ghala",
+      "url": "https://open.spotify.com/track/1DJ2pwtprG3edEU2pbVVDi"
     },
     {
       "added_at": "2024-12-21 19:38:19",

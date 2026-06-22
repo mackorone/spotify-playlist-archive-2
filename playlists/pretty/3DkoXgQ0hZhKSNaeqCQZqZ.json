@@ -1,13 +1,29 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 1136,
+  "num_followers": 1138,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAFXNHFoKkPcoq05OjniB386e3y+jLx",
+  "snapshot_id": "AAAFXcEbrS+RbnFybZrkKi58DGLEVTQY",
   "tracks": [
+    {
+      "added_at": "2026-06-21 07:18:50",
+      "album": {
+        "name": "Say The Words",
+        "url": "https://open.spotify.com/album/7KkEQMbrmpVsXzUtbrMYyO"
+      },
+      "artists": [
+        {
+          "name": "GABUISLOST",
+          "url": "https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH"
+        }
+      ],
+      "duration_ms": 217879,
+      "name": "Say The Words",
+      "url": "https://open.spotify.com/track/5zpo6JR8D1lO7iuypju0ZB"
+    },
     {
       "added_at": "2026-06-16 22:17:32",
       "album": {

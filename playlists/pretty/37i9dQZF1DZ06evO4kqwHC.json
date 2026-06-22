@@ -1,12 +1,12 @@
 {
   "description": "This is Foo Fighters. The essential tracks, all in one playlist.",
-  "num_followers": 1108441,
+  "num_followers": 1108533,
   "original_name": "This Is Foo Fighters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAAAYVY9GA5pnSXWTtIvSE8l4",
+  "snapshot_id": "ajXYAAAAAACgIqEZLRofIEM2g1OaXkLw",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Foo Fighters",
-        "url": "https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 232533,
-      "name": "I'll Stick Around",
-      "url": "https://open.spotify.com/track/4LGKzrdEeBwR9UHCGlDT0W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Colour And The Shape",
         "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 248266,
       "name": "Hey, Johnny Park!",
       "url": "https://open.spotify.com/track/0M5xRyxGpFFDfzN2x0wdpH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Foo Fighters",
+        "url": "https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 232533,
+      "name": "I'll Stick Around",
+      "url": "https://open.spotify.com/track/4LGKzrdEeBwR9UHCGlDT0W"
     },
     {
       "added_at": null,

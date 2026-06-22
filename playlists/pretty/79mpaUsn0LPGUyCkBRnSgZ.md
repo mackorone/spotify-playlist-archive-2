@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 728 songs - 1 day 22 hr 53 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 729 songs - 1 day 22 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -736,5 +736,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 726 | [Going for the One \- 2008 Remaster](https://open.spotify.com/track/0iKQH7ZPkxWGBNL0XFvBAb) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [Going for the One](https://open.spotify.com/album/5D6az0bHFbVbBpWEqnXeCj) | 5:32 |
 | 727 | [太陽とダァリヤ\(2021 Remastered\)](https://open.spotify.com/track/1kVfpUDx3ofFV71kPQZYQx) | [ワールドスタンダード](https://open.spotify.com/artist/5RptDaZ5MAjH5IYykyt3DI) | [WORLD STANDARD（2021 Remastered）](https://open.spotify.com/album/4MUXGPluCvXfqz943sE7Oc) | 3:48 |
 | 728 | [Stadiums and Shrines II](https://open.spotify.com/track/1i0xJdgk6OZnBm63kMidof) | [Sunset Rubdown](https://open.spotify.com/artist/4kmq4NmMAD2EB24v6Il3qr), [Spencer Krug](https://open.spotify.com/artist/57ebZKL4lpVlngdaBDuQYG) | [Shut Up I Am Dreaming](https://open.spotify.com/album/0gCDLm62qhfpyBicm0AFsh) | 3:57 |
+| 729 | ['66: Wonder Where I'm From](https://open.spotify.com/track/2cG5SteTq3agEiGzoXOa14) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [50 Song Memoir](https://open.spotify.com/album/2b3JjOvKw9UN47ND80Tvri) | 2:44 |
 
-Snapshot ID: `AAAJMPE9LF5n6FlSGHi4kSOxlJ3flCu7`
+Snapshot ID: `AAAJMU6iBy06KWiRmC1iUFhawoAsa0CV`

@@ -4,7 +4,7 @@
 
 > Songs you love right now
 
-588 songs - 1 day 8 hr 54 min
+590 songs - 1 day 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,7 @@
 | [Hideaway](https://open.spotify.com/track/5LeexkAfmyLN5kPBg53SoI) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Light hit my face like a straight right](https://open.spotify.com/album/50zspfq3s6XeqRF25SL6IK) | 2:57 | 2025-02-27 | 2025-04-20 |
 | [Hideaway](https://open.spotify.com/track/6whwQsAorYI2N8iFLWUhfb) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Light hit my face like a straight right](https://open.spotify.com/album/7MCnchlvwkuXpl9ltALktP) | 2:57 | 2025-12-16 | 2025-12-23 |
 | [History Maker](https://open.spotify.com/track/6XUQElkODYTnMXjmUDD0G6) | [DEAN FUJIOKA](https://open.spotify.com/artist/59m6Auk4r76d16XDpOznCY) | [Stars of the Lid](https://open.spotify.com/album/4KsWTElvGlR40InOGT9QrG) | 3:13 | 2024-07-09 | 2024-09-04 |
-| [Hit the Wall](https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Hit the Wall](https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ) | 3:14 | 2026-06-18 |  |
+| [Hit the Wall](https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Hit the Wall](https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ) | 3:14 | 2026-06-18 | 2026-06-22 |
 | [Hocus Pocus](https://open.spotify.com/track/4SLDGKjU79rLXfSDWsUFXt) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [Light hit my face like a straight right](https://open.spotify.com/album/50zspfq3s6XeqRF25SL6IK) | 3:13 | 2025-08-01 | 2025-12-14 |
 | [Hocus Pocus](https://open.spotify.com/track/7ApkuSWiIH7CWC9XeTirHu) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [Light hit my face like a straight right](https://open.spotify.com/album/7MCnchlvwkuXpl9ltALktP) | 3:13 | 2025-12-13 | 2026-01-15 |
 | [Honey](https://open.spotify.com/track/4qmFC3Jz5aQ0erlk2OSi2X) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:01 | 2025-10-08 | 2025-12-20 |
@@ -317,6 +317,7 @@
 | [Love You Back](https://open.spotify.com/track/5wM6LOw2U6XeIFHfsgI6wU) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Love You Back](https://open.spotify.com/album/3RfQXBQeOMWJPwsy4BO2Na) | 3:34 | 2025-02-21 | 2025-02-28 |
 | [LOVE\. FEAT\. ZACARI.](https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 3:33 | 2024-07-09 | 2024-08-31 |
 | [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd) | 3:27 | 2025-05-21 | 2025-07-20 |
+| [LoveGame](https://open.spotify.com/track/0TcJ7QWpggdSg8t0fHThHm) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) | 3:36 | 2026-06-21 |  |
 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 | 2024-09-23 | 2024-11-04 |
 | [Mad](https://open.spotify.com/track/4NONTWamwnOVRi0qk6B8hf) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:54 | 2025-08-04 | 2025-11-14 |
 | [Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:40 | 2024-06-24 | 2025-02-05 |
@@ -527,7 +528,7 @@
 | [Things I'll Never Say](https://open.spotify.com/track/3nH2w4Q9yths31lC9C26fT) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 3:43 | 2024-09-03 | 2024-10-02 |
 | [Thinking 'bout You](https://open.spotify.com/track/6pxf2SRlRfBwnQKcUZCm2s) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Thinking 'bout You](https://open.spotify.com/album/6k4bQKHw4hU7spl0fobR63) | 2:20 | 2026-02-04 | 2026-03-22 |
 | [This Love \(Taylor’s Version\)](https://open.spotify.com/track/4WBEj8TeGtRPNJdOmT3WJW) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\) \[Deluxe\]](https://open.spotify.com/album/1o59UpKw81iHR0HPiSkJR0) | 4:10 | 2025-04-28 | 2025-07-20 |
-| [Timeless](https://open.spotify.com/track/0orx71B4ZvfNRrHmYiNjQt) | [Illa J](https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp) | [Yancey Boys](https://open.spotify.com/album/6VlkhAo4FIgT7FKBFbhCHm) | 3:14 | 2026-06-18 |  |
+| [Timeless](https://open.spotify.com/track/0orx71B4ZvfNRrHmYiNjQt) | [Illa J](https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp) | [Yancey Boys](https://open.spotify.com/album/6VlkhAo4FIgT7FKBFbhCHm) | 3:14 | 2026-06-18 | 2026-06-22 |
 | [Times Like These](https://open.spotify.com/track/01fzY6YKwKQ3LxCpIP6buB) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:52 | 2025-11-07 | 2025-11-23 |
 | [TIT FOR TAT](https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TIT FOR TAT](https://open.spotify.com/album/1ks1k7zln4TyBjn1CF3vCz) | 2:57 | 2025-10-08 | 2025-12-14 |
 | [TIT FOR TAT](https://open.spotify.com/track/1dByUyyoRKL99fJJ6VCQzb) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [SO CLOSE TO WHAT??? \(deluxe\)](https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ) | 2:57 | 2025-12-07 | 2026-04-03 |
@@ -582,6 +583,7 @@
 | [wipe your tears](https://open.spotify.com/track/6yiyyY81Vae0bRHGYPB1y1) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc) | 1:50 | 2025-01-26 | 2025-02-05 |
 | [Wish on an Eyelash](https://open.spotify.com/track/3vLByi1CdmNJPpTtOdKqAQ) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Butterfly Blue](https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z) | 0:58 | 2025-03-08 | 2025-03-12 |
 | [Wish You Were Sober](https://open.spotify.com/track/0kn2gu8Pd03DiYHzRvX2Xk) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 2:48 | 2024-11-03 | 2024-12-22 |
+| [Womanizer](https://open.spotify.com/track/4fixebDZAVToLbUCuEloa2) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Circus \(Deluxe Version\)](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) | 3:44 | 2026-06-21 |  |
 | [WONDER](https://open.spotify.com/track/1nJNqdhKLx2LF01wAtkH8j) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS) | 3:24 | 2024-09-23 | 2024-10-26 |
 | [Wood](https://open.spotify.com/track/5ylJtmaWPJ33cW3En7WOu0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 2:30 | 2025-10-05 | 2026-02-17 |
 | [Yellow Submarine](https://open.spotify.com/track/1tdltVUBkiBCW1C3yB4zyD) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Yellow Submarine Songtrack](https://open.spotify.com/album/0XRZpF083HqgygM0v1hQyE) | 2:39 | 2024-08-22 | 2024-08-31 |

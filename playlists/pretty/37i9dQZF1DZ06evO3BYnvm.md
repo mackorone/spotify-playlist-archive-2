@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BYnvm.md) - [plain]
 
 > This is Lola Young\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,317 likes - 47 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,343 likes - 47 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,20 +40,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BYnvm.md) - [plain]
 | 30 | [I Don't Mind](https://open.spotify.com/track/1dVzh4UqR5m6wKk8x5OXcv) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Bose x NME: C24](https://open.spotify.com/album/5KKWsXzOZnaBpGLQjJCRrD) | 1:18 |
 | 31 | [Ruin My Make Up](https://open.spotify.com/track/0hDDcANYNTgvQ2gpsBBjaZ) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Ruin My Make Up](https://open.spotify.com/album/6G0IIKFpdLDBfffVUx2HOM) | 2:50 |
 | 32 | [Stream Of Consciousness](https://open.spotify.com/track/4S6PEl7GETF22GjtgsZ19O) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [My Mind Wanders and Sometimes Leaves Completely](https://open.spotify.com/album/2cGz67xkbq20pKQpqQmzQl) | 3:21 |
-| 33 | [Pill or a Lullaby \(4AM till sunrise\)](https://open.spotify.com/track/3tobV7N1AsH5HKqXl2zrTs) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Blue \(2AM\)](https://open.spotify.com/album/6fObx5V4teMIbn52o3qTse) | 3:51 |
-| 34 | [Blind Love](https://open.spotify.com/track/1Tr2J2bbK9lS6tCs9LFoDo) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Intro](https://open.spotify.com/album/7nlnkF135vozYOVdbtEi0z) | 3:48 |
+| 33 | [Blind Love](https://open.spotify.com/track/1Tr2J2bbK9lS6tCs9LFoDo) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Intro](https://open.spotify.com/album/7nlnkF135vozYOVdbtEi0z) | 3:48 |
+| 34 | [Pill or a Lullaby \(4AM till sunrise\)](https://open.spotify.com/track/3tobV7N1AsH5HKqXl2zrTs) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Blue \(2AM\)](https://open.spotify.com/album/6fObx5V4teMIbn52o3qTse) | 3:51 |
 | 35 | [Outta My Mind pt\. 2](https://open.spotify.com/track/1oyU5HNnNiANItI7DOudPb) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx), [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Outta My Mind pt\. 2](https://open.spotify.com/album/5LSKV2loSaO06efMk8hzED) | 2:44 |
 | 36 | [Same Bed](https://open.spotify.com/track/0Khhft9qOXfvpEbg7Vn2jF) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Renaissance](https://open.spotify.com/album/1E1voIf1Str4mMaAZXegXY) | 3:45 |
-| 37 | [F\*ck](https://open.spotify.com/track/0W1e7fgHgYsDXOJreBNvpV) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/6bv6QMQ5TAFkmtTtQ5SHjS) | 2:44 |
-| 38 | [Grey And Lilac \- Intro](https://open.spotify.com/track/1TMF8DNwkbQLkBodN8Lgnu) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Intro](https://open.spotify.com/album/7nlnkF135vozYOVdbtEi0z) | 2:37 |
+| 37 | [Grey And Lilac \- Intro](https://open.spotify.com/track/1TMF8DNwkbQLkBodN8Lgnu) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Intro](https://open.spotify.com/album/7nlnkF135vozYOVdbtEi0z) | 2:37 |
+| 38 | [F\*ck](https://open.spotify.com/track/0W1e7fgHgYsDXOJreBNvpV) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/6bv6QMQ5TAFkmtTtQ5SHjS) | 2:44 |
 | 39 | [After Midnight \(1AM\)](https://open.spotify.com/track/1WtRtjgLCWvkX2kEFeOZy2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [After Midnight](https://open.spotify.com/album/4G49LgI8XdHG5Ymqq3rTfE) | 3:14 |
 | 40 | [Blue \(2AM\)](https://open.spotify.com/track/7pb7fw21xzGuBTVOriBmtX) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Blue \(2AM\)](https://open.spotify.com/album/6fObx5V4teMIbn52o3qTse) | 3:21 |
-| 41 | [None For You](https://open.spotify.com/track/2mcWClBQk8SbJpL9aMMNir) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Renaissance](https://open.spotify.com/album/1E1voIf1Str4mMaAZXegXY) | 3:32 |
-| 42 | [6 Feet Under](https://open.spotify.com/track/0ywhSj38KCaNKaKwtvXEP5) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Intro](https://open.spotify.com/album/7nlnkF135vozYOVdbtEi0z) | 3:21 |
+| 41 | [6 Feet Under](https://open.spotify.com/track/0ywhSj38KCaNKaKwtvXEP5) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Intro](https://open.spotify.com/album/7nlnkF135vozYOVdbtEi0z) | 3:21 |
+| 42 | [None For You](https://open.spotify.com/track/2mcWClBQk8SbJpL9aMMNir) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Renaissance](https://open.spotify.com/album/1E1voIf1Str4mMaAZXegXY) | 3:32 |
 | 43 | [Bad Game \(3AM\)](https://open.spotify.com/track/0YcOAHmvZRPalC3Wg8BcSm) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [After Midnight](https://open.spotify.com/album/4G49LgI8XdHG5Ymqq3rTfE) | 3:28 |
 | 44 | [Woman](https://open.spotify.com/track/4uDIbixPiFLXwhV17G1v7L) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Woman](https://open.spotify.com/album/3M2GuaPC225P4YsyKYIUew) | 2:39 |
-| 45 | [Charlie \(feat\. Lil Yachty\)](https://open.spotify.com/track/7d25e7sGPoQ0orHhKroTu3) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Charlie \(feat\. Lil Yachty\)](https://open.spotify.com/album/5P4MdgUXgsy3NWb3oi6XJT) | 4:51 |
-| 46 | [THE MAN](https://open.spotify.com/track/02xb460RUQTPNJsV726RZS) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Intro](https://open.spotify.com/album/7nlnkF135vozYOVdbtEi0z) | 3:19 |
+| 45 | [THE MAN](https://open.spotify.com/track/02xb460RUQTPNJsV726RZS) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Intro](https://open.spotify.com/album/7nlnkF135vozYOVdbtEi0z) | 3:19 |
+| 46 | [Charlie \(feat\. Lil Yachty\)](https://open.spotify.com/track/7d25e7sGPoQ0orHhKroTu3) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Charlie \(feat\. Lil Yachty\)](https://open.spotify.com/album/5P4MdgUXgsy3NWb3oi6XJT) | 4:51 |
 | 47 | [Who Woulda Thought](https://open.spotify.com/track/7qWJlnmU20sX2zQU6UkZxx) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Pier Pressure](https://open.spotify.com/album/2acy6L0ZXAGSHoW6TIVtyW) | 2:49 |
 
-Snapshot ID: `ajSGgAAAAAC12Us+Sd90No0UfwbJPq6o`
+Snapshot ID: `ajXYAAAAAACMC16QWwmWvYTRmY64o11t`

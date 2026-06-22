@@ -1030,7 +1030,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 191820,
       "name": "Ai M\u1edbi L\u00e0 K\u1ebb X\u1ea5u Xa",
       "url": "https://open.spotify.com/track/43a24qyExksHYk0gxfZqGY"
@@ -4090,7 +4090,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 306477,
       "name": "B\u1ea1n \u0110\u1eddi",
       "url": "https://open.spotify.com/track/0fGJiHH6xSUJU1MAVjxq5m"
@@ -4818,7 +4818,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 208048,
       "name": "Chuy\u1ec7n \u0110\u00f4i Ta (feat. Mu\u1ed9ii)",
       "url": "https://open.spotify.com/track/4CUvVaAYuXtvYURLFz7EIL"
@@ -7872,7 +7872,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 182351,
       "name": "D\u01b0a Chua",
       "url": "https://open.spotify.com/track/5QjIMYxulJvh8sOr0zQgTP"
@@ -7908,7 +7908,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 209560,
       "name": "D\u1ea1o B\u01b0\u1edbc H\u00f4ng K\u00f4ng 1999\uff08\u6f2b\u6b65\u9999\u6e2f1999\uff09",
       "url": "https://open.spotify.com/track/6UFXhOu5m5qd3hiKoF9Xgl"
@@ -11304,7 +11304,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 204137,
       "name": "ho\u00e1 ra\u2026",
       "url": "https://open.spotify.com/track/42AOwjuMmIN1ioyyWB60Lw"
@@ -11624,7 +11624,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 134730,
       "name": "H\u00fat v\u00e0 H\u00fat",
       "url": "https://open.spotify.com/track/04vZ4wvtdjMs35KgDIjNsG"
@@ -18476,7 +18476,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 213717,
       "name": "Night In Prague",
       "url": "https://open.spotify.com/track/0DJ0BWAlfW9h8xC5XxXEwr"
@@ -26379,6 +26379,28 @@
     },
     {
       "album": {
+        "name": "T\u00ecm Em (feat. B\u1ea3o Anh)",
+        "url": "https://open.spotify.com/album/4qCaDixeJX4LXWMZs6rVyl"
+      },
+      "artists": [
+        {
+          "name": "Hngle",
+          "url": "https://open.spotify.com/artist/7kBsX15IDun9YxuVmKCMYJ"
+        },
+        {
+          "name": "B\u1ea3o Anh",
+          "url": "https://open.spotify.com/artist/4fCHhderLwLacsIOIKgu3J"
+        }
+      ],
+      "date_added": "2026-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274589,
+      "name": "T\u00ecm Em (feat. B\u1ea3o Anh)",
+      "url": "https://open.spotify.com/track/6ELX356o21U28T73ZxruUj"
+    },
+    {
+      "album": {
         "name": "Di\u1ec7u K\u1ef3 Vi\u1ec7t Nam",
         "url": "https://open.spotify.com/album/4GKf1nFfhu47PWFWMLQgm2"
       },
@@ -27126,7 +27148,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-21",
+      "date_removed": null,
       "duration_ms": 269473,
       "name": "T\u1eebng L\u00e0 C\u1ee7a Nhau",
       "url": "https://open.spotify.com/track/5KYv3kORBKUmVEoqbRRWxt"
@@ -27694,7 +27716,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 241919,
       "name": "V\u00ec Anh \u0110\u00e2u C\u00f3 Bi\u1ebft",
       "url": "https://open.spotify.com/track/6VXVYATpQXEIoZ97NnWCmn"
@@ -28910,6 +28932,28 @@
       "duration_ms": 189111,
       "name": "Xu\u1ea5t Ph\u00e1t \u0110i\u1ec3m",
       "url": "https://open.spotify.com/track/6TOI8hhlfebwsTYRCVpRMn"
+    },
+    {
+      "album": {
+        "name": "tr\u00e1i tim b\u0103ng b\u00f3",
+        "url": "https://open.spotify.com/album/3YjTAcdJgKLFWjwinBtll8"
+      },
+      "artists": [
+        {
+          "name": "Dangrangto",
+          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
+        },
+        {
+          "name": "DONAL",
+          "url": "https://open.spotify.com/artist/3rSAej8VUifF02zpsGjsRZ"
+        }
+      ],
+      "date_added": "2026-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245040,
+      "name": "x\u01b0\u01a1ng r\u1ed3ng (intro)",
+      "url": "https://open.spotify.com/track/6CTdPSNvUYw7UjerVIkUia"
     },
     {
       "album": {

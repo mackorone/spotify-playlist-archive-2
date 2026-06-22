@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Drake",
-  "num_followers": 45089,
+  "num_followers": 45105,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
@@ -403,26 +403,6 @@
     {
       "added_at": "2026-06-19 00:01:57",
       "album": {
-        "name": "MOVIE",
-        "url": "https://open.spotify.com/album/34b2JCGkaXuPeYZk1FB4SR"
-      },
-      "artists": [
-        {
-          "name": "Sofiane Pamart",
-          "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 211885,
-      "name": "Moviestar",
-      "url": "https://open.spotify.com/track/4kmGiR8yUvjlf94arvTFLy"
-    },
-    {
-      "added_at": "2026-06-19 00:01:57",
-      "album": {
         "name": "Emeka Must Shine",
         "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 187368,
       "name": "NO SLEEP $$$ (feat. Young Jonn)",
       "url": "https://open.spotify.com/track/7ydy7ryXw7XM5QtE3bNYaW"
+    },
+    {
+      "added_at": "2026-06-19 00:01:57",
+      "album": {
+        "name": "MOVIE",
+        "url": "https://open.spotify.com/album/34b2JCGkaXuPeYZk1FB4SR"
+      },
+      "artists": [
+        {
+          "name": "Sofiane Pamart",
+          "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 211885,
+      "name": "Moviestar",
+      "url": "https://open.spotify.com/track/4kmGiR8yUvjlf94arvTFLy"
     },
     {
       "added_at": "2026-06-19 00:01:57",
@@ -923,18 +923,22 @@
     {
       "added_at": "2026-06-19 00:01:57",
       "album": {
-        "name": "Free (Deluxe)",
-        "url": "https://open.spotify.com/album/0WdkpuSc28aYFN8lZLpIKo"
+        "name": "Children of Africa",
+        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
       },
       "artists": [
         {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
         }
       ],
-      "duration_ms": 120058,
-      "name": "Mi Amor",
-      "url": "https://open.spotify.com/track/6MC1ZXXsW00TXVpzBExTfv"
+      "duration_ms": 163539,
+      "name": "MACHO (feat. NLE Choppa)",
+      "url": "https://open.spotify.com/track/4swwVMD32piZe5BwgpYRTF"
     },
     {
       "added_at": "2026-06-19 00:01:57",
@@ -955,22 +959,18 @@
     {
       "added_at": "2026-06-19 00:01:57",
       "album": {
-        "name": "Children of Africa",
-        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
+        "name": "Free (Deluxe)",
+        "url": "https://open.spotify.com/album/0WdkpuSc28aYFN8lZLpIKo"
       },
       "artists": [
         {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        },
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
         }
       ],
-      "duration_ms": 163539,
-      "name": "MACHO (feat. NLE Choppa)",
-      "url": "https://open.spotify.com/track/4swwVMD32piZe5BwgpYRTF"
+      "duration_ms": 120058,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/6MC1ZXXsW00TXVpzBExTfv"
     },
     {
       "added_at": "2026-06-19 00:01:57",

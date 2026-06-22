@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDoiPY96kwt.md) - [plain]
 
 > Every couple meets their match\. Listen to the music from BEEF Season 2, now playing on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,940 likes - 59 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,950 likes - 59 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

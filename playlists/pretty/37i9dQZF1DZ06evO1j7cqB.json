@@ -1,12 +1,12 @@
 {
   "description": "This is Bear McCreary. The essential tracks, all in one playlist.",
-  "num_followers": 11563,
+  "num_followers": 11565,
   "original_name": "This Is Bear McCreary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAACpPQm9SGSQAuidJSROJaYc",
+  "snapshot_id": "ajXYAAAAAAB+Ynt+ZqFnomonE2C65W1o",
   "tracks": [
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 200293,
-      "name": "Khazad-d\u00fbm",
-      "url": "https://open.spotify.com/track/5gai8pjmX0756SfAOPnEZE"
+      "duration_ms": 167400,
+      "name": "Bronwyn and Arondir",
+      "url": "https://open.spotify.com/track/67q04cfjHsRTvGMgy34SkC"
     },
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Godzilla: King of the Monsters (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6VQkLK6fJO8hFJmEF5dJz4"
+        "name": "The Walking Dead (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5VDBnlsmkyOlotpdRGn88D"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 154560,
-      "name": "Godzilla Main Title",
-      "url": "https://open.spotify.com/track/6EscmbDWTIP17ZgNWOqPlf"
+      "duration_ms": 49321,
+      "name": "Theme from the Walking Dead",
+      "url": "https://open.spotify.com/track/2cji350vUbvxQ9QwyL5Nkp"
     },
     {
       "added_at": null,
@@ -552,15 +552,15 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 167400,
-      "name": "Bronwyn and Arondir",
-      "url": "https://open.spotify.com/track/67q04cfjHsRTvGMgy34SkC"
+      "duration_ms": 200293,
+      "name": "Khazad-d\u00fbm",
+      "url": "https://open.spotify.com/track/5gai8pjmX0756SfAOPnEZE"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Walking Dead (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5VDBnlsmkyOlotpdRGn88D"
+        "name": "Godzilla: King of the Monsters (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6VQkLK6fJO8hFJmEF5dJz4"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 49321,
-      "name": "Theme from the Walking Dead",
-      "url": "https://open.spotify.com/track/2cji350vUbvxQ9QwyL5Nkp"
+      "duration_ms": 154560,
+      "name": "Godzilla Main Title",
+      "url": "https://open.spotify.com/track/6EscmbDWTIP17ZgNWOqPlf"
     },
     {
       "added_at": null,
@@ -631,42 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outlander: Season 8 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0FYsyYhHOFkqGUUqPR6e5e"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Raya Yarbrough",
-          "url": "https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2"
-        }
-      ],
-      "duration_ms": 239474,
-      "name": "Across the Sea and Sky (feat. Raya Yarbrough)",
-      "url": "https://open.spotify.com/track/5VDT7x8lqbBLnCslmcLTxi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 210970,
-      "name": "A Son's Path (From \"God of War Ragnar\u00f6k\" Soundtrack)",
-      "url": "https://open.spotify.com/track/0bLjwGh7rtnDZrwbmF31ge"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Outlander: Season 1, Vol. 2 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87"
       },
@@ -687,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 210970,
+      "name": "A Son's Path (From \"God of War Ragnar\u00f6k\" Soundtrack)",
+      "url": "https://open.spotify.com/track/0bLjwGh7rtnDZrwbmF31ge"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Outlander: Season 7 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/4qBiXsf6Xa71EmjOjG4iHT"
       },
@@ -699,6 +679,46 @@
       "duration_ms": 219293,
       "name": "War Is Inevitable",
       "url": "https://open.spotify.com/track/3K1n95TTbn9CLvReR9MyYc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outlander: Season 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/4ucaiMJlT2G3FCDObTbTsI"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Griogair",
+          "url": "https://open.spotify.com/artist/0a7CuqmpmugDCpDgIRoqwK"
+        }
+      ],
+      "duration_ms": 275106,
+      "name": "Moch Sa Mhadainn (feat. Griogair)",
+      "url": "https://open.spotify.com/track/1QcJb3RpR83LVjbAmO4hXB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outlander: Season 8 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0FYsyYhHOFkqGUUqPR6e5e"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Raya Yarbrough",
+          "url": "https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2"
+        }
+      ],
+      "duration_ms": 239474,
+      "name": "Across the Sea and Sky (feat. Raya Yarbrough)",
+      "url": "https://open.spotify.com/track/5VDT7x8lqbBLnCslmcLTxi"
     },
     {
       "added_at": null,
@@ -743,26 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outlander: Season 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/4ucaiMJlT2G3FCDObTbTsI"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Griogair",
-          "url": "https://open.spotify.com/artist/0a7CuqmpmugDCpDgIRoqwK"
-        }
-      ],
-      "duration_ms": 275106,
-      "name": "Moch Sa Mhadainn (feat. Griogair)",
-      "url": "https://open.spotify.com/track/1QcJb3RpR83LVjbAmO4hXB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Outlander: Season 5 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r"
       },
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Outlander: Season 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/4ucaiMJlT2G3FCDObTbTsI"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 270440,
+      "name": "White Roses of Scotland",
+      "url": "https://open.spotify.com/track/7e2Js9jadB6eTuNesmeIxh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Lord of the Rings: The Rings of Power (Season 2: Amazon Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV"
       },
@@ -815,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outlander: Season 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/4ucaiMJlT2G3FCDObTbTsI"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 270440,
-      "name": "White Roses of Scotland",
-      "url": "https://open.spotify.com/track/7e2Js9jadB6eTuNesmeIxh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Outlander: Season 5 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r"
       },
@@ -838,19 +838,11 @@
         {
           "name": "Bear McCreary",
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Richard Rankin",
-          "url": "https://open.spotify.com/artist/2Vm0leCYBMDlQItrFKcxQJ"
-        },
-        {
-          "name": "Sophie Skelton",
-          "url": "https://open.spotify.com/artist/3TNQm043dLYpNJSaK6BKob"
         }
       ],
-      "duration_ms": 105106,
-      "name": "Clementine (feat. Richard Rankin & Sophie Skelton)",
-      "url": "https://open.spotify.com/track/3bngJ81AN1cON3DgrSDcHe"
+      "duration_ms": 228600,
+      "name": "Murtagh's Oath",
+      "url": "https://open.spotify.com/track/5twcdm2xzUzGAW7VyUycaV"
     },
     {
       "added_at": null,
@@ -875,22 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lord of the Rings: The Rings of Power (Season 2: Amazon Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 160069,
-      "name": "Forgiveness Takes an Age",
-      "url": "https://open.spotify.com/track/667hyG6LZ5wlyWEusTen9s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "God of War (PlayStation Soundtrack)",
         "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
       },
@@ -907,8 +883,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outlander: Season 5 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r"
+        "name": "The Lord of the Rings: The Rings of Power (Season 2: Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV"
       },
       "artists": [
         {
@@ -916,9 +892,33 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 228600,
-      "name": "Murtagh's Oath",
-      "url": "https://open.spotify.com/track/5twcdm2xzUzGAW7VyUycaV"
+      "duration_ms": 160069,
+      "name": "Forgiveness Takes an Age",
+      "url": "https://open.spotify.com/track/667hyG6LZ5wlyWEusTen9s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outlander: Season 5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Richard Rankin",
+          "url": "https://open.spotify.com/artist/2Vm0leCYBMDlQItrFKcxQJ"
+        },
+        {
+          "name": "Sophie Skelton",
+          "url": "https://open.spotify.com/artist/3TNQm043dLYpNJSaK6BKob"
+        }
+      ],
+      "duration_ms": 105106,
+      "name": "Clementine (feat. Richard Rankin & Sophie Skelton)",
+      "url": "https://open.spotify.com/track/3bngJ81AN1cON3DgrSDcHe"
     }
   ],
   "unique_name": "This Is Bear McCreary",

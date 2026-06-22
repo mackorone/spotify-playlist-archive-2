@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/skylardigginssmith/\">Skylar Diggins-Smith</a>",
-  "num_followers": 13215,
+  "num_followers": 13218,
   "original_name": "Skylar Diggins' Taste",
   "owner": {
     "name": "Spotify",
@@ -155,6 +155,22 @@
     {
       "added_at": "2022-10-02 02:05:19",
       "album": {
+        "name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+        "url": "https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV"
+      },
+      "artists": [
+        {
+          "name": "Wu-Tang Clan",
+          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+        }
+      ],
+      "duration_ms": 252026,
+      "name": "C.R.E.A.M. (Cash Rules Everything Around Me)",
+      "url": "https://open.spotify.com/track/119c93MHjrDLJTApCVGpvx"
+    },
+    {
+      "added_at": "2022-10-02 02:05:19",
+      "album": {
         "name": "Culture",
         "url": "https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO"
       },
@@ -175,18 +191,18 @@
     {
       "added_at": "2022-10-02 02:05:19",
       "album": {
-        "name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
-        "url": "https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV"
+        "name": "The Diary Of Alicia Keys",
+        "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
       },
       "artists": [
         {
-          "name": "Wu-Tang Clan",
-          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 252026,
-      "name": "C.R.E.A.M. (Cash Rules Everything Around Me)",
-      "url": "https://open.spotify.com/track/119c93MHjrDLJTApCVGpvx"
+      "duration_ms": 366733,
+      "name": "You Don't Know My Name",
+      "url": "https://open.spotify.com/track/6LGwYMXXgURfaequXipzHx"
     },
     {
       "added_at": "2022-10-02 02:05:19",
@@ -211,22 +227,6 @@
       "duration_ms": 218801,
       "name": "m y . l i f e (with 21 Savage & Morray)",
       "url": "https://open.spotify.com/track/1D3z6HTiQsNmZxjl7F7eoG"
-    },
-    {
-      "added_at": "2022-10-02 02:05:19",
-      "album": {
-        "name": "The Diary Of Alicia Keys",
-        "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 366733,
-      "name": "You Don't Know My Name",
-      "url": "https://open.spotify.com/track/6LGwYMXXgURfaequXipzHx"
     },
     {
       "added_at": "2022-10-02 02:05:19",

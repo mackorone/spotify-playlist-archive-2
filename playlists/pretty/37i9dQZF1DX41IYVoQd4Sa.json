@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05d3\u05d5\u05d3\u05d5 \u05d8\u05e1\u05d4",
-  "num_followers": 33985,
+  "num_followers": 33994,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -707,22 +707,22 @@
     {
       "added_at": "2026-06-18 21:00:45",
       "album": {
-        "name": "\u05ea\u05e4\u05d9\u05dc\u05d4",
-        "url": "https://open.spotify.com/album/4zWXDMHrJjzSAyFkl6FV1u"
+        "name": "\u05d0 \u05d9\u05d9\u05d3\u05d9\u05e9\u05e2 \u05e8\u05d0\u05e1\u05d8\u05d4\u05de\u05d0\u05df",
+        "url": "https://open.spotify.com/album/13Z3HKPuJMuoG9YOVeTYY1"
       },
       "artists": [
         {
-          "name": "Karolina",
-          "url": "https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB"
+          "name": "Ehud Banai",
+          "url": "https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk"
         },
         {
-          "name": "Uri Brauner Kinrot",
-          "url": "https://open.spotify.com/artist/2QXyIEJXxoYuf8MNZ5M3L9"
+          "name": "Ravid Plotnik",
+          "url": "https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx"
         }
       ],
-      "duration_ms": 210620,
-      "name": "\u05ea\u05e4\u05d9\u05dc\u05d4",
-      "url": "https://open.spotify.com/track/4jQ5ypwCpPiu5oqPHwy2SY"
+      "duration_ms": 304400,
+      "name": "\u05d0 \u05d9\u05d9\u05d3\u05d9\u05e9\u05e2 \u05e8\u05d0\u05e1\u05d8\u05d4\u05de\u05d0\u05df",
+      "url": "https://open.spotify.com/track/39qjT6d16GYsjXkrsHuciH"
     },
     {
       "added_at": "2026-06-18 21:00:45",
@@ -743,22 +743,22 @@
     {
       "added_at": "2026-06-18 21:00:45",
       "album": {
-        "name": "\u05d0 \u05d9\u05d9\u05d3\u05d9\u05e9\u05e2 \u05e8\u05d0\u05e1\u05d8\u05d4\u05de\u05d0\u05df",
-        "url": "https://open.spotify.com/album/13Z3HKPuJMuoG9YOVeTYY1"
+        "name": "\u05ea\u05e4\u05d9\u05dc\u05d4",
+        "url": "https://open.spotify.com/album/4zWXDMHrJjzSAyFkl6FV1u"
       },
       "artists": [
         {
-          "name": "Ehud Banai",
-          "url": "https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk"
+          "name": "Karolina",
+          "url": "https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB"
         },
         {
-          "name": "Ravid Plotnik",
-          "url": "https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx"
+          "name": "Uri Brauner Kinrot",
+          "url": "https://open.spotify.com/artist/2QXyIEJXxoYuf8MNZ5M3L9"
         }
       ],
-      "duration_ms": 304400,
-      "name": "\u05d0 \u05d9\u05d9\u05d3\u05d9\u05e9\u05e2 \u05e8\u05d0\u05e1\u05d8\u05d4\u05de\u05d0\u05df",
-      "url": "https://open.spotify.com/track/39qjT6d16GYsjXkrsHuciH"
+      "duration_ms": 210620,
+      "name": "\u05ea\u05e4\u05d9\u05dc\u05d4",
+      "url": "https://open.spotify.com/track/4jQ5ypwCpPiu5oqPHwy2SY"
     },
     {
       "added_at": "2026-06-18 21:00:45",

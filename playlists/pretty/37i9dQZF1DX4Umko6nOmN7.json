@@ -1,6 +1,6 @@
 {
   "description": "Favoritl\u00e5tar f\u00f6r lugna och sk\u00f6na stunder.",
-  "num_followers": 611975,
+  "num_followers": 611958,
   "original_name": "Lugnt & Sk\u00f6nt",
   "owner": {
     "name": "Spotify",
@@ -127,26 +127,6 @@
     {
       "added_at": "2026-06-11 22:01:30",
       "album": {
-        "name": "Everywhere, Everything (with Gracie Abrams)",
-        "url": "https://open.spotify.com/album/0kOisOp4b7xNUNs7aSMSno"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 257668,
-      "name": "Everywhere, Everything (with Gracie Abrams)",
-      "url": "https://open.spotify.com/track/4PRdeh2zIyM1pvY4x5luLe"
-    },
-    {
-      "added_at": "2026-06-11 22:01:30",
-      "album": {
         "name": "All The Little Lights (Anniversary Edition)",
         "url": "https://open.spotify.com/album/25bKp06DTIMODKnzXQf4gR"
       },
@@ -163,6 +143,26 @@
       "duration_ms": 256986,
       "name": "Let Her Go (feat. Ed Sheeran) - Anniversary Edition",
       "url": "https://open.spotify.com/track/1nHKI4L5pWrN5CUvW07nHP"
+    },
+    {
+      "added_at": "2026-06-11 22:01:30",
+      "album": {
+        "name": "Everywhere, Everything (with Gracie Abrams)",
+        "url": "https://open.spotify.com/album/0kOisOp4b7xNUNs7aSMSno"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 257668,
+      "name": "Everywhere, Everything (with Gracie Abrams)",
+      "url": "https://open.spotify.com/track/4PRdeh2zIyM1pvY4x5luLe"
     },
     {
       "added_at": "2026-06-11 22:01:30",
@@ -283,6 +283,22 @@
     {
       "added_at": "2026-06-11 22:01:30",
       "album": {
+        "name": "End Of The World",
+        "url": "https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 234753,
+      "name": "End Of The World",
+      "url": "https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD"
+    },
+    {
+      "added_at": "2026-06-11 22:01:30",
+      "album": {
         "name": "Kingmaker (with Julia Michaels)",
         "url": "https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 188106,
       "name": "Kingmaker (with Julia Michaels)",
       "url": "https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx"
-    },
-    {
-      "added_at": "2026-06-11 22:01:30",
-      "album": {
-        "name": "End Of The World",
-        "url": "https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 234753,
-      "name": "End Of The World",
-      "url": "https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD"
     },
     {
       "added_at": "2026-06-11 22:01:30",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-06-11 22:01:30",
       "album": {
+        "name": "Best Friend",
+        "url": "https://open.spotify.com/album/7AF8UxAKHt77J9j8ZBpH7J"
+      },
+      "artists": [
+        {
+          "name": "ADMT",
+          "url": "https://open.spotify.com/artist/33M0vL5kF0AMJqXYxeX7kF"
+        }
+      ],
+      "duration_ms": 189152,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/7mABSSPLVFF6HGlVLhmSsZ"
+    },
+    {
+      "added_at": "2026-06-11 22:01:30",
+      "album": {
         "name": "Dansa Med Mig (Stripped Version) [feat. Julia Lov]",
         "url": "https://open.spotify.com/album/6IRITh06BmYY5OdplF8mhl"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 169213,
       "name": "Dansa Med Mig (Stripped Version) [feat. Julia Lov]",
       "url": "https://open.spotify.com/track/12e80YV3Nhkbfymj0SiSz0"
-    },
-    {
-      "added_at": "2026-06-11 22:01:30",
-      "album": {
-        "name": "Best Friend",
-        "url": "https://open.spotify.com/album/7AF8UxAKHt77J9j8ZBpH7J"
-      },
-      "artists": [
-        {
-          "name": "ADMT",
-          "url": "https://open.spotify.com/artist/33M0vL5kF0AMJqXYxeX7kF"
-        }
-      ],
-      "duration_ms": 189152,
-      "name": "Best Friend",
-      "url": "https://open.spotify.com/track/7mABSSPLVFF6HGlVLhmSsZ"
     },
     {
       "added_at": "2026-06-11 22:01:30",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2026-06-11 22:01:30",
       "album": {
+        "name": "Stockholm",
+        "url": "https://open.spotify.com/album/3NNlYaqNHWxBhdKUJaPpcj"
+      },
+      "artists": [
+        {
+          "name": "Isak Danielson",
+          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
+        }
+      ],
+      "duration_ms": 201342,
+      "name": "Stockholm",
+      "url": "https://open.spotify.com/track/6ey4WncmCwNDailvLTUZCm"
+    },
+    {
+      "added_at": "2026-06-11 22:01:30",
+      "album": {
         "name": "Penny (Akustisk)",
         "url": "https://open.spotify.com/album/20vhMkNyxzPhctrCYeMGzE"
       },
@@ -1135,18 +1151,18 @@
     {
       "added_at": "2026-06-11 22:01:30",
       "album": {
-        "name": "Stockholm",
-        "url": "https://open.spotify.com/album/3NNlYaqNHWxBhdKUJaPpcj"
+        "name": "Middle Ground",
+        "url": "https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT"
       },
       "artists": [
         {
-          "name": "Isak Danielson",
-          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
         }
       ],
-      "duration_ms": 201342,
-      "name": "Stockholm",
-      "url": "https://open.spotify.com/track/6ey4WncmCwNDailvLTUZCm"
+      "duration_ms": 219800,
+      "name": "Middle Ground",
+      "url": "https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5"
     },
     {
       "added_at": "2026-06-11 22:01:30",
@@ -1163,22 +1179,6 @@
       "duration_ms": 222026,
       "name": "Swan Upon Leda",
       "url": "https://open.spotify.com/track/3TjoLn6AliBGi3QbwwTxKp"
-    },
-    {
-      "added_at": "2026-06-11 22:01:30",
-      "album": {
-        "name": "Middle Ground",
-        "url": "https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 219800,
-      "name": "Middle Ground",
-      "url": "https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5"
     },
     {
       "added_at": "2026-06-11 22:01:30",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-06-11 22:01:30",
       "album": {
-        "name": "En del av dig (From the Netflix film \"A Part Of You\")",
-        "url": "https://open.spotify.com/album/61EAAy4mdQA5NEZ27nEfxQ"
-      },
-      "artists": [
-        {
-          "name": "Victor Leksell",
-          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
-        }
-      ],
-      "duration_ms": 177422,
-      "name": "En del av dig (From the Netflix film \"A Part Of You\")",
-      "url": "https://open.spotify.com/track/0OVrEZzc1xXPXrhUS0QvlU"
-    },
-    {
-      "added_at": "2026-06-11 22:01:30",
-      "album": {
         "name": "The Best Is Yet to Come",
         "url": "https://open.spotify.com/album/58Tu4rnGgjxLd7skg3JHBS"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 166874,
       "name": "The Best Is Yet to Come",
       "url": "https://open.spotify.com/track/36jMu03qVcjYAccvQLmAMR"
+    },
+    {
+      "added_at": "2026-06-11 22:01:30",
+      "album": {
+        "name": "En del av dig (From the Netflix film \"A Part Of You\")",
+        "url": "https://open.spotify.com/album/61EAAy4mdQA5NEZ27nEfxQ"
+      },
+      "artists": [
+        {
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
+        }
+      ],
+      "duration_ms": 177422,
+      "name": "En del av dig (From the Netflix film \"A Part Of You\")",
+      "url": "https://open.spotify.com/track/0OVrEZzc1xXPXrhUS0QvlU"
     },
     {
       "added_at": "2026-06-11 22:01:30",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-06-11 22:01:30",
       "album": {
-        "name": "Den jag kunde blivit - Den jag blev",
-        "url": "https://open.spotify.com/album/7uXYOA68E1WQSfBuVpvGQC"
-      },
-      "artists": [
-        {
-          "name": "Melissa Horn",
-          "url": "https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5"
-        }
-      ],
-      "duration_ms": 177479,
-      "name": "Den jag kunde blivit - Den jag blev",
-      "url": "https://open.spotify.com/track/3bXeMeJmDSe8ZPGx2FWnH7"
-    },
-    {
-      "added_at": "2026-06-11 22:01:30",
-      "album": {
         "name": "Wish (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0U8h5Cz5hZtL0vmqFB40Ao"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 173306,
       "name": "A Wish Worth Making",
       "url": "https://open.spotify.com/track/0uan47LDD0HMob7n3UMkZd"
+    },
+    {
+      "added_at": "2026-06-11 22:01:30",
+      "album": {
+        "name": "Den jag kunde blivit - Den jag blev",
+        "url": "https://open.spotify.com/album/7uXYOA68E1WQSfBuVpvGQC"
+      },
+      "artists": [
+        {
+          "name": "Melissa Horn",
+          "url": "https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5"
+        }
+      ],
+      "duration_ms": 177479,
+      "name": "Den jag kunde blivit - Den jag blev",
+      "url": "https://open.spotify.com/track/3bXeMeJmDSe8ZPGx2FWnH7"
     },
     {
       "added_at": "2026-06-11 22:01:30",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2026-06-11 22:01:30",
       "album": {
-        "name": "All My Friends",
-        "url": "https://open.spotify.com/album/1FfYUzhhheFAlQIw1oAosG"
-      },
-      "artists": [
-        {
-          "name": "Molly Hammar",
-          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
-        }
-      ],
-      "duration_ms": 180578,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/4boC9TKU3vRL6l4L5taK81"
-    },
-    {
-      "added_at": "2026-06-11 22:01:30",
-      "album": {
         "name": "Heaven (Acoustic)",
         "url": "https://open.spotify.com/album/2BVa3nSaQSubIwgKYEtXka"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 183644,
       "name": "Heaven - Acoustic",
       "url": "https://open.spotify.com/track/0DXmK0QaBycr8MpM52Kaeo"
+    },
+    {
+      "added_at": "2026-06-11 22:01:30",
+      "album": {
+        "name": "All My Friends",
+        "url": "https://open.spotify.com/album/1FfYUzhhheFAlQIw1oAosG"
+      },
+      "artists": [
+        {
+          "name": "Molly Hammar",
+          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+        }
+      ],
+      "duration_ms": 180578,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/4boC9TKU3vRL6l4L5taK81"
     }
   ],
   "unique_name": "Lugnt & Sk\u00f6nt",

@@ -1,12 +1,12 @@
 {
   "description": "This is Twenty One Pilots. The essential tracks, all in one playlist.",
-  "num_followers": 1445187,
+  "num_followers": 1445358,
   "original_name": "This Is Twenty One Pilots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAADKgsHaS/uH+y+2b5LNpX/8",
+  "snapshot_id": "ajXYAAAAAACRbqW0dQf7wnj8MjJDlK1u",
   "tracks": [
     {
       "added_at": null,
@@ -271,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clancy",
-        "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI"
+        "name": "Scaled And Icy",
+        "url": "https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ"
       },
       "artists": [
         {
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 196266,
-      "name": "Midwest Indigo",
-      "url": "https://open.spotify.com/track/7GVQS66ukm48XZVymA3ZUg"
+      "duration_ms": 224398,
+      "name": "Mulberry Street",
+      "url": "https://open.spotify.com/track/19kX6hSlYH31js2SL4jgrj"
     },
     {
       "added_at": null,
@@ -303,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scaled And Icy",
-        "url": "https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ"
+        "name": "Clancy",
+        "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 224398,
-      "name": "Mulberry Street",
-      "url": "https://open.spotify.com/track/19kX6hSlYH31js2SL4jgrj"
+      "duration_ms": 196266,
+      "name": "Midwest Indigo",
+      "url": "https://open.spotify.com/track/7GVQS66ukm48XZVymA3ZUg"
     },
     {
       "added_at": null,
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clancy",
-        "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI"
+        "name": "Vessel",
+        "url": "https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Backslide",
-      "url": "https://open.spotify.com/track/6fNaHkjAxP6rI2sZhT7QJn"
+      "duration_ms": 267720,
+      "name": "Car Radio",
+      "url": "https://open.spotify.com/track/5cbpoIu3YjoOwbBDGUEp3P"
     },
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vessel",
-        "url": "https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn"
+        "name": "Clancy",
+        "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 267720,
-      "name": "Car Radio",
-      "url": "https://open.spotify.com/track/5cbpoIu3YjoOwbBDGUEp3P"
+      "duration_ms": 180000,
+      "name": "Backslide",
+      "url": "https://open.spotify.com/track/6fNaHkjAxP6rI2sZhT7QJn"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
       "duration_ms": 203826,
       "name": "Drum Show",
       "url": "https://open.spotify.com/track/20BFo9REyGdCxrlPmD3xph"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Clancy",
-        "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 234400,
-      "name": "Next Semester",
-      "url": "https://open.spotify.com/track/1BANPzYIhCQkJ1ZFq2Fb0O"
     },
     {
       "added_at": null,
@@ -447,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Clancy",
+        "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 234400,
+      "name": "Next Semester",
+      "url": "https://open.spotify.com/track/1BANPzYIhCQkJ1ZFq2Fb0O"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Breach",
         "url": "https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH"
       },
@@ -459,22 +459,6 @@
       "duration_ms": 225520,
       "name": "The Contract",
       "url": "https://open.spotify.com/track/22BA9h34P0Q2PGZudsEBco"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Clancy",
-        "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 202133,
-      "name": "Vignette",
-      "url": "https://open.spotify.com/track/3sEufjE0ITaW5qhtnW3avv"
     },
     {
       "added_at": null,
@@ -511,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Clancy",
+        "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 202133,
+      "name": "Vignette",
+      "url": "https://open.spotify.com/track/3sEufjE0ITaW5qhtnW3avv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trench",
         "url": "https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL"
       },
@@ -523,22 +523,6 @@
       "duration_ms": 238560,
       "name": "Jumpsuit",
       "url": "https://open.spotify.com/track/1E1uGhNdBe6Dddbgs2KqtZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Level of Concern",
-        "url": "https://open.spotify.com/album/4h3HXlnt6lryGzGbWmcFuY"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 220051,
-      "name": "Level of Concern",
-      "url": "https://open.spotify.com/track/6xZ4Q2k2ompmDppyeESIY8"
     },
     {
       "added_at": null,
@@ -575,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Level of Concern",
+        "url": "https://open.spotify.com/album/4h3HXlnt6lryGzGbWmcFuY"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 220051,
+      "name": "Level of Concern",
+      "url": "https://open.spotify.com/track/6xZ4Q2k2ompmDppyeESIY8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trench",
         "url": "https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL"
       },
@@ -587,22 +587,6 @@
       "duration_ms": 225040,
       "name": "Nico and the Niners",
       "url": "https://open.spotify.com/track/5SehvGGC53A7SZKCLXQcyt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Twenty One Pilots",
-        "url": "https://open.spotify.com/album/6rgWZP4QFBjEFF0n6JWEOa"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Fall Away",
-      "url": "https://open.spotify.com/track/6aeKPkMywDDYWtPBsbfO50"
     },
     {
       "added_at": null,
@@ -635,6 +619,22 @@
       "duration_ms": 273335,
       "name": "Guns for Hands",
       "url": "https://open.spotify.com/track/4RdRa3qq0GBSKjomxrkh5K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Twenty One Pilots",
+        "url": "https://open.spotify.com/album/6rgWZP4QFBjEFF0n6JWEOa"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Fall Away",
+      "url": "https://open.spotify.com/track/6aeKPkMywDDYWtPBsbfO50"
     },
     {
       "added_at": null,

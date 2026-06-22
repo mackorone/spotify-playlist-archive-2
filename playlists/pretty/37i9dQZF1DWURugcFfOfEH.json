@@ -1,6 +1,6 @@
 {
   "description": "good vibes, all the time",
-  "num_followers": 450931,
+  "num_followers": 450986,
   "original_name": "good energy",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "Currents",
-        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 216320,
-      "name": "The Less I Know The Better",
-      "url": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
         "name": "you seem pretty sad for a girl so in love",
         "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 247586,
       "name": "u + me = <3",
       "url": "https://open.spotify.com/track/6Hdc3IQeyCxG5d14uAcwQW"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
+        "name": "Currents",
+        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 216320,
+      "name": "The Less I Know The Better",
+      "url": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -627,6 +627,22 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 164533,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/51Zw1cKDgkad0CXv23HCMU"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
         "name": "car crash",
         "url": "https://open.spotify.com/album/1lP8AhonyWZZKNgnEcjSV0"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 160626,
       "name": "car crash",
       "url": "https://open.spotify.com/track/47z8JPQCgjtRcFqt1kUyoA"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 164533,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/51Zw1cKDgkad0CXv23HCMU"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "Fancy That",
-        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 141866,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/0ZzHRRPxUmNVr4vWNnlDAe"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
         "name": "adore u",
         "url": "https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 220653,
       "name": "adore u",
       "url": "https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
+        "name": "Fancy That",
+        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 141866,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/0ZzHRRPxUmNVr4vWNnlDAe"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 198200,
-      "name": "Life Will Be",
-      "url": "https://open.spotify.com/track/4ZTC6KvnQxloiwmT0Yhypy"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
         "name": "EURO-COUNTRY",
         "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
       },
@@ -843,18 +827,18 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "L\u2019AMOUR DE MA VIE [OVER NOW EXTENDED EDIT]",
-        "url": "https://open.spotify.com/album/4YCeHlXgJTKlzuwHmvZZo8"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 271969,
-      "name": "L\u2019AMOUR DE MA VIE [OVER NOW EXTENDED EDIT]",
-      "url": "https://open.spotify.com/track/2Y6U158gVXfvqNWOLdis0R"
+      "duration_ms": 198200,
+      "name": "Life Will Be",
+      "url": "https://open.spotify.com/track/4ZTC6KvnQxloiwmT0Yhypy"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -879,6 +863,22 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
+        "name": "L\u2019AMOUR DE MA VIE [OVER NOW EXTENDED EDIT]",
+        "url": "https://open.spotify.com/album/4YCeHlXgJTKlzuwHmvZZo8"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 271969,
+      "name": "L\u2019AMOUR DE MA VIE [OVER NOW EXTENDED EDIT]",
+      "url": "https://open.spotify.com/track/2Y6U158gVXfvqNWOLdis0R"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
         "name": "Fine Line",
         "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "everyone for ten minutes",
-        "url": "https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 184761,
-      "name": "we should talk",
-      "url": "https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
         "name": "Good Vibrations",
         "url": "https://open.spotify.com/album/6OsiBdHNt2qPmSY06HYQYF"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 229444,
       "name": "Good Vibrations",
       "url": "https://open.spotify.com/track/3b1LOYktJgqGoy3QMyhOCk"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
+        "name": "everyone for ten minutes",
+        "url": "https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "we should talk",
+      "url": "https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "NEVER ENOUGH",
-        "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 186277,
-      "name": "SEEIN\u2019 STARS",
-      "url": "https://open.spotify.com/track/2Z4nIITCxUoaZvFug5FxtO"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
         "name": "Bon Bon",
         "url": "https://open.spotify.com/album/27WWDGD7YPsoaOCwZNFWBT"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 210133,
       "name": "Bon Bon",
       "url": "https://open.spotify.com/track/4Dr5pBJktWX8aZckCznE6q"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
+        "name": "NEVER ENOUGH",
+        "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 186277,
+      "name": "SEEIN\u2019 STARS",
+      "url": "https://open.spotify.com/track/2Z4nIITCxUoaZvFug5FxtO"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "idk idk",
-        "url": "https://open.spotify.com/album/1ovpuKaHI7hSKSUTQtLfJ1"
+        "name": "The Drums",
+        "url": "https://open.spotify.com/album/7EbEJzUEiXGbyrifEm2IN4"
       },
       "artists": [
         {
-          "name": "Jim Legxacy",
-          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
         }
       ],
-      "duration_ms": 146526,
-      "name": "idk idk",
-      "url": "https://open.spotify.com/track/3CZ0ba4RIVdv40FbjHpOEA"
+      "duration_ms": 174306,
+      "name": "Lets Go Surfing",
+      "url": "https://open.spotify.com/track/49skdn8Truaufvcz8BXmtT"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "The Drums",
-        "url": "https://open.spotify.com/album/7EbEJzUEiXGbyrifEm2IN4"
+        "name": "idk idk",
+        "url": "https://open.spotify.com/album/1ovpuKaHI7hSKSUTQtLfJ1"
       },
       "artists": [
         {
-          "name": "The Drums",
-          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
         }
       ],
-      "duration_ms": 174306,
-      "name": "Lets Go Surfing",
-      "url": "https://open.spotify.com/track/49skdn8Truaufvcz8BXmtT"
+      "duration_ms": 146526,
+      "name": "idk idk",
+      "url": "https://open.spotify.com/track/3CZ0ba4RIVdv40FbjHpOEA"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "Women In Music Pt III (Expanded Edition)",
-        "url": "https://open.spotify.com/album/79thwyFL6Uo6rgTp3YWEAf"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Now I'm In It - Bonus Track",
-      "url": "https://open.spotify.com/track/1DR2KXb0UvibcLsdDGVwwt"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
         "name": "Good Thing",
         "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 194823,
       "name": "If It Feels Good (Then It Must Be)",
       "url": "https://open.spotify.com/track/72Dd7GCaepMi8ktuXxmSZF"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
+        "name": "Women In Music Pt III (Expanded Edition)",
+        "url": "https://open.spotify.com/album/79thwyFL6Uo6rgTp3YWEAf"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Now I'm In It - Bonus Track",
+      "url": "https://open.spotify.com/track/1DR2KXb0UvibcLsdDGVwwt"
     },
     {
       "added_at": "2026-06-18 20:32:33",

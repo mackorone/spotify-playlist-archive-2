@@ -1,29 +1,13 @@
 {
   "description": "This is Luke Combs. The essential tracks, all in one playlist.",
-  "num_followers": 933734,
+  "num_followers": 933893,
   "original_name": "This Is Luke Combs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAAAPzfT/4FI8cwdpd6MU/dU7",
+  "snapshot_id": "ajXYAAAAAAAk1CwZPQMFMqMhYqVdUefx",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gettin' Old",
-        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 239544,
-      "name": "Where the Wild Things Are",
-      "url": "https://open.spotify.com/track/0eBFgRxyVSeuT4iyrbukdn"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 242680,
       "name": "When It Rains It Pours",
       "url": "https://open.spotify.com/track/1mMLMZYXkMueg65jRRWG1l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 239544,
+      "name": "Where the Wild Things Are",
+      "url": "https://open.spotify.com/track/0eBFgRxyVSeuT4iyrbukdn"
     },
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gettin' Old",
-        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 265284,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sleepless in a Hotel Room",
         "url": "https://open.spotify.com/album/4svTVbjxKUxzSUBI0HYvds"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 177674,
       "name": "Sleepless in a Hotel Room",
       "url": "https://open.spotify.com/track/2za9t2qpWyUpIhnJcwopPt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 265284,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
     },
     {
       "added_at": null,
@@ -383,6 +383,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Better That Way",
+        "url": "https://open.spotify.com/album/0ymtg4pXliLjHMMGCcCoSt"
+      },
+      "artists": [
+        {
+          "name": "Charles Wesley Godwin",
+          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 225884,
+      "name": "Better That Way (feat. Luke Combs)",
+      "url": "https://open.spotify.com/track/0x7lC40oyrC7FVTdgQhSPl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Way I Am",
         "url": "https://open.spotify.com/album/0QM1NGOJHTmglnHriAsYzQ"
       },
@@ -415,26 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Better That Way",
-        "url": "https://open.spotify.com/album/0ymtg4pXliLjHMMGCcCoSt"
-      },
-      "artists": [
-        {
-          "name": "Charles Wesley Godwin",
-          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
-        },
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 225884,
-      "name": "Better That Way (feat. Luke Combs)",
-      "url": "https://open.spotify.com/track/0x7lC40oyrC7FVTdgQhSPl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gettin' Old",
         "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
       },
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Way I Am",
-        "url": "https://open.spotify.com/album/0QM1NGOJHTmglnHriAsYzQ"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 184063,
-      "name": "Miss You Here",
-      "url": "https://open.spotify.com/track/5kfhStchJYHqwypSwRwysc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What You See Is What You Get",
         "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 195093,
       "name": "Lovin' On You",
       "url": "https://open.spotify.com/track/0nYvjcSlCgjcwogQAwIwNp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Way I Am",
+        "url": "https://open.spotify.com/album/0QM1NGOJHTmglnHriAsYzQ"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 184063,
+      "name": "Miss You Here",
+      "url": "https://open.spotify.com/track/5kfhStchJYHqwypSwRwysc"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Way I Am",
-        "url": "https://open.spotify.com/album/0QM1NGOJHTmglnHriAsYzQ"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 209131,
-      "name": "Soon As I Get Home",
-      "url": "https://open.spotify.com/track/6TqqJJiJxThChwqBA7X7Tq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What You See Is What You Get",
         "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 225253,
       "name": "Even Though I'm Leaving",
       "url": "https://open.spotify.com/track/5Fhe63YOMZsGdB3CgCDuBi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Way I Am",
+        "url": "https://open.spotify.com/album/0QM1NGOJHTmglnHriAsYzQ"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 209131,
+      "name": "Soon As I Get Home",
+      "url": "https://open.spotify.com/track/6TqqJJiJxThChwqBA7X7Tq"
     },
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "What You See Is What You Get",
+        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 217573,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/6gdLyYNuhWBzqwlOFSsXC7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Way I Am",
         "url": "https://open.spotify.com/album/0QM1NGOJHTmglnHriAsYzQ"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 218094,
       "name": "Ever Mine - feat. Alison Krauss",
       "url": "https://open.spotify.com/track/6kePJqmJ23YLTwf2HsLXWL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What You See Is What You Get",
-        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 217573,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/6gdLyYNuhWBzqwlOFSsXC7"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Way I Am",
-        "url": "https://open.spotify.com/album/0QM1NGOJHTmglnHriAsYzQ"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 189918,
-      "name": "Can't Tell Me I'm Wrong",
-      "url": "https://open.spotify.com/track/72r9NIGJo9Sx0kkQ8M4xCw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What You See Is What You Get",
         "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 223760,
       "name": "Does To Me (feat. Eric Church)",
       "url": "https://open.spotify.com/track/0nGXi46VcQQ56ZJR428MKS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Way I Am",
+        "url": "https://open.spotify.com/album/0QM1NGOJHTmglnHriAsYzQ"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 189918,
+      "name": "Can't Tell Me I'm Wrong",
+      "url": "https://open.spotify.com/track/72r9NIGJo9Sx0kkQ8M4xCw"
     },
     {
       "added_at": null,

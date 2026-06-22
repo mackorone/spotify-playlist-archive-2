@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe3uGcHMBcq.md) - [plain]
 
 > Rock out to the \*perfect\* songs from all your favorite Disney Channel shows and movies!
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,474 likes - 171 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,484 likes - 171 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

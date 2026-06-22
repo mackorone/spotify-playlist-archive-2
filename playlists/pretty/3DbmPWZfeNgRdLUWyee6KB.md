@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,312 likes - 184 songs - 10 hr 26 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,312 likes - 186 songs - 10 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -192,5 +192,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 182 | [Cool](https://open.spotify.com/track/0lEyuxEtiz90tgC542d3Iz) | [Tim Allan](https://open.spotify.com/artist/1PAvHNGevlHvYXRC5JityS) | [Not the Bad Boy](https://open.spotify.com/album/4fHVgR7PMm8nO8FPpaxIx1) | 2:45 |
 | 183 | [Temporale](https://open.spotify.com/track/6fcg53c7n41DTfwE8JbjVk) | [Heygregg](https://open.spotify.com/artist/1osX1AI2YS7ZYZNkkry7iJ) | [Temporale](https://open.spotify.com/album/1GzSHr7iwT76nRnL2zRHh0) | 2:32 |
 | 184 | [Flashback](https://open.spotify.com/track/7zphXBpoS3Qo1ybHyksW2i) | [East Collectors](https://open.spotify.com/artist/2jwnJc5ibEXh10jmTPz3mh), [Guðrun Sólja](https://open.spotify.com/artist/7u04eBVbYkvMPkUPkLHFu6) | [Flashback](https://open.spotify.com/album/1VvkRHbKvajkyILV44y9gt) | 3:37 |
+| 185 | [ΑΠΛΩΝΩ ΤΑ ΧΕΡΙΑ](https://open.spotify.com/track/3ynuypogogN4RbF0KA8nP7) | [M.R.P Music Song Contest](https://open.spotify.com/artist/1OHHzP3Sy9y4IfPoxfexPm) | [ΑΠΛΩΝΩ ΤΑ ΧΕΡΙΑ](https://open.spotify.com/album/6R2GCTj3ImIBsOMFp51ud1) | 3:28 |
+| 186 | [Se partió en dos](https://open.spotify.com/track/11wp2EhxKh7EXVhSPOVyVl) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [La ansiedad](https://open.spotify.com/album/1ah03W8PU28iPd4KzTwltu) | 2:38 |
 
-Snapshot ID: `AAAVOollPYfTA/cGYGJVHo1ShxJA40SV`
+Snapshot ID: `AAAVPN3QGbWNbNtu2sh5WVxHIgonZi8V`

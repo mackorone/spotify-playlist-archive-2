@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 
 > This is De Saloon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,439 likes - 47 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,443 likes - 47 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,11 +38,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 | 28 | [Cuando la vida se vuelve real](https://open.spotify.com/track/5LuD9hHQBHnztgHWfn92sU) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [El Sonido del Misterio](https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz) | 3:04 |
 | 29 | [Partido en Dos](https://open.spotify.com/track/6ENcwJdYx9fA3NG3MrYZrH) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/2UTF8V1xUb2Wcmi2GuP9Ou) | 4:22 |
 | 30 | [Antídoto](https://open.spotify.com/track/6UpFofjmS8vuKUq7POAote) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/3VcU5G86g9pvNj8sBjpvyg) | 3:47 |
-| 31 | [Verdad](https://open.spotify.com/track/07jQohp4cfhXkaKHAErPh4) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Abrázame](https://open.spotify.com/album/7lIVdiLsiLTwKLMEhpBk93) | 4:46 |
+| 31 | [Hazme Algo](https://open.spotify.com/track/3BDlSvSJRJE2YtVP2RAu2P) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Abrázame](https://open.spotify.com/album/7lIVdiLsiLTwKLMEhpBk93) | 5:50 |
 | 32 | [Sufriendo de más](https://open.spotify.com/track/0GJvW0BOrxlPcm7IbBzv4t) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [El Sonido del Misterio](https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz) | 3:53 |
 | 33 | [Mar de nubes](https://open.spotify.com/track/5yGkfRMygHAcygGKrHgR9N) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/3WAWWUnOLSvwcPldQ3H3nk) | 4:04 |
 | 34 | [Delicada Violencia](https://open.spotify.com/track/7D0wYJazZXiHzCza7yMhqR) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/3VcU5G86g9pvNj8sBjpvyg) | 3:55 |
-| 35 | [Hazme Algo](https://open.spotify.com/track/3BDlSvSJRJE2YtVP2RAu2P) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Abrázame](https://open.spotify.com/album/7lIVdiLsiLTwKLMEhpBk93) | 5:50 |
+| 35 | [Verdad](https://open.spotify.com/track/07jQohp4cfhXkaKHAErPh4) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Abrázame](https://open.spotify.com/album/7lIVdiLsiLTwKLMEhpBk93) | 4:46 |
 | 36 | [No Me Atrevo a Preguntar](https://open.spotify.com/track/7BTbrZ5iNXtxCrDzBB0CL8) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Fortaleza](https://open.spotify.com/album/47hkTPYhTntBtNU8H16qKe) | 3:39 |
 | 37 | [Extrañarte](https://open.spotify.com/track/54A9l2wNN875pViIqfbtb8) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/2UTF8V1xUb2Wcmi2GuP9Ou) | 3:52 |
 | 38 | [Esfumar](https://open.spotify.com/track/71OtP6pu3xWhvx7NLetwCN) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22) | 3:29 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 | 46 | [Respeta el Flow](https://open.spotify.com/track/3yawMrvzCoa6uR7mr88Dzi) | [FrioLento](https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn), [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Respeta el Flow](https://open.spotify.com/album/5qab4uebsX0fXFM1byGBfw) | 2:41 |
 | 47 | [Miel](https://open.spotify.com/track/3hno9MGIoj6WL9GfXWSYBT) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22) | 4:57 |
 
-Snapshot ID: `ajSGgAAAAADREZXmc5JKwzuVUpIn7DSc`
+Snapshot ID: `ajXYAAAAAAB/7EvKwffRMLYYBzA0fQ0X`

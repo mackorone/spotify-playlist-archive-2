@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYXDfndvXy2.md) - [plain]
 
 > Meticulously selected by Spotify music experts\. Cover: underscores
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,160 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,206 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

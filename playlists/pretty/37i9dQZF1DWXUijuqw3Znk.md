@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUijuqw3Znk.md) - [plain]
 
 > 바닥에서 위로\. 성공을 위한 열정과 집념을 느껴보세요\. \(커버: Royal 44\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 853 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 856 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,11 +81,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUijuqw3Znk.md) - [plain]
 | 71 | [MIRACLE\(Album version\)](https://open.spotify.com/track/3WagJrXxM0VMY0pLHucnYu) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616) | [HIGH RISK HIGH RETURN](https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih) | 2:03 |
 | 72 | [GNGB](https://open.spotify.com/track/5QBvCdGtU5sblvqy1ZmIT6) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 3:14 |
 | 73 | [SLASH \(Feat\. BIGONE\)](https://open.spotify.com/track/2F1n5rGdo6oQbZFYuVx9ud) | [DOHANSE](https://open.spotify.com/artist/0vpzOOH7hVL9KdsCus9v5v), [BIGONE](https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX) | [BLAZE](https://open.spotify.com/album/3rReTvcphfVOJUOYXpCiWJ) | 2:11 |
-| 74 | [Survivor](https://open.spotify.com/track/3KDsMACCTk16TIuSkd5mp7) | [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [Dirt](https://open.spotify.com/album/4oZmb7ErF2dgRvVvvqgu0P) | 2:40 |
-| 75 | [Retirement \(feat\. The Quiett\)](https://open.spotify.com/track/3y7FzkR7JiY3E750C6p0hA) | [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [MultrillVerse](https://open.spotify.com/album/3EHMUauddW3rH3K2KA6oxI) | 2:47 |
-| 76 | [Angel](https://open.spotify.com/track/4HtYJJ2Xb8snojvr78vYiX) | [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [Berry Loves My Mood](https://open.spotify.com/album/53pwI1jsG0ZYrVEa40sRws) | 2:42 |
-| 77 | [진저리 \(Feat\. 릴러말즈 \(Leellamarz\), 제네 더 질라\(ZENE THE ZILLA\)\)](https://open.spotify.com/track/1XezSpf7NiagncEJPzypsH) | [Ourealgoat](https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN) | [죽을힘을 다하여](https://open.spotify.com/album/6n4NjXecmDkfJHIAaeg5cb) | 3:43 |
-| 78 | [Ride it like](https://open.spotify.com/track/7xBlwnacFIvvIKv1GEukWm) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 2:57 |
+| 74 | [Angel](https://open.spotify.com/track/4HtYJJ2Xb8snojvr78vYiX) | [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [Berry Loves My Mood](https://open.spotify.com/album/53pwI1jsG0ZYrVEa40sRws) | 2:42 |
+| 75 | [Survivor](https://open.spotify.com/track/3KDsMACCTk16TIuSkd5mp7) | [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [Dirt](https://open.spotify.com/album/4oZmb7ErF2dgRvVvvqgu0P) | 2:40 |
+| 76 | [Retirement \(feat\. The Quiett\)](https://open.spotify.com/track/3y7FzkR7JiY3E750C6p0hA) | [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [MultrillVerse](https://open.spotify.com/album/3EHMUauddW3rH3K2KA6oxI) | 2:47 |
+| 77 | [Ride it like](https://open.spotify.com/track/7xBlwnacFIvvIKv1GEukWm) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 2:57 |
+| 78 | [진저리 \(Feat\. 릴러말즈 \(Leellamarz\), 제네 더 질라\(ZENE THE ZILLA\)\)](https://open.spotify.com/track/1XezSpf7NiagncEJPzypsH) | [Ourealgoat](https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN) | [죽을힘을 다하여](https://open.spotify.com/album/6n4NjXecmDkfJHIAaeg5cb) | 3:43 |
 | 79 | [Reborn](https://open.spotify.com/track/044osg6Cw2BLj7VQGSVjEl) | [DOK2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [Reborn](https://open.spotify.com/album/3ZSQOBLpHgNLVVWgsN7MuV) | 3:19 |
 | 80 | [runaway \(Feat\. DON MALIK\)](https://open.spotify.com/track/5mgJHVqjrx56K4mAJx8eaY) | [Way Ched](https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM), [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [IT′S YOUR WAY](https://open.spotify.com/album/1fElnXqdUqkPD9qEGxwEYb) | 2:59 |
 | 81 | [Story On Sale \(Feat\. DAMYE\)](https://open.spotify.com/track/5lsd20yGxXhJOGvkog7vn1) | [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [DAMYE](https://open.spotify.com/artist/4ONpnuHm5fPmO8i0YsMRrR) | [GAROSAWK](https://open.spotify.com/album/4WXMcC4tSLWowFlX67HMwi) | 4:10 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUijuqw3Znk.md) - [plain]
 | 97 | [Naked \(Feat\. SINCE, Roh Yun Ha\)](https://open.spotify.com/track/20SnjTFsnEWVYtqUEB7EYx) | [Devine Channel](https://open.spotify.com/artist/1iiRxmY7WhgsWtLgtZGfrw), [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy) | [unorthodox](https://open.spotify.com/album/5MJPZCUrHxSBPIsZif1frd) | 4:04 |
 | 98 | [Yessir!](https://open.spotify.com/track/7gDjX9OBv0igB7PyZXJje6) | [BLSP](https://open.spotify.com/artist/4ec52yNguqiIkLXqkt7ZV2), [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [YLN Foreign](https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl) | [Yessir!](https://open.spotify.com/album/5pUsKPyDAiruVHE9pHYrZV) | 2:09 |
 | 99 | [Universe \(feat\. Lee Juck\)](https://open.spotify.com/track/68duJkvrmsHi0nR44nUXZc) | [Pinodyne](https://open.spotify.com/artist/15KKvag6UK4hwsNCJmFY09), [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa) | [Universe](https://open.spotify.com/album/6zRk67AeZus6zzIxU9kJAb) | 3:47 |
-| 100 | [A SOLITARY MAN](https://open.spotify.com/track/3kCnWwL7H4HNxSOV2CwBCa) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [A SOLITARY MAN](https://open.spotify.com/album/1qFLsgIIgQ46hwoCnutc3P) | 3:07 |
+| 100 | [monologue \(Feat\. GSoul\)](https://open.spotify.com/track/0zOh4s95HEcFRSS4SzScTx) | [JOOHONEY](https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k), [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [LIGHTS](https://open.spotify.com/album/6lVLpHULkoKw2pFhzDXXaN) | 3:06 |
 
 Snapshot ID: `AAAAAAl0E7I7Lio8iUh+Z4jt+B1eoeAl`

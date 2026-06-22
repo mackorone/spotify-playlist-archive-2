@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5Uk3LfCG3anf7ZT6TIJZgV">Jesse Fink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-240 songs - 11 hr 18 min
+244 songs - 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Don’t Trip \(with GAYLE\)](https://open.spotify.com/track/6mWCikZXHCCnEwkwyJ2L8G) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [Don’t Trip \(with GAYLE\)](https://open.spotify.com/album/3R59vyW9DWkchzNHN4XehZ) | 2:27 | 2024-07-09 |  |
 | [Drifting](https://open.spotify.com/track/2j9Pf1DEfRxTJaDRptIRJs) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Tyler Shaw](https://open.spotify.com/album/2sQbk1P48X1EcjnKfPODuC) | 2:54 | 2024-07-09 |  |
 | [Drinking Game](https://open.spotify.com/track/3NpotblRm0XLn747iCZ75w) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Drinking Game](https://open.spotify.com/album/6yBtHDlryRS2EQAfGYNMQN) | 2:50 | 2026-04-12 |  |
-| [Drive Safe](https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Drive Safe](https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw) | 3:21 | 2026-02-20 |  |
+| [Drive Safe](https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Drive Safe](https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw) | 3:21 | 2026-02-20 | 2026-06-22 |
+| [Drive Safe](https://open.spotify.com/track/66bHVK9hMZHc27qpFuEX3M) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [My Mess, My Heart, My Life.](https://open.spotify.com/album/08u2urMBBJIz9kMwAl08yI) | 3:21 | 2026-06-21 |  |
 | [Dumb \(Good Ol' Time\)](https://open.spotify.com/track/6Vv1swjSxWPCDmvoMglwlJ) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Dumb \(Good Ol' Time\)](https://open.spotify.com/album/4HP3WVJsQNAHDtZEOPzWBW) | 1:55 | 2025-05-02 |  |
 | [Endless](https://open.spotify.com/track/39TniRr67zsLesnyrwrkLK) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [Endless](https://open.spotify.com/album/27COR8Xifi0nEuSEKRAKRt) | 3:26 | 2024-07-09 |  |
 | [Everybody Wants You](https://open.spotify.com/track/48EDM7iimVXiKEOdo4AJk6) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [It’s Never Really Over \(Expanded\)](https://open.spotify.com/album/5UtK7iPrjxMrxsQe1bPqkm) | 3:20 | 2024-07-09 |  |
@@ -94,7 +95,8 @@
 | [Girls](https://open.spotify.com/track/1IbwVEskI2zH0dM4pnmWfU) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Girls](https://open.spotify.com/album/0ELNO6pSJy9iq7FJG2DKVM) | 2:20 | 2024-07-09 |  |
 | [Go Bad \- From The Netflix Film “He’s All That"](https://open.spotify.com/track/0KrxLbZ5Ii6o6PmDgcWii8) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [He's All That \(Music From The Netflix Film\)](https://open.spotify.com/album/0Avy6QPpUbn3rJ5f76yimK) | 2:07 | 2024-07-09 |  |
 | [Go!](https://open.spotify.com/track/5RHXCRZwXTIt5uYdKmu9jk) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [SINK OR SWIM](https://open.spotify.com/album/4Bdc1txexdBh1j5h17BVIs) | 2:08 | 2025-03-13 |  |
-| [Gold](https://open.spotify.com/track/2HGi7sW7mDKyTgQZ2SAXTk) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Gold \(Acoustic\)](https://open.spotify.com/album/2TOC7DKcekUzDh8UAzF4T2) | 2:44 | 2026-04-08 |  |
+| [Gold](https://open.spotify.com/track/2HGi7sW7mDKyTgQZ2SAXTk) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Gold \(Acoustic\)](https://open.spotify.com/album/2TOC7DKcekUzDh8UAzF4T2) | 2:44 | 2026-04-08 | 2026-06-22 |
+| [Gold](https://open.spotify.com/track/4kqSMXPxTsfH4YQIjaASrM) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Mess, My Heart, My Life.](https://open.spotify.com/album/08u2urMBBJIz9kMwAl08yI) | 2:44 | 2026-06-21 |  |
 | [Good Bad & Ugly](https://open.spotify.com/track/5lrIBgTRHWlQj2LZdUYIwA) | [JaeyBxrd](https://open.spotify.com/artist/4rBpyETZEnrBQB7Xc4oRfa) | [Good Bad & Ugly](https://open.spotify.com/album/4V8iHTf70CbUtPmPre6WJl) | 2:01 | 2024-09-05 |  |
 | [Good Times](https://open.spotify.com/track/5bbJplfDGd60rFJo1m2qZE) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Good Times](https://open.spotify.com/album/0So4zZK0utccXG4YgZ1Be9) | 2:35 | 2026-04-14 |  |
 | [good to me](https://open.spotify.com/track/6DPYRPBrpf7jwfwxhcEX8j) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [girl music vol\. 1](https://open.spotify.com/album/5GUXKPrSqb6kdXQHKmKmHm) | 2:34 | 2026-04-11 |  |
@@ -162,7 +164,8 @@
 | [Mojave](https://open.spotify.com/track/05bOlUVof9LtsARuf0M8Lz) | [Jad Saad](https://open.spotify.com/artist/3Re3peL3DQMzTe4c5WRX2e) | [Mojave](https://open.spotify.com/album/3iYarDlgjNdmC11Q2utJe8) | 3:03 | 2024-07-09 |  |
 | [Move On](https://open.spotify.com/track/177XRjFkqB9RpGTFjlgeQE) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Slow Dance](https://open.spotify.com/album/3BN8juNaSxMdwagm6RBvwh) | 2:25 | 2024-07-09 |  |
 | [mr\. sunshine](https://open.spotify.com/track/2NJefEQeqDKUdyiy38GFoV) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 0](https://open.spotify.com/album/3wNkf6SHSN19bVxWCNC3Lu) | 2:57 | 2024-07-09 |  |
-| [My Mess](https://open.spotify.com/track/5p3Jpxg9clWBDLy9kdD6CY) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Mess](https://open.spotify.com/album/6SJIgDyt7PDWKtlFP77VLu) | 3:11 | 2026-04-16 |  |
+| [My Mess](https://open.spotify.com/track/5p3Jpxg9clWBDLy9kdD6CY) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Mess](https://open.spotify.com/album/6SJIgDyt7PDWKtlFP77VLu) | 3:11 | 2026-04-16 | 2026-06-22 |
+| [My Mess](https://open.spotify.com/track/7GnQbYtGQucOjJOAW3eHM6) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Mess, My Heart, My Life.](https://open.spotify.com/album/08u2urMBBJIz9kMwAl08yI) | 3:11 | 2026-06-21 |  |
 | [My My](https://open.spotify.com/track/0LyUR1JNxrjeLiJIpUF57x) | [MAGIC GIANT](https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f) | [My My](https://open.spotify.com/album/6avNjZBR2EcnkhUU0UCEPT) | 3:02 | 2025-01-31 | 2025-03-13 |
 | [My My](https://open.spotify.com/track/1mXZmBOb4wPusZQ0gUG8Ui) | [MAGIC GIANT](https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f) | [The Valley](https://open.spotify.com/album/4P0pCYWGTLTJMzrEFGJ0WM) | 3:02 | 2024-07-09 | 2025-02-01 |
 | [My My](https://open.spotify.com/track/473Gdc2FyRRR0Zq1nUDmEE) | [MAGIC GIANT](https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f) | [The Valley](https://open.spotify.com/album/5pXMD5ZtWugzcLXl6uBTrq) | 3:02 | 2025-03-12 |  |
@@ -199,7 +202,8 @@
 | [Sober Up](https://open.spotify.com/track/2toGngwDUb3uo2reQ9dOGS) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Quinn XCII Presents: Mustard Mike's Breakfast, Lunch, and Dinner](https://open.spotify.com/album/2rS2er7DfZlkvCEOvcJies) | 2:49 | 2024-12-11 |  |
 | [Sober Up](https://open.spotify.com/track/3ImNIsa0NoPrvF77lNAvM3) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Lunch EP](https://open.spotify.com/album/64InF946FZ8kReuvMx8qn2) | 2:49 | 2024-10-03 | 2024-12-12 |
 | [southbound](https://open.spotify.com/track/5Dpryv5D5xUTMrqd82JwGD) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [LOVERCORE](https://open.spotify.com/album/75FM00r9Lgdi0YHv7vvzzB) | 2:17 | 2026-04-18 |  |
-| [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 | 2024-07-09 |  |
+| [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 | 2024-07-09 | 2026-06-22 |
+| [Stargazing](https://open.spotify.com/track/7hk9hVBgdKCbkQOnjxl8bC) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Mess, My Heart, My Life.](https://open.spotify.com/album/08u2urMBBJIz9kMwAl08yI) | 2:52 | 2026-06-21 |  |
 | [Start Again](https://open.spotify.com/track/3oFmFx3iK3nurxkoFop2Md) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Jesse Fink](https://open.spotify.com/artist/7tMI1lr95LzkzRPElGDAlJ) | [Feel Again](https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM) | 2:47 | 2024-07-09 |  |
 | [Summertime Blue](https://open.spotify.com/track/4slSMptXdIoALxZEkSXwts) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Summertime Blue](https://open.spotify.com/album/5idegdSAakRkQhgs0fy5dW) | 3:30 | 2025-11-07 |  |
 | [supernatural](https://open.spotify.com/track/3noi9RTSfFwoRCxGPR1giy) | [Kazi](https://open.spotify.com/artist/5AS6c56mjqwIGujc81FTVh) | [too good to be true](https://open.spotify.com/album/1E6DxaWMpjQx9O5qe0EYP9) | 2:14 | 2024-07-09 |  |

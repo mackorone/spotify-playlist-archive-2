@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3wlYs23A2Ma5v7mAwIBJsR">Meghan Trainor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,379 likes - 123 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,378 likes - 123 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,8 +106,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 96 | [Roll the Dice](https://open.spotify.com/track/5GXW0eHPR3sYsXO0BBwdpn) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [The Rest of Our Life](https://open.spotify.com/album/4VKhC1dO9LPiKc1N7TJHRx) | 3:31 |
 | 97 | [Rich Man](https://open.spotify.com/track/4FJAGgnLHH8Z2soL7K6JQB) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Toy With Me](https://open.spotify.com/album/6bkBdwYNeBqqLVF72acs0H) | 2:26 |
 | 98 | [Bite Me](https://open.spotify.com/track/1dZ4GpOuNm6WnYDFYfEE34) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/4DPlu74QgqqvsNoI9zAPz0) | 2:51 |
-| 99 | [Jingle Bells](https://open.spotify.com/track/7uxQZgOHsAKyG0Bb9CrNqO) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [A Very Trainor Christmas \(Deluxe\)](https://open.spotify.com/album/7cZBXcpZ2VMJovpQqYOYhy) | 2:15 |
-| 100 | [Pink Cadillac](https://open.spotify.com/track/3SwEtesQeWfrqzqiCQGPn3) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Toy With Me](https://open.spotify.com/album/4NkyWMwVeGOTzWYxcpmYtV) | 2:32 |
+| 99 | [Pink Cadillac](https://open.spotify.com/track/3SwEtesQeWfrqzqiCQGPn3) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Toy With Me](https://open.spotify.com/album/4NkyWMwVeGOTzWYxcpmYtV) | 2:32 |
+| 100 | [Jingle Bells](https://open.spotify.com/track/7uxQZgOHsAKyG0Bb9CrNqO) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [A Very Trainor Christmas \(Deluxe\)](https://open.spotify.com/album/7cZBXcpZ2VMJovpQqYOYhy) | 2:15 |
 | 101 | [Chef's Kiss](https://open.spotify.com/track/6X4GTOCyTNY3WwoZQv3Dc6) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Toy With Me](https://open.spotify.com/album/4NkyWMwVeGOTzWYxcpmYtV) | 2:30 |
 | 102 | [Potential](https://open.spotify.com/track/1PsqS0p69wotmjaFGuF6m3) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Toy With Me](https://open.spotify.com/album/4NkyWMwVeGOTzWYxcpmYtV) | 2:51 |
 | 103 | [In the Sun](https://open.spotify.com/track/5SOFf6LgRlUutxhLd6MPya) | [Aya Katrine](https://open.spotify.com/artist/7sd7vz56moXFkk1sHSXTVB) | [In the Sun](https://open.spotify.com/album/0ohigH2Wj1SjBv5aEeg04t) | 3:12 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 122 | [Painkiller](https://open.spotify.com/track/2q60LHPspsHW8Bct7f6c42) | [The Potsdam Pitches](https://open.spotify.com/artist/1JHUAYhBvMGmvrNLLukLP9) | [Echoes](https://open.spotify.com/album/7FLzk92ZO6d1ZehKmsWn9P) | 3:11 |
 | 123 | [nice to meet ya](https://open.spotify.com/track/2JPXij4tkRfMpOqc9YnjRb) | [Edovann](https://open.spotify.com/artist/6UB4cj61Qyr2uI6j12AmbC), [Aleri](https://open.spotify.com/artist/0JOXL3w9yvATW3MM42cYQM) | [nice to meet ya](https://open.spotify.com/album/1xMewPd8OsoI8MKjud3DKh) | 3:16 |
 
-Snapshot ID: `AcUwkAAAAABwRXOVuYAT7RgckmeFd4Q7`
+Snapshot ID: `AcU2WAAAAABBy1bTj4b844ZQsBnhKQyE`

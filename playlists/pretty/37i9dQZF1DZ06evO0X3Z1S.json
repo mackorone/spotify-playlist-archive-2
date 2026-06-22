@@ -1,12 +1,12 @@
 {
   "description": "This is Jonas Blue. The essential tracks, all in one playlist.",
-  "num_followers": 88243,
+  "num_followers": 88238,
   "original_name": "This Is Jonas Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAACEe3V9QX01jjL/xgTnG1HX",
+  "snapshot_id": "ajXYAAAAAAA7oCV9P6GM2pO3L1ucOQaD",
   "tracks": [
     {
       "added_at": null,
@@ -323,26 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mama (Acoustic)",
-        "url": "https://open.spotify.com/album/4n6LyGcoQuvQqAbhAWUsSl"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "William Singe",
-          "url": "https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3"
-        }
-      ],
-      "duration_ms": 192277,
-      "name": "Mama - Acoustic",
-      "url": "https://open.spotify.com/track/2o5woNaj4eQXCwbrJ001A2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Madan",
         "url": "https://open.spotify.com/album/2r095z3wi0vIxl5Yn990St"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 176167,
       "name": "Madan",
       "url": "https://open.spotify.com/track/5siFgBbdKb7TwqXi1CzF3C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mama (Acoustic)",
+        "url": "https://open.spotify.com/album/4n6LyGcoQuvQqAbhAWUsSl"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "William Singe",
+          "url": "https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3"
+        }
+      ],
+      "duration_ms": 192277,
+      "name": "Mama - Acoustic",
+      "url": "https://open.spotify.com/track/2o5woNaj4eQXCwbrJ001A2"
     },
     {
       "added_at": null,
@@ -671,26 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Younger",
-        "url": "https://open.spotify.com/album/26IuzA897QHyOQVYBWXtTD"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "HRVY",
-          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
-        }
-      ],
-      "duration_ms": 194720,
-      "name": "Younger",
-      "url": "https://open.spotify.com/track/4D7ERaKgv8NAeck8RzUtRz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Past Life",
         "url": "https://open.spotify.com/album/0vJYeZ82yiEUvuGBDMoqwL"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 196821,
       "name": "Past Life",
       "url": "https://open.spotify.com/track/4yc0wKwKXGkx9Vqc42MIFy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Younger",
+        "url": "https://open.spotify.com/album/26IuzA897QHyOQVYBWXtTD"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        }
+      ],
+      "duration_ms": 194720,
+      "name": "Younger",
+      "url": "https://open.spotify.com/track/4D7ERaKgv8NAeck8RzUtRz"
     },
     {
       "added_at": null,
@@ -919,6 +919,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/7koSts2YQyNIzS6unvkTfU"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 200694,
+      "name": "You're The One",
+      "url": "https://open.spotify.com/track/4WLQxsTTcTE8eFhdv5Wl83"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Till The End (Jonas Blue & Sam Feldt Present Endless Summer)",
         "url": "https://open.spotify.com/album/1ocuRCXk3wpcRl5OzQvGB9"
       },
@@ -943,26 +963,6 @@
       "duration_ms": 188571,
       "name": "Till The End - Jonas Blue & Sam Feldt Present Endless Summer",
       "url": "https://open.spotify.com/track/42NgRCC7M5rfVNKXMaFitZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/7koSts2YQyNIzS6unvkTfU"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 200694,
-      "name": "You're The One",
-      "url": "https://open.spotify.com/track/4WLQxsTTcTE8eFhdv5Wl83"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist Of Tyla, J\u00f9ni\u00f9s Meyvant og m\u00f6rgum fleiri!",
-  "num_followers": 9664,
+  "num_followers": 9663,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -355,26 +355,6 @@
     {
       "added_at": "2026-06-19 00:00:16",
       "album": {
-        "name": "On Our Way Along",
-        "url": "https://open.spotify.com/album/0M4O0DjFr8N3vNtdJviwya"
-      },
-      "artists": [
-        {
-          "name": "Billy Ray Cyrus",
-          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
-        },
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 261261,
-      "name": "On Our Way Along",
-      "url": "https://open.spotify.com/track/6LDUmqjVsBsNSfOOmVTkdI"
-    },
-    {
-      "added_at": "2026-06-19 00:00:16",
-      "album": {
         "name": "CONSTANTLY",
         "url": "https://open.spotify.com/album/213P10SLkkkRltYI9bbh2V"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 182368,
       "name": "CONSTANTLY",
       "url": "https://open.spotify.com/track/15vg0v6tZ1y8aZfpdz2KRY"
+    },
+    {
+      "added_at": "2026-06-19 00:00:16",
+      "album": {
+        "name": "On Our Way Along",
+        "url": "https://open.spotify.com/album/0M4O0DjFr8N3vNtdJviwya"
+      },
+      "artists": [
+        {
+          "name": "Billy Ray Cyrus",
+          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
+        },
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 261261,
+      "name": "On Our Way Along",
+      "url": "https://open.spotify.com/track/6LDUmqjVsBsNSfOOmVTkdI"
     },
     {
       "added_at": "2026-06-19 00:00:16",
@@ -431,42 +431,6 @@
     {
       "added_at": "2026-06-19 00:00:16",
       "album": {
-        "name": "Invisible",
-        "url": "https://open.spotify.com/album/0y63Qrt20QcFwxq3M7B7SK"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        },
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        }
-      ],
-      "duration_ms": 196622,
-      "name": "Invisible",
-      "url": "https://open.spotify.com/track/2dt5AmiiAA7dOhE1xws9qY"
-    },
-    {
-      "added_at": "2026-06-19 00:00:16",
-      "album": {
-        "name": "Morenito",
-        "url": "https://open.spotify.com/album/4qMgq0Xnm9zk1uKr6YMyRF"
-      },
-      "artists": [
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        }
-      ],
-      "duration_ms": 135694,
-      "name": "Morenito",
-      "url": "https://open.spotify.com/track/2UgaIRtWxiEmRcv6MXhFVb"
-    },
-    {
-      "added_at": "2026-06-19 00:00:16",
-      "album": {
         "name": "TATTUU",
         "url": "https://open.spotify.com/album/4uLsIE2Af51E5eC9ijsMnI"
       },
@@ -491,6 +455,42 @@
     {
       "added_at": "2026-06-19 00:00:16",
       "album": {
+        "name": "Morenito",
+        "url": "https://open.spotify.com/album/4qMgq0Xnm9zk1uKr6YMyRF"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "duration_ms": 135694,
+      "name": "Morenito",
+      "url": "https://open.spotify.com/track/2UgaIRtWxiEmRcv6MXhFVb"
+    },
+    {
+      "added_at": "2026-06-19 00:00:16",
+      "album": {
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/0y63Qrt20QcFwxq3M7B7SK"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        },
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        }
+      ],
+      "duration_ms": 196622,
+      "name": "Invisible",
+      "url": "https://open.spotify.com/track/2dt5AmiiAA7dOhE1xws9qY"
+    },
+    {
+      "added_at": "2026-06-19 00:00:16",
+      "album": {
         "name": "siren",
         "url": "https://open.spotify.com/album/5Ra6GPqaqVgsRExfv24TBG"
       },
@@ -507,26 +507,6 @@
       "duration_ms": 165003,
       "name": "siren",
       "url": "https://open.spotify.com/track/2Abgq1EmE3gDZhhaLBmbAn"
-    },
-    {
-      "added_at": "2026-06-19 00:00:16",
-      "album": {
-        "name": "outta time",
-        "url": "https://open.spotify.com/album/3detwCd3QLrrzJZAEAxcQB"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        },
-        {
-          "name": "A. K. Paul",
-          "url": "https://open.spotify.com/artist/5Ur4wFDyKGnavclr0esWLe"
-        }
-      ],
-      "duration_ms": 251173,
-      "name": "outta time",
-      "url": "https://open.spotify.com/track/0jlOdZleCUed8nv4LcLjjU"
     },
     {
       "added_at": "2026-06-19 00:00:16",
@@ -571,18 +551,22 @@
     {
       "added_at": "2026-06-19 00:00:16",
       "album": {
-        "name": "Thinking What I'm Thinking",
-        "url": "https://open.spotify.com/album/23JijXiP8GcIuy44YnFMd3"
+        "name": "outta time",
+        "url": "https://open.spotify.com/album/3detwCd3QLrrzJZAEAxcQB"
       },
       "artists": [
         {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        },
+        {
+          "name": "A. K. Paul",
+          "url": "https://open.spotify.com/artist/5Ur4wFDyKGnavclr0esWLe"
         }
       ],
-      "duration_ms": 282200,
-      "name": "Thinking What I'm Thinking",
-      "url": "https://open.spotify.com/track/7ewkuUrCmy3FllHosZAwtN"
+      "duration_ms": 251173,
+      "name": "outta time",
+      "url": "https://open.spotify.com/track/0jlOdZleCUed8nv4LcLjjU"
     },
     {
       "added_at": "2026-06-19 00:00:16",
@@ -607,18 +591,18 @@
     {
       "added_at": "2026-06-19 00:00:16",
       "album": {
-        "name": "Meet Me In Love",
-        "url": "https://open.spotify.com/album/1dG3C2nPstMJcrrtvZGJyM"
+        "name": "Thinking What I'm Thinking",
+        "url": "https://open.spotify.com/album/23JijXiP8GcIuy44YnFMd3"
       },
       "artists": [
         {
-          "name": "Blossoms",
-          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
         }
       ],
-      "duration_ms": 242248,
-      "name": "Meet Me In Love",
-      "url": "https://open.spotify.com/track/0aYpbEZJGOpG8KLLqGkT3q"
+      "duration_ms": 282200,
+      "name": "Thinking What I'm Thinking",
+      "url": "https://open.spotify.com/track/7ewkuUrCmy3FllHosZAwtN"
     },
     {
       "added_at": "2026-06-19 00:00:16",
@@ -655,6 +639,22 @@
       "duration_ms": 199953,
       "name": "Didn't I",
       "url": "https://open.spotify.com/track/4O4f29FbJH50Nu8jBXKtQT"
+    },
+    {
+      "added_at": "2026-06-19 00:00:16",
+      "album": {
+        "name": "Meet Me In Love",
+        "url": "https://open.spotify.com/album/1dG3C2nPstMJcrrtvZGJyM"
+      },
+      "artists": [
+        {
+          "name": "Blossoms",
+          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+        }
+      ],
+      "duration_ms": 242248,
+      "name": "Meet Me In Love",
+      "url": "https://open.spotify.com/track/0aYpbEZJGOpG8KLLqGkT3q"
     },
     {
       "added_at": "2026-06-19 00:00:16",
@@ -843,18 +843,22 @@
     {
       "added_at": "2026-06-19 00:00:16",
       "album": {
-        "name": "For a Little While",
-        "url": "https://open.spotify.com/album/0eaPrCSV3x82l6IJPSVh3j"
+        "name": "Behind A Tree",
+        "url": "https://open.spotify.com/album/35WEBguCyLhFI1czWxmSPn"
       },
       "artists": [
         {
-          "name": "SKAYA",
-          "url": "https://open.spotify.com/artist/0MOD3DH1k0RNiMvIqxUQQC"
+          "name": "Pearly Drops",
+          "url": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
+        },
+        {
+          "name": "ELOI",
+          "url": "https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl"
         }
       ],
-      "duration_ms": 170847,
-      "name": "For a Little While",
-      "url": "https://open.spotify.com/track/4snOoBe1d9bvXBjtADp1pS"
+      "duration_ms": 286618,
+      "name": "Behind A Tree",
+      "url": "https://open.spotify.com/track/5xy6evgWUZ5nnAI9Ox6y1A"
     },
     {
       "added_at": "2026-06-19 00:00:16",
@@ -879,22 +883,38 @@
     {
       "added_at": "2026-06-19 00:00:16",
       "album": {
-        "name": "Behind A Tree",
-        "url": "https://open.spotify.com/album/35WEBguCyLhFI1czWxmSPn"
+        "name": "For a Little While",
+        "url": "https://open.spotify.com/album/0eaPrCSV3x82l6IJPSVh3j"
       },
       "artists": [
         {
-          "name": "Pearly Drops",
-          "url": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
-        },
-        {
-          "name": "ELOI",
-          "url": "https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl"
+          "name": "SKAYA",
+          "url": "https://open.spotify.com/artist/0MOD3DH1k0RNiMvIqxUQQC"
         }
       ],
-      "duration_ms": 286618,
-      "name": "Behind A Tree",
-      "url": "https://open.spotify.com/track/5xy6evgWUZ5nnAI9Ox6y1A"
+      "duration_ms": 170847,
+      "name": "For a Little While",
+      "url": "https://open.spotify.com/track/4snOoBe1d9bvXBjtADp1pS"
+    },
+    {
+      "added_at": "2026-06-19 00:00:16",
+      "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/4iE8RH0OP3DWK9RbCG8FQC"
+      },
+      "artists": [
+        {
+          "name": "NAVAH",
+          "url": "https://open.spotify.com/artist/4lFtNhunh6kye9fQ4vdge0"
+        },
+        {
+          "name": "Moll\u00fd",
+          "url": "https://open.spotify.com/artist/140BL4TUquU2SJmEEST3fw"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/6XwxplSdVP73GyP7FCcuLv"
     },
     {
       "added_at": "2026-06-19 00:00:16",
@@ -979,26 +999,6 @@
     {
       "added_at": "2026-06-19 00:00:16",
       "album": {
-        "name": "Again",
-        "url": "https://open.spotify.com/album/4iE8RH0OP3DWK9RbCG8FQC"
-      },
-      "artists": [
-        {
-          "name": "NAVAH",
-          "url": "https://open.spotify.com/artist/4lFtNhunh6kye9fQ4vdge0"
-        },
-        {
-          "name": "Moll\u00fd",
-          "url": "https://open.spotify.com/artist/140BL4TUquU2SJmEEST3fw"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/6XwxplSdVP73GyP7FCcuLv"
-    },
-    {
-      "added_at": "2026-06-19 00:00:16",
-      "album": {
         "name": "Birthday",
         "url": "https://open.spotify.com/album/0Nzm1WfqkTEMACg1pl3WHp"
       },
@@ -1031,30 +1031,22 @@
     {
       "added_at": "2026-06-19 00:00:16",
       "album": {
-        "name": "Find Us By The Bay",
-        "url": "https://open.spotify.com/album/2RYi7oot4wy9LKIgiNZzui"
+        "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/2RRUz0OS3mqNKklh1kPBt7"
       },
       "artists": [
         {
-          "name": "BAY",
-          "url": "https://open.spotify.com/artist/1Abn5FOJHEdk52uZfcjpet"
+          "name": "Scarlet Pleasure",
+          "url": "https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6"
         },
         {
-          "name": "Bobbie Wall",
-          "url": "https://open.spotify.com/artist/6HW856GZA6qu5O5pmkXVsI"
-        },
-        {
-          "name": "aniika",
-          "url": "https://open.spotify.com/artist/2wi4P025ZjQKNvhTpjncc3"
-        },
-        {
-          "name": "Yentl",
-          "url": "https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE"
+          "name": "SHARMA",
+          "url": "https://open.spotify.com/artist/1o9oTtjGFR4ONTjVKVvnrL"
         }
       ],
-      "duration_ms": 229346,
-      "name": "Lucy",
-      "url": "https://open.spotify.com/track/0MOlLiimtQqfIldkeYUOqQ"
+      "duration_ms": 134310,
+      "name": "Wide Awake",
+      "url": "https://open.spotify.com/track/6L3OQkay5RpXCQQSOwcyFo"
     },
     {
       "added_at": "2026-06-19 00:00:16",
@@ -1079,26 +1071,6 @@
     {
       "added_at": "2026-06-19 00:00:16",
       "album": {
-        "name": "Wide Awake",
-        "url": "https://open.spotify.com/album/2RRUz0OS3mqNKklh1kPBt7"
-      },
-      "artists": [
-        {
-          "name": "Scarlet Pleasure",
-          "url": "https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6"
-        },
-        {
-          "name": "SHARMA",
-          "url": "https://open.spotify.com/artist/1o9oTtjGFR4ONTjVKVvnrL"
-        }
-      ],
-      "duration_ms": 134310,
-      "name": "Wide Awake",
-      "url": "https://open.spotify.com/track/6L3OQkay5RpXCQQSOwcyFo"
-    },
-    {
-      "added_at": "2026-06-19 00:00:16",
-      "album": {
         "name": "UFO",
         "url": "https://open.spotify.com/album/58oyRiHptdbnSqw8lZTRdx"
       },
@@ -1111,6 +1083,34 @@
       "duration_ms": 167394,
       "name": "UFO",
       "url": "https://open.spotify.com/track/5gQOBdedMe34aqGm6H5eVm"
+    },
+    {
+      "added_at": "2026-06-19 00:00:16",
+      "album": {
+        "name": "Find Us By The Bay",
+        "url": "https://open.spotify.com/album/2RYi7oot4wy9LKIgiNZzui"
+      },
+      "artists": [
+        {
+          "name": "BAY",
+          "url": "https://open.spotify.com/artist/1Abn5FOJHEdk52uZfcjpet"
+        },
+        {
+          "name": "Bobbie Wall",
+          "url": "https://open.spotify.com/artist/6HW856GZA6qu5O5pmkXVsI"
+        },
+        {
+          "name": "aniika",
+          "url": "https://open.spotify.com/artist/2wi4P025ZjQKNvhTpjncc3"
+        },
+        {
+          "name": "Yentl",
+          "url": "https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE"
+        }
+      ],
+      "duration_ms": 229346,
+      "name": "Lucy",
+      "url": "https://open.spotify.com/track/0MOlLiimtQqfIldkeYUOqQ"
     },
     {
       "added_at": "2026-06-19 00:00:16",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-06-19 00:00:16",
       "album": {
-        "name": "Higher Midnight",
-        "url": "https://open.spotify.com/album/5qgWe7MCLEQKH3mBmQIlaa"
-      },
-      "artists": [
-        {
-          "name": "Koilwood",
-          "url": "https://open.spotify.com/artist/4GKDR0aZmXTNpvDBcUy1m2"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Higher Midnight",
-      "url": "https://open.spotify.com/track/34Yc7nYqmSXIqM6wIoS6Ca"
-    },
-    {
-      "added_at": "2026-06-19 00:00:16",
-      "album": {
         "name": "Committed No Crime",
         "url": "https://open.spotify.com/album/6dtzt82Gvy9o6mg7WU5JeK"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 171199,
       "name": "Committed No Crime",
       "url": "https://open.spotify.com/track/4KHOt70OXQAisf3OKRPc38"
+    },
+    {
+      "added_at": "2026-06-19 00:00:16",
+      "album": {
+        "name": "Higher Midnight",
+        "url": "https://open.spotify.com/album/5qgWe7MCLEQKH3mBmQIlaa"
+      },
+      "artists": [
+        {
+          "name": "Koilwood",
+          "url": "https://open.spotify.com/artist/4GKDR0aZmXTNpvDBcUy1m2"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Higher Midnight",
+      "url": "https://open.spotify.com/track/34Yc7nYqmSXIqM6wIoS6Ca"
     },
     {
       "added_at": "2026-06-19 00:00:16",

@@ -1,12 +1,12 @@
 {
   "description": "This is Jacob Banks. The essential tracks, all in one playlist.",
-  "num_followers": 40312,
+  "num_followers": 40310,
   "original_name": "This Is Jacob Banks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAAAWPywi+MYCwIZC6hFbiLQN",
+  "snapshot_id": "ajXYAAAAAAA0SKVPP9P7hHEhlgyKXB0r",
   "tracks": [
     {
       "added_at": null,
@@ -167,6 +167,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "What Do You Love",
+        "url": "https://open.spotify.com/album/4ltuKyjrU6A8AEo9JkNRdN"
+      },
+      "artists": [
+        {
+          "name": "Seeb",
+          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 211875,
+      "name": "What Do You Love",
+      "url": "https://open.spotify.com/track/4aB4udr3pcJuENmfDitPSZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Creed II (Score & Music from the Original Motion Picture)",
         "url": "https://open.spotify.com/album/4VODNHZZp8qxuMLJQK2G4u"
       },
@@ -191,22 +211,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "What Do You Love",
-        "url": "https://open.spotify.com/album/4ltuKyjrU6A8AEo9JkNRdN"
+        "name": "For My Friends",
+        "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
       },
       "artists": [
-        {
-          "name": "Seeb",
-          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
-        },
         {
           "name": "Jacob Banks",
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 211875,
-      "name": "What Do You Love",
-      "url": "https://open.spotify.com/track/4aB4udr3pcJuENmfDitPSZ"
+      "duration_ms": 195752,
+      "name": "Found",
+      "url": "https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO"
     },
     {
       "added_at": null,
@@ -223,22 +239,6 @@
       "duration_ms": 160590,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/2A9Pvf7B26rVgg6zE2rQ6v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For My Friends",
-        "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 195752,
-      "name": "Found",
-      "url": "https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO"
     },
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "For My Friends",
+        "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 158124,
+      "name": "Black N White",
+      "url": "https://open.spotify.com/track/4OCGJrXkPgYBtud4iSV395"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Me",
         "url": "https://open.spotify.com/album/2LQHSnhq9Da9qOVG4tAFQA"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 195000,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6OkP1t5se0cYZTfnNE5gC4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For My Friends",
-        "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 158124,
-      "name": "Black N White",
-      "url": "https://open.spotify.com/track/4OCGJrXkPgYBtud4iSV395"
     },
     {
       "added_at": null,
@@ -695,22 +695,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lundi M\u00e9chant",
-        "url": "https://open.spotify.com/album/42QybsqCIxCc1H2SEskAiv"
+        "name": "In The Name Of Love (From The Motion Picture The Equalizer 2)",
+        "url": "https://open.spotify.com/album/0KA7H5EiLI2uPwXSw3dJpf"
       },
       "artists": [
-        {
-          "name": "Ga\u00ebl Faye",
-          "url": "https://open.spotify.com/artist/69irZ4R8OsrLHjr6VmMmMg"
-        },
         {
           "name": "Jacob Banks",
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 231213,
-      "name": "Only Way Is Up",
-      "url": "https://open.spotify.com/track/2CQQQfax1YLcMbU0V5oTuQ"
+      "duration_ms": 204658,
+      "name": "In The Name Of Love - From The Motion Picture The Equalizer 2",
+      "url": "https://open.spotify.com/track/79WjeGL4IR8svbAVC2FF0I"
     },
     {
       "added_at": null,
@@ -747,18 +743,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "In The Name Of Love (From The Motion Picture The Equalizer 2)",
-        "url": "https://open.spotify.com/album/0KA7H5EiLI2uPwXSw3dJpf"
+        "name": "Lundi M\u00e9chant",
+        "url": "https://open.spotify.com/album/42QybsqCIxCc1H2SEskAiv"
       },
       "artists": [
+        {
+          "name": "Ga\u00ebl Faye",
+          "url": "https://open.spotify.com/artist/69irZ4R8OsrLHjr6VmMmMg"
+        },
         {
           "name": "Jacob Banks",
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 204658,
-      "name": "In The Name Of Love - From The Motion Picture The Equalizer 2",
-      "url": "https://open.spotify.com/track/79WjeGL4IR8svbAVC2FF0I"
+      "duration_ms": 231213,
+      "name": "Only Way Is Up",
+      "url": "https://open.spotify.com/track/2CQQQfax1YLcMbU0V5oTuQ"
     },
     {
       "added_at": null,

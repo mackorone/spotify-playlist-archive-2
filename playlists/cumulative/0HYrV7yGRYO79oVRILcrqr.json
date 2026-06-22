@@ -597,6 +597,24 @@
     },
     {
       "album": {
+        "name": "The Great Fado I",
+        "url": "https://open.spotify.com/album/6LbUYxq27ZKbb2TRJbfV19"
+      },
+      "artists": [
+        {
+          "name": "Wildchains",
+          "url": "https://open.spotify.com/artist/6LTDVLBOAZYAcrn459uQf8"
+        }
+      ],
+      "date_added": "2026-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181124,
+      "name": "Art of Illusion",
+      "url": "https://open.spotify.com/track/34IvfagtpjzxvKq61JyaoL"
+    },
+    {
+      "album": {
         "name": "Art\u0131k",
         "url": "https://open.spotify.com/album/7FuyvKt1vQtehzmxiPDi4i"
       },
@@ -2590,6 +2608,24 @@
       "duration_ms": 256163,
       "name": "Dream Again",
       "url": "https://open.spotify.com/track/39eQtcHzL3h7ZFLo2rsagt"
+    },
+    {
+      "album": {
+        "name": "Drinking",
+        "url": "https://open.spotify.com/album/7tNTL4WyylZ97QB0YSxsuw"
+      },
+      "artists": [
+        {
+          "name": "INTOTHEVOID",
+          "url": "https://open.spotify.com/artist/4FYLVQGKQn5RIycdpzZtlj"
+        }
+      ],
+      "date_added": "2026-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "Drinking",
+      "url": "https://open.spotify.com/track/6YysdxnxuAhIO2Y8ty36uu"
     },
     {
       "album": {
@@ -8565,6 +8601,32 @@
     },
     {
       "album": {
+        "name": "Standing In The Light",
+        "url": "https://open.spotify.com/album/3gdxXCYrlx3NGSTtUPYSsn"
+      },
+      "artists": [
+        {
+          "name": "Felix Commerell",
+          "url": "https://open.spotify.com/artist/0oyPV1Y8OGya6ypcQJH36d"
+        },
+        {
+          "name": "Gianni Pontillo",
+          "url": "https://open.spotify.com/artist/25WlZGbmXfwrs9dSWjyEZ7"
+        },
+        {
+          "name": "Thomy Gunn",
+          "url": "https://open.spotify.com/artist/5LmWKf6HXvytwVL8ElnLcP"
+        }
+      ],
+      "date_added": "2026-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226547,
+      "name": "Standing In The Light",
+      "url": "https://open.spotify.com/track/4EFxWojLE1JWH8uxobQ5M4"
+    },
+    {
+      "album": {
         "name": "I've Got a Story to Tell",
         "url": "https://open.spotify.com/album/5Ssz0Vi0rbAGXRkF4hhOoX"
       },
@@ -9424,6 +9486,24 @@
       "duration_ms": 210180,
       "name": "Time Is A Weapon",
       "url": "https://open.spotify.com/track/7F0rYUVBoEV4wEFeXG070e"
+    },
+    {
+      "album": {
+        "name": "Psaks'to vathia",
+        "url": "https://open.spotify.com/album/5fYs3dSNay0mHopgunjVXq"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Martos",
+          "url": "https://open.spotify.com/artist/3P8DI56L3cFZ7rEzoCoCVl"
+        }
+      ],
+      "date_added": "2026-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237755,
+      "name": "To blues tis monaksias",
+      "url": "https://open.spotify.com/track/0i1sZjx82aJ1rOe6bPqWqy"
     },
     {
       "album": {

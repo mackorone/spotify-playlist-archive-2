@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIWR2Z7ggXEKn>Drake</a>, <a href=spotify:playlist:37i9dQZF1EIVaqdm8JIWAo>Olivia Dean</a>, <a href=spotify:playlist:37i9dQZF1EIZFSv8zffo2I>Arctic Monkeys</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIVyWVIFafx7W>Dave</a>, <a href=spotify:playlist:37i9dQZF1EIW59fyjC7s7V>Alex Warren</a>, <a href=spotify:playlist:37i9dQZF1EIUFjCG9oFx2k>Gorillaz</a> and more",
   "name": "Chill Mix",
   "tracks": [
     {
@@ -24,7 +24,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 250864,
       "name": "0\u2103\u306e\u65e5\u66dc",
       "url": "https://open.spotify.com/track/6VsSAI7IlsTiXqKuCsuS81"
@@ -150,7 +150,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 330933,
       "name": "202 feat. \u6cc9\u307e\u304f\u3089 - New Mix",
       "url": "https://open.spotify.com/track/75HcneiRhhR7rSz9wNp5I3"
@@ -1478,7 +1478,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 254970,
       "name": "August (feat. MAVEL, Hang & TOCCHI)",
       "url": "https://open.spotify.com/track/36TXHVdLNwShOYy4lKA5xc"
@@ -2710,7 +2710,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 237533,
       "name": "by her feat. \u8302\u5343\u4ee3",
       "url": "https://open.spotify.com/track/4szsokorUhgwRwq3ZTDFXY"
@@ -3290,7 +3290,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-21",
+      "date_removed": null,
       "duration_ms": 171333,
       "name": "Chill with you ~One of the BE:ST-04 SOTA~",
       "url": "https://open.spotify.com/track/7d9i9kiFjmdjKoSu7yRC21"
@@ -3722,7 +3722,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-21",
+      "date_removed": null,
       "duration_ms": 193043,
       "name": "Complicato",
       "url": "https://open.spotify.com/track/6d7BZ0WMfu6OlgA3hIh58P"
@@ -4774,7 +4774,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 272394,
       "name": "Do I Wanna Know?",
       "url": "https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst"
@@ -5788,7 +5788,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 222640,
       "name": "Feel Good Inc.",
       "url": "https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT"
@@ -5948,10 +5948,28 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-11",
+      "date_removed": null,
       "duration_ms": 153430,
       "name": "FEVER DREAM",
       "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
+    },
+    {
+      "album": {
+        "name": "Fidget",
+        "url": "https://open.spotify.com/album/6TsfEqUCP1X02nPccPwkKW"
+      },
+      "artists": [
+        {
+          "name": "Chairten",
+          "url": "https://open.spotify.com/artist/1zTAVT8Wl64aleFDaLosQh"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131025,
+      "name": "Fidget",
+      "url": "https://open.spotify.com/track/1Lms2vbTn19sbKCCIjZXLh"
     },
     {
       "album": {
@@ -8252,7 +8270,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 182173,
       "name": "i love me",
       "url": "https://open.spotify.com/track/5VypooR1YLXiqFl6tgd7Y5"
@@ -11070,7 +11088,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-21",
+      "date_removed": null,
       "duration_ms": 255000,
       "name": "Made my day",
       "url": "https://open.spotify.com/track/4krgsevgl3SugkV8Xk8nrP"
@@ -11124,7 +11142,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 307681,
       "name": "Make Them Cry",
       "url": "https://open.spotify.com/track/55wlsNYqcfiQsHuX8l0jmF"
@@ -11382,7 +11400,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-21",
+      "date_removed": null,
       "duration_ms": 354981,
       "name": "Merry Go Round feat. BASI, \u553e\u5947, VIGORMAN & WILYWNKA",
       "url": "https://open.spotify.com/track/48VXL0Hz0RK2kopIMVAoXC"
@@ -11458,7 +11476,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 147370,
       "name": "minority",
       "url": "https://open.spotify.com/track/3ROjXRCm8LZYHgNUYCelc4"
@@ -12940,7 +12958,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 200823,
       "name": "Older",
       "url": "https://open.spotify.com/track/0BCUve4b3KySD9Sk8CMZ2i"
@@ -13206,7 +13224,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 98544,
       "name": "Pain",
       "url": "https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka"
@@ -15070,7 +15088,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-21",
+      "date_removed": null,
       "duration_ms": 180740,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
@@ -15204,7 +15222,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 173750,
       "name": "She Said (Big Jet Plane)",
       "url": "https://open.spotify.com/track/3HeZam86SuxGp1wZ3XMIjE"
@@ -16178,7 +16196,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 229200,
       "name": "Soul",
       "url": "https://open.spotify.com/track/11UD9IOlsEbK4fUURUziTj"
@@ -18714,7 +18732,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-21",
+      "date_removed": null,
       "duration_ms": 299462,
       "name": "tokyo (feat. \u9234\u6728\u771f\u6d77\u5b50, Skaai)",
       "url": "https://open.spotify.com/track/2TFr6nlRKUiIL3cYlhZzmx"
@@ -18862,7 +18880,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 182972,
       "name": "Trade Places",
       "url": "https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh"
@@ -20920,7 +20938,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 213757,
       "name": "\u3042\u306a\u305f\u3068\u3044\u305f\u3044",
       "url": "https://open.spotify.com/track/3lhSoYrMfyX9Mg24Fdp0eo"
@@ -20938,7 +20956,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 337306,
       "name": "\u3044\u3044\u6642\u9593",
       "url": "https://open.spotify.com/track/3lqUSr3F8gmD7ruydRlky4"
@@ -21094,7 +21112,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-21",
+      "date_removed": null,
       "duration_ms": 229553,
       "name": "\u30a6\u30a7\u30eb\u30c6\u30eb",
       "url": "https://open.spotify.com/track/4iYvEBKfRIKQLv39EEZeLi"
@@ -21148,7 +21166,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 269666,
       "name": "\u30ca\u30a4\u30c8\u30aa\u30f3\u30b6\u30d7\u30e9\u30cd\u30c3\u30c8",
       "url": "https://open.spotify.com/track/41GHAXwcqJcmP3Y1U4CoiJ"
@@ -21184,7 +21202,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 291880,
       "name": "\u30e1\u30eb\u30d8\u30f3\u3092\u6368\u3066\u306a\u3044\u3067",
       "url": "https://open.spotify.com/track/1GsZsgGcyDpE4MnGBgN6uo"
@@ -21484,7 +21502,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 266333,
       "name": "\u611b\u306e\u307e\u307e\u306b",
       "url": "https://open.spotify.com/track/3Z3ldilmAxJccTZv0GeUfq"

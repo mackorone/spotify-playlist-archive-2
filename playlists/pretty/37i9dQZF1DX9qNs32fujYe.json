@@ -1,6 +1,6 @@
 {
   "description": "Heavy Metal forever. Classics to brand new tracks across heavy, power, doom, thrash, and sludge. Cover: Monolord",
-  "num_followers": 1409011,
+  "num_followers": 1409074,
   "original_name": "Heavy Metal",
   "owner": {
     "name": "Spotify",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-05-29 04:02:43",
       "album": {
-        "name": "BRAVE NEW WORLD",
-        "url": "https://open.spotify.com/album/6ODIDW9Ud3whinMHkY2Cbh"
-      },
-      "artists": [
-        {
-          "name": "STARSET",
-          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
-        }
-      ],
-      "duration_ms": 263942,
-      "name": "BRAVE NEW WORLD",
-      "url": "https://open.spotify.com/track/7stpbtJzoBx1D38egFeT29"
-    },
-    {
-      "added_at": "2026-05-29 04:02:43",
-      "album": {
         "name": "Nu Delhi",
         "url": "https://open.spotify.com/album/3JTGK3Rm4G03OcK6wI1bJa"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 268141,
       "name": "Nu Delhi",
       "url": "https://open.spotify.com/track/4AFqxUgTjluFRfjPLuoZ0a"
+    },
+    {
+      "added_at": "2026-05-29 04:02:43",
+      "album": {
+        "name": "BRAVE NEW WORLD",
+        "url": "https://open.spotify.com/album/6ODIDW9Ud3whinMHkY2Cbh"
+      },
+      "artists": [
+        {
+          "name": "STARSET",
+          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
+        }
+      ],
+      "duration_ms": 263942,
+      "name": "BRAVE NEW WORLD",
+      "url": "https://open.spotify.com/track/7stpbtJzoBx1D38egFeT29"
     },
     {
       "added_at": "2026-05-29 04:02:43",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2026-05-29 04:02:43",
       "album": {
-        "name": "Revenger",
-        "url": "https://open.spotify.com/album/48X7KToLv5QVFKN3L7hQa6"
-      },
-      "artists": [
-        {
-          "name": "Black Veil Brides",
-          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
-        },
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 220227,
-      "name": "Revenger",
-      "url": "https://open.spotify.com/track/39G4lx75wNFd1rU74WhmqK"
-    },
-    {
-      "added_at": "2026-05-29 04:02:43",
-      "album": {
         "name": "Tsunami Sea",
         "url": "https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg"
       },
@@ -1463,6 +1443,22 @@
       "duration_ms": 176466,
       "name": "No Loss, No Love",
       "url": "https://open.spotify.com/track/2wwxE7Ww8UfcDtXCiLlnsB"
+    },
+    {
+      "added_at": "2026-05-29 04:02:43",
+      "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/7kLqk3fireCdZxAZmCud3k"
+      },
+      "artists": [
+        {
+          "name": "Corrosion Of Conformity\t",
+          "url": "https://open.spotify.com/artist/1BBIIH0h76KN8gYeXFcPjR"
+        }
+      ],
+      "duration_ms": 205506,
+      "name": "Vote with a Bullet",
+      "url": "https://open.spotify.com/track/5Z7U8TRHAlX2uL2lVYv5Wa"
     },
     {
       "added_at": "2026-05-29 04:02:43",
@@ -1499,18 +1495,22 @@
     {
       "added_at": "2026-05-29 04:02:43",
       "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/7kLqk3fireCdZxAZmCud3k"
+        "name": "Revenger",
+        "url": "https://open.spotify.com/album/48X7KToLv5QVFKN3L7hQa6"
       },
       "artists": [
         {
-          "name": "Corrosion Of Conformity\t",
-          "url": "https://open.spotify.com/artist/1BBIIH0h76KN8gYeXFcPjR"
+          "name": "Black Veil Brides",
+          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
+        },
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 205506,
-      "name": "Vote with a Bullet",
-      "url": "https://open.spotify.com/track/5Z7U8TRHAlX2uL2lVYv5Wa"
+      "duration_ms": 220227,
+      "name": "Revenger",
+      "url": "https://open.spotify.com/track/39G4lx75wNFd1rU74WhmqK"
     },
     {
       "added_at": "2026-05-29 04:02:43",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-05-29 04:02:43",
       "album": {
-        "name": "Dig Your Own Grave",
-        "url": "https://open.spotify.com/album/26ikTMpGuhIQNNcjt7DpPb"
-      },
-      "artists": [
-        {
-          "name": "DevilDriver",
-          "url": "https://open.spotify.com/artist/79el7mcHYhXYW3Zek21i0L"
-        }
-      ],
-      "duration_ms": 269287,
-      "name": "Dig Your Own Grave",
-      "url": "https://open.spotify.com/track/2tVcLmLOEag6OQrrrSygSp"
-    },
-    {
-      "added_at": "2026-05-29 04:02:43",
-      "album": {
         "name": "Urban Discipline",
         "url": "https://open.spotify.com/album/4ZtfEq2ES0vRMUY5shqDws"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 284066,
       "name": "Punishment",
       "url": "https://open.spotify.com/track/3eI2C0gohXlg4AsavdYSiz"
+    },
+    {
+      "added_at": "2026-05-29 04:02:43",
+      "album": {
+        "name": "Dig Your Own Grave",
+        "url": "https://open.spotify.com/album/26ikTMpGuhIQNNcjt7DpPb"
+      },
+      "artists": [
+        {
+          "name": "DevilDriver",
+          "url": "https://open.spotify.com/artist/79el7mcHYhXYW3Zek21i0L"
+        }
+      ],
+      "duration_ms": 269287,
+      "name": "Dig Your Own Grave",
+      "url": "https://open.spotify.com/track/2tVcLmLOEag6OQrrrSygSp"
     },
     {
       "added_at": "2026-05-29 04:02:43",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2026-05-29 04:02:43",
       "album": {
-        "name": "The Forgotten",
-        "url": "https://open.spotify.com/album/0jIKQkG06Op47HFg6slCS1"
-      },
-      "artists": [
-        {
-          "name": "Orbit Culture",
-          "url": "https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY"
-        }
-      ],
-      "duration_ms": 362500,
-      "name": "While We Serve",
-      "url": "https://open.spotify.com/track/3LmcjJ7e4tlRqwYs2VNRq0"
-    },
-    {
-      "added_at": "2026-05-29 04:02:43",
-      "album": {
         "name": "Giants & Monsters",
         "url": "https://open.spotify.com/album/5oFAGk4EQNN5uEah2C5HWI"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 210253,
       "name": "A Little Is A Little Too Much",
       "url": "https://open.spotify.com/track/4uFUalyidCKsnJbFCzRmhs"
+    },
+    {
+      "added_at": "2026-05-29 04:02:43",
+      "album": {
+        "name": "The Forgotten",
+        "url": "https://open.spotify.com/album/0jIKQkG06Op47HFg6slCS1"
+      },
+      "artists": [
+        {
+          "name": "Orbit Culture",
+          "url": "https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY"
+        }
+      ],
+      "duration_ms": 362500,
+      "name": "While We Serve",
+      "url": "https://open.spotify.com/track/3LmcjJ7e4tlRqwYs2VNRq0"
     },
     {
       "added_at": "2026-05-29 04:02:43",
@@ -2015,6 +2015,22 @@
     {
       "added_at": "2026-05-29 04:02:43",
       "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/1geUgtSRgYzTijD8bNgHoA"
+      },
+      "artists": [
+        {
+          "name": "Killswitch Engage",
+          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
+        }
+      ],
+      "duration_ms": 234931,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/7GDqw5IBzAiu9zV7paGLnT"
+    },
+    {
+      "added_at": "2026-05-29 04:02:43",
+      "album": {
         "name": "No Place of Warmth (feat. Gerard Way)",
         "url": "https://open.spotify.com/album/4k9gYOwN9shcLs1Xxd4YxU"
       },
@@ -2031,22 +2047,6 @@
       "duration_ms": 289750,
       "name": "No Place of Warmth (feat. Gerard Way)",
       "url": "https://open.spotify.com/track/4cNUzje8bpS368orIfCp70"
-    },
-    {
-      "added_at": "2026-05-29 04:02:43",
-      "album": {
-        "name": "I Believe",
-        "url": "https://open.spotify.com/album/1geUgtSRgYzTijD8bNgHoA"
-      },
-      "artists": [
-        {
-          "name": "Killswitch Engage",
-          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
-        }
-      ],
-      "duration_ms": 234931,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/7GDqw5IBzAiu9zV7paGLnT"
     },
     {
       "added_at": "2026-05-29 04:02:43",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2026-05-29 04:02:43",
       "album": {
-        "name": "Borderland",
-        "url": "https://open.spotify.com/album/3sJNIoRnixgbSkSSDbE830"
-      },
-      "artists": [
-        {
-          "name": "Amorphis",
-          "url": "https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD"
-        }
-      ],
-      "duration_ms": 328626,
-      "name": "Fog To Fog",
-      "url": "https://open.spotify.com/track/1XOmonDrGwXHfLqN4Iitvj"
-    },
-    {
-      "added_at": "2026-05-29 04:02:43",
-      "album": {
         "name": "Last Goodbye",
         "url": "https://open.spotify.com/album/6P1p6YKpnipMo8CQKfTGOB"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 212710,
       "name": "Last Goodbye",
       "url": "https://open.spotify.com/track/4syuqt1OfDiwdgNHVZjmCq"
+    },
+    {
+      "added_at": "2026-05-29 04:02:43",
+      "album": {
+        "name": "Borderland",
+        "url": "https://open.spotify.com/album/3sJNIoRnixgbSkSSDbE830"
+      },
+      "artists": [
+        {
+          "name": "Amorphis",
+          "url": "https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD"
+        }
+      ],
+      "duration_ms": 328626,
+      "name": "Fog To Fog",
+      "url": "https://open.spotify.com/track/1XOmonDrGwXHfLqN4Iitvj"
     },
     {
       "added_at": "2026-05-29 04:02:43",
@@ -2711,22 +2711,6 @@
     {
       "added_at": "2026-05-29 04:02:43",
       "album": {
-        "name": "The Mandrake Project",
-        "url": "https://open.spotify.com/album/0tN7q7Xmt0qaoGElJ3Gvqy"
-      },
-      "artists": [
-        {
-          "name": "Bruce Dickinson",
-          "url": "https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9"
-        }
-      ],
-      "duration_ms": 288310,
-      "name": "Many Doors to Hell",
-      "url": "https://open.spotify.com/track/1HqRyjIsJw9Y3XeD4jTRbZ"
-    },
-    {
-      "added_at": "2026-05-29 04:02:43",
-      "album": {
         "name": "Spider Lilly",
         "url": "https://open.spotify.com/album/0PQ6bjvXCXtLHgDxNGwBxK"
       },
@@ -2739,6 +2723,22 @@
       "duration_ms": 274243,
       "name": "Spider Lilly",
       "url": "https://open.spotify.com/track/3oElmGvpqVbknoVioijD4v"
+    },
+    {
+      "added_at": "2026-05-29 04:02:43",
+      "album": {
+        "name": "The Mandrake Project",
+        "url": "https://open.spotify.com/album/0tN7q7Xmt0qaoGElJ3Gvqy"
+      },
+      "artists": [
+        {
+          "name": "Bruce Dickinson",
+          "url": "https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9"
+        }
+      ],
+      "duration_ms": 288310,
+      "name": "Many Doors to Hell",
+      "url": "https://open.spotify.com/track/1HqRyjIsJw9Y3XeD4jTRbZ"
     },
     {
       "added_at": "2026-05-29 04:02:43",
@@ -2775,22 +2775,6 @@
     {
       "added_at": "2026-05-29 04:02:43",
       "album": {
-        "name": "If It's All The Same To You",
-        "url": "https://open.spotify.com/album/3nmqCvpxxLOYkikOZGNaNG"
-      },
-      "artists": [
-        {
-          "name": "Malevolence",
-          "url": "https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk"
-        }
-      ],
-      "duration_ms": 254742,
-      "name": "If It's All The Same To You",
-      "url": "https://open.spotify.com/track/4wyU17zJTM512I1i6OSI0X"
-    },
-    {
-      "added_at": "2026-05-29 04:02:43",
-      "album": {
         "name": "In Waves",
         "url": "https://open.spotify.com/album/5NDxdsUG2cpD3jJRqHbgic"
       },
@@ -2803,6 +2787,22 @@
       "duration_ms": 302466,
       "name": "In Waves",
       "url": "https://open.spotify.com/track/4B5hrpQjHTLfGMcTgpatUs"
+    },
+    {
+      "added_at": "2026-05-29 04:02:43",
+      "album": {
+        "name": "If It's All The Same To You",
+        "url": "https://open.spotify.com/album/3nmqCvpxxLOYkikOZGNaNG"
+      },
+      "artists": [
+        {
+          "name": "Malevolence",
+          "url": "https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk"
+        }
+      ],
+      "duration_ms": 254742,
+      "name": "If It's All The Same To You",
+      "url": "https://open.spotify.com/track/4wyU17zJTM512I1i6OSI0X"
     },
     {
       "added_at": "2026-05-29 04:02:43",
@@ -2855,22 +2855,6 @@
     {
       "added_at": "2026-05-29 04:02:43",
       "album": {
-        "name": "Sidewinder",
-        "url": "https://open.spotify.com/album/3T8MDwZkCfPGGw5SByI38o"
-      },
-      "artists": [
-        {
-          "name": "Volumes",
-          "url": "https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU"
-        }
-      ],
-      "duration_ms": 239682,
-      "name": "Sidewinder",
-      "url": "https://open.spotify.com/track/4nfPatBDfuyGIiEulsNxf3"
-    },
-    {
-      "added_at": "2026-05-29 04:02:43",
-      "album": {
         "name": "Cross The Divide",
         "url": "https://open.spotify.com/album/58fCrpLJa3BwBmGKcTthV2"
       },
@@ -2899,6 +2883,22 @@
       "duration_ms": 231186,
       "name": "Blood Dynasty",
       "url": "https://open.spotify.com/track/6n976ZUAIzsbxpKTK8KZLA"
+    },
+    {
+      "added_at": "2026-05-29 04:02:43",
+      "album": {
+        "name": "Sidewinder",
+        "url": "https://open.spotify.com/album/3T8MDwZkCfPGGw5SByI38o"
+      },
+      "artists": [
+        {
+          "name": "Volumes",
+          "url": "https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU"
+        }
+      ],
+      "duration_ms": 239682,
+      "name": "Sidewinder",
+      "url": "https://open.spotify.com/track/4nfPatBDfuyGIiEulsNxf3"
     },
     {
       "added_at": "2026-05-29 04:02:43",
@@ -3019,22 +3019,6 @@
     {
       "added_at": "2026-05-29 04:02:43",
       "album": {
-        "name": "The Fever Mask",
-        "url": "https://open.spotify.com/album/1Yi8lPwz7yfCwiZdjI29UE"
-      },
-      "artists": [
-        {
-          "name": "At The Gates",
-          "url": "https://open.spotify.com/artist/6YXarbjg36ODFPez0PnOlD"
-        }
-      ],
-      "duration_ms": 192586,
-      "name": "The Fever Mask",
-      "url": "https://open.spotify.com/track/29Uss2uPm7lOeKzoLyQXQ6"
-    },
-    {
-      "added_at": "2026-05-29 04:02:43",
-      "album": {
         "name": "Slave Machine",
         "url": "https://open.spotify.com/album/4dCDFxVCXddE7CCAO7RAEv"
       },
@@ -3067,6 +3051,22 @@
       "duration_ms": 288730,
       "name": "Taniwha (feat. Randy Blythe)",
       "url": "https://open.spotify.com/track/0NMjS1FNduEm9SK2hwiP1x"
+    },
+    {
+      "added_at": "2026-05-29 04:02:43",
+      "album": {
+        "name": "The Fever Mask",
+        "url": "https://open.spotify.com/album/1Yi8lPwz7yfCwiZdjI29UE"
+      },
+      "artists": [
+        {
+          "name": "At The Gates",
+          "url": "https://open.spotify.com/artist/6YXarbjg36ODFPez0PnOlD"
+        }
+      ],
+      "duration_ms": 192586,
+      "name": "The Fever Mask",
+      "url": "https://open.spotify.com/track/29Uss2uPm7lOeKzoLyQXQ6"
     },
     {
       "added_at": "2026-05-29 04:02:43",
@@ -3167,22 +3167,6 @@
     {
       "added_at": "2026-05-29 04:02:43",
       "album": {
-        "name": "DEATHWEAVER",
-        "url": "https://open.spotify.com/album/5k9532SUZPOO992pIrQoRg"
-      },
-      "artists": [
-        {
-          "name": "Frozen Soul",
-          "url": "https://open.spotify.com/artist/1hwwmQI1vhQamuIksyDKG6"
-        }
-      ],
-      "duration_ms": 233768,
-      "name": "DEATHWEAVER",
-      "url": "https://open.spotify.com/track/0iAjlfJNPziWcJDbjLwPTA"
-    },
-    {
-      "added_at": "2026-05-29 04:02:43",
-      "album": {
         "name": "Sam The Brave",
         "url": "https://open.spotify.com/album/37inediLQp2gvA17f1xQY9"
       },
@@ -3215,6 +3199,22 @@
     {
       "added_at": "2026-05-29 04:02:43",
       "album": {
+        "name": "DEATHWEAVER",
+        "url": "https://open.spotify.com/album/5k9532SUZPOO992pIrQoRg"
+      },
+      "artists": [
+        {
+          "name": "Frozen Soul",
+          "url": "https://open.spotify.com/artist/1hwwmQI1vhQamuIksyDKG6"
+        }
+      ],
+      "duration_ms": 233768,
+      "name": "DEATHWEAVER",
+      "url": "https://open.spotify.com/track/0iAjlfJNPziWcJDbjLwPTA"
+    },
+    {
+      "added_at": "2026-05-29 04:02:43",
+      "album": {
         "name": "Endtime Signals",
         "url": "https://open.spotify.com/album/23iJlCpjOvLgha8xkOkJBI"
       },
@@ -3231,22 +3231,6 @@
     {
       "added_at": "2026-05-29 04:02:43",
       "album": {
-        "name": "Someone Has to Pay",
-        "url": "https://open.spotify.com/album/05On1IxfDvhu78R1jYw8Tm"
-      },
-      "artists": [
-        {
-          "name": "Mustasch",
-          "url": "https://open.spotify.com/artist/7ig8pUnno95YNA9MclOveH"
-        }
-      ],
-      "duration_ms": 299301,
-      "name": "Someone Has to Pay",
-      "url": "https://open.spotify.com/track/7vxoiWDRJvivul9JOlrMWy"
-    },
-    {
-      "added_at": "2026-05-29 04:02:43",
-      "album": {
         "name": "Together We Rise",
         "url": "https://open.spotify.com/album/2DAqWZXEeZkdWkfgOCek8V"
       },
@@ -3259,6 +3243,22 @@
       "duration_ms": 302628,
       "name": "Together We Rise",
       "url": "https://open.spotify.com/track/4Asn26WKTDwVEx5sJrEc8T"
+    },
+    {
+      "added_at": "2026-05-29 04:02:43",
+      "album": {
+        "name": "Someone Has to Pay",
+        "url": "https://open.spotify.com/album/05On1IxfDvhu78R1jYw8Tm"
+      },
+      "artists": [
+        {
+          "name": "Mustasch",
+          "url": "https://open.spotify.com/artist/7ig8pUnno95YNA9MclOveH"
+        }
+      ],
+      "duration_ms": 299301,
+      "name": "Someone Has to Pay",
+      "url": "https://open.spotify.com/track/7vxoiWDRJvivul9JOlrMWy"
     },
     {
       "added_at": "2026-05-29 04:02:43",

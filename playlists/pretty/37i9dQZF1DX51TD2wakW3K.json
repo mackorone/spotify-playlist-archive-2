@@ -1,6 +1,6 @@
 {
   "description": "The rule breakers who shaped the punk rock ethos, and the artists who carry it forward today. Cover: Amy Taylor (Amyl and The Sniffers)",
-  "num_followers": 18718,
+  "num_followers": 18860,
   "original_name": "Women of Punk",
   "owner": {
     "name": "Spotify",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-03-05 23:16:41",
       "album": {
-        "name": "Bad Reputation (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 169186,
-      "name": "Bad Reputation",
-      "url": "https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M"
-    },
-    {
-      "added_at": "2026-03-05 23:16:41",
-      "album": {
         "name": "Can't Stand The Rezillos: The [Almost] Complete Rezillos",
         "url": "https://open.spotify.com/album/3gkTVYznHVW1Z9v3AOGNKo"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 114240,
       "name": "Somebody's Gonna Get Their Head Kicked in Tonight",
       "url": "https://open.spotify.com/track/3q8pRsDaXqHZdo73Vsittc"
+    },
+    {
+      "added_at": "2026-03-05 23:16:41",
+      "album": {
+        "name": "Bad Reputation (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 169186,
+      "name": "Bad Reputation",
+      "url": "https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M"
     },
     {
       "added_at": "2026-03-05 23:16:41",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-03-05 23:16:41",
       "album": {
-        "name": "Calculated",
-        "url": "https://open.spotify.com/album/7j1FVjRMoFdboNookYCXQB"
-      },
-      "artists": [
-        {
-          "name": "Heavens To Betsy",
-          "url": "https://open.spotify.com/artist/0nMGtVCtOB828z1CYKDzGZ"
-        }
-      ],
-      "duration_ms": 117733,
-      "name": "Terrorist",
-      "url": "https://open.spotify.com/track/5svfeW2c5FttYvj2IB5Gq6"
-    },
-    {
-      "added_at": "2026-03-05 23:16:41",
-      "album": {
         "name": "Warriors",
         "url": "https://open.spotify.com/album/54ThBfBsIYq8IjvMKEFxWc"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 172400,
       "name": "Womanarchist",
       "url": "https://open.spotify.com/track/3Viq6H7Yuo5S9dZDi76CNJ"
+    },
+    {
+      "added_at": "2026-03-05 23:16:41",
+      "album": {
+        "name": "Calculated",
+        "url": "https://open.spotify.com/album/7j1FVjRMoFdboNookYCXQB"
+      },
+      "artists": [
+        {
+          "name": "Heavens To Betsy",
+          "url": "https://open.spotify.com/artist/0nMGtVCtOB828z1CYKDzGZ"
+        }
+      ],
+      "duration_ms": 117733,
+      "name": "Terrorist",
+      "url": "https://open.spotify.com/track/5svfeW2c5FttYvj2IB5Gq6"
     },
     {
       "added_at": "2026-03-05 23:16:41",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-03-05 23:16:41",
       "album": {
-        "name": "Moving Targets",
-        "url": "https://open.spotify.com/album/7LHgN8wNZITpIywXHVBRLb"
-      },
-      "artists": [
-        {
-          "name": "Penetration",
-          "url": "https://open.spotify.com/artist/0XLpzWw7BLdlsf32qlMXKV"
-        }
-      ],
-      "duration_ms": 176226,
-      "name": "Don't Dictate - Demo",
-      "url": "https://open.spotify.com/track/0LzCSYjFxH3LKSU4UIeRBk"
-    },
-    {
-      "added_at": "2026-03-05 23:16:41",
-      "album": {
         "name": "ITEKOMA HITS",
         "url": "https://open.spotify.com/album/0A7dXsu3QAMbs2Wu0FUdF4"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 131213,
       "name": "Love is Short",
       "url": "https://open.spotify.com/track/4lWBGCEsNyMEcNVHCb7Vxi"
+    },
+    {
+      "added_at": "2026-03-05 23:16:41",
+      "album": {
+        "name": "Moving Targets",
+        "url": "https://open.spotify.com/album/7LHgN8wNZITpIywXHVBRLb"
+      },
+      "artists": [
+        {
+          "name": "Penetration",
+          "url": "https://open.spotify.com/artist/0XLpzWw7BLdlsf32qlMXKV"
+        }
+      ],
+      "duration_ms": 176226,
+      "name": "Don't Dictate - Demo",
+      "url": "https://open.spotify.com/track/0LzCSYjFxH3LKSU4UIeRBk"
     },
     {
       "added_at": "2026-03-05 23:16:41",

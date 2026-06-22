@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 
 > Punchline, storytelling, rap italiano\. MadMan in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,216 likes - 108 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,213 likes - 108 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

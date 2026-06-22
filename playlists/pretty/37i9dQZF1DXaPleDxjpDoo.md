@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 
 > Bathe in forest sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,022 likes - 134 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,074 likes - 134 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 | 133 | [Paladin Diversum](https://open.spotify.com/track/60r8LX6fGaLQYjYCdBB2Kp) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Paladin Diversum](https://open.spotify.com/album/2S05YvCq7NM8x57DIb73ur) | 3:16 |
 | 134 | [Rumble in Peace](https://open.spotify.com/track/1KVOysjv01sx4N21q102kJ) | [Lula Dreamer](https://open.spotify.com/artist/3YmfABSTczjkjF8EblWWa8) | [Rumble in Peace](https://open.spotify.com/album/3XRcZrKvzaQO3ONBBXof7N) | 2:58 |
 
-Snapshot ID: `AAAAAIIMZe8uDlYL/wyijc/F90tPnbne`
+Snapshot ID: `AAAAAAvwdkgnNGVhJ8GOqQN4EJ0fffFY`

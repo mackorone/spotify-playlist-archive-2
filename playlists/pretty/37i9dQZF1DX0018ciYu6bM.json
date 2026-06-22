@@ -1,6 +1,6 @@
 {
   "description": "Rolling with the 'bops' in your Kimbap. Bringing you the songs that are currently trending and everything else in between. (Cover: aespa)",
-  "num_followers": 1110771,
+  "num_followers": 1110947,
   "original_name": "KimBops!",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2026-06-18 06:21:41",
       "album": {
-        "name": "Gnarly",
-        "url": "https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 137316,
-      "name": "Gnarly",
-      "url": "https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL"
-    },
-    {
-      "added_at": "2026-06-18 06:21:41",
-      "album": {
         "name": "ICONIC BY MISTAKE",
         "url": "https://open.spotify.com/album/7yys068oxBNuFHNbF8HMam"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 177982,
       "name": "ICONIC BY MISTAKE",
       "url": "https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD"
+    },
+    {
+      "added_at": "2026-06-18 06:21:41",
+      "album": {
+        "name": "Gnarly",
+        "url": "https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 137316,
+      "name": "Gnarly",
+      "url": "https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL"
     },
     {
       "added_at": "2026-06-18 06:21:41",
@@ -287,22 +287,6 @@
     {
       "added_at": "2026-06-18 06:21:41",
       "album": {
-        "name": "MUSE",
-        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 170887,
-      "name": "Who",
-      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
-    },
-    {
-      "added_at": "2026-06-18 06:21:41",
-      "album": {
         "name": "'PUREFLOW', Pt. 1",
         "url": "https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 176546,
       "name": "BOOMPALA",
       "url": "https://open.spotify.com/track/41d2WjuL0ikRKVjxmL7ZFz"
+    },
+    {
+      "added_at": "2026-06-18 06:21:41",
+      "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 170887,
+      "name": "Who",
+      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
     },
     {
       "added_at": "2026-06-18 06:21:41",
@@ -399,38 +399,6 @@
     {
       "added_at": "2026-06-18 06:21:41",
       "album": {
-        "name": "7TH YEAR: A Moment of Stillness in the Thorns",
-        "url": "https://open.spotify.com/album/55LBvRI4i4FUUf5dYKVMHk"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 153954,
-      "name": "Stick With You",
-      "url": "https://open.spotify.com/track/1ttNlwhsAwCvSKWGxA6fDk"
-    },
-    {
-      "added_at": "2026-06-18 06:21:41",
-      "album": {
-        "name": "GOLDEN",
-        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        }
-      ],
-      "duration_ms": 206019,
-      "name": "Standing Next to You",
-      "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
-    },
-    {
-      "added_at": "2026-06-18 06:21:41",
-      "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
       },
@@ -487,6 +455,38 @@
     {
       "added_at": "2026-06-18 06:21:41",
       "album": {
+        "name": "7TH YEAR: A Moment of Stillness in the Thorns",
+        "url": "https://open.spotify.com/album/55LBvRI4i4FUUf5dYKVMHk"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 153954,
+      "name": "Stick With You",
+      "url": "https://open.spotify.com/track/1ttNlwhsAwCvSKWGxA6fDk"
+    },
+    {
+      "added_at": "2026-06-18 06:21:41",
+      "album": {
+        "name": "GOLDEN",
+        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "duration_ms": 206019,
+      "name": "Standing Next to You",
+      "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
+    },
+    {
+      "added_at": "2026-06-18 06:21:41",
+      "album": {
         "name": "LOVE CATCHER",
         "url": "https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F"
       },
@@ -515,6 +515,22 @@
       "duration_ms": 174653,
       "name": "FaSHioN",
       "url": "https://open.spotify.com/track/4ecdsGz3Hg6TKPwQ0ZOdJz"
+    },
+    {
+      "added_at": "2026-06-18 06:21:41",
+      "album": {
+        "name": "NOT CUTE ANYMORE",
+        "url": "https://open.spotify.com/album/6wKHLrZczZAhDVsMEG4JXt"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 131997,
+      "name": "NOT CUTE ANYMORE",
+      "url": "https://open.spotify.com/track/1k0JAiH11gHL9dc5dfQjQr"
     },
     {
       "added_at": "2026-06-18 06:21:41",
@@ -551,22 +567,6 @@
     {
       "added_at": "2026-06-18 06:21:41",
       "album": {
-        "name": "NOT CUTE ANYMORE",
-        "url": "https://open.spotify.com/album/6wKHLrZczZAhDVsMEG4JXt"
-      },
-      "artists": [
-        {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
-        }
-      ],
-      "duration_ms": 131997,
-      "name": "NOT CUTE ANYMORE",
-      "url": "https://open.spotify.com/track/1k0JAiH11gHL9dc5dfQjQr"
-    },
-    {
-      "added_at": "2026-06-18 06:21:41",
-      "album": {
         "name": "SHOT CALLERS",
         "url": "https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR"
       },
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-06-18 06:21:41",
       "album": {
-        "name": "ARIRANG",
-        "url": "https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 189725,
-      "name": "Body to Body",
-      "url": "https://open.spotify.com/track/02PyZNzTdzA1Nbxycnv93V"
-    },
-    {
-      "added_at": "2026-06-18 06:21:41",
-      "album": {
         "name": "rosie",
         "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 156685,
       "name": "toxic till the end",
       "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
+    },
+    {
+      "added_at": "2026-06-18 06:21:41",
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 189725,
+      "name": "Body to Body",
+      "url": "https://open.spotify.com/track/02PyZNzTdzA1Nbxycnv93V"
     },
     {
       "added_at": "2026-06-18 06:21:41",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-06-18 06:21:41",
       "album": {
-        "name": "DARK BLOOD",
-        "url": "https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 157531,
-      "name": "Bite Me",
-      "url": "https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa"
-    },
-    {
-      "added_at": "2026-06-18 06:21:41",
-      "album": {
         "name": "SUGAR HONEY ICE TEA",
         "url": "https://open.spotify.com/album/2KiMyHuf4NDqnM7GhGysBC"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 178032,
       "name": "SUGAR HONEY ICE TEA",
       "url": "https://open.spotify.com/track/16ck09A3j0tqvV6t3fW1DD"
+    },
+    {
+      "added_at": "2026-06-18 06:21:41",
+      "album": {
+        "name": "DARK BLOOD",
+        "url": "https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 157531,
+      "name": "Bite Me",
+      "url": "https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa"
     },
     {
       "added_at": "2026-06-18 06:21:41",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-06-18 06:21:41",
       "album": {
-        "name": "KARMA",
-        "url": "https://open.spotify.com/album/3wqskwruUGJHC4yHbo7nxc"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 164026,
-      "name": "CEREMONY",
-      "url": "https://open.spotify.com/track/62xU1NllqWBCbkZFTXEqzF"
-    },
-    {
-      "added_at": "2026-06-18 06:21:41",
-      "album": {
         "name": "BITE NOW",
         "url": "https://open.spotify.com/album/32HIl3ek92TZv3GEM0Spqi"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 195935,
       "name": "DDI RO RI",
       "url": "https://open.spotify.com/track/6Ja4MH8qIfhVABsb9Kxjjr"
+    },
+    {
+      "added_at": "2026-06-18 06:21:41",
+      "album": {
+        "name": "KARMA",
+        "url": "https://open.spotify.com/album/3wqskwruUGJHC4yHbo7nxc"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 164026,
+      "name": "CEREMONY",
+      "url": "https://open.spotify.com/track/62xU1NllqWBCbkZFTXEqzF"
     },
     {
       "added_at": "2026-06-18 06:21:41",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-06-18 06:21:41",
       "album": {
-        "name": "Drama - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 214973,
-      "name": "Drama",
-      "url": "https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew"
-    },
-    {
-      "added_at": "2026-06-18 06:21:41",
-      "album": {
         "name": "My Universe",
         "url": "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp"
       },
@@ -1159,6 +1143,22 @@
     {
       "added_at": "2026-06-18 06:21:41",
       "album": {
+        "name": "Drama - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 214973,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew"
+    },
+    {
+      "added_at": "2026-06-18 06:21:41",
+      "album": {
         "name": "IT'z ME",
         "url": "https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U"
       },
@@ -1171,6 +1171,22 @@
       "duration_ms": 180180,
       "name": "THAT\u2019S A NO NO",
       "url": "https://open.spotify.com/track/0q1NTsO5b93R97JdQxtFGx"
+    },
+    {
+      "added_at": "2026-06-18 06:21:41",
+      "album": {
+        "name": "The Chase",
+        "url": "https://open.spotify.com/album/2IjkSbisATTpSpVIlFVNkN"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "duration_ms": 178900,
+      "name": "The Chase",
+      "url": "https://open.spotify.com/track/68UrZQUuO3O6eUiD226xHg"
     },
     {
       "added_at": "2026-06-18 06:21:41",
@@ -1191,22 +1207,6 @@
       "duration_ms": 172952,
       "name": "Sweet Dreams (feat. Miguel)",
       "url": "https://open.spotify.com/track/1yX9gy5fK02j6nBnGJ1S3k"
-    },
-    {
-      "added_at": "2026-06-18 06:21:41",
-      "album": {
-        "name": "The Chase",
-        "url": "https://open.spotify.com/album/2IjkSbisATTpSpVIlFVNkN"
-      },
-      "artists": [
-        {
-          "name": "Hearts2Hearts",
-          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
-        }
-      ],
-      "duration_ms": 178900,
-      "name": "The Chase",
-      "url": "https://open.spotify.com/track/68UrZQUuO3O6eUiD226xHg"
     },
     {
       "added_at": "2026-06-18 06:21:41",
@@ -1307,26 +1307,6 @@
     {
       "added_at": "2026-06-18 06:21:41",
       "album": {
-        "name": "Ruby",
-        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
-      },
-      "artists": [
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 184698,
-      "name": "Handlebars (feat. Dua Lipa)",
-      "url": "https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg"
-    },
-    {
-      "added_at": "2026-06-18 06:21:41",
-      "album": {
         "name": "FEARLESS",
         "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 167706,
       "name": "SPOT!",
       "url": "https://open.spotify.com/track/1SS0WlKhJewviwEDZ6dWj0"
+    },
+    {
+      "added_at": "2026-06-18 06:21:41",
+      "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 184698,
+      "name": "Handlebars (feat. Dua Lipa)",
+      "url": "https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg"
     },
     {
       "added_at": "2026-06-18 06:21:41",
@@ -1527,8 +1527,8 @@
     {
       "added_at": "2026-06-18 06:21:41",
       "album": {
-        "name": "DESIRE : UNLEASH",
-        "url": "https://open.spotify.com/album/5nskZ8CFMrSNiOrceMHr4B"
+        "name": "DIMENSION : ANSWER",
+        "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
       },
       "artists": [
         {
@@ -1536,9 +1536,9 @@
           "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
         }
       ],
-      "duration_ms": 141885,
-      "name": "Bad Desire (With or Without You)",
-      "url": "https://open.spotify.com/track/38pEX03GFZ0PfFDaOrpKOM"
+      "duration_ms": 184601,
+      "name": "Polaroid Love",
+      "url": "https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1"
     },
     {
       "added_at": "2026-06-18 06:21:41",
@@ -1611,8 +1611,8 @@
     {
       "added_at": "2026-06-18 06:21:41",
       "album": {
-        "name": "DIMENSION : ANSWER",
-        "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
+        "name": "DESIRE : UNLEASH",
+        "url": "https://open.spotify.com/album/5nskZ8CFMrSNiOrceMHr4B"
       },
       "artists": [
         {
@@ -1620,9 +1620,9 @@
           "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
         }
       ],
-      "duration_ms": 184601,
-      "name": "Polaroid Love",
-      "url": "https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1"
+      "duration_ms": 141885,
+      "name": "Bad Desire (With or Without You)",
+      "url": "https://open.spotify.com/track/38pEX03GFZ0PfFDaOrpKOM"
     },
     {
       "added_at": "2026-06-18 06:21:41",

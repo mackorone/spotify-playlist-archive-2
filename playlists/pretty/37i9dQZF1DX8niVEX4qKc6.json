@@ -1,6 +1,6 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Camila Buch",
-  "num_followers": 193381,
+  "num_followers": 193388,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2026-05-04 15:21:51",
       "album": {
+        "name": "Abriendo Latidos",
+        "url": "https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry"
+      },
+      "artists": [
+        {
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+        }
+      ],
+      "duration_ms": 194555,
+      "name": "Abriendo Latidos",
+      "url": "https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a"
+    },
+    {
+      "added_at": "2026-05-04 15:21:51",
+      "album": {
         "name": "Coraz\u00f3n Ac\u00fastico Vol. I - En Vivo desde Studio A B48 (Barcelona)",
         "url": "https://open.spotify.com/album/4apIADZrmStEazHm6ffa6w"
       },
@@ -1119,18 +1135,18 @@
     {
       "added_at": "2026-05-04 15:21:51",
       "album": {
-        "name": "Abriendo Latidos",
-        "url": "https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry"
+        "name": "Tributo A Los Fabulosos Cadillacs",
+        "url": "https://open.spotify.com/album/124W0KG9oS8z7s7D8mGU76"
       },
       "artists": [
         {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 194555,
-      "name": "Abriendo Latidos",
-      "url": "https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a"
+      "duration_ms": 321433,
+      "name": "Vasos Vac\u00edos",
+      "url": "https://open.spotify.com/track/6P2KDyo8e74VfxeC1aAlFV"
     },
     {
       "added_at": "2026-05-04 15:21:51",
@@ -1151,22 +1167,6 @@
       "duration_ms": 233826,
       "name": "Una Canci\u00f3n Diferente",
       "url": "https://open.spotify.com/track/15JIAJtVW9FJe7q9BYIAsE"
-    },
-    {
-      "added_at": "2026-05-04 15:21:51",
-      "album": {
-        "name": "Tributo A Los Fabulosos Cadillacs",
-        "url": "https://open.spotify.com/album/124W0KG9oS8z7s7D8mGU76"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 321433,
-      "name": "Vasos Vac\u00edos",
-      "url": "https://open.spotify.com/track/6P2KDyo8e74VfxeC1aAlFV"
     },
     {
       "added_at": "2026-05-04 15:21:51",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-05-04 15:21:51",
       "album": {
-        "name": "Ac\u00fastico",
-        "url": "https://open.spotify.com/album/0eyeF19njYTKXXGLOmY4G5"
-      },
-      "artists": [
-        {
-          "name": "Los Otros D\u00edas",
-          "url": "https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V"
-        }
-      ],
-      "duration_ms": 169487,
-      "name": "el film - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/7wCAh65r75ZHqyCJL4ZgZn"
-    },
-    {
-      "added_at": "2026-05-04 15:21:51",
-      "album": {
         "name": "Se Vos",
         "url": "https://open.spotify.com/album/2fxw6XXedFNprq4HdYTWdM"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 276252,
       "name": "Se Vos",
       "url": "https://open.spotify.com/track/2YAcx6NVFtror545iVJfIo"
+    },
+    {
+      "added_at": "2026-05-04 15:21:51",
+      "album": {
+        "name": "Ac\u00fastico",
+        "url": "https://open.spotify.com/album/0eyeF19njYTKXXGLOmY4G5"
+      },
+      "artists": [
+        {
+          "name": "Los Otros D\u00edas",
+          "url": "https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V"
+        }
+      ],
+      "duration_ms": 169487,
+      "name": "el film - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/7wCAh65r75ZHqyCJL4ZgZn"
     },
     {
       "added_at": "2026-05-04 15:21:51",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-05-04 15:21:51",
       "album": {
-        "name": "Esta podr\u00eda ser la se\u00f1al",
-        "url": "https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE"
-      },
-      "artists": [
-        {
-          "name": "Papina de Palma",
-          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
-        }
-      ],
-      "duration_ms": 77890,
-      "name": "Timba",
-      "url": "https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub"
-    },
-    {
-      "added_at": "2026-05-04 15:21:51",
-      "album": {
         "name": "Vuela Lejos",
         "url": "https://open.spotify.com/album/4Mtqk5qyOZqIzzkC9fX5cO"
       },
@@ -1599,6 +1583,22 @@
     {
       "added_at": "2026-05-04 15:21:51",
       "album": {
+        "name": "Esta podr\u00eda ser la se\u00f1al",
+        "url": "https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE"
+      },
+      "artists": [
+        {
+          "name": "Papina de Palma",
+          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
+        }
+      ],
+      "duration_ms": 77890,
+      "name": "Timba",
+      "url": "https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub"
+    },
+    {
+      "added_at": "2026-05-04 15:21:51",
+      "album": {
         "name": "AC\u00daSTICO Vol.1",
         "url": "https://open.spotify.com/album/7cL5TVSAcTVRPxZNfbpHfx"
       },
@@ -1611,6 +1611,22 @@
       "duration_ms": 168500,
       "name": "Amor Roto - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4i0DjnEGMEhpZlFYL4xHz0"
+    },
+    {
+      "added_at": "2026-05-04 15:21:51",
+      "album": {
+        "name": "Como Te Voy A Olvidar",
+        "url": "https://open.spotify.com/album/1dgCyGMh2gFJgDWhS4o3Yq"
+      },
+      "artists": [
+        {
+          "name": "Aurelia Goldspark",
+          "url": "https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW"
+        }
+      ],
+      "duration_ms": 186750,
+      "name": "Como Te Voy A Olvidar",
+      "url": "https://open.spotify.com/track/7uHkKQQFt9qjWHt3crcuvu"
     },
     {
       "added_at": "2026-05-04 15:21:51",
@@ -1635,22 +1651,6 @@
       "duration_ms": 178000,
       "name": "No Estes Triste - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1HcjUEwxLoDNbLph1P8dsa"
-    },
-    {
-      "added_at": "2026-05-04 15:21:51",
-      "album": {
-        "name": "Como Te Voy A Olvidar",
-        "url": "https://open.spotify.com/album/1dgCyGMh2gFJgDWhS4o3Yq"
-      },
-      "artists": [
-        {
-          "name": "Aurelia Goldspark",
-          "url": "https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW"
-        }
-      ],
-      "duration_ms": 186750,
-      "name": "Como Te Voy A Olvidar",
-      "url": "https://open.spotify.com/track/7uHkKQQFt9qjWHt3crcuvu"
     },
     {
       "added_at": "2026-05-04 15:21:51",

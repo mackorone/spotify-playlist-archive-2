@@ -1032,7 +1032,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 194782,
       "name": "No Me Pidas Un Tiempo",
       "url": "https://open.spotify.com/track/7vV6vTQGEhdfYIF9ZfFnR7"
@@ -1392,6 +1392,24 @@
       "duration_ms": 204840,
       "name": "Se Podria Decir",
       "url": "https://open.spotify.com/track/5VbucfTj1hPH1Kpvs6uLqy"
+    },
+    {
+      "album": {
+        "name": "En Vivo Guadalajara - Monterrey (Live)",
+        "url": "https://open.spotify.com/album/21e43QQM34lX3823zqBNqa"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231800,
+      "name": "Se Va Muriendo Mi Alma - En Vivo",
+      "url": "https://open.spotify.com/track/0pvHYgwrnrB09knaTvCkxu"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Christmas Spirit](https://open.spotify.com/playlist/37i9dQZF1DWViXqZVTGO3Z)
 
-> Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus\. Cover: Katy Nichole
+> Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus\. Cover: CeCe Winans
 
 518 songs - 1 day 9 hr 32 min
 
@@ -124,7 +124,7 @@
 | [Feliz Navidad](https://open.spotify.com/track/0mbKemvmkBi8AmG3pMUbFv) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Joy To Our World](https://open.spotify.com/album/5EG8nCVC46N0fWdeYhevC1) | 3:18 | 2021-12-11 | 2022-10-21 |
 | [Feliz Navidad](https://open.spotify.com/track/23yXE7auYQ93grOZn0PHn9) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Joy To Our World](https://open.spotify.com/album/6rwwb34IZFoebbkLoMNwn4) | 3:18 | 2021-12-24 | 2024-04-19 |
 | [Feliz Navidad/Joy To The World](https://open.spotify.com/track/7DHXvsXwxQGGIVDMTNWmwB) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [It's Christmas](https://open.spotify.com/album/2nRwT02FtfScfuOsUWVEmS) | 3:24 | 2021-12-24 | 2022-07-23 |
-| [First Noel \(It's All About You\)](https://open.spotify.com/track/7DwrtWFajs2Nri6qioVXGf) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Melody Noel](https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi) | [It's All About You](https://open.spotify.com/album/2nACCDrSqaEc2VVhW3fSFk) | 3:48 | 2024-11-17 | 2026-06-13 |
+| [First Noel \(It's All About You\)](https://open.spotify.com/track/7DwrtWFajs2Nri6qioVXGf) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Melody Noel](https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi) | [It's All About You](https://open.spotify.com/album/2nACCDrSqaEc2VVhW3fSFk) | 3:48 | 2024-11-17 |  |
 | [Forever Evergreen \(Here in the Winter\)](https://open.spotify.com/track/0GHZixuBIWMWUsED3IaXSR) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Forever Evergreen \(Here in the Winter\)](https://open.spotify.com/album/0O4AM6bSfFzUPpNOrHi5Zf) | 4:12 | 2021-12-11 | 2022-12-13 |
 | [Forever Mistletoe](https://open.spotify.com/track/4ITRXrlcGDCfu7JRcajD5k) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Red & Green](https://open.spotify.com/album/2msUdJTMMBdkK30onLIAi2) | 3:55 | 2024-11-23 |  |
 | [Generous God \(Gloria\)](https://open.spotify.com/track/6WS8XlgxOp6rEqZGAjj0CY) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [The Gift](https://open.spotify.com/album/2wC0LQeUpBAEUqW4Ca0J41) | 4:07 | 2023-12-15 |  |
@@ -457,7 +457,7 @@
 | [The First Noël](https://open.spotify.com/track/1SqCZGjHJGeSg1ZuKMDWqD) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [The First Noël](https://open.spotify.com/album/2tNbwGEri8pNkp8AmEf39f) | 4:19 | 2021-12-11 | 2023-04-02 |
 | [The Gift](https://open.spotify.com/track/4ZoCtoxfdGVKuz4i49sNIP) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Nick Day](https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [The Gift](https://open.spotify.com/album/6N6i9REfWKmEpwOyhGgl9M) | 3:23 | 2024-12-08 |  |
 | [The Gift We Bring](https://open.spotify.com/track/1AnanD7a5SzRshyMERYG5j) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Andrew Holt](https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8) | [The Gift We Bring](https://open.spotify.com/album/3GMbQBdPzPcqFPJksR03wy) | 5:26 | 2025-11-08 |  |
-| [The Greatest Gift](https://open.spotify.com/track/3ZWgYAhbhihQA4cTrbCSCi) | [Justin Radford](https://open.spotify.com/artist/2yBPNNYq6kcnU1DZTlzinV) | [The Greatest Gift](https://open.spotify.com/album/7E7hx7Jxv0UA3YItvtdGuI) | 2:40 | 2025-11-22 |  |
+| [The Greatest Gift](https://open.spotify.com/track/3ZWgYAhbhihQA4cTrbCSCi) | [Justin Radford](https://open.spotify.com/artist/2yBPNNYq6kcnU1DZTlzinV) | [The Greatest Gift](https://open.spotify.com/album/7E7hx7Jxv0UA3YItvtdGuI) | 2:40 | 2025-11-22 | 2026-06-22 |
 | [The Hope for All](https://open.spotify.com/track/6xRhLODIOh065PTQTj9008) | [Soul City Worship](https://open.spotify.com/artist/5LtsEFW2aTWHrlwv5R49pP) | [The Hope for All](https://open.spotify.com/album/6G1ViS0M7AxZ7a3AnICM03) | 4:57 | 2021-12-24 | 2022-07-29 |
 | [The Hope of Christmas](https://open.spotify.com/track/7yZLr0h3ZeFGBnGHLQs4tR) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [The Hope of Christmas](https://open.spotify.com/album/1n9GXp1zRui77yPbTmw9kw) | 3:50 | 2021-12-11 | 2024-08-01 |
 | [The King Has Come](https://open.spotify.com/track/4CdnzeMRbM72LL82HgMGhk) | [NONAH](https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI) | [The King Has Come](https://open.spotify.com/album/1i10S6o2MVwvFrfvKLF8oL) | 3:43 | 2024-11-23 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Pump it up with these current jams!",
-  "num_followers": 2199391,
+  "num_followers": 2199351,
   "original_name": "Daily Lift",
   "owner": {
     "name": "Spotify",
@@ -923,6 +923,22 @@
     {
       "added_at": "2026-05-15 04:01:41",
       "album": {
+        "name": "round and round",
+        "url": "https://open.spotify.com/album/7fNSHWi4EJ3RHygITurjog"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 167770,
+      "name": "round and round",
+      "url": "https://open.spotify.com/track/4uW97EdIlhNzUS5QUltXMH"
+    },
+    {
+      "added_at": "2026-05-15 04:01:41",
+      "album": {
         "name": "girl next door",
         "url": "https://open.spotify.com/album/3QDKyEJSkkAiJOoyuZOm9F"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 198600,
       "name": "girl next door",
       "url": "https://open.spotify.com/track/0xCRp9lVz8jrq7G9syKlYL"
-    },
-    {
-      "added_at": "2026-05-15 04:01:41",
-      "album": {
-        "name": "round and round",
-        "url": "https://open.spotify.com/album/7fNSHWi4EJ3RHygITurjog"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        }
-      ],
-      "duration_ms": 167770,
-      "name": "round and round",
-      "url": "https://open.spotify.com/track/4uW97EdIlhNzUS5QUltXMH"
     },
     {
       "added_at": "2026-05-01 04:27:45",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-05-01 04:27:45",
       "album": {
-        "name": "Heroine",
-        "url": "https://open.spotify.com/album/4xT3ryrqfutVzV1cJN79Ww"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 155192,
-      "name": "Heroine",
-      "url": "https://open.spotify.com/track/04OCeDuqT4ympbgDZ8dcfT"
-    },
-    {
-      "added_at": "2026-05-01 04:27:45",
-      "album": {
         "name": "Born With a Broken Heart",
         "url": "https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 208956,
       "name": "Born With a Broken Heart",
       "url": "https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU"
+    },
+    {
+      "added_at": "2026-05-01 04:27:45",
+      "album": {
+        "name": "Heroine",
+        "url": "https://open.spotify.com/album/4xT3ryrqfutVzV1cJN79Ww"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 155192,
+      "name": "Heroine",
+      "url": "https://open.spotify.com/track/04OCeDuqT4ympbgDZ8dcfT"
     },
     {
       "added_at": "2026-05-01 04:27:45",
@@ -1165,22 +1165,6 @@
       "url": "https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA"
     },
     {
-      "added_at": "2026-05-01 04:27:45",
-      "album": {
-        "name": "The Weight of the Woods",
-        "url": "https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 230418,
-      "name": "Turnstile",
-      "url": "https://open.spotify.com/track/4qoeKDSw3siIY9ZjCvbmFj"
-    },
-    {
       "added_at": "2026-05-15 04:01:41",
       "album": {
         "name": "Illuminate (FIFA World Cup 2026\u2122)",
@@ -1207,18 +1191,18 @@
     {
       "added_at": "2026-05-01 04:27:45",
       "album": {
-        "name": "Jericho",
-        "url": "https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh"
+        "name": "The Weight of the Woods",
+        "url": "https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd"
       },
       "artists": [
         {
-          "name": "Iniko",
-          "url": "https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY"
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
         }
       ],
-      "duration_ms": 158133,
-      "name": "Jericho",
-      "url": "https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh"
+      "duration_ms": 230418,
+      "name": "Turnstile",
+      "url": "https://open.spotify.com/track/4qoeKDSw3siIY9ZjCvbmFj"
     },
     {
       "added_at": "2026-05-01 04:27:45",
@@ -1239,6 +1223,22 @@
       "duration_ms": 148500,
       "name": "Now Or Never",
       "url": "https://open.spotify.com/track/5hG7MlKPCqUgtdwROUbBRS"
+    },
+    {
+      "added_at": "2026-05-01 04:27:45",
+      "album": {
+        "name": "Jericho",
+        "url": "https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh"
+      },
+      "artists": [
+        {
+          "name": "Iniko",
+          "url": "https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY"
+        }
+      ],
+      "duration_ms": 158133,
+      "name": "Jericho",
+      "url": "https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh"
     },
     {
       "added_at": "2026-05-01 04:27:45",
@@ -1323,6 +1323,26 @@
     {
       "added_at": "2026-05-01 04:27:45",
       "album": {
+        "name": "Flowers Need Rain",
+        "url": "https://open.spotify.com/album/5oybxVX6goJoWlZYvJYAGN"
+      },
+      "artists": [
+        {
+          "name": "Preston Pablo",
+          "url": "https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5"
+        },
+        {
+          "name": "Banx & Ranx",
+          "url": "https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p"
+        }
+      ],
+      "duration_ms": 168126,
+      "name": "Flowers Need Rain",
+      "url": "https://open.spotify.com/track/079mntueS2KWjxVqOHjG70"
+    },
+    {
+      "added_at": "2026-05-01 04:27:45",
+      "album": {
         "name": "Echo (FIFA World Cup 2026\u2122)",
         "url": "https://open.spotify.com/album/7k1aRcg1pB0wDlOyB3HwrH"
       },
@@ -1343,26 +1363,6 @@
       "duration_ms": 135398,
       "name": "Echo",
       "url": "https://open.spotify.com/track/2jPYazutYa3HCyxbsLgdw1"
-    },
-    {
-      "added_at": "2026-05-01 04:27:45",
-      "album": {
-        "name": "Flowers Need Rain",
-        "url": "https://open.spotify.com/album/5oybxVX6goJoWlZYvJYAGN"
-      },
-      "artists": [
-        {
-          "name": "Preston Pablo",
-          "url": "https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5"
-        },
-        {
-          "name": "Banx & Ranx",
-          "url": "https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p"
-        }
-      ],
-      "duration_ms": 168126,
-      "name": "Flowers Need Rain",
-      "url": "https://open.spotify.com/track/079mntueS2KWjxVqOHjG70"
     },
     {
       "added_at": "2026-05-01 04:27:45",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-05-01 04:27:45",
       "album": {
-        "name": "Hate Myself",
-        "url": "https://open.spotify.com/album/0kpeTZy0ghMbYEesoL9xBE"
-      },
-      "artists": [
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
-        }
-      ],
-      "duration_ms": 152508,
-      "name": "Hate Myself",
-      "url": "https://open.spotify.com/track/7DmTGp8xqD7TeuFKU7230f"
-    },
-    {
-      "added_at": "2026-05-01 04:27:45",
-      "album": {
         "name": "Yes I'm A Mess",
         "url": "https://open.spotify.com/album/0mbu9tcivddH45l4FuazT4"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 164973,
       "name": "Yes I'm A Mess",
       "url": "https://open.spotify.com/track/4Yrt54xR4T8PPOZ7yf9kyT"
+    },
+    {
+      "added_at": "2026-05-01 04:27:45",
+      "album": {
+        "name": "Hate Myself",
+        "url": "https://open.spotify.com/album/0kpeTZy0ghMbYEesoL9xBE"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "duration_ms": 152508,
+      "name": "Hate Myself",
+      "url": "https://open.spotify.com/track/7DmTGp8xqD7TeuFKU7230f"
     },
     {
       "added_at": "2026-05-08 04:02:42",

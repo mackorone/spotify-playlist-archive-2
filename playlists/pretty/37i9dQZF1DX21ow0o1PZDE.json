@@ -1,6 +1,6 @@
 {
   "description": "Todos los grandes \u00e9xitos del a\u00f1o, reunidos en un solo lugar. Net\u00f3n Vega en portada.",
-  "num_followers": 1489726,
+  "num_followers": 1489808,
   "original_name": "Mega \u00c9xitos 2026",
   "owner": {
     "name": "Spotify",
@@ -999,26 +999,6 @@
     {
       "added_at": "2026-05-22 06:00:56",
       "album": {
-        "name": "2+2",
-        "url": "https://open.spotify.com/album/08ejWNU2TO4m9h4tUhUQKG"
-      },
-      "artists": [
-        {
-          "name": "Omar Camacho",
-          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
-        },
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        }
-      ],
-      "duration_ms": 198300,
-      "name": "2+2",
-      "url": "https://open.spotify.com/track/2GP6UzoA55p6yYiPCGyEhg"
-    },
-    {
-      "added_at": "2026-05-22 06:00:56",
-      "album": {
         "name": "EL \u00daLTIMO BAILE",
         "url": "https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88"
       },
@@ -1055,6 +1035,26 @@
     {
       "added_at": "2026-05-22 06:00:56",
       "album": {
+        "name": "2+2",
+        "url": "https://open.spotify.com/album/08ejWNU2TO4m9h4tUhUQKG"
+      },
+      "artists": [
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "duration_ms": 198300,
+      "name": "2+2",
+      "url": "https://open.spotify.com/track/2GP6UzoA55p6yYiPCGyEhg"
+    },
+    {
+      "added_at": "2026-05-22 06:00:56",
+      "album": {
         "name": "MIJA NO TE ASUSTES",
         "url": "https://open.spotify.com/album/34OOEmWpj7OnO5kCfal1MO"
       },
@@ -1087,34 +1087,6 @@
       "duration_ms": 185240,
       "name": "Vete",
       "url": "https://open.spotify.com/track/1GtIK8iINes4gNt06F60NU"
-    },
-    {
-      "added_at": "2026-05-22 06:00:56",
-      "album": {
-        "name": "4x4",
-        "url": "https://open.spotify.com/album/3JdhSWKcys9HBt6ucfmgj7"
-      },
-      "artists": [
-        {
-          "name": "Omar Camacho",
-          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
-        },
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        },
-        {
-          "name": "Angel Almaguer",
-          "url": "https://open.spotify.com/artist/2jF8vkWrLA8GPPwMcnvhSr"
-        },
-        {
-          "name": "$HUPE",
-          "url": "https://open.spotify.com/artist/4fxkIFo9v2qqrrPCkXjNG3"
-        }
-      ],
-      "duration_ms": 288671,
-      "name": "4x4",
-      "url": "https://open.spotify.com/track/1nkrOMcNi5TAwYWDQAOaB3"
     },
     {
       "added_at": "2026-05-22 06:00:56",
@@ -1163,6 +1135,34 @@
       "duration_ms": 147981,
       "name": "Pika Pika",
       "url": "https://open.spotify.com/track/5LHPcY9yd0hWVFIW4yfOCJ"
+    },
+    {
+      "added_at": "2026-05-22 06:00:56",
+      "album": {
+        "name": "4x4",
+        "url": "https://open.spotify.com/album/3JdhSWKcys9HBt6ucfmgj7"
+      },
+      "artists": [
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Angel Almaguer",
+          "url": "https://open.spotify.com/artist/2jF8vkWrLA8GPPwMcnvhSr"
+        },
+        {
+          "name": "$HUPE",
+          "url": "https://open.spotify.com/artist/4fxkIFo9v2qqrrPCkXjNG3"
+        }
+      ],
+      "duration_ms": 288671,
+      "name": "4x4",
+      "url": "https://open.spotify.com/track/1nkrOMcNi5TAwYWDQAOaB3"
     },
     {
       "added_at": "2026-05-22 06:00:56",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2026-05-22 06:00:56",
       "album": {
+        "name": "La V\u00edctima",
+        "url": "https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 156345,
+      "name": "La V\u00edctima",
+      "url": "https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY"
+    },
+    {
+      "added_at": "2026-05-22 06:00:56",
+      "album": {
         "name": "La Ciudad del Sol",
         "url": "https://open.spotify.com/album/49pJTurTujrSQA2I5QWRMC"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 205714,
       "name": "La Ciudad del Sol",
       "url": "https://open.spotify.com/track/6xiQzVWczksJRBVbMDkV6A"
-    },
-    {
-      "added_at": "2026-05-22 06:00:56",
-      "album": {
-        "name": "La V\u00edctima",
-        "url": "https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 156345,
-      "name": "La V\u00edctima",
-      "url": "https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY"
     },
     {
       "added_at": "2026-05-22 06:00:56",

@@ -1,6 +1,6 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 443340,
+  "num_followers": 443392,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2026-06-19 04:00:56",
       "album": {
+        "name": "Let Love Be Genuine",
+        "url": "https://open.spotify.com/album/13yjw0qb0yqrU1s7xkOPRi"
+      },
+      "artists": [
+        {
+          "name": "Nuvole",
+          "url": "https://open.spotify.com/artist/5X65Iv1V1AcOZhFM1AzjJ1"
+        }
+      ],
+      "duration_ms": 318620,
+      "name": "Let Love Be Genuine",
+      "url": "https://open.spotify.com/track/4VQAmkNpIfBNQCTrz5yEA0"
+    },
+    {
+      "added_at": "2026-06-19 04:00:56",
+      "album": {
         "name": "Compromises",
         "url": "https://open.spotify.com/album/7MkYND1u4Y9ytafBECXxPM"
       },
@@ -471,18 +487,30 @@
     {
       "added_at": "2026-06-19 04:00:56",
       "album": {
-        "name": "Let Love Be Genuine",
-        "url": "https://open.spotify.com/album/13yjw0qb0yqrU1s7xkOPRi"
+        "name": "PEARL",
+        "url": "https://open.spotify.com/album/0gfmzQ2h5XslfUtAZKm4oj"
       },
       "artists": [
         {
-          "name": "Nuvole",
-          "url": "https://open.spotify.com/artist/5X65Iv1V1AcOZhFM1AzjJ1"
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
+        },
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        },
+        {
+          "name": "CARRTOONS",
+          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
+        },
+        {
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
         }
       ],
-      "duration_ms": 318620,
-      "name": "Let Love Be Genuine",
-      "url": "https://open.spotify.com/track/4VQAmkNpIfBNQCTrz5yEA0"
+      "duration_ms": 231066,
+      "name": "PEARL",
+      "url": "https://open.spotify.com/track/33E2bU4xRVvjuc6Y4dtk5k"
     },
     {
       "added_at": "2026-06-19 04:00:56",
@@ -715,34 +743,6 @@
     {
       "added_at": "2026-06-19 04:00:56",
       "album": {
-        "name": "PEARL",
-        "url": "https://open.spotify.com/album/0gfmzQ2h5XslfUtAZKm4oj"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
-        },
-        {
-          "name": "Kiefer",
-          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
-        },
-        {
-          "name": "CARRTOONS",
-          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
-        },
-        {
-          "name": "Kenny Beats",
-          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
-        }
-      ],
-      "duration_ms": 231066,
-      "name": "PEARL",
-      "url": "https://open.spotify.com/track/33E2bU4xRVvjuc6Y4dtk5k"
-    },
-    {
-      "added_at": "2026-06-19 04:00:56",
-      "album": {
         "name": "Late Again",
         "url": "https://open.spotify.com/album/6qU9OQbVjw7HwhMFRYLirB"
       },
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-06-19 04:00:56",
       "album": {
-        "name": "Alfie",
-        "url": "https://open.spotify.com/album/2SdXGtsLhoUQA9QEq8DQ0o"
-      },
-      "artists": [
-        {
-          "name": "Richard Baratta",
-          "url": "https://open.spotify.com/artist/1LxHsIFW4ovnm2kDljMQ6X"
-        }
-      ],
-      "duration_ms": 397173,
-      "name": "Alfie",
-      "url": "https://open.spotify.com/track/1HaqueKZTTNz41osWY2Cey"
-    },
-    {
-      "added_at": "2026-06-19 04:00:56",
-      "album": {
         "name": "Our Songs",
         "url": "https://open.spotify.com/album/6cbxatO4U8vB68x9IZW2XF"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 224607,
       "name": "My Song",
       "url": "https://open.spotify.com/track/0lSLRJcWni4XX5UbCLJPy1"
+    },
+    {
+      "added_at": "2026-06-19 04:00:56",
+      "album": {
+        "name": "Alfie",
+        "url": "https://open.spotify.com/album/2SdXGtsLhoUQA9QEq8DQ0o"
+      },
+      "artists": [
+        {
+          "name": "Richard Baratta",
+          "url": "https://open.spotify.com/artist/1LxHsIFW4ovnm2kDljMQ6X"
+        }
+      ],
+      "duration_ms": 397173,
+      "name": "Alfie",
+      "url": "https://open.spotify.com/track/1HaqueKZTTNz41osWY2Cey"
     },
     {
       "added_at": "2026-06-19 04:00:56",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-06-19 04:00:56",
       "album": {
-        "name": "Gamla all\u00e9n",
-        "url": "https://open.spotify.com/album/7vrG8yc19WFP9OxwEaNcwG"
-      },
-      "artists": [
-        {
-          "name": "Axel M\u00e5rdsj\u00f6",
-          "url": "https://open.spotify.com/artist/64XDUz4HUQosed6FHDnzwD"
-        }
-      ],
-      "duration_ms": 230786,
-      "name": "Gamla all\u00e9n",
-      "url": "https://open.spotify.com/track/76NqmUek8rNrhrroQrBpUN"
-    },
-    {
-      "added_at": "2026-06-19 04:00:56",
-      "album": {
         "name": "Around The World With U",
         "url": "https://open.spotify.com/album/3v4eINJb7PG6tyW91TtEOx"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 307346,
       "name": "Mo\u2019 Betta Blues",
       "url": "https://open.spotify.com/track/0JoLYqF8Nq29tRzlR384vk"
+    },
+    {
+      "added_at": "2026-06-19 04:00:56",
+      "album": {
+        "name": "Gamla all\u00e9n",
+        "url": "https://open.spotify.com/album/7vrG8yc19WFP9OxwEaNcwG"
+      },
+      "artists": [
+        {
+          "name": "Axel M\u00e5rdsj\u00f6",
+          "url": "https://open.spotify.com/artist/64XDUz4HUQosed6FHDnzwD"
+        }
+      ],
+      "duration_ms": 230786,
+      "name": "Gamla all\u00e9n",
+      "url": "https://open.spotify.com/track/76NqmUek8rNrhrroQrBpUN"
     },
     {
       "added_at": "2026-06-19 04:00:56",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2026-06-19 04:00:56",
       "album": {
+        "name": "Miles '56 (Remastered 2026)",
+        "url": "https://open.spotify.com/album/6KvVLCTGdHboeAN4PGBiAU"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 274303,
+      "name": "In Your Own Sweet Way - March 16, 1956 Version / Remastered 2026",
+      "url": "https://open.spotify.com/track/7M4Z7u7wzsOsXDfACgDuo8"
+    },
+    {
+      "added_at": "2026-06-19 04:00:56",
+      "album": {
         "name": "You Had Me at Goodbye",
         "url": "https://open.spotify.com/album/6OxXYgY6ayT3FSuR2VqZdW"
       },
@@ -1235,22 +1251,6 @@
     {
       "added_at": "2026-06-19 04:00:56",
       "album": {
-        "name": "Miles '56 (Remastered 2026)",
-        "url": "https://open.spotify.com/album/6KvVLCTGdHboeAN4PGBiAU"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 274303,
-      "name": "In Your Own Sweet Way - March 16, 1956 Version / Remastered 2026",
-      "url": "https://open.spotify.com/track/7M4Z7u7wzsOsXDfACgDuo8"
-    },
-    {
-      "added_at": "2026-06-19 04:00:56",
-      "album": {
         "name": "They Can't Take That Away from Me",
         "url": "https://open.spotify.com/album/4ukxaPeX9MKJNRkdET7b1w"
       },
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-06-19 04:00:56",
       "album": {
-        "name": "Love is Here to Stay",
-        "url": "https://open.spotify.com/album/2efrZonDqIQIthIzmDzUJs"
-      },
-      "artists": [
-        {
-          "name": "Anders Mogensen",
-          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
-        }
-      ],
-      "duration_ms": 290347,
-      "name": "Love is Here to Stay",
-      "url": "https://open.spotify.com/track/6Qo4EBgX0OiqF0IwcYLG3u"
-    },
-    {
-      "added_at": "2026-06-19 04:00:56",
-      "album": {
         "name": "Wives and Lovers",
         "url": "https://open.spotify.com/album/7wsAtwFtf7qM8N1WjzGRjn"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 285728,
       "name": "Wives and Lovers",
       "url": "https://open.spotify.com/track/2zMAv2fbK97p22b5XjaHe5"
+    },
+    {
+      "added_at": "2026-06-19 04:00:56",
+      "album": {
+        "name": "Love is Here to Stay",
+        "url": "https://open.spotify.com/album/2efrZonDqIQIthIzmDzUJs"
+      },
+      "artists": [
+        {
+          "name": "Anders Mogensen",
+          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
+        }
+      ],
+      "duration_ms": 290347,
+      "name": "Love is Here to Stay",
+      "url": "https://open.spotify.com/track/6Qo4EBgX0OiqF0IwcYLG3u"
     },
     {
       "added_at": "2026-06-19 04:00:56",

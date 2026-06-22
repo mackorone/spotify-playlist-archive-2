@@ -1,12 +1,12 @@
 {
   "description": "This is Linkin Park. The essential tracks, all in one playlist.",
-  "num_followers": 3162608,
+  "num_followers": 3163019,
   "original_name": "This Is Linkin Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAABgP5l0ST/YqDRvayhSpZt5",
+  "snapshot_id": "ajXYAAAAAACE2VcggDFLxSLvdMUzXLIk",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course",
-        "url": "https://open.spotify.com/album/4lhyg7YGQagE8FT8cZBqyw"
+        "name": "From Zero (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ"
       },
       "artists": [
-        {
-          "name": "JA\u0178-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
         {
           "name": "Linkin Park",
           "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 205733,
-      "name": "Numb / Encore",
-      "url": "https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn"
+      "duration_ms": 183223,
+      "name": "Up From the Bottom",
+      "url": "https://open.spotify.com/track/2SwdMXPvGdciXamSjfoNH9"
     },
     {
       "added_at": null,
@@ -287,6 +283,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course",
+        "url": "https://open.spotify.com/album/4lhyg7YGQagE8FT8cZBqyw"
+      },
+      "artists": [
+        {
+          "name": "JA\u0178-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 205733,
+      "name": "Numb / Encore",
+      "url": "https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Meteora (Bonus Edition)",
         "url": "https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 175053,
       "name": "Lying from You",
       "url": "https://open.spotify.com/track/4qVR3CF8FuFvHN4L6vXlB1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "From Zero (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 183223,
-      "name": "Up From the Bottom",
-      "url": "https://open.spotify.com/track/2SwdMXPvGdciXamSjfoNH9"
     },
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meteora (Bonus Edition)",
-        "url": "https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 175506,
-      "name": "From the Inside",
-      "url": "https://open.spotify.com/track/697M5JB8FDIyRXEXgl1pBZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hybrid Theory (Bonus Edition)",
         "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 183973,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/6xtQ23d8GEXgcxyUKPtwc5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meteora (Bonus Edition)",
+        "url": "https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 175506,
+      "name": "From the Inside",
+      "url": "https://open.spotify.com/track/697M5JB8FDIyRXEXgl1pBZ"
     },
     {
       "added_at": null,
@@ -559,22 +559,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "One More Light",
-        "url": "https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd"
+        "name": "Meteora 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz"
       },
       "artists": [
         {
           "name": "Linkin Park",
           "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        },
-        {
-          "name": "Kiiara",
-          "url": "https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP"
         }
       ],
-      "duration_ms": 169800,
-      "name": "Heavy (feat. Kiiara)",
-      "url": "https://open.spotify.com/track/104buTcnP2AsxqB7U1FIZ4"
+      "duration_ms": 161000,
+      "name": "More the Victim",
+      "url": "https://open.spotify.com/track/50jyxHSIHAz7N5jIzODvs4"
     },
     {
       "added_at": null,
@@ -595,18 +591,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meteora 20th Anniversary Edition",
-        "url": "https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz"
+        "name": "One More Light",
+        "url": "https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd"
       },
       "artists": [
         {
           "name": "Linkin Park",
           "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        },
+        {
+          "name": "Kiiara",
+          "url": "https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP"
         }
       ],
-      "duration_ms": 161000,
-      "name": "More the Victim",
-      "url": "https://open.spotify.com/track/50jyxHSIHAz7N5jIzODvs4"
+      "duration_ms": 169800,
+      "name": "Heavy (feat. Kiiara)",
+      "url": "https://open.spotify.com/track/104buTcnP2AsxqB7U1FIZ4"
     },
     {
       "added_at": null,

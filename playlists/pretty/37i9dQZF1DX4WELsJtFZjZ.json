@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1980s. Cover: Luther Vandross",
-  "num_followers": 1711678,
+  "num_followers": 1711948,
   "original_name": "Soft 80s",
   "owner": {
     "name": "Spotify",
@@ -787,6 +787,22 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
+        "name": "No Brakes",
+        "url": "https://open.spotify.com/album/65Uo74eW8L3zXUxSOlSm6H"
+      },
+      "artists": [
+        {
+          "name": "John Waite",
+          "url": "https://open.spotify.com/artist/2TPyCsRoh2tjeZLTQ2ojlj"
+        }
+      ],
+      "duration_ms": 269760,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/1Qrdlkgg9I4J7r3P4kZNwr"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
         "name": "The Anthology",
         "url": "https://open.spotify.com/album/0OdFUi5lSenjXrgy4dVAP8"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 232666,
       "name": "Up Where We Belong - From \"An Officer And A Gentleman\"",
       "url": "https://open.spotify.com/track/4U6mBgGP8FXN6UH4T3AJhu"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
-        "name": "No Brakes",
-        "url": "https://open.spotify.com/album/65Uo74eW8L3zXUxSOlSm6H"
-      },
-      "artists": [
-        {
-          "name": "John Waite",
-          "url": "https://open.spotify.com/artist/2TPyCsRoh2tjeZLTQ2ojlj"
-        }
-      ],
-      "duration_ms": 269760,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/1Qrdlkgg9I4J7r3P4kZNwr"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "Foreign Affair",
-        "url": "https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 253173,
-      "name": "I Don't Wanna Lose You",
-      "url": "https://open.spotify.com/track/2TxWkdptNrm2Z0CZfMr3Iq"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
         "name": "Guilty",
         "url": "https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 266533,
       "name": "Guilty (feat. Barry Gibb)",
       "url": "https://open.spotify.com/track/60mGckXEG1EzR4VmjYLfEW"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
+        "name": "Foreign Affair",
+        "url": "https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 253173,
+      "name": "I Don't Wanna Lose You",
+      "url": "https://open.spotify.com/track/2TxWkdptNrm2Z0CZfMr3Iq"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "Heart Of Stone",
-        "url": "https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 245733,
-      "name": "Just Like Jesse James",
-      "url": "https://open.spotify.com/track/5JGdpqo9wrRtOZtui5GShI"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
         "name": "Lionel Richie",
         "url": "https://open.spotify.com/album/5R8J87WpdqO4t4pB4F4LNJ"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 200506,
       "name": "Truly",
       "url": "https://open.spotify.com/track/7AslBsiVLQAGrmFmi79ZeK"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
+        "name": "Heart Of Stone",
+        "url": "https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 245733,
+      "name": "Just Like Jesse James",
+      "url": "https://open.spotify.com/track/5JGdpqo9wrRtOZtui5GShI"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "Shake You Down (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0MYHBkw7zPuoZBF0irBFm3"
-      },
-      "artists": [
-        {
-          "name": "Gregory Abbott",
-          "url": "https://open.spotify.com/artist/6zdcmro5vDQSUjeioajL2r"
-        }
-      ],
-      "duration_ms": 245413,
-      "name": "Shake You Down",
-      "url": "https://open.spotify.com/track/7wQ9alB79WZb0F5gFLbxSh"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
         "name": "Misplaced Childhood (2017 Remaster)",
         "url": "https://open.spotify.com/album/3ExyKxlUkqD41I8tQumMDF"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 243560,
       "name": "Kayleigh - 2017 Remaster",
       "url": "https://open.spotify.com/track/0r5Ju8WyodpXBHmg3f4zYf"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
+        "name": "Shake You Down (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0MYHBkw7zPuoZBF0irBFm3"
+      },
+      "artists": [
+        {
+          "name": "Gregory Abbott",
+          "url": "https://open.spotify.com/artist/6zdcmro5vDQSUjeioajL2r"
+        }
+      ],
+      "duration_ms": 245413,
+      "name": "Shake You Down",
+      "url": "https://open.spotify.com/track/7wQ9alB79WZb0F5gFLbxSh"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "Emergency (Reissue)",
-        "url": "https://open.spotify.com/album/1lLHdYAPp0kZdBiMrLbsJV"
-      },
-      "artists": [
-        {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
-        }
-      ],
-      "duration_ms": 290600,
-      "name": "Cherish",
-      "url": "https://open.spotify.com/track/2OY17ER3xSmNXjGsqWzgn7"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
         "name": "Maxi",
         "url": "https://open.spotify.com/album/2RjgoKYACTWEtfsealo5E1"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 218426,
       "name": "Wild World",
       "url": "https://open.spotify.com/track/3vYrrMpsebx3OJ1H5E1lWQ"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
+        "name": "Emergency (Reissue)",
+        "url": "https://open.spotify.com/album/1lLHdYAPp0kZdBiMrLbsJV"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "duration_ms": 290600,
+      "name": "Cherish",
+      "url": "https://open.spotify.com/track/2OY17ER3xSmNXjGsqWzgn7"
     },
     {
       "added_at": "2026-05-04 14:51:52",

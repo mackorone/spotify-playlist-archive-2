@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,580 likes - 590 songs - 1 day 16 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,584 likes - 590 songs - 1 day 16 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,7 +137,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 127 | [After Tonight](https://open.spotify.com/track/5nxuah08yYECil4UZuEE8N) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Rainbow](https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft) | 4:14 |
 | 128 | [The Crazy Ones](https://open.spotify.com/track/4GJAvLmyRubhcd9BaNd5F0) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [The Crazy Ones](https://open.spotify.com/album/6H8zjjHJk5B2wB4w0qYaAT) | 4:05 |
 | 129 | [Prayers For This World](https://open.spotify.com/track/1vJk4EVtz7EKzO8nIh1to4) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Holidays Around the World](https://open.spotify.com/album/73NpyNEQHBYey6oZZrFD6X) | 3:42 |
-| 130 | [Sarai qui](https://open.spotify.com/track/3p0tUvqwfaypMhK6wVcjKl) | [Alessandro Safina](https://open.spotify.com/artist/5ITJs06INM9JWxK5hROEj3), [Sarah Brightman](https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5) | [Dedicated](https://open.spotify.com/album/7F6JXUZ6PEaz53NbFrVMDv) | 3:57 |
+| 130 | [Sarai Qui](https://open.spotify.com/track/0kTUjdmpjFJZWEfzCRVv9B) | [Sarah Brightman](https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5), [Alessandro Safina](https://open.spotify.com/artist/5ITJs06INM9JWxK5hROEj3) | [Symphony](https://open.spotify.com/album/7BclonSaXZr4X2ThvUWaeS) | 3:56 |
 | 131 | [Bruised But Not Broken](https://open.spotify.com/track/5mxBzblbenmVm7C6wh5ulc) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Introducing Joss Stone](https://open.spotify.com/album/3VD9HPEpnbbNMIg05avkIk) | 4:15 |
 | 132 | [Rocket](https://open.spotify.com/track/36dvcjzeono5E1n2hqRJpZ) | [The Wanted](https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1) | [Battleground \(Deluxe Edition\)](https://open.spotify.com/album/2hnaJ8ktG2FSP1EthsCo6N) | 3:15 |
 | 133 | [Animal Crackers](https://open.spotify.com/track/7MLtoeFx1XO3BDsEWAX6Nc) | [Steven Tyler](https://open.spotify.com/artist/32zks9ovi0IExzUd1C7W6o) | [I Don't Want To Miss A Thing EP](https://open.spotify.com/album/3fk5Yk62Lekng4NQ89980F) | 2:35 |
@@ -228,8 +228,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 218 | [The One Thing](https://open.spotify.com/track/3mgXHv9bi2TFYeC5O1D1zT) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The One Thing](https://open.spotify.com/album/76UFgbtfCFi3mGjckycfvX) | 5:09 |
 | 219 | [Real Emotion](https://open.spotify.com/track/5bFt9A14TrFu1FQqQskzSl) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 4:25 |
 | 220 | [I Don't Want to Be Your Friend](https://open.spotify.com/track/6XIgcKoXQbJEr6E8EikAyC) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [A Night To Remember](https://open.spotify.com/album/3wegC2LXYCQknfUuOYBwmz) | 4:21 |
-| 221 | [I'll Still Love You More](https://open.spotify.com/track/2BQ3U6cCECj2ULc7vUUVcO) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Where Your Road Leads](https://open.spotify.com/album/6l9KppfaP2OOV7SFDwmKNz) | 4:24 |
-| 222 | [Lovin' Proof](https://open.spotify.com/track/2wjCT6QwVk0nvkeqdgevbx) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 4:11 |
+| 221 | [Lovin' Proof](https://open.spotify.com/track/2wjCT6QwVk0nvkeqdgevbx) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 4:11 |
+| 222 | [I'll Still Love You More](https://open.spotify.com/track/2BQ3U6cCECj2ULc7vUUVcO) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Where Your Road Leads](https://open.spotify.com/album/6l9KppfaP2OOV7SFDwmKNz) | 4:24 |
 | 223 | [Walk Away](https://open.spotify.com/track/6U0N0iII20TyI3KJbCdwbp) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The Hunger](https://open.spotify.com/album/6MQWMbtrLuuwjzfFLSJbhu) | 4:11 |
 | 224 | [If You Could See You \(Through My Eyes\)](https://open.spotify.com/track/6VcWyiv7ILCFkJ4QW061P4) | [Kenny Lattimore](https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP) | [From The Soul Of Man](https://open.spotify.com/album/01KHEEunv9YbTODeMUUT83) | 4:57 |
 | 225 | [Breaking Apart](https://open.spotify.com/track/2ULBctUchzxFohl7MIcpiT) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx), [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Mr\. Lucky](https://open.spotify.com/album/1TNJ50y0CNOrsMTzEsYzyc) | 3:39 |
@@ -248,8 +248,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 238 | [Everything Changes](https://open.spotify.com/track/378MBhAXwx1OexsqBZMBGa) | [Kathy Troccoli](https://open.spotify.com/artist/73CmW7Heo8CxnYXydAs6qc) | [Pure Attraction](https://open.spotify.com/album/7h3SdzikWQl9rvM4N86lLi) | 4:24 |
 | 239 | [If I Don't Tell You Now](https://open.spotify.com/track/1eFZF1b1AW24Dp1ELQ53WX) | [Ronan Keating](https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh) | [Ronan](https://open.spotify.com/album/3T9Imnmd2Amt5lyDMqlFq9) | 3:19 |
 | 240 | [I Did It for You](https://open.spotify.com/track/1Km0EwfnZXSgNEZXphorwg) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Turnaround](https://open.spotify.com/album/7cAUnQdYOGT2q0OPiBgTWO) | 3:31 |
-| 241 | [The Change](https://open.spotify.com/track/2buUEhuN8I6tZ27kaWfqyh) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [The Change](https://open.spotify.com/album/1bZb08UfxnPsbz8MN2hhbF) | 3:35 |
-| 242 | [Love Cuts Deep](https://open.spotify.com/track/39puNJ8CncH1zTMeBgNAEb) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Soul Provider](https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D) | 3:48 |
+| 241 | [Love Cuts Deep](https://open.spotify.com/track/39puNJ8CncH1zTMeBgNAEb) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Soul Provider](https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D) | 3:48 |
+| 242 | [The Change](https://open.spotify.com/track/2buUEhuN8I6tZ27kaWfqyh) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [The Change](https://open.spotify.com/album/1bZb08UfxnPsbz8MN2hhbF) | 3:35 |
 | 243 | [I Count The Minutes](https://open.spotify.com/track/45xHOotYR3klNeJfiP3ixl) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:17 |
 | 244 | [Not Enough Hours In The Night](https://open.spotify.com/track/79xgC6Q1Itp5JDkW6fsZvs) | [After 7](https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E) | [The Very Best Of After 7](https://open.spotify.com/album/5L5q7gpKSLpMXd06AoX1U7) | 4:27 |
 | 245 | [Whenever You Close Your Eyes](https://open.spotify.com/track/2AUOwFmZXSSxx2yOdBVnx5) | [Tommy Page](https://open.spotify.com/artist/4TPWj56uIO4N5puju96P0J) | [From The Heart](https://open.spotify.com/album/0DpEL1pppZzHT0CGY7th7t) | 4:34 |
@@ -599,4 +599,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 589 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 590 | [There's Always Love](https://open.spotify.com/track/1GEM0xFN8KCkZ8MWXeTGjk) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Music Speaks Louder Than Words](https://open.spotify.com/album/749QW9xP9WJSrLAYHAJaco) | 4:30 |
 
-Snapshot ID: `AcUwhgAAAABZgx7fqIdW795QyGL7isiE`
+Snapshot ID: `AcU2JgAAAACLmJ/se34Pe7POXyohxip7`

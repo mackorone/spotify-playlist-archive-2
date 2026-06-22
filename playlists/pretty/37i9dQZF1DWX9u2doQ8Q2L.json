@@ -1,6 +1,6 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 394642,
+  "num_followers": 394644,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-06-18 09:38:33",
       "album": {
-        "name": "Stare In Wonder",
-        "url": "https://open.spotify.com/album/34Y0UOwoUZNrGlafpg7d4D"
-      },
-      "artists": [
-        {
-          "name": "BE:FIRST",
-          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
-        }
-      ],
-      "duration_ms": 197853,
-      "name": "Stare In Wonder",
-      "url": "https://open.spotify.com/track/2STK9x4KfYyeC82zsdJ2WM"
-    },
-    {
-      "added_at": "2026-06-18 09:38:33",
-      "album": {
         "name": "\u30d5\u30a1\u30fc\u30b9\u30c8\u30ad\u30b9",
         "url": "https://open.spotify.com/album/5BAI5YNxwWN8HgIy3iN6f6"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 251537,
       "name": "\u30d5\u30a1\u30fc\u30b9\u30c8\u30ad\u30b9",
       "url": "https://open.spotify.com/track/4VI45tdu3hZw5eugs9c6AX"
+    },
+    {
+      "added_at": "2026-06-18 09:38:33",
+      "album": {
+        "name": "Stare In Wonder",
+        "url": "https://open.spotify.com/album/34Y0UOwoUZNrGlafpg7d4D"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "duration_ms": 197853,
+      "name": "Stare In Wonder",
+      "url": "https://open.spotify.com/track/2STK9x4KfYyeC82zsdJ2WM"
     },
     {
       "added_at": "2026-06-18 09:38:33",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-06-18 09:38:33",
       "album": {
-        "name": "The 1",
-        "url": "https://open.spotify.com/album/4cgDsTl2Za0NJ3AiJtQCrF"
-      },
-      "artists": [
-        {
-          "name": "muque",
-          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
-        }
-      ],
-      "duration_ms": 191717,
-      "name": "The 1",
-      "url": "https://open.spotify.com/track/3GNHnQq2Q2svsTZDjHWFXp"
-    },
-    {
-      "added_at": "2026-06-18 09:38:33",
-      "album": {
         "name": "\u58f0",
         "url": "https://open.spotify.com/album/77TillEqpsV1N8P2dRBRCc"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 263983,
       "name": "\u58f0",
       "url": "https://open.spotify.com/track/2NNFiHgLUutYTLVAvX4JKv"
+    },
+    {
+      "added_at": "2026-06-18 09:38:33",
+      "album": {
+        "name": "The 1",
+        "url": "https://open.spotify.com/album/4cgDsTl2Za0NJ3AiJtQCrF"
+      },
+      "artists": [
+        {
+          "name": "muque",
+          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
+        }
+      ],
+      "duration_ms": 191717,
+      "name": "The 1",
+      "url": "https://open.spotify.com/track/3GNHnQq2Q2svsTZDjHWFXp"
     },
     {
       "added_at": "2026-06-18 09:38:33",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-06-18 09:38:33",
       "album": {
-        "name": "Boogie",
-        "url": "https://open.spotify.com/album/36WpGvLIJ64ig6TIYgna23"
-      },
-      "artists": [
-        {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
-        }
-      ],
-      "duration_ms": 267900,
-      "name": "Boogie",
-      "url": "https://open.spotify.com/track/6TJsuJd2qiX179fDioQAz1"
-    },
-    {
-      "added_at": "2026-06-18 09:38:33",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/30Ih6h18WnB3nr72Wi7iy7"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 196666,
       "name": "Blue",
       "url": "https://open.spotify.com/track/0JlgLVccHLtzolsiwaqsJ0"
+    },
+    {
+      "added_at": "2026-06-18 09:38:33",
+      "album": {
+        "name": "Boogie",
+        "url": "https://open.spotify.com/album/36WpGvLIJ64ig6TIYgna23"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "duration_ms": 267900,
+      "name": "Boogie",
+      "url": "https://open.spotify.com/track/6TJsuJd2qiX179fDioQAz1"
     },
     {
       "added_at": "2026-06-18 09:38:33",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2026-06-18 09:38:33",
       "album": {
-        "name": "\u6d77\u99ac\u6210\u9577\u75db",
-        "url": "https://open.spotify.com/album/7dadhbl044I5VImuYGBzuv"
-      },
-      "artists": [
-        {
-          "name": "ZUTOMAYO",
-          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
-        }
-      ],
-      "duration_ms": 189533,
-      "name": "\u6d77\u99ac\u6210\u9577\u75db",
-      "url": "https://open.spotify.com/track/1YfXeoQ39zL9IWHOTrL8bg"
-    },
-    {
-      "added_at": "2026-06-18 09:38:33",
-      "album": {
         "name": "L7 Blues",
         "url": "https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 141974,
       "name": "L7 Blues",
       "url": "https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR"
+    },
+    {
+      "added_at": "2026-06-18 09:38:33",
+      "album": {
+        "name": "\u6d77\u99ac\u6210\u9577\u75db",
+        "url": "https://open.spotify.com/album/7dadhbl044I5VImuYGBzuv"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        }
+      ],
+      "duration_ms": 189533,
+      "name": "\u6d77\u99ac\u6210\u9577\u75db",
+      "url": "https://open.spotify.com/track/1YfXeoQ39zL9IWHOTrL8bg"
     },
     {
       "added_at": "2026-06-18 09:38:33",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2026-06-18 09:38:33",
       "album": {
-        "name": "Love seeker",
-        "url": "https://open.spotify.com/album/0fcbyNShvGubuLdQqpMSbF"
-      },
-      "artists": [
-        {
-          "name": "JO1",
-          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
-        }
-      ],
-      "duration_ms": 174226,
-      "name": "Love seeker",
-      "url": "https://open.spotify.com/track/3tmFGmmYcYdI8tZRSLlc0G"
-    },
-    {
-      "added_at": "2026-06-18 09:38:33",
-      "album": {
         "name": "D o n\u2019 t \u200c \u200c \u200cL a u g h \u200c \u200c \u200cI t \u200c \u200c \u200cO f f",
         "url": "https://open.spotify.com/album/1CxJmFEE2xsYSTxpJaOG6P"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 152546,
       "name": "\u3044\u3068\u304a\u3057\u3044\u65e5\u3005",
       "url": "https://open.spotify.com/track/0QeD68D7Up78qybkCsGFBI"
+    },
+    {
+      "added_at": "2026-06-18 09:38:33",
+      "album": {
+        "name": "Love seeker",
+        "url": "https://open.spotify.com/album/0fcbyNShvGubuLdQqpMSbF"
+      },
+      "artists": [
+        {
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        }
+      ],
+      "duration_ms": 174226,
+      "name": "Love seeker",
+      "url": "https://open.spotify.com/track/3tmFGmmYcYdI8tZRSLlc0G"
     },
     {
       "added_at": "2026-06-18 09:38:33",

@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Chris MC, BIN",
-  "num_followers": 188044,
+  "num_followers": 188033,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -787,26 +787,6 @@
     {
       "added_at": "2026-06-12 03:01:48",
       "album": {
-        "name": "Amar D\u00f3i",
-        "url": "https://open.spotify.com/album/0dMizKYVd3kyaOe2VJkPTn"
-      },
-      "artists": [
-        {
-          "name": "Iza Sabino",
-          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
-        },
-        {
-          "name": "Rapaz do Dread",
-          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
-        }
-      ],
-      "duration_ms": 168063,
-      "name": "N\u00f3s",
-      "url": "https://open.spotify.com/track/2rzuk1zS2HbFTn4aLDoBEm"
-    },
-    {
-      "added_at": "2026-06-12 03:01:48",
-      "album": {
         "name": "Visto por \u00daltimo",
         "url": "https://open.spotify.com/album/47urvKrcNQF5Jt209J88hg"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 118356,
       "name": "Sinais de Relev\u00e2ncia",
       "url": "https://open.spotify.com/track/1ZMFajDTHRg8JiKxrplH3d"
+    },
+    {
+      "added_at": "2026-06-12 03:01:48",
+      "album": {
+        "name": "Amar D\u00f3i",
+        "url": "https://open.spotify.com/album/0dMizKYVd3kyaOe2VJkPTn"
+      },
+      "artists": [
+        {
+          "name": "Iza Sabino",
+          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
+        },
+        {
+          "name": "Rapaz do Dread",
+          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
+        }
+      ],
+      "duration_ms": 168063,
+      "name": "N\u00f3s",
+      "url": "https://open.spotify.com/track/2rzuk1zS2HbFTn4aLDoBEm"
     },
     {
       "added_at": "2026-06-12 03:01:48",
@@ -887,6 +887,22 @@
     {
       "added_at": "2026-06-12 03:01:48",
       "album": {
+        "name": "Castigo",
+        "url": "https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO"
+      },
+      "artists": [
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        }
+      ],
+      "duration_ms": 145185,
+      "name": "Castigo",
+      "url": "https://open.spotify.com/track/7zYNzITyQ41bb17sN1lafK"
+    },
+    {
+      "added_at": "2026-06-12 03:01:48",
+      "album": {
         "name": "Carta",
         "url": "https://open.spotify.com/album/6EPOLPNtoe9zpTaiBi3KST"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 144705,
       "name": "Carta",
       "url": "https://open.spotify.com/track/1E2UcbndCCNfpR0BRuiWMK"
-    },
-    {
-      "added_at": "2026-06-12 03:01:48",
-      "album": {
-        "name": "Castigo",
-        "url": "https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO"
-      },
-      "artists": [
-        {
-          "name": "Cryzin",
-          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
-        }
-      ],
-      "duration_ms": 145185,
-      "name": "Castigo",
-      "url": "https://open.spotify.com/track/7zYNzITyQ41bb17sN1lafK"
     },
     {
       "added_at": "2026-06-12 03:01:48",

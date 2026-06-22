@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 
 > The perfect mixtape for an anime fight scene\. Also, check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,328,365 likes - 75 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,328,456 likes - 75 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 67 | [lucky7!](https://open.spotify.com/track/4tkbMkT6vDOq0GzuSQyF6d) | [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH), [Pozle](https://open.spotify.com/artist/5ZP65l78WPZimUs9LVvMW0) | [lucky7!](https://open.spotify.com/album/2xoLgTp6uqufmawhjRFcWJ) | 1:28 |
 | 68 | [S1KE](https://open.spotify.com/track/353nsW8dzFIYX3hZfn2fUL) | [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [S1KE](https://open.spotify.com/album/5YKJ7mPmmNEGFkczGfM2nx) | 1:54 |
 | 69 | [Ryoshi](https://open.spotify.com/track/2kYkyfurLv3YbKinwdg2Le) | [Lil God Dan](https://open.spotify.com/artist/20kAERGCnqfyGydzop8bfg) | [Ryoshi](https://open.spotify.com/album/2nWSRjwiqY9IJi1QXbF5I7) | 1:27 |
-| 70 | [back in town!](https://open.spotify.com/track/3pEnjFkrJEgu6fi9NEYYsF) | [axaero](https://open.spotify.com/artist/5RuSwAt2v9Oy1uMQWzhZAz), [8percent](https://open.spotify.com/artist/3IvnJDS7SNCDivxi0xkiSK) | [back in town!](https://open.spotify.com/album/5BS99qACmMDiYq66wMA0jV) | 2:21 |
-| 71 | [Kismet](https://open.spotify.com/track/3owRFZTvTuWgNlUkbI6YgS) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [19](https://open.spotify.com/album/0jQjCFXUVRUrwUN7ACw0h8) | 2:51 |
-| 72 | [SOLO](https://open.spotify.com/track/2zkTK9vKqjNkLp4SOzpSXc) | [Rustage](https://open.spotify.com/artist/6cd3XfCAc3e596RQW8P94H), [anoravt](https://open.spotify.com/artist/4szuM6PQ5KeTofZSykuhgK) | [SOLO](https://open.spotify.com/album/2uUtMMIbcPIT5qHtab90CB) | 2:51 |
+| 70 | [Kismet](https://open.spotify.com/track/3owRFZTvTuWgNlUkbI6YgS) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [19](https://open.spotify.com/album/0jQjCFXUVRUrwUN7ACw0h8) | 2:51 |
+| 71 | [SOLO](https://open.spotify.com/track/2zkTK9vKqjNkLp4SOzpSXc) | [Rustage](https://open.spotify.com/artist/6cd3XfCAc3e596RQW8P94H), [anoravt](https://open.spotify.com/artist/4szuM6PQ5KeTofZSykuhgK) | [SOLO](https://open.spotify.com/album/2uUtMMIbcPIT5qHtab90CB) | 2:51 |
+| 72 | [back in town!](https://open.spotify.com/track/3pEnjFkrJEgu6fi9NEYYsF) | [axaero](https://open.spotify.com/artist/5RuSwAt2v9Oy1uMQWzhZAz), [8percent](https://open.spotify.com/artist/3IvnJDS7SNCDivxi0xkiSK) | [back in town!](https://open.spotify.com/album/5BS99qACmMDiYq66wMA0jV) | 2:21 |
 | 73 | [Sukuna Freestyle](https://open.spotify.com/track/46yDbFxszXw8BIEFWqeHxw) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo), [Musicality](https://open.spotify.com/artist/3jbwoqhl1GhkvC5rNBvHH3) | [Sukuna Freestyle](https://open.spotify.com/album/2XarFqquxUGflYNEW8DkmQ) | 3:05 |
 | 74 | [Plenty Guns](https://open.spotify.com/track/29gNXaDSlzN4DJtjPjscIJ) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Plenty Guns](https://open.spotify.com/album/3LwKxNjZlZhnAq6sHZnYhS) | 1:26 |
 | 75 | [Shibuya Arc](https://open.spotify.com/track/66AnOQv0avDMhd7NMJpw9Z) | [Fabvl](https://open.spotify.com/artist/48bqPGhLPTuS8gKg3UTtf9), [DizzyEight](https://open.spotify.com/artist/3qpVZqXttPUYEmt53UYDGV) | [Shibuya Arc](https://open.spotify.com/album/11RvmT3WtAN9t7C0DERMkN) | 3:10 |

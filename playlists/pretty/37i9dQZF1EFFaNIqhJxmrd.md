@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 6 | [Chasing A Feeling](https://open.spotify.com/track/4ABlnAALPidU4luA6WgTyI) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Apart](https://open.spotify.com/album/1NthtnctJUX7DxcNv43Kft) | 3:51 |
 | 7 | [DITT FEL \(Spotify Studio It’s Hits Recording\)](https://open.spotify.com/track/6Gkki1lhwz2w0824oFFyLK) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ), [JIREEL](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [PS jag hatar dig](https://open.spotify.com/album/0JUcDAaiv4ssfLlNdAufBs) | 3:54 |
 | 8 | [Stay \(feat\. Karen Harding\)](https://open.spotify.com/track/7eNF3i7lHKtRwlvMfbNu9M) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Stay \(feat\. Karen Harding\)](https://open.spotify.com/album/7DNteGyvbzO8o1XpVQoFVE) | 3:29 |
-| 9 | [Love Is Lonely](https://open.spotify.com/track/4IAjCbrxOPyfMqbVasSjwc) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: STICK OUT](https://open.spotify.com/album/2pb2RscdByJ8pc7dPT1SY2) | 3:17 |
+| 9 | [Love Is Lonely](https://open.spotify.com/track/5pVqYc2QDOEuBoQXe7dh7k) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: STICK OUT](https://open.spotify.com/album/1GxPOkewcCpjNEDeMFMGBT) | 3:17 |
 | 10 | [Hopelessly hopeless](https://open.spotify.com/track/64qDMtMORccb6NRgvtCYR0) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Home](https://open.spotify.com/album/6H6uDM9YdkVdXDUzDpO0wZ) | 3:26 |
 | 11 | [When You Lose Someone](https://open.spotify.com/track/2utSRo0nt4mAK4x3C8hx04) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Älskar](https://open.spotify.com/album/4M1E62jbwgbjy6kPer9vSu) | 3:21 |
 | 12 | [Say Something Now](https://open.spotify.com/track/4M2pbBlLkqUOTKadpAgPnh) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Waiting](https://open.spotify.com/album/2XyiCujhKmb7ezXGUM4EuY) | 3:29 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 116 | [Indigo Bruised](https://open.spotify.com/track/19UnB1WA1EhlnWIyGHyDfZ) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Indigo Bruised](https://open.spotify.com/album/4BxfBMRKQhFiIw1EpEm4Et) | 3:22 |
 | 117 | [Kollektivtrafikens Julnatt \(Midnatt Råder\)](https://open.spotify.com/track/47bzV0ETyGsu3srq4OllwQ) | [Tomtekollektivet](https://open.spotify.com/artist/5azVZddL5SFQ9lZn3zx7ih) | [Kollektivtrafikens julnatt \(Midnatt råder\)](https://open.spotify.com/album/4jvFXKwbay8D5ti6D0yTgQ) | 1:24 |
 
-Snapshot ID: `AcUwhgAAAADRtPeOR3CxhlIrQXc4MSE6`
+Snapshot ID: `AcU2JgAAAAARJPF3sru0nCs5GclhqrMH`

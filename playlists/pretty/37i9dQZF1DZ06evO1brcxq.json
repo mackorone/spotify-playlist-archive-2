@@ -1,12 +1,12 @@
 {
   "description": "This is Charli xcx. The essential tracks, all in one playlist.",
-  "num_followers": 223351,
+  "num_followers": 223393,
   "original_name": "This Is Charli xcx",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAABaMMaD9NXx7nYFXftl51/N",
+  "snapshot_id": "ajXYAAAAAAAwiHIQrSCmdU4eP/kV1bfn",
   "tracks": [
     {
       "added_at": null,
@@ -715,18 +715,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Romance",
-        "url": "https://open.spotify.com/album/5t7Bn5XfE7yj2rqydVq0Ue"
+        "name": "In The City",
+        "url": "https://open.spotify.com/album/4yb3RB7teZSVscBmOoDWvT"
       },
       "artists": [
         {
           "name": "Charli xcx",
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 187878,
-      "name": "You (Ha Ha Ha)",
-      "url": "https://open.spotify.com/track/5cghqtgljxpGJ1XeXAIK4p"
+      "duration_ms": 176479,
+      "name": "In The City",
+      "url": "https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku"
     },
     {
       "added_at": null,
@@ -747,22 +751,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "In The City",
-        "url": "https://open.spotify.com/album/4yb3RB7teZSVscBmOoDWvT"
+        "name": "True Romance",
+        "url": "https://open.spotify.com/album/5t7Bn5XfE7yj2rqydVq0Ue"
       },
       "artists": [
         {
           "name": "Charli xcx",
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 176479,
-      "name": "In The City",
-      "url": "https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku"
+      "duration_ms": 187878,
+      "name": "You (Ha Ha Ha)",
+      "url": "https://open.spotify.com/track/5cghqtgljxpGJ1XeXAIK4p"
     },
     {
       "added_at": null,

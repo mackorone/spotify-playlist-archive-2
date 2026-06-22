@@ -1,6 +1,6 @@
 {
   "description": "In this house we celebrate Australian music. Cover: The Avalanches",
-  "num_followers": 138014,
+  "num_followers": 138009,
   "original_name": "Turn Up Aus",
   "owner": {
     "name": "Spotify",
@@ -115,22 +115,6 @@
     {
       "added_at": "2026-06-18 14:01:18",
       "album": {
-        "name": "Linger / Heading For The Door (Sirius XM Session)",
-        "url": "https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Linger - SiriusXM Session",
-      "url": "https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq"
-    },
-    {
-      "added_at": "2026-06-18 14:01:18",
-      "album": {
         "name": "Sweet Disposition (a moment, a love)",
         "url": "https://open.spotify.com/album/1gy4lfYIU3RmqcKYucj5tR"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 212209,
       "name": "Sweet Disposition (a moment, a love)",
       "url": "https://open.spotify.com/track/0D57lQnn110jGaup4NguSI"
+    },
+    {
+      "added_at": "2026-06-18 14:01:18",
+      "album": {
+        "name": "Linger / Heading For The Door (Sirius XM Session)",
+        "url": "https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Linger - SiriusXM Session",
+      "url": "https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq"
     },
     {
       "added_at": "2026-06-18 14:01:18",
@@ -239,22 +239,6 @@
     {
       "added_at": "2026-06-18 14:01:18",
       "album": {
-        "name": "BEFORE I FORGET (DELUXE)",
-        "url": "https://open.spotify.com/album/6CACyqngQWTOAM1UpAtco3"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 205306,
-      "name": "PIECES",
-      "url": "https://open.spotify.com/track/0LSnGEfj4T8vJyi7lVU3Gn"
-    },
-    {
-      "added_at": "2026-06-18 14:01:18",
-      "album": {
         "name": "Addicted To Bass (Dom Dolla Relapse)",
         "url": "https://open.spotify.com/album/659fi13MrTySSxJqmatMMu"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 189179,
       "name": "Addicted To Bass (Dom Dolla Relapse)",
       "url": "https://open.spotify.com/track/0umvGSFCXSyrHGcXKwsvCg"
+    },
+    {
+      "added_at": "2026-06-18 14:01:18",
+      "album": {
+        "name": "BEFORE I FORGET (DELUXE)",
+        "url": "https://open.spotify.com/album/6CACyqngQWTOAM1UpAtco3"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 205306,
+      "name": "PIECES",
+      "url": "https://open.spotify.com/track/0LSnGEfj4T8vJyi7lVU3Gn"
     },
     {
       "added_at": "2026-06-18 14:01:18",
@@ -307,6 +307,22 @@
     {
       "added_at": "2026-06-18 14:01:18",
       "album": {
+        "name": "last night you said you missed me",
+        "url": "https://open.spotify.com/album/3dp8Y5MGseZ3ahOMIP47O2"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 199040,
+      "name": "queen of the season",
+      "url": "https://open.spotify.com/track/35Tzu0ZfS2YoDNsHfFIR7a"
+    },
+    {
+      "added_at": "2026-06-18 14:01:18",
+      "album": {
         "name": "Baby Blue / When It Comes To Loving You",
         "url": "https://open.spotify.com/album/4d0QJmAw0Yjs6soAwmVyHm"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 179817,
       "name": "A COLD PLAY",
       "url": "https://open.spotify.com/track/4H5DcBcHSt6ReloheY37Yi"
-    },
-    {
-      "added_at": "2026-06-18 14:01:18",
-      "album": {
-        "name": "last night you said you missed me",
-        "url": "https://open.spotify.com/album/3dp8Y5MGseZ3ahOMIP47O2"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 199040,
-      "name": "queen of the season",
-      "url": "https://open.spotify.com/track/35Tzu0ZfS2YoDNsHfFIR7a"
     },
     {
       "added_at": "2026-06-18 14:01:18",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-06-18 14:01:18",
       "album": {
-        "name": "I CONDEMN",
-        "url": "https://open.spotify.com/album/3GGPWismNDtBFF8EJxoiFI"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 142597,
-      "name": "I CONDEMN",
-      "url": "https://open.spotify.com/track/4JIC9Y4gNwefZ9UiCnZCvT"
-    },
-    {
-      "added_at": "2026-06-18 14:01:18",
-      "album": {
         "name": "Favour",
         "url": "https://open.spotify.com/album/6oHga26im49BALtZyiLDIL"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 194890,
       "name": "Favour",
       "url": "https://open.spotify.com/track/3dltnNdpRDtPMydcL8eMSR"
+    },
+    {
+      "added_at": "2026-06-18 14:01:18",
+      "album": {
+        "name": "I CONDEMN",
+        "url": "https://open.spotify.com/album/3GGPWismNDtBFF8EJxoiFI"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 142597,
+      "name": "I CONDEMN",
+      "url": "https://open.spotify.com/track/4JIC9Y4gNwefZ9UiCnZCvT"
     },
     {
       "added_at": "2026-06-18 14:01:18",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-06-18 14:01:18",
       "album": {
-        "name": "NOT OK",
-        "url": "https://open.spotify.com/album/07I0d31GGiQ1uWRCEQdZrm"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 206040,
-      "name": "NOT OK",
-      "url": "https://open.spotify.com/track/0WvP4Q6ZaNT1tvs8LGrf4f"
-    },
-    {
-      "added_at": "2026-06-18 14:01:18",
-      "album": {
         "name": "Giving Up Air",
         "url": "https://open.spotify.com/album/4exXV4JfJXcyHtrGelE0lw"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 287411,
       "name": "Giving Up Air",
       "url": "https://open.spotify.com/track/4K49GNARzyKM5WuZVLB6Jy"
+    },
+    {
+      "added_at": "2026-06-18 14:01:18",
+      "album": {
+        "name": "NOT OK",
+        "url": "https://open.spotify.com/album/07I0d31GGiQ1uWRCEQdZrm"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 206040,
+      "name": "NOT OK",
+      "url": "https://open.spotify.com/track/0WvP4Q6ZaNT1tvs8LGrf4f"
     },
     {
       "added_at": "2026-06-18 14:01:18",
@@ -815,18 +815,18 @@
     {
       "added_at": "2026-06-18 14:01:18",
       "album": {
-        "name": "Evian",
-        "url": "https://open.spotify.com/album/68WNy1c7yNaKv0vDK3FVjP"
+        "name": "Elements",
+        "url": "https://open.spotify.com/album/5YxDlfsJQMih8nrHyHzntp"
       },
       "artists": [
         {
-          "name": "Northlane",
-          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
+          "name": "BOY SODA",
+          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
         }
       ],
-      "duration_ms": 302322,
-      "name": "Evian",
-      "url": "https://open.spotify.com/track/0VPMvHXO7K1Ukj0DAmtvPs"
+      "duration_ms": 207138,
+      "name": "Elements",
+      "url": "https://open.spotify.com/track/0ezvAv1ZRfqRBtJCPfMjyJ"
     },
     {
       "added_at": "2026-06-18 14:01:18",
@@ -855,6 +855,22 @@
     {
       "added_at": "2026-06-18 14:01:18",
       "album": {
+        "name": "Evian",
+        "url": "https://open.spotify.com/album/68WNy1c7yNaKv0vDK3FVjP"
+      },
+      "artists": [
+        {
+          "name": "Northlane",
+          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
+        }
+      ],
+      "duration_ms": 302322,
+      "name": "Evian",
+      "url": "https://open.spotify.com/track/0VPMvHXO7K1Ukj0DAmtvPs"
+    },
+    {
+      "added_at": "2026-06-18 14:01:18",
+      "album": {
         "name": "STAMPEDE",
         "url": "https://open.spotify.com/album/7A2scjvl1X6PS9TBZ6BzFj"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 189200,
       "name": "STAMPEDE",
       "url": "https://open.spotify.com/track/6gxGg4j7i3Ba7F2x0yi8br"
-    },
-    {
-      "added_at": "2026-06-18 14:01:18",
-      "album": {
-        "name": "Elements",
-        "url": "https://open.spotify.com/album/5YxDlfsJQMih8nrHyHzntp"
-      },
-      "artists": [
-        {
-          "name": "BOY SODA",
-          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
-        }
-      ],
-      "duration_ms": 207138,
-      "name": "Elements",
-      "url": "https://open.spotify.com/track/0ezvAv1ZRfqRBtJCPfMjyJ"
     },
     {
       "added_at": "2026-06-18 14:01:18",
@@ -907,22 +907,18 @@
     {
       "added_at": "2026-06-18 14:01:18",
       "album": {
-        "name": "Thrills",
-        "url": "https://open.spotify.com/album/2NaHPoiajNRF1peImCGK9E"
+        "name": "Hurracane",
+        "url": "https://open.spotify.com/album/5Uu9Eec9z4kkB0lQhthSP4"
       },
       "artists": [
         {
-          "name": "Peking Duk",
-          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+          "name": "DMA'S",
+          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
         }
       ],
-      "duration_ms": 186184,
-      "name": "Thrills",
-      "url": "https://open.spotify.com/track/3Cq4tuFqivRPL9OWlr8OHP"
+      "duration_ms": 185572,
+      "name": "Hurracane",
+      "url": "https://open.spotify.com/track/1xSQFAP6pfng02tJa1jnLc"
     },
     {
       "added_at": "2026-06-18 14:01:18",
@@ -943,18 +939,38 @@
     {
       "added_at": "2026-06-18 14:01:18",
       "album": {
-        "name": "Hurracane",
-        "url": "https://open.spotify.com/album/5Uu9Eec9z4kkB0lQhthSP4"
+        "name": "Thrills",
+        "url": "https://open.spotify.com/album/2NaHPoiajNRF1peImCGK9E"
       },
       "artists": [
         {
-          "name": "DMA'S",
-          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
+          "name": "Peking Duk",
+          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 185572,
-      "name": "Hurracane",
-      "url": "https://open.spotify.com/track/1xSQFAP6pfng02tJa1jnLc"
+      "duration_ms": 186184,
+      "name": "Thrills",
+      "url": "https://open.spotify.com/track/3Cq4tuFqivRPL9OWlr8OHP"
+    },
+    {
+      "added_at": "2026-06-18 14:01:18",
+      "album": {
+        "name": "Yougotmefeeling",
+        "url": "https://open.spotify.com/album/1cEohOuRI90FBrWx9DRkJ4"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 183462,
+      "name": "Yougotmefeeling",
+      "url": "https://open.spotify.com/track/5tUgNChqKSz7ezdwtP9juP"
     },
     {
       "added_at": "2026-06-18 14:01:18",
@@ -991,22 +1007,6 @@
       "duration_ms": 180120,
       "name": "Tu Coraz\u00f3n (Your Heart)",
       "url": "https://open.spotify.com/track/64PXpstU2BDJ1iMcPNLJyS"
-    },
-    {
-      "added_at": "2026-06-18 14:01:18",
-      "album": {
-        "name": "Yougotmefeeling",
-        "url": "https://open.spotify.com/album/1cEohOuRI90FBrWx9DRkJ4"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 183462,
-      "name": "Yougotmefeeling",
-      "url": "https://open.spotify.com/track/5tUgNChqKSz7ezdwtP9juP"
     },
     {
       "added_at": "2026-06-18 14:01:18",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-06-18 14:01:18",
       "album": {
-        "name": "wraith",
-        "url": "https://open.spotify.com/album/1wG3pKqRfaOxRl70min6lC"
-      },
-      "artists": [
-        {
-          "name": "Esha Tewari",
-          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
-        }
-      ],
-      "duration_ms": 245892,
-      "name": "summer in december",
-      "url": "https://open.spotify.com/track/3uQzLQIn6SVdMQSRNCybtz"
-    },
-    {
-      "added_at": "2026-06-18 14:01:18",
-      "album": {
         "name": "FACEDOWN",
         "url": "https://open.spotify.com/album/0HvxP4GWEWPoENikGeEeee"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 221818,
       "name": "FACEDOWN",
       "url": "https://open.spotify.com/track/3NeyGd5x77xBqeByPsTqq8"
+    },
+    {
+      "added_at": "2026-06-18 14:01:18",
+      "album": {
+        "name": "wraith",
+        "url": "https://open.spotify.com/album/1wG3pKqRfaOxRl70min6lC"
+      },
+      "artists": [
+        {
+          "name": "Esha Tewari",
+          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
+        }
+      ],
+      "duration_ms": 245892,
+      "name": "summer in december",
+      "url": "https://open.spotify.com/track/3uQzLQIn6SVdMQSRNCybtz"
     },
     {
       "added_at": "2026-06-18 14:01:18",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-06-18 14:01:18",
       "album": {
-        "name": "House of Cards",
-        "url": "https://open.spotify.com/album/5V0ZWdLXKyHg9Ry1tRhVv5"
-      },
-      "artists": [
-        {
-          "name": "The Amity Affliction",
-          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
-        }
-      ],
-      "duration_ms": 166711,
-      "name": "Kickboxer",
-      "url": "https://open.spotify.com/track/08Q6bcPGaSSeBttJjToFJN"
-    },
-    {
-      "added_at": "2026-06-18 14:01:18",
-      "album": {
         "name": "LOST IN HEAVEN (HIGH AS HELL) [Deluxe]",
         "url": "https://open.spotify.com/album/6rcnUgf07ihw83jjuaCXfR"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 182278,
       "name": "WARCRY",
       "url": "https://open.spotify.com/track/7GVpcXnj4dq0ozhiPKwWPm"
+    },
+    {
+      "added_at": "2026-06-18 14:01:18",
+      "album": {
+        "name": "House of Cards",
+        "url": "https://open.spotify.com/album/5V0ZWdLXKyHg9Ry1tRhVv5"
+      },
+      "artists": [
+        {
+          "name": "The Amity Affliction",
+          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
+        }
+      ],
+      "duration_ms": 166711,
+      "name": "Kickboxer",
+      "url": "https://open.spotify.com/track/08Q6bcPGaSSeBttJjToFJN"
     },
     {
       "added_at": "2026-06-18 14:01:18",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2026-06-18 14:01:18",
       "album": {
-        "name": "Chase Your Tail",
-        "url": "https://open.spotify.com/album/2VBxycc0YtWBprEsQxOmby"
-      },
-      "artists": [
-        {
-          "name": "BOY SODA",
-          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
-        }
-      ],
-      "duration_ms": 193915,
-      "name": "Chase Your Tail",
-      "url": "https://open.spotify.com/track/21QZn1gYqOE7HG3s6LHaxF"
-    },
-    {
-      "added_at": "2026-06-18 14:01:18",
-      "album": {
         "name": "Exit Wounds",
         "url": "https://open.spotify.com/album/6Vm6inhzAgOMOCi1LRcXCY"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 211233,
       "name": "East Village",
       "url": "https://open.spotify.com/track/5LiP68DZdXab2WX8EcWREO"
+    },
+    {
+      "added_at": "2026-06-18 14:01:18",
+      "album": {
+        "name": "Chase Your Tail",
+        "url": "https://open.spotify.com/album/2VBxycc0YtWBprEsQxOmby"
+      },
+      "artists": [
+        {
+          "name": "BOY SODA",
+          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
+        }
+      ],
+      "duration_ms": 193915,
+      "name": "Chase Your Tail",
+      "url": "https://open.spotify.com/track/21QZn1gYqOE7HG3s6LHaxF"
     },
     {
       "added_at": "2026-06-18 14:01:18",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2026-06-18 14:01:18",
       "album": {
+        "name": "MOLLY",
+        "url": "https://open.spotify.com/album/5jgFHPjLCPkFcpZ4T9Gvb6"
+      },
+      "artists": [
+        {
+          "name": "Ecca Vandal",
+          "url": "https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf"
+        }
+      ],
+      "duration_ms": 272507,
+      "name": "MOLLY",
+      "url": "https://open.spotify.com/track/5FxXv3uQHKFKoslI6sMpYi"
+    },
+    {
+      "added_at": "2026-06-18 14:01:18",
+      "album": {
         "name": "Honora",
         "url": "https://open.spotify.com/album/4RsSlnwkUAvEtg0Tk86HnM"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 262653,
       "name": "Wichita Lineman (feat. Nick Cave)",
       "url": "https://open.spotify.com/track/7v6s2kEfYa1ZEkg1o8fKwO"
-    },
-    {
-      "added_at": "2026-06-18 14:01:18",
-      "album": {
-        "name": "MOLLY",
-        "url": "https://open.spotify.com/album/5jgFHPjLCPkFcpZ4T9Gvb6"
-      },
-      "artists": [
-        {
-          "name": "Ecca Vandal",
-          "url": "https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf"
-        }
-      ],
-      "duration_ms": 272507,
-      "name": "MOLLY",
-      "url": "https://open.spotify.com/track/5FxXv3uQHKFKoslI6sMpYi"
     },
     {
       "added_at": "2026-06-18 14:01:18",
@@ -1475,18 +1475,22 @@
     {
       "added_at": "2026-06-18 14:01:18",
       "album": {
-        "name": "These Arms",
-        "url": "https://open.spotify.com/album/0wlMUld5GFdP9oLIMMd5om"
+        "name": "gossip",
+        "url": "https://open.spotify.com/album/1M2RVGLYbgdJMO6ygrF6Zw"
       },
       "artists": [
         {
-          "name": "The Temper Trap",
-          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        },
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
         }
       ],
-      "duration_ms": 257693,
-      "name": "These Arms",
-      "url": "https://open.spotify.com/track/1xcBiYE5Jt8fynhe9ehVKt"
+      "duration_ms": 199690,
+      "name": "gossip",
+      "url": "https://open.spotify.com/track/3pgwQNwEqbU12kLNXNDB7Q"
     },
     {
       "added_at": "2026-06-18 14:01:18",
@@ -1515,38 +1519,18 @@
     {
       "added_at": "2026-06-18 14:01:18",
       "album": {
-        "name": "gossip",
-        "url": "https://open.spotify.com/album/1M2RVGLYbgdJMO6ygrF6Zw"
+        "name": "These Arms",
+        "url": "https://open.spotify.com/album/0wlMUld5GFdP9oLIMMd5om"
       },
       "artists": [
         {
-          "name": "Confidence Man",
-          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
-        },
-        {
-          "name": "JADE",
-          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
         }
       ],
-      "duration_ms": 199690,
-      "name": "gossip",
-      "url": "https://open.spotify.com/track/3pgwQNwEqbU12kLNXNDB7Q"
-    },
-    {
-      "added_at": "2026-06-18 14:01:18",
-      "album": {
-        "name": "I Love You Out Loud",
-        "url": "https://open.spotify.com/album/4duEYFqitqYj9e7jD2B80M"
-      },
-      "artists": [
-        {
-          "name": "Larissa Lambert",
-          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
-        }
-      ],
-      "duration_ms": 213023,
-      "name": "I Love You Out Loud",
-      "url": "https://open.spotify.com/track/7svayygEZXPdOBQ2MoH2ZP"
+      "duration_ms": 257693,
+      "name": "These Arms",
+      "url": "https://open.spotify.com/track/1xcBiYE5Jt8fynhe9ehVKt"
     },
     {
       "added_at": "2026-06-18 14:01:18",
@@ -1567,6 +1551,22 @@
     {
       "added_at": "2026-06-18 14:01:18",
       "album": {
+        "name": "I Love You Out Loud",
+        "url": "https://open.spotify.com/album/4duEYFqitqYj9e7jD2B80M"
+      },
+      "artists": [
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        }
+      ],
+      "duration_ms": 213023,
+      "name": "I Love You Out Loud",
+      "url": "https://open.spotify.com/track/7svayygEZXPdOBQ2MoH2ZP"
+    },
+    {
+      "added_at": "2026-06-18 14:01:18",
+      "album": {
         "name": "Some Kinda Heaven",
         "url": "https://open.spotify.com/album/3EeGkM5qgkBgkTTJvXy6VU"
       },
@@ -1579,22 +1579,6 @@
       "duration_ms": 204507,
       "name": "Some Kinda Heaven",
       "url": "https://open.spotify.com/track/6nlH3iGFED7iT2HYGVksCV"
-    },
-    {
-      "added_at": "2026-06-18 14:01:18",
-      "album": {
-        "name": "LIFE KEEPS GOING",
-        "url": "https://open.spotify.com/album/25ck4PVSVUW7h54ZHGX34m"
-      },
-      "artists": [
-        {
-          "name": "Genesis Owusu",
-          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
-        }
-      ],
-      "duration_ms": 219204,
-      "name": "LIFE KEEPS GOING",
-      "url": "https://open.spotify.com/track/7bUGV0iRkAlZ4qeGix6O9H"
     },
     {
       "added_at": "2026-06-18 14:01:18",
@@ -1615,6 +1599,22 @@
     {
       "added_at": "2026-06-18 14:01:18",
       "album": {
+        "name": "LIFE KEEPS GOING",
+        "url": "https://open.spotify.com/album/25ck4PVSVUW7h54ZHGX34m"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "duration_ms": 219204,
+      "name": "LIFE KEEPS GOING",
+      "url": "https://open.spotify.com/track/7bUGV0iRkAlZ4qeGix6O9H"
+    },
+    {
+      "added_at": "2026-06-18 14:01:18",
+      "album": {
         "name": "Miss You In The Morning",
         "url": "https://open.spotify.com/album/3ctTWJYKS5XsVacC6s5O8R"
       },
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2026-06-18 14:01:18",
       "album": {
-        "name": "VERTICAL WORLDS",
-        "url": "https://open.spotify.com/album/7J5sYFuxDRzYGrSNqv9H1G"
-      },
-      "artists": [
-        {
-          "name": "Ecca Vandal",
-          "url": "https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf"
-        }
-      ],
-      "duration_ms": 195371,
-      "name": "VERTICAL WORLDS",
-      "url": "https://open.spotify.com/track/4BixLPsuhd4pJw4DC1lt0z"
-    },
-    {
-      "added_at": "2026-06-18 14:01:18",
-      "album": {
         "name": "Over You",
         "url": "https://open.spotify.com/album/2hhs7vyNgPFe0J8FI7HcJk"
       },
@@ -1659,6 +1643,38 @@
       "duration_ms": 284339,
       "name": "Over You",
       "url": "https://open.spotify.com/track/036QOmnlr52hgeH1WmQ5OB"
+    },
+    {
+      "added_at": "2026-06-18 14:01:18",
+      "album": {
+        "name": "Marginalia",
+        "url": "https://open.spotify.com/album/24tPRjQC2xJJBHiQlu65ot"
+      },
+      "artists": [
+        {
+          "name": "Rum Jungle",
+          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
+        }
+      ],
+      "duration_ms": 178455,
+      "name": "Quiet When You\u2019re Listening",
+      "url": "https://open.spotify.com/track/4dOWpZNo7FSTOCVgudEyPg"
+    },
+    {
+      "added_at": "2026-06-18 14:01:18",
+      "album": {
+        "name": "SONS",
+        "url": "https://open.spotify.com/album/6swcZeJGkihDlNt2y8pPEa"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "duration_ms": 154835,
+      "name": "It\u2019s Alright",
+      "url": "https://open.spotify.com/track/0qolNSuJWgA9diit13iCpC"
     },
     {
       "added_at": "2026-06-18 14:01:18",
@@ -1683,34 +1699,18 @@
     {
       "added_at": "2026-06-18 14:01:18",
       "album": {
-        "name": "SONS",
-        "url": "https://open.spotify.com/album/6swcZeJGkihDlNt2y8pPEa"
+        "name": "VERTICAL WORLDS",
+        "url": "https://open.spotify.com/album/7J5sYFuxDRzYGrSNqv9H1G"
       },
       "artists": [
         {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+          "name": "Ecca Vandal",
+          "url": "https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf"
         }
       ],
-      "duration_ms": 154835,
-      "name": "It\u2019s Alright",
-      "url": "https://open.spotify.com/track/0qolNSuJWgA9diit13iCpC"
-    },
-    {
-      "added_at": "2026-06-18 14:01:18",
-      "album": {
-        "name": "Marginalia",
-        "url": "https://open.spotify.com/album/24tPRjQC2xJJBHiQlu65ot"
-      },
-      "artists": [
-        {
-          "name": "Rum Jungle",
-          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
-        }
-      ],
-      "duration_ms": 178455,
-      "name": "Quiet When You\u2019re Listening",
-      "url": "https://open.spotify.com/track/4dOWpZNo7FSTOCVgudEyPg"
+      "duration_ms": 195371,
+      "name": "VERTICAL WORLDS",
+      "url": "https://open.spotify.com/track/4BixLPsuhd4pJw4DC1lt0z"
     },
     {
       "added_at": "2026-06-18 14:01:18",

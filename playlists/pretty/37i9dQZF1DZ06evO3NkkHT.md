@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 
 > This is BigXthaPlug\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,009 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,042 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 | 34 | [SAFE TO SAY](https://open.spotify.com/track/3LiKjOCPBdHptHFuVByheV) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr), [600 Ent.](https://open.spotify.com/artist/0TrRaMO8jDnJDcva8BWgkU) | [6WA](https://open.spotify.com/album/1ycJGUC68zkGwUHdlCqre0) | 2:59 |
 | 35 | [Therapy Session](https://open.spotify.com/track/6jiSIF5SOpztZFYGeJvwZv) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE](https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc) | 1:48 |
 | 36 | [TexUS \- Intro](https://open.spotify.com/track/3YH1yjX1BfDp68VeiW4jfW) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [D Flowers](https://open.spotify.com/artist/7rnjmw51Muflmf5IFVY8eF), [OTB Fastlane](https://open.spotify.com/artist/130sangK9RkAwRToKn9GHj) | [Be Someone: Texas Population](https://open.spotify.com/album/14XtPxh7Dy1qbLgIw8tYNi) | 2:45 |
-| 37 | [Who Run It](https://open.spotify.com/track/3uhJIV80m8oKkuyvvS6rw2) | [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Who Run It](https://open.spotify.com/album/3nNUt7aSmNi3mmiUgtitHI) | 2:43 |
-| 38 | [U and Me \(feat\. BigXthaPlug\)](https://open.spotify.com/track/7wM7yo16WS6YLzRNwegByw) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Recess](https://open.spotify.com/album/5Bo68f3J0Ufnb0d9iHf4FZ) | 2:48 |
-| 39 | [Say Please \(Don't Leave Me Lonely\) \(feat\. BigXthaPlug\)](https://open.spotify.com/track/3gq1jrwHUDFN0VyQu2yvrQ) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Say Please \(Don't Leave Me Lonely\) \[feat\. BigXthaPlug\]](https://open.spotify.com/album/42u78y3vwF6rNh81djS2SF) | 3:14 |
-| 40 | [Life of a Boss](https://open.spotify.com/track/2Zom0cHy98xMHYtSFu64yX) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE \(DELUXE\)](https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs) | 2:04 |
+| 37 | [U and Me \(feat\. BigXthaPlug\)](https://open.spotify.com/track/7wM7yo16WS6YLzRNwegByw) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Recess](https://open.spotify.com/album/5Bo68f3J0Ufnb0d9iHf4FZ) | 2:48 |
+| 38 | [Who Run It](https://open.spotify.com/track/3uhJIV80m8oKkuyvvS6rw2) | [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Who Run It](https://open.spotify.com/album/3nNUt7aSmNi3mmiUgtitHI) | 2:43 |
+| 39 | [Life of a Boss](https://open.spotify.com/track/2Zom0cHy98xMHYtSFu64yX) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE \(DELUXE\)](https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs) | 2:04 |
+| 40 | [Say Please \(Don't Leave Me Lonely\) \(feat\. BigXthaPlug\)](https://open.spotify.com/track/3gq1jrwHUDFN0VyQu2yvrQ) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Say Please \(Don't Leave Me Lonely\) \[feat\. BigXthaPlug\]](https://open.spotify.com/album/42u78y3vwF6rNh81djS2SF) | 3:14 |
 | 41 | [Rap Niggas](https://open.spotify.com/track/5N07BHxtukdhyjLDrGfo9P) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR \(Deluxe\)](https://open.spotify.com/album/7GRLkZUNmRNsplRsUsCPop) | 2:44 |
 | 42 | [Big Stepper](https://open.spotify.com/track/0uq2cBrdJ9iHEkFHuyWPPG) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Big Stepper](https://open.spotify.com/album/0PGaC9A4FfYaIrX9jciKcr) | 2:10 |
 | 43 | [Rich Off Rap](https://open.spotify.com/track/0NjuL8WPfpZsp6WoG1M9SZ) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE](https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc) | 2:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 | 49 | [No Love \(feat\. BigXthaPlug\)](https://open.spotify.com/track/4bA0warBsmbGTkVRFDTviU) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [No Love](https://open.spotify.com/album/0jNWu1J9xoi5MYDaCCBapr) | 2:29 |
 | 50 | [Good To Me](https://open.spotify.com/track/09fNbO1PnafsvOIANvJCZS) | [Mykfresh](https://open.spotify.com/artist/67cmVMoqQDWreDXtsIaJdR), [2RawQua](https://open.spotify.com/artist/3DGljPQGDgIsRtIiqetMAo), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Good To Me](https://open.spotify.com/album/3ITvNAnHd2Ub45NyQLmZ2k) | 3:28 |
 
-Snapshot ID: `ajSGgAAAAADX4HjVU4gX86jjEzvzAJ+i`
+Snapshot ID: `ajXYAAAAAABmUKcgohRmChue+exDuo1E`

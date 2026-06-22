@@ -4,7 +4,7 @@
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-293 songs - 18 hr 11 min
+294 songs - 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Lies](https://open.spotify.com/track/2MoFtyPPhZv7CpTxfdNjJq) | [K\-LYN](https://open.spotify.com/artist/2Qp9KchzSzTUCF29ENQwz1) | [Lies](https://open.spotify.com/album/03iscBHsYdPmsOHVuo03J7) | 2:51 | 2026-04-10 | 2026-05-04 |
 | [Lightning In a Bottle](https://open.spotify.com/track/1DIXOhpniezyXDTjHZrdlT) | [Dave Christen](https://open.spotify.com/artist/3pLpSZzfhqSloT7Cidly8l) | [Lightning In a Bottle](https://open.spotify.com/album/3EL0fXppNfiSwSUIom0euS) | 4:12 | 2026-06-09 | 2026-06-20 |
 | [Limelight](https://open.spotify.com/track/26REr7Uuna2BoKbtfWDrHL) | [Clay Rings](https://open.spotify.com/artist/3tr227jMYMc1Qygz3A4Unp) | [Limelight](https://open.spotify.com/album/5mppIA74m49Xnw2q38UBjE) | 4:08 | 2025-11-16 | 2025-11-24 |
+| [Lips Parted](https://open.spotify.com/track/6Kg0rGcKTqAHqBt6ZD7wn4) | [Both Hands](https://open.spotify.com/artist/3flW9Wdr8HajNi1zIRjQCW) | [Lips Parted](https://open.spotify.com/album/1DfPPo6CWL6sgWvqzkjN6j) | 4:26 | 2026-06-21 |  |
 | [Long Way Down](https://open.spotify.com/track/02yqNMBzwugwzOYq2eBfiC) | [Mike Nisbet](https://open.spotify.com/artist/6Tc074ljZ44daReadmzyOU) | [Bucket Of Blood](https://open.spotify.com/album/6jQCYLssJ4O1D08spqUs2P) | 3:58 | 2025-11-23 | 2025-12-07 |
 | [Longnor](https://open.spotify.com/track/3BZcOmxBYdhrqq68OlmaPW) | [Kev Howell](https://open.spotify.com/artist/38Gs10vnRQfKJ1ayxh7WsG) | [It's Gonna Get Heavy](https://open.spotify.com/album/1B4l546X3Ry4dP4CSLQ1DX) | 4:36 | 2025-11-16 | 2025-11-24 |
 | [Look Me In The Eye](https://open.spotify.com/track/4V6D8bxGBhhqFhe6pTWbHg) | [FAEDA](https://open.spotify.com/artist/5fC6wqfNjhmkVh6cYB4Gru) | [Look Me In The Eye](https://open.spotify.com/album/122QcOvBCwlu4MUQ7Pq1N0) | 3:33 | 2026-04-17 |  |

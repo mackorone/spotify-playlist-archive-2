@@ -193,6 +193,24 @@
     },
     {
       "album": {
+        "name": "antidote",
+        "url": "https://open.spotify.com/album/2BSPPL1xSGEUFBDLqeTADD"
+      },
+      "artists": [
+        {
+          "name": "Alo\u00efse Sauvage",
+          "url": "https://open.spotify.com/artist/5LYSuLVsB6OVxkDY107AyQ"
+        }
+      ],
+      "date_added": "2026-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "antidote",
+      "url": "https://open.spotify.com/track/0fg5YlwJeWVOruyXuYcLbl"
+    },
+    {
+      "album": {
         "name": "Anxiety",
         "url": "https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA"
       },
@@ -244,7 +262,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 171920,
       "name": "BALLERINES DE BOURGE",
       "url": "https://open.spotify.com/track/2NGMnic5kVnqB12RLiEdOy"
@@ -266,6 +284,28 @@
       "duration_ms": 160631,
       "name": "Beaucoup",
       "url": "https://open.spotify.com/track/0Ql9OMKwFzW1y8Ljx4XU26"
+    },
+    {
+      "album": {
+        "name": "Behind A Tree",
+        "url": "https://open.spotify.com/album/35WEBguCyLhFI1czWxmSPn"
+      },
+      "artists": [
+        {
+          "name": "Pearly Drops",
+          "url": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
+        },
+        {
+          "name": "ELOI",
+          "url": "https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl"
+        }
+      ],
+      "date_added": "2026-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286618,
+      "name": "Behind A Tree",
+      "url": "https://open.spotify.com/track/5xy6evgWUZ5nnAI9Ox6y1A"
     },
     {
       "album": {
@@ -334,7 +374,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 205337,
       "name": "Bonjour docteur",
       "url": "https://open.spotify.com/track/5DCa18LuNfuTRwW78k4ocS"
@@ -592,7 +632,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 207629,
       "name": "des excuses",
       "url": "https://open.spotify.com/track/3oheKF0nqti5irt9c83pIp"
@@ -1138,7 +1178,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 183851,
       "name": "LA F\u00caTE",
       "url": "https://open.spotify.com/track/18xjZqxbgxxhQTqhUTAlYT"
@@ -1178,6 +1218,24 @@
       "duration_ms": 178466,
       "name": "Le temps fera les choses",
       "url": "https://open.spotify.com/track/3VnkGuyau3qb04MVxSNjnl"
+    },
+    {
+      "album": {
+        "name": "le village",
+        "url": "https://open.spotify.com/album/2PvCytDBc6cEY10ZFDBRAG"
+      },
+      "artists": [
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        }
+      ],
+      "date_added": "2026-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217813,
+      "name": "le village",
+      "url": "https://open.spotify.com/track/4BUkHw3lvnY8fuOgu9kRAN"
     },
     {
       "album": {
@@ -1450,7 +1508,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 207000,
       "name": "mayday",
       "url": "https://open.spotify.com/track/1b5t2zmmKtMUIecVdg61Vb"
@@ -1751,6 +1809,24 @@
     },
     {
       "album": {
+        "name": "Pleurer en dansant",
+        "url": "https://open.spotify.com/album/0WYQgUq0o57dPJIgPYtkuS"
+      },
+      "artists": [
+        {
+          "name": "Hoshi",
+          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
+        }
+      ],
+      "date_added": "2026-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210013,
+      "name": "Pleurer en dansant",
+      "url": "https://open.spotify.com/track/1TXTfBITlGjV3iObZitZs2"
+    },
+    {
+      "album": {
         "name": "Ch\u00e2teau Int\u00e9rieur",
         "url": "https://open.spotify.com/album/0l9T71EcM3Io83UFjIDBFQ"
       },
@@ -1986,6 +2062,28 @@
       "duration_ms": 161533,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/2S8zGKKeoSwgyrVoW9Wbo3"
+    },
+    {
+      "album": {
+        "name": "SLUT ( i just wanna fuck )",
+        "url": "https://open.spotify.com/album/5UrdHHdQSdnjqeNB8wz3b7"
+      },
+      "artists": [
+        {
+          "name": "Yanka",
+          "url": "https://open.spotify.com/artist/5yAgNwxoOxbPpKdgaY7Ro6"
+        },
+        {
+          "name": "King Doudou",
+          "url": "https://open.spotify.com/artist/3aVceD1iZNjO7INFdXQaeZ"
+        }
+      ],
+      "date_added": "2026-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170434,
+      "name": "SLUT ( i just wanna fuck )",
+      "url": "https://open.spotify.com/track/2ewATJlDAVistbrs1gqU7z"
     },
     {
       "album": {

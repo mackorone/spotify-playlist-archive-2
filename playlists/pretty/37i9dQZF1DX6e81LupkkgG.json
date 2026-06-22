@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasicas aconchegantes para aquecer a alma nos dias frios.",
-  "num_followers": 332122,
+  "num_followers": 332090,
   "original_name": "Friozinho",
   "owner": {
     "name": "Spotify",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2025-06-20 19:25:41",
       "album": {
-        "name": "Preciso Dizer Que Te Amo",
-        "url": "https://open.spotify.com/album/73TRVmgZ7pFUwLUYHzJinp"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
-        }
-      ],
-      "duration_ms": 233990,
-      "name": "Preciso Dizer Que Te Amo",
-      "url": "https://open.spotify.com/track/347uerQudKYIl3pOrtnDwa"
-    },
-    {
-      "added_at": "2025-06-20 19:25:41",
-      "album": {
         "name": "You All Over Me (feat. Maren Morris) (Taylor\u2019s Version) (From The Vault)",
         "url": "https://open.spotify.com/album/5xd9LleY1wqsgKVTwLoXYI"
       },
@@ -1459,6 +1439,26 @@
       "duration_ms": 220839,
       "name": "You All Over Me (feat. Maren Morris) (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/5pcjystBtalYeqaiXCcgEY"
+    },
+    {
+      "added_at": "2025-06-20 19:25:41",
+      "album": {
+        "name": "Preciso Dizer Que Te Amo",
+        "url": "https://open.spotify.com/album/73TRVmgZ7pFUwLUYHzJinp"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "duration_ms": 233990,
+      "name": "Preciso Dizer Que Te Amo",
+      "url": "https://open.spotify.com/track/347uerQudKYIl3pOrtnDwa"
     },
     {
       "added_at": "2025-06-20 19:25:41",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2025-06-20 19:25:41",
       "album": {
+        "name": "Tears",
+        "url": "https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO"
+    },
+    {
+      "added_at": "2025-06-20 19:25:41",
+      "album": {
         "name": "Sand",
         "url": "https://open.spotify.com/album/6K8VcnG6HUSp59xNOpEJhP"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 178949,
       "name": "Crying Over You",
       "url": "https://open.spotify.com/track/53bCcVMGv0S2aIYvfju2Tt"
-    },
-    {
-      "added_at": "2025-06-20 19:25:41",
-      "album": {
-        "name": "Tears",
-        "url": "https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Tears",
-      "url": "https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO"
     },
     {
       "added_at": "2025-06-20 19:25:41",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbAjJgz6c0cD.md) - [plain]
 
 > The essential Moroccan summer hits\. Mixes available exclusively on Spotify Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 325 likes - 40 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 337 likes - 40 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

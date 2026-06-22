@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > Celebrating Juneteenth with new tracks from Dylan Sinclair, Tyla, YG, girlsweetvoiced,  Allison Russell, and Glenn Lewis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 595,309 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 595,270 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

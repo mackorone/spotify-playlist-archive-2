@@ -1,6 +1,6 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Bruno Mars",
-  "num_followers": 4378893,
+  "num_followers": 4378624,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
@@ -743,30 +743,6 @@
     {
       "added_at": "2026-05-09 02:01:26",
       "album": {
-        "name": "Espresso (Working Late Remixes)",
-        "url": "https://open.spotify.com/album/29UKCfgIX2fgBff2uSz6qV"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        },
-        {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        },
-        {
-          "name": "FNZ",
-          "url": "https://open.spotify.com/artist/4lA6HCQmWfI4cRWyo2xmlK"
-        }
-      ],
-      "duration_ms": 184156,
-      "name": "Espresso - Mark Ronson x FNZ Working Late Remix",
-      "url": "https://open.spotify.com/track/2rHUyJioDOKDshDDxzbISl"
-    },
-    {
-      "added_at": "2026-05-09 02:01:26",
-      "album": {
         "name": "Ferrari (Oliver Heldens Remix)",
         "url": "https://open.spotify.com/album/2vqDUyzavoaVR8gbe59JwY"
       },
@@ -787,6 +763,30 @@
       "duration_ms": 188640,
       "name": "Ferrari - Oliver Heldens Remix",
       "url": "https://open.spotify.com/track/0oCNRAmwLo4zHDpCKpjQtI"
+    },
+    {
+      "added_at": "2026-05-09 02:01:26",
+      "album": {
+        "name": "Espresso (Working Late Remixes)",
+        "url": "https://open.spotify.com/album/29UKCfgIX2fgBff2uSz6qV"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        },
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "FNZ",
+          "url": "https://open.spotify.com/artist/4lA6HCQmWfI4cRWyo2xmlK"
+        }
+      ],
+      "duration_ms": 184156,
+      "name": "Espresso - Mark Ronson x FNZ Working Late Remix",
+      "url": "https://open.spotify.com/track/2rHUyJioDOKDshDDxzbISl"
     },
     {
       "added_at": "2026-05-09 02:01:26",
@@ -1263,6 +1263,26 @@
     {
       "added_at": "2026-05-09 02:01:26",
       "album": {
+        "name": "Not At This Party (David Guetta Remix)",
+        "url": "https://open.spotify.com/album/2PdajQLCzFMKVuJgnRTTaR"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 171488,
+      "name": "Not At This Party - David Guetta Remix",
+      "url": "https://open.spotify.com/track/6eAdBskdGxnbUVXxEUu3io"
+    },
+    {
+      "added_at": "2026-05-09 02:01:26",
+      "album": {
         "name": "Sports car (remixes)",
         "url": "https://open.spotify.com/album/3otWafB6ZVEFMM9KdeEiR4"
       },
@@ -1283,22 +1303,22 @@
     {
       "added_at": "2026-05-09 02:01:26",
       "album": {
-        "name": "Not At This Party (David Guetta Remix)",
-        "url": "https://open.spotify.com/album/2PdajQLCzFMKVuJgnRTTaR"
+        "name": "Blow My Mind (CA7RIEL & Paco Amoroso Version)",
+        "url": "https://open.spotify.com/album/7pOzBulb4xSuKLGHekguEk"
       },
       "artists": [
         {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
         },
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
         }
       ],
-      "duration_ms": 171488,
-      "name": "Not At This Party - David Guetta Remix",
-      "url": "https://open.spotify.com/track/6eAdBskdGxnbUVXxEUu3io"
+      "duration_ms": 169383,
+      "name": "Blow My Mind - CA7RIEL & Paco Amoroso Version",
+      "url": "https://open.spotify.com/track/2Fn0xjZZa6ma1WgwyHM69k"
     },
     {
       "added_at": "2026-05-09 02:01:26",
@@ -1323,26 +1343,6 @@
       "duration_ms": 147692,
       "name": "Beep (with Devault)",
       "url": "https://open.spotify.com/track/5hl2EBmQmkQSWpz5CjUC7L"
-    },
-    {
-      "added_at": "2026-05-09 02:01:26",
-      "album": {
-        "name": "Blow My Mind (CA7RIEL & Paco Amoroso Version)",
-        "url": "https://open.spotify.com/album/7pOzBulb4xSuKLGHekguEk"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        },
-        {
-          "name": "CA7RIEL & Paco Amoroso",
-          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
-        }
-      ],
-      "duration_ms": 169383,
-      "name": "Blow My Mind - CA7RIEL & Paco Amoroso Version",
-      "url": "https://open.spotify.com/track/2Fn0xjZZa6ma1WgwyHM69k"
     },
     {
       "added_at": "2026-05-09 02:01:26",
@@ -1387,6 +1387,26 @@
     {
       "added_at": "2026-05-09 02:01:26",
       "album": {
+        "name": "Can't Get You out of My Head (Peggy Gou\u2019s Midnight Remix)",
+        "url": "https://open.spotify.com/album/046ZhN1OxrBDq9KSUQTzm3"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 271240,
+      "name": "Can't Get You out of My Head - Peggy Gou\u2019s Midnight Remix",
+      "url": "https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb"
+    },
+    {
+      "added_at": "2026-05-09 02:01:26",
+      "album": {
         "name": "New Gold (feat. Tame Impala and Bootie Brown) [Dom Dolla Remix]",
         "url": "https://open.spotify.com/album/7BVQ5jsPNkmQUnlOU0mg6e"
       },
@@ -1413,24 +1433,24 @@
       "url": "https://open.spotify.com/track/2c3KCGq6UojB2c8UAFrRON"
     },
     {
-      "added_at": "2026-05-09 02:01:26",
+      "added_at": "2026-06-13 04:01:33",
       "album": {
-        "name": "Can't Get You out of My Head (Peggy Gou\u2019s Midnight Remix)",
-        "url": "https://open.spotify.com/album/046ZhN1OxrBDq9KSUQTzm3"
+        "name": "Sick Of Love (Mura Masa Remix)",
+        "url": "https://open.spotify.com/album/4MH2cB8M1yl9Gnz8r8bR0n"
       },
       "artists": [
         {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
         },
         {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
         }
       ],
-      "duration_ms": 271240,
-      "name": "Can't Get You out of My Head - Peggy Gou\u2019s Midnight Remix",
-      "url": "https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb"
+      "duration_ms": 334078,
+      "name": "Sick Of Love (Mura Masa Remix)",
+      "url": "https://open.spotify.com/track/2npfkuwONh6ZDKJqxyj7ob"
     },
     {
       "added_at": "2026-05-09 02:01:26",
@@ -1455,26 +1475,6 @@
       "duration_ms": 389956,
       "name": "Moth To A Flame (feat. The Weeknd) - Adriatique Remix",
       "url": "https://open.spotify.com/track/1G3kwVs3JHqN5UPiFXcAID"
-    },
-    {
-      "added_at": "2026-06-13 04:01:33",
-      "album": {
-        "name": "Sick Of Love (Mura Masa Remix)",
-        "url": "https://open.spotify.com/album/4MH2cB8M1yl9Gnz8r8bR0n"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        },
-        {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
-        }
-      ],
-      "duration_ms": 334078,
-      "name": "Sick Of Love (Mura Masa Remix)",
-      "url": "https://open.spotify.com/track/2npfkuwONh6ZDKJqxyj7ob"
     },
     {
       "added_at": "2026-05-09 02:01:26",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 
 > ¡Trópico y vanguardia! Deja que la brisa impulse tu espíritu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,767 likes - 110 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,772 likes - 110 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 11 | [Se Vienen Cositas](https://open.spotify.com/track/7ulDhf05iMrq4IFWNbTrbI) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [¿Dónde Es El After?](https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG) | 2:39 |
 | 12 | [ALMA](https://open.spotify.com/track/3DNPOTO44kCKUV9RkYU77G) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Bendito Verano](https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s) | 2:56 |
 | 13 | [Linda](https://open.spotify.com/track/77KDRAKMs1dRirOgKOKM9j) | [Barboza](https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG) | [AFRO RED 2](https://open.spotify.com/album/2hbLXNfQdvgStp3QJN9HNg) | 2:23 |
-| 14 | [CHAMPAGNE](https://open.spotify.com/track/0nr6m6Y6yONJJtTsqGkITv) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [SUPERARTE](https://open.spotify.com/album/2HcMhHy9j2nCoerGQLJe9g) | 3:27 |
+| 14 | [Wapa](https://open.spotify.com/track/3pKQxo7IgfYkT2BmU4yr4w) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [Wapa](https://open.spotify.com/album/1wJB6OXKXyK6l0JYPNrEVq) | 2:39 |
 | 15 | [Beso a Beso](https://open.spotify.com/track/1hih4xsBd6rHYETs8wI79C) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [Beso a Beso](https://open.spotify.com/album/3ltYEasCkX4XZJxBScFNln) | 2:17 |
-| 16 | [Wapa](https://open.spotify.com/track/3pKQxo7IgfYkT2BmU4yr4w) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [Wapa](https://open.spotify.com/album/1wJB6OXKXyK6l0JYPNrEVq) | 2:39 |
+| 16 | [CHAMPAGNE](https://open.spotify.com/track/0nr6m6Y6yONJJtTsqGkITv) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [SUPERARTE](https://open.spotify.com/album/2HcMhHy9j2nCoerGQLJe9g) | 3:27 |
 | 17 | [amoureux](https://open.spotify.com/track/172YRaBrecw8yp15qJhnzd) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p) | [amoureux](https://open.spotify.com/album/5T9DEFeLiWDNvlY9saIoVh) | 2:13 |
 | 18 | [ILY](https://open.spotify.com/track/5ru2w4Y7xP58IXE6m4orW0) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ILY](https://open.spotify.com/album/7ct2yMkPUUMjmgjJh9MdQW) | 3:36 |
 | 19 | [No Llegamos Ni A Febrero](https://open.spotify.com/track/5yb9zjiSDK9cMBhQxI0TMs) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [No Llegamos Ni A Febrero](https://open.spotify.com/album/6aNgiuAeoVLHICmNiZryZo) | 2:58 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 86 | [ni una foto](https://open.spotify.com/track/5Fc6a806jgiEU3ka1Rqpyq) | [GAMBOA](https://open.spotify.com/artist/6vNjkmZB4B8C9isC2GgjD9) | [ni una foto](https://open.spotify.com/album/6xKGfOhCxShui9ia3zCxwJ) | 3:12 |
 | 87 | [No Avanzan \(feat\. Luis Eduardo Acústico\)](https://open.spotify.com/track/35pUfmbGcHh24mEcHJnPGp) | [Tostao](https://open.spotify.com/artist/5TncuIF5Ud9VOx2NYY4qfT), [Luis Eduardo Acústico](https://open.spotify.com/artist/3sG7osrc6txjpoApiVgGdm) | [No Avanzan \(feat\. Luis Eduardo Acústico\)](https://open.spotify.com/album/12DZ25npZ3OCG49siRWV9l) | 2:51 |
 | 88 | [Emocional](https://open.spotify.com/track/2mob68KQblU3mK2hIdF9R1) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Emocional](https://open.spotify.com/album/14rF7fiIcUBsg17Arf3VJM) | 3:09 |
-| 89 | [Mi Reina](https://open.spotify.com/track/46fmfZtm61l4nVt7jR1VAJ) | [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8) | [Mi Reina](https://open.spotify.com/album/2g5ah09hJ9oS1QbTADu2xd) | 3:02 |
-| 90 | [Como Fuego](https://open.spotify.com/track/5DXL5uI0bfC5q1pBe5Qcwm) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Sol Y Lluvia](https://open.spotify.com/album/7dvh8EBJFZLom05NRjmiH7) | 3:04 |
+| 89 | [Como Fuego](https://open.spotify.com/track/5DXL5uI0bfC5q1pBe5Qcwm) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Sol Y Lluvia](https://open.spotify.com/album/7dvh8EBJFZLom05NRjmiH7) | 3:04 |
+| 90 | [Mi Reina](https://open.spotify.com/track/46fmfZtm61l4nVt7jR1VAJ) | [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8) | [Mi Reina](https://open.spotify.com/album/2g5ah09hJ9oS1QbTADu2xd) | 3:02 |
 | 91 | [Ciénaga](https://open.spotify.com/track/6Mvxbj2eJphVbSFfa4RE5U) | [Los Yoryis](https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya) | [Ciénaga](https://open.spotify.com/album/6rZTSfPwLlZQz80lF4vKVn) | 2:56 |
 | 92 | [Mudanza](https://open.spotify.com/track/6QrEijuCigH5qAWOwlse6C) | [Kid Fresco](https://open.spotify.com/artist/2Mqd2MLJTKaLBG8N5vS5rD) | [Mudanza](https://open.spotify.com/album/2hIMvD6GSJJskCPeeZZhOt) | 3:32 |
 | 93 | [Museo](https://open.spotify.com/track/2cos8mfUgNxpBKZBWj0fvg) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf), [Kabasaki](https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX) | [Museo](https://open.spotify.com/album/0Dsu1o55jtnkwt1BxKnCGB) | 2:45 |

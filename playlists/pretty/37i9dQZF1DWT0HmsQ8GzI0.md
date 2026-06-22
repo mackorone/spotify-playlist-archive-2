@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0HmsQ8GzI0.md) - [plain]
 
 > Zenék, amik félreugranak a műfaji határok elől\. Cover: Fran Palermo
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,659 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,658 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0HmsQ8GzI0.md) - [plain]
 | 10 | [DONEKIRK](https://open.spotify.com/track/019GjG59HXJGly9yuhDb7n) | [cibi](https://open.spotify.com/artist/3e1iDJzrvTCdGOzTCjuiuf), [ROSE MAY](https://open.spotify.com/artist/3xAMdoZgV5uPPm6qeZl08I) | [LAKKATLAN SZEEGET](https://open.spotify.com/album/5AtXdTEllUA0nbKhC1iyQI) | 2:45 |
 | 11 | [Estelente](https://open.spotify.com/track/3vATKG0ju6znf3IchoY3aQ) | [imago mundi](https://open.spotify.com/artist/4pD0Y4NqCiTWh4IhpH2NQO) | [SZÉTHULLIKAVILÁG](https://open.spotify.com/album/61j7GEdlMGrqUluP2G6oi8) | 3:17 |
 | 12 | [Frida Kahlo](https://open.spotify.com/track/7CMqBgZAFANJNyQueevWvR) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6), [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [Frida Kahlo](https://open.spotify.com/album/5HMnxIdbBRvoTW5PvNbBoo) | 2:43 |
-| 13 | [KALITKA](https://open.spotify.com/track/5nvw8Wj7y1GA9SlLCU5Lm3) | [Elefánt](https://open.spotify.com/artist/5XXDBFhkTp168rjq9IjAE3) | [KALITKA](https://open.spotify.com/album/7qvRUUUPdKDbyC3qjbL9nJ) | 4:08 |
-| 14 | [Járatlan](https://open.spotify.com/track/7gt3yKDsnuyD3klF0uOEXW) | [laurie.](https://open.spotify.com/artist/6RNq4wuvQfF7WbDtBkiuET), [sosehol](https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai) | [Járatlan](https://open.spotify.com/album/6ND8Ft1X16BRRQxGLpTtKY) | 3:16 |
+| 13 | [Járatlan](https://open.spotify.com/track/7gt3yKDsnuyD3klF0uOEXW) | [laurie.](https://open.spotify.com/artist/6RNq4wuvQfF7WbDtBkiuET), [sosehol](https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai) | [Járatlan](https://open.spotify.com/album/6ND8Ft1X16BRRQxGLpTtKY) | 3:16 |
+| 14 | [KALITKA](https://open.spotify.com/track/5nvw8Wj7y1GA9SlLCU5Lm3) | [Elefánt](https://open.spotify.com/artist/5XXDBFhkTp168rjq9IjAE3) | [KALITKA](https://open.spotify.com/album/7qvRUUUPdKDbyC3qjbL9nJ) | 4:08 |
 | 15 | [Velem Ég](https://open.spotify.com/track/32p6hZN0tIOqj25rHPTx3n) | [Csinszka](https://open.spotify.com/artist/5Tnw6MRgzvpCp6iH0YHKJ6) | [Velem Ég](https://open.spotify.com/album/4DZxey1QDt1tfLYCKIzrIW) | 3:08 |
 | 16 | [Sivatag](https://open.spotify.com/track/5qaOxpSVzbHHSF4J7yyBKS) | [Indigo](https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA), [Dan Pinto](https://open.spotify.com/artist/5Bg0nn9wJutwmaNhhld2Xw) | [Sivatag](https://open.spotify.com/album/0Z78ucckt1P6XNux1EoEBu) | 2:32 |
 | 17 | [Sűrű Végtelen](https://open.spotify.com/track/2qs3bIFrzK1EgBCM4Q8uCO) | [Blahalouisiana](https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP) | [Sűrű Végtelen](https://open.spotify.com/album/3wlOuACIG4NJP4Sve8yVIF) | 3:39 |
@@ -72,12 +72,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0HmsQ8GzI0.md) - [plain]
 | 62 | [Lassan, kocsis](https://open.spotify.com/track/16VjYN80sz5SaoAGUcBhqa) | [Aurevoir.](https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw) | [Lassan, kocsis](https://open.spotify.com/album/53VbZsC8lQjXTXi3GSduEA) | 4:08 |
 | 63 | [zúgj szél](https://open.spotify.com/track/0R1J9WiI9xyMppsuLJKRYU) | [30Y](https://open.spotify.com/artist/3uLh2gv7vN8sZ5rAPdCBE9) | [zúgj szél](https://open.spotify.com/album/053TgtTiFDCDCL9v3S3cDS) | 3:21 |
 | 64 | [TAVASZI NAGYTAKARÍTÁS](https://open.spotify.com/track/07pbiymI3VAmgE4HmHjk1N) | [Hűvös](https://open.spotify.com/artist/3xUvGJC2dqdwZ63D801tmA) | [TAVASZI NAGYTAKARÍTÁS](https://open.spotify.com/album/1M5qSMUHsshvYpbdA2FbHh) | 2:43 |
-| 65 | [Legfontosabbak](https://open.spotify.com/track/1IPrR0DyuvItRQ4aUTKOu1) | [Héra Barnabás](https://open.spotify.com/artist/42xKpR9Qeev4I5IFby0WUR) | [Legfontosabbak](https://open.spotify.com/album/3HHv5quyHRsWwRe6Qfv10B) | 3:12 |
-| 66 | [heal, heal, heal](https://open.spotify.com/track/1p3xYYUCwcnhnJJrOvbry6) | [The Anahit](https://open.spotify.com/artist/1MaK1Vfc104UBALiVspffb) | [heal, heal, heal](https://open.spotify.com/album/5XmntFTXIT29aQLeWjteNw) | 3:33 |
+| 65 | [heal, heal, heal](https://open.spotify.com/track/1p3xYYUCwcnhnJJrOvbry6) | [The Anahit](https://open.spotify.com/artist/1MaK1Vfc104UBALiVspffb) | [heal, heal, heal](https://open.spotify.com/album/5XmntFTXIT29aQLeWjteNw) | 3:33 |
+| 66 | [Legfontosabbak](https://open.spotify.com/track/1IPrR0DyuvItRQ4aUTKOu1) | [Héra Barnabás](https://open.spotify.com/artist/42xKpR9Qeev4I5IFby0WUR) | [Legfontosabbak](https://open.spotify.com/album/3HHv5quyHRsWwRe6Qfv10B) | 3:12 |
 | 67 | [Csillagból fény](https://open.spotify.com/track/4gWLzsy21pYAa5mxUo0zLQ) | [Aurevoir.](https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw) | [Csillagból fény](https://open.spotify.com/album/75ehWIPCih0JSCRexiIm0V) | 4:11 |
 | 68 | [MÚLT](https://open.spotify.com/track/0Q5YKaEMCIRVCseNxnrTKi) | [Loophia](https://open.spotify.com/artist/3Y1l1roXoFoKXUO5EPUecM) | [MÚLT](https://open.spotify.com/album/6A1y6ZaEM7Yb0udQzICCp0) | 3:57 |
-| 69 | [Tell Me](https://open.spotify.com/track/6AzZIx5XOcopwhj08yavjk) | [Saya Noé](https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead) | [Tell Me](https://open.spotify.com/album/2ULTvsSBYu727gTsgab8Ln) | 3:25 |
-| 70 | [disco maffia](https://open.spotify.com/track/6c7Kt8odjYaFktvT1DeCPR) | [Duckshell](https://open.spotify.com/artist/0UwipkMBTtmv6dORNlafC9), [Várkonyi Csibészek](https://open.spotify.com/artist/1RoqJqUGdtcjnKyGARoWF3) | [disco maffia](https://open.spotify.com/album/6ZVls0oLr3Quxr0PtysJUJ) | 4:05 |
+| 69 | [disco maffia](https://open.spotify.com/track/6c7Kt8odjYaFktvT1DeCPR) | [Duckshell](https://open.spotify.com/artist/0UwipkMBTtmv6dORNlafC9), [Várkonyi Csibészek](https://open.spotify.com/artist/1RoqJqUGdtcjnKyGARoWF3) | [disco maffia](https://open.spotify.com/album/6ZVls0oLr3Quxr0PtysJUJ) | 4:05 |
+| 70 | [Tell Me](https://open.spotify.com/track/6AzZIx5XOcopwhj08yavjk) | [Saya Noé](https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead) | [Tell Me](https://open.spotify.com/album/2ULTvsSBYu727gTsgab8Ln) | 3:25 |
 | 71 | [Még Egyszer](https://open.spotify.com/track/4YmUf5BCfZLecZv0N1qnrc) | [B\. Nagy Réka](https://open.spotify.com/artist/5RNiPH3JLNOxOCuSYplII1) | [Még Egyszer](https://open.spotify.com/album/39xBjc4QcfROZ5a9NdlQPn) | 3:18 |
 | 72 | [Pillangóhatás](https://open.spotify.com/track/5L9mdXBFc2g6l2XmfSsSJN) | [Tóth Abigél](https://open.spotify.com/artist/4Cm5LvpsuI6maYo55R7CaS) | [Pillangóhatás](https://open.spotify.com/album/1qA0swttSHDYjbQ3cwOX5Y) | 2:18 |
 | 73 | [BANCOKE](https://open.spotify.com/track/4HVIYu7ataK4lF4HXFE9Mt) | [cibi](https://open.spotify.com/artist/3e1iDJzrvTCdGOzTCjuiuf) | [BANCOKE](https://open.spotify.com/album/3iktyzG4ba9NjT4VXXdswB) | 2:53 |

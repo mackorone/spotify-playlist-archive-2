@@ -1,12 +1,12 @@
 {
   "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
-  "num_followers": 97979,
+  "num_followers": 98005,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAADbfxibl+KWyFimds7KnV7C",
+  "snapshot_id": "ajXYAAAAAADwmlF6RsMNObpVpyeXm8IX",
   "tracks": [
     {
       "added_at": null,
@@ -686,11 +686,15 @@
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        },
+        {
+          "name": "Los Nuevos Rebeldes",
+          "url": "https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr"
         }
       ],
-      "duration_ms": 187943,
-      "name": "Hombre Del Rancho - En Vivo",
-      "url": "https://open.spotify.com/track/5dVaCEZyRUS3VzYY9kfJT2"
+      "duration_ms": 118656,
+      "name": "El 50 - En Vivo",
+      "url": "https://open.spotify.com/track/7BaMloayPXaFVmrS962HUk"
     },
     {
       "added_at": null,
@@ -754,15 +758,11 @@
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        },
-        {
-          "name": "Los Nuevos Rebeldes",
-          "url": "https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr"
         }
       ],
-      "duration_ms": 118656,
-      "name": "El 50 - En Vivo",
-      "url": "https://open.spotify.com/track/7BaMloayPXaFVmrS962HUk"
+      "duration_ms": 187943,
+      "name": "Hombre Del Rancho - En Vivo",
+      "url": "https://open.spotify.com/track/5dVaCEZyRUS3VzYY9kfJT2"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 
 > गाँव\-घर की शादियों का असली संगीत 'भोजपुरी विवाह गीत'.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,568 likes - 50 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,568 likes - 50 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 | 46 | [Puri Tarkari](https://open.spotify.com/track/5LKETVyIhr0twSuqY2NqtZ) | [KUMARI SONAL](https://open.spotify.com/artist/06TPwrMe1ZOjyYBeuPD3o1), [Ananyya Singhh](https://open.spotify.com/artist/6PZBSvecJzYBo85YKKo2nA) | [Puri Tarkari](https://open.spotify.com/album/5ulPeFyEUQ8OYHrAwhfOU7) | 2:54 |
 | 47 | [Samdhi Ho Gaile Nachniyaan](https://open.spotify.com/track/2X0dl5IqzEhhaLxosSjhBi) | [Malini Awasthi](https://open.spotify.com/artist/4af9dUIG89GAuEsy6Se3F1) | [Kaahe Ko Byahe Bides](https://open.spotify.com/album/1W6iCSVsuBVhMUchYAfhCO) | 4:45 |
 | 48 | [Jiya Kare Dhaka Dhak](https://open.spotify.com/track/2g2Fqd1rTRwaL2r0BjK3Mr) | [Mohini Dwivedi](https://open.spotify.com/artist/4cRYiIKUvFsRMeAnuPSdIO), [Ananyya Singhh](https://open.spotify.com/artist/6PZBSvecJzYBo85YKKo2nA), [KUMARI SONAL](https://open.spotify.com/artist/06TPwrMe1ZOjyYBeuPD3o1) | [Jiya Kare Dhaka Dhak](https://open.spotify.com/album/6T3ImVHWiI0QKUFgWsnSB4) | 3:26 |
-| 49 | [Kothwa Upar Baba \(Wedding Song\)](https://open.spotify.com/track/11w8nTWqAWIZ33GvWyYklB) | [Khushi Kakkar](https://open.spotify.com/artist/0BJNNzQGYD82tPvp5ziJiu) | [Kothwa Upar Baba \(Wedding Song\)](https://open.spotify.com/album/7is37iX44ubPEy8hqwmEfq) | 2:20 |
+| 49 | [Hare\-Hare Hare Dada](https://open.spotify.com/track/1atl5wZPYRVqYotOzmiWiL) | [Devi](https://open.spotify.com/artist/5w9vr3Fiv8Up0KCOz6fgAk) | [Mangal Geet](https://open.spotify.com/album/5LRXr1pKz4moRJ8bH6afmh) | 6:44 |
 | 50 | [Doliya Kahar](https://open.spotify.com/track/1z2zRkwyPCKB0bBAR2dlLw) | [Vertika Shukla](https://open.spotify.com/artist/65ty5KnrRZ9OPxI86Tomss) | [Doliya Kahar](https://open.spotify.com/album/2g0vIAmEnvoCAJDuSuJrsi) | 4:07 |
 
 Snapshot ID: `AAAAAKblijZycje191rzdDhgC/c/S9xC`

@@ -1,6 +1,6 @@
 {
   "description": "Listen to selected nominees for the 68th GRAMMY Awards.",
-  "num_followers": 166341,
+  "num_followers": 166329,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "A Matter of Time",
-        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 164400,
-      "name": "Lover Girl",
-      "url": "https://open.spotify.com/track/4nwjvcUjV7cexhwA40Bh5i"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "Messy",
         "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 284068,
       "name": "Messy",
       "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "A Matter of Time",
+        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "Lover Girl",
+      "url": "https://open.spotify.com/track/4nwjvcUjV7cexhwA40Bh5i"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -995,30 +995,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "I Know A Name",
-        "url": "https://open.spotify.com/album/3BOILqe5ccdWMBR8KZfCB2"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 429454,
-      "name": "I Know A Name",
-      "url": "https://open.spotify.com/track/4TXK7iqOnXCr8XWyj3b4dJ"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "ASTROPICAL",
         "url": "https://open.spotify.com/album/21U3vjlzUXb642LW0Ventl"
       },
@@ -1039,6 +1015,30 @@
       "duration_ms": 201307,
       "name": "Me Pasa (Piscis)",
       "url": "https://open.spotify.com/track/63ZVyUi9weRwuMf1QsbDnY"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "I Know A Name",
+        "url": "https://open.spotify.com/album/3BOILqe5ccdWMBR8KZfCB2"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 429454,
+      "name": "I Know A Name",
+      "url": "https://open.spotify.com/track/4TXK7iqOnXCr8XWyj3b4dJ"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Snipe Hunter",
-        "url": "https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa"
-      },
-      "artists": [
-        {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        }
-      ],
-      "duration_ms": 175973,
-      "name": "Nose On The Grindstone",
-      "url": "https://open.spotify.com/track/7MVELI3PNucjlskWhNZESi"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "Cowboys And Dreamers",
         "url": "https://open.spotify.com/album/1ny6U0ma4yGHppI1HuQ7gJ"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 189746,
       "name": "Honky Tonk Hall Of Fame",
       "url": "https://open.spotify.com/track/3ETCVKhAVXx0a8ohAeSP7d"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "Snipe Hunter",
+        "url": "https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 175973,
+      "name": "Nose On The Grindstone",
+      "url": "https://open.spotify.com/track/7MVELI3PNucjlskWhNZESi"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -2043,6 +2043,22 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
+        "name": "Glum",
+        "url": "https://open.spotify.com/album/4cVwrr3LtOc7GEJ4LHZEsk"
+      },
+      "artists": [
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "duration_ms": 191379,
+      "name": "Glum",
+      "url": "https://open.spotify.com/track/0kpB9iZJ9eMPQiMU9W6ouD"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
         "name": "Hard Headed Woman",
         "url": "https://open.spotify.com/album/1q03d1hYDfMWALV5t8Rbaw"
       },
@@ -2059,22 +2075,6 @@
       "duration_ms": 267133,
       "name": "Love Me Like You Used To Do [Feat. Tyler Childers]",
       "url": "https://open.spotify.com/track/28520OoA1qXG46koPHUcSG"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
-        "name": "Glum",
-        "url": "https://open.spotify.com/album/4cVwrr3LtOc7GEJ4LHZEsk"
-      },
-      "artists": [
-        {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
-        }
-      ],
-      "duration_ms": 191379,
-      "name": "Glum",
-      "url": "https://open.spotify.com/track/0kpB9iZJ9eMPQiMU9W6ouD"
     },
     {
       "added_at": "2025-11-12 17:50:29",

@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-509 songs - 1 day 4 hr 45 min
+510 songs - 1 day 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -415,6 +415,7 @@
 | [Supporting Character](https://open.spotify.com/track/1vjwH3e6jYKecVfZhJ1c6V) | [TJ Juganas](https://open.spotify.com/artist/77DKnEff4JNbAbkDqb61re) | [Supporting Character](https://open.spotify.com/album/7mvQ18bOXnbwaeFz7bIzHg) | 3:49 | 2025-12-23 | 2026-01-15 |
 | [Surfing to Nowhere](https://open.spotify.com/track/6PN45BwdFZexnyNNPWkxyg) | [fabiano matiolla](https://open.spotify.com/artist/1gSEoElmqiR2xGnMtTTqes) | [Surfing to Nowhere](https://open.spotify.com/album/1nitwAEcNvb5ejMda2TESx) | 4:31 | 2026-06-16 |  |
 | [Take A Lil' Time](https://open.spotify.com/track/1oVCeQADHIZKSb492xwk1S) | [Tristan Hutton](https://open.spotify.com/artist/6bXZTbs3GVfsdT6HyQVw2w) | [Take A Lil' Time](https://open.spotify.com/album/4RAQc3RTorlP1eLpWwmVFV) | 4:00 | 2026-05-08 | 2026-06-14 |
+| [Take Another Drag](https://open.spotify.com/track/148ES5Swi6aBxRxy1LIAeq) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh), [Yung Father](https://open.spotify.com/artist/1u060weQXyTEVdGPZEfIM7) | [Take Another Drag](https://open.spotify.com/album/0QujmIPiE087gdOoMYtBiX) | 4:12 | 2026-06-21 |  |
 | [Take Me There](https://open.spotify.com/track/0T540jldrQIbUy0WuZplnX) | [J.Soul](https://open.spotify.com/artist/5jdVWEJI1micvPRupftugZ) | [Take Me There](https://open.spotify.com/album/7B9n80xlWR68UQlaKMyHrE) | 4:16 | 2025-12-23 | 2026-01-15 |
 | [Take What Is Left](https://open.spotify.com/track/3NnzCY51DZrwFBNjcUozBP) | [Edgeline](https://open.spotify.com/artist/6rzkpsF9nG5ScJFYTGTUOB) | [Leave](https://open.spotify.com/album/3OgnRzvhhrrcaci5Qapuqr) | 4:19 | 2026-05-26 |  |
 | [Tanto](https://open.spotify.com/track/6zgyFi5AddkJEqazpqttKA) | [Anedonia](https://open.spotify.com/artist/0Aqh4GZUYMq4i6UH7ptaBP) | [Catarsis](https://open.spotify.com/album/2kswk3FL9QXty9kwJZdadg) | 4:20 | 2025-11-02 | 2025-12-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4oCdiaZmiKLPpKUHlFjovZ.md) - [plain]
 
 > Turn this playlist all the way up! Featuring Fenix Flexin, Shaboozey, LUCKI &amp; more.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 33,528 likes - 102 songs - 4 hr 46 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 33,516 likes - 102 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: ハク。
 
-1,826 songs - 4 day 14 hr 20 min
+1,827 songs - 4 day 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1173,7 +1173,7 @@
 | [バッドリピートエンド](https://open.spotify.com/track/0647L6JfnQWufikSR6AabW) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [バッドリピートエンド](https://open.spotify.com/album/2PflW869EJaNYuPaHgK6gq) | 3:17 | 2023-07-27 | 2024-03-23 |
 | [バラッド](https://open.spotify.com/track/7i7IIiQmG3aaPksXzN0xmq) | [Maki](https://open.spotify.com/artist/6UW7Pcu9boprqMAXaePWZA) | [バラッド](https://open.spotify.com/album/0sfhfT4oWTshVTikCkML90) | 5:04 | 2025-03-11 | 2025-05-22 |
 | [バンジー！](https://open.spotify.com/track/3cSRTh5J0p3dMwTzoy1AxE) | [レトロマイガール!!](https://open.spotify.com/artist/3dtVOi7B41MT6TKllYhfuT) | [バンジー！](https://open.spotify.com/album/7zjiEMUM4iZyJWbvCfqZQQ) | 2:18 | 2024-01-09 | 2024-01-17 |
-| [バンドマンと金髪女](https://open.spotify.com/track/6Tqgxz6OHus0qu3WTDHECv) | [Cloudy](https://open.spotify.com/artist/1ZNbVSp7OXMnTNXJ3MmGUH) | [情熱があるならば](https://open.spotify.com/album/0I7TpNjJAYh7K79NWvx1Lg) | 3:01 | 2026-05-13 |  |
+| [バンドマンと金髪女](https://open.spotify.com/track/6Tqgxz6OHus0qu3WTDHECv) | [Cloudy](https://open.spotify.com/artist/1ZNbVSp7OXMnTNXJ3MmGUH) | [情熱があるならば](https://open.spotify.com/album/0I7TpNjJAYh7K79NWvx1Lg) | 3:01 | 2026-05-13 | 2026-06-22 |
 | [バーカ!](https://open.spotify.com/track/6JFOoi6YmB31AXVvs5EVJy) | [UNFAIR RULE](https://open.spotify.com/artist/4wQwkCWhOP1FKZgE87n00W) | [たからもの](https://open.spotify.com/album/17KGnAT0A34CBTIVnXmXGT) | 1:11 | 2024-04-16 | 2024-10-16 |
 | [バースデイ](https://open.spotify.com/track/0MUuGBksODh4qIiFK9kWHG) | [RETRORIRON](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [バースデイ](https://open.spotify.com/album/6cqJocSJ2QmCWHePaVbAUy) | 5:24 | 2025-11-04 | 2026-02-12 |
 | [パウダーブルー](https://open.spotify.com/track/4gM35NyfpKsc1MG5ugvvLL) | [マチカドラマ](https://open.spotify.com/artist/4xmsg6khhaIuKyIZUw7IQy) | [パウダーブルー](https://open.spotify.com/album/1FcbW9ocDDGZKMr0Zf3Wlz) | 3:41 | 2025-04-08 | 2025-04-16 |
@@ -1635,6 +1635,7 @@
 | [死がふたりを分かつまで](https://open.spotify.com/track/2VrInjH5nNuehjX97Zq4hq) | [PK shampoo](https://open.spotify.com/artist/7aGhrSyExo2LIUZJjOkgeJ) | [死がふたりを分かつまで](https://open.spotify.com/album/2WoNMJ9rbmpGFEMYOFB272) | 3:17 | 2023-11-21 | 2023-11-29 |
 | [死ぬほどあいたいから、だからあいに行くよ](https://open.spotify.com/track/2Iz75qsbWrWMsV381lqmhy) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [more than love](https://open.spotify.com/album/3lwIqSagsvVt30wjgHJVE8) | 3:45 | 2025-06-03 | 2025-12-03 |
 | [水玉](https://open.spotify.com/track/0QozDJmi9ctfKwEVcsFCHq) | [GOODWARP](https://open.spotify.com/artist/1DS4YE9GZ1PmhkiOqZJJJ6) | [水玉](https://open.spotify.com/album/65LdZl53Fk7aXsK2RVUQiQ) | 4:30 | 2026-02-11 | 2026-02-21 |
+| [水芭蕉](https://open.spotify.com/track/0p4HiQ0q784mpW8zliKXfB) | [Bocchi](https://open.spotify.com/artist/6C9FJEK44GiyGG5ORRO0Cb) | [水芭蕉](https://open.spotify.com/album/5CPTnGhQaVEbxBRLv3w9u6) | 4:29 | 2026-06-16 |  |
 | [氷菓](https://open.spotify.com/track/5zxfF3BIZvwzxq7jtl3kDu) | [anewhite](https://open.spotify.com/artist/1t3Ztvll4l7XhrpkePZKfM) | [氷菓](https://open.spotify.com/album/4sT2HUhA1JAmkiwjDLjJ3B) | 3:48 | 2024-12-24 | 2025-01-22 |
 | [永遠のブルー](https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [永遠のブルー](https://open.spotify.com/album/467z72afv2XBxXxaXrVOfo) | 3:48 | 2023-07-27 | 2024-09-25 |
 | [決心](https://open.spotify.com/track/6DwA4Aj9Ug1J7KPDnAiv0Y) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [決心](https://open.spotify.com/album/3bfvo4XrL2fShcEbttCCWL) | 4:29 | 2023-11-02 | 2024-12-18 |

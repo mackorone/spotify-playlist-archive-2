@@ -1,6 +1,6 @@
 {
   "description": "Melodik T\u00fcrk\u00e7e \u015fark\u0131larla yaz boyu sahildesin \ud83c\udfd6\ufe0f",
-  "num_followers": 114234,
+  "num_followers": 114242,
   "original_name": "K\u0131y\u0131 Boyu",
   "owner": {
     "name": "Spotify",
@@ -635,18 +635,22 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
-        "name": "Al Senin Olsun D\u00fcnya",
-        "url": "https://open.spotify.com/album/7qfiGdZbSh9068JTlpEAkQ"
+        "name": "Yosun (Ayta\u00e7 Kart Remix)",
+        "url": "https://open.spotify.com/album/742LXpIVetALHQnkHi1G31"
       },
       "artists": [
         {
-          "name": "Buray",
-          "url": "https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd"
+          "name": "Kenan Do\u011fulu",
+          "url": "https://open.spotify.com/artist/2RQ8NtUmg5y6tfbvCwX8jI"
+        },
+        {
+          "name": "Ayta\u00e7 Kart",
+          "url": "https://open.spotify.com/artist/2xLZvc0cMLbHKWeENrDH7E"
         }
       ],
-      "duration_ms": 195805,
-      "name": "AL SEN\u0130N OLSUN D\u00dcNYA",
-      "url": "https://open.spotify.com/track/43zDWY9YsHRa1e7xSMPTfs"
+      "duration_ms": 218761,
+      "name": "Yosun - Ayta\u00e7 Kart Remix",
+      "url": "https://open.spotify.com/track/0UVorGN8jZe7RMgTq6RzXJ"
     },
     {
       "added_at": "2025-07-10 21:06:57",
@@ -671,22 +675,18 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
-        "name": "Yosun (Ayta\u00e7 Kart Remix)",
-        "url": "https://open.spotify.com/album/742LXpIVetALHQnkHi1G31"
+        "name": "Al Senin Olsun D\u00fcnya",
+        "url": "https://open.spotify.com/album/7qfiGdZbSh9068JTlpEAkQ"
       },
       "artists": [
         {
-          "name": "Kenan Do\u011fulu",
-          "url": "https://open.spotify.com/artist/2RQ8NtUmg5y6tfbvCwX8jI"
-        },
-        {
-          "name": "Ayta\u00e7 Kart",
-          "url": "https://open.spotify.com/artist/2xLZvc0cMLbHKWeENrDH7E"
+          "name": "Buray",
+          "url": "https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd"
         }
       ],
-      "duration_ms": 218761,
-      "name": "Yosun - Ayta\u00e7 Kart Remix",
-      "url": "https://open.spotify.com/track/0UVorGN8jZe7RMgTq6RzXJ"
+      "duration_ms": 195805,
+      "name": "AL SEN\u0130N OLSUN D\u00dcNYA",
+      "url": "https://open.spotify.com/track/43zDWY9YsHRa1e7xSMPTfs"
     },
     {
       "added_at": "2025-07-10 21:06:57",

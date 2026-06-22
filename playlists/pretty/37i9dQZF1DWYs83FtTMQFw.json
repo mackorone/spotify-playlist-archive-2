@@ -1,12 +1,12 @@
 {
   "description": "The hottest tracks of today ft. Don Toliver, Kehlani, Drake and more.",
-  "num_followers": 2356694,
+  "num_followers": 2356591,
   "original_name": "Hot Rhythmic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMxRN2aMmadXIwiXv157+eJKBtqW",
+  "snapshot_id": "AAAAALqzuPaLNKUtDN8d6yyjFI1u2hh8",
   "tracks": [
     {
       "added_at": "2026-06-19 04:02:15",
@@ -171,6 +171,30 @@
       "duration_ms": 184440,
       "name": "wgft (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/0WsC4ETIXyiHDMXRaPMvKe"
+    },
+    {
+      "added_at": "2026-06-21 05:51:41",
+      "album": {
+        "name": "BULLY - DELUXE",
+        "url": "https://open.spotify.com/album/3hwveWhYFxGDLy6K6xlwFh"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "I CAN\u2019T WAIT (feat. Ms. Lauryn Hill)",
+      "url": "https://open.spotify.com/track/6ImNhLq3RabOnEHfoRdvd4"
     },
     {
       "added_at": "2026-06-19 04:02:15",
@@ -1399,26 +1423,6 @@
       "duration_ms": 159272,
       "name": "Nice n' Sweet (feat. MOLIY)",
       "url": "https://open.spotify.com/track/7eilm0LI79IVtAKgqPCn28"
-    },
-    {
-      "added_at": "2026-06-19 04:02:15",
-      "album": {
-        "name": "AM I THE DRAMA?",
-        "url": "https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 177893,
-      "name": "Safe (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/5q9I5RmmrLC4U2mW2BnF3K"
     },
     {
       "added_at": "2026-06-19 04:02:15",

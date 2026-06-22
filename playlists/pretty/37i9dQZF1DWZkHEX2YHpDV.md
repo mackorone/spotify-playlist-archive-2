@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 
 > pop punk, alt, emo, post\-hardcore & more\. Cover: Tigers Jaw
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,590 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,550 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 | 60 | [Common Sense](https://open.spotify.com/track/6I9nwHabyomUdktg1UdRB6) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Common Sense](https://open.spotify.com/album/5F8QDHfvbt0AeI1CcYcim6) | 3:11 |
 | 61 | [Stuck](https://open.spotify.com/track/0pZQgBw5kzzVFmNlY1oGA2) | [Like Roses](https://open.spotify.com/artist/2LbjkSCAPUYlxcZWsNQvcI) | [Stuck](https://open.spotify.com/album/2ztpreZhc7wJd1c5MKorZv) | 3:11 |
 | 62 | [Pick Your Poison](https://open.spotify.com/track/2wJSA9ujmuRvfnBq0dlokx) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Pick Your Poison](https://open.spotify.com/album/0UUc2qq43lHwDaRIy4y4zA) | 2:39 |
-| 63 | [HEART AWAY](https://open.spotify.com/track/0gunLQiKGXjbVUTrzKllcA) | [BEAUTY SCHOOL DROPOUT](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [WHERE DID ALL THE BUTTERFLIES GO?](https://open.spotify.com/album/5QHizl5QpeIBCs5D8OD4pM) | 3:01 |
-| 64 | [maybe it's me](https://open.spotify.com/track/3IQ6lvRicxZpI3AhQaGPI5) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [analysis paralysis](https://open.spotify.com/album/2jzXbszHtup7moVaOEbjU4) | 3:38 |
+| 63 | [maybe it's me](https://open.spotify.com/track/3IQ6lvRicxZpI3AhQaGPI5) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [analysis paralysis](https://open.spotify.com/album/2jzXbszHtup7moVaOEbjU4) | 3:38 |
+| 64 | [HEART AWAY](https://open.spotify.com/track/0gunLQiKGXjbVUTrzKllcA) | [BEAUTY SCHOOL DROPOUT](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [WHERE DID ALL THE BUTTERFLIES GO?](https://open.spotify.com/album/5QHizl5QpeIBCs5D8OD4pM) | 3:01 |
 | 65 | [Goodbye, Good Riddance](https://open.spotify.com/track/1a3oI1RM3moGA6LKN4D6fo) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Goodbye, Good Riddance](https://open.spotify.com/album/7kNeCQU1M0MfMgzmMzUHSG) | 2:39 |
 | 66 | [Swing and Sway](https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Swing and Sway](https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW) | 2:58 |
 | 67 | [Oh No!](https://open.spotify.com/track/0yV2fqp1VpVsPJc54LX92R) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Oh No!](https://open.spotify.com/album/1VQTxITRTWerCVUOORuMPi) | 3:13 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 | 70 | [Where Does The Light Get In?](https://open.spotify.com/track/58eF1vpClUyeL5SfXN6N1x) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [Where Does The Light Get In?](https://open.spotify.com/album/5iN0xqyvImRpLehFSWZhbx) | 3:08 |
 | 71 | [Pity Party](https://open.spotify.com/track/0Latl06o13TA9mQV7SBUpx) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Dark Magic](https://open.spotify.com/album/4febs9NRsULttX3cSN4Oev) | 2:24 |
 | 72 | [Through The Landslide](https://open.spotify.com/track/0DxV45nzqlQZjMzbHGdz1Q) | [Grayscale](https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0) | [The Hart](https://open.spotify.com/album/1Z6lchat5qLy21WkX31mr4) | 3:40 |
-| 73 | [Watch The Fire](https://open.spotify.com/track/2DpaLvk9AOPSSQhlcepetR) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY), [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [Watch The Fire](https://open.spotify.com/album/4q4Gjl6X9nM4VsxiDK0aOJ) | 3:28 |
-| 74 | [Crashing Out](https://open.spotify.com/track/3FYnfTHQybL7NDMNM1A02N) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Crashing Out](https://open.spotify.com/album/6udajFqjOweuBuWeRkfpQA) | 3:35 |
+| 73 | [Crashing Out](https://open.spotify.com/track/3FYnfTHQybL7NDMNM1A02N) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Crashing Out](https://open.spotify.com/album/6udajFqjOweuBuWeRkfpQA) | 3:35 |
+| 74 | [Watch The Fire](https://open.spotify.com/track/2DpaLvk9AOPSSQhlcepetR) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY), [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [Watch The Fire](https://open.spotify.com/album/4q4Gjl6X9nM4VsxiDK0aOJ) | 3:28 |
 | 75 | [THE OUTSIDE \- OUTSIDERS VERSION](https://open.spotify.com/track/4iGlMhSSuRHUlNAknDjvT8) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI), [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F), [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w), [The Ready Set](https://open.spotify.com/artist/2eRJjYEaWyGZbOBGYFLBoC) | [THE OUTSIDE \(OUTSIDERS VERSION\)](https://open.spotify.com/album/14kvTa7vi9xBLZqg6lc1Km) | 4:04 |
 | 76 | [WHAT THE HELL](https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [WHAT THE HELL](https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ) | 2:52 |
 | 77 | [High Stakes](https://open.spotify.com/track/2J2iIecwVAjZPzlJubdAgD) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp), [Matty Mullins](https://open.spotify.com/artist/2X6VbP5vxuup0exzZ8vhot) | [High Stakes](https://open.spotify.com/album/4TUmco5xx8GSJ0Rwm39oQ2) | 3:25 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 | 94 | [Forget](https://open.spotify.com/track/2BI2OuANKzF2YhheQSwO57) | [Sorry My Love](https://open.spotify.com/artist/59eMWEcg6fxHRhWb5rJbtM), [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Albert Hype](https://open.spotify.com/artist/1E7XNYAEwSLSAiLDYRMs1G) | [Forget](https://open.spotify.com/album/2Orndc0Xnp9yWgVhRdCQ7o) | 2:33 |
 | 95 | [Lay Down and Die](https://open.spotify.com/track/6SB6jP1Ua8LG3RrGW3NsZg) | [Heart Attack Man](https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN) | [Joyride The Pale Horse](https://open.spotify.com/album/2fnVa51C8t5osOJXc9DkWT) | 2:35 |
 | 96 | [Fragile](https://open.spotify.com/track/5CScrQFOzzcBDC9TZtFdqw) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [Fragile](https://open.spotify.com/album/6cYU1n2LShBOR22pfxDqbF) | 3:21 |
-| 97 | [Something About You](https://open.spotify.com/track/352rVkzjhMmzhivUPghajg) | [Brooklane](https://open.spotify.com/artist/6aN4FC9kUb3tG4sFgIR6pW) | [Something About You](https://open.spotify.com/album/60IGbp8jEh7hiknYc9cCdu) | 2:37 |
-| 98 | [PIN\-EYE](https://open.spotify.com/track/1E3GhjaQttI7MXMT9oSgZU) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [PIN\-EYE](https://open.spotify.com/album/0L83uKz3F4cZO6D8Y85qzp) | 4:32 |
+| 97 | [PIN\-EYE](https://open.spotify.com/track/1E3GhjaQttI7MXMT9oSgZU) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [PIN\-EYE](https://open.spotify.com/album/0L83uKz3F4cZO6D8Y85qzp) | 4:32 |
+| 98 | [Something About You](https://open.spotify.com/track/352rVkzjhMmzhivUPghajg) | [Brooklane](https://open.spotify.com/artist/6aN4FC9kUb3tG4sFgIR6pW) | [Something About You](https://open.spotify.com/album/60IGbp8jEh7hiknYc9cCdu) | 2:37 |
 | 99 | [Don't Let Me Get Too Low](https://open.spotify.com/track/2HazFhqPwSFVyLL1piMoCh) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Don't Let Me Get Too Low](https://open.spotify.com/album/2JT0MoB5ESOA30VZwlq4af) | 2:38 |
-| 100 | [Goodbye For Now \(feat\. Julien Baker\)](https://open.spotify.com/track/0lPwT1JHuNFeXtIV6i6Eg2) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Spiral In A Straight Line](https://open.spotify.com/album/0P5CZ4l155R1udzsELjXSC) | 4:20 |
+| 100 | [nosebleeds](https://open.spotify.com/track/0SMRtXWXIn7Xxr2FyNpyOt) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [i’m still breathing](https://open.spotify.com/album/2AyoTkItCVeDOWklLgo2KI) | 3:02 |
 
 Snapshot ID: `AAAAANFXyK0dsMxJchalo7GdYGuAUbvA`

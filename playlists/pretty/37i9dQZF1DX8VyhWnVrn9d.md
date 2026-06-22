@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VyhWnVrn9d.md) - [plain]
 
 > Bailando de caballito, aunque se enoje tu mamá\. Mi Banda El Mexicano en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,782 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,869 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,17 +59,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VyhWnVrn9d.md) - [plain]
 | 49 | [Muévelo](https://open.spotify.com/track/3N4fXn95JzMo9slLuZWArp) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/216Vvwkcgb3OR27a8Gwt7Q) | 3:14 |
 | 50 | [El Pato Asado](https://open.spotify.com/track/2TlEfB9ObkiXWLxwUIybnk) | [Ranchero Band](https://open.spotify.com/artist/0nh7sK3bFl3BCQaMUtMxPf) | [15 Éxitos Bailables](https://open.spotify.com/album/4yyuk7qOw5M1GzNYCeyjgn) | 2:43 |
 | 51 | [Billy No Seas Un Heroe](https://open.spotify.com/track/3XbdxBxtQKQl5oxaLYeCFu) | [Jalisco Band](https://open.spotify.com/artist/4CFd2ttswJMIvHHbolxz95) | [Te Quiero Tanto](https://open.spotify.com/album/0LBqxI0ttaUxPhTXMm0s8I) | 2:59 |
-| 52 | [Ramito De Violetas](https://open.spotify.com/track/5SiAusJizzxkKXy0oowWyK) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Grupo El Mexicano](https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8) | 3:32 |
+| 52 | [Mambo Lupita](https://open.spotify.com/track/2bPotQOSSXnitoVeZbtJDT) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [A Bailar De Caballito](https://open.spotify.com/album/2rXbAorimO8C06RkqS2oq5) | 3:35 |
 | 53 | [Luna Llena](https://open.spotify.com/track/3fcZhUdSkz9VNRVx7Hu69v) | [Banda M\-1](https://open.spotify.com/artist/6OpYbyvig6UrpACbDGSfsT) | [Exitos De Banda M\-1](https://open.spotify.com/album/57Zhx2ZJv8easioH23qnAZ) | 2:18 |
 | 54 | [Provócame](https://open.spotify.com/track/6NoG8gvg44g2IWaWt3bBfE) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/2hKjSZ3fbwKYWpYr5xTuTN) | 3:00 |
 | 55 | [Candela Verde](https://open.spotify.com/track/2NY8sX1X96OPi9GsPYLwVM) | [Ranchero Band](https://open.spotify.com/artist/0nh7sK3bFl3BCQaMUtMxPf) | [Candela Verde](https://open.spotify.com/album/4oYf20uOoFZaOB2PDIkspm) | 2:51 |
 | 56 | [Bailando Banda](https://open.spotify.com/track/4rC2F1njSIhM62oTmt3hFk) | [Jalisco Band](https://open.spotify.com/artist/4CFd2ttswJMIvHHbolxz95) | [Te Quiero Tanto](https://open.spotify.com/album/0LBqxI0ttaUxPhTXMm0s8I) | 2:22 |
-| 57 | [La Bota](https://open.spotify.com/track/3kUmCQhA8aFuKPYcZYNJ0X) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Grupo El Mexicano](https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8) | 3:28 |
+| 57 | [Ramito De Violetas](https://open.spotify.com/track/5SiAusJizzxkKXy0oowWyK) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Grupo El Mexicano](https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8) | 3:32 |
 | 58 | [Que Bonita Te Vez](https://open.spotify.com/track/0WPcxm4Q68rjTnljKv7tzh) | [Banda M\-1](https://open.spotify.com/artist/6OpYbyvig6UrpACbDGSfsT) | [Exitos De Banda M\-1](https://open.spotify.com/album/57Zhx2ZJv8easioH23qnAZ) | 3:30 |
 | 59 | [La Negra Colora](https://open.spotify.com/track/56NnF59xCRGPyP0qfDil0w) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/6srLGUbrQEhxKm4CCTdT8Y) | 2:39 |
 | 60 | [Yo Quiero Quebrarte](https://open.spotify.com/track/1A6ASsT0qx2wUXlTUolCCj) | [Felinos](https://open.spotify.com/artist/0QE0OwxiJZ9i51N8zIS1Yy) | [Soy El Aventurero](https://open.spotify.com/album/1W4lISoA5eOMebOW7hfq03) | 3:06 |
 | 61 | [El Caracol](https://open.spotify.com/track/3e0UGZKNCocEJv7feS8d93) | [Vaquero's Musical](https://open.spotify.com/artist/0OOdJ5wjxXrPKGtLhxRVa1) | [Los Mejor De Vaquero's Musical](https://open.spotify.com/album/6qNFfXga8mDY359akhMKjx) | 2:43 |
-| 62 | [Mambo Lupita](https://open.spotify.com/track/2bPotQOSSXnitoVeZbtJDT) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [A Bailar De Caballito](https://open.spotify.com/album/2rXbAorimO8C06RkqS2oq5) | 3:35 |
+| 62 | [La Bota](https://open.spotify.com/track/3kUmCQhA8aFuKPYcZYNJ0X) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Grupo El Mexicano](https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8) | 3:28 |
 | 63 | [Oye Como Va](https://open.spotify.com/track/5dbZ0arhOVDAELk6pDBucF) | [Banda M\-1](https://open.spotify.com/artist/6OpYbyvig6UrpACbDGSfsT) | [Exitos De Banda M\-1](https://open.spotify.com/album/57Zhx2ZJv8easioH23qnAZ) | 2:35 |
 | 64 | [Anda Borracho El Buey](https://open.spotify.com/track/4qoKGWLcsYKkCDJnWxMJUG) | [Banda Guadalajara Express](https://open.spotify.com/artist/3OVWawJdrDHvvuFuOfwOcN) | [California Adios](https://open.spotify.com/album/4I2zlM5v9g50h1POVFD9Mp) | 2:45 |
 | 65 | [Eva María](https://open.spotify.com/track/0AhvaPKACJhgkir9aUfE2S) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella De Los Bailes](https://open.spotify.com/album/0KtFZRY2V1N4slEqBws2iH) | 2:47 |

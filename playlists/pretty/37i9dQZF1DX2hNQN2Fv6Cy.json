@@ -1,6 +1,6 @@
 {
   "description": "90's & 00's party jams with Aaliyah, Justin Timberlake, Destiny's Child and Usher.",
-  "num_followers": 288294,
+  "num_followers": 288587,
   "original_name": "R&B Classics Party",
   "owner": {
     "name": "Spotify",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw"
-      },
-      "artists": [
-        {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
-        }
-      ],
-      "duration_ms": 281906,
-      "name": "Who's That Girl?",
-      "url": "https://open.spotify.com/track/3uVE5vLKkigiWBOQEgmdDk"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "Jagged Little Thrill",
         "url": "https://open.spotify.com/album/2LFRjzwf61Y7CIl54Kiq8j"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 232573,
       "name": "Where the Party At (feat. Nelly)",
       "url": "https://open.spotify.com/track/5mNV8Mz59bzyuQ53gTw0c0"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
+        }
+      ],
+      "duration_ms": 281906,
+      "name": "Who's That Girl?",
+      "url": "https://open.spotify.com/track/3uVE5vLKkigiWBOQEgmdDk"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -1439,26 +1439,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Fantasy EP",
-        "url": "https://open.spotify.com/album/4aK77BPpiigFVQaLqs7AI4"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        },
-        {
-          "name": "Ol' Dirty Bastard",
-          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
-        }
-      ],
-      "duration_ms": 291355,
-      "name": "Fantasy (feat. O.D.B.) - Bad Boy Fantasy",
-      "url": "https://open.spotify.com/track/2AlO5CLisJAA9X5JybMtuz"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "This Is Me...Then",
         "url": "https://open.spotify.com/album/2NG4OLyeNMwcLqirwwwvs2"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 187840,
       "name": "Jenny from the Block (feat. Jadakiss & Styles P.) - Track Masters Remix",
       "url": "https://open.spotify.com/track/4ZOyH6KjomjlqCz3oFqglr"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "Fantasy EP",
+        "url": "https://open.spotify.com/album/4aK77BPpiigFVQaLqs7AI4"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Ol' Dirty Bastard",
+          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
+        }
+      ],
+      "duration_ms": 291355,
+      "name": "Fantasy (feat. O.D.B.) - Bad Boy Fantasy",
+      "url": "https://open.spotify.com/track/2AlO5CLisJAA9X5JybMtuz"
     },
     {
       "added_at": "2024-07-15 07:37:26",

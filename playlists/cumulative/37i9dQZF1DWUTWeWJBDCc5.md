@@ -4,7 +4,7 @@
 
 > 스포티파이 코리아 뮤직 에디터가 선정한 노래를 만나보세요\. \(Cover: Gracie Abrams\)
 
-223 songs - 12 hr 11 min
+227 songs - 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 | 2026-06-03 |  |
 | [Hated, Loved, and Bloomed](https://open.spotify.com/track/77fszLbS3f8XglVxoA0Ycv) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Hated, Loved, and Bloomed](https://open.spotify.com/album/1giktQpkvsU8YQ7toTGVw0) | 4:10 | 2025-12-04 | 2026-02-05 |
 | [HEARTLESS DARLIN' !](https://open.spotify.com/track/1ZBt9NGhY81MeymOub5Y3A) | [Chrissi](https://open.spotify.com/artist/6dKtberVRbUX3Azn8gt2mt) | [HEARTLESS DARLIN' !](https://open.spotify.com/album/1GqrJXcxdKSSZ7GcJkLhmr) | 2:53 | 2026-04-29 | 2026-06-13 |
+| [Heaven Can Wait](https://open.spotify.com/track/7zOyWqFGjoSjswmWWDukhA) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Heaven Can Wait](https://open.spotify.com/album/1A4EiE5aWH0s25aIAMNOzD) | 3:28 | 2026-06-21 |  |
 | [Hit the Wall](https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Hit the Wall](https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ) | 3:14 | 2026-06-15 |  |
 | [Hold onto My Back](https://open.spotify.com/track/0s5xyZNa3emVvY4AqiISQX) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [TR.EE](https://open.spotify.com/album/2yrZF5spBs5ltr8LIe2nJA) | 3:06 | 2026-06-12 |  |
 | [Home](https://open.spotify.com/track/73ZXHRLk5zJEjyStIOex2F) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [Home](https://open.spotify.com/album/2h3Si1lhGsmDycd5uLRtpO) | 3:55 | 2026-04-29 | 2026-06-13 |
@@ -159,12 +160,14 @@
 | [Never Let Go](https://open.spotify.com/track/37xebnhvUyM8VyyDDeo65d) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [SHOT CALLERS](https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR) | 3:13 | 2026-02-04 | 2026-03-04 |
 | [Nightingale Lane.](https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Nightingale Lane.](https://open.spotify.com/album/22FLublraJkicHyrK2egu0) | 5:02 | 2026-03-03 | 2026-04-30 |
 | [No Break \(Feat\. Dynamicduo\)](https://open.spotify.com/track/7ptvAVljlaWLh8jzF4fzjd) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [wonderego](https://open.spotify.com/album/7ikvq6MB2VhB2IPCDO6RnP) | 3:16 | 2026-02-04 | 2026-03-04 |
+| [No Sugar in My Coffee](https://open.spotify.com/track/0Pcn8SADEAK4jqKI1L3pBc) | [Gemini](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Knight](https://open.spotify.com/album/3SrZkhjYp6FC0nGcLTYX24) | 3:11 | 2026-06-21 |  |
 | [NO TRESPASSING](https://open.spotify.com/track/7eEnuNVAHQXEwg18zZnmdL) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 3:15 | 2026-02-04 | 2026-03-04 |
 | [No Words Can Say](https://open.spotify.com/track/1xkhh2mQI71CJJUrIbyKwk) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [No Words Can Say](https://open.spotify.com/album/2d96sKtYbxVpOQVFetsaOr) | 3:56 | 2025-12-04 | 2026-02-05 |
 | [Nobody, Nothing](https://open.spotify.com/track/3VXLttDEWuRreWKAl7RLby) | [sujin](https://open.spotify.com/artist/5hJojEklINU8GU3f3x1Icz) | [Nobody, Nothing](https://open.spotify.com/album/68apZtZZ14EdFF9rv3WFtR) | 3:57 | 2026-03-03 | 2026-04-30 |
 | [Not to fade](https://open.spotify.com/track/6mTTquypTU75v59JzzLF7N) | [CHOSNG](https://open.spotify.com/artist/21Ohc3UObsDhgnvfonXb6W) | [A Place of Use](https://open.spotify.com/album/22c6Z507yCVXzH44KRva3E) | 4:14 | 2026-02-04 | 2026-03-04 |
 | [On such a wonderful night](https://open.spotify.com/track/2nnIHyTZOnFvkYeKeebFvu) | [Cha ga eul](https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi) | [On such a wonderful night](https://open.spotify.com/album/4f2toQm38HkmoRDWKCM1s7) | 3:33 | 2026-04-29 | 2026-06-13 |
 | [ONE MORE TIME](https://open.spotify.com/track/7FyKqLLICVzwBiAUtbVYUW) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [ONE MORE TIME](https://open.spotify.com/album/5VxaQoQltZT93oaGc72Csy) | 3:15 | 2025-12-04 | 2026-02-05 |
+| [Overdrive](https://open.spotify.com/track/1HFcJsOxF3VEUmYM8PpjlQ) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Ⅱ \- The 2nd Mini Album](https://open.spotify.com/album/5r3alQ2vYnM5eFJnlNkaaU) | 3:14 | 2026-06-21 |  |
 | [Overthink](https://open.spotify.com/track/1FdWqT7Lq7txqwdprHiGYU) | [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [Chicken Soup For One](https://open.spotify.com/album/6fq4UtiHc2Thbq69jUyUQj) | 3:26 | 2026-02-04 | 2026-03-04 |
 | [Playlist \(feat\. Oh Yun\)](https://open.spotify.com/track/7f6L7Fzc6s0lhS7To2mTPy) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Oh Yun](https://open.spotify.com/artist/4CDLDdcillEXvJlBvQkfv3) | [Playlist](https://open.spotify.com/album/1E1niRqU1lkdDgwr2xl51E) | 2:17 | 2026-04-29 | 2026-05-06 |
 | [Pookie](https://open.spotify.com/track/6vw9OTw8rBhatDSdlxVIuF) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Day & Night](https://open.spotify.com/album/087SnCtQCK0szSftQ2KYTF) | 2:32 | 2025-12-04 | 2026-02-05 |
@@ -195,6 +198,7 @@
 | [Still Here](https://open.spotify.com/track/2el8yRLvLFS5sxdcqjhDLS) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [EXchange4, Pt\. 6 \(Original Soundtrack\)](https://open.spotify.com/album/6DnjKL09yARkT22fUCULgQ) | 3:32 | 2025-12-04 | 2026-02-05 |
 | [Stranger to love](https://open.spotify.com/track/2fTwwi7auLy8zP38eOhvGy) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Time Flies](https://open.spotify.com/album/1oyZdZsqs3ag7LriorKTVq) | 2:32 | 2026-02-04 | 2026-03-04 |
 | [Stuck In Your Head](https://open.spotify.com/track/1VLivvmEDvq5MpltFTs9Dp) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/3BSpzEq1p4bSWdvrEKtOcF) | 2:47 | 2026-03-03 | 2026-04-30 |
+| [stupid song](https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 3:29 | 2026-06-21 |  |
 | [Sugar](https://open.spotify.com/track/3B0PFLEa5sAcv1eX6g1IFE) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [loop vol\. 1 \- Sugar](https://open.spotify.com/album/4MDyxmsFEznFjPrxOaqC1i) | 3:49 | 2026-02-04 | 2026-03-04 |
 | [Summer Was You](https://open.spotify.com/track/7fiSE0NQwgJPj5QHhln8L1) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEY 4th Mini Album \[Lovestruck\]](https://open.spotify.com/album/21oMWx3BnmfTOy2zqzxJwt) | 3:12 | 2025-12-04 | 2026-02-05 |
 | [Take Me to Nirvana \(feat\. Vinida Weng\)](https://open.spotify.com/track/7d2WBtRFNknx11P6MwLomO) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Vinida Weng](https://open.spotify.com/artist/6oYvpkS6pM9ts4nbXRaINg) | [7TH YEAR: A Moment of Stillness in the Thorns](https://open.spotify.com/album/55LBvRI4i4FUUf5dYKVMHk) | 2:31 | 2026-04-14 | 2026-04-30 |
@@ -217,7 +221,7 @@
 | [Wassup](https://open.spotify.com/track/3dCdcURa0Kk5UWXRY00HQy) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [GREENGREEN](https://open.spotify.com/album/2zEdi42kfgLEySoikGJMFT) | 3:04 | 2026-05-07 |  |
 | [Wavin' Flag](https://open.spotify.com/track/0zREtnLmVnt8KUJZZbSdla) | [K'NAAN](https://open.spotify.com/artist/7pGyQZx9thVa8GxMBeXscB) | [Troubadour](https://open.spotify.com/album/4KJCTmDLyr3AYJAN8dBaKo) | 3:40 | 2026-06-03 |  |
 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 | 2026-02-04 | 2026-03-04 |
-| [WHERE YOU AT?](https://open.spotify.com/track/08djt7JVDPyJGvnDAvBskP) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [2:LOVE](https://open.spotify.com/album/1kslbMVRXKMwhPlyVI4MWg) | 3:01 | 2026-06-19 |  |
+| [WHERE YOU AT?](https://open.spotify.com/track/08djt7JVDPyJGvnDAvBskP) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [2:LOVE](https://open.spotify.com/album/1kslbMVRXKMwhPlyVI4MWg) | 3:01 | 2026-06-19 | 2026-06-22 |
 | [Where's My Phone?](https://open.spotify.com/track/4BUDJShvKNRbrgylxri5tI) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Where's My Phone?](https://open.spotify.com/album/1oLPKLJMffq7fO3XapLx4G) | 3:09 | 2026-03-03 | 2026-04-30 |
 | [White Wine](https://open.spotify.com/track/3BLYZgZYuOr7PZeINUJeGV) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [White Wine](https://open.spotify.com/album/6QIibBgbq1n9XZ17IwWRn5) | 3:00 | 2025-12-04 | 2026-02-05 |
 | [Who Knows](https://open.spotify.com/track/6DH13QYXK7lKkYHSU88N48) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql) | 3:46 | 2026-02-04 | 2026-03-04 |

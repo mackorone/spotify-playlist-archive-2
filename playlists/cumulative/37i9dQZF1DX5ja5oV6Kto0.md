@@ -4,7 +4,7 @@
 
 > The new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Sarah Phenom, Maleigh Zan, Brazy
 
-1,109 songs - 2 day 5 hr 28 min
+1,110 songs - 2 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Confam](https://open.spotify.com/track/5DBDVCBlR9o20XdEj6RBv7) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw) | [Confam](https://open.spotify.com/album/6FKLdfkio3SWvlydR8ohRO) | 3:05 | 2022-08-05 | 2022-09-10 |
 | [Confess](https://open.spotify.com/track/0YYvexuLnGWjD8iUwirzoW) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Confess](https://open.spotify.com/album/55zccrU90VUl932ZTq1O9e) | 2:40 | 2022-11-18 | 2023-09-22 |
 | [Confess](https://open.spotify.com/track/39SPbq7NgY7ZzKQUf1G0sr) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [MASTA](https://open.spotify.com/album/2iP4ZuUASwpZUVW0IMYIIw) | 2:40 | 2023-11-17 | 2024-06-21 |
+| [Consistency](https://open.spotify.com/track/1Dhy1cYiYuKvgLsOgq2zME) | [cosamote](https://open.spotify.com/artist/2j7j3bmaV4Ej8b9Cy0FtMY), [Caleb Clay](https://open.spotify.com/artist/7nYMySRZoIDziBAJ6KZ3Bl), [Jamz FR](https://open.spotify.com/artist/0ogU1vFCg3izozUsK7ij5q) | [Files '26](https://open.spotify.com/album/209d4zV2zFXAL4206la0VR) | 1:56 | 2026-06-19 |  |
 | [Cool My Stress](https://open.spotify.com/track/5MPzN1YqTKg0qt8McQPgR1) | [Gravity Music](https://open.spotify.com/artist/6W1cBFeam23G6KaL5HV01d), [4larin4larin](https://open.spotify.com/artist/3VNFI74TYLjSLs9eXUdntE), [Bizzonthetrack](https://open.spotify.com/artist/7mwUCvs44HG9Bh9yW3NUiG) | [Cool My Stress](https://open.spotify.com/album/74DYMhCJ8I9RrpHdfv3CdA) | 2:39 | 2023-02-09 | 2023-02-17 |
 | [Cool Out Son](https://open.spotify.com/track/36uCxILh6zUAiZBhUqvzJH) | [Junior Murvin](https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34) | [Step Forward Youth](https://open.spotify.com/album/2YTiIj13UG1pJGQghKK49E) | 3:19 | 2024-03-21 | 2024-03-25 |
 | [cool story bro](https://open.spotify.com/track/1XHIgeC77r5GP4d1wWPMoV) | [ytboutthataction](https://open.spotify.com/artist/2zVBOF2YSXQVUq2nAaNGYX) | [love & vex](https://open.spotify.com/album/7dHr8mhII6OrlzybYFhTg5) | 2:03 | 2023-05-11 | 2023-06-17 |
@@ -863,7 +864,7 @@
 | [Seek & Find \(feat\. Azanti\)](https://open.spotify.com/track/77jghFtCt5TBqaK7gutlrf) | [SuperSmashBroz](https://open.spotify.com/artist/4o05vkR7aQMnPRbAqVk13x), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [Seek & Find \(feat\. Azanti\)](https://open.spotify.com/album/6ZIig4udjxAl6Zs27aHtpg) | 3:36 | 2023-06-30 | 2023-10-27 |
 | [Selense](https://open.spotify.com/track/7k5p0y3ujvszuxWoeJJpxO) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Selense](https://open.spotify.com/album/6qqM3masriqBhSobcZVmAt) | 3:57 | 2021-07-09 | 2022-03-12 |
 | [Selfish](https://open.spotify.com/track/47c3T4umi0phpbU6lrR9iY) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Selfish](https://open.spotify.com/album/0NB2SFsGwFANKEOjGt56tc) | 2:42 | 2024-11-08 | 2025-08-27 |
-| [september rush](https://open.spotify.com/track/0aSkyAsDk2e2RG1R62kTjp) | [Baves O](https://open.spotify.com/artist/42tS8RFwfqTZFuyW0FrPIs), [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX) | [september rush](https://open.spotify.com/album/7gdMifqpW7gUeSePcGlDWA) | 2:17 | 2026-02-27 |  |
+| [september rush](https://open.spotify.com/track/0aSkyAsDk2e2RG1R62kTjp) | [Baves O](https://open.spotify.com/artist/42tS8RFwfqTZFuyW0FrPIs), [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX) | [september rush](https://open.spotify.com/album/7gdMifqpW7gUeSePcGlDWA) | 2:17 | 2026-02-27 | 2026-06-22 |
 | [Serenade](https://open.spotify.com/track/0Hv7LgRPIYEJMpjQkGIWTi) | [Begho](https://open.spotify.com/artist/3TTy6LYKVib6oOmyEq0QZb), [Loti](https://open.spotify.com/artist/68vnTeEFYHwyYIviDda37B) | [Serenade](https://open.spotify.com/album/7AsdQ9pfh57nuYV6vZedF9) | 2:23 | 2021-07-02 | 2022-01-28 |
 | [Serial Kisser](https://open.spotify.com/track/6xpOCLTrc9IEuwPuFuGO6F) | [Rukmani](https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [HIH & Serial Kisser](https://open.spotify.com/album/2L8m2nH21rqTK30vMUyGfA) | 3:01 | 2026-05-25 |  |
 | [Serpent](https://open.spotify.com/track/75sj0jvAGespYP7lcm4iQR) | [Ayüü](https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7) | [Toxic Sweet](https://open.spotify.com/album/6XZEdNXjaagyQVpbi5aioZ) | 1:42 | 2022-09-29 | 2023-01-07 |

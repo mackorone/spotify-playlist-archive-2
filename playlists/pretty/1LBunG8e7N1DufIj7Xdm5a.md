@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,530 songs - 10 day 2 hr 18 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,532 songs - 10 day 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4538,5 +4538,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4528 | [The Space Between](https://open.spotify.com/track/3BqObTaNraOvwEDI3tiGTv) | [Shade Over Winter](https://open.spotify.com/artist/6bUMhQG3m1Bm4CAsuMTzK0) | [The Space Between](https://open.spotify.com/album/3bffllwnQPxbRHOx0OmeN0) | 3:26 |
 | 4529 | [Tu Hai Toh](https://open.spotify.com/track/3BjYRmww0BVPv28wfGkWJv) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Tu Hai Toh](https://open.spotify.com/album/1c0jWhoRT6biZMrqxUYx4g) | 4:11 |
 | 4530 | [Reasons To Stay](https://open.spotify.com/track/6GO9asq0BdWB3EMWZibLMc) | [Get Through](https://open.spotify.com/artist/5gF3q9VRL3x0zOyba99xIT) | [Reasons To Stay](https://open.spotify.com/album/1fgrJdJdPJhaz0KCN5PkVW) | 4:29 |
+| 4531 | [Gigantes Caerán](https://open.spotify.com/track/1WOiMDM8mM1kOUte8Z4MYy) | [Pulso Divino](https://open.spotify.com/artist/2XK1i9oymQY7yT0CsaVALI) | [Tu Palabra](https://open.spotify.com/album/404H6EidSC1PmqDFfgr8Q8) | 3:07 |
+| 4532 | [Into The Thunder](https://open.spotify.com/track/2AMRFkNYxJ1sqwwrV83d8Z) | [Evil Creek](https://open.spotify.com/artist/2I4085hTPFNAyGRFvgo1LM) | [Into The Thunder](https://open.spotify.com/album/7oVoODSFUyTmO1AfkP5kdG) | 2:47 |
 
-Snapshot ID: `AAAI6z9p+0wncitgVz8a2M1WmMP38z1+`
+Snapshot ID: `AAAI7dZOe5i2lwog6AyuMiVlO75rRdVF`

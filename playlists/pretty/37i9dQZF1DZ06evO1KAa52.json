@@ -1,12 +1,12 @@
 {
   "description": "This is Justin Timberlake. The essential tracks, all in one playlist.",
-  "num_followers": 669201,
+  "num_followers": 669218,
   "original_name": "This Is Justin Timberlake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAAAki9qflAf6MY1aapPYhcj8",
+  "snapshot_id": "ajXYAAAAAADACp5CVctXhYvq4sYZ4x63",
   "tracks": [
     {
       "added_at": null,
@@ -543,34 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TROLLS Band Together (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5izS9lEKFma3NVRl6uBbTs"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        },
-        {
-          "name": "Eric Andre",
-          "url": "https://open.spotify.com/artist/65b4bZsoMS43PhlilVEzke"
-        },
-        {
-          "name": "Daveed Diggs",
-          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
-        },
-        {
-          "name": "Anna Kendrick",
-          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
-        }
-      ],
-      "duration_ms": 81666,
-      "name": "BroZone's Back",
-      "url": "https://open.spotify.com/track/02xkg0KUfiytfbnwAevy1p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TROLLS (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
       },
@@ -591,6 +563,46 @@
       "duration_ms": 235000,
       "name": "September - from DreamWorks Animation's \"TROLLS\"",
       "url": "https://open.spotify.com/track/1QvPIlDwzql2ub5MCyYa78"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TROLLS Band Together (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5izS9lEKFma3NVRl6uBbTs"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Eric Andre",
+          "url": "https://open.spotify.com/artist/65b4bZsoMS43PhlilVEzke"
+        },
+        {
+          "name": "Daveed Diggs",
+          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
+        },
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        },
+        {
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 116293,
+      "name": "Better Place (Family Harmony)",
+      "url": "https://open.spotify.com/track/7ELtAKka2YiZRclp70wZ6F"
     },
     {
       "added_at": null,
@@ -643,6 +655,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "F\u00f3rmula, Vol. 3",
+        "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 234664,
+      "name": "Sin Fin",
+      "url": "https://open.spotify.com/track/4BBTalxG6c1Aoai1x1EA5g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TROLLS Band Together (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5izS9lEKFma3NVRl6uBbTs"
       },
@@ -660,45 +692,37 @@
           "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
         },
         {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        },
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        },
-        {
           "name": "Anna Kendrick",
           "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
         }
       ],
-      "duration_ms": 116293,
-      "name": "Better Place (Family Harmony)",
-      "url": "https://open.spotify.com/track/7ELtAKka2YiZRclp70wZ6F"
+      "duration_ms": 81666,
+      "name": "BroZone's Back",
+      "url": "https://open.spotify.com/track/02xkg0KUfiytfbnwAevy1p"
     },
     {
       "added_at": null,
       "album": {
-        "name": "F\u00f3rmula, Vol. 3",
-        "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
+        "name": "TROLLS (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
       },
       "artists": [
         {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        },
-        {
           "name": "Justin Timberlake",
           "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        },
+        {
+          "name": "Ron Funches",
+          "url": "https://open.spotify.com/artist/5auLWD3XT6p3im19G2cLhP"
         }
       ],
-      "duration_ms": 234664,
-      "name": "Sin Fin",
-      "url": "https://open.spotify.com/track/4BBTalxG6c1Aoai1x1EA5g"
+      "duration_ms": 178360,
+      "name": "Hair Up",
+      "url": "https://open.spotify.com/track/2986J0T5CGwJGY3aqgANtE"
     },
     {
       "added_at": null,
@@ -727,26 +751,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "TROLLS (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
+        "name": "Shock Value",
+        "url": "https://open.spotify.com/album/4BxB8U8QgpR4UCvJ0moj8Z"
       },
       "artists": [
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        },
         {
           "name": "Justin Timberlake",
           "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         },
         {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-        },
-        {
-          "name": "Ron Funches",
-          "url": "https://open.spotify.com/artist/5auLWD3XT6p3im19G2cLhP"
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
         }
       ],
-      "duration_ms": 178360,
-      "name": "Hair Up",
-      "url": "https://open.spotify.com/track/2986J0T5CGwJGY3aqgANtE"
+      "duration_ms": 212013,
+      "name": "Give It To Me",
+      "url": "https://open.spotify.com/track/5nXCPrnVY5MGaCIjOw6IrA"
     },
     {
       "added_at": null,
@@ -783,30 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shock Value",
-        "url": "https://open.spotify.com/album/4BxB8U8QgpR4UCvJ0moj8Z"
-      },
-      "artists": [
-        {
-          "name": "Timbaland",
-          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
-        },
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        },
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        }
-      ],
-      "duration_ms": 212013,
-      "name": "Give It To Me",
-      "url": "https://open.spotify.com/track/5nXCPrnVY5MGaCIjOw6IrA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FutureSex/LoveSounds",
         "url": "https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3"
       },
@@ -839,6 +839,34 @@
       "duration_ms": 169506,
       "name": "Motherlover",
       "url": "https://open.spotify.com/track/2zpQ30BpR6teeCeivQoo5p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shock Value",
+        "url": "https://open.spotify.com/album/0V7TZQmJBgI81M9Z7GWxCI"
+      },
+      "artists": [
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "duration_ms": 244293,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/4ymByZAPRqTlyJASAoJ921"
     },
     {
       "added_at": null,
@@ -883,34 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shock Value",
-        "url": "https://open.spotify.com/album/0V7TZQmJBgI81M9Z7GWxCI"
-      },
-      "artists": [
-        {
-          "name": "Timbaland",
-          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
-        },
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        },
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        },
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        }
-      ],
-      "duration_ms": 244293,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/4ymByZAPRqTlyJASAoJ921"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FutureSex/LoveSounds",
         "url": "https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3"
       },
@@ -951,6 +951,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "ICU (with Justin Timberlake) [Remix]",
+        "url": "https://open.spotify.com/album/2WknTzc9xga0IgeYMY3pZ7"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 218566,
+      "name": "ICU (with Justin Timberlake) - Remix",
+      "url": "https://open.spotify.com/track/1xs5R1koW93bXtXD2s59nR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TROLLS Band Together (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5izS9lEKFma3NVRl6uBbTs"
       },
@@ -983,26 +1003,6 @@
       "duration_ms": 219133,
       "name": "It Takes Two",
       "url": "https://open.spotify.com/track/72o9sWkvAIJAtOs1WoVhNN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ICU (with Justin Timberlake) [Remix]",
-        "url": "https://open.spotify.com/album/2WknTzc9xga0IgeYMY3pZ7"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        },
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 218566,
-      "name": "ICU (with Justin Timberlake) - Remix",
-      "url": "https://open.spotify.com/track/1xs5R1koW93bXtXD2s59nR"
     },
     {
       "added_at": null,
@@ -1075,50 +1075,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TROLLS Band Together (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5izS9lEKFma3NVRl6uBbTs"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        },
-        {
-          "name": "Anna Kendrick",
-          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
-        },
-        {
-          "name": "Zooey Deschanel",
-          "url": "https://open.spotify.com/artist/2GEW6nJjHKAFyqnsE3TdWx"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Kenan Thompson",
-          "url": "https://open.spotify.com/artist/712ZtYak5pWK9RJjcyxdKl"
-        },
-        {
-          "name": "Kunal Nayyar",
-          "url": "https://open.spotify.com/artist/4po5m4plDQk01gLzTcCMfA"
-        },
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        },
-        {
-          "name": "Ron Funches",
-          "url": "https://open.spotify.com/artist/5auLWD3XT6p3im19G2cLhP"
-        }
-      ],
-      "duration_ms": 189520,
-      "name": "Let's Get Married",
-      "url": "https://open.spotify.com/track/7AZiiOuTA8WPWJ7vEdFmue"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The 20/20 Experience - 2 of 2 (Deluxe)",
         "url": "https://open.spotify.com/album/5lYzReGzcSNF0Gx47wm6qU"
       },
@@ -1131,6 +1087,38 @@
       "duration_ms": 331133,
       "name": "Drink You Away",
       "url": "https://open.spotify.com/track/4pEaGoTSSU7YKu4hqor9Na"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TROLLS World Tour (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/28Orm6S3LezppbfYdgA3aI"
+      },
+      "artists": [
+        {
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "James Corden",
+          "url": "https://open.spotify.com/artist/5E17eRqSfn08FsmvNCds0P"
+        },
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "The Pop Trolls",
+          "url": "https://open.spotify.com/artist/2ossO7Sa8OJ0D0PQjSF1cQ"
+        }
+      ],
+      "duration_ms": 61923,
+      "name": "Trolls 2 Many Hits Mashup",
+      "url": "https://open.spotify.com/track/74PmqgIU0EU60QEgrjJIIk"
     }
   ],
   "unique_name": "This Is Justin Timberlake",

@@ -1,6 +1,6 @@
 {
   "description": "A taste of today's best bluegrass instrumentals. ",
-  "num_followers": 62498,
+  "num_followers": 62517,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Appalachian Picking Society",
-        "url": "https://open.spotify.com/album/0zFO5P5ULTkqknwYWSTkZg"
-      },
-      "artists": [
-        {
-          "name": "Dirk Powell",
-          "url": "https://open.spotify.com/artist/0WLXcCZ84s9zsmIOoJeEwG"
-        }
-      ],
-      "duration_ms": 224186,
-      "name": "Susan's Gone",
-      "url": "https://open.spotify.com/track/6OZLrNbCCtGM596YZJ8deM"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "Watchhouse",
         "url": "https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 260863,
       "name": "Coming Down from Green Mountain",
       "url": "https://open.spotify.com/track/6mQ3VQn9TEZaIuzvnkQm2I"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "Appalachian Picking Society",
+        "url": "https://open.spotify.com/album/0zFO5P5ULTkqknwYWSTkZg"
+      },
+      "artists": [
+        {
+          "name": "Dirk Powell",
+          "url": "https://open.spotify.com/artist/0WLXcCZ84s9zsmIOoJeEwG"
+        }
+      ],
+      "duration_ms": 224186,
+      "name": "Susan's Gone",
+      "url": "https://open.spotify.com/track/6OZLrNbCCtGM596YZJ8deM"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -427,18 +427,18 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Lovin' Of The Game",
-        "url": "https://open.spotify.com/album/6RD7EK5EnsvDTxMbZbFrvg"
+        "name": "Black Banjo",
+        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
       },
       "artists": [
         {
-          "name": "Michael Cleveland",
-          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
+          "name": "Tray Wellington",
+          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
         }
       ],
-      "duration_ms": 188293,
-      "name": "Thousand Dollar Holler",
-      "url": "https://open.spotify.com/track/2OICtTWaGqmdmoi3BetlxB"
+      "duration_ms": 198478,
+      "name": "Crooked Mind",
+      "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -459,18 +459,18 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Black Banjo",
-        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
+        "name": "Lovin' Of The Game",
+        "url": "https://open.spotify.com/album/6RD7EK5EnsvDTxMbZbFrvg"
       },
       "artists": [
         {
-          "name": "Tray Wellington",
-          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
+          "name": "Michael Cleveland",
+          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
         }
       ],
-      "duration_ms": 198478,
-      "name": "Crooked Mind",
-      "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
+      "duration_ms": 188293,
+      "name": "Thousand Dollar Holler",
+      "url": "https://open.spotify.com/track/2OICtTWaGqmdmoi3BetlxB"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -507,6 +507,26 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
+        "name": "Moon in Motion 1",
+        "url": "https://open.spotify.com/album/6xUMxx04zJslYt50p1Ugkp"
+      },
+      "artists": [
+        {
+          "name": "Tray Wellington",
+          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
+        },
+        {
+          "name": "Tray Wellington Band",
+          "url": "https://open.spotify.com/artist/4cA3qHzBqSEeeiB9oYzLIp"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "Moon in Motion 1",
+      "url": "https://open.spotify.com/track/4JL65cYynb4QVhdM4nBM5M"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
         "name": "Lone Soldier",
         "url": "https://open.spotify.com/album/5KWtnSlnMX7XtJcITbMo6m"
       },
@@ -539,26 +559,6 @@
       "duration_ms": 354847,
       "name": "West Dakota Rose",
       "url": "https://open.spotify.com/track/0FptQUU4KsvEb71zjt3JAY"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
-        "name": "Moon in Motion 1",
-        "url": "https://open.spotify.com/album/6xUMxx04zJslYt50p1Ugkp"
-      },
-      "artists": [
-        {
-          "name": "Tray Wellington",
-          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
-        },
-        {
-          "name": "Tray Wellington Band",
-          "url": "https://open.spotify.com/artist/4cA3qHzBqSEeeiB9oYzLIp"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "Moon in Motion 1",
-      "url": "https://open.spotify.com/track/4JL65cYynb4QVhdM4nBM5M"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Woven",
-        "url": "https://open.spotify.com/album/0SrR4hBqZUsdJGAQ05Xwzh"
-      },
-      "artists": [
-        {
-          "name": "Whalebone",
-          "url": "https://open.spotify.com/artist/6bN45WFcpPaxtX2UCFufx9"
-        }
-      ],
-      "duration_ms": 149369,
-      "name": "Wayfarer",
-      "url": "https://open.spotify.com/track/3vrCfQgVvsa3ZE1CkDrgvA"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "Dan Tyminski: Live From The Ryman",
         "url": "https://open.spotify.com/album/1Hz94xWUWl3t2WIc0oUjzh"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 127261,
       "name": "Cumberland Gap - Live",
       "url": "https://open.spotify.com/track/23hTNYbTG1CORmhOtxYZim"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "Woven",
+        "url": "https://open.spotify.com/album/0SrR4hBqZUsdJGAQ05Xwzh"
+      },
+      "artists": [
+        {
+          "name": "Whalebone",
+          "url": "https://open.spotify.com/artist/6bN45WFcpPaxtX2UCFufx9"
+        }
+      ],
+      "duration_ms": 149369,
+      "name": "Wayfarer",
+      "url": "https://open.spotify.com/track/3vrCfQgVvsa3ZE1CkDrgvA"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -835,26 +835,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Cedar Pass / Peanut Peak / Prairie Chicken",
-        "url": "https://open.spotify.com/album/6YJVaYIaF2BY4ejSMdn6qy"
-      },
-      "artists": [
-        {
-          "name": "Natalie Haas",
-          "url": "https://open.spotify.com/artist/41sqaarfB2kCWssI6jM10V"
-        },
-        {
-          "name": "Brittany Haas",
-          "url": "https://open.spotify.com/artist/35HI5ILDlg2vduaII47ItP"
-        }
-      ],
-      "duration_ms": 328126,
-      "name": "Cedar Pass / Peanut Peak / Prairie Chicken",
-      "url": "https://open.spotify.com/track/0hXjtN8OmAj7Wg5FzthLJk"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "30 Turkeys",
         "url": "https://open.spotify.com/album/5A3GlnJs11WNlVZKh3uY5a"
       },
@@ -887,34 +867,38 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Taxland (feat. Sierra Hull)",
-        "url": "https://open.spotify.com/album/2iLeCeTTnWphyWDZfXnOrn"
+        "name": "Cedar Pass / Peanut Peak / Prairie Chicken",
+        "url": "https://open.spotify.com/album/6YJVaYIaF2BY4ejSMdn6qy"
       },
       "artists": [
         {
-          "name": "Justin Moses",
-          "url": "https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola"
+          "name": "Natalie Haas",
+          "url": "https://open.spotify.com/artist/41sqaarfB2kCWssI6jM10V"
         },
         {
-          "name": "Barry Bales",
-          "url": "https://open.spotify.com/artist/04csPEQnhfQ5zY6vPMvwds"
-        },
-        {
-          "name": "Bryan Sutton",
-          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
-        },
-        {
-          "name": "Michael Cleveland",
-          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
-        },
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+          "name": "Brittany Haas",
+          "url": "https://open.spotify.com/artist/35HI5ILDlg2vduaII47ItP"
         }
       ],
-      "duration_ms": 205586,
-      "name": "Taxland (feat. Sierra Hull)",
-      "url": "https://open.spotify.com/track/7rYO8GdgPhBot0vfZQNizW"
+      "duration_ms": 328126,
+      "name": "Cedar Pass / Peanut Peak / Prairie Chicken",
+      "url": "https://open.spotify.com/track/0hXjtN8OmAj7Wg5FzthLJk"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "The American Fiddler",
+        "url": "https://open.spotify.com/album/3VbD9iUP0p5WmVXsp9crms"
+      },
+      "artists": [
+        {
+          "name": "Andy Leftwich",
+          "url": "https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa"
+        }
+      ],
+      "duration_ms": 250500,
+      "name": "The American Fiddler",
+      "url": "https://open.spotify.com/track/1FiewdnqC7YSLNSmIP6Z8g"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -943,18 +927,34 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "The American Fiddler",
-        "url": "https://open.spotify.com/album/3VbD9iUP0p5WmVXsp9crms"
+        "name": "Taxland (feat. Sierra Hull)",
+        "url": "https://open.spotify.com/album/2iLeCeTTnWphyWDZfXnOrn"
       },
       "artists": [
         {
-          "name": "Andy Leftwich",
-          "url": "https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa"
+          "name": "Justin Moses",
+          "url": "https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola"
+        },
+        {
+          "name": "Barry Bales",
+          "url": "https://open.spotify.com/artist/04csPEQnhfQ5zY6vPMvwds"
+        },
+        {
+          "name": "Bryan Sutton",
+          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
+        },
+        {
+          "name": "Michael Cleveland",
+          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
+        },
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
         }
       ],
-      "duration_ms": 250500,
-      "name": "The American Fiddler",
-      "url": "https://open.spotify.com/track/1FiewdnqC7YSLNSmIP6Z8g"
+      "duration_ms": 205586,
+      "name": "Taxland (feat. Sierra Hull)",
+      "url": "https://open.spotify.com/track/7rYO8GdgPhBot0vfZQNizW"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Squirrelville",
-        "url": "https://open.spotify.com/album/7eCzxWAKlmax5GPYVxefsh"
+        "name": "If Not Now, Who?",
+        "url": "https://open.spotify.com/album/1DanalhKGFFpIyVfVrqOlO"
       },
       "artists": [
         {
-          "name": "Tony Furtado",
-          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
+          "name": "Joe K. Walsh",
+          "url": "https://open.spotify.com/artist/5uV7YixKMZnevCQZg8qSBB"
         }
       ],
-      "duration_ms": 281386,
-      "name": "Squirrelville",
-      "url": "https://open.spotify.com/track/02AwMmSFYM1yigumqelwsv"
+      "duration_ms": 295280,
+      "name": "Palmer",
+      "url": "https://open.spotify.com/track/7dOdQ3a96oTXcZyyTeI17e"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "If Not Now, Who?",
-        "url": "https://open.spotify.com/album/1DanalhKGFFpIyVfVrqOlO"
+        "name": "Squirrelville",
+        "url": "https://open.spotify.com/album/7eCzxWAKlmax5GPYVxefsh"
       },
       "artists": [
         {
-          "name": "Joe K. Walsh",
-          "url": "https://open.spotify.com/artist/5uV7YixKMZnevCQZg8qSBB"
+          "name": "Tony Furtado",
+          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
         }
       ],
-      "duration_ms": 295280,
-      "name": "Palmer",
-      "url": "https://open.spotify.com/track/7dOdQ3a96oTXcZyyTeI17e"
+      "duration_ms": 281386,
+      "name": "Squirrelville",
+      "url": "https://open.spotify.com/track/02AwMmSFYM1yigumqelwsv"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ"
-      },
-      "artists": [
-        {
-          "name": "The Grascals",
-          "url": "https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "It's A String Thing",
-      "url": "https://open.spotify.com/track/4c26BHbxtSuWTYdiRvyQ15"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "Carried Along",
         "url": "https://open.spotify.com/album/64cccOqmeYXREYN26KpuVr"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 216388,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/0VsLJhLnWLNQelIqhPK8rB"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ"
+      },
+      "artists": [
+        {
+          "name": "The Grascals",
+          "url": "https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "It's A String Thing",
+      "url": "https://open.spotify.com/track/4c26BHbxtSuWTYdiRvyQ15"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Three Star Hornpipe",
-        "url": "https://open.spotify.com/album/0m8HMbaxJlRjAICHLL9Hkf"
-      },
-      "artists": [
-        {
-          "name": "Bryan Sutton",
-          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
-        },
-        {
-          "name": "Kenny Smith",
-          "url": "https://open.spotify.com/artist/6lkf0jNiDG54kwXa2Tkpe1"
-        }
-      ],
-      "duration_ms": 297000,
-      "name": "Three Star Hornpipe",
-      "url": "https://open.spotify.com/track/6aPJzn8vGHXTY4PbhdvHVp"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "Look Again",
         "url": "https://open.spotify.com/album/5lrfORa8KmOOrSfgDyNGZM"
       },
@@ -1519,6 +1499,26 @@
       "duration_ms": 304613,
       "name": "Look Again",
       "url": "https://open.spotify.com/track/6NJqzY3usmKs12re8cJSBB"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "Three Star Hornpipe",
+        "url": "https://open.spotify.com/album/0m8HMbaxJlRjAICHLL9Hkf"
+      },
+      "artists": [
+        {
+          "name": "Bryan Sutton",
+          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
+        },
+        {
+          "name": "Kenny Smith",
+          "url": "https://open.spotify.com/artist/6lkf0jNiDG54kwXa2Tkpe1"
+        }
+      ],
+      "duration_ms": 297000,
+      "name": "Three Star Hornpipe",
+      "url": "https://open.spotify.com/track/6aPJzn8vGHXTY4PbhdvHVp"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Aced",
-        "url": "https://open.spotify.com/album/7atKZ6vryzxB0lbhwlv5NW"
-      },
-      "artists": [
-        {
-          "name": "Andy Leftwich",
-          "url": "https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Crossville",
-      "url": "https://open.spotify.com/track/47KcdqpGiAsNRJ9WWI0fGG"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "Bop Your Head",
         "url": "https://open.spotify.com/album/420mYWvOmXSapn5DlOawVJ"
       },
@@ -1643,18 +1627,18 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "The Drifter",
-        "url": "https://open.spotify.com/album/2sUWx6c0BiEVMPhtCN3awW"
+        "name": "Aced",
+        "url": "https://open.spotify.com/album/7atKZ6vryzxB0lbhwlv5NW"
       },
       "artists": [
         {
-          "name": "Danny Roberts",
-          "url": "https://open.spotify.com/artist/35dKyjgPblJr8mwgHkxLPE"
+          "name": "Andy Leftwich",
+          "url": "https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa"
         }
       ],
-      "duration_ms": 227000,
-      "name": "The Drifter",
-      "url": "https://open.spotify.com/track/7EypAsgFzfyVK13EqjZnDQ"
+      "duration_ms": 202000,
+      "name": "Crossville",
+      "url": "https://open.spotify.com/track/47KcdqpGiAsNRJ9WWI0fGG"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -1671,6 +1655,22 @@
       "duration_ms": 273586,
       "name": "Winnipeg",
       "url": "https://open.spotify.com/track/2AFe9bgmBAyaWnl7ji20wJ"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "The Drifter",
+        "url": "https://open.spotify.com/album/2sUWx6c0BiEVMPhtCN3awW"
+      },
+      "artists": [
+        {
+          "name": "Danny Roberts",
+          "url": "https://open.spotify.com/artist/35dKyjgPblJr8mwgHkxLPE"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "The Drifter",
+      "url": "https://open.spotify.com/track/7EypAsgFzfyVK13EqjZnDQ"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
+        "name": "New Chapter",
+        "url": "https://open.spotify.com/album/58vbUKEPEoaJjFwzE7Dqu3"
+      },
+      "artists": [
+        {
+          "name": "Cedar Hill",
+          "url": "https://open.spotify.com/artist/2GLRJlS6WxRYDOH6iaMT05"
+        }
+      ],
+      "duration_ms": 188826,
+      "name": "Leavin' Egypt - Instrumental",
+      "url": "https://open.spotify.com/track/3iE52y1XUrE7ILcNIgU1Gr"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
         "name": "Indoor Vistas",
         "url": "https://open.spotify.com/album/5fOYNNqYU23pUMlPMfuJU6"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 237768,
       "name": "And Then, And Then, And Then",
       "url": "https://open.spotify.com/track/4EmclhN9TTg1r2dRNCpGtk"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
-        "name": "New Chapter",
-        "url": "https://open.spotify.com/album/58vbUKEPEoaJjFwzE7Dqu3"
-      },
-      "artists": [
-        {
-          "name": "Cedar Hill",
-          "url": "https://open.spotify.com/artist/2GLRJlS6WxRYDOH6iaMT05"
-        }
-      ],
-      "duration_ms": 188826,
-      "name": "Leavin' Egypt - Instrumental",
-      "url": "https://open.spotify.com/track/3iE52y1XUrE7ILcNIgU1Gr"
     },
     {
       "added_at": "2026-06-19 04:01:42",

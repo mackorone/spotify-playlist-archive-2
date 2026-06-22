@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO44GTbm.md) - [plain]
 | 21 | [Memory of Blue](https://open.spotify.com/track/1NXcoT10xZSw1fjqKfY9qt) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [The Blue of Distance](https://open.spotify.com/album/2fgYV6cTjFeqb0yPbj4piy) | 11:38 |
 | 22 | [Seeing Is Forgetting](https://open.spotify.com/track/19iE95ZowwXzcMaLZNcWyn) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0), [Henry Solomon](https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR) | [Seeing Is Forgetting](https://open.spotify.com/album/3HKaS5uR80yGC1SW34d4ll) | 3:36 |
 | 23 | [How Big Is Time](https://open.spotify.com/track/20V47MWSX8TPqQ0Rudb7HQ) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [Texada \(Original Score\)](https://open.spotify.com/album/6k5BAI9sWhz4wCeIXx7Qv5) | 2:12 |
-| 24 | [Changing Neighborhood](https://open.spotify.com/track/01VCmdLsbkgm6Hc9RcunWY) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [Earth Focus \(Original Score\)](https://open.spotify.com/album/4CXZqn8Jlw6czJ8SIjWTxA) | 3:01 |
+| 24 | [Alternative Futures](https://open.spotify.com/track/5L9GKrpvOXHB9Zwk4TvWLh) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [Earth Focus \(Original Score\)](https://open.spotify.com/album/4CXZqn8Jlw6czJ8SIjWTxA) | 2:18 |
 | 25 | [Drifts II](https://open.spotify.com/track/143Uu2ssw2p9to2BNXcdjV) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [Drifts and Surfaces](https://open.spotify.com/album/6CRaegrVWfzQ6wneCbUoxA) | 5:28 |
-| 26 | [Alternative Futures](https://open.spotify.com/track/5L9GKrpvOXHB9Zwk4TvWLh) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [Earth Focus \(Original Score\)](https://open.spotify.com/album/4CXZqn8Jlw6czJ8SIjWTxA) | 2:18 |
+| 26 | [Changing Neighborhood](https://open.spotify.com/track/01VCmdLsbkgm6Hc9RcunWY) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [Earth Focus \(Original Score\)](https://open.spotify.com/album/4CXZqn8Jlw6czJ8SIjWTxA) | 3:01 |
 
-Snapshot ID: `ajSGgAAAAAAesJyH931kZhcNk2QCFT/k`
+Snapshot ID: `ajXYAAAAAAD99tbx8Ru3Ysx/VrCeDUoR`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,645 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,652 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 32 | [Hide & Seek](https://open.spotify.com/track/408LwMfVi5uBH5nPOyEuWk) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [XO, My Cyberlove](https://open.spotify.com/album/2sVppxhqMC6qFOp1Xxvy8Q) | 2:33 |
 | 33 | [Love Frequency](https://open.spotify.com/track/0JpjJ135Rg9wIzl8FPB9Rw) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Love Frequency \(Original Soundtrack from Just For Meeting You\)](https://open.spotify.com/album/3cgYAtoLlt8nO7YdoEuY2l) | 2:43 |
 | 34 | [Wanna Love You](https://open.spotify.com/track/2XXPhWXi5yEh8p3LL6FYyk) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Wanna Love You](https://open.spotify.com/album/3Eam0dNMM4SGKL3oP6rwEf) | 3:40 |
-| 35 | [Up & Down](https://open.spotify.com/track/4YGhgJsNrg0E7wTUKsU2Zn) | [배이 \(NMIXX\)](https://open.spotify.com/artist/27E22J7VSc9aYvjqOGqyyo) | [제4차 사랑혁명 \(Original Sound Track\) Pt.1](https://open.spotify.com/album/1DQ3TZXKpJ6JXMcqI8bckC) | 4:04 |
-| 36 | [Telepathy \(Feat\. ADORA\)](https://open.spotify.com/track/43huSeupxUXIBkRALBozSO) | [JUNGSOOMIN](https://open.spotify.com/artist/5e907QyP66bLqY6UiT2sXc), [ADORA](https://open.spotify.com/artist/3M1kgHOpPruu1uBymBHF3r) | [Summer?](https://open.spotify.com/album/79PjeURLjxfYBH9nWcwqhK) | 3:00 |
+| 35 | [Telepathy \(Feat\. ADORA\)](https://open.spotify.com/track/43huSeupxUXIBkRALBozSO) | [JUNGSOOMIN](https://open.spotify.com/artist/5e907QyP66bLqY6UiT2sXc), [ADORA](https://open.spotify.com/artist/3M1kgHOpPruu1uBymBHF3r) | [Summer?](https://open.spotify.com/album/79PjeURLjxfYBH9nWcwqhK) | 3:00 |
+| 36 | [Up & Down](https://open.spotify.com/track/4YGhgJsNrg0E7wTUKsU2Zn) | [배이 \(NMIXX\)](https://open.spotify.com/artist/27E22J7VSc9aYvjqOGqyyo) | [제4차 사랑혁명 \(Original Sound Track\) Pt.1](https://open.spotify.com/album/1DQ3TZXKpJ6JXMcqI8bckC) | 4:04 |
 | 37 | [juicy](https://open.spotify.com/track/7CZlQzwfuBgKvhkejwEEoy) | [OWIS](https://open.spotify.com/artist/6XX2VhfOTqYDIvNjkEHqe8) | [MUSEUM](https://open.spotify.com/album/7fBDwY8yeff98Qzycso6pC) | 3:20 |
 | 38 | [It’s secret](https://open.spotify.com/track/5DAGe7xZYZhrS6FQUnSflc) | [Martin Smith](https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd) | [It’s secret](https://open.spotify.com/album/7LRix9cnSnWsQYrv80nPaW) | 3:08 |
 | 39 | [My Dearest](https://open.spotify.com/track/7h5dECSs3XYQjaZWB4jHHM) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [My Dearest \(ToGetHer X xooos\) \(Original Soundtrack\)](https://open.spotify.com/album/0BBkLUZwjcrvrkUnHaTd8w) | 3:03 |

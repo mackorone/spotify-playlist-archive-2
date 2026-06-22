@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,954 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,951 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 32 | [Midsummer Mansion](https://open.spotify.com/track/5eknQ3ZQFqg7C45BitzhV4) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [the gates](https://open.spotify.com/album/0XKZyisZfoJOCy5hK72Pnu) | 4:22 |
 | 33 | [6 Years](https://open.spotify.com/track/6092TzQMKn8WgJuHHsy84h) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [6 Years](https://open.spotify.com/album/1pArqrd5AP2MuNvxAj6jDM) | 2:42 |
 | 34 | [アイウタ](https://open.spotify.com/track/7xR4VYpFQmNoDEkNfkezO2) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [アイウタ](https://open.spotify.com/album/7BeFwx8a2LsM1tVJVqAO52) | 4:52 |
-| 35 | [マシかもしれない](https://open.spotify.com/track/6UfkIgoZtKwj7U0vBES2EF) | [Arata Manako](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [マシかもしれない](https://open.spotify.com/album/4BQ5ivnlanw4yUuqL3ugdA) | 3:15 |
-| 36 | [朝顔](https://open.spotify.com/track/5vnTYL1H4uGzNaMB14wagO) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [朝顔](https://open.spotify.com/album/5BqiHDJ0KHdOVEIHBred2e) | 5:36 |
+| 35 | [朝顔](https://open.spotify.com/track/5vnTYL1H4uGzNaMB14wagO) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [朝顔](https://open.spotify.com/album/5BqiHDJ0KHdOVEIHBred2e) | 5:36 |
+| 36 | [マシかもしれない](https://open.spotify.com/track/6UfkIgoZtKwj7U0vBES2EF) | [Arata Manako](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [マシかもしれない](https://open.spotify.com/album/4BQ5ivnlanw4yUuqL3ugdA) | 3:15 |
 | 37 | [あなたを愛するように](https://open.spotify.com/track/4hrWAaNzcszm5NKbhah82N) | [idom](https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx), [peko](https://open.spotify.com/artist/4FXJy6E3hz7rbsdoKnKtLg), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [Who?](https://open.spotify.com/album/672YB4ykUdCVpHu9UgLa6j) | 3:24 |
 | 38 | [A Call from My Dream](https://open.spotify.com/track/06zMVfnqSiXl7DoWCLCvzs) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [A Call from My Dream](https://open.spotify.com/album/7zY2ieneVxxTqhdY9c6Jio) | 4:15 |
 | 39 | [Bluebird](https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bluebird](https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj) | 2:59 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 44 | [See You Soon](https://open.spotify.com/track/6J0iDtlXabHqZizUKWUAX8) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [See You Soon](https://open.spotify.com/album/3RnZzFLaoswdse4TKBEmmH) | 3:14 |
 | 45 | [dandelions](https://open.spotify.com/track/692Q0Ry0X0BV1C9XhORcVF) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [dandelions](https://open.spotify.com/album/4yWnb5waN424BvaVNA7N50) | 3:12 |
 | 46 | [頬杖](https://open.spotify.com/track/10KGI1LYDOpg8chhDecyZG) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [頬杖](https://open.spotify.com/album/1q8XpH5tIpbHg9jeVsDz5X) | 3:40 |
-| 47 | [Fall Into You](https://open.spotify.com/track/6IpniKTQXAEjc2erLByfo2) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [Fall Into You](https://open.spotify.com/album/4W2eUzZfKOC0PVE5RjCSlS) | 2:48 |
-| 48 | [a plumber](https://open.spotify.com/track/7ICFekB0XzNPiqlVV9b6fI) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [a plumber](https://open.spotify.com/album/0rKTE4TkHK5aPKgtGTN7EN) | 3:29 |
+| 47 | [a plumber](https://open.spotify.com/track/7ICFekB0XzNPiqlVV9b6fI) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [a plumber](https://open.spotify.com/album/0rKTE4TkHK5aPKgtGTN7EN) | 3:29 |
+| 48 | [Fall Into You](https://open.spotify.com/track/6IpniKTQXAEjc2erLByfo2) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [Fall Into You](https://open.spotify.com/album/4W2eUzZfKOC0PVE5RjCSlS) | 2:48 |
 | 49 | [Maya, Maya, Maya](https://open.spotify.com/track/21afrtWJEDyy6iuJAE0ESa) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Maya, Maya, Maya](https://open.spotify.com/album/7I8p5Y7dBk1IfMSae7CtML) | 2:59 |
 | 50 | [頬にひと口](https://open.spotify.com/track/6YEzgjuFl1bmtVUZ04Ozlr) | [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [頬にひと口](https://open.spotify.com/album/1OseQ5LUgKXP4M6UNnspyj) | 3:29 |
 | 51 | [灯台 \(Live Session\)](https://open.spotify.com/track/2a3s6DyCghaqmS14lIlGez) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [LIGHTHOUSE](https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r) | 3:07 |
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 60 | [Caterpillar](https://open.spotify.com/track/4Er5MHdgvsfc2zvqOMQRyI) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Caterpillar](https://open.spotify.com/album/4S1zoniwS9PvDJ6n2GJW8i) | 2:49 |
 | 61 | [Bloom feat\. KIKI](https://open.spotify.com/track/6BsLjqplB626oHZbQvSndr) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Silent Storm](https://open.spotify.com/album/3DzHNZiuvnAX0TK8uAc3Os) | 3:26 |
 | 62 | [唄が歩く時](https://open.spotify.com/track/79EUfmvj3VwRlbzke3s4HO) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [唄が歩く時](https://open.spotify.com/album/4VAkCYiPGkPOPGdloGVZwY) | 3:50 |
-| 63 | [covent garden](https://open.spotify.com/track/0YIiDc0bIbvm2doecnf7fU) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [covent garden](https://open.spotify.com/album/4fz69J654PbUgnq2vkZzVH) | 3:01 |
+| 63 | [Apple](https://open.spotify.com/track/0SvDsyzmibzVFrG3pl167V) | [Haruy](https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw) | [Apple](https://open.spotify.com/album/0LLoFRBwIW3CtFmzBF0MHu) | 4:08 |
 | 64 | [カラタチの夢](https://open.spotify.com/track/7o0IZeK9qnfNdjxx4TaMNL) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [カラタチの夢](https://open.spotify.com/album/2fSTHMm7zKp834JHdcGcY4) | 3:29 |
-| 65 | [Apple](https://open.spotify.com/track/0SvDsyzmibzVFrG3pl167V) | [Haruy](https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw) | [Apple](https://open.spotify.com/album/0LLoFRBwIW3CtFmzBF0MHu) | 4:08 |
+| 65 | [covent garden](https://open.spotify.com/track/0YIiDc0bIbvm2doecnf7fU) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [covent garden](https://open.spotify.com/album/4fz69J654PbUgnq2vkZzVH) | 3:01 |
 | 66 | [all my perfects](https://open.spotify.com/track/1FGx26WseTAqrpd0pR03JW) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [lovlaine \(The Deluxe Album\)](https://open.spotify.com/album/4wf7qqSLhddnZm9gF6u1Na) | 3:38 |
 | 67 | [PERFECT](https://open.spotify.com/track/0HjrhgjXi2yKUm1lTlm2Cq) | [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX) | [TIME SLIP](https://open.spotify.com/album/0vS4ZBuvy8i8dibPsAp8fo) | 4:28 |
 | 68 | [My Way Home](https://open.spotify.com/track/1PmHzy1AebjGRue4hYVkpM) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Wonder, Won't You?](https://open.spotify.com/album/3aVD5rqyzp6fzi4do8MI1y) | 3:37 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 89 | [Cuero Dudes](https://open.spotify.com/track/4z3zFBYGC4x4esUbnjqsva) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Cuero Dudes / Beauty Opens Doors](https://open.spotify.com/album/08zvbZIUq3mHkIF7uDVgVr) | 4:58 |
 | 90 | [Easy](https://open.spotify.com/track/1gIPa9lKYq33Y7B9bJoBau) | [TAIKING](https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011) | [Easy](https://open.spotify.com/album/2kKGCcO1yYBdkbUMRb2VxJ) | 3:58 |
 | 91 | [Sweet Lies \(feat\. Miyu Takeuchi\)](https://open.spotify.com/track/7G1A0oCpYCpOiXe05VyNBy) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [竹内美宥](https://open.spotify.com/artist/5PxUfN01MCRFIw7Quz8VZ7), [MIYUMIYU](https://open.spotify.com/artist/5lZiZQ5xaxp94Z9naAVKmg) | [Connection](https://open.spotify.com/album/3iFigjuA451SneLjONrGiK) | 3:11 |
-| 92 | [Your Light](https://open.spotify.com/track/4qEnCuCn5N4gO2TyWyIOeZ) | [8WHAT](https://open.spotify.com/artist/7sUI7Wt3xbG60XRh00Kf6i), [Alisara Arial](https://open.spotify.com/artist/181vxGPS6gV3SWQUXzNpZP), [YiDD](https://open.spotify.com/artist/1YeTLfx7aPF0T5hmNHTsMk) | [Your Light](https://open.spotify.com/album/3D2AoXbOpUScjeH9zOWwWJ) | 2:44 |
-| 93 | [君は言うかな](https://open.spotify.com/track/41hpqH0V4sz4FvZ2JOfBDb) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [君は言うかな](https://open.spotify.com/album/2RH9084rMEQaLhFSIeEHny) | 4:27 |
+| 92 | [君は言うかな](https://open.spotify.com/track/41hpqH0V4sz4FvZ2JOfBDb) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [君は言うかな](https://open.spotify.com/album/2RH9084rMEQaLhFSIeEHny) | 4:27 |
+| 93 | [Your Light](https://open.spotify.com/track/4qEnCuCn5N4gO2TyWyIOeZ) | [8WHAT](https://open.spotify.com/artist/7sUI7Wt3xbG60XRh00Kf6i), [Alisara Arial](https://open.spotify.com/artist/181vxGPS6gV3SWQUXzNpZP), [YiDD](https://open.spotify.com/artist/1YeTLfx7aPF0T5hmNHTsMk) | [Your Light](https://open.spotify.com/album/3D2AoXbOpUScjeH9zOWwWJ) | 2:44 |
 | 94 | [burn blister](https://open.spotify.com/track/6osnNgkB3IkVFYeeDJqi88) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [burn blister](https://open.spotify.com/album/2shLrT8Uep0RA7uDq2GxEY) | 3:09 |
 | 95 | [Here with me](https://open.spotify.com/track/3mjO7GpUGG8ltpmxm8JsL1) | [Marter](https://open.spotify.com/artist/4BtZnNCpfbIIvPf2bNsQw1) | [Here with me](https://open.spotify.com/album/5MFOtHKYiQaxG9Ge3M26Zi) | 4:03 |
 | 96 | [ユメのはじまり。](https://open.spotify.com/track/66oYFwtVhj0zSayFxcNaSj) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [ユメのはじまり。](https://open.spotify.com/album/3b3WoVqAc6zcXApOjchHvj) | 4:05 |
 | 97 | [Responder \(Live Session\)](https://open.spotify.com/track/4VYZuxJh4HwZgvWiPmcvSV) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [LIGHTHOUSE](https://open.spotify.com/album/4F9zqfgck0CJyuym96hLpD) | 3:37 |
 | 98 | [pineapple bun](https://open.spotify.com/track/4vONiFTguBZdq4BntZCuXd) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [pineapple bun](https://open.spotify.com/album/6IB4yLzaoA1Lp7bX1b30Md) | 3:29 |
-| 99 | [Good Life](https://open.spotify.com/track/2hsTr2uDmLOk5BusqU1jc6) | [AVOCADO BOYS](https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo) | [Good Life](https://open.spotify.com/album/5uMRnkmSWRgwuWvtdwayO7) | 4:58 |
-| 100 | [I know](https://open.spotify.com/track/1eRwmWB269meD0JlNDDM60) | [SOIII](https://open.spotify.com/artist/6IIpHaS29YrhmK1uQnEtOp) | [I know](https://open.spotify.com/album/705uQ9r4jJSE9xXGUfVNSs) | 3:52 |
+| 99 | [I know](https://open.spotify.com/track/1eRwmWB269meD0JlNDDM60) | [SOIII](https://open.spotify.com/artist/6IIpHaS29YrhmK1uQnEtOp) | [I know](https://open.spotify.com/album/705uQ9r4jJSE9xXGUfVNSs) | 3:52 |
+| 100 | [Good Life](https://open.spotify.com/track/2hsTr2uDmLOk5BusqU1jc6) | [AVOCADO BOYS](https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo) | [Good Life](https://open.spotify.com/album/5uMRnkmSWRgwuWvtdwayO7) | 4:58 |
 
 Snapshot ID: `AAAAADiqvu+Ko/XjD0PHj3Oq60n/MWiT`

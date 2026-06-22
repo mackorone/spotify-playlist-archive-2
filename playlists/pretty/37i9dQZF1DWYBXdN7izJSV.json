@@ -1,6 +1,6 @@
 {
   "description": "Classic cuts from the alternative country music scene. Cover: Uncle Tupelo",
-  "num_followers": 116042,
+  "num_followers": 116059,
   "original_name": "Alt Country Classics",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Trace (Remastered)",
-        "url": "https://open.spotify.com/album/1SV1Fh8rLes7MeTYTXznKd"
-      },
-      "artists": [
-        {
-          "name": "Son Volt",
-          "url": "https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe"
-        }
-      ],
-      "duration_ms": 179520,
-      "name": "Windfall - 2015 Remaster",
-      "url": "https://open.spotify.com/track/52iyhfd6jgU2wYB8QIYs6t"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "Tomorrow The Green Grass",
         "url": "https://open.spotify.com/album/2tNdnAUaaomEEQIsc3Y7TC"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 189506,
       "name": "Blue",
       "url": "https://open.spotify.com/track/5cDfI3KOa64zbuUgD6a4hG"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "Trace (Remastered)",
+        "url": "https://open.spotify.com/album/1SV1Fh8rLes7MeTYTXznKd"
+      },
+      "artists": [
+        {
+          "name": "Son Volt",
+          "url": "https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe"
+        }
+      ],
+      "duration_ms": 179520,
+      "name": "Windfall - 2015 Remaster",
+      "url": "https://open.spotify.com/track/52iyhfd6jgU2wYB8QIYs6t"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Traveling Alone",
-        "url": "https://open.spotify.com/album/1VW2JPuvgbb02IpOsxHA4R"
-      },
-      "artists": [
-        {
-          "name": "Tift Merritt",
-          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
-        }
-      ],
-      "duration_ms": 284960,
-      "name": "Traveling Alone",
-      "url": "https://open.spotify.com/track/4LJIX18V7BHO9k44yn7vfk"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "The Little Willies",
         "url": "https://open.spotify.com/album/5G864T3Gd0LlUEQdw0iZiw"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 163813,
       "name": "It's Not You, It's Me",
       "url": "https://open.spotify.com/track/3bWvZ3YluJBtHgCP7c0tBv"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "Traveling Alone",
+        "url": "https://open.spotify.com/album/1VW2JPuvgbb02IpOsxHA4R"
+      },
+      "artists": [
+        {
+          "name": "Tift Merritt",
+          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
+        }
+      ],
+      "duration_ms": 284960,
+      "name": "Traveling Alone",
+      "url": "https://open.spotify.com/track/4LJIX18V7BHO9k44yn7vfk"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "This Is BR549",
-        "url": "https://open.spotify.com/album/4E1URWpVQFzwRlCokb2mc0"
-      },
-      "artists": [
-        {
-          "name": "BR549",
-          "url": "https://open.spotify.com/artist/6h72WuqMdodzUIZGS0YEyU"
-        }
-      ],
-      "duration_ms": 233293,
-      "name": "Too Lazy To Work, Too Nervous To Steal",
-      "url": "https://open.spotify.com/track/0kkBKoElWdLJKlEHt4nM58"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "Midwest Farmer's Daughter",
         "url": "https://open.spotify.com/album/1RV9pacIcXvkUiAD0EjTdL"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 280320,
       "name": "Tennessee Song",
       "url": "https://open.spotify.com/track/3g9j6JMBhbrEiY65PEmkv5"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "This Is BR549",
+        "url": "https://open.spotify.com/album/4E1URWpVQFzwRlCokb2mc0"
+      },
+      "artists": [
+        {
+          "name": "BR549",
+          "url": "https://open.spotify.com/artist/6h72WuqMdodzUIZGS0YEyU"
+        }
+      ],
+      "duration_ms": 233293,
+      "name": "Too Lazy To Work, Too Nervous To Steal",
+      "url": "https://open.spotify.com/track/0kkBKoElWdLJKlEHt4nM58"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "100 Miles of Wreckage",
-        "url": "https://open.spotify.com/album/6dSZmYZTOVUgrsHUMUIChX"
-      },
-      "artists": [
-        {
-          "name": "The Black Lillies",
-          "url": "https://open.spotify.com/artist/06Y4yJmsrlzPrwIG46ce7X"
-        }
-      ],
-      "duration_ms": 217146,
-      "name": "Two Hearts Down",
-      "url": "https://open.spotify.com/track/18i8x1wiccOX6XiHrauIDn"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "Post to Wire",
         "url": "https://open.spotify.com/album/1IQSQJop8pMbbWozvZsMbc"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 133026,
       "name": "Post to Wire",
       "url": "https://open.spotify.com/track/2vwOmgQGX1abLc6dDqyRry"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "100 Miles of Wreckage",
+        "url": "https://open.spotify.com/album/6dSZmYZTOVUgrsHUMUIChX"
+      },
+      "artists": [
+        {
+          "name": "The Black Lillies",
+          "url": "https://open.spotify.com/artist/06Y4yJmsrlzPrwIG46ce7X"
+        }
+      ],
+      "duration_ms": 217146,
+      "name": "Two Hearts Down",
+      "url": "https://open.spotify.com/track/18i8x1wiccOX6XiHrauIDn"
     },
     {
       "added_at": "2026-06-19 04:01:42",

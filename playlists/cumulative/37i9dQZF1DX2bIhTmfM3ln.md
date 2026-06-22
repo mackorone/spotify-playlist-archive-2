@@ -4,7 +4,7 @@
 
 > love is in the air...breathe in
 
-1,010 songs - 2 day 0 hr 40 min
+1,011 songs - 2 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -663,7 +663,7 @@
 | [Novacaine](https://open.spotify.com/track/6lkYy8wRZiVOp33BgyiXMu) | [K0NYE](https://open.spotify.com/artist/0hyEwDiCc3bp1NVMGi8PMZ), [DEBAYO](https://open.spotify.com/artist/2uBCvfIeglYX3d6NOKKxGL) | [Novacaine](https://open.spotify.com/album/1Xx313px4lu947MnygS9ej) | 3:12 | 2026-01-23 | 2026-02-08 |
 | [Nowhere To Hide](https://open.spotify.com/track/6GnIaawrUwU0Agm7BM1wFu) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [Kooldrink](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [Nowhere To Hide](https://open.spotify.com/album/2wRqnd7i4JjVkvqypSCIeH) | 3:15 | 2022-07-21 | 2023-02-26 |
 | [NUMBER ONE \(feat\. Minz\)](https://open.spotify.com/track/1uOd46FEiW7ritNBNgNdBK) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [NUMBER ONE \(feat\. Minz\)](https://open.spotify.com/album/7qsbzgt7rxG82wr7qi0v6T) | 4:03 | 2025-04-04 | 2025-08-26 |
-| [numero](https://open.spotify.com/track/06CMmOHVZXX6zJoZBZcBE6) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0) | [numero](https://open.spotify.com/album/6VbnEZlNrGnRD3Jml0UyPV) | 2:27 | 2025-08-15 |  |
+| [numero](https://open.spotify.com/track/06CMmOHVZXX6zJoZBZcBE6) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0) | [numero](https://open.spotify.com/album/6VbnEZlNrGnRD3Jml0UyPV) | 2:27 | 2025-08-15 | 2026-06-22 |
 | [O Mahiya](https://open.spotify.com/track/2zeo9CWSwvSeSm4tQuq6oz) | [Kanika Kapoor](https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [O Mahiya](https://open.spotify.com/album/6qi2Wt6cNneZD2at1It9CY) | 2:54 | 2025-10-24 | 2025-12-05 |
 | [Obianuju](https://open.spotify.com/track/2zFg0GwpMzDaob8vfmOm7y) | [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Pace](https://open.spotify.com/album/1uCiEjIJMG143YJoPwQ8yI) | 2:58 | 2024-12-06 | 2025-05-18 |
 | [Obianuju](https://open.spotify.com/track/12n8d0AfedBQysTcN4Tg6W) | [Duncan Mighty](https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK) | [Legacy \(Ahamefuna\)](https://open.spotify.com/album/5qfyyCq5qZYIlpeBhE0Bl2) | 3:41 | 2024-02-13 | 2024-02-16 |
@@ -787,6 +787,7 @@
 | [Rent Free](https://open.spotify.com/track/320cXn7htYGuAzNyxLDs3M) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Rent Free](https://open.spotify.com/album/6cryLTyBj54kNA59giEvbA) | 2:16 | 2023-10-27 | 2024-06-28 |
 | [Repay Your Part](https://open.spotify.com/track/0bos4KHIefjCBFT9qcMSu1) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Teslim: A Lover Boy PTSD](https://open.spotify.com/album/4ma3gfhBBC4zmqBGZKnufW) | 3:55 | 2025-03-07 | 2025-09-22 |
 | [Reset \(feat\. Crayon & Bella Shmurda\)](https://open.spotify.com/track/44GVJ3qYXpV3fbl1jhEIUs) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Reset \(feat\. Crayon & Bella Shmurda\)](https://open.spotify.com/album/3itD5YIFHhsxo3ICHes9lA) | 2:43 | 2024-05-10 | 2024-10-07 |
+| [Rhythm](https://open.spotify.com/track/33a1uLQRtgOGJDU7DqNsFt) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Kohsea](https://open.spotify.com/artist/14iYghNFfyq3pVyoG3Nb8C), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Rhythm](https://open.spotify.com/album/1VClpB03Mt37rl0ShE07Zf) | 3:16 | 2026-06-19 |  |
 | [Rhythm & Blues](https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rhythm & Blues](https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB) | 2:24 | 2023-09-29 | 2024-11-22 |
 | [Ride Solo](https://open.spotify.com/track/12ncJUshM46lUN0DS7kDEk) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Ride Solo](https://open.spotify.com/album/5DYNIzeEqVdzYl0w23wvfo) | 2:24 | 2026-01-30 | 2026-02-20 |
 | [Right Now](https://open.spotify.com/track/13HwOA5rfBYsrWEj4fW4wy) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Right Now](https://open.spotify.com/album/6hgf2eJZJ86AOTdJjZ2a1K) | 2:50 | 2024-10-12 | 2025-08-26 |

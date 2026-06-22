@@ -1,6 +1,6 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 86500,
+  "num_followers": 86519,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2026-03-13 00:01:25",
       "album": {
+        "name": "yawa",
+        "url": "https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "yawa",
+      "url": "https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX"
+    },
+    {
+      "added_at": "2026-03-13 00:01:25",
+      "album": {
         "name": "Feel D Mood",
         "url": "https://open.spotify.com/album/0t6AQDnfc459I7m4NebGiv"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 133172,
       "name": "Feel D Mood",
       "url": "https://open.spotify.com/track/5V24zNpUfkiMx5eWYXXCHN"
-    },
-    {
-      "added_at": "2026-03-13 00:01:25",
-      "album": {
-        "name": "yawa",
-        "url": "https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "yawa",
-      "url": "https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX"
     },
     {
       "added_at": "2026-03-13 00:01:25",
@@ -1071,30 +1071,22 @@
     {
       "added_at": "2026-03-13 00:01:25",
       "album": {
-        "name": "Saba Julukisa (feat. Mfana Kah Gogo & Spux)",
-        "url": "https://open.spotify.com/album/7n1TxSwhsdR6p10jptrKhL"
+        "name": "Otilo (Izz Gone)",
+        "url": "https://open.spotify.com/album/6kke6rJHaFiXh99zlicPY5"
       },
       "artists": [
         {
-          "name": "Dj Karri",
-          "url": "https://open.spotify.com/artist/4seQKbHnG8TM3jKeUvHFw1"
+          "name": "Poco Lee",
+          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
         },
         {
-          "name": "Deep Saints",
-          "url": "https://open.spotify.com/artist/0lXcTk3qlOxdzoj2cGoseW"
-        },
-        {
-          "name": "Mfana Kah Gogo",
-          "url": "https://open.spotify.com/artist/0gGBj3AcYMHRa32eeikJg1"
-        },
-        {
-          "name": "Spux",
-          "url": "https://open.spotify.com/artist/0ZxrcCOIeckPgTMHT8feXG"
+          "name": "Hotkeed",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
         }
       ],
-      "duration_ms": 366573,
-      "name": "Saba Julukisa (feat. Mfana Kah Gogo & Spux)",
-      "url": "https://open.spotify.com/track/2jQx6kd1QLapry5vwk7Zb7"
+      "duration_ms": 162782,
+      "name": "Otilo (Izz Gone)",
+      "url": "https://open.spotify.com/track/3nTzEDC9sTD0YsC9C7osnN"
     },
     {
       "added_at": "2026-03-13 00:01:25",
@@ -1119,22 +1111,30 @@
     {
       "added_at": "2026-03-13 00:01:25",
       "album": {
-        "name": "Otilo (Izz Gone)",
-        "url": "https://open.spotify.com/album/6kke6rJHaFiXh99zlicPY5"
+        "name": "Saba Julukisa (feat. Mfana Kah Gogo & Spux)",
+        "url": "https://open.spotify.com/album/7n1TxSwhsdR6p10jptrKhL"
       },
       "artists": [
         {
-          "name": "Poco Lee",
-          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
+          "name": "Dj Karri",
+          "url": "https://open.spotify.com/artist/4seQKbHnG8TM3jKeUvHFw1"
         },
         {
-          "name": "Hotkeed",
-          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+          "name": "Deep Saints",
+          "url": "https://open.spotify.com/artist/0lXcTk3qlOxdzoj2cGoseW"
+        },
+        {
+          "name": "Mfana Kah Gogo",
+          "url": "https://open.spotify.com/artist/0gGBj3AcYMHRa32eeikJg1"
+        },
+        {
+          "name": "Spux",
+          "url": "https://open.spotify.com/artist/0ZxrcCOIeckPgTMHT8feXG"
         }
       ],
-      "duration_ms": 162782,
-      "name": "Otilo (Izz Gone)",
-      "url": "https://open.spotify.com/track/3nTzEDC9sTD0YsC9C7osnN"
+      "duration_ms": 366573,
+      "name": "Saba Julukisa (feat. Mfana Kah Gogo & Spux)",
+      "url": "https://open.spotify.com/track/2jQx6kd1QLapry5vwk7Zb7"
     },
     {
       "added_at": "2026-03-13 00:01:25",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUmQhB7PvFH.md) - [plain]
 
 > 千禧後第一個十年，讓我們藉著旋律回味...Cover: 蔡依林 \(JOLIN\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,209 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,243 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,22 +41,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUmQhB7PvFH.md) - [plain]
 | 31 | [倒帶](https://open.spotify.com/track/4XipvtwRgtUrGb2j2l0wNG) | [JOLIN](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [城堡](https://open.spotify.com/album/6OeSMtENnJV8FpGb1eZheV) | 4:25 |
 | 32 | [三人遊](https://open.spotify.com/track/0ZkoOzNcWkxXaeWzuBFWPU) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [橙月](https://open.spotify.com/album/3uhvDy6obaVBGrYu7FGYYB) | 3:57 |
 | 33 | [勇氣](https://open.spotify.com/track/1SNF1IdMuKPDhw9HTrdcvM) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [勇氣](https://open.spotify.com/album/0zOP4pz0B5oh16UD2362sN) | 3:59 |
-| 34 | [失戀無罪](https://open.spotify.com/track/2s96YKKpfBUbQP3lJuhkfX) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [失戀無罪](https://open.spotify.com/album/7gHrAaQilQVA4XF0adabZX) | 4:06 |
-| 35 | [太聰明](https://open.spotify.com/track/4DCB1S7G6SmH9qlDpEVIzP) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T) | [吉他手](https://open.spotify.com/album/35QdFULbzmzRWMeH7bHGQR) | 4:23 |
+| 34 | [太聰明](https://open.spotify.com/track/4DCB1S7G6SmH9qlDpEVIzP) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T) | [吉他手](https://open.spotify.com/album/35QdFULbzmzRWMeH7bHGQR) | 4:23 |
+| 35 | [失戀無罪](https://open.spotify.com/track/2s96YKKpfBUbQP3lJuhkfX) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [失戀無罪](https://open.spotify.com/album/7gHrAaQilQVA4XF0adabZX) | 4:06 |
 | 36 | [流星雨](https://open.spotify.com/track/1hPNdCII2b8NOEIqwbbsdG) | [F4](https://open.spotify.com/artist/1JadFMFTjfKAVtOqbrgv0X) | [流星雨](https://open.spotify.com/album/0pjbq9vYCpLsHekvstNM0K) | 4:36 |
-| 37 | [珊瑚海](https://open.spotify.com/track/6rbZXBUHrCeh1ba03E5uaY) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Lara Liang](https://open.spotify.com/artist/4VgfrD5wuAoN428fBZNSyW) | [11月的蕭邦](https://open.spotify.com/album/7L8PtRIVYuqIeR9kXwmTek) | 4:16 |
-| 38 | [想太多](https://open.spotify.com/track/7IiSESHLOtsoEXTlXa0bjJ) | [Nicky Lee](https://open.spotify.com/artist/6DuHQk8gJbyVlhajer8IuF) | [想太多](https://open.spotify.com/album/6b73bBAKBXFOSZMti87QyE) | 3:36 |
+| 37 | [想太多](https://open.spotify.com/track/7IiSESHLOtsoEXTlXa0bjJ) | [Nicky Lee](https://open.spotify.com/artist/6DuHQk8gJbyVlhajer8IuF) | [想太多](https://open.spotify.com/album/6b73bBAKBXFOSZMti87QyE) | 3:36 |
+| 38 | [珊瑚海](https://open.spotify.com/track/6rbZXBUHrCeh1ba03E5uaY) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Lara Liang](https://open.spotify.com/artist/4VgfrD5wuAoN428fBZNSyW) | [11月的蕭邦](https://open.spotify.com/album/7L8PtRIVYuqIeR9kXwmTek) | 4:16 |
 | 39 | [Love Song](https://open.spotify.com/track/2XEtdVgbgltXfzVQppAkbi) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [未來](https://open.spotify.com/album/4y11FrvacuhutkuV9T1mlq) | 4:29 |
 | 40 | [背叛](https://open.spotify.com/track/48VzfSDNpxIfWohA9bZgfo) | [Gary Chaw](https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK) | [Superman](https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN) | 5:21 |
 | 41 | [心牆](https://open.spotify.com/track/0FjrLvldGA3kiwLBxv2PSD) | [Claire Kuo](https://open.spotify.com/artist/6OiFtK426XJWnOJ2HYlSbf) | [在樹上唱歌](https://open.spotify.com/album/7q4J2UTcJJsHlaxCWnc8ih) | 3:46 |
-| 42 | [楓](https://open.spotify.com/track/2lIb7a074DL4RLCPAaGdnu) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [11月的蕭邦](https://open.spotify.com/album/7L8PtRIVYuqIeR9kXwmTek) | 4:37 |
-| 43 | [最近](https://open.spotify.com/track/0ONg8VCxzW3CCNDxDY0DNe) | [Sam Lee](https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i) | [關於妳的歌](https://open.spotify.com/album/2VEZhEzyWxxW23wlpt9FBv) | 4:03 |
+| 42 | [最近](https://open.spotify.com/track/0ONg8VCxzW3CCNDxDY0DNe) | [Sam Lee](https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i) | [關於妳的歌](https://open.spotify.com/album/2VEZhEzyWxxW23wlpt9FBv) | 4:03 |
+| 43 | [楓](https://open.spotify.com/track/2lIb7a074DL4RLCPAaGdnu) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [11月的蕭邦](https://open.spotify.com/album/7L8PtRIVYuqIeR9kXwmTek) | 4:37 |
 | 44 | [怎樣 ?](https://open.spotify.com/track/7y3ubYh0BR6wgISiALACWQ) | [Penny Tai](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) | [怎樣](https://open.spotify.com/album/5wBnaUSaYmG7PH39bRIr1H) | 4:31 |
 | 45 | [會呼吸的痛](https://open.spotify.com/track/5IgElbSREzVyqgf1OCuKJd) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [崇拜](https://open.spotify.com/album/75wQXImqEikrSo5Uon4Pxr) | 4:32 |
 | 46 | [惡作劇](https://open.spotify.com/track/643hRiTY9vzD6P0cWO8UP3) | [Tangerine Wong](https://open.spotify.com/artist/3Njp7uhQShnPMdKarS6Vsu) | [惡作劇之吻](https://open.spotify.com/album/13JpgLyP8ZDyAtsRllAaGe) | 3:46 |
-| 47 | [七里香](https://open.spotify.com/track/2g1MHSbgxhcOEKpeWG4pZT) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/7vSaodFzUYCexkKXeEhkpc) | 4:57 |
-| 48 | [擦肩而過](https://open.spotify.com/track/484E5ggbqCUi4wYO5SMfHD) | [Sam Lee](https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i) | [收放自如](https://open.spotify.com/album/3Op0pkji5hAjXuyzOCvPP4) | 4:49 |
-| 49 | [愛 請問怎麼走](https://open.spotify.com/track/2mqHMawyHWU5B5f2wA299P) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [天生歌姬](https://open.spotify.com/album/2V5Kj9W4gcN44senRcoCAV) | 4:26 |
+| 47 | [愛 請問怎麼走](https://open.spotify.com/track/2mqHMawyHWU5B5f2wA299P) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [天生歌姬](https://open.spotify.com/album/2V5Kj9W4gcN44senRcoCAV) | 4:26 |
+| 48 | [七里香](https://open.spotify.com/track/2g1MHSbgxhcOEKpeWG4pZT) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/7vSaodFzUYCexkKXeEhkpc) | 4:57 |
+| 49 | [擦肩而過](https://open.spotify.com/track/484E5ggbqCUi4wYO5SMfHD) | [Sam Lee](https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i) | [收放自如](https://open.spotify.com/album/3Op0pkji5hAjXuyzOCvPP4) | 4:49 |
 | 50 | [思念是一種病](https://open.spotify.com/track/5JaPBs2aQjEfLwM5kVb4jq) | [Zhang Zhen Yue](https://open.spotify.com/artist/6PNEi9i2MxUgRufqYr76Xt), [蔡健雅](https://open.spotify.com/artist/2kddrh4vYO09lJ4yqu5hFv) | [OK](https://open.spotify.com/album/25kMDfOmyzEEz7xzL05tOD) | 4:15 |
 
 Snapshot ID: `AAAAAPBbewsrOlei9qsHQEdqI7knQpig`

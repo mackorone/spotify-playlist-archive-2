@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAADB4xOpImDeLOWSTa8WhbbV",
+  "snapshot_id": "ajXYAAAAAAAlD7R5pB6DwIOhYZQDG6Ls",
   "tracks": [
     {
       "added_at": null,
@@ -551,22 +551,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "semi-auto",
-        "url": "https://open.spotify.com/album/7KqYq0N1DyEOSTwJLvUxx8"
+        "name": "Coke Wave 3.5: Narcos",
+        "url": "https://open.spotify.com/album/2YUs8GbMrKBcpGF7ElDHJE"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Guadalupe Estrada",
-          "url": "https://open.spotify.com/artist/0BFINpe01okw1htOTh9Flt"
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Max B",
+          "url": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
         },
         {
           "name": "Murda Beatz",
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
         }
       ],
-      "duration_ms": 235093,
-      "name": "semi-auto",
-      "url": "https://open.spotify.com/track/5XmVB20AVnn0B1rwEVeNRW"
+      "duration_ms": 143757,
+      "name": "The Race",
+      "url": "https://open.spotify.com/track/4F2CPlyoNxK6JbeAcmZGjT"
     },
     {
       "added_at": null,
@@ -591,26 +595,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coke Wave 3.5: Narcos",
-        "url": "https://open.spotify.com/album/2YUs8GbMrKBcpGF7ElDHJE"
+        "name": "semi-auto",
+        "url": "https://open.spotify.com/album/7KqYq0N1DyEOSTwJLvUxx8"
       },
       "artists": [
         {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        },
-        {
-          "name": "Max B",
-          "url": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          "name": "Jos\u00e9 Guadalupe Estrada",
+          "url": "https://open.spotify.com/artist/0BFINpe01okw1htOTh9Flt"
         },
         {
           "name": "Murda Beatz",
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
         }
       ],
-      "duration_ms": 143757,
-      "name": "The Race",
-      "url": "https://open.spotify.com/track/4F2CPlyoNxK6JbeAcmZGjT"
+      "duration_ms": 235093,
+      "name": "semi-auto",
+      "url": "https://open.spotify.com/track/5XmVB20AVnn0B1rwEVeNRW"
     },
     {
       "added_at": null,
@@ -731,30 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fendi (feat. Nicki Minaj & Murda Beatz)",
-        "url": "https://open.spotify.com/album/00M4ecLNv6pzPmr5lheMPr"
-      },
-      "artists": [
-        {
-          "name": "PnB Rock",
-          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 180609,
-      "name": "Fendi (feat. Nicki Minaj & Murda Beatz)",
-      "url": "https://open.spotify.com/track/7H1591r6SfmZZh6BUE7Gue"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beef",
         "url": "https://open.spotify.com/album/0e7ntcb8IOMnnHqJkxihR3"
       },
@@ -775,6 +751,30 @@
       "duration_ms": 181306,
       "name": "Beef",
       "url": "https://open.spotify.com/track/01MnJO1gfqVGACFAWMXNPU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fendi (feat. Nicki Minaj & Murda Beatz)",
+        "url": "https://open.spotify.com/album/00M4ecLNv6pzPmr5lheMPr"
+      },
+      "artists": [
+        {
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 180609,
+      "name": "Fendi (feat. Nicki Minaj & Murda Beatz)",
+      "url": "https://open.spotify.com/track/7H1591r6SfmZZh6BUE7Gue"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Bluey. The essential tracks, all in one playlist.",
-  "num_followers": 51931,
+  "num_followers": 51942,
   "original_name": "This Is Bluey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAADmvge15NNSffw26AZtFHcf",
+  "snapshot_id": "ajXYAAAAAAAHJjhxT77PfMDu5itbLd1S",
   "tracks": [
     {
       "added_at": null,
@@ -38,15 +38,11 @@
         {
           "name": "Joff Bush",
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
-        },
-        {
-          "name": "Jazz D'Arcy",
-          "url": "https://open.spotify.com/artist/2LemGUdMgljx9x6YVkfLij"
         }
       ],
-      "duration_ms": 217719,
-      "name": "Rain (Instrumental)",
-      "url": "https://open.spotify.com/track/1eaZSJ0jVWmj9HKjAtl2Sf"
+      "duration_ms": 118893,
+      "name": "Dance Mode",
+      "url": "https://open.spotify.com/track/34oa5y5p5SyWk7GfjdeNJY"
     },
     {
       "added_at": null,
@@ -126,11 +122,15 @@
         {
           "name": "Joff Bush",
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+        },
+        {
+          "name": "Jazz D'Arcy",
+          "url": "https://open.spotify.com/artist/2LemGUdMgljx9x6YVkfLij"
         }
       ],
-      "duration_ms": 118893,
-      "name": "Dance Mode",
-      "url": "https://open.spotify.com/track/34oa5y5p5SyWk7GfjdeNJY"
+      "duration_ms": 217719,
+      "name": "Rain (Instrumental)",
+      "url": "https://open.spotify.com/track/1eaZSJ0jVWmj9HKjAtl2Sf"
     },
     {
       "added_at": null,
@@ -428,13 +428,13 @@
           "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
         },
         {
-          "name": "Joff Bush",
-          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+          "name": "Pluto Jonze",
+          "url": "https://open.spotify.com/artist/6DRm66ULaD9MVnfZ4TBfmF"
         }
       ],
-      "duration_ms": 202098,
-      "name": "Wagon Ride",
-      "url": "https://open.spotify.com/track/5A7NglEPKMeCu7y8AJmzAD"
+      "duration_ms": 96398,
+      "name": "Fruit Bat",
+      "url": "https://open.spotify.com/track/0LlgXONyO3DotVbK38T6oe"
     },
     {
       "added_at": null,
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 116537,
-      "name": "Tradies",
-      "url": "https://open.spotify.com/track/2559xiglYjf0N6gwkKWGeQ"
+      "duration_ms": 79483,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/7dugKt6t0REqsPlRmkV0uv"
     },
     {
       "added_at": null,

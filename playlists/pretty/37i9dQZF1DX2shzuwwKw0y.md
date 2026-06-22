@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2shzuwwKw0y.md) - [plain]
 
 > Del rancho a la ciudad, las historias que pocos se atreven a contar\. Cover: Rey Quinto, El Randall
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,446,772 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,446,642 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2shzuwwKw0y.md) - [plain]
 | 74 | [Agradecido](https://open.spotify.com/track/5RdmVGfJg5OKN8S9nrrNSs) | [Los Nuevos Rebeldes](https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr) | [AGRADECIDO](https://open.spotify.com/album/7jrXjw2GKjct5aXLxpO2Sq) | 3:26 |
 | 75 | [El Baúl de los Recuerdos](https://open.spotify.com/track/3bcmJ3VFuTKnbU5RI6TGZG) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0), [Hector Vargas](https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq) | [El Baúl de los Recuerdos](https://open.spotify.com/album/4DoWUEZAatO4tRbglVpY0i) | 2:40 |
 
-Snapshot ID: `AAAAAAZWJ2TnbjvBqnibYtDEkU1uOIqI`
+Snapshot ID: `AAAAAAIjRtPrPpYlh7mZmtRmtlunX2aF`

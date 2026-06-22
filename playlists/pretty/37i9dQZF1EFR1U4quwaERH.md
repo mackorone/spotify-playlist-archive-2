@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 33 | [Your Hand Is Safe in Mine](https://open.spotify.com/track/3YJebXo5hYFcEhnSvuzUQQ) | [Blush](https://open.spotify.com/artist/31rc0iQFBQBf1PcS7L3wIN) | [Your Hand Is Safe in Mine](https://open.spotify.com/album/3s549VD9aZNQwdlXlfDZOh) | 3:36 |
 | 34 | [Feel Alright](https://open.spotify.com/track/3GjEM7WIYqIFrnjGpPlWl6) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [trying not to think about it](https://open.spotify.com/album/3pqGPovRqsz0IYfWsfR5CL) | 2:55 |
 | 35 | [Sugar Daddy](https://open.spotify.com/track/66w94M418mHrEEdDfKn5ob) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/5ukER8Gzjr4CPSwN8fwykc) | 3:38 |
-| 36 | [You \(feat\. Teyana Taylor\)](https://open.spotify.com/track/1oTztL8s8W0RsJhzKpfhuI) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [DIME TRAP](https://open.spotify.com/album/6BLPwtPvpmqKHp2pFfpSIT) | 3:50 |
-| 37 | [Submarine](https://open.spotify.com/track/6Nw4uTLUORRN3dKssrLYu5) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Free](https://open.spotify.com/album/2GD42iPt0jtcudvlMksV1d) | 3:57 |
-| 38 | [Too Easy](https://open.spotify.com/track/1gDfAiHvXdPXlUlaWcfxNS) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Too Easy](https://open.spotify.com/album/69KTB2HVrTKtY8eIPLcHTc) | 1:54 |
+| 36 | [Too Easy](https://open.spotify.com/track/1gDfAiHvXdPXlUlaWcfxNS) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Too Easy](https://open.spotify.com/album/69KTB2HVrTKtY8eIPLcHTc) | 1:54 |
+| 37 | [You \(feat\. Teyana Taylor\)](https://open.spotify.com/track/1oTztL8s8W0RsJhzKpfhuI) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [DIME TRAP](https://open.spotify.com/album/6BLPwtPvpmqKHp2pFfpSIT) | 3:50 |
+| 38 | [Submarine](https://open.spotify.com/track/6Nw4uTLUORRN3dKssrLYu5) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Free](https://open.spotify.com/album/2GD42iPt0jtcudvlMksV1d) | 3:57 |
 | 39 | [Better Days](https://open.spotify.com/track/7qB7rGGpRoy8tw9K8tN4k0) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Better Days](https://open.spotify.com/album/1rACb8oIp38Dld8SD1glZ1) | 3:22 |
 | 40 | [Miss That](https://open.spotify.com/track/32C7nsEacy74cB3tlJQCaE) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Miss That](https://open.spotify.com/album/2BOViTOt2OUGdjGWpjT8t9) | 2:56 |
 | 41 | [Past Life](https://open.spotify.com/track/6X5XfDaweonx5mIQHZiHNB) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Free](https://open.spotify.com/album/2GD42iPt0jtcudvlMksV1d) | 2:29 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 93 | [WADE](https://open.spotify.com/track/4oZRhm2x62qN6prKI3S4fO) | [Parker Phillips](https://open.spotify.com/artist/4G4U0Pmtl0I2JKqI7uvsJw) | [AWAKENING](https://open.spotify.com/album/4xblTWNkBQJQQF9l5p9suu) | 2:46 |
 | 94 | [Fire](https://open.spotify.com/track/3Ic9ajFl2aBmmQFXQus3Ed) | [Hawk Love](https://open.spotify.com/artist/3mNH3Eq13YnMTwo8vWwwTR) | [Fire](https://open.spotify.com/album/1h88EmeUgoP9Yjpdhz60Jh) | 4:16 |
 
-Snapshot ID: `AcUwpAAAAACtnSa2jW85lTYxtpXxJQmN`
+Snapshot ID: `AcU2RAAAAAC79FStjTpO9W12DGoyQZCX`

@@ -1,12 +1,12 @@
 {
   "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
-  "num_followers": 244225,
+  "num_followers": 244237,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAACKeAw68bXQ3ikGhNy6B+9k",
+  "snapshot_id": "ajXYAAAAAAB/INOhevhqIvYPGdKpDcbe",
   "tracks": [
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si",
-        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 182333,
-      "name": "Mala Memoria",
-      "url": "https://open.spotify.com/track/1etbG9pmtMYEZwlRItSbv0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Momentos",
         "url": "https://open.spotify.com/album/7L5G2yWZKE08abmnCUvW49"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 209000,
       "name": "Te Vi",
       "url": "https://open.spotify.com/track/3JBFUsZatpE435Y8ejP7RZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si",
+        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 182333,
+      "name": "Mala Memoria",
+      "url": "https://open.spotify.com/track/1etbG9pmtMYEZwlRItSbv0"
     },
     {
       "added_at": null,

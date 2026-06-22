@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 
 > The best from Britain's vibrant scene\. Cover: Yazmin Lacey
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,926 likes - 75 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,936 likes - 75 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,10 +49,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 | 39 | [Good Intentions](https://open.spotify.com/track/6QtcGEyLF3SPMoR8i5bsKI) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6), [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Good Intentions](https://open.spotify.com/album/7KZbPMVX1MIgaamombQinf) | 3:14 |
 | 40 | [ViewFinder: Nature's Ratio](https://open.spotify.com/track/7CvlfDGNYSirNXQI9aV11Z) | [Slowly Rolling Camera](https://open.spotify.com/artist/5kH36nIamlV0iSe6ESDWvb) | [ViewFinder: Nature's Ratio](https://open.spotify.com/album/4WvSDAVLsjAR09nHgoEZSS) | 3:06 |
 | 41 | [Agave Flute](https://open.spotify.com/track/0QFqGiwrunHgwpflzQhgmQ) | [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [Wu Wei](https://open.spotify.com/album/6vpHWq7UHPBQ5ohdU31VnM) | 1:36 |
-| 42 | [Azimuth](https://open.spotify.com/track/0IbfVp3NAjPFW5NpA9e2I3) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [eniola](https://open.spotify.com/artist/5EsMaB2W2psSvdrcbWkhDY) | [Azimuth](https://open.spotify.com/album/7ICY4AzOwrAx2WkPYZmSrA) | 4:26 |
-| 43 | [It Could Be](https://open.spotify.com/track/65k36tJQgts8gqSMnWx47m) | [Amanda Whiting](https://open.spotify.com/artist/6PGBkPJLeNHQQTM3wvlVv5) | [Can You See Me Now?](https://open.spotify.com/album/4NuVAezhA18lt3V9wG75qs) | 3:17 |
+| 42 | [Encontrei Amor](https://open.spotify.com/track/1kU5bxz2l6h5DyJxRYfXlP) | [Moyses Dos Santos](https://open.spotify.com/artist/5AehyVi8jNZTAFdqaXhFke) | [Maria](https://open.spotify.com/album/7weQeRcIfkf3UBbZiwUyOj) | 3:40 |
+| 43 | [Azimuth](https://open.spotify.com/track/0IbfVp3NAjPFW5NpA9e2I3) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [eniola](https://open.spotify.com/artist/5EsMaB2W2psSvdrcbWkhDY) | [Azimuth](https://open.spotify.com/album/7ICY4AzOwrAx2WkPYZmSrA) | 4:26 |
 | 44 | [What We Do](https://open.spotify.com/track/4oMAEqrhyRwGL1d2iLTVxU) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [What We Do](https://open.spotify.com/album/5PvZJH5xtKDchKS7viqgov) | 3:19 |
-| 45 | [Encontrei Amor](https://open.spotify.com/track/1kU5bxz2l6h5DyJxRYfXlP) | [Moyses Dos Santos](https://open.spotify.com/artist/5AehyVi8jNZTAFdqaXhFke) | [Maria](https://open.spotify.com/album/7weQeRcIfkf3UBbZiwUyOj) | 3:40 |
+| 45 | [It Could Be](https://open.spotify.com/track/65k36tJQgts8gqSMnWx47m) | [Amanda Whiting](https://open.spotify.com/artist/6PGBkPJLeNHQQTM3wvlVv5) | [Can You See Me Now?](https://open.spotify.com/album/4NuVAezhA18lt3V9wG75qs) | 3:17 |
 | 46 | [Pink](https://open.spotify.com/track/3q1uWf6BulnqldbYrDJ45U) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Pink](https://open.spotify.com/album/0utv7DeJSHoEHBYu0kol5R) | 3:18 |
 | 47 | [K2 Central](https://open.spotify.com/track/2RQMFM55u8M21CQa3M0OzW) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [K2 Central](https://open.spotify.com/album/0mrnKzGjUoAi1tfCgsH45i) | 4:24 |
 | 48 | [I Have A God \(feat\. Zara McFarlane\) \(Live at the Royal Albert Hall\)](https://open.spotify.com/track/379elayI3tNRn65G2gghlN) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Zara McFarlane](https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo) | [Chapter 7 \(10th Anniversary Edition\)](https://open.spotify.com/album/0TdADwn8RBoyHpXlumCfgk) | 3:57 |
@@ -74,11 +74,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 | 64 | [Reflections](https://open.spotify.com/track/6EiddSbc6b4quXfQvrVND1) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [Reflections](https://open.spotify.com/album/6pM6v4BqKK85SuyZHwxHwM) | 3:34 |
 | 65 | [Never Let Me Go](https://open.spotify.com/track/1iz5M5tGpcwW1jfNCIdIa5) | [Tar Blanche](https://open.spotify.com/artist/7bEipnF8YKYRRIga66A6Xl) | [Never Let Me Go](https://open.spotify.com/album/4pU5Fe1cVJLRj8BqDyRSJx) | 3:51 |
 | 66 | [nights in london](https://open.spotify.com/track/6rBOW3WmUDtVUFiQ8vKna0) | [David Kofi](https://open.spotify.com/artist/3FHJmeMHKSUj0t9cegVyx5) | [nights in london](https://open.spotify.com/album/2eA7p15qjmRVrjbsDMZTOz) | 3:39 |
-| 67 | [balance](https://open.spotify.com/track/1UbFmeNiUpZUvVuLq2j8nu) | [cktrl](https://open.spotify.com/artist/2eO4klJg324zroGqnBkqk3) | [balance](https://open.spotify.com/album/5JXZK9UfkbChAMN0zyKmtk) | 2:54 |
+| 67 | [Circles](https://open.spotify.com/track/1Y564qo4Kb0LvGnbTqKbk7) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Circles](https://open.spotify.com/album/67FCh7PYKRuKlp8TrjK7Zu) | 2:35 |
 | 68 | [Higher Spirit](https://open.spotify.com/track/0DNIOOSHcqdZLe9v1DlZCq) | [Sol Paradise](https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII) | [Higher Spirit](https://open.spotify.com/album/79QWCx9INcnPfwoR2qRKPL) | 4:06 |
-| 69 | [Circles](https://open.spotify.com/track/1Y564qo4Kb0LvGnbTqKbk7) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Circles](https://open.spotify.com/album/67FCh7PYKRuKlp8TrjK7Zu) | 2:35 |
-| 70 | [who knows](https://open.spotify.com/track/10jrV3ZR7tDBoKTCkAVaDw) | [Amy Gadiaga](https://open.spotify.com/artist/0dxlAHVTQOgD6ZRwSeit7x) | [who knows](https://open.spotify.com/album/38hhGCLfuJZOmU0cnDrsRB) | 3:09 |
-| 71 | [Set Me Free](https://open.spotify.com/track/1DQsGVDlFvJHcUyeCfc2DZ) | [Sâlo](https://open.spotify.com/artist/1Jxb2XyHKir8W0oZrdsCpN) | [Set Me Free](https://open.spotify.com/album/64xz5R9yEJV1yziSyN4OH5) | 4:16 |
+| 69 | [balance](https://open.spotify.com/track/1UbFmeNiUpZUvVuLq2j8nu) | [cktrl](https://open.spotify.com/artist/2eO4klJg324zroGqnBkqk3) | [balance](https://open.spotify.com/album/5JXZK9UfkbChAMN0zyKmtk) | 2:54 |
+| 70 | [Set Me Free](https://open.spotify.com/track/1DQsGVDlFvJHcUyeCfc2DZ) | [Sâlo](https://open.spotify.com/artist/1Jxb2XyHKir8W0oZrdsCpN) | [Set Me Free](https://open.spotify.com/album/64xz5R9yEJV1yziSyN4OH5) | 4:16 |
+| 71 | [who knows](https://open.spotify.com/track/10jrV3ZR7tDBoKTCkAVaDw) | [Amy Gadiaga](https://open.spotify.com/artist/0dxlAHVTQOgD6ZRwSeit7x) | [who knows](https://open.spotify.com/album/38hhGCLfuJZOmU0cnDrsRB) | 3:09 |
 | 72 | [9 Months](https://open.spotify.com/track/5ytyIX649Ky20J20yVJUbh) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Avoid The Drones & 9 Months](https://open.spotify.com/album/48h66y6JPTB4ie6wMDl9Lc) | 3:34 |
 | 73 | [ISA](https://open.spotify.com/track/5MHpJS8FDkSleGcV6Lk0Dz) | [Cooks But We're Chefs](https://open.spotify.com/artist/2Q9PBFjIjNgm7N5tyL0Z83) | [ISA](https://open.spotify.com/album/3AYOE4y7iEVsvUPo4T0KXF) | 3:48 |
 | 74 | [Smiley](https://open.spotify.com/track/3bVzCiIlDQHRj6AceYv5IQ) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [birty](https://open.spotify.com/artist/4p81Kbhx0mkop7JXpKoqlA) | [Smiley](https://open.spotify.com/album/4qrWD7B7c7y3sUACC1VPwD) | 2:34 |

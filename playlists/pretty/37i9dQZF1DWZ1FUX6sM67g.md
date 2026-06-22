@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1FUX6sM67g.md) - [plain]
 
 > ¡En este punto tropical, se encuentra un poco de todo! Foto: Jay Wheeler
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,382 likes - 65 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,384 likes - 65 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1FUX6sM67g.md) - [plain]
 | 64 | [Bailando Bachata](https://open.spotify.com/track/0wJTU840o7lLDqWumgyf33) | [Napoles](https://open.spotify.com/artist/4mqcM1hVacykEmQIB0aJvO), [MAYKEL](https://open.spotify.com/artist/7Gd7D8evygezZAFemifKMC) | [Bailando Bachata](https://open.spotify.com/album/29fbzUtbrxI4VBEcH5odVx) | 3:43 |
 | 65 | [De Vuelta Pa' La Vuelta](https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [De Vuelta Pa' La Vuelta](https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc) | 3:51 |
 
-Snapshot ID: `AAAAAFfK6Nb9w/WaBDR43nVycVQp/OSI`
+Snapshot ID: `AAAAABUTXQG/zKg/xIr8Snch4Qhnt/2r`

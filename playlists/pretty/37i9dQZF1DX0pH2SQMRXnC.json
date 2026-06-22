@@ -1,6 +1,6 @@
 {
   "description": "Takeover by Defqon.1! The first 30 tracks picked by Defqon.1 \ud83d\udd25\ud83e\udde8",
-  "num_followers": 1547825,
+  "num_followers": 1548173,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
@@ -947,26 +947,6 @@
     {
       "added_at": "2026-06-20 16:52:37",
       "album": {
-        "name": "Darkest Hour (The Clock)",
-        "url": "https://open.spotify.com/album/4eI1N5KbjJ5j4Mfa8yZPhM"
-      },
-      "artists": [
-        {
-          "name": "D-Block & S-te-Fan",
-          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
-        },
-        {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
-        }
-      ],
-      "duration_ms": 241600,
-      "name": "Darkest Hour (The Clock)",
-      "url": "https://open.spotify.com/track/5DWoPJxISs9VMRCJBzujB6"
-    },
-    {
-      "added_at": "2026-06-20 16:52:37",
-      "album": {
         "name": "Don't Stop Believin' (Felix Harrer Remix)",
         "url": "https://open.spotify.com/album/5hvmoQj2imO3EQBwVaK3gN"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 207061,
       "name": "Don't Stop Believin' - Felix Harrer Remix",
       "url": "https://open.spotify.com/track/1RQAXREowlYVIu5T7t5cQb"
+    },
+    {
+      "added_at": "2026-06-20 16:52:37",
+      "album": {
+        "name": "Darkest Hour (The Clock)",
+        "url": "https://open.spotify.com/album/4eI1N5KbjJ5j4Mfa8yZPhM"
+      },
+      "artists": [
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        },
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "duration_ms": 241600,
+      "name": "Darkest Hour (The Clock)",
+      "url": "https://open.spotify.com/track/5DWoPJxISs9VMRCJBzujB6"
     },
     {
       "added_at": "2026-06-20 16:52:37",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2026-06-20 16:52:37",
       "album": {
+        "name": "Outro",
+        "url": "https://open.spotify.com/album/3pUJwPC75JQzqq76qQdIUA"
+      },
+      "artists": [
+        {
+          "name": "The Saints",
+          "url": "https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc"
+        }
+      ],
+      "duration_ms": 144814,
+      "name": "Outro",
+      "url": "https://open.spotify.com/track/4zmRv5Br7ZFMAUHeqiPQ8R"
+    },
+    {
+      "added_at": "2026-06-20 16:52:37",
+      "album": {
         "name": "STOP CRYING",
         "url": "https://open.spotify.com/album/3qws9ZZxPn9JAP1yfBWm0H"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 139687,
       "name": "STOP CRYING",
       "url": "https://open.spotify.com/track/5LwiInzkZr3SqDmfE0eWWb"
-    },
-    {
-      "added_at": "2026-06-20 16:52:37",
-      "album": {
-        "name": "Outro",
-        "url": "https://open.spotify.com/album/3pUJwPC75JQzqq76qQdIUA"
-      },
-      "artists": [
-        {
-          "name": "The Saints",
-          "url": "https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc"
-        }
-      ],
-      "duration_ms": 144814,
-      "name": "Outro",
-      "url": "https://open.spotify.com/track/4zmRv5Br7ZFMAUHeqiPQ8R"
     },
     {
       "added_at": "2026-06-20 16:52:37",
@@ -1447,6 +1447,30 @@
     {
       "added_at": "2026-06-20 16:52:37",
       "album": {
+        "name": "Free (feat. Starsplash)",
+        "url": "https://open.spotify.com/album/3g4YQYRWn89pIIAGhRIqNf"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Charly Lownoise",
+          "url": "https://open.spotify.com/artist/29NIIAIq5CRkVuzkggpS0W"
+        },
+        {
+          "name": "Starsplash",
+          "url": "https://open.spotify.com/artist/36QdWK7j3cN0UIPyrB6TIz"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Free (feat. Starsplash)",
+      "url": "https://open.spotify.com/track/1Juo1H8h7Gbg4m0d9qOdxq"
+    },
+    {
+      "added_at": "2026-06-20 16:52:37",
+      "album": {
         "name": "What's A Girl To Do (D-Sturb Remix)",
         "url": "https://open.spotify.com/album/063SgdTBY7dISc60RthdwY"
       },
@@ -1483,30 +1507,6 @@
       "duration_ms": 181503,
       "name": "Filthy Rave",
       "url": "https://open.spotify.com/track/4JaRupx6zn14ogukDrpDBT"
-    },
-    {
-      "added_at": "2026-06-20 16:52:37",
-      "album": {
-        "name": "Free (feat. Starsplash)",
-        "url": "https://open.spotify.com/album/3g4YQYRWn89pIIAGhRIqNf"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "Charly Lownoise",
-          "url": "https://open.spotify.com/artist/29NIIAIq5CRkVuzkggpS0W"
-        },
-        {
-          "name": "Starsplash",
-          "url": "https://open.spotify.com/artist/36QdWK7j3cN0UIPyrB6TIz"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Free (feat. Starsplash)",
-      "url": "https://open.spotify.com/track/1Juo1H8h7Gbg4m0d9qOdxq"
     },
     {
       "added_at": "2026-06-20 16:52:37",
@@ -1635,18 +1635,26 @@
     {
       "added_at": "2026-06-20 16:52:37",
       "album": {
-        "name": "The Next Dimension (APEX 2026 OST)",
-        "url": "https://open.spotify.com/album/5bduYz1o0snS4jo4ZvoPOZ"
+        "name": "Miss You (Remix)",
+        "url": "https://open.spotify.com/album/2O54fayUeFzRLbPOrndaFy"
       },
       "artists": [
         {
-          "name": "D-Block & S-te-Fan",
-          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Yosuf",
+          "url": "https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg"
+        },
+        {
+          "name": "Dionysus",
+          "url": "https://open.spotify.com/artist/7olPZFkqjZyoBY6Jxase3b"
         }
       ],
-      "duration_ms": 230355,
-      "name": "The Next Dimension - APEX 2026 OST",
-      "url": "https://open.spotify.com/track/4GtxTKlRiO3Hr7t3bWpdtT"
+      "duration_ms": 171034,
+      "name": "Miss You - Remix",
+      "url": "https://open.spotify.com/track/10seI1aWbosvrnlA9Cidhc"
     },
     {
       "added_at": "2026-06-20 16:52:37",
@@ -1671,26 +1679,18 @@
     {
       "added_at": "2026-06-20 16:52:37",
       "album": {
-        "name": "Miss You (Remix)",
-        "url": "https://open.spotify.com/album/2O54fayUeFzRLbPOrndaFy"
+        "name": "The Next Dimension (APEX 2026 OST)",
+        "url": "https://open.spotify.com/album/5bduYz1o0snS4jo4ZvoPOZ"
       },
       "artists": [
         {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        },
-        {
-          "name": "Yosuf",
-          "url": "https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg"
-        },
-        {
-          "name": "Dionysus",
-          "url": "https://open.spotify.com/artist/7olPZFkqjZyoBY6Jxase3b"
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
         }
       ],
-      "duration_ms": 171034,
-      "name": "Miss You - Remix",
-      "url": "https://open.spotify.com/track/10seI1aWbosvrnlA9Cidhc"
+      "duration_ms": 230355,
+      "name": "The Next Dimension - APEX 2026 OST",
+      "url": "https://open.spotify.com/track/4GtxTKlRiO3Hr7t3bWpdtT"
     },
     {
       "added_at": "2026-06-20 16:52:37",
@@ -1983,6 +1983,26 @@
     {
       "added_at": "2026-06-20 16:52:37",
       "album": {
+        "name": "FEELIN' HIGH",
+        "url": "https://open.spotify.com/album/54hbMGZhiGSoP7IwCoJN3U"
+      },
+      "artists": [
+        {
+          "name": "Krowdexx",
+          "url": "https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb"
+        },
+        {
+          "name": "Mish",
+          "url": "https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b"
+        }
+      ],
+      "duration_ms": 186750,
+      "name": "FEELIN' HIGH",
+      "url": "https://open.spotify.com/track/5WeFchK0FRpzVv9Z3c6ulH"
+    },
+    {
+      "added_at": "2026-06-20 16:52:37",
+      "album": {
         "name": "Wake Me Up",
         "url": "https://open.spotify.com/album/5uz4VdtMGQ93JoMkc8Ezij"
       },
@@ -1999,30 +2019,6 @@
       "duration_ms": 179600,
       "name": "Wake Me Up - Hardstyle Mix",
       "url": "https://open.spotify.com/track/1H0GKvORF2YiLS6O2pr433"
-    },
-    {
-      "added_at": "2026-06-20 16:52:37",
-      "album": {
-        "name": "DON'T SLEEP",
-        "url": "https://open.spotify.com/album/1d5RbutxubP725Rv34RP9X"
-      },
-      "artists": [
-        {
-          "name": "Slaughterhouse",
-          "url": "https://open.spotify.com/artist/5xIrxXqP6GhNa8AX6wYSV9"
-        },
-        {
-          "name": "N-Vitral",
-          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
-        },
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
-        }
-      ],
-      "duration_ms": 116250,
-      "name": "DON'T SLEEP",
-      "url": "https://open.spotify.com/track/2ftrEmzMbleD2rMmAAI6vh"
     }
   ],
   "unique_name": "Hardstyle Bangers",

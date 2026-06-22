@@ -1,6 +1,6 @@
 {
   "description": "Songs to celebrate the life, death, and resurrection of our Lord Jesus all in one collection.",
-  "num_followers": 87709,
+  "num_followers": 87707,
   "original_name": "Easter",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 228600,
-      "name": "Believe For It",
-      "url": "https://open.spotify.com/track/0fukHGuIvc2NQEFCkI2owi"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "Christ Be Magnified",
         "url": "https://open.spotify.com/album/1P4lxsRozxtjbdaOdvkbUP"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 302011,
       "name": "Christ Be Magnified",
       "url": "https://open.spotify.com/track/0WfYGGL9NugwFZPWKLdz4N"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 228600,
+      "name": "Believe For It",
+      "url": "https://open.spotify.com/track/0fukHGuIvc2NQEFCkI2owi"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
+        "name": "Call on Your Name",
+        "url": "https://open.spotify.com/album/1eW4OSXW82QK5ckhxZriYQ"
+      },
+      "artists": [
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "duration_ms": 309173,
+      "name": "Call on Your Name",
+      "url": "https://open.spotify.com/track/11uopkJGlq3ur9GZIeI7qE"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
         "name": "Unstoppable",
         "url": "https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 292953,
       "name": "Speak the Name (feat. Natalie Grant)",
       "url": "https://open.spotify.com/track/6ERUhKp4ECxlnmJvKQZpu1"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
-        "name": "Call on Your Name",
-        "url": "https://open.spotify.com/album/1eW4OSXW82QK5ckhxZriYQ"
-      },
-      "artists": [
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
-        }
-      ],
-      "duration_ms": 309173,
-      "name": "Call on Your Name",
-      "url": "https://open.spotify.com/track/11uopkJGlq3ur9GZIeI7qE"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "At The Cross",
-        "url": "https://open.spotify.com/album/6NtgqCI8NjtEVO9BXR61ZE"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 219729,
-      "name": "At The Cross",
-      "url": "https://open.spotify.com/track/2I7FJ9UTsIQebKUOSDM2AN"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "SUNDAY IS COMING \u2022 HOMETOWN VERSION",
         "url": "https://open.spotify.com/album/71MC6JQBQ9JJsR75heLhzp"
       },
@@ -1683,18 +1667,18 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "For the Beauty of the Earth",
-        "url": "https://open.spotify.com/album/3zFVqqj3rngtfLw7tN70Wl"
+        "name": "At The Cross",
+        "url": "https://open.spotify.com/album/6NtgqCI8NjtEVO9BXR61ZE"
       },
       "artists": [
         {
-          "name": "Sarah Kroger",
-          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 262643,
-      "name": "For the Beauty of the Earth",
-      "url": "https://open.spotify.com/track/4v9XGXfQL8iB9C0qjZDp8P"
+      "duration_ms": 219729,
+      "name": "At The Cross",
+      "url": "https://open.spotify.com/track/2I7FJ9UTsIQebKUOSDM2AN"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -1711,6 +1695,22 @@
       "duration_ms": 334333,
       "name": "Mercy - Live",
       "url": "https://open.spotify.com/track/51JInjgtwBlZekJ0oywMOW"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "For the Beauty of the Earth",
+        "url": "https://open.spotify.com/album/3zFVqqj3rngtfLw7tN70Wl"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kroger",
+          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
+        }
+      ],
+      "duration_ms": 262643,
+      "name": "For the Beauty of the Earth",
+      "url": "https://open.spotify.com/track/4v9XGXfQL8iB9C0qjZDp8P"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -2091,26 +2091,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "Jesus Is My Healer (Live)",
-        "url": "https://open.spotify.com/album/5gYrM3yx6RMB7Wk16bwdLh"
-      },
-      "artists": [
-        {
-          "name": "Gateway Worship",
-          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
-        },
-        {
-          "name": "Jessie Harris",
-          "url": "https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA"
-        }
-      ],
-      "duration_ms": 380865,
-      "name": "Jesus Is My Healer - Live",
-      "url": "https://open.spotify.com/track/4h3gmTsm5moWm9j3NNx0Gp"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "Let It Echo (Live)",
         "url": "https://open.spotify.com/album/6UUG6SxdjbHC8ALwmKS1HO"
       },
@@ -2127,6 +2107,26 @@
       "duration_ms": 328173,
       "name": "Power In The Cross - Live",
       "url": "https://open.spotify.com/track/3blTwlIOG5KrXP7UnxFTzT"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "Jesus Is My Healer (Live)",
+        "url": "https://open.spotify.com/album/5gYrM3yx6RMB7Wk16bwdLh"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+        },
+        {
+          "name": "Jessie Harris",
+          "url": "https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA"
+        }
+      ],
+      "duration_ms": 380865,
+      "name": "Jesus Is My Healer - Live",
+      "url": "https://open.spotify.com/track/4h3gmTsm5moWm9j3NNx0Gp"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "hallelujah",
-        "url": "https://open.spotify.com/album/0igxQaN8iQNIwDvZBSKKRA"
-      },
-      "artists": [
-        {
-          "name": "Matt Crocker",
-          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
-        }
-      ],
-      "duration_ms": 328607,
-      "name": "hallelujah",
-      "url": "https://open.spotify.com/track/7jwDkuFY3aHdVo42eesrnI"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "The Cross Has The Final Word",
         "url": "https://open.spotify.com/album/43PHsVjv7xGRZNbD9TGha6"
       },
@@ -2311,6 +2295,22 @@
       "duration_ms": 252964,
       "name": "The Cross Has The Final Word",
       "url": "https://open.spotify.com/track/5vqBJKU4U3OLvm2anticiy"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "hallelujah",
+        "url": "https://open.spotify.com/album/0igxQaN8iQNIwDvZBSKKRA"
+      },
+      "artists": [
+        {
+          "name": "Matt Crocker",
+          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
+        }
+      ],
+      "duration_ms": 328607,
+      "name": "hallelujah",
+      "url": "https://open.spotify.com/track/7jwDkuFY3aHdVo42eesrnI"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -2355,22 +2355,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "Crown Him With Many Crowns",
-        "url": "https://open.spotify.com/album/1sMZWJzCiTL5NpONUbg6LU"
-      },
-      "artists": [
-        {
-          "name": "Nathan Drake",
-          "url": "https://open.spotify.com/artist/6GqRs6YKqlKv8nlGAAnKwr"
-        }
-      ],
-      "duration_ms": 254479,
-      "name": "Crown Him With Many Crowns",
-      "url": "https://open.spotify.com/track/0h6plgwOJE1u4kcm7eh0hd"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "Still My Little Boy",
         "url": "https://open.spotify.com/album/0s00dylb9jlVwZOct1rief"
       },
@@ -2387,6 +2371,22 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
+        "name": "Crown Him With Many Crowns",
+        "url": "https://open.spotify.com/album/1sMZWJzCiTL5NpONUbg6LU"
+      },
+      "artists": [
+        {
+          "name": "Nathan Drake",
+          "url": "https://open.spotify.com/artist/6GqRs6YKqlKv8nlGAAnKwr"
+        }
+      ],
+      "duration_ms": 254479,
+      "name": "Crown Him With Many Crowns",
+      "url": "https://open.spotify.com/track/0h6plgwOJE1u4kcm7eh0hd"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
         "name": "RESURRECTION HERE",
         "url": "https://open.spotify.com/album/4QfZ0A7R1ciDP8ZucNZYfb"
       },
@@ -2399,22 +2399,6 @@
       "duration_ms": 256892,
       "name": "RESURRECTION HERE",
       "url": "https://open.spotify.com/track/4vdHySGP8UmHbkf4JXqhUB"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
-        "name": "The Crucifixion of Jesus",
-        "url": "https://open.spotify.com/album/34fmXMkIlFqWXAe5vqBQZq"
-      },
-      "artists": [
-        {
-          "name": "Fernando Ortega",
-          "url": "https://open.spotify.com/artist/6mGZXaZ4SWNh6IsJ57thCp"
-        }
-      ],
-      "duration_ms": 261573,
-      "name": "Stay With Me Here",
-      "url": "https://open.spotify.com/track/74Xfijo7ERntrhBdgLsicn"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -2455,22 +2439,18 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "We Shall Behold Him/Behold The Lamb",
-        "url": "https://open.spotify.com/album/6CpNgIYmLAgZmvgPoynCzg"
+        "name": "The Crucifixion of Jesus",
+        "url": "https://open.spotify.com/album/34fmXMkIlFqWXAe5vqBQZq"
       },
       "artists": [
         {
-          "name": "Selah",
-          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
-        },
-        {
-          "name": "Autumn Nelon",
-          "url": "https://open.spotify.com/artist/5BaM4PGPMYNtU2rH2LHgTe"
+          "name": "Fernando Ortega",
+          "url": "https://open.spotify.com/artist/6mGZXaZ4SWNh6IsJ57thCp"
         }
       ],
-      "duration_ms": 480240,
-      "name": "We Shall Behold Him/Behold The Lamb",
-      "url": "https://open.spotify.com/track/7mINdftFHnJOOO2ur4ZFzS"
+      "duration_ms": 261573,
+      "name": "Stay With Me Here",
+      "url": "https://open.spotify.com/track/74Xfijo7ERntrhBdgLsicn"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -2503,6 +2483,26 @@
       "duration_ms": 357404,
       "name": "Just The Cross",
       "url": "https://open.spotify.com/track/37dWqUi7xIJ4HH4dsgxDDh"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "We Shall Behold Him/Behold The Lamb",
+        "url": "https://open.spotify.com/album/6CpNgIYmLAgZmvgPoynCzg"
+      },
+      "artists": [
+        {
+          "name": "Selah",
+          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+        },
+        {
+          "name": "Autumn Nelon",
+          "url": "https://open.spotify.com/artist/5BaM4PGPMYNtU2rH2LHgTe"
+        }
+      ],
+      "duration_ms": 480240,
+      "name": "We Shall Behold Him/Behold The Lamb",
+      "url": "https://open.spotify.com/track/7mINdftFHnJOOO2ur4ZFzS"
     },
     {
       "added_at": "2026-04-04 06:04:53",

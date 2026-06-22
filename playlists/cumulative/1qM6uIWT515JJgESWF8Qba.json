@@ -3999,6 +3999,24 @@
     },
     {
       "album": {
+        "name": "Memory Tattoos",
+        "url": "https://open.spotify.com/album/225MfCZIbTNTA5m9tOollK"
+      },
+      "artists": [
+        {
+          "name": "Bad Valentines",
+          "url": "https://open.spotify.com/artist/3xVdUhudpYUp6NH3Pim0sd"
+        }
+      ],
+      "date_added": "2026-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230811,
+      "name": "Summer Ends In June",
+      "url": "https://open.spotify.com/track/0sJKhlWsiYhYDR8KEcC7Zn"
+    },
+    {
+      "album": {
         "name": "Songs For The Eternity.",
         "url": "https://open.spotify.com/album/08sRFB6te5DGLlvBj1IYdY"
       },

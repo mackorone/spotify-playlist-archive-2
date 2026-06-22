@@ -1,6 +1,6 @@
 {
   "description": "Caf\u00e9 caliente, sill\u00f3n blandito y la mejor lectura o compa\u00f1\u00eda.",
-  "num_followers": 821476,
+  "num_followers": 821398,
   "original_name": "Caf\u00e9, Libros.",
   "owner": {
     "name": "Spotify",
@@ -223,18 +223,22 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "When I'm Alone: The Piano Retrospective",
-        "url": "https://open.spotify.com/album/1PUJhxsAbBe5UhYjxNbrYA"
+        "name": "We Found Love",
+        "url": "https://open.spotify.com/album/5RoKyeuJi66yRI4qjIXbpO"
       },
       "artists": [
         {
-          "name": "Lissie",
-          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
+          "name": "Michael Shynes",
+          "url": "https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3"
+        },
+        {
+          "name": "Maygen Lacey",
+          "url": "https://open.spotify.com/artist/6kByJTQTwVZUeJ2vOmHxK5"
         }
       ],
-      "duration_ms": 274992,
-      "name": "Dreams - Piano Version",
-      "url": "https://open.spotify.com/track/7lcUx8bgiwGEn0BHNo3O31"
+      "duration_ms": 173065,
+      "name": "We Found Love",
+      "url": "https://open.spotify.com/track/7ggLvZ7Ot5bfayAva458kA"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -259,22 +263,18 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "We Found Love",
-        "url": "https://open.spotify.com/album/5RoKyeuJi66yRI4qjIXbpO"
+        "name": "When I'm Alone: The Piano Retrospective",
+        "url": "https://open.spotify.com/album/1PUJhxsAbBe5UhYjxNbrYA"
       },
       "artists": [
         {
-          "name": "Michael Shynes",
-          "url": "https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3"
-        },
-        {
-          "name": "Maygen Lacey",
-          "url": "https://open.spotify.com/artist/6kByJTQTwVZUeJ2vOmHxK5"
+          "name": "Lissie",
+          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
         }
       ],
-      "duration_ms": 173065,
-      "name": "We Found Love",
-      "url": "https://open.spotify.com/track/7ggLvZ7Ot5bfayAva458kA"
+      "duration_ms": 274992,
+      "name": "Dreams - Piano Version",
+      "url": "https://open.spotify.com/track/7lcUx8bgiwGEn0BHNo3O31"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -799,6 +799,26 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
+        "name": "I Know (feat. Fiona Apple) [RISE Recording]",
+        "url": "https://open.spotify.com/album/476o5Va5ObJpc2u0Jwn19z"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        },
+        {
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+        }
+      ],
+      "duration_ms": 299613,
+      "name": "I Know (feat. Fiona Apple) - RISE Recording",
+      "url": "https://open.spotify.com/track/3SO5iPrvbgXz2XUwjOExDs"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
         "name": "drivers license",
         "url": "https://open.spotify.com/album/4YhRWYWS8ntXFgQwvEIUrB"
       },
@@ -831,22 +851,18 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "I Know (feat. Fiona Apple) [RISE Recording]",
-        "url": "https://open.spotify.com/album/476o5Va5ObJpc2u0Jwn19z"
+        "name": "City Of Stars",
+        "url": "https://open.spotify.com/album/5THm8pdE44tfMRJ1yiP1qD"
       },
       "artists": [
         {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
-        },
-        {
-          "name": "Fiona Apple",
-          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
         }
       ],
-      "duration_ms": 299613,
-      "name": "I Know (feat. Fiona Apple) - RISE Recording",
-      "url": "https://open.spotify.com/track/3SO5iPrvbgXz2XUwjOExDs"
+      "duration_ms": 154858,
+      "name": "City Of Stars",
+      "url": "https://open.spotify.com/track/4izE25w6PfpI4eRmzUmeEH"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -863,22 +879,6 @@
       "duration_ms": 172766,
       "name": "Anyone",
       "url": "https://open.spotify.com/track/0YhsOegsemgmT7ZHdWheUy"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
-        "name": "City Of Stars",
-        "url": "https://open.spotify.com/album/5THm8pdE44tfMRJ1yiP1qD"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 154858,
-      "name": "City Of Stars",
-      "url": "https://open.spotify.com/track/4izE25w6PfpI4eRmzUmeEH"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Paolo Velera",
-        "url": "https://open.spotify.com/album/3vHWDnKJ7yBYDy5W3D85pC"
-      },
-      "artists": [
-        {
-          "name": "Paolo Velera",
-          "url": "https://open.spotify.com/artist/6IA4Wsjyp72OYkvWlkwyeH"
-        }
-      ],
-      "duration_ms": 206557,
-      "name": "Life on Mars",
-      "url": "https://open.spotify.com/track/2VxuqHEeXHxGMWZN6CqFcT"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Lose You To Love Me (Acoustic)",
         "url": "https://open.spotify.com/album/2XSfHxWumH0W3sER4WhEgd"
       },
@@ -1075,18 +1059,18 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Wayne Mack",
-        "url": "https://open.spotify.com/album/4rfj34FpgZZvfxUUXda0oU"
+        "name": "Paolo Velera",
+        "url": "https://open.spotify.com/album/3vHWDnKJ7yBYDy5W3D85pC"
       },
       "artists": [
         {
-          "name": "Wayne Mack",
-          "url": "https://open.spotify.com/artist/62eR2vdahhu9BuJesGEQCI"
+          "name": "Paolo Velera",
+          "url": "https://open.spotify.com/artist/6IA4Wsjyp72OYkvWlkwyeH"
         }
       ],
-      "duration_ms": 193412,
-      "name": "Everything I wanted",
-      "url": "https://open.spotify.com/track/74DKZHRy9gRJ50JWpe7hQY"
+      "duration_ms": 206557,
+      "name": "Life on Mars",
+      "url": "https://open.spotify.com/track/2VxuqHEeXHxGMWZN6CqFcT"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1107,6 +1091,22 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
+        "name": "I'm a Mess (Acoustic)",
+        "url": "https://open.spotify.com/album/6zmhW2TRItWgBM3WBVR9Gn"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 153094,
+      "name": "I'm a Mess - Acoustic",
+      "url": "https://open.spotify.com/track/1RGcxEKlVL5TSMHqV13etr"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
         "name": "Feels",
         "url": "https://open.spotify.com/album/3l89eH0y4ftA1DeETIv6P9"
       },
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "I'm a Mess (Acoustic)",
-        "url": "https://open.spotify.com/album/6zmhW2TRItWgBM3WBVR9Gn"
+        "name": "Wayne Mack",
+        "url": "https://open.spotify.com/album/4rfj34FpgZZvfxUUXda0oU"
       },
       "artists": [
         {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+          "name": "Wayne Mack",
+          "url": "https://open.spotify.com/artist/62eR2vdahhu9BuJesGEQCI"
         }
       ],
-      "duration_ms": 153094,
-      "name": "I'm a Mess - Acoustic",
-      "url": "https://open.spotify.com/track/1RGcxEKlVL5TSMHqV13etr"
+      "duration_ms": 193412,
+      "name": "Everything I wanted",
+      "url": "https://open.spotify.com/track/74DKZHRy9gRJ50JWpe7hQY"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
+        "name": "Voy A Apagar La Luz",
+        "url": "https://open.spotify.com/album/7BszH6X5fEBsgNVXXvltvu"
+      },
+      "artists": [
+        {
+          "name": "Los Amores Recientes",
+          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
+        }
+      ],
+      "duration_ms": 143848,
+      "name": "Voy A Apagar La Luz",
+      "url": "https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
         "name": "Mi Gente (Acoustic)",
         "url": "https://open.spotify.com/album/6ygBeTx54rBIFb2YIkq5tj"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 160049,
       "name": "Mi Gente - Acoustic",
       "url": "https://open.spotify.com/track/1ci9VbZkSxkWmWkD5xGurr"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
-        "name": "Voy A Apagar La Luz",
-        "url": "https://open.spotify.com/album/7BszH6X5fEBsgNVXXvltvu"
-      },
-      "artists": [
-        {
-          "name": "Los Amores Recientes",
-          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
-        }
-      ],
-      "duration_ms": 143848,
-      "name": "Voy A Apagar La Luz",
-      "url": "https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/3Zm85V97fhnqWGUNxblt5E"
-      },
-      "artists": [
-        {
-          "name": "Praia Grande",
-          "url": "https://open.spotify.com/artist/3jenbdOP2dkX9QKDODbi1v"
-        }
-      ],
-      "duration_ms": 225674,
-      "name": "Clocks",
-      "url": "https://open.spotify.com/track/6erAapz0pGmUY5koXSnhqT"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Tuyo",
         "url": "https://open.spotify.com/album/3mDDCVW05KfueAZr2GbZFV"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 181733,
       "name": "Tuyo",
       "url": "https://open.spotify.com/track/1SsXzDNEMxcdQgodjAL1eZ"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/3Zm85V97fhnqWGUNxblt5E"
+      },
+      "artists": [
+        {
+          "name": "Praia Grande",
+          "url": "https://open.spotify.com/artist/3jenbdOP2dkX9QKDODbi1v"
+        }
+      ],
+      "duration_ms": 225674,
+      "name": "Clocks",
+      "url": "https://open.spotify.com/track/6erAapz0pGmUY5koXSnhqT"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Youngblood",
-        "url": "https://open.spotify.com/album/4LKwkGDfN1OXZy1qXRAQZm"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 232746,
-      "name": "Youngblood",
-      "url": "https://open.spotify.com/track/2z1ZySfX3m36YL1XfwM84d"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Attention",
         "url": "https://open.spotify.com/album/30yS0uvaCdl5ANFuupquVk"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 263124,
       "name": "Atlas: Seven",
       "url": "https://open.spotify.com/track/2LzOMk2irKa51zmGyQKNmK"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Youngblood",
+        "url": "https://open.spotify.com/album/4LKwkGDfN1OXZy1qXRAQZm"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 232746,
+      "name": "Youngblood",
+      "url": "https://open.spotify.com/track/2z1ZySfX3m36YL1XfwM84d"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "I Love You Madly EP",
-        "url": "https://open.spotify.com/album/1OLFfUp0dJ4aVItd0EfCyu"
-      },
-      "artists": [
-        {
-          "name": "Irene Diaz",
-          "url": "https://open.spotify.com/artist/1ADOdE5G5ToLJQBP9hv9NF"
-        }
-      ],
-      "duration_ms": 226200,
-      "name": "Crazy Love",
-      "url": "https://open.spotify.com/track/3C4njwEL5bda64vv1JAQt5"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "The Day I Left Hanoi",
         "url": "https://open.spotify.com/album/75RT0B9Cgu8NV03IXLpWeh"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 229850,
       "name": "The Day I Left Hanoi",
       "url": "https://open.spotify.com/track/1Imz1D6bPA4lFRHGbJxz7y"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "I Love You Madly EP",
+        "url": "https://open.spotify.com/album/1OLFfUp0dJ4aVItd0EfCyu"
+      },
+      "artists": [
+        {
+          "name": "Irene Diaz",
+          "url": "https://open.spotify.com/artist/1ADOdE5G5ToLJQBP9hv9NF"
+        }
+      ],
+      "duration_ms": 226200,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/3C4njwEL5bda64vv1JAQt5"
     },
     {
       "added_at": "2025-06-20 16:07:31",

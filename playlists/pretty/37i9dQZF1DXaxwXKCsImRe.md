@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 
 > De toekomst van de Benelux volgens onze muziekredactie\. Cover: <a href="spotify:artist:5vxYgsUqkYuqL5nLzwnKsk">OYSTER</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,070 likes - 28 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,072 likes - 28 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

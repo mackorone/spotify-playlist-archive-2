@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48szR2kmia8PcpVpxqI2o1">Gaby Music</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,129 likes - 209 songs - 11 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,128 likes - 209 songs - 11 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 | 65 | [Egoísta](https://open.spotify.com/track/4X3CV9rXo3hQrkb0fzRAux) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 4:07 |
 | 66 | [Peligrosa](https://open.spotify.com/track/3Nkqp3NSGWMXVVO08zGpN7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Vibras](https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT) | 3:22 |
 | 67 | [Vaivén](https://open.spotify.com/track/4gv9eyEf7cXViNTBXS2g5C) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Vaivén](https://open.spotify.com/album/3MSh01wXlrFGAJNfgXVsyQ) | 3:44 |
-| 68 | [Todo Comienza en la Disco](https://open.spotify.com/track/3a2aBKuvgP1qHo3BqU3lGh) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Victory](https://open.spotify.com/album/6I32dRerwcm3jYRsprxb5k) | 4:28 |
-| 69 | [GRACIAS POR NADA](https://open.spotify.com/track/1U3A66OHQyTu4N2QTMsP86) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 2:57 |
+| 68 | [GRACIAS POR NADA](https://open.spotify.com/track/1U3A66OHQyTu4N2QTMsP86) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 2:57 |
+| 69 | [Todo Comienza en la Disco](https://open.spotify.com/track/3a2aBKuvgP1qHo3BqU3lGh) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Victory](https://open.spotify.com/album/6I32dRerwcm3jYRsprxb5k) | 4:28 |
 | 70 | [Fantasía](https://open.spotify.com/track/40rXWke6SnXiGkSmaT8ZUr) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Nibiru](https://open.spotify.com/album/7f6r6ijWtMJ0QYydwuCYvH) | 2:55 |
 | 71 | [Noches de Aventura](https://open.spotify.com/track/4iDaYVSL0zwFLacCt0F7h9) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:56 |
 | 72 | [TUYA](https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [TUYA](https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3) | 2:34 |
@@ -218,4 +218,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 | 208 | [Si Supieras](https://open.spotify.com/track/3MurCbg19jNpV3QVaMwxuS) | [El Verdadero](https://open.spotify.com/artist/47h0Mk4rvGqKNCDxIObxX7) | [Si Supieras](https://open.spotify.com/album/6U5RLfgFyfzs1uZa9KWRtr) | 4:27 |
 | 209 | [Arrástratre](https://open.spotify.com/track/0GqjbBwlMlVmL46UuEHfn3) | [Naldo](https://open.spotify.com/artist/6DRt41Pol3BrSYwsbiO3Fo), [Negro 3Mil](https://open.spotify.com/artist/3YeAwK3vA1KBV6MMH0U2yH) | [Sangre Nueva 2](https://open.spotify.com/album/0mHhTsYHn8VBPpong8vcQv) | 4:21 |
 
-Snapshot ID: `AcUwkAAAAAD+1pBC70VaUG4KU6wazvfi`
+Snapshot ID: `AcU2MAAAAACAd8xWW78jgYs0QOUsqXdf`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rT2XV.md) - [plain]
 
 > This is Katia & Marielle Labèque\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 73 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rT2XV.md) - [plain]
 | 49 | [Avril 14](https://open.spotify.com/track/2NLkCjVcQsxEGKS3aNJHfN) | [Katia & Marielle Labèque](https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2) | [Berceuses piano](https://open.spotify.com/album/3Z9ZYA9la78wlTMbfUQhrW) | 2:10 |
 | 50 | [Star\-Cross'd Lovers: Act I: Street Fight](https://open.spotify.com/track/2xdnMl3BwAPrmTZGjGYOFE) | [Katia & Marielle Labèque](https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2), [Raphaël Seguinier](https://open.spotify.com/artist/3PWCvY1xg68UCLnviD8rFy), [David Chalmin](https://open.spotify.com/artist/7JLeeI3o762IePxWjgs6MT) | [Love Stories](https://open.spotify.com/album/6ATtDU7yIgqeYBmOpMl2bb) | 1:45 |
 
-Snapshot ID: `ajSGgAAAAABbZxOah+n0VAICdImStbbR`
+Snapshot ID: `ajXYAAAAAAC5f30lzJF3Dsjv1rEo3IS1`

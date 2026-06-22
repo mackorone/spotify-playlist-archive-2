@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,328 songs - 5 day 17 hr 29 min
+2,329 songs - 5 day 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Balmy Evening](https://open.spotify.com/track/7p3WLqk0LE5ys6Ok8DOJI5) | [Focuscircle](https://open.spotify.com/artist/3JzDncfAa9i8YByecJ771U) | [Album 1](https://open.spotify.com/album/1kdFVBOKq0QRMN0nITjkfO) | 3:21 | 2026-03-06 |  |
 | [Baltazar \- 2026](https://open.spotify.com/track/1gHVY9ZGMoeB6OWsiOhtBy) | [Mr\. Mol](https://open.spotify.com/artist/0Pzhf2LTb0C0RJeAxaEBjx) | [Baltazar \(2026\)](https://open.spotify.com/album/0y45gNWOADiybkBja0i84Z) | 3:48 | 2026-04-28 |  |
 | [Bandits](https://open.spotify.com/track/4KWHSYv9fMwA7km3Vcx2q0) | [Calibration Alert](https://open.spotify.com/artist/4x3fQslGm6fgisi6Fv57Iu) | [Torpedo](https://open.spotify.com/album/3qW3VjphzhcaneRDKY97tp) | 3:22 | 2024-03-23 |  |
+| [Bara](https://open.spotify.com/track/50hb6zxmJMxrfavhe0fyn7) | [Merah](https://open.spotify.com/artist/0SqG39qV2HtVNgtjKSKGXQ) | [Utara](https://open.spotify.com/album/2Ds4iV3LPSya4zyVBHqhcn) | 3:49 | 2026-06-21 |  |
 | [Batem Os Sinos](https://open.spotify.com/track/1lG623oucSzmZ9xg1KVq4k) | [Golpe](https://open.spotify.com/artist/3kiKcCZ0XLmY2xmCbtsI9Y) | [Terroir](https://open.spotify.com/album/4VZtaKfMhyUOJmGPQ6sWnt) | 1:57 | 2024-02-06 |  |
 | [Bay Dub](https://open.spotify.com/track/1ejMEVeRSdCLG1MDrj8pby) | [Culture Horn](https://open.spotify.com/artist/2YIGsoR46Dn9gnVTnDTScd) | [Dublaboratory, Vol​.​ 1](https://open.spotify.com/album/1qJg2mlB24zMwNtTl39jXx) | 3:14 | 2024-03-25 |  |
 | [Bay Flute](https://open.spotify.com/track/4nvfgBZHejlb0VF1EoRt9H) | [Culture Horn](https://open.spotify.com/artist/2YIGsoR46Dn9gnVTnDTScd) | [Dublaboratory, Vol​.​ 1](https://open.spotify.com/album/1qJg2mlB24zMwNtTl39jXx) | 3:17 | 2024-03-25 |  |

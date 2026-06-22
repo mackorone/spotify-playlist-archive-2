@@ -1,6 +1,6 @@
 {
   "description": "no drill e na bola \u00e9 \ud83c\udde7\ud83c\uddf7 , tlgd",
-  "num_followers": 1444138,
+  "num_followers": 1444022,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -703,34 +703,6 @@
     {
       "added_at": "2026-06-17 15:55:30",
       "album": {
-        "name": "S\u00f3 Lazer",
-        "url": "https://open.spotify.com/album/3Md1QIrZ8uJcL3kc7r2Lha"
-      },
-      "artists": [
-        {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "S\u00f3 Lazer",
-      "url": "https://open.spotify.com/track/4ZB2u5sSF8TVCrQRsSJHTE"
-    },
-    {
-      "added_at": "2026-06-17 15:55:30",
-      "album": {
         "name": "A Favela N\u00e3o Venceu",
         "url": "https://open.spotify.com/album/6Aouhk989GyFqOhOtJLPrP"
       },
@@ -755,6 +727,34 @@
       "duration_ms": 269268,
       "name": "Neguin Desaforado",
       "url": "https://open.spotify.com/track/3gbpdmzWYwqumooISINF9S"
+    },
+    {
+      "added_at": "2026-06-17 15:55:30",
+      "album": {
+        "name": "S\u00f3 Lazer",
+        "url": "https://open.spotify.com/album/3Md1QIrZ8uJcL3kc7r2Lha"
+      },
+      "artists": [
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "S\u00f3 Lazer",
+      "url": "https://open.spotify.com/track/4ZB2u5sSF8TVCrQRsSJHTE"
     },
     {
       "added_at": "2026-06-17 15:55:30",
@@ -975,34 +975,6 @@
     {
       "added_at": "2026-06-17 15:55:30",
       "album": {
-        "name": "Muito Rom\u00e2ntico",
-        "url": "https://open.spotify.com/album/10T1r3MGtdcwrJXtMUzhxv"
-      },
-      "artists": [
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
-        },
-        {
-          "name": "Taleko",
-          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
-        },
-        {
-          "name": "Machadez",
-          "url": "https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2"
-        },
-        {
-          "name": "Anderson Nem",
-          "url": "https://open.spotify.com/artist/1XftCIaBOOZWO9Y5yUeAun"
-        }
-      ],
-      "duration_ms": 210857,
-      "name": "Voltar pra Casa",
-      "url": "https://open.spotify.com/track/0oEgPFuiD0NXqiyCH6DDEY"
-    },
-    {
-      "added_at": "2026-06-17 15:55:30",
-      "album": {
         "name": "BASE: Climinha",
         "url": "https://open.spotify.com/album/2d09hK3Q5aWnNd56bTjahR"
       },
@@ -1031,6 +1003,34 @@
       "duration_ms": 217446,
       "name": "Taca l\u00e1 dentro",
       "url": "https://open.spotify.com/track/21NA0L0QejKf8QneWSGzfD"
+    },
+    {
+      "added_at": "2026-06-17 15:55:30",
+      "album": {
+        "name": "Muito Rom\u00e2ntico",
+        "url": "https://open.spotify.com/album/10T1r3MGtdcwrJXtMUzhxv"
+      },
+      "artists": [
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        },
+        {
+          "name": "Taleko",
+          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
+        },
+        {
+          "name": "Machadez",
+          "url": "https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2"
+        },
+        {
+          "name": "Anderson Nem",
+          "url": "https://open.spotify.com/artist/1XftCIaBOOZWO9Y5yUeAun"
+        }
+      ],
+      "duration_ms": 210857,
+      "name": "Voltar pra Casa",
+      "url": "https://open.spotify.com/track/0oEgPFuiD0NXqiyCH6DDEY"
     },
     {
       "added_at": "2026-06-17 15:55:30",
@@ -1211,30 +1211,6 @@
     {
       "added_at": "2026-06-17 15:55:30",
       "album": {
-        "name": "Sem Amor",
-        "url": "https://open.spotify.com/album/5S1omAhCLsW0LEDZJBHBUC"
-      },
-      "artists": [
-        {
-          "name": "SUELMK",
-          "url": "https://open.spotify.com/artist/1pYqTSk5Nn2IDucSEN24Ox"
-        },
-        {
-          "name": "Nilo",
-          "url": "https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco"
-        },
-        {
-          "name": "Raul GR",
-          "url": "https://open.spotify.com/artist/5myuJmuzkHTOKTrRdjOX6g"
-        }
-      ],
-      "duration_ms": 156086,
-      "name": "Sem Amor",
-      "url": "https://open.spotify.com/track/23rYWQa36hf2vqkMeeB0oA"
-    },
-    {
-      "added_at": "2026-06-17 15:55:30",
-      "album": {
         "name": "Sol Na Lata",
         "url": "https://open.spotify.com/album/4wklLp5vNXVkdJGTKRK8IZ"
       },
@@ -1255,6 +1231,30 @@
       "duration_ms": 164000,
       "name": "Sol Na Lata",
       "url": "https://open.spotify.com/track/7egSBZjH8xrLtJcfJbMpjx"
+    },
+    {
+      "added_at": "2026-06-17 15:55:30",
+      "album": {
+        "name": "Sem Amor",
+        "url": "https://open.spotify.com/album/5S1omAhCLsW0LEDZJBHBUC"
+      },
+      "artists": [
+        {
+          "name": "SUELMK",
+          "url": "https://open.spotify.com/artist/1pYqTSk5Nn2IDucSEN24Ox"
+        },
+        {
+          "name": "Nilo",
+          "url": "https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco"
+        },
+        {
+          "name": "Raul GR",
+          "url": "https://open.spotify.com/artist/5myuJmuzkHTOKTrRdjOX6g"
+        }
+      ],
+      "duration_ms": 156086,
+      "name": "Sem Amor",
+      "url": "https://open.spotify.com/track/23rYWQa36hf2vqkMeeB0oA"
     },
     {
       "added_at": "2026-06-17 15:55:30",
@@ -1527,6 +1527,26 @@
     {
       "added_at": "2026-06-17 15:55:30",
       "album": {
+        "name": "Linha de frente",
+        "url": "https://open.spotify.com/album/1zex66YgFMYOjTzU26uPft"
+      },
+      "artists": [
+        {
+          "name": "KayG",
+          "url": "https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk"
+        },
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        }
+      ],
+      "duration_ms": 165428,
+      "name": "Linha de frente",
+      "url": "https://open.spotify.com/track/7Hc2jOYT9YbZuaGvdur8Yg"
+    },
+    {
+      "added_at": "2026-06-17 15:55:30",
+      "album": {
         "name": "DIXAVANDO",
         "url": "https://open.spotify.com/album/30x1jnVXq7O1hZm13CssCA"
       },
@@ -1551,26 +1571,6 @@
       "duration_ms": 118153,
       "name": "DIXAVANDO",
       "url": "https://open.spotify.com/track/6slTSnYginVYk9Ubi90K3H"
-    },
-    {
-      "added_at": "2026-06-17 15:55:30",
-      "album": {
-        "name": "Linha de frente",
-        "url": "https://open.spotify.com/album/1zex66YgFMYOjTzU26uPft"
-      },
-      "artists": [
-        {
-          "name": "KayG",
-          "url": "https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk"
-        },
-        {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        }
-      ],
-      "duration_ms": 165428,
-      "name": "Linha de frente",
-      "url": "https://open.spotify.com/track/7Hc2jOYT9YbZuaGvdur8Yg"
     },
     {
       "added_at": "2026-06-17 15:55:30",

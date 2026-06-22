@@ -1,12 +1,12 @@
 {
   "description": "This is Zlatan. The essential tracks, all in one playlist.",
-  "num_followers": 8462,
+  "num_followers": 8469,
   "original_name": "This Is Zlatan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAABbQ6tw1zCBd5W6w3BGpVGk",
+  "snapshot_id": "ajXYAAAAAAC2hZpwbQW55HVQuF6BjzZG",
   "tracks": [
     {
       "added_at": null,
@@ -679,6 +679,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Baba",
+        "url": "https://open.spotify.com/album/63yPkpDRSUMDaUSPlXCTj2"
+      },
+      "artists": [
+        {
+          "name": "Hotkeed",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 165991,
+      "name": "Baba",
+      "url": "https://open.spotify.com/track/776t3kqoQTKHeFzdbnIfdc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Skeleton (feat. Zlatan)",
+        "url": "https://open.spotify.com/album/1XtZfFvbbaPA9M4flAeJDG"
+      },
+      "artists": [
+        {
+          "name": "FEMI VEGA",
+          "url": "https://open.spotify.com/artist/6rfL4s0vo61eNX4RcuBMpf"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 144390,
+      "name": "Skeleton (feat. Zlatan)",
+      "url": "https://open.spotify.com/track/13jHYwD7bV73V5ywdc6zMp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Last Son of a Widow",
         "url": "https://open.spotify.com/album/5ggCK28dJNwpH58dNI8BFr"
       },
@@ -711,26 +751,6 @@
       "duration_ms": 165063,
       "name": "Happy Day",
       "url": "https://open.spotify.com/track/6xMm0m21a8IIHDxRdY4H8P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Skeleton (feat. Zlatan)",
-        "url": "https://open.spotify.com/album/1XtZfFvbbaPA9M4flAeJDG"
-      },
-      "artists": [
-        {
-          "name": "FEMI VEGA",
-          "url": "https://open.spotify.com/artist/6rfL4s0vo61eNX4RcuBMpf"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 144390,
-      "name": "Skeleton (feat. Zlatan)",
-      "url": "https://open.spotify.com/track/13jHYwD7bV73V5ywdc6zMp"
     },
     {
       "added_at": null,
@@ -807,26 +827,6 @@
       "duration_ms": 248727,
       "name": "Sweet in the Middle (feat. Wurld, Naira Marley & Zlatan)",
       "url": "https://open.spotify.com/track/2ylO41DTQwQv1QH1mSP3cH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Baba",
-        "url": "https://open.spotify.com/album/63yPkpDRSUMDaUSPlXCTj2"
-      },
-      "artists": [
-        {
-          "name": "Hotkeed",
-          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 165991,
-      "name": "Baba",
-      "url": "https://open.spotify.com/track/776t3kqoQTKHeFzdbnIfdc"
     },
     {
       "added_at": null,
@@ -1027,6 +1027,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Resan",
+        "url": "https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 194823,
+      "name": "Alubarika",
+      "url": "https://open.spotify.com/track/6G242ZcM4Ic3WauviZ7w9S"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TE WO II",
         "url": "https://open.spotify.com/album/7rorWGbmVSTdyuZVPFXv93"
       },
@@ -1047,26 +1067,6 @@
       "duration_ms": 141025,
       "name": "TE WO II",
       "url": "https://open.spotify.com/track/2FWdDRfkf1lfGxZnShMjpU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Resan",
-        "url": "https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 194823,
-      "name": "Alubarika",
-      "url": "https://open.spotify.com/track/6G242ZcM4Ic3WauviZ7w9S"
     }
   ],
   "unique_name": "This Is Zlatan",

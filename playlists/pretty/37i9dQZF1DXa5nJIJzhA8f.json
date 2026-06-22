@@ -1,6 +1,6 @@
 {
   "description": "Meticulously selected by Spotify music experts.",
-  "num_followers": 98219,
+  "num_followers": 98204,
   "original_name": "Editors' Picks: Best Songs of 2025",
   "owner": {
     "name": "Spotify",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-02-04 14:24:46",
       "album": {
-        "name": "Mark William Lewis",
-        "url": "https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y"
-      },
-      "artists": [
-        {
-          "name": "mark william lewis",
-          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
-        }
-      ],
-      "duration_ms": 148440,
-      "name": "Still Above",
-      "url": "https://open.spotify.com/track/3cTjgotFYaQcI6u8Ocny5U"
-    },
-    {
-      "added_at": "2026-02-04 14:24:46",
-      "album": {
         "name": "LIVE-ACTION",
         "url": "https://open.spotify.com/album/6KpA380vLBVA6d6lYebIk3"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 202270,
       "name": "UNDEFEATED",
       "url": "https://open.spotify.com/track/5fwKEMTyS0FqLk7KVdGQwl"
+    },
+    {
+      "added_at": "2026-02-04 14:24:46",
+      "album": {
+        "name": "Mark William Lewis",
+        "url": "https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y"
+      },
+      "artists": [
+        {
+          "name": "mark william lewis",
+          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
+        }
+      ],
+      "duration_ms": 148440,
+      "name": "Still Above",
+      "url": "https://open.spotify.com/track/3cTjgotFYaQcI6u8Ocny5U"
     },
     {
       "added_at": "2026-02-04 14:24:46",

@@ -1,6 +1,6 @@
 {
   "description": "Various sounds, various decades, but with one thing in common.",
-  "num_followers": 2034657,
+  "num_followers": 2034638,
   "original_name": "Pure Rock & Roll",
   "owner": {
     "name": "Spotify",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
+        "name": "Rescued",
+        "url": "https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 258648,
+      "name": "Rescued",
+      "url": "https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
         "name": "Orgy of the Damned",
         "url": "https://open.spotify.com/album/6aTrDhVw5QgXSz2JM4V8hc"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 273520,
       "name": "Oh Well feat. Chris Stapleton",
       "url": "https://open.spotify.com/track/0o16V4WswA4aknX8WmVDsQ"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
-        "name": "Rescued",
-        "url": "https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 258648,
-      "name": "Rescued",
-      "url": "https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -1775,18 +1775,22 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "As Above, So Below",
-        "url": "https://open.spotify.com/album/3zvOwqqjuGh8CZYhx2hgaJ"
+        "name": "You Still Got Me",
+        "url": "https://open.spotify.com/album/3kP5jq5rPOdI8yStZ944Pa"
       },
       "artists": [
         {
-          "name": "Highly Suspect",
-          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
+        },
+        {
+          "name": "Slash",
+          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
         }
       ],
-      "duration_ms": 247716,
-      "name": "Plastic Boxes",
-      "url": "https://open.spotify.com/track/3DqzYWmNEUosgfMlMXTNwi"
+      "duration_ms": 287666,
+      "name": "Savior With A Razor (feat. Slash)",
+      "url": "https://open.spotify.com/track/6Yk9u3C8EVpyixdgXv0S6G"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -1807,6 +1811,22 @@
       "duration_ms": 194653,
       "name": "TOMBSTONE TOWN (feat. Slash)",
       "url": "https://open.spotify.com/track/2Xs6Vya6Zninq68d7uUopi"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
+        "name": "As Above, So Below",
+        "url": "https://open.spotify.com/album/3zvOwqqjuGh8CZYhx2hgaJ"
+      },
+      "artists": [
+        {
+          "name": "Highly Suspect",
+          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
+        }
+      ],
+      "duration_ms": 247716,
+      "name": "Plastic Boxes",
+      "url": "https://open.spotify.com/track/3DqzYWmNEUosgfMlMXTNwi"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -1847,26 +1867,6 @@
       "duration_ms": 154612,
       "name": "The Night Before",
       "url": "https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
-        "name": "You Still Got Me",
-        "url": "https://open.spotify.com/album/3kP5jq5rPOdI8yStZ944Pa"
-      },
-      "artists": [
-        {
-          "name": "Beth Hart",
-          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
-        },
-        {
-          "name": "Slash",
-          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
-        }
-      ],
-      "duration_ms": 287666,
-      "name": "Savior With A Razor (feat. Slash)",
-      "url": "https://open.spotify.com/track/6Yk9u3C8EVpyixdgXv0S6G"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "Superblood Wolfmoon",
-        "url": "https://open.spotify.com/album/7B3s01FXwxQR7vUqajnLpg"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 229466,
-      "name": "Superblood Wolfmoon",
-      "url": "https://open.spotify.com/track/2PETsovNFRjQOSMWj8gNii"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
         "name": "The Essential Ted Nugent",
         "url": "https://open.spotify.com/album/0n5v0O4M1D6Cw5d4KZb5mQ"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 225466,
       "name": "Just What the Doctor Ordered",
       "url": "https://open.spotify.com/track/6uufS093628MRruPbXiW5g"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
+        "name": "Superblood Wolfmoon",
+        "url": "https://open.spotify.com/album/7B3s01FXwxQR7vUqajnLpg"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 229466,
+      "name": "Superblood Wolfmoon",
+      "url": "https://open.spotify.com/track/2PETsovNFRjQOSMWj8gNii"
     },
     {
       "added_at": "2026-02-20 05:00:51",

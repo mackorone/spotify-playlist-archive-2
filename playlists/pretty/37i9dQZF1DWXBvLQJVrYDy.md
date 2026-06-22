@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBvLQJVrYDy.md) - [plain]
 
 > Smooth and cozy saxophone ballads for relaxing or focus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,300 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,443 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBvLQJVrYDy.md) - [plain]
 | 74 | [We'll Be Together Again](https://open.spotify.com/track/7a4Pzn2ppZP1GNLyrgL4J8) | [Copenhagen Jazzexperience](https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D) | [We'll Be Together Again](https://open.spotify.com/album/1bzgX2nMfXveMPGZOYNzZ7) | 5:08 |
 | 75 | [When You're Not Around Me](https://open.spotify.com/track/6DixEJXg93VyLrtJopHzsg) | [Stewart Park Quartet](https://open.spotify.com/artist/6WM9U52WDUrqLdjVDJRT1d) | [When You're Not Around Me](https://open.spotify.com/album/6xNJFhbq0YmZcDcAnlVuTL) | 3:45 |
 
-Snapshot ID: `AAAAACsCD5HP0v5VfrEw5D+j6QS4t+4B`
+Snapshot ID: `AAAAAB3XxPEDNP8652rblZBr1HcLGrvv`

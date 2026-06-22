@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 420698,
+  "num_followers": 420715,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-06-17 15:55:41",
       "album": {
-        "name": "Novela",
-        "url": "https://open.spotify.com/album/2r8MFQSbAP5jB74eCRE6zx"
-      },
-      "artists": [
-        {
-          "name": "Agnes Nunes",
-          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
-        }
-      ],
-      "duration_ms": 217503,
-      "name": "Denso e Dan\u00e7o",
-      "url": "https://open.spotify.com/track/2xhFW63RJ7uFVp333kJ4ON"
-    },
-    {
-      "added_at": "2026-06-17 15:55:41",
-      "album": {
         "name": "Vit\u00f3ria",
         "url": "https://open.spotify.com/album/0ZVIlN470lRMTipVeCUkJw"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 209719,
       "name": "Vit\u00f3ria",
       "url": "https://open.spotify.com/track/7Cm5N53OPd5szi1KsD4a1d"
+    },
+    {
+      "added_at": "2026-06-17 15:55:41",
+      "album": {
+        "name": "Novela",
+        "url": "https://open.spotify.com/album/2r8MFQSbAP5jB74eCRE6zx"
+      },
+      "artists": [
+        {
+          "name": "Agnes Nunes",
+          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
+        }
+      ],
+      "duration_ms": 217503,
+      "name": "Denso e Dan\u00e7o",
+      "url": "https://open.spotify.com/track/2xhFW63RJ7uFVp333kJ4ON"
     },
     {
       "added_at": "2026-06-17 15:55:41",

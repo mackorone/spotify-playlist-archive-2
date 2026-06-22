@@ -6,7 +6,7 @@
     "name": "dylan",
     "url": "https://open.spotify.com/user/g0hkhph9aqvum331ul8ftxj5i"
   },
-  "snapshot_id": "AAABzlRS2XVzx+iWsoIySAGLxtmeUjTg",
+  "snapshot_id": "AAAB0WlyMlqegHaZSSxYrYAsD+Q/R90C",
   "tracks": [
     {
       "added_at": "2025-11-12 19:32:04",
@@ -181,26 +181,6 @@
       "url": "https://open.spotify.com/track/56XRMsd36CU26THxIrVRJG"
     },
     {
-      "added_at": "2026-05-23 22:08:03",
-      "album": {
-        "name": "Voicenotes",
-        "url": "https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 180493,
-      "name": "Done for Me (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/1lsBTdE6MGsKeZCD6llNu7"
-    },
-    {
       "added_at": "2026-05-23 22:08:15",
       "album": {
         "name": "the cure",
@@ -215,22 +195,6 @@
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
-    },
-    {
-      "added_at": "2026-05-23 22:08:30",
-      "album": {
-        "name": "Diamonds & Dancefloors",
-        "url": "https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 190559,
-      "name": "Sleepwalker",
-      "url": "https://open.spotify.com/track/1pFuoLQ9iRbPv7a0LQvhEJ"
     },
     {
       "added_at": "2026-05-30 18:02:14",
@@ -495,6 +459,22 @@
       "duration_ms": 204918,
       "name": "She Gets It from Her Mother",
       "url": "https://open.spotify.com/track/2WFuYRB8SURvNMBtsonZog"
+    },
+    {
+      "added_at": "2026-06-21 11:41:08",
+      "album": {
+        "name": "Something for Thee Hotties",
+        "url": "https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 125030,
+      "name": "Kitty Kat",
+      "url": "https://open.spotify.com/track/6DoGtGyDgv5mVxeCpP92tX"
     }
   ],
   "unique_name": "THE playlist",

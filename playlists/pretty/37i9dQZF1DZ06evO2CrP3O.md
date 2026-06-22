@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CrP3O.md) - [plain]
 
 > This is Blondie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,367 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,369 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CrP3O.md) - [plain]
 | 44 | [Nothing Is Real but the Girl](https://open.spotify.com/track/5ZCIPSKOAyOAYfDVNM9LrQ) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [No Exit](https://open.spotify.com/album/5S2GbGAovtosBWJfQNJBD4) | 3:13 |
 | 45 | [Live It Up \- Remastered 2001](https://open.spotify.com/track/3DCatgVUgQ3nOvTmuOtq9y) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Autoamerican \(Remastered 2001\)](https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya) | 4:09 |
 | 46 | [For Your Eyes Only \- Remastered](https://open.spotify.com/track/17k0de5yK5aJ06xx7Xqj2C) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [The Hunter](https://open.spotify.com/album/4fMaYgVNVzIUQOn19ctNad) | 3:07 |
-| 47 | [Soul Train](https://open.spotify.com/track/7CmF9SN9l1pM0frifWOR7w) | [Just Loud](https://open.spotify.com/artist/7xAO3x13zwxGoIM7N3pXL9), [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Just Loud](https://open.spotify.com/album/63EtAEjDS7lOyOl2lJeriG) | 2:59 |
-| 48 | [Too Much](https://open.spotify.com/track/03oGhqpLGW9N2ius8TIpen) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Pollinator](https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U) | 3:08 |
+| 47 | [Too Much](https://open.spotify.com/track/03oGhqpLGW9N2ius8TIpen) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Pollinator](https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U) | 3:08 |
+| 48 | [Soul Train](https://open.spotify.com/track/7CmF9SN9l1pM0frifWOR7w) | [Just Loud](https://open.spotify.com/artist/7xAO3x13zwxGoIM7N3pXL9), [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Just Loud](https://open.spotify.com/album/63EtAEjDS7lOyOl2lJeriG) | 2:59 |
 | 49 | [Walk Like Me \- Remastered 2001](https://open.spotify.com/track/3D4vCxJemidHRGSj85GnqN) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Autoamerican \(Remastered 2001\)](https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya) | 3:44 |
 | 50 | [No Exit \- feat\. Coolio](https://open.spotify.com/track/16tZD5aSFYCIkjyKMoatrp) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB), [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T) | [No Exit](https://open.spotify.com/album/5S2GbGAovtosBWJfQNJBD4) | 4:19 |
 
-Snapshot ID: `ajSGgAAAAACGjGq29DYvOUHr1zC7K2/N`
+Snapshot ID: `ajXYAAAAAACdwACTY24Y6PUDQ/WbDVrT`

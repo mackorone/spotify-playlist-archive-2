@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oU7rbE4ffh.md) - [plain]
 
 > Take a deep breath and relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,023,453 likes - 165 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,023,369 likes - 165 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oU7rbE4ffh.md) - [plain]
 | 164 | [Mirage](https://open.spotify.com/track/2W0i2OYMyofG6WXUz2q0I9) | [Moments Of Divinity](https://open.spotify.com/artist/0Srt4bBej7bpUZRcgHNl3V) | [Mirage](https://open.spotify.com/album/4wbuIG56VR55hptwKFodDY) | 2:50 |
 | 165 | [Veil of Stars](https://open.spotify.com/track/3ERB5KA1kB23jNWh59lIXJ) | [Moon Whisperer](https://open.spotify.com/artist/774tcsKJmwutlxTuJ3buO4) | [Veil of Stars](https://open.spotify.com/album/6VBAk2nav5FumZaaguO41l) | 3:06 |
 
-Snapshot ID: `AAAAAAs2mOqUdDHWCI/B15ikmKk0ARPf`
+Snapshot ID: `AAAAAIe/80JoQIyhy87ugYV/CE9JjHMu`

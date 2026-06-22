@@ -1,6 +1,6 @@
 {
   "description": "Wrap yourself up and revel in a gray day with these dusky, dreamy tracks.",
-  "num_followers": 388821,
+  "num_followers": 388787,
   "original_name": "Rainy Day",
   "owner": {
     "name": "Spotify",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-07-05 20:47:34",
       "album": {
-        "name": "If I Was (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 386146,
-      "name": "Damn It All",
-      "url": "https://open.spotify.com/track/3e2mV0O3hnVJuvdCcb7cwH"
-    },
-    {
-      "added_at": "2024-07-05 20:47:34",
-      "album": {
         "name": "The Calla Lily Song",
         "url": "https://open.spotify.com/album/7JSWIbBEW5EeWs5Ruooelz"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 239384,
       "name": "The Calla Lily Song",
       "url": "https://open.spotify.com/track/45aU2o0VJEyArBmMvnTYP2"
+    },
+    {
+      "added_at": "2024-07-05 20:47:34",
+      "album": {
+        "name": "If I Was (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 386146,
+      "name": "Damn It All",
+      "url": "https://open.spotify.com/track/3e2mV0O3hnVJuvdCcb7cwH"
     },
     {
       "added_at": "2024-07-05 20:47:34",
@@ -967,6 +967,30 @@
     {
       "added_at": "2024-07-05 20:47:34",
       "album": {
+        "name": "Killer + The Sound",
+        "url": "https://open.spotify.com/album/4vkODa4y4DQzFOOYfAK8EV"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Noah Gundersen",
+          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
+        },
+        {
+          "name": "Abby Gundersen",
+          "url": "https://open.spotify.com/artist/5BlKoQLYxv24MSV5AD6i6q"
+        }
+      ],
+      "duration_ms": 475186,
+      "name": "Killer + The Sound",
+      "url": "https://open.spotify.com/track/1xuA8vy1KA1cfP5UQ7NYSS"
+    },
+    {
+      "added_at": "2024-07-05 20:47:34",
+      "album": {
         "name": "Detour",
         "url": "https://open.spotify.com/album/3HaXu8yI1wBwmQB2ifgccT"
       },
@@ -983,22 +1007,6 @@
       "duration_ms": 213024,
       "name": "Detour",
       "url": "https://open.spotify.com/track/7DEY4XYmucW9CajmANlscn"
-    },
-    {
-      "added_at": "2024-07-05 20:47:34",
-      "album": {
-        "name": "Forest Fires",
-        "url": "https://open.spotify.com/album/7b6DOCQLb3ZK2Z8hnC2e3j"
-      },
-      "artists": [
-        {
-          "name": "Axel Fl\u00f3vent",
-          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
-        }
-      ],
-      "duration_ms": 210924,
-      "name": "Forest Fires",
-      "url": "https://open.spotify.com/track/6AQ3guMjWgetjRpQASwrE5"
     }
   ],
   "unique_name": "Rainy Day",

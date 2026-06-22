@@ -1,6 +1,6 @@
 {
   "description": "Verdi was the undisputed king of Italian opera in the 19th century. Explore his greatest works, including Rigoletto and La Traviata, right here.",
-  "num_followers": 89562,
+  "num_followers": 89580,
   "original_name": "This Is Verdi",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,38 @@
     {
       "added_at": "2025-12-22 11:16:50",
       "album": {
+        "name": "Pavarotti Sings Verdi",
+        "url": "https://open.spotify.com/album/18OSSgIKauUXxbKfhAn4te"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Philharmonia Chorus",
+          "url": "https://open.spotify.com/artist/4bXvXL4mlRJP41vVBeVkrp"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "James Levine",
+          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
+        }
+      ],
+      "duration_ms": 822706,
+      "name": "Hymn of the Nations (Inno delle nazione)",
+      "url": "https://open.spotify.com/track/3ClTTx4OhxZRBATO4Wyj5i"
+    },
+    {
+      "added_at": "2025-12-22 11:16:50",
+      "album": {
         "name": "Aida",
         "url": "https://open.spotify.com/album/4I9AG93MXl0ZWJX4B4Lt4Z"
       },
@@ -463,38 +495,6 @@
       "duration_ms": 85733,
       "name": "Aida: Danza di piccoli schiavi mori",
       "url": "https://open.spotify.com/track/1vmUKUlXXZChWhCdnE8LxS"
-    },
-    {
-      "added_at": "2025-12-22 11:16:50",
-      "album": {
-        "name": "Pavarotti Sings Verdi",
-        "url": "https://open.spotify.com/album/18OSSgIKauUXxbKfhAn4te"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Luciano Pavarotti",
-          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
-        },
-        {
-          "name": "Philharmonia Chorus",
-          "url": "https://open.spotify.com/artist/4bXvXL4mlRJP41vVBeVkrp"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        },
-        {
-          "name": "James Levine",
-          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
-        }
-      ],
-      "duration_ms": 822706,
-      "name": "Hymn of the Nations (Inno delle nazione)",
-      "url": "https://open.spotify.com/track/3ClTTx4OhxZRBATO4Wyj5i"
     },
     {
       "added_at": "2025-12-22 11:16:50",
@@ -679,34 +679,6 @@
     {
       "added_at": "2025-12-22 11:16:50",
       "album": {
-        "name": "Verdi: Rigoletto - highlights",
-        "url": "https://open.spotify.com/album/5px6Ru4KO8RFVqioyGnwtr"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Renato Bruson",
-          "url": "https://open.spotify.com/artist/73uO0irhYkEsOdWjBmAl3f"
-        },
-        {
-          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
-        },
-        {
-          "name": "Giuseppe Sinopoli",
-          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
-        }
-      ],
-      "duration_ms": 257640,
-      "name": "Rigoletto / Act 1: \"Pari siamo\"",
-      "url": "https://open.spotify.com/track/6h7UtnJlcAA0WC3d41269s"
-    },
-    {
-      "added_at": "2025-12-22 11:16:50",
-      "album": {
         "name": "Celeste Aida - The Verdi Album",
         "url": "https://open.spotify.com/album/3imbRbkVQlzLMYYuUjkQan"
       },
@@ -751,8 +723,8 @@
     {
       "added_at": "2025-12-22 11:16:50",
       "album": {
-        "name": "Verdi: La Forza del Destino",
-        "url": "https://open.spotify.com/album/0mjJp1sq9wt5tDvQW5wOs7"
+        "name": "Verdi: Rigoletto - highlights",
+        "url": "https://open.spotify.com/album/5px6Ru4KO8RFVqioyGnwtr"
       },
       "artists": [
         {
@@ -760,21 +732,21 @@
           "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
         },
         {
-          "name": "Galina Gorchakova",
-          "url": "https://open.spotify.com/artist/17zQ2xKMpkyGuH6T9F9kRD"
+          "name": "Renato Bruson",
+          "url": "https://open.spotify.com/artist/73uO0irhYkEsOdWjBmAl3f"
         },
         {
-          "name": "Mariinsky Orchestra",
-          "url": "https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6"
+          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
         },
         {
-          "name": "Valery Gergiev",
-          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
+          "name": "Giuseppe Sinopoli",
+          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
         }
       ],
-      "duration_ms": 239333,
-      "name": "La forza del destino - Original St.Petersburg version - Act 1: \"Me pellegrina ed orfana\"",
-      "url": "https://open.spotify.com/track/0wbGVlJdN0XtwelbwgNLL2"
+      "duration_ms": 257640,
+      "name": "Rigoletto / Act 1: \"Pari siamo\"",
+      "url": "https://open.spotify.com/track/6h7UtnJlcAA0WC3d41269s"
     },
     {
       "added_at": "2025-12-22 11:16:50",
@@ -803,6 +775,34 @@
       "duration_ms": 180400,
       "name": "Nabucco / Act 4: Dio di Giuda!",
       "url": "https://open.spotify.com/track/4NHXTEsJtPayAbxT4xsHHS"
+    },
+    {
+      "added_at": "2025-12-22 11:16:50",
+      "album": {
+        "name": "Verdi: La Forza del Destino",
+        "url": "https://open.spotify.com/album/0mjJp1sq9wt5tDvQW5wOs7"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Galina Gorchakova",
+          "url": "https://open.spotify.com/artist/17zQ2xKMpkyGuH6T9F9kRD"
+        },
+        {
+          "name": "Mariinsky Orchestra",
+          "url": "https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6"
+        },
+        {
+          "name": "Valery Gergiev",
+          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
+        }
+      ],
+      "duration_ms": 239333,
+      "name": "La forza del destino - Original St.Petersburg version - Act 1: \"Me pellegrina ed orfana\"",
+      "url": "https://open.spotify.com/track/0wbGVlJdN0XtwelbwgNLL2"
     },
     {
       "added_at": "2025-12-22 11:16:50",

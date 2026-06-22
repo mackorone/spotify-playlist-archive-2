@@ -1,12 +1,12 @@
 {
   "description": "This is Joe Bonamassa. The essential tracks, all in one playlist.",
-  "num_followers": 110479,
+  "num_followers": 110488,
   "original_name": "This Is Joe Bonamassa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAAB2v12T5JuEE+3cerCTalgZ",
+  "snapshot_id": "ajXYAAAAAAAKoURc9ctIK6k+6Tp2bi8c",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues Deluxe",
-        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 215026,
-      "name": "You Upset Me Baby",
-      "url": "https://open.spotify.com/track/47UTDQeXdd6JkDCwF9vxWU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sloe Gin",
         "url": "https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 492066,
       "name": "Sloe Gin",
       "url": "https://open.spotify.com/track/5hob2jVM2gA74CyJ4G4bJZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blues Deluxe",
+        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 215026,
+      "name": "You Upset Me Baby",
+      "url": "https://open.spotify.com/track/47UTDQeXdd6JkDCwF9vxWU"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues Of Desperation",
-        "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 518533,
-      "name": "No Good Place For The Lonely",
-      "url": "https://open.spotify.com/track/1N1dVl208WmkZJ1MtLkBc3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blues Deluxe",
         "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 232933,
       "name": "Long Distance Blues",
       "url": "https://open.spotify.com/track/1GUmP2TjLWuXoegwnrPYsg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blues Of Desperation",
+        "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 518533,
+      "name": "No Good Place For The Lonely",
+      "url": "https://open.spotify.com/track/1N1dVl208WmkZJ1MtLkBc3"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues Of Desperation",
-        "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 343906,
-      "name": "Mountain Climbing",
-      "url": "https://open.spotify.com/track/3QdefKbNfifFnCwlpLtQcG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tales Of Time (Live)",
         "url": "https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 349573,
       "name": "Summertime (Live)",
       "url": "https://open.spotify.com/track/2kBpoD0of0GlqHcnlqp5JE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blues Of Desperation",
+        "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 343906,
+      "name": "Mountain Climbing",
+      "url": "https://open.spotify.com/track/3QdefKbNfifFnCwlpLtQcG"
     },
     {
       "added_at": null,
@@ -607,22 +607,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trilogy, Vol. 1",
-        "url": "https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP"
+        "name": "Dust Bowl",
+        "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
       },
       "artists": [
-        {
-          "name": "Ana Popovic",
-          "url": "https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf"
-        },
         {
           "name": "Joe Bonamassa",
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 297106,
-      "name": "Train (feat. Joe Bonamassa)",
-      "url": "https://open.spotify.com/track/43BXkw7iKGoSYY2mDIFhSj"
+      "duration_ms": 409720,
+      "name": "Slow Train",
+      "url": "https://open.spotify.com/track/1I32D5O8mjfQEglezN4bY0"
     },
     {
       "added_at": null,
@@ -647,18 +643,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dust Bowl",
-        "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
+        "name": "Trilogy, Vol. 1",
+        "url": "https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP"
       },
       "artists": [
+        {
+          "name": "Ana Popovic",
+          "url": "https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf"
+        },
         {
           "name": "Joe Bonamassa",
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 409720,
-      "name": "Slow Train",
-      "url": "https://open.spotify.com/track/1I32D5O8mjfQEglezN4bY0"
+      "duration_ms": 297106,
+      "name": "Train (feat. Joe Bonamassa)",
+      "url": "https://open.spotify.com/track/43BXkw7iKGoSYY2mDIFhSj"
     },
     {
       "added_at": null,
@@ -679,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sloe Gin",
-        "url": "https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy"
+        "name": "Dust Bowl",
+        "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
       },
       "artists": [
         {
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 340186,
-      "name": "One of these Days",
-      "url": "https://open.spotify.com/track/0qb9jT5BFVCoYi8iza9qUK"
+      "duration_ms": 254133,
+      "name": "Black Lung Heartache",
+      "url": "https://open.spotify.com/track/4WPB8sqL2RayXfI9mcz0WM"
     },
     {
       "added_at": null,
@@ -723,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dust Bowl",
-        "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
+        "name": "Sloe Gin",
+        "url": "https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy"
       },
       "artists": [
         {
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 254133,
-      "name": "Black Lung Heartache",
-      "url": "https://open.spotify.com/track/4WPB8sqL2RayXfI9mcz0WM"
+      "duration_ms": 340186,
+      "name": "One of these Days",
+      "url": "https://open.spotify.com/track/0qb9jT5BFVCoYi8iza9qUK"
     },
     {
       "added_at": null,
@@ -755,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joe Bonamassa Live from the Royal Albert Hall",
-        "url": "https://open.spotify.com/album/4SHZaB8QHE7V5GBHSlUfLd"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        },
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 344853,
-      "name": "Further On Up the Road - Live",
-      "url": "https://open.spotify.com/track/0k3b8cI0Q6Q1ZkG1XlWdGg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blues Of Desperation",
         "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
       },
@@ -791,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tattoo'd Lady (Live)",
-        "url": "https://open.spotify.com/album/3N8Z7hdXgunJUDNP0Nr5Yg"
+        "name": "The Spirit Of Rory Live From Cork",
+        "url": "https://open.spotify.com/album/67XEF1IHUmQF2sas0AZ2hq"
       },
       "artists": [
         {
@@ -800,9 +780,29 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 600653,
-      "name": "I Fall Apart (Live)",
-      "url": "https://open.spotify.com/track/42f3gDMeYCO8C95XzRuJ3s"
+      "duration_ms": 283506,
+      "name": "Calling Card (Live)",
+      "url": "https://open.spotify.com/track/3MudtSQEXaKYCzco95uGVi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joe Bonamassa Live from the Royal Albert Hall",
+        "url": "https://open.spotify.com/album/4SHZaB8QHE7V5GBHSlUfLd"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 344853,
+      "name": "Further On Up the Road - Live",
+      "url": "https://open.spotify.com/track/0k3b8cI0Q6Q1ZkG1XlWdGg"
     },
     {
       "added_at": null,
@@ -843,6 +843,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tattoo'd Lady (Live)",
+        "url": "https://open.spotify.com/album/3N8Z7hdXgunJUDNP0Nr5Yg"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 600653,
+      "name": "I Fall Apart (Live)",
+      "url": "https://open.spotify.com/track/42f3gDMeYCO8C95XzRuJ3s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "When Love Comes To Town",
         "url": "https://open.spotify.com/album/6KsHFvSdwHNL58D0XqMew3"
       },
@@ -867,26 +883,6 @@
       "duration_ms": 251346,
       "name": "When Love Comes To Town",
       "url": "https://open.spotify.com/track/3Vx3QNeVHEsFuW7iGGGA5S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I\u2019m Going Home / Trying To Do Right",
-        "url": "https://open.spotify.com/album/1jAX2M9aW7DnJRgHFZXNhf"
-      },
-      "artists": [
-        {
-          "name": "Marc Broussard",
-          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 242946,
-      "name": "I\u2019m Going Home",
-      "url": "https://open.spotify.com/track/5DyjxEFavEjhc6MoM94Fpb"
     }
   ],
   "unique_name": "This Is Joe Bonamassa",

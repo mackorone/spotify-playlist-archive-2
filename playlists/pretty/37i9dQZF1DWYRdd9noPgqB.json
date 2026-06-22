@@ -1,6 +1,6 @@
 {
   "description": "La playlist qui fait du bien \u2600\ufe0f",
-  "num_followers": 299340,
+  "num_followers": 299327,
   "original_name": "Feel Good",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,26 @@
     {
       "added_at": "2026-06-18 22:01:24",
       "album": {
+        "name": "I Love Life (feat. RANI)",
+        "url": "https://open.spotify.com/album/33cQtUeuBcXsUHoWuRoDlO"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        },
+        {
+          "name": "RANI",
+          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
+        }
+      ],
+      "duration_ms": 156190,
+      "name": "I Love Life (feat. RANI)",
+      "url": "https://open.spotify.com/track/79pT7sUpGnVQqjvlwM9sq8"
+    },
+    {
+      "added_at": "2026-06-18 22:01:24",
+      "album": {
         "name": "Let It All Out",
         "url": "https://open.spotify.com/album/0uGBqR4LqfpnuuybjZ5MNb"
       },
@@ -303,26 +323,6 @@
       "duration_ms": 201766,
       "name": "how do you dance?",
       "url": "https://open.spotify.com/track/3TFCPkwhrH1E47OoJuN4hP"
-    },
-    {
-      "added_at": "2026-06-18 22:01:24",
-      "album": {
-        "name": "I Love Life (feat. RANI)",
-        "url": "https://open.spotify.com/album/33cQtUeuBcXsUHoWuRoDlO"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        },
-        {
-          "name": "RANI",
-          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
-        }
-      ],
-      "duration_ms": 156190,
-      "name": "I Love Life (feat. RANI)",
-      "url": "https://open.spotify.com/track/79pT7sUpGnVQqjvlwM9sq8"
     },
     {
       "added_at": "2026-06-18 22:01:24",
@@ -435,6 +435,26 @@
     {
       "added_at": "2026-06-18 22:01:24",
       "album": {
+        "name": "Boogie's in My Soul",
+        "url": "https://open.spotify.com/album/58mYTAij5IQXuuDo3ojhTQ"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 222213,
+      "name": "Boogie's in My Soul",
+      "url": "https://open.spotify.com/track/3auasA1oQjH9hXr5Ux72Sk"
+    },
+    {
+      "added_at": "2026-06-18 22:01:24",
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/2nqJmQUSGDS1aBoVYWX5hN"
       },
@@ -447,6 +467,22 @@
       "duration_ms": 191133,
       "name": "Home",
       "url": "https://open.spotify.com/track/28LN7UaMESB80svwZttTYF"
+    },
+    {
+      "added_at": "2026-06-18 22:01:24",
+      "album": {
+        "name": "Meet Me In Love",
+        "url": "https://open.spotify.com/album/1dG3C2nPstMJcrrtvZGJyM"
+      },
+      "artists": [
+        {
+          "name": "Blossoms",
+          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+        }
+      ],
+      "duration_ms": 242248,
+      "name": "Meet Me In Love",
+      "url": "https://open.spotify.com/track/0aYpbEZJGOpG8KLLqGkT3q"
     },
     {
       "added_at": "2026-06-18 22:01:24",
@@ -471,22 +507,6 @@
     {
       "added_at": "2026-06-18 22:01:24",
       "album": {
-        "name": "Meet Me In Love",
-        "url": "https://open.spotify.com/album/1dG3C2nPstMJcrrtvZGJyM"
-      },
-      "artists": [
-        {
-          "name": "Blossoms",
-          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
-        }
-      ],
-      "duration_ms": 242248,
-      "name": "Meet Me In Love",
-      "url": "https://open.spotify.com/track/0aYpbEZJGOpG8KLLqGkT3q"
-    },
-    {
-      "added_at": "2026-06-18 22:01:24",
-      "album": {
         "name": "Somebody",
         "url": "https://open.spotify.com/album/4ERzj0QbSR3IgerROEtPKG"
       },
@@ -503,26 +523,6 @@
       "duration_ms": 224240,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/0qyO4rqD2KCnuk8I6GM6KD"
-    },
-    {
-      "added_at": "2026-06-18 22:01:24",
-      "album": {
-        "name": "Boogie's in My Soul",
-        "url": "https://open.spotify.com/album/58mYTAij5IQXuuDo3ojhTQ"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 222213,
-      "name": "Boogie's in My Soul",
-      "url": "https://open.spotify.com/track/3auasA1oQjH9hXr5Ux72Sk"
     },
     {
       "added_at": "2026-06-18 22:01:24",
@@ -711,6 +711,22 @@
     {
       "added_at": "2026-06-18 22:01:24",
       "album": {
+        "name": "What A Night",
+        "url": "https://open.spotify.com/album/4BNxDvVKgVuwghrLdQRrfB"
+      },
+      "artists": [
+        {
+          "name": "Malted Milk",
+          "url": "https://open.spotify.com/artist/2r5nTmvuWViPvZaLDRZ1J0"
+        }
+      ],
+      "duration_ms": 241398,
+      "name": "What A Night",
+      "url": "https://open.spotify.com/track/4XQVjFJZ2zGgtxmEPVYtQ0"
+    },
+    {
+      "added_at": "2026-06-18 22:01:24",
+      "album": {
         "name": "All The Feels",
         "url": "https://open.spotify.com/album/04Si32XoV0WYgBMlX6q8xH"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 219506,
       "name": "All The Feels",
       "url": "https://open.spotify.com/track/0Hj3Q6sxr1U3cT4sJYzlqT"
-    },
-    {
-      "added_at": "2026-06-18 22:01:24",
-      "album": {
-        "name": "What A Night",
-        "url": "https://open.spotify.com/album/4BNxDvVKgVuwghrLdQRrfB"
-      },
-      "artists": [
-        {
-          "name": "Malted Milk",
-          "url": "https://open.spotify.com/artist/2r5nTmvuWViPvZaLDRZ1J0"
-        }
-      ],
-      "duration_ms": 241398,
-      "name": "What A Night",
-      "url": "https://open.spotify.com/track/4XQVjFJZ2zGgtxmEPVYtQ0"
     },
     {
       "added_at": "2026-06-18 22:01:24",
@@ -875,6 +875,22 @@
     {
       "added_at": "2026-06-18 22:01:24",
       "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/5p7wQPXWtiOBVUb6X8BwBA"
+      },
+      "artists": [
+        {
+          "name": "Marie Sarah",
+          "url": "https://open.spotify.com/artist/6eKmkdJGSByhfNDciam6bC"
+        }
+      ],
+      "duration_ms": 196360,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/3rMpx4dIw5OeouWZsc2Ql5"
+    },
+    {
+      "added_at": "2026-06-18 22:01:24",
+      "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/6I8YtUNtTpKIU2SJPRVfId"
       },
@@ -895,22 +911,6 @@
     {
       "added_at": "2026-06-18 22:01:24",
       "album": {
-        "name": "Promises",
-        "url": "https://open.spotify.com/album/5p7wQPXWtiOBVUb6X8BwBA"
-      },
-      "artists": [
-        {
-          "name": "Marie Sarah",
-          "url": "https://open.spotify.com/artist/6eKmkdJGSByhfNDciam6bC"
-        }
-      ],
-      "duration_ms": 196360,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/3rMpx4dIw5OeouWZsc2Ql5"
-    },
-    {
-      "added_at": "2026-06-18 22:01:24",
-      "album": {
         "name": "Slow Tonight",
         "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
       },
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-06-18 22:01:24",
       "album": {
-        "name": "Divinations (Outtakes Edition)",
-        "url": "https://open.spotify.com/album/0H7Ygy8UZ1FBz5N2LKRpjq"
-      },
-      "artists": [
-        {
-          "name": "Oracle Sisters",
-          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
-        }
-      ],
-      "duration_ms": 173680,
-      "name": "Lonestar",
-      "url": "https://open.spotify.com/track/2PKMshAIk4X87ribaota1Y"
-    },
-    {
-      "added_at": "2026-06-18 22:01:24",
-      "album": {
         "name": "The Meeting (Deluxe)",
         "url": "https://open.spotify.com/album/6hJvlNYhmPZeJH19TTAKde"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 173172,
       "name": "That Girl",
       "url": "https://open.spotify.com/track/367jZlkmOpSqMGwjlRvQrp"
+    },
+    {
+      "added_at": "2026-06-18 22:01:24",
+      "album": {
+        "name": "Divinations (Outtakes Edition)",
+        "url": "https://open.spotify.com/album/0H7Ygy8UZ1FBz5N2LKRpjq"
+      },
+      "artists": [
+        {
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+        }
+      ],
+      "duration_ms": 173680,
+      "name": "Lonestar",
+      "url": "https://open.spotify.com/track/2PKMshAIk4X87ribaota1Y"
     },
     {
       "added_at": "2026-06-18 22:01:24",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-06-18 22:01:24",
       "album": {
-        "name": "A Hundred Mixed Emotions",
-        "url": "https://open.spotify.com/album/14XI796MhuPowz8BubR7Cb"
-      },
-      "artists": [
-        {
-          "name": "AFTER GEOGRAPHY",
-          "url": "https://open.spotify.com/artist/1foySkXTahyUyQ1ojNowrI"
-        }
-      ],
-      "duration_ms": 257609,
-      "name": "Hear Me Out",
-      "url": "https://open.spotify.com/track/1BfgpUJslvd4JJI1Hz49ZQ"
-    },
-    {
-      "added_at": "2026-06-18 22:01:24",
-      "album": {
         "name": "Mask Emoji",
         "url": "https://open.spotify.com/album/5wEGSKBs6vt72zJUcy4AUU"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 217066,
       "name": "Mask Emoji",
       "url": "https://open.spotify.com/track/4VB0sTdyBLQxPQi05td1El"
+    },
+    {
+      "added_at": "2026-06-18 22:01:24",
+      "album": {
+        "name": "A Hundred Mixed Emotions",
+        "url": "https://open.spotify.com/album/14XI796MhuPowz8BubR7Cb"
+      },
+      "artists": [
+        {
+          "name": "AFTER GEOGRAPHY",
+          "url": "https://open.spotify.com/artist/1foySkXTahyUyQ1ojNowrI"
+        }
+      ],
+      "duration_ms": 257609,
+      "name": "Hear Me Out",
+      "url": "https://open.spotify.com/track/1BfgpUJslvd4JJI1Hz49ZQ"
     },
     {
       "added_at": "2026-06-18 22:01:24",

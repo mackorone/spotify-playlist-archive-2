@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW37fHr0rhOh.md) - [plain]
 
 > Always there, always true!  These are the songs, old and new, you can count on time after time\.  Cover: 11th Hour
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,189 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,194 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW37fHr0rhOh.md) - [plain]
 | 49 | [Can I Get A Witness](https://open.spotify.com/track/61DSQo98OtVeCI2U1JVUBz) | [Act Of Congress](https://open.spotify.com/artist/5pcRkpZHW0fibP8wxh0s48) | [Can I Get A Witness](https://open.spotify.com/album/5Wnwe3xCiSfT1UgskNX9XD) | 3:43 |
 | 50 | [Everybody Needs Jesus](https://open.spotify.com/track/4pMbcHvslEFVQmLEu4dTrs) | [Vestal Goodman](https://open.spotify.com/artist/6CHoGb3HjH5ZHA3K6l6C6D), [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Vestal & Friends II](https://open.spotify.com/album/2zywWUBpkskUPs2cCSoj1J) | 3:15 |
 
-Snapshot ID: `AAAAAKEfRdHx7ew5ex92cjtg8YroPc3Z`
+Snapshot ID: `AAAAAKxUknUDEIwZYDOYwkjalXm3D0Yl`

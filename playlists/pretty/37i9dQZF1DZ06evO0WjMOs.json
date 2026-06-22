@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzy McAlpine. The essential tracks, all in one playlist.",
-  "num_followers": 56278,
+  "num_followers": 56298,
   "original_name": "This Is Lizzy McAlpine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAACm4QhNc/peWMO1RIV4XVxm",
+  "snapshot_id": "ajXYAAAAAABTfDBeLweTAuVJ9hK/m8bo",
   "tracks": [
     {
       "added_at": null,
@@ -311,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "When The World Stopped Moving: The Live EP",
+        "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 180482,
+      "name": "Let Light Be Light",
+      "url": "https://open.spotify.com/track/5ao5BeXUi0FRKoP58rsUXB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Djesse Vol. 4",
         "url": "https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 250200,
       "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
       "url": "https://open.spotify.com/track/275XKjLmQFuZnxTvvtJ6VZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "When The World Stopped Moving: The Live EP",
-        "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 180482,
-      "name": "Let Light Be Light",
-      "url": "https://open.spotify.com/track/5ao5BeXUi0FRKoP58rsUXB"
     },
     {
       "added_at": null,

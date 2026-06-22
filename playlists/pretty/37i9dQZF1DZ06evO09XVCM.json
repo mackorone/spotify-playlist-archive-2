@@ -1,12 +1,12 @@
 {
   "description": "This is Ziggy Marley. The essential tracks, all in one playlist.",
-  "num_followers": 35264,
+  "num_followers": 35270,
   "original_name": "This Is Ziggy Marley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAABESJVvJKWye2ktlp/IyiT4",
+  "snapshot_id": "ajXYAAAAAACLduP6J1yRtRVGCm83xE+u",
   "tracks": [
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ziggy Marley",
-        "url": "https://open.spotify.com/album/7fIN5avPoJja6R05c0h0NI"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 267306,
-      "name": "Weekend's Long",
-      "url": "https://open.spotify.com/track/4Y2GDsWFPYA7ijDSYB4m9Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Iron Lion Zion (feat. Ziggy Marley & ChocQuibTown)",
         "url": "https://open.spotify.com/album/2uKjJJ1dRu5ovo9PajxnPf"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 270386,
       "name": "Iron Lion Zion (feat. Ziggy Marley & ChocQuibTown)",
       "url": "https://open.spotify.com/track/1sCfYZLKuW5OJ5AZQxIgj8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ziggy Marley",
+        "url": "https://open.spotify.com/album/7fIN5avPoJja6R05c0h0NI"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 267306,
+      "name": "Weekend's Long",
+      "url": "https://open.spotify.com/track/4Y2GDsWFPYA7ijDSYB4m9Y"
     },
     {
       "added_at": null,
@@ -639,74 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brightside",
-        "url": "https://open.spotify.com/album/0b57ZiCwZ1zNPiVxPD3nU6"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        },
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 213621,
-      "name": "Make It Paradise",
-      "url": "https://open.spotify.com/track/4K3O1bewDOnVxAJ5EaOrT5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Family Time",
-        "url": "https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        },
-        {
-          "name": "Rita Marley",
-          "url": "https://open.spotify.com/artist/13Kn0OI9oXhBDXClb1hGy3"
-        },
-        {
-          "name": "Cedella Marley",
-          "url": "https://open.spotify.com/artist/6KL6RLoRlfIYXGx4UAYT6O"
-        }
-      ],
-      "duration_ms": 213480,
-      "name": "I Love You Too (feat. Rita Marley; Cedella Marley)",
-      "url": "https://open.spotify.com/track/7hLLbfEkx1UeXkD91oII0I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cumbiana",
-        "url": "https://open.spotify.com/album/1AWWSFCourc5LCAczs3GOS"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        },
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        },
-        {
-          "name": "Elkin Robinson",
-          "url": "https://open.spotify.com/artist/1MS4MMgPaQ0WyM0u0Uj3EO"
-        }
-      ],
-      "duration_ms": 228450,
-      "name": "El Hilo",
-      "url": "https://open.spotify.com/track/73MVpByUJzvT5GFNkss7ik"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cornerstone",
         "url": "https://open.spotify.com/album/2jqGD1iy3gicuNA83FXx9E"
       },
@@ -743,22 +675,70 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Soul",
-        "url": "https://open.spotify.com/album/0J6JtP3hyCEqenKHjrE0um"
+        "name": "Cumbiana",
+        "url": "https://open.spotify.com/album/1AWWSFCourc5LCAczs3GOS"
       },
       "artists": [
         {
-          "name": "Stephen Marley",
-          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
         },
         {
           "name": "Ziggy Marley",
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "name": "Elkin Robinson",
+          "url": "https://open.spotify.com/artist/1MS4MMgPaQ0WyM0u0Uj3EO"
         }
       ],
-      "duration_ms": 225595,
-      "name": "There's A Reward",
-      "url": "https://open.spotify.com/track/2PHEYqrgMEiTqmx4HCxgSa"
+      "duration_ms": 228450,
+      "name": "El Hilo",
+      "url": "https://open.spotify.com/track/73MVpByUJzvT5GFNkss7ik"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Family Time",
+        "url": "https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "name": "Rita Marley",
+          "url": "https://open.spotify.com/artist/13Kn0OI9oXhBDXClb1hGy3"
+        },
+        {
+          "name": "Cedella Marley",
+          "url": "https://open.spotify.com/artist/6KL6RLoRlfIYXGx4UAYT6O"
+        }
+      ],
+      "duration_ms": 213480,
+      "name": "I Love You Too (feat. Rita Marley; Cedella Marley)",
+      "url": "https://open.spotify.com/track/7hLLbfEkx1UeXkD91oII0I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brightside",
+        "url": "https://open.spotify.com/album/0b57ZiCwZ1zNPiVxPD3nU6"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 213621,
+      "name": "Make It Paradise",
+      "url": "https://open.spotify.com/track/4K3O1bewDOnVxAJ5EaOrT5"
     },
     {
       "added_at": null,
@@ -799,6 +779,26 @@
       "duration_ms": 236746,
       "name": "Sedjedo",
       "url": "https://open.spotify.com/track/7gb6UolAvBNPad7IIXLoAB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Old Soul",
+        "url": "https://open.spotify.com/album/0J6JtP3hyCEqenKHjrE0um"
+      },
+      "artists": [
+        {
+          "name": "Stephen Marley",
+          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
+        },
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 225595,
+      "name": "There's A Reward",
+      "url": "https://open.spotify.com/track/2PHEYqrgMEiTqmx4HCxgSa"
     },
     {
       "added_at": null,

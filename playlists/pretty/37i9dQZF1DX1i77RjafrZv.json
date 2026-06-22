@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles chansons d'amour de la vari\u00e9t\u00e9 fran\u00e7aise.",
-  "num_followers": 316802,
+  "num_followers": 316798,
   "original_name": "French Kiss",
   "owner": {
     "name": "Spotify",
@@ -271,18 +271,18 @@
     {
       "added_at": "2026-04-15 08:53:32",
       "album": {
-        "name": "Pure",
-        "url": "https://open.spotify.com/album/1VOw4yLcyAgwPR3dGPXRnm"
+        "name": "Savoir Aimer",
+        "url": "https://open.spotify.com/album/6f6O9rhUAlFv9y18O2AZ0p"
       },
       "artists": [
         {
-          "name": "Lara Fabian",
-          "url": "https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20"
+          "name": "Florent Pagny",
+          "url": "https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9"
         }
       ],
-      "duration_ms": 261106,
-      "name": "Je T\u2019aime",
-      "url": "https://open.spotify.com/track/28mwuJqKOjRpqo14GuKSkj"
+      "duration_ms": 281213,
+      "name": "Savoir aimer",
+      "url": "https://open.spotify.com/track/0x8GIrcAO8msuslNoTKIXM"
     },
     {
       "added_at": "2026-04-15 08:53:32",
@@ -307,18 +307,18 @@
     {
       "added_at": "2026-04-15 08:53:32",
       "album": {
-        "name": "Savoir Aimer",
-        "url": "https://open.spotify.com/album/6f6O9rhUAlFv9y18O2AZ0p"
+        "name": "Pure",
+        "url": "https://open.spotify.com/album/1VOw4yLcyAgwPR3dGPXRnm"
       },
       "artists": [
         {
-          "name": "Florent Pagny",
-          "url": "https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9"
+          "name": "Lara Fabian",
+          "url": "https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20"
         }
       ],
-      "duration_ms": 281213,
-      "name": "Savoir aimer",
-      "url": "https://open.spotify.com/track/0x8GIrcAO8msuslNoTKIXM"
+      "duration_ms": 261106,
+      "name": "Je T\u2019aime",
+      "url": "https://open.spotify.com/track/28mwuJqKOjRpqo14GuKSkj"
     },
     {
       "added_at": "2026-04-15 08:53:32",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-04-15 08:53:32",
       "album": {
-        "name": "Morgane De Toi (2013 Remaster)",
-        "url": "https://open.spotify.com/album/0kXYiKUznqm9ZyFxhuOvBE"
-      },
-      "artists": [
-        {
-          "name": "Renaud",
-          "url": "https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r"
-        }
-      ],
-      "duration_ms": 372186,
-      "name": "Morgane de toi - 2013 Remaster",
-      "url": "https://open.spotify.com/track/3v6ClatJ2nG0TIpfL3HwY1"
-    },
-    {
-      "added_at": "2026-04-15 08:53:32",
-      "album": {
         "name": "Joe Dassin \u00c9ternel...",
         "url": "https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 269320,
       "name": "L'\u00e9t\u00e9 indien",
       "url": "https://open.spotify.com/track/7BNeFchpHDCWYSUV4hfU89"
+    },
+    {
+      "added_at": "2026-04-15 08:53:32",
+      "album": {
+        "name": "Morgane De Toi (2013 Remaster)",
+        "url": "https://open.spotify.com/album/0kXYiKUznqm9ZyFxhuOvBE"
+      },
+      "artists": [
+        {
+          "name": "Renaud",
+          "url": "https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r"
+        }
+      ],
+      "duration_ms": 372186,
+      "name": "Morgane de toi - 2013 Remaster",
+      "url": "https://open.spotify.com/track/3v6ClatJ2nG0TIpfL3HwY1"
     },
     {
       "added_at": "2026-04-15 08:53:32",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-04-15 08:53:32",
       "album": {
-        "name": "Joie de vivre",
-        "url": "https://open.spotify.com/album/7cyuFUJLQkLVF7JIB2U9T2"
-      },
-      "artists": [
-        {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
-        }
-      ],
-      "duration_ms": 176160,
-      "name": "Aimer \u00e0 mort",
-      "url": "https://open.spotify.com/track/2HENwndPLHINxHhQPMh8BE"
-    },
-    {
-      "added_at": "2026-04-15 08:53:32",
-      "album": {
         "name": "Qui s\u00e8me le vent r\u00e9colte le tempo",
         "url": "https://open.spotify.com/album/5hM61fBUA5OIMJUUuMrzyH"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 283493,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/7esR7jO5Fyl78B6CwwhZJy"
+    },
+    {
+      "added_at": "2026-04-15 08:53:32",
+      "album": {
+        "name": "Joie de vivre",
+        "url": "https://open.spotify.com/album/7cyuFUJLQkLVF7JIB2U9T2"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "duration_ms": 176160,
+      "name": "Aimer \u00e0 mort",
+      "url": "https://open.spotify.com/track/2HENwndPLHINxHhQPMh8BE"
     },
     {
       "added_at": "2026-04-15 08:53:32",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-04-15 08:53:32",
       "album": {
-        "name": "De L' Amour Le Mieux",
-        "url": "https://open.spotify.com/album/4eSOb60jr7Q9nKQbLZXhCD"
-      },
-      "artists": [
-        {
-          "name": "Natasha St-Pier",
-          "url": "https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch"
-        }
-      ],
-      "duration_ms": 298960,
-      "name": "Tu trouveras",
-      "url": "https://open.spotify.com/track/6kaD0ve95sXjnq6EITyVkv"
-    },
-    {
-      "added_at": "2026-04-15 08:53:32",
-      "album": {
         "name": "Comic Strip",
         "url": "https://open.spotify.com/album/0K7Rapnz35iffV4NNGWtPG"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 268600,
       "name": "Je t'aime moi non plus",
       "url": "https://open.spotify.com/track/5P0tWr5JZqDoi5wq2OalFH"
+    },
+    {
+      "added_at": "2026-04-15 08:53:32",
+      "album": {
+        "name": "De L' Amour Le Mieux",
+        "url": "https://open.spotify.com/album/4eSOb60jr7Q9nKQbLZXhCD"
+      },
+      "artists": [
+        {
+          "name": "Natasha St-Pier",
+          "url": "https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch"
+        }
+      ],
+      "duration_ms": 298960,
+      "name": "Tu trouveras",
+      "url": "https://open.spotify.com/track/6kaD0ve95sXjnq6EITyVkv"
     },
     {
       "added_at": "2026-04-15 08:53:32",

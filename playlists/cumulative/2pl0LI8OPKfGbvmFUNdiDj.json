@@ -7527,6 +7527,28 @@
     },
     {
       "album": {
+        "name": "Take Another Drag",
+        "url": "https://open.spotify.com/album/0QujmIPiE087gdOoMYtBiX"
+      },
+      "artists": [
+        {
+          "name": "Cam Get'm",
+          "url": "https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh"
+        },
+        {
+          "name": "Yung Father",
+          "url": "https://open.spotify.com/artist/1u060weQXyTEVdGPZEfIM7"
+        }
+      ],
+      "date_added": "2026-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252223,
+      "name": "Take Another Drag",
+      "url": "https://open.spotify.com/track/148ES5Swi6aBxRxy1LIAeq"
+    },
+    {
+      "album": {
         "name": "Take Me There",
         "url": "https://open.spotify.com/album/7B9n80xlWR68UQlaKMyHrE"
       },

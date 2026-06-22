@@ -1,15 +1,79 @@
 {
   "description": "Your daily update of the most played tracks right now - Iceland.",
-  "num_followers": 43717,
+  "num_followers": 43720,
   "original_name": "Top 50 - Iceland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "McoQMAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "McthsAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-06-20 13:50:39",
+      "added_at": "2026-06-21 13:45:20",
+      "album": {
+        "name": "Hard",
+        "url": "https://open.spotify.com/album/4kmxjLrzejzU5apjw55XHy"
+      },
+      "artists": [
+        {
+          "name": "DJ Lantan",
+          "url": "https://open.spotify.com/artist/661ozK82Y6kI0g3pd75FTZ"
+        }
+      ],
+      "duration_ms": 194359,
+      "name": "Hard",
+      "url": "https://open.spotify.com/track/1TtykjjAlhV0yBVyPDDbR9"
+    },
+    {
+      "added_at": "2026-06-21 13:45:20",
+      "album": {
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 213706,
+      "name": "Way down We Go",
+      "url": "https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6"
+    },
+    {
+      "added_at": "2026-06-21 13:45:20",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 108901,
+      "name": "Dvel \u00e9g \u00ed draumah\u00f6ll",
+      "url": "https://open.spotify.com/track/3ovhC4v5a73S0afcOHhnu2"
+    },
+    {
+      "added_at": "2026-06-21 13:45:20",
+      "album": {
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 269893,
+      "name": "All the Pretty Girls",
+      "url": "https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6"
+    },
+    {
+      "added_at": "2026-06-21 13:45:20",
       "album": {
         "name": "Hugsa sk\u00fdrt",
         "url": "https://open.spotify.com/album/7sG8kELrHVV8esBSVfnzgK"
@@ -29,7 +93,7 @@
       "url": "https://open.spotify.com/track/3Pe74NsPbSjp1Kv2he8ZHr"
     },
     {
-      "added_at": "2026-06-20 13:50:39",
+      "added_at": "2026-06-21 13:45:20",
       "album": {
         "name": "Thriller",
         "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
@@ -45,7 +109,7 @@
       "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
     },
     {
-      "added_at": "2026-06-20 13:50:39",
+      "added_at": "2026-06-21 13:45:20",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -56,12 +120,12 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 108901,
-      "name": "Dvel \u00e9g \u00ed draumah\u00f6ll",
-      "url": "https://open.spotify.com/track/3ovhC4v5a73S0afcOHhnu2"
+      "duration_ms": 152415,
+      "name": "Litlar stj\u00f6rnur",
+      "url": "https://open.spotify.com/track/1l2AHO7bb47QGFKJmXhXMz"
     },
     {
-      "added_at": "2026-06-20 13:50:39",
+      "added_at": "2026-06-21 13:45:20",
       "album": {
         "name": "\u00cdslenski draumurinn",
         "url": "https://open.spotify.com/album/5z5KYSkxzw2AalpJVLxSya"
@@ -81,7 +145,71 @@
       "url": "https://open.spotify.com/track/2gXAPQRBr1WWqJos2EaXzM"
     },
     {
-      "added_at": "2026-06-20 13:50:39",
+      "added_at": "2026-06-21 13:45:20",
+      "album": {
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "No Good",
+      "url": "https://open.spotify.com/track/0Tr5G2mE56eLUGvCaXRM8I"
+    },
+    {
+      "added_at": "2026-06-21 13:45:20",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 99613,
+      "name": "\u00d3skasteinar",
+      "url": "https://open.spotify.com/track/5myQVDBhZvE7DIvsQICuKn"
+    },
+    {
+      "added_at": "2026-06-21 13:45:20",
+      "album": {
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 245960,
+      "name": "Broken Bones",
+      "url": "https://open.spotify.com/track/0lwUIYJfWGB8qUEAJtYfb6"
+    },
+    {
+      "added_at": "2026-06-21 13:45:20",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 133050,
+      "name": "Sof\u00f0u unga \u00e1stin m\u00edn",
+      "url": "https://open.spotify.com/track/0Xh9sOCT7ZvmKg8KthRYnH"
+    },
+    {
+      "added_at": "2026-06-21 13:45:20",
       "album": {
         "name": "LEIKURINN ER LEIKURINN",
         "url": "https://open.spotify.com/album/68Q0d4B71X0kVm0eZUh0ZP"
@@ -101,23 +229,23 @@
       "url": "https://open.spotify.com/track/4TF2zIRzf7lYueF8M3m10c"
     },
     {
-      "added_at": "2026-06-20 13:50:39",
+      "added_at": "2026-06-21 13:45:20",
       "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
       },
       "artists": [
         {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
         }
       ],
-      "duration_ms": 152415,
-      "name": "Litlar stj\u00f6rnur",
-      "url": "https://open.spotify.com/track/1l2AHO7bb47QGFKJmXhXMz"
+      "duration_ms": 277266,
+      "name": "Vor \u00ed Vaglask\u00f3gi",
+      "url": "https://open.spotify.com/track/2OdpZeTpnbqPqBrclk2pib"
     },
     {
-      "added_at": "2026-06-20 13:50:39",
+      "added_at": "2026-06-21 13:45:20",
       "album": {
         "name": "Thriller",
         "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
@@ -133,23 +261,7 @@
       "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
     },
     {
-      "added_at": "2026-06-20 13:50:39",
-      "album": {
-        "name": "hate that i made you love me",
-        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 197949,
-      "name": "hate that i made you love me",
-      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
-    },
-    {
-      "added_at": "2026-06-20 13:50:39",
+      "added_at": "2026-06-21 13:45:20",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -160,12 +272,28 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 133050,
-      "name": "Sof\u00f0u unga \u00e1stin m\u00edn",
-      "url": "https://open.spotify.com/track/0Xh9sOCT7ZvmKg8KthRYnH"
+      "duration_ms": 150883,
+      "name": "Sofa urtub\u00f6rn",
+      "url": "https://open.spotify.com/track/1MWg9aH6OhteqF1RXR3J5w"
     },
     {
-      "added_at": "2026-06-20 13:50:39",
+      "added_at": "2026-06-21 13:45:20",
+      "album": {
+        "name": "Surface Sounds",
+        "url": "https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 284798,
+      "name": "Hey Gringo",
+      "url": "https://open.spotify.com/track/4aPeeN8IYOCMNBGI0p7169"
+    },
+    {
+      "added_at": "2026-06-21 13:45:20",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -176,12 +304,44 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 99613,
-      "name": "\u00d3skasteinar",
-      "url": "https://open.spotify.com/track/5myQVDBhZvE7DIvsQICuKn"
+      "duration_ms": 175403,
+      "name": "B\u00edum b\u00edum bambal\u00f3",
+      "url": "https://open.spotify.com/track/5pn6OskYybJrrqcdlNpBvk"
     },
     {
-      "added_at": "2026-06-20 13:50:39",
+      "added_at": "2026-06-21 13:45:20",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 197137,
+      "name": "Lj\u00f3s",
+      "url": "https://open.spotify.com/track/0RT86wBrufYQZSdN852Wjn"
+    },
+    {
+      "added_at": "2026-06-21 13:45:20",
+      "album": {
+        "name": "Fingraf\u00f6r",
+        "url": "https://open.spotify.com/album/2TftIxOv1RfrNXZ8xBWm2p"
+      },
+      "artists": [
+        {
+          "name": "Bubbi Morthens",
+          "url": "https://open.spotify.com/artist/0MtTfq27LQu7CmE5t308Up"
+        }
+      ],
+      "duration_ms": 324568,
+      "name": "Afgan",
+      "url": "https://open.spotify.com/track/4OVD1iLIGfdYhh0jUWsluy"
+    },
+    {
+      "added_at": "2026-06-21 13:45:20",
       "album": {
         "name": "ICEMAN",
         "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
@@ -197,7 +357,39 @@
       "url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
     },
     {
-      "added_at": "2026-06-20 13:50:39",
+      "added_at": "2026-06-21 13:45:20",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 132446,
+      "name": "G\u00f3\u00f0a n\u00f3tt",
+      "url": "https://open.spotify.com/track/7nzeIh8kUdieUBLPXch9wi"
+    },
+    {
+      "added_at": "2026-06-21 13:45:20",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 191332,
+      "name": "\u00c6vint\u00fdral\u00f6nd",
+      "url": "https://open.spotify.com/track/1ZzSy8HeLFZAeuQi577bhB"
+    },
+    {
+      "added_at": "2026-06-21 13:45:20",
       "album": {
         "name": "The Divine Feminine",
         "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
@@ -217,7 +409,7 @@
       "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
     },
     {
-      "added_at": "2026-06-20 13:50:39",
+      "added_at": "2026-06-21 13:45:20",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -228,124 +420,28 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 150883,
-      "name": "Sofa urtub\u00f6rn",
-      "url": "https://open.spotify.com/track/1MWg9aH6OhteqF1RXR3J5w"
+      "duration_ms": 123576,
+      "name": "B\u00ed b\u00ed og blaka",
+      "url": "https://open.spotify.com/track/2q2cdTPrbgWSxLFFXjjaoO"
     },
     {
-      "added_at": "2026-06-20 13:50:39",
+      "added_at": "2026-06-21 13:45:20",
       "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+        "name": "hate that i made you love me",
+        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
       },
       "artists": [
         {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 175403,
-      "name": "B\u00edum b\u00edum bambal\u00f3",
-      "url": "https://open.spotify.com/track/5pn6OskYybJrrqcdlNpBvk"
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
     },
     {
-      "added_at": "2026-06-20 13:50:39",
-      "album": {
-        "name": "A/B",
-        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 213706,
-      "name": "Way down We Go",
-      "url": "https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6"
-    },
-    {
-      "added_at": "2026-06-20 13:50:39",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 197137,
-      "name": "Lj\u00f3s",
-      "url": "https://open.spotify.com/track/0RT86wBrufYQZSdN852Wjn"
-    },
-    {
-      "added_at": "2026-06-20 13:50:39",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 191332,
-      "name": "\u00c6vint\u00fdral\u00f6nd",
-      "url": "https://open.spotify.com/track/1ZzSy8HeLFZAeuQi577bhB"
-    },
-    {
-      "added_at": "2026-06-20 13:50:39",
-      "album": {
-        "name": "Fingraf\u00f6r",
-        "url": "https://open.spotify.com/album/2TftIxOv1RfrNXZ8xBWm2p"
-      },
-      "artists": [
-        {
-          "name": "Bubbi Morthens",
-          "url": "https://open.spotify.com/artist/0MtTfq27LQu7CmE5t308Up"
-        }
-      ],
-      "duration_ms": 324568,
-      "name": "Afgan",
-      "url": "https://open.spotify.com/track/4OVD1iLIGfdYhh0jUWsluy"
-    },
-    {
-      "added_at": "2026-06-20 13:50:39",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 132446,
-      "name": "G\u00f3\u00f0a n\u00f3tt",
-      "url": "https://open.spotify.com/track/7nzeIh8kUdieUBLPXch9wi"
-    },
-    {
-      "added_at": "2026-06-20 13:50:39",
-      "album": {
-        "name": "T\u00d3NLIST TIL A\u00d0 SIGRA VI\u00d0",
-        "url": "https://open.spotify.com/album/2yqwaUL7NiAtvNGYRTlWCW"
-      },
-      "artists": [
-        {
-          "name": "Herra Hnetusmj\u00f6r",
-          "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
-        }
-      ],
-      "duration_ms": 165791,
-      "name": "\u00c9G MYNDI L\u00cdKA HATA MIG",
-      "url": "https://open.spotify.com/track/5x5co4f7pHOWzYcnponeMk"
-    },
-    {
-      "added_at": "2026-06-20 13:50:39",
+      "added_at": "2026-06-21 13:45:20",
       "album": {
         "name": "Kona",
         "url": "https://open.spotify.com/album/4FyzzmUFi1NWMBuwUSmLru"
@@ -361,23 +457,71 @@
       "url": "https://open.spotify.com/track/53UXY91LLMuISer0X8RsWq"
     },
     {
-      "added_at": "2026-06-20 13:50:39",
+      "added_at": "2026-06-21 13:45:20",
       "album": {
-        "name": "bararara",
-        "url": "https://open.spotify.com/album/3FH7CWfONspUH95avG1TNA"
+        "name": "KBE kynnir: Legend \u00ed Leiknum",
+        "url": "https://open.spotify.com/album/5hoR5fg75A1FiQMjOLgpj3"
       },
       "artists": [
         {
-          "name": "ISSI",
-          "url": "https://open.spotify.com/artist/2Irligkck4dss52iaG1cXL"
+          "name": "Herra Hnetusmj\u00f6r",
+          "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
         }
       ],
-      "duration_ms": 150901,
-      "name": "bararara",
-      "url": "https://open.spotify.com/track/24wNSeNXxSruy3iDu9OSD5"
+      "duration_ms": 138430,
+      "name": "Elli Egils",
+      "url": "https://open.spotify.com/track/6dqtXAD7TqlhZVroaUigVC"
     },
     {
-      "added_at": "2026-06-20 13:50:39",
+      "added_at": "2026-06-21 13:45:20",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 193282,
+      "name": "Sof\u00f0u",
+      "url": "https://open.spotify.com/track/51J0zLsmKb265vmylOJGMr"
+    },
+    {
+      "added_at": "2026-06-21 13:45:20",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 125852,
+      "name": "Frost er \u00fati fuglinn minn",
+      "url": "https://open.spotify.com/track/1sgn8wmK2kuJrF9ppsnH2F"
+    },
+    {
+      "added_at": "2026-06-21 13:45:20",
+      "album": {
+        "name": "T\u00d3NLIST TIL A\u00d0 SIGRA VI\u00d0",
+        "url": "https://open.spotify.com/album/2yqwaUL7NiAtvNGYRTlWCW"
+      },
+      "artists": [
+        {
+          "name": "Herra Hnetusmj\u00f6r",
+          "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
+        }
+      ],
+      "duration_ms": 165791,
+      "name": "\u00c9G MYNDI L\u00cdKA HATA MIG",
+      "url": "https://open.spotify.com/track/5x5co4f7pHOWzYcnponeMk"
+    },
+    {
+      "added_at": "2026-06-21 13:45:20",
       "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
@@ -397,7 +541,103 @@
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
     },
     {
-      "added_at": "2026-06-20 13:50:39",
+      "added_at": "2026-06-21 13:45:20",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 182090,
+      "name": "N\u00f3ttin l\u00e6\u00f0ist inn",
+      "url": "https://open.spotify.com/track/5TBNZCGMR1NJtJrrg606m0"
+    },
+    {
+      "added_at": "2026-06-21 13:45:20",
+      "album": {
+        "name": "Surface Sounds",
+        "url": "https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 265558,
+      "name": "Break My Baby",
+      "url": "https://open.spotify.com/track/3BsoE7SgveujY2jeV2rVRw"
+    },
+    {
+      "added_at": "2026-06-21 13:45:20",
+      "album": {
+        "name": "L\u00edfi\u00f0 er lj\u00faft",
+        "url": "https://open.spotify.com/album/4vAIhzPuooBRaSutD2SqZv"
+      },
+      "artists": [
+        {
+          "name": "Bubbi Morthens",
+          "url": "https://open.spotify.com/artist/0MtTfq27LQu7CmE5t308Up"
+        }
+      ],
+      "duration_ms": 286348,
+      "name": "\u00dea\u00f0 er gott a\u00f0 elska",
+      "url": "https://open.spotify.com/track/6I8wic0mBs7uEvwiCTOTlt"
+    },
+    {
+      "added_at": "2026-06-21 13:45:20",
+      "album": {
+        "name": "bararara",
+        "url": "https://open.spotify.com/album/3FH7CWfONspUH95avG1TNA"
+      },
+      "artists": [
+        {
+          "name": "ISSI",
+          "url": "https://open.spotify.com/artist/2Irligkck4dss52iaG1cXL"
+        }
+      ],
+      "duration_ms": 150901,
+      "name": "bararara",
+      "url": "https://open.spotify.com/track/24wNSeNXxSruy3iDu9OSD5"
+    },
+    {
+      "added_at": "2026-06-21 13:45:20",
+      "album": {
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 377000,
+      "name": "I Can't Go on Without You",
+      "url": "https://open.spotify.com/track/1dX6oGAG5PaexuPj29PsYd"
+    },
+    {
+      "added_at": "2026-06-21 13:45:20",
+      "album": {
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 218600,
+      "name": "Hot Blood",
+      "url": "https://open.spotify.com/track/7d9sZF7jmepe2EYdETlNWK"
+    },
+    {
+      "added_at": "2026-06-21 13:45:20",
       "album": {
         "name": "Thriller",
         "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
@@ -413,39 +653,7 @@
       "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
     },
     {
-      "added_at": "2026-06-20 13:50:39",
-      "album": {
-        "name": "KBE kynnir: Legend \u00ed Leiknum",
-        "url": "https://open.spotify.com/album/5hoR5fg75A1FiQMjOLgpj3"
-      },
-      "artists": [
-        {
-          "name": "Herra Hnetusmj\u00f6r",
-          "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
-        }
-      ],
-      "duration_ms": 138430,
-      "name": "Elli Egils",
-      "url": "https://open.spotify.com/track/6dqtXAD7TqlhZVroaUigVC"
-    },
-    {
-      "added_at": "2026-06-20 13:50:39",
-      "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 209680,
-      "name": "stupid song",
-      "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
-    },
-    {
-      "added_at": "2026-06-20 13:50:39",
+      "added_at": "2026-06-21 13:45:20",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -456,44 +664,76 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 123576,
-      "name": "B\u00ed b\u00ed og blaka",
-      "url": "https://open.spotify.com/track/2q2cdTPrbgWSxLFFXjjaoO"
+      "duration_ms": 135325,
+      "name": "\u00de\u00fa ert",
+      "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"
     },
     {
-      "added_at": "2026-06-20 13:50:39",
+      "added_at": "2026-06-21 13:45:20",
       "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+        "name": "Hagl\u00e9l",
+        "url": "https://open.spotify.com/album/3pE68FgUNwXGn6xh4OKx04"
       },
       "artists": [
         {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+          "name": "Mugison",
+          "url": "https://open.spotify.com/artist/0tcAr5iQkX49C7AjuhAtC2"
         }
       ],
-      "duration_ms": 193282,
-      "name": "Sof\u00f0u",
-      "url": "https://open.spotify.com/track/51J0zLsmKb265vmylOJGMr"
+      "duration_ms": 240106,
+      "name": "Stingum Af",
+      "url": "https://open.spotify.com/track/0yltFzTFI64tr5aNVc2isX"
     },
     {
-      "added_at": "2026-06-20 13:50:39",
+      "added_at": "2026-06-21 13:45:20",
       "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+        "name": "Ilashe Vibe",
+        "url": "https://open.spotify.com/album/5qCc66TZavEOMn10kn8tc6"
       },
       "artists": [
         {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+          "name": "Wrldleadin",
+          "url": "https://open.spotify.com/artist/022VFq6BZF9DUYbmnL9d0l"
+        },
+        {
+          "name": "MakoTheVibe",
+          "url": "https://open.spotify.com/artist/1Sp8WcxeiSBvVXd4LiE86k"
+        },
+        {
+          "name": "GABBEEGRAM",
+          "url": "https://open.spotify.com/artist/334RW2Ihsqw3Pajn6E1QOi"
+        },
+        {
+          "name": "Boi Drixx",
+          "url": "https://open.spotify.com/artist/58s656POt7ZeG3gqN0iJ48"
+        },
+        {
+          "name": "Wahala Music",
+          "url": "https://open.spotify.com/artist/3t4763PHnHLiRVgndqsNLj"
         }
       ],
-      "duration_ms": 125852,
-      "name": "Frost er \u00fati fuglinn minn",
-      "url": "https://open.spotify.com/track/1sgn8wmK2kuJrF9ppsnH2F"
+      "duration_ms": 269739,
+      "name": "Ilashe Vibe",
+      "url": "https://open.spotify.com/track/7aD6JdYUSWzOC0R42nazLI"
     },
     {
-      "added_at": "2026-06-20 13:50:39",
+      "added_at": "2026-06-21 13:45:20",
+      "album": {
+        "name": "S\u00f3l a\u00f0 morgni",
+        "url": "https://open.spotify.com/album/34mRL4KleSGkTnXW7iF894"
+      },
+      "artists": [
+        {
+          "name": "Bubbi Morthens",
+          "url": "https://open.spotify.com/artist/0MtTfq27LQu7CmE5t308Up"
+        }
+      ],
+      "duration_ms": 292199,
+      "name": "Vi\u00f0 Gr\u00f3ttu",
+      "url": "https://open.spotify.com/track/51DYh8jb6FCioarSwgnbiJ"
+    },
+    {
+      "added_at": "2026-06-21 13:45:20",
       "album": {
         "name": "Off the Wall",
         "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
@@ -509,7 +749,39 @@
       "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"
     },
     {
-      "added_at": "2026-06-20 13:50:39",
+      "added_at": "2026-06-21 13:45:20",
+      "album": {
+        "name": "D\u00f6gun",
+        "url": "https://open.spotify.com/album/0TmDqhoMnsP6sbpzJTb2xw"
+      },
+      "artists": [
+        {
+          "name": "Bubbi Morthens",
+          "url": "https://open.spotify.com/artist/0MtTfq27LQu7CmE5t308Up"
+        }
+      ],
+      "duration_ms": 308268,
+      "name": "Aldrei f\u00f3r \u00e9g su\u00f0ur",
+      "url": "https://open.spotify.com/track/3kfDamWWa5tQXdS3Kgu0xi"
+    },
+    {
+      "added_at": "2026-06-21 13:45:20",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 99752,
+      "name": "S\u00f3lskin",
+      "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
+    },
+    {
+      "added_at": "2026-06-21 13:45:20",
       "album": {
         "name": "T\u00fdnda kynsl\u00f3\u00f0in",
         "url": "https://open.spotify.com/album/5G8VCOGip6X184jLtdqxhr"
@@ -533,135 +805,7 @@
       "url": "https://open.spotify.com/track/5P3MwEcrBYQ4oviLfk8pLU"
     },
     {
-      "added_at": "2026-06-20 13:50:39",
-      "album": {
-        "name": "L\u00edfi\u00f0 er lj\u00faft",
-        "url": "https://open.spotify.com/album/4vAIhzPuooBRaSutD2SqZv"
-      },
-      "artists": [
-        {
-          "name": "Bubbi Morthens",
-          "url": "https://open.spotify.com/artist/0MtTfq27LQu7CmE5t308Up"
-        }
-      ],
-      "duration_ms": 286348,
-      "name": "\u00dea\u00f0 er gott a\u00f0 elska",
-      "url": "https://open.spotify.com/track/6I8wic0mBs7uEvwiCTOTlt"
-    },
-    {
-      "added_at": "2026-06-20 13:50:39",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 182090,
-      "name": "N\u00f3ttin l\u00e6\u00f0ist inn",
-      "url": "https://open.spotify.com/track/5TBNZCGMR1NJtJrrg606m0"
-    },
-    {
-      "added_at": "2026-06-20 13:50:39",
-      "album": {
-        "name": "Man I Need",
-        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Man I Need",
-      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
-    },
-    {
-      "added_at": "2026-06-20 13:50:39",
-      "album": {
-        "name": "A/B",
-        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 269893,
-      "name": "All the Pretty Girls",
-      "url": "https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6"
-    },
-    {
-      "added_at": "2026-06-20 13:50:39",
-      "album": {
-        "name": "S\u00f3l a\u00f0 morgni",
-        "url": "https://open.spotify.com/album/34mRL4KleSGkTnXW7iF894"
-      },
-      "artists": [
-        {
-          "name": "Bubbi Morthens",
-          "url": "https://open.spotify.com/artist/0MtTfq27LQu7CmE5t308Up"
-        }
-      ],
-      "duration_ms": 292199,
-      "name": "Vi\u00f0 Gr\u00f3ttu",
-      "url": "https://open.spotify.com/track/51DYh8jb6FCioarSwgnbiJ"
-    },
-    {
-      "added_at": "2026-06-20 13:50:39",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 135325,
-      "name": "\u00de\u00fa ert",
-      "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"
-    },
-    {
-      "added_at": "2026-06-20 13:50:39",
-      "album": {
-        "name": "Undir \u00fe\u00ednum \u00e1hrifum",
-        "url": "https://open.spotify.com/album/1TWL7ZnhL91BGWLkj3k2Pe"
-      },
-      "artists": [
-        {
-          "name": "S\u00e1lin hans J\u00f3ns m\u00edns",
-          "url": "https://open.spotify.com/artist/2l19aqbqP2H5aKEUYCVM9h"
-        }
-      ],
-      "duration_ms": 215945,
-      "name": "Undir \u00fe\u00ednum \u00e1hrifum",
-      "url": "https://open.spotify.com/track/39hxADdgW2sGdUn0xBqWDb"
-    },
-    {
-      "added_at": "2026-06-20 13:50:39",
-      "album": {
-        "name": "D\u00f6gun",
-        "url": "https://open.spotify.com/album/0TmDqhoMnsP6sbpzJTb2xw"
-      },
-      "artists": [
-        {
-          "name": "Bubbi Morthens",
-          "url": "https://open.spotify.com/artist/0MtTfq27LQu7CmE5t308Up"
-        }
-      ],
-      "duration_ms": 308268,
-      "name": "Aldrei f\u00f3r \u00e9g su\u00f0ur",
-      "url": "https://open.spotify.com/track/3kfDamWWa5tQXdS3Kgu0xi"
-    },
-    {
-      "added_at": "2026-06-20 13:50:39",
+      "added_at": "2026-06-21 13:45:20",
       "album": {
         "name": "\u00c1st",
         "url": "https://open.spotify.com/album/5gQD3wG1unobjxs5wtNCU3"
@@ -677,134 +821,26 @@
       "url": "https://open.spotify.com/track/0VUH43O5GBZDsVuphW1IAQ"
     },
     {
-      "added_at": "2026-06-20 13:50:39",
+      "added_at": "2026-06-21 13:45:20",
       "album": {
-        "name": "MEIRA.",
-        "url": "https://open.spotify.com/album/0ULKuGYiKOjKKd98bn3bgS"
+        "name": "Hve gl\u00f6\u00f0 er vor \u00e6ska",
+        "url": "https://open.spotify.com/album/3agKb7TJIFcsQ5V8n4uTUq"
       },
       "artists": [
         {
-          "name": "\u00deorm\u00f3\u00f0ur",
-          "url": "https://open.spotify.com/artist/7FrCdnjdjijkh1eXx1P3Uv"
-        },
-        {
-          "name": "Maron Birnir",
-          "url": "https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK"
-        },
-        {
-          "name": "Alaska1867",
-          "url": "https://open.spotify.com/artist/2yyLYHJEdPcHJyfvn7OWHk"
+          "name": "Stu\u00f0menn",
+          "url": "https://open.spotify.com/artist/25ekuoCP29jHKzH4PEGun6"
         }
       ],
-      "duration_ms": 169640,
-      "name": "Stoppa t\u00edmann",
-      "url": "https://open.spotify.com/track/6sjvA7JuGIGDNRWDAeZhsK"
+      "duration_ms": 251054,
+      "name": "Ofbo\u00f0slega fr\u00e6gur",
+      "url": "https://open.spotify.com/track/203uQ5u5ZLiNC4g5zSG0vR"
     },
     {
-      "added_at": "2026-06-20 13:50:39",
+      "added_at": "2026-06-21 13:45:20",
       "album": {
-        "name": "XSCAPE",
-        "url": "https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 245565,
-      "name": "Chicago",
-      "url": "https://open.spotify.com/track/5BKKy9fIJL5uM9fz1SnqyP"
-    },
-    {
-      "added_at": "2026-06-20 13:50:39",
-      "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 200646,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
-    },
-    {
-      "added_at": "2026-06-20 13:50:39",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 99752,
-      "name": "S\u00f3lskin",
-      "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
-    },
-    {
-      "added_at": "2026-06-20 13:50:39",
-      "album": {
-        "name": "Ungur",
-        "url": "https://open.spotify.com/album/1cM0e7Q48E77lBo2zC8DeU"
-      },
-      "artists": [
-        {
-          "name": "ungurorri",
-          "url": "https://open.spotify.com/artist/75eF74YBqbjLPxrYO9fkFh"
-        },
-        {
-          "name": "Floni",
-          "url": "https://open.spotify.com/artist/3hvKmeo12OU7ai8Mpgraf7"
-        }
-      ],
-      "duration_ms": 166768,
-      "name": "Tilgang",
-      "url": "https://open.spotify.com/track/0FVcwYFzmNPB09KlaAMjVM"
-    },
-    {
-      "added_at": "2026-06-20 13:50:39",
-      "album": {
-        "name": "Sumari\u00f0",
-        "url": "https://open.spotify.com/album/4URlqV3L76lvnmrBpBKCCk"
-      },
-      "artists": [
-        {
-          "name": "\u00dalfur \u00dalfur",
-          "url": "https://open.spotify.com/artist/5viGHhUi0l9iemcUI3nE57"
-        }
-      ],
-      "duration_ms": 212655,
-      "name": "Sumari\u00f0",
-      "url": "https://open.spotify.com/track/0C0KHWR5vwYzDWGv81pfaw"
-    },
-    {
-      "added_at": "2026-06-20 13:50:39",
-      "album": {
-        "name": "Miklu betri einn",
-        "url": "https://open.spotify.com/album/0iWWosOl3XNiDJLEyNpFRM"
-      },
-      "artists": [
-        {
-          "name": "ELVAR",
-          "url": "https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY"
-        }
-      ],
-      "duration_ms": 144775,
-      "name": "Miklu betri einn",
-      "url": "https://open.spotify.com/track/5DFkMQKi0vlTWoILzaFpc4"
-    },
-    {
-      "added_at": "2026-06-20 13:50:39",
-      "album": {
-        "name": "Rumours (Super Deluxe)",
-        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/04bZvSsD7bbuKyeEdMABLF"
       },
       "artists": [
         {
@@ -812,41 +848,9 @@
           "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 257800,
-      "name": "Dreams - 2004 Remaster",
-      "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
-    },
-    {
-      "added_at": "2026-06-20 13:50:39",
-      "album": {
-        "name": "Garg",
-        "url": "https://open.spotify.com/album/6iw2nPSojDVNCULFudEtSr"
-      },
-      "artists": [
-        {
-          "name": "S\u00e1lin hans J\u00f3ns m\u00edns",
-          "url": "https://open.spotify.com/artist/2l19aqbqP2H5aKEUYCVM9h"
-        }
-      ],
-      "duration_ms": 207911,
-      "name": "Hj\u00e1 \u00fe\u00e9r",
-      "url": "https://open.spotify.com/track/6bMexmPJgSkZyNDV0QZGsI"
-    },
-    {
-      "added_at": "2026-06-20 13:50:39",
-      "album": {
-        "name": "F\u00f6studagurinn langi",
-        "url": "https://open.spotify.com/album/3Njj4OSymSFbEYxshHrtU2"
-      },
-      "artists": [
-        {
-          "name": "\u00dalfur \u00dalfur",
-          "url": "https://open.spotify.com/artist/5viGHhUi0l9iemcUI3nE57"
-        }
-      ],
-      "duration_ms": 199505,
-      "name": "\u00c9g er farinn",
-      "url": "https://open.spotify.com/track/78WfDuDCfJzUhOiD9vzsIf"
+      "duration_ms": 258816,
+      "name": "Dreams - 2001 Remaster",
+      "url": "https://open.spotify.com/track/53qkszfgztIvkFyF31GfdQ"
     }
   ],
   "unique_name": "Top 50 - Iceland",

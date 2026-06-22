@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos de la M\u00fasica Mexicana. Portada: Luis Alfonso Partida El Yaki, Banda Corona del Rey",
-  "num_followers": 83914,
+  "num_followers": 83934,
   "original_name": "M\u00fasica Mexicana En Vivo",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,18 @@
     {
       "added_at": "2026-04-17 20:03:01",
       "album": {
-        "name": "Qu\u00e9 Fuimos (En Vivo)",
-        "url": "https://open.spotify.com/album/6Q4VubIV6GiT3HZrjGKg8b"
+        "name": "En Vivo Desde El Rancho",
+        "url": "https://open.spotify.com/album/3I8GLnjxkdr32OnYSir6bh"
       },
       "artists": [
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Hernan Sepulveda",
-          "url": "https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z"
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
         }
       ],
-      "duration_ms": 230034,
-      "name": "Qu\u00e9 Fuimos (En Vivo)",
-      "url": "https://open.spotify.com/track/1VkaO9P9BwH327jnM9VX1K"
+      "duration_ms": 205949,
+      "name": "Inv\u00e9ntame - En Vivo",
+      "url": "https://open.spotify.com/track/1HNCgUYyjpX4prbIlaT6iF"
     },
     {
       "added_at": "2026-04-17 20:03:01",
@@ -259,18 +255,22 @@
     {
       "added_at": "2026-04-17 20:03:01",
       "album": {
-        "name": "En Vivo Desde El Rancho",
-        "url": "https://open.spotify.com/album/3I8GLnjxkdr32OnYSir6bh"
+        "name": "Qu\u00e9 Fuimos (En Vivo)",
+        "url": "https://open.spotify.com/album/6Q4VubIV6GiT3HZrjGKg8b"
       },
       "artists": [
         {
-          "name": "Remmy Valenzuela",
-          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Hernan Sepulveda",
+          "url": "https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z"
         }
       ],
-      "duration_ms": 205949,
-      "name": "Inv\u00e9ntame - En Vivo",
-      "url": "https://open.spotify.com/track/1HNCgUYyjpX4prbIlaT6iF"
+      "duration_ms": 230034,
+      "name": "Qu\u00e9 Fuimos (En Vivo)",
+      "url": "https://open.spotify.com/track/1VkaO9P9BwH327jnM9VX1K"
     },
     {
       "added_at": "2026-04-17 20:03:01",
@@ -319,22 +319,18 @@
     {
       "added_at": "2026-04-17 20:03:01",
       "album": {
-        "name": "Los Collares",
-        "url": "https://open.spotify.com/album/1JKGaS4Mr4ZjFRlbDbAFzf"
+        "name": "En Vivo Desde El Rancho",
+        "url": "https://open.spotify.com/album/3I8GLnjxkdr32OnYSir6bh"
       },
       "artists": [
         {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
         }
       ],
-      "duration_ms": 148793,
-      "name": "Los Collares",
-      "url": "https://open.spotify.com/track/46FdwGMcgz6gik4RCpWBAW"
+      "duration_ms": 173890,
+      "name": "La Novena Maravilla - En Vivo",
+      "url": "https://open.spotify.com/track/19qas85ZKj36Jj7pYFT207"
     },
     {
       "added_at": "2026-04-17 20:03:01",
@@ -363,18 +359,22 @@
     {
       "added_at": "2026-04-17 20:03:01",
       "album": {
-        "name": "En Vivo Desde El Rancho",
-        "url": "https://open.spotify.com/album/3I8GLnjxkdr32OnYSir6bh"
+        "name": "Los Collares",
+        "url": "https://open.spotify.com/album/1JKGaS4Mr4ZjFRlbDbAFzf"
       },
       "artists": [
         {
-          "name": "Remmy Valenzuela",
-          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
         }
       ],
-      "duration_ms": 173890,
-      "name": "La Novena Maravilla - En Vivo",
-      "url": "https://open.spotify.com/track/19qas85ZKj36Jj7pYFT207"
+      "duration_ms": 148793,
+      "name": "Los Collares",
+      "url": "https://open.spotify.com/track/46FdwGMcgz6gik4RCpWBAW"
     },
     {
       "added_at": "2026-04-17 20:03:01",
@@ -435,26 +435,6 @@
     {
       "added_at": "2026-04-17 20:03:01",
       "album": {
-        "name": "En Paris",
-        "url": "https://open.spotify.com/album/02t065wNWRCc7Yz9jG0ahR"
-      },
-      "artists": [
-        {
-          "name": "El Chachito",
-          "url": "https://open.spotify.com/artist/6OP8Y0UsezppFkU1hZU6EJ"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 162795,
-      "name": "En Paris",
-      "url": "https://open.spotify.com/track/1Fuc3pBiPFxAeSJoO8tDh5"
-    },
-    {
-      "added_at": "2026-04-17 20:03:01",
-      "album": {
         "name": "Ya Me Entere (En Vivo)",
         "url": "https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 222680,
       "name": "Ya Me Entere - En Vivo",
       "url": "https://open.spotify.com/track/4FjYDIaDlu3xf8JQrfgTBW"
+    },
+    {
+      "added_at": "2026-04-17 20:03:01",
+      "album": {
+        "name": "En Paris",
+        "url": "https://open.spotify.com/album/02t065wNWRCc7Yz9jG0ahR"
+      },
+      "artists": [
+        {
+          "name": "El Chachito",
+          "url": "https://open.spotify.com/artist/6OP8Y0UsezppFkU1hZU6EJ"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 162795,
+      "name": "En Paris",
+      "url": "https://open.spotify.com/track/1Fuc3pBiPFxAeSJoO8tDh5"
     },
     {
       "added_at": "2026-04-17 20:03:01",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2026-04-17 20:03:01",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1ER6VomlolwkksGhW9OZuk"
-      },
-      "artists": [
-        {
-          "name": "Tito Torbellino",
-          "url": "https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 251746,
-      "name": "Comando X - En Vivo",
-      "url": "https://open.spotify.com/track/7Lbm7AgXKNxz7M6HUsUx8O"
-    },
-    {
-      "added_at": "2026-04-17 20:03:01",
-      "album": {
         "name": "Entre Hierba, Polvo y Plomo",
         "url": "https://open.spotify.com/album/25O9BK0aHeYxq9ch47BP9Q"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 172898,
       "name": "Tus Verdades (En Vivo)",
       "url": "https://open.spotify.com/track/15Y1KUm93ke9daK1JlqsjM"
+    },
+    {
+      "added_at": "2026-04-17 20:03:01",
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1ER6VomlolwkksGhW9OZuk"
+      },
+      "artists": [
+        {
+          "name": "Tito Torbellino",
+          "url": "https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 251746,
+      "name": "Comando X - En Vivo",
+      "url": "https://open.spotify.com/track/7Lbm7AgXKNxz7M6HUsUx8O"
     },
     {
       "added_at": "2026-04-17 20:03:01",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-04-17 20:03:01",
       "album": {
-        "name": "Sin Miedo (En Vivo)",
-        "url": "https://open.spotify.com/album/6jPw6jBlRWQGnoaFzf2Ve5"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Fruta Prohibida - En Vivo",
-      "url": "https://open.spotify.com/track/1T7YWrunbux383JYtEdWwD"
-    },
-    {
-      "added_at": "2026-04-17 20:03:01",
-      "album": {
         "name": "El Beneficio De La Duda (En Vivo)",
         "url": "https://open.spotify.com/album/7w82mNnGvXaO6XI728hz3a"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 274954,
       "name": "El Beneficio De La Duda (En Vivo)",
       "url": "https://open.spotify.com/track/3yIoIPMrHQ5uZoTFaPQgB3"
+    },
+    {
+      "added_at": "2026-04-17 20:03:01",
+      "album": {
+        "name": "Sin Miedo (En Vivo)",
+        "url": "https://open.spotify.com/album/6jPw6jBlRWQGnoaFzf2Ve5"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Fruta Prohibida - En Vivo",
+      "url": "https://open.spotify.com/track/1T7YWrunbux383JYtEdWwD"
     },
     {
       "added_at": "2026-04-17 20:03:01",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2026-04-17 20:03:01",
       "album": {
-        "name": "Chingo A Mi Madre (En Vivo)",
-        "url": "https://open.spotify.com/album/2LpiIeEgcYFGyAIKvdyYlc"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/2pNBioReXaB9LZI1VRna74"
       },
       "artists": [
         {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 173053,
-      "name": "Chingo A Mi Madre - En Vivo",
-      "url": "https://open.spotify.com/track/38FmRkbp9iaBCpqW7DracY"
+      "duration_ms": 233106,
+      "name": "El Pistolero - El Chinelito Borracho - Popurr\u00ed / En Vivo",
+      "url": "https://open.spotify.com/track/53vmjwz0GeOO4WgipVxV7v"
     },
     {
       "added_at": "2026-04-17 20:03:01",
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2026-04-17 20:03:01",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/2pNBioReXaB9LZI1VRna74"
+        "name": "Chingo A Mi Madre (En Vivo)",
+        "url": "https://open.spotify.com/album/2LpiIeEgcYFGyAIKvdyYlc"
       },
       "artists": [
         {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
         }
       ],
-      "duration_ms": 233106,
-      "name": "El Pistolero - El Chinelito Borracho - Popurr\u00ed / En Vivo",
-      "url": "https://open.spotify.com/track/53vmjwz0GeOO4WgipVxV7v"
+      "duration_ms": 173053,
+      "name": "Chingo A Mi Madre - En Vivo",
+      "url": "https://open.spotify.com/track/38FmRkbp9iaBCpqW7DracY"
     },
     {
       "added_at": "2026-04-17 20:03:01",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2026-04-17 20:03:01",
       "album": {
+        "name": "La Caguama (En Vivo)",
+        "url": "https://open.spotify.com/album/3rtvlMIcJo2df2ruI22hLH"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "duration_ms": 135585,
+      "name": "La Caguama - En Vivo",
+      "url": "https://open.spotify.com/track/4YQvu8DHp89hXdxcvtGj7j"
+    },
+    {
+      "added_at": "2026-04-17 20:03:01",
+      "album": {
         "name": "La Suma",
         "url": "https://open.spotify.com/album/6cpIPgg4Bv4Oc29R7uCqOR"
       },
@@ -1767,22 +1783,6 @@
     {
       "added_at": "2026-04-17 20:03:01",
       "album": {
-        "name": "La Caguama (En Vivo)",
-        "url": "https://open.spotify.com/album/3rtvlMIcJo2df2ruI22hLH"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        }
-      ],
-      "duration_ms": 135585,
-      "name": "La Caguama - En Vivo",
-      "url": "https://open.spotify.com/track/4YQvu8DHp89hXdxcvtGj7j"
-    },
-    {
-      "added_at": "2026-04-17 20:03:01",
-      "album": {
         "name": "Puros Exitos Con Banda (En Vivo)",
         "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
       },
@@ -1795,6 +1795,22 @@
       "duration_ms": 184124,
       "name": "Caminos Diferentes - En Vivo",
       "url": "https://open.spotify.com/track/2skaUI9UgIiYM7LecO1IGh"
+    },
+    {
+      "added_at": "2026-04-17 20:03:01",
+      "album": {
+        "name": "En Vivo Desde Chicago",
+        "url": "https://open.spotify.com/album/2z6kMSAE2UYjf4ToJNriLb"
+      },
+      "artists": [
+        {
+          "name": "Los Caimanes De Sinaloa",
+          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
+        }
+      ],
+      "duration_ms": 163877,
+      "name": "Margarita Margarita (En Vivo)",
+      "url": "https://open.spotify.com/track/5C7Md1p8ojkNNXoHeX9FLc"
     },
     {
       "added_at": "2026-04-17 20:03:01",
@@ -1815,22 +1831,6 @@
       "duration_ms": 184021,
       "name": "Cosas De Borrachera (En Vivo)",
       "url": "https://open.spotify.com/track/05rGX2P3QuJoTuXUEZhLjI"
-    },
-    {
-      "added_at": "2026-04-17 20:03:01",
-      "album": {
-        "name": "En Vivo Desde Chicago",
-        "url": "https://open.spotify.com/album/2z6kMSAE2UYjf4ToJNriLb"
-      },
-      "artists": [
-        {
-          "name": "Los Caimanes De Sinaloa",
-          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
-        }
-      ],
-      "duration_ms": 163877,
-      "name": "Margarita Margarita (En Vivo)",
-      "url": "https://open.spotify.com/track/5C7Md1p8ojkNNXoHeX9FLc"
     },
     {
       "added_at": "2026-04-17 20:03:01",

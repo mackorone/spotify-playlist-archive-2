@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 
 > The notes that will make you long for those days of yore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,456 likes - 115 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,531 likes - 115 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 12 | [Dolannes mélodie](https://open.spotify.com/track/7qqnQFC8rnyCOhfd4DTWzO) | [Jean Claude Borelly](https://open.spotify.com/artist/15BHk5GnZ3AZVGO6P1vFmn) | [La mélodie du lac d'amour](https://open.spotify.com/album/1mIBAczDftPkMTP3FWszdW) | 2:52 |
 | 13 | [Sleepwalk](https://open.spotify.com/track/1u1PzGnsWKjAwSZ9Rg1kjD) | [Santo & Johnny](https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK) | [Volume Secondo](https://open.spotify.com/album/0EgtsDw1Yc9umsqXTXGbq8) | 2:31 |
 | 14 | [Love Is Blue](https://open.spotify.com/track/1PlZt5i69FgDl45KbHlLzr) | [Paul Mauriat](https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi) | [Love Is Blue](https://open.spotify.com/album/4q9ot78mrbt8U5WEhzrzZa) | 2:37 |
-| 15 | [Playas de Ensueño](https://open.spotify.com/track/1IXc0lJmLcPHHrGL9rSWzX) | [DCO](https://open.spotify.com/artist/3m8kUt4fTVDHnafKhS66AZ) | [Playas de Ensueño](https://open.spotify.com/album/31E3FJeD3mPINXJu4kXpVD) | 3:13 |
-| 16 | [The Entertainer](https://open.spotify.com/track/6DWIm1TfM9WiCNQeLbbAsd) | [Scott Joplin](https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq), [Morten Gunnar Larsen](https://open.spotify.com/artist/0abhXJIOH1NqbsXLaZD2DI) | [Fingerbreaker: Classics Of Ragtime And Early Jazz Piano](https://open.spotify.com/album/3PnN5AHFAONQAXr5OEjrmJ) | 3:53 |
+| 15 | [The Entertainer](https://open.spotify.com/track/6DWIm1TfM9WiCNQeLbbAsd) | [Scott Joplin](https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq), [Morten Gunnar Larsen](https://open.spotify.com/artist/0abhXJIOH1NqbsXLaZD2DI) | [Fingerbreaker: Classics Of Ragtime And Early Jazz Piano](https://open.spotify.com/album/3PnN5AHFAONQAXr5OEjrmJ) | 3:53 |
+| 16 | [Playas de Ensueño](https://open.spotify.com/track/1IXc0lJmLcPHHrGL9rSWzX) | [DCO](https://open.spotify.com/artist/3m8kUt4fTVDHnafKhS66AZ) | [Playas de Ensueño](https://open.spotify.com/album/31E3FJeD3mPINXJu4kXpVD) | 3:13 |
 | 17 | [Flauta de Pan](https://open.spotify.com/track/3nP4NfZBFGWPi4YO0u4evJ) | [Mario Gonzales Guerra](https://open.spotify.com/artist/51PLAKhApJK3Vrzc1V8kZU) | [El Sonido de la Flauta de Pan \- The Sound Of The Panflute](https://open.spotify.com/album/6Vsbb6T8m1SjXo37Ul7hXl) | 3:18 |
 | 18 | [Emmanuelle](https://open.spotify.com/track/4z1OqFDJgOtIvwtWd4y9y5) | [Orquesta Romántica de La Habana](https://open.spotify.com/artist/3cigoBpGBW3dKn2GSH6CjV) | [Instrumentales](https://open.spotify.com/album/0FIcezHxPSZeHeHrYQFSEm) | 3:03 |
 | 19 | [Love is Blue](https://open.spotify.com/track/0tS7Mli5NtOcpeCqC25GWd) | [Paul Mauriat](https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi) | [Paul Mauriat\. Grandes Exitos](https://open.spotify.com/album/6iQAXag0ioZ8VDguSYvyvP) | 2:36 |

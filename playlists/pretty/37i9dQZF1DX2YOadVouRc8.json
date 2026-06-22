@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 48043,
+  "num_followers": 48072,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -887,26 +887,6 @@
     {
       "added_at": "2026-06-19 00:01:56",
       "album": {
-        "name": "Before The Morning Light",
-        "url": "https://open.spotify.com/album/2ReT5MpfcBcllICauo5NNr"
-      },
-      "artists": [
-        {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 193672,
-      "name": "Speak Up",
-      "url": "https://open.spotify.com/track/45974CiXdsg3UK6cvgmbOv"
-    },
-    {
-      "added_at": "2026-06-19 00:01:56",
-      "album": {
         "name": "Arike (Remix)",
         "url": "https://open.spotify.com/album/4cbzmkoVpf6oNpJW6sQFe3"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 180160,
       "name": "Look To You (feat. Llona)",
       "url": "https://open.spotify.com/track/3mDhfpGRzwixQCGNGNdi68"
+    },
+    {
+      "added_at": "2026-06-19 00:01:56",
+      "album": {
+        "name": "Before The Morning Light",
+        "url": "https://open.spotify.com/album/2ReT5MpfcBcllICauo5NNr"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 193672,
+      "name": "Speak Up",
+      "url": "https://open.spotify.com/track/45974CiXdsg3UK6cvgmbOv"
     },
     {
       "added_at": "2026-06-19 00:01:56",
@@ -1063,30 +1063,6 @@
     {
       "added_at": "2026-06-19 00:01:56",
       "album": {
-        "name": "PAY ME",
-        "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 210574,
-      "name": "PAY ME (feat. Stormzy and Zlatan)",
-      "url": "https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe"
-    },
-    {
-      "added_at": "2026-06-19 00:01:56",
-      "album": {
         "name": "Exopa",
         "url": "https://open.spotify.com/album/1VPdhKOOdHoiDI7OGoFZS9"
       },
@@ -1127,6 +1103,30 @@
     {
       "added_at": "2026-06-19 00:01:56",
       "album": {
+        "name": "PAY ME",
+        "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 210574,
+      "name": "PAY ME (feat. Stormzy and Zlatan)",
+      "url": "https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe"
+    },
+    {
+      "added_at": "2026-06-19 00:01:56",
+      "album": {
         "name": "CKay The Second",
         "url": "https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf"
       },
@@ -1139,6 +1139,26 @@
       "duration_ms": 168461,
       "name": "forever",
       "url": "https://open.spotify.com/track/4CSUyrPDqDTkn9ybo4aUoj"
+    },
+    {
+      "added_at": "2026-06-19 00:01:56",
+      "album": {
+        "name": "Hashtag",
+        "url": "https://open.spotify.com/album/0ORYGBhSHeVpjKoslUKZas"
+      },
+      "artists": [
+        {
+          "name": "CupidSZN",
+          "url": "https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ"
+        },
+        {
+          "name": "255",
+          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
+        }
+      ],
+      "duration_ms": 192941,
+      "name": "Hashtag",
+      "url": "https://open.spotify.com/track/5TWz9SGcGlMuVFLmtUY1v8"
     },
     {
       "added_at": "2026-06-19 00:01:56",
@@ -1191,26 +1211,6 @@
     {
       "added_at": "2026-06-19 00:01:56",
       "album": {
-        "name": "Hashtag",
-        "url": "https://open.spotify.com/album/0ORYGBhSHeVpjKoslUKZas"
-      },
-      "artists": [
-        {
-          "name": "CupidSZN",
-          "url": "https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ"
-        },
-        {
-          "name": "255",
-          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
-        }
-      ],
-      "duration_ms": 192941,
-      "name": "Hashtag",
-      "url": "https://open.spotify.com/track/5TWz9SGcGlMuVFLmtUY1v8"
-    },
-    {
-      "added_at": "2026-06-19 00:01:56",
-      "album": {
         "name": "Protect Sarz At All Costs",
         "url": "https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h"
       },
@@ -1251,6 +1251,26 @@
       "duration_ms": 168072,
       "name": "So Much Sense",
       "url": "https://open.spotify.com/track/2bd4mGioqIx2KUlLGB7rOo"
+    },
+    {
+      "added_at": "2026-06-19 00:01:56",
+      "album": {
+        "name": "MAGAA",
+        "url": "https://open.spotify.com/album/10BL9nd3OGaX5s47NWNIPA"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        },
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "duration_ms": 181289,
+      "name": "MAGAA",
+      "url": "https://open.spotify.com/track/1uXIywdXW2eaFnD3zJbfpl"
     },
     {
       "added_at": "2026-06-19 00:01:56",
@@ -1351,26 +1371,6 @@
       "duration_ms": 206250,
       "name": "Longo Longo",
       "url": "https://open.spotify.com/track/7C4ld0CYlWSHk7hovq3xpn"
-    },
-    {
-      "added_at": "2026-06-19 00:01:56",
-      "album": {
-        "name": "MAGAA",
-        "url": "https://open.spotify.com/album/10BL9nd3OGaX5s47NWNIPA"
-      },
-      "artists": [
-        {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
-        },
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        }
-      ],
-      "duration_ms": 181289,
-      "name": "MAGAA",
-      "url": "https://open.spotify.com/track/1uXIywdXW2eaFnD3zJbfpl"
     },
     {
       "added_at": "2026-06-19 00:01:56",

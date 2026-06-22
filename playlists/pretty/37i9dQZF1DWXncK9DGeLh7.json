@@ -1,6 +1,6 @@
 {
   "description": "100% soul et funk !",
-  "num_followers": 354861,
+  "num_followers": 354870,
   "original_name": "Flashback",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,22 @@
     {
       "added_at": "2025-11-06 14:22:20",
       "album": {
+        "name": "Children Of The World",
+        "url": "https://open.spotify.com/album/4V8z8vZUCyYUBlUI9CfSbY"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 256493,
+      "name": "You Should Be Dancing",
+      "url": "https://open.spotify.com/track/2xiOdusRnZezQok1RgLNeS"
+    },
+    {
+      "added_at": "2025-11-06 14:22:20",
+      "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/1lKYaRbV0AayVPss9i4oOp"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 438493,
       "name": "Just the Two of Us (feat. Bill Withers)",
       "url": "https://open.spotify.com/track/1ko2lVN0vKGUl9zrU0qSlT"
-    },
-    {
-      "added_at": "2025-11-06 14:22:20",
-      "album": {
-        "name": "Children Of The World",
-        "url": "https://open.spotify.com/album/4V8z8vZUCyYUBlUI9CfSbY"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 256493,
-      "name": "You Should Be Dancing",
-      "url": "https://open.spotify.com/track/2xiOdusRnZezQok1RgLNeS"
     },
     {
       "added_at": "2025-11-06 14:22:20",
@@ -979,18 +979,18 @@
     {
       "added_at": "2025-11-06 14:22:20",
       "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+        "name": "Fantastic",
+        "url": "https://open.spotify.com/album/6vihnceXTNegYbpurc6qkR"
       },
       "artists": [
         {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
         }
       ],
-      "duration_ms": 139733,
-      "name": "Think",
-      "url": "https://open.spotify.com/track/4yQw7FR9lcvL6RHtegbJBh"
+      "duration_ms": 265600,
+      "name": "Club Tropicana",
+      "url": "https://open.spotify.com/track/6tASfEUyB7lE2r6DLzURji"
     }
   ],
   "unique_name": "Flashback",

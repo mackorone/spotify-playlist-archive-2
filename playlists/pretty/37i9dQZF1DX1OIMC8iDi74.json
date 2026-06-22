@@ -1,6 +1,6 @@
 {
   "description": "The best of electronic trap \u2764\ufe0f\u200d\ud83d\udd25 with Lizdek",
-  "num_followers": 879106,
+  "num_followers": 879065,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
@@ -723,46 +723,6 @@
     {
       "added_at": "2026-06-19 04:02:09",
       "album": {
-        "name": "4EVR",
-        "url": "https://open.spotify.com/album/5FsCLKDT9gEj9wZtO3ytXB"
-      },
-      "artists": [
-        {
-          "name": "ISOKNOCK",
-          "url": "https://open.spotify.com/artist/0mmIPiJ8l2gAProE7THr37"
-        },
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        },
-        {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
-        }
-      ],
-      "duration_ms": 191357,
-      "name": "THRASH (PARTY STARTER)",
-      "url": "https://open.spotify.com/track/4elUJWLSukWtdMmNIjGQKM"
-    },
-    {
-      "added_at": "2026-06-19 04:02:09",
-      "album": {
-        "name": "checkup",
-        "url": "https://open.spotify.com/album/4YpEQeVo1OuHXgjDKC1LyH"
-      },
-      "artists": [
-        {
-          "name": "if found",
-          "url": "https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK"
-        }
-      ],
-      "duration_ms": 162206,
-      "name": "checkup",
-      "url": "https://open.spotify.com/track/4BhUHXBQRou9ddKJ5yG2kc"
-    },
-    {
-      "added_at": "2026-06-19 04:02:09",
-      "album": {
         "name": "Go Back (feat. Julia Church) [YDG Remix]",
         "url": "https://open.spotify.com/album/7aqNYVhP6oZGvfSk9Zxo5B"
       },
@@ -787,6 +747,46 @@
       "duration_ms": 210206,
       "name": "Go Back (feat. Julia Church) - YDG Remix",
       "url": "https://open.spotify.com/track/4ASH49SxktKD1YzIbqUP0N"
+    },
+    {
+      "added_at": "2026-06-19 04:02:09",
+      "album": {
+        "name": "checkup",
+        "url": "https://open.spotify.com/album/4YpEQeVo1OuHXgjDKC1LyH"
+      },
+      "artists": [
+        {
+          "name": "if found",
+          "url": "https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK"
+        }
+      ],
+      "duration_ms": 162206,
+      "name": "checkup",
+      "url": "https://open.spotify.com/track/4BhUHXBQRou9ddKJ5yG2kc"
+    },
+    {
+      "added_at": "2026-06-19 04:02:09",
+      "album": {
+        "name": "4EVR",
+        "url": "https://open.spotify.com/album/5FsCLKDT9gEj9wZtO3ytXB"
+      },
+      "artists": [
+        {
+          "name": "ISOKNOCK",
+          "url": "https://open.spotify.com/artist/0mmIPiJ8l2gAProE7THr37"
+        },
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        },
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        }
+      ],
+      "duration_ms": 191357,
+      "name": "THRASH (PARTY STARTER)",
+      "url": "https://open.spotify.com/track/4elUJWLSukWtdMmNIjGQKM"
     },
     {
       "added_at": "2026-06-19 04:02:09",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2026-06-19 04:02:09",
       "album": {
-        "name": "RAGE",
-        "url": "https://open.spotify.com/album/2hRr9AJySoLaK9NrxpAios"
-      },
-      "artists": [
-        {
-          "name": "AVELLO",
-          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
-        },
-        {
-          "name": "ROSSY",
-          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
-        }
-      ],
-      "duration_ms": 145600,
-      "name": "RAGE",
-      "url": "https://open.spotify.com/track/5VM2R8CCOOPntVtycrbN9R"
-    },
-    {
-      "added_at": "2026-06-19 04:02:09",
-      "album": {
         "name": "HORSEPOWER",
         "url": "https://open.spotify.com/album/1aTPCuMzOFFEZrVLny4LTw"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 133615,
       "name": "Like This",
       "url": "https://open.spotify.com/track/4ih71VL7RWG0RbRbVTGxS8"
+    },
+    {
+      "added_at": "2026-06-19 04:02:09",
+      "album": {
+        "name": "RAGE",
+        "url": "https://open.spotify.com/album/2hRr9AJySoLaK9NrxpAios"
+      },
+      "artists": [
+        {
+          "name": "AVELLO",
+          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
+        },
+        {
+          "name": "ROSSY",
+          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
+        }
+      ],
+      "duration_ms": 145600,
+      "name": "RAGE",
+      "url": "https://open.spotify.com/track/5VM2R8CCOOPntVtycrbN9R"
     },
     {
       "added_at": "2026-06-19 04:02:09",
@@ -1255,22 +1255,22 @@
     {
       "added_at": "2026-06-19 04:02:09",
       "album": {
-        "name": "What It Feels Like",
-        "url": "https://open.spotify.com/album/6GEqAR3MHnXmUfSz0sTt79"
+        "name": "MOVE LIKE THAT",
+        "url": "https://open.spotify.com/album/0bZDX8qgA2ukz4ijC6iw6b"
       },
       "artists": [
         {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+          "name": "HerShe",
+          "url": "https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J"
         },
         {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+          "name": "Xotix",
+          "url": "https://open.spotify.com/artist/4U9672jXtdpL01GCOiX7TW"
         }
       ],
-      "duration_ms": 138857,
-      "name": "What It Feels Like",
-      "url": "https://open.spotify.com/track/3QVcmMnWPTcuCSRPzO7Iuf"
+      "duration_ms": 140000,
+      "name": "MOVE LIKE THAT",
+      "url": "https://open.spotify.com/track/72W9jWYJUHu6fGXE3ptqrd"
     },
     {
       "added_at": "2026-06-19 04:02:09",
@@ -1291,22 +1291,22 @@
     {
       "added_at": "2026-06-19 04:02:09",
       "album": {
-        "name": "MOVE LIKE THAT",
-        "url": "https://open.spotify.com/album/0bZDX8qgA2ukz4ijC6iw6b"
+        "name": "What It Feels Like",
+        "url": "https://open.spotify.com/album/6GEqAR3MHnXmUfSz0sTt79"
       },
       "artists": [
         {
-          "name": "HerShe",
-          "url": "https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J"
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
         },
         {
-          "name": "Xotix",
-          "url": "https://open.spotify.com/artist/4U9672jXtdpL01GCOiX7TW"
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
         }
       ],
-      "duration_ms": 140000,
-      "name": "MOVE LIKE THAT",
-      "url": "https://open.spotify.com/track/72W9jWYJUHu6fGXE3ptqrd"
+      "duration_ms": 138857,
+      "name": "What It Feels Like",
+      "url": "https://open.spotify.com/track/3QVcmMnWPTcuCSRPzO7Iuf"
     },
     {
       "added_at": "2026-06-19 04:02:09",
@@ -1387,22 +1387,18 @@
     {
       "added_at": "2026-06-19 04:02:09",
       "album": {
-        "name": "Killa",
-        "url": "https://open.spotify.com/album/0dSEgLGoOnAs8zgih944Jt"
+        "name": "BITE (MY STYLE)",
+        "url": "https://open.spotify.com/album/2WGNVmijdmBF4Qox8aQZWO"
       },
       "artists": [
         {
-          "name": "Fabian Mazur",
-          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
-        },
-        {
-          "name": "Snavs",
-          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
         }
       ],
-      "duration_ms": 141686,
-      "name": "Killa",
-      "url": "https://open.spotify.com/track/5QrzHMtPWyS2ho4VodUHBx"
+      "duration_ms": 148514,
+      "name": "BITE (MY STYLE)",
+      "url": "https://open.spotify.com/track/0prQSBXEepgAXAxFRbiHET"
     },
     {
       "added_at": "2026-06-19 04:02:09",
@@ -1455,18 +1451,22 @@
     {
       "added_at": "2026-06-19 04:02:09",
       "album": {
-        "name": "BITE (MY STYLE)",
-        "url": "https://open.spotify.com/album/2WGNVmijdmBF4Qox8aQZWO"
+        "name": "Killa",
+        "url": "https://open.spotify.com/album/0dSEgLGoOnAs8zgih944Jt"
       },
       "artists": [
         {
-          "name": "Tisoki",
-          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+          "name": "Fabian Mazur",
+          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
+        },
+        {
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
         }
       ],
-      "duration_ms": 148514,
-      "name": "BITE (MY STYLE)",
-      "url": "https://open.spotify.com/track/0prQSBXEepgAXAxFRbiHET"
+      "duration_ms": 141686,
+      "name": "Killa",
+      "url": "https://open.spotify.com/track/5QrzHMtPWyS2ho4VodUHBx"
     },
     {
       "added_at": "2026-06-19 04:02:09",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2026-06-19 04:02:09",
       "album": {
-        "name": "Born Again",
-        "url": "https://open.spotify.com/album/1pwBeGAONzyEHFJyFdWUv7"
-      },
-      "artists": [
-        {
-          "name": "EVAN GIIA",
-          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
-        },
-        {
-          "name": "Pauline Herr",
-          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
-        }
-      ],
-      "duration_ms": 158873,
-      "name": "Born Again",
-      "url": "https://open.spotify.com/track/6C7kzABG41VrZQd5do4ehA"
-    },
-    {
-      "added_at": "2026-06-19 04:02:09",
-      "album": {
         "name": "Steps On You (Peep My Style)",
         "url": "https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt"
       },
@@ -1527,18 +1507,22 @@
     {
       "added_at": "2026-06-19 04:02:09",
       "album": {
-        "name": "CHARIOT",
-        "url": "https://open.spotify.com/album/6rxJtynr8rSzkzwecAtUYA"
+        "name": "Born Again",
+        "url": "https://open.spotify.com/album/1pwBeGAONzyEHFJyFdWUv7"
       },
       "artists": [
         {
-          "name": "ROSSY",
-          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
+          "name": "EVAN GIIA",
+          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+        },
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
         }
       ],
-      "duration_ms": 144000,
-      "name": "move! (that body)",
-      "url": "https://open.spotify.com/track/3X4OWjiycrvZ4VLwFvZnwn"
+      "duration_ms": 158873,
+      "name": "Born Again",
+      "url": "https://open.spotify.com/track/6C7kzABG41VrZQd5do4ehA"
     },
     {
       "added_at": "2026-06-19 04:02:09",
@@ -1579,18 +1563,18 @@
     {
       "added_at": "2026-06-19 04:02:09",
       "album": {
-        "name": "Dead To Me",
-        "url": "https://open.spotify.com/album/34OpgsgQ6B578xOcX2IYg5"
+        "name": "CHARIOT",
+        "url": "https://open.spotify.com/album/6rxJtynr8rSzkzwecAtUYA"
       },
       "artists": [
         {
-          "name": "Viperactive",
-          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
+          "name": "ROSSY",
+          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
         }
       ],
-      "duration_ms": 179142,
-      "name": "Dead To Me",
-      "url": "https://open.spotify.com/track/2Q4N4dG8jJegNGNgyToYaq"
+      "duration_ms": 144000,
+      "name": "move! (that body)",
+      "url": "https://open.spotify.com/track/3X4OWjiycrvZ4VLwFvZnwn"
     },
     {
       "added_at": "2026-06-19 04:02:09",
@@ -1611,6 +1595,22 @@
       "duration_ms": 188721,
       "name": "Lucid",
       "url": "https://open.spotify.com/track/6qTzPNNmXsGy5aq7EHs0S4"
+    },
+    {
+      "added_at": "2026-06-19 04:02:09",
+      "album": {
+        "name": "Dead To Me",
+        "url": "https://open.spotify.com/album/34OpgsgQ6B578xOcX2IYg5"
+      },
+      "artists": [
+        {
+          "name": "Viperactive",
+          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
+        }
+      ],
+      "duration_ms": 179142,
+      "name": "Dead To Me",
+      "url": "https://open.spotify.com/track/2Q4N4dG8jJegNGNgyToYaq"
     },
     {
       "added_at": "2026-06-19 04:02:09",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2026-06-19 04:02:09",
       "album": {
-        "name": "ADRENOCHROME : ZERO",
-        "url": "https://open.spotify.com/album/1XcFeU8EviCIDffkzBGZpa"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        }
-      ],
-      "duration_ms": 195310,
-      "name": "Sometimes / DOPAMINE++++",
-      "url": "https://open.spotify.com/track/0e7RwCcU9gN6XbrW44jVaF"
-    },
-    {
-      "added_at": "2026-06-19 04:02:09",
-      "album": {
         "name": "Get Off The Internet",
         "url": "https://open.spotify.com/album/79Vap7cvRfZIf5qV87LbKV"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 144000,
       "name": "EGOTRIP",
       "url": "https://open.spotify.com/track/1mftC5sqZIwvwzfFWdjgCg"
+    },
+    {
+      "added_at": "2026-06-19 04:02:09",
+      "album": {
+        "name": "ADRENOCHROME : ZERO",
+        "url": "https://open.spotify.com/album/1XcFeU8EviCIDffkzBGZpa"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        }
+      ],
+      "duration_ms": 195310,
+      "name": "Sometimes / DOPAMINE++++",
+      "url": "https://open.spotify.com/track/0e7RwCcU9gN6XbrW44jVaF"
     },
     {
       "added_at": "2026-06-19 04:02:09",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2026-06-19 04:02:09",
       "album": {
-        "name": "UH OH!",
-        "url": "https://open.spotify.com/album/6tCOYN1hYjW0HcUrQ2IDu2"
-      },
-      "artists": [
-        {
-          "name": "RemK",
-          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
-        }
-      ],
-      "duration_ms": 238344,
-      "name": "UH OH!",
-      "url": "https://open.spotify.com/track/4hd3nmmHJ53ztZllQG6CQl"
-    },
-    {
-      "added_at": "2026-06-19 04:02:09",
-      "album": {
         "name": "Nothing To Lose",
         "url": "https://open.spotify.com/album/11rvFYFExXvLCLmune1Mf2"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 186400,
       "name": "Teeth",
       "url": "https://open.spotify.com/track/7GtlY90JxaXqp7OvIR2b75"
+    },
+    {
+      "added_at": "2026-06-19 04:02:09",
+      "album": {
+        "name": "UH OH!",
+        "url": "https://open.spotify.com/album/6tCOYN1hYjW0HcUrQ2IDu2"
+      },
+      "artists": [
+        {
+          "name": "RemK",
+          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
+        }
+      ],
+      "duration_ms": 238344,
+      "name": "UH OH!",
+      "url": "https://open.spotify.com/track/4hd3nmmHJ53ztZllQG6CQl"
     },
     {
       "added_at": "2026-06-19 04:02:09",

@@ -1,13 +1,37 @@
 {
   "description": "All the New Joints featuring YG, Key Glock, Skilla Baby and more!",
-  "num_followers": 384295,
+  "num_followers": 384355,
   "original_name": "New Joints",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOMgv7V/vusN/1XXDHykJ2FfRYS7",
+  "snapshot_id": "AAAAAAE2kDOvtpMMsd444cOxYn7gIVzL",
   "tracks": [
+    {
+      "added_at": "2026-06-21 05:50:41",
+      "album": {
+        "name": "BULLY - DELUXE",
+        "url": "https://open.spotify.com/album/3hwveWhYFxGDLy6K6xlwFh"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 158193,
+      "name": "OK (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/5UNo2nitxVTkBA9QYmnHJx"
+    },
     {
       "added_at": "2026-06-19 04:01:53",
       "album": {

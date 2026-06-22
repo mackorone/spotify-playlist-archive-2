@@ -1,12 +1,12 @@
 {
   "description": "This is AJULLIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 16048,
+  "num_followers": 16065,
   "original_name": "This Is AJULLIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAABYWw5doUYuIymtloT9335F",
+  "snapshot_id": "ajXYAAAAAADAN2EDJthSAcoWU5q6MnmU",
   "tracks": [
     {
       "added_at": null,
@@ -395,13 +395,13 @@
     {
       "added_at": null,
       "album": {
-        "name": "SEMR\u00c9H (FINAL SPRINT)",
-        "url": "https://open.spotify.com/album/2i1FaEQY9JIUS8M0kMhsH9"
+        "name": "Fragmentos",
+        "url": "https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb"
       },
       "artists": [
         {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         },
         {
           "name": "AJULLIACOSTA",
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
         }
       ],
-      "duration_ms": 187480,
-      "name": "Eles Me Odeiam",
-      "url": "https://open.spotify.com/track/5lZS4UU5KbkR1QLRbkWG5W"
+      "duration_ms": 179000,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/2bbqTnm2KkGAH4kFvnlMeU"
     },
     {
       "added_at": null,
@@ -439,13 +439,13 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fragmentos",
-        "url": "https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb"
+        "name": "SEMR\u00c9H (FINAL SPRINT)",
+        "url": "https://open.spotify.com/album/2i1FaEQY9JIUS8M0kMhsH9"
       },
       "artists": [
         {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
         },
         {
           "name": "AJULLIACOSTA",
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
         }
       ],
-      "duration_ms": 179000,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/2bbqTnm2KkGAH4kFvnlMeU"
+      "duration_ms": 187480,
+      "name": "Eles Me Odeiam",
+      "url": "https://open.spotify.com/track/5lZS4UU5KbkR1QLRbkWG5W"
     },
     {
       "added_at": null,
@@ -827,6 +827,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Pe\u00e7a Final",
+        "url": "https://open.spotify.com/album/7wOg102RsIsFYkYSRI1STQ"
+      },
+      "artists": [
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Labbel Rec",
+          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
+        },
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "N\u00e3o Discuto por Telefone",
+      "url": "https://open.spotify.com/track/6YlkAranM7m3PK9msFWi1t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Set Ajc (feat. Mac J\u00falia, N.I.N.A, Alt Niss, NandaTsunami & Mc Luanna)",
         "url": "https://open.spotify.com/album/2Q8yyzij3ZwnhnBgKq9hO8"
       },
@@ -883,34 +911,6 @@
       "duration_ms": 174722,
       "name": "Quero, Penso, Posso",
       "url": "https://open.spotify.com/track/1nEPNhPbHqskS7hNb98Orb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Pe\u00e7a Final",
-        "url": "https://open.spotify.com/album/7wOg102RsIsFYkYSRI1STQ"
-      },
-      "artists": [
-        {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        },
-        {
-          "name": "Labbel Rec",
-          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
-        },
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "N\u00e3o Discuto por Telefone",
-      "url": "https://open.spotify.com/track/6YlkAranM7m3PK9msFWi1t"
     },
     {
       "added_at": null,

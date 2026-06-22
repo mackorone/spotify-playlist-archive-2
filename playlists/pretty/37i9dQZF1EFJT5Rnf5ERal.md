@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,083 likes - 278 songs - 13 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,115 likes - 278 songs - 13 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -238,11 +238,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 228 | [Do Better](https://open.spotify.com/track/6W55PELuIrhPwFAr9T64Df) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 3:24 |
 | 229 | [Tay Keith](https://open.spotify.com/track/6sSmh6H1tMZDmREz3ev6c3) | [2KBABY](https://open.spotify.com/artist/4mkjpWbFO45SyaHiM9GOVE) | [First Quarter](https://open.spotify.com/album/4LAiL2z5jIvFRvNSzzFBVG) | 2:00 |
 | 230 | [Pirate](https://open.spotify.com/track/4nCg9oFwTWLHMYdIB4Kuxx) | [HoodRich Pablo Juan](https://open.spotify.com/artist/1ZLO8d7zll1WeQJUHaxQer) | [DMV](https://open.spotify.com/album/4be8M47GQNAYsHHMFJ77Hx) | 2:35 |
-| 231 | [Slow Dance \(feat\. BlocBoy JB\)](https://open.spotify.com/track/1Ak4uEbwPtAnKZFqi4R9nM) | [Brianna Perry](https://open.spotify.com/artist/7dCeHFqROnBJFZwRfp8B3Z), [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [Fortune Cookie](https://open.spotify.com/album/0UM6R2ygjqnq4rE8FsHD8y) | 3:16 |
-| 232 | [Way Too Turnt](https://open.spotify.com/track/5B2rkcsGZzOV5hFWVunGbC) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung n Turnt](https://open.spotify.com/album/6swhZ8Qaut2g9zNXttydy2) | 1:48 |
+| 231 | [Way Too Turnt](https://open.spotify.com/track/5B2rkcsGZzOV5hFWVunGbC) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung n Turnt](https://open.spotify.com/album/6swhZ8Qaut2g9zNXttydy2) | 1:48 |
+| 232 | [Slow Dance \(feat\. BlocBoy JB\)](https://open.spotify.com/track/1Ak4uEbwPtAnKZFqi4R9nM) | [Brianna Perry](https://open.spotify.com/artist/7dCeHFqROnBJFZwRfp8B3Z), [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [Fortune Cookie](https://open.spotify.com/album/0UM6R2ygjqnq4rE8FsHD8y) | 3:16 |
 | 233 | [Always Talking To God \(feat\. Tay Keith\)](https://open.spotify.com/track/45Nyjx1ECtH8lcvwjqkdmB) | [Kevo Muney](https://open.spotify.com/artist/2s1fodCLf7tb0bogSUNBqY), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [BABY G.O.A.T.](https://open.spotify.com/album/6wXCCU5YJXK02owezGmk3F) | 3:17 |
-| 234 | [Ain't Bout Nun](https://open.spotify.com/track/5XpJVTP6RT5jmI0Z5akW8f) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [Ain't Bout Nun](https://open.spotify.com/album/3n5oKqDoFPPUGI9RgfFYrF) | 1:52 |
-| 235 | [I Know](https://open.spotify.com/track/5CIAM3KALymraRAFfTC7oH) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Breath of Fresh Air](https://open.spotify.com/album/6utPm8NlR2FV93aFGNEhmZ) | 2:15 |
+| 234 | [I Know](https://open.spotify.com/track/5CIAM3KALymraRAFfTC7oH) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Breath of Fresh Air](https://open.spotify.com/album/6utPm8NlR2FV93aFGNEhmZ) | 2:15 |
+| 235 | [Ain't Bout Nun](https://open.spotify.com/track/5XpJVTP6RT5jmI0Z5akW8f) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [Ain't Bout Nun](https://open.spotify.com/album/3n5oKqDoFPPUGI9RgfFYrF) | 1:52 |
 | 236 | [Mr\. FTO](https://open.spotify.com/track/0M3WNB4RqTjzBsr7Yam7ED) | [FTO Sett](https://open.spotify.com/artist/6STK8LKh7Lhr3t75x5iE7d), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Life of a SlimeCrook](https://open.spotify.com/album/3dYWvEeuKRCht48uU9DQjD) | 2:46 |
 | 237 | [Big Trap](https://open.spotify.com/track/3taiLCUk4eSj0aezr9nUf8) | [Trapboy Freddy](https://open.spotify.com/artist/2ZF0d4lkHLE6MIbVmpN6nN) | [Big Trap](https://open.spotify.com/album/5LC7V7Ig5BqA550rM1Ib3D) | 2:20 |
 | 238 | [Head In My Lap](https://open.spotify.com/track/6umjcG2GhdKOTlry4u8Eui) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [I Am Me](https://open.spotify.com/album/4pAz6zuQCyAXFGpVE1yhi6) | 2:56 |
@@ -287,4 +287,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 277 | [Drill Back](https://open.spotify.com/track/3nHfvTt8iRbwnbIySfcfs9) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung n Turnt](https://open.spotify.com/album/6swhZ8Qaut2g9zNXttydy2) | 2:12 |
 | 278 | [That's Him](https://open.spotify.com/track/4eQFDkbkOwMEMpxzby8vxg) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung n Turnt](https://open.spotify.com/album/6swhZ8Qaut2g9zNXttydy2) | 2:45 |
 
-Snapshot ID: `AcUwkAAAAABUHBtKfzXzhI/SitXAE1f7`
+Snapshot ID: `AcU2MAAAAABLpydw8yqpLhN8kOJ+ELVF`

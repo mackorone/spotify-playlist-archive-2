@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [412](https://open.spotify.com/track/1nx2dR3JFSU89eCXITguU5) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG) | 3:54 | 2026-05-08 | 2026-06-10 |
+| [412](https://open.spotify.com/track/1nx2dR3JFSU89eCXITguU5) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG) | 3:54 | 2026-05-08 |  |
 | [412](https://open.spotify.com/track/4HAUQ35gRU5GS1VuhqlqLw) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 3:54 | 2022-09-16 | 2026-04-24 |
 | [7\-57](https://open.spotify.com/track/0mARjWxyuauPTUBC1G8s9f) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY) | 3:00 | 2026-03-05 | 2026-05-19 |
 | [7\-57](https://open.spotify.com/track/2WMmoQEfnPoPxi7fHDebnK) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 3:00 | 2022-09-16 | 2025-01-05 |
@@ -77,7 +77,7 @@
 | [Undone](https://open.spotify.com/track/2FYYzRt1ucC50W6uqjS5Ha) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY) | 3:38 | 2026-03-07 |  |
 | [Undone](https://open.spotify.com/track/4ivJvxLW3VP8uHOEMaAqxM) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/6ij08Dw2Ec5K8bwgJvxPiI) | 3:38 | 2024-12-31 | 2026-03-07 |
 | [Undone](https://open.spotify.com/track/5VW0SagBIrGCmwlL1j51c6) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 3:38 | 2022-09-16 | 2024-12-31 |
-| [Violet](https://open.spotify.com/track/2vf8GGzKCRtvjyz0MVL5S1) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG) | 4:12 | 2026-04-25 |  |
+| [Violet](https://open.spotify.com/track/2vf8GGzKCRtvjyz0MVL5S1) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG) | 4:12 | 2026-04-25 | 2026-06-22 |
 | [Violet](https://open.spotify.com/track/6j9WxIbqbib7SjGKePRPkQ) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 4:12 | 2022-09-16 | 2026-04-24 |
 | [Wait For Dark](https://open.spotify.com/track/5LCYfYYsJN96vzy9a8SqIY) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Wait For Dark](https://open.spotify.com/album/2madKsttGJIXf3yTMIS5oE) | 4:18 | 2026-06-11 |  |
 | [Water Doctor](https://open.spotify.com/track/0dXhvuHICapK14lW6huwO3) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG) | 3:38 | 2026-04-24 |  |

@@ -1,13 +1,29 @@
 {
   "description": "Today's R&B hits only. Music videos only available on Premium.",
-  "num_followers": 1512,
+  "num_followers": 1548,
   "original_name": "R&B Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEfjyYvLOeJM5v3fhjD7QL8AKiZx",
+  "snapshot_id": "AAAAAAWrFpJViBvrOF9X1ISz4Pu3k1XI",
   "tracks": [
+    {
+      "added_at": "2026-06-21 21:01:35",
+      "album": {
+        "name": "Love Is A Kingdom",
+        "url": "https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 234080,
+      "name": "What You Need",
+      "url": "https://open.spotify.com/track/7x5RhTT2bzS6CCQFeNb5HU"
+    },
     {
       "added_at": "2026-05-20 15:48:09",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 238120,
       "name": "Folded",
       "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
+    },
+    {
+      "added_at": "2026-06-21 21:01:35",
+      "album": {
+        "name": "touch myself/idea of love",
+        "url": "https://open.spotify.com/album/76ZZEjABkKjynOcObQIQOZ"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 249218,
+      "name": "touch myself",
+      "url": "https://open.spotify.com/track/3yftdtj8z7vS7M3EoPfVFK"
     },
     {
       "added_at": "2026-05-20 15:48:09",
@@ -89,6 +121,22 @@
       "url": "https://open.spotify.com/track/1nD3K6W0atK00pbJXS6JRa"
     },
     {
+      "added_at": "2026-06-21 21:01:35",
+      "album": {
+        "name": "Drop The Lo",
+        "url": "https://open.spotify.com/album/4YDQTAnUD2x4FopQWdAX9l"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 161470,
+      "name": "Drop The Lo",
+      "url": "https://open.spotify.com/track/2ehvynUj1tMnownVMQN0Rh"
+    },
+    {
       "added_at": "2026-05-20 15:48:09",
       "album": {
         "name": "Sunday Again (with 2 Chainz)",
@@ -107,6 +155,26 @@
       "duration_ms": 220106,
       "name": "Sunday Again (with 2 Chainz)",
       "url": "https://open.spotify.com/track/0jqIclUdaqiwYEi4FLUBOc"
+    },
+    {
+      "added_at": "2026-06-21 21:01:35",
+      "album": {
+        "name": "AMA",
+        "url": "https://open.spotify.com/album/6p11S4bs4hMNeT0Z976udB"
+      },
+      "artists": [
+        {
+          "name": "Ama",
+          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 187096,
+      "name": "Need it Bad (feat. Brent Faiyaz)",
+      "url": "https://open.spotify.com/track/2TLd022GNNCJY5RMZGokxh"
     },
     {
       "added_at": "2026-05-20 15:48:09",
@@ -177,6 +245,26 @@
       "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
     },
     {
+      "added_at": "2026-06-21 21:01:35",
+      "album": {
+        "name": "FROM FLORIDA'S FINEST DELU/XXX [for my delusional ex]",
+        "url": "https://open.spotify.com/album/6zgA5tC0h7FQgHV796gDGV"
+      },
+      "artists": [
+        {
+          "name": "SAILORR",
+          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
+        },
+        {
+          "name": "Eem Triplin",
+          "url": "https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT"
+        }
+      ],
+      "duration_ms": 156933,
+      "name": "COCONUT (feat. Eem Triplin)",
+      "url": "https://open.spotify.com/track/4BagPVnrcGVujbuwevPp1z"
+    },
+    {
       "added_at": "2026-05-20 15:48:09",
       "album": {
         "name": "sounds for someone",
@@ -209,6 +297,26 @@
       "url": "https://open.spotify.com/track/7GqtjPXE2gAEFgKLZ5436I"
     },
     {
+      "added_at": "2026-06-21 21:01:35",
+      "album": {
+        "name": "Labor Of Love",
+        "url": "https://open.spotify.com/album/5QBNc7pEAyRt3jlhPB70st"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 199200,
+      "name": "Ruin",
+      "url": "https://open.spotify.com/track/65KLw7hjgDH8rfxkMDIOvT"
+    },
+    {
       "added_at": "2026-05-20 15:48:09",
       "album": {
         "name": "Fly",
@@ -225,20 +333,20 @@
       "url": "https://open.spotify.com/track/2AaDINmyHvzElSXWQ0tmrb"
     },
     {
-      "added_at": "2026-05-20 15:48:09",
+      "added_at": "2026-06-21 21:01:35",
       "album": {
-        "name": "IT'S OK",
-        "url": "https://open.spotify.com/album/58ESrwQBQHLys9cC5qd6uE"
+        "name": "For All The Right Reasons Vol. 1",
+        "url": "https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN"
       },
       "artists": [
         {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
         }
       ],
-      "duration_ms": 139039,
-      "name": "IT'S OK",
-      "url": "https://open.spotify.com/track/7uADhlog5IlihImt0ypJq6"
+      "duration_ms": 198648,
+      "name": "Safety",
+      "url": "https://open.spotify.com/track/3imanCE92X8HlLyFKMy3cT"
     },
     {
       "added_at": "2026-05-20 15:48:09",
@@ -271,42 +379,6 @@
       "duration_ms": 156892,
       "name": "Something Real",
       "url": "https://open.spotify.com/track/17odCitXaQsvl3uZWskCEH"
-    },
-    {
-      "added_at": "2026-05-20 15:48:09",
-      "album": {
-        "name": "hopeless romantic",
-        "url": "https://open.spotify.com/album/4G5UknjIP48pTz9950Ii2P"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 183692,
-      "name": "hopeless romantic",
-      "url": "https://open.spotify.com/track/4IFgAd6OdFhKlDDxwBX8In"
-    },
-    {
-      "added_at": "2026-05-20 15:48:09",
-      "album": {
-        "name": "Need it Bad (feat. Brent Faiyaz)",
-        "url": "https://open.spotify.com/album/7wflrYEr2NnbAwsZysbKrC"
-      },
-      "artists": [
-        {
-          "name": "Ama",
-          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
-        },
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 187096,
-      "name": "Need it Bad (feat. Brent Faiyaz)",
-      "url": "https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr"
     },
     {
       "added_at": "2026-05-20 15:48:09",
@@ -471,22 +543,6 @@
       "duration_ms": 218122,
       "name": "Friends Again",
       "url": "https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0"
-    },
-    {
-      "added_at": "2026-05-20 15:48:09",
-      "album": {
-        "name": "Safety",
-        "url": "https://open.spotify.com/album/4FRGOKIYHjFLT2XQ0jBKJY"
-      },
-      "artists": [
-        {
-          "name": "Lekan",
-          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
-        }
-      ],
-      "duration_ms": 198648,
-      "name": "Safety",
-      "url": "https://open.spotify.com/track/0tUz0N0ra3OT2daiI6Qm66"
     },
     {
       "added_at": "2026-05-20 15:48:09",

@@ -1,12 +1,12 @@
 {
   "description": "This is Bonobo. The essential tracks, all in one playlist.",
-  "num_followers": 163695,
+  "num_followers": 163701,
   "original_name": "This Is Bonobo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAACX5rCBDF9NWppqd5bmip/U",
+  "snapshot_id": "ajXYAAAAAABjP962P0wfP3iXtMkdJIxW",
   "tracks": [
     {
       "added_at": null,
@@ -106,15 +106,11 @@
         {
           "name": "Bonobo",
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
         }
       ],
-      "duration_ms": 226146,
-      "name": "Tides",
-      "url": "https://open.spotify.com/track/622fSIVOm6SPcLPNOoYeJn"
+      "duration_ms": 242773,
+      "name": "Rosewood",
+      "url": "https://open.spotify.com/track/2ZaL63zLMDr6H18El2EIt9"
     },
     {
       "added_at": null,
@@ -182,11 +178,15 @@
         {
           "name": "Bonobo",
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
         }
       ],
-      "duration_ms": 242773,
-      "name": "Rosewood",
-      "url": "https://open.spotify.com/track/2ZaL63zLMDr6H18El2EIt9"
+      "duration_ms": 226146,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/622fSIVOm6SPcLPNOoYeJn"
     },
     {
       "added_at": null,
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lazarus (Adult Swim Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/2l7QYB5EMOkbtuc17WwBnp"
+        "name": "Linked",
+        "url": "https://open.spotify.com/album/6Eb3lH04iEMK0YJ8gk01MR"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 123506,
-      "name": "Rippling",
-      "url": "https://open.spotify.com/track/0SHGfREepNpkbAceg1G6sC"
+      "duration_ms": 369461,
+      "name": "Linked",
+      "url": "https://open.spotify.com/track/3rCtueI7qBN2kZBZnXuk5K"
     },
     {
       "added_at": null,
@@ -611,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Linked",
-        "url": "https://open.spotify.com/album/6Eb3lH04iEMK0YJ8gk01MR"
+        "name": "Lazarus (Adult Swim Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2l7QYB5EMOkbtuc17WwBnp"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 369461,
-      "name": "Linked",
-      "url": "https://open.spotify.com/track/3rCtueI7qBN2kZBZnXuk5K"
+      "duration_ms": 123506,
+      "name": "Rippling",
+      "url": "https://open.spotify.com/track/0SHGfREepNpkbAceg1G6sC"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Offs (Remixes & B Sides)",
-        "url": "https://open.spotify.com/album/7JcOUOS8qJGBhEIncdfGbk"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 296040,
-      "name": "The Shark",
-      "url": "https://open.spotify.com/track/6HZMkHiqBQSL2NmkdGKpZR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Expander",
         "url": "https://open.spotify.com/album/4MaNMdGcSvFRxTp0JixzYJ"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 251428,
       "name": "Expander",
       "url": "https://open.spotify.com/track/046ebSoM0LeJEIlXTujdDB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Offs (Remixes & B Sides)",
+        "url": "https://open.spotify.com/album/7JcOUOS8qJGBhEIncdfGbk"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 296040,
+      "name": "The Shark",
+      "url": "https://open.spotify.com/track/6HZMkHiqBQSL2NmkdGKpZR"
     },
     {
       "added_at": null,
@@ -815,6 +815,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Animal Magic",
+        "url": "https://open.spotify.com/album/4ptDpUO3Uf910ekgmftYA8"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 287066,
+      "name": "Sugar Rhyme",
+      "url": "https://open.spotify.com/track/1c1dLL9NGUL3vQ7L2VvEOM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dark Will Fall (from \"LAZARUS\" Soundtrack) (feat. Jacob Lusk)",
         "url": "https://open.spotify.com/album/5V7vnxgEDNt2i8odquLCAZ"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 136533,
       "name": "Dark Will Fall (feat. Jacob Lusk)",
       "url": "https://open.spotify.com/track/5SFNrWCxLi1NPjE4zjhNiU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Animal Magic",
-        "url": "https://open.spotify.com/album/4ptDpUO3Uf910ekgmftYA8"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 287066,
-      "name": "Sugar Rhyme",
-      "url": "https://open.spotify.com/track/1c1dLL9NGUL3vQ7L2VvEOM"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Happy tunes from the 50s, 60s & 70s. Cover: The Beach Boys.",
-  "num_followers": 551415,
+  "num_followers": 551533,
   "original_name": "Feel Good Classics",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Greatest",
-        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 197213,
-      "name": "More Than A Woman - From \"Saturday Night Fever\" Soundtrack",
-      "url": "https://open.spotify.com/track/49OMJ1prsRA7ZYgrAjz70c"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "Madman Across The Water",
         "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 377093,
       "name": "Tiny Dancer",
       "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "Greatest",
+        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 197213,
+      "name": "More Than A Woman - From \"Saturday Night Fever\" Soundtrack",
+      "url": "https://open.spotify.com/track/49OMJ1prsRA7ZYgrAjz70c"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Ring My Bell",
-        "url": "https://open.spotify.com/album/5G7Hry7SFLrdsvPu12EUyV"
-      },
-      "artists": [
-        {
-          "name": "Anita Ward",
-          "url": "https://open.spotify.com/artist/3Dd6jD1AApgtNoU6SJWR7P"
-        }
-      ],
-      "duration_ms": 491933,
-      "name": "Ring My Bell",
-      "url": "https://open.spotify.com/track/7GK2KVYH8FrTC9zehmjVMd"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "Frankie Valli...Is The Word",
         "url": "https://open.spotify.com/album/0o2oPAxKGui4tvrrNgDtkc"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 207306,
       "name": "Grease - 2007 Remaster",
       "url": "https://open.spotify.com/track/5Vrczz39CvlD3OGCa6utoA"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "Ring My Bell",
+        "url": "https://open.spotify.com/album/5G7Hry7SFLrdsvPu12EUyV"
+      },
+      "artists": [
+        {
+          "name": "Anita Ward",
+          "url": "https://open.spotify.com/artist/3Dd6jD1AApgtNoU6SJWR7P"
+        }
+      ],
+      "duration_ms": 491933,
+      "name": "Ring My Bell",
+      "url": "https://open.spotify.com/track/7GK2KVYH8FrTC9zehmjVMd"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -1279,8 +1279,8 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Talking Book",
-        "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
       },
       "artists": [
         {
@@ -1288,9 +1288,9 @@
           "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 178200,
-      "name": "You Are The Sunshine Of My Life",
-      "url": "https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX"
+      "duration_ms": 394266,
+      "name": "Isn't She Lovely",
+      "url": "https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Help! (Remastered)",
-        "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 189680,
-      "name": "Ticket To Ride - Remastered 2009",
-      "url": "https://open.spotify.com/track/7CZiDzGVjUssMSOXrDNYHL"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "The Collection & Tracklisting",
         "url": "https://open.spotify.com/album/5e6VPOPLw5cSXsVMvQEioq"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 273866,
       "name": "Yes Sir, I Can Boogie",
       "url": "https://open.spotify.com/track/2LScqpywMqGcnum6nNaxXX"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "Help! (Remastered)",
+        "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 189680,
+      "name": "Ticket To Ride - Remastered 2009",
+      "url": "https://open.spotify.com/track/7CZiDzGVjUssMSOXrDNYHL"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -1359,8 +1359,8 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+        "name": "Talking Book",
+        "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
       },
       "artists": [
         {
@@ -1368,9 +1368,9 @@
           "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 394266,
-      "name": "Isn't She Lovely",
-      "url": "https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH"
+      "duration_ms": 178200,
+      "name": "You Are The Sunshine Of My Life",
+      "url": "https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "I'll Cry If I Want To",
-        "url": "https://open.spotify.com/album/7KSrseQi4wJDUfMT4mxNo8"
-      },
-      "artists": [
-        {
-          "name": "Lesley Gore",
-          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "It's My Party",
-      "url": "https://open.spotify.com/track/1Pq47iFLC5U7j8xeNiNcuS"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "2 Hot!",
         "url": "https://open.spotify.com/album/1MzEdKoD6mxji2q7k3rRcw"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 346133,
       "name": "Shake Your Groove Thing",
       "url": "https://open.spotify.com/track/5o89Bf80t8ko3uNXJkYoVs"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "I'll Cry If I Want To",
+        "url": "https://open.spotify.com/album/7KSrseQi4wJDUfMT4mxNo8"
+      },
+      "artists": [
+        {
+          "name": "Lesley Gore",
+          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "It's My Party",
+      "url": "https://open.spotify.com/track/1Pq47iFLC5U7j8xeNiNcuS"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
+        "name": "Four Tops",
+        "url": "https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "duration_ms": 166026,
+      "name": "Baby I Need Your Loving",
+      "url": "https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
         "name": "This Old Heart Of Mine",
         "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 172733,
       "name": "This Old Heart Of Mine (Is Weak For You)",
       "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
-        "name": "Main Course",
-        "url": "https://open.spotify.com/album/2blsPE3sO5SnroFjfEAlfj"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 222266,
-      "name": "Jive Talkin'",
-      "url": "https://open.spotify.com/track/4t0Pj3iBnSCZv5pDEPNmzG"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Four Tops",
-        "url": "https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm"
+        "name": "Main Course",
+        "url": "https://open.spotify.com/album/2blsPE3sO5SnroFjfEAlfj"
       },
       "artists": [
         {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
         }
       ],
-      "duration_ms": 166026,
-      "name": "Baby I Need Your Loving",
-      "url": "https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4"
+      "duration_ms": 222266,
+      "name": "Jive Talkin'",
+      "url": "https://open.spotify.com/track/4t0Pj3iBnSCZv5pDEPNmzG"
     },
     {
       "added_at": "2024-07-12 21:11:00",

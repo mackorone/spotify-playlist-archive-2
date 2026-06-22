@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17wFoY.md) - [plain]
 
 > This is Lang Lang\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,907 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,909 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17wFoY.md) - [plain]
 | 14 | [Kinderszenen, Op\. 15: IV\. Bittendes Kind](https://open.spotify.com/track/3MV9u27GAg3GZAvpeeBYGx) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Memory](https://open.spotify.com/album/5e6JUumt6nbvzPrpZxb8vP) | 0:52 |
 | 15 | [The Departure](https://open.spotify.com/track/59gg6zQhSKGVnkT3hWAY3l) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Voyager \- Essential Max Richter](https://open.spotify.com/album/3vEiYqSfrz7tHnHq14XHQd) | 2:31 |
 | 16 | [Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/4GFuyvrYOQYDS497hffJXT) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Bach: Goldberg Variations \(Extended Edt.\)](https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95) | 5:21 |
-| 17 | [La campanella in G\-Sharp Minor \(From "Grandes études de Paganini", S\. 141/3\)](https://open.spotify.com/track/2Hnurh1BcigGbCGFOb4Uid) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Liszt \- My Piano Hero](https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu) | 4:47 |
-| 18 | [Limu, limu, lima \(Arr\. Schindler for Piano\)](https://open.spotify.com/track/1ZpnptUG5sISwRx6fJQrXN) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book \(Deluxe Edition\)](https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90) | 5:35 |
+| 17 | [Limu, limu, lima \(Arr\. Schindler for Piano\)](https://open.spotify.com/track/1ZpnptUG5sISwRx6fJQrXN) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book \(Deluxe Edition\)](https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90) | 5:35 |
+| 18 | [La campanella in G\-Sharp Minor \(From "Grandes études de Paganini", S\. 141/3\)](https://open.spotify.com/track/2Hnurh1BcigGbCGFOb4Uid) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Liszt \- My Piano Hero](https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu) | 4:47 |
 | 19 | [Valse lente](https://open.spotify.com/track/5LRwngQ52nUePgI91FNhfz) | [Germaine Tailleferre](https://open.spotify.com/artist/6BPFsvVekatEQbA8l07afM), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Tailleferre: Valse lente](https://open.spotify.com/album/1ZYsAlMxGeLxcflbZOV7pZ) | 2:46 |
 | 20 | [Portrait of Mom](https://open.spotify.com/track/0D3J2SJrmHmRMeuaHieHq3) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4), [Gan Gou](https://open.spotify.com/artist/1Hvg7FHdAIFTFJsM4rGOtE), [Jian Wang](https://open.spotify.com/artist/4DcpgOrxEYPTulZEeJhAJ5) | [Kung Fu Panda 3 \(Music from the Motion Picture\)](https://open.spotify.com/album/35vf79jnOBG3WZHQTzIl6a) | 1:48 |
 | 21 | [River Waltz \- From "The Painted Veil" Original Soundtrack](https://open.spotify.com/track/4ymJo2WLb6jikYZHaZDdL9) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4), [Prague Symphony Orchestra](https://open.spotify.com/artist/6D3rLhEkc3t1zLltUNOSxg) | [The Painted Veil](https://open.spotify.com/album/2ERLWWYpis2WUsKxeJsAHz) | 2:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17wFoY.md) - [plain]
 | 49 | [Études, Op\. 25: No\. 1 in A\-Flat Major](https://open.spotify.com/track/6SZecFOXcA1mt31T67vajf) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Lang Lang: The Chopin Album](https://open.spotify.com/album/0ylbO515jtrovpxr1drKdF) | 2:54 |
 | 50 | [The Merry Shepherd Boy](https://open.spotify.com/track/04WtM8HBVMGUY3r5LEX4Dr) | [Hu\-Wei Huang](https://open.spotify.com/artist/61g9t43Yf5am1yo8MioU3p), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book \(Deluxe Edition\)](https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90) | 1:33 |
 
-Snapshot ID: `ajSGgAAAAADTgaZI4yPZHSBljH+fozzz`
+Snapshot ID: `ajXYAAAAAABqbL8AHfEAuxGY/uDOgifz`

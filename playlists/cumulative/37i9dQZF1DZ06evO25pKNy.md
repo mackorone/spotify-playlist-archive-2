@@ -4,7 +4,7 @@
 
 > This is Los Hijos De Garcia\. The essential tracks, all in one playlist.
 
-74 songs - 3 hr 39 min
+75 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [CHALINOFEST](https://open.spotify.com/track/3Kds2AGOb00EjxKUDczMYT) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Desde La 48](https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD) | 2:29 | 2025-03-02 |  |
 | [Classroom Love](https://open.spotify.com/track/7yFDHXEb7UseHnH3hEWR29) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Classroom Love](https://open.spotify.com/album/0cbyUdPh5smj24zGOuwF5o) | 4:16 | 2024-01-29 |  |
 | [Como Debe Ser](https://open.spotify.com/track/7BYQKLz2yWFePlxApyvbeP) | [Marca De Rancho](https://open.spotify.com/artist/0z9MnTktQ28puENoMtrc9U), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Como Debe Ser](https://open.spotify.com/album/0tQPxSvQvoCWF2p2ziWmqM) | 2:10 | 2024-01-29 |  |
-| [COMPTON](https://open.spotify.com/track/2hoOS2ABkC8JrcN69owHYE) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Jálese Carnal](https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD) | 2:45 | 2024-01-29 |  |
+| [COMPTON](https://open.spotify.com/track/2hoOS2ABkC8JrcN69owHYE) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Jálese Carnal](https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD) | 2:45 | 2024-01-29 | 2026-06-22 |
 | [Contrato Con La Muerte](https://open.spotify.com/track/7KFDZYka1XWE7a6RIrdmaP) | [Voces Del Rancho](https://open.spotify.com/artist/1fGlKY2s0o51QUA9gScpWR), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Jimmy Humilde Presenta Lo Mejor De Los 90's](https://open.spotify.com/album/1osJOSkOwfD5UBZ50ksQsH) | 3:19 | 2024-11-03 |  |
 | [Cuando Me Faltaban](https://open.spotify.com/track/3XVCdhJp0j1Xpl6En6WOwp) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Desde La 48](https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD) | 2:56 | 2025-03-04 |  |
 | [Cuando Me Muera](https://open.spotify.com/track/3F9Xch0uZUTA30K7MFkh2F) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Lujos y Libras](https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R) | 3:09 | 2024-01-29 |  |
@@ -35,6 +35,7 @@
 | [El Buenazo](https://open.spotify.com/track/09n6isQIxzROWYMFgkKz10) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Slapperz](https://open.spotify.com/album/7vHKFMrKnIcBsrjtg1vuzS) | 2:59 | 2024-01-29 |  |
 | [El Cimarron](https://open.spotify.com/track/3mBI9q2AWvbEEGLnxjmdBg) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Jálese Carnal](https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD) | 2:36 | 2024-01-29 |  |
 | [EL CRESTA](https://open.spotify.com/track/3BWOcwBVUbAz32DaYCj1ek) | [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [BAJITA LA TENAZA](https://open.spotify.com/album/4snGTYPRvhdBiu7O1qXYXd) | 3:18 | 2024-10-28 |  |
+| [El De La Codeina](https://open.spotify.com/track/6vJ7oKNUELxzWx2tZHCgNe) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [En Vivo Desde Almanza Fresians Ranch, Vol\. 1](https://open.spotify.com/album/7d0oBxthOSCSsLWjnUHzLf) | 2:53 | 2026-06-22 |  |
 | [El De Las Yukones](https://open.spotify.com/track/4CBuhWcnA1shPffJd116rU) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Jálese Carnal](https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD) | 2:52 | 2025-02-24 | 2025-03-02 |
 | [El Fracasado](https://open.spotify.com/track/4VZmwLWmUsw81pkzDekhxT) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [El Fracasado](https://open.spotify.com/album/6RaNwXyfahQ2r4tVVMFwNm) | 2:45 | 2024-01-29 | 2025-03-04 |
 | [El Ivan](https://open.spotify.com/track/74KBam4TcjMhg5EBbMW3Cy) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Loco Malandro](https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ) | 3:07 | 2025-09-10 | 2025-09-17 |

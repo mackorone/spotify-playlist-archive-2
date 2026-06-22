@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 
 > Boots on the ground, head in the stars
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,895 likes - 102 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,903 likes - 102 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

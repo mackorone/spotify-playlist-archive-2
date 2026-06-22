@@ -4,7 +4,7 @@
 
 > This is Andre Hazes\. The essential tracks, all in one playlist.
 
-58 songs - 3 hr 31 min
+59 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Want Ik Hou Van Jou](https://open.spotify.com/track/4StJdcpuqlrB3NEARX19QP) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Want Ik Hou Van Jou](https://open.spotify.com/album/1bQsKoFUFBSIYQdMXoh3NB) | 3:47 | 2025-07-20 |  |
 | [Wat Is Dan Liefde](https://open.spotify.com/track/7lzSUHVotlqj0JSWIe5Q6D) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [N Vriend](https://open.spotify.com/album/12SKNd3eWiv0LAqHGEmJwb) | 3:36 | 2025-07-20 |  |
 | [Wees Zuinig Op M'n Meissie](https://open.spotify.com/track/1ZKArL3MUbctYbDA0aA70M) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [De Hazes 100](https://open.spotify.com/album/06eur57GeYWvei9L0hlduF) | 3:30 | 2025-07-20 |  |
-| [Wij Houden Van Oranje](https://open.spotify.com/track/4TWx4rM6PEaNi5cmqhmS5U) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Wij Houden Van Oranje](https://open.spotify.com/album/4JsfceecKCRAMuNtDm8nuH) | 2:44 | 2026-06-15 |  |
+| [Wij Houden Van Oranje](https://open.spotify.com/track/4TWx4rM6PEaNi5cmqhmS5U) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Wij Houden Van Oranje](https://open.spotify.com/album/4JsfceecKCRAMuNtDm8nuH) | 2:44 | 2026-06-15 | 2026-06-22 |
+| [Wij Houden Van Oranje \- Live From The Amsterdam Arena, Netherlands / 2008](https://open.spotify.com/track/6M7I3yVYUvSZ3agth5j8Bo) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Wij Gaan Gezellig Naar De Kroeg \(Andre's Oranje Favorieten\)](https://open.spotify.com/album/6Ce3SCEkeVB73ynSPvcHYa) | 2:52 | 2026-06-22 |  |
 | [Zeg Maar Niets Meer](https://open.spotify.com/track/2x7VFpoHN8eutpliLKFfuh) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Gewoon Andre](https://open.spotify.com/album/6toU0S9DdSnpkwFaguQgIe) | 2:48 | 2025-07-20 |  |
 | [Zij Gelooft In Mij](https://open.spotify.com/track/4GrQPpjaZmBf67b9Uh83T8) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Gewoon Andre](https://open.spotify.com/album/6toU0S9DdSnpkwFaguQgIe) | 3:49 | 2025-07-20 |  |
 | [Zo Heb Ik Het Nooit Bedoeld](https://open.spotify.com/track/1xDJChqZ4KB7aWFBrOvfLT) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [De Hazes 100](https://open.spotify.com/album/06eur57GeYWvei9L0hlduF) | 4:24 | 2025-07-20 |  |

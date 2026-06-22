@@ -289,6 +289,24 @@
     },
     {
       "album": {
+        "name": "Duke Ellington's Far East Suite",
+        "url": "https://open.spotify.com/album/5vpTgY04AzRBacZxtGhFe6"
+      },
+      "artists": [
+        {
+          "name": "Slavic Soul Party!",
+          "url": "https://open.spotify.com/artist/0WqRUsyv5vUBAKwznogKrE"
+        }
+      ],
+      "date_added": "2026-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343573,
+      "name": "Amad",
+      "url": "https://open.spotify.com/track/1TROHMWmCR5pWZgkFVsUHH"
+    },
+    {
+      "album": {
         "name": "Portrait of a Silk Thread: Newly Discovered Works of Billy Strayhorn",
         "url": "https://open.spotify.com/album/3dBICshGBbp0nlNnxY4vl6"
       },

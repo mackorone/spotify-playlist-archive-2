@@ -3508,7 +3508,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 185371,
       "name": "Eres un Encanto",
       "url": "https://open.spotify.com/track/3ebkZroNB7RD6gnwLpRiHB"
@@ -5682,6 +5682,28 @@
       "duration_ms": 193853,
       "name": "Mi Raz\u00f3n De Ser",
       "url": "https://open.spotify.com/track/03JbYQiWdbNU50NmmSU6q3"
+    },
+    {
+      "album": {
+        "name": "La Trayectoria 30 Exitos",
+        "url": "https://open.spotify.com/album/7aYo3Fnbr79g0gSQS6xegH"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Reyna",
+          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
+        },
+        {
+          "name": "Ram\u00f3n Ayala",
+          "url": "https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181506,
+      "name": "Mi Tesoro",
+      "url": "https://open.spotify.com/track/1kMcQ5ovfzCgvdMONCOWNS"
     },
     {
       "album": {

@@ -3573,6 +3573,24 @@
     },
     {
       "album": {
+        "name": "Utara",
+        "url": "https://open.spotify.com/album/2Ds4iV3LPSya4zyVBHqhcn"
+      },
+      "artists": [
+        {
+          "name": "Merah",
+          "url": "https://open.spotify.com/artist/0SqG39qV2HtVNgtjKSKGXQ"
+        }
+      ],
+      "date_added": "2026-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229161,
+      "name": "Bara",
+      "url": "https://open.spotify.com/track/50hb6zxmJMxrfavhe0fyn7"
+    },
+    {
+      "album": {
         "name": "Terroir",
         "url": "https://open.spotify.com/album/4VZtaKfMhyUOJmGPQ6sWnt"
       },

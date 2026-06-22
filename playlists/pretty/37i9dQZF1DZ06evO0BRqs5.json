@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAAAFrcuv9K3kuwpDUngehyVg",
+  "snapshot_id": "ajXYAAAAAAB9w4ZaZZVOsicnYbo0d8r1",
   "tracks": [
     {
       "added_at": null,
@@ -359,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BEST -A-",
-        "url": "https://open.spotify.com/album/2fVMvoKy9XWekpbdyyTFg5"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "duration_ms": 276346,
-      "name": "\u30a2\u30af\u30bb\u30f3\u30c6\u30a3\u30a2",
-      "url": "https://open.spotify.com/track/0mLK9TPqJ92eRPoJjrJIi9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u7ffc",
         "url": "https://open.spotify.com/album/4Jgv6Mp7kD0phKwFs5UmzN"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 266400,
       "name": "\u6df1\u3044\u68ee",
       "url": "https://open.spotify.com/track/0FQCrJ6j5ZDZ7od1TkMchk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BEST -A-",
+        "url": "https://open.spotify.com/album/2fVMvoKy9XWekpbdyyTFg5"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "duration_ms": 276346,
+      "name": "\u30a2\u30af\u30bb\u30f3\u30c6\u30a3\u30a2",
+      "url": "https://open.spotify.com/track/0mLK9TPqJ92eRPoJjrJIi9"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MONSTER / \u7d75\u7a7a\u4e8b",
-        "url": "https://open.spotify.com/album/2LyeCsCc3N4qH0u6AwCdRu"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "duration_ms": 247091,
-      "name": "DRUM",
-      "url": "https://open.spotify.com/track/3z81WD6YBsBq3QBzm5YrVG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BEST -A-",
         "url": "https://open.spotify.com/album/2fVMvoKy9XWekpbdyyTFg5"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 243880,
       "name": "\u30b7\u30e5\u30fc\u30b2\u30a4\u30b6\u30fc",
       "url": "https://open.spotify.com/track/11mJhOxt2hCooDFndTPK4C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MONSTER / \u7d75\u7a7a\u4e8b",
+        "url": "https://open.spotify.com/album/2LyeCsCc3N4qH0u6AwCdRu"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "duration_ms": 247091,
+      "name": "DRUM",
+      "url": "https://open.spotify.com/track/3z81WD6YBsBq3QBzm5YrVG"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30e9\u30d4\u30b9\u30e9\u30ba\u30ea",
-        "url": "https://open.spotify.com/album/2QieGS3vilhPJo88el8l8G"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "duration_ms": 285026,
-      "name": "\u30ea\u30f3\u30c9\u30a6\u306e\u82b1",
-      "url": "https://open.spotify.com/track/3jfBeW2K8C2Fer7Eu3Reef"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MONSTER / \u7d75\u7a7a\u4e8b",
         "url": "https://open.spotify.com/album/2LyeCsCc3N4qH0u6AwCdRu"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 233433,
       "name": "Decay",
       "url": "https://open.spotify.com/track/51owOM1QNjD2YNrm9jUNQQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30e9\u30d4\u30b9\u30e9\u30ba\u30ea",
+        "url": "https://open.spotify.com/album/2QieGS3vilhPJo88el8l8G"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "duration_ms": 285026,
+      "name": "\u30ea\u30f3\u30c9\u30a6\u306e\u82b1",
+      "url": "https://open.spotify.com/track/3jfBeW2K8C2Fer7Eu3Reef"
     },
     {
       "added_at": null,

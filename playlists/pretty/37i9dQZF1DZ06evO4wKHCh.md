@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wKHCh.md) - [plain]
 
 > This is Emei\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,911 likes - 38 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,912 likes - 38 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,12 +39,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wKHCh.md) - [plain]
 | 29 | [Hold On Me \(feat\. Emei\)](https://open.spotify.com/track/5asMstLe5UTmy01PCdM43c) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Hold On Me \(feat\. Emei\)](https://open.spotify.com/album/0tMVeea5aLMQqOFGSPWwyI) | 2:29 |
 | 30 | [THE PART](https://open.spotify.com/track/2RCZZqbvNR5pEORY3p8PY2) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [RABBITHOLE](https://open.spotify.com/album/1gyUNc54TWzgzXtPvOdOYN) | 2:44 |
 | 31 | [Human Being \- Demo](https://open.spotify.com/track/304dMIr0dsQ9JUliawZVKT) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain \(Deluxe\)](https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5) | 1:59 |
-| 32 | [9 LIVES](https://open.spotify.com/track/64APtv04ls8z8Cjv6iGUsY) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [9 LIVES](https://open.spotify.com/album/7hpEYDgSxgLy8t8TFNnCn7) | 3:02 |
-| 33 | [Simple Request](https://open.spotify.com/track/2qMXHqR78AghFekIyXExCC) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Night at the Opera](https://open.spotify.com/album/30XL7bANBr0cBA9nVCq8CN) | 3:49 |
+| 32 | [Simple Request](https://open.spotify.com/track/2qMXHqR78AghFekIyXExCC) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Night at the Opera](https://open.spotify.com/album/30XL7bANBr0cBA9nVCq8CN) | 3:49 |
+| 33 | [9 LIVES](https://open.spotify.com/track/64APtv04ls8z8Cjv6iGUsY) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [9 LIVES](https://open.spotify.com/album/7hpEYDgSxgLy8t8TFNnCn7) | 3:02 |
 | 34 | [Regrets](https://open.spotify.com/track/64l8UD4BRovWTSyrLqManD) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Regrets](https://open.spotify.com/album/2JNxwslDi54vHpSMofYiNR) | 2:02 |
-| 35 | [ALL THESE KIDS](https://open.spotify.com/track/4GCMUoBhLMELZ9yf1xHQbc) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [ALL THESE KIDS](https://open.spotify.com/album/2PiygkH7sI89FdZc9GVdKM) | 1:57 |
-| 36 | [Don't Know About The World](https://open.spotify.com/track/7xil2jjcEh4kaU3XXoAPh8) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:23 |
+| 35 | [Don't Know About The World](https://open.spotify.com/track/7xil2jjcEh4kaU3XXoAPh8) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:23 |
+| 36 | [ALL THESE KIDS](https://open.spotify.com/track/4GCMUoBhLMELZ9yf1xHQbc) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [ALL THESE KIDS](https://open.spotify.com/album/2PiygkH7sI89FdZc9GVdKM) | 1:57 |
 | 37 | [SUNNYD](https://open.spotify.com/track/4vnauoJf6OYYU73jPUJbZa) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [SUNNYD](https://open.spotify.com/album/1D8kmnJy5pX2oxTsydOEYZ) | 2:06 |
 | 38 | [Tian Mi Mi \(Your Sweet Smile\)](https://open.spotify.com/track/1wYBTmZ8tBfm7kX3RYkYLZ) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Ginger Tea](https://open.spotify.com/album/3HD6dMq4zT1yMugmUNNZdN) | 1:03 |
 
-Snapshot ID: `ajSGgAAAAABDLp/bviqJFQ+dzqpFZWkZ`
+Snapshot ID: `ajXYAAAAAAD8nQkEV6rGM40V30ubjT8Q`

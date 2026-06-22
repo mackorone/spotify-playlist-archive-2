@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes! Cover: Veertien
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,414 likes - 70 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,418 likes - 70 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Paramore. The essential tracks, all in one playlist.",
-  "num_followers": 981479,
+  "num_followers": 981575,
   "original_name": "This Is Paramore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAADZnWCicmARJPzsbkDYFWoT",
+  "snapshot_id": "ajXYAAAAAABHB9vB0HN7eY7fX6n9WbSX",
   "tracks": [
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "After Laughter",
-        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
+        "name": "All We Know Is Falling",
+        "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 212853,
-      "name": "Rose-Colored Boy",
-      "url": "https://open.spotify.com/track/2RJfK2pOvGpnxC255YOy5k"
+      "duration_ms": 240040,
+      "name": "Emergency",
+      "url": "https://open.spotify.com/track/3i4xZSH1kTLE22TUvUFMYo"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All We Know Is Falling",
-        "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
+        "name": "After Laughter",
+        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 240040,
-      "name": "Emergency",
-      "url": "https://open.spotify.com/track/3i4xZSH1kTLE22TUvUFMYo"
+      "duration_ms": 212853,
+      "name": "Rose-Colored Boy",
+      "url": "https://open.spotify.com/track/2RJfK2pOvGpnxC255YOy5k"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Słońce, leżak i letnia błogość w dźwiękach ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,866 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,896 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,16 +39,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 29 | [When I Get Drunk \(I Want You Boy\)](https://open.spotify.com/track/69AtEHHdDYKRgWlO0vwjUY) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [When I Get Drunk \(I Want You Boy\)](https://open.spotify.com/album/7Mjk8VDHv2RD1pEqbMQCd7) | 3:25 |
 | 30 | [Dwa dni](https://open.spotify.com/track/51NPACvDHPcKsyagJ8y3xE) | [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m) | [ETER](https://open.spotify.com/album/1SzOjjlqWBxvyE1XcfFk3W) | 2:21 |
 | 31 | [wszystko na bursztynowo](https://open.spotify.com/track/36BxwhqydaC791m9yvsb9H) | [Hubert.](https://open.spotify.com/artist/7dlH4L7i8CtRUZMQDSuXqH) | [wszystko na bursztynowo](https://open.spotify.com/album/3p60S20bPwQwDxjHOgyXHT) | 3:27 |
-| 32 | [Happy Now](https://open.spotify.com/track/3oDgRi2mzumNXRYWoizNOY) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [The Afterparty](https://open.spotify.com/album/3eqH5aQKPKLKD1kFNBczwl) | 2:42 |
-| 33 | [Stygnie lato](https://open.spotify.com/track/4XeZLZoNzLd1fKxpLTEqE0) | [Kuba i Kuba](https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh) | [Stygnie lato](https://open.spotify.com/album/2DGpH0QbyyUEZYRL88lQxn) | 3:01 |
+| 32 | [Stygnie lato](https://open.spotify.com/track/4XeZLZoNzLd1fKxpLTEqE0) | [Kuba i Kuba](https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh) | [Stygnie lato](https://open.spotify.com/album/2DGpH0QbyyUEZYRL88lQxn) | 3:01 |
+| 33 | [Happy Now](https://open.spotify.com/track/3oDgRi2mzumNXRYWoizNOY) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [The Afterparty](https://open.spotify.com/album/3eqH5aQKPKLKD1kFNBczwl) | 2:42 |
 | 34 | [Don't Say That](https://open.spotify.com/track/3y8b3mpLNiQnHvbZU9s2o6) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Don't Say That](https://open.spotify.com/album/1KQv7UmfkzVmNP37rH9JQ6) | 3:30 |
 | 35 | [ZŁY](https://open.spotify.com/track/5ryN2m8kIwAofh31Hafej6) | [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq) | [lekko](https://open.spotify.com/album/6JsrQGjRiVxAFW9p5WMHYQ) | 2:38 |
 | 36 | [Gotham](https://open.spotify.com/track/0z96iKCMr5H0js13xzklJe) | [MECNER](https://open.spotify.com/artist/2JwBk7ukopCrUjaw2mHZQf) | [Gotham](https://open.spotify.com/album/7tAIDXIVVN2IzLOKDPqCEU) | 2:55 |
-| 37 | [Gecko](https://open.spotify.com/track/1pykMNRzTpl2C7vxfmR1Pc) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm), [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [How dare you tryna love me?](https://open.spotify.com/album/6XDkigtRmlZV90EjNAq9TW) | 2:46 |
+| 37 | [Yeti](https://open.spotify.com/track/7DYO7Dj1RlPPnCpXpB5ynK) | [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH), [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [Yeti i W objęciach](https://open.spotify.com/album/6gp2qShAeyYIU02kQpso1u) | 3:20 |
 | 38 | [Nie ma miejsca jak dom](https://open.spotify.com/track/2W61aot3YavDVRABULNHAy) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX) | [Nie ma miejsca jak dom](https://open.spotify.com/album/2cMSGsICanADztWRLYbEZw) | 3:18 |
-| 39 | [Yeti](https://open.spotify.com/track/7DYO7Dj1RlPPnCpXpB5ynK) | [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH), [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [Yeti i W objęciach](https://open.spotify.com/album/6gp2qShAeyYIU02kQpso1u) | 3:20 |
-| 40 | [Ostatni dzień lata](https://open.spotify.com/track/6FJb2Knd2tn504K1durCVt) | [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ), [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N), [4Money](https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1) | [Ostatni dzień lata](https://open.spotify.com/album/5B7x5GMA9BTCRJL7w3pROu) | 3:06 |
-| 41 | [Love & Tears](https://open.spotify.com/track/0USF54f34DPnAn9nEmqNIN) | [GENER8ION](https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Love & Tears](https://open.spotify.com/album/3Gmq5AFwR3eXaf59Kbwgk8) | 3:38 |
+| 39 | [Gecko](https://open.spotify.com/track/1pykMNRzTpl2C7vxfmR1Pc) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm), [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [How dare you tryna love me?](https://open.spotify.com/album/6XDkigtRmlZV90EjNAq9TW) | 2:46 |
+| 40 | [Love & Tears](https://open.spotify.com/track/0USF54f34DPnAn9nEmqNIN) | [GENER8ION](https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Love & Tears](https://open.spotify.com/album/3Gmq5AFwR3eXaf59Kbwgk8) | 3:38 |
+| 41 | [Ostatni dzień lata](https://open.spotify.com/track/6FJb2Knd2tn504K1durCVt) | [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ), [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N), [4Money](https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1) | [Ostatni dzień lata](https://open.spotify.com/album/5B7x5GMA9BTCRJL7w3pROu) | 3:06 |
 | 42 | [Without You](https://open.spotify.com/track/1EHIhtFlI9cFgAcKuuMGXu) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [Without You](https://open.spotify.com/album/6Elarrs52LqvI6bURFzhRU) | 3:57 |
 | 43 | [Były momenty](https://open.spotify.com/track/2JZvc0rGooaJDY7aMXANxh) | [Kasia Sienkiewicz](https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH) | [Były momenty](https://open.spotify.com/album/3y7OsAGPH3VMtbyPk8BnSp) | 3:14 |
 | 44 | [Odkochaj](https://open.spotify.com/track/0ALsDccwFMj8QznHPah8fn) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Odkochaj](https://open.spotify.com/album/536Y6k6glJY1fMr8jlyZPO) | 2:43 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 57 | [Mam nadzieję](https://open.spotify.com/track/38DWD30XnDQ7ue5kNbXi1M) | [Maja Kleszcz](https://open.spotify.com/artist/3i9lbUfrdHKmGe5CJz2XjA), [Kortez](https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk) | [Mam nadzieję](https://open.spotify.com/album/4WDtmCu86ZAV6C7Lvk4Bsk) | 3:53 |
 | 58 | [Co chcę, to mam](https://open.spotify.com/track/0enBmAajlaCMkgBrEGSGGj) | [BABIE LATO](https://open.spotify.com/artist/0n6yaHp7ZDCuHJlNtN0q3G), [Natalia Grosiak](https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg), [BELA](https://open.spotify.com/artist/5IFLOBk9uRlmlQ4shdsLjz), [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Co chcę, to mam](https://open.spotify.com/album/0YIWD4DhUgHRNaz0ub1tW1) | 2:54 |
 | 59 | [Czule mówię](https://open.spotify.com/track/5vCjLZ5tJd2DuVeENeoTyw) | [Natalia Grosiak](https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg) | [Czule mówię](https://open.spotify.com/album/4DEt3nc2DIHkRafA7RI1Ty) | 3:02 |
-| 60 | [traces \(feat\. Molina\)](https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [traces \(feat\. Molina\)](https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV) | 3:07 |
+| 60 | [Z resztek](https://open.spotify.com/track/1o2zzTLm3WlbN4a3cUp6LM) | [PAULA ROMA](https://open.spotify.com/artist/6Sw43ZkxX0u3t4cjxlzbzs) | [Z resztek](https://open.spotify.com/album/3uOrKM0YHn9grOeKvAZ7vk) | 3:27 |
 
 Snapshot ID: `AAAAADVjzB/BvYLDi0NRchyDPrcT08nc`

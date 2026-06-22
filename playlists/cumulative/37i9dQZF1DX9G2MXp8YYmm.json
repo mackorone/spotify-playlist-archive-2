@@ -3291,6 +3291,24 @@
     },
     {
       "album": {
+        "name": "Delikanl\u0131m (Live)",
+        "url": "https://open.spotify.com/album/4nF8sJ3IuapgSwJJIXLjWa"
+      },
+      "artists": [
+        {
+          "name": "EDIS",
+          "url": "https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337236,
+      "name": "Delikanl\u0131m - Live",
+      "url": "https://open.spotify.com/track/6JhH7wWNy5MX6VrHIgTitQ"
+    },
+    {
+      "album": {
         "name": "Delil",
         "url": "https://open.spotify.com/album/0aQQsIQHfZLR1lHk5xA4NH"
       },
@@ -7046,7 +7064,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 137671,
       "name": "MA\u015eALLAH",
       "url": "https://open.spotify.com/track/2qzQNdEUKc9ntvASZgsAo3"

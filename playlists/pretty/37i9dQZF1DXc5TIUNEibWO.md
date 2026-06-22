@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 
 > Ghanaian Highlife Classics
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,252 likes - 80 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,264 likes - 80 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,12 +38,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 | 28 | [Ngozi](https://open.spotify.com/track/687b1ZxrRmzvodBCxrpBG4) | [Micheal Dwamena](https://open.spotify.com/artist/6sJP5qdmdznP6PrOkdPwAB) | [Owo Moti](https://open.spotify.com/album/5PcYQfVWxpa7WjjqGSWmYO) | 5:34 |
 | 29 | [Abeiku](https://open.spotify.com/track/0R55ud90TSQNXeqLeepXPq) | [Nana Tuffour](https://open.spotify.com/artist/0QMTuZV7F8J6b6eE97shGv) | [Abeiku](https://open.spotify.com/album/2oIwt5wf1BMRe3m386BrBT) | 5:42 |
 | 30 | [Medo Hemaa](https://open.spotify.com/track/2K2wEAw5sjiTAeB5slHbPX) | [Oheneba Kissi](https://open.spotify.com/artist/1PVgxPvoW5i5sfFozT2Rz4) | [Medo Hemaa](https://open.spotify.com/album/3iR2k41ydYQa2Jtchiy2sr) | 5:37 |
-| 31 | [Koyon So \- Game](https://open.spotify.com/track/3JsL7IF5injWE1V8220Vul) | [Papa Sheee](https://open.spotify.com/artist/0ktHlUz0hzcpJnnAJ7KDPw) | [Koyon So](https://open.spotify.com/album/42ERj6ANxjLvf9XufhAfgy) | 6:15 |
+| 31 | [Atadwe](https://open.spotify.com/track/77szM9v9r3cQLb753RcRjW) | [Papa Sheee](https://open.spotify.com/artist/0ktHlUz0hzcpJnnAJ7KDPw) | [Atadwe](https://open.spotify.com/album/1RmAEbz2aviWvoa4YwUQNk) | 6:00 |
 | 32 | [Bonwire](https://open.spotify.com/track/4bJZIgQuefmHbMq3v8P5NG) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Otoolege](https://open.spotify.com/album/3AinuC1JTj3edgaFFqTWvS) | 5:43 |
 | 33 | [Akoo Te Brofo](https://open.spotify.com/track/3TYgzjwlcpEdN1GufC9C2U) | [George Darko](https://open.spotify.com/artist/2VCsvAGppsjBLBBMZr03q9) | [Akoo Te Brofo](https://open.spotify.com/album/6j9WYjUpnKSyuOSL3F6Bhw) | 9:33 |
 | 34 | [Ntsaase](https://open.spotify.com/track/7wMXKStdPZzqKifB5BSavm) | [Ben Brako](https://open.spotify.com/artist/6lLx7n1C0vjYDYL5IexQNf) | [Baya](https://open.spotify.com/album/2nsHFIaIWB5MjN32hTihEa) | 4:13 |
 | 35 | [Asem Ben?](https://open.spotify.com/track/0rgKKg0pZK2qH64RK45HNK) | [Oheneba Kissi](https://open.spotify.com/artist/1PVgxPvoW5i5sfFozT2Rz4) | [Kabribi Kyere Me](https://open.spotify.com/album/03AJZ1S8YDJ9akNu1rIV0I) | 4:26 |
-| 36 | [Atadwe](https://open.spotify.com/track/77szM9v9r3cQLb753RcRjW) | [Papa Sheee](https://open.spotify.com/artist/0ktHlUz0hzcpJnnAJ7KDPw) | [Atadwe](https://open.spotify.com/album/1RmAEbz2aviWvoa4YwUQNk) | 6:00 |
+| 36 | [Koyon So \- Game](https://open.spotify.com/track/3JsL7IF5injWE1V8220Vul) | [Papa Sheee](https://open.spotify.com/artist/0ktHlUz0hzcpJnnAJ7KDPw) | [Koyon So](https://open.spotify.com/album/42ERj6ANxjLvf9XufhAfgy) | 6:15 |
 | 37 | [Akonoba](https://open.spotify.com/track/2zr71skOlEOnm1Lv7fxpX2) | [Kojo Antwi](https://open.spotify.com/artist/01ramkYSW4rTNPKnneFa9D) | [Love Classics](https://open.spotify.com/album/3MnCoc8Ya7XHPDY7eRlvJW) | 6:15 |
 | 38 | [Asew](https://open.spotify.com/track/7LK9ricpfETVGSvMIKbmWZ) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Asew](https://open.spotify.com/album/6gGbScQPeTSBSsytwrzmD5) | 6:02 |
 | 39 | [Kɔkɔɔkɔ](https://open.spotify.com/track/5qgU9btg2VcakTumfiLbQ8) | [Akosua Adjepong](https://open.spotify.com/artist/1t71kdQ7yWIwiMlsgSy08t) | [FREMA](https://open.spotify.com/album/6iRsYXPs64Wy76Ci0He8w2) | 4:48 |
@@ -67,10 +67,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 | 57 | [Mene Wo Begoro](https://open.spotify.com/track/2IC7ISC96MlZhBBCcnRXT7) | [Charles Amoah](https://open.spotify.com/artist/6waDJroPCatiAwrSPCATkg) | [The Best of Charles Amoah Vol.1](https://open.spotify.com/album/0xeXbvlBdcG1qeZVkHlP5O) | 5:59 |
 | 58 | [Asiwa](https://open.spotify.com/track/4jOv7ddkv3hg11w4V2389q) | [Akosua Adjepong](https://open.spotify.com/artist/1t71kdQ7yWIwiMlsgSy08t) | [FREMA](https://open.spotify.com/album/6iRsYXPs64Wy76Ci0He8w2) | 5:07 |
 | 59 | [Maafio](https://open.spotify.com/track/79zxhAakeU9vGjXONZPf7w) | [Katamanto Highlife Orchestra](https://open.spotify.com/artist/3TbJGuRE8RDXBZs9HmOdrP) | [Katamanto Highlife Orchestra](https://open.spotify.com/album/3y3yuDBOIWUc2kfLz4uyIs) | 4:32 |
-| 60 | [Soroku Special](https://open.spotify.com/track/1HIzAGOVvUIf1U7L2NUolW) | [Kaakyire Kwame Appiah](https://open.spotify.com/artist/6Pmxco13PCCjhPCwxKeUic) | [Soroku](https://open.spotify.com/album/56OAJsISgvpTsUv3PrkVJ3) | 7:36 |
-| 61 | [Adwoa Yankey, Pt\. 1](https://open.spotify.com/track/0BsfJgIRCYqxuYNQk0vG87) | [C\. K\. Mann](https://open.spotify.com/artist/76ZoX4PUlQFIXHxCyIOcKi) | [Best of C\. K\. Mann](https://open.spotify.com/album/2qHEqGNhRUZVxiMrAz4Oaa) | 8:47 |
+| 60 | [Love and Death](https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Love & Death](https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5) | 6:55 |
+| 61 | [Soroku Special](https://open.spotify.com/track/1HIzAGOVvUIf1U7L2NUolW) | [Kaakyire Kwame Appiah](https://open.spotify.com/artist/6Pmxco13PCCjhPCwxKeUic) | [Soroku](https://open.spotify.com/album/56OAJsISgvpTsUv3PrkVJ3) | 7:36 |
 | 62 | [Fre Me \(Call Me\)](https://open.spotify.com/track/4OzHHEYS58Afw2CUch9mAX) | [Charles Amoah](https://open.spotify.com/artist/6waDJroPCatiAwrSPCATkg) | [Ghana Special 2: Electronic Highlife & Afro Sounds in the Diaspora, 1980\-93](https://open.spotify.com/album/1LSTqJhdSVLvkxWpzwkYPv) | 6:21 |
-| 63 | [Love and Death](https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Love & Death](https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5) | 6:55 |
+| 63 | [Adwoa Yankey, Pt\. 1](https://open.spotify.com/track/0BsfJgIRCYqxuYNQk0vG87) | [C\. K\. Mann](https://open.spotify.com/artist/76ZoX4PUlQFIXHxCyIOcKi) | [Best of C\. K\. Mann](https://open.spotify.com/album/2qHEqGNhRUZVxiMrAz4Oaa) | 8:47 |
 | 64 | [Odo nwom](https://open.spotify.com/track/7oTOQksidsMI5biGbCS0hB) | [Kofi Nti](https://open.spotify.com/artist/2ms1z7qBF4uLM8hzdjGhL9), [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Rakia](https://open.spotify.com/album/7dXy5OVxXCdsTHvFeSEG7T) | 5:57 |
 | 65 | [Maye Aketekyewa](https://open.spotify.com/track/1fclG6mBJRxoPDiUCFFLSN) | [Nana Tuffour](https://open.spotify.com/artist/0QMTuZV7F8J6b6eE97shGv) | [Genesis](https://open.spotify.com/album/62w8iROmmZVMVNGOSDHj1V) | 5:40 |
 | 66 | [Osobro Kyee](https://open.spotify.com/track/5TP7GHvqG0XU9oMXrOZw20) | [Dr\. Paa Bobo](https://open.spotify.com/artist/1yofXmMXChlG0r3oNsqZx6) | [Osobro Kyee: The Greatest Mix of Dr\. Paa Bobo](https://open.spotify.com/album/4aPJjX5wc5UWe960uokVCw) | 7:37 |

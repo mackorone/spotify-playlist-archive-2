@@ -1,12 +1,12 @@
 {
   "description": "This is HARDY. The essential tracks, all in one playlist.",
-  "num_followers": 87205,
+  "num_followers": 87231,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAACMcxF5vakDUTR6jkoQSmbn",
+  "snapshot_id": "ajXYAAAAAAD1Ma/kFO3nZQ/5rOt4XR3m",
   "tracks": [
     {
       "added_at": null,
@@ -283,6 +283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "COUNTRY!",
+        "url": "https://open.spotify.com/album/3f1DEK9vqp8w3NL8w5F1s0"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 193248,
+      "name": "Favorite Country Song",
+      "url": "https://open.spotify.com/track/3roJNjr7zRlLyr1bTPq0AS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "One Thing At A Time",
         "url": "https://open.spotify.com/album/0rnd3h2dc82L4gTjW6Vfoq"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 195326,
       "name": "In The Bible",
       "url": "https://open.spotify.com/track/12yrm2FnFI9uaGrIaiAtvV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "COUNTRY!",
-        "url": "https://open.spotify.com/album/3f1DEK9vqp8w3NL8w5F1s0"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 193248,
-      "name": "Favorite Country Song",
-      "url": "https://open.spotify.com/track/3roJNjr7zRlLyr1bTPq0AS"
     },
     {
       "added_at": null,
@@ -647,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "COUNTRY! COUNTRY!",
+        "url": "https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 217270,
+      "name": "Take The Country And Run",
+      "url": "https://open.spotify.com/track/1vkhfKFbsg8mj1MNfqNHJx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Roads That Go Nowhere",
         "url": "https://open.spotify.com/album/5fxgfA3NwGKeIhi22Z9Pir"
       },
@@ -663,26 +679,6 @@
       "duration_ms": 218860,
       "name": "Southern Rock",
       "url": "https://open.spotify.com/track/0UT58DMxUfSb8ECS85tgn3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "COUNTRY! COUNTRY!",
-        "url": "https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        },
-        {
-          "name": "Stephen Wilson Jr.",
-          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
-        }
-      ],
-      "duration_ms": 218471,
-      "name": "Bedrooms In The Sky (feat. Stephen Wilson Jr.)",
-      "url": "https://open.spotify.com/track/4hVlesuEbCoRKZwuupbgTx"
     },
     {
       "added_at": null,
@@ -723,6 +719,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "COUNTRY! COUNTRY!",
+        "url": "https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Stephen Wilson Jr.",
+          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
+        }
+      ],
+      "duration_ms": 218471,
+      "name": "Bedrooms In The Sky (feat. Stephen Wilson Jr.)",
+      "url": "https://open.spotify.com/track/4hVlesuEbCoRKZwuupbgTx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "THIS OLE BOY",
         "url": "https://open.spotify.com/album/38vgQsKhjrL03jYImW84ic"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 222793,
       "name": "4X4",
       "url": "https://open.spotify.com/track/1WIeoKa9OpHSFSj0pwnRzE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "COUNTRY! COUNTRY!",
-        "url": "https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 217270,
-      "name": "Take The Country And Run",
-      "url": "https://open.spotify.com/track/1vkhfKFbsg8mj1MNfqNHJx"
     },
     {
       "added_at": null,
@@ -799,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "COUNTRY! COUNTRY!",
+        "url": "https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 204910,
+      "name": "Country In Me",
+      "url": "https://open.spotify.com/track/0tnKWiWZvNiTehuGuYAHGT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "THIS OLE BOY",
         "url": "https://open.spotify.com/album/38vgQsKhjrL03jYImW84ic"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 203674,
       "name": "THROWBACK",
       "url": "https://open.spotify.com/track/0nuoH38JAOGnaG63WTe5Cz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "COUNTRY! COUNTRY!",
-        "url": "https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 238030,
-      "name": "Country Country",
-      "url": "https://open.spotify.com/track/1FHOMoJbGHsjR8E44IcZ8g"
     },
     {
       "added_at": null,
@@ -875,6 +875,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "COUNTRY! COUNTRY!",
+        "url": "https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 238030,
+      "name": "Country Country",
+      "url": "https://open.spotify.com/track/1FHOMoJbGHsjR8E44IcZ8g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HIXTAPE: Vol. 2",
         "url": "https://open.spotify.com/album/2xCINfSz32yE1z6IFqwGPj"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 189336,
       "name": "Beer With My Buddies (feat. HARDY, Josh Thompson & Travis Denning)",
       "url": "https://open.spotify.com/track/0Hqzm7rSNkjNed9a0xRFUc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "COUNTRY! COUNTRY!",
-        "url": "https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 204910,
-      "name": "Country In Me",
-      "url": "https://open.spotify.com/track/0tnKWiWZvNiTehuGuYAHGT"
     },
     {
       "added_at": null,
@@ -955,30 +955,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "HIXTAPE: Vol. 2",
-        "url": "https://open.spotify.com/album/2xCINfSz32yE1z6IFqwGPj"
+        "name": "COUNTRY! COUNTRY!",
+        "url": "https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc"
       },
       "artists": [
         {
-          "name": "HIXTAPE",
-          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
-        },
-        {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        },
-        {
-          "name": "The Cadillac Three",
-          "url": "https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x"
-        },
-        {
-          "name": "Rhett Akins",
-          "url": "https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24"
         }
       ],
-      "duration_ms": 185947,
-      "name": "One Of Y\u2019all (feat. HARDY, Rhett Akins & The Cadillac Three)",
-      "url": "https://open.spotify.com/track/6Ke28oY4R6nbIqkZAjGFui"
+      "duration_ms": 179645,
+      "name": "Luckiest Man Alive",
+      "url": "https://open.spotify.com/track/4VJQplLkX6agarX99u0iDm"
     }
   ],
   "unique_name": "This Is HARDY",

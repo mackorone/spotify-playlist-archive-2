@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 
 > Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Cover: Reggie Dartey & OBED
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,062 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,086 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 | 79 | [Take It](https://open.spotify.com/track/2FKMyKpyWuiywgWIoHkncw) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Homecoming](https://open.spotify.com/album/4FD5SkN7JdqjLQkvnSlzwi) | 3:30 |
 | 80 | [Theme Song](https://open.spotify.com/track/18xLClGCjUnZZ4bGjfhzgE) | [Will Gittens](https://open.spotify.com/artist/2Guif3r6Ys8lL1H5aGyuh1), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Theme Song](https://open.spotify.com/album/4bMKqgiyGv3wKUp2JUEwoU) | 3:04 |
 
-Snapshot ID: `AAAAAFLtm8Ns8EYyosYfZsQnSh/c6cdP`
+Snapshot ID: `AAAAAP09BTym2fs6MK1PbpkbfpwNH2px`

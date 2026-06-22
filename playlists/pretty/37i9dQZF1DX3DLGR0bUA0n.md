@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. Arkangel Musical de Tierra Caliente en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,611 likes - 125 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,658 likes - 125 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 79 | [Mal Amor](https://open.spotify.com/track/5BmUMTv5l6pIOath6BcMpV) | [Los Huaches De Tierra Caliente](https://open.spotify.com/artist/4rEZfTTpxjsnEo49OeCqum) | [Mal Amor](https://open.spotify.com/album/68SwveWQ8tqtqrPW85wkmn) | 2:48 |
 | 80 | [Brebaje / Recuerdos De Una Noche \(En Vivo\)](https://open.spotify.com/track/3b5H0MyNMs7wtijEgnBl1M) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Los De Tierra Caliente \(En Vivo\)](https://open.spotify.com/album/0o72ypAIEh2XtM7SYzrNfL) | 8:20 |
 | 81 | [Casita de Adobe](https://open.spotify.com/track/330yVUacfUU84UKG5yX6EK) | [Estrellas De Tuzantla](https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN) | [Casita de Adobe](https://open.spotify.com/album/6BktzVPKB4mDmTQfageAWk) | 3:59 |
-| 82 | [El Camionero](https://open.spotify.com/track/4ICia47iPxrmI1NPY75tDc) | [Los Kapsi](https://open.spotify.com/artist/7h9BkDMDEVInWvBkShQvna) | [Camionero](https://open.spotify.com/album/13rCTjAIt0kI9uECD2lILP) | 3:49 |
-| 83 | [Amor a la Ligera](https://open.spotify.com/track/5Bl6vhECx1VXl7sJqcbWV2) | [La Leyenda De Servando Montalva](https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn) | [Quisiera Ser Una Lágrima](https://open.spotify.com/album/1RqBeee5es5MmTvDbqwwfu) | 2:29 |
+| 82 | [Amor a la Ligera](https://open.spotify.com/track/5Bl6vhECx1VXl7sJqcbWV2) | [La Leyenda De Servando Montalva](https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn) | [Quisiera Ser Una Lágrima](https://open.spotify.com/album/1RqBeee5es5MmTvDbqwwfu) | 2:29 |
+| 83 | [El Camionero](https://open.spotify.com/track/4ICia47iPxrmI1NPY75tDc) | [Los Kapsi](https://open.spotify.com/artist/7h9BkDMDEVInWvBkShQvna) | [Camionero](https://open.spotify.com/album/13rCTjAIt0kI9uECD2lILP) | 3:49 |
 | 84 | [Mis Errores Pagando](https://open.spotify.com/track/5RBst3Kt94kZApvvK2ecuS) | [Banda Roja](https://open.spotify.com/artist/0KeZP2rReaRxjxpLXak1Q2) | [Guerra De Corridos](https://open.spotify.com/album/1R8RBzaqLFU7DGSbJwgqOG) | 2:32 |
 | 85 | [El Padrino](https://open.spotify.com/track/4N2x61jKoau8lW7OnkICf2) | [La Imponente Banda Inspiracion de Tierra Caliente](https://open.spotify.com/artist/4ZcLyO7cW4AxrQ2hbDAJzd) | [Al Mismo Nivel](https://open.spotify.com/album/0K5Jy0WQG14kGAyJfL5dBD) | 2:43 |
 | 86 | [No Compro Amores](https://open.spotify.com/track/2ueAJJVe4Lwjh4hXfdcsMh) | [Los hermanos Jimenez](https://open.spotify.com/artist/3oPc1V6h1UOOvuYQNt7CUn) | [Tercia de Reyes](https://open.spotify.com/album/7v4dH5m0lTN5ywngANBPJd) | 2:28 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 95 | [Lupe Reyes \(En Vivo\)](https://open.spotify.com/track/6ggjc8JFAxy0jiKgQmhU3i) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Lupe Reyes \(En Vivo\)](https://open.spotify.com/album/6PVMtefRXmt5aTjS8Iopnc) | 3:00 |
 | 96 | [La Grapa](https://open.spotify.com/track/2m4EVVm3PzUQX8L3GviCeH) | [Severo Benito y Su Banda Cachas de Oro](https://open.spotify.com/artist/6TeppE6IknfNDo3A0oHqDS) | [Para Toda La Vida](https://open.spotify.com/album/02jK2HoW0zuWrZIhnfdNUC) | 2:50 |
 | 97 | [Es Demasiado Tarde](https://open.spotify.com/track/1Nl9TaswZRISPw5YQIKHDM) | [Estrellas De Tuzantla](https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN) | [Es Demasiado Tarde](https://open.spotify.com/album/1EYswPzL2vFLD4a19b6mNr) | 2:45 |
-| 98 | [Que Viva Tierra Caliente](https://open.spotify.com/track/1hijcF9lqX1Vwh9jxrWM8k) | [Los Centinelas de Michoacan](https://open.spotify.com/artist/6zdHx6bFbxumSBTlyDvXzP) | [Viva Tierra Caliente](https://open.spotify.com/album/1YkjA1dE7DsIlbmA46mCfx) | 3:15 |
-| 99 | [Ya Están Cantando los Gallos](https://open.spotify.com/track/4MfGO5KzcrF1wCEj8jwOSg) | [Tierra Cali](https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv) | [El Arroyito \(Los Creadores del Sacadito\)](https://open.spotify.com/album/6Q3bJy46JBVYrcXet5oFf5) | 2:54 |
+| 98 | [Ya Están Cantando los Gallos](https://open.spotify.com/track/4MfGO5KzcrF1wCEj8jwOSg) | [Tierra Cali](https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv) | [El Arroyito \(Los Creadores del Sacadito\)](https://open.spotify.com/album/6Q3bJy46JBVYrcXet5oFf5) | 2:54 |
+| 99 | [Que Viva Tierra Caliente](https://open.spotify.com/track/1hijcF9lqX1Vwh9jxrWM8k) | [Los Centinelas de Michoacan](https://open.spotify.com/artist/6zdHx6bFbxumSBTlyDvXzP) | [Viva Tierra Caliente](https://open.spotify.com/album/1YkjA1dE7DsIlbmA46mCfx) | 3:15 |
 | 100 | [El Nudo \(Parangaricutirimicuaro\)](https://open.spotify.com/track/49QRiQXYwX2x9cwcdcx5rM) | [Arturo Leyva](https://open.spotify.com/artist/44z5ITF27h6kgj3pv6me2j), [Los Canarios De Michoacan](https://open.spotify.com/artist/4j6JwUsiURpHgIWYzzdElp) | [El Nudo \(Parangaricutirimicuaro\)](https://open.spotify.com/album/5QoHmNxGNcMupzGDqm1lKR) | 2:25 |
 | 101 | [De Mil Amores](https://open.spotify.com/track/28Wlm1FRS2KoflPR2kJn2M) | [Triny La Leyenda](https://open.spotify.com/artist/2US3Kwk5KkABpNnDfLH8VI) | [De Mil Amores](https://open.spotify.com/album/1NUjRahZFHwCLUl6EOhY1r) | 2:28 |
 | 102 | [Aléjate](https://open.spotify.com/track/2EnsWGWtOUonOxo1DKdO9a) | [Freddy Cárdenas y su Grupo Brebaje](https://open.spotify.com/artist/0MZxSUM0Xqv7xipDHmvUlm) | [Aléjate](https://open.spotify.com/album/0j5CtCEF5m3SI6rzkHVRvZ) | 3:45 |
@@ -131,7 +131,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 121 | [Yo Ya Sabía Pa'Dónde Iba \(En Vivo\)](https://open.spotify.com/track/6UvzYxfJeEd1cKdYI9w7Gm) | [Banda Primos de Tierra Caliente](https://open.spotify.com/artist/1uUzlMy4Pkmsl3irBrKUWQ) | [Puros Corridos Y No Cochadas \(En Vivo\)](https://open.spotify.com/album/407lhjUhLBjWKwJK4UXXI3) | 2:49 |
 | 122 | [Ojitos Negros](https://open.spotify.com/track/5pcL0RKxKYjfk6aCUT6QnL) | [Los Player's de Tuzantla](https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW) | [Ojitos Negros](https://open.spotify.com/album/2kQa0zqGpte9V3BepV3ChO) | 2:31 |
 | 123 | [Como Lo Hice Yo](https://open.spotify.com/track/4RgnIVqKYEuGot3yDrtikf) | [Arkangel Musical de Tierra Caliente](https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k) | [Como Lo Hice Yo](https://open.spotify.com/album/26CM1WtFNPMMIMKlTou43y) | 3:16 |
-| 124 | [Monedas y Billetes](https://open.spotify.com/track/37VFOxHDkI1eozrMrA8D5P) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp), [Los Player's de Tuzantla](https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW) | [Monedas y Billetes](https://open.spotify.com/album/0MtYJPPHndmMkuU97lWacw) | 4:31 |
+| 124 | [Las Envidias, los Chismes y las Traiciones](https://open.spotify.com/track/7zqNRqTWEAxatMuV9ZWVu7) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Yo Soy de la Sierra](https://open.spotify.com/album/70MQXaxxkRlWUKcuYXgA9j) | 3:18 |
 | 125 | [Carga Fina \- En Vivo](https://open.spotify.com/track/25EhRhmxIm8jCiYzxRbd0D) | [Beto Y Sus Canarios](https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv) | [Exitos en Vivo \(En Vivo\)](https://open.spotify.com/album/1NmTQFtD2GDx2zxexJ5sTO) | 1:42 |
 
 Snapshot ID: `AAAAADkr1ziUqYOx79lHT+7qGFR/Lu3w`

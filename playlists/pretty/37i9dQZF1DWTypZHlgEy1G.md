@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 
 > Le patrimoine de la chanson française\. Photo : Édith Piaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,338 likes - 85 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,328 likes - 85 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 42 | [Tu verras](https://open.spotify.com/track/1YVd6hMLgMWk5wAfjFaH53) | [Claude Nougaro](https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR) | [L'Essentiel Studio 1962 \- 1985](https://open.spotify.com/album/4Dp614rQojtU5SlmllzRCW) | 3:13 |
 | 43 | [Frou\-Frou](https://open.spotify.com/track/4W9ZcMFqQMbG1llswppGY0) | [Berthe Sylva](https://open.spotify.com/artist/0vR8oYjqxHpaUbZucd95a0) | [Frou\-Frou et 29 succès de Berthe Sylva \(Chanson française\)](https://open.spotify.com/album/5OBNIcpo707UYPxurX6fGW) | 3:02 |
 | 44 | [Chanson pour l'Auvergnat](https://open.spotify.com/track/5nuTwIhmN6AzktesqJh6p7) | [Georges Brassens](https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr) | [George Brassens: Douce France](https://open.spotify.com/album/61jtgow8SNKJWfd8gFFeUJ) | 3:03 |
-| 45 | [Du côte de chez Swann](https://open.spotify.com/track/5vuh4FAd5apHmhD85XJOyH) | [Dave](https://open.spotify.com/artist/39Fh4OTce0hxKCiuyB21dg) | [Dave](https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o) | 3:00 |
-| 46 | [Mon amant de Saint\-Jean](https://open.spotify.com/track/1WvtVTM9dEtinNSbRtRTED) | [Lucienne Delyle](https://open.spotify.com/artist/3EgEPntANThgR5WDgznAmM) | [Mon amant de St Jean](https://open.spotify.com/album/0AHaLXmXUR6OYAjbWMndUB) | 3:09 |
+| 45 | [Mon amant de Saint\-Jean](https://open.spotify.com/track/1WvtVTM9dEtinNSbRtRTED) | [Lucienne Delyle](https://open.spotify.com/artist/3EgEPntANThgR5WDgznAmM) | [Mon amant de St Jean](https://open.spotify.com/album/0AHaLXmXUR6OYAjbWMndUB) | 3:09 |
+| 46 | [Du côte de chez Swann](https://open.spotify.com/track/5vuh4FAd5apHmhD85XJOyH) | [Dave](https://open.spotify.com/artist/39Fh4OTce0hxKCiuyB21dg) | [Dave](https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o) | 3:00 |
 | 47 | [Les feuilles mortes](https://open.spotify.com/track/30bqPdEUBZhn44u10awaup) | [Yves Montand](https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP) | [Yves Montand \- Les feuilles mortes](https://open.spotify.com/album/0te0uNKFId8mR70yBOgEVE) | 3:23 |
 | 48 | [Les rupins](https://open.spotify.com/track/4hOj5cF3vQ6lNOKkOLQdef) | [Catherine Sauvage](https://open.spotify.com/artist/4NjkPdOPwWlQBF59ff6YoV) | [Heritage \- Jolie Môme \- Philips \(1961\)](https://open.spotify.com/album/3cmSgfLLDmlPguaIk8L4A9) | 2:46 |
 | 49 | [Les roses blanches](https://open.spotify.com/track/1BQXfo0ZYVqOUndPef2pAi) | [Berthe Silva](https://open.spotify.com/artist/72UR9TdmSwOx2wLoNMrP9t) | [Deluxe: Les roses blanches](https://open.spotify.com/album/3Rkjk3ZZYfGygICKyhqN6j) | 3:26 |

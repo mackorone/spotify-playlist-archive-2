@@ -1,12 +1,12 @@
 {
   "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
-  "num_followers": 195590,
+  "num_followers": 195604,
   "original_name": "This Is Manuel Medrano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAAA1KVwJOH8EJFQbg4xI6DXL",
+  "snapshot_id": "ajXYAAAAAABGR6UkPIMN7wWeJSFN50q3",
   "tracks": [
     {
       "added_at": null,
@@ -487,26 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PERFECTO",
-        "url": "https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        },
-        {
-          "name": "Duplat",
-          "url": "https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO"
-        }
-      ],
-      "duration_ms": 171693,
-      "name": "Intensos",
-      "url": "https://open.spotify.com/track/6TyjDUjt8Z8SotHhGQSUDq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cielo (feat. Nile Rodgers)",
         "url": "https://open.spotify.com/album/7FZJlzMohMoU65vac6hydK"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 183422,
       "name": "Cielo (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/5qH4I7qIkrhxir8UfLG0IY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PERFECTO",
+        "url": "https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        },
+        {
+          "name": "Duplat",
+          "url": "https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO"
+        }
+      ],
+      "duration_ms": 171693,
+      "name": "Intensos",
+      "url": "https://open.spotify.com/track/6TyjDUjt8Z8SotHhGQSUDq"
     },
     {
       "added_at": null,
@@ -552,25 +552,9 @@
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Superior",
-      "url": "https://open.spotify.com/track/68FmwuQOlAiruuhcynSXPm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PERFECTO",
-        "url": "https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 209133,
-      "name": "Mojado",
-      "url": "https://open.spotify.com/track/2vzq0rxX3UaNu88D2FjJBR"
+      "duration_ms": 139733,
+      "name": "Cuando Te Beso",
+      "url": "https://open.spotify.com/track/2iMnAAwsMGn2YSD9R6wAhj"
     },
     {
       "added_at": null,
@@ -591,6 +575,22 @@
       "duration_ms": 175737,
       "name": "Historia De Un Amor",
       "url": "https://open.spotify.com/track/4kF52Us8ae35E230x84Vht"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PERFECTO",
+        "url": "https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 209133,
+      "name": "Mojado",
+      "url": "https://open.spotify.com/track/2vzq0rxX3UaNu88D2FjJBR"
     },
     {
       "added_at": null,
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 139733,
-      "name": "Cuando Te Beso",
-      "url": "https://open.spotify.com/track/2iMnAAwsMGn2YSD9R6wAhj"
+      "duration_ms": 174000,
+      "name": "Superior",
+      "url": "https://open.spotify.com/track/68FmwuQOlAiruuhcynSXPm"
     },
     {
       "added_at": null,

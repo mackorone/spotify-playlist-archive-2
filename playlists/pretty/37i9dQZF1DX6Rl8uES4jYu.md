@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,821 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,795 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 | 99 | [Ciao](https://open.spotify.com/track/5m7iT2XPqtkRDPoDNF5TRG) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP), [Spencer Ludwig](https://open.spotify.com/artist/6miuYP0AovZaaKpRFaDQMQ) | [Ciao](https://open.spotify.com/album/54N3zI6n5WzpAe7PXUyGuF) | 2:58 |
 | 100 | [Making it Right](https://open.spotify.com/track/6Hjy33Aku74bDdbLWhe6U6) | [Harrison Finks](https://open.spotify.com/artist/0eARUhJrHJ8EljWe3WG2fv), [Mikey Jose](https://open.spotify.com/artist/3rJEy2vNlsmWO5JHxKEaP8), [Augie Bello](https://open.spotify.com/artist/2z3k87BRV59rw56PwnOQsg) | [Making it Right](https://open.spotify.com/album/2LRTQrA17SE7V0SbupU00f) | 2:17 |
 
-Snapshot ID: `AAAAACQrFJFd1mRbNFAHDLiTjSkHU4Tq`
+Snapshot ID: `AAAAADzyv2k4wTH8rqdhTf4dsZ4GLqs9`

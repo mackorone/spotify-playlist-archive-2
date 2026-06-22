@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAAALExhUE02L67zFW9+AalkS",
+  "snapshot_id": "ajXYAAAAAABgIPrIVU8Ncu2W6jbqk4dR",
   "tracks": [
     {
       "added_at": null,
@@ -267,26 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PVTIVUELTA",
-        "url": "https://open.spotify.com/album/1ea72a9TzaXc9hHy3cU77E"
-      },
-      "artists": [
-        {
-          "name": "Michelle Maciel",
-          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 143798,
-      "name": "PVTIVUELTA",
-      "url": "https://open.spotify.com/track/0dLYRSyQlhY3un6yTslsoA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FULL OF HOES",
         "url": "https://open.spotify.com/album/6Rf4KhMAcuW7hqAqd0HBtq"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 180923,
       "name": "FULL OF HOES",
       "url": "https://open.spotify.com/track/0R0Cn76nPYSyXC0Behn4Mr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PVTIVUELTA",
+        "url": "https://open.spotify.com/album/1ea72a9TzaXc9hHy3cU77E"
+      },
+      "artists": [
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 143798,
+      "name": "PVTIVUELTA",
+      "url": "https://open.spotify.com/track/0dLYRSyQlhY3un6yTslsoA"
     },
     {
       "added_at": null,
@@ -387,26 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bien Jalisco",
-        "url": "https://open.spotify.com/album/59zAiGlbPrQa2yRn5MjAez"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "2DEEP",
-          "url": "https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb"
-        }
-      ],
-      "duration_ms": 144589,
-      "name": "Bien Jalisco",
-      "url": "https://open.spotify.com/track/3cx3lX2AJpmoH6KWy9CfHH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AMSTRDM",
         "url": "https://open.spotify.com/album/1ofQJpWN8JjJRST6hGcwNI"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 157719,
       "name": "AMSTRDM",
       "url": "https://open.spotify.com/track/2b6dun7rRHWyNy1qr5iQBV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bien Jalisco",
+        "url": "https://open.spotify.com/album/59zAiGlbPrQa2yRn5MjAez"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "2DEEP",
+          "url": "https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb"
+        }
+      ],
+      "duration_ms": 144589,
+      "name": "Bien Jalisco",
+      "url": "https://open.spotify.com/track/3cx3lX2AJpmoH6KWy9CfHH"
     },
     {
       "added_at": null,
@@ -768,13 +768,13 @@
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
         },
         {
-          "name": "Plan de Escape",
-          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
+          "name": "Hector Vargas",
+          "url": "https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq"
         }
       ],
-      "duration_ms": 168000,
-      "name": "BRONCEADITA",
-      "url": "https://open.spotify.com/track/5civOQC2cKVvOnhRg7zNUj"
+      "duration_ms": 147473,
+      "name": "KIWI",
+      "url": "https://open.spotify.com/track/5DrnnArGDULw7cL2UGYS0a"
     },
     {
       "added_at": null,
@@ -848,13 +848,13 @@
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
         },
         {
-          "name": "Hector Vargas",
-          "url": "https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq"
+          "name": "Plan de Escape",
+          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
         }
       ],
-      "duration_ms": 147473,
-      "name": "KIWI",
-      "url": "https://open.spotify.com/track/5DrnnArGDULw7cL2UGYS0a"
+      "duration_ms": 168000,
+      "name": "BRONCEADITA",
+      "url": "https://open.spotify.com/track/5civOQC2cKVvOnhRg7zNUj"
     },
     {
       "added_at": null,
@@ -975,8 +975,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LA Live Session",
-        "url": "https://open.spotify.com/album/2UIvMLWzNV8sTBxPsJ2ZwX"
+        "name": "Top Gun",
+        "url": "https://open.spotify.com/album/6cyCDt4qsd62X6tSvNxySG"
       },
       "artists": [
         {
@@ -984,9 +984,9 @@
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
         }
       ],
-      "duration_ms": 124117,
-      "name": "El Lic - En Vivo",
-      "url": "https://open.spotify.com/track/4Wmzvb4GkzBBJdvhxkc89C"
+      "duration_ms": 135000,
+      "name": "Top Gun",
+      "url": "https://open.spotify.com/track/04X1m5q0324xgM9BClFpTc"
     },
     {
       "added_at": null,

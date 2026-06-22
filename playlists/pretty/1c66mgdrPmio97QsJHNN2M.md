@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,682 likes - 292 songs - 15 hr 30 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,687 likes - 297 songs - 15 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -300,5 +300,10 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 290 | [The way I am meant to live](https://open.spotify.com/track/5w8zpKUd6C5uyruvXgBhxJ) | [The MuseonVerse](https://open.spotify.com/artist/0zehomFnB0bI3vH8XFl0H7) | [The way I am meant to live](https://open.spotify.com/album/1TQKva6ZfKgtayctTx7tWk) | 3:09 |
 | 291 | [HEARTBEAT](https://open.spotify.com/track/58zkSk7ZQYAD9mRk9iUfO7) | [PM not AM](https://open.spotify.com/artist/59FYG63fAJ258g4kNk3Ast) | [HEARTBEAT](https://open.spotify.com/album/4a2aIbSXEakYmtIP7dWEDI) | 1:59 |
 | 292 | [Sandy Feet](https://open.spotify.com/track/7bma8yjiFQ8xLd5dSYueIR) | [Olivia Farabaugh](https://open.spotify.com/artist/1tmqcd1USna0bubmfMsNoP) | [Sandy Feet](https://open.spotify.com/album/1s2v9i6kqewNywDwc547e8) | 3:21 |
+| 293 | [House 41](https://open.spotify.com/track/0PVk5xtfWyynvOGybZrn3p) | [Lana Savva](https://open.spotify.com/artist/1Fu2fU9bYJmpcLT0RSZe5S) | [House 41](https://open.spotify.com/album/6QXHbkSBTKSw5uXfFeQ0hF) | 2:57 |
+| 294 | [Rotten Branches](https://open.spotify.com/track/4rIVbfsYgxcoDafEnPA0a4) | [Ariel Corinne](https://open.spotify.com/artist/2tgtYtYfuB1XiYygooiWle) | [Love Death and Worms](https://open.spotify.com/album/2EasSth9XZkxYQd4LxgbGU) | 2:49 |
+| 295 | [QUIET SCREAMS](https://open.spotify.com/track/5BuyjspqP2pvg5kYhsRuw0) | [PMLX.wav](https://open.spotify.com/artist/4B8ZckuBWubz7uBffNXkVs) | [NO WAY OUT : THE STATIC FADES](https://open.spotify.com/album/5HE2xYodA5f3g6MIye5ugi) | 2:45 |
+| 296 | [I Will Get You Back](https://open.spotify.com/track/439qtP7PF3UVQzG3r5DCvh) | [Hammi](https://open.spotify.com/artist/2BsuUgGGLuPBUTHWTLVTRV) | [I Will Get You Back](https://open.spotify.com/album/7bEQ22glSpTEQGbLIzsQip) | 2:13 |
+| 297 | [True Face](https://open.spotify.com/track/53oOsNfjYHJRXOuyACPIZv) | [Fred Gump](https://open.spotify.com/artist/7mcQJCD9o4tq8Z4W5W68IW), [Yannick Fortin](https://open.spotify.com/artist/5G5JyYkFdvy7EscTnNhIDA) | [True Face](https://open.spotify.com/album/1XFW1A5NpOIyyoXm83jHoo) | 2:43 |
 
-Snapshot ID: `AAA5qCiDbiKEipxOqpZkpMpATMZQdrLF`
+Snapshot ID: `AAA5rUAfgBcpztXXTFss0Vbo19d+UHPK`

@@ -1,6 +1,6 @@
 {
   "description": "The corridos our abuelos and parents listened to, viejitos y perrones! Cover: Los Tigres del Norte",
-  "num_followers": 128130,
+  "num_followers": 128169,
   "original_name": "We Love Corridos Viejitos ",
   "owner": {
     "name": "Spotify",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-04-26 03:10:51",
       "album": {
-        "name": "Pa' Puros Compas!, Vol. 2: Corridos y Rancheras",
-        "url": "https://open.spotify.com/album/6YfMNFnsU5lhm1T3Tt9vB9"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 176973,
-      "name": "Corrido de Domingo Corrales",
-      "url": "https://open.spotify.com/track/1ndfTgmbawerzlQvbfvxrM"
-    },
-    {
-      "added_at": "2026-04-26 03:10:51",
-      "album": {
         "name": "Pistoleros Famosos",
         "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 169973,
       "name": "Arturo Garza Trevino",
       "url": "https://open.spotify.com/track/124rsyrZdIRjZlbL40PoAt"
+    },
+    {
+      "added_at": "2026-04-26 03:10:51",
+      "album": {
+        "name": "Pa' Puros Compas!, Vol. 2: Corridos y Rancheras",
+        "url": "https://open.spotify.com/album/6YfMNFnsU5lhm1T3Tt9vB9"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 176973,
+      "name": "Corrido de Domingo Corrales",
+      "url": "https://open.spotify.com/track/1ndfTgmbawerzlQvbfvxrM"
     },
     {
       "added_at": "2026-04-26 03:10:51",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-04-26 03:10:51",
       "album": {
-        "name": "Corridos Famosos",
-        "url": "https://open.spotify.com/album/4ATvggsNK4AaZNpare9Tjd"
-      },
-      "artists": [
-        {
-          "name": "Los Viejones De Linares",
-          "url": "https://open.spotify.com/artist/48f1Wox7CUiX1nDfzgonjW"
-        }
-      ],
-      "duration_ms": 238887,
-      "name": "Corrido de los P\u00e9rez",
-      "url": "https://open.spotify.com/track/7rCFnAMjSx3NHJRTR4PijK"
-    },
-    {
-      "added_at": "2026-04-26 03:10:51",
-      "album": {
         "name": "Corridos Volumen 1",
         "url": "https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi"
       },
@@ -1219,18 +1203,18 @@
     {
       "added_at": "2026-04-26 03:10:51",
       "album": {
-        "name": "Corridos bien Pesados para la Bohemia",
-        "url": "https://open.spotify.com/album/3nG2ti1HDXSb8ANhXSaupS"
+        "name": "Corridos Famosos",
+        "url": "https://open.spotify.com/album/4ATvggsNK4AaZNpare9Tjd"
       },
       "artists": [
         {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+          "name": "Los Viejones De Linares",
+          "url": "https://open.spotify.com/artist/48f1Wox7CUiX1nDfzgonjW"
         }
       ],
-      "duration_ms": 227533,
-      "name": "El \u00e1rbol de la horca",
-      "url": "https://open.spotify.com/track/2ZN3h7KZgmjF7AMgTL6miJ"
+      "duration_ms": 238887,
+      "name": "Corrido de los P\u00e9rez",
+      "url": "https://open.spotify.com/track/7rCFnAMjSx3NHJRTR4PijK"
     },
     {
       "added_at": "2026-04-26 03:10:51",
@@ -1247,6 +1231,22 @@
       "duration_ms": 254706,
       "name": "Sim\u00f3n Blanco",
       "url": "https://open.spotify.com/track/4k8tSR5P1rqtfNjGLVZqqm"
+    },
+    {
+      "added_at": "2026-04-26 03:10:51",
+      "album": {
+        "name": "Corridos bien Pesados para la Bohemia",
+        "url": "https://open.spotify.com/album/3nG2ti1HDXSb8ANhXSaupS"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        }
+      ],
+      "duration_ms": 227533,
+      "name": "El \u00e1rbol de la horca",
+      "url": "https://open.spotify.com/track/2ZN3h7KZgmjF7AMgTL6miJ"
     },
     {
       "added_at": "2026-04-26 03:10:51",

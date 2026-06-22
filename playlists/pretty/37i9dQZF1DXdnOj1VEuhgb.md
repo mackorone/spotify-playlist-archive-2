@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Motive
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,405,752 likes - 49 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,405,788 likes - 49 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ÖLÜ SESLER](https://open.spotify.com/track/0xvD7ihRvRhFDXjY8lI1QO) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [PASAJ](https://open.spotify.com/album/1Z8g0yHfmg7xlXtHVtZw1M) | 3:42 |
+| 1 | [ÖLÜ SESLER](https://open.spotify.com/track/0xvD7ihRvRhFDXjY8lI1QO) | [Motive](https://open.spotify.com/artist/5LjOSVqRWRs1eL2OY297Jg) | [PASAJ](https://open.spotify.com/album/1Z8g0yHfmg7xlXtHVtZw1M) | 3:42 |
 | 2 | [Kör](https://open.spotify.com/track/2BPhlWoCR8ryI6bu1K42ZV) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Kör](https://open.spotify.com/album/60swXqtAbCP7N83jR4M2Fr) | 2:24 |
 | 3 | [Timsahlar](https://open.spotify.com/track/6wOuvnMDcWOTI9TTk8Jzem) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [Timsahlar](https://open.spotify.com/album/3ehDnWigd5HOYWLccjQ34G) | 2:44 |
 | 4 | [TUZAK](https://open.spotify.com/track/1vYjLlQ91DqZ9x5uH0sSx9) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [TUZAK](https://open.spotify.com/album/1GtqOcWRUuWsS5jDlIo1gx) | 2:48 |
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 9 | [CNM](https://open.spotify.com/track/7xIYLsVeOWzOcHOaIbggFO) | [Eza](https://open.spotify.com/artist/2gxy3wuy69FehyTu3iuRl2), [Halodayı](https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r) | [CNM](https://open.spotify.com/album/7meLQbV7lHQABJf6fspJLR) | 2:06 |
 | 10 | [çok güzel](https://open.spotify.com/track/4R7yrDbKL1tFKH8FBUyPmH) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [çok güzel](https://open.spotify.com/album/4ItYxXh3CsTQWruARGGEWd) | 2:04 |
 | 11 | [Anahtar](https://open.spotify.com/track/4w6NCibR0jw5qRRnkmyP9y) | [Burry Soprano](https://open.spotify.com/artist/5SpHQasdZkIx2RFJzvBBsD) | [Anahtar](https://open.spotify.com/album/0s5rMCGMGEdqjvHL9bL3HR) | 2:20 |
-| 12 | [3 PARMAK](https://open.spotify.com/track/0xcGXOEEqflhk0tNs14G1w) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [PASAJ](https://open.spotify.com/album/1Z8g0yHfmg7xlXtHVtZw1M) | 2:26 |
+| 12 | [3 PARMAK](https://open.spotify.com/track/0xcGXOEEqflhk0tNs14G1w) | [Motive](https://open.spotify.com/artist/5LjOSVqRWRs1eL2OY297Jg) | [PASAJ](https://open.spotify.com/album/1Z8g0yHfmg7xlXtHVtZw1M) | 2:26 |
 | 13 | [GODFATHER](https://open.spotify.com/track/3ZNdVXSkxTOWuOwokuMrlS) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [GODFATHER](https://open.spotify.com/album/0h1NFZruvDZLykRf6IDW9k) | 2:06 |
 | 14 | [LISPO](https://open.spotify.com/track/6qGm658nHttsc5lrCbjEC3) | [Tuğrul Bektaş](https://open.spotify.com/artist/3QQWKCc48eBmxfw5wOrmgN), [vayti](https://open.spotify.com/artist/1lhhI6S7bSAi8nnhUj5a0Z) | [LISPO](https://open.spotify.com/album/1RE8XsrzV1bgjwQWKrZsQT) | 1:58 |
 | 15 | [ŞEHRİME BOMBALAR](https://open.spotify.com/track/52e9OPUMOE97on91NrpxnK) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [ŞEHRİME BOMBALAR](https://open.spotify.com/album/2M3aPZy8C5cUuZLb7INQzV) | 2:43 |

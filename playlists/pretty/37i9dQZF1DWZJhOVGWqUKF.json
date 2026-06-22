@@ -1,6 +1,6 @@
 {
   "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Beartooth",
-  "num_followers": 338427,
+  "num_followers": 338409,
   "original_name": "Rock Rotation",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,6 @@
     {
       "added_at": "2026-06-18 22:01:45",
       "album": {
-        "name": "Afterlife (from the Netflix Series \"Devil May Cry\")",
-        "url": "https://open.spotify.com/album/4pwZVViuVYftrIiZa0ROjY"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 249960,
-      "name": "Afterlife (from the Netflix Series \"Devil May Cry\")",
-      "url": "https://open.spotify.com/track/3GAqddcV0nwMHQI5RfMXoI"
-    },
-    {
-      "added_at": "2026-06-18 22:01:45",
-      "album": {
         "name": "Specter",
         "url": "https://open.spotify.com/album/3fYDQx9Lr6QC9uikAPx6H4"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 274408,
       "name": "Specter",
       "url": "https://open.spotify.com/track/5krhWYmWIKJhI96deUujm8"
+    },
+    {
+      "added_at": "2026-06-18 22:01:45",
+      "album": {
+        "name": "Afterlife (from the Netflix Series \"Devil May Cry\")",
+        "url": "https://open.spotify.com/album/4pwZVViuVYftrIiZa0ROjY"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 249960,
+      "name": "Afterlife (from the Netflix Series \"Devil May Cry\")",
+      "url": "https://open.spotify.com/track/3GAqddcV0nwMHQI5RfMXoI"
     },
     {
       "added_at": "2026-06-18 22:01:45",
@@ -247,22 +247,6 @@
     {
       "added_at": "2026-06-18 22:01:45",
       "album": {
-        "name": "Zombie",
-        "url": "https://open.spotify.com/album/2VjTqSwV1IY3a4kFdurCVv"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 246946,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/7DQotDUGnJkXgNJv363GXF"
-    },
-    {
-      "added_at": "2026-06-18 22:01:45",
-      "album": {
         "name": "Dying To Love",
         "url": "https://open.spotify.com/album/46UaOs7CHiOPGGdxUtWvcj"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 256965,
       "name": "Dying To Love",
       "url": "https://open.spotify.com/track/1TPdMmb92BoWvDFQlCuVl0"
+    },
+    {
+      "added_at": "2026-06-18 22:01:45",
+      "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/2VjTqSwV1IY3a4kFdurCVv"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 246946,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/7DQotDUGnJkXgNJv363GXF"
     },
     {
       "added_at": "2026-06-18 22:01:45",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-06-18 22:01:45",
       "album": {
-        "name": "Who Will You Follow",
-        "url": "https://open.spotify.com/album/21kwp73XrMKnqCrI9MSzDR"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 235504,
-      "name": "Who Will You Follow",
-      "url": "https://open.spotify.com/track/1BDqFxvOeS9SWVnMTXPMx2"
-    },
-    {
-      "added_at": "2026-06-18 22:01:45",
-      "album": {
         "name": "The Laugh Track",
         "url": "https://open.spotify.com/album/6uo9LWc5MS8CZ2QWFMEyrz"
       },
@@ -659,6 +643,22 @@
     {
       "added_at": "2026-06-18 22:01:45",
       "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/0cXV8hOdsb0rMLMI3wQtm2"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Undead",
+          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+        }
+      ],
+      "duration_ms": 153243,
+      "name": "Feels Like Home",
+      "url": "https://open.spotify.com/track/0nMNemKXYbTMCeU2eRxrwn"
+    },
+    {
+      "added_at": "2026-06-18 22:01:45",
+      "album": {
         "name": "Unravelling",
         "url": "https://open.spotify.com/album/05Wvj3dfspiuII55ddVkPh"
       },
@@ -675,18 +675,18 @@
     {
       "added_at": "2026-06-18 22:01:45",
       "album": {
-        "name": "Feels Like Home",
-        "url": "https://open.spotify.com/album/0cXV8hOdsb0rMLMI3wQtm2"
+        "name": "Who Will You Follow",
+        "url": "https://open.spotify.com/album/21kwp73XrMKnqCrI9MSzDR"
       },
       "artists": [
         {
-          "name": "Hollywood Undead",
-          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
-      "duration_ms": 153243,
-      "name": "Feels Like Home",
-      "url": "https://open.spotify.com/track/0nMNemKXYbTMCeU2eRxrwn"
+      "duration_ms": 235504,
+      "name": "Who Will You Follow",
+      "url": "https://open.spotify.com/track/1BDqFxvOeS9SWVnMTXPMx2"
     },
     {
       "added_at": "2026-06-18 22:01:45",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-06-18 22:01:45",
       "album": {
-        "name": "Sanctuary",
-        "url": "https://open.spotify.com/album/5yUYipjU1lsVEFkH5SURdv"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 199696,
-      "name": "Tell Me When You've Had Enough",
-      "url": "https://open.spotify.com/track/21gtso7RmFpu9051Ec2feu"
-    },
-    {
-      "added_at": "2026-06-18 22:01:45",
-      "album": {
         "name": "False Reaction",
         "url": "https://open.spotify.com/album/1799QCS7eeX8JKJn0Fp7X3"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 240151,
       "name": "Wonderwall - Spotify Singles",
       "url": "https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC"
+    },
+    {
+      "added_at": "2026-06-18 22:01:45",
+      "album": {
+        "name": "Sanctuary",
+        "url": "https://open.spotify.com/album/5yUYipjU1lsVEFkH5SURdv"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 199696,
+      "name": "Tell Me When You've Had Enough",
+      "url": "https://open.spotify.com/track/21gtso7RmFpu9051Ec2feu"
     },
     {
       "added_at": "2026-06-18 22:01:45",
@@ -855,34 +855,18 @@
     {
       "added_at": "2026-06-18 22:01:45",
       "album": {
-        "name": "Dissolve Me",
-        "url": "https://open.spotify.com/album/3XLInIV1tY9cr2abRMBaxO"
+        "name": "An Ending In Itself",
+        "url": "https://open.spotify.com/album/3Oc9WCYMSdMZmwFPdrjS1c"
       },
       "artists": [
         {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
         }
       ],
-      "duration_ms": 207514,
-      "name": "Dissolve Me",
-      "url": "https://open.spotify.com/track/0CtPILcMn9wMvPjVoq2Rh6"
-    },
-    {
-      "added_at": "2026-06-18 22:01:45",
-      "album": {
-        "name": "Idols",
-        "url": "https://open.spotify.com/album/19PD2IPfceDn9fLAa05TFE"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 386181,
-      "name": "Ghosts",
-      "url": "https://open.spotify.com/track/6FVK5UcCwZ3k34vT2wenhd"
+      "duration_ms": 181018,
+      "name": "House Of Matches",
+      "url": "https://open.spotify.com/track/2k6HnONLAdpRT0TGM0Ykov"
     },
     {
       "added_at": "2026-06-18 22:01:45",
@@ -903,18 +887,34 @@
     {
       "added_at": "2026-06-18 22:01:45",
       "album": {
-        "name": "An Ending In Itself",
-        "url": "https://open.spotify.com/album/3Oc9WCYMSdMZmwFPdrjS1c"
+        "name": "Idols",
+        "url": "https://open.spotify.com/album/19PD2IPfceDn9fLAa05TFE"
       },
       "artists": [
         {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
         }
       ],
-      "duration_ms": 181018,
-      "name": "House Of Matches",
-      "url": "https://open.spotify.com/track/2k6HnONLAdpRT0TGM0Ykov"
+      "duration_ms": 386181,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/6FVK5UcCwZ3k34vT2wenhd"
+    },
+    {
+      "added_at": "2026-06-18 22:01:45",
+      "album": {
+        "name": "Dissolve Me",
+        "url": "https://open.spotify.com/album/3XLInIV1tY9cr2abRMBaxO"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 207514,
+      "name": "Dissolve Me",
+      "url": "https://open.spotify.com/track/0CtPILcMn9wMvPjVoq2Rh6"
     },
     {
       "added_at": "2026-06-18 22:01:45",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-06-18 22:01:45",
       "album": {
-        "name": "Hollow",
-        "url": "https://open.spotify.com/album/1WP6aYgLJBke188sm4T3Up"
-      },
-      "artists": [
-        {
-          "name": "Smash Into Pieces",
-          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
-        }
-      ],
-      "duration_ms": 176066,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/29zuhsQWT2Ik7sPC2K1gPM"
-    },
-    {
-      "added_at": "2026-06-18 22:01:45",
-      "album": {
         "name": "Drum Show",
         "url": "https://open.spotify.com/album/2ua0DTF9uqI0AugOvNrumo"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 203773,
       "name": "Drum Show",
       "url": "https://open.spotify.com/track/4rPl7ezxtoqshKnI1kk3dX"
+    },
+    {
+      "added_at": "2026-06-18 22:01:45",
+      "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/1WP6aYgLJBke188sm4T3Up"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "duration_ms": 176066,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/29zuhsQWT2Ik7sPC2K1gPM"
     },
     {
       "added_at": "2026-06-18 22:01:45",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-06-18 22:01:45",
       "album": {
-        "name": "IT CALLS ME BY NAME",
-        "url": "https://open.spotify.com/album/0dGjNVNmtc3ZkrK6YgwjLL"
-      },
-      "artists": [
-        {
-          "name": "Wage War",
-          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
-        }
-      ],
-      "duration_ms": 194827,
-      "name": "BLINDFOLD",
-      "url": "https://open.spotify.com/track/14CHUiA5TOvpYvIl63TSI6"
-    },
-    {
-      "added_at": "2026-06-18 22:01:45",
-      "album": {
         "name": "1x1",
         "url": "https://open.spotify.com/album/7s5Wf966z06OIL7WTLEwts"
       },
@@ -1155,18 +1139,34 @@
     {
       "added_at": "2026-06-18 22:01:45",
       "album": {
-        "name": "Days Of Ash EP",
-        "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
+        "name": "IT CALLS ME BY NAME",
+        "url": "https://open.spotify.com/album/0dGjNVNmtc3ZkrK6YgwjLL"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
         }
       ],
-      "duration_ms": 235413,
-      "name": "Song Of The Future",
-      "url": "https://open.spotify.com/track/3xbZa70HOBQpGQcaR3HqW1"
+      "duration_ms": 194827,
+      "name": "BLINDFOLD",
+      "url": "https://open.spotify.com/track/14CHUiA5TOvpYvIl63TSI6"
+    },
+    {
+      "added_at": "2026-06-18 22:01:45",
+      "album": {
+        "name": "EP #2",
+        "url": "https://open.spotify.com/album/4LZ7eLsW6zSsLjBFxhbBg8"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 233289,
+      "name": "To Space",
+      "url": "https://open.spotify.com/track/356x2OD1llA9NfOMXVmGSk"
     },
     {
       "added_at": "2026-06-18 22:01:45",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2026-06-18 22:01:45",
       "album": {
-        "name": "EP #2",
-        "url": "https://open.spotify.com/album/4LZ7eLsW6zSsLjBFxhbBg8"
+        "name": "Days Of Ash EP",
+        "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
       },
       "artists": [
         {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 233289,
-      "name": "To Space",
-      "url": "https://open.spotify.com/track/356x2OD1llA9NfOMXVmGSk"
+      "duration_ms": 235413,
+      "name": "Song Of The Future",
+      "url": "https://open.spotify.com/track/3xbZa70HOBQpGQcaR3HqW1"
     },
     {
       "added_at": "2026-06-18 22:01:45",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-06-18 22:01:45",
       "album": {
-        "name": "Easter Lily EP",
-        "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 273906,
-      "name": "In A Life",
-      "url": "https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2"
-    },
-    {
-      "added_at": "2026-06-18 22:01:45",
-      "album": {
         "name": "Unshatter",
         "url": "https://open.spotify.com/album/56zX5d4lPMLS5dkjLXpOd7"
       },
@@ -1279,22 +1263,6 @@
     {
       "added_at": "2026-06-18 22:01:45",
       "album": {
-        "name": "Frozen Lake",
-        "url": "https://open.spotify.com/album/0dVYKLEsYc7nHijyq0bSLB"
-      },
-      "artists": [
-        {
-          "name": "VOIL\u00c0",
-          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
-        }
-      ],
-      "duration_ms": 209600,
-      "name": "Frozen Lake",
-      "url": "https://open.spotify.com/track/2SsltJQ4DNWVop7wF06oXQ"
-    },
-    {
-      "added_at": "2026-06-18 22:01:45",
-      "album": {
         "name": "Dear God",
         "url": "https://open.spotify.com/album/4LqPNdoEBqxhaIAdrrstsu"
       },
@@ -1307,6 +1275,38 @@
       "duration_ms": 368505,
       "name": "Dear God",
       "url": "https://open.spotify.com/track/1Sn2P4sUV3ii0ykOrST5t4"
+    },
+    {
+      "added_at": "2026-06-18 22:01:45",
+      "album": {
+        "name": "Easter Lily EP",
+        "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 273906,
+      "name": "In A Life",
+      "url": "https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2"
+    },
+    {
+      "added_at": "2026-06-18 22:01:45",
+      "album": {
+        "name": "Frozen Lake",
+        "url": "https://open.spotify.com/album/0dVYKLEsYc7nHijyq0bSLB"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "duration_ms": 209600,
+      "name": "Frozen Lake",
+      "url": "https://open.spotify.com/track/2SsltJQ4DNWVop7wF06oXQ"
     },
     {
       "added_at": "2026-06-18 22:01:45",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-06-18 22:01:45",
       "album": {
-        "name": "Drag Me",
-        "url": "https://open.spotify.com/album/51cx1iKhj118oEWzs5QlKj"
-      },
-      "artists": [
-        {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
-        }
-      ],
-      "duration_ms": 186237,
-      "name": "Drag Me",
-      "url": "https://open.spotify.com/track/459NVRkYEftpuwkmSH1U1H"
-    },
-    {
-      "added_at": "2026-06-18 22:01:45",
-      "album": {
         "name": "WE ARE EMPIRE",
         "url": "https://open.spotify.com/album/4GtAnZ58WCp80acUpwM50P"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 360216,
       "name": "WE ARE EMPIRE",
       "url": "https://open.spotify.com/track/6ose7JySKEZszL4eisoFhM"
+    },
+    {
+      "added_at": "2026-06-18 22:01:45",
+      "album": {
+        "name": "Drag Me",
+        "url": "https://open.spotify.com/album/51cx1iKhj118oEWzs5QlKj"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "duration_ms": 186237,
+      "name": "Drag Me",
+      "url": "https://open.spotify.com/track/459NVRkYEftpuwkmSH1U1H"
     },
     {
       "added_at": "2026-06-18 22:01:45",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-06-18 22:01:45",
       "album": {
-        "name": "Crawl Back To My Coffin",
-        "url": "https://open.spotify.com/album/7JWTIDOEdhFeAA3ipvMEkI"
-      },
-      "artists": [
-        {
-          "name": "Dayseeker",
-          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
-        }
-      ],
-      "duration_ms": 242346,
-      "name": "Crawl Back To My Coffin",
-      "url": "https://open.spotify.com/track/2p50qhRb0mnj9H8fLoQRf1"
-    },
-    {
-      "added_at": "2026-06-18 22:01:45",
-      "album": {
         "name": "Everything Is Fine",
         "url": "https://open.spotify.com/album/1nXFy9tqZLTLsKLBK9cWtT"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 217189,
       "name": "Everything Is Fine",
       "url": "https://open.spotify.com/track/6BerQ9av2hnOFNAYJnl704"
+    },
+    {
+      "added_at": "2026-06-18 22:01:45",
+      "album": {
+        "name": "Crawl Back To My Coffin",
+        "url": "https://open.spotify.com/album/7JWTIDOEdhFeAA3ipvMEkI"
+      },
+      "artists": [
+        {
+          "name": "Dayseeker",
+          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
+        }
+      ],
+      "duration_ms": 242346,
+      "name": "Crawl Back To My Coffin",
+      "url": "https://open.spotify.com/track/2p50qhRb0mnj9H8fLoQRf1"
     },
     {
       "added_at": "2026-06-18 22:01:45",

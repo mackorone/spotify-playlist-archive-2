@@ -4,7 +4,7 @@
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: Drake
 
-301 songs - 16 hr 16 min
+302 songs - 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Do You Hate Me?](https://open.spotify.com/track/32EOGF0LQ2ToSj98LIDcwU) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Living While Dying](https://open.spotify.com/album/6sS7ZfsRPAylZulqdTm8Om) | 2:48 | 2025-12-03 | 2026-02-07 |
 | [Dodge](https://open.spotify.com/track/0vNVin6XAa7EU6SGABR1gc) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Shhugar](https://open.spotify.com/album/52ktymYrZxeaE07TNU39yk) | 3:33 | 2026-02-06 | 2026-03-06 |
 | [dog eyed](https://open.spotify.com/track/5yv6DEzfnzdvIhqHgC5QTN) | [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW) | [dog eyed](https://open.spotify.com/album/37t07kZf7Wo1OF8tVwKRYi) | 2:17 | 2026-06-01 |  |
+| [Don't Go Far](https://open.spotify.com/track/33qLiRPjkus5clxQvBBLgW) | [Falana](https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj) | [Don't Go Far](https://open.spotify.com/album/1ujn7USDCKuolHuK5UE8Fn) | 3:18 | 2026-06-01 |  |
 | [Don't Put Me in the Middle](https://open.spotify.com/track/7LoMG7OXnNG8GrKcPUstEm) | [Julianna Riolino](https://open.spotify.com/artist/4IkYUDeCe6OrwQhdSZZ81b) | [Don't Put Me in the Middle](https://open.spotify.com/album/6LnHgFPcqxZZDNbqItKjIi) | 4:33 | 2026-02-06 | 2026-03-06 |
 | [Donna's 407](https://open.spotify.com/track/1K9qK0p56XIVmKtJyV4Ohi) | [Yoko Gold](https://open.spotify.com/artist/24WdRSLiIlFrqK2FqxGLVm) | [Donna's 407](https://open.spotify.com/album/1R5QxEzFfjG3VLJlXMYQFt) | 3:37 | 2026-02-06 | 2026-03-06 |
 | [DOWN FOR THAT](https://open.spotify.com/track/6MY7tVcqdKFG0GA6oXOY5v) | [SUCKERPUNCH!](https://open.spotify.com/artist/02tk2pnlF7dDfwMVhth4pp) | [DOWN FOR THAT](https://open.spotify.com/album/6XrdjhXjAZyfBenkymGiWA) | 2:11 | 2026-03-05 | 2026-04-02 |
@@ -106,7 +107,7 @@
 | [Focus](https://open.spotify.com/track/4NS6CJXfOgTT7INXPEwOQM) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Falling Into Place](https://open.spotify.com/album/6kiNbfqDF1N0OVOc58W2EQ) | 3:03 | 2025-12-03 | 2026-02-07 |
 | [For A Reason](https://open.spotify.com/track/0cYohCh24y1aMjJmcS9RBl) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [P\-POP CULTURE](https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y) | 3:00 | 2025-12-03 | 2026-02-07 |
 | [for keeps](https://open.spotify.com/track/3EUwnOxvsfuTbc9pkHY8Sk) | [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [Kiss the Sun](https://open.spotify.com/album/1hRKn5DrlF0YPrOveJVpbg) | 2:29 | 2026-06-01 |  |
-| [Fous de nous deux](https://open.spotify.com/track/34pKCpWbrzLva99r9lkF7n) | [Clodelle](https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt) | [Fous de nous deux](https://open.spotify.com/album/0SXQw0b0sVz0LTGv7t6Utb) | 2:49 | 2026-06-01 |  |
+| [Fous de nous deux](https://open.spotify.com/track/34pKCpWbrzLva99r9lkF7n) | [Clodelle](https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt) | [Fous de nous deux](https://open.spotify.com/album/0SXQw0b0sVz0LTGv7t6Utb) | 2:49 | 2026-06-01 | 2026-06-22 |
 | [Foxtrot](https://open.spotify.com/track/0dqqy0ZtBdY4hk6mRWBgVX) | [Tanya Tagaq](https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY) | [Foxtrot](https://open.spotify.com/album/2lRgazRzfPO8Hoqqbh7t72) | 1:33 | 2026-02-06 | 2026-03-06 |
 | [Free Wheeling](https://open.spotify.com/track/43DKVQnMysID1lXOaHqG9n) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Free Wheeling](https://open.spotify.com/album/2mRgxy62xHxJDtNMGB7mx3) | 3:49 | 2026-06-01 |  |
 | [Further From the Country](https://open.spotify.com/track/3vT7yPGiQ10fqj2I9doxYS) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Further From the Country](https://open.spotify.com/album/4hLnzIN6eYqCmitWi6TIPO) | 6:00 | 2025-12-03 | 2026-02-07 |

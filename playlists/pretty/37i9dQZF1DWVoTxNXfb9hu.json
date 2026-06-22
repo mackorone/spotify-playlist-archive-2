@@ -1,6 +1,6 @@
 {
   "description": "Colourful songs to kickstart your Holi party! Cover - Yeh Jawaani Hai Deewani",
-  "num_followers": 178813,
+  "num_followers": 178857,
   "original_name": "Holi Party",
   "owner": {
     "name": "Spotify",
@@ -827,34 +827,6 @@
     {
       "added_at": "2026-03-19 09:40:44",
       "album": {
-        "name": "Coca Cola (From \"Luka Chuppi\")",
-        "url": "https://open.spotify.com/album/0L2XbCxKZXwLeWuAUMcBLc"
-      },
-      "artists": [
-        {
-          "name": "Tony Kakkar",
-          "url": "https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv"
-        },
-        {
-          "name": "Neha Kakkar",
-          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
-        },
-        {
-          "name": "Young Desi",
-          "url": "https://open.spotify.com/artist/00EnFy3rVaBe8K6HV1S7e5"
-        },
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        }
-      ],
-      "duration_ms": 179225,
-      "name": "Coca Cola (From \"Luka Chuppi\")",
-      "url": "https://open.spotify.com/track/352wEkChkiClswqwDoM0nj"
-    },
-    {
-      "added_at": "2026-03-19 09:40:44",
-      "album": {
         "name": "Choli Ke Peeche (From \"Crew\")",
         "url": "https://open.spotify.com/album/5snDdFszQnoAqgQfNntKcx"
       },
@@ -883,6 +855,34 @@
       "duration_ms": 173400,
       "name": "Choli Ke Peeche (From \"Crew\")",
       "url": "https://open.spotify.com/track/1ErMeReQpwGuroEk5zekr3"
+    },
+    {
+      "added_at": "2026-03-19 09:40:44",
+      "album": {
+        "name": "Coca Cola (From \"Luka Chuppi\")",
+        "url": "https://open.spotify.com/album/0L2XbCxKZXwLeWuAUMcBLc"
+      },
+      "artists": [
+        {
+          "name": "Tony Kakkar",
+          "url": "https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv"
+        },
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "name": "Young Desi",
+          "url": "https://open.spotify.com/artist/00EnFy3rVaBe8K6HV1S7e5"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        }
+      ],
+      "duration_ms": 179225,
+      "name": "Coca Cola (From \"Luka Chuppi\")",
+      "url": "https://open.spotify.com/track/352wEkChkiClswqwDoM0nj"
     },
     {
       "added_at": "2026-03-19 09:40:44",
@@ -1531,30 +1531,6 @@
     {
       "added_at": "2026-03-19 09:40:44",
       "album": {
-        "name": "Muqabla (From \"Street Dancer 3D\")",
-        "url": "https://open.spotify.com/album/3cK9AtRTNgQNfb2WzyhyYW"
-      },
-      "artists": [
-        {
-          "name": "Yash Narvekar",
-          "url": "https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK"
-        },
-        {
-          "name": "Parampara Tandon",
-          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
-        },
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        }
-      ],
-      "duration_ms": 176125,
-      "name": "Muqabla (From \"Street Dancer 3D\")",
-      "url": "https://open.spotify.com/track/28veUNu4veN0LOBVa0nFw8"
-    },
-    {
-      "added_at": "2026-03-19 09:40:44",
-      "album": {
         "name": "Panwadi (Best Wedding Dance Song 2026)",
         "url": "https://open.spotify.com/album/1YJfUVuJEYUytHQ7f60XQn"
       },
@@ -1587,6 +1563,30 @@
       "duration_ms": 240960,
       "name": "Panwadi - Best Wedding Dance Song 2026",
       "url": "https://open.spotify.com/track/6aMoxZbGxqRkyNKAlkzIpP"
+    },
+    {
+      "added_at": "2026-03-19 09:40:44",
+      "album": {
+        "name": "Muqabla (From \"Street Dancer 3D\")",
+        "url": "https://open.spotify.com/album/3cK9AtRTNgQNfb2WzyhyYW"
+      },
+      "artists": [
+        {
+          "name": "Yash Narvekar",
+          "url": "https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK"
+        },
+        {
+          "name": "Parampara Tandon",
+          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        }
+      ],
+      "duration_ms": 176125,
+      "name": "Muqabla (From \"Street Dancer 3D\")",
+      "url": "https://open.spotify.com/track/28veUNu4veN0LOBVa0nFw8"
     },
     {
       "added_at": "2026-03-19 09:40:44",
@@ -2147,30 +2147,26 @@
     {
       "added_at": "2026-03-19 09:40:44",
       "album": {
-        "name": "Baghban",
-        "url": "https://open.spotify.com/album/6utlWwaPOT6xIaeLOGr9XC"
+        "name": "Dream Girl 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2oin2DQWtcl3yeYLoH30hu"
       },
       "artists": [
         {
-          "name": "Amitabh Bachchan",
-          "url": "https://open.spotify.com/artist/4tgxFlmtGx08MtTKWeqEuR"
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
         },
         {
-          "name": "Sukhwinder Singh",
-          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
         },
         {
-          "name": "Alka Yagnik",
-          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
-        },
-        {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+          "name": "Meet Bros.",
+          "url": "https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS"
         }
       ],
-      "duration_ms": 339533,
-      "name": "Hori Khele Raghuveera",
-      "url": "https://open.spotify.com/track/7zrQ2vyyvMfg8fl3XF18MD"
+      "duration_ms": 309597,
+      "name": "Dil Ka Telephone 2.0 - From \"Dream Girl 2\"",
+      "url": "https://open.spotify.com/track/7lWAgqskL68F5uaDVL1uR9"
     }
   ],
   "unique_name": "Holi Party",

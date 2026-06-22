@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4ZIckimeCjQpyqu39pufX2">Leland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,428 likes - 190 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,427 likes - 190 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 82 | [Thirsty](https://open.spotify.com/track/0GIxebN29sVX3Up18qTb8R) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/6cMcASNBAfVvmv0AT6IQj4) | 3:23 |
 | 83 | [Roommates](https://open.spotify.com/track/73A6HiR1xE9cAwy61mP7AA) | [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [Roommates](https://open.spotify.com/album/2Cp9X2MWTLEAVp7EuIiEFt) | 3:23 |
 | 84 | [Sunflower \(Synth Reprise\)](https://open.spotify.com/track/0K5uqkxgZlxKJvA03E1e90) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Sierra Burgess Is a Loser \(Original Netflix Sound Track\)](https://open.spotify.com/album/5ddhak78Gq6mFVqiPlbFhI) | 3:36 |
-| 85 | [Hold Tight](https://open.spotify.com/track/72DnQlaqdNhz9QJZXfYe6L) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B), [UHMEER](https://open.spotify.com/artist/5PsYkefUonoeM9VCnpf5zd) | [Singular Act I](https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK) | 2:55 |
-| 86 | [DeathByDevotion](https://open.spotify.com/track/79oIHHPKpgAWMSxGZU0lQa) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [DeathByDevotion](https://open.spotify.com/album/3GukAKxHvoWMo1lbM9csAs) | 3:16 |
+| 85 | [DeathByDevotion](https://open.spotify.com/track/79oIHHPKpgAWMSxGZU0lQa) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [DeathByDevotion](https://open.spotify.com/album/3GukAKxHvoWMo1lbM9csAs) | 3:16 |
+| 86 | [Hold Tight](https://open.spotify.com/track/72DnQlaqdNhz9QJZXfYe6L) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B), [UHMEER](https://open.spotify.com/artist/5PsYkefUonoeM9VCnpf5zd) | [Singular Act I](https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK) | 2:55 |
 | 87 | [I Don't Need It To Be Christmas At All](https://open.spotify.com/track/1wmPiEINk0ig3Q0Cit7Anh) | [Matt Rogers](https://open.spotify.com/artist/437cckneXTy4cj15iUWAVZ) | [Have You Heard of Christmas?](https://open.spotify.com/album/7lG5kp3WDqPlIap6aPJVLd) | 3:05 |
 | 88 | [Mattress](https://open.spotify.com/track/70AF8JxhK63gd3fpTA1pWj) | [Leland](https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69) | [Mattress](https://open.spotify.com/album/6IHieoQMfn9lX8HWIfmKR3) | 3:05 |
 | 89 | [Take You Back](https://open.spotify.com/track/1NF9ux53nctr5Rjb3c8i7D) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act II](https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP) | 2:49 |
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 189 | [Euphoria](https://open.spotify.com/track/1nXyc1QOTa5Rnhg5udF0vr) | [Christopher Goulstone](https://open.spotify.com/artist/6A6hCC07Ix0YCGFfENcWYI), [Neil Taylor](https://open.spotify.com/artist/3th0fmbYOynihCppJzNJLM) | [Rock Highway Dreams](https://open.spotify.com/album/5c4U5JArDApW4JUyEEk3Tz) | 3:26 |
 | 190 | [I'm a Rapper](https://open.spotify.com/track/3Pt8mRiKVgnun7ULVmKTLB) | [Pfool](https://open.spotify.com/artist/4yNdC9T7fkyn8yB1E8cTLY) | [Ultimate Hottest Hits 2013, Vol\. 6 \(The Best of the Teenies\)](https://open.spotify.com/album/5PtK4h7lKH3ittcrWu7hqi) | 2:55 |
 
-Snapshot ID: `AcUwhgAAAAAqQTevv7D1ws4WgRFlj4/J`
+Snapshot ID: `AcU2WAAAAACZJjqka3OPdLbed1a9bAPE`

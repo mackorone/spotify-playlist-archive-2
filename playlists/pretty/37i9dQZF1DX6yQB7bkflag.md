@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover:  <br/>Sung Si Kyung, Raisa
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,565 likes - 108 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,560 likes - 108 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

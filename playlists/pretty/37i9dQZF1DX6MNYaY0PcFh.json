@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound. Cover: J Wax",
-  "num_followers": 105609,
+  "num_followers": 105623,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -931,26 +931,6 @@
     {
       "added_at": "2026-06-18 23:00:46",
       "album": {
-        "name": "XTZY",
-        "url": "https://open.spotify.com/album/6tRhAkDXXNQgHUpy00cGZo"
-      },
-      "artists": [
-        {
-          "name": "FULLCLIP",
-          "url": "https://open.spotify.com/artist/1WEgIPUvIq0ruHxECA7tR9"
-        },
-        {
-          "name": "INDI",
-          "url": "https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9"
-        }
-      ],
-      "duration_ms": 167492,
-      "name": "XTZY",
-      "url": "https://open.spotify.com/track/7vpT5MttwN5SRk0eTqECQr"
-    },
-    {
-      "added_at": "2026-06-18 23:00:46",
-      "album": {
         "name": "GET ON IT",
         "url": "https://open.spotify.com/album/4i5aocSQ5i8ME7kFmAYBe0"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 207761,
       "name": "Melon",
       "url": "https://open.spotify.com/track/3z9QZsBbiHrYi25dsxKG3M"
+    },
+    {
+      "added_at": "2026-06-18 23:00:46",
+      "album": {
+        "name": "XTZY",
+        "url": "https://open.spotify.com/album/6tRhAkDXXNQgHUpy00cGZo"
+      },
+      "artists": [
+        {
+          "name": "FULLCLIP",
+          "url": "https://open.spotify.com/artist/1WEgIPUvIq0ruHxECA7tR9"
+        },
+        {
+          "name": "INDI",
+          "url": "https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9"
+        }
+      ],
+      "duration_ms": 167492,
+      "name": "XTZY",
+      "url": "https://open.spotify.com/track/7vpT5MttwN5SRk0eTqECQr"
     },
     {
       "added_at": "2026-06-18 23:00:46",
@@ -1047,6 +1047,30 @@
     {
       "added_at": "2026-06-18 23:00:46",
       "album": {
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/6bBot7gb3Uu3sqDiiusSDu"
+      },
+      "artists": [
+        {
+          "name": "Special Request",
+          "url": "https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H"
+        },
+        {
+          "name": "ODF",
+          "url": "https://open.spotify.com/artist/14Md2pjzFKO47fz1vq9KLu"
+        },
+        {
+          "name": "Tim Reaper",
+          "url": "https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd"
+        }
+      ],
+      "duration_ms": 196480,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/1MMFFS8ddSQbYVBclBZTZN"
+    },
+    {
+      "added_at": "2026-06-18 23:00:46",
+      "album": {
         "name": "Rampage",
         "url": "https://open.spotify.com/album/4UPganXnN0vfGwvuHHrY82"
       },
@@ -1087,26 +1111,18 @@
     {
       "added_at": "2026-06-18 23:00:46",
       "album": {
-        "name": "Pull Up",
-        "url": "https://open.spotify.com/album/6bBot7gb3Uu3sqDiiusSDu"
+        "name": "See Thru",
+        "url": "https://open.spotify.com/album/0Dgr5QpgjUOa45upuXnCXO"
       },
       "artists": [
         {
-          "name": "Special Request",
-          "url": "https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H"
-        },
-        {
-          "name": "ODF",
-          "url": "https://open.spotify.com/artist/14Md2pjzFKO47fz1vq9KLu"
-        },
-        {
-          "name": "Tim Reaper",
-          "url": "https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd"
+          "name": "Megan Wroe",
+          "url": "https://open.spotify.com/artist/2wIBVipx8Fv5orv4uzPW4C"
         }
       ],
-      "duration_ms": 196480,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/1MMFFS8ddSQbYVBclBZTZN"
+      "duration_ms": 160000,
+      "name": "See Thru",
+      "url": "https://open.spotify.com/track/5bt6nQxl5CP7gfz4JSqGR5"
     },
     {
       "added_at": "2026-06-18 23:00:46",
@@ -1123,22 +1139,6 @@
       "duration_ms": 225865,
       "name": "10 HRS",
       "url": "https://open.spotify.com/track/5gPo2F7Swj0goIYl7i6ASQ"
-    },
-    {
-      "added_at": "2026-06-18 23:00:46",
-      "album": {
-        "name": "See Thru",
-        "url": "https://open.spotify.com/album/0Dgr5QpgjUOa45upuXnCXO"
-      },
-      "artists": [
-        {
-          "name": "Megan Wroe",
-          "url": "https://open.spotify.com/artist/2wIBVipx8Fv5orv4uzPW4C"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "See Thru",
-      "url": "https://open.spotify.com/track/5bt6nQxl5CP7gfz4JSqGR5"
     },
     {
       "added_at": "2026-06-18 23:00:46",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2026-06-18 23:00:46",
       "album": {
+        "name": "The Only Girl",
+        "url": "https://open.spotify.com/album/35f39zrLT2gOs0LdK9K7q1"
+      },
+      "artists": [
+        {
+          "name": "Faster Horses",
+          "url": "https://open.spotify.com/artist/3LpHT7su9Y4DLfV6NCfZKZ"
+        }
+      ],
+      "duration_ms": 202285,
+      "name": "The Only Girl",
+      "url": "https://open.spotify.com/track/7dYAexcUcOmhxbPFvuqFRP"
+    },
+    {
+      "added_at": "2026-06-18 23:00:46",
+      "album": {
         "name": "Swings",
         "url": "https://open.spotify.com/album/7Gmllttn0NtckSdTmsosYk"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 167518,
       "name": "Swept Away",
       "url": "https://open.spotify.com/track/13epcBWtRTdyiBHhfdimrI"
-    },
-    {
-      "added_at": "2026-06-18 23:00:46",
-      "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/3tymonwB9JiWJPxypF6LAb"
-      },
-      "artists": [
-        {
-          "name": "Re:um",
-          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
-        }
-      ],
-      "duration_ms": 215538,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/4rlEqGtM0PXoYjQKL2vPLB"
     }
   ],
   "unique_name": "New UK Garage",

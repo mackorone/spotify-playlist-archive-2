@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4kWHqs.md) - [plain]
 
 > This is SadBoi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 429 likes - 48 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 430 likes - 48 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4kWHqs.md) - [plain]
 | 34 | [L's](https://open.spotify.com/track/0nftwM7FVkH2yFuWJMmh5P) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [DRY CRY](https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6) | 2:03 |
 | 35 | [blaming me](https://open.spotify.com/track/77A3hbvlWZ27EmRa0ZJFaz) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [were all the ig girls worth it?](https://open.spotify.com/album/6uWFHUANC7gDHb0Ytv6OTx) | 2:05 |
 | 36 | [Gyal Clown](https://open.spotify.com/track/4KGBCy1x03LIG3YG07JhuP) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Gyal Clown](https://open.spotify.com/album/1Got83XMepM9n4AS4AwT6h) | 2:16 |
-| 37 | [Sister Wives](https://open.spotify.com/track/2m1GCnwvUjyjIZp3WXjOoU) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Sister Wives](https://open.spotify.com/album/4mLU0rGW0GooTEbWEaLNLt) | 3:18 |
+| 37 | [Easy Go! \- SadBoi Remix](https://open.spotify.com/track/3ZCXPRcZHn9vzc3Gr5374j) | [Raghd](https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Easy Go! \(SadBoi Remix\)](https://open.spotify.com/album/52Yo3AMJWez7caHauDDhT9) | 2:30 |
 | 38 | [dnd](https://open.spotify.com/track/5Ttdoj46kU4eQbwVB4KecE) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [DJ SAZE](https://open.spotify.com/artist/2HrKTpCwAnIHz39mXoaNot) | [DRY CRY](https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6) | 1:13 |
-| 39 | [Easy Go! \- SadBoi Remix](https://open.spotify.com/track/3ZCXPRcZHn9vzc3Gr5374j) | [Raghd](https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Easy Go! \(SadBoi Remix\)](https://open.spotify.com/album/52Yo3AMJWez7caHauDDhT9) | 2:30 |
+| 39 | [Sister Wives](https://open.spotify.com/track/2m1GCnwvUjyjIZp3WXjOoU) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Sister Wives](https://open.spotify.com/album/4mLU0rGW0GooTEbWEaLNLt) | 3:18 |
 | 40 | [his sweater](https://open.spotify.com/track/5wqDRHhLsthAPQXrwpzdEI) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [his sweater](https://open.spotify.com/album/3j9430eB54S43NfA9JgXvV) | 2:41 |
 | 41 | [whose fault](https://open.spotify.com/track/2jiqncSuSFEoo7pxrA2aT1) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [whose fault](https://open.spotify.com/album/6vyMro0Iy40nk9Y1ZdtEaz) | 2:06 |
 | 42 | [watch it all fall](https://open.spotify.com/track/5DFsESy9dGxExEnolla1vt) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [DRY CRY](https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6) | 2:50 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4kWHqs.md) - [plain]
 | 47 | [LIE LIE LIE!](https://open.spotify.com/track/0pAQYA3DItRcxctQCGM2AH) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [LIE LIE LIE!](https://open.spotify.com/album/2NnP52zmXOENLm19DojzmS) | 2:28 |
 | 48 | [Ms\. Do You Wrong](https://open.spotify.com/track/3kuby3Wz1hjeSgCFVB4Xn1) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Ms\. Do You Wrong](https://open.spotify.com/album/3dheKefbYeaYT97B6bxEzW) | 1:53 |
 
-Snapshot ID: `ajSGgAAAAAD7fPi07AXIoQugmxsq8Kvl`
+Snapshot ID: `ajXYAAAAAAAL+nHcFMyIhsd4hl5R/KnM`

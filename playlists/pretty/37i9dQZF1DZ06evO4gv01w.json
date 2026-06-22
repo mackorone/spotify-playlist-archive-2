@@ -1,12 +1,12 @@
 {
   "description": "This is Larkin Poe. The essential tracks, all in one playlist.",
-  "num_followers": 30449,
+  "num_followers": 30460,
   "original_name": "This Is Larkin Poe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAAB5DaxGrQTF7sRqlhYPfyTi",
+  "snapshot_id": "ajXYAAAAAAD8fMBW2b+GbkoL/VsPODHB",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Venom & Faith",
-        "url": "https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 193444,
-      "name": "Bleach Blonde Bottle Blues",
-      "url": "https://open.spotify.com/track/3cRhk3aGHPTe4aptRyQAJW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hardware",
         "url": "https://open.spotify.com/album/507ad3jUNOGZVtHIRoIhSd"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 196840,
       "name": "Stackin\u2019 Bones",
       "url": "https://open.spotify.com/track/2cZhG6PNPa2Ykh9xsoAcHw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Venom & Faith",
+        "url": "https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 193444,
+      "name": "Bleach Blonde Bottle Blues",
+      "url": "https://open.spotify.com/track/3cRhk3aGHPTe4aptRyQAJW"
     },
     {
       "added_at": null,
@@ -111,6 +111,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Peach",
+        "url": "https://open.spotify.com/album/3d1joZj7jDDEAe3cpPloZz"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 201586,
+      "name": "Preachin' Blues",
+      "url": "https://open.spotify.com/track/3Mi6mtEZ2MopQ7MKfkWl9f"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "B.B. King's Blues Summit 100",
         "url": "https://open.spotify.com/album/63RsC1rDGaMXkfK1zk5wb6"
       },
@@ -131,22 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peach",
-        "url": "https://open.spotify.com/album/3d1joZj7jDDEAe3cpPloZz"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 201586,
-      "name": "Preachin' Blues",
-      "url": "https://open.spotify.com/track/3Mi6mtEZ2MopQ7MKfkWl9f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sweetwater (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7FyOwU1zmlXnoWelI1xavo"
       },
@@ -159,22 +159,6 @@
       "duration_ms": 140543,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/0kbk9S7qqlizTHYCMsqfWc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/4mOnUAViaWVgbJJB8syth2"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 273237,
-      "name": "Bluephoria",
-      "url": "https://open.spotify.com/track/7Do8H5FJLqlNWucdTN7AmN"
     },
     {
       "added_at": null,
@@ -211,6 +195,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/4mOnUAViaWVgbJJB8syth2"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 273237,
+      "name": "Bluephoria",
+      "url": "https://open.spotify.com/track/7Do8H5FJLqlNWucdTN7AmN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blood Harmony",
         "url": "https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe"
       },
@@ -223,22 +223,6 @@
       "duration_ms": 227224,
       "name": "Southern Comfort",
       "url": "https://open.spotify.com/track/17Rlm2i1lChVzLN7aqkqlN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/4mOnUAViaWVgbJJB8syth2"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 205962,
-      "name": "If God Is a Woman",
-      "url": "https://open.spotify.com/track/0u5MLiarQBMVQ01986KqsC"
     },
     {
       "added_at": null,
@@ -279,6 +263,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/4mOnUAViaWVgbJJB8syth2"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 205962,
+      "name": "If God Is a Woman",
+      "url": "https://open.spotify.com/track/0u5MLiarQBMVQ01986KqsC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blood Harmony",
         "url": "https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe"
       },
@@ -291,22 +291,6 @@
       "duration_ms": 195832,
       "name": "Bolt Cutters & The Family Name",
       "url": "https://open.spotify.com/track/2fot2MgDtVoInxjid9SeLf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/4mOnUAViaWVgbJJB8syth2"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 247077,
-      "name": "Easy Love, Pt. 1",
-      "url": "https://open.spotify.com/track/1yQQYopgKxI7X2juU18Aov"
     },
     {
       "added_at": null,
@@ -347,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/4mOnUAViaWVgbJJB8syth2"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 247077,
+      "name": "Easy Love, Pt. 1",
+      "url": "https://open.spotify.com/track/1yQQYopgKxI7X2juU18Aov"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blood Harmony",
         "url": "https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe"
       },
@@ -359,22 +359,6 @@
       "duration_ms": 245889,
       "name": "Blood Harmony",
       "url": "https://open.spotify.com/track/7bIJA0XRb8iysNCyaZISB3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/4mOnUAViaWVgbJJB8syth2"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 246351,
-      "name": "Mockingbird",
-      "url": "https://open.spotify.com/track/3usTtVN7xhVDvmAD7NG5CD"
     },
     {
       "added_at": null,
@@ -419,6 +403,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/4mOnUAViaWVgbJJB8syth2"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 246351,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/3usTtVN7xhVDvmAD7NG5CD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blood Harmony",
         "url": "https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe"
       },
@@ -431,22 +431,6 @@
       "duration_ms": 200858,
       "name": "Strike Gold",
       "url": "https://open.spotify.com/track/4vuqP2NPI5QaxvBJll1kCO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/4mOnUAViaWVgbJJB8syth2"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 240469,
-      "name": "Nowhere Fast",
-      "url": "https://open.spotify.com/track/5bYQcKdOXJNYmOS0F08CdM"
     },
     {
       "added_at": null,
@@ -467,22 +451,6 @@
       "duration_ms": 159306,
       "name": "Done",
       "url": "https://open.spotify.com/track/2QAQ1m3LGHKkL0QvNNBXyF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reskinned",
-        "url": "https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 209720,
-      "name": "When God Closes a Door",
-      "url": "https://open.spotify.com/track/2wYVL5QawLgPamUCw87TQw"
     },
     {
       "added_at": null,
@@ -512,9 +480,25 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 246472,
-      "name": "Little Bit",
-      "url": "https://open.spotify.com/track/7vxVuZHTMVid7uj4t3pDYq"
+      "duration_ms": 240469,
+      "name": "Nowhere Fast",
+      "url": "https://open.spotify.com/track/5bYQcKdOXJNYmOS0F08CdM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Runnin' Down a Dream",
+        "url": "https://open.spotify.com/album/665hfrsUrX8NtDd89Lt4aV"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 244307,
+      "name": "Runnin' Down a Dream",
+      "url": "https://open.spotify.com/track/2jh28FMlAr45a1r6nRUVu3"
     },
     {
       "added_at": null,
@@ -543,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Runnin' Down a Dream",
-        "url": "https://open.spotify.com/album/665hfrsUrX8NtDd89Lt4aV"
+        "name": "Reskinned",
+        "url": "https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo"
       },
       "artists": [
         {
@@ -552,9 +536,25 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 244307,
-      "name": "Runnin' Down a Dream",
-      "url": "https://open.spotify.com/track/2jh28FMlAr45a1r6nRUVu3"
+      "duration_ms": 209720,
+      "name": "When God Closes a Door",
+      "url": "https://open.spotify.com/track/2wYVL5QawLgPamUCw87TQw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/4mOnUAViaWVgbJJB8syth2"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 246472,
+      "name": "Little Bit",
+      "url": "https://open.spotify.com/track/7vxVuZHTMVid7uj4t3pDYq"
     },
     {
       "added_at": null,
@@ -807,30 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Look Up",
-        "url": "https://open.spotify.com/album/0MdReiUZQM3xFZ1RvBKgrt"
-      },
-      "artists": [
-        {
-          "name": "Ringo Starr",
-          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
-        },
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        },
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 226013,
-      "name": "Rosetta",
-      "url": "https://open.spotify.com/track/1EW75a4rh00F4NIuY7bLhn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peach",
         "url": "https://open.spotify.com/album/3d1joZj7jDDEAe3cpPloZz"
       },
@@ -859,6 +835,30 @@
       "duration_ms": 189453,
       "name": "Sugar High",
       "url": "https://open.spotify.com/track/2wSZEb1pCkYoZn0jJs0CGd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Look Up",
+        "url": "https://open.spotify.com/album/0MdReiUZQM3xFZ1RvBKgrt"
+      },
+      "artists": [
+        {
+          "name": "Ringo Starr",
+          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "String Theory",
+      "url": "https://open.spotify.com/track/2ZtOqWd72Bt9hOlSvkiKjI"
     }
   ],
   "unique_name": "This Is Larkin Poe",

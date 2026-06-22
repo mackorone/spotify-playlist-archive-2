@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: Kanine",
-  "num_followers": 75842,
+  "num_followers": 75855,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -375,18 +375,18 @@
     {
       "added_at": "2026-06-19 10:44:20",
       "album": {
-        "name": "Feel My Love",
-        "url": "https://open.spotify.com/album/4DguMe5dhEUfqWCBmZ5Zus"
+        "name": "Good Vibrations",
+        "url": "https://open.spotify.com/album/3FiFg9HODL0wB96ORI5XbA"
       },
       "artists": [
         {
-          "name": "Eskei83",
-          "url": "https://open.spotify.com/artist/2mwfx4gHhYVlrKjhEM5Q3R"
+          "name": "Blossom",
+          "url": "https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V"
         }
       ],
-      "duration_ms": 224827,
-      "name": "Feel My Love",
-      "url": "https://open.spotify.com/track/2xhNvPgzIDEmrfHtzx5kbl"
+      "duration_ms": 180000,
+      "name": "Good Vibrations",
+      "url": "https://open.spotify.com/track/273AH2WWSbxI1Je7j3Mqz6"
     },
     {
       "added_at": "2026-06-19 10:44:20",
@@ -407,18 +407,18 @@
     {
       "added_at": "2026-06-19 10:44:20",
       "album": {
-        "name": "Good Vibrations",
-        "url": "https://open.spotify.com/album/3FiFg9HODL0wB96ORI5XbA"
+        "name": "Feel My Love",
+        "url": "https://open.spotify.com/album/4DguMe5dhEUfqWCBmZ5Zus"
       },
       "artists": [
         {
-          "name": "Blossom",
-          "url": "https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V"
+          "name": "Eskei83",
+          "url": "https://open.spotify.com/artist/2mwfx4gHhYVlrKjhEM5Q3R"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Good Vibrations",
-      "url": "https://open.spotify.com/track/273AH2WWSbxI1Je7j3Mqz6"
+      "duration_ms": 224827,
+      "name": "Feel My Love",
+      "url": "https://open.spotify.com/track/2xhNvPgzIDEmrfHtzx5kbl"
     },
     {
       "added_at": "2026-06-19 10:44:20",
@@ -723,6 +723,22 @@
     {
       "added_at": "2026-06-19 10:44:20",
       "album": {
+        "name": "Vandal",
+        "url": "https://open.spotify.com/album/3rUMO4nrAab1mOKqZCabml"
+      },
+      "artists": [
+        {
+          "name": "Delta Heavy",
+          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+        }
+      ],
+      "duration_ms": 161379,
+      "name": "Vandal",
+      "url": "https://open.spotify.com/track/1v0y0o1IDEmUaK40ciELYk"
+    },
+    {
+      "added_at": "2026-06-19 10:44:20",
+      "album": {
         "name": "Thriller / Good Ol' Days",
         "url": "https://open.spotify.com/album/5Xi9MKZ3kzCJmnvOeiQatj"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 190344,
       "name": "Thriller",
       "url": "https://open.spotify.com/track/6cF0duAq36nMaKUWtQb6Uc"
-    },
-    {
-      "added_at": "2026-06-19 10:44:20",
-      "album": {
-        "name": "Vandal",
-        "url": "https://open.spotify.com/album/3rUMO4nrAab1mOKqZCabml"
-      },
-      "artists": [
-        {
-          "name": "Delta Heavy",
-          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
-        }
-      ],
-      "duration_ms": 161379,
-      "name": "Vandal",
-      "url": "https://open.spotify.com/track/1v0y0o1IDEmUaK40ciELYk"
     },
     {
       "added_at": "2026-06-19 10:44:20",

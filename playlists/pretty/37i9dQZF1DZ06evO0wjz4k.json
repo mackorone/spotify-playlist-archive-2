@@ -1,12 +1,12 @@
 {
   "description": "This is Parker McCollum. The essential tracks, all in one playlist.",
-  "num_followers": 35563,
+  "num_followers": 35579,
   "original_name": "This Is Parker McCollum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAAD4E0NszkISxj1Qqwc5tw82",
+  "snapshot_id": "ajXYAAAAAABfEjy8pAr57tXK1LQrNHj9",
   "tracks": [
     {
       "added_at": null,
@@ -107,6 +107,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Young Man's Blues",
+        "url": "https://open.spotify.com/album/5ix6PvaO7elQgjgLsxcb0j"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 206037,
+      "name": "Young Man's Blues",
+      "url": "https://open.spotify.com/track/6ywiHcxaHBR39gRhud37XK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Noise Complaint",
         "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 223062,
       "name": "Love (feat. Parker McCollum)",
       "url": "https://open.spotify.com/track/12n0Z1dIlqXZYXx43MSHoG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Young Man's Blues",
-        "url": "https://open.spotify.com/album/5ix6PvaO7elQgjgLsxcb0j"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 206037,
-      "name": "Young Man's Blues",
-      "url": "https://open.spotify.com/track/6ywiHcxaHBR39gRhud37XK"
     },
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Enough",
-        "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
+        "name": "Gold Chain Cowboy",
+        "url": "https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 221781,
-      "name": "Things I Never Told You",
-      "url": "https://open.spotify.com/track/4fxEEvoI7uL0rQ5GzwRnZT"
+      "duration_ms": 194973,
+      "name": "Drinkin'",
+      "url": "https://open.spotify.com/track/6P7aZG4PRvErVyxtHIBts5"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gold Chain Cowboy",
-        "url": "https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu"
+        "name": "Never Enough",
+        "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 194973,
-      "name": "Drinkin'",
-      "url": "https://open.spotify.com/track/6P7aZG4PRvErVyxtHIBts5"
+      "duration_ms": 221781,
+      "name": "Things I Never Told You",
+      "url": "https://open.spotify.com/track/4fxEEvoI7uL0rQ5GzwRnZT"
     },
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gold Chain Cowboy (Special Edition)",
+        "url": "https://open.spotify.com/album/3OUUrRZtEpwfScVgNVNKx0"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 218804,
+      "name": "Blanco County Rain - Special Edition Track",
+      "url": "https://open.spotify.com/track/633WOcoZ6guzsSOtqE2EAc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Postcards From Texas",
         "url": "https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 183242,
       "name": "Santa Fe",
       "url": "https://open.spotify.com/track/12AEBgTTELBhtAthd5dRqH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gold Chain Cowboy (Special Edition)",
-        "url": "https://open.spotify.com/album/3OUUrRZtEpwfScVgNVNKx0"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 218804,
-      "name": "Blanco County Rain - Special Edition Track",
-      "url": "https://open.spotify.com/track/633WOcoZ6guzsSOtqE2EAc"
     },
     {
       "added_at": null,

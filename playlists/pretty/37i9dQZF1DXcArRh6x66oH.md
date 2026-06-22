@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 
 > roots run deep with Charles Wesley Godwin and Wyatt Flores
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,555 likes - 183 songs - 10 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,603 likes - 183 songs - 10 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

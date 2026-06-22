@@ -8081,6 +8081,24 @@
     },
     {
       "album": {
+        "name": "Say The Words",
+        "url": "https://open.spotify.com/album/7KkEQMbrmpVsXzUtbrMYyO"
+      },
+      "artists": [
+        {
+          "name": "GABUISLOST",
+          "url": "https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH"
+        }
+      ],
+      "date_added": "2026-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217879,
+      "name": "Say The Words",
+      "url": "https://open.spotify.com/track/5zpo6JR8D1lO7iuypju0ZB"
+    },
+    {
+      "album": {
         "name": "AURAL ALLIANCE STAGE 1",
         "url": "https://open.spotify.com/album/0NyuVquScsw96o0SEWVSII"
       },

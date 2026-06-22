@@ -1,12 +1,12 @@
 {
   "description": "This is Odeal. The essential tracks, all in one playlist.",
-  "num_followers": 14466,
+  "num_followers": 14485,
   "original_name": "This Is Odeal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAAD5RVcZoTV+3r3vUk3y4It2",
+  "snapshot_id": "ajXYAAAAAACEge1JYKwxphlFSyFrYi71",
   "tracks": [
     {
       "added_at": null,
@@ -95,22 +95,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love is the New Gangsta",
-        "url": "https://open.spotify.com/album/0P7rfrcXTzQwUR9q1nTDpq"
+        "name": "Be Easy",
+        "url": "https://open.spotify.com/album/5colQfMZet7a2Myxiz0XYl"
       },
       "artists": [
         {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        },
-        {
           "name": "Odeal",
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "brazy",
+          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
         }
       ],
-      "duration_ms": 182173,
-      "name": "On Me (with Odeal)",
-      "url": "https://open.spotify.com/track/6JoEoLh7ZS7Yx2DTnaPA9A"
+      "duration_ms": 132052,
+      "name": "Be Easy",
+      "url": "https://open.spotify.com/track/3w2PO4US2zMxFDxEjWT9yB"
     },
     {
       "added_at": null,
@@ -131,22 +131,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be Easy",
-        "url": "https://open.spotify.com/album/5colQfMZet7a2Myxiz0XYl"
+        "name": "Love is the New Gangsta",
+        "url": "https://open.spotify.com/album/0P7rfrcXTzQwUR9q1nTDpq"
       },
       "artists": [
         {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
         },
         {
-          "name": "brazy",
-          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 132052,
-      "name": "Be Easy",
-      "url": "https://open.spotify.com/track/3w2PO4US2zMxFDxEjWT9yB"
+      "duration_ms": 182173,
+      "name": "On Me (with Odeal)",
+      "url": "https://open.spotify.com/track/6JoEoLh7ZS7Yx2DTnaPA9A"
     },
     {
       "added_at": null,

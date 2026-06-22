@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-2,254 songs - 5 day 0 hr 4 min
+2,259 songs - 5 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -846,6 +846,7 @@
 | [Horizon Calling](https://open.spotify.com/track/4BxnqtvpIgaNRGETVxwQJh) | [Max Hixon](https://open.spotify.com/artist/6re1c6RENl1HLndE5iiUHM) | [Horizon Calling](https://open.spotify.com/album/2fuVAKErh5r9qOkhJ4u04N) | 2:17 | 2026-02-10 | 2026-03-14 |
 | [Hot Like a Fever](https://open.spotify.com/track/5n6lG0jqYUUFxe70tMd0vL) | [Irfad](https://open.spotify.com/artist/2bdTySHQu8orEocLZwMy89), [Christine Turcel](https://open.spotify.com/artist/69HQQ9caNrCVO6ZlLoyvWa) | [Hot Like a Fever](https://open.spotify.com/album/3TamlSCf5k4i0osEXEhs9f) | 2:16 | 2026-02-23 | 2026-03-26 |
 | [Hotter Than The Sun](https://open.spotify.com/track/0218GYIU4DdTX23JvCMfkP) | [Bunny Jams](https://open.spotify.com/artist/488DYAjhAb5SntgD76IXCT) | [Hotter Than The Sun](https://open.spotify.com/album/45m5mtbLFUIhLYzAEmcBtV) | 3:39 | 2026-05-23 |  |
+| [House 41](https://open.spotify.com/track/0PVk5xtfWyynvOGybZrn3p) | [Lana Savva](https://open.spotify.com/artist/1Fu2fU9bYJmpcLT0RSZe5S) | [House 41](https://open.spotify.com/album/6QXHbkSBTKSw5uXfFeQ0hF) | 2:57 | 2026-06-21 |  |
 | [How Could You?](https://open.spotify.com/track/4DXtPj5ranNAqlKRTWp88M) | [Cody Rose](https://open.spotify.com/artist/3wMDceiSqnOM5M4E4CpIs2) | [How Could You?](https://open.spotify.com/album/1G1pE9f8iDOfPdnJkeFNaY) | 1:55 | 2026-03-18 | 2026-04-19 |
 | [How Long ?](https://open.spotify.com/track/2f5gcWen1oos50g2yA5jYI) | [Ketan Shah](https://open.spotify.com/artist/4I3NAsMT2ReFdGiioOYRhn) | [How Long ?](https://open.spotify.com/album/4Om7NEL93XDC5dtqgfr1IM) | 2:50 | 2025-12-01 | 2026-01-04 |
 | [How Long is Forever?](https://open.spotify.com/track/0DH9JgnOSI89wzYeakDmCl) | [bullet 7](https://open.spotify.com/artist/6GCn8WZKbolndTfM4rxNJf) | [Just](https://open.spotify.com/album/1cQwFh0glcxrFd8npwHx04) | 2:50 | 2026-04-13 | 2026-05-14 |
@@ -903,6 +904,7 @@
 | [I Want You Back](https://open.spotify.com/track/7q4Iqyw5CAs1aNKDpoIPrn) | [Max Cooper III](https://open.spotify.com/artist/5VwbADUdH8ryktypdkpX06) | [I Want You Back](https://open.spotify.com/album/1aiRCxVwHHvX14A8RtAD2D) | 1:40 | 2026-04-01 | 2026-05-03 |
 | [I Want You Out \- Radio Mix](https://open.spotify.com/track/0AqssRB9ZFoYpGModIxESk) | [Mark Vdh](https://open.spotify.com/artist/2lUhgurKH7B0YDOAtRkglH) | [Electricity](https://open.spotify.com/album/0E2fO3pNU0X5lV8CLuz2zG) | 3:34 | 2026-02-27 | 2026-03-30 |
 | [I wanted](https://open.spotify.com/track/00uhWcafPeG9td57ELnrtk) | [JsSenor](https://open.spotify.com/artist/5yVsxZ7i7YcnR5k7mBtzX9), [slicemeopen](https://open.spotify.com/artist/6Qbi4TEboezr2t7xUeHK82) | [I wanted](https://open.spotify.com/album/5i9G7y4sdhb1c2uqn1inst) | 2:37 | 2026-05-05 | 2026-06-06 |
+| [I Will Get You Back](https://open.spotify.com/track/439qtP7PF3UVQzG3r5DCvh) | [Hammi](https://open.spotify.com/artist/2BsuUgGGLuPBUTHWTLVTRV) | [I Will Get You Back](https://open.spotify.com/album/7bEQ22glSpTEQGbLIzsQip) | 2:13 | 2026-06-21 |  |
 | [I Will Love You from a Distance](https://open.spotify.com/track/0PepuaiCDgj52qytX7cH8T) | [Melissa Corpus](https://open.spotify.com/artist/0gju7dDWpRtQTmqAl8IH5x) | [I Will Love You from a Distance](https://open.spotify.com/album/5M0PDpmBP3Y1qAo1Fs69ue) | 3:46 | 2025-10-26 | 2025-11-29 |
 | [I will never forget](https://open.spotify.com/track/3SI7BdxfjX2Dwrnc2i6eGb) | [Earthplane Music](https://open.spotify.com/artist/2xuFZssbgQwT3YGrfMFk7Q) | [I will never forget](https://open.spotify.com/album/70mOCEPVf0rgQ1mbL3jRAr) | 2:44 | 2026-04-14 | 2026-05-16 |
 | [I Will Survive](https://open.spotify.com/track/2ntUrJmw1Vsvv342JF9HAj) | [Lonely wanderer](https://open.spotify.com/artist/7oZKXbKzbYSqj49riynY8v) | [I Will Survive](https://open.spotify.com/album/5c0tOfj6Kj7kjHz4cZ5CCo) | 3:04 | 2026-03-02 | 2026-04-03 |
@@ -1531,6 +1533,7 @@
 | [Quicksand](https://open.spotify.com/track/3CxT45809GBw4jySWiLaT1) | [Rob Eagle](https://open.spotify.com/artist/0upr30EAkB5LiAXpd8zvci) | [Quicksand](https://open.spotify.com/album/152tI0hRokfBJAnvnPa32U) | 2:57 | 2026-06-16 |  |
 | [Quiet Gravity](https://open.spotify.com/track/6ObIRXR4rhHpRBexO43aqq) | [Daniel Page](https://open.spotify.com/artist/6GvTDTYAruHYlweHng8W4j) | [Quiet Gravity](https://open.spotify.com/album/1wXxdveZn0GCVBOtrfIGuF) | 2:23 | 2026-04-03 | 2026-05-05 |
 | [Quiet Saloon](https://open.spotify.com/track/2aKqg2MIauQD7F4xbq4RRU) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Quiet Saloon](https://open.spotify.com/album/2meMt3MT71KqnIDpNLYLqB) | 3:06 | 2026-03-27 | 2026-04-28 |
+| [QUIET SCREAMS](https://open.spotify.com/track/5BuyjspqP2pvg5kYhsRuw0) | [PMLX.wav](https://open.spotify.com/artist/4B8ZckuBWubz7uBffNXkVs) | [NO WAY OUT : THE STATIC FADES](https://open.spotify.com/album/5HE2xYodA5f3g6MIye5ugi) | 2:45 | 2026-06-21 |  |
 | [Quiet Storm](https://open.spotify.com/track/6I2JMiZxZv128So3kw8g8u) | [Milo Sol](https://open.spotify.com/artist/6sIIdbOU8d3sXoeTPHPUd0) | [Quiet Storm](https://open.spotify.com/album/2bjH9VolULhSYJ8YHkxrsb) | 2:42 | 2025-11-26 | 2025-12-28 |
 | [r u fr?](https://open.spotify.com/track/76CQejYX2vXmFB9qyH1e90) | [rovakkuma](https://open.spotify.com/artist/18IDQlNdWJzvfG970Bt7S6) | [r u fr?](https://open.spotify.com/album/48kX5u4gXdmiLPyOOd6YHN) | 1:56 | 2026-06-17 |  |
 | [Rabeta](https://open.spotify.com/track/0eYDexzW0uvWbyegrINIR2) | [Lapo Underground](https://open.spotify.com/artist/0AOyBItnipeQRGCPmlvGpA), [T SOUL T](https://open.spotify.com/artist/0MDtj0rHU4JY9YJxWbAbvQ) | [Global Disciple, Vol\. 1](https://open.spotify.com/album/2ii8Aewl3b33hs25Hsbkc4) | 5:45 | 2026-04-02 | 2026-05-04 |
@@ -1607,6 +1610,7 @@
 | [Rollercoaster \(Life Is A Rollercoaster\)](https://open.spotify.com/track/7rp1lXXfooQnfaQMhicOhR) | [Anything's Possible](https://open.spotify.com/artist/3OkhoxcppuzK4bJswS2aZX) | [Rollercoaster \(Life Is A Rollercoaster\)](https://open.spotify.com/album/4mjaOkc5BcPOfDewUkK5Xq) | 3:42 | 2025-10-04 |  |
 | [Roma](https://open.spotify.com/track/5UFMhB0iMZ9IRZnXVtE9uJ) | [Pedro Santos Oliveira](https://open.spotify.com/artist/6ipu3U0iZEkAiULeIr8JCQ) | [Roma](https://open.spotify.com/album/28GEpbSVfkg6AripcKvexZ) | 2:47 | 2026-02-24 | 2026-03-27 |
 | [Romantic Choreography](https://open.spotify.com/track/3RoCKWmYt6DGqSl03B4DsG) | [Harin](https://open.spotify.com/artist/1k5u6Rxiv1jHA7LqPrCrW1), [LostBoy Music](https://open.spotify.com/artist/4wiRvxEnApfm2sHy3a2kEX) | [Romantic Choreography](https://open.spotify.com/album/0aSiXoRA08PiPxdOxKNK7i) | 2:35 | 2026-04-10 | 2026-05-12 |
+| [Rotten Branches](https://open.spotify.com/track/4rIVbfsYgxcoDafEnPA0a4) | [Ariel Corinne](https://open.spotify.com/artist/2tgtYtYfuB1XiYygooiWle) | [Love Death and Worms](https://open.spotify.com/album/2EasSth9XZkxYQd4LxgbGU) | 2:49 | 2026-06-21 |  |
 | [rreeaasssuurraannccee](https://open.spotify.com/track/7bfKOCRcb1OR73KzgBbB6m) | [SIXCENTSOIXANTESIX](https://open.spotify.com/artist/5TWofz8Jgy56UgWfHHQ75t) | [rreeaasssuurraannccee](https://open.spotify.com/album/6AqXvSwoAa15p1DegZyEam) | 1:41 | 2026-03-04 | 2026-04-05 |
 | [Run away](https://open.spotify.com/track/3MMWYNw86r00wkk7smvoM1) | [AILEX](https://open.spotify.com/artist/74xdDdsFQZWsje0e2840Y7) | [Run away](https://open.spotify.com/album/2rsLIZcRDk7G3B6UIEtt6M) | 2:48 | 2026-04-09 | 2026-05-10 |
 | [Runaway](https://open.spotify.com/track/0rFjpX07MhLQGJmhbxRBTY) | [Basement](https://open.spotify.com/artist/3AJMnPzFJc7MIbaaajhqJw) | [Runaway](https://open.spotify.com/album/3yc2fIlGcF0Cu2jEmX3HIC) | 2:35 | 2026-03-21 | 2026-04-22 |
@@ -2014,6 +2018,7 @@
 | [Trochilidae](https://open.spotify.com/track/11UZ50Oeg3WIcU5jpXQlbO) | [Alucuo](https://open.spotify.com/artist/6Prfi240kavl9FH0KZb0VE) | [Trochilidae](https://open.spotify.com/album/3Rq94kfHgxnkB7jJo9y75E) | 8:53 | 2025-11-21 | 2025-12-22 |
 | [Tropical Freak](https://open.spotify.com/track/60t44DquyB0lnTTSwm3NIY) | [Gaiatech](https://open.spotify.com/artist/5mRwmWFJaLGhSEQpvYDclR) | [Tropical Freak](https://open.spotify.com/album/2v6iWNgaKueiriFWZAA3uR) | 5:33 | 2025-12-02 | 2026-01-04 |
 | [Trouble](https://open.spotify.com/track/0kWCZGu4zyza0KEpkFfZl5) | [Sneeky](https://open.spotify.com/artist/6XyLeD1KALVhSBG7wJGY5n) | [Trouble](https://open.spotify.com/album/6ewqAVzfQjwl4ZsMPGl79C) | 4:07 | 2026-03-01 | 2026-04-02 |
+| [True Face](https://open.spotify.com/track/53oOsNfjYHJRXOuyACPIZv) | [Fred Gump](https://open.spotify.com/artist/7mcQJCD9o4tq8Z4W5W68IW), [Yannick Fortin](https://open.spotify.com/artist/5G5JyYkFdvy7EscTnNhIDA) | [True Face](https://open.spotify.com/album/1XFW1A5NpOIyyoXm83jHoo) | 2:43 | 2026-06-21 |  |
 | [Trust your light](https://open.spotify.com/track/32HkxQwRLlHeOObWb1sZpk) | [TwoNames](https://open.spotify.com/artist/2NVBsCklQDkpTijPfqqlLI) | [Trust your light](https://open.spotify.com/album/2Lt5jvum82KtNsrDGGKiwJ) | 4:59 | 2025-12-17 | 2026-01-18 |
 | [Try](https://open.spotify.com/track/5cYA17uhwfFZhW32gPYhMm) | [Salasnich](https://open.spotify.com/artist/3AGYevFLXCIrY67MwyAjW2), [NICH \(T\)](https://open.spotify.com/artist/0ba1U7Kn9lLmGN3kR7aCKi) | [Rugiada EP](https://open.spotify.com/album/0PbKBUySxq2hXJTDUnZgZB) | 3:09 | 2025-12-03 | 2026-01-04 |
 | [Try Again](https://open.spotify.com/track/7zZH4I44iimTISzvkvZHmQ) | [CR0WN](https://open.spotify.com/artist/4t4Eu8jCaR3osTxu4hIGjV) | [Try Again](https://open.spotify.com/album/2qZpY5vs73qZj1HkHfU6kf) | 3:28 | 2026-05-11 | 2026-06-12 |

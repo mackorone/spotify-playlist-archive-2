@@ -1088,7 +1088,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 246442,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/6KAA7BldTJgqfPv5pvqhqj"
@@ -1921,6 +1921,24 @@
     },
     {
       "album": {
+        "name": "Falling Into You",
+        "url": "https://open.spotify.com/album/6hWLgDm2uTHtAZf17mVmmk"
+      },
+      "artists": [
+        {
+          "name": "Tadpole",
+          "url": "https://open.spotify.com/artist/2wkVc2BHIFZbfKtUFjFW1Q"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223400,
+      "name": "Falling Into You",
+      "url": "https://open.spotify.com/track/32CLNdivGU30Tw5XdjJLiZ"
+    },
+    {
+      "album": {
         "name": "FEEL GOOD AURA",
         "url": "https://open.spotify.com/album/3T6oSRejjNgNcuoq4vd0nz"
       },
@@ -2262,7 +2280,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 189906,
       "name": "Gold Things",
       "url": "https://open.spotify.com/track/3wH727bYhimLg5cCL9ZCy7"
@@ -2422,6 +2440,24 @@
       "duration_ms": 161559,
       "name": "Handyman.",
       "url": "https://open.spotify.com/track/1xd2siUNv5buHMILOQZeRB"
+    },
+    {
+      "album": {
+        "name": "Happy Waste",
+        "url": "https://open.spotify.com/album/7KvscCbnsZyvmlGmALGep6"
+      },
+      "artists": [
+        {
+          "name": "Villainy",
+          "url": "https://open.spotify.com/artist/3TGyAB5Aa7rjP6roX8eSHe"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200333,
+      "name": "Happy Waste",
+      "url": "https://open.spotify.com/track/6cHXjkTINW4YyMt2xouVdr"
     },
     {
       "album": {

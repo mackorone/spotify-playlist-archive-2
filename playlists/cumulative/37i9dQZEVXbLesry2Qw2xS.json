@@ -1886,7 +1886,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-26",
+      "date_removed": null,
       "duration_ms": 270853,
       "name": "Ainult unustamiseks",
       "url": "https://open.spotify.com/track/7KLuj2JJaEnnO6ldrwPSw2"
@@ -3480,7 +3480,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-12",
+      "date_removed": null,
       "duration_ms": 232200,
       "name": "Armastan ma luuserit",
       "url": "https://open.spotify.com/track/5rjbaNNIAMTulWMipobmHh"
@@ -4288,7 +4288,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -8607,6 +8607,24 @@
     },
     {
       "album": {
+        "name": "Caf\u00e9 Kosmos",
+        "url": "https://open.spotify.com/album/7reljBD6EMySEyDG74r2bQ"
+      },
+      "artists": [
+        {
+          "name": "nublu",
+          "url": "https://open.spotify.com/artist/2cNMMulo6S2a0tHrwX2s6i"
+        }
+      ],
+      "date_added": "2026-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163276,
+      "name": "Chiri Biri Binn",
+      "url": "https://open.spotify.com/track/3uKvL9ZSerdmQsuVd5yerY"
+    },
+    {
+      "album": {
         "name": "ATE",
         "url": "https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY"
       },
@@ -10510,7 +10528,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-12",
+      "date_removed": null,
       "duration_ms": 198773,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
@@ -13620,7 +13638,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -21618,7 +21636,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 214400,
       "name": "hugo toom",
       "url": "https://open.spotify.com/track/47GAYk6gq9ZE6Ij9WWYdGP"
@@ -23030,7 +23048,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 177982,
       "name": "ICONIC BY MISTAKE",
       "url": "https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD"
@@ -24698,7 +24716,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 237344,
       "name": "Janice STFU",
       "url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
@@ -27992,7 +28010,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 193250,
       "name": "Lapsed",
       "url": "https://open.spotify.com/track/1Kr6WrEnJrHONnGYw4jSlV"
@@ -30716,7 +30734,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 200646,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
@@ -37686,7 +37704,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 170948,
       "name": "N\u00e4lg",
       "url": "https://open.spotify.com/track/2pCih9J1SLfoYF8KyWKqdE"
@@ -40534,7 +40552,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 147397,
       "name": "peagi saabun...",
       "url": "https://open.spotify.com/track/5qih3ineeZsuEgr5TlyeaZ"
@@ -51266,7 +51284,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 223057,
       "name": "Tamburiin",
       "url": "https://open.spotify.com/track/3TKhfQOOHtA7QNtoju4cXn"

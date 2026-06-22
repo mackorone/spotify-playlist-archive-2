@@ -1,6 +1,6 @@
 {
   "description": "The soundtrack to lazing around.",
-  "num_followers": 96873,
+  "num_followers": 96883,
   "original_name": "Lazy Afternoon",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-05-12 22:07:33",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 198200,
-      "name": "Life Will Be",
-      "url": "https://open.spotify.com/track/4ZTC6KvnQxloiwmT0Yhypy"
-    },
-    {
-      "added_at": "2026-05-12 22:07:33",
-      "album": {
         "name": "Hell N Back (feat. Summer Walker)",
         "url": "https://open.spotify.com/album/4LVNTAzkG26XlODcRP0v4b"
       },
@@ -383,6 +367,22 @@
     {
       "added_at": "2026-05-12 22:07:33",
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 198200,
+      "name": "Life Will Be",
+      "url": "https://open.spotify.com/track/4ZTC6KvnQxloiwmT0Yhypy"
+    },
+    {
+      "added_at": "2026-05-12 22:07:33",
+      "album": {
         "name": "Charm",
         "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
       },
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-05-12 22:07:33",
       "album": {
-        "name": "Head Above Water",
-        "url": "https://open.spotify.com/album/6Kbyq3so1qAj2r4d1JDKOy"
-      },
-      "artists": [
-        {
-          "name": "Nectar Woode",
-          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
-        }
-      ],
-      "duration_ms": 221335,
-      "name": "How It's Gotta Be",
-      "url": "https://open.spotify.com/track/4GN2iIuQYXSMi0WJGJF7IL"
-    },
-    {
-      "added_at": "2026-05-12 22:07:33",
-      "album": {
         "name": "Give Me All Your Love",
         "url": "https://open.spotify.com/album/55LA79YNZWAfxpDGla4jcN"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 264124,
       "name": "Day To Night",
       "url": "https://open.spotify.com/track/7rkkFimrRc14aJLN6HMNqp"
+    },
+    {
+      "added_at": "2026-05-12 22:07:33",
+      "album": {
+        "name": "Head Above Water",
+        "url": "https://open.spotify.com/album/6Kbyq3so1qAj2r4d1JDKOy"
+      },
+      "artists": [
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+        }
+      ],
+      "duration_ms": 221335,
+      "name": "How It's Gotta Be",
+      "url": "https://open.spotify.com/track/4GN2iIuQYXSMi0WJGJF7IL"
     },
     {
       "added_at": "2026-05-12 22:07:33",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-05-12 22:07:33",
       "album": {
-        "name": "picky choosy",
-        "url": "https://open.spotify.com/album/6TD2tnPDc1FltOgEHw0Hpe"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Jordan",
-          "url": "https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs"
-        }
-      ],
-      "duration_ms": 173988,
-      "name": "picky choosy",
-      "url": "https://open.spotify.com/track/3AcYk3jezQA6jc6A64mKw2"
-    },
-    {
-      "added_at": "2026-05-12 22:07:33",
-      "album": {
         "name": "Earthstar Mountain",
         "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 246761,
       "name": "Summer Sweat",
       "url": "https://open.spotify.com/track/22Owv4nARWNLMrMOARWzo7"
+    },
+    {
+      "added_at": "2026-05-12 22:07:33",
+      "album": {
+        "name": "picky choosy",
+        "url": "https://open.spotify.com/album/6TD2tnPDc1FltOgEHw0Hpe"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Jordan",
+          "url": "https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs"
+        }
+      ],
+      "duration_ms": 173988,
+      "name": "picky choosy",
+      "url": "https://open.spotify.com/track/3AcYk3jezQA6jc6A64mKw2"
     },
     {
       "added_at": "2026-05-12 22:07:33",

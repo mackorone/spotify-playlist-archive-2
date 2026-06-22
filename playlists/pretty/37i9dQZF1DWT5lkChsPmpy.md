@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 
 > Lounge and chill out music for your workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,301 likes - 182 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,403 likes - 182 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -191,4 +191,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 | 181 | [See the Beauty](https://open.spotify.com/track/2gRSpqF0lQ9nwSlc6q4bwO) | [Sean Rivers](https://open.spotify.com/artist/7k8ThbMOx8Qg3rtkMEUI7R) | [See the Beauty](https://open.spotify.com/album/78Zs69JN497YCIBk63y7F7) | 2:34 |
 | 182 | [Jungle Peace](https://open.spotify.com/track/3dVNvhYzMqAyMa44MUFDgC) | [Lou Kil](https://open.spotify.com/artist/1vxHeyltNjjNC7OSS573mh) | [Jungle Peace](https://open.spotify.com/album/5DNPowJ6Lpn8SEbNyeUCRL) | 2:08 |
 
-Snapshot ID: `AAAAAFKui7qTjj/Ytkseoaf4vzf6SFak`
+Snapshot ID: `AAAAAEHhrcNaOm8xdCMBn9aspu8jLH4G`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdziGPHNE40t.md) - [plain]
 
 > start your day right ☕️ wake up with some warm and slow Jazz
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,035 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,062 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdziGPHNE40t.md) - [plain]
 | 74 | [Mirabelle](https://open.spotify.com/track/5ZZUajubKFkpNW9eI8pedD) | [Isac Solo Trio](https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN) | [Mirabelle](https://open.spotify.com/album/6svrhdbZqSWr6lUuoF16nV) | 3:42 |
 | 75 | [Feel like grooving](https://open.spotify.com/track/2Srua18ww8YtO5lRgKFDJW) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Feel like grooving](https://open.spotify.com/album/2pNR5608pndzL9cDGE7Jfj) | 3:43 |
 
-Snapshot ID: `AAAAAJQeobc5D9Nlu8hOvo5wNP03Fs7m`
+Snapshot ID: `AAAAACvnNNSHon5Rv1PTaYClkUgLdndD`

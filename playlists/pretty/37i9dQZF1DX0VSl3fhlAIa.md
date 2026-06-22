@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VSl3fhlAIa.md) - [plain]
 
 > Japanese R&B flowing with the graceful smoothness and radiant sheen of a silk kimono.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,880 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,905 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VSl3fhlAIa.md) - [plain]
 | 41 | [Slow brew morning](https://open.spotify.com/track/3cTHSRJq34IYP3uadM3UGb) | [佐久間龍星](https://open.spotify.com/artist/5knUYLel4ycC38VJKvMCSm) | [Slow brew morning](https://open.spotify.com/album/6HfItavipVgNp1zCSbpBrv) | 2:42 |
 | 42 | [no pride](https://open.spotify.com/track/1Wy8HDBwISAY6l97Pm1I9X) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn) | [When was that](https://open.spotify.com/album/3ZQiUTHlL1t3v4tPoQ52PB) | 2:46 |
 | 43 | [I'll be there](https://open.spotify.com/track/45wOY8aMv3FgERrGaFxWOd) | [Tina](https://open.spotify.com/artist/72HxMCdKQmPgS3r5OtC01L) | [Colorado](https://open.spotify.com/album/7D3tX9U9qzmr0HOiU3GlB7) | 5:46 |
-| 44 | [Chosen One](https://open.spotify.com/track/4VZJyx96dNBeRAZnUyNfrB) | [aimi](https://open.spotify.com/artist/4YejPGH3QAUl4dj1ZZk6e7) | [Chosen One](https://open.spotify.com/album/1zamcgFy1aMew8FQBVUS31) | 2:31 |
-| 45 | [Anytime](https://open.spotify.com/track/4Yplq7B18jCFSyIHGDnbEq) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [ALL YOURS](https://open.spotify.com/album/5caA9xJnnyArusGKB0GsbP) | 4:40 |
+| 44 | [Anytime](https://open.spotify.com/track/4Yplq7B18jCFSyIHGDnbEq) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [ALL YOURS](https://open.spotify.com/album/5caA9xJnnyArusGKB0GsbP) | 4:40 |
+| 45 | [Chosen One](https://open.spotify.com/track/4VZJyx96dNBeRAZnUyNfrB) | [aimi](https://open.spotify.com/artist/4YejPGH3QAUl4dj1ZZk6e7) | [Chosen One](https://open.spotify.com/album/1zamcgFy1aMew8FQBVUS31) | 2:31 |
 | 46 | [GET UP!](https://open.spotify.com/track/6BNAZp8Q2EcAQioytug0mg) | [SOULHEAD](https://open.spotify.com/artist/23XPnlp8nAIDjGf7S9ap3I) | [BRAIDED](https://open.spotify.com/album/1JybQHCd0xADI7rG8QlqgH) | 4:14 |
 | 47 | [BED \(DOUBLES\)](https://open.spotify.com/track/5AhAbUiIlGP6Cp4Lq6rigR) | [Double](https://open.spotify.com/artist/17R4EPcqqyTa84kesDmNGq) | [Crystal](https://open.spotify.com/album/3QFHFLCxtePvkDaObgDCgc) | 5:21 |
 | 48 | [Burn](https://open.spotify.com/track/2QQDuGzMpNX0hfMCZLqXGP) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [NICO](https://open.spotify.com/album/7hEUaGpVKEw5HA5XLCVj2U) | 2:49 |

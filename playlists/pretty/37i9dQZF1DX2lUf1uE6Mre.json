@@ -1,6 +1,6 @@
 {
   "description": "Die Playlist zur Wasserpfeife. Cover: RAF Camora",
-  "num_followers": 911780,
+  "num_followers": 911764,
   "original_name": "Shisha Club",
   "owner": {
     "name": "Spotify",
@@ -951,6 +951,26 @@
     {
       "added_at": "2026-06-11 22:00:49",
       "album": {
+        "name": "ICE",
+        "url": "https://open.spotify.com/album/2EZhgvO9ff4pxyfeLp3B0G"
+      },
+      "artists": [
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        },
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "ICE",
+      "url": "https://open.spotify.com/track/2ecao7k4l0ADD4ZANUkQDr"
+    },
+    {
+      "added_at": "2026-06-11 22:00:49",
+      "album": {
         "name": "PIRATE FR\u20ac\u20ac$T\u00a5L\u00a3",
         "url": "https://open.spotify.com/album/1PPrUd92XT9VMU6S6J02YN"
       },
@@ -971,26 +991,6 @@
       "duration_ms": 123675,
       "name": "PIRATE FR\u20ac\u20ac$T\u00a5L\u00a3",
       "url": "https://open.spotify.com/track/1MTM3zSGU0ZLVOoVFHbO3q"
-    },
-    {
-      "added_at": "2026-06-11 22:00:49",
-      "album": {
-        "name": "ICE",
-        "url": "https://open.spotify.com/album/2EZhgvO9ff4pxyfeLp3B0G"
-      },
-      "artists": [
-        {
-          "name": "MERO",
-          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
-        },
-        {
-          "name": "Amo",
-          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "ICE",
-      "url": "https://open.spotify.com/track/2ecao7k4l0ADD4ZANUkQDr"
     },
     {
       "added_at": "2026-06-11 22:00:49",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-06-11 22:00:49",
       "album": {
-        "name": "EL FENOMENO",
-        "url": "https://open.spotify.com/album/6dHMK4DSSmI349lUPXUKkp"
-      },
-      "artists": [
-        {
-          "name": "Summer Cem",
-          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
-        }
-      ],
-      "duration_ms": 113000,
-      "name": "EL FENOMENO",
-      "url": "https://open.spotify.com/track/3GT4AolmOnwDbK3LL57ZXM"
-    },
-    {
-      "added_at": "2026-06-11 22:00:49",
-      "album": {
         "name": "GET LOW",
         "url": "https://open.spotify.com/album/3IJ5WPkhv8yeIrzsX04LbP"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 150500,
       "name": "GET LOW",
       "url": "https://open.spotify.com/track/6qP4Fs2q3PGCxuobxeOdXt"
+    },
+    {
+      "added_at": "2026-06-11 22:00:49",
+      "album": {
+        "name": "EL FENOMENO",
+        "url": "https://open.spotify.com/album/6dHMK4DSSmI349lUPXUKkp"
+      },
+      "artists": [
+        {
+          "name": "Summer Cem",
+          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
+        }
+      ],
+      "duration_ms": 113000,
+      "name": "EL FENOMENO",
+      "url": "https://open.spotify.com/track/3GT4AolmOnwDbK3LL57ZXM"
     },
     {
       "added_at": "2026-06-11 22:00:49",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-06-11 22:00:49",
       "album": {
-        "name": "Familie",
-        "url": "https://open.spotify.com/album/0jCfNl7mqO5nlDi4tS2CvN"
-      },
-      "artists": [
-        {
-          "name": "Ardian Bujupi",
-          "url": "https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9"
-        }
-      ],
-      "duration_ms": 173277,
-      "name": "Familie",
-      "url": "https://open.spotify.com/track/7uDmgnVUcrqvSnqqaT99TM"
-    },
-    {
-      "added_at": "2026-06-11 22:00:49",
-      "album": {
         "name": "ME GUSTA",
         "url": "https://open.spotify.com/album/6Ujq2Cz49wZYpgQ7CQy7cC"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 158000,
       "name": "ME GUSTA",
       "url": "https://open.spotify.com/track/4zxKZC3ekRDXocz4ccdVj5"
+    },
+    {
+      "added_at": "2026-06-11 22:00:49",
+      "album": {
+        "name": "Familie",
+        "url": "https://open.spotify.com/album/0jCfNl7mqO5nlDi4tS2CvN"
+      },
+      "artists": [
+        {
+          "name": "Ardian Bujupi",
+          "url": "https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9"
+        }
+      ],
+      "duration_ms": 173277,
+      "name": "Familie",
+      "url": "https://open.spotify.com/track/7uDmgnVUcrqvSnqqaT99TM"
     },
     {
       "added_at": "2026-06-11 22:00:49",
@@ -1355,22 +1355,6 @@
       "duration_ms": 145339,
       "name": "CCTV",
       "url": "https://open.spotify.com/track/6XKxB2IUKWbTqh8oqCcYLR"
-    },
-    {
-      "added_at": "2026-06-11 22:00:49",
-      "album": {
-        "name": "wya?",
-        "url": "https://open.spotify.com/album/2VI2NMWoqDWzmhbEUAgryS"
-      },
-      "artists": [
-        {
-          "name": "BILLA JOE",
-          "url": "https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6"
-        }
-      ],
-      "duration_ms": 118360,
-      "name": "wya?",
-      "url": "https://open.spotify.com/track/621sv3P9Q1bZsJYqHrZvrS"
     },
     {
       "added_at": "2026-06-11 22:00:49",
@@ -1419,6 +1403,22 @@
       "duration_ms": 143000,
       "name": "TURN ME UP",
       "url": "https://open.spotify.com/track/3r8VSI9LDM04rYpx45dYvz"
+    },
+    {
+      "added_at": "2026-06-11 22:00:49",
+      "album": {
+        "name": "wya?",
+        "url": "https://open.spotify.com/album/2VI2NMWoqDWzmhbEUAgryS"
+      },
+      "artists": [
+        {
+          "name": "BILLA JOE",
+          "url": "https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6"
+        }
+      ],
+      "duration_ms": 118360,
+      "name": "wya?",
+      "url": "https://open.spotify.com/track/621sv3P9Q1bZsJYqHrZvrS"
     },
     {
       "added_at": "2026-06-11 22:00:49",
@@ -1527,26 +1527,6 @@
     {
       "added_at": "2026-06-11 22:00:49",
       "album": {
-        "name": "S\u00dcDDEUTSCHER TRAUM",
-        "url": "https://open.spotify.com/album/63MTsQycsoZruPgxHV5fb8"
-      },
-      "artists": [
-        {
-          "name": "FOURTY",
-          "url": "https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05"
-        },
-        {
-          "name": "Jamule",
-          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
-        }
-      ],
-      "duration_ms": 160527,
-      "name": "DO NOT DISTURB",
-      "url": "https://open.spotify.com/track/2DwcDfz4qgWrj4DhTtSKfb"
-    },
-    {
-      "added_at": "2026-06-11 22:00:49",
-      "album": {
         "name": "Unlock",
         "url": "https://open.spotify.com/album/32AdtNsHkF7EOKUdXZrlla"
       },
@@ -1563,6 +1543,26 @@
       "duration_ms": 164360,
       "name": "Miami",
       "url": "https://open.spotify.com/track/4nBfq4hPT6U8Qs4gAx0mv8"
+    },
+    {
+      "added_at": "2026-06-11 22:00:49",
+      "album": {
+        "name": "S\u00dcDDEUTSCHER TRAUM",
+        "url": "https://open.spotify.com/album/63MTsQycsoZruPgxHV5fb8"
+      },
+      "artists": [
+        {
+          "name": "FOURTY",
+          "url": "https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05"
+        },
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "duration_ms": 160527,
+      "name": "DO NOT DISTURB",
+      "url": "https://open.spotify.com/track/2DwcDfz4qgWrj4DhTtSKfb"
     },
     {
       "added_at": "2026-06-11 22:00:49",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2026-06-11 22:00:49",
       "album": {
-        "name": "Bela",
-        "url": "https://open.spotify.com/album/41rooj0woLx6z05NeHIkaj"
-      },
-      "artists": [
-        {
-          "name": "Ardian Bujupi",
-          "url": "https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9"
-        }
-      ],
-      "duration_ms": 139803,
-      "name": "Bela",
-      "url": "https://open.spotify.com/track/6ECv01XjUdP1of2IRZXg6P"
-    },
-    {
-      "added_at": "2026-06-11 22:00:49",
-      "album": {
         "name": "Tiki Taka",
         "url": "https://open.spotify.com/album/4Rs7tHSyQNfdQWeUsK2rsU"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 149232,
       "name": "Tiki Taka",
       "url": "https://open.spotify.com/track/2jf4kDgON7X0gPbpq0MS35"
+    },
+    {
+      "added_at": "2026-06-11 22:00:49",
+      "album": {
+        "name": "Bela",
+        "url": "https://open.spotify.com/album/41rooj0woLx6z05NeHIkaj"
+      },
+      "artists": [
+        {
+          "name": "Ardian Bujupi",
+          "url": "https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9"
+        }
+      ],
+      "duration_ms": 139803,
+      "name": "Bela",
+      "url": "https://open.spotify.com/track/6ECv01XjUdP1of2IRZXg6P"
     },
     {
       "added_at": "2026-06-11 22:00:49",

@@ -1,6 +1,6 @@
 {
   "description": "Hacele honor al domingo y terminalo bien arriba.",
-  "num_followers": 75614,
+  "num_followers": 75618,
   "original_name": "Antidomingo",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2026-02-04 16:00:35",
       "album": {
-        "name": "Hollywood's Bleeding",
-        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 149546,
-      "name": "Wow.",
-      "url": "https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg"
-    },
-    {
-      "added_at": "2026-02-04 16:00:35",
-      "album": {
         "name": "Cuatro Caminos",
         "url": "https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 267600,
       "name": "Eres",
       "url": "https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI"
+    },
+    {
+      "added_at": "2026-02-04 16:00:35",
+      "album": {
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 149546,
+      "name": "Wow.",
+      "url": "https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg"
     },
     {
       "added_at": "2026-02-04 16:00:35",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-02-04 16:00:35",
       "album": {
-        "name": "Melly vs. Melvin",
-        "url": "https://open.spotify.com/album/5xq6RMHNIBA73qld03dR6V"
-      },
-      "artists": [
-        {
-          "name": "YNW Melly",
-          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
-        }
-      ],
-      "duration_ms": 222997,
-      "name": "Suicidal",
-      "url": "https://open.spotify.com/track/1iSqfoUFnQwV0QW1EfUit8"
-    },
-    {
-      "added_at": "2026-02-04 16:00:35",
-      "album": {
         "name": "Calle 13 (Explicit Version)",
         "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 239306,
       "name": "Atr\u00e9vete-Te-Te",
       "url": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
+    },
+    {
+      "added_at": "2026-02-04 16:00:35",
+      "album": {
+        "name": "Melly vs. Melvin",
+        "url": "https://open.spotify.com/album/5xq6RMHNIBA73qld03dR6V"
+      },
+      "artists": [
+        {
+          "name": "YNW Melly",
+          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
+        }
+      ],
+      "duration_ms": 222997,
+      "name": "Suicidal",
+      "url": "https://open.spotify.com/track/1iSqfoUFnQwV0QW1EfUit8"
     },
     {
       "added_at": "2026-02-04 16:00:35",
@@ -683,6 +683,22 @@
     {
       "added_at": "2026-02-04 16:00:35",
       "album": {
+        "name": "El Ritmo Mundial",
+        "url": "https://open.spotify.com/album/4jrl8361FYPSK2gdEEKATh"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 279986,
+      "name": "Vasos Vac\u00edos - Remasterizado 2008",
+      "url": "https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK"
+    },
+    {
+      "added_at": "2026-02-04 16:00:35",
+      "album": {
         "name": "So Much Fun",
         "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 193026,
       "name": "Hot (feat. Gunna)",
       "url": "https://open.spotify.com/track/5Z8HZM6iQMhhqyPcCGY5g9"
-    },
-    {
-      "added_at": "2026-02-04 16:00:35",
-      "album": {
-        "name": "El Ritmo Mundial",
-        "url": "https://open.spotify.com/album/4jrl8361FYPSK2gdEEKATh"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 279986,
-      "name": "Vasos Vac\u00edos - Remasterizado 2008",
-      "url": "https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK"
     },
     {
       "added_at": "2026-02-04 16:00:35",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2026-02-04 16:00:35",
       "album": {
+        "name": "TRES PUNTOS SUSPENSIVOS",
+        "url": "https://open.spotify.com/album/3uogbVO1vXh4OZ7FQpnmuJ"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 173913,
+      "name": "ALMA DINAMITA",
+      "url": "https://open.spotify.com/track/2ONADYjJvqYVwjWavuY0H1"
+    },
+    {
+      "added_at": "2026-02-04 16:00:35",
+      "album": {
         "name": "JACKBOYS",
         "url": "https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 244760,
       "name": "GANG GANG",
       "url": "https://open.spotify.com/track/6uJONCdr2rC65BNmCnTBWK"
-    },
-    {
-      "added_at": "2026-02-04 16:00:35",
-      "album": {
-        "name": "TRES PUNTOS SUSPENSIVOS",
-        "url": "https://open.spotify.com/album/3uogbVO1vXh4OZ7FQpnmuJ"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 173913,
-      "name": "ALMA DINAMITA",
-      "url": "https://open.spotify.com/track/2ONADYjJvqYVwjWavuY0H1"
     },
     {
       "added_at": "2026-02-04 16:00:35",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-02-04 16:00:35",
       "album": {
-        "name": "Especial",
-        "url": "https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E"
-      },
-      "artists": [
-        {
-          "name": "Viejas Locas",
-          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
-        }
-      ],
-      "duration_ms": 248693,
-      "name": "\u00bfQu\u00e9 Vas A Hacer Tan Sola Hoy?",
-      "url": "https://open.spotify.com/track/2wH2ZanAfGj9REJSbC4nIQ"
-    },
-    {
-      "added_at": "2026-02-04 16:00:35",
-      "album": {
         "name": "CARAVANA",
         "url": "https://open.spotify.com/album/7L6gLnSJBTU0tOneX0Ol91"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 176394,
       "name": "MEL\u00d3N VINO",
       "url": "https://open.spotify.com/track/5uHAzGa4d9j35DEbhUwGhi"
+    },
+    {
+      "added_at": "2026-02-04 16:00:35",
+      "album": {
+        "name": "Especial",
+        "url": "https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E"
+      },
+      "artists": [
+        {
+          "name": "Viejas Locas",
+          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+        }
+      ],
+      "duration_ms": 248693,
+      "name": "\u00bfQu\u00e9 Vas A Hacer Tan Sola Hoy?",
+      "url": "https://open.spotify.com/track/2wH2ZanAfGj9REJSbC4nIQ"
     },
     {
       "added_at": "2026-02-04 16:00:35",

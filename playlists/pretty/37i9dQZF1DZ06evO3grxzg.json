@@ -1,12 +1,12 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 235217,
+  "num_followers": 235205,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAAD4ZfzLXiPAfh05i/m2Sbr+",
+  "snapshot_id": "ajXYAAAAAAD1DygIivYbL7ItXs4yDvVs",
   "tracks": [
     {
       "added_at": null,
@@ -427,26 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atrevete A So\u00f1ar (Original Sountrack)",
-        "url": "https://open.spotify.com/album/2xxdR4FrSukKWJ18NuKfgu"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        },
-        {
-          "name": "Las Populares",
-          "url": "https://open.spotify.com/artist/2DUNKEtgbgyBJA7TdX3bcX"
-        }
-      ],
-      "duration_ms": 184906,
-      "name": "Es Mejor",
-      "url": "https://open.spotify.com/track/6qkkJK72CeO1SQ17WnHNdk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mientras Me Enamoras",
         "url": "https://open.spotify.com/album/1dM6TuQuv0TRWLHbooLxTn"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 209824,
       "name": "Mientras Me Enamoras",
       "url": "https://open.spotify.com/track/3PzZNV9AANQ1VFs80IHOEx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Atrevete A So\u00f1ar (Original Sountrack)",
+        "url": "https://open.spotify.com/album/2xxdR4FrSukKWJ18NuKfgu"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Las Populares",
+          "url": "https://open.spotify.com/artist/2DUNKEtgbgyBJA7TdX3bcX"
+        }
+      ],
+      "duration_ms": 184906,
+      "name": "Es Mejor",
+      "url": "https://open.spotify.com/track/6qkkJK72CeO1SQ17WnHNdk"
     },
     {
       "added_at": null,
@@ -775,86 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Romper La Pi\u00f1ata",
-        "url": "https://open.spotify.com/album/3GNl89v4dDBIoH91sXvazf"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 208133,
-      "name": "Chiquita Pero Picosa - Versi\u00f3n Pop",
-      "url": "https://open.spotify.com/track/1Y6p6wf7CSisJGw4ijUNTF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amy La Ni\u00f1a De La Mochila Azul Vol.1",
-        "url": "https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 171573,
-      "name": "Una Se\u00f1al",
-      "url": "https://open.spotify.com/track/6AlesNEra3COtQsAvGD8Rp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pop para los peques",
-        "url": "https://open.spotify.com/album/1ReWDCoZ2nzYT2lbxxSjyb"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 190586,
-      "name": "Mar\u00eda Belem",
-      "url": "https://open.spotify.com/track/4zh6vIBEH8GQpOphzEnH09"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AmyLla Ni\u00f1a De La Mochila Azul Vol.2",
-        "url": "https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 187906,
-      "name": "El Cielo En Brazos De Pap\u00e1",
-      "url": "https://open.spotify.com/track/20vs9G7JnvqkMrzpm8jZQx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Romper La Pi\u00f1ata",
-        "url": "https://open.spotify.com/album/3GNl89v4dDBIoH91sXvazf"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 242906,
-      "name": "Late Mi Coraz\u00f3n - Version Pop",
-      "url": "https://open.spotify.com/track/1445hOsDuFX6aVKfvBtWgi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para Despertar: Reggaeton",
         "url": "https://open.spotify.com/album/4zE5Cz09g8ZMcuLCbbOI4A"
       },
@@ -875,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Despu\u00e9s de mucho de no hablar",
-        "url": "https://open.spotify.com/album/7uyEeszHdWmBA7G6EhHaGF"
+        "name": "Amy La Ni\u00f1a De La Mochila Azul Vol.1",
+        "url": "https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw"
       },
       "artists": [
         {
@@ -884,25 +804,9 @@
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 157666,
-      "name": "Esa Es Mi Mamita Linda",
-      "url": "https://open.spotify.com/track/11n0fDc4ju3oxVLlYqgTtL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AmyLla Ni\u00f1a De La Mochila Azul Vol.2",
-        "url": "https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 177786,
-      "name": "\u00bfQue Se Sentir\u00e1 Tener Mam\u00e1?",
-      "url": "https://open.spotify.com/track/4ecnJhOVl6PTm351CJmSrZ"
+      "duration_ms": 171573,
+      "name": "Una Se\u00f1al",
+      "url": "https://open.spotify.com/track/6AlesNEra3COtQsAvGD8Rp"
     },
     {
       "added_at": null,
@@ -916,9 +820,41 @@
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 165613,
-      "name": "Pablo Y Andrea",
-      "url": "https://open.spotify.com/track/7q0iEiiHZgofj5gzkXmHkG"
+      "duration_ms": 208133,
+      "name": "Chiquita Pero Picosa - Versi\u00f3n Pop",
+      "url": "https://open.spotify.com/track/1Y6p6wf7CSisJGw4ijUNTF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AmyLla Ni\u00f1a De La Mochila Azul Vol.2",
+        "url": "https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 187906,
+      "name": "El Cielo En Brazos De Pap\u00e1",
+      "url": "https://open.spotify.com/track/20vs9G7JnvqkMrzpm8jZQx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pop para los peques",
+        "url": "https://open.spotify.com/album/1ReWDCoZ2nzYT2lbxxSjyb"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 190586,
+      "name": "Mar\u00eda Belem",
+      "url": "https://open.spotify.com/track/4zh6vIBEH8GQpOphzEnH09"
     },
     {
       "added_at": null,
@@ -943,6 +879,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Romper La Pi\u00f1ata",
+        "url": "https://open.spotify.com/album/3GNl89v4dDBIoH91sXvazf"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 242906,
+      "name": "Late Mi Coraz\u00f3n - Version Pop",
+      "url": "https://open.spotify.com/track/1445hOsDuFX6aVKfvBtWgi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AmyLla Ni\u00f1a De La Mochila Azul Vol.2",
+        "url": "https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 177786,
+      "name": "\u00bfQue Se Sentir\u00e1 Tener Mam\u00e1?",
+      "url": "https://open.spotify.com/track/4ecnJhOVl6PTm351CJmSrZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Despu\u00e9s de mucho de no hablar",
+        "url": "https://open.spotify.com/album/7uyEeszHdWmBA7G6EhHaGF"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 157666,
+      "name": "Esa Es Mi Mamita Linda",
+      "url": "https://open.spotify.com/track/11n0fDc4ju3oxVLlYqgTtL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La M\u00fasica y las Mujeres",
         "url": "https://open.spotify.com/album/74SChGBL5GpfKvYggjW7I5"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 149589,
       "name": "tqum - Remix",
       "url": "https://open.spotify.com/track/3bZkRGbE7hvtfnlXpsxQLz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Romper La Pi\u00f1ata",
+        "url": "https://open.spotify.com/album/3GNl89v4dDBIoH91sXvazf"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 165613,
+      "name": "Pablo Y Andrea",
+      "url": "https://open.spotify.com/track/7q0iEiiHZgofj5gzkXmHkG"
     },
     {
       "added_at": null,

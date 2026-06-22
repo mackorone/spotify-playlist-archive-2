@@ -1,12 +1,12 @@
 {
   "description": "This is Edith M\u00e1rquez. The essential tracks, all in one playlist.",
-  "num_followers": 86591,
+  "num_followers": 86590,
   "original_name": "This Is Edith M\u00e1rquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAAAhOirUgESV7e3U4Y9Nad2a",
+  "snapshot_id": "ajXYAAAAAAC0wltpBf8MucJkjkXGQ73S",
   "tracks": [
     {
       "added_at": null,
@@ -603,18 +603,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Extrav\u00edate",
-        "url": "https://open.spotify.com/album/75JrKLDJ5vzb6OUu9baNTb"
+        "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 1",
+        "url": "https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT"
       },
       "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        },
         {
           "name": "Edith M\u00e1rquez",
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 262933,
-      "name": "Mi nombre",
-      "url": "https://open.spotify.com/track/6OE87tPl4AIuvRlrtuwrea"
+      "duration_ms": 255186,
+      "name": "El Amor Acaba (with Edith M\u00e1rquez)",
+      "url": "https://open.spotify.com/track/4IYvp8uYQ9Kgt1pW5YEwUS"
     },
     {
       "added_at": null,
@@ -635,22 +639,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 1",
-        "url": "https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT"
+        "name": "Extrav\u00edate",
+        "url": "https://open.spotify.com/album/75JrKLDJ5vzb6OUu9baNTb"
       },
       "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        },
         {
           "name": "Edith M\u00e1rquez",
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 255186,
-      "name": "El Amor Acaba (with Edith M\u00e1rquez)",
-      "url": "https://open.spotify.com/track/4IYvp8uYQ9Kgt1pW5YEwUS"
+      "duration_ms": 262933,
+      "name": "Mi nombre",
+      "url": "https://open.spotify.com/track/6OE87tPl4AIuvRlrtuwrea"
     },
     {
       "added_at": null,
@@ -771,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Frente a Frente",
+        "url": "https://open.spotify.com/album/1BmXobAOtNbMo53baZ5Nsz"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 189400,
+      "name": "Extrav\u00edate",
+      "url": "https://open.spotify.com/track/0sxH4AbYYqRjA3KdZuIc6Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Frente a ti",
         "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 254053,
       "name": "Adoro",
       "url": "https://open.spotify.com/track/6kD9AsQ2mdGUu5DWM7l48u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Frente a Frente",
-        "url": "https://open.spotify.com/album/1BmXobAOtNbMo53baZ5Nsz"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 189400,
-      "name": "Extrav\u00edate",
-      "url": "https://open.spotify.com/track/0sxH4AbYYqRjA3KdZuIc6Y"
     },
     {
       "added_at": null,
@@ -855,22 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canciones de Amor y Sentimiento",
-        "url": "https://open.spotify.com/album/39mbS15BDr9xgth9egyADB"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 218920,
-      "name": "El primero, el \u00fanico, el \u00faltimo",
-      "url": "https://open.spotify.com/track/5GjqiHdSs9wWcFsd9Vddeg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Memorias Del Coraz\u00f3n",
         "url": "https://open.spotify.com/album/4AbysRanSqKVyJ4RlEaB26"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 289560,
       "name": "La Memoria Del Coraz\u00f3n",
       "url": "https://open.spotify.com/track/21RRlWWp4eBfo0Avxxmaso"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canciones de Amor y Sentimiento",
+        "url": "https://open.spotify.com/album/39mbS15BDr9xgth9egyADB"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 218920,
+      "name": "El primero, el \u00fanico, el \u00faltimo",
+      "url": "https://open.spotify.com/track/5GjqiHdSs9wWcFsd9Vddeg"
     },
     {
       "added_at": null,

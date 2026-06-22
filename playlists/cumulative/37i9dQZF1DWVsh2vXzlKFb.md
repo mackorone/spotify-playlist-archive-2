@@ -4,7 +4,7 @@
 
 > Songs for the warm pavement, cracked windows, and falling in love with music in the sun.
 
-625 songs - 1 day 11 hr 1 min
+626 songs - 1 day 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,6 +304,7 @@
 | [L.U.C.K.Y](https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [L.U.C.K.Y](https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0) | 2:18 | 2026-02-09 |  |
 | [Landslide](https://open.spotify.com/track/2ufQ2MKfCSLmefrsWg5Zux) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [Landslide](https://open.spotify.com/album/5p694BYIvrLGKkD30ut9vv) | 3:14 | 2022-03-24 | 2022-04-21 |
 | [Last Day On Earth](https://open.spotify.com/track/4yc69QtlnLzjcYSMPOtrEo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Last Day On Earth](https://open.spotify.com/album/7DSp5ZTFwHqzpGEMlbkVAj) | 3:42 | 2021-08-13 | 2023-05-26 |
+| [Last Train to London](https://open.spotify.com/track/5fewYZz1bCsj72vjSwSxzq) | [Rikas](https://open.spotify.com/artist/3OWO2LOPTl1u6XvJHkwHmd) | [Last Train to London](https://open.spotify.com/album/0Gp9FL1cWMilwrVtlalcUx) | 2:59 | 2026-05-23 |  |
 | [Learn To Let You Go](https://open.spotify.com/track/2NtP0dLpEhB6VVfMJuo9ib) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX), [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Learn To Let You Go](https://open.spotify.com/album/0nGDoN9CsbIWbvDxA1b9ew) | 3:11 | 2025-04-23 | 2025-06-03 |
 | [Leaving Today](https://open.spotify.com/track/63tDRyYBftYrwURgtR42Zc) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Leaving Today](https://open.spotify.com/album/4BFWVYvDKU5dEF3LDRDeG4) | 4:12 | 2022-04-01 | 2022-07-29 |
 | [Lemon](https://open.spotify.com/track/2anSEDAqaZ8CTi9YNGV3xS) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Lemon](https://open.spotify.com/album/4UjGNWCVeNpTjYNCtHNx96) | 3:50 | 2024-06-28 | 2024-07-14 |
@@ -341,7 +342,7 @@
 | [MAKKA](https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi), [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW) | [MAKKA](https://open.spotify.com/album/6HJ61LT8zJuNdv0Va9WRjB) | 3:00 | 2025-05-15 | 2026-02-10 |
 | [Maniac](https://open.spotify.com/track/6KfoDhO4XUWSbnyKjNp9c4) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:05 | 2023-07-24 | 2023-08-01 |
 | [Marlboro Nights](https://open.spotify.com/track/755inykyaG4w22GWAsA3MX) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v) | [Marlboro Nights](https://open.spotify.com/album/5yJOsoT7fr37BP8su0RGrz) | 1:08 | 2023-07-24 | 2023-08-01 |
-| [May Ninth](https://open.spotify.com/track/5yVGW2o9LXaiiS4I3HUM3k) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 3:12 | 2024-05-17 |  |
+| [May Ninth](https://open.spotify.com/track/5yVGW2o9LXaiiS4I3HUM3k) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 3:12 | 2024-05-17 | 2026-06-22 |
 | [Me & You Together Song](https://open.spotify.com/track/4AQzk2yNWKs6sYhZi6NzVN) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Me & You Together Song](https://open.spotify.com/album/6RicVnt1SB39xCjG81RUDo) | 3:29 | 2021-08-13 | 2023-05-26 |
 | [Me Myself and Dollar Hell](https://open.spotify.com/track/3hU4FbUWQee85XY2cRFbRR) | [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG) | [Going Going Gone](https://open.spotify.com/album/0c4lcf4DqYasZzNz8n2VBl) | 3:00 | 2021-08-13 | 2022-04-21 |
 | [MINE \- SUMMER MIX](https://open.spotify.com/track/7b1lNk2KAFxQuXg0HJghBB) | [POLICE CAR COLLECTIVE](https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2) | [MINE \(SUMMER MIX\)](https://open.spotify.com/album/5Ubobzkvmx4ErSAjIC7s7z) | 3:41 | 2021-08-13 | 2022-07-28 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Avenged Sevenfold. The essential tracks, all in one playlist.",
-  "num_followers": 551563,
+  "num_followers": 551631,
   "original_name": "This Is Avenged Sevenfold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAAA0uBvfkE+1fy7aRI5HlLjr",
+  "snapshot_id": "ajXYAAAAAABM/5YIPNE2EywsHHfHPqOn",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 251533,
-      "name": "Gunslinger",
-      "url": "https://open.spotify.com/track/7MOQrtXMNImAq5TrPZzC0w"
+      "duration_ms": 480706,
+      "name": "A Little Piece of Heaven",
+      "url": "https://open.spotify.com/track/1BLfQ6dPXmuDrFmbdfW7Jl"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 480706,
-      "name": "A Little Piece of Heaven",
-      "url": "https://open.spotify.com/track/1BLfQ6dPXmuDrFmbdfW7Jl"
+      "duration_ms": 251533,
+      "name": "Gunslinger",
+      "url": "https://open.spotify.com/track/7MOQrtXMNImAq5TrPZzC0w"
     },
     {
       "added_at": null,

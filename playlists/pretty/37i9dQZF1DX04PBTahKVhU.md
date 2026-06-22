@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX04PBTahKVhU.md) - [plain]
 
 > The only thing harder than finding true love, is holding onto it\. Listen to the music from My Fault: London and Your Fault: London, now streaming on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,332 likes - 53 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,886 likes - 53 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

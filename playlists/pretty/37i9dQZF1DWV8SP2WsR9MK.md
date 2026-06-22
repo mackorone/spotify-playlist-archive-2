@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 
 > The classic Jazz guitarists and their finest pieces\. Cover: Grant Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,431 likes - 100 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,465 likes - 100 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 36 | [Idle Moments](https://open.spotify.com/track/6bY9atW7iC0JMy7nx4eT0Y) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [The Best Of Grant Green](https://open.spotify.com/album/6DJNcDFC9fT8Ll1WnX4oq7) | 14:57 |
 | 37 | [Moon River](https://open.spotify.com/track/7m3MJIwWdNA5xuIuZDfawS) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Bill Frisell \(with Dave Holland and Elvin Jones\)](https://open.spotify.com/album/5nHaGUyP3XFR9MwebTFESQ) | 6:26 |
 | 38 | [Softly, As In A Morning Sunrise](https://open.spotify.com/track/3ykGDKAgzbmXhwnG3cEkRH) | [Emily Remler](https://open.spotify.com/artist/2KD1KC9SgUiYueJUmWTnNJ) | [East To Wes](https://open.spotify.com/album/0TLM2OGDvMRvbaFUaXQvzN) | 8:10 |
-| 39 | [Nocturne](https://open.spotify.com/track/7BQVhWw9GR1Up3eKQrYFlI) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Arclight](https://open.spotify.com/album/6sKJEBTRRuQhI696nyr1mD) | 3:19 |
-| 40 | [Sunny](https://open.spotify.com/track/6xHcMss02s14r2EdXLEqhk) | [Pat Martino](https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz) | [Cream](https://open.spotify.com/album/6R8qLTLbNFxzfBoavYUCXy) | 10:28 |
+| 39 | [Sunny](https://open.spotify.com/track/6xHcMss02s14r2EdXLEqhk) | [Pat Martino](https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz) | [Cream](https://open.spotify.com/album/6R8qLTLbNFxzfBoavYUCXy) | 10:28 |
+| 40 | [Nocturne](https://open.spotify.com/track/7BQVhWw9GR1Up3eKQrYFlI) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Arclight](https://open.spotify.com/album/6sKJEBTRRuQhI696nyr1mD) | 3:19 |
 | 41 | [Joshua Fit De Battle Of Jericho](https://open.spotify.com/track/7M2stwcE97dpVizQHsGJpA) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Retrospective](https://open.spotify.com/album/5MYLIllbgBg8tdvThOe9XE) | 8:04 |
 | 42 | [Canto De Ossanha](https://open.spotify.com/track/0FCx8spWfkTjpEU7sEQr7M) | [Jonathan Kreisberg](https://open.spotify.com/artist/7MWuLeRKJ1WCx4GQRzT3Hy) | [One](https://open.spotify.com/album/3oZkynRnCLOPFi2elO0JXD) | 5:11 |
 | 43 | [All Across The City](https://open.spotify.com/track/4IHEsg1VgH9dZE4QswwhaE) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr) | [Intermodulation](https://open.spotify.com/album/2fdNshVv7KpFZJOy6qKpJS) | 4:50 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 67 | ['Round Midnight](https://open.spotify.com/track/2qaFycbq4YZ3ZspWbB57dr) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Jimmy Raney](https://open.spotify.com/artist/42MZam7rropEzPCxlGTmOs), [Terry Gibbs](https://open.spotify.com/artist/4vc7AQ05GYmIYTzly9xjbp) | [Early Stan](https://open.spotify.com/album/1V0xTNXZSiQEpkcM1vdc56) | 5:18 |
 | 68 | [You Are My Sunshine](https://open.spotify.com/track/2sf3HFNcwXw9cd1D4in2lT) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Bill Frisell, Ron Carter, Paul Motian](https://open.spotify.com/album/7hnLRv9M7Gt9HjMPsZ1mmz) | 5:56 |
 | 69 | [Blue Line](https://open.spotify.com/track/3IsWXJIIp1Z9T22rVDLLgk) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Heartcore](https://open.spotify.com/album/0zVWcCYxijtR8JcX5bBJfZ) | 6:11 |
-| 70 | [Stella By Starlight](https://open.spotify.com/track/2JOrpYKz1F2h6l2KpbUGUF) | [Peter Bernstein](https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc), [Joachim Schoenecker](https://open.spotify.com/artist/6PQjUcMKCXXV4oQpeZLFTa) | [Dialogues](https://open.spotify.com/album/7eUx5aXdd0dc8QLgYcEFCG) | 6:11 |
-| 71 | [Silver Lining](https://open.spotify.com/track/5Pp8j3brmuE1m2ssreqFcN) | [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP) | [These Times](https://open.spotify.com/album/0b0yP9HN3TrKfZ7llb0LwR) | 6:37 |
+| 70 | [Silver Lining](https://open.spotify.com/track/5Pp8j3brmuE1m2ssreqFcN) | [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP) | [These Times](https://open.spotify.com/album/0b0yP9HN3TrKfZ7llb0LwR) | 6:37 |
+| 71 | [Stella By Starlight](https://open.spotify.com/track/2JOrpYKz1F2h6l2KpbUGUF) | [Peter Bernstein](https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc), [Joachim Schoenecker](https://open.spotify.com/artist/6PQjUcMKCXXV4oQpeZLFTa) | [Dialogues](https://open.spotify.com/album/7eUx5aXdd0dc8QLgYcEFCG) | 6:11 |
 | 72 | [Monk's Dream](https://open.spotify.com/track/6CeJnR7HphMYbazmHYZEtA) | [Fred Hersch](https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx), [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Free Flying](https://open.spotify.com/album/1Qvqde6pj6KPoRnKxdOsvO) | 6:24 |
 | 73 | [Let's Say We Did](https://open.spotify.com/track/301YnLmQmSX7mURPKvWOy5) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Time On My Hands](https://open.spotify.com/album/204uhoOaWn4a1XK8RmJi92) | 4:27 |
 | 74 | [Odd Man Out](https://open.spotify.com/track/4zSlzvNseGhiutbNKzq6nO) | [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX), [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5), [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf) | [I Have The Room Above Her](https://open.spotify.com/album/3b1HL44VlL1tniGvg6yDF3) | 4:13 |

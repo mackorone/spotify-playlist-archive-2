@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,209 songs - 2 day 22 hr 25 min
+1,211 songs - 2 day 22 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -871,6 +871,7 @@
 | [Schwarzer Engel](https://open.spotify.com/track/3NfW08uCTFOhvgrdGGPQkJ) | [Seelentrost](https://open.spotify.com/artist/4KafT120JV2hhs3TlovDWD) | [Schwarzer Engel](https://open.spotify.com/album/6pB2eeRbU2Qc5ounDES7yj) | 2:55 | 2026-04-20 | 2026-06-05 |
 | [Scinni lu scuru \(Live\) \[feat\. Gregorio Caimi, Dario Li Voti, Giacomo Buffa, Natale Montalto, Aldo Bertolino & Debora Messina\]](https://open.spotify.com/track/337MYGM4cYAymhpTVyZsim) | [I Musicanti di Gregorio Caimi](https://open.spotify.com/artist/4FdC3GeTxEwmOLyg9bgYnp), [Aldo Bertolino](https://open.spotify.com/artist/4LFWoWuO0NgUNNsqe8xKVe), [Dario Li Voti](https://open.spotify.com/artist/5bket0QkDAVSDCPkIK5Usq), [Debora Messina](https://open.spotify.com/artist/0lZRolUkkfKgmf12uQfMGv), [Giacomo Buffa](https://open.spotify.com/artist/31JUfeizTiU0XyvxMP4ain), [Gregorio Caimi](https://open.spotify.com/artist/2bxPYh5xhc4Bb6F2GQXlpT), [Natale Montalto](https://open.spotify.com/artist/3Bh0o4sqKg8gigYxUkjE2D) | [Dieci Live](https://open.spotify.com/album/5vX1PXH1ILW7G5TBKVPSZ1) | 3:29 | 2023-04-20 | 2025-11-29 |
 | [Screen Love](https://open.spotify.com/track/1N4AQ3hVyx4o98gZ3vDGzP) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [CTRL FREQS \(The Album\)](https://open.spotify.com/album/0lIOspuasFJ6BALQKPbyqv) | 3:20 | 2025-11-04 | 2025-12-21 |
+| [Se partió en dos](https://open.spotify.com/track/11wp2EhxKh7EXVhSPOVyVl) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [La ansiedad](https://open.spotify.com/album/1ah03W8PU28iPd4KzTwltu) | 2:38 | 2026-06-21 |  |
 | [seasons change](https://open.spotify.com/track/03YN1bc9B2sY1er891uvnu) | [Sebastian Haysman](https://open.spotify.com/artist/7qE1Xp2nWGWvYF9GyRhqJM) | [seasons change](https://open.spotify.com/album/74OY6ZZ5bmdqC0rH6XavvJ) | 4:12 | 2026-05-22 |  |
 | [Second Hand Clothes](https://open.spotify.com/track/19fycOjyjBShEGCCq7c7ZU) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Shiny Silvery Things](https://open.spotify.com/album/7x9gKK4KX0B1Vg7zJXv41k) | 3:46 | 2026-01-11 | 2026-03-07 |
 | [Sed de venganza](https://open.spotify.com/track/4dnEM2HxWH1PSTGQdRjjHu) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [La ansiedad](https://open.spotify.com/album/1ah03W8PU28iPd4KzTwltu) | 2:08 | 2025-11-14 | 2025-12-21 |
@@ -1208,6 +1209,7 @@
 | [¿Me Vas a Amar Hasta El Final?](https://open.spotify.com/track/6uKlzmnvRUApUP5N2W16d5) | [Elio Ocampo](https://open.spotify.com/artist/6ytMeTFgXUIo5HtdCxKI1E) | [A Mess With No Solution](https://open.spotify.com/album/01jzx2n41mmV8lcwOS3ECd) | 2:54 | 2026-04-13 | 2026-05-14 |
 | [¿Vampiro o Ladrón?](https://open.spotify.com/track/7KXOz98ntMZ8eeovE9pv6N) | [Angel](https://open.spotify.com/artist/5XFum7bQUnhp2U8h2zdJGV) | [¿Vampiro o Ladrón?](https://open.spotify.com/album/2qg0w5is7kIreSaDwx7n0k) | 3:41 | 2026-05-29 |  |
 | [Étrange inconnu](https://open.spotify.com/track/6YmGrsKNSs00IocQLWalpC) | [Perrine Hope](https://open.spotify.com/artist/7aXpehI3ni2IquIMDyMeNw) | [Étrange inconnu](https://open.spotify.com/album/2GpEFesgNc62Zu92mduL8C) | 2:50 | 2026-03-02 | 2026-03-25 |
+| [ΑΠΛΩΝΩ ΤΑ ΧΕΡΙΑ](https://open.spotify.com/track/3ynuypogogN4RbF0KA8nP7) | [M.R.P Music Song Contest](https://open.spotify.com/artist/1OHHzP3Sy9y4IfPoxfexPm) | [ΑΠΛΩΝΩ ΤΑ ΧΕΡΙΑ](https://open.spotify.com/album/6R2GCTj3ImIBsOMFp51ud1) | 3:28 | 2026-06-21 |  |
 | [Θα χαθείς με τη βροχή](https://open.spotify.com/track/3a7Q9NsGva0DuemgZfoxRJ) | [Vasilis Konstantinakos](https://open.spotify.com/artist/4u6ejjlbwhKrN1NKOcpfGh), [Maria Michalaka](https://open.spotify.com/artist/4rboAqEBfIBnyA0xiiNZi2) | [Θα χαθείς με τη βροχή](https://open.spotify.com/album/4wBzl4GQclHbCliJEgSWeM) | 4:54 | 2025-12-25 | 2026-01-24 |
 | [Земне Життя](https://open.spotify.com/track/6idVqezW5gYMSsW2YDRNID) | [YANKEE](https://open.spotify.com/artist/2H4v0yVZxaCTgekZFBCR5V) | [Земне Життя](https://open.spotify.com/album/6fVSuI4RtrPRY5XesycuUl) | 2:13 | 2026-05-05 | 2026-06-05 |
 | [Те, що я люблю](https://open.spotify.com/track/1huOrpKupXu1KDBe9Wq5Ot) | [YANKEE](https://open.spotify.com/artist/2H4v0yVZxaCTgekZFBCR5V) | [Те, що я люблю](https://open.spotify.com/album/6sUYSApXZgF2KjzlLbJ7ps) | 2:31 | 2026-03-04 | 2026-03-25 |

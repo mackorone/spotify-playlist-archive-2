@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v06CA.md) - [plain]
 
 > This is Willie Nelson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,881 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,893 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v06CA.md) - [plain]
 | 41 | [Fly Away](https://open.spotify.com/track/4bRGn94aQGGzuVzhfmEy59) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Dream Chaser](https://open.spotify.com/album/2Q4HugjymuQggJWOpstx7P) | 2:42 |
 | 42 | [Cruel World](https://open.spotify.com/track/166Dyvfibu4SOygA4vub85) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Music of Red Dead Redemption 2 \(Original Soundtrack\)](https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW) | 2:28 |
 | 43 | [Bloody Mary Morning](https://open.spotify.com/track/5paRS95sOPkOVQlmUIUF4B) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Phases And Stages](https://open.spotify.com/album/2UUGvJBpRoOQFwDLtq8KCP) | 2:48 |
-| 44 | [My Heroes Have Always Been Cowboys](https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Essential Willie Nelson](https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU) | 3:03 |
-| 45 | [Crazy](https://open.spotify.com/track/0xqtcLB45iKNfHroi5y1em) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [And Then I Wrote](https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu) | 2:53 |
+| 44 | [Crazy](https://open.spotify.com/track/0xqtcLB45iKNfHroi5y1em) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [And Then I Wrote](https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu) | 2:53 |
+| 45 | [My Heroes Have Always Been Cowboys](https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Essential Willie Nelson](https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU) | 3:03 |
 | 46 | [Stay All Night \(Stay a Little Longer\)](https://open.spotify.com/track/0ZXmbQXKbfXO8Cv9qxPdZu) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Shotgun Willie](https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y) | 2:34 |
-| 47 | [Georgia On My Mind](https://open.spotify.com/track/5GOFil3Umfp4yB75U2Ah4e) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Stardust](https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq) | 4:22 |
-| 48 | [I Can Get off on You \- Remastered](https://open.spotify.com/track/1tmCPGkgKKurSN1onKcaJt) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Waylon & Willie](https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO) | 2:27 |
-| 49 | [Funny How Time Slips Away](https://open.spotify.com/track/0hXHpNiW5dHv21aUhYDEnA) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [And Then I Wrote](https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu) | 3:05 |
+| 47 | [I Can Get off on You \- Remastered](https://open.spotify.com/track/1tmCPGkgKKurSN1onKcaJt) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Waylon & Willie](https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO) | 2:27 |
+| 48 | [Funny How Time Slips Away](https://open.spotify.com/track/0hXHpNiW5dHv21aUhYDEnA) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [And Then I Wrote](https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu) | 3:05 |
+| 49 | [Georgia On My Mind](https://open.spotify.com/track/5GOFil3Umfp4yB75U2Ah4e) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Stardust](https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq) | 4:22 |
 | 50 | [Sinner](https://open.spotify.com/track/34jUlISPpEYnJqzPc7B7Sh) | [Aaron Lewis](https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Sinner](https://open.spotify.com/album/0CJrzaavg6xQaIKolWD83H) | 3:31 |
 
-Snapshot ID: `ajSGgAAAAAAwwdIy9c2vRctJUyI7x0AV`
+Snapshot ID: `ajXYAAAAAADOHj9iENzKvqGiVjKfDS6K`

@@ -6,7 +6,7 @@
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAVOollPYfTA/cGYGJVHo1ShxJA40SV",
+  "snapshot_id": "AAAVPN3QGbWNbNtu2sh5WVxHIgonZi8V",
   "tracks": [
     {
       "added_at": "2026-06-09 08:21:56",
@@ -3087,6 +3087,38 @@
       "duration_ms": 217031,
       "name": "Flashback",
       "url": "https://open.spotify.com/track/7zphXBpoS3Qo1ybHyksW2i"
+    },
+    {
+      "added_at": "2026-06-21 08:06:38",
+      "album": {
+        "name": "\u0391\u03a0\u039b\u03a9\u039d\u03a9 \u03a4\u0391 \u03a7\u0395\u03a1\u0399\u0391",
+        "url": "https://open.spotify.com/album/6R2GCTj3ImIBsOMFp51ud1"
+      },
+      "artists": [
+        {
+          "name": "M.R.P Music Song Contest",
+          "url": "https://open.spotify.com/artist/1OHHzP3Sy9y4IfPoxfexPm"
+        }
+      ],
+      "duration_ms": 208665,
+      "name": "\u0391\u03a0\u039b\u03a9\u039d\u03a9 \u03a4\u0391 \u03a7\u0395\u03a1\u0399\u0391",
+      "url": "https://open.spotify.com/track/3ynuypogogN4RbF0KA8nP7"
+    },
+    {
+      "added_at": "2026-06-21 08:06:43",
+      "album": {
+        "name": "La ansiedad",
+        "url": "https://open.spotify.com/album/1ah03W8PU28iPd4KzTwltu"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Emilio Alvarez Parafita",
+          "url": "https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j"
+        }
+      ],
+      "duration_ms": 158879,
+      "name": "Se parti\u00f3 en dos",
+      "url": "https://open.spotify.com/track/11wp2EhxKh7EXVhSPOVyVl"
     }
   ],
   "unique_name": "New Indie Music",

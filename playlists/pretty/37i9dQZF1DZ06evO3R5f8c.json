@@ -1,12 +1,12 @@
 {
   "description": "This is Black Coffee. The essential tracks, all in one playlist.",
-  "num_followers": 197010,
+  "num_followers": 197106,
   "original_name": "This Is Black Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAABsI+IMmDZz+ChilWmEpCVG",
+  "snapshot_id": "ajXYAAAAAACjpwMj41rE/u/Vo27M3sFH",
   "tracks": [
     {
       "added_at": null,
@@ -311,22 +311,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Subconsciously",
-        "url": "https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS"
+        "name": "Su Casa",
+        "url": "https://open.spotify.com/album/0JnhG5mHpSHvdCQnzM3egu"
       },
       "artists": [
         {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+          "name": "Mi Casa",
+          "url": "https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0"
         },
         {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
         }
       ],
-      "duration_ms": 384555,
-      "name": "SBCNCSLY",
-      "url": "https://open.spotify.com/track/3CP1ehiVZEOl7IZ6dORXuS"
+      "duration_ms": 326586,
+      "name": "Africa Shine",
+      "url": "https://open.spotify.com/track/2OQkQAJk9NEotTdt0DmIUS"
     },
     {
       "added_at": null,
@@ -351,22 +351,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Su Casa",
-        "url": "https://open.spotify.com/album/0JnhG5mHpSHvdCQnzM3egu"
+        "name": "Subconsciously",
+        "url": "https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS"
       },
       "artists": [
         {
-          "name": "Mi Casa",
-          "url": "https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0"
-        },
-        {
           "name": "Black Coffee",
           "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
         }
       ],
-      "duration_ms": 326586,
-      "name": "Africa Shine",
-      "url": "https://open.spotify.com/track/2OQkQAJk9NEotTdt0DmIUS"
+      "duration_ms": 384555,
+      "name": "SBCNCSLY",
+      "url": "https://open.spotify.com/track/3CP1ehiVZEOl7IZ6dORXuS"
     },
     {
       "added_at": null,

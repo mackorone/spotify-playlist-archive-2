@@ -1,6 +1,6 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 129431,
+  "num_followers": 129465,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "Arclight",
-        "url": "https://open.spotify.com/album/6sKJEBTRRuQhI696nyr1mD"
-      },
-      "artists": [
-        {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
-        }
-      ],
-      "duration_ms": 199015,
-      "name": "Nocturne",
-      "url": "https://open.spotify.com/track/7BQVhWw9GR1Up3eKQrYFlI"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
         "name": "Cream",
         "url": "https://open.spotify.com/album/6R8qLTLbNFxzfBoavYUCXy"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 628186,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/6xHcMss02s14r2EdXLEqhk"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
+        "name": "Arclight",
+        "url": "https://open.spotify.com/album/6sKJEBTRRuQhI696nyr1mD"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "duration_ms": 199015,
+      "name": "Nocturne",
+      "url": "https://open.spotify.com/track/7BQVhWw9GR1Up3eKQrYFlI"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
+        "name": "These Times",
+        "url": "https://open.spotify.com/album/0b0yP9HN3TrKfZ7llb0LwR"
+      },
+      "artists": [
+        {
+          "name": "Mike Stern",
+          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
+        }
+      ],
+      "duration_ms": 397106,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/5Pp8j3brmuE1m2ssreqFcN"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
         "name": "Dialogues",
         "url": "https://open.spotify.com/album/7eUx5aXdd0dc8QLgYcEFCG"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 371200,
       "name": "Stella By Starlight",
       "url": "https://open.spotify.com/track/2JOrpYKz1F2h6l2KpbUGUF"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
-        "name": "These Times",
-        "url": "https://open.spotify.com/album/0b0yP9HN3TrKfZ7llb0LwR"
-      },
-      "artists": [
-        {
-          "name": "Mike Stern",
-          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
-        }
-      ],
-      "duration_ms": 397106,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/5Pp8j3brmuE1m2ssreqFcN"
     },
     {
       "added_at": "2025-09-10 12:20:14",

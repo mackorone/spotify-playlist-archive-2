@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Nicks. The essential tracks, all in one playlist.",
-  "num_followers": 173473,
+  "num_followers": 173491,
   "original_name": "This Is Stevie Nicks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAADdCaNxgC+3SpHmxE4Zkd8r",
+  "snapshot_id": "ajXYAAAAAAB19BB6JChJlMQgITHRULJA",
   "tracks": [
     {
       "added_at": null,
@@ -327,22 +327,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stand Back",
-        "url": "https://open.spotify.com/album/55apJ336pzYBjmG7uwal5K"
+        "name": "Practical Magic (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/2N7TdBow0ClqvPIdmuOgtw"
       },
       "artists": [
         {
           "name": "Stevie Nicks",
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        },
-        {
-          "name": "Melbourne Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5CHXXNuReinAFGk3pjWgOH"
         }
       ],
-      "duration_ms": 255986,
-      "name": "Landslide (with The Melbourne Symphony Orchestra) - Live 2006; 2019 Remaster",
-      "url": "https://open.spotify.com/track/0OmofBGMfRFHJNlIXiS3KZ"
+      "duration_ms": 251080,
+      "name": "If You Ever Did Believe",
+      "url": "https://open.spotify.com/track/5CQmmcGVX9L0NOOkLR6uve"
     },
     {
       "added_at": null,
@@ -379,18 +375,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Practical Magic (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/2N7TdBow0ClqvPIdmuOgtw"
+        "name": "Stand Back",
+        "url": "https://open.spotify.com/album/55apJ336pzYBjmG7uwal5K"
       },
       "artists": [
         {
           "name": "Stevie Nicks",
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        },
+        {
+          "name": "Melbourne Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5CHXXNuReinAFGk3pjWgOH"
         }
       ],
-      "duration_ms": 251080,
-      "name": "If You Ever Did Believe",
-      "url": "https://open.spotify.com/track/5CQmmcGVX9L0NOOkLR6uve"
+      "duration_ms": 255986,
+      "name": "Landslide (with The Melbourne Symphony Orchestra) - Live 2006; 2019 Remaster",
+      "url": "https://open.spotify.com/track/0OmofBGMfRFHJNlIXiS3KZ"
     },
     {
       "added_at": null,
@@ -519,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Crystal Visions...The Very Best of Stevie Nicks",
+        "url": "https://open.spotify.com/album/7q0dYnAjmqZBJLhMBre8aL"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 421800,
+      "name": "Rhiannon - Live 2005",
+      "url": "https://open.spotify.com/track/3brPoiEss4oQsy6BxUzbFe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "George Is On",
         "url": "https://open.spotify.com/album/58evCxTgeud6x03IDjI1xT"
       },
@@ -563,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crystal Visions...The Very Best of Stevie Nicks",
-        "url": "https://open.spotify.com/album/7q0dYnAjmqZBJLhMBre8aL"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 421800,
-      "name": "Rhiannon - Live 2005",
-      "url": "https://open.spotify.com/track/3brPoiEss4oQsy6BxUzbFe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trouble in Shangri-La",
         "url": "https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg"
       },
@@ -615,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rock a Little",
+        "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 230600,
+      "name": "Sister Honey",
+      "url": "https://open.spotify.com/track/4uVWZBNCAj5cDUjvvStpI0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Buckingham Nicks",
         "url": "https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 435793,
       "name": "Frozen Love",
       "url": "https://open.spotify.com/track/7EXPUTfGz4N2Gyo5dz2cUg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rock a Little",
-        "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 230600,
-      "name": "Sister Honey",
-      "url": "https://open.spotify.com/track/4uVWZBNCAj5cDUjvvStpI0"
     },
     {
       "added_at": null,
@@ -691,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rock a Little",
+        "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 251066,
+      "name": "If I Were You",
+      "url": "https://open.spotify.com/track/2NkL0jv87A9FrLp6weyyhQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Buckingham Nicks",
         "url": "https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 130950,
       "name": "Without a Leg to Stand On",
       "url": "https://open.spotify.com/track/6U0yspjs6Ag1G5Gy5Lol7G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rock a Little",
-        "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 251066,
-      "name": "If I Were You",
-      "url": "https://open.spotify.com/track/2NkL0jv87A9FrLp6weyyhQ"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In Your Dreams",
+        "url": "https://open.spotify.com/album/1mJFn6QQYSHfArKZzvrNvj"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 195560,
+      "name": "Secret Love",
+      "url": "https://open.spotify.com/track/4ztowwWgYZtq0OOUxerZrv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Buckingham Nicks",
         "url": "https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 229923,
       "name": "Crystal",
       "url": "https://open.spotify.com/track/2a9l6PrSo1dNxIJuxxYjJZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Your Dreams",
-        "url": "https://open.spotify.com/album/1mJFn6QQYSHfArKZzvrNvj"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 195560,
-      "name": "Secret Love",
-      "url": "https://open.spotify.com/track/4ztowwWgYZtq0OOUxerZrv"
     },
     {
       "added_at": null,
@@ -835,6 +835,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "24 Karat Gold: Songs from the Vault",
+        "url": "https://open.spotify.com/album/7jCfopf1GmfBfYJh63aW7R"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 278138,
+      "name": "The Dealer",
+      "url": "https://open.spotify.com/track/3MhtDiOUmoL5Yw3uh9asB1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Buckingham Nicks",
         "url": "https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 231709,
       "name": "Don't Let Me Down Again",
       "url": "https://open.spotify.com/track/171YcHaEjFRml5BZQzyjH9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "24 Karat Gold: Songs from the Vault",
-        "url": "https://open.spotify.com/album/7jCfopf1GmfBfYJh63aW7R"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 278138,
-      "name": "The Dealer",
-      "url": "https://open.spotify.com/track/3MhtDiOUmoL5Yw3uh9asB1"
     },
     {
       "added_at": null,

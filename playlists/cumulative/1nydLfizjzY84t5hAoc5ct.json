@@ -3107,6 +3107,24 @@
     },
     {
       "album": {
+        "name": "Lips Parted",
+        "url": "https://open.spotify.com/album/1DfPPo6CWL6sgWvqzkjN6j"
+      },
+      "artists": [
+        {
+          "name": "Both Hands",
+          "url": "https://open.spotify.com/artist/3flW9Wdr8HajNi1zIRjQCW"
+        }
+      ],
+      "date_added": "2026-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266146,
+      "name": "Lips Parted",
+      "url": "https://open.spotify.com/track/6Kg0rGcKTqAHqBt6ZD7wn4"
+    },
+    {
+      "album": {
         "name": "Bucket Of Blood",
         "url": "https://open.spotify.com/album/6jQCYLssJ4O1D08spqUs2P"
       },

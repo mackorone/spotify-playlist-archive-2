@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de la m\u00fasica en M\u00e9xico en compa\u00f1\u00eda de iza tkm",
-  "num_followers": 92545,
+  "num_followers": 92555,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -691,26 +691,6 @@
     {
       "added_at": "2026-06-18 00:39:30",
       "album": {
-        "name": "Tempestad",
-        "url": "https://open.spotify.com/album/3ROgzkUpea1ABUTLIVgtuE"
-      },
-      "artists": [
-        {
-          "name": "Wuicho kun",
-          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
-        },
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 255605,
-      "name": "Tempestad",
-      "url": "https://open.spotify.com/track/26MgGRiHVchclnV6kR4jLL"
-    },
-    {
-      "added_at": "2026-06-18 00:39:30",
-      "album": {
         "name": "a la mitad",
         "url": "https://open.spotify.com/album/7BKm5M8gOpJIdxi5tdvdwY"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 174460,
       "name": "a la mitad",
       "url": "https://open.spotify.com/track/1dbDRlYvm4KaCVzMVUPlby"
+    },
+    {
+      "added_at": "2026-06-18 00:39:30",
+      "album": {
+        "name": "Tempestad",
+        "url": "https://open.spotify.com/album/3ROgzkUpea1ABUTLIVgtuE"
+      },
+      "artists": [
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        },
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 255605,
+      "name": "Tempestad",
+      "url": "https://open.spotify.com/track/26MgGRiHVchclnV6kR4jLL"
     },
     {
       "added_at": "2026-06-18 00:39:30",
@@ -951,6 +951,22 @@
     {
       "added_at": "2026-06-18 00:39:30",
       "album": {
+        "name": "QUE SE JODAN SI NO PUEDEN ASUMIR UNA BROMA",
+        "url": "https://open.spotify.com/album/1jf7Es2JD1smxFfXjH1X2f"
+      },
+      "artists": [
+        {
+          "name": "Gloory Hole",
+          "url": "https://open.spotify.com/artist/3iq1MFUd7NXDXWChm0E2mO"
+        }
+      ],
+      "duration_ms": 213753,
+      "name": "CADENAS",
+      "url": "https://open.spotify.com/track/349Ydk9bqg7hrbQHgJRTUF"
+    },
+    {
+      "added_at": "2026-06-18 00:39:30",
+      "album": {
         "name": "Bexos",
         "url": "https://open.spotify.com/album/2g91cAXqHmVJyEb3pO9rod"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 160661,
       "name": "Bexos",
       "url": "https://open.spotify.com/track/2mMDB5gmG6lNtxe1LDhmMO"
-    },
-    {
-      "added_at": "2026-06-18 00:39:30",
-      "album": {
-        "name": "QUE SE JODAN SI NO PUEDEN ASUMIR UNA BROMA",
-        "url": "https://open.spotify.com/album/1jf7Es2JD1smxFfXjH1X2f"
-      },
-      "artists": [
-        {
-          "name": "Gloory Hole",
-          "url": "https://open.spotify.com/artist/3iq1MFUd7NXDXWChm0E2mO"
-        }
-      ],
-      "duration_ms": 213753,
-      "name": "CADENAS",
-      "url": "https://open.spotify.com/track/349Ydk9bqg7hrbQHgJRTUF"
     },
     {
       "added_at": "2026-06-18 00:39:30",

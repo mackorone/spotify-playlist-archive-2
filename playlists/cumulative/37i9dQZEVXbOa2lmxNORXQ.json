@@ -538,7 +538,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 115744,
       "name": "222",
       "url": "https://open.spotify.com/track/3bp6VjYqCgTQiOZSVWTl92"
@@ -1932,7 +1932,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 308936,
       "name": "ALO (feat. Tutu)",
       "url": "https://open.spotify.com/track/66grJSnNQplFGXEpV5CKKK"
@@ -3908,7 +3908,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-21",
+      "date_removed": null,
       "duration_ms": 293802,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
@@ -5810,7 +5810,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 254117,
       "name": "CIGARRO",
       "url": "https://open.spotify.com/track/0q9Qgr4UCR2Y8B51DnNV40"
@@ -8338,7 +8338,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 173154,
       "name": "Destino Final",
       "url": "https://open.spotify.com/track/2E4TYekUduml1DWIqQWNcj"
@@ -18788,7 +18788,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 196800,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi"
@@ -20474,6 +20474,24 @@
       "duration_ms": 163693,
       "name": "Mi \u00daltimo Deseo",
       "url": "https://open.spotify.com/track/3m98lKb7jsNlcOgDYSvYvp"
+    },
+    {
+      "album": {
+        "name": "Mientras el Pueblo Muere",
+        "url": "https://open.spotify.com/album/0pbngGRGFAsBNIsIaJ8jxe"
+      },
+      "artists": [
+        {
+          "name": "Zoordo",
+          "url": "https://open.spotify.com/artist/0il5EU1fSOLiZhfRDpKbf5"
+        }
+      ],
+      "date_added": "2026-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232839,
+      "name": "Mientras el Pueblo Muere",
+      "url": "https://open.spotify.com/track/2jG9CXYMyDfonfWNZNHnAN"
     },
     {
       "album": {
@@ -23652,7 +23670,7 @@
       ],
       "date_added": "2025-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-21",
+      "date_removed": null,
       "duration_ms": 240964,
       "name": "ori\u00f3N",
       "url": "https://open.spotify.com/track/4feh4Ak3ZJfC6ibxkNzlkE"
@@ -26656,7 +26674,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 150000,
       "name": "QUE LE DE",
       "url": "https://open.spotify.com/track/4JLwnwxYhBxvr4pwB9K2Cq"
@@ -34406,6 +34424,28 @@
       "duration_ms": 245026,
       "name": "VIP Feat. Totoy El Frio",
       "url": "https://open.spotify.com/track/37PGGNAF1QheeikFCvwqFI"
+    },
+    {
+      "album": {
+        "name": "Afro House Latino Vol. 2",
+        "url": "https://open.spotify.com/album/453javvcleAvKz5au90uir"
+      },
+      "artists": [
+        {
+          "name": "Yas Cepeda",
+          "url": "https://open.spotify.com/artist/0QJLIqgHuWkj89BqRArjRP"
+        },
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "date_added": "2026-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196014,
+      "name": "Visa Para Un Sue\u00f1o - Remix",
+      "url": "https://open.spotify.com/track/7f2INvD0D5HXmgeuED7c55"
     },
     {
       "album": {

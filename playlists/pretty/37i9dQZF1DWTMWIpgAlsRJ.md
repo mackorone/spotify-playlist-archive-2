@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 
 > The Ultimate EA SPORTS FC Brazil Playlist: bringing together the sounds of Brazil in celebration of The World's Game\. Curated specially for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,975 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,963 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 25 | [Só Tem Jogador](https://open.spotify.com/track/4J8YnRd5u21USIiBzsyDC4) | [Macacko](https://open.spotify.com/artist/0nUTxp2U0XnPM9Klp8Z0qw), [BlocoBleque](https://open.spotify.com/artist/3hsn5peU7gwnvCMoW7epmH), [Gabriel O Pensador](https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD), [Tiago Mocoto](https://open.spotify.com/artist/6KXkYDUZ9noNLKDuz85Klb) | [BlocoBleque](https://open.spotify.com/album/0wYL4vGPT2qV0qkvjG53Eq) | 3:48 |
 | 26 | [Magrela Fever](https://open.spotify.com/track/4CHQ5GgSgSRgRhHfgK916h) | [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI) | [JapanPopShow](https://open.spotify.com/album/1HbETOeE59WPA3IDm4HAjW) | 4:10 |
 | 27 | [Porro Maracatu \- Toy Selectah Remix](https://open.spotify.com/track/1drnVjXefDo5xx56Pt6tfu) | [LADAMA](https://open.spotify.com/artist/5CA1T9fayw9qeF1wPDO9E9), [Toy Selectah](https://open.spotify.com/artist/6iruqoplIhH7VmvMQV1wDM) | [Porro Maracatu \(Toy Selectah Remix\)](https://open.spotify.com/album/7IPC22KL9jAP0AAZksfKQQ) | 3:01 |
-| 28 | [Jager Yoga](https://open.spotify.com/track/4Uq7SeO1R4UqXLxsB0p8iV) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Donkey](https://open.spotify.com/album/2RE3HfJr5FcFKDA7ZsPDjA) | 3:48 |
-| 29 | [Tranqüilo](https://open.spotify.com/track/59dxApcsU7GPDiMGxjIc6x) | [Marcelinho Da Lua](https://open.spotify.com/artist/4Yw5FcyGxFtur6gG4YWmZ6), [Bi Ribeiro](https://open.spotify.com/artist/0toWNUEQ8Bcimaq6BKh7Tr), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Tranqüilo!](https://open.spotify.com/album/3gGvP5OvOXhgrHYN41XalX) | 4:26 |
+| 28 | [Tranqüilo](https://open.spotify.com/track/59dxApcsU7GPDiMGxjIc6x) | [Marcelinho Da Lua](https://open.spotify.com/artist/4Yw5FcyGxFtur6gG4YWmZ6), [Bi Ribeiro](https://open.spotify.com/artist/0toWNUEQ8Bcimaq6BKh7Tr), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Tranqüilo!](https://open.spotify.com/album/3gGvP5OvOXhgrHYN41XalX) | 4:26 |
+| 29 | [Jager Yoga](https://open.spotify.com/track/4Uq7SeO1R4UqXLxsB0p8iV) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Donkey](https://open.spotify.com/album/2RE3HfJr5FcFKDA7ZsPDjA) | 3:48 |
 | 30 | [The Space Ahead](https://open.spotify.com/track/0EkXKJ8SnCRX7NOqkwrtFy) | [Zemaria](https://open.spotify.com/artist/2ACcON2v89hFiNex2a0emN) | [Any Distance](https://open.spotify.com/album/4dPamgTuqu7hV2C0jSv7pY) | 3:16 |
 | 31 | [Tive Razão \- 2024 Remaster](https://open.spotify.com/track/7FkrChVqU7bADC3XXlOEga) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6), [Pretinho da Serrinha](https://open.spotify.com/artist/4qDFGliScFrzPiFS9caqnw) | [Cru \(2024 Remaster\)](https://open.spotify.com/album/6wbmm5oKjr15TE47qv6NCH) | 4:32 |
 | 32 | [JARAHA](https://open.spotify.com/track/6tZKAwKAHLlmqBRgbGcygk) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Brô MC's](https://open.spotify.com/artist/5nwwplsLg8wQ93qamvX4Pq), [Coleção Som Nativo](https://open.spotify.com/artist/0h305Rcjz5GdVBYlWuHNGq) | [THE FUTURE IS ANCESTRAL](https://open.spotify.com/album/6pmFJ5VC7URN6Q7xI0SYt3) | 2:21 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1jTifM0MFAVzFVvYIpez2Z">Tommy Parker</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-155 songs - 8 hr 22 min
+156 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Bat Phone](https://open.spotify.com/track/0rLhCmGwVdTnhpDtckZ1dC) | [Mez](https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6), [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [The Loading EP](https://open.spotify.com/album/3v7EwnT9vSwdkHKhyNqZbq) | 3:24 | 2024-09-20 |  |
 | [Better Than Ever \(feat\. Rod Wave\)](https://open.spotify.com/track/7KeM63RotkWiGnHKkboz4t) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Decided 2](https://open.spotify.com/album/5kK8oDrnJr64xQhyaHFjtQ) | 4:03 | 2024-06-07 |  |
 | [Big Wheel Whippin'](https://open.spotify.com/track/3gSsZVKLIzKzQit8weYbm1) | [Playaz Circle](https://open.spotify.com/artist/5gV9T9VSwhHBlHcRMojEZw) | [Flight 360: The Takeoff](https://open.spotify.com/album/4jCIFGa5tGSh7LeTmPwcS2) | 4:29 | 2024-06-07 |  |
+| [Black Techno Guy](https://open.spotify.com/track/0GQ7Xh6mfh71Q0Az8sg3LT) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Black Techno Guy](https://open.spotify.com/album/3OO4Kb2Iw1qljp75qXh3hF) | 3:00 | 2026-06-21 |  |
 | [bleach](https://open.spotify.com/track/0D8UqYcz7ePwma5o3XAQnh) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [\#gigi](https://open.spotify.com/album/5yYtz3hPgOc2XAh5eDjDBa) | 2:19 | 2024-08-11 |  |
 | [BLEEDING](https://open.spotify.com/track/1Q44YCmHulLTI61D3IGe2g) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 2:57 | 2025-10-02 |  |
 | [Bloodline](https://open.spotify.com/track/2qvrRtYFN7MGRokO77TZKK) | [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [The Birth of a Nation: The Inspired By Album](https://open.spotify.com/album/6miimmKAefrNxnErwCTGmj) | 4:12 | 2024-06-07 |  |

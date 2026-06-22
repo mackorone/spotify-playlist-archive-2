@@ -4,12 +4,13 @@
 
 > albums i plan to listen to eventually
 
-1,151 songs - 3 day 2 hr 15 min
+1,152 songs - 3 day 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [!Ed Buys Houses!](https://open.spotify.com/track/7C93fnd8BwNdDj5YIEZsKX) | [Sidney Gish](https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI) | [Ed Buys Houses](https://open.spotify.com/album/64DjJ6ym4wzWt2HzwpZ6jO) | 0:57 | 2023-05-02 | 2023-05-15 |
 | [\#GAMIGANG](https://open.spotify.com/track/1Vfe6FT2Gba7Lz5fbgvyry) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [GAMI GANG](https://open.spotify.com/album/2ohtZdoMSFtr2JrO3lJbB5) | 0:28 | 2023-06-22 |  |
+| ['66: Wonder Where I'm From](https://open.spotify.com/track/2cG5SteTq3agEiGzoXOa14) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [50 Song Memoir](https://open.spotify.com/album/2b3JjOvKw9UN47ND80Tvri) | 2:44 | 2026-06-21 |  |
 | [\(Don't Worry\) If There Is a Hell Below, We're All Going to Go](https://open.spotify.com/track/5wdlG60d0WHoo8P3QzrlbG) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Curtis \(Expanded Edition\)](https://open.spotify.com/album/3tgJmEz0R0ZsRSrpwafp4R) | 7:50 | 2024-01-08 | 2024-04-29 |
 | [\(…\)](https://open.spotify.com/track/10t3LYApAgfZi8ok52rj4e) | [Mach\-Hommy](https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk) | [\#RICHAXXHAITIAN](https://open.spotify.com/album/3akQbvTaRFTiQYZILxVm3E) | 2:36 | 2024-06-08 |  |
 | [..THUS IS WHY \( I DON’T SPRING 4 LOVE \)](https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:29 | 2025-09-12 | 2025-09-24 |

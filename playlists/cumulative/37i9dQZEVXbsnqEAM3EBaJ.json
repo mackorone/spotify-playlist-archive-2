@@ -2976,7 +2976,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "Alejandra",
       "url": "https://open.spotify.com/track/3dGkOQk5Ac81hpd03M7egy"
@@ -17508,7 +17508,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 184000,
       "name": "En puntillas tras de ti",
       "url": "https://open.spotify.com/track/1W5rVxwo98IrgCMa7Mmb41"
@@ -20008,6 +20008,24 @@
       "duration_ms": 261392,
       "name": "Five Foot One - Live at Montreux Jazz Festival 2023",
       "url": "https://open.spotify.com/track/2Fp98AyMUHOECVgoucc4Fe"
+    },
+    {
+      "album": {
+        "name": "Black Out",
+        "url": "https://open.spotify.com/album/03cL3bdF8Sszu6N5TsuEc1"
+      },
+      "artists": [
+        {
+          "name": "Front 242",
+          "url": "https://open.spotify.com/artist/2tyMOS8xKREgpEwHnLc6EX"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247322,
+      "name": "Fix It - Live Brussels - January 2025",
+      "url": "https://open.spotify.com/track/2kyBL8hoaKdSWF7H7465px"
     },
     {
       "album": {
@@ -24820,7 +24838,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 255893,
       "name": "Hide and Seek - Live Brussels - January 2025",
       "url": "https://open.spotify.com/track/6dReFbScmAe1BCzb9Srjhq"
@@ -58370,7 +58388,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-21",
+      "date_removed": null,
       "duration_ms": 128303,
       "name": "The Quiet Beauty of Simple Moments",
       "url": "https://open.spotify.com/track/1mtYqtgVh1PrKIiqB7Xtvt"
@@ -60232,7 +60250,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 157752,
       "name": "Through the Window of a Peaceful Afternoon",
       "url": "https://open.spotify.com/track/3oV3Iavgu4qgmFfKyBfLS6"

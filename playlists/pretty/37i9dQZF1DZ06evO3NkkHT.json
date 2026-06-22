@@ -1,12 +1,12 @@
 {
   "description": "This is BigXthaPlug. The essential tracks, all in one playlist.",
-  "num_followers": 84009,
+  "num_followers": 84042,
   "original_name": "This Is BigXthaPlug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAADX4HjVU4gX86jjEzvzAJ+i",
+  "snapshot_id": "ajXYAAAAAABmUKcgohRmChue+exDuo1E",
   "tracks": [
     {
       "added_at": null,
@@ -711,26 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Run It",
-        "url": "https://open.spotify.com/album/3nNUt7aSmNi3mmiUgtitHI"
-      },
-      "artists": [
-        {
-          "name": "Ro$ama",
-          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
-        },
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 163626,
-      "name": "Who Run It",
-      "url": "https://open.spotify.com/track/3uhJIV80m8oKkuyvvS6rw2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Recess",
         "url": "https://open.spotify.com/album/5Bo68f3J0Ufnb0d9iHf4FZ"
       },
@@ -751,22 +731,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Say Please (Don't Leave Me Lonely) [feat. BigXthaPlug]",
-        "url": "https://open.spotify.com/album/42u78y3vwF6rNh81djS2SF"
+        "name": "Who Run It",
+        "url": "https://open.spotify.com/album/3nNUt7aSmNi3mmiUgtitHI"
       },
       "artists": [
         {
-          "name": "Fredo Bang",
-          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+          "name": "Ro$ama",
+          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
         },
         {
           "name": "BigXthaPlug",
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
         }
       ],
-      "duration_ms": 194716,
-      "name": "Say Please (Don't Leave Me Lonely) (feat. BigXthaPlug)",
-      "url": "https://open.spotify.com/track/3gq1jrwHUDFN0VyQu2yvrQ"
+      "duration_ms": 163626,
+      "name": "Who Run It",
+      "url": "https://open.spotify.com/track/3uhJIV80m8oKkuyvvS6rw2"
     },
     {
       "added_at": null,
@@ -783,6 +763,26 @@
       "duration_ms": 124480,
       "name": "Life of a Boss",
       "url": "https://open.spotify.com/track/2Zom0cHy98xMHYtSFu64yX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Say Please (Don't Leave Me Lonely) [feat. BigXthaPlug]",
+        "url": "https://open.spotify.com/album/42u78y3vwF6rNh81djS2SF"
+      },
+      "artists": [
+        {
+          "name": "Fredo Bang",
+          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+        },
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 194716,
+      "name": "Say Please (Don't Leave Me Lonely) (feat. BigXthaPlug)",
+      "url": "https://open.spotify.com/track/3gq1jrwHUDFN0VyQu2yvrQ"
     },
     {
       "added_at": null,

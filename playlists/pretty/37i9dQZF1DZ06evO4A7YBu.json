@@ -1,12 +1,12 @@
 {
   "description": "This is Static-X. The essential tracks, all in one playlist.",
-  "num_followers": 43132,
+  "num_followers": 43137,
   "original_name": "This Is Static-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAAAojHVzyFPsJBKrOs8FFfcX",
+  "snapshot_id": "ajXYAAAAAADbhXyfNZpvgtgMOthnkKA5",
   "tracks": [
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 215280,
-      "name": "Bring You Down (Project Regeneration)",
-      "url": "https://open.spotify.com/track/1NGBpjIrZIe0RagRFmyXfg"
+      "duration_ms": 206506,
+      "name": "Worth Dyin For",
+      "url": "https://open.spotify.com/track/7n84Px9d3eBa7G5W6YoHip"
     },
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 206506,
-      "name": "Worth Dyin For",
-      "url": "https://open.spotify.com/track/7n84Px9d3eBa7G5W6YoHip"
+      "duration_ms": 215280,
+      "name": "Bring You Down (Project Regeneration)",
+      "url": "https://open.spotify.com/track/1NGBpjIrZIe0RagRFmyXfg"
     },
     {
       "added_at": null,

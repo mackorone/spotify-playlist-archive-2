@@ -1,12 +1,12 @@
 {
   "description": "This is Tems. The essential tracks, all in one playlist.",
-  "num_followers": 147638,
+  "num_followers": 147707,
   "original_name": "This Is Tems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAABeF0P/v6AO8C0b9oVqFk26",
+  "snapshot_id": "ajXYAAAAAAC7chqkvSz1vUgy7KwqZQe9",
   "tracks": [
     {
       "added_at": null,
@@ -847,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blackmagic Version 3.0 (Starving Artist)",
-        "url": "https://open.spotify.com/album/0uoZGAda5pPCSU2yfoZNx5"
-      },
-      "artists": [
-        {
-          "name": "Blackmagic",
-          "url": "https://open.spotify.com/artist/711uESshM9OxGFc3lT8CL8"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 184799,
-      "name": "Soon",
-      "url": "https://open.spotify.com/track/1kfQmWnwajgFHQhJMvk6LF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pioneers",
         "url": "https://open.spotify.com/album/7tFUesVQ7An8e5pEu7sPYv"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 194594,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/319xYgRF9JFpGLTtiCDhC7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blackmagic Version 3.0 (Starving Artist)",
+        "url": "https://open.spotify.com/album/0uoZGAda5pPCSU2yfoZNx5"
+      },
+      "artists": [
+        {
+          "name": "Blackmagic",
+          "url": "https://open.spotify.com/artist/711uESshM9OxGFc3lT8CL8"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 184799,
+      "name": "Soon",
+      "url": "https://open.spotify.com/track/1kfQmWnwajgFHQhJMvk6LF"
     },
     {
       "added_at": null,

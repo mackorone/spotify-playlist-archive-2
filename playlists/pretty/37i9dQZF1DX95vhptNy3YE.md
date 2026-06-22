@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Budah, AJULLIACOSTA, Franco, the Sir! e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,408 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,381 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 45 | [Teu Jeitinho \- Spotify Singles](https://open.spotify.com/track/5yg8FJ7qIHq2TfzLzmxfTs) | [Renan Oliveira](https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm) | [Teu Jeitinho \- Spotify Singles](https://open.spotify.com/album/3xmYjG7NfO1DUS5bPXVgsH) | 3:17 |
 | 46 | [Quando Você Ligou](https://open.spotify.com/track/2kbSMgvj7H2cqnDXvDAfZS) | [Mc Negão Original](https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [DJ Guh Mix](https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD), [DJ Yago](https://open.spotify.com/artist/4tdmp3YXtKZU6mk91K9yJb) | [Quando Você Ligou](https://open.spotify.com/album/0QPNCXbWTQqLXSSOZqp2dh) | 3:09 |
 | 47 | [Ganância](https://open.spotify.com/track/57CFxibO5v043gnNYgqbkD) | [Raflow](https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Mc Rodson](https://open.spotify.com/artist/1dMvEh0mf2B6t4LvnzyXp4) | [23](https://open.spotify.com/album/0ZfN7vPj1ZyHEXHxLsvVu7) | 3:53 |
-| 48 | [NOITES TRAIÇOEIRAS](https://open.spotify.com/track/5FuRslm40ttLrTJSP8EgUI) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Beat do Ávila](https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP), [Mahai](https://open.spotify.com/artist/2wRHyStBiMxi4bYc8nHdPy) | [Você Precisa do Álibi](https://open.spotify.com/album/4530wDuVkqhhnJsGma5qKX) | 2:45 |
+| 48 | [Ainda Tem Amor \- Ao Vivo](https://open.spotify.com/track/5QAtGmW5vPU3Pgmf99wktb) | [Fabinho](https://open.spotify.com/artist/7p47atayUept3xqqBbVXlN) | [Ainda Tem Amor \(Ao Vivo\)](https://open.spotify.com/album/1aY8UPB7I0ybmbk94wtzJk) | 2:50 |
 | 49 | [Malandro TouchScreen](https://open.spotify.com/track/5weTYPqLyxPP2zqzoLWep3) | [Bia Soull](https://open.spotify.com/artist/0VYAyZttWMdlpWDl07itbd), [WES](https://open.spotify.com/artist/6424uJS5kZLTGL0pAW7e3J), [Paulo DK](https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE) | [PORNOGRAFIA AUDITIVA](https://open.spotify.com/album/0nRwEFPONzItt3VjqLzq2Q) | 2:04 |
 | 50 | [MINA QUENTE](https://open.spotify.com/track/3B17U5VJdLG72jwJVbhUsW) | [Ciça](https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4), [Bruce Slim Beats](https://open.spotify.com/artist/51SpeGvzKVZIxsQ13K37CD) | [MINA QUENTE](https://open.spotify.com/album/5pBQJ5z4tz9sjBAjOOTVvE) | 2:31 |
 

@@ -1,12 +1,12 @@
 {
   "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
-  "num_followers": 252607,
+  "num_followers": 252627,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajSGgAAAAAC5kzKo8QbVGiI04AaBVmG7",
+  "snapshot_id": "ajXYAAAAAAAQbTzvRgfdegN7Hd/VeMZu",
   "tracks": [
     {
       "added_at": null,
@@ -839,6 +839,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Noi",
+        "url": "https://open.spotify.com/album/7gAJbyGOdx4SPXjhFfvSTH"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 203306,
+      "name": "Un Angelo Disteso Al Sole",
+      "url": "https://open.spotify.com/track/7F4laaMW44ARgK3MioHv4n"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sogno",
         "url": "https://open.spotify.com/album/3fKfyzmHnCsdCw4iD3xIch"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 223521,
       "name": "Nel cuore lei",
       "url": "https://open.spotify.com/track/7mlmpmwrkMKcU94jXRAaPy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Noi",
-        "url": "https://open.spotify.com/album/7gAJbyGOdx4SPXjhFfvSTH"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 203306,
-      "name": "Un Angelo Disteso Al Sole",
-      "url": "https://open.spotify.com/track/7F4laaMW44ARgK3MioHv4n"
     },
     {
       "added_at": null,

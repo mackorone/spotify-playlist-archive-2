@@ -1,6 +1,6 @@
 {
   "description": "Una euf\u00f3rica dosis de urbano rom\u00e1ntico en espa\u00f1ol.  ",
-  "num_followers": 198676,
+  "num_followers": 198703,
   "original_name": "Rimas Pa'l Cora",
   "owner": {
     "name": "Spotify",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2026-05-29 06:00:16",
       "album": {
+        "name": "Hacer Historia",
+        "url": "https://open.spotify.com/album/1xIXEM8AkHn3xBSKlxdyXa"
+      },
+      "artists": [
+        {
+          "name": "Eptos Uno",
+          "url": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
+        }
+      ],
+      "duration_ms": 231466,
+      "name": "Un Momento",
+      "url": "https://open.spotify.com/track/1nVDfIjgVWJqVyUoKhw39u"
+    },
+    {
+      "added_at": "2026-05-29 06:00:16",
+      "album": {
         "name": "Tu Mitad",
         "url": "https://open.spotify.com/album/5RtEG0KPiMdimT16N7jOny"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 147260,
       "name": "Tu Mitad",
       "url": "https://open.spotify.com/track/3ftup7idrYqKZWVj9OWs37"
-    },
-    {
-      "added_at": "2026-05-29 06:00:16",
-      "album": {
-        "name": "Hacer Historia",
-        "url": "https://open.spotify.com/album/1xIXEM8AkHn3xBSKlxdyXa"
-      },
-      "artists": [
-        {
-          "name": "Eptos Uno",
-          "url": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
-        }
-      ],
-      "duration_ms": 231466,
-      "name": "Un Momento",
-      "url": "https://open.spotify.com/track/1nVDfIjgVWJqVyUoKhw39u"
     },
     {
       "added_at": "2026-05-29 06:00:16",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2026-05-29 06:00:16",
       "album": {
-        "name": "Todo Menso",
-        "url": "https://open.spotify.com/album/3YlsvvJJGrV32DPTruOIyH"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        }
-      ],
-      "duration_ms": 191917,
-      "name": "Todo Menso",
-      "url": "https://open.spotify.com/track/7Cz1P6tmbAOqLrZMh5Z5T8"
-    },
-    {
-      "added_at": "2026-05-29 06:00:16",
-      "album": {
         "name": "\u00bfC\u00f3mo Se Supera?",
         "url": "https://open.spotify.com/album/2y7fMhpx5uexdebjJEuNzF"
       },
@@ -1355,6 +1335,26 @@
       "duration_ms": 203916,
       "name": "\u00bfC\u00f3mo Se Supera?",
       "url": "https://open.spotify.com/track/3YVgqw3Qw5GZGSiNXw7sd5"
+    },
+    {
+      "added_at": "2026-05-29 06:00:16",
+      "album": {
+        "name": "Todo Menso",
+        "url": "https://open.spotify.com/album/3YlsvvJJGrV32DPTruOIyH"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        }
+      ],
+      "duration_ms": 191917,
+      "name": "Todo Menso",
+      "url": "https://open.spotify.com/track/7Cz1P6tmbAOqLrZMh5Z5T8"
     },
     {
       "added_at": "2026-05-29 06:00:16",
@@ -1683,6 +1683,26 @@
     {
       "added_at": "2026-05-29 06:00:16",
       "album": {
+        "name": "S\u00f3lo Si Es Contigo",
+        "url": "https://open.spotify.com/album/0QItw3Hx1o9LhCj8iJdzon"
+      },
+      "artists": [
+        {
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 239926,
+      "name": "S\u00f3lo Si Es Contigo",
+      "url": "https://open.spotify.com/track/6GTZrTCYaK60pZYvgaOw5Y"
+    },
+    {
+      "added_at": "2026-05-29 06:00:16",
+      "album": {
         "name": "No Me Hables de Amores",
         "url": "https://open.spotify.com/album/1zbxG5KTD9aXT61bd2Akej"
       },
@@ -1703,26 +1723,6 @@
       "duration_ms": 196821,
       "name": "No Me Hables de Amores",
       "url": "https://open.spotify.com/track/4fpHOc26bovxW3Ol0UGijz"
-    },
-    {
-      "added_at": "2026-05-29 06:00:16",
-      "album": {
-        "name": "S\u00f3lo Si Es Contigo",
-        "url": "https://open.spotify.com/album/0QItw3Hx1o9LhCj8iJdzon"
-      },
-      "artists": [
-        {
-          "name": "Santa RM",
-          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 239926,
-      "name": "S\u00f3lo Si Es Contigo",
-      "url": "https://open.spotify.com/track/6GTZrTCYaK60pZYvgaOw5Y"
     },
     {
       "added_at": "2026-05-29 06:00:16",
@@ -2967,22 +2967,6 @@
     {
       "added_at": "2026-05-29 06:00:16",
       "album": {
-        "name": "B\u00e9same Lento",
-        "url": "https://open.spotify.com/album/6nVpmgyiQiBC9dVXnur7VF"
-      },
-      "artists": [
-        {
-          "name": "Solitario Mondragon",
-          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
-        }
-      ],
-      "duration_ms": 271714,
-      "name": "B\u00e9same Lento",
-      "url": "https://open.spotify.com/track/702HgdUa5QILPolhhVoktM"
-    },
-    {
-      "added_at": "2026-05-29 06:00:16",
-      "album": {
         "name": "Findes",
         "url": "https://open.spotify.com/album/6EJbPllUaHkXndA03xJGfy"
       },
@@ -3003,22 +2987,18 @@
     {
       "added_at": "2026-05-29 06:00:16",
       "album": {
-        "name": "Joven",
-        "url": "https://open.spotify.com/album/1AQDha8JcEGUDvU6qfdwRB"
+        "name": "B\u00e9same Lento",
+        "url": "https://open.spotify.com/album/6nVpmgyiQiBC9dVXnur7VF"
       },
       "artists": [
         {
-          "name": "Solo Cadaver",
-          "url": "https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy"
-        },
-        {
-          "name": "Don Bustos",
-          "url": "https://open.spotify.com/artist/2pXkb54x9Ve8vF6bMhvnps"
+          "name": "Solitario Mondragon",
+          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
         }
       ],
-      "duration_ms": 244000,
-      "name": "Joven",
-      "url": "https://open.spotify.com/track/5ZaWrrmSD02MiqjUpKXdPX"
+      "duration_ms": 271714,
+      "name": "B\u00e9same Lento",
+      "url": "https://open.spotify.com/track/702HgdUa5QILPolhhVoktM"
     },
     {
       "added_at": "2026-05-29 06:00:16",
@@ -3039,6 +3019,26 @@
       "duration_ms": 177451,
       "name": "Costumbre",
       "url": "https://open.spotify.com/track/2o7Ry05Ujg5TURr0AZSeGE"
+    },
+    {
+      "added_at": "2026-05-29 06:00:16",
+      "album": {
+        "name": "Joven",
+        "url": "https://open.spotify.com/album/1AQDha8JcEGUDvU6qfdwRB"
+      },
+      "artists": [
+        {
+          "name": "Solo Cadaver",
+          "url": "https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy"
+        },
+        {
+          "name": "Don Bustos",
+          "url": "https://open.spotify.com/artist/2pXkb54x9Ve8vF6bMhvnps"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Joven",
+      "url": "https://open.spotify.com/track/5ZaWrrmSD02MiqjUpKXdPX"
     },
     {
       "added_at": "2026-05-29 06:00:16",
@@ -3231,22 +3231,6 @@
     {
       "added_at": "2026-05-29 06:00:16",
       "album": {
-        "name": "Mirando Al Cielo",
-        "url": "https://open.spotify.com/album/4OM0ACFQ6xXyHW136buPYv"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 196666,
-      "name": "Mirando Al Cielo",
-      "url": "https://open.spotify.com/track/6il5X12LCNpY0mJwTuZtzN"
-    },
-    {
-      "added_at": "2026-05-29 06:00:16",
-      "album": {
         "name": "No te puedo olvidar",
         "url": "https://open.spotify.com/album/0SbmPCnt3bejnNrWaKqDtW"
       },
@@ -3263,6 +3247,22 @@
       "duration_ms": 189354,
       "name": "No te puedo olvidar",
       "url": "https://open.spotify.com/track/2AmhsW7krdAbX1jtN3azTP"
+    },
+    {
+      "added_at": "2026-05-29 06:00:16",
+      "album": {
+        "name": "Mirando Al Cielo",
+        "url": "https://open.spotify.com/album/4OM0ACFQ6xXyHW136buPYv"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 196666,
+      "name": "Mirando Al Cielo",
+      "url": "https://open.spotify.com/track/6il5X12LCNpY0mJwTuZtzN"
     },
     {
       "added_at": "2026-05-29 06:00:16",
@@ -3363,22 +3363,6 @@
     {
       "added_at": "2026-05-29 06:00:16",
       "album": {
-        "name": "Sol",
-        "url": "https://open.spotify.com/album/3THBtFwKBwIdIEw7Nc044G"
-      },
-      "artists": [
-        {
-          "name": "Teeam Revolver",
-          "url": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
-        }
-      ],
-      "duration_ms": 223500,
-      "name": "Sol",
-      "url": "https://open.spotify.com/track/1Z2rizszFDMFwhAUIVjgnj"
-    },
-    {
-      "added_at": "2026-05-29 06:00:16",
-      "album": {
         "name": "Te Voy a Extra\u00f1ar",
         "url": "https://open.spotify.com/album/4BICaJLey3jzPoFaGYIp3W"
       },
@@ -3391,6 +3375,22 @@
       "duration_ms": 198971,
       "name": "Te Voy a Extra\u00f1ar",
       "url": "https://open.spotify.com/track/0oUMLrNG36I7PaZHF2MbvL"
+    },
+    {
+      "added_at": "2026-05-29 06:00:16",
+      "album": {
+        "name": "Sol",
+        "url": "https://open.spotify.com/album/3THBtFwKBwIdIEw7Nc044G"
+      },
+      "artists": [
+        {
+          "name": "Teeam Revolver",
+          "url": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
+        }
+      ],
+      "duration_ms": 223500,
+      "name": "Sol",
+      "url": "https://open.spotify.com/track/1Z2rizszFDMFwhAUIVjgnj"
     },
     {
       "added_at": "2026-05-29 06:00:16",
@@ -3467,6 +3467,22 @@
     {
       "added_at": "2026-05-29 06:00:16",
       "album": {
+        "name": "Perd\u00f3n, Perd\u00f3n, Perd\u00f3n",
+        "url": "https://open.spotify.com/album/0pbO3t2gwiJzs9L1K5WfWi"
+      },
+      "artists": [
+        {
+          "name": "Achepe",
+          "url": "https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM"
+        }
+      ],
+      "duration_ms": 182913,
+      "name": "Perd\u00f3n, Perd\u00f3n, Perd\u00f3n",
+      "url": "https://open.spotify.com/track/2XoSCR8M8zmK9iVrn4jedE"
+    },
+    {
+      "added_at": "2026-05-29 06:00:16",
+      "album": {
         "name": "En una Nube",
         "url": "https://open.spotify.com/album/3fODLYocKVu9M1SWXnpGbF"
       },
@@ -3483,22 +3499,6 @@
       "duration_ms": 226521,
       "name": "En una Nube",
       "url": "https://open.spotify.com/track/5qpiI7NRnRm49JFXAbQNfN"
-    },
-    {
-      "added_at": "2026-05-29 06:00:16",
-      "album": {
-        "name": "Perd\u00f3n, Perd\u00f3n, Perd\u00f3n",
-        "url": "https://open.spotify.com/album/0pbO3t2gwiJzs9L1K5WfWi"
-      },
-      "artists": [
-        {
-          "name": "Achepe",
-          "url": "https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM"
-        }
-      ],
-      "duration_ms": 182913,
-      "name": "Perd\u00f3n, Perd\u00f3n, Perd\u00f3n",
-      "url": "https://open.spotify.com/track/2XoSCR8M8zmK9iVrn4jedE"
     },
     {
       "added_at": "2026-05-29 06:00:16",
@@ -3663,22 +3663,6 @@
     {
       "added_at": "2026-05-29 06:00:16",
       "album": {
-        "name": "Borracho y Dolido",
-        "url": "https://open.spotify.com/album/4U5kWPFm51SHTPhOibHsdQ"
-      },
-      "artists": [
-        {
-          "name": "Efecto SR",
-          "url": "https://open.spotify.com/artist/2do4Z40QtYI2DXXc7xIlSs"
-        }
-      ],
-      "duration_ms": 169079,
-      "name": "Borracho y Dolido",
-      "url": "https://open.spotify.com/track/21mWxC6nkXHQlDNVnDHhu5"
-    },
-    {
-      "added_at": "2026-05-29 06:00:16",
-      "album": {
         "name": "Dos Extra\u00f1os",
         "url": "https://open.spotify.com/album/6rxxhbHjt4bwvrbm660BZ7"
       },
@@ -3699,6 +3683,22 @@
       "duration_ms": 196216,
       "name": "Dos Extra\u00f1os",
       "url": "https://open.spotify.com/track/4H6yrTlUFFtFe1qwHp2gOL"
+    },
+    {
+      "added_at": "2026-05-29 06:00:16",
+      "album": {
+        "name": "Borracho y Dolido",
+        "url": "https://open.spotify.com/album/4U5kWPFm51SHTPhOibHsdQ"
+      },
+      "artists": [
+        {
+          "name": "Efecto SR",
+          "url": "https://open.spotify.com/artist/2do4Z40QtYI2DXXc7xIlSs"
+        }
+      ],
+      "duration_ms": 169079,
+      "name": "Borracho y Dolido",
+      "url": "https://open.spotify.com/track/21mWxC6nkXHQlDNVnDHhu5"
     },
     {
       "added_at": "2026-05-29 06:00:16",
@@ -3767,26 +3767,6 @@
     {
       "added_at": "2026-05-29 06:00:16",
       "album": {
-        "name": "Peculiar",
-        "url": "https://open.spotify.com/album/1OnCPmWMLUMNRA17MByzET"
-      },
-      "artists": [
-        {
-          "name": "Teeam Revolver",
-          "url": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
-        },
-        {
-          "name": "Ervin River",
-          "url": "https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL"
-        }
-      ],
-      "duration_ms": 173100,
-      "name": "Peculiar",
-      "url": "https://open.spotify.com/track/3xGygyK3SKITPewByTvdAK"
-    },
-    {
-      "added_at": "2026-05-29 06:00:16",
-      "album": {
         "name": "Dime",
         "url": "https://open.spotify.com/album/4dBPygLWe6vYp6GSiAWDz3"
       },
@@ -3803,6 +3783,26 @@
       "duration_ms": 195519,
       "name": "Dime",
       "url": "https://open.spotify.com/track/0akXdaUMmf9RIxFa0TopzG"
+    },
+    {
+      "added_at": "2026-05-29 06:00:16",
+      "album": {
+        "name": "Peculiar",
+        "url": "https://open.spotify.com/album/1OnCPmWMLUMNRA17MByzET"
+      },
+      "artists": [
+        {
+          "name": "Teeam Revolver",
+          "url": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
+        },
+        {
+          "name": "Ervin River",
+          "url": "https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL"
+        }
+      ],
+      "duration_ms": 173100,
+      "name": "Peculiar",
+      "url": "https://open.spotify.com/track/3xGygyK3SKITPewByTvdAK"
     },
     {
       "added_at": "2026-05-29 06:00:16",
@@ -3939,30 +3939,6 @@
     {
       "added_at": "2026-05-29 06:00:16",
       "album": {
-        "name": "Flakita",
-        "url": "https://open.spotify.com/album/4S4cvQx7xl3BqA39CrsuJN"
-      },
-      "artists": [
-        {
-          "name": "D\u2019Garay",
-          "url": "https://open.spotify.com/artist/5tAbkBMgE8yJ39PyGnWqjz"
-        },
-        {
-          "name": "Fer Sober\u00f3n",
-          "url": "https://open.spotify.com/artist/7N3Td3Wa6ADFhGYc9wp88U"
-        },
-        {
-          "name": "Gardu",
-          "url": "https://open.spotify.com/artist/6pgBGo3QGFtzdVciDvscrn"
-        }
-      ],
-      "duration_ms": 171050,
-      "name": "Flakita",
-      "url": "https://open.spotify.com/track/75GPUVRzfOBic0OXkuO313"
-    },
-    {
-      "added_at": "2026-05-29 06:00:16",
-      "album": {
         "name": "Tres Copas",
         "url": "https://open.spotify.com/album/2MzVCk6nvH77dcOdb0fD0x"
       },
@@ -3983,6 +3959,30 @@
       "duration_ms": 203253,
       "name": "Tres Copas",
       "url": "https://open.spotify.com/track/5XXF2YGeHsFUrNnk4SPe56"
+    },
+    {
+      "added_at": "2026-05-29 06:00:16",
+      "album": {
+        "name": "Flakita",
+        "url": "https://open.spotify.com/album/4S4cvQx7xl3BqA39CrsuJN"
+      },
+      "artists": [
+        {
+          "name": "D\u2019Garay",
+          "url": "https://open.spotify.com/artist/5tAbkBMgE8yJ39PyGnWqjz"
+        },
+        {
+          "name": "Fer Sober\u00f3n",
+          "url": "https://open.spotify.com/artist/7N3Td3Wa6ADFhGYc9wp88U"
+        },
+        {
+          "name": "Gardu",
+          "url": "https://open.spotify.com/artist/6pgBGo3QGFtzdVciDvscrn"
+        }
+      ],
+      "duration_ms": 171050,
+      "name": "Flakita",
+      "url": "https://open.spotify.com/track/75GPUVRzfOBic0OXkuO313"
     },
     {
       "added_at": "2026-05-29 06:00:16",
@@ -4159,26 +4159,6 @@
     {
       "added_at": "2026-05-29 06:00:16",
       "album": {
-        "name": "Sin Poder Olvidarte",
-        "url": "https://open.spotify.com/album/4amL1nxZnYNW5hEgSUvnoa"
-      },
-      "artists": [
-        {
-          "name": "Jon Jams",
-          "url": "https://open.spotify.com/artist/1QmcAReKKTu2A9L97Mofv7"
-        },
-        {
-          "name": "Doble ONE Flow Letal",
-          "url": "https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX"
-        }
-      ],
-      "duration_ms": 228548,
-      "name": "Sin Poder Olvidarte",
-      "url": "https://open.spotify.com/track/6EBdAt4GvHKeRYYsxPn02G"
-    },
-    {
-      "added_at": "2026-05-29 06:00:16",
-      "album": {
         "name": "Lucifer",
         "url": "https://open.spotify.com/album/6sOUagzQBWZ8ihsrpX6QsH"
       },
@@ -4199,6 +4179,26 @@
     {
       "added_at": "2026-05-29 06:00:16",
       "album": {
+        "name": "Sin Poder Olvidarte",
+        "url": "https://open.spotify.com/album/4amL1nxZnYNW5hEgSUvnoa"
+      },
+      "artists": [
+        {
+          "name": "Jon Jams",
+          "url": "https://open.spotify.com/artist/1QmcAReKKTu2A9L97Mofv7"
+        },
+        {
+          "name": "Doble ONE Flow Letal",
+          "url": "https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX"
+        }
+      ],
+      "duration_ms": 228548,
+      "name": "Sin Poder Olvidarte",
+      "url": "https://open.spotify.com/track/6EBdAt4GvHKeRYYsxPn02G"
+    },
+    {
+      "added_at": "2026-05-29 06:00:16",
+      "album": {
         "name": "De Revista",
         "url": "https://open.spotify.com/album/21IUOwtcPiMxvz89bCYz1V"
       },
@@ -4211,6 +4211,22 @@
       "duration_ms": 158731,
       "name": "De Revista",
       "url": "https://open.spotify.com/track/10gQ003tvEF4VsO95jJIYY"
+    },
+    {
+      "added_at": "2026-05-29 06:00:16",
+      "album": {
+        "name": "Me Mata Perderte",
+        "url": "https://open.spotify.com/album/0BWXMA7zLCkSWuopmtMiQZ"
+      },
+      "artists": [
+        {
+          "name": "Leyruk",
+          "url": "https://open.spotify.com/artist/4H3ePoFDdsl36QwB96jZzg"
+        }
+      ],
+      "duration_ms": 244775,
+      "name": "Me Mata Perderte",
+      "url": "https://open.spotify.com/track/5W19b901CvJtOed0GL9JgP"
     },
     {
       "added_at": "2026-05-29 06:00:16",
@@ -4235,18 +4251,22 @@
     {
       "added_at": "2026-05-29 06:00:16",
       "album": {
-        "name": "Me Mata Perderte",
-        "url": "https://open.spotify.com/album/0BWXMA7zLCkSWuopmtMiQZ"
+        "name": "Mula del Seis",
+        "url": "https://open.spotify.com/album/675eyytozgnUk3qjfc1QoZ"
       },
       "artists": [
         {
-          "name": "Leyruk",
-          "url": "https://open.spotify.com/artist/4H3ePoFDdsl36QwB96jZzg"
+          "name": "Kosmer Azufre Squad",
+          "url": "https://open.spotify.com/artist/2Ey4tRJ1hbrsMUn8GjhRn2"
+        },
+        {
+          "name": "Achepe",
+          "url": "https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM"
         }
       ],
-      "duration_ms": 244775,
-      "name": "Me Mata Perderte",
-      "url": "https://open.spotify.com/track/5W19b901CvJtOed0GL9JgP"
+      "duration_ms": 223255,
+      "name": "Una Noche Mas",
+      "url": "https://open.spotify.com/track/7vUHtx8d00gvxgv5QCsoAs"
     },
     {
       "added_at": "2026-05-29 06:00:16",
@@ -4267,26 +4287,6 @@
       "duration_ms": 158346,
       "name": "Que Les Valga Madre - En Vivo",
       "url": "https://open.spotify.com/track/7Fnxkg6ifzOKRCeJQURnSW"
-    },
-    {
-      "added_at": "2026-05-29 06:00:16",
-      "album": {
-        "name": "Mula del Seis",
-        "url": "https://open.spotify.com/album/675eyytozgnUk3qjfc1QoZ"
-      },
-      "artists": [
-        {
-          "name": "Kosmer Azufre Squad",
-          "url": "https://open.spotify.com/artist/2Ey4tRJ1hbrsMUn8GjhRn2"
-        },
-        {
-          "name": "Achepe",
-          "url": "https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM"
-        }
-      ],
-      "duration_ms": 223255,
-      "name": "Una Noche Mas",
-      "url": "https://open.spotify.com/track/7vUHtx8d00gvxgv5QCsoAs"
     },
     {
       "added_at": "2026-05-29 06:00:16",
@@ -4491,6 +4491,22 @@
     {
       "added_at": "2026-05-29 06:00:16",
       "album": {
+        "name": "Perder para Ganar",
+        "url": "https://open.spotify.com/album/4RnP44jWQF3PptVM0hJXZB"
+      },
+      "artists": [
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        }
+      ],
+      "duration_ms": 211973,
+      "name": "Volvernos a Topar",
+      "url": "https://open.spotify.com/track/2g1WWDdLIhLsFTy0t04u3f"
+    },
+    {
+      "added_at": "2026-05-29 06:00:16",
+      "album": {
         "name": "2022",
         "url": "https://open.spotify.com/album/77fkFCGSZ5NLEXOhR9m5jH"
       },
@@ -4527,22 +4543,6 @@
       "duration_ms": 203150,
       "name": "SE MARCHIT\u00d3 LA FLOR",
       "url": "https://open.spotify.com/track/1oYEK1fIfaA8UofLu1Phu8"
-    },
-    {
-      "added_at": "2026-05-29 06:00:16",
-      "album": {
-        "name": "Perder para Ganar",
-        "url": "https://open.spotify.com/album/4RnP44jWQF3PptVM0hJXZB"
-      },
-      "artists": [
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        }
-      ],
-      "duration_ms": 211973,
-      "name": "Volvernos a Topar",
-      "url": "https://open.spotify.com/track/2g1WWDdLIhLsFTy0t04u3f"
     },
     {
       "added_at": "2026-05-29 06:00:16",
@@ -4591,6 +4591,22 @@
     {
       "added_at": "2026-05-29 06:00:16",
       "album": {
+        "name": "Colibr\u00ed",
+        "url": "https://open.spotify.com/album/65f71lgoP71F7dN6ubyg9P"
+      },
+      "artists": [
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        }
+      ],
+      "duration_ms": 150318,
+      "name": "Colibr\u00ed",
+      "url": "https://open.spotify.com/track/3SB4BggLTilRbeqErh059h"
+    },
+    {
+      "added_at": "2026-05-29 06:00:16",
+      "album": {
         "name": "Apunto",
         "url": "https://open.spotify.com/album/7jNKsMqd2h8S1u60iuIfi0"
       },
@@ -4631,22 +4647,6 @@
     {
       "added_at": "2026-05-29 06:00:16",
       "album": {
-        "name": "Colibr\u00ed",
-        "url": "https://open.spotify.com/album/65f71lgoP71F7dN6ubyg9P"
-      },
-      "artists": [
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        }
-      ],
-      "duration_ms": 150318,
-      "name": "Colibr\u00ed",
-      "url": "https://open.spotify.com/track/3SB4BggLTilRbeqErh059h"
-    },
-    {
-      "added_at": "2026-05-29 06:00:16",
-      "album": {
         "name": "Cada Noche",
         "url": "https://open.spotify.com/album/1W8mhbDRuIVtsNAcDB7pJZ"
       },
@@ -4683,6 +4683,22 @@
     {
       "added_at": "2026-05-29 06:00:16",
       "album": {
+        "name": "Bit\u00e1coras Callejeras, Vol. 2",
+        "url": "https://open.spotify.com/album/6CZNH0qfdnTQQFf3PXWejf"
+      },
+      "artists": [
+        {
+          "name": "Under Side 821",
+          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
+        }
+      ],
+      "duration_ms": 260571,
+      "name": "Balada",
+      "url": "https://open.spotify.com/track/7otmcwp4mIqNLm12UJRg9k"
+    },
+    {
+      "added_at": "2026-05-29 06:00:16",
+      "album": {
         "name": "KUMIKO",
         "url": "https://open.spotify.com/album/1poDExjmuuiO7HP4Ln3yjQ"
       },
@@ -4699,22 +4715,6 @@
       "duration_ms": 178636,
       "name": "KUMIKO",
       "url": "https://open.spotify.com/track/0QGwfIHIp3xYDYcoXFd3qG"
-    },
-    {
-      "added_at": "2026-05-29 06:00:16",
-      "album": {
-        "name": "Bit\u00e1coras Callejeras, Vol. 2",
-        "url": "https://open.spotify.com/album/6CZNH0qfdnTQQFf3PXWejf"
-      },
-      "artists": [
-        {
-          "name": "Under Side 821",
-          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
-        }
-      ],
-      "duration_ms": 260571,
-      "name": "Balada",
-      "url": "https://open.spotify.com/track/7otmcwp4mIqNLm12UJRg9k"
     },
     {
       "added_at": "2026-05-29 06:00:16",

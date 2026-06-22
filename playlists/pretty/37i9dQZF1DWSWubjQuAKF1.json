@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Manya",
-  "num_followers": 26070,
+  "num_followers": 26068,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,6 @@
     {
       "added_at": "2026-06-18 22:02:10",
       "album": {
-        "name": "OdFiltruj Rzeczywisto\u015b\u0107",
-        "url": "https://open.spotify.com/album/7oE81fj7B3MCy68mvdW9OE"
-      },
-      "artists": [
-        {
-          "name": "Zuza Jab\u0142o\u0144ska",
-          "url": "https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt"
-        }
-      ],
-      "duration_ms": 173400,
-      "name": "OdFiltruj Rzeczywisto\u015b\u0107",
-      "url": "https://open.spotify.com/track/0zXXpAKmNuHbxsuJVMGnAM"
-    },
-    {
-      "added_at": "2026-06-18 22:02:10",
-      "album": {
         "name": "G\u0141UPIA",
         "url": "https://open.spotify.com/album/51QUkIF35JlCTSccXGt1r4"
       },
@@ -375,22 +359,6 @@
     {
       "added_at": "2026-06-18 22:02:10",
       "album": {
-        "name": "WSZYSTKO NA NIC",
-        "url": "https://open.spotify.com/album/1eZJg0B52UTxm6KqViMsej"
-      },
-      "artists": [
-        {
-          "name": "HELA",
-          "url": "https://open.spotify.com/artist/0kDheRc8ZXm7cEBSIcb3dj"
-        }
-      ],
-      "duration_ms": 199736,
-      "name": "WSZYSTKO NA NIC",
-      "url": "https://open.spotify.com/track/0PuNQogi1Fw7Yh78WcpYWB"
-    },
-    {
-      "added_at": "2026-06-18 22:02:10",
-      "album": {
         "name": "halo Houston",
         "url": "https://open.spotify.com/album/0ASB9yWOXdBFSnjKlZmI87"
       },
@@ -403,6 +371,38 @@
       "duration_ms": 143048,
       "name": "halo Houston",
       "url": "https://open.spotify.com/track/4kIqI8h1bxOgrI9siEkD62"
+    },
+    {
+      "added_at": "2026-06-18 22:02:10",
+      "album": {
+        "name": "OdFiltruj Rzeczywisto\u015b\u0107",
+        "url": "https://open.spotify.com/album/7oE81fj7B3MCy68mvdW9OE"
+      },
+      "artists": [
+        {
+          "name": "Zuza Jab\u0142o\u0144ska",
+          "url": "https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt"
+        }
+      ],
+      "duration_ms": 173400,
+      "name": "OdFiltruj Rzeczywisto\u015b\u0107",
+      "url": "https://open.spotify.com/track/0zXXpAKmNuHbxsuJVMGnAM"
+    },
+    {
+      "added_at": "2026-06-18 22:02:10",
+      "album": {
+        "name": "WSZYSTKO NA NIC",
+        "url": "https://open.spotify.com/album/1eZJg0B52UTxm6KqViMsej"
+      },
+      "artists": [
+        {
+          "name": "HELA",
+          "url": "https://open.spotify.com/artist/0kDheRc8ZXm7cEBSIcb3dj"
+        }
+      ],
+      "duration_ms": 199736,
+      "name": "WSZYSTKO NA NIC",
+      "url": "https://open.spotify.com/track/0PuNQogi1Fw7Yh78WcpYWB"
     },
     {
       "added_at": "2026-06-18 22:02:10",
@@ -439,18 +439,22 @@
     {
       "added_at": "2026-06-18 22:02:10",
       "album": {
-        "name": "Do Ciebie",
-        "url": "https://open.spotify.com/album/1iJDQdbsD2ihLg0bSLwsSG"
+        "name": "narcyz",
+        "url": "https://open.spotify.com/album/3UHSRBAWsOVucoSl8uULCs"
       },
       "artists": [
         {
-          "name": "Natalia Marczuk",
-          "url": "https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62"
+          "name": "Lotta",
+          "url": "https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs"
+        },
+        {
+          "name": "pszona",
+          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
         }
       ],
-      "duration_ms": 222252,
-      "name": "Do Ciebie",
-      "url": "https://open.spotify.com/track/5JqcGrRcoFWmCbgLrTiswq"
+      "duration_ms": 212000,
+      "name": "narcyz",
+      "url": "https://open.spotify.com/track/44y8Xzr5pLcdaQDAN9R7LB"
     },
     {
       "added_at": "2026-06-18 22:02:10",
@@ -479,38 +483,18 @@
     {
       "added_at": "2026-06-18 22:02:10",
       "album": {
-        "name": "narcyz",
-        "url": "https://open.spotify.com/album/3UHSRBAWsOVucoSl8uULCs"
+        "name": "Do Ciebie",
+        "url": "https://open.spotify.com/album/1iJDQdbsD2ihLg0bSLwsSG"
       },
       "artists": [
         {
-          "name": "Lotta",
-          "url": "https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs"
-        },
-        {
-          "name": "pszona",
-          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
+          "name": "Natalia Marczuk",
+          "url": "https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62"
         }
       ],
-      "duration_ms": 212000,
-      "name": "narcyz",
-      "url": "https://open.spotify.com/track/44y8Xzr5pLcdaQDAN9R7LB"
-    },
-    {
-      "added_at": "2026-06-18 22:02:10",
-      "album": {
-        "name": "Wieje",
-        "url": "https://open.spotify.com/album/5tpWJuzhUJ4PrQp3WeZ8ap"
-      },
-      "artists": [
-        {
-          "name": "maks.tachasiuk",
-          "url": "https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz"
-        }
-      ],
-      "duration_ms": 253551,
-      "name": "Z\u0142y, najgorszy sen",
-      "url": "https://open.spotify.com/track/53DdqsoSrwQIa1gphtIJgF"
+      "duration_ms": 222252,
+      "name": "Do Ciebie",
+      "url": "https://open.spotify.com/track/5JqcGrRcoFWmCbgLrTiswq"
     },
     {
       "added_at": "2026-06-18 22:02:10",
@@ -531,22 +515,18 @@
     {
       "added_at": "2026-06-18 22:02:10",
       "album": {
-        "name": "Grawitacja",
-        "url": "https://open.spotify.com/album/7z7UtlzDsbXxFbQNHDSfJ8"
+        "name": "Wieje",
+        "url": "https://open.spotify.com/album/5tpWJuzhUJ4PrQp3WeZ8ap"
       },
       "artists": [
         {
-          "name": "Marcin Maciejczak",
-          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
-        },
-        {
-          "name": "bryska",
-          "url": "https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh"
+          "name": "maks.tachasiuk",
+          "url": "https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz"
         }
       ],
-      "duration_ms": 183320,
-      "name": "Grawitacja",
-      "url": "https://open.spotify.com/track/580hVA2gNGGXw3A7lRGt4o"
+      "duration_ms": 253551,
+      "name": "Z\u0142y, najgorszy sen",
+      "url": "https://open.spotify.com/track/53DdqsoSrwQIa1gphtIJgF"
     },
     {
       "added_at": "2026-06-18 22:02:10",
@@ -563,6 +543,26 @@
       "duration_ms": 172058,
       "name": "z tob\u0105 nie my\u015bl\u0119 o ex",
       "url": "https://open.spotify.com/track/2FoIW8dYXSyAIcqEKpJ8qC"
+    },
+    {
+      "added_at": "2026-06-18 22:02:10",
+      "album": {
+        "name": "Grawitacja",
+        "url": "https://open.spotify.com/album/7z7UtlzDsbXxFbQNHDSfJ8"
+      },
+      "artists": [
+        {
+          "name": "Marcin Maciejczak",
+          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
+        },
+        {
+          "name": "bryska",
+          "url": "https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh"
+        }
+      ],
+      "duration_ms": 183320,
+      "name": "Grawitacja",
+      "url": "https://open.spotify.com/track/580hVA2gNGGXw3A7lRGt4o"
     },
     {
       "added_at": "2026-06-18 22:02:10",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-06-18 22:02:10",
       "album": {
-        "name": "Eksperyment",
-        "url": "https://open.spotify.com/album/2OvhnHJfqojWQkbRMAXSDO"
-      },
-      "artists": [
-        {
-          "name": "Mi\u0142osz Skierski",
-          "url": "https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ"
-        }
-      ],
-      "duration_ms": 202295,
-      "name": "Z cukrem myl\u0119 l\u00f3d",
-      "url": "https://open.spotify.com/track/335yWRhRBaHbyzmPyFJ0nj"
-    },
-    {
-      "added_at": "2026-06-18 22:02:10",
-      "album": {
         "name": "hyperl\u00f8ve",
         "url": "https://open.spotify.com/album/5o3OssxepuFDEanRLOmZX6"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 157714,
       "name": "hyperl\u00f8ve",
       "url": "https://open.spotify.com/track/3gN55NN5HOAxpqaR8Cwvqz"
+    },
+    {
+      "added_at": "2026-06-18 22:02:10",
+      "album": {
+        "name": "Eksperyment",
+        "url": "https://open.spotify.com/album/2OvhnHJfqojWQkbRMAXSDO"
+      },
+      "artists": [
+        {
+          "name": "Mi\u0142osz Skierski",
+          "url": "https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ"
+        }
+      ],
+      "duration_ms": 202295,
+      "name": "Z cukrem myl\u0119 l\u00f3d",
+      "url": "https://open.spotify.com/track/335yWRhRBaHbyzmPyFJ0nj"
     },
     {
       "added_at": "2026-06-18 22:02:10",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-06-18 22:02:10",
       "album": {
-        "name": "BO TYLKO CIEBIE TU MAM",
-        "url": "https://open.spotify.com/album/0Ib7YnoURJv2WOnGws50jV"
-      },
-      "artists": [
-        {
-          "name": "Kuba D\u0105browski",
-          "url": "https://open.spotify.com/artist/3AxyUv67RW9vF4GbXFqTCP"
-        }
-      ],
-      "duration_ms": 159485,
-      "name": "BO TYLKO CIEBIE TU MAM",
-      "url": "https://open.spotify.com/track/0fK3dCZ0HZApNpX14zMmJ1"
-    },
-    {
-      "added_at": "2026-06-18 22:02:10",
-      "album": {
         "name": "Szeroko\u015bci!",
         "url": "https://open.spotify.com/album/2SIVV4JMG2Yfc8ZAo96nZU"
       },
@@ -703,18 +687,18 @@
     {
       "added_at": "2026-06-18 22:02:10",
       "album": {
-        "name": "Cinnamon",
-        "url": "https://open.spotify.com/album/4BPGLP2hhaCWdkEJGqZ6sY"
+        "name": "BO TYLKO CIEBIE TU MAM",
+        "url": "https://open.spotify.com/album/0Ib7YnoURJv2WOnGws50jV"
       },
       "artists": [
         {
-          "name": "Jea Mira",
-          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
+          "name": "Kuba D\u0105browski",
+          "url": "https://open.spotify.com/artist/3AxyUv67RW9vF4GbXFqTCP"
         }
       ],
-      "duration_ms": 190842,
-      "name": "Cinnamon",
-      "url": "https://open.spotify.com/track/7CxcxeNMisYRbiXULp7L0L"
+      "duration_ms": 159485,
+      "name": "BO TYLKO CIEBIE TU MAM",
+      "url": "https://open.spotify.com/track/0fK3dCZ0HZApNpX14zMmJ1"
     },
     {
       "added_at": "2026-06-18 22:02:10",
@@ -731,6 +715,22 @@
       "duration_ms": 149011,
       "name": "PORTO",
       "url": "https://open.spotify.com/track/2yC6IrXdV3w6AaReClZIMY"
+    },
+    {
+      "added_at": "2026-06-18 22:02:10",
+      "album": {
+        "name": "Cinnamon",
+        "url": "https://open.spotify.com/album/4BPGLP2hhaCWdkEJGqZ6sY"
+      },
+      "artists": [
+        {
+          "name": "Jea Mira",
+          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
+        }
+      ],
+      "duration_ms": 190842,
+      "name": "Cinnamon",
+      "url": "https://open.spotify.com/track/7CxcxeNMisYRbiXULp7L0L"
     },
     {
       "added_at": "2026-06-18 22:02:10",
@@ -755,18 +755,18 @@
     {
       "added_at": "2026-06-18 22:02:10",
       "album": {
-        "name": "S\u0142oneczna strona ulicy",
-        "url": "https://open.spotify.com/album/6WC2GVDGNhOPMyOPzSL31y"
+        "name": "K\u0141AM",
+        "url": "https://open.spotify.com/album/68IBj6EKlltEWhqnKpVZGT"
       },
       "artists": [
         {
-          "name": "Leon Krze\u015bniak",
-          "url": "https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU"
+          "name": "Piotr Odoszewski",
+          "url": "https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk"
         }
       ],
-      "duration_ms": 199186,
-      "name": "Lustro",
-      "url": "https://open.spotify.com/track/5oX4vOfPBdUu43mO8gtv8o"
+      "duration_ms": 246614,
+      "name": "K\u0141AM",
+      "url": "https://open.spotify.com/track/4WK2n2mPPOlqYFNMpgdifZ"
     },
     {
       "added_at": "2026-06-18 22:02:10",
@@ -787,18 +787,18 @@
     {
       "added_at": "2026-06-18 22:02:10",
       "album": {
-        "name": "K\u0141AM",
-        "url": "https://open.spotify.com/album/68IBj6EKlltEWhqnKpVZGT"
+        "name": "S\u0142oneczna strona ulicy",
+        "url": "https://open.spotify.com/album/6WC2GVDGNhOPMyOPzSL31y"
       },
       "artists": [
         {
-          "name": "Piotr Odoszewski",
-          "url": "https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk"
+          "name": "Leon Krze\u015bniak",
+          "url": "https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU"
         }
       ],
-      "duration_ms": 246614,
-      "name": "K\u0141AM",
-      "url": "https://open.spotify.com/track/4WK2n2mPPOlqYFNMpgdifZ"
+      "duration_ms": 199186,
+      "name": "Lustro",
+      "url": "https://open.spotify.com/track/5oX4vOfPBdUu43mO8gtv8o"
     },
     {
       "added_at": "2026-06-18 22:02:10",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-06-18 22:02:10",
       "album": {
-        "name": "Paznokcie z pinteresta",
-        "url": "https://open.spotify.com/album/4j4aOalsekkiMJWKwCQiD4"
-      },
-      "artists": [
-        {
-          "name": "Frank Leen",
-          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
-        }
-      ],
-      "duration_ms": 167520,
-      "name": "Paznokcie z pinteresta",
-      "url": "https://open.spotify.com/track/3oI7OV6gjZevts2w7yECv0"
-    },
-    {
-      "added_at": "2026-06-18 22:02:10",
-      "album": {
         "name": "STILL PRETTY WHEN I CRY",
         "url": "https://open.spotify.com/album/6BHzxy6GWL6m7oHB0UI6nX"
       },
@@ -1035,6 +1019,22 @@
     {
       "added_at": "2026-06-18 22:02:10",
       "album": {
+        "name": "Paznokcie z pinteresta",
+        "url": "https://open.spotify.com/album/4j4aOalsekkiMJWKwCQiD4"
+      },
+      "artists": [
+        {
+          "name": "Frank Leen",
+          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
+        }
+      ],
+      "duration_ms": 167520,
+      "name": "Paznokcie z pinteresta",
+      "url": "https://open.spotify.com/track/3oI7OV6gjZevts2w7yECv0"
+    },
+    {
+      "added_at": "2026-06-18 22:02:10",
+      "album": {
         "name": "O mi\u0142o\u015bci, nie ten czas",
         "url": "https://open.spotify.com/album/0M2gGwhhvMpcqJB7wJWwMM"
       },
@@ -1047,6 +1047,26 @@
       "duration_ms": 172806,
       "name": "O mi\u0142o\u015bci, nie ten czas",
       "url": "https://open.spotify.com/track/2VhzXR9w6jnapPqoHDBwX3"
+    },
+    {
+      "added_at": "2026-06-18 22:02:10",
+      "album": {
+        "name": "PAREA",
+        "url": "https://open.spotify.com/album/1AOpiynvPtDsELd8VobMsq"
+      },
+      "artists": [
+        {
+          "name": "BSK",
+          "url": "https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2"
+        },
+        {
+          "name": "Magiera",
+          "url": "https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso"
+        }
+      ],
+      "duration_ms": 138591,
+      "name": "Typ typa",
+      "url": "https://open.spotify.com/track/5oegpY5VKqD9P9Yxc0dAGN"
     },
     {
       "added_at": "2026-06-18 22:02:10",
@@ -1079,22 +1099,6 @@
       "duration_ms": 137605,
       "name": "wzrok, w kt\u00f3rym pl\u0105cze si\u0119 mi\u0142o\u015b\u0107",
       "url": "https://open.spotify.com/track/5a4Kmo43noRWD70IdDVYfK"
-    },
-    {
-      "added_at": "2026-06-18 22:02:10",
-      "album": {
-        "name": "powiem/nie powiem",
-        "url": "https://open.spotify.com/album/1wnV3DSxRwQzSiPEkQzQ4t"
-      },
-      "artists": [
-        {
-          "name": "Frank Leen",
-          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
-        }
-      ],
-      "duration_ms": 208055,
-      "name": "powiem/nie powiem",
-      "url": "https://open.spotify.com/track/509mth4lw2dQQcGXtKMHDc"
     }
   ],
   "unique_name": "up next",

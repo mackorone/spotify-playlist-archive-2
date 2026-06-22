@@ -6821,6 +6821,28 @@
     },
     {
       "album": {
+        "name": "Humnavaan",
+        "url": "https://open.spotify.com/album/37cfV6ILKB2YXXeB2rB1zq"
+      },
+      "artists": [
+        {
+          "name": "Anupriya Lakhawat",
+          "url": "https://open.spotify.com/artist/3NXqSnQdeM6z9lrAzYfdNQ"
+        },
+        {
+          "name": "nitesh shrimali",
+          "url": "https://open.spotify.com/artist/7sAm3iKJzQqISmOYHPs3Ab"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165750,
+      "name": "Humnavaan",
+      "url": "https://open.spotify.com/track/3SHejeeTjhGrF5G252BxTW"
+    },
+    {
+      "album": {
         "name": "Humne Wahin Lagaya Dil (From \"Pati Patni Aur Woh Do\")",
         "url": "https://open.spotify.com/album/1rtU89SZooEd1wF5B3gqJg"
       },
@@ -7786,7 +7808,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 192203,
       "name": "Jab Talak - From \u201cCocktail 2\u201d",
       "url": "https://open.spotify.com/track/3KZSwka3VHbj4edxiaqxfa"
@@ -9688,6 +9710,24 @@
       "duration_ms": 195107,
       "name": "Kitaab",
       "url": "https://open.spotify.com/track/3lYTzqjJbt9TZAibX8DHO2"
+    },
+    {
+      "album": {
+        "name": "Kitni Dafaa",
+        "url": "https://open.spotify.com/album/2cxPsVBemetB72EIBg5bqg"
+      },
+      "artists": [
+        {
+          "name": "Paresh Pahuja",
+          "url": "https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384000,
+      "name": "Kitni Dafaa",
+      "url": "https://open.spotify.com/track/55X7yrhGv7sJ3oWG3GlGl3"
     },
     {
       "album": {
@@ -15087,6 +15127,36 @@
     },
     {
       "album": {
+        "name": "Saadgi",
+        "url": "https://open.spotify.com/album/0exm7XO6qOjaoMe1t0QW8v"
+      },
+      "artists": [
+        {
+          "name": "Stebin Ben",
+          "url": "https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq"
+        },
+        {
+          "name": "Raees",
+          "url": "https://open.spotify.com/artist/3vZmPeQjoHJ8v2TS5TabSX"
+        },
+        {
+          "name": "Zain - Sam",
+          "url": "https://open.spotify.com/artist/0Zj3IsE2VmUjbL70EQKXHL"
+        },
+        {
+          "name": "Vikki Nagar",
+          "url": "https://open.spotify.com/artist/5tRdHbZDFNFrgX9ovVVivs"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285104,
+      "name": "Saadgi",
+      "url": "https://open.spotify.com/track/79U7rOCKRIRE2p4G5A2phe"
+    },
+    {
+      "album": {
         "name": "Saagar Kinare",
         "url": "https://open.spotify.com/album/7hzNME1Puw75ERbAKY6SUT"
       },
@@ -15818,7 +15888,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 181214,
       "name": "Sang Tere Jhoome - From \"Gullak: S5\"",
       "url": "https://open.spotify.com/track/5ulPLTvuYjr647UX5zlCEd"
@@ -16586,7 +16656,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 270276,
       "name": "Subah Ravivaar Ki",
       "url": "https://open.spotify.com/track/1Xv6ia8UdOayi4SsP4deRv"
@@ -17440,7 +17510,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-22",
       "duration_ms": 216076,
       "name": "Tere Chehre Ka Jadoo",
       "url": "https://open.spotify.com/track/1n2XObcWuxQZodd3hhKJxJ"
@@ -19572,6 +19642,36 @@
       "duration_ms": 162371,
       "name": "WOW (From \"Hai Jawani Toh Ishq Hona Hai\")",
       "url": "https://open.spotify.com/track/4vtF4PXXIHaw3k1z846wSn"
+    },
+    {
+      "album": {
+        "name": "Ya Baba",
+        "url": "https://open.spotify.com/album/4SO67qeMAkZ5gjhA01aE3X"
+      },
+      "artists": [
+        {
+          "name": "Sanjoy",
+          "url": "https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Nora Fatehi",
+          "url": "https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA"
+        },
+        {
+          "name": "Vayu",
+          "url": "https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207117,
+      "name": "Ya Baba",
+      "url": "https://open.spotify.com/track/6PborYNjbcF3SVUvQF4D0O"
     },
     {
       "album": {
