@@ -1,12 +1,12 @@
 {
   "description": "This is AJULLIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 16065,
+  "num_followers": 16081,
   "original_name": "This Is AJULLIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajXYAAAAAADAN2EDJthSAcoWU5q6MnmU",
+  "snapshot_id": "ajcpgAAAAAB6fvXuOMzuYnfhDxvfEdIh",
   "tracks": [
     {
       "added_at": null,
@@ -803,30 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aju",
-        "url": "https://open.spotify.com/album/314Y3jI9qbT6VjMLLRxBG6"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "MAT",
-          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/5Urbe9WT5EsIoKLy6hg7h1"
-        }
-      ],
-      "duration_ms": 204013,
-      "name": "O Suficiente (feat. N.I.N.A)",
-      "url": "https://open.spotify.com/track/5MfftqrTB2wHHJ3DbAL7Ih"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Pe\u00e7a Final",
         "url": "https://open.spotify.com/album/7wOg102RsIsFYkYSRI1STQ"
       },
@@ -851,6 +827,30 @@
       "duration_ms": 147692,
       "name": "N\u00e3o Discuto por Telefone",
       "url": "https://open.spotify.com/track/6YlkAranM7m3PK9msFWi1t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aju",
+        "url": "https://open.spotify.com/album/314Y3jI9qbT6VjMLLRxBG6"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "MAT",
+          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/5Urbe9WT5EsIoKLy6hg7h1"
+        }
+      ],
+      "duration_ms": 204013,
+      "name": "O Suficiente (feat. N.I.N.A)",
+      "url": "https://open.spotify.com/track/5MfftqrTB2wHHJ3DbAL7Ih"
     },
     {
       "added_at": null,

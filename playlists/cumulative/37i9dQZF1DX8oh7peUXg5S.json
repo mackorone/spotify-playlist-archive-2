@@ -3911,6 +3911,24 @@
     },
     {
       "album": {
+        "name": "Lo Mejor de Jarcha",
+        "url": "https://open.spotify.com/album/4A2kC4Hx8VBzJHNoevK9PY"
+      },
+      "artists": [
+        {
+          "name": "Jarcha",
+          "url": "https://open.spotify.com/artist/0pn5zYhJgLYiNzprprYfjm"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223840,
+      "name": "Libertad Sin Ira",
+      "url": "https://open.spotify.com/track/5WpP4Mbh0C5agPEhXfWNlH"
+    },
+    {
+      "album": {
         "name": "Canciones de amor y celda",
         "url": "https://open.spotify.com/album/6Jpai5ZKz0dAXOukKeFqro"
       },
@@ -6304,7 +6322,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 237760,
       "name": "Risk",
       "url": "https://open.spotify.com/track/3gTsuB2I7dLjzPGCfugXQg"

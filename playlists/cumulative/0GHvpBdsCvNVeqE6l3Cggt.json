@@ -513,6 +513,24 @@
     },
     {
       "album": {
+        "name": "DOPAMINE DRESS",
+        "url": "https://open.spotify.com/album/3G2VsUkF9bUnZTNpD3W1ph"
+      },
+      "artists": [
+        {
+          "name": "Mira Rouge",
+          "url": "https://open.spotify.com/artist/68s1cpHfNyQlaV0p2XCxia"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257521,
+      "name": "DOPAMINE DRESS",
+      "url": "https://open.spotify.com/track/08iYmhYHH14MoD6RMrdwb0"
+    },
+    {
+      "album": {
         "name": "Dream About You",
         "url": "https://open.spotify.com/album/4BTyulvNqYxI7zhpNV2F1T"
       },

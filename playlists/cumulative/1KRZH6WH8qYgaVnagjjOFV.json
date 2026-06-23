@@ -2023,6 +2023,28 @@
     },
     {
       "album": {
+        "name": "It Really Is Amazing Grace",
+        "url": "https://open.spotify.com/album/41fqcLmuhTElVN511yJC4Z"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "It Really Is Amazing Grace",
+      "url": "https://open.spotify.com/track/1HO3ZnqGmyShPCOZSfH05b"
+    },
+    {
+      "album": {
         "name": "JERICHO WALLS",
         "url": "https://open.spotify.com/album/3Tco6lGqiHmttFOd9z5pkb"
       },

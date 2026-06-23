@@ -59,6 +59,30 @@
     {
       "added_at": "2026-06-19 04:00:00",
       "album": {
+        "name": "BULLY - DELUXE",
+        "url": "https://open.spotify.com/album/3hwveWhYFxGDLy6K6xlwFh"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "I CAN\u2019T WAIT (feat. Ms. Lauryn Hill)",
+      "url": "https://open.spotify.com/track/6ImNhLq3RabOnEHfoRdvd4"
+    },
+    {
+      "added_at": "2026-06-19 04:00:00",
+      "album": {
         "name": "D12 Forever (Vol. 1)",
         "url": "https://open.spotify.com/album/6EJpcUijwWlVtj0F1KEJEc"
       },
@@ -87,22 +111,18 @@
     {
       "added_at": "2026-06-19 04:00:00",
       "album": {
-        "name": "BULLY - DELUXE",
-        "url": "https://open.spotify.com/album/3hwveWhYFxGDLy6K6xlwFh"
+        "name": "Epic Summer, Pt. 1",
+        "url": "https://open.spotify.com/album/6Pdm2Yy23yHJAUPmEd6Dh0"
       },
       "artists": [
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ye",
-          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+          "name": "Tommy J",
+          "url": "https://open.spotify.com/artist/3xjgxBP5F0xxUr2Srjc2IO"
         }
       ],
-      "duration_ms": 112751,
-      "name": "MISSION CONTROL",
-      "url": "https://open.spotify.com/track/040LDuJ8MWKKhV9Fdwc64N"
+      "duration_ms": 245500,
+      "name": "N\u00e4r vi gr\u00e4ver guld i USA",
+      "url": "https://open.spotify.com/track/0FOA9hD0voZlYWbyzrybF7"
     },
     {
       "added_at": "2026-06-19 04:00:00",
@@ -123,26 +143,6 @@
       "duration_ms": 246211,
       "name": "Fixxxer",
       "url": "https://open.spotify.com/track/7pMK5vsIMEbeyvRUCscgFD"
-    },
-    {
-      "added_at": "2026-06-19 04:00:00",
-      "album": {
-        "name": "Epic Summer, Pt. 1",
-        "url": "https://open.spotify.com/album/6Pdm2Yy23yHJAUPmEd6Dh0"
-      },
-      "artists": [
-        {
-          "name": "Tommy J",
-          "url": "https://open.spotify.com/artist/3xjgxBP5F0xxUr2Srjc2IO"
-        },
-        {
-          "name": "Anders Sk\u00f6ld",
-          "url": "https://open.spotify.com/artist/4gShb2zZSGQ3idqSEGmSFD"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Vandraren",
-      "url": "https://open.spotify.com/track/14jKV3WkhHNKoSdoa3Hq2D"
     },
     {
       "added_at": "2026-06-19 04:00:00",
@@ -187,22 +187,6 @@
     {
       "added_at": "2026-06-19 04:00:00",
       "album": {
-        "name": "2 Many Days",
-        "url": "https://open.spotify.com/album/5C9EToByF5XDM3DXx4WewZ"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 185770,
-      "name": "2 Many Days",
-      "url": "https://open.spotify.com/track/5xKsdMU9ssxhKSre7iMflV"
-    },
-    {
-      "added_at": "2026-06-19 04:00:00",
-      "album": {
         "name": "Yelele Mama / Bado Mapema",
         "url": "https://open.spotify.com/album/7BLFfRWOsyxfw5dBGwxStS"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 303179,
       "name": "Yelele Mama",
       "url": "https://open.spotify.com/track/6LVXsITlu5Xnxm4YRNxKOm"
+    },
+    {
+      "added_at": "2026-06-19 04:00:00",
+      "album": {
+        "name": "2 Many Days",
+        "url": "https://open.spotify.com/album/5C9EToByF5XDM3DXx4WewZ"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 185770,
+      "name": "2 Many Days",
+      "url": "https://open.spotify.com/track/5xKsdMU9ssxhKSre7iMflV"
     },
     {
       "added_at": "2026-06-19 04:00:00",
@@ -543,6 +543,30 @@
     {
       "added_at": "2026-06-19 04:00:00",
       "album": {
+        "name": "Lose My Mind (feat. Dale and the ZDubs)",
+        "url": "https://open.spotify.com/album/2BR91mmECdKDDcBRyktmRG"
+      },
+      "artists": [
+        {
+          "name": "Matt & Zack",
+          "url": "https://open.spotify.com/artist/5jS8ydFLc2MNjKu84wwdF4"
+        },
+        {
+          "name": "Zack Couron",
+          "url": "https://open.spotify.com/artist/1K1afdWJIXkztvyDEzpUL1"
+        },
+        {
+          "name": "Dale and the ZDubs",
+          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
+        }
+      ],
+      "duration_ms": 182696,
+      "name": "Lose My Mind (feat. Dale and the ZDubs)",
+      "url": "https://open.spotify.com/track/7dZgJV14mP4AS80yIc9LCC"
+    },
+    {
+      "added_at": "2026-06-19 04:00:00",
+      "album": {
         "name": "High Stakes",
         "url": "https://open.spotify.com/album/0aBVaGk7OmLVXJqecFbb5V"
       },
@@ -571,46 +595,6 @@
     {
       "added_at": "2026-06-19 04:00:00",
       "album": {
-        "name": "Lose My Mind (feat. Dale and the ZDubs)",
-        "url": "https://open.spotify.com/album/2BR91mmECdKDDcBRyktmRG"
-      },
-      "artists": [
-        {
-          "name": "Matt & Zack",
-          "url": "https://open.spotify.com/artist/5jS8ydFLc2MNjKu84wwdF4"
-        },
-        {
-          "name": "Zack Couron",
-          "url": "https://open.spotify.com/artist/1K1afdWJIXkztvyDEzpUL1"
-        },
-        {
-          "name": "Dale and the ZDubs",
-          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
-        }
-      ],
-      "duration_ms": 182696,
-      "name": "Lose My Mind (feat. Dale and the ZDubs)",
-      "url": "https://open.spotify.com/track/7dZgJV14mP4AS80yIc9LCC"
-    },
-    {
-      "added_at": "2026-06-19 04:00:00",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6FMvB6eixQ7HQDxhgCphfn"
-      },
-      "artists": [
-        {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
-        }
-      ],
-      "duration_ms": 293390,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/6GTCIf70NjVd73Fob18Bg6"
-    },
-    {
-      "added_at": "2026-06-19 04:00:00",
-      "album": {
         "name": "Frisson Noir",
         "url": "https://open.spotify.com/album/3BaCui7eVmPhPkzpV8jRkj"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 286970,
       "name": "Tango",
       "url": "https://open.spotify.com/track/10dYKxVHLNnOABnkuHKTKa"
+    },
+    {
+      "added_at": "2026-06-19 04:00:00",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6FMvB6eixQ7HQDxhgCphfn"
+      },
+      "artists": [
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        }
+      ],
+      "duration_ms": 293390,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6GTCIf70NjVd73Fob18Bg6"
     },
     {
       "added_at": "2026-06-19 04:00:00",
@@ -679,6 +679,26 @@
     {
       "added_at": "2026-06-19 04:00:00",
       "album": {
+        "name": "Persefone on Audiotree Live",
+        "url": "https://open.spotify.com/album/0dn22nkIFQjrKRJDId0dTN"
+      },
+      "artists": [
+        {
+          "name": "Persefone",
+          "url": "https://open.spotify.com/artist/4wxyib7wQwVxwKNFBmOhAw"
+        },
+        {
+          "name": "Audiotree",
+          "url": "https://open.spotify.com/artist/1j8QyWpOJKAe6Iw2KvEg2j"
+        }
+      ],
+      "duration_ms": 441209,
+      "name": "The Great Reality - Audiotree Live Version",
+      "url": "https://open.spotify.com/track/6cxpcsRYg4XODPHPr3XZgW"
+    },
+    {
+      "added_at": "2026-06-19 04:00:00",
+      "album": {
         "name": "DONT WORRY",
         "url": "https://open.spotify.com/album/456voLlA49cyUQKtJznxsj"
       },
@@ -699,26 +719,6 @@
       "duration_ms": 105432,
       "name": "DONT WORRY",
       "url": "https://open.spotify.com/track/2OepIzyiT13RBnDS5mj04P"
-    },
-    {
-      "added_at": "2026-06-19 04:00:00",
-      "album": {
-        "name": "Persefone on Audiotree Live",
-        "url": "https://open.spotify.com/album/0dn22nkIFQjrKRJDId0dTN"
-      },
-      "artists": [
-        {
-          "name": "Persefone",
-          "url": "https://open.spotify.com/artist/4wxyib7wQwVxwKNFBmOhAw"
-        },
-        {
-          "name": "Audiotree",
-          "url": "https://open.spotify.com/artist/1j8QyWpOJKAe6Iw2KvEg2j"
-        }
-      ],
-      "duration_ms": 441209,
-      "name": "The Great Reality - Audiotree Live Version",
-      "url": "https://open.spotify.com/track/6cxpcsRYg4XODPHPr3XZgW"
     },
     {
       "added_at": "2026-06-19 04:00:00",

@@ -179,6 +179,24 @@
     },
     {
       "album": {
+        "name": "Plays Ellington & Strayhorn",
+        "url": "https://open.spotify.com/album/5sFaufmOdL4LTkdgMeAa73"
+      },
+      "artists": [
+        {
+          "name": "Brian Landrus",
+          "url": "https://open.spotify.com/artist/6tuV2Ec8WnYyWORBBaU7me"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167403,
+      "name": "Agra",
+      "url": "https://open.spotify.com/track/6M0cKWVAiapv9mRRTPLGql"
+    },
+    {
+      "album": {
         "name": "And His Mother Called Him Bill",
         "url": "https://open.spotify.com/album/1VFa3WWYDJJCmEIwU4Ee2g"
       },

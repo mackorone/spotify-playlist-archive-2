@@ -1,6 +1,6 @@
 {
   "description": "The biggest dance floor bangers of the 2000s.",
-  "num_followers": 769150,
+  "num_followers": 769406,
   "original_name": "Dance Hits 2000s",
   "owner": {
     "name": "Spotify",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Invaders Must Die",
-        "url": "https://open.spotify.com/album/13PiGMs22YuX1kq7w8WNGM"
-      },
-      "artists": [
-        {
-          "name": "The Prodigy",
-          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
-        }
-      ],
-      "duration_ms": 295026,
-      "name": "Invaders Must Die",
-      "url": "https://open.spotify.com/track/1j6lrR4BzRGKwvAPfrIcbf"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Platinum",
         "url": "https://open.spotify.com/album/5BIDwo7ClpVhC031QNKTuY"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 191843,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/4preSlFr0bYsRHm9WxAcE9"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Invaders Must Die",
+        "url": "https://open.spotify.com/album/13PiGMs22YuX1kq7w8WNGM"
+      },
+      "artists": [
+        {
+          "name": "The Prodigy",
+          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+        }
+      ],
+      "duration_ms": 295026,
+      "name": "Invaders Must Die",
+      "url": "https://open.spotify.com/track/1j6lrR4BzRGKwvAPfrIcbf"
     },
     {
       "added_at": "2021-10-06 04:50:26",

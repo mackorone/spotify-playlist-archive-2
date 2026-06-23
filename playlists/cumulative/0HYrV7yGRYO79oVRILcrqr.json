@@ -3787,6 +3787,24 @@
     },
     {
       "album": {
+        "name": "Grass will always win",
+        "url": "https://open.spotify.com/album/15gUwknPdtUlk1qJ4kV4tR"
+      },
+      "artists": [
+        {
+          "name": "Guest",
+          "url": "https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294117,
+      "name": "Grass Will Always Win",
+      "url": "https://open.spotify.com/track/0rNZ9CMv4d4WMVtZPmI7f4"
+    },
+    {
+      "album": {
         "name": "Green Giants March",
         "url": "https://open.spotify.com/album/0ZXdBFVaPAfzZNrleHHvIM"
       },
@@ -6805,6 +6823,24 @@
     },
     {
       "album": {
+        "name": "Onomanosphere",
+        "url": "https://open.spotify.com/album/2dohHJ6ZCqeKfve1MqbiSA"
+      },
+      "artists": [
+        {
+          "name": "TIRED",
+          "url": "https://open.spotify.com/artist/26Fypj1nYvaqMCLeqEiIMO"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170810,
+      "name": "Onomanosphere",
+      "url": "https://open.spotify.com/track/49hjIuAb7VKotojvXPrmBd"
+    },
+    {
+      "album": {
         "name": "Open Range_Master",
         "url": "https://open.spotify.com/album/2xMilzQcvvXXvGZxjACcTU"
       },
@@ -8962,7 +8998,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 264960,
       "name": "Systembruch - Bonus #raw",
       "url": "https://open.spotify.com/track/4okdQGGXx0dXhvQJjgnglF"

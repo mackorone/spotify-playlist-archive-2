@@ -4,7 +4,7 @@
 
 > Sommerferien, Eis in der Hand und ganz viel Badespaß!
 
-495 songs - 23 hr 6 min
+496 songs - 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,6 +318,7 @@
 | [LiederTiger Lied](https://open.spotify.com/track/7rgPG4aQ0s7J5hspb7Zc6w) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Meine Lieblingskinderlieder](https://open.spotify.com/album/5OZ0HZZkWb2DiHf1sjNanb) | 2:27 | 2024-07-05 |  |
 | [Macarena](https://open.spotify.com/track/4oaj36KzXRgDg4McgcTsZK) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Fiesta Macarena](https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU) | 4:09 | 2023-06-28 |  |
 | [Mama Laudaaa Kidsversion](https://open.spotify.com/track/1nVvvFX4vHuAflVDVnlngP) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf), [Specktakel](https://open.spotify.com/artist/1ErIf1pAAaw5upKsCbqhzz) | [Mama Laudaaa Kidsversion](https://open.spotify.com/album/30ZxAZMNlUxPLpYfjmxJoB) | 3:35 | 2024-02-06 | 2026-02-19 |
+| [Mango, Kiwi, Banana](https://open.spotify.com/track/7iO0PzhMSXYlqinwJpEBP6) | [Schnabi Schnabel](https://open.spotify.com/artist/3GxW2mmzRySZHcA0RUk8d8), [Kinderlieder Gang](https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E), [Rubi](https://open.spotify.com/artist/5XVoKjahTqSezqRa5ZNWbu) | [Mango, Kiwi, Banana](https://open.spotify.com/album/6avDE4P9mCFoERV1V4P8ee) | 2:22 | 2026-06-18 |  |
 | [Matschepfütze](https://open.spotify.com/track/184q1mPkvExhFXLB02g9dM) | [Fug und Janina](https://open.spotify.com/artist/28yWTWoXoLABVhSicSOspR) | [Unfug für alle](https://open.spotify.com/album/3Ead8yYrf4E0S77jQedAsY) | 2:10 | 2023-08-31 | 2025-11-10 |
 | [Mein kleiner Kürbis](https://open.spotify.com/track/1qfmntr0uLVqUJKrbzXrPi) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Herbstlieder für Kinder](https://open.spotify.com/album/3DB9WITlUNbkGWWHvj94fL) | 3:59 | 2023-08-31 | 2025-11-10 |
 | [Meine Leuchtlaterne](https://open.spotify.com/track/6Pi1Xq5FdgfLBSoRGgWbT9) | [Bettina Göschl](https://open.spotify.com/artist/2251fylYeBdwEiMHin6jeA), [Ulrich Maske](https://open.spotify.com/artist/1sW5adZ5VrzGmAZMIY0VSG), [Klaus\-Peter Wolf](https://open.spotify.com/artist/4uJ3i5zuKgoTPuz0pSZreo) | [Wir tanzen mit den Drachen im Wind \(Lieder, Geschichten und Gedichte zur Herbstzeit\)](https://open.spotify.com/album/1q5GB9X82GVAQTrTYVghkU) | 4:08 | 2023-11-05 | 2023-11-14 |
@@ -339,7 +340,7 @@
 | [Monstertanz](https://open.spotify.com/track/1f7uRXBYPTZlq4uReNhFkY) | [Lila Lindwurm](https://open.spotify.com/artist/0PFXbbuM2IbvroXt2nGDoj) | [Monsterquatsch und Wackelzähne](https://open.spotify.com/album/4bE9UWQnSHZNN8xfAbSjvE) | 2:50 | 2023-10-16 | 2025-11-04 |
 | [Monstertanz](https://open.spotify.com/track/5TJcVfYBT3hsdc7N1ssiQs) | [Piano Papa](https://open.spotify.com/artist/3Xd05Lsm0o1YdsrYJ3yio4), [Mama Sandy](https://open.spotify.com/artist/2TCzYLwdBFfM057skRovHS) | [Monstertanz](https://open.spotify.com/album/3twhnm7rZiF2kOiqW01zyZ) | 2:06 | 2023-10-16 | 2025-11-04 |
 | [Morgen kommt der Nikolaus](https://open.spotify.com/track/3ectmvs9nM45NX4748ZEL5) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Endlich Winter!](https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o) | 3:09 | 2023-11-14 | 2023-12-14 |
-| [Mücken nerven Leute](https://open.spotify.com/track/5Aq5Crilz4fRTC48ItbU0w) | [Laing](https://open.spotify.com/artist/6adqlX5PUDStRu3XYBG9wC), [Unter meinem Bett](https://open.spotify.com/artist/7y89sMv0ADqEMEOo2tOIM7) | [Unter meinem Bett\. Best Of](https://open.spotify.com/album/0ZoJBNLDmWT30GQU1IWOiz) | 3:11 | 2023-08-04 |  |
+| [Mücken nerven Leute](https://open.spotify.com/track/5Aq5Crilz4fRTC48ItbU0w) | [Laing](https://open.spotify.com/artist/6adqlX5PUDStRu3XYBG9wC), [Unter meinem Bett](https://open.spotify.com/artist/7y89sMv0ADqEMEOo2tOIM7) | [Unter meinem Bett\. Best Of](https://open.spotify.com/album/0ZoJBNLDmWT30GQU1IWOiz) | 3:11 | 2023-08-04 | 2026-06-23 |
 | [Na ja hier](https://open.spotify.com/track/7wMAqMvur9U3tu8ehXFTBx) | [DIKKA](https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob) | [Na ja hier](https://open.spotify.com/album/46lcermXoMDRJUwUp7DlSy) | 2:52 | 2025-02-27 | 2026-02-19 |
 | [Na na na, alle springen](https://open.spotify.com/track/0tc9YjBkGgCLJh841o2LLZ) | [Detlev Jöcker](https://open.spotify.com/artist/4UiTe5uwHKDUddmV8yQeY4) | [Na na na, alle springen](https://open.spotify.com/album/4UanPAS7Od7zKPYJtOIv0B) | 2:46 | 2025-02-27 | 2026-02-19 |
 | [Nach draußen gehn](https://open.spotify.com/track/2cqVti1MrsPMW010dEY99r) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [herrH ist da! \- Das Album](https://open.spotify.com/album/4CM8QXMOVoPvWLtI1Rhm5h) | 3:13 | 2025-03-06 | 2026-05-26 |

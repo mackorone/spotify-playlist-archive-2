@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Öwnboss
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,188,851 likes - 79 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,188,700 likes - 79 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

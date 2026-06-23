@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,915 likes - 51 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,002 likes - 51 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Alicante](https://open.spotify.com/track/5IEOhfUcuMHfhEeiReQOcH) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Chemutai Sage](https://open.spotify.com/artist/2mP0v7i6JeL8yXPfey97lx) | [Alicante](https://open.spotify.com/album/7uZGkI9g5kylbcmc0ksZx2) | 2:39 |
-| 2 | [Silhouette](https://open.spotify.com/track/7EQB5hIiHPTWdQIdq6aq8q) | [mcfly](https://open.spotify.com/artist/00CJAni0JgRC6EhKTKUcCG) | [Silhouette](https://open.spotify.com/album/6EufZIjDDVTzobqywsT4rE) | 4:44 |
+| 2 | [Silhouette](https://open.spotify.com/track/7EQB5hIiHPTWdQIdq6aq8q) | [mcfly](https://open.spotify.com/artist/00CJAni0JgRC6EhKTKUcCG) | [Silhouette](https://open.spotify.com/album/6EufZIjDDVTzobqywsT4rE) | 4:13 |
 | 3 | [Gisenyi](https://open.spotify.com/track/7HRjMcy76vtQWw3knEcv0j) | [NELL](https://open.spotify.com/artist/7Mzvd0tgZVSMABUtfT849M) | [Gisenyi](https://open.spotify.com/album/5VqNyuPZcnEtduBGMNey05) | 4:19 |
 | 4 | [Faded](https://open.spotify.com/track/6Pxp1y5hMM9a82GqkFaL4T) | [Julian Wassermann](https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0) | [Faded](https://open.spotify.com/album/0H1m383h7W9lZnenfZamU3) | 2:58 |
 | 5 | [Everybody](https://open.spotify.com/track/41oLjXkDavyLPTIuaaRYMl) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Free](https://open.spotify.com/album/4cHYUcFMJlapi74Qk5cYdF) | 2:34 |

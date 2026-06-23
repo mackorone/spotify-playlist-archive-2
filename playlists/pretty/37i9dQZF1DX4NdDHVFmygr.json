@@ -1,12 +1,12 @@
 {
   "description": "Les hits marocains du moment. Cover: 7ari",
-  "num_followers": 134312,
+  "num_followers": 134440,
   "original_name": "Hit Maghribi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIuR6dGg7yxYzfnVucIpXBmkcimg",
+  "snapshot_id": "AAAAAKENdqEyPpS+B6NOarAdQCY62crM",
   "tracks": [
     {
       "added_at": "2026-06-19 00:01:29",
@@ -249,6 +249,22 @@
       "url": "https://open.spotify.com/track/1JxvJa1Eu2NUM8DChk79lp"
     },
     {
+      "added_at": "2026-06-22 04:48:38",
+      "album": {
+        "name": "MON PAYS",
+        "url": "https://open.spotify.com/album/5JdwrDTz88fZcX9RYa6agm"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 211882,
+      "name": "MON PAYS",
+      "url": "https://open.spotify.com/track/7lpIzkaN94dhq5fuNc7v59"
+    },
+    {
       "added_at": "2026-06-19 00:01:29",
       "album": {
         "name": "SPLIT",
@@ -283,6 +299,22 @@
       "duration_ms": 194510,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/34xhlfh5RUmx0AFf8dek9f"
+    },
+    {
+      "added_at": "2026-06-22 06:47:11",
+      "album": {
+        "name": "Chlahbiya",
+        "url": "https://open.spotify.com/album/0YXWg7nVytp6QE9yjKJU4S"
+      },
+      "artists": [
+        {
+          "name": "Mounim Slimani",
+          "url": "https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38"
+        }
+      ],
+      "duration_ms": 194366,
+      "name": "Chlahbiya",
+      "url": "https://open.spotify.com/track/30U031LnjvezZQZu9eSexR"
     },
     {
       "added_at": "2026-06-19 00:01:29",
@@ -391,22 +423,6 @@
       "duration_ms": 198595,
       "name": "Mimti",
       "url": "https://open.spotify.com/track/0hmkeziIYTAaytHCJEbJQi"
-    },
-    {
-      "added_at": "2026-06-19 00:01:29",
-      "album": {
-        "name": "BOOMX3",
-        "url": "https://open.spotify.com/album/2je8AEedrhkhv56NNStF2F"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "BOOMX3",
-      "url": "https://open.spotify.com/track/1VnPRHaig5GgIEl2sbqSse"
     },
     {
       "added_at": "2026-06-19 00:01:29",
@@ -799,26 +815,6 @@
       "duration_ms": 179897,
       "name": "Ghali",
       "url": "https://open.spotify.com/track/2rXnsktUWQq532AnK0Bmm3"
-    },
-    {
-      "added_at": "2026-06-19 00:01:29",
-      "album": {
-        "name": "RWINI",
-        "url": "https://open.spotify.com/album/3G0HZxflIGREjKgKHGcOh3"
-      },
-      "artists": [
-        {
-          "name": "Lbenj",
-          "url": "https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv"
-        },
-        {
-          "name": "Mounim Slimani",
-          "url": "https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38"
-        }
-      ],
-      "duration_ms": 241967,
-      "name": "RWINI",
-      "url": "https://open.spotify.com/track/4KtR6eHxOOQ3cE8ZwVeYS9"
     },
     {
       "added_at": "2026-06-19 00:01:29",

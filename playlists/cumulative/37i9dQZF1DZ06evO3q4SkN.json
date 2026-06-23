@@ -208,7 +208,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 143773,
       "name": "Am I a Weirdo",
       "url": "https://open.spotify.com/track/2zLEHUtcsiDkGyBMOYGVRs"
@@ -396,7 +396,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 83293,
       "name": "Big City Train",
       "url": "https://open.spotify.com/track/1QF7uHKcbn3pUylZMVL6lT"
@@ -414,7 +414,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 50359,
       "name": "Bike Riding Fun",
       "url": "https://open.spotify.com/track/5QarMd5rCwO070YS4HDAHa"
@@ -992,7 +992,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 188800,
       "name": "Evolution",
       "url": "https://open.spotify.com/track/3aEvSGLsszY6CHUjoI8ayJ"
@@ -1140,7 +1140,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-21",
+      "date_removed": null,
       "duration_ms": 43440,
       "name": "George Enters Castleland",
       "url": "https://open.spotify.com/track/7KK62PyW3ul0If2xoO3OQm"
@@ -1266,7 +1266,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-22",
+      "date_removed": null,
       "duration_ms": 198120,
       "name": "Havana Flashback",
       "url": "https://open.spotify.com/track/6ZcuL8PMsy7QWo5To1RVdG"
@@ -1780,7 +1780,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 61066,
       "name": "Meatball Monkey",
       "url": "https://open.spotify.com/track/4aH08aVsg9gRx8r5rU4nVN"
@@ -2118,6 +2118,28 @@
       "duration_ms": 66933,
       "name": "Opera House",
       "url": "https://open.spotify.com/track/08lXo0ES201xImrPw8f6hg"
+    },
+    {
+      "album": {
+        "name": "Dora and the Lost City of Gold (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/6Y237oVQFfenPEpquf9d0p"
+      },
+      "artists": [
+        {
+          "name": "John Debney",
+          "url": "https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ"
+        },
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74173,
+      "name": "Parapata Vista",
+      "url": "https://open.spotify.com/track/2dIqxzKX1qYk3NmDv07V52"
     },
     {
       "album": {
@@ -2608,7 +2630,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 119240,
       "name": "The Landscape Medley",
       "url": "https://open.spotify.com/track/77lrvWszzUzZ8B5CjSptb9"

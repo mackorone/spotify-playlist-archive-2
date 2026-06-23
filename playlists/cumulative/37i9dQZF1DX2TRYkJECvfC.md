@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-704 songs - 2 day 9 hr 38 min
+705 songs - 2 day 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Cross The Border](https://open.spotify.com/track/2KeQTVVUHRvr8blyxs7mbp) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Bloom Twins](https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt) | [Cross The Border](https://open.spotify.com/album/1H1HjCXCaFZJMRyOUSXboS) | 4:42 | 2025-10-24 |  |
 | [Cultivating Yucca](https://open.spotify.com/track/4U6DkNEUHQgfgu8jm162on) | [Manuel Darquart](https://open.spotify.com/artist/0mumYdYeqKkr99t3iDEHGS) | [Cultivating Yucca](https://open.spotify.com/album/1ZzEgEs198OaTCNk2pdtpX) | 6:28 | 2021-12-08 | 2025-02-01 |
 | [Cynnes](https://open.spotify.com/track/6EjqmQ7tyQUIOYo4jXDiX9) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Cynnes](https://open.spotify.com/album/1gBWP6CbeIFWedMHaR5FJ4) | 5:24 | 2023-04-04 | 2025-08-30 |
-| [Cypress](https://open.spotify.com/track/1lUFR2vQgi0HLJI1BwmB0D) | [Synnhaven](https://open.spotify.com/artist/62qkg383IzmNCzdmfcvFvy) | [Cypress](https://open.spotify.com/album/1tZkdsgq2LK7wbTG8r40U1) | 3:37 | 2026-05-22 |  |
+| [Cypress](https://open.spotify.com/track/1lUFR2vQgi0HLJI1BwmB0D) | [Synnhaven](https://open.spotify.com/artist/62qkg383IzmNCzdmfcvFvy) | [Cypress](https://open.spotify.com/album/1tZkdsgq2LK7wbTG8r40U1) | 3:37 | 2026-05-22 | 2026-06-23 |
 | [Daisy's Falling](https://open.spotify.com/track/0HjvsCYOpajcXDCRoLzZga) | [Car Kiss](https://open.spotify.com/artist/1DwYTwnyBGXwt1LQma9zFs) | [Daisy's Falling](https://open.spotify.com/album/0dPUYYW6DLLEVJHp2W3TIm) | 4:57 | 2024-04-12 | 2024-07-19 |
 | [Dancing Queen](https://open.spotify.com/track/5r3t2sftGlEi8JZn0OSO7S) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Dancing Queen](https://open.spotify.com/album/792yzHqlo1gG7SDKHsGW8l) | 2:54 | 2021-12-08 | 2022-02-22 |
 | [Darkness](https://open.spotify.com/track/3ERZzeq6sUaKuXy99pfPqL) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Darkness](https://open.spotify.com/album/2jkGCQeWIR915WFunR8nDc) | 3:54 | 2026-03-13 |  |
@@ -383,6 +383,7 @@
 | [Moment Scale \- Dubmaster X Remix](https://open.spotify.com/track/3RsWr97TnDsUA4AMd2aiXB) | [Silent Poets](https://open.spotify.com/artist/0v8kJy6pfyJsO20V77miAI) | [Café del Mar Essentials \(Vol\. 1\)](https://open.spotify.com/album/4CCmKV79PAwiRRfD5IAfYn) | 6:05 | 2021-12-08 | 2023-01-06 |
 | [Moments](https://open.spotify.com/track/1FFKcFY3kDm75lxlQpwn4h) | [Sound Nomaden](https://open.spotify.com/artist/1R4DbF6CAroRPIDBAkPIi0) | [Moments](https://open.spotify.com/album/5KGOVm9wBnxB54cfaDhwOM) | 4:02 | 2024-04-12 | 2025-12-10 |
 | [Money](https://open.spotify.com/track/34KMYJ2e5ouT1qfOEJgfIe) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx) | [Lucas](https://open.spotify.com/album/0JJjdrxiGhdo2JHVNCKC2N) | 3:18 | 2022-10-28 | 2024-04-27 |
+| [Monroe](https://open.spotify.com/track/2CFQhsE794KbbyROs5Iocx) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Monroe](https://open.spotify.com/album/4uMnuCKFrdmUqwzc0LBOkP) | 4:41 | 2026-06-22 |  |
 | [Moonlight](https://open.spotify.com/track/5VIMpwICCfIUv4noTcES9d) | [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Moonlight](https://open.spotify.com/album/4GVzzVyaPe7UJBHGO7Ee1f) | 6:56 | 2023-05-26 | 2024-07-13 |
 | [More Than You Thought](https://open.spotify.com/track/6qoGexJZGrmeeNxFpk9RJ6) | [LEGATO](https://open.spotify.com/artist/5jpu8iB4nbX9H3bkV8LYz2) | [More Than You Thought EP](https://open.spotify.com/album/45cqR8LQeUBz9kzkHp0aNt) | 8:34 | 2021-12-08 | 2025-08-30 |
 | [Moss](https://open.spotify.com/track/2OVo7I9IuGruvsOj83jvtQ) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Moss](https://open.spotify.com/album/0OTOcLpCVrU0eP90v8Zocc) | 2:51 | 2023-10-24 |  |

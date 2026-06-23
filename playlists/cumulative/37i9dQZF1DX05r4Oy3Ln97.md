@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-516 songs - 1 day 3 hr 25 min
+517 songs - 1 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [Love Like We're Dying](https://open.spotify.com/track/1jyIQoMPkCD6Pz1x1pzZs5) | [Scorz](https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Love Like We're Dying](https://open.spotify.com/album/4G1MoyjTIErFuPYNV2WJad) | 3:03 | 2023-01-24 | 2023-03-26 |
 | [Love Me](https://open.spotify.com/track/50zFrG2bffRXolSRXkaWDO) | [Kislaw](https://open.spotify.com/artist/3TyDnNCINpwLxJiRbT6uuh) | [Love Me](https://open.spotify.com/album/6pKUpMtRmMdOqVKg5N5kAg) | 2:44 | 2021-10-29 | 2022-03-26 |
 | [Love Me](https://open.spotify.com/track/2hJzh7MhYDQxP33adTYPGZ) | [Wänderlost](https://open.spotify.com/artist/7MN9KqDrLp1f8JZ7f1Wymb), [MEDEIA](https://open.spotify.com/artist/0uR3roDczoaOss4Ro7D30s) | [Love Me](https://open.spotify.com/album/3K0ytsFW0iCaBTMQQG9l4y) | 2:36 | 2021-10-29 | 2022-04-20 |
+| [Lovers On The Dancefloor](https://open.spotify.com/track/1NlIoNToanthaXHzapI3ct) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [Lovers On The Dancefloor](https://open.spotify.com/album/7zMCGjwMweprIONeGRrsLN) | 2:33 | 2026-06-19 |  |
 | [Lovesick](https://open.spotify.com/track/102nBrztQxUecvsqMgqYIx) | [Kintexa](https://open.spotify.com/artist/779YMnTx0kUsdVndWCNxYO), [Adeline Um](https://open.spotify.com/artist/4KgNBDUTsA4PHunh86lffT) | [Lovesick](https://open.spotify.com/album/3Ojm6OJtCDJVwNoBNhTqDY) | 2:36 | 2021-10-29 | 2022-04-17 |
 | [Lucky](https://open.spotify.com/track/0Quhzm1B1Z9I5S9RP6BgLh) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Vlossom](https://open.spotify.com/artist/6fchbydDZlEemGC9wiovuj) | [Lucky](https://open.spotify.com/album/29hQOfDBBJ2kIVXy5nI0FX) | 3:25 | 2022-03-25 | 2022-04-21 |
 | [Madres](https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5) | 3:56 | 2023-03-31 | 2023-04-09 |
@@ -432,7 +433,7 @@
 | [Sungazing \- Electronic Mix](https://open.spotify.com/track/0H72o8QdyYc57jNkvYwfAX) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv), [Alexa Sunshine Rose](https://open.spotify.com/artist/1EicV0pIrtOsnszBgno6SB) | [Sungazing \(Electronic Mix\)](https://open.spotify.com/album/4h1vw2FoXuoCPFrMu3wZpg) | 4:07 | 2025-05-23 | 2025-05-31 |
 | [Sunrise](https://open.spotify.com/track/1BN5SY8Dkwljias6JUo15a) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Sunrise](https://open.spotify.com/album/752ym7DLJyAhI9pHKhN1xT) | 2:18 | 2023-07-14 | 2023-07-19 |
 | [Sunrise](https://open.spotify.com/track/4ViSS2rvk9hFbmyFg3s33k) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Sunrise \(Club Mix\)](https://open.spotify.com/album/6KN6uHKN0og1gY1uaowVAm) | 2:18 | 2023-08-04 | 2023-09-07 |
-| [Sunrise \(Adam Ten Remix\)](https://open.spotify.com/track/4CrKKZuQtC5GgCSBRl1zpk) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S) | [Sunrise \(Remixes\)](https://open.spotify.com/album/3Im5438f9q5yyVSSYcqwO1) | 3:48 | 2026-05-15 |  |
+| [Sunrise \(Adam Ten Remix\)](https://open.spotify.com/track/4CrKKZuQtC5GgCSBRl1zpk) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S) | [Sunrise \(Remixes\)](https://open.spotify.com/album/3Im5438f9q5yyVSSYcqwO1) | 3:48 | 2026-05-15 | 2026-06-23 |
 | [Sunshine \(My Girl\)](https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Sunshine \(My Girl\)](https://open.spotify.com/album/7AE0HaidGUaRBSmIZmJ8As) | 2:11 | 2023-09-15 | 2025-10-29 |
 | [Sunspray](https://open.spotify.com/track/5cWUf5g6lRYT3R3zmxl8aU) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Sunspray](https://open.spotify.com/album/3Ce6BDYrT48XYj5qX8bIdo) | 3:10 | 2021-10-29 | 2022-04-18 |
 | [Surf Song](https://open.spotify.com/track/3jjvpoRGl2tfSGMSKAovw8) | [Ian Storm](https://open.spotify.com/artist/6fllSzvyC7OruOFZisOELq), [Polina Vita](https://open.spotify.com/artist/66uT5tPq9g2tO0qD43xCYq) | [Surf Song](https://open.spotify.com/album/5YhmrTqgAJJlTOm3WOPfHq) | 2:28 | 2023-04-07 | 2023-05-24 |

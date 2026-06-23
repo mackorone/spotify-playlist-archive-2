@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The latest tracks from Mad Decent and friends. Featuring new cuts from Eartheater, the sound that chalk makes, B0YG1RL, Eera, &amp; more.",
+  "description": "The latest tracks from Mad Decent and friends. Featuring new cuts from Eartheater, the sound that chalk makes, Effie, evilgiane, &amp; more.",
   "name": "Mad Decent Weekly",
   "tracks": [
     {
@@ -1716,7 +1716,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 174052,
       "name": "Badman",
       "url": "https://open.spotify.com/track/5UzypuRZAmvW4ySeVIV56D"
@@ -2568,7 +2568,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 228226,
       "name": "Bring It Back",
       "url": "https://open.spotify.com/track/24ZahOwPra9cPxv6RO1G1R"
@@ -3693,6 +3693,24 @@
     },
     {
       "album": {
+        "name": "Crown Jewel",
+        "url": "https://open.spotify.com/album/4pNYHMMs5C1lQwyCA4COEH"
+      },
+      "artists": [
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241373,
+      "name": "Crown Jewel",
+      "url": "https://open.spotify.com/track/2RxCAkAfunFJbrImtXMcTR"
+    },
+    {
+      "album": {
         "name": "boy",
         "url": "https://open.spotify.com/album/0JfgfkFvNYiZIt5mS3skmZ"
       },
@@ -4136,7 +4154,7 @@
       ],
       "date_added": "2026-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 202494,
       "name": "Deep Diving",
       "url": "https://open.spotify.com/track/4Ji5pXYxvpxIAR87YGGx3Q"
@@ -5179,6 +5197,28 @@
     },
     {
       "album": {
+        "name": "d\u2606ct (soccer banger)",
+        "url": "https://open.spotify.com/album/5Z0yiqKRzFfXie0tinKQ3Z"
+      },
+      "artists": [
+        {
+          "name": "Effie",
+          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
+        },
+        {
+          "name": "Eurohead",
+          "url": "https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184347,
+      "name": "d\u2606ct (soccer banger)",
+      "url": "https://open.spotify.com/track/50NbbKgWFbwkTCRP7AkZ6I"
+    },
+    {
+      "album": {
         "name": "E SI O",
         "url": "https://open.spotify.com/album/1rHT1LiSGI8Qs0UzjZ6Fw7"
       },
@@ -5282,6 +5322,28 @@
       "duration_ms": 240570,
       "name": "El Bombo",
       "url": "https://open.spotify.com/track/0Rv3tutzgSak1pTMXiV9p8"
+    },
+    {
+      "album": {
+        "name": "Electronic Eyes (HORNET Re:mix)",
+        "url": "https://open.spotify.com/album/2HcmvENXvo8mAUOUQCr67N"
+      },
+      "artists": [
+        {
+          "name": "the sound chalk makes",
+          "url": "https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5"
+        },
+        {
+          "name": "HORNET",
+          "url": "https://open.spotify.com/artist/0cxRUU8dTa6p0zgn6SAtiZ"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151724,
+      "name": "Electronic Eyes - HORNET Re:mix",
+      "url": "https://open.spotify.com/track/7iPHKGDVSjTtEK0EOSQ4Cg"
     },
     {
       "album": {
@@ -6238,6 +6300,28 @@
       "duration_ms": 181656,
       "name": "Flawless",
       "url": "https://open.spotify.com/track/6mMhF0ubvWg3fWN5hsgVNj"
+    },
+    {
+      "album": {
+        "name": "Flowers In The Sand",
+        "url": "https://open.spotify.com/album/24gOt0QMAUJyiie6j6v9aY"
+      },
+      "artists": [
+        {
+          "name": "Eera",
+          "url": "https://open.spotify.com/artist/2pEvCYGB3kxgoesDK5kt2P"
+        },
+        {
+          "name": "CRUSH3d",
+          "url": "https://open.spotify.com/artist/5Qvgao5nFsaKRPeL42Dnpf"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314200,
+      "name": "Flowers In The Sand",
+      "url": "https://open.spotify.com/track/0saeXaBJnBWJpaylw65yKd"
     },
     {
       "album": {
@@ -9910,7 +9994,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 131612,
       "name": "Little Haiti",
       "url": "https://open.spotify.com/track/298VmtiWYWKrcHpr4FTi8h"
@@ -15568,7 +15652,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 199111,
       "name": "Solitary",
       "url": "https://open.spotify.com/track/34d3Ecpxkiw67mJmDxSsiF"
@@ -18210,6 +18294,28 @@
       "duration_ms": 181115,
       "name": "Whap Whap (feat. F.S.)",
       "url": "https://open.spotify.com/track/47MwPx7nbFUD5IGVhL38Zr"
+    },
+    {
+      "album": {
+        "name": "#HEAVENSGATE VOL. 2",
+        "url": "https://open.spotify.com/album/2LYhQj0pILisvLgBrtHWrZ"
+      },
+      "artists": [
+        {
+          "name": "evilgiane",
+          "url": "https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146133,
+      "name": "What",
+      "url": "https://open.spotify.com/track/1G1AErONPBT62zGMOyxuM5"
     },
     {
       "album": {

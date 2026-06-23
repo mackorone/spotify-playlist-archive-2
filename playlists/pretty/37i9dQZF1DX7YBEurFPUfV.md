@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 
 > Les sons les plus frais du Rap Tunisien sont ici\. Cover : Mouka
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,071 likes - 61 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,069 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,6 +68,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 | 58 | [3A9LIYA](https://open.spotify.com/track/0Qleubp4EIjr18kyiPrqFM) | [G.G.A](https://open.spotify.com/artist/3Ofbm810VXiC3VaO76oMPP), [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt) | [3A9LIYA](https://open.spotify.com/album/0LtRM2zIldzy1kfbXyfT58) | 3:19 |
 | 59 | [THANNA](https://open.spotify.com/track/6ByC9ct1jz0yUnqWa4SRdz) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Mode Avion](https://open.spotify.com/album/2Zcbkc45OI5UrS6d8W7N31) | 2:58 |
 | 60 | [Brabus](https://open.spotify.com/track/2LhLEOlgnq6ac47hTr5KYO) | [Mouka](https://open.spotify.com/artist/06z6NBx0H2PDzZqw8mPTDz) | [Brabus](https://open.spotify.com/album/7FIcDfg2HwUAHvB1I84rk6) | 3:32 |
-| 61 | [CHARIKET DAJEJ](https://open.spotify.com/track/35f6wic5uLR4WRp5If8M6W) | [Fossa](https://open.spotify.com/artist/7yqZYVFUskYyKDyilalfFX) | [CHARIKET DAJEJ](https://open.spotify.com/album/70TUm5iv6DcULHTn0zxo7r) | 3:31 |
 
-Snapshot ID: `AAAAAFXaTHY+9RW/lkQX0P7oVKzmdOKf`
+Snapshot ID: `AAAAAG7dJHphW7/97Oyq5WDNenbohsQp`

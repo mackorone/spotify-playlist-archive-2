@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 1099,
+  "num_followers": 1104,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAGh1lJTJqQyOaZitzYC5HKJ7o+3gSI",
+  "snapshot_id": "AAAGioA8LH8jkPXi/wHX7a/95r9G5o9c",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -1583,6 +1583,58 @@
       "duration_ms": 251248,
       "name": "Silver Lake",
       "url": "https://open.spotify.com/track/3cMZDt1yPKZuP7UssRKfWI"
+    },
+    {
+      "added_at": "2026-06-22 14:34:19",
+      "album": {
+        "name": "Eye's On You",
+        "url": "https://open.spotify.com/album/3uuD9DtrH5r4xUQwjFdpXd"
+      },
+      "artists": [
+        {
+          "name": "The Jay Howie Trio",
+          "url": "https://open.spotify.com/artist/3oxYJ2fyfQDUvmf4N3bCkh"
+        },
+        {
+          "name": "Jay Howie",
+          "url": "https://open.spotify.com/artist/3eeXaYeN8szJWw3ziUOWdD"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Eye's On You",
+      "url": "https://open.spotify.com/track/31GtsNBfMAAgius6RmMWul"
+    },
+    {
+      "added_at": "2026-06-22 14:41:16",
+      "album": {
+        "name": "Renegade",
+        "url": "https://open.spotify.com/album/3vYFD37Z4kBwKK9VypycbE"
+      },
+      "artists": [
+        {
+          "name": "Nitrate",
+          "url": "https://open.spotify.com/artist/6wEVMZieIv9ttCzvuDYev8"
+        }
+      ],
+      "duration_ms": 222911,
+      "name": "Renegade",
+      "url": "https://open.spotify.com/track/7evC29G5PpckrIySAJRTFm"
+    },
+    {
+      "added_at": "2026-06-22 15:13:34",
+      "album": {
+        "name": "Injustice For All",
+        "url": "https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt"
+      },
+      "artists": [
+        {
+          "name": "Barmy Rote",
+          "url": "https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W"
+        }
+      ],
+      "duration_ms": 329480,
+      "name": "Remember Me",
+      "url": "https://open.spotify.com/track/5PK1dJanZLQX6XeRrby4CP"
     }
   ],
   "unique_name": "Unsigned Rock",

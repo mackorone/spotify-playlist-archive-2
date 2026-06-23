@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Myles Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,412 likes - 99 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,466 likes - 99 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 98 | [HARDCORE](https://open.spotify.com/track/3rh0NcysTtnld6q95INEK3) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [HARDCORE](https://open.spotify.com/album/7qAeQkuHuaSUhOEdAH1IpK) | 2:49 |
 | 99 | [TOPIC](https://open.spotify.com/track/7cBUrEp6z8ra9hHxTpA0XE) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [TOPIC](https://open.spotify.com/album/54VBYxjusWPgnlrOeKQ9Q7) | 2:52 |
 
-Snapshot ID: `AAAAAMqMjtEZtVR2KwEkVPYneq3Ui+aI`
+Snapshot ID: `AAAAANaKpszWjhX76FZYKiUWgHF57JId`

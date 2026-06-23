@@ -1,6 +1,6 @@
 {
   "description": "Silky sounds for the sheets.",
-  "num_followers": 2322975,
+  "num_followers": 2322777,
   "original_name": "Silk Sheets",
   "owner": {
     "name": "Spotify",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2022-10-03 07:01:26",
       "album": {
+        "name": "F.U.C.K.",
+        "url": "https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "F.U.C.K.",
+      "url": "https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4"
+    },
+    {
+      "added_at": "2022-10-03 07:01:26",
+      "album": {
         "name": "Gahdamn!",
         "url": "https://open.spotify.com/album/0L6cXKn2whkvu2xJisMrI2"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 171373,
       "name": "Caretaker (feat. SZA)",
       "url": "https://open.spotify.com/track/4XQQovRSltOGWevTCgacXY"
-    },
-    {
-      "added_at": "2022-10-03 07:01:26",
-      "album": {
-        "name": "F.U.C.K.",
-        "url": "https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "F.U.C.K.",
-      "url": "https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4"
     },
     {
       "added_at": "2023-02-10 08:06:49",

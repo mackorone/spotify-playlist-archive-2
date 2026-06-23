@@ -167,6 +167,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Back In Dat Mode.",
+        "url": "https://open.spotify.com/album/2zVoDzPSa54s8NV1xd84rj"
+      },
+      "artists": [
+        {
+          "name": "Jayfrxm1300",
+          "url": "https://open.spotify.com/artist/2Nd6m6rmQ4ROQTybEz3z1O"
+        }
+      ],
+      "duration_ms": 109736,
+      "name": "Deal Wit It",
+      "url": "https://open.spotify.com/track/6tz1HzUoykWlrqCzBpp6kM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hardy Boyz (feat. Bloodhound Lil Jeff)",
         "url": "https://open.spotify.com/album/3tzKkC8md0MnmsWVAcFhhz"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 111428,
       "name": "Hardy Boyz (feat. Bloodhound Lil Jeff)",
       "url": "https://open.spotify.com/track/3MIAujDDxkigmJfwHbFRyN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Back In Dat Mode.",
-        "url": "https://open.spotify.com/album/2zVoDzPSa54s8NV1xd84rj"
-      },
-      "artists": [
-        {
-          "name": "Jayfrxm1300",
-          "url": "https://open.spotify.com/artist/2Nd6m6rmQ4ROQTybEz3z1O"
-        }
-      ],
-      "duration_ms": 109736,
-      "name": "Deal Wit It",
-      "url": "https://open.spotify.com/track/6tz1HzUoykWlrqCzBpp6kM"
     },
     {
       "added_at": null,
@@ -407,18 +407,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "splat!",
-        "url": "https://open.spotify.com/album/019f1d3BhBSAqWmzbU29xk"
+        "name": "Golden Child, Chapter 3",
+        "url": "https://open.spotify.com/album/6vxo1Nywp8r7B0p9avT0SM"
       },
       "artists": [
         {
-          "name": "Marwick",
-          "url": "https://open.spotify.com/artist/7pmKCgWtiOC7rzCRS3W2x1"
+          "name": "Autumn!",
+          "url": "https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt"
         }
       ],
-      "duration_ms": 137142,
-      "name": "splat!",
-      "url": "https://open.spotify.com/track/2tSrjxRuo1ZIegQ69V4fPJ"
+      "duration_ms": 125217,
+      "name": "Still the Same",
+      "url": "https://open.spotify.com/track/5dTmaw1TwugkUZk1SHqStE"
     },
     {
       "added_at": null,
@@ -439,18 +439,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Golden Child, Chapter 3",
-        "url": "https://open.spotify.com/album/6vxo1Nywp8r7B0p9avT0SM"
+        "name": "splat!",
+        "url": "https://open.spotify.com/album/019f1d3BhBSAqWmzbU29xk"
       },
       "artists": [
         {
-          "name": "Autumn!",
-          "url": "https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt"
+          "name": "Marwick",
+          "url": "https://open.spotify.com/artist/7pmKCgWtiOC7rzCRS3W2x1"
         }
       ],
-      "duration_ms": 125217,
-      "name": "Still the Same",
-      "url": "https://open.spotify.com/track/5dTmaw1TwugkUZk1SHqStE"
+      "duration_ms": 137142,
+      "name": "splat!",
+      "url": "https://open.spotify.com/track/2tSrjxRuo1ZIegQ69V4fPJ"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
       "duration_ms": 151401,
       "name": "Where Ya At Max",
       "url": "https://open.spotify.com/track/771ihvk0W4LWBBIlLfiXEB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LORD",
-        "url": "https://open.spotify.com/album/6djk4PgDnK96ckGP4ezYBn"
-      },
-      "artists": [
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-        }
-      ],
-      "duration_ms": 143112,
-      "name": "Which 1 / Klueless",
-      "url": "https://open.spotify.com/track/2jpXew4tUnqHiH7Uaj4Ioq"
     },
     {
       "added_at": null,
@@ -567,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jersey",
+        "url": "https://open.spotify.com/album/22VaD5pmMG9ZEmbEIfbXIH"
+      },
+      "artists": [
+        {
+          "name": "Cl4pers",
+          "url": "https://open.spotify.com/artist/7J2iS8AJGjC7om2vgBXdDJ"
+        }
+      ],
+      "duration_ms": 163062,
+      "name": "Jersey",
+      "url": "https://open.spotify.com/track/4fFG5J3kEBFQ0tL6YVKrdn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Winners Circle",
         "url": "https://open.spotify.com/album/5vUSDrTKzuAmrW5fB8ZPy1"
       },
@@ -595,74 +595,6 @@
       "duration_ms": 165575,
       "name": "Voices In My Head",
       "url": "https://open.spotify.com/track/6ZWgyxB0rdb1vur4J2hSCQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Out My Mind",
-        "url": "https://open.spotify.com/album/51j5JJU5KmvQIomcpT3Tok"
-      },
-      "artists": [
-        {
-          "name": "Lil Rogue",
-          "url": "https://open.spotify.com/artist/5QHADB944vb6nQsDeGaSIe"
-        }
-      ],
-      "duration_ms": 134327,
-      "name": "Jedi Flip",
-      "url": "https://open.spotify.com/track/5wsLty8UjnvnR4XYmBVkRj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "V8",
-        "url": "https://open.spotify.com/album/3Hu2Vp0UjU5wn0ptgoIdLW"
-      },
-      "artists": [
-        {
-          "name": "Mannystotle",
-          "url": "https://open.spotify.com/artist/6r7MEdqqFQTkbCwqHA1BW6"
-        },
-        {
-          "name": "Blaxian",
-          "url": "https://open.spotify.com/artist/5hY9vFP2SpMfb5ZXqMI3o4"
-        }
-      ],
-      "duration_ms": 160912,
-      "name": "V8",
-      "url": "https://open.spotify.com/track/25Dp8uX1Jn71Zy2x0x77qo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jersey",
-        "url": "https://open.spotify.com/album/22VaD5pmMG9ZEmbEIfbXIH"
-      },
-      "artists": [
-        {
-          "name": "Cl4pers",
-          "url": "https://open.spotify.com/artist/7J2iS8AJGjC7om2vgBXdDJ"
-        }
-      ],
-      "duration_ms": 163062,
-      "name": "Jersey",
-      "url": "https://open.spotify.com/track/4fFG5J3kEBFQ0tL6YVKrdn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outcast Loyalty",
-        "url": "https://open.spotify.com/album/3wBmmo5J0hujCTHn5YMMu9"
-      },
-      "artists": [
-        {
-          "name": "The Outcastkid",
-          "url": "https://open.spotify.com/artist/4BUKPBM2FnGlDqnNKE9FYt"
-        }
-      ],
-      "duration_ms": 120058,
-      "name": "Outcast Loyalty",
-      "url": "https://open.spotify.com/track/2umGgxNHbu7lpwfv743kNl"
     },
     {
       "added_at": null,
@@ -699,42 +631,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spanglish",
-        "url": "https://open.spotify.com/album/0rOykZHoTWuBpRhdh3Bb8h"
+        "name": "V8",
+        "url": "https://open.spotify.com/album/3Hu2Vp0UjU5wn0ptgoIdLW"
       },
       "artists": [
         {
-          "name": "novanitys",
-          "url": "https://open.spotify.com/artist/0qsn1uqtRSXT8IsBYysLBP"
+          "name": "Mannystotle",
+          "url": "https://open.spotify.com/artist/6r7MEdqqFQTkbCwqHA1BW6"
         },
         {
-          "name": "wonder",
-          "url": "https://open.spotify.com/artist/4egc04cPnCS54Cp5Hz3IuE"
-        },
-        {
-          "name": "Saltyngget",
-          "url": "https://open.spotify.com/artist/46GgJ6qHCR08sCvbJ1UJzy"
+          "name": "Blaxian",
+          "url": "https://open.spotify.com/artist/5hY9vFP2SpMfb5ZXqMI3o4"
         }
       ],
-      "duration_ms": 222876,
-      "name": "Spanglish",
-      "url": "https://open.spotify.com/track/5uTlnTxi8kQv6EuMvR725n"
+      "duration_ms": 160912,
+      "name": "V8",
+      "url": "https://open.spotify.com/track/25Dp8uX1Jn71Zy2x0x77qo"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Tap Hour",
-        "url": "https://open.spotify.com/album/3HNJHP1MXufbGbLoyDR0JT"
+        "name": "Outcast Loyalty",
+        "url": "https://open.spotify.com/album/3wBmmo5J0hujCTHn5YMMu9"
       },
       "artists": [
         {
-          "name": "Ueecho",
-          "url": "https://open.spotify.com/artist/048Dbv78tdxtLrcBZ2s5Dp"
+          "name": "The Outcastkid",
+          "url": "https://open.spotify.com/artist/4BUKPBM2FnGlDqnNKE9FYt"
         }
       ],
-      "duration_ms": 120639,
-      "name": "Tap Hour",
-      "url": "https://open.spotify.com/track/5fB6BsaBff7NzskLlUDvHY"
+      "duration_ms": 120058,
+      "name": "Outcast Loyalty",
+      "url": "https://open.spotify.com/track/2umGgxNHbu7lpwfv743kNl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Out My Mind",
+        "url": "https://open.spotify.com/album/51j5JJU5KmvQIomcpT3Tok"
+      },
+      "artists": [
+        {
+          "name": "Lil Rogue",
+          "url": "https://open.spotify.com/artist/5QHADB944vb6nQsDeGaSIe"
+        }
+      ],
+      "duration_ms": 134327,
+      "name": "Jedi Flip",
+      "url": "https://open.spotify.com/track/5wsLty8UjnvnR4XYmBVkRj"
     },
     {
       "added_at": null,
@@ -775,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tap Hour",
+        "url": "https://open.spotify.com/album/3HNJHP1MXufbGbLoyDR0JT"
+      },
+      "artists": [
+        {
+          "name": "Ueecho",
+          "url": "https://open.spotify.com/artist/048Dbv78tdxtLrcBZ2s5Dp"
+        }
+      ],
+      "duration_ms": 120639,
+      "name": "Tap Hour",
+      "url": "https://open.spotify.com/track/5fB6BsaBff7NzskLlUDvHY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Intervals",
         "url": "https://open.spotify.com/album/1B1ox43mBzMXwSijn6E8GN"
       },
@@ -787,22 +747,6 @@
       "duration_ms": 143775,
       "name": "Intervals",
       "url": "https://open.spotify.com/track/7q90Gh6UiDVpC2ZGHdaxa9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Leftovr Drugz",
-        "url": "https://open.spotify.com/album/3kEZUJgiCDTfEMHJBSyxzu"
-      },
-      "artists": [
-        {
-          "name": "sixsick",
-          "url": "https://open.spotify.com/artist/0BqEJxpM3FdO3zOQxfQIDG"
-        }
-      ],
-      "duration_ms": 165009,
-      "name": "Everytime",
-      "url": "https://open.spotify.com/track/7zxJ1u8enmhpPNEExmKSbZ"
     },
     {
       "added_at": null,
@@ -823,18 +767,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "3",
-        "url": "https://open.spotify.com/album/67Zf5EYdu6qicDS1JhCXpJ"
+        "name": "Leftovr Drugz",
+        "url": "https://open.spotify.com/album/3kEZUJgiCDTfEMHJBSyxzu"
       },
       "artists": [
         {
-          "name": "Che",
-          "url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF"
+          "name": "sixsick",
+          "url": "https://open.spotify.com/artist/0BqEJxpM3FdO3zOQxfQIDG"
         }
       ],
-      "duration_ms": 114216,
-      "name": "nine",
-      "url": "https://open.spotify.com/track/5yCYHKE6erkEF3M0eaBfBc"
+      "duration_ms": 165009,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/7zxJ1u8enmhpPNEExmKSbZ"
     },
     {
       "added_at": null,
@@ -867,6 +811,62 @@
       "duration_ms": 156815,
       "name": "Straight Forward",
       "url": "https://open.spotify.com/track/5QFebQipvG6fMprVVWlmvo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Winners Circle",
+        "url": "https://open.spotify.com/album/5vUSDrTKzuAmrW5fB8ZPy1"
+      },
+      "artists": [
+        {
+          "name": "rexv2",
+          "url": "https://open.spotify.com/artist/1zYtGI84oTXVPEuT39M1IC"
+        }
+      ],
+      "duration_ms": 128026,
+      "name": "CURRY SLIDE",
+      "url": "https://open.spotify.com/track/3fwvaufxWAwdqCtiHlejPM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never Lose",
+        "url": "https://open.spotify.com/album/6UePZA2W3KscieTmTiJyax"
+      },
+      "artists": [
+        {
+          "name": "Backayarl",
+          "url": "https://open.spotify.com/artist/77MreVLzNRDkMwkF8MBB21"
+        }
+      ],
+      "duration_ms": 122070,
+      "name": "Opp's Hood",
+      "url": "https://open.spotify.com/track/2oe0X2oRea7TG5B77sDGO4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "POMPEII // UTILITY",
+        "url": "https://open.spotify.com/album/3RoyVaZOzBSTfo6jm4dvSR"
+      },
+      "artists": [
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        },
+        {
+          "name": "Niontay",
+          "url": "https://open.spotify.com/artist/3wkT6THiKqbXC0jJpfKL7t"
+        },
+        {
+          "name": "SURF GANG",
+          "url": "https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz"
+        }
+      ],
+      "duration_ms": 133500,
+      "name": "F.E.A.R. - feat. Niontay",
+      "url": "https://open.spotify.com/track/2gNXxgXqZTZuSLBiSV6HKS"
     }
   ],
   "unique_name": "Taewitdak Radio",

@@ -131,6 +131,32 @@
     },
     {
       "album": {
+        "name": "Boiling",
+        "url": "https://open.spotify.com/album/0LHNCSfPE6drXlNNMSMzbN"
+      },
+      "artists": [
+        {
+          "name": "Klahr",
+          "url": "https://open.spotify.com/artist/3OITAuZNhf2Z9DySHJsCKD"
+        },
+        {
+          "name": "Galavant",
+          "url": "https://open.spotify.com/artist/7CsSec3NzFx2UipwF1APhu"
+        },
+        {
+          "name": "Natali Noor",
+          "url": "https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219939,
+      "name": "Boiling",
+      "url": "https://open.spotify.com/track/6cREddoDOOEyQ9G9UtEZsu"
+    },
+    {
+      "album": {
         "name": "Boiling (feat. Natali Noor)",
         "url": "https://open.spotify.com/album/3UF5pFIUg2oNNIkkekPEik"
       },
@@ -150,7 +176,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 219939,
       "name": "Boiling (feat. Natali Noor)",
       "url": "https://open.spotify.com/track/05gFzegb6BktSf5irqDcyT"

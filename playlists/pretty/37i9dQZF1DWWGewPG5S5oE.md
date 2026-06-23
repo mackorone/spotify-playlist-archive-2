@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 大江千里
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,140 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,145 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 21 | [Sakura](https://open.spotify.com/track/7djuD2TyLhcKMaH9270auq) | [Besties our sounds.](https://open.spotify.com/artist/6FJMOfckruFu4GrRukKfcE), [Saori Yano](https://open.spotify.com/artist/1w3uljZIAvrXeTUK5zj8ly), [丈青](https://open.spotify.com/artist/2OIV28kmSGmQQUmgjOV5J5) | [Sakura](https://open.spotify.com/album/6Z3K33I4C210gGaHUwTt65) | 4:19 |
 | 22 | [Every day](https://open.spotify.com/track/4GbjgXrqXj0Ogc241YaWLZ) | [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [uku](https://open.spotify.com/album/2BtiXxg6WurFtCAwVGEEy5) | 3:01 |
 | 23 | [This city is too jazzy to be in love](https://open.spotify.com/track/6ljyh0IT9VYGtBwFWRxq1U) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0), [Naruyoshi Kikuchi](https://open.spotify.com/artist/5jGe8zos8U6KRs0wiLWcmv) | [cure jazz](https://open.spotify.com/album/739BFSbszCkKUscy1LaHGf) | 3:30 |
-| 24 | [相思相愛](https://open.spotify.com/track/3AFRCpDoQaEzblHCvDcXbr) | [C&K](https://open.spotify.com/artist/3eR0Jeo212WCF0Yyi46Pzj), [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [相思相愛](https://open.spotify.com/album/2PP0pTkcnDPdjaO3WaNOkU) | 4:29 |
-| 25 | [Curumim](https://open.spotify.com/track/2ptbfHymgf1oK8HNjRnXNx) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [Ooh\-La\-La](https://open.spotify.com/album/4syZCGAaQzmfiY2sqN45TU) | 3:58 |
+| 24 | [Curumim](https://open.spotify.com/track/2ptbfHymgf1oK8HNjRnXNx) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [Ooh\-La\-La](https://open.spotify.com/album/4syZCGAaQzmfiY2sqN45TU) | 3:58 |
+| 25 | [相思相愛](https://open.spotify.com/track/3AFRCpDoQaEzblHCvDcXbr) | [C&K](https://open.spotify.com/artist/3eR0Jeo212WCF0Yyi46Pzj), [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [相思相愛](https://open.spotify.com/album/2PP0pTkcnDPdjaO3WaNOkU) | 4:29 |
 | 26 | [Zatto](https://open.spotify.com/track/3mnc8STf3GPV8E9JlA6j4X) | [Nariaki](https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk) | [Zatto](https://open.spotify.com/album/3zpeZbl6NBa9KJbXpQMrig) | 6:07 |
 | 27 | [New World feat.ELAIZA](https://open.spotify.com/track/2SH3irAb48lnPA4zzxtTwX) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM), [ELAIZA](https://open.spotify.com/artist/45dMXQSIdhCQd5RUqDSpka) | [New World feat.ELAIZA](https://open.spotify.com/album/3bUMoQ0Cceo8MJp04N76wU) | 3:48 |
 | 28 | [BLUE GIANT \- 『BLUE GIANT』サウンドトラックより](https://open.spotify.com/track/1EKIT1QnEWYUlN3h20zZQF) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [BLUE GIANT \(『BLUE GIANT』サウンドトラックより\)](https://open.spotify.com/album/2bkSTglYLzxczTGUefP6U3) | 3:38 |

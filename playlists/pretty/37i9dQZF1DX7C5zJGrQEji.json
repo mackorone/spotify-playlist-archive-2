@@ -1,6 +1,6 @@
 {
   "description": "Tracks crediting NATURE support its conservation.",
-  "num_followers": 14779,
+  "num_followers": 14793,
   "original_name": "feat. NATURE",
   "owner": {
     "name": "Spotify",
@@ -757,10 +757,10 @@
       "url": "https://open.spotify.com/track/700of47YXxOgYspt3wjqbg"
     },
     {
-      "added_at": "2026-04-21 10:00:28",
+      "added_at": "2026-02-05 08:45:41",
       "album": {
-        "name": "Forest of Rain",
-        "url": "https://open.spotify.com/album/2dgxGey8LAcliQjoGGuKID"
+        "name": "Shifting Shalestones (Felicia Douglass Remix)",
+        "url": "https://open.spotify.com/album/7dQFDJHoQYlUz5vPSThvuv"
       },
       "artists": [
         {
@@ -768,17 +768,21 @@
           "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
         },
         {
-          "name": "Flyndon",
-          "url": "https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl"
+          "name": "Felicia Douglass",
+          "url": "https://open.spotify.com/artist/3uKe1tF6HSEHFFKfHgpGnj"
         },
         {
-          "name": "Chill Palm",
-          "url": "https://open.spotify.com/artist/5bUGPaWS2tccpbiid4MSNE"
+          "name": "Dirty Projectors",
+          "url": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+        },
+        {
+          "name": "David Longstreth",
+          "url": "https://open.spotify.com/artist/33HF8cjroL5KzkThWR689t"
         }
       ],
-      "duration_ms": 182208,
-      "name": "Forest Of Rain",
-      "url": "https://open.spotify.com/track/33XBqxx7Osf1TRHzAYPpPO"
+      "duration_ms": 241242,
+      "name": "Shifting Shalestones - Felicia Douglass Remix",
+      "url": "https://open.spotify.com/track/0PuGvLwgBmEIkhiQW0j3tx"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -865,10 +869,10 @@
       "url": "https://open.spotify.com/track/7nQXaKlRB587FSC5JftWcN"
     },
     {
-      "added_at": "2026-02-05 08:45:41",
+      "added_at": "2026-04-21 10:00:28",
       "album": {
-        "name": "Shifting Shalestones (Felicia Douglass Remix)",
-        "url": "https://open.spotify.com/album/7dQFDJHoQYlUz5vPSThvuv"
+        "name": "Forest of Rain",
+        "url": "https://open.spotify.com/album/2dgxGey8LAcliQjoGGuKID"
       },
       "artists": [
         {
@@ -876,21 +880,17 @@
           "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
         },
         {
-          "name": "Felicia Douglass",
-          "url": "https://open.spotify.com/artist/3uKe1tF6HSEHFFKfHgpGnj"
+          "name": "Flyndon",
+          "url": "https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl"
         },
         {
-          "name": "Dirty Projectors",
-          "url": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
-        },
-        {
-          "name": "David Longstreth",
-          "url": "https://open.spotify.com/artist/33HF8cjroL5KzkThWR689t"
+          "name": "Chill Palm",
+          "url": "https://open.spotify.com/artist/5bUGPaWS2tccpbiid4MSNE"
         }
       ],
-      "duration_ms": 241242,
-      "name": "Shifting Shalestones - Felicia Douglass Remix",
-      "url": "https://open.spotify.com/track/0PuGvLwgBmEIkhiQW0j3tx"
+      "duration_ms": 182208,
+      "name": "Forest Of Rain",
+      "url": "https://open.spotify.com/track/33XBqxx7Osf1TRHzAYPpPO"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -1439,26 +1439,6 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
-        "name": "Nightingale (feat. NATURE)",
-        "url": "https://open.spotify.com/album/2rQTUrvNkzyhnMtlTMMN02"
-      },
-      "artists": [
-        {
-          "name": "Wildforms",
-          "url": "https://open.spotify.com/artist/3JN5wydzHKvTzzn9R3Zy8a"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 163408,
-      "name": "Nightingale (feat. NATURE)",
-      "url": "https://open.spotify.com/track/3NawWmpRgds78Yo53QOw8G"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
         "name": "Universal (feat. NATURE)",
         "url": "https://open.spotify.com/album/6yRMDEcwvw3GNTgiBHGdDn"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 280241,
       "name": "Universal (feat. NATURE)",
       "url": "https://open.spotify.com/track/1FiLR3xdD95WyN4XSX9rfY"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
+        "name": "Nightingale (feat. NATURE)",
+        "url": "https://open.spotify.com/album/2rQTUrvNkzyhnMtlTMMN02"
+      },
+      "artists": [
+        {
+          "name": "Wildforms",
+          "url": "https://open.spotify.com/artist/3JN5wydzHKvTzzn9R3Zy8a"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 163408,
+      "name": "Nightingale (feat. NATURE)",
+      "url": "https://open.spotify.com/track/3NawWmpRgds78Yo53QOw8G"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -1535,6 +1535,30 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
+        "name": "Metropolis (feat. NATURE)",
+        "url": "https://open.spotify.com/album/56LyWTBEzesbge7fz95sTi"
+      },
+      "artists": [
+        {
+          "name": "KAM-BU",
+          "url": "https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF"
+        },
+        {
+          "name": "Jakwob",
+          "url": "https://open.spotify.com/artist/4S5yXnFzWvHu16wfuDjjfM"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 291461,
+      "name": "Metropolis (feat. NATURE)",
+      "url": "https://open.spotify.com/track/2eisqIatF58br1F2BA6b3N"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
         "name": "A Day In The Life Of A Tree (feat. NATURE)",
         "url": "https://open.spotify.com/album/5iq6YJ2CDuKGsPNpeZOsrd"
       },
@@ -1559,30 +1583,6 @@
       "duration_ms": 230499,
       "name": "A Day In The Life Of A Tree (feat. NATURE)",
       "url": "https://open.spotify.com/track/0cc6MJ4oHnWJdOImTcU1d0"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
-        "name": "Metropolis (feat. NATURE)",
-        "url": "https://open.spotify.com/album/56LyWTBEzesbge7fz95sTi"
-      },
-      "artists": [
-        {
-          "name": "KAM-BU",
-          "url": "https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF"
-        },
-        {
-          "name": "Jakwob",
-          "url": "https://open.spotify.com/artist/4S5yXnFzWvHu16wfuDjjfM"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 291461,
-      "name": "Metropolis (feat. NATURE)",
-      "url": "https://open.spotify.com/track/2eisqIatF58br1F2BA6b3N"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -1623,26 +1623,6 @@
       "duration_ms": 257250,
       "name": "Dew (feat. NATURE)",
       "url": "https://open.spotify.com/track/2Juto9OSTiDPiGaVpWuQEn"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
-        "name": "I Don\u2019t Wanna Be Strong (feat. NATURE)",
-        "url": "https://open.spotify.com/album/3uYcFZ6EAYLY2lXJYhpmz4"
-      },
-      "artists": [
-        {
-          "name": "Magnus M\u00fcnster",
-          "url": "https://open.spotify.com/artist/1B5Ve8nZVrz3iRMwFnqEtn"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 197809,
-      "name": "I Don\u2019t Wanna Be Strong (feat. NATURE)",
-      "url": "https://open.spotify.com/track/7qWReEoqggN71VzO58JnV2"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -1695,6 +1675,26 @@
       "duration_ms": 62406,
       "name": "Giant Armadillo",
       "url": "https://open.spotify.com/track/5NvFdae8idGVQPSdVg2rJm"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
+        "name": "I Don\u2019t Wanna Be Strong (feat. NATURE)",
+        "url": "https://open.spotify.com/album/3uYcFZ6EAYLY2lXJYhpmz4"
+      },
+      "artists": [
+        {
+          "name": "Magnus M\u00fcnster",
+          "url": "https://open.spotify.com/artist/1B5Ve8nZVrz3iRMwFnqEtn"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 197809,
+      "name": "I Don\u2019t Wanna Be Strong (feat. NATURE)",
+      "url": "https://open.spotify.com/track/7qWReEoqggN71VzO58JnV2"
     },
     {
       "added_at": "2026-02-05 08:45:41",

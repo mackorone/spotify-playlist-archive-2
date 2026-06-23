@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-554 songs - 1 day 10 hr 15 min
+557 songs - 1 day 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Estrellas](https://open.spotify.com/track/1u6yb30nxGeF32KRImj1Hz) | [EnRockecidos](https://open.spotify.com/artist/6j4BNmLmFMCkyszhxBDdnr) | [Lo que cuentan las aceras](https://open.spotify.com/album/2iJvyNUu7kiIpLz8WxmFaX) | 3:29 | 2026-01-11 | 2026-02-04 |
 | [Estupideces](https://open.spotify.com/track/5dzpZRtR52Pqxeg5PZtfpI) | [Croupiers](https://open.spotify.com/artist/3R0Fcr1lCsQy3W18te2HcB) | [Si Vieras Lo Rápido Que Pierdo La Elegancia](https://open.spotify.com/album/0aRngY5uGhtLEP9D4BwGAL) | 3:36 | 2026-02-07 | 2026-03-04 |
 | [Every 1’s a Winner](https://open.spotify.com/track/2E7HHBw2ZYZIbo8E5uzn9P) | [Byron's Brigades](https://open.spotify.com/artist/5yV3z5bTUMGEIE4E6WxPrf) | [Every 1’s a Winner](https://open.spotify.com/album/6V2mbkh0DXgupUg1wGHbmG) | 3:16 | 2026-04-16 | 2026-05-17 |
+| [Eye's On You](https://open.spotify.com/track/31GtsNBfMAAgius6RmMWul) | [The Jay Howie Trio](https://open.spotify.com/artist/3oxYJ2fyfQDUvmf4N3bCkh), [Jay Howie](https://open.spotify.com/artist/3eeXaYeN8szJWw3ziUOWdD) | [Eye's On You](https://open.spotify.com/album/3uuD9DtrH5r4xUQwjFdpXd) | 3:24 | 2026-06-22 |  |
 | [Fairy Wings](https://open.spotify.com/track/0H6StvVWIN3LRcZNK3eAuG) | [Ladat](https://open.spotify.com/artist/2nX96XjXTUZvCoNWTNNun3) | [Fairy Wings](https://open.spotify.com/album/2vyGVc7zSMlbPrQGRWX8Sd) | 3:19 | 2026-06-02 |  |
 | [FAKE](https://open.spotify.com/track/2ee980L0EX5tDefxf5kumE) | [Lina Cooper](https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH) | [SOME RANDOM GIRL THAT NEVER MADE IT ON THE INTERNET](https://open.spotify.com/album/20JtgJAcabJ7eb74csa1Eq) | 2:58 | 2026-02-14 | 2026-06-13 |
 | [Fake Illusion](https://open.spotify.com/track/4XV8XVah83sBK4easO1Le0) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Fake Illusion](https://open.spotify.com/album/2Huu4WMjqQTA5C0KBjd54P) | 3:04 | 2026-06-11 |  |
@@ -363,6 +364,8 @@
 | [Rebranding](https://open.spotify.com/track/6Z3N2meIvmsTtnBnRD1yS1) | [Parademaker](https://open.spotify.com/artist/3N32APzSN5fVzl3v2MEMnx) | [Angel Baby](https://open.spotify.com/album/2Q3NJa2ORmUIPbZWkDjIZu) | 3:39 | 2026-01-24 | 2026-02-23 |
 | [Recuerdo de que alguna vez me dijiste que estabas mejor lejos que conmigo \(No es tan difícil\)](https://open.spotify.com/track/7c3n6e35HWPu8jFZsGP2ZD) | [Los No Muertos](https://open.spotify.com/artist/10DyxVqQ1e1PaEsmZujjSE) | [Recuerdo de que alguna vez me dijiste que estabas mejor lejos que conmigo \(No es tan difícil\)](https://open.spotify.com/album/6g7hoVgjQPhWLuXDiQlK1T) | 4:52 | 2026-06-09 |  |
 | [Reflection](https://open.spotify.com/track/1xHsQvCBHhiwOipWezwwGH) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Reflection](https://open.spotify.com/album/0P5h7ui3wARfSVK8I6RGo6) | 2:40 | 2025-10-30 | 2026-02-18 |
+| [Remember Me](https://open.spotify.com/track/5PK1dJanZLQX6XeRrby4CP) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 5:29 | 2026-06-22 |  |
+| [Renegade](https://open.spotify.com/track/7evC29G5PpckrIySAJRTFm) | [Nitrate](https://open.spotify.com/artist/6wEVMZieIv9ttCzvuDYev8) | [Renegade](https://open.spotify.com/album/3vYFD37Z4kBwKK9VypycbE) | 3:42 | 2026-06-22 |  |
 | [Rescue Me](https://open.spotify.com/track/3wHq81AsSq1QvLsdIhsyM8) | [Hazy Lane](https://open.spotify.com/artist/5NmnqhUJhyRm9Cp2zvhIu0) | [Rescue Me](https://open.spotify.com/album/5Omt4VUwZXFkN5xte9EqLF) | 3:50 | 2026-01-29 | 2026-02-18 |
 | [Research](https://open.spotify.com/track/3pY9N3jLmxjPrDWG18u1bv) | [Lord Agaresth](https://open.spotify.com/artist/6FtWK8K4rM6ZiKnPn44K0W) | [Research](https://open.spotify.com/album/44Ese45gT7SzSMKQS7VY4h) | 4:01 | 2026-03-27 | 2026-04-20 |
 | [Revelations](https://open.spotify.com/track/7bAohas5wlq9JKnRrvF2kT) | [The Trespassers](https://open.spotify.com/artist/4uLDuEBgtKBoOjCjBYMrtF) | [Revelations](https://open.spotify.com/album/5SNwTLCdaUFwnRVHESMfQj) | 3:59 | 2026-06-05 |  |

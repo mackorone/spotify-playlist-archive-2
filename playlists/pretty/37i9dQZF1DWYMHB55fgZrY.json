@@ -1,6 +1,6 @@
 {
   "description": "Los pr\u00f3ceres de la historia del rock nacional. el Xava Drago por siempre ",
-  "num_followers": 575776,
+  "num_followers": 575787,
   "original_name": "Iconos del Rock Mexicano",
   "owner": {
     "name": "Spotify",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-08-22 06:00:14",
       "album": {
-        "name": "Ska a La Carta",
-        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 243253,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
-    },
-    {
-      "added_at": "2025-08-22 06:00:14",
-      "album": {
         "name": "Tasty + B Sides",
         "url": "https://open.spotify.com/album/5IO0ppb7WMdyanUnnBCR0M"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 237840,
       "name": "Dead - En Vivo",
       "url": "https://open.spotify.com/track/7xFn3dihBf60SS4m1wDDt5"
+    },
+    {
+      "added_at": "2025-08-22 06:00:14",
+      "album": {
+        "name": "Ska a La Carta",
+        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 243253,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
     },
     {
       "added_at": "2025-08-22 06:00:14",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-08-22 06:00:14",
       "album": {
-        "name": "Viajero",
-        "url": "https://open.spotify.com/album/3A6tXvEKANe2c8U68fh6oc"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 253608,
-      "name": "Viajero",
-      "url": "https://open.spotify.com/track/5AbNMFadsSbVhYd27XnkMZ"
-    },
-    {
-      "added_at": "2025-08-22 06:00:14",
-      "album": {
         "name": "Reptilectric",
         "url": "https://open.spotify.com/album/6Tqp8Twmyl9xRhePhKS668"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 232288,
       "name": "Reptilectric",
       "url": "https://open.spotify.com/track/2sProjAkdt5b4TgShSRvgA"
+    },
+    {
+      "added_at": "2025-08-22 06:00:14",
+      "album": {
+        "name": "Viajero",
+        "url": "https://open.spotify.com/album/3A6tXvEKANe2c8U68fh6oc"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 253608,
+      "name": "Viajero",
+      "url": "https://open.spotify.com/track/5AbNMFadsSbVhYd27XnkMZ"
     },
     {
       "added_at": "2025-08-22 06:00:14",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-08-22 06:00:14",
       "album": {
-        "name": "Viajero",
-        "url": "https://open.spotify.com/album/3A6tXvEKANe2c8U68fh6oc"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 286859,
-      "name": "Tlatelolco",
-      "url": "https://open.spotify.com/track/7aXS9abYIGYwmb2izj37xW"
-    },
-    {
-      "added_at": "2025-08-22 06:00:14",
-      "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/3mHTWntPW5EGMkb54cn1PK"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 181866,
       "name": "Imagina",
       "url": "https://open.spotify.com/track/5rTpWh5T1yPhIAV9mbmYEW"
+    },
+    {
+      "added_at": "2025-08-22 06:00:14",
+      "album": {
+        "name": "Viajero",
+        "url": "https://open.spotify.com/album/3A6tXvEKANe2c8U68fh6oc"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 286859,
+      "name": "Tlatelolco",
+      "url": "https://open.spotify.com/track/7aXS9abYIGYwmb2izj37xW"
     },
     {
       "added_at": "2025-08-22 06:00:14",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2025-08-22 06:00:14",
       "album": {
-        "name": "Rock Milenium",
-        "url": "https://open.spotify.com/album/2AusEMAvDewcPfe635W38x"
+        "name": "Viva El Rock Latino 2015",
+        "url": "https://open.spotify.com/album/32T2hxjfQJfO41Vp2sG4rb"
       },
       "artists": [
         {
-          "name": "La Lupita",
-          "url": "https://open.spotify.com/artist/64Fg1xlMcuDptp5EiNIIcB"
+          "name": "La Revoluci\u00f3n De Emiliano Zapata",
+          "url": "https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2"
         }
       ],
-      "duration_ms": 167226,
-      "name": "Paquita Disco",
-      "url": "https://open.spotify.com/track/4CJaBuM4AhPM7jJNnKZqc3"
+      "duration_ms": 322040,
+      "name": "Nasty Sex",
+      "url": "https://open.spotify.com/track/1XoFXjGDhvFrIy6xT7WlcR"
     },
     {
       "added_at": "2025-08-22 06:00:14",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2025-08-22 06:00:14",
       "album": {
-        "name": "Viva El Rock Latino 2015",
-        "url": "https://open.spotify.com/album/32T2hxjfQJfO41Vp2sG4rb"
+        "name": "Rock Milenium",
+        "url": "https://open.spotify.com/album/2AusEMAvDewcPfe635W38x"
       },
       "artists": [
         {
-          "name": "La Revoluci\u00f3n De Emiliano Zapata",
-          "url": "https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2"
+          "name": "La Lupita",
+          "url": "https://open.spotify.com/artist/64Fg1xlMcuDptp5EiNIIcB"
         }
       ],
-      "duration_ms": 322040,
-      "name": "Nasty Sex",
-      "url": "https://open.spotify.com/track/1XoFXjGDhvFrIy6xT7WlcR"
+      "duration_ms": 167226,
+      "name": "Paquita Disco",
+      "url": "https://open.spotify.com/track/4CJaBuM4AhPM7jJNnKZqc3"
     },
     {
       "added_at": "2025-08-22 06:00:14",

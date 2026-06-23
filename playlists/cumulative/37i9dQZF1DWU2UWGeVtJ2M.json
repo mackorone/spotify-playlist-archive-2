@@ -1973,6 +1973,24 @@
     },
     {
       "album": {
+        "name": "Simplicity 2000",
+        "url": "https://open.spotify.com/album/53FE2BddqwRXwb1WCHYsli"
+      },
+      "artists": [
+        {
+          "name": "Afterlife",
+          "url": "https://open.spotify.com/artist/6gnvHPFDgWP4LiES4X0Ajz"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346760,
+      "name": "Dub In Ya Mind",
+      "url": "https://open.spotify.com/track/06DXs2hBRdjNs1qE1iYCQQ"
+    },
+    {
+      "album": {
         "name": "Dummy",
         "url": "https://open.spotify.com/album/4mvX5gtx89KvTmjGKS3YUK"
       },
@@ -5908,7 +5926,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 214106,
       "name": "Spring",
       "url": "https://open.spotify.com/track/5FKYSEhkz7sBzlkyLOAXKl"

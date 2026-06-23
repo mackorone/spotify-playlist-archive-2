@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2019. Cover: James Blake",
-  "num_followers": 51423,
+  "num_followers": 51425,
   "original_name": "Best of Indie 2019",
   "owner": {
     "name": "Spotify",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "Beware of the Dogs",
+        "url": "https://open.spotify.com/album/1pKIMs0GEePXjDC2EiYEb7"
+      },
+      "artists": [
+        {
+          "name": "Stella Donnelly",
+          "url": "https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es"
+        }
+      ],
+      "duration_ms": 213137,
+      "name": "Old Man",
+      "url": "https://open.spotify.com/track/6K9QPIt8AR422heY9O372w"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "Someone To Spend Time With",
         "url": "https://open.spotify.com/album/7MNOeNJ9RJgDJ2EPEbsIRv"
       },
@@ -1439,6 +1455,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "forevher",
+        "url": "https://open.spotify.com/album/336iT9Zlon2t5PozcmH8Hu"
+      },
+      "artists": [
+        {
+          "name": "Shura",
+          "url": "https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT"
+        }
+      ],
+      "duration_ms": 247346,
+      "name": "religion (u can lay your hands on me)",
+      "url": "https://open.spotify.com/track/3sPpFnxfeb2grY6cH9JYk9"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "i,i",
         "url": "https://open.spotify.com/album/54DU59anGQsdrFP7utpshG"
       },
@@ -1467,22 +1499,6 @@
       "duration_ms": 264525,
       "name": "Running",
       "url": "https://open.spotify.com/track/090a3fK6DnEKCECdfctvYy"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "Beware of the Dogs",
-        "url": "https://open.spotify.com/album/1pKIMs0GEePXjDC2EiYEb7"
-      },
-      "artists": [
-        {
-          "name": "Stella Donnelly",
-          "url": "https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es"
-        }
-      ],
-      "duration_ms": 213137,
-      "name": "Old Man",
-      "url": "https://open.spotify.com/track/6K9QPIt8AR422heY9O372w"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1579,22 +1595,6 @@
       "duration_ms": 219428,
       "name": "Fuzzybrain",
       "url": "https://open.spotify.com/track/57HJa4ktE7iHGrbFhwzEr2"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "forevher",
-        "url": "https://open.spotify.com/album/336iT9Zlon2t5PozcmH8Hu"
-      },
-      "artists": [
-        {
-          "name": "Shura",
-          "url": "https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT"
-        }
-      ],
-      "duration_ms": 247346,
-      "name": "religion (u can lay your hands on me)",
-      "url": "https://open.spotify.com/track/3sPpFnxfeb2grY6cH9JYk9"
     },
     {
       "added_at": "2022-09-16 04:53:36",

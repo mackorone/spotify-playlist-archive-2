@@ -18083,6 +18083,28 @@
     },
     {
       "album": {
+        "name": "Release Me",
+        "url": "https://open.spotify.com/album/18dWMm2DXRXFIhjIaFU3Wb"
+      },
+      "artists": [
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        },
+        {
+          "name": "Charlotte Haining",
+          "url": "https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227327,
+      "name": "Release Me",
+      "url": "https://open.spotify.com/track/27DXQ1nIW0tbdkUM5f0X07"
+    },
+    {
+      "album": {
         "name": "Remedy",
         "url": "https://open.spotify.com/album/2RfxoMmdN94qeqmbfSGsaz"
       },
@@ -22134,6 +22156,32 @@
       "duration_ms": 185379,
       "name": "Tear It Down",
       "url": "https://open.spotify.com/track/437V6pBF0GzAArc7DCfQzd"
+    },
+    {
+      "album": {
+        "name": "TECHNO BOY TECHNO GIRL",
+        "url": "https://open.spotify.com/album/300fnPP9Amw0HZDhCTbygY"
+      },
+      "artists": [
+        {
+          "name": "MNK",
+          "url": "https://open.spotify.com/artist/0TYdomuRjpH9Am01X437vU"
+        },
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        },
+        {
+          "name": "Mashd N Kutcher",
+          "url": "https://open.spotify.com/artist/0G5lZVxoMwoY8oV6zR8E7k"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150083,
+      "name": "TECHNO BOY TECHNO GIRL",
+      "url": "https://open.spotify.com/track/5TxE9ha36lh7c5m8UtAA5n"
     },
     {
       "album": {

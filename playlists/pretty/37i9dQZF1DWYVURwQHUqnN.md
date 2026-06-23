@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : Gambi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,162,142 likes - 49 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,162,150 likes - 49 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 18 | [YAKUZA](https://open.spotify.com/track/7DEuA8IpagjlToEyGmm3Zw) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [YAKUZA](https://open.spotify.com/album/6siFETHEE13cuuyRJo85TA) | 2:41 |
 | 19 | [18 Carats](https://open.spotify.com/track/2ovfSyXEj6RgIx6Ks5eIWr) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [18 Carats](https://open.spotify.com/album/3RYEWh0gq099GirskEcKVD) | 3:00 |
 | 20 | [Mood \(feat\. D2 & kulturr\)](https://open.spotify.com/track/0Map8Sn47eyojScNyuMnUD) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD), [D2](https://open.spotify.com/artist/0aQ1OtlRCKfVQuMczDIcgS), [kulturr](https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4) | [HYPERACTIF](https://open.spotify.com/album/7FhduVA2rvpQqdTOPrYUnt) | 2:28 |
-| 21 | [ELLE VOULAIT](https://open.spotify.com/track/3vU9V5EzwpsqI2zHbKmHi9) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [My Eyes Only \- Flashback](https://open.spotify.com/album/2uKZ3Ugh07XRffTInfNcjr) | 2:25 |
-| 22 | [Tellement](https://open.spotify.com/track/07x8McckfT6GnTn2V1L3Ew) | [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Tellement](https://open.spotify.com/album/7bk5Hm4M0ROgIMwn6CMZeN) | 2:35 |
-| 23 | [Séminaire](https://open.spotify.com/track/2m0OFkYLkK2SysSwje4xAd) | [Bello&Dallas](https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo) | [Sarah B.](https://open.spotify.com/album/1JRUjufuzfIUnJW9mPxGd7) | 2:33 |
+| 21 | [Tellement](https://open.spotify.com/track/07x8McckfT6GnTn2V1L3Ew) | [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Tellement](https://open.spotify.com/album/7bk5Hm4M0ROgIMwn6CMZeN) | 2:35 |
+| 22 | [Séminaire](https://open.spotify.com/track/2m0OFkYLkK2SysSwje4xAd) | [Bello&Dallas](https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo) | [Sarah B.](https://open.spotify.com/album/1JRUjufuzfIUnJW9mPxGd7) | 2:33 |
+| 23 | [ELLE VOULAIT](https://open.spotify.com/track/3vU9V5EzwpsqI2zHbKmHi9) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [My Eyes Only \- Flashback](https://open.spotify.com/album/2uKZ3Ugh07XRffTInfNcjr) | 2:25 |
 | 24 | [TT](https://open.spotify.com/track/5jkgxXpaOXBi7koVJOSXIB) | [GAULOIS](https://open.spotify.com/artist/7LmtogB01302Utf3C3R4GT), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [TT](https://open.spotify.com/album/42K04QVewiP4vVYzmSERTf) | 3:20 |
 | 25 | [Truc de malade](https://open.spotify.com/track/7EjtF4EONNBBthkpsEHNQi) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Truc de malade](https://open.spotify.com/album/4JRW6Syv1qsnQaqMlOUeca) | 2:29 |
 | 26 | [Monte\-Carlo](https://open.spotify.com/track/7jAEtDBn8bL9E0ywseuAMM) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Monte\-Carlo](https://open.spotify.com/album/1eB3XleIJ6OEEJoc9bkbjY) | 2:48 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 48 | [Sans stress](https://open.spotify.com/track/0B33WPVHg5IJ9dNxZ0CyqR) | [Clyy](https://open.spotify.com/artist/0kH3jtZgw5OY5ueHtEMDXn) | [Sans stress](https://open.spotify.com/album/3rMBJgPzpRR9Kvm1LFkvEs) | 2:08 |
 | 49 | [Pas besoin de toi](https://open.spotify.com/track/5qaKyps348j6M5NkP4n6h9) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV) | [Pas besoin de toi](https://open.spotify.com/album/1VdP0hVjcgPUtE2bM8DUp8) | 2:08 |
 
-Snapshot ID: `AAAAAJwaHw/Kle5XghOuuDEhUQaX09QP`
+Snapshot ID: `AAAAAB2Dr4XVy4qjd+D5CoF12gDTOYEC`

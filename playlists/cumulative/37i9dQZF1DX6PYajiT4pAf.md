@@ -4,7 +4,7 @@
 
 > DELLAFUENTE, SAIKO, Rvfv y el resto de novedades de la semana.
 
-5,886 songs - 12 day 13 hr 21 min
+5,887 songs - 12 day 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1344,7 +1344,7 @@
 | [Desde que tú te has ido](https://open.spotify.com/track/3Oq1INrQqyrOZoQaiRpF8N) | [Michael Foster](https://open.spotify.com/artist/5OmNL8cD7wnxaG0808fYXG) | [Desde que tú te has ido](https://open.spotify.com/album/5dDFYSqdAdWGstz63JbmUc) | 3:21 | 2026-06-04 | 2026-06-12 |
 | [Deseo](https://open.spotify.com/track/6KiEj22q6PUbF5gAAn3lji) | [Andy](https://open.spotify.com/artist/3sFAhUzAk0OINhzrOGBLOu) | [Solo](https://open.spotify.com/album/4VFcR3dd0fN5RCXi0LgrjZ) | 3:09 | 2026-03-05 | 2026-03-13 |
 | [DESEO](https://open.spotify.com/track/6hpbRPCxfUG5oA0o2p39Ez) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW) | [DESEO](https://open.spotify.com/album/2BgyYC7cq0bksO5SY7xETz) | 2:21 | 2025-02-20 | 2025-02-28 |
-| [Deseo](https://open.spotify.com/track/5I6nrZSu19eLFsW7SVnjFs) | [Nolasco](https://open.spotify.com/artist/1iydw0OqyICpB5XlyfZ7qP), [ANDY](https://open.spotify.com/artist/5DmHUpq4sQTgzCR8czrmUf) | [Deseo](https://open.spotify.com/album/6BOkCJZjJTAYP7AadDJR51) | 3:09 | 2026-06-18 |  |
+| [Deseo](https://open.spotify.com/track/5I6nrZSu19eLFsW7SVnjFs) | [Nolasco](https://open.spotify.com/artist/1iydw0OqyICpB5XlyfZ7qP), [Andy](https://open.spotify.com/artist/3sFAhUzAk0OINhzrOGBLOu) | [Deseo](https://open.spotify.com/album/6BOkCJZjJTAYP7AadDJR51) | 3:09 | 2026-06-18 |  |
 | [Desintoxicar](https://open.spotify.com/track/0mtyYaJ6Ff2twvEVnFmks4) | [Ultralágrima](https://open.spotify.com/artist/1Wmv9SIc5k9ipk457eaFFV) | [Días De Alegría](https://open.spotify.com/album/353Nt5qkO8OzPu1aRb2wgY) | 3:34 | 2025-04-24 | 2025-05-02 |
 | [desmaquillada](https://open.spotify.com/track/2qh6SULIPKrCBnaXxE1cGZ) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [desmaquillada](https://open.spotify.com/album/5RMmoWngZf5SH607oGSZyc) | 2:08 | 2025-08-15 | 2025-08-22 |
 | [Desnudémonos](https://open.spotify.com/track/588KXcDCF8as8eHJdntFti) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP), [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Desnudémonos](https://open.spotify.com/album/5ZBJEiqkgpAt9UVU9Kkv6Z) | 3:30 | 2025-11-06 | 2025-11-14 |
@@ -3315,7 +3315,7 @@
 | [Migas](https://open.spotify.com/track/2ZSgwfh8iiPvBDdTPHZmxR) | [Cyclo](https://open.spotify.com/artist/39OjchtLfV4XKEq9JlDGSV), [Zarcort](https://open.spotify.com/artist/3ljuRRLVJKgXJKO0xNqzi6), [Piter\-G](https://open.spotify.com/artist/5OG2g2M1W8LoS47pvptMQP) | [Migas](https://open.spotify.com/album/5wpZuHf4WknJrbv3FUTJW1) | 3:09 | 2025-05-15 | 2025-05-23 |
 | [Miguitas de pan](https://open.spotify.com/track/0uqnA4Vaca06nMfSmieeJd) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN) | [Algo familiar](https://open.spotify.com/album/0LSUDQC96WRRg2nATcTQ3k) | 5:32 | 2025-03-27 | 2025-04-04 |
 | [MIKO](https://open.spotify.com/track/34vkCe3qwyOX6DGO8Lmvuf) | [El Bugg](https://open.spotify.com/artist/6o4L5N0aiAhdtN3pqEwG0P), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Kilvertz](https://open.spotify.com/artist/630EGaAhpoclULwDw8Qf2P) | [MIKO](https://open.spotify.com/album/4BraQkkXtFyMwGcx2i3fPx) | 2:51 | 2024-11-21 | 2024-11-29 |
-| [Mil Años](https://open.spotify.com/track/42tLDKOy6DsRtm5DhxYrOu) | [Gipsy Kings](https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL) | [Mil Años](https://open.spotify.com/album/4WeGRwdLdiBnpFYN1m8xtA) | 3:20 | 2026-06-18 |  |
+| [Mil Años](https://open.spotify.com/track/42tLDKOy6DsRtm5DhxYrOu) | [Gipsy Kings](https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL), [Tonino Baliardo](https://open.spotify.com/artist/3pUWmkSef9vJOPDViYGZ5L), [Nicolas Reyes](https://open.spotify.com/artist/4ZEbnHVcQHXbtkOhg8mDAT) | [Mil Años](https://open.spotify.com/album/4WeGRwdLdiBnpFYN1m8xtA) | 3:20 | 2026-06-18 |  |
 | [MIL D AURA](https://open.spotify.com/track/0LvxvoeJmdhkxRIC4orlJ3) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [MIL D AURA](https://open.spotify.com/album/2hHyXhkWnYTTsZgK6aCUTh) | 3:23 | 2026-02-13 | 2026-02-20 |
 | [Mil Motivos](https://open.spotify.com/track/1ONGU81LPRU172umgYmZSS) | [Belén Jurado](https://open.spotify.com/artist/6SVBkiq5tMxnkzA8c9UWhh), [Chema Rivas](https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ) | [Mil Motivos](https://open.spotify.com/album/62czI0vb5ERU9hrxWEquSX) | 2:51 | 2026-01-08 | 2026-01-16 |
 | [mil preguntas](https://open.spotify.com/track/3DvtcMBAwZev5i9VToHWgZ) | [Zhamira ](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3) | [Curita Para El Corazón](https://open.spotify.com/album/6mbclyEcneNuIoOYOMGKXj) | 2:58 | 2025-11-06 | 2025-11-14 |
@@ -3348,6 +3348,7 @@
 | [Misma Liga](https://open.spotify.com/track/48IFcSKYsGxuSPJZ7SPt9a) | [Hnos Munoz](https://open.spotify.com/artist/4ePbu0sj0JjaPgGkoRDDdU) | [Cat Fun](https://open.spotify.com/album/4ZDmo9qQxFWdJYr5VExeZm) | 2:47 | 2026-05-01 | 2026-05-08 |
 | [Misma Liga](https://open.spotify.com/track/6pnKysbThfUJQgJQot20iv) | [Hnos Munoz](https://open.spotify.com/artist/4ePbu0sj0JjaPgGkoRDDdU) | [Misma Liga](https://open.spotify.com/album/44Wotv6bcdehfOEZjWXvQs) | 2:47 | 2026-02-26 | 2026-03-06 |
 | [MISMO EFECTO](https://open.spotify.com/track/0vl6sZtEyRZndbUlk39boU) | [Menend](https://open.spotify.com/artist/7s2SDZOabRitXKgUdoXmXC), [KYNE](https://open.spotify.com/artist/0RRa1tJbRhkUZsfrVh6524) | [ALL BACK DELUXE](https://open.spotify.com/album/3SYxkd3GEJPymvNLEDM48P) | 3:04 | 2025-11-20 | 2025-11-28 |
+| [Miss Dinamarca](https://open.spotify.com/track/4GXPPoYyK4UNw5MzzQ23UW) | [Los Enemigos](https://open.spotify.com/artist/4uiuj3kqeIHmTH87B7VMnr) | [Canciones chulas](https://open.spotify.com/album/5IWeX8YqVfqVo1JSG8RsDQ) | 3:28 | 2026-06-18 |  |
 | [miss sunshine](https://open.spotify.com/track/0aSVSMCkmecr0Npq8AeZuE) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [miss sunshine](https://open.spotify.com/album/2ww9r7d9m1Ekaal7ULY1zc) | 3:23 | 2025-07-24 | 2025-08-01 |
 | [MiuMiu](https://open.spotify.com/track/06P2zNCmRsB8aQBZo78D2o) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [MiuMiu](https://open.spotify.com/album/1fWk1CMAtVYbXJTUZKUohA) | 2:59 | 2025-06-12 | 2025-06-20 |
 | [MJM](https://open.spotify.com/track/1unQBsx7P9S8saXJtDtOnz) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [MJM](https://open.spotify.com/album/75RvZzgUh99Gr3Ihi18TEp) | 2:48 | 2025-01-31 | 2025-02-07 |

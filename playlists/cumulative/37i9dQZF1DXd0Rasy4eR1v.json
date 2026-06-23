@@ -12747,6 +12747,24 @@
     },
     {
       "album": {
+        "name": "Khol Qaffas",
+        "url": "https://open.spotify.com/album/6o2K6QieGP45YMy3AcQQwl"
+      },
+      "artists": [
+        {
+          "name": "Humail Rajpoot",
+          "url": "https://open.spotify.com/artist/6QwjrW6ixvGxwP61YNTDJl"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221549,
+      "name": "Khol Qaffas",
+      "url": "https://open.spotify.com/track/05Y2lw9S8xOpWNBPyfEjgl"
+    },
+    {
+      "album": {
         "name": "Khuaab",
         "url": "https://open.spotify.com/album/511f96n5mUoxqAIb4fTDrQ"
       },

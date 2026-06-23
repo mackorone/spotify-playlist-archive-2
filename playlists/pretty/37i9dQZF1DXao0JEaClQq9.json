@@ -1,6 +1,6 @@
 {
   "description": "Modern heavenly sounds. Cover: Not For Radio",
-  "num_followers": 1615888,
+  "num_followers": 1615741,
   "original_name": "Ethereal",
   "owner": {
     "name": "Spotify",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-05-15 19:33:28",
       "album": {
-        "name": "In Russia. A is a 9",
-        "url": "https://open.spotify.com/album/2puthl2ughnGeS7jor8GJU"
-      },
-      "artists": [
-        {
-          "name": "EXUM",
-          "url": "https://open.spotify.com/artist/5KJX1Zh0zfHcbwSCk5cPk0"
-        }
-      ],
-      "duration_ms": 209534,
-      "name": "Losing Focus",
-      "url": "https://open.spotify.com/track/1dfs70eiZmlIo88oDCjodF"
-    },
-    {
-      "added_at": "2026-05-15 19:33:28",
-      "album": {
         "name": "Perverts",
         "url": "https://open.spotify.com/album/3kZk3M80kQTJus45lgRKyv"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 299812,
       "name": "I Been Young",
       "url": "https://open.spotify.com/track/1gRDj5L77TVphFS2AT0nh3"
+    },
+    {
+      "added_at": "2026-05-15 19:33:28",
+      "album": {
+        "name": "In Russia. A is a 9",
+        "url": "https://open.spotify.com/album/2puthl2ughnGeS7jor8GJU"
+      },
+      "artists": [
+        {
+          "name": "EXUM",
+          "url": "https://open.spotify.com/artist/5KJX1Zh0zfHcbwSCk5cPk0"
+        }
+      ],
+      "duration_ms": 209534,
+      "name": "Losing Focus",
+      "url": "https://open.spotify.com/track/1dfs70eiZmlIo88oDCjodF"
     },
     {
       "added_at": "2026-05-15 19:33:28",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-05-15 19:33:28",
       "album": {
-        "name": "Jubilee",
-        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 220316,
-      "name": "Paprika",
-      "url": "https://open.spotify.com/track/3zyqphgXvgHe436IMKeey3"
-    },
-    {
-      "added_at": "2026-05-15 19:33:28",
-      "album": {
         "name": "For Sure",
         "url": "https://open.spotify.com/album/5xFn52znOHVXnZlaDQVqrh"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 593346,
       "name": "For Sure",
       "url": "https://open.spotify.com/track/2dUPhgv2YYEnbFrLZ16Ojt"
+    },
+    {
+      "added_at": "2026-05-15 19:33:28",
+      "album": {
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 220316,
+      "name": "Paprika",
+      "url": "https://open.spotify.com/track/3zyqphgXvgHe436IMKeey3"
     },
     {
       "added_at": "2026-05-15 19:33:28",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2026-05-15 19:33:28",
       "album": {
-        "name": "Just A Western (Boy Harsher Remix)",
-        "url": "https://open.spotify.com/album/77DNkESTu7pZbZjWq3RD9e"
-      },
-      "artists": [
-        {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
-        },
-        {
-          "name": "Boy Harsher",
-          "url": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
-        }
-      ],
-      "duration_ms": 241379,
-      "name": "Just A Western - Boy Harsher Remix",
-      "url": "https://open.spotify.com/track/27824hvVGxllQecjb1dqDg"
-    },
-    {
-      "added_at": "2026-05-15 19:33:28",
-      "album": {
         "name": "Guilty Conscience (Tame Impala Remix)",
         "url": "https://open.spotify.com/album/0YklB1LaVFTWaEub2I3tiW"
       },
@@ -1255,6 +1235,46 @@
     {
       "added_at": "2026-05-15 19:33:28",
       "album": {
+        "name": "Just A Western (Boy Harsher Remix)",
+        "url": "https://open.spotify.com/album/77DNkESTu7pZbZjWq3RD9e"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        },
+        {
+          "name": "Boy Harsher",
+          "url": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
+        }
+      ],
+      "duration_ms": 241379,
+      "name": "Just A Western - Boy Harsher Remix",
+      "url": "https://open.spotify.com/track/27824hvVGxllQecjb1dqDg"
+    },
+    {
+      "added_at": "2026-05-15 19:33:28",
+      "album": {
+        "name": "Famous Last Words (An Ode to Eaters)",
+        "url": "https://open.spotify.com/album/47mfwMreABCnlLm7EEtHsB"
+      },
+      "artists": [
+        {
+          "name": "1017 ALYX 9SM",
+          "url": "https://open.spotify.com/artist/72Kzyue7ShXymPjcjOZwHk"
+        },
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 202867,
+      "name": "Famous Last Words (An Ode to Eaters)",
+      "url": "https://open.spotify.com/track/7bpfZYrS4dQKxiuj6QiRaX"
+    },
+    {
+      "added_at": "2026-05-15 19:33:28",
+      "album": {
         "name": "Call For Help",
         "url": "https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX"
       },
@@ -1267,22 +1287,6 @@
       "duration_ms": 198967,
       "name": "Call For Help",
       "url": "https://open.spotify.com/track/3l5qctI4FqhfjIZzs06cbk"
-    },
-    {
-      "added_at": "2026-05-15 19:33:28",
-      "album": {
-        "name": "NEVER ENOUGH",
-        "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 193876,
-      "name": "MAGIC MAN",
-      "url": "https://open.spotify.com/track/0QIjmMTKNYs0XYYUSkORGb"
     },
     {
       "added_at": "2026-05-15 19:33:28",

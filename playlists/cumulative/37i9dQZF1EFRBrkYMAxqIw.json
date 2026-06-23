@@ -829,6 +829,24 @@
     },
     {
       "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/4NftqBiBHjF344NLoYa7dF"
+      },
+      "artists": [
+        {
+          "name": "INSEBTION",
+          "url": "https://open.spotify.com/artist/6UySDz8nyq50YFgdLlQWbF"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145401,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/3ti9s4hvvADQs16BFw9ehv"
+    },
+    {
+      "album": {
         "name": "BEAUTIFUL MADNESS",
         "url": "https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > New & Hottest K\-Hip Hop is here\. \(Cover: NOWIAMYOUNG\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 771,951 likes - 136 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 771,877 likes - 136 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

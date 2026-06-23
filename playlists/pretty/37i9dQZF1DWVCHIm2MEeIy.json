@@ -1,6 +1,6 @@
 {
   "description": "The party has arrived! \ud83e\udea9\u200a Cover: Solomun",
-  "num_followers": 963247,
+  "num_followers": 963287,
   "original_name": "Electronic Circus",
   "owner": {
     "name": "Spotify",
@@ -1299,6 +1299,34 @@
     {
       "added_at": "2026-06-11 22:01:08",
       "album": {
+        "name": "All I Got",
+        "url": "https://open.spotify.com/album/7Mmq6Qpis7mg3g8j4uzBTL"
+      },
+      "artists": [
+        {
+          "name": "Mas\u0161h",
+          "url": "https://open.spotify.com/artist/6QRqfE9Na7BRYG1mxRYqGs"
+        },
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        },
+        {
+          "name": "Ninae",
+          "url": "https://open.spotify.com/artist/5aTBULJ6efMF1VyzcxMXa6"
+        }
+      ],
+      "duration_ms": 295000,
+      "name": "All I Got",
+      "url": "https://open.spotify.com/track/2LMK2xLfWLKbfjZgtBWByM"
+    },
+    {
+      "added_at": "2026-06-11 22:01:08",
+      "album": {
         "name": "I Got You",
         "url": "https://open.spotify.com/album/0h9Si8hhyqG2TRm61mNUnv"
       },
@@ -1335,34 +1363,6 @@
       "duration_ms": 177142,
       "name": "Last Night (Korolova Remix)",
       "url": "https://open.spotify.com/track/6cg1PezjpVSRsRa7f9SnIP"
-    },
-    {
-      "added_at": "2026-06-11 22:01:08",
-      "album": {
-        "name": "All I Got",
-        "url": "https://open.spotify.com/album/7Mmq6Qpis7mg3g8j4uzBTL"
-      },
-      "artists": [
-        {
-          "name": "Mas\u0161h",
-          "url": "https://open.spotify.com/artist/6QRqfE9Na7BRYG1mxRYqGs"
-        },
-        {
-          "name": "Adam Port",
-          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
-        },
-        {
-          "name": "Keinemusik",
-          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
-        },
-        {
-          "name": "Ninae",
-          "url": "https://open.spotify.com/artist/5aTBULJ6efMF1VyzcxMXa6"
-        }
-      ],
-      "duration_ms": 295000,
-      "name": "All I Got",
-      "url": "https://open.spotify.com/track/2LMK2xLfWLKbfjZgtBWByM"
     },
     {
       "added_at": "2026-06-11 22:01:08",
@@ -1455,30 +1455,6 @@
     {
       "added_at": "2026-06-11 22:01:08",
       "album": {
-        "name": "Genesys",
-        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "Cassian",
-          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
-        },
-        {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
-        }
-      ],
-      "duration_ms": 189783,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/4b2rlKIqyLxpxoIaG7sZ5K"
-    },
-    {
-      "added_at": "2026-06-11 22:01:08",
-      "album": {
         "name": "Keep Me Close",
         "url": "https://open.spotify.com/album/442k8gJJ7jTh4uokubtnbi"
       },
@@ -1499,6 +1475,30 @@
       "duration_ms": 197000,
       "name": "Keep Me Close",
       "url": "https://open.spotify.com/track/1xUNcHDeD5yl2RpVS85q0a"
+    },
+    {
+      "added_at": "2026-06-11 22:01:08",
+      "album": {
+        "name": "Genesys",
+        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "duration_ms": 189783,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/4b2rlKIqyLxpxoIaG7sZ5K"
     },
     {
       "added_at": "2026-06-11 22:01:08",
@@ -1651,6 +1651,30 @@
     {
       "added_at": "2026-06-11 22:01:08",
       "album": {
+        "name": "In Your Arms",
+        "url": "https://open.spotify.com/album/0KIJ5H16buFOBL0vNpmSsi"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "Another Life",
+          "url": "https://open.spotify.com/artist/7fMAxXqd5hhcwbC1d0VkLQ"
+        },
+        {
+          "name": "CAY (DE)",
+          "url": "https://open.spotify.com/artist/2ug2jpxDeOgYfYleeYzg2K"
+        }
+      ],
+      "duration_ms": 333750,
+      "name": "In Your Arms",
+      "url": "https://open.spotify.com/track/7lLuAZCes4jKORs3ak8xZP"
+    },
+    {
+      "added_at": "2026-06-11 22:01:08",
+      "album": {
         "name": "Be Without You",
         "url": "https://open.spotify.com/album/0cJIafKRuQ84XkvfPk8Umo"
       },
@@ -1679,30 +1703,6 @@
       "duration_ms": 163384,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/14yugoFdkgO8ZUxLlX6fpJ"
-    },
-    {
-      "added_at": "2026-06-11 22:01:08",
-      "album": {
-        "name": "In Your Arms",
-        "url": "https://open.spotify.com/album/0KIJ5H16buFOBL0vNpmSsi"
-      },
-      "artists": [
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        },
-        {
-          "name": "Another Life",
-          "url": "https://open.spotify.com/artist/7fMAxXqd5hhcwbC1d0VkLQ"
-        },
-        {
-          "name": "CAY (DE)",
-          "url": "https://open.spotify.com/artist/2ug2jpxDeOgYfYleeYzg2K"
-        }
-      ],
-      "duration_ms": 333750,
-      "name": "In Your Arms",
-      "url": "https://open.spotify.com/track/7lLuAZCes4jKORs3ak8xZP"
     },
     {
       "added_at": "2026-06-11 22:01:08",
@@ -1795,26 +1795,6 @@
     {
       "added_at": "2026-06-11 22:01:08",
       "album": {
-        "name": "Genesys II",
-        "url": "https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "IVERSON",
-          "url": "https://open.spotify.com/artist/37Ta8OzT2wEZDyTaCYqzEo"
-        }
-      ],
-      "duration_ms": 239475,
-      "name": "Now Or Never (feat. IVERSON)",
-      "url": "https://open.spotify.com/track/5ODOZBqS9a6bRmyWtsBsRt"
-    },
-    {
-      "added_at": "2026-06-11 22:01:08",
-      "album": {
         "name": "RACER",
         "url": "https://open.spotify.com/album/6geBfBpOE48ZMYCMs8FD3b"
       },
@@ -1835,18 +1815,22 @@
     {
       "added_at": "2026-06-11 22:01:08",
       "album": {
-        "name": "Shook Ones, PT. III",
-        "url": "https://open.spotify.com/album/3O9VVRJeKfnT0XBTZIhRVb"
+        "name": "Genesys II",
+        "url": "https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy"
       },
       "artists": [
         {
-          "name": "HNTR",
-          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "IVERSON",
+          "url": "https://open.spotify.com/artist/37Ta8OzT2wEZDyTaCYqzEo"
         }
       ],
-      "duration_ms": 218398,
-      "name": "Shook Ones, PT. III",
-      "url": "https://open.spotify.com/track/1pZVr0g2zWmsCXoUjFqNZZ"
+      "duration_ms": 239475,
+      "name": "Now Or Never (feat. IVERSON)",
+      "url": "https://open.spotify.com/track/5ODOZBqS9a6bRmyWtsBsRt"
     },
     {
       "added_at": "2026-06-11 22:01:08",
@@ -1867,6 +1851,22 @@
       "duration_ms": 202204,
       "name": "She The Last One",
       "url": "https://open.spotify.com/track/1OGikFMQXWG41hK6QWIGjK"
+    },
+    {
+      "added_at": "2026-06-11 22:01:08",
+      "album": {
+        "name": "Shook Ones, PT. III",
+        "url": "https://open.spotify.com/album/3O9VVRJeKfnT0XBTZIhRVb"
+      },
+      "artists": [
+        {
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+        }
+      ],
+      "duration_ms": 218398,
+      "name": "Shook Ones, PT. III",
+      "url": "https://open.spotify.com/track/1pZVr0g2zWmsCXoUjFqNZZ"
     },
     {
       "added_at": "2026-06-11 22:01:08",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2026-06-11 22:01:08",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/0nI7aCghT6qgLfWzTkS3XA"
-      },
-      "artists": [
-        {
-          "name": "Kristian Llov",
-          "url": "https://open.spotify.com/artist/5I8TkdfxJsKIEGhGQSBmyc"
-        }
-      ],
-      "duration_ms": 178616,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/6XeyK7aMTmNbS9G7VKQdhw"
-    },
-    {
-      "added_at": "2026-06-11 22:01:08",
-      "album": {
         "name": "Zodiac",
         "url": "https://open.spotify.com/album/6dylMlHC16SU924l7a6UGV"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 342857,
       "name": "Zodiac",
       "url": "https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt"
+    },
+    {
+      "added_at": "2026-06-11 22:01:08",
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/0nI7aCghT6qgLfWzTkS3XA"
+      },
+      "artists": [
+        {
+          "name": "Kristian Llov",
+          "url": "https://open.spotify.com/artist/5I8TkdfxJsKIEGhGQSBmyc"
+        }
+      ],
+      "duration_ms": 178616,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/6XeyK7aMTmNbS9G7VKQdhw"
     },
     {
       "added_at": "2026-06-11 22:01:08",
@@ -2619,22 +2619,6 @@
     {
       "added_at": "2026-06-11 22:01:08",
       "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/64p5aAeP5fKZ1tJnhtHn52"
-      },
-      "artists": [
-        {
-          "name": "Kaufmann (DE)",
-          "url": "https://open.spotify.com/artist/4vyVLlQZTWLkuvSXaNMv4v"
-        }
-      ],
-      "duration_ms": 384760,
-      "name": "Mother",
-      "url": "https://open.spotify.com/track/5HJEdaxYV6DZ3ju0szNERM"
-    },
-    {
-      "added_at": "2026-06-11 22:01:08",
-      "album": {
         "name": "Perception",
         "url": "https://open.spotify.com/album/2VAQkslaimMoY3kAIBwash"
       },
@@ -2647,6 +2631,22 @@
       "duration_ms": 282247,
       "name": "Perception",
       "url": "https://open.spotify.com/track/1ekuYNPiJXmXqb92TORiPX"
+    },
+    {
+      "added_at": "2026-06-11 22:01:08",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/64p5aAeP5fKZ1tJnhtHn52"
+      },
+      "artists": [
+        {
+          "name": "Kaufmann (DE)",
+          "url": "https://open.spotify.com/artist/4vyVLlQZTWLkuvSXaNMv4v"
+        }
+      ],
+      "duration_ms": 384760,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/5HJEdaxYV6DZ3ju0szNERM"
     },
     {
       "added_at": "2026-06-11 22:01:08",
@@ -2707,6 +2707,26 @@
     {
       "added_at": "2026-06-11 22:01:08",
       "album": {
+        "name": "Drum Death",
+        "url": "https://open.spotify.com/album/4vqrNHTMoTgrN4DBH5b81t"
+      },
+      "artists": [
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        },
+        {
+          "name": "HOSANNA",
+          "url": "https://open.spotify.com/artist/7M9O9v7kmiDSjN4eKFSik7"
+        }
+      ],
+      "duration_ms": 170644,
+      "name": "Drum Death",
+      "url": "https://open.spotify.com/track/1gkTO34Xg6FO8W9HrxYR4E"
+    },
+    {
+      "added_at": "2026-06-11 22:01:08",
+      "album": {
         "name": "I Adore You (Argy & Mor Avrahami Remix)",
         "url": "https://open.spotify.com/album/55sqzykLVw2AEUbOH7Qa8c"
       },
@@ -2739,26 +2759,6 @@
       "duration_ms": 171562,
       "name": "I Adore You - Argy & Mor Avrahami Remix",
       "url": "https://open.spotify.com/track/1id7bLyYAy6xa2YeHUJo3F"
-    },
-    {
-      "added_at": "2026-06-11 22:01:08",
-      "album": {
-        "name": "Drum Death",
-        "url": "https://open.spotify.com/album/4vqrNHTMoTgrN4DBH5b81t"
-      },
-      "artists": [
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        },
-        {
-          "name": "HOSANNA",
-          "url": "https://open.spotify.com/artist/7M9O9v7kmiDSjN4eKFSik7"
-        }
-      ],
-      "duration_ms": 170644,
-      "name": "Drum Death",
-      "url": "https://open.spotify.com/track/1gkTO34Xg6FO8W9HrxYR4E"
     },
     {
       "added_at": "2026-06-11 22:01:08",
@@ -2939,22 +2939,6 @@
     {
       "added_at": "2026-06-11 22:01:08",
       "album": {
-        "name": "My Head",
-        "url": "https://open.spotify.com/album/5II6feKvMjA1MVxKA4YnLy"
-      },
-      "artists": [
-        {
-          "name": "TH;EN",
-          "url": "https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff"
-        }
-      ],
-      "duration_ms": 208320,
-      "name": "My Head",
-      "url": "https://open.spotify.com/track/1wEHf73SzexXPjQozFSVFz"
-    },
-    {
-      "added_at": "2026-06-11 22:01:08",
-      "album": {
         "name": "Ascension",
         "url": "https://open.spotify.com/album/6mhiuF8VWrCnXFyX8UpPVS"
       },
@@ -2971,6 +2955,22 @@
       "duration_ms": 244517,
       "name": "Ascension",
       "url": "https://open.spotify.com/track/6Gi53jMV1JLVFYOS2iywxA"
+    },
+    {
+      "added_at": "2026-06-11 22:01:08",
+      "album": {
+        "name": "My Head",
+        "url": "https://open.spotify.com/album/5II6feKvMjA1MVxKA4YnLy"
+      },
+      "artists": [
+        {
+          "name": "TH;EN",
+          "url": "https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff"
+        }
+      ],
+      "duration_ms": 208320,
+      "name": "My Head",
+      "url": "https://open.spotify.com/track/1wEHf73SzexXPjQozFSVFz"
     },
     {
       "added_at": "2026-06-11 22:01:08",
@@ -3023,22 +3023,6 @@
     {
       "added_at": "2026-06-11 22:01:08",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/1N7K3IIyDpWywAo7hrlHzc"
-      },
-      "artists": [
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        }
-      ],
-      "duration_ms": 181363,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/422u4065pibZQ0jUl1kJo0"
-    },
-    {
-      "added_at": "2026-06-11 22:01:08",
-      "album": {
         "name": "Hare Ram",
         "url": "https://open.spotify.com/album/03dSjOT6fqiQ9HfrjKKgar"
       },
@@ -3051,6 +3035,22 @@
       "duration_ms": 199727,
       "name": "Hare Ram",
       "url": "https://open.spotify.com/track/1MxkZ4ybCA4ordKzbGRN2O"
+    },
+    {
+      "added_at": "2026-06-11 22:01:08",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/1N7K3IIyDpWywAo7hrlHzc"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "duration_ms": 181363,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/422u4065pibZQ0jUl1kJo0"
     },
     {
       "added_at": "2026-06-11 22:01:08",
@@ -3595,6 +3595,22 @@
     {
       "added_at": "2026-06-11 22:01:08",
       "album": {
+        "name": "I Can't Save You",
+        "url": "https://open.spotify.com/album/0p6NHnIch3TXqClOS4wwkL"
+      },
+      "artists": [
+        {
+          "name": "Jono Stephenson",
+          "url": "https://open.spotify.com/artist/21MbQv1rCoPiOUq7f3cdHL"
+        }
+      ],
+      "duration_ms": 376560,
+      "name": "I Can't Save You",
+      "url": "https://open.spotify.com/track/2QUuqXFWOBS1UDde1b0tSx"
+    },
+    {
+      "added_at": "2026-06-11 22:01:08",
+      "album": {
         "name": "Desolate Lands",
         "url": "https://open.spotify.com/album/2KLiLQvguVwRpcLqL74Huc"
       },
@@ -3611,22 +3627,6 @@
       "duration_ms": 258466,
       "name": "Desolate Lands",
       "url": "https://open.spotify.com/track/0otmh5QkPkM4HtSleILAWC"
-    },
-    {
-      "added_at": "2026-06-11 22:01:08",
-      "album": {
-        "name": "I Can't Save You",
-        "url": "https://open.spotify.com/album/0p6NHnIch3TXqClOS4wwkL"
-      },
-      "artists": [
-        {
-          "name": "Jono Stephenson",
-          "url": "https://open.spotify.com/artist/21MbQv1rCoPiOUq7f3cdHL"
-        }
-      ],
-      "duration_ms": 376560,
-      "name": "I Can't Save You",
-      "url": "https://open.spotify.com/track/2QUuqXFWOBS1UDde1b0tSx"
     },
     {
       "added_at": "2026-06-11 22:01:08",
@@ -3739,22 +3739,6 @@
     {
       "added_at": "2026-06-11 22:01:08",
       "album": {
-        "name": "All You Got To Do",
-        "url": "https://open.spotify.com/album/35PB3qVN6zyJFENXaTFmAn"
-      },
-      "artists": [
-        {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
-        }
-      ],
-      "duration_ms": 186870,
-      "name": "All You Got To Do",
-      "url": "https://open.spotify.com/track/7eLaGCCMM7EAyu4igl9AfB"
-    },
-    {
-      "added_at": "2026-06-11 22:01:08",
-      "album": {
         "name": "The Turn",
         "url": "https://open.spotify.com/album/02bP8IHWtLIK5wvHp3FZHv"
       },
@@ -3771,6 +3755,22 @@
       "duration_ms": 346209,
       "name": "Reserva",
       "url": "https://open.spotify.com/track/1XQ7cb5Ta5XDXAnX2eF52I"
+    },
+    {
+      "added_at": "2026-06-11 22:01:08",
+      "album": {
+        "name": "All You Got To Do",
+        "url": "https://open.spotify.com/album/35PB3qVN6zyJFENXaTFmAn"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "duration_ms": 186870,
+      "name": "All You Got To Do",
+      "url": "https://open.spotify.com/track/7eLaGCCMM7EAyu4igl9AfB"
     },
     {
       "added_at": "2026-06-11 22:01:08",
@@ -3827,18 +3827,22 @@
     {
       "added_at": "2026-06-11 22:01:08",
       "album": {
-        "name": "Bad Boy",
-        "url": "https://open.spotify.com/album/1TEKWGE5byHlJaed68p4BN"
+        "name": "Stronger",
+        "url": "https://open.spotify.com/album/3fvkqHSmVJQls8VuFp2s7L"
       },
       "artists": [
         {
-          "name": "Linska",
-          "url": "https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq"
+          "name": "Kaz James",
+          "url": "https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA"
+        },
+        {
+          "name": "Ali Love",
+          "url": "https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge"
         }
       ],
-      "duration_ms": 178139,
-      "name": "Bad Boy",
-      "url": "https://open.spotify.com/track/6JHLEqlfiQDVJ0SbSsZIyL"
+      "duration_ms": 176483,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/7gGf1lpYd8AiibjYIh2ups"
     },
     {
       "added_at": "2026-06-11 22:01:08",
@@ -3867,38 +3871,18 @@
     {
       "added_at": "2026-06-11 22:01:08",
       "album": {
-        "name": "Stronger",
-        "url": "https://open.spotify.com/album/3fvkqHSmVJQls8VuFp2s7L"
+        "name": "Bad Boy",
+        "url": "https://open.spotify.com/album/1TEKWGE5byHlJaed68p4BN"
       },
       "artists": [
         {
-          "name": "Kaz James",
-          "url": "https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA"
-        },
-        {
-          "name": "Ali Love",
-          "url": "https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge"
+          "name": "Linska",
+          "url": "https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq"
         }
       ],
-      "duration_ms": 176483,
-      "name": "Stronger",
-      "url": "https://open.spotify.com/track/7gGf1lpYd8AiibjYIh2ups"
-    },
-    {
-      "added_at": "2026-06-11 22:01:08",
-      "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/38MBdNMbf3lra9AWJkqmZG"
-      },
-      "artists": [
-        {
-          "name": "Victor Ruiz",
-          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
-        }
-      ],
-      "duration_ms": 365689,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/340fN3ZYdRrcc7ybSYNglo"
+      "duration_ms": 178139,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/6JHLEqlfiQDVJ0SbSsZIyL"
     },
     {
       "added_at": "2026-06-11 22:01:08",
@@ -3939,6 +3923,22 @@
       "duration_ms": 538000,
       "name": "Aruna Chandra",
       "url": "https://open.spotify.com/track/20qCEmcOcBQC7DS2T70Pz4"
+    },
+    {
+      "added_at": "2026-06-11 22:01:08",
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/38MBdNMbf3lra9AWJkqmZG"
+      },
+      "artists": [
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        }
+      ],
+      "duration_ms": 365689,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/340fN3ZYdRrcc7ybSYNglo"
     },
     {
       "added_at": "2026-06-11 22:01:08",

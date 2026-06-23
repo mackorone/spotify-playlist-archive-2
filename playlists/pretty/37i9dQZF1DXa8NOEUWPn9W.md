@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8NOEUWPn9W.md) - [plain]
 
 > House music lives here\. United under one roof, featuring Green Velvet & Detlef
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,962,998 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,963,460 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8NOEUWPn9W.md) - [plain]
 | 38 | [See\-Line Woman \- Mochakk Mix](https://open.spotify.com/track/3kVHlBlzIZP2kuqWMYhv3B) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [See\-Line Woman \(Mochakk Mix\)](https://open.spotify.com/album/5LlU02DzqhgFNDIbPfSxXV) | 4:48 |
 | 39 | [Joy Without Sound](https://open.spotify.com/track/1iBXitX6n5iiKI9U6eETKF) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Joy Without Sound](https://open.spotify.com/album/6Em2Qts5UUnhfcXqFZKicy) | 3:15 |
 | 40 | [Show Me Love \(Devotion\)](https://open.spotify.com/track/0ZPG3VuIj9hm6jSaztHBxT) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Show Me Love \(Devotion\)](https://open.spotify.com/album/2hzFYqh088Z5FMEmwHMnNP) | 2:55 |
-| 41 | [Shaded \- Edit](https://open.spotify.com/track/6hkD84eR7vRyge3O2hhP3m) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS), [Shades of Rhythm](https://open.spotify.com/artist/1BRpMOjIH52Y93hbROTMXc) | [Shaded](https://open.spotify.com/album/4XDqE68uIPziiH89UkQcgr) | 3:02 |
+| 41 | [Shaded \- Edit](https://open.spotify.com/track/6hkD84eR7vRyge3O2hhP3m) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS), [Shades of Rhythm](https://open.spotify.com/artist/1BRpMOjIH52Y93hbROTMXc) | [Shaded \(Edit\)](https://open.spotify.com/album/4XDqE68uIPziiH89UkQcgr) | 3:02 |
 | 42 | [Freaky 1](https://open.spotify.com/track/5cefCIhgIJgsG3r3LcRmwB) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Ali Love](https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge) | [Freaky 1](https://open.spotify.com/album/2iI0aQO2hrnBmMDIUvrLJS) | 3:52 |
 | 43 | [Inside of Me](https://open.spotify.com/track/641hz8g6Sb6ng14V1we78Y) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3), [Ejeca](https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX) | [Inside Of Me](https://open.spotify.com/album/0qRVckLxIAPUxv3XmgDOHY) | 2:33 |
 | 44 | [Let's Have A Kiki](https://open.spotify.com/track/3As6Wq7XOZC8ALXBApftaW) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM), [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc), [Lushious Massacr](https://open.spotify.com/artist/599EKyRNGcjvjD85PmErUL) | [Emergency Loop](https://open.spotify.com/album/41xG3nkj5Lbb126IxngC4t) | 3:05 |

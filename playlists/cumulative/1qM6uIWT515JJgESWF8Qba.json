@@ -4583,6 +4583,24 @@
     },
     {
       "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/27dSOVVwcVXBIPk9DwqVxf"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Chesh",
+          "url": "https://open.spotify.com/artist/6UtfPj6jV1beO2Dg64uhY3"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201804,
+      "name": "Want",
+      "url": "https://open.spotify.com/track/6HPqzgtJtCVTyxfadXusPZ"
+    },
+    {
+      "album": {
         "name": "We're Not Lovers",
         "url": "https://open.spotify.com/album/7nh45cg3SuPxaXAJFDVTZz"
       },

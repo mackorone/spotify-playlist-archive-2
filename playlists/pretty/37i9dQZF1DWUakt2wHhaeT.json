@@ -1,12 +1,12 @@
 {
   "description": "The best songs from the new shows and the buzziest hits. Cover: Original Broadway Cast of The Lost Boys",
-  "num_followers": 112617,
+  "num_followers": 112624,
   "original_name": "Broadway Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOQaWD2e68K3Q3RRb8+Sw+BcX/3G",
+  "snapshot_id": "AAAAAIfmN2ttuQ9+4f0I9yVI88aqAzvs",
   "tracks": [
     {
       "added_at": "2026-05-29 05:29:44",
@@ -47,6 +47,134 @@
       "duration_ms": 229227,
       "name": "Secret Comes Out",
       "url": "https://open.spotify.com/track/0ehOUvtjmiTFKLpcvSJS7L"
+    },
+    {
+      "added_at": "2026-06-22 23:07:16",
+      "album": {
+        "name": "What's The Buzz?",
+        "url": "https://open.spotify.com/album/247w5vjEniD9Ta9sHdX1Rl"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "Sam Ryder",
+          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
+        }
+      ],
+      "duration_ms": 331726,
+      "name": "What's The Buzz?",
+      "url": "https://open.spotify.com/track/33M0bBbV0KZgncDTzqNDOy"
+    },
+    {
+      "added_at": "2026-06-22 23:07:16",
+      "album": {
+        "name": "Ernxst, Or The Importance Of Being (Studio Cast Recording)",
+        "url": "https://open.spotify.com/album/3FEpJqPv1XIwZeqa9Cvmo1"
+      },
+      "artists": [
+        {
+          "name": "Joy Woods",
+          "url": "https://open.spotify.com/artist/4ANaCMgO8VHtP89pRV46pW"
+        }
+      ],
+      "duration_ms": 244716,
+      "name": "Out Here",
+      "url": "https://open.spotify.com/track/7cZDJhLUBhk9lmsM9B7tcA"
+    },
+    {
+      "added_at": "2026-06-22 23:07:16",
+      "album": {
+        "name": "Caesar: The Musical",
+        "url": "https://open.spotify.com/album/3LGYdH5aIFGHTZWMIcRyvb"
+      },
+      "artists": [
+        {
+          "name": "Savy Jackson",
+          "url": "https://open.spotify.com/artist/1QczgX9nNXcqYjG3r9o7Q2"
+        },
+        {
+          "name": "Katherine Lynn-Rose",
+          "url": "https://open.spotify.com/artist/7GQGmAwcsVLExHVC9ez8HZ"
+        },
+        {
+          "name": "Elizabeth Teeter",
+          "url": "https://open.spotify.com/artist/1drAtaDXvO1saiOaEudIjW"
+        }
+      ],
+      "duration_ms": 237913,
+      "name": "Shall Rome",
+      "url": "https://open.spotify.com/track/55RChJIHT7r3K7ZBlPvvqf"
+    },
+    {
+      "added_at": "2026-06-22 23:07:16",
+      "album": {
+        "name": "Fuckin' Scream",
+        "url": "https://open.spotify.com/album/2DJ6M3L16QyZZzHBTMZoLr"
+      },
+      "artists": [
+        {
+          "name": "Steven Sater",
+          "url": "https://open.spotify.com/artist/3mrC1iFYFRjD9vCgV8Mwdv"
+        },
+        {
+          "name": "James Bourne",
+          "url": "https://open.spotify.com/artist/4b9X9koqzHEUbaG6dr0OJQ"
+        },
+        {
+          "name": "Gaten Matarazzo",
+          "url": "https://open.spotify.com/artist/5TLldRzO16khcP3zwBsBB6"
+        }
+      ],
+      "duration_ms": 130774,
+      "name": "Fuckin' Scream",
+      "url": "https://open.spotify.com/track/15yhLoLn3YlXJ7rdsSFPwF"
+    },
+    {
+      "added_at": "2026-06-22 23:07:16",
+      "album": {
+        "name": "Liberal Love (from Good Guy with a Gun!)",
+        "url": "https://open.spotify.com/album/0H7XlmDom8gTTwLQcSA4ye"
+      },
+      "artists": [
+        {
+          "name": "Philip Labes",
+          "url": "https://open.spotify.com/artist/2gzXe1MitsMjpK7NudXNZf"
+        },
+        {
+          "name": "Kimiko Glenn",
+          "url": "https://open.spotify.com/artist/6lU0XGyOn94aBZno3H9WpA"
+        }
+      ],
+      "duration_ms": 189791,
+      "name": "Liberal Love (from Good Guy with a Gun!)",
+      "url": "https://open.spotify.com/track/74FcG3EYfa5qu2xtIhfmvz"
+    },
+    {
+      "added_at": "2026-06-22 23:07:16",
+      "album": {
+        "name": "Penelope (from \"Penelope: Live at Joe's Pub\")",
+        "url": "https://open.spotify.com/album/48LRHZG7C6Y2bvhOWd68Sr"
+      },
+      "artists": [
+        {
+          "name": "Grace McLean",
+          "url": "https://open.spotify.com/artist/3r29KIdA9ZoETZ5Ix9x4jS"
+        },
+        {
+          "name": "Alex Bechtel",
+          "url": "https://open.spotify.com/artist/4rrPCQewME8WfPjzZNat3I"
+        },
+        {
+          "name": "Eva Steinmetz",
+          "url": "https://open.spotify.com/artist/3K9hPEt2ixs30yeQYapuFa"
+        }
+      ],
+      "duration_ms": 379794,
+      "name": "Penelope - from \"Penelope: Live at Joe's Pub\"",
+      "url": "https://open.spotify.com/track/7tEX2QZ05KwU0aEGU3LPYH"
     },
     {
       "added_at": "2026-05-04 01:43:59",
@@ -1035,158 +1163,6 @@
       "duration_ms": 235923,
       "name": "How Do You Sleep",
       "url": "https://open.spotify.com/track/5O1KUF2pfaDvWG42z8927P"
-    },
-    {
-      "added_at": "2026-05-04 01:43:59",
-      "album": {
-        "name": "Today I Am Here",
-        "url": "https://open.spotify.com/album/073BmFGgktQCF2vrXcRtKA"
-      },
-      "artists": [
-        {
-          "name": "King of Pangea Musical",
-          "url": "https://open.spotify.com/artist/0H5jxkf65ZTj5VQc4Wh8bm"
-        },
-        {
-          "name": "Martin Storrow",
-          "url": "https://open.spotify.com/artist/2ZK6Ew8k5DDO43kloeaorE"
-        },
-        {
-          "name": "Gaby Moreno",
-          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
-        }
-      ],
-      "duration_ms": 199163,
-      "name": "Today I Am Here",
-      "url": "https://open.spotify.com/track/7lBQi6V12cxLBz6XMmCOLb"
-    },
-    {
-      "added_at": "2026-05-04 01:43:59",
-      "album": {
-        "name": "Dis-topia (Original Cast Recording)",
-        "url": "https://open.spotify.com/album/5BMIwzTHM37ae8O1b1TSzq"
-      },
-      "artists": [
-        {
-          "name": "Robby Good",
-          "url": "https://open.spotify.com/artist/3BKT12By8oCU73WxjFxKwT"
-        },
-        {
-          "name": "Matthew Deegan",
-          "url": "https://open.spotify.com/artist/6s8wlCe58nG03AgjZjESRn"
-        },
-        {
-          "name": "Abigail Torrence",
-          "url": "https://open.spotify.com/artist/3JKlcuQXl7WnwjM7hmpVqE"
-        },
-        {
-          "name": "Mia Ruhman",
-          "url": "https://open.spotify.com/artist/7lhFpWt6W1tHo6YNcOJ2gP"
-        },
-        {
-          "name": "Jordan Hadley",
-          "url": "https://open.spotify.com/artist/0HNbGPoOpo3vkUnwRRlvk5"
-        }
-      ],
-      "duration_ms": 142128,
-      "name": "Satisfied",
-      "url": "https://open.spotify.com/track/79BwTTvO0aWe5yfMM04QM2"
-    },
-    {
-      "added_at": "2026-05-04 01:43:59",
-      "album": {
-        "name": "CAKE: The Marie Antoinette Playlist (Studio Cast Recording)",
-        "url": "https://open.spotify.com/album/0wIkG3HcEubSxNueheYcSW"
-      },
-      "artists": [
-        {
-          "name": "Cake The Musical",
-          "url": "https://open.spotify.com/artist/60uKAnsWM88nOiQ8cMnLha"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Let Them Eat Cake",
-      "url": "https://open.spotify.com/track/0tfWuZZS3MA4UdMryLeApR"
-    },
-    {
-      "added_at": "2026-05-04 01:43:59",
-      "album": {
-        "name": "Warriors",
-        "url": "https://open.spotify.com/album/3KMnVj85laQ3mvCp0k82Zl"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 204733,
-      "name": "If You Can Count",
-      "url": "https://open.spotify.com/track/1QpJXozmWx1foS6GsIp3fA"
-    },
-    {
-      "added_at": "2026-05-04 01:43:59",
-      "album": {
-        "name": "Here We Are (Original Cast Recording)",
-        "url": "https://open.spotify.com/album/04SqfbxYwlEhk5GenxL4mv"
-      },
-      "artists": [
-        {
-          "name": "Denis O'Hare",
-          "url": "https://open.spotify.com/artist/6V61xKjFeKyRl9FAgKtKYS"
-        },
-        {
-          "name": "Amber Gray",
-          "url": "https://open.spotify.com/artist/14i357yzHOFOHFma68eNJb"
-        },
-        {
-          "name": "Jeremy Shamos",
-          "url": "https://open.spotify.com/artist/1gU6vW1dNs4oZMGoKDAW3h"
-        },
-        {
-          "name": "Steven Pasquale",
-          "url": "https://open.spotify.com/artist/28Ni327TDo6yEqZXD10d5I"
-        },
-        {
-          "name": "Bobby Cannavale",
-          "url": "https://open.spotify.com/artist/39ZMrrNEthdwHD5WrmBEk4"
-        },
-        {
-          "name": "Rachel Bay Jones",
-          "url": "https://open.spotify.com/artist/73sIMDrtvzFVs4Y1WkUpTd"
-        },
-        {
-          "name": "Micaela Diamond",
-          "url": "https://open.spotify.com/artist/4cwza2NZPQtmTcXotvpwWq"
-        }
-      ],
-      "duration_ms": 261519,
-      "name": "Waiter's Song",
-      "url": "https://open.spotify.com/track/2E0AjkiDgeQwAMLWyNudf5"
-    },
-    {
-      "added_at": "2026-05-04 01:43:59",
-      "album": {
-        "name": "The Outsiders - A New Musical (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/67tJ9sRxyaLcj7QQzt1wPk"
-      },
-      "artists": [
-        {
-          "name": "Sky Lakota-Lynch",
-          "url": "https://open.spotify.com/artist/6tXiikauT8deFqOGJ9RCeI"
-        },
-        {
-          "name": "Brody Grant",
-          "url": "https://open.spotify.com/artist/4dxMGpSWxE0B2ySAvab6dj"
-        },
-        {
-          "name": "Original Broadway Cast of The Outsiders - A New Musical",
-          "url": "https://open.spotify.com/artist/2FOqIyiI7Ss7sQGBtDZF5w"
-        }
-      ],
-      "duration_ms": 249194,
-      "name": "Stay Gold",
-      "url": "https://open.spotify.com/track/6QMYeuubL00KcXBXxS5Zhn"
     }
   ],
   "unique_name": "Broadway Rising",

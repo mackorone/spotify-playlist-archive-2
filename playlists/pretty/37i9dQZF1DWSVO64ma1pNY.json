@@ -1,6 +1,6 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 303266,
+  "num_followers": 303273,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Dark Horse",
-        "url": "https://open.spotify.com/album/0GQ9AZBJSj109gmSdSrviC"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 212346,
-      "name": "Burn It to the Ground",
-      "url": "https://open.spotify.com/track/1jq28NGw6wdtFKx8MBPy6C"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Dookie",
         "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 178000,
       "name": "When I Come Around",
       "url": "https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Dark Horse",
+        "url": "https://open.spotify.com/album/0GQ9AZBJSj109gmSdSrviC"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 212346,
+      "name": "Burn It to the Ground",
+      "url": "https://open.spotify.com/track/1jq28NGw6wdtFKx8MBPy6C"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -227,22 +227,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "House of Gold & Bones, Part 1",
-        "url": "https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn"
-      },
-      "artists": [
-        {
-          "name": "Stone Sour",
-          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
-        }
-      ],
-      "duration_ms": 229840,
-      "name": "Absolute Zero",
-      "url": "https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Getting Away With Murder",
         "url": "https://open.spotify.com/album/1OO7kdJ4OzWbjcroJEpfTH"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 191372,
       "name": "Getting Away With Murder",
       "url": "https://open.spotify.com/track/40dHZ1HyySmu9FmTINRbqM"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "House of Gold & Bones, Part 1",
+        "url": "https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn"
+      },
+      "artists": [
+        {
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+        }
+      ],
+      "duration_ms": 229840,
+      "name": "Absolute Zero",
+      "url": "https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Bad Vibrations (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5rSgMFmmuaKQxma4bSEviU"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 200676,
-      "name": "Paranoia",
-      "url": "https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Cry Wolf",
         "url": "https://open.spotify.com/album/2mSsjlndP7hegCkRi8udPm"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 264403,
       "name": "Cry Wolf",
       "url": "https://open.spotify.com/track/2d1HZ8HtdvqI5oqt7gpnB8"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Bad Vibrations (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5rSgMFmmuaKQxma4bSEviU"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 200676,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "The Lonely Position Of Neutral",
-        "url": "https://open.spotify.com/album/2fjLRxrWTlE20dPbICrNnh"
-      },
-      "artists": [
-        {
-          "name": "TRUSTcompany",
-          "url": "https://open.spotify.com/artist/21ALJSG7U07dShegeJQ2xA"
-        }
-      ],
-      "duration_ms": 208266,
-      "name": "Falling Apart",
-      "url": "https://open.spotify.com/track/1oFe7QvpwY3xZVyABI2TXP"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Rescued",
         "url": "https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 258648,
       "name": "Rescued",
       "url": "https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "The Lonely Position Of Neutral",
+        "url": "https://open.spotify.com/album/2fjLRxrWTlE20dPbICrNnh"
+      },
+      "artists": [
+        {
+          "name": "TRUSTcompany",
+          "url": "https://open.spotify.com/artist/21ALJSG7U07dShegeJQ2xA"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "Falling Apart",
+      "url": "https://open.spotify.com/track/1oFe7QvpwY3xZVyABI2TXP"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Hi-Fi Serious",
-        "url": "https://open.spotify.com/album/4A66a0jsW9AJB6Com7AX4U"
-      },
-      "artists": [
-        {
-          "name": "A",
-          "url": "https://open.spotify.com/artist/3HBxYEtI2i43MzWyTXupVv"
-        }
-      ],
-      "duration_ms": 223266,
-      "name": "Nothing",
-      "url": "https://open.spotify.com/track/7yUrBn4yvBBfwXXfHTE2Wd"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "But Here We Are",
         "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 283469,
       "name": "But Here We Are",
       "url": "https://open.spotify.com/track/5s18NymFEHOtiUMfVr6E3H"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Hi-Fi Serious",
+        "url": "https://open.spotify.com/album/4A66a0jsW9AJB6Com7AX4U"
+      },
+      "artists": [
+        {
+          "name": "A",
+          "url": "https://open.spotify.com/artist/3HBxYEtI2i43MzWyTXupVv"
+        }
+      ],
+      "duration_ms": 223266,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/7yUrBn4yvBBfwXXfHTE2Wd"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Typhoons",
-        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 190133,
-      "name": "Who Needs Friends",
-      "url": "https://open.spotify.com/track/7AXoSHtReIvoJPi5XKXecl"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Medicine At Midnight",
         "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 261511,
       "name": "Love Dies Young",
       "url": "https://open.spotify.com/track/5suO1J3cXSVWJ7ED3kasKQ"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Typhoons",
+        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 190133,
+      "name": "Who Needs Friends",
+      "url": "https://open.spotify.com/track/7AXoSHtReIvoJPi5XKXecl"
     },
     {
       "added_at": "2024-12-03 09:27:47",

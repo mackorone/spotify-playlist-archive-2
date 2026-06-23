@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,532 songs - 10 day 2 hr 24 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,538 songs - 10 day 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3709,7 +3709,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 3699 | [Joker Lips](https://open.spotify.com/track/2zFtMNj2s82nml4wSKbtyL) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Manning Fireworks](https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN) | 3:01 |
 | 3700 | [After Destruction](https://open.spotify.com/track/3b0murHEJnNk0NiNOuoORG) | [Descartes A Kant](https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j) | [After Destruction](https://open.spotify.com/album/7jhSHFst3jCbRlxwvWa7AX) | 3:44 |
 | 3701 | [THE UNRAVELING](https://open.spotify.com/track/20jxpjgdcIEwqYf3w2aVOU) | [fred0](https://open.spotify.com/artist/4U4KH3IhPkIIlGgfQffEZ9) | [THE UNRAVELING](https://open.spotify.com/album/70JyYPvljig5pYCGazHkRY) | 2:52 |
-| 3702 | [wht she needs lol](https://open.spotify.com/track/6EZEzGRrYcg5iT002y2Tlx) | [cjjkacey](https://open.spotify.com/artist/3wy39yYanFS9cugAeA72dA) | [wht she needs lol](https://open.spotify.com/album/3vPCTc3Akx1KlCWz8R8OCg) | 1:09 |
+| 3702 | [wht she needs lol](https://open.spotify.com/track/6EZEzGRrYcg5iT002y2Tlx) | [disgraceful](https://open.spotify.com/artist/1IWITCkCLfZJjZTbAFxEIA) | [wht she needs lol](https://open.spotify.com/album/3vPCTc3Akx1KlCWz8R8OCg) | 1:09 |
 | 3703 | [Pilpala](https://open.spotify.com/track/20v5YZRwxbgvr704NlPXuv) | [Presidenttikuningas](https://open.spotify.com/artist/09CvbZF0xb31mQGO44VOSo) | [Pilpala](https://open.spotify.com/album/5aka3R5nmtqb1qVfAw80CY) | 5:12 |
 | 3704 | [Bring Me To Life](https://open.spotify.com/track/7zk7HMt6uwycBGKE3eslGO) | [BETHEL](https://open.spotify.com/artist/293nwwNqRa9eUynzHZ93om) | [Bring Me To Life](https://open.spotify.com/album/3KRERjbRpnkTCO2n65B2rG) | 4:36 |
 | 3705 | [Alone](https://open.spotify.com/track/1wSI1tfThOk4nwTMqWIxaH) | [The Vantages](https://open.spotify.com/artist/1z4CM1QRehEITEf4DAaqKK) | [The Vantages](https://open.spotify.com/album/2JHUDX78JZ6Cq7XAjW0Q2l) | 3:20 |
@@ -4540,5 +4540,11 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4530 | [Reasons To Stay](https://open.spotify.com/track/6GO9asq0BdWB3EMWZibLMc) | [Get Through](https://open.spotify.com/artist/5gF3q9VRL3x0zOyba99xIT) | [Reasons To Stay](https://open.spotify.com/album/1fgrJdJdPJhaz0KCN5PkVW) | 4:29 |
 | 4531 | [Gigantes Caerán](https://open.spotify.com/track/1WOiMDM8mM1kOUte8Z4MYy) | [Pulso Divino](https://open.spotify.com/artist/2XK1i9oymQY7yT0CsaVALI) | [Tu Palabra](https://open.spotify.com/album/404H6EidSC1PmqDFfgr8Q8) | 3:07 |
 | 4532 | [Into The Thunder](https://open.spotify.com/track/2AMRFkNYxJ1sqwwrV83d8Z) | [Evil Creek](https://open.spotify.com/artist/2I4085hTPFNAyGRFvgo1LM) | [Into The Thunder](https://open.spotify.com/album/7oVoODSFUyTmO1AfkP5kdG) | 2:47 |
+| 4533 | [Olhando o Teu Retrato](https://open.spotify.com/track/0ECeiP32ZjQaOgvlbfamrv) | [Adriano Mar](https://open.spotify.com/artist/4LfMSWeGo1zmDVDlXfVBTY) | [Adriano Mar](https://open.spotify.com/album/3bR8j0krJ4B4ZpExVraMox) | 5:59 |
+| 4534 | [God Gave Us More](https://open.spotify.com/track/6KB88MYBB1CGut4RYHRPQs) | [Another Drowning Day](https://open.spotify.com/artist/3lv5pVa3GmxX1LQc1TIXzw) | [Astral Dope](https://open.spotify.com/album/2RLsU51oCAs5nw9phvOumZ) | 4:35 |
+| 4535 | [Smoke and Mirrors](https://open.spotify.com/track/00Oc8jsw9mzcvR2HhG1Jtm) | [Dane Rivers](https://open.spotify.com/artist/6PaURsKDuXnJOuLBhIpnJh) | [Smoke and Mirrors](https://open.spotify.com/album/13dteLs18ErbtnAkXlkN8D) | 2:58 |
+| 4536 | [Gym y Farra](https://open.spotify.com/track/0VBJwn1pzveqZXUWQCdOLD) | [Sugarcrush](https://open.spotify.com/artist/42qSwWCF0ZJBVKtpuG1XlJ) | [Gym y Farra](https://open.spotify.com/album/5DLmphnuago9EOE4uWbHkK) | 2:08 |
+| 4537 | [Hand of Gold](https://open.spotify.com/track/4dmzhrA0dXwVVBsCUFwIkC) | [James Sebastian](https://open.spotify.com/artist/6IX76Xz04QnJdDtcDIfoD6) | [Hand of Gold](https://open.spotify.com/album/6s9d9tyK12ljYpu1saaUXm) | 2:42 |
+| 4538 | [Destitute](https://open.spotify.com/track/189yrz4VgeKGq0tqcg8n8E) | [SunDex](https://open.spotify.com/artist/6MyWvcpoXnkcs0CerPg1E7), [Bhadboi Mickey](https://open.spotify.com/artist/70ZZPlIQzksFpqaJOwx35L) | [Destitute](https://open.spotify.com/album/1sDSWOk9s96aLRWg3WL3RD) | 3:27 |
 
-Snapshot ID: `AAAI7dZOe5i2lwog6AyuMiVlO75rRdVF`
+Snapshot ID: `AAAI8+u5u/cD1JTR3f3KsrCbl8yORUbM`

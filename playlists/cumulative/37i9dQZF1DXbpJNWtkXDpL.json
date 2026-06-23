@@ -986,7 +986,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 147466,
       "name": "BAILAND0",
       "url": "https://open.spotify.com/track/3Mn42tbovrgSHbH5qQ5kHM"
@@ -1488,10 +1488,32 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 210258,
       "name": "buttermilk 2",
       "url": "https://open.spotify.com/track/6SQgtVsmwZMIluNxdFICeM"
+    },
+    {
+      "album": {
+        "name": "PEKORITAS VOL.1",
+        "url": "https://open.spotify.com/album/62NyBs8dQmOtKYZUmdex6A"
+      },
+      "artists": [
+        {
+          "name": "DENNA LA PORRI",
+          "url": "https://open.spotify.com/artist/0xc9ZT3PSktJFx0N96FJQG"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184044,
+      "name": "BYE BYE",
+      "url": "https://open.spotify.com/track/4fRl4vW5SN8V3zoekNCF4Z"
     },
     {
       "album": {
@@ -1792,6 +1814,24 @@
       "duration_ms": 190053,
       "name": "Casual (YTQDV)",
       "url": "https://open.spotify.com/track/066m3O9KIzKNbIFGxnMTEU"
+    },
+    {
+      "album": {
+        "name": "Cereza",
+        "url": "https://open.spotify.com/album/7cLLmRt2PwNs66wbjtuxiR"
+      },
+      "artists": [
+        {
+          "name": "Mosmo",
+          "url": "https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198150,
+      "name": "Cereza",
+      "url": "https://open.spotify.com/track/2VGS9wYeryfMENNEbdD2jy"
     },
     {
       "album": {
@@ -2242,7 +2282,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 138485,
       "name": "CUANTAS VECES",
       "url": "https://open.spotify.com/track/4riLOnDVSgH1Dy4LqqVKxQ"
@@ -3663,6 +3703,28 @@
     },
     {
       "album": {
+        "name": "forgetyou:(",
+        "url": "https://open.spotify.com/album/6p9DZYw11XNJXLovSAgCpa"
+      },
+      "artists": [
+        {
+          "name": "Billy Manhattan",
+          "url": "https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy"
+        },
+        {
+          "name": "Plastikboy",
+          "url": "https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146571,
+      "name": "forgetyou:(",
+      "url": "https://open.spotify.com/track/61O1QuGxNPHb1jkesPDqmN"
+    },
+    {
+      "album": {
         "name": "VAYU",
         "url": "https://open.spotify.com/album/6u3eUX1lYrI7siwwc10d4p"
       },
@@ -4989,6 +5051,24 @@
     },
     {
       "album": {
+        "name": "LO QUE QUIERAS DARME",
+        "url": "https://open.spotify.com/album/1F3Oencni5u8m2cv2N8Cx4"
+      },
+      "artists": [
+        {
+          "name": "Billy Manhattan",
+          "url": "https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155612,
+      "name": "LO QUE QUIERAS DARME",
+      "url": "https://open.spotify.com/track/68m6QEijGUpcDEcUnIKn53"
+    },
+    {
+      "album": {
         "name": "Locamente Enamorado",
         "url": "https://open.spotify.com/album/2pYaBSEubSIn7ZJhTJ18kf"
       },
@@ -5112,6 +5192,28 @@
       "duration_ms": 163040,
       "name": "Los Pasajes Del Sera",
       "url": "https://open.spotify.com/track/7fVZVKzWzM7G1Q5jBiMyE5"
+    },
+    {
+      "album": {
+        "name": "hoy les digo que",
+        "url": "https://open.spotify.com/album/6ArPxheUgUkE5lfXli0vxA"
+      },
+      "artists": [
+        {
+          "name": "1702",
+          "url": "https://open.spotify.com/artist/01qP45vTj8wyA2YllLfzfS"
+        },
+        {
+          "name": "Mi Compa el Chino",
+          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236341,
+      "name": "los quiero de verdad",
+      "url": "https://open.spotify.com/track/6mhuq822JPDG5gEp5Ey2KF"
     },
     {
       "album": {
@@ -5865,6 +5967,54 @@
     },
     {
       "album": {
+        "name": "Miop\u00eda",
+        "url": "https://open.spotify.com/album/5PfX9dsNuzkPZ4gpBA02Lw"
+      },
+      "artists": [
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        },
+        {
+          "name": "Mai Grc",
+          "url": "https://open.spotify.com/artist/761tunlrRfUDgAl3c0YSFb"
+        },
+        {
+          "name": "SORKI",
+          "url": "https://open.spotify.com/artist/7o6GKsh3DbgdZVv3wi989P"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212250,
+      "name": "Miop\u00eda",
+      "url": "https://open.spotify.com/track/5dhLkd9H7LQI9YGsBzNxkC"
+    },
+    {
+      "album": {
+        "name": "Mirando desde afuera",
+        "url": "https://open.spotify.com/album/6P6Vgi6tDT8ZbOVwSTsiyN"
+      },
+      "artists": [
+        {
+          "name": "Damaris Bojor",
+          "url": "https://open.spotify.com/artist/611RCawF857UVjTN5ttzup"
+        },
+        {
+          "name": "Agley",
+          "url": "https://open.spotify.com/artist/610h9Z4AAchvlW9qbE3hrY"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203750,
+      "name": "Mirando desde afuera",
+      "url": "https://open.spotify.com/track/4OMlNCvyT33krYLAtFy1Rx"
+    },
+    {
+      "album": {
         "name": "mirar adentro",
         "url": "https://open.spotify.com/album/5crFVDguekt65vFoLlKgew"
       },
@@ -6354,7 +6504,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 198260,
       "name": "Nadie Se Muere de Amor",
       "url": "https://open.spotify.com/track/3XHuPN5kMQxJ60S69re9b5"
@@ -6634,6 +6784,24 @@
       "duration_ms": 146938,
       "name": "No Se Da",
       "url": "https://open.spotify.com/track/6TU0aXrBCJRerU3D5m10zL"
+    },
+    {
+      "album": {
+        "name": "No Se Si Es Amor",
+        "url": "https://open.spotify.com/album/2ESiTaW63HIxQdFiJriEvQ"
+      },
+      "artists": [
+        {
+          "name": "Uriel S. V\u00e1zquez",
+          "url": "https://open.spotify.com/artist/4s3ux0QXjgaBei8QhxipQ4"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152170,
+      "name": "No Se Si Es Amor",
+      "url": "https://open.spotify.com/track/1C57mFhSPwsyzJAlRVspVW"
     },
     {
       "album": {
@@ -7298,6 +7466,24 @@
       "duration_ms": 203606,
       "name": "PLAYBOY",
       "url": "https://open.spotify.com/track/7bzhUIMCvFQp6hUyStv80H"
+    },
+    {
+      "album": {
+        "name": "PONME10",
+        "url": "https://open.spotify.com/album/2bCRH5sbizQ4IBmvBm1vPs"
+      },
+      "artists": [
+        {
+          "name": "luvKMI",
+          "url": "https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121714,
+      "name": "PONME10",
+      "url": "https://open.spotify.com/track/5uKqpK3w1rD5sHMAS6m5dC"
     },
     {
       "album": {
@@ -8346,7 +8532,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 179250,
       "name": "Se nos hizo tarde",
       "url": "https://open.spotify.com/track/0mTK39yGzyyU9ysPVZpAsd"
@@ -8572,6 +8758,28 @@
       "duration_ms": 204507,
       "name": "Si Nos Volvemos A Encontrar",
       "url": "https://open.spotify.com/track/1BEPwgt9j3KXEhKDGfNCfM"
+    },
+    {
+      "album": {
+        "name": "Mixtape Pal Carro",
+        "url": "https://open.spotify.com/album/79XNzGQaFm6wpkJAgEBqmC"
+      },
+      "artists": [
+        {
+          "name": "Neithan",
+          "url": "https://open.spotify.com/artist/7uB3ISWL0AIMgnFbxymctl"
+        },
+        {
+          "name": "Zenei",
+          "url": "https://open.spotify.com/artist/0BSgbcq8IZrLbHFWUnGz6u"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92093,
+      "name": "Si Yo",
+      "url": "https://open.spotify.com/track/64ILSo7vus5HRjMAktFL85"
     },
     {
       "album": {
@@ -9262,6 +9470,28 @@
       "duration_ms": 205986,
       "name": "Te Has Convertido",
       "url": "https://open.spotify.com/track/2n5nRP7fcX88f9kkrQJU46"
+    },
+    {
+      "album": {
+        "name": "Te Llevo A D\u00f3nde Quieras",
+        "url": "https://open.spotify.com/album/4Xl7jqz3vr2eNjxaQDh3G9"
+      },
+      "artists": [
+        {
+          "name": "8Uno",
+          "url": "https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh"
+        },
+        {
+          "name": "Victor Rivera Y Su Nuevo Estilo",
+          "url": "https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144098,
+      "name": "Te Llevo A D\u00f3nde Quieras",
+      "url": "https://open.spotify.com/track/59LU3KyaBPQohgDdaHL58Q"
     },
     {
       "album": {
@@ -10596,7 +10826,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 111000,
       "name": "work hard",
       "url": "https://open.spotify.com/track/0ZQRlSMqwTJJ6rnUJimhVr"
@@ -10748,7 +10978,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 156000,
       "name": "YoPiensoEnTi",
       "url": "https://open.spotify.com/track/6lAP7P3vWHS84ktoyX2ZLQ"

@@ -27370,8 +27370,8 @@
           "url": "https://open.spotify.com/artist/1iydw0OqyICpB5XlyfZ7qP"
         },
         {
-          "name": "ANDY",
-          "url": "https://open.spotify.com/artist/5DmHUpq4sQTgzCR8czrmUf"
+          "name": "Andy",
+          "url": "https://open.spotify.com/artist/3sFAhUzAk0OINhzrOGBLOu"
         }
       ],
       "date_added": "2026-06-18",
@@ -67906,6 +67906,14 @@
         {
           "name": "Gipsy Kings",
           "url": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
+        },
+        {
+          "name": "Tonino Baliardo",
+          "url": "https://open.spotify.com/artist/3pUWmkSef9vJOPDViYGZ5L"
+        },
+        {
+          "name": "Nicolas Reyes",
+          "url": "https://open.spotify.com/artist/4ZEbnHVcQHXbtkOhg8mDAT"
         }
       ],
       "date_added": "2026-06-18",
@@ -68582,6 +68590,24 @@
       "duration_ms": 184950,
       "name": "MISMO EFECTO",
       "url": "https://open.spotify.com/track/0vl6sZtEyRZndbUlk39boU"
+    },
+    {
+      "album": {
+        "name": "Canciones chulas",
+        "url": "https://open.spotify.com/album/5IWeX8YqVfqVo1JSG8RsDQ"
+      },
+      "artists": [
+        {
+          "name": "Los Enemigos",
+          "url": "https://open.spotify.com/artist/4uiuj3kqeIHmTH87B7VMnr"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208605,
+      "name": "Miss Dinamarca",
+      "url": "https://open.spotify.com/track/4GXPPoYyK4UNw5MzzQ23UW"
     },
     {
       "album": {

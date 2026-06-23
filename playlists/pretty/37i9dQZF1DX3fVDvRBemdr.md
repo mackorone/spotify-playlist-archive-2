@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollands & Volkspop releases\. Cover: Frans Duijts & Lange Frans
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,166 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,175 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tour de Frans \(Hey Fransie\)](https://open.spotify.com/track/59Gt0pczJlB8zYTUqdKzxC) | [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE), [De Voorhoede](https://open.spotify.com/artist/30P6li7INhXvV1XIPKlMBU) | [Tour de Frans \(Hey Fransie\)](https://open.spotify.com/album/0cgw4g3NdnWms9NcPL2P93) | 2:23 |
 | 2 | [Stem In Je Hart](https://open.spotify.com/track/3gDh5tdexIUxKyRvlqXmxk) | [Ammar](https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb) | [Stem In Je Hart](https://open.spotify.com/album/6kqY2FBr1jp9cQ5FCHPhnW) | 2:58 |
-| 3 | [Loco](https://open.spotify.com/track/6VDELF4AaHeGlZujv8LaF8) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp) | [Loco](https://open.spotify.com/album/6S3VVsDn0RCwIlSDRIT4uc) | 2:33 |
-| 4 | [De klok die tikt maar door](https://open.spotify.com/track/16tncKUuUJbrC8tLnR8DOj) | [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm) | [De klok die tikt maar door](https://open.spotify.com/album/14lzSqSagaKE1HU1GLKx9x) | 2:14 |
-| 5 | [Pakt Mij](https://open.spotify.com/track/7quqA00qtOBWoTcYJ2nLME) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa), [De Amsterdamse Zomer](https://open.spotify.com/artist/41B0yDQQJEFnLDxTNNtlmJ) | [Pakt Mij](https://open.spotify.com/album/1KaoBUwB2I3VyJxgYvyEAZ) | 2:44 |
-| 6 | [Blijf Toch Bij Mij](https://open.spotify.com/track/23zNgmYFEz8MkJSlOzDiUQ) | [Robert Pater](https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd) | [Blijf Toch Bij Mij](https://open.spotify.com/album/1b92VcEiAZtAoHnqHyEy7K) | 3:04 |
-| 7 | [Geweest Is Geweest](https://open.spotify.com/track/5tuFIPgPtR8zyOkp1wX84f) | [Frank Verkooyen](https://open.spotify.com/artist/4ufIflZBqkBtxKDjEJ624G) | [Geweest Is Geweest](https://open.spotify.com/album/5zYkAkqlag5B299gitBMgy) | 2:54 |
-| 8 | [Niet Zo Bij Mij](https://open.spotify.com/track/0vGhsdlU74edh1570DWm3c) | [Wesley Klein](https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2) | [Niet Zo Bij Mij](https://open.spotify.com/album/5VDLrug7HnOz9Akct4Lrzj) | 2:25 |
-| 9 | [Tante Roos](https://open.spotify.com/track/63pkTCe2ZIANlqGNH6L2ca) | [Jesse de Koning](https://open.spotify.com/artist/7gTwWOWfZyuo20boJ8bGU0) | [Tante Roos](https://open.spotify.com/album/4r695eTDXPKBTrxa8ubYQc) | 2:31 |
-| 10 | [Hartslag Van Je Heupen](https://open.spotify.com/track/1CPlwOTruxPNdsQrqmhCKo) | [Mike Versteeg](https://open.spotify.com/artist/1EF9A4CUgRWouYS80puSfB) | [Hartslag Van Je Heupen](https://open.spotify.com/album/4JJTmyDkynVtJcV96InaM9) | 2:59 |
-| 11 | [Zandloopster](https://open.spotify.com/track/4ltDygbHH5SfnRsfmuDLRl) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Zandloopster](https://open.spotify.com/album/2IWE3ybPLZULmw341hKBDw) | 2:22 |
-| 12 | [Hypnose](https://open.spotify.com/track/7ATMIrDLDbASh2lscHksUd) | [Ray Benjamin](https://open.spotify.com/artist/0VwHX0pPR8qRDo2xHpTXCJ) | [Hypnose](https://open.spotify.com/album/5Z1NBukAhJkZiMbXj6kjcz) | 2:40 |
+| 3 | [Hypnose](https://open.spotify.com/track/7ATMIrDLDbASh2lscHksUd) | [Ray Benjamin](https://open.spotify.com/artist/0VwHX0pPR8qRDo2xHpTXCJ) | [Hypnose](https://open.spotify.com/album/5Z1NBukAhJkZiMbXj6kjcz) | 2:40 |
+| 4 | [Loco](https://open.spotify.com/track/6VDELF4AaHeGlZujv8LaF8) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp) | [Loco](https://open.spotify.com/album/6S3VVsDn0RCwIlSDRIT4uc) | 2:33 |
+| 5 | [De klok die tikt maar door](https://open.spotify.com/track/16tncKUuUJbrC8tLnR8DOj) | [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm) | [De klok die tikt maar door](https://open.spotify.com/album/14lzSqSagaKE1HU1GLKx9x) | 2:14 |
+| 6 | [Pakt Mij](https://open.spotify.com/track/7quqA00qtOBWoTcYJ2nLME) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa), [De Amsterdamse Zomer](https://open.spotify.com/artist/41B0yDQQJEFnLDxTNNtlmJ) | [Pakt Mij](https://open.spotify.com/album/1KaoBUwB2I3VyJxgYvyEAZ) | 2:44 |
+| 7 | [Blijf Toch Bij Mij](https://open.spotify.com/track/23zNgmYFEz8MkJSlOzDiUQ) | [Robert Pater](https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd) | [Blijf Toch Bij Mij](https://open.spotify.com/album/1b92VcEiAZtAoHnqHyEy7K) | 3:04 |
+| 8 | [Geweest Is Geweest](https://open.spotify.com/track/5tuFIPgPtR8zyOkp1wX84f) | [Frank Verkooyen](https://open.spotify.com/artist/4ufIflZBqkBtxKDjEJ624G) | [Geweest Is Geweest](https://open.spotify.com/album/5zYkAkqlag5B299gitBMgy) | 2:54 |
+| 9 | [Niet Zo Bij Mij](https://open.spotify.com/track/0vGhsdlU74edh1570DWm3c) | [Wesley Klein](https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2) | [Niet Zo Bij Mij](https://open.spotify.com/album/5VDLrug7HnOz9Akct4Lrzj) | 2:25 |
+| 10 | [Tante Roos](https://open.spotify.com/track/63pkTCe2ZIANlqGNH6L2ca) | [Jesse de Koning](https://open.spotify.com/artist/7gTwWOWfZyuo20boJ8bGU0) | [Tante Roos](https://open.spotify.com/album/4r695eTDXPKBTrxa8ubYQc) | 2:31 |
+| 11 | [Hartslag Van Je Heupen](https://open.spotify.com/track/1CPlwOTruxPNdsQrqmhCKo) | [Mike Versteeg](https://open.spotify.com/artist/1EF9A4CUgRWouYS80puSfB) | [Hartslag Van Je Heupen](https://open.spotify.com/album/4JJTmyDkynVtJcV96InaM9) | 2:59 |
+| 12 | [Zandloopster](https://open.spotify.com/track/4ltDygbHH5SfnRsfmuDLRl) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Zandloopster](https://open.spotify.com/album/2IWE3ybPLZULmw341hKBDw) | 2:22 |
 | 13 | [Ik Ben Nog Lang Niet Klaar](https://open.spotify.com/track/6WN2QFqYxQOe9uGRb63sg9) | [Imca Marina](https://open.spotify.com/artist/43xjJMxn9QG0jEiBO3Hxe5) | [Ik Ben Nog Lang Niet Klaar](https://open.spotify.com/album/7jHtm1l6HGuqfAF3RmyRD1) | 2:53 |
 | 14 | [Nergens Anders](https://open.spotify.com/track/4DjNoN2DWSdkCOGppJzkw6) | [Bob Offenberg](https://open.spotify.com/artist/3IGnL1mAn5yUoRsk3k3ZvO) | [Nergens Anders](https://open.spotify.com/album/0uRnA7qbvfQCz12VAtQodA) | 2:43 |
 | 15 | [Voor Jou Betekent Liefde Niets](https://open.spotify.com/track/0nm88HUSs2TQghRSMVjmYQ) | [Menno Aben](https://open.spotify.com/artist/2Jc9IdaUSgqGtF202EB1zL) | [Voor Jou Betekent Liefde Niets](https://open.spotify.com/album/0KfBDmaAEwbijrjHrV9pCr) | 3:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 99 | [Klavertje Vier](https://open.spotify.com/track/3l5Vc6BkuyOaokYDQlAWuU) | [Gideon](https://open.spotify.com/artist/6PHGgzRIDkaBOexjV4wfSp) | [Klavertje Vier](https://open.spotify.com/album/2jmywAI8bTlz307pi2Oj4D) | 2:26 |
 | 100 | [Morgen is niet beloofd](https://open.spotify.com/track/7v90Wr8y9y79WatVLBUB0H) | [Danny Froger](https://open.spotify.com/artist/1T6iHaohBe7N71F1jk0XSy) | [Morgen is niet beloofd](https://open.spotify.com/album/6wz49GNeftZ5dL3qMefLUo) | 2:44 |
 
-Snapshot ID: `AAAAAMBxypXYCzGimbPtHUZ43ziQZRu3`
+Snapshot ID: `AAAAAA0/pzPSj/3IPTHlbPnEwwlUxsJm`

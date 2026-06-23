@@ -1,12 +1,12 @@
 {
   "description": "This is Odeal. The essential tracks, all in one playlist.",
-  "num_followers": 14485,
+  "num_followers": 14503,
   "original_name": "This Is Odeal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajXYAAAAAACEge1JYKwxphlFSyFrYi71",
+  "snapshot_id": "ajcpgAAAAAAEbRZzUt24RiAC7tO02q49",
   "tracks": [
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fall That Saved Us",
-        "url": "https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 141026,
-      "name": "Wicked",
-      "url": "https://open.spotify.com/track/617frgZYXehBNs3Sz6zwS8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LVRS PARADISE (SIDE A)",
         "url": "https://open.spotify.com/album/4X6ri4Hmw1NyTHLYMERhAG"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 150038,
       "name": "SEARCHING",
       "url": "https://open.spotify.com/track/3E0t3JhtlA1YcYyQ1EdS98"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Fall That Saved Us",
+        "url": "https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 141026,
+      "name": "Wicked",
+      "url": "https://open.spotify.com/track/617frgZYXehBNs3Sz6zwS8"
     },
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Summer That Saved Me",
+        "url": "https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 176493,
+      "name": "Obi's Interlude",
+      "url": "https://open.spotify.com/track/0ezr3Dznf70W0Ug1NJ4cyf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Fall That Saved Us",
         "url": "https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 187013,
       "name": "Reason (feat. Elijah Fox)",
       "url": "https://open.spotify.com/track/1r8ojhEE2Kyo4vHCumpcwl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Summer That Saved Me",
-        "url": "https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 176493,
-      "name": "Obi's Interlude",
-      "url": "https://open.spotify.com/track/0ezr3Dznf70W0Ug1NJ4cyf"
     },
     {
       "added_at": null,

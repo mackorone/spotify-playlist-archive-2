@@ -1,6 +1,6 @@
 {
   "description": "The best of electronic trap \u2764\ufe0f\u200d\ud83d\udd25 with Lizdek",
-  "num_followers": 879065,
+  "num_followers": 879023,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
@@ -1083,6 +1083,26 @@
     {
       "added_at": "2026-06-19 04:02:09",
       "album": {
+        "name": "Like This",
+        "url": "https://open.spotify.com/album/4Y59xcMEyR5gPt6CNIXsHe"
+      },
+      "artists": [
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        },
+        {
+          "name": "NITTI",
+          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
+        }
+      ],
+      "duration_ms": 133615,
+      "name": "Like This",
+      "url": "https://open.spotify.com/track/4ih71VL7RWG0RbRbVTGxS8"
+    },
+    {
+      "added_at": "2026-06-19 04:02:09",
+      "album": {
         "name": "HORSEPOWER",
         "url": "https://open.spotify.com/album/1aTPCuMzOFFEZrVLny4LTw"
       },
@@ -1107,22 +1127,18 @@
     {
       "added_at": "2026-06-19 04:02:09",
       "album": {
-        "name": "Like This",
-        "url": "https://open.spotify.com/album/4Y59xcMEyR5gPt6CNIXsHe"
+        "name": "Diamond",
+        "url": "https://open.spotify.com/album/2gpllHbaGDQFUQZTo69O9j"
       },
       "artists": [
         {
-          "name": "Levity",
-          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
-        },
-        {
-          "name": "NITTI",
-          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4"
         }
       ],
-      "duration_ms": 133615,
-      "name": "Like This",
-      "url": "https://open.spotify.com/track/4ih71VL7RWG0RbRbVTGxS8"
+      "duration_ms": 162206,
+      "name": "Diamond",
+      "url": "https://open.spotify.com/track/3G3oGZa8nfjofmhXokFbtU"
     },
     {
       "added_at": "2026-06-19 04:02:09",
@@ -1143,22 +1159,6 @@
       "duration_ms": 145600,
       "name": "RAGE",
       "url": "https://open.spotify.com/track/5VM2R8CCOOPntVtycrbN9R"
-    },
-    {
-      "added_at": "2026-06-19 04:02:09",
-      "album": {
-        "name": "Diamond",
-        "url": "https://open.spotify.com/album/2gpllHbaGDQFUQZTo69O9j"
-      },
-      "artists": [
-        {
-          "name": "YDG",
-          "url": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4"
-        }
-      ],
-      "duration_ms": 162206,
-      "name": "Diamond",
-      "url": "https://open.spotify.com/track/3G3oGZa8nfjofmhXokFbtU"
     },
     {
       "added_at": "2026-06-19 04:02:09",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2026-06-19 04:02:09",
       "album": {
+        "name": "Steps On You (Peep My Style)",
+        "url": "https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt"
+      },
+      "artists": [
+        {
+          "name": "Nitepunk",
+          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
+        }
+      ],
+      "duration_ms": 176200,
+      "name": "Steps On You (Peep My Style)",
+      "url": "https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8"
+    },
+    {
+      "added_at": "2026-06-19 04:02:09",
+      "album": {
         "name": "ALLNIGHTER",
         "url": "https://open.spotify.com/album/4tatQg9UhiVwFbWMy8QGEp"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 168857,
       "name": "ALLNIGHTER",
       "url": "https://open.spotify.com/track/2aKPAURjIBg4SZ8U4wsVnm"
-    },
-    {
-      "added_at": "2026-06-19 04:02:09",
-      "album": {
-        "name": "Steps On You (Peep My Style)",
-        "url": "https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt"
-      },
-      "artists": [
-        {
-          "name": "Nitepunk",
-          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
-        }
-      ],
-      "duration_ms": 176200,
-      "name": "Steps On You (Peep My Style)",
-      "url": "https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8"
     },
     {
       "added_at": "2026-06-19 04:02:09",
@@ -1579,6 +1579,26 @@
     {
       "added_at": "2026-06-19 04:02:09",
       "album": {
+        "name": "Keep It Moving",
+        "url": "https://open.spotify.com/album/2UoLGeViU5qTIlKLMtxOag"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 160551,
+      "name": "Keep It Moving",
+      "url": "https://open.spotify.com/track/6S1N4cHzWrCcJ3SCkpOIft"
+    },
+    {
+      "added_at": "2026-06-19 04:02:09",
+      "album": {
         "name": "Jesus Loves Trap Music",
         "url": "https://open.spotify.com/album/7BKAq3ux4qhQXwGdGxSv5r"
       },
@@ -1611,26 +1631,6 @@
       "duration_ms": 179142,
       "name": "Dead To Me",
       "url": "https://open.spotify.com/track/2Q4N4dG8jJegNGNgyToYaq"
-    },
-    {
-      "added_at": "2026-06-19 04:02:09",
-      "album": {
-        "name": "Keep It Moving",
-        "url": "https://open.spotify.com/album/2UoLGeViU5qTIlKLMtxOag"
-      },
-      "artists": [
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
-        }
-      ],
-      "duration_ms": 160551,
-      "name": "Keep It Moving",
-      "url": "https://open.spotify.com/track/6S1N4cHzWrCcJ3SCkpOIft"
     },
     {
       "added_at": "2026-06-19 04:02:09",
@@ -1843,26 +1843,6 @@
     {
       "added_at": "2026-06-19 04:02:09",
       "album": {
-        "name": "it boy (Zoey808 remix)",
-        "url": "https://open.spotify.com/album/3WbHhegbeap8dGA03i1GyO"
-      },
-      "artists": [
-        {
-          "name": "Zoey808",
-          "url": "https://open.spotify.com/artist/3R1SmbEFvkMlYBqFsPxhbJ"
-        },
-        {
-          "name": "bbnogames",
-          "url": "https://open.spotify.com/artist/58G2GxRyvmhDDXOojbE8Fw"
-        }
-      ],
-      "duration_ms": 188444,
-      "name": "it boy - Zoey808 remix",
-      "url": "https://open.spotify.com/track/0rzwlZaRSQWk0Qhe7htHXd"
-    },
-    {
-      "added_at": "2026-06-19 04:02:09",
-      "album": {
         "name": "Nothing To Lose",
         "url": "https://open.spotify.com/album/11rvFYFExXvLCLmune1Mf2"
       },
@@ -1883,34 +1863,22 @@
     {
       "added_at": "2026-06-19 04:02:09",
       "album": {
-        "name": "UH OH!",
-        "url": "https://open.spotify.com/album/6tCOYN1hYjW0HcUrQ2IDu2"
+        "name": "it boy (Zoey808 remix)",
+        "url": "https://open.spotify.com/album/3WbHhegbeap8dGA03i1GyO"
       },
       "artists": [
         {
-          "name": "RemK",
-          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
-        }
-      ],
-      "duration_ms": 238344,
-      "name": "UH OH!",
-      "url": "https://open.spotify.com/track/4hd3nmmHJ53ztZllQG6CQl"
-    },
-    {
-      "added_at": "2026-06-19 04:02:09",
-      "album": {
-        "name": "CIRCLES",
-        "url": "https://open.spotify.com/album/4cIQpUbjCi5J9DpSx3wg0E"
-      },
-      "artists": [
+          "name": "Zoey808",
+          "url": "https://open.spotify.com/artist/3R1SmbEFvkMlYBqFsPxhbJ"
+        },
         {
-          "name": "SPORTMODE",
-          "url": "https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK"
+          "name": "bbnogames",
+          "url": "https://open.spotify.com/artist/58G2GxRyvmhDDXOojbE8Fw"
         }
       ],
-      "duration_ms": 188571,
-      "name": "CIRCLES",
-      "url": "https://open.spotify.com/track/4DOUmbni3qj9A71DtXvsXS"
+      "duration_ms": 188444,
+      "name": "it boy - Zoey808 remix",
+      "url": "https://open.spotify.com/track/0rzwlZaRSQWk0Qhe7htHXd"
     },
     {
       "added_at": "2026-06-19 04:02:09",
@@ -1931,6 +1899,38 @@
       "duration_ms": 141517,
       "name": "GO!",
       "url": "https://open.spotify.com/track/6mwrQ7UyriEE3P2DVUZzke"
+    },
+    {
+      "added_at": "2026-06-19 04:02:09",
+      "album": {
+        "name": "CIRCLES",
+        "url": "https://open.spotify.com/album/4cIQpUbjCi5J9DpSx3wg0E"
+      },
+      "artists": [
+        {
+          "name": "SPORTMODE",
+          "url": "https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "CIRCLES",
+      "url": "https://open.spotify.com/track/4DOUmbni3qj9A71DtXvsXS"
+    },
+    {
+      "added_at": "2026-06-19 04:02:09",
+      "album": {
+        "name": "UH OH!",
+        "url": "https://open.spotify.com/album/6tCOYN1hYjW0HcUrQ2IDu2"
+      },
+      "artists": [
+        {
+          "name": "RemK",
+          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
+        }
+      ],
+      "duration_ms": 238344,
+      "name": "UH OH!",
+      "url": "https://open.spotify.com/track/4hd3nmmHJ53ztZllQG6CQl"
     }
   ],
   "unique_name": "Trap Mojito",

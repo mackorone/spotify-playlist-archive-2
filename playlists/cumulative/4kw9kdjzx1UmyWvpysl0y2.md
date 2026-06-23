@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,251 songs - 2 day 21 hr 32 min
+1,253 songs - 2 day 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -877,6 +877,7 @@
 | [Redshift](https://open.spotify.com/track/1kXwc02M6g1OhRb7SVsKJA) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2) | [Redshift](https://open.spotify.com/album/1H4dtkYGscdjYNjPTjFVEY) | 3:43 | 2024-11-13 | 2025-02-21 |
 | [Reel Me In](https://open.spotify.com/track/0FH2xI17Xj0qkoKrqMZ2df) | [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp), [Ella Poletti](https://open.spotify.com/artist/7bzMJPvFsjHZLtqzGAAogB) | [Reel Me In](https://open.spotify.com/album/0Jhe2PlDQeOdbiqhI41Jn9) | 3:29 | 2024-06-13 | 2024-09-07 |
 | [Reflections](https://open.spotify.com/track/29lzIVp4Q0x9iG7nJKatHC) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF) | [Reflections](https://open.spotify.com/album/1sei2WhOugKDlw77NEP7Bp) | 3:30 | 2025-07-15 | 2025-10-07 |
+| [Release Me](https://open.spotify.com/track/27DXQ1nIW0tbdkUM5f0X07) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w) | [Release Me](https://open.spotify.com/album/18dWMm2DXRXFIhjIaFU3Wb) | 3:47 | 2026-06-22 |  |
 | [Remedy](https://open.spotify.com/track/1A7abr0cUK9WZRO4AjT0UQ) | [Maliboux](https://open.spotify.com/artist/157IWDnr2hC9SFL5OJF8j7) | [Remedy](https://open.spotify.com/album/2RfxoMmdN94qeqmbfSGsaz) | 2:35 | 2022-04-26 | 2022-07-07 |
 | [Remember, There's Always a Tomorrow](https://open.spotify.com/track/0PiN9eFw4GJ4k4E8ZI911P) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg) | [Remember, There's Always a Tomorrow](https://open.spotify.com/album/0IbCDkoHPgqsns4S7v0inh) | 3:14 | 2025-08-11 | 2025-11-01 |
 | [Renaissance](https://open.spotify.com/track/2O333FGzBWwOxg0dSrPplb) | [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij), [Luke Coulson](https://open.spotify.com/artist/5ctD2yNFX7W8uWIxTvirkx) | [On The Run](https://open.spotify.com/album/6S2YvsviemGWWfA7sejZzs) | 3:48 | 2022-11-04 | 2022-11-22 |
@@ -1068,6 +1069,7 @@
 | [Taste Like Hell](https://open.spotify.com/track/3NL1q6qTLTvEHs74DL7XKT) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM) | [Taste Like Hell](https://open.spotify.com/album/5jxheKcwzt8oJtktWB6BTG) | 2:50 | 2024-10-30 | 2025-02-07 |
 | [Tax Evasion](https://open.spotify.com/track/5NiVqcP6gFcPoeIEOtUKlE) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [Tax Evasion](https://open.spotify.com/album/2ri6axMCVTYBXSH7DFWv33) | 3:34 | 2024-07-17 | 2024-10-09 |
 | [Tear It Down](https://open.spotify.com/track/437V6pBF0GzAArc7DCfQzd) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [Tear It Down](https://open.spotify.com/album/6IfU3upju7lmbEjZY28Wrr) | 3:05 | 2024-06-07 | 2024-08-31 |
+| [TECHNO BOY TECHNO GIRL](https://open.spotify.com/track/5TxE9ha36lh7c5m8UtAA5n) | [MNK](https://open.spotify.com/artist/0TYdomuRjpH9Am01X437vU), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [Mashd N Kutcher](https://open.spotify.com/artist/0G5lZVxoMwoY8oV6zR8E7k) | [TECHNO BOY TECHNO GIRL](https://open.spotify.com/album/300fnPP9Amw0HZDhCTbygY) | 2:30 | 2026-06-22 |  |
 | [Tell Me](https://open.spotify.com/track/5o5tFFa10RqTWPsGXnL6uj) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Tell Me](https://open.spotify.com/album/1jPgrvTG7bG5VLWTxIaUDd) | 3:01 | 2023-03-30 | 2023-06-24 |
 | [TELL ME](https://open.spotify.com/track/4DrsNByVNyPkIY2ZrFYy16) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [TELL ME](https://open.spotify.com/album/6NbsVa7upM30tVESZys9H0) | 2:48 | 2022-05-09 | 2022-07-21 |
 | [TELL ME](https://open.spotify.com/track/18ZCeMWBE8cZjrybSqIo69) | [YUSSI](https://open.spotify.com/artist/1IwkSL4i4wIu40Cej0a997), [WIMBO](https://open.spotify.com/artist/4UvTMZplahiJPeTH60gEOq) | [TELL ME](https://open.spotify.com/album/1i227PMtdLpeA03UfEmvc8) | 3:23 | 2025-11-28 | 2026-03-10 |

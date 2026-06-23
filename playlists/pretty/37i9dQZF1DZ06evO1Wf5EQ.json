@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajXYAAAAAACo/LPoIk5quhtTHKTuWRnV",
+  "snapshot_id": "ajcpgAAAAADcU2TP0EhoAmubht9Od/pK",
   "tracks": [
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 132899,
-      "name": "One Step, One Step\u2026",
-      "url": "https://open.spotify.com/track/15QrBebHg594K2nagWN8EQ"
+      "duration_ms": 108178,
+      "name": "Supper at Six",
+      "url": "https://open.spotify.com/track/63jsh7N63DiaxMZjOTpaOV"
     },
     {
       "added_at": null,
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 108178,
-      "name": "Supper at Six",
-      "url": "https://open.spotify.com/track/63jsh7N63DiaxMZjOTpaOV"
+      "duration_ms": 132899,
+      "name": "One Step, One Step\u2026",
+      "url": "https://open.spotify.com/track/15QrBebHg594K2nagWN8EQ"
     },
     {
       "added_at": null,
@@ -323,6 +323,22 @@
       "duration_ms": 186000,
       "name": "Deborah Vance",
       "url": "https://open.spotify.com/track/5MKvswPOgnzuFE7pIUaPof"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lessons In Chemistry: Season 1 (Apple Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 130728,
+      "name": "Best Alone",
+      "url": "https://open.spotify.com/track/1qpDidD87uRAKNZc2NgxUz"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-808 songs - 2 day 21 hr 36 min
+809 songs - 2 day 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [Calm](https://open.spotify.com/track/5lAMVtYJNbMyQWrLOQtogT) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Calm](https://open.spotify.com/album/2o5zh0Zz3MOgeeehAW7NVw) | 3:15 | 2024-11-15 | 2025-05-09 |
 | [Calm In The Storm](https://open.spotify.com/track/3XdwGutGxh8RLhXaNTUGtV) | [Tres Dei](https://open.spotify.com/artist/0QxXcWpb9kKHHbx10pIVcC) | [Calm In The Storm](https://open.spotify.com/album/57DPztG9F6z6QYmWBKNfkT) | 4:13 | 2025-10-24 | 2026-05-22 |
 | [Canopy](https://open.spotify.com/track/6Zs5Ub2gLL3FDl2bAtAVh9) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Tariee](https://open.spotify.com/artist/5SoIX1tmK5I0xpS06fHKEW) | [Canopy](https://open.spotify.com/album/6MjdnMrYZ7cJDTD9MljL3X) | 2:18 | 2026-06-12 |  |
-| [Carry Me](https://open.spotify.com/track/06fxnpXNeFEd3LzsHn8Wwy) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4) | [Carry Me](https://open.spotify.com/album/4ECzawlYXN2Ek3SsailujV) | 8:00 | 2025-11-28 |  |
+| [Carry Me](https://open.spotify.com/track/06fxnpXNeFEd3LzsHn8Wwy) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4) | [Carry Me](https://open.spotify.com/album/4ECzawlYXN2Ek3SsailujV) | 8:00 | 2025-11-28 | 2026-06-23 |
 | [Carry me like Baby](https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:12 | 2023-12-01 | 2024-02-09 |
 | [Celebration](https://open.spotify.com/track/7qcZTkaE3dXKI1pSKvAGfv) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [Celebration](https://open.spotify.com/album/6Ol3vEyWQcgUkV28aWGBcB) | 2:54 | 2025-04-25 | 2025-06-27 |
 | [Chale](https://open.spotify.com/track/4hKnUUJ5YUz21mEKk1KyFs) | [richieo](https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0), [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm) | [Chale](https://open.spotify.com/album/4XY20uumfyqrVMspFmBF17) | 2:26 | 2024-03-01 | 2025-05-30 |
@@ -591,6 +591,7 @@
 | [Pamper](https://open.spotify.com/track/1pULwRUwuK7xx8iCRomQ8V) | [Godfrey Gad](https://open.spotify.com/artist/4Q1PLV0sUS4xUzFwpFUvFh) | [Pamper](https://open.spotify.com/album/0c02LRMPa9oZmkTO5z9vUY) | 2:07 | 2025-06-06 | 2025-06-27 |
 | [Peace of Mind](https://open.spotify.com/track/14rTJai9DTIgVBm716yimG) | [Nuelzo](https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR), [Aeno](https://open.spotify.com/artist/4uUqQm31KnYXSZ1bjNmMlh) | [Peace of Mind](https://open.spotify.com/album/1LoDCE8grlVw2RQbhakX9g) | 2:07 | 2025-06-13 | 2025-06-20 |
 | [Pentecost](https://open.spotify.com/track/43OP3itAcQyyBOQO7TtROL) | [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [Pentecost](https://open.spotify.com/album/5S4SZSu82ZBbdb4eyfOSAx) | 11:23 | 2025-04-25 |  |
+| [Power Of My Own](https://open.spotify.com/track/5Xa0EL9BMheLI9r5ivZ4yA) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Power Of My Own](https://open.spotify.com/album/4IoNSQp9DhL7KbpR823WPW) | 2:49 | 2026-06-19 |  |
 | [Praise \(feat\. Brandon Lake, Chris Brown & Chandler Moore\)](https://open.spotify.com/track/7Ee6XgP8EHKDhTMYLIndu9) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [CAN YOU IMAGINE?](https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2) | 5:04 | 2023-09-15 | 2024-03-16 |
 | [PRAISE \(RENDITION\)](https://open.spotify.com/track/5dvsH15ks1ngWGKV1Uv2sB) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [PRAISE \(RENDITION\)](https://open.spotify.com/album/1h5eWQ63x30HlC6XCY2DuF) | 4:18 | 2025-08-01 | 2025-10-03 |
 | [Praise Jesus](https://open.spotify.com/track/5PjWbQl3uhYMvIJ0VHVIeI) | [De Stanley Brothers](https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3) | [Praise Jesus](https://open.spotify.com/album/2zr2FJeIgfh6FyuEaC3S37) | 3:11 | 2025-07-04 |  |

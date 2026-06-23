@@ -149,6 +149,32 @@
     },
     {
       "album": {
+        "name": "Ajanta Garu (From \"Gossip\")",
+        "url": "https://open.spotify.com/album/77XHYM5Y3z1JSlU38yBD9i"
+      },
+      "artists": [
+        {
+          "name": "Shakthikanth Karthick",
+          "url": "https://open.spotify.com/artist/6riFF3Iw8FPGnfzPcIVDmr"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Suresh Banisetti",
+          "url": "https://open.spotify.com/artist/3gcOBaedkasgxYjFVE81Km"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233625,
+      "name": "Ajanta Garu (From \"Gossip\")",
+      "url": "https://open.spotify.com/track/30JMtMNkdpv5OOAR9i4SmX"
+    },
+    {
+      "album": {
         "name": "Alalai Egise",
         "url": "https://open.spotify.com/album/0h3eypk6BfTytKLKSP2e5f"
       },
@@ -3574,6 +3600,32 @@
       "duration_ms": 259750,
       "name": "Jessica",
       "url": "https://open.spotify.com/track/2o0RShGeaY7ZIo8NV2oNQk"
+    },
+    {
+      "album": {
+        "name": "Jigithara (From \"Chennai Love Story\")",
+        "url": "https://open.spotify.com/album/38RXYS8OBRy1hm9RWuPGHZ"
+      },
+      "artists": [
+        {
+          "name": "Mani Sharma",
+          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
+        },
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Anantha Sreeram",
+          "url": "https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252074,
+      "name": "Jigithara (From \"Chennai Love Story\")",
+      "url": "https://open.spotify.com/track/19FpS3dwFo73nEFwz0NnIw"
     },
     {
       "album": {
@@ -8696,7 +8748,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 195999,
       "name": "Rubaroo (From \"Dacoit (Telugu)\")",
       "url": "https://open.spotify.com/track/3M3bCnAOydcZJ0pCUi04Qc"
@@ -10118,7 +10170,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 213164,
       "name": "Vinavey (From \"Pulse\")",
       "url": "https://open.spotify.com/track/7FVms2iGaZLeVQ47321PuS"

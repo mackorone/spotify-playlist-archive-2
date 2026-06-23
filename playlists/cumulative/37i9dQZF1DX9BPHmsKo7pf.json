@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai de succes 50 de hituri \u00een Rom\u00e2nia. Cover: Berechet",
+  "description": "Cele mai de succes 50 de hituri \u00een Rom\u00e2nia. Cover: VANILLA",
   "name": "Hot Hits Rom\u00e2nia",
   "tracks": [
     {
@@ -1743,6 +1743,24 @@
     },
     {
       "album": {
+        "name": "CUM ESTI TU",
+        "url": "https://open.spotify.com/album/30KRfz9Ga7IjTyYaotuSPD"
+      },
+      "artists": [
+        {
+          "name": "VANILLA",
+          "url": "https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "CUM ESTI TU",
+      "url": "https://open.spotify.com/track/4P3HhqX7YTeenh0BywMsPR"
+    },
+    {
+      "album": {
         "name": "Cupidoane",
         "url": "https://open.spotify.com/album/26kVsTzpGVeCOYar1wY0ih"
       },
@@ -2544,7 +2562,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 231074,
       "name": "Exist\u0103",
       "url": "https://open.spotify.com/track/4tWJxQ0SccyaFWVO3aNfXY"
@@ -2774,7 +2792,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 146094,
       "name": "GEN",
       "url": "https://open.spotify.com/track/0DjhOWE4zYqdFoOgxDabBc"
@@ -3206,7 +3224,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 170738,
       "name": "ishh",
       "url": "https://open.spotify.com/track/24acrQtUSgDEIsuzGtjREy"
@@ -4537,6 +4555,28 @@
     },
     {
       "album": {
+        "name": "O sa vina ziua",
+        "url": "https://open.spotify.com/album/2N2FAUAuIwxXMIQhYARMWu"
+      },
+      "artists": [
+        {
+          "name": "Liviu Teodorescu",
+          "url": "https://open.spotify.com/artist/7Ml36YHsejaW7jVjJAhW4a"
+        },
+        {
+          "name": "Erika Isac",
+          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147200,
+      "name": "O sa vina ziua",
+      "url": "https://open.spotify.com/track/0UQXbAOLooNOYq5Pw1aWCu"
+    },
+    {
+      "album": {
         "name": "Olla, olla",
         "url": "https://open.spotify.com/album/4mSqGZ7kpZ6gvow6qiTJ8C"
       },
@@ -5764,6 +5804,28 @@
       "duration_ms": 209680,
       "name": "stupid song",
       "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
+    },
+    {
+      "album": {
+        "name": "Suf\u0103r \u00een t\u0103cere",
+        "url": "https://open.spotify.com/album/46Qw3bBG5xVH1qA0Wh3RKD"
+      },
+      "artists": [
+        {
+          "name": "JO",
+          "url": "https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP"
+        },
+        {
+          "name": "EFRA",
+          "url": "https://open.spotify.com/artist/0XgqZLH6hcDOTlOt6v4v3w"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169859,
+      "name": "Suf\u0103r \u00een t\u0103cere",
+      "url": "https://open.spotify.com/track/7gk7ms2yEA5aRFBjw8a2je"
     },
     {
       "album": {

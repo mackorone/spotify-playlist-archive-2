@@ -1,12 +1,12 @@
 {
   "description": "This is Gracie Abrams. The essential tracks, all in one playlist.",
-  "num_followers": 233680,
+  "num_followers": 233793,
   "original_name": "This Is Gracie Abrams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajXYAAAAAAAZOA89x5m9D60QUw46qB4G",
+  "snapshot_id": "ajcpgAAAAADDwH2F7W0WB03615usofmg",
   "tracks": [
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Secret of Us (Deluxe)",
-        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 269280,
-      "name": "Gave You I Gave You I",
-      "url": "https://open.spotify.com/track/7GaLluiRWvNfhayWKIZ9Xt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Death Wish (Live from The O2 Arena)",
         "url": "https://open.spotify.com/album/44uIJOur5ep2lIaNmbAHfO"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 227351,
       "name": "Death Wish - Live from The O2 Arena",
       "url": "https://open.spotify.com/track/6WuOYKZbV7CvtaCA7ohYmn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 269280,
+      "name": "Gave You I Gave You I",
+      "url": "https://open.spotify.com/track/7GaLluiRWvNfhayWKIZ9Xt"
     },
     {
       "added_at": null,

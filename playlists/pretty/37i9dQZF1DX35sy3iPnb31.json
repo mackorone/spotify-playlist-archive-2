@@ -1,6 +1,6 @@
 {
   "description": "The best Canadian songs of the month, handpicked by Spotify Canada editors. Cover: Drake",
-  "num_followers": 1936,
+  "num_followers": 1937,
   "original_name": "Editors' Picks: Best Canadian Songs of May",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-06-01 09:19:24",
       "album": {
-        "name": "Little Boy",
-        "url": "https://open.spotify.com/album/6Qb2nkecGuW8cezFkA6IYy"
-      },
-      "artists": [
-        {
-          "name": "Kalsey Kulyk",
-          "url": "https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu"
-        }
-      ],
-      "duration_ms": 218141,
-      "name": "Little Boy",
-      "url": "https://open.spotify.com/track/1xxgjvqq3jmyzDAYZ7xEUW"
-    },
-    {
-      "added_at": "2026-06-01 09:19:24",
-      "album": {
         "name": "Marathon",
         "url": "https://open.spotify.com/album/2OsCTcjrqHmer0jxi2jilj"
       },
@@ -651,18 +635,18 @@
     {
       "added_at": "2026-06-01 09:19:24",
       "album": {
-        "name": "Where Do You Want To Be?",
-        "url": "https://open.spotify.com/album/5AMldJrAc2BWJxTNhbeoc6"
+        "name": "Little Boy",
+        "url": "https://open.spotify.com/album/6Qb2nkecGuW8cezFkA6IYy"
       },
       "artists": [
         {
-          "name": "Rachel Bobbitt",
-          "url": "https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC"
+          "name": "Kalsey Kulyk",
+          "url": "https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu"
         }
       ],
-      "duration_ms": 293293,
-      "name": "Where Do You Want To Be?",
-      "url": "https://open.spotify.com/track/6i93cFNQRYkfDYUyQFrnzf"
+      "duration_ms": 218141,
+      "name": "Little Boy",
+      "url": "https://open.spotify.com/track/1xxgjvqq3jmyzDAYZ7xEUW"
     },
     {
       "added_at": "2026-06-01 09:19:24",
@@ -683,6 +667,22 @@
       "duration_ms": 219526,
       "name": "What You Say - ft umru",
       "url": "https://open.spotify.com/track/3BKxeAZVfa0b1xlWT68Aev"
+    },
+    {
+      "added_at": "2026-06-01 09:19:24",
+      "album": {
+        "name": "Where Do You Want To Be?",
+        "url": "https://open.spotify.com/album/5AMldJrAc2BWJxTNhbeoc6"
+      },
+      "artists": [
+        {
+          "name": "Rachel Bobbitt",
+          "url": "https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC"
+        }
+      ],
+      "duration_ms": 293293,
+      "name": "Where Do You Want To Be?",
+      "url": "https://open.spotify.com/track/6i93cFNQRYkfDYUyQFrnzf"
     },
     {
       "added_at": "2026-06-01 09:19:24",
@@ -835,6 +835,22 @@
     {
       "added_at": "2026-06-01 09:19:24",
       "album": {
+        "name": "Don't Go Far",
+        "url": "https://open.spotify.com/album/1ujn7USDCKuolHuK5UE8Fn"
+      },
+      "artists": [
+        {
+          "name": "Falana",
+          "url": "https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj"
+        }
+      ],
+      "duration_ms": 198260,
+      "name": "Don't Go Far",
+      "url": "https://open.spotify.com/track/33qLiRPjkus5clxQvBBLgW"
+    },
+    {
+      "added_at": "2026-06-01 09:19:24",
+      "album": {
         "name": "In Your Arms",
         "url": "https://open.spotify.com/album/2zR2CvE3sANYBc19r5dvC6"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 207114,
       "name": "In Your Arms",
       "url": "https://open.spotify.com/track/5k5M9d3KpJv0zv6Y9LhraU"
-    },
-    {
-      "added_at": "2026-06-01 09:19:24",
-      "album": {
-        "name": "Don't Go Far",
-        "url": "https://open.spotify.com/album/1ujn7USDCKuolHuK5UE8Fn"
-      },
-      "artists": [
-        {
-          "name": "Falana",
-          "url": "https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj"
-        }
-      ],
-      "duration_ms": 198260,
-      "name": "Don't Go Far",
-      "url": "https://open.spotify.com/track/33qLiRPjkus5clxQvBBLgW"
     }
   ],
   "unique_name": "Editors' Picks: Best Canadian Songs of May",

@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,211 songs - 2 day 22 hr 31 min
+1,213 songs - 2 day 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -683,6 +683,7 @@
 | [My Little House](https://open.spotify.com/track/6swSxpyjkBCXSHDIcKGwor) | [War Honey](https://open.spotify.com/artist/3SSgUv1E6o0261Z951v2Na) | [All You'll Ever Be Good For](https://open.spotify.com/album/3A7FpZAud1r50Gp5Z5Wcf4) | 4:58 | 2025-12-16 | 2026-01-15 |
 | [my medication](https://open.spotify.com/track/2UkTzHwSSLcFof1muj3XHz) | [Blooming Cellar](https://open.spotify.com/artist/3vP2BcyNwoVMEsi1bBy5A6) | [my medication](https://open.spotify.com/album/3ywRW5ajgw9LG7hGDVo0eL) | 3:08 | 2026-04-20 | 2026-06-05 |
 | [My one and only love](https://open.spotify.com/track/2R5WpQBKFicMHyMkxg9cQh) | [Pasquale Innarella](https://open.spotify.com/artist/5YrSnPBsG33kyfu269gvOA), [Andrea Zanchi](https://open.spotify.com/artist/13WyEnJNeqxrCxrLlcSWX5) | [My one and only love](https://open.spotify.com/album/13Wopplk2WPBVVvVptJ7Pb) | 4:26 | 2025-08-08 | 2025-12-21 |
+| [My Private World Of Darkness](https://open.spotify.com/track/1qY6aiE9gPwb0ty748kGip) | [Purple Microdot](https://open.spotify.com/artist/7a8uvG9bm2pkf2BeVpJiB4) | [My Private World Of Darkness](https://open.spotify.com/album/1LAHkhsFyD6e88puBAb5Z3) | 2:25 | 2026-06-22 |  |
 | [My Rest of My Time \- Live](https://open.spotify.com/track/6LPAdIpXndFkUrkGi5eCzz) | [ELSHANO](https://open.spotify.com/artist/02on3cnkxntynubz0QscYr) | [Simple Way](https://open.spotify.com/album/64pXgsLVLz94hUgLlZApAn) | 4:13 | 2026-01-18 | 2026-02-20 |
 | [My Restless Dreams](https://open.spotify.com/track/1dRLSF0xhZ9zdG4oRf1HZ1) | [VrginVeinz](https://open.spotify.com/artist/64fmTLGcnTv4hohdOUDE1z) | [My Restless Dreams](https://open.spotify.com/album/4BCMGCbRthKYXOPe5FRwX2) | 1:56 | 2026-04-21 | 2026-06-05 |
 | [My Wings](https://open.spotify.com/track/4uvvxklqvcOxTrNdvnZTco) | [Bliss On The Stars](https://open.spotify.com/artist/6mVn8YjdSG1C5PxcksAeiU) | [My Wings](https://open.spotify.com/album/5YBEL7PVdJsWTwPOBxlpCQ) | 4:24 | 2026-02-16 | 2026-03-15 |
@@ -993,6 +994,7 @@
 | [Terra Madre](https://open.spotify.com/track/3nvF0V45jt13yvvxtVvM0F) | [I Musicanti di Gregorio Caimi](https://open.spotify.com/artist/4FdC3GeTxEwmOLyg9bgYnp), [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Marwan Samer](https://open.spotify.com/artist/3epY0zg2YiO3c3g2T7NtvO), [Milagro Acustico](https://open.spotify.com/artist/3DGNC89jMak25ZrNzdfnjs) | [Terra Madre](https://open.spotify.com/album/4zJMKgQPzhGSc8XWJQJTJj) | 4:26 | 2023-04-20 | 2025-11-29 |
 | [That Smile](https://open.spotify.com/track/1NObtMTvbDsSMCt8L59PL9) | [Lazy Shades](https://open.spotify.com/artist/608g4cifhC4HRIOb3GkKm6) | [That Smile](https://open.spotify.com/album/04hjWXlo3PK3FJwdlPjtfI) | 4:32 | 2026-01-27 | 2026-02-28 |
 | [The 4th View \(Alternate Version\)](https://open.spotify.com/track/2aEp4oRYjBmcMzzD5izNxb) | [Nuna Shoesmith Sextet](https://open.spotify.com/artist/27DutwUI3nP1AZa96t8SuD) | [Courage](https://open.spotify.com/album/22yRsZW1KCaJdUe74GSdKq) | 3:24 | 2023-04-20 | 2025-11-29 |
+| [The Algorithm](https://open.spotify.com/track/6371cuqZyoz1FLvNDwgxmB) | [Jason Waroff](https://open.spotify.com/artist/1tAoX2x3TC1kp4eIewKZ77) | [The Algorithm](https://open.spotify.com/album/4TRPXfGwYOtQtdy0JpmGkk) | 2:11 | 2026-06-22 |  |
 | [The appointment \(losing an old friend\)](https://open.spotify.com/track/2swoWkWzDZYJLAcrmrXHRj) | [Trenic](https://open.spotify.com/artist/0iOR2POwyH4jIhIYw4fIMv) | [The appointment \(losing an old friend\)](https://open.spotify.com/album/2BDSjgApF5cx8uXVVVYV3R) | 6:53 | 2026-03-23 | 2026-04-22 |
 | [The Ascent](https://open.spotify.com/track/2GX4rWcA6Gl9YS51mLTF5U) | [Kafiristan](https://open.spotify.com/artist/5YMvcsjHDQbAV9H5ScLyqK), [Ruben Van Rompaey](https://open.spotify.com/artist/2cNjCwdbpnREFPJvVmIdol), [Francesco Consaga](https://open.spotify.com/artist/46YcHNc1RagPGq1l8t7N6L), [Giacomix](https://open.spotify.com/artist/13YgeIS5yCZzeyCOCMFRcq), [Sophya](https://open.spotify.com/artist/4PtJEWnUooxCrobD68QwyV) | [The Ascent](https://open.spotify.com/album/7roTjjzjgTQ3B0H6pIlsa1) | 3:02 | 2023-12-21 | 2025-11-29 |
 | [The Balinese Dancer](https://open.spotify.com/track/6cl4RsWrDS9BCmUdnPgBpZ) | [Bob Salmieri Bastarduna Sextet](https://open.spotify.com/artist/5CoTEiPpHOEYCyguKEislJ), [Mateusz Nawrot](https://open.spotify.com/artist/61HeW3P7VjwuSOY80WO5ym) | [...and Mama Was a Belly Dancer](https://open.spotify.com/album/27PEqUCCnQJOVQkZgZEHG3) | 5:46 | 2023-04-29 | 2025-11-29 |

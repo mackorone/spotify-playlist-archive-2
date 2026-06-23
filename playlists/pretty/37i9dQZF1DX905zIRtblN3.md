@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX905zIRtblN3.md) - [plain]
 
 > ¡Las más placosas y llegadoras de nuestra música! Al millón con Cornelio Vega y su Dinastía.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,849,586 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,849,714 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX905zIRtblN3.md) - [plain]
 | 24 | [La Güera](https://open.spotify.com/track/33A0Pj4Yw2cqPbgypFzkg0) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [La Güera](https://open.spotify.com/album/5DxwSbjWmLXV6JFPWHjSSY) | 2:38 |
 | 25 | [ME VALE V](https://open.spotify.com/track/7HuGsvzf9aYQXmXS3a0Fd3) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [ACOMODO](https://open.spotify.com/album/18ZBkv7H9aGiDhHVWeuuKv) | 3:06 |
 | 26 | [PASE Y PASE](https://open.spotify.com/track/3UI9nM0xrI0ywhqoZQvLFt) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [PASE Y PASE](https://open.spotify.com/album/7z9NCCZBv2lnejkFRlUlAm) | 3:01 |
-| 27 | [Fuerte No Soy \(En Vivo\)](https://open.spotify.com/track/0oaZ8iRRefJBWmFcwML7m7) | [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR) | [Fuerte No Soy \(En Vivo\)](https://open.spotify.com/album/2f7Wm1pk93ttXvGrSVtUYP) | 4:14 |
+| 27 | [Fuerte No Soy \(En Vivo\)](https://open.spotify.com/track/0oaZ8iRRefJBWmFcwML7m7) | [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR) | [Fuerte No Soy \(En Vivo\)](https://open.spotify.com/album/2f7Wm1pk93ttXvGrSVtUYP) | 4:07 |
 | 28 | [Una vida juntos](https://open.spotify.com/track/5t4jQPNGUqciQDDxXEnQKr) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [Loco X Volver](https://open.spotify.com/album/2EInRP6cUHucyNktL1UPUy) | 3:14 |
 | 29 | [Mi Yo de Antes](https://open.spotify.com/track/0RAlrJTWdsaZVtfh1wDb3r) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Mi Yo de Antes](https://open.spotify.com/album/2y77rjJAPxg73wjdzAeTMN) | 3:02 |
 | 30 | [Tú Ni En Cuenta](https://open.spotify.com/track/2Foa6ozkkS1JsB9EjBs2zH) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Tú Ni En Cuenta](https://open.spotify.com/album/46OwUEIu4iyjOPJY87txwH) | 3:23 |

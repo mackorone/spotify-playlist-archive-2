@@ -1,12 +1,12 @@
 {
   "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 676422,
+  "num_followers": 676472,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajXYAAAAAADhvbGOspoJ+nG1NicJxu4r",
+  "snapshot_id": "ajcpgAAAAAB/1mwEPSHijFLPu4raKQYK",
   "tracks": [
     {
       "added_at": null,
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
         }
       ],
-      "duration_ms": 124249,
-      "name": "Leviticus",
-      "url": "https://open.spotify.com/track/2QesOhDm8RV7gQ3xbu41xm"
+      "duration_ms": 221047,
+      "name": "BLOODSWEAT",
+      "url": "https://open.spotify.com/track/3YGma4LsXxOZYZiKOtsSzC"
     },
     {
       "added_at": null,
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
         }
       ],
-      "duration_ms": 221047,
-      "name": "BLOODSWEAT",
-      "url": "https://open.spotify.com/track/3YGma4LsXxOZYZiKOtsSzC"
+      "duration_ms": 124249,
+      "name": "Leviticus",
+      "url": "https://open.spotify.com/track/2QesOhDm8RV7gQ3xbu41xm"
     },
     {
       "added_at": null,
@@ -783,26 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grey Gorilla",
-        "url": "https://open.spotify.com/album/2oaau3jGhm8zjnBbGxmCA6"
-      },
-      "artists": [
-        {
-          "name": "Ramirez",
-          "url": "https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2"
-        },
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 192809,
-      "name": "Grey Gods",
-      "url": "https://open.spotify.com/track/4iSHIHjbwqztgHdSeTjuMN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GERM HAS A DEATHWISH",
         "url": "https://open.spotify.com/album/5eWTQHm7yXnuxlHpG9Lf23"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 133920,
       "name": "A Little Trauma Can Be Illuminating, And I'm Shining Like The Sun",
       "url": "https://open.spotify.com/track/4sX6GorfHFAy9UdJM00c3v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grey Gorilla",
+        "url": "https://open.spotify.com/album/2oaau3jGhm8zjnBbGxmCA6"
+      },
+      "artists": [
+        {
+          "name": "Ramirez",
+          "url": "https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2"
+        },
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 192809,
+      "name": "Grey Gods",
+      "url": "https://open.spotify.com/track/4iSHIHjbwqztgHdSeTjuMN"
     }
   ],
   "unique_name": "This Is $uicideboy$",

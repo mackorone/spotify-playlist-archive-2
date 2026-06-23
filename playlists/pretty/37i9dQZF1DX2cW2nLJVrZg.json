@@ -1,6 +1,6 @@
 {
   "description": "All the winning songs from the annual event celebrating Hollywood's brightest stars.",
-  "num_followers": 253042,
+  "num_followers": 253026,
   "original_name": "Hollywood's Big Night",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-01-23 19:55:12",
       "album": {
-        "name": "The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/38x0H9PdY1fHh8EdfPUXqa"
-      },
-      "artists": [
-        {
-          "name": "Annie Lennox",
-          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
-        }
-      ],
-      "duration_ms": 347600,
-      "name": "Into the West",
-      "url": "https://open.spotify.com/track/0gSEyG7pOFuHM05433EibX"
-    },
-    {
-      "added_at": "2024-01-23 19:55:12",
-      "album": {
         "name": "Coco (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 109280,
       "name": "Remember Me (Ernesto de la Cruz)",
       "url": "https://open.spotify.com/track/4ljlAxfaEjO4Q4g9FMtVj4"
+    },
+    {
+      "added_at": "2024-01-23 19:55:12",
+      "album": {
+        "name": "The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/38x0H9PdY1fHh8EdfPUXqa"
+      },
+      "artists": [
+        {
+          "name": "Annie Lennox",
+          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+        }
+      ],
+      "duration_ms": 347600,
+      "name": "Into the West",
+      "url": "https://open.spotify.com/track/0gSEyG7pOFuHM05433EibX"
     },
     {
       "added_at": "2024-01-23 19:55:12",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-01-23 19:55:12",
       "album": {
-        "name": "Titanic: Original Motion Picture Soundtrack - Collector's Anniversary Edition",
-        "url": "https://open.spotify.com/album/3XwgFTxiWxep4s1VjPEaHs"
-      },
-      "artists": [
-        {
-          "name": "James Horner",
-          "url": "https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr"
-        }
-      ],
-      "duration_ms": 283226,
-      "name": "The Portrait - From \"Titanic\" Soundtrack",
-      "url": "https://open.spotify.com/track/0yIM3MDx8UTwueyoZJobsb"
-    },
-    {
-      "added_at": "2024-01-23 19:55:12",
-      "album": {
         "name": "Rocketman (Music From The Motion Picture)",
         "url": "https://open.spotify.com/album/16iIPsnAjGZea8TeOCzeN8"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 250773,
       "name": "(I'm Gonna) Love Me Again",
       "url": "https://open.spotify.com/track/1q8lLOgfciaGLwXCvOpH6w"
+    },
+    {
+      "added_at": "2024-01-23 19:55:12",
+      "album": {
+        "name": "Titanic: Original Motion Picture Soundtrack - Collector's Anniversary Edition",
+        "url": "https://open.spotify.com/album/3XwgFTxiWxep4s1VjPEaHs"
+      },
+      "artists": [
+        {
+          "name": "James Horner",
+          "url": "https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr"
+        }
+      ],
+      "duration_ms": 283226,
+      "name": "The Portrait - From \"Titanic\" Soundtrack",
+      "url": "https://open.spotify.com/track/0yIM3MDx8UTwueyoZJobsb"
     },
     {
       "added_at": "2024-01-23 19:55:12",

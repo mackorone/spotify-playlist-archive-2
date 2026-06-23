@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,301 songs - 4 day 23 hr 23 min
+2,302 songs - 4 day 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1026,7 +1026,7 @@
 | [Inget som ändras](https://open.spotify.com/track/6LiZ1HFli2pMZTtWT7JDl9) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [Inget som ändras](https://open.spotify.com/album/0T7S5nRJfHdV4i0yYULoi2) | 2:17 | 2025-01-30 | 2025-02-18 |
 | [Inner City Ghosts](https://open.spotify.com/track/1wQ00RmlR3rtTdQXui3xrh) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Forevers](https://open.spotify.com/album/1Cwlh31SKFozdbGskNJWbJ) | 3:49 | 2025-11-20 | 2026-03-14 |
 | [Innerst Inne](https://open.spotify.com/track/3NiibjPSAaQgCaEw62HTgl) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW), [Elias Abbas](https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6) | [Innerst Inne](https://open.spotify.com/album/4mHCK5SAkgmrcUY6RTYQbU) | 2:35 | 2024-06-27 | 2024-10-13 |
-| [Innerstadsbarn](https://open.spotify.com/track/1af9NItaItY3j3NkbrfmNd) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Innerstadsbarn](https://open.spotify.com/album/4WF01x0BqUTFxe3xRRbnXM) | 3:05 | 2026-03-26 |  |
+| [Innerstadsbarn](https://open.spotify.com/track/1af9NItaItY3j3NkbrfmNd) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Innerstadsbarn](https://open.spotify.com/album/4WF01x0BqUTFxe3xRRbnXM) | 3:05 | 2026-03-26 | 2026-06-23 |
 | [Innocent Love](https://open.spotify.com/track/71vojPlEiXkv0ZGWyfWqFj) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [Innocent Love](https://open.spotify.com/album/5p61tjKE3bf96LDICjSBa5) | 3:02 | 2022-02-26 | 2022-09-16 |
 | [Inombords](https://open.spotify.com/track/5QMnvHrkUdJ86rPwZHAkYe) | [Dante](https://open.spotify.com/artist/7HxyLgEfLQQnzrgMvUGVI5) | [Inombords](https://open.spotify.com/album/042ZowqJbaddqs1S1knF8g) | 2:25 | 2025-12-26 | 2026-03-20 |
 | [Inside Out](https://open.spotify.com/track/6Z9nNatxC7Nbm4VY15A3ij) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1), [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Inside Out](https://open.spotify.com/album/67iY4D5SSaw1eRfExYzWh3) | 2:58 | 2024-03-21 | 2024-05-03 |
@@ -2297,6 +2297,7 @@
 | [Änglavakt](https://open.spotify.com/track/61inXZujdBrTs0WJiPjfjJ) | [John Lundvik](https://open.spotify.com/artist/11LbPHLi2sCqOVjknt0jmW) | [Änglavakt](https://open.spotify.com/album/69Qc9CUMoBx3TbqvFdCkRO) | 3:03 | 2022-02-26 | 2022-07-29 |
 | [Ännu mer](https://open.spotify.com/track/7Df3phKqcBZKauErNZmGdU) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Ännu mer](https://open.spotify.com/album/2JwKCHjZQBVIAN30auXm6O) | 3:04 | 2022-11-04 | 2023-05-25 |
 | [Äntligen](https://open.spotify.com/track/0rDkGAmFy3mjGOg2E6AmZi) | [Maia Hirasawa](https://open.spotify.com/artist/2xtgYE7gox5t043BJWi7bd) | [Äntligen](https://open.spotify.com/album/4h2sdTMIPJwARCNCIGuvzL) | 4:02 | 2022-06-23 | 2022-07-09 |
+| [Är det här det är party](https://open.spotify.com/track/3LUv3ZP70kKfDx9ui4mF2f) | [Korslagda](https://open.spotify.com/artist/7uW0TRg4ie6mixKsuLEuAv) | [Är det här det är party](https://open.spotify.com/album/5f6dKBzjWA6S1anxk4wW58) | 3:22 | 2026-06-22 |  |
 | [Är det här dom kallar lycka](https://open.spotify.com/track/1YDzgKGfJTl7kpHdIjEInB) | [Adrian Macéus](https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g) | [Är det här dom kallar lycka](https://open.spotify.com/album/2cyYFJzxdGevCnAJ7Wq0Gc) | 2:45 | 2026-03-05 | 2026-03-20 |
 | [Är det upp till dig och mig](https://open.spotify.com/track/5D94n7MSUmTTPwO91roL9x) | [Jakob Hellman](https://open.spotify.com/artist/74terC9ol9zMo8rfzhSOiG) | [Är det upp till dig och mig](https://open.spotify.com/album/36Y6LGKWC5qrVnEU2uX5Nd) | 4:25 | 2025-09-15 | 2025-10-10 |
 | [Är detta vad dom kallar kärlek?](https://open.spotify.com/track/3ehU3uIL6dO1diYmmasPR6) | [Kim Karlsson](https://open.spotify.com/artist/7nwmNkTPe1qgRs7cAYiWFm) | [Är detta vad dom kallar kärlek?](https://open.spotify.com/album/2ejamjcBCGPj3JVPHokduh) | 2:54 | 2024-05-02 | 2024-06-01 |

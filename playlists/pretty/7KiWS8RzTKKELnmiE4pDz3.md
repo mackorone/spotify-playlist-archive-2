@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 263 songs - 16 hr 52 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 264 songs - 16 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -271,5 +271,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 261 | [The Coolest](https://open.spotify.com/track/1R6nmC4HUGOGSKU02Wqa0v) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's The Cool](https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy) | 5:12 |
 | 262 | [Cascade](https://open.spotify.com/track/4uehGJ2tDdzmbZVeV8E3pX) | [Plini](https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic) | [Handmade Cities](https://open.spotify.com/album/4cJ8qhE71x97swkaMQhGcr) | 6:00 |
 | 263 | [Ever Wonder](https://open.spotify.com/track/5mJdQciC7grIJ8Fbi0rdk7) | [Mestís](https://open.spotify.com/artist/3adhzSHzVWN1ICfxIqO9Cn) | [Eikasia](https://open.spotify.com/album/7xs4OfrnStudtZF0RVfMwW) | 4:34 |
+| 264 | [Star](https://open.spotify.com/track/1FhagjsmYU1nJg8rsnObnI) | [702](https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo), [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2) | [Star](https://open.spotify.com/album/17MNAy6AWQ1T3WHJu9gveR) | 4:03 |
 
-Snapshot ID: `AAAga9V8iDL5rIEdLC2Om5gGmsfDDUVM`
+Snapshot ID: `AAAgbGPFPCCYstG/XZo+PXg5ZNQQP2Td`

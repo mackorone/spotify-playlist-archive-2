@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Esther Oji
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,112 likes - 111 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,129 likes - 111 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

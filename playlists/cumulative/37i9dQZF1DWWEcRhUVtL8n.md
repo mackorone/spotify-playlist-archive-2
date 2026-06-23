@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Quiet Houses
 
-2,451 songs - 5 day 10 hr 36 min
+2,452 songs - 5 day 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1196,6 +1196,7 @@
 | [Just Because](https://open.spotify.com/track/1DwmNjO23qRsGsgmxfADfC) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Just Because](https://open.spotify.com/album/50Iqs6mIhEZTfRdfjzwgwx) | 2:49 | 2025-01-17 | 2025-02-22 |
 | [just friends](https://open.spotify.com/track/0sP4yWgpbVOTq5ttjo4lSW) | [camille blackman](https://open.spotify.com/artist/5jswcyyCL6uoFlF9TaEtHc) | [just friends](https://open.spotify.com/album/6wQxgwBgSGrktX8yuskrX8) | 3:28 | 2026-03-20 | 2026-05-26 |
 | [Just Like Me](https://open.spotify.com/track/5CMgV1SsMDRFyeM10Al6NL) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Just Like Me](https://open.spotify.com/album/0EeEkFwvT9QbI5y5CeUMq6) | 2:50 | 2022-08-26 | 2022-09-09 |
+| [Just Like You](https://open.spotify.com/track/2DjiUfyKFUjR93c28MBX5m) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Just Like You](https://open.spotify.com/album/7Ebv6UYPniNO0T7ufT9hby) | 3:14 | 2026-06-22 |  |
 | [JUST ME & FRIENDS](https://open.spotify.com/track/110C4JUqwl9bAxr830GaaI) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [JUST ME & FRIENDS](https://open.spotify.com/album/7nsSHLGAccfsmwjIUAIuYk) | 2:48 | 2023-08-25 | 2023-09-09 |
 | [Just Move](https://open.spotify.com/track/0zfrIxHvYUAp8wAIQlAKj0) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Just Move](https://open.spotify.com/album/30wUyky9CMZydC8QrX3RFH) | 3:06 | 2020-10-13\* | 2020-11-17 |
 | [Just Two Girls](https://open.spotify.com/track/5yKfoYiHtMr7v6A1dk5ooh) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing](https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV) | 3:49 | 2025-08-22 |  |
@@ -1257,7 +1258,7 @@
 | [leaving is easy](https://open.spotify.com/track/4nfJKQjA0kTZELSUtpeKQv) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [leaving is easy](https://open.spotify.com/album/4csC6Ngy7HOWdFhh21SMhP) | 3:33 | 2026-03-20 | 2026-05-09 |
 | [Lego Ring](https://open.spotify.com/track/3bGMtDPWFXqPM7QecjVHlG) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Lego Ring](https://open.spotify.com/album/61ZY4FMQgChUDCXRJ4C4lz) | 2:43 | 2024-03-29 | 2024-06-08 |
 | [Legs](https://open.spotify.com/track/4MfniDlEjoHjlc5InztTdR) | [Annie DiRusso](https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw) | [Legs](https://open.spotify.com/album/0BSMBaAtdAdYqySVXTwR4P) | 3:42 | 2024-08-23 | 2024-09-14 |
-| [lemonlime](https://open.spotify.com/track/68utYAhxFqE4xK7cmObExo) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [lemonlime](https://open.spotify.com/album/4Wx1qHpwOLTt96L8I0Kt3u) | 3:25 | 2026-04-10 |  |
+| [lemonlime](https://open.spotify.com/track/68utYAhxFqE4xK7cmObExo) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [lemonlime](https://open.spotify.com/album/4Wx1qHpwOLTt96L8I0Kt3u) | 3:25 | 2026-04-10 | 2026-06-23 |
 | [lemons](https://open.spotify.com/track/2tLoNGLxZsPvvPUVDMfSY2) | [why mona](https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU) | [lemons](https://open.spotify.com/album/4VCLLpsH8VSMy2VOdhUhXG) | 3:24 | 2022-03-18 | 2022-04-13 |
 | [Leona](https://open.spotify.com/track/3nZdGftW9CLVQZ0j9hkPuL) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO PT\. 1](https://open.spotify.com/album/1sByjN7ag1X0ppsT6SdP8J) | 4:06 | 2021-06-03 | 2021-06-04 |
 | [Leona](https://open.spotify.com/track/5oFCGSZuMgUbJZX3ldciUY) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 4:06 | 2021-10-10 | 2021-10-11 |

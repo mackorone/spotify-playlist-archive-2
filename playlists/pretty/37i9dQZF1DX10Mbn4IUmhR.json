@@ -1,6 +1,6 @@
 {
   "description": "Your frequency for today's hottest pop tracks in Mzansi. Cover: ",
-  "num_followers": 6526,
+  "num_followers": 6523,
   "original_name": "pop fm",
   "owner": {
     "name": "Spotify",
@@ -495,6 +495,22 @@
     {
       "added_at": "2026-06-19 11:24:49",
       "album": {
+        "name": "rollerblade",
+        "url": "https://open.spotify.com/album/6TFeJFQOM62KtRRHe8fxGV"
+      },
+      "artists": [
+        {
+          "name": "no na",
+          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
+        }
+      ],
+      "duration_ms": 114056,
+      "name": "rollerblade",
+      "url": "https://open.spotify.com/track/3fL35dqYnnabdEp8Sln0lf"
+    },
+    {
+      "added_at": "2026-06-19 11:24:49",
+      "album": {
         "name": "Hold Me In The Dark",
         "url": "https://open.spotify.com/album/3EKZQWSkednDNMvpXFv0mg"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 215511,
       "name": "Camera",
       "url": "https://open.spotify.com/track/6vqyk3mbDBv3npTpctYoka"
-    },
-    {
-      "added_at": "2026-06-19 11:24:49",
-      "album": {
-        "name": "rollerblade",
-        "url": "https://open.spotify.com/album/6TFeJFQOM62KtRRHe8fxGV"
-      },
-      "artists": [
-        {
-          "name": "no na",
-          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
-        }
-      ],
-      "duration_ms": 114056,
-      "name": "rollerblade",
-      "url": "https://open.spotify.com/track/3fL35dqYnnabdEp8Sln0lf"
     },
     {
       "added_at": "2026-06-19 11:24:49",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-06-19 11:24:49",
       "album": {
-        "name": "Waist",
-        "url": "https://open.spotify.com/album/4aRqZD1I60EoU85eNCVAil"
-      },
-      "artists": [
-        {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 165625,
-      "name": "Waist",
-      "url": "https://open.spotify.com/track/3sW9XZW5xK95CXBHrwNFiK"
-    },
-    {
-      "added_at": "2026-06-19 11:24:49",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/0LpaPfCPzVuQPhN1N8u8dp"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 190666,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1lfoj5wpj5GYGDse0rh453"
+    },
+    {
+      "added_at": "2026-06-19 11:24:49",
+      "album": {
+        "name": "Waist",
+        "url": "https://open.spotify.com/album/4aRqZD1I60EoU85eNCVAil"
+      },
+      "artists": [
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 165625,
+      "name": "Waist",
+      "url": "https://open.spotify.com/track/3sW9XZW5xK95CXBHrwNFiK"
     },
     {
       "added_at": "2026-06-19 11:24:49",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-06-19 11:24:49",
       "album": {
-        "name": "Fuji Xtra",
-        "url": "https://open.spotify.com/album/6NP9TfHyQAMu7QKFAySLdb"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 149500,
-      "name": "Life Of The Faaji",
-      "url": "https://open.spotify.com/track/4BVXL84QhTuDU3eQEpIBOp"
-    },
-    {
-      "added_at": "2026-06-19 11:24:49",
-      "album": {
         "name": "Aweh [Remix] (feat. Cassper Nyovest)",
         "url": "https://open.spotify.com/album/5aQWOuuzkvcemieOiW1t7H"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 207640,
       "name": "Aweh [Remix] (feat. Cassper Nyovest)",
       "url": "https://open.spotify.com/track/7sR4V3QuvyZS8jLzbhUpM2"
+    },
+    {
+      "added_at": "2026-06-19 11:24:49",
+      "album": {
+        "name": "Fuji Xtra",
+        "url": "https://open.spotify.com/album/6NP9TfHyQAMu7QKFAySLdb"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 149500,
+      "name": "Life Of The Faaji",
+      "url": "https://open.spotify.com/track/4BVXL84QhTuDU3eQEpIBOp"
     },
     {
       "added_at": "2026-06-19 11:24:49",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2026-06-19 11:24:49",
       "album": {
+        "name": "Watermarks",
+        "url": "https://open.spotify.com/album/24Q2Om5Tsh3kz8EdEOTpWc"
+      },
+      "artists": [
+        {
+          "name": "Sven Cilliers",
+          "url": "https://open.spotify.com/artist/2kdpZZXmU872tr8L0cYwnI"
+        }
+      ],
+      "duration_ms": 191266,
+      "name": "Watermarks",
+      "url": "https://open.spotify.com/track/4xAK7JDrcYG9qD7UPr10wL"
+    },
+    {
+      "added_at": "2026-06-19 11:24:49",
+      "album": {
         "name": "I Was Never Alone",
         "url": "https://open.spotify.com/album/5B1XzMm6IQwGvHKKkVAchY"
       },
@@ -1067,22 +1083,6 @@
     {
       "added_at": "2026-06-19 11:24:49",
       "album": {
-        "name": "Watermarks",
-        "url": "https://open.spotify.com/album/24Q2Om5Tsh3kz8EdEOTpWc"
-      },
-      "artists": [
-        {
-          "name": "Sven Cilliers",
-          "url": "https://open.spotify.com/artist/2kdpZZXmU872tr8L0cYwnI"
-        }
-      ],
-      "duration_ms": 191266,
-      "name": "Watermarks",
-      "url": "https://open.spotify.com/track/4xAK7JDrcYG9qD7UPr10wL"
-    },
-    {
-      "added_at": "2026-06-19 11:24:49",
-      "album": {
         "name": "Popstar Party",
         "url": "https://open.spotify.com/album/5qbv9ptUdlcivvSSOXc7UG"
       },
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-06-19 11:24:49",
       "album": {
-        "name": "Letting go",
-        "url": "https://open.spotify.com/album/3aRWXtqMee8FRTTqcgtu0c"
-      },
-      "artists": [
-        {
-          "name": "Stephen Willo",
-          "url": "https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Letting go",
-      "url": "https://open.spotify.com/track/4nYZTjP9ueozE3FIzzaQLg"
-    },
-    {
-      "added_at": "2026-06-19 11:24:49",
-      "album": {
         "name": "Love Is for Suckers",
         "url": "https://open.spotify.com/album/0B5RT0pvzVrH8TVPY63G66"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 181028,
       "name": "Love Is for Suckers",
       "url": "https://open.spotify.com/track/3t6EystzC1IMkeLD1EuVQ3"
+    },
+    {
+      "added_at": "2026-06-19 11:24:49",
+      "album": {
+        "name": "Letting go",
+        "url": "https://open.spotify.com/album/3aRWXtqMee8FRTTqcgtu0c"
+      },
+      "artists": [
+        {
+          "name": "Stephen Willo",
+          "url": "https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Letting go",
+      "url": "https://open.spotify.com/track/4nYZTjP9ueozE3FIzzaQLg"
     },
     {
       "added_at": "2026-06-19 11:24:49",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-06-19 11:24:49",
       "album": {
-        "name": "My Sweet Lullaby",
-        "url": "https://open.spotify.com/album/2ajFNHtrid9V6L7xpJArQ5"
-      },
-      "artists": [
-        {
-          "name": "Anacy",
-          "url": "https://open.spotify.com/artist/2oXqSYj1115os7ZUoEAEd0"
-        }
-      ],
-      "duration_ms": 205677,
-      "name": "My Sweet Lullaby",
-      "url": "https://open.spotify.com/track/3BDgGxMhSXgN09ZoePXBp4"
-    },
-    {
-      "added_at": "2026-06-19 11:24:49",
-      "album": {
         "name": "Honey, If It's Not Weird",
         "url": "https://open.spotify.com/album/4owrM8K2AWD6SymvGz1BEd"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 213982,
       "name": "Honey, If It's Not Weird",
       "url": "https://open.spotify.com/track/3JLgrNYIzT5fe1TXRgXlGj"
+    },
+    {
+      "added_at": "2026-06-19 11:24:49",
+      "album": {
+        "name": "My Sweet Lullaby",
+        "url": "https://open.spotify.com/album/2ajFNHtrid9V6L7xpJArQ5"
+      },
+      "artists": [
+        {
+          "name": "Anacy",
+          "url": "https://open.spotify.com/artist/2oXqSYj1115os7ZUoEAEd0"
+        }
+      ],
+      "duration_ms": 205677,
+      "name": "My Sweet Lullaby",
+      "url": "https://open.spotify.com/track/3BDgGxMhSXgN09ZoePXBp4"
     },
     {
       "added_at": "2026-06-19 11:24:49",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2fEpJ8cYYNOZXDpwysSpHg">Natania</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-153 songs - 7 hr 9 min
+154 songs - 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Control](https://open.spotify.com/track/5NH6GqeHO5Zi4bJpPfnwPs) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Control](https://open.spotify.com/album/6QRfFKXgzfBmVcdrUq6L9u) | 2:33 | 2025-07-03 |  |
 | [Cope](https://open.spotify.com/track/2MyUXJbj196Hv3zdWUivXp) | [Not Famous](https://open.spotify.com/artist/2iKfppgaY3Er8HpZWh4rBt) | [Cope](https://open.spotify.com/album/3TYKjOUpuQo1iV4NShBPPN) | 2:46 | 2025-07-03 |  |
 | [CROWN](https://open.spotify.com/track/1JArK6kqe9N0xmBR1mktkT) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [NEW LIFE](https://open.spotify.com/album/1ERhZcW27LyJkW1w0hy8Tt) | 3:17 | 2025-07-03 |  |
-| [Dealer](https://open.spotify.com/track/0Oyyi8XyZzXZKs3oCm9e9e) | [Romeo Blanco](https://open.spotify.com/artist/7oVSEUsFMvqBPpVKuRFSXQ) | [Dealer](https://open.spotify.com/album/2cvvNvywxW7kCrwYBDmxed) | 2:26 | 2025-07-03 |  |
+| [Dealer](https://open.spotify.com/track/0Oyyi8XyZzXZKs3oCm9e9e) | [Romeo Blanco](https://open.spotify.com/artist/7oVSEUsFMvqBPpVKuRFSXQ) | [Dealer](https://open.spotify.com/album/2cvvNvywxW7kCrwYBDmxed) | 2:26 | 2025-07-03 | 2026-06-23 |
+| [Dealer](https://open.spotify.com/track/0iXPah9kcv6PbuFpo6o77N) | [Romeo Blanco](https://open.spotify.com/artist/7oVSEUsFMvqBPpVKuRFSXQ) | [Dealer](https://open.spotify.com/album/1FsjFabABskFhISZfJ7PMR) | 2:26 | 2026-06-22 |  |
 | [destiny](https://open.spotify.com/track/0oFRVM6JnZErcgiSb8DVnS) | [Sejal](https://open.spotify.com/artist/1A7xjiZRn87g7WFbG9oMqU) | [shy](https://open.spotify.com/album/6FGjEG944AvGqK1hBThw7l) | 2:48 | 2025-07-03 |  |
 | [Did We \- from the Smurfs Movie Soundtrack](https://open.spotify.com/track/42GIHmiNIpvPkktB9CDKcg) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Smurfs Movie Soundtrack \(Music From & Inspired By\)](https://open.spotify.com/album/1WWC30whzWg114IF0EEcRx) | 3:14 | 2025-07-17 |  |
 | [Die Happy](https://open.spotify.com/track/42iy1n6ZMIjayR0MxlFjMB) | [Miranda Glory](https://open.spotify.com/artist/3LU5ho1MrktZxpRBGYPISK) | [Die Happy](https://open.spotify.com/album/25XVdH27KKP7h16HwH2hPW) | 2:53 | 2025-07-03 |  |

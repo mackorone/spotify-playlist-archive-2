@@ -2522,7 +2522,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 217082,
       "name": "Cypress",
       "url": "https://open.spotify.com/track/1lUFR2vQgi0HLJI1BwmB0D"
@@ -7484,6 +7484,24 @@
       "duration_ms": 198173,
       "name": "Money",
       "url": "https://open.spotify.com/track/34KMYJ2e5ouT1qfOEJgfIe"
+    },
+    {
+      "album": {
+        "name": "Monroe",
+        "url": "https://open.spotify.com/album/4uMnuCKFrdmUqwzc0LBOkP"
+      },
+      "artists": [
+        {
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281027,
+      "name": "Monroe",
+      "url": "https://open.spotify.com/track/2CFQhsE794KbbyROs5Iocx"
     },
     {
       "album": {

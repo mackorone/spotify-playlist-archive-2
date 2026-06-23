@@ -1,6 +1,6 @@
 {
   "description": "Sommerferien, Eis in der Hand und ganz viel Badespa\u00df!",
-  "num_followers": 60818,
+  "num_followers": 60839,
   "original_name": "Familienzeit: Sommer",
   "owner": {
     "name": "Spotify",
@@ -735,26 +735,6 @@
     {
       "added_at": "2026-06-18 22:01:02",
       "album": {
-        "name": "Giraffenaffen",
-        "url": "https://open.spotify.com/album/3yRICOfCU3aESj5tqYOXnD"
-      },
-      "artists": [
-        {
-          "name": "Ulla Meinecke",
-          "url": "https://open.spotify.com/artist/5MKC7A8t2y0EXMkhU0tjZO"
-        },
-        {
-          "name": "Giraffenaffen",
-          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
-        }
-      ],
-      "duration_ms": 215400,
-      "name": "Was m\u00fcssen das f\u00fcr B\u00e4ume sein",
-      "url": "https://open.spotify.com/track/1IM2PaRVp08Zg6zNKpYRqO"
-    },
-    {
-      "added_at": "2026-06-18 22:01:02",
-      "album": {
         "name": "Ferien / Vacanza",
         "url": "https://open.spotify.com/album/34Jh1lTXZcsHxQUaiXGr99"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 164165,
       "name": "Ferien / Vacanza",
       "url": "https://open.spotify.com/track/5pAbtjJXW7GJt0B1oZwNde"
+    },
+    {
+      "added_at": "2026-06-18 22:01:02",
+      "album": {
+        "name": "Giraffenaffen",
+        "url": "https://open.spotify.com/album/3yRICOfCU3aESj5tqYOXnD"
+      },
+      "artists": [
+        {
+          "name": "Ulla Meinecke",
+          "url": "https://open.spotify.com/artist/5MKC7A8t2y0EXMkhU0tjZO"
+        },
+        {
+          "name": "Giraffenaffen",
+          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "Was m\u00fcssen das f\u00fcr B\u00e4ume sein",
+      "url": "https://open.spotify.com/track/1IM2PaRVp08Zg6zNKpYRqO"
     },
     {
       "added_at": "2026-06-18 22:01:02",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-06-18 22:01:02",
       "album": {
-        "name": "Das Sommertier",
-        "url": "https://open.spotify.com/album/6UrVYi2MFIOvkwH2pcshrz"
-      },
-      "artists": [
-        {
-          "name": "Hurra Kinderlieder",
-          "url": "https://open.spotify.com/artist/0tvF8WneD5ortg902Tnm1a"
-        }
-      ],
-      "duration_ms": 147571,
-      "name": "Das Sommertier",
-      "url": "https://open.spotify.com/track/7zqWKN7UOLNHVBP7a22gm9"
-    },
-    {
-      "added_at": "2026-06-18 22:01:02",
-      "album": {
         "name": "Sommertag",
         "url": "https://open.spotify.com/album/7MOstpjqCCqLl5QFufgSdf"
       },
@@ -891,18 +875,18 @@
     {
       "added_at": "2026-06-18 22:01:02",
       "album": {
-        "name": "Fr\u00fchlingslieder (Omas sch\u00f6nste)",
-        "url": "https://open.spotify.com/album/3jGID7paFetUeX5I47sNpz"
+        "name": "Das Sommertier",
+        "url": "https://open.spotify.com/album/6UrVYi2MFIOvkwH2pcshrz"
       },
       "artists": [
         {
-          "name": "KIDDINX Music",
-          "url": "https://open.spotify.com/artist/6aX0QJPsfFMXZqCATPIiV8"
+          "name": "Hurra Kinderlieder",
+          "url": "https://open.spotify.com/artist/0tvF8WneD5ortg902Tnm1a"
         }
       ],
-      "duration_ms": 95173,
-      "name": "Bl\u00fcht ein Bl\u00fcmlein",
-      "url": "https://open.spotify.com/track/317zFUecVbUcEmca5IK4UW"
+      "duration_ms": 147571,
+      "name": "Das Sommertier",
+      "url": "https://open.spotify.com/track/7zqWKN7UOLNHVBP7a22gm9"
     },
     {
       "added_at": "2026-06-18 22:01:02",
@@ -923,18 +907,18 @@
     {
       "added_at": "2026-06-18 22:01:02",
       "album": {
-        "name": "Die Biene Maja - Meine Lieder",
-        "url": "https://open.spotify.com/album/2w1GpapewuvarRvXfIuDma"
+        "name": "Fr\u00fchlingslieder (Omas sch\u00f6nste)",
+        "url": "https://open.spotify.com/album/3jGID7paFetUeX5I47sNpz"
       },
       "artists": [
         {
-          "name": "Volker Rosin",
-          "url": "https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf"
+          "name": "KIDDINX Music",
+          "url": "https://open.spotify.com/artist/6aX0QJPsfFMXZqCATPIiV8"
         }
       ],
-      "duration_ms": 183920,
-      "name": "Jetzt kommt die Biene Maja",
-      "url": "https://open.spotify.com/track/1hNHctnuG5O74TamlCXKKY"
+      "duration_ms": 95173,
+      "name": "Bl\u00fcht ein Bl\u00fcmlein",
+      "url": "https://open.spotify.com/track/317zFUecVbUcEmca5IK4UW"
     },
     {
       "added_at": "2026-06-18 22:01:02",
@@ -955,6 +939,22 @@
     {
       "added_at": "2026-06-18 22:01:02",
       "album": {
+        "name": "Die Biene Maja - Meine Lieder",
+        "url": "https://open.spotify.com/album/2w1GpapewuvarRvXfIuDma"
+      },
+      "artists": [
+        {
+          "name": "Volker Rosin",
+          "url": "https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf"
+        }
+      ],
+      "duration_ms": 183920,
+      "name": "Jetzt kommt die Biene Maja",
+      "url": "https://open.spotify.com/track/1hNHctnuG5O74TamlCXKKY"
+    },
+    {
+      "added_at": "2026-06-18 22:01:02",
+      "album": {
         "name": "Zusammen sind wir doppelt stark-Unser Freundschaftsalbum",
         "url": "https://open.spotify.com/album/6VDjPoe7YZFBNkCntEfkQS"
       },
@@ -971,22 +971,26 @@
     {
       "added_at": "2026-06-18 22:01:02",
       "album": {
-        "name": "Unter meinem Bett. Best Of",
-        "url": "https://open.spotify.com/album/0ZoJBNLDmWT30GQU1IWOiz"
+        "name": "Mango, Kiwi, Banana",
+        "url": "https://open.spotify.com/album/6avDE4P9mCFoERV1V4P8ee"
       },
       "artists": [
         {
-          "name": "Laing",
-          "url": "https://open.spotify.com/artist/6adqlX5PUDStRu3XYBG9wC"
+          "name": "Schnabi Schnabel",
+          "url": "https://open.spotify.com/artist/3GxW2mmzRySZHcA0RUk8d8"
         },
         {
-          "name": "Unter meinem Bett",
-          "url": "https://open.spotify.com/artist/7y89sMv0ADqEMEOo2tOIM7"
+          "name": "Kinderlieder Gang",
+          "url": "https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E"
+        },
+        {
+          "name": "Rubi",
+          "url": "https://open.spotify.com/artist/5XVoKjahTqSezqRa5ZNWbu"
         }
       ],
-      "duration_ms": 191400,
-      "name": "M\u00fccken nerven Leute",
-      "url": "https://open.spotify.com/track/5Aq5Crilz4fRTC48ItbU0w"
+      "duration_ms": 142105,
+      "name": "Mango, Kiwi, Banana",
+      "url": "https://open.spotify.com/track/7iO0PzhMSXYlqinwJpEBP6"
     }
   ],
   "unique_name": "Familienzeit: Sommer",

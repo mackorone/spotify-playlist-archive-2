@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajXYAAAAAAAy+pWEmD6UhjmgYngKmuFs",
+  "snapshot_id": "ajcpgAAAAADJE+Aagsx/c6JoursK3n2v",
   "tracks": [
     {
       "added_at": null,
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 206911,
-      "name": "Deadweight",
-      "url": "https://open.spotify.com/track/1yHHdccml15ElmkDsXOYLW"
+      "duration_ms": 192014,
+      "name": "Broken By Design",
+      "url": "https://open.spotify.com/track/0nW3s3rXOwR21EcR6FWVnm"
     },
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 192014,
-      "name": "Broken By Design",
-      "url": "https://open.spotify.com/track/0nW3s3rXOwR21EcR6FWVnm"
+      "duration_ms": 206911,
+      "name": "Deadweight",
+      "url": "https://open.spotify.com/track/1yHHdccml15ElmkDsXOYLW"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 130972,
-      "name": "Meet Me In St. Louis",
-      "url": "https://open.spotify.com/track/40I5U24KYHNKMkRf4jXZ9D"
+      "duration_ms": 166336,
+      "name": "White Elephant",
+      "url": "https://open.spotify.com/track/4Oq6yOs0L5Dfa7f3pxkQfq"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 166336,
-      "name": "White Elephant",
-      "url": "https://open.spotify.com/track/4Oq6yOs0L5Dfa7f3pxkQfq"
+      "duration_ms": 130972,
+      "name": "Meet Me In St. Louis",
+      "url": "https://open.spotify.com/track/40I5U24KYHNKMkRf4jXZ9D"
     },
     {
       "added_at": null,

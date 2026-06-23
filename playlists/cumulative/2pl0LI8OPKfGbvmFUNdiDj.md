@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-510 songs - 1 day 4 hr 50 min
+511 songs - 1 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Feelings](https://open.spotify.com/track/2u6Qy7B4heQkPZVuMt3L40) | [Xellay](https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR) | [Feelings](https://open.spotify.com/album/6fvAeDQnOGcP2PQqnKAZeB) | 4:04 | 2025-11-02 | 2025-12-01 |
 | [Fendi Flexin Freestyle](https://open.spotify.com/track/50ECzBqkUMZTlj8dThgCyJ) | [Young.Fendi](https://open.spotify.com/artist/7J8NCqwzHIYJGVbxvTLB9E) | [Fendi Flexin Freestyle](https://open.spotify.com/album/7bO7qVHwTVAJiV0hBrkIvc) | 2:01 | 2025-12-25 | 2026-01-15 |
 | [Festivus Rocks!](https://open.spotify.com/track/4PW4OeLpaAVituvNzEH6J5) | [The Lollygags](https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t) | [Festivus Rocks!](https://open.spotify.com/album/5elQ75PyN8McdSGT9WdtcK) | 2:17 | 2025-12-20 | 2026-01-15 |
+| [Fire Inside](https://open.spotify.com/track/3DN7E1MWHnDDxMwTvlxbPp) | [Grand Sorceress](https://open.spotify.com/artist/0B35u5LdVAY9pqHu5AZbQ3) | [Fire Inside](https://open.spotify.com/album/76Suw9nI9Mz9IJxjNVATLg) | 3:47 | 2026-06-22 |  |
 | [fm25\-brokenheart](https://open.spotify.com/track/7LEy7uZTkYTsIAxSbtkWGp) | [reul gg](https://open.spotify.com/artist/3nYdys8G6JBrefwLjv6WL3) | [fm25\-brokenheart](https://open.spotify.com/album/2hvwtQ14JcGXMykF0ObLqm) | 2:19 | 2025-11-22 | 2026-01-05 |
 | [Follow](https://open.spotify.com/track/3Hld2nGje5pWk66c3GAWOj) | [Vance](https://open.spotify.com/artist/11LpEjg6drv4G1kBItUSn6) | [Follow](https://open.spotify.com/album/6SvROxW4ZNQRkhesEl8lI9) | 3:58 | 2026-05-26 |  |
 | [Fool Me Once](https://open.spotify.com/track/0FQfOZAX6qhCQuXWKN34ts) | [Sean Blu](https://open.spotify.com/artist/5G0irBhjyBtG6hfg6fuBgx) | [Fool Me Once](https://open.spotify.com/album/0j9QcJzHJAB6e2CC689lKO) | 2:45 | 2026-02-08 | 2026-04-14 |

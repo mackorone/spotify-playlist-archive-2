@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring jigitz
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,121 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,100 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 38 | [mind be so numb](https://open.spotify.com/track/3ePwGn599lcCF9Hxpfw7Iw) | [u.r.trax](https://open.spotify.com/artist/5bGQtNvk4LrSUTZGzBiZq5), [BEA1991](https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z) | [mind be so numb](https://open.spotify.com/album/4fiywhfAwezkakYPcsMdAg) | 3:15 |
 | 39 | [Teach You Desire](https://open.spotify.com/track/2i2BaQHXCWNFzDqxcyZVE0) | [IDEMI](https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT) | [Teach You Desire](https://open.spotify.com/album/7Ff17FqI9Nl0uIueRWJwWM) | 3:30 |
 | 40 | [lights down](https://open.spotify.com/track/4KTaWPfYVAL8AGgpCNlP7o) | [sim0ne](https://open.spotify.com/artist/68sBUNLfzCGR5n2nImhFCV) | [lights down](https://open.spotify.com/album/188ncwzxIXWvcr8eLWWP66) | 3:13 |
-| 41 | [Everything For You](https://open.spotify.com/track/0qox46l3lrHNQHvazjSjYJ) | [Khamsin](https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren), [purpl](https://open.spotify.com/artist/0qLq938YLoXapahHpnzVSO) | [Everything For You](https://open.spotify.com/album/58ZrfiPUYFvExKFhG9zlym) | 1:56 |
+| 41 | [EVERYTHING FOR YOU](https://open.spotify.com/track/0qox46l3lrHNQHvazjSjYJ) | [Khamsin](https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren), [purpl](https://open.spotify.com/artist/0qLq938YLoXapahHpnzVSO) | [EVERYTHING FOR YOU](https://open.spotify.com/album/58ZrfiPUYFvExKFhG9zlym) | 1:56 |
 | 42 | [Fail\-safe](https://open.spotify.com/track/6xD86PPhXcZQrgiTyhNAzW) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Fail\-safe](https://open.spotify.com/album/3D2s2eiAPhTFCJGVj5ZbEt) | 3:27 |
 | 43 | [letting go](https://open.spotify.com/track/4SHXlYMs4w5REZXRSFG9bj) | [Bypass Music](https://open.spotify.com/artist/5LD8MmPEUqN4OIzWWrFUNI), [stereo seven](https://open.spotify.com/artist/113qzvCtu9RQVHO5FtwTWK) | [letting go](https://open.spotify.com/album/6a1mPGm1qjOHaL13pPQ2zO) | 1:55 |
 | 44 | [SKYLINE](https://open.spotify.com/track/05Ce3PPdmyJR7HjdzMpSMn) | [vi0let](https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q) | [SKYLINE](https://open.spotify.com/album/1sA1OSqtWxiEtKHsuBWcnh) | 2:59 |

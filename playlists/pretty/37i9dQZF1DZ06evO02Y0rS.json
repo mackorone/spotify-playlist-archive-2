@@ -1,12 +1,12 @@
 {
   "description": "This is Bonobo. The essential tracks, all in one playlist.",
-  "num_followers": 163701,
+  "num_followers": 163705,
   "original_name": "This Is Bonobo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajXYAAAAAABjP962P0wfP3iXtMkdJIxW",
+  "snapshot_id": "ajcpgAAAAAD5B9dEIT/Jh4u0toPiapL+",
   "tracks": [
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 322373,
-      "name": "Noctuary",
-      "url": "https://open.spotify.com/track/1sVPnm3MQqQGaCUH1OO8NV"
+      "duration_ms": 284280,
+      "name": "Flutter",
+      "url": "https://open.spotify.com/track/5K8WNrf5JvmBE6O0MbSRuJ"
     },
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 284280,
-      "name": "Flutter",
-      "url": "https://open.spotify.com/track/5K8WNrf5JvmBE6O0MbSRuJ"
+      "duration_ms": 322373,
+      "name": "Noctuary",
+      "url": "https://open.spotify.com/track/1sVPnm3MQqQGaCUH1OO8NV"
     },
     {
       "added_at": null,

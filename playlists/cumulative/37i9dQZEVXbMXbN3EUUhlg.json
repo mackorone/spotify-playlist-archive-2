@@ -5240,7 +5240,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 156536,
       "name": "Bebe, Beija e Trai - Ao Vivo",
       "url": "https://open.spotify.com/track/1yJYseCZJYRHZkl1DJ3tLs"
@@ -6774,7 +6774,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-22",
+      "date_removed": null,
       "duration_ms": 191816,
       "name": "Caipira Eu Sou - Ao Vivo",
       "url": "https://open.spotify.com/track/5v3DpF5hScySAMwZGIS5oy"
@@ -9000,7 +9000,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 135050,
       "name": "Criado Com V\u00f3 - Naiara 15 - Ao Vivo em S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/0dHNOjnwe22V4XD0kehHkY"
@@ -17251,6 +17251,28 @@
     },
     {
       "album": {
+        "name": "Hipnotiza",
+        "url": "https://open.spotify.com/album/5STRX5pctUIuJJZ4eVFSNS"
+      },
+      "artists": [
+        {
+          "name": "Diggo",
+          "url": "https://open.spotify.com/artist/05OVRDpkoBtLlLOOsieTiu"
+        },
+        {
+          "name": "L\u00e9o Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124125,
+      "name": "Hipnotiza",
+      "url": "https://open.spotify.com/track/55PclCORPD6GpFEUva4MOX"
+    },
+    {
+      "album": {
         "name": "Impulso, Vol 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/40Xc6SkClmEJasKW4hfXIp"
       },
@@ -21610,7 +21632,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 177230,
       "name": "ME POSTOU NO DAILY - FESTA DO BIG G",
       "url": "https://open.spotify.com/track/4ukpXdplqDEMk3Fy2i30oI"
@@ -24990,7 +25012,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-21",
+      "date_removed": null,
       "duration_ms": 178896,
       "name": "Nessa idade",
       "url": "https://open.spotify.com/track/3Q6BDjIoF5lsKZ3eaEeIVm"
@@ -25092,7 +25114,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-12",
+      "date_removed": null,
       "duration_ms": 191402,
       "name": "No Mesmo Lugar",
       "url": "https://open.spotify.com/track/1mdW2ieN6VWyoIQxJIlzuT"
@@ -36956,10 +36978,28 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 129515,
       "name": "Texana 37",
       "url": "https://open.spotify.com/track/6D0SGjUVUmu8Fp2y1QsFIK"
+    },
+    {
+      "album": {
+        "name": "Texana 37",
+        "url": "https://open.spotify.com/album/23bWxqMFBmJmox2txSWc4C"
+      },
+      "artists": [
+        {
+          "name": "Bruno & Barretto",
+          "url": "https://open.spotify.com/artist/70x9rYb58QCNNeNxuO3StS"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129515,
+      "name": "Texana 37",
+      "url": "https://open.spotify.com/track/72KzypkTLmEyOz3xWuAurD"
     },
     {
       "album": {
@@ -39878,7 +39918,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 156571,
       "name": "Vale a Pena Ouvir de Novo - Do Nosso Model\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/7nb27TERfCb0YsZIjteSg0"

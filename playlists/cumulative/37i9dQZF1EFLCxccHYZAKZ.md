@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1fdoOFDGMefVqwAm1QFj8D">Natali Noor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-40 songs - 2 hr 3 min
+41 songs - 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Avalanche](https://open.spotify.com/track/7iYuUOOv1knNy9SFF1PdQj) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/1Ehf6Qpd3skQE5P8yV6U6l) | 3:08 | 2022-05-29 | 2026-06-14 |
 | [body in my bed](https://open.spotify.com/track/35A0hbUL2Ey3mG2TbMHo0t) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [new skin](https://open.spotify.com/album/2b0dLMRLdninQEdHJpwTiA) | 3:23 | 2022-05-29 | 2022-10-14 |
 | [body in my bed](https://open.spotify.com/track/6fZv7ZDeC4pvtcbonRKqhN) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [new skin](https://open.spotify.com/album/79IXyvIKV3yo80B9fpLCux) | 3:23 | 2022-10-13 |  |
-| [Boiling \(feat\. Natali Noor\)](https://open.spotify.com/track/05gFzegb6BktSf5irqDcyT) | [Klahr](https://open.spotify.com/artist/3OITAuZNhf2Z9DySHJsCKD), [Galavant](https://open.spotify.com/artist/7CsSec3NzFx2UipwF1APhu), [Natali Noor](https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k) | [Boiling \(feat\. Natali Noor\)](https://open.spotify.com/album/3UF5pFIUg2oNNIkkekPEik) | 3:39 | 2022-05-29 |  |
+| [Boiling](https://open.spotify.com/track/6cREddoDOOEyQ9G9UtEZsu) | [Klahr](https://open.spotify.com/artist/3OITAuZNhf2Z9DySHJsCKD), [Galavant](https://open.spotify.com/artist/7CsSec3NzFx2UipwF1APhu), [Natali Noor](https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k) | [Boiling](https://open.spotify.com/album/0LHNCSfPE6drXlNNMSMzbN) | 3:39 | 2026-06-22 |  |
+| [Boiling \(feat\. Natali Noor\)](https://open.spotify.com/track/05gFzegb6BktSf5irqDcyT) | [Klahr](https://open.spotify.com/artist/3OITAuZNhf2Z9DySHJsCKD), [Galavant](https://open.spotify.com/artist/7CsSec3NzFx2UipwF1APhu), [Natali Noor](https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k) | [Boiling \(feat\. Natali Noor\)](https://open.spotify.com/album/3UF5pFIUg2oNNIkkekPEik) | 3:39 | 2022-05-29 | 2026-06-23 |
 | [Bother Me](https://open.spotify.com/track/08vsue6MN8pSTrroi4IhFx) | [Johnning](https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN) | [Bother Me](https://open.spotify.com/album/1iNpleGrkaShoSW2VLJt7C) | 3:03 | 2022-05-29 |  |
 | [Cold Rush](https://open.spotify.com/track/0sfbJ6Eeq70PNGk4Rm8ns7) | [GOLDZBROUGH](https://open.spotify.com/artist/6vEDfcV5oesdmJzfTlidkz), [Bahareh](https://open.spotify.com/artist/3RbRHpD8ELMTsuEWGsUbiy) | [Cold Rush](https://open.spotify.com/album/2AVOS3JCamykZmbs5uQTUF) | 2:57 | 2022-05-29 |  |
 | [Dance For Me](https://open.spotify.com/track/73l6SThNBdr2f48TD9lzeN) | [Josh Charm](https://open.spotify.com/artist/0LXZQiNCmHoNhMgJqPu1Va) | [Dance For Me](https://open.spotify.com/album/0FNbpjAfQWgejuAlKTapB1) | 3:14 | 2022-05-29 |  |

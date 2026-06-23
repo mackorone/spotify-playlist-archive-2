@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "Weekly new Hardstyle releases! Cover: Rebelion",
+  "description": "Weekly new Hardstyle releases! Cover: Da Tweekaz & The Straikerz",
   "name": "Hardstyle Adrenaline! 2026",
   "tracks": [
     {
@@ -412,6 +412,24 @@
       "duration_ms": 181161,
       "name": "A New World",
       "url": "https://open.spotify.com/track/5UVg7Gy65RNmQYOErbfaoe"
+    },
+    {
+      "album": {
+        "name": "A Thousand Years",
+        "url": "https://open.spotify.com/album/1BdEeKu1QwHrrikFShyAIb"
+      },
+      "artists": [
+        {
+          "name": "Ran-D",
+          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222817,
+      "name": "A Thousand Years",
+      "url": "https://open.spotify.com/track/6aIUXMntfKupgvs552qTTZ"
     },
     {
       "album": {
@@ -1069,6 +1087,28 @@
     },
     {
       "album": {
+        "name": "Higher Rush / All I Am EP",
+        "url": "https://open.spotify.com/album/3HqGF6XAhKUQjPI46TRoEW"
+      },
+      "artists": [
+        {
+          "name": "Primeshock",
+          "url": "https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS"
+        },
+        {
+          "name": "Cryex",
+          "url": "https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201750,
+      "name": "All I Am",
+      "url": "https://open.spotify.com/track/7paqDj5KUo47My3t8latkt"
+    },
+    {
+      "album": {
         "name": "All I Knew",
         "url": "https://open.spotify.com/album/4rrfKTtiFbbvXIFLlyJq5g"
       },
@@ -1646,7 +1686,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 192000,
       "name": "ANOTHER LIFE",
       "url": "https://open.spotify.com/track/6Ycl3huROyAnlj0j8BxRpl"
@@ -3044,7 +3084,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 264774,
       "name": "Be As One 2026",
       "url": "https://open.spotify.com/track/6Nul0V5WAECN7iFkX9ZlkG"
@@ -4834,7 +4874,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 187875,
       "name": "BRAWL",
       "url": "https://open.spotify.com/track/0Ikm3H6NEVepAA4VOYGYK1"
@@ -5112,7 +5152,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 162000,
       "name": "Break The Glass",
       "url": "https://open.spotify.com/track/498d8omv6wdsU8oQejxxaP"
@@ -5762,7 +5802,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 181406,
       "name": "Bury The Light",
       "url": "https://open.spotify.com/track/3QrLj4qa97I0r88TweXNSh"
@@ -7993,6 +8033,28 @@
     },
     {
       "album": {
+        "name": "DANCE PARTY!!!",
+        "url": "https://open.spotify.com/album/4PIx716Ii2uR1Nc0qsiW86"
+      },
+      "artists": [
+        {
+          "name": "Aversion",
+          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
+        },
+        {
+          "name": "BIG K",
+          "url": "https://open.spotify.com/artist/0d4oiq8AJ2lIlrFQRIBheS"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150191,
+      "name": "DANCE PARTY!!!",
+      "url": "https://open.spotify.com/track/0u9mB9ZKIqxnIKYw53DhYY"
+    },
+    {
+      "album": {
         "name": "Dance With Madness",
         "url": "https://open.spotify.com/album/680NS3MXD6XGRIqulckpeM"
       },
@@ -8008,6 +8070,28 @@
       "duration_ms": 241545,
       "name": "Dance With Madness",
       "url": "https://open.spotify.com/track/2IwzdVJnPs4sptS1wkfya3"
+    },
+    {
+      "album": {
+        "name": "Dancefloor Therapy",
+        "url": "https://open.spotify.com/album/2bvGkojLp4MAJhELCXiGYG"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "The Straikerz",
+          "url": "https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217336,
+      "name": "Dancefloor Therapy",
+      "url": "https://open.spotify.com/track/2Rxxb0DSSJPNPrnfpwU8tS"
     },
     {
       "album": {
@@ -8362,6 +8446,28 @@
       "duration_ms": 193645,
       "name": "Das Model",
       "url": "https://open.spotify.com/track/3P6T1kh7Ejet4U3OWnZhZQ"
+    },
+    {
+      "album": {
+        "name": "Data Corrupted",
+        "url": "https://open.spotify.com/album/2yyPlGLHjaWi5Dv1JO9G4H"
+      },
+      "artists": [
+        {
+          "name": "Radical Redemption",
+          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
+        },
+        {
+          "name": "Kruelty",
+          "url": "https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Data Corrupted",
+      "url": "https://open.spotify.com/track/4jA66zbGyEIOO7axqn4kSM"
     },
     {
       "album": {
@@ -8866,7 +8972,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 220687,
       "name": "DESTINED RIVALS - Midnight Mafia 2026 Anthem",
       "url": "https://open.spotify.com/track/0b5PNMotEnTkyckhURcohg"
@@ -11530,7 +11636,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 146491,
       "name": "Everywhere",
       "url": "https://open.spotify.com/track/35ZplGhBvOxmbGTDqdPcYp"
@@ -12828,7 +12934,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 122369,
       "name": "Fierro Pariente",
       "url": "https://open.spotify.com/track/60lpBGsV2rE8m4f4RHm6xD"
@@ -14960,7 +15066,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 162580,
       "name": "Good Feeling",
       "url": "https://open.spotify.com/track/1d8lzlVNqR6kcYCnsfeaHC"
@@ -17486,7 +17592,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 153750,
       "name": "I GOT IT",
       "url": "https://open.spotify.com/track/2Mrkb19VjBQggUjI3qDSy6"
@@ -20117,6 +20223,32 @@
     },
     {
       "album": {
+        "name": "KISS KISS",
+        "url": "https://open.spotify.com/album/7za4IpRqRV01MzylcAOr9f"
+      },
+      "artists": [
+        {
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+        },
+        {
+          "name": "GPF",
+          "url": "https://open.spotify.com/artist/4OoHneMX97SjUXKWgsyrP4"
+        },
+        {
+          "name": "Dr Donk",
+          "url": "https://open.spotify.com/artist/0NirwTOv2qvuXsNNZkDPNu"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "KISS KISS",
+      "url": "https://open.spotify.com/track/6yNiOEUBCWNGUCX12bKqds"
+    },
+    {
+      "album": {
         "name": "Kiss Kiss Bang",
         "url": "https://open.spotify.com/album/3WdMedDrbNcQKShxzhfK29"
       },
@@ -20538,7 +20670,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 159873,
       "name": "Last One Standing",
       "url": "https://open.spotify.com/track/5WC4z1NQWkLlNXRFbgbBLr"
@@ -22690,6 +22822,24 @@
       "duration_ms": 290199,
       "name": "LOVE THE WAY",
       "url": "https://open.spotify.com/track/5xPXUK6x8cWrL5xsqJv9eF"
+    },
+    {
+      "album": {
+        "name": "Love Tomorrow",
+        "url": "https://open.spotify.com/album/0xIk3YDGYXEjS1CvLdwjYU"
+      },
+      "artists": [
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171870,
+      "name": "Love Tomorrow",
+      "url": "https://open.spotify.com/track/5zqiwIlzkNTMr7pAZwAx6m"
     },
     {
       "album": {
@@ -25322,7 +25472,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 205500,
       "name": "Never Give Up - Act of Rage Remix",
       "url": "https://open.spotify.com/track/7EYjcf8oLmcT0HYRUHNyRX"
@@ -27472,6 +27622,28 @@
       "duration_ms": 184503,
       "name": "ORIGINAL FLOW",
       "url": "https://open.spotify.com/track/46mX200sRU5nGSxACY4w5N"
+    },
+    {
+      "album": {
+        "name": "Original Gangsters (Raw and Mean)",
+        "url": "https://open.spotify.com/album/2hBvheC2SO5MjQqOU3APG4"
+      },
+      "artists": [
+        {
+          "name": "Adaro",
+          "url": "https://open.spotify.com/artist/05ndiewdJogtosuRWN8iwF"
+        },
+        {
+          "name": "Unresolved",
+          "url": "https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259464,
+      "name": "Original Gangsters (Raw and Mean)",
+      "url": "https://open.spotify.com/track/4r2wHr2mPcB1DJuo749dhh"
     },
     {
       "album": {
@@ -30882,7 +31054,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 129750,
       "name": "Renegade Master",
       "url": "https://open.spotify.com/track/1O14Ntpd6CE1cZ9NmNvD5x"
@@ -31578,6 +31750,32 @@
       "duration_ms": 225750,
       "name": "Rise Of The Fallen",
       "url": "https://open.spotify.com/track/0sDNyRJtGw7bNm3IgokpmF"
+    },
+    {
+      "album": {
+        "name": "Rise Of The Titans",
+        "url": "https://open.spotify.com/album/1Mrju0ge7SwMwo5lK5rjdJ"
+      },
+      "artists": [
+        {
+          "name": "Clockartz",
+          "url": "https://open.spotify.com/artist/7GVB7uYTgkeYtLJxYMYYDp"
+        },
+        {
+          "name": "Sogma",
+          "url": "https://open.spotify.com/artist/1aQ5RklusunvA9N3kqbbJA"
+        },
+        {
+          "name": "CODA",
+          "url": "https://open.spotify.com/artist/1KT6ReUJlpsbGOptScmzDP"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230874,
+      "name": "Rise Of The Titans",
+      "url": "https://open.spotify.com/track/1z9QNRzH1A0S9QLRvekdDS"
     },
     {
       "album": {
@@ -39628,7 +39826,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 174171,
       "name": "Too Loud",
       "url": "https://open.spotify.com/track/3z4l6jsU2yLc7S0YIvyU4i"
@@ -41529,6 +41727,32 @@
     },
     {
       "album": {
+        "name": "Waiting 4",
+        "url": "https://open.spotify.com/album/7dsCiVsIdLVpjaIig6X0sN"
+      },
+      "artists": [
+        {
+          "name": "4444 OF A KIND",
+          "url": "https://open.spotify.com/artist/69aOmjpvxqUDUaZUvuw6Di"
+        },
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        },
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224516,
+      "name": "Waiting 4",
+      "url": "https://open.spotify.com/track/0BUnzynrao4zAwwB0i3sWQ"
+    },
+    {
+      "album": {
         "name": "Wake Me Up",
         "url": "https://open.spotify.com/album/5uz4VdtMGQ93JoMkc8Ezij"
       },
@@ -41588,7 +41812,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 181890,
       "name": "Walls Of Fever",
       "url": "https://open.spotify.com/track/197RYZU2sJ8wMmgP5zUCCP"
@@ -43071,6 +43295,24 @@
     },
     {
       "album": {
+        "name": "When You\u2019re Gone",
+        "url": "https://open.spotify.com/album/5GgQfoLvbTHqcd5I7M8Y3z"
+      },
+      "artists": [
+        {
+          "name": "Galactixx",
+          "url": "https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152293,
+      "name": "When You\u2019re Gone",
+      "url": "https://open.spotify.com/track/0RC6fZqJiHWqTgwS5YfqBn"
+    },
+    {
+      "album": {
         "name": "WHERE DID YOU GO",
         "url": "https://open.spotify.com/album/6omkRAcLFb68qKKfskT6gq"
       },
@@ -43352,6 +43594,28 @@
       "duration_ms": 184080,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/66DxZUxAFaCmTwkbTfBoDV"
+    },
+    {
+      "album": {
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/2M0UASTXCsOnhW9oNuQgpB"
+      },
+      "artists": [
+        {
+          "name": "Digital Punk",
+          "url": "https://open.spotify.com/artist/3GAHYVHU0HppTq2qgzejcv"
+        },
+        {
+          "name": "E-Force",
+          "url": "https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248525,
+      "name": "Who I Am",
+      "url": "https://open.spotify.com/track/4KkBmMGNe25NHTrBDN3H5w"
     },
     {
       "album": {
@@ -43764,6 +44028,24 @@
       "duration_ms": 235200,
       "name": "WKND!",
       "url": "https://open.spotify.com/track/76e9eoJxKRoQhutO5CvDqX"
+    },
+    {
+      "album": {
+        "name": "Wolf City Anthem",
+        "url": "https://open.spotify.com/album/0ZJuVo40fdaJgewKExLxuI"
+      },
+      "artists": [
+        {
+          "name": "Hysta",
+          "url": "https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163459,
+      "name": "Wolf City Anthem",
+      "url": "https://open.spotify.com/track/2mdYEQ3bt8FaYOqgduO9rF"
     },
     {
       "album": {
@@ -44736,6 +45018,24 @@
       "duration_ms": 174169,
       "name": "Zyzzbrah - Wild Angel Remix",
       "url": "https://open.spotify.com/track/481IUBPpXiTWn8G9Mm52bK"
+    },
+    {
+      "album": {
+        "name": "\u00a1MADRID!",
+        "url": "https://open.spotify.com/album/5wXYqTahMMg8kfr00iBjUH"
+      },
+      "artists": [
+        {
+          "name": "Frontliner",
+          "url": "https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225717,
+      "name": "\u00a1MADRID!",
+      "url": "https://open.spotify.com/track/17FcR4miD9JH4vpg7VyxIR"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7NhGf24haor"

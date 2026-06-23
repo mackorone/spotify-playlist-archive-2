@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: BROCKHOFF
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,839 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,836 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 13 | [Ozempic & Pilates](https://open.spotify.com/track/384j1jLowG025SHIpRNwLD) | [AYCA](https://open.spotify.com/artist/1TTuqb5JjZomJNoG2nyjYr) | [Ozempic & Pilates](https://open.spotify.com/album/3kXweZiPGmfPL783hcx6Wf) | 1:51 |
 | 14 | [Sharks](https://open.spotify.com/track/1raKZiQRXg9SGZNhfakiOd) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Sharks](https://open.spotify.com/album/4MxJJYvCOlCWuijbd9pp6B) | 2:48 |
 | 15 | [tief](https://open.spotify.com/track/1lrJdYH1peRMrRpHTEoM6H) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [tief](https://open.spotify.com/album/5q9jI0shsu9ZVPbOHcDGbg) | 3:01 |
-| 16 | [Wieso](https://open.spotify.com/track/5EVTMTPMNTyKQg55hVOhqF) | [Magda](https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup) | [Wieso](https://open.spotify.com/album/6K1nYULYod3v6ffOKwp5ei) | 3:45 |
-| 17 | [Wasser zu Wein](https://open.spotify.com/track/6NXVKXBPnT5hMpcFJSf69v) | [Julia Meladin](https://open.spotify.com/artist/26N7IKzjFJ57y84GdXBd4A) | [Wasser zu Wein](https://open.spotify.com/album/0sgnRaWO4gGEMa0IvHYKKO) | 2:38 |
+| 16 | [Wasser zu Wein](https://open.spotify.com/track/6NXVKXBPnT5hMpcFJSf69v) | [Julia Meladin](https://open.spotify.com/artist/26N7IKzjFJ57y84GdXBd4A) | [Wasser zu Wein](https://open.spotify.com/album/0sgnRaWO4gGEMa0IvHYKKO) | 2:38 |
+| 17 | [Wieso](https://open.spotify.com/track/5EVTMTPMNTyKQg55hVOhqF) | [Magda](https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup) | [Wieso](https://open.spotify.com/album/6K1nYULYod3v6ffOKwp5ei) | 3:45 |
 | 18 | [sweat](https://open.spotify.com/track/2JIgWVEv6LVmYJlmpLAwlU) | [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [sweat](https://open.spotify.com/album/6KqdZh2q1SVJVXj8zl1IYx) | 2:22 |
 | 19 | [Kein Schlaf](https://open.spotify.com/track/0ir69oQMkmI4lVG1WbFDjD) | [Lilli](https://open.spotify.com/artist/0EdqMUSITvHwlyAc5SwPcK) | [Kein Schlaf](https://open.spotify.com/album/0ZeogoFDzxA5RofVsYxOOd) | 2:54 |
 | 20 | [2015](https://open.spotify.com/track/7zC8YOfVCC2e7kmlfB9zOI) | [Mieze](https://open.spotify.com/artist/7M4NzPON3JqwE3GRfdg7eU) | [2015](https://open.spotify.com/album/77CV9vMRQjWMLc7yTB3Rlr) | 2:48 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 23 | [Clearing Up](https://open.spotify.com/track/1myngwB46MFlfvFsH3Pxmb) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Clearing Up](https://open.spotify.com/album/27c9Gmx0vjHxeRtdDWK8Wa) | 3:08 |
 | 24 | [Keinen Mann](https://open.spotify.com/track/4mV3ZcdxZ5b3PlLSdZ1Vai) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Keinen Mann](https://open.spotify.com/album/0wEqD5eJYMo8HF8RbsCnDn) | 2:20 |
 | 25 | [Oxytocin](https://open.spotify.com/track/0UZpoYY7M8YNaaEryw2WmY) | [Mine](https://open.spotify.com/artist/2jmpnuwn52LqrQASBlyQGJ), [LIONSTORM](https://open.spotify.com/artist/2R674rphXQgJ2v2TXHydvV) | [Oxytocin](https://open.spotify.com/album/5JTpJr7p20iDusqqEOq0Xl) | 2:55 |
-| 26 | [KNAX](https://open.spotify.com/track/1hJ6EJdAsQkseks0eJBwCo) | [Wa22ermann](https://open.spotify.com/artist/6WJVluElmUFNEsOl7TPX8X) | [KNAX](https://open.spotify.com/album/11Hx2CxzFxCTEcKNC8Iusx) | 2:42 |
-| 27 | [Boogiepop Blitzkrieg Blob](https://open.spotify.com/track/6XvkIu9TeTEV2dzT89Be5m) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [Boogiepop Blitzkrieg Blob](https://open.spotify.com/album/18EEaZHJFCpZ14Eqx04lyC) | 1:40 |
+| 26 | [Boogiepop Blitzkrieg Blob](https://open.spotify.com/track/6XvkIu9TeTEV2dzT89Be5m) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [Boogiepop Blitzkrieg Blob](https://open.spotify.com/album/18EEaZHJFCpZ14Eqx04lyC) | 1:40 |
+| 27 | [KNAX](https://open.spotify.com/track/1hJ6EJdAsQkseks0eJBwCo) | [Wa22ermann](https://open.spotify.com/artist/6WJVluElmUFNEsOl7TPX8X) | [KNAX](https://open.spotify.com/album/11Hx2CxzFxCTEcKNC8Iusx) | 2:42 |
 | 28 | [zähl die tage](https://open.spotify.com/track/5ffzHtIJ8RmWHzPjViNW9d) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [es ist okay, dass du fühlst](https://open.spotify.com/album/78Ck6zxHmG4I07KDPj1LTn) | 2:58 |
 | 29 | [Whatever](https://open.spotify.com/track/3wUqbA1hc4bu2R0KiM0TTi) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Whatever](https://open.spotify.com/album/1BaR0QSNMtVK3mn0fIyDlt) | 2:48 |
 | 30 | [Whenever You Want](https://open.spotify.com/track/4D6MO8L8XMosduqGD8zA5D) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [I've Stopped Getting Chills For A While Now](https://open.spotify.com/album/7GjlQUFZz3eK3rhBFJKwer) | 3:59 |

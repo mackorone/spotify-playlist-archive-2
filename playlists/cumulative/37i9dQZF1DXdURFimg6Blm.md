@@ -4,7 +4,7 @@
 
 > Boost your energy with these dance tracks.
 
-768 songs - 1 day 14 hr 11 min
+769 songs - 1 day 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -458,7 +458,7 @@
 | [Mind Games](https://open.spotify.com/track/0eKOn3pMNfyrG2FvJNkbcc) | [Discip](https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT) | [Mind Games](https://open.spotify.com/album/5jdVZUJ0zD7e0pJmueEtEw) | 3:33 | 2026-03-13 | 2026-03-21 |
 | [Miracle Maker](https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Miracle Maker](https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU) | 3:08 | 2022-07-29 | 2024-03-16 |
 | [Miss You](https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Miss You](https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4) | 3:26 | 2022-10-28 | 2025-01-30 |
-| [MISS YOU](https://open.spotify.com/track/6uOVLKQbGwhjLVL6Gcbt8S) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx) | [MISS YOU](https://open.spotify.com/album/7h3hcYLTSN45Xt666UXQxr) | 2:08 | 2026-05-22 |  |
+| [MISS YOU](https://open.spotify.com/track/6uOVLKQbGwhjLVL6Gcbt8S) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx) | [MISS YOU](https://open.spotify.com/album/7h3hcYLTSN45Xt666UXQxr) | 2:08 | 2026-05-22 | 2026-06-23 |
 | [Mistakes](https://open.spotify.com/track/0RvQLK3wSHhRuC55sjxeSQ) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Mistakes](https://open.spotify.com/album/3U16S348ETHW0DTPeM9Pp0) | 2:33 | 2022-01-28 | 2022-07-29 |
 | [Mixed Emotions](https://open.spotify.com/track/0q6ppTEMn4KiqpHJbutH4V) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Mixed Emotions](https://open.spotify.com/album/1kTl2ygZj7mfXPSJwoVpaD) | 3:44 | 2022-07-22 | 2022-08-27 |
 | [Money On My Mind](https://open.spotify.com/track/0SCZoOyU9qkPZXIk7YmENI) | [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Money On My Mind](https://open.spotify.com/album/0RhMHX5LDrs97f0jt4qmKn) | 2:06 | 2022-01-07 | 2022-07-29 |
@@ -760,6 +760,7 @@
 | [Won’t Let You Go](https://open.spotify.com/track/5UZA39t4lX42ApegVubl7f) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Won’t Let You Go](https://open.spotify.com/album/4QxfiUo90NEmUnyNHE1x8h) | 3:37 | 2022-01-07 | 2022-03-12 |
 | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6) | 2:22 | 2022-04-29 | 2024-09-14 |
 | [Work Hard, Play Hard](https://open.spotify.com/track/0DFRRAMkEtkJ3nQUuYn5RS) | [Rino](https://open.spotify.com/artist/2dEmGZwc9RpOUnd1LGn7h5), [AZINZA](https://open.spotify.com/artist/4EC7n10Rzc519hpiAVliOm) | [Work Hard, Play Hard](https://open.spotify.com/album/4ZNbwLcnHrsmtzTOyjdtKw) | 2:53 | 2022-05-06 | 2022-05-14 |
+| [Work It Out](https://open.spotify.com/track/45FTnF7YPwGWFebjG8AmGO) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Work It Out](https://open.spotify.com/album/2J1EDRiGKwyK9ghGji2gCS) | 3:44 | 2026-06-19 |  |
 | [Work Your Body](https://open.spotify.com/track/2eUZAef6lJ9hBvw7XeExDf) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Work Your Body](https://open.spotify.com/album/1OlYbgVXWSq1LtM1S7VWii) | 3:06 | 2026-05-15 |  |
 | [World & Back \(feat\. Riko Dan\)](https://open.spotify.com/track/5LkWl4o5BrKqnf7Zms4D0u) | [Linska](https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y) | [World & Back \(feat\. Riko Dan\)](https://open.spotify.com/album/3VUsBW3tT4QzsItJSDVL5n) | 2:59 | 2026-04-17 | 2026-06-03 |
 | [Worlds On Fire \(with R3HAB & Au/Ra\)](https://open.spotify.com/track/7grzdNt3eQRiBC70GksRp1) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Worlds On Fire \(with R3HAB & Au/Ra\)](https://open.spotify.com/album/6rf8izsIwMcZKfXcBMbcL5) | 2:54 | 2022-07-29 | 2023-04-22 |

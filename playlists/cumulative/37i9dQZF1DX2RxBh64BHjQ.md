@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:0LGKNkqCNnflIi35z00rGu">PayGotti</a>
 
-2,906 songs - 5 day 7 hr 43 min
+2,907 songs - 5 day 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1713,6 +1713,7 @@
 | [Never End Up Broke](https://open.spotify.com/track/05DZcUyOZDX4OR2mc1RIrg) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay) | [Never End Up Broke](https://open.spotify.com/album/540ZUOz3g4xw4mokGA0R4K) | 2:42 | 2022-07-01 | 2022-07-30 |
 | [Never End Up Broke Pt\. 2 \(feat\. Pusha T\)](https://open.spotify.com/track/3pPpHxBDoEqEcP4NyPp1iT) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Never End Up Broke Pt\. 2 \(feat\. Pusha T\)](https://open.spotify.com/album/6gVgQxn4oG3WXmcLhK4sBX) | 2:42 | 2022-08-12 | 2022-09-03 |
 | [Never Fail \(with Benny The Butcher\)](https://open.spotify.com/track/0myEYpzyBetSo4tgKs7oUx) | [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Never Fail \(with Benny The Butcher\)](https://open.spotify.com/album/4U7gKEk4Q7fdNPTdhobpRq) | 3:20 | 2021-11-19 | 2022-02-05 |
+| [Never Gon Home](https://open.spotify.com/track/0VW0nsfl9lyVVjB7HuUUON) | [Pz'](https://open.spotify.com/artist/1lLUEzsrrtS8LRMtg5xTGT) | [No Turning Back](https://open.spotify.com/album/6oIBwTH7nRFbIOtbewYEAO) | 2:00 | 2026-06-22 |  |
 | [Never Gon' End](https://open.spotify.com/track/2NYzTjbXL17B1ulwQSIi6P) | [DeeBaby](https://open.spotify.com/artist/6jxLcPfLvVwcz7bmzOWwwE) | [Junkie Mode](https://open.spotify.com/album/1Q9ZaQpLOmVAhq2bHhOp03) | 3:43 | 2023-07-21 | 2023-10-28 |
 | [Never Leave Her \(feat\. Jacquees\)](https://open.spotify.com/track/3i9k5M8xkZZ7LFAeMZBT4m) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Pretty Girls Love Toosii](https://open.spotify.com/album/68Bd8NriH6kXs9oedITPkq) | 2:54 | 2021-12-03 | 2022-03-05 |
 | [Never Left](https://open.spotify.com/track/3yIGvi7hOzo3oAQpw609Ks) | [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8) | [Never Left](https://open.spotify.com/album/2XbNfo84Nbvvv50NPubTvg) | 2:04 | 2023-05-19 | 2023-07-08 |

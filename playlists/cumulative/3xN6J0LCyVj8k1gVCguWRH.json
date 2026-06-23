@@ -2952,7 +2952,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 156470,
       "name": "Adicta",
       "url": "https://open.spotify.com/track/3rNtWU18TEbnD85QtejTED"
@@ -3174,7 +3174,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 220666,
       "name": "After Three",
       "url": "https://open.spotify.com/track/3vE4sOecQ3T92gkAANR9za"
@@ -20600,6 +20600,24 @@
       "duration_ms": 177062,
       "name": "Como Tu Me Gustas",
       "url": "https://open.spotify.com/track/7qAL36qVx8eKywSy10sDVy"
+    },
+    {
+      "album": {
+        "name": "Como una Avalancha",
+        "url": "https://open.spotify.com/album/7okwmxLuedUR7voEu3A07a"
+      },
+      "artists": [
+        {
+          "name": "Mercee",
+          "url": "https://open.spotify.com/artist/43XYW7dEnlB8qXeQafi9zm"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240994,
+      "name": "Como una Avalancha",
+      "url": "https://open.spotify.com/track/2bPkQPUqWZjoZS9PZFBitN"
     },
     {
       "album": {
@@ -42948,7 +42966,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 168583,
       "name": "He Only Calls When I'm Healing",
       "url": "https://open.spotify.com/track/7pZhD16w8YwHL7ih6iYTBU"
@@ -46798,7 +46816,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 220539,
       "name": "I Can't Do This Forever",
       "url": "https://open.spotify.com/track/3gn7hhS1ZgOObQa8gWN4M7"
@@ -60172,7 +60190,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 237988,
       "name": "Lost and Found",
       "url": "https://open.spotify.com/track/162UE0PRhiElUBdUSPZc49"
@@ -66275,6 +66293,28 @@
     },
     {
       "album": {
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/6esWZqKyIwBoOvv4uzDmgg"
+      },
+      "artists": [
+        {
+          "name": ".multibeat",
+          "url": "https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj"
+        },
+        {
+          "name": "vAn",
+          "url": "https://open.spotify.com/artist/31zEC5Veeh3aoNFfiv1poC"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224138,
+      "name": "Monochrome",
+      "url": "https://open.spotify.com/track/1CfJKW0JwwlJ5QVIunDbJ9"
+    },
+    {
+      "album": {
         "name": "ANGER",
         "url": "https://open.spotify.com/album/0q82a7Y4VGcqIr9QHzomuk"
       },
@@ -68412,7 +68452,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 205714,
       "name": "My Love to Keep",
       "url": "https://open.spotify.com/track/0cZGqMUhNgBreljSY3CyaP"
@@ -73964,7 +74004,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 260625,
       "name": "One",
       "url": "https://open.spotify.com/track/10BhD6jyAt3oAv5qda6JVV"
@@ -86048,7 +86088,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 190213,
       "name": "Santa Rosa Sky",
       "url": "https://open.spotify.com/track/4Wkh5YDAFUsyLaU0DHHFhY"
@@ -103608,7 +103648,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 181239,
       "name": "To Be Sexy",
       "url": "https://open.spotify.com/track/50Q1ca2b4zv6IgF3l4itQD"
@@ -108907,6 +108947,32 @@
     },
     {
       "album": {
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189893,
+      "name": "WAIT FOR U (feat. Drake & Tems)",
+      "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
+    },
+    {
+      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/03rtWpd4EqoC5wzPh8f6km"
       },
@@ -113192,7 +113258,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 249066,
       "name": "Who You Wit",
       "url": "https://open.spotify.com/track/1dfgE8LvBZkkoxBP0POcER"

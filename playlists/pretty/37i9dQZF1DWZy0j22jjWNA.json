@@ -1,6 +1,6 @@
 {
   "description": "New morning mercies. \u2600\ufe0f",
-  "num_followers": 123563,
+  "num_followers": 123578,
   "original_name": "GOoD Morning",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-04-17 07:08:56",
       "album": {
-        "name": "You Shine",
-        "url": "https://open.spotify.com/album/72jFirpOEYhHfEPNC0kpQt"
-      },
-      "artists": [
-        {
-          "name": "The Young Escape",
-          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
-        }
-      ],
-      "duration_ms": 204255,
-      "name": "You Shine",
-      "url": "https://open.spotify.com/track/7xErthsNR0N0Q6jCfTrgF0"
-    },
-    {
-      "added_at": "2026-04-17 07:08:56",
-      "album": {
         "name": "Rise My Soul, The Lord Is Risen",
         "url": "https://open.spotify.com/album/6k2NpIoDbowre3D5Tloqyl"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 200415,
       "name": "Rise My Soul, The Lord Is Risen",
       "url": "https://open.spotify.com/track/4Em8WBJZ7OA1v78ueipM1q"
+    },
+    {
+      "added_at": "2026-04-17 07:08:56",
+      "album": {
+        "name": "You Shine",
+        "url": "https://open.spotify.com/album/72jFirpOEYhHfEPNC0kpQt"
+      },
+      "artists": [
+        {
+          "name": "The Young Escape",
+          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
+        }
+      ],
+      "duration_ms": 204255,
+      "name": "You Shine",
+      "url": "https://open.spotify.com/track/7xErthsNR0N0Q6jCfTrgF0"
     },
     {
       "added_at": "2026-04-17 07:08:56",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-04-17 07:08:56",
       "album": {
-        "name": "The Morning",
-        "url": "https://open.spotify.com/album/4sP4BjciIheSSBEGwDpG2q"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 179244,
-      "name": "The Morning",
-      "url": "https://open.spotify.com/track/33BC4dasTbw4awRdBOlP5z"
-    },
-    {
-      "added_at": "2026-04-17 07:08:56",
-      "album": {
         "name": "Not The Same",
         "url": "https://open.spotify.com/album/0VFPdgc6mUfCNXSkvGqs0p"
       },
@@ -735,18 +719,18 @@
     {
       "added_at": "2026-04-17 07:08:56",
       "album": {
-        "name": "Note To Self",
-        "url": "https://open.spotify.com/album/4Yj28bUARn3tih4X7zrdaw"
+        "name": "The Morning",
+        "url": "https://open.spotify.com/album/4sP4BjciIheSSBEGwDpG2q"
       },
       "artists": [
         {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
         }
       ],
-      "duration_ms": 172217,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/4QvchxEDRzAosUOkZzJGI6"
+      "duration_ms": 179244,
+      "name": "The Morning",
+      "url": "https://open.spotify.com/track/33BC4dasTbw4awRdBOlP5z"
     },
     {
       "added_at": "2026-04-17 07:08:56",
@@ -763,6 +747,22 @@
       "duration_ms": 227234,
       "name": "Beautiful Day (House of the Lord)",
       "url": "https://open.spotify.com/track/3Ox0AN8KFVec5GqUz0c2Vh"
+    },
+    {
+      "added_at": "2026-04-17 07:08:56",
+      "album": {
+        "name": "Note To Self",
+        "url": "https://open.spotify.com/album/4Yj28bUARn3tih4X7zrdaw"
+      },
+      "artists": [
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "duration_ms": 172217,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/4QvchxEDRzAosUOkZzJGI6"
     },
     {
       "added_at": "2026-04-17 07:08:56",
@@ -943,6 +943,26 @@
     {
       "added_at": "2026-04-17 07:08:56",
       "album": {
+        "name": "THIS IS THE DAY",
+        "url": "https://open.spotify.com/album/7KKCTcSzQTJMlmeP0C43T7"
+      },
+      "artists": [
+        {
+          "name": "Vintage Worship",
+          "url": "https://open.spotify.com/artist/0qUuZVm9ly1AlsuZyYMQwp"
+        },
+        {
+          "name": "Joshua Seller",
+          "url": "https://open.spotify.com/artist/0hMcMrkgNgJC7oO82fZsli"
+        }
+      ],
+      "duration_ms": 224081,
+      "name": "THIS IS THE DAY",
+      "url": "https://open.spotify.com/track/15ZHJggxSsnjk3CbQH0SCd"
+    },
+    {
+      "added_at": "2026-04-17 07:08:56",
+      "album": {
         "name": "GOOD THING",
         "url": "https://open.spotify.com/album/0WTOcneeZqfL5RwvmiBAo7"
       },
@@ -975,26 +995,6 @@
       "duration_ms": 196862,
       "name": "So Blessed",
       "url": "https://open.spotify.com/track/316ezycEDNS7M5AGWt1YAr"
-    },
-    {
-      "added_at": "2026-04-17 07:08:56",
-      "album": {
-        "name": "THIS IS THE DAY",
-        "url": "https://open.spotify.com/album/7KKCTcSzQTJMlmeP0C43T7"
-      },
-      "artists": [
-        {
-          "name": "Vintage Worship",
-          "url": "https://open.spotify.com/artist/0qUuZVm9ly1AlsuZyYMQwp"
-        },
-        {
-          "name": "Joshua Seller",
-          "url": "https://open.spotify.com/artist/0hMcMrkgNgJC7oO82fZsli"
-        }
-      ],
-      "duration_ms": 224081,
-      "name": "THIS IS THE DAY",
-      "url": "https://open.spotify.com/track/15ZHJggxSsnjk3CbQH0SCd"
     },
     {
       "added_at": "2026-04-17 07:08:56",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-04-17 07:08:56",
       "album": {
-        "name": "Good Morning",
-        "url": "https://open.spotify.com/album/40zAAE7p64axGUzonpLVc3"
-      },
-      "artists": [
-        {
-          "name": "Dillon Chase",
-          "url": "https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8"
-        }
-      ],
-      "duration_ms": 214615,
-      "name": "Good Morning",
-      "url": "https://open.spotify.com/track/6mNzOxAo1XXonb5JVrH8su"
-    },
-    {
-      "added_at": "2026-04-17 07:08:56",
-      "album": {
         "name": "Sunday Morning",
         "url": "https://open.spotify.com/album/2H6J9gtIWRPJkBwqAq97z6"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 139801,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/0meZ1wG8nZT8Yw7edBonju"
+    },
+    {
+      "added_at": "2026-04-17 07:08:56",
+      "album": {
+        "name": "Good Morning",
+        "url": "https://open.spotify.com/album/40zAAE7p64axGUzonpLVc3"
+      },
+      "artists": [
+        {
+          "name": "Dillon Chase",
+          "url": "https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8"
+        }
+      ],
+      "duration_ms": 214615,
+      "name": "Good Morning",
+      "url": "https://open.spotify.com/track/6mNzOxAo1XXonb5JVrH8su"
     },
     {
       "added_at": "2026-04-17 07:08:56",

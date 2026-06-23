@@ -1,6 +1,6 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 38010,
+  "num_followers": 38012,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
@@ -155,6 +155,22 @@
     {
       "added_at": "2026-06-10 09:54:00",
       "album": {
+        "name": "Kaarte Nibaar",
+        "url": "https://open.spotify.com/album/0HNnUBVc98sYEzDMBnwVxJ"
+      },
+      "artists": [
+        {
+          "name": "SAMBATA",
+          "url": "https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO"
+        }
+      ],
+      "duration_ms": 183066,
+      "name": "Kaarte Nibaar",
+      "url": "https://open.spotify.com/track/3u3CjdwU5kCT5JIWctnSfW"
+    },
+    {
+      "added_at": "2026-06-10 09:54:00",
+      "album": {
         "name": "Majhi Baay Go",
         "url": "https://open.spotify.com/album/1uzFocZ3RIryCFbCzNiXVD"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 268242,
       "name": "Majhi Baay Go",
       "url": "https://open.spotify.com/track/2l4MIKaU0kB4UjjCfuq2X0"
-    },
-    {
-      "added_at": "2026-06-10 09:54:00",
-      "album": {
-        "name": "Kaarte Nibaar",
-        "url": "https://open.spotify.com/album/0HNnUBVc98sYEzDMBnwVxJ"
-      },
-      "artists": [
-        {
-          "name": "SAMBATA",
-          "url": "https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO"
-        }
-      ],
-      "duration_ms": 183066,
-      "name": "Kaarte Nibaar",
-      "url": "https://open.spotify.com/track/3u3CjdwU5kCT5JIWctnSfW"
     },
     {
       "added_at": "2026-06-10 09:54:00",
@@ -243,6 +243,26 @@
     {
       "added_at": "2026-06-10 09:54:00",
       "album": {
+        "name": "Angaat Aalaya - Zombivli",
+        "url": "https://open.spotify.com/album/5GJgMooWCCoTVFJ4TOyIkx"
+      },
+      "artists": [
+        {
+          "name": "Rohan Pradhan",
+          "url": "https://open.spotify.com/artist/5OvvUIcEWpnKuP0F3HoRce"
+        },
+        {
+          "name": "Rohan Rohan",
+          "url": "https://open.spotify.com/artist/6wnx3CHIWmuaOWubIXn6UE"
+        }
+      ],
+      "duration_ms": 226008,
+      "name": "Angaat Aalaya",
+      "url": "https://open.spotify.com/track/3CdyqQCvlKJLVr9II5XIDT"
+    },
+    {
+      "added_at": "2026-06-10 09:54:00",
+      "album": {
         "name": "Kajwa",
         "url": "https://open.spotify.com/album/0agxxXxuHkbRoic1f6uYC0"
       },
@@ -267,26 +287,6 @@
       "duration_ms": 249622,
       "name": "Kajwa",
       "url": "https://open.spotify.com/track/7yW1U21NXBawQB8fdlE0vx"
-    },
-    {
-      "added_at": "2026-06-10 09:54:00",
-      "album": {
-        "name": "Angaat Aalaya - Zombivli",
-        "url": "https://open.spotify.com/album/5GJgMooWCCoTVFJ4TOyIkx"
-      },
-      "artists": [
-        {
-          "name": "Rohan Pradhan",
-          "url": "https://open.spotify.com/artist/5OvvUIcEWpnKuP0F3HoRce"
-        },
-        {
-          "name": "Rohan Rohan",
-          "url": "https://open.spotify.com/artist/6wnx3CHIWmuaOWubIXn6UE"
-        }
-      ],
-      "duration_ms": 226008,
-      "name": "Angaat Aalaya",
-      "url": "https://open.spotify.com/track/3CdyqQCvlKJLVr9II5XIDT"
     },
     {
       "added_at": "2026-06-10 09:54:00",

@@ -6,7 +6,7 @@
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAVPN3QGbWNbNtu2sh5WVxHIgonZi8V",
+  "snapshot_id": "AAAVPlEGzVmpz7dJxMqfiCSEYyDv+Tej",
   "tracks": [
     {
       "added_at": "2026-06-09 08:21:56",
@@ -3119,6 +3119,38 @@
       "duration_ms": 158879,
       "name": "Se parti\u00f3 en dos",
       "url": "https://open.spotify.com/track/11wp2EhxKh7EXVhSPOVyVl"
+    },
+    {
+      "added_at": "2026-06-22 07:20:57",
+      "album": {
+        "name": "My Private World Of Darkness",
+        "url": "https://open.spotify.com/album/1LAHkhsFyD6e88puBAb5Z3"
+      },
+      "artists": [
+        {
+          "name": "Purple Microdot",
+          "url": "https://open.spotify.com/artist/7a8uvG9bm2pkf2BeVpJiB4"
+        }
+      ],
+      "duration_ms": 145376,
+      "name": "My Private World Of Darkness",
+      "url": "https://open.spotify.com/track/1qY6aiE9gPwb0ty748kGip"
+    },
+    {
+      "added_at": "2026-06-22 07:20:58",
+      "album": {
+        "name": "The Algorithm",
+        "url": "https://open.spotify.com/album/4TRPXfGwYOtQtdy0JpmGkk"
+      },
+      "artists": [
+        {
+          "name": "Jason Waroff",
+          "url": "https://open.spotify.com/artist/1tAoX2x3TC1kp4eIewKZ77"
+        }
+      ],
+      "duration_ms": 131561,
+      "name": "The Algorithm",
+      "url": "https://open.spotify.com/track/6371cuqZyoz1FLvNDwgxmB"
     }
   ],
   "unique_name": "New Indie Music",

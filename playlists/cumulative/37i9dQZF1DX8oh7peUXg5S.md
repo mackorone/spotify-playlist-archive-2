@@ -4,7 +4,7 @@
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Joaquín Sabina.
 
-415 songs - 1 day 2 hr 22 min
+416 songs - 1 day 2 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Las Cosas Que Importan](https://open.spotify.com/track/7wMI2biNviwKOMqK53OEzu) | [Hirahi Afonso](https://open.spotify.com/artist/5mh519bztRWlB587VIHYlh), [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c) | [LO PURO](https://open.spotify.com/album/0FSNoh3jzgyMrFT5oYfWP6) | 3:34 | 2023-10-12 | 2023-12-15 |
 | [Las Cuatro y Diez](https://open.spotify.com/track/4Z8DiiAJsMFppYOf0yJSAT) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Auterretratos](https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv) | 2:37 | 2022-06-09 |  |
 | [Le pasa solo al resto](https://open.spotify.com/track/16hphSypwXfQdaK2T4jqEz) | [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [La calma](https://open.spotify.com/album/1T2jfF6ytBufPN9dUDlM0A) | 3:54 | 2026-02-05 | 2026-05-15 |
+| [Libertad Sin Ira](https://open.spotify.com/track/5WpP4Mbh0C5agPEhXfWNlH) | [Jarcha](https://open.spotify.com/artist/0pn5zYhJgLYiNzprprYfjm) | [Lo Mejor de Jarcha](https://open.spotify.com/album/4A2kC4Hx8VBzJHNoevK9PY) | 3:43 | 2026-06-18 |  |
 | [Libre te quiero](https://open.spotify.com/track/2fBCjtFq4Xzue65sCFxAof) | [Amancio Prada](https://open.spotify.com/artist/2zzdcDYrrZE11oQ4xo2Ufr) | [Canciones de amor y celda](https://open.spotify.com/album/6Jpai5ZKz0dAXOukKeFqro) | 3:21 | 2022-06-09 | 2022-07-25 |
 | [Lila Alelí](https://open.spotify.com/track/1pv8kjnd68qQt0dM22reqP) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Lila Alelí](https://open.spotify.com/album/2if5JlMd0QhkF93PKGashv) | 3:25 | 2025-06-27 | 2025-09-19 |
 | [Llegas tú](https://open.spotify.com/track/7cr1yg8r6ELife74riXE9W) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Llegas tú](https://open.spotify.com/album/1Yl5dq5EX3iweirK4qub8c) | 2:40 | 2024-07-31 | 2024-10-06 |
@@ -322,7 +323,7 @@
 | [Qué Bello Es Vivir](https://open.spotify.com/track/2CD5TesE5cPyhWxXxz3qIE) | [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Lo Mal Que Estoy y Lo Poco Que Me Quejo](https://open.spotify.com/album/7auuEfoSwTUYponi3cKCuG) | 3:58 | 2022-06-09 | 2022-09-23 |
 | [Qué bonito](https://open.spotify.com/track/20nWXGPfwZuvZfpK1CrF6t) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Qué bonito](https://open.spotify.com/album/6YFOEsBJhxOo2T05Y1eJLX) | 3:50 | 2022-06-09 |  |
 | [Razón de Vivir](https://open.spotify.com/track/2Ml4iJkY3EUbdO0knRn4aR) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz), [Victor Heredia](https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X), [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G), [Dakillah](https://open.spotify.com/artist/4SzAEZqVVfHO0El8eDu9KJ), [Daniela Heredia](https://open.spotify.com/artist/5yTKxJlxMhyYGaUC9TQNlo) | [Razón de Vivir](https://open.spotify.com/album/7BewtSiQFc2G8bKOe1kuSj) | 5:11 | 2023-06-29 | 2023-12-15 |
-| [Risk](https://open.spotify.com/track/3gTsuB2I7dLjzPGCfugXQg) | [Tontxu](https://open.spotify.com/artist/04mKUV0wDVvsJ4vWcecdaO) | [Se Vende](https://open.spotify.com/album/7MQWHDDwwFhUW0tZ0XZbp6) | 3:57 | 2022-06-09 |  |
+| [Risk](https://open.spotify.com/track/3gTsuB2I7dLjzPGCfugXQg) | [Tontxu](https://open.spotify.com/artist/04mKUV0wDVvsJ4vWcecdaO) | [Se Vende](https://open.spotify.com/album/7MQWHDDwwFhUW0tZ0XZbp6) | 3:57 | 2022-06-09 | 2026-06-23 |
 | [Ropa de amor](https://open.spotify.com/track/1zB9jg73XJpkSLoiJEkyDW) | [Julio Bustamante](https://open.spotify.com/artist/17uCNrAYiTCTSsXfVEJANA), [Anna Franco](https://open.spotify.com/artist/3MwQeBBFChB0mcwDsvlsaU) | [Moriana](https://open.spotify.com/album/1f7IwlNepJ5uCGzkeMKFnJ) | 3:35 | 2022-12-22 | 2023-01-28 |
 | [Ruego](https://open.spotify.com/track/1UBSaHHpwcWFJ20avaUC1g) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c) | [Ruego](https://open.spotify.com/album/4gmmqKd8zu7O02ZmCk0g3o) | 3:40 | 2022-06-09 | 2022-07-26 |
 | [Rugío de Sentir](https://open.spotify.com/track/1ecpwSch9muxwUF5BmOHQs) | [Paco Pecado](https://open.spotify.com/artist/2vXDokvgkQ25O1FOPxQhSp) | [Rugío de Sentir](https://open.spotify.com/album/0bexrNYTuhcoEbDjBUUuZm) | 3:23 | 2026-06-18 |  |

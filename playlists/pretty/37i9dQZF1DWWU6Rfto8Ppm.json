@@ -1,6 +1,6 @@
 {
   "description": "Reggaet\u00f3n de antes y de siempre en compa\u00f1\u00eda de Plan B.",
-  "num_followers": 3999072,
+  "num_followers": 3999465,
   "original_name": "Reggaet\u00f3n Viejito",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-05-13 18:21:10",
       "album": {
-        "name": "Masterpiece: Nuestra Obra Maestra",
-        "url": "https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE"
-      },
-      "artists": [
-        {
-          "name": "R.K.M & Ken-Y",
-          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
-        }
-      ],
-      "duration_ms": 196360,
-      "name": "Me Matas",
-      "url": "https://open.spotify.com/track/5mVcyopMGY8dSpN1ZyaBUD"
-    },
-    {
-      "added_at": "2026-05-13 18:21:10",
-      "album": {
         "name": "Casa De Leones",
         "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 246080,
       "name": "Shorty",
       "url": "https://open.spotify.com/track/7d05Cx72W1WsWUw7MAD7ia"
+    },
+    {
+      "added_at": "2026-05-13 18:21:10",
+      "album": {
+        "name": "Masterpiece: Nuestra Obra Maestra",
+        "url": "https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE"
+      },
+      "artists": [
+        {
+          "name": "R.K.M & Ken-Y",
+          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
+        }
+      ],
+      "duration_ms": 196360,
+      "name": "Me Matas",
+      "url": "https://open.spotify.com/track/5mVcyopMGY8dSpN1ZyaBUD"
     },
     {
       "added_at": "2026-05-13 18:21:10",
@@ -1407,30 +1407,6 @@
     {
       "added_at": "2026-05-13 18:21:10",
       "album": {
-        "name": "El Movimiento: The Mixtape",
-        "url": "https://open.spotify.com/album/2ouuoBa8BHjrwj68lftlaZ"
-      },
-      "artists": [
-        {
-          "name": "J Alvarez",
-          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
-        },
-        {
-          "name": "Jory Boy",
-          "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
-        },
-        {
-          "name": "\u00d1ejo & Dalmata",
-          "url": "https://open.spotify.com/artist/1ykothWH0xl8drRyJWuw7I"
-        }
-      ],
-      "duration_ms": 276573,
-      "name": "Deja",
-      "url": "https://open.spotify.com/track/1uLAKESXylbYIK2tSMh7XT"
-    },
-    {
-      "added_at": "2026-05-13 18:21:10",
-      "album": {
         "name": "12 Discipulos",
         "url": "https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w"
       },
@@ -1479,26 +1455,42 @@
     {
       "added_at": "2026-05-13 18:21:10",
       "album": {
-        "name": "The Last",
-        "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
+        "name": "El Movimiento: The Mixtape",
+        "url": "https://open.spotify.com/album/2ouuoBa8BHjrwj68lftlaZ"
       },
       "artists": [
         {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
         },
         {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+          "name": "Jory Boy",
+          "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
         },
         {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+          "name": "\u00d1ejo & Dalmata",
+          "url": "https://open.spotify.com/artist/1ykothWH0xl8drRyJWuw7I"
         }
       ],
-      "duration_ms": 218080,
-      "name": "All Up 2 You (feat. Akon, Wisin & Yandel)",
-      "url": "https://open.spotify.com/track/48FsqSKpgoZZFr6aS1IDK5"
+      "duration_ms": 276573,
+      "name": "Deja",
+      "url": "https://open.spotify.com/track/1uLAKESXylbYIK2tSMh7XT"
+    },
+    {
+      "added_at": "2026-05-13 18:21:10",
+      "album": {
+        "name": "Plan Calle",
+        "url": "https://open.spotify.com/album/7ku5AqOktQG9t6GsSE0BL8"
+      },
+      "artists": [
+        {
+          "name": "Latin Fresh",
+          "url": "https://open.spotify.com/artist/1NRrKr08wLdYUdSOnNDs7M"
+        }
+      ],
+      "duration_ms": 208840,
+      "name": "Bata Bata 2",
+      "url": "https://open.spotify.com/track/1N1KlnNm1NE4INLOrKN3fi"
     },
     {
       "added_at": "2026-05-13 18:21:10",
@@ -1527,22 +1519,6 @@
     {
       "added_at": "2026-05-13 18:21:10",
       "album": {
-        "name": "Plan Calle",
-        "url": "https://open.spotify.com/album/7ku5AqOktQG9t6GsSE0BL8"
-      },
-      "artists": [
-        {
-          "name": "Latin Fresh",
-          "url": "https://open.spotify.com/artist/1NRrKr08wLdYUdSOnNDs7M"
-        }
-      ],
-      "duration_ms": 208840,
-      "name": "Bata Bata 2",
-      "url": "https://open.spotify.com/track/1N1KlnNm1NE4INLOrKN3fi"
-    },
-    {
-      "added_at": "2026-05-13 18:21:10",
-      "album": {
         "name": "La Familia",
         "url": "https://open.spotify.com/album/0eaYHx42IseJf6jfxKi2Nr"
       },
@@ -1555,6 +1531,30 @@
       "duration_ms": 199933,
       "name": "Tranquila",
       "url": "https://open.spotify.com/track/6klAm7Z2oR2FM7lozc7agF"
+    },
+    {
+      "added_at": "2026-05-13 18:21:10",
+      "album": {
+        "name": "The Last",
+        "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 218080,
+      "name": "All Up 2 You (feat. Akon, Wisin & Yandel)",
+      "url": "https://open.spotify.com/track/48FsqSKpgoZZFr6aS1IDK5"
     },
     {
       "added_at": "2026-05-13 18:21:10",
@@ -2127,6 +2127,22 @@
     {
       "added_at": "2026-05-13 18:21:10",
       "album": {
+        "name": "The Bad Boy (The Most Wanted Edition)",
+        "url": "https://open.spotify.com/album/4wucK3TtoeQPDQO0UVY0eS"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor \"El Father\"",
+          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
+        }
+      ],
+      "duration_ms": 173506,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/3bNRq6LJ3n1lp1A7qrrWK6"
+    },
+    {
+      "added_at": "2026-05-13 18:21:10",
+      "album": {
         "name": "La Pelicula",
         "url": "https://open.spotify.com/album/6EAn7VG0UE83hUkzrUMBME"
       },
@@ -2143,22 +2159,6 @@
       "duration_ms": 204094,
       "name": "Nadie Sabe",
       "url": "https://open.spotify.com/track/5kGGEaHEzrtqC4UJr8LiVR"
-    },
-    {
-      "added_at": "2026-05-13 18:21:10",
-      "album": {
-        "name": "The Bad Boy (The Most Wanted Edition)",
-        "url": "https://open.spotify.com/album/4wucK3TtoeQPDQO0UVY0eS"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor \"El Father\"",
-          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
-        }
-      ],
-      "duration_ms": 173506,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/3bNRq6LJ3n1lp1A7qrrWK6"
     },
     {
       "added_at": "2026-05-13 18:21:10",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2026-05-13 18:21:10",
       "album": {
-        "name": "In Business",
-        "url": "https://open.spotify.com/album/19fKTAQbJ8UodMP8tlxBZN"
-      },
-      "artists": [
-        {
-          "name": "Luigi 21 Plus",
-          "url": "https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v"
-        }
-      ],
-      "duration_ms": 208840,
-      "name": "Un Beso",
-      "url": "https://open.spotify.com/track/52W3DIwmJpaab0M2jMwHAc"
-    },
-    {
-      "added_at": "2026-05-13 18:21:10",
-      "album": {
         "name": "Broke & Famous",
         "url": "https://open.spotify.com/album/35ejmbRlV32Qng9jGF34ve"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 218386,
       "name": "Sexo En La Playa",
       "url": "https://open.spotify.com/track/7000lIDeQQURNIsLINOYZo"
+    },
+    {
+      "added_at": "2026-05-13 18:21:10",
+      "album": {
+        "name": "In Business",
+        "url": "https://open.spotify.com/album/19fKTAQbJ8UodMP8tlxBZN"
+      },
+      "artists": [
+        {
+          "name": "Luigi 21 Plus",
+          "url": "https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v"
+        }
+      ],
+      "duration_ms": 208840,
+      "name": "Un Beso",
+      "url": "https://open.spotify.com/track/52W3DIwmJpaab0M2jMwHAc"
     },
     {
       "added_at": "2026-05-13 18:21:10",
@@ -2471,22 +2471,6 @@
     {
       "added_at": "2026-05-13 18:21:10",
       "album": {
-        "name": "El Movimiento: The Mixtape",
-        "url": "https://open.spotify.com/album/2ouuoBa8BHjrwj68lftlaZ"
-      },
-      "artists": [
-        {
-          "name": "J Alvarez",
-          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
-        }
-      ],
-      "duration_ms": 209120,
-      "name": "Ponte Pa Mi",
-      "url": "https://open.spotify.com/track/4NCLHXgKBCuFAf6m20sFKj"
-    },
-    {
-      "added_at": "2026-05-13 18:21:10",
-      "album": {
         "name": "Contra la Corriente",
         "url": "https://open.spotify.com/album/0Fwze3uCIDKHwOUFSeY8VY"
       },
@@ -2503,6 +2487,22 @@
       "duration_ms": 213577,
       "name": "Si Te Vas (feat. Kartiel)",
       "url": "https://open.spotify.com/track/2idYorcqrno522ANO7mDhY"
+    },
+    {
+      "added_at": "2026-05-13 18:21:10",
+      "album": {
+        "name": "El Movimiento: The Mixtape",
+        "url": "https://open.spotify.com/album/2ouuoBa8BHjrwj68lftlaZ"
+      },
+      "artists": [
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+        }
+      ],
+      "duration_ms": 209120,
+      "name": "Ponte Pa Mi",
+      "url": "https://open.spotify.com/track/4NCLHXgKBCuFAf6m20sFKj"
     },
     {
       "added_at": "2026-05-13 18:21:10",
@@ -3779,22 +3779,18 @@
     {
       "added_at": "2026-05-13 18:21:10",
       "album": {
-        "name": "Goldstar Music La Familia Reggaeton Hits",
-        "url": "https://open.spotify.com/album/4OapfRPzZGP0iphPp5byyk"
+        "name": "Reggaeton Diamond Collection",
+        "url": "https://open.spotify.com/album/3HD7DUUJXbxVd8q6Vujpri"
       },
       "artists": [
         {
-          "name": "H\u00e9ctor \"El Father\"",
-          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
-        },
-        {
-          "name": "Yomo",
-          "url": "https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg"
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         }
       ],
-      "duration_ms": 248406,
-      "name": "D\u00e9jale Caer To' El Peso (feat. Yomo)",
-      "url": "https://open.spotify.com/track/6eyrEbsUwKUPXNxv6FuCqv"
+      "duration_ms": 199367,
+      "name": "Yo No Soy Tu Marido",
+      "url": "https://open.spotify.com/track/10bbgurV9w05vJVGAX9jYq"
     }
   ],
   "unique_name": "Reggaet\u00f3n Viejito",

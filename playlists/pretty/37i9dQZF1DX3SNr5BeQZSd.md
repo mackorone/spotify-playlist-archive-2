@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 
 > the freshest lofi beats, handpicked for chill, focus, or study vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,234 likes - 100 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,257 likes - 100 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [In Bloom](https://open.spotify.com/track/54yTYPrDX7cPyIspzjR4b2) | [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA) | [In Bloom](https://open.spotify.com/album/7KjvjOt1PEBCnCNYiZeCfO) | 2:07 |
-| 2 | [Soft Focus](https://open.spotify.com/track/6o5FDM4W6OIybTjzdP9FIE) | [Youthology](https://open.spotify.com/artist/333R5FY9kU0xShruEP0BQM), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Soft Focus](https://open.spotify.com/album/08Ja9tIvHbJCBiPHtSb7MH) | 2:10 |
+| 2 | [Soft Focus](https://open.spotify.com/track/6o5FDM4W6OIybTjzdP9FIE) | [Youthology](https://open.spotify.com/artist/333R5FY9kU0xShruEP0BQM), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3) | [Soft Focus](https://open.spotify.com/album/08Ja9tIvHbJCBiPHtSb7MH) | 2:10 |
 | 3 | [Promise](https://open.spotify.com/track/7clmICpOL6Z9L2Bh7ikWo9) | [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q) | [Promise](https://open.spotify.com/album/4wpgHN3bW1gnQ6D2eHESDh) | 2:58 |
 | 4 | [Spring Morning](https://open.spotify.com/track/152whYz4SC2veSsexeZyIw) | [Akaona](https://open.spotify.com/artist/5hkbvpbAegFoUMdrS8QngH), [AC](https://open.spotify.com/artist/57wYqpfSos9R8uxfvfkMAG) | [Spring Morning](https://open.spotify.com/album/6y1M7xUp4ZCNZ5iBZbjiGE) | 1:54 |
 | 5 | [early flight](https://open.spotify.com/track/73MGiSus3uDs8IrE0ZZT6r) | [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [early flight](https://open.spotify.com/album/2riFJFQfRZkhBTW8hQCDXB) | 2:11 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 76 | [Skyward](https://open.spotify.com/track/4CN7MVWJlCmILOpPZJofgG) | [David Chief](https://open.spotify.com/artist/74MxkvPdj4ymZu9WZLxZZU), [Lotus Beats](https://open.spotify.com/artist/667RkTKDzJP6Hi3viSrkWI) | [Skyward](https://open.spotify.com/album/66B3RIxjdQ2lPdEF8Zu6rg) | 1:47 |
 | 77 | [Pages](https://open.spotify.com/track/7IDRN9WL35dfsZTiIaCd17) | [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9) | [Pages](https://open.spotify.com/album/3rW69ZSJiMLCzEK3CM5CWk) | 1:58 |
 | 78 | [Waning Glow](https://open.spotify.com/track/1Mpe795FO9J9eYskmyYOnZ) | [BD DISCOMUSIC](https://open.spotify.com/artist/45JhJcfiCjhNzMdmYsAHdq), [Akīn](https://open.spotify.com/artist/1KIGjwZj1Iojrjpf9FPrfS), [The Yume Collective](https://open.spotify.com/artist/7Kdl3c6JU2v41pmXkG31Q7) | [Waning Glow](https://open.spotify.com/album/0gZWCnwF1hIhclMngO5cRt) | 2:03 |
-| 79 | [Amanecer](https://open.spotify.com/track/5kEDbeor4TV8CiHchVP4tX) | [M e a d o w](https://open.spotify.com/artist/6kG4rnzy0AVEvZb7RGZtoy), [Noche](https://open.spotify.com/artist/3xB7gQn3CiHux1BM7fpWnN) | [días](https://open.spotify.com/album/5QNhhHRkCS0pICOfVm9dDC) | 2:25 |
+| 79 | [Amanecer](https://open.spotify.com/track/5kEDbeor4TV8CiHchVP4tX) | [M e a d o w](https://open.spotify.com/artist/6kG4rnzy0AVEvZb7RGZtoy), [nøche](https://open.spotify.com/artist/5GiZKaN7sa5ylr3MI104Zz) | [días](https://open.spotify.com/album/5QNhhHRkCS0pICOfVm9dDC) | 2:25 |
 | 80 | [Mahone Bay](https://open.spotify.com/track/2vbrq3aG9w6Uu4z1nirX9R) | [Brxvs](https://open.spotify.com/artist/3LoO7TNHi4wqe78tsBMMv5), [marsquake](https://open.spotify.com/artist/7JHsA8iL2mnUsAteuzehsb) | [Mahone Bay](https://open.spotify.com/album/5suTfgm5aMIMZNi1yhWaPW) | 2:28 |
 | 81 | [Halcyra](https://open.spotify.com/track/02eISOm0t8CO4MqQFYv2gN) | [yvwn.](https://open.spotify.com/artist/4nKqGQ0oFqlfBmXxiMPEO1) | [Halcyra](https://open.spotify.com/album/7yZIdweqdn6t2cAbRAUCNd) | 1:48 |
 | 82 | [Awakening](https://open.spotify.com/track/17CwEPAHes0NjgbLfZCt9s) | [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf), [very noise person](https://open.spotify.com/artist/1YAZ1Efx4AY14uJAfsBEDv) | [Awakening](https://open.spotify.com/album/4dD3GqdQ2WsfXsSWtjtp8s) | 1:57 |

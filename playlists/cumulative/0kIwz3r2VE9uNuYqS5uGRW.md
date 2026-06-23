@@ -4,7 +4,7 @@
 
 > 
 
-233 songs - 12 hr 9 min
+238 songs - 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,11 +29,14 @@
 | [Baila](https://open.spotify.com/track/1lLoW8BPXr9EK4s2L1Qwid) | [MG'](https://open.spotify.com/artist/24NUzfEiDv7O3XmfUWy8DH) | [Baila](https://open.spotify.com/album/0iWdERMMhVmphw8ioaIdtR) | 3:01 | 2025-08-26 |  |
 | [Balorda nostalgia](https://open.spotify.com/track/2K5ijyYylUoDEYMYxz5E95) | [Michele Blasco](https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW) | [Balorda nostalgia](https://open.spotify.com/album/4disZdaEkZIGag3qTJfiWV) | 3:15 | 2026-06-03 |  |
 | [BDE](https://open.spotify.com/track/6fdVOh7MmC69eCrX0XxO5M) | [Galaxy Sweat](https://open.spotify.com/artist/0PCn3ztGLidBzzK3FT4ezo) | [Galaxy Sweat](https://open.spotify.com/album/1JLWiiHlNzBpyAHeBv7Ugz) | 2:53 | 2025-09-22 |  |
+| [Believe in Me](https://open.spotify.com/track/3PW9C68cjN0FZVMsBjuYYy) | [TriniPrince](https://open.spotify.com/artist/6WPYob9LKVO2vFN2ZCZkZl) | [Believe in Me](https://open.spotify.com/album/40CUhO4l1bIl6sLoVgmHmb) | 1:52 | 2026-06-23 |  |
 | [Best Thing](https://open.spotify.com/track/3e5BwnOOms59dg70weqzpX) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o) | [Dancing Is Forbidden!](https://open.spotify.com/album/4oqkNK5zI7Q0JzBNy1TPMA) | 3:41 | 2026-06-03 |  |
 | [Better Just Relax](https://open.spotify.com/track/3IVYIsdtWlJ55ikYEZvDYa) | [Max King](https://open.spotify.com/artist/2pRzdE3d9WKYHEQFLsGXYR) | [Better Just Relax](https://open.spotify.com/album/27vTQbtzfTvs2LHSow67pY) | 1:44 | 2025-12-11 |  |
 | [Bittersweet](https://open.spotify.com/track/5jwi6uej7cKEXRKl5T5NJe) | [Raphaela](https://open.spotify.com/artist/4fpakQ8unqqBifmsszha5F) | [Bittersweet](https://open.spotify.com/album/5PpYInSPwb0qYYMFyCN0FL) | 2:31 | 2025-09-11 |  |
+| [Blue Light Special](https://open.spotify.com/track/6HRVlFltzuLK7rKBFhKVIA) | [CallMeWhoElse](https://open.spotify.com/artist/3sLFnlQ8XFsPNqZ2ly2cCo), [TeaYaMay](https://open.spotify.com/artist/3S2YNukhEwW4WgEGMu16Q5) | [Blue Light Special](https://open.spotify.com/album/0hUunqwS7iLOvOXirxsH8E) | 2:10 | 2026-06-22 |  |
 | [Buffet Froid](https://open.spotify.com/track/53S1EkSKU0xYaYuTLpkTkG) | [Ratel C](https://open.spotify.com/artist/2ZDIYXNX6XbJrIWGCaTLxc) | [Buffet Froid](https://open.spotify.com/album/2lqF0eFcb7yIw4LmZqTpwN) | 2:39 | 2026-04-07 |  |
 | [Can't Stop Loving You](https://open.spotify.com/track/2IxP7XlBTr1ytzNunInCHa) | [ARK IDENTITY](https://open.spotify.com/artist/569UPpViTfeKYYJRjggAz8) | [Can’t Stop Loving You](https://open.spotify.com/album/1YrnwVbQVVEFcwwVC6CYD0) | 4:37 | 2025-08-14 |  |
+| [Ce monde est sale](https://open.spotify.com/track/4mGlOdhgRBOtTZPHGXt6A4) | [Adanah](https://open.spotify.com/artist/6eG9vnRQdyCjQCfJnpC03N) | [SATURATION](https://open.spotify.com/album/2BQB5dXXMSsYAQKx0V8YMb) | 1:39 | 2026-06-22 |  |
 | [Childhood Dreams](https://open.spotify.com/track/2HeYiygBNdlYDOYGgtAS53) | [Mert Bays](https://open.spotify.com/artist/5O0EyfPKefwCPzKsE3S8pe) | [Another Day](https://open.spotify.com/album/3FwelO7DnW62pR886TxsVo) | 3:03 | 2025-04-10 |  |
 | [cicada](https://open.spotify.com/track/2BHGoDcPPJPBQemfknoxqF) | [Deadfilm](https://open.spotify.com/artist/5OwwZoJuwmHqi5O9p94A2E), [Riper](https://open.spotify.com/artist/3anPhsakd2B9tTl6tPdFbq) | [volverás a sonreir.](https://open.spotify.com/album/18sFjenWqRu3Fa9mGHMLhP) | 4:58 | 2026-03-19 |  |
 | [Clark Wiley](https://open.spotify.com/track/01CtaVwVYP0BP0vVEyMB8T) | [Bit Commander](https://open.spotify.com/artist/53aISfz35xV7ZbrD9vQBPF) | [Feral Child](https://open.spotify.com/album/1BNemdbTYPHl5gPVQJMwWq) | 2:56 | 2026-06-16 |  |
@@ -132,6 +135,7 @@
 | [Me Confundes](https://open.spotify.com/track/3p4zlX5oex6W0FhAWgl9gr) | [Draxess](https://open.spotify.com/artist/31eiTFPa3SmEug6EbLH3d3) | [Me Confundes](https://open.spotify.com/album/512JlbUPseSvuO0ZiKj9GR) | 2:04 | 2026-06-19 |  |
 | [Me Piden Reggaeton](https://open.spotify.com/track/3n6TRgeHQXEgx0PCL5GVWH) | [Big Puffah](https://open.spotify.com/artist/6N12UNHqDV4FRVELXkz6Tw) | [Me Piden Reggaeton](https://open.spotify.com/album/1GHvESbUF8VDfXEB71q8kH) | 2:37 | 2026-03-12 |  |
 | [MEET U AT THE TOP](https://open.spotify.com/track/1Fb3OYey2JClP5kKei8B7m) | [Whimzi](https://open.spotify.com/artist/7reGlLkLSVxJe3OUjyjqPh) | [THE CODE](https://open.spotify.com/album/1tPBYF7xveQtDPE9DJBqTe) | 2:28 | 2025-09-15 |  |
+| [Mi Mundo Sin Ti](https://open.spotify.com/track/7iYYjbHEyidencpPySu4Os) | [Jorge Trez](https://open.spotify.com/artist/1QblYNIinirun9slUCO1Gq) | [Mi Mundo Sin Ti](https://open.spotify.com/album/0Yjwg2KmcX9bJpjn7kp0Lf) | 2:16 | 2026-06-22 |  |
 | [Millaje \- Remix](https://open.spotify.com/track/0l6aneTXm37DhQQLzoYyEl) | [Morales](https://open.spotify.com/artist/1ZzjFl9TaQcLtzxOhStXg7), [ELUVE](https://open.spotify.com/artist/5vgkWhP4HQTncMrL5OhJd8), [Rensu](https://open.spotify.com/artist/3eQvPkkqBOguBhFsUqenHs) | [Millaje \(Remix\)](https://open.spotify.com/album/3i04HHpwa7fH6jtsu8Ysvc) | 3:00 | 2026-03-12 |  |
 | [Miradita](https://open.spotify.com/track/4df7p7ZKZs2FR33kgufL0O) | [GlakTka](https://open.spotify.com/artist/3cydtlH4cwJnMRKswWK7wb) | [Miradita](https://open.spotify.com/album/4OiJ0ugns2DqRAzLR4W487) | 1:18 | 2025-05-26 |  |
 | [Miss you](https://open.spotify.com/track/2iOZyY6QNKmivaA09P7r7k) | [Vizi](https://open.spotify.com/artist/3V1gOrbofuLiTrwPzZLp8g) | [Miss you](https://open.spotify.com/album/0NRBaZWZkEJ8uTOtc8XjBB) | 2:42 | 2025-04-14 |  |
@@ -206,6 +210,7 @@
 | [System](https://open.spotify.com/track/3ZheEm7LyyHT14Dw9RZxPH) | [Lucío](https://open.spotify.com/artist/1ekLFJV2uRyWkP1j5BIAGu) | [System](https://open.spotify.com/album/0siaSZy3DK0G7Oy19ze8rC) | 3:28 | 2026-01-06 |  |
 | [System Shock](https://open.spotify.com/track/30i9LhCnrEH1RUWs5b9exA) | [Complex C](https://open.spotify.com/artist/1kLsASVDGo2Qt8oQcQcQY8) | [System Shock](https://open.spotify.com/album/5fvf3AMyY6MLrNp3qq7hIM) | 2:54 | 2025-12-21 |  |
 | [talk](https://open.spotify.com/track/1d9xyrASfsD0edthqvHbpL) | [scrutch](https://open.spotify.com/artist/5ZgbUIDHqbDpf149oTHsaC) | [talk](https://open.spotify.com/album/6gVHNh3J56BQdaqO5cSCKF) | 3:36 | 2026-04-02 |  |
+| [Tell the Dark](https://open.spotify.com/track/6RnmaArOafxo6YfbKHtyIs) | [Zenpo Geri](https://open.spotify.com/artist/4F8DKNyaw1TfGLPA5CcQeo), [Ariana Celaeno](https://open.spotify.com/artist/3Igpr26HgdrjS1nf4ePyPX) | [Tell the Dark](https://open.spotify.com/album/5NRjQ5jjyOvF0tcnThR257) | 3:17 | 2026-06-22 |  |
 | [That One Girl](https://open.spotify.com/track/77uc3YwRFqWcTJX9GquTMw) | [Pablo Santana](https://open.spotify.com/artist/40g1dctGAaTqem3oED2j8l) | [That One Girl](https://open.spotify.com/album/0p9Ckyg7TybvPbE5vgvAux) | 2:13 | 2025-03-12 |  |
 | [The Climb](https://open.spotify.com/track/0HKxgYyUTgSGkY8hPCEXIf) | [Richard Green](https://open.spotify.com/artist/5ZMNSlmvEo9xyBSCK7yK1w) | [The Climb](https://open.spotify.com/album/1RiFybPic6zBZ3viZ6B3Nf) | 4:58 | 2026-06-03 |  |
 | [The Devil's Dance](https://open.spotify.com/track/3jcf6pjhEb0BQOxHvpw3yN) | [exane](https://open.spotify.com/artist/3xiDuqFFBBd87BgYeLFGcl) | [The Devil's Dance](https://open.spotify.com/album/5DoCb8eHtyz2JOvmQV6NrK) | 1:25 | 2026-06-17 |  |

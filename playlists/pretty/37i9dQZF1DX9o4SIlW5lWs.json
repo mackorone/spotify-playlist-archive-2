@@ -1,6 +1,6 @@
 {
   "description": "Al coraz\u00f3n! Foto: Luciano Pereyra, Uriel Lozano & Un Poco De Ruido.",
-  "num_followers": 280094,
+  "num_followers": 280121,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,26 @@
     {
       "added_at": "2026-06-19 03:00:24",
       "album": {
+        "name": "No me sale",
+        "url": "https://open.spotify.com/album/4u3sxsJQ69ExpQcsyY8GYB"
+      },
+      "artists": [
+        {
+          "name": "Campedrinos",
+          "url": "https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx"
+        },
+        {
+          "name": "Sele Vera Y Los Pampas",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "duration_ms": 208506,
+      "name": "No me sale",
+      "url": "https://open.spotify.com/track/6tGbECLnN7puAijzjAflJx"
+    },
+    {
+      "added_at": "2026-06-19 03:00:24",
+      "album": {
         "name": "El \u00daltimo Rom\u00e1ntico",
         "url": "https://open.spotify.com/album/5XivpS4x7wPLUBxdHQRQnT"
       },
@@ -535,26 +555,6 @@
       "duration_ms": 251724,
       "name": "El \u00daltimo Rom\u00e1ntico",
       "url": "https://open.spotify.com/track/7aPSMl8bmlHtbi9ZBYbPmq"
-    },
-    {
-      "added_at": "2026-06-19 03:00:24",
-      "album": {
-        "name": "No me sale",
-        "url": "https://open.spotify.com/album/4u3sxsJQ69ExpQcsyY8GYB"
-      },
-      "artists": [
-        {
-          "name": "Campedrinos",
-          "url": "https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx"
-        },
-        {
-          "name": "Sele Vera Y Los Pampas",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
-        }
-      ],
-      "duration_ms": 208506,
-      "name": "No me sale",
-      "url": "https://open.spotify.com/track/6tGbECLnN7puAijzjAflJx"
     },
     {
       "added_at": "2026-06-19 03:00:24",
@@ -883,6 +883,22 @@
     {
       "added_at": "2026-06-19 03:00:24",
       "album": {
+        "name": "Montevideo 418",
+        "url": "https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP"
+      },
+      "artists": [
+        {
+          "name": "El Gordo Luis",
+          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
+        }
+      ],
+      "duration_ms": 211026,
+      "name": "Cinco Minutos",
+      "url": "https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b"
+    },
+    {
+      "added_at": "2026-06-19 03:00:24",
+      "album": {
         "name": "Ahora Resulta",
         "url": "https://open.spotify.com/album/1aQur6ki98vcoOW0cGopFy"
       },
@@ -903,18 +919,18 @@
     {
       "added_at": "2026-06-19 03:00:24",
       "album": {
-        "name": "Montevideo 418",
-        "url": "https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP"
+        "name": "Boquita de Caramelo",
+        "url": "https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm"
       },
       "artists": [
         {
-          "name": "El Gordo Luis",
-          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
+          "name": "Grupo Sombras",
+          "url": "https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae"
         }
       ],
-      "duration_ms": 211026,
-      "name": "Cinco Minutos",
-      "url": "https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b"
+      "duration_ms": 229093,
+      "name": "Pega la Vuelta",
+      "url": "https://open.spotify.com/track/51seuwibGTQsUod6oScKtR"
     },
     {
       "added_at": "2026-06-19 03:00:24",
@@ -931,22 +947,6 @@
       "duration_ms": 220618,
       "name": "Otra Como Tu",
       "url": "https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs"
-    },
-    {
-      "added_at": "2026-06-19 03:00:24",
-      "album": {
-        "name": "Boquita de Caramelo",
-        "url": "https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Sombras",
-          "url": "https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae"
-        }
-      ],
-      "duration_ms": 229093,
-      "name": "Pega la Vuelta",
-      "url": "https://open.spotify.com/track/51seuwibGTQsUod6oScKtR"
     },
     {
       "added_at": "2026-06-19 03:00:24",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-06-19 03:00:24",
       "album": {
-        "name": "Maravillosa Esta Noche",
-        "url": "https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 242400,
-      "name": "Maravillosa Esta Noche",
-      "url": "https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ"
-    },
-    {
-      "added_at": "2026-06-19 03:00:24",
-      "album": {
         "name": "La Casa De La Cumbia vol.1",
         "url": "https://open.spotify.com/album/0GHBhM6ApWzKRsF0QDV3Pi"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 204705,
       "name": "Cicactrices",
       "url": "https://open.spotify.com/track/43qGouonxPSloBl8bUEk4I"
+    },
+    {
+      "added_at": "2026-06-19 03:00:24",
+      "album": {
+        "name": "Maravillosa Esta Noche",
+        "url": "https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 242400,
+      "name": "Maravillosa Esta Noche",
+      "url": "https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ"
     },
     {
       "added_at": "2026-06-19 03:00:24",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2026-06-19 03:00:24",
       "album": {
+        "name": "Mensajeros del Amor",
+        "url": "https://open.spotify.com/album/2yD6FFYH2YGoaRCOcdfsR6"
+      },
+      "artists": [
+        {
+          "name": "Mensajeros del Amor",
+          "url": "https://open.spotify.com/artist/3IbAQiPGvV3aSwvYBMo3o3"
+        }
+      ],
+      "duration_ms": 192120,
+      "name": "El Soy Yo",
+      "url": "https://open.spotify.com/track/3GYyjWrmZF5GVKDs4iUkh0"
+    },
+    {
+      "added_at": "2026-06-19 03:00:24",
+      "album": {
         "name": "VAS A VOLVER",
         "url": "https://open.spotify.com/album/0UkOCzJaNwtVwF0T1Txfh9"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 144666,
       "name": "VAS A VOLVER",
       "url": "https://open.spotify.com/track/2GI51zBcXdoEFW0mOg1pkZ"
-    },
-    {
-      "added_at": "2026-06-19 03:00:24",
-      "album": {
-        "name": "Mensajeros del Amor",
-        "url": "https://open.spotify.com/album/2yD6FFYH2YGoaRCOcdfsR6"
-      },
-      "artists": [
-        {
-          "name": "Mensajeros del Amor",
-          "url": "https://open.spotify.com/artist/3IbAQiPGvV3aSwvYBMo3o3"
-        }
-      ],
-      "duration_ms": 192120,
-      "name": "El Soy Yo",
-      "url": "https://open.spotify.com/track/3GYyjWrmZF5GVKDs4iUkh0"
     },
     {
       "added_at": "2026-06-19 03:00:24",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-06-19 03:00:24",
       "album": {
-        "name": "Y la cumbia se baila as\u00ed...",
-        "url": "https://open.spotify.com/album/1C4JGlucUtnJGEBj7I9BQN"
-      },
-      "artists": [
-        {
-          "name": "El Gordo Luis",
-          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
-        }
-      ],
-      "duration_ms": 198066,
-      "name": "Los Infieles",
-      "url": "https://open.spotify.com/track/60N0Hb2yL4daYW4u3Ijw4I"
-    },
-    {
-      "added_at": "2026-06-19 03:00:24",
-      "album": {
         "name": "No Me Digas Adios",
         "url": "https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J"
       },
@@ -1291,18 +1275,18 @@
     {
       "added_at": "2026-06-19 03:00:24",
       "album": {
-        "name": "Se Enamor\u00f3 de Mi la Soledad",
-        "url": "https://open.spotify.com/album/6cSeVk2rJQB3LnbHVUwPnI"
+        "name": "Y la cumbia se baila as\u00ed...",
+        "url": "https://open.spotify.com/album/1C4JGlucUtnJGEBj7I9BQN"
       },
       "artists": [
         {
-          "name": "Miguel Angel",
-          "url": "https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL"
+          "name": "El Gordo Luis",
+          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
         }
       ],
-      "duration_ms": 245864,
-      "name": "Se Enamor\u00f3 de Mi la Soledad",
-      "url": "https://open.spotify.com/track/1MExvjfH2rZQGsORsR3Pcy"
+      "duration_ms": 198066,
+      "name": "Los Infieles",
+      "url": "https://open.spotify.com/track/60N0Hb2yL4daYW4u3Ijw4I"
     },
     {
       "added_at": "2026-06-19 03:00:24",
@@ -1319,6 +1303,22 @@
       "duration_ms": 187533,
       "name": "Vete de Mi Lado",
       "url": "https://open.spotify.com/track/6JbqHYS9zYzxX1eWUZbKSl"
+    },
+    {
+      "added_at": "2026-06-19 03:00:24",
+      "album": {
+        "name": "Se Enamor\u00f3 de Mi la Soledad",
+        "url": "https://open.spotify.com/album/6cSeVk2rJQB3LnbHVUwPnI"
+      },
+      "artists": [
+        {
+          "name": "Miguel Angel",
+          "url": "https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL"
+        }
+      ],
+      "duration_ms": 245864,
+      "name": "Se Enamor\u00f3 de Mi la Soledad",
+      "url": "https://open.spotify.com/track/1MExvjfH2rZQGsORsR3Pcy"
     },
     {
       "added_at": "2026-06-19 03:00:24",
@@ -1355,30 +1355,6 @@
     {
       "added_at": "2026-06-19 03:00:24",
       "album": {
-        "name": "MUJERIEGO",
-        "url": "https://open.spotify.com/album/28jEMEOFx4BFa7PnG7Pyvt"
-      },
-      "artists": [
-        {
-          "name": "Lauta",
-          "url": "https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci"
-        },
-        {
-          "name": "Tote",
-          "url": "https://open.spotify.com/artist/4JvhKLSrtJy7jAWYaatd64"
-        },
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        }
-      ],
-      "duration_ms": 196059,
-      "name": "MUJERIEGO",
-      "url": "https://open.spotify.com/track/45EsIB5oG5gZMNpRsfo1ku"
-    },
-    {
-      "added_at": "2026-06-19 03:00:24",
-      "album": {
         "name": "Cosa del destino",
         "url": "https://open.spotify.com/album/4pXhJqAV2hwuU3PkcTNTgA"
       },
@@ -1403,6 +1379,30 @@
       "duration_ms": 177491,
       "name": "Cosa del destino",
       "url": "https://open.spotify.com/track/2v6l9O89F5xGMUq5sr4Kph"
+    },
+    {
+      "added_at": "2026-06-19 03:00:24",
+      "album": {
+        "name": "MUJERIEGO",
+        "url": "https://open.spotify.com/album/28jEMEOFx4BFa7PnG7Pyvt"
+      },
+      "artists": [
+        {
+          "name": "Lauta",
+          "url": "https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci"
+        },
+        {
+          "name": "Tote",
+          "url": "https://open.spotify.com/artist/4JvhKLSrtJy7jAWYaatd64"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "duration_ms": 196059,
+      "name": "MUJERIEGO",
+      "url": "https://open.spotify.com/track/45EsIB5oG5gZMNpRsfo1ku"
     },
     {
       "added_at": "2026-06-19 03:00:24",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-06-19 03:00:24",
       "album": {
-        "name": "Mi Primer Amor",
-        "url": "https://open.spotify.com/album/5HKegx8eIQiHoHrsqBbYxj"
-      },
-      "artists": [
-        {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
-        }
-      ],
-      "duration_ms": 188286,
-      "name": "Mi Primer Amor",
-      "url": "https://open.spotify.com/track/1rBk8sHUL4ivoL9WqM89CY"
-    },
-    {
-      "added_at": "2026-06-19 03:00:24",
-      "album": {
         "name": "Jambao: Sin Miedo Session #52 (Lado S)",
         "url": "https://open.spotify.com/album/5RueSt1KRNW3uXcWjxG7M5"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 141415,
       "name": "Se parece m\u00e1s a ti",
       "url": "https://open.spotify.com/track/7MurjFLXZ5hJn2z82pcLgA"
+    },
+    {
+      "added_at": "2026-06-19 03:00:24",
+      "album": {
+        "name": "Mi Primer Amor",
+        "url": "https://open.spotify.com/album/5HKegx8eIQiHoHrsqBbYxj"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "duration_ms": 188286,
+      "name": "Mi Primer Amor",
+      "url": "https://open.spotify.com/track/1rBk8sHUL4ivoL9WqM89CY"
     },
     {
       "added_at": "2026-06-19 03:00:24",
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2026-06-19 03:00:24",
       "album": {
-        "name": "MALA",
-        "url": "https://open.spotify.com/album/1ntZkQLCuUz5G5wlUPO8ar"
-      },
-      "artists": [
-        {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
-        },
-        {
-          "name": "Cacho Deicas",
-          "url": "https://open.spotify.com/artist/0rekO119G0yO5gjzM4nxZ2"
-        }
-      ],
-      "duration_ms": 197121,
-      "name": "MALA",
-      "url": "https://open.spotify.com/track/5zmOqNbUyYFRKzmwFauNgj"
-    },
-    {
-      "added_at": "2026-06-19 03:00:24",
-      "album": {
         "name": "Muero de Fr\u00edo, La Historia",
         "url": "https://open.spotify.com/album/17l0btgkPBArqRfrNb2DGJ"
       },
@@ -1647,6 +1627,26 @@
       "duration_ms": 212405,
       "name": "Muero de fr\u00edo, La Historia",
       "url": "https://open.spotify.com/track/0uDkIG7w74Z1EFRC1YReyA"
+    },
+    {
+      "added_at": "2026-06-19 03:00:24",
+      "album": {
+        "name": "MALA",
+        "url": "https://open.spotify.com/album/1ntZkQLCuUz5G5wlUPO8ar"
+      },
+      "artists": [
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        },
+        {
+          "name": "Cacho Deicas",
+          "url": "https://open.spotify.com/artist/0rekO119G0yO5gjzM4nxZ2"
+        }
+      ],
+      "duration_ms": 197121,
+      "name": "MALA",
+      "url": "https://open.spotify.com/track/5zmOqNbUyYFRKzmwFauNgj"
     },
     {
       "added_at": "2026-06-19 03:00:24",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2026-06-19 03:00:24",
       "album": {
+        "name": "PRELUDIOS (EN VIVO)",
+        "url": "https://open.spotify.com/album/06iXtfYHxTVepSLWT467Wq"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 207485,
+      "name": "FUE ELLA, FUI YO - EN VIVO",
+      "url": "https://open.spotify.com/track/4oe4Yi4dv1rviTg6w2kLj0"
+    },
+    {
+      "added_at": "2026-06-19 03:00:24",
+      "album": {
         "name": "Date cuenta",
         "url": "https://open.spotify.com/album/6N2L9L69osVQXss8wjojYN"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 157244,
       "name": "Date cuenta",
       "url": "https://open.spotify.com/track/3X0FSUKlgyj4mq9BCJzDqE"
-    },
-    {
-      "added_at": "2026-06-19 03:00:24",
-      "album": {
-        "name": "PRELUDIOS (EN VIVO)",
-        "url": "https://open.spotify.com/album/06iXtfYHxTVepSLWT467Wq"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 207485,
-      "name": "FUE ELLA, FUI YO - EN VIVO",
-      "url": "https://open.spotify.com/track/4oe4Yi4dv1rviTg6w2kLj0"
     },
     {
       "added_at": "2026-06-19 03:00:24",
@@ -1783,6 +1783,26 @@
     {
       "added_at": "2026-06-19 03:00:24",
       "album": {
+        "name": "Pero No Puedo Vol.2",
+        "url": "https://open.spotify.com/album/3ne9oJyuZbSjtlACDhzc7L"
+      },
+      "artists": [
+        {
+          "name": "Daniel Cardozo",
+          "url": "https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T"
+        },
+        {
+          "name": "Roman El Original",
+          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
+        }
+      ],
+      "duration_ms": 186352,
+      "name": "Pero No Puedo Vol.2",
+      "url": "https://open.spotify.com/track/3fVHtUpYml04WJeF5ybxXc"
+    },
+    {
+      "added_at": "2026-06-19 03:00:24",
+      "album": {
         "name": "Paso la Vida Pensando",
         "url": "https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG"
       },
@@ -1819,26 +1839,6 @@
     {
       "added_at": "2026-06-19 03:00:24",
       "album": {
-        "name": "Pero No Puedo Vol.2",
-        "url": "https://open.spotify.com/album/3ne9oJyuZbSjtlACDhzc7L"
-      },
-      "artists": [
-        {
-          "name": "Daniel Cardozo",
-          "url": "https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T"
-        },
-        {
-          "name": "Roman El Original",
-          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
-        }
-      ],
-      "duration_ms": 186352,
-      "name": "Pero No Puedo Vol.2",
-      "url": "https://open.spotify.com/track/3fVHtUpYml04WJeF5ybxXc"
-    },
-    {
-      "added_at": "2026-06-19 03:00:24",
-      "album": {
         "name": "Coraz\u00f3n de Madera",
         "url": "https://open.spotify.com/album/5fvUEK9OgcvU6TwalmypXj"
       },
@@ -1851,6 +1851,22 @@
       "duration_ms": 153653,
       "name": "Coraz\u00f3n De Madera",
       "url": "https://open.spotify.com/track/4zL0APZ6sXFZoJwgyRLRIC"
+    },
+    {
+      "added_at": "2026-06-19 03:00:24",
+      "album": {
+        "name": "Buscando Otro Amor",
+        "url": "https://open.spotify.com/album/2ijKJw1PlaNq0wIXL7fNiK"
+      },
+      "artists": [
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        }
+      ],
+      "duration_ms": 147725,
+      "name": "Buscando Otro Amor",
+      "url": "https://open.spotify.com/track/5GktPnJ8W17lKXWnVwgD48"
     },
     {
       "added_at": "2026-06-19 03:00:24",
@@ -1871,22 +1887,6 @@
       "duration_ms": 188368,
       "name": "Noche de Estrellas",
       "url": "https://open.spotify.com/track/4lPWL2JWTz4aKVwAG2C8jT"
-    },
-    {
-      "added_at": "2026-06-19 03:00:24",
-      "album": {
-        "name": "Buscando Otro Amor",
-        "url": "https://open.spotify.com/album/2ijKJw1PlaNq0wIXL7fNiK"
-      },
-      "artists": [
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        }
-      ],
-      "duration_ms": 147725,
-      "name": "Buscando Otro Amor",
-      "url": "https://open.spotify.com/track/5GktPnJ8W17lKXWnVwgD48"
     },
     {
       "added_at": "2026-06-19 03:00:24",

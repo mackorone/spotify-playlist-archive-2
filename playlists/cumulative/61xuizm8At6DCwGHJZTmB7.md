@@ -4,7 +4,7 @@
 
 > Top Christian Worship 2026 \| Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Tauren Wells! Soaking worship music \| Jelly Roll gospel \. cinco de mayo , gospel songs jelly roll christian
 
-769 songs - 3 day 1 hr 47 min
+771 songs - 3 day 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,8 @@
 | [Come As You Are \- Live](https://open.spotify.com/track/3ibq5jCLvK0hrMkt9NnyVt) | [AMEN Music](https://open.spotify.com/artist/3Bf9WsVILDpfxU0VDj1CHK), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [In The Light \(Live\)](https://open.spotify.com/album/2hJ0tPjPJuKUAncH63dHVl) | 6:23 | 2023-08-25 | 2024-04-19 |
 | [Come Down](https://open.spotify.com/track/1lmmjT6zyjBhim9tVYiITn) | [V1 Worship](https://open.spotify.com/artist/6d31LwaDZ6LKrKugi2D7Lx) | [Come Down](https://open.spotify.com/album/6fsIYFq00rWm2qCFAhKOLo) | 4:51 | 2024-06-28 | 2025-03-21 |
 | [Come Into The Light/Touch The Sky \- Live](https://open.spotify.com/track/6fiCQ6J5220cCdTVl9Ioft) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Come Into The Light \(Live\)](https://open.spotify.com/album/68c3QXsNVkO3HIJEbxt2Pv) | 7:16 | 2024-11-15 | 2026-02-07 |
-| [Come Jesus Come \- Revelation 22:20](https://open.spotify.com/track/6GjYw8AAyQZfErAnw8TEyK) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3) | [My Right Now \(Deluxe\)](https://open.spotify.com/album/4U3SDjlZmhdasNB8OBgnEm) | 5:21 | 2026-02-06 |  |
+| [Come Jesus Come \- Acoustic v1](https://open.spotify.com/track/2Iz7WPPuq26l9g0LzbyUNn) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3) | [Acoustic Worship Songs \(Vol\. 1\)](https://open.spotify.com/album/0u7L8qatEsBuyss4lo8WgT) | 5:42 | 2026-06-22 |  |
+| [Come Jesus Come \- Revelation 22:20](https://open.spotify.com/track/6GjYw8AAyQZfErAnw8TEyK) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3) | [My Right Now \(Deluxe\)](https://open.spotify.com/album/4U3SDjlZmhdasNB8OBgnEm) | 5:21 | 2026-02-06 | 2026-06-23 |
 | [Come Lord Jesus \- Live](https://open.spotify.com/track/2iWbZK7IgywTcBzfjOcL9B) | [Jesus Image](https://open.spotify.com/artist/47UT3dPXB5ttLBnyM76GQc), [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [Come Lord Jesus \(Live\)](https://open.spotify.com/album/3c7y1XgJrqgpGPqwhgeCz4) | 13:07 | 2022-06-24 | 2022-07-02 |
 | [COME OUT LAZARUS!](https://open.spotify.com/track/1SGXOCaASMx518upOnT7Gw) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3) | [COME OUT LAZARUS!](https://open.spotify.com/album/3oIhCa6it0WZLx84B71eMW) | 3:38 | 2026-03-20 | 2026-05-09 |
 | [Come To Jesus](https://open.spotify.com/track/0t0Rq9MjMmcvlC95xBCkGH) | [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Come To Jesus](https://open.spotify.com/album/4FAdRHzHD0hOMjUqqlrKRe) | 3:48 | 2024-12-06 |  |
@@ -725,6 +726,7 @@
 | [What a friend](https://open.spotify.com/track/0w6iogAZgWyfVcC4MpG4zs) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm), [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [What a friend](https://open.spotify.com/album/4fORMR5R4m2ZMNUf4KTb6G) | 4:11 | 2024-05-17 | 2025-03-21 |
 | [What A Gift](https://open.spotify.com/track/5DcC2r9fuxuaGiN8GCN7yU) | [Canaan Baca](https://open.spotify.com/artist/0h1ga0Poq8QRidzT336Y6q) | [What A Gift](https://open.spotify.com/album/4kdzNGb8djsF7riiqNOCaR) | 5:06 | 2026-06-05 |  |
 | [What A God](https://open.spotify.com/track/0sVpTd7gK4YUIL0xTdYsVn) | [Legacy Nashville](https://open.spotify.com/artist/0z4zqQUZicpUdBmnLRvFje), [Jasmin Foreman](https://open.spotify.com/artist/16kiLoWN3jY8WslXMC08Sy), [Todd Mendez](https://open.spotify.com/artist/5IhNGJe6UhMRDJtqllQC3q) | [What A God](https://open.spotify.com/album/6Ca1cly2h2TeJyOLjRwhtR) | 5:25 | 2025-07-18 |  |
+| [What A God](https://open.spotify.com/track/4eTLdVkDPeJRwvS5T5YrVd) | [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [What A God](https://open.spotify.com/album/6pD1fqZb2FRZmpgbOmtgen) | 6:18 | 2026-06-22 |  |
 | [What A Good God](https://open.spotify.com/track/2655uqZtu3w2O1ffwE9srv) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [What A Good God](https://open.spotify.com/album/305Kh1fWNtsNJdd9TxM6L0) | 3:10 | 2022-02-17 | 2022-07-14 |
 | [What A Life \- Live](https://open.spotify.com/track/4l9ILkQtnoGmYkEri6LPN6) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [What A Life \(Live\)](https://open.spotify.com/album/6zIH9RSZIw8jYK9bQGQx0e) | 3:46 | 2023-07-18 | 2023-07-22 |
 | [What A Worthy Name](https://open.spotify.com/track/7vDwGrFOYLFrSD213NFnr3) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chidima](https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a) | [What A Worthy Name](https://open.spotify.com/album/3erIkPijGp3lIh2gASA55v) | 5:51 | 2026-02-13 |  |

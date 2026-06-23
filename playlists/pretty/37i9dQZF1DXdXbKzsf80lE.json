@@ -1,6 +1,6 @@
 {
   "description": "Queeeima pared\u00e3o! Pra forrozeiro sofrer dan\u00e7ando e dan\u00e7ar sofrendo, bora.",
-  "num_followers": 282613,
+  "num_followers": 282611,
   "original_name": "Bora arrochar",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2026-04-30 22:01:08",
       "album": {
+        "name": "Do Melhor Jeito",
+        "url": "https://open.spotify.com/album/0jNuQlTk5sraH9AzQVaaCT"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Vaqueiro",
+          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
+        }
+      ],
+      "duration_ms": 146594,
+      "name": "Coisas do Interior",
+      "url": "https://open.spotify.com/track/70SX07s7cRqdf0VGLNyPfD"
+    },
+    {
+      "added_at": "2026-04-30 22:01:08",
+      "album": {
         "name": "Ao Vivo no Sert\u00e3o",
         "url": "https://open.spotify.com/album/3GijMKhlZt53WEakYLukRs"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 192900,
       "name": "Pra Que Fui Me Apaixonar",
       "url": "https://open.spotify.com/track/5npAAiROGib00LdqxUoqRb"
-    },
-    {
-      "added_at": "2026-04-30 22:01:08",
-      "album": {
-        "name": "Do Melhor Jeito",
-        "url": "https://open.spotify.com/album/0jNuQlTk5sraH9AzQVaaCT"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Vaqueiro",
-          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
-        }
-      ],
-      "duration_ms": 146594,
-      "name": "Coisas do Interior",
-      "url": "https://open.spotify.com/track/70SX07s7cRqdf0VGLNyPfD"
     },
     {
       "added_at": "2026-04-30 22:01:08",
@@ -539,6 +539,22 @@
     {
       "added_at": "2026-04-30 22:01:08",
       "album": {
+        "name": "Xperience Na Praia (ao Vivo)",
+        "url": "https://open.spotify.com/album/04wtAfOnYEQvi7i6Iu9tA5"
+      },
+      "artists": [
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        }
+      ],
+      "duration_ms": 245653,
+      "name": "Inquilina - Ao Vivo",
+      "url": "https://open.spotify.com/track/0XwpOHWnRid52uc7IHSAot"
+    },
+    {
+      "added_at": "2026-04-30 22:01:08",
+      "album": {
         "name": "Cora\u00e7\u00e3o Cachorro",
         "url": "https://open.spotify.com/album/22MXULSCWHEYSofgElYc8d"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 150802,
       "name": "Cora\u00e7\u00e3o Cachorro",
       "url": "https://open.spotify.com/track/2RGIuYTsyyHoOCqW0krvNE"
-    },
-    {
-      "added_at": "2026-04-30 22:01:08",
-      "album": {
-        "name": "Xperience Na Praia (ao Vivo)",
-        "url": "https://open.spotify.com/album/04wtAfOnYEQvi7i6Iu9tA5"
-      },
-      "artists": [
-        {
-          "name": "Xand Avi\u00e3o",
-          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
-        }
-      ],
-      "duration_ms": 245653,
-      "name": "Inquilina - Ao Vivo",
-      "url": "https://open.spotify.com/track/0XwpOHWnRid52uc7IHSAot"
     },
     {
       "added_at": "2026-04-30 22:01:08",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2026-04-30 22:01:08",
       "album": {
-        "name": "Pisadinha (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2Ir3JLRBTe6UNagIu9CsYV"
-      },
-      "artists": [
-        {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
-        },
-        {
-          "name": "Ra\u00ed Saia Rodada",
-          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
-        }
-      ],
-      "duration_ms": 158661,
-      "name": "Pisadinha - Ao Vivo",
-      "url": "https://open.spotify.com/track/36P6ptTyxOggYgR2aoZiAl"
-    },
-    {
-      "added_at": "2026-04-30 22:01:08",
-      "album": {
         "name": "O Apostador",
         "url": "https://open.spotify.com/album/5Djfedu3tD8JnJ27Te8LcX"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 136304,
       "name": "O Apostador",
       "url": "https://open.spotify.com/track/4JCNKUDiJi9GOKjfur6R9S"
+    },
+    {
+      "added_at": "2026-04-30 22:01:08",
+      "album": {
+        "name": "Pisadinha (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2Ir3JLRBTe6UNagIu9CsYV"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        },
+        {
+          "name": "Ra\u00ed Saia Rodada",
+          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
+        }
+      ],
+      "duration_ms": 158661,
+      "name": "Pisadinha - Ao Vivo",
+      "url": "https://open.spotify.com/track/36P6ptTyxOggYgR2aoZiAl"
     },
     {
       "added_at": "2026-04-30 22:01:08",

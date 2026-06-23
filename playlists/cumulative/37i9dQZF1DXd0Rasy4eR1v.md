@@ -4,7 +4,7 @@
 
 > Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: Saif Altaf
 
-1,311 songs - 2 day 22 hr 14 min
+1,312 songs - 2 day 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -625,6 +625,7 @@
 | [Khirki](https://open.spotify.com/track/1eDyNfz3j14SmPokxWbjsh) | [bitrees](https://open.spotify.com/artist/1yPiZF9ZTUZImr0zBoNogb) | [Khirki](https://open.spotify.com/album/2xG0rtmlOYAIuxoNBVvXsZ) | 3:26 | 2025-02-11 | 2025-08-02 |
 | [Khizaan](https://open.spotify.com/track/3WDxldpZLZkjVCwE892DVp) | [Raamiz Rizvi](https://open.spotify.com/artist/34dLN7dVpBtsXn0yDQoZtg), [Amna Riaz](https://open.spotify.com/artist/0byL5ltfBQh38KuITEggNl) | [Khizaan](https://open.spotify.com/album/2PJV2dGwrn0OROSL1sNYUo) | 2:44 | 2023-10-12 | 2023-12-09 |
 | [Kho Gaye](https://open.spotify.com/track/29ZFd9OvfK5IHUgn9gWJbF) | [Shayan Fatani](https://open.spotify.com/artist/6ALIDmAST5XPoCSoxWCzwq), [Mishal Shafi](https://open.spotify.com/artist/2D5YZ7yVsVe2fzoB9osYt9), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Kho Gaye](https://open.spotify.com/album/6yVEeoy0fgTCHeaTvucbVU) | 3:40 | 2025-02-28 | 2025-10-25 |
+| [Khol Qaffas](https://open.spotify.com/track/05Y2lw9S8xOpWNBPyfEjgl) | [Humail Rajpoot](https://open.spotify.com/artist/6QwjrW6ixvGxwP61YNTDJl) | [Khol Qaffas](https://open.spotify.com/album/6o2K6QieGP45YMy3AcQQwl) | 3:41 | 2026-06-22 |  |
 | [Khuaab](https://open.spotify.com/track/4wjgGU8uKzRzvOSq05xH8U) | [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK), [Izzchughtai](https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S) | [Khuaab](https://open.spotify.com/album/511f96n5mUoxqAIb4fTDrQ) | 3:01 | 2023-03-21 | 2025-08-02 |
 | [Khudi](https://open.spotify.com/track/1oPPo0iInHz6DPp0ET9VYF) | [Sameen Khawaja](https://open.spotify.com/artist/3N3IttjqDCutknUWWA1q9B), [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN) | [Khudi](https://open.spotify.com/album/5FbE8wH5CQLlrHKh1aBaQ1) | 3:26 | 2024-06-19 | 2024-11-08 |
 | [Khushi](https://open.spotify.com/track/7uEFslk7REdahSCkcBlB4W) | [Arsalan Hasan](https://open.spotify.com/artist/1uyfPuXn3J7LMOYh39lLv2) | [Khushi](https://open.spotify.com/album/2zML24DAsHmf5pd0icMpy3) | 3:16 | 2024-02-23 | 2024-05-10 |

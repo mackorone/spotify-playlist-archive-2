@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover: Terrian
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,640,122 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,640,348 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [To You](https://open.spotify.com/track/7FNgOiBfotP5tjfu7kf9KD) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [To You](https://open.spotify.com/album/1bzajEjhpNpvxqcFZVzbzD) | 5:21 |
+| 1 | [Mad Big World](https://open.spotify.com/track/55GjwZjEoy725zk5lSqnqs) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Mad Big World](https://open.spotify.com/album/76QcbTPISNU8iRpT2ZYmuJ) | 3:24 |
 | 2 | [NO HALO](https://open.spotify.com/track/4ASIujPxCr1c9Jj1JapaZ4) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [NO HALO](https://open.spotify.com/album/213lU4rAk8SVSOs4bjAASB) | 2:58 |
-| 3 | [Mad Big World](https://open.spotify.com/track/55GjwZjEoy725zk5lSqnqs) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Mad Big World](https://open.spotify.com/album/76QcbTPISNU8iRpT2ZYmuJ) | 3:24 |
-| 4 | [Name of Jesus](https://open.spotify.com/track/4SKRyKMqcybdVMHjVP1YIG) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [God Must Really Love Me](https://open.spotify.com/album/2PgYxXmW7geBRncBAgpzNL) | 3:06 |
-| 5 | [Bless His Name](https://open.spotify.com/track/2uJhSRMknp671IqAb0DN3o) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Saturday Night / Sunday Morning](https://open.spotify.com/album/4xL8JXwTuTBWNYNPysYari) | 2:26 |
-| 6 | [Final Say](https://open.spotify.com/track/3aWTJQ27xr2EID0kXzXu7g) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Final Say](https://open.spotify.com/album/2RgeQaXAE1ZcEP3XmlAjm3) | 6:41 |
+| 3 | [Name of Jesus](https://open.spotify.com/track/4SKRyKMqcybdVMHjVP1YIG) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [God Must Really Love Me](https://open.spotify.com/album/2PgYxXmW7geBRncBAgpzNL) | 3:06 |
+| 4 | [Bless His Name](https://open.spotify.com/track/2uJhSRMknp671IqAb0DN3o) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Saturday Night / Sunday Morning](https://open.spotify.com/album/4xL8JXwTuTBWNYNPysYari) | 2:26 |
+| 5 | [Final Say](https://open.spotify.com/track/3aWTJQ27xr2EID0kXzXu7g) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Final Say](https://open.spotify.com/album/2RgeQaXAE1ZcEP3XmlAjm3) | 6:41 |
+| 6 | [To You](https://open.spotify.com/track/7FNgOiBfotP5tjfu7kf9KD) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [To You](https://open.spotify.com/album/1bzajEjhpNpvxqcFZVzbzD) | 5:21 |
 | 7 | [Watchmen](https://open.spotify.com/track/48CJkDa7zpAX65uIWXyuHZ) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj), [The New Respects](https://open.spotify.com/artist/5lwtznzBlmVM2IhgrCWbT9) | [EAT](https://open.spotify.com/album/0USg7yhc0M9kTNDlzcMU7K) | 2:47 |
 | 8 | [Won't Fear](https://open.spotify.com/track/1znEguvbFN39XhK0CdDrN5) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [To God Be The Glory](https://open.spotify.com/album/4Ml2Fi3E2P7ZJX97QkJvkc) | 2:59 |
 | 9 | [Happy](https://open.spotify.com/track/1iWM9AyTmVcXTwkWTQ3Z7V) | [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [HAPPY](https://open.spotify.com/album/55GprigdNQ1rqhIFLB7M7J) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 99 | [Oh Child](https://open.spotify.com/track/7eWB5IEjltqKJTx5nbibhk) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Real](https://open.spotify.com/album/7Jaiy3v9v7pTkamkvTxO5l) | 2:41 |
 | 100 | [Running with You in the Dark](https://open.spotify.com/track/0G3VRMNpInROdMyGAabE0t) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [Learning to Trust](https://open.spotify.com/album/6ixFqtUflfTrFoOLOt6DQH) | 3:57 |
 
-Snapshot ID: `AAAAAB3jAApPoly6Wp+dzOKCRAUoLlW2`
+Snapshot ID: `AAAAAISHx8/FOb1Wh6dnASdSJtAUuBrk`

@@ -1,12 +1,12 @@
 {
   "description": "This is Zendaya. The essential tracks, all in one playlist.",
-  "num_followers": 25171,
+  "num_followers": 25174,
   "original_name": "This Is Zendaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajXYAAAAAADjuXuN6Wi8E1er85uT5vTq",
+  "snapshot_id": "ajcpgAAAAAAVLn/J6XZ6L7Q3qkCG8XfA",
   "tracks": [
     {
       "added_at": null,
@@ -227,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Keep It Undercover (Theme Song From \"K.C. Undercover\")",
-        "url": "https://open.spotify.com/album/4kQ2DrYRRIq0VTNKJOau2W"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 156693,
-      "name": "Keep It Undercover - Theme Song From \"K.C. Undercover\"",
-      "url": "https://open.spotify.com/track/744ZuzjXQmoJmOdk2I1ym9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Smallfoot (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6ZlM4XjfDsaqBQiAY2GVy9"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 190506,
       "name": "Wonderful Life",
       "url": "https://open.spotify.com/track/2AD2chJEFxVPaoPo2IzI5t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Keep It Undercover (Theme Song From \"K.C. Undercover\")",
+        "url": "https://open.spotify.com/album/4kQ2DrYRRIq0VTNKJOau2W"
+      },
+      "artists": [
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 156693,
+      "name": "Keep It Undercover - Theme Song From \"K.C. Undercover\"",
+      "url": "https://open.spotify.com/track/744ZuzjXQmoJmOdk2I1ym9"
     },
     {
       "added_at": null,
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
         }
       ],
-      "duration_ms": 177586,
-      "name": "Scared",
-      "url": "https://open.spotify.com/track/4zKqkvPSeOa2918BlJJkKH"
+      "duration_ms": 218733,
+      "name": "Bottle You Up",
+      "url": "https://open.spotify.com/track/7wbIPJ9Ptn328JWcMONz9p"
     },
     {
       "added_at": null,
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
         }
       ],
-      "duration_ms": 218733,
-      "name": "Bottle You Up",
-      "url": "https://open.spotify.com/track/7wbIPJ9Ptn328JWcMONz9p"
+      "duration_ms": 177586,
+      "name": "Scared",
+      "url": "https://open.spotify.com/track/4zKqkvPSeOa2918BlJJkKH"
     },
     {
       "added_at": null,

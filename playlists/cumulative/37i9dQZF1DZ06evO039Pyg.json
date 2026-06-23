@@ -651,6 +651,28 @@
     },
     {
       "album": {
+        "name": "SLIDER II",
+        "url": "https://open.spotify.com/album/3jwPo6mAL7jtRXRWHLkSD0"
+      },
+      "artists": [
+        {
+          "name": "Karri",
+          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142768,
+      "name": "go",
+      "url": "https://open.spotify.com/track/7aV29KhhOFLawanslvY7Mg"
+    },
+    {
+      "album": {
         "name": "Good Life (with G-Eazy & Kehlani)",
         "url": "https://open.spotify.com/album/3KDuNEtT7I41hNbzMUakyq"
       },

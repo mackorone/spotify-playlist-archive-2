@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > Celebrating Juneteenth with new tracks from Dylan Sinclair, Tyla, YG, girlsweetvoiced,  Allison Russell, and Glenn Lewis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 595,270 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 595,231 likes - 99 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 47 | [Soulja](https://open.spotify.com/track/3vNkGlFj51eafYNokoW52j) | [Meekz](https://open.spotify.com/artist/1Pm6hTRjgSkT3B4FCQpW4g) | [Soulja](https://open.spotify.com/album/3uFCBEPfetxYgwhTG30jGy) | 2:24 |
 | 48 | [Ropa Cara](https://open.spotify.com/track/076uJiAXPcni8CFjSfzMIV) | [Yampi](https://open.spotify.com/artist/3Ia6QnB1tPR9bcgnmbL5FO), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Ropa Cara](https://open.spotify.com/album/6D81VwcWSpkivO69n7wmxB) | 3:13 |
 | 49 | [You Can't Hurt Me Anymore](https://open.spotify.com/track/4mQduoCFyrgEV8wkx56Bem) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [The Story of Michael and Tanya](https://open.spotify.com/album/4DsL4fp1EBMXavK10WxBkl) | 3:50 |
-| 50 | [Seeing Red](https://open.spotify.com/track/4RCsxImpbVG07SZls4KShV) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod), [Michael Leo Valeri](https://open.spotify.com/artist/25Ov94sa39E3pwdQ4Rgk1S), [Liam Beeson](https://open.spotify.com/artist/1JzQLoxKEDECoItUP7jR8I), [Kyle Anderson](https://open.spotify.com/artist/74GuAuCz0mWRUiqL4KPJKh) | [This Place Wasn't Meant for Us](https://open.spotify.com/album/5Bd50hiF1gv2UU7ysnx3wM) | 4:22 |
+| 50 | [Seeing Red](https://open.spotify.com/track/4RCsxImpbVG07SZls4KShV) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [This Place Wasn't Meant for Us](https://open.spotify.com/album/5Bd50hiF1gv2UU7ysnx3wM) | 4:22 |
 | 51 | [Joanna](https://open.spotify.com/track/1HqUNWKlYGjxqw2W28scFK) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv), [Elams](https://open.spotify.com/artist/2IoSLl3tqYMq9DzR0d6NJN) | [Joanna](https://open.spotify.com/album/0iGHMZSyk18aFfJaTFIMGA) | 2:16 |
 | 52 | [Why Does It](https://open.spotify.com/track/6V7XAURee1enPt7ri3rJhx) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Why Does It](https://open.spotify.com/album/04YiGYUSKmO4qfScsWO0Qm) | 2:54 |
 | 53 | [REVERSE!!](https://open.spotify.com/track/78R0oW0s6mkJJ9wJyCFZIw) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [REVERSE!!](https://open.spotify.com/album/7v3ARwfY24B1mt5dbsirZp) | 3:15 |
@@ -99,14 +99,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 89 | [Save Her 4 Me](https://open.spotify.com/track/6bj2u9VRe7kq8Q7eINfUOz) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Save Her 4 Me](https://open.spotify.com/album/2AX5AoMK78qczFJHy2oE2F) | 2:55 |
 | 90 | [Automatic](https://open.spotify.com/track/6BgdkRfOOxxOnARUTuAFs8) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [NO RE\-ENTRY \(Nano Mixes\)](https://open.spotify.com/album/6yODHDXTOQfnomDLz32S9y) | 2:03 |
 | 91 | [Cinderella](https://open.spotify.com/track/17SgupYV5TDPCZtF4wHdHC) | [Jordan Patterson](https://open.spotify.com/artist/2yKKMwAPgYB51wlkM3sY5G) | [Cinderella](https://open.spotify.com/album/7xc8qjSipCIqZoBfHuj7X4) | 3:26 |
-| 92 | [Semiramis' Dream](https://open.spotify.com/track/1kNcSc6x2qyEI8B1cyFZ63) | [1010benja](https://open.spotify.com/artist/7xBrMNV9UKo2THKIk9xpBK) | [1010: Time Has Nothing To Do With What You Choose...](https://open.spotify.com/album/1b1IAEoRQ8jzj9QjJKBggN) | 2:02 |
-| 93 | [ELEVEN87](https://open.spotify.com/track/6GIzqPQn0a2L6AHt1ToSIb) | [casi](https://open.spotify.com/artist/08KCycW58Ksyv5y5QaTyXH) | [CASI](https://open.spotify.com/album/1itTUvcQvI3gQGyzfQZUTR) | 4:27 |
-| 94 | [Archeia](https://open.spotify.com/track/2aSZnbOBT3fHN2RYPIz2hz) | [Zeruel](https://open.spotify.com/artist/7tO6Y3qnEQUM3kaVNlpXbu) | [Ruin;Rebirth](https://open.spotify.com/album/2oIFzFKHqaxMvYR5PxMDJZ) | 5:24 |
-| 95 | [BODYSCANNER](https://open.spotify.com/track/0R9qBvtWzq87FFBq5CetPN) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [BODYSCANNER](https://open.spotify.com/album/6yVXRukkf1iclK4fuLazlL) | 5:07 |
-| 96 | [WOMAN, MY LADY](https://open.spotify.com/track/2hHuCTQCKMAMmNGT6nnlee) | [Carver Jones](https://open.spotify.com/artist/2cQgX3pb2k7rgJG4rxNfid) | [WOMAN, MY LADY](https://open.spotify.com/album/6ZI3sHthdaVKKfCt4uzZir) | 2:57 |
-| 97 | [Sweet Thang](https://open.spotify.com/track/1LseKUjL7AAgkZv7IjEBYk) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Sweet Thang](https://open.spotify.com/album/05wRlo4q22wpGkKDKEHBZe) | 2:34 |
-| 98 | [Silent Treatment](https://open.spotify.com/track/2EUUu4O0loy3PvwEHmdOZ2) | [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [Silent Treatment](https://open.spotify.com/album/0uWQFPszr6SJZ695zVp029) | 3:13 |
-| 99 | [Luh Mo' Love](https://open.spotify.com/track/22fjiuuHawoPEnh9f0zL68) | [EJ Jones](https://open.spotify.com/artist/1Ub0AUonKoIZuFvy1WZbIC) | [Luh Mo' Love](https://open.spotify.com/album/07YxYfJhhvXyhXHUPOLthY) | 3:40 |
-| 100 | [MY LOVE](https://open.spotify.com/track/5nwydj74SIeXOJyW8WoQu6) | [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW), [We Are KING](https://open.spotify.com/artist/0FPWyyf6MD4QZTj3aypD3O) | [SAKURA](https://open.spotify.com/album/50sCI7KVEicmDpAxloCEyU) | 4:25 |
+| 92 | [ELEVEN87](https://open.spotify.com/track/6GIzqPQn0a2L6AHt1ToSIb) | [casi](https://open.spotify.com/artist/08KCycW58Ksyv5y5QaTyXH) | [CASI](https://open.spotify.com/album/1itTUvcQvI3gQGyzfQZUTR) | 4:27 |
+| 93 | [Archeia](https://open.spotify.com/track/2aSZnbOBT3fHN2RYPIz2hz) | [Zeruel](https://open.spotify.com/artist/7tO6Y3qnEQUM3kaVNlpXbu) | [Ruin;Rebirth](https://open.spotify.com/album/2oIFzFKHqaxMvYR5PxMDJZ) | 5:24 |
+| 94 | [BODYSCANNER](https://open.spotify.com/track/0R9qBvtWzq87FFBq5CetPN) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [BODYSCANNER](https://open.spotify.com/album/6yVXRukkf1iclK4fuLazlL) | 5:07 |
+| 95 | [WOMAN, MY LADY](https://open.spotify.com/track/2hHuCTQCKMAMmNGT6nnlee) | [Carver Jones](https://open.spotify.com/artist/2cQgX3pb2k7rgJG4rxNfid) | [WOMAN, MY LADY](https://open.spotify.com/album/6ZI3sHthdaVKKfCt4uzZir) | 2:57 |
+| 96 | [Sweet Thang](https://open.spotify.com/track/1LseKUjL7AAgkZv7IjEBYk) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Sweet Thang](https://open.spotify.com/album/05wRlo4q22wpGkKDKEHBZe) | 2:34 |
+| 97 | [Silent Treatment](https://open.spotify.com/track/2EUUu4O0loy3PvwEHmdOZ2) | [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [Silent Treatment](https://open.spotify.com/album/0uWQFPszr6SJZ695zVp029) | 3:13 |
+| 98 | [Luh Mo' Love](https://open.spotify.com/track/22fjiuuHawoPEnh9f0zL68) | [EJ Jones](https://open.spotify.com/artist/1Ub0AUonKoIZuFvy1WZbIC) | [Luh Mo' Love](https://open.spotify.com/album/07YxYfJhhvXyhXHUPOLthY) | 3:40 |
+| 99 | [MY LOVE](https://open.spotify.com/track/5nwydj74SIeXOJyW8WoQu6) | [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW), [We Are KING](https://open.spotify.com/artist/0FPWyyf6MD4QZTj3aypD3O) | [SAKURA](https://open.spotify.com/album/50sCI7KVEicmDpAxloCEyU) | 4:25 |
 
-Snapshot ID: `AAAAAO7q2syYM29APV3lPFW+v/kwOHZs`
+Snapshot ID: `AAAAAIzdhUsN16SZMQovI34j+EQWizVT`

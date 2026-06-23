@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Loathe are on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,648,868 likes - 80 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,648,854 likes - 80 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 10 | [Sleeping With The Enemy](https://open.spotify.com/track/1hLipkDpW1mAdGlUHl2Zl5) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Sleeping With The Enemy](https://open.spotify.com/album/1szmJLoAH4F1uk0AfSQj66) | 4:06 |
 | 11 | [Reward the Scars](https://open.spotify.com/track/4oZFqhv200v5rOCPHfwIec) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Reward the Scars](https://open.spotify.com/album/3BXffIPyB5ihJw0Zu7uWYl) | 3:35 |
 | 12 | [Blunt Force Blues](https://open.spotify.com/track/7sxzXYrcCVnMnqCxBwCXLN) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Blunt Force Blues](https://open.spotify.com/album/6JSSK9vSJUabyLGFhdnMEG) | 4:11 |
-| 13 | [Seeing Red](https://open.spotify.com/track/4RCsxImpbVG07SZls4KShV) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod), [Michael Leo Valeri](https://open.spotify.com/artist/25Ov94sa39E3pwdQ4Rgk1S), [Liam Beeson](https://open.spotify.com/artist/1JzQLoxKEDECoItUP7jR8I), [Kyle Anderson](https://open.spotify.com/artist/74GuAuCz0mWRUiqL4KPJKh) | [This Place Wasn't Meant for Us](https://open.spotify.com/album/5Bd50hiF1gv2UU7ysnx3wM) | 4:22 |
+| 13 | [Seeing Red](https://open.spotify.com/track/4RCsxImpbVG07SZls4KShV) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [This Place Wasn't Meant for Us](https://open.spotify.com/album/5Bd50hiF1gv2UU7ysnx3wM) | 4:22 |
 | 14 | [Gun In The Duffel Bag](https://open.spotify.com/track/3UQRbslQYuNJBEJx18F9DK) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [Gun In The Duffel Bag](https://open.spotify.com/album/7Gm8YxceqFlYL4rARkmzTh) | 3:07 |
 | 15 | [Your Ghost Again](https://open.spotify.com/track/0DR0WsV57b7ZyiHCEBvKQY) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Your Ghost Again](https://open.spotify.com/album/03rT8X0sUnxyKN8TECd1xA) | 4:35 |
 | 16 | [SONG OF THE SWAMP](https://open.spotify.com/track/4AbGzxD4kxvdoCX55DLumA) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [IT CALLS ME BY NAME](https://open.spotify.com/album/0dGjNVNmtc3ZkrK6YgwjLL) | 3:18 |

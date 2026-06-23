@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear. Updated weekly.",
-  "num_followers": 739,
+  "num_followers": 743,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAADvP2/jFoZIyA+BJUwm3rGh8oJpzUO",
+  "snapshot_id": "AAADv8rhUCBSt1vG7kJXF83VYKhbt0LR",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -1087,6 +1087,54 @@
       "duration_ms": 231900,
       "name": "Chasing Taste",
       "url": "https://open.spotify.com/track/2OnXAQlNqA5ulvDJAdMbNm"
+    },
+    {
+      "added_at": "2026-06-22 14:24:34",
+      "album": {
+        "name": "Anthem",
+        "url": "https://open.spotify.com/album/5wg8ZXbOlWn14e7NdFOs3D"
+      },
+      "artists": [
+        {
+          "name": "No Man's Land",
+          "url": "https://open.spotify.com/artist/4DrY8MPAU23CWiFre0klEI"
+        }
+      ],
+      "duration_ms": 198529,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/7yERL9lG267wju2Ufue3ac"
+    },
+    {
+      "added_at": "2026-06-22 15:14:35",
+      "album": {
+        "name": "The Winter Sloths",
+        "url": "https://open.spotify.com/album/3wjHKUaiAB5FmDqvM7s3Rr"
+      },
+      "artists": [
+        {
+          "name": "The Winter Sloths",
+          "url": "https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD"
+        }
+      ],
+      "duration_ms": 208860,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/1fpxd2RNpar9ICN3JyckXW"
+    },
+    {
+      "added_at": "2026-06-22 15:16:38",
+      "album": {
+        "name": "Too Close To The Headlights",
+        "url": "https://open.spotify.com/album/01McrIbaakCYoirVvaeqKQ"
+      },
+      "artists": [
+        {
+          "name": "Frode M\u00f8ller",
+          "url": "https://open.spotify.com/artist/5r3LiRT8ytsGdckgx8hJwo"
+        }
+      ],
+      "duration_ms": 227913,
+      "name": "Too Close To The Headlights",
+      "url": "https://open.spotify.com/track/1FvzRpndnImsgnoEXxm6ce"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

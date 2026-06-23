@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover:  Slayyyter",
-  "num_followers": 65368,
+  "num_followers": 65371,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-06-02 19:01:30",
       "album": {
+        "name": "La M\u00e1quina",
+        "url": "https://open.spotify.com/album/7HPpJQmljEPIaedgm7vBsa"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 154912,
+      "name": "La M\u00e1quina",
+      "url": "https://open.spotify.com/track/5acc1o99QTGUXSkKQHnpZZ"
+    },
+    {
+      "added_at": "2026-06-02 19:01:30",
+      "album": {
         "name": "SYNY 3 ACT III",
         "url": "https://open.spotify.com/album/4HGO4xsnxiXdUylihPjTUB"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 160000,
       "name": "Clink",
       "url": "https://open.spotify.com/track/60eUWIGVnOBdVOs14dz0UP"
-    },
-    {
-      "added_at": "2026-06-02 19:01:30",
-      "album": {
-        "name": "La M\u00e1quina",
-        "url": "https://open.spotify.com/album/7HPpJQmljEPIaedgm7vBsa"
-      },
-      "artists": [
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
-        }
-      ],
-      "duration_ms": 154912,
-      "name": "La M\u00e1quina",
-      "url": "https://open.spotify.com/track/5acc1o99QTGUXSkKQHnpZZ"
     },
     {
       "added_at": "2026-06-02 19:01:30",

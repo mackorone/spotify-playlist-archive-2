@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Dee Lestari
 
-[Spotify](https://open.spotify.com/user/spotify) - 791,958 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 791,968 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jadi Udara](https://open.spotify.com/track/6yJhH3vYp2W5zuJjAtixsq) | [Dee Lestari](https://open.spotify.com/artist/1mCcTwpEABnSVB4D8rXfRN) | [\(Jangan\) Jatuh Cinta](https://open.spotify.com/album/1l1ET8aN8W78ajd5RJ9lpc) | 3:21 |
 | 2 | [Jangan Buang Aku \- From "Jangan Buang Ibu"](https://open.spotify.com/track/6301hTQ5Nfhslz9nuwTY44) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Jangan Buang Aku \(From "Jangan Buang Ibu"\)](https://open.spotify.com/album/3tMhg0MILsOCiIvXU6KwhP) | 4:03 |
-| 3 | [Janji Setia](https://open.spotify.com/track/6cfod5D7hS31TbRtH16kQx) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [MELONii](https://open.spotify.com/artist/5IVgCOmq1RxhSQ9lcf3ZMi) | [Janji Setia](https://open.spotify.com/album/0KuBeerNz7JtLRsvWDEbgg) | 4:21 |
+| 3 | [Janji Setia](https://open.spotify.com/track/6cfod5D7hS31TbRtH16kQx) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [MELONii](https://open.spotify.com/artist/5IVgCOmq1RxhSQ9lcf3ZMi) | [Janji Setia \(Janji Setia Korean Version\)](https://open.spotify.com/album/0KuBeerNz7JtLRsvWDEbgg) | 4:21 |
 | 4 | [Semesta](https://open.spotify.com/track/7BMJc5ZALrkYLjI5XmjVfk) | [Kenriz](https://open.spotify.com/artist/0KNqyNkuttIabEfX3lSUuT) | [Semesta](https://open.spotify.com/album/7DIuyyWBJwaqFwVUJGxTfL) | 3:30 |
 | 5 | [DAUN DAUN](https://open.spotify.com/track/2Zw0xtVTugeQIDLbkh7Yzm) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [RASI BINTANG](https://open.spotify.com/album/3HsjsVPBsqUrND6IjjKGCs) | 4:35 |
 | 6 | [Sesi Potret](https://open.spotify.com/track/4xoY4lZNoTjEuHsSmhgF1G) | [eńau](https://open.spotify.com/artist/0agUNq8PH1QSgm88EuhM1u), [Ari Lesmana](https://open.spotify.com/artist/3MMDw11m6HJrXlGOE3honc) | [Sesi Potret](https://open.spotify.com/album/25hlG9lEbc2ARvZXY4ZDhv) | 4:03 |

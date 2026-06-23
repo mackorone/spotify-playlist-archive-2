@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste Hollands & Volkspop releases. Cover: Frans Duijts & Lange Frans",
-  "num_followers": 156166,
+  "num_followers": 156175,
   "original_name": "Liever Hollands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMBxypXYCzGimbPtHUZ43ziQZRu3",
+  "snapshot_id": "AAAAAA0/pzPSj/3IPTHlbPnEwwlUxsJm",
   "tracks": [
     {
       "added_at": "2026-06-18 22:01:12",
@@ -47,6 +47,22 @@
       "duration_ms": 178572,
       "name": "Stem In Je Hart",
       "url": "https://open.spotify.com/track/3gDh5tdexIUxKyRvlqXmxk"
+    },
+    {
+      "added_at": "2026-06-18 22:01:12",
+      "album": {
+        "name": "Hypnose",
+        "url": "https://open.spotify.com/album/5Z1NBukAhJkZiMbXj6kjcz"
+      },
+      "artists": [
+        {
+          "name": "Ray Benjamin",
+          "url": "https://open.spotify.com/artist/0VwHX0pPR8qRDo2xHpTXCJ"
+        }
+      ],
+      "duration_ms": 160781,
+      "name": "Hypnose",
+      "url": "https://open.spotify.com/track/7ATMIrDLDbASh2lscHksUd"
     },
     {
       "added_at": "2026-06-18 22:01:12",
@@ -199,22 +215,6 @@
       "duration_ms": 142965,
       "name": "Zandloopster",
       "url": "https://open.spotify.com/track/4ltDygbHH5SfnRsfmuDLRl"
-    },
-    {
-      "added_at": "2026-06-18 22:01:12",
-      "album": {
-        "name": "Hypnose",
-        "url": "https://open.spotify.com/album/5Z1NBukAhJkZiMbXj6kjcz"
-      },
-      "artists": [
-        {
-          "name": "Ray Benjamin",
-          "url": "https://open.spotify.com/artist/0VwHX0pPR8qRDo2xHpTXCJ"
-        }
-      ],
-      "duration_ms": 160781,
-      "name": "Hypnose",
-      "url": "https://open.spotify.com/track/7ATMIrDLDbASh2lscHksUd"
     },
     {
       "added_at": "2026-06-18 22:01:12",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Ben Evers, Najeh
 
-[Spotify](https://open.spotify.com/user/spotify) - 746,208 likes - 110 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 746,173 likes - 110 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 | 14 | [Trust Me](https://open.spotify.com/track/5qP8KF9stgPaaXuXu2Hj1I) | [Dunmore Brothers](https://open.spotify.com/artist/66IBwwjqDnQ18LFOtA687W), [Ben Westbeech](https://open.spotify.com/artist/0qP3Irw4a8UFvXv6KQf3XM) | [Trust Me](https://open.spotify.com/album/7bjWBTStahgU0XbOWNkLoh) | 3:22 |
 | 15 | [GANGSTA](https://open.spotify.com/track/5w2J3jCuxhCKXSeAKooytB) | [Joss Dean](https://open.spotify.com/artist/5wY7g9kThj0QTE33r30CXf) | [GANGSTA](https://open.spotify.com/album/2FkZgqzJkucGubEC2Zw76l) | 3:00 |
 | 16 | [Baby](https://open.spotify.com/track/5q6QXK4K3DvIlwGEtElny3) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Baby](https://open.spotify.com/album/4MbyPhOldP6NLm1CZf8Oxo) | 3:13 |
-| 17 | [Shaded \- Edit](https://open.spotify.com/track/6hkD84eR7vRyge3O2hhP3m) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS), [Shades of Rhythm](https://open.spotify.com/artist/1BRpMOjIH52Y93hbROTMXc) | [Shaded](https://open.spotify.com/album/4XDqE68uIPziiH89UkQcgr) | 3:02 |
+| 17 | [Shaded \- Edit](https://open.spotify.com/track/6hkD84eR7vRyge3O2hhP3m) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS), [Shades of Rhythm](https://open.spotify.com/artist/1BRpMOjIH52Y93hbROTMXc) | [Shaded \(Edit\)](https://open.spotify.com/album/4XDqE68uIPziiH89UkQcgr) | 3:02 |
 | 18 | [Mesmerize](https://open.spotify.com/track/0oDbO6K2eYSobaJmDM1cNw) | [Cam Stockman](https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg) | [Mesmerize](https://open.spotify.com/album/5KfSWHvDUW05seZMLbirnL) | 3:18 |
 | 19 | [Good Life](https://open.spotify.com/track/5dtFOeNz6FEtZSPkm5f1Ed) | [ALISHA](https://open.spotify.com/artist/1zUgvtlUR6jXtCUCF0j3fe), [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma) | [Good Life](https://open.spotify.com/album/6SIJVH2p0eLprExmSDDCml) | 3:01 |
 | 20 | [Work It Out](https://open.spotify.com/track/45FTnF7YPwGWFebjG8AmGO) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Work It Out](https://open.spotify.com/album/2J1EDRiGKwyK9ghGji2gCS) | 3:44 |

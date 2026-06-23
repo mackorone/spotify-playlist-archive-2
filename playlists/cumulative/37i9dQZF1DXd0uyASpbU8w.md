@@ -2,7 +2,7 @@
 
 ### [New Music Friday South Africa](https://open.spotify.com/playlist/37i9dQZF1DXd0uyASpbU8w)
 
-> New music from Shimza, Tyla, Al Xapo, and more.
+> New music from Shimza, Tyla, Al Xapo & Benzoo, The Joy and more.
 
 10,678 songs - 31 day 3 hr 18 min
 

@@ -1,6 +1,6 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 135645,
+  "num_followers": 135691,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "Too Hot to Handle (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8"
-      },
-      "artists": [
-        {
-          "name": "Heatwave",
-          "url": "https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY"
-        }
-      ],
-      "duration_ms": 377106,
-      "name": "Always and Forever",
-      "url": "https://open.spotify.com/track/3w0pyHgJJW9JN0cJxmi33Z"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "The Duke Of Earl",
         "url": "https://open.spotify.com/album/2VmU63FIBsGgQYItCvsYkl"
       },
@@ -523,18 +507,18 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "A Quiet Storm",
-        "url": "https://open.spotify.com/album/7LRGv7pDjDJtqhThkocBXZ"
+        "name": "Too Hot to Handle (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8"
       },
       "artists": [
         {
-          "name": "Smokey Robinson",
-          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
+          "name": "Heatwave",
+          "url": "https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY"
         }
       ],
-      "duration_ms": 289240,
-      "name": "The Agony And The Ecstasy",
-      "url": "https://open.spotify.com/track/5tJtbMylDCdtsQf4R02qer"
+      "duration_ms": 377106,
+      "name": "Always and Forever",
+      "url": "https://open.spotify.com/track/3w0pyHgJJW9JN0cJxmi33Z"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -555,18 +539,34 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "The Best Of Bobby Vinton",
-        "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
+        "name": "A Quiet Storm",
+        "url": "https://open.spotify.com/album/7LRGv7pDjDJtqhThkocBXZ"
       },
       "artists": [
         {
-          "name": "Bobby Vinton",
-          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
+          "name": "Smokey Robinson",
+          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
         }
       ],
-      "duration_ms": 161373,
-      "name": "Mr. Lonely",
-      "url": "https://open.spotify.com/track/5KG2ahk1cONbHvg3dBdTbx"
+      "duration_ms": 289240,
+      "name": "The Agony And The Ecstasy",
+      "url": "https://open.spotify.com/track/5tJtbMylDCdtsQf4R02qer"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "James & Bobby Purify",
+        "url": "https://open.spotify.com/album/7B9SrtNRzt2yyxww4URgMK"
+      },
+      "artists": [
+        {
+          "name": "James & Bobby Purify",
+          "url": "https://open.spotify.com/artist/1qO2mRQM4zbksO586oM0W7"
+        }
+      ],
+      "duration_ms": 181749,
+      "name": "I'm Your Puppet",
+      "url": "https://open.spotify.com/track/5z71EfouOWMI4HHZHEjnkr"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -587,18 +587,18 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "James & Bobby Purify",
-        "url": "https://open.spotify.com/album/7B9SrtNRzt2yyxww4URgMK"
+        "name": "The Best Of Bobby Vinton",
+        "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
       },
       "artists": [
         {
-          "name": "James & Bobby Purify",
-          "url": "https://open.spotify.com/artist/1qO2mRQM4zbksO586oM0W7"
+          "name": "Bobby Vinton",
+          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
         }
       ],
-      "duration_ms": 181749,
-      "name": "I'm Your Puppet",
-      "url": "https://open.spotify.com/track/5z71EfouOWMI4HHZHEjnkr"
+      "duration_ms": 161373,
+      "name": "Mr. Lonely",
+      "url": "https://open.spotify.com/track/5KG2ahk1cONbHvg3dBdTbx"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -687,22 +687,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "All the Greatest Hits",
-        "url": "https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ"
-      },
-      "artists": [
-        {
-          "name": "Zapp",
-          "url": "https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi"
-        }
-      ],
-      "duration_ms": 282480,
-      "name": "Computer Love",
-      "url": "https://open.spotify.com/track/677tTabxmQFZjoNlo2E6JW"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "With Love",
         "url": "https://open.spotify.com/album/6tusv1rVUc9eH5XbeXfFud"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 285098,
       "name": "Make It With You",
       "url": "https://open.spotify.com/track/1MTjPvCioj81IsSX66IB2a"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "All the Greatest Hits",
+        "url": "https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ"
+      },
+      "artists": [
+        {
+          "name": "Zapp",
+          "url": "https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi"
+        }
+      ],
+      "duration_ms": 282480,
+      "name": "Computer Love",
+      "url": "https://open.spotify.com/track/677tTabxmQFZjoNlo2E6JW"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -968,9 +968,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 120153,
-      "name": "Sad Girl",
-      "url": "https://open.spotify.com/track/1eAZTu3kRk98Exu0n92YMC"
+      "duration_ms": 162172,
+      "name": "Cowboys to Girls",
+      "url": "https://open.spotify.com/track/6n3WVi0pxFQuAjAQRPPryY"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -1060,9 +1060,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 162172,
-      "name": "Cowboys to Girls",
-      "url": "https://open.spotify.com/track/6n3WVi0pxFQuAjAQRPPryY"
+      "duration_ms": 120153,
+      "name": "Sad Girl",
+      "url": "https://open.spotify.com/track/1eAZTu3kRk98Exu0n92YMC"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "Grazin'",
-        "url": "https://open.spotify.com/album/3LPgvdYSDRmaRmZV0KA0Kw"
-      },
-      "artists": [
-        {
-          "name": "The Friends Of Distinction",
-          "url": "https://open.spotify.com/artist/2KK4fR5VwOjGzJxjbGxMIu"
-        }
-      ],
-      "duration_ms": 252280,
-      "name": "Going In Circles",
-      "url": "https://open.spotify.com/track/5gUk26spbkbYgXmDTMbW3C"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "Meet The Temptations",
         "url": "https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 152933,
       "name": "I Want A Love I Can See",
       "url": "https://open.spotify.com/track/5XOGZdDM17WzrXRQz96Fu1"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "Grazin'",
+        "url": "https://open.spotify.com/album/3LPgvdYSDRmaRmZV0KA0Kw"
+      },
+      "artists": [
+        {
+          "name": "The Friends Of Distinction",
+          "url": "https://open.spotify.com/artist/2KK4fR5VwOjGzJxjbGxMIu"
+        }
+      ],
+      "duration_ms": 252280,
+      "name": "Going In Circles",
+      "url": "https://open.spotify.com/track/5gUk26spbkbYgXmDTMbW3C"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -2163,6 +2163,22 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/2Wbsn92Jn7DRKQFu7HOzuo"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+        }
+      ],
+      "duration_ms": 194760,
+      "name": "You've Really Got A Hold On Me",
+      "url": "https://open.spotify.com/track/2tpOcRwFsv51JxUJmbtVOm"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
         "name": "East Side Story Volume 5",
         "url": "https://open.spotify.com/album/3uu9QZuucFOoU9ttMO4Kxl"
       },
@@ -2191,22 +2207,6 @@
       "duration_ms": 287266,
       "name": "Always and Forever - Edit",
       "url": "https://open.spotify.com/track/0fKDnkXdfJwk0DEW9W83VY"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/2Wbsn92Jn7DRKQFu7HOzuo"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson & The Miracles",
-          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
-        }
-      ],
-      "duration_ms": 194760,
-      "name": "You've Really Got A Hold On Me",
-      "url": "https://open.spotify.com/track/2tpOcRwFsv51JxUJmbtVOm"
     },
     {
       "added_at": "2025-05-23 07:54:59",

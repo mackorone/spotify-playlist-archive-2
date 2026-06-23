@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 524,
+  "num_followers": 523,
   "original_name": "u pwetty",
   "owner": {
     "name": "CerVon Campbell",
     "url": "https://open.spotify.com/user/1275620579"
   },
-  "snapshot_id": "AAAV96QZexnV6rjCVhXwKUjue+wXcPXa",
+  "snapshot_id": "AAAV/A2amk3JG1l9eq9KkgXfY7P2lsH7",
   "tracks": [
     {
       "added_at": "2025-03-12 13:37:59",
@@ -4071,6 +4071,94 @@
       "duration_ms": 221265,
       "name": "Prosthetic",
       "url": "https://open.spotify.com/track/2qRfwaLyZW1jDyQoYhAahd"
+    },
+    {
+      "added_at": "2026-06-22 19:31:03",
+      "album": {
+        "name": "Tell the Dark",
+        "url": "https://open.spotify.com/album/5NRjQ5jjyOvF0tcnThR257"
+      },
+      "artists": [
+        {
+          "name": "Zenpo Geri",
+          "url": "https://open.spotify.com/artist/4F8DKNyaw1TfGLPA5CcQeo"
+        },
+        {
+          "name": "Ariana Celaeno",
+          "url": "https://open.spotify.com/artist/3Igpr26HgdrjS1nf4ePyPX"
+        }
+      ],
+      "duration_ms": 197590,
+      "name": "Tell the Dark",
+      "url": "https://open.spotify.com/track/6RnmaArOafxo6YfbKHtyIs"
+    },
+    {
+      "added_at": "2026-06-22 19:31:07",
+      "album": {
+        "name": "SATURATION",
+        "url": "https://open.spotify.com/album/2BQB5dXXMSsYAQKx0V8YMb"
+      },
+      "artists": [
+        {
+          "name": "Adanah",
+          "url": "https://open.spotify.com/artist/6eG9vnRQdyCjQCfJnpC03N"
+        }
+      ],
+      "duration_ms": 99880,
+      "name": "Ce monde est sale",
+      "url": "https://open.spotify.com/track/4mGlOdhgRBOtTZPHGXt6A4"
+    },
+    {
+      "added_at": "2026-06-22 19:31:10",
+      "album": {
+        "name": "Mi Mundo Sin Ti",
+        "url": "https://open.spotify.com/album/0Yjwg2KmcX9bJpjn7kp0Lf"
+      },
+      "artists": [
+        {
+          "name": "Jorge Trez",
+          "url": "https://open.spotify.com/artist/1QblYNIinirun9slUCO1Gq"
+        }
+      ],
+      "duration_ms": 136020,
+      "name": "Mi Mundo Sin Ti",
+      "url": "https://open.spotify.com/track/7iYYjbHEyidencpPySu4Os"
+    },
+    {
+      "added_at": "2026-06-22 19:31:14",
+      "album": {
+        "name": "Blue Light Special",
+        "url": "https://open.spotify.com/album/0hUunqwS7iLOvOXirxsH8E"
+      },
+      "artists": [
+        {
+          "name": "CallMeWhoElse",
+          "url": "https://open.spotify.com/artist/3sLFnlQ8XFsPNqZ2ly2cCo"
+        },
+        {
+          "name": "TeaYaMay",
+          "url": "https://open.spotify.com/artist/3S2YNukhEwW4WgEGMu16Q5"
+        }
+      ],
+      "duration_ms": 130977,
+      "name": "Blue Light Special",
+      "url": "https://open.spotify.com/track/6HRVlFltzuLK7rKBFhKVIA"
+    },
+    {
+      "added_at": "2026-06-23 00:20:11",
+      "album": {
+        "name": "Believe in Me",
+        "url": "https://open.spotify.com/album/40CUhO4l1bIl6sLoVgmHmb"
+      },
+      "artists": [
+        {
+          "name": "TriniPrince",
+          "url": "https://open.spotify.com/artist/6WPYob9LKVO2vFN2ZCZkZl"
+        }
+      ],
+      "duration_ms": 112991,
+      "name": "Believe in Me",
+      "url": "https://open.spotify.com/track/3PW9C68cjN0FZVMsBjuYYy"
     }
   ],
   "unique_name": "u pwetty",

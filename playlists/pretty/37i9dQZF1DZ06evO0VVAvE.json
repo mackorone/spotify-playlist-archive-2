@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 11072,
+  "num_followers": 11095,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajXYAAAAAAA/X5rBLZ4OMJWO69b8s2D2",
+  "snapshot_id": "ajcpgAAAAAC1jEvsjWpsFQJ3kk1Vy/PU",
   "tracks": [
     {
       "added_at": null,
@@ -163,22 +163,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/0HxAGJYlpgABL4M0m8EqCK"
+        "name": "El Major",
+        "url": "https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn"
       },
       "artists": [
         {
-          "name": "Marleykiddo",
-          "url": "https://open.spotify.com/artist/09gRSQOoMvuN6nxM5B7LlK"
-        },
-        {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "Skiibii",
+          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
         }
       ],
-      "duration_ms": 172105,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/0U41OjwzjJEiyTUgAMqn9Y"
+      "duration_ms": 132856,
+      "name": "Kilo",
+      "url": "https://open.spotify.com/track/1CtTVV922T15I2JV6h5jgy"
     },
     {
       "added_at": null,
@@ -199,22 +199,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Major",
-        "url": "https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn"
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/0HxAGJYlpgABL4M0m8EqCK"
       },
       "artists": [
         {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+          "name": "Marleykiddo",
+          "url": "https://open.spotify.com/artist/09gRSQOoMvuN6nxM5B7LlK"
         },
         {
-          "name": "Skiibii",
-          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 132856,
-      "name": "Kilo",
-      "url": "https://open.spotify.com/track/1CtTVV922T15I2JV6h5jgy"
+      "duration_ms": 172105,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/0U41OjwzjJEiyTUgAMqn9Y"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,374 likes - 104 songs - 6 hr 11 min
+[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,377 likes - 107 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,5 +112,8 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 | 102 | [For His Better Three Quarters](https://open.spotify.com/track/5D4gO0zn1nuXAdvFHnaaG4) | [Peplo](https://open.spotify.com/artist/69Befn5bTbE1KSQOQ2yVu5) | [For His Better Three Quarters](https://open.spotify.com/album/4x4GfPNzJELJlogra2nLGY) | 3:22 |
 | 103 | [Sunday feelin blue](https://open.spotify.com/track/5HxpA82MBhLlzrB46cqeGk) | [The Shine](https://open.spotify.com/artist/0hI3GGqvOL7dGXATVv9PDL) | [Sunday feelin blue](https://open.spotify.com/album/2LRE6xZXyyl89ycUp7Nepf) | 2:42 |
 | 104 | [Lips Parted](https://open.spotify.com/track/6Kg0rGcKTqAHqBt6ZD7wn4) | [Both Hands](https://open.spotify.com/artist/3flW9Wdr8HajNi1zIRjQCW) | [Lips Parted](https://open.spotify.com/album/1DfPPo6CWL6sgWvqzkjN6j) | 4:26 |
+| 105 | [Distance to Empty](https://open.spotify.com/track/5711xKDW3beA91Cv0KLtAM) | [Up Too Late](https://open.spotify.com/artist/40G67I5n1SGlmXuToviTt4) | [Distance to Empty](https://open.spotify.com/album/4u8gJUVpbtmO5GRbgJDRxr) | 2:20 |
+| 106 | [The World's Fairytale](https://open.spotify.com/track/3967kWoIKt352K1STgnNtS) | [Marc Miner](https://open.spotify.com/artist/1805X4Dsc005LhyxsQgu5A) | [Last Heroes](https://open.spotify.com/album/1fsRse0jMTidK4lzVSdgMF) | 2:57 |
+| 107 | [Fish & Chips](https://open.spotify.com/track/3FlfuOFyNwXyjSv8udcKQA) | [Eton Mess](https://open.spotify.com/artist/5Oy0lVKo8ShUaIH7EgXytd) | [Fish & Chips](https://open.spotify.com/album/6sGInEiyXDwzTwz5r4lSwx) | 3:44 |
 
-Snapshot ID: `AAB8Ir365gRY9mS/zaKYo+Nx0/GN9lt/`
+Snapshot ID: `AAB8JUmwl2QwMQOiMsmIq+7TIhWhWDEL`

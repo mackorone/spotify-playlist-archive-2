@@ -2,7 +2,7 @@
 
 ### [scorned](https://open.spotify.com/playlist/37i9dQZF1DX02pE0Dxwufo)
 
-> you ain't gotta die to be dead to me
+> take a louisville slugger to both headlights
 
 68 songs - 3 hr 47 min
 

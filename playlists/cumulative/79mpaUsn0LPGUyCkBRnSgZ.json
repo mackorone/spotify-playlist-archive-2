@@ -5591,6 +5591,24 @@
     },
     {
       "album": {
+        "name": "Erotica Veronica",
+        "url": "https://open.spotify.com/album/4qhA5QaHjGtDptQf2DMXTQ"
+      },
+      "artists": [
+        {
+          "name": "Miya Folick",
+          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Erotica",
+      "url": "https://open.spotify.com/track/1dBS4iejXWbLZyGpMejc1A"
+    },
+    {
+      "album": {
         "name": "GIZMO",
         "url": "https://open.spotify.com/album/7mUxu7byX5w4tdgKuUWuX1"
       },
@@ -14118,6 +14136,24 @@
       "duration_ms": 123040,
       "name": "Poor You",
       "url": "https://open.spotify.com/track/0622aJvNezLY5HG5MEnXoF"
+    },
+    {
+      "album": {
+        "name": "Something To Consume",
+        "url": "https://open.spotify.com/album/0FdOJumn3KGRDwCoLTt8CY"
+      },
+      "artists": [
+        {
+          "name": "Die Spitz",
+          "url": "https://open.spotify.com/artist/0zfZmpHTu0MlkkNr5KHeXE"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230678,
+      "name": "Pop Punk Anthem (Sorry for the Delay)",
+      "url": "https://open.spotify.com/track/0bklLrIusZYrRVRj7rOYUv"
     },
     {
       "album": {

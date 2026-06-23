@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 ### [New Music Friday South Africa](https://open.spotify.com/playlist/37i9dQZF1DXd0uyASpbU8w)
 
-> New music from Shimza, Tyla, Al Xapo, and more.
+> New music from Shimza, Tyla, Al Xapo & Benzoo, The Joy and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,205 likes - 68 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,250 likes - 68 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 67 | [Dad Bod](https://open.spotify.com/track/00YyqyBVyILKFBp1abjNpo) | [Erin Elliot](https://open.spotify.com/artist/7rDA3BljVoWImjvRZ1wEa1) | [Dad Bod](https://open.spotify.com/album/7wdzfSmcenLrF7RfwosQVA) | 2:52 |
 | 68 | [FAMOUS](https://open.spotify.com/track/75oTJxEoLGIfMrJN6tsrg0) | [Keanan Eksteen](https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C) | [Starring](https://open.spotify.com/album/4aOweR9nOEUCI30g6xYKQI) | 3:10 |
 
-Snapshot ID: `AAAAAHosqTp8BUXcxsZ3SGiwQIp0b826`
+Snapshot ID: `AAAAAEtady4393jg7k8zA/vjagtBdXll`

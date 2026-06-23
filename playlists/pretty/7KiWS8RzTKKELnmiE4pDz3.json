@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAga9V8iDL5rIEdLC2Om5gGmsfDDUVM",
+  "snapshot_id": "AAAgbGPFPCCYstG/XZo+PXg5ZNQQP2Td",
   "tracks": [
     {
       "added_at": "2022-05-03 16:09:53",
@@ -4891,6 +4891,26 @@
       "duration_ms": 274208,
       "name": "Ever Wonder",
       "url": "https://open.spotify.com/track/5mJdQciC7grIJ8Fbi0rdk7"
+    },
+    {
+      "added_at": "2026-06-22 21:33:50",
+      "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/17MNAy6AWQ1T3WHJu9gveR"
+      },
+      "artists": [
+        {
+          "name": "702",
+          "url": "https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo"
+        },
+        {
+          "name": "Clipse",
+          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+        }
+      ],
+      "duration_ms": 243133,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/1FhagjsmYU1nJg8rsnObnI"
     }
   ],
   "unique_name": "main ",

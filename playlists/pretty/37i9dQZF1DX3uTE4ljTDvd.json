@@ -295,22 +295,6 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
-        "name": "Ter Paz",
-        "url": "https://open.spotify.com/album/6rO8TZsIW5667kvsUQkpQW"
-      },
-      "artists": [
-        {
-          "name": "Geovanne Oliveira",
-          "url": "https://open.spotify.com/artist/6fcUTkDPBlx0pabVubvZiR"
-        }
-      ],
-      "duration_ms": 285660,
-      "name": "Ter Paz",
-      "url": "https://open.spotify.com/track/2NZPRJTWKpzcZQ2sMIRNty"
-    },
-    {
-      "added_at": "2026-03-02 15:12:51",
-      "album": {
         "name": "Primeira Ess\u00eancia (Ao Vivo)",
         "url": "https://open.spotify.com/album/5okyQAoZJusi8mSZgX9K0a"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 255080,
       "name": "Primeira Ess\u00eancia (Ao Vivo)",
       "url": "https://open.spotify.com/track/1buAB07FLenQs3nd0CLgMp"
+    },
+    {
+      "added_at": "2026-03-02 15:12:51",
+      "album": {
+        "name": "Ter Paz",
+        "url": "https://open.spotify.com/album/6rO8TZsIW5667kvsUQkpQW"
+      },
+      "artists": [
+        {
+          "name": "Geovanne Oliveira",
+          "url": "https://open.spotify.com/artist/6fcUTkDPBlx0pabVubvZiR"
+        }
+      ],
+      "duration_ms": 285660,
+      "name": "Ter Paz",
+      "url": "https://open.spotify.com/track/2NZPRJTWKpzcZQ2sMIRNty"
     },
     {
       "added_at": "2026-03-02 15:12:51",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
-        "name": "Pra Que Eu Fosse Livre",
-        "url": "https://open.spotify.com/album/4Rb1l85qRASxpjtSZztiKJ"
-      },
-      "artists": [
-        {
-          "name": "Klev",
-          "url": "https://open.spotify.com/artist/4fHpTbYbpiPxLygNlixLEC"
-        }
-      ],
-      "duration_ms": 288857,
-      "name": "Pra Que Eu Fosse Livre",
-      "url": "https://open.spotify.com/track/0fvBym1UrheJRFqwFPDEzH"
-    },
-    {
-      "added_at": "2026-03-02 15:12:51",
-      "album": {
         "name": "Clame a Jesus (Ao Vivo)",
         "url": "https://open.spotify.com/album/3ho9koqLjvMKLuXtKStXSY"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 267400,
       "name": "Clame a Jesus (Ao Vivo)",
       "url": "https://open.spotify.com/track/4TuBFUtxI7hV9SxUwsFawd"
+    },
+    {
+      "added_at": "2026-03-02 15:12:51",
+      "album": {
+        "name": "Pra Que Eu Fosse Livre",
+        "url": "https://open.spotify.com/album/4Rb1l85qRASxpjtSZztiKJ"
+      },
+      "artists": [
+        {
+          "name": "Klev",
+          "url": "https://open.spotify.com/artist/4fHpTbYbpiPxLygNlixLEC"
+        }
+      ],
+      "duration_ms": 288857,
+      "name": "Pra Que Eu Fosse Livre",
+      "url": "https://open.spotify.com/track/0fvBym1UrheJRFqwFPDEzH"
     },
     {
       "added_at": "2026-03-02 15:12:51",
@@ -711,18 +711,18 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
-        "name": "Algo Novo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6G0oDvXL16kzbgrMh0Hdxh"
+        "name": "Eterno",
+        "url": "https://open.spotify.com/album/1jHh5nD1NQp3yxQjti4vlZ"
       },
       "artists": [
         {
-          "name": "Sophia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v"
+          "name": "Casa Aberta",
+          "url": "https://open.spotify.com/artist/6tJ8AInnNZMwSDy1BAu8me"
         }
       ],
-      "duration_ms": 310746,
-      "name": "Algo Novo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0rXkY5mbbgVzyu1CyNh9Pr"
+      "duration_ms": 209000,
+      "name": "Eterno",
+      "url": "https://open.spotify.com/track/7MjddsjB17WD68jd2wiMpr"
     },
     {
       "added_at": "2026-03-02 15:12:51",
@@ -743,18 +743,18 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
-        "name": "Eterno",
-        "url": "https://open.spotify.com/album/1jHh5nD1NQp3yxQjti4vlZ"
+        "name": "Algo Novo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6G0oDvXL16kzbgrMh0Hdxh"
       },
       "artists": [
         {
-          "name": "Casa Aberta",
-          "url": "https://open.spotify.com/artist/6tJ8AInnNZMwSDy1BAu8me"
+          "name": "Sophia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v"
         }
       ],
-      "duration_ms": 209000,
-      "name": "Eterno",
-      "url": "https://open.spotify.com/track/7MjddsjB17WD68jd2wiMpr"
+      "duration_ms": 310746,
+      "name": "Algo Novo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0rXkY5mbbgVzyu1CyNh9Pr"
     },
     {
       "added_at": "2026-03-02 15:12:51",

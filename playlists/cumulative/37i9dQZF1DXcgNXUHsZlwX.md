@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-610 songs - 1 day 12 hr 19 min
+611 songs - 1 day 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Deux cœurs vagabonds](https://open.spotify.com/track/6wmSCqAYA4gO9jziPV2SRC) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Deux cœurs vagabonds](https://open.spotify.com/album/7ClSLWsd75Z35uuTmRNWJa) | 4:19 | 2022-01-28 | 2022-04-13 |
 | [Diapason](https://open.spotify.com/track/4J9BGcZInwo34jQz7OoZ6R) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8) | [Diapason](https://open.spotify.com/album/6rl0ZMWPSni69nx5kheicc) | 2:26 | 2021-01-30 | 2022-07-27 |
 | [Did Life Work Out for You?](https://open.spotify.com/track/16pDdqp376bpBsBFAZqb0R) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [A Week in Nashville](https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1) | 3:19 | 2024-05-17 |  |
+| [Différent](https://open.spotify.com/track/6AYPK55XV15ky76ylAttXw) | [Minou](https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM) | [Différent](https://open.spotify.com/album/361keo8iWC2C1JP2tnFpCk) | 3:59 | 2026-06-19 |  |
 | [Dis\-moi où tu m'emmènes](https://open.spotify.com/track/7yL5X05lVrh1oybCGCzwHg) | [Erwan](https://open.spotify.com/artist/3uWhb8ADEysVQ5IRoFfAcH) | [Dis\-moi où tu m'emmènes](https://open.spotify.com/album/1g74s7wR4aXTqv9XzIAHtE) | 3:37 | 2021-09-19 | 2021-11-13 |
 | [Dizzy](https://open.spotify.com/track/3ii39q3PlsdGcL2QAxc2pe) | [Edward Rogers](https://open.spotify.com/artist/45nWsdrg5SQJevmlzfCuo1) | [Dizzy](https://open.spotify.com/album/0dD2rA5I3QnNxbzxmnHNe7) | 3:03 | 2026-04-10 |  |
 | [Dog \(everybody learns\)](https://open.spotify.com/track/0aQ7qATPeO0gixsNa3hE2Q) | [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA) | [Dog \(everybody learns\)](https://open.spotify.com/album/0Iv6SYVClQZFosOykS8jhP) | 3:13 | 2026-02-27 |  |
@@ -547,7 +548,7 @@
 | [Too Far to Run](https://open.spotify.com/track/1469IXFAtWFkL11GREMfKD) | [Daniel Isaiah](https://open.spotify.com/artist/4aDuNE6LWkaBuXT43fA4P6) | [Too Far to Run](https://open.spotify.com/album/4U014bkh4YKajHqOLlRtlL) | 3:02 | 2026-03-06 | 2026-03-14 |
 | [Tous les chemins / Darl Bundren](https://open.spotify.com/track/6IRdDBcQLbaCkRnbllf2x1) | [Hôtel Invisible](https://open.spotify.com/artist/7f7YYtcRIuuRYU6KOjxBZD) | [Le Théâtre Zéro](https://open.spotify.com/album/2BCLDUi2WK0GKmJwsr3R6Z) | 3:42 | 2021-04-19 | 2021-05-28 |
 | [Tout ce qu'il faut](https://open.spotify.com/track/390ZAYNYk1BcfKljH81feS) | [Félix Lemelin](https://open.spotify.com/artist/5AV5KFAMnP1PcDCZaQKiBY) | [Seul à la fin](https://open.spotify.com/album/49T2GUj3Yt681hTLnLSK0G) | 3:17 | 2022-04-08 | 2022-04-20 |
-| [Tout refaire](https://open.spotify.com/track/2BnIzEkGpodTkFOX3hs4qM) | [maudit vincent](https://open.spotify.com/artist/25mJaUC1juKOVjIfb0JUqJ) | [Tout refaire](https://open.spotify.com/album/1d1S5Ep6n7ta7ShS6Q0LpU) | 2:18 | 2026-05-29 |  |
+| [Tout refaire](https://open.spotify.com/track/2BnIzEkGpodTkFOX3hs4qM) | [maudit vincent](https://open.spotify.com/artist/25mJaUC1juKOVjIfb0JUqJ) | [Tout refaire](https://open.spotify.com/album/1d1S5Ep6n7ta7ShS6Q0LpU) | 2:18 | 2026-05-29 | 2026-06-23 |
 | [Trait d'union](https://open.spotify.com/track/3MPu4eRKLkV6HOb1Ac8YsV) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [Trait d'union](https://open.spotify.com/album/4aQNQZ4nwVCZDqgBFGj4A3) | 4:05 | 2023-08-25 | 2025-10-18 |
 | [Transatlantic Flight \- Live at Roy Thomson Hall](https://open.spotify.com/track/1fUuUjWmAEUSYvqZnPFLVB) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [New Waves \(Live Recordings ’19\-’21\)](https://open.spotify.com/album/15I1wphrnMoeRZ38YqiqgR) | 7:10 | 2022-02-18 | 2023-07-07 |
 | [Tshe minupunanu](https://open.spotify.com/track/1SPoPSwGya3pycdKaIchnC) | [Émile Bilodeau](https://open.spotify.com/artist/0q9gV5iFHokttrI4WBuRQu), [Scott\-Pien Picard](https://open.spotify.com/artist/0J1gu80owc4vKFGUr78k7E), [Maten](https://open.spotify.com/artist/00PhJFghTO58e6Je0DiPh9) | [Tshe minupunanu](https://open.spotify.com/album/2uceOZsLGJTEm7NQjgPGfE) | 3:50 | 2022-06-10 | 2022-06-22 |

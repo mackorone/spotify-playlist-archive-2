@@ -2,7 +2,7 @@
 
 ### [Verano 2026](https://open.spotify.com/playlist/37i9dQZF1DX9gKTxAbfFfX)
 
-> Tu banda sonora de este verano\. Foto: Myke Towers.
+> Tu banda sonora de este verano\. Foto: Quevedo.
 
 363 songs - 19 hr 33 min
 

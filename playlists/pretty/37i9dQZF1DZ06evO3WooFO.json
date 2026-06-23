@@ -1,12 +1,12 @@
 {
   "description": "This is blink-182. The essential tracks, all in one playlist.",
-  "num_followers": 626114,
+  "num_followers": 626185,
   "original_name": "This Is blink-182",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajXYAAAAAAAL0/ReAqsxPTX1kBs0rd9U",
+  "snapshot_id": "ajcpgAAAAABlliyZCnDH+zgLWvgMLAKe",
   "tracks": [
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Take Off Your Pants And Jacket (25 Year Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5otlnw7SmrdBwk2Uywc7Bu"
+        "name": "Dogs Eating Dogs",
+        "url": "https://open.spotify.com/album/3Jpdv1X5cweLrcebtM1tar"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 86045,
-      "name": "Fuck A Dog",
-      "url": "https://open.spotify.com/track/3P58efLF7neLj7U1SZeA9x"
+      "duration_ms": 222866,
+      "name": "Disaster",
+      "url": "https://open.spotify.com/track/5bEDnPCC90lizjjpxx2Gs9"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dogs Eating Dogs",
-        "url": "https://open.spotify.com/album/3Jpdv1X5cweLrcebtM1tar"
+        "name": "Take Off Your Pants And Jacket (25 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5otlnw7SmrdBwk2Uywc7Bu"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 222866,
-      "name": "Disaster",
-      "url": "https://open.spotify.com/track/5bEDnPCC90lizjjpxx2Gs9"
+      "duration_ms": 86045,
+      "name": "Fuck A Dog",
+      "url": "https://open.spotify.com/track/3P58efLF7neLj7U1SZeA9x"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Motive
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,405,788 likes - 49 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,405,814 likes - 49 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,14 +15,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 5 | [Başa Bela](https://open.spotify.com/track/0onzYPfM09MY31tUkb0xgj) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Başa Bela](https://open.spotify.com/album/2c8n5PoruLqgaGQYmACWe8) | 2:34 |
 | 6 | [SİNEMATOGRAF](https://open.spotify.com/track/2UIkjmKJATC4ssvONBlcB7) | [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr), [Tuby](https://open.spotify.com/artist/3VuBOZYMdaEEp1uxtf9s2J) | [SİNEMATOGRAF](https://open.spotify.com/album/02U1wZI0SnyLgD2mzuwWho) | 1:42 |
 | 7 | [IT’S US](https://open.spotify.com/track/0VK82DF3bZEh8tVQY71Nev) | [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [IT’S US](https://open.spotify.com/album/2Agk8fhkC1FZCHq6GZGJtq) | 3:14 |
-| 8 | [MANDALINA](https://open.spotify.com/track/4Z0gQavxUSCqj9cx55Owtp) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE) | [MANDALINA](https://open.spotify.com/album/1aHP1cXuU6iaBQxUlVVDGS) | 3:29 |
+| 8 | [MANDALINA](https://open.spotify.com/track/4Z0gQavxUSCqj9cx55Owtp) | [Motive](https://open.spotify.com/artist/5LjOSVqRWRs1eL2OY297Jg), [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE) | [MANDALINA](https://open.spotify.com/album/1aHP1cXuU6iaBQxUlVVDGS) | 3:29 |
 | 9 | [CNM](https://open.spotify.com/track/7xIYLsVeOWzOcHOaIbggFO) | [Eza](https://open.spotify.com/artist/2gxy3wuy69FehyTu3iuRl2), [Halodayı](https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r) | [CNM](https://open.spotify.com/album/7meLQbV7lHQABJf6fspJLR) | 2:06 |
 | 10 | [çok güzel](https://open.spotify.com/track/4R7yrDbKL1tFKH8FBUyPmH) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [çok güzel](https://open.spotify.com/album/4ItYxXh3CsTQWruARGGEWd) | 2:04 |
 | 11 | [Anahtar](https://open.spotify.com/track/4w6NCibR0jw5qRRnkmyP9y) | [Burry Soprano](https://open.spotify.com/artist/5SpHQasdZkIx2RFJzvBBsD) | [Anahtar](https://open.spotify.com/album/0s5rMCGMGEdqjvHL9bL3HR) | 2:20 |
 | 12 | [3 PARMAK](https://open.spotify.com/track/0xcGXOEEqflhk0tNs14G1w) | [Motive](https://open.spotify.com/artist/5LjOSVqRWRs1eL2OY297Jg) | [PASAJ](https://open.spotify.com/album/1Z8g0yHfmg7xlXtHVtZw1M) | 2:26 |
 | 13 | [GODFATHER](https://open.spotify.com/track/3ZNdVXSkxTOWuOwokuMrlS) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [GODFATHER](https://open.spotify.com/album/0h1NFZruvDZLykRf6IDW9k) | 2:06 |
 | 14 | [LISPO](https://open.spotify.com/track/6qGm658nHttsc5lrCbjEC3) | [Tuğrul Bektaş](https://open.spotify.com/artist/3QQWKCc48eBmxfw5wOrmgN), [vayti](https://open.spotify.com/artist/1lhhI6S7bSAi8nnhUj5a0Z) | [LISPO](https://open.spotify.com/album/1RE8XsrzV1bgjwQWKrZsQT) | 1:58 |
-| 15 | [ŞEHRİME BOMBALAR](https://open.spotify.com/track/52e9OPUMOE97on91NrpxnK) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [ŞEHRİME BOMBALAR](https://open.spotify.com/album/2M3aPZy8C5cUuZLb7INQzV) | 2:43 |
+| 15 | [ŞEHRİME BOMBALAR](https://open.spotify.com/track/52e9OPUMOE97on91NrpxnK) | [Motive](https://open.spotify.com/artist/5LjOSVqRWRs1eL2OY297Jg) | [ŞEHRİME BOMBALAR](https://open.spotify.com/album/2M3aPZy8C5cUuZLb7INQzV) | 2:43 |
 | 16 | [kalp yok](https://open.spotify.com/track/1wrptgj7ZrWn4KKeUrMnkU) | [Modd](https://open.spotify.com/artist/3nJwTniwCxDrgoVKeqIWoT) | [KALP YOK](https://open.spotify.com/album/3NDS1GtGIJYF9lA6vDcvw9) | 3:01 |
 | 17 | [TSS](https://open.spotify.com/track/17AsRHpZDmS2uWL3ad27yI) | [KAVAK](https://open.spotify.com/artist/24OGdBr3r58ksMLJkMXZZY), [BAKAN](https://open.spotify.com/artist/3pELTNcBXbfHktNPFTUsNW) | [VAKKO](https://open.spotify.com/album/44YjUTmNcWVQwJWNU2XwaJ) | 1:58 |
 | 18 | [Ellere Bıraktın](https://open.spotify.com/track/6THM6HIgBtUq3qArP3pM9L) | [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y) | [TÖVBE](https://open.spotify.com/album/0zOntUDKIKKnCI17Amhzak) | 2:17 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 25 | [Kayıp Kalp](https://open.spotify.com/track/3H4aYDeSswC31fSOWJtWdg) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [KAYIP PERSONA](https://open.spotify.com/album/0gWJ1CcNLmXTdlgT8e9QRp) | 2:33 |
 | 26 | [Oldururum](https://open.spotify.com/track/10ueVnfmNGXi9oJtXkX49n) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Oldururum](https://open.spotify.com/album/1Qc6D7fJr1Wu8CknVz5VNX) | 2:13 |
 | 27 | [FRED PERRY](https://open.spotify.com/track/4AmLGwWkeiclifE1qA74oL) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh), [13 Killoki](https://open.spotify.com/artist/2ivdJjs8c34cBxVmNI6zSK) | [FRED PERRY](https://open.spotify.com/album/7J5FLyFC5XDgLyMeHDhOFP) | 1:50 |
-| 28 | [ARD](https://open.spotify.com/track/72CNwxhlCSOMSsZ6FJXh4D) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [ARD](https://open.spotify.com/album/5pP0HXpkSzVxuJlxOsEXlm) | 2:55 |
+| 28 | [ARD](https://open.spotify.com/track/72CNwxhlCSOMSsZ6FJXh4D) | [Motive](https://open.spotify.com/artist/5LjOSVqRWRs1eL2OY297Jg), [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [ARD](https://open.spotify.com/album/5pP0HXpkSzVxuJlxOsEXlm) | 2:55 |
 | 29 | [TANK TANK](https://open.spotify.com/track/3IsjT9QiL12hwqFhd5XTJi) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [TANK TANK](https://open.spotify.com/album/6kC5tzpLLUrz4ZxcJWIC1f) | 1:47 |
 | 30 | [Mia Vita](https://open.spotify.com/track/4NGe2XJQ5rL0w9YOu2Cyem) | [VISIONARE](https://open.spotify.com/artist/1crOVABMVKHRzLkHZZ1zUD), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [MC Menor JP](https://open.spotify.com/artist/7mnSf7ctK2nPCEI781P1wU) | [Mia Vita](https://open.spotify.com/album/2sV908suMpR735FX3JKQv4) | 3:33 |
 | 31 | [YAZIK SANA](https://open.spotify.com/track/1RuEFc6aloHXOBBPIurG4o) | [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm) | [YAZIK SANA](https://open.spotify.com/album/1Xt5OLCzgTUAGIuSUDmuPn) | 2:42 |

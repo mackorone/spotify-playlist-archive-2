@@ -3768,7 +3768,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 249514,
       "name": "Com Voc\u00ea",
       "url": "https://open.spotify.com/track/1P2LBBEK2GiDaLJDk82WtO"
@@ -17896,6 +17896,32 @@
       "duration_ms": 172000,
       "name": "Vai Brilhar",
       "url": "https://open.spotify.com/track/5AzHlCZ4OLlx1eWutKjh7Z"
+    },
+    {
+      "album": {
+        "name": "Vai me ver no topo",
+        "url": "https://open.spotify.com/album/2akFDbI45e2x1wGuxZAGTM"
+      },
+      "artists": [
+        {
+          "name": "Lucky Real",
+          "url": "https://open.spotify.com/artist/4eYZoQdST7n6eEraQfMXcz"
+        },
+        {
+          "name": "Ryuchi",
+          "url": "https://open.spotify.com/artist/1hRr8Cy8VOjr7qdw1Z52OU"
+        },
+        {
+          "name": "Mvzza",
+          "url": "https://open.spotify.com/artist/2fkE2uxHML1rUsTu0h5LJf"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123076,
+      "name": "Vai me ver no topo",
+      "url": "https://open.spotify.com/track/1go9EYr6kiPXvhEQmzUHAC"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto:  Rod Melim",
-  "num_followers": 434514,
+  "num_followers": 434509,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2026-06-19 03:00:13",
       "album": {
-        "name": "Quando me ver passar",
-        "url": "https://open.spotify.com/album/2xUiJzdSoTEB16fD117fR7"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 134753,
-      "name": "Quando me ver passar",
-      "url": "https://open.spotify.com/track/2CUIL76u0Nh37k1hcIwC4P"
-    },
-    {
-      "added_at": "2026-06-19 03:00:13",
-      "album": {
         "name": "NOVA: Surpresa",
         "url": "https://open.spotify.com/album/1WfQ7zdLni16pLdaQ6ohqD"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 255333,
       "name": "NOVA: Surpresa",
       "url": "https://open.spotify.com/track/23L47wD7F1BF6JEzF8KiEN"
+    },
+    {
+      "added_at": "2026-06-19 03:00:13",
+      "album": {
+        "name": "Quando me ver passar",
+        "url": "https://open.spotify.com/album/2xUiJzdSoTEB16fD117fR7"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 134753,
+      "name": "Quando me ver passar",
+      "url": "https://open.spotify.com/track/2CUIL76u0Nh37k1hcIwC4P"
     },
     {
       "added_at": "2026-06-19 03:00:13",
@@ -331,26 +331,6 @@
     {
       "added_at": "2026-06-19 03:00:13",
       "album": {
-        "name": "BRava",
-        "url": "https://open.spotify.com/album/0dywxqPyKMZLM4N39I8DcH"
-      },
-      "artists": [
-        {
-          "name": "Jenni Mosello",
-          "url": "https://open.spotify.com/artist/6V7LnXA4LZLzPQtUm08c2v"
-        },
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        }
-      ],
-      "duration_ms": 189886,
-      "name": "FOME",
-      "url": "https://open.spotify.com/track/7sezrbvzwMphXpexbdJW6G"
-    },
-    {
-      "added_at": "2026-06-19 03:00:13",
-      "album": {
         "name": "Cheirinho (Feat. YO\u00d9N)",
         "url": "https://open.spotify.com/album/2l22Z4Yjv0gQpkqp5CGVpw"
       },
@@ -371,22 +351,22 @@
     {
       "added_at": "2026-06-19 03:00:13",
       "album": {
-        "name": "Enquanto os Distra\u00eddos Amam",
-        "url": "https://open.spotify.com/album/3N4OoUAXeAcFFib8lcxll9"
+        "name": "BRava",
+        "url": "https://open.spotify.com/album/0dywxqPyKMZLM4N39I8DcH"
       },
       "artists": [
         {
-          "name": "Pedro Em\u00edlio",
-          "url": "https://open.spotify.com/artist/7ksllq82eO4mTbz0dKvQ5N"
+          "name": "Jenni Mosello",
+          "url": "https://open.spotify.com/artist/6V7LnXA4LZLzPQtUm08c2v"
         },
         {
-          "name": "Paulo Novaes",
-          "url": "https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6"
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
         }
       ],
-      "duration_ms": 168097,
-      "name": "Amor Inteiro",
-      "url": "https://open.spotify.com/track/7mD5TzCDcGgm2yDbfECu7t"
+      "duration_ms": 189886,
+      "name": "FOME",
+      "url": "https://open.spotify.com/track/7sezrbvzwMphXpexbdJW6G"
     },
     {
       "added_at": "2026-06-19 03:00:13",
@@ -403,6 +383,26 @@
       "duration_ms": 176409,
       "name": "Desassossego",
       "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
+    },
+    {
+      "added_at": "2026-06-19 03:00:13",
+      "album": {
+        "name": "Enquanto os Distra\u00eddos Amam",
+        "url": "https://open.spotify.com/album/3N4OoUAXeAcFFib8lcxll9"
+      },
+      "artists": [
+        {
+          "name": "Pedro Em\u00edlio",
+          "url": "https://open.spotify.com/artist/7ksllq82eO4mTbz0dKvQ5N"
+        },
+        {
+          "name": "Paulo Novaes",
+          "url": "https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6"
+        }
+      ],
+      "duration_ms": 168097,
+      "name": "Amor Inteiro",
+      "url": "https://open.spotify.com/track/7mD5TzCDcGgm2yDbfECu7t"
     },
     {
       "added_at": "2026-06-19 03:00:13",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-06-19 03:00:13",
       "album": {
-        "name": "colete \u00e0 prova de m\u00e1goas",
-        "url": "https://open.spotify.com/album/0tdjBQv7Dqoprj1Aht7WNR"
-      },
-      "artists": [
-        {
-          "name": "Amanda Coronha",
-          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
-        }
-      ],
-      "duration_ms": 197389,
-      "name": "colete \u00e0 prova de m\u00e1goas",
-      "url": "https://open.spotify.com/track/5HTiDmpUXDEDzijCWwCuVN"
-    },
-    {
-      "added_at": "2026-06-19 03:00:13",
-      "album": {
         "name": "MARIA, MEDUSA",
         "url": "https://open.spotify.com/album/5IPInMeJ1FgVaNDQmIzuHf"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 161386,
       "name": "MARIA, MEDUSA",
       "url": "https://open.spotify.com/track/4xDbnfmae1qivhMtVrZAjt"
+    },
+    {
+      "added_at": "2026-06-19 03:00:13",
+      "album": {
+        "name": "colete \u00e0 prova de m\u00e1goas",
+        "url": "https://open.spotify.com/album/0tdjBQv7Dqoprj1Aht7WNR"
+      },
+      "artists": [
+        {
+          "name": "Amanda Coronha",
+          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
+        }
+      ],
+      "duration_ms": 197389,
+      "name": "colete \u00e0 prova de m\u00e1goas",
+      "url": "https://open.spotify.com/track/5HTiDmpUXDEDzijCWwCuVN"
     },
     {
       "added_at": "2026-06-19 03:00:13",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2026-06-19 03:00:13",
       "album": {
-        "name": "Tudo que deu pra fazer em um ano",
-        "url": "https://open.spotify.com/album/5ef1VhRr9OuXuEnqErdp5I"
-      },
-      "artists": [
-        {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
-        },
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        }
-      ],
-      "duration_ms": 131538,
-      "name": "Nada vai ser como antes",
-      "url": "https://open.spotify.com/track/6EGAre3TGtj7hlhR8C7A1n"
-    },
-    {
-      "added_at": "2026-06-19 03:00:13",
-      "album": {
         "name": "Eu s\u00f3 quero um xod\u00f3",
         "url": "https://open.spotify.com/album/2s6qsazRApew3tJUkjoyps"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 119340,
       "name": "Eu s\u00f3 quero um xod\u00f3",
       "url": "https://open.spotify.com/track/6BwXtSsM5we6sX5sVSRlLw"
+    },
+    {
+      "added_at": "2026-06-19 03:00:13",
+      "album": {
+        "name": "Tudo que deu pra fazer em um ano",
+        "url": "https://open.spotify.com/album/5ef1VhRr9OuXuEnqErdp5I"
+      },
+      "artists": [
+        {
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+        },
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 131538,
+      "name": "Nada vai ser como antes",
+      "url": "https://open.spotify.com/track/6EGAre3TGtj7hlhR8C7A1n"
     },
     {
       "added_at": "2026-06-19 03:00:13",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2026-06-19 03:00:13",
       "album": {
+        "name": "Ela n\u00e3o \u00e9 uma Incerteza",
+        "url": "https://open.spotify.com/album/3wOmbEVFWLXVBX8zNnm54H"
+      },
+      "artists": [
+        {
+          "name": "Destro",
+          "url": "https://open.spotify.com/artist/0HRtmKxvYpSoNC09m6Expl"
+        }
+      ],
+      "duration_ms": 221848,
+      "name": "Ela n\u00e3o \u00e9 uma Incerteza",
+      "url": "https://open.spotify.com/track/1HGywEiXepNZei6P084tZH"
+    },
+    {
+      "added_at": "2026-06-19 03:00:13",
+      "album": {
         "name": "C\u00e9u Rosa",
         "url": "https://open.spotify.com/album/3MUN2uBzh5zB1REgdFZInK"
       },
@@ -1191,18 +1207,18 @@
     {
       "added_at": "2026-06-19 03:00:13",
       "album": {
-        "name": "Ela n\u00e3o \u00e9 uma Incerteza",
-        "url": "https://open.spotify.com/album/3wOmbEVFWLXVBX8zNnm54H"
+        "name": "paix\u00e3o ou vaidade?",
+        "url": "https://open.spotify.com/album/2Cf2A7ADZeuqHeF96I9GpY"
       },
       "artists": [
         {
-          "name": "Destro",
-          "url": "https://open.spotify.com/artist/0HRtmKxvYpSoNC09m6Expl"
+          "name": "Marcelo Tofani",
+          "url": "https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m"
         }
       ],
-      "duration_ms": 221848,
-      "name": "Ela n\u00e3o \u00e9 uma Incerteza",
-      "url": "https://open.spotify.com/track/1HGywEiXepNZei6P084tZH"
+      "duration_ms": 183374,
+      "name": "paix\u00e3o ou vaidade?",
+      "url": "https://open.spotify.com/track/4jBzNfcYZTbvh5STIoGi4L"
     },
     {
       "added_at": "2026-06-19 03:00:13",
@@ -1235,22 +1251,6 @@
       "duration_ms": 120000,
       "name": "N\u00e3o \u00e9 t\u00e3o ruim",
       "url": "https://open.spotify.com/track/5eUT9JCc19zYLXH3Ukk27A"
-    },
-    {
-      "added_at": "2026-06-19 03:00:13",
-      "album": {
-        "name": "paix\u00e3o ou vaidade?",
-        "url": "https://open.spotify.com/album/2Cf2A7ADZeuqHeF96I9GpY"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Tofani",
-          "url": "https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m"
-        }
-      ],
-      "duration_ms": 183374,
-      "name": "paix\u00e3o ou vaidade?",
-      "url": "https://open.spotify.com/track/4jBzNfcYZTbvh5STIoGi4L"
     },
     {
       "added_at": "2026-06-19 03:00:13",

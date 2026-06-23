@@ -12923,6 +12923,24 @@
     },
     {
       "album": {
+        "name": "My Private World Of Darkness",
+        "url": "https://open.spotify.com/album/1LAHkhsFyD6e88puBAb5Z3"
+      },
+      "artists": [
+        {
+          "name": "Purple Microdot",
+          "url": "https://open.spotify.com/artist/7a8uvG9bm2pkf2BeVpJiB4"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145376,
+      "name": "My Private World Of Darkness",
+      "url": "https://open.spotify.com/track/1qY6aiE9gPwb0ty748kGip"
+    },
+    {
+      "album": {
         "name": "Simple Way",
         "url": "https://open.spotify.com/album/64pXgsLVLz94hUgLlZApAn"
       },
@@ -18880,6 +18898,24 @@
       "duration_ms": 204010,
       "name": "The 4th View (Alternate Version)",
       "url": "https://open.spotify.com/track/2aEp4oRYjBmcMzzD5izNxb"
+    },
+    {
+      "album": {
+        "name": "The Algorithm",
+        "url": "https://open.spotify.com/album/4TRPXfGwYOtQtdy0JpmGkk"
+      },
+      "artists": [
+        {
+          "name": "Jason Waroff",
+          "url": "https://open.spotify.com/artist/1tAoX2x3TC1kp4eIewKZ77"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131561,
+      "name": "The Algorithm",
+      "url": "https://open.spotify.com/track/6371cuqZyoz1FLvNDwgxmB"
     },
     {
       "album": {

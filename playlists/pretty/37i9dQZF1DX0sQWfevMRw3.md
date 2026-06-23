@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > 🇳🇴🤝🇸🇪
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,280 likes - 127 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,284 likes - 127 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bra för dig](https://open.spotify.com/track/5P9GJinwjRjyR7t9AardQ3) | [Bisken](https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf) | [Bra för dig](https://open.spotify.com/album/7AHbQHzvFRU0hULQeXHnSK) | 2:40 |
-| 2 | [Stockholm](https://open.spotify.com/track/7vzQ6xakWuKWs7I1IqhO7U) | [FERDY](https://open.spotify.com/artist/208RE1Kcvc7w4N1dqnhJPw), [Kudos](https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7) | [Stockholm](https://open.spotify.com/album/6Co0E7pAJG12oqjf3Uq0Sn) | 2:25 |
-| 3 | [HEM TILL BYN](https://open.spotify.com/track/4rYsZmXpPTWfcVtu0rP1YP) | [Emil Assergård](https://open.spotify.com/artist/3fpHdW8mp95bOCzRLcauZm), [Drängarna](https://open.spotify.com/artist/2HwptwPQ4lvpYimzOJcYoY), [Rivstart](https://open.spotify.com/artist/0NNJLiIAqTaLE1MMMgrBNj) | [HEM TILL BYN](https://open.spotify.com/album/3znILQEGW43ufFPXRT2d6K) | 2:45 |
-| 4 | [Barbie](https://open.spotify.com/track/5HQRWczU0yknvThOfFfRC2) | [BEK & Moberg](https://open.spotify.com/artist/0gWpQRbOQI94EAWpfYQd0X), [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD) | [Barbie](https://open.spotify.com/album/3qXCJqTzQdr7LqbO2oE6sP) | 1:39 |
-| 5 | [All in för Sverige](https://open.spotify.com/track/5ghjPxYUFYUBlX1BBd5Gbo) | [KaptenX](https://open.spotify.com/artist/5m1kkyZcYNKkjeAh6o9XLp) | [All in för Sverige](https://open.spotify.com/album/2lETmnLCeBKWZNomWt28ka) | 2:03 |
-| 6 | [KANNA PÅ \(FÖR SVERIGE\)](https://open.spotify.com/track/03bHNQsRcPo3owlGUXlUW3) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d), [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE) | [KANNA PÅ \(FÖR SVERIGE\)](https://open.spotify.com/album/5Otl2kodIZm43D8FhyMuLc) | 1:49 |
+| 2 | [HEM TILL BYN](https://open.spotify.com/track/4rYsZmXpPTWfcVtu0rP1YP) | [Emil Assergård](https://open.spotify.com/artist/3fpHdW8mp95bOCzRLcauZm), [Drängarna](https://open.spotify.com/artist/2HwptwPQ4lvpYimzOJcYoY), [Rivstart](https://open.spotify.com/artist/0NNJLiIAqTaLE1MMMgrBNj) | [HEM TILL BYN](https://open.spotify.com/album/3znILQEGW43ufFPXRT2d6K) | 2:45 |
+| 3 | [Barbie](https://open.spotify.com/track/5HQRWczU0yknvThOfFfRC2) | [BEK & Moberg](https://open.spotify.com/artist/0gWpQRbOQI94EAWpfYQd0X), [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD) | [Barbie](https://open.spotify.com/album/3qXCJqTzQdr7LqbO2oE6sP) | 1:39 |
+| 4 | [All in för Sverige](https://open.spotify.com/track/5ghjPxYUFYUBlX1BBd5Gbo) | [KaptenX](https://open.spotify.com/artist/5m1kkyZcYNKkjeAh6o9XLp) | [All in för Sverige](https://open.spotify.com/album/2lETmnLCeBKWZNomWt28ka) | 2:03 |
+| 5 | [KANNA PÅ \(FÖR SVERIGE\)](https://open.spotify.com/track/03bHNQsRcPo3owlGUXlUW3) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d), [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE) | [KANNA PÅ \(FÖR SVERIGE\)](https://open.spotify.com/album/5Otl2kodIZm43D8FhyMuLc) | 1:49 |
+| 6 | [Stockholm](https://open.spotify.com/track/7vzQ6xakWuKWs7I1IqhO7U) | [FERDY](https://open.spotify.com/artist/208RE1Kcvc7w4N1dqnhJPw), [Kudos](https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7) | [Stockholm](https://open.spotify.com/album/6Co0E7pAJG12oqjf3Uq0Sn) | 2:25 |
 | 7 | [BUBBEL FANTA & ROSÉ](https://open.spotify.com/track/01lGCI1ZGJcIApubACRMiS) | [DIREKTÖREN](https://open.spotify.com/artist/1pATe4JpMAfVn2UKNNTwHY), [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH) | [BUBBEL FANTA & ROSÉ](https://open.spotify.com/album/3hShyEDLCAVLnr5e6X9odE) | 2:11 |
 | 8 | [Krossa alla fönster](https://open.spotify.com/track/2XSoxxczoq0VVl03W8hWcm) | [emoemy](https://open.spotify.com/artist/6kOYIk57Dcel1IrTxYNP9i), [ALAN MAX](https://open.spotify.com/artist/4OVGNBPR9zKzQRLRj98AHY) | [Krossa alla fönster](https://open.spotify.com/album/57FklsHqYSmWQBFrToI6gg) | 3:00 |
 | 9 | [När vi gräver guld i USA](https://open.spotify.com/track/2bmS5RRJSdgtfGt4wOZtX6) | [JulleMeck](https://open.spotify.com/artist/5gBVgnVRYya7YzZSvHqy32), [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6) | [När vi gräver guld i USA](https://open.spotify.com/album/3xAwsUA4iiQRHcThRw7FJw) | 2:13 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 126 | [FUCK MITT EX](https://open.spotify.com/track/5uZbNtwrtQKOCkXFoVOGxX) | [Kaptenen](https://open.spotify.com/artist/6DSprS2EbPUhzEly95Ptvl) | [FUCK MITT EX](https://open.spotify.com/album/1FzUlKjvO9lEdKj5XUcrvU) | 2:50 |
 | 127 | [Det Løser Seg](https://open.spotify.com/track/1uvYRZPOtfnI9SbYzgqV4S) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Det Løser Seg](https://open.spotify.com/album/6hygzpsQObLO2CrgnTIO9W) | 2:12 |
 
-Snapshot ID: `AAAAAEjDDJDmDFyzC75w/GxnBsiV4nSZ`
+Snapshot ID: `AAAAAJ++3UbkR8ICm4yJT6xc9GcMqoHT`

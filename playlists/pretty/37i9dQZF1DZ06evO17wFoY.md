@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17wFoY.md) - [plain]
 
 > This is Lang Lang\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,909 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,910 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17wFoY.md) - [plain]
 | 32 | [Beauty and the Beast \- From "Beauty and the Beast"](https://open.spotify.com/track/4D8lQriIxEzw7JKboShO2X) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx) | [The Disney Book](https://open.spotify.com/album/6s4Nj1n5yQuyn6ML0Jjk3z) | 4:09 |
 | 33 | [Pavane, Op\. 50 \(Version for Piano\)](https://open.spotify.com/track/349KIIngrzk0ObXRz3pqlG) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Saint\-Saëns](https://open.spotify.com/album/3923ndf9zKgvppYaawmuIO) | 6:12 |
 | 34 | [Nocturne in E\-Flat Major, Op\. 55, No\. 2](https://open.spotify.com/track/1QBaOzhMlaWx9zQZIEmJFx) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Lang Lang: The Chopin Album](https://open.spotify.com/album/0ylbO515jtrovpxr1drKdF) | 6:06 |
-| 35 | [Mia & Sebastian's Theme \(From "La La Land"\) \[Arr\. Kerber for Solo Piano\]](https://open.spotify.com/track/639ClXUegVz2aAPb8Mf35Y) | [Justin Hurwitz](https://open.spotify.com/artist/4fF2rf04AM1Rrj6WtIOva9), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book 2](https://open.spotify.com/album/0FOJ6DuCnJJFrchU8xT8Vx) | 3:15 |
-| 36 | [8 Memories in Watercolour, Op\. 1: No\. 6, Floating Clouds \- Live](https://open.spotify.com/track/2oxkzU9hSyW9N3cdKWUeyd) | [Tan Dun](https://open.spotify.com/artist/1GhO4jjafkz7yzMcGjGizT), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Lang Lang \- Live at Carnegie Hall](https://open.spotify.com/album/2cdlYtPJ7rhnbDBH5uj12t) | 1:42 |
+| 35 | [8 Memories in Watercolour, Op\. 1: No\. 6, Floating Clouds \- Live](https://open.spotify.com/track/2oxkzU9hSyW9N3cdKWUeyd) | [Tan Dun](https://open.spotify.com/artist/1GhO4jjafkz7yzMcGjGizT), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Lang Lang \- Live at Carnegie Hall](https://open.spotify.com/album/2cdlYtPJ7rhnbDBH5uj12t) | 1:42 |
+| 36 | [Mia & Sebastian's Theme \(From "La La Land"\) \[Arr\. Kerber for Solo Piano\]](https://open.spotify.com/track/639ClXUegVz2aAPb8Mf35Y) | [Justin Hurwitz](https://open.spotify.com/artist/4fF2rf04AM1Rrj6WtIOva9), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book 2](https://open.spotify.com/album/0FOJ6DuCnJJFrchU8xT8Vx) | 3:15 |
 | 37 | [Intermezzo No\. 1 in E Minor](https://open.spotify.com/track/150Bw3QbPjlFcjmfJojLLf) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Lang Lang at Royal Albert Hall](https://open.spotify.com/album/1SATY0ddfZt1ybNSeYBLp9) | 2:54 |
 | 38 | [12 Variations on "Ah, vous dirai\-je maman", K\. 265: Var\. 7](https://open.spotify.com/track/0y646OrSYbBZ202ScoCbAL) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book \(Deluxe Edition\)](https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90) | 0:33 |
 | 39 | [Hunting Cantata, BWV 208: No\. 9\. Sheep May Safely Graze \(Transc\. Duck for 4 Hands\)](https://open.spotify.com/track/6XMIUEpp8McfEetWKMuuyQ) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4), [Gina Alice](https://open.spotify.com/artist/2h8Yy5xhlNbJsekoeiPhbb) | [Bach: Goldberg Variations \(Extended Edt.\)](https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95) | 4:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17wFoY.md) - [plain]
 | 49 | [Études, Op\. 25: No\. 1 in A\-Flat Major](https://open.spotify.com/track/6SZecFOXcA1mt31T67vajf) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Lang Lang: The Chopin Album](https://open.spotify.com/album/0ylbO515jtrovpxr1drKdF) | 2:54 |
 | 50 | [The Merry Shepherd Boy](https://open.spotify.com/track/04WtM8HBVMGUY3r5LEX4Dr) | [Hu\-Wei Huang](https://open.spotify.com/artist/61g9t43Yf5am1yo8MioU3p), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book \(Deluxe Edition\)](https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90) | 1:33 |
 
-Snapshot ID: `ajXYAAAAAABqbL8AHfEAuxGY/uDOgifz`
+Snapshot ID: `ajcpgAAAAAABQgdnRW/Z2lLOHaFMqWX9`

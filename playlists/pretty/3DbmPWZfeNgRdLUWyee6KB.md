@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,312 likes - 186 songs - 10 hr 32 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,312 likes - 188 songs - 10 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -194,5 +194,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 184 | [Flashback](https://open.spotify.com/track/7zphXBpoS3Qo1ybHyksW2i) | [East Collectors](https://open.spotify.com/artist/2jwnJc5ibEXh10jmTPz3mh), [Guðrun Sólja](https://open.spotify.com/artist/7u04eBVbYkvMPkUPkLHFu6) | [Flashback](https://open.spotify.com/album/1VvkRHbKvajkyILV44y9gt) | 3:37 |
 | 185 | [ΑΠΛΩΝΩ ΤΑ ΧΕΡΙΑ](https://open.spotify.com/track/3ynuypogogN4RbF0KA8nP7) | [M.R.P Music Song Contest](https://open.spotify.com/artist/1OHHzP3Sy9y4IfPoxfexPm) | [ΑΠΛΩΝΩ ΤΑ ΧΕΡΙΑ](https://open.spotify.com/album/6R2GCTj3ImIBsOMFp51ud1) | 3:28 |
 | 186 | [Se partió en dos](https://open.spotify.com/track/11wp2EhxKh7EXVhSPOVyVl) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [La ansiedad](https://open.spotify.com/album/1ah03W8PU28iPd4KzTwltu) | 2:38 |
+| 187 | [My Private World Of Darkness](https://open.spotify.com/track/1qY6aiE9gPwb0ty748kGip) | [Purple Microdot](https://open.spotify.com/artist/7a8uvG9bm2pkf2BeVpJiB4) | [My Private World Of Darkness](https://open.spotify.com/album/1LAHkhsFyD6e88puBAb5Z3) | 2:25 |
+| 188 | [The Algorithm](https://open.spotify.com/track/6371cuqZyoz1FLvNDwgxmB) | [Jason Waroff](https://open.spotify.com/artist/1tAoX2x3TC1kp4eIewKZ77) | [The Algorithm](https://open.spotify.com/album/4TRPXfGwYOtQtdy0JpmGkk) | 2:11 |
 
-Snapshot ID: `AAAVPN3QGbWNbNtu2sh5WVxHIgonZi8V`
+Snapshot ID: `AAAVPlEGzVmpz7dJxMqfiCSEYyDv+Tej`

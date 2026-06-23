@@ -2829,6 +2829,24 @@
     },
     {
       "album": {
+        "name": "Fire Inside",
+        "url": "https://open.spotify.com/album/76Suw9nI9Mz9IJxjNVATLg"
+      },
+      "artists": [
+        {
+          "name": "Grand Sorceress",
+          "url": "https://open.spotify.com/artist/0B35u5LdVAY9pqHu5AZbQ3"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227433,
+      "name": "Fire Inside",
+      "url": "https://open.spotify.com/track/3DN7E1MWHnDDxMwTvlxbPp"
+    },
+    {
+      "album": {
         "name": "fm25-brokenheart",
         "url": "https://open.spotify.com/album/2hvwtQ14JcGXMykF0ObLqm"
       },

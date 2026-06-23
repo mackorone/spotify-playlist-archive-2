@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 
 > The Ultimate EA SPORTS FC Brazil Playlist: bringing together the sounds of Brazil in celebration of The World's Game\. Curated specially for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,963 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,915 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 5 | [Me Gusta \(with Cardi B & Myke Towers\)](https://open.spotify.com/track/7e1VoRlNumuEkXlITMHKLE) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Me Gusta \(with Cardi B & Myke Towers\)](https://open.spotify.com/album/5J7bWCachL4Q662xAfzyJd) | 3:00 |
 | 6 | [Você Diz Que O Amor Não Dói](https://open.spotify.com/track/1KsNJwx1ABD5IiQh4kfOoj) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL) | [Nada Pode Me Parar](https://open.spotify.com/album/0hPixFMI6iDjmqS0XkjTWq) | 2:52 |
 | 7 | [Festas e Manequins](https://open.spotify.com/track/6hCl3kZA2zWOSN3wxnxpcP) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [KM2](https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD) | 2:04 |
-| 8 | [Broken Love](https://open.spotify.com/track/300yMbSPjCi6fo9EpCVwyC) | [Quarantino](https://open.spotify.com/artist/5y4NgF9HhK3EgWbfjLRX7e) | [Broken Love](https://open.spotify.com/album/6KamujvpdIeso5B5G7urpx) | 2:36 |
-| 9 | [Sorte Grande](https://open.spotify.com/track/2IXiZtz7EVJpsyZwoxBy6K) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Clube Carnavalesco Inocentes Em Progresso](https://open.spotify.com/album/0BWWqqGqH5z11TnBjI60X4) | 3:48 |
+| 8 | [Sorte Grande](https://open.spotify.com/track/2IXiZtz7EVJpsyZwoxBy6K) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Clube Carnavalesco Inocentes Em Progresso](https://open.spotify.com/album/0BWWqqGqH5z11TnBjI60X4) | 3:48 |
+| 9 | [Broken Love](https://open.spotify.com/track/300yMbSPjCi6fo9EpCVwyC) | [Quarantino](https://open.spotify.com/artist/5y4NgF9HhK3EgWbfjLRX7e) | [Broken Love](https://open.spotify.com/album/6KamujvpdIeso5B5G7urpx) | 2:36 |
 | 10 | [Playsom](https://open.spotify.com/track/7JF4x9eYqa6um0jvR5pdPK) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Marcio Victor](https://open.spotify.com/artist/3yC2gBgxQcQ4m90ltqAir9) | [Duas Cidades](https://open.spotify.com/album/59MZTJ4Q6L1GYh2RPlnGSu) | 3:58 |
 | 11 | [Efêmera](https://open.spotify.com/track/1iiXo590UBRz3S2GH5piM3) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb) | [Efêmera](https://open.spotify.com/album/4vM2MHcopLJ49OAcW9IndM) | 3:44 |
 | 12 | [Hits Me Like a Rock](https://open.spotify.com/track/6eGYLKANp8xhgozXHBQq9i) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA), [Bobby Gillespie](https://open.spotify.com/artist/77aJXR27gzqvC7CEko5h3o) | [La Liberación](https://open.spotify.com/album/1W9IHb4ld1ZtAD9rlKgiOh) | 3:37 |

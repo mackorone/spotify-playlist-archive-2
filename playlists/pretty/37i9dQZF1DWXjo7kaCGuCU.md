@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjo7kaCGuCU.md) - [plain]
 
 > Celebrating 20 years of R&B from around the world
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,174 likes - 102 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,340 likes - 102 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjo7kaCGuCU.md) - [plain]
 | 101 | [Tes petites fesses](https://open.spotify.com/track/2ZpC4XRsRSVpRUO3bZAwgq) | [LYNN](https://open.spotify.com/artist/2iKQgImU0tNvy43Qs0lfyX) | [Tes petites fesses](https://open.spotify.com/album/72btisw8ofdUAAb29Jsa7x) | 1:50 |
 | 102 | [SAY MY NAME](https://open.spotify.com/track/5Rh1Uh43TL5maI0LQaR818) | [DIMO REX](https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH) | [ANTIDOTE](https://open.spotify.com/album/1lNfCl6zXEhb84RSOGTzGu) | 2:27 |
 
-Snapshot ID: `AAAAAPuLT3dlpffw1sVuEGMMKgZvTG2a`
+Snapshot ID: `AAAAACYesN4fS3r/PLI6zyEYAdfX5zNy`

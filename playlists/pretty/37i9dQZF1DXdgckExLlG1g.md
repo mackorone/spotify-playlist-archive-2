@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgckExLlG1g.md) - [plain]
 
 > The top Christian songs worldwide!  Cover: Elevation Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 468,802 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 468,783 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgckExLlG1g.md) - [plain]
 | 49 | [Able](https://open.spotify.com/track/0gsuJ9nR8iOPOHszdmlnrw) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Marvin Winans](https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79) | [Able](https://open.spotify.com/album/6rIjou6T4snwPFCWKAiIg2) | 5:02 |
 | 50 | [Way Maker](https://open.spotify.com/track/4jJ0CynHMdzrgK5IOVMX08) | [SINACH](https://open.spotify.com/artist/0BMNHIlCIvN2eiHLGnEfTV) | [Way Maker](https://open.spotify.com/album/5eu45onKTIAP1MUGyDwmvq) | 4:46 |
 
-Snapshot ID: `AAAAAK2D3o6XJqTA6qMl/5BO+0JAbWKd`
+Snapshot ID: `AAAAAFHAvOmYzZEJWGUB+Fu5c9/JLUbL`

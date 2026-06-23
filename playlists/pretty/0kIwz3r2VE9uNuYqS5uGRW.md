@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 
 > 
 
-[CerVon Campbell](https://open.spotify.com/user/1275620579) - 524 likes - 241 songs - 12 hr 36 min
+[CerVon Campbell](https://open.spotify.com/user/1275620579) - 523 likes - 246 songs - 12 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -249,5 +249,10 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 | 239 | [Diablax](https://open.spotify.com/track/6CVeBLFZw98ek6Eh7zE3pd) | [Jhey Dottor](https://open.spotify.com/artist/2LGdqmsihZguVs2AAbIfV4) | [Diablax](https://open.spotify.com/album/7rybHGQt51fJxGm8lVoVxL) | 2:40 |
 | 240 | [Gimmick](https://open.spotify.com/track/4uFT0D47ztptmYn4lfybCb) | [Pigeon Pye](https://open.spotify.com/artist/72kLEU6mRB5iLrmABFhjlz) | [Story](https://open.spotify.com/album/1SEFpmr6CmYvQWXHDTMFa6) | 2:50 |
 | 241 | [Prosthetic](https://open.spotify.com/track/2qRfwaLyZW1jDyQoYhAahd) | [Dymer](https://open.spotify.com/artist/31uajf71LLM3lkx3jG05Tv) | [Prosthetic](https://open.spotify.com/album/7nWsdqylOgGTb4EBTmm4nM) | 3:41 |
+| 242 | [Tell the Dark](https://open.spotify.com/track/6RnmaArOafxo6YfbKHtyIs) | [Zenpo Geri](https://open.spotify.com/artist/4F8DKNyaw1TfGLPA5CcQeo), [Ariana Celaeno](https://open.spotify.com/artist/3Igpr26HgdrjS1nf4ePyPX) | [Tell the Dark](https://open.spotify.com/album/5NRjQ5jjyOvF0tcnThR257) | 3:17 |
+| 243 | [Ce monde est sale](https://open.spotify.com/track/4mGlOdhgRBOtTZPHGXt6A4) | [Adanah](https://open.spotify.com/artist/6eG9vnRQdyCjQCfJnpC03N) | [SATURATION](https://open.spotify.com/album/2BQB5dXXMSsYAQKx0V8YMb) | 1:39 |
+| 244 | [Mi Mundo Sin Ti](https://open.spotify.com/track/7iYYjbHEyidencpPySu4Os) | [Jorge Trez](https://open.spotify.com/artist/1QblYNIinirun9slUCO1Gq) | [Mi Mundo Sin Ti](https://open.spotify.com/album/0Yjwg2KmcX9bJpjn7kp0Lf) | 2:16 |
+| 245 | [Blue Light Special](https://open.spotify.com/track/6HRVlFltzuLK7rKBFhKVIA) | [CallMeWhoElse](https://open.spotify.com/artist/3sLFnlQ8XFsPNqZ2ly2cCo), [TeaYaMay](https://open.spotify.com/artist/3S2YNukhEwW4WgEGMu16Q5) | [Blue Light Special](https://open.spotify.com/album/0hUunqwS7iLOvOXirxsH8E) | 2:10 |
+| 246 | [Believe in Me](https://open.spotify.com/track/3PW9C68cjN0FZVMsBjuYYy) | [TriniPrince](https://open.spotify.com/artist/6WPYob9LKVO2vFN2ZCZkZl) | [Believe in Me](https://open.spotify.com/album/40CUhO4l1bIl6sLoVgmHmb) | 1:52 |
 
-Snapshot ID: `AAAV96QZexnV6rjCVhXwKUjue+wXcPXa`
+Snapshot ID: `AAAV/A2amk3JG1l9eq9KkgXfY7P2lsH7`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sL6qrhzOLK.md) - [plain]
 
 ### [Sync Next 26](https://open.spotify.com/playlist/37i9dQZF1DX1sL6qrhzOLK)
 
-> Sync Next 26에서 이어지는 감각적 몰입, 새로운 레이브를 경험해보세요\. \(Step into a new kind of rave \- born from the sensory immersion of Sync Next 26.\)
+> Sync Next 26에서 이어지는 가장 뜨거운 주파수!<br/>baan, Mogwaa, HYPNOSIS THERAPY는 물론, 파트너사 녹기 전에와 배러댄서프가 함께 큐레이션한 여름의 사운드트랙\. 전자음악과 힙합, 헤비니스가 교차하는 사운드 속에서 당신만의 New Black을 발견해보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,167 likes - 27 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,174 likes - 27 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sL6qrhzOLK.md) - [plain]
 | 26 | [Spitshine](https://open.spotify.com/track/3OQdQYHxBUN5YZDmbjc08z) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [blkswn](https://open.spotify.com/album/3bTjPEgPzm1XwXsNlMVHhs) | 2:10 |
 | 27 | [Versos de Placer](https://open.spotify.com/track/4z11brnmIkePDnP3L1siz5) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Versos de Placer](https://open.spotify.com/album/3rJcFj3XgniFRAUpgEbcX0) | 2:48 |
 
-Snapshot ID: `AAAAABhc1tkPX9KVw7SUg4sqpCba640R`
+Snapshot ID: `AAAAAJGMhTJmP7zEVGl2hczT4B1yFsR3`

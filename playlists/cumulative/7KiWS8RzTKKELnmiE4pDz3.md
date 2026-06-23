@@ -4,7 +4,7 @@
 
 > 
 
-1,492 songs - 3 day 8 hr 11 min
+1,493 songs - 3 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1226,6 +1226,7 @@
 | [St\. Chroma \(feat\. Daniel Caesar\)](https://open.spotify.com/track/1QoyuMHNBe7lg3YW4Qtll4) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 3:17 | 2024-11-05 | 2025-05-21 |
 | [Stakes Is High](https://open.spotify.com/track/5sfXK6yQlY9vSzuR3f3oD8) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Stakes Is High](https://open.spotify.com/album/3jlC2uhYNrhikZXLviEnpu) | 5:30 | 2025-12-01 | 2026-03-08 |
 | [Stand On It \(with Future\)](https://open.spotify.com/track/7H3lr9bsPBGFx5NyTuBBGc) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 3:00 | 2024-02-16 | 2024-04-24 |
+| [Star](https://open.spotify.com/track/1FhagjsmYU1nJg8rsnObnI) | [702](https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo), [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2) | [Star](https://open.spotify.com/album/17MNAy6AWQ1T3WHJu9gveR) | 4:03 | 2026-06-22 |  |
 | [Stay Cool](https://open.spotify.com/track/268FMyd9ACqcOoItVvaukp) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [The Tipping Point](https://open.spotify.com/album/2fw2PxmN6epMmz6qZXXNLn) | 3:34 | 2025-10-20 | 2026-03-08 |
 | [Stay Focused](https://open.spotify.com/track/4w8IHtYC1uTSY27fH4DPdk) | [10TA Lil A](https://open.spotify.com/artist/3E7zyjnY6AthfEeOAT1x3e) | [Drill Ohio](https://open.spotify.com/album/0ohtzOtfezDOm5GA6Q9j3J) | 1:33 | 2022-09-19 | 2023-03-01 |
 | [Stay To Myself / Schedule II](https://open.spotify.com/track/6J1jmKkjbMUAJ2niLlRsLs) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [WAY2GEEKED](https://open.spotify.com/album/0NVK13Q93Egu6zMj858l8W) | 2:12 | 2022-09-30 | 2023-12-14 |

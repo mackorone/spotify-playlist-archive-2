@@ -2,9 +2,9 @@
 
 ### [No Cap](https://open.spotify.com/playlist/37i9dQZF1DX0Tkc6ltcBfU)
 
-> The hottest out the South\. Cover: Yung Miami
+> The hottest out the South\. Cover: \(R.I.P.\) Tay Keith
 
-2,780 songs - 5 day 9 hr 25 min
+2,781 songs - 5 day 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1442,6 +1442,7 @@
 | [Lonely Road](https://open.spotify.com/track/6s0iECFNOlLCKhLyHUObAm) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [W!LD](https://open.spotify.com/album/1gFQ6dGFvpDsHmnr4bPbTV) | 3:00 | 2025-10-10 | 2025-10-18 |
 | [Long Story Short \(with Lil Wayne\)](https://open.spotify.com/track/2jmdxJ60YfV3fVemuLz7pD) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Long Story Short](https://open.spotify.com/album/5Nzk5vGBrgjl9Ll8vk8m2q) | 3:30 | 2023-11-10 | 2024-05-25 |
 | [Long Way To Go](https://open.spotify.com/track/2Byc1LTfTpxgn8WOyLMuOR) | [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29) | [Long Way To Go](https://open.spotify.com/album/1wACKr1ONK3i1w4eHML0yA) | 2:57 | 2023-02-03 | 2023-04-09 |
+| [Look Alive \(feat\. Drake\)](https://open.spotify.com/track/7165YDcOpr9yEypbdpU6fa) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Look Alive \(feat\. Drake\)](https://open.spotify.com/album/0U1z1O34BBgq19Xlbrz42C) | 3:01 | 2026-06-22 |  |
 | [Look Ma I Did It](https://open.spotify.com/track/11AfL8OrGWV8KYNSzuRDsr) | [Baby Racks](https://open.spotify.com/artist/768KV6PLzzcqy1CRCMFUNW) | [Look Ma I Did It](https://open.spotify.com/album/38x8ZVRRLJykh2x4gAeMMz) | 2:57 | 2022-05-20 | 2022-06-25 |
 | [Look Ma I Did It](https://open.spotify.com/track/0JvnmNjMnTQMRizhrKzMSO) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Baby Racks](https://open.spotify.com/artist/768KV6PLzzcqy1CRCMFUNW) | [Look Ma I Did It](https://open.spotify.com/album/6anFwVV3gBuCNINmz4Vnvz) | 3:27 | 2022-09-02 | 2022-10-29 |
 | [Lord Forgive Me](https://open.spotify.com/track/0FJv4vH8tmFZFyqHhB6j6p) | [Will Power 912](https://open.spotify.com/artist/1b6E8GKvKbrozg36WhLulf), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Lord Forgive Me](https://open.spotify.com/album/1IhXe3qYBp1urvvVbEopz7) | 3:14 | 2025-11-07 | 2025-11-15 |

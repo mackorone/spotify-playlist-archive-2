@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,662 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,687 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 21 | [Fall A Little Further](https://open.spotify.com/track/10AhHD1WQoDPicXe9WrK38) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Fall A Little Further](https://open.spotify.com/album/3rZRLZOPXIsA8hfYsm6IPj) | 2:39 |
 | 22 | [Time \- Nu: Tone Remix](https://open.spotify.com/track/4fVU6IM0HNStUA3Qkp9Brb) | [SOLAH](https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ), [Nu:Tone](https://open.spotify.com/artist/7pDBRy9uWy1zq5b0uXIABQ) | [Time \(Nu:Tone Remix\)](https://open.spotify.com/album/1kX2nhwX2PebPYl06D3BZ9) | 5:20 |
 | 23 | [Lovebombs](https://open.spotify.com/track/0XC1E7JdINwIbX94uT5YkU) | [London Elektricity](https://open.spotify.com/artist/4CbuwI3bEF7gQOwpxBKtal), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB), [Dunk](https://open.spotify.com/artist/3to9W3JX4kSmj4TEGlKiDS) | [Lunatics & Legends](https://open.spotify.com/album/3ykaR3X0wfsHG0JFxrmfFP) | 4:17 |
-| 24 | [Wonderluv](https://open.spotify.com/track/6w28PfNPGBrfuaHRrOJ0aE) | [IZCO](https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1) | [Wonderluv](https://open.spotify.com/album/2LkzjaFwGulpxmAU9qYNDD) | 4:16 |
-| 25 | [FEEL LIKE ME](https://open.spotify.com/track/7fsyvxSJi1vkTzwO5eQFMo) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [FEEL LIKE ME](https://open.spotify.com/album/3bJ63PICHastTFzJkXGHAu) | 5:13 |
+| 24 | [FEEL LIKE ME](https://open.spotify.com/track/7fsyvxSJi1vkTzwO5eQFMo) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [FEEL LIKE ME](https://open.spotify.com/album/3bJ63PICHastTFzJkXGHAu) | 5:13 |
+| 25 | [Wonderluv](https://open.spotify.com/track/6w28PfNPGBrfuaHRrOJ0aE) | [IZCO](https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1) | [Wonderluv](https://open.spotify.com/album/2LkzjaFwGulpxmAU9qYNDD) | 4:16 |
 | 26 | [When You Love Me](https://open.spotify.com/track/6D4TwT0ObxCojXj0TMGTZu) | [Technimatic](https://open.spotify.com/artist/1LhB1j0Zq3tjBeG3k8gq7V) | [When You Love Me](https://open.spotify.com/album/5AigHrexTX5dQI9RbNlwQx) | 4:34 |
 | 27 | [On My Way \(feat\. Children of Zeus\)](https://open.spotify.com/track/3hwCsbpzgjOXlE4gdnkjbg) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z) | [On My Way \(feat\. Children of Zeus\)](https://open.spotify.com/album/5hizQdvILZTWrTLp1AUzIj) | 3:25 |
 | 28 | [Always Golden](https://open.spotify.com/track/4cSSei5eTXf1vo4xEJkCv3) | [London Elektricity](https://open.spotify.com/artist/4CbuwI3bEF7gQOwpxBKtal), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB) | [Always Golden](https://open.spotify.com/album/2AUs6JprsDvr5zu1Rll0vC) | 4:19 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 44 | [Only Dreamers](https://open.spotify.com/track/3E2FqRsEHRxFGVk0KPy8IG) | [Technimatic](https://open.spotify.com/artist/1LhB1j0Zq3tjBeG3k8gq7V), [Zara Kershaw](https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2) | [Only Dreamers](https://open.spotify.com/album/3hKqwbPnRBf7X3MgpHMPlz) | 5:16 |
 | 45 | [Open Road](https://open.spotify.com/track/44n5iu9DumPH2J63zPDl8z) | [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2), [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Jony Beats](https://open.spotify.com/artist/6zcclxl1u4kjY6nMOIpy9z), [TomInTheChamber](https://open.spotify.com/artist/66a7ASj4mXl12zjpT96cr3) | [Open Road](https://open.spotify.com/album/5u5QYucmlBwD2CG5Xcd892) | 3:18 |
 | 46 | [Melancholy](https://open.spotify.com/track/2UdnKEXAXkfXkiXsw3NChl) | [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB) | [Salvo](https://open.spotify.com/album/6eaMoDkwlG4YHPqAFaauMg) | 4:27 |
-| 47 | [Nobody Knows](https://open.spotify.com/track/2Npm9RJ2U8hhKCQonDJESq) | [Eljé](https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO), [JACK MARLOW](https://open.spotify.com/artist/5qIDbjJ9VyV3eogXzEA6H3) | [In My Head](https://open.spotify.com/album/0U2QxOH1RSNhTSFPeOd8yH) | 2:52 |
-| 48 | [Broken Hearts](https://open.spotify.com/track/36BEINszOa1KYgXcnBtzsK) | [Nat Slater](https://open.spotify.com/artist/6aoPz3BFmcELxlTAx9xxts) | [Broken Hearts](https://open.spotify.com/album/68APyVqYotExPXndQ6VFRU) | 2:16 |
-| 49 | [Uncovered](https://open.spotify.com/track/75jOmycCtNUZYgBfoKPh83) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [Uncovered](https://open.spotify.com/album/1C26uUcYX1wtzHcaIlBLOP) | 3:18 |
-| 50 | [\(I Don't Want To\) Fly Away](https://open.spotify.com/track/62VKv8GzbonnW5AYayL9GA) | [London Elektricity](https://open.spotify.com/artist/4CbuwI3bEF7gQOwpxBKtal), [Liane Carroll](https://open.spotify.com/artist/7Dj9pPFhAO5JZb1gVPdmAk) | [\(I Don't Want To\) Fly Away](https://open.spotify.com/album/0wdPjxKxTv3lHGVUZ602vE) | 4:24 |
+| 47 | [Broken Hearts](https://open.spotify.com/track/36BEINszOa1KYgXcnBtzsK) | [Nat Slater](https://open.spotify.com/artist/6aoPz3BFmcELxlTAx9xxts) | [Broken Hearts](https://open.spotify.com/album/68APyVqYotExPXndQ6VFRU) | 2:16 |
+| 48 | [Nobody Knows](https://open.spotify.com/track/2Npm9RJ2U8hhKCQonDJESq) | [Eljé](https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO), [JACK MARLOW](https://open.spotify.com/artist/5qIDbjJ9VyV3eogXzEA6H3) | [In My Head](https://open.spotify.com/album/0U2QxOH1RSNhTSFPeOd8yH) | 2:52 |
+| 49 | [\(I Don't Want To\) Fly Away](https://open.spotify.com/track/62VKv8GzbonnW5AYayL9GA) | [London Elektricity](https://open.spotify.com/artist/4CbuwI3bEF7gQOwpxBKtal), [Liane Carroll](https://open.spotify.com/artist/7Dj9pPFhAO5JZb1gVPdmAk) | [\(I Don't Want To\) Fly Away](https://open.spotify.com/album/0wdPjxKxTv3lHGVUZ602vE) | 4:24 |
+| 50 | [Uncovered](https://open.spotify.com/track/75jOmycCtNUZYgBfoKPh83) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [Uncovered](https://open.spotify.com/album/1C26uUcYX1wtzHcaIlBLOP) | 3:18 |
 
 Snapshot ID: `AAAAAL4dhm/xe4Z2t5nzXomP7k6hCFT8`

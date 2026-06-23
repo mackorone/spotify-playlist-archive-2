@@ -1,6 +1,6 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: \u30cf\u30af\u3002",
-  "num_followers": 22577,
+  "num_followers": 22580,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-06-16 17:13:12",
       "album": {
-        "name": "\u30b5\u30a4\u30ec\u30f3",
-        "url": "https://open.spotify.com/album/67i9p8iI1wU1tszaQjM0lM"
-      },
-      "artists": [
-        {
-          "name": "Lavt",
-          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
-        }
-      ],
-      "duration_ms": 203700,
-      "name": "\u30b5\u30a4\u30ec\u30f3",
-      "url": "https://open.spotify.com/track/3eUiKQbxK0wknnKodmvOlA"
-    },
-    {
-      "added_at": "2026-06-16 17:13:12",
-      "album": {
         "name": "(a_study)",
         "url": "https://open.spotify.com/album/5Qx2KPtoxrFRsMZgH865Vo"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 98264,
       "name": "(a_study)",
       "url": "https://open.spotify.com/track/6LImLpGYlruBWi75lOWPtf"
+    },
+    {
+      "added_at": "2026-06-16 17:13:12",
+      "album": {
+        "name": "\u30b5\u30a4\u30ec\u30f3",
+        "url": "https://open.spotify.com/album/67i9p8iI1wU1tszaQjM0lM"
+      },
+      "artists": [
+        {
+          "name": "Lavt",
+          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
+        }
+      ],
+      "duration_ms": 203700,
+      "name": "\u30b5\u30a4\u30ec\u30f3",
+      "url": "https://open.spotify.com/track/3eUiKQbxK0wknnKodmvOlA"
     },
     {
       "added_at": "2026-06-16 17:13:12",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-06-16 17:13:12",
       "album": {
-        "name": "\u6625\u306e\u4ea1\u970a",
-        "url": "https://open.spotify.com/album/4hK49ivKkXfyYKAzX7pbOz"
-      },
-      "artists": [
-        {
-          "name": "Chevon",
-          "url": "https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr"
-        }
-      ],
-      "duration_ms": 215779,
-      "name": "\u6625\u306e\u4ea1\u970a",
-      "url": "https://open.spotify.com/track/4ZHWwDSgGaFjEcVvdGy3o9"
-    },
-    {
-      "added_at": "2026-06-16 17:13:12",
-      "album": {
         "name": "\u30d1\u30e9\u30bd\u30e0\u30cb\u30a2",
         "url": "https://open.spotify.com/album/2psksUsB4o9xBS9mArvYD0"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 127966,
       "name": "\u30d1\u30e9\u30bd\u30e0\u30cb\u30a2",
       "url": "https://open.spotify.com/track/5BnMjmHTJgmIOhUvfE2q9B"
+    },
+    {
+      "added_at": "2026-06-16 17:13:12",
+      "album": {
+        "name": "\u6625\u306e\u4ea1\u970a",
+        "url": "https://open.spotify.com/album/4hK49ivKkXfyYKAzX7pbOz"
+      },
+      "artists": [
+        {
+          "name": "Chevon",
+          "url": "https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr"
+        }
+      ],
+      "duration_ms": 215779,
+      "name": "\u6625\u306e\u4ea1\u970a",
+      "url": "https://open.spotify.com/track/4ZHWwDSgGaFjEcVvdGy3o9"
     },
     {
       "added_at": "2026-06-16 17:13:12",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-06-16 17:13:12",
       "album": {
-        "name": "TYT",
-        "url": "https://open.spotify.com/album/27fwOpwm1gAJ6z76Wgz0PI"
-      },
-      "artists": [
-        {
-          "name": "Offo tokyo",
-          "url": "https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y"
-        }
-      ],
-      "duration_ms": 186400,
-      "name": "TYT",
-      "url": "https://open.spotify.com/track/4oY7S5fKfIxMW6aCfRtJYl"
-    },
-    {
-      "added_at": "2026-06-16 17:13:12",
-      "album": {
         "name": "\u305f\u3089\u308c\u3070",
         "url": "https://open.spotify.com/album/5t3hoO6482UAbnF8rN5orm"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 228912,
       "name": "\u722a\u8272\u3068\u30b0\u30e9\u30b9\u306e\u7e01",
       "url": "https://open.spotify.com/track/2Dm3EfY1JydBqqw7NE9uQW"
+    },
+    {
+      "added_at": "2026-06-16 17:13:12",
+      "album": {
+        "name": "TYT",
+        "url": "https://open.spotify.com/album/27fwOpwm1gAJ6z76Wgz0PI"
+      },
+      "artists": [
+        {
+          "name": "Offo tokyo",
+          "url": "https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y"
+        }
+      ],
+      "duration_ms": 186400,
+      "name": "TYT",
+      "url": "https://open.spotify.com/track/4oY7S5fKfIxMW6aCfRtJYl"
     },
     {
       "added_at": "2026-06-16 17:13:12",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-06-16 17:13:12",
       "album": {
-        "name": "circle",
-        "url": "https://open.spotify.com/album/4pZxD7SUnNXH1p2moTSj21"
-      },
-      "artists": [
-        {
-          "name": "goethe",
-          "url": "https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY"
-        }
-      ],
-      "duration_ms": 228333,
-      "name": "Friendship",
-      "url": "https://open.spotify.com/track/76s46t3Lx1d9qJEipX0w3Q"
-    },
-    {
-      "added_at": "2026-06-16 17:13:12",
-      "album": {
         "name": "BEAUTIFUL PARADOX",
         "url": "https://open.spotify.com/album/6WlgobcU6XyVXy2zKmcUiw"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 165077,
       "name": "BEAUTIFUL PARADOX",
       "url": "https://open.spotify.com/track/2Rt8iINYVyzRlGSwwFrvOs"
+    },
+    {
+      "added_at": "2026-06-16 17:13:12",
+      "album": {
+        "name": "circle",
+        "url": "https://open.spotify.com/album/4pZxD7SUnNXH1p2moTSj21"
+      },
+      "artists": [
+        {
+          "name": "goethe",
+          "url": "https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY"
+        }
+      ],
+      "duration_ms": 228333,
+      "name": "Friendship",
+      "url": "https://open.spotify.com/track/76s46t3Lx1d9qJEipX0w3Q"
     },
     {
       "added_at": "2026-06-16 17:13:12",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-06-16 17:13:12",
       "album": {
-        "name": "\u3055\u3088\u306a\u3089\u3001\u4e00\u751f\u3002",
-        "url": "https://open.spotify.com/album/2sW3jFtxLBhnt2MZQlJcH0"
-      },
-      "artists": [
-        {
-          "name": "Offo tokyo",
-          "url": "https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y"
-        }
-      ],
-      "duration_ms": 212433,
-      "name": "\u3055\u3088\u306a\u3089\u3001\u4e00\u751f\u3002",
-      "url": "https://open.spotify.com/track/7K99wwcU9Bol3zoBUWwmYK"
-    },
-    {
-      "added_at": "2026-06-16 17:13:12",
-      "album": {
         "name": "\u30ed\u30f3\u30ea\u30fc\u30c7\u30a4\u30ba",
         "url": "https://open.spotify.com/album/6R3gB0cUctw3G5YDkFF8Cd"
       },
@@ -1471,18 +1455,18 @@
     {
       "added_at": "2026-06-16 17:13:12",
       "album": {
-        "name": "\u8a18\u5ff5\u65e5",
-        "url": "https://open.spotify.com/album/69BaKT9ooTA0ulpcywr9eW"
+        "name": "\u3055\u3088\u306a\u3089\u3001\u4e00\u751f\u3002",
+        "url": "https://open.spotify.com/album/2sW3jFtxLBhnt2MZQlJcH0"
       },
       "artists": [
         {
-          "name": "YUTORI-SEDAI",
-          "url": "https://open.spotify.com/artist/74ZODUscO84OjAiQwj4V9G"
+          "name": "Offo tokyo",
+          "url": "https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y"
         }
       ],
-      "duration_ms": 253103,
-      "name": "\u8a18\u5ff5\u65e5",
-      "url": "https://open.spotify.com/track/0USzeReb7tZFts5JKO3qHO"
+      "duration_ms": 212433,
+      "name": "\u3055\u3088\u306a\u3089\u3001\u4e00\u751f\u3002",
+      "url": "https://open.spotify.com/track/7K99wwcU9Bol3zoBUWwmYK"
     },
     {
       "added_at": "2026-06-16 17:13:12",
@@ -1535,6 +1519,22 @@
     {
       "added_at": "2026-06-16 17:13:12",
       "album": {
+        "name": "\u8a18\u5ff5\u65e5",
+        "url": "https://open.spotify.com/album/69BaKT9ooTA0ulpcywr9eW"
+      },
+      "artists": [
+        {
+          "name": "YUTORI-SEDAI",
+          "url": "https://open.spotify.com/artist/74ZODUscO84OjAiQwj4V9G"
+        }
+      ],
+      "duration_ms": 253103,
+      "name": "\u8a18\u5ff5\u65e5",
+      "url": "https://open.spotify.com/track/0USzeReb7tZFts5JKO3qHO"
+    },
+    {
+      "added_at": "2026-06-16 17:13:12",
+      "album": {
         "name": "\u5b64\u8ecd\u596e\u95d8\u6b4c",
         "url": "https://open.spotify.com/album/2HCMmvexsXO8WSfoKGWVfI"
       },
@@ -1547,22 +1547,6 @@
       "duration_ms": 225535,
       "name": "\u5b64\u8ecd\u596e\u95d8\u6b4c",
       "url": "https://open.spotify.com/track/03GMjBZBE4aczv8j8uGIEV"
-    },
-    {
-      "added_at": "2026-06-16 17:13:12",
-      "album": {
-        "name": "LIFE",
-        "url": "https://open.spotify.com/album/1gMJvW9BDi9EokYegMXwro"
-      },
-      "artists": [
-        {
-          "name": "goethe",
-          "url": "https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY"
-        }
-      ],
-      "duration_ms": 231655,
-      "name": "LIFE",
-      "url": "https://open.spotify.com/track/6JlYTnPwyLaBWqV7fC0NaH"
     },
     {
       "added_at": "2026-06-16 17:13:12",
@@ -1583,6 +1567,22 @@
     {
       "added_at": "2026-06-16 17:13:12",
       "album": {
+        "name": "\u6c34\u82ad\u8549",
+        "url": "https://open.spotify.com/album/5CPTnGhQaVEbxBRLv3w9u6"
+      },
+      "artists": [
+        {
+          "name": "Bocchi",
+          "url": "https://open.spotify.com/artist/6C9FJEK44GiyGG5ORRO0Cb"
+        }
+      ],
+      "duration_ms": 269042,
+      "name": "\u6c34\u82ad\u8549",
+      "url": "https://open.spotify.com/track/0p4HiQ0q784mpW8zliKXfB"
+    },
+    {
+      "added_at": "2026-06-16 17:13:12",
+      "album": {
         "name": "CROWN BABY",
         "url": "https://open.spotify.com/album/6MRHdbkZYY6nyZs9TRsqgr"
       },
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2026-06-16 17:13:12",
       "album": {
-        "name": "\u6c34\u82ad\u8549",
-        "url": "https://open.spotify.com/album/5CPTnGhQaVEbxBRLv3w9u6"
+        "name": "LIFE",
+        "url": "https://open.spotify.com/album/1gMJvW9BDi9EokYegMXwro"
       },
       "artists": [
         {
-          "name": "Bocchi",
-          "url": "https://open.spotify.com/artist/6C9FJEK44GiyGG5ORRO0Cb"
+          "name": "goethe",
+          "url": "https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY"
         }
       ],
-      "duration_ms": 269042,
-      "name": "\u6c34\u82ad\u8549",
-      "url": "https://open.spotify.com/track/0p4HiQ0q784mpW8zliKXfB"
+      "duration_ms": 231655,
+      "name": "LIFE",
+      "url": "https://open.spotify.com/track/6JlYTnPwyLaBWqV7fC0NaH"
     }
   ],
   "unique_name": "\u9752\u6625\u3068\u4e00\u77ac",

@@ -2,7 +2,7 @@
 
 ### [Editors' Picks: Best Songs of the Year So Far](https://open.spotify.com/playlist/37i9dQZF1DWSYXDfndvXy2)
 
-> Meticulously selected by Spotify music experts\. Cover: underscores
+> Meticulously selected by Spotify music experts\. Cover: Olivia Rodrigo
 
 50 songs - 2 hr 58 min
 

@@ -2,9 +2,9 @@
 
 ### [Hip\-hop Việt](https://open.spotify.com/playlist/37i9dQZF1DWYLMi9ZNZUaz)
 
-> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: RPT MCK
+> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: HIEUTHUHAI
 
-348 songs - 20 hr 20 min
+349 songs - 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Chẳng Thể Quay Lại](https://open.spotify.com/track/1pJwIrziCMPfrGeQhLrhfn) | [Minh Huy](https://open.spotify.com/artist/5zT1Ku9mzzl6RW5y4z0hUK), [Pjnboys](https://open.spotify.com/artist/3tPhATqpWFeuaZEmPMKvu1) | [WITHOUT U](https://open.spotify.com/album/7r3Hl2d80CLsTsbG8aKMvz) | 3:03 | 2024-01-11 | 2024-01-17 |
 | [Chỉ là người quan sát](https://open.spotify.com/track/6QG190ZbY2HLw3zgqA0Av4) | [tofutns](https://open.spotify.com/artist/0Ux2qIQbEeqvv7uYLgHhDH), [PC](https://open.spotify.com/artist/3HD3V1nGFPwepBO7064Ij0) | [Futape](https://open.spotify.com/album/42fjJEU9ubT0H9KuxUHhNy) | 3:50 | 2023-10-29 | 2023-11-03 |
 | [chỉ là đôi balance](https://open.spotify.com/track/4Tbure4jW72UEcIxcdxosn) | [Finn](https://open.spotify.com/artist/3lg54DBZGbztBHc0t1f48s) | [chỉ là đôi balance](https://open.spotify.com/album/2HySw6qxsTUnU9QdX4ZOyB) | 2:53 | 2025-06-05 | 2025-06-08 |
-| [Chỉ Một Đêm Nữa Thôi](https://open.spotify.com/track/28bxbqNcAuNxYDZYet6eZ7) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [99%](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu) | 2:21 | 2023-10-19 |  |
+| [Chỉ Một Đêm Nữa Thôi](https://open.spotify.com/track/28bxbqNcAuNxYDZYet6eZ7) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [99%](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu) | 2:21 | 2023-10-19 | 2026-06-23 |
 | [Chịu Cách Mình Nói Thua](https://open.spotify.com/track/3ZbZtdEw9U0uZW4tZItIwq) | [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ), [CoolKid](https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi), [BAN](https://open.spotify.com/artist/0CO1IZAPmgTbkfXvcRCLsL) | [Chịu Cách Mình Nói Thua](https://open.spotify.com/album/6H01GjpEb6taXvwiqEzpFy) | 3:01 | 2023-11-26 |  |
 | [COLD LẠC BỘ](https://open.spotify.com/track/476OvQTK7vTVIS3yDz9ShR) | [Coldzy](https://open.spotify.com/artist/401ikVSob52311M6Fwnunt), [Minsicko](https://open.spotify.com/artist/33J4sIJ9vp7KgdKpxXm6z6), [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [MEDICINE](https://open.spotify.com/album/6QOYGkZuyXSpEZubRkR0oI) | 3:08 | 2024-06-25 | 2024-06-29 |
 | [Con Nhà Giàu Con Nhà Nghèo](https://open.spotify.com/track/08ebBL7klXxYzROkBCsy2W) | [DSK](https://open.spotify.com/artist/0KqWWEbDa21psQwESpf3pD) | [Con Nhà Giàu Con Nhà Nghèo](https://open.spotify.com/album/0XaGzrZx5nyQNMZ7A27nxD) | 2:45 | 2024-03-19 | 2024-03-21 |
@@ -96,6 +96,7 @@
 | [Dám Rực Rỡ](https://open.spotify.com/track/4R7UV2BCJ2bt9hh6jFOgId) | [WeChoice](https://open.spotify.com/artist/083jWNEVYIU5VwPTPaER5D), [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu), [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp), [Kai Đinh](https://open.spotify.com/artist/3E6LGptA8lBEXPHAQCE3vr), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [Dám Rực Rỡ](https://open.spotify.com/album/6wTRYzuUxJw4XOsHpzkYo0) | 3:48 | 2024-01-24 | 2024-03-24 |
 | [Dân Chơi Sao Phải Khóc](https://open.spotify.com/track/0dBKcPEAsdxWJsqNDNHcPz) | [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh), [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ), [WOKEUP](https://open.spotify.com/artist/0qAJ604EZMbkbpZ9NN6W6d) | [Dân Chơi Sao Phải Khóc](https://open.spotify.com/album/3INCvyLfaoojlTWtSLMHDa) | 3:30 | 2024-01-11 | 2026-05-13 |
 | [Dâu Thiên Hạ](https://open.spotify.com/track/0rfQw4NcOrsjkJUK1rsZ01) | [Suboi](https://open.spotify.com/artist/2Fc5cGXai8xzLhGyltp4tT) | [Dâu Thiên Hạ](https://open.spotify.com/album/5Sk4xzKCcD1eehwjTIgwft) | 2:48 | 2024-03-07 | 2024-03-12 |
+| [Dưa Chua](https://open.spotify.com/track/5QjIMYxulJvh8sOr0zQgTP) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL) | [HVL](https://open.spotify.com/album/36e3pjcLAYabHjXlaSmWOe) | 3:02 | 2026-06-18 |  |
 | [Dậy Mau](https://open.spotify.com/track/7AZggBEk10xtLwwHSgFPvV) | [QNT](https://open.spotify.com/artist/4LuFOXq87Tg0JSl5U7yxFZ) | [Dậy Mau](https://open.spotify.com/album/0TulZiji6TY2OSx9au0CTw) | 3:03 | 2023-11-30 | 2023-12-04 |
 | [Em Buồn Anh](https://open.spotify.com/track/12KilFjTeSu4wPvc8mSsS4) | [Haley](https://open.spotify.com/artist/39s1RCn0qbRtGzBwCmx63z), [INUS](https://open.spotify.com/artist/4mWL3t6VGghWi1CkYUdkcW), [MANBO](https://open.spotify.com/artist/2rKtPYcwYmevNcaqzJOwvf) | [Em Buồn Anh](https://open.spotify.com/album/2Kg3O9TGIlJpamHiBq8YqD) | 3:47 | 2025-05-15 | 2025-06-06 |
 | [Em Bé](https://open.spotify.com/track/4RZJObXQzsKQLd25LBjBG8) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve), [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F) | [Em Bé](https://open.spotify.com/album/4h6b472LS8MBZuNZzKQQDN) | 3:12 | 2024-06-12 | 2025-01-30 |

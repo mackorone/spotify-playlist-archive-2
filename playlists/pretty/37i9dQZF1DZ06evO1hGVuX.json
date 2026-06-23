@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajXYAAAAAAAT8PZLce8U12ThS0hWRfq3",
+  "snapshot_id": "ajcpgAAAAAD4Tt4siJ322obNVoQXTwvI",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poem 1",
-        "url": "https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr"
-      },
-      "artists": [
-        {
-          "name": "Ana Roxanne",
-          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
-        }
-      ],
-      "duration_ms": 202068,
-      "name": "X",
-      "url": "https://open.spotify.com/track/6CBsIBdi6MWzDkif2RjK45"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "~~~",
         "url": "https://open.spotify.com/album/2oPJNXmIuWrJq9ozINmwFW"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 244000,
       "name": "Immortality",
       "url": "https://open.spotify.com/track/7umwXBtyRHfXl0UnhsWKRZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Poem 1",
+        "url": "https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr"
+      },
+      "artists": [
+        {
+          "name": "Ana Roxanne",
+          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
+        }
+      ],
+      "duration_ms": 202068,
+      "name": "X",
+      "url": "https://open.spotify.com/track/6CBsIBdi6MWzDkif2RjK45"
     },
     {
       "added_at": null,
@@ -99,22 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poem 1",
-        "url": "https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr"
-      },
-      "artists": [
-        {
-          "name": "Ana Roxanne",
-          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Wishful (draft)",
-      "url": "https://open.spotify.com/track/6Fcv3gmhC5rQctkZ3FlbDV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "~~~",
         "url": "https://open.spotify.com/album/2oPJNXmIuWrJq9ozINmwFW"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 143146,
       "name": "I'm Every Sparkly Woman",
       "url": "https://open.spotify.com/track/1wJl3JYS0rwr6vzghouw43"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Poem 1",
+        "url": "https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr"
+      },
+      "artists": [
+        {
+          "name": "Ana Roxanne",
+          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Wishful (draft)",
+      "url": "https://open.spotify.com/track/6Fcv3gmhC5rQctkZ3FlbDV"
     },
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poem 1",
-        "url": "https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr"
-      },
-      "artists": [
-        {
-          "name": "Ana Roxanne",
-          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Cover Me",
-      "url": "https://open.spotify.com/track/3YKoxarWdKzwVasA7oiAu7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "~~~",
         "url": "https://open.spotify.com/album/2oPJNXmIuWrJq9ozINmwFW"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 320093,
       "name": "It's a Rainy Day on the Cosmic Shore",
       "url": "https://open.spotify.com/track/2fvphQzLUCR89aLAwTyDuL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Poem 1",
+        "url": "https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr"
+      },
+      "artists": [
+        {
+          "name": "Ana Roxanne",
+          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Cover Me",
+      "url": "https://open.spotify.com/track/3YKoxarWdKzwVasA7oiAu7"
     },
     {
       "added_at": null,
@@ -243,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poem 1",
-        "url": "https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr"
-      },
-      "artists": [
-        {
-          "name": "Ana Roxanne",
-          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "The Age of Innocence",
-      "url": "https://open.spotify.com/track/6EDopcLclclH78uRO5YQrs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "~~~",
         "url": "https://open.spotify.com/album/2oPJNXmIuWrJq9ozINmwFW"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 336666,
       "name": "Nocturne",
       "url": "https://open.spotify.com/track/1qNiEBMZVAuygzLYYLG7Rv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Poem 1",
+        "url": "https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr"
+      },
+      "artists": [
+        {
+          "name": "Ana Roxanne",
+          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "The Age of Innocence",
+      "url": "https://open.spotify.com/track/6EDopcLclclH78uRO5YQrs"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poem 1",
-        "url": "https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr"
-      },
-      "artists": [
-        {
-          "name": "Ana Roxanne",
-          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "Keepsake",
-      "url": "https://open.spotify.com/track/1O1Qmb9eZYK6lAU9EWpTpQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "~~~",
         "url": "https://open.spotify.com/album/2oPJNXmIuWrJq9ozINmwFW"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 260620,
       "name": "Slowness",
       "url": "https://open.spotify.com/track/7qqxrcreNiB1sL91OrvVol"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Poem 1",
+        "url": "https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr"
+      },
+      "artists": [
+        {
+          "name": "Ana Roxanne",
+          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Keepsake",
+      "url": "https://open.spotify.com/track/1O1Qmb9eZYK6lAU9EWpTpQ"
     },
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poem 1",
-        "url": "https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr"
-      },
-      "artists": [
-        {
-          "name": "Ana Roxanne",
-          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
-        }
-      ],
-      "duration_ms": 384750,
-      "name": "Untitled II",
-      "url": "https://open.spotify.com/track/2VbyPbifDX0BDo9DiTPa3n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "~~~",
         "url": "https://open.spotify.com/album/2oPJNXmIuWrJq9ozINmwFW"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 324000,
       "name": "In a Small Valley",
       "url": "https://open.spotify.com/track/5ZLqOeBBYZFIl6xjKlPKLg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Poem 1",
+        "url": "https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr"
+      },
+      "artists": [
+        {
+          "name": "Ana Roxanne",
+          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
+        }
+      ],
+      "duration_ms": 384750,
+      "name": "Untitled II",
+      "url": "https://open.spotify.com/track/2VbyPbifDX0BDo9DiTPa3n"
     },
     {
       "added_at": null,

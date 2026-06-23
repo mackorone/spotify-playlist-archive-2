@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 97012,
+  "num_followers": 97038,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajXYAAAAAADDFpQyy5Yko0wdxwxWLIJB",
+  "snapshot_id": "ajcpgAAAAABbrL+DE5NvtTxtdwWkXFIV",
   "tracks": [
     {
       "added_at": null,
@@ -175,18 +175,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "What a Feeling",
-        "url": "https://open.spotify.com/album/26zl5w4grdSyTmy2989Tov"
+        "name": "Home (with Stick Figure)",
+        "url": "https://open.spotify.com/album/6wXNgsH6qyh4Ujqq7laPOG"
       },
       "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        },
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 229616,
-      "name": "What a Feeling",
-      "url": "https://open.spotify.com/track/68kKTUw9HJOczE2CAsz73a"
+      "duration_ms": 210182,
+      "name": "Home (with Stick Figure)",
+      "url": "https://open.spotify.com/track/1GwcqCWWQwzt6r09rQjqQQ"
     },
     {
       "added_at": null,
@@ -211,22 +215,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Home (with Stick Figure)",
-        "url": "https://open.spotify.com/album/6wXNgsH6qyh4Ujqq7laPOG"
+        "name": "What a Feeling",
+        "url": "https://open.spotify.com/album/26zl5w4grdSyTmy2989Tov"
       },
       "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        },
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 210182,
-      "name": "Home (with Stick Figure)",
-      "url": "https://open.spotify.com/track/1GwcqCWWQwzt6r09rQjqQQ"
+      "duration_ms": 229616,
+      "name": "What a Feeling",
+      "url": "https://open.spotify.com/track/68kKTUw9HJOczE2CAsz73a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burial Ground",
+        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 292485,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/4Th9Lu8GK0mt5fZZ945FI7"
     },
     {
       "added_at": null,
@@ -247,22 +263,6 @@
       "duration_ms": 233314,
       "name": "Gardenia (with Stick Figure)",
       "url": "https://open.spotify.com/track/0OcIijvgNNIotHuvGTwDBT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Burial Ground",
-        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 292485,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/4Th9Lu8GK0mt5fZZ945FI7"
     },
     {
       "added_at": null,
@@ -658,15 +658,11 @@
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        },
-        {
-          "name": "Eric Rachmany",
-          "url": "https://open.spotify.com/artist/7fLTVZfdwBPBgGkAYdSprM"
         }
       ],
-      "duration_ms": 255986,
-      "name": "Mind Block (with Eric Rachmany)",
-      "url": "https://open.spotify.com/track/6aZGYH9pDOFew9SvIKwi5M"
+      "duration_ms": 252693,
+      "name": "In This Love",
+      "url": "https://open.spotify.com/track/3u1bKblfqeghD3grk3Le2w"
     },
     {
       "added_at": null,

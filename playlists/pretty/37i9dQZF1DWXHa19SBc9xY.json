@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 127769,
+  "num_followers": 127782,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
@@ -719,26 +719,6 @@
     {
       "added_at": "2026-06-17 15:55:41",
       "album": {
-        "name": "SalDoce",
-        "url": "https://open.spotify.com/album/3L72Mzaf9rUIFgRXlQiCF3"
-      },
-      "artists": [
-        {
-          "name": "SalDoce",
-          "url": "https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG"
-        },
-        {
-          "name": "Jorge Vercillo",
-          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
-        }
-      ],
-      "duration_ms": 181992,
-      "name": "Bem ou Mal",
-      "url": "https://open.spotify.com/track/5WjWfsNUTjiPbxubTL3UPz"
-    },
-    {
-      "added_at": "2026-06-17 15:55:41",
-      "album": {
         "name": "Cada um tem o seu Deus",
         "url": "https://open.spotify.com/album/1bzMVyBIZgeJv22zdkR5gl"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 224594,
       "name": "Cada um tem o seu Deus",
       "url": "https://open.spotify.com/track/1fZhMTdpB6Ty0B92RMQUjy"
+    },
+    {
+      "added_at": "2026-06-17 15:55:41",
+      "album": {
+        "name": "SalDoce",
+        "url": "https://open.spotify.com/album/3L72Mzaf9rUIFgRXlQiCF3"
+      },
+      "artists": [
+        {
+          "name": "SalDoce",
+          "url": "https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG"
+        },
+        {
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+        }
+      ],
+      "duration_ms": 181992,
+      "name": "Bem ou Mal",
+      "url": "https://open.spotify.com/track/5WjWfsNUTjiPbxubTL3UPz"
     },
     {
       "added_at": "2026-06-17 15:55:41",
@@ -979,26 +979,6 @@
     {
       "added_at": "2026-06-17 15:55:41",
       "album": {
-        "name": "Com Certeza",
-        "url": "https://open.spotify.com/album/7HVtEonGWnyiHww5TAfLB7"
-      },
-      "artists": [
-        {
-          "name": "Mariana Coelho",
-          "url": "https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv"
-        },
-        {
-          "name": "Zeider",
-          "url": "https://open.spotify.com/artist/6r9jXjPwsd3OP4aCSfYRhW"
-        }
-      ],
-      "duration_ms": 212750,
-      "name": "Com Certeza",
-      "url": "https://open.spotify.com/track/1HaLubyTPui15s30qxr6eI"
-    },
-    {
-      "added_at": "2026-06-17 15:55:41",
-      "album": {
         "name": "PREAMAR",
         "url": "https://open.spotify.com/album/46P8ssX2MolOO2NNGcGoeA"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 261901,
       "name": "PREAMAR",
       "url": "https://open.spotify.com/track/5vXucjlEods0fafmWCudxU"
+    },
+    {
+      "added_at": "2026-06-17 15:55:41",
+      "album": {
+        "name": "Com Certeza",
+        "url": "https://open.spotify.com/album/7HVtEonGWnyiHww5TAfLB7"
+      },
+      "artists": [
+        {
+          "name": "Mariana Coelho",
+          "url": "https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv"
+        },
+        {
+          "name": "Zeider",
+          "url": "https://open.spotify.com/artist/6r9jXjPwsd3OP4aCSfYRhW"
+        }
+      ],
+      "duration_ms": 212750,
+      "name": "Com Certeza",
+      "url": "https://open.spotify.com/track/1HaLubyTPui15s30qxr6eI"
     },
     {
       "added_at": "2026-06-17 15:55:41",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-06-17 15:55:41",
       "album": {
-        "name": "Ju\u00edzo e Responsabilidade",
-        "url": "https://open.spotify.com/album/08CY5RDd32Yyd92rOA4uVa"
-      },
-      "artists": [
-        {
-          "name": "Flerte Flamingo",
-          "url": "https://open.spotify.com/artist/7zdaWFrCzl1h0jmDGt9Qih"
-        }
-      ],
-      "duration_ms": 157511,
-      "name": "Ju\u00edzo e Responsabilidade",
-      "url": "https://open.spotify.com/track/7p01taFUjX5boi9yIiOgEK"
-    },
-    {
-      "added_at": "2026-06-17 15:55:41",
-      "album": {
         "name": "Praia do Flamengo",
         "url": "https://open.spotify.com/album/3oZNokSA98ACGWJkOhZnb9"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 271728,
       "name": "Praia do Flamengo",
       "url": "https://open.spotify.com/track/42Buyq4Ae5XDO7LHv8IHGV"
+    },
+    {
+      "added_at": "2026-06-17 15:55:41",
+      "album": {
+        "name": "Ju\u00edzo e Responsabilidade",
+        "url": "https://open.spotify.com/album/08CY5RDd32Yyd92rOA4uVa"
+      },
+      "artists": [
+        {
+          "name": "Flerte Flamingo",
+          "url": "https://open.spotify.com/artist/7zdaWFrCzl1h0jmDGt9Qih"
+        }
+      ],
+      "duration_ms": 157511,
+      "name": "Ju\u00edzo e Responsabilidade",
+      "url": "https://open.spotify.com/track/7p01taFUjX5boi9yIiOgEK"
     },
     {
       "added_at": "2026-06-17 15:55:41",

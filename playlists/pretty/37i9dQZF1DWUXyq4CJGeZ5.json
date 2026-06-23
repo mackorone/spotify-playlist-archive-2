@@ -1,6 +1,6 @@
 {
   "description": "Piano music for fall vibes and autumnal moods.",
-  "num_followers": 82449,
+  "num_followers": 82439,
   "original_name": "Autumn Piano",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2026-05-22 10:12:36",
       "album": {
-        "name": "Veloura",
-        "url": "https://open.spotify.com/album/18pNyU9wkPCB0P4AuTmIvG"
-      },
-      "artists": [
-        {
-          "name": "Waylen Orson",
-          "url": "https://open.spotify.com/artist/0MiPwC4KkJlyM17wLHZViw"
-        }
-      ],
-      "duration_ms": 146718,
-      "name": "Veloura",
-      "url": "https://open.spotify.com/track/3LkQZrx4ozjCE1RxHON6Bc"
-    },
-    {
-      "added_at": "2026-05-22 10:12:36",
-      "album": {
         "name": "invisible grace",
         "url": "https://open.spotify.com/album/76H71qIvsrDgdCM8fNlOPL"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 167124,
       "name": "invisible grace",
       "url": "https://open.spotify.com/track/6L1TN7HFt94qtFC1vJw7Rr"
+    },
+    {
+      "added_at": "2026-05-22 10:12:36",
+      "album": {
+        "name": "Veloura",
+        "url": "https://open.spotify.com/album/18pNyU9wkPCB0P4AuTmIvG"
+      },
+      "artists": [
+        {
+          "name": "Waylen Orson",
+          "url": "https://open.spotify.com/artist/0MiPwC4KkJlyM17wLHZViw"
+        }
+      ],
+      "duration_ms": 146718,
+      "name": "Veloura",
+      "url": "https://open.spotify.com/track/3LkQZrx4ozjCE1RxHON6Bc"
     },
     {
       "added_at": "2026-05-22 10:12:36",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-05-22 10:12:36",
       "album": {
-        "name": "Mari",
-        "url": "https://open.spotify.com/album/4U1tuF9PINDX3hGsp0OCRg"
-      },
-      "artists": [
-        {
-          "name": "Dean Caplan",
-          "url": "https://open.spotify.com/artist/5S8R73SrnsbicfhME9Ix5q"
-        }
-      ],
-      "duration_ms": 121000,
-      "name": "Mari",
-      "url": "https://open.spotify.com/track/5AsYLazJhOnZaAxfQgTwte"
-    },
-    {
-      "added_at": "2026-05-22 10:12:36",
-      "album": {
         "name": "Midnight Improvisations // Ruminate",
         "url": "https://open.spotify.com/album/4pOyBEYZRfEGsbSOinaytz"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 204000,
       "name": "Excavation",
       "url": "https://open.spotify.com/track/3kOJMvFCOHykQws1qsVMsu"
+    },
+    {
+      "added_at": "2026-05-22 10:12:36",
+      "album": {
+        "name": "Mari",
+        "url": "https://open.spotify.com/album/4U1tuF9PINDX3hGsp0OCRg"
+      },
+      "artists": [
+        {
+          "name": "Dean Caplan",
+          "url": "https://open.spotify.com/artist/5S8R73SrnsbicfhME9Ix5q"
+        }
+      ],
+      "duration_ms": 121000,
+      "name": "Mari",
+      "url": "https://open.spotify.com/track/5AsYLazJhOnZaAxfQgTwte"
     },
     {
       "added_at": "2026-05-22 10:12:36",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-05-22 10:12:36",
       "album": {
-        "name": "For Kate",
-        "url": "https://open.spotify.com/album/1eGuJ5nZme9vfMMyb5B07S"
-      },
-      "artists": [
-        {
-          "name": "Ed Chinaski",
-          "url": "https://open.spotify.com/artist/1uiURs2L2yxv1vr5vGwbSt"
-        }
-      ],
-      "duration_ms": 137519,
-      "name": "For Kate",
-      "url": "https://open.spotify.com/track/4uNQlDhz4fIKvjvdSESKou"
-    },
-    {
-      "added_at": "2026-05-22 10:12:36",
-      "album": {
         "name": "Sendai",
         "url": "https://open.spotify.com/album/1XRSfj0RiYAAeX6LrdVdRu"
       },
@@ -1131,18 +1115,18 @@
     {
       "added_at": "2026-05-22 10:12:36",
       "album": {
-        "name": "Centered",
-        "url": "https://open.spotify.com/album/76yypb4NIjdO1dWWgqoVCY"
+        "name": "For Kate",
+        "url": "https://open.spotify.com/album/1eGuJ5nZme9vfMMyb5B07S"
       },
       "artists": [
         {
-          "name": "Alto Fernando",
-          "url": "https://open.spotify.com/artist/0KQn5sR0L1mcSUicDjMtiK"
+          "name": "Ed Chinaski",
+          "url": "https://open.spotify.com/artist/1uiURs2L2yxv1vr5vGwbSt"
         }
       ],
-      "duration_ms": 137732,
-      "name": "Centered",
-      "url": "https://open.spotify.com/track/560y9nBddSUIIO7Q9PqHuO"
+      "duration_ms": 137519,
+      "name": "For Kate",
+      "url": "https://open.spotify.com/track/4uNQlDhz4fIKvjvdSESKou"
     },
     {
       "added_at": "2026-05-22 10:12:36",
@@ -1163,6 +1147,22 @@
       "duration_ms": 145810,
       "name": "Fusionnelle",
       "url": "https://open.spotify.com/track/6osge3cxU5DKKEcbru8Tk5"
+    },
+    {
+      "added_at": "2026-05-22 10:12:36",
+      "album": {
+        "name": "Centered",
+        "url": "https://open.spotify.com/album/76yypb4NIjdO1dWWgqoVCY"
+      },
+      "artists": [
+        {
+          "name": "Alto Fernando",
+          "url": "https://open.spotify.com/artist/0KQn5sR0L1mcSUicDjMtiK"
+        }
+      ],
+      "duration_ms": 137732,
+      "name": "Centered",
+      "url": "https://open.spotify.com/track/560y9nBddSUIIO7Q9PqHuO"
     },
     {
       "added_at": "2026-05-22 10:12:36",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2026-05-22 10:12:36",
       "album": {
+        "name": "In the meadow",
+        "url": "https://open.spotify.com/album/0vuFZryPuXNBlpCSqF55Cn"
+      },
+      "artists": [
+        {
+          "name": "Eve Dennison",
+          "url": "https://open.spotify.com/artist/7BmoRv7JYnIZhZfy4M1aCK"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "In the meadow",
+      "url": "https://open.spotify.com/track/13oOeedL25UFGZ1XNibTrU"
+    },
+    {
+      "added_at": "2026-05-22 10:12:36",
+      "album": {
         "name": "lachlan",
         "url": "https://open.spotify.com/album/4upy9Hil2WVSEwu8eYEVWB"
       },
@@ -1295,18 +1311,18 @@
     {
       "added_at": "2026-05-22 10:12:36",
       "album": {
-        "name": "In the meadow",
-        "url": "https://open.spotify.com/album/0vuFZryPuXNBlpCSqF55Cn"
+        "name": "Geniality",
+        "url": "https://open.spotify.com/album/4NOyOhpuk1kTV8LIXvMRwn"
       },
       "artists": [
         {
-          "name": "Eve Dennison",
-          "url": "https://open.spotify.com/artist/7BmoRv7JYnIZhZfy4M1aCK"
+          "name": "Crimson Memoirs",
+          "url": "https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF"
         }
       ],
-      "duration_ms": 216000,
-      "name": "In the meadow",
-      "url": "https://open.spotify.com/track/13oOeedL25UFGZ1XNibTrU"
+      "duration_ms": 170624,
+      "name": "Geniality",
+      "url": "https://open.spotify.com/track/1vaLaizp9SS2AMyadBtwzL"
     },
     {
       "added_at": "2026-05-22 10:12:36",
@@ -1327,18 +1343,18 @@
     {
       "added_at": "2026-05-22 10:12:36",
       "album": {
-        "name": "Geniality",
-        "url": "https://open.spotify.com/album/4NOyOhpuk1kTV8LIXvMRwn"
+        "name": "Goodnight Moon",
+        "url": "https://open.spotify.com/album/4v823p6Ws27vZ6IxpjwIQu"
       },
       "artists": [
         {
-          "name": "Crimson Memoirs",
-          "url": "https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF"
+          "name": "Brian Charlie",
+          "url": "https://open.spotify.com/artist/0s3zGPEjLXfQMOETZfkvOT"
         }
       ],
-      "duration_ms": 170624,
-      "name": "Geniality",
-      "url": "https://open.spotify.com/track/1vaLaizp9SS2AMyadBtwzL"
+      "duration_ms": 194761,
+      "name": "Goodnight Moon",
+      "url": "https://open.spotify.com/track/05YZGty7GN6MftfPu3vWiI"
     },
     {
       "added_at": "2026-05-22 10:12:36",
@@ -1371,22 +1387,6 @@
       "duration_ms": 243214,
       "name": "I Tried",
       "url": "https://open.spotify.com/track/4ZEjWfdhgbV5M90h8XMn8N"
-    },
-    {
-      "added_at": "2026-05-22 10:12:36",
-      "album": {
-        "name": "Goodnight Moon",
-        "url": "https://open.spotify.com/album/4v823p6Ws27vZ6IxpjwIQu"
-      },
-      "artists": [
-        {
-          "name": "Brian Charlie",
-          "url": "https://open.spotify.com/artist/0s3zGPEjLXfQMOETZfkvOT"
-        }
-      ],
-      "duration_ms": 194761,
-      "name": "Goodnight Moon",
-      "url": "https://open.spotify.com/track/05YZGty7GN6MftfPu3vWiI"
     },
     {
       "added_at": "2026-05-22 10:12:36",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2026-05-22 10:12:36",
       "album": {
+        "name": "The Shades of Autumn",
+        "url": "https://open.spotify.com/album/2W2E8WP1OYmuRQwGMvYZkh"
+      },
+      "artists": [
+        {
+          "name": "Emile Cerise",
+          "url": "https://open.spotify.com/artist/5J3gBMCxZ68jLD8aijjftS"
+        }
+      ],
+      "duration_ms": 128970,
+      "name": "The Shades of Autumn",
+      "url": "https://open.spotify.com/track/7blT4n9pSyxii6V21KIJBB"
+    },
+    {
+      "added_at": "2026-05-22 10:12:36",
+      "album": {
         "name": "Yasashiku Genki",
         "url": "https://open.spotify.com/album/7Juxx4SYSL1bLa1VrtRqCb"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 178000,
       "name": "Pourquoi",
       "url": "https://open.spotify.com/track/23DPhQu9w09Vc4PkAd3zv2"
-    },
-    {
-      "added_at": "2026-05-22 10:12:36",
-      "album": {
-        "name": "The Shades of Autumn",
-        "url": "https://open.spotify.com/album/2W2E8WP1OYmuRQwGMvYZkh"
-      },
-      "artists": [
-        {
-          "name": "Emile Cerise",
-          "url": "https://open.spotify.com/artist/5J3gBMCxZ68jLD8aijjftS"
-        }
-      ],
-      "duration_ms": 128970,
-      "name": "The Shades of Autumn",
-      "url": "https://open.spotify.com/track/7blT4n9pSyxii6V21KIJBB"
     },
     {
       "added_at": "2026-05-22 10:12:36",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2026-05-22 10:12:36",
       "album": {
-        "name": "Orr\u00e1nge",
-        "url": "https://open.spotify.com/album/4050fpm081zdcCa5xeM0wK"
-      },
-      "artists": [
-        {
-          "name": "La Pix",
-          "url": "https://open.spotify.com/artist/6TCo3qRn8NmB5p4xJRn9sD"
-        }
-      ],
-      "duration_ms": 166923,
-      "name": "Orr\u00e1nge",
-      "url": "https://open.spotify.com/track/0OwvlZwXbOdPkfjeahFV7a"
-    },
-    {
-      "added_at": "2026-05-22 10:12:36",
-      "album": {
         "name": "November Afternoon",
         "url": "https://open.spotify.com/album/3gnz8xSMPlA2lJxoPhb4oe"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 148549,
       "name": "November Afternoon",
       "url": "https://open.spotify.com/track/0lMNLswdGdZh92jglAl7iY"
+    },
+    {
+      "added_at": "2026-05-22 10:12:36",
+      "album": {
+        "name": "Orr\u00e1nge",
+        "url": "https://open.spotify.com/album/4050fpm081zdcCa5xeM0wK"
+      },
+      "artists": [
+        {
+          "name": "La Pix",
+          "url": "https://open.spotify.com/artist/6TCo3qRn8NmB5p4xJRn9sD"
+        }
+      ],
+      "duration_ms": 166923,
+      "name": "Orr\u00e1nge",
+      "url": "https://open.spotify.com/track/0OwvlZwXbOdPkfjeahFV7a"
     },
     {
       "added_at": "2026-05-22 10:12:36",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2026-05-22 10:12:36",
       "album": {
-        "name": "Fr\u00fchling",
-        "url": "https://open.spotify.com/album/6XqCHvckzJbuOj22CTkcAb"
-      },
-      "artists": [
-        {
-          "name": "Auguste Blanc",
-          "url": "https://open.spotify.com/artist/5nVYmZntdGuW8hqgifpxMe"
-        }
-      ],
-      "duration_ms": 139663,
-      "name": "Fr\u00fchling",
-      "url": "https://open.spotify.com/track/7ErgLiOGpIPutE9A7jXmEf"
-    },
-    {
-      "added_at": "2026-05-22 10:12:36",
-      "album": {
         "name": "Red Sky",
         "url": "https://open.spotify.com/album/6aTev9H6NeG5l03DgD3rJc"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 139357,
       "name": "Red Sky",
       "url": "https://open.spotify.com/track/17ATrlvNNZdpPOeKB3YJHT"
+    },
+    {
+      "added_at": "2026-05-22 10:12:36",
+      "album": {
+        "name": "Fr\u00fchling",
+        "url": "https://open.spotify.com/album/6XqCHvckzJbuOj22CTkcAb"
+      },
+      "artists": [
+        {
+          "name": "Auguste Blanc",
+          "url": "https://open.spotify.com/artist/5nVYmZntdGuW8hqgifpxMe"
+        }
+      ],
+      "duration_ms": 139663,
+      "name": "Fr\u00fchling",
+      "url": "https://open.spotify.com/track/7ErgLiOGpIPutE9A7jXmEf"
     },
     {
       "added_at": "2026-05-22 10:12:36",

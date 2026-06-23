@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1n9whBbBKoL.md) - [plain]
 
 > Ambient drone to make you feel weightless.
 
-[Spotify](https://open.spotify.com/user/spotify) - 985,809 likes - 155 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 986,525 likes - 155 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1n9whBbBKoL.md) - [plain]
 | 154 | [Day 2 Nite](https://open.spotify.com/track/2AQkYP8ov3kzM59i4ffU0B) | [Analogue Twin](https://open.spotify.com/artist/31KaDFdhzg32UCgAflU1D5) | [Day 2 Nite](https://open.spotify.com/album/3YUdd90K7Sp4xcJ2yi3aKi) | 3:20 |
 | 155 | [Calmatique](https://open.spotify.com/track/2tGt8po97NgCRhQ1W9ZOzO) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Calmatique](https://open.spotify.com/album/7e4N9Lfe9LAIKaAFAYnLjC) | 2:46 |
 
-Snapshot ID: `AAAAAEO0Ms405sTp9TLwqJZOe0MQB2xj`
+Snapshot ID: `AAAAAFagd5fQINzcChBzqcCywwJrj76o`

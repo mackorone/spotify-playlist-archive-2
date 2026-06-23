@@ -82,7 +82,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 175423,
       "name": "AbhinavaKavi",
       "url": "https://open.spotify.com/track/1S1O336fRRNAppsuafNrWh"
@@ -3345,6 +3345,24 @@
     },
     {
       "album": {
+        "name": "Kaalam",
+        "url": "https://open.spotify.com/album/5kD8qdqqd29afX96LPGHHu"
+      },
+      "artists": [
+        {
+          "name": "Likhith Dorbala",
+          "url": "https://open.spotify.com/artist/3PchR7lSIh9Po7xqsnFRPR"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207860,
+      "name": "KAALAM",
+      "url": "https://open.spotify.com/track/4GJAQdLi59Bs6PnPavRDMJ"
+    },
+    {
+      "album": {
         "name": "Kaalam Karigee Vela",
         "url": "https://open.spotify.com/album/1TX4kYXmWAmNCxkX6aDyce"
       },
@@ -5080,7 +5098,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 187058,
       "name": "Mava",
       "url": "https://open.spotify.com/track/4DGW1TXNm20X2Z3sbts3pI"
@@ -6972,7 +6990,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 185039,
       "name": "OG x Masaka Masaka",
       "url": "https://open.spotify.com/track/15RHsBDuuYBP93t2GibTYF"
@@ -7476,7 +7494,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 176000,
       "name": "Padipoya",
       "url": "https://open.spotify.com/track/0Emzz8mcBafVhb7jgrtSmh"
@@ -10785,7 +10803,7 @@
         },
         {
           "name": "Nutana Mohan",
-          "url": "https://open.spotify.com/artist/7nWJbJH5UTPFHPVREddNed"
+          "url": "https://open.spotify.com/artist/0RGaIKSEzZnlNTLCJKnv0H"
         },
         {
           "name": "Anantha Sriram",

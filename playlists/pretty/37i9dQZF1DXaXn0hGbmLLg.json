@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume! June ambassador: <a href=\"spotify:artist:0UMs6dTf23FC2fHc40fXNS\">KI/KI</a>",
-  "num_followers": 14261,
+  "num_followers": 14265,
   "original_name": "EQUAL Benelux",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
-        "name": "MOVE",
-        "url": "https://open.spotify.com/album/13ZYzsHW9WyBs9gYrLoSdc"
-      },
-      "artists": [
-        {
-          "name": "SERA",
-          "url": "https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE"
-        }
-      ],
-      "duration_ms": 144699,
-      "name": "MOVE",
-      "url": "https://open.spotify.com/track/0IvqXoHkxZsFODTN3JmlLc"
-    },
-    {
-      "added_at": "2026-06-04 22:00:35",
-      "album": {
         "name": "Window To The Soul",
         "url": "https://open.spotify.com/album/1ng7DPYpbK1yhjGqL5oTcW"
       },
@@ -371,18 +355,18 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
-        "name": "Close to you",
-        "url": "https://open.spotify.com/album/1CFSPUxpsNnHO6BscKWSec"
+        "name": "MOVE",
+        "url": "https://open.spotify.com/album/13ZYzsHW9WyBs9gYrLoSdc"
       },
       "artists": [
         {
-          "name": "Mentissa",
-          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
+          "name": "SERA",
+          "url": "https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE"
         }
       ],
-      "duration_ms": 136293,
-      "name": "Close to You",
-      "url": "https://open.spotify.com/track/53zIb2goiAPlyy40I71UlI"
+      "duration_ms": 144699,
+      "name": "MOVE",
+      "url": "https://open.spotify.com/track/0IvqXoHkxZsFODTN3JmlLc"
     },
     {
       "added_at": "2026-06-04 22:00:35",
@@ -403,22 +387,6 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
-        "name": "Compte \u00e0 rebours",
-        "url": "https://open.spotify.com/album/2nYkd914ePBOgXm12vUipQ"
-      },
-      "artists": [
-        {
-          "name": "Colt",
-          "url": "https://open.spotify.com/artist/6OAJ8w6gz3xjktqQvOd9xg"
-        }
-      ],
-      "duration_ms": 197470,
-      "name": "Compte \u00e0 rebours",
-      "url": "https://open.spotify.com/track/2fP3Ak9jZQewAZb9hqdB52"
-    },
-    {
-      "added_at": "2026-06-04 22:00:35",
-      "album": {
         "name": "Als Ik Dan Denk Aan Jou",
         "url": "https://open.spotify.com/album/0iZaSvuDr3iWVJIyzdO5pp"
       },
@@ -431,6 +399,38 @@
       "duration_ms": 204494,
       "name": "Als Ik Dan Denk Aan Jou",
       "url": "https://open.spotify.com/track/6tmBufwIoXjjshHTHSYsQ7"
+    },
+    {
+      "added_at": "2026-06-04 22:00:35",
+      "album": {
+        "name": "Close to you",
+        "url": "https://open.spotify.com/album/1CFSPUxpsNnHO6BscKWSec"
+      },
+      "artists": [
+        {
+          "name": "Mentissa",
+          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
+        }
+      ],
+      "duration_ms": 136293,
+      "name": "Close to You",
+      "url": "https://open.spotify.com/track/53zIb2goiAPlyy40I71UlI"
+    },
+    {
+      "added_at": "2026-06-04 22:00:35",
+      "album": {
+        "name": "Compte \u00e0 rebours",
+        "url": "https://open.spotify.com/album/2nYkd914ePBOgXm12vUipQ"
+      },
+      "artists": [
+        {
+          "name": "Colt",
+          "url": "https://open.spotify.com/artist/6OAJ8w6gz3xjktqQvOd9xg"
+        }
+      ],
+      "duration_ms": 197470,
+      "name": "Compte \u00e0 rebours",
+      "url": "https://open.spotify.com/track/2fP3Ak9jZQewAZb9hqdB52"
     },
     {
       "added_at": "2026-06-04 22:00:35",
@@ -611,6 +611,22 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
+        "name": "Everybody Wants To Fly",
+        "url": "https://open.spotify.com/album/3fRzEaAheLi2r4SlSVrueP"
+      },
+      "artists": [
+        {
+          "name": "BIRTHE",
+          "url": "https://open.spotify.com/artist/4abnJNB1ZNdqTP8Q0zBbP7"
+        }
+      ],
+      "duration_ms": 153535,
+      "name": "Everybody Wants To Fly",
+      "url": "https://open.spotify.com/track/3ZREjtAQbskSYJhJgnjFyu"
+    },
+    {
+      "added_at": "2026-06-04 22:00:35",
+      "album": {
         "name": "Alles Gaat Voorbij",
         "url": "https://open.spotify.com/album/5GIbDXqqqgbJAbtbrpDpon"
       },
@@ -643,22 +659,6 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
-        "name": "Everybody Wants To Fly",
-        "url": "https://open.spotify.com/album/3fRzEaAheLi2r4SlSVrueP"
-      },
-      "artists": [
-        {
-          "name": "BIRTHE",
-          "url": "https://open.spotify.com/artist/4abnJNB1ZNdqTP8Q0zBbP7"
-        }
-      ],
-      "duration_ms": 153535,
-      "name": "Everybody Wants To Fly",
-      "url": "https://open.spotify.com/track/3ZREjtAQbskSYJhJgnjFyu"
-    },
-    {
-      "added_at": "2026-06-04 22:00:35",
-      "album": {
         "name": "Find My!",
         "url": "https://open.spotify.com/album/0ED8kAtCHP2zNCx3LVore7"
       },
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
-        "name": "Zwak Voor Jou",
-        "url": "https://open.spotify.com/album/5smyylzp4G8pAPK1AppKNP"
-      },
-      "artists": [
-        {
-          "name": "Denise Kroes",
-          "url": "https://open.spotify.com/artist/4tHksjDEYAhsV4qECw4gG6"
-        }
-      ],
-      "duration_ms": 134444,
-      "name": "Zwak Voor Jou",
-      "url": "https://open.spotify.com/track/5NXI70KQBGnHq8vt1CWESC"
-    },
-    {
-      "added_at": "2026-06-04 22:00:35",
-      "album": {
         "name": "Had Ik Je Maar Nooit Gezoend",
         "url": "https://open.spotify.com/album/1mnLAO80jDCQPD1jlWIxco"
       },
@@ -711,18 +695,18 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
-        "name": "Dicht Bij Mij",
-        "url": "https://open.spotify.com/album/59iH4HFfZJSLZ0hg3ojNmy"
+        "name": "Zwak Voor Jou",
+        "url": "https://open.spotify.com/album/5smyylzp4G8pAPK1AppKNP"
       },
       "artists": [
         {
-          "name": "Sabien",
-          "url": "https://open.spotify.com/artist/5crEEdqLKMj9sfD2vdeo5o"
+          "name": "Denise Kroes",
+          "url": "https://open.spotify.com/artist/4tHksjDEYAhsV4qECw4gG6"
         }
       ],
-      "duration_ms": 178064,
-      "name": "Hoe Wij Hier Samen Staan",
-      "url": "https://open.spotify.com/track/4KkFOj2t5YBSTjmiE6TYHc"
+      "duration_ms": 134444,
+      "name": "Zwak Voor Jou",
+      "url": "https://open.spotify.com/track/5NXI70KQBGnHq8vt1CWESC"
     },
     {
       "added_at": "2026-06-04 22:00:35",
@@ -739,6 +723,22 @@
       "duration_ms": 161109,
       "name": "Wervelwind",
       "url": "https://open.spotify.com/track/0gi4485KEYx85w5NQ7wLLU"
+    },
+    {
+      "added_at": "2026-06-04 22:00:35",
+      "album": {
+        "name": "Dicht Bij Mij",
+        "url": "https://open.spotify.com/album/59iH4HFfZJSLZ0hg3ojNmy"
+      },
+      "artists": [
+        {
+          "name": "Sabien",
+          "url": "https://open.spotify.com/artist/5crEEdqLKMj9sfD2vdeo5o"
+        }
+      ],
+      "duration_ms": 178064,
+      "name": "Hoe Wij Hier Samen Staan",
+      "url": "https://open.spotify.com/track/4KkFOj2t5YBSTjmiE6TYHc"
     },
     {
       "added_at": "2026-06-04 22:00:35",
@@ -807,6 +807,22 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
+        "name": "Strawberry",
+        "url": "https://open.spotify.com/album/4SMEwj1X6KuwzHIyZkcLpE"
+      },
+      "artists": [
+        {
+          "name": "LAKSHMI",
+          "url": "https://open.spotify.com/artist/3PSaVjQnbHmuOKLBbFVxuW"
+        }
+      ],
+      "duration_ms": 237533,
+      "name": "Strawberry",
+      "url": "https://open.spotify.com/track/6akHA8IwpUr7vndAGw1oq7"
+    },
+    {
+      "added_at": "2026-06-04 22:00:35",
+      "album": {
         "name": "Free Your Mind",
         "url": "https://open.spotify.com/album/3tJ4mXm9lntPtd0qj01xU8"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 242446,
       "name": "HANNAH MONTANA",
       "url": "https://open.spotify.com/track/36dnmtvkyziG2MKXZe6xY4"
-    },
-    {
-      "added_at": "2026-06-04 22:00:35",
-      "album": {
-        "name": "Strawberry",
-        "url": "https://open.spotify.com/album/4SMEwj1X6KuwzHIyZkcLpE"
-      },
-      "artists": [
-        {
-          "name": "LAKSHMI",
-          "url": "https://open.spotify.com/artist/3PSaVjQnbHmuOKLBbFVxuW"
-        }
-      ],
-      "duration_ms": 237533,
-      "name": "Strawberry",
-      "url": "https://open.spotify.com/track/6akHA8IwpUr7vndAGw1oq7"
     },
     {
       "added_at": "2026-06-04 22:00:35",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
-        "name": "Ik neem jou mee",
-        "url": "https://open.spotify.com/album/3dnsEfOW87w8QI1xfyYrJB"
-      },
-      "artists": [
-        {
-          "name": "Leonie Meijer",
-          "url": "https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve"
-        }
-      ],
-      "duration_ms": 221461,
-      "name": "Welterusten, Mijnheer de president",
-      "url": "https://open.spotify.com/track/4r6tPkeVJBWm9eWdMTdNUm"
-    },
-    {
-      "added_at": "2026-06-04 22:00:35",
-      "album": {
         "name": "Safety Net",
         "url": "https://open.spotify.com/album/1tW4EKybO0ngsakwo5DNuj"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 132127,
       "name": "Safety Net",
       "url": "https://open.spotify.com/track/1kjD3JmmA37yR5v6Unqhst"
+    },
+    {
+      "added_at": "2026-06-04 22:00:35",
+      "album": {
+        "name": "Ik neem jou mee",
+        "url": "https://open.spotify.com/album/3dnsEfOW87w8QI1xfyYrJB"
+      },
+      "artists": [
+        {
+          "name": "Leonie Meijer",
+          "url": "https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve"
+        }
+      ],
+      "duration_ms": 221461,
+      "name": "Welterusten, Mijnheer de president",
+      "url": "https://open.spotify.com/track/4r6tPkeVJBWm9eWdMTdNUm"
     },
     {
       "added_at": "2026-06-04 22:00:35",

@@ -4,7 +4,7 @@
 
 > Electronic + Dance making waves, every month\. Cover: TSHA, HoneyLuv & Ellie Maxwell
 
-584 songs - 1 day 11 hr 8 min
+585 songs - 1 day 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -424,7 +424,7 @@
 | [Seasons](https://open.spotify.com/track/0GzqA980TSsNnqKQbIQyHn) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Seasons](https://open.spotify.com/album/6HQJWzhmmKLP9fKjM4jsyY) | 2:37 | 2025-01-31 | 2025-08-09 |
 | [See the Sun Rising](https://open.spotify.com/track/0wFXUI6pRUNLdhQYwwPykg) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [See the Sun Rising](https://open.spotify.com/album/0iFK2SVtTRzTLgU1fRiTQm) | 4:07 | 2022-09-16 | 2023-11-05 |
 | [See the Sun Rising](https://open.spotify.com/track/3idWxkGAnciwFL0DL60683) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Electronic Generations](https://open.spotify.com/album/15XrNU8AkmvwmGkoi6sLSs) | 4:07 | 2023-09-22 | 2024-04-06 |
-| [Semiramis' Dream](https://open.spotify.com/track/1kNcSc6x2qyEI8B1cyFZ63) | [1010benja](https://open.spotify.com/artist/7xBrMNV9UKo2THKIk9xpBK) | [1010: Time Has Nothing To Do With What You Choose...](https://open.spotify.com/album/1b1IAEoRQ8jzj9QjJKBggN) | 2:02 | 2026-06-19 |  |
+| [Semiramis' Dream](https://open.spotify.com/track/1kNcSc6x2qyEI8B1cyFZ63) | [1010benja](https://open.spotify.com/artist/7xBrMNV9UKo2THKIk9xpBK) | [1010: Time Has Nothing To Do With What You Choose...](https://open.spotify.com/album/1b1IAEoRQ8jzj9QjJKBggN) | 2:02 | 2026-06-19 | 2026-06-23 |
 | [Set It Off \(feat\. LATASHÁ\)](https://open.spotify.com/track/4LKhGq2uCgz796baDeTGmO) | [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW), [LATASHÁ](https://open.spotify.com/artist/2lW1SPnxy7JqGV84TcSINi) | [Set It Off \(feat\. LATASHÁ\)](https://open.spotify.com/album/6OqyhSeCKRl39Of9acTwEM) | 3:07 | 2023-09-22 | 2023-11-18 |
 | [Sex Drive](https://open.spotify.com/track/2CC0z4wNZAOcaSA0kwZWt0) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC) | [Sex Drive](https://open.spotify.com/album/5LrySMY2kP0BRiMHxIsmL9) | 2:25 | 2023-06-16 | 2023-11-18 |
 | [Shadow Wurk](https://open.spotify.com/track/2ZFBq3VkRxgoOfx1LIMUfH) | [ROZET](https://open.spotify.com/artist/4LyGWqMGeTHfJXbKQmk6YY) | [Shadow Wurk](https://open.spotify.com/album/1d9lIIpYOVP9mukCMYlriF) | 3:23 | 2025-01-31 | 2025-06-14 |
@@ -472,6 +472,7 @@
 | [Sunday Best](https://open.spotify.com/track/0oUnCHrsjhjclb9owm741n) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Sunday Best](https://open.spotify.com/album/41i9jjaqgHvTJJjJRUiRTe) | 2:51 | 2025-02-07 | 2025-07-26 |
 | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/track/3Atsv8Fo8Kyl5jwpuPc5hz) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/album/7cZBakwAsi0MMcICMUrQ9f) | 2:30 | 2023-03-17 | 2023-04-13 |
 | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/track/3tZKrJ0EznJE4e5cn41Dfz) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/album/4NDtzV15CP0IYfSgv4bAOK) | 2:30 | 2023-03-17 | 2023-06-17 |
+| [Sunset In Pretoria](https://open.spotify.com/track/03vLVYmqX7k3gKm3kOQIai) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Demayä](https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9) | [Sunset In Pretoria](https://open.spotify.com/album/0rFijquyRXf1e6SmsBinmD) | 3:58 | 2026-06-22 |  |
 | [Svengali](https://open.spotify.com/track/4mIJ0lm0B8ynSPeGTjqJ5G) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC) | [Svengali](https://open.spotify.com/album/2NqZ5jCcoAevfo62dyJKk5) | 2:59 | 2022-09-09 | 2023-06-17 |
 | [Sway \(feat\. Dope Earth Alien\)](https://open.spotify.com/track/0KgDKuaHnbZOzz8adnnfxd) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [Sway \(feat\. Dope Earth Alien\)](https://open.spotify.com/album/5TFBzrKDfvyAfqfkWiqETf) | 2:47 | 2023-02-10 | 2023-11-18 |
 | [Sweat](https://open.spotify.com/track/2KSyOw1xmLPbINlgSY6DsV) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV) | [Sweat](https://open.spotify.com/album/3QUQnOG82oidJv6LrMZAkH) | 3:24 | 2025-06-13 |  |

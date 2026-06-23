@@ -4,7 +4,7 @@
 
 > Christian Hits Now \| Best Christian songs of 2026\. NEW CHRISTIAN MUSIC! New Music Friday! Cover: <a href="https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4?si=k\_0tRBc\-QKaaJDlZqV9KHg">Jamie MacDonald</a>  cinco de mayo , soaking worship , jelly roll worship
 
-214 songs - 14 hr 12 min
+215 songs - 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [idols](https://open.spotify.com/track/6gJj2m1SMEywchE08sNY5h) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [idols](https://open.spotify.com/album/5UayLEXFF7eInzLYtalNZh) | 2:48 | 2026-03-19 | 2026-05-30 |
 | [idols](https://open.spotify.com/track/12QlHvyqVV6GDFnVIprOWl) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX), [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [idols](https://open.spotify.com/album/2G8RqM2JIyHD2NfHKVtatk) | 2:47 | 2026-05-29 |  |
 | [If it wasn't for Jesus](https://open.spotify.com/track/7FVckXqUw0kkUU00TxCvV4) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [If it wasn't for Jesus](https://open.spotify.com/album/1ZL9ejiRgiehK2F65ywwQ4) | 3:49 | 2024-09-06 | 2026-06-02 |
+| [It Really Is Amazing Grace](https://open.spotify.com/track/1HO3ZnqGmyShPCOZSfH05b) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [It Really Is Amazing Grace](https://open.spotify.com/album/41fqcLmuhTElVN511yJC4Z) | 4:14 | 2026-06-22 |  |
 | [JERICHO WALLS](https://open.spotify.com/track/2lboNYBNF71Ju153GaMrez) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn), [Dell Mac](https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl) | [JERICHO WALLS](https://open.spotify.com/album/3Tco6lGqiHmttFOd9z5pkb) | 3:05 | 2025-09-19 |  |
 | [Jesus All Along](https://open.spotify.com/track/6ygb4K6OsLNgLcTea6yeql) | [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Jesus All Along](https://open.spotify.com/album/50KuvmjM6p8f7KpCZaKIQt) | 3:37 | 2026-06-17 |  |
 | [Jesus Cries](https://open.spotify.com/track/29erlbIRZ0Z0iDqDuV6cFi) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Jesus Cries](https://open.spotify.com/album/7lS9CAJtKeA2IfVV9xKSC4) | 3:23 | 2025-01-31 | 2025-09-20 |

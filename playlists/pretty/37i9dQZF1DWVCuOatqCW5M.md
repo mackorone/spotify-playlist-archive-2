@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Jubin Nautiyal, Elnaaz Norouzi, Amit Trivedi and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,025 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,222 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 3 | [Tum Yun Mile Ho](https://open.spotify.com/track/7w6sxU9PQT8nJYzqGswOvM) | [Reet Talwar](https://open.spotify.com/artist/4Q72AebP3Suxs5MQ8ocDl5), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Tum Yun Mile Ho](https://open.spotify.com/album/052pSKybwSyiymo8WlFzqR) | 2:33 |
 | 4 | [Karna Toh Pyaar Hai](https://open.spotify.com/track/0TIdNkh65CfWbdei3PSchx) | [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx), [Aditya Dev](https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs) | [Karna Toh Pyaar Hai](https://open.spotify.com/album/4F4V3PYlLjonA7eFabmGy3) | 3:43 |
 | 5 | [Meri Saansein](https://open.spotify.com/track/1DgdyYtZjfmBOxLuDLHXyH) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D), [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs), [Rauhan Malik](https://open.spotify.com/artist/22UtphG4LcwxlhhV0aP4js) | [Meri Saansein](https://open.spotify.com/album/45kudbR7PLOdQz52cgP8FW) | 2:39 |
-| 6 | [Janam Mera](https://open.spotify.com/track/0jXCiJGruGGCpwroWg76Ry) | [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx) | [Janam Mera](https://open.spotify.com/album/1bBm5v5zNqlTGa1fNlGu2H) | 3:23 |
+| 6 | [Janam Mera](https://open.spotify.com/track/0jXCiJGruGGCpwroWg76Ry) | [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [Armaan Lahoria](https://open.spotify.com/artist/4KLQtsULex87FN5sg05g8C), [Snipr](https://open.spotify.com/artist/5FBBHL5ycaBTQZNUjQnOtu) | [Janam Mera](https://open.spotify.com/album/1bBm5v5zNqlTGa1fNlGu2H) | 3:23 |
 | 7 | [Yaar Khafaa \(Irshad \- Mehfilz with Papon\) \(From The Living Room\)](https://open.spotify.com/track/2EZCj4uuLzdhSYmQ9BaBa9) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Yaar Khafaa \(Irshad \- Mehfilz with Papon\) \(From The Living Room\)](https://open.spotify.com/album/26ejQYhPYbx9sMN1O79Isr) | 4:26 |
 | 8 | [Qaraar](https://open.spotify.com/track/3S31XTwTQFEG7R5DbDCMbc) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo), [Dipti Misra](https://open.spotify.com/artist/01uFaIgB0EWy8RIpi0LDQ8) | [Qaraar](https://open.spotify.com/album/5ZgxkBhPJ25z0ty5hUVnYX) | 6:50 |
 | 9 | [Tikhe Nain](https://open.spotify.com/track/1f1qkNpKGGBiVfsdPmOnZO) | [Aroob Khan](https://open.spotify.com/artist/47GH9lsbudQDWNTgIHTr9a), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM), [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [Tikhe Nain](https://open.spotify.com/album/6PvVTxzGkNRvcfoOFQgnrI) | 2:26 |

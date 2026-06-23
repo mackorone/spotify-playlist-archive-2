@@ -4,7 +4,7 @@
 
 > Girls groups/solo artists shining beyond borders\. グローバルに活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Cover: STAYC
 
-1,756 songs - 3 day 20 hr 31 min
+1,757 songs - 3 day 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -801,6 +801,7 @@
 | [Lean On Me](https://open.spotify.com/track/3w1hpB4JISLRPlxIys6h95) | [Park Hyungsik](https://open.spotify.com/artist/63CIh5694oJLXgtyXkp92Z) | [Doctor Slump \(Original Television Soundtrack\) Pt.6](https://open.spotify.com/album/0XsiMEcNehoSL8UQF67QCz) | 3:26 | 2024-03-26 | 2024-04-03 |
 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 | 2022-06-23 | 2022-12-22 |
 | [LEGGO](https://open.spotify.com/track/0Etk5PtxW6m3zDYR9Eb7W2) | [8TURN](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) | [LEGGO](https://open.spotify.com/album/1Q7A27EREoht3InaYb51VP) | 2:48 | 2025-03-04 | 2025-03-07 |
+| [Lemon Tang](https://open.spotify.com/track/4vaC50FUEn6H8pPalM6jVA) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Lemon Tang \- The 2nd Mini Album](https://open.spotify.com/album/56gdysW7gCIKLKd1zpXpKK) | 2:43 | 2026-06-22 |  |
 | [LEMONADE \(feat\. Becky G\)](https://open.spotify.com/track/4X0AxVnhlkSd4ggu78Tir1) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [LEMONADE \- The 2nd Album](https://open.spotify.com/album/5dscbWbSUuO5SNnrtiCVSB) | 3:07 | 2026-05-29 |  |
 | [LET IT BURN](https://open.spotify.com/track/1dlrGQGPhnBGIQXHxCtKnv) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [REBOOT \(JP SPECIAL SELECTION\)](https://open.spotify.com/album/5mS5Pyn0QRGgYChDMPQGDG) | 3:15 | 2024-02-20 | 2024-04-17 |
 | [LET IT SHINE](https://open.spotify.com/track/6LT3yWnlCQuD2WSAqZ9I8G) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [LET IT SHINE](https://open.spotify.com/album/3DN4kVflwQyl2fOgGUJuPx) | 2:41 | 2022-09-08 | 2022-10-28 |
@@ -1203,7 +1204,7 @@
 | [RRRUN](https://open.spotify.com/track/1jEWwhaO36A2LTOvbsw9W0) | [X:IN](https://open.spotify.com/artist/2nr8bylnNeelcA9SJvwmuu) | [RRRUN](https://open.spotify.com/album/4lxvoKGPXxAe22qMLarboC) | 3:18 | 2025-09-05 | 2025-09-26 |
 | [RU\-PUM PUM \- Japanese ver.](https://open.spotify.com/track/6DHzcm29i8oid8To18mMxx) | [8TURN](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) | [RU\-PUM PUM \(Japanese ver.\)](https://open.spotify.com/album/5OurfkN4UO7DRPnIkfODcA) | 3:22 | 2024-03-05 | 2024-04-03 |
 | [Ruby](https://open.spotify.com/track/5ljGBxXb9LthJK0rW61G6X) | [WOOZI](https://open.spotify.com/artist/4TdiASPlU3QdZvGQBothcQ) | [Ruby](https://open.spotify.com/album/35F1IiTWhlrhjCSQOwvCC6) | 2:43 | 2022-01-03 | 2022-03-16 |
-| [RUDE!](https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/4teVVZHVxs4FgjPhT3lUKz) | 3:20 | 2026-02-20 |  |
+| [RUDE!](https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/4teVVZHVxs4FgjPhT3lUKz) | 3:20 | 2026-02-20 | 2026-06-23 |
 | [RUDE! \- Japanese Ver.](https://open.spotify.com/track/4A6mBa9t394jUD5dLrD2tG) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE! \(Japanese Ver.\)](https://open.spotify.com/album/5gsCmuvFMOEfCcozDRylqL) | 3:20 | 2026-03-17 | 2026-04-01 |
 | [RUN](https://open.spotify.com/track/4gHUimlUJuaZMn1E7mFBvt) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [RUN](https://open.spotify.com/album/5WQdyEPsMtXtFIldEhgqpF) | 3:15 | 2022-07-08 | 2022-08-24 |
 | [Run Away](https://open.spotify.com/track/3iDGRv7rqwDYRlHoTaVE96) | [TZUYU](https://open.spotify.com/artist/1arCVYXeStgCY2UazBNBLK) | [abouTZU](https://open.spotify.com/album/13a0SjtqEvhGLv5J46vURm) | 3:18 | 2024-09-06 | 2024-11-13 |

@@ -1,13 +1,37 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : EPIC - First Semester",
-  "num_followers": 170970,
+  "num_followers": 170987,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKE+xcu7UPdvzrGgB9wuWp8T2SHT",
+  "snapshot_id": "AAAAAHIXaKSkuM9fgWwrgwZVFr834GbM",
   "tracks": [
+    {
+      "added_at": "2026-06-22 07:48:51",
+      "album": {
+        "name": "Jigithara (From \"Chennai Love Story\")",
+        "url": "https://open.spotify.com/album/38RXYS8OBRy1hm9RWuPGHZ"
+      },
+      "artists": [
+        {
+          "name": "Mani Sharma",
+          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
+        },
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Anantha Sreeram",
+          "url": "https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD"
+        }
+      ],
+      "duration_ms": 252074,
+      "name": "Jigithara (From \"Chennai Love Story\")",
+      "url": "https://open.spotify.com/track/19FpS3dwFo73nEFwz0NnIw"
+    },
     {
       "added_at": "2026-06-12 05:17:36",
       "album": {
@@ -55,30 +79,6 @@
       "duration_ms": 224081,
       "name": "Priyasakhi (From \"EPIC - First Semester\")",
       "url": "https://open.spotify.com/track/1HDXZO5k652uOnB6L8hc66"
-    },
-    {
-      "added_at": "2026-02-27 10:46:56",
-      "album": {
-        "name": "Rubaroo [From \"Dacoit (Telugu)\"]",
-        "url": "https://open.spotify.com/album/6TTQVaiOWeUZIdnF1voJRJ"
-      },
-      "artists": [
-        {
-          "name": "Bheems Ceciroleo",
-          "url": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
-        },
-        {
-          "name": "Chinmayi",
-          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
-        },
-        {
-          "name": "Bhaskarabhatla",
-          "url": "https://open.spotify.com/artist/1BuW9BEbBIhDu6F13TVxpu"
-        }
-      ],
-      "duration_ms": 195999,
-      "name": "Rubaroo (From \"Dacoit (Telugu)\")",
-      "url": "https://open.spotify.com/track/3M3bCnAOydcZJ0pCUi04Qc"
     },
     {
       "added_at": "2026-03-30 07:22:34",
@@ -307,6 +307,30 @@
       "duration_ms": 333832,
       "name": "Bangaru Bomma (From \"Godari Gattupaina\")",
       "url": "https://open.spotify.com/track/4wdopoz5mIBGO4N1GLlTGs"
+    },
+    {
+      "added_at": "2026-06-22 07:48:51",
+      "album": {
+        "name": "Ajanta Garu (From \"Gossip\")",
+        "url": "https://open.spotify.com/album/77XHYM5Y3z1JSlU38yBD9i"
+      },
+      "artists": [
+        {
+          "name": "Shakthikanth Karthick",
+          "url": "https://open.spotify.com/artist/6riFF3Iw8FPGnfzPcIVDmr"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Suresh Banisetti",
+          "url": "https://open.spotify.com/artist/3gcOBaedkasgxYjFVE81Km"
+        }
+      ],
+      "duration_ms": 233625,
+      "name": "Ajanta Garu (From \"Gossip\")",
+      "url": "https://open.spotify.com/track/30JMtMNkdpv5OOAR9i4SmX"
     },
     {
       "added_at": "2026-06-11 11:58:57",
@@ -611,26 +635,6 @@
       "duration_ms": 377500,
       "name": "Inthakanna",
       "url": "https://open.spotify.com/track/2gBsVGmbC8Bm7UPnyzzMnk"
-    },
-    {
-      "added_at": "2026-03-05 05:47:01",
-      "album": {
-        "name": "Vinavey (From \"Pulse\")",
-        "url": "https://open.spotify.com/album/1Iney76r1X7PX7wRwJfA7c"
-      },
-      "artists": [
-        {
-          "name": "Abishek Ar.",
-          "url": "https://open.spotify.com/artist/2w9iBDvDArSEwAEUhvbiYY"
-        },
-        {
-          "name": "Ram Srivatsav",
-          "url": "https://open.spotify.com/artist/5hR1ziww3l6xGJviqPVKkO"
-        }
-      ],
-      "duration_ms": 213164,
-      "name": "Vinavey (From \"Pulse\")",
-      "url": "https://open.spotify.com/track/7FVms2iGaZLeVQ47321PuS"
     },
     {
       "added_at": "2026-03-30 07:22:34",

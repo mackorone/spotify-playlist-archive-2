@@ -1,32 +1,28 @@
 {
   "description": "The best mix of today's Christian music, all genres, worldwide. Cover: Terrian",
-  "num_followers": 1640122,
+  "num_followers": 1640348,
   "original_name": "Top Christian & Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB3jAApPoly6Wp+dzOKCRAUoLlW2",
+  "snapshot_id": "AAAAAISHx8/FOb1Wh6dnASdSJtAUuBrk",
   "tracks": [
     {
       "added_at": "2026-06-19 04:19:53",
       "album": {
-        "name": "To You",
-        "url": "https://open.spotify.com/album/1bzajEjhpNpvxqcFZVzbzD"
+        "name": "Mad Big World",
+        "url": "https://open.spotify.com/album/76QcbTPISNU8iRpT2ZYmuJ"
       },
       "artists": [
         {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
-        },
-        {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
         }
       ],
-      "duration_ms": 321083,
-      "name": "To You",
-      "url": "https://open.spotify.com/track/7FNgOiBfotP5tjfu7kf9KD"
+      "duration_ms": 204050,
+      "name": "Mad Big World",
+      "url": "https://open.spotify.com/track/55GjwZjEoy725zk5lSqnqs"
     },
     {
       "added_at": "2026-06-19 04:19:53",
@@ -43,22 +39,6 @@
       "duration_ms": 178944,
       "name": "NO HALO",
       "url": "https://open.spotify.com/track/4ASIujPxCr1c9Jj1JapaZ4"
-    },
-    {
-      "added_at": "2026-06-19 04:19:53",
-      "album": {
-        "name": "Mad Big World",
-        "url": "https://open.spotify.com/album/76QcbTPISNU8iRpT2ZYmuJ"
-      },
-      "artists": [
-        {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
-        }
-      ],
-      "duration_ms": 204050,
-      "name": "Mad Big World",
-      "url": "https://open.spotify.com/track/55GjwZjEoy725zk5lSqnqs"
     },
     {
       "added_at": "2026-06-19 04:19:53",
@@ -107,6 +87,26 @@
       "duration_ms": 401697,
       "name": "Final Say",
       "url": "https://open.spotify.com/track/3aWTJQ27xr2EID0kXzXu7g"
+    },
+    {
+      "added_at": "2026-06-19 04:19:53",
+      "album": {
+        "name": "To You",
+        "url": "https://open.spotify.com/album/1bzajEjhpNpvxqcFZVzbzD"
+      },
+      "artists": [
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "duration_ms": 321083,
+      "name": "To You",
+      "url": "https://open.spotify.com/track/7FNgOiBfotP5tjfu7kf9KD"
     },
     {
       "added_at": "2026-06-19 04:19:53",

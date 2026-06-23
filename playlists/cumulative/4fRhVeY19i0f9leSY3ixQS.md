@@ -4,7 +4,7 @@
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-1,714 songs - 3 day 23 hr 41 min
+1,715 songs - 3 day 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -535,7 +535,7 @@
 | [Freak Show](https://open.spotify.com/track/1R2Lu3lQwsLJ2miXykxQxU) | [Kodin Hill 'N The Pressed Pills](https://open.spotify.com/artist/3PHByAugCg7AlaC2Nunccy) | [The Morning After Pills: Live Session](https://open.spotify.com/album/2NJUBsPUHGBvt0ZhyswmeI) | 2:52 | 2026-06-07 |  |
 | [Freakshow](https://open.spotify.com/track/14hXxVdrSTAhYWaaMMmznW) | [Scarlet Saboteur](https://open.spotify.com/artist/3VP7XAWza67jguPChArk3m) | [Freakshow](https://open.spotify.com/album/3WHThJKWN9uBmtAW1JpIf2) | 3:24 | 2026-06-10 |  |
 | [Free Ride](https://open.spotify.com/track/4iFc1NQnc1JD5qQVAHhB3g) | [Sima Galanti](https://open.spotify.com/artist/78cWEQ5eLVvwbQvsC5k3DD) | [Free Ride](https://open.spotify.com/album/0akz5x0b0WLNCF1yACe5lE) | 4:39 | 2026-05-18 | 2026-06-06 |
-| [Free the Noise](https://open.spotify.com/track/0sjHKzox0O91e8q7eqPQ59) | [Luke, Im ur fuzzer](https://open.spotify.com/artist/4HPVFa8z0dRn18htOSCISy) | [Free the Noise](https://open.spotify.com/album/1MI6Ozaa89mEwbGaZ7EnU6) | 2:55 | 2026-05-18 | 2026-06-19 |
+| [Free the Noise](https://open.spotify.com/track/0sjHKzox0O91e8q7eqPQ59) | [Luke, Im ur fuzzer](https://open.spotify.com/artist/4HPVFa8z0dRn18htOSCISy) | [Free the Noise](https://open.spotify.com/album/1MI6Ozaa89mEwbGaZ7EnU6) | 2:55 | 2026-05-18 |  |
 | [Freedom](https://open.spotify.com/track/7K3glujsKMq7cPgAtoRL7G) | [O KANENAS](https://open.spotify.com/artist/0gW8xjhBaC0eO8xyS5lZDa) | [Fly Eagle Fly](https://open.spotify.com/album/4ESwKcvRe5si6TTtCvomWv) | 3:29 | 2026-03-18 | 2026-04-07 |
 | [Freiheit im Fall](https://open.spotify.com/track/5HphH0z58AioyX3TWvgvh1) | [nacht](https://open.spotify.com/artist/6q9I1nXX8L5UTkO6efRE9y) | [14 15 3 20 9 19](https://open.spotify.com/album/2bKVMKlbfWyeS7ZCzI2RWT) | 5:13 | 2026-02-26 | 2026-03-17 |
 | [Friend of a Friend](https://open.spotify.com/track/3Sn7VRb0YKSgejHb2GrNN2) | [TeethOut](https://open.spotify.com/artist/1zbyrACN47gprz5q97evPl) | [Here We Go](https://open.spotify.com/album/1ZqmD4wXzSqAYbAcEsQiO2) | 3:48 | 2026-01-21 | 2026-02-12 |
@@ -600,7 +600,7 @@
 | [Gone Too Soon](https://open.spotify.com/track/2glrpjHHKqK4sb96yMYwaw) | [Enigme](https://open.spotify.com/artist/5deKGXTf4C3fgwB183DAAa) | [Gone Too Soon](https://open.spotify.com/album/4KdQsQvZxJfXaTX5wBJtDj) | 3:24 | 2026-01-05 | 2026-01-29 |
 | [Good For You](https://open.spotify.com/track/0M1yg0auUkU0tkLV6tbXK2) | [The Homme](https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm) | [Good For You](https://open.spotify.com/album/569kz7tsyGRKH5DbeZiujN) | 3:37 | 2026-06-16 |  |
 | [goodbye \- 2025 remastered](https://open.spotify.com/track/10arqRDmhZcdhWZvpC3Ko0) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [hypnotize](https://open.spotify.com/album/1H2wW7fI1Y6GUijZxPo2gJ) | 2:55 | 2025-12-17 | 2026-01-06 |
-| [Gorebage Truck](https://open.spotify.com/track/1iA9HI2I8hMSIMAvGREa9Z) | [Fuck Tomb](https://open.spotify.com/artist/70VzYMqJrUHmA7F8soZr9Y) | [Gorebage Truck](https://open.spotify.com/album/1Tpx3ZdMbASFVpuzmThuaS) | 2:37 | 2026-05-22 |  |
+| [Gorebage Truck](https://open.spotify.com/track/1iA9HI2I8hMSIMAvGREa9Z) | [Fuck Tomb](https://open.spotify.com/artist/70VzYMqJrUHmA7F8soZr9Y) | [Gorebage Truck](https://open.spotify.com/album/1Tpx3ZdMbASFVpuzmThuaS) | 2:37 | 2026-05-22 | 2026-06-23 |
 | [Got What You Wanted](https://open.spotify.com/track/3ror7WRrkgwHorcSy4n8v9) | [Ugly Bridesmaids](https://open.spotify.com/artist/0gj5NWtV59oZATC9oRiCuB) | [Got What You Wanted](https://open.spotify.com/album/4EpAS3weiZ4RsVk4zqWC5b) | 2:42 | 2026-03-30 | 2026-05-22 |
 | [goth angel sinners](https://open.spotify.com/track/3uT92JAdCwjaE4efK0uoje) | [Kiro's Stigma](https://open.spotify.com/artist/6rwMxVrw0WMBtwxiiXW5Qg) | [goth angel sinners](https://open.spotify.com/album/1T0CNQeSNvSGRALoACR2RK) | 2:30 | 2026-06-04 |  |
 | [Gothic](https://open.spotify.com/track/3FoQM1ktHddoFtY2X1a0Cf) | [MOODE.ART](https://open.spotify.com/artist/18OtkFSnmwUZFiPFBMnZIH) | [GOTHIC](https://open.spotify.com/album/5eWJOg7A1OTIvwMsU9UYPL) | 4:24 | 2026-05-10 | 2026-05-30 |
@@ -671,6 +671,7 @@
 | [Hollow](https://open.spotify.com/track/0uhGLwuCMClw1JXDj6HXTb) | [Sunkeeper](https://open.spotify.com/artist/7fzEHUb9cy0LIwlWXMZfUY) | [Hollow](https://open.spotify.com/album/0RVddq3xxMv7nyMPX7sMiP) | 4:12 | 2026-01-14 | 2026-02-03 |
 | [Hollow Sun](https://open.spotify.com/track/7pR4pIdtqjey4YdfGzQMZx) | [Tyson Dickert](https://open.spotify.com/artist/7DzMrRXO3rUkDzR32YaB2p) | [Hollow Sun](https://open.spotify.com/album/1LnVYOaVOONBK3Cl8wCs5n) | 5:06 | 2026-01-26 | 2026-02-24 |
 | [Hollow Temples](https://open.spotify.com/track/6FH6BLpRmqS7ndC0exBm8K) | [Haints](https://open.spotify.com/artist/5K3zms42vDfJY37pZEayS4) | [Hollow Temples](https://open.spotify.com/album/1k3AAdEFbKsRxrNspbOxk8) | 3:30 | 2026-05-27 |  |
+| [Holograms](https://open.spotify.com/track/74LgAGJ2EJiX4tm3uYPxH2) | [Clay Guccione](https://open.spotify.com/artist/3xVmv1dQqq0tREp3DyA4TX) | [Holograms](https://open.spotify.com/album/5OLMEB7BgkvEFoE9zGbo9i) | 5:35 | 2026-06-23 |  |
 | [HOME](https://open.spotify.com/track/33gL9flzDBxg4Jl8eedW6L) | [rags.](https://open.spotify.com/artist/2my0CRbQIrgmT0qAAqcpuv) | [LUCKY](https://open.spotify.com/album/5Ot8d9ljJ1h1nxQf4wOZ2W) | 1:00 | 2026-03-30 | 2026-05-01 |
 | [Homebody](https://open.spotify.com/track/1oWVMlsltrtxzyht83O7Xi) | [Niamh Maclennan](https://open.spotify.com/artist/247iknhYrODyfkmJUmdQkv) | [Homebody](https://open.spotify.com/album/4tttBqAaMEt8Tant06Nvt6) | 2:52 | 2026-06-03 |  |
 | [Homeless](https://open.spotify.com/track/7vHHflI6hSrD6duUuA6isJ) | [Georgia Nicole](https://open.spotify.com/artist/2pTC56k6ZW1DejqY0Rlorw) | [A Little Bit of It All](https://open.spotify.com/album/4fVeslZAw5j2wwpjXfjTV4) | 3:47 | 2026-04-10 | 2026-05-08 |
@@ -1278,7 +1279,7 @@
 | [Side Effect](https://open.spotify.com/track/0aRbSaFgYOQeYbU0QJDlxm) | [NAKED SOFT MEN](https://open.spotify.com/artist/2M1yf9sIav46Mfm3gzgn2T) | [Naked Soft Men](https://open.spotify.com/album/5YngrrA05JadK00mqsBMBk) | 2:38 | 2026-03-12 | 2026-04-13 |
 | [sidewalk](https://open.spotify.com/track/4FnSCqwqISEZxG1WUBPxuS) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [sidewalk](https://open.spotify.com/album/08UfJUC1e5YkwXNbo3xAZI) | 2:48 | 2026-02-09 | 2026-03-03 |
 | [sign of snow](https://open.spotify.com/track/5tryiQU4P3sEJj7Li5NHT1) | [hxllxw](https://open.spotify.com/artist/4IYCC5RyWf9MG3jsnnpmDt), [TWOSMILES](https://open.spotify.com/artist/5xjIIDLxF9Cu3wMPtWZ7wU) | [sign of snow](https://open.spotify.com/album/3rXmevkJqH843y8RWVbgWq) | 3:41 | 2025-12-21 | 2026-01-15 |
-| [SILENCE INTO SOUND](https://open.spotify.com/track/36Rfe6kKy9U1JLJyngJuyy) | [Re:Instinct](https://open.spotify.com/artist/5sQwAdM036wHrul770MyqT) | [SILENCE INTO SOUND](https://open.spotify.com/album/1x80ZWeW9EGJubxRWOebn5) | 3:12 | 2026-05-18 | 2026-06-06 |
+| [SILENCE INTO SOUND](https://open.spotify.com/track/36Rfe6kKy9U1JLJyngJuyy) | [Re:Instinct](https://open.spotify.com/artist/5sQwAdM036wHrul770MyqT) | [SILENCE INTO SOUND](https://open.spotify.com/album/1x80ZWeW9EGJubxRWOebn5) | 3:12 | 2026-05-18 |  |
 | [Silhouette Dans Le Désert](https://open.spotify.com/track/1nYPDlyYuMLqMFrIUOSDhG) | [Pixel In A Box](https://open.spotify.com/artist/3cBTA11xDzx4RJH9ST1U2s) | [Silhouette Dans Le Désert](https://open.spotify.com/album/1zApmSAcMWqHzUtSLPecmG) | 3:42 | 2025-12-02 | 2025-12-24 |
 | [Simon Dice](https://open.spotify.com/track/0I24rhHVXYGYgJyG2L8Vu2) | [Jardin Animal](https://open.spotify.com/artist/38QAh40vAt0RRB7V5KxOJN) | [Simon Dice](https://open.spotify.com/album/0PAOV8XpwnoeLCFHT3GzL4) | 3:37 | 2025-11-16 | 2025-12-10 |
 | [Simply Fabulous](https://open.spotify.com/track/7fMn70HEPQngTwPtla6K6R) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [LOUD NOISES](https://open.spotify.com/album/3td0OGM48SevIvq1jkUxAM) | 4:09 | 2025-08-03 | 2026-05-30 |

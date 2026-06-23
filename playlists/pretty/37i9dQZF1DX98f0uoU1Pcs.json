@@ -1,6 +1,6 @@
 {
   "description": "a experimental mix of rock, punk, alt & indie. Cover: Opus Kink",
-  "num_followers": 295487,
+  "num_followers": 295480,
   "original_name": "Noisy",
   "owner": {
     "name": "Spotify",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-05-01 04:03:04",
       "album": {
-        "name": "On the Intricate Inner Workings of the System",
-        "url": "https://open.spotify.com/album/6HKuDmYKRsA43eYFgPYtGH"
-      },
-      "artists": [
-        {
-          "name": "The Bug Club",
-          "url": "https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB"
-        }
-      ],
-      "duration_ms": 266986,
-      "name": "We Don't Care About That",
-      "url": "https://open.spotify.com/track/6TtqsRfr3UTY53Gj3CbMYL"
-    },
-    {
-      "added_at": "2026-05-01 04:03:04",
-      "album": {
         "name": "Wash Away",
         "url": "https://open.spotify.com/album/6PWkXVHVMGVO7H82rLh1bt"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 203293,
       "name": "Wash Away",
       "url": "https://open.spotify.com/track/1mjPbbKOjH5C4as2EC084i"
+    },
+    {
+      "added_at": "2026-05-01 04:03:04",
+      "album": {
+        "name": "On the Intricate Inner Workings of the System",
+        "url": "https://open.spotify.com/album/6HKuDmYKRsA43eYFgPYtGH"
+      },
+      "artists": [
+        {
+          "name": "The Bug Club",
+          "url": "https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB"
+        }
+      ],
+      "duration_ms": 266986,
+      "name": "We Don't Care About That",
+      "url": "https://open.spotify.com/track/6TtqsRfr3UTY53Gj3CbMYL"
     },
     {
       "added_at": "2026-05-01 04:03:04",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-05-01 04:03:04",
       "album": {
-        "name": "Cutthroat",
-        "url": "https://open.spotify.com/album/3Wm7UlvuhjWq4kiUBOqZeE"
-      },
-      "artists": [
-        {
-          "name": "shame",
-          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
-        }
-      ],
-      "duration_ms": 189609,
-      "name": "After Party",
-      "url": "https://open.spotify.com/track/7BknNkgT0Bvkx6awnyj16Z"
-    },
-    {
-      "added_at": "2026-05-01 04:03:04",
-      "album": {
         "name": "Swan Songs",
         "url": "https://open.spotify.com/album/3ZieMQ5LqL6d6F9i4tEMBJ"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 268280,
       "name": "Glassman",
       "url": "https://open.spotify.com/track/2Hb14356r1I1DE0i4Kdjeb"
+    },
+    {
+      "added_at": "2026-05-01 04:03:04",
+      "album": {
+        "name": "Cutthroat",
+        "url": "https://open.spotify.com/album/3Wm7UlvuhjWq4kiUBOqZeE"
+      },
+      "artists": [
+        {
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+        }
+      ],
+      "duration_ms": 189609,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/7BknNkgT0Bvkx6awnyj16Z"
     },
     {
       "added_at": "2026-05-01 04:03:04",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-05-01 04:03:04",
       "album": {
-        "name": "Fundraiser",
-        "url": "https://open.spotify.com/album/41zdUDQTzzWa0lxjCvDxID"
-      },
-      "artists": [
-        {
-          "name": "bar italia",
-          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
-        }
-      ],
-      "duration_ms": 219305,
-      "name": "Fundraiser",
-      "url": "https://open.spotify.com/track/31n4AvZ46fNJl6QHgVCKL9"
-    },
-    {
-      "added_at": "2026-05-01 04:03:04",
-      "album": {
         "name": "Special",
         "url": "https://open.spotify.com/album/6vnJda9u77ADNQED3jjI6r"
       },
@@ -1151,18 +1135,18 @@
     {
       "added_at": "2026-05-01 04:03:04",
       "album": {
-        "name": "Cutthroat",
-        "url": "https://open.spotify.com/album/3Wm7UlvuhjWq4kiUBOqZeE"
+        "name": "Fundraiser",
+        "url": "https://open.spotify.com/album/41zdUDQTzzWa0lxjCvDxID"
       },
       "artists": [
         {
-          "name": "shame",
-          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
         }
       ],
-      "duration_ms": 141240,
-      "name": "Cowards Around",
-      "url": "https://open.spotify.com/track/046dPCw2ZcqmD5oBcpOdBO"
+      "duration_ms": 219305,
+      "name": "Fundraiser",
+      "url": "https://open.spotify.com/track/31n4AvZ46fNJl6QHgVCKL9"
     },
     {
       "added_at": "2026-05-01 04:03:04",
@@ -1179,6 +1163,22 @@
       "duration_ms": 227129,
       "name": "Won't Wait",
       "url": "https://open.spotify.com/track/3Z2Lc5LcPEd0tLisckRUxl"
+    },
+    {
+      "added_at": "2026-05-01 04:03:04",
+      "album": {
+        "name": "Cutthroat",
+        "url": "https://open.spotify.com/album/3Wm7UlvuhjWq4kiUBOqZeE"
+      },
+      "artists": [
+        {
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+        }
+      ],
+      "duration_ms": 141240,
+      "name": "Cowards Around",
+      "url": "https://open.spotify.com/track/046dPCw2ZcqmD5oBcpOdBO"
     },
     {
       "added_at": "2026-05-01 04:03:04",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-05-01 04:03:04",
       "album": {
-        "name": "Might See You There",
-        "url": "https://open.spotify.com/album/7w3o65IXUt3HoFGCdygub3"
-      },
-      "artists": [
-        {
-          "name": "Weird Nightmare",
-          "url": "https://open.spotify.com/artist/2dRm7hmP96rgIGGGX1wiLc"
-        }
-      ],
-      "duration_ms": 122104,
-      "name": "Might See You There",
-      "url": "https://open.spotify.com/track/0W5mNFQb72i90dPhGaMcy3"
-    },
-    {
-      "added_at": "2026-05-01 04:03:04",
-      "album": {
         "name": "16/25",
         "url": "https://open.spotify.com/album/4znYlCMGbRfMp3nwJfzir9"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 151246,
       "name": "16/25",
       "url": "https://open.spotify.com/track/1uIRlFoNdyc8CBBBXFO9Yk"
+    },
+    {
+      "added_at": "2026-05-01 04:03:04",
+      "album": {
+        "name": "Might See You There",
+        "url": "https://open.spotify.com/album/7w3o65IXUt3HoFGCdygub3"
+      },
+      "artists": [
+        {
+          "name": "Weird Nightmare",
+          "url": "https://open.spotify.com/artist/2dRm7hmP96rgIGGGX1wiLc"
+        }
+      ],
+      "duration_ms": 122104,
+      "name": "Might See You There",
+      "url": "https://open.spotify.com/track/0W5mNFQb72i90dPhGaMcy3"
     }
   ],
   "unique_name": "Noisy",

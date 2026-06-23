@@ -9662,7 +9662,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 175059,
       "name": "Free the Noise",
       "url": "https://open.spotify.com/track/0sjHKzox0O91e8q7eqPQ59"
@@ -10836,7 +10836,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 157398,
       "name": "Gorebage Truck",
       "url": "https://open.spotify.com/track/1iA9HI2I8hMSIMAvGREa9Z"
@@ -12112,6 +12112,24 @@
       "duration_ms": 210262,
       "name": "Hollow Temples",
       "url": "https://open.spotify.com/track/6FH6BLpRmqS7ndC0exBm8K"
+    },
+    {
+      "album": {
+        "name": "Holograms",
+        "url": "https://open.spotify.com/album/5OLMEB7BgkvEFoE9zGbo9i"
+      },
+      "artists": [
+        {
+          "name": "Clay Guccione",
+          "url": "https://open.spotify.com/artist/3xVmv1dQqq0tREp3DyA4TX"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335410,
+      "name": "Holograms",
+      "url": "https://open.spotify.com/track/74LgAGJ2EJiX4tm3uYPxH2"
     },
     {
       "album": {
@@ -23232,7 +23250,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-06",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "SILENCE INTO SOUND",
       "url": "https://open.spotify.com/track/36Rfe6kKy9U1JLJyngJuyy"

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajXYAAAAAADs1Bf6YT1XhaGiZiarVXdH",
+  "snapshot_id": "ajcpgAAAAAADjL0FrrJbPGFXDJAIGMCH",
   "tracks": [
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "guitar center",
-        "url": "https://open.spotify.com/album/7DzmUhJugzmQ0O0S4U1fvp"
+        "name": "Who Not to Love",
+        "url": "https://open.spotify.com/album/5y0KsMeMor5EGBOtsVIfzw"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 187839,
-      "name": "guitar center",
-      "url": "https://open.spotify.com/track/2KL350smdGutz70FYGjVkP"
+      "duration_ms": 185738,
+      "name": "Who Not to Love",
+      "url": "https://open.spotify.com/track/0p69ggdl6UOeBnSf4dn8o8"
     },
     {
       "added_at": null,
@@ -415,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Not to Love",
-        "url": "https://open.spotify.com/album/5y0KsMeMor5EGBOtsVIfzw"
+        "name": "guitar center",
+        "url": "https://open.spotify.com/album/7DzmUhJugzmQ0O0S4U1fvp"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 185738,
-      "name": "Who Not to Love",
-      "url": "https://open.spotify.com/track/0p69ggdl6UOeBnSf4dn8o8"
+      "duration_ms": 187839,
+      "name": "guitar center",
+      "url": "https://open.spotify.com/track/2KL350smdGutz70FYGjVkP"
     },
     {
       "added_at": null,

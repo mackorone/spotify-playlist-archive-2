@@ -4,7 +4,7 @@
 
 > Music from "BLUELOCK" ©金城宗幸・ノ村優介・講談社／「ブルーロック」製作委員会
 
-49 songs - 4 hr 16 min
+50 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Monsters](https://open.spotify.com/track/5W1vf2mP0x2fnEnbK7jydv) | [TEAM Z](https://open.spotify.com/artist/4t0prmdVxAXX9I0WOm9X2K) | [TVアニメ『ブルーロック』キャラクターソングミニアルバム Vol.1](https://open.spotify.com/album/2r3tMBuZQaSZGY2fnINUtm) | 3:57 | 2023-06-22 |  |
 | [Numbness like a ginger](https://open.spotify.com/track/6WmH150zngZw8mNenyWY5o) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [Ninth Peel](https://open.spotify.com/album/7LJTvMEZzwp3MgG78n8eZR) | 3:34 | 2023-06-22 |  |
 | [One](https://open.spotify.com/track/4oaQZLunFjVPbN830b0yfg) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [One](https://open.spotify.com/album/5YjWEzGDPT2LZHcKAPIc2w) | 3:40 | 2024-10-14 | 2025-01-25 |
+| [One](https://open.spotify.com/track/0uKaL6p5igatyLtOKkHsEl) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [THE BEST 2020 \- 2025](https://open.spotify.com/album/4aAwZdP0gcG0WXPoFH5Tpp) | 3:42 | 2026-06-22 |  |
 | [Protrusion](https://open.spotify.com/track/4WZ9mk9TQCFoxdem6QZfHk) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB) | 1:46 | 2023-06-22 |  |
 | [Push Forward](https://open.spotify.com/track/5WFx45nWwYVR5vaNlKmOwd) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB) | 1:50 | 2023-06-22 |  |
 | [Puzzle](https://open.spotify.com/track/0hAOzO4MiON3OakQPmaQJ1) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB) | 1:27 | 2023-06-22 |  |

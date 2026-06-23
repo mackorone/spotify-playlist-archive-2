@@ -4,7 +4,7 @@
 
 > love is in the air...breathe in
 
-1,011 songs - 2 day 0 hr 44 min
+1,012 songs - 2 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,6 +251,7 @@
 | [Do What U Want](https://open.spotify.com/track/7sSc9rQfa7YEhjRgKoMDPQ) | [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [Do What U Want](https://open.spotify.com/album/5h5r3CJHQL2fPrg1oMqCib) | 1:52 | 2023-11-03 | 2023-12-02 |
 | [Do You Mind?](https://open.spotify.com/track/6gYHfdySsN4Hqvr4f0g3BX) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Do You Mind?](https://open.spotify.com/album/4EaF4hW9uXMGmoVlqbC1cw) | 2:27 | 2023-05-26 | 2024-03-01 |
 | [Don Dada](https://open.spotify.com/track/3rxqAUgjZ7heyD8tElbBXD) | [Kaesa](https://open.spotify.com/artist/76PFftzWrjvqCadZiIVZGg) | [Don Dada](https://open.spotify.com/album/56HttwqWzMu3fMWuTFL54g) | 3:24 | 2025-10-10 | 2025-10-17 |
+| [Don't Be Shy](https://open.spotify.com/track/3b58L7SFWVkp0fvmMJSbZa) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Don't Be Shy](https://open.spotify.com/album/1OWIwMVfsWicPlB58jooSc) | 2:50 | 2026-06-19 |  |
 | [Don't Leave](https://open.spotify.com/track/19fCpJYZVtBKyOtIvEnDv0) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9) | 3:05 | 2023-10-27 | 2024-04-19 |
 | [Don't Leave](https://open.spotify.com/track/3e7FAWKNVUGQJvyUQMZ5EB) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/4FNo7grg0Z6cbOwgzNwyD9) | 3:05 | 2024-04-19 | 2024-06-28 |
 | [Don't Run](https://open.spotify.com/track/0FODu62RBuyngvchl8H7w3) | [Kosi O](https://open.spotify.com/artist/6q9sxVAsYdPBk669BlZZVO) | [Don't Run](https://open.spotify.com/album/0F4QcV3VSrFtSN2v5IGYZF) | 3:34 | 2025-08-25 | 2025-09-22 |
@@ -791,7 +792,7 @@
 | [Rhythm & Blues](https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rhythm & Blues](https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB) | 2:24 | 2023-09-29 | 2024-11-22 |
 | [Ride Solo](https://open.spotify.com/track/12ncJUshM46lUN0DS7kDEk) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Ride Solo](https://open.spotify.com/album/5DYNIzeEqVdzYl0w23wvfo) | 2:24 | 2026-01-30 | 2026-02-20 |
 | [Right Now](https://open.spotify.com/track/13HwOA5rfBYsrWEj4fW4wy) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Right Now](https://open.spotify.com/album/6hgf2eJZJ86AOTdJjZ2a1K) | 2:50 | 2024-10-12 | 2025-08-26 |
-| [Ring](https://open.spotify.com/track/1uREOYREV020F3QOGENSMI) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Ring](https://open.spotify.com/album/3rlRxf9KHAJ1OWjRbCQ5vg) | 2:35 | 2025-10-10 |  |
+| [Ring](https://open.spotify.com/track/1uREOYREV020F3QOGENSMI) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Ring](https://open.spotify.com/album/3rlRxf9KHAJ1OWjRbCQ5vg) | 2:35 | 2025-10-10 | 2026-06-23 |
 | [Risk](https://open.spotify.com/track/6qS9yoAUIXNfno5t4YLQdn) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Stubborn](https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc) | 3:22 | 2024-07-19 | 2025-03-08 |
 | [Risk \(feat\. Moliy\)](https://open.spotify.com/track/2dMAggfV7EGVwdaP74xlhB) | [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Risk \(feat\. Moliy\)](https://open.spotify.com/album/5KSgs1ELY7Hw9psUKBUCZh) | 2:47 | 2024-03-22 | 2024-05-04 |
 | [ROCK IT](https://open.spotify.com/track/5QPtxpPSvvF9dhz0tJ8GfV) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN), [King Dr\. Saheed Osupa](https://open.spotify.com/artist/44bzPvFDA5djUYE6cvumyu) | [BIG VYBZ](https://open.spotify.com/album/51fGQphhxN6ZoQxiKNwd4V) | 2:38 | 2025-10-24 | 2025-12-05 |

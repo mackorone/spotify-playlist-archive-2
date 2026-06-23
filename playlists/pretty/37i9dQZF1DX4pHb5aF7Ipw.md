@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Pardeep Sran, Prem Dhillon & more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,960 likes - 74 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,975 likes - 74 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Limitless](https://open.spotify.com/track/7DKCezCR2uNkgAlMwvL8cj) | [Pardeep Sran](https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC), [Ashu Sidhu](https://open.spotify.com/artist/3PRoJjmSXXvUgafoufPXW1), [Shah Rehan](https://open.spotify.com/artist/2TFn1e5UTGZzzkt0TkGWPl) | [Limitless](https://open.spotify.com/album/0JYFpw2LpFx9usmi25UHsk) | 2:55 |
 | 2 | [London](https://open.spotify.com/track/6JJItkAG3SkBVZfk1vFVVu) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [CHEETAH](https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15) | [Majhaestic](https://open.spotify.com/album/0Rfydlvsbf9JRARoPfaj3v) | 3:05 |
 | 3 | [Solo](https://open.spotify.com/track/0Abvrhi4syevO3KUpoKhjH) | [Harvi](https://open.spotify.com/artist/5rpl4dM4cZVFeseE6XT0AZ), [Prabh Sangha](https://open.spotify.com/artist/3QtMadJ4ByaMxuon6VIj1o), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [Everyday](https://open.spotify.com/album/5ljTyDtNuLmWFbSJrRBr1Y) | 3:08 |
-| 4 | [Wheel up](https://open.spotify.com/track/5DhFJDXSivcC0LnxIyiKfj) | [Jass Dhillon](https://open.spotify.com/artist/05aZbijSuFX7emSpkn7Ljj), [Zindu](https://open.spotify.com/artist/0meGCRQ9xI6WmfGyFLvUdm), [SARDAR SIDHU](https://open.spotify.com/artist/0VWwIN5eZgRulKMCo3cSBF) | [Wheel up](https://open.spotify.com/album/1ld7ccLDJKVC3mgvoB9FPD) | 2:23 |
+| 4 | [Wheel up](https://open.spotify.com/track/5DhFJDXSivcC0LnxIyiKfj) | [Jass Dhillon](https://open.spotify.com/artist/05aZbijSuFX7emSpkn7Ljj), [Zindu](https://open.spotify.com/artist/7FghPk46r0gzVNQ0iMFoYt), [SARDAR SIDHU](https://open.spotify.com/artist/0VWwIN5eZgRulKMCo3cSBF) | [Wheel up](https://open.spotify.com/album/1ld7ccLDJKVC3mgvoB9FPD) | 2:23 |
 | 5 | [2 Ghode](https://open.spotify.com/track/5j0JB1qtxFR3jZXPlONSUa) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Fateh Shergill](https://open.spotify.com/artist/5RrNdku9cK7VRbaOxGPsPb), [Guri Nimana](https://open.spotify.com/artist/6kuGpAbghR1QObbtmJQX3f) | [2 Ghode](https://open.spotify.com/album/7LWPdJPdnfX0jWIkOhRxh1) | 2:45 |
 | 6 | [B.K.B.](https://open.spotify.com/track/1rMp2cNKf0qsVdz5Alepas) | [BAD Junkie](https://open.spotify.com/artist/67PszvnwyV2SVgLAaVqOER) | [B.K.B.](https://open.spotify.com/album/658hmtJGJ0kaI1eZEYDaMd) | 2:50 |
 | 7 | [Studio Gangsters](https://open.spotify.com/track/6pYGMe1KTW1NTjhkpMFf8N) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Karbon](https://open.spotify.com/artist/3d35Qfp3CjJMnRzvvtuwtB) | [Studio Gangsters](https://open.spotify.com/album/51xRn9cisTA9k5OIb15M3y) | 2:20 |

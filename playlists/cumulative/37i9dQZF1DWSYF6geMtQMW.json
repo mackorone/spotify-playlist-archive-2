@@ -339,6 +339,28 @@
     },
     {
       "album": {
+        "name": "Dai Dai",
+        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223448,
+      "name": "Dai Dai",
+      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
+    },
+    {
+      "album": {
         "name": "Alligator Bites Never Heal",
         "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
       },
@@ -702,7 +724,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 178186,
       "name": "I Knew It, I Knew You",
       "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
@@ -760,7 +782,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 237344,
       "name": "Janice STFU",
       "url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
@@ -1922,6 +1944,24 @@
       "duration_ms": 171304,
       "name": "\u05d0\u05dc \u05ea\u05e2\u05e9\u05d9 \u05dc\u05d5 \u05e6\u05e8\u05d5\u05ea",
       "url": "https://open.spotify.com/track/0P8jIXqWvT6iNCeAzyinxt"
+    },
+    {
+      "album": {
+        "name": "\u05d0\u05d5\u05e4\u05d5\u05e8\u05d9\u05d4",
+        "url": "https://open.spotify.com/album/7bukWWwRd94p8xLUyNXhVs"
+      },
+      "artists": [
+        {
+          "name": "\u05e0\u05d3\u05d1 \u05d7\u05e0\u05e6\u05d9\u05e1",
+          "url": "https://open.spotify.com/artist/4ZXLucEFePscKcgUlD0Sf9"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188709,
+      "name": "\u05d0\u05dc \u05ea\u05e9\u05d7\u05e7\u05d9 \u05dc\u05d9 \u05d1\u05dc\u05d1",
+      "url": "https://open.spotify.com/track/0iBMxZn5ENxNozVqUYbDZt"
     },
     {
       "album": {
@@ -3165,6 +3205,24 @@
     },
     {
       "album": {
+        "name": "\u05dc\u05d5\u05e4 \u05e9\u05dc\u05d0 \u05e0\u05d2\u05de\u05e8",
+        "url": "https://open.spotify.com/album/465lhGCRsrEUFKo2BLXeYl"
+      },
+      "artists": [
+        {
+          "name": "Eden Ben Zaken",
+          "url": "https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "\u05dc\u05d5\u05e4 \u05e9\u05dc\u05d0 \u05e0\u05d2\u05de\u05e8",
+      "url": "https://open.spotify.com/track/0XN0qo1SvJeiiV6yoPP85V"
+    },
+    {
+      "album": {
         "name": "\u05dc\u05d5\u05e8\u05d5 \u05e4\u05d9\u05d0\u05e0\u05d4",
         "url": "https://open.spotify.com/album/1l1wLBLdbKJJqeJlLheWw1"
       },
@@ -3288,7 +3346,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 172941,
       "name": "\u05de\u05d3\u05d0\u05dd",
       "url": "https://open.spotify.com/track/02mgxr6NgCwAVtuLtttDUB"
@@ -3734,7 +3792,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 179047,
       "name": "\u05e0\u05e9\u05de\u05d5\u05ea \u05e6\u05de\u05d0\u05d5\u05ea",
       "url": "https://open.spotify.com/track/3KFaiPnUVpvwrcIjbMFKBW"
@@ -4610,6 +4668,24 @@
       "duration_ms": 172694,
       "name": "\u05ea\u05de\u05d9\u05d3 \u05d0\u05d5\u05d4\u05d1 \u05d0\u05d5\u05ea\u05d9",
       "url": "https://open.spotify.com/track/3CZdlwKHGTvfveatbfKD3q"
+    },
+    {
+      "album": {
+        "name": "\u05ea\u05de\u05d9\u05d3 \u05e8\u05e6\u05d9\u05ea\u05d9 \u05e2\u05d5\u05d3",
+        "url": "https://open.spotify.com/album/6r6e6Fu2aGJLPIoqSRqRlm"
+      },
+      "artists": [
+        {
+          "name": "Noam Bettan",
+          "url": "https://open.spotify.com/artist/0RzO7EUuiJ1urqHiJecPdn"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202053,
+      "name": "\u05ea\u05de\u05d9\u05d3 \u05e8\u05e6\u05d9\u05ea\u05d9 \u05e2\u05d5\u05d3",
+      "url": "https://open.spotify.com/track/7JthqxqRulP1lxrSM0fNlh"
     },
     {
       "album": {

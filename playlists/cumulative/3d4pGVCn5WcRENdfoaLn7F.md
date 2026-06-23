@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-385 songs - 23 hr 14 min
+388 songs - 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [All That We Need](https://open.spotify.com/track/6YdIHTbtkfjXuE1sDTQzAy) | [Southern States](https://open.spotify.com/artist/2hpxrkZg9qkbadFtXnD0g2) | [All That We Need](https://open.spotify.com/album/3aFfX6KlURt9DGYVDEk0Qq) | 2:52 | 2026-05-05 | 2026-05-26 |
 | [Anfang unsrer Zeit](https://open.spotify.com/track/4Gny5yM4G2ZeXpttdDgZw4) | [Voltwechsel](https://open.spotify.com/artist/2uf0QPyHmDcE3UG5etXM0j) | [Anfang unsrer Zeit](https://open.spotify.com/album/53WSXWPec4A5hUslMBdA5t) | 3:28 | 2026-04-16 | 2026-05-17 |
 | [Another Light Year](https://open.spotify.com/track/2LxPolkDBMrJHAhxOTCQXX) | [Surrounded by Spiders](https://open.spotify.com/artist/2Sr0bSlexNwK35NfqoaVIb) | [Surrounded by Spiders](https://open.spotify.com/album/3qrkAp6ZN5rEMvvCTgDztT) | 2:24 | 2025-10-04 | 2026-01-05 |
+| [Anthem](https://open.spotify.com/track/7yERL9lG267wju2Ufue3ac) | [No Man's Land](https://open.spotify.com/artist/4DrY8MPAU23CWiFre0klEI) | [Anthem](https://open.spotify.com/album/5wg8ZXbOlWn14e7NdFOs3D) | 3:18 | 2026-06-22 |  |
 | [Anything Better to Do](https://open.spotify.com/track/5rk0K5Z6oyuHpP7gjlScDK) | [Feyer](https://open.spotify.com/artist/7Eu9QyMHf0nXat8KuTJJX4) | [Bridging The Gaps](https://open.spotify.com/album/1NPMdLOVMk6kqBB4DQMKfi) | 3:19 | 2026-01-17 | 2026-02-19 |
 | [Aquella mirada](https://open.spotify.com/track/3KnPS50cVLvfJhaN8CGQUo) | [Exilio a Plutón](https://open.spotify.com/artist/0RDcwUWOCSUSxJe3mMNhqh) | [Aquella Mirada](https://open.spotify.com/album/61EmKeW5ZlfiO1Q5PI7Yw7) | 4:01 | 2025-11-11 | 2025-12-06 |
 | [Asmodeus](https://open.spotify.com/track/5IiBhGeTLrzhqpIgnOWn4g) | [Anthony Menzia](https://open.spotify.com/artist/0GoKVhFED5mug4qsu3dlyy) | [Synth Noise](https://open.spotify.com/album/19mRhcI5wRUlZQuQB5ySJ8) | 2:07 | 2026-03-11 | 2026-04-15 |
@@ -185,6 +186,7 @@
 | [Le Voyage Dans La Lune\`](https://open.spotify.com/track/2DynYhI3uQaG4noHkRTcun) | [Armen Matevosyan](https://open.spotify.com/artist/65TwqYuEHIn9qyoI4DvSve) | [Le Voyage Dans La Lune\`](https://open.spotify.com/album/6kZea5A0pO9KcmLb8L5u7X) | 4:23 | 2025-12-22 | 2026-01-21 |
 | [Leave](https://open.spotify.com/track/24eQ0gaztPwAT44pHozFI5) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Leave](https://open.spotify.com/album/2CadloDYbh46qgdzOWfoQ0) | 3:08 | 2026-01-19 | 2026-02-25 |
 | [Leaving For The Summer](https://open.spotify.com/track/2si1Z5vk1qKPBOddYakSYX) | [White Star Line](https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh) | [Leaving For The Summer](https://open.spotify.com/album/1OL4HB5Fkd0U78TehJXbZA) | 3:52 | 2025-12-20 | 2026-01-21 |
+| [Let You Go](https://open.spotify.com/track/1fpxd2RNpar9ICN3JyckXW) | [The Winter Sloths](https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD) | [The Winter Sloths](https://open.spotify.com/album/3wjHKUaiAB5FmDqvM7s3Rr) | 3:28 | 2026-06-22 |  |
 | [Let's Do It Again](https://open.spotify.com/track/0tZ9lz19MPyCJDlOQ078NO) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Let's Do It Again](https://open.spotify.com/album/5cfYAyMa2BN1b8yup5F6TL) | 4:28 | 2026-02-16 | 2026-03-27 |
 | [Lifeless](https://open.spotify.com/track/39zRV9wo9QfVPAGOJhW5aI) | [No Friends Left](https://open.spotify.com/artist/4SDEigdJCKwEnByUzQhgNj) | [I Wanna Be 16 Again!](https://open.spotify.com/album/62Y6hCa2mpdMYszePDaolr) | 3:00 | 2026-04-20 | 2026-05-26 |
 | [Lifespan](https://open.spotify.com/track/061iJoemR1JeGwFZa0339j) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Lifespan](https://open.spotify.com/album/3wOlsRSBN05i4lfp9zYhBy) | 2:22 | 2025-10-10 | 2026-01-05 |
@@ -345,6 +347,7 @@
 | [Timewaster](https://open.spotify.com/track/5LwBGdNj4Vk7hPAP2EqECk) | [PØRTERS](https://open.spotify.com/artist/7DWxOAA8RP8Cu0B8ucNy0Q) | [Timewaster](https://open.spotify.com/album/0Zo0pv0cD2ZrszpAw7EJjE) | 3:35 | 2026-03-26 |  |
 | [To The Moon](https://open.spotify.com/track/6DVsYLEObwwI5j8TMbMecX) | [Stopgap Solution](https://open.spotify.com/artist/0H2WxOdnVCqVeXCwyfJgAb) | [To The Moon](https://open.spotify.com/album/2ElBuY7uYQpk55T1GHgZz5) | 3:44 | 2026-05-06 | 2026-05-26 |
 | [Tomorrow Is Here](https://open.spotify.com/track/5VMUskyWeRjMUnyHnpxNw2) | [Hardar](https://open.spotify.com/artist/4KOKGSVXWgWRBPv0Zqh2Pm) | [Tomorrow Is Here](https://open.spotify.com/album/798T6z0oVDanXisQOWGKcy) | 3:21 | 2026-03-11 | 2026-04-15 |
+| [Too Close To The Headlights](https://open.spotify.com/track/1FvzRpndnImsgnoEXxm6ce) | [Frode Møller](https://open.spotify.com/artist/5r3LiRT8ytsGdckgx8hJwo) | [Too Close To The Headlights](https://open.spotify.com/album/01McrIbaakCYoirVvaeqKQ) | 3:47 | 2026-06-22 |  |
 | [Too Far](https://open.spotify.com/track/4TQDu0X2VvIbTa0Xi60KJW) | [Alex Cherney](https://open.spotify.com/artist/0MnGfy4FclSRUj9NnVKujd), [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50) | [Too Far](https://open.spotify.com/album/24IKxWexH2PcwLCPw4IjP4) | 3:03 | 2026-03-21 |  |
 | [Too Late To Die Young](https://open.spotify.com/track/5yELrI6L43565VRVcSrEa9) | [Blood Orange Moon](https://open.spotify.com/artist/2zACh7s1mDfLy2S5pzflnU) | [What Was Ever Real Might Be Fictitious](https://open.spotify.com/album/7eRDi23LKlgQiaGmWguvMi) | 4:04 | 2025-09-23 | 2026-01-05 |
 | [Too many shots](https://open.spotify.com/track/1LgaBhXA2yXHXm163tBUJB) | [Prodii](https://open.spotify.com/artist/2P606xCQx03HHlD28pXMs5) | [Too many shots](https://open.spotify.com/album/4ack6tut3wHYNFCYa1mIS3) | 2:49 | 2026-01-15 | 2026-02-25 |

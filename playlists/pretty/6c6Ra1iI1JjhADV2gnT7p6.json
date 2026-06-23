@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music \ud83d\udc9c",
-  "num_followers": 60266,
+  "num_followers": 60269,
   "original_name": "Compact Cassette (Spring 2026)",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AABH59pZqBm2i4akwFViHANOTj+Avwjq",
+  "snapshot_id": "AABH+8EbJwd7QPVgjQNQkULbQZfBOzpL",
   "tracks": [
     {
       "added_at": "2026-06-21 08:55:18",
@@ -871,6 +871,22 @@
     {
       "added_at": "2026-06-21 08:55:18",
       "album": {
+        "name": "Prime Corner",
+        "url": "https://open.spotify.com/album/3A8uXIiJbiHupbZsJicvRn"
+      },
+      "artists": [
+        {
+          "name": "Office Dog",
+          "url": "https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5"
+        }
+      ],
+      "duration_ms": 356906,
+      "name": "Prime Corner",
+      "url": "https://open.spotify.com/track/55s5xCPyYz4LxneAY2E1b7"
+    },
+    {
+      "added_at": "2026-06-21 08:55:18",
+      "album": {
         "name": "Lake Mary Not Mysterious",
         "url": "https://open.spotify.com/album/6ULA8rZ8ePCe0LG2g5XjSN"
       },
@@ -944,41 +960,9 @@
           "url": "https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5"
         }
       ],
-      "duration_ms": 356906,
-      "name": "Prime Corner",
-      "url": "https://open.spotify.com/track/55s5xCPyYz4LxneAY2E1b7"
-    },
-    {
-      "added_at": "2026-06-21 08:55:18",
-      "album": {
-        "name": "Prime Corner",
-        "url": "https://open.spotify.com/album/3A8uXIiJbiHupbZsJicvRn"
-      },
-      "artists": [
-        {
-          "name": "Office Dog",
-          "url": "https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5"
-        }
-      ],
       "duration_ms": 231000,
       "name": "Permanent Day",
       "url": "https://open.spotify.com/track/75Rn1guZIt0DZ6UsQzqnU1"
-    },
-    {
-      "added_at": "2026-06-21 08:55:18",
-      "album": {
-        "name": "Prime Corner",
-        "url": "https://open.spotify.com/album/3A8uXIiJbiHupbZsJicvRn"
-      },
-      "artists": [
-        {
-          "name": "Office Dog",
-          "url": "https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5"
-        }
-      ],
-      "duration_ms": 207213,
-      "name": "Slowing to a Walk",
-      "url": "https://open.spotify.com/track/4fI6j6mwerO1QKnnF6kTnr"
     },
     {
       "added_at": "2026-06-21 08:55:18",
@@ -2399,6 +2383,22 @@
       "duration_ms": 197333,
       "name": "Childhood Memories",
       "url": "https://open.spotify.com/track/49xFqgf8HykqSZ66VR5sXP"
+    },
+    {
+      "added_at": "2026-06-21 08:55:18",
+      "album": {
+        "name": "Prime Corner",
+        "url": "https://open.spotify.com/album/3A8uXIiJbiHupbZsJicvRn"
+      },
+      "artists": [
+        {
+          "name": "Office Dog",
+          "url": "https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5"
+        }
+      ],
+      "duration_ms": 207213,
+      "name": "Slowing to a Walk",
+      "url": "https://open.spotify.com/track/4fI6j6mwerO1QKnnF6kTnr"
     },
     {
       "added_at": "2026-06-21 08:55:18",
@@ -11607,22 +11607,6 @@
     {
       "added_at": "2026-06-07 12:56:09",
       "album": {
-        "name": "RED",
-        "url": "https://open.spotify.com/album/3ko7fb469oMc3NpppiHFZA"
-      },
-      "artists": [
-        {
-          "name": "Sandy Shorts",
-          "url": "https://open.spotify.com/artist/1VgeEkWs1XuI2USoJcSAp8"
-        }
-      ],
-      "duration_ms": 172017,
-      "name": "RED",
-      "url": "https://open.spotify.com/track/1fG7xUhVFN3Khs7ZMlXrzV"
-    },
-    {
-      "added_at": "2026-06-07 12:56:09",
-      "album": {
         "name": "suspension of disbelief",
         "url": "https://open.spotify.com/album/2c7AOzNGPfxPQFfOII8yPn"
       },
@@ -13979,22 +13963,6 @@
     {
       "added_at": "2026-05-31 19:54:20",
       "album": {
-        "name": "A Moment In My Eyes",
-        "url": "https://open.spotify.com/album/65KsWH5H4VpKz1VJ2pGr2Y"
-      },
-      "artists": [
-        {
-          "name": "My Precious Bunny",
-          "url": "https://open.spotify.com/artist/0F9Ze647kaLptWQU2Pg0u2"
-        }
-      ],
-      "duration_ms": 312199,
-      "name": "A Moment In My Eyes",
-      "url": "https://open.spotify.com/track/53KE2FwG2QFfOA47Hds7mH"
-    },
-    {
-      "added_at": "2026-05-31 19:54:20",
-      "album": {
         "name": "love songs and spiritual recollections",
         "url": "https://open.spotify.com/album/4e71xvTlO6laycmF9Xx1Hv"
       },
@@ -14103,22 +14071,6 @@
       "duration_ms": 178533,
       "name": "miro",
       "url": "https://open.spotify.com/track/2TVmLG4mS2IZBvHFe5wVma"
-    },
-    {
-      "added_at": "2026-05-31 19:54:20",
-      "album": {
-        "name": "Temporary Empty",
-        "url": "https://open.spotify.com/album/71UtFAPPYNcnhr35kRdkF6"
-      },
-      "artists": [
-        {
-          "name": "Exiter",
-          "url": "https://open.spotify.com/artist/6RDlvIWT15CvS3IPnVQlEy"
-        }
-      ],
-      "duration_ms": 156670,
-      "name": "Dolphins Make A Heart",
-      "url": "https://open.spotify.com/track/2Bz8UeOGaeGn4nD6SPMMZA"
     },
     {
       "added_at": "2026-05-31 19:54:20",
@@ -14299,22 +14251,6 @@
     {
       "added_at": "2026-05-31 19:54:20",
       "album": {
-        "name": "Shiver Now",
-        "url": "https://open.spotify.com/album/47mLgSZFsiztxMECW2Jex6"
-      },
-      "artists": [
-        {
-          "name": "Ruth in the Bardo",
-          "url": "https://open.spotify.com/artist/3qZrDuVmWQv0fnoPerrIEh"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Shiver Now",
-      "url": "https://open.spotify.com/track/43raDSne0HgIvLwDsvzT4J"
-    },
-    {
-      "added_at": "2026-05-31 19:54:20",
-      "album": {
         "name": "SO THIS IS LIVING",
         "url": "https://open.spotify.com/album/5toJYo1Ctxq7XRJfJJOj0w"
       },
@@ -14375,22 +14311,6 @@
       "duration_ms": 226231,
       "name": "Little Thief",
       "url": "https://open.spotify.com/track/1peQleR2C4afH2xzGdauOP"
-    },
-    {
-      "added_at": "2026-05-31 19:54:20",
-      "album": {
-        "name": "a la mala",
-        "url": "https://open.spotify.com/album/4PnJTmGrmFhaYg63JOzv9F"
-      },
-      "artists": [
-        {
-          "name": "Bb trickz",
-          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
-        }
-      ],
-      "duration_ms": 91288,
-      "name": "a la mala",
-      "url": "https://open.spotify.com/track/2flvnswo47TtOS8hwm9juy"
     },
     {
       "added_at": "2026-05-31 19:54:20",
@@ -15155,38 +15075,6 @@
     {
       "added_at": "2026-05-23 12:49:59",
       "album": {
-        "name": "Pay",
-        "url": "https://open.spotify.com/album/4GYILxpyjFV2PWZkeO0rE0"
-      },
-      "artists": [
-        {
-          "name": "Sterling Gavinski",
-          "url": "https://open.spotify.com/artist/17Ruw3s2qX8baiOxvui0Wj"
-        }
-      ],
-      "duration_ms": 109040,
-      "name": "Pay",
-      "url": "https://open.spotify.com/track/6J8dwWgz3yPwuHShXOFiFO"
-    },
-    {
-      "added_at": "2026-05-23 12:49:59",
-      "album": {
-        "name": "Underexposed",
-        "url": "https://open.spotify.com/album/18W28rubESzba84MLeQsDn"
-      },
-      "artists": [
-        {
-          "name": "Common Moon",
-          "url": "https://open.spotify.com/artist/0vtZzuIe6YpPHUHgpCyg3I"
-        }
-      ],
-      "duration_ms": 235252,
-      "name": "Underexposed",
-      "url": "https://open.spotify.com/track/1hw96sjEpIPz4BGKE0E3Mu"
-    },
-    {
-      "added_at": "2026-05-23 12:49:59",
-      "album": {
         "name": "different",
         "url": "https://open.spotify.com/album/7vfpYUTmrqjLHU1wZj6luQ"
       },
@@ -15263,6 +15151,22 @@
       "duration_ms": 192822,
       "name": "All The Way",
       "url": "https://open.spotify.com/track/68LccSdJjypLbjrlW83x4b"
+    },
+    {
+      "added_at": "2026-05-23 12:49:59",
+      "album": {
+        "name": "Pay",
+        "url": "https://open.spotify.com/album/4GYILxpyjFV2PWZkeO0rE0"
+      },
+      "artists": [
+        {
+          "name": "Sterling Gavinski",
+          "url": "https://open.spotify.com/artist/17Ruw3s2qX8baiOxvui0Wj"
+        }
+      ],
+      "duration_ms": 109040,
+      "name": "Pay",
+      "url": "https://open.spotify.com/track/6J8dwWgz3yPwuHShXOFiFO"
     },
     {
       "added_at": "2026-05-23 12:49:59",
@@ -15883,22 +15787,6 @@
       "duration_ms": 198702,
       "name": "Away",
       "url": "https://open.spotify.com/track/3BV7JiYHQAcWgQA1G5JNH6"
-    },
-    {
-      "added_at": "2026-05-23 12:49:59",
-      "album": {
-        "name": "Get Serene",
-        "url": "https://open.spotify.com/album/0Xfkg59Z02EQnanZDBhUob"
-      },
-      "artists": [
-        {
-          "name": "Lampland",
-          "url": "https://open.spotify.com/artist/0SHmSiX7KKtI2pq4jjRraq"
-        }
-      ],
-      "duration_ms": 145140,
-      "name": "My Mystique",
-      "url": "https://open.spotify.com/track/5DjjfeomoC5HdZlpdMVdNW"
     },
     {
       "added_at": "2026-05-23 12:49:59",
@@ -16994,6 +16882,14 @@
         {
           "name": "Locust",
           "url": "https://open.spotify.com/artist/5kytvmQqoeunOLa2LtIt1N"
+        },
+        {
+          "name": "Natasha Morrow",
+          "url": "https://open.spotify.com/artist/2QrCrPo69hbeZeXP5BhnhS"
+        },
+        {
+          "name": "Neil Halstead",
+          "url": "https://open.spotify.com/artist/3QbwwBVHCVDEDrVpvUcCwj"
         }
       ],
       "duration_ms": 219321,
@@ -17251,38 +17147,6 @@
     {
       "added_at": "2026-05-16 11:12:00",
       "album": {
-        "name": "grass stains",
-        "url": "https://open.spotify.com/album/4SFtEBpAni5Wunjl1Fe3VP"
-      },
-      "artists": [
-        {
-          "name": "Manolakes",
-          "url": "https://open.spotify.com/artist/1Pp8hYzdOhJ0GBhxM94AYS"
-        }
-      ],
-      "duration_ms": 167786,
-      "name": "grass stains",
-      "url": "https://open.spotify.com/track/6nfbVnoUV423AiO8nCKhkV"
-    },
-    {
-      "added_at": "2026-05-16 11:12:00",
-      "album": {
-        "name": "Strange Articulation",
-        "url": "https://open.spotify.com/album/2rTuihg81jGhrVirgmKyKZ"
-      },
-      "artists": [
-        {
-          "name": "The Outdoors",
-          "url": "https://open.spotify.com/artist/1bAZRqHUCec9vn7UCitsQF"
-        }
-      ],
-      "duration_ms": 186284,
-      "name": "Strange Articulation",
-      "url": "https://open.spotify.com/track/7crgQ11smNUkDLNyp6ILKZ"
-    },
-    {
-      "added_at": "2026-05-16 11:12:00",
-      "album": {
         "name": "things to do",
         "url": "https://open.spotify.com/album/3BVQuRl2wmqTsV7XUyYgJc"
       },
@@ -17499,54 +17363,6 @@
     {
       "added_at": "2026-05-16 11:12:00",
       "album": {
-        "name": "Maslow's Hierarchy of What You Can't Afford",
-        "url": "https://open.spotify.com/album/1Qnnv8l1MnbQ9F44p8rodw"
-      },
-      "artists": [
-        {
-          "name": "Off Belay",
-          "url": "https://open.spotify.com/artist/0xswCqf1xuUBOn0TM0iZmZ"
-        }
-      ],
-      "duration_ms": 172727,
-      "name": "Maslow's Hierarchy of What You Can't Afford",
-      "url": "https://open.spotify.com/track/5A3hLFaIJsaLWqkdMO6aJl"
-    },
-    {
-      "added_at": "2026-05-16 11:12:00",
-      "album": {
-        "name": "Strike!",
-        "url": "https://open.spotify.com/album/3ARPuBE74W6Pp3bxwJJVsC"
-      },
-      "artists": [
-        {
-          "name": "Olivia Montgomery",
-          "url": "https://open.spotify.com/artist/5o795cyaKyQxBfnuo7W4aD"
-        }
-      ],
-      "duration_ms": 203871,
-      "name": "Strike!",
-      "url": "https://open.spotify.com/track/7a4bmGy6rlaeDEbjomfYJ8"
-    },
-    {
-      "added_at": "2026-05-16 11:12:00",
-      "album": {
-        "name": "Sign of the Times",
-        "url": "https://open.spotify.com/album/61V8sQNNsInhjEzHUp1wBP"
-      },
-      "artists": [
-        {
-          "name": "Internet Cafe",
-          "url": "https://open.spotify.com/artist/53k5QCjTcDkWtbltJLSIq6"
-        }
-      ],
-      "duration_ms": 138488,
-      "name": "Sign of the Times",
-      "url": "https://open.spotify.com/track/1lLj2Sx25r56K18YYfkSW6"
-    },
-    {
-      "added_at": "2026-05-16 11:12:00",
-      "album": {
         "name": "Lost in her flowers",
         "url": "https://open.spotify.com/album/5UE5SWyV0WVOSqLBNsRnfa"
       },
@@ -17591,22 +17407,6 @@
       "duration_ms": 197294,
       "name": "Melting Blue Lights",
       "url": "https://open.spotify.com/track/2Yc6xhQIOTJHjyNFJcM0S9"
-    },
-    {
-      "added_at": "2026-05-16 11:12:00",
-      "album": {
-        "name": "Vacationland",
-        "url": "https://open.spotify.com/album/2Kyxhym9nAg4rPP0u6LBqx"
-      },
-      "artists": [
-        {
-          "name": "Dan Darrah",
-          "url": "https://open.spotify.com/artist/5Wcww1za7mm7DWadMa3bFH"
-        }
-      ],
-      "duration_ms": 112685,
-      "name": "You First (Outro)",
-      "url": "https://open.spotify.com/track/1bNOrM7WXo20JfTM8ZTyZ5"
     },
     {
       "added_at": "2026-05-16 11:12:00",

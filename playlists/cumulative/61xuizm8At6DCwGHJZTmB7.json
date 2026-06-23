@@ -2749,6 +2749,24 @@
     },
     {
       "album": {
+        "name": "Acoustic Worship Songs (Vol. 1)",
+        "url": "https://open.spotify.com/album/0u7L8qatEsBuyss4lo8WgT"
+      },
+      "artists": [
+        {
+          "name": "Stephen McWhirter",
+          "url": "https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342443,
+      "name": "Come Jesus Come - Acoustic v1",
+      "url": "https://open.spotify.com/track/2Iz7WPPuq26l9g0LzbyUNn"
+    },
+    {
+      "album": {
         "name": "My Right Now (Deluxe)",
         "url": "https://open.spotify.com/album/4U3SDjlZmhdasNB8OBgnEm"
       },
@@ -2760,7 +2778,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 321062,
       "name": "Come Jesus Come - Revelation 22:20",
       "url": "https://open.spotify.com/track/6GjYw8AAyQZfErAnw8TEyK"
@@ -15400,6 +15418,28 @@
       "duration_ms": 325444,
       "name": "What A God",
       "url": "https://open.spotify.com/track/0sVpTd7gK4YUIL0xTdYsVn"
+    },
+    {
+      "album": {
+        "name": "What A God",
+        "url": "https://open.spotify.com/album/6pD1fqZb2FRZmpgbOmtgen"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt Stewart",
+          "url": "https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378197,
+      "name": "What A God",
+      "url": "https://open.spotify.com/track/4eTLdVkDPeJRwvS5T5YrVd"
     },
     {
       "album": {

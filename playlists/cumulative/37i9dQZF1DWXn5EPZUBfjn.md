@@ -4,7 +4,7 @@
 
 > Hip\-hop hits only\. Music videos only available on Premium.
 
-60 songs - 3 hr 26 min
+61 songs - 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [BEAUTIFUL \(feat\. Future & SZA\)](https://open.spotify.com/track/1apDWwmMa4F5jG91oJFMOi) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [BEAUTIFUL \(feat\. Future & SZA\)](https://open.spotify.com/album/1b825Q8yszg4rJlIR7umjD) | 4:05 | 2025-12-09 |  |
 | [Better Than Yours \(feat\. Youngboy Never Broke Again\)](https://open.spotify.com/track/7Cu72sNXv5n9vbHcXbSmgp) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Better Than Yours \(feat\. Youngboy Never Broke Again\)](https://open.spotify.com/album/47ILgvAKy8xB5Cmuo0iQlN) | 2:40 | 2026-05-26 |  |
 | [Big Dawgs](https://open.spotify.com/track/6u94evMWCToFG9pwEPZ3gI) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6wkd68ryjF7uuUrMTG9iY5) | 3:54 | 2025-12-09 |  |
-| [Big Energy](https://open.spotify.com/track/2SVaLNAPb15vnkwv40u5sc) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Energy](https://open.spotify.com/album/5MrU5xtIT0a7LZYDxDClR0) | 3:21 | 2025-12-09 |  |
+| [Big Energy](https://open.spotify.com/track/2SVaLNAPb15vnkwv40u5sc) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Energy](https://open.spotify.com/album/5MrU5xtIT0a7LZYDxDClR0) | 3:21 | 2025-12-09 | 2026-06-23 |
 | [Blick Blick](https://open.spotify.com/track/6v4pVSkyOXL3nOXzPJ8r8O) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Blick Blick](https://open.spotify.com/album/6etIolgwICygZOazhrRLnj) | 2:58 | 2025-12-09 |  |
 | [Breathe](https://open.spotify.com/track/0M68GE694Iyzearl93bIhV) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Breathe](https://open.spotify.com/album/2A4NQQ1eRAPaX6f2z3SqYc) | 2:50 | 2025-12-09 |  |
 | [Come & Go](https://open.spotify.com/track/29UocD5ZcszfHj87s1mqiD) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Come & Go](https://open.spotify.com/album/28i9LjqRXyudh3hYRkxuJP) | 3:32 | 2025-12-09 |  |
@@ -27,6 +27,7 @@
 | [I Know](https://open.spotify.com/track/5La5RH6MdDgT6fkBdb0RD4) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Know](https://open.spotify.com/album/0uSwIF5VDu0GBRTf7JYbzd) | 2:41 | 2025-12-09 |  |
 | [If You Want It](https://open.spotify.com/track/1lBkIZiPtUetgkMcSABu3h) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [If You Want It](https://open.spotify.com/album/1jc3lBsBsQaYOGRciN3Bv0) | 3:02 | 2026-03-09 |  |
 | [Janice STFU](https://open.spotify.com/track/514joG57v4yKTsfQmz7stz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:57 | 2026-05-26 |  |
+| [KING](https://open.spotify.com/track/4LP6bmyAxdMNrqUrMpaVQ8) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq) | [BULLY](https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS) | 2:06 | 2026-06-22 |  |
 | [Laugh Now Cry Later](https://open.spotify.com/track/4c78oL1P2Zqeh1fwm0I9h4) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Laugh Now Cry Later](https://open.spotify.com/album/3GhJYDQIkSHGEXYp9TMcnB) | 5:01 | 2025-12-09 |  |
 | [Lick Or Sum](https://open.spotify.com/track/35aMkiQStUB9OBw4UJotEI) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Lick Or Sum](https://open.spotify.com/album/5q6jmPdh6K3SzvaW5lpCo3) | 2:21 | 2025-12-09 |  |
 | [Lovin On Me](https://open.spotify.com/track/0C6SJd1VY35GjQJvmp1F1S) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/4NNjS9CmnHwFjVlKn7ILka) | 2:21 | 2025-12-09 |  |

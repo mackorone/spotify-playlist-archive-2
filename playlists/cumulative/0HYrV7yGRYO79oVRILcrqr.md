@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-585 songs - 1 day 12 hr 23 min
+587 songs - 1 day 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Good Riddance](https://open.spotify.com/track/4juAsolkncVtBOvsjqiRfA) | [Daysick](https://open.spotify.com/artist/1mnmYPlWBNM4hgWRsgaelX) | [Good Riddance](https://open.spotify.com/album/3OOccZEWmOTs99aPn0w9M3) | 3:51 | 2026-03-07 | 2026-05-26 |
 | [got a little spacey](https://open.spotify.com/track/64t4vsXlRGBbEoxN9gT12C) | [rivers western](https://open.spotify.com/artist/31yh8AHiPkbkybRerMmuv9) | [got a little spacey](https://open.spotify.com/album/4yuQpJrrYtvpeqqBuSaL0f) | 2:43 | 2025-10-18 | 2025-11-28 |
 | [Got Your Gun](https://open.spotify.com/track/6YlLDFUpYCUxvjf6zeehMh) | [Revenant Sun](https://open.spotify.com/artist/6Q0ljtw7dxz6PCid0n8ZJA) | [Got Your Gun](https://open.spotify.com/album/556dFgma1H1MaxXbXDzAzx) | 3:50 | 2026-04-25 | 2026-05-31 |
+| [Grass Will Always Win](https://open.spotify.com/track/0rNZ9CMv4d4WMVtZPmI7f4) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [Grass will always win](https://open.spotify.com/album/15gUwknPdtUlk1qJ4kV4tR) | 4:54 | 2026-06-22 |  |
 | [Green Giants March](https://open.spotify.com/track/6EfCto1xF9NLpZt8469sbX) | [Jaxx.13](https://open.spotify.com/artist/1pV2GA9n5xplcSgg58F3Xn), [Digiplayer.13](https://open.spotify.com/artist/32yRrtY4Az7zXL2a2nf9gk), [Alex.13](https://open.spotify.com/artist/74kwMd6oJzppv5s1b6RhVV) | [Green Giants March](https://open.spotify.com/album/0ZXdBFVaPAfzZNrleHHvIM) | 2:30 | 2026-01-06 | 2026-03-18 |
 | [Grinder Minder](https://open.spotify.com/track/7nmyUuAJDJ0O9VRF7Lv8NR) | [The Paperbags](https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk) | [Grinder Minder](https://open.spotify.com/album/1SperF6SKGWOeLHv3kG5gl) | 3:06 | 2026-01-29 | 2026-03-18 |
 | [Groove of the Soul](https://open.spotify.com/track/661nbgxeFKG1G90ZZ6blQR) | [Carlito Home](https://open.spotify.com/artist/0txTwV2vs7SBaepqBjalf0) | [Groove of the Soul](https://open.spotify.com/album/2wbyS7AgWdskZAJmkJiQFB) | 4:31 | 2026-05-25 |  |
@@ -376,6 +377,7 @@
 | [One of the Reasons](https://open.spotify.com/track/6AOxOJVRXpSS8fYjM9hR1Y) | [Dorian Whisper](https://open.spotify.com/artist/5RcwM81PTfdO1ZFHR1kiWD) | [One of the Reasons](https://open.spotify.com/album/1EtKddvaxCE0M86Izt4xjB) | 2:40 | 2026-02-25 | 2026-03-18 |
 | [One Way Out](https://open.spotify.com/track/1NRMj5AyU0Mxni02NSuv6S) | [Jonathan Turk](https://open.spotify.com/artist/3QgYeMYR3iXjFOLewqhpBo) | [Insomnia EP](https://open.spotify.com/album/4ljfufJ969vKljLvyifOh0) | 3:54 | 2025-10-22 | 2025-11-28 |
 | [Oneida](https://open.spotify.com/track/7qtMKgEM37EINe75ATzRgE) | [HELLIPSYS](https://open.spotify.com/artist/4BNGDq3fwPHY9QpGdqrAML) | [B.o.t.](https://open.spotify.com/album/3Sse1MujegzywJElFcX4x6) | 5:07 | 2025-09-21 | 2025-11-28 |
+| [Onomanosphere](https://open.spotify.com/track/49hjIuAb7VKotojvXPrmBd) | [TIRED](https://open.spotify.com/artist/26Fypj1nYvaqMCLeqEiIMO) | [Onomanosphere](https://open.spotify.com/album/2dohHJ6ZCqeKfve1MqbiSA) | 2:50 | 2026-06-22 |  |
 | [Open Range\_Master](https://open.spotify.com/track/5Mq4CqaYwa7znm7NQF4aou) | [Тульженко Евгений](https://open.spotify.com/artist/5Hxn6e8uErpJw2IxVsKGen) | [Open Range\_Master](https://open.spotify.com/album/2xMilzQcvvXXvGZxjACcTU) | 2:11 | 2026-05-11 | 2026-05-26 |
 | [Ordinary Man](https://open.spotify.com/track/2wFieyyXVumeUtn5qdHx61) | [June 101](https://open.spotify.com/artist/0sBu7gZlzCSq0wsCqTojcD) | [Collection, Vol\. 1](https://open.spotify.com/album/5ZgOo1hRPzctZbsf83ngpT) | 4:06 | 2025-11-25 | 2025-12-17 |
 | [Ouroboros](https://open.spotify.com/track/23w8U7ujIWpdMlRYazgl1F) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Reverie](https://open.spotify.com/album/5c7IszYceIopxhjpZGSIKL) | 2:56 | 2025-11-23 | 2025-12-17 |
@@ -493,7 +495,7 @@
 | [Swamp Mother](https://open.spotify.com/track/5AMxT1InHsOVuaxW8qYaVF) | [Live Oak Sunburst](https://open.spotify.com/artist/4QHJTuyBl6eDWAikRZaAmB) | [Swamp Mother](https://open.spotify.com/album/7ncJaA6HNWg3GSFEa1abAc) | 3:42 | 2026-04-29 | 2026-05-26 |
 | [Sweet Journey \(Rock Version\)](https://open.spotify.com/track/6n6zlANFdFqP3u3DK4fJiJ) | [Mathias Neto](https://open.spotify.com/artist/5QrUJ71HRSZ4O2wVAJkKZG) | [Sweet Journey \(Rock Version\)](https://open.spotify.com/album/3AAjiTyB5rFtvouQnXNKdn) | 4:34 | 2026-03-16 | 2026-04-21 |
 | [Synchronicity](https://open.spotify.com/track/022SKr9Ibv4kGJz069ukGm) | [The Insomnia Night](https://open.spotify.com/artist/1kf6je9RrHLLxg5ocFLVbD) | [Synchronicity](https://open.spotify.com/album/3ECpJVnGuYwyoQVywguY0B) | 4:09 | 2026-01-16 | 2026-03-18 |
-| [Systembruch \- Bonus \#raw](https://open.spotify.com/track/4okdQGGXx0dXhvQJjgnglF) | [FACEVOLT](https://open.spotify.com/artist/6pIqGqpnJZlIGDzwTsv9WH) | [LONG WAY](https://open.spotify.com/album/7uzLn5WRyAa5Ac5qhJgEKC) | 4:24 | 2026-05-02 |  |
+| [Systembruch \- Bonus \#raw](https://open.spotify.com/track/4okdQGGXx0dXhvQJjgnglF) | [FACEVOLT](https://open.spotify.com/artist/6pIqGqpnJZlIGDzwTsv9WH) | [LONG WAY](https://open.spotify.com/album/7uzLn5WRyAa5Ac5qhJgEKC) | 4:24 | 2026-05-02 | 2026-06-23 |
 | [Take me home](https://open.spotify.com/track/0mNlZQwMps3Uz9vGV0G2VO) | [Nic Li](https://open.spotify.com/artist/4Kg7L2IFz4ZI1x9FOnWEKU) | [Haga Street Revisited](https://open.spotify.com/album/0Oc9CyF1n3yIzaXjR503hC) | 1:55 | 2025-11-02 | 2025-12-17 |
 | [Take My Love \- Live](https://open.spotify.com/track/1NOzIiQmn04RbHJI09odao) | [The Steel](https://open.spotify.com/artist/0o8mtfGFaxEYBF5TtoVOGY), [Wizard](https://open.spotify.com/artist/68mNlZyTChaGaUwoIjzMr8) | [Captured Live](https://open.spotify.com/album/2kkaEmuBrjwtB1ibO23MRr) | 3:29 | 2026-03-27 | 2026-04-21 |
 | [Tanzt mit mir](https://open.spotify.com/track/2jjw1QuN1pdPGXgQnjjygt) | [Pro\|Contra](https://open.spotify.com/artist/3lpOrZS6jyCQVFQD01Usf0) | [Tanzt mit mir](https://open.spotify.com/album/19FUWJ7gwETtier4fAOpXQ) | 3:39 | 2026-06-08 |  |

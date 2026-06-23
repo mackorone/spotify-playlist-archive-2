@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: Sunidhi Chauhan",
-  "num_followers": 1034398,
+  "num_followers": 1034349,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-06-05 05:06:12",
       "album": {
-        "name": "Coisas Naturais",
-        "url": "https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE"
-      },
-      "artists": [
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 173198,
-      "name": "Sem Lei",
-      "url": "https://open.spotify.com/track/6C8H63gGFeDqAYJ75uLPA6"
-    },
-    {
-      "added_at": "2026-06-05 05:06:12",
-      "album": {
         "name": "Sousouro",
         "url": "https://open.spotify.com/album/1ZuGXCJPpIFwRcgMHSghLU"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 231073,
       "name": "Sousouro",
       "url": "https://open.spotify.com/track/6Q9L85FERsbSTVmNaZjhd4"
+    },
+    {
+      "added_at": "2026-06-05 05:06:12",
+      "album": {
+        "name": "Coisas Naturais",
+        "url": "https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "duration_ms": 173198,
+      "name": "Sem Lei",
+      "url": "https://open.spotify.com/track/6C8H63gGFeDqAYJ75uLPA6"
     },
     {
       "added_at": "2026-06-05 05:06:12",
@@ -843,6 +843,22 @@
     {
       "added_at": "2026-06-05 05:06:12",
       "album": {
+        "name": "setidaknya aku telah mencoba",
+        "url": "https://open.spotify.com/album/6g4AW1lAuD1jyQi2xGixLn"
+      },
+      "artists": [
+        {
+          "name": "Alisha Dira",
+          "url": "https://open.spotify.com/artist/7HGA1yaatBdtc7N7S7gPFi"
+        }
+      ],
+      "duration_ms": 174473,
+      "name": "setidaknya aku telah mencoba",
+      "url": "https://open.spotify.com/track/4NhhEuSZb5uAj5mgIA5WJN"
+    },
+    {
+      "added_at": "2026-06-05 05:06:12",
+      "album": {
         "name": "Sigui",
         "url": "https://open.spotify.com/album/4kiBVxzxHqE0FccC8JIxJD"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 182490,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/71WYq0Dq4VWatUIFDW0jvz"
-    },
-    {
-      "added_at": "2026-06-05 05:06:12",
-      "album": {
-        "name": "setidaknya aku telah mencoba",
-        "url": "https://open.spotify.com/album/6g4AW1lAuD1jyQi2xGixLn"
-      },
-      "artists": [
-        {
-          "name": "Alisha Dira",
-          "url": "https://open.spotify.com/artist/7HGA1yaatBdtc7N7S7gPFi"
-        }
-      ],
-      "duration_ms": 174473,
-      "name": "setidaknya aku telah mencoba",
-      "url": "https://open.spotify.com/track/4NhhEuSZb5uAj5mgIA5WJN"
     }
   ],
   "unique_name": "EQUAL",

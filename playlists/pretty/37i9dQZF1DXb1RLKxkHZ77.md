@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang wajib ada dalam playlist\. Cover: Adira Suhaimi
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,534 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,518 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 25 | [Ding Geding](https://open.spotify.com/track/0SeZcSxcfuAdyMKiixA14J) | [Andi Bernadee](https://open.spotify.com/artist/3NNC2X9tLFyL0nHfJuWKJ9) | [Ding Geding](https://open.spotify.com/album/0iLwGEZeW1q8EEAcY0nHKi) | 2:41 |
 | 26 | [Tak Nak](https://open.spotify.com/track/3hJpGa4xPQOV1mXusqrP3m) | [MC Syze](https://open.spotify.com/artist/415RH1HJvYXcARc4o4CdBV), [Malique](https://open.spotify.com/artist/4ZsSCvTFG2Krx3AyQ6vHzk) | [Brickcity's Illest](https://open.spotify.com/album/0BBvAoVF8EWYqvY1qz0gxB) | 3:59 |
 | 27 | [Masa ini, Nanti, dan Masa Indah Lainnya](https://open.spotify.com/track/3TTZfjYqhTowNALncAmY5v) | [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [EUNOIA](https://open.spotify.com/album/5J7ECDbg73rsPAWsvfulHB) | 4:35 |
-| 28 | [Janji Setia](https://open.spotify.com/track/6cfod5D7hS31TbRtH16kQx) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [MELONii](https://open.spotify.com/artist/5IVgCOmq1RxhSQ9lcf3ZMi) | [Janji Setia](https://open.spotify.com/album/0KuBeerNz7JtLRsvWDEbgg) | 4:21 |
+| 28 | [Janji Setia](https://open.spotify.com/track/6cfod5D7hS31TbRtH16kQx) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [MELONii](https://open.spotify.com/artist/5IVgCOmq1RxhSQ9lcf3ZMi) | [Janji Setia \(Janji Setia Korean Version\)](https://open.spotify.com/album/0KuBeerNz7JtLRsvWDEbgg) | 4:21 |
 | 29 | [Bahagiamu Deritaku](https://open.spotify.com/track/5vNhfRa1WTzUDZcU8DAO1a) | [Hafiz Suip](https://open.spotify.com/artist/08nApps9ThD6cZD2jXC4vW) | [Hafiz](https://open.spotify.com/album/5PV6AOXPpBOQyxZGrLWK3I) | 4:23 |
 | 30 | [Ada titik\-titik di ujung doa](https://open.spotify.com/track/1E7zLPDdqo0OvzVmGj5aoV) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [MARKERS AND SUCH PENS FLASHDISKS](https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q) | 5:05 |
 | 31 | [Kasih Tau Mama \(Malam Minggu\)](https://open.spotify.com/track/3egqzae8XAs7VXIb1ikB4I) | [Rombongan Bodonk Koplo](https://open.spotify.com/artist/4lMaxyOo5D7cOWzv2wiRZs) | [Kasih Tau Mama \(Malam Minggu\)](https://open.spotify.com/album/4VFwqb1N4CvkB00X2noeup) | 3:26 |

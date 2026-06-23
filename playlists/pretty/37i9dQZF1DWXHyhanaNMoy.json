@@ -1,12 +1,12 @@
 {
   "description": "Motion & good vibes! Cover: Veertien",
-  "num_followers": 334418,
+  "num_followers": 334437,
   "original_name": "La Vida Loca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI2slKq77dlv5D9wJEyh7P7ZEIia",
+  "snapshot_id": "AAAAAAXu5q23kXqQ9zdvsyP8uhlNVu10",
   "tracks": [
     {
       "added_at": "2026-06-18 22:01:00",
@@ -107,38 +107,6 @@
     {
       "added_at": "2026-06-18 22:01:00",
       "album": {
-        "name": "Ereronde (Deluxe)",
-        "url": "https://open.spotify.com/album/4EnUKKxdXG5fcAYee26gta"
-      },
-      "artists": [
-        {
-          "name": "OYSTER",
-          "url": "https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk"
-        }
-      ],
-      "duration_ms": 143157,
-      "name": "Brassen",
-      "url": "https://open.spotify.com/track/72yHK7rmosQlWOcrhJ27w9"
-    },
-    {
-      "added_at": "2026-06-18 22:01:00",
-      "album": {
-        "name": "LORO PIANA",
-        "url": "https://open.spotify.com/album/4p1dhq8QWbwbQaKBjJVe8l"
-      },
-      "artists": [
-        {
-          "name": "Gregossan",
-          "url": "https://open.spotify.com/artist/0p2nWJAXVkj0IkhGiTcPdC"
-        }
-      ],
-      "duration_ms": 130476,
-      "name": "LORO PIANA",
-      "url": "https://open.spotify.com/track/5SXNdfEcNT0NQYoAjVD6xA"
-    },
-    {
-      "added_at": "2026-06-18 22:01:00",
-      "album": {
         "name": "POPULAIR",
         "url": "https://open.spotify.com/album/5XIEGdAU9LWEL8Nqjos6bj"
       },
@@ -179,26 +147,74 @@
     {
       "added_at": "2026-06-18 22:01:00",
       "album": {
-        "name": "OM DE TAFEL",
-        "url": "https://open.spotify.com/album/7v2C0BOh9nhvgrtULvW5HR"
+        "name": "Ereronde (Deluxe)",
+        "url": "https://open.spotify.com/album/4EnUKKxdXG5fcAYee26gta"
       },
       "artists": [
         {
-          "name": "Hekje31",
-          "url": "https://open.spotify.com/artist/010ZclHHy7BrTO5AQ0xGgn"
-        },
-        {
-          "name": "JayKoppig",
-          "url": "https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp"
-        },
-        {
-          "name": "Drechter",
-          "url": "https://open.spotify.com/artist/0yZtrEIjvzoZSNoSNrY5Gj"
+          "name": "OYSTER",
+          "url": "https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk"
         }
       ],
-      "duration_ms": 164324,
-      "name": "Hay Baya",
-      "url": "https://open.spotify.com/track/2mysP7k0C31asMj7vzWd1f"
+      "duration_ms": 143157,
+      "name": "Brassen",
+      "url": "https://open.spotify.com/track/72yHK7rmosQlWOcrhJ27w9"
+    },
+    {
+      "added_at": "2026-06-18 22:01:00",
+      "album": {
+        "name": "Obsesi\u00f3n",
+        "url": "https://open.spotify.com/album/2S8bpFQn8cc2yl6EQKhWHi"
+      },
+      "artists": [
+        {
+          "name": "Team Rush Hour",
+          "url": "https://open.spotify.com/artist/3GV34zJlfaSxsr8YZ1zEbP"
+        },
+        {
+          "name": "KARYO",
+          "url": "https://open.spotify.com/artist/5axX3V9XC7KOWoquBOdA59"
+        }
+      ],
+      "duration_ms": 196526,
+      "name": "Obses\u00edon",
+      "url": "https://open.spotify.com/track/0fBteXpHd8vCMptP4YLtTi"
+    },
+    {
+      "added_at": "2026-06-18 22:01:00",
+      "album": {
+        "name": "LORO PIANA",
+        "url": "https://open.spotify.com/album/4p1dhq8QWbwbQaKBjJVe8l"
+      },
+      "artists": [
+        {
+          "name": "Gregossan",
+          "url": "https://open.spotify.com/artist/0p2nWJAXVkj0IkhGiTcPdC"
+        }
+      ],
+      "duration_ms": 130476,
+      "name": "LORO PIANA",
+      "url": "https://open.spotify.com/track/5SXNdfEcNT0NQYoAjVD6xA"
+    },
+    {
+      "added_at": "2026-06-18 22:01:00",
+      "album": {
+        "name": "Kontinental",
+        "url": "https://open.spotify.com/album/7lfdPGFAAb1q865fCg0h9P"
+      },
+      "artists": [
+        {
+          "name": "ValsBezig",
+          "url": "https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4"
+        },
+        {
+          "name": "Marrabeatsz",
+          "url": "https://open.spotify.com/artist/2W0Q6w2WizYVCoKQGMjlm5"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "Kontinental",
+      "url": "https://open.spotify.com/track/7lZMfofccEtyb3SEAWzWFP"
     },
     {
       "added_at": "2026-06-18 22:01:00",
@@ -283,6 +299,22 @@
     {
       "added_at": "2026-06-18 22:01:00",
       "album": {
+        "name": "Maladie",
+        "url": "https://open.spotify.com/album/7vTk9JCF1hzUNCjUA5vgkI"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Maladie",
+      "url": "https://open.spotify.com/track/2n4L2a5xgpJmPdLzDl3mE6"
+    },
+    {
+      "added_at": "2026-06-18 22:01:00",
+      "album": {
         "name": "IDK (I Don't Know)",
         "url": "https://open.spotify.com/album/4VcUuwmPvdzNbrmwvkiMPu"
       },
@@ -307,6 +339,30 @@
     {
       "added_at": "2026-06-18 22:01:00",
       "album": {
+        "name": "OM DE TAFEL",
+        "url": "https://open.spotify.com/album/7v2C0BOh9nhvgrtULvW5HR"
+      },
+      "artists": [
+        {
+          "name": "Hekje31",
+          "url": "https://open.spotify.com/artist/010ZclHHy7BrTO5AQ0xGgn"
+        },
+        {
+          "name": "JayKoppig",
+          "url": "https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp"
+        },
+        {
+          "name": "Drechter",
+          "url": "https://open.spotify.com/artist/0yZtrEIjvzoZSNoSNrY5Gj"
+        }
+      ],
+      "duration_ms": 164324,
+      "name": "Hay Baya",
+      "url": "https://open.spotify.com/track/2mysP7k0C31asMj7vzWd1f"
+    },
+    {
+      "added_at": "2026-06-18 22:01:00",
+      "album": {
         "name": "We're All Gonna Make It",
         "url": "https://open.spotify.com/album/6OnEoDfgOzhMpEdRnB3xH2"
       },
@@ -323,46 +379,6 @@
       "duration_ms": 166779,
       "name": "We're All Gonna Make It",
       "url": "https://open.spotify.com/track/6GOnCxpphk2nvN7BwaThfL"
-    },
-    {
-      "added_at": "2026-06-18 22:01:00",
-      "album": {
-        "name": "Kontinental",
-        "url": "https://open.spotify.com/album/7lfdPGFAAb1q865fCg0h9P"
-      },
-      "artists": [
-        {
-          "name": "ValsBezig",
-          "url": "https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4"
-        },
-        {
-          "name": "Marrabeatsz",
-          "url": "https://open.spotify.com/artist/2W0Q6w2WizYVCoKQGMjlm5"
-        }
-      ],
-      "duration_ms": 161632,
-      "name": "Kontinental",
-      "url": "https://open.spotify.com/track/7lZMfofccEtyb3SEAWzWFP"
-    },
-    {
-      "added_at": "2026-06-18 22:01:00",
-      "album": {
-        "name": "Obsesi\u00f3n",
-        "url": "https://open.spotify.com/album/2S8bpFQn8cc2yl6EQKhWHi"
-      },
-      "artists": [
-        {
-          "name": "Team Rush Hour",
-          "url": "https://open.spotify.com/artist/3GV34zJlfaSxsr8YZ1zEbP"
-        },
-        {
-          "name": "KARYO",
-          "url": "https://open.spotify.com/artist/5axX3V9XC7KOWoquBOdA59"
-        }
-      ],
-      "duration_ms": 196526,
-      "name": "Obses\u00edon",
-      "url": "https://open.spotify.com/track/0fBteXpHd8vCMptP4YLtTi"
     },
     {
       "added_at": "2026-06-18 22:01:00",
@@ -455,22 +471,6 @@
       "duration_ms": 149743,
       "name": "Rozen & Blaadjes",
       "url": "https://open.spotify.com/track/2GRrIFuUibIBf2RMFYu1MR"
-    },
-    {
-      "added_at": "2026-06-18 22:01:00",
-      "album": {
-        "name": "Maladie",
-        "url": "https://open.spotify.com/album/7vTk9JCF1hzUNCjUA5vgkI"
-      },
-      "artists": [
-        {
-          "name": "Mauvais djo",
-          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Maladie",
-      "url": "https://open.spotify.com/track/2n4L2a5xgpJmPdLzDl3mE6"
     },
     {
       "added_at": "2026-06-18 22:01:00",

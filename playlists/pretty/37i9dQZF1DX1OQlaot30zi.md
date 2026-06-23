@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata 😈 Con nuovi brani di ANNA, Fabri Fibra, Madame, Neima Ezza,  DrefGold e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,723 likes - 99 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,720 likes - 99 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

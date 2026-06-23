@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16f5bq.md) - [plain]
 
 > This is MC Cabelinho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,952 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,955 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16f5bq.md) - [plain]
 | 41 | [Quebradas](https://open.spotify.com/track/3LwdDMldO8zXz5jgVTQbvR) | [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2), [Mc Lipi](https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Dj GM](https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628) | [Quebradas](https://open.spotify.com/album/5wSJkFgoyruJuAblbrr5rH) | 4:10 |
 | 42 | [Saudade](https://open.spotify.com/track/3lbkPMBvM2hmgx4nDqLqvb) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Djay W](https://open.spotify.com/artist/5nkzLizeD93QtabjeK4oyl) | [Ainda](https://open.spotify.com/album/2YEX8OaLPGDd1SjhIipLjS) | 3:27 |
 | 43 | [Química](https://open.spotify.com/track/5RTtCd89bpX4lSRaYgKd8r) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Química](https://open.spotify.com/album/6RWsT169HF4eb8C3FqFOMB) | 2:33 |
-| 44 | [Acústico\_DeNinguem](https://open.spotify.com/track/4JCxV2QomgEtVUiZwfyPiF) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [ACÚSTICO DO LITTLE \- PT\. 1](https://open.spotify.com/album/0IPmkgB1Syy4dZ9KcIPf9L) | 2:35 |
-| 45 | [BEM MELHOR](https://open.spotify.com/track/7aOBf2xYbux3bo1fwISo6b) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp) | [LITTLE LOVE \(DELUXE\)](https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I) | 5:17 |
+| 44 | [BEM MELHOR](https://open.spotify.com/track/7aOBf2xYbux3bo1fwISo6b) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp) | [LITTLE LOVE \(DELUXE\)](https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I) | 5:17 |
+| 45 | [Acústico\_DeNinguem](https://open.spotify.com/track/4JCxV2QomgEtVUiZwfyPiF) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [ACÚSTICO DO LITTLE \- PT\. 1](https://open.spotify.com/album/0IPmkgB1Syy4dZ9KcIPf9L) | 2:35 |
 | 46 | [Sem convite \(feat\. MODÉ$TIA, MC Cabelinho e Yoka\)](https://open.spotify.com/track/7fxrvStpH0qyh6iHXoSZ31) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [MODE$TIA](https://open.spotify.com/artist/5VDo7VvWUs9J8N3VEoFpRR), [Yoka](https://open.spotify.com/artist/2YQrIbZX0TKpMRqEVk8tOC) | [Rio](https://open.spotify.com/album/2wQCMH9zQ2KYDjhUmgIS4s) | 4:07 |
 | 47 | [Ak de Bipé](https://open.spotify.com/track/4rUahua3HRlpjoRD0KB8dq) | [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Liberdade](https://open.spotify.com/album/2lmzrJYfk5WQSQ4JawLrsb) | 3:45 |
 | 48 | [A Cara do Crime 2 \(Cansou de Playboy\)](https://open.spotify.com/track/7KPhwNko8V9vYBIN653hSO) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [A Cara do Crime 2 \(Cansou de Playboy\)](https://open.spotify.com/album/40CPfMR1GrVD0KHUBqpKD0) | 4:25 |
 | 49 | [carta aberta](https://open.spotify.com/track/4VI4yOAb7fWrFCnuGBIaeG) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [carta aberta](https://open.spotify.com/album/7yGXpufcJyZEZ5fcyv2NGq) | 4:22 |
 | 50 | [Sem Compaixão](https://open.spotify.com/track/1JY0M9yLPgv9VChWoCunYX) | [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Vetin](https://open.spotify.com/album/2GUMdFLAWolI1qxf7dcTbs) | 3:22 |
 
-Snapshot ID: `ajXYAAAAAADhEgJEXUoA6ARct3R1dYzv`
+Snapshot ID: `ajcpgAAAAAD3M+XchUP2yrpzadGXINIW`

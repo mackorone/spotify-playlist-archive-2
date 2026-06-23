@@ -2757,6 +2757,28 @@
     },
     {
       "album": {
+        "name": "Eye's On You",
+        "url": "https://open.spotify.com/album/3uuD9DtrH5r4xUQwjFdpXd"
+      },
+      "artists": [
+        {
+          "name": "The Jay Howie Trio",
+          "url": "https://open.spotify.com/artist/3oxYJ2fyfQDUvmf4N3bCkh"
+        },
+        {
+          "name": "Jay Howie",
+          "url": "https://open.spotify.com/artist/3eeXaYeN8szJWw3ziUOWdD"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Eye's On You",
+      "url": "https://open.spotify.com/track/31GtsNBfMAAgius6RmMWul"
+    },
+    {
+      "album": {
         "name": "Fairy Wings",
         "url": "https://open.spotify.com/album/2vyGVc7zSMlbPrQGRWX8Sd"
       },
@@ -6428,6 +6450,42 @@
       "duration_ms": 160335,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/1xHsQvCBHhiwOipWezwwGH"
+    },
+    {
+      "album": {
+        "name": "Injustice For All",
+        "url": "https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt"
+      },
+      "artists": [
+        {
+          "name": "Barmy Rote",
+          "url": "https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329480,
+      "name": "Remember Me",
+      "url": "https://open.spotify.com/track/5PK1dJanZLQX6XeRrby4CP"
+    },
+    {
+      "album": {
+        "name": "Renegade",
+        "url": "https://open.spotify.com/album/3vYFD37Z4kBwKK9VypycbE"
+      },
+      "artists": [
+        {
+          "name": "Nitrate",
+          "url": "https://open.spotify.com/artist/6wEVMZieIv9ttCzvuDYev8"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222911,
+      "name": "Renegade",
+      "url": "https://open.spotify.com/track/7evC29G5PpckrIySAJRTFm"
     },
     {
       "album": {

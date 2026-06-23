@@ -1,6 +1,6 @@
 {
   "description": "easy breezy music \u2600\ufe0f\u263a\ufe0f",
-  "num_followers": 168315,
+  "num_followers": 168324,
   "original_name": "Chill Dance",
   "owner": {
     "name": "Spotify",
@@ -531,26 +531,6 @@
     {
       "added_at": "2026-06-08 07:23:44",
       "album": {
-        "name": "Wait No More",
-        "url": "https://open.spotify.com/album/2pN0NBFLGJdHGKcRl2ccTg"
-      },
-      "artists": [
-        {
-          "name": "Twan Ray",
-          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
-        },
-        {
-          "name": "Lost Ways",
-          "url": "https://open.spotify.com/artist/4tI5grRhokUSIptaT5shnu"
-        }
-      ],
-      "duration_ms": 142956,
-      "name": "Wait No More",
-      "url": "https://open.spotify.com/track/0BNQCaSPM57wT2UsaoiyCC"
-    },
-    {
-      "added_at": "2026-06-08 07:23:44",
-      "album": {
         "name": "The Cocktail Hour",
         "url": "https://open.spotify.com/album/0eGzoGDUX6ZSQhuY8DT7Ct"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 211653,
       "name": "Supercolor (feat. CECI)",
       "url": "https://open.spotify.com/track/5MivC2zico0hz5JFvZK9lz"
+    },
+    {
+      "added_at": "2026-06-08 07:23:44",
+      "album": {
+        "name": "Wait No More",
+        "url": "https://open.spotify.com/album/2pN0NBFLGJdHGKcRl2ccTg"
+      },
+      "artists": [
+        {
+          "name": "Twan Ray",
+          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+        },
+        {
+          "name": "Lost Ways",
+          "url": "https://open.spotify.com/artist/4tI5grRhokUSIptaT5shnu"
+        }
+      ],
+      "duration_ms": 142956,
+      "name": "Wait No More",
+      "url": "https://open.spotify.com/track/0BNQCaSPM57wT2UsaoiyCC"
     },
     {
       "added_at": "2026-06-08 07:23:44",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2026-06-08 07:23:44",
       "album": {
-        "name": "Vanilla",
-        "url": "https://open.spotify.com/album/3qt6VmrM2TqtaU5dhSi847"
-      },
-      "artists": [
-        {
-          "name": "Marc Benjamin",
-          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
-        },
-        {
-          "name": "Hyce",
-          "url": "https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA"
-        }
-      ],
-      "duration_ms": 170297,
-      "name": "Vanilla",
-      "url": "https://open.spotify.com/track/5i3fyz5jSbt0YEMR9qrLbo"
-    },
-    {
-      "added_at": "2026-06-08 07:23:44",
-      "album": {
         "name": "Electric",
         "url": "https://open.spotify.com/album/2UNpZByJYcRTCNRSeUqst0"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 133565,
       "name": "Electric",
       "url": "https://open.spotify.com/track/51FFmeDLNlJUkueFkjtzxY"
+    },
+    {
+      "added_at": "2026-06-08 07:23:44",
+      "album": {
+        "name": "Vanilla",
+        "url": "https://open.spotify.com/album/3qt6VmrM2TqtaU5dhSi847"
+      },
+      "artists": [
+        {
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+        },
+        {
+          "name": "Hyce",
+          "url": "https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA"
+        }
+      ],
+      "duration_ms": 170297,
+      "name": "Vanilla",
+      "url": "https://open.spotify.com/track/5i3fyz5jSbt0YEMR9qrLbo"
     },
     {
       "added_at": "2026-06-08 07:23:44",

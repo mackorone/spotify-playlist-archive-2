@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 73,606 likes - 350 songs - 12 hr 0 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 73,604 likes - 350 songs - 12 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -283,7 +283,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 | 273 | [Solitude](https://open.spotify.com/track/5w9hJPwM2Bkvft55HO62tt) | [Notation](https://open.spotify.com/artist/6Ez42bOoRelk95xv7GBMhx) | [Solitude](https://open.spotify.com/album/5ECMOLONyUgbrrn4fktn8X) | 2:23 |
 | 274 | [Pale](https://open.spotify.com/track/4FzZk3w41AC7FHCCNtpuSL) | [Mareaux](https://open.spotify.com/artist/4VFYWiP5DA651ekOhEiO54), [MVCO](https://open.spotify.com/artist/3yzpAIlHPXZ2ieFL1J8Ozj) | [Pale](https://open.spotify.com/album/4bl1vbQDBJTa8WpnEv9RWx) | 3:21 |
 | 275 | [Last Time](https://open.spotify.com/track/6hzNAFOZxSehyIhgR8kuMk) | [Midnight Hour](https://open.spotify.com/artist/6UFBs0ELMi8M2SewSY3Zs5), [Two Scents](https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81), [Lé Mon](https://open.spotify.com/artist/3U3NnVCyS9UfVmCIHpb7Bo) | [Last Time](https://open.spotify.com/album/2eoID5wnm5Mccvw39sOd5u) | 2:02 |
-| 276 | [Estrada](https://open.spotify.com/track/0E7R67Za37Exg65AtS8Ry8) | [M e a d o w](https://open.spotify.com/artist/6kG4rnzy0AVEvZb7RGZtoy), [Noche](https://open.spotify.com/artist/3xB7gQn3CiHux1BM7fpWnN) | [Estrada](https://open.spotify.com/album/6j9F2uNGJivMkHdfN21IIL) | 2:38 |
+| 276 | [Estrada](https://open.spotify.com/track/0E7R67Za37Exg65AtS8Ry8) | [M e a d o w](https://open.spotify.com/artist/6kG4rnzy0AVEvZb7RGZtoy), [nøche](https://open.spotify.com/artist/5GiZKaN7sa5ylr3MI104Zz) | [Estrada](https://open.spotify.com/album/6j9F2uNGJivMkHdfN21IIL) | 2:38 |
 | 277 | [High Sizzle](https://open.spotify.com/track/36nl1bx1KktlHrzetIjfkG) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [High Sizzle](https://open.spotify.com/album/0pS6GAh62ydLrJufnX5OTl) | 1:57 |
 | 278 | [Water Music](https://open.spotify.com/track/0AmaMa5TYhIwYzpFgANqep) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Water Music](https://open.spotify.com/album/5cs6SLbGWWV83vY284Y9oi) | 2:53 |
 | 279 | [Bubble Butter](https://open.spotify.com/track/1GFuJBo2OS8VJKKe019Y58) | [Cvsket Pretty](https://open.spotify.com/artist/1B83te5eJCjyjR5b9s7h3I), [RINZ.](https://open.spotify.com/artist/1qc48l4N7tBU8sMOuIAa82) | [Bubble Butter](https://open.spotify.com/album/4ISr2WMhYAYsybZY37NUHL) | 2:09 |

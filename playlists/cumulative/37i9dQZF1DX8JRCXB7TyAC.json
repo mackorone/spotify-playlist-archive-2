@@ -663,6 +663,32 @@
     },
     {
       "album": {
+        "name": "Boyz In Bar",
+        "url": "https://open.spotify.com/album/6OlzS5PEKffkDKyVc1t2y7"
+      },
+      "artists": [
+        {
+          "name": "Suvir",
+          "url": "https://open.spotify.com/artist/0ACQfm6VJUstBUijhGgYFg"
+        },
+        {
+          "name": "Pablo",
+          "url": "https://open.spotify.com/artist/2aGhLC9R47KiiD1ZRjaHgq"
+        },
+        {
+          "name": "Real Raka",
+          "url": "https://open.spotify.com/artist/7DiKFC6GbY2W7Y7FlMmzyk"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "Boyz In Bar",
+      "url": "https://open.spotify.com/track/7tVDHY4FCGzPCBB5qhO74T"
+    },
+    {
+      "album": {
         "name": "Brand New",
         "url": "https://open.spotify.com/album/2dj8GXKlijOBhPcY9DXY2k"
       },
@@ -1012,7 +1038,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 203896,
       "name": "Dead Lift (feat. Neeraj Goyat & Raja Yadav)",
       "url": "https://open.spotify.com/track/2PnmxUT3UT8EIChBeWR9RG"

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Brand of Sacrifice
 
-[Spotify](https://open.spotify.com/user/spotify) - 794,394 likes - 140 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 794,439 likes - 140 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Seeing Red](https://open.spotify.com/track/4RCsxImpbVG07SZls4KShV) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod), [Michael Leo Valeri](https://open.spotify.com/artist/25Ov94sa39E3pwdQ4Rgk1S), [Liam Beeson](https://open.spotify.com/artist/1JzQLoxKEDECoItUP7jR8I), [Kyle Anderson](https://open.spotify.com/artist/74GuAuCz0mWRUiqL4KPJKh) | [This Place Wasn't Meant for Us](https://open.spotify.com/album/5Bd50hiF1gv2UU7ysnx3wM) | 4:22 |
+| 1 | [Seeing Red](https://open.spotify.com/track/4RCsxImpbVG07SZls4KShV) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [This Place Wasn't Meant for Us](https://open.spotify.com/album/5Bd50hiF1gv2UU7ysnx3wM) | 4:22 |
 | 2 | [R.I.P\. \(feat\. Skylar Grey\)](https://open.spotify.com/track/4t2iBQXTof6BoWCIxkgFF1) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [R.I.P\. \(feat\. Skylar Grey\)](https://open.spotify.com/album/2BdQsMhZDuxilUo1mG12OK) | 4:00 |
 | 3 | [Bullshit](https://open.spotify.com/track/7oA1ZNByPOTeJYz3tBGXas) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Bullshit](https://open.spotify.com/album/5ZS5O2upVRhSgeRiAlosYr) | 3:35 |
 | 4 | [rehearsed](https://open.spotify.com/track/1VPfyXKI6BgPVdX5ZfftSO) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [rehearsed](https://open.spotify.com/album/4B9NHa0X2zpwmOckDL4ZAD) | 1:50 |

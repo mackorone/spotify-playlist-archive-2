@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj zwyci\u0119zc\u00f3w i  nominowanych utwor\u00f3w w kategorii singiel roku. ",
-  "num_followers": 11759,
+  "num_followers": 11758,
   "original_name": "Popkillery 2026: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -151,6 +151,26 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
+        "name": "NAPISZ JAK B\u0118DZIESZ",
+        "url": "https://open.spotify.com/album/3GT8nm2EifN5XETCqz1ILe"
+      },
+      "artists": [
+        {
+          "name": "Sobel",
+          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+        },
+        {
+          "name": "francis",
+          "url": "https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko"
+        }
+      ],
+      "duration_ms": 148187,
+      "name": "CA\u0141E LATO",
+      "url": "https://open.spotify.com/track/51cTY5CXYRwZdAyWFzWsxt"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
         "name": "Plan B",
         "url": "https://open.spotify.com/album/5ecJS5eNY2SQZnzSOg4jwh"
       },
@@ -179,26 +199,6 @@
       "duration_ms": 192134,
       "name": "Plan B",
       "url": "https://open.spotify.com/track/2S6sxBlNqbxjsGMcSV8wqT"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
-        "name": "NAPISZ JAK B\u0118DZIESZ",
-        "url": "https://open.spotify.com/album/3GT8nm2EifN5XETCqz1ILe"
-      },
-      "artists": [
-        {
-          "name": "Sobel",
-          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
-        },
-        {
-          "name": "francis",
-          "url": "https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko"
-        }
-      ],
-      "duration_ms": 148187,
-      "name": "CA\u0141E LATO",
-      "url": "https://open.spotify.com/track/51cTY5CXYRwZdAyWFzWsxt"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
-        "name": "NEXT",
-        "url": "https://open.spotify.com/album/2WO3Kt3oLo4ApWcy6nFkQo"
-      },
-      "artists": [
-        {
-          "name": "javier",
-          "url": "https://open.spotify.com/artist/7cLA1cTY8dCn9Kb8r8JdKY"
-        }
-      ],
-      "duration_ms": 113089,
-      "name": "SIE KLEI",
-      "url": "https://open.spotify.com/track/6hTcG0znsgf33wBAnf8P8y"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
         "name": "Po\u0142\u0105czenia 2",
         "url": "https://open.spotify.com/album/2feprtPOCyMVM6HW7j3taF"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 166285,
       "name": "Ruchy",
       "url": "https://open.spotify.com/track/267Idgd3aoiep1efGLZIRC"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
+        "name": "NEXT",
+        "url": "https://open.spotify.com/album/2WO3Kt3oLo4ApWcy6nFkQo"
+      },
+      "artists": [
+        {
+          "name": "javier",
+          "url": "https://open.spotify.com/artist/7cLA1cTY8dCn9Kb8r8JdKY"
+        }
+      ],
+      "duration_ms": 113089,
+      "name": "SIE KLEI",
+      "url": "https://open.spotify.com/track/6hTcG0znsgf33wBAnf8P8y"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
+        "name": "BUKOWSKI",
+        "url": "https://open.spotify.com/album/1lSvpuKWJUxISwWHRieKui"
+      },
+      "artists": [
+        {
+          "name": "Ten Typ Mes",
+          "url": "https://open.spotify.com/artist/3AU8FAva0w5qdrf5IVu620"
+        }
+      ],
+      "duration_ms": 131076,
+      "name": "LOS NIE CHCIA\u0141 INACZEJ",
+      "url": "https://open.spotify.com/track/5h6pVFRP8dxX1F0OKHgczM"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
         "name": "Przytul Jacka",
         "url": "https://open.spotify.com/album/66nDvtAJIbAG085Ow4vedG"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 307562,
       "name": "Przytul Jacka",
       "url": "https://open.spotify.com/track/7uxrhskRmMqgH1WkQtNVVb"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
-        "name": "BUKOWSKI",
-        "url": "https://open.spotify.com/album/1lSvpuKWJUxISwWHRieKui"
-      },
-      "artists": [
-        {
-          "name": "Ten Typ Mes",
-          "url": "https://open.spotify.com/artist/3AU8FAva0w5qdrf5IVu620"
-        }
-      ],
-      "duration_ms": 131076,
-      "name": "LOS NIE CHCIA\u0141 INACZEJ",
-      "url": "https://open.spotify.com/track/5h6pVFRP8dxX1F0OKHgczM"
     },
     {
       "added_at": "2026-04-09 22:12:46",

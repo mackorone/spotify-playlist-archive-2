@@ -1,6 +1,6 @@
 {
   "description": "Let go and let God.",
-  "num_followers": 346266,
+  "num_followers": 346254,
   "original_name": "Be Still",
   "owner": {
     "name": "Spotify",
@@ -51,22 +51,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "At The Altar (acoustic)",
-        "url": "https://open.spotify.com/album/1FpQnlVxG5htZuiX3QtTiz"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 217857,
-      "name": "At The Altar (acoustic)",
-      "url": "https://open.spotify.com/track/4pD3LcBiP1HaINhC4j5QDi"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "Consider Him",
         "url": "https://open.spotify.com/album/3ycOePI4xr5Z9z66XWPm5w"
       },
@@ -83,6 +67,22 @@
       "duration_ms": 568546,
       "name": "Consider Him",
       "url": "https://open.spotify.com/track/3jxmJxj1fGRmV9ZGyOdCvr"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "At The Altar (acoustic)",
+        "url": "https://open.spotify.com/album/1FpQnlVxG5htZuiX3QtTiz"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "duration_ms": 217857,
+      "name": "At The Altar (acoustic)",
+      "url": "https://open.spotify.com/track/4pD3LcBiP1HaINhC4j5QDi"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "taking my time",
-        "url": "https://open.spotify.com/album/7pO51aCa2ipEwMlCSxyIAl"
-      },
-      "artists": [
-        {
-          "name": "Cade Biers",
-          "url": "https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj"
-        }
-      ],
-      "duration_ms": 244109,
-      "name": "taking my time",
-      "url": "https://open.spotify.com/track/72e5glwqOjwtCoqQqnHzlu"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "Wait On You",
         "url": "https://open.spotify.com/album/43XE5518l2BLCQmqwSA15A"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 278035,
       "name": "Praise",
       "url": "https://open.spotify.com/track/7pG1MzJgF91mS2PNAZ4LXd"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "taking my time",
+        "url": "https://open.spotify.com/album/7pO51aCa2ipEwMlCSxyIAl"
+      },
+      "artists": [
+        {
+          "name": "Cade Biers",
+          "url": "https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj"
+        }
+      ],
+      "duration_ms": 244109,
+      "name": "taking my time",
+      "url": "https://open.spotify.com/track/72e5glwqOjwtCoqQqnHzlu"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Day The Lord Has Made",
-        "url": "https://open.spotify.com/album/2TIPRkjEJij0dleJPPOFta"
-      },
-      "artists": [
-        {
-          "name": "Jess Ray",
-          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
-        }
-      ],
-      "duration_ms": 304800,
-      "name": "Day The Lord Has Made",
-      "url": "https://open.spotify.com/track/1CTTmuPgsgi6e0ZgOEPhel"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "UNION",
         "url": "https://open.spotify.com/album/0NNV9E7n3DiKP7bUZxXo20"
       },
@@ -895,6 +879,22 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
+        "name": "Day The Lord Has Made",
+        "url": "https://open.spotify.com/album/2TIPRkjEJij0dleJPPOFta"
+      },
+      "artists": [
+        {
+          "name": "Jess Ray",
+          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
+        }
+      ],
+      "duration_ms": 304800,
+      "name": "Day The Lord Has Made",
+      "url": "https://open.spotify.com/track/1CTTmuPgsgi6e0ZgOEPhel"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/6d8x2X8GleIBbRvAU2zVDL"
       },
@@ -907,46 +907,6 @@
       "duration_ms": 369782,
       "name": "Easy",
       "url": "https://open.spotify.com/track/6wLGR76rJ1HqWUJshvWbtM"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
-        "name": "Take It All Back (Acoustic)",
-        "url": "https://open.spotify.com/album/2FW6TWA6ccm3KS3ssxAE5O"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "Josh Bissell",
-          "url": "https://open.spotify.com/artist/3ONpzdlUSJTTVG3HZhOSwY"
-        },
-        {
-          "name": "Davies.",
-          "url": "https://open.spotify.com/artist/4gHYwyqJOALI9pJO1QCzq8"
-        }
-      ],
-      "duration_ms": 237417,
-      "name": "Take It All Back - Acoustic",
-      "url": "https://open.spotify.com/track/1QCe8uDq9pJWls24qMuNzx"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
-        "name": "LOVER",
-        "url": "https://open.spotify.com/album/3NkS2GvxK92mCRj3uZqUeE"
-      },
-      "artists": [
-        {
-          "name": "Sondae",
-          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "LOVER",
-      "url": "https://open.spotify.com/track/7HAbiaGuKiebH5AE3xSNzZ"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -979,6 +939,46 @@
       "duration_ms": 196878,
       "name": "Goodbye Yesterday",
       "url": "https://open.spotify.com/track/7taSVgFjoRGzAgjWGRYx9q"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "LOVER",
+        "url": "https://open.spotify.com/album/3NkS2GvxK92mCRj3uZqUeE"
+      },
+      "artists": [
+        {
+          "name": "Sondae",
+          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "LOVER",
+      "url": "https://open.spotify.com/track/7HAbiaGuKiebH5AE3xSNzZ"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "Take It All Back (Acoustic)",
+        "url": "https://open.spotify.com/album/2FW6TWA6ccm3KS3ssxAE5O"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Josh Bissell",
+          "url": "https://open.spotify.com/artist/3ONpzdlUSJTTVG3HZhOSwY"
+        },
+        {
+          "name": "Davies.",
+          "url": "https://open.spotify.com/artist/4gHYwyqJOALI9pJO1QCzq8"
+        }
+      ],
+      "duration_ms": 237417,
+      "name": "Take It All Back - Acoustic",
+      "url": "https://open.spotify.com/track/1QCe8uDq9pJWls24qMuNzx"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Trust In God (Acoustic)",
-        "url": "https://open.spotify.com/album/3giS5SE0lcdIUVUIqNXJay"
-      },
-      "artists": [
-        {
-          "name": "Will Morrison",
-          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
-        }
-      ],
-      "duration_ms": 307247,
-      "name": "Trust In God - Acoustic",
-      "url": "https://open.spotify.com/track/45h3M5mnqeoCRuNUEKxuNO"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "Little Big Dreams",
         "url": "https://open.spotify.com/album/31kG968T4NmPlLaFynGNLz"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 266326,
       "name": "Little Big Dreams",
       "url": "https://open.spotify.com/track/7pJU4hwoSBRlQ2FaBcASK6"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "Trust In God (Acoustic)",
+        "url": "https://open.spotify.com/album/3giS5SE0lcdIUVUIqNXJay"
+      },
+      "artists": [
+        {
+          "name": "Will Morrison",
+          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
+        }
+      ],
+      "duration_ms": 307247,
+      "name": "Trust In God - Acoustic",
+      "url": "https://open.spotify.com/track/45h3M5mnqeoCRuNUEKxuNO"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
+        "name": "Goodnight, May God Bless You",
+        "url": "https://open.spotify.com/album/0e1Wtk5B9yegFcB7wcXGWd"
+      },
+      "artists": [
+        {
+          "name": "dooda",
+          "url": "https://open.spotify.com/artist/0rekw65xpOtFS33lToCMiW"
+        },
+        {
+          "name": "Braiden Sunshine",
+          "url": "https://open.spotify.com/artist/4n6h0CzfABVqVjQASPaNb0"
+        }
+      ],
+      "duration_ms": 155067,
+      "name": "Goodnight, May God Bless You",
+      "url": "https://open.spotify.com/track/1O8hBLPze5cKFvsncfd43B"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
         "name": "This is How I Thank The Lord (Acoustic)",
         "url": "https://open.spotify.com/album/477g5LoFRhCg7EpfbQIlxZ"
       },
@@ -1235,22 +1255,18 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Goodnight, May God Bless You",
-        "url": "https://open.spotify.com/album/0e1Wtk5B9yegFcB7wcXGWd"
+        "name": "All Blessing",
+        "url": "https://open.spotify.com/album/0gmV0YaQmCDasG9wmMgqpG"
       },
       "artists": [
         {
-          "name": "dooda",
-          "url": "https://open.spotify.com/artist/0rekw65xpOtFS33lToCMiW"
-        },
-        {
-          "name": "Braiden Sunshine",
-          "url": "https://open.spotify.com/artist/4n6h0CzfABVqVjQASPaNb0"
+          "name": "Anna Childs",
+          "url": "https://open.spotify.com/artist/3uLkyG01b7EWl1e1RM3Jck"
         }
       ],
-      "duration_ms": 155067,
-      "name": "Goodnight, May God Bless You",
-      "url": "https://open.spotify.com/track/1O8hBLPze5cKFvsncfd43B"
+      "duration_ms": 256190,
+      "name": "All Blessing",
+      "url": "https://open.spotify.com/track/77akNBdUgVyOW1ECLt94BX"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1271,22 +1287,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "All Blessing",
-        "url": "https://open.spotify.com/album/0gmV0YaQmCDasG9wmMgqpG"
-      },
-      "artists": [
-        {
-          "name": "Anna Childs",
-          "url": "https://open.spotify.com/artist/3uLkyG01b7EWl1e1RM3Jck"
-        }
-      ],
-      "duration_ms": 256190,
-      "name": "All Blessing",
-      "url": "https://open.spotify.com/track/77akNBdUgVyOW1ECLt94BX"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "Orange Streetlights (Acoustic Version)",
         "url": "https://open.spotify.com/album/3nD2x0NB49c0XY5EXC3tWW"
       },
@@ -1299,22 +1299,6 @@
       "duration_ms": 215000,
       "name": "Orange Streetlights - Acoustic Version",
       "url": "https://open.spotify.com/track/7ARJORinm3hArKdebAj4AT"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
-        "name": "PERFECT LOVE",
-        "url": "https://open.spotify.com/album/0PMxARqTORfITZcNB0DXKl"
-      },
-      "artists": [
-        {
-          "name": "MARV",
-          "url": "https://open.spotify.com/artist/4jBiLv1a8QGElMKTozxv35"
-        }
-      ],
-      "duration_ms": 195683,
-      "name": "PERFECT LOVE",
-      "url": "https://open.spotify.com/track/4P5H3ON3UdK7RevB4Pad7j"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1335,6 +1319,22 @@
       "duration_ms": 216400,
       "name": "Precious Gold",
       "url": "https://open.spotify.com/track/3PlBhFVssO6n9qfEBnQDT9"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "PERFECT LOVE",
+        "url": "https://open.spotify.com/album/0PMxARqTORfITZcNB0DXKl"
+      },
+      "artists": [
+        {
+          "name": "MARV",
+          "url": "https://open.spotify.com/artist/4jBiLv1a8QGElMKTozxv35"
+        }
+      ],
+      "duration_ms": 195683,
+      "name": "PERFECT LOVE",
+      "url": "https://open.spotify.com/track/4P5H3ON3UdK7RevB4Pad7j"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "BROKEN BUT I RISE",
-        "url": "https://open.spotify.com/album/0nYNua9sCXMBEiVX8wvtri"
-      },
-      "artists": [
-        {
-          "name": "New Path Worship",
-          "url": "https://open.spotify.com/artist/4yCUY08zixGRrIgIpre2Hx"
-        }
-      ],
-      "duration_ms": 199719,
-      "name": "BROKEN BUT I RISE",
-      "url": "https://open.spotify.com/track/2eEB9M9XOw4T41uc2Q8WYm"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "OMG",
         "url": "https://open.spotify.com/album/66y97RsgjPCEUB7AlsZaiT"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 143947,
       "name": "OMG",
       "url": "https://open.spotify.com/track/3MJScW03etExqb2Slzbdhq"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "BROKEN BUT I RISE",
+        "url": "https://open.spotify.com/album/0nYNua9sCXMBEiVX8wvtri"
+      },
+      "artists": [
+        {
+          "name": "New Path Worship",
+          "url": "https://open.spotify.com/artist/4yCUY08zixGRrIgIpre2Hx"
+        }
+      ],
+      "duration_ms": 199719,
+      "name": "BROKEN BUT I RISE",
+      "url": "https://open.spotify.com/track/2eEB9M9XOw4T41uc2Q8WYm"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "The Shepherd, a folk-hop beat tape",
-        "url": "https://open.spotify.com/album/6TFgl5OXOPWDrWAxJ63nEy"
-      },
-      "artists": [
-        {
-          "name": "C4C",
-          "url": "https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr"
-        }
-      ],
-      "duration_ms": 125281,
-      "name": "my refuge",
-      "url": "https://open.spotify.com/track/54MQrGFEVRzKxVoxvHkQ4y"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/6AWWQnjfpWdbCTbS0N76T3"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 174545,
       "name": "Water",
       "url": "https://open.spotify.com/track/7rg62pkS9UmBoBEHdlzd0n"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "The Shepherd, a folk-hop beat tape",
+        "url": "https://open.spotify.com/album/6TFgl5OXOPWDrWAxJ63nEy"
+      },
+      "artists": [
+        {
+          "name": "C4C",
+          "url": "https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr"
+        }
+      ],
+      "duration_ms": 125281,
+      "name": "my refuge",
+      "url": "https://open.spotify.com/track/54MQrGFEVRzKxVoxvHkQ4y"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Slow Burn (Take Your Time)",
-        "url": "https://open.spotify.com/album/6fIdUctKitYtODWnVbg2Dg"
-      },
-      "artists": [
-        {
-          "name": "darthy",
-          "url": "https://open.spotify.com/artist/1MztshwDYEwUsUI7iMHPxr"
-        }
-      ],
-      "duration_ms": 183205,
-      "name": "Slow Burn (Take Your Time)",
-      "url": "https://open.spotify.com/track/1g67bntsFM2MrXyz9u5Ken"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "Ain't It Beautiful",
         "url": "https://open.spotify.com/album/50CCqxmOoeKYAtzdQg8Tyq"
       },
@@ -1623,6 +1607,22 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
+        "name": "Slow Burn (Take Your Time)",
+        "url": "https://open.spotify.com/album/6fIdUctKitYtODWnVbg2Dg"
+      },
+      "artists": [
+        {
+          "name": "darthy",
+          "url": "https://open.spotify.com/artist/1MztshwDYEwUsUI7iMHPxr"
+        }
+      ],
+      "duration_ms": 183205,
+      "name": "Slow Burn (Take Your Time)",
+      "url": "https://open.spotify.com/track/1g67bntsFM2MrXyz9u5Ken"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
         "name": "Worthy Of It All (Acoustic)",
         "url": "https://open.spotify.com/album/7GkuUosjNEYpWWtUa3fq1s"
       },
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Heavenly Places",
-        "url": "https://open.spotify.com/album/7IMLyMMCKYXfQvlkJfvB5n"
-      },
-      "artists": [
-        {
-          "name": "Ethan Nathaniel",
-          "url": "https://open.spotify.com/artist/5tGobqZ8J0XMtFl3H589Sv"
-        }
-      ],
-      "duration_ms": 194332,
-      "name": "Heavenly Places",
-      "url": "https://open.spotify.com/track/008RdIQfWtoSKt1xs4VwrC"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "Ordinary Miracle",
         "url": "https://open.spotify.com/album/2QkrEOaBQb6PxUslSGu3Yu"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 224350,
       "name": "Ordinary Miracle",
       "url": "https://open.spotify.com/track/1Tu6GUElqFOmZLvFvv3u0C"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "Heavenly Places",
+        "url": "https://open.spotify.com/album/7IMLyMMCKYXfQvlkJfvB5n"
+      },
+      "artists": [
+        {
+          "name": "Ethan Nathaniel",
+          "url": "https://open.spotify.com/artist/5tGobqZ8J0XMtFl3H589Sv"
+        }
+      ],
+      "duration_ms": 194332,
+      "name": "Heavenly Places",
+      "url": "https://open.spotify.com/track/008RdIQfWtoSKt1xs4VwrC"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1839,6 +1839,22 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/30fP7ylLbRJJVKIkVIBgqo"
+      },
+      "artists": [
+        {
+          "name": "NONAH",
+          "url": "https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI"
+        }
+      ],
+      "duration_ms": 207999,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/7wQaAiowCmh3TaTMwv2i46"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
         "name": "Do it Afraid",
         "url": "https://open.spotify.com/album/6GavSFP4o2UDFcNqK6LNAR"
       },
@@ -1855,22 +1871,6 @@
       "duration_ms": 164605,
       "name": "Do it Afraid",
       "url": "https://open.spotify.com/track/0StcAP13GuQxuhkC8JNTzd"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
-        "name": "Beautiful",
-        "url": "https://open.spotify.com/album/30fP7ylLbRJJVKIkVIBgqo"
-      },
-      "artists": [
-        {
-          "name": "NONAH",
-          "url": "https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI"
-        }
-      ],
-      "duration_ms": 207999,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/7wQaAiowCmh3TaTMwv2i46"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "God Is Love",
-        "url": "https://open.spotify.com/album/1qo1kILODkFrkg5oJTNGzL"
-      },
-      "artists": [
-        {
-          "name": "Paul Zach",
-          "url": "https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38"
-        }
-      ],
-      "duration_ms": 308560,
-      "name": "God Is Love",
-      "url": "https://open.spotify.com/track/4q5xJZOlHLtlnrN8P3oAXJ"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "Sunrise",
         "url": "https://open.spotify.com/album/51liDjbYOuhLfFCpGATjqF"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 217084,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/63TTQznl7Jmazif66HLiab"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "God Is Love",
+        "url": "https://open.spotify.com/album/1qo1kILODkFrkg5oJTNGzL"
+      },
+      "artists": [
+        {
+          "name": "Paul Zach",
+          "url": "https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38"
+        }
+      ],
+      "duration_ms": 308560,
+      "name": "God Is Love",
+      "url": "https://open.spotify.com/track/4q5xJZOlHLtlnrN8P3oAXJ"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Dust",
-        "url": "https://open.spotify.com/album/1k3GoQXFpiy78Zgo4ADtk0"
-      },
-      "artists": [
-        {
-          "name": "Seth Carpenter",
-          "url": "https://open.spotify.com/artist/2jveyjr93fq4ZFgIjG4vFt"
-        }
-      ],
-      "duration_ms": 290526,
-      "name": "Dust",
-      "url": "https://open.spotify.com/track/37k1i0VC94PXvH8O3oOeEr"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "Who Else (Acoustic Worship)",
         "url": "https://open.spotify.com/album/5AIOqbo6WaxiDnt8lT9XAO"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 243529,
       "name": "Who Else - Acoustic Worship",
       "url": "https://open.spotify.com/track/4bh7WRedFebCSJOxyIqgKU"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "Dust",
+        "url": "https://open.spotify.com/album/1k3GoQXFpiy78Zgo4ADtk0"
+      },
+      "artists": [
+        {
+          "name": "Seth Carpenter",
+          "url": "https://open.spotify.com/artist/2jveyjr93fq4ZFgIjG4vFt"
+        }
+      ],
+      "duration_ms": 290526,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/37k1i0VC94PXvH8O3oOeEr"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -2543,6 +2543,22 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
+        "name": "By The Grace Of God",
+        "url": "https://open.spotify.com/album/4Eiw1Sgm3uJO0HM7KqMOvE"
+      },
+      "artists": [
+        {
+          "name": "Nick Herbert",
+          "url": "https://open.spotify.com/artist/2d1xKAOMjV142Pf9cEmYeS"
+        }
+      ],
+      "duration_ms": 281666,
+      "name": "By The Grace Of God",
+      "url": "https://open.spotify.com/track/1QHsyfUYoE8s9Z6VpOeAGe"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
         "name": "Precious Wine",
         "url": "https://open.spotify.com/album/5aZ4Gy4rkDIdmcpVmwNRAn"
       },
@@ -2563,22 +2579,6 @@
       "duration_ms": 378181,
       "name": "Precious Wine",
       "url": "https://open.spotify.com/track/0nkjRQ02czr5R11E0EeWCb"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
-        "name": "By The Grace Of God",
-        "url": "https://open.spotify.com/album/4Eiw1Sgm3uJO0HM7KqMOvE"
-      },
-      "artists": [
-        {
-          "name": "Nick Herbert",
-          "url": "https://open.spotify.com/artist/2d1xKAOMjV142Pf9cEmYeS"
-        }
-      ],
-      "duration_ms": 281666,
-      "name": "By The Grace Of God",
-      "url": "https://open.spotify.com/track/1QHsyfUYoE8s9Z6VpOeAGe"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -2623,6 +2623,22 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
+        "name": "The Way of Love",
+        "url": "https://open.spotify.com/album/27B6xYGSZ31DjV0XXqeerp"
+      },
+      "artists": [
+        {
+          "name": "Tenielle Neda",
+          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
+        }
+      ],
+      "duration_ms": 231293,
+      "name": "The Way of Love",
+      "url": "https://open.spotify.com/track/7dPy7qLhDbkwqsStowDcFq"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
         "name": "The Healing (Acoustic)",
         "url": "https://open.spotify.com/album/2pKKXg0ObkBNOwpPTTVhZW"
       },
@@ -2643,38 +2659,22 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "The Way of Love",
-        "url": "https://open.spotify.com/album/27B6xYGSZ31DjV0XXqeerp"
+        "name": "The Pressing In: Piano Sessions",
+        "url": "https://open.spotify.com/album/3qwA60ZIxRxpd7RZ3xNSD3"
       },
       "artists": [
         {
-          "name": "Tenielle Neda",
-          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
-        }
-      ],
-      "duration_ms": 231293,
-      "name": "The Way of Love",
-      "url": "https://open.spotify.com/track/7dPy7qLhDbkwqsStowDcFq"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
-        "name": "You Are Holy / Falling In Love With Jesus",
-        "url": "https://open.spotify.com/album/391izZ6H98ZIMQ6WGZT9o4"
-      },
-      "artists": [
-        {
-          "name": "David Andrew",
-          "url": "https://open.spotify.com/artist/44nxpJ4QALHoSoUFpWiIQc"
+          "name": "Eliza King",
+          "url": "https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa"
         },
         {
-          "name": "David Soh",
-          "url": "https://open.spotify.com/artist/5gQJetIU8Kv0bvDgAusFeO"
+          "name": "Brett Shaw",
+          "url": "https://open.spotify.com/artist/0cPXxP2NntqpqKvXqRjbfP"
         }
       ],
-      "duration_ms": 182413,
-      "name": "You Are Holy / Falling In Love With Jesus",
-      "url": "https://open.spotify.com/track/7o65kENeLGJbAPrn4MwyfB"
+      "duration_ms": 289500,
+      "name": "Poor In Spirit - Live",
+      "url": "https://open.spotify.com/track/1r481zZyjH3m3bDvHu9jCH"
     }
   ],
   "unique_name": "Be Still",

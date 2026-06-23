@@ -1,6 +1,6 @@
 {
   "description": "the soundtrack for your vitamin d fix. ",
-  "num_followers": 1144757,
+  "num_followers": 1144711,
   "original_name": "Soak Up The Sun",
   "owner": {
     "name": "Spotify",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2025-10-10 04:00:44",
       "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/14VtoUzT2LOwUwyZPbCKY1"
+      },
+      "artists": [
+        {
+          "name": "The Moss",
+          "url": "https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma"
+        }
+      ],
+      "duration_ms": 192135,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/35Z7oHhfYZJ5KTAG87nWPb"
+    },
+    {
+      "added_at": "2025-10-10 04:00:44",
+      "album": {
         "name": "One That Got Away",
         "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 300487,
       "name": "Wreckage",
       "url": "https://open.spotify.com/track/083LM23MmqS8HTTYZQrYxG"
-    },
-    {
-      "added_at": "2025-10-10 04:00:44",
-      "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/14VtoUzT2LOwUwyZPbCKY1"
-      },
-      "artists": [
-        {
-          "name": "The Moss",
-          "url": "https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma"
-        }
-      ],
-      "duration_ms": 192135,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/35Z7oHhfYZJ5KTAG87nWPb"
     },
     {
       "added_at": "2025-10-10 04:00:44",

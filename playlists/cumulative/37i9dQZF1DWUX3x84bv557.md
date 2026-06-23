@@ -4,7 +4,7 @@
 
 > Frisse Nederlandse pop\. Cover: Benjamin
 
-1,357 songs - 2 day 16 hr 47 min
+1,358 songs - 2 day 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,6 +335,7 @@
 | [Doodsbang](https://open.spotify.com/track/5CLWh2VzaJwNyfxNBMYEb7) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [FLEMMING](https://open.spotify.com/album/6JTROG4csRswIQjmmvujgy) | 3:02 | 2023-02-23 | 2023-03-18 |
 | [Door De Regen](https://open.spotify.com/track/5t5TOLejRhyJ5Pe0VQTgXK) | [LAUF](https://open.spotify.com/artist/5ZTKDvzvC98RpTs4TUbilD) | [Door De Regen](https://open.spotify.com/album/5uY8iQGj3xTG9ZeSviU9gI) | 2:36 | 2023-11-02 | 2024-03-15 |
 | [Door En Door](https://open.spotify.com/track/7cATx9Gorgj9VCl97NCWRe) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Door En Door](https://open.spotify.com/album/4MM2s2BHa319dYoeSD4e9h) | 3:13 | 2025-02-27 | 2025-05-30 |
+| [Door Het Oog Van De Nacht](https://open.spotify.com/track/0uWmcPc7Ie30nyNrsHnTjR) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Door Het Oog Van De Nacht](https://open.spotify.com/album/7BRsfyW9ugAffAfhAo3yim) | 2:54 | 2026-06-22 |  |
 | [Door me heen](https://open.spotify.com/track/5w2ik1kdMwpU5Nhcudy8Px) | [Bibi van Ansem](https://open.spotify.com/artist/0MpQgnQ7AAiqpvXLq5cXVF) | [Door me heen](https://open.spotify.com/album/3gPLKWbpvw3qq2faXd5AVa) | 3:15 | 2026-03-12 | 2026-05-15 |
 | [Door Weer En Wind](https://open.spotify.com/track/1kAPdyoWB9Mw5CA6zuRVyD) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb) | [Dit Is Het Levenslied](https://open.spotify.com/album/4SbVeX0bcpWLLFlyTMMvlc) | 4:01 | 2023-08-24 | 2023-11-03 |
 | [DOPAMINE](https://open.spotify.com/track/6Z0ydsxwmkKL8yPX0RFjT0) | [Adriaan Persons](https://open.spotify.com/artist/1TPrAXJAcBA8sUPNN39eZg) | [DOPAMINE](https://open.spotify.com/album/4kA2V4fDHI0krhrwkb5XDn) | 2:44 | 2024-01-25 | 2024-05-07 |
@@ -630,7 +631,7 @@
 | [Jij & Ik Alleen](https://open.spotify.com/track/5K0KSb4AjGSrJUlOXGSN0R) | [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS) | [Jij & Ik Alleen](https://open.spotify.com/album/2TCT4iGTV8xOkOnM0LaPxP) | 3:55 | 2025-02-13 | 2025-03-07 |
 | [Jij Bent Het](https://open.spotify.com/track/4WSbSPMqpwoYFWk9H9jY2v) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Bart en Robin](https://open.spotify.com/album/1D2kBgIwNIMiVoeSZdf284) | 2:24 | 2023-02-23 | 2023-05-27 |
 | [Jij Bent Meer Dan Een Deel Van Mij](https://open.spotify.com/track/77ySbPXifSKDxDn2JXew4M) | [Jim Bakkum](https://open.spotify.com/artist/0RJ6eS1cimNNF64vRXGwfD) | [Jij Bent Meer Dan Een Deel Van Mij](https://open.spotify.com/album/1qSK8rW3dXofGpdZmtWg61) | 2:54 | 2023-06-29 | 2023-09-15 |
-| [Jij Brak Mij Eerst](https://open.spotify.com/track/7ifh5eOXY31vZbECM4zis8) | [VALERIE](https://open.spotify.com/artist/5ezjMqj9XmWro3bbvSP4qe) | [Jij Brak Mij Eerst](https://open.spotify.com/album/3JdXDVYJfpB1iJoPE64yoo) | 2:57 | 2026-04-09 |  |
+| [Jij Brak Mij Eerst](https://open.spotify.com/track/7ifh5eOXY31vZbECM4zis8) | [VALERIE](https://open.spotify.com/artist/5ezjMqj9XmWro3bbvSP4qe) | [Jij Brak Mij Eerst](https://open.spotify.com/album/3JdXDVYJfpB1iJoPE64yoo) | 2:57 | 2026-04-09 | 2026-06-23 |
 | [Jij Leeft Vannacht](https://open.spotify.com/track/3mmIjKPdVng2757tlmPmqK) | [HENS.](https://open.spotify.com/artist/2NS4pMOCSx9pvkdBof84jL) | [Jij Leeft Vannacht](https://open.spotify.com/album/3YCBopQ8oTSVJ7CppkLMWT) | 2:55 | 2024-09-26 | 2024-11-05 |
 | [Jij Verdient Het](https://open.spotify.com/track/1uXrlxv9eSdCnYtUD5hafk) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Jij Verdient Het](https://open.spotify.com/album/1sQLV0R27jVUCxY134ntKB) | 3:26 | 2025-11-20 | 2026-03-13 |
 | [Jij voelt als de lente](https://open.spotify.com/track/6DrNj4dZsCEFflHIovlGyk) | [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Jij voelt als de lente](https://open.spotify.com/album/3BWAzWfk9iyY7Rc5jj88kK) | 2:42 | 2024-03-21 | 2024-06-01 |

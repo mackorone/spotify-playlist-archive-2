@@ -1,6 +1,6 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Andr\u00e9 e Felipe",
-  "num_followers": 112941,
+  "num_followers": 112966,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
@@ -239,38 +239,6 @@
     {
       "added_at": "2026-02-27 03:01:13",
       "album": {
-        "name": "Minha Ilha",
-        "url": "https://open.spotify.com/album/02Tuv2t5HpJcHCu9bjyrCb"
-      },
-      "artists": [
-        {
-          "name": "Marcos e Matteus",
-          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
-        }
-      ],
-      "duration_ms": 284505,
-      "name": "Minha Ilha",
-      "url": "https://open.spotify.com/track/0DKrKNKy0Mi7alxkaebj5x"
-    },
-    {
-      "added_at": "2026-02-27 03:01:13",
-      "album": {
-        "name": "Meu Barquinho",
-        "url": "https://open.spotify.com/album/3jpOEOizUzsvAkVNdmnF86"
-      },
-      "artists": [
-        {
-          "name": "Nani Azevedo",
-          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
-        }
-      ],
-      "duration_ms": 195520,
-      "name": "Meu Barquinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/3zE6VnZ7RuUNiftqoi51eg"
-    },
-    {
-      "added_at": "2026-02-27 03:01:13",
-      "album": {
         "name": "Um Lugar \u00e0 Mesa",
         "url": "https://open.spotify.com/album/0kf7qdQiYbMYscCt17cBW4"
       },
@@ -291,18 +259,34 @@
     {
       "added_at": "2026-02-27 03:01:13",
       "album": {
-        "name": "Situa\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/1EcK5zQWGrS0Kcrp7RMFUq"
+        "name": "Meu Barquinho",
+        "url": "https://open.spotify.com/album/3jpOEOizUzsvAkVNdmnF86"
       },
       "artists": [
         {
-          "name": "Stefhany",
-          "url": "https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9"
+          "name": "Nani Azevedo",
+          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
         }
       ],
-      "duration_ms": 261967,
-      "name": "Situa\u00e7\u00f5es",
-      "url": "https://open.spotify.com/track/0NxxwJsa9DO5oCRpiPet5G"
+      "duration_ms": 195520,
+      "name": "Meu Barquinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/3zE6VnZ7RuUNiftqoi51eg"
+    },
+    {
+      "added_at": "2026-02-27 03:01:13",
+      "album": {
+        "name": "Minha Ilha",
+        "url": "https://open.spotify.com/album/02Tuv2t5HpJcHCu9bjyrCb"
+      },
+      "artists": [
+        {
+          "name": "Marcos e Matteus",
+          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
+        }
+      ],
+      "duration_ms": 284505,
+      "name": "Minha Ilha",
+      "url": "https://open.spotify.com/track/0DKrKNKy0Mi7alxkaebj5x"
     },
     {
       "added_at": "2026-02-27 03:01:13",
@@ -319,6 +303,22 @@
       "duration_ms": 249344,
       "name": "Estou Contigo",
       "url": "https://open.spotify.com/track/4Flh4Rfy3yFmHqtlkh7bk2"
+    },
+    {
+      "added_at": "2026-02-27 03:01:13",
+      "album": {
+        "name": "Situa\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/1EcK5zQWGrS0Kcrp7RMFUq"
+      },
+      "artists": [
+        {
+          "name": "Stefhany",
+          "url": "https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9"
+        }
+      ],
+      "duration_ms": 261967,
+      "name": "Situa\u00e7\u00f5es",
+      "url": "https://open.spotify.com/track/0NxxwJsa9DO5oCRpiPet5G"
     },
     {
       "added_at": "2026-02-27 03:01:13",
@@ -419,18 +419,18 @@
     {
       "added_at": "2026-02-27 03:01:13",
       "album": {
-        "name": "Voz e Viol\u00e3o - Parte 2",
-        "url": "https://open.spotify.com/album/64mh0kkVSRHTxCg0gv9Eqk"
+        "name": "Estou de Volta",
+        "url": "https://open.spotify.com/album/28G7PR9ps744oUELPTIZTf"
       },
       "artists": [
         {
-          "name": "Daniel & Samuel",
-          "url": "https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU"
+          "name": "Lucas Roque e Gabriel",
+          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
         }
       ],
-      "duration_ms": 324082,
-      "name": "Voc\u00ea \u00c9 Especial - Voz e Viol\u00e3o",
-      "url": "https://open.spotify.com/track/7ClfYG4BrlyAP3bbv4Xk1w"
+      "duration_ms": 245000,
+      "name": "Estou de Volta",
+      "url": "https://open.spotify.com/track/3EQ8FT2BNfz4s4Bl3dJ3Sm"
     },
     {
       "added_at": "2026-02-27 03:01:13",
@@ -471,18 +471,18 @@
     {
       "added_at": "2026-02-27 03:01:13",
       "album": {
-        "name": "Estou de Volta",
-        "url": "https://open.spotify.com/album/28G7PR9ps744oUELPTIZTf"
+        "name": "Voz e Viol\u00e3o - Parte 2",
+        "url": "https://open.spotify.com/album/64mh0kkVSRHTxCg0gv9Eqk"
       },
       "artists": [
         {
-          "name": "Lucas Roque e Gabriel",
-          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
+          "name": "Daniel & Samuel",
+          "url": "https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU"
         }
       ],
-      "duration_ms": 245000,
-      "name": "Estou de Volta",
-      "url": "https://open.spotify.com/track/3EQ8FT2BNfz4s4Bl3dJ3Sm"
+      "duration_ms": 324082,
+      "name": "Voc\u00ea \u00c9 Especial - Voz e Viol\u00e3o",
+      "url": "https://open.spotify.com/track/7ClfYG4BrlyAP3bbv4Xk1w"
     },
     {
       "added_at": "2026-02-27 03:01:13",
@@ -723,18 +723,18 @@
     {
       "added_at": "2026-02-27 03:01:13",
       "album": {
-        "name": "Lugar Secreto",
-        "url": "https://open.spotify.com/album/413JjplmLoHMSd7ylC6Dpk"
+        "name": "O Noivo Vem (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5hb5Y7fmdNVzXXlz7y5rT4"
       },
       "artists": [
         {
-          "name": "Luc\u00e9lia Santos",
-          "url": "https://open.spotify.com/artist/6nXnDwtzXjcRAXEWVQ7RQV"
+          "name": "Gislaine e Mylena",
+          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
         }
       ],
-      "duration_ms": 226269,
-      "name": "Lugar Secreto",
-      "url": "https://open.spotify.com/track/3yBHRT12WrWXrp4fpzZhyT"
+      "duration_ms": 295946,
+      "name": "O Noivo Vem (Ao Vivo)",
+      "url": "https://open.spotify.com/track/7eLK9s5mQT7QW62lID0fol"
     },
     {
       "added_at": "2026-02-27 03:01:13",
@@ -759,18 +759,18 @@
     {
       "added_at": "2026-02-27 03:01:13",
       "album": {
-        "name": "O Noivo Vem (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5hb5Y7fmdNVzXXlz7y5rT4"
+        "name": "Lugar Secreto",
+        "url": "https://open.spotify.com/album/413JjplmLoHMSd7ylC6Dpk"
       },
       "artists": [
         {
-          "name": "Gislaine e Mylena",
-          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
+          "name": "Luc\u00e9lia Santos",
+          "url": "https://open.spotify.com/artist/6nXnDwtzXjcRAXEWVQ7RQV"
         }
       ],
-      "duration_ms": 295946,
-      "name": "O Noivo Vem (Ao Vivo)",
-      "url": "https://open.spotify.com/track/7eLK9s5mQT7QW62lID0fol"
+      "duration_ms": 226269,
+      "name": "Lugar Secreto",
+      "url": "https://open.spotify.com/track/3yBHRT12WrWXrp4fpzZhyT"
     },
     {
       "added_at": "2026-02-27 03:01:13",
@@ -811,18 +811,18 @@
     {
       "added_at": "2026-02-27 03:01:13",
       "album": {
-        "name": "Amar \u00c9 F\u00e1cil",
-        "url": "https://open.spotify.com/album/3wcYcruIxHI6xfQcVqiTo8"
+        "name": "Meu Filho (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3rSaMc6VjJNQxwD0tFo5zJ"
       },
       "artists": [
         {
-          "name": "Lenno Maia",
-          "url": "https://open.spotify.com/artist/7h4qSS1HJt6i1Fws0qInTx"
+          "name": "Gislaine e Mylena",
+          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
         }
       ],
-      "duration_ms": 277514,
-      "name": "Amar \u00c9 F\u00e1cil",
-      "url": "https://open.spotify.com/track/0dwykNS2PkwLAQ0fgpIUQU"
+      "duration_ms": 239199,
+      "name": "Meu Filho (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0Jb0HoaMIHcEdI7l2BedDO"
     },
     {
       "added_at": "2026-02-27 03:01:13",
@@ -847,18 +847,18 @@
     {
       "added_at": "2026-02-27 03:01:13",
       "album": {
-        "name": "Meu Filho (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3rSaMc6VjJNQxwD0tFo5zJ"
+        "name": "Amar \u00c9 F\u00e1cil",
+        "url": "https://open.spotify.com/album/3wcYcruIxHI6xfQcVqiTo8"
       },
       "artists": [
         {
-          "name": "Gislaine e Mylena",
-          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
+          "name": "Lenno Maia",
+          "url": "https://open.spotify.com/artist/7h4qSS1HJt6i1Fws0qInTx"
         }
       ],
-      "duration_ms": 239199,
-      "name": "Meu Filho (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0Jb0HoaMIHcEdI7l2BedDO"
+      "duration_ms": 277514,
+      "name": "Amar \u00c9 F\u00e1cil",
+      "url": "https://open.spotify.com/track/0dwykNS2PkwLAQ0fgpIUQU"
     },
     {
       "added_at": "2026-02-27 03:01:13",

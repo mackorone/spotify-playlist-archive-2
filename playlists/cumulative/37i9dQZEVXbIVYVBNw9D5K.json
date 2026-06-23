@@ -8158,7 +8158,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 224080,
       "name": "De\u011filim",
       "url": "https://open.spotify.com/track/14goS0HYX8X0cQWn2N3BaG"
@@ -12444,7 +12444,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-21",
+      "date_removed": null,
       "duration_ms": 227428,
       "name": "G\u00fcm G\u00fcm (Serhat Karada\u011f Remix) (feat. Onurr)",
       "url": "https://open.spotify.com/track/3IgB5XnUKnrcKto3tsNcKI"
@@ -16620,7 +16620,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 172245,
       "name": "Kara Yaz\u0131",
       "url": "https://open.spotify.com/track/3baJJpuPE2m59HQWRRCPEy"
@@ -27136,6 +27136,28 @@
       "duration_ms": 121884,
       "name": "Trip att\u0131m",
       "url": "https://open.spotify.com/track/3eCpykORJcDHvDWxvrKYDu"
+    },
+    {
+      "album": {
+        "name": "VAKKO",
+        "url": "https://open.spotify.com/album/44YjUTmNcWVQwJWNU2XwaJ"
+      },
+      "artists": [
+        {
+          "name": "KAVAK",
+          "url": "https://open.spotify.com/artist/24OGdBr3r58ksMLJkMXZZY"
+        },
+        {
+          "name": "BAKAN",
+          "url": "https://open.spotify.com/artist/3pELTNcBXbfHktNPFTUsNW"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118736,
+      "name": "TSS",
+      "url": "https://open.spotify.com/track/17AsRHpZDmS2uWL3ad27yI"
     },
     {
       "album": {

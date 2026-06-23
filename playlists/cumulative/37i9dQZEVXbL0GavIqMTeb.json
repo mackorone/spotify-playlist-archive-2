@@ -4694,7 +4694,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 235000,
       "name": "Busca un Confidente",
       "url": "https://open.spotify.com/track/29Va4e6LzlehfNZtN3hhtZ"
@@ -11484,7 +11484,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
@@ -22934,6 +22934,28 @@
     {
       "album": {
         "name": "One Of The Girlz",
+        "url": "https://open.spotify.com/album/47Ii1pPC0vzW0sFT21pf0Q"
+      },
+      "artists": [
+        {
+          "name": "Jesp7Tearz",
+          "url": "https://open.spotify.com/artist/2hKzSNbt10rdDMtede2Gbi"
+        },
+        {
+          "name": "1717177x",
+          "url": "https://open.spotify.com/artist/5uIvZ6y0SpfMHObdzv5FMp"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141595,
+      "name": "One Of The Girlz",
+      "url": "https://open.spotify.com/track/5eggSYi5yxJeMn8BJ3vO3m"
+    },
+    {
+      "album": {
+        "name": "One Of The Girlz",
         "url": "https://open.spotify.com/album/1G2BNJagFpIO9Uzmv1J64O"
       },
       "artists": [
@@ -28372,7 +28394,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 120494,
       "name": "SENDA BELLAKONA",
       "url": "https://open.spotify.com/track/6g1u7IdhcA9rZUV3Pizsj8"

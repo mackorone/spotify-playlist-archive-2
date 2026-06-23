@@ -1,6 +1,6 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes & Ulises Bueno.",
-  "num_followers": 268070,
+  "num_followers": 268126,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
@@ -55,26 +55,6 @@
     {
       "added_at": "2026-05-22 03:00:27",
       "album": {
-        "name": "Costumbres (Vivo)",
-        "url": "https://open.spotify.com/album/5bF1CFdbRtYvsCbVro137h"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 133077,
-      "name": "Costumbres - Vivo",
-      "url": "https://open.spotify.com/track/6HT88WDVwEJiHEbPuQ5XcB"
-    },
-    {
-      "added_at": "2026-05-22 03:00:27",
-      "album": {
         "name": "URIEL LOZANO / Zapada EN VIVO en UN POCO DE RUIDO!",
         "url": "https://open.spotify.com/album/5UecDIxoca5aq0Xko7VcuE"
       },
@@ -95,6 +75,26 @@
       "duration_ms": 72937,
       "name": "Conmigo Te Gust\u00f3",
       "url": "https://open.spotify.com/track/4eqXTlaHeK6xkM1fRx9wR5"
+    },
+    {
+      "added_at": "2026-05-22 03:00:27",
+      "album": {
+        "name": "Costumbres (Vivo)",
+        "url": "https://open.spotify.com/album/5bF1CFdbRtYvsCbVro137h"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 133077,
+      "name": "Costumbres - Vivo",
+      "url": "https://open.spotify.com/track/6HT88WDVwEJiHEbPuQ5XcB"
     },
     {
       "added_at": "2026-05-22 03:00:27",
@@ -151,42 +151,6 @@
     {
       "added_at": "2026-05-22 03:00:27",
       "album": {
-        "name": "No Te Creas Tan Importante (En Vivo)",
-        "url": "https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
-        }
-      ],
-      "duration_ms": 239760,
-      "name": "No Te Creas Tan Importante - En Vivo",
-      "url": "https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk"
-    },
-    {
-      "added_at": "2026-05-22 03:00:27",
-      "album": {
-        "name": "Loca (En Vivo)",
-        "url": "https://open.spotify.com/album/6nAoNfl4btiNoU6Q6gJIl9"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 202823,
-      "name": "Loca - En Vivo",
-      "url": "https://open.spotify.com/track/7B3NZTAlJn1uIiDNWECIWe"
-    },
-    {
-      "added_at": "2026-05-22 03:00:27",
-      "album": {
         "name": "Q' LOKURA / Zapada EN VIVO en UN POCO DE RUIDO!",
         "url": "https://open.spotify.com/album/2bjRXWxUeKc2X7PYoUBs3v"
       },
@@ -207,6 +171,42 @@
       "duration_ms": 135882,
       "name": "Me Duele Tu Nombre",
       "url": "https://open.spotify.com/track/4JLedgJ80MsjcJBiFdqnFb"
+    },
+    {
+      "added_at": "2026-05-22 03:00:27",
+      "album": {
+        "name": "Loca (En Vivo)",
+        "url": "https://open.spotify.com/album/6nAoNfl4btiNoU6Q6gJIl9"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 202823,
+      "name": "Loca - En Vivo",
+      "url": "https://open.spotify.com/track/7B3NZTAlJn1uIiDNWECIWe"
+    },
+    {
+      "added_at": "2026-05-22 03:00:27",
+      "album": {
+        "name": "No Te Creas Tan Importante (En Vivo)",
+        "url": "https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        }
+      ],
+      "duration_ms": 239760,
+      "name": "No Te Creas Tan Importante - En Vivo",
+      "url": "https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk"
     },
     {
       "added_at": "2026-05-22 03:00:27",
@@ -271,22 +271,26 @@
     {
       "added_at": "2026-05-22 03:00:27",
       "album": {
-        "name": "TIENE ESPINAS EL ROSAL (EN VIVO)",
-        "url": "https://open.spotify.com/album/5iuZMs350FQYnSR1uaw0H5"
+        "name": "Q' LOKURA / Zapada EN VIVO en UN POCO DE RUIDO!",
+        "url": "https://open.spotify.com/album/2bjRXWxUeKc2X7PYoUBs3v"
       },
       "artists": [
         {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+          "name": "Pinky SD",
+          "url": "https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri"
         },
         {
-          "name": "Grupo Anaconda",
-          "url": "https://open.spotify.com/artist/68hQE5kUOEyam0MAChqS8t"
+          "name": "Un Poco de Ruido",
+          "url": "https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0"
+        },
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
         }
       ],
-      "duration_ms": 294353,
-      "name": "TIENE ESPINAS EL ROSAL - EN VIVO",
-      "url": "https://open.spotify.com/track/0B4XT0srtOd2exlxORcnHg"
+      "duration_ms": 132804,
+      "name": "Yo Era",
+      "url": "https://open.spotify.com/track/3n6EihEumKlLky7mfeOj71"
     },
     {
       "added_at": "2026-05-22 03:00:27",
@@ -315,26 +319,22 @@
     {
       "added_at": "2026-05-22 03:00:27",
       "album": {
-        "name": "Q' LOKURA / Zapada EN VIVO en UN POCO DE RUIDO!",
-        "url": "https://open.spotify.com/album/2bjRXWxUeKc2X7PYoUBs3v"
+        "name": "TIENE ESPINAS EL ROSAL (EN VIVO)",
+        "url": "https://open.spotify.com/album/5iuZMs350FQYnSR1uaw0H5"
       },
       "artists": [
         {
-          "name": "Pinky SD",
-          "url": "https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri"
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
         },
         {
-          "name": "Un Poco de Ruido",
-          "url": "https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0"
-        },
-        {
-          "name": "Q' Lokura",
-          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+          "name": "Grupo Anaconda",
+          "url": "https://open.spotify.com/artist/68hQE5kUOEyam0MAChqS8t"
         }
       ],
-      "duration_ms": 132804,
-      "name": "Yo Era",
-      "url": "https://open.spotify.com/track/3n6EihEumKlLky7mfeOj71"
+      "duration_ms": 294353,
+      "name": "TIENE ESPINAS EL ROSAL - EN VIVO",
+      "url": "https://open.spotify.com/track/0B4XT0srtOd2exlxORcnHg"
     },
     {
       "added_at": "2026-05-22 03:00:27",
@@ -383,6 +383,30 @@
     {
       "added_at": "2026-05-22 03:00:27",
       "album": {
+        "name": "URIEL LOZANO / Zapada EN VIVO en UN POCO DE RUIDO!",
+        "url": "https://open.spotify.com/album/5UecDIxoca5aq0Xko7VcuE"
+      },
+      "artists": [
+        {
+          "name": "Pinky SD",
+          "url": "https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri"
+        },
+        {
+          "name": "Un Poco de Ruido",
+          "url": "https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0"
+        },
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        }
+      ],
+      "duration_ms": 92687,
+      "name": "Pechos Calientes",
+      "url": "https://open.spotify.com/track/0u605hoZG0qHfjqxoE8Cro"
+    },
+    {
+      "added_at": "2026-05-22 03:00:27",
+      "album": {
         "name": "T\u00fa, la m\u00e1s bella (En Vivo)",
         "url": "https://open.spotify.com/album/3PKKvCRMgsXJi8v4HxuroL"
       },
@@ -415,30 +439,6 @@
       "duration_ms": 157387,
       "name": "El Doctorado - En Vivo",
       "url": "https://open.spotify.com/track/1CFTRRDmK63TyODr782deN"
-    },
-    {
-      "added_at": "2026-05-22 03:00:27",
-      "album": {
-        "name": "URIEL LOZANO / Zapada EN VIVO en UN POCO DE RUIDO!",
-        "url": "https://open.spotify.com/album/5UecDIxoca5aq0Xko7VcuE"
-      },
-      "artists": [
-        {
-          "name": "Pinky SD",
-          "url": "https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri"
-        },
-        {
-          "name": "Un Poco de Ruido",
-          "url": "https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0"
-        },
-        {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
-        }
-      ],
-      "duration_ms": 92687,
-      "name": "Pechos Calientes",
-      "url": "https://open.spotify.com/track/0u605hoZG0qHfjqxoE8Cro"
     },
     {
       "added_at": "2026-05-22 03:00:27",
@@ -487,6 +487,30 @@
     {
       "added_at": "2026-05-22 03:00:27",
       "album": {
+        "name": "Q' LOKURA / Zapada EN VIVO en UN POCO DE RUIDO!",
+        "url": "https://open.spotify.com/album/2bjRXWxUeKc2X7PYoUBs3v"
+      },
+      "artists": [
+        {
+          "name": "Pinky SD",
+          "url": "https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri"
+        },
+        {
+          "name": "Un Poco de Ruido",
+          "url": "https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0"
+        },
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        }
+      ],
+      "duration_ms": 106320,
+      "name": "Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/20gpiaTYpTe32d40mkT9az"
+    },
+    {
+      "added_at": "2026-05-22 03:00:27",
+      "album": {
         "name": "Como Nunca",
         "url": "https://open.spotify.com/album/6sffODoHVXJmwOb70Vxr44"
       },
@@ -519,26 +543,22 @@
     {
       "added_at": "2026-05-22 03:00:27",
       "album": {
-        "name": "Q' LOKURA / Zapada EN VIVO en UN POCO DE RUIDO!",
-        "url": "https://open.spotify.com/album/2bjRXWxUeKc2X7PYoUBs3v"
+        "name": "Los del bohio - Sessiones con P\u00fablico #20 (Sin Miedo \"Un Tiro\")",
+        "url": "https://open.spotify.com/album/0dh4kgmhrYNUYFXRtepXFx"
       },
       "artists": [
         {
-          "name": "Pinky SD",
-          "url": "https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri"
+          "name": "Sin Miedo",
+          "url": "https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY"
         },
         {
-          "name": "Un Poco de Ruido",
-          "url": "https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0"
-        },
-        {
-          "name": "Q' Lokura",
-          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+          "name": "Los del bohio",
+          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
         }
       ],
-      "duration_ms": 106320,
-      "name": "Fr\u00e1gil",
-      "url": "https://open.spotify.com/track/20gpiaTYpTe32d40mkT9az"
+      "duration_ms": 184413,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/5DD1yO1yMTppZoIdZ07Rtx"
     },
     {
       "added_at": "2026-05-22 03:00:27",
@@ -559,26 +579,6 @@
       "duration_ms": 102417,
       "name": "Turreo Sessions #22 (En Vivo)",
       "url": "https://open.spotify.com/track/5Sn6SEfGDWIcGbwHPock2D"
-    },
-    {
-      "added_at": "2026-05-22 03:00:27",
-      "album": {
-        "name": "Los del bohio - Sessiones con P\u00fablico #20 (Sin Miedo \"Un Tiro\")",
-        "url": "https://open.spotify.com/album/0dh4kgmhrYNUYFXRtepXFx"
-      },
-      "artists": [
-        {
-          "name": "Sin Miedo",
-          "url": "https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY"
-        },
-        {
-          "name": "Los del bohio",
-          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
-        }
-      ],
-      "duration_ms": 184413,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/5DD1yO1yMTppZoIdZ07Rtx"
     },
     {
       "added_at": "2026-05-22 03:00:27",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-05-22 03:00:27",
       "album": {
-        "name": "En Vivo...Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 287320,
-      "name": "Los Pibes Chorros / Solo Le Pido a Dios / Botellero",
-      "url": "https://open.spotify.com/track/6mFuiYMG6Alxph0dlgFVzq"
-    },
-    {
-      "added_at": "2026-05-22 03:00:27",
-      "album": {
         "name": "Luna Park (En Vivo)",
         "url": "https://open.spotify.com/album/1Oatu8AcJtDJsC24cEJr3r"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 198267,
       "name": "Pa' la Selecci\u00f3n - En Vivo",
       "url": "https://open.spotify.com/track/6o74gO9Cc65yOph1pWnWmS"
+    },
+    {
+      "added_at": "2026-05-22 03:00:27",
+      "album": {
+        "name": "En Vivo...Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 287320,
+      "name": "Los Pibes Chorros / Solo Le Pido a Dios / Botellero",
+      "url": "https://open.spotify.com/track/6mFuiYMG6Alxph0dlgFVzq"
     },
     {
       "added_at": "2026-05-22 03:00:27",
@@ -1067,54 +1067,6 @@
     {
       "added_at": "2026-05-22 03:00:27",
       "album": {
-        "name": "Bonita / Madre Soltera (En Vivo)",
-        "url": "https://open.spotify.com/album/42RKKUdWT9eVM1OhLvFXfT"
-      },
-      "artists": [
-        {
-          "name": "Agrupaci\u00f3n Marilyn",
-          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
-        }
-      ],
-      "duration_ms": 232896,
-      "name": "Madre Soltera - En Vivo",
-      "url": "https://open.spotify.com/track/1sW5XV58fHKTLB07WvrU69"
-    },
-    {
-      "added_at": "2026-05-22 03:00:27",
-      "album": {
-        "name": "En Vivo en el Teatro",
-        "url": "https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW"
-      },
-      "artists": [
-        {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
-        }
-      ],
-      "duration_ms": 1189088,
-      "name": "Poco a Poco / La Chica Indicada / Un Sue\u00f1o / Separemonos / Fui Feliz / Amor, Amor / Ahora Regresas / En Este Mundo / La Pollera de Jimmy - En Vivo",
-      "url": "https://open.spotify.com/track/5biJmTVSy8a0rxgj0LbmF4"
-    },
-    {
-      "added_at": "2026-05-22 03:00:27",
-      "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1m4nIhyZjhE5sQziBlHDzB"
-      },
-      "artists": [
-        {
-          "name": "Los Charros",
-          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
-        }
-      ],
-      "duration_ms": 281234,
-      "name": "Si No Te Hubieras Ido - En Vivo",
-      "url": "https://open.spotify.com/track/57qxHH0ICKbvykxgUkarIB"
-    },
-    {
-      "added_at": "2026-05-22 03:00:27",
-      "album": {
         "name": "En Vivo en Tropicalisima",
         "url": "https://open.spotify.com/album/6WeE45ER2kNMikIGFdLGhB"
       },
@@ -1131,34 +1083,18 @@
     {
       "added_at": "2026-05-22 03:00:27",
       "album": {
-        "name": "En Vivo...Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
+        "name": "Bonita / Madre Soltera (En Vivo)",
+        "url": "https://open.spotify.com/album/42RKKUdWT9eVM1OhLvFXfT"
       },
       "artists": [
         {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+          "name": "Agrupaci\u00f3n Marilyn",
+          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
         }
       ],
-      "duration_ms": 117653,
-      "name": "El Tano Pastita",
-      "url": "https://open.spotify.com/track/6Xk9yjvrPD4UgLqzZc3hVO"
-    },
-    {
-      "added_at": "2026-05-22 03:00:27",
-      "album": {
-        "name": "Ay, Amor (En Vivo)",
-        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 278133,
-      "name": "Como Podr\u00e9",
-      "url": "https://open.spotify.com/track/3b1KrXLLqt9KbZvMdZ4fpN"
+      "duration_ms": 232896,
+      "name": "Madre Soltera - En Vivo",
+      "url": "https://open.spotify.com/track/1sW5XV58fHKTLB07WvrU69"
     },
     {
       "added_at": "2026-05-22 03:00:27",
@@ -1183,6 +1119,38 @@
     {
       "added_at": "2026-05-22 03:00:27",
       "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1m4nIhyZjhE5sQziBlHDzB"
+      },
+      "artists": [
+        {
+          "name": "Los Charros",
+          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
+        }
+      ],
+      "duration_ms": 281234,
+      "name": "Si No Te Hubieras Ido - En Vivo",
+      "url": "https://open.spotify.com/track/57qxHH0ICKbvykxgUkarIB"
+    },
+    {
+      "added_at": "2026-05-22 03:00:27",
+      "album": {
+        "name": "En Vivo...Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 117653,
+      "name": "El Tano Pastita",
+      "url": "https://open.spotify.com/track/6Xk9yjvrPD4UgLqzZc3hVO"
+    },
+    {
+      "added_at": "2026-05-22 03:00:27",
+      "album": {
         "name": "Sergio Torres - Session #50 (Sin Miedo: Lado S)",
         "url": "https://open.spotify.com/album/3Q4Pml7HR06oTRmvXfdIiq"
       },
@@ -1199,6 +1167,38 @@
       "duration_ms": 182953,
       "name": "Mi celosa hermosa",
       "url": "https://open.spotify.com/track/3FtWgxYcMusd1RWw9Up16U"
+    },
+    {
+      "added_at": "2026-05-22 03:00:27",
+      "album": {
+        "name": "Ay, Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 278133,
+      "name": "Como Podr\u00e9",
+      "url": "https://open.spotify.com/track/3b1KrXLLqt9KbZvMdZ4fpN"
+    },
+    {
+      "added_at": "2026-05-22 03:00:27",
+      "album": {
+        "name": "En Vivo en el Teatro",
+        "url": "https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        }
+      ],
+      "duration_ms": 1189088,
+      "name": "Poco a Poco / La Chica Indicada / Un Sue\u00f1o / Separemonos / Fui Feliz / Amor, Amor / Ahora Regresas / En Este Mundo / La Pollera de Jimmy - En Vivo",
+      "url": "https://open.spotify.com/track/5biJmTVSy8a0rxgj0LbmF4"
     },
     {
       "added_at": "2026-05-22 03:00:27",
@@ -1235,6 +1235,26 @@
     {
       "added_at": "2026-05-22 03:00:27",
       "album": {
+        "name": "Luis Ornelas - Session #49 (Sin Miedo: Lado S)",
+        "url": "https://open.spotify.com/album/5ZIveP7Qu4aMutlybGeSgB"
+      },
+      "artists": [
+        {
+          "name": "Sin Miedo",
+          "url": "https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY"
+        },
+        {
+          "name": "Luis Ornelas y su Grupo",
+          "url": "https://open.spotify.com/artist/5ioaYiDl0Yc0tQHac96w44"
+        }
+      ],
+      "duration_ms": 111605,
+      "name": "Cumbia buena",
+      "url": "https://open.spotify.com/track/0QxYb3Kg7W2Ls5aAQncHJd"
+    },
+    {
+      "added_at": "2026-05-22 03:00:27",
+      "album": {
         "name": "Live Session",
         "url": "https://open.spotify.com/album/3NMsUHaqlO013taOlTnTgN"
       },
@@ -1263,26 +1283,6 @@
       "duration_ms": 496146,
       "name": "La Danza del Humo / Llegamos los Pibes Chorros / Mabel",
       "url": "https://open.spotify.com/track/7rAeisif8xqpyYZa8amZXp"
-    },
-    {
-      "added_at": "2026-05-22 03:00:27",
-      "album": {
-        "name": "Luis Ornelas - Session #49 (Sin Miedo: Lado S)",
-        "url": "https://open.spotify.com/album/5ZIveP7Qu4aMutlybGeSgB"
-      },
-      "artists": [
-        {
-          "name": "Sin Miedo",
-          "url": "https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY"
-        },
-        {
-          "name": "Luis Ornelas y su Grupo",
-          "url": "https://open.spotify.com/artist/5ioaYiDl0Yc0tQHac96w44"
-        }
-      ],
-      "duration_ms": 111605,
-      "name": "Cumbia buena",
-      "url": "https://open.spotify.com/track/0QxYb3Kg7W2Ls5aAQncHJd"
     },
     {
       "added_at": "2026-05-22 03:00:27",
@@ -1319,6 +1319,30 @@
     {
       "added_at": "2026-05-22 03:00:27",
       "album": {
+        "name": "Cosas del Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/41WPVRFYR95CRt0vHagmpV"
+      },
+      "artists": [
+        {
+          "name": "Sin Miedo",
+          "url": "https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY"
+        },
+        {
+          "name": "Jambao",
+          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
+        },
+        {
+          "name": "Santi Cairo",
+          "url": "https://open.spotify.com/artist/7aXtE6aOLk9TSN6P7bfLe5"
+        }
+      ],
+      "duration_ms": 196058,
+      "name": "Cosas del Amor - En Vivo",
+      "url": "https://open.spotify.com/track/1CjZCNYbMTgHLEsX9EAQJd"
+    },
+    {
+      "added_at": "2026-05-22 03:00:27",
+      "album": {
         "name": "\u00c9xitos, 30 a\u00f1os (En Vivo Movistar Arena, Sesi\u00f3n 9)",
         "url": "https://open.spotify.com/album/1UabnzyGKPDi3mgyiYIvH2"
       },
@@ -1347,30 +1371,6 @@
       "duration_ms": 81813,
       "name": "Despu\u00e9s De Ti",
       "url": "https://open.spotify.com/track/0cdCBqWbgvtRu7e5IMkoNd"
-    },
-    {
-      "added_at": "2026-05-22 03:00:27",
-      "album": {
-        "name": "Cosas del Amor (En Vivo)",
-        "url": "https://open.spotify.com/album/41WPVRFYR95CRt0vHagmpV"
-      },
-      "artists": [
-        {
-          "name": "Sin Miedo",
-          "url": "https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY"
-        },
-        {
-          "name": "Jambao",
-          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
-        },
-        {
-          "name": "Santi Cairo",
-          "url": "https://open.spotify.com/artist/7aXtE6aOLk9TSN6P7bfLe5"
-        }
-      ],
-      "duration_ms": 196058,
-      "name": "Cosas del Amor - En Vivo",
-      "url": "https://open.spotify.com/track/1CjZCNYbMTgHLEsX9EAQJd"
     },
     {
       "added_at": "2026-05-22 03:00:27",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-05-22 03:00:27",
       "album": {
-        "name": "Ay, Amor (En Vivo)",
-        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Quiero Yo Saber (Donde Esta El Amor)",
-      "url": "https://open.spotify.com/track/7iwRxlSdAWVvpQGlx1yYmc"
-    },
-    {
-      "added_at": "2026-05-22 03:00:27",
-      "album": {
         "name": "Cochi Nini (Vivo En El Teatro, Opera / 2018)",
         "url": "https://open.spotify.com/album/5MMa4u2omJMxP80ax9Tbdi"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 208613,
       "name": "Cochi Nini - Vivo En El Teatro, Opera / 2018",
       "url": "https://open.spotify.com/track/27kqJPeuxDc69unu3rG0Ov"
+    },
+    {
+      "added_at": "2026-05-22 03:00:27",
+      "album": {
+        "name": "Ay, Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Quiero Yo Saber (Donde Esta El Amor)",
+      "url": "https://open.spotify.com/track/7iwRxlSdAWVvpQGlx1yYmc"
     },
     {
       "added_at": "2026-05-22 03:00:27",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2026-05-22 03:00:27",
       "album": {
+        "name": "Era Tranquila (En Vivo)",
+        "url": "https://open.spotify.com/album/6T9HaCMIJRLkxmzZPEMdNF"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        }
+      ],
+      "duration_ms": 237098,
+      "name": "Era Tranquila - En Vivo",
+      "url": "https://open.spotify.com/track/0kHoDrq6IFIV5AAZRFOEQd"
+    },
+    {
+      "added_at": "2026-05-22 03:00:27",
+      "album": {
         "name": "Ay, Amor (En Vivo)",
         "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 121087,
       "name": "Tu Carcel - En Vivo",
       "url": "https://open.spotify.com/track/5MviAyrK0T1iGhgEOdmq2I"
-    },
-    {
-      "added_at": "2026-05-22 03:00:27",
-      "album": {
-        "name": "Era Tranquila (En Vivo)",
-        "url": "https://open.spotify.com/album/6T9HaCMIJRLkxmzZPEMdNF"
-      },
-      "artists": [
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        }
-      ],
-      "duration_ms": 237098,
-      "name": "Era Tranquila - En Vivo",
-      "url": "https://open.spotify.com/track/0kHoDrq6IFIV5AAZRFOEQd"
     },
     {
       "added_at": "2026-05-22 03:00:27",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2026-05-22 03:00:27",
       "album": {
-        "name": "Mi Gran Maestro (Montevideo Music Sessions)",
-        "url": "https://open.spotify.com/album/4bEHL08FgsySG8mVwBIQxc"
-      },
-      "artists": [
-        {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        }
-      ],
-      "duration_ms": 210744,
-      "name": "Mi Gran Maestro - Montevideo Music Sessions",
-      "url": "https://open.spotify.com/track/0rekCZBOnQQ7xtjukqeA8j"
-    },
-    {
-      "added_at": "2026-05-22 03:00:27",
-      "album": {
         "name": "Me Olvide de Ti (En Vivo)",
         "url": "https://open.spotify.com/album/3BFgkhcKON3CF5SDUMoCZE"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 128072,
       "name": "Me Olvide de Ti - En Vivo",
       "url": "https://open.spotify.com/track/4RHxezAdnkrKuVUSc4pXiQ"
+    },
+    {
+      "added_at": "2026-05-22 03:00:27",
+      "album": {
+        "name": "Mi Gran Maestro (Montevideo Music Sessions)",
+        "url": "https://open.spotify.com/album/4bEHL08FgsySG8mVwBIQxc"
+      },
+      "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        }
+      ],
+      "duration_ms": 210744,
+      "name": "Mi Gran Maestro - Montevideo Music Sessions",
+      "url": "https://open.spotify.com/track/0rekCZBOnQQ7xtjukqeA8j"
     },
     {
       "added_at": "2026-05-22 03:00:27",

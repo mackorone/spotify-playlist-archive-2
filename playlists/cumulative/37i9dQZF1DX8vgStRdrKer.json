@@ -2434,7 +2434,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 480990,
       "name": "Carry Me",
       "url": "https://open.spotify.com/track/06fxnpXNeFEd3LzsHn8Wwy"
@@ -11948,6 +11948,24 @@
       "duration_ms": 683500,
       "name": "Pentecost",
       "url": "https://open.spotify.com/track/43OP3itAcQyyBOQO7TtROL"
+    },
+    {
+      "album": {
+        "name": "Power Of My Own",
+        "url": "https://open.spotify.com/album/4IoNSQp9DhL7KbpR823WPW"
+      },
+      "artists": [
+        {
+          "name": "K3ndrick",
+          "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169362,
+      "name": "Power Of My Own",
+      "url": "https://open.spotify.com/track/5Xa0EL9BMheLI9r5ivZ4yA"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Pacific reggae, roots rockers\. Relax, you're on island time\. Cover: Te Wehi
 
-274 songs - 16 hr 49 min
+275 songs - 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Cinderella](https://open.spotify.com/track/1UIM8s0RvdwNkZo05WEzvh) | [JKING](https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp) | [Cinderella](https://open.spotify.com/album/6NVXOnQe43Mrb2bqk7PoBT) | 1:56 | 2023-11-28 | 2025-09-10 |
 | [Clarity \(Ft\. Kabaka Pyramid\)](https://open.spotify.com/track/39xEK5rYhBgPANUaL0eOmz) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Clarity \(Ft\. Kabaka Pyramid\)](https://open.spotify.com/album/4aTPodNe6oejgf3SFp5RiP) | 3:19 | 2026-05-11 | 2026-06-18 |
 | [COASTY GIRL](https://open.spotify.com/track/2fsSR8q2mZyhWV3txRww6w) | [SHANE WALKER](https://open.spotify.com/artist/0kDBi5XQUry7jcVp3Eya9m) | [COASTY GIRL](https://open.spotify.com/album/53zu8HnMibLkJ0W9Qtqsun) | 3:05 | 2025-09-09 |  |
+| [Colour Me Life](https://open.spotify.com/track/2QSPE73nd8wvyYVkt2AqDV) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa), [Kolohe Kai](https://open.spotify.com/artist/3Je8tRazTtqZxGkbeJDGL8) | [Colour Me Life](https://open.spotify.com/album/3ZcbRgS8lQjThLFryj5s5g) | 3:17 | 2026-06-18 |  |
 | [Come Over \- Radio Version](https://open.spotify.com/track/2aDH6OBWFOHDt1OSz2IwBt) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Come Over](https://open.spotify.com/album/1bc5Ork15j61m1sdKnC5t5) | 4:04 | 2025-09-09 |  |
 | [Come To Bed](https://open.spotify.com/track/17K5PFzBK0FEE3aEJiPTVB) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [Come To Bed](https://open.spotify.com/album/74MjNENomChVJ1wouIkJAD) | 2:58 | 2024-03-21 | 2025-09-10 |
 | [Come to Bed](https://open.spotify.com/track/75z8eUHzytgo02DPFsRAGB) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [Come to Bed](https://open.spotify.com/album/3yu3jbEoKfF7kPBUjbXfAe) | 2:58 | 2023-11-28 | 2024-04-19 |
@@ -87,7 +88,7 @@
 | [Heart of a Lion](https://open.spotify.com/track/1tF5oLj3khkYMa65szhPBB) | [Brutha Rodz](https://open.spotify.com/artist/7etGJzSv1g7S8RxZinqkdS), [Wiz Tokelau](https://open.spotify.com/artist/5ShiAPEQ5yAKJkcFcD6fBG) | [Heart of a Lion](https://open.spotify.com/album/4Hhzv9tY3RKq7RWHkztSXX) | 3:25 | 2025-09-09 |  |
 | [Her World](https://open.spotify.com/track/4TNhWf5i5vvXoFlgHAMibJ) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Her World](https://open.spotify.com/album/3fusfgcor6dCV3gBB1Wf53) | 2:25 | 2025-01-23 | 2025-09-10 |
 | [Hey](https://open.spotify.com/track/2MYtK8CJ6uw3VwDIv6OUDB) | [Sammy Johnson](https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA) | [Sammy Johnson](https://open.spotify.com/album/0YAPhFaGCiljva2vLUIbtq) | 3:26 | 2025-09-09 |  |
-| [Higher Than the Clouds](https://open.spotify.com/track/10FYvZSZLste16zITxpQND) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/5KCgRuLSFl362EGsD1asNE) | 3:43 | 2025-09-09 |  |
+| [Higher Than the Clouds](https://open.spotify.com/track/10FYvZSZLste16zITxpQND) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/5KCgRuLSFl362EGsD1asNE) | 3:43 | 2025-09-09 | 2026-06-23 |
 | [Hit the Road](https://open.spotify.com/track/4SxClscieaDJ9dGQR1njjS) | [Teina Mamaori](https://open.spotify.com/artist/5p0JHW1CkPxEqkbcz59rrp), [Hori Shaw](https://open.spotify.com/artist/3weDT5G04NSpPg2q1lvcJh), [Classick J](https://open.spotify.com/artist/7Hhvup3XQTgHKu2FkMKjMq) | [Hit the Road](https://open.spotify.com/album/7CgmSGAPmq7h6C2OvNtwav) | 5:27 | 2023-12-21 | 2025-09-10 |
 | [Home](https://open.spotify.com/track/2acveoZyxBzwbxw6Y3v18J) | [Son & Water](https://open.spotify.com/artist/1ODcoNZfpYJmWHEF9eEgGi), [Myshaan](https://open.spotify.com/artist/0gVfAlaeZLxf89TRVWW3ZN) | [Home](https://open.spotify.com/album/7mKtYSUiaVa6nccctEBRo3) | 3:35 | 2025-09-09 |  |
 | [Honey Baby](https://open.spotify.com/track/0Xbf0hQXV5IbSXkKsjcvna) | [Three Plus](https://open.spotify.com/artist/7z2qgJSiP0Wk0vzHzPO0SL) | [Honey Baby](https://open.spotify.com/album/1hHCEVVnh7JVWUoZa87pyY) | 3:51 | 2026-06-18 |  |

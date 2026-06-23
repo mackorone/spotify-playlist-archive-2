@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/65txKM8JvWVEJORHstAcVL.md) - cumulative - [plain](/playlists/plain/65txKM8JvWVEJORHstAcVL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/65txKM8JvWVEJORHstAcVL)
 
-### [LA LLISTA DE FLAIXBAC \(14/06/2026\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
+### [LA LLISTA DE FLAIXBAC \(21/06/2026\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
 
 > La Llista amb els 45 èxits de Flaixbac\. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras\. Vota el pròxim número 1 de La Llista a la nostra web: https:&\#x2F;&\#x2F;flaixbac.cat&\#x2F;la\-llista
 
-278 songs - 13 hr 58 min
+280 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Espresso Macchiato](https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Espresso Macchiato](https://open.spotify.com/album/6i83szVwI1FZFeMQHobNsj) | 2:53 | 2025-06-10 | 2025-12-19 |
 | [Espurna](https://open.spotify.com/track/0YLvq215pAthBeTs5qp5yg) | [Stay Homas](https://open.spotify.com/artist/7fUEi9sgiLw8gwQ307T6IU), [Figa Flawas](https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3) | [Espurna](https://open.spotify.com/album/30MA4geElUAQ6gNQ3ajaiK) | 2:37 | 2025-01-26 | 2025-07-15 |
 | [Estrella](https://open.spotify.com/track/7C21gNXsV6dKk8fnCenDof) | [Alfred García](https://open.spotify.com/artist/0CQgFG7XHyXRpSi24kl0cx), [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Estrella](https://open.spotify.com/album/4h1gOcRIha3vpaX5oMo1td) | 2:51 | 2025-06-02 | 2025-11-18 |
-| [Estrelles](https://open.spotify.com/track/5LIpGWJvwV07LiR3HakLGb) | [Max Navarro](https://open.spotify.com/artist/0Wx00HbcRpQLmDcKO226cq) | [Estrelles](https://open.spotify.com/album/6P4qPYM66BANshGX2oShtv) | 3:19 | 2026-01-07 |  |
+| [Estrelles](https://open.spotify.com/track/5LIpGWJvwV07LiR3HakLGb) | [Max Navarro](https://open.spotify.com/artist/0Wx00HbcRpQLmDcKO226cq) | [Estrelles](https://open.spotify.com/album/6P4qPYM66BANshGX2oShtv) | 3:19 | 2026-01-07 | 2026-06-23 |
 | [Et prometo](https://open.spotify.com/track/23QWizOmPLSXiBIXtXBYEv) | [Ivan Herzog](https://open.spotify.com/artist/0NqdDX0AKx9frqodgeXq5y) | [Et prometo](https://open.spotify.com/album/0P1ysZl1FLs1XuHHkJ6X4C) | 3:06 | 2025-12-18 |  |
 | [Exotica](https://open.spotify.com/track/08VceLSSJJ83Yz3NTCyxZC) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Greg Taro](https://open.spotify.com/artist/1Tt4xvs31iOOnA5A37891U) | [Exotica](https://open.spotify.com/album/3Xa6Auj3cpJ6vAnch7vsCD) | 2:01 | 2025-03-24 | 2025-11-12 |
 | [Extraordinàriament normal](https://open.spotify.com/track/15zP4RrHdgk2cDjsgCoWD9) | [Doctor Prats](https://open.spotify.com/artist/7ncQ3AmAxYqTv2vY46YclW), [La Fúmiga](https://open.spotify.com/artist/2Y4AiImxLUoWEgxedb3Gtz) | [F5](https://open.spotify.com/album/64SyVAQo2DjNezyur2cdhS) | 3:00 | 2025-04-22 | 2025-09-30 |
@@ -125,6 +125,7 @@
 | [Houdini](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK) | 3:47 | 2024-06-16 | 2024-09-16 |
 | [I Don't Wanna Wait](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait](https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji) | 2:29 | 2024-04-21 | 2025-01-07 |
 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 | 2026-02-09 |  |
+| [I Knew It, I Knew You](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 | 2026-06-22 |  |
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-04-28 | 2024-12-09 |
 | [Iconic](https://open.spotify.com/track/5FjvINvxiM03aNN7o1nUVc) | [A\*Teens](https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9) | [Iconic](https://open.spotify.com/album/0HgLE4fEcT5oFPbMRF4Ej3) | 2:58 | 2026-02-23 | 2026-05-27 |
 | [Inigualable](https://open.spotify.com/track/4HilSPgYbcZdtR6bJDGkF8) | [Max Navarro](https://open.spotify.com/artist/0Wx00HbcRpQLmDcKO226cq) | [Inigualable](https://open.spotify.com/album/7bjdddU6NFSG6V8cD00ODu) | 3:31 | 2026-04-27 |  |
@@ -135,6 +136,7 @@
 | [Jenifer](https://open.spotify.com/track/2MeWCYKsmvPt8HSYVYVEUJ) | [Els Catarres](https://open.spotify.com/artist/0InCPtI0kadS7s3cZrcbbY), [Figa Flawas](https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3) | [Jenifer](https://open.spotify.com/album/1YwlKixpiLKJB0cBcKDngh) | 2:56 | 2024-01-14 | 2024-04-01 |
 | [JUBILAR\-ME](https://open.spotify.com/track/5NnVYDzchKktmiDCGZgvtd) | [Oques Grasses](https://open.spotify.com/artist/5qPeAT4ikl6gJNUexAOEy0) | [Fruit del Deliri](https://open.spotify.com/album/5wrNopViDjNZqgmR6cpD9v) | 3:08 | 2024-06-23 | 2024-11-04 |
 | [L'amor no està de moda](https://open.spotify.com/track/6TaI6JIjyveCJHHXpBwn2U) | [Mama Dousha](https://open.spotify.com/artist/4jT1Pg2Ji7Zr2XnxrH1fsN), [Scotty DK](https://open.spotify.com/artist/0gOjPKtrlU8B7w11OkbYdo), [Joan Garriga i el Mariatxi galàctic](https://open.spotify.com/artist/0EQqEBz10VJZ8QHaJweeNE) | [Segur que m'equivoco](https://open.spotify.com/album/4awdI4rXM5frg5VH6Zkk7k) | 2:13 | 2023-12-31 | 2024-05-06 |
+| [LA FAMÍLIA](https://open.spotify.com/track/2vGCxCWwbqrCUQVRy1NgXO) | [31 FAM](https://open.spotify.com/artist/0LweECx5LKm6I3gIcWMdpB) | [R31: Temporada 2](https://open.spotify.com/album/39CoxrFrNNcGbZoyHqwgiO) | 2:37 | 2026-06-22 |  |
 | [La Faràndula](https://open.spotify.com/track/061GP3myKZzbztHmOivT7Q) | [Sexenni](https://open.spotify.com/artist/4u6NigaxBfdKYhDdifXSCR) | [La Faràndula](https://open.spotify.com/album/2RND9IXMik2mDxa3In7nCC) | 3:06 | 2024-06-09 | 2024-10-14 |
 | [LA FORTUNA](https://open.spotify.com/track/4t8rCI5xepgmjr8vRwK27z) | [Els Catarres](https://open.spotify.com/artist/0InCPtI0kadS7s3cZrcbbY) | [LA FORTUNA](https://open.spotify.com/album/2D8b1ZilPcObSL6TO318EC) | 3:21 | 2025-03-24 | 2025-09-16 |
 | [LA MARINA STA MORENA](https://open.spotify.com/track/0HIbm4W6C8Ar2Cnen0tE44) | [Figa Flawas](https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3) | [LA MARINA STA MORENA](https://open.spotify.com/album/5znQOqzQhL9GNJoXaxG2aw) | 2:11 | 2024-07-14 | 2025-04-08 |
@@ -278,7 +280,7 @@
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2024-02-18 | 2024-04-22 |
 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:48 | 2024-03-24 | 2024-07-22 |
 | [WE PRAY \- Single Version](https://open.spotify.com/track/4ePie7AbHKyKdQtCte6SYC) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [WE PRAY \(TINI Version\)](https://open.spotify.com/album/7JTrcbIR88dkMfNvdxcZBO) | 3:53 | 2024-09-15 | 2025-07-15 |
-| [Welcome to My Party](https://open.spotify.com/track/1xYxQINTENuqXEkunEmjdJ) | [Joan Dausà](https://open.spotify.com/artist/1GRFao1QTh0i5Wx5Ms0A3I) | [Welcome to My Party](https://open.spotify.com/album/7KEVcNxrpxA7smtdLbnQ0X) | 3:19 | 2026-02-18 |  |
+| [Welcome to My Party](https://open.spotify.com/track/1xYxQINTENuqXEkunEmjdJ) | [Joan Dausà](https://open.spotify.com/artist/1GRFao1QTh0i5Wx5Ms0A3I) | [Welcome to My Party](https://open.spotify.com/album/7KEVcNxrpxA7smtdLbnQ0X) | 3:19 | 2026-02-18 | 2026-06-23 |
 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 | 2024-02-05 | 2024-07-15 |
 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:17 | 2025-12-18 | 2026-06-16 |
 | [Why Why Why](https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE) | 2:49 | 2024-09-01 | 2024-11-04 |

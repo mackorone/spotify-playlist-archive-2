@@ -1,13 +1,41 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Toxic",
-  "num_followers": 70087,
+  "num_followers": 70177,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGnAeKWoylnQowR4UTc90r8DErP5",
+  "snapshot_id": "AAAAALbC5SyheRCSOx4D+hTHnIHIRX7H",
   "tracks": [
+    {
+      "added_at": "2026-05-04 11:03:23",
+      "album": {
+        "name": "Radha Radha (From \"Brindhavihari\")",
+        "url": "https://open.spotify.com/album/1lhOYwQzLZ3R0M2Osbqi34"
+      },
+      "artists": [
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        },
+        {
+          "name": "V Nagendra Prasad",
+          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        }
+      ],
+      "duration_ms": 270150,
+      "name": "Radha Radha (From \"Brindhavihari\")",
+      "url": "https://open.spotify.com/track/1zyvE0Ik0EPVZPbG9jk7mt"
+    },
     {
       "added_at": "2026-03-02 07:46:32",
       "album": {
@@ -53,32 +81,32 @@
       "url": "https://open.spotify.com/track/0b541rdd0Vr7xxiaywFA8G"
     },
     {
-      "added_at": "2026-05-04 11:03:23",
+      "added_at": "2026-06-22 16:20:26",
       "album": {
-        "name": "Radha Radha (From \"Brindhavihari\")",
-        "url": "https://open.spotify.com/album/1lhOYwQzLZ3R0M2Osbqi34"
+        "name": "The Boys Anthem (From \"Boys Never Compromise\")",
+        "url": "https://open.spotify.com/album/51WcZjJ1Xiex9P4uMQS8v6"
       },
       "artists": [
         {
-          "name": "Hesham Abdul Wahab",
-          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+          "name": "Chandan Shetty",
+          "url": "https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk"
         },
         {
-          "name": "V Nagendra Prasad",
-          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
+          "name": "Loki Tavasya",
+          "url": "https://open.spotify.com/artist/5NAV2Nwh1sHl7ce2SiwHUR"
         },
         {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+          "name": "Kinnal Raj",
+          "url": "https://open.spotify.com/artist/6fYwsvBDdHgmAtfnjGJqOD"
         },
         {
-          "name": "Chinmayi",
-          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+          "name": "Harish Jalgere",
+          "url": "https://open.spotify.com/artist/0f7cKBA6JTLqVoxYXOsJTp"
         }
       ],
-      "duration_ms": 270150,
-      "name": "Radha Radha (From \"Brindhavihari\")",
-      "url": "https://open.spotify.com/track/1zyvE0Ik0EPVZPbG9jk7mt"
+      "duration_ms": 242000,
+      "name": "The Boys Anthem (From \"Boys Never Compromise\")",
+      "url": "https://open.spotify.com/track/03KQ1tGK3LjqMhZlk76AJV"
     },
     {
       "added_at": "2026-06-16 07:34:03",
@@ -105,6 +133,34 @@
       "url": "https://open.spotify.com/track/5oInTSO5vGd3JWakTspzOw"
     },
     {
+      "added_at": "2026-06-22 16:20:26",
+      "album": {
+        "name": "Mudd Muddu Putlakshmi (From \"Ayogya 2\")",
+        "url": "https://open.spotify.com/album/3iRYIALqe75nSupDOtZJ1o"
+      },
+      "artists": [
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        },
+        {
+          "name": "Chethan Kumar",
+          "url": "https://open.spotify.com/artist/3DsGNNhEpv3RwfFPkcEEfY"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Prithwi Bhat",
+          "url": "https://open.spotify.com/artist/3oHfvwbDQywYV2Kh2Cvr21"
+        }
+      ],
+      "duration_ms": 294880,
+      "name": "Mudd Muddu Putlakshmi (From \"Ayogya 2\")",
+      "url": "https://open.spotify.com/track/0uc6L16PhCad1SlwHTdolj"
+    },
+    {
       "added_at": "2026-05-22 07:29:22",
       "album": {
         "name": "KD Title Track (From \"KD\")",
@@ -119,6 +175,34 @@
       "duration_ms": 161680,
       "name": "KD Title Track (From \"KD\")",
       "url": "https://open.spotify.com/track/3mSGFXSGleDhdk6vFGbQxU"
+    },
+    {
+      "added_at": "2026-06-22 16:20:26",
+      "album": {
+        "name": "Inmele (From \"Lakshmi Puthra\")",
+        "url": "https://open.spotify.com/album/3wNmBoCLkg3Q3SX6ksRQ9m"
+      },
+      "artists": [
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        },
+        {
+          "name": "A.P. Arjun",
+          "url": "https://open.spotify.com/artist/1WmSed4rURzSyxwiETfssP"
+        },
+        {
+          "name": "Prithwi Bhat",
+          "url": "https://open.spotify.com/artist/3oHfvwbDQywYV2Kh2Cvr21"
+        },
+        {
+          "name": "Darshan Melavanki",
+          "url": "https://open.spotify.com/artist/6rDDHmNTWgRCEmK6JRnb9s"
+        }
+      ],
+      "duration_ms": 286666,
+      "name": "Inmele (From \"Lakshmi Puthra\")",
+      "url": "https://open.spotify.com/track/24JVhWyyCygFBh9VaxbgCY"
     },
     {
       "added_at": "2026-06-19 13:00:49",
@@ -251,6 +335,30 @@
       "duration_ms": 193125,
       "name": "Quarterru (From \"Balaramana Dinagalu\")",
       "url": "https://open.spotify.com/track/3huccCWIrdmZnIbWDocVvu"
+    },
+    {
+      "added_at": "2026-06-22 16:20:26",
+      "album": {
+        "name": "Sanne Sanne (From \"Namkaaldal Hingirlilla Bidi\")",
+        "url": "https://open.spotify.com/album/1K0qaJTZHY4pUHS5GsKkpv"
+      },
+      "artists": [
+        {
+          "name": "John Mozart",
+          "url": "https://open.spotify.com/artist/2fTxh0M7EZYPXFK834sKeE"
+        },
+        {
+          "name": "Amoghavarsha",
+          "url": "https://open.spotify.com/artist/5ZYB5iVTDHrIsymCoTSmv4"
+        },
+        {
+          "name": "Chethan Naik",
+          "url": "https://open.spotify.com/artist/3DaORH0Tws7WPuMKnQQj3Y"
+        }
+      ],
+      "duration_ms": 200607,
+      "name": "Sanne Sanne (From \"Namkaaldal Hingirlilla Bidi\")",
+      "url": "https://open.spotify.com/track/6qeseD3WM50eGngUDwIdRN"
     },
     {
       "added_at": "2026-05-15 12:33:35",
@@ -1657,30 +1765,6 @@
       "url": "https://open.spotify.com/track/0N885AxjaPpLOfV01wEZas"
     },
     {
-      "added_at": "2026-03-05 11:10:09",
-      "album": {
-        "name": "BRAT (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6CJ0yXJEKu77OFIpNQ6zmF"
-      },
-      "artists": [
-        {
-          "name": "Arjun Janya",
-          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
-        },
-        {
-          "name": "Balu Belagundi",
-          "url": "https://open.spotify.com/artist/0ka7DD1vGnXu92ZrhiKXUF"
-        },
-        {
-          "name": "Indu Nagaraj",
-          "url": "https://open.spotify.com/artist/4zXaBIACJU9O1TV9c2cZIk"
-        }
-      ],
-      "duration_ms": 243106,
-      "name": "Gangi Gangi",
-      "url": "https://open.spotify.com/track/4Fal7ExMVPMxE0Jrwv4S8p"
-    },
-    {
       "added_at": "2026-03-05 11:09:06",
       "album": {
         "name": "Badukina Bandige (From \"Majestic 2\") [Male Vocals]",
@@ -1727,82 +1811,6 @@
       "duration_ms": 241121,
       "name": "Jumuku Jumuku (From \"Karikaada - Kannada\")",
       "url": "https://open.spotify.com/track/5cs6fAwcjWctLrfbEaNrrR"
-    },
-    {
-      "added_at": "2026-03-03 11:34:04",
-      "album": {
-        "name": "Hoy Hoy Veeraa (From \"Peddi\") [KANNADA]",
-        "url": "https://open.spotify.com/album/2RwyzH66LZ9wK1NArmNYBS"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Haricharan",
-          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
-        },
-        {
-          "name": "Varadaraj Chikkaballapura",
-          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
-        }
-      ],
-      "duration_ms": 266116,
-      "name": "Hoy Hoy Veeraa (From \"Peddi\") [KANNADA]",
-      "url": "https://open.spotify.com/track/0hLmSMysv2rWutTc151cie"
-    },
-    {
-      "added_at": "2026-03-02 14:04:17",
-      "album": {
-        "name": "Maddillada Ee Khayile (From \"Cult\")",
-        "url": "https://open.spotify.com/album/5mzXChlVtxUx5YNpmOFJrP"
-      },
-      "artists": [
-        {
-          "name": "Arjun Janya",
-          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
-        },
-        {
-          "name": "Anilkumar T M",
-          "url": "https://open.spotify.com/artist/4jkXKqxpj1Wfsf0rggCIM4"
-        },
-        {
-          "name": "Nishan Rai",
-          "url": "https://open.spotify.com/artist/1pHwhzIHFiBmi4I9mYUMEy"
-        }
-      ],
-      "duration_ms": 183428,
-      "name": "Maddillada Ee Khayile (From \"Cult\")",
-      "url": "https://open.spotify.com/track/0HxtR8u5pO2SoHYu3HJi2Y"
-    },
-    {
-      "added_at": "2026-03-02 07:57:25",
-      "album": {
-        "name": "Enayya Saami (Special Surprise) [From \"Ranabaali\"]",
-        "url": "https://open.spotify.com/album/4gfEWovOF7Si8WDCBtnpSS"
-      },
-      "artists": [
-        {
-          "name": "Ajay-Atul",
-          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
-        },
-        {
-          "name": "Shweta Mohan",
-          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
-        },
-        {
-          "name": "Karthik",
-          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
-        },
-        {
-          "name": "Varadaraj Chikkaballapura",
-          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
-        }
-      ],
-      "duration_ms": 79146,
-      "name": "Enayya Saami (Special Surprise) [From \"Ranabaali\"]",
-      "url": "https://open.spotify.com/track/112WN5qH3DjSgJflDj029X"
     }
   ],
   "unique_name": "Latest Kannada",

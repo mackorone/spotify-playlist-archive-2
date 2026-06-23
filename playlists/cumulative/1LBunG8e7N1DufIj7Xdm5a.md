@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,465 songs - 9 day 22 hr 59 min
+4,471 songs - 9 day 23 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -968,6 +968,7 @@
 | [Destini Incrociati](https://open.spotify.com/track/4t8UxcDhj9Dv2mHKIlKpk9) | [ALI](https://open.spotify.com/artist/3DJfqc8zXlT27LYHh7NHtC) | [Destini Incrociati](https://open.spotify.com/album/1k1k9k4oU0w4HWfl5YsS3d) | 3:43 | 2025-06-24 |  |
 | [Destinos Cruzados](https://open.spotify.com/track/4tFkEuIWIZIKDPfaJhUyrP) | [Miscellaneous](https://open.spotify.com/artist/4lVq1XJ7brnkOBuzOzznHi) | [Miscellaneous](https://open.spotify.com/album/3suDk3EaTehsxRL6yoEx5s) | 3:10 | 2025-08-06 |  |
 | [Destiny](https://open.spotify.com/track/7bqf23zxyQJRX9knHQz6pI) | [Menervah](https://open.spotify.com/artist/2aiGy5FSWy22PUb03v0qSU) | [Destiny](https://open.spotify.com/album/6BsLw9mXsYgdQihpOF4MLs) | 4:06 | 2025-06-06 |  |
+| [Destitute](https://open.spotify.com/track/189yrz4VgeKGq0tqcg8n8E) | [SunDex](https://open.spotify.com/artist/6MyWvcpoXnkcs0CerPg1E7), [Bhadboi Mickey](https://open.spotify.com/artist/70ZZPlIQzksFpqaJOwx35L) | [Destitute](https://open.spotify.com/album/1sDSWOk9s96aLRWg3WL3RD) | 3:27 | 2026-06-22 |  |
 | [Desvelo](https://open.spotify.com/track/6rNtTePkYs4dwUmQSLpLFG) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Claroscuro](https://open.spotify.com/album/3w4KZQa7mGwhjPhuFAWR8P) | 3:54 | 2025-12-23 |  |
 | [Dethrone](https://open.spotify.com/track/4hC5UUtFEeUKOMekhdepEp) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Finding God Before God Finds Me \(Deluxe\)](https://open.spotify.com/album/30IYyCP3Ptfat4hO5alq7b) | 3:29 | 2025-04-09 |  |
 | [DEVILISH GAME](https://open.spotify.com/track/1ALj8qxhXyTOAKTj8VojuO) | [Zoleon](https://open.spotify.com/artist/2ICjf9TZAj9HK9nZ8zZtkK) | [DEVILISH GAME](https://open.spotify.com/album/6rgkD0IoRb7NJlW9ZXiuHX) | 2:54 | 2025-07-03 |  |
@@ -1640,6 +1641,7 @@
 | [Gocce](https://open.spotify.com/track/0id0lYAn1TYS9jyecBFZkx) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Gocce](https://open.spotify.com/album/1P11VMJbG2XweZPQBRzY8L) | 3:55 | 2022-10-24 |  |
 | [God > Gov](https://open.spotify.com/track/1Kezn86hxcNdJKfYNcBwYT) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [FOR CHARLIE](https://open.spotify.com/album/0Xn5dxCEWmsvZkMHsXNy23) | 3:29 | 2026-04-13 |  |
 | [God > Gov, baby](https://open.spotify.com/track/3IVrWeprK3pMYTdVIWAQSG) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [FOR CHARLIE](https://open.spotify.com/album/0Xn5dxCEWmsvZkMHsXNy23) | 3:04 | 2026-04-13 |  |
+| [God Gave Us More](https://open.spotify.com/track/6KB88MYBB1CGut4RYHRPQs) | [Another Drowning Day](https://open.spotify.com/artist/3lv5pVa3GmxX1LQc1TIXzw) | [Astral Dope](https://open.spotify.com/album/2RLsU51oCAs5nw9phvOumZ) | 4:35 | 2026-06-22 |  |
 | [God Knows](https://open.spotify.com/track/3idDCx8VXTkqPL6UQTK4bl) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [A Tear in the Fabric of Life](https://open.spotify.com/album/2Tm8ZMDLg4DVijCkvhKxJl) | 3:34 | 2025-04-09 |  |
 | [God Save The Queen](https://open.spotify.com/track/2mHchPRtQWet3iIS3jANr1) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here’s The Sex Pistols](https://open.spotify.com/album/6ggO3YVhyonYuFWUPBRyIv) | 3:19 | 2025-11-05 |  |
 | [going green](https://open.spotify.com/track/7dIclKcu97o52xHMXbioQk) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [going green](https://open.spotify.com/album/1N0ZHCWAJEHqVxVWUPq1Op) | 2:00 | 2025-07-28 |  |
@@ -1682,6 +1684,7 @@
 | [Gunpowder](https://open.spotify.com/track/0CcYWOqDWiKHDljReMLU7P) | [Ksv Sirius](https://open.spotify.com/artist/3mGKLjUOJC93N1lQB0RRJF) | [Gunpowder](https://open.spotify.com/album/7spH3TQAK7W69Qun8OnP0A) | 2:17 | 2025-10-22 |  |
 | [Gustos](https://open.spotify.com/track/5SJkReFshWHiW1FAKn5bP1) | [El Ñuki](https://open.spotify.com/artist/2m93z7IZZIxu1ctqfGQh1m) | [Gustos](https://open.spotify.com/album/0jprnlBuR2jYuYA2ZUZslC) | 3:01 | 2025-06-10 |  |
 | [Gyatt](https://open.spotify.com/track/1s229wXdCqJ6efrURPrxYj) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Le 20 Parole in Slang Più Virali del 2025 \(Se Non Le Usi, Sei Fuori!\)](https://open.spotify.com/album/69RjNyMSGbTMcHDf8psNgs) | 2:22 | 2025-09-17 |  |
+| [Gym y Farra](https://open.spotify.com/track/0VBJwn1pzveqZXUWQCdOLD) | [Sugarcrush](https://open.spotify.com/artist/42qSwWCF0ZJBVKtpuG1XlJ) | [Gym y Farra](https://open.spotify.com/album/5DLmphnuago9EOE4uWbHkK) | 2:08 | 2026-06-22 |  |
 | [Gymnopedie 808](https://open.spotify.com/track/71rWZ230q67GoOxcxbHFuc) | [Mauro Tudino](https://open.spotify.com/artist/1oeoZXpqKTC8Y62yrALSC9) | [Gymnopedie 808](https://open.spotify.com/album/3E84jMszdCtyVoEAL3twmv) | 2:43 | 2025-06-04 |  |
 | [Hai capito male](https://open.spotify.com/track/5W03BU7J8vzkOdHoJ4Q7xb) | [Ell](https://open.spotify.com/artist/02DsArEaXklbGbfOQeCdzN) | [Hai capito male](https://open.spotify.com/album/7D4bfcDP5mMKtU8AkRBGF7) | 3:15 | 2025-06-24 |  |
 | [Half\-Empty Soul](https://open.spotify.com/track/3itcmtHSqMpcPLcNcsbvqC) | [Bass\_Plus](https://open.spotify.com/artist/0uYsvadSSfd6FUaBB9syyb) | [Half\-Empty Soul](https://open.spotify.com/album/2Bo6gMb6cMRKnP2fh87b9U) | 3:00 | 2026-01-26 |  |
@@ -1689,6 +1692,7 @@
 | [Hallow Tales \- 2025 Remaster](https://open.spotify.com/track/6pJBr7i4ZZz6UeBgq30hYv) | [Robert80z](https://open.spotify.com/artist/3N0C6tFumt18qCNENY5WHB) | [The Dividing Line \(2025 Remaster\)](https://open.spotify.com/album/3MzgPxLIEpeiZJWqqdd8p0) | 3:48 | 2025-05-05 |  |
 | [Halloween Every Day](https://open.spotify.com/track/05GeKjRj0xlF6XYgFzuPQ8) | [Brenso](https://open.spotify.com/artist/56W6bwD2W4blOzdXURs1DE) | [Halloween Every Day](https://open.spotify.com/album/7GE4Fj5k4OewpL4PMgylwA) | 2:38 | 2025-09-29 |  |
 | [Hanahaki](https://open.spotify.com/track/7iZZ0nvDWuDSSxq7JtNtMO) | [Corrupt P1cture](https://open.spotify.com/artist/2q4DGRukYWiZFccYoq9uwN) | [Royalty](https://open.spotify.com/album/5ujB4MEna73Lq0i2sK7KHp) | 2:56 | 2025-12-19 |  |
+| [Hand of Gold](https://open.spotify.com/track/4dmzhrA0dXwVVBsCUFwIkC) | [James Sebastian](https://open.spotify.com/artist/6IX76Xz04QnJdDtcDIfoD6) | [Hand of Gold](https://open.spotify.com/album/6s9d9tyK12ljYpu1saaUXm) | 2:42 | 2026-06-22 |  |
 | [Hands of God](https://open.spotify.com/track/3ker5A7IVbjfi5gtjnIE0m) | [Destroy the Moon](https://open.spotify.com/artist/08fTPY5aK0E2zRxSN1Gbkt) | [Hands of God](https://open.spotify.com/album/0MmtQzwcyyyfRl0U6Ok6cN) | 5:35 | 2026-06-09 |  |
 | [Happy Birthday \- Bonus Version](https://open.spotify.com/track/7xKR6LncTuTfwgQjdj5IJ4) | [I\-GOR](https://open.spotify.com/artist/7ILoqOmtZIwe61KGkOeuDW) | [Happy Birthday](https://open.spotify.com/album/1xvgrbQ1o6UZYhiSfxeUfk) | 4:07 | 2026-02-05 |  |
 | [Harmony](https://open.spotify.com/track/2tiPViVQulw22A5TdkZYCa) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Music for peace](https://open.spotify.com/album/7iiVG6H66iXwiG3rT0qZLD) | 4:02 | 2025-09-17 |  |
@@ -2803,6 +2807,7 @@
 | [Olas en tus cielos](https://open.spotify.com/track/05uRcmkTIeJFcFIzJtd9yI) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Puzzles](https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY) | 3:02 | 2026-03-15 |  |
 | [Old Love Letters](https://open.spotify.com/track/6zh4VLmcKOQnsr3HhRGKKY) | [Labean Dreams](https://open.spotify.com/artist/4WOzApZ1D3ngpRaH9Qz0h6) | [Quiet Hours](https://open.spotify.com/album/1TS5WFpjEkERzNocaSz1hH) | 2:29 | 2025-06-05 |  |
 | [Olha Quem Chegou!](https://open.spotify.com/track/6iWjBKBAvB2vWvupoCuQRg) | [Abiran Merizio](https://open.spotify.com/artist/7MTDKX9iGhk0866amW38EU) | [Olha Quem Chegou!](https://open.spotify.com/album/4XpgaQwaOYX4ym3FR8feVS) | 3:29 | 2025-06-02 |  |
+| [Olhando o Teu Retrato](https://open.spotify.com/track/0ECeiP32ZjQaOgvlbfamrv) | [Adriano Mar](https://open.spotify.com/artist/4LfMSWeGo1zmDVDlXfVBTY) | [Adriano Mar](https://open.spotify.com/album/3bR8j0krJ4B4ZpExVraMox) | 5:59 | 2026-06-22 |  |
 | [Oltre il Confine](https://open.spotify.com/track/4P9StPmzhtrN5dheYVpbwm) | [Fra](https://open.spotify.com/artist/7bbemKBpCgvwVPn8dF4kct) | [Oltre il Confine](https://open.spotify.com/album/4V3mmKSDZ4IDFSzfcFyCSw) | 3:26 | 2025-06-03 |  |
 | [Oltre le Nuvole](https://open.spotify.com/track/0aTwFycLDe3jvwBl5wUaRE) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Musica italiana cool](https://open.spotify.com/album/4UNUcft7M8fVXZslCWB6cV) | 2:24 | 2025-09-13 |  |
 | [Oltre le Nuvole \(another\)](https://open.spotify.com/track/1JerB20NzXhAs6I94R86ke) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Musica italiana cool](https://open.spotify.com/album/4UNUcft7M8fVXZslCWB6cV) | 2:59 | 2025-09-13 |  |
@@ -3463,6 +3468,7 @@
 | [Smail Repairs](https://open.spotify.com/track/52mU4L93uVEW8d1xiUeycE) | [Mari Andri](https://open.spotify.com/artist/1hwSTTmts2CZ4Zf2z7DuSI) | [Smail Repairs](https://open.spotify.com/album/1TctB1UrjnVOQRyoHds3xp) | 3:02 | 2026-01-06 |  |
 | [Smile](https://open.spotify.com/track/3qMrbdTzbfK102InfVi43d) | [murCATolog](https://open.spotify.com/artist/2KoZ9RKRH2ktVlVpDEUoYj) | [Smile](https://open.spotify.com/album/1cG64IGY9YHPWvOdGGuuCY) | 1:52 | 2025-06-05 |  |
 | [Smoke & Mirrors](https://open.spotify.com/track/7zjOFk9le4tiTWvq3hYYuF) | [Jodi Stapler](https://open.spotify.com/artist/4WdzM51AF4SAryiDVc4RvK) | [Smoke & Mirrors](https://open.spotify.com/album/5ckSJdh2stkM5Z6CkQpqcJ) | 4:06 | 2026-01-08 |  |
+| [Smoke and Mirrors](https://open.spotify.com/track/00Oc8jsw9mzcvR2HhG1Jtm) | [Dane Rivers](https://open.spotify.com/artist/6PaURsKDuXnJOuLBhIpnJh) | [Smoke and Mirrors](https://open.spotify.com/album/13dteLs18ErbtnAkXlkN8D) | 2:58 | 2026-06-22 |  |
 | [Snake](https://open.spotify.com/track/5dZREFhSBk9ZkNTo89efG5) | [Glasess](https://open.spotify.com/artist/04jFeoskw4vFWX6asrVMn4) | [Snake](https://open.spotify.com/album/4qV1A8w3z2tsy4nYQ76BQV) | 3:12 | 2025-06-04 |  |
 | [Snap My Soul](https://open.spotify.com/track/3zHerDj9bYzXpInMOo0wMB) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Greatest pop hits vol.2](https://open.spotify.com/album/2zbvE0dDisIOuP9XCRXe0n) | 2:27 | 2025-09-17 |  |
 | [Snap My Soul \(another\)](https://open.spotify.com/track/0YWl1Ku3iGJodNE8CTQSAc) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Greatest pop hits vol.2](https://open.spotify.com/album/2zbvE0dDisIOuP9XCRXe0n) | 2:31 | 2025-09-17 |  |
@@ -4343,7 +4349,7 @@
 | [Whole Lotta Liquor \[Feat\. Future, PARTYNEXTDOOR\]](https://open.spotify.com/track/4PBiof9BsDvIHAziFWVrMC) | [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [For The Streets](https://open.spotify.com/album/3kt6kVdzG272bxMGMSkGlm) | 2:57 | 2025-05-16 |  |
 | [Whole Wide World](https://open.spotify.com/track/4AHU8QRdwCUWxPC53cw4Hh) | [Wreckless Eric](https://open.spotify.com/artist/46mRV6kvhsGvih0dMKktto) | [Wreckless Eric](https://open.spotify.com/album/1i7X9E0WxvC8uI6OcS7HNY) | 2:52 | 2025-11-05 |  |
 | [Whose Pint's Whose](https://open.spotify.com/track/5yz2Lsnzs71elFj1exOWXO) | [Railway Athletic](https://open.spotify.com/artist/4i5DLwG9DeSmYHTgh8rxD9) | [Whose Pint's Whose](https://open.spotify.com/album/3iLBOBrcFMVWZfqIqZzOlP) | 2:07 | 2025-11-05 |  |
-| [wht she needs lol](https://open.spotify.com/track/6EZEzGRrYcg5iT002y2Tlx) | [cjjkacey](https://open.spotify.com/artist/3wy39yYanFS9cugAeA72dA) | [wht she needs lol](https://open.spotify.com/album/3vPCTc3Akx1KlCWz8R8OCg) | 1:09 | 2025-11-05 |  |
+| [wht she needs lol](https://open.spotify.com/track/6EZEzGRrYcg5iT002y2Tlx) | [disgraceful](https://open.spotify.com/artist/1IWITCkCLfZJjZTbAFxEIA) | [wht she needs lol](https://open.spotify.com/album/3vPCTc3Akx1KlCWz8R8OCg) | 1:09 | 2025-11-05 |  |
 | [Why Ain't Fine](https://open.spotify.com/track/79Z4fZJ1OWi72PANL14gHo) | [Nyakstar](https://open.spotify.com/artist/4sIGvBMOHQSdtFKsE8JAIT) | [My World](https://open.spotify.com/album/5bnuWFTsZu4pHE3DYlSDAA) | 2:41 | 2025-05-16 |  |
 | [Why So Dark, Son? \- Album Intro](https://open.spotify.com/track/0twSBF8XOweUbPpmkbX0pb) | [Matthew’s Silent Chapter](https://open.spotify.com/artist/2JUTGg9txxR3B3acyTlFp7) | [Silent Chapter \(Part I\)](https://open.spotify.com/album/2yhfJTPTWQjFXSlIyz3qys) | 6:48 | 2026-02-05 |  |
 | [Wide Awake](https://open.spotify.com/track/4g4mQUNi6UXdRO0DyXLSlk) | [Routi](https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX) | [Wide Awake](https://open.spotify.com/album/6uBSoy2ZQZSNYplHyZroxm) | 3:19 | 2025-10-04 |  |

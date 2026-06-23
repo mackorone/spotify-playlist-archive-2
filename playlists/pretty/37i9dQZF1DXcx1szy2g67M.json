@@ -1,12 +1,12 @@
 {
   "description": "De playlist voor het zomergevoel van 2026!",
-  "num_followers": 669592,
+  "num_followers": 669979,
   "original_name": "Summer 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN09IlQEtRixWJN6EsV4jCTkeA17",
+  "snapshot_id": "AAAAAAKtYREefHlglFHKRuYNcXiHb8ed",
   "tracks": [
     {
       "added_at": "2026-06-19 10:00:12",
@@ -31,22 +31,6 @@
     {
       "added_at": "2026-06-19 10:00:12",
       "album": {
-        "name": "I Just Might",
-        "url": "https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 212973,
-      "name": "I Just Might",
-      "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
-    },
-    {
-      "added_at": "2026-06-19 10:00:12",
-      "album": {
         "name": "Soleil",
         "url": "https://open.spotify.com/album/5IwocCJFXNPDoBVSY88Bcw"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 131563,
       "name": "Soleil",
       "url": "https://open.spotify.com/track/2QfcxxXiORn553zXq7qrFG"
+    },
+    {
+      "added_at": "2026-06-19 10:00:12",
+      "album": {
+        "name": "I Just Might",
+        "url": "https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 212973,
+      "name": "I Just Might",
+      "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
     },
     {
       "added_at": "2026-06-19 10:00:12",
@@ -159,6 +159,34 @@
     {
       "added_at": "2026-06-19 10:00:12",
       "album": {
+        "name": "DNA (More Than A Game) [FIFA World Cup 2026\u2122]",
+        "url": "https://open.spotify.com/album/53oXeqv93oxxcJwFt3fjH5"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "EJAE",
+          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 176855,
+      "name": "DNA (More Than A Game)",
+      "url": "https://open.spotify.com/track/40qwbrvCXsiOPh9xOupCMp"
+    },
+    {
+      "added_at": "2026-06-19 10:00:12",
+      "album": {
         "name": "I Love Life (feat. RANI)",
         "url": "https://open.spotify.com/album/33cQtUeuBcXsUHoWuRoDlO"
       },
@@ -195,34 +223,6 @@
       "duration_ms": 191716,
       "name": "Repeat It",
       "url": "https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj"
-    },
-    {
-      "added_at": "2026-06-19 10:00:12",
-      "album": {
-        "name": "DNA (More Than A Game) [FIFA World Cup 2026\u2122]",
-        "url": "https://open.spotify.com/album/53oXeqv93oxxcJwFt3fjH5"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bocelli",
-          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "EJAE",
-          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 176855,
-      "name": "DNA (More Than A Game)",
-      "url": "https://open.spotify.com/track/40qwbrvCXsiOPh9xOupCMp"
     },
     {
       "added_at": "2026-06-19 10:00:12",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-06-19 10:00:12",
       "album": {
-        "name": "Buzzin'",
-        "url": "https://open.spotify.com/album/6CCXTxjH1uqCfajK8hykBy"
-      },
-      "artists": [
-        {
-          "name": "Blanks",
-          "url": "https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Buzzin'",
-      "url": "https://open.spotify.com/track/5CvN2Et62Edz2mhXyk26V9"
-    },
-    {
-      "added_at": "2026-06-19 10:00:12",
-      "album": {
         "name": "Sorry Papi",
         "url": "https://open.spotify.com/album/5OQeebulBcr1SXvtPNkUtk"
       },
@@ -683,18 +667,18 @@
     {
       "added_at": "2026-06-19 10:00:12",
       "album": {
-        "name": "Liar",
-        "url": "https://open.spotify.com/album/5zGqHfBnD4Lpk3dTwQT2b9"
+        "name": "Buzzin'",
+        "url": "https://open.spotify.com/album/6CCXTxjH1uqCfajK8hykBy"
       },
       "artists": [
         {
-          "name": "MICHA",
-          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
+          "name": "Blanks",
+          "url": "https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF"
         }
       ],
-      "duration_ms": 217637,
-      "name": "Liar",
-      "url": "https://open.spotify.com/track/2OWXbIn2geYwaSLgBxwkOM"
+      "duration_ms": 152000,
+      "name": "Buzzin'",
+      "url": "https://open.spotify.com/track/5CvN2Et62Edz2mhXyk26V9"
     },
     {
       "added_at": "2026-06-19 10:00:12",
@@ -863,22 +847,6 @@
     {
       "added_at": "2026-06-19 10:00:12",
       "album": {
-        "name": "Something Good",
-        "url": "https://open.spotify.com/album/1VZnoa7b6c1mxCCSG6SoGu"
-      },
-      "artists": [
-        {
-          "name": "Ilse DeLange",
-          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
-        }
-      ],
-      "duration_ms": 180840,
-      "name": "Something Good",
-      "url": "https://open.spotify.com/track/4WpNYzTIOjN3Aw6D3n81Rb"
-    },
-    {
-      "added_at": "2026-06-19 10:00:12",
-      "album": {
         "name": "Meet Me In The Dark",
         "url": "https://open.spotify.com/album/4jM92VN44r0AGwSAXGfKI4"
       },
@@ -911,6 +879,22 @@
       "duration_ms": 190822,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/1RxnarBaLERmqnGNmOCoCD"
+    },
+    {
+      "added_at": "2026-06-19 10:00:12",
+      "album": {
+        "name": "Liar",
+        "url": "https://open.spotify.com/album/5zGqHfBnD4Lpk3dTwQT2b9"
+      },
+      "artists": [
+        {
+          "name": "MICHA",
+          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
+        }
+      ],
+      "duration_ms": 217637,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/2OWXbIn2geYwaSLgBxwkOM"
     },
     {
       "added_at": "2026-06-19 10:00:12",
@@ -951,26 +935,6 @@
     {
       "added_at": "2026-06-19 10:00:12",
       "album": {
-        "name": "Forever Young",
-        "url": "https://open.spotify.com/album/3ta38ePE2hzaN6vbTPAPG0"
-      },
-      "artists": [
-        {
-          "name": "DJ Licious",
-          "url": "https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH"
-        },
-        {
-          "name": "Milow",
-          "url": "https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5"
-        }
-      ],
-      "duration_ms": 155295,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/6glT0f541YKSTvGhlhR730"
-    },
-    {
-      "added_at": "2026-06-19 10:00:12",
-      "album": {
         "name": "Withness",
         "url": "https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo"
       },
@@ -991,6 +955,22 @@
     {
       "added_at": "2026-06-19 10:00:12",
       "album": {
+        "name": "Something Good",
+        "url": "https://open.spotify.com/album/1VZnoa7b6c1mxCCSG6SoGu"
+      },
+      "artists": [
+        {
+          "name": "Ilse DeLange",
+          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
+        }
+      ],
+      "duration_ms": 180840,
+      "name": "Something Good",
+      "url": "https://open.spotify.com/track/4WpNYzTIOjN3Aw6D3n81Rb"
+    },
+    {
+      "added_at": "2026-06-19 10:00:12",
+      "album": {
         "name": "Let You Go",
         "url": "https://open.spotify.com/album/2cCD8fQvGsUeUl6683ftDa"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 219451,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/5f7vBhcVJaM80ryFJb5Fub"
+    },
+    {
+      "added_at": "2026-06-19 10:00:12",
+      "album": {
+        "name": "New Religion",
+        "url": "https://open.spotify.com/album/20tsEm7Eiww4EqHRYzWdyH"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "duration_ms": 174400,
+      "name": "New Religion",
+      "url": "https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR"
     },
     {
       "added_at": "2026-06-19 10:00:12",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2026-06-19 10:00:12",
       "album": {
-        "name": "New Religion",
-        "url": "https://open.spotify.com/album/20tsEm7Eiww4EqHRYzWdyH"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
-        }
-      ],
-      "duration_ms": 174400,
-      "name": "New Religion",
-      "url": "https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR"
-    },
-    {
-      "added_at": "2026-06-19 10:00:12",
-      "album": {
         "name": "Cowgirl",
         "url": "https://open.spotify.com/album/2clPCGSsH7P7UkBzTVy2bR"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 209720,
       "name": "Dracula - JENNIE Remix",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
+    },
+    {
+      "added_at": "2026-06-19 10:00:12",
+      "album": {
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/3ta38ePE2hzaN6vbTPAPG0"
+      },
+      "artists": [
+        {
+          "name": "DJ Licious",
+          "url": "https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH"
+        },
+        {
+          "name": "Milow",
+          "url": "https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5"
+        }
+      ],
+      "duration_ms": 155295,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/6glT0f541YKSTvGhlhR730"
     },
     {
       "added_at": "2026-06-19 10:00:12",

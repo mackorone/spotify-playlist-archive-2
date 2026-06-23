@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-236 songs - 17 hr 44 min
+237 songs - 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Absinthe](https://open.spotify.com/track/3ZBQ8TTYYRWFlVDhV0T35f) | [Duke Ellington Orchestra](https://open.spotify.com/artist/3W4GTSHxlqXfXjdmSNIbTB) | [Afro Bossa](https://open.spotify.com/album/4rVb2K3F6BHB5aY7kg0021) | 3:32 | 2022-09-08 | 2026-04-16 |
 | [Afro\-Bossa](https://open.spotify.com/track/7AONTENNNhbwr55248rPTq) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Mood Indigo](https://open.spotify.com/album/5sAlnk7GmDC5KRE1sKudIX) | 3:05 | 2025-08-24 |  |
 | [After All](https://open.spotify.com/track/17TOKPQ8GTh4u7Jov572By) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [And His Mother Called Him Bill](https://open.spotify.com/album/1VFa3WWYDJJCmEIwU4Ee2g) | 3:47 | 2022-09-08 |  |
+| [Agra](https://open.spotify.com/track/6M0cKWVAiapv9mRRTPLGql) | [Brian Landrus](https://open.spotify.com/artist/6tuV2Ec8WnYyWORBBaU7me) | [Plays Ellington & Strayhorn](https://open.spotify.com/album/5sFaufmOdL4LTkdgMeAa73) | 2:47 | 2026-06-22 |  |
 | [All Day Long](https://open.spotify.com/track/0DIbeVbiZSFHuM7dey6Z5Q) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [And His Mother Called Him Bill](https://open.spotify.com/album/1VFa3WWYDJJCmEIwU4Ee2g) | 2:56 | 2022-09-08 |  |
 | [All Heart \- Rehearsal](https://open.spotify.com/track/3JLVhKzTndT5TDFUq7xnXU) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Ella Fitzgerald Sings The Duke Ellington Song Book \(Expanded Edition\)](https://open.spotify.com/album/6a0SKcnVuX1Y3dp1jjjmle) | 4:02 | 2022-09-08 |  |
 | [All Roads Lead Back to You](https://open.spotify.com/track/0vdx7Ru1ANgxu8iE4IMFuI) | [Anaïs Reno](https://open.spotify.com/artist/2yDfaA2valGk3S1Qw0bybK), [Emmet Cohen](https://open.spotify.com/artist/3kyGmsyTEpjopA521SSlLT) | [Lovesome Thing](https://open.spotify.com/album/1Bi6JhIeusqvHRaHQ8Oq82) | 4:22 | 2025-08-03 | 2026-05-23 |

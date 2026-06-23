@@ -1,6 +1,6 @@
 {
   "description": "Grandes hinos da m\u00fasica brasileira para animar sua pista de dan\u00e7a! ",
-  "num_followers": 481937,
+  "num_followers": 481949,
   "original_name": "Festa Brasileira",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Samba de Raiz - Ao Vivo",
-        "url": "https://open.spotify.com/album/6T58aKZn3iMSizSYaF2pTc"
-      },
-      "artists": [
-        {
-          "name": "Samba De Raiz",
-          "url": "https://open.spotify.com/artist/0EtwDFzbxPxghUdhwfo9R4"
-        }
-      ],
-      "duration_ms": 195573,
-      "name": "Vou Festejar - Ao Vivo",
-      "url": "https://open.spotify.com/track/3v6nNd7zI8EPlHflsy2UtC"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "O Grande Encontro 20 Anos: Alceu, Elba e Geraldo (Ao Vivo)",
         "url": "https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 306853,
       "name": "Frevo Mulher - Ao Vivo",
       "url": "https://open.spotify.com/track/39DPLWaOhGeBSBwd0Nlm8y"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Samba de Raiz - Ao Vivo",
+        "url": "https://open.spotify.com/album/6T58aKZn3iMSizSYaF2pTc"
+      },
+      "artists": [
+        {
+          "name": "Samba De Raiz",
+          "url": "https://open.spotify.com/artist/0EtwDFzbxPxghUdhwfo9R4"
+        }
+      ],
+      "duration_ms": 195573,
+      "name": "Vou Festejar - Ao Vivo",
+      "url": "https://open.spotify.com/track/3v6nNd7zI8EPlHflsy2UtC"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -787,22 +787,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Eu Vou Fazer Voc\u00ea Voar",
-        "url": "https://open.spotify.com/album/0nPbgnOviIflX7LUqqlREF"
-      },
-      "artists": [
-        {
-          "name": "Alceu Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
-        }
-      ],
-      "duration_ms": 216053,
-      "name": "Eu Vou Fazer Voc\u00ea Voar",
-      "url": "https://open.spotify.com/track/2RzuiQcbRYMK4HlnhzSmDF"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Latin Grooves - Samba",
         "url": "https://open.spotify.com/album/5GMVnDFZfxr5EyhEnGStdU"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 123760,
       "name": "A Voz do Morro",
       "url": "https://open.spotify.com/track/6ItZuqcTniqKVEwENXoDBP"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Eu Vou Fazer Voc\u00ea Voar",
+        "url": "https://open.spotify.com/album/0nPbgnOviIflX7LUqqlREF"
+      },
+      "artists": [
+        {
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+        }
+      ],
+      "duration_ms": 216053,
+      "name": "Eu Vou Fazer Voc\u00ea Voar",
+      "url": "https://open.spotify.com/track/2RzuiQcbRYMK4HlnhzSmDF"
     },
     {
       "added_at": "2021-11-26 03:18:52",

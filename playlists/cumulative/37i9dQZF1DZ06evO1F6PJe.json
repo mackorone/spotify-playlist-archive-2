@@ -1732,7 +1732,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-23",
       "duration_ms": 600653,
       "name": "I Fall Apart (Live)",
       "url": "https://open.spotify.com/track/42f3gDMeYCO8C95XzRuJ3s"
@@ -1912,6 +1912,24 @@
       "duration_ms": 280559,
       "name": "I Won't Be Led Astray",
       "url": "https://open.spotify.com/track/5PE5rVMDDFCe9S3giYfcJQ"
+    },
+    {
+      "album": {
+        "name": "The Spirit Of Rory Live From Cork",
+        "url": "https://open.spotify.com/album/67XEF1IHUmQF2sas0AZ2hq"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415960,
+      "name": "I Wonder Who (Live)",
+      "url": "https://open.spotify.com/track/2X6Sp4oTkbWhoLzTFxPmBG"
     },
     {
       "album": {

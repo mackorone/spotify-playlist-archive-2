@@ -4,7 +4,7 @@
 
 > PRACI in cover della playlist con il futuro del rap italiano 📈
 
-2,486 songs - 4 day 9 hr 0 min
+2,487 songs - 4 day 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Assist](https://open.spotify.com/track/3ylIrL5rpkS0Hir07tZdru) | [Ramzes](https://open.spotify.com/artist/3lSnvqZegxgUxopOE6MUmR), [Philip](https://open.spotify.com/artist/0rq5wppHKGTFcdl8da5ODZ) | [Assist](https://open.spotify.com/album/5lZ4smdVv19InlRuffdtit) | 2:24 | 2025-06-12 | 2025-07-18 |
 | [ASSISTE 2 \(feat\. Kilimoney\)](https://open.spotify.com/track/6uJCQb6kWhXfWrIXnDP8mx) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Kilimoney](https://open.spotify.com/artist/01lVP0L85U9jYVREPOB8RG) | [ASSISTE 2 \(feat\. Kilimoney\)](https://open.spotify.com/album/3RBPeDOoTvwywWy8oL4pNe) | 2:38 | 2023-06-29 | 2023-10-27 |
 | [Assolo](https://open.spotify.com/track/4qwZ6vYaOcrjRgoySJN6FW) | [Enny P](https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj), [ilovethisbeat](https://open.spotify.com/artist/4KXuowxUNZQRZC5CoY1Z2P), [Kimble](https://open.spotify.com/artist/29w7cTRBrov7bDdWYDrWwM) | [Assolo](https://open.spotify.com/album/7iJAtuDChMdDnDD48XKjx3) | 2:16 | 2025-01-23 | 2025-02-14 |
+| [ASTP](https://open.spotify.com/track/3P3KlwQUfD12ggAmnbfeXt) | [Lory G](https://open.spotify.com/artist/67tVbMvYcF1OlbyEUpjYs3), [Sum M](https://open.spotify.com/artist/7BIs2dy9J4quveTbB3Yu3t) | [ASTP](https://open.spotify.com/album/0FD51de5MwzTx730l5ZilT) | 1:55 | 2026-06-22 |  |
 | [ATAM](https://open.spotify.com/track/0CeI5m5G64xPosB2kVTSIv) | [Benii](https://open.spotify.com/artist/2BPa4q78epq6JYvtGBn0IF), [NiceKidd](https://open.spotify.com/artist/3zNcd0BHC60ItVXvCJtlyX) | [SENTIBENII](https://open.spotify.com/album/5rxmF3gqhzGLyclz1VQgJq) | 2:03 | 2025-05-08 | 2025-05-23 |
 | [ATE \- Why Do You Hate?](https://open.spotify.com/track/53bHvb5mbJe4NfMSmGlG6o) | [Doll Kill](https://open.spotify.com/artist/0JOadOTQ5hTC6EYCmKDAsX) | [ATE \(Why Do You Hate?\)](https://open.spotify.com/album/6cFCVOqNc9JcpB4lf0NiF8) | 1:57 | 2025-07-03 | 2025-07-18 |
 | [Attimi](https://open.spotify.com/track/5oZ1UQqXAFsvUgYNQGs2I8) | [Westcross](https://open.spotify.com/artist/6CWIvN7FdCWsZZYcfmYPzk) | [Attimi](https://open.spotify.com/album/6m8vAIVU1BttTt6e09Vrax) | 1:57 | 2024-02-22 | 2024-03-08 |
@@ -2233,7 +2234,7 @@
 | [TILL I DIE](https://open.spotify.com/track/0U4z6d3be5PsrMRxIyqLGe) | [Touché](https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb) | [TILL I DIE](https://open.spotify.com/album/5kJNEvseGqjnoUM2AVaxzM) | 2:13 | 2024-02-22 | 2024-03-15 |
 | [TIME \(Y2K\)](https://open.spotify.com/track/0T56iBxcEmHKR7oW8nHgt7) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt), [Ago](https://open.spotify.com/artist/6glXq3t35awYBHo1b96imY) | [TIME \(Y2K\)](https://open.spotify.com/album/74Rwmg1IZJnFSCJsJCyWuj) | 2:04 | 2024-10-24 | 2024-11-08 |
 | [Timore \(feat\. Nabi\)](https://open.spotify.com/track/4AFjiLTbtVZe8mlmIdB08d) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [MARTIRE](https://open.spotify.com/album/1oPNcyNaxXsXid3saN3bUO) | 2:51 | 2025-01-31 | 2025-03-14 |
-| [Tinky Winky \(feat\. Pitta & Macello\)](https://open.spotify.com/track/0CcRHkvHChzo9wJDDtzR2L) | [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB), [Pitta](https://open.spotify.com/artist/33KV7opyVMdhw1rHHckMDT), [Macello](https://open.spotify.com/artist/3DzlFEEKyk4jj7FuYnJSZZ) | [Tinky Winky \(feat\. Pitta & Macello\)](https://open.spotify.com/album/1oOMmNU5XeQPApDIfU1SHW) | 3:10 | 2026-04-02 |  |
+| [Tinky Winky \(feat\. Pitta & Macello\)](https://open.spotify.com/track/0CcRHkvHChzo9wJDDtzR2L) | [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB), [Pitta](https://open.spotify.com/artist/33KV7opyVMdhw1rHHckMDT), [Macello](https://open.spotify.com/artist/3DzlFEEKyk4jj7FuYnJSZZ) | [Tinky Winky \(feat\. Pitta & Macello\)](https://open.spotify.com/album/1oOMmNU5XeQPApDIfU1SHW) | 3:10 | 2026-04-02 | 2026-06-23 |
 | [TiP TAP TOE](https://open.spotify.com/track/7w7aSYmcpQcQlLWhAC07fe) | [Pitta](https://open.spotify.com/artist/33KV7opyVMdhw1rHHckMDT), [4997](https://open.spotify.com/artist/0wBVwV8gukXKLSrVjQVJTE) | [TiP TAP TOE](https://open.spotify.com/album/5LZk42GY11ZurXvPyOPrwp) | 2:17 | 2024-12-05 | 2025-01-03 |
 | [TIRITERA](https://open.spotify.com/track/4GxyydS0s5RTRZCiQlgAww) | [Peter Napo](https://open.spotify.com/artist/78gBgd0qhvqdG79UAS3mj4) | [TIRITERA](https://open.spotify.com/album/6JOqmwl3BnI2JqbhtWVp6S) | 2:08 | 2026-01-22 | 2026-02-13 |
 | [TMax Nero](https://open.spotify.com/track/1uJla0JBNlxpx09X5cpLNn) | [Baby Rich](https://open.spotify.com/artist/6nNm1ydguU7kzvUHidRxRN), [Nuto Jr](https://open.spotify.com/artist/35cHFPW5iuDM1df442BBt5) | [TMax Nero](https://open.spotify.com/album/0OTdXFFM6J7Hy3WuH4CVIM) | 2:36 | 2022-09-15 | 2022-10-07 |

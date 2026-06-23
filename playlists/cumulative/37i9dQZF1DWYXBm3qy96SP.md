@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Original Love
 
-2,101 songs - 5 day 2 hr 18 min
+2,102 songs - 5 day 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,6 +320,7 @@
 | [Butterflies](https://open.spotify.com/track/7IXVYqCCMxCyLZuK97OAQY) | [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [Butterflies](https://open.spotify.com/album/2Xsbgs98TZqAqX7XJcLw8q) | 2:52 | 2023-11-30 | 2023-12-08 |
 | [butterflies \(From Barbie The Album\)](https://open.spotify.com/track/0awsZaKWdHDpbayAdfYY0p) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [butterflies \(From Barbie The Album\)](https://open.spotify.com/album/6vrh5MHwmmqW4WYZr4wWfg) | 2:16 | 2023-07-20 | 2023-07-28 |
 | [By The Time You're Reading This](https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Welcome To My House](https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw) | 3:10 | 2023-07-27 | 2023-08-11 |
+| [Bye Bye Bye](https://open.spotify.com/track/2pCM15dfMDkbOup7jTHZxB) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Bye Bye Bye](https://open.spotify.com/album/5rspuinAci5QQYJpyy8JyU) | 3:21 | 2026-06-22 |  |
 | [Caesar on a TV Screen](https://open.spotify.com/track/1Eysrn2oD2cIuuFQD1Iu2G) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Caesar on a TV Screen](https://open.spotify.com/album/5NWTTPxklDD8ed31edYo5V) | 3:49 | 2024-01-04 | 2024-02-29 |
 | [Caffeine](https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Caffeine](https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO) | 3:04 | 2023-07-20 | 2024-03-01 |
 | [Cages](https://open.spotify.com/track/44Hg66DPXP33pXVI1pHIRi) | [Strung Out](https://open.spotify.com/artist/07ATE522e8aDsEb0JVLYqg) | [Cages](https://open.spotify.com/album/2vr9997EIlO8lNLN2azObV) | 3:07 | 2024-01-18 | 2024-01-26 |
@@ -1366,7 +1367,7 @@
 | [Paradox](https://open.spotify.com/track/0Xz3vuo3cINtRsZWMsxZUx) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh), [Bonnie Fraser](https://open.spotify.com/artist/4lPsOekQkRVNqFikwNd7jZ) | [Paradox](https://open.spotify.com/album/33O3I5EWGkW54jeNWW1lZZ) | 4:01 | 2023-06-22 | 2023-06-30 |
 | [Paralyzed](https://open.spotify.com/track/4QQyHD0xPEHSGha4dExUKH) | [Colours in the Street](https://open.spotify.com/artist/3zlipWQdlIaSD0UytEUeO0), [The Faim](https://open.spotify.com/artist/6VsU92soWFLtVsSP65rkrN) | [Let's Talk](https://open.spotify.com/album/2NNK0NFzBMSEsGrYpJDZwZ) | 4:13 | 2023-07-13 | 2023-07-21 |
 | [Paralyzed](https://open.spotify.com/track/6PKxJG1HapLGNqaKoRaIq4) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Paralyzed](https://open.spotify.com/album/1CBaF78AkVYS2S3PufMKgl) | 4:28 | 2024-05-23 | 2024-07-12 |
-| [Paralyzed](https://open.spotify.com/track/5sZqrPVsomozAx6QnyD996) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Paralyzed](https://open.spotify.com/album/5Oa9k6uLFOMl27rMOBN7fi) | 3:12 | 2026-05-28 |  |
+| [Paralyzed](https://open.spotify.com/track/5sZqrPVsomozAx6QnyD996) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Paralyzed](https://open.spotify.com/album/5Oa9k6uLFOMl27rMOBN7fi) | 3:12 | 2026-05-28 | 2026-06-23 |
 | [ParaNoia](https://open.spotify.com/track/5G9amsIn2lFbIbx628vDFk) | [Nomy](https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e) | [ParaNoia](https://open.spotify.com/album/53Dya4cEvTYgXDScEkawx3) | 3:26 | 2023-10-19 | 2023-10-27 |
 | [Parking Garage Song \#5](https://open.spotify.com/track/3BIfhn8vRZEWM9d2Em37ez) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [Joy Next Door](https://open.spotify.com/album/2KncKAPSZkXQxaU122QDrx) | 3:01 | 2026-05-14 | 2026-05-22 |
 | [Parody](https://open.spotify.com/track/69JmafotyJNxvKsbQbQj5v) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Parody](https://open.spotify.com/album/6L8pdjEecAuyqss3nizuOu) | 3:06 | 2023-03-16 | 2023-03-25 |

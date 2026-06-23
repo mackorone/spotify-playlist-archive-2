@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYXDfndvXy2.md) - [plain]
 
 ### [Editors' Picks: Best Songs of the Year So Far](https://open.spotify.com/playlist/37i9dQZF1DWSYXDfndvXy2)
 
-> Meticulously selected by Spotify music experts\. Cover: underscores
+> Meticulously selected by Spotify music experts\. Cover: Olivia Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,206 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,270 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYXDfndvXy2.md) - [plain]
 | 49 | [Seeing Is Forgetting](https://open.spotify.com/track/19iE95ZowwXzcMaLZNcWyn) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0), [Henry Solomon](https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR) | [Seeing Is Forgetting](https://open.spotify.com/album/3HKaS5uR80yGC1SW34d4ll) | 3:36 |
 | 50 | [You and I](https://open.spotify.com/track/3veAtMxHWM7SbZOXfJ142t) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [You and I](https://open.spotify.com/album/5ILxuigcogkefZqzMuHU2t) | 2:49 |
 
-Snapshot ID: `AAAAABohIiJbJbEcCBGYuqGh1/8ay11H`
+Snapshot ID: `AAAAAE/37I0A9atPIuGDzBWNQ6c91ynf`

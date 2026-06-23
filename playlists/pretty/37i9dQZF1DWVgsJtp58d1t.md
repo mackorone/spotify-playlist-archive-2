@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Cover: <a href="spotify:artist:3SozjO3Lat463tQICI9LcE">Tyla</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,140,362 likes - 156 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,140,341 likes - 156 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

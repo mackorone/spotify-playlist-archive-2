@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,884 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,934 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 46 | [No One Knows](https://open.spotify.com/track/03zEU8s3KD7erkkXN3GWgR) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [No One Knows](https://open.spotify.com/album/0wwZVKonQFQMtpHAHHW2Zs) | 3:12 |
 | 47 | [Tha Tha](https://open.spotify.com/track/3NCTkRAJLcSK0OMyuomlAs) | [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf), [Raj Mawar](https://open.spotify.com/artist/0481f4CMOOSlFB69C2wyZf) | [Tha Tha](https://open.spotify.com/album/48tF1dtmzFTUflbODkZ6UO) | 2:49 |
 | 48 | [Albedi](https://open.spotify.com/track/0qFp9OBd6h4l6XelnBNzlZ) | [Sangam Vigyaanik](https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Albedi](https://open.spotify.com/album/4wgSAxKaTsBRsQClR0kR1H) | 3:00 |
-| 49 | [0008](https://open.spotify.com/track/3QbBAFPQh3BOcGHUiSRGMV) | [R Maan](https://open.spotify.com/artist/0fNDH2JsW1yPrwIYjyOB5n) | [0008](https://open.spotify.com/album/2HvTVuae3QUQEM9SiyzqHT) | 2:41 |
-| 50 | [Dead Lift \(feat\. Neeraj Goyat & Raja Yadav\)](https://open.spotify.com/track/2PnmxUT3UT8EIChBeWR9RG) | [Branded Fouji](https://open.spotify.com/artist/6sbBZPIY51iHNT9Ydt7IMs), [Dopevibe](https://open.spotify.com/artist/16FUi8xdvWrsJH08z9bKKr), [Neeraj Goyat](https://open.spotify.com/artist/23EVnGZSG0LzdeEXJvefda), [Raja Yadav](https://open.spotify.com/artist/1jdSs5vlSStODzBAi30Z6V) | [Dead Lift \(feat\. Neeraj Goyat & Raja Yadav\)](https://open.spotify.com/album/0em397h6R74n2y5v5JhJyc) | 3:23 |
+| 49 | [Boyz In Bar](https://open.spotify.com/track/7tVDHY4FCGzPCBB5qhO74T) | [Suvir](https://open.spotify.com/artist/0ACQfm6VJUstBUijhGgYFg), [Pablo](https://open.spotify.com/artist/2aGhLC9R47KiiD1ZRjaHgq), [Real Raka](https://open.spotify.com/artist/7DiKFC6GbY2W7Y7FlMmzyk) | [Boyz In Bar](https://open.spotify.com/album/6OlzS5PEKffkDKyVc1t2y7) | 3:40 |
+| 50 | [0008](https://open.spotify.com/track/3QbBAFPQh3BOcGHUiSRGMV) | [R Maan](https://open.spotify.com/artist/0fNDH2JsW1yPrwIYjyOB5n) | [0008](https://open.spotify.com/album/2HvTVuae3QUQEM9SiyzqHT) | 2:41 |
 
 Snapshot ID: `AAAAAJXeTGdOFSsnh0WKg+Vd4v2E0Bee`

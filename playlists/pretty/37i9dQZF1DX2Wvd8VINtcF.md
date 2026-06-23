@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Jimi Somewhere & SAIAH✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,039 likes - 310 songs - 16 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,037 likes - 310 songs - 16 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
