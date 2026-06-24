@@ -1,12 +1,12 @@
 {
   "description": "This is Inspector. The essential tracks, all in one playlist.",
-  "num_followers": 125154,
+  "num_followers": 125167,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajcpgAAAAACFYSlTD29JhZgnZhaYwPG9",
+  "snapshot_id": "ajh7AAAAAAAj7bOtL6sG+D/51RG5cY7w",
   "tracks": [
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aunque No Sea Conmigo",
-        "url": "https://open.spotify.com/album/0SAqqwdLfhwadQIveMQDRG"
+        "name": "Busco Amor",
+        "url": "https://open.spotify.com/album/2vALxKJpED66tqUiDLLzXw"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 251680,
-      "name": "Aunque No Sea Conmigo",
-      "url": "https://open.spotify.com/track/6PpQWsbpTgmI7sk2iivhrK"
+      "duration_ms": 222138,
+      "name": "Busco Amor",
+      "url": "https://open.spotify.com/track/7xSg3RsbKQW7psMXu85oqM"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Busco Amor",
-        "url": "https://open.spotify.com/album/2vALxKJpED66tqUiDLLzXw"
+        "name": "Aunque No Sea Conmigo",
+        "url": "https://open.spotify.com/album/0SAqqwdLfhwadQIveMQDRG"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 222138,
-      "name": "Busco Amor",
-      "url": "https://open.spotify.com/track/7xSg3RsbKQW7psMXu85oqM"
+      "duration_ms": 251680,
+      "name": "Aunque No Sea Conmigo",
+      "url": "https://open.spotify.com/track/6PpQWsbpTgmI7sk2iivhrK"
     },
     {
       "added_at": null,
@@ -451,22 +451,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inspector",
-        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
+        "name": "Ska a La Carta, Vol.1",
+        "url": "https://open.spotify.com/album/4fiDfS2LDihbPvxEZy0E0E"
       },
       "artists": [
         {
           "name": "Inspector",
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        },
-        {
-          "name": "Ely Guerra",
-          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
         }
       ],
-      "duration_ms": 200613,
-      "name": "Noviembre (feat. Ely Guerra)",
-      "url": "https://open.spotify.com/track/1ZZwOa4F545Z0bsirja8iz"
+      "duration_ms": 271866,
+      "name": "Yo No Nac\u00ed Para Amar",
+      "url": "https://open.spotify.com/track/36yZWXnrRJnxScVITAwcFl"
     },
     {
       "added_at": null,
@@ -511,18 +507,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ska a La Carta, Vol.1",
-        "url": "https://open.spotify.com/album/4fiDfS2LDihbPvxEZy0E0E"
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
       },
       "artists": [
         {
           "name": "Inspector",
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        },
+        {
+          "name": "Ely Guerra",
+          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
         }
       ],
-      "duration_ms": 271866,
-      "name": "Yo No Nac\u00ed Para Amar",
-      "url": "https://open.spotify.com/track/36yZWXnrRJnxScVITAwcFl"
+      "duration_ms": 200613,
+      "name": "Noviembre (feat. Ely Guerra)",
+      "url": "https://open.spotify.com/track/1ZZwOa4F545Z0bsirja8iz"
     },
     {
       "added_at": null,

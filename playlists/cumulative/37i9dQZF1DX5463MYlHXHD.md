@@ -4,7 +4,7 @@
 
 > Vieja escuela y de ahora 📸 Mala Fama.
 
-372 songs - 20 hr 43 min
+373 songs - 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [Par\-Tusa](https://open.spotify.com/track/7iZSr3NiHlqJGAJmlfd3Ru) | [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw) | [Par\-Tusa](https://open.spotify.com/album/1gg1qZMNUpw9Tsp7pbJoAo) | 3:10 | 2023-05-26 | 2025-04-12 |
 | [Para la Gilada](https://open.spotify.com/track/0C2m7ZH8czZ1nnaVJlZtrt) | [Meta Guacha](https://open.spotify.com/artist/3HOkZ1yVuMiVJeH1sFjMQL) | [Supermerk2 & Meta Guacha: 2x1](https://open.spotify.com/album/3iEZnqx25qRtb6XKFaYq0y) | 3:42 | 2024-03-05 | 2024-10-26 |
 | [Para la Gilada](https://open.spotify.com/track/3BCfo3eZ1AhKeVj4D9GGKL) | [Meta Guacha](https://open.spotify.com/artist/3HOkZ1yVuMiVJeH1sFjMQL) | [Lona, Cartón y Chapa](https://open.spotify.com/album/6ChioFR0zr61jvyH1F7WA5) | 3:42 | 2023-05-26 | 2023-08-11 |
+| [Para La Gilada \- Remix](https://open.spotify.com/track/7oRXN6etpQGWG2yAnQFzVB) | [Meta Guacha](https://open.spotify.com/artist/3HOkZ1yVuMiVJeH1sFjMQL), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [Para La Gilada \(Remix\)](https://open.spotify.com/album/27r4d2S6tSMdRxkou6ZCyU) | 2:56 | 2026-06-23 |  |
 | [Para Que Volver](https://open.spotify.com/track/1vVP2sDWQH2WAwY4HJZ2xc) | [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM), [Ezequiel Matthysse](https://open.spotify.com/artist/4VnyKPWMg841xC0ekoYDmk) | [Para Que Volver](https://open.spotify.com/album/4ZZlKOxcgyF46zukNom517) | 3:01 | 2023-11-17 | 2023-12-14 |
 | [Para Que Volver \- Remix](https://open.spotify.com/track/3ZLRy52cQ3qYw34XsZgUTA) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Miguelito](https://open.spotify.com/artist/4IJbOplPSGIRdzgO4fjSdC), [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75), [El Nikko DJ](https://open.spotify.com/artist/73SpjqbRsmNwFhRvNUd2r9) | [Para Que Volver \(Remix\)](https://open.spotify.com/album/14Zy4BPJID3Ft96E7K8Pt6) | 3:08 | 2025-04-04 |  |
 | [Parate de Manos Que Llegó Repiola](https://open.spotify.com/track/16zIbSjEb9XhKbdBA5SBmA) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ), [El Color Que Faltaba](https://open.spotify.com/artist/1KAZwv1yGQvJCks7TXx6rP) | [Parate de Manos Que Llegó Repiola](https://open.spotify.com/album/1XvHnrXzcsG95Jsu5ogzSq) | 1:59 | 2025-05-02 | 2025-05-10 |
@@ -294,7 +295,7 @@
 | [Sabrosón](https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Parulo](https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8) | 2:54 | 2023-05-26 | 2024-04-19 |
 | [SANTA FE KLAN \| DJ TAO Turreo Sessions \#473](https://open.spotify.com/track/3yWjuT7dTTTnalhjME6T2F) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [SANTA FE KLAN \| DJ TAO Turreo Sessions \#473](https://open.spotify.com/album/3wfrXUOmmYvZybB6WJVZXY) | 2:51 | 2023-05-26 | 2023-11-25 |
 | [Saveiro](https://open.spotify.com/track/7gBjthQXTuZS0DsfCJEt0Q) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Saveiro](https://open.spotify.com/album/2OdD4Bw78UeyjUKejq2UZR) | 3:32 | 2023-05-26 |  |
-| [Se Me Va la Voz](https://open.spotify.com/track/4i7j1PdXPJeftm9gj8J1DL) | [La Fase Buk](https://open.spotify.com/artist/5b0t98sO8PmHcr3eAXcSMg) | [Conecta 2](https://open.spotify.com/album/6jyhrM5X4yw1xfAh4lCr8s) | 3:16 | 2026-02-13 |  |
+| [Se Me Va la Voz](https://open.spotify.com/track/4i7j1PdXPJeftm9gj8J1DL) | [La Fase Buk](https://open.spotify.com/artist/5b0t98sO8PmHcr3eAXcSMg) | [Conecta 2](https://open.spotify.com/album/6jyhrM5X4yw1xfAh4lCr8s) | 3:16 | 2026-02-13 | 2026-06-24 |
 | [Se te nota en la cara \- Remix](https://open.spotify.com/track/4PtgaoEyK9F7nuIADfkth4) | [Los Turros](https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB), [elaggume](https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb), [Fauna Music](https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P) | [Se te nota en la cara \(Remix\)](https://open.spotify.com/album/3J9EGVPFIor89QVGn3gJwZ) | 2:50 | 2024-12-13 | 2025-05-21 |
 | [Se Te Ve la Tanga](https://open.spotify.com/track/3GUMMzUB7Kk0BSqxEDyieS) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [El Bonaerense](https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x) | 4:23 | 2024-04-27 | 2026-03-03 |
 | [Sentado en la Esquina](https://open.spotify.com/track/2KTrV1P4FIooFm8wFRcUBQ) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Los Maleantes](https://open.spotify.com/album/4Qjy0jhjBUFH1btd8lmg6Q) | 2:44 | 2023-05-26 |  |

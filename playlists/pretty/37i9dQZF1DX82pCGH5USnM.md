@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 
 > Soft house music for your laidback moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,469,856 likes - 195 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,470,142 likes - 195 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 | 194 | [Cloud Drift](https://open.spotify.com/track/7Ag86EULfh58EOJr4caHsv) | [Gary Luton](https://open.spotify.com/artist/5jSovYGyrvQl5vb5PmOdo4) | [Cloud Drift](https://open.spotify.com/album/4x3hifMMnVUK3mjotTGhMs) | 2:07 |
 | 195 | [Kefir](https://open.spotify.com/track/7cPFWUWzjfgAaqzpRD4EZI) | [Sundae Club](https://open.spotify.com/artist/5ytfSQ4sXZ3LzRgBxz4Bwb) | [Kefir](https://open.spotify.com/album/7cW9bsnc7Rv3e2MhcGmvfd) | 2:04 |
 
-Snapshot ID: `AAAAAKq3kDQ/CvuEFBP9mPRFypz6R4Zd`
+Snapshot ID: `AAAAAOL8asF3SgWr2j4KUCu54BYmB1oJ`

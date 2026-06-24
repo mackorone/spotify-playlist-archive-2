@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-462 songs - 23 hr 43 min
+463 songs - 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Don't Know Why](https://open.spotify.com/track/3vyTl0rNX1xxW1XLeeMcmu) | [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ) | [Don't Know Why](https://open.spotify.com/album/5H2icnX0IBaEd2mp3B3w4E) | 2:04 | 2022-08-23 | 2023-08-11 |
 | [DON'T STOP NOW!](https://open.spotify.com/track/4ePliKQJLvcyDtlzqfnZF2) | [LOFIN](https://open.spotify.com/artist/3VJWdrq7JC3sVdd11NSYfx), [Jasq](https://open.spotify.com/artist/32Outb7Q3w7dRQUhUqpvpl) | [DON'T STOP NOW!](https://open.spotify.com/album/13GXMtWGDN7EJohfbuZNUl) | 2:44 | 2026-02-20 |  |
 | [Don't Surrender \- Abandoned Remix](https://open.spotify.com/track/30YkaFXxirvZO9JWGYVGkW) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [EMM](https://open.spotify.com/artist/1pYPWJEmCbWjcqnxw3qcyo), [Abandoned](https://open.spotify.com/artist/1qs72LBhNBAQGwxFAnlo0x) | [The Revolution \(Remixed\)](https://open.spotify.com/album/2GeQ0N4tJLvtpVKLLd2M3g) | 3:12 | 2022-02-03 | 2022-09-15 |
+| [Down 2 Wait](https://open.spotify.com/track/0GD71HdgxylP7DhFvGgYXC) | [Crumb Pit](https://open.spotify.com/artist/7FB7TG2lBUfqoNQlWz7z1I) | [Down 2 Wait](https://open.spotify.com/album/0KSf0zeLELHSegXvWvmEMi) | 2:34 | 2026-06-23 |  |
 | [Dracula](https://open.spotify.com/track/6blc90YlYH5QrY51TZqoh7) | [Duke Gray](https://open.spotify.com/artist/08fXho1e3xrXDBYXuiVj5y), [MANGASLAYERS](https://open.spotify.com/artist/2PLofrapbcSOGa6VBEFwyi), [diGi](https://open.spotify.com/artist/626KJQ9bodKgZe7Qa329VL) | [Dracula](https://open.spotify.com/album/7cBNQNJJXSae298SXA8ZS9) | 2:49 | 2023-08-10 |  |
 | [Dreamer](https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Dreamer](https://open.spotify.com/album/2lqGGudTqfh9zLgx0CWiSU) | 2:35 | 2023-04-07 | 2023-07-15 |
 | [Dreaming of Me \(feat\. Jaime Deraz\)](https://open.spotify.com/track/7gDmGpWuB7ghdzW09HfMx9) | [Jack Shore](https://open.spotify.com/artist/6NgzzaS7j1LDVAV72lmV3P), [Tollef](https://open.spotify.com/artist/59cdswWEaEGEbeDOiCKazv), [Jaime Deraz](https://open.spotify.com/artist/4J7ascv32yT6yE75KRCktv) | [Dreaming of Me \(feat\. Jaime Deraz\)](https://open.spotify.com/album/3mxgOh0vQDgYNobCZMveoz) | 3:19 | 2022-02-03 | 2022-09-15 |

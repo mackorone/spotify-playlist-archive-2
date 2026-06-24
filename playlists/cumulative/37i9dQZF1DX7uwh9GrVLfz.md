@@ -2,9 +2,9 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: SHAKALABBITS
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: HEY\-SMITH
 
-903 songs - 1 day 23 hr 39 min
+905 songs - 1 day 23 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,7 @@
 | [Go away](https://open.spotify.com/track/74m1ANTskdub3D1QgMoMwX) | [Junky58%](https://open.spotify.com/artist/70KfXyXsFwEmCA1i6kMn2m) | [Go away](https://open.spotify.com/album/6NXDgS5x1zVQsgpdNangZk) | 2:48 | 2022-09-06 | 2022-09-15 |
 | [Go For It](https://open.spotify.com/track/6WEC4dCGAuMfrUMoF55BD4) | [ANGER FLARES](https://open.spotify.com/artist/1KT2rYCKxq9UQ6tqnXLhSP) | [Punk Rock Compilation, Vol​​.1](https://open.spotify.com/album/5L0WzRvc31A7qaHd3yDdHK) | 1:53 | 2023-01-24 | 2023-04-19 |
 | [goes on](https://open.spotify.com/track/3mpavY4fu2IKWpWIuFd03d) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [Kishidan](https://open.spotify.com/artist/58WqD0AmJH03qw4AUN00Yx) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 3:21 | 2022-05-17 | 2022-08-19 |
-| [GOLD YOUTH](https://open.spotify.com/track/1LPGdMiMhY6LXEMoIAa7ZK) | [FUNNY THINK](https://open.spotify.com/artist/62JiGgwrhE1PYawKu2qWtC) | [GOLD YOUTH](https://open.spotify.com/album/4GYC2moJkrip8Hct4XskBe) | 2:41 | 2023-12-12 |  |
+| [GOLD YOUTH](https://open.spotify.com/track/1LPGdMiMhY6LXEMoIAa7ZK) | [FUNNY THINK](https://open.spotify.com/artist/62JiGgwrhE1PYawKu2qWtC) | [GOLD YOUTH](https://open.spotify.com/album/4GYC2moJkrip8Hct4XskBe) | 2:41 | 2023-12-12 | 2026-06-24 |
 | [Golden Beaver](https://open.spotify.com/track/5RVtVNi6VRfTZc0e5dgXZ5) | [AIRFLIP](https://open.spotify.com/artist/5YrGfYzRpGFloZHiS0366z) | [Golden Beaver / Never Looking Back](https://open.spotify.com/album/4NW93bCpBy9BYVCnWRQKzU) | 2:36 | 2025-09-09 | 2025-09-24 |
 | [Good Feelin'](https://open.spotify.com/track/14s2uCKAX0LpFABOTRtkux) | [KNOCK OUT MONKEY](https://open.spotify.com/artist/5Kmgbag5URQXVqUUtvXe1S) | [Good Feelin'](https://open.spotify.com/album/20imArDqUKNDMDPT0q2DiU) | 4:56 | 2022-05-17 | 2022-07-28 |
 | [Goodbye Tears](https://open.spotify.com/track/3V27KAsj2RJ9b3SqXlI6JX) | [ジ・エンプティ](https://open.spotify.com/artist/3p6DykZwSDYVolqQyaFtvf) | [Gift from God E.P.](https://open.spotify.com/album/1MQCFv8QcQI6p8A68KA7tp) | 2:31 | 2023-12-05 | 2023-12-20 |
@@ -614,6 +614,7 @@
 | [VITAMIN](https://open.spotify.com/track/0nJdVhBNM9jkC0PiG4mYNf) | [EGG BRAIN](https://open.spotify.com/artist/7dmVux6qeQNS636kmtoUEI) | [DEAD UNICORN & VITAMIN](https://open.spotify.com/album/4A1QgfUuJSNZZEIJ2ZioUB) | 3:19 | 2022-05-12 | 2026-03-06 |
 | [Voice](https://open.spotify.com/track/1EJxVlb4XvtG3669TnPJXw) | [Pay money To my Pain](https://open.spotify.com/artist/07BBdQ03C1t2EPSQ7AeAJw) | [gene](https://open.spotify.com/album/6jP0ywNIkiQr9IWwZ2Q0A4) | 8:05 | 2022-07-21 | 2023-09-06 |
 | [Voice](https://open.spotify.com/track/3aFSKmcKnOAQcyedKk0Hgd) | [Pay money To my Pain](https://open.spotify.com/artist/07BBdQ03C1t2EPSQ7AeAJw) | [gene](https://open.spotify.com/album/6cBrX444w1OquRC1dT1J0W) | 8:05 | 2023-09-07 | 2023-12-20 |
+| [Voodoo Go To Zoo](https://open.spotify.com/track/0psvBjhuemuy6XCJPiA5Zd) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Unity](https://open.spotify.com/album/7hEotpEVKe6JzRquceRjnh) | 2:50 | 2026-06-23 |  |
 | [W.O.W](https://open.spotify.com/track/2rIIZBDtTY52jQybxMOB0q) | [MOTHBALL](https://open.spotify.com/artist/4kFIznJL74Ic9Z5wfpCFNc) | [W.O.W](https://open.spotify.com/album/3FKeP5r7PxebHqyrrL8Of1) | 3:07 | 2022-05-12 | 2022-07-17 |
 | [WAITING](https://open.spotify.com/track/0UQugALECC271HnqLBDckC) | [NOTCH](https://open.spotify.com/artist/5cI87UgyxVRsJ1AsXxDB1c) | [DO OR DO NOT](https://open.spotify.com/album/7oFo7WyG2GdbVRnDeIMJEQ) | 2:58 | 2023-01-05 | 2023-06-02 |
 | [wake up! wake up!](https://open.spotify.com/track/3lEXSVcunWsoDvb4A1KQ90) | [stack44](https://open.spotify.com/artist/4EOraZF0akqvGDt131ALIJ) | [Hello! Mr.latecomer](https://open.spotify.com/album/4qZyWJo3epGLT7Y09RVeEV) | 3:40 | 2022-06-02 | 2022-07-29 |
@@ -696,6 +697,7 @@
 | [アイラブユー](https://open.spotify.com/track/6fcnwqEDu1jIvwlhFao1R3) | [まなつ](https://open.spotify.com/artist/5jrKolawagaQ6oSN5VCcnO) | [アイラブユー](https://open.spotify.com/album/2XXGxgKGNVpZZbsTbaX5pq) | 3:56 | 2024-01-16 | 2024-01-18 |
 | [アオ](https://open.spotify.com/track/2XcpaIgYulHpwEESRX8L70) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [アオ](https://open.spotify.com/album/12LkKpoe7EkrIZhiZqHNb1) | 3:44 | 2022-05-12 | 2023-01-24 |
 | [アサインブレイカー](https://open.spotify.com/track/6n9WWWocRjT72N7LOqZza5) | [SABOTEN](https://open.spotify.com/artist/7sXuNhQNs04fBoANVpwUq0) | [バカと天才とハミングバード](https://open.spotify.com/album/69Rosf0INFy0sUfrJWW8Yn) | 2:48 | 2022-05-12 | 2022-05-16 |
+| [アルゴリズムの犬](https://open.spotify.com/track/2Rayx1slK1ThplOZkvIGXz) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [Magical Tank\-top Parade](https://open.spotify.com/album/24pTdBLehN4t7M8T3qhuF7) | 2:37 | 2026-06-23 |  |
 | [アンセム](https://open.spotify.com/track/5ZMS3dRr2INkP6r2TZnU6m) | [LINK](https://open.spotify.com/artist/6RqbKKub3TQaChfwAqYooJ) | [太陽と月のビートニクス](https://open.spotify.com/album/06dTtsuu4ZddnDTW7mIUpa) | 2:48 | 2023-12-05 | 2024-01-26 |
 | [アンダイイングロックンロール](https://open.spotify.com/track/0CuGdMFTSacKYJuZEIzxMK) | [AIR SWELL](https://open.spotify.com/artist/0k1XY7YS3ggrZu8UeyNlUo) | [アンダイイングロックンロール](https://open.spotify.com/album/09iqf2C8Gw5JvChHnC8otU) | 2:49 | 2022-05-19 | 2022-07-28 |
 | [イエスマン](https://open.spotify.com/track/3QEjFMdEio9xXI9ovRMCMB) | [THE PERRY](https://open.spotify.com/artist/2bUj8mfwedR3OobVVLgGOx) | [イエスマン](https://open.spotify.com/album/0PmeaCohxjFdC7wyzQc8S1) | 2:54 | 2022-05-24 | 2022-07-21 |
@@ -811,7 +813,7 @@
 | [女生徒](https://open.spotify.com/track/44x9LuHftRTvQcBysBqaui) | [ジョズエ](https://open.spotify.com/artist/3hHyAPKqKkciTod3I07ofN) | [しゃべるなポーラ](https://open.spotify.com/album/4E7vQguiYVRQktOsnbtFvW) | 3:01 | 2022-05-17 | 2022-07-23 |
 | [孤独のエール](https://open.spotify.com/track/410YjkVGqiqywYYb5kzVut) | [Dohatsuten](https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE) | [チャリーズ・エンジェル](https://open.spotify.com/album/2UGOD4IJzfSerfa0340Eli) | 4:49 | 2022-05-12 | 2022-07-29 |
 | [定時で帰ろう feat\. TOTALFAT](https://open.spotify.com/track/6gqRMq5FrDCeiGQPd63gBs) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo), [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [定時で帰ろう feat\. TOTALFAT](https://open.spotify.com/album/4Nt4pUQZs50oRYt3wd7iHz) | 3:07 | 2023-08-08 | 2023-08-10 |
-| [宣戦布告](https://open.spotify.com/track/6YZUBYJ00HCcKuYaYNewqw) | [Kazunobu Mineta](https://open.spotify.com/artist/5557aMYf4K6C6BCVpHsjll), [GING NANG BOYZ](https://open.spotify.com/artist/2dP0aHVXt8dDPCw5d2Jw0m), [若葉竜也](https://open.spotify.com/artist/3izpGAZJR3iTtDlibD5WZx) | [宣戦布告](https://open.spotify.com/album/4frIFmBatx4GPBqR9PY2Jz) | 4:49 | 2026-03-24 |  |
+| [宣戦布告](https://open.spotify.com/track/6YZUBYJ00HCcKuYaYNewqw) | [Kazunobu Mineta](https://open.spotify.com/artist/5557aMYf4K6C6BCVpHsjll), [GING NANG BOYZ](https://open.spotify.com/artist/2dP0aHVXt8dDPCw5d2Jw0m), [若葉竜也](https://open.spotify.com/artist/3izpGAZJR3iTtDlibD5WZx) | [宣戦布告](https://open.spotify.com/album/4frIFmBatx4GPBqR9PY2Jz) | 4:49 | 2026-03-24 | 2026-06-24 |
 | [小さな恋のうた](https://open.spotify.com/track/7swIKcU4tFRk4iFJpi12Fg) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [800BEST \-simple is the BEST!!\-](https://open.spotify.com/album/5DDaPFrj3LdwzYmC4LJ7Nt) | 3:42 | 2024-04-16 | 2024-11-13 |
 | [小さな恋のうた](https://open.spotify.com/track/23atyJacJVHvB9RHBNhr35) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [MESSAGE](https://open.spotify.com/album/2an2zDcyPnHZgodDzgxZj2) | 3:42 | 2022-07-21 | 2024-04-19 |
 | [小さな恋のうた](https://open.spotify.com/track/39JQojOZro8C3Kt8Mhj42X) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/5jKI97DMyoiLeKEN4VSMOD) | 4:20 | 2023-10-24 | 2024-01-10 |

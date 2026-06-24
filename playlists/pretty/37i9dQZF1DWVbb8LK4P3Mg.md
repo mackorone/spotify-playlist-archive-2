@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 
 > Enjoy the wonderful holiday season with K\-Pop! \(Cover: DAY6\(데이식스\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,992 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,971 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 23 | [Christmas Fever](https://open.spotify.com/track/5zJgLkNMU7p9xGhMshV46X) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [Christmas Fever](https://open.spotify.com/album/5J2XvmVymUphtXV8lJwhcs) | 3:30 |
 | 24 | [화이트 \(White\)](https://open.spotify.com/track/7mM9TUk0UaqMegqgc3H4y9) | [ISEGYE IDOL](https://open.spotify.com/artist/08OoIISROuIG0Hw8pVhYE6) | [화이트 \(White\)](https://open.spotify.com/album/6XC2Ye4NSWrU3jD78gle0g) | 3:15 |
 | 25 | [Snowball](https://open.spotify.com/track/1leUcadFG0xkJXoA6KDLlJ) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Merry Go Round](https://open.spotify.com/album/02QQbP6IQkaGymlMKEulGz) | 3:32 |
-| 26 | [When You Say My Name](https://open.spotify.com/track/1LFFqnGA8n1QHlNcobioF8) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Winter Glow](https://open.spotify.com/album/6ZnV6RIYCZdozre4yDzIOu) | 3:31 |
-| 27 | [JOY](https://open.spotify.com/track/3I4pgDhMKp6Sww3lTxyg8X) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [JOY \- SM STATION](https://open.spotify.com/album/5UkUr57L6X1gopnzG1dyBa) | 2:58 |
-| 28 | [Jingle Bell Rock](https://open.spotify.com/track/0ijCESscFXtRc0dtDgu1Uv) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Jingle Bell Rock](https://open.spotify.com/album/7dSaBwUid0hjWdJ5QzIKyu) | 2:10 |
-| 29 | [White](https://open.spotify.com/track/3x2WPJdU4Rl2UOgYZyTJje) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [White](https://open.spotify.com/album/2kHbfJSatQE5KAglEKS4dA) | 3:56 |
+| 26 | [JOY](https://open.spotify.com/track/3I4pgDhMKp6Sww3lTxyg8X) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [JOY \- SM STATION](https://open.spotify.com/album/5UkUr57L6X1gopnzG1dyBa) | 2:58 |
+| 27 | [When You Say My Name](https://open.spotify.com/track/1LFFqnGA8n1QHlNcobioF8) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Winter Glow](https://open.spotify.com/album/6ZnV6RIYCZdozre4yDzIOu) | 3:31 |
+| 28 | [White](https://open.spotify.com/track/3x2WPJdU4Rl2UOgYZyTJje) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [White](https://open.spotify.com/album/2kHbfJSatQE5KAglEKS4dA) | 3:56 |
+| 29 | [Jingle Bell Rock](https://open.spotify.com/track/0ijCESscFXtRc0dtDgu1Uv) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Jingle Bell Rock](https://open.spotify.com/album/7dSaBwUid0hjWdJ5QzIKyu) | 2:10 |
 | 30 | [THE CHRISTMAS SONG](https://open.spotify.com/track/3uelQTzMtqO2wP8CALVYGS) | [Wooseok Byeon](https://open.spotify.com/artist/73XnhTLe7F55vqqCr0qL7a) | [Shin Wooseok's Urban Fairy Tale EP.1 'The Christmas Song'](https://open.spotify.com/album/7MJZs2gPJpAkFdtXQRszOI) | 4:56 |
 | 31 | [Funky Glitter Christmas](https://open.spotify.com/track/6hnOv3KeFpIwLER7okvLjq) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [1st Intermixxion Single <Funky Glitter Christmas>](https://open.spotify.com/album/2ZQSSethyzGYRVqEKBwNwO) | 3:10 |
 | 32 | [snowy](https://open.spotify.com/track/6CvWQquXQ4gYmuBQbXyX0D) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [snowy](https://open.spotify.com/album/2VhVv8z0XjYvNktTZUf684) | 3:49 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 37 | [Ex\-Mas](https://open.spotify.com/track/4OPHXmAsFf5BcMhUSITwm1) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Ex\-Mas](https://open.spotify.com/album/1SdCbiVhmFkKbkNXpaVWe5) | 3:36 |
 | 38 | [Never Leave Me \(Feat\. pH\-1\)](https://open.spotify.com/track/3t0jz1RuFVgLHb0E5rG8TI) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [NOI MAS](https://open.spotify.com/album/2lLUXuBMZZWb8NdSd3BIwm) | 3:36 |
 | 39 | [I'm all ears](https://open.spotify.com/track/7KJUpJgGaQTdSq3L5StCfi) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [This Christmas – Winter is Coming](https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx) | 3:35 |
-| 40 | [Gift For You](https://open.spotify.com/track/7IEgrgGqJ7TxJN9v57acIC) | [WEi](https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5) | [Gift For You](https://open.spotify.com/album/3ufRFSgwF6xWlczCYmpTS6) | 3:33 |
-| 41 | [Christmassy!](https://open.spotify.com/track/1KMc5CXwEkjklwSqPMQjB1) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ Special Single 'Christmassy!'](https://open.spotify.com/album/5KR9XuMapeh6JjUdcy4MHM) | 3:25 |
+| 40 | [Christmassy!](https://open.spotify.com/track/1KMc5CXwEkjklwSqPMQjB1) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ Special Single 'Christmassy!'](https://open.spotify.com/album/5KR9XuMapeh6JjUdcy4MHM) | 3:25 |
+| 41 | [Gift For You](https://open.spotify.com/track/7IEgrgGqJ7TxJN9v57acIC) | [WEi](https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5) | [Gift For You](https://open.spotify.com/album/3ufRFSgwF6xWlczCYmpTS6) | 3:33 |
 | 42 | [The Winter's Tale](https://open.spotify.com/track/2vB31lIPJPHBfjOkgW1CQr) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [The Winter's Tale](https://open.spotify.com/album/1WrPy47aE3pCJvrHYjJ33v) | 4:19 |
 | 43 | [Grey Christmas](https://open.spotify.com/track/3m71HSKTOQCXNWKxuO5LPG) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [\[Hwa Sa Show Vol.2\] Grey Christmas](https://open.spotify.com/album/3sGZLUL4z7U9rPjkfyldX7) | 3:28 |
 | 44 | [Christmas without You](https://open.spotify.com/track/617cDTzVRFEwYPzi3FKaXT) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [This Christmas – Winter is Coming](https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx) | 4:19 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 63 | [PINK CHRISTMAS](https://open.spotify.com/track/4BU2J7VTrm2TvzaYUX7GXb) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [PINK CHRISTMAS](https://open.spotify.com/album/2dKFIjEOW7xpBbr7DUtn6Z) | 3:14 |
 | 64 | [Christmas Dance](https://open.spotify.com/track/5Fr2nTvU0OdhMUohTNXlA4) | [ROCKY](https://open.spotify.com/artist/3bQABAi10Xqg1WsMAhYdBZ) | [Christmas Dance](https://open.spotify.com/album/4D7wSlC3TgPptQwEb9t5XP) | 4:04 |
 | 65 | [Love Again](https://open.spotify.com/track/04Du5TkwT3to8Tjp1cDrO1) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [Love Again](https://open.spotify.com/album/5xv97ixnkOlPfPKpIoyBSO) | 2:59 |
-| 66 | [My Winter Trip](https://open.spotify.com/track/1SDRgU2C81CcOhaOvTOBCk) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [My Winter Trip](https://open.spotify.com/album/4VVH0BD7z9Cs4iORPbZ2Ci) | 4:11 |
-| 67 | [Let Me Know \- Bonus Track](https://open.spotify.com/track/5iEFTzTm71gxXJnbNfHCAt) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Another Sad Love Song](https://open.spotify.com/album/0gOhggWveoOEbmB0YjaZrE) | 3:04 |
+| 66 | [Let Me Know \- Bonus Track](https://open.spotify.com/track/5iEFTzTm71gxXJnbNfHCAt) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Another Sad Love Song](https://open.spotify.com/album/0gOhggWveoOEbmB0YjaZrE) | 3:04 |
+| 67 | [My Winter Trip](https://open.spotify.com/track/1SDRgU2C81CcOhaOvTOBCk) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [My Winter Trip](https://open.spotify.com/album/4VVH0BD7z9Cs4iORPbZ2Ci) | 4:11 |
 | 68 | [I Need You](https://open.spotify.com/track/68fpO1QFaZAssEl9c6546S) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [I Need You](https://open.spotify.com/album/6lxrVgsLIypewMYdY2DURL) | 3:26 |
 | 69 | [Winter Bloom](https://open.spotify.com/track/7jfa0NpiHLaaKpec5cxO30) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [Winter Bloom](https://open.spotify.com/album/4fE3UDxP596kDYgqlUukiy) | 2:59 |
 | 70 | [Save Our Christmas](https://open.spotify.com/track/7aHBGcIkKffL8JGz5czTeA) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [Love Again](https://open.spotify.com/album/5xv97ixnkOlPfPKpIoyBSO) | 4:29 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 94 | [Heart of Christmas](https://open.spotify.com/track/3WTzne8ZV3nZmaf3gDsq6a) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [Heart of Christmas](https://open.spotify.com/album/3sxmlVVLg13aeHgF7my55P) | 3:31 |
 | 95 | [My Favorite Winter](https://open.spotify.com/track/4eTFVwwrGhIeS8NqwEBWZP) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [My Favorite Winter](https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp) | 3:49 |
 | 96 | [The Christmas Number 12](https://open.spotify.com/track/1VgEdXPGiCizL6DfIUDGok) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [The Christmas Number 12](https://open.spotify.com/album/5jVCZws60QZ11TP2nWjxOZ) | 2:39 |
-| 97 | [Christmas With You](https://open.spotify.com/track/5b8VfM4pIknpsNH93pEp5x) | [BANG&JUNG&YOO&MOON](https://open.spotify.com/artist/6KalXi8b9Zf4l2ilPgfOJI) | [Christmas With You](https://open.spotify.com/album/2Gl0CRia4oSIdPf1d565pZ) | 3:54 |
-| 98 | [First Snow](https://open.spotify.com/track/6pSkZpm2o1n7UEKivekdkn) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X), [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq) | [First Snow](https://open.spotify.com/album/2JuP76Opbf43B50FPS6qbb) | 3:07 |
+| 97 | [First Snow](https://open.spotify.com/track/6pSkZpm2o1n7UEKivekdkn) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X), [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq) | [First Snow](https://open.spotify.com/album/2JuP76Opbf43B50FPS6qbb) | 3:07 |
+| 98 | [Christmas With You](https://open.spotify.com/track/5b8VfM4pIknpsNH93pEp5x) | [BANG&JUNG&YOO&MOON](https://open.spotify.com/artist/6KalXi8b9Zf4l2ilPgfOJI) | [Christmas With You](https://open.spotify.com/album/2Gl0CRia4oSIdPf1d565pZ) | 3:54 |
 | 99 | [예쁨 가득한 Eve \(prod\. Minit\)](https://open.spotify.com/track/0PxRwVf71nxGKSTSWHjp9H) | [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [예쁨 가득한 Eve](https://open.spotify.com/album/1TPvE61epVsbkvDYACjXXo) | 2:50 |
 | 100 | [Christmas Love](https://open.spotify.com/track/07RqTH1eogXDP6lvfkpTgr) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi) | [Christmas Love](https://open.spotify.com/album/7iTnFSQCuTl8j5XenUsOu3) | 3:12 |
 

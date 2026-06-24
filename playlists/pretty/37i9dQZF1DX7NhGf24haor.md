@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: Da Tweekaz & The Straikerz
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,186 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,268 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dancefloor Therapy](https://open.spotify.com/track/2Rxxb0DSSJPNPrnfpwU8tS) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l) | [Dancefloor Therapy](https://open.spotify.com/album/2bvGkojLp4MAJhELCXiGYG) | 3:37 |
 | 2 | [Waiting 4](https://open.spotify.com/track/0BUnzynrao4zAwwB0i3sWQ) | [4444 OF A KIND](https://open.spotify.com/artist/69aOmjpvxqUDUaZUvuw6Di), [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z), [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl) | [Waiting 4](https://open.spotify.com/album/7dsCiVsIdLVpjaIig6X0sN) | 3:44 |
 | 3 | [A Thousand Years](https://open.spotify.com/track/6aIUXMntfKupgvs552qTTZ) | [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT) | [A Thousand Years](https://open.spotify.com/album/1BdEeKu1QwHrrikFShyAIb) | 3:42 |
-| 4 | [KISS KISS](https://open.spotify.com/track/6yNiOEUBCWNGUCX12bKqds) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW), [GPF](https://open.spotify.com/artist/4OoHneMX97SjUXKWgsyrP4), [Dr Donk](https://open.spotify.com/artist/0NirwTOv2qvuXsNNZkDPNu) | [KISS KISS](https://open.spotify.com/album/7za4IpRqRV01MzylcAOr9f) | 2:30 |
-| 5 | [Love Tomorrow](https://open.spotify.com/track/5zqiwIlzkNTMr7pAZwAx6m) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Love Tomorrow](https://open.spotify.com/album/0xIk3YDGYXEjS1CvLdwjYU) | 2:51 |
-| 6 | [The Loudest City \(Decibel outdoor 2026 Anthem\)](https://open.spotify.com/track/0P7H5eHGd7yNniASl63Dnd) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [The Loudest City \(Decibel outdoor 2026 Anthem\)](https://open.spotify.com/album/57Eg6bHrbs1i1naXruiGII) | 4:52 |
-| 7 | [Original Gangsters \(Raw and Mean\)](https://open.spotify.com/track/4r2wHr2mPcB1DJuo749dhh) | [Adaro](https://open.spotify.com/artist/05ndiewdJogtosuRWN8iwF), [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr) | [Original Gangsters \(Raw and Mean\)](https://open.spotify.com/album/2hBvheC2SO5MjQqOU3APG4) | 4:19 |
+| 4 | [Love Tomorrow](https://open.spotify.com/track/5zqiwIlzkNTMr7pAZwAx6m) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Love Tomorrow](https://open.spotify.com/album/0xIk3YDGYXEjS1CvLdwjYU) | 2:51 |
+| 5 | [Original Gangsters \(Raw and Mean\)](https://open.spotify.com/track/4r2wHr2mPcB1DJuo749dhh) | [Adaro](https://open.spotify.com/artist/05ndiewdJogtosuRWN8iwF), [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr) | [Original Gangsters \(Raw and Mean\)](https://open.spotify.com/album/2hBvheC2SO5MjQqOU3APG4) | 4:19 |
+| 6 | [KISS KISS](https://open.spotify.com/track/6yNiOEUBCWNGUCX12bKqds) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW), [GPF](https://open.spotify.com/artist/4OoHneMX97SjUXKWgsyrP4), [Dr Donk](https://open.spotify.com/artist/0NirwTOv2qvuXsNNZkDPNu) | [KISS KISS](https://open.spotify.com/album/7za4IpRqRV01MzylcAOr9f) | 2:30 |
+| 7 | [The Loudest City \(Decibel outdoor 2026 Anthem\)](https://open.spotify.com/track/0P7H5eHGd7yNniASl63Dnd) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [The Loudest City \(Decibel outdoor 2026 Anthem\)](https://open.spotify.com/album/57Eg6bHrbs1i1naXruiGII) | 4:52 |
 | 8 | [When You’re Gone](https://open.spotify.com/track/0RC6fZqJiHWqTgwS5YfqBn) | [Galactixx](https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS) | [When You’re Gone](https://open.spotify.com/album/5GgQfoLvbTHqcd5I7M8Y3z) | 2:32 |
 | 9 | [Dancing In The Moonlight](https://open.spotify.com/track/4AXfDNJb3U35WuhXoAOoOa) | [Vertile](https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH) | [Dancing In The Moonlight](https://open.spotify.com/album/2RWjVCZNKRJKRNuOrgefhl) | 3:03 |
 | 10 | [¡MADRID!](https://open.spotify.com/track/17FcR4miD9JH4vpg7VyxIR) | [Frontliner](https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa) | [¡MADRID!](https://open.spotify.com/album/5wXYqTahMMg8kfr00iBjUH) | 3:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 99 | [Trouble](https://open.spotify.com/track/4m1m9AYEfObUC3p2nB6Oht) | [Frontliner](https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa), [Hardstyle Pianist](https://open.spotify.com/artist/62X4mhiCOYCnwGuP5ZQ8ug) | [Trouble](https://open.spotify.com/album/0lYUQ8HQXhCsC3ZbzyDcBb) | 4:18 |
 | 100 | [Gravity](https://open.spotify.com/track/7n5iBpHfwG0Z01NqR27FJY) | [Code Black](https://open.spotify.com/artist/0I5is4tdxHhT3Ft2EzPjlB), [Audiofreq](https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl) | [Gravity](https://open.spotify.com/album/5Zy2niccqu7kZlvWX37SQW) | 3:55 |
 
-Snapshot ID: `AAAAAHmeH/Byqto1QbXFInDivLJA2Ovj`
+Snapshot ID: `AAAAABOXPoWffOdwMTLFirR7MqyS0eid`

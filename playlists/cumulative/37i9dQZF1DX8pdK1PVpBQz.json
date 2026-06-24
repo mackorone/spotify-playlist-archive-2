@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels. Cover: Millie Atlas",
+  "description": "The best new music by independent artists and labels. Cover: \u30a8\u30df\u30a8\u30df (emi emi)",
   "name": "Fresh Finds AU & NZ",
   "tracks": [
     {
@@ -844,6 +844,24 @@
       "duration_ms": 118153,
       "name": "404.wav",
       "url": "https://open.spotify.com/track/06PM0CpXgogcdgOdo6ntzW"
+    },
+    {
+      "album": {
+        "name": "48",
+        "url": "https://open.spotify.com/album/1j8YWj3e7n3xU66oMk5OaA"
+      },
+      "artists": [
+        {
+          "name": "Aubany",
+          "url": "https://open.spotify.com/artist/3oXJSUdg98IQjP64FAWQuh"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222222,
+      "name": "48",
+      "url": "https://open.spotify.com/track/6w8CeYasVAQ8sAOWK6Qiel"
     },
     {
       "album": {
@@ -4452,7 +4470,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 250927,
       "name": "Arms",
       "url": "https://open.spotify.com/track/4Zp30rRrbH9YC06eDHebWf"
@@ -13311,6 +13329,24 @@
     },
     {
       "album": {
+        "name": "chemical",
+        "url": "https://open.spotify.com/album/0ERQxeJbxLfBrfqdM7adho"
+      },
+      "artists": [
+        {
+          "name": "Blood Nose",
+          "url": "https://open.spotify.com/artist/6fPWD6aplRohXMpRRAF6Wa"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67616,
+      "name": "chemical",
+      "url": "https://open.spotify.com/track/5L7vB0uar1cqvCws0uCwfA"
+    },
+    {
+      "album": {
         "name": "Chemicals",
         "url": "https://open.spotify.com/album/6gDpgbb6GY9gIafTg4Fbfa"
       },
@@ -13514,7 +13550,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 162488,
       "name": "Chomping at the bit",
       "url": "https://open.spotify.com/track/6XwXmZDNmTP9mQ8qa6PMvX"
@@ -16648,7 +16684,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 275133,
       "name": "Cut from a Different Cloth",
       "url": "https://open.spotify.com/track/3kEjRXprp8Vul5y71zvafC"
@@ -21634,7 +21670,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 260501,
       "name": "Easy Now",
       "url": "https://open.spotify.com/track/116Q6WPhxJhZZCkjlzXiaE"
@@ -22870,7 +22906,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 137844,
       "name": "EVERYBODY KNOW",
       "url": "https://open.spotify.com/track/22Eril89EV5bWP0CZivVMp"
@@ -24856,7 +24892,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 156115,
       "name": "Feel Like Uzi",
       "url": "https://open.spotify.com/track/2vzJT80pIxibhmIKzKM2s4"
@@ -29411,6 +29447,24 @@
     },
     {
       "album": {
+        "name": "Godzilla",
+        "url": "https://open.spotify.com/album/6ohE3e5kHTzOJbCEbWt1hJ"
+      },
+      "artists": [
+        {
+          "name": "Sweetie",
+          "url": "https://open.spotify.com/artist/2oE9iKDAQnylK5wWR5Ldcs"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211280,
+      "name": "Godzilla",
+      "url": "https://open.spotify.com/track/4p6NsOuSVKnUcnv4DhAYPU"
+    },
+    {
+      "album": {
         "name": "Going Home",
         "url": "https://open.spotify.com/album/6MzuyHiVXgtXnHzMeGsuqP"
       },
@@ -31825,6 +31879,24 @@
     },
     {
       "album": {
+        "name": "Unrest / Headlight Gold",
+        "url": "https://open.spotify.com/album/7jHhC7ws3b9UGzbAN4BbaG"
+      },
+      "artists": [
+        {
+          "name": "damiasharko",
+          "url": "https://open.spotify.com/artist/3aoTB3gXnEUWvoYJiyRVIy"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203149,
+      "name": "Headlight Gold",
+      "url": "https://open.spotify.com/track/0WmYlsHLHptu6YGJljXOTt"
+    },
+    {
+      "album": {
         "name": "Headlights",
         "url": "https://open.spotify.com/album/6U4InmynS95MGghIuTUa6x"
       },
@@ -32472,7 +32544,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 76866,
       "name": "hello",
       "url": "https://open.spotify.com/track/10HkcKldxntNwW4W9m998V"
@@ -43035,6 +43107,24 @@
     },
     {
       "album": {
+        "name": "Lighthouse Song",
+        "url": "https://open.spotify.com/album/0LKxhrgW2XaEAWBhfChelk"
+      },
+      "artists": [
+        {
+          "name": "Luke Saunders",
+          "url": "https://open.spotify.com/artist/0d5YlViBm6xux6yz9fRxi9"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Lighthouse Song",
+      "url": "https://open.spotify.com/track/3cUTiti93KSc074ONcvHEG"
+    },
+    {
+      "album": {
         "name": "Julia Stevens",
         "url": "https://open.spotify.com/album/0w6q9OJ84rNzZf1UCLd13c"
       },
@@ -44266,7 +44356,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 234319,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/7cY5spPtbWjinUJzkyjK5Y"
@@ -46538,6 +46628,24 @@
       "duration_ms": 289926,
       "name": "Massage",
       "url": "https://open.spotify.com/track/0DQ1wJrap3erZnXeuRr66b"
+    },
+    {
+      "album": {
+        "name": "masterpiece",
+        "url": "https://open.spotify.com/album/6kIDsny6bLPA6atdHtD0vi"
+      },
+      "artists": [
+        {
+          "name": "Lily Georgia",
+          "url": "https://open.spotify.com/artist/2ClmXVBX8avVCK94nLpgK6"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156535,
+      "name": "masterpiece",
+      "url": "https://open.spotify.com/track/3jySZ4eDUjll4fLEfktGiJ"
     },
     {
       "album": {
@@ -55321,6 +55429,24 @@
     },
     {
       "album": {
+        "name": "out to dry",
+        "url": "https://open.spotify.com/album/1yvLbgLvrVVfVRXlfdkppM"
+      },
+      "artists": [
+        {
+          "name": "Monnie",
+          "url": "https://open.spotify.com/artist/15zF5LyP92uIG0bUk8rzOA"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181600,
+      "name": "out to dry",
+      "url": "https://open.spotify.com/track/4uBDWljo6nRoItIArgxHc3"
+    },
+    {
+      "album": {
         "name": "out4u",
         "url": "https://open.spotify.com/album/3Wpvbhk9SRwrmE4ga22WOi"
       },
@@ -60542,6 +60668,28 @@
       "duration_ms": 176445,
       "name": "reel",
       "url": "https://open.spotify.com/track/6Z53T7w8pY8MM8HxKMOvLO"
+    },
+    {
+      "album": {
+        "name": "Refine Me",
+        "url": "https://open.spotify.com/album/4XeU3TceJfWJG6QWiv2BfX"
+      },
+      "artists": [
+        {
+          "name": "Clinny P",
+          "url": "https://open.spotify.com/artist/5HQyPul3Aaq0v1jVj2rWts"
+        },
+        {
+          "name": "JJ4K",
+          "url": "https://open.spotify.com/artist/2mjKgESiyb135Ci7YcSrHD"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166209,
+      "name": "Refine Me",
+      "url": "https://open.spotify.com/track/2fAPIhEtDhACQfvUwrReep"
     },
     {
       "album": {
@@ -75046,7 +75194,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 175373,
       "name": "Thrill",
       "url": "https://open.spotify.com/track/1Mkzso9GUY2krkEpQGpZ3w"
@@ -76400,7 +76548,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 184934,
       "name": "TOUCH GRASS",
       "url": "https://open.spotify.com/track/0rjBOM7m71g2TqvS1wF19k"
@@ -78525,6 +78673,24 @@
     },
     {
       "album": {
+        "name": "urusai!",
+        "url": "https://open.spotify.com/album/7MnZeRaX3QWsufs8lJoNGl"
+      },
+      "artists": [
+        {
+          "name": "\u30a8\u30df\u30a8\u30df (emi emi)",
+          "url": "https://open.spotify.com/artist/7IPau4RJ2oDFpeKvnR4dn5"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259199,
+      "name": "urusai!",
+      "url": "https://open.spotify.com/track/3MwdMBDBqT3S2RdPlZe1pP"
+    },
+    {
+      "album": {
         "name": "US",
         "url": "https://open.spotify.com/album/02VnufGkYoy7COyjudWP3r"
       },
@@ -78944,6 +79110,24 @@
       "duration_ms": 222221,
       "name": "VICTORIA (IN RUINS)",
       "url": "https://open.spotify.com/track/5ZrZdEncuNiLAFuuROykwY"
+    },
+    {
+      "album": {
+        "name": "vincent vol. 1",
+        "url": "https://open.spotify.com/album/2MczWuvTunGyZlGU6RW2l4"
+      },
+      "artists": [
+        {
+          "name": "vincent",
+          "url": "https://open.spotify.com/artist/5RKyXZ7bkayTtM5kuBlGJS"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322469,
+      "name": "vincent vol. 1",
+      "url": "https://open.spotify.com/track/5OHSIq4y3ZZA0pEcJH9XEf"
     },
     {
       "album": {
@@ -83640,7 +83824,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 200871,
       "name": "Yadingji",
       "url": "https://open.spotify.com/track/2DBmM2B6rqpf975z7ciy02"

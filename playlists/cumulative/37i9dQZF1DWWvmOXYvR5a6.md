@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DWWvmOXYvR5a6)
 
-> Trendy x Chill K\-Hip Hop\.  \(Cover: BANG YONGGUK\(방용국\)\)\(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
+> Trendy x Chill K\-Hip Hop\.  \(Cover: JMIN\)\(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-834 songs - 1 day 20 hr 31 min
+835 songs - 1 day 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Alone \(Feat\. LeeHi\)](https://open.spotify.com/track/2SSbQoEqPHu6qAgi3pFobY) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [LEEHI](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [ALONE](https://open.spotify.com/album/0t8BYpDMceb2cfEdHYwXhP) | 2:59 | 2022-06-27 |  |
 | [Always Here](https://open.spotify.com/track/6SWxLW8d1PyRy8yIi0kBlP) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh), [Im Soo](https://open.spotify.com/artist/6fprh9M0YJWsTYBlvbfcwn) | [Always Here](https://open.spotify.com/album/0JeDwEKriOIGuIlk6HsPOP) | 3:34 | 2022-07-04 | 2022-07-14 |
 | [Amanda](https://open.spotify.com/track/6nJwZ2ZocGVBlGoEHd7PUs) | [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [Amanda](https://open.spotify.com/album/0jxYNA9iLXnK2cjV9ar7EK) | 2:36 | 2022-05-02 | 2022-06-02 |
+| [AMAZING \(feat\. Sik\-K\)](https://open.spotify.com/track/0h97ZHSA2ZSw7Gfz1NKTDY) | [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [FOREVER KIDS](https://open.spotify.com/album/3EhMtYhrnZ1XDJ7FyzmRLq) | 3:39 | 2026-06-23 |  |
 | [Anbu \(Feat\. VINXEN, NO:EL\)](https://open.spotify.com/track/6x7c8C7ds3L4qTtXX7UEX8) | [NE:ON](https://open.spotify.com/artist/2bhYmlBehpmfopU0TroWem), [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q), [NO:EL](https://open.spotify.com/artist/3S79khDmqHqH3SudDjO6dV) | [Anbu \(Feat\. VINXEN, NO:EL\)](https://open.spotify.com/album/0ouGwuWLW4uVSxQp9FPKj9) | 3:04 | 2024-03-05 | 2024-04-03 |
 | [Antisocial \(Prod\. Mokyo\)](https://open.spotify.com/track/5FFWhDhJe9u9y4l8qkz4LR) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [bimil:ier vol.3 "Antisocial \(Prod\. Mokyo\)"](https://open.spotify.com/album/1nCv396FdEoEd2T5OSWPL6) | 3:35 | 2022-04-01 | 2022-07-29 |
 | [Any song](https://open.spotify.com/track/1iIhGHzzrzqQfuNkFI2qAn) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Any song](https://open.spotify.com/album/7LYZM7I172wUjIKjCnxuAQ) | 3:47 | 2022-04-21 |  |
@@ -509,7 +510,7 @@
 | [NO SPACE \(Feat\. Loopy, Owen\)](https://open.spotify.com/track/4QyzmaYxN5LjWShnHYofZc) | [Way Ched](https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO) | [IT′S YOUR WAY](https://open.spotify.com/album/1fElnXqdUqkPD9qEGxwEYb) | 3:00 | 2022-04-01 | 2022-04-21 |
 | [No Type \(Prod\. hayul\)](https://open.spotify.com/track/022vyzDtNPZjI72vVyt66x) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [SOULBYSEL Compilation 03](https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za) | 2:53 | 2022-11-10 | 2022-12-20 |
 | [NO WORDS \(Feat\. Jayci Yucca\)](https://open.spotify.com/track/5wSY3C2sp9sAy0y5qLh9gi) | [GOYA](https://open.spotify.com/artist/33ftrWjmTpIAXapZU7H1Iw), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM) | [NO WORDS](https://open.spotify.com/album/3bpeDXj78nLh1bI9hO1GbY) | 3:27 | 2022-04-01 | 2022-07-13 |
-| [No.5](https://open.spotify.com/track/0tWJ05IcctwDbJ0PfDbigg) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Garden](https://open.spotify.com/album/19HqbZL9Y69UssY9DDyBXR) | 3:09 | 2022-04-01 |  |
+| [No.5](https://open.spotify.com/track/0tWJ05IcctwDbJ0PfDbigg) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Garden](https://open.spotify.com/album/19HqbZL9Y69UssY9DDyBXR) | 3:09 | 2022-04-01 | 2026-06-24 |
 | [Noble Game \(Feat\. ILLINIT\) \(Prod\. ILLUID HALLER\)](https://open.spotify.com/track/3pLgl8HxGWbypR0yG6KlPS) | [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3), [Illinit](https://open.spotify.com/artist/5N9rfcaITVgayz1OzCqu4h) | [Do Not Go Gentle Into That Good Night II](https://open.spotify.com/album/4ZuL1a9a4MYpSl0meoOevD) | 3:27 | 2022-07-22 | 2022-08-13 |
 | [Nostalgia \(feat\. Leellamarz & Sik\-K\)](https://open.spotify.com/track/0NKYxZ49uqWAPzH3qlnIME) | [BOYCOLD](https://open.spotify.com/artist/3Rxm9TaXZGuQRw2B91Ap22), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [DAFT LOVE](https://open.spotify.com/album/4SCzzeU2S6AyWEixWrvBjX) | 2:58 | 2022-07-14 | 2022-08-19 |
 | [Not Available](https://open.spotify.com/track/3QKGvdqjBGpzTTMBCBIwtm) | [YOUNGJOO](https://open.spotify.com/artist/1nLn5ZeWUlNQuxva3WZGfp), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [House of Girls, Episode 3](https://open.spotify.com/album/0ECVcFFArwRrajFkiN524D) | 3:05 | 2025-06-27 | 2025-08-07 |

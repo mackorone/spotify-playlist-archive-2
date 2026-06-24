@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 939 likes - 62 songs - 3 hr 36 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 944 likes - 64 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,5 +70,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 60 | [Melbourne Cat](https://open.spotify.com/track/72cmQI7HC2RNIKeGbKUPNH) | [Jack Dahlqvist](https://open.spotify.com/artist/3J2oT5Sue8H2uhUVDvw1bI) | [Melbourne Cat](https://open.spotify.com/album/0acC0pSJGsYNirxkfWlOxK) | 4:18 |
 | 61 | [Take Another Drag](https://open.spotify.com/track/148ES5Swi6aBxRxy1LIAeq) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh), [Yung Father](https://open.spotify.com/artist/1u060weQXyTEVdGPZEfIM7) | [Take Another Drag](https://open.spotify.com/album/0QujmIPiE087gdOoMYtBiX) | 4:12 |
 | 62 | [Fire Inside](https://open.spotify.com/track/3DN7E1MWHnDDxMwTvlxbPp) | [Grand Sorceress](https://open.spotify.com/artist/0B35u5LdVAY9pqHu5AZbQ3) | [Fire Inside](https://open.spotify.com/album/76Suw9nI9Mz9IJxjNVATLg) | 3:47 |
+| 63 | [The Show Must Go On](https://open.spotify.com/track/5vz5HR8tJJwTMobjNIrM6w) | [Madam Radar](https://open.spotify.com/artist/6ujUWoIlmlQWODAb46LmE8) | [The Show Must Go On](https://open.spotify.com/album/64oFLRTDDU3PiNPsv1Pidj) | 3:38 |
+| 64 | [Rain Falls In The Night.](https://open.spotify.com/track/7BZCcc8ehQu34C5wD0qtvZ) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Rain Falls In The Night.](https://open.spotify.com/album/6qNaBCOTlr5tsFe5rxsQY8) | 4:16 |
 
-Snapshot ID: `AAAD+GSRyejRFy7FH+2OF8HmYqBklxt2`
+Snapshot ID: `AAAD+j0WnSfEOdT4eS+NJLjm/7AtBkPZ`

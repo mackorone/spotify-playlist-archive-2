@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Roosevelt Stewart & Naomi Raine
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,695 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,706 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 48 | [HOLY](https://open.spotify.com/track/0L5KOLjfM8c03kIGgdi9jF) | [Jamil](https://open.spotify.com/artist/4JDmvmyrWfrOVik0WkuoSu), [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [HOLY](https://open.spotify.com/album/6SmsunpdkEVroq2XbFNCIy) | 2:11 |
 | 49 | [GREEN LIGHT](https://open.spotify.com/track/4aRr2xutxlJV7yWPMC7kf0) | [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui), [OBED](https://open.spotify.com/artist/6dlnnsHCMKCV3v1aMOFvuE) | [ONLY WAY UP IS DOWN](https://open.spotify.com/album/1K6xrx5oJRNdACWYnI6x44) | 3:35 |
 | 50 | [LILIES](https://open.spotify.com/track/6wr9EUbYNd2hcBSzvbBwPm) | [Eniola Abioye](https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [LILIES](https://open.spotify.com/album/4zqB6az4MSgIThtPLy9r3E) | 3:08 |
-| 51 | [Forgotten](https://open.spotify.com/track/77xKiiGTuxfgRNkRMaEZTm) | [Anna Makula](https://open.spotify.com/artist/2sCH9kYASIAGOaloAfOe44) | [Forgotten](https://open.spotify.com/album/3aOSbxEXQPKl3n9Q8t26GE) | 3:03 |
+| 51 | [Forgotten \(Live\)](https://open.spotify.com/track/77xKiiGTuxfgRNkRMaEZTm) | [Anna Makula](https://open.spotify.com/artist/2sCH9kYASIAGOaloAfOe44) | [Forgotten \(Live\)](https://open.spotify.com/album/3aOSbxEXQPKl3n9Q8t26GE) | 3:03 |
 | 52 | [Bless His Name](https://open.spotify.com/track/2uJhSRMknp671IqAb0DN3o) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Saturday Night / Sunday Morning](https://open.spotify.com/album/4xL8JXwTuTBWNYNPysYari) | 2:26 |
 | 53 | [Shine](https://open.spotify.com/track/3c4MBlHdGeDQgpbzk6glMG) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Shine](https://open.spotify.com/album/79sl7pH8FhvSRfazOKQdOI) | 3:14 |
 | 54 | [Bout My Father's Business](https://open.spotify.com/track/3qYliDvUmeAw2o1UUXOpWn) | [CèJae](https://open.spotify.com/artist/15AlBadiR2gLPibtqELUH3) | [Bout My Father's Business](https://open.spotify.com/album/2ZyDDopCa0SslHJCwT1TxL) | 2:37 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 56 | [Only You](https://open.spotify.com/track/4qR053kxLcmWMtslz19FqY) | [Tobi Adey](https://open.spotify.com/artist/6gSsCWWxWpW2zy7wXswdPE) | [My Redeemer Lives](https://open.spotify.com/album/2zIFJ1PaNNV97jZYAckwST) | 4:30 |
 | 57 | [Thank God](https://open.spotify.com/track/557eiFln4msFXEKlKb9Ro4) | [Justin Radford](https://open.spotify.com/artist/2yBPNNYq6kcnU1DZTlzinV), [Taylented](https://open.spotify.com/artist/3IOqaQSOAsNh3zsTVOAchE), [Shyanne](https://open.spotify.com/artist/3M2xiORpBpJgmn62OsSXDU) | [99 Degrees](https://open.spotify.com/album/1bULpa4S3oVEENk86DR9Cc) | 2:45 |
 | 58 | [Always Knew](https://open.spotify.com/track/6UuNeGRXRiOnHxfz5xxscR) | [Dj Em D](https://open.spotify.com/artist/2mMbRzugGWUXcyePyzTxK0), [Reyne L.](https://open.spotify.com/artist/3HpGGXW3yN7H6t67UweHLe) | [Always Knew](https://open.spotify.com/album/2QILJSmSmrZlYvyaqn3Ycv) | 3:01 |
-| 59 | [THE TRUTH WILL SET YOU FREE](https://open.spotify.com/track/4OxOqklOXdaMus3nB1DM7X) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [THE TRUTH WILL SET YOU FREE](https://open.spotify.com/album/6UYh85lNTBAP4nsfBqDYUB) | 3:24 |
+| 59 | [TRUTH WILL SET YOU FREE](https://open.spotify.com/track/4OxOqklOXdaMus3nB1DM7X) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [TRUTH WILL SET YOU FREE](https://open.spotify.com/album/6UYh85lNTBAP4nsfBqDYUB) | 3:24 |
 | 60 | [INI MINI](https://open.spotify.com/track/7yXzFZXA9QG8gBmtDiSBQz) | [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG) | [INI MINI](https://open.spotify.com/album/7KTF4TTokiXY22X7ELev7M) | 2:25 |
 | 61 | [Preach!](https://open.spotify.com/track/7M0XvMVGVneB0Rg9kC7AZx) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Preach!](https://open.spotify.com/album/1uHn9TPzelLDCbuOQKmNVa) | 2:29 |
 | 62 | [Never Scared](https://open.spotify.com/track/0VeXWs5RjJf6WvOU9BEK0m) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Never Scared](https://open.spotify.com/album/4hTuJr93JUjuX0hGvRBnLk) | 2:11 |

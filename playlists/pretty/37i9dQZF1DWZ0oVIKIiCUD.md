@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0oVIKIiCUD.md) - [plain]
 
 > Get ready for the upcoming festival by listening to the best songs from the festival lineup! \(페스티벌 참가 라인업의 베스트 곡들을 들으며 다가오는 페스티벌을 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,636 likes - 116 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,797 likes - 116 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0oVIKIiCUD.md) - [plain]
 | 81 | [Where Is My Mind? \- 2007 Remaster](https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa \(2007 Remaster\)](https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9) | 3:54 |
 | 82 | [Here Comes Your Man](https://open.spotify.com/track/4IvZLDtwBHmBmwgDIUbuwa) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO) | 3:21 |
 | 83 | [NO PAIN](https://open.spotify.com/track/4ceXU11FfeiQ47B4cX28gB) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [POWER ANDRE 99](https://open.spotify.com/album/49CqNP5omI7QbOe8TPAR0y) | 3:41 |
-| 84 | [BIG VOID](https://open.spotify.com/track/5p3BybOa38IjjviVrN9xN1) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [BIG VOID](https://open.spotify.com/album/59Hje4SbnsKpsAWRBZ6IPz) | 3:41 |
+| 84 | [BIG VOID \(Single ver.\)](https://open.spotify.com/track/5p3BybOa38IjjviVrN9xN1) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [BIG VOID \(Single ver.\)](https://open.spotify.com/album/59Hje4SbnsKpsAWRBZ6IPz) | 3:41 |
 | 85 | [Shining Road](https://open.spotify.com/track/7nM7M0wFVjvQrRjWbz8abG) | [Sultan of the Disco](https://open.spotify.com/artist/2OlCSUqTMqHguyNtdE0mdv) | [Easy Listening For Love](https://open.spotify.com/album/2WD2OMgxBkDmjMf8XD3Ssc) | 3:35 |
 | 86 | [Hide Out](https://open.spotify.com/track/3VyhNQNqtEtx26ZmR2Mr6z) | [Sultan of the Disco](https://open.spotify.com/artist/2OlCSUqTMqHguyNtdE0mdv) | [Aliens](https://open.spotify.com/album/4vCUeiCtTwYH9ITdXrGpgD) | 4:17 |
 | 87 | [接吻](https://open.spotify.com/track/4Y1kikrwlBD0ESg9mdOfQp) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [TOKYO \- CITY POP \-](https://open.spotify.com/album/4xP3ejIHNS3OPGHfSIrevD) | 4:40 |

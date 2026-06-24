@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-18",
-  "description": "With Daryl Coley, Tramaine Hawkins, Kurt Carr & The Kurt Carr Singers and more",
+  "description": "With Daryl Coley, Richard Smallwood, Kurt Carr & The Kurt Carr Singers and more",
   "name": "Callie Day Radio",
   "tracks": [
     {
@@ -5674,7 +5674,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 345706,
       "name": "Encourage Yourself",
       "url": "https://open.spotify.com/track/6G7VwsjxNBPjCyPmzrUS2R"
@@ -5692,7 +5692,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-22",
+      "date_removed": null,
       "duration_ms": 373426,
       "name": "Encourage Yourself - Live",
       "url": "https://open.spotify.com/track/7nnORJLqd4Os9Lq2X9fs9r"
@@ -7740,7 +7740,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-23",
+      "date_removed": null,
       "duration_ms": 263640,
       "name": "Get Your House In Order",
       "url": "https://open.spotify.com/track/2hxNsvAnjC0rGA6noLGynw"
@@ -9494,7 +9494,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-23",
+      "date_removed": null,
       "duration_ms": 163704,
       "name": "Grace",
       "url": "https://open.spotify.com/track/3zzi0LnGiJjhf0s6vn2Z82"
@@ -9602,7 +9602,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 241093,
       "name": "Grace Of God",
       "url": "https://open.spotify.com/track/1HUqceGhRTXNuvuyMT7teG"
@@ -11702,7 +11702,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 444528,
       "name": "Hills",
       "url": "https://open.spotify.com/track/3RGXSu5rE4lT2EOHrtvxOF"
@@ -13832,7 +13832,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-23",
+      "date_removed": null,
       "duration_ms": 276773,
       "name": "I Know I've Been Changed",
       "url": "https://open.spotify.com/track/4sfrZS1LHxbiesSpqDBRga"
@@ -13854,7 +13854,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-23",
+      "date_removed": null,
       "duration_ms": 471379,
       "name": "I Know It Was Jesus",
       "url": "https://open.spotify.com/track/4ucMu9qhdgTjOez2Rji4OT"
@@ -14270,7 +14270,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-22",
+      "date_removed": null,
       "duration_ms": 299083,
       "name": "I Need Your Glory",
       "url": "https://open.spotify.com/track/7AlrRxDhyVTGF9uusZXOiv"
@@ -14682,7 +14682,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-23",
+      "date_removed": null,
       "duration_ms": 421220,
       "name": "I Threw In The Towel",
       "url": "https://open.spotify.com/track/13BNT5tyNkMGQUxYKijweO"
@@ -14712,7 +14712,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 289500,
       "name": "I Threw in the Towel - Radio Edit",
       "url": "https://open.spotify.com/track/3zdaL9qdMNcGi0kCRE4WlD"
@@ -15224,7 +15224,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 293545,
       "name": "I Win",
       "url": "https://open.spotify.com/track/30w9M5Ve4pi2944Szk15rQ"
@@ -16052,7 +16052,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 351533,
       "name": "I'm Still Here - Live at the Bailey Cathedral in Detroit, Michigan",
       "url": "https://open.spotify.com/track/0CK7N7rA5eZyTPhO5bzeI0"
@@ -17922,7 +17922,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 287007,
       "name": "Jesus Is Real",
       "url": "https://open.spotify.com/track/4J30wNhlOP1jxzjrRkAoSY"
@@ -21495,6 +21495,24 @@
     },
     {
       "album": {
+        "name": "Magnify (Live)",
+        "url": "https://open.spotify.com/album/6OW95a1MIqn0lpKKcMcFPV"
+      },
+      "artists": [
+        {
+          "name": "Lecresia",
+          "url": "https://open.spotify.com/artist/0SlnMfvRr4keLFdCLkXirc"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311040,
+      "name": "Magnify - Live",
+      "url": "https://open.spotify.com/track/6DuQaPaKQ2K1XkBZSWMAkJ"
+    },
+    {
+      "album": {
         "name": "Classic Gold: We Sing Praises",
         "url": "https://open.spotify.com/album/5GmyDYbCTiyeziwMteEq3Z"
       },
@@ -23202,7 +23220,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-23",
+      "date_removed": null,
       "duration_ms": 363720,
       "name": "My Soul Has Been Anchored In the Lord",
       "url": "https://open.spotify.com/track/4EHtR9cO2I26wORt2C7Tk1"
@@ -23548,7 +23566,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 152219,
       "name": "Never Failed Me Yet",
       "url": "https://open.spotify.com/track/2JFzMNpIECUXCk1d3FTe1Z"
@@ -23772,7 +23790,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-17",
+      "date_removed": null,
       "duration_ms": 224365,
       "name": "NO",
       "url": "https://open.spotify.com/track/3XNfER4M7Zk6Zbjte0Q1mY"
@@ -24702,7 +24720,7 @@
       ],
       "date_added": "2024-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-05",
+      "date_removed": null,
       "duration_ms": 319200,
       "name": "Oh How I Love Jesus",
       "url": "https://open.spotify.com/track/74xvmpKKQnm26cVrauYFiU"
@@ -25664,7 +25682,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-22",
+      "date_removed": null,
       "duration_ms": 225146,
       "name": "Pass Me Not",
       "url": "https://open.spotify.com/track/6geKILHdInlwqJ9tpl0nGT"
@@ -25686,7 +25704,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 290600,
       "name": "Pass Me Not",
       "url": "https://open.spotify.com/track/1pGfsKTVU8e7vcCeL2cln4"
@@ -26388,7 +26406,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 282493,
       "name": "Praise Him v1.1",
       "url": "https://open.spotify.com/track/1s8CyUpqRYvYxaI6sYvCoC"
@@ -29296,7 +29314,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 355160,
       "name": "Sinner's Prayer",
       "url": "https://open.spotify.com/track/1aEstfIrJjYWxvsIDo8b2O"
@@ -29878,7 +29896,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 315541,
       "name": "Soul\u2019s Anthem (It Is Well)",
       "url": "https://open.spotify.com/track/3p5z6hZE4twttR81jsbwKa"
@@ -29932,7 +29950,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 293253,
       "name": "Speak Lord",
       "url": "https://open.spotify.com/track/3IUvdsPAW6kaYfh7V2waek"
@@ -30966,7 +30984,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 293120,
       "name": "Take It to the Lord in Prayer",
       "url": "https://open.spotify.com/track/3kg8P8fbGvuS4U1wo5RGA3"
@@ -32814,7 +32832,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 347000,
       "name": "The Promise (Marvin's Testimony) - Bonus Track",
       "url": "https://open.spotify.com/track/4LS6XT4bxEwpfFqrWT60gl"
@@ -33312,7 +33330,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 304226,
       "name": "There'S A Leak In This Old Building",
       "url": "https://open.spotify.com/track/6sPkXf8cl3c48U4ZFVyd3B"
@@ -34024,7 +34042,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 299600,
       "name": "Total Praise (with Vision) - Live",
       "url": "https://open.spotify.com/track/3eGrTHQnpSE0LRrNrMxMRr"
@@ -36944,7 +36962,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 589333,
       "name": "Yes",
       "url": "https://open.spotify.com/track/51lmYqMkkftoTHyxgQlchW"

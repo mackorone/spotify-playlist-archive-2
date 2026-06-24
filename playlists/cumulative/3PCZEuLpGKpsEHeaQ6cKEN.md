@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \|
 
-1,831 songs - 4 day 1 hr 5 min
+1,832 songs - 4 day 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1054,6 +1054,7 @@
 | [Must Be The Love \- Enamour Remix](https://open.spotify.com/track/5R7c9BBpXTkkUubsTmqCp4) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Nadia Ali](https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5), [BT](https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL), [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Must Be The Love \(Enamour Remix\)](https://open.spotify.com/album/08SsLsHf6rJnYvl0txKvAL) | 4:30 | 2022-07-07 | 2022-11-18 |
 | [Muted Mind](https://open.spotify.com/track/1G37NE6B3QmvPnWas85SIj) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Muted Mind](https://open.spotify.com/album/0G9etUl69fd67tM74zfJ6y) | 3:26 | 2024-06-20 | 2024-10-19 |
 | [My Everything](https://open.spotify.com/track/75r1wc5lI6XCxGVBRSJ5lY) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [My Everything](https://open.spotify.com/album/4tcOPBWRItn1GZFefCAOQd) | 3:48 | 2023-02-16 | 2023-06-23 |
+| [My Feelings For You](https://open.spotify.com/track/5VnxnkmYGnwcj7xhtfFbR2) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Sebastien Drums](https://open.spotify.com/artist/0lHsjYcb3lGjkJQQqC6HVt) | [My Feelings For You](https://open.spotify.com/album/2g1VlXVLzrOw39zgwxto1v) | 2:39 | 2026-06-23 |  |
 | [My Head](https://open.spotify.com/track/7fHCJ5esPbjrOf9yJPbYLr) | [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz), [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Detention](https://open.spotify.com/album/4wrHptimsWJK8Z01bsnQ9s) | 2:35 | 2024-06-13 | 2024-10-19 |
 | [My House Is Your House](https://open.spotify.com/track/2w1mC5MeXK92K5Afe0vv6v) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [My House Is Your House](https://open.spotify.com/album/2rR4XQdbZxdTjE8b5KgLiX) | 2:43 | 2025-03-07 | 2025-03-14 |
 | [My Lexicon](https://open.spotify.com/track/4QrXptjPgVIdsDCoSp8nji) | [Sander Kleinenberg](https://open.spotify.com/artist/3CfH3WZPzbk5mNDWXpGIy6), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [My Lexicon](https://open.spotify.com/album/4UT8mD2Pqcdys73ktGDJ0E) | 3:27 | 2025-12-12 |  |

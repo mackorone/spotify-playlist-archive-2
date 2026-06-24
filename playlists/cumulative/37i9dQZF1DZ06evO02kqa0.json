@@ -1872,7 +1872,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 153093,
       "name": "Pt. I: Prelude",
       "url": "https://open.spotify.com/track/04RSaKUOmYFp120VFSYctA"
@@ -2472,6 +2472,48 @@
       "duration_ms": 333413,
       "name": "Puccini: Suor Angelica: \"Senza mamma\" (Angelica)",
       "url": "https://open.spotify.com/track/1TSesE2nP3HlNPVEvESMBy"
+    },
+    {
+      "album": {
+        "name": "Puccini: Tosca",
+        "url": "https://open.spotify.com/album/7jJ69AFSMTAQavq64DxYll"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Carlo Bergonzi",
+          "url": "https://open.spotify.com/artist/3ALYsjti5tptGpfAgEYweV"
+        },
+        {
+          "name": "Orchestre de la Socit des Concerts du Conservatoire",
+          "url": "https://open.spotify.com/artist/04ftUoyDYF6GrTbKcuXmo5"
+        },
+        {
+          "name": "Georges Prtre",
+          "url": "https://open.spotify.com/artist/0ixA9c86Oc5puf9fpISe2K"
+        },
+        {
+          "name": "Georges Pr\u00eatre",
+          "url": "https://open.spotify.com/artist/5lfbI21DXOiKTCT3Gb802r"
+        },
+        {
+          "name": "Orchestre De La Soci\u00e9t\u00e9 Des Concerts Du Conservatoire",
+          "url": "https://open.spotify.com/artist/2jR0NsaJWwUmIxtEAJKCNP"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342440,
+      "name": "Puccini: Tosca, Act 1 Scene 5: \"Ah, quegli occhi \u2026 Quale occhio al mondo pu\u00f2 star di paro\" (Tosca, Cavaradossi)",
+      "url": "https://open.spotify.com/track/56p2iqses17uxRObZQBCLh"
     },
     {
       "album": {

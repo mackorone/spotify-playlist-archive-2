@@ -5519,6 +5519,24 @@
     },
     {
       "album": {
+        "name": "Love Me Back",
+        "url": "https://open.spotify.com/album/0MkfpV7NcjQbXOpq0SMa3z"
+      },
+      "artists": [
+        {
+          "name": "Jenny Scara",
+          "url": "https://open.spotify.com/artist/0F4yegE6Xa3vC2KvCoJTGw"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202909,
+      "name": "Love Me Back",
+      "url": "https://open.spotify.com/track/5Gj6ULpZ8A7UuPWWqdHBbM"
+    },
+    {
+      "album": {
         "name": "LTK",
         "url": "https://open.spotify.com/album/3j7jt2dabJflTVhsgznvVO"
       },
@@ -6402,6 +6420,36 @@
       "duration_ms": 224755,
       "name": "No Durar\u00e1 Ma\u00f1ana",
       "url": "https://open.spotify.com/track/7hgsM0WZJD0Isjx6dNSVRE"
+    },
+    {
+      "album": {
+        "name": "Pope Joan Sinf\u00f3nico",
+        "url": "https://open.spotify.com/album/2TvI5ziSqPflqifuBbcQbf"
+      },
+      "artists": [
+        {
+          "name": "Gal Baliero",
+          "url": "https://open.spotify.com/artist/3IuWLDPy58I11hj2tOsn7M"
+        },
+        {
+          "name": "Isaac Gomez",
+          "url": "https://open.spotify.com/artist/6OP5rawJOEJ3SGN6up8zOW"
+        },
+        {
+          "name": "Jacksa Suazo",
+          "url": "https://open.spotify.com/artist/7rwpfamWDwfJ6F26zue6LV"
+        },
+        {
+          "name": "Banda Pope Joan",
+          "url": "https://open.spotify.com/artist/1xG6VbKG0O3HUAhbu6UbR5"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278518,
+      "name": "No es pecado",
+      "url": "https://open.spotify.com/track/0G6a9gaWPPFsmu3Cb9hMpx"
     },
     {
       "album": {

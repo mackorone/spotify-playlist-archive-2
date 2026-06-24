@@ -2,7 +2,7 @@
 
 ### [EQUAL Japan](https://open.spotify.com/playlist/37i9dQZF1DX2K2376Q0zTJ)
 
-> 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: ん・フェニ
+> 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: MFS
 
 1,584 songs - 3 day 21 hr 5 min
 
@@ -546,7 +546,7 @@
 | [LIFE \(TOSHIKI HAYASHI \(%C\) remix\)](https://open.spotify.com/track/2EsfdUWyDB18NodleBCnWg) | [Izumi Makura](https://open.spotify.com/artist/012ldd58H1N5UZLxjMzV29), [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI), [LOVELYSUMMERCHAN](https://open.spotify.com/artist/6XDP2mj0RwLIp5BbPRU6PI) | [LIFE \(TOSHIKI HAYASHI \(%C\) remix\)](https://open.spotify.com/album/0QDuDc8YK0WxOAN21cc0io) | 4:06 | 2023-07-04 | 2023-09-06 |
 | [Life Goes On](https://open.spotify.com/track/1HDS0yf0VtFpMhS0qEyP4H) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q) | [RESPECT ALL](https://open.spotify.com/album/2yEGTWb8SrvhEopxI5vwpy) | 5:30 | 2023-09-05 | 2024-03-06 |
 | [Life of the Party](https://open.spotify.com/track/7jKspZp3u7mIqO2navtJVP) | [MoMo](https://open.spotify.com/artist/5gwaQTfKLp93WjE9qllzRW), [Mao Sone](https://open.spotify.com/artist/674ZhINhNClUw6elVb96BG) | [Life of the Party](https://open.spotify.com/album/0a2toNkR3BmJcRUWnVXWfE) | 3:24 | 2023-06-06 | 2023-07-05 |
-| [Lifestyle](https://open.spotify.com/track/5ui8Gewy9y3sCBtuyWqj4t) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0) | [Get Litty?](https://open.spotify.com/album/08SdOsfG9Q7yf7J0eMmi9g) | 2:55 | 2026-03-19 |  |
+| [Lifestyle](https://open.spotify.com/track/5ui8Gewy9y3sCBtuyWqj4t) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0) | [Get Litty?](https://open.spotify.com/album/08SdOsfG9Q7yf7J0eMmi9g) | 2:55 | 2026-03-19 | 2026-06-24 |
 | [Like a Flower](https://open.spotify.com/track/3SS77BL8QoIWyoK0u7pDGQ) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [Like a Flower](https://open.spotify.com/album/5QzFZu9OghWzEE9iSlPUl4) | 2:31 | 2026-05-07 | 2026-06-17 |
 | [Like No One's Done](https://open.spotify.com/track/1r58xvfAQ4XOZFxazKGn6J) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1) | [Like No One's Done](https://open.spotify.com/album/00tVzuX53IxaZ2tk6dGvpZ) | 3:55 | 2023-04-04 | 2023-05-03 |
 | [Lilac rendez\-vous](https://open.spotify.com/track/0yoqIzFe8vlE2RpOBh9nq7) | [SAKA\-SAMA](https://open.spotify.com/artist/5IBMqgH70qNRInaMn9zYo8) | [Maiwai](https://open.spotify.com/album/6mLrB1PURKERQbm5n7I5OL) | 3:30 | 2024-02-06 | 2024-03-06 |

@@ -6462,7 +6462,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 236883,
       "name": "Heeriye",
       "url": "https://open.spotify.com/track/3bFTXIxkkgjZAfth2xRviG"
@@ -9634,7 +9634,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 184092,
       "name": "Khoye Naina",
       "url": "https://open.spotify.com/track/7pp6ncIE5M2N4n2JCqJmVV"
@@ -14430,6 +14430,10 @@
         {
           "name": "Shreya Jain",
           "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
+        },
+        {
+          "name": "Shubham Shirule",
+          "url": "https://open.spotify.com/artist/6beOaVvPVwBvJMHZZox3p1"
         }
       ],
       "date_added": "2026-06-08",
@@ -17467,6 +17471,40 @@
     },
     {
       "album": {
+        "name": "Tera Paisa Mera Paisa (From \"Welcome To The Jungle\")",
+        "url": "https://open.spotify.com/album/1AMgexR253hz1itLUXJnjj"
+      },
+      "artists": [
+        {
+          "name": "Akshay Kumar",
+          "url": "https://open.spotify.com/artist/0w0mlcvl7QH28Cs28O6waY"
+        },
+        {
+          "name": "Farhad Bhiwandiwala",
+          "url": "https://open.spotify.com/artist/4MXbaLKhqWdVXp5RzYQPa0"
+        },
+        {
+          "name": "Rubai",
+          "url": "https://open.spotify.com/artist/6tBTqKtxRUei3EWE8sl10r"
+        },
+        {
+          "name": "Vikram Montrose",
+          "url": "https://open.spotify.com/artist/0aXLGxJ65wok0y1bVG6flg"
+        },
+        {
+          "name": "Meggha Bali",
+          "url": "https://open.spotify.com/artist/7oGJfQzTX3UMsN098bd5mF"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226650,
+      "name": "Tera Paisa Mera Paisa (From \"Welcome To The Jungle\")",
+      "url": "https://open.spotify.com/track/5Yo7OLqljiSCo2IYfQBJbV"
+    },
+    {
+      "album": {
         "name": "Tere Bin Na Chale Saansein",
         "url": "https://open.spotify.com/album/1YNWOMWkMNASBKsldA6GiK"
       },
@@ -18748,6 +18786,28 @@
       "duration_ms": 143341,
       "name": "Tu Mila",
       "url": "https://open.spotify.com/track/2TheIuczIyxWtOgBGoqbPN"
+    },
+    {
+      "album": {
+        "name": "Tu Mileya",
+        "url": "https://open.spotify.com/album/2qG7b9E3cDSSncXO5nfjWC"
+      },
+      "artists": [
+        {
+          "name": "Akhil Sachdeva",
+          "url": "https://open.spotify.com/artist/3TOhzLRYnkkul71yRBxIoM"
+        },
+        {
+          "name": "Showkidd",
+          "url": "https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189096,
+      "name": "Tu Mileya",
+      "url": "https://open.spotify.com/track/5aVRmW3nY4rOeRojw4h6jQ"
     },
     {
       "album": {

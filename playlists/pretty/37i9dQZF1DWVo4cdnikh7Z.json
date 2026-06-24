@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : Vishwanath & Sons",
-  "num_followers": 751239,
+  "num_followers": 751289,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGwB7WTfrJ1MFrHlrO5uOGc8dshp",
+  "snapshot_id": "AAAAADGbVSu0x8vKdyv0AMGqqJ3d3amG",
   "tracks": [
     {
       "added_at": "2026-06-19 13:18:18",
@@ -159,6 +159,30 @@
       "duration_ms": 168428,
       "name": "Watcha Udadha",
       "url": "https://open.spotify.com/track/6zoMXYC40gVmMXQJfJFeCg"
+    },
+    {
+      "added_at": "2026-06-23 04:52:06",
+      "album": {
+        "name": "Love - U Love - U Kaatteri (From \"Immortal\")",
+        "url": "https://open.spotify.com/album/52S95XXrGaWRJoczIUBd3l"
+      },
+      "artists": [
+        {
+          "name": "Sam C.S.",
+          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
+        },
+        {
+          "name": "Reshma Shyam",
+          "url": "https://open.spotify.com/artist/6gLyEME6OfBcqYtrDt1JlB"
+        },
+        {
+          "name": "Shalli C",
+          "url": "https://open.spotify.com/artist/2JYc2MZ0MVSBwt7FcAKViU"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Love - U Love - U Kaatteri - From \"Immortal\"",
+      "url": "https://open.spotify.com/track/64t2s5KpGBjyTR2rXdvIl0"
     },
     {
       "added_at": "2026-06-17 04:42:19",

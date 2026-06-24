@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,329 songs - 5 day 17 hr 33 min
+2,334 songs - 5 day 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1203,6 +1203,7 @@
 | [Love´s a mystery](https://open.spotify.com/track/1j0QiaXdcj1ZwiJOP0xU8k) | [Juan El Grande](https://open.spotify.com/artist/1EKGn7PcgUA19OXlhZ7xgS) | [Love´s a mystery](https://open.spotify.com/album/6DFUaEu1zCCDF6Etfvvjl6) | 3:09 | 2025-05-05 |  |
 | [LTD](https://open.spotify.com/track/507JSmxpfl8FnXMm7To8TG) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [The Mix Up Bonus Tracks](https://open.spotify.com/album/2a3nLwXuIKhmRQdoeTqrUZ) | 3:12 | 2026-02-07 |  |
 | [Luce](https://open.spotify.com/track/6LcC2XkDXsgFMWbtpsNHUw) | [Program One](https://open.spotify.com/artist/1LTNHqcrT0pIAyidatW0aF) | [Luce](https://open.spotify.com/album/5yek2EgefZAGdboXus2YRu) | 3:55 | 2024-06-18 |  |
+| [Luka Yang Bernama Kamu](https://open.spotify.com/track/2VXPqyN2N6J15Md9fSc8s9) | [Ekkyu](https://open.spotify.com/artist/6mT1w2xe3Os7CLSR1bAU6W) | [Luka Yang Bernama Kamu](https://open.spotify.com/album/3fhiugMLvJQfLRZoM3XItY) | 4:38 | 2026-06-23 |  |
 | [Lullaby](https://open.spotify.com/track/0JZBt9YycVqBGZqwshSUuu) | [Program One](https://open.spotify.com/artist/1LTNHqcrT0pIAyidatW0aF) | [Lullaby](https://open.spotify.com/album/3e97pS7XBiFufcgcbuFlMY) | 5:08 | 2024-12-27 |  |
 | [Luna](https://open.spotify.com/track/7zjEbjiwsr25Aiow2V1290) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Supernova](https://open.spotify.com/album/1cEtLyqdkRlTsxn3ldfGot) | 3:20 | 2025-12-28 |  |
 | [Luna Park \(HIIT 30\-10\)](https://open.spotify.com/track/1pl8wZwGoNt0GGd9WuqmFg) | [THE TRAINER](https://open.spotify.com/artist/4B1n4QNr8vjhUnTgERok66) | [80s DISCO HIIT DANCE WORKOUT](https://open.spotify.com/album/6opKcFjmEz92mrvuMdD1c8) | 1:20 | 2024-03-04 |  |
@@ -1241,6 +1242,7 @@
 | [Masters of the war](https://open.spotify.com/track/5nzmuhzq0Bp7bt5c9plPWS) | [The Leaflitter Bug](https://open.spotify.com/artist/4G0RBH0X6MB0xSaF97r9lW) | [Masters of the war](https://open.spotify.com/album/4uzvCUuSpskbhRYFNxTSlU) | 2:01 | 2025-05-16 |  |
 | [Material Girl](https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:00 | 2023-03-15 |  |
 | [Matic Manor](https://open.spotify.com/track/50qdtQrS8p3kvQXNguELeg) | [The Manor](https://open.spotify.com/artist/6gdW8jo9cNfl6up39hTKOp) | [Walk with Jah](https://open.spotify.com/album/3t5pK2FwJxeUeIuR3u0pFc) | 3:18 | 2024-03-23 |  |
+| [Matory](https://open.spotify.com/track/39WrEUqGAXuylnOtGeVE3h) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Matory](https://open.spotify.com/album/37DeS2yQJ0UUF8tKJjdes4) | 2:31 | 2026-06-23 |  |
 | [May It Be](https://open.spotify.com/track/1wIQ2Nm0raqOapHK4bCD3J) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [May It Be](https://open.spotify.com/album/6o6RblnNPtSpuIdv5p2cZe) | 3:31 | 2023-03-15 |  |
 | [Maybe I](https://open.spotify.com/track/05aSqaoNdnrRSqU0ld1VcX) | [UNICK STAR](https://open.spotify.com/artist/2TfAtK1FEbbyKIx1jwJrKL) | [Maybe I](https://open.spotify.com/album/6XQci72te4yZnxA4GK7XpP) | 2:33 | 2025-06-24 |  |
 | [Me Rindo](https://open.spotify.com/track/4T4Rx7ApdVoMyeteFglpJ1) | [Michael Todd Brown](https://open.spotify.com/artist/1UVbWulqbJhDEpYxvOmHJa), [Tuva Paloma](https://open.spotify.com/artist/6uYz66bkpyYpokipvgIRrT) | [Me Rindo](https://open.spotify.com/album/0saQU98ixtjrMD3M6EXQ73) | 5:46 | 2026-04-30 |  |
@@ -2048,6 +2050,7 @@
 | [Tideway \- Original Version](https://open.spotify.com/track/2cOYljid0NhMlpW6VW5xWE) | [Roberto Senchiu](https://open.spotify.com/artist/6YOzBCyZMjxlDtQmpYvgoC) | [Tideway \(Original Version\)](https://open.spotify.com/album/6b64hY18P5WW2RPLhvAfjl) | 1:20 | 2026-03-23 |  |
 | [TIGER JACK](https://open.spotify.com/track/3ApnSYtFjH8w7F84JBNuNZ) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [TIGER JACK](https://open.spotify.com/album/55m9dQFjOKGHwNPccvPwSj) | 3:26 | 2025-11-14 |  |
 | [Till I Die](https://open.spotify.com/track/5NR5MyDRJjh4SfGe1SIbpe) | [Peter Raadho](https://open.spotify.com/artist/7u8tdfvBBUHAwiqDkmTIUx) | [Till I Die](https://open.spotify.com/album/3kLyxG63lNZ1O6rqKbjr4o) | 4:44 | 2026-06-08 |  |
+| [Time and a Place](https://open.spotify.com/track/5IcBicRU5XceiJJRcds8wt) | [HAMLIN](https://open.spotify.com/artist/08UO9aJMvPU8w2BfXKeZbk) | [Time and a Place](https://open.spotify.com/album/5Na8n7JvfZI2qWnYWfFEkV) | 4:12 | 2026-06-23 |  |
 | [Time Is A Weapon](https://open.spotify.com/track/7F0rYUVBoEV4wEFeXG070e) | [Julience](https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL) | [Time Is A Weapon](https://open.spotify.com/album/46wy0eBBTvxxI3llxxWkAE) | 3:30 | 2026-02-15 |  |
 | [Time of the Season \- Mono Remastered](https://open.spotify.com/track/6lx1n63qJmhzPpirxxksbI) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Odessey and Oracle \(Mono Remastered\)](https://open.spotify.com/album/1Rad3I77vbl5L65DjbSIzJ) | 3:30 | 2025-10-01 |  |
 | [Time Slips Away](https://open.spotify.com/track/65vKyPGbuAmYwdMSiRlAPg) | [DiaZero](https://open.spotify.com/artist/7o5pN1XmIndmtyoBGNJ1Fa) | [Time Slips Away](https://open.spotify.com/album/3C8elZHA5p4Y4eLZbBO9NM) | 4:10 | 2025-10-26 |  |
@@ -2306,6 +2309,7 @@
 | [Выше неба](https://open.spotify.com/track/4IUuIxX8oZW2uNZejjcSwc) | [moon room 7](https://open.spotify.com/artist/5lut5OhjID1T8whViZB34G) | [Выше неба](https://open.spotify.com/album/7drQndRFdIijm0bneXB48s) | 3:29 | 2025-05-12 |  |
 | [Доля захисників](https://open.spotify.com/track/2zKfUnKigpUkyxONpTExev) | [Влад Зайцев](https://open.spotify.com/artist/0ePuvKWeXbAlYFxvakdJ6h) | [Доля захисників](https://open.spotify.com/album/5EEfpr8epng3N8NHHkrVyt) | 3:40 | 2025-10-05 |  |
 | [Дороги снегом замело](https://open.spotify.com/track/74xgU9bqvu9nbvzhkLmZkU) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 2:59 | 2026-03-31 |  |
+| [Дышать](https://open.spotify.com/track/4R5bbmS5OoFrgbLk8tRoY8) | [ANTY\-DOTE](https://open.spotify.com/artist/6977CBnV7l66u6yEM9MwMW) | [Дышать](https://open.spotify.com/album/4WnGAdmmXihQC1WKsOmw4I) | 1:02 | 2026-06-23 |  |
 | [Ещё вчера](https://open.spotify.com/track/3oEnRkfBvcDogSQhOpVYWB) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Ещё вчера](https://open.spotify.com/album/154tkH9dGGq42QMywGfwBN) | 4:09 | 2026-02-22 |  |
 | [Космос ждёт!](https://open.spotify.com/track/3eI5TOZVCiR9F1UGgBunrq) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос ждёт!](https://open.spotify.com/album/3aEUPND51PH4Kw466Tw49M) | 4:44 | 2026-04-13 |  |
 | [Лето](https://open.spotify.com/track/56wDXnGmt1k1MG8EpEF7wU) | [moon room 7](https://open.spotify.com/artist/5lut5OhjID1T8whViZB34G) | [Лето](https://open.spotify.com/album/0jeEjcRsn33ya6zeIganvz) | 4:24 | 2025-06-18 |  |
@@ -2317,6 +2321,7 @@
 | [Сказка, милая сказка](https://open.spotify.com/track/43bdnp7HlUWMWZRg6j0A4s) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Сказка, милая сказка](https://open.spotify.com/album/1hbYA2nWzZL8IgiqE9uVpv) | 4:31 | 2025-05-09 |  |
 | [Стихи усыпаны золой](https://open.spotify.com/track/5lKLESXe57MOnrruGp509e) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Стихи усыпаны золой](https://open.spotify.com/album/5R6LA8nzq4jZsMsWAK53TG) | 2:37 | 2026-01-17 |  |
 | [Три времени](https://open.spotify.com/track/7uJSMGXHy4d9JKcbCBNVLI) | [Krutogolov Soundworks](https://open.spotify.com/artist/2It9qSHSBf9doBLFZAJ3sQ) | [Три времени](https://open.spotify.com/album/5FOXkye7HfRkpq25km6a5C) | 4:54 | 2025-08-13 |  |
+| [Хорошие всё люди](https://open.spotify.com/track/3rhtHtJJhEv59cFXru3yFp) | [the poet must die](https://open.spotify.com/artist/2D0En2asmzvF1FGNiXEGqf) | [Хорошие всё люди](https://open.spotify.com/album/4w2zx1lJYBAwqFa2Qoo9zZ) | 1:02 | 2026-06-23 |  |
 | [Хрипят моторы](https://open.spotify.com/track/2V9Vb562pyNLwQJiyGny55) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 4:00 | 2025-10-07 |  |
 | [Чн](https://open.spotify.com/track/1k4hUObaHc5pCGD0ZvrhsC) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Чн](https://open.spotify.com/album/70f1wT4l5S7lN9wp2G9uJ0) | 3:10 | 2025-06-09 |  |
 | [Шёлковые волосы](https://open.spotify.com/track/2WXaVPdq505D3bGJ3sTmxY) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 3:49 | 2025-11-26 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jfHTze7qwk.md) - [plain]
 
 > ฟังและดูเอ็มวีเพลงไทยจากทุกช่วงเวลา ดูเอ็มวีได้สำหรับผู้ใช้งานแบบพรีเมี่ยม\. ศิลปิน: Polycat
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,063 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,067 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,22 +25,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jfHTze7qwk.md) - [plain]
 | 15 | [บุษบา \(Busaba\)](https://open.spotify.com/track/0MWvyoCkBa93EJa4HnGBoG) | [Moderndog](https://open.spotify.com/artist/2xuN796lJ8Oj4vsx2XiJqj) | [Moderndog](https://open.spotify.com/album/4bvXOiaVeWqSbvyCk24QkA) | 4:48 |
 | 16 | [คู่กัน \(Soulmate\)](https://open.spotify.com/track/2SewBThepvNfjZ6fyBhGYT) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [Club](https://open.spotify.com/album/3FIStO0Jqw4wX6aXbvDd6L) | 4:26 |
 | 17 | [No.1](https://open.spotify.com/track/4L6PI5chD4KigRsrhOsnDx) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [สัตว์จริง](https://open.spotify.com/album/3DZPF3HO5rVZO3V8Ja902E) | 3:28 |
-| 18 | [ความลับ](https://open.spotify.com/track/3JRW8QzgWLrenspiUEqE1B) | [Pause](https://open.spotify.com/artist/1pTiPuAABytFjsXsUwgsNE) | [Mild](https://open.spotify.com/album/5UEBDg1sx03ah3jfU5U8no) | 3:08 |
+| 18 | [อยู่ดีๆก็… \(feat\. Youngohm\)](https://open.spotify.com/track/0b9JDLbAgCazIwPSWj6DNL) | [Wonderframe](https://open.spotify.com/artist/5bzFXP4FjQKAwuiHJTsNp9), [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [อยู่ดีๆก็… \(feat\. Youngohm\)](https://open.spotify.com/album/4h7UhLWDZk2vOafrnijTta) | 3:55 |
 | 19 | [Lavender](https://open.spotify.com/track/3BV2YcwoVRxK4dXxyaHpZU) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [Lavender](https://open.spotify.com/album/2rtLGvRaYgmrI3zbcIq5LM) | 4:13 |
 | 20 | [ตาสว่าง \(Found\)](https://open.spotify.com/track/2xnAn7xxR2Ohxt1UuQudpC) | [Moderndog](https://open.spotify.com/artist/2xuN796lJ8Oj4vsx2XiJqj) | [แดดส่อง](https://open.spotify.com/album/67i2hh9vivLArE9XdVbm2B) | 5:24 |
 | 21 | [ทุกอย่าง](https://open.spotify.com/track/4BoGFJUkeQ67PvkIfHhT65) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [SSSSS..!](https://open.spotify.com/album/5e5fZ4jZiIhh5rfsuFhfCN) | 4:16 |
-| 22 | [ดินแดนแห่งความรัก](https://open.spotify.com/track/3WrSuURIdtaffgHBANSyWC) | [Crescendo](https://open.spotify.com/artist/7omCr5aMOZAR4rL580d2kk) | [Second Chance](https://open.spotify.com/album/0AZurgshWlyyrnBvRqQ3zY) | 3:43 |
-| 23 | [อยู่ดีๆก็… \(feat\. Youngohm\)](https://open.spotify.com/track/0b9JDLbAgCazIwPSWj6DNL) | [Wonderframe](https://open.spotify.com/artist/5bzFXP4FjQKAwuiHJTsNp9), [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [อยู่ดีๆก็… \(feat\. Youngohm\)](https://open.spotify.com/album/4h7UhLWDZk2vOafrnijTta) | 3:55 |
+| 22 | [ความลับ](https://open.spotify.com/track/3JRW8QzgWLrenspiUEqE1B) | [Pause](https://open.spotify.com/artist/1pTiPuAABytFjsXsUwgsNE) | [Mild](https://open.spotify.com/album/5UEBDg1sx03ah3jfU5U8no) | 3:08 |
+| 23 | [ดินแดนแห่งความรัก](https://open.spotify.com/track/3WrSuURIdtaffgHBANSyWC) | [Crescendo](https://open.spotify.com/artist/7omCr5aMOZAR4rL580d2kk) | [Second Chance](https://open.spotify.com/album/0AZurgshWlyyrnBvRqQ3zY) | 3:43 |
 | 24 | [เบาเบา \(Tender\)](https://open.spotify.com/track/1D82eR1hzKmiujw4fk0EYj) | [Singular](https://open.spotify.com/artist/5uxiKslHBfPTjs7RigWrL8) | [The White Room](https://open.spotify.com/album/3F4FahVAunMLCSbnLdoXiQ) | 4:03 |
 | 25 | [จันทร์อังคารพุธพฤหัสศุกร์เสาร์อาทิตย์ \(Everyday\)](https://open.spotify.com/track/5l3HFThm3Xlv8c9mmiTUgT) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [จันทร์อังคารพุธพฤหัสศุกร์เสาร์อาทิตย์ \(Everyday\)](https://open.spotify.com/album/636T1GeuPpgrtj9qcULq3I) | 3:02 |
 | 26 | [เข้ากันดี](https://open.spotify.com/track/1zbuNx8aZ9xesAjy4ZDvH4) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [Mood](https://open.spotify.com/album/4gyC8WZwj9Kt0jgkt99Al6) | 3:51 |
-| 27 | [ความจริงในใจ](https://open.spotify.com/track/4db90A1wSLdfFjh0JXe4NI) | [Crescendo](https://open.spotify.com/artist/7omCr5aMOZAR4rL580d2kk) | [เครสเชนโด้](https://open.spotify.com/album/4eRAe2yUAxzbbPC0f9QCUk) | 4:04 |
-| 28 | [หรือ](https://open.spotify.com/track/0ogLgVg1RY7IGyrp1B8g4X) | [Slur](https://open.spotify.com/artist/7G4qd0NlBQf4AxC0klpuDY) | [B](https://open.spotify.com/album/38rKe9bpwRTzQx80DvsFBl) | 4:53 |
+| 27 | [หรือ](https://open.spotify.com/track/0ogLgVg1RY7IGyrp1B8g4X) | [Slur](https://open.spotify.com/artist/7G4qd0NlBQf4AxC0klpuDY) | [B](https://open.spotify.com/album/38rKe9bpwRTzQx80DvsFBl) | 4:53 |
+| 28 | [ความจริงในใจ](https://open.spotify.com/track/4db90A1wSLdfFjh0JXe4NI) | [Crescendo](https://open.spotify.com/artist/7omCr5aMOZAR4rL580d2kk) | [เครสเชนโด้](https://open.spotify.com/album/4eRAe2yUAxzbbPC0f9QCUk) | 4:04 |
 | 29 | [คุณเก็บความลับได้ไหม](https://open.spotify.com/track/1HfQcqDwV3UASZUOpMp9A9) | [Armchair](https://open.spotify.com/artist/12WQ39HU6t5eDvwjK0GFzT) | [คุณเก็บความลับได้ไหม](https://open.spotify.com/album/0vyHVuW90UueeOcOhiAaEl) | 4:39 |
 | 30 | [วอน](https://open.spotify.com/track/6UVmRlDqKESmrA6CpqF48U) | [The Peach Band](https://open.spotify.com/artist/1EyFHLShIbVJnSjLT6tea1) | [เดอะ พีท แบนด์](https://open.spotify.com/album/6SXhTlaKDGKdPJauonN00p) | 4:49 |
 | 31 | [เผด็จเกิร์ล](https://open.spotify.com/track/6dnXdI7OhOJYvVjlT6pR03) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [สัตว์จริง](https://open.spotify.com/album/3DZPF3HO5rVZO3V8Ja902E) | 3:07 |
-| 32 | [ใจกลางความเจ็บปวด](https://open.spotify.com/track/28s9lZvryGHS4XOJVwwQMZ) | [Crescendo](https://open.spotify.com/artist/7omCr5aMOZAR4rL580d2kk) | [4 Days](https://open.spotify.com/album/0gamElnT7ranqjnxSpjeWi) | 5:28 |
-| 33 | [เก็บไว้กับเธอ](https://open.spotify.com/track/6lfcGcG1yE2Sor8j6iE8vN) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [Mood](https://open.spotify.com/album/4gyC8WZwj9Kt0jgkt99Al6) | 4:21 |
+| 32 | [เก็บไว้กับเธอ](https://open.spotify.com/track/6lfcGcG1yE2Sor8j6iE8vN) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [Mood](https://open.spotify.com/album/4gyC8WZwj9Kt0jgkt99Al6) | 4:21 |
+| 33 | [ใจกลางความเจ็บปวด](https://open.spotify.com/track/28s9lZvryGHS4XOJVwwQMZ) | [Crescendo](https://open.spotify.com/artist/7omCr5aMOZAR4rL580d2kk) | [4 Days](https://open.spotify.com/album/0gamElnT7ranqjnxSpjeWi) | 5:28 |
 | 34 | [ลอง \(Try\)](https://open.spotify.com/track/3uokib5yaVbbHSQIpQWLw6) | [Singular](https://open.spotify.com/artist/5uxiKslHBfPTjs7RigWrL8) | [The White Room](https://open.spotify.com/album/3F4FahVAunMLCSbnLdoXiQ) | 3:50 |
 | 35 | [คำสุดท้าย](https://open.spotify.com/track/1XQoEt32xoOLaQMz6NGj3n) | [Slot Machine](https://open.spotify.com/artist/6TNTFjkJA8PhP16Ds7CZnz) | [Mutation](https://open.spotify.com/album/4T035mSyykuyKHF1l0SEdz) | 4:12 |
 | 36 | [รักเธอทั้งหมดของหัวใจ \(For My Brother\)](https://open.spotify.com/track/7sZxRSdexu3IYDcUW7jXMQ) | [Pause](https://open.spotify.com/artist/1pTiPuAABytFjsXsUwgsNE) | [Evo\. & Nova](https://open.spotify.com/album/3S274uqfTRsJXEUpFYouVl) | 6:02 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jfHTze7qwk.md) - [plain]
 | 42 | [รักเธอ](https://open.spotify.com/track/0vdr1c1Yk5BBfghJbDz2bj) | [TOR Saksit](https://open.spotify.com/artist/0dpiMnuJcfuvZFlGWaQ7tR) | [Living In C Major](https://open.spotify.com/album/6PlzDyEvcDJfFQ4MqUiqvB) | 4:30 |
 | 43 | [สัมพันธ์](https://open.spotify.com/track/0LGL4db0abssZ4RicaoiJh) | [Pause](https://open.spotify.com/artist/1pTiPuAABytFjsXsUwgsNE) | [Mild](https://open.spotify.com/album/5UEBDg1sx03ah3jfU5U8no) | 5:17 |
 | 44 | [ไม่เคยไม่รักเธอ \(Never\)](https://open.spotify.com/track/5dnUVOtziaHI5kAHVUTZQY) | [Better Weather](https://open.spotify.com/artist/6dHHmu92q47xdwVxV6W7Fu) | [Better Than Looks](https://open.spotify.com/album/0zOyD7jWHv8gO8KBgTpu06) | 4:51 |
-| 45 | [ผ้าเช็ดหน้า \(Handkerchief\)](https://open.spotify.com/track/16RK1gjfUh7rHyCysMbIsp) | [Triumphs Kingdom](https://open.spotify.com/artist/6uJn2MQOmrIy2NBdFyMdG1) | [Twice TK \(Triumphs Xmas Kingdom\)](https://open.spotify.com/album/15LHBV3LqkBoOGRDabgJ2C) | 4:32 |
-| 46 | [ใครบางคนจากบนฟ้า](https://open.spotify.com/track/0tEl0D4fMH5bfeegwW4gWY) | [Flure](https://open.spotify.com/artist/3Y1IqMgKZTXjsMyWOuxPPj) | [Tales](https://open.spotify.com/album/21f2pmFCn07w2y8w96X65t) | 3:49 |
+| 45 | [ใครบางคนจากบนฟ้า](https://open.spotify.com/track/0tEl0D4fMH5bfeegwW4gWY) | [Flure](https://open.spotify.com/artist/3Y1IqMgKZTXjsMyWOuxPPj) | [Tales](https://open.spotify.com/album/21f2pmFCn07w2y8w96X65t) | 3:49 |
+| 46 | [ผ้าเช็ดหน้า \(Handkerchief\)](https://open.spotify.com/track/16RK1gjfUh7rHyCysMbIsp) | [Triumphs Kingdom](https://open.spotify.com/artist/6uJn2MQOmrIy2NBdFyMdG1) | [Twice TK \(Triumphs Xmas Kingdom\)](https://open.spotify.com/album/15LHBV3LqkBoOGRDabgJ2C) | 4:32 |
 | 47 | [จักรวาล \- Radio Edit](https://open.spotify.com/track/3DM2s6zdNdauNJU4GYSuhr) | [60Miles](https://open.spotify.com/artist/30QomnySAioA1rWq4ul2bO) | [The First Mile](https://open.spotify.com/album/2pzyOcKvdFFRwPgV7QP7AJ) | 5:07 |
 | 48 | [How To Love \(feat\. GRAY\)](https://open.spotify.com/track/1miAQyBEMvHJ62JFuERLyr) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [How To Love \(feat\. GRAY\)](https://open.spotify.com/album/2UrGn1oGOn91IGG2TdNbvn) | 3:21 |
 | 49 | [ไม่มี \(Tomorrow With Nobody\)](https://open.spotify.com/track/0a9MtfsKXwJbejt3OcXd0U) | [P.O.P](https://open.spotify.com/artist/0xM940CrwiH7wrqx3hedal) | [Era](https://open.spotify.com/album/0x9zDqUqgOWtAFq643OWb1) | 6:33 |
-| 50 | [ไม่จำ!](https://open.spotify.com/track/4lvTuTHfeggO9qBAljoXxT) | [The Parkinson](https://open.spotify.com/artist/25vaRIUlu5PahDqAWeYdxR) | [แรก](https://open.spotify.com/album/7hz79oAxXtyE7TeziE5lbh) | 4:10 |
+| 50 | [ปล่อยไปตามหัวใจ \(Let It Flow\)](https://open.spotify.com/track/1uR2ubwRuhaYyy7P98tlma) | [Flure](https://open.spotify.com/artist/3Y1IqMgKZTXjsMyWOuxPPj) | [Flure](https://open.spotify.com/album/5K3IPYs9pO1ugzNQ4uk4OI) | 5:18 |
 
 Snapshot ID: `AAAAAAxtrAKfhj42Bvfw9mbqIxD3Ofk0`

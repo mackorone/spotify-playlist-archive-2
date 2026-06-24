@@ -4,7 +4,7 @@
 
 > Christian Hits Now \| Best Christian songs of 2026\. NEW CHRISTIAN MUSIC! New Music Friday! Cover: <a href="https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4?si=k\_0tRBc\-QKaaJDlZqV9KHg">Jamie MacDonald</a>  cinco de mayo , soaking worship , jelly roll worship
 
-215 songs - 14 hr 16 min
+216 songs - 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Crowns Down \- Live](https://open.spotify.com/track/6I8T8GS5oMRuxgFzxnOkBG) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Crowns Down \(Live\)](https://open.spotify.com/album/3yIWDWEr4BWDt38ovHWnre) | 6:46 | 2025-01-31 | 2026-06-02 |
 | [DEEP](https://open.spotify.com/track/0THcqMeQa1NSviF64C5NG5) | [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5), [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [THROWING PAINT](https://open.spotify.com/album/4LIjsirtkdowvJezJBwCOy) | 3:51 | 2025-08-29 |  |
 | [Deeper Waters](https://open.spotify.com/track/3TyXxUT1D3EiATkn4g5vJ6) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Deeper Waters](https://open.spotify.com/album/6FYE1tFCtHcIWTRGjy19zB) | 2:36 | 2024-05-24 | 2026-06-02 |
-| [demons](https://open.spotify.com/track/5HXFe0eb5lCfJpsqoqIbRS) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [demons](https://open.spotify.com/album/6KAkZgA0rnazv1gQKLcOyW) | 3:10 | 2026-01-16 |  |
+| [demons](https://open.spotify.com/track/5HXFe0eb5lCfJpsqoqIbRS) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [demons](https://open.spotify.com/album/6KAkZgA0rnazv1gQKLcOyW) | 3:10 | 2026-01-16 | 2026-06-24 |
+| [demons \(with Julia Poe\)](https://open.spotify.com/track/5ercYTUhRxWLt71UYFO5Dg) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2), [Julia Poe](https://open.spotify.com/artist/4VmkPimmTUVUnAyYullaRq) | [demons](https://open.spotify.com/album/6bKi7aps28ZJLl0vm7j6nb) | 3:09 | 2026-06-23 |  |
 | [Desperate](https://open.spotify.com/track/2SgAo2v2OpKKej78UruNXK) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Jamie MacDonald](https://open.spotify.com/album/0y3pWJZ5j2JPYI2K3vPzZp) | 3:30 | 2026-01-23 | 2026-05-07 |
 | [Desperate \(with Lauren Daigle\)](https://open.spotify.com/track/6VoT2qfMbAduFP8vUHlhjI) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Desperate](https://open.spotify.com/album/2qnnFD2AllqulvcOLJZQ87) | 3:30 | 2025-07-11 |  |
 | [Do It All Alone](https://open.spotify.com/track/4BC0djL2b1NHcLLT9LYw9d) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Do It All Alone](https://open.spotify.com/album/65x0XC9A6bz7O81n67Sxjy) | 2:52 | 2026-02-13 | 2026-04-11 |

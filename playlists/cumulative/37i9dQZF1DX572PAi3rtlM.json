@@ -2467,32 +2467,6 @@
     },
     {
       "album": {
-        "name": "La voglia la pazzia l'incoscienza l'allegria",
-        "url": "https://open.spotify.com/album/5O6YBiSMJZ4qB5opZCJHGH"
-      },
-      "artists": [
-        {
-          "name": "Ornella Vanoni",
-          "url": "https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv"
-        },
-        {
-          "name": "Toquinho",
-          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
-        },
-        {
-          "name": "Vin\u00edcius de Moraes",
-          "url": "https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd"
-        }
-      ],
-      "date_added": "2024-01-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 173866,
-      "name": "La voglia, la pazzia",
-      "url": "https://open.spotify.com/track/1Sr4RnfU7JVaRKuhNrfI5h"
-    },
-    {
-      "album": {
         "name": "Tutto Vanoni",
         "url": "https://open.spotify.com/album/1KKOGLYEy0GQUf0OvRv4JG"
       },
@@ -2516,6 +2490,32 @@
       "duration_ms": 173866,
       "name": "La voglia, la pazzia",
       "url": "https://open.spotify.com/track/1ugLJamlBBbvW72ymH09BD"
+    },
+    {
+      "album": {
+        "name": "La voglia la pazzia l'incoscienza l'allegria",
+        "url": "https://open.spotify.com/album/5O6YBiSMJZ4qB5opZCJHGH"
+      },
+      "artists": [
+        {
+          "name": "Ornella Vanoni",
+          "url": "https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv"
+        },
+        {
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        },
+        {
+          "name": "Vin\u00edcius de Moraes",
+          "url": "https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173866,
+      "name": "La voglia, la pazzia (Se ela quisesse)",
+      "url": "https://open.spotify.com/track/1Sr4RnfU7JVaRKuhNrfI5h"
     },
     {
       "album": {

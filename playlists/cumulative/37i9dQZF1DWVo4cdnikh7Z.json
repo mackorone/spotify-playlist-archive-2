@@ -26827,6 +26827,32 @@
     },
     {
       "album": {
+        "name": "Love - U Love - U Kaatteri (From \"Immortal\")",
+        "url": "https://open.spotify.com/album/52S95XXrGaWRJoczIUBd3l"
+      },
+      "artists": [
+        {
+          "name": "Sam C.S.",
+          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
+        },
+        {
+          "name": "Reshma Shyam",
+          "url": "https://open.spotify.com/artist/6gLyEME6OfBcqYtrDt1JlB"
+        },
+        {
+          "name": "Shalli C",
+          "url": "https://open.spotify.com/artist/2JYc2MZ0MVSBwt7FcAKViU"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Love - U Love - U Kaatteri - From \"Immortal\"",
+      "url": "https://open.spotify.com/track/64t2s5KpGBjyTR2rXdvIl0"
+    },
+    {
+      "album": {
         "name": "Pookie (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5iw6PpoSiYztUxQWeKAm66"
       },

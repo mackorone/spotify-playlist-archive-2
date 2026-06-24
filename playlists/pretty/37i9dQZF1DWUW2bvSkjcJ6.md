@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Luciano, Jazeek, Domiziana, felix jaehn, Tyla  & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 923,020 likes - 90 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 923,047 likes - 90 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,6 +97,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 87 | [Una casa en el Teide](https://open.spotify.com/track/72aG1rLcFRT8IPpkp2Hxpd) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag), [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [Una casa en el Teide](https://open.spotify.com/album/604M2cC6V6Idy4Lnt4b63I) | 2:54 |
 | 88 | [See You Again](https://open.spotify.com/track/3xy4wL1GcLWZ8VNYGfnTYf) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [See You Again](https://open.spotify.com/album/1C22AuImu7TeIpFZMlIqEv) | 2:59 |
 | 89 | [Around The Sun](https://open.spotify.com/track/0p8i1F7kAMk5VaZjpB8GIK) | [Yello](https://open.spotify.com/artist/3xgj17ZsWxxU86S4qlWvOi) | [Around The Sun](https://open.spotify.com/album/0VTy1qhVhm3tK54Ohtepv7) | 3:27 |
-| 90 | [worth my salt](https://open.spotify.com/track/3n5EfwQCoctF4EiLNgrOJd) | [AYLA](https://open.spotify.com/artist/37Cx3aSscKs8FbUoGuFPaa) | [APPITITE FOR CHAOS](https://open.spotify.com/album/7JueLJfExuOwtOL2go7jO5) | 2:36 |
+| 90 | [worth my salt](https://open.spotify.com/track/3n5EfwQCoctF4EiLNgrOJd) | [AYLA](https://open.spotify.com/artist/37Cx3aSscKs8FbUoGuFPaa) | [APPETITE FOR CHAOS](https://open.spotify.com/album/7JueLJfExuOwtOL2go7jO5) | 2:36 |
 
 Snapshot ID: `AAAAANjNhi2dtSiHD9V9L5fGM++e7mZy`

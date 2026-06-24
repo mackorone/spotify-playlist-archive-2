@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Luciano, Jazeek, Mauvais djo, Mike Candys, Tyla & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,030 likes - 94 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,031 likes - 94 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

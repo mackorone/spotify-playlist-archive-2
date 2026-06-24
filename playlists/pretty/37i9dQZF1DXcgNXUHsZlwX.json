@@ -1,6 +1,6 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf37",
-  "num_followers": 143696,
+  "num_followers": 143687,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
@@ -343,18 +343,22 @@
     {
       "added_at": "2026-06-19 04:19:50",
       "album": {
-        "name": "Old Love",
-        "url": "https://open.spotify.com/album/6mYFCScWWqFGpJAWc6FOxg"
+        "name": "Bridge Back to Me (Acoustic)",
+        "url": "https://open.spotify.com/album/0TVdCyrVFP1Iyu8n7od5u4"
       },
       "artists": [
         {
-          "name": "Dominique Fils-Aim\u00e9",
-          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+          "name": "Al Nicol",
+          "url": "https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu"
+        },
+        {
+          "name": "Benedikt MacIsaac",
+          "url": "https://open.spotify.com/artist/6qD9LwEvJDCeiLJUHxRMnA"
         }
       ],
-      "duration_ms": 205769,
-      "name": "Old Love",
-      "url": "https://open.spotify.com/track/3NwrnNYWLgDzNqqPj3HdyH"
+      "duration_ms": 166506,
+      "name": "Bridge Back to Me - Acoustic",
+      "url": "https://open.spotify.com/track/7hCgoPQ1R2A1vUYNPeqBzJ"
     },
     {
       "added_at": "2026-06-19 04:19:50",
@@ -395,22 +399,18 @@
     {
       "added_at": "2026-06-19 04:19:50",
       "album": {
-        "name": "Bridge Back to Me (Acoustic)",
-        "url": "https://open.spotify.com/album/0TVdCyrVFP1Iyu8n7od5u4"
+        "name": "Old Love",
+        "url": "https://open.spotify.com/album/6mYFCScWWqFGpJAWc6FOxg"
       },
       "artists": [
         {
-          "name": "Al Nicol",
-          "url": "https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu"
-        },
-        {
-          "name": "Benedikt MacIsaac",
-          "url": "https://open.spotify.com/artist/6qD9LwEvJDCeiLJUHxRMnA"
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
         }
       ],
-      "duration_ms": 166506,
-      "name": "Bridge Back to Me - Acoustic",
-      "url": "https://open.spotify.com/track/7hCgoPQ1R2A1vUYNPeqBzJ"
+      "duration_ms": 205769,
+      "name": "Old Love",
+      "url": "https://open.spotify.com/track/3NwrnNYWLgDzNqqPj3HdyH"
     },
     {
       "added_at": "2026-06-19 04:19:50",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-06-19 04:19:50",
       "album": {
-        "name": "TABLE DU FOND",
-        "url": "https://open.spotify.com/album/69a7gHfHrsoJZnn1gmNK82"
-      },
-      "artists": [
-        {
-          "name": "Marc-Antoine Delage",
-          "url": "https://open.spotify.com/artist/51ywYwMSUJbdqPOhJieySS"
-        }
-      ],
-      "duration_ms": 157750,
-      "name": "TABLE DU FOND",
-      "url": "https://open.spotify.com/track/1jadj1wZaSp72gWTkja6Zj"
-    },
-    {
-      "added_at": "2026-06-19 04:19:50",
-      "album": {
         "name": "Surface Tension",
         "url": "https://open.spotify.com/album/7AOjAN9K28XgxhQaJBgvGo"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 169642,
       "name": "Surface Tension",
       "url": "https://open.spotify.com/track/1VQhNfefgdwjT9VgMoiWp2"
+    },
+    {
+      "added_at": "2026-06-19 04:19:50",
+      "album": {
+        "name": "TABLE DU FOND",
+        "url": "https://open.spotify.com/album/69a7gHfHrsoJZnn1gmNK82"
+      },
+      "artists": [
+        {
+          "name": "Marc-Antoine Delage",
+          "url": "https://open.spotify.com/artist/51ywYwMSUJbdqPOhJieySS"
+        }
+      ],
+      "duration_ms": 157750,
+      "name": "TABLE DU FOND",
+      "url": "https://open.spotify.com/track/1jadj1wZaSp72gWTkja6Zj"
     },
     {
       "added_at": "2026-06-19 04:19:50",
@@ -787,6 +787,22 @@
     {
       "added_at": "2026-06-19 04:19:50",
       "album": {
+        "name": "The Music That Makes Me Dance",
+        "url": "https://open.spotify.com/album/3dyrrHaYuOkkoLL1HcDZIO"
+      },
+      "artists": [
+        {
+          "name": "Laura Anglade",
+          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
+        }
+      ],
+      "duration_ms": 307567,
+      "name": "The Music That Makes Me Dance",
+      "url": "https://open.spotify.com/track/2Z84D8TYmtA126ofIvQDtn"
+    },
+    {
+      "added_at": "2026-06-19 04:19:50",
+      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/2lecuAW041jFGznJIATbhz"
       },
@@ -855,22 +871,6 @@
     {
       "added_at": "2026-06-19 04:19:50",
       "album": {
-        "name": "The Music That Makes Me Dance",
-        "url": "https://open.spotify.com/album/3dyrrHaYuOkkoLL1HcDZIO"
-      },
-      "artists": [
-        {
-          "name": "Laura Anglade",
-          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
-        }
-      ],
-      "duration_ms": 307567,
-      "name": "The Music That Makes Me Dance",
-      "url": "https://open.spotify.com/track/2Z84D8TYmtA126ofIvQDtn"
-    },
-    {
-      "added_at": "2026-06-19 04:19:50",
-      "album": {
         "name": "Tu ne mourras pas",
         "url": "https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1"
       },
@@ -883,6 +883,22 @@
       "duration_ms": 201557,
       "name": "Tu trembleras encore",
       "url": "https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ"
+    },
+    {
+      "added_at": "2026-06-19 04:19:50",
+      "album": {
+        "name": "Belladonna Nocturne",
+        "url": "https://open.spotify.com/album/0MKmxWSoSEQoG5VoSyN633"
+      },
+      "artists": [
+        {
+          "name": "Daniel Lanois",
+          "url": "https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690"
+        }
+      ],
+      "duration_ms": 87666,
+      "name": "Snow Lake",
+      "url": "https://open.spotify.com/track/0lULvza49oUyDVfcFTWqYn"
     },
     {
       "added_at": "2026-06-19 04:19:50",
@@ -955,18 +971,18 @@
     {
       "added_at": "2026-06-19 04:19:50",
       "album": {
-        "name": "Belladonna Nocturne",
-        "url": "https://open.spotify.com/album/0MKmxWSoSEQoG5VoSyN633"
+        "name": "L'\u00e9trange pays",
+        "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
       },
       "artists": [
         {
-          "name": "Daniel Lanois",
-          "url": "https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690"
+          "name": "Jean Leloup",
+          "url": "https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd"
         }
       ],
-      "duration_ms": 87666,
-      "name": "Snow Lake",
-      "url": "https://open.spotify.com/track/0lULvza49oUyDVfcFTWqYn"
+      "duration_ms": 200706,
+      "name": "Passe ton chemin",
+      "url": "https://open.spotify.com/track/6wKUnfSAJRQagiCuvNgMbB"
     },
     {
       "added_at": "2026-06-19 04:19:50",
@@ -983,22 +999,6 @@
       "duration_ms": 169320,
       "name": "Flash in the Pan",
       "url": "https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0"
-    },
-    {
-      "added_at": "2026-06-19 04:19:50",
-      "album": {
-        "name": "L'\u00e9trange pays",
-        "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
-      },
-      "artists": [
-        {
-          "name": "Jean Leloup",
-          "url": "https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd"
-        }
-      ],
-      "duration_ms": 200706,
-      "name": "Passe ton chemin",
-      "url": "https://open.spotify.com/track/6wKUnfSAJRQagiCuvNgMbB"
     },
     {
       "added_at": "2026-06-19 04:19:50",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-06-19 04:19:50",
       "album": {
-        "name": "I'll Stand in the Doorway",
-        "url": "https://open.spotify.com/album/3EXBttlObB3082z4k9w15d"
-      },
-      "artists": [
-        {
-          "name": "Libby Ember",
-          "url": "https://open.spotify.com/artist/33b3osf81duwVT6hgdGxba"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "I'll Stand in the Doorway",
-      "url": "https://open.spotify.com/track/1KbdgWnTRxWHhxmuyRWLKN"
-    },
-    {
-      "added_at": "2026-06-19 04:19:50",
-      "album": {
         "name": "Wicked Game",
         "url": "https://open.spotify.com/album/1NxSaYXzNFn0sg53ZhSa6t"
       },
@@ -1087,18 +1071,34 @@
     {
       "added_at": "2026-06-19 04:19:50",
       "album": {
-        "name": "Une Version Am\u00e9lior\u00e9e De La Tristesse",
-        "url": "https://open.spotify.com/album/6LEzxNkoWFGGDEOErpG8jr"
+        "name": "I'll Stand in the Doorway",
+        "url": "https://open.spotify.com/album/3EXBttlObB3082z4k9w15d"
       },
       "artists": [
         {
-          "name": "Peter Peter",
-          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
+          "name": "Libby Ember",
+          "url": "https://open.spotify.com/artist/33b3osf81duwVT6hgdGxba"
         }
       ],
-      "duration_ms": 235910,
-      "name": "Une version am\u00e9lior\u00e9e de la tristesse",
-      "url": "https://open.spotify.com/track/3QpRq1JRHYn4T07ifdtP0S"
+      "duration_ms": 240000,
+      "name": "I'll Stand in the Doorway",
+      "url": "https://open.spotify.com/track/1KbdgWnTRxWHhxmuyRWLKN"
+    },
+    {
+      "added_at": "2026-06-19 04:19:50",
+      "album": {
+        "name": "Et on pleurera ensemble",
+        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+        }
+      ],
+      "duration_ms": 191280,
+      "name": "Le vent se l\u00e8ve",
+      "url": "https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM"
     },
     {
       "added_at": "2026-06-19 04:19:50",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2026-06-19 04:19:50",
       "album": {
-        "name": "Et on pleurera ensemble",
-        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
+        "name": "Une Version Am\u00e9lior\u00e9e De La Tristesse",
+        "url": "https://open.spotify.com/album/6LEzxNkoWFGGDEOErpG8jr"
       },
       "artists": [
         {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+          "name": "Peter Peter",
+          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
         }
       ],
-      "duration_ms": 191280,
-      "name": "Le vent se l\u00e8ve",
-      "url": "https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM"
+      "duration_ms": 235910,
+      "name": "Une version am\u00e9lior\u00e9e de la tristesse",
+      "url": "https://open.spotify.com/track/3QpRq1JRHYn4T07ifdtP0S"
     },
     {
       "added_at": "2026-06-19 04:19:50",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-06-19 04:19:50",
       "album": {
-        "name": "Prologue",
-        "url": "https://open.spotify.com/album/0xdiFOGRPimGO4AMqXftkp"
-      },
-      "artists": [
-        {
-          "name": "Atamone",
-          "url": "https://open.spotify.com/artist/4ewpGbPN16YHnt8CTfY9oY"
-        }
-      ],
-      "duration_ms": 208941,
-      "name": "Morning Coffee",
-      "url": "https://open.spotify.com/track/3deehI8jqHplkY7BpzKaLi"
-    },
-    {
-      "added_at": "2026-06-19 04:19:50",
-      "album": {
         "name": "Le go\u00fbt des mangues",
         "url": "https://open.spotify.com/album/312IdNUk3AsO5wS3gKSwEK"
       },
@@ -1471,6 +1455,22 @@
     {
       "added_at": "2026-06-19 04:19:50",
       "album": {
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/0xdiFOGRPimGO4AMqXftkp"
+      },
+      "artists": [
+        {
+          "name": "Atamone",
+          "url": "https://open.spotify.com/artist/4ewpGbPN16YHnt8CTfY9oY"
+        }
+      ],
+      "duration_ms": 208941,
+      "name": "Morning Coffee",
+      "url": "https://open.spotify.com/track/3deehI8jqHplkY7BpzKaLi"
+    },
+    {
+      "added_at": "2026-06-19 04:19:50",
+      "album": {
         "name": "Demain",
         "url": "https://open.spotify.com/album/5yrVMu7WgtlwdDf4vnLxF1"
       },
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-06-19 04:19:50",
       "album": {
-        "name": "Ce que je te donne ne dispara\u00eet pas",
-        "url": "https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ"
-      },
-      "artists": [
-        {
-          "name": "St\u00e9phanie Boulay",
-          "url": "https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0"
-        }
-      ],
-      "duration_ms": 226586,
-      "name": "Des histoires qui ne seront jamais finies",
-      "url": "https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu"
-    },
-    {
-      "added_at": "2026-06-19 04:19:50",
-      "album": {
         "name": "Cloudless Sky Of None",
         "url": "https://open.spotify.com/album/32ZEv6QQSFtC5NRAve0kFU"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 206574,
       "name": "Cloudless Sky Of None",
       "url": "https://open.spotify.com/track/1TGT9DVmsPxmNpUpGyf90y"
+    },
+    {
+      "added_at": "2026-06-19 04:19:50",
+      "album": {
+        "name": "Ce que je te donne ne dispara\u00eet pas",
+        "url": "https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ"
+      },
+      "artists": [
+        {
+          "name": "St\u00e9phanie Boulay",
+          "url": "https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0"
+        }
+      ],
+      "duration_ms": 226586,
+      "name": "Des histoires qui ne seront jamais finies",
+      "url": "https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu"
     },
     {
       "added_at": "2026-06-19 04:19:50",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2026-06-19 04:19:50",
       "album": {
+        "name": "Diff\u00e9rent",
+        "url": "https://open.spotify.com/album/361keo8iWC2C1JP2tnFpCk"
+      },
+      "artists": [
+        {
+          "name": "Minou",
+          "url": "https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM"
+        }
+      ],
+      "duration_ms": 239047,
+      "name": "Diff\u00e9rent",
+      "url": "https://open.spotify.com/track/6AYPK55XV15ky76ylAttXw"
+    },
+    {
+      "added_at": "2026-06-19 04:19:50",
+      "album": {
         "name": "Du temps",
         "url": "https://open.spotify.com/album/4EGEOLI7Xs4Usp4s2OSvno"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 222586,
       "name": "Du temps",
       "url": "https://open.spotify.com/track/6F0U5qmFfiA5slwhFRI5yL"
-    },
-    {
-      "added_at": "2026-06-19 04:19:50",
-      "album": {
-        "name": "fin pm",
-        "url": "https://open.spotify.com/album/5aQA5dQiOjahrXv7M9W3xv"
-      },
-      "artists": [
-        {
-          "name": "Maddie Bay",
-          "url": "https://open.spotify.com/artist/5l9YeES7fYai24xXRFeKgd"
-        }
-      ],
-      "duration_ms": 191226,
-      "name": "fin pm",
-      "url": "https://open.spotify.com/track/5RfuZ5YOvLicj7LbKs0NPl"
     },
     {
       "added_at": "2026-06-19 04:19:50",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2026-06-19 04:19:50",
       "album": {
+        "name": "fin pm",
+        "url": "https://open.spotify.com/album/5aQA5dQiOjahrXv7M9W3xv"
+      },
+      "artists": [
+        {
+          "name": "Maddie Bay",
+          "url": "https://open.spotify.com/artist/5l9YeES7fYai24xXRFeKgd"
+        }
+      ],
+      "duration_ms": 191226,
+      "name": "fin pm",
+      "url": "https://open.spotify.com/track/5RfuZ5YOvLicj7LbKs0NPl"
+    },
+    {
+      "added_at": "2026-06-19 04:19:50",
+      "album": {
         "name": "\u00c9coute",
         "url": "https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 152893,
       "name": "\u00c9coute",
       "url": "https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs"
-    },
-    {
-      "added_at": "2026-06-19 04:19:50",
-      "album": {
-        "name": "Diff\u00e9rent",
-        "url": "https://open.spotify.com/album/361keo8iWC2C1JP2tnFpCk"
-      },
-      "artists": [
-        {
-          "name": "Minou",
-          "url": "https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM"
-        }
-      ],
-      "duration_ms": 239047,
-      "name": "Diff\u00e9rent",
-      "url": "https://open.spotify.com/track/6AYPK55XV15ky76ylAttXw"
     },
     {
       "added_at": "2026-06-19 04:19:50",

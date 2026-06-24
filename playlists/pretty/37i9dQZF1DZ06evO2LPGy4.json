@@ -1,12 +1,12 @@
 {
   "description": "This is Gerardo Ortiz. The essential tracks, all in one playlist.",
-  "num_followers": 479251,
+  "num_followers": 479279,
   "original_name": "This Is Gerardo Ortiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajcpgAAAAADwjEHcmdHarnTvi1AJLWww",
+  "snapshot_id": "ajh7AAAAAADLwk79oFSUgviv0pDIHV6A",
   "tracks": [
     {
       "added_at": null,
@@ -787,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Entre Dios y El Diablo (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 191706,
+      "name": "Sangre Azul",
+      "url": "https://open.spotify.com/track/3Uu4iU6tVXlEjkpiDZC5UE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Ejemplar",
         "url": "https://open.spotify.com/album/4lijBURHkEvFWWNpvLSsqW"
       },
@@ -803,18 +819,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre Dios y El Diablo (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
+        "name": "D\u00e9jate de Cosas",
+        "url": "https://open.spotify.com/album/3DvNNzASGZtmgpQqJKmcHz"
       },
       "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
         {
           "name": "Gerardo Ortiz",
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 191706,
-      "name": "Sangre Azul",
-      "url": "https://open.spotify.com/track/3Uu4iU6tVXlEjkpiDZC5UE"
+      "duration_ms": 169999,
+      "name": "D\u00e9jate de Cosas",
+      "url": "https://open.spotify.com/track/1Sx9ZpBDImdMD8htvnQrdl"
     },
     {
       "added_at": null,
@@ -839,26 +859,6 @@
       "duration_ms": 181040,
       "name": "La Noche Es Tuya",
       "url": "https://open.spotify.com/track/0FVVco67xjAExg5OqlQ1gU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "D\u00e9jate de Cosas",
-        "url": "https://open.spotify.com/album/3DvNNzASGZtmgpQqJKmcHz"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        },
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 169999,
-      "name": "D\u00e9jate de Cosas",
-      "url": "https://open.spotify.com/track/1Sx9ZpBDImdMD8htvnQrdl"
     }
   ],
   "unique_name": "This Is Gerardo Ortiz",

@@ -1,6 +1,6 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Get Worship",
-  "num_followers": 1217770,
+  "num_followers": 1217832,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,26 @@
     {
       "added_at": "2026-06-12 03:01:53",
       "album": {
+        "name": "Reacende a Chama (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2tunJMjY4NomsHKyRpoqgc"
+      },
+      "artists": [
+        {
+          "name": "Sued Silva",
+          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 477994,
+      "name": "Reacende a Chama - Ao Vivo",
+      "url": "https://open.spotify.com/track/0O358QfVCqB6oN2HP7abkg"
+    },
+    {
+      "added_at": "2026-06-12 03:01:53",
+      "album": {
         "name": "Uma Carta Viva (Ao Vivo)",
         "url": "https://open.spotify.com/album/6spnacimvh1AKK0QA9ZJ09"
       },
@@ -355,26 +375,6 @@
       "duration_ms": 299946,
       "name": "Uma Carta Viva - Ao Vivo",
       "url": "https://open.spotify.com/track/6CxtFCLyCaDbi0iSO83aHr"
-    },
-    {
-      "added_at": "2026-06-12 03:01:53",
-      "album": {
-        "name": "Reacende a Chama (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2tunJMjY4NomsHKyRpoqgc"
-      },
-      "artists": [
-        {
-          "name": "Sued Silva",
-          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 477994,
-      "name": "Reacende a Chama - Ao Vivo",
-      "url": "https://open.spotify.com/track/0O358QfVCqB6oN2HP7abkg"
     },
     {
       "added_at": "2026-06-12 03:01:53",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-06-12 03:01:53",
       "album": {
-        "name": "Toda Terra (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0xU9l010M4DiRiM0E8CWDt"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 519302,
-      "name": "Toda Terra - Ao Vivo",
-      "url": "https://open.spotify.com/track/409bxok0eao5dfqJfL3Mot"
-    },
-    {
-      "added_at": "2026-06-12 03:01:53",
-      "album": {
         "name": "Buscar-Me-Eis e Me Achareis (Ao Vivo)",
         "url": "https://open.spotify.com/album/7g8LWP9eQyiS9YIbziDPV8"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 519000,
       "name": "Buscar-Me-Eis e Me Achareis - Ao Vivo",
       "url": "https://open.spotify.com/track/6a5YMnpTVStVqoBwgOhjDi"
+    },
+    {
+      "added_at": "2026-06-12 03:01:53",
+      "album": {
+        "name": "Toda Terra (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0xU9l010M4DiRiM0E8CWDt"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 519302,
+      "name": "Toda Terra - Ao Vivo",
+      "url": "https://open.spotify.com/track/409bxok0eao5dfqJfL3Mot"
     },
     {
       "added_at": "2026-06-12 03:01:53",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-06-12 03:01:53",
       "album": {
-        "name": "Cura (Ao Vivo em Salvador)",
-        "url": "https://open.spotify.com/album/4tsR5tDmZNPL3q5hvwz4Sc"
-      },
-      "artists": [
-        {
-          "name": "Maria Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
-        }
-      ],
-      "duration_ms": 245476,
-      "name": "Cura - Ao Vivo em Salvador",
-      "url": "https://open.spotify.com/track/7HUWoDzKA6KSBGxQmjNNR8"
-    },
-    {
-      "added_at": "2026-06-12 03:01:53",
-      "album": {
         "name": "Palavra Liberada (Ao Vivo)",
         "url": "https://open.spotify.com/album/1MDa0CVZde9t8jEdJznKnL"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 425033,
       "name": "Palavra Liberada - Ao Vivo",
       "url": "https://open.spotify.com/track/3BR7VJhJYLjOAZ86EgJaae"
+    },
+    {
+      "added_at": "2026-06-12 03:01:53",
+      "album": {
+        "name": "Cura (Ao Vivo em Salvador)",
+        "url": "https://open.spotify.com/album/4tsR5tDmZNPL3q5hvwz4Sc"
+      },
+      "artists": [
+        {
+          "name": "Maria Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
+        }
+      ],
+      "duration_ms": 245476,
+      "name": "Cura - Ao Vivo em Salvador",
+      "url": "https://open.spotify.com/track/7HUWoDzKA6KSBGxQmjNNR8"
     },
     {
       "added_at": "2026-06-12 03:01:53",
@@ -775,6 +775,26 @@
     {
       "added_at": "2026-06-12 03:01:53",
       "album": {
+        "name": "Messias (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1yaEBtVZ5GtJW7xKIor9Iu"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        },
+        {
+          "name": "Averly Morillo",
+          "url": "https://open.spotify.com/artist/40oCnQkoBkpfTohVnTf40S"
+        }
+      ],
+      "duration_ms": 489442,
+      "name": "Messias - Ao Vivo",
+      "url": "https://open.spotify.com/track/4mIyeVe11htVAzz2gVNmJk"
+    },
+    {
+      "added_at": "2026-06-12 03:01:53",
+      "album": {
         "name": "Cristo + Tudo \u00c9 Teu (Ao Vivo no Jesus Vida Ver\u00e3o)",
         "url": "https://open.spotify.com/album/7AVVWCuSmShe5MeFw6R6lf"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 531193,
       "name": "Cristo + Tudo \u00c9 Teu - Ao Vivo no Jesus Vida Ver\u00e3o",
       "url": "https://open.spotify.com/track/3aAk05LYyipr9PaHUp9ZDW"
-    },
-    {
-      "added_at": "2026-06-12 03:01:53",
-      "album": {
-        "name": "Messias (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1yaEBtVZ5GtJW7xKIor9Iu"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        },
-        {
-          "name": "Averly Morillo",
-          "url": "https://open.spotify.com/artist/40oCnQkoBkpfTohVnTf40S"
-        }
-      ],
-      "duration_ms": 489442,
-      "name": "Messias - Ao Vivo",
-      "url": "https://open.spotify.com/track/4mIyeVe11htVAzz2gVNmJk"
     },
     {
       "added_at": "2026-06-12 03:01:53",
@@ -875,6 +875,30 @@
     {
       "added_at": "2026-06-12 03:01:53",
       "album": {
+        "name": "Tu \u00c9s Deus (A Ele) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/6rUW1OFCdCmX7gfmhCokIR"
+      },
+      "artists": [
+        {
+          "name": "O Canto das Igrejas",
+          "url": "https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB"
+        },
+        {
+          "name": "Lucas & Evelyn Cortazio",
+          "url": "https://open.spotify.com/artist/0IsZrX65y6CZ9TMbALhubp"
+        },
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        }
+      ],
+      "duration_ms": 304391,
+      "name": "Tu \u00c9s Deus (A Ele) - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Gol2VjZYbYBsptumlr8jy"
+    },
+    {
+      "added_at": "2026-06-12 03:01:53",
+      "album": {
         "name": "Nada Mais/Uma Vez",
         "url": "https://open.spotify.com/album/6gQlQS55W8vZ3bjTmByVa1"
       },
@@ -911,30 +935,6 @@
       "duration_ms": 329045,
       "name": "Dependente de Deus - Ao Vivo",
       "url": "https://open.spotify.com/track/1YrMQT4omVlCCKQUGqaJm0"
-    },
-    {
-      "added_at": "2026-06-12 03:01:53",
-      "album": {
-        "name": "Tu \u00c9s Deus (A Ele) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/6rUW1OFCdCmX7gfmhCokIR"
-      },
-      "artists": [
-        {
-          "name": "O Canto das Igrejas",
-          "url": "https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB"
-        },
-        {
-          "name": "Lucas & Evelyn Cortazio",
-          "url": "https://open.spotify.com/artist/0IsZrX65y6CZ9TMbALhubp"
-        },
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        }
-      ],
-      "duration_ms": 304391,
-      "name": "Tu \u00c9s Deus (A Ele) - Ao Vivo",
-      "url": "https://open.spotify.com/track/1Gol2VjZYbYBsptumlr8jy"
     },
     {
       "added_at": "2026-06-12 03:01:53",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2026-06-12 03:01:53",
       "album": {
+        "name": "Avenida do Arrependimento",
+        "url": "https://open.spotify.com/album/20gaQaN1H4v5Y4PSvES6fM"
+      },
+      "artists": [
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "duration_ms": 323000,
+      "name": "Esp\u00edrito Santo (Inhabit)",
+      "url": "https://open.spotify.com/track/0X3vkwKZwCBP2XCLSvPf1b"
+    },
+    {
+      "added_at": "2026-06-12 03:01:53",
+      "album": {
         "name": "Na Fenda da Rocha (Ao Vivo)",
         "url": "https://open.spotify.com/album/3L3usCvBRr2PkzPeA9Q9x8"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 349217,
       "name": "Na Fenda da Rocha - Ao Vivo",
       "url": "https://open.spotify.com/track/4dYO2p6RmyHEkiFvhW7NwW"
-    },
-    {
-      "added_at": "2026-06-12 03:01:53",
-      "album": {
-        "name": "Avenida do Arrependimento",
-        "url": "https://open.spotify.com/album/20gaQaN1H4v5Y4PSvES6fM"
-      },
-      "artists": [
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        }
-      ],
-      "duration_ms": 323000,
-      "name": "Esp\u00edrito Santo (Inhabit)",
-      "url": "https://open.spotify.com/track/0X3vkwKZwCBP2XCLSvPf1b"
     },
     {
       "added_at": "2026-06-12 03:01:53",
@@ -1403,6 +1403,26 @@
     {
       "added_at": "2026-06-12 03:01:53",
       "album": {
+        "name": "O Nome (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2kDTQ8tUm9mVESWnyVGXgk"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+        },
+        {
+          "name": "Luma Elpidio",
+          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
+        }
+      ],
+      "duration_ms": 426022,
+      "name": "O Nome - Ao Vivo",
+      "url": "https://open.spotify.com/track/6Obssly2gJlPrrj2lNzwLZ"
+    },
+    {
+      "added_at": "2026-06-12 03:01:53",
+      "album": {
         "name": "O C\u00e9u Responde Diferente (Ao Vivo)",
         "url": "https://open.spotify.com/album/3bZHYzfEG3ymnkoZOFP7vz"
       },
@@ -1423,26 +1443,6 @@
       "duration_ms": 377246,
       "name": "O C\u00e9u Responde Diferente - Ao Vivo",
       "url": "https://open.spotify.com/track/6edijq5bkyxoXa1MOXmqAD"
-    },
-    {
-      "added_at": "2026-06-12 03:01:53",
-      "album": {
-        "name": "O Nome (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2kDTQ8tUm9mVESWnyVGXgk"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Gomes",
-          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
-        },
-        {
-          "name": "Luma Elpidio",
-          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
-        }
-      ],
-      "duration_ms": 426022,
-      "name": "O Nome - Ao Vivo",
-      "url": "https://open.spotify.com/track/6Obssly2gJlPrrj2lNzwLZ"
     },
     {
       "added_at": "2026-06-12 03:01:53",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2026-06-12 03:01:53",
       "album": {
-        "name": "Jonas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6lS40buhr2wF6wIs1tAs5A"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 293426,
-      "name": "Jonas (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1LkLPTFvrtA3CtXwIiO5wZ"
-    },
-    {
-      "added_at": "2026-06-12 03:01:53",
-      "album": {
         "name": "Ent\u00e3o Cr\u00ea (Ao Vivo)",
         "url": "https://open.spotify.com/album/3qeZzBOxA7DZAUfsgrDqsW"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 364324,
       "name": "Ent\u00e3o Cr\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/5GHdI8eTjCGaB4ANef0320"
+    },
+    {
+      "added_at": "2026-06-12 03:01:53",
+      "album": {
+        "name": "Jonas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6lS40buhr2wF6wIs1tAs5A"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 293426,
+      "name": "Jonas (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1LkLPTFvrtA3CtXwIiO5wZ"
     },
     {
       "added_at": "2026-06-12 03:01:53",

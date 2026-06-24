@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 20494,
+  "num_followers": 20499,
   "original_name": "Fryderyk 2026",
   "owner": {
     "name": "Spotify",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Blizny",
-        "url": "https://open.spotify.com/album/3zZetK9kvK3SFuI1hCazEB"
-      },
-      "artists": [
-        {
-          "name": "Turbo",
-          "url": "https://open.spotify.com/artist/1hT8ADv3IA415PjBUwfLLv"
-        }
-      ],
-      "duration_ms": 246439,
-      "name": "Nowy rozdzia\u0142",
-      "url": "https://open.spotify.com/track/02W2Rnd9yiaYMUdPb8FW8u"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "The Shit Ov God",
         "url": "https://open.spotify.com/album/6SVTZkfsUI2iD0jB9kl7zV"
       },
@@ -791,18 +775,18 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Tematy i wariacje",
-        "url": "https://open.spotify.com/album/5oPLIlVa14HPuYNuZ7MSeT"
+        "name": "Blizny",
+        "url": "https://open.spotify.com/album/3zZetK9kvK3SFuI1hCazEB"
       },
       "artists": [
         {
-          "name": "Walu\u015bKraksaKryzys",
-          "url": "https://open.spotify.com/artist/4kOWvyAkvmkCrIHwW3bODd"
+          "name": "Turbo",
+          "url": "https://open.spotify.com/artist/1hT8ADv3IA415PjBUwfLLv"
         }
       ],
-      "duration_ms": 293906,
-      "name": "VValka o ka\u017cdy kolejny dzie\u0144",
-      "url": "https://open.spotify.com/track/4odf0Poq48hNjNUDONrRbF"
+      "duration_ms": 246439,
+      "name": "Nowy rozdzia\u0142",
+      "url": "https://open.spotify.com/track/02W2Rnd9yiaYMUdPb8FW8u"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -819,6 +803,22 @@
       "duration_ms": 281663,
       "name": "Moja bestia",
       "url": "https://open.spotify.com/track/0ZbwqrkZHD8NAG74mXJ7PL"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "Tematy i wariacje",
+        "url": "https://open.spotify.com/album/5oPLIlVa14HPuYNuZ7MSeT"
+      },
+      "artists": [
+        {
+          "name": "Walu\u015bKraksaKryzys",
+          "url": "https://open.spotify.com/artist/4kOWvyAkvmkCrIHwW3bODd"
+        }
+      ],
+      "duration_ms": 293906,
+      "name": "VValka o ka\u017cdy kolejny dzie\u0144",
+      "url": "https://open.spotify.com/track/4odf0Poq48hNjNUDONrRbF"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/38AMF23w6heUQ2Yh617s2V"
-      },
-      "artists": [
-        {
-          "name": "Nene Heroine",
-          "url": "https://open.spotify.com/artist/682FUdadxb0BbBEJosAiSR"
-        }
-      ],
-      "duration_ms": 444560,
-      "name": "Tokyo",
-      "url": "https://open.spotify.com/track/1Ruq8JmcNn0Us3jnZNaS9T"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "Boleros y Masecki",
         "url": "https://open.spotify.com/album/2eOsPHztjx0TGTTATCwWpx"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 291186,
       "name": "Amor sin esperanza",
       "url": "https://open.spotify.com/track/2zK3jWZ37xCZFQRS2x07r9"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/38AMF23w6heUQ2Yh617s2V"
+      },
+      "artists": [
+        {
+          "name": "Nene Heroine",
+          "url": "https://open.spotify.com/artist/682FUdadxb0BbBEJosAiSR"
+        }
+      ],
+      "duration_ms": 444560,
+      "name": "Tokyo",
+      "url": "https://open.spotify.com/track/1Ruq8JmcNn0Us3jnZNaS9T"
     },
     {
       "added_at": "2026-05-26 09:05:26",

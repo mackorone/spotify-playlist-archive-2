@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,154 songs - 3 day 2 hr 24 min
+1,155 songs - 3 day 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [Erica Western Teleport](https://open.spotify.com/track/5zliHc6Y8g8fy23ecBaods) | [Emperor X](https://open.spotify.com/artist/7taxbHlqWyBiQEc38vNT9z) | [Western Teleport](https://open.spotify.com/album/0zN3afLG7nPnIC8qSGVpp9) | 3:33 | 2025-02-14 | 2025-09-26 |
 | [Erotica](https://open.spotify.com/track/1dBS4iejXWbLZyGpMejc1A) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Erotica Veronica](https://open.spotify.com/album/4qhA5QaHjGtDptQf2DMXTQ) | 3:13 | 2026-06-22 |  |
 | [Escape](https://open.spotify.com/track/5WG6oimqjMZHIUsbXvKVxI) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6) | [GIZMO](https://open.spotify.com/album/7mUxu7byX5w4tdgKuUWuX1) | 2:19 | 2024-01-06 |  |
+| [Eureka 378\-B](https://open.spotify.com/track/04G8S4DhyfpsmwWbFmc4fY) | [Horse Lords](https://open.spotify.com/artist/0Oslq5zLftqRVwKseBJ7MV), [Nina Guo](https://open.spotify.com/artist/1dS1OQtTGCVmkaJanOpRA0), [Evelyn Saylor](https://open.spotify.com/artist/41T8k3OwxjwiIG8WfpU3Kr), [Madison Greenstone](https://open.spotify.com/artist/5PkPi1lRFf74AC9dpr8fNI), [Weston Olencki](https://open.spotify.com/artist/5VltHPo6anXZzrWcquJrMR) | [Demand to Be Taken to Heaven Alive!](https://open.spotify.com/album/3q8CQdpq57Xi0zXn5qlauk) | 0:56 | 2026-06-23 |  |
 | [Every Girl](https://open.spotify.com/track/3l4cnZdtNbVZgV3ICYh1Ni) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Diamonds & Gasoline](https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p) | 3:45 | 2024-01-05 |  |
 | [Every Now and Then](https://open.spotify.com/track/76JZPE1ALAITC0KngD5Jhp) | [Ka](https://open.spotify.com/artist/0cmqAB0gdr6ObvjNrQJAQr) | [Descendants of Cain](https://open.spotify.com/album/0yhyMBfxKhjy1f7TsXXssl) | 3:34 | 2024-06-05 | 2024-08-02 |
 | [Every Painting Has a Price \(feat\. BJ The Chicago Kid and Eryn Allen Kane\)](https://open.spotify.com/track/3q6QW9k7uqeQJOSvhNwrUQ) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [No ID](https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [From The Private Collection of Saba and No ID](https://open.spotify.com/album/7ha6zD0XRzUxAxxfXDLYfq) | 3:33 | 2025-07-04 |  |

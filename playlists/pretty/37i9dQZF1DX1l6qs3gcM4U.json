@@ -1,6 +1,6 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Anderson M\u00e1rio",
-  "num_followers": 246997,
+  "num_followers": 247041,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-06-18 23:00:56",
       "album": {
-        "name": "Boss",
-        "url": "https://open.spotify.com/album/6fqxi82on9spYcoqiQ5mRl"
-      },
-      "artists": [
-        {
-          "name": "Anderson M\u00e1rio",
-          "url": "https://open.spotify.com/artist/1CS75XxFYNouLuB55te4YO"
-        }
-      ],
-      "duration_ms": 183396,
-      "name": "Boss",
-      "url": "https://open.spotify.com/track/7KvpAuRJ0Mk7V69FR5578v"
-    },
-    {
-      "added_at": "2026-06-18 23:00:56",
-      "album": {
         "name": "Dorama",
         "url": "https://open.spotify.com/album/3ODvvShyN18tbPvBtOUOJ2"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 191489,
       "name": "Dorama",
       "url": "https://open.spotify.com/track/3w2cKQhYkSVk6a5p2vtSZY"
+    },
+    {
+      "added_at": "2026-06-18 23:00:56",
+      "album": {
+        "name": "Boss",
+        "url": "https://open.spotify.com/album/6fqxi82on9spYcoqiQ5mRl"
+      },
+      "artists": [
+        {
+          "name": "Anderson M\u00e1rio",
+          "url": "https://open.spotify.com/artist/1CS75XxFYNouLuB55te4YO"
+        }
+      ],
+      "duration_ms": 183396,
+      "name": "Boss",
+      "url": "https://open.spotify.com/track/7KvpAuRJ0Mk7V69FR5578v"
     },
     {
       "added_at": "2026-06-18 23:00:56",
@@ -659,6 +659,22 @@
     {
       "added_at": "2026-06-18 23:00:56",
       "album": {
+        "name": "Passada",
+        "url": "https://open.spotify.com/album/6iAjsqDaXBNlnU1o2hjpdG"
+      },
+      "artists": [
+        {
+          "name": "Garry",
+          "url": "https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS"
+        }
+      ],
+      "duration_ms": 223657,
+      "name": "Passada",
+      "url": "https://open.spotify.com/track/5ig7dqFjwpLy9FlM7IkGws"
+    },
+    {
+      "added_at": "2026-06-18 23:00:56",
+      "album": {
         "name": "O Lamento",
         "url": "https://open.spotify.com/album/46dkBV8nfGFL1YB2hzq7h1"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 240000,
       "name": "O Lamento",
       "url": "https://open.spotify.com/track/0dpqMHwFssBIFfpkUu6Fvi"
-    },
-    {
-      "added_at": "2026-06-18 23:00:56",
-      "album": {
-        "name": "Passada",
-        "url": "https://open.spotify.com/album/6iAjsqDaXBNlnU1o2hjpdG"
-      },
-      "artists": [
-        {
-          "name": "Garry",
-          "url": "https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS"
-        }
-      ],
-      "duration_ms": 223657,
-      "name": "Passada",
-      "url": "https://open.spotify.com/track/5ig7dqFjwpLy9FlM7IkGws"
     },
     {
       "added_at": "2026-06-18 23:00:56",
@@ -751,22 +751,18 @@
     {
       "added_at": "2026-06-18 23:00:56",
       "album": {
-        "name": "Evo\u00e9",
-        "url": "https://open.spotify.com/album/4Jt0ifiTsa9N3VMDsXvEns"
+        "name": "Totoloto",
+        "url": "https://open.spotify.com/album/4WunUod6SvMME077UZtvFU"
       },
       "artists": [
         {
-          "name": "Chelsea Dinorath",
-          "url": "https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp"
-        },
-        {
-          "name": "Teo No Beat",
-          "url": "https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2"
+          "name": "Soraia Ramos",
+          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
         }
       ],
-      "duration_ms": 241475,
-      "name": "Evo\u00e9",
-      "url": "https://open.spotify.com/track/3wEPQktMJVlkhSs5nrqh0J"
+      "duration_ms": 190515,
+      "name": "Totoloto",
+      "url": "https://open.spotify.com/track/5etF10zgERUooGQTRe6Hbl"
     },
     {
       "added_at": "2026-06-18 23:00:56",
@@ -787,18 +783,22 @@
     {
       "added_at": "2026-06-18 23:00:56",
       "album": {
-        "name": "Totoloto",
-        "url": "https://open.spotify.com/album/4WunUod6SvMME077UZtvFU"
+        "name": "Evo\u00e9",
+        "url": "https://open.spotify.com/album/4Jt0ifiTsa9N3VMDsXvEns"
       },
       "artists": [
         {
-          "name": "Soraia Ramos",
-          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
+          "name": "Chelsea Dinorath",
+          "url": "https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp"
+        },
+        {
+          "name": "Teo No Beat",
+          "url": "https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2"
         }
       ],
-      "duration_ms": 190515,
-      "name": "Totoloto",
-      "url": "https://open.spotify.com/track/5etF10zgERUooGQTRe6Hbl"
+      "duration_ms": 241475,
+      "name": "Evo\u00e9",
+      "url": "https://open.spotify.com/track/3wEPQktMJVlkhSs5nrqh0J"
     },
     {
       "added_at": "2026-06-18 23:00:56",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-06-18 23:00:56",
       "album": {
-        "name": "TU E A LUA",
-        "url": "https://open.spotify.com/album/1RB4xQYnHkcZZjyu3vYxkS"
-      },
-      "artists": [
-        {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
-        }
-      ],
-      "duration_ms": 168600,
-      "name": "TU E A LUA",
-      "url": "https://open.spotify.com/track/2i91LXIQTB9uRfkrVrcRKC"
-    },
-    {
-      "added_at": "2026-06-18 23:00:56",
-      "album": {
         "name": "Nha Mos",
         "url": "https://open.spotify.com/album/4YsmkX7Bv5xoCcGYQEKxa0"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 196923,
       "name": "Nha Mos",
       "url": "https://open.spotify.com/track/0qD5EcVudLAqPhJfnkdA3m"
+    },
+    {
+      "added_at": "2026-06-18 23:00:56",
+      "album": {
+        "name": "TU E A LUA",
+        "url": "https://open.spotify.com/album/1RB4xQYnHkcZZjyu3vYxkS"
+      },
+      "artists": [
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        }
+      ],
+      "duration_ms": 168600,
+      "name": "TU E A LUA",
+      "url": "https://open.spotify.com/track/2i91LXIQTB9uRfkrVrcRKC"
     },
     {
       "added_at": "2026-06-18 23:00:56",
@@ -1063,22 +1063,18 @@
     {
       "added_at": "2026-06-18 23:00:56",
       "album": {
-        "name": "Nossas Coisas (feat. Ary)",
-        "url": "https://open.spotify.com/album/3VRpKagyNwZ57LGI4otjpw"
+        "name": "Simbiose",
+        "url": "https://open.spotify.com/album/52VpYQcLppnMS3V70nvlqK"
       },
       "artists": [
         {
-          "name": "C4 Pedro",
-          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
-        },
-        {
-          "name": "Ary",
-          "url": "https://open.spotify.com/artist/3POxlshfzeJs7SiHhl24ST"
+          "name": "Soarito",
+          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
         }
       ],
-      "duration_ms": 200005,
-      "name": "Nossas Coisas (feat. Ary)",
-      "url": "https://open.spotify.com/track/0ty1TRfXkmeQj8jIyYA1vE"
+      "duration_ms": 218426,
+      "name": "Simbiose",
+      "url": "https://open.spotify.com/track/681Mye7rtRNdAgb4zYAxDe"
     },
     {
       "added_at": "2026-06-18 23:00:56",
@@ -1099,18 +1095,22 @@
     {
       "added_at": "2026-06-18 23:00:56",
       "album": {
-        "name": "Simbiose",
-        "url": "https://open.spotify.com/album/52VpYQcLppnMS3V70nvlqK"
+        "name": "Nossas Coisas (feat. Ary)",
+        "url": "https://open.spotify.com/album/3VRpKagyNwZ57LGI4otjpw"
       },
       "artists": [
         {
-          "name": "Soarito",
-          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
+          "name": "C4 Pedro",
+          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
+        },
+        {
+          "name": "Ary",
+          "url": "https://open.spotify.com/artist/3POxlshfzeJs7SiHhl24ST"
         }
       ],
-      "duration_ms": 218426,
-      "name": "Simbiose",
-      "url": "https://open.spotify.com/track/681Mye7rtRNdAgb4zYAxDe"
+      "duration_ms": 200005,
+      "name": "Nossas Coisas (feat. Ary)",
+      "url": "https://open.spotify.com/track/0ty1TRfXkmeQj8jIyYA1vE"
     },
     {
       "added_at": "2026-06-18 23:00:56",

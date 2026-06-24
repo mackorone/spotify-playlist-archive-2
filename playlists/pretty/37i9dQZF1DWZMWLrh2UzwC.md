@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Aina Abdul, Tyla, RIIZE, Liza Hanim, Luqman Podolski, Alpha, Daiyan Trisha,  and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,189 likes - 91 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,185 likes - 91 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 90 | [Ain't No Need to Worry](https://open.spotify.com/track/1BUn0XXjncxfx2U2ItEmA3) | [Singto Numchok](https://open.spotify.com/artist/780z5aP7EUHfDT6Q5YERKL) | [Ain't No Need to Worry](https://open.spotify.com/album/08O80aSSjKzV9ePIvPxq3i) | 2:58 |
 | 91 | [maybe not tonight](https://open.spotify.com/track/0uqOCp3cDPVlAI7WvlM6iB) | [Arabelle](https://open.spotify.com/artist/7uU11RJKOt74chXI2s6eQf) | [maybe not tonight](https://open.spotify.com/album/6fZPBWGC7T0r0PwDyOuh7p) | 3:45 |
 
-Snapshot ID: `AAAAAIdBnp33WJkNvD9y+rB7O+wRbqeQ`
+Snapshot ID: `AAAAAKPBn8bz0JFBkwdxf54dhJj9QL/b`

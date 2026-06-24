@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "J-Rock acts who have broken the border and are making global impact.   Cover: AKASAKI",
+  "description": "J-Rock acts who have broken the border and are making global impact.   Cover: BAND-MAID",
   "name": "Rock Strike Japan",
   "tracks": [
     {
@@ -42,6 +42,24 @@
       "duration_ms": 209712,
       "name": "(how could i be)honest?",
       "url": "https://open.spotify.com/track/7s0ygb2NL1HadOECm3fv6D"
+    },
+    {
+      "album": {
+        "name": "-\u696d-",
+        "url": "https://open.spotify.com/album/1uocYpQy58mDHwHObaMaoX"
+      },
+      "artists": [
+        {
+          "name": "NEMOPHILA",
+          "url": "https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223692,
+      "name": "-\u696d-",
+      "url": "https://open.spotify.com/track/7h5lkrQZC01rAbqF433WB8"
     },
     {
       "album": {
@@ -1724,7 +1742,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 197482,
       "name": "BLiNDEYES feat. hanabie",
       "url": "https://open.spotify.com/track/12JJURPpbzVF9VSgrYo90M"
@@ -1803,6 +1821,24 @@
     },
     {
       "album": {
+        "name": "PRISM",
+        "url": "https://open.spotify.com/album/77xStIktKVvZe3PpbGS8xr"
+      },
+      "artists": [
+        {
+          "name": "\u8e0a\u3063\u3066\u3070\u304b\u308a\u306e\u56fd",
+          "url": "https://open.spotify.com/artist/0FA31wmImS3Px3LyRxtiS2"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217920,
+      "name": "Blowin' in the wind",
+      "url": "https://open.spotify.com/track/3pX7LCfjLdNyjLckacqHEM"
+    },
+    {
+      "album": {
         "name": "BLUE DIVER",
         "url": "https://open.spotify.com/album/7y1qT6eKNtrlMs3QbCJ3db"
       },
@@ -1839,6 +1875,24 @@
     },
     {
       "album": {
+        "name": "Bokura Futarikiri",
+        "url": "https://open.spotify.com/album/0zvtF6aOYXDYk9aXFgDUtq"
+      },
+      "artists": [
+        {
+          "name": "Hammer Head Shark",
+          "url": "https://open.spotify.com/artist/4ReYBtwk8GTvuIklAiCqHI"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393500,
+      "name": "Bokura Futarikiri",
+      "url": "https://open.spotify.com/track/3aGQgwsRsXXnBavps6LN16"
+    },
+    {
+      "album": {
         "name": "Bongiri koiuta",
         "url": "https://open.spotify.com/album/7bUQB59SHqlbzJsHg4lRlM"
       },
@@ -1868,7 +1922,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 267900,
       "name": "Boogie",
       "url": "https://open.spotify.com/track/6TJsuJd2qiX179fDioQAz1"
@@ -3439,6 +3493,24 @@
     },
     {
       "album": {
+        "name": "dissolve",
+        "url": "https://open.spotify.com/album/29h5NpEaQyLElTSaYRt9D7"
+      },
+      "artists": [
+        {
+          "name": "Sokoninaru",
+          "url": "https://open.spotify.com/artist/01XDGcFHJd4v02CN2tuMGF"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185174,
+      "name": "dissolve",
+      "url": "https://open.spotify.com/track/7jIk6V22jYNhS2OVjWL3cW"
+    },
+    {
+      "album": {
         "name": "Dissonance",
         "url": "https://open.spotify.com/album/1JRmHQvZfk76RDYGEiBxAi"
       },
@@ -4116,6 +4188,24 @@
       "duration_ms": 157871,
       "name": "Endless Etude (BEST WISHES TO ALL ver.)",
       "url": "https://open.spotify.com/track/6u5POngpCtZfnIyLU2izjg"
+    },
+    {
+      "album": {
+        "name": "ENERGETIC",
+        "url": "https://open.spotify.com/album/6xa5EHn3K16kLv3oYtKP4N"
+      },
+      "artists": [
+        {
+          "name": "BAND-MAID",
+          "url": "https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202229,
+      "name": "ENERGETIC",
+      "url": "https://open.spotify.com/track/136RFhFtC1lDlKgXw7eXM3"
     },
     {
       "album": {
@@ -5886,7 +5976,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 307286,
       "name": "Harm No More",
       "url": "https://open.spotify.com/track/23ARDE3itVQfDoLT4NumyR"
@@ -6128,6 +6218,24 @@
       "duration_ms": 200713,
       "name": "Hikarakka",
       "url": "https://open.spotify.com/track/52lnMD0YQQteVqgWKtFA3m"
+    },
+    {
+      "album": {
+        "name": "Komorebizaka TV Animation \"Kujima:Why Sing, When You Can Warble?\" Opening Theme",
+        "url": "https://open.spotify.com/album/3viNioEr7VPX8XoLV3L4hk"
+      },
+      "artists": [
+        {
+          "name": "Galileo Galilei",
+          "url": "https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Hito wa Wataridori",
+      "url": "https://open.spotify.com/track/1i6W26f6aVGZUdMxAyhet6"
     },
     {
       "album": {
@@ -7684,6 +7792,24 @@
       "duration_ms": 253746,
       "name": "Kizukeyo Baby",
       "url": "https://open.spotify.com/track/3EEaEEltAaQAp0EhIwJEaK"
+    },
+    {
+      "album": {
+        "name": "Kodoku EP",
+        "url": "https://open.spotify.com/album/6eyBRckyqEPv8wxYz7FWpg"
+      },
+      "artists": [
+        {
+          "name": "Rol3ert",
+          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181836,
+      "name": "Kodoku",
+      "url": "https://open.spotify.com/track/6bOpaowQXoFxpPYAXEejSp"
     },
     {
       "album": {
@@ -11522,6 +11648,24 @@
       "duration_ms": 178360,
       "name": "Please Mister Postman",
       "url": "https://open.spotify.com/track/3X9pFZDlaRNrvwF7hnffVt"
+    },
+    {
+      "album": {
+        "name": "PLUVIA",
+        "url": "https://open.spotify.com/album/7h6TGeA9bcAg6f3itd78Qs"
+      },
+      "artists": [
+        {
+          "name": "SAKI",
+          "url": "https://open.spotify.com/artist/7hqYSx66VjQulCchmBcYIq"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291750,
+      "name": "PLUVIA",
+      "url": "https://open.spotify.com/track/0RnJkfN6amiBAFCNR7a2uY"
     },
     {
       "album": {
@@ -15460,7 +15604,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 190366,
       "name": "That's All I Wish",
       "url": "https://open.spotify.com/track/1AwF87QPmGqFqcuUwp0sqL"
@@ -17399,6 +17543,24 @@
     },
     {
       "album": {
+        "name": "Unity",
+        "url": "https://open.spotify.com/album/7hEotpEVKe6JzRquceRjnh"
+      },
+      "artists": [
+        {
+          "name": "HEY-SMITH",
+          "url": "https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170204,
+      "name": "Voodoo Go To Zoo",
+      "url": "https://open.spotify.com/track/0psvBjhuemuy6XCJPiA5Zd"
+    },
+    {
+      "album": {
         "name": "VOX",
         "url": "https://open.spotify.com/album/7G3Gkn2mfKJuhTCtk0R8U1"
       },
@@ -17782,7 +17944,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 146718,
       "name": "What You Don't Bless",
       "url": "https://open.spotify.com/track/1SDichyqc9biRcsr2leSWv"
@@ -20443,6 +20605,24 @@
     },
     {
       "album": {
+        "name": "\u4eba\u751f",
+        "url": "https://open.spotify.com/album/6MSc4uxOu8fBkR3ejzVyJY"
+      },
+      "artists": [
+        {
+          "name": "SUPER BEAVER",
+          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211666,
+      "name": "\u30a2\u30d7\u30ed\u30fc\u30ba",
+      "url": "https://open.spotify.com/track/1XDwra3xIpNDtiFK9Dgxhf"
+    },
+    {
+      "album": {
         "name": "ANTHEMICS",
         "url": "https://open.spotify.com/album/5ft76H4MMIeRPiWF50v9VW"
       },
@@ -20634,7 +20814,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 193301,
       "name": "\u30a6\u30ef\u30b5\u306e\u3042\u306e\u5b50",
       "url": "https://open.spotify.com/track/44LBQojtOWIv0mgiaOlp0u"
@@ -22130,7 +22310,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 259000,
       "name": "\u30c7\u30c8\u30ed\u30a4\u30c8\uff5cDetoroito",
       "url": "https://open.spotify.com/track/6DZbO6wJuGzUyy2lARqAmC"
@@ -22850,7 +23030,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 290949,
       "name": "\u30d6\u30eb\u30fc",
       "url": "https://open.spotify.com/track/6773G0vy7KnC1c5mnHyVbf"
@@ -24815,6 +24995,24 @@
     },
     {
       "album": {
+        "name": "\u6e80\u3061\u305f\u7d2b",
+        "url": "https://open.spotify.com/album/0z6aMqxY8jiSeSwvzyQusA"
+      },
+      "artists": [
+        {
+          "name": "indigo la End",
+          "url": "https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274551,
+      "name": "\u590f\u76ee",
+      "url": "https://open.spotify.com/track/4w8wiJW2oaFCfsGJGovNkL"
+    },
+    {
+      "album": {
         "name": "\u590f\u7acb\u3061\u306c",
         "url": "https://open.spotify.com/album/6S5yZZGOQWyuRG47A3zMED"
       },
@@ -25818,7 +26016,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 269093,
       "name": "\u6065\u305a\u304b\u3057\u3044\u304b\u9752\u6625\u306f",
       "url": "https://open.spotify.com/track/22eQvkARz49TB9Unclo2b0"
@@ -27976,7 +28174,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 253413,
       "name": "\u7a81\u7834\u53e3",
       "url": "https://open.spotify.com/track/2JNl3zf7dLaK3ceN12RTOW"
@@ -29180,7 +29378,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 251019,
       "name": "\u967d\u708e",
       "url": "https://open.spotify.com/track/3akvArdA47vH3ENrd1Ni2L"

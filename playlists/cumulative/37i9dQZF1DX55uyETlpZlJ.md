@@ -2,7 +2,7 @@
 
 ### [Kannada Indie](https://open.spotify.com/playlist/37i9dQZF1DX55uyETlpZlJ)
 
-> Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All OK \- Alok
+> Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Curry
 
 682 songs - 1 day 14 hr 44 min
 

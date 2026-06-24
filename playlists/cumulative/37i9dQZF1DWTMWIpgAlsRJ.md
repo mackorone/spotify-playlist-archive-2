@@ -4,7 +4,7 @@
 
 > The Ultimate EA SPORTS FC Brazil Playlist: bringing together the sounds of Brazil in celebration of The World's Game\. Curated specially for you.
 
-287 songs - 16 hr 49 min
+288 songs - 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Dance No More \(with Kaleena Zanders\)](https://open.spotify.com/track/7gDgphzQU0urJU3AtoLJup) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [Dance No More \(with Kaleena Zanders\)](https://open.spotify.com/album/7uvMgsCSqtqOGaUfTRMZpL) | 3:22 | 2026-06-12 | 2026-06-20 |
 | [Deela Ding](https://open.spotify.com/track/6pI6J8EYHVN6YKOGqYtuvj) | [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M) | [Vira a Cara](https://open.spotify.com/album/5HwsZ1YA40ivmq9IV1ueut) | 3:16 | 2026-06-19 |  |
 | [Deixa A Vida Me Levar](https://open.spotify.com/track/1pHmBXARXecNMaCtlBSISJ) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Zeca Pagodinho \- Turnê Zeca 40 Anos](https://open.spotify.com/album/5QajiNajo9AN8xljdqPKYc) | 4:35 | 2026-06-19 |  |
-| [Diam Riddim](https://open.spotify.com/track/3cYAF0SO8lMw2QQJy02d9s) | [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Waxploitation Presents: Future Sounds MMXIX](https://open.spotify.com/album/0NAtHL3j2P4xbT7e7RnDQo) | 2:47 | 2026-06-19 |  |
+| [Diam Riddim](https://open.spotify.com/track/3cYAF0SO8lMw2QQJy02d9s) | [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Waxploitation Presents: Future Sounds MMXIX](https://open.spotify.com/album/0NAtHL3j2P4xbT7e7RnDQo) | 2:47 | 2026-06-19 | 2026-06-24 |
 | [Did It First \(with Central Cee\)](https://open.spotify.com/track/5dEcxWlWnxbcumVEddVCUC) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Did It First \(with Central Cee\)](https://open.spotify.com/album/7f1uY6RHAj9voSkbPyMlFm) | 1:58 | 2026-06-12 | 2026-06-17 |
 | [Dimension \(feat\. Skepta & Rema\)](https://open.spotify.com/track/2Jy4EdqIZswDZvVDh5dx3A) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Dimension \(feat\. Skepta & Rema\)](https://open.spotify.com/album/0Zp33hB1LZhbpMQCNfzeVF) | 3:54 | 2022-11-07 | 2026-06-13 |
 | [Dreaming](https://open.spotify.com/track/6cMswWRv4lAU3mh5lclgCc) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw) | [LOVETAP!](https://open.spotify.com/album/59xqFRG2IgFTsZtQ73yIp6) | 3:36 | 2022-11-07 | 2026-06-13 |
@@ -205,6 +205,7 @@
 | [poster boy](https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [2](https://open.spotify.com/album/2cwwBz019F7hQwggBShXCv) | 2:01 | 2026-06-05 | 2026-06-20 |
 | [Princess Cuts \(feat\. Young T & Bugsey\)](https://open.spotify.com/track/63Sb1AMnhb37DR59uXZdQd) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z) | [EDNA](https://open.spotify.com/album/0fq4uzIIA44Bkw0fCQ5KAU) | 3:05 | 2026-06-12 | 2026-06-20 |
 | [Profissão MC](https://open.spotify.com/track/2hAawLRiOkcxyvghJdtMc8) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL) | [A Procura da Batida Perfeita](https://open.spotify.com/album/00J2Y1PJGdkxBhVMjjZ4uw) | 3:19 | 2026-06-19 |  |
+| [Proximo Riddim](https://open.spotify.com/track/0jkt5mIxunFtq6ZD3BwokG) | [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Brazzabelle](https://open.spotify.com/artist/0Vqd4JxqpC1sfl2n0Cn0Zr) | [Waxploitation Presents: Future Sounds MMXIX](https://open.spotify.com/album/0NAtHL3j2P4xbT7e7RnDQo) | 2:25 | 2026-06-19 |  |
 | [Punching In A Dream](https://open.spotify.com/track/5PtEpuVX03k9bOUwilL5EO) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 3:58 | 2022-11-07 | 2026-06-06 |
 | [Purple Yellow Red and Blue](https://open.spotify.com/track/4WMuY659P2MKnoW40oGXe8) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Evil Friends](https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF) | 4:09 | 2026-06-12 | 2026-06-20 |
 | [Que Calor](https://open.spotify.com/track/1RKZvaLj3UPhGjZkaIrFm7) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Que Calor](https://open.spotify.com/album/5AKSUA3pizhoVgfjW1ijVC) | 2:49 | 2022-11-07 | 2026-06-06 |

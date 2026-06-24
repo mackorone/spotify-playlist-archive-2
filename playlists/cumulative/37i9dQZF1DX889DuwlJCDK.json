@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-30",
-  "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: \u30cf\u30af\u3002",
+  "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: \u6642\u901f36km",
   "name": "\u9752\u6625\u3068\u4e00\u77ac",
   "tracks": [
     {
@@ -272,7 +272,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 265420,
       "name": "19\u6b73",
       "url": "https://open.spotify.com/track/5nMUoet7h4c77eQZA13rDf"
@@ -2436,7 +2436,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 216765,
       "name": "Cold Case",
       "url": "https://open.spotify.com/track/482WvxrnspzCHY7U2LFGUN"
@@ -2562,7 +2562,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 206526,
       "name": "CROWN BABY",
       "url": "https://open.spotify.com/track/4Ek77F68c51VIgIZTSPzxb"
@@ -3001,6 +3001,24 @@
     },
     {
       "album": {
+        "name": "Remaining Red Even with Eyes Closed",
+        "url": "https://open.spotify.com/album/2CBkJNYi7To7NcuG4QvH9y"
+      },
+      "artists": [
+        {
+          "name": "36km/h",
+          "url": "https://open.spotify.com/artist/11PZZfQ3tYjjwB3oCjQQwV"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377106,
+      "name": "Deep in the Retina, Near the Heart",
+      "url": "https://open.spotify.com/track/2dI1c5yKmkUM480SDkQKEa"
+    },
+    {
+      "album": {
         "name": "Defective",
         "url": "https://open.spotify.com/album/1kDT5StvC0MdsKTH1Aw1ds"
       },
@@ -3308,6 +3326,24 @@
       "duration_ms": 203500,
       "name": "Dreamy Soul Of Language",
       "url": "https://open.spotify.com/track/2VwjtQtzLbss67dDHtjSr0"
+    },
+    {
+      "album": {
+        "name": "DressCode",
+        "url": "https://open.spotify.com/album/0evwvDolAKRU9DpO0ilCV8"
+      },
+      "artists": [
+        {
+          "name": "This is LAST",
+          "url": "https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213760,
+      "name": "DressCode",
+      "url": "https://open.spotify.com/track/4AdjPzgqxC8OncJyaoEW0I"
     },
     {
       "album": {
@@ -5885,6 +5921,24 @@
     },
     {
       "album": {
+        "name": "iris",
+        "url": "https://open.spotify.com/album/5PqEAseNyvuqxHjZLfttjk"
+      },
+      "artists": [
+        {
+          "name": "This is LAST",
+          "url": "https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260707,
+      "name": "iris",
+      "url": "https://open.spotify.com/track/5EmudzewP9uYHqEQNdlvbB"
+    },
+    {
+      "album": {
         "name": "Iromeki",
         "url": "https://open.spotify.com/album/00ZfUkuXjACIcrnubDo7Au"
       },
@@ -6094,7 +6148,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 163733,
       "name": "KAIBUTSU",
       "url": "https://open.spotify.com/track/6ejNm2uUhgrPXpneW43GDq"
@@ -6980,7 +7034,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 231655,
       "name": "LIFE",
       "url": "https://open.spotify.com/track/6JlYTnPwyLaBWqV7fC0NaH"
@@ -9443,6 +9497,24 @@
     },
     {
       "album": {
+        "name": "Bokura Wa Namida Wo Nagasanai-EP",
+        "url": "https://open.spotify.com/album/757s9wRblDs1pWZY3qipUD"
+      },
+      "artists": [
+        {
+          "name": "Bye-Bye-Hand\u306e\u65b9\u7a0b\u5f0f",
+          "url": "https://open.spotify.com/artist/6IIf2Pbh4lI8Jz7MvknzIf"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Orion Ring",
+      "url": "https://open.spotify.com/track/0xmOOG8DoxDuXIlfrYLSuH"
+    },
+    {
+      "album": {
         "name": "OTAGAISAMA",
         "url": "https://open.spotify.com/album/0LQPUOmo9ApWdoQjJ73XDt"
       },
@@ -11032,6 +11104,24 @@
       "duration_ms": 163559,
       "name": "savior",
       "url": "https://open.spotify.com/track/6Heo2pp06wmsxb64urcoR0"
+    },
+    {
+      "album": {
+        "name": "Scandal Ni Nattara",
+        "url": "https://open.spotify.com/album/1TClmrVXh6dvxeHa6rPPGf"
+      },
+      "artists": [
+        {
+          "name": "bokula.",
+          "url": "https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149756,
+      "name": "Scandal Ni Nattara",
+      "url": "https://open.spotify.com/track/79WWUKZKsC5DmBrZM5q1aK"
     },
     {
       "album": {
@@ -13159,6 +13249,24 @@
     },
     {
       "album": {
+        "name": "MUSIC YOUTH LOVE",
+        "url": "https://open.spotify.com/album/7sULpjW9QNWqsCiZyf8nUP"
+      },
+      "artists": [
+        {
+          "name": "171",
+          "url": "https://open.spotify.com/artist/4dbq5qNOe51qdgnhmlIJ3v"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292114,
+      "name": "The Truth and Lies of Youth",
+      "url": "https://open.spotify.com/track/1hPtSgOKF37rFrQphvlgP9"
+    },
+    {
+      "album": {
         "name": "Thirst",
         "url": "https://open.spotify.com/album/4tmHlqBEiTL3uqy8Aa6Xol"
       },
@@ -13982,6 +14090,24 @@
       "duration_ms": 244125,
       "name": "Vintage Car",
       "url": "https://open.spotify.com/track/0M5edeHgATLmdcpnLVKfFd"
+    },
+    {
+      "album": {
+        "name": "VIVA!! (Album Ver.)",
+        "url": "https://open.spotify.com/album/1N7lFFXjTGusK40YV5Wz69"
+      },
+      "artists": [
+        {
+          "name": "\u30af\u30ec\u30a4\u30b8\u30fc\u30a6\u30a9\u30a6\u30a6\u30a9\uff01\uff01",
+          "url": "https://open.spotify.com/artist/7GSqiihDPb6AjoK8lh40fh"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159600,
+      "name": "VIVA!! (Album Ver.)",
+      "url": "https://open.spotify.com/track/0lyTlfJcD8AjOZfPLFtF64"
     },
     {
       "album": {
@@ -20436,7 +20562,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 159433,
       "name": "\u30c9\u30fc\u30eb",
       "url": "https://open.spotify.com/track/6w0aqok05y3cdCYQ6uJ8lX"
@@ -24665,6 +24791,24 @@
     },
     {
       "album": {
+        "name": "\u516d\u30ce\u8f2a",
+        "url": "https://open.spotify.com/album/7wX1l5Bu8H2sCbkBqy7XPe"
+      },
+      "artists": [
+        {
+          "name": "Chevon",
+          "url": "https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207466,
+      "name": "\u516d\u30ce\u8f2a",
+      "url": "https://open.spotify.com/track/0RDHzL3m6eK2wSuCou4sAW"
+    },
+    {
+      "album": {
         "name": "\u516d\u53f7\u7dda",
         "url": "https://open.spotify.com/album/2Dwnn6vVBJ0DmxAfF5yTGw"
       },
@@ -26276,7 +26420,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 230378,
       "name": "\u5927\u962a",
       "url": "https://open.spotify.com/track/56AJFaOE4SxZ1mIPYmLBJt"
@@ -29438,7 +29582,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 269042,
       "name": "\u6c34\u82ad\u8549",
       "url": "https://open.spotify.com/track/0p4HiQ0q784mpW8zliKXfB"

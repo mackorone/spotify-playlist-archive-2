@@ -4,7 +4,7 @@
 
 > I&\#x27;M ANGSTY!! I&\#x27;M ANGSTY
 
-425 songs - 1 day 5 hr 15 min
+426 songs - 1 day 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [HOT PINK BLOOD](https://open.spotify.com/track/2M1B6RyKn03IOZGPJIHNqU) | [Bunny Mimi](https://open.spotify.com/artist/09wXv9Adm9JViu28oyCC08) | [little lost bunny girl!!](https://open.spotify.com/album/4yNE7vglIMXBOvZMHEJdYa) | 3:18 | 2025-10-28 |  |
 | [HOT SHELLS](https://open.spotify.com/track/79Ln7kg2a3KGwmbGxV7BXW) | [City Morgue](https://open.spotify.com/artist/1kMVs324xI4K0tQrKqA4c4), [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM), [SosMula](https://open.spotify.com/artist/7fFfPSHnrplQpezV79CFYc) | [CITY MORGUE VOLUME 3: BOTTOM OF THE BARREL](https://open.spotify.com/album/06QKM7WJc1kybQdxhYNdep) | 2:14 | 2023-03-28 |  |
 | [Hurt You](https://open.spotify.com/track/2rFaJ6NRIRWn335tQr8lWD) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb) | 3:46 | 2023-05-03 |  |
+| [Hypnotize](https://open.spotify.com/track/6oO7WMjD6kEvCITLbVj0mu) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Hypnotize](https://open.spotify.com/album/3QxX3NbWyLlLG6lP1xveL3) | 3:09 | 2026-06-23 |  |
 | [i apologise if you feel something](https://open.spotify.com/track/4mrjzz6ETpW3wosJUYmKoL) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [amo](https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR) | 2:19 | 2023-03-28 |  |
 | [I Hate Everything About You](https://open.spotify.com/track/0M955bMOoilikPXwKLYpoi) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Three Days Grace](https://open.spotify.com/album/13topfW33NjnACjnRiZBX7) | 3:51 | 2023-03-28 |  |
 | [I Miss the Misery](https://open.spotify.com/track/3gmEzilP9BzF45wIMvA16l) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 3:03 | 2024-03-13 |  |

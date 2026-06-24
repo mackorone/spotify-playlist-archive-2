@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Pardeep Sran, Prem Dhillon & more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,975 likes - 74 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,996 likes - 74 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 33 | [No Compromiser](https://open.spotify.com/track/2pEiAdQoiBjiShKIMyWWck) | [Biyaan Barundi](https://open.spotify.com/artist/33PPAMlIwEDe7LHadwvEtv), [El Boii](https://open.spotify.com/artist/6TpIEpCtqvzB75UlKvmenG) | [TREASURE](https://open.spotify.com/album/3RKY99wlUOjD6JS7bt3MwU) | 2:45 |
 | 34 | [48 Harley](https://open.spotify.com/track/1sTaswVpVw4huqdeYB09rQ) | [Happy Sxrpanch](https://open.spotify.com/artist/1SrazB8CqKbcfQGMsgOrz8) | [48 Harley](https://open.spotify.com/album/7avL6u2itSOmdCYccqO8jK) | 2:31 |
 | 35 | [Katla De Case](https://open.spotify.com/track/5zuVeVMoJskqGUPkftjUSU) | [Biyaan Barundi](https://open.spotify.com/artist/33PPAMlIwEDe7LHadwvEtv), [El Boii](https://open.spotify.com/artist/6TpIEpCtqvzB75UlKvmenG) | [TREASURE](https://open.spotify.com/album/3RKY99wlUOjD6JS7bt3MwU) | 2:37 |
-| 36 | [Season](https://open.spotify.com/track/0IwXzzKkj0zlNqtoaJJq89) | [Dilnoor](https://open.spotify.com/artist/50tXZuZyML8SQweztignbv), [Ramy](https://open.spotify.com/artist/60FCPEjXb9gdnlRZFJYbr6), [Saggi Nexuss](https://open.spotify.com/artist/3Soebc4TFkIJGz6z8klcyo) | [Noor's Flow](https://open.spotify.com/album/39fXQ2wXmMHt9WDn21MxkZ) | 2:31 |
+| 36 | [Season](https://open.spotify.com/track/0IwXzzKkj0zlNqtoaJJq89) | [Dilnoor](https://open.spotify.com/artist/50tXZuZyML8SQweztignbv), [Ramy](https://open.spotify.com/artist/60FCPEjXb9gdnlRZFJYbr6), [Saggi Nexuss](https://open.spotify.com/artist/5dMJiBJVkicivaHCgRKadi) | [Noor's Flow](https://open.spotify.com/album/39fXQ2wXmMHt9WDn21MxkZ) | 2:31 |
 | 37 | [Speed\(4X4\)](https://open.spotify.com/track/0FGMqPDDaPf7OkEjBn3pko) | [Kayreee](https://open.spotify.com/artist/1Gs7FGo8aNDaAfBF1nOJAZ), [Rollin](https://open.spotify.com/artist/0wcfwxyTLEXKrV085sXTCz) | [Speed\(4X4\)](https://open.spotify.com/album/3wJLgJBthKb5Mt6MYw9zUm) | 2:20 |
 | 38 | [They Don't Know](https://open.spotify.com/track/4TbBiDK6XCGXp2jtBgOuZn) | [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj), [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79), [Sobit](https://open.spotify.com/artist/0IHV9OaDBM0RQ4I3ZBrVv4) | [They Don't Know](https://open.spotify.com/album/6TSfw73eeOXJuqzSrneSMY) | 2:14 |
 | 39 | [Sheh](https://open.spotify.com/track/1AI8xRHftMbuwfEhjnQWuI) | [Harpreet Manna](https://open.spotify.com/artist/1rvHNN7qVSTgUmmZ0vHeEE), [Taran Bhamra](https://open.spotify.com/artist/2RopUndAvlN2d2oKkAwi8s), [VYZN](https://open.spotify.com/artist/14IitFR4OMc2Kw3uZvRwDK) | [Sheh](https://open.spotify.com/album/6hL5lkTqd7pG6UZxWkVVf1) | 2:33 |

@@ -2,7 +2,7 @@
 
 ### [GLOW US & Canada](https://open.spotify.com/playlist/37i9dQZF1DWVfhphOFdiHz)
 
-> Loud, proud, and free to be\. Bops on repeat from LGBTQIA+ artists only\. Cover: Kevin Atwater
+> Loud, proud, and free to be\. Bops on repeat from LGBTQIA+ artists only\. Cover: Jamie Fine
 
 588 songs - 1 day 7 hr 28 min
 

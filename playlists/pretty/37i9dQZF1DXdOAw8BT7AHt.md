@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 
 > The best of every corner of modern punk rock\. Cover: Sweet Pill
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,647 likes - 125 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,645 likes - 125 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 124 | [Forgive \(feat\. Joe Taylor\)](https://open.spotify.com/track/5EBDjecmOeqXssLmdSd3M1) | [Shoreline](https://open.spotify.com/artist/7xEYYE03vzoSMyC2AVRnD0), [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm), [Joe Taylor](https://open.spotify.com/artist/00MxoR5CoS3PQsfwEkWZ0j) | [Is This The Low Point Or The Moment After?](https://open.spotify.com/album/7scnpxa4nBF35V8rpYZD57) | 3:13 |
 | 125 | [Figurine](https://open.spotify.com/track/49inhdvKjcenjjTdLVMdW9) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Figurine](https://open.spotify.com/album/2YnadRc6wRzh2xeV2Welgk) | 2:31 |
 
-Snapshot ID: `AAAAAI4RRJiZk3Uj9qGsmEDMvIz4Y05k`
+Snapshot ID: `AAAAAH0EIKNLwbJS7MUxz7eow2Y51gvB`

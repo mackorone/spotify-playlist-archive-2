@@ -1,6 +1,6 @@
 {
   "description": "Aus der Schweiz f\u00fcr dich \u2013 musique suisse \u2013 musica svizzera \ud83c\udde8\ud83c\udded\nCover: Eileen Alister",
-  "num_followers": 37690,
+  "num_followers": 37692,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-06-18 22:00:53",
       "album": {
-        "name": "Cars And Things That Go",
-        "url": "https://open.spotify.com/album/6GRMHWjqfLcZg4rdHhxGPu"
-      },
-      "artists": [
-        {
-          "name": "Nickless",
-          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
-        }
-      ],
-      "duration_ms": 203106,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/59UM9sARVWyG9GLXOJIzoX"
-    },
-    {
-      "added_at": "2026-06-18 22:00:53",
-      "album": {
         "name": "Jamais \u00c9t\u00e9 (Cool)",
         "url": "https://open.spotify.com/album/0dpWyeA0DSO4CgMjSGspra"
       },
@@ -371,18 +355,18 @@
     {
       "added_at": "2026-06-18 22:00:53",
       "album": {
-        "name": "Walk Alone",
-        "url": "https://open.spotify.com/album/6jI3GP0ex6TY4rCBMQorsz"
+        "name": "Cars And Things That Go",
+        "url": "https://open.spotify.com/album/6GRMHWjqfLcZg4rdHhxGPu"
       },
       "artists": [
         {
-          "name": "Amaya Gloor",
-          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
+          "name": "Nickless",
+          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
         }
       ],
-      "duration_ms": 169182,
-      "name": "Walk Alone",
-      "url": "https://open.spotify.com/track/0Iu2Z0khk2D6A1j9Ktffov"
+      "duration_ms": 203106,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/59UM9sARVWyG9GLXOJIzoX"
     },
     {
       "added_at": "2026-06-18 22:00:53",
@@ -399,6 +383,22 @@
       "duration_ms": 214404,
       "name": "Fcuk!",
       "url": "https://open.spotify.com/track/0evmOxpkmNxaJGPPYSnPGm"
+    },
+    {
+      "added_at": "2026-06-18 22:00:53",
+      "album": {
+        "name": "Walk Alone",
+        "url": "https://open.spotify.com/album/6jI3GP0ex6TY4rCBMQorsz"
+      },
+      "artists": [
+        {
+          "name": "Amaya Gloor",
+          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
+        }
+      ],
+      "duration_ms": 169182,
+      "name": "Walk Alone",
+      "url": "https://open.spotify.com/track/0Iu2Z0khk2D6A1j9Ktffov"
     },
     {
       "added_at": "2026-06-18 22:00:53",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-06-18 22:00:53",
       "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/4BZH710leO5d47IrpD3bxd"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Benedek",
+          "url": "https://open.spotify.com/artist/0BBZxotcIVnEEPhjA4iSiu"
+        }
+      ],
+      "duration_ms": 157540,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/4iAdre4CIIXn2Ks67BNtgb"
+    },
+    {
+      "added_at": "2026-06-18 22:00:53",
+      "album": {
         "name": "Playgrounds In Ruins (Deluxe)",
         "url": "https://open.spotify.com/album/6TuHCVJ7fwDYlZzZKwffiB"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 146706,
       "name": "Never Stop the Party",
       "url": "https://open.spotify.com/track/17vOYsHvYE3YFXvAs8U9p7"
-    },
-    {
-      "added_at": "2026-06-18 22:00:53",
-      "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/4BZH710leO5d47IrpD3bxd"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Benedek",
-          "url": "https://open.spotify.com/artist/0BBZxotcIVnEEPhjA4iSiu"
-        }
-      ],
-      "duration_ms": 157540,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/4iAdre4CIIXn2Ks67BNtgb"
     },
     {
       "added_at": "2026-06-18 22:00:53",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-06-18 22:00:53",
       "album": {
-        "name": "Oscillare",
-        "url": "https://open.spotify.com/album/2D6v55SUNu1Rz3govAtx08"
-      },
-      "artists": [
-        {
-          "name": "Valentino Vivace",
-          "url": "https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf"
-        }
-      ],
-      "duration_ms": 311641,
-      "name": "Estate torna presto",
-      "url": "https://open.spotify.com/track/5859W8AIN6EulIbK7CCNeG"
-    },
-    {
-      "added_at": "2026-06-18 22:00:53",
-      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/3QuUHhU4RHkxSSKMcR4MnT"
       },
@@ -943,18 +927,18 @@
     {
       "added_at": "2026-06-18 22:00:53",
       "album": {
-        "name": "The World (AR)",
-        "url": "https://open.spotify.com/album/0Z3Y8pPAKhiJpVZTd1p8t6"
+        "name": "Oscillare",
+        "url": "https://open.spotify.com/album/2D6v55SUNu1Rz3govAtx08"
       },
       "artists": [
         {
-          "name": "Benjamin Amaru",
-          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
+          "name": "Valentino Vivace",
+          "url": "https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf"
         }
       ],
-      "duration_ms": 227651,
-      "name": "The World (AR)",
-      "url": "https://open.spotify.com/track/7yNz3NhMVoWP4g7zqdEvns"
+      "duration_ms": 311641,
+      "name": "Estate torna presto",
+      "url": "https://open.spotify.com/track/5859W8AIN6EulIbK7CCNeG"
     },
     {
       "added_at": "2026-06-18 22:00:53",
@@ -975,18 +959,18 @@
     {
       "added_at": "2026-06-18 22:00:53",
       "album": {
-        "name": "Type Of Way",
-        "url": "https://open.spotify.com/album/3ZaRCKIxP10Nf10xjirFfj"
+        "name": "The World (AR)",
+        "url": "https://open.spotify.com/album/0Z3Y8pPAKhiJpVZTd1p8t6"
       },
       "artists": [
         {
-          "name": "Marlin",
-          "url": "https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG"
+          "name": "Benjamin Amaru",
+          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
         }
       ],
-      "duration_ms": 194750,
-      "name": "Type Of Way",
-      "url": "https://open.spotify.com/track/21ZNEpSVD3aawNNRmed3uV"
+      "duration_ms": 227651,
+      "name": "The World (AR)",
+      "url": "https://open.spotify.com/track/7yNz3NhMVoWP4g7zqdEvns"
     },
     {
       "added_at": "2026-06-18 22:00:53",
@@ -1003,6 +987,22 @@
       "duration_ms": 188337,
       "name": "Moved On",
       "url": "https://open.spotify.com/track/7IL5ARQEHeafMPLIVDDkIk"
+    },
+    {
+      "added_at": "2026-06-18 22:00:53",
+      "album": {
+        "name": "Type Of Way",
+        "url": "https://open.spotify.com/album/3ZaRCKIxP10Nf10xjirFfj"
+      },
+      "artists": [
+        {
+          "name": "Marlin",
+          "url": "https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG"
+        }
+      ],
+      "duration_ms": 194750,
+      "name": "Type Of Way",
+      "url": "https://open.spotify.com/track/21ZNEpSVD3aawNNRmed3uV"
     },
     {
       "added_at": "2026-06-18 22:00:53",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2026-06-18 22:00:53",
       "album": {
+        "name": "Prosecco",
+        "url": "https://open.spotify.com/album/4fDTqKqjw8HO5gTLdyU6ug"
+      },
+      "artists": [
+        {
+          "name": "Hecht",
+          "url": "https://open.spotify.com/artist/5WesSfZwdtLI1iy05rJF0S"
+        }
+      ],
+      "duration_ms": 199838,
+      "name": "Prosecco",
+      "url": "https://open.spotify.com/track/761Vzi9ixB6F1dvJ0fJqpq"
+    },
+    {
+      "added_at": "2026-06-18 22:00:53",
+      "album": {
         "name": "Valse \u00e0 Demi",
         "url": "https://open.spotify.com/album/5imqbp4UGgNwRUftlTjUIR"
       },
@@ -1063,18 +1079,18 @@
     {
       "added_at": "2026-06-18 22:00:53",
       "album": {
-        "name": "Prosecco",
-        "url": "https://open.spotify.com/album/4fDTqKqjw8HO5gTLdyU6ug"
+        "name": "These Walls",
+        "url": "https://open.spotify.com/album/6aLdjyeTqqpkUk86IaE69g"
       },
       "artists": [
         {
-          "name": "Hecht",
-          "url": "https://open.spotify.com/artist/5WesSfZwdtLI1iy05rJF0S"
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
         }
       ],
-      "duration_ms": 199838,
-      "name": "Prosecco",
-      "url": "https://open.spotify.com/track/761Vzi9ixB6F1dvJ0fJqpq"
+      "duration_ms": 184893,
+      "name": "These Walls",
+      "url": "https://open.spotify.com/track/5fr2nes4H8khGAlOT9Vj6t"
     },
     {
       "added_at": "2026-06-18 22:00:53",
@@ -1095,50 +1111,22 @@
     {
       "added_at": "2026-06-18 22:00:53",
       "album": {
-        "name": "These Walls",
-        "url": "https://open.spotify.com/album/6aLdjyeTqqpkUk86IaE69g"
+        "name": "Roommates",
+        "url": "https://open.spotify.com/album/5Fl6WfcI7nBW7XPnUcEiLk"
       },
       "artists": [
         {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "These Walls",
-      "url": "https://open.spotify.com/track/5fr2nes4H8khGAlOT9Vj6t"
-    },
-    {
-      "added_at": "2026-06-18 22:00:53",
-      "album": {
-        "name": "I LIKE YOU",
-        "url": "https://open.spotify.com/album/4KCm2VNnGwzEozViaX6jQB"
-      },
-      "artists": [
+          "name": "Tobias Jensen",
+          "url": "https://open.spotify.com/artist/58b7ah7ekcjMDdqRXp0VrK"
+        },
         {
-          "name": "Melicious",
-          "url": "https://open.spotify.com/artist/62uR1xRDa5dv0KmWMgEQvH"
+          "name": "Tobias Carshey",
+          "url": "https://open.spotify.com/artist/1fmlzagVqokRcqqNrdueqo"
         }
       ],
-      "duration_ms": 156387,
-      "name": "I LIKE YOU",
-      "url": "https://open.spotify.com/track/2If9dziJFjIBDkkdKGcZoT"
-    },
-    {
-      "added_at": "2026-06-18 22:00:53",
-      "album": {
-        "name": "How Much Can a Heart Break",
-        "url": "https://open.spotify.com/album/6UO64Z8AgMqPdSgoljbaRx"
-      },
-      "artists": [
-        {
-          "name": "Pegasus",
-          "url": "https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad"
-        }
-      ],
-      "duration_ms": 195055,
-      "name": "How Much Can a Heart Break",
-      "url": "https://open.spotify.com/track/0NAzeWAZjFBFzTorfZS9DF"
+      "duration_ms": 151250,
+      "name": "Roommates",
+      "url": "https://open.spotify.com/track/48tRJaSTyD9JJ1qcybPZiq"
     },
     {
       "added_at": "2026-06-18 22:00:53",
@@ -1163,22 +1151,34 @@
     {
       "added_at": "2026-06-18 22:00:53",
       "album": {
-        "name": "Roommates",
-        "url": "https://open.spotify.com/album/5Fl6WfcI7nBW7XPnUcEiLk"
+        "name": "How Much Can a Heart Break",
+        "url": "https://open.spotify.com/album/6UO64Z8AgMqPdSgoljbaRx"
       },
       "artists": [
         {
-          "name": "Tobias Jensen",
-          "url": "https://open.spotify.com/artist/58b7ah7ekcjMDdqRXp0VrK"
-        },
-        {
-          "name": "Tobias Carshey",
-          "url": "https://open.spotify.com/artist/1fmlzagVqokRcqqNrdueqo"
+          "name": "Pegasus",
+          "url": "https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad"
         }
       ],
-      "duration_ms": 151250,
-      "name": "Roommates",
-      "url": "https://open.spotify.com/track/48tRJaSTyD9JJ1qcybPZiq"
+      "duration_ms": 195055,
+      "name": "How Much Can a Heart Break",
+      "url": "https://open.spotify.com/track/0NAzeWAZjFBFzTorfZS9DF"
+    },
+    {
+      "added_at": "2026-06-18 22:00:53",
+      "album": {
+        "name": "I LIKE YOU",
+        "url": "https://open.spotify.com/album/4KCm2VNnGwzEozViaX6jQB"
+      },
+      "artists": [
+        {
+          "name": "Melicious",
+          "url": "https://open.spotify.com/artist/62uR1xRDa5dv0KmWMgEQvH"
+        }
+      ],
+      "duration_ms": 156387,
+      "name": "I LIKE YOU",
+      "url": "https://open.spotify.com/track/2If9dziJFjIBDkkdKGcZoT"
     },
     {
       "added_at": "2026-06-18 22:00:53",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-06-18 22:00:53",
       "album": {
-        "name": "This I Know",
-        "url": "https://open.spotify.com/album/6dkEelex2bMAhmLvrm0Y5V"
-      },
-      "artists": [
-        {
-          "name": "Noemi Beza",
-          "url": "https://open.spotify.com/artist/6VxYXAGO7LTKvpNv2n93TD"
-        }
-      ],
-      "duration_ms": 173302,
-      "name": "This I Know",
-      "url": "https://open.spotify.com/track/5tKuFGcwytK8EMw0YqMQae"
-    },
-    {
-      "added_at": "2026-06-18 22:00:53",
-      "album": {
         "name": "Trapped in the Middle",
         "url": "https://open.spotify.com/album/4g4OlXckIGoy5C7zMYskaw"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 138443,
       "name": "Trapped in the Middle",
       "url": "https://open.spotify.com/track/5auKT8Cuq3ROPPRxZhMlle"
+    },
+    {
+      "added_at": "2026-06-18 22:00:53",
+      "album": {
+        "name": "This I Know",
+        "url": "https://open.spotify.com/album/6dkEelex2bMAhmLvrm0Y5V"
+      },
+      "artists": [
+        {
+          "name": "Noemi Beza",
+          "url": "https://open.spotify.com/artist/6VxYXAGO7LTKvpNv2n93TD"
+        }
+      ],
+      "duration_ms": 173302,
+      "name": "This I Know",
+      "url": "https://open.spotify.com/track/5tKuFGcwytK8EMw0YqMQae"
     },
     {
       "added_at": "2026-06-18 22:00:53",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-06-18 22:00:53",
       "album": {
-        "name": "Chiara",
-        "url": "https://open.spotify.com/album/03IhA1ZKrQZYCtC1E1aq0q"
-      },
-      "artists": [
-        {
-          "name": "Valentino Vivace",
-          "url": "https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf"
-        }
-      ],
-      "duration_ms": 207028,
-      "name": "Chiara",
-      "url": "https://open.spotify.com/track/13SDcvkayQJdSgTUmTbrfe"
-    },
-    {
-      "added_at": "2026-06-18 22:00:53",
-      "album": {
         "name": "Ehrlich",
         "url": "https://open.spotify.com/album/3SxtFi80kNDFfnjSHBoZe3"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 230310,
       "name": "Ehrlich",
       "url": "https://open.spotify.com/track/2CpYkZOMP8Xmac4akYnAxF"
+    },
+    {
+      "added_at": "2026-06-18 22:00:53",
+      "album": {
+        "name": "Chiara",
+        "url": "https://open.spotify.com/album/03IhA1ZKrQZYCtC1E1aq0q"
+      },
+      "artists": [
+        {
+          "name": "Valentino Vivace",
+          "url": "https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf"
+        }
+      ],
+      "duration_ms": 207028,
+      "name": "Chiara",
+      "url": "https://open.spotify.com/track/13SDcvkayQJdSgTUmTbrfe"
     },
     {
       "added_at": "2026-06-18 22:00:53",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-06-18 22:00:53",
       "album": {
-        "name": "Good",
-        "url": "https://open.spotify.com/album/17d8AeWoYu428twNlwtXjI"
-      },
-      "artists": [
-        {
-          "name": "Stefanie Heinzmann",
-          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
-        }
-      ],
-      "duration_ms": 227413,
-      "name": "Good",
-      "url": "https://open.spotify.com/track/22LulLIuYZS8qspHQeVi7w"
-    },
-    {
-      "added_at": "2026-06-18 22:00:53",
-      "album": {
         "name": "oxygen",
         "url": "https://open.spotify.com/album/4EDGkCx4podx97NEbColdz"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 163712,
       "name": "Wasteland",
       "url": "https://open.spotify.com/track/5fTSVKzNqVpuBsv4O7JDOW"
+    },
+    {
+      "added_at": "2026-06-18 22:00:53",
+      "album": {
+        "name": "Good",
+        "url": "https://open.spotify.com/album/17d8AeWoYu428twNlwtXjI"
+      },
+      "artists": [
+        {
+          "name": "Stefanie Heinzmann",
+          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
+        }
+      ],
+      "duration_ms": 227413,
+      "name": "Good",
+      "url": "https://open.spotify.com/track/22LulLIuYZS8qspHQeVi7w"
     },
     {
       "added_at": "2026-06-18 22:00:53",

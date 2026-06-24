@@ -1,12 +1,12 @@
 {
   "description": "This is Skindred. The essential tracks, all in one playlist.",
-  "num_followers": 30435,
+  "num_followers": 30444,
   "original_name": "This Is Skindred",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajcpgAAAAABxCmA/q0kosJm3fMDc4XdF",
+  "snapshot_id": "ajh7AAAAAAAxf+rxRH7ABScD+dUgy9NL",
   "tracks": [
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Union Black",
-        "url": "https://open.spotify.com/album/65uAKfPZ0pZS1e8GMLfplG"
+        "name": "Big Tings",
+        "url": "https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 228333,
-      "name": "Doom Riff",
-      "url": "https://open.spotify.com/track/1bFpr9RuXPpIw7dbFAlLgC"
+      "duration_ms": 201677,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/6wMnoiVacP8zT6jXgeJfQY"
     },
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Tings",
-        "url": "https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam"
+        "name": "Union Black",
+        "url": "https://open.spotify.com/album/65uAKfPZ0pZS1e8GMLfplG"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 201677,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/6wMnoiVacP8zT6jXgeJfQY"
+      "duration_ms": 228333,
+      "name": "Doom Riff",
+      "url": "https://open.spotify.com/track/1bFpr9RuXPpIw7dbFAlLgC"
     },
     {
       "added_at": null,
@@ -507,6 +507,22 @@
       "duration_ms": 181560,
       "name": "Roots Rock Riot",
       "url": "https://open.spotify.com/track/69EVHdZvM6N27S9u0lssNc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Tings",
+        "url": "https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 211444,
+      "name": "Loud and Clear",
+      "url": "https://open.spotify.com/track/2o7PvxONvn3b5n8uRben7D"
     },
     {
       "added_at": null,
@@ -543,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Tings",
-        "url": "https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 211444,
-      "name": "Loud and Clear",
-      "url": "https://open.spotify.com/track/2o7PvxONvn3b5n8uRben7D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Roots Rock Riot",
         "url": "https://open.spotify.com/album/7zl0NrhsqIqAXSFe3tPnAR"
       },
@@ -571,6 +571,22 @@
       "duration_ms": 243120,
       "name": "State of Emergency",
       "url": "https://open.spotify.com/track/0z0IXlH0JZSIbLTq7oU06f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Tings",
+        "url": "https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 212019,
+      "name": "Machine (Ft. Gary Stringer)",
+      "url": "https://open.spotify.com/track/0MrL61At3ad6kVdjefaZMH"
     },
     {
       "added_at": null,
@@ -607,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Tings",
-        "url": "https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 212019,
-      "name": "Machine (Ft. Gary Stringer)",
-      "url": "https://open.spotify.com/track/0MrL61At3ad6kVdjefaZMH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Roots Rock Riot",
         "url": "https://open.spotify.com/album/7zl0NrhsqIqAXSFe3tPnAR"
       },
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kill The Power",
-        "url": "https://open.spotify.com/album/24rK0HnAbb64xTxkZBoRCu"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 282613,
-      "name": "Open Eyed",
-      "url": "https://open.spotify.com/track/2sEPalDxv2IxnVnjlDFa8R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Union Black",
         "url": "https://open.spotify.com/album/65uAKfPZ0pZS1e8GMLfplG"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 231253,
       "name": "Cut Dem",
       "url": "https://open.spotify.com/track/5zad0gzqESqLTSbn6G9xlm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kill The Power",
+        "url": "https://open.spotify.com/album/24rK0HnAbb64xTxkZBoRCu"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 282613,
+      "name": "Open Eyed",
+      "url": "https://open.spotify.com/track/2sEPalDxv2IxnVnjlDFa8R"
     },
     {
       "added_at": null,

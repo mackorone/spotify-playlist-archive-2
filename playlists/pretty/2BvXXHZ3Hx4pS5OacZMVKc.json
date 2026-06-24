@@ -6,8 +6,24 @@
     "name": "NCS",
     "url": "https://open.spotify.com/user/nocopyrightsounds"
   },
-  "snapshot_id": "AAAMj4aoLELwCpkZGKouD5Dcw7/LVLj0",
+  "snapshot_id": "AAAMkAS48LCZE0Z/gUoqoOnpoagD95Cg",
   "tracks": [
+    {
+      "added_at": "2026-06-23 09:05:42",
+      "album": {
+        "name": "Down 2 Wait",
+        "url": "https://open.spotify.com/album/0KSf0zeLELHSegXvWvmEMi"
+      },
+      "artists": [
+        {
+          "name": "Crumb Pit",
+          "url": "https://open.spotify.com/artist/7FB7TG2lBUfqoNQlWz7z1I"
+        }
+      ],
+      "duration_ms": 154971,
+      "name": "Down 2 Wait",
+      "url": "https://open.spotify.com/track/0GD71HdgxylP7DhFvGgYXC"
+    },
     {
       "added_at": "2026-06-09 09:13:05",
       "album": {

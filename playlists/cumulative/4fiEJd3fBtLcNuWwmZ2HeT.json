@@ -2259,6 +2259,24 @@
     },
     {
       "album": {
+        "name": "hanaainitari",
+        "url": "https://open.spotify.com/album/50wRlQSd8wMzia6PsblhQc"
+      },
+      "artists": [
+        {
+          "name": "Shino",
+          "url": "https://open.spotify.com/artist/59Bj4ZrSOLrNlMH15wY2VB"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "hanawoutau",
+      "url": "https://open.spotify.com/track/59mCmIQswqAQEED5nhdQJV"
+    },
+    {
+      "album": {
         "name": "Happiness Savings (feat. HATSUNE MIKU)",
         "url": "https://open.spotify.com/album/2DtL6aukVKA4gPalst5JtC"
       },

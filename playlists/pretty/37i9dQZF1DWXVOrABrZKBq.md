@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 
 > Les nouveautés rap franco sans frontières\. Photo: Franglish, KeBlack
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,106 likes - 99 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,117 likes - 99 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 | 27 | [MÉDICAMENT](https://open.spotify.com/track/2MFm3yQgt7hNkjP1ZYsI2u) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6), [Anyme023](https://open.spotify.com/artist/2XoNHBh5o3I1Niqsr5uA3P) | [MÉDICAMENT](https://open.spotify.com/album/4Vk4vV6FLeDiJE0uupd7Bt) | 3:06 |
 | 28 | [Velar](https://open.spotify.com/track/0cYBP022NcGl6DOmSPhv5h) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [DRAKKAR](https://open.spotify.com/album/24v0IedAru6yCDoqE3X6Th) | 2:30 |
 | 29 | [Le resto du Hilton](https://open.spotify.com/track/3s5pq5RRlWBYAahZCkCw4Z) | [FILOU](https://open.spotify.com/artist/7qZwDVuE0XDDAjWhfv9uv6), [LeDji](https://open.spotify.com/artist/0u4SuQvBKJ7zwNWT3RWkph) | [Le resto du Hilton](https://open.spotify.com/album/4vwFJkR7fAwLZkEA3eb0jm) | 1:46 |
-| 30 | [FYL](https://open.spotify.com/track/7FetoUd1SoaTlagkGND9QN) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD) | [FYL](https://open.spotify.com/album/5qFTEABkPuMuy5pfmXpshM) | 2:16 |
+| 30 | [FYL](https://open.spotify.com/track/7FetoUd1SoaTlagkGND9QN) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD) | [FYL](https://open.spotify.com/album/5qFTEABkPuMuy5pfmXpshM) | 2:15 |
 | 31 | [LE MARATHON CONTINUE](https://open.spotify.com/track/1iFwiJ0Bwd5nNW2OUmcpbV) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [LE MARATHON CONTINUE](https://open.spotify.com/album/6OHOOiHJptzGMOFMhzJUzt) | 2:43 |
 | 32 | [SAUVAGERIE 4](https://open.spotify.com/track/750H9wy1FAhP33A4aMzvvv) | [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [SAUVAGERIE 4](https://open.spotify.com/album/0QvgfruvO3HBYnu0wJ4ayJ) | 2:40 |
 | 33 | [NETFLIX CHILL](https://open.spotify.com/track/6Ap1nvdC4XT3p2Oj627ciD) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [PRINC€](https://open.spotify.com/artist/42eXaZ8DcymFXerFjEEcmj) | [NETFLIX CHILL](https://open.spotify.com/album/2jJBGEZ6vfmQXQ4qJUeVq2) | 2:28 |

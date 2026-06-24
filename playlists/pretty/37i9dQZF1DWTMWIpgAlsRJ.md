@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 
 > The Ultimate EA SPORTS FC Brazil Playlist: bringing together the sounds of Brazil in celebration of The World's Game\. Curated specially for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,915 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,863 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 23 | [Hino Vira\-Lata](https://open.spotify.com/track/6Vad22SlhO3g0OevENcO4X) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Quinteto em Branco e Preto](https://open.spotify.com/artist/33WgWL5KOK7WGrHNawwuf3) | [O Glorioso Retorno de Quem Nunca Esteve Aqui](https://open.spotify.com/album/57PWjWHzqzODblomXxnQca) | 3:12 |
 | 24 | [Vem com tudo](https://open.spotify.com/track/3mTMQ4ceGNWhfnH5IYKpkO) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO) | [Vem com tudo](https://open.spotify.com/album/4TfLV1HjFS4uh08o8ZlsaE) | 3:14 |
 | 25 | [Só Tem Jogador](https://open.spotify.com/track/4J8YnRd5u21USIiBzsyDC4) | [Macacko](https://open.spotify.com/artist/0nUTxp2U0XnPM9Klp8Z0qw), [BlocoBleque](https://open.spotify.com/artist/3hsn5peU7gwnvCMoW7epmH), [Gabriel O Pensador](https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD), [Tiago Mocoto](https://open.spotify.com/artist/6KXkYDUZ9noNLKDuz85Klb) | [BlocoBleque](https://open.spotify.com/album/0wYL4vGPT2qV0qkvjG53Eq) | 3:48 |
-| 26 | [Magrela Fever](https://open.spotify.com/track/4CHQ5GgSgSRgRhHfgK916h) | [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI) | [JapanPopShow](https://open.spotify.com/album/1HbETOeE59WPA3IDm4HAjW) | 4:10 |
-| 27 | [Porro Maracatu \- Toy Selectah Remix](https://open.spotify.com/track/1drnVjXefDo5xx56Pt6tfu) | [LADAMA](https://open.spotify.com/artist/5CA1T9fayw9qeF1wPDO9E9), [Toy Selectah](https://open.spotify.com/artist/6iruqoplIhH7VmvMQV1wDM) | [Porro Maracatu \(Toy Selectah Remix\)](https://open.spotify.com/album/7IPC22KL9jAP0AAZksfKQQ) | 3:01 |
+| 26 | [Porro Maracatu \- Toy Selectah Remix](https://open.spotify.com/track/1drnVjXefDo5xx56Pt6tfu) | [LADAMA](https://open.spotify.com/artist/5CA1T9fayw9qeF1wPDO9E9), [Toy Selectah](https://open.spotify.com/artist/6iruqoplIhH7VmvMQV1wDM) | [Porro Maracatu \(Toy Selectah Remix\)](https://open.spotify.com/album/7IPC22KL9jAP0AAZksfKQQ) | 3:01 |
+| 27 | [Magrela Fever](https://open.spotify.com/track/4CHQ5GgSgSRgRhHfgK916h) | [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI) | [JapanPopShow](https://open.spotify.com/album/1HbETOeE59WPA3IDm4HAjW) | 4:10 |
 | 28 | [Tranqüilo](https://open.spotify.com/track/59dxApcsU7GPDiMGxjIc6x) | [Marcelinho Da Lua](https://open.spotify.com/artist/4Yw5FcyGxFtur6gG4YWmZ6), [Bi Ribeiro](https://open.spotify.com/artist/0toWNUEQ8Bcimaq6BKh7Tr), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Tranqüilo!](https://open.spotify.com/album/3gGvP5OvOXhgrHYN41XalX) | 4:26 |
 | 29 | [Jager Yoga](https://open.spotify.com/track/4Uq7SeO1R4UqXLxsB0p8iV) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Donkey](https://open.spotify.com/album/2RE3HfJr5FcFKDA7ZsPDjA) | 3:48 |
 | 30 | [The Space Ahead](https://open.spotify.com/track/0EkXKJ8SnCRX7NOqkwrtFy) | [Zemaria](https://open.spotify.com/artist/2ACcON2v89hFiNex2a0emN) | [Any Distance](https://open.spotify.com/album/4dPamgTuqu7hV2C0jSv7pY) | 3:16 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 45 | [Bundalelê da Verdade](https://open.spotify.com/track/2s8PxbkkDMPeytykR3YADb) | [João Nabuco](https://open.spotify.com/artist/6621hNPzYKg1wrkA2CGvgo) | [Cinesamba Vol\. 2](https://open.spotify.com/album/6ORAY2nixGWWpdyplKTwaX) | 3:22 |
 | 46 | [Ozonio](https://open.spotify.com/track/1XUeiUC13X6cEAGYYGgmD1) | [Dom Um And Jadir De Castro](https://open.spotify.com/artist/11WJ3oGFpm1c5YRNohsgX6) | [Ginga: the Sound of Brazilian Football \(Mr Bongo presents\)](https://open.spotify.com/album/0nUAdjTmipeCkaIIShOR9s) | 2:58 |
 | 47 | [Zona Oeste](https://open.spotify.com/track/3VlwMKEPMiCh18ZSQK0xGN) | [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg) | [Zona Oeste](https://open.spotify.com/album/4Cq77GBYhNTJUiwvGa5ehy) | 3:38 |
-| 48 | [Diam Riddim](https://open.spotify.com/track/3cYAF0SO8lMw2QQJy02d9s) | [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Waxploitation Presents: Future Sounds MMXIX](https://open.spotify.com/album/0NAtHL3j2P4xbT7e7RnDQo) | 2:47 |
+| 48 | [Proximo Riddim](https://open.spotify.com/track/0jkt5mIxunFtq6ZD3BwokG) | [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Brazzabelle](https://open.spotify.com/artist/0Vqd4JxqpC1sfl2n0Cn0Zr) | [Waxploitation Presents: Future Sounds MMXIX](https://open.spotify.com/album/0NAtHL3j2P4xbT7e7RnDQo) | 2:25 |
 | 49 | [Emoriô](https://open.spotify.com/track/4hCys2rwlk7hlEVjD7YhOn) | [Sergio Mendes & Brasil '77](https://open.spotify.com/artist/67jdJKipXNstJJV9uPW1uk) | [Homecooking](https://open.spotify.com/album/5tgGFVeBKLdQG9Bo88qffs) | 3:08 |
 | 50 | [Calorzão](https://open.spotify.com/track/0qFDv5K2f5raLz8GdGCJKd) | [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M), [Ruxell](https://open.spotify.com/artist/01afJHOJ6Lep5CFrmA5avI) | [Calorzão](https://open.spotify.com/album/3uwPZjtYIQodYvzo2HEbCH) | 2:57 |
 

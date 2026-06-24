@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Angèle, Franglish x KeBlack x iDS, Tyla, Gambi and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,717 likes - 132 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,724 likes - 132 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,7 +135,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 125 | [Breathe](https://open.spotify.com/track/28AnZq4Yo21iyneTWGjeUT) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Breathe](https://open.spotify.com/album/1ESGqa57ayFuz8ZpS6RxqX) | 3:57 |
 | 126 | [Casanova](https://open.spotify.com/track/3hmS8qCuENsDJMYFniLS5n) | [Arma Jackson](https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN) | [Casanova](https://open.spotify.com/album/4iQgvLGbrvICDkhndJrPf7) | 3:07 |
 | 127 | [Unbound](https://open.spotify.com/track/1Nxg47FghfUl6XB46WZwFc) | [Prince 85](https://open.spotify.com/artist/6ADNjKrreUUc181zsy4Cte), [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc) | [Unbound](https://open.spotify.com/album/1FQXkOnK5XYBaOvBSY5TIW) | 4:53 |
-| 128 | [1,2,3 SOLEIL](https://open.spotify.com/track/7HiQTpYPeJ2xWfPyznxw8g) | [Lulu Gainsbourg](https://open.spotify.com/artist/5W38lYXVLIEfyTFBQKTfmX), [Polocorp](https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ) | [1,2,3 SOLEIL](https://open.spotify.com/album/1XbAvtBcelHbg0rxwhqXW7) | 3:14 |
+| 128 | [1,2,3 Soleil](https://open.spotify.com/track/7HiQTpYPeJ2xWfPyznxw8g) | [Lulu Gainsbourg](https://open.spotify.com/artist/5W38lYXVLIEfyTFBQKTfmX), [Polocorp](https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ) | [1,2,3 Soleil](https://open.spotify.com/album/1XbAvtBcelHbg0rxwhqXW7) | 3:14 |
 | 129 | [Leviathan](https://open.spotify.com/track/5aszFyUeoKHAI4FxaQ7lPy) | [Hunter As a Horse](https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F) | [Leviathan](https://open.spotify.com/album/41f1PgklBN9dmuc3FHfobl) | 3:01 |
 | 130 | [Mon amour](https://open.spotify.com/track/0turvlmG4zdvkCWlsVMXNX) | [Kemmler](https://open.spotify.com/artist/7hChnO6TKesBmtbTFFjYbP), [Naë](https://open.spotify.com/artist/0B3klp4sg7D2YYsKWwLvzh) | [Mon amour](https://open.spotify.com/album/7ibKz6e18haIDomfceIPCV) | 2:10 |
 | 131 | [Aura \(feat\. Bryson Tiller\)](https://open.spotify.com/track/00pby5wNQrSReTNF1sv1SI) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [AMA](https://open.spotify.com/album/6p11S4bs4hMNeT0Z976udB) | 4:00 |

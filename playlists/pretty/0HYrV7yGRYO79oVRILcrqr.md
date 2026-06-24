@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,856 likes - 118 songs - 7 hr 47 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,859 likes - 120 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,5 +126,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 116 | [To blues tis monaksias](https://open.spotify.com/track/0i1sZjx82aJ1rOe6bPqWqy) | [Giorgos Martos](https://open.spotify.com/artist/3P8DI56L3cFZ7rEzoCoCVl) | [Psaks'to vathia](https://open.spotify.com/album/5fYs3dSNay0mHopgunjVXq) | 3:57 |
 | 117 | [Drinking](https://open.spotify.com/track/6YysdxnxuAhIO2Y8ty36uu) | [INTOTHEVOID](https://open.spotify.com/artist/4FYLVQGKQn5RIycdpzZtlj) | [Drinking](https://open.spotify.com/album/7tNTL4WyylZ97QB0YSxsuw) | 5:20 |
 | 118 | [Onomanosphere](https://open.spotify.com/track/49hjIuAb7VKotojvXPrmBd) | [TIRED](https://open.spotify.com/artist/26Fypj1nYvaqMCLeqEiIMO) | [Onomanosphere](https://open.spotify.com/album/2dohHJ6ZCqeKfve1MqbiSA) | 2:50 |
+| 119 | [No es pecado](https://open.spotify.com/track/0G6a9gaWPPFsmu3Cb9hMpx) | [Gal Baliero](https://open.spotify.com/artist/3IuWLDPy58I11hj2tOsn7M), [Isaac Gomez](https://open.spotify.com/artist/6OP5rawJOEJ3SGN6up8zOW), [Jacksa Suazo](https://open.spotify.com/artist/7rwpfamWDwfJ6F26zue6LV), [Banda Pope Joan](https://open.spotify.com/artist/1xG6VbKG0O3HUAhbu6UbR5) | [Pope Joan Sinfónico](https://open.spotify.com/album/2TvI5ziSqPflqifuBbcQbf) | 4:38 |
+| 120 | [Love Me Back](https://open.spotify.com/track/5Gj6ULpZ8A7UuPWWqdHBbM) | [Jenny Scara](https://open.spotify.com/artist/0F4yegE6Xa3vC2KvCoJTGw) | [Love Me Back](https://open.spotify.com/album/0MkfpV7NcjQbXOpq0SMa3z) | 3:22 |
 
-Snapshot ID: `AAALy/DCCLLSHjUG6sq4EHLNMlQfECjI`
+Snapshot ID: `AAALzRivmrEsANEG+OOf0fsN0EYV6zOg`

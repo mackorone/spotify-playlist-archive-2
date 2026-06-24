@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > All new Contemporary Christian songs on the rise! Cover: Kyndal
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,186 likes - 149 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,203 likes - 149 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 15 | [I'm Going](https://open.spotify.com/track/1x7ymQpO53Ln9wiTDTTbmM) | [Chelsea Plank](https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y) | [I'm Going](https://open.spotify.com/album/2hGXHWbl2zxJmfZpzBnc2X) | 3:59 |
 | 16 | [Holding On \(Praise God\)](https://open.spotify.com/track/6YLeNiSaMlAneSXWerpreU) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [Holding On \(Praise God\)](https://open.spotify.com/album/7cf4mvGVW24x6Ugy6jZ83u) | 3:38 |
 | 17 | [miracle](https://open.spotify.com/track/5mrRRmnUUuzSSIY0M0Nqew) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [miracle](https://open.spotify.com/album/2LTfNK1uz9qsis9hyxfuWa) | 2:45 |
-| 18 | [THE TRUTH WILL SET YOU FREE](https://open.spotify.com/track/4OxOqklOXdaMus3nB1DM7X) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [THE TRUTH WILL SET YOU FREE](https://open.spotify.com/album/6UYh85lNTBAP4nsfBqDYUB) | 3:24 |
+| 18 | [TRUTH WILL SET YOU FREE](https://open.spotify.com/track/4OxOqklOXdaMus3nB1DM7X) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [TRUTH WILL SET YOU FREE](https://open.spotify.com/album/6UYh85lNTBAP4nsfBqDYUB) | 3:24 |
 | 19 | [I'll Lift Up My Eyes \- English version](https://open.spotify.com/track/2RbcK8JM7fMxWz7P9egqSu) | [VIVAFE](https://open.spotify.com/artist/0CsdWJuo52qt8ZTGcKY2Cz), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH), [Lala Maher](https://open.spotify.com/artist/5NVzOIT4zKYSkWqAixtmgF), [John Finch](https://open.spotify.com/artist/1mImDYSR7mM7wvH3dewoG3), [Simon Dumas](https://open.spotify.com/artist/217ig6NvB8SVOuz4eXAChJ), [Katia del Cid](https://open.spotify.com/artist/5ML7735ozpAWSOqaEA35NB), [Vale Montes](https://open.spotify.com/artist/260NzhUBhOUDlt99vUhJYK), [Kairy Marquez](https://open.spotify.com/artist/4UyJzXklWMYXkbT5F2g1T8), [Dana Catherine](https://open.spotify.com/artist/7KyHfhz6Z3MYJYiMpHYkfS), [Jon Carlo](https://open.spotify.com/artist/78Xx1nGRbBHmfwtx2arZZK) | [I'll Lift Up My Eyes \(English version\)](https://open.spotify.com/album/5ZzXvWBVuZZ0T61hvkzKmo) | 4:53 |
 | 20 | [Point of View](https://open.spotify.com/track/5sBxWkq2qsA5duwonnm3Tv) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Point of View](https://open.spotify.com/album/1rI6OT45iNO83oKJwP34JK) | 3:16 |
 | 21 | [Changing](https://open.spotify.com/track/6aUq2ImOnHlFQUjMqtzKRX) | [Rachel Morley](https://open.spotify.com/artist/79vNtKxpQNwJMHhbxkYaMk) | [Changing](https://open.spotify.com/album/6rrQswbIXq8hsl5EhY0urV) | 4:24 |

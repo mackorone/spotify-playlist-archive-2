@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,538 songs - 10 day 2 hr 46 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,543 songs - 10 day 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4546,5 +4546,10 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4536 | [Gym y Farra](https://open.spotify.com/track/0VBJwn1pzveqZXUWQCdOLD) | [Sugarcrush](https://open.spotify.com/artist/42qSwWCF0ZJBVKtpuG1XlJ) | [Gym y Farra](https://open.spotify.com/album/5DLmphnuago9EOE4uWbHkK) | 2:08 |
 | 4537 | [Hand of Gold](https://open.spotify.com/track/4dmzhrA0dXwVVBsCUFwIkC) | [James Sebastian](https://open.spotify.com/artist/6IX76Xz04QnJdDtcDIfoD6) | [Hand of Gold](https://open.spotify.com/album/6s9d9tyK12ljYpu1saaUXm) | 2:42 |
 | 4538 | [Destitute](https://open.spotify.com/track/189yrz4VgeKGq0tqcg8n8E) | [SunDex](https://open.spotify.com/artist/6MyWvcpoXnkcs0CerPg1E7), [Bhadboi Mickey](https://open.spotify.com/artist/70ZZPlIQzksFpqaJOwx35L) | [Destitute](https://open.spotify.com/album/1sDSWOk9s96aLRWg3WL3RD) | 3:27 |
+| 4539 | [Matory](https://open.spotify.com/track/39WrEUqGAXuylnOtGeVE3h) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Matory](https://open.spotify.com/album/37DeS2yQJ0UUF8tKJjdes4) | 2:31 |
+| 4540 | [Дышать](https://open.spotify.com/track/4R5bbmS5OoFrgbLk8tRoY8) | [ANTY\-DOTE](https://open.spotify.com/artist/6977CBnV7l66u6yEM9MwMW) | [Дышать](https://open.spotify.com/album/4WnGAdmmXihQC1WKsOmw4I) | 1:02 |
+| 4541 | [Hampir Saja](https://open.spotify.com/track/402MPYl6n9BtEVH8xvjro6) | [Eklyra](https://open.spotify.com/artist/2ROoPAHDGn6hHs986H0y9V) | [Hampir Saja](https://open.spotify.com/album/0KTMY3iGT5MDmK35lWJdph) | 3:23 |
+| 4542 | [Homem de Negocios](https://open.spotify.com/track/7HVFLtRCZifFPj08dVRlzI) | [MBUENO](https://open.spotify.com/artist/0L7hmgeg9mVh1fM21m0mdB) | [Homem de Negocios](https://open.spotify.com/album/6C3g5k2Zduy3tAnXRaMBOf) | 2:15 |
+| 4543 | [Patience](https://open.spotify.com/track/5j3ivBCTU5U4OBljFq8p9R) | [Wretched Things](https://open.spotify.com/artist/6bq9LPNfltcBgpvfdtTWwk) | [Patience](https://open.spotify.com/album/03FHkDM2h58AFvohS2S8pw) | 4:05 |
 
-Snapshot ID: `AAAI8+u5u/cD1JTR3f3KsrCbl8yORUbM`
+Snapshot ID: `AAAI+Ood7GDBXo6mGMob9sKX1E0GPzAy`

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Noa Sainz en portada \u2728",
-  "num_followers": 95075,
+  "num_followers": 95090,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,22 @@
     {
       "added_at": "2026-04-10 16:15:50",
       "album": {
+        "name": "Te Juro No Te Miento",
+        "url": "https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT"
+      },
+      "artists": [
+        {
+          "name": "Sofia Castro",
+          "url": "https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw"
+        }
+      ],
+      "duration_ms": 155293,
+      "name": "Te Juro No Te Miento",
+      "url": "https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU"
+    },
+    {
+      "added_at": "2026-04-10 16:15:50",
+      "album": {
         "name": "Lienzo",
         "url": "https://open.spotify.com/album/3PaifgkK7vVua23LjjhXEv"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 180643,
       "name": "Lienzo",
       "url": "https://open.spotify.com/track/6Z7Pj8Yq2rUWh9kT9NMmUN"
-    },
-    {
-      "added_at": "2026-04-10 16:15:50",
-      "album": {
-        "name": "Te Juro No Te Miento",
-        "url": "https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT"
-      },
-      "artists": [
-        {
-          "name": "Sofia Castro",
-          "url": "https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw"
-        }
-      ],
-      "duration_ms": 155293,
-      "name": "Te Juro No Te Miento",
-      "url": "https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU"
     },
     {
       "added_at": "2026-04-10 16:15:50",
@@ -923,26 +923,6 @@
     {
       "added_at": "2026-04-10 16:15:50",
       "album": {
-        "name": "Distinto",
-        "url": "https://open.spotify.com/album/0a505H49Qu64xAf5mfNMB7"
-      },
-      "artists": [
-        {
-          "name": "RPLK",
-          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 165110,
-      "name": "Distinto",
-      "url": "https://open.spotify.com/track/3ozopXR7pzz7Mr5z04rK1U"
-    },
-    {
-      "added_at": "2026-04-10 16:15:50",
-      "album": {
         "name": "MALVAS",
         "url": "https://open.spotify.com/album/6kUKwicaYia3sYbgQyEtb2"
       },
@@ -963,6 +943,26 @@
     {
       "added_at": "2026-04-10 16:15:50",
       "album": {
+        "name": "Distinto",
+        "url": "https://open.spotify.com/album/0a505H49Qu64xAf5mfNMB7"
+      },
+      "artists": [
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 165110,
+      "name": "Distinto",
+      "url": "https://open.spotify.com/track/3ozopXR7pzz7Mr5z04rK1U"
+    },
+    {
+      "added_at": "2026-04-10 16:15:50",
+      "album": {
         "name": "\u00bfPor Qu\u00e9 Soy As\u00ed?",
         "url": "https://open.spotify.com/album/0nx6GtmpkRxmbj1gX2pRP2"
       },
@@ -975,26 +975,6 @@
       "duration_ms": 189693,
       "name": "\u00bfPor Qu\u00e9 Soy As\u00ed?",
       "url": "https://open.spotify.com/track/1N9n5G6elGqnLm3KSVG7Ir"
-    },
-    {
-      "added_at": "2026-04-10 16:15:50",
-      "album": {
-        "name": "el silencio",
-        "url": "https://open.spotify.com/album/7y8VSzFuSe0TXeX7nbKXnL"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        },
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        }
-      ],
-      "duration_ms": 218217,
-      "name": "el silencio",
-      "url": "https://open.spotify.com/track/2I5Z0tMDcsJuYEcOnLZs5G"
     },
     {
       "added_at": "2026-04-10 16:15:50",
@@ -1015,6 +995,26 @@
       "duration_ms": 212852,
       "name": "Blanco Y Negro",
       "url": "https://open.spotify.com/track/3s96JLi4otLNGrVK6Eik7f"
+    },
+    {
+      "added_at": "2026-04-10 16:15:50",
+      "album": {
+        "name": "el silencio",
+        "url": "https://open.spotify.com/album/7y8VSzFuSe0TXeX7nbKXnL"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "duration_ms": 218217,
+      "name": "el silencio",
+      "url": "https://open.spotify.com/track/2I5Z0tMDcsJuYEcOnLZs5G"
     },
     {
       "added_at": "2026-04-10 16:15:50",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-04-10 16:15:50",
       "album": {
-        "name": "PALACIO",
-        "url": "https://open.spotify.com/album/7nQEMEmUDb0KRNlbTUi4mE"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 160312,
-      "name": "Drogada de Emociones",
-      "url": "https://open.spotify.com/track/7nUWS3PiYx9LmrLKInsLzM"
-    },
-    {
-      "added_at": "2026-04-10 16:15:50",
-      "album": {
         "name": "a la mitad",
         "url": "https://open.spotify.com/album/7BKm5M8gOpJIdxi5tdvdwY"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 174460,
       "name": "a la mitad",
       "url": "https://open.spotify.com/track/1dbDRlYvm4KaCVzMVUPlby"
+    },
+    {
+      "added_at": "2026-04-10 16:15:50",
+      "album": {
+        "name": "PALACIO",
+        "url": "https://open.spotify.com/album/7nQEMEmUDb0KRNlbTUi4mE"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 160312,
+      "name": "Drogada de Emociones",
+      "url": "https://open.spotify.com/track/7nUWS3PiYx9LmrLKInsLzM"
     },
     {
       "added_at": "2026-04-10 16:15:50",

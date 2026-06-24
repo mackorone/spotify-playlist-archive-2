@@ -1,6 +1,6 @@
 {
   "description": "Most exciting artists from the Indian Indie scene. Cover: JBABE",
-  "num_followers": 193675,
+  "num_followers": 193719,
   "original_name": "RADAR India",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,26 @@
     {
       "added_at": "2026-06-19 05:52:28",
       "album": {
+        "name": "Aasmaan Jaley",
+        "url": "https://open.spotify.com/album/5XydWzMA9SpDyHVi7Z2H6u"
+      },
+      "artists": [
+        {
+          "name": "Abhay Jodhpurkar",
+          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
+        },
+        {
+          "name": "Abhijeet Srivastava",
+          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
+        }
+      ],
+      "duration_ms": 166615,
+      "name": "Aasmaan Jaley",
+      "url": "https://open.spotify.com/track/2dEvh4AAZvD8qwq0VGTAe6"
+    },
+    {
+      "added_at": "2026-06-19 05:52:28",
+      "album": {
         "name": "Aas",
         "url": "https://open.spotify.com/album/3ouQsqA555hLFhrObzNezV"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 190234,
       "name": "Aas",
       "url": "https://open.spotify.com/track/7MLSIlkM9B2NhKMlAFRQc7"
-    },
-    {
-      "added_at": "2026-06-19 05:52:28",
-      "album": {
-        "name": "Aasmaan Jaley",
-        "url": "https://open.spotify.com/album/5XydWzMA9SpDyHVi7Z2H6u"
-      },
-      "artists": [
-        {
-          "name": "Abhay Jodhpurkar",
-          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
-        },
-        {
-          "name": "Abhijeet Srivastava",
-          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
-        }
-      ],
-      "duration_ms": 166615,
-      "name": "Aasmaan Jaley",
-      "url": "https://open.spotify.com/track/2dEvh4AAZvD8qwq0VGTAe6"
     },
     {
       "added_at": "2026-06-19 05:52:28",
@@ -851,26 +851,6 @@
     {
       "added_at": "2026-06-19 05:52:28",
       "album": {
-        "name": "Uljhan",
-        "url": "https://open.spotify.com/album/1c8hEngE771KKKSEQKisN3"
-      },
-      "artists": [
-        {
-          "name": "Parth Srivastava",
-          "url": "https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI"
-        },
-        {
-          "name": "Sireesha Bhagavatula",
-          "url": "https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS"
-        }
-      ],
-      "duration_ms": 134139,
-      "name": "Uljhan",
-      "url": "https://open.spotify.com/track/13nrujwIxpJl1xtoDpvxyY"
-    },
-    {
-      "added_at": "2026-06-19 05:52:28",
-      "album": {
         "name": "Bolo Bolo",
         "url": "https://open.spotify.com/album/6n1ZzFVuQoI2NZLxQTxRUD"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 237378,
       "name": "Bolo Bolo",
       "url": "https://open.spotify.com/track/4Aqd89LSf5OnqWGeKO9mP9"
+    },
+    {
+      "added_at": "2026-06-19 05:52:28",
+      "album": {
+        "name": "Uljhan",
+        "url": "https://open.spotify.com/album/1c8hEngE771KKKSEQKisN3"
+      },
+      "artists": [
+        {
+          "name": "Parth Srivastava",
+          "url": "https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI"
+        },
+        {
+          "name": "Sireesha Bhagavatula",
+          "url": "https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS"
+        }
+      ],
+      "duration_ms": 134139,
+      "name": "Uljhan",
+      "url": "https://open.spotify.com/track/13nrujwIxpJl1xtoDpvxyY"
     },
     {
       "added_at": "2026-06-19 05:52:28",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2026-06-19 05:52:28",
       "album": {
+        "name": "CIRCLES",
+        "url": "https://open.spotify.com/album/2D2JEphFbPsxbthC89eH1t"
+      },
+      "artists": [
+        {
+          "name": "Himonshu Parikh",
+          "url": "https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX"
+        }
+      ],
+      "duration_ms": 172352,
+      "name": "Dariya",
+      "url": "https://open.spotify.com/track/6Y9PQMcP2PwspzZvKbMG6w"
+    },
+    {
+      "added_at": "2026-06-19 05:52:28",
+      "album": {
         "name": "Le Jaa",
         "url": "https://open.spotify.com/album/0imiHfsNmizV0OaVJOYCdA"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 154015,
       "name": "Le Jaa",
       "url": "https://open.spotify.com/track/1JdphOaJPSdVoGTtilQ4Pr"
-    },
-    {
-      "added_at": "2026-06-19 05:52:28",
-      "album": {
-        "name": "CIRCLES",
-        "url": "https://open.spotify.com/album/2D2JEphFbPsxbthC89eH1t"
-      },
-      "artists": [
-        {
-          "name": "Himonshu Parikh",
-          "url": "https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX"
-        }
-      ],
-      "duration_ms": 172352,
-      "name": "Dariya",
-      "url": "https://open.spotify.com/track/6Y9PQMcP2PwspzZvKbMG6w"
     },
     {
       "added_at": "2026-06-19 05:52:28",
@@ -1427,22 +1427,22 @@
     {
       "added_at": "2026-06-19 05:52:28",
       "album": {
-        "name": "Talkhiyaan",
-        "url": "https://open.spotify.com/album/4BsBm8Ny3BKObOnESP3hPh"
+        "name": "Mere Qareeb",
+        "url": "https://open.spotify.com/album/4VlXNpbh13tTYWJpEwIS5K"
       },
       "artists": [
         {
-          "name": "Janisht Joshi",
-          "url": "https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z"
+          "name": "Neyhal",
+          "url": "https://open.spotify.com/artist/58nYUsnl5ST7wD1VY49b31"
         },
         {
-          "name": "KBIR",
-          "url": "https://open.spotify.com/artist/3S88CVor97KLhYUta9U6Lh"
+          "name": "Ramil Ganjoo",
+          "url": "https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg"
         }
       ],
-      "duration_ms": 203434,
-      "name": "BEB",
-      "url": "https://open.spotify.com/track/6ug8TXrbflwyBcP3IxekJT"
+      "duration_ms": 224284,
+      "name": "Mere Qareeb",
+      "url": "https://open.spotify.com/track/2vvZ7VKWJTzyyaL3TxG4bC"
     },
     {
       "added_at": "2026-06-19 05:52:28",

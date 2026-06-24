@@ -1,12 +1,12 @@
 {
   "description": "This is Helmet. The essential tracks, all in one playlist.",
-  "num_followers": 10331,
+  "num_followers": 10339,
   "original_name": "This Is Helmet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajcpgAAAAADMqHvxSDoCj6rUoDmjeKXc",
+  "snapshot_id": "ajh7AAAAAABjb+NHtrSO6RGaEBjdZufB",
   "tracks": [
     {
       "added_at": null,
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 256933,
-      "name": "Give It",
-      "url": "https://open.spotify.com/track/6rVleAFgtmJ04Omk6Mmon5"
+      "duration_ms": 225200,
+      "name": "You Borrowed",
+      "url": "https://open.spotify.com/track/5RzZkoMROd0iY0iFU31VZE"
     },
     {
       "added_at": null,
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 225200,
-      "name": "You Borrowed",
-      "url": "https://open.spotify.com/track/5RzZkoMROd0iY0iFU31VZE"
+      "duration_ms": 256933,
+      "name": "Give It",
+      "url": "https://open.spotify.com/track/6rVleAFgtmJ04Omk6Mmon5"
     },
     {
       "added_at": null,
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 179226,
-      "name": "Repetition",
-      "url": "https://open.spotify.com/track/0SN6a4K3SSIDhAMVkN23El"
+      "duration_ms": 263000,
+      "name": "Sinatra",
+      "url": "https://open.spotify.com/track/5n4HiXIkGjxlBlbeUbbBsv"
     },
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 263000,
-      "name": "Sinatra",
-      "url": "https://open.spotify.com/track/5n4HiXIkGjxlBlbeUbbBsv"
+      "duration_ms": 179226,
+      "name": "Repetition",
+      "url": "https://open.spotify.com/track/0SN6a4K3SSIDhAMVkN23El"
     }
   ],
   "unique_name": "This Is Helmet",

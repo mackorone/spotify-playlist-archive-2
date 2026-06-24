@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3uCoOqZ4KF0kp8bf8nJhPN.md) - [plain]
 
 > 
 
-[Professor Poopypants](https://open.spotify.com/user/uct7ytv2q7a0toeusz1ilohli) - 1 like - 276 songs - 11 hr 8 min
+[Professor Poopypants](https://open.spotify.com/user/uct7ytv2q7a0toeusz1ilohli) - 1 like - 277 songs - 11 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -284,5 +284,6 @@ pretty - [cumulative](/playlists/cumulative/3uCoOqZ4KF0kp8bf8nJhPN.md) - [plain]
 | 274 | [She Hates Me](https://open.spotify.com/track/16DhvbuyvJob4Q9GHNYu2n) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 3:36 |
 | 275 | [Bedrott \- Instrumental Slowed](https://open.spotify.com/track/7q7StxVzHQ5LimdZLQV8xH) | [ForceTx](https://open.spotify.com/artist/2dDxg1hQi6igncj9SM8wkN) | [Bedrott \(Instrumental Slowed\)](https://open.spotify.com/album/3O2WCH1HaNyxLNW8KlIJnz) | 2:22 |
 | 276 | [TRISH!](https://open.spotify.com/track/0MQB4JqltuT3QoE3bbMqDc) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [SWAGGOT! \(B SIDE\)](https://open.spotify.com/album/0ebnfu4hXifVFCgrAv6l3Y) | 1:57 |
+| 277 | [stephanie.](https://open.spotify.com/track/3OJIyyskAs0fqv9FyJe5T8) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [are you lonely?](https://open.spotify.com/album/1magMsVGcV4r6K3fUCRMIo) | 3:03 |
 
-Snapshot ID: `AAAGp1PjYnHtqrpIx2CR29B6GIrU5nSz`
+Snapshot ID: `AAAGqMrJyRJ3Gq7BIWxAqDd5TvLwczj3`

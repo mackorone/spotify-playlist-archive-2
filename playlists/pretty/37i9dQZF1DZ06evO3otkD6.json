@@ -1,12 +1,12 @@
 {
   "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 93279,
+  "num_followers": 93313,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajcpgAAAAADcioG0yi0Z8nhauDFXFdJI",
+  "snapshot_id": "ajh7AAAAAAC24c8Yw7e7da/ScJ1s3eUx",
   "tracks": [
     {
       "added_at": null,
@@ -1111,22 +1111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Carpe Diem",
-        "url": "https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Lolita",
-      "url": "https://open.spotify.com/track/5FVWs30Ce5zqcsVDfwfrJP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Traguito",
         "url": "https://open.spotify.com/album/1OfaHu7z6jOeVkoZsEVl0H"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 184185,
       "name": "Un Traguito",
       "url": "https://open.spotify.com/track/5OSrMt5y9dExB2J5vMdTVk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Lolita",
+      "url": "https://open.spotify.com/track/5FVWs30Ce5zqcsVDfwfrJP"
     }
   ],
   "unique_name": "This Is Belinda",

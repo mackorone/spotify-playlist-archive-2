@@ -1,6 +1,6 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Boards Of Canada on cover.",
-  "num_followers": 578673,
+  "num_followers": 578728,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
-        "name": "Angeles",
-        "url": "https://open.spotify.com/album/1vad0gJkkmtHw3j57nrrSj"
-      },
-      "artists": [
-        {
-          "name": "City of the Sun",
-          "url": "https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k"
-        }
-      ],
-      "duration_ms": 289000,
-      "name": "Angeles",
-      "url": "https://open.spotify.com/track/1WRwNkPolcW0a6sveTUBY8"
-    },
-    {
-      "added_at": "2026-05-22 06:00:37",
-      "album": {
         "name": "The Revolt Against Tired Noises",
         "url": "https://open.spotify.com/album/71b2Yqz7DCWPuS6YXoMLFa"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 593386,
       "name": "Illusory Motion",
       "url": "https://open.spotify.com/track/0gMYjcuAwOcCBGruZqj14t"
+    },
+    {
+      "added_at": "2026-05-22 06:00:37",
+      "album": {
+        "name": "Angeles",
+        "url": "https://open.spotify.com/album/1vad0gJkkmtHw3j57nrrSj"
+      },
+      "artists": [
+        {
+          "name": "City of the Sun",
+          "url": "https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k"
+        }
+      ],
+      "duration_ms": 289000,
+      "name": "Angeles",
+      "url": "https://open.spotify.com/track/1WRwNkPolcW0a6sveTUBY8"
     },
     {
       "added_at": "2026-05-22 06:00:37",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
-        "name": "Wading Out / Shell Island",
-        "url": "https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT"
-      },
-      "artists": [
-        {
-          "name": "Favourite People",
-          "url": "https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt"
-        }
-      ],
-      "duration_ms": 221418,
-      "name": "Wading Out",
-      "url": "https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ"
-    },
-    {
-      "added_at": "2026-05-22 06:00:37",
-      "album": {
         "name": "Egypt",
         "url": "https://open.spotify.com/album/31ZG86kVsR9TpKp80LaBLc"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 261634,
       "name": "Egypt",
       "url": "https://open.spotify.com/track/3vX1OAHdl2R8XAWDxffrqy"
+    },
+    {
+      "added_at": "2026-05-22 06:00:37",
+      "album": {
+        "name": "Wading Out / Shell Island",
+        "url": "https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT"
+      },
+      "artists": [
+        {
+          "name": "Favourite People",
+          "url": "https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt"
+        }
+      ],
+      "duration_ms": 221418,
+      "name": "Wading Out",
+      "url": "https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ"
     },
     {
       "added_at": "2026-05-22 06:00:37",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
-        "name": "Sacred Drugs",
-        "url": "https://open.spotify.com/album/1z3VxBmeYehR4iKUkQ0IST"
-      },
-      "artists": [
-        {
-          "name": "Al Lover",
-          "url": "https://open.spotify.com/artist/2rVYWIbqIKx8d6hN4owg4A"
-        }
-      ],
-      "duration_ms": 186858,
-      "name": "A Shaman's Hand is Infinite",
-      "url": "https://open.spotify.com/track/1tYXvwP2nPrU6bbV9QUU7i"
-    },
-    {
-      "added_at": "2026-05-22 06:00:37",
-      "album": {
         "name": "Ring Tail",
         "url": "https://open.spotify.com/album/1jB0X1Ch7IChY79vv1gZMe"
       },
@@ -951,18 +935,18 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
-        "name": "Looking For A Way Out (Of Del Rio)",
-        "url": "https://open.spotify.com/album/1LMu6OXrzOcVAtLZ7qX0H5"
+        "name": "Sacred Drugs",
+        "url": "https://open.spotify.com/album/1z3VxBmeYehR4iKUkQ0IST"
       },
       "artists": [
         {
-          "name": "Future Utopia",
-          "url": "https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo"
+          "name": "Al Lover",
+          "url": "https://open.spotify.com/artist/2rVYWIbqIKx8d6hN4owg4A"
         }
       ],
-      "duration_ms": 187613,
-      "name": "Looking For A Way Out (Of Del Rio)",
-      "url": "https://open.spotify.com/track/3vOyu61SLPVWmfQLYgv7Gd"
+      "duration_ms": 186858,
+      "name": "A Shaman's Hand is Infinite",
+      "url": "https://open.spotify.com/track/1tYXvwP2nPrU6bbV9QUU7i"
     },
     {
       "added_at": "2026-05-22 06:00:37",
@@ -979,6 +963,22 @@
       "duration_ms": 207665,
       "name": "Right or Wrong",
       "url": "https://open.spotify.com/track/3iblchfWSkursOZywc1MyH"
+    },
+    {
+      "added_at": "2026-05-22 06:00:37",
+      "album": {
+        "name": "Looking For A Way Out (Of Del Rio)",
+        "url": "https://open.spotify.com/album/1LMu6OXrzOcVAtLZ7qX0H5"
+      },
+      "artists": [
+        {
+          "name": "Future Utopia",
+          "url": "https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo"
+        }
+      ],
+      "duration_ms": 187613,
+      "name": "Looking For A Way Out (Of Del Rio)",
+      "url": "https://open.spotify.com/track/3vOyu61SLPVWmfQLYgv7Gd"
     },
     {
       "added_at": "2026-05-22 06:00:37",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
-        "name": "Fliiim",
-        "url": "https://open.spotify.com/album/3FoCvSpo76YEUAt98FSKAq"
-      },
-      "artists": [
-        {
-          "name": "Upupay\u0101ma",
-          "url": "https://open.spotify.com/artist/6XKIrLfoLnp3EXNrp5AcwD"
-        }
-      ],
-      "duration_ms": 329102,
-      "name": "Fliiim",
-      "url": "https://open.spotify.com/track/1aAsUzTj2bIH6cAHLsacKw"
-    },
-    {
-      "added_at": "2026-05-22 06:00:37",
-      "album": {
         "name": "On The Double (Remastered & Expanded)",
         "url": "https://open.spotify.com/album/4do5fIXEU2wKuiBJ0qBZJQ"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 219770,
       "name": "It's Alright, But I Admit It Could Be Better - Remastered",
       "url": "https://open.spotify.com/track/6vclsNdC6KDOlygH4NAAuT"
+    },
+    {
+      "added_at": "2026-05-22 06:00:37",
+      "album": {
+        "name": "Fliiim",
+        "url": "https://open.spotify.com/album/3FoCvSpo76YEUAt98FSKAq"
+      },
+      "artists": [
+        {
+          "name": "Upupay\u0101ma",
+          "url": "https://open.spotify.com/artist/6XKIrLfoLnp3EXNrp5AcwD"
+        }
+      ],
+      "duration_ms": 329102,
+      "name": "Fliiim",
+      "url": "https://open.spotify.com/track/1aAsUzTj2bIH6cAHLsacKw"
     },
     {
       "added_at": "2026-05-22 06:00:37",
@@ -1495,38 +1495,6 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
-        "name": "Moon Needs The Owl Pt. 1",
-        "url": "https://open.spotify.com/album/1Q2wAdsHkrMy4LzY4cyIEx"
-      },
-      "artists": [
-        {
-          "name": "Upupay\u0101ma",
-          "url": "https://open.spotify.com/artist/6XKIrLfoLnp3EXNrp5AcwD"
-        }
-      ],
-      "duration_ms": 298828,
-      "name": "Moon Needs The Owl Pt. 1",
-      "url": "https://open.spotify.com/track/1eTXV5JXftbL7nJVKg0P9R"
-    },
-    {
-      "added_at": "2026-05-22 06:00:37",
-      "album": {
-        "name": "Ah Yoluna!",
-        "url": "https://open.spotify.com/album/5PmuMgHnAPqx9ozpGWfTTX"
-      },
-      "artists": [
-        {
-          "name": "Sedef Seb\u00fcktekin",
-          "url": "https://open.spotify.com/artist/1dvuibBCx9TnbCKIdOEF4l"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Ah Yoluna!",
-      "url": "https://open.spotify.com/track/38DG2RKEcGgpxG5YANVP5G"
-    },
-    {
-      "added_at": "2026-05-22 06:00:37",
-      "album": {
         "name": "Panoramas",
         "url": "https://open.spotify.com/album/1ny9ec75rSo3SOg1EiDRRW"
       },
@@ -1543,6 +1511,22 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
+        "name": "Moon Needs The Owl Pt. 1",
+        "url": "https://open.spotify.com/album/1Q2wAdsHkrMy4LzY4cyIEx"
+      },
+      "artists": [
+        {
+          "name": "Upupay\u0101ma",
+          "url": "https://open.spotify.com/artist/6XKIrLfoLnp3EXNrp5AcwD"
+        }
+      ],
+      "duration_ms": 298828,
+      "name": "Moon Needs The Owl Pt. 1",
+      "url": "https://open.spotify.com/track/1eTXV5JXftbL7nJVKg0P9R"
+    },
+    {
+      "added_at": "2026-05-22 06:00:37",
+      "album": {
         "name": "Microshift",
         "url": "https://open.spotify.com/album/3wDOavy8yEk8G2c0mfyTsA"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 228693,
       "name": "Static Resistance",
       "url": "https://open.spotify.com/track/0eOAeqbD5sxU77qdHSYLOY"
+    },
+    {
+      "added_at": "2026-05-22 06:00:37",
+      "album": {
+        "name": "Ah Yoluna!",
+        "url": "https://open.spotify.com/album/5PmuMgHnAPqx9ozpGWfTTX"
+      },
+      "artists": [
+        {
+          "name": "Sedef Seb\u00fcktekin",
+          "url": "https://open.spotify.com/artist/1dvuibBCx9TnbCKIdOEF4l"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Ah Yoluna!",
+      "url": "https://open.spotify.com/track/38DG2RKEcGgpxG5YANVP5G"
     },
     {
       "added_at": "2026-05-22 06:00:37",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
-        "name": "PISS! PEAS! PEACE!",
-        "url": "https://open.spotify.com/album/1JQEawqqWequOQOz2i72HZ"
+        "name": "El Veh\u00edculo de las Transformaciones",
+        "url": "https://open.spotify.com/album/4gAHX2JkEm6RWRLw9cp4xd"
       },
       "artists": [
         {
-          "name": "Lovvb\u00f6mbing!",
-          "url": "https://open.spotify.com/artist/2fCM484FPEFRbjqqpU1sjt"
+          "name": "Mirror Revelations",
+          "url": "https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9"
         }
       ],
-      "duration_ms": 172725,
-      "name": "Esquisito River",
-      "url": "https://open.spotify.com/track/16HGLBTpgw5VKclztUUayG"
+      "duration_ms": 352542,
+      "name": "El Veh\u00edculo de las Transformaciones",
+      "url": "https://open.spotify.com/track/7F4GU3OKcPJOgeLG1jrSrx"
     },
     {
       "added_at": "2026-05-22 06:00:37",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
-        "name": "El Veh\u00edculo de las Transformaciones",
-        "url": "https://open.spotify.com/album/4gAHX2JkEm6RWRLw9cp4xd"
+        "name": "PISS! PEAS! PEACE!",
+        "url": "https://open.spotify.com/album/1JQEawqqWequOQOz2i72HZ"
       },
       "artists": [
         {
-          "name": "Mirror Revelations",
-          "url": "https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9"
+          "name": "Lovvb\u00f6mbing!",
+          "url": "https://open.spotify.com/artist/2fCM484FPEFRbjqqpU1sjt"
         }
       ],
-      "duration_ms": 352542,
-      "name": "El Veh\u00edculo de las Transformaciones",
-      "url": "https://open.spotify.com/track/7F4GU3OKcPJOgeLG1jrSrx"
+      "duration_ms": 172725,
+      "name": "Esquisito River",
+      "url": "https://open.spotify.com/track/16HGLBTpgw5VKclztUUayG"
     }
   ],
   "unique_name": "Neo-Psychedelic Rock",

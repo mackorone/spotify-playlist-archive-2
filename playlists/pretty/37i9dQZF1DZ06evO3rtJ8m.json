@@ -1,12 +1,12 @@
 {
   "description": "This is Big Thief. The essential tracks, all in one playlist.",
-  "num_followers": 46513,
+  "num_followers": 46528,
   "original_name": "This Is Big Thief",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajcpgAAAAADzRk0cEKM+FZGCXWSo3Dbq",
+  "snapshot_id": "ajh7AAAAAADJzVZdVTHmK1ll2rG5iVNZ",
   "tracks": [
     {
       "added_at": null,
@@ -651,6 +651,34 @@
       "duration_ms": 282320,
       "name": "Wolf",
       "url": "https://open.spotify.com/track/5dW8gOPZsZRQOzjdmcOREc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dance Of Love",
+        "url": "https://open.spotify.com/album/1aA7OojB1z3TCyTWb65v2h"
+      },
+      "artists": [
+        {
+          "name": "Tucker Zimmerman",
+          "url": "https://open.spotify.com/artist/6c3XGRQEI4x3hvu19S2X09"
+        },
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        },
+        {
+          "name": "Iji",
+          "url": "https://open.spotify.com/artist/577ncuQtxXrM7Xi5itVG35"
+        },
+        {
+          "name": "Twain",
+          "url": "https://open.spotify.com/artist/2tMcnRGaCtfz1ZyTBgHjmW"
+        }
+      ],
+      "duration_ms": 241998,
+      "name": "Burial At Sea",
+      "url": "https://open.spotify.com/track/2iQULAYjrePvMQCZJ0OYAh"
     },
     {
       "added_at": null,

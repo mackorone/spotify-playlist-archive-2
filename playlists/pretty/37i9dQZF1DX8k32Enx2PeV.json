@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 16777,
+  "num_followers": 16778,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "Baby Prime",
-        "url": "https://open.spotify.com/album/3KtYriNAr8k2slfPNfCYXg"
-      },
-      "artists": [
-        {
-          "name": "Jossman",
-          "url": "https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH"
-        },
-        {
-          "name": "DanDizzy",
-          "url": "https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK"
-        }
-      ],
-      "duration_ms": 133186,
-      "name": "Baby Prime",
-      "url": "https://open.spotify.com/track/0wM3i3lZSv8pv8ffQobB7q"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
         "name": "Cuando Canto Grito",
         "url": "https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 341074,
       "name": "Cuando Canto Grito",
       "url": "https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
+        "name": "Baby Prime",
+        "url": "https://open.spotify.com/album/3KtYriNAr8k2slfPNfCYXg"
+      },
+      "artists": [
+        {
+          "name": "Jossman",
+          "url": "https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH"
+        },
+        {
+          "name": "DanDizzy",
+          "url": "https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK"
+        }
+      ],
+      "duration_ms": 133186,
+      "name": "Baby Prime",
+      "url": "https://open.spotify.com/track/0wM3i3lZSv8pv8ffQobB7q"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "Yo Quisiera",
-        "url": "https://open.spotify.com/album/1MMT7w9XWU7VjFBXunah09"
-      },
-      "artists": [
-        {
-          "name": "Golpe a Golpe",
-          "url": "https://open.spotify.com/artist/0nqpXa8bkBlWgS9FKhNCuj"
-        }
-      ],
-      "duration_ms": 177446,
-      "name": "Yo Quisiera",
-      "url": "https://open.spotify.com/track/6lbRZpCucVLSd7clLDl58q"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
         "name": "ni una foto",
         "url": "https://open.spotify.com/album/6xKGfOhCxShui9ia3zCxwJ"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 192385,
       "name": "ni una foto",
       "url": "https://open.spotify.com/track/5Fc6a806jgiEU3ka1Rqpyq"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
+        "name": "Yo Quisiera",
+        "url": "https://open.spotify.com/album/1MMT7w9XWU7VjFBXunah09"
+      },
+      "artists": [
+        {
+          "name": "Golpe a Golpe",
+          "url": "https://open.spotify.com/artist/0nqpXa8bkBlWgS9FKhNCuj"
+        }
+      ],
+      "duration_ms": 177446,
+      "name": "Yo Quisiera",
+      "url": "https://open.spotify.com/track/6lbRZpCucVLSd7clLDl58q"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -1715,26 +1715,6 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "Museo",
-        "url": "https://open.spotify.com/album/0Dsu1o55jtnkwt1BxKnCGB"
-      },
-      "artists": [
-        {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
-        },
-        {
-          "name": "Kabasaki",
-          "url": "https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX"
-        }
-      ],
-      "duration_ms": 165923,
-      "name": "Museo",
-      "url": "https://open.spotify.com/track/2cos8mfUgNxpBKZBWj0fvg"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
         "name": "Respiro",
         "url": "https://open.spotify.com/album/0obtRY4p00WwIHafC8MTlF"
       },
@@ -1751,6 +1731,26 @@
       "duration_ms": 195317,
       "name": "Respiro",
       "url": "https://open.spotify.com/track/42op2wd3o7SZ1MUImRkbkh"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
+        "name": "Museo",
+        "url": "https://open.spotify.com/album/0Dsu1o55jtnkwt1BxKnCGB"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        },
+        {
+          "name": "Kabasaki",
+          "url": "https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX"
+        }
+      ],
+      "duration_ms": 165923,
+      "name": "Museo",
+      "url": "https://open.spotify.com/track/2cos8mfUgNxpBKZBWj0fvg"
     },
     {
       "added_at": "2026-06-19 04:59:04",

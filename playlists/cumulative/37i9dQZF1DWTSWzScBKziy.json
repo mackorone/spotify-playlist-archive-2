@@ -21743,24 +21743,6 @@
     },
     {
       "album": {
-        "name": "THE TRUTH WILL SET YOU FREE",
-        "url": "https://open.spotify.com/album/6UYh85lNTBAP4nsfBqDYUB"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "date_added": "2026-06-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 204400,
-      "name": "THE TRUTH WILL SET YOU FREE",
-      "url": "https://open.spotify.com/track/4OxOqklOXdaMus3nB1DM7X"
-    },
-    {
-      "album": {
         "name": "EAT",
         "url": "https://open.spotify.com/album/0USg7yhc0M9kTNDlzcMU7K"
       },
@@ -22528,6 +22510,24 @@
       "duration_ms": 179400,
       "name": "Trust\u2026Fall!",
       "url": "https://open.spotify.com/track/0itJM3ixZ3fKV5tfd2Mi2o"
+    },
+    {
+      "album": {
+        "name": "TRUTH WILL SET YOU FREE",
+        "url": "https://open.spotify.com/album/6UYh85lNTBAP4nsfBqDYUB"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204400,
+      "name": "TRUTH WILL SET YOU FREE",
+      "url": "https://open.spotify.com/track/4OxOqklOXdaMus3nB1DM7X"
     },
     {
       "album": {

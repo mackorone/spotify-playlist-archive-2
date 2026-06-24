@@ -364,7 +364,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 712522,
       "name": "Hills Bells Mother",
       "url": "https://open.spotify.com/track/7fATVAuieODEabRB4txujc"
@@ -452,7 +452,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-14",
+      "date_removed": null,
       "duration_ms": 305750,
       "name": "Hypnogogia",
       "url": "https://open.spotify.com/track/7Iwx5gAyLH7OHfnvFqqTCu"
@@ -868,7 +868,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 352000,
       "name": "Observatory",
       "url": "https://open.spotify.com/track/6DE8VAI99LyIJ16anacufA"

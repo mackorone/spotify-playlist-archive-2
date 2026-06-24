@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 > Neues aus der Welt des Pop\. Cover: Jensen McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 515,172 likes - 89 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 515,121 likes - 89 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 | 25 | [Give Up The Ghost](https://open.spotify.com/track/1EhCp1Hu6o0ph7Ls6GVcp1) | [Myle](https://open.spotify.com/artist/1EhPRkK8hf1SzrDhzPlaMw) | [Give Up The Ghost](https://open.spotify.com/album/5qxbjCcSkoWeZFoPNBpl7G) | 2:22 |
 | 26 | [Almost Me, Almost You](https://open.spotify.com/track/2ZDmomo3jbfpCqJLj7XYFF) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [Almost Me, Almost You](https://open.spotify.com/album/67dwW7CahdAhDnPINsCPB6) | 2:48 |
 | 27 | [Wildfire \(feat\. Michael Patrick Kelly\)](https://open.spotify.com/track/25Njz0bzkoPaqFgtWi0Tiq) | [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7), [Michael Patrick Kelly](https://open.spotify.com/artist/4OGiMt96TFUKkKWf7Imlno) | [Wildfire \(feat\. Michael Patrick Kelly\)](https://open.spotify.com/album/59pQ7VqfUTE32oRuXOCbO7) | 2:50 |
-| 28 | [worth my salt](https://open.spotify.com/track/3n5EfwQCoctF4EiLNgrOJd) | [AYLA](https://open.spotify.com/artist/37Cx3aSscKs8FbUoGuFPaa) | [APPITITE FOR CHAOS](https://open.spotify.com/album/7JueLJfExuOwtOL2go7jO5) | 2:36 |
+| 28 | [worth my salt](https://open.spotify.com/track/3n5EfwQCoctF4EiLNgrOJd) | [AYLA](https://open.spotify.com/artist/37Cx3aSscKs8FbUoGuFPaa) | [APPETITE FOR CHAOS](https://open.spotify.com/album/7JueLJfExuOwtOL2go7jO5) | 2:36 |
 | 29 | [Close](https://open.spotify.com/track/5xdC35mf072S94yav2vRt6) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Close](https://open.spotify.com/album/70q6JczgrEpipUdkcbkd9i) | 2:50 |
 | 30 | [PASSENGER](https://open.spotify.com/track/5Zv2Icw3vKuzQXZRhgmXkH) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [PASSENGER](https://open.spotify.com/album/6ZLVyO1GnQN35zYHbIB2bJ) | 2:39 |
 | 31 | [Love’s a Gun](https://open.spotify.com/track/7vqgKci5WfCnk0iUrNN9op) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Love’s a Gun](https://open.spotify.com/album/7tUhB6UQTg64z5xx34SdNy) | 2:59 |

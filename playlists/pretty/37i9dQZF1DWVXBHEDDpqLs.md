@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 
 > the best underground club tracks for party criminals ⚔️ featuring Surusinghe ⚔️
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,961 likes - 114 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,964 likes - 114 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

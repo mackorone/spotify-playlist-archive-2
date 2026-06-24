@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "20 Greatest Hits",
+        "url": "https://open.spotify.com/album/1drtyYMRUABZkF1i2B3Suh"
+      },
+      "artists": [
+        {
+          "name": "Dickie Rock",
+          "url": "https://open.spotify.com/artist/1lqsFXs93MiGGpZsETAWDC"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167466,
+      "name": "Come Back To Stay",
+      "url": "https://open.spotify.com/track/7lTuANjyCyJnxHMsDuly99"
+    },
+    {
+      "album": {
         "name": "The Singles Collection",
         "url": "https://open.spotify.com/album/6YZb35WBIM7ZlJf782E6gO"
       },
@@ -708,7 +726,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 167000,
       "name": "Lapponia",
       "url": "https://open.spotify.com/track/08QQrrdpXS5KmhSMD5EWMF"

@@ -1,6 +1,6 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Viniloversus",
-  "num_followers": 292502,
+  "num_followers": 292468,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,18 @@
     {
       "added_at": "2026-04-27 16:06:56",
       "album": {
-        "name": "M\u00e1quina del Tiempo",
-        "url": "https://open.spotify.com/album/2MyOEXK1SPgLVqkmrMGlnD"
+        "name": "Coraz\u00f3n de pollo",
+        "url": "https://open.spotify.com/album/3cZOTSFXraZaRyhXVLePDS"
       },
       "artists": [
         {
-          "name": "Mi Amigo Invencible",
-          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
-        },
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+          "name": "Estamos Perdidos",
+          "url": "https://open.spotify.com/artist/3XSDbgXhPHMMAMAG8uj7YP"
         }
       ],
-      "duration_ms": 247412,
-      "name": "M\u00e1quina del Tiempo",
-      "url": "https://open.spotify.com/track/4j4nMKhrAES1zlBrX6CQ8Q"
+      "duration_ms": 203250,
+      "name": "Coraz\u00f3n de pollo",
+      "url": "https://open.spotify.com/track/2AmBHtF9A6mvsVz7QNRbB1"
     },
     {
       "added_at": "2026-04-27 16:06:56",
@@ -319,18 +315,22 @@
     {
       "added_at": "2026-04-27 16:06:56",
       "album": {
-        "name": "Coraz\u00f3n de pollo",
-        "url": "https://open.spotify.com/album/3cZOTSFXraZaRyhXVLePDS"
+        "name": "M\u00e1quina del Tiempo",
+        "url": "https://open.spotify.com/album/2MyOEXK1SPgLVqkmrMGlnD"
       },
       "artists": [
         {
-          "name": "Estamos Perdidos",
-          "url": "https://open.spotify.com/artist/3XSDbgXhPHMMAMAG8uj7YP"
+          "name": "Mi Amigo Invencible",
+          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
+        },
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
         }
       ],
-      "duration_ms": 203250,
-      "name": "Coraz\u00f3n de pollo",
-      "url": "https://open.spotify.com/track/2AmBHtF9A6mvsVz7QNRbB1"
+      "duration_ms": 247412,
+      "name": "M\u00e1quina del Tiempo",
+      "url": "https://open.spotify.com/track/4j4nMKhrAES1zlBrX6CQ8Q"
     },
     {
       "added_at": "2026-04-27 16:06:56",
@@ -351,22 +351,6 @@
       "duration_ms": 220927,
       "name": "Magia Blanca",
       "url": "https://open.spotify.com/track/1MIRcKbka31tCqgjPLD4q4"
-    },
-    {
-      "added_at": "2026-04-27 16:06:56",
-      "album": {
-        "name": "\u00bfD\u00f3nde est\u00e1 la ONU cuando m\u00e1s la necesitas?",
-        "url": "https://open.spotify.com/album/0MIm8YYJllama2KsU9urpg"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a Polaca",
-          "url": "https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW"
-        }
-      ],
-      "duration_ms": 197383,
-      "name": "\u00bfD\u00f3nde est\u00e1 la ONU cuando m\u00e1s la necesitas?",
-      "url": "https://open.spotify.com/track/1MD5h9LOBrvEw64rkbv7sa"
     },
     {
       "added_at": "2026-04-27 16:06:56",
@@ -395,6 +379,22 @@
       "duration_ms": 215394,
       "name": "F\u00edsica o Qu\u00edmica (feat. Enol, Hens, Walls)",
       "url": "https://open.spotify.com/track/4dqrBXSWOaaEI1jlPegcQz"
+    },
+    {
+      "added_at": "2026-04-27 16:06:56",
+      "album": {
+        "name": "\u00bfD\u00f3nde est\u00e1 la ONU cuando m\u00e1s la necesitas?",
+        "url": "https://open.spotify.com/album/0MIm8YYJllama2KsU9urpg"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Polaca",
+          "url": "https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW"
+        }
+      ],
+      "duration_ms": 197383,
+      "name": "\u00bfD\u00f3nde est\u00e1 la ONU cuando m\u00e1s la necesitas?",
+      "url": "https://open.spotify.com/track/1MD5h9LOBrvEw64rkbv7sa"
     },
     {
       "added_at": "2026-04-27 16:06:56",
@@ -699,38 +699,6 @@
     {
       "added_at": "2026-04-27 16:06:56",
       "album": {
-        "name": "Tajada",
-        "url": "https://open.spotify.com/album/5hfg8YESqVnDHcOPiu4GSs"
-      },
-      "artists": [
-        {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 206429,
-      "name": "Tajada",
-      "url": "https://open.spotify.com/track/0HGchjSKUuMNsLg8zfwqFf"
-    },
-    {
-      "added_at": "2026-04-27 16:06:56",
-      "album": {
-        "name": "Lo Mejor",
-        "url": "https://open.spotify.com/album/1eUGnfmBWoPfsNXUHQsMEL"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 250696,
-      "name": "Lo Mejor",
-      "url": "https://open.spotify.com/track/5VEcvQd59L5xKySsXAbJ6h"
-    },
-    {
-      "added_at": "2026-04-27 16:06:56",
-      "album": {
         "name": "En El Aire",
         "url": "https://open.spotify.com/album/36j4M30i172PFNQSiBNfv6"
       },
@@ -751,18 +719,34 @@
     {
       "added_at": "2026-04-27 16:06:56",
       "album": {
-        "name": "S\u00e9 Que Puedo Hacerlo",
-        "url": "https://open.spotify.com/album/3k9lkziELrjBbgpDAGlOqH"
+        "name": "Lo Mejor",
+        "url": "https://open.spotify.com/album/1eUGnfmBWoPfsNXUHQsMEL"
       },
       "artists": [
         {
-          "name": "Comisario Pantera",
-          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
         }
       ],
-      "duration_ms": 176818,
-      "name": "S\u00e9 Que Puedo Hacerlo",
-      "url": "https://open.spotify.com/track/31Hdr8kHtE1qpSd0ytTXQ1"
+      "duration_ms": 250696,
+      "name": "Lo Mejor",
+      "url": "https://open.spotify.com/track/5VEcvQd59L5xKySsXAbJ6h"
+    },
+    {
+      "added_at": "2026-04-27 16:06:56",
+      "album": {
+        "name": "Tajada",
+        "url": "https://open.spotify.com/album/5hfg8YESqVnDHcOPiu4GSs"
+      },
+      "artists": [
+        {
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 206429,
+      "name": "Tajada",
+      "url": "https://open.spotify.com/track/0HGchjSKUuMNsLg8zfwqFf"
     },
     {
       "added_at": "2026-04-27 16:06:56",
@@ -783,6 +767,38 @@
       "duration_ms": 164466,
       "name": "Misterio, Cigarros y Menta",
       "url": "https://open.spotify.com/track/1XeDKmPp1BUxoRk4GurxD8"
+    },
+    {
+      "added_at": "2026-04-27 16:06:56",
+      "album": {
+        "name": "S\u00e9 Que Puedo Hacerlo",
+        "url": "https://open.spotify.com/album/3k9lkziELrjBbgpDAGlOqH"
+      },
+      "artists": [
+        {
+          "name": "Comisario Pantera",
+          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
+        }
+      ],
+      "duration_ms": 176818,
+      "name": "S\u00e9 Que Puedo Hacerlo",
+      "url": "https://open.spotify.com/track/31Hdr8kHtE1qpSd0ytTXQ1"
+    },
+    {
+      "added_at": "2026-04-27 16:06:56",
+      "album": {
+        "name": "Por Si Ma\u00f1ana No Estoy",
+        "url": "https://open.spotify.com/album/5s9VvQAkDbNI5jSkXXkHS5"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 154509,
+      "name": "Por Si Ma\u00f1ana No Estoy",
+      "url": "https://open.spotify.com/track/5z2MwP7ajltQdy6aaq878q"
     },
     {
       "added_at": "2026-04-27 16:06:56",
@@ -823,22 +839,6 @@
       "duration_ms": 164845,
       "name": "Verano Todo el A\u00f1o",
       "url": "https://open.spotify.com/track/4VIV71YT5WCfvcTFpY6KE7"
-    },
-    {
-      "added_at": "2026-04-27 16:06:56",
-      "album": {
-        "name": "Por Si Ma\u00f1ana No Estoy",
-        "url": "https://open.spotify.com/album/5s9VvQAkDbNI5jSkXXkHS5"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 154509,
-      "name": "Por Si Ma\u00f1ana No Estoy",
-      "url": "https://open.spotify.com/track/5z2MwP7ajltQdy6aaq878q"
     },
     {
       "added_at": "2026-04-27 16:06:56",

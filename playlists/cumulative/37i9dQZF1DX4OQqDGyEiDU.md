@@ -2,9 +2,9 @@
 
 ### [VOCALOID now](https://open.spotify.com/playlist/37i9dQZF1DX4OQqDGyEiDU)
 
-> Explore the current wave of VOCALOID culture\. Cover: 32ki
+> Explore the current wave of VOCALOID culture\. Cover: MIMI
 
-724 songs - 1 day 16 hr 25 min
+726 songs - 1 day 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -417,7 +417,7 @@
 | [トキヲ・ファンカ](https://open.spotify.com/track/1zzdir27Qnk0hS0JMhChnt) | [takamatt](https://open.spotify.com/artist/2R42xVG4zUh3UdPegxw2dE) | [イーストエンド・パンデモニウム](https://open.spotify.com/album/7meiSQd7gVv7X2Qy8vUiwS) | 5:40 | 2022-06-14 | 2022-07-16 |
 | [トリックハート \(feat\. 重音テト\)](https://open.spotify.com/track/6GCa6EDgz6InGi3EcHIH70) | [MIMI](https://open.spotify.com/artist/0nwGsQzwVqdlBAg0eSNxmd), [Teto Kasane](https://open.spotify.com/artist/1whAPNHAalmyNIsfapcIcR) | [トリックハート \(feat\. 重音テト\)](https://open.spotify.com/album/12NxuOI6ozeXa5PYhpSVJh) | 2:37 | 2026-01-20 | 2026-03-04 |
 | [トンデモワンダーズ](https://open.spotify.com/track/3jmQnsr4YxDIrCJ7GbE7vM) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1) | [トンデモワンダーズ](https://open.spotify.com/album/533pE7WjeCHpdfs3jiSXbL) | 3:15 | 2022-06-09 | 2025-01-24 |
-| [ドリーマーズビート](https://open.spotify.com/track/374paD6wZxAXIhCXkjbiQt) | [40mP](https://open.spotify.com/artist/69jNq4RZ3PvQJvMeqtdz7O) | [ドリーマーズビート](https://open.spotify.com/album/2UM50hTobeyTNCgROLjBhY) | 3:53 | 2026-06-09 |  |
+| [ドリーマーズビート](https://open.spotify.com/track/374paD6wZxAXIhCXkjbiQt) | [40mP](https://open.spotify.com/artist/69jNq4RZ3PvQJvMeqtdz7O) | [ドリーマーズビート](https://open.spotify.com/album/2UM50hTobeyTNCgROLjBhY) | 3:53 | 2026-06-09 | 2026-06-24 |
 | [ドーナツホール](https://open.spotify.com/track/6kwLcF9pDovUbmGOtHo4Ml) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [ドーナツホール](https://open.spotify.com/album/4jNxD5LWmUuwF72qG8Ekfx) | 3:25 | 2022-06-23 |  |
 | [ド屑](https://open.spotify.com/track/3DxfcE53Wf89XSftbAffFx) | [NAKISO](https://open.spotify.com/artist/0DzlKiHRe0HVfOiVlv23Rj) | [ド屑](https://open.spotify.com/album/70Qo9q6AieJMYxxAkTmBD3) | 2:00 | 2022-06-09 | 2026-06-10 |
 | [ニュートンダンス \- ナユタン星人×Chinozo](https://open.spotify.com/track/3nHhm1ovo8Dda7U4ZeqLg9) | [Nayutalien](https://open.spotify.com/artist/0U2Emr9cdZNcbqSoKoWb8c), [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [キメラ](https://open.spotify.com/album/77rEReLUqAP2TZf2krjApQ) | 3:16 | 2022-06-09 | 2022-07-29 |
@@ -501,6 +501,7 @@
 | [マーシャル・マキシマイザー](https://open.spotify.com/track/38XY1ShCSiYwDaV51sFPT9) | [柊マグネタイト](https://open.spotify.com/artist/4kmKTxjchPXGEcnpiW8iTx), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [KAF+YOU KAFU COMPILATION ALBUM シンメトリー](https://open.spotify.com/album/6ehjRidMkDZjWH82C4MbXR) | 2:43 | 2023-07-06 | 2024-04-19 |
 | [マーメイド](https://open.spotify.com/track/4DfBPN7Zv23HGvZzBdSrMz) | [monaca:factory](https://open.spotify.com/artist/4kBIGrhwGKdxCORrjYlNqE) | [マーメイド](https://open.spotify.com/album/1Lb1Eha1PSH40d9h3Ji77Y) | 3:19 | 2022-06-30 | 2022-07-03 |
 | [ミザン](https://open.spotify.com/track/6Npem5cLBk4zCDsvO6AWgp) | [バルーン](https://open.spotify.com/artist/4xAuUT1sLcUzjW7EpocCWv), [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [ミザン](https://open.spotify.com/album/6bt2g47lbqS2LFZrxvADBA) | 3:27 | 2022-06-09 | 2022-07-24 |
+| [ミュージック \(feat\. 可不\)](https://open.spotify.com/track/20izQWOsvLql59j6x6l0B5) | [MIMI](https://open.spotify.com/artist/0nwGsQzwVqdlBAg0eSNxmd), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [ミュージック \(feat\. 可不\)](https://open.spotify.com/album/1BLYYtqyHLBzkgH5ckh7X6) | 2:31 | 2026-06-23 |  |
 | [ミュージックミュージック \(feat\. 初音ミク\)](https://open.spotify.com/track/3riSzyosO5rqTIy6wGklwr) | [toa](https://open.spotify.com/artist/0GpuT5uCfbeG4IwyPLvJ7b) | [MIKU/TOA](https://open.spotify.com/album/3JmsMqb8TqftbCTAQXAexJ) | 3:41 | 2022-07-14 | 2022-07-20 |
 | [ミライどんなだろう \(feat\. 初音ミク\)](https://open.spotify.com/track/5Yi76YNCI6gav37aKqZugz) | [Mitchie M](https://open.spotify.com/artist/2MRx5cgvkudCT0FHafXcPx), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [ミライどんなだろう](https://open.spotify.com/album/7vowTD5xDgYuBSEm242RAL) | 3:29 | 2023-10-17 | 2023-11-08 |
 | [ミルククラウン・オン・ソーネチカ](https://open.spotify.com/track/2jxakPQFR2IBXVmvt5y8YB) | [YUZY](https://open.spotify.com/artist/7ddYo20mqfV4Xxzn81fmiw) | [ミルククラウン・オン・ソーネチカ](https://open.spotify.com/album/2ZOYB7FlGmoxNeGAq41iaS) | 3:36 | 2022-06-09 | 2026-04-10 |
@@ -516,6 +517,7 @@
 | [モニタリング](https://open.spotify.com/track/1iywVk6Xx1XmJwd0rExYI3) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [モニタリング](https://open.spotify.com/album/66YO0i7JPJqriHH4olIqdr) | 2:56 | 2025-03-11 |  |
 | [モニタリング \(Best Friend Remix\)](https://open.spotify.com/track/5an1RVI4IDE9xP7iBRVssg) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [モニタリング \(Best Friend Remix\)](https://open.spotify.com/album/7LeSWBUQBEBUp0mguX4fQs) | 2:58 | 2025-09-16 |  |
 | [モノクロボイス](https://open.spotify.com/track/0xlTyumYTuupeKEOzLo9Pq) | [cosMo@Bousou\-P](https://open.spotify.com/artist/62gTYZkiWxbP1fwqrGXjQ6) | [ゴシップの海](https://open.spotify.com/album/7uwwhLpgXWZBHc0QyOIarH) | 2:19 | 2022-06-09 | 2022-06-26 |
+| [ヤラララ\(YARARARA\)](https://open.spotify.com/track/7fFkLGltPEHInEHoPfT0Jf) | [AnythingBecomeMoe](https://open.spotify.com/artist/4FCvsRjFCZQYBCq7NKUIjK) | [ヤラララ\(YARARARA\)](https://open.spotify.com/album/4e75aI5UsN2ZrSVHGCBmdz) | 2:27 | 2026-06-23 |  |
 | [ユエニ](https://open.spotify.com/track/5PdhSqzAhAcPHZpyQ8r9jv) | [Yurry Canon](https://open.spotify.com/artist/1m34pv256vfYU7zY1vozJT) | [ユエニ](https://open.spotify.com/album/5B8BygziNxLzgMGjXs74M2) | 2:25 | 2022-06-14 | 2022-07-29 |
 | [ラグトレイン](https://open.spotify.com/track/6v8fX5yXd15H3xSyvVvJ5e) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [ラグトレイン](https://open.spotify.com/album/3iE960ieh1bIjcz9BlLj3W) | 4:11 | 2022-07-26 | 2022-10-14 |
 | [ラグトレイン](https://open.spotify.com/track/4bdwEiJuBhWIkPKSVjyjiA) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [ウェザーステーション](https://open.spotify.com/album/6jg2tl87TSzWMU6SXYUwsd) | 4:12 | 2022-12-13 | 2024-04-19 |
@@ -560,7 +562,7 @@
 | [不純なベンガラ](https://open.spotify.com/track/3xN6bAYDya63j0tuaTIXXJ) | [REISAI](https://open.spotify.com/artist/43y4C3MKdOnurkfODdJE2P) | [不純なベンガラ](https://open.spotify.com/album/43eiB8sDKy4v5spvmTTZdr) | 2:39 | 2022-06-30 | 2022-07-05 |
 | [乙女解剖](https://open.spotify.com/track/7Lpm4GU78jmjSrQDhiAqzJ) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [アンドロイドガール](https://open.spotify.com/album/6TPhM7fNV68heKndka6F0Q) | 3:43 | 2022-06-09 | 2024-02-03 |
 | [人が歌う曲じゃない](https://open.spotify.com/track/4dOWyhJA2QK2JHsTuEzPgz) | [SajEst](https://open.spotify.com/artist/4w5OjwRCUqwdyNT1wFGp03) | [人が歌う曲じゃない](https://open.spotify.com/album/1WCpiyvA0OxQQM9awKLLhS) | 3:37 | 2022-06-30 | 2022-07-13 |
-| [人ニアリ](https://open.spotify.com/track/0Mn34mzAZ55Q7VfdvelB0Z) | [Sasuke Haraguchi](https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3) | [イ三](https://open.spotify.com/album/2tfrYZS9JfRYZfME1K1PEg) | 1:18 | 2026-06-09 |  |
+| [人ニアリ](https://open.spotify.com/track/0Mn34mzAZ55Q7VfdvelB0Z) | [Sasuke Haraguchi](https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3) | [イ三](https://open.spotify.com/album/2tfrYZS9JfRYZfME1K1PEg) | 1:18 | 2026-06-09 | 2026-06-24 |
 | [人マニア](https://open.spotify.com/track/4H89WUjBaQMIiqcnMSVX1j) | [Sasuke Haraguchi](https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3) | [人マニア](https://open.spotify.com/album/0oUGAS1qyR8O5jbNe71uKn) | 2:07 | 2024-04-18 | 2026-06-05 |
 | [仮定した夏](https://open.spotify.com/track/3sZaa7Ia4pGRtDncfD3deL) | [Harumakigohan](https://open.spotify.com/artist/7y7byJwxSQxTOxuoAA9tcp) | [幻影EP\-Envy Phantom\-](https://open.spotify.com/album/5fzbipqPBcovgsJTdZHs9K) | 3:06 | 2022-06-23 | 2022-07-19 |
 | [個々々々々々人](https://open.spotify.com/track/1QPzvGlrRXbv3KVH2lgyJv) | [Sohbana](https://open.spotify.com/artist/1wdjWyhvXFyP3gBWVGZiS5) | [個々々々々々人](https://open.spotify.com/album/3x8GCTGhjM1RYH5Ij1woET) | 3:00 | 2026-04-09 |  |

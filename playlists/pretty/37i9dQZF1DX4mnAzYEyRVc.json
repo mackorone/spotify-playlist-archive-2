@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: La Pegatina\n",
-  "num_followers": 71340,
+  "num_followers": 71351,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
-        "name": "Frecuencia Extrema",
-        "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
-      },
-      "artists": [
-        {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Mala Vida",
-      "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
-    },
-    {
-      "added_at": "2026-03-20 06:00:11",
-      "album": {
         "name": "I Had Some Help",
         "url": "https://open.spotify.com/album/7KjCryDYEfzwFJNaL93Eb0"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 159498,
       "name": "I Had Some Help",
       "url": "https://open.spotify.com/track/16vZqHIxTpNbsI7pNVPtmw"
+    },
+    {
+      "added_at": "2026-03-20 06:00:11",
+      "album": {
+        "name": "Frecuencia Extrema",
+        "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Mala Vida",
+      "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
     },
     {
       "added_at": "2026-03-20 06:00:11",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
-        "name": "En La Tormenta",
-        "url": "https://open.spotify.com/album/6p5kmc3vUATfKoUXplaRr6"
-      },
-      "artists": [
-        {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
-        }
-      ],
-      "duration_ms": 181870,
-      "name": "Cuando Salga El Sol",
-      "url": "https://open.spotify.com/track/0qb9jQqKZbN3glPVys6Ea8"
-    },
-    {
-      "added_at": "2026-03-20 06:00:11",
-      "album": {
         "name": "Balkan Boys",
         "url": "https://open.spotify.com/album/23UxzhoU54vxIAqEFdsxI0"
       },
@@ -959,18 +943,18 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
-        "name": "Nice One",
-        "url": "https://open.spotify.com/album/1T21oXPF0l4y517iKc8uL3"
+        "name": "En La Tormenta",
+        "url": "https://open.spotify.com/album/6p5kmc3vUATfKoUXplaRr6"
       },
       "artists": [
         {
-          "name": "Catbite",
-          "url": "https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP"
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
         }
       ],
-      "duration_ms": 152173,
-      "name": "Call Your Bluff",
-      "url": "https://open.spotify.com/track/5JyRxbCEEZvs4ezsY831Bb"
+      "duration_ms": 181870,
+      "name": "Cuando Salga El Sol",
+      "url": "https://open.spotify.com/track/0qb9jQqKZbN3glPVys6Ea8"
     },
     {
       "added_at": "2026-03-20 06:00:11",
@@ -987,6 +971,22 @@
       "duration_ms": 182400,
       "name": "Spanish Bombs",
       "url": "https://open.spotify.com/track/5hRXh6FJLgjzERxIWbvm2M"
+    },
+    {
+      "added_at": "2026-03-20 06:00:11",
+      "album": {
+        "name": "Nice One",
+        "url": "https://open.spotify.com/album/1T21oXPF0l4y517iKc8uL3"
+      },
+      "artists": [
+        {
+          "name": "Catbite",
+          "url": "https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP"
+        }
+      ],
+      "duration_ms": 152173,
+      "name": "Call Your Bluff",
+      "url": "https://open.spotify.com/track/5JyRxbCEEZvs4ezsY831Bb"
     },
     {
       "added_at": "2026-03-20 06:00:11",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
-        "name": "Toro",
-        "url": "https://open.spotify.com/album/6Ml0HOZfLtluOpHM9bjik5"
-      },
-      "artists": [
-        {
-          "name": "Boikot",
-          "url": "https://open.spotify.com/artist/0wppCmJl3glHZZScLcs4gn"
-        }
-      ],
-      "duration_ms": 206613,
-      "name": "Toro",
-      "url": "https://open.spotify.com/track/2IUZYc5zUcE2jEJkH9IJJN"
-    },
-    {
-      "added_at": "2026-03-20 06:00:11",
-      "album": {
         "name": "Feel It",
         "url": "https://open.spotify.com/album/7HtUqG6QaSsbYJMd8nNpxk"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 199560,
       "name": "2-Tone Army",
       "url": "https://open.spotify.com/track/3kHgSbSSd3ZvOowtlFXNEw"
+    },
+    {
+      "added_at": "2026-03-20 06:00:11",
+      "album": {
+        "name": "Toro",
+        "url": "https://open.spotify.com/album/6Ml0HOZfLtluOpHM9bjik5"
+      },
+      "artists": [
+        {
+          "name": "Boikot",
+          "url": "https://open.spotify.com/artist/0wppCmJl3glHZZScLcs4gn"
+        }
+      ],
+      "duration_ms": 206613,
+      "name": "Toro",
+      "url": "https://open.spotify.com/track/2IUZYc5zUcE2jEJkH9IJJN"
     },
     {
       "added_at": "2026-03-20 06:00:11",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
-        "name": "Jolly Good Fellas - Best of Broilers 1994-2024",
-        "url": "https://open.spotify.com/album/6QGv5jv9VH7oRFF5is69mv"
-      },
-      "artists": [
-        {
-          "name": "Broilers",
-          "url": "https://open.spotify.com/artist/2C7RDMSpyGZFyoSnvOeU4J"
-        }
-      ],
-      "duration_ms": 202506,
-      "name": "In 80 Tagen um die Welt - Birthday Rerecordings '24",
-      "url": "https://open.spotify.com/track/4JABU1W26SfKdMloYWs1TW"
-    },
-    {
-      "added_at": "2026-03-20 06:00:11",
-      "album": {
         "name": "Random Hand",
         "url": "https://open.spotify.com/album/5IUr8JaIyJvTN4nU293VHC"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 192193,
       "name": "Devil With a Microphone",
       "url": "https://open.spotify.com/track/4oZEIKV1jFpaanyl9DneOF"
+    },
+    {
+      "added_at": "2026-03-20 06:00:11",
+      "album": {
+        "name": "Jolly Good Fellas - Best of Broilers 1994-2024",
+        "url": "https://open.spotify.com/album/6QGv5jv9VH7oRFF5is69mv"
+      },
+      "artists": [
+        {
+          "name": "Broilers",
+          "url": "https://open.spotify.com/artist/2C7RDMSpyGZFyoSnvOeU4J"
+        }
+      ],
+      "duration_ms": 202506,
+      "name": "In 80 Tagen um die Welt - Birthday Rerecordings '24",
+      "url": "https://open.spotify.com/track/4JABU1W26SfKdMloYWs1TW"
     },
     {
       "added_at": "2026-03-20 06:00:11",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
-        "name": "Gr\u00fc\u00dfe ins Neandertal",
-        "url": "https://open.spotify.com/album/4BTJeSbI5IgKeXU0B6Auup"
-      },
-      "artists": [
-        {
-          "name": "Feine Sahne Fischfilet",
-          "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
-        }
-      ],
-      "duration_ms": 106724,
-      "name": "Gr\u00fc\u00dfe ins Neandertal",
-      "url": "https://open.spotify.com/track/0ezLFIbttTjHHlhP7D1uOx"
-    },
-    {
-      "added_at": "2026-03-20 06:00:11",
-      "album": {
         "name": "STAY YOUNG STAY PUNK",
         "url": "https://open.spotify.com/album/7k8Bm7SqifQOJK9iGvCT76"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 123000,
       "name": "STAY YOUNG STAY PUNK",
       "url": "https://open.spotify.com/track/1vkAooo0F2HolXGWOnu31C"
+    },
+    {
+      "added_at": "2026-03-20 06:00:11",
+      "album": {
+        "name": "Gr\u00fc\u00dfe ins Neandertal",
+        "url": "https://open.spotify.com/album/4BTJeSbI5IgKeXU0B6Auup"
+      },
+      "artists": [
+        {
+          "name": "Feine Sahne Fischfilet",
+          "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
+        }
+      ],
+      "duration_ms": 106724,
+      "name": "Gr\u00fc\u00dfe ins Neandertal",
+      "url": "https://open.spotify.com/track/0ezLFIbttTjHHlhP7D1uOx"
     },
     {
       "added_at": "2026-03-20 06:00:11",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
-        "name": "Magam sem tudom",
-        "url": "https://open.spotify.com/album/6k6hfT293PG9NduWzLC55r"
-      },
-      "artists": [
-        {
-          "name": "Bohemian Betyars",
-          "url": "https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow"
-        }
-      ],
-      "duration_ms": 190335,
-      "name": "Magam sem tudom",
-      "url": "https://open.spotify.com/track/22xCahAMd6iR2r7AsVqnvk"
-    },
-    {
-      "added_at": "2026-03-20 06:00:11",
-      "album": {
         "name": "Looking Out For #1",
         "url": "https://open.spotify.com/album/2E3I7oPT2ioHTxa1hT43H6"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 150553,
       "name": "Looking Out For #1 - Ska Version",
       "url": "https://open.spotify.com/track/4ZBg1K6FoRm9UeOgREONMm"
+    },
+    {
+      "added_at": "2026-03-20 06:00:11",
+      "album": {
+        "name": "Magam sem tudom",
+        "url": "https://open.spotify.com/album/6k6hfT293PG9NduWzLC55r"
+      },
+      "artists": [
+        {
+          "name": "Bohemian Betyars",
+          "url": "https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow"
+        }
+      ],
+      "duration_ms": 190335,
+      "name": "Magam sem tudom",
+      "url": "https://open.spotify.com/track/22xCahAMd6iR2r7AsVqnvk"
     },
     {
       "added_at": "2026-03-20 06:00:11",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
-        "name": "El Febrero",
-        "url": "https://open.spotify.com/album/1TEaTV2ZG9dCUJznxq2QdD"
-      },
-      "artists": [
-        {
-          "name": "Lollypop Lorry",
-          "url": "https://open.spotify.com/artist/78fGkSqH726lfIWGxSg6uX"
-        }
-      ],
-      "duration_ms": 178010,
-      "name": "El Febrero",
-      "url": "https://open.spotify.com/track/27QfV2StXia4q47sioekXv"
-    },
-    {
-      "added_at": "2026-03-20 06:00:11",
-      "album": {
         "name": "\u98a8\u306b\u6226\u3050\u30d6\u30eb\u30fc\u30ba [feat.TAKUMA (10-FEET)]",
         "url": "https://open.spotify.com/album/6rtIq83ix9y8z2AeQhAoOh"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 303466,
       "name": "\u98a8\u306b\u6226\u3050\u30d6\u30eb\u30fc\u30ba - feat.TAKUMA (10-FEET)",
       "url": "https://open.spotify.com/track/1bst6b0Ax3XzPECji6z5Fq"
+    },
+    {
+      "added_at": "2026-03-20 06:00:11",
+      "album": {
+        "name": "El Febrero",
+        "url": "https://open.spotify.com/album/1TEaTV2ZG9dCUJznxq2QdD"
+      },
+      "artists": [
+        {
+          "name": "Lollypop Lorry",
+          "url": "https://open.spotify.com/artist/78fGkSqH726lfIWGxSg6uX"
+        }
+      ],
+      "duration_ms": 178010,
+      "name": "El Febrero",
+      "url": "https://open.spotify.com/track/27QfV2StXia4q47sioekXv"
     },
     {
       "added_at": "2026-03-20 06:00:11",

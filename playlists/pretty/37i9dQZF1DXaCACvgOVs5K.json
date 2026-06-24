@@ -1,6 +1,6 @@
 {
   "description": "Get ready for Ibiza season 2026. See you on the dancefloor.",
-  "num_followers": 892259,
+  "num_followers": 892505,
   "original_name": "Ibiza 2026",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,22 @@
     {
       "added_at": "2026-06-11 23:00:12",
       "album": {
+        "name": "Ride On Me",
+        "url": "https://open.spotify.com/album/5yRI7CON1FuhWmw2jRAXX4"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "duration_ms": 229845,
+      "name": "Ride On Me",
+      "url": "https://open.spotify.com/track/5WZQkHYzUGBpUCgCk9eXgA"
+    },
+    {
+      "added_at": "2026-06-11 23:00:12",
+      "album": {
         "name": "Freaky 1",
         "url": "https://open.spotify.com/album/2iI0aQO2hrnBmMDIUvrLJS"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 232093,
       "name": "Freaky 1",
       "url": "https://open.spotify.com/track/5cefCIhgIJgsG3r3LcRmwB"
-    },
-    {
-      "added_at": "2026-06-11 23:00:12",
-      "album": {
-        "name": "Ride On Me",
-        "url": "https://open.spotify.com/album/5yRI7CON1FuhWmw2jRAXX4"
-      },
-      "artists": [
-        {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
-        }
-      ],
-      "duration_ms": 229845,
-      "name": "Ride On Me",
-      "url": "https://open.spotify.com/track/5WZQkHYzUGBpUCgCk9eXgA"
     },
     {
       "added_at": "2026-06-11 23:00:12",
@@ -899,6 +899,22 @@
     {
       "added_at": "2026-06-11 23:00:12",
       "album": {
+        "name": "I Never Knew",
+        "url": "https://open.spotify.com/album/2w8spOidxh0RSjdRjXvd3r"
+      },
+      "artists": [
+        {
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        }
+      ],
+      "duration_ms": 231680,
+      "name": "I Never Knew",
+      "url": "https://open.spotify.com/track/54vF34GSMXYZfjPXMsHYWf"
+    },
+    {
+      "added_at": "2026-06-11 23:00:12",
+      "album": {
         "name": "Not Gonna Be Your Boo (feat. Robin S)",
         "url": "https://open.spotify.com/album/7BXYWdQZdWmgybac99Dwy4"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 174081,
       "name": "Love\u2019s Theme",
       "url": "https://open.spotify.com/track/6x98PZzecLKDucRBL324qT"
-    },
-    {
-      "added_at": "2026-06-11 23:00:12",
-      "album": {
-        "name": "I Never Knew",
-        "url": "https://open.spotify.com/album/2w8spOidxh0RSjdRjXvd3r"
-      },
-      "artists": [
-        {
-          "name": "Adam Ten",
-          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
-        }
-      ],
-      "duration_ms": 231680,
-      "name": "I Never Knew",
-      "url": "https://open.spotify.com/track/54vF34GSMXYZfjPXMsHYWf"
     },
     {
       "added_at": "2026-06-11 23:00:12",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-06-11 23:00:12",
       "album": {
-        "name": "Lets Get High",
-        "url": "https://open.spotify.com/album/6qQZNrcx4UiexydAqe1jXV"
-      },
-      "artists": [
-        {
-          "name": "Michael Bibi",
-          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
-        }
-      ],
-      "duration_ms": 203114,
-      "name": "Lets Get High",
-      "url": "https://open.spotify.com/track/2QhWUUeC1C53aycexa4M1u"
-    },
-    {
-      "added_at": "2026-06-11 23:00:12",
-      "album": {
         "name": "Chica",
         "url": "https://open.spotify.com/album/3lFD0mEBqBfutBdgrVdzy9"
       },
@@ -1067,6 +1051,22 @@
     {
       "added_at": "2026-06-11 23:00:12",
       "album": {
+        "name": "Lets Get High",
+        "url": "https://open.spotify.com/album/6qQZNrcx4UiexydAqe1jXV"
+      },
+      "artists": [
+        {
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+        }
+      ],
+      "duration_ms": 203114,
+      "name": "Lets Get High",
+      "url": "https://open.spotify.com/track/2QhWUUeC1C53aycexa4M1u"
+    },
+    {
+      "added_at": "2026-06-11 23:00:12",
+      "album": {
         "name": "In Da Jungle",
         "url": "https://open.spotify.com/album/6dplcmwBqhMrO1dKJw1qyz"
       },
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-06-11 23:00:12",
       "album": {
-        "name": "Work Your Body",
-        "url": "https://open.spotify.com/album/1OlYbgVXWSq1LtM1S7VWii"
-      },
-      "artists": [
-        {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
-        }
-      ],
-      "duration_ms": 186776,
-      "name": "Work Your Body",
-      "url": "https://open.spotify.com/track/2eUZAef6lJ9hBvw7XeExDf"
-    },
-    {
-      "added_at": "2026-06-11 23:00:12",
-      "album": {
         "name": "Insane",
         "url": "https://open.spotify.com/album/1nLo5LHl02hV58v4PZhyQp"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 224911,
       "name": "Insane",
       "url": "https://open.spotify.com/track/07ke5nx6iwoBo2ERqCK1Xl"
+    },
+    {
+      "added_at": "2026-06-11 23:00:12",
+      "album": {
+        "name": "Work Your Body",
+        "url": "https://open.spotify.com/album/1OlYbgVXWSq1LtM1S7VWii"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "duration_ms": 186776,
+      "name": "Work Your Body",
+      "url": "https://open.spotify.com/track/2eUZAef6lJ9hBvw7XeExDf"
     },
     {
       "added_at": "2026-06-11 23:00:12",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2026-06-11 23:00:12",
       "album": {
+        "name": "Spanish Chica",
+        "url": "https://open.spotify.com/album/04LUS5N9H4DIxFty3pUnTN"
+      },
+      "artists": [
+        {
+          "name": "MESTIZA",
+          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
+        }
+      ],
+      "duration_ms": 244918,
+      "name": "Te Doy La Libertad",
+      "url": "https://open.spotify.com/track/5ODIUPpNdmVZRjTMHa0Vjp"
+    },
+    {
+      "added_at": "2026-06-11 23:00:12",
+      "album": {
         "name": "Too Much",
         "url": "https://open.spotify.com/album/4iPr6vfBSTzI3ksPdReHbQ"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 218869,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/60N8926UPMzZTFwxq1jTse"
-    },
-    {
-      "added_at": "2026-06-11 23:00:12",
-      "album": {
-        "name": "Spanish Chica",
-        "url": "https://open.spotify.com/album/04LUS5N9H4DIxFty3pUnTN"
-      },
-      "artists": [
-        {
-          "name": "MESTIZA",
-          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
-        }
-      ],
-      "duration_ms": 244918,
-      "name": "Te Doy La Libertad",
-      "url": "https://open.spotify.com/track/5ODIUPpNdmVZRjTMHa0Vjp"
     },
     {
       "added_at": "2026-06-11 23:00:12",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-06-11 23:00:12",
       "album": {
-        "name": "That's a Vibe",
-        "url": "https://open.spotify.com/album/3nCJ7MLW17oUep7ZvW3ugz"
-      },
-      "artists": [
-        {
-          "name": "Ossie",
-          "url": "https://open.spotify.com/artist/4k2R7rFptalNPkyGEq2s9G"
-        }
-      ],
-      "duration_ms": 272681,
-      "name": "Are U Still Smiling?",
-      "url": "https://open.spotify.com/track/7bPo4vIzlcxpWadcsj7MHR"
-    },
-    {
-      "added_at": "2026-06-11 23:00:12",
-      "album": {
         "name": "make your move",
         "url": "https://open.spotify.com/album/6oRqzKDM33wGQqY2XZLUmV"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 221439,
       "name": "make your move",
       "url": "https://open.spotify.com/track/5DLDirJKT4feWxCH686VM1"
+    },
+    {
+      "added_at": "2026-06-11 23:00:12",
+      "album": {
+        "name": "That's a Vibe",
+        "url": "https://open.spotify.com/album/3nCJ7MLW17oUep7ZvW3ugz"
+      },
+      "artists": [
+        {
+          "name": "Ossie",
+          "url": "https://open.spotify.com/artist/4k2R7rFptalNPkyGEq2s9G"
+        }
+      ],
+      "duration_ms": 272681,
+      "name": "Are U Still Smiling?",
+      "url": "https://open.spotify.com/track/7bPo4vIzlcxpWadcsj7MHR"
     },
     {
       "added_at": "2026-06-11 23:00:12",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2026-06-11 23:00:12",
       "album": {
-        "name": "Front & Back Seat",
-        "url": "https://open.spotify.com/album/3prlLKT6UH9wH4zmIhiNyG"
-      },
-      "artists": [
-        {
-          "name": "Michael Bibi",
-          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
-        }
-      ],
-      "duration_ms": 171160,
-      "name": "Front & Back Seat",
-      "url": "https://open.spotify.com/track/1KyMTc7vqMotAPD21EvzBx"
-    },
-    {
-      "added_at": "2026-06-11 23:00:12",
-      "album": {
         "name": "Come Back Tomorrow",
         "url": "https://open.spotify.com/album/6DYLBwfN0mZsODrCKxxwlO"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 202017,
       "name": "Come Back Tomorrow",
       "url": "https://open.spotify.com/track/3iiXaOBE26R8jjfaE44xNt"
+    },
+    {
+      "added_at": "2026-06-11 23:00:12",
+      "album": {
+        "name": "Front & Back Seat",
+        "url": "https://open.spotify.com/album/3prlLKT6UH9wH4zmIhiNyG"
+      },
+      "artists": [
+        {
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+        }
+      ],
+      "duration_ms": 171160,
+      "name": "Front & Back Seat",
+      "url": "https://open.spotify.com/track/1KyMTc7vqMotAPD21EvzBx"
     },
     {
       "added_at": "2026-06-11 23:00:12",
@@ -1807,22 +1807,22 @@
     {
       "added_at": "2026-06-11 23:00:12",
       "album": {
-        "name": "My Wave",
-        "url": "https://open.spotify.com/album/5atD8mhDIuJ2ntR1nU0TK7"
+        "name": "Yes Bby",
+        "url": "https://open.spotify.com/album/2gifJ3lYQNUkNoa52gZqmJ"
       },
       "artists": [
         {
-          "name": "Enzo is Burning",
-          "url": "https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB"
+          "name": "Demi Riqu\u00edsimo",
+          "url": "https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac"
         },
         {
-          "name": "Benni Ola",
-          "url": "https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg"
+          "name": "Luke Alessi",
+          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
         }
       ],
-      "duration_ms": 150229,
-      "name": "My Wave",
-      "url": "https://open.spotify.com/track/152nGoY90lYhmfA0MDzxxd"
+      "duration_ms": 225000,
+      "name": "Yes Bby",
+      "url": "https://open.spotify.com/track/45qhj65d6tIlCp0x5l62OG"
     },
     {
       "added_at": "2026-06-11 23:00:12",
@@ -1847,22 +1847,22 @@
     {
       "added_at": "2026-06-11 23:00:12",
       "album": {
-        "name": "Yes Bby",
-        "url": "https://open.spotify.com/album/2gifJ3lYQNUkNoa52gZqmJ"
+        "name": "My Wave",
+        "url": "https://open.spotify.com/album/5atD8mhDIuJ2ntR1nU0TK7"
       },
       "artists": [
         {
-          "name": "Demi Riqu\u00edsimo",
-          "url": "https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac"
+          "name": "Enzo is Burning",
+          "url": "https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB"
         },
         {
-          "name": "Luke Alessi",
-          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
+          "name": "Benni Ola",
+          "url": "https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg"
         }
       ],
-      "duration_ms": 225000,
-      "name": "Yes Bby",
-      "url": "https://open.spotify.com/track/45qhj65d6tIlCp0x5l62OG"
+      "duration_ms": 150229,
+      "name": "My Wave",
+      "url": "https://open.spotify.com/track/152nGoY90lYhmfA0MDzxxd"
     },
     {
       "added_at": "2026-06-11 23:00:12",

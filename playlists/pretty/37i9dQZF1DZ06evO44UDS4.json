@@ -1,12 +1,12 @@
 {
   "description": "This is Oliver Tree. The essential tracks, all in one playlist.",
-  "num_followers": 160909,
+  "num_followers": 162116,
   "original_name": "This Is Oliver Tree",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajcpgAAAAABk7cUSoVGjSteH7eH4FQn4",
+  "snapshot_id": "ajh7AAAAAAB8SC+yAe6zrRu6d5IZoDsO",
   "tracks": [
     {
       "added_at": null,
@@ -231,22 +231,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do You Feel Me?",
-        "url": "https://open.spotify.com/album/61ySPdOmnFtNhA8M7HIBLV"
+        "name": "Love You Madly Hate You Badly",
+        "url": "https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt"
       },
       "artists": [
         {
           "name": "Oliver Tree",
           "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        },
-        {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
         }
       ],
-      "duration_ms": 187754,
-      "name": "Do You Feel Me?",
-      "url": "https://open.spotify.com/track/2O7itneeXoILR304z8zzev"
+      "duration_ms": 198433,
+      "name": "Superhero",
+      "url": "https://open.spotify.com/track/2mMZ7bbyImtgDGRebOYpNd"
     },
     {
       "added_at": null,
@@ -283,6 +279,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Do You Feel Me?",
+        "url": "https://open.spotify.com/album/61ySPdOmnFtNhA8M7HIBLV"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        }
+      ],
+      "duration_ms": 187754,
+      "name": "Do You Feel Me?",
+      "url": "https://open.spotify.com/track/2O7itneeXoILR304z8zzev"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love You Madly Hate You Badly",
         "url": "https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 217012,
       "name": "Sideways",
       "url": "https://open.spotify.com/track/2DdxVSxtbNWLw2ssJe8e9n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/6ntiN9XM2spnHlYlUoUv1x"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 148673,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/08QEqWbqIrTw7i492SghLq"
     },
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love You Madly Hate You Badly",
-        "url": "https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt"
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/6ntiN9XM2spnHlYlUoUv1x"
       },
       "artists": [
         {
@@ -360,57 +360,9 @@
           "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
         }
       ],
-      "duration_ms": 198433,
-      "name": "Superhero",
-      "url": "https://open.spotify.com/track/2mMZ7bbyImtgDGRebOYpNd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
-        "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 150678,
-      "name": "Lies Came Out My Mouth",
-      "url": "https://open.spotify.com/track/6AAURjeIX1qMn36jFLbCru"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cowboy Tears",
-        "url": "https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 153366,
-      "name": "Cigarettes",
-      "url": "https://open.spotify.com/track/1OvVeke9uOLsgXbVG0aDBt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ugly is Beautiful",
-        "url": "https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 185022,
-      "name": "I'm Gone",
-      "url": "https://open.spotify.com/track/6Em6BtxvTsQrXFsFVzAEym"
+      "duration_ms": 148673,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/08QEqWbqIrTw7i492SghLq"
     },
     {
       "added_at": null,
@@ -431,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All You Ever Wanted",
-        "url": "https://open.spotify.com/album/4KUpiZ42WqvNZ5gT3ZfNRm"
+        "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
+        "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
       },
       "artists": [
         {
@@ -440,9 +392,25 @@
           "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
         }
       ],
-      "duration_ms": 119934,
-      "name": "All You Ever Wanted",
-      "url": "https://open.spotify.com/track/4TLx9SRerOh8eKkNEJ8Bty"
+      "duration_ms": 150678,
+      "name": "Lies Came Out My Mouth",
+      "url": "https://open.spotify.com/track/6AAURjeIX1qMn36jFLbCru"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ugly is Beautiful",
+        "url": "https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 185022,
+      "name": "I'm Gone",
+      "url": "https://open.spotify.com/track/6Em6BtxvTsQrXFsFVzAEym"
     },
     {
       "added_at": null,
@@ -456,9 +424,41 @@
           "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
         }
       ],
-      "duration_ms": 179264,
-      "name": "Swing & A Miss",
-      "url": "https://open.spotify.com/track/1572zYzvWUopUEbwmjeLiO"
+      "duration_ms": 153366,
+      "name": "Cigarettes",
+      "url": "https://open.spotify.com/track/1OvVeke9uOLsgXbVG0aDBt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love You Madly Hate You Badly",
+        "url": "https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 178492,
+      "name": "Glow On",
+      "url": "https://open.spotify.com/track/1iGx5ExhCxY0mgTaLqWyhn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All You Ever Wanted",
+        "url": "https://open.spotify.com/album/4KUpiZ42WqvNZ5gT3ZfNRm"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 119934,
+      "name": "All You Ever Wanted",
+      "url": "https://open.spotify.com/track/4TLx9SRerOh8eKkNEJ8Bty"
     },
     {
       "added_at": null,
@@ -483,38 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love You Madly Hate You Badly",
-        "url": "https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 178492,
-      "name": "Glow On",
-      "url": "https://open.spotify.com/track/1iGx5ExhCxY0mgTaLqWyhn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alone In A Crowd",
-        "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 163392,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/44KmuZ16Pj6t9vCenzwxxa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cowboy Tears",
         "url": "https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC"
       },
@@ -524,25 +492,9 @@
           "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
         }
       ],
-      "duration_ms": 140824,
-      "name": "Freaks & Geeks",
-      "url": "https://open.spotify.com/track/6SXMyJ44dyZo4Vz34ikIzG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cowboy Tears Drown the World in a Swimming Pool of Sorrow (Deluxe)",
-        "url": "https://open.spotify.com/album/3HnZ8f1qXz3I9XrLAxOnSv"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 120194,
-      "name": "Mind Control",
-      "url": "https://open.spotify.com/track/70Hi6JJq98794TMe1IeIAH"
+      "duration_ms": 179264,
+      "name": "Swing & A Miss",
+      "url": "https://open.spotify.com/track/1572zYzvWUopUEbwmjeLiO"
     },
     {
       "added_at": null,
@@ -563,6 +515,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alone In A Crowd",
+        "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 163392,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/44KmuZ16Pj6t9vCenzwxxa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cowboy Tears Drown the World in a Swimming Pool of Sorrow (Deluxe)",
+        "url": "https://open.spotify.com/album/3HnZ8f1qXz3I9XrLAxOnSv"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 120194,
+      "name": "Mind Control",
+      "url": "https://open.spotify.com/track/70Hi6JJq98794TMe1IeIAH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cowboy Tears",
+        "url": "https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 140824,
+      "name": "Freaks & Geeks",
+      "url": "https://open.spotify.com/track/6SXMyJ44dyZo4Vz34ikIzG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Here We Go Again",
         "url": "https://open.spotify.com/album/1MIlk0URqciXoiT8xqLzZf"
       },
@@ -579,22 +579,6 @@
       "duration_ms": 164541,
       "name": "Here We Go Again",
       "url": "https://open.spotify.com/track/3WsbAGQt6HgTj9kg6f466M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cowboy Tears",
-        "url": "https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 157600,
-      "name": "Things We Used To Do",
-      "url": "https://open.spotify.com/track/55DDIEeRHXfVh1qnhNMJAN"
     },
     {
       "added_at": null,
@@ -627,6 +611,22 @@
       "duration_ms": 165523,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/01PiUx0e8rAKQIka0w8PQa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cowboy Tears",
+        "url": "https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 157600,
+      "name": "Things We Used To Do",
+      "url": "https://open.spotify.com/track/55DDIEeRHXfVh1qnhNMJAN"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cowboy Tears",
-        "url": "https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 148365,
-      "name": "Playing With Fire",
-      "url": "https://open.spotify.com/track/3yG3qyAffoYLExAjhZTuJG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joyride",
         "url": "https://open.spotify.com/album/3MeGMRZzJ4Ij5Jj55oBG1r"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 150790,
       "name": "Joyride",
       "url": "https://open.spotify.com/track/7AkPhGsAWtMczTvSYH65q3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cowboy Tears",
+        "url": "https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 148365,
+      "name": "Playing With Fire",
+      "url": "https://open.spotify.com/track/3yG3qyAffoYLExAjhZTuJG"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deep End",
-        "url": "https://open.spotify.com/album/1TwEYzYp5T5lKcsR09D9EZ"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 150255,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/43AOW7GMURYgHE1KFNjLZJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ULTRAMAN (From The Netflix Film \"Ultraman: Rising\")",
         "url": "https://open.spotify.com/album/7rZoGRmY7hcAlozzSEdjJH"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 204000,
       "name": "ULTRAMAN - From The Netflix Film \"Ultraman: Rising\"",
       "url": "https://open.spotify.com/track/6qjUr0g56tRAWRdQ3IQYdL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/1TwEYzYp5T5lKcsR09D9EZ"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 150255,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/43AOW7GMURYgHE1KFNjLZJ"
     },
     {
       "added_at": null,

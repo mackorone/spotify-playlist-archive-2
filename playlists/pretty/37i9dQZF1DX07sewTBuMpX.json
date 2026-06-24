@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: Langa",
-  "num_followers": 141386,
+  "num_followers": 141395,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -715,26 +715,6 @@
     {
       "added_at": "2026-06-11 07:46:46",
       "album": {
-        "name": "Hyp\u00e9 (feat. Ayra Starr)",
-        "url": "https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 157402,
-      "name": "Hyp\u00e9 (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J"
-    },
-    {
-      "added_at": "2026-06-11 07:46:46",
-      "album": {
         "name": "Reset The Levels IV",
         "url": "https://open.spotify.com/album/3dEZIui3bc00F6i1naifeE"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 196389,
       "name": "100 BOTTLES",
       "url": "https://open.spotify.com/track/3VAke2ytnjRHsOymqBfhbr"
+    },
+    {
+      "added_at": "2026-06-11 07:46:46",
+      "album": {
+        "name": "Hyp\u00e9 (feat. Ayra Starr)",
+        "url": "https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 157402,
+      "name": "Hyp\u00e9 (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J"
     },
     {
       "added_at": "2026-06-11 07:46:46",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2026-06-11 07:46:46",
       "album": {
-        "name": "Afterparty",
-        "url": "https://open.spotify.com/album/0G2EyFZBx9YTCx1BAOknTU"
-      },
-      "artists": [
-        {
-          "name": "Chavant\u00e9",
-          "url": "https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN"
-        },
-        {
-          "name": "Kleine John",
-          "url": "https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M"
-        }
-      ],
-      "duration_ms": 155381,
-      "name": "Afterparty",
-      "url": "https://open.spotify.com/track/3DsLjf29C93KN8Fu9rlrHW"
-    },
-    {
-      "added_at": "2026-06-11 07:46:46",
-      "album": {
         "name": "Je Bent Leuk",
         "url": "https://open.spotify.com/album/0ylQLQW9UUNOs0uINvTkgt"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 122812,
       "name": "Je Bent Leuk",
       "url": "https://open.spotify.com/track/4ZI2g8wtdJOLdPf6TFwitA"
+    },
+    {
+      "added_at": "2026-06-11 07:46:46",
+      "album": {
+        "name": "Afterparty",
+        "url": "https://open.spotify.com/album/0G2EyFZBx9YTCx1BAOknTU"
+      },
+      "artists": [
+        {
+          "name": "Chavant\u00e9",
+          "url": "https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN"
+        },
+        {
+          "name": "Kleine John",
+          "url": "https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M"
+        }
+      ],
+      "duration_ms": 155381,
+      "name": "Afterparty",
+      "url": "https://open.spotify.com/track/3DsLjf29C93KN8Fu9rlrHW"
     },
     {
       "added_at": "2026-06-11 07:46:46",

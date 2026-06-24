@@ -2,7 +2,7 @@
 
 ### [crash out](https://open.spotify.com/playlist/37i9dQZF1DXcbAIldMQMIs)
 
-> screaming at lucy through the screen like she can hear us
+> we choose the bear
 
 394 songs - 21 hr 47 min
 

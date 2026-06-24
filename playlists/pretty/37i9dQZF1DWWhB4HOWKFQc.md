@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: no na
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,505,202 likes - 98 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,505,376 likes - 98 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 51 | [Surabaya](https://open.spotify.com/track/2g7n0uQwR9vJGRLNTCSNbU) | [Crayon Case](https://open.spotify.com/artist/5vjmcREJLxyDVkcb0KjNz9) | [Surabaya](https://open.spotify.com/album/5fgez4GkSpklmXKWsz63Sn) | 3:58 |
 | 52 | [Kosong](https://open.spotify.com/track/4EhTIOXTXafB1aUwWy3T7N) | [Societeit de Harmonie](https://open.spotify.com/artist/1KH1jCwChcxJG9GKUUfCt9), [Natasya Elvira](https://open.spotify.com/artist/6lNWlJEtPCkkWE6P17fUIw), [Jamie Aditya](https://open.spotify.com/artist/0WZFzBhmkw96pBkN2km2aE) | [BILANGAN](https://open.spotify.com/album/2c4mAUQr191ZXD8Ol7u0kL) | 2:19 |
 | 53 | [Bulan Bintang, Garis Menyilang](https://open.spotify.com/track/4XjtlZNz9eOA55q3Em4P3B) | [Wijaya 80](https://open.spotify.com/artist/1ZaYY3Ad5D5KYahXT594BX), [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Bulan Bintang, Garis Menyilang](https://open.spotify.com/album/2yz71Y5q037CryRvOsILS9) | 5:32 |
-| 54 | [Benci Untuk Mencinta](https://open.spotify.com/track/65PjFLm6X567f52At4CI1N) | [Naif](https://open.spotify.com/artist/3t2LjYxAwE15Xm7Gx6Yki4) | [Retropolis \- City Of Joy](https://open.spotify.com/album/2WhmHOuv105dRcvCnCRyCR) | 4:00 |
+| 54 | [Benci Untuk Mencinta](https://open.spotify.com/track/65PjFLm6X567f52At4CI1N) | [Naif](https://open.spotify.com/artist/69kihYAcQNLmqq6uJWulyP) | [Retropolis \- City Of Joy](https://open.spotify.com/album/2WhmHOuv105dRcvCnCRyCR) | 4:00 |
 | 55 | [Ancika \- Original Soundtrack Dilan ITB 1997](https://open.spotify.com/track/1ap7BXSR0cpWezixdAzfT9) | [Ariel NOAH](https://open.spotify.com/artist/5YrZrapAjJbpikrp3JEmMF) | [Ancika \(Original Soundtrack Dilan ITB 1997\)](https://open.spotify.com/album/2FAe6WqwK377VOzUXO9ug8) | 3:18 |
 | 56 | [Ruang Rindu](https://open.spotify.com/track/5YqNW4AWK7bN9i2758EWCr) | [Rakhano](https://open.spotify.com/artist/2zOBXLlMHApdurk2Mv1Cc4) | [Ruang Rindu](https://open.spotify.com/album/6U8T26jUnHW3pSKHXkuBMz) | 3:53 |
 | 57 | [senang dengar suaramu lagi \- Original Soundtrack Dilan ITB 1997](https://open.spotify.com/track/6WtShjwKjMasfkb6SyjRY4) | [Ariel NOAH](https://open.spotify.com/artist/5YrZrapAjJbpikrp3JEmMF), [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [senang dengar suaramu lagi \(Original Soundtrack Dilan ITB 1997\)](https://open.spotify.com/album/4MsJMhOJAJMWqa6z7RseUK) | 4:17 |

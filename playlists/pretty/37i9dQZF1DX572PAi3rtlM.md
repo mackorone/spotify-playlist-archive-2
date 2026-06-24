@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 
 > Italian funk, disco and jazz, recent and old\. Hand\-picked by actual Italians\. 🌙
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,668 likes - 85 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,677 likes - 85 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 | 8 | [Amante Amore \- 2001 Remaster](https://open.spotify.com/track/3tXIEs16RwWPAUFRlTNsHm) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Mina Con Bignè](https://open.spotify.com/album/6Vr7nGNdoBMVARLtaNuyTQ) | 4:12 |
 | 9 | [Sotto 'O Sole \- Remastered 2008](https://open.spotify.com/track/65b1grxF14pAq2jzcPDUPS) | [Pino Daniele](https://open.spotify.com/artist/2eFv7NVs8R6Go7msuqikeg) | [Nero A Metà](https://open.spotify.com/album/6QyOTma5ECfOpdVXlIKNre) | 2:59 |
 | 10 | [Appuntamento al mare \- Remastered 2022](https://open.spotify.com/track/1cXpSckmX6kpwwxOaQ61UC) | [Riz Ortolani](https://open.spotify.com/artist/5D3YOC6ffqe2wDikuU9ljG) | [Le ore nude \(Original Motion Picture Soundtrack / Remastered 2022\)](https://open.spotify.com/album/0bds6CIDJWikmmwJYC7ONe) | 2:30 |
-| 11 | [La voglia, la pazzia](https://open.spotify.com/track/1Sr4RnfU7JVaRKuhNrfI5h) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv), [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd) | [La voglia la pazzia l'incoscienza l'allegria](https://open.spotify.com/album/5O6YBiSMJZ4qB5opZCJHGH) | 2:53 |
+| 11 | [La voglia, la pazzia \(Se ela quisesse\)](https://open.spotify.com/track/1Sr4RnfU7JVaRKuhNrfI5h) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv), [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd) | [La voglia la pazzia l'incoscienza l'allegria](https://open.spotify.com/album/5O6YBiSMJZ4qB5opZCJHGH) | 2:53 |
 | 12 | [Non C’è Sole](https://open.spotify.com/track/1vpyiwwkl2sof0egH6I2qd) | [Armando Cusopoli](https://open.spotify.com/artist/21KeJZe4mic75K8BYiaZOX) | [Napoli Segreta Vol.2](https://open.spotify.com/album/4OFycCEd9tvzBSXGc3tVaG) | 3:42 |
 | 13 | [Napule Canta E More](https://open.spotify.com/track/3qNtGvCC1tgeZFK9ClBz4k) | [Donatella Viggiano](https://open.spotify.com/artist/4FFwzgDJc7AaKVPYxQzwjk) | [Napoli Segreta](https://open.spotify.com/album/7wG7cketLF1ZzMAPWa2fcl) | 2:54 |
 | 14 | [Sabato Italiano](https://open.spotify.com/track/6yOSX613mf0t3b6kTiYSIO) | [I Coccodrilli](https://open.spotify.com/artist/5I5o3vDgR1eCtGcyW2IYZR), [Whodamanny](https://open.spotify.com/artist/2qy5mylsZfOZcHYmzrOUIY), [Milord](https://open.spotify.com/artist/3Vq6kuFglDGxatnDILEHjL) | [Sabato italiano](https://open.spotify.com/album/7jgBsFqhHEmuDumoqcOZiD) | 4:33 |

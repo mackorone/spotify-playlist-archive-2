@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "The Red Shoes",
+        "url": "https://open.spotify.com/album/1YFk4j3zQGogLjOC5YZ19i"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257111,
+      "name": "And So Is Love - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/636xq3U1tZUi4wHL2h7Jfp"
+    },
+    {
+      "album": {
         "name": "Never for Ever (2018 Remaster)",
         "url": "https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt"
       },
@@ -718,7 +736,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 586693,
       "name": "Snowflake",
       "url": "https://open.spotify.com/track/7o53vC5HqQpTBDzGTMNMzW"

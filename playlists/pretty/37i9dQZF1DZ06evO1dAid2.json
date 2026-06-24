@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajcpgAAAAADk5yL0xMuODINkYZxua5Qi",
+  "snapshot_id": "ajh7AAAAAAC9vCKamPDQIRwucr7jzp7Z",
   "tracks": [
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "St. Louis To Liverpool",
-        "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 155933,
-      "name": "Little Marie",
-      "url": "https://open.spotify.com/track/3Hh5o5GUOveghI5l7DrvgT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chuck Berry In London",
         "url": "https://open.spotify.com/album/7iSQ8Jg0DA18JCl4SqpDEW"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 109466,
       "name": "Dear Dad - Single Version",
       "url": "https://open.spotify.com/track/6b27e8J1dUre0H9xBM9rvs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "St. Louis To Liverpool",
+        "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 155933,
+      "name": "Little Marie",
+      "url": "https://open.spotify.com/track/3Hh5o5GUOveghI5l7DrvgT"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "St. Louis To Liverpool",
-        "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 178106,
-      "name": "Go Bobby Soxer",
-      "url": "https://open.spotify.com/track/4thIUA9RxwUcsjiUVo33Lt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hail! Hail! Rock 'N' Roll",
         "url": "https://open.spotify.com/album/3vbjfGvgC1nMGmpBPdDuOV"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 314133,
       "name": "Wee Wee Hours",
       "url": "https://open.spotify.com/track/2Fv6Dka7LJKU6U5X1cMTzC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "St. Louis To Liverpool",
+        "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 178106,
+      "name": "Go Bobby Soxer",
+      "url": "https://open.spotify.com/track/4thIUA9RxwUcsjiUVo33Lt"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 146760,
-      "name": "House Of Blue Lights",
-      "url": "https://open.spotify.com/track/0iVcJZ8bjL82406m2og7Df"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "St. Louis To Liverpool",
         "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 129840,
       "name": "You Two",
       "url": "https://open.spotify.com/track/3TuiKidTSxOK2bk9RPhrpN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 146760,
+      "name": "House Of Blue Lights",
+      "url": "https://open.spotify.com/track/0iVcJZ8bjL82406m2og7Df"
     },
     {
       "added_at": null,

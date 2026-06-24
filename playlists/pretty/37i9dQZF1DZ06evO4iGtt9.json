@@ -1,12 +1,12 @@
 {
   "description": "This is Timaya. The essential tracks, all in one playlist.",
-  "num_followers": 9437,
+  "num_followers": 9440,
   "original_name": "This Is Timaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajcpgAAAAACxVqAXMt+ZHEiq+l34x0Zo",
+  "snapshot_id": "ajh7AAAAAABcmm59kRt9Cq8ZEmodwgL+",
   "tracks": [
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "To U",
-        "url": "https://open.spotify.com/album/6tkSO3PtZ5RixzZCym2Kj9"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 224444,
-      "name": "To U",
-      "url": "https://open.spotify.com/track/5maDUHK9DBDs9m7Bkkzedr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "IN MY HEAD",
         "url": "https://open.spotify.com/album/5dI959e51lkReZI50si0ef"
       },
@@ -547,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Story",
-        "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
+        "name": "To U",
+        "url": "https://open.spotify.com/album/6tkSO3PtZ5RixzZCym2Kj9"
       },
       "artists": [
         {
@@ -556,9 +540,25 @@
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 249312,
-      "name": "Dem Mama",
-      "url": "https://open.spotify.com/track/5dFakr97SUs0pcVMYY6a3c"
+      "duration_ms": 224444,
+      "name": "To U",
+      "url": "https://open.spotify.com/track/5maDUHK9DBDs9m7Bkkzedr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SWEET US",
+        "url": "https://open.spotify.com/album/0nATH3H1PvnLT1TZBWRgo6"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "SWEET US",
+      "url": "https://open.spotify.com/track/1mSci6u4udZB5rtU6tGMma"
     },
     {
       "added_at": null,
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SWEET US",
-        "url": "https://open.spotify.com/album/0nATH3H1PvnLT1TZBWRgo6"
+        "name": "True Story",
+        "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 157500,
-      "name": "SWEET US",
-      "url": "https://open.spotify.com/track/1mSci6u4udZB5rtU6tGMma"
+      "duration_ms": 249312,
+      "name": "Dem Mama",
+      "url": "https://open.spotify.com/track/5dFakr97SUs0pcVMYY6a3c"
     },
     {
       "added_at": null,
@@ -839,26 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kolapiano Vol. 2 (Isakaba) [Remix]",
-        "url": "https://open.spotify.com/album/4TWNyfcpzx6KpslXS6tbsa"
-      },
-      "artists": [
-        {
-          "name": "Kolaboy",
-          "url": "https://open.spotify.com/artist/6RY4M12pquQEV6wgI6yAeR"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 194871,
-      "name": "Kolapiano Vol. 2 (Isakaba) [Remix]",
-      "url": "https://open.spotify.com/track/52ElzQdgioD0OfBYqFe9RM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Solidstar",
         "url": "https://open.spotify.com/album/7ArDChlfOAGE3jBOe507xq"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 218305,
       "name": "My Body",
       "url": "https://open.spotify.com/track/3IjY93g9VbfEyLRuEeRec7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kolapiano Vol. 2 (Isakaba) [Remix]",
+        "url": "https://open.spotify.com/album/4TWNyfcpzx6KpslXS6tbsa"
+      },
+      "artists": [
+        {
+          "name": "Kolaboy",
+          "url": "https://open.spotify.com/artist/6RY4M12pquQEV6wgI6yAeR"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 194871,
+      "name": "Kolapiano Vol. 2 (Isakaba) [Remix]",
+      "url": "https://open.spotify.com/track/52ElzQdgioD0OfBYqFe9RM"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-632 songs - 1 day 18 hr 39 min
+633 songs - 1 day 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -417,6 +417,7 @@
 | [My Lover \(Live\)](https://open.spotify.com/track/2GYMuD74LVwPQRz5KrFzid) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [My Lover \(Live\)](https://open.spotify.com/album/2C37Rmrh9wdDDFNii8pfCq) | 7:15 | 2025-02-14 |  |
 | [My Pillar](https://open.spotify.com/track/5K18ZkoykiQ3Uag98eolys) | [Sini Dagana](https://open.spotify.com/artist/4Qe3zkPW4YTQrde2Ef0dJb) | [My Pillar](https://open.spotify.com/album/0vuFyq5Bq4zZ5Mz70KY9JS) | 3:32 | 2025-12-05 | 2026-01-15 |
 | [My Provider](https://open.spotify.com/track/6oq8KX1V0nCwOLXuKplM4h) | [Rachel K](https://open.spotify.com/artist/5l8RuqUL0kJ3w14uWdPB2p) | [My Provider](https://open.spotify.com/album/1glzHahEYSlcvQZNiGkvfJ) | 6:13 | 2025-02-07 | 2025-03-21 |
+| [My Thank You](https://open.spotify.com/track/2ZhFqLe4RLezTAfR8idwzX) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4) | [My Thank You](https://open.spotify.com/album/4wsf5yxLcfZFjLrvkij6qI) | 3:33 | 2026-06-19 |  |
 | [My Worship](https://open.spotify.com/track/2DYO2AVcFlSlO7AjDWZz0k) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21) | [My Worship](https://open.spotify.com/album/5PUyR9iA9CoQVeRe6HWFLx) | 3:36 | 2025-10-03 | 2025-11-07 |
 | [Na Only Me Know](https://open.spotify.com/track/1Dqzildz8aeOKsVWdPZOjH) | [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h), [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV) | [Na Only Me Know](https://open.spotify.com/album/6ESZpB5iJUCma2fBqJZzl3) | 6:10 | 2025-12-05 | 2026-01-15 |
 | [Na Who You Be](https://open.spotify.com/track/5HeTS1sl4kfR8IC34EvQPK) | [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Come and See / Na Who You Be](https://open.spotify.com/album/7y06rcPwJmbHVibiNWEjCa) | 2:43 | 2025-03-28 | 2025-06-20 |
@@ -448,7 +449,7 @@
 | [Ogo](https://open.spotify.com/track/48cvOppznTu76T12L5RCF9) | [Kent Edunjobi](https://open.spotify.com/artist/4MYsXi8hLzpmPBIIYD1EIE) | [Ogo](https://open.spotify.com/album/1d9pKspTWQ5AryZa5XBaHj) | 6:18 | 2024-11-15 | 2025-02-07 |
 | [Oh My God O](https://open.spotify.com/track/1bv4gai9axfY4EQ9QHrDzz) | [Enkay Ogboruche](https://open.spotify.com/artist/3v1qozG4k1E878TKsLr6eX) | [Oh My God O](https://open.spotify.com/album/5Wtcxl8vZfenmHPa3LWhLF) | 5:47 | 2025-12-12 | 2026-02-27 |
 | [Oh My Soul](https://open.spotify.com/track/5v8dMFDfK1i9ssKKfWJNCD) | [Godfrey Gad](https://open.spotify.com/artist/4Q1PLV0sUS4xUzFwpFUvFh), [Sound Of Salem](https://open.spotify.com/artist/4wXOaCc4CN80m9xcjkmL6I), [Pst\. Oche Ogebe](https://open.spotify.com/artist/5SQMtRHIHAZyzx8isNKbSk) | [Oh My Soul](https://open.spotify.com/album/0kCQtj3r882jtLDX7TvxUy) | 2:52 | 2026-05-15 |  |
-| [OINS MOI ENCORE](https://open.spotify.com/track/6Nr1IHqWZllh494l9DIxEM) | [Marius Psalmiste](https://open.spotify.com/artist/7D5oRKDVOHKULH718U6hOf) | [OINS MOI ENCORE](https://open.spotify.com/album/0ykgQXzMWGzVH0dhO3g4e9) | 5:36 | 2026-05-22 |  |
+| [OINS MOI ENCORE](https://open.spotify.com/track/6Nr1IHqWZllh494l9DIxEM) | [Marius Psalmiste](https://open.spotify.com/artist/7D5oRKDVOHKULH718U6hOf) | [OINS MOI ENCORE](https://open.spotify.com/album/0ykgQXzMWGzVH0dhO3g4e9) | 5:36 | 2026-05-22 | 2026-06-24 |
 | [Olorun Agbaye \- You Are Mighty](https://open.spotify.com/track/0gDyskuhux7JfUcGzn0gY9) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Oba](https://open.spotify.com/artist/4hgB1AKdR6ewQkpeQN1bTA) | [Hallelujah Again \(Revelation 19:3\)](https://open.spotify.com/album/5HjyQX3GmSbNBL1bG3D6Gf) | 7:16 | 2024-09-27 | 2025-02-28 |
 | [Olurapada](https://open.spotify.com/track/2js7F5DvF0thAggs9An2rP) | [Paul Akadi](https://open.spotify.com/artist/2cbc9yq0kt2sTJJQLlMD6s), [Pelumi Deborah](https://open.spotify.com/artist/4UEAcfckZercWHlnw0jdOx) | [Olurapada](https://open.spotify.com/album/1fGgeIsErNuXGDeKqLApfd) | 5:14 | 2025-08-15 | 2025-09-26 |
 | [Oluwa is Involved](https://open.spotify.com/track/3RnsjEScubf0TKdH2HP1oP) | [Faith Child](https://open.spotify.com/artist/0FMlGMImrFqeOL7ykcYdZy), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Oluwa is Involved](https://open.spotify.com/album/47TponZngaYl10SgRs5jrJ) | 3:08 | 2025-06-06 | 2025-07-04 |

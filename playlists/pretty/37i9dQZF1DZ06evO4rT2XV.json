@@ -1,13 +1,129 @@
 {
   "description": "This is Katia & Marielle Lab\u00e8que. The essential tracks, all in one playlist.",
-  "num_followers": 73,
+  "num_followers": 75,
   "original_name": "This Is Katia & Marielle Lab\u00e8que",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajcpgAAAAAAAhyK83vOg/BxZBi7YwfgF",
+  "snapshot_id": "ajh7AAAAAACuaBDujEc4VgU/+MJ0ovWc",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sommernachtskonzert 2016 / Summer Night Concert 2016",
+        "url": "https://open.spotify.com/album/63DioeEbSQD6qDTeS1Piv6"
+      },
+      "artists": [
+        {
+          "name": "Francis Poulenc",
+          "url": "https://open.spotify.com/artist/4IAWVxo2fpTBPn6k7GZ3eY"
+        },
+        {
+          "name": "Semyon Bychkov",
+          "url": "https://open.spotify.com/artist/6qg886AZaBjnfRF5tEs4Ht"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Katia & Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
+        }
+      ],
+      "duration_ms": 307226,
+      "name": "Concerto for 2 Pianos and Orchestra in D Minor, FP 61: II. Larghetto",
+      "url": "https://open.spotify.com/track/2EnlrIJbq1igbjX3smlFSw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NAZARENO! Bernstein, Stravinsky, Golijov",
+        "url": "https://open.spotify.com/album/7zYvpiRDw9s30IRyNUTSVU"
+      },
+      "artists": [
+        {
+          "name": "Osvaldo Golijov",
+          "url": "https://open.spotify.com/artist/4MFSQmb7Y47xW7JJmJboCv"
+        },
+        {
+          "name": "Sir Simon Rattle",
+          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Katia & Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
+        },
+        {
+          "name": "Gonzalo Grau",
+          "url": "https://open.spotify.com/artist/0kHkqT79Moy6COGdjZdiLI"
+        },
+        {
+          "name": "Rapha\u00ebl S\u00e9guinier",
+          "url": "https://open.spotify.com/artist/1Xt69R2zhzFWAuSGN78rxJ"
+        }
+      ],
+      "duration_ms": 235840,
+      "name": "Nazareno: II. Tambor en blanco y negro (Arr. Gonzalo Grau)",
+      "url": "https://open.spotify.com/track/6uxlO2T1TFulpNhi9r8dQ1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sisters",
+        "url": "https://open.spotify.com/album/17lELLYOvxjy8CM6TjJxJb"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Luis Mont\u00f3n",
+          "url": "https://open.spotify.com/artist/1oioXBS3TyOjlS0cG3WG91"
+        },
+        {
+          "name": "Mayte Martin",
+          "url": "https://open.spotify.com/artist/3sDu0EmS1aAWSsRwn1ZcQd"
+        },
+        {
+          "name": "Katia & Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
+        }
+      ],
+      "duration_ms": 176173,
+      "name": "Int\u00e9ntalo Encontrar",
+      "url": "https://open.spotify.com/track/2fHvq1WZYX9NCe9YtFiF3n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Classical Study: Minimalism",
+        "url": "https://open.spotify.com/album/6TtbtF7TWYZH3H5Vedc6Yc"
+      },
+      "artists": [
+        {
+          "name": "David Chalmin",
+          "url": "https://open.spotify.com/artist/7JLeeI3o762IePxWjgs6MT"
+        },
+        {
+          "name": "Katia & Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
+        },
+        {
+          "name": "Rapha\u00ebl Seguinier",
+          "url": "https://open.spotify.com/artist/3PWCvY1xg68UCLnviD8rFy"
+        },
+        {
+          "name": "Nicola Tescari",
+          "url": "https://open.spotify.com/artist/0c3LvuiTNcaDYbkaVFwLSW"
+        }
+      ],
+      "duration_ms": 366391,
+      "name": "Gameland",
+      "url": "https://open.spotify.com/track/0hgks30iXkIyju4sGXtCh7"
+    },
     {
       "added_at": null,
       "album": {
@@ -71,122 +187,6 @@
       "duration_ms": 339573,
       "name": "Nazareno: IV. Sur (Arr. Gonzalo Grau)",
       "url": "https://open.spotify.com/track/1WoWOBY8XTOTRvf3gHJsI3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sisters",
-        "url": "https://open.spotify.com/album/17lELLYOvxjy8CM6TjJxJb"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Luis Mont\u00f3n",
-          "url": "https://open.spotify.com/artist/1oioXBS3TyOjlS0cG3WG91"
-        },
-        {
-          "name": "Mayte Martin",
-          "url": "https://open.spotify.com/artist/3sDu0EmS1aAWSsRwn1ZcQd"
-        },
-        {
-          "name": "Katia & Marielle Lab\u00e8que",
-          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
-        }
-      ],
-      "duration_ms": 176173,
-      "name": "Int\u00e9ntalo Encontrar",
-      "url": "https://open.spotify.com/track/2fHvq1WZYX9NCe9YtFiF3n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Classical Study: Minimalism",
-        "url": "https://open.spotify.com/album/6TtbtF7TWYZH3H5Vedc6Yc"
-      },
-      "artists": [
-        {
-          "name": "David Chalmin",
-          "url": "https://open.spotify.com/artist/7JLeeI3o762IePxWjgs6MT"
-        },
-        {
-          "name": "Katia & Marielle Lab\u00e8que",
-          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
-        },
-        {
-          "name": "Rapha\u00ebl Seguinier",
-          "url": "https://open.spotify.com/artist/3PWCvY1xg68UCLnviD8rFy"
-        },
-        {
-          "name": "Nicola Tescari",
-          "url": "https://open.spotify.com/artist/0c3LvuiTNcaDYbkaVFwLSW"
-        }
-      ],
-      "duration_ms": 366391,
-      "name": "Gameland",
-      "url": "https://open.spotify.com/track/0hgks30iXkIyju4sGXtCh7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sommernachtskonzert 2016 / Summer Night Concert 2016",
-        "url": "https://open.spotify.com/album/63DioeEbSQD6qDTeS1Piv6"
-      },
-      "artists": [
-        {
-          "name": "Francis Poulenc",
-          "url": "https://open.spotify.com/artist/4IAWVxo2fpTBPn6k7GZ3eY"
-        },
-        {
-          "name": "Semyon Bychkov",
-          "url": "https://open.spotify.com/artist/6qg886AZaBjnfRF5tEs4Ht"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Katia & Marielle Lab\u00e8que",
-          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
-        }
-      ],
-      "duration_ms": 307226,
-      "name": "Concerto for 2 Pianos and Orchestra in D Minor, FP 61: II. Larghetto",
-      "url": "https://open.spotify.com/track/2EnlrIJbq1igbjX3smlFSw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NAZARENO! Bernstein, Stravinsky, Golijov",
-        "url": "https://open.spotify.com/album/7zYvpiRDw9s30IRyNUTSVU"
-      },
-      "artists": [
-        {
-          "name": "Osvaldo Golijov",
-          "url": "https://open.spotify.com/artist/4MFSQmb7Y47xW7JJmJboCv"
-        },
-        {
-          "name": "Sir Simon Rattle",
-          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "Katia & Marielle Lab\u00e8que",
-          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
-        },
-        {
-          "name": "Gonzalo Grau",
-          "url": "https://open.spotify.com/artist/0kHkqT79Moy6COGdjZdiLI"
-        },
-        {
-          "name": "Rapha\u00ebl S\u00e9guinier",
-          "url": "https://open.spotify.com/artist/1Xt69R2zhzFWAuSGN78rxJ"
-        }
-      ],
-      "duration_ms": 182946,
-      "name": "Nazareno: I. Berimbau (Arr. Gonzalo Grau)",
-      "url": "https://open.spotify.com/track/2a7ssZJQIPbPOBnUoNhp7p"
     },
     {
       "added_at": null,
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/1Xt69R2zhzFWAuSGN78rxJ"
         }
       ],
-      "duration_ms": 271746,
-      "name": "Nazareno: III. Guaracha y Mambo (Arr. Gonzalo Grau)",
-      "url": "https://open.spotify.com/track/5W5g4uGrNuWV9wYHByEw9h"
+      "duration_ms": 182946,
+      "name": "Nazareno: I. Berimbau (Arr. Gonzalo Grau)",
+      "url": "https://open.spotify.com/track/2a7ssZJQIPbPOBnUoNhp7p"
     },
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/1Xt69R2zhzFWAuSGN78rxJ"
         }
       ],
-      "duration_ms": 235840,
-      "name": "Nazareno: II. Tambor en blanco y negro (Arr. Gonzalo Grau)",
-      "url": "https://open.spotify.com/track/6uxlO2T1TFulpNhi9r8dQ1"
+      "duration_ms": 271746,
+      "name": "Nazareno: III. Guaracha y Mambo (Arr. Gonzalo Grau)",
+      "url": "https://open.spotify.com/track/5W5g4uGrNuWV9wYHByEw9h"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtJ8m.md) - [plain]
 
 > This is Big Thief\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,513 likes - 42 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,528 likes - 43 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtJ8m.md) - [plain]
 | 38 | [Open Desert](https://open.spotify.com/track/79GNPyz34aVNeAZXXVlrLv) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 3:47 |
 | 39 | [Love In Mine](https://open.spotify.com/track/5KK4WRj0kYRJatZN3lEG52) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Love In Mine](https://open.spotify.com/album/2JKJErveQLxl3DMN6L34fB) | 3:18 |
 | 40 | [Wolf](https://open.spotify.com/track/5dW8gOPZsZRQOzjdmcOREc) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Two Hands](https://open.spotify.com/album/5pp7px9MITK2MqeFVbRWGo) | 4:42 |
-| 41 | [Century](https://open.spotify.com/track/5VgHyTScSLqpTai6oQjird) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 3:07 |
-| 42 | [Strange](https://open.spotify.com/track/0y8c74ezNCYou4FrX4xI8v) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 3:41 |
+| 41 | [Burial At Sea](https://open.spotify.com/track/2iQULAYjrePvMQCZJ0OYAh) | [Tucker Zimmerman](https://open.spotify.com/artist/6c3XGRQEI4x3hvu19S2X09), [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ), [Iji](https://open.spotify.com/artist/577ncuQtxXrM7Xi5itVG35), [Twain](https://open.spotify.com/artist/2tMcnRGaCtfz1ZyTBgHjmW) | [Dance Of Love](https://open.spotify.com/album/1aA7OojB1z3TCyTWb65v2h) | 4:01 |
+| 42 | [Century](https://open.spotify.com/track/5VgHyTScSLqpTai6oQjird) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 3:07 |
+| 43 | [Strange](https://open.spotify.com/track/0y8c74ezNCYou4FrX4xI8v) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 3:41 |
 
-Snapshot ID: `ajcpgAAAAADzRk0cEKM+FZGCXWSo3Dbq`
+Snapshot ID: `ajh7AAAAAADJzVZdVTHmK1ll2rG5iVNZ`

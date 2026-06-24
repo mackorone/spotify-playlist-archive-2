@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6V1wC4TTOfO.md) - [plain]
 
 > <a href="spotify:artist:249QVZLSwrDyleKNapaapm">SAFAR</a>'s favorite tracks\. Updated regularly\. Curated by SAFAR\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,592 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,631 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6V1wC4TTOfO.md) - [plain]
 | 49 | [Lovely Flight \- Original](https://open.spotify.com/track/3G2qVecYSy3EfDgRKhHNm6) | [Didier Sinclair](https://open.spotify.com/artist/4qdo8QO3v7asdW9CmxW70o) | [Lovely Flight](https://open.spotify.com/album/65UQRh5XNWYWOwmU4jKL8O) | 6:34 |
 | 50 | [Music Sounds Better With You](https://open.spotify.com/track/303ccTay2FiDTZ9fZ2AdBt) | [Stardust](https://open.spotify.com/artist/2w7IutHv5g4e8LumrwtjWR), [Benjamin Diamond](https://open.spotify.com/artist/2XOvFG8pp1XAV1V6ZJABim), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [Thomas Bangalter](https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi) | [Music Sounds Better With You](https://open.spotify.com/album/7Kusf5plZjl76X5ARWJbNO) | 6:43 |
 
-Snapshot ID: `AAAAAKowRvCc7348yEBXcT6N3R/08ftc`
+Snapshot ID: `AAAAAJ8FGSAZnca24msctUGWPHiMNNCx`

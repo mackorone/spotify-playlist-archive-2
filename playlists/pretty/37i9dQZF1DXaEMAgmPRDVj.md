@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEMAgmPRDVj.md) - [plain]
 
 > Get ready for the upcoming festival by listening to the best songs from the festival lineup! \(페스티벌 참가 라인업의 베스트 곡들을 들으며 다가오는 페스티벌을 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 342 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 360 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Just Kids](https://open.spotify.com/track/5GgmhSjpJ8a6g2qhoz8CmL) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Sound of Music pt.2 : LIFE](https://open.spotify.com/album/0VlH7KKpMs4UpXsne5EBtr) | 4:06 |
 | 2 | [for lovers who hesitate](https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 4:25 |
-| 3 | [BIG VOID](https://open.spotify.com/track/5p3BybOa38IjjviVrN9xN1) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [BIG VOID](https://open.spotify.com/album/59Hje4SbnsKpsAWRBZ6IPz) | 3:41 |
+| 3 | [BIG VOID \(Single ver.\)](https://open.spotify.com/track/5p3BybOa38IjjviVrN9xN1) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [BIG VOID \(Single ver.\)](https://open.spotify.com/album/59Hje4SbnsKpsAWRBZ6IPz) | 3:41 |
 | 4 | [Tik Tak Tok \(feat\. So!YoON!\)](https://open.spotify.com/track/3HcB6Kq0ivD47mEtedfvLw) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn), [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [POWER ANDRE 99](https://open.spotify.com/album/49CqNP5omI7QbOe8TPAR0y) | 6:15 |
 | 5 | [Youth](https://open.spotify.com/track/3KOM7GQcX4KytvirhfdlCW) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS) | [YOUTH](https://open.spotify.com/album/6OBmLdVdHzryb6MBtGAtG8) | 2:42 |
 | 6 | [VOYAGER](https://open.spotify.com/track/5X8djrOyJCnCnwD19QXQIK) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS) | [VOYAGER](https://open.spotify.com/album/3zKRClhiSLNBrhqgCd52jE) | 3:11 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEMAgmPRDVj.md) - [plain]
 | 59 | [You Keep Me Here](https://open.spotify.com/track/2a686rjbxnMQPFgXjhBxXM) | [hrtz.wav](https://open.spotify.com/artist/4xCz4boMkoSCzVWULUNeVg) | [Perfect Crown OST Part.8](https://open.spotify.com/album/4SrWORwSxnQDx7g6luKMt9) | 3:44 |
 | 60 | [NINETEEN](https://open.spotify.com/track/2fBzTfPEf46iuJvZpTD5gp) | [hrtz.wav](https://open.spotify.com/artist/4xCz4boMkoSCzVWULUNeVg) | [The First Wave](https://open.spotify.com/album/7GMWvw5fpp3bIxK0nRz7tw) | 2:40 |
 
-Snapshot ID: `AAAAAFpj9GTO3hGuOW3bZN5vYLC/tofk`
+Snapshot ID: `AAAAADHy85e9D8zT08DCtYHUubLf6Pdi`

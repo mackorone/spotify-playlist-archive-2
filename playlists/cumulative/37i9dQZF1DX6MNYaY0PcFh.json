@@ -5005,6 +5005,24 @@
     },
     {
       "album": {
+        "name": "New Ting",
+        "url": "https://open.spotify.com/album/3kaBAySJbC9HBSC0p70PPt"
+      },
+      "artists": [
+        {
+          "name": "Krafty Kuts",
+          "url": "https://open.spotify.com/artist/6Ebt7JHILWJCE7aR7JLFB2"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179104,
+      "name": "New Ting",
+      "url": "https://open.spotify.com/track/1oQpq6RUVy06nfsjcZm4S8"
+    },
+    {
+      "album": {
         "name": "Play With The Changes",
         "url": "https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v"
       },
@@ -7172,7 +7190,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 167518,
       "name": "Swept Away",
       "url": "https://open.spotify.com/track/13epcBWtRTdyiBHhfdimrI"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 
 > Best of Desi Hip\-Hop! Cover: KR$NA & Dhanda Nyoliwala
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,582 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,639 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 | 52 | [Russian Bandana](https://open.spotify.com/track/1dFrZr9eMUsFqeag04ClqD) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Russian Bandana](https://open.spotify.com/album/6CLIf42g7M6k0nE3vlcqud) | 3:17 |
 | 53 | [Strangers](https://open.spotify.com/track/23vGmoyXzr1R1Hjh0jTU5v) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [Asim Ali](https://open.spotify.com/album/1jwD9DRyItX9qyVSpTDB0Y) | 3:32 |
 | 54 | [GOAT SHIT](https://open.spotify.com/track/2TElxFZeWPs9DhQGZWh6Oa) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F) | [GOAT SHIT](https://open.spotify.com/album/6VpwWq8ScclabGnlL6JqJT) | 3:51 |
-| 55 | [I Guess](https://open.spotify.com/track/0OxG3hlJNNzXcSrNVXEu8f) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [I Guess](https://open.spotify.com/album/7eDGcL0rxILbzih7x51fMk) | 3:06 |
+| 55 | [I Guess](https://open.spotify.com/track/0OxG3hlJNNzXcSrNVXEu8f) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Kabu Beats](https://open.spotify.com/artist/1felBKmXX3pd1k6siZu4Xz) | [I Guess](https://open.spotify.com/album/7eDGcL0rxILbzih7x51fMk) | 3:06 |
 | 56 | [Didi \(Sher\-E\-Baloch\) \(From "Dhurandhar The Revenge"\)](https://open.spotify.com/track/3rnQfyFzUNdWKtdwUypWo5) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Khaled](https://open.spotify.com/artist/2YxK9SbJeVfkfk6QWHqj8K), [Sons of Yusuf](https://open.spotify.com/artist/6Vptp9yQcvtgjwFt6GDQno), [Nabil El Houri](https://open.spotify.com/artist/53QracjfLvfuaeTXsRQnPu) | [Didi \(Sher\-E\-Baloch\) \(From "Dhurandhar The Revenge"\)](https://open.spotify.com/album/6wet2LcJVJAeySrPfdD8sE) | 2:31 |
 | 57 | [Faraar](https://open.spotify.com/track/72H6G8v9xyuwdRBaTkoT5G) | [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Faraar](https://open.spotify.com/album/1HFaZl1hPmSnvdTQxshVQe) | 2:10 |
 | 58 | [Nazare](https://open.spotify.com/track/4y6I1Jm5Vh0QKh454bOz4i) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt) | [Bonafide](https://open.spotify.com/album/2wOy3GGZN8Z13kgwoYlqSk) | 2:45 |

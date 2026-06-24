@@ -1,6 +1,6 @@
 {
   "description": "Aquelas pra come\u00e7ar o dia de alma leve",
-  "num_followers": 612689,
+  "num_followers": 612727,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-06-19 03:00:16",
       "album": {
-        "name": "Flora - EP",
-        "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
-      },
-      "artists": [
-        {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Vem conversar",
-      "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
-    },
-    {
-      "added_at": "2026-06-19 03:00:16",
-      "album": {
         "name": "Sim",
         "url": "https://open.spotify.com/album/36fWvul2SzklDegMxkLRyC"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 249973,
       "name": "Amado",
       "url": "https://open.spotify.com/track/1UehyRYWHQxfj52XJbswIv"
+    },
+    {
+      "added_at": "2026-06-19 03:00:16",
+      "album": {
+        "name": "Flora - EP",
+        "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
+      },
+      "artists": [
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Vem conversar",
+      "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
     },
     {
       "added_at": "2026-06-19 03:00:16",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2026-06-19 03:00:16",
       "album": {
-        "name": "Tons de Marrom",
-        "url": "https://open.spotify.com/album/2Ws5rlczmp2G60lDPJyrsZ"
-      },
-      "artists": [
-        {
-          "name": "Ryan Fidelis",
-          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
-        },
-        {
-          "name": "Nina",
-          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
-        }
-      ],
-      "duration_ms": 193562,
-      "name": "Corpo Suado",
-      "url": "https://open.spotify.com/track/60HKq194AJUnsiyogk99uL"
-    },
-    {
-      "added_at": "2026-06-19 03:00:16",
-      "album": {
         "name": "ME LIGA",
         "url": "https://open.spotify.com/album/7ugZCiXucEKq36HER7Nuka"
       },
@@ -1183,6 +1163,26 @@
       "duration_ms": 133212,
       "name": "ME LIGA",
       "url": "https://open.spotify.com/track/54RUeOrfNtx0Kh1Rep3vpH"
+    },
+    {
+      "added_at": "2026-06-19 03:00:16",
+      "album": {
+        "name": "Tons de Marrom",
+        "url": "https://open.spotify.com/album/2Ws5rlczmp2G60lDPJyrsZ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+        },
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
+        }
+      ],
+      "duration_ms": 193562,
+      "name": "Corpo Suado",
+      "url": "https://open.spotify.com/track/60HKq194AJUnsiyogk99uL"
     },
     {
       "added_at": "2026-06-19 03:00:16",
@@ -1347,38 +1347,6 @@
     {
       "added_at": "2026-06-19 03:00:16",
       "album": {
-        "name": "Rosa Maria",
-        "url": "https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT"
-      },
-      "artists": [
-        {
-          "name": "Ryan Fidelis",
-          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
-        }
-      ],
-      "duration_ms": 232390,
-      "name": "Rosa Maria",
-      "url": "https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI"
-    },
-    {
-      "added_at": "2026-06-19 03:00:16",
-      "album": {
-        "name": "Moska Apresenta Zoombido: Mart'n\u00e1lia",
-        "url": "https://open.spotify.com/album/61iI1h0ZvmKVjJOE3siQhn"
-      },
-      "artists": [
-        {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
-        }
-      ],
-      "duration_ms": 210560,
-      "name": "Benditas",
-      "url": "https://open.spotify.com/track/0QzxEXZTx8Ygqhl3yDhvaA"
-    },
-    {
-      "added_at": "2026-06-19 03:00:16",
-      "album": {
         "name": "Os Garotin Session 2",
         "url": "https://open.spotify.com/album/2RPmWy0aO7APLeA7ot9VRH"
       },
@@ -1403,6 +1371,38 @@
       "duration_ms": 142396,
       "name": "Calor e Arrepio",
       "url": "https://open.spotify.com/track/2XrEARXWEdoExuzJiUfgO4"
+    },
+    {
+      "added_at": "2026-06-19 03:00:16",
+      "album": {
+        "name": "Moska Apresenta Zoombido: Mart'n\u00e1lia",
+        "url": "https://open.spotify.com/album/61iI1h0ZvmKVjJOE3siQhn"
+      },
+      "artists": [
+        {
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "Benditas",
+      "url": "https://open.spotify.com/track/0QzxEXZTx8Ygqhl3yDhvaA"
+    },
+    {
+      "added_at": "2026-06-19 03:00:16",
+      "album": {
+        "name": "Rosa Maria",
+        "url": "https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT"
+      },
+      "artists": [
+        {
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+        }
+      ],
+      "duration_ms": 232390,
+      "name": "Rosa Maria",
+      "url": "https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI"
     },
     {
       "added_at": "2026-06-19 03:00:16",
@@ -1583,6 +1583,26 @@
     {
       "added_at": "2026-06-19 03:00:16",
       "album": {
+        "name": "Sentido",
+        "url": "https://open.spotify.com/album/7FQ9WvPmxXdG7gWH3H4Yn0"
+      },
+      "artists": [
+        {
+          "name": "5 a Seco",
+          "url": "https://open.spotify.com/artist/1R9QfzgBmhk1spLg3BiU1f"
+        },
+        {
+          "name": "Pedro Alt\u00e9rio",
+          "url": "https://open.spotify.com/artist/1O8mpR5WQPL6AbixaSZ5td"
+        }
+      ],
+      "duration_ms": 182711,
+      "name": "Deixa Eu Gostar de Voc\u00ea",
+      "url": "https://open.spotify.com/track/34eAx5jQcSo7D7WR5pon31"
+    },
+    {
+      "added_at": "2026-06-19 03:00:16",
+      "album": {
         "name": "A Morte de um Deus de Sal",
         "url": "https://open.spotify.com/album/019T33OgzsIGyamxapvv6V"
       },
@@ -1635,42 +1655,6 @@
     {
       "added_at": "2026-06-19 03:00:16",
       "album": {
-        "name": "Sentido",
-        "url": "https://open.spotify.com/album/7FQ9WvPmxXdG7gWH3H4Yn0"
-      },
-      "artists": [
-        {
-          "name": "5 a Seco",
-          "url": "https://open.spotify.com/artist/1R9QfzgBmhk1spLg3BiU1f"
-        },
-        {
-          "name": "Pedro Alt\u00e9rio",
-          "url": "https://open.spotify.com/artist/1O8mpR5WQPL6AbixaSZ5td"
-        }
-      ],
-      "duration_ms": 182711,
-      "name": "Deixa Eu Gostar de Voc\u00ea",
-      "url": "https://open.spotify.com/track/34eAx5jQcSo7D7WR5pon31"
-    },
-    {
-      "added_at": "2026-06-19 03:00:16",
-      "album": {
-        "name": "Novela",
-        "url": "https://open.spotify.com/album/2r8MFQSbAP5jB74eCRE6zx"
-      },
-      "artists": [
-        {
-          "name": "Agnes Nunes",
-          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
-        }
-      ],
-      "duration_ms": 217503,
-      "name": "Denso e Dan\u00e7o",
-      "url": "https://open.spotify.com/track/2xhFW63RJ7uFVp333kJ4ON"
-    },
-    {
-      "added_at": "2026-06-19 03:00:16",
-      "album": {
         "name": "Kavita 1",
         "url": "https://open.spotify.com/album/7hqmVqRcjVRqcEfoAQjqoO"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 229480,
       "name": "Minha Felicidade",
       "url": "https://open.spotify.com/track/6sW59B995jzBoLxWBhXPbK"
+    },
+    {
+      "added_at": "2026-06-19 03:00:16",
+      "album": {
+        "name": "Novela",
+        "url": "https://open.spotify.com/album/2r8MFQSbAP5jB74eCRE6zx"
+      },
+      "artists": [
+        {
+          "name": "Agnes Nunes",
+          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
+        }
+      ],
+      "duration_ms": 217503,
+      "name": "Denso e Dan\u00e7o",
+      "url": "https://open.spotify.com/track/2xhFW63RJ7uFVp333kJ4ON"
     },
     {
       "added_at": "2026-06-19 03:00:16",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2026-06-19 03:00:16",
       "album": {
-        "name": "Del\u00edrio Coletivo, Vol. 1",
-        "url": "https://open.spotify.com/album/2qbJQpwa2qJWnR24FNHXgk"
-      },
-      "artists": [
-        {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Ci\u00eancia",
-      "url": "https://open.spotify.com/track/368qoip11DFOOFkxx9tozr"
-    },
-    {
-      "added_at": "2026-06-19 03:00:16",
-      "album": {
         "name": "Quem dir\u00e1?",
         "url": "https://open.spotify.com/album/1d3T6dE5JcdL8jSlMOwA6K"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 172580,
       "name": "Quem dir\u00e1?",
       "url": "https://open.spotify.com/track/099mGrokbzQj9lr88cfFAE"
+    },
+    {
+      "added_at": "2026-06-19 03:00:16",
+      "album": {
+        "name": "Del\u00edrio Coletivo, Vol. 1",
+        "url": "https://open.spotify.com/album/2qbJQpwa2qJWnR24FNHXgk"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Ci\u00eancia",
+      "url": "https://open.spotify.com/track/368qoip11DFOOFkxx9tozr"
     },
     {
       "added_at": "2026-06-19 03:00:16",

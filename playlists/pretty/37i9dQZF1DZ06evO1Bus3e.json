@@ -1,12 +1,12 @@
 {
   "description": "This is Arsenal Efectivo. The essential tracks, all in one playlist.",
-  "num_followers": 12712,
+  "num_followers": 12713,
   "original_name": "This Is Arsenal Efectivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajcpgAAAAAD5VWmsVI/CHheSRd9Se7b9",
+  "snapshot_id": "ajh7AAAAAACAroYKL5MbAdlOJV23AKhF",
   "tracks": [
     {
       "added_at": null,
@@ -587,26 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Platicame De Ti (En Vivo)",
-        "url": "https://open.spotify.com/album/0HFW2U2GnGAosNeBZAT7is"
-      },
-      "artists": [
-        {
-          "name": "Sol De Mi Tierra- mariache\u00f1o",
-          "url": "https://open.spotify.com/artist/51adjnMrqIJnsXRtyQkLFc"
-        },
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 174155,
-      "name": "Platicame De Ti - En Vivo",
-      "url": "https://open.spotify.com/track/0aGVO0Nv3xoqkhVJIK6Izr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peligro",
         "url": "https://open.spotify.com/album/1YcIp5ySMbCZJZAtBPuBAh"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 128347,
       "name": "Peligro",
       "url": "https://open.spotify.com/track/4e57NeDTbHbdan24Vf6WU5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Platicame De Ti (En Vivo)",
+        "url": "https://open.spotify.com/album/0HFW2U2GnGAosNeBZAT7is"
+      },
+      "artists": [
+        {
+          "name": "Sol De Mi Tierra- mariache\u00f1o",
+          "url": "https://open.spotify.com/artist/51adjnMrqIJnsXRtyQkLFc"
+        },
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 174155,
+      "name": "Platicame De Ti - En Vivo",
+      "url": "https://open.spotify.com/track/0aGVO0Nv3xoqkhVJIK6Izr"
     }
   ],
   "unique_name": "This Is Arsenal Efectivo",

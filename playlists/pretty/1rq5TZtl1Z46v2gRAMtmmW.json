@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 31896,
+  "num_followers": 31895,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAARrFF0aB/QGiC6o1BNW0VdgaT/eIA1",
+  "snapshot_id": "AAARri4cyVSTJqRsir2slQhGrVNxZ2tq",
   "tracks": [
     {
       "added_at": "2026-06-10 17:55:44",
@@ -231,6 +231,26 @@
       "duration_ms": 171613,
       "name": "if you wanna party, come over to my house",
       "url": "https://open.spotify.com/track/5rBBVYaOqtFS1Dx6MVpr5O"
+    },
+    {
+      "added_at": "2026-06-23 14:08:29",
+      "album": {
+        "name": "GO",
+        "url": "https://open.spotify.com/album/66AezudlxGDS69F7J7Vjvx"
+      },
+      "artists": [
+        {
+          "name": "corto.alto",
+          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
+        },
+        {
+          "name": "Vector",
+          "url": "https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1"
+        }
+      ],
+      "duration_ms": 186779,
+      "name": "GO",
+      "url": "https://open.spotify.com/track/3gcB7Y9TZh1kXcsih6PV8G"
     },
     {
       "added_at": "2026-06-03 17:00:56",

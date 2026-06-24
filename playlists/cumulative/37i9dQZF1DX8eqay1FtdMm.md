@@ -2,16 +2,16 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the best Korean vocalists who will melt your eardrums! \(Cover: Kassy\(케이시\)\) 여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
+> Meet the best Korean vocalists who will melt your eardrums! \(Cover: Kwon Jin Ah\(권진아\)\) 여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-654 songs - 1 day 18 hr 42 min
+657 songs - 1 day 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#tb](https://open.spotify.com/track/3OboGw2I8oYsEHeCrZ7NLT) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Hongbi](https://open.spotify.com/artist/3dsCeMQUrHkfkcqhMCuhqN) | [\#tb](https://open.spotify.com/album/5NRXAUx3xt2YS4U07mAgEp) | 4:35 | 2021-12-20 | 2023-10-25 |
 | [11:11](https://open.spotify.com/track/093PI3mdUvOSlvMYDwnV1e) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [11:11](https://open.spotify.com/album/6ZLQnQfsxbsdLNff0gz2Qe) | 3:43 | 2021-12-20 | 2022-07-28 |
 | [11:11](https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [My Voice \- The 1st Album \(Deluxe Edition\)](https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO) | 3:43 | 2022-07-25 | 2024-04-19 |
-| [17](https://open.spotify.com/track/7dQEQaqSRFRApHDl2avlT3) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [17](https://open.spotify.com/album/6ap1HVFEbkAkMurMVg3zXM) | 2:50 | 2024-08-09 |  |
+| [17](https://open.spotify.com/track/7dQEQaqSRFRApHDl2avlT3) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [17](https://open.spotify.com/album/6ap1HVFEbkAkMurMVg3zXM) | 2:50 | 2024-08-09 | 2026-06-24 |
 | [180 Degree](https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [180˚](https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6) | 3:49 | 2021-12-20 | 2024-09-15 |
 | [200%](https://open.spotify.com/track/6qkx0tenDglbF21CU4wa1k) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [PLAY](https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy) | 3:13 | 2023-12-01 |  |
 | [A Common Excuse](https://open.spotify.com/track/7GpmCt7ZY3BEjs5O2SSGS9) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [A Common Excuse](https://open.spotify.com/album/0rTkLfgMbdLpBilQ273zSW) | 3:57 | 2022-07-22 | 2022-07-25 |
@@ -133,6 +133,7 @@
 | [Diving \(Piano by Seokwon Lee\)](https://open.spotify.com/track/76BHfwrmbjxqHiUFdJS4zL) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Heaven](https://open.spotify.com/album/5w0J14k4fylvuAW93zv31W) | 3:32 | 2023-02-13 | 2023-02-25 |
 | [Do](https://open.spotify.com/track/5jtm4uDYLZXYK84iorHOKF) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Do](https://open.spotify.com/album/7K165jm1VJckEwlPU3rnkX) | 2:45 | 2023-10-29 | 2024-02-08 |
 | [dolphin](https://open.spotify.com/track/4GM3fJA0hhvLK654hg5fXO) | [Western Kite](https://open.spotify.com/artist/3Ut5D9lZhPzIdAnInEltxw) | [dolphin](https://open.spotify.com/album/14hlDO2H1pMIUVovoMpaQ8) | 3:04 | 2022-03-29 | 2022-04-21 |
+| [Don't Be](https://open.spotify.com/track/64bNYe3z0jbajk5udtcHFu) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Don't Be](https://open.spotify.com/album/3BUhSOUTG5ZiaCibNp4jh6) | 3:16 | 2026-06-23 |  |
 | [Don't forget me](https://open.spotify.com/track/0wvsRYNOtR3c2aPw38LJSR) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [Don't forget me](https://open.spotify.com/album/6R9g1gN8dkbfzQIVzsw1pr) | 3:58 | 2024-01-01 | 2024-01-18 |
 | [Don't Stop Believin'](https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [The Essential Journey](https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R) | 4:08 | 2024-05-29 | 2024-06-06 |
 | [Don't treat me well](https://open.spotify.com/track/6gf5ELYMwGOYvihbp6NA0s) | [yeo eun](https://open.spotify.com/artist/00hyJ4Om3BEqgLwfqHSFxv) | [Don't treat me well](https://open.spotify.com/album/2FqhiCBwlQAuNW87paj41N) | 3:38 | 2022-02-10 | 2022-04-09 |
@@ -208,6 +209,7 @@
 | [Heartache](https://open.spotify.com/track/3bSTr4YmIxaiB97Yo2pGrr) | [Lee Hae Ri](https://open.spotify.com/artist/7JE09i08qDhfHKd0rgFeEe) | [Heartache](https://open.spotify.com/album/4FWBSVDxn1E0eQConJ66Qr) | 3:33 | 2022-03-24 | 2022-04-21 |
 | [Heartless Word 반대말](https://open.spotify.com/track/3fhBh2F7kx1Cg8etl0soSj) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [The Four Seasons](https://open.spotify.com/album/4hlXz1SzeyISBeaT8NAUtw) | 4:16 | 2022-04-01 | 2022-04-14 |
 | [Heaven](https://open.spotify.com/track/4Ohe61evYAILzlyhSjd7Eq) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [Heaven](https://open.spotify.com/album/5PD7BUIpjw9LeGqdNItRug) | 3:43 | 2023-07-11 | 2023-07-21 |
+| [Heaven Knows](https://open.spotify.com/track/7zf5sJzBtOuujJYes54ucb) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc), [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Heaven Knows](https://open.spotify.com/album/6Qn42r5xPsrEE3YziVwiIR) | 4:04 | 2026-06-23 |  |
 | [Heavenly fate](https://open.spotify.com/track/4mqfe9XrgEOSsofvq5MyjR) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [Heavenly fate \(Original Soundtrack from the Webtoon A Not So Fairy Tale\)](https://open.spotify.com/album/6R3XGAZh7OzZBQiN8Ucbkq) | 4:31 | 2024-05-09 |  |
 | [Hee Jae](https://open.spotify.com/track/6NPwyiOIJMTSVGspkOKiX7) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [\[Vol.4\] You Hee yul's Sketchbook 10th Anniversary Project : 2nd Voice 'Sketchbook X Ben'](https://open.spotify.com/album/6o1qBQswi3EBElxewqi7Yl) | 5:41 | 2021-12-20 | 2022-06-03 |
 | [Hello](https://open.spotify.com/track/62PaSfnXSMyLshYJrlTuL3) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:55 | 2024-02-20 | 2024-04-24 |
@@ -285,7 +287,7 @@
 | [Just Look for you](https://open.spotify.com/track/1rP25u8w92R4rq1UttWSeq) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Chocolate,Pt.5\(Original Television Soundtrack\)](https://open.spotify.com/album/2AZ7tXHNJnGDT1Q7n4L1Yz) | 3:41 | 2021-12-20 | 2022-04-20 |
 | [Just Look for you](https://open.spotify.com/track/21Kpv5vg4jtgfgIBgAqm2U) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Chocolate, Pt.5 \(Original Television Soundtrack\)](https://open.spotify.com/album/04B0uLq5aKWhjVmA8Vrj8I) | 3:41 | 2024-01-17 | 2024-04-19 |
 | [JUST LOVE](https://open.spotify.com/track/0MdOgF705YiQELMS29p4gz) | [Lee Young Hyun](https://open.spotify.com/artist/4GzuNU3GlvlfNB4xweeTVR) | [PRIVATE](https://open.spotify.com/album/4sgGVKKF38GTPJOK15Es6p) | 3:38 | 2024-12-24 | 2025-02-04 |
-| [Kaze](https://open.spotify.com/track/686EAFs0uJRvVTHaOhkP1u) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA Studio Live Album 'MINDSET'](https://open.spotify.com/album/3pY7uXFrbq96BhWXcomLIi) | 5:31 | 2023-05-10 |  |
+| [Kaze](https://open.spotify.com/track/686EAFs0uJRvVTHaOhkP1u) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA Studio Live Album 'MINDSET'](https://open.spotify.com/album/3pY7uXFrbq96BhWXcomLIi) | 5:31 | 2023-05-10 | 2026-06-24 |
 | [La Festa](https://open.spotify.com/track/1TOXIH81rjFEDtnxiaBBXi) | [Solji](https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo) | [La Festa](https://open.spotify.com/album/7aPj7OVv3zdUJjIIostVUX) | 3:24 | 2025-02-03 | 2025-02-11 |
 | [La Vie Rosée](https://open.spotify.com/track/77EJqUi8w6kstvE53TFxnw) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea) | [Tales of Sensuality](https://open.spotify.com/album/59wYUBRXUJBC5NxFXqFYLh) | 5:14 | 2024-04-25 | 2024-05-19 |
 | [Last](https://open.spotify.com/track/2ZrKUv6I0r52XuDNYPULps) | [Eddy Kim](https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe) | [Miles Apart](https://open.spotify.com/album/1OmyHS4uPSMbqeHWw2G5CK) | 4:06 | 2022-04-01 | 2022-05-17 |
@@ -433,6 +435,7 @@
 | [Pretty Girl \(Feat\. Dearming\)](https://open.spotify.com/track/7oo3WuG6LuSaAzErdAkzS7) | [Espresso](https://open.spotify.com/artist/6MqxpdnAX09GQsbhc0bvrZ), [Dearming](https://open.spotify.com/artist/1Zs3RqrUagA8l69VbL5aJx) | [Pretty Girl](https://open.spotify.com/album/7Lq9j14RVf8D7F8Nk2ZIC5) | 3:04 | 2022-02-25 | 2022-04-16 |
 | [Purple Breeze](https://open.spotify.com/track/20NLPjMKvWxEkqT04T1HDD) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [\[Vol.5\] You Hee yul's Sketchbook 10th Anniversary Project : 2nd Voice 'Sketchbook X Ben'](https://open.spotify.com/album/07u6A8DhvM1hTFTQy9qRIw) | 4:11 | 2022-01-21 | 2022-07-20 |
 | [Rain & You](https://open.spotify.com/track/6wdPOrD3wXNq4WIUprJ7qi) | [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq) | [Rain & You](https://open.spotify.com/album/53ghnNtXuBSkwHhTIzwhIv) | 4:32 | 2021-12-20 | 2022-07-22 |
+| [Rain on me](https://open.spotify.com/track/7cR31CCUrUv3xBPLwV8DKl) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Rain on me](https://open.spotify.com/album/7DFohRoscL9ora3kVf1z3p) | 4:13 | 2026-06-23 |  |
 | [Regret 미련](https://open.spotify.com/track/7mhtDyKAWTnZWifCFA4lfn) | [EDEN](https://open.spotify.com/artist/1NKjYoo9hYXCKSlxecTY49), [Shin Jisu 신지수](https://open.spotify.com/artist/2aT0syFxiZ4MUG4g0Xhufl) | [Regret 미련](https://open.spotify.com/album/1XsMbgIn0kwL59HfqJJMsL) | 4:10 | 2022-03-24 | 2022-04-19 |
 | [Repeatedly](https://open.spotify.com/track/0cJjwKRBzxafqKJlRAwuE9) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Penthouse2 \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/21zg2W8KpUED6ljxAKDEGo) | 3:37 | 2021-12-20 | 2022-07-13 |
 | [Repetition \(Feat\. Shin Jong Wook\)](https://open.spotify.com/track/6pX5HtlcSumP8XgablXLbV) | [Noh Hyunwoo](https://open.spotify.com/artist/2UvVidJJv6g17OMmlpS39z), [신종욱](https://open.spotify.com/artist/3cxWvvIqZGNyWsgmdi0wsf) | [Repetition](https://open.spotify.com/album/7grs7APT3ALK9vNT3r2GdD) | 3:53 | 2022-03-07 | 2022-04-20 |
@@ -473,7 +476,7 @@
 | [Stars](https://open.spotify.com/track/5Ep3YOn93Z5J2z4hjmxoN5) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [Shine](https://open.spotify.com/album/41OYa62HOJVT8pEczl84vJ) | 3:20 | 2024-12-05 | 2025-02-07 |
 | [Starting Now](https://open.spotify.com/track/7rtD4GjoJkg0iFj0XmPfR1) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Starting Now](https://open.spotify.com/album/4HSSyNh3DVQVT2z5Z9cSzy) | 3:25 | 2021-12-20 | 2024-08-14 |
 | [Stay](https://open.spotify.com/track/4GJe5QQxmtHsJa3AvZroal) | [Forestella](https://open.spotify.com/artist/4Phfy4o60wGqoPQFl5oCP8) | [The Beginning: World Tree](https://open.spotify.com/album/1gomORnQsreWvJxDGy85pB) | 4:18 | 2022-05-31 | 2022-06-15 |
-| [Stay](https://open.spotify.com/track/2IslXjQwGJNORQmMy3DeE4) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB), [JEON MI DO](https://open.spotify.com/artist/0MGh57fT1dstT9ulzXNauX) | [Stay](https://open.spotify.com/album/7hBDAgfWPOEWnJVgB3Adr6) | 3:46 | 2021-12-20 |  |
+| [Stay](https://open.spotify.com/track/2IslXjQwGJNORQmMy3DeE4) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB), [JEON MI DO](https://open.spotify.com/artist/0MGh57fT1dstT9ulzXNauX) | [Stay](https://open.spotify.com/album/7hBDAgfWPOEWnJVgB3Adr6) | 3:46 | 2021-12-20 | 2026-06-24 |
 | [STAY](https://open.spotify.com/track/1zP4F4FExmoTk2yeZSZfca) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [STAY](https://open.spotify.com/album/2auTN0kIA1hNoyhb8XMlB6) | 2:55 | 2022-03-24 | 2022-04-17 |
 | [Stay](https://open.spotify.com/track/7y0Ix1GzQB2FuoWT5iD5fE) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [Stay](https://open.spotify.com/album/2Z4BIEQWeSrwPZmOW0Vvju) | 3:44 | 2025-11-04 | 2026-04-02 |
 | [Stay Here](https://open.spotify.com/track/20mZ4O5ztRZltdvLEJbi4z) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Stay Here](https://open.spotify.com/album/7asMIo6qEhr9Gt5rE1Tmvw) | 3:48 | 2021-12-20 |  |

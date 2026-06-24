@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYPasrIWf5j.md) - [plain]
 
 > Instrumental covers of favourites played on ukulele.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,490 likes - 46 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,506 likes - 46 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYPasrIWf5j.md) - [plain]
 | 45 | [Shallow](https://open.spotify.com/track/5IOPcHdIf7qq9OYcu6Hilx) | [Sarah Trapp](https://open.spotify.com/artist/0xaDA7p9ytShd7Sk49FPIs) | [Shallow](https://open.spotify.com/album/1w5zIIKL9Zwan57jhtlhcF) | 3:29 |
 | 46 | [Hallelujah](https://open.spotify.com/track/3nSQdZM55hMuvGYtfHfOK6) | [Julia Sweet](https://open.spotify.com/artist/19wgTuefDnrHoMXlHPXHl3) | [Hallelujah](https://open.spotify.com/album/7q8hxe9dE4uMpOf7NYK78x) | 3:34 |
 
-Snapshot ID: `AAAAAPvjKRXdnDxCIVPXXV6tzfHwS7zc`
+Snapshot ID: `AAAAAHsAQiTMfK22TROj0hPZtn8Vt3UQ`

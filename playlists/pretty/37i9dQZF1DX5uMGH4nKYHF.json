@@ -1,6 +1,6 @@
 {
   "description": "A selection from every Tony-winning musical since 1947. ",
-  "num_followers": 24863,
+  "num_followers": 24868,
   "original_name": "Tony Awards: Best Musical Winners",
   "owner": {
     "name": "Spotify",
@@ -1138,6 +1138,10 @@
         {
           "name": "The Will Rogers Follies Ensemble",
           "url": "https://open.spotify.com/artist/3nyvtkimLC5Tx7J3sX7WaB"
+        },
+        {
+          "name": "The Will Rogers Follies Original Broadway Cast",
+          "url": "https://open.spotify.com/artist/5gyssh9v8swU6ZXsJU9atZ"
         }
       ],
       "duration_ms": 372533,
@@ -1846,6 +1850,10 @@
         {
           "name": "Fiddler on the Roof Ensemble",
           "url": "https://open.spotify.com/artist/2nNmm3PrwGuVKfmPLVeXoy"
+        },
+        {
+          "name": "Milton Greene",
+          "url": "https://open.spotify.com/artist/47aGaKBIsSWWvgOJD2ZRld"
         }
       ],
       "duration_ms": 414600,

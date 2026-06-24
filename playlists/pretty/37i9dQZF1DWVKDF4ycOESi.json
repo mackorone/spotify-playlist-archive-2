@@ -1,6 +1,6 @@
 {
   "description": "Nuovi brani di Ultimo, ANNA, Fabri Fibra, Madame e tanti altri.",
-  "num_followers": 365408,
+  "num_followers": 365412,
   "original_name": "New Music Friday Italia",
   "owner": {
     "name": "Spotify",
@@ -1338,6 +1338,10 @@
         {
           "name": "Young Hash",
           "url": "https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX"
+        },
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
         }
       ],
       "duration_ms": 135000,

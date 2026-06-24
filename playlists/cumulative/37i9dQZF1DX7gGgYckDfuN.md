@@ -2,7 +2,7 @@
 
 ### [JOJO's Bizarre Adventure](https://open.spotify.com/playlist/37i9dQZF1DX7gGgYckDfuN)
 
-> Enjoy Music From "JoJo's Bizarre Adventure" series! ©LUCKY LAND COMMUNICATIONS/集英社・ジョジョの奇妙な冒険SO製作委員会
+> Enjoy Music From "JoJo's Bizarre Adventure" series! ©LUCKY LAND COMMUNICATIONS/集英社・ジョジョの奇妙な冒険SBR製作委員会
 
 99 songs - 8 hr 28 min
 

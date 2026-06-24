@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FGW2dUyDef.md) - [plain]
 
 > Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: BLOK3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,649,287 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,649,285 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FGW2dUyDef.md) - [plain]
 | 9 | [YIN YANG](https://open.spotify.com/track/3e0XM5ARlFVbWLfdR7zZvp) | [Motive](https://open.spotify.com/artist/5LjOSVqRWRs1eL2OY297Jg) | [YIN YANG](https://open.spotify.com/album/5zTpynQLSJo8yiG5U8rJXn) | 3:00 |
 | 10 | [hola hola](https://open.spotify.com/track/4va2AJCPRNFuCSm8RaPmVL) | [ASLAR](https://open.spotify.com/artist/2sQAXdjNpwvs57LUxYzFdA), [Lessio](https://open.spotify.com/artist/7sD4ByMNKsrb4dDBmZxam1), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [hola hola](https://open.spotify.com/album/2YGeHMEaSs4cHZdds4HZot) | 2:19 |
 | 11 | [Ömrüm](https://open.spotify.com/track/4e54GhjU0PAXwbGvbwAPz6) | [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ) | [Ömrüm](https://open.spotify.com/album/6FQixEQWNUYSu7FPuKLCDN) | 2:54 |
-| 12 | [BYE](https://open.spotify.com/track/7y96ZlDK5dsa5bVP29BrHO) | [Motive](https://open.spotify.com/artist/5LjOSVqRWRs1eL2OY297Jg), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [PASAJ](https://open.spotify.com/album/1Z8g0yHfmg7xlXtHVtZw1M) | 2:53 |
+| 12 | [BYE](https://open.spotify.com/track/7y96ZlDK5dsa5bVP29BrHO) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [PASAJ](https://open.spotify.com/album/1Z8g0yHfmg7xlXtHVtZw1M) | 2:53 |
 | 13 | [Hermès 2.0](https://open.spotify.com/track/1ONwgLvPUbapdtMsMxpxx9) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Hermès 2.0](https://open.spotify.com/album/26LqIfnZFtbLTKq0aYzwb5) | 1:21 |
 | 14 | [Snap](https://open.spotify.com/track/2mW1SMo4VbI2MFCTKOBZ6W) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [manifestival](https://open.spotify.com/album/15p1byCMc7mi42zFKUziBJ) | 2:29 |
 | 15 | [Kırgınım](https://open.spotify.com/track/2CTeRSttI3Jwx7gj4egqKe) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [KAYIP PERSONA](https://open.spotify.com/album/0gWJ1CcNLmXTdlgT8e9QRp) | 2:40 |

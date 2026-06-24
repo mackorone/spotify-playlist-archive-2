@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - Belgium.",
-  "num_followers": 21652,
+  "num_followers": 21654,
   "original_name": "Top Songs - Belgium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "McysKAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Mc39qAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2026-06-19 14:11:55",
@@ -258,6 +258,10 @@
         {
           "name": "ANOTR",
           "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "54 Ultra",
+          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
         }
       ],
       "duration_ms": 191076,

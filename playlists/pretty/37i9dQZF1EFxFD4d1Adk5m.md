@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxFD4d1Adk5m.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7q0jvGbuDLsmGvaRCU7F00">Maegan Cottone</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291 likes - 123 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 290 likes - 123 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxFD4d1Adk5m.md) - [plain]
 | 51 | [Fine Wine](https://open.spotify.com/track/0ATHnPSggLNXJRUOFg6aP3) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [DISCO \(Deluxe\)](https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG) | 2:44 |
 | 52 | [Caroline](https://open.spotify.com/track/58VIZAfVytKR9Cxdd7f64z) | [Symmetrik](https://open.spotify.com/artist/3tpgt8THdKcWUuTgmBMhwm) | [Caroline](https://open.spotify.com/album/3aPx500pSxncQWrB3xZcfp) | 3:36 |
 | 53 | [boy you turn me](https://open.spotify.com/track/5xM6Saib7CixujU8BFW2eN) | [felix jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [boy you turn me](https://open.spotify.com/album/0yYcF3WuWkHIYpsyWUpRfA) | 3:12 |
-| 54 | [Parachute](https://open.spotify.com/track/2XZn85D188f2bGdV3zmmrF) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Parachute](https://open.spotify.com/album/3t4ZHswZdOfXd6TcZ51uHl) | 3:42 |
-| 55 | [Use Me](https://open.spotify.com/track/3I6q7b1keDmi75xjPT2RIs) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY! THE ENCORE](https://open.spotify.com/album/7IjN10VEnyA5wnPOcLx12H) | 3:18 |
+| 54 | [Use Me](https://open.spotify.com/track/3I6q7b1keDmi75xjPT2RIs) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY! THE ENCORE](https://open.spotify.com/album/7IjN10VEnyA5wnPOcLx12H) | 3:18 |
+| 55 | [Parachute](https://open.spotify.com/track/2XZn85D188f2bGdV3zmmrF) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Parachute](https://open.spotify.com/album/3t4ZHswZdOfXd6TcZ51uHl) | 3:42 |
 | 56 | [Hey Lonely](https://open.spotify.com/track/0zY2uiQbbovuqLoaz3bnm6) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [DISCO \(Deluxe\)](https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG) | 3:28 |
 | 57 | [Wildfire](https://open.spotify.com/track/77uHWvtER9QbyBpWPDmZ3b) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n) | [Wildfire](https://open.spotify.com/album/1vcZTJZVgo4maGfGoG8ZMq) | 2:29 |
 | 58 | [Love Train](https://open.spotify.com/track/6TTDhRdbaRpTyqi6UiESAv) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 2:55 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxFD4d1Adk5m.md) - [plain]
 | 122 | [The Greatest \- Vocal Mix](https://open.spotify.com/track/1lEeOgUqCTAYK9rBA3gPBc) | [Mell Tierra](https://open.spotify.com/artist/0mRnzQ57yTuNxmAQWqKzYO), [Maegan Cottone](https://open.spotify.com/artist/3d8BRJdkVQMFmdRu2eR3yg) | [The Greatest](https://open.spotify.com/album/6ssf0Pv7erh4z26k7Iu2Tl) | 5:37 |
 | 123 | [Girls \- Radio Edit](https://open.spotify.com/track/4R87R0NWr7o6kE7lYqRi6p) | [Yves Larock & Tony Sylla](https://open.spotify.com/artist/1hbYJOKyrqE7h6nxPlBpZu), [Tara Mcdonald](https://open.spotify.com/artist/2yWER4vAftcZCFPc7ednct) | [Girls \(Radio Edit\)](https://open.spotify.com/album/6Fc4SUyyITx6ZWy9v9p2Qc) | 3:25 |
 
-Snapshot ID: `AcU7xgAAAACdtICoHB50DKl/DIKIozig`
+Snapshot ID: `AcVBZgAAAABgT+HbhmovStYPNq1+kIfg`

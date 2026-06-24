@@ -1,6 +1,6 @@
 {
   "description": "Sun's out...and so are you!  Let these inspirational and faith-filled songs soundtrack your summer fun!",
-  "num_followers": 33124,
+  "num_followers": 33131,
   "original_name": "Summer Spirit",
   "owner": {
     "name": "Spotify",
@@ -387,26 +387,6 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
-        "name": "The Sacrifice",
-        "url": "https://open.spotify.com/album/1Axo3TBWbcL604Jup2pYUB"
-      },
-      "artists": [
-        {
-          "name": "7 Hills Worship",
-          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
-        },
-        {
-          "name": "Brennan Storer",
-          "url": "https://open.spotify.com/artist/1ghKTwpPVenS5TCCFNl0Y8"
-        }
-      ],
-      "duration_ms": 228215,
-      "name": "The Sacrifice",
-      "url": "https://open.spotify.com/track/35Bkyy0sIJ2HB2fEJXlV43"
-    },
-    {
-      "added_at": "2026-05-29 08:59:34",
-      "album": {
         "name": "I'm So Blessed (Aaron Cole Mix)",
         "url": "https://open.spotify.com/album/7itmb3rK26AZtLbdzy8QNQ"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 175090,
       "name": "I'm So Blessed - Aaron Cole Mix",
       "url": "https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe"
+    },
+    {
+      "added_at": "2026-05-29 08:59:34",
+      "album": {
+        "name": "The Sacrifice",
+        "url": "https://open.spotify.com/album/1Axo3TBWbcL604Jup2pYUB"
+      },
+      "artists": [
+        {
+          "name": "7 Hills Worship",
+          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
+        },
+        {
+          "name": "Brennan Storer",
+          "url": "https://open.spotify.com/artist/1ghKTwpPVenS5TCCFNl0Y8"
+        }
+      ],
+      "duration_ms": 228215,
+      "name": "The Sacrifice",
+      "url": "https://open.spotify.com/track/35Bkyy0sIJ2HB2fEJXlV43"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
-        "name": "backseat drive",
-        "url": "https://open.spotify.com/album/0KfV7F7WilXiUspp3YN1Hr"
-      },
-      "artists": [
-        {
-          "name": "Strings & Heart",
-          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
-        }
-      ],
-      "duration_ms": 174650,
-      "name": "backseat drive",
-      "url": "https://open.spotify.com/track/4IValzT5ZRzUXyofWl8mbp"
-    },
-    {
-      "added_at": "2026-05-29 08:59:34",
-      "album": {
         "name": "Summer '24",
         "url": "https://open.spotify.com/album/71BjrIMnTqRayN5pm5b3mt"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 138947,
       "name": "Move",
       "url": "https://open.spotify.com/track/2zFuw2F2ryWdseOeVILZlN"
+    },
+    {
+      "added_at": "2026-05-29 08:59:34",
+      "album": {
+        "name": "backseat drive",
+        "url": "https://open.spotify.com/album/0KfV7F7WilXiUspp3YN1Hr"
+      },
+      "artists": [
+        {
+          "name": "Strings & Heart",
+          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+        }
+      ],
+      "duration_ms": 174650,
+      "name": "backseat drive",
+      "url": "https://open.spotify.com/track/4IValzT5ZRzUXyofWl8mbp"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
-        "name": "wildfire",
-        "url": "https://open.spotify.com/album/4U3TSSiZ9NZEnXP2IkFCbz"
-      },
-      "artists": [
-        {
-          "name": "Strings & Heart",
-          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
-        }
-      ],
-      "duration_ms": 161635,
-      "name": "wildfire",
-      "url": "https://open.spotify.com/track/4rYBBqMyM8dCdI9sad9FmO"
-    },
-    {
-      "added_at": "2026-05-29 08:59:34",
-      "album": {
         "name": "Love Me Back to Life",
         "url": "https://open.spotify.com/album/3HZqRpVyE10Z5PEJ3gXLbM"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 167617,
       "name": "Love Me Back to Life",
       "url": "https://open.spotify.com/track/28ZTokxLv6KCdjjgqI0T5J"
+    },
+    {
+      "added_at": "2026-05-29 08:59:34",
+      "album": {
+        "name": "wildfire",
+        "url": "https://open.spotify.com/album/4U3TSSiZ9NZEnXP2IkFCbz"
+      },
+      "artists": [
+        {
+          "name": "Strings & Heart",
+          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+        }
+      ],
+      "duration_ms": 161635,
+      "name": "wildfire",
+      "url": "https://open.spotify.com/track/4rYBBqMyM8dCdI9sad9FmO"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
-        "name": "redeemed",
-        "url": "https://open.spotify.com/album/5Gz7B8CntlUIvMoGlKZY3f"
-      },
-      "artists": [
-        {
-          "name": "sun haze",
-          "url": "https://open.spotify.com/artist/2fm6kygt9BS4un4NcXC5E2"
-        }
-      ],
-      "duration_ms": 205448,
-      "name": "redeemed",
-      "url": "https://open.spotify.com/track/2lkHVcg3Ur0DK0YGR2RFT2"
-    },
-    {
-      "added_at": "2026-05-29 08:59:34",
-      "album": {
         "name": "give & take",
         "url": "https://open.spotify.com/album/7ufigBepuzBwx2TDA5lgWC"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 206719,
       "name": "give & take",
       "url": "https://open.spotify.com/track/5zjbwZNZn7vNdb6ep4Xszq"
+    },
+    {
+      "added_at": "2026-05-29 08:59:34",
+      "album": {
+        "name": "redeemed",
+        "url": "https://open.spotify.com/album/5Gz7B8CntlUIvMoGlKZY3f"
+      },
+      "artists": [
+        {
+          "name": "sun haze",
+          "url": "https://open.spotify.com/artist/2fm6kygt9BS4un4NcXC5E2"
+        }
+      ],
+      "duration_ms": 205448,
+      "name": "redeemed",
+      "url": "https://open.spotify.com/track/2lkHVcg3Ur0DK0YGR2RFT2"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
-        "name": "Love Me To Life",
-        "url": "https://open.spotify.com/album/2u6oiZH2s25dZlhrJ2J8n9"
-      },
-      "artists": [
-        {
-          "name": "Lee Vasi",
-          "url": "https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf"
-        }
-      ],
-      "duration_ms": 150662,
-      "name": "Love Me Anyway",
-      "url": "https://open.spotify.com/track/4FiC3pmU9BruZNna7YH84u"
-    },
-    {
-      "added_at": "2026-05-29 08:59:34",
-      "album": {
         "name": "MILLION WAYS",
         "url": "https://open.spotify.com/album/4ERLlP8GmGNr91szsBNiU2"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 210933,
       "name": "MILLION WAYS",
       "url": "https://open.spotify.com/track/1NddiFqEEAbo1cH5OJo2gP"
+    },
+    {
+      "added_at": "2026-05-29 08:59:34",
+      "album": {
+        "name": "Love Me To Life",
+        "url": "https://open.spotify.com/album/2u6oiZH2s25dZlhrJ2J8n9"
+      },
+      "artists": [
+        {
+          "name": "Lee Vasi",
+          "url": "https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf"
+        }
+      ],
+      "duration_ms": 150662,
+      "name": "Love Me Anyway",
+      "url": "https://open.spotify.com/track/4FiC3pmU9BruZNna7YH84u"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
+        "name": "Sweeter",
+        "url": "https://open.spotify.com/album/43y1ttbhckLH6AV9i8oR0q"
+      },
+      "artists": [
+        {
+          "name": "John Mark Pantana",
+          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
+        }
+      ],
+      "duration_ms": 216583,
+      "name": "Sweeter",
+      "url": "https://open.spotify.com/track/5JhK3XsKHNrfejHmonKTto"
+    },
+    {
+      "added_at": "2026-05-29 08:59:34",
+      "album": {
         "name": "Ancient of Days (reimagined)",
         "url": "https://open.spotify.com/album/6n5HgfPa0riif5Lex5n7nm"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 241998,
       "name": "Ancient of Days (reimagined)",
       "url": "https://open.spotify.com/track/3RXZmXBwAuIZOBNIwkQvzO"
-    },
-    {
-      "added_at": "2026-05-29 08:59:34",
-      "album": {
-        "name": "Sweeter",
-        "url": "https://open.spotify.com/album/43y1ttbhckLH6AV9i8oR0q"
-      },
-      "artists": [
-        {
-          "name": "John Mark Pantana",
-          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
-        }
-      ],
-      "duration_ms": 216583,
-      "name": "Sweeter",
-      "url": "https://open.spotify.com/track/5JhK3XsKHNrfejHmonKTto"
     },
     {
       "added_at": "2026-05-29 08:59:34",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-30",
-  "description": "The best new music by independent Experimental artists. <a href=\"spotify:artist:23vJAg53gio3DsY5jJof5H\">KatzPascale</a> on cover. Artwork by Thami Nabil.",
+  "description": "The best new music by independent Experimental artists. <a href=\"spotify:artist:4bt8JAxE4tksg2VBgMCvIe\">NZIRIA</a> on cover. Artwork by Thami Nabil.",
   "name": "Fresh Finds Experimental",
   "tracks": [
     {
@@ -962,7 +962,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 207333,
       "name": "a feeling",
       "url": "https://open.spotify.com/track/0q4GQFQkzhkKUlzZZv0eNb"
@@ -2687,6 +2687,24 @@
     },
     {
       "album": {
+        "name": "Angelico",
+        "url": "https://open.spotify.com/album/1zH9MrWRknyxPkywpWntko"
+      },
+      "artists": [
+        {
+          "name": "NZIRIA",
+          "url": "https://open.spotify.com/artist/4bt8JAxE4tksg2VBgMCvIe"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340961,
+      "name": "Angelico",
+      "url": "https://open.spotify.com/track/4a0emwqhna7Mkp49AbtysM"
+    },
+    {
+      "album": {
         "name": "The Ring Orchestra",
         "url": "https://open.spotify.com/album/3CQoLkj9sJ5EgFxFIra1xe"
       },
@@ -3486,6 +3504,24 @@
       "duration_ms": 128750,
       "name": "Assim",
       "url": "https://open.spotify.com/track/5QsxLzOb24HfclGs6BLEt1"
+    },
+    {
+      "album": {
+        "name": "Potpourri",
+        "url": "https://open.spotify.com/album/27lvZ2BqY9SiM1fLqaYuKB"
+      },
+      "artists": [
+        {
+          "name": "Debit",
+          "url": "https://open.spotify.com/artist/101vLnWdoeyAyQhADB4bqe"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202210,
+      "name": "Assimilate",
+      "url": "https://open.spotify.com/track/35Ig2fefkW7C88p74cZFkG"
     },
     {
       "album": {
@@ -5434,6 +5470,24 @@
       "duration_ms": 219422,
       "name": "Body Temp Infinite",
       "url": "https://open.spotify.com/track/5SxMDd2BfaPn624d6BvIIK"
+    },
+    {
+      "album": {
+        "name": "BODYSCANNER",
+        "url": "https://open.spotify.com/album/6yVXRukkf1iclK4fuLazlL"
+      },
+      "artists": [
+        {
+          "name": "UCHE YARA",
+          "url": "https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307500,
+      "name": "BODYSCANNER",
+      "url": "https://open.spotify.com/track/0R9qBvtWzq87FFBq5CetPN"
     },
     {
       "album": {
@@ -9109,6 +9163,24 @@
     },
     {
       "album": {
+        "name": "SONS DE EMBALAR PARA TEMPOS DE *****",
+        "url": "https://open.spotify.com/album/40AGhML6lyoU8edSgeVGS1"
+      },
+      "artists": [
+        {
+          "name": "Gil Dion\u00edsio",
+          "url": "https://open.spotify.com/artist/1cNxusdvXFitPzzJOGolCn"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 671000,
+      "name": "depois do sonho, s\u00f3 a saudade de quem nunca fomos",
+      "url": "https://open.spotify.com/track/5rJNKsvuFfDjlFqkXUXGml"
+    },
+    {
+      "album": {
         "name": "Weisheit aus des Kindes Mund tut uns stets die Wahrheit kund",
         "url": "https://open.spotify.com/album/28dWBubs4Bm3Xp2yKFQVi8"
       },
@@ -10426,7 +10498,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 284230,
       "name": "D\u00e9j\u00e0 Vu",
       "url": "https://open.spotify.com/track/0Ejc6Fsce0cMfDevrqKLKg"
@@ -11820,6 +11892,28 @@
       "duration_ms": 342463,
       "name": "Everything Is Going To Make Sense In The End (Daniel Brandt Remix)",
       "url": "https://open.spotify.com/track/7BqXXObACQqxqSMKBTkLZ0"
+    },
+    {
+      "album": {
+        "name": "EVIDENT 2 ME",
+        "url": "https://open.spotify.com/album/5lD6KCEMPfl1trVAGNkfQ7"
+      },
+      "artists": [
+        {
+          "name": "Cartel Madras",
+          "url": "https://open.spotify.com/artist/3nwKi37CnuKq5BcPr267h3"
+        },
+        {
+          "name": "Jide",
+          "url": "https://open.spotify.com/artist/6EDGpM5rVt6GsOh5ypS04Y"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110221,
+      "name": "EVIDENT 2 ME",
+      "url": "https://open.spotify.com/track/0B9QzxPp0lKpcyp95YIOOu"
     },
     {
       "album": {
@@ -20246,7 +20340,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 363568,
       "name": "Law Riderz",
       "url": "https://open.spotify.com/track/2Xl5fgDdL48D5SuhpzpPA7"
@@ -23480,7 +23574,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 256000,
       "name": "MOTH",
       "url": "https://open.spotify.com/track/1H4gXQt5jHktMwJo59akVV"
@@ -24452,7 +24546,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 248198,
       "name": "Never Do It Right",
       "url": "https://open.spotify.com/track/0mV4QNbQb0t7rqKz35sOUa"
@@ -30976,7 +31070,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 282657,
       "name": "SHANG FILM",
       "url": "https://open.spotify.com/track/5jIwbj2BunKwqgca2EUYji"
@@ -36402,6 +36496,28 @@
       "duration_ms": 237408,
       "name": "This Shame Should Not Be Mine",
       "url": "https://open.spotify.com/track/5U7mdyOJpqtc9G3ViWq3jz"
+    },
+    {
+      "album": {
+        "name": "This Time I'm Present (fantasy of a broken heart remix)",
+        "url": "https://open.spotify.com/album/7Cgro0l9SRybCSsd3rnRnj"
+      },
+      "artists": [
+        {
+          "name": "Ulrika Spacek",
+          "url": "https://open.spotify.com/artist/07vC6cutbett8UknXnqxsu"
+        },
+        {
+          "name": "fantasy of a broken heart",
+          "url": "https://open.spotify.com/artist/7fgs0Ym1ukMZDgKjx8mbMe"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187466,
+      "name": "This Time I'm Present - fantasy of a broken heart remix",
+      "url": "https://open.spotify.com/track/2AVlpz92925WNjPzqmmvCl"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Heia Norge 🇳🇴⚽️🏟️
 
-241 songs - 11 hr 9 min
+242 songs - 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Norge i rødt hvitt, og blått](https://open.spotify.com/track/7LaHknYqqjZX59BJT305fw) | [RykkinnFella](https://open.spotify.com/artist/6KSaWsYvSy4JV7pM6MWQEK), [Jack Dee](https://open.spotify.com/artist/1O4AnKY2Rp3ZNM5EmUqJrd), [Ola Nordmann](https://open.spotify.com/artist/1NmbrZqVbinlAMscrnV3Jt) | [Norge i rødt, hvitt og blått](https://open.spotify.com/album/70xWT6PMJ5A8XX4sunFI2Z) | 2:33 | 2026-05-28 |  |
 | [Norge rundt](https://open.spotify.com/track/61UNCRjs82yxBMRtgAgPMO) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Norge rundt](https://open.spotify.com/album/4dVFKFPfQRC8DdsYRAIOma) | 3:24 | 2026-05-28 |  |
 | [Norge skal til VM](https://open.spotify.com/track/6ne5zNCWqsD4v3J9xEcYWz) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Norge skal til VM](https://open.spotify.com/album/4zzMlmA5wu8WlyT9f1nRgI) | 2:24 | 2026-05-28 |  |
+| [Norge skårte mål](https://open.spotify.com/track/57A2AQ1FjfAItYUIzhs4E6) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Han Helge & Han Håkon](https://open.spotify.com/artist/1bIbltluV9bXeETPkdhDKI), [André Jensen](https://open.spotify.com/artist/23FJYGygLXgiEHgVhzye71) | [Norge skårte mål](https://open.spotify.com/album/41JyMkkffGt09pkVnmI19w) | 1:53 | 2026-06-23 |  |
 | [Normandie](https://open.spotify.com/track/66efVUD3ziUs3mPLZWysJ6) | [Kudos](https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7), [BERGREM](https://open.spotify.com/artist/3xw4Fyy4UUWDSVfScqt2BH) | [Normandie](https://open.spotify.com/album/77n1CfO0adsKZVHCGrZMnH) | 2:13 | 2025-06-26 | 2026-01-27 |
 | [Not At This Party](https://open.spotify.com/track/2V45ERWv9xrvV7Udm0a8di) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Not At This Party](https://open.spotify.com/album/3HeSxkLXlUx9ugabrCXa4t) | 3:32 | 2025-02-27 | 2025-09-19 |
 | [når du slår ut håret blir jeg slått ut](https://open.spotify.com/track/2tqcI5NvNbt9F8fP33I9B5) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ) | [når du slår ut håret blir jeg slått ut](https://open.spotify.com/album/1wOjIjsn0o2fPE0OkrOdHv) | 1:57 | 2024-06-27 | 2024-08-13 |
@@ -235,7 +236,7 @@
 | [Vertigo](https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc) | 2:59 | 2024-06-27 | 2025-04-20 |
 | [Vestkantvilla](https://open.spotify.com/track/3SHHJUbeOcqef74LsHVkM9) | [Metropolen](https://open.spotify.com/artist/2veUQvo0k7rk3TI5l0EnIi) | [Vestkantvilla](https://open.spotify.com/album/6hHY52SUkdHlv8tHeckjAX) | 1:52 | 2025-06-19 | 2025-08-08 |
 | [Vi heier på vårt lille land](https://open.spotify.com/track/3GiuNkNyJIY80035FKGqJP) | [Ståles menn](https://open.spotify.com/artist/7jdPqVIVJ9kb4u4JT5v3VX), [Andreas Gjefle](https://open.spotify.com/artist/0Bu6xDBv66W7kMNQf9Gs9d) | [Alt for Norge / Vi heier på vårt lille land](https://open.spotify.com/album/6Qg9Bgr5pZT9BT0ufN2Ms7) | 2:42 | 2026-05-28 |  |
-| [Vikingblod](https://open.spotify.com/track/34YF4ZTr6cWQyHsjAmV1Co) | [Oljeberget](https://open.spotify.com/artist/2fpiU89XxYeTRcnPtuEBip), [Katastrofe](https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR) | [Vikingblod](https://open.spotify.com/album/6U7wwnQ9GrWMj4dCvOXky1) | 2:42 | 2026-06-16 |  |
+| [Vikingblod \(Norway Row Chant\)](https://open.spotify.com/track/34YF4ZTr6cWQyHsjAmV1Co) | [Oljeberget](https://open.spotify.com/artist/2fpiU89XxYeTRcnPtuEBip), [Katastrofe](https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR) | [Vikingblod \(Norway Row Chant\)](https://open.spotify.com/album/6U7wwnQ9GrWMj4dCvOXky1) | 2:42 | 2026-06-16 |  |
 | [Vil Ikke Dele](https://open.spotify.com/track/7McuDKPPrOXe5I0Y7b8wlg) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Vil Ikke Dele](https://open.spotify.com/album/2F8IyxW4ddsPxLjYPFwGg3) | 2:15 | 2025-01-16 | 2025-10-14 |
 | [Vin](https://open.spotify.com/track/4UGiylwOx9pBF0D6VlnhpR) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ) | [Sorgenfri](https://open.spotify.com/album/4n8prSVQyN3Cp4KcfCRyEi) | 2:29 | 2024-06-27 | 2026-05-29 |
 | [VIS MEG DIN VERDEN](https://open.spotify.com/track/4xqPNwRkLyiiV2oqju92ie) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi), [Aiba](https://open.spotify.com/artist/6Lu4e8FvAWcp1S5BVoDLjJ) | [FRIHET I LENKER](https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ) | 2:58 | 2024-10-24 | 2026-02-13 |

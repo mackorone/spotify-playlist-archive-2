@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 
 > 🐹김햄찌와 함께 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요\. \(Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable with Haemjji.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,305 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,315 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 7 | [Sweetbitter](https://open.spotify.com/track/11NREXvElBBK1AinDmyyAC) | [RIO](https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g) | [The Young Lover](https://open.spotify.com/album/7t6I8wuSmjZvCUkE8feG8Q) | 2:54 |
 | 8 | [Rest](https://open.spotify.com/track/0NnQTCaZnKrOK1lojv5qYI) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Every letter I sent you.](https://open.spotify.com/album/22DH3kdbdLrelnvpkf6VHu) | 3:28 |
 | 9 | [Late Night Calls](https://open.spotify.com/track/6Dl3R2ZTaM9XjqU1Jzt714) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Essence of Reverie](https://open.spotify.com/album/5m3xaHvFvODdctmtdQ9qzB) | 3:13 |
-| 10 | [Orange Splash \(feat\. 진동욱\)](https://open.spotify.com/track/6s2vKdkMUVI9AwKypQYbyL) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [진동욱](https://open.spotify.com/artist/0Qh4A2i8KfhKwEQscNo48n) | [Orange Splash](https://open.spotify.com/album/1TN2cAe1oAZW2eJkUxpZ2C) | 2:23 |
-| 11 | [How's your night](https://open.spotify.com/track/5smRDSCWCMUY15WcYOyC5D) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [O\_ne](https://open.spotify.com/album/7J2D83uEMfzBtzjDOAEcTt) | 4:23 |
+| 10 | [How's your night](https://open.spotify.com/track/5smRDSCWCMUY15WcYOyC5D) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [O\_ne](https://open.spotify.com/album/7J2D83uEMfzBtzjDOAEcTt) | 4:23 |
+| 11 | [Orange Splash \(feat\. 진동욱\)](https://open.spotify.com/track/6s2vKdkMUVI9AwKypQYbyL) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [진동욱](https://open.spotify.com/artist/0Qh4A2i8KfhKwEQscNo48n) | [Orange Splash](https://open.spotify.com/album/1TN2cAe1oAZW2eJkUxpZ2C) | 2:23 |
 | 12 | [Forest](https://open.spotify.com/track/2T0dcL9HI7t0W9H0vJANAN) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [In Your Radiant Season \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/11aaLvJEQx6IrJ1EySCOmn) | 3:23 |
 | 13 | [Koko](https://open.spotify.com/track/66PFcWSVV5PUvwYNZfbd08) | [Lee Kang Seung 이강승](https://open.spotify.com/artist/6l3XS49h2cvD2rcU4TaBTz) | [In other words it’s all made by Kyeongsuk](https://open.spotify.com/album/4tzcujfn2vABcEZHyekAxs) | 3:48 |
 | 14 | [Shining](https://open.spotify.com/track/4YgkvKLJGdjy3LyMBiJnxa) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Still Shining OST Part.7](https://open.spotify.com/album/5BQZMlxrr98Yi4KeKY8ZMA) | 3:45 |

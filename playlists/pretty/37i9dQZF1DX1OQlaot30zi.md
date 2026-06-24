@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata 😈 Con nuovi brani di ANNA, Fabri Fibra, Madame, Neima Ezza,  DrefGold e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,720 likes - 99 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,728 likes - 99 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 10 | [JUST MUSIC](https://open.spotify.com/track/7aDyoWF5HisJpkb9X8L2nQ) | [PRACI](https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5) | [JUST MUSIC](https://open.spotify.com/album/7tYQel0bPdxmo9IThsQjo2) | 2:44 |
 | 11 | [Bandito](https://open.spotify.com/track/4TTJpJqCoG1HrXhnNENqAp) | [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9), [Fresh Beatz](https://open.spotify.com/artist/6HQ27YefiitrZ9YsWrgRHX) | [Bandito](https://open.spotify.com/album/7aeDTh7h77f5hsLz6f7DrP) | 2:00 |
 | 12 | [SAN SIRO](https://open.spotify.com/track/22UL1KZToxLlUzBYmeSVMG) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Young Adz](https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga) | [SAN SIRO](https://open.spotify.com/album/4Ugu4GGpREqxlvmG5Jc0IJ) | 2:58 |
-| 13 | [Stamm Chin](https://open.spotify.com/track/4JuXGa27SZ6VuoJmS07XsU) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX) | [Stamm Chin](https://open.spotify.com/album/09MdxbHAUll6rtS3kw6c33) | 2:15 |
+| 13 | [Stamm Chin](https://open.spotify.com/track/4JuXGa27SZ6VuoJmS07XsU) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem) | [Stamm Chin](https://open.spotify.com/album/09MdxbHAUll6rtS3kw6c33) | 2:15 |
 | 14 | [Island Summer](https://open.spotify.com/track/6hZR5Xv76Gw0kloYW5l7It) | [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N) | [Island Summer](https://open.spotify.com/album/1FnQX1QBAQdyALTe4Z3ANB) | 2:11 |
 | 15 | [Selena Gomez](https://open.spotify.com/track/22pDDaPCT3zthpC73iy5ui) | [Lubi](https://open.spotify.com/artist/6RS8ydeeuOdtRNMI6sdWQy) | [Selena Gomez](https://open.spotify.com/album/2JrawLPb3QRBr3Jp2XU2yb) | 2:55 |
 | 16 | [E Allora](https://open.spotify.com/track/1XzHasEgB7QoXXtoD3sUKY) | [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs), [Flatpearl](https://open.spotify.com/artist/2ifTEcQqKSPwijIEcPHQ1R), [Succo](https://open.spotify.com/artist/1l1A1U8VJM15W7zonFqKhg) | [È O G.](https://open.spotify.com/album/3vAjsYdC3b1kYWqmZaM4sd) | 1:51 |

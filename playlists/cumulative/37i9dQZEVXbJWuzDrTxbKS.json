@@ -1928,7 +1928,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-28",
+      "date_removed": null,
       "duration_ms": 222466,
       "name": "Ai, jel manu vieglu pr\u0101tu",
       "url": "https://open.spotify.com/track/59MD2NDaTT0ZvOELrOCthn"
@@ -4478,7 +4478,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -11966,7 +11966,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 280753,
       "name": "Dirty Diana - 2012 Remaster",
       "url": "https://open.spotify.com/track/0AcgKF7kbSoCkh3n7vlHwK"
@@ -13900,7 +13900,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 222000,
       "name": "D\u0101rznieks",
       "url": "https://open.spotify.com/track/2O200TTEi6VADZCOaQEoj9"
@@ -22472,7 +22472,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 177982,
       "name": "ICONIC BY MISTAKE",
       "url": "https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD"
@@ -24481,6 +24481,24 @@
     },
     {
       "album": {
+        "name": "Vislab\u0101k\u0101 Latvie\u0161u \u0160l\u0101germ\u016bzikas Izlase",
+        "url": "https://open.spotify.com/album/1nUGx2yuIZRKKkl8vMU2F6"
+      },
+      "artists": [
+        {
+          "name": "Bru\u0123is",
+          "url": "https://open.spotify.com/artist/1FXOOmvw8QVXOXwxvAZ1ok"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195973,
+      "name": "Kaija",
+      "url": "https://open.spotify.com/track/3xkTjdH15LK28oR2rIu9YY"
+    },
+    {
+      "album": {
         "name": "Tavs st\u0101sts",
         "url": "https://open.spotify.com/album/7sP7yiBxFhir4L6MSWTncR"
       },
@@ -26046,7 +26064,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-26",
+      "date_removed": null,
       "duration_ms": 216080,
       "name": "Lai",
       "url": "https://open.spotify.com/track/1W4r5aR8ZFIy6RQOolTs0E"
@@ -27258,7 +27276,7 @@
       ],
       "date_added": "2021-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 161803,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC"
@@ -27648,7 +27666,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-26",
+      "date_removed": null,
       "duration_ms": 254973,
       "name": "Lilioma dziesma",
       "url": "https://open.spotify.com/track/3GuvLTH6JldBP7Ctk1B82Q"
@@ -28398,7 +28416,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -33134,7 +33152,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-23",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "M\u016b\u017eam Jauns",
       "url": "https://open.spotify.com/track/3oQTUYUbPjUZybgQhS6yfW"
@@ -34606,7 +34624,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 265500,
       "name": "Nomaina R\u012bti",
       "url": "https://open.spotify.com/track/2rsAcD6CBAWL0aPFaDj48W"
@@ -38678,7 +38696,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 153028,
       "name": "Pl\u0101ksteris",
       "url": "https://open.spotify.com/track/1oGmFrMqitiA38yJZnvWin"
@@ -47134,7 +47152,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 277066,
       "name": "Str\u0113lniece",
       "url": "https://open.spotify.com/track/6pxXe8LKysTWAlujZg74sp"
@@ -47210,7 +47228,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 209680,
       "name": "stupid song",
       "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
@@ -50242,7 +50260,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 195873,
       "name": "The Spins",
       "url": "https://open.spotify.com/track/3iEUDvanZwQhLCIqUmCR7N"
@@ -50954,7 +50972,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-21",
+      "date_removed": null,
       "duration_ms": 282506,
       "name": "Tikai T\u0101",
       "url": "https://open.spotify.com/track/62OgS4p4gVDjUqXX3iljNd"
@@ -52336,6 +52354,24 @@
       "duration_ms": 315280,
       "name": "Tu Saki",
       "url": "https://open.spotify.com/track/3tzNVqoedgEnkeuYzwJ2Xa"
+    },
+    {
+      "album": {
+        "name": "Starp Tevi un Mani",
+        "url": "https://open.spotify.com/album/7AEbJiDfKS6VWeqiuh4EPX"
+      },
+      "artists": [
+        {
+          "name": "Z-Scars",
+          "url": "https://open.spotify.com/artist/3sm4t7hF7sfhxzsCoMp7Me"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236280,
+      "name": "Tu Tuvojies Sev",
+      "url": "https://open.spotify.com/track/15zy9g9cHxorqRu8QsbLWE"
     },
     {
       "album": {
@@ -57770,7 +57806,7 @@
       ],
       "date_added": "2021-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-28",
+      "date_removed": null,
       "duration_ms": 279440,
       "name": "\u010cetri krasti",
       "url": "https://open.spotify.com/track/6ay1wKfMAH4jpAzUIxF39f"
@@ -57876,7 +57912,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-26",
+      "date_removed": null,
       "duration_ms": 234960,
       "name": "\u0160ai J\u0101\u0146u vakar\u0101",
       "url": "https://open.spotify.com/track/5NEUf58N1J0F5YcbOg7z2F"

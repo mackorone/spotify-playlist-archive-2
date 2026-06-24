@@ -3580,7 +3580,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 251223,
       "name": "P\u00e1jaro y Demonio - En Vivo en Estadio Ferro",
       "url": "https://open.spotify.com/track/2jCMZLVsoJVy2kXMVCo6WB"
@@ -4674,6 +4674,28 @@
       "duration_ms": 95108,
       "name": "Vete - En Vivo",
       "url": "https://open.spotify.com/track/5EkVGJzbtrFPoTpMIapgBu"
+    },
+    {
+      "album": {
+        "name": "Y Hoy Quieres Volver",
+        "url": "https://open.spotify.com/album/5D5cjMetTBrykN1qDcKUMO"
+      },
+      "artists": [
+        {
+          "name": "Malagata",
+          "url": "https://open.spotify.com/artist/549gX84eSqoYRJp8BglJqy"
+        },
+        {
+          "name": "Chili Fernandez",
+          "url": "https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169707,
+      "name": "Y Hoy Quieres Volver",
+      "url": "https://open.spotify.com/track/3kjJbUds3JAsKytHJf9iMW"
     },
     {
       "album": {

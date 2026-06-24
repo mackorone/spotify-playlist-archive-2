@@ -1,12 +1,12 @@
 {
   "description": "This is Perdidos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 57530,
+  "num_followers": 57535,
   "original_name": "This Is Perdidos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajcpgAAAAAAZmP9BCFIEwWvQIbQhhsQ1",
+  "snapshot_id": "ajh7AAAAAACOu2PxfCL/g5BnmkIARYIS",
   "tracks": [
     {
       "added_at": null,
@@ -195,18 +195,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No La Hagas Sufrir",
-        "url": "https://open.spotify.com/album/0Ti9OKOhKoZ56iWmUVK0As"
+        "name": "Tu Naturaleza",
+        "url": "https://open.spotify.com/album/0wAR5FCLUdFszqMKic434x"
       },
       "artists": [
+        {
+          "name": "Sim\u00f3n Le\u00f3n",
+          "url": "https://open.spotify.com/artist/4mTHBSlYMRCM1c22vaQjh0"
+        },
         {
           "name": "Perdidos De Sinaloa",
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
         }
       ],
-      "duration_ms": 213670,
-      "name": "No La Hagas Sufrir",
-      "url": "https://open.spotify.com/track/30cVv2focHPXf37kpTJkfV"
+      "duration_ms": 184523,
+      "name": "Tu Naturaleza",
+      "url": "https://open.spotify.com/track/59qkoYLBlVCbnhhpg8Z78H"
     },
     {
       "added_at": null,
@@ -227,22 +231,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Naturaleza",
-        "url": "https://open.spotify.com/album/0wAR5FCLUdFszqMKic434x"
+        "name": "No La Hagas Sufrir",
+        "url": "https://open.spotify.com/album/0Ti9OKOhKoZ56iWmUVK0As"
       },
       "artists": [
-        {
-          "name": "Sim\u00f3n Le\u00f3n",
-          "url": "https://open.spotify.com/artist/4mTHBSlYMRCM1c22vaQjh0"
-        },
         {
           "name": "Perdidos De Sinaloa",
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
         }
       ],
-      "duration_ms": 184523,
-      "name": "Tu Naturaleza",
-      "url": "https://open.spotify.com/track/59qkoYLBlVCbnhhpg8Z78H"
+      "duration_ms": 213670,
+      "name": "No La Hagas Sufrir",
+      "url": "https://open.spotify.com/track/30cVv2focHPXf37kpTJkfV"
     },
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tres Botes",
+        "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 237182,
+      "name": "Si Tu Quieres",
+      "url": "https://open.spotify.com/track/2TbeBA72jmvoAXnBvnezKB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Te So\u00f1\u00e9",
         "url": "https://open.spotify.com/album/1MxOELHpth8E33rUByRI37"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 235798,
       "name": "Te So\u00f1\u00e9",
       "url": "https://open.spotify.com/track/7J9QZv972WMhZlxZBvswN8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tres Botes",
-        "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 237182,
-      "name": "Si Tu Quieres",
-      "url": "https://open.spotify.com/track/2TbeBA72jmvoAXnBvnezKB"
     },
     {
       "added_at": null,
@@ -807,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Luchon",
+        "url": "https://open.spotify.com/album/7yE5a3kEdg2Vw1WpnDcgfz"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 163893,
+      "name": "Luchon",
+      "url": "https://open.spotify.com/track/3SbiPpfN0l8BmeQZOFKUWu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Ranchito",
         "url": "https://open.spotify.com/album/5nQkFKC4AuQrK5yzIE338z"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 174863,
       "name": "Mi Ranchito - En Vivo",
       "url": "https://open.spotify.com/track/46rZ3cUjOuzxpJqI9lCaHP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Luchon",
-        "url": "https://open.spotify.com/album/7yE5a3kEdg2Vw1WpnDcgfz"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 163893,
-      "name": "Luchon",
-      "url": "https://open.spotify.com/track/3SbiPpfN0l8BmeQZOFKUWu"
     },
     {
       "added_at": null,
@@ -887,6 +887,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hasta Que Se Apag\u00f3 El Carb\u00f3n...",
+        "url": "https://open.spotify.com/album/51n0ozzAIBKpsXxTch4M50"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 211680,
+      "name": "Besos En Guerra (En Vivo)",
+      "url": "https://open.spotify.com/track/0J7MwBf1MWqAFVkb96kn5Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Vivo Desde Tijuana",
         "url": "https://open.spotify.com/album/2TORCuwBsbwYncckRQrM5N"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 134058,
       "name": "La Ley De La Atracci\u00f3n - En Vivo",
       "url": "https://open.spotify.com/track/6uRlGVZQXEL2mVLMqFxtuT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hasta Que Se Apag\u00f3 El Carb\u00f3n...",
-        "url": "https://open.spotify.com/album/51n0ozzAIBKpsXxTch4M50"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 211680,
-      "name": "Besos En Guerra (En Vivo)",
-      "url": "https://open.spotify.com/track/0J7MwBf1MWqAFVkb96kn5Q"
     }
   ],
   "unique_name": "This Is Perdidos De Sinaloa",

@@ -1,12 +1,12 @@
 {
   "description": "This is Kylie Minogue. The essential tracks, all in one playlist.",
-  "num_followers": 174302,
+  "num_followers": 174336,
   "original_name": "This Is Kylie Minogue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajcpgAAAAAARHQPlWONhbxiLHpNFfqsn",
+  "snapshot_id": "ajh7AAAAAACMyn05M/SIBhmTG5BTUl5Q",
   "tracks": [
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 241466,
-      "name": "Can't Get Blue Monday out of My Head",
-      "url": "https://open.spotify.com/track/3DBErzKR7FVxLJvdzGlCLx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dance Alone",
         "url": "https://open.spotify.com/album/6VFvESDvhvsBjCSlIXpIXw"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 172246,
       "name": "Dance Alone",
       "url": "https://open.spotify.com/track/1XZy2eprbATl4AnL9Fpsw1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 241466,
+      "name": "Can't Get Blue Monday out of My Head",
+      "url": "https://open.spotify.com/track/3DBErzKR7FVxLJvdzGlCLx"
     },
     {
       "added_at": null,
@@ -623,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Abbey Road Sessions",
+        "url": "https://open.spotify.com/album/1BdQWouNev422Pnyrse62b"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 247533,
+      "name": "Where the Wild Roses Grow",
+      "url": "https://open.spotify.com/track/4NtVhnFAJNzV9tCIOwdPcX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DISCO (Deluxe)",
         "url": "https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 197880,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/1hIj5fZhmr8hsEpWhMOoiy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/55khqtC0aVEUkIAefNjklD"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 178880,
-      "name": "Dancing",
-      "url": "https://open.spotify.com/track/0NWP6SiwMWfb5m2GjU7ocj"
     },
     {
       "added_at": null,
@@ -691,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Abbey Road Sessions",
-        "url": "https://open.spotify.com/album/1BdQWouNev422Pnyrse62b"
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/55khqtC0aVEUkIAefNjklD"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 247533,
-      "name": "Where the Wild Roses Grow",
-      "url": "https://open.spotify.com/track/4NtVhnFAJNzV9tCIOwdPcX"
+      "duration_ms": 178880,
+      "name": "Dancing",
+      "url": "https://open.spotify.com/track/0NWP6SiwMWfb5m2GjU7ocj"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "The highlights of Eurovision from the 50s, 60s & 70s. Cover: ABBA",
-  "num_followers": 5962,
+  "num_followers": 5964,
   "original_name": "Eurovision Gold",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Lo Mejor de Betty Missiego",
-        "url": "https://open.spotify.com/album/1JvPV0pEYkITh1BRze9Ufi"
-      },
-      "artists": [
-        {
-          "name": "Betty Missiego",
-          "url": "https://open.spotify.com/artist/160HajXHxdQFEbwdvDaunP"
-        }
-      ],
-      "duration_ms": 183093,
-      "name": "Su Canci\u00f3n",
-      "url": "https://open.spotify.com/track/2YDMHFV05yjkhAbh2gDm6B"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "Solino",
         "url": "https://open.spotify.com/album/0I3MXd5FYGAj6X9GOJepMb"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 178720,
       "name": "Uno Per Tutte",
       "url": "https://open.spotify.com/track/4OF9t8dHcIBMip0Vc5hSlk"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "Lo Mejor de Betty Missiego",
+        "url": "https://open.spotify.com/album/1JvPV0pEYkITh1BRze9Ufi"
+      },
+      "artists": [
+        {
+          "name": "Betty Missiego",
+          "url": "https://open.spotify.com/artist/160HajXHxdQFEbwdvDaunP"
+        }
+      ],
+      "duration_ms": 183093,
+      "name": "Su Canci\u00f3n",
+      "url": "https://open.spotify.com/track/2YDMHFV05yjkhAbh2gDm6B"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "100 Kaikkien aikojen iskelm\u00e4\u00e4",
-        "url": "https://open.spotify.com/album/585cJ3uhtjvZpj8kDm0pEn"
+        "name": "20 Greatest Hits",
+        "url": "https://open.spotify.com/album/1drtyYMRUABZkF1i2B3Suh"
       },
       "artists": [
         {
-          "name": "Monica Aspelund",
-          "url": "https://open.spotify.com/artist/7w9tPKXjGqTQrH1uPdqPfh"
+          "name": "Dickie Rock",
+          "url": "https://open.spotify.com/artist/1lqsFXs93MiGGpZsETAWDC"
         }
       ],
-      "duration_ms": 167000,
-      "name": "Lapponia",
-      "url": "https://open.spotify.com/track/08QQrrdpXS5KmhSMD5EWMF"
+      "duration_ms": 167466,
+      "name": "Come Back To Stay",
+      "url": "https://open.spotify.com/track/7lTuANjyCyJnxHMsDuly99"
     }
   ],
   "unique_name": "Eurovision Gold",

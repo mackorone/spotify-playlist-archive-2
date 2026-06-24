@@ -3886,7 +3886,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 195974,
       "name": "b\u00ecnh y\u00ean",
       "url": "https://open.spotify.com/track/41DlPJXKTCypXdf2eSqa03"
@@ -6196,7 +6196,7 @@
       ],
       "date_added": "2022-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 218512,
       "name": "C\u00f3 Em",
       "url": "https://open.spotify.com/track/6Hs2xIgB8nzyGFDvVA8lFa"
@@ -7908,7 +7908,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-22",
+      "date_removed": null,
       "duration_ms": 209560,
       "name": "D\u1ea1o B\u01b0\u1edbc H\u00f4ng K\u00f4ng 1999\uff08\u6f2b\u6b65\u9999\u6e2f1999\uff09",
       "url": "https://open.spotify.com/track/6UFXhOu5m5qd3hiKoF9Xgl"
@@ -8860,7 +8860,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 216500,
       "name": "ex's hate me, Pt.2",
       "url": "https://open.spotify.com/track/5tdz7T4hTxA1ipJMBe24uX"
@@ -11293,6 +11293,24 @@
     },
     {
       "album": {
+        "name": "\u00c1NH S\u00c1NG \u2022 M\u00c0N \u0110\u00caM",
+        "url": "https://open.spotify.com/album/6k7nuWjzJRXCxolrOr56C0"
+      },
+      "artists": [
+        {
+          "name": "GREY D",
+          "url": "https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204137,
+      "name": "ho\u00e1 ra\u2026",
+      "url": "https://open.spotify.com/track/0EGwksIbRx7VflNBzuIBvc"
+    },
+    {
+      "album": {
         "name": "\u00c1NH S\u00c1NG \u2022 M\u00c0N \u0110\u00caM (side A)",
         "url": "https://open.spotify.com/album/4w6hrJBHXEpFvKg6bwyzSi"
       },
@@ -11304,7 +11322,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 204137,
       "name": "ho\u00e1 ra\u2026",
       "url": "https://open.spotify.com/track/42AOwjuMmIN1ioyyWB60Lw"
@@ -16822,7 +16840,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-23",
+      "date_removed": null,
       "duration_ms": 201781,
       "name": "M\u1ed9t C\u00e1i \u00d4m",
       "url": "https://open.spotify.com/track/46KcOYalDgmgZJWRNjiMQ8"
@@ -28496,7 +28514,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"

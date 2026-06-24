@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Esther Oji
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,129 likes - 111 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,156 likes - 111 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 22 | [MAGANA](https://open.spotify.com/track/2RmgqYD0XXlivw0UV90aFS) | [Godfrey Gad](https://open.spotify.com/artist/4Q1PLV0sUS4xUzFwpFUvFh), [Sound Of Salem](https://open.spotify.com/artist/4wXOaCc4CN80m9xcjkmL6I), [Heavenly Dawap](https://open.spotify.com/artist/7faJDn3syyZvQjkpo111Wg) | [Salem Alaikum](https://open.spotify.com/album/0KPXLWwamIRqOakgvcJZMf) | 2:53 |
 | 23 | [Stands Forever \- Live](https://open.spotify.com/track/4Xi2LclZmoo8RyKwy8f15Y) | [Kemelord](https://open.spotify.com/artist/18VyX3SmGTTAxfk5CeluSP) | [Stands Forever \(Live\)](https://open.spotify.com/album/2addKEkdPFVh2wP1xhmXaJ) | 6:54 |
 | 24 | [All For Me](https://open.spotify.com/track/4DaNJaRuXeaUCtv7c9itey) | [Jayron Kabuye](https://open.spotify.com/artist/7fV3a7FfqEpp9ScUzDvuqY) | [Something Otherthan Love](https://open.spotify.com/album/3IcGOZCaSNL9xuONKEHFcU) | 3:02 |
-| 25 | [Forgotten](https://open.spotify.com/track/77xKiiGTuxfgRNkRMaEZTm) | [Anna Makula](https://open.spotify.com/artist/2sCH9kYASIAGOaloAfOe44) | [Forgotten](https://open.spotify.com/album/3aOSbxEXQPKl3n9Q8t26GE) | 3:03 |
+| 25 | [Forgotten \(Live\)](https://open.spotify.com/track/77xKiiGTuxfgRNkRMaEZTm) | [Anna Makula](https://open.spotify.com/artist/2sCH9kYASIAGOaloAfOe44) | [Forgotten \(Live\)](https://open.spotify.com/album/3aOSbxEXQPKl3n9Q8t26GE) | 3:03 |
 | 26 | [Fear Of God \- Live](https://open.spotify.com/track/4QtxQDR3S5AyJ4iXMwateA) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Rahama \(Live\)](https://open.spotify.com/album/4kQttyy3r4QbpxPwL3ImZl) | 9:55 |
 | 27 | [More of you](https://open.spotify.com/track/703eenSE95HMswgV0fQWMn) | [Sikaflames](https://open.spotify.com/artist/1g45lpGTrdvpcNlQ3ZQnRg) | [More of you](https://open.spotify.com/album/4ertsxRh39SryrUfgu9gkT) | 2:54 |
 | 28 | [For All You've Done](https://open.spotify.com/track/3Q9ezEpnEJFmtOxlrCgffF) | [Florocka](https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY), [Kelar Thrillz](https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb) | [For All You've Done](https://open.spotify.com/album/5Pr5pf3dJyGjo3nL6V8Pnc) | 3:57 |

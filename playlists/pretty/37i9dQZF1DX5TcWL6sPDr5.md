@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TcWL6sPDr5.md) - [plain]
 
 > Listen to women at full volume\. Cover: AMIRAE 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,238 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,232 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TcWL6sPDr5.md) - [plain]
 | 14 | [Queen](https://open.spotify.com/track/6lqNyW4UYFSv3CdGAd4dYr) | [Janice](https://open.spotify.com/artist/1uKR3ihZmv8a93heLPYKQ8) | [Fallin Up](https://open.spotify.com/album/3rkXt6Ih1oUN3TKBs5Ri9M) | 3:35 |
 | 15 | [Gecko](https://open.spotify.com/track/1pykMNRzTpl2C7vxfmR1Pc) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm), [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [How dare you tryna love me?](https://open.spotify.com/album/6XDkigtRmlZV90EjNAq9TW) | 2:46 |
 | 16 | [lao shi](https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [lao shi](https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3) | 2:11 |
-| 17 | [Song and Dance Man](https://open.spotify.com/track/1oflMqWYnceFzbIDdOM1fr) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Song and Dance Man + Let's Go Camping](https://open.spotify.com/album/0K3erRyIjMqza5oWHTv86c) | 2:17 |
+| 17 | [Song and dance man](https://open.spotify.com/track/1oflMqWYnceFzbIDdOM1fr) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Song and dance man + Let's go camping](https://open.spotify.com/album/0K3erRyIjMqza5oWHTv86c) | 2:17 |
 | 18 | [Favour](https://open.spotify.com/track/7lCNQjuPMLeLARlHF7VhI1) | [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [SUPERBIA HARDCORE](https://open.spotify.com/album/06mSUqyBywp1dbsEgO9srC) | 3:54 |
 | 19 | [Livsforladt](https://open.spotify.com/track/2aUYoSnTwdmAbeDEIyuGKo) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Livsforladt](https://open.spotify.com/album/0TyjPYF8OsZe8sicrhZROq) | 3:02 |
 | 20 | [Midnight Sun](https://open.spotify.com/track/7N1GSHGlLwXY3lN5gv3QLV) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0) | 3:09 |

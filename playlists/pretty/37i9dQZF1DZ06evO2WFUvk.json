@@ -1,12 +1,12 @@
 {
   "description": "This is Rodrigo Gonzalez. The essential tracks, all in one playlist.",
-  "num_followers": 4184,
+  "num_followers": 4188,
   "original_name": "This Is Rodrigo Gonzalez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajcpgAAAAAAHW3A7MsNR8AmcgUFvkFSm",
+  "snapshot_id": "ajh7AAAAAAD6+6KPRCOeX16o0zOA2Zq6",
   "tracks": [
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
         }
       ],
-      "duration_ms": 137573,
-      "name": "Diva Francesa",
-      "url": "https://open.spotify.com/track/7p2EqlcvushiV5rykUlIDZ"
+      "duration_ms": 206960,
+      "name": "Las Aventuras en el Defe",
+      "url": "https://open.spotify.com/track/5xI8SnxPGQA4kSt1InLWud"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
         }
       ],
-      "duration_ms": 206960,
-      "name": "Las Aventuras en el Defe",
-      "url": "https://open.spotify.com/track/5xI8SnxPGQA4kSt1InLWud"
+      "duration_ms": 137573,
+      "name": "Diva Francesa",
+      "url": "https://open.spotify.com/track/7p2EqlcvushiV5rykUlIDZ"
     },
     {
       "added_at": null,
@@ -451,6 +451,26 @@
       "duration_ms": 559369,
       "name": "Close The Door - Original Mix",
       "url": "https://open.spotify.com/track/3MJRf5wkPowDhcpiYEqidr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Naked Kings",
+        "url": "https://open.spotify.com/album/5IBEszYRv4q4Ej1PVIRdSh"
+      },
+      "artists": [
+        {
+          "name": "Tarakany!",
+          "url": "https://open.spotify.com/artist/3OZMcYBFNSr0ztFd82aJK9"
+        },
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "duration_ms": 216927,
+      "name": "Schlechte T\u00e4nzer",
+      "url": "https://open.spotify.com/track/4S8YNk4NRGZDfxGqWSA4H5"
     }
   ],
   "unique_name": "This Is Rodrigo Gonzalez",

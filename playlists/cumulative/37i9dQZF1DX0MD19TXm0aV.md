@@ -2,9 +2,9 @@
 
 ### [Hot Hits Switzerland](https://open.spotify.com/playlist/37i9dQZF1DX0MD19TXm0aV)
 
-> Switzerland's biggest hits right now\. Cover: Shakira, Burna Boy
+> Switzerland's biggest hits right now\. Cover: Kitschkrieg, Blumengarten, Shirin David
 
-394 songs - 19 hr 36 min
+396 songs - 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Per Ty](https://open.spotify.com/track/2aLxQ8iA7ruf1l4N3TI15y) | [Dafina Zeqiri](https://open.spotify.com/artist/6V6mxrGG67IyLFy2l4poNZ) | [Per Ty](https://open.spotify.com/album/0Le5vqB45ghn7Qnysbtn8e) | 3:05 | 2025-02-04 | 2025-04-03 |
 | [Phénoménal](https://open.spotify.com/track/4VayCkXPEDlKeAo4DfPk89) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Phénoménal](https://open.spotify.com/album/3p24DyUwj5gN245PmCHhnT) | 3:24 | 2025-04-16 | 2025-08-20 |
 | [Piano](https://open.spotify.com/track/6xOiC7SgWCFsipcM69jIDO) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Piano](https://open.spotify.com/album/1BQ2YrKLtRzIuQ7Zai76jJ) | 2:53 | 2025-05-07 | 2025-07-24 |
+| [Pilé](https://open.spotify.com/track/3Vac8kKIqOTCEE3nuaIcec) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker Part.1](https://open.spotify.com/album/5hgB3YhDFqOPsEd9WnWanj) | 2:36 | 2026-06-23 |  |
 | [Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 4:18 | 2025-02-11 | 2025-03-05 |
 | [PINKY UP](https://open.spotify.com/track/4KmkJjHTNlr1jFY56Lyz4E) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [PINKY UP](https://open.spotify.com/album/5tLy0MEMDVqiHKso6B4jnz) | 2:11 | 2026-04-14 | 2026-05-27 |
 | [PLAYBOYBUNNIES](https://open.spotify.com/track/77p59nG1oU5pzd20rPxBwC) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [PLAYBOYBUNNIES](https://open.spotify.com/album/4lDrSQvca6n6iTHqY60Px3) | 2:27 | 2024-10-09 | 2024-11-13 |
@@ -350,6 +351,7 @@
 | [The First Time](https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 3:38 | 2025-06-03 | 2025-10-09 |
 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 | 2025-08-06 | 2025-10-23 |
 | [The Visitor](https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Visitor](https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60) | 3:48 | 2026-03-17 |  |
+| [THUG LIFE](https://open.spotify.com/track/6M3CMKJnzTrlezfUrIsGDe) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [THUG LIFE](https://open.spotify.com/album/5Mt1cLyfFmHKPFevznGbwL) | 2:01 | 2026-06-23 |  |
 | [Timeless \(with Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 | 2024-10-01 | 2024-11-06 |
 | [TIT FOR TAT](https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TIT FOR TAT](https://open.spotify.com/album/1ks1k7zln4TyBjn1CF3vCz) | 2:57 | 2025-10-01 | 2026-01-22 |
 | [TOKA](https://open.spotify.com/track/21YPieevMdQW57QSU9vHEl) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [TOKA](https://open.spotify.com/album/0HlEoKZA4pKYoae4zRWu7g) | 2:55 | 2024-09-17 | 2024-10-10 |
@@ -367,7 +369,7 @@
 | [Vaitimbora](https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Vaitimbora](https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe) | 2:15 | 2025-05-07 |  |
 | [Vena](https://open.spotify.com/track/1hjGwIvVukrKnemLj6vZ1G) | [Tayna](https://open.spotify.com/artist/5Cj0xJrG2k8TPOJQ1vdAmZ) | [Vena](https://open.spotify.com/album/3X1juRzkXGGhy38zBZFtJ7) | 2:47 | 2026-04-28 | 2026-06-03 |
 | [Verdien's Dir](https://open.spotify.com/track/6OhaOqmyvCMeWoav3gzPQu) | [Sara Dastjani](https://open.spotify.com/artist/5Usfg2FMXMcO710BoJ1fBz) | [Verdien's dir](https://open.spotify.com/album/02hITdbOC5H4dZ3HOORxgN) | 2:04 | 2024-08-02 | 2024-08-14 |
-| [Vermisse](https://open.spotify.com/track/0DAe8XAFqCfdL2F649pgN0) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh) | [Vermisse](https://open.spotify.com/album/0MyJNG4dGUzXMOKRHQ20OB) | 2:34 | 2026-05-05 |  |
+| [Vermisse](https://open.spotify.com/track/0DAe8XAFqCfdL2F649pgN0) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh) | [Vermisse](https://open.spotify.com/album/0MyJNG4dGUzXMOKRHQ20OB) | 2:34 | 2026-05-05 | 2026-06-24 |
 | [VIANO](https://open.spotify.com/track/5DTahoMKuix8Fi1WSXGwIW) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [ENCORE / VIANO](https://open.spotify.com/album/62fe5c9NvABdCS4t1W7pKf) | 1:51 | 2025-08-19 | 2025-11-07 |
 | [Volevo essere un duro](https://open.spotify.com/track/5sFbAYktReH4AJbATsGAw8) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [Volevo essere un duro](https://open.spotify.com/album/3bq0Zk9IMKngHA7QnefTxT) | 3:05 | 2025-02-18 | 2025-03-26 |
 | [VONE](https://open.spotify.com/track/0UWXzVArejYMOznjh7oE4Z) | [Dhurata Dora](https://open.spotify.com/artist/6t7U7sYlVCtlMWzbecJcHd) | [VONE](https://open.spotify.com/album/4mwlHVpE34LcJY2pela0Zh) | 2:21 | 2025-05-15 | 2025-07-17 |
@@ -400,7 +402,7 @@
 | [Yamore](https://open.spotify.com/track/480j122Gpi252OIfy4SNzm) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn) | [Yamore](https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C) | 4:08 | 2024-07-25 | 2024-10-17 |
 | [ZEIT, DASS SICH WAS DREHT](https://open.spotify.com/track/1NifMX1JqCz9caJowG8dxq) | [$OHO BANI](https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf), [Herbert Grönemeyer](https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg), [Ericson](https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa) | [ZEIT, DASS SICH WAS DREHT](https://open.spotify.com/album/3kGCNaXI68tIspcsuWQ1yy) | 2:33 | 2024-07-02 | 2024-10-17 |
 | [Zemër Ty](https://open.spotify.com/track/08Z12GLQZkdgFJoAWaUf1j) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [Dafina Zeqiri](https://open.spotify.com/artist/6V6mxrGG67IyLFy2l4poNZ) | [Zemër Ty](https://open.spotify.com/album/0mawjlzvnEtDAHZKlftR1N) | 2:27 | 2025-04-29 | 2025-06-04 |
-| [Zoo \- aus "Zoomania 2"](https://open.spotify.com/track/7mfTWGAr3ig1TBw29HgpRE) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zoo \(aus "Zoomania 2"\)](https://open.spotify.com/album/1mllW9jFF1wARHPgidK91m) | 3:10 | 2026-01-13 |  |
+| [Zoo \- aus "Zoomania 2"](https://open.spotify.com/track/7mfTWGAr3ig1TBw29HgpRE) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zoo \(aus "Zoomania 2"\)](https://open.spotify.com/album/1mllW9jFF1wARHPgidK91m) | 3:10 | 2026-01-13 | 2026-06-24 |
 | [Ça Je](https://open.spotify.com/track/4K3mX6c0UTrE2IRmlqYGoN) | [Kidda](https://open.spotify.com/artist/4OtcoXGM3abQUnErfCczaj) | [Ça Je](https://open.spotify.com/album/4QGt0WuxrUHToQqaAR1tz5) | 2:53 | 2024-07-02 | 2025-01-15 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

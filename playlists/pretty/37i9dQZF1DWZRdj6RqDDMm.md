@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Neon Adejo
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,013 likes - 110 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,024 likes - 110 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 3 | [Wanderer](https://open.spotify.com/track/4lZvEE1UvtCEnxvUgLOkjv) | [Ire Toluhi](https://open.spotify.com/artist/1uLf3V4Z9jtKJHJOb4Tx7K) | [Wanderer](https://open.spotify.com/album/4e7n1hfpPjDB9s9jpeqAsP) | 3:50 |
 | 4 | [Close](https://open.spotify.com/track/1JJJY7vww2I5Dvu42gWv16) | [Kachi Annuncia](https://open.spotify.com/artist/1BX5LtwtToqHi5kRICFlYf) | [Close](https://open.spotify.com/album/6vWYmUpE4KNvMQQMihv4FQ) | 2:32 |
 | 5 | [Love Assurance](https://open.spotify.com/track/4jRaM74PxaKqtnjfT8Ba01) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Sonship](https://open.spotify.com/album/50ErJvkakjjq0y6sVhIslo) | 2:34 |
-| 6 | [Forgotten](https://open.spotify.com/track/77xKiiGTuxfgRNkRMaEZTm) | [Anna Makula](https://open.spotify.com/artist/2sCH9kYASIAGOaloAfOe44) | [Forgotten](https://open.spotify.com/album/3aOSbxEXQPKl3n9Q8t26GE) | 3:03 |
+| 6 | [Forgotten \(Live\)](https://open.spotify.com/track/77xKiiGTuxfgRNkRMaEZTm) | [Anna Makula](https://open.spotify.com/artist/2sCH9kYASIAGOaloAfOe44) | [Forgotten \(Live\)](https://open.spotify.com/album/3aOSbxEXQPKl3n9Q8t26GE) | 3:03 |
 | 7 | [BETTER](https://open.spotify.com/track/3AONiqYdMZ3kYKCUAaODZv) | [NW.FRGVN](https://open.spotify.com/artist/75hGaBbLe3tUa4CHSEB3mu), [Wiffi Drips](https://open.spotify.com/artist/0t33ew007YWe1ufwvV1yX7), [KIMAH](https://open.spotify.com/artist/3A3j7JESpmqIZQNz4C7GRn) | [BETTER](https://open.spotify.com/album/7xRyRsObMEc3SEP0vYSD8c) | 3:23 |
 | 8 | [THIS YEAR \(Blessings\) \- Remix](https://open.spotify.com/track/5IelW2v32KZHJKwsoJsAwN) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\) \[Remix\]](https://open.spotify.com/album/4TZI8LgMjrmTlOhy7nFa2U) | 2:40 |
 | 9 | [Passion Indicators](https://open.spotify.com/track/7uPx8jH4PRFuJwsm3tY0pS) | [Connie Obn](https://open.spotify.com/artist/2vgfZxc5Z58nokei89tBxA), [Paul\-Emmanuel](https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3), [Awesome's Music Group](https://open.spotify.com/artist/6pT56YXMMA6sh3UyNMSDUO) | [Passion Indicators](https://open.spotify.com/album/2MeCpOoeMh5Z3PuhsXyUxe) | 2:42 |

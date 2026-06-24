@@ -4,7 +4,7 @@
 
 > This is Kris Bowers\. The essential tracks, all in one playlist.
 
-27 songs - 54 min 3 sec
+28 songs - 56 min 50 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [A Grand Finish](https://open.spotify.com/track/3FbIz3EP8RtaYUyl5DvWwi) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton \(Music from the Netflix Original Series\)](https://open.spotify.com/album/2bU8GVy0KNAzkONX5traPF) | 3:33 | 2026-06-17 |  |
 | [Almost Kiss \- from the Netflix Series "Queen Charlotte"](https://open.spotify.com/track/4clo8rW8pMDBKq6Ewz3APL) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Queen Charlotte: A Bridgerton Story \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo) | 1:23 | 2026-06-17 |  |
 | [Call Me Simon](https://open.spotify.com/track/5PytAiOdKz6I6omydllZjV) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton \(Music from the Netflix Original Series\)](https://open.spotify.com/album/2bU8GVy0KNAzkONX5traPF) | 0:58 | 2026-06-17 |  |
-| [Come With Me](https://open.spotify.com/track/4I2MrWkzR21FzzciyCEPKF) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton \(Music from the Netflix Original Series\)](https://open.spotify.com/album/2bU8GVy0KNAzkONX5traPF) | 2:27 | 2026-06-17 |  |
+| [Come With Me](https://open.spotify.com/track/4I2MrWkzR21FzzciyCEPKF) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton \(Music from the Netflix Original Series\)](https://open.spotify.com/album/2bU8GVy0KNAzkONX5traPF) | 2:27 | 2026-06-17 | 2026-06-24 |
 | [Eloise & Theo \- From the Netflix Series “Bridgerton Season Two”](https://open.spotify.com/track/1nqAZQ2aEWWl7m367vlMyH) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Two \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4qhHu94GUvuG0WSxFilOte) | 0:47 | 2026-06-17 |  |
 | [Final Act \- From the Prime Original Series Spider\-Noir](https://open.spotify.com/track/50hNk4CNkpVUdn6VKuk9OM) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ), [Michael Dean Parsons](https://open.spotify.com/artist/0PtgERFoiSK8egVLiNkure) | [Spider\-Noir \(Prime Original Series Soundtrack\)](https://open.spotify.com/album/12H2ZoNfvfd2njn519Tr4r) | 2:33 | 2026-06-17 |  |
 | [Flawless My Dear](https://open.spotify.com/track/6qNfLbtV03FhQjQsY3cGmT) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton \(Music from the Netflix Original Series\)](https://open.spotify.com/album/2bU8GVy0KNAzkONX5traPF) | 1:43 | 2026-06-17 |  |
@@ -35,5 +35,6 @@
 | [Thank You \- from the Netflix Series "Queen Charlotte"](https://open.spotify.com/track/7DLgRYCtEARiOuZPYoWYfJ) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Queen Charlotte: A Bridgerton Story \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo) | 2:32 | 2026-06-17 |  |
 | [They Are Betrothed \- From the Netflix Series “Bridgerton Season Two”](https://open.spotify.com/track/1fIWLNtT0o5GEAPMUaxa2F) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Two \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4qhHu94GUvuG0WSxFilOte) | 1:10 | 2026-06-17 |  |
 | [We Could Form An Attachment](https://open.spotify.com/track/53SyVsyUHuLthCzhw3CbOU) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton \(Music from the Netflix Original Series\)](https://open.spotify.com/album/2bU8GVy0KNAzkONX5traPF) | 3:07 | 2026-06-17 |  |
+| [When You Are Alone](https://open.spotify.com/track/2c44MBYwfnRj7WvSVlcM48) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton \(Music from the Netflix Original Series\)](https://open.spotify.com/album/2bU8GVy0KNAzkONX5traPF) | 2:46 | 2026-06-24 |  |
 
 \*This playlist was first scraped on 2026-06-17. Prior content cannot be recovered.

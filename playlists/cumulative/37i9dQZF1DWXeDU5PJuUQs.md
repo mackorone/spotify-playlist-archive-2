@@ -4,7 +4,7 @@
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes & Ulises Bueno.
 
-244 songs - 14 hr 59 min
+245 songs - 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [Por Una Vez En La Vida \- En Vivo en el Luna Park](https://open.spotify.com/track/3DRk2Yf5JmNHAE6raUxrCo) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Por Una Vez En La Vida \(En Vivo en el Luna Park\)](https://open.spotify.com/album/6sEgcs4dMOP0yZc3ygcNBT) | 4:24 | 2022-12-02 | 2023-03-10 |
 | [Presentación / Dejémoslo Así \- En Vivo](https://open.spotify.com/track/0KOhixb30mbp9ylyQXnufj) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [En Vivo en Ciudad Cultural Konex](https://open.spotify.com/album/6Vyd5KnNi0zKuYXbbfqNTy) | 4:06 | 2022-01-07 | 2022-07-28 |
 | [Pupilas Lejanas \- En Vivo](https://open.spotify.com/track/7aQN2YfQGTPZGc2LDo5VCR) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo](https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL) | 1:11 | 2022-01-03 | 2022-07-27 |
-| [Pájaro y Demonio \- En Vivo en Estadio Ferro](https://open.spotify.com/track/2jCMZLVsoJVy2kXMVCo6WB) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Pájaro y Demonio \(En Vivo en Estadio Ferro\)](https://open.spotify.com/album/5nvYMz3U7q2koCQ7NgJOun) | 4:11 | 2025-03-28 |  |
+| [Pájaro y Demonio \- En Vivo en Estadio Ferro](https://open.spotify.com/track/2jCMZLVsoJVy2kXMVCo6WB) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Pájaro y Demonio \(En Vivo en Estadio Ferro\)](https://open.spotify.com/album/5nvYMz3U7q2koCQ7NgJOun) | 4:11 | 2025-03-28 | 2026-06-24 |
 | [Que Nadie Sepa Mi Sufrir \- En Vivo en Buenos Aires](https://open.spotify.com/track/16cYfImcLIqkK3MGrxKlqn) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Que Nadie Sepa Mi Sufrir \(En Vivo en Buenos Aires\)](https://open.spotify.com/album/56SJyHIbJly7e54cF1YsjJ) | 4:50 | 2026-05-22 |  |
 | [Que Vuelvas \- En Vivo](https://open.spotify.com/track/0Z5bUqfLXTPT0DfX5gIa6f) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Que Vuelvas \(En Vivo\)](https://open.spotify.com/album/55f3uyiaumuYOnewFODFYD) | 1:48 | 2023-03-10 |  |
 | [Quiero Amarte \- Sesión de Exitos](https://open.spotify.com/track/7IypMsa95euHbr8UIwt5dE) | [Grupo Green](https://open.spotify.com/artist/3OSozwQXzKD9PY3M4hfkEW) | [Sesion de Éxitos](https://open.spotify.com/album/28NNXRCXsi7O6x2dj8XI9g) | 3:35 | 2025-02-28 | 2026-01-25 |
@@ -242,6 +242,7 @@
 | [Vamos A Bailar](https://open.spotify.com/track/45w6jlCTU1PEIAlYZYNhtT) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [En Vivo](https://open.spotify.com/album/1LdPP5ucu3EselExGmWjPy) | 4:58 | 2021-12-10 | 2022-09-12 |
 | [Vete](https://open.spotify.com/track/5DD1yO1yMTppZoIdZ07Rtx) | [Sin Miedo](https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY), [Los del bohio](https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn) | [Los del bohio \- Sessiones con Público \#20 \(Sin Miedo "Un Tiro"\)](https://open.spotify.com/album/0dh4kgmhrYNUYFXRtepXFx) | 3:04 | 2025-08-22 |  |
 | [Vete \- En Vivo](https://open.spotify.com/track/5EkVGJzbtrFPoTpMIapgBu) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE), [Los del bohio](https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn) | [Artistas invitados, Pt\. 3 \(En Vivo\)](https://open.spotify.com/album/1zXO3nXZgTKRcxpAzPMcpk) | 1:35 | 2024-07-05 | 2025-12-08 |
+| [Y Hoy Quieres Volver](https://open.spotify.com/track/3kjJbUds3JAsKytHJf9iMW) | [Malagata](https://open.spotify.com/artist/549gX84eSqoYRJp8BglJqy), [Chili Fernandez](https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID) | [Y Hoy Quieres Volver](https://open.spotify.com/album/5D5cjMetTBrykN1qDcKUMO) | 2:49 | 2026-06-23 |  |
 | [Y Hoy Quieres Volver \- En Vivo](https://open.spotify.com/track/3cI2BuSlMn3Ia9yf08Ow7Z) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi), [La Cumbia](https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev) | [Y Hoy Quieres Volver \(En Vivo\)](https://open.spotify.com/album/4o2a0nu9pqw4yGZ6Lb15wv) | 4:30 | 2024-10-25 | 2025-01-06 |
 | [Y Tu Te Vas / Pídeme](https://open.spotify.com/track/1Ze4dVOuJq5SjjY98UjhSt) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU), [Pablito HC](https://open.spotify.com/artist/3VGOer5eApPF1qsyYXlMFT) | [Y Tu Te Vas / Pídeme](https://open.spotify.com/album/3HtRs4GRpIbMTT4qncwElQ) | 5:50 | 2023-04-24 |  |
 | [Ya llegó \- En Vivo](https://open.spotify.com/track/7kbYYzNAkoQtcyShZvMspR) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [Sin Miedo \(En Vivo\)](https://open.spotify.com/album/5iXv2zVf6nmd4FmBiSBMEv) | 1:28 | 2025-04-18 | 2025-07-05 |

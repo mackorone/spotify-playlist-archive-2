@@ -1,6 +1,6 @@
 {
   "description": "Classic cuts from the alternative country music scene. Cover: Uncle Tupelo",
-  "num_followers": 116072,
+  "num_followers": 116084,
   "original_name": "Alt Country Classics",
   "owner": {
     "name": "Spotify",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Car Wheels On A Gravel Road",
-        "url": "https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig"
-      },
-      "artists": [
-        {
-          "name": "Lucinda Williams",
-          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
-        }
-      ],
-      "duration_ms": 284560,
-      "name": "Car Wheels On A Gravel Road",
-      "url": "https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "Crusades Of The Restless Knights",
         "url": "https://open.spotify.com/album/1WyEuAoHbMBPvyr7bi3EgU"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 294053,
       "name": "Conversation With The Devil",
       "url": "https://open.spotify.com/track/2nww8CKg1BqCh6Eyr6sr6m"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "Car Wheels On A Gravel Road",
+        "url": "https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig"
+      },
+      "artists": [
+        {
+          "name": "Lucinda Williams",
+          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+        }
+      ],
+      "duration_ms": 284560,
+      "name": "Car Wheels On A Gravel Road",
+      "url": "https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "This Is BR549",
-        "url": "https://open.spotify.com/album/4E1URWpVQFzwRlCokb2mc0"
-      },
-      "artists": [
-        {
-          "name": "BR549",
-          "url": "https://open.spotify.com/artist/6h72WuqMdodzUIZGS0YEyU"
-        }
-      ],
-      "duration_ms": 233293,
-      "name": "Too Lazy To Work, Too Nervous To Steal",
-      "url": "https://open.spotify.com/track/0kkBKoElWdLJKlEHt4nM58"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "Sidelong",
         "url": "https://open.spotify.com/album/6b5MHLkj051eiAt1NgBLe3"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 183626,
       "name": "Keep the Home Fires Burnin'",
       "url": "https://open.spotify.com/track/7gwmLVgGZ43UxpvnKAcZJz"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "This Is BR549",
+        "url": "https://open.spotify.com/album/4E1URWpVQFzwRlCokb2mc0"
+      },
+      "artists": [
+        {
+          "name": "BR549",
+          "url": "https://open.spotify.com/artist/6h72WuqMdodzUIZGS0YEyU"
+        }
+      ],
+      "duration_ms": 233293,
+      "name": "Too Lazy To Work, Too Nervous To Steal",
+      "url": "https://open.spotify.com/track/0kkBKoElWdLJKlEHt4nM58"
     },
     {
       "added_at": "2026-06-19 04:01:42",

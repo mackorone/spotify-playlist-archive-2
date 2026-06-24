@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-863 songs - 1 day 18 hr 50 min
+864 songs - 1 day 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Don't Want To Feel](https://open.spotify.com/track/5WZogsNGbF8m0FU68f9pV4) | [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0), [Highlnd](https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82), [nøll](https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL) | [Don't Want To Feel](https://open.spotify.com/album/21C6omxO7GWCKW9CSKictI) | 3:31 | 2023-04-22 | 2023-08-10 |
 | [Done Better](https://open.spotify.com/track/3wl77mkSw6UVa0ciUKB6xS) | [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t), [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr), [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Done Better](https://open.spotify.com/album/2IM4meQQN3QrdA3Mfv63kh) | 2:50 | 2023-12-26 | 2024-08-28 |
 | [Donna](https://open.spotify.com/track/54KnvD2w1kvcGNod1IWGU5) | [Soundy](https://open.spotify.com/artist/3b7sLRj01Y93l1Dn186h0W), [Sander Mölder](https://open.spotify.com/artist/2Ol461nHrkjAefbr0wL2Cm), [maria kallastu](https://open.spotify.com/artist/6kSiYWWt4597uZNH0Cpjig) | [Donna](https://open.spotify.com/album/74ZkPwSHC1mBie6JyuopR5) | 2:46 | 2024-05-14 | 2024-12-09 |
+| [Down 2 Wait](https://open.spotify.com/track/0GD71HdgxylP7DhFvGgYXC) | [Crumb Pit](https://open.spotify.com/artist/7FB7TG2lBUfqoNQlWz7z1I) | [Down 2 Wait](https://open.spotify.com/album/0KSf0zeLELHSegXvWvmEMi) | 2:34 | 2026-06-23 |  |
 | [Down For Anything](https://open.spotify.com/track/22PGa3sM5Hb8B21u0iymi2) | [Daniel Levi](https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y) | [Down For Anything](https://open.spotify.com/album/6u2FL1r8zNSaUwGs3GVAdu) | 2:29 | 2023-05-05 | 2024-02-23 |
 | [DownBeat](https://open.spotify.com/track/0k02a5Awjv4eSzFoIln1ga) | [Thorne](https://open.spotify.com/artist/03SaLEDbLBTYkO0sSyN791) | [DownBeat](https://open.spotify.com/album/4RwOPPo8xABEDlLjUYA8iD) | 2:39 | 2023-06-16 | 2023-08-10 |
 | [Doxx My Heart](https://open.spotify.com/track/0NdgJpwrH0FJRCeNUu5dJp) | [Diamond Eyes](https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y) | [Doxx My Heart](https://open.spotify.com/album/4TB8aCbNY0pGi9nDfASDP0) | 3:00 | 2025-01-03 |  |

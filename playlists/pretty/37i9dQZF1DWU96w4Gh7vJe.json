@@ -1,12 +1,12 @@
 {
   "description": "Sit back and relax to our favorite local OPM and R&B sounds.",
-  "num_followers": 575614,
+  "num_followers": 575572,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMO49LgHf1uSg8ouyVi4wvTykc24",
+  "snapshot_id": "AAAAAI9Ml2MTxK6SbfqvQoD1riYupnn5",
   "tracks": [
     {
       "added_at": "2026-06-15 08:25:52",
@@ -855,22 +855,18 @@
     {
       "added_at": "2026-06-15 08:25:52",
       "album": {
-        "name": "Ultraelectromagnetic Jam",
-        "url": "https://open.spotify.com/album/7tfDmiKEApFiZmT5MzIN1o"
+        "name": "Kupido",
+        "url": "https://open.spotify.com/album/31qHI9HuPqfVpvTPhvjZy5"
       },
       "artists": [
         {
-          "name": "South Border",
-          "url": "https://open.spotify.com/artist/6ZgBJRjJsK1iOJGKGZxEUv"
-        },
-        {
-          "name": "Kelly Badon",
-          "url": "https://open.spotify.com/artist/32pTJUDIqu5vvX5McsyU26"
+          "name": "The Red Strings",
+          "url": "https://open.spotify.com/artist/1OReprh6WpboerPxNxuQjO"
         }
       ],
-      "duration_ms": 264413,
-      "name": "With a Smile (feat. Kelly Badon)",
-      "url": "https://open.spotify.com/track/6XmskR1cMfgys1W7dExmgi"
+      "duration_ms": 183024,
+      "name": "Kupido",
+      "url": "https://open.spotify.com/track/2ORqUATcWTPab0J6a0cEya"
     }
   ],
   "unique_name": "Relax Tayo",

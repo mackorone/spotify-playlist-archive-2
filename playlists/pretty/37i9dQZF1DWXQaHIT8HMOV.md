@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Homegrown Ugandan gems in one playlist\. Cover: Anna Makula
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,829 likes - 55 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,841 likes - 55 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Daily Bundle](https://open.spotify.com/track/5YXwtHacsQiPVd0Yk6fwzs) | [Elijah Kitaka](https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6) | [Daily Bundle](https://open.spotify.com/album/0aubgASRi7N38T8bG24Pmh) | 2:41 |
-| 2 | [Forgotten](https://open.spotify.com/track/77xKiiGTuxfgRNkRMaEZTm) | [Anna Makula](https://open.spotify.com/artist/2sCH9kYASIAGOaloAfOe44) | [Forgotten](https://open.spotify.com/album/3aOSbxEXQPKl3n9Q8t26GE) | 3:03 |
+| 2 | [Forgotten \(Live\)](https://open.spotify.com/track/77xKiiGTuxfgRNkRMaEZTm) | [Anna Makula](https://open.spotify.com/artist/2sCH9kYASIAGOaloAfOe44) | [Forgotten \(Live\)](https://open.spotify.com/album/3aOSbxEXQPKl3n9Q8t26GE) | 3:03 |
 | 3 | [Nzigulawo II](https://open.spotify.com/track/3dbaGmJXWA6JZAOa6Xny0g) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM), [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES) | [Nzigulawo II](https://open.spotify.com/album/3ic31cwPvzbVPoEVAsELth) | 3:02 |
 | 4 | [Love Me Louder](https://open.spotify.com/track/744ZnCPlVjykfTcKtG6CkY) | [Caxah](https://open.spotify.com/artist/4MwwSASxavJVh1l0um3etk) | [Love Me Louder](https://open.spotify.com/album/32r6gRBRcK6L67CVRNkhzN) | 3:06 |
 | 5 | [Morocco \- Remix](https://open.spotify.com/track/6K0yyDL8HIakuunhcTAttS) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Morocco \(Remix\)](https://open.spotify.com/album/2GXg4xtgD1GvFRatolULXX) | 2:38 |

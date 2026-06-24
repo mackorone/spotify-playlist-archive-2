@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: Rol3ert, REJAY",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: Rol3ert",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -550,7 +550,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 192032,
       "name": "24/7 (feat. Sad Kid Yaz)",
       "url": "https://open.spotify.com/track/3cd0lO59V3E2uI10f5lkLS"
@@ -2947,6 +2947,24 @@
     },
     {
       "album": {
+        "name": "Bokura Futarikiri",
+        "url": "https://open.spotify.com/album/0zvtF6aOYXDYk9aXFgDUtq"
+      },
+      "artists": [
+        {
+          "name": "Hammer Head Shark",
+          "url": "https://open.spotify.com/artist/4ReYBtwk8GTvuIklAiCqHI"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393500,
+      "name": "Bokura Futarikiri",
+      "url": "https://open.spotify.com/track/3aGQgwsRsXXnBavps6LN16"
+    },
+    {
+      "album": {
         "name": "Bomboclap",
         "url": "https://open.spotify.com/album/4VWKGhXXgH0Ww68yk7LTwn"
       },
@@ -5040,7 +5058,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 200366,
       "name": "D-1",
       "url": "https://open.spotify.com/track/6i28G6nPe5ZC6QqJOLJ8rW"
@@ -5589,6 +5607,24 @@
     },
     {
       "album": {
+        "name": "Remaining Red Even with Eyes Closed",
+        "url": "https://open.spotify.com/album/2CBkJNYi7To7NcuG4QvH9y"
+      },
+      "artists": [
+        {
+          "name": "36km/h",
+          "url": "https://open.spotify.com/artist/11PZZfQ3tYjjwB3oCjQQwV"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377106,
+      "name": "Deep in the Retina, Near the Heart",
+      "url": "https://open.spotify.com/track/2dI1c5yKmkUM480SDkQKEa"
+    },
+    {
+      "album": {
         "name": "Defunk",
         "url": "https://open.spotify.com/album/6SZGneGO90oAYw5SYYKG07"
       },
@@ -5604,6 +5640,24 @@
       "duration_ms": 243442,
       "name": "Defunk",
       "url": "https://open.spotify.com/track/4Sb2Ae3HEbu7m1EmZRzisq"
+    },
+    {
+      "album": {
+        "name": "Deja Vu Slider",
+        "url": "https://open.spotify.com/album/5xOe6UdMimY5RUvjcdiMMj"
+      },
+      "artists": [
+        {
+          "name": "HOME",
+          "url": "https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Deja Vu Slider",
+      "url": "https://open.spotify.com/track/6e06Ala73WWWXRzyqkUeE0"
     },
     {
       "album": {
@@ -5864,6 +5918,24 @@
       "duration_ms": 197712,
       "name": "Discord-disco",
       "url": "https://open.spotify.com/track/5O1gmDEnjVid2kElRz1Hy2"
+    },
+    {
+      "album": {
+        "name": "Mu",
+        "url": "https://open.spotify.com/album/0ufRQ13mNg6jMeFtbgyZAC"
+      },
+      "artists": [
+        {
+          "name": "FUJIBASE",
+          "url": "https://open.spotify.com/artist/3MObmQRPLt9gTkOmMudG66"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209698,
+      "name": "Disposable",
+      "url": "https://open.spotify.com/track/6mTdfdQwSKWjTpuwbvCW7v"
     },
     {
       "album": {
@@ -10889,6 +10961,24 @@
     },
     {
       "album": {
+        "name": "In The Game",
+        "url": "https://open.spotify.com/album/76JvKk4sChy1usdqRenmrn"
+      },
+      "artists": [
+        {
+          "name": "SWEE",
+          "url": "https://open.spotify.com/artist/01rnISQaxa1W2jWpzzS8yx"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175104,
+      "name": "In The Game",
+      "url": "https://open.spotify.com/track/4FVdp0vqp10V5gkSrOzrei"
+    },
+    {
+      "album": {
         "name": "Indie Slime",
         "url": "https://open.spotify.com/album/1JNqR6Octbf9QtuD9zlOOh"
       },
@@ -10976,7 +11066,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 140029,
       "name": "Internet State",
       "url": "https://open.spotify.com/track/3n6HVX8icljgKdFeosDAQq"
@@ -11156,7 +11246,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 178260,
       "name": "Joga Bonito",
       "url": "https://open.spotify.com/track/1pfS3uCyXQpAeXYV6DSMjm"
@@ -11846,6 +11936,24 @@
       "duration_ms": 273000,
       "name": "Kiss the Filament",
       "url": "https://open.spotify.com/track/4RfDyTCyztjpoK63Ue1VGR"
+    },
+    {
+      "album": {
+        "name": "Kodoku EP",
+        "url": "https://open.spotify.com/album/6eyBRckyqEPv8wxYz7FWpg"
+      },
+      "artists": [
+        {
+          "name": "Rol3ert",
+          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181836,
+      "name": "Kodoku",
+      "url": "https://open.spotify.com/track/6bOpaowQXoFxpPYAXEejSp"
     },
     {
       "album": {
@@ -18598,7 +18706,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 207116,
       "name": "ROMANTICIZE",
       "url": "https://open.spotify.com/track/732nsS7pPnfVDX73bbzNgB"
@@ -22262,6 +22370,24 @@
       "duration_ms": 169856,
       "name": "The translator sings",
       "url": "https://open.spotify.com/track/2DUjwpK2MEWL745k5vEOzM"
+    },
+    {
+      "album": {
+        "name": "MUSIC YOUTH LOVE",
+        "url": "https://open.spotify.com/album/7sULpjW9QNWqsCiZyf8nUP"
+      },
+      "artists": [
+        {
+          "name": "171",
+          "url": "https://open.spotify.com/artist/4dbq5qNOe51qdgnhmlIJ3v"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292114,
+      "name": "The Truth and Lies of Youth",
+      "url": "https://open.spotify.com/track/1hPtSgOKF37rFrQphvlgP9"
     },
     {
       "album": {
@@ -27018,7 +27144,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 126964,
       "name": "\u3066\u304d\u3068\u3046\u30e1\u30a4\u30af",
       "url": "https://open.spotify.com/track/0BwThqYOsn3tw5KO9EEzMF"
@@ -33616,7 +33742,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 196282,
       "name": "\u4eba\u751f\u306e\u767b\u5834\u4eba\u7269\u3068\u3057\u3066",
       "url": "https://open.spotify.com/track/4pf2Oro6pXiMBDl72wGocM"
@@ -36074,7 +36200,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 218103,
       "name": "\u5bc4\u308a\u9053",
       "url": "https://open.spotify.com/track/7aJ4nj8jNZPDy819XX1FK8"

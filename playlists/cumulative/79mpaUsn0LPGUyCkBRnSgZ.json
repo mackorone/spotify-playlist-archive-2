@@ -5627,6 +5627,40 @@
     },
     {
       "album": {
+        "name": "Demand to Be Taken to Heaven Alive!",
+        "url": "https://open.spotify.com/album/3q8CQdpq57Xi0zXn5qlauk"
+      },
+      "artists": [
+        {
+          "name": "Horse Lords",
+          "url": "https://open.spotify.com/artist/0Oslq5zLftqRVwKseBJ7MV"
+        },
+        {
+          "name": "Nina Guo",
+          "url": "https://open.spotify.com/artist/1dS1OQtTGCVmkaJanOpRA0"
+        },
+        {
+          "name": "Evelyn Saylor",
+          "url": "https://open.spotify.com/artist/41T8k3OwxjwiIG8WfpU3Kr"
+        },
+        {
+          "name": "Madison Greenstone",
+          "url": "https://open.spotify.com/artist/5PkPi1lRFf74AC9dpr8fNI"
+        },
+        {
+          "name": "Weston Olencki",
+          "url": "https://open.spotify.com/artist/5VltHPo6anXZzrWcquJrMR"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56624,
+      "name": "Eureka 378-B",
+      "url": "https://open.spotify.com/track/04G8S4DhyfpsmwWbFmc4fY"
+    },
+    {
+      "album": {
         "name": "Diamonds & Gasoline",
         "url": "https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p"
       },

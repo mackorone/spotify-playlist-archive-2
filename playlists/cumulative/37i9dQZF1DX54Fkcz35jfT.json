@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002/  Discover the intensity and emotion resonating through Japan\u2019s hard rock. Cover: CRYXIS",
+  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002/  Discover the intensity and emotion resonating through Japan\u2019s hard rock. Cover: Prompts",
   "name": "Loud Rock Japan",
   "tracks": [
     {
@@ -1751,6 +1751,24 @@
     },
     {
       "album": {
+        "name": "Parasite Dream",
+        "url": "https://open.spotify.com/album/4Nq9TrgLJUpIOBhi6ZUbbX"
+      },
+      "artists": [
+        {
+          "name": "Prompts",
+          "url": "https://open.spotify.com/artist/3roPPqGAbyY4WHCbJbJnjl"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253894,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/1yceuVJSJ9M082CzRdlBJN"
+    },
+    {
+      "album": {
         "name": "DUA\uff65RHYTHM",
         "url": "https://open.spotify.com/album/4Cfgh8X6COsvtyirAF5iBF"
       },
@@ -1846,6 +1864,24 @@
       "duration_ms": 223987,
       "name": "ENDGAME",
       "url": "https://open.spotify.com/track/2toJ3Yovx8mqHZIIQOpTG1"
+    },
+    {
+      "album": {
+        "name": "ENERGETIC",
+        "url": "https://open.spotify.com/album/6xa5EHn3K16kLv3oYtKP4N"
+      },
+      "artists": [
+        {
+          "name": "BAND-MAID",
+          "url": "https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202229,
+      "name": "ENERGETIC",
+      "url": "https://open.spotify.com/track/136RFhFtC1lDlKgXw7eXM3"
     },
     {
       "album": {
@@ -3030,7 +3066,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 231773,
       "name": "IKIZAMA",
       "url": "https://open.spotify.com/track/5yppaWzGbOvKS2Wik6oWUk"
@@ -5700,7 +5736,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 108980,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/0j0GW5mzmOk4upfkXzdNOM"

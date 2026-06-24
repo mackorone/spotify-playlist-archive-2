@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-388 songs - 23 hr 24 min
+389 songs - 23 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Erinnerungen](https://open.spotify.com/track/5AKMbE3VUKTQcaHPsb16k6) | [Seelenpein](https://open.spotify.com/artist/3zOFOdI46zJqqGMKYhUTDV) | [Erinnerungen](https://open.spotify.com/album/0bd8FyoYz7sC0zZl911zya) | 3:06 | 2026-01-15 | 2026-02-25 |
 | [Fairy Wings](https://open.spotify.com/track/0H6StvVWIN3LRcZNK3eAuG) | [Ladat](https://open.spotify.com/artist/2nX96XjXTUZvCoNWTNNun3) | [Fairy Wings](https://open.spotify.com/album/2vyGVc7zSMlbPrQGRWX8Sd) | 3:19 | 2026-05-26 |  |
 | [Fake](https://open.spotify.com/track/6ZiqkmLK7iMUwp4XrrmjMh) | [Tina Debs](https://open.spotify.com/artist/48c3LCh0VFH0nMeFnbyaMe) | [Fake](https://open.spotify.com/album/0uVwgFrjKFF0UVPFTtyltL) | 3:46 | 2026-02-16 | 2026-03-27 |
+| [Fake Illusion](https://open.spotify.com/track/4XV8XVah83sBK4easO1Le0) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Fake Illusion](https://open.spotify.com/album/2Huu4WMjqQTA5C0KBjd54P) | 3:04 | 2026-06-23 |  |
 | [False Prophet](https://open.spotify.com/track/3wE5xlV9u7L91aa7KfknwG) | [Holy Island](https://open.spotify.com/artist/4mDskLBS4JOyI52mzQ9H5m) | [False Prophet](https://open.spotify.com/album/29bErY1NGaYrHjmNIMvX7x) | 4:10 | 2026-04-24 | 2026-05-26 |
 | [Fetishize Me](https://open.spotify.com/track/7LyMFbtf8aiUgUtZYoXgXb) | [Sarah Hedger](https://open.spotify.com/artist/2CQDj93K4SEEYoQf96TjIy) | [Fetishize Me](https://open.spotify.com/album/79kv9dZL1zwHvcebBXMTnw) | 2:33 | 2026-04-11 | 2026-05-26 |
 | [Fever Dream](https://open.spotify.com/track/3h1J3rsW0PMGuaPYqThR7D) | [Touch of Red](https://open.spotify.com/artist/07GYobUq3xeoOIhrqJ2Bc1) | [In Our Nature](https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3) | 4:15 | 2026-01-07 | 2026-02-02 |

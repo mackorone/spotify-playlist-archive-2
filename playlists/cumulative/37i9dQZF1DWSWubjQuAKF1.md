@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Manya
 
-883 songs - 1 day 19 hr 5 min
+884 songs - 1 day 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -370,6 +370,7 @@
 | [Kłódki](https://open.spotify.com/track/3yuEPvUfNhi9yiXzWQHiiO) | [Gaba Kościug](https://open.spotify.com/artist/2YjBfW9J5WxnoYKDuYyj5D), [Dawid Płonka](https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF) | [Kłódki](https://open.spotify.com/album/4l98agKaPj5xStMDqwXYe6) | 2:15 | 2025-07-08 | 2025-09-01 |
 | [Labirynt](https://open.spotify.com/track/4rq30jpTqKYQQcTkaqeGnD) | [Mellie](https://open.spotify.com/artist/1mM16l96DHgpD3pUDD2Chw) | [Labirynt](https://open.spotify.com/album/5DzTER3kfqYRxf8AnQmOOL) | 2:55 | 2026-05-21 | 2026-05-30 |
 | [Lato](https://open.spotify.com/track/4Slw4MtByG8zo8ZML8aMW9) | [huskie](https://open.spotify.com/artist/7qAmqo6RdMhZmRWNSIK8kS) | [Lato](https://open.spotify.com/album/73UdWdEcJuIm1is5aJi0tf) | 4:59 | 2026-03-19 | 2026-05-10 |
+| [Lawenda](https://open.spotify.com/track/0drGhZGTBdkiqzRpMjyM9b) | [AJLA](https://open.spotify.com/artist/0DKSIQmQ284IrIKpNdl36H) | [Kąpałam się wczoraj w snach](https://open.spotify.com/album/3DhqZFXewd6BvLsKa5bIzZ) | 3:16 | 2026-06-18 |  |
 | [Lawenda](https://open.spotify.com/track/03zESWjJhCUNKvbIO4W4AQ) | [Aymi](https://open.spotify.com/artist/4fjC4XQqR0L6tdvIgujs8I) | [Lawenda](https://open.spotify.com/album/3WEJpUAEawGWhW9DseR7KV) | 2:28 | 2024-08-22 | 2024-10-19 |
 | [lawenda](https://open.spotify.com/track/1MkUt0F83LEQUOkMylVLQR) | [irys](https://open.spotify.com/artist/4oUskmafCJAJzSKYxhia6U), [Marcin Przybyłowicz](https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw) | [lawenda](https://open.spotify.com/album/4SYewAkrqWANmfutFXeZc1) | 3:55 | 2024-07-11 | 2024-11-08 |
 | [lepiej](https://open.spotify.com/track/7GCE9OgHlDaXOWaq1b0vU6) | [imasleep](https://open.spotify.com/artist/1hAUIs8Rpq6kpNHqlwJW4i) | [lepiej](https://open.spotify.com/album/2qq3p36UTibQYlpu0IV6R0) | 2:15 | 2026-05-15 |  |
@@ -834,7 +835,7 @@
 | [Wybacz](https://open.spotify.com/track/0uhhM7tSYivThVeEbDRm7N) | [Magda Drejka](https://open.spotify.com/artist/0pUTemal7XM7uGxiyphELo) | [Wybacz](https://open.spotify.com/album/57RgCyvk7mbVRwQ5ghiqAJ) | 2:40 | 2024-06-28 | 2024-08-02 |
 | [Wyjmij mnie](https://open.spotify.com/track/0FUOOxJ6kydMmzJeoqfUqc) | [Pola Maj](https://open.spotify.com/artist/0B4TTzKvNuF5Jcmbe5uQ1T) | [Wyjmij mnie](https://open.spotify.com/album/5jm4PXSEak02Eknn9Iimfj) | 3:18 | 2025-09-23 | 2026-02-20 |
 | [wylosujesz go!](https://open.spotify.com/track/7znQEgOxAQm6h19t5gw79o) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8) | [wylosujesz go!](https://open.spotify.com/album/4P6WGTlXK1WxwhvIiSijwb) | 2:08 | 2025-08-07 | 2025-09-23 |
-| [wzrok, w którym plącze się miłość](https://open.spotify.com/track/5a4Kmo43noRWD70IdDVYfK) | [adaś.](https://open.spotify.com/artist/63Zfzws3zct6H4L21p9WBT) | [wzrok, w którym plącze się miłość](https://open.spotify.com/album/5a0sMyHqLSbHVEV6WnbL9c) | 2:17 | 2026-05-21 |  |
+| [wzrok, w którym plącze się miłość](https://open.spotify.com/track/5a4Kmo43noRWD70IdDVYfK) | [adaś.](https://open.spotify.com/artist/63Zfzws3zct6H4L21p9WBT) | [wzrok, w którym plącze się miłość](https://open.spotify.com/album/5a0sMyHqLSbHVEV6WnbL9c) | 2:17 | 2026-05-21 | 2026-06-24 |
 | [własnym](https://open.spotify.com/track/2qarKmvoSpSaODKhaE24xh) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8) | [własnym](https://open.spotify.com/album/7le6hp3cumK0u20VUTZlnQ) | 2:33 | 2024-09-27 | 2025-01-24 |
 | [Yamaha](https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 4:28 | 2025-08-19 | 2025-10-22 |
 | [You Killed The Music](https://open.spotify.com/track/2Km8hIwZJWq7migmM1dZzy) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [You Killed The Music](https://open.spotify.com/album/4ygQDkkZoggfIDXxOb1VJW) | 3:06 | 2025-02-20 | 2025-02-28 |

@@ -1,6 +1,6 @@
 {
   "description": "Allerbeste songs uit de 60's. Cover: Shocking Blue",
-  "num_followers": 54886,
+  "num_followers": 54890,
   "original_name": "60's Allerbeste",
   "owner": {
     "name": "Spotify",
@@ -719,22 +719,6 @@
     {
       "added_at": "2020-04-20 05:39:13",
       "album": {
-        "name": "First Take",
-        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 260666,
-      "name": "The First Time Ever I Saw Your Face",
-      "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
-    },
-    {
-      "added_at": "2020-04-20 05:39:13",
-      "album": {
         "name": "Turn! Turn! Turn!",
         "url": "https://open.spotify.com/album/3v0i9qyogPoQEQj2bG6Fmn"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 229360,
       "name": "Turn! Turn! Turn! (To Everything There Is a Season)",
       "url": "https://open.spotify.com/track/5qBqBdfTEIWJwAS0Jm2F5R"
+    },
+    {
+      "added_at": "2020-04-20 05:39:13",
+      "album": {
+        "name": "First Take",
+        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 260666,
+      "name": "The First Time Ever I Saw Your Face",
+      "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
     },
     {
       "added_at": "2020-04-20 05:39:13",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2020-04-20 05:39:13",
       "album": {
-        "name": "Little Green Bag",
-        "url": "https://open.spotify.com/album/3kZKbvvhVprZVphNHYvRcj"
-      },
-      "artists": [
-        {
-          "name": "George Baker Selection",
-          "url": "https://open.spotify.com/artist/2MGJBRRGEj9m6MxJIq7fLn"
-        }
-      ],
-      "duration_ms": 182680,
-      "name": "Dear Ann",
-      "url": "https://open.spotify.com/track/7lpjk8A09oxqj7l18TrPua"
-    },
-    {
-      "added_at": "2020-04-20 05:39:13",
-      "album": {
         "name": "Die Goeie Ouwe Tijd 2 - Top 100",
         "url": "https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK"
       },
@@ -1287,18 +1271,18 @@
     {
       "added_at": "2020-04-20 05:39:13",
       "album": {
-        "name": "The Everlasting Love Affair",
-        "url": "https://open.spotify.com/album/2BX02XIupm6Sw7cdaT7gVX"
+        "name": "Little Green Bag",
+        "url": "https://open.spotify.com/album/3kZKbvvhVprZVphNHYvRcj"
       },
       "artists": [
         {
-          "name": "Love Affair",
-          "url": "https://open.spotify.com/artist/7aXDGr3cUBmH2Kx1yBC7Ux"
+          "name": "George Baker Selection",
+          "url": "https://open.spotify.com/artist/2MGJBRRGEj9m6MxJIq7fLn"
         }
       ],
-      "duration_ms": 182666,
-      "name": "Everlasting Love",
-      "url": "https://open.spotify.com/track/40XXjm2pU6LGZkLq5VmkaQ"
+      "duration_ms": 182680,
+      "name": "Dear Ann",
+      "url": "https://open.spotify.com/track/7lpjk8A09oxqj7l18TrPua"
     },
     {
       "added_at": "2020-04-20 05:39:13",
@@ -1331,6 +1315,22 @@
       "duration_ms": 157200,
       "name": "I'm A Believer",
       "url": "https://open.spotify.com/track/1Dix6w1eVOCVNLqehxLXH1"
+    },
+    {
+      "added_at": "2020-04-20 05:39:13",
+      "album": {
+        "name": "The Everlasting Love Affair",
+        "url": "https://open.spotify.com/album/2BX02XIupm6Sw7cdaT7gVX"
+      },
+      "artists": [
+        {
+          "name": "Love Affair",
+          "url": "https://open.spotify.com/artist/7aXDGr3cUBmH2Kx1yBC7Ux"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "Everlasting Love",
+      "url": "https://open.spotify.com/track/40XXjm2pU6LGZkLq5VmkaQ"
     },
     {
       "added_at": "2020-04-20 05:39:13",

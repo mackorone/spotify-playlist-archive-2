@@ -1,6 +1,6 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Rhiannon Giddens",
-  "num_followers": 170734,
+  "num_followers": 170727,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Cobwebs",
-        "url": "https://open.spotify.com/album/1LcnviaqzuzuuHkDVnIMXa"
-      },
-      "artists": [
-        {
-          "name": "David Keenan",
-          "url": "https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG"
-        }
-      ],
-      "duration_ms": 250040,
-      "name": "The Friary",
-      "url": "https://open.spotify.com/track/4ma6fuBfPGNWbAev6w5GdV"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "L'air de rien",
         "url": "https://open.spotify.com/album/4VVAoEKNpdeKpOoQE5NqSW"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 264066,
       "name": "Eleanor Rigby",
       "url": "https://open.spotify.com/track/1iaM7chr2wSLLZXg8UxFkG"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Cobwebs",
+        "url": "https://open.spotify.com/album/1LcnviaqzuzuuHkDVnIMXa"
+      },
+      "artists": [
+        {
+          "name": "David Keenan",
+          "url": "https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG"
+        }
+      ],
+      "duration_ms": 250040,
+      "name": "The Friary",
+      "url": "https://open.spotify.com/track/4ma6fuBfPGNWbAev6w5GdV"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6zKsXG7Q3k2HFLHY4i3tGU"
-      },
-      "artists": [
-        {
-          "name": "Aubrie Sellers",
-          "url": "https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u"
-        }
-      ],
-      "duration_ms": 278167,
-      "name": "Green Eyes - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3cjElM51VC09D0pMM2Ue9E"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Gold Record",
         "url": "https://open.spotify.com/album/309GzmwSB1Aj3gh8Tpp3Fo"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 325093,
       "name": "Pigeons",
       "url": "https://open.spotify.com/track/5v11vzJ8bvdCkUm6yBUKsF"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6zKsXG7Q3k2HFLHY4i3tGU"
+      },
+      "artists": [
+        {
+          "name": "Aubrie Sellers",
+          "url": "https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u"
+        }
+      ],
+      "duration_ms": 278167,
+      "name": "Green Eyes - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3cjElM51VC09D0pMM2Ue9E"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Lorraine",
-        "url": "https://open.spotify.com/album/51pYSEkHVj2zC8Eaoo1NoA"
-      },
-      "artists": [
-        {
-          "name": "Peter Bradley Adams",
-          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
-        }
-      ],
-      "duration_ms": 273893,
-      "name": "Lorraine",
-      "url": "https://open.spotify.com/track/3jHOkEZCTrMeKXniGvZDwc"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "The Fall (Deluxe)",
         "url": "https://open.spotify.com/album/1Am7IvBB7DdjJl2qCGpNTu"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 167333,
       "name": "High and Low (Acoustic)",
       "url": "https://open.spotify.com/track/0CvC5iLvWfLCTeter5jYuQ"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Lorraine",
+        "url": "https://open.spotify.com/album/51pYSEkHVj2zC8Eaoo1NoA"
+      },
+      "artists": [
+        {
+          "name": "Peter Bradley Adams",
+          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
+        }
+      ],
+      "duration_ms": 273893,
+      "name": "Lorraine",
+      "url": "https://open.spotify.com/track/3jHOkEZCTrMeKXniGvZDwc"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "The Fray",
-        "url": "https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT"
-      },
-      "artists": [
-        {
-          "name": "John Smith",
-          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
-        },
-        {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
-        }
-      ],
-      "duration_ms": 249886,
-      "name": "The Fray (feat. The Milk Carton Kids)",
-      "url": "https://open.spotify.com/track/2a4Et8Q8QUBnmgjO4FDMS6"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "They're Calling Me Home (with Francesco Turrisi)",
         "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
       },
@@ -1523,6 +1503,26 @@
       "duration_ms": 234826,
       "name": "Avalon (with Francesco Turrisi)",
       "url": "https://open.spotify.com/track/3cJI6VFdyRdriDVwB0sU3Y"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "The Fray",
+        "url": "https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT"
+      },
+      "artists": [
+        {
+          "name": "John Smith",
+          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
+        },
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "duration_ms": 249886,
+      "name": "The Fray (feat. The Milk Carton Kids)",
+      "url": "https://open.spotify.com/track/2a4Et8Q8QUBnmgjO4FDMS6"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
+        "name": "IOU",
+        "url": "https://open.spotify.com/album/7bKPZt1pGO2c0EjLiMMqsF"
+      },
+      "artists": [
+        {
+          "name": "Olivia Chaney",
+          "url": "https://open.spotify.com/artist/0IRzm0TuehkXRBVKNzSX7e"
+        }
+      ],
+      "duration_ms": 243026,
+      "name": "IOU",
+      "url": "https://open.spotify.com/track/5m99jhaZsRfk7NKIYS5eN7"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
         "name": "Eye to Eye",
         "url": "https://open.spotify.com/album/6z3SLJb0PKfBStprLMMEvW"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 231263,
       "name": "Eye to Eye",
       "url": "https://open.spotify.com/track/0tTPqTWwd4lyd3HQUPIr8C"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
-        "name": "IOU",
-        "url": "https://open.spotify.com/album/7bKPZt1pGO2c0EjLiMMqsF"
-      },
-      "artists": [
-        {
-          "name": "Olivia Chaney",
-          "url": "https://open.spotify.com/artist/0IRzm0TuehkXRBVKNzSX7e"
-        }
-      ],
-      "duration_ms": 243026,
-      "name": "IOU",
-      "url": "https://open.spotify.com/track/5m99jhaZsRfk7NKIYS5eN7"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Pacific Northwest Bound",
-        "url": "https://open.spotify.com/album/2eox9WDTU2GkXhktIrDbJQ"
-      },
-      "artists": [
-        {
-          "name": "Mike McKenna Jr.",
-          "url": "https://open.spotify.com/artist/3ZkurU6rzZv1M7zZM33iq0"
-        }
-      ],
-      "duration_ms": 173786,
-      "name": "Pacific Northwest Bound",
-      "url": "https://open.spotify.com/track/1fWzprUcryTPfypChOG8eN"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Manchester Air",
         "url": "https://open.spotify.com/album/6J5XzblZhX17EZKFYnie89"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 247328,
       "name": "Manchester Air",
       "url": "https://open.spotify.com/track/3DR0HjNmqlQ2mDmI8AuP2l"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Listen",
+        "url": "https://open.spotify.com/album/2OhThiJGELO8T0K22TN4lV"
+      },
+      "artists": [
+        {
+          "name": "Kyshona",
+          "url": "https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA"
+        }
+      ],
+      "duration_ms": 163280,
+      "name": "Worried Mind",
+      "url": "https://open.spotify.com/track/4baCiANTGHL13fLcIhOEez"
     }
   ],
   "unique_name": "Contemporary Folk",

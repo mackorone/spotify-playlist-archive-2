@@ -3904,7 +3904,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 132476,
       "name": "Ego Death",
       "url": "https://open.spotify.com/track/2JJfPd80KcUu4IMD6ZjAkz"
@@ -4986,6 +4986,24 @@
       "duration_ms": 383400,
       "name": "Gethsemane",
       "url": "https://open.spotify.com/track/29JLgNBcOky7QB68OrvYxO"
+    },
+    {
+      "album": {
+        "name": "Ghost In A Hell",
+        "url": "https://open.spotify.com/album/4UdIZrlx493O2rHab6VF4g"
+      },
+      "artists": [
+        {
+          "name": "Lake Malice",
+          "url": "https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250475,
+      "name": "Ghost In A Hell",
+      "url": "https://open.spotify.com/track/1ifvotCn2amn0w2QomDaaj"
     },
     {
       "album": {

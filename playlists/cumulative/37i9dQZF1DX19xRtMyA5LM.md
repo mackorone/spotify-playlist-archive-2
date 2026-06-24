@@ -2,9 +2,9 @@
 
 ### [Woordenschat](https://open.spotify.com/playlist/37i9dQZF1DX19xRtMyA5LM)
 
-> De beste tracks in WS❗️Cover: Henkie T & KM
+> De beste tracks in WS❗️Cover: D\-Double & Ronnie Flex
 
-482 songs - 21 hr 47 min
+483 songs - 21 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,6 +462,7 @@
 | [Waardering](https://open.spotify.com/track/4kBtYyfgzbZPVuqpNdKL7Q) | [JOJO AIR](https://open.spotify.com/artist/6cA3ifwf6ueJ87ecdDPMOF), [Solid Circle](https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf) | [Waardering](https://open.spotify.com/album/6J3BH0JhrGNqfTCVbEtKNP) | 3:01 | 2026-02-12 | 2026-03-27 |
 | [Wagyu](https://open.spotify.com/track/0rVikiFqhfjczF3a9aATLf) | [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [Wagyu](https://open.spotify.com/album/1MPKG1OXRsr3hjqsesGo77) | 2:48 | 2026-04-08 |  |
 | [walgelijk](https://open.spotify.com/track/5qv5qNOlYJCXgYj4Fmlt6d) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO), [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw), [Lusho](https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs) | [INSOMNIA](https://open.spotify.com/album/3l4ZN4bsXuGGzpnPt1czlW) | 3:40 | 2026-01-08 | 2026-02-06 |
+| [Wap Wap \(feat\. Ronnie Flex\)](https://open.spotify.com/track/6zyGYgUKH7tjp022XxLIUb) | [D\-Double](https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Wap Wap \(feat\. Ronnie Flex\)](https://open.spotify.com/album/4LwWZvvuHDOF6pZuLYX0RA) | 2:48 | 2026-06-23 |  |
 | [Warming up](https://open.spotify.com/track/4bO9GDQ6RX5IrpbhIQMnIS) | [Nass](https://open.spotify.com/artist/2vmQP2rkDh9bcyzhP1YVKU) | [Warming up](https://open.spotify.com/album/7aZsDpLkUujdXXwmCeefIf) | 2:02 | 2025-11-27 | 2026-02-06 |
 | [Was Het Waard](https://open.spotify.com/track/5o4Dxn2jRnUDv41Dd2iu5Z) | [Zarfani](https://open.spotify.com/artist/3jU0uVi2Njx9HZ59lSk3H1), [Lef](https://open.spotify.com/artist/1MUxYVrXFiMh1wmP74mfu7) | [Gemiste Bladzijde](https://open.spotify.com/album/3kAoct1xTPuAVVW8aFWgWu) | 2:49 | 2025-12-18 | 2026-01-15 |
 | [Was Machst Du](https://open.spotify.com/track/3fJOhEiy7FNUpxUrHMtFmE) | [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o) | [Was Machst Du](https://open.spotify.com/album/2O6ObeXY5q7me8jpCQjhu3) | 3:10 | 2025-09-25 | 2026-04-10 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:4f85B9VIqMNfRjj2eDhkmy\">unit</a> in cover. ",
+  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:5AQAAs2emLmGYAd8UuNmbK\">Quercia</a> in cover. ",
   "name": "Fresh Finds Italia",
   "tracks": [
     {
@@ -2242,7 +2242,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 256375,
       "name": "alla luna",
       "url": "https://open.spotify.com/track/0OuHeXyrPEZNbCJZ9raCIH"
@@ -5624,7 +5624,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 206200,
       "name": "Cacopoulos",
       "url": "https://open.spotify.com/track/4LAWYbO0LatWJ5UYh8qDdS"
@@ -10387,6 +10387,24 @@
     },
     {
       "album": {
+        "name": "Distruggere un amore",
+        "url": "https://open.spotify.com/album/1u3BuuiOPubsgJ9vMryTZv"
+      },
+      "artists": [
+        {
+          "name": "Gloria Tricamo",
+          "url": "https://open.spotify.com/artist/58lKFq1ZTU6IH6NWkmObn0"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221306,
+      "name": "Distruggere un amore",
+      "url": "https://open.spotify.com/track/178sk2KA9TX9EgchAmGbBs"
+    },
+    {
+      "album": {
         "name": "DISTURBO OSSESSIVO COMPULSIVO",
         "url": "https://open.spotify.com/album/2BhLKzOBZOfhX5GqADIhQG"
       },
@@ -12752,7 +12770,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 130588,
       "name": "FEMMINA",
       "url": "https://open.spotify.com/track/4SkIYjWJIdcU4LGKLOY6JL"
@@ -15882,7 +15900,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 196773,
       "name": "House Baby",
       "url": "https://open.spotify.com/track/2JYRElDZlJx5GPomwbQxnL"
@@ -17142,7 +17160,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 284720,
       "name": "In luce",
       "url": "https://open.spotify.com/track/6SyBMIzp8zKqqVK335BCEO"
@@ -22570,7 +22588,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 120222,
       "name": "MI UCCIDE",
       "url": "https://open.spotify.com/track/7g4Zaq7bR7ud0rJRRKbMaY"
@@ -24296,7 +24314,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 211250,
       "name": "NEVE",
       "url": "https://open.spotify.com/track/7o7gJ7C1jWOHmqQXVUmY1T"
@@ -27849,6 +27867,24 @@
     },
     {
       "album": {
+        "name": "AMORE X3",
+        "url": "https://open.spotify.com/album/2KH9ZGfmNFUP3NYcW1gvL7"
+      },
+      "artists": [
+        {
+          "name": "GIOVAPI\u00d9GIOVA",
+          "url": "https://open.spotify.com/artist/2bJ8pwwyjQJfeVcLRQDnlx"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176709,
+      "name": "PARANOIA",
+      "url": "https://open.spotify.com/track/60O9RVj2LGZuLQrFepZ9v4"
+    },
+    {
+      "album": {
         "name": "PARANOIA",
         "url": "https://open.spotify.com/album/7IR05cUpqZaCjgelNwakH7"
       },
@@ -28540,6 +28576,28 @@
       "duration_ms": 256592,
       "name": "Perdersi",
       "url": "https://open.spotify.com/track/4C6cyMMC2hpHdotMcFrEEQ"
+    },
+    {
+      "album": {
+        "name": "perdersi",
+        "url": "https://open.spotify.com/album/2m8Yg4PLsSQRQkcdrnd7bD"
+      },
+      "artists": [
+        {
+          "name": "Kosh Anade",
+          "url": "https://open.spotify.com/artist/5lkCExarEg4AtOn0xgWpI1"
+        },
+        {
+          "name": "Lo Straqen",
+          "url": "https://open.spotify.com/artist/1dzBGHcvmxo5Fu3TdVpC1Z"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232835,
+      "name": "perdersi",
+      "url": "https://open.spotify.com/track/2bZwh76HQSXkTtfmbowpwc"
     },
     {
       "album": {
@@ -30135,6 +30193,24 @@
     },
     {
       "album": {
+        "name": "NUGE",
+        "url": "https://open.spotify.com/album/5BlsiziUY3BYWBQJBQk4Db"
+      },
+      "artists": [
+        {
+          "name": "Chiara Accardi",
+          "url": "https://open.spotify.com/artist/4TuBfWoS12c8QIkkpfoDSg"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115550,
+      "name": "PROMETTILO",
+      "url": "https://open.spotify.com/track/330eb1FdY4VVbk9BxMm4ah"
+    },
+    {
+      "album": {
         "name": "prophecy",
         "url": "https://open.spotify.com/album/2kZgAwP5miSIyNF5WUICsO"
       },
@@ -31271,6 +31347,24 @@
     },
     {
       "album": {
+        "name": "Tuona / Restituire",
+        "url": "https://open.spotify.com/album/2g1iBvlTNC9onQoO3Qs0KX"
+      },
+      "artists": [
+        {
+          "name": "Ibisco",
+          "url": "https://open.spotify.com/artist/048IEBDc0lctSV2QvGoH1G"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193530,
+      "name": "Restituire",
+      "url": "https://open.spotify.com/track/4a02hrhdKCbz14iNmfXVKZ"
+    },
+    {
+      "album": {
         "name": "Resto a casa",
         "url": "https://open.spotify.com/album/2IiiRQm9S8Iq3Vp5tyMLIH"
       },
@@ -31380,7 +31474,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 210797,
       "name": "Ricordo",
       "url": "https://open.spotify.com/track/4dNMxxTgcLnEHED7TeWE3S"
@@ -33112,6 +33206,24 @@
       "duration_ms": 176000,
       "name": "sei mare",
       "url": "https://open.spotify.com/track/6k9kIVoWSqvX1fbRxC9u6O"
+    },
+    {
+      "album": {
+        "name": "Sei meglio di cos\u00ec",
+        "url": "https://open.spotify.com/album/1TAGNkAEXEssxy8bLyXapm"
+      },
+      "artists": [
+        {
+          "name": "5070",
+          "url": "https://open.spotify.com/artist/3A2anH3bHUnq50s2EZZVMt"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143813,
+      "name": "Sei meglio di cos\u00ec",
+      "url": "https://open.spotify.com/track/6YsMNh1xGtlXuPqf1Y1JFV"
     },
     {
       "album": {
@@ -35022,6 +35134,24 @@
       "duration_ms": 155178,
       "name": "sottosopra",
       "url": "https://open.spotify.com/track/3XLlNaKrCllDtrQaFLb0dG"
+    },
+    {
+      "album": {
+        "name": "mentre i monsoni curano e scuotono l'erba rimasta,",
+        "url": "https://open.spotify.com/album/1NZDEMGSuAhjsxPZfLFjaM"
+      },
+      "artists": [
+        {
+          "name": "Quercia",
+          "url": "https://open.spotify.com/artist/5AQAAs2emLmGYAd8UuNmbK"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207500,
+      "name": "SOTTOVOCE",
+      "url": "https://open.spotify.com/track/5CA1r5AgFYSwpwFcIdZvgA"
     },
     {
       "album": {
@@ -39510,6 +39640,24 @@
       "duration_ms": 311563,
       "name": "Unsound Sleep",
       "url": "https://open.spotify.com/track/3BO5ZavaxWi7S0AQV70Idg"
+    },
+    {
+      "album": {
+        "name": "Uomini gentili",
+        "url": "https://open.spotify.com/album/4yq8SOQkuyRUmoKkdnSJLR"
+      },
+      "artists": [
+        {
+          "name": "Cigarilla Disonasty",
+          "url": "https://open.spotify.com/artist/3rTEGeGVcOA8fyji7HJTQS"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207433,
+      "name": "Uomini gentili",
+      "url": "https://open.spotify.com/track/2XGysxgEOpclU7vt6ey1qX"
     },
     {
       "album": {

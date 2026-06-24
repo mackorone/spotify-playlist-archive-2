@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,335 songs - 3 day 10 hr 3 min
+1,337 songs - 3 day 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Baby Come Back](https://open.spotify.com/track/41sGGCCoHI2GLV9qadX80A) | [Player](https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z) | [Player](https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B) | 4:15 | 2026-03-13 |  |
 | [Baby Come Back \- triple j Like A Version](https://open.spotify.com/track/5FgPt6NcmoVd2oDer28f0D) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Baby Come Back \(triple j Like A Version\)](https://open.spotify.com/album/6xMXgNfeyiLo3jPfk19aRc) | 4:49 | 2026-03-14 | 2026-03-18 |
 | [Baby I'm Yours](https://open.spotify.com/track/0SzvmWfOhoxZVGrmvb56YL) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Leave Before The Lights Come On](https://open.spotify.com/album/219r3vm32Uzj5Ef7lu9aKw) | 2:32 | 2021-10-31 |  |
+| [Baby Steps](https://open.spotify.com/track/40eANvl45mhgwEHL5pHHSn) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Baby Steps](https://open.spotify.com/album/172FBTtpqNv9blWGkjgmvP) | 3:58 | 2026-06-23 |  |
 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 | 2026-01-20 |  |
 | [Back by Popular Demand 1 1](https://open.spotify.com/track/1mkBeCkn7jb8ax2n3HylU7) | [Reno](https://open.spotify.com/artist/46hSwkXAwKPcVxnh5vdJCV) | [quad didnt mean to](https://open.spotify.com/album/7ucLe0eL8tclCz3FekcYyn) | 1:48 | 2022-08-17 |  |
 | [Back by Popular Demand 1 1 \- unmuffled](https://open.spotify.com/track/3QNBEvoWWdwQ1ai5s4wbPy) | [Reno](https://open.spotify.com/artist/46hSwkXAwKPcVxnh5vdJCV) | [quad didnt mean to \(unmuffled\)](https://open.spotify.com/album/1hIumzZ2gdwGRjPkEN1YjV) | 1:48 | 2023-04-23 |  |
@@ -516,6 +517,7 @@
 | [house settling](https://open.spotify.com/track/10zPOOHRblprd5uilHAXuC) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [I Didn't Mean To Haunt You](https://open.spotify.com/album/3c0NHNo2Gn0X7uARad3hGv) | 4:52 | 2022-11-11 |  |
 | [Houston](https://open.spotify.com/track/5IJ5gi0AuBNpRlfOEqA9Cq) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Loveseat](https://open.spotify.com/album/7oP7ABjXuVjSCiDexJ2bza) | 3:49 | 2024-06-29 |  |
 | [How Do I Make You Love Me?](https://open.spotify.com/track/2Ghp894n1laIf2w98VeAOJ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-08 |  |
+| [Hummer](https://open.spotify.com/track/1GfEpihzfbV6HFt21JA1dz) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Hummer](https://open.spotify.com/album/0EdUCo0oxkBCpNK5EM1hfs) | 6:01 | 2026-06-23 |  |
 | [Huntin’ Wabbitz](https://open.spotify.com/track/2cH8wHImerFokgmhjyhCTU) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 2:42 | 2024-04-05 |  |
 | [Hurricane](https://open.spotify.com/track/44I7sqKYCAa7bQdVywkShO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Hurricane](https://open.spotify.com/album/4YV1qBdn6O6thyg18kBo0N) | 3:58 | 2023-03-19 |  |
 | [Hurricane \- Live](https://open.spotify.com/track/45ypYpAdgoneWcBT0Wba3p) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Live At SoFi Stadium](https://open.spotify.com/album/1OARrXe5sB0gyy3MhQ8h92) | 2:07 | 2023-03-19 |  |

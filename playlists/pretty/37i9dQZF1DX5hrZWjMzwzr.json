@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj zwyci\u0119zc\u00f3w i  nominowanych utwor\u00f3w w kategorii singiel roku. ",
-  "num_followers": 11758,
+  "num_followers": 11757,
   "original_name": "Popkillery 2026: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,26 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
+        "name": "Zwolnij?",
+        "url": "https://open.spotify.com/album/4DwwDAVVbbJgzCNMQOyL3y"
+      },
+      "artists": [
+        {
+          "name": "Okekel",
+          "url": "https://open.spotify.com/artist/2FkgKcXTqukAQ9GuXFzgN3"
+        },
+        {
+          "name": "Champion",
+          "url": "https://open.spotify.com/artist/0emslMBqEZSCRupMRVzyPe"
+        }
+      ],
+      "duration_ms": 148310,
+      "name": "Mini Man",
+      "url": "https://open.spotify.com/track/1dQZRwFJzUIT1mqoXMMUkV"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
         "name": "1DAY IN LA",
         "url": "https://open.spotify.com/album/00J4FpVxEoll7mtaxUye1N"
       },
@@ -367,26 +387,6 @@
       "duration_ms": 144210,
       "name": "1DAY IN LA",
       "url": "https://open.spotify.com/track/1KbyOU3mlUN9UiXU2kPso9"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
-        "name": "Zwolnij?",
-        "url": "https://open.spotify.com/album/4DwwDAVVbbJgzCNMQOyL3y"
-      },
-      "artists": [
-        {
-          "name": "Okekel",
-          "url": "https://open.spotify.com/artist/2FkgKcXTqukAQ9GuXFzgN3"
-        },
-        {
-          "name": "Champion",
-          "url": "https://open.spotify.com/artist/0emslMBqEZSCRupMRVzyPe"
-        }
-      ],
-      "duration_ms": 148310,
-      "name": "Mini Man",
-      "url": "https://open.spotify.com/track/1dQZRwFJzUIT1mqoXMMUkV"
     },
     {
       "added_at": "2026-04-09 22:12:46",

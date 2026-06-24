@@ -4,7 +4,7 @@
 
 > 
 
-325 songs - 12 hr 53 min
+326 songs - 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [Sponge](https://open.spotify.com/track/2idKMCUdqS2XpFAFKN2k1l) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 4:23 | 2025-03-11 |  |
 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 | 2025-07-13 |  |
 | [stay the night pluggnb](https://open.spotify.com/track/7mAhxVbneXAvOLv7dyG2NM) | [cadenkala](https://open.spotify.com/artist/2rzk5yjCatuGzQLDawKsXe), [tabris](https://open.spotify.com/artist/4lGxmCxpRK0pHo7EuakiFH) | [stay the night pluggnb](https://open.spotify.com/album/3dzg55rvSePS00QhW1p4sX) | 2:07 | 2025-05-22 |  |
+| [stephanie.](https://open.spotify.com/track/3OJIyyskAs0fqv9FyJe5T8) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [are you lonely?](https://open.spotify.com/album/1magMsVGcV4r6K3fUCRMIo) | 3:03 | 2026-06-23 |  |
 | [stfu.](https://open.spotify.com/track/78oBJ5afRt9xibIv5Tsfnq) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [stfu.](https://open.spotify.com/album/0SRYzffT84QwJv5LCeluhL) | 1:43 | 2024-11-21 |  |
 | [strangers that don't hate eachother anymore.](https://open.spotify.com/track/5Gn2xMBNpAjNgvgDXDySpy) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [fuck.](https://open.spotify.com/album/7lgnsSkcTlrp1FULCYmM0z) | 1:18 | 2026-04-03 |  |
 | [stuck in my room.](https://open.spotify.com/track/6AG0U6Mp9V8lo0uRuAgGzZ) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [PINK HAIR!](https://open.spotify.com/album/2AvVihuwf4zWDOnnsaWUNQ) | 3:01 | 2026-01-25 |  |

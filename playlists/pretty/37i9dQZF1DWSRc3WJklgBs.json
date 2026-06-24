@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance music</a> for the heart <3",
-  "num_followers": 1255959,
+  "num_followers": 1255932,
   "original_name": "Heart Beats",
   "owner": {
     "name": "Spotify",
@@ -735,26 +735,6 @@
     {
       "added_at": "2026-06-19 04:00:41",
       "album": {
-        "name": "Never Walk Alone",
-        "url": "https://open.spotify.com/album/1BuWrjAiFiHMHtCYHuUIKM"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Stevie Appleton",
-          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
-        }
-      ],
-      "duration_ms": 188360,
-      "name": "Never Walk Alone",
-      "url": "https://open.spotify.com/track/4HB7ECLzrbgapiZyLlFbxz"
-    },
-    {
-      "added_at": "2026-06-19 04:00:41",
-      "album": {
         "name": "Ocean",
         "url": "https://open.spotify.com/album/0T84ITkYkKp7x3vxWpvSCf"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 196923,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/6jhAJgaS9OttFwP5Cn8WII"
+    },
+    {
+      "added_at": "2026-06-19 04:00:41",
+      "album": {
+        "name": "Never Walk Alone",
+        "url": "https://open.spotify.com/album/1BuWrjAiFiHMHtCYHuUIKM"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+        }
+      ],
+      "duration_ms": 188360,
+      "name": "Never Walk Alone",
+      "url": "https://open.spotify.com/track/4HB7ECLzrbgapiZyLlFbxz"
     },
     {
       "added_at": "2026-06-19 04:00:41",
@@ -795,22 +795,26 @@
     {
       "added_at": "2026-06-19 04:00:41",
       "album": {
-        "name": "Love Is Kind",
-        "url": "https://open.spotify.com/album/0wP1ridvw0gHq6gOkIrLBU"
+        "name": "Save My Love (with Ellie Goulding & AVAION)",
+        "url": "https://open.spotify.com/album/3KFX6b8uxX8cORnXbSiC18"
       },
       "artists": [
         {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
         },
         {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
         }
       ],
-      "duration_ms": 247384,
-      "name": "Love Is Kind",
-      "url": "https://open.spotify.com/track/2xntLwIz7kwJXqD2OgWfGT"
+      "duration_ms": 215555,
+      "name": "Save My Love (with Ellie Goulding & AVAION)",
+      "url": "https://open.spotify.com/track/4w3Uy4n1hfj1mx6ag7bII5"
     },
     {
       "added_at": "2026-06-19 04:00:41",
@@ -835,26 +839,22 @@
     {
       "added_at": "2026-06-19 04:00:41",
       "album": {
-        "name": "Save My Love (with Ellie Goulding & AVAION)",
-        "url": "https://open.spotify.com/album/3KFX6b8uxX8cORnXbSiC18"
+        "name": "Love Is Kind",
+        "url": "https://open.spotify.com/album/0wP1ridvw0gHq6gOkIrLBU"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
         },
         {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        },
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
         }
       ],
-      "duration_ms": 215555,
-      "name": "Save My Love (with Ellie Goulding & AVAION)",
-      "url": "https://open.spotify.com/track/4w3Uy4n1hfj1mx6ag7bII5"
+      "duration_ms": 247384,
+      "name": "Love Is Kind",
+      "url": "https://open.spotify.com/track/2xntLwIz7kwJXqD2OgWfGT"
     },
     {
       "added_at": "2026-06-19 04:00:41",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-06-19 04:00:41",
       "album": {
-        "name": "The Sun Comes Up Tremendous",
-        "url": "https://open.spotify.com/album/7ky5M7uzAkPGBbHLgvCKZB"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 213284,
-      "name": "The Sun Comes Up Tremendous",
-      "url": "https://open.spotify.com/track/4xOUoPT3YjHnwzOFycXXjU"
-    },
-    {
-      "added_at": "2026-06-19 04:00:41",
-      "album": {
         "name": "Spin Me Slowly (feat. Julia Church)",
         "url": "https://open.spotify.com/album/1YAcTt8kz8Pfyp5GzkiNKx"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 170800,
       "name": "thumbs",
       "url": "https://open.spotify.com/track/6vBfayVtFTjDg7eGKNPbrS"
+    },
+    {
+      "added_at": "2026-06-19 04:00:41",
+      "album": {
+        "name": "The Sun Comes Up Tremendous",
+        "url": "https://open.spotify.com/album/7ky5M7uzAkPGBbHLgvCKZB"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 213284,
+      "name": "The Sun Comes Up Tremendous",
+      "url": "https://open.spotify.com/track/4xOUoPT3YjHnwzOFycXXjU"
     },
     {
       "added_at": "2026-06-19 04:00:41",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2026-06-19 04:00:41",
       "album": {
-        "name": "Zero",
-        "url": "https://open.spotify.com/album/0eVbfgaX5oyxgUMJ6hqf1v"
-      },
-      "artists": [
-        {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
-        }
-      ],
-      "duration_ms": 192727,
-      "name": "Zero",
-      "url": "https://open.spotify.com/track/7E0xvOIQIFyTa3balkUrI5"
-    },
-    {
-      "added_at": "2026-06-19 04:00:41",
-      "album": {
         "name": "AMi Vol. 1",
         "url": "https://open.spotify.com/album/4yZVkEpL1rV8n4KmSINpYb"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 239542,
       "name": "Pure Shores",
       "url": "https://open.spotify.com/track/1qLEtiVIMaYmUOeGJUSoPQ"
+    },
+    {
+      "added_at": "2026-06-19 04:00:41",
+      "album": {
+        "name": "Zero",
+        "url": "https://open.spotify.com/album/0eVbfgaX5oyxgUMJ6hqf1v"
+      },
+      "artists": [
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        }
+      ],
+      "duration_ms": 192727,
+      "name": "Zero",
+      "url": "https://open.spotify.com/track/7E0xvOIQIFyTa3balkUrI5"
     },
     {
       "added_at": "2026-06-19 04:00:41",
@@ -1827,6 +1827,26 @@
     {
       "added_at": "2026-06-19 04:00:41",
       "album": {
+        "name": "Stay Still, A Little While",
+        "url": "https://open.spotify.com/album/3dCJW7g5MkeE9p7X4h4sjd"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Jyll",
+          "url": "https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe"
+        }
+      ],
+      "duration_ms": 320640,
+      "name": "Stay Still, A Little While",
+      "url": "https://open.spotify.com/track/6qbdnKNznLiwqplr35yb1n"
+    },
+    {
+      "added_at": "2026-06-19 04:00:41",
+      "album": {
         "name": "Everything U",
         "url": "https://open.spotify.com/album/6u6pP0iEfqlP1fJPTyrkWi"
       },
@@ -1859,26 +1879,6 @@
       "duration_ms": 188307,
       "name": "Dancing In The Dark",
       "url": "https://open.spotify.com/track/0v4y0mPJaLyCKOWC5khfmg"
-    },
-    {
-      "added_at": "2026-06-19 04:00:41",
-      "album": {
-        "name": "Stay Still, A Little While",
-        "url": "https://open.spotify.com/album/3dCJW7g5MkeE9p7X4h4sjd"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
-          "name": "Jyll",
-          "url": "https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe"
-        }
-      ],
-      "duration_ms": 320640,
-      "name": "Stay Still, A Little While",
-      "url": "https://open.spotify.com/track/6qbdnKNznLiwqplr35yb1n"
     },
     {
       "added_at": "2026-06-19 04:00:41",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2026-06-19 04:00:41",
       "album": {
-        "name": "All Your Love",
-        "url": "https://open.spotify.com/album/4EcmsY4avimrHEiYWgJxSD"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 128142,
-      "name": "All Your Love",
-      "url": "https://open.spotify.com/track/54myGd3cApYi3ZSSXseWmr"
-    },
-    {
-      "added_at": "2026-06-19 04:00:41",
-      "album": {
         "name": "Somebody To Love",
         "url": "https://open.spotify.com/album/0H4wuU2aIXCZJCSL2E5y8W"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 230487,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/6SPWJ9hUFMA69MaGwUsRJi"
+    },
+    {
+      "added_at": "2026-06-19 04:00:41",
+      "album": {
+        "name": "All Your Love",
+        "url": "https://open.spotify.com/album/4EcmsY4avimrHEiYWgJxSD"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 128142,
+      "name": "All Your Love",
+      "url": "https://open.spotify.com/track/54myGd3cApYi3ZSSXseWmr"
     },
     {
       "added_at": "2026-06-19 04:00:41",
@@ -2003,6 +2003,26 @@
     {
       "added_at": "2026-06-19 04:00:41",
       "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/3Fb9wQ7cRCBow2BOlcQ02H"
+      },
+      "artists": [
+        {
+          "name": "Elephante",
+          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
+        },
+        {
+          "name": "Rosie Darling",
+          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
+        }
+      ],
+      "duration_ms": 174146,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/6vYpybZoGKDk5b7HVkJQ8p"
+    },
+    {
+      "added_at": "2026-06-19 04:00:41",
+      "album": {
         "name": "Ride At Dawn",
         "url": "https://open.spotify.com/album/7DiasgKMXc817JWAUi1org"
       },
@@ -2035,26 +2055,6 @@
       "duration_ms": 309101,
       "name": "Last Forever",
       "url": "https://open.spotify.com/track/17DObRgarppeleRuJJOV8q"
-    },
-    {
-      "added_at": "2026-06-19 04:00:41",
-      "album": {
-        "name": "Evergreen",
-        "url": "https://open.spotify.com/album/3Fb9wQ7cRCBow2BOlcQ02H"
-      },
-      "artists": [
-        {
-          "name": "Elephante",
-          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
-        },
-        {
-          "name": "Rosie Darling",
-          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
-        }
-      ],
-      "duration_ms": 174146,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/6vYpybZoGKDk5b7HVkJQ8p"
     },
     {
       "added_at": "2026-06-19 04:00:41",
@@ -2099,22 +2099,6 @@
     {
       "added_at": "2026-06-19 04:00:41",
       "album": {
-        "name": "Love Who You Love",
-        "url": "https://open.spotify.com/album/6RdhCbS2KuedWjsjuecMuY"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        }
-      ],
-      "duration_ms": 239973,
-      "name": "Love Who You Love",
-      "url": "https://open.spotify.com/track/2uvcftCCrCr2pprXUJ6Vjr"
-    },
-    {
-      "added_at": "2026-06-19 04:00:41",
-      "album": {
         "name": "Hold Me",
         "url": "https://open.spotify.com/album/0xq1Ug8C06g4znM3QizelQ"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 152571,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/2uxRNIseE14NHEh38SaEeZ"
+    },
+    {
+      "added_at": "2026-06-19 04:00:41",
+      "album": {
+        "name": "Love Who You Love",
+        "url": "https://open.spotify.com/album/6RdhCbS2KuedWjsjuecMuY"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "duration_ms": 239973,
+      "name": "Love Who You Love",
+      "url": "https://open.spotify.com/track/2uvcftCCrCr2pprXUJ6Vjr"
     },
     {
       "added_at": "2026-06-19 04:00:41",
@@ -2171,22 +2171,22 @@
     {
       "added_at": "2026-06-19 04:00:41",
       "album": {
-        "name": "Postcard (All I Need Is You)",
-        "url": "https://open.spotify.com/album/66Wb8qYgqeVHPrx9suY0Us"
+        "name": "Me & U (Sammy Virji Remix)",
+        "url": "https://open.spotify.com/album/1iqTnKpDcOuWp3o4kOuzU3"
       },
       "artists": [
         {
-          "name": "MC4D",
-          "url": "https://open.spotify.com/artist/2MbY32LPINIi9P6PCkrOJI"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         },
         {
-          "name": "JOSEPH",
-          "url": "https://open.spotify.com/artist/7tPCHxx5JMvvlUDndg57nj"
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
         }
       ],
-      "duration_ms": 181406,
-      "name": "Postcard (All I Need Is You)",
-      "url": "https://open.spotify.com/track/4BvrNG6oB6caIU7to1JKtC"
+      "duration_ms": 201199,
+      "name": "Me & U - Sammy Virji Remix",
+      "url": "https://open.spotify.com/track/5tm9ZsHVB29WVxBaekV013"
     },
     {
       "added_at": "2026-06-19 04:00:41",
@@ -2203,6 +2203,26 @@
       "duration_ms": 239133,
       "name": "Plush",
       "url": "https://open.spotify.com/track/4jP7Eh55rn0buD5c2Cknmj"
+    },
+    {
+      "added_at": "2026-06-19 04:00:41",
+      "album": {
+        "name": "Postcard (All I Need Is You)",
+        "url": "https://open.spotify.com/album/66Wb8qYgqeVHPrx9suY0Us"
+      },
+      "artists": [
+        {
+          "name": "MC4D",
+          "url": "https://open.spotify.com/artist/2MbY32LPINIi9P6PCkrOJI"
+        },
+        {
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/7tPCHxx5JMvvlUDndg57nj"
+        }
+      ],
+      "duration_ms": 181406,
+      "name": "Postcard (All I Need Is You)",
+      "url": "https://open.spotify.com/track/4BvrNG6oB6caIU7to1JKtC"
     },
     {
       "added_at": "2026-06-19 04:00:41",
@@ -2287,26 +2307,6 @@
       "duration_ms": 180793,
       "name": "Forever",
       "url": "https://open.spotify.com/track/5pNs6lPWpytU3rp7k5m9YN"
-    },
-    {
-      "added_at": "2026-06-19 04:00:41",
-      "album": {
-        "name": "Me & U (Sammy Virji Remix)",
-        "url": "https://open.spotify.com/album/1iqTnKpDcOuWp3o4kOuzU3"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        },
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        }
-      ],
-      "duration_ms": 201199,
-      "name": "Me & U - Sammy Virji Remix",
-      "url": "https://open.spotify.com/track/5tm9ZsHVB29WVxBaekV013"
     },
     {
       "added_at": "2026-06-19 04:00:41",
@@ -2491,6 +2491,30 @@
     {
       "added_at": "2026-06-19 04:00:41",
       "album": {
+        "name": "Superstition EP",
+        "url": "https://open.spotify.com/album/7sHi05ALIKm6MsZhhLkqAw"
+      },
+      "artists": [
+        {
+          "name": "MYRNE",
+          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
+        },
+        {
+          "name": "Syence",
+          "url": "https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf"
+        },
+        {
+          "name": "artemis orion",
+          "url": "https://open.spotify.com/artist/6xLeeQEqxKiq6mXCgvFKSg"
+        }
+      ],
+      "duration_ms": 318688,
+      "name": "Superstition",
+      "url": "https://open.spotify.com/track/10yQfULdZ2BfoipahuFZ0z"
+    },
+    {
+      "added_at": "2026-06-19 04:00:41",
+      "album": {
         "name": "Next To Me",
         "url": "https://open.spotify.com/album/5SdlzjBnLvetgupRk7FXrM"
       },
@@ -2539,22 +2563,6 @@
     {
       "added_at": "2026-06-19 04:00:41",
       "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/7bnnpEQmYtIM2LjAwkDqhb"
-      },
-      "artists": [
-        {
-          "name": "Drove",
-          "url": "https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/5XwpEXhwjkSpJAXpONekxA"
-    },
-    {
-      "added_at": "2026-06-19 04:00:41",
-      "album": {
         "name": "find u",
         "url": "https://open.spotify.com/album/0QORzhl36RhOqt59EwFfw2"
       },
@@ -2571,6 +2579,22 @@
       "duration_ms": 203488,
       "name": "find u",
       "url": "https://open.spotify.com/track/25LzzeXYBRlb2svW7tq7NS"
+    },
+    {
+      "added_at": "2026-06-19 04:00:41",
+      "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/7bnnpEQmYtIM2LjAwkDqhb"
+      },
+      "artists": [
+        {
+          "name": "Drove",
+          "url": "https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/5XwpEXhwjkSpJAXpONekxA"
     },
     {
       "added_at": "2026-06-19 04:00:41",
@@ -2615,46 +2639,6 @@
     {
       "added_at": "2026-06-19 04:00:41",
       "album": {
-        "name": "Superstition EP",
-        "url": "https://open.spotify.com/album/7sHi05ALIKm6MsZhhLkqAw"
-      },
-      "artists": [
-        {
-          "name": "MYRNE",
-          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
-        },
-        {
-          "name": "Syence",
-          "url": "https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf"
-        },
-        {
-          "name": "artemis orion",
-          "url": "https://open.spotify.com/artist/6xLeeQEqxKiq6mXCgvFKSg"
-        }
-      ],
-      "duration_ms": 318688,
-      "name": "Superstition",
-      "url": "https://open.spotify.com/track/10yQfULdZ2BfoipahuFZ0z"
-    },
-    {
-      "added_at": "2026-06-19 04:00:41",
-      "album": {
-        "name": "Tell Me That You Love Me",
-        "url": "https://open.spotify.com/album/6u5miPvMbyHLzqNE7YOdjR"
-      },
-      "artists": [
-        {
-          "name": "Jacob Vallen",
-          "url": "https://open.spotify.com/artist/4cpsDjOCHa98YDBMlkjaUl"
-        }
-      ],
-      "duration_ms": 143709,
-      "name": "Tell Me That You Love Me",
-      "url": "https://open.spotify.com/track/5twVbF7fNd93mdVs2MpbKN"
-    },
-    {
-      "added_at": "2026-06-19 04:00:41",
-      "album": {
         "name": "Closer To The Sun",
         "url": "https://open.spotify.com/album/0pm1naNljfu3t7ZBCKMqjT"
       },
@@ -2687,6 +2671,22 @@
       "duration_ms": 155210,
       "name": "Confession",
       "url": "https://open.spotify.com/track/0djKAYbFaMG539SuVAS6Ad"
+    },
+    {
+      "added_at": "2026-06-19 04:00:41",
+      "album": {
+        "name": "Tell Me That You Love Me",
+        "url": "https://open.spotify.com/album/6u5miPvMbyHLzqNE7YOdjR"
+      },
+      "artists": [
+        {
+          "name": "Jacob Vallen",
+          "url": "https://open.spotify.com/artist/4cpsDjOCHa98YDBMlkjaUl"
+        }
+      ],
+      "duration_ms": 143709,
+      "name": "Tell Me That You Love Me",
+      "url": "https://open.spotify.com/track/5twVbF7fNd93mdVs2MpbKN"
     },
     {
       "added_at": "2026-06-19 04:00:41",
@@ -2811,22 +2811,6 @@
     {
       "added_at": "2026-06-19 04:00:41",
       "album": {
-        "name": "Stay 4 U",
-        "url": "https://open.spotify.com/album/2YPDu0pGRiGESnixTgFQe7"
-      },
-      "artists": [
-        {
-          "name": "Caius",
-          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
-        }
-      ],
-      "duration_ms": 184444,
-      "name": "Stay 4 U",
-      "url": "https://open.spotify.com/track/7ic1zj8awFw8dp0uu2VV12"
-    },
-    {
-      "added_at": "2026-06-19 04:00:41",
-      "album": {
         "name": "Perfume",
         "url": "https://open.spotify.com/album/0nYNEtTraLb8gQDf7uOVIg"
       },
@@ -2843,18 +2827,18 @@
     {
       "added_at": "2026-06-19 04:00:41",
       "album": {
-        "name": "Shivers",
-        "url": "https://open.spotify.com/album/5UNCKKmrFhunNqn8GJo0Yj"
+        "name": "Stay 4 U",
+        "url": "https://open.spotify.com/album/2YPDu0pGRiGESnixTgFQe7"
       },
       "artists": [
         {
-          "name": "unfazed",
-          "url": "https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0"
+          "name": "Caius",
+          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
         }
       ],
-      "duration_ms": 165120,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/2Aaq0FavPjpJHA17Ux488k"
+      "duration_ms": 184444,
+      "name": "Stay 4 U",
+      "url": "https://open.spotify.com/track/7ic1zj8awFw8dp0uu2VV12"
     },
     {
       "added_at": "2026-06-19 04:00:41",
@@ -2871,6 +2855,22 @@
       "duration_ms": 260353,
       "name": "Embrace",
       "url": "https://open.spotify.com/track/2rioycV7h8P0ujiMy59bkP"
+    },
+    {
+      "added_at": "2026-06-19 04:00:41",
+      "album": {
+        "name": "Shivers",
+        "url": "https://open.spotify.com/album/5UNCKKmrFhunNqn8GJo0Yj"
+      },
+      "artists": [
+        {
+          "name": "unfazed",
+          "url": "https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0"
+        }
+      ],
+      "duration_ms": 165120,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/2Aaq0FavPjpJHA17Ux488k"
     },
     {
       "added_at": "2026-06-19 04:00:41",
@@ -3059,22 +3059,6 @@
     {
       "added_at": "2026-06-19 04:00:41",
       "album": {
-        "name": "Savannah",
-        "url": "https://open.spotify.com/album/4Xrt7GJzfGVZ9pyuskuIWp"
-      },
-      "artists": [
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 208467,
-      "name": "Savannah",
-      "url": "https://open.spotify.com/track/0BnlKkuszP6iIQBtMXeV48"
-    },
-    {
-      "added_at": "2026-06-19 04:00:41",
-      "album": {
         "name": "I Won't Sleep",
         "url": "https://open.spotify.com/album/2Cv3X0S014FgbbBahaEQLh"
       },
@@ -3091,6 +3075,22 @@
       "duration_ms": 135428,
       "name": "I Won't Sleep",
       "url": "https://open.spotify.com/track/0mi2jX9EjiMcG0lRqV2gPB"
+    },
+    {
+      "added_at": "2026-06-19 04:00:41",
+      "album": {
+        "name": "Savannah",
+        "url": "https://open.spotify.com/album/4Xrt7GJzfGVZ9pyuskuIWp"
+      },
+      "artists": [
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 208467,
+      "name": "Savannah",
+      "url": "https://open.spotify.com/track/0BnlKkuszP6iIQBtMXeV48"
     },
     {
       "added_at": "2026-06-19 04:00:41",
@@ -3239,26 +3239,6 @@
     {
       "added_at": "2026-06-19 04:00:41",
       "album": {
-        "name": "Holding Your Hand",
-        "url": "https://open.spotify.com/album/1Ggks2L6vGzHraAO2a98gZ"
-      },
-      "artists": [
-        {
-          "name": "SACHI",
-          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
-        },
-        {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
-        }
-      ],
-      "duration_ms": 152603,
-      "name": "Holding Your Hand",
-      "url": "https://open.spotify.com/track/1Ve2EdxdPBAA9wOiDdkS4y"
-    },
-    {
-      "added_at": "2026-06-19 04:00:41",
-      "album": {
         "name": "Colorize 2025 Spring Sampler",
         "url": "https://open.spotify.com/album/1aSiPwNCddpc0Jq1uEZAuT"
       },
@@ -3275,6 +3255,26 @@
       "duration_ms": 206129,
       "name": "What A Feeling",
       "url": "https://open.spotify.com/track/0JKliACP4ejGtyxduESutD"
+    },
+    {
+      "added_at": "2026-06-19 04:00:41",
+      "album": {
+        "name": "Holding Your Hand",
+        "url": "https://open.spotify.com/album/1Ggks2L6vGzHraAO2a98gZ"
+      },
+      "artists": [
+        {
+          "name": "SACHI",
+          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "duration_ms": 152603,
+      "name": "Holding Your Hand",
+      "url": "https://open.spotify.com/track/1Ve2EdxdPBAA9wOiDdkS4y"
     },
     {
       "added_at": "2026-06-19 04:00:41",
@@ -3311,22 +3311,6 @@
     {
       "added_at": "2026-06-19 04:00:41",
       "album": {
-        "name": "LOVE ON ME",
-        "url": "https://open.spotify.com/album/29QSS0FS77NYUOPoidnViy"
-      },
-      "artists": [
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 138702,
-      "name": "LOVE ON ME",
-      "url": "https://open.spotify.com/track/1TTBz20UzrRV9KevTfutvd"
-    },
-    {
-      "added_at": "2026-06-19 04:00:41",
-      "album": {
         "name": "25, spring",
         "url": "https://open.spotify.com/album/2sVbAuD8grp9PsAp9ak1Ks"
       },
@@ -3339,6 +3323,22 @@
       "duration_ms": 153471,
       "name": "Safe In Your Love",
       "url": "https://open.spotify.com/track/7n9Kvdjl3Mjvz6tQWXsNiz"
+    },
+    {
+      "added_at": "2026-06-19 04:00:41",
+      "album": {
+        "name": "LOVE ON ME",
+        "url": "https://open.spotify.com/album/29QSS0FS77NYUOPoidnViy"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 138702,
+      "name": "LOVE ON ME",
+      "url": "https://open.spotify.com/track/1TTBz20UzrRV9KevTfutvd"
     },
     {
       "added_at": "2026-06-19 04:00:41",

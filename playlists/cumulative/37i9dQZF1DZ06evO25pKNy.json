@@ -140,7 +140,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 178976,
       "name": "Aqui Nada Me Va Mal",
       "url": "https://open.spotify.com/track/3EKCwgqtzhNRD51XOHkjzM"
@@ -500,6 +500,24 @@
       "duration_ms": 179500,
       "name": "El Buenazo",
       "url": "https://open.spotify.com/track/09n6isQIxzROWYMFgkKz10"
+    },
+    {
+      "album": {
+        "name": "En Vivo Desde Almanza Fresians Ranch, Vol. 1",
+        "url": "https://open.spotify.com/album/7d0oBxthOSCSsLWjnUHzLf"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169386,
+      "name": "El Buenazo",
+      "url": "https://open.spotify.com/track/1dmMTB71FFbS6HHHG6M28F"
     },
     {
       "album": {

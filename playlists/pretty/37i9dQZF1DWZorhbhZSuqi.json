@@ -1,6 +1,6 @@
 {
   "description": "to the people who look at the stars and wish \ud83e\uddda\u200d\u2640\ufe0f ",
-  "num_followers": 19492,
+  "num_followers": 19489,
   "original_name": "Faerie Core",
   "owner": {
     "name": "Spotify",
@@ -132,7 +132,7 @@
       },
       "artists": [
         {
-          "name": "The Dramatic Society",
+          "name": "Dramatica",
           "url": "https://open.spotify.com/artist/7xFAkXgK99h0nlTo1kHagi"
         }
       ],
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-01-31 05:00:34",
       "album": {
-        "name": "Ask Me Tomorrow",
-        "url": "https://open.spotify.com/album/3fjeFLyo8FY1Appkw4Mrvy"
-      },
-      "artists": [
-        {
-          "name": "Mojave 3",
-          "url": "https://open.spotify.com/artist/4jSYHcSo85heWskYvAULio"
-        }
-      ],
-      "duration_ms": 348400,
-      "name": "Love Songs on the Radio",
-      "url": "https://open.spotify.com/track/3FzK2g50oLcx8vqETwOn07"
-    },
-    {
-      "added_at": "2025-01-31 05:00:34",
-      "album": {
         "name": "Barrow",
         "url": "https://open.spotify.com/album/6IXODAifKEyJazakNSQB4V"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 398851,
       "name": "Sodus",
       "url": "https://open.spotify.com/track/1cyRoWGazsa8Vr5qlDfvPP"
+    },
+    {
+      "added_at": "2025-01-31 05:00:34",
+      "album": {
+        "name": "Ask Me Tomorrow",
+        "url": "https://open.spotify.com/album/3fjeFLyo8FY1Appkw4Mrvy"
+      },
+      "artists": [
+        {
+          "name": "Mojave 3",
+          "url": "https://open.spotify.com/artist/4jSYHcSo85heWskYvAULio"
+        }
+      ],
+      "duration_ms": 348400,
+      "name": "Love Songs on the Radio",
+      "url": "https://open.spotify.com/track/3FzK2g50oLcx8vqETwOn07"
     },
     {
       "added_at": "2025-01-31 05:00:34",

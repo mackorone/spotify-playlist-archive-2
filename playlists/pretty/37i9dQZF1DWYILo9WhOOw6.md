@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYILo9WhOOw6.md) - [plain]
 
 > Use Delta frequencies for the best night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 637,460 likes - 155 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 637,796 likes - 155 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYILo9WhOOw6.md) - [plain]
 | 154 | [Oceans of Delta 4 Hz](https://open.spotify.com/track/1ZSCa6fvav5lBI5PZzedlP) | [Cosmazul](https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2) | [Oceans of Delta 4 Hz](https://open.spotify.com/album/6uqc1SZZjgDrbZ5ZarevUV) | 2:34 |
 | 155 | [Silent Delta Waves 110 Hz \- 112 Hz](https://open.spotify.com/track/3YSKslQX2qnmJLuZNqmRFF) | [Brainwave Harmony](https://open.spotify.com/artist/3VYg1JJn6gmvv9a667atxE) | [Silent Delta Waves 110 Hz \- 112 Hz](https://open.spotify.com/album/3afVH3z2rg8ukKykQZDMjM) | 3:02 |
 
-Snapshot ID: `AAAAAGwGLUCIDa0E1N08bQ2ccQoh+URV`
+Snapshot ID: `AAAAAGZabC9y4I1sRt0HfofbWWY0lvH0`

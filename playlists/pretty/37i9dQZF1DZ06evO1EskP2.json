@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajcpgAAAAAC/wHxepBJBbKSldZvS8vev",
+  "snapshot_id": "ajh7AAAAAADwO1w+nm+6thI6X19A3ZlJ",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holding on Tight",
-        "url": "https://open.spotify.com/album/2DuhNaSXkO5DwUxgs3Ob8J"
+        "name": "Only Man In The World (feat. Tarrus Riley)",
+        "url": "https://open.spotify.com/album/2Vye5SVOBSo95kZKtqIIXB"
       },
       "artists": [
         {
-          "name": "Claire Wright",
-          "url": "https://open.spotify.com/artist/1f0rM0WH91u5j96lXeMdwn"
-        },
-        {
           "name": "Anuhea",
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        },
+        {
+          "name": "Tarrus Riley",
+          "url": "https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c"
         }
       ],
-      "duration_ms": 208197,
-      "name": "Enough (with Anuhea)",
-      "url": "https://open.spotify.com/track/4BRhxR8hMOsUWmsPckGYe3"
+      "duration_ms": 213013,
+      "name": "Only Man In The World - feat. Tarrus Riley",
+      "url": "https://open.spotify.com/track/3hdBa2RmmyWbQQNOdG5e3T"
     },
     {
       "added_at": null,
@@ -239,22 +239,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Only Man In The World (feat. Tarrus Riley)",
-        "url": "https://open.spotify.com/album/2Vye5SVOBSo95kZKtqIIXB"
+        "name": "Holding on Tight",
+        "url": "https://open.spotify.com/album/2DuhNaSXkO5DwUxgs3Ob8J"
       },
       "artists": [
         {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+          "name": "Claire Wright",
+          "url": "https://open.spotify.com/artist/1f0rM0WH91u5j96lXeMdwn"
         },
         {
-          "name": "Tarrus Riley",
-          "url": "https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c"
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 213013,
-      "name": "Only Man In The World - feat. Tarrus Riley",
-      "url": "https://open.spotify.com/track/3hdBa2RmmyWbQQNOdG5e3T"
+      "duration_ms": 208197,
+      "name": "Enough (with Anuhea)",
+      "url": "https://open.spotify.com/track/4BRhxR8hMOsUWmsPckGYe3"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Love",
-        "url": "https://open.spotify.com/album/3AGYCI89BqoyYTpU881c5S"
+        "name": "Follow Me (Deluxe Hawai'i Edition)",
+        "url": "https://open.spotify.com/album/7DsQYHPyTNcDyQ098QKtT2"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 236500,
-      "name": "Crown Royal",
-      "url": "https://open.spotify.com/track/3YYtsFBs8SjdoVcVYgLPex"
+      "duration_ms": 201978,
+      "name": "You Had Me at Aloha",
+      "url": "https://open.spotify.com/track/0IAx8D7mpLhIvI2tm4D2UE"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Follow Me (Deluxe Hawai'i Edition)",
-        "url": "https://open.spotify.com/album/7DsQYHPyTNcDyQ098QKtT2"
+        "name": "For Love",
+        "url": "https://open.spotify.com/album/3AGYCI89BqoyYTpU881c5S"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 201978,
-      "name": "You Had Me at Aloha",
-      "url": "https://open.spotify.com/track/0IAx8D7mpLhIvI2tm4D2UE"
+      "duration_ms": 236500,
+      "name": "Crown Royal",
+      "url": "https://open.spotify.com/track/3YYtsFBs8SjdoVcVYgLPex"
     },
     {
       "added_at": null,

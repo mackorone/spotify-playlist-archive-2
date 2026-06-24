@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring Waylon Wyatt, Cole Swindell, Brothers Osborne and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,599 likes - 69 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,658 likes - 69 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 22 | [Welcome To Country Hell](https://open.spotify.com/track/1tll2O3gZLECybuBySOXN5) | [Red Shahan](https://open.spotify.com/artist/5DPP8EALeVGnupgVjlWOwJ) | [Welcome To Country Hell](https://open.spotify.com/album/05jyOXyOOXvvL7MVxDo0pS) | 4:00 |
 | 23 | [a good life](https://open.spotify.com/track/4oMb8daF1R0iVHFK6rJk3n) | [The Shires](https://open.spotify.com/artist/48hCuDf2HUMGTgMhqLfic3) | [a good life](https://open.spotify.com/album/4h2qTazOcZSIUzqGDcIBPj) | 3:08 |
 | 24 | [Powers That Be](https://open.spotify.com/track/5pMw2DGCcdRtg0XOVQqwO6) | [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq) | [Powers That Be](https://open.spotify.com/album/5yHsboRY1fTxT8jhYm3K3A) | 3:05 |
-| 25 | [Us, by Name](https://open.spotify.com/track/4e9cJRDS1k804wKWLFlGXG) | [Clayton Nile Young](https://open.spotify.com/artist/1Pjj9uWZiJXloNcHIJzsNm) | [Us, By Name](https://open.spotify.com/album/2ii9jFYEZtvPkuq8WKoTOX) | 3:26 |
+| 25 | [Us, by Name](https://open.spotify.com/track/4e9cJRDS1k804wKWLFlGXG) | [Clayton Nile Young](https://open.spotify.com/artist/1Pjj9uWZiJXloNcHIJzsNm) | [Us, by Name](https://open.spotify.com/album/2ii9jFYEZtvPkuq8WKoTOX) | 3:26 |
 | 26 | [All Over Nashville](https://open.spotify.com/track/395lMDLyDx6J0MDFfTi8Hi) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [All Over Nashville](https://open.spotify.com/album/1ivfTGTlDldzUzwGgkvXZC) | 3:19 |
 | 27 | [In the Woods](https://open.spotify.com/track/6xH8S9XGdh2YkNIekiMxfI) | [Common Tribe](https://open.spotify.com/artist/40pTT6YuuFhVUmNRBgYKjb), [J\. Michael Phillips](https://open.spotify.com/artist/2KzsvQpIXnQCEyvSS53h5W), [JamWayne](https://open.spotify.com/artist/3BHsFg7FtIpq3EB54et7H3) | [In the Woods](https://open.spotify.com/album/3IcpibFwCmlkGuMEeSazsB) | 3:24 |
 | 28 | [Swamp Water Gospel](https://open.spotify.com/track/2MqNMznmnjdGNm6VnmEFrF) | [Johnny Woods](https://open.spotify.com/artist/3QwFXPDfdd5w5GDaKgtj2h), [Adam Hood](https://open.spotify.com/artist/4oqOpULfSzd2BRoBT4aTXk) | [Swamp Water Gospel](https://open.spotify.com/album/3bFy241tnMb0I96fXAaC1N) | 3:38 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfI4CvtktqF.md) - [plain]
 
 > ฟังและดูเอ็มวีเพลงไทยฮิตที่นี่เลย ดูเอ็มวีได้สำหรับผู้ใช้งานแบบพรีเมี่ยม\. ศิลปิน: guncharlie
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,796 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,801 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfI4CvtktqF.md) - [plain]
 | 49 | [ไกลกว่าดาว \(Million Light\-Years\)](https://open.spotify.com/track/70pOmngGTSMHPjgIqVRFsI) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ไกลกว่าดาว \(Million Light\-Years\)](https://open.spotify.com/album/6USjhvo2kxlFA9cyEBgw6m) | 4:44 |
 | 50 | [เริ่มใหม่](https://open.spotify.com/track/11qQIIxJ8BqQOzZ0jAmftA) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [เริ่มใหม่](https://open.spotify.com/album/5NAkGig4ajWDazmU0sA0Xn) | 3:21 |
 
-Snapshot ID: `AAAAAG6qV5dzaKvV7bYVU0QFfAYlWWvA`
+Snapshot ID: `AAAAABJNH4WsxkvsKLfNNtTcLBtcmQus`

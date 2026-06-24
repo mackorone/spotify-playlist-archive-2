@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-685 songs - 1 day 13 hr 35 min
+686 songs - 1 day 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -404,6 +404,7 @@
 | [Moons](https://open.spotify.com/track/6fnyEWCUFUqUhVFmAyb3zz) | [Brittany Campbell](https://open.spotify.com/artist/1djE1lZOjvcm93ZJo2hgYD) | [Anything's Possible \(Motion Picture Soundtrack\)](https://open.spotify.com/album/33OeuOhSFRzm4pLlFNup4w) | 2:46 | 2024-02-27 |  |
 | [More](https://open.spotify.com/track/2QV01elahKsS8dhNO0BNCT) | [Maria Z](https://open.spotify.com/artist/7tbZXUnNoZJYdn7uMYzxEq) | [Two Fifty Two](https://open.spotify.com/album/6YroKoqcfDt6EvAm5LbpWU) | 2:53 | 2024-02-27 |  |
 | [MORE & MORE](https://open.spotify.com/track/2bAAj29XGc4h1G4oEGYCmg) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/1bUx6TFAyzCdZY9ugEXxRh) | 3:19 | 2024-02-27 |  |
+| [MORE & MORE \- English Ver.](https://open.spotify.com/track/0E3LHQbZTPLyw06z6XvmNn) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE \(English Ver.\)](https://open.spotify.com/album/2IW1bjV1WrStplhvKl3Uro) | 3:19 | 2026-06-23 |  |
 | [More To Learn](https://open.spotify.com/track/6aznIyz45o0yYLvMEHxRTj) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Black Mona Lisa](https://open.spotify.com/album/5TjZrtwHeIxK4KUGZcQe27) | 2:46 | 2024-02-27 |  |
 | [Moving Along](https://open.spotify.com/track/4UQajPk0EPvbwWTl0fYi4C) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood \(Deluxe\)](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) | 3:17 | 2024-02-27 |  |
 | [Moxie](https://open.spotify.com/track/3mt2AxuyKl3sXsNL84XW6L) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [All I Ever Want Is Everything](https://open.spotify.com/album/1U2atfLjw1MKte54JUjcQR) | 3:15 | 2024-03-29 |  |

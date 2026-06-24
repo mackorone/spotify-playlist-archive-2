@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mNn2QG698C.md) - [plain]
 
 > La playlist ufficiale del rap show di Netflix, la nuova stagione è in arrivo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,460 likes - 43 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,456 likes - 43 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mNn2QG698C.md) - [plain]
 | 42 | [Big Panorama](https://open.spotify.com/track/3K7z0fSlSRxrdFPqavdaKC) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC) | [Big Panorama](https://open.spotify.com/album/4Pcpa6u8EH2bAzboGbcIfK) | 2:36 |
 | 43 | [Lo Spirito Della Dopa](https://open.spotify.com/track/0O7i5YWDGukEbmgKY6Ev9j) | [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF) | [Neffa E I Messaggeri Della Dopa](https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn) | 4:43 |
 
-Snapshot ID: `AAAAAHIqvPG2l0r1gjJhUqob59lwLudM`
+Snapshot ID: `AAAAAF2dj4mGBRAZtMzzrGx/ZXL2gRwi`

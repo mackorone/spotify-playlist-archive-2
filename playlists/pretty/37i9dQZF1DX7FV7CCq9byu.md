@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,780 likes - 110 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,783 likes - 110 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 41 | [Lycka till, ha det bra](https://open.spotify.com/track/06zomPNddyGvGghI16PN1U) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Om ditt namn var Natalie](https://open.spotify.com/album/4UXKOpwiliOUMQ8rRa0Ho5) | 2:57 |
 | 42 | [Tastes So Good](https://open.spotify.com/track/4gluSAEoFadJsa26yk6UHq) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Dinner Party](https://open.spotify.com/album/51ihz2jRNQwzVyqtFQRN3Z) | 3:05 |
 | 43 | [ANOTHER HOT DAY IN FRONT OF THE TV](https://open.spotify.com/track/1gbUMAbVnNBpSHPgMoHS0r) | [Claar](https://open.spotify.com/artist/2GTZtqW1zQ1KGf4KvRPBXa) | [ANOTHER HOT DAY IN FRONT OF THE TV](https://open.spotify.com/album/3tW83tYUsjjATEomFjkhLI) | 3:24 |
-| 44 | [Song and Dance Man](https://open.spotify.com/track/2BH6mThxOpVQ8XxPt2IMbX) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Song and Dance Man + Let's Go Camping](https://open.spotify.com/album/6tK0tx6jfHQ7HoHBxtRpUA) | 2:17 |
+| 44 | [Song and dance man](https://open.spotify.com/track/2BH6mThxOpVQ8XxPt2IMbX) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Song and dance man + Let's go camping](https://open.spotify.com/album/6tK0tx6jfHQ7HoHBxtRpUA) | 2:17 |
 | 45 | [Love Sensation \- Radio Edit](https://open.spotify.com/track/2IfZplDpYOpK2sADF1A9Su) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Love Sensation](https://open.spotify.com/album/2kWMFjZvvOYNk7H89MsqI2) | 3:02 |
 | 46 | [My Forever Song](https://open.spotify.com/track/4v02c3lM4FSRj4u7xBUKWK) | [Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [My Forever Song](https://open.spotify.com/album/1pPtsxHtFOaDrydElx2C6f) | 3:09 |
 | 47 | [the cure](https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [the cure](https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y) | 4:57 |

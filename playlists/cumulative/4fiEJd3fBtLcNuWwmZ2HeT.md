@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-523 songs - 1 day 6 hr 32 min
+524 songs - 1 day 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [GYARU](https://open.spotify.com/track/1rIegF191fU9LDCiozDyRH) | [Nene](https://open.spotify.com/artist/07pMzPVvAsMS1tgLfGtdIh) | [GYARU](https://open.spotify.com/album/2JghQxtUgwV6zCPcPI8JW7) | 3:05 | 2025-05-27 |  |
 | [hakuchuumu \(feat\. araki\)](https://open.spotify.com/track/44YFygtN4uwbBVcn1g2CEs) | [不眠症](https://open.spotify.com/artist/2VqEtJ2rBrI0mkFhxLYc0Q), [Araki](https://open.spotify.com/artist/09ONFXQOVjyy3AhFlBsZx8) | [Stray into a museum](https://open.spotify.com/album/2XffSggAZcbc1VVHdpffBh) | 3:30 | 2026-04-02 |  |
 | [hanabira](https://open.spotify.com/track/6C0sNoI2q1uUdTGGGaVAdt) | [glamscure](https://open.spotify.com/artist/7oQX1jVN0EsaRmdFKBkzdT) | [shadowscapes](https://open.spotify.com/album/6caVcUAUovJnkA1R5xbNci) | 2:17 | 2026-04-07 |  |
+| [hanawoutau](https://open.spotify.com/track/59mCmIQswqAQEED5nhdQJV) | [Shino](https://open.spotify.com/artist/59Bj4ZrSOLrNlMH15wY2VB) | [hanaainitari](https://open.spotify.com/album/50wRlQSd8wMzia6PsblhQc) | 3:24 | 2026-06-24 |  |
 | [Happiness Savings \(feat\. HATSUNE MIKU\)](https://open.spotify.com/track/22GIffkfqo45pTLyGXrRHX) | [MIMI](https://open.spotify.com/artist/0nwGsQzwVqdlBAg0eSNxmd), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Happiness Savings \(feat\. HATSUNE MIKU\)](https://open.spotify.com/album/2DtL6aukVKA4gPalst5JtC) | 2:49 | 2023-11-17 |  |
 | [HAREBARE](https://open.spotify.com/track/6qRXiDBpqYSNziFaHLl8tV) | [CULUA](https://open.spotify.com/artist/3sQqFA3jHUjGGUoUvwX7B2) | [HAREBARE](https://open.spotify.com/album/65MUZrDqQenpzqBgcaJPNk) | 3:08 | 2025-04-03 |  |
 | [Haru wo Tsugeru](https://open.spotify.com/track/5QseXDzPvtjdeaWNhYbm0m) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Haru wo Tsugeru](https://open.spotify.com/album/002POSVXei4zFN5FDF0YqQ) | 3:16 | 2022-11-25 |  |

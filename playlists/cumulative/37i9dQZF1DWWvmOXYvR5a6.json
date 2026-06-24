@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Trendy x Chill K-Hip Hop.  (Cover: BANG YONGGUK(\ubc29\uc6a9\uad6d))(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
+  "description": "Trendy x Chill K-Hip Hop.  (Cover: JMIN)(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
   "name": "TrenChill K-Hip Hop",
   "tracks": [
     {
@@ -796,6 +796,28 @@
       "duration_ms": 156429,
       "name": "Amanda",
       "url": "https://open.spotify.com/track/6nJwZ2ZocGVBlGoEHd7PUs"
+    },
+    {
+      "album": {
+        "name": "FOREVER KIDS",
+        "url": "https://open.spotify.com/album/3EhMtYhrnZ1XDJ7FyzmRLq"
+      },
+      "artists": [
+        {
+          "name": "JMIN",
+          "url": "https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219823,
+      "name": "AMAZING (feat. Sik-K)",
+      "url": "https://open.spotify.com/track/0h97ZHSA2ZSw7Gfz1NKTDY"
     },
     {
       "album": {
@@ -10718,7 +10740,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 189821,
       "name": "No.5",
       "url": "https://open.spotify.com/track/0tWJ05IcctwDbJ0PfDbigg"

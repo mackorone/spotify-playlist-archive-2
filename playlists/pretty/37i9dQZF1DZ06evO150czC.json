@@ -1,12 +1,12 @@
 {
   "description": "This is Midian Lima. The essential tracks, all in one playlist.",
-  "num_followers": 23258,
+  "num_followers": 23261,
   "original_name": "This Is Midian Lima",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajcpgAAAAABcUGhQCvzEfK7WjZCyuIRR",
+  "snapshot_id": "ajh7AAAAAAD7LWXY5LFMDOnYphh1rjhX",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Medley - Corinhos de Fogo (Deus Forte Como Jeov\u00e1 / Divisa de Fogo / Vem C\u00e1 Vem Ver / Carros de Fogo / Jac\u00f3 Segurou o Anjo / Desemborca o Vaso) (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5iBsuuS7BXz67ZCD8pBHwo"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 309173,
-      "name": "Medley - Corinhos de Fogo (Deus Forte Como Jeov\u00e1 / Divisa de Fogo / Vem C\u00e1 Vem Ver / Carros de Fogo / Jac\u00f3 Segurou o Anjo / Desemborca o Vaso) (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3qPTgsDCNya6OHY2jkgfQO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00danico (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5iNU3aaRozD6WDEd9uQ195"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 412747,
       "name": "Brasa Viva - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2UYUMRoznutrBafIZTPIkF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Medley - Corinhos de Fogo (Deus Forte Como Jeov\u00e1 / Divisa de Fogo / Vem C\u00e1 Vem Ver / Carros de Fogo / Jac\u00f3 Segurou o Anjo / Desemborca o Vaso) (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5iBsuuS7BXz67ZCD8pBHwo"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 309173,
+      "name": "Medley - Corinhos de Fogo (Deus Forte Como Jeov\u00e1 / Divisa de Fogo / Vem C\u00e1 Vem Ver / Carros de Fogo / Jac\u00f3 Segurou o Anjo / Desemborca o Vaso) (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3qPTgsDCNya6OHY2jkgfQO"
     },
     {
       "added_at": null,
@@ -359,26 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mais Pura Adora\u00e7\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7nlz5DNyubRn9ZZ2M6vIUg"
-      },
-      "artists": [
-        {
-          "name": "Rachel Malafaia",
-          "url": "https://open.spotify.com/artist/1xyrtLIDTu5kRTCvnHgIcJ"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 514411,
-      "name": "Mais Pura Adora\u00e7\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/0G6Nno30Hp3WT12zka4rcz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nasci Pra Voar",
         "url": "https://open.spotify.com/album/6u8T90oj5FjrcsoljgjmT7"
       },
@@ -399,6 +379,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mais Pura Adora\u00e7\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7nlz5DNyubRn9ZZ2M6vIUg"
+      },
+      "artists": [
+        {
+          "name": "Rachel Malafaia",
+          "url": "https://open.spotify.com/artist/1xyrtLIDTu5kRTCvnHgIcJ"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 514411,
+      "name": "Mais Pura Adora\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/0G6Nno30Hp3WT12zka4rcz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Midian Lima (Ao Vivo)",
         "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
       },
@@ -411,26 +411,6 @@
       "duration_ms": 307803,
       "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
       "url": "https://open.spotify.com/track/3RFBznx059TnrkSvJgAzjq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Posso Clamar + N\u00e3o Pare (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1FOnoSgx0KWPzCFzniMiLH"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 381280,
-      "name": "Posso Clamar + N\u00e3o Pare (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2aduecse2bIIWbGr1mKlAO"
     },
     {
       "added_at": null,
@@ -451,6 +431,26 @@
       "duration_ms": 281983,
       "name": "Sobrevivi - Live MK 10 MI",
       "url": "https://open.spotify.com/track/2AhWt8NoWzWQOlIj1Ko95B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Posso Clamar + N\u00e3o Pare (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1FOnoSgx0KWPzCFzniMiLH"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 381280,
+      "name": "Posso Clamar + N\u00e3o Pare (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2aduecse2bIIWbGr1mKlAO"
     },
     {
       "added_at": null,
@@ -535,6 +535,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nova Jerusal\u00e9m",
+        "url": "https://open.spotify.com/album/3t6uGkt9cdpE6zxzTkwBZB"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 343541,
+      "name": "Nova Jerusal\u00e9m",
+      "url": "https://open.spotify.com/track/7g4IeGjfYIaeTvl5O63HzQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Midian Lima (Ao Vivo)",
         "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
       },
@@ -547,6 +567,22 @@
       "duration_ms": 333067,
       "name": "O Rei Est\u00e1 Voltando (Ao Vivo)",
       "url": "https://open.spotify.com/track/6zB5D61eW6SxQWGXn8jzle"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o Pare",
+        "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 275853,
+      "name": "Grande Dia",
+      "url": "https://open.spotify.com/track/5FdWIIivMbJHD7eAY6FtBB"
     },
     {
       "added_at": null,
@@ -567,22 +603,6 @@
       "duration_ms": 307750,
       "name": "Aguente, Guerreiro",
       "url": "https://open.spotify.com/track/41b11ruecN0x1CSaziBxGB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N\u00e3o Pare",
-        "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 275853,
-      "name": "Grande Dia",
-      "url": "https://open.spotify.com/track/5FdWIIivMbJHD7eAY6FtBB"
     },
     {
       "added_at": null,
@@ -623,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midian Lima (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        },
-        {
-          "name": "Rayssa Barros",
-          "url": "https://open.spotify.com/artist/2xtVXXqM0TxYXIUVN42Hce"
-        }
-      ],
-      "duration_ms": 332416,
-      "name": "T\u00e1 Chorando Por Qu\u00ea? (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4Po0RWVCcrtbjio8ORNM9W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Enquanto a Igreja Ora (Ao Vivo)",
         "url": "https://open.spotify.com/album/6YRM1eHk7l5y80liFJCdOr"
       },
@@ -659,6 +659,26 @@
       "duration_ms": 196200,
       "name": "Enquanto a Igreja Ora (Ao Vivo)",
       "url": "https://open.spotify.com/track/1enVGeqBhDbv80eDqbBAkh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midian Lima (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        },
+        {
+          "name": "Rayssa Barros",
+          "url": "https://open.spotify.com/artist/2xtVXXqM0TxYXIUVN42Hce"
+        }
+      ],
+      "duration_ms": 332416,
+      "name": "T\u00e1 Chorando Por Qu\u00ea? (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4Po0RWVCcrtbjio8ORNM9W"
     },
     {
       "added_at": null,
@@ -691,26 +711,6 @@
       "duration_ms": 286023,
       "name": "Shekinah",
       "url": "https://open.spotify.com/track/7wVqvLKSrL6VJJgMgyTZdL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nova Jerusal\u00e9m",
-        "url": "https://open.spotify.com/album/3t6uGkt9cdpE6zxzTkwBZB"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 343541,
-      "name": "Nova Jerusal\u00e9m",
-      "url": "https://open.spotify.com/track/7g4IeGjfYIaeTvl5O63HzQ"
     },
     {
       "added_at": null,

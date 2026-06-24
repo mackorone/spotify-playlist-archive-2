@@ -6309,6 +6309,24 @@
     },
     {
       "album": {
+        "name": "Queen Of The Night",
+        "url": "https://open.spotify.com/album/6XY0v5RfZdnRoD3XXACsu3"
+      },
+      "artists": [
+        {
+          "name": "LEADFEATHER",
+          "url": "https://open.spotify.com/artist/4g6iW7Vr1fRCZAHJroAmZB"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213500,
+      "name": "Queen Of The Night",
+      "url": "https://open.spotify.com/track/1XjSFctFEJ24ues0iIB4CB"
+    },
+    {
+      "album": {
         "name": "Queen They Love to Hate",
         "url": "https://open.spotify.com/album/0W3b8fMEgK406kSTIz8PvC"
       },

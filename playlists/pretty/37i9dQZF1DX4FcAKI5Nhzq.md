@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 > Future K\-Pop hits! \(Cover: Rothy\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,499 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,485 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 4 | [Dream With Us](https://open.spotify.com/track/4MNxZZl9iyLRvz9n1kHSEg) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Dream With Us](https://open.spotify.com/album/1MKVIZSSI1346mVoBiLAy1) | 2:48 |
 | 5 | [DAISY \(H//PE P ver.\) \(KR ver.\)](https://open.spotify.com/track/5U6Dnu5pH4rpGcrVKNATVd) | [H//PE Princess](https://open.spotify.com/artist/7LCBBRTytlwiWnA2Ugr3s1) | [DAISY / gOOd! \(H//PE P ver.\) \(KR ver.\)](https://open.spotify.com/album/61jh4dy9UOWZ2WuCcUZXNf) | 2:49 |
 | 6 | [HEAVEN](https://open.spotify.com/track/6mfSO0YMhvKFMNiEYIpO8J) | [NOWIMYOUNG](https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G) | [HEAVEN](https://open.spotify.com/album/6RIjP9Egz5LLMMMDZ6e5ju) | 3:29 |
-| 7 | [Slow Dancing](https://open.spotify.com/track/0tYNr9bZBsIS2fv7GrAe2U) | [Jacob \(THE BOYZ\)](https://open.spotify.com/artist/6BVLu5jroLxNtoRp7EdD83) | [j.](https://open.spotify.com/album/1Kiz8kkJ0rlSyeIXqBUCAr) | 3:32 |
+| 7 | [Slow Dancing](https://open.spotify.com/track/0tYNr9bZBsIS2fv7GrAe2U) | [JACOB \(THE BOYZ\)](https://open.spotify.com/artist/6BVLu5jroLxNtoRp7EdD83) | [j.](https://open.spotify.com/album/1Kiz8kkJ0rlSyeIXqBUCAr) | 3:32 |
 | 8 | [My Gravity](https://open.spotify.com/track/57B0qkzXUntlW1LiCAayBL) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e), [Kim Jong Wan of NELL](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [My Gravity](https://open.spotify.com/album/10wM1ZrpvmMAnXxrVfkc1d) | 3:41 |
 | 9 | [Heaven Can Wait](https://open.spotify.com/track/7zOyWqFGjoSjswmWWDukhA) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Heaven Can Wait](https://open.spotify.com/album/1A4EiE5aWH0s25aIAMNOzD) | 3:28 |
 | 10 | [SHADOW](https://open.spotify.com/track/6SrrblihuGeDKOa91OnOFu) | [LEE JAEWOOK](https://open.spotify.com/artist/6x6yUAhXzIgufongB7oL26) | [SHADOW](https://open.spotify.com/album/6muSWdDksJvCmn7S5P4H7t) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 49 | [IDK ME](https://open.spotify.com/track/5uBE6QvvlMRiM0v74T4gEH) | [YOON SAN\-HA](https://open.spotify.com/artist/6zLERXpqnnXhEnhva48jKW) | [NO REASON](https://open.spotify.com/album/4dTfr7yYcXjLZQEhUsYwiM) | 2:56 |
 | 50 | [EVERLOVE](https://open.spotify.com/track/1KWKmkMB8vnB4BvJdVIQuJ) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [Said & Done](https://open.spotify.com/album/1TnfxlOrAmE8d2ThZxYNnm) | 2:34 |
 
-Snapshot ID: `AAAAAMJOjr/6sa3hK6GlU6peHHF4GyuN`
+Snapshot ID: `AAAAAAB8vizI8aga2xy9IfUfWjiYryEn`

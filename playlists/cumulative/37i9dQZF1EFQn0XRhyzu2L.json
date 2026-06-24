@@ -7745,6 +7745,24 @@
     },
     {
       "album": {
+        "name": "MORE & MORE (English Ver.)",
+        "url": "https://open.spotify.com/album/2IW1bjV1WrStplhvKl3Uro"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199653,
+      "name": "MORE & MORE - English Ver.",
+      "url": "https://open.spotify.com/track/0E3LHQbZTPLyw06z6XvmNn"
+    },
+    {
+      "album": {
         "name": "Black Mona Lisa",
         "url": "https://open.spotify.com/album/5TjZrtwHeIxK4KUGZcQe27"
       },

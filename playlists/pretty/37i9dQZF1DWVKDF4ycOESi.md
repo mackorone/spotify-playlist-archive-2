@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Ultimo, ANNA, Fabri Fibra, Madame e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,408 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,412 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 73 | [La lucidità](https://open.spotify.com/track/1UMEmbHtWHmAZNSY6fksRA) | [Valucre](https://open.spotify.com/artist/6Aw7jZkZ38TArxniZ04Sma) | [Spore](https://open.spotify.com/album/5jMdzIFRlhM6M0RMHpAGYt) | 2:36 |
 | 74 | [SIREN](https://open.spotify.com/track/0QmBQ3NnZ18hHcemeeQlsP) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [WHACK'S MUSEUM](https://open.spotify.com/album/46mboRimEXi5KPeUqtkC2i) | 2:18 |
 | 75 | [True Religion](https://open.spotify.com/track/0m7MlUOzzj0DKsiwGkLK2Y) | [Abby 6ix](https://open.spotify.com/artist/19nW3VjtThtO0ek8Ymmg9P) | [True Religion](https://open.spotify.com/album/4FkOhSvyqI5Zslx5DzwkUc) | 2:33 |
-| 76 | [Stamm Chin](https://open.spotify.com/track/4JuXGa27SZ6VuoJmS07XsU) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX) | [Stamm Chin](https://open.spotify.com/album/09MdxbHAUll6rtS3kw6c33) | 2:15 |
+| 76 | [Stamm Chin](https://open.spotify.com/track/4JuXGa27SZ6VuoJmS07XsU) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem) | [Stamm Chin](https://open.spotify.com/album/09MdxbHAUll6rtS3kw6c33) | 2:15 |
 | 77 | [Nostrissimi Momenti](https://open.spotify.com/track/3RD0cMmoA3ZJR4SSUIEt6k) | [Jacopo Èt](https://open.spotify.com/artist/1ubMZaQDpIlttCHLbIBUqy) | [Nostrissimi Momenti](https://open.spotify.com/album/0ZAf34kub3EunezI1fbZLu) | 2:54 |
 | 78 | [Scappi](https://open.spotify.com/track/74QnhKI6fr33OfqS7jQeLH) | [43.Nove](https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW) | [Scappi](https://open.spotify.com/album/5uOtODPniyQ78W5sn6KsIN) | 2:36 |
 | 79 | [Uomini gentili](https://open.spotify.com/track/2XGysxgEOpclU7vt6ey1qX) | [Cigarilla Disonasty](https://open.spotify.com/artist/3rTEGeGVcOA8fyji7HJTQS) | [Uomini gentili](https://open.spotify.com/album/4yq8SOQkuyRUmoKkdnSJLR) | 3:27 |

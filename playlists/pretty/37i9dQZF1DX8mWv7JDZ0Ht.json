@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto:  Rod Melim",
-  "num_followers": 434509,
+  "num_followers": 434503,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,22 @@
     {
       "added_at": "2026-06-19 03:00:13",
       "album": {
+        "name": "Desassossego",
+        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
+      },
+      "artists": [
+        {
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
+        }
+      ],
+      "duration_ms": 176409,
+      "name": "Desassossego",
+      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
+    },
+    {
+      "added_at": "2026-06-19 03:00:13",
+      "album": {
         "name": "escapismo",
         "url": "https://open.spotify.com/album/2e8AFwkw8qVUo9rW4JgBUb"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 189886,
       "name": "FOME",
       "url": "https://open.spotify.com/track/7sezrbvzwMphXpexbdJW6G"
-    },
-    {
-      "added_at": "2026-06-19 03:00:13",
-      "album": {
-        "name": "Desassossego",
-        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
-      },
-      "artists": [
-        {
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
-        }
-      ],
-      "duration_ms": 176409,
-      "name": "Desassossego",
-      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
     },
     {
       "added_at": "2026-06-19 03:00:13",
@@ -587,18 +587,18 @@
     {
       "added_at": "2026-06-19 03:00:13",
       "album": {
-        "name": "N\u00e3o H\u00e1 Nada Mais Honesto Que Um Sonho",
-        "url": "https://open.spotify.com/album/26qyuO801t5LJ8ApwgpB58"
+        "name": "sofrer por voc\u00ea",
+        "url": "https://open.spotify.com/album/3IDz1vflq8mYejE9t8PL2i"
       },
       "artists": [
         {
-          "name": "Jade Baraldo",
-          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
         }
       ],
-      "duration_ms": 211295,
-      "name": "Doente",
-      "url": "https://open.spotify.com/track/2oXtA7nfgRgwZOMt3RCu7L"
+      "duration_ms": 174139,
+      "name": "sofrer por voc\u00ea",
+      "url": "https://open.spotify.com/track/6nN2sEXORqevqEuJI06kFW"
     },
     {
       "added_at": "2026-06-19 03:00:13",
@@ -639,18 +639,18 @@
     {
       "added_at": "2026-06-19 03:00:13",
       "album": {
-        "name": "sofrer por voc\u00ea",
-        "url": "https://open.spotify.com/album/3IDz1vflq8mYejE9t8PL2i"
+        "name": "N\u00e3o H\u00e1 Nada Mais Honesto Que Um Sonho",
+        "url": "https://open.spotify.com/album/26qyuO801t5LJ8ApwgpB58"
       },
       "artists": [
         {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+          "name": "Jade Baraldo",
+          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
         }
       ],
-      "duration_ms": 174139,
-      "name": "sofrer por voc\u00ea",
-      "url": "https://open.spotify.com/track/6nN2sEXORqevqEuJI06kFW"
+      "duration_ms": 211295,
+      "name": "Doente",
+      "url": "https://open.spotify.com/track/2oXtA7nfgRgwZOMt3RCu7L"
     },
     {
       "added_at": "2026-06-19 03:00:13",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-06-19 03:00:13",
       "album": {
-        "name": "coisas triviais",
-        "url": "https://open.spotify.com/album/233AU2aQZNBCBbpmUssYh9"
-      },
-      "artists": [
-        {
-          "name": "Bruno Gadiol",
-          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
-        }
-      ],
-      "duration_ms": 190320,
-      "name": "coisas triviais",
-      "url": "https://open.spotify.com/track/4pAJAuvwTtyeUkGDgX4vqo"
-    },
-    {
-      "added_at": "2026-06-19 03:00:13",
-      "album": {
         "name": "Me Queimei",
         "url": "https://open.spotify.com/album/3JnYQOaIKhSc8a7aVTBKTX"
       },
@@ -831,22 +815,18 @@
     {
       "added_at": "2026-06-19 03:00:13",
       "album": {
-        "name": "BOCA GOSTOSA",
-        "url": "https://open.spotify.com/album/3mG4tBOqLMy1irVaFToYTs"
+        "name": "coisas triviais",
+        "url": "https://open.spotify.com/album/233AU2aQZNBCBbpmUssYh9"
       },
       "artists": [
         {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+          "name": "Bruno Gadiol",
+          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
         }
       ],
-      "duration_ms": 142553,
-      "name": "BOCA GOSTOSA",
-      "url": "https://open.spotify.com/track/38DH9CcyjBmrDK1LgpMCtj"
+      "duration_ms": 190320,
+      "name": "coisas triviais",
+      "url": "https://open.spotify.com/track/4pAJAuvwTtyeUkGDgX4vqo"
     },
     {
       "added_at": "2026-06-19 03:00:13",
@@ -867,6 +847,26 @@
       "duration_ms": 168051,
       "name": "Branca",
       "url": "https://open.spotify.com/track/5VXwwVcGmd1kiG1hC5tan6"
+    },
+    {
+      "added_at": "2026-06-19 03:00:13",
+      "album": {
+        "name": "BOCA GOSTOSA",
+        "url": "https://open.spotify.com/album/3mG4tBOqLMy1irVaFToYTs"
+      },
+      "artists": [
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "duration_ms": 142553,
+      "name": "BOCA GOSTOSA",
+      "url": "https://open.spotify.com/track/38DH9CcyjBmrDK1LgpMCtj"
     },
     {
       "added_at": "2026-06-19 03:00:13",
@@ -923,26 +923,6 @@
     {
       "added_at": "2026-06-19 03:00:13",
       "album": {
-        "name": "SENSA\u00c7\u00c3O BONITA",
-        "url": "https://open.spotify.com/album/0JAXCHt3TMYQcnmFC2TFT8"
-      },
-      "artists": [
-        {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        }
-      ],
-      "duration_ms": 159997,
-      "name": "SENSA\u00c7\u00c3O BONITA",
-      "url": "https://open.spotify.com/track/2EGSyyy3YUBq0R0EbMt7yK"
-    },
-    {
-      "added_at": "2026-06-19 03:00:13",
-      "album": {
         "name": "MARIA, MEDUSA",
         "url": "https://open.spotify.com/album/5IPInMeJ1FgVaNDQmIzuHf"
       },
@@ -963,18 +943,22 @@
     {
       "added_at": "2026-06-19 03:00:13",
       "album": {
-        "name": "colete \u00e0 prova de m\u00e1goas",
-        "url": "https://open.spotify.com/album/0tdjBQv7Dqoprj1Aht7WNR"
+        "name": "SENSA\u00c7\u00c3O BONITA",
+        "url": "https://open.spotify.com/album/0JAXCHt3TMYQcnmFC2TFT8"
       },
       "artists": [
         {
-          "name": "Amanda Coronha",
-          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
         }
       ],
-      "duration_ms": 197389,
-      "name": "colete \u00e0 prova de m\u00e1goas",
-      "url": "https://open.spotify.com/track/5HTiDmpUXDEDzijCWwCuVN"
+      "duration_ms": 159997,
+      "name": "SENSA\u00c7\u00c3O BONITA",
+      "url": "https://open.spotify.com/track/2EGSyyy3YUBq0R0EbMt7yK"
     },
     {
       "added_at": "2026-06-19 03:00:13",
@@ -991,6 +975,46 @@
       "duration_ms": 204000,
       "name": "Saber Confiar",
       "url": "https://open.spotify.com/track/72fZiooQ214zq66ix04xJh"
+    },
+    {
+      "added_at": "2026-06-19 03:00:13",
+      "album": {
+        "name": "Eu s\u00f3 quero um xod\u00f3",
+        "url": "https://open.spotify.com/album/2s6qsazRApew3tJUkjoyps"
+      },
+      "artists": [
+        {
+          "name": "Vers\u00e3o brasileira",
+          "url": "https://open.spotify.com/artist/0W1q0QDaLqfsW43ToxMN2E"
+        },
+        {
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+        },
+        {
+          "name": "Renato Frei",
+          "url": "https://open.spotify.com/artist/0jmEYuZ6H9A3QvNvPdibwV"
+        }
+      ],
+      "duration_ms": 119340,
+      "name": "Eu s\u00f3 quero um xod\u00f3",
+      "url": "https://open.spotify.com/track/6BwXtSsM5we6sX5sVSRlLw"
+    },
+    {
+      "added_at": "2026-06-19 03:00:13",
+      "album": {
+        "name": "colete \u00e0 prova de m\u00e1goas",
+        "url": "https://open.spotify.com/album/0tdjBQv7Dqoprj1Aht7WNR"
+      },
+      "artists": [
+        {
+          "name": "Amanda Coronha",
+          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
+        }
+      ],
+      "duration_ms": 197389,
+      "name": "colete \u00e0 prova de m\u00e1goas",
+      "url": "https://open.spotify.com/track/5HTiDmpUXDEDzijCWwCuVN"
     },
     {
       "added_at": "2026-06-19 03:00:13",
@@ -1027,30 +1051,6 @@
     {
       "added_at": "2026-06-19 03:00:13",
       "album": {
-        "name": "Eu s\u00f3 quero um xod\u00f3",
-        "url": "https://open.spotify.com/album/2s6qsazRApew3tJUkjoyps"
-      },
-      "artists": [
-        {
-          "name": "Vers\u00e3o brasileira",
-          "url": "https://open.spotify.com/artist/0W1q0QDaLqfsW43ToxMN2E"
-        },
-        {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
-        },
-        {
-          "name": "Renato Frei",
-          "url": "https://open.spotify.com/artist/0jmEYuZ6H9A3QvNvPdibwV"
-        }
-      ],
-      "duration_ms": 119340,
-      "name": "Eu s\u00f3 quero um xod\u00f3",
-      "url": "https://open.spotify.com/track/6BwXtSsM5we6sX5sVSRlLw"
-    },
-    {
-      "added_at": "2026-06-19 03:00:13",
-      "album": {
         "name": "Tudo que deu pra fazer em um ano",
         "url": "https://open.spotify.com/album/5ef1VhRr9OuXuEnqErdp5I"
       },
@@ -1067,6 +1067,38 @@
       "duration_ms": 131538,
       "name": "Nada vai ser como antes",
       "url": "https://open.spotify.com/track/6EGAre3TGtj7hlhR8C7A1n"
+    },
+    {
+      "added_at": "2026-06-19 03:00:13",
+      "album": {
+        "name": "paix\u00e3o ou vaidade?",
+        "url": "https://open.spotify.com/album/2Cf2A7ADZeuqHeF96I9GpY"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Tofani",
+          "url": "https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m"
+        }
+      ],
+      "duration_ms": 183374,
+      "name": "paix\u00e3o ou vaidade?",
+      "url": "https://open.spotify.com/track/4jBzNfcYZTbvh5STIoGi4L"
+    },
+    {
+      "added_at": "2026-06-19 03:00:13",
+      "album": {
+        "name": "Ela n\u00e3o \u00e9 uma Incerteza",
+        "url": "https://open.spotify.com/album/3wOmbEVFWLXVBX8zNnm54H"
+      },
+      "artists": [
+        {
+          "name": "Destro",
+          "url": "https://open.spotify.com/artist/0HRtmKxvYpSoNC09m6Expl"
+        }
+      ],
+      "duration_ms": 221848,
+      "name": "Ela n\u00e3o \u00e9 uma Incerteza",
+      "url": "https://open.spotify.com/track/1HGywEiXepNZei6P084tZH"
     },
     {
       "added_at": "2026-06-19 03:00:13",
@@ -1175,22 +1207,6 @@
     {
       "added_at": "2026-06-19 03:00:13",
       "album": {
-        "name": "Ela n\u00e3o \u00e9 uma Incerteza",
-        "url": "https://open.spotify.com/album/3wOmbEVFWLXVBX8zNnm54H"
-      },
-      "artists": [
-        {
-          "name": "Destro",
-          "url": "https://open.spotify.com/artist/0HRtmKxvYpSoNC09m6Expl"
-        }
-      ],
-      "duration_ms": 221848,
-      "name": "Ela n\u00e3o \u00e9 uma Incerteza",
-      "url": "https://open.spotify.com/track/1HGywEiXepNZei6P084tZH"
-    },
-    {
-      "added_at": "2026-06-19 03:00:13",
-      "album": {
         "name": "C\u00e9u Rosa",
         "url": "https://open.spotify.com/album/3MUN2uBzh5zB1REgdFZInK"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 150383,
       "name": "C\u00e9u Rosa",
       "url": "https://open.spotify.com/track/4LnFAmujdsNMroW3qwmTeN"
-    },
-    {
-      "added_at": "2026-06-19 03:00:13",
-      "album": {
-        "name": "paix\u00e3o ou vaidade?",
-        "url": "https://open.spotify.com/album/2Cf2A7ADZeuqHeF96I9GpY"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Tofani",
-          "url": "https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m"
-        }
-      ],
-      "duration_ms": 183374,
-      "name": "paix\u00e3o ou vaidade?",
-      "url": "https://open.spotify.com/track/4jBzNfcYZTbvh5STIoGi4L"
     },
     {
       "added_at": "2026-06-19 03:00:13",

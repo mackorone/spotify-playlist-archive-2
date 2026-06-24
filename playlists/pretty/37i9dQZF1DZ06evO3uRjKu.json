@@ -1,12 +1,12 @@
 {
   "description": "This is Vilma Palma e Vampiros. The essential tracks, all in one playlist.",
-  "num_followers": 76223,
+  "num_followers": 76222,
   "original_name": "This Is Vilma Palma e Vampiros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajcpgAAAAAD4B54STEid2eZ+dJI/eTPH",
+  "snapshot_id": "ajh7AAAAAACR5NkCe/Didj2hik8gaN8S",
   "tracks": [
     {
       "added_at": null,
@@ -415,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Mejor de Vilma Palma",
-        "url": "https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi"
+        "name": "Vivo Grandes Exitos en Buenos Aires (En Vivo)",
+        "url": "https://open.spotify.com/album/6NZd767CliBYH3Fys8wyxY"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 286800,
-      "name": "Soy un loco",
-      "url": "https://open.spotify.com/track/5UmXB0hPoKr9JJOp5MttAx"
+      "duration_ms": 251013,
+      "name": "Todo Por un Sue\u00f1o - En Vivo",
+      "url": "https://open.spotify.com/track/3pKEj0ARdyp1xVrafOr4Pn"
     },
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vivo Grandes Exitos en Buenos Aires (En Vivo)",
-        "url": "https://open.spotify.com/album/6NZd767CliBYH3Fys8wyxY"
+        "name": "Lo Mejor de Vilma Palma",
+        "url": "https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 251013,
-      "name": "Todo Por un Sue\u00f1o - En Vivo",
-      "url": "https://open.spotify.com/track/3pKEj0ARdyp1xVrafOr4Pn"
+      "duration_ms": 286800,
+      "name": "Soy un loco",
+      "url": "https://open.spotify.com/track/5UmXB0hPoKr9JJOp5MttAx"
     },
     {
       "added_at": null,
@@ -699,18 +699,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Pachanga",
-        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
+        "name": "Bailalo",
+        "url": "https://open.spotify.com/album/6xgu82r1BESKZptFU9E0cv"
       },
       "artists": [
+        {
+          "name": "Agus Cassano",
+          "url": "https://open.spotify.com/artist/5Jmui4kpdCfcyz8KFSpHRY"
+        },
         {
           "name": "Vilma Palma e Vampiros",
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 202801,
-      "name": "La Caca del Bandido",
-      "url": "https://open.spotify.com/track/7BgrrQesQnHXefzJsM9jKg"
+      "duration_ms": 159590,
+      "name": "Bailalo",
+      "url": "https://open.spotify.com/track/79gJbOIC4eUBfvWPiUPQcz"
     },
     {
       "added_at": null,
@@ -747,22 +751,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bailalo",
-        "url": "https://open.spotify.com/album/6xgu82r1BESKZptFU9E0cv"
+        "name": "La Pachanga",
+        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
       },
       "artists": [
-        {
-          "name": "Agus Cassano",
-          "url": "https://open.spotify.com/artist/5Jmui4kpdCfcyz8KFSpHRY"
-        },
         {
           "name": "Vilma Palma e Vampiros",
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 159590,
-      "name": "Bailalo",
-      "url": "https://open.spotify.com/track/79gJbOIC4eUBfvWPiUPQcz"
+      "duration_ms": 202801,
+      "name": "La Caca del Bandido",
+      "url": "https://open.spotify.com/track/7BgrrQesQnHXefzJsM9jKg"
     },
     {
       "added_at": null,

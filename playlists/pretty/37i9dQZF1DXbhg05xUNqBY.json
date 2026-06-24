@@ -559,6 +559,22 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
+        "name": "Harp Worship: Volume 1",
+        "url": "https://open.spotify.com/album/06mtH83NDvDfuSQvGOZKhM"
+      },
+      "artists": [
+        {
+          "name": "Megan Tibbits",
+          "url": "https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ"
+        }
+      ],
+      "duration_ms": 318965,
+      "name": "Gratitude",
+      "url": "https://open.spotify.com/track/3FvpX0zfooH9UbIhwvLNnk"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
         "name": "Walking Each Other Home",
         "url": "https://open.spotify.com/album/66MK44Etnba6obuePImbiy"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 186374,
       "name": "Walking Each Other Home",
       "url": "https://open.spotify.com/track/0bKRWcR62BCpaUxKqumMdh"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
-        "name": "Harp Worship: Volume 1",
-        "url": "https://open.spotify.com/album/06mtH83NDvDfuSQvGOZKhM"
-      },
-      "artists": [
-        {
-          "name": "Megan Tibbits",
-          "url": "https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ"
-        }
-      ],
-      "duration_ms": 318965,
-      "name": "Gratitude",
-      "url": "https://open.spotify.com/track/3FvpX0zfooH9UbIhwvLNnk"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -687,26 +687,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Yesterday, Today, & Tomorrow",
-        "url": "https://open.spotify.com/album/7sWR7CaR6enqGNpvjYBzbP"
-      },
-      "artists": [
-        {
-          "name": "Aodh\u00e1n King",
-          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
-        },
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 202333,
-      "name": "Yesterday, Today, & Tomorrow",
-      "url": "https://open.spotify.com/track/1LJsJnjyc4TvEhNNzfS5Vb"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "Praise",
         "url": "https://open.spotify.com/album/5jQqrndG6bMYnzNoeb6hZs"
       },
@@ -723,18 +703,22 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "taking my time",
-        "url": "https://open.spotify.com/album/7pO51aCa2ipEwMlCSxyIAl"
+        "name": "Yesterday, Today, & Tomorrow",
+        "url": "https://open.spotify.com/album/7sWR7CaR6enqGNpvjYBzbP"
       },
       "artists": [
         {
-          "name": "Cade Biers",
-          "url": "https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj"
+          "name": "Aodh\u00e1n King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
+        },
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
         }
       ],
-      "duration_ms": 244109,
-      "name": "taking my time",
-      "url": "https://open.spotify.com/track/72e5glwqOjwtCoqQqnHzlu"
+      "duration_ms": 202333,
+      "name": "Yesterday, Today, & Tomorrow",
+      "url": "https://open.spotify.com/track/1LJsJnjyc4TvEhNNzfS5Vb"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -759,6 +743,22 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
+        "name": "taking my time",
+        "url": "https://open.spotify.com/album/7pO51aCa2ipEwMlCSxyIAl"
+      },
+      "artists": [
+        {
+          "name": "Cade Biers",
+          "url": "https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj"
+        }
+      ],
+      "duration_ms": 244109,
+      "name": "taking my time",
+      "url": "https://open.spotify.com/track/72e5glwqOjwtCoqQqnHzlu"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
         "name": "If it wasn't for Jesus",
         "url": "https://open.spotify.com/album/1ZL9ejiRgiehK2F65ywwQ4"
       },
@@ -771,6 +771,22 @@
       "duration_ms": 229800,
       "name": "If it wasn't for Jesus",
       "url": "https://open.spotify.com/track/7FVckXqUw0kkUU00TxCvV4"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "Here's to the Almosts",
+        "url": "https://open.spotify.com/album/1whhv4WYV1FBw9jjelTIKV"
+      },
+      "artists": [
+        {
+          "name": "Rachel Morley",
+          "url": "https://open.spotify.com/artist/79vNtKxpQNwJMHhbxkYaMk"
+        }
+      ],
+      "duration_ms": 239600,
+      "name": "Here's to the Almosts",
+      "url": "https://open.spotify.com/track/1sdqtL34eheja6evtbVSQk"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -795,22 +811,6 @@
       "duration_ms": 240000,
       "name": "O Faithful One",
       "url": "https://open.spotify.com/track/2QZD1KPPOyiL3e13CeLr99"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
-        "name": "Here's to the Almosts",
-        "url": "https://open.spotify.com/album/1whhv4WYV1FBw9jjelTIKV"
-      },
-      "artists": [
-        {
-          "name": "Rachel Morley",
-          "url": "https://open.spotify.com/artist/79vNtKxpQNwJMHhbxkYaMk"
-        }
-      ],
-      "duration_ms": 239600,
-      "name": "Here's to the Almosts",
-      "url": "https://open.spotify.com/track/1sdqtL34eheja6evtbVSQk"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Day The Lord Has Made",
-        "url": "https://open.spotify.com/album/2TIPRkjEJij0dleJPPOFta"
-      },
-      "artists": [
-        {
-          "name": "Jess Ray",
-          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
-        }
-      ],
-      "duration_ms": 304800,
-      "name": "Day The Lord Has Made",
-      "url": "https://open.spotify.com/track/1CTTmuPgsgi6e0ZgOEPhel"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/6d8x2X8GleIBbRvAU2zVDL"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 369782,
       "name": "Easy",
       "url": "https://open.spotify.com/track/6wLGR76rJ1HqWUJshvWbtM"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "Day The Lord Has Made",
+        "url": "https://open.spotify.com/album/2TIPRkjEJij0dleJPPOFta"
+      },
+      "artists": [
+        {
+          "name": "Jess Ray",
+          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
+        }
+      ],
+      "duration_ms": 304800,
+      "name": "Day The Lord Has Made",
+      "url": "https://open.spotify.com/track/1CTTmuPgsgi6e0ZgOEPhel"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
+        "name": "All Blessing",
+        "url": "https://open.spotify.com/album/0gmV0YaQmCDasG9wmMgqpG"
+      },
+      "artists": [
+        {
+          "name": "Anna Childs",
+          "url": "https://open.spotify.com/artist/3uLkyG01b7EWl1e1RM3Jck"
+        }
+      ],
+      "duration_ms": 256190,
+      "name": "All Blessing",
+      "url": "https://open.spotify.com/track/77akNBdUgVyOW1ECLt94BX"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
         "name": "Belovedness (Lullaby)",
         "url": "https://open.spotify.com/album/50oTpxuB6Vb5OmdE5BzKx9"
       },
@@ -1187,6 +1203,22 @@
       "duration_ms": 232800,
       "name": "Belovedness - Lullaby",
       "url": "https://open.spotify.com/track/4otbUxvuD7PdY5gK3tZkSg"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "This is How I Thank The Lord (Acoustic)",
+        "url": "https://open.spotify.com/album/477g5LoFRhCg7EpfbQIlxZ"
+      },
+      "artists": [
+        {
+          "name": "Will Morrison",
+          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
+        }
+      ],
+      "duration_ms": 178548,
+      "name": "This Is How I Thank The Lord - Acoustic",
+      "url": "https://open.spotify.com/track/0Kqcdnl7PM85xSNF2NHFKH"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1207,22 +1239,6 @@
       "duration_ms": 155067,
       "name": "Goodnight, May God Bless You",
       "url": "https://open.spotify.com/track/1O8hBLPze5cKFvsncfd43B"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
-        "name": "This is How I Thank The Lord (Acoustic)",
-        "url": "https://open.spotify.com/album/477g5LoFRhCg7EpfbQIlxZ"
-      },
-      "artists": [
-        {
-          "name": "Will Morrison",
-          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
-        }
-      ],
-      "duration_ms": 178548,
-      "name": "This Is How I Thank The Lord - Acoustic",
-      "url": "https://open.spotify.com/track/0Kqcdnl7PM85xSNF2NHFKH"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1255,22 +1271,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "All Blessing",
-        "url": "https://open.spotify.com/album/0gmV0YaQmCDasG9wmMgqpG"
-      },
-      "artists": [
-        {
-          "name": "Anna Childs",
-          "url": "https://open.spotify.com/artist/3uLkyG01b7EWl1e1RM3Jck"
-        }
-      ],
-      "duration_ms": 256190,
-      "name": "All Blessing",
-      "url": "https://open.spotify.com/track/77akNBdUgVyOW1ECLt94BX"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "Simple Phrase",
         "url": "https://open.spotify.com/album/0tyYbwhOr8mZibgMvYEOq0"
       },
@@ -1283,22 +1283,6 @@
       "duration_ms": 208291,
       "name": "Simple Phrase",
       "url": "https://open.spotify.com/track/40qhVgofNyNm86szSXNQBi"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
-        "name": "Orange Streetlights (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3nD2x0NB49c0XY5EXC3tWW"
-      },
-      "artists": [
-        {
-          "name": "Tyler Corbin",
-          "url": "https://open.spotify.com/artist/0Gk9udEVydWQ94pRvk7sKV"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Orange Streetlights - Acoustic Version",
-      "url": "https://open.spotify.com/track/7ARJORinm3hArKdebAj4AT"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1319,6 +1303,22 @@
       "duration_ms": 216400,
       "name": "Precious Gold",
       "url": "https://open.spotify.com/track/3PlBhFVssO6n9qfEBnQDT9"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "Orange Streetlights (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3nD2x0NB49c0XY5EXC3tWW"
+      },
+      "artists": [
+        {
+          "name": "Tyler Corbin",
+          "url": "https://open.spotify.com/artist/0Gk9udEVydWQ94pRvk7sKV"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Orange Streetlights - Acoustic Version",
+      "url": "https://open.spotify.com/track/7ARJORinm3hArKdebAj4AT"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
+        "name": "BROKEN BUT I RISE",
+        "url": "https://open.spotify.com/album/0nYNua9sCXMBEiVX8wvtri"
+      },
+      "artists": [
+        {
+          "name": "New Path Worship",
+          "url": "https://open.spotify.com/artist/4yCUY08zixGRrIgIpre2Hx"
+        }
+      ],
+      "duration_ms": 199719,
+      "name": "BROKEN BUT I RISE",
+      "url": "https://open.spotify.com/track/2eEB9M9XOw4T41uc2Q8WYm"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
         "name": "OMG",
         "url": "https://open.spotify.com/album/66y97RsgjPCEUB7AlsZaiT"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 143947,
       "name": "OMG",
       "url": "https://open.spotify.com/track/3MJScW03etExqb2Slzbdhq"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
-        "name": "BROKEN BUT I RISE",
-        "url": "https://open.spotify.com/album/0nYNua9sCXMBEiVX8wvtri"
-      },
-      "artists": [
-        {
-          "name": "New Path Worship",
-          "url": "https://open.spotify.com/artist/4yCUY08zixGRrIgIpre2Hx"
-        }
-      ],
-      "duration_ms": 199719,
-      "name": "BROKEN BUT I RISE",
-      "url": "https://open.spotify.com/track/2eEB9M9XOw4T41uc2Q8WYm"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
+        "name": "Ain't It Beautiful",
+        "url": "https://open.spotify.com/album/50CCqxmOoeKYAtzdQg8Tyq"
+      },
+      "artists": [
+        {
+          "name": "Ivan Theva",
+          "url": "https://open.spotify.com/artist/5DXiy58vu9lP6cW5eKDeBg"
+        }
+      ],
+      "duration_ms": 214823,
+      "name": "Ain't It Beautiful",
+      "url": "https://open.spotify.com/track/4DiubSXjsdfsjoKSFFIQOQ"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
         "name": "Let Me Love You More",
         "url": "https://open.spotify.com/album/4QmhnesRttsnImCdC1tWe3"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 307866,
       "name": "Let Me Love You More",
       "url": "https://open.spotify.com/track/53nmVlRqzZTSNbdIpPurKs"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
-        "name": "Ain't It Beautiful",
-        "url": "https://open.spotify.com/album/50CCqxmOoeKYAtzdQg8Tyq"
-      },
-      "artists": [
-        {
-          "name": "Ivan Theva",
-          "url": "https://open.spotify.com/artist/5DXiy58vu9lP6cW5eKDeBg"
-        }
-      ],
-      "duration_ms": 214823,
-      "name": "Ain't It Beautiful",
-      "url": "https://open.spotify.com/track/4DiubSXjsdfsjoKSFFIQOQ"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "interlude",
-        "url": "https://open.spotify.com/album/0K6FztVsZTLKNFpMWSKhGP"
-      },
-      "artists": [
-        {
-          "name": "Matt Crocker",
-          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
-        }
-      ],
-      "duration_ms": 322813,
-      "name": "it all belongs to You",
-      "url": "https://open.spotify.com/track/0pU4KIzOKxwIsy00R9zkrI"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "You & Me",
         "url": "https://open.spotify.com/album/3OGu7hRk9AmV0GvBDXIJZA"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 198774,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/2SKn74eH7TukmmWCIRrrPp"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "interlude",
+        "url": "https://open.spotify.com/album/0K6FztVsZTLKNFpMWSKhGP"
+      },
+      "artists": [
+        {
+          "name": "Matt Crocker",
+          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
+        }
+      ],
+      "duration_ms": 322813,
+      "name": "it all belongs to You",
+      "url": "https://open.spotify.com/track/0pU4KIzOKxwIsy00R9zkrI"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "El Roi",
-        "url": "https://open.spotify.com/album/6m0G3Yny9o3iNgv1xwdgtj"
-      },
-      "artists": [
-        {
-          "name": "Heather Suzanne",
-          "url": "https://open.spotify.com/artist/0KGGZqBsiH7iJ5DdGLV8KO"
-        }
-      ],
-      "duration_ms": 179573,
-      "name": "El Roi",
-      "url": "https://open.spotify.com/track/3dBKAPLPzLQqEbIpkD4ekL"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "Beautiful",
         "url": "https://open.spotify.com/album/30fP7ylLbRJJVKIkVIBgqo"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 207999,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/7wQaAiowCmh3TaTMwv2i46"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "El Roi",
+        "url": "https://open.spotify.com/album/6m0G3Yny9o3iNgv1xwdgtj"
+      },
+      "artists": [
+        {
+          "name": "Heather Suzanne",
+          "url": "https://open.spotify.com/artist/0KGGZqBsiH7iJ5DdGLV8KO"
+        }
+      ],
+      "duration_ms": 179573,
+      "name": "El Roi",
+      "url": "https://open.spotify.com/track/3dBKAPLPzLQqEbIpkD4ekL"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -2195,6 +2195,22 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
+        "name": "Safest",
+        "url": "https://open.spotify.com/album/6OOQlxMpNc5TIVM0IQ92CP"
+      },
+      "artists": [
+        {
+          "name": "Hope Harding",
+          "url": "https://open.spotify.com/artist/3fYSZUjRkhyFiTP12kJtcb"
+        }
+      ],
+      "duration_ms": 226957,
+      "name": "Safest",
+      "url": "https://open.spotify.com/track/0sbwGU7GgdyU8ffKV2q1Ad"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
         "name": "444",
         "url": "https://open.spotify.com/album/4J1fNs6tW4c8pAulsasoAK"
       },
@@ -2211,22 +2227,6 @@
       "duration_ms": 176672,
       "name": "444",
       "url": "https://open.spotify.com/track/13guW1X33I82iJyez9u2OS"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
-        "name": "Safest",
-        "url": "https://open.spotify.com/album/6OOQlxMpNc5TIVM0IQ92CP"
-      },
-      "artists": [
-        {
-          "name": "Hope Harding",
-          "url": "https://open.spotify.com/artist/3fYSZUjRkhyFiTP12kJtcb"
-        }
-      ],
-      "duration_ms": 226957,
-      "name": "Safest",
-      "url": "https://open.spotify.com/track/0sbwGU7GgdyU8ffKV2q1Ad"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/5755DgGFCgS6f2Pzt89WbJ"
-      },
-      "artists": [
-        {
-          "name": "Esua",
-          "url": "https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2"
-        }
-      ],
-      "duration_ms": 351840,
-      "name": "More Fire",
-      "url": "https://open.spotify.com/track/0x4I55F4BJK2zS695SWtZn"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "All My Love",
         "url": "https://open.spotify.com/album/1RZZDgzZS5YuNydRqvV8jg"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 161500,
       "name": "All My Love",
       "url": "https://open.spotify.com/track/16V6PZgE0c35dOdiWXvWuA"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/5755DgGFCgS6f2Pzt89WbJ"
+      },
+      "artists": [
+        {
+          "name": "Esua",
+          "url": "https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2"
+        }
+      ],
+      "duration_ms": 351840,
+      "name": "More Fire",
+      "url": "https://open.spotify.com/track/0x4I55F4BJK2zS695SWtZn"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -2347,22 +2347,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "I Choose To Love You",
-        "url": "https://open.spotify.com/album/4C97zmMaKdNck3UTXCp5Qs"
-      },
-      "artists": [
-        {
-          "name": "Rivers Crossing Worship",
-          "url": "https://open.spotify.com/artist/7xuM274nFelfNPgItlKbUs"
-        }
-      ],
-      "duration_ms": 344723,
-      "name": "I Choose To Love You",
-      "url": "https://open.spotify.com/track/4knNeg5weV8C94KyOTepV5"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "I Look To The Hills (I Love You Lord)",
         "url": "https://open.spotify.com/album/1rfYcJez8IuocKuOc5nPWk"
       },
@@ -2375,6 +2359,22 @@
       "duration_ms": 266968,
       "name": "I Look To The Hills (I Love You Lord)",
       "url": "https://open.spotify.com/track/75gzk1oz80UeqkpXbEzq6V"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "I Choose To Love You",
+        "url": "https://open.spotify.com/album/4C97zmMaKdNck3UTXCp5Qs"
+      },
+      "artists": [
+        {
+          "name": "Rivers Crossing Worship",
+          "url": "https://open.spotify.com/artist/7xuM274nFelfNPgItlKbUs"
+        }
+      ],
+      "duration_ms": 344723,
+      "name": "I Choose To Love You",
+      "url": "https://open.spotify.com/track/4knNeg5weV8C94KyOTepV5"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -2607,22 +2607,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Where You Found Me",
-        "url": "https://open.spotify.com/album/5Ek7IXlnZTsHTHmC8kTxt7"
-      },
-      "artists": [
-        {
-          "name": "Seth Carpenter",
-          "url": "https://open.spotify.com/artist/2jveyjr93fq4ZFgIjG4vFt"
-        }
-      ],
-      "duration_ms": 320580,
-      "name": "Seen What I Have Seen",
-      "url": "https://open.spotify.com/track/0ICgAlYUYUr0snPhO4LwfK"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "The Way of Love",
         "url": "https://open.spotify.com/album/27B6xYGSZ31DjV0XXqeerp"
       },
@@ -2635,6 +2619,22 @@
       "duration_ms": 231293,
       "name": "The Way of Love",
       "url": "https://open.spotify.com/track/7dPy7qLhDbkwqsStowDcFq"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "Where You Found Me",
+        "url": "https://open.spotify.com/album/5Ek7IXlnZTsHTHmC8kTxt7"
+      },
+      "artists": [
+        {
+          "name": "Seth Carpenter",
+          "url": "https://open.spotify.com/artist/2jveyjr93fq4ZFgIjG4vFt"
+        }
+      ],
+      "duration_ms": 320580,
+      "name": "Seen What I Have Seen",
+      "url": "https://open.spotify.com/track/0ICgAlYUYUr0snPhO4LwfK"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -2659,22 +2659,22 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "The Pressing In: Piano Sessions",
-        "url": "https://open.spotify.com/album/3qwA60ZIxRxpd7RZ3xNSD3"
+        "name": "Closer to Heaven",
+        "url": "https://open.spotify.com/album/3t6aAyFnQDL57BHpCOKKbN"
       },
       "artists": [
         {
-          "name": "Eliza King",
-          "url": "https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa"
+          "name": "Gelka",
+          "url": "https://open.spotify.com/artist/6xIXch03AK6grENT8RlmeF"
         },
         {
-          "name": "Brett Shaw",
-          "url": "https://open.spotify.com/artist/0cPXxP2NntqpqKvXqRjbfP"
+          "name": "Salt Of The Sound",
+          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
         }
       ],
-      "duration_ms": 289500,
-      "name": "Poor In Spirit - Live",
-      "url": "https://open.spotify.com/track/1r481zZyjH3m3bDvHu9jCH"
+      "duration_ms": 196515,
+      "name": "Closer to Heaven",
+      "url": "https://open.spotify.com/track/7ygoUlBTpmN7TAnHT4g90U"
     }
   ],
   "unique_name": "Be Still",

@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. 🌪️
 
-1,232 songs - 2 day 13 hr 38 min
+1,233 songs - 2 day 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -907,7 +907,7 @@
 | [Scared Of Loving You](https://open.spotify.com/track/0rgSJ9SC0Q7HxH5vAL8Vct) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Scared Of Loving You](https://open.spotify.com/album/0pgXfNRJ9fVqCBFIFVgxXt) | 1:50 | 2025-02-14 | 2025-03-07 |
 | [Scissors](https://open.spotify.com/track/3JNgfzJac40BSzCc3H0e1i) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Scissors](https://open.spotify.com/album/4xcHcXY1WvL6MaSpEsBICL) | 2:25 | 2025-01-09 | 2025-01-31 |
 | [Se ei mennyt niin](https://open.spotify.com/track/1oEOPyKoBkdn5QYHWIOBJW) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Vesala](https://open.spotify.com/artist/5fyBhURKALJ81CC9X4DvZP) | [Aris](https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd) | 2:50 | 2026-01-23 | 2026-05-29 |
-| [Se ei ollu minä](https://open.spotify.com/track/6pcFppgbBG2eXOGdRn46kH) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Se ei ollu minä](https://open.spotify.com/album/6lGv5jZ04AmTbHdkv6rEjQ) | 2:10 | 2026-03-26 |  |
+| [Se ei ollu minä](https://open.spotify.com/track/6pcFppgbBG2eXOGdRn46kH) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Se ei ollu minä](https://open.spotify.com/album/6lGv5jZ04AmTbHdkv6rEjQ) | 2:10 | 2026-03-26 | 2026-06-24 |
 | [Se Mitä Sä Oot](https://open.spotify.com/track/4NvEbMve0zfhiOcGWQS4hA) | [Reino Nordin](https://open.spotify.com/artist/5cvT1YrzMiVuHMg22UKIk5) | [Se Mitä Sä Oot](https://open.spotify.com/album/5zR3zSZCAKtKh3xILB7Kwo) | 3:34 | 2024-12-12 | 2025-01-10 |
 | [Se Nainen](https://open.spotify.com/track/1KGRYDGIkt2DOwjXdPicxF) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP), [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Se Nainen](https://open.spotify.com/album/1hdUbyu29r7EJEG5M9WIFr) | 2:50 | 2025-01-23 | 2025-01-31 |
 | [Secrets \(feat\. Lindsey Buckingham & Mick Fleetwood\)](https://open.spotify.com/track/37u2vfn3zgAz98uTZM7KeZ) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO), [Mick Fleetwood](https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu) | [Something Beautiful \(Deluxe\)](https://open.spotify.com/album/3jyvGlsdgbUkdZnbpbZCCb) | 3:49 | 2025-09-18 | 2025-10-10 |
@@ -1074,6 +1074,7 @@
 | [Toimitusjohtaja](https://open.spotify.com/track/5mUaH8EQjvlM9ibEX0uqfF) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP) | [Toimitusjohtaja](https://open.spotify.com/album/1zuIxudtXoSrHZYQPg6skR) | 2:45 | 2026-01-09 | 2026-05-29 |
 | [Toisessa elämässä](https://open.spotify.com/track/7jLUZ7Hah28SRrs3NDugpD) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Toisessa elämässä](https://open.spotify.com/album/18WuSJbT1qsfVHcfBcLHlV) | 3:29 | 2025-04-10 | 2025-05-23 |
 | [Toista sua](https://open.spotify.com/track/0tQZ5PHjvaTprcgfdbOgKk) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Toista sua](https://open.spotify.com/album/39isGUjAreup0WQjnI3Syd) | 2:49 | 2024-10-10 | 2025-01-31 |
+| [Toivon et se olisit sä](https://open.spotify.com/track/07MLh6bAdCtDr5IzSejES5) | [aitojulia](https://open.spotify.com/artist/5y5CYG7Qt66h5rNyfuPCaF) | [Toivon et se olisit sä](https://open.spotify.com/album/0IJt19qld2lforDczKV6TN) | 2:31 | 2026-06-18 |  |
 | [Toivon et sä löydät jonkun](https://open.spotify.com/track/0UTkhHNzrafXfnM0O2O6bN) | [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T) | [Toivon et sä löydät jonkun](https://open.spotify.com/album/0lolYxbegIsFencl2tWHQE) | 2:54 | 2025-09-18 | 2025-11-14 |
 | [Told You So](https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Told You So](https://open.spotify.com/album/3peq5CPlvCF11LKMDN4k8H) | 3:07 | 2024-11-21 | 2025-03-06 |
 | [Tommi \(seksipommi\)](https://open.spotify.com/track/6NayXQIy7SzSyEO9drruZD) | [Benjamin](https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef) | [Tommi \(seksipommi\)](https://open.spotify.com/album/5I6OiKKrslEEJiEewYBN9G) | 2:24 | 2025-03-06 | 2025-05-16 |

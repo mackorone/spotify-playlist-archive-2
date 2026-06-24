@@ -1,6 +1,6 @@
 {
   "description": "no drill e na bola \u00e9 \ud83c\udde7\ud83c\uddf7 , tlgd",
-  "num_followers": 1443921,
+  "num_followers": 1443784,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -855,6 +855,30 @@
     {
       "added_at": "2026-06-17 15:55:30",
       "album": {
+        "name": "F\u00f3rmula Perfeita",
+        "url": "https://open.spotify.com/album/6rr6YbZiL0L5i7C1TfkUgR"
+      },
+      "artists": [
+        {
+          "name": "Tapsounds",
+          "url": "https://open.spotify.com/artist/2IOI9UdynLXCcb4whAiJsO"
+        },
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        },
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        }
+      ],
+      "duration_ms": 215433,
+      "name": "F\u00f3rmula Perfeita",
+      "url": "https://open.spotify.com/track/0bdIp6sr80CK63171GHoeD"
+    },
+    {
+      "added_at": "2026-06-17 15:55:30",
+      "album": {
         "name": "THE BOX MEDLEY FUNK 11",
         "url": "https://open.spotify.com/album/3YDJHfJBZEH0Cxj5eOqx11"
       },
@@ -895,30 +919,6 @@
       "duration_ms": 297692,
       "name": "THE BOX MEDLEY FUNK 11",
       "url": "https://open.spotify.com/track/0oulB5Nhs4Ur3zgvC6WqWz"
-    },
-    {
-      "added_at": "2026-06-17 15:55:30",
-      "album": {
-        "name": "F\u00f3rmula Perfeita",
-        "url": "https://open.spotify.com/album/6rr6YbZiL0L5i7C1TfkUgR"
-      },
-      "artists": [
-        {
-          "name": "Tapsounds",
-          "url": "https://open.spotify.com/artist/2IOI9UdynLXCcb4whAiJsO"
-        },
-        {
-          "name": "Sotam",
-          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
-        },
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
-        }
-      ],
-      "duration_ms": 215433,
-      "name": "F\u00f3rmula Perfeita",
-      "url": "https://open.spotify.com/track/0bdIp6sr80CK63171GHoeD"
     },
     {
       "added_at": "2026-06-17 15:55:30",

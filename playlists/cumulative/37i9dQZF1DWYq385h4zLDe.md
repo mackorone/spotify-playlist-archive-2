@@ -2,7 +2,7 @@
 
 ### [Moana Official Playlist ](https://open.spotify.com/playlist/37i9dQZF1DWYq385h4zLDe)
 
-> It’s a call from the ancestors\. Listen to new music from Moana 2, now streaming on Disney+.
+> It’s a call from the ancestors\. Listen to all of your favorite music from the world of Moana\. Disney's Live\-Action Moana, in theaters soon.
 
 85 songs - 3 hr 8 min
 

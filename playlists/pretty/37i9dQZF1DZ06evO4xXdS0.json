@@ -1,12 +1,12 @@
 {
   "description": "This is Nina Simone. The essential tracks, all in one playlist.",
-  "num_followers": 509003,
+  "num_followers": 509022,
   "original_name": "This Is Nina Simone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajcpgAAAAABgXlyLEkzoKYkJGbN0Ubhn",
+  "snapshot_id": "ajh7AAAAAADV0+CB7OybY72nvcQ14a8V",
   "tracks": [
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Girl Blue (2013 - Remaster)",
-        "url": "https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 228104,
-      "name": "Plain Gold Ring (2013 - Remaster)",
-      "url": "https://open.spotify.com/track/476RII5Mde9Ih5xqYLSqtS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "High Priestess Of Soul",
         "url": "https://open.spotify.com/album/1M2ktinB3DcTbrVXD45jxn"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 183666,
       "name": "Work Song",
       "url": "https://open.spotify.com/track/628A54HsxBPfgJPShyD7gx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Little Girl Blue (2013 - Remaster)",
+        "url": "https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 228104,
+      "name": "Plain Gold Ring (2013 - Remaster)",
+      "url": "https://open.spotify.com/track/476RII5Mde9Ih5xqYLSqtS"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Girl Blue (2013 - Remaster)",
-        "url": "https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 149330,
-      "name": "He Needs Me (2013 - Remaster)",
-      "url": "https://open.spotify.com/track/7dfKrqvN9GDE6pzsrdI9uN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let It All Out",
         "url": "https://open.spotify.com/album/4bGiPtwVEKcXbXs7oKCMqD"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 146626,
       "name": "Mood Indigo",
       "url": "https://open.spotify.com/track/1BaAzMva4yf7cWeOGwp7H4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Little Girl Blue (2013 - Remaster)",
+        "url": "https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 149330,
+      "name": "He Needs Me (2013 - Remaster)",
+      "url": "https://open.spotify.com/track/7dfKrqvN9GDE6pzsrdI9uN"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever Young, Gifted And Black: Songs Of Freedom And Spirit",
-        "url": "https://open.spotify.com/album/5TPmcbl6aphADiUpEJFHm0"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 169840,
-      "name": "To Be Young, Gifted and Black - 2005 Remix",
-      "url": "https://open.spotify.com/track/67RKpDruBXMJgAmhJAivXr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pastel Blues",
         "url": "https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 187973,
       "name": "Tell Me More And More And Then Some",
       "url": "https://open.spotify.com/track/1BvVRBs78RsBbZE59i6zjH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forever Young, Gifted And Black: Songs Of Freedom And Spirit",
+        "url": "https://open.spotify.com/album/5TPmcbl6aphADiUpEJFHm0"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 169840,
+      "name": "To Be Young, Gifted and Black - 2005 Remix",
+      "url": "https://open.spotify.com/track/67RKpDruBXMJgAmhJAivXr"
     }
   ],
   "unique_name": "This Is Nina Simone",

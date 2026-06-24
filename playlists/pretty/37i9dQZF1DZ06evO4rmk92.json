@@ -1,12 +1,12 @@
 {
   "description": "This is Nat King Cole. The essential tracks, all in one playlist.",
-  "num_followers": 126139,
+  "num_followers": 126145,
   "original_name": "This Is Nat King Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajcpgAAAAACvbb47GHE1eyIgBqk2TyWZ",
+  "snapshot_id": "ajh7AAAAAACCCBLfNX39bxhWNbrsaC9b",
   "tracks": [
     {
       "added_at": null,
@@ -59,6 +59,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ballads Of The Day",
+        "url": "https://open.spotify.com/album/0DkutYCEt5FOn5o064NxN2"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 179093,
+      "name": "Smile - Mono / 1954 Version / Remastered 1992",
+      "url": "https://open.spotify.com/track/0WNsDyndBS63qBMxbZ9OHR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nat King Cole Sings George Shearing Plays",
         "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 165973,
       "name": "Let There Be Love",
       "url": "https://open.spotify.com/track/7AL1pxI9IwHoXs98G0T8cC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ballads Of The Day",
-        "url": "https://open.spotify.com/album/0DkutYCEt5FOn5o064NxN2"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 179093,
-      "name": "Smile - Mono / 1954 Version / Remastered 1992",
-      "url": "https://open.spotify.com/track/0WNsDyndBS63qBMxbZ9OHR"
     },
     {
       "added_at": null,
@@ -791,34 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lester Young Trio",
-        "url": "https://open.spotify.com/album/0bf8S6VdlrkX39DYxFC0DF"
-      },
-      "artists": [
-        {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        },
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        },
-        {
-          "name": "Buddy Rich",
-          "url": "https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs"
-        },
-        {
-          "name": "Billy Strayhorn",
-          "url": "https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW"
-        }
-      ],
-      "duration_ms": 234733,
-      "name": "Back To The Land",
-      "url": "https://open.spotify.com/track/0iSLetXM5KlC7xA10L6QKg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/4BtCNXyLlIHevbEnbVJBXC"
       },
@@ -847,6 +819,34 @@
       "duration_ms": 286173,
       "name": "A Nightingale Sang In Berkeley Square",
       "url": "https://open.spotify.com/track/0XboALCVOmAxzi5JEZHytz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lester Young Trio",
+        "url": "https://open.spotify.com/album/0bf8S6VdlrkX39DYxFC0DF"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        },
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        },
+        {
+          "name": "Buddy Rich",
+          "url": "https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs"
+        },
+        {
+          "name": "Billy Strayhorn",
+          "url": "https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW"
+        }
+      ],
+      "duration_ms": 234733,
+      "name": "Back To The Land",
+      "url": "https://open.spotify.com/track/0iSLetXM5KlC7xA10L6QKg"
     }
   ],
   "unique_name": "This Is Nat King Cole",

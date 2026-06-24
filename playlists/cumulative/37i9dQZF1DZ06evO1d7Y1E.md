@@ -4,7 +4,7 @@
 
 > This is Mc Poze do Rodo\. The essential tracks, all in one playlist.
 
-101 songs - 7 hr 20 min
+102 songs - 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Vida Louca](https://open.spotify.com/track/7IG7laqVpcvIIULrwWP5SA) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Vida Louca](https://open.spotify.com/album/3qaeGIuXmO4lNgGgerapPc) | 2:35 | 2023-09-18 |  |
 | [Vida Louca \- Remix](https://open.spotify.com/track/48ni2OjDvFMl71tNU0Rc95) | [Malik Mustache](https://open.spotify.com/artist/5FcXaC6DLXy2s4HFGqERWU), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [Vida Louca \(Remix\)](https://open.spotify.com/album/7suNFGCjsqqm31d6azA8I5) | 3:00 | 2023-09-18 | 2024-03-01 |
 | [Vuco Vuco](https://open.spotify.com/track/7vKoBamwQb6VLQeDAbWeaz) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [XEQUE MATE](https://open.spotify.com/album/0NQNB45NzbgxvGddfjFZud) | 2:24 | 2026-04-16 | 2026-06-18 |
-| [Última Forma](https://open.spotify.com/track/0Pp2EtilQI5Ezbz6qEtunF) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [DJ GORDINHO DA VF](https://open.spotify.com/artist/2isWi9fP3idxCaGPPEelEQ), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Raflow](https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0) | [XEQUE MATE](https://open.spotify.com/album/0NQNB45NzbgxvGddfjFZud) | 5:24 | 2026-04-17 |  |
+| [Última Forma](https://open.spotify.com/track/0Pp2EtilQI5Ezbz6qEtunF) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [DJ GORDINHO DA VF](https://open.spotify.com/artist/2isWi9fP3idxCaGPPEelEQ), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Raflow](https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0) | [XEQUE MATE](https://open.spotify.com/album/0NQNB45NzbgxvGddfjFZud) | 5:24 | 2026-04-17 | 2026-06-24 |
+| [Última Forma](https://open.spotify.com/track/1EIPpD1XZb1TCDr1jmxEoj) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [DJ GORDINHO DA VF](https://open.spotify.com/artist/2isWi9fP3idxCaGPPEelEQ), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Raflow](https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0) | [XEQUE MATE](https://open.spotify.com/album/1YNqyFODkZFmei0q1a2Yps) | 5:24 | 2026-06-24 |  |
 
 \*This playlist was first scraped on 2023-09-19. Prior content cannot be recovered.

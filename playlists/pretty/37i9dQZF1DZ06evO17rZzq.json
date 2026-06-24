@@ -1,12 +1,12 @@
 {
   "description": "This is Kaliii. The essential tracks, all in one playlist.",
-  "num_followers": 5195,
+  "num_followers": 5198,
   "original_name": "This Is Kaliii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajcpgAAAAADLACbAuWZAWtn9vbY++CCh",
+  "snapshot_id": "ajh7AAAAAACj/WkvR8Z81q+jGUUB6kz1",
   "tracks": [
     {
       "added_at": null,
@@ -859,18 +859,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toxic Chocolate",
-        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
+        "name": "Bad Little Thing (feat. Kaliii)",
+        "url": "https://open.spotify.com/album/636r6Fd2dfuot0iCcK4KfJ"
       },
       "artists": [
+        {
+          "name": "Noa Kirel",
+          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+        },
         {
           "name": "Kaliii",
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 154453,
-      "name": "New Day",
-      "url": "https://open.spotify.com/track/4w5dESJ47Q36FBlN6ga9Aa"
+      "duration_ms": 143020,
+      "name": "Bad Little Thing (feat. Kaliii)",
+      "url": "https://open.spotify.com/track/6RyWnQyBhjcfBsZyRTo9it"
     },
     {
       "added_at": null,
@@ -911,22 +915,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Little Thing (feat. Kaliii)",
-        "url": "https://open.spotify.com/album/636r6Fd2dfuot0iCcK4KfJ"
+        "name": "Toxic Chocolate",
+        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
       },
       "artists": [
-        {
-          "name": "Noa Kirel",
-          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
-        },
         {
           "name": "Kaliii",
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 143020,
-      "name": "Bad Little Thing (feat. Kaliii)",
-      "url": "https://open.spotify.com/track/6RyWnQyBhjcfBsZyRTo9it"
+      "duration_ms": 154453,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/4w5dESJ47Q36FBlN6ga9Aa"
     },
     {
       "added_at": null,

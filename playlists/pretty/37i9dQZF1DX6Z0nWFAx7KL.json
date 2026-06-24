@@ -1,6 +1,6 @@
 {
   "description": "easy breezy music \u2600\ufe0f\u263a\ufe0f",
-  "num_followers": 168324,
+  "num_followers": 168319,
   "original_name": "Chill Dance",
   "owner": {
     "name": "Spotify",
@@ -755,22 +755,18 @@
     {
       "added_at": "2026-06-08 07:23:44",
       "album": {
-        "name": "Rest Of My Life",
-        "url": "https://open.spotify.com/album/4LD7R2xePKw9LGjjIe8Urq"
+        "name": "Locked In Paradise",
+        "url": "https://open.spotify.com/album/3ruNkQX7OX7lXxhkiFiGzd"
       },
       "artists": [
         {
-          "name": "Dela Utca",
-          "url": "https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X"
-        },
-        {
-          "name": "SEM",
-          "url": "https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD"
+          "name": "KNJA",
+          "url": "https://open.spotify.com/artist/74hLdAwpDYOY02e9vw71f6"
         }
       ],
-      "duration_ms": 154500,
-      "name": "Rest Of My Life",
-      "url": "https://open.spotify.com/track/4dq1p7vkO0hSUpcdfspqrK"
+      "duration_ms": 153442,
+      "name": "Locked In Paradise",
+      "url": "https://open.spotify.com/track/6z6Wyf1By6TZEXs5aBiU9U"
     },
     {
       "added_at": "2026-06-08 07:23:44",
@@ -799,18 +795,38 @@
     {
       "added_at": "2026-06-08 07:23:44",
       "album": {
-        "name": "Locked In Paradise",
-        "url": "https://open.spotify.com/album/3ruNkQX7OX7lXxhkiFiGzd"
+        "name": "Rest Of My Life",
+        "url": "https://open.spotify.com/album/4LD7R2xePKw9LGjjIe8Urq"
       },
       "artists": [
         {
-          "name": "KNJA",
-          "url": "https://open.spotify.com/artist/74hLdAwpDYOY02e9vw71f6"
+          "name": "Dela Utca",
+          "url": "https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X"
+        },
+        {
+          "name": "SEM",
+          "url": "https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD"
         }
       ],
-      "duration_ms": 153442,
-      "name": "Locked In Paradise",
-      "url": "https://open.spotify.com/track/6z6Wyf1By6TZEXs5aBiU9U"
+      "duration_ms": 154500,
+      "name": "Rest Of My Life",
+      "url": "https://open.spotify.com/track/4dq1p7vkO0hSUpcdfspqrK"
+    },
+    {
+      "added_at": "2026-06-08 07:23:44",
+      "album": {
+        "name": "Radiant EP",
+        "url": "https://open.spotify.com/album/43ZuCqtg7zu8dhpvZTJVf2"
+      },
+      "artists": [
+        {
+          "name": "Marc Brauner",
+          "url": "https://open.spotify.com/artist/6HX3fbKCin6OPe6ZFZ8qsf"
+        }
+      ],
+      "duration_ms": 289000,
+      "name": "It's Alright - Original Mix",
+      "url": "https://open.spotify.com/track/3ABPEz0ASeocrzXOHZix5D"
     },
     {
       "added_at": "2026-06-08 07:23:44",
@@ -839,22 +855,6 @@
       "duration_ms": 172398,
       "name": "All In One",
       "url": "https://open.spotify.com/track/20vOpfuWTquWZzqHX5kMYP"
-    },
-    {
-      "added_at": "2026-06-08 07:23:44",
-      "album": {
-        "name": "Radiant EP",
-        "url": "https://open.spotify.com/album/43ZuCqtg7zu8dhpvZTJVf2"
-      },
-      "artists": [
-        {
-          "name": "Marc Brauner",
-          "url": "https://open.spotify.com/artist/6HX3fbKCin6OPe6ZFZ8qsf"
-        }
-      ],
-      "duration_ms": 289000,
-      "name": "It's Alright - Original Mix",
-      "url": "https://open.spotify.com/track/3ABPEz0ASeocrzXOHZix5D"
     },
     {
       "added_at": "2026-06-08 07:23:44",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2026-06-08 07:23:44",
       "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/2i2wQgG2tAUkQ8HbIko185"
-      },
-      "artists": [
-        {
-          "name": "LO",
-          "url": "https://open.spotify.com/artist/6bdx22A1shpd9U6YAd8Vto"
-        },
-        {
-          "name": "Fia De Luca",
-          "url": "https://open.spotify.com/artist/4L9Leu8vWuIkbUWKuJ0Mbq"
-        }
-      ],
-      "duration_ms": 174500,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/2rESC4IbBLXDgY5kUj4qga"
-    },
-    {
-      "added_at": "2026-06-08 07:23:44",
-      "album": {
         "name": "Electric",
         "url": "https://open.spotify.com/album/2UNpZByJYcRTCNRSeUqst0"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 133565,
       "name": "Electric",
       "url": "https://open.spotify.com/track/51FFmeDLNlJUkueFkjtzxY"
+    },
+    {
+      "added_at": "2026-06-08 07:23:44",
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/2i2wQgG2tAUkQ8HbIko185"
+      },
+      "artists": [
+        {
+          "name": "LO",
+          "url": "https://open.spotify.com/artist/6bdx22A1shpd9U6YAd8Vto"
+        },
+        {
+          "name": "Fia De Luca",
+          "url": "https://open.spotify.com/artist/4L9Leu8vWuIkbUWKuJ0Mbq"
+        }
+      ],
+      "duration_ms": 174500,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/2rESC4IbBLXDgY5kUj4qga"
     },
     {
       "added_at": "2026-06-08 07:23:44",
@@ -1115,6 +1115,26 @@
     {
       "added_at": "2026-06-08 07:23:44",
       "album": {
+        "name": "Beats & Pieces II",
+        "url": "https://open.spotify.com/album/0yQHW3TPiuNdfWvkumo4ac"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        },
+        {
+          "name": "Fejk\u00e1",
+          "url": "https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9"
+        }
+      ],
+      "duration_ms": 278217,
+      "name": "Iajo",
+      "url": "https://open.spotify.com/track/70QunfArMKaFnMKTzv2C9x"
+    },
+    {
+      "added_at": "2026-06-08 07:23:44",
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/59T2jCjBGnIFlizQggbrSd"
       },
@@ -1135,26 +1155,6 @@
       "duration_ms": 152000,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/1KO6Kk23aYLrkmaDIjA4jf"
-    },
-    {
-      "added_at": "2026-06-08 07:23:44",
-      "album": {
-        "name": "Beats & Pieces II",
-        "url": "https://open.spotify.com/album/0yQHW3TPiuNdfWvkumo4ac"
-      },
-      "artists": [
-        {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        },
-        {
-          "name": "Fejk\u00e1",
-          "url": "https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9"
-        }
-      ],
-      "duration_ms": 278217,
-      "name": "Iajo",
-      "url": "https://open.spotify.com/track/70QunfArMKaFnMKTzv2C9x"
     },
     {
       "added_at": "2026-06-08 07:23:44",

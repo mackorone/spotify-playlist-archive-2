@@ -2,28 +2,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 
 ### [GLOW US & Canada](https://open.spotify.com/playlist/37i9dQZF1DWVfhphOFdiHz)
 
-> Loud, proud, and free to be\. Bops on repeat from LGBTQIA+ artists only\. Cover: Kevin Atwater
+> Loud, proud, and free to be\. Bops on repeat from LGBTQIA+ artists only\. Cover: Jamie Fine
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,521 likes - 53 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,543 likes - 53 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [up in flames](https://open.spotify.com/track/3b0rwuNBl2V9ziCvdRGi1j) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [up in flames](https://open.spotify.com/album/1KWt6kmeRFqWKdIejOuUFr) | 2:33 |
-| 2 | [tiptoeing](https://open.spotify.com/track/6QpxpFbtZUWapawqVDufDX) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [tiptoeing](https://open.spotify.com/album/4Mkhq0sACoEJoema2n6Zys) | 2:34 |
-| 3 | [Hurt Like Home](https://open.spotify.com/track/7MIegYUVaJAT6DwZ0pZfLD) | [Sara Hartman](https://open.spotify.com/artist/1Vx5fzRUd7A1j40B8E3Yqo) | [Hurt Like Home](https://open.spotify.com/album/4rrDizvv6BRc6DWXJKsWu9) | 4:09 |
-| 4 | [Gather Energy](https://open.spotify.com/track/4qRbMBzEPh20XYObZ1BvCs) | [Melt](https://open.spotify.com/artist/0G7KI9I5BApiXc5Sqpyil9) | [If There's A Heaven \(Deluxe\)](https://open.spotify.com/album/2GsQTea9foS60EesnwtV3h) | 3:43 |
-| 5 | [Free](https://open.spotify.com/track/3oOhSGUZSmV6XsANXjaEDj) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Free](https://open.spotify.com/album/6HGItoMgIv712ocI5drxDN) | 3:08 |
-| 6 | [Love Nouveau](https://open.spotify.com/track/067wtLWixKlUPS1N2zTEje) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Physical Fanpage / Love Nouveau](https://open.spotify.com/album/0otUVXyCjh1uOVVrbmwhlo) | 3:17 |
-| 7 | [Internet Friends](https://open.spotify.com/track/4zjGCNOQyRQINNKQyacBWm) | [The Virgo Queen](https://open.spotify.com/artist/7xUlGu35ihHhZtrzfBkEsv) | [Internet Friends](https://open.spotify.com/album/1NfBadyJgnrNo6z84UGhpr) | 3:04 |
-| 8 | [Everything All The Time](https://open.spotify.com/track/1UxuD4EpJSGRJI38yJWO8M) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Everything All The Time](https://open.spotify.com/album/4ILjIyaLf3qk7H2bibpVeT) | 3:59 |
-| 9 | [Speakerphone](https://open.spotify.com/track/4IfS1NOpuyygRwoPzjbRyT) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Speakerphone](https://open.spotify.com/album/0hdrI88v9WhReATAnqZ3ay) | 2:41 |
-| 10 | [die 4 u](https://open.spotify.com/track/6m23hIW0TYTnSdHJOHoZnl) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [girls like girls the album](https://open.spotify.com/album/0fFS1pRGFLPXjfHLgugpNi) | 3:52 |
-| 11 | [Y'aller Y'aller](https://open.spotify.com/track/6bOo2XBr7KCFEQ0HQLNkRC) | [rossomodo](https://open.spotify.com/artist/58dXS4o0oh7On8TYVAYOjD) | [Y'aller Y'aller](https://open.spotify.com/album/6sLqkBg6O65z2VaEqyuVos) | 2:32 |
-| 12 | [STAY IN UR LANE](https://open.spotify.com/track/3aDJwwV4q3GOmD5TZZOR6C) | [deBasement](https://open.spotify.com/artist/76Hqz0xVLDA9UwwqKR1JVl) | [STAY IN UR LANE](https://open.spotify.com/album/5re6ZtMHjwzaEhguA08fmN) | 2:38 |
-| 13 | [Love Yourself \(1999 Electronic Demo\)](https://open.spotify.com/track/4BfN3MQuqu00F1K3HQY6Y0) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Love Yourself / With My Whole Heart](https://open.spotify.com/album/73IMTdj6ERTJdITZNNBIpE) | 4:06 |
-| 14 | [Memories](https://open.spotify.com/track/40cL7PsLdnhihvSeEk4reN) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Memories](https://open.spotify.com/album/6dExRXtJGGvGlykHXCNRHy) | 3:41 |
-| 15 | [DOG SAY?](https://open.spotify.com/track/0xTqIJji8CjGwkqDtJm0BX) | [BRONZE AVERY](https://open.spotify.com/artist/30XwDI0SEYBda3gBtutSZW) | [DOG SAY?](https://open.spotify.com/album/2e0snPCSyAUfwRyx8DLyPu) | 2:18 |
-| 16 | [everything led me to you](https://open.spotify.com/track/2JsZUBhPh5oXA8Rrm0sGFf) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [everything led me to you](https://open.spotify.com/album/6xpw9qxkrOCogmiwQxk2yD) | 2:34 |
+| 1 | [everything led me to you](https://open.spotify.com/track/2JsZUBhPh5oXA8Rrm0sGFf) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [everything led me to you](https://open.spotify.com/album/6xpw9qxkrOCogmiwQxk2yD) | 2:34 |
+| 2 | [up in flames](https://open.spotify.com/track/3b0rwuNBl2V9ziCvdRGi1j) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [up in flames](https://open.spotify.com/album/1KWt6kmeRFqWKdIejOuUFr) | 2:33 |
+| 3 | [tiptoeing](https://open.spotify.com/track/6QpxpFbtZUWapawqVDufDX) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [tiptoeing](https://open.spotify.com/album/4Mkhq0sACoEJoema2n6Zys) | 2:34 |
+| 4 | [Hurt Like Home](https://open.spotify.com/track/7MIegYUVaJAT6DwZ0pZfLD) | [Sara Hartman](https://open.spotify.com/artist/1Vx5fzRUd7A1j40B8E3Yqo) | [Hurt Like Home](https://open.spotify.com/album/4rrDizvv6BRc6DWXJKsWu9) | 4:09 |
+| 5 | [Gather Energy](https://open.spotify.com/track/4qRbMBzEPh20XYObZ1BvCs) | [Melt](https://open.spotify.com/artist/0G7KI9I5BApiXc5Sqpyil9) | [If There's A Heaven \(Deluxe\)](https://open.spotify.com/album/2GsQTea9foS60EesnwtV3h) | 3:43 |
+| 6 | [Free](https://open.spotify.com/track/3oOhSGUZSmV6XsANXjaEDj) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Free](https://open.spotify.com/album/6HGItoMgIv712ocI5drxDN) | 3:08 |
+| 7 | [Love Nouveau](https://open.spotify.com/track/067wtLWixKlUPS1N2zTEje) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Physical Fanpage / Love Nouveau](https://open.spotify.com/album/0otUVXyCjh1uOVVrbmwhlo) | 3:17 |
+| 8 | [Internet Friends](https://open.spotify.com/track/4zjGCNOQyRQINNKQyacBWm) | [The Virgo Queen](https://open.spotify.com/artist/7xUlGu35ihHhZtrzfBkEsv) | [Internet Friends](https://open.spotify.com/album/1NfBadyJgnrNo6z84UGhpr) | 3:04 |
+| 9 | [Everything All The Time](https://open.spotify.com/track/1UxuD4EpJSGRJI38yJWO8M) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Everything All The Time](https://open.spotify.com/album/4ILjIyaLf3qk7H2bibpVeT) | 3:59 |
+| 10 | [Speakerphone](https://open.spotify.com/track/4IfS1NOpuyygRwoPzjbRyT) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Speakerphone](https://open.spotify.com/album/0hdrI88v9WhReATAnqZ3ay) | 2:41 |
+| 11 | [die 4 u](https://open.spotify.com/track/6m23hIW0TYTnSdHJOHoZnl) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [girls like girls the album](https://open.spotify.com/album/0fFS1pRGFLPXjfHLgugpNi) | 3:52 |
+| 12 | [Y'aller Y'aller](https://open.spotify.com/track/6bOo2XBr7KCFEQ0HQLNkRC) | [rossomodo](https://open.spotify.com/artist/58dXS4o0oh7On8TYVAYOjD) | [Y'aller Y'aller](https://open.spotify.com/album/6sLqkBg6O65z2VaEqyuVos) | 2:32 |
+| 13 | [STAY IN UR LANE](https://open.spotify.com/track/3aDJwwV4q3GOmD5TZZOR6C) | [deBasement](https://open.spotify.com/artist/76Hqz0xVLDA9UwwqKR1JVl) | [STAY IN UR LANE](https://open.spotify.com/album/5re6ZtMHjwzaEhguA08fmN) | 2:38 |
+| 14 | [Love Yourself \(1999 Electronic Demo\)](https://open.spotify.com/track/4BfN3MQuqu00F1K3HQY6Y0) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Love Yourself / With My Whole Heart](https://open.spotify.com/album/73IMTdj6ERTJdITZNNBIpE) | 4:06 |
+| 15 | [Memories](https://open.spotify.com/track/40cL7PsLdnhihvSeEk4reN) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Memories](https://open.spotify.com/album/6dExRXtJGGvGlykHXCNRHy) | 3:41 |
+| 16 | [DOG SAY?](https://open.spotify.com/track/0xTqIJji8CjGwkqDtJm0BX) | [BRONZE AVERY](https://open.spotify.com/artist/30XwDI0SEYBda3gBtutSZW) | [DOG SAY?](https://open.spotify.com/album/2e0snPCSyAUfwRyx8DLyPu) | 2:18 |
 | 17 | [The Signs](https://open.spotify.com/track/4wykfXguZElBylSFbkAEWe) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Kwncy](https://open.spotify.com/artist/2aT09ZalHh3kwFg0ig4vj9) | [The Signs](https://open.spotify.com/album/2zrHUZ2wZnKx6zIM2FdHlR) | 2:50 |
 | 18 | [HARDCORE](https://open.spotify.com/track/3rh0NcysTtnld6q95INEK3) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [HARDCORE](https://open.spotify.com/album/7qAeQkuHuaSUhOEdAH1IpK) | 2:49 |
 | 19 | [Go Down](https://open.spotify.com/track/1CCM47jkk3lJiwbpgpjP6M) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Go Down](https://open.spotify.com/album/2wd1faA0AzscGfuCJ7vkUq) | 2:26 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 | 52 | [Backseat](https://open.spotify.com/track/6joa4w2yIUVroOguntE5s4) | [Julia Campbell](https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud) | [Sick of Staying](https://open.spotify.com/album/65a1oTXKKKPfOCyy2V7jFU) | 3:26 |
 | 53 | [DUMB](https://open.spotify.com/track/30iQqVmUyPxyDPTby3KjwM) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [DUMB](https://open.spotify.com/album/68SonfKPODsOntzXjCZOvn) | 2:20 |
 
-Snapshot ID: `AAAAANaOqa7qh1EJnG1AFFacpVnSKdU3`
+Snapshot ID: `AAAAAApWlZlQgVPTnUhnhyIRv50HBWPF`

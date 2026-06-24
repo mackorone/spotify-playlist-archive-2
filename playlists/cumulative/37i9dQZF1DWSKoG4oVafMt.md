@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Sukha & Tanu Grewal
 
-1,179 songs - 2 day 15 hr 34 min
+1,180 songs - 2 day 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Dil Diyan Baatan](https://open.spotify.com/track/7w7w36WlNUGOY1cdtksqRT) | [Siddharth Slathia](https://open.spotify.com/artist/3DYqdRwHGB8fjVO0JqAgN7), [Aanchal Sethi](https://open.spotify.com/artist/5UDXYKkOni0Dz2gAa3y34B) | [Dil Diyan Baatan](https://open.spotify.com/album/0rPsn2AW2FfdOFjL3tnFCR) | 3:56 | 2022-07-08 | 2022-07-12 |
 | [Dil Diyan Gallan](https://open.spotify.com/track/76wpnLYf4uwrpJA4W9VwqT) | [Jugraj Sandhu](https://open.spotify.com/artist/60Lqd5e2bHRWKuCaHgzPvI), [Gauri Virdi](https://open.spotify.com/artist/6vhqXm02dV8QJVCfdHVE7Q) | [Dil Diyan Gallan](https://open.spotify.com/album/4fEQsSIpxj0yMT6msWS7Be) | 3:19 | 2022-02-04 | 2022-02-12 |
 | [Dil Diyan Gallan](https://open.spotify.com/track/60yO1jLf6MyQbFQwuCjX0l) | [Karox](https://open.spotify.com/artist/3Iknd9BKrBQOKm0UxZ3Scq) | [Dil Diyan Gallan](https://open.spotify.com/album/6eBmn5zszG9L3ibwn75rl9) | 3:25 | 2022-04-22 | 2022-05-11 |
+| [Dil Diyan Gallan \(From "Carry On Jatta 4"\)](https://open.spotify.com/track/7C0Ta9M4lE9UerPZFEUG5q) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Happy Raikoti](https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr) | [Dil Diyan Gallan \(From "Carry On Jatta 4"\)](https://open.spotify.com/album/5y5O5Dn7P25VHNsqBgt5r4) | 3:25 | 2026-06-23 |  |
 | [Dil Gaunda Firda](https://open.spotify.com/track/2H6jkOUuU50vQ6mTqxP3yG) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV), [Beat Minister](https://open.spotify.com/artist/5qQVMvDtASDmERUI9LlbgH) | [Dil Gaunda Firda](https://open.spotify.com/album/3ILEvzNb0DIcqGqbbqr09A) | 4:18 | 2022-04-12 | 2022-05-11 |
 | [Dil Lagiyan](https://open.spotify.com/track/0QTmfANVAuSFANBxdqth6p) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Naveezy](https://open.spotify.com/album/197b84cjuJyHeDzGwzjXVn) | 4:09 | 2023-08-22 |  |
 | [Dil Lagiyan](https://open.spotify.com/track/2NnJof731uy6KZg2Ls6DZv) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Naveezy](https://open.spotify.com/album/5s97Jucf39sW9uP10l77nT) | 4:09 | 2023-09-21 | 2024-04-19 |
@@ -992,7 +993,7 @@
 | [Sunne Sunne](https://open.spotify.com/track/746fRWJEgWvvRdhB7ympjw) | [G Noor](https://open.spotify.com/artist/3oCuewGts8hB4pGDkG5Lo8) | [Sunne Sunne](https://open.spotify.com/album/5B5NSoy499WpmUEWQHtXZw) | 3:04 | 2022-05-26 | 2022-07-06 |
 | [Sunset](https://open.spotify.com/track/708ATCPhF2aagzUo8A9Dgo) | [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Sunset](https://open.spotify.com/album/2CHwDNJ5Kbv05I385dVFKG) | 3:08 | 2022-03-31 | 2022-04-06 |
 | [Sunset With You](https://open.spotify.com/track/1BwP2jVdo1DjkH84rxRVhi) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Opi Music](https://open.spotify.com/artist/4z2hcMAL6JpUDOesb2ls5b) | [Archives](https://open.spotify.com/album/6KmQIkfNTKlHizxBbXCxBq) | 2:51 | 2022-12-09 | 2023-05-06 |
-| [Sunshine](https://open.spotify.com/track/0C8gXIhQKwjF60aEZQPj5a) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj) | [Sunshine](https://open.spotify.com/album/6IqPQtgOCo1WOlWLVGGPNB) | 3:43 | 2025-01-28 |  |
+| [Sunshine](https://open.spotify.com/track/0C8gXIhQKwjF60aEZQPj5a) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj) | [Sunshine](https://open.spotify.com/album/6IqPQtgOCo1WOlWLVGGPNB) | 3:43 | 2025-01-28 | 2026-06-24 |
 | [Sunshine](https://open.spotify.com/track/2d9WYBbws5n0RdWjAfxeYF) | [SARRB](https://open.spotify.com/artist/2LKbmSS1wx5pW7YfRkIgg6), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Sunshine](https://open.spotify.com/album/0V8Sv9wmfvqnSIB3QreqW5) | 3:05 | 2024-12-04 | 2025-01-09 |
 | [Supna](https://open.spotify.com/track/3A4wABRH41xD3dCBykZpLI) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Layers](https://open.spotify.com/album/68Sj9ZsFdcpg4W5paJAlvK) | 3:30 | 2023-02-03 | 2024-04-19 |
 | [Supna](https://open.spotify.com/track/7ox1IleIMKORc2xZ1DcQnQ) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Jaymeet](https://open.spotify.com/artist/1DU68vYYJqrO7fXt6X7ZkJ), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw) | [Layers](https://open.spotify.com/album/2OetgEbORLw9T6yNAnzs3B) | 3:30 | 2023-02-03 | 2024-10-01 |

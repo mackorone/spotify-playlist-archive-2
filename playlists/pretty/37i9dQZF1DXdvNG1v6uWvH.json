@@ -1,6 +1,6 @@
 {
   "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist Of Tyla, J\u00f9ni\u00f9s Meyvant og m\u00f6rgum fleiri!",
-  "num_followers": 9663,
+  "num_followers": 9664,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,22 @@
     {
       "added_at": "2026-06-19 00:00:16",
       "album": {
+        "name": "Dis-le",
+        "url": "https://open.spotify.com/album/27cdPx9msMd1V64HzU4DyF"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        }
+      ],
+      "duration_ms": 247458,
+      "name": "Dis-le",
+      "url": "https://open.spotify.com/track/58H3IsZi2NemGRCttisETY"
+    },
+    {
+      "added_at": "2026-06-19 00:00:16",
+      "album": {
         "name": "On Our Way Along",
         "url": "https://open.spotify.com/album/0M4O0DjFr8N3vNtdJviwya"
       },
@@ -395,22 +411,6 @@
     {
       "added_at": "2026-06-19 00:00:16",
       "album": {
-        "name": "Dis-le",
-        "url": "https://open.spotify.com/album/27cdPx9msMd1V64HzU4DyF"
-      },
-      "artists": [
-        {
-          "name": "Ang\u00e8le",
-          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
-        }
-      ],
-      "duration_ms": 247458,
-      "name": "Dis-le",
-      "url": "https://open.spotify.com/track/58H3IsZi2NemGRCttisETY"
-    },
-    {
-      "added_at": "2026-06-19 00:00:16",
-      "album": {
         "name": "Invisible",
         "url": "https://open.spotify.com/album/0y63Qrt20QcFwxq3M7B7SK"
       },
@@ -427,6 +427,26 @@
       "duration_ms": 196622,
       "name": "Invisible",
       "url": "https://open.spotify.com/track/2dt5AmiiAA7dOhE1xws9qY"
+    },
+    {
+      "added_at": "2026-06-19 00:00:16",
+      "album": {
+        "name": "CATHARSIS",
+        "url": "https://open.spotify.com/album/5q3jPN4pN99nvgzvHuNwie"
+      },
+      "artists": [
+        {
+          "name": "KUKO",
+          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
+        },
+        {
+          "name": "Tokio Hotel",
+          "url": "https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa"
+        }
+      ],
+      "duration_ms": 226064,
+      "name": "CATHARSIS",
+      "url": "https://open.spotify.com/track/0fW4McH0CZO94g0L8sJCE2"
     },
     {
       "added_at": "2026-06-19 00:00:16",
@@ -511,26 +531,6 @@
     {
       "added_at": "2026-06-19 00:00:16",
       "album": {
-        "name": "CATHARSIS",
-        "url": "https://open.spotify.com/album/5q3jPN4pN99nvgzvHuNwie"
-      },
-      "artists": [
-        {
-          "name": "KUKO",
-          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
-        },
-        {
-          "name": "Tokio Hotel",
-          "url": "https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa"
-        }
-      ],
-      "duration_ms": 226064,
-      "name": "CATHARSIS",
-      "url": "https://open.spotify.com/track/0fW4McH0CZO94g0L8sJCE2"
-    },
-    {
-      "added_at": "2026-06-19 00:00:16",
-      "album": {
         "name": "Resurrection",
         "url": "https://open.spotify.com/album/0YwFC9K2Xqgz9DsLOuZuMn"
       },
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-06-19 00:00:16",
       "album": {
-        "name": "Thinking What I'm Thinking",
-        "url": "https://open.spotify.com/album/23JijXiP8GcIuy44YnFMd3"
-      },
-      "artists": [
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 282200,
-      "name": "Thinking What I'm Thinking",
-      "url": "https://open.spotify.com/track/7ewkuUrCmy3FllHosZAwtN"
-    },
-    {
-      "added_at": "2026-06-19 00:00:16",
-      "album": {
         "name": "Boogie's in My Soul",
         "url": "https://open.spotify.com/album/58mYTAij5IQXuuDo3ojhTQ"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 222213,
       "name": "Boogie's in My Soul",
       "url": "https://open.spotify.com/track/3auasA1oQjH9hXr5Ux72Sk"
+    },
+    {
+      "added_at": "2026-06-19 00:00:16",
+      "album": {
+        "name": "Thinking What I'm Thinking",
+        "url": "https://open.spotify.com/album/23JijXiP8GcIuy44YnFMd3"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 282200,
+      "name": "Thinking What I'm Thinking",
+      "url": "https://open.spotify.com/track/7ewkuUrCmy3FllHosZAwtN"
     },
     {
       "added_at": "2026-06-19 00:00:16",
@@ -863,26 +863,6 @@
     {
       "added_at": "2026-06-19 00:00:16",
       "album": {
-        "name": "Attenuation EP",
-        "url": "https://open.spotify.com/album/0Ha3XGv6XE8c0aODehJHuW"
-      },
-      "artists": [
-        {
-          "name": "Main Phase",
-          "url": "https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3"
-        },
-        {
-          "name": "Talons",
-          "url": "https://open.spotify.com/artist/0qiRTNQwfvA91BL30UBRu1"
-        }
-      ],
-      "duration_ms": 278260,
-      "name": "Artificial",
-      "url": "https://open.spotify.com/track/2DG2EhND9DmbXOsOJjOo5F"
-    },
-    {
-      "added_at": "2026-06-19 00:00:16",
-      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/4iE8RH0OP3DWK9RbCG8FQC"
       },
@@ -903,34 +883,22 @@
     {
       "added_at": "2026-06-19 00:00:16",
       "album": {
-        "name": "For a Little While",
-        "url": "https://open.spotify.com/album/0eaPrCSV3x82l6IJPSVh3j"
+        "name": "Attenuation EP",
+        "url": "https://open.spotify.com/album/0Ha3XGv6XE8c0aODehJHuW"
       },
       "artists": [
         {
-          "name": "SKAYA",
-          "url": "https://open.spotify.com/artist/0MOD3DH1k0RNiMvIqxUQQC"
-        }
-      ],
-      "duration_ms": 170847,
-      "name": "For a Little While",
-      "url": "https://open.spotify.com/track/4snOoBe1d9bvXBjtADp1pS"
-    },
-    {
-      "added_at": "2026-06-19 00:00:16",
-      "album": {
-        "name": "ionnalee's MOUTH OF A RIVER, pt. 2",
-        "url": "https://open.spotify.com/album/27rZt07MSLnan8BNHFJ7ZA"
-      },
-      "artists": [
+          "name": "Main Phase",
+          "url": "https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3"
+        },
         {
-          "name": "ionnalee",
-          "url": "https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv"
+          "name": "Talons",
+          "url": "https://open.spotify.com/artist/0qiRTNQwfvA91BL30UBRu1"
         }
       ],
-      "duration_ms": 236000,
-      "name": "the box",
-      "url": "https://open.spotify.com/track/3pTLDZbgkCXm5KLKqiq67S"
+      "duration_ms": 278260,
+      "name": "Artificial",
+      "url": "https://open.spotify.com/track/2DG2EhND9DmbXOsOJjOo5F"
     },
     {
       "added_at": "2026-06-19 00:00:16",
@@ -951,6 +919,22 @@
     {
       "added_at": "2026-06-19 00:00:16",
       "album": {
+        "name": "For a Little While",
+        "url": "https://open.spotify.com/album/0eaPrCSV3x82l6IJPSVh3j"
+      },
+      "artists": [
+        {
+          "name": "SKAYA",
+          "url": "https://open.spotify.com/artist/0MOD3DH1k0RNiMvIqxUQQC"
+        }
+      ],
+      "duration_ms": 170847,
+      "name": "For a Little While",
+      "url": "https://open.spotify.com/track/4snOoBe1d9bvXBjtADp1pS"
+    },
+    {
+      "added_at": "2026-06-19 00:00:16",
+      "album": {
         "name": "Receiver",
         "url": "https://open.spotify.com/album/65s1ShQJvvxUU3kvJcXJZQ"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 200567,
       "name": "Receiver",
       "url": "https://open.spotify.com/track/4jrYOfwuFajEk7RUgz3sqW"
+    },
+    {
+      "added_at": "2026-06-19 00:00:16",
+      "album": {
+        "name": "ionnalee's MOUTH OF A RIVER, pt. 2",
+        "url": "https://open.spotify.com/album/27rZt07MSLnan8BNHFJ7ZA"
+      },
+      "artists": [
+        {
+          "name": "ionnalee",
+          "url": "https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "the box",
+      "url": "https://open.spotify.com/track/3pTLDZbgkCXm5KLKqiq67S"
     },
     {
       "added_at": "2026-06-19 00:00:16",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-06-19 00:00:16",
       "album": {
-        "name": "Everyday Life",
-        "url": "https://open.spotify.com/album/5Bg6w6c9hbs2qk98TfUdVU"
-      },
-      "artists": [
-        {
-          "name": "Lasse Skriver",
-          "url": "https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp"
-        }
-      ],
-      "duration_ms": 163480,
-      "name": "Everyday Life",
-      "url": "https://open.spotify.com/track/0okrBe5cTmkDLia4uQGGVl"
-    },
-    {
-      "added_at": "2026-06-19 00:00:16",
-      "album": {
         "name": "UFO",
         "url": "https://open.spotify.com/album/58oyRiHptdbnSqw8lZTRdx"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 134310,
       "name": "Wide Awake",
       "url": "https://open.spotify.com/track/6L3OQkay5RpXCQQSOwcyFo"
+    },
+    {
+      "added_at": "2026-06-19 00:00:16",
+      "album": {
+        "name": "Everyday Life",
+        "url": "https://open.spotify.com/album/5Bg6w6c9hbs2qk98TfUdVU"
+      },
+      "artists": [
+        {
+          "name": "Lasse Skriver",
+          "url": "https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp"
+        }
+      ],
+      "duration_ms": 163480,
+      "name": "Everyday Life",
+      "url": "https://open.spotify.com/track/0okrBe5cTmkDLia4uQGGVl"
     },
     {
       "added_at": "2026-06-19 00:00:16",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-06-19 00:00:16",
       "album": {
-        "name": "Nothing Without You",
-        "url": "https://open.spotify.com/album/2EhKy1t3Cl8DSBOtwn13U2"
-      },
-      "artists": [
-        {
-          "name": "Isac Halldin",
-          "url": "https://open.spotify.com/artist/3DvEEc12DMy5peHWgSw2UF"
-        }
-      ],
-      "duration_ms": 229110,
-      "name": "Nothing Without You",
-      "url": "https://open.spotify.com/track/59oPXaMICIwBwHDjgF4cTr"
-    },
-    {
-      "added_at": "2026-06-19 00:00:16",
-      "album": {
         "name": "Committed No Crime",
         "url": "https://open.spotify.com/album/6dtzt82Gvy9o6mg7WU5JeK"
       },
@@ -1179,18 +1163,18 @@
     {
       "added_at": "2026-06-19 00:00:16",
       "album": {
-        "name": "Feel Lonely",
-        "url": "https://open.spotify.com/album/2UweCzLWNeK01nEvVdA2lp"
+        "name": "Nothing Without You",
+        "url": "https://open.spotify.com/album/2EhKy1t3Cl8DSBOtwn13U2"
       },
       "artists": [
         {
-          "name": "Viggo Dyst",
-          "url": "https://open.spotify.com/artist/2ErTCR7vHeYoB6Z81O8WT2"
+          "name": "Isac Halldin",
+          "url": "https://open.spotify.com/artist/3DvEEc12DMy5peHWgSw2UF"
         }
       ],
-      "duration_ms": 275076,
-      "name": "Feel Lonely",
-      "url": "https://open.spotify.com/track/6ZdEUdTb98G8jm3BLotPJX"
+      "duration_ms": 229110,
+      "name": "Nothing Without You",
+      "url": "https://open.spotify.com/track/59oPXaMICIwBwHDjgF4cTr"
     },
     {
       "added_at": "2026-06-19 00:00:16",
@@ -1207,6 +1191,22 @@
       "duration_ms": 132000,
       "name": "Higher Midnight",
       "url": "https://open.spotify.com/track/34Yc7nYqmSXIqM6wIoS6Ca"
+    },
+    {
+      "added_at": "2026-06-19 00:00:16",
+      "album": {
+        "name": "Feel Lonely",
+        "url": "https://open.spotify.com/album/2UweCzLWNeK01nEvVdA2lp"
+      },
+      "artists": [
+        {
+          "name": "Viggo Dyst",
+          "url": "https://open.spotify.com/artist/2ErTCR7vHeYoB6Z81O8WT2"
+        }
+      ],
+      "duration_ms": 275076,
+      "name": "Feel Lonely",
+      "url": "https://open.spotify.com/track/6ZdEUdTb98G8jm3BLotPJX"
     },
     {
       "added_at": "2026-06-19 00:00:16",

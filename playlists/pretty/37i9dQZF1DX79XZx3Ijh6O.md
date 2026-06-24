@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79XZx3Ijh6O.md) - [plain]
 
 > Найліпша музика від українських артистів\-початківців\. Обкладинка: prirva
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,953 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,955 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79XZx3Ijh6O.md) - [plain]
 | 49 | [Оз](https://open.spotify.com/track/1lsrmjnsHkU8AeeSmDJqTc) | [Deli Kate](https://open.spotify.com/artist/2oQFZBMRYwnNeuv3hES9eb) | [Оз](https://open.spotify.com/album/3VxJPIEvnY8noAbA2SEulm) | 2:22 |
 | 50 | [Відчуваю](https://open.spotify.com/track/1s4ONuh5PSJhgLrUDu1XHS) | [Абіє](https://open.spotify.com/artist/4tVD9eoxsVNfLAP2PhaFpN) | [Відчуваю](https://open.spotify.com/album/7HdtZGc29sl7zEipIvis5a) | 2:30 |
 
-Snapshot ID: `AAAAAOJDR8ttiYKdWFcfbJW9qg0QqwJS`
+Snapshot ID: `AAAAAKeSiILFsgRyl9G1ndkjbWWmNDJ0`

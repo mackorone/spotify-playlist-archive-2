@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Freddie Gibbs",
-  "num_followers": 1563461,
+  "num_followers": 1563360,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -991,26 +991,34 @@
     {
       "added_at": "2026-06-05 04:01:45",
       "album": {
-        "name": "Never Change",
-        "url": "https://open.spotify.com/album/2sGj6UCPfypqtzzjF21HWl"
+        "name": "The Louvre",
+        "url": "https://open.spotify.com/album/6190G0Qx9vwR0gINCGumqH"
       },
       "artists": [
         {
-          "name": "The LOX",
-          "url": "https://open.spotify.com/artist/0A7g2YbCA9FlyZvAG6VmKP"
+          "name": "Statik Selektah",
+          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
         },
         {
-          "name": "Jaheim",
-          "url": "https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3"
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
         },
         {
-          "name": "Trent Shelton",
-          "url": "https://open.spotify.com/artist/0TFOpHVjYqotplA5rEQ48a"
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        },
+        {
+          "name": "Rome Streetz",
+          "url": "https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB"
+        },
+        {
+          "name": "Stove God Cooks",
+          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
         }
       ],
-      "duration_ms": 270017,
-      "name": "Never Change",
-      "url": "https://open.spotify.com/track/5B3Q7otESAwf2ZFZ2SIz5W"
+      "duration_ms": 249600,
+      "name": "The Louvre",
+      "url": "https://open.spotify.com/track/54blTc3AnAVPehzb7u3TDs"
     }
   ],
   "unique_name": "Spilled Ink",

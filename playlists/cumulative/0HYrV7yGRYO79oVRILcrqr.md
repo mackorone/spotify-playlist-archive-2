@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-587 songs - 1 day 12 hr 31 min
+589 songs - 1 day 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,6 +307,7 @@
 | [Love Is a Choice](https://open.spotify.com/track/69oAJNVNo3OJ7U1Y3bNUQC) | [NEBO](https://open.spotify.com/artist/1xa8wXy8Vr8bNIZBXC5MzW) | [Love Is a Choice](https://open.spotify.com/album/78mtCHFjzhg2fk3uptgo49) | 2:30 | 2026-04-12 |  |
 | [Love is Alive](https://open.spotify.com/track/37cN267Fk7TmCieQb9ew9U) | [Hoss Carl](https://open.spotify.com/artist/5OTamahcB1uXMerWExIRol) | [Love is Alive](https://open.spotify.com/album/6i1jTWMfDp49yt9uRBCAQf) | 4:05 | 2025-11-24 | 2025-12-17 |
 | [Love Lies Cold](https://open.spotify.com/track/2ppN2JHxGi6wps7RBBlZUu) | [Julience](https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL) | [Love Lies Cold](https://open.spotify.com/album/4BvAfPva3VDcDqAvb8n9sO) | 4:11 | 2026-05-03 | 2026-05-26 |
+| [Love Me Back](https://open.spotify.com/track/5Gj6ULpZ8A7UuPWWqdHBbM) | [Jenny Scara](https://open.spotify.com/artist/0F4yegE6Xa3vC2KvCoJTGw) | [Love Me Back](https://open.spotify.com/album/0MkfpV7NcjQbXOpq0SMa3z) | 3:22 | 2026-06-23 |  |
 | [LTK](https://open.spotify.com/track/44Qqn1dhvDng9pLPANoRGh) | [Steve Schwartz](https://open.spotify.com/artist/0rFuKciUQDbtEQmQ6XJ4YQ) | [LTK](https://open.spotify.com/album/3j7jt2dabJflTVhsgznvVO) | 3:52 | 2025-12-22 | 2026-04-21 |
 | [Lucha](https://open.spotify.com/track/3uukDbfr18JxhaGbqijTWT) | [Flores & Mcewen](https://open.spotify.com/artist/1qpP1qC1284dxZNqHwoGnp) | [Lucha](https://open.spotify.com/album/6YiYSdZZMLpnjlMwM4Ljm0) | 3:15 | 2026-03-14 | 2026-04-21 |
 | [Lullaby](https://open.spotify.com/track/7eARSBGQOxV1v9Who29Mdv) | [Gilgulim](https://open.spotify.com/artist/3qknrzxuZcqDS2TZksVWLj) | [Soulslike](https://open.spotify.com/album/1hU2zINgJZfvnSTo65Yb9T) | 4:26 | 2026-06-01 | 2026-06-18 |
@@ -354,6 +355,7 @@
 | [NO](https://open.spotify.com/track/0EVKsHWoodqSaburPbBUzJ) | [MONOBERMUDO](https://open.spotify.com/artist/3LMo7RbDhqPnuLwtfGQihv) | [NO](https://open.spotify.com/album/19v34ghKtt5qmrLZySuq4K) | 1:59 | 2026-01-13 | 2026-03-18 |
 | [No Dice](https://open.spotify.com/track/1NGf8nUVTTLq9PUFdjFKfM) | [Touch of Red](https://open.spotify.com/artist/07GYobUq3xeoOIhrqJ2Bc1) | [In Our Nature](https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3) | 5:00 | 2026-06-01 |  |
 | [No Durará Mañana](https://open.spotify.com/track/7hgsM0WZJD0Isjx6dNSVRE) | [Almur](https://open.spotify.com/artist/74i8Ww4vUGlxxRlaMzkqQV) | [No Durará Mañana](https://open.spotify.com/album/0wr5e08FOEp85lFyIRBW0B) | 3:44 | 2026-03-05 | 2026-03-18 |
+| [No es pecado](https://open.spotify.com/track/0G6a9gaWPPFsmu3Cb9hMpx) | [Gal Baliero](https://open.spotify.com/artist/3IuWLDPy58I11hj2tOsn7M), [Isaac Gomez](https://open.spotify.com/artist/6OP5rawJOEJ3SGN6up8zOW), [Jacksa Suazo](https://open.spotify.com/artist/7rwpfamWDwfJ6F26zue6LV), [Banda Pope Joan](https://open.spotify.com/artist/1xG6VbKG0O3HUAhbu6UbR5) | [Pope Joan Sinfónico](https://open.spotify.com/album/2TvI5ziSqPflqifuBbcQbf) | 4:38 | 2026-06-23 |  |
 | [No Fear](https://open.spotify.com/track/7caKs4RqUustcwHjWi3Gtp) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [No Fear](https://open.spotify.com/album/1Pz6qTKDsxqXsLRV4mfqcr) | 3:23 | 2026-02-16 | 2026-03-18 |
 | [No me lo pidas esta noche](https://open.spotify.com/track/2otKc97JmHG7035LH4smqd) | [Madame Babilonia](https://open.spotify.com/artist/1U1z22LC7vMv8sVmPImg1b) | [Despierta](https://open.spotify.com/album/7vtpUhuSrPg6OJW8PYgTQX) | 5:09 | 2025-11-11 | 2025-12-17 |
 | [No More](https://open.spotify.com/track/3cZiSpCRzIxnA8OT3fobl0) | [Ugochill](https://open.spotify.com/artist/1kOGUspiJr2BQ7HMDQdTRw), [The Turtle Project](https://open.spotify.com/artist/062cY7RGKXM9XJyWM1VCXa) | [No More](https://open.spotify.com/album/4QLG7zjn0zEGbONemBieLw) | 4:23 | 2025-09-21 |  |

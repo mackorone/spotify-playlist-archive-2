@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 340,
+  "num_followers": 341,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAKLaPmU6hYNjYzE1Ws5nNjUFda3S3G",
+  "snapshot_id": "AAAKMhsZavXjFwtsTC3SweU4xB6h8M8R",
   "tracks": [
     {
       "added_at": "2022-08-16 09:32:19",
@@ -40831,6 +40831,86 @@
       "duration_ms": 229161,
       "name": "Bara",
       "url": "https://open.spotify.com/track/50hb6zxmJMxrfavhe0fyn7"
+    },
+    {
+      "added_at": "2026-06-23 12:44:32",
+      "album": {
+        "name": "Matory",
+        "url": "https://open.spotify.com/album/37DeS2yQJ0UUF8tKJjdes4"
+      },
+      "artists": [
+        {
+          "name": "Kutas",
+          "url": "https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq"
+        }
+      ],
+      "duration_ms": 151250,
+      "name": "Matory",
+      "url": "https://open.spotify.com/track/39WrEUqGAXuylnOtGeVE3h"
+    },
+    {
+      "added_at": "2026-06-23 12:47:02",
+      "album": {
+        "name": "\u0425\u043e\u0440\u043e\u0448\u0438\u0435 \u0432\u0441\u0451 \u043b\u044e\u0434\u0438",
+        "url": "https://open.spotify.com/album/4w2zx1lJYBAwqFa2Qoo9zZ"
+      },
+      "artists": [
+        {
+          "name": "the poet must die",
+          "url": "https://open.spotify.com/artist/2D0En2asmzvF1FGNiXEGqf"
+        }
+      ],
+      "duration_ms": 62162,
+      "name": "\u0425\u043e\u0440\u043e\u0448\u0438\u0435 \u0432\u0441\u0451 \u043b\u044e\u0434\u0438",
+      "url": "https://open.spotify.com/track/3rhtHtJJhEv59cFXru3yFp"
+    },
+    {
+      "added_at": "2026-06-23 12:56:01",
+      "album": {
+        "name": "\u0414\u044b\u0448\u0430\u0442\u044c",
+        "url": "https://open.spotify.com/album/4WnGAdmmXihQC1WKsOmw4I"
+      },
+      "artists": [
+        {
+          "name": "ANTY-DOTE",
+          "url": "https://open.spotify.com/artist/6977CBnV7l66u6yEM9MwMW"
+        }
+      ],
+      "duration_ms": 62000,
+      "name": "\u0414\u044b\u0448\u0430\u0442\u044c",
+      "url": "https://open.spotify.com/track/4R5bbmS5OoFrgbLk8tRoY8"
+    },
+    {
+      "added_at": "2026-06-23 15:31:54",
+      "album": {
+        "name": "Time and a Place",
+        "url": "https://open.spotify.com/album/5Na8n7JvfZI2qWnYWfFEkV"
+      },
+      "artists": [
+        {
+          "name": "HAMLIN",
+          "url": "https://open.spotify.com/artist/08UO9aJMvPU8w2BfXKeZbk"
+        }
+      ],
+      "duration_ms": 252055,
+      "name": "Time and a Place",
+      "url": "https://open.spotify.com/track/5IcBicRU5XceiJJRcds8wt"
+    },
+    {
+      "added_at": "2026-06-23 16:05:05",
+      "album": {
+        "name": "Luka Yang Bernama Kamu",
+        "url": "https://open.spotify.com/album/3fhiugMLvJQfLRZoM3XItY"
+      },
+      "artists": [
+        {
+          "name": "Ekkyu",
+          "url": "https://open.spotify.com/artist/6mT1w2xe3Os7CLSR1bAU6W"
+        }
+      ],
+      "duration_ms": 278750,
+      "name": "Luka Yang Bernama Kamu",
+      "url": "https://open.spotify.com/track/2VXPqyN2N6J15Md9fSc8s9"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

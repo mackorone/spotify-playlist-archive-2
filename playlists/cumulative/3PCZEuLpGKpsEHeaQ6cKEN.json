@@ -23321,6 +23321,28 @@
     },
     {
       "album": {
+        "name": "My Feelings For You",
+        "url": "https://open.spotify.com/album/2g1VlXVLzrOw39zgwxto1v"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Sebastien Drums",
+          "url": "https://open.spotify.com/artist/0lHsjYcb3lGjkJQQqC6HVt"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159375,
+      "name": "My Feelings For You",
+      "url": "https://open.spotify.com/track/5VnxnkmYGnwcj7xhtfFbR2"
+    },
+    {
+      "album": {
         "name": "Detention",
         "url": "https://open.spotify.com/album/4wrHptimsWJK8Z01bsnQ9s"
       },

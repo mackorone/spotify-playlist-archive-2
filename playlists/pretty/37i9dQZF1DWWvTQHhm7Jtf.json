@@ -1,6 +1,6 @@
 {
   "description": "A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 - Possible Musics'.",
-  "num_followers": 20531,
+  "num_followers": 20528,
   "original_name": "Planetary Soul",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,6 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Tower of Silence",
-        "url": "https://open.spotify.com/album/0emZeMYklVE3LS97rGKN8S"
-      },
-      "artists": [
-        {
-          "name": "Roberto Musci",
-          "url": "https://open.spotify.com/artist/1HSz5qiRNcs8eJ0Sp2LOxw"
-        }
-      ],
-      "duration_ms": 369765,
-      "name": "Nexus On The Beach",
-      "url": "https://open.spotify.com/track/6LMAeSiM6YiiGsfE1G4jUD"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/4FC9qI04vobItNEKVeRh8Q"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 324255,
       "name": "Broken Clouds",
       "url": "https://open.spotify.com/track/7q0OGG60Em2wwPNDpBFPGy"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Tower of Silence",
+        "url": "https://open.spotify.com/album/0emZeMYklVE3LS97rGKN8S"
+      },
+      "artists": [
+        {
+          "name": "Roberto Musci",
+          "url": "https://open.spotify.com/artist/1HSz5qiRNcs8eJ0Sp2LOxw"
+        }
+      ],
+      "duration_ms": 369765,
+      "name": "Nexus On The Beach",
+      "url": "https://open.spotify.com/track/6LMAeSiM6YiiGsfE1G4jUD"
     },
     {
       "added_at": "2022-05-18 00:27:56",
@@ -377,22 +377,6 @@
       "url": "https://open.spotify.com/track/1mMMpiuaPQe9I6RIqtFWql"
     },
     {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Aftertouches",
-        "url": "https://open.spotify.com/album/7Fe43zwjkO6cMNrP8HdDoN"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Touch me & die",
-      "url": "https://open.spotify.com/track/4fUyRdOqocwHCabG7gT71J"
-    },
-    {
       "added_at": "2021-11-25 22:14:03",
       "album": {
         "name": "Haut",
@@ -407,6 +391,22 @@
       "duration_ms": 252733,
       "name": "Haut",
       "url": "https://open.spotify.com/track/47z9MmkB84n0UB8ZtpYgNU"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Aftertouches",
+        "url": "https://open.spotify.com/album/7Fe43zwjkO6cMNrP8HdDoN"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Touch me & die",
+      "url": "https://open.spotify.com/track/4fUyRdOqocwHCabG7gT71J"
     },
     {
       "added_at": "2024-08-29 04:26:33",
@@ -669,6 +669,22 @@
       "url": "https://open.spotify.com/track/56Wpf80guuziEQ5Yz2nI5V"
     },
     {
+      "added_at": "2023-06-07 02:20:45",
+      "album": {
+        "name": "Intrapersonal Experience",
+        "url": "https://open.spotify.com/album/7Lwmz636F3Oa6ezXspUzBg"
+      },
+      "artists": [
+        {
+          "name": "Saphileaum",
+          "url": "https://open.spotify.com/artist/0DGuM1iZlGWfdDqAIrQCfU"
+        }
+      ],
+      "duration_ms": 336000,
+      "name": "Dear",
+      "url": "https://open.spotify.com/track/0tAp8Yk3Sa6GLEaNkXRGzJ"
+    },
+    {
       "added_at": "2024-03-21 23:29:56",
       "album": {
         "name": "I\u2019ll Do Whatever You Want",
@@ -691,22 +707,6 @@
       "duration_ms": 463080,
       "name": "I\u2019ll Do Whatever You Want (feat. Floating Points, Laraaji)",
       "url": "https://open.spotify.com/track/7tv000vU2ikgKNUNmGDeKV"
-    },
-    {
-      "added_at": "2023-06-07 02:20:45",
-      "album": {
-        "name": "Intrapersonal Experience",
-        "url": "https://open.spotify.com/album/7Lwmz636F3Oa6ezXspUzBg"
-      },
-      "artists": [
-        {
-          "name": "Saphileaum",
-          "url": "https://open.spotify.com/artist/0DGuM1iZlGWfdDqAIrQCfU"
-        }
-      ],
-      "duration_ms": 336000,
-      "name": "Dear",
-      "url": "https://open.spotify.com/track/0tAp8Yk3Sa6GLEaNkXRGzJ"
     },
     {
       "added_at": "2022-09-14 12:31:52",
@@ -945,6 +945,30 @@
       "url": "https://open.spotify.com/track/4pWYWHh0tXLyo2hcNKAIHk"
     },
     {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Missing Pages",
+        "url": "https://open.spotify.com/album/3mFkJPTgbdnnZIJoXs425c"
+      },
+      "artists": [
+        {
+          "name": "Lars Bartkuhn",
+          "url": "https://open.spotify.com/artist/1LnmRVWmQ6KILkjb8ep0zW"
+        },
+        {
+          "name": "The First Minute of a New Day",
+          "url": "https://open.spotify.com/artist/082GUxu1YVW1rL9Off8juq"
+        },
+        {
+          "name": "Kabuki",
+          "url": "https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB"
+        }
+      ],
+      "duration_ms": 339440,
+      "name": "June 26th",
+      "url": "https://open.spotify.com/track/5NU40ogYGIxPCcmSAAZPlh"
+    },
+    {
       "added_at": "2022-03-11 05:56:40",
       "album": {
         "name": "Bl\u00e5ne II",
@@ -979,30 +1003,6 @@
       "duration_ms": 285338,
       "name": "Desert Wax",
       "url": "https://open.spotify.com/track/1RQBeZgMF37bZaXCXYbfil"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Missing Pages",
-        "url": "https://open.spotify.com/album/3mFkJPTgbdnnZIJoXs425c"
-      },
-      "artists": [
-        {
-          "name": "Lars Bartkuhn",
-          "url": "https://open.spotify.com/artist/1LnmRVWmQ6KILkjb8ep0zW"
-        },
-        {
-          "name": "The First Minute of a New Day",
-          "url": "https://open.spotify.com/artist/082GUxu1YVW1rL9Off8juq"
-        },
-        {
-          "name": "Kabuki",
-          "url": "https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB"
-        }
-      ],
-      "duration_ms": 339440,
-      "name": "June 26th",
-      "url": "https://open.spotify.com/track/5NU40ogYGIxPCcmSAAZPlh"
     },
     {
       "added_at": "2022-09-30 02:47:05",
@@ -1177,6 +1177,26 @@
       "url": "https://open.spotify.com/track/1xp0iKRQ29UWQaa2OfVd93"
     },
     {
+      "added_at": "2024-04-23 00:52:53",
+      "album": {
+        "name": "Hell To The Liars (feat. NATURE)",
+        "url": "https://open.spotify.com/album/40a83SZsulnzS0WiDkHqZc"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 571168,
+      "name": "Hell To The Liars (feat. NATURE)",
+      "url": "https://open.spotify.com/track/0zla5mx2a2pKGHzAmo3rxC"
+    },
+    {
       "added_at": "2021-10-20 18:30:26",
       "album": {
         "name": "No Home of the Mind",
@@ -1191,22 +1211,6 @@
       "duration_ms": 376956,
       "name": "Starwood Choker",
       "url": "https://open.spotify.com/track/2w5l9sDXytt4lu0ZYFSoIX"
-    },
-    {
-      "added_at": "2022-03-30 04:58:54",
-      "album": {
-        "name": "Antiphony of the Trees",
-        "url": "https://open.spotify.com/album/6iDjToo4wsYwronftMsCeD"
-      },
-      "artists": [
-        {
-          "name": "Laura Cannell",
-          "url": "https://open.spotify.com/artist/6vu845nbe3HOXDNYhMmZSq"
-        }
-      ],
-      "duration_ms": 212640,
-      "name": "We Borrowed Feathers",
-      "url": "https://open.spotify.com/track/7ewoRGr2GvyibGbT2kd4UK"
     }
   ],
   "unique_name": "Planetary Soul",

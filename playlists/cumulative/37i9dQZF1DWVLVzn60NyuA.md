@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-580 songs - 1 day 6 hr 17 min
+581 songs - 1 day 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Active](https://open.spotify.com/track/2TOk5OzW5sL83ndKYZJmU7) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Active](https://open.spotify.com/album/7pjNsxzij0oRzYy1xSSnzP) | 2:52 | 2024-10-04 |  |
 | [AIN'T 50/50 \(GIMME!\)](https://open.spotify.com/track/5xzhfNL0EU8lImndhgpyFL) | [Yael Daila](https://open.spotify.com/artist/4qKEr51BeenT8ZAcwnUsWT) | [AIN'T 50/50 \(GIMME!\)](https://open.spotify.com/album/1Mjv6B1L4My8eodYTGt2J6) | 2:32 | 2026-05-07 |  |
 | [All for U \(Ameyatchi\)](https://open.spotify.com/track/7LjHqvRyDcMZ9rJ1XuY0IP) | [King Serenity](https://open.spotify.com/artist/2olAiF4WinkdELTgU2Rllu), [Locko](https://open.spotify.com/artist/7cUFvbLZrLySXBoxk39kCZ), [Sergio Alejandro](https://open.spotify.com/artist/5pLwxvxnxbsHRdgqmhJ7NX) | [All for U \(Ameyatchi\)](https://open.spotify.com/album/42yVoeB1Bs9lE6uXi7zU2m) | 2:45 | 2023-10-05 |  |
-| [All of This \(Jorja Smith x GuiltyBeatz\)](https://open.spotify.com/track/4MntS4sILmujgVJgWJoRbv) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em) | [All of This \(Jorja Smith x GuiltyBeatz\)](https://open.spotify.com/album/6uOlTbRJLSTYDIieRMzcs0) | 5:13 | 2021-12-16 |  |
+| [All of This \(Jorja Smith x GuiltyBeatz\)](https://open.spotify.com/track/4MntS4sILmujgVJgWJoRbv) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em) | [All of This \(Jorja Smith x GuiltyBeatz\)](https://open.spotify.com/album/6uOlTbRJLSTYDIieRMzcs0) | 5:13 | 2021-12-16 | 2026-06-24 |
 | [All of This \(Jorja Smith x GuiltyBeatz\)](https://open.spotify.com/track/6u06O02Qv5ZdwD0x9SqEbX) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em) | [All of This \(Jorja Smith X GuiltyBeatz\)](https://open.spotify.com/album/0Q7QMfuDDS2Pm0OAxaJSPU) | 5:13 | 2022-07-28 | 2024-04-19 |
 | [All Of Us \(Ashawo\)](https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 3:03 | 2023-02-16 | 2025-11-08 |
 | [ALREADY](https://open.spotify.com/track/6tgEc2O1uFHcZDKPoo6PC8) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 3:42 | 2021-12-16 |  |
@@ -428,6 +428,7 @@
 | [Real Man](https://open.spotify.com/track/765zfCJsXtDDPInx1smYLo) | [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa) | [Real Man](https://open.spotify.com/album/3GZNX1TLAGQu3FyE3J6F2w) | 2:55 | 2022-02-10 | 2026-05-08 |
 | [Rebound Chick](https://open.spotify.com/track/0mOrDo4IHjjKV0CSrtkFdw) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [She Loves Zouk, Vol\. 3](https://open.spotify.com/album/2z3QVNeXnWcQoqLxqQcOKb) | 4:37 | 2022-03-25 | 2022-04-21 |
 | [Repeat \(feat\. Koffee\)](https://open.spotify.com/track/4kW3JNDqbqntaASB9lbhXV) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Big Conspiracy](https://open.spotify.com/album/4aveS935cOYHDIGnb2RT5M) | 2:33 | 2021-12-16 | 2022-02-24 |
+| [Rhythm](https://open.spotify.com/track/33a1uLQRtgOGJDU7DqNsFt) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Kohsea](https://open.spotify.com/artist/14iYghNFfyq3pVyoG3Nb8C), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Rhythm](https://open.spotify.com/album/1VClpB03Mt37rl0ShE07Zf) | 3:16 | 2026-06-23 |  |
 | [Rihanna](https://open.spotify.com/track/7JX3QwGypWvFff9Ij1pTTN) | [Yxng Bane](https://open.spotify.com/artist/5AbLpsnTQVNB3OEadYiVrK) | [Rihanna](https://open.spotify.com/album/1Kyt3ViinNNqwjk3V8GINQ) | 3:27 | 2021-12-16 | 2022-02-24 |
 | [Ring Di Alarm](https://open.spotify.com/track/1D0pdbZyGTIDt6ynWP3JLM) | [Yung Dada](https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ) | [Ring Di Alarm](https://open.spotify.com/album/3l7r1yJn2LOle1ClOKkIMo) | 2:27 | 2024-04-11 | 2024-04-30 |
 | [Risky](https://open.spotify.com/track/5CWaYPulpYMRRl1ToR6yO7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 4:30 | 2021-12-16 | 2023-02-24 |

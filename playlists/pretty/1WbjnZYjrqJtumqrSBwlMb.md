@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,270 songs - 3 day 6 hr 15 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,272 songs - 3 day 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1278,5 +1278,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1268 | [Hand Of God \- Outro](https://open.spotify.com/track/6JGCC9qfdZbCSPhOI29ypv) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Human Condition](https://open.spotify.com/album/2e8nzTZ0HtK94IifOWgN7o) | 5:37 |
 | 1269 | [PREACHER MAN](https://open.spotify.com/track/0fD7KBtQgPR1YCtuPAsyZJ) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq) | [BULLY](https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS) | 3:01 |
 | 1270 | [the feeling](https://open.spotify.com/track/3SoarlzPEiF7NgSeGsh44S) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [the feeling](https://open.spotify.com/album/0ox0bcTYieBO03Uaueye9u) | 4:35 |
+| 1271 | [Baby Steps](https://open.spotify.com/track/40eANvl45mhgwEHL5pHHSn) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Baby Steps](https://open.spotify.com/album/172FBTtpqNv9blWGkjgmvP) | 3:58 |
+| 1272 | [Hummer](https://open.spotify.com/track/1GfEpihzfbV6HFt21JA1dz) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Hummer](https://open.spotify.com/album/0EdUCo0oxkBCpNK5EM1hfs) | 6:01 |
 
-Snapshot ID: `AAAJ98pvYrZX4VkOdidgRBO0kFMJ2qSM`
+Snapshot ID: `AAAJ+YNQHQbpFmQLqCUDBVim7v3Mhlu2`

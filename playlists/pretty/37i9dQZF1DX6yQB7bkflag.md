@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover:  <br/>Sung Si Kyung, Raisa
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,559 likes - 108 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,556 likes - 108 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 11 | [Momentary Pleasure](https://open.spotify.com/track/3uOBIFr4hnyxXdyaHmEwDO) | [The Midnight Darlings](https://open.spotify.com/artist/4ue4vWE4ZBHmdurM0PsiAI) | [Momentary Pleasure](https://open.spotify.com/album/0Dy9YBdzfrChQrULfPvjqj) | 3:33 |
 | 12 | [On Your Mind \(feat\. Lil Yachty\)](https://open.spotify.com/track/21C6u4k9di4S7w4JsQS1k7) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [On Your Mind \(feat\. Lil Yachty\)](https://open.spotify.com/album/2TZNyzwG89VKnROkBaK7w3) | 3:37 |
 | 13 | [Bad News](https://open.spotify.com/track/5l0FelDpLcRGzvpYhT9eCH) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [SOULSTAR DELUXE](https://open.spotify.com/album/0CN5V9O6Ldnu5OIDfMndUB) | 3:23 |
-| 14 | [Janji Setia](https://open.spotify.com/track/6cfod5D7hS31TbRtH16kQx) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [MELONii](https://open.spotify.com/artist/5IVgCOmq1RxhSQ9lcf3ZMi) | [Janji Setia \(Janji Setia Korean Version\)](https://open.spotify.com/album/0KuBeerNz7JtLRsvWDEbgg) | 4:21 |
+| 14 | [Janji Setia \- Korean Version](https://open.spotify.com/track/6cfod5D7hS31TbRtH16kQx) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [MELONii](https://open.spotify.com/artist/5IVgCOmq1RxhSQ9lcf3ZMi) | [Janji Setia \(Korean Version\)](https://open.spotify.com/album/0KuBeerNz7JtLRsvWDEbgg) | 4:21 |
 | 15 | [stupid song](https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 3:29 |
 | 16 | [Under Construction](https://open.spotify.com/track/4Y3253lAyzFqLhcUgYEY62) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Under Construction](https://open.spotify.com/album/7tPygg8Jr9igPfGsY8gnzD) | 3:42 |
 | 17 | [One Day](https://open.spotify.com/track/3xG0S7f83zPliFIy5QTF5R) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [DIRTY BLONDE](https://open.spotify.com/album/2VcEHKTpMRNDRsWZ1cB8tG) | 3:08 |

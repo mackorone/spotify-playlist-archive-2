@@ -4,7 +4,7 @@
 
 > The UK's biggest dance playlist! Cover: Silva Bumpa
 
-765 songs - 1 day 15 hr 46 min
+766 songs - 1 day 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,7 +299,7 @@
 | [Heaven Takes You Home \(feat\. Connie Constance\)](https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:34 | 2022-04-15 | 2022-07-22 |
 | [Here For You](https://open.spotify.com/track/1QgebV92VO4Z7VxbQ1tSKo) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Cognition](https://open.spotify.com/album/4fbTcsvGcoM2OZMC3mPgl0) | 3:46 | 2022-02-11 | 2022-05-21 |
 | [Here In Your Arms](https://open.spotify.com/track/177kCDBuL5HQwdi6peCaUx) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Abi Flynn](https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs) | [Here In Your Arms](https://open.spotify.com/album/7gpwvr3MB0ZMVEQsF2vR13) | 2:32 | 2025-02-14 | 2026-02-07 |
-| [Here With Me Now](https://open.spotify.com/track/1Hu1QammuVLqU6IvvmbV2n) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Here With Me Now](https://open.spotify.com/album/1yGhvmVC9eJXFO1xs3ttwf) | 4:20 | 2026-06-18 |  |
+| [Here With Me Now](https://open.spotify.com/track/1Hu1QammuVLqU6IvvmbV2n) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Here With Me Now](https://open.spotify.com/album/1yGhvmVC9eJXFO1xs3ttwf) | 4:20 | 2026-06-18 | 2026-06-24 |
 | [Hey DJ](https://open.spotify.com/track/35TuvgQOcLcZmGlZZ3cAGq) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Hey DJ](https://open.spotify.com/album/0HNme2CFQWHNAR1IIiwuZi) | 2:37 | 2023-10-06 | 2024-06-04 |
 | [High On Me](https://open.spotify.com/track/3Z23sDc2J9ZkmFiMStRoIp) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [High On Me](https://open.spotify.com/album/2fpKAar1kXe4bWkzZSX88J) | 3:09 | 2025-06-23 |  |
 | [Higher](https://open.spotify.com/track/7gfFqigmPAHrHt6c84b5cm) | [DJ Fresh](https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC), [Used](https://open.spotify.com/artist/4sewbfr40so8t6Zfh9tmoK), [Nikki Ambers](https://open.spotify.com/artist/01PAM2LxCLL6tflnv7mbV7) | [Higher](https://open.spotify.com/album/3PsDcHdtiMfXxYcakymN39) | 2:52 | 2022-08-18 | 2022-12-02 |
@@ -346,6 +346,7 @@
 | [Infinity \(feat\. ILIRA, iiola & Tom Cane\)](https://open.spotify.com/track/05zD7iVuzpzDWsYvxxcvgd) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41), [iiola](https://open.spotify.com/artist/3YSLjtLPCULe41kgElVrWj), [Tom Cane](https://open.spotify.com/artist/5iFDzfBI6aebgrb9ljJhme) | [Infinity \(feat\. ILIRA, iiola & Tom Cane\)](https://open.spotify.com/album/6l9QJGEoMRYD86XIXHCJvp) | 3:33 | 2023-03-30 | 2023-08-04 |
 | [Into My Life \(feat\. Joyce Sims\)](https://open.spotify.com/track/5Pcg7KpidYjuKTTJ12IvvF) | [Cam Stockman](https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg), [Joyce Sims](https://open.spotify.com/artist/4AL3YviSMI70ARkSOHlxbQ) | [Into My Life \(feat\. Joyce Sims\)](https://open.spotify.com/album/4KzpmvHWP09GTVgGpnkBl7) | 2:11 | 2026-01-30 |  |
 | [Into The Night](https://open.spotify.com/track/60FYYWyVBHGWgVOEsQweuS) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [After Dark](https://open.spotify.com/album/5nY7Z4vvGxGsnPWaiTQa5y) | 4:13 | 2022-09-29 | 2023-02-17 |
+| [Invisible](https://open.spotify.com/track/2dt5AmiiAA7dOhE1xws9qY) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Invisible](https://open.spotify.com/album/0y63Qrt20QcFwxq3M7B7SK) | 3:16 | 2026-06-23 |  |
 | [Is U](https://open.spotify.com/track/4Z3RGx7Be5plLoIw7i83wX) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Is U](https://open.spotify.com/album/4jO5B8uUoYusn8Yb8iSoVo) | 3:48 | 2023-01-27 | 2023-06-02 |
 | [It Ain't Right](https://open.spotify.com/track/0lrctx5G3InbHwNO5JyFfL) | [Shane Codd](https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ) | [It Ain't Right](https://open.spotify.com/album/02eBFjibJmBwmNahLyYX31) | 3:28 | 2021-11-05 | 2022-03-25 |
 | [It Gets Better \- Forever Mix](https://open.spotify.com/track/1e2n2qovOIYRJZZm875RHo) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [It Gets Better \(Forever Mix\)](https://open.spotify.com/album/1nQ8tCFXhFZ8RXJbqTPplO) | 4:12 | 2025-04-10 | 2026-03-10 |

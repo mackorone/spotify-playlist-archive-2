@@ -4,7 +4,7 @@
 
 > young soundsss!! Monaqi på forsiden 🍔
 
-443 songs - 22 hr 43 min
+444 songs - 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Blue Flame](https://open.spotify.com/track/5R9utrfWW0T6GqAe3koh3o) | [A Good Year](https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j), [Tiffi M](https://open.spotify.com/artist/6HT5E0pCWG22FzBr6Wdlp5), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Play](https://open.spotify.com/album/4mveLQ3t7GKHwuKDShwgzx) | 3:03 | 2026-05-21 |  |
 | [blå nætter](https://open.spotify.com/track/5QnW9XOkrkOF4l3KciQwOu) | [Lea Eyðbjørg](https://open.spotify.com/artist/5UTFhx3pJkrUHKlM4gd2rv), [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [blå nætter](https://open.spotify.com/album/1Rb8lqf2mIY0DyerLKkVhS) | 2:38 | 2025-06-12 |  |
 | [Blød](https://open.spotify.com/track/73IX0AWJ5BcAyosnQ3QalA) | [Bette](https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27) | [Blød](https://open.spotify.com/album/6SYYzhXwDRTRUzHQIrAx6O) | 2:21 | 2024-09-26 | 2025-09-05 |
-| [Bobler](https://open.spotify.com/track/4w77uY6YcGkd8vznIs0sF7) | [Lea Romea](https://open.spotify.com/artist/6wmoRZXV3XJDZkZryNV8Yb) | [Bobler](https://open.spotify.com/album/1KyvtKAaTc7azB20HJ0KJE) | 2:41 | 2026-01-01 |  |
+| [Bobler](https://open.spotify.com/track/4w77uY6YcGkd8vznIs0sF7) | [Lea Romea](https://open.spotify.com/artist/6wmoRZXV3XJDZkZryNV8Yb) | [Bobler](https://open.spotify.com/album/1KyvtKAaTc7azB20HJ0KJE) | 2:41 | 2026-01-01 | 2026-06-24 |
 | [Bottle Up This Feeling](https://open.spotify.com/track/7pw1Ujw5bjKTbUDD78NkpO) | [SKAYA](https://open.spotify.com/artist/0MOD3DH1k0RNiMvIqxUQQC) | [Bottle Up This Feeling](https://open.spotify.com/album/5mwtSY7y89IMj7GucE6wvv) | 3:01 | 2025-07-31 | 2025-09-26 |
 | [Brev Fra En Forræder](https://open.spotify.com/track/0SDWa22lSLNpGnr5bF3f2z) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL) | [Infinity Action](https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM) | 4:03 | 2024-06-27 | 2025-04-30 |
 | [Brænder Stadig](https://open.spotify.com/track/1jTAvx5ch0MmX8QT75uyXf) | [Guldimund](https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw) | [Dem, Vi Plejede At Være](https://open.spotify.com/album/0IeENk7W2iwxHWhln55wvm) | 3:08 | 2024-06-27 | 2025-02-07 |
@@ -295,6 +295,7 @@
 | [Overkill](https://open.spotify.com/track/2cKqnOnyn4m5ZCmShQxxzJ) | [MILA](https://open.spotify.com/artist/1kxYcDvkOzwczcvFlEBVwl) | [Overkill](https://open.spotify.com/album/4BZt0a3MXOMR4gpnLhujUM) | 2:44 | 2025-05-22 | 2025-05-30 |
 | [paper plane](https://open.spotify.com/track/0sX4DD5LzSRbyeH5cQ13gp) | [lucca](https://open.spotify.com/artist/0wkRL12dR8YrRM3JPzXd1N) | [paper plane](https://open.spotify.com/album/2yJABCaws6mVHX1qSdOr7y) | 3:31 | 2025-09-04 | 2025-09-12 |
 | [PAPI](https://open.spotify.com/track/5PrXiCU1agpgbMwzdCCVpe) | [Isaac Kasule](https://open.spotify.com/artist/05H8WnuJP9pO3p7VSV0cZh) | [PAPI](https://open.spotify.com/album/77euwhnB4tyjvObh6ag1N7) | 2:15 | 2025-07-10 | 2025-08-07 |
+| [passer på mit K](https://open.spotify.com/track/4Vv8Zh3tdP2I67fbIFLOCF) | [Klara Vibeke](https://open.spotify.com/artist/5bQ5Pw6LpF4cystane7jby) | [passer på mit K](https://open.spotify.com/album/0SmlwDasj8JUKMIvofdUp9) | 2:38 | 2026-06-19 |  |
 | [Perker Pop \(Jeg vil ha'\)](https://open.spotify.com/track/5UhMx8DBKV8e4nKGNJhAM3) | [Aland Z](https://open.spotify.com/artist/5ac27Tra29pdLsxOZRddjm), [Luna Ersahin](https://open.spotify.com/artist/7pzX8VX54FkHWQg3omfAZK) | [Perker Pop \(Jeg vil ha'\)](https://open.spotify.com/album/222HR56KflpoDSvJTuDOlC) | 3:00 | 2025-09-25 | 2025-11-07 |
 | [Pissoir](https://open.spotify.com/track/2zd5aojgRe21i2R0kgrpb0) | [Søn](https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr) | [Pissoir](https://open.spotify.com/album/44yvHIEEJXArf5hWPlea4E) | 3:05 | 2025-04-10 |  |
 | [plastikhjerte](https://open.spotify.com/track/503O8kwnrNMP4DfQ3u3hf1) | [OLIVVER](https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO) | [plastikhjerte](https://open.spotify.com/album/6tT4IbOXbn9qbvHlUd4J8T) | 3:06 | 2025-01-23 | 2025-06-06 |

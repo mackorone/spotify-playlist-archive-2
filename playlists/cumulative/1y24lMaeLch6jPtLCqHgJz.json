@@ -2083,6 +2083,28 @@
     },
     {
       "album": {
+        "name": "Closure",
+        "url": "https://open.spotify.com/album/1PyUm9Ez6uKvsWNn7bEJbD"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Hayley May",
+          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147522,
+      "name": "Closure",
+      "url": "https://open.spotify.com/track/6aynKW70w06W8LyZaKpdAX"
+    },
+    {
+      "album": {
         "name": "Coca",
         "url": "https://open.spotify.com/album/5E5vPrPKqu3kWtudvefW2h"
       },
@@ -9652,6 +9674,36 @@
       "duration_ms": 203516,
       "name": "Ultra Love",
       "url": "https://open.spotify.com/track/6TgbVQLnt84Cj47xaIfNTi"
+    },
+    {
+      "album": {
+        "name": "Ultra Love (RYOS Remix)",
+        "url": "https://open.spotify.com/album/7aiVOw626yHX9o9hNkrqp6"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Jason Ross",
+          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
+        },
+        {
+          "name": "Brieanna Grace",
+          "url": "https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg"
+        },
+        {
+          "name": "RYOS",
+          "url": "https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213428,
+      "name": "Ultra Love - RYOS Remix",
+      "url": "https://open.spotify.com/track/1gh0zF0GW1Rf0e2Bpvi4oz"
     },
     {
       "album": {

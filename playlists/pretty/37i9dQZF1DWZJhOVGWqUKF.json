@@ -1,6 +1,6 @@
 {
   "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Beartooth",
-  "num_followers": 338391,
+  "num_followers": 338374,
   "original_name": "Rock Rotation",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2026-06-18 22:01:45",
       "album": {
-        "name": "Eye Of The Storm",
-        "url": "https://open.spotify.com/album/6U8HnZ70DQygqtvm98RAxp"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 195161,
-      "name": "Eye Of The Storm",
-      "url": "https://open.spotify.com/track/6bdtZqgRGJzN2Rb7alYCeZ"
-    },
-    {
-      "added_at": "2026-06-18 22:01:45",
-      "album": {
         "name": "Twisting The Knife (feat. Mckenna Grace)",
         "url": "https://open.spotify.com/album/5dvN1KoTSr93iYDPvr5ZL4"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 201477,
       "name": "Twisting The Knife (feat. Mckenna Grace)",
       "url": "https://open.spotify.com/track/2DaR6GuQKi78Lq32oRv38C"
+    },
+    {
+      "added_at": "2026-06-18 22:01:45",
+      "album": {
+        "name": "Eye Of The Storm",
+        "url": "https://open.spotify.com/album/6U8HnZ70DQygqtvm98RAxp"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 195161,
+      "name": "Eye Of The Storm",
+      "url": "https://open.spotify.com/track/6bdtZqgRGJzN2Rb7alYCeZ"
     },
     {
       "added_at": "2026-06-18 22:01:45",
@@ -819,6 +819,22 @@
     {
       "added_at": "2026-06-18 22:01:45",
       "album": {
+        "name": "An Ending In Itself",
+        "url": "https://open.spotify.com/album/3Oc9WCYMSdMZmwFPdrjS1c"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "duration_ms": 181018,
+      "name": "House Of Matches",
+      "url": "https://open.spotify.com/track/2k6HnONLAdpRT0TGM0Ykov"
+    },
+    {
+      "added_at": "2026-06-18 22:01:45",
+      "album": {
         "name": "We're Onto Something (feat. Zach Bryan)",
         "url": "https://open.spotify.com/album/0qKyNTZc8qx2ZuuvXzoqb4"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 222721,
       "name": "We're Onto Something (feat. Zach Bryan)",
       "url": "https://open.spotify.com/track/3QTKTf9CGTzMKSu2NSoq8R"
-    },
-    {
-      "added_at": "2026-06-18 22:01:45",
-      "album": {
-        "name": "An Ending In Itself",
-        "url": "https://open.spotify.com/album/3Oc9WCYMSdMZmwFPdrjS1c"
-      },
-      "artists": [
-        {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
-        }
-      ],
-      "duration_ms": 181018,
-      "name": "House Of Matches",
-      "url": "https://open.spotify.com/track/2k6HnONLAdpRT0TGM0Ykov"
     },
     {
       "added_at": "2026-06-18 22:01:45",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-06-18 22:01:45",
       "album": {
-        "name": "Hollow",
-        "url": "https://open.spotify.com/album/1WP6aYgLJBke188sm4T3Up"
-      },
-      "artists": [
-        {
-          "name": "Smash Into Pieces",
-          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
-        }
-      ],
-      "duration_ms": 176066,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/29zuhsQWT2Ik7sPC2K1gPM"
-    },
-    {
-      "added_at": "2026-06-18 22:01:45",
-      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/6HGItoMgIv712ocI5drxDN"
       },
@@ -999,6 +983,22 @@
     {
       "added_at": "2026-06-18 22:01:45",
       "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/1WP6aYgLJBke188sm4T3Up"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "duration_ms": 176066,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/29zuhsQWT2Ik7sPC2K1gPM"
+    },
+    {
+      "added_at": "2026-06-18 22:01:45",
+      "album": {
         "name": "Everything Burns (feat. Beartooth)",
         "url": "https://open.spotify.com/album/4jsUVte5X0LXHuFIE281qq"
       },
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-06-18 22:01:45",
       "album": {
-        "name": "Peaches!",
-        "url": "https://open.spotify.com/album/4wl0lStE236Kc7pJ7eTpgq"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 223325,
-      "name": "She Does It Right",
-      "url": "https://open.spotify.com/track/1pO3dqvwGvCQzRQV67xfZd"
-    },
-    {
-      "added_at": "2026-06-18 22:01:45",
-      "album": {
         "name": "Alienation",
         "url": "https://open.spotify.com/album/3qNCqYQyWvvgTapGWLTQsk"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 211262,
       "name": "Don't Wanna Go Home Tonight",
       "url": "https://open.spotify.com/track/3I3FSs3C05QUs3r8fSdSeQ"
+    },
+    {
+      "added_at": "2026-06-18 22:01:45",
+      "album": {
+        "name": "Peaches!",
+        "url": "https://open.spotify.com/album/4wl0lStE236Kc7pJ7eTpgq"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 223325,
+      "name": "She Does It Right",
+      "url": "https://open.spotify.com/track/1pO3dqvwGvCQzRQV67xfZd"
     },
     {
       "added_at": "2026-06-18 22:01:45",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2026-06-18 22:01:45",
       "album": {
+        "name": "Unshatter",
+        "url": "https://open.spotify.com/album/56zX5d4lPMLS5dkjLXpOd7"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 196112,
+      "name": "Unshatter",
+      "url": "https://open.spotify.com/track/0D7RVmTlKkmRchqKA4zJht"
+    },
+    {
+      "added_at": "2026-06-18 22:01:45",
+      "album": {
         "name": "Love To Be Loved",
         "url": "https://open.spotify.com/album/7G3oABTzz3ZtRTwkdDMeoN"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 170000,
       "name": "Love To Be Loved",
       "url": "https://open.spotify.com/track/7L9Fgs88bbwSOIYGJHOIBs"
-    },
-    {
-      "added_at": "2026-06-18 22:01:45",
-      "album": {
-        "name": "Unshatter",
-        "url": "https://open.spotify.com/album/56zX5d4lPMLS5dkjLXpOd7"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 196112,
-      "name": "Unshatter",
-      "url": "https://open.spotify.com/track/0D7RVmTlKkmRchqKA4zJht"
     },
     {
       "added_at": "2026-06-18 22:01:45",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-06-18 22:01:45",
       "album": {
-        "name": "Frozen Lake",
-        "url": "https://open.spotify.com/album/0dVYKLEsYc7nHijyq0bSLB"
-      },
-      "artists": [
-        {
-          "name": "VOIL\u00c0",
-          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
-        }
-      ],
-      "duration_ms": 209600,
-      "name": "Frozen Lake",
-      "url": "https://open.spotify.com/track/2SsltJQ4DNWVop7wF06oXQ"
-    },
-    {
-      "added_at": "2026-06-18 22:01:45",
-      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/7pwxlrOHqgDpJNLrUNHMBG"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 187249,
       "name": "You Broke Me Too (feat. Avril Lavigne)",
       "url": "https://open.spotify.com/track/38Yy5HJGINUVDgWHli3Yfp"
+    },
+    {
+      "added_at": "2026-06-18 22:01:45",
+      "album": {
+        "name": "Frozen Lake",
+        "url": "https://open.spotify.com/album/0dVYKLEsYc7nHijyq0bSLB"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "duration_ms": 209600,
+      "name": "Frozen Lake",
+      "url": "https://open.spotify.com/track/2SsltJQ4DNWVop7wF06oXQ"
     },
     {
       "added_at": "2026-06-18 22:01:45",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-06-18 22:01:45",
       "album": {
-        "name": "Drag Me",
-        "url": "https://open.spotify.com/album/51cx1iKhj118oEWzs5QlKj"
-      },
-      "artists": [
-        {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
-        }
-      ],
-      "duration_ms": 186237,
-      "name": "Drag Me",
-      "url": "https://open.spotify.com/track/459NVRkYEftpuwkmSH1U1H"
-    },
-    {
-      "added_at": "2026-06-18 22:01:45",
-      "album": {
         "name": "Violent Nature",
         "url": "https://open.spotify.com/album/7r72bICF1RIxeNOKCGDP6U"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 191531,
       "name": "Pray",
       "url": "https://open.spotify.com/track/1MuHPZ9gnIM0SIpON7bflB"
+    },
+    {
+      "added_at": "2026-06-18 22:01:45",
+      "album": {
+        "name": "Drag Me",
+        "url": "https://open.spotify.com/album/51cx1iKhj118oEWzs5QlKj"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "duration_ms": 186237,
+      "name": "Drag Me",
+      "url": "https://open.spotify.com/track/459NVRkYEftpuwkmSH1U1H"
     },
     {
       "added_at": "2026-06-18 22:01:45",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2026-06-18 22:01:45",
       "album": {
-        "name": "Bedroom Posters (feat. Good Charlotte)",
-        "url": "https://open.spotify.com/album/2DQT3oVHtQJleYR3yXA4cY"
-      },
-      "artists": [
-        {
-          "name": "Yellowcard",
-          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
-        },
-        {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
-        }
-      ],
-      "duration_ms": 218635,
-      "name": "Bedroom Posters (feat. Good Charlotte)",
-      "url": "https://open.spotify.com/track/1L2Z2Xpta5CZ59kIazq9Xp"
-    },
-    {
-      "added_at": "2026-06-18 22:01:45",
-      "album": {
         "name": "Hand That Feeds (From the Film Ballerina)",
         "url": "https://open.spotify.com/album/11mWSwVmv4qfmi2BVHDXmg"
       },
@@ -1511,34 +1491,22 @@
     {
       "added_at": "2026-06-18 22:01:45",
       "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/2AMNcEzhenq21VnZhg7Jse"
+        "name": "Bedroom Posters (feat. Good Charlotte)",
+        "url": "https://open.spotify.com/album/2DQT3oVHtQJleYR3yXA4cY"
       },
       "artists": [
         {
-          "name": "NEFFEX",
-          "url": "https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6"
-        }
-      ],
-      "duration_ms": 251200,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/7KxLGAVUttZgVbFw4CTrQv"
-    },
-    {
-      "added_at": "2026-06-18 22:01:45",
-      "album": {
-        "name": "Sinner Systems",
-        "url": "https://open.spotify.com/album/79HqjG6Dex80xgwH2B5IS0"
-      },
-      "artists": [
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        },
         {
-          "name": "Dead Poet Society",
-          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
         }
       ],
-      "duration_ms": 208620,
-      "name": "Sinner Systems",
-      "url": "https://open.spotify.com/track/1yiyu94B9xdCiS66yBoS9F"
+      "duration_ms": 218635,
+      "name": "Bedroom Posters (feat. Good Charlotte)",
+      "url": "https://open.spotify.com/track/1L2Z2Xpta5CZ59kIazq9Xp"
     },
     {
       "added_at": "2026-06-18 22:01:45",
@@ -1559,6 +1527,22 @@
     {
       "added_at": "2026-06-18 22:01:45",
       "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/2AMNcEzhenq21VnZhg7Jse"
+      },
+      "artists": [
+        {
+          "name": "NEFFEX",
+          "url": "https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6"
+        }
+      ],
+      "duration_ms": 251200,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/7KxLGAVUttZgVbFw4CTrQv"
+    },
+    {
+      "added_at": "2026-06-18 22:01:45",
+      "album": {
         "name": "Crawl Back To My Coffin",
         "url": "https://open.spotify.com/album/7JWTIDOEdhFeAA3ipvMEkI"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 242346,
       "name": "Crawl Back To My Coffin",
       "url": "https://open.spotify.com/track/2p50qhRb0mnj9H8fLoQRf1"
+    },
+    {
+      "added_at": "2026-06-18 22:01:45",
+      "album": {
+        "name": "Sinner Systems",
+        "url": "https://open.spotify.com/album/79HqjG6Dex80xgwH2B5IS0"
+      },
+      "artists": [
+        {
+          "name": "Dead Poet Society",
+          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
+        }
+      ],
+      "duration_ms": 208620,
+      "name": "Sinner Systems",
+      "url": "https://open.spotify.com/track/1yiyu94B9xdCiS66yBoS9F"
     },
     {
       "added_at": "2026-06-18 22:01:45",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-06-18 22:01:45",
       "album": {
-        "name": "Asking For A Friend",
-        "url": "https://open.spotify.com/album/7duNAzheTsc00oX22aCqXn"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "Asking For A Friend",
-      "url": "https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp"
-    },
-    {
-      "added_at": "2026-06-18 22:01:45",
-      "album": {
         "name": "Lachryma",
         "url": "https://open.spotify.com/album/4c1dPnDFdWvgfUSwHvFgev"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 276400,
       "name": "Lachryma",
       "url": "https://open.spotify.com/track/0hw2CGX8jaIpS4jGDn3dfa"
+    },
+    {
+      "added_at": "2026-06-18 22:01:45",
+      "album": {
+        "name": "Asking For A Friend",
+        "url": "https://open.spotify.com/album/7duNAzheTsc00oX22aCqXn"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 269000,
+      "name": "Asking For A Friend",
+      "url": "https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp"
     },
     {
       "added_at": "2026-06-18 22:01:45",

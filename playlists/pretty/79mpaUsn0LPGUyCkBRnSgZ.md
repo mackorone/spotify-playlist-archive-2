@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 731 songs - 1 day 23 hr 3 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 732 songs - 1 day 23 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -739,5 +739,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 729 | [Stadiums and Shrines II](https://open.spotify.com/track/1i0xJdgk6OZnBm63kMidof) | [Sunset Rubdown](https://open.spotify.com/artist/4kmq4NmMAD2EB24v6Il3qr), [Spencer Krug](https://open.spotify.com/artist/57ebZKL4lpVlngdaBDuQYG) | [Shut Up I Am Dreaming](https://open.spotify.com/album/0gCDLm62qhfpyBicm0AFsh) | 3:57 |
 | 730 | ['66: Wonder Where I'm From](https://open.spotify.com/track/2cG5SteTq3agEiGzoXOa14) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [50 Song Memoir](https://open.spotify.com/album/2b3JjOvKw9UN47ND80Tvri) | 2:44 |
 | 731 | [Erotica](https://open.spotify.com/track/1dBS4iejXWbLZyGpMejc1A) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Erotica Veronica](https://open.spotify.com/album/4qhA5QaHjGtDptQf2DMXTQ) | 3:13 |
+| 732 | [Eureka 378\-B](https://open.spotify.com/track/04G8S4DhyfpsmwWbFmc4fY) | [Horse Lords](https://open.spotify.com/artist/0Oslq5zLftqRVwKseBJ7MV), [Nina Guo](https://open.spotify.com/artist/1dS1OQtTGCVmkaJanOpRA0), [Evelyn Saylor](https://open.spotify.com/artist/41T8k3OwxjwiIG8WfpU3Kr), [Madison Greenstone](https://open.spotify.com/artist/5PkPi1lRFf74AC9dpr8fNI), [Weston Olencki](https://open.spotify.com/artist/5VltHPo6anXZzrWcquJrMR) | [Demand to Be Taken to Heaven Alive!](https://open.spotify.com/album/3q8CQdpq57Xi0zXn5qlauk) | 0:56 |
 
-Snapshot ID: `AAAJNI8xHUQ8Ztu1tEYP/wSK1yJ0GFpk`
+Snapshot ID: `AAAJNVZURaQCuKowrOFc7kXDy+Bl0qHy`

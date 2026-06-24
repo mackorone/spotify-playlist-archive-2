@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPuUMfySOlJb.md) - [plain]
 | 24 | [Ee\-er](https://open.spotify.com/track/6j2bOHZKtXzVcytOse2Lmc) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [Throwing Bows](https://open.spotify.com/album/4eK0tskh6kKkNny0wRrqg3) | 2:24 |
 | 25 | [Paid My Dues](https://open.spotify.com/track/1dgGxvy8OsMBSrOclIN2Bg) | [Yung Pinch](https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ) | [4EVERFRIDAY SZN 4](https://open.spotify.com/album/71PJbNosy3eE6RhSTsjWnf) | 2:16 |
 | 26 | [Fliccin Up](https://open.spotify.com/track/4SGqmuv6pxaei3Silq8qaK) | [MBNel](https://open.spotify.com/artist/2aqdy2BLMhGFHhRb1ZbDCF) | [Fliccin Up](https://open.spotify.com/album/6C2rgMF06Uwkm9yokUo7X0) | 2:07 |
-| 27 | [No Stress](https://open.spotify.com/track/0HPlW2dfXiXGWJbKAPyHkZ) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Cut Ties](https://open.spotify.com/album/2KH8PHZCwSqFWiFOz2jzAy) | 2:14 |
-| 28 | [STARSTRUCK](https://open.spotify.com/track/25bsd4PQd6kFL0bE7xqY9M) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [STARSTRUCK](https://open.spotify.com/album/2cRQtKWMhcmoRwWR7IwnnP) | 2:57 |
+| 27 | [STARSTRUCK](https://open.spotify.com/track/25bsd4PQd6kFL0bE7xqY9M) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [STARSTRUCK](https://open.spotify.com/album/2cRQtKWMhcmoRwWR7IwnnP) | 2:57 |
+| 28 | [No Stress](https://open.spotify.com/track/0HPlW2dfXiXGWJbKAPyHkZ) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Cut Ties](https://open.spotify.com/album/2KH8PHZCwSqFWiFOz2jzAy) | 2:14 |
 | 29 | [Ski Ga Ski \(隙が好き\)](https://open.spotify.com/track/52QAsWTBhQOPBA83ZfFERg) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Ski Ga Ski \(隙が好き\)](https://open.spotify.com/album/6d9GgeqYFK8JYqhS6U8mwL) | 2:01 |
 | 30 | [Don't Waste Your Time](https://open.spotify.com/track/6ugwLnZak8lGnUqi8b8p15) | [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws) | [Pain Never Looked This Good \(Night\)](https://open.spotify.com/album/79OANKfJCQyPCEf2H51tkM) | 2:08 |
 | 31 | [heavy metal](https://open.spotify.com/track/2vpcuOcKoYoDlNNs0qGlpI) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [\#gigi](https://open.spotify.com/album/5yYtz3hPgOc2XAh5eDjDBa) | 2:23 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPuUMfySOlJb.md) - [plain]
 | 39 | [Love Affair](https://open.spotify.com/track/5sMJBNiyvqN0UviPH4x3wu) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [Hood Mona Lisa](https://open.spotify.com/album/2jYJnqma1UFlZz8OqTrsar) | 2:34 |
 | 40 | [FellInLoveWithAThug](https://open.spotify.com/track/1uVItMXV0MEM3h1XZSDQoH) | [Krimelife Ca$$](https://open.spotify.com/artist/0ZMIyR3pxywqRD66PVrhqj) | [Urban Legend](https://open.spotify.com/album/3dZFUb3lzP3U6sojUTYeme) | 1:53 |
 
-Snapshot ID: `AcU75AAAAADYcl9OwDY9u1tZUrKJeFu6`
+Snapshot ID: `AcVBSAAAAAC8syFl+ytIBa/s2qoeIZ+B`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9n1dvGkpvfI.md) - [plain]
 
 > Challenging norms, breaking boundaries with <a href="https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV?si=6\-HwIOsWQT2kyb\_uaBHpxw">Denzel Curry</a>, who shares the songs that shape his alternative spirit\. This is <a href=spotify:genre:0JQ5IMCbQBLnnDn497UHrz>COUNTER//CULTURE</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,355 likes - 31 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,360 likes - 31 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

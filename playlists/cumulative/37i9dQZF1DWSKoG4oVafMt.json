@@ -4675,6 +4675,32 @@
     },
     {
       "album": {
+        "name": "Dil Diyan Gallan (From \"Carry On Jatta 4\")",
+        "url": "https://open.spotify.com/album/5y5O5Dn7P25VHNsqBgt5r4"
+      },
+      "artists": [
+        {
+          "name": "B Praak",
+          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+        },
+        {
+          "name": "Happy Raikoti",
+          "url": "https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM"
+        },
+        {
+          "name": "Jatinder Shah",
+          "url": "https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205042,
+      "name": "Dil Diyan Gallan (From \"Carry On Jatta 4\")",
+      "url": "https://open.spotify.com/track/7C0Ta9M4lE9UerPZFEUG5q"
+    },
+    {
+      "album": {
         "name": "Dil Gaunda Firda",
         "url": "https://open.spotify.com/album/3ILEvzNb0DIcqGqbbqr09A"
       },
@@ -20916,7 +20942,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 223170,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/0C8gXIhQKwjF60aEZQPj5a"

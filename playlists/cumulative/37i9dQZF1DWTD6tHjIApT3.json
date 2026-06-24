@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: LANA",
+  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: \u8309\u3072\u308b",
   "name": "Women's Voice",
   "tracks": [
     {
@@ -8512,7 +8512,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 176906,
       "name": "DEAD CENTER",
       "url": "https://open.spotify.com/track/26mR5pRpqRqgSBZ6ZTR1ix"
@@ -13800,7 +13800,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 225533,
       "name": "Happy Ever After",
       "url": "https://open.spotify.com/track/6ht5QWPzQSQInoRN2v87Ac"
@@ -21202,7 +21202,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 176884,
       "name": "love was born",
       "url": "https://open.spotify.com/track/3cfAjESQCqNCsxPcvy5lJE"
@@ -28406,7 +28406,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 150726,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/2sT9opGdkzq1rKE9toXJTb"
@@ -32922,6 +32922,24 @@
       "duration_ms": 226591,
       "name": "SOS",
       "url": "https://open.spotify.com/track/0PyM2uuaQ0S8iI4KpElhnX"
+    },
+    {
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/6wNrAQ4w4SnU3fLnZpjQRp"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180773,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/7bVHnV7at3Bj8xdeSu6enh"
     },
     {
       "album": {
@@ -37685,6 +37703,24 @@
     },
     {
       "album": {
+        "name": "Twilight Twilight",
+        "url": "https://open.spotify.com/album/5xYb49Dtwuz5sAVKqtcpaO"
+      },
+      "artists": [
+        {
+          "name": "PiKi",
+          "url": "https://open.spotify.com/artist/0k24bjTbB2IUhV74mvSv4T"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202221,
+      "name": "Twilight Twilight",
+      "url": "https://open.spotify.com/track/2zDsbKzHDrxMeeDCasEHg6"
+    },
+    {
+      "album": {
         "name": "Twin Fates",
         "url": "https://open.spotify.com/album/3ZEzNh9z0j4bEesbpO5kr8"
       },
@@ -38182,6 +38218,24 @@
       "duration_ms": 190293,
       "name": "Utopia",
       "url": "https://open.spotify.com/track/6cUCa4fN3MC5FvqLGtXHQD"
+    },
+    {
+      "album": {
+        "name": "Something True",
+        "url": "https://open.spotify.com/album/1bgo77tuESW640bOZMfbgk"
+      },
+      "artists": [
+        {
+          "name": "Miu Sakamoto",
+          "url": "https://open.spotify.com/artist/53MtqYIMvV1Z2L6FCh9f3h"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261914,
+      "name": "Utsukushii Ame",
+      "url": "https://open.spotify.com/track/4P9tyhlKcrDhjoS9jaW9hk"
     },
     {
       "album": {
@@ -41374,7 +41428,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 232937,
       "name": "Your Sun",
       "url": "https://open.spotify.com/track/2DTfdQtql1IyVSaojbvzh2"
@@ -42918,7 +42972,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 275826,
       "name": "\u3046\u308b\u308f\u3057\u304d\u3072\u3068",
       "url": "https://open.spotify.com/track/1M3v8EIemHoCqEOautFldv"
@@ -49462,7 +49516,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 202428,
       "name": "\u30b0\u30ed\u30fc\u30ea\u30fc",
       "url": "https://open.spotify.com/track/08rrk9hExuHujD5CzNGO3b"
@@ -54864,6 +54918,28 @@
       "duration_ms": 238066,
       "name": "\u30ed\u30b9\u30bf\u30a4\u30e0",
       "url": "https://open.spotify.com/track/7iL5vjJdt8kD2hAXYE7iv4"
+    },
+    {
+      "album": {
+        "name": "Cinema",
+        "url": "https://open.spotify.com/album/6iKGgIPWAHykuvGWAU7nj3"
+      },
+      "artists": [
+        {
+          "name": "\u8309\u3072\u308b",
+          "url": "https://open.spotify.com/artist/5bWP5BvE7omi0VcYqs2S5R"
+        },
+        {
+          "name": "Billy Choi",
+          "url": "https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "\u30ed\u30b9\u30c8\u30e9\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/3qpUfBCfMzPvkAEiamCP2W"
     },
     {
       "album": {

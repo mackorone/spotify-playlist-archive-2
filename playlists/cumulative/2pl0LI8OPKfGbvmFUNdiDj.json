@@ -6387,6 +6387,24 @@
     },
     {
       "album": {
+        "name": "Rain Falls In The Night.",
+        "url": "https://open.spotify.com/album/6qNaBCOTlr5tsFe5rxsQY8"
+      },
+      "artists": [
+        {
+          "name": "TURN BLUE.",
+          "url": "https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256319,
+      "name": "Rain Falls In The Night.",
+      "url": "https://open.spotify.com/track/7BZCcc8ehQu34C5wD0qtvZ"
+    },
+    {
+      "album": {
         "name": "Ramounie",
         "url": "https://open.spotify.com/album/5595pglhwoIHAFB0PvmAKr"
       },
@@ -7950,6 +7968,24 @@
       "duration_ms": 143588,
       "name": "The Red Cha Cha",
       "url": "https://open.spotify.com/track/10DZ0KHJmt1PS0hVNIf6PT"
+    },
+    {
+      "album": {
+        "name": "The Show Must Go On",
+        "url": "https://open.spotify.com/album/64oFLRTDDU3PiNPsv1Pidj"
+      },
+      "artists": [
+        {
+          "name": "Madam Radar",
+          "url": "https://open.spotify.com/artist/6ujUWoIlmlQWODAb46LmE8"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218059,
+      "name": "The Show Must Go On",
+      "url": "https://open.spotify.com/track/5vz5HR8tJJwTMobjNIrM6w"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Anna and Vulkan + tutte le migliori novità indie 🇮🇹
 
-1,881 songs - 4 day 2 hr 13 min
+1,883 songs - 4 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -742,6 +742,7 @@
 | [il mare è un ricordo blu](https://open.spotify.com/track/6LpEJDIbm4ETjPVz7fUy3n) | [tinai](https://open.spotify.com/artist/4AV2jd35h0exNEklO9y5lP) | [il mare è un ricordo blu](https://open.spotify.com/album/29EqjhaB4ozyn7UVWNQOY5) | 3:34 | 2025-09-18 | 2025-10-10 |
 | [Il meglio di](https://open.spotify.com/track/0jwQ5MmNmKZAGuZmO5DnNW) | [Dodicianni](https://open.spotify.com/artist/3Hp4wEC9bnTXChIbsub0kX) | [Il meglio di](https://open.spotify.com/album/1kjTlPXf8y8uwHx8fLx178) | 2:22 | 2024-12-17 | 2025-01-24 |
 | [Il mercato degli abbagli](https://open.spotify.com/track/76ze0LlZyLUcjAPslRQmtD) | [Ribaltavapori](https://open.spotify.com/artist/2JiNAZmisuOT8EnYwpOhFs), [Acqua Distillata](https://open.spotify.com/artist/5qPCNyvxjgOXZMHrCbZIBF) | [Volume Uno + Due](https://open.spotify.com/album/44KFbDn8ntCNCkm2wfRHTP) | 3:47 | 2025-11-06 | 2025-12-05 |
+| [Il Mio Ideale](https://open.spotify.com/track/0m0h2c39bKzh8UlOoZL56m) | [tigerstate](https://open.spotify.com/artist/5IASPTbco70KYmxQwSg8E1) | [Il Mio Ideale](https://open.spotify.com/album/5IviosMWu7kOrBk4AE6O3R) | 3:25 | 2026-06-23 |  |
 | [IL MONDO FUORi : .\. ?](https://open.spotify.com/track/4KhQFg7o7JRJWiI8zQmxIf) | [EMMA](https://open.spotify.com/artist/7LmO2BJsbObtMqCPcpjjhq) | [ERA L’INIZIO](https://open.spotify.com/album/2RgzZRAkdstoKe6NgpTrga) | 4:17 | 2025-05-22 | 2025-07-11 |
 | [Il mondo in quel cofanetto](https://open.spotify.com/track/5YjpgZqKRfSvR8haog51M2) | [Primogenito](https://open.spotify.com/artist/5kFvZ6VFcWQehxrg2PI8Ce) | [Il mondo in quel cofanetto](https://open.spotify.com/album/73Ew0VyzDxZS1KRfcgBaYH) | 2:58 | 2026-04-23 | 2026-05-22 |
 | [Il mondo non ha gli occhi](https://open.spotify.com/track/59BXctKNyOByqpFA5oSwcS) | [Notlau](https://open.spotify.com/artist/3i25JvfCIGrr4IYCo7rg4V) | [Il mondo non ha gli occhi](https://open.spotify.com/album/1hSzN1SVGpmjAK2C4lGOAf) | 3:00 | 2025-07-03 | 2025-08-08 |
@@ -1384,6 +1385,7 @@
 | [quasi all'improvviso](https://open.spotify.com/track/6eocEEZLEKEArXqydsMZHO) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [quasi all'improvviso](https://open.spotify.com/album/61uYbqtTTArI1YrkNkDUiE) | 3:17 | 2025-07-03 | 2025-08-08 |
 | [Quasi Blu](https://open.spotify.com/track/4p814E87xWIycc6AxT0t1V) | [TROPICO](https://open.spotify.com/artist/11wRTRhOoRE8kcDgtAmuJW) | [Quasi Blu](https://open.spotify.com/album/4qSGnqPDAzw4I27U6YL9ZT) | 3:47 | 2026-01-29 | 2026-02-20 |
 | [Quel che eravamo](https://open.spotify.com/track/1DQeXngkIzbBRSMOS51a1Z) | [Alma](https://open.spotify.com/artist/7epvheVlqCydbScEM57mV6) | [Quel che eravamo](https://open.spotify.com/album/3JFgbuPO0sEht5lFwqrT5k) | 2:57 | 2024-11-12 | 2024-12-18 |
+| [Quel Sguardo \(Bergen Disco Baby\)](https://open.spotify.com/track/0Oq4jT9GJ79BOA1JSmLvax) | [tigerstate](https://open.spotify.com/artist/5IASPTbco70KYmxQwSg8E1) | [Quel Sguardo \(Bergen Disco Baby\)](https://open.spotify.com/album/3RrrJmCMKCKgY4u1mmvlHu) | 4:23 | 2026-06-23 |  |
 | [Quella Stanza di Paris](https://open.spotify.com/track/07QtsVtRaPEvJEX5YNfKat) | [carbeau](https://open.spotify.com/artist/5MOkquoZnhyJEcXBpVHR2j) | [Quella Stanza di Paris](https://open.spotify.com/album/5ZBjTD0K0cRZ1o4PVajH0u) | 4:02 | 2026-04-02 | 2026-05-08 |
 | [Quella via](https://open.spotify.com/track/6nbBNZTWI5dGK2uQd7SbOy) | [Caleydo](https://open.spotify.com/artist/0LQI1hrK6naJCuxcY0CNQG), [Bassi Maestro](https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX) | [PANOPTICON](https://open.spotify.com/album/3B0LcXquhi058WjL3EBZ86) | 2:41 | 2025-10-16 | 2025-11-14 |
 | [Quelli che ti danno la droga](https://open.spotify.com/track/2Ijqdi1hOCM9eZcYRyN6k8) | [Novamerica](https://open.spotify.com/artist/5jahvLO6L8sa94LsNxQQdy) | [Quelli che ti danno la droga](https://open.spotify.com/album/3OJs5JwUJ7Pf4G6zHclv5k) | 4:35 | 2025-10-16 | 2025-11-14 |

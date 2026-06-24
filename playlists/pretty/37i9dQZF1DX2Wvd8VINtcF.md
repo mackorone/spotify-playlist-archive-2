@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Jimi Somewhere & SAIAH✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,037 likes - 310 songs - 16 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,045 likes - 310 songs - 16 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 27 | [Not That Bitch](https://open.spotify.com/track/0CymDJg0OssX4hWpHrfuB4) | [Yuti](https://open.spotify.com/artist/2PQPBZUsdiz2pUewFnp8eY) | [Not That Bitch](https://open.spotify.com/album/59Ut1LRluyqYimnD2Njrpt) | 2:18 |
 | 28 | [lao shi](https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [lao shi](https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3) | 2:11 |
 | 29 | [Vertical](https://open.spotify.com/track/0ecQazzKkndVD8Ry9Orp9Q) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Vertical](https://open.spotify.com/album/5yE2axVMkK3AwGrAT7W1L3) | 2:36 |
-| 30 | [Song and Dance Man](https://open.spotify.com/track/2BH6mThxOpVQ8XxPt2IMbX) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Song and Dance Man + Let's Go Camping](https://open.spotify.com/album/6tK0tx6jfHQ7HoHBxtRpUA) | 2:17 |
+| 30 | [Song and dance man](https://open.spotify.com/track/2BH6mThxOpVQ8XxPt2IMbX) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Song and dance man + Let's go camping](https://open.spotify.com/album/6tK0tx6jfHQ7HoHBxtRpUA) | 2:17 |
 | 31 | [Sick Of Love \(Mura Masa Remix\)](https://open.spotify.com/track/2npfkuwONh6ZDKJqxyj7ob) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Sick Of Love \(Mura Masa Remix\)](https://open.spotify.com/album/4MH2cB8M1yl9Gnz8r8bR0n) | 5:34 |
 | 32 | [Baby It's Ok](https://open.spotify.com/track/0QeeLXQcpdj55gTu1X6JqR) | [Julia Sandstorm](https://open.spotify.com/artist/1TI4FT4B9A2viw05OLhMpm) | [Baby It's Ok](https://open.spotify.com/album/41Am8AHJNaKvibkc0VjhTO) | 4:46 |
 | 33 | [Massacre](https://open.spotify.com/track/473ImsIIIX3XxE5fr79wQ3) | [Murex](https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby) | [Massacre](https://open.spotify.com/album/2z3jdGl1joL7e7yhJLi9Nr) | 2:55 |

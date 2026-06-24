@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,312 likes - 188 songs - 10 hr 37 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,313 likes - 196 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -196,5 +196,13 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 186 | [Se partió en dos](https://open.spotify.com/track/11wp2EhxKh7EXVhSPOVyVl) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [La ansiedad](https://open.spotify.com/album/1ah03W8PU28iPd4KzTwltu) | 2:38 |
 | 187 | [My Private World Of Darkness](https://open.spotify.com/track/1qY6aiE9gPwb0ty748kGip) | [Purple Microdot](https://open.spotify.com/artist/7a8uvG9bm2pkf2BeVpJiB4) | [My Private World Of Darkness](https://open.spotify.com/album/1LAHkhsFyD6e88puBAb5Z3) | 2:25 |
 | 188 | [The Algorithm](https://open.spotify.com/track/6371cuqZyoz1FLvNDwgxmB) | [Jason Waroff](https://open.spotify.com/artist/1tAoX2x3TC1kp4eIewKZ77) | [The Algorithm](https://open.spotify.com/album/4TRPXfGwYOtQtdy0JpmGkk) | 2:11 |
+| 189 | [L'Umanità è Fottuta](https://open.spotify.com/track/4gUYaglPJoehIqWJ2W7zX5) | [Raven Note](https://open.spotify.com/artist/1NRJEUIwnBQBbxRGei4NOi) | [L'Umanità è Fottuta](https://open.spotify.com/album/3MW41UPWcFuliv8m90Zb4R) | 4:11 |
+| 190 | [Sommarn i mitt blod](https://open.spotify.com/track/6iBP2rjjCJcqt7ePYz9ErV) | [FALK](https://open.spotify.com/artist/1VvF9lnZujLwBlhfnA2RQr) | [Sommarn i mitt blod](https://open.spotify.com/album/3pnLECNV3u5d0vvzOCZgf2) | 3:46 |
+| 191 | [Future Paranoia](https://open.spotify.com/track/0JkVP9dN0djsS4j1aKMwZO) | [Philip Morgan Lewis](https://open.spotify.com/artist/6dttJ9KPpPk9qoo8mEWkR5) | [Future Paranoia](https://open.spotify.com/album/1X5EWN85z3URtBr5A0Msyd) | 2:22 |
+| 192 | [Le corde della vita \- Home Version](https://open.spotify.com/track/54KDE8ObwHuPXbp647z3Bq) | [Michele Blasco](https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW) | [Le corde della vita \(Home Version\)](https://open.spotify.com/album/2YZP47EHiWSjWHe25F82SJ) | 2:25 |
+| 193 | [Paranoid](https://open.spotify.com/track/7mEI3CpUWf7LdEah1QWYyW) | [RunAway](https://open.spotify.com/artist/5t9rt3N6KSShHHbvKewYSp) | [Paranoid](https://open.spotify.com/album/355kpn62Z3In51dBINK14M) | 3:29 |
+| 194 | [Little Rays Of Sunshine](https://open.spotify.com/track/5Vr2F37pEJJF5Bh98wiIPR) | [The Haze](https://open.spotify.com/artist/6iUcuJFopb8XcXduZjuGJe) | [Little Rays Of Sunshine](https://open.spotify.com/album/5369DhLq6cl4u04Vr5hxZE) | 4:37 |
+| 195 | [La buena estrella](https://open.spotify.com/track/0Ss2sEPUTuebKRm3ar3ow1) | [Raúl Cabo](https://open.spotify.com/artist/5A0xF7wdd6jdeirVtqjvF2) | [La buena estrella](https://open.spotify.com/album/3daVrAsJMotf1Yst8qGRC2) | 4:02 |
+| 196 | [Right Strangers](https://open.spotify.com/track/4Uf9TcySVvpW8GYFZSRXny) | [Elizabeth Lyon](https://open.spotify.com/artist/6oFX1JLm313V7XqpeYQ9tU) | [Right Strangers](https://open.spotify.com/album/20TDKFBw0CzcEaOY5MUuQt) | 3:11 |
 
-Snapshot ID: `AAAVPlEGzVmpz7dJxMqfiCSEYyDv+Tej`
+Snapshot ID: `AAAVRjNl+TMUmXR/ge8KxLB9l8oux7Uj`

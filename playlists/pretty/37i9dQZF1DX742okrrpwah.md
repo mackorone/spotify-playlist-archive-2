@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Franglish x KeBlack x iDS, Tyla et Angèle au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,296 likes - 104 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,271 likes - 104 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 96 | [Unbound](https://open.spotify.com/track/1Nxg47FghfUl6XB46WZwFc) | [Prince 85](https://open.spotify.com/artist/6ADNjKrreUUc181zsy4Cte), [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc) | [Unbound](https://open.spotify.com/album/1FQXkOnK5XYBaOvBSY5TIW) | 4:53 |
 | 97 | [Beautiful Noise In My Head](https://open.spotify.com/track/2GoLYTvdOKOTNJYOBUk7N6) | [Soul Wun](https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp) | [Beautiful Noise In My Head](https://open.spotify.com/album/27gneoLHvNb0VWRWUd1K8N) | 3:31 |
 | 98 | [Grease Baby](https://open.spotify.com/track/7CzAEvBvbEqZfFQlkDSQ6G) | [Clutter](https://open.spotify.com/artist/5HnivENHHPzXpjX0SIRVGq) | [Grease Baby](https://open.spotify.com/album/290EU7vFhTDJ9cckHP6gEh) | 3:17 |
-| 99 | [1,2,3 SOLEIL](https://open.spotify.com/track/7HiQTpYPeJ2xWfPyznxw8g) | [Lulu Gainsbourg](https://open.spotify.com/artist/5W38lYXVLIEfyTFBQKTfmX), [Polocorp](https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ) | [1,2,3 SOLEIL](https://open.spotify.com/album/1XbAvtBcelHbg0rxwhqXW7) | 3:14 |
+| 99 | [1,2,3 Soleil](https://open.spotify.com/track/7HiQTpYPeJ2xWfPyznxw8g) | [Lulu Gainsbourg](https://open.spotify.com/artist/5W38lYXVLIEfyTFBQKTfmX), [Polocorp](https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ) | [1,2,3 Soleil](https://open.spotify.com/album/1XbAvtBcelHbg0rxwhqXW7) | 3:14 |
 | 100 | [Leviathan](https://open.spotify.com/track/5aszFyUeoKHAI4FxaQ7lPy) | [Hunter As a Horse](https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F) | [Leviathan](https://open.spotify.com/album/41f1PgklBN9dmuc3FHfobl) | 3:01 |
 | 101 | [Mon amour](https://open.spotify.com/track/0turvlmG4zdvkCWlsVMXNX) | [Kemmler](https://open.spotify.com/artist/7hChnO6TKesBmtbTFFjYbP), [Naë](https://open.spotify.com/artist/0B3klp4sg7D2YYsKWwLvzh) | [Mon amour](https://open.spotify.com/album/7ibKz6e18haIDomfceIPCV) | 2:10 |
 | 102 | [L'Amour ouf](https://open.spotify.com/track/2ZUydHS8IZtkdE6ktG2LUr) | [GS](https://open.spotify.com/artist/5rtvBFj4IeWDwKjf9cmeKv) | [L'Amour ouf](https://open.spotify.com/album/5RA29rprKtv5lzKoVxLucj) | 2:02 |

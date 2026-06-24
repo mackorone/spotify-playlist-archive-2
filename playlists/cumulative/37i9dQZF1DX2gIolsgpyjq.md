@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Nordics](https://open.spotify.com/playlist/37i9dQZF1DX2gIolsgpyjq)
 
-> The best new music by independent artists in the Nordics\. Cover: Yuti
+> The best new music by independent artists in the Nordics\. Cover: Clutter
 
-1,654 songs - 3 day 14 hr 57 min
+1,657 songs - 3 day 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [24](https://open.spotify.com/track/0ZnkDx3ETPMxL221AAlLFI) | [KALENA](https://open.spotify.com/artist/2HMhMpGsN9POmGXvvN1WZB), [Whose Rules](https://open.spotify.com/artist/3GAycRSOI4PRxEe6e1Ci8j) | [24](https://open.spotify.com/album/03KtF2hQY7n2JffouqyLP8) | 3:36 | 2024-03-07 | 2024-04-19 |
 | [24 Seconds](https://open.spotify.com/track/5lUPLEaIi28YjZ5OJ3jLoW) | [hi.jens](https://open.spotify.com/artist/1pa3THAd0q3skRNJEo8fof) | [24 Seconds](https://open.spotify.com/album/787K63lnUSljKPsm84AhcU) | 3:04 | 2024-04-04 | 2024-05-24 |
 | [25](https://open.spotify.com/track/1JhnFt8s8U69X4Mz0oV0uP) | [ louii lane](https://open.spotify.com/artist/0fvGg23DNfUvCS0dHT7g8v) | [25](https://open.spotify.com/album/6oYKdE9V4G2glbCL7IONTR) | 2:43 | 2025-05-29 | 2025-07-18 |
-| [3 days](https://open.spotify.com/track/76hFGJEkcSdG1PhO6QSD0e) | [alma](https://open.spotify.com/artist/12ohBmDYK1nr9HyfpxE6RF), [TANTAN](https://open.spotify.com/artist/1cievhIWm14RMdJPC57gYi) | [POINT 23](https://open.spotify.com/album/2bsj0qo3zY2lY6vYPOogmX) | 2:50 | 2026-04-28 |  |
+| [3 days](https://open.spotify.com/track/76hFGJEkcSdG1PhO6QSD0e) | [alma](https://open.spotify.com/artist/12ohBmDYK1nr9HyfpxE6RF), [TANTAN](https://open.spotify.com/artist/1cievhIWm14RMdJPC57gYi) | [POINT 23](https://open.spotify.com/album/2bsj0qo3zY2lY6vYPOogmX) | 2:50 | 2026-04-28 | 2026-06-24 |
 | [3000](https://open.spotify.com/track/2K2kvzUvkoX9vSy7Sg6Z5h) | [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov), [Miso Extra](https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg) | [3000](https://open.spotify.com/album/0REUr33wXm6LWBoI8KpAfg) | 2:01 | 2025-09-11 | 2025-10-24 |
 | [4 AM](https://open.spotify.com/track/1vj5nnNBEb5FtuTAWVYW3p) | [ABSA](https://open.spotify.com/artist/5PmcTypQOqWbhp6kDeuU2K) | [4 AM](https://open.spotify.com/album/2Cwzzk8owwPB5B15aiIcLm) | 2:23 | 2024-02-08 | 2024-02-23 |
 | [4:30 sunrise](https://open.spotify.com/track/7odU8oA1YDbpCPVXRmLbhE) | [k's scenario](https://open.spotify.com/artist/3y8iWAfSqtRPnpkUMWGXeH) | [Patterns](https://open.spotify.com/album/70oGq4YODFIfHMPAaodtL4) | 1:16 | 2024-05-02 | 2024-05-24 |
@@ -286,7 +286,7 @@
 | [complicated](https://open.spotify.com/track/4lVTnr00keBdeulHL7WZX8) | [Zaber](https://open.spotify.com/artist/7jZNtc3E1rKChS858rNlGb), [Solina](https://open.spotify.com/artist/30aS844d1Z9H1wjYvoPr9q) | [complicated](https://open.spotify.com/album/2l4J66sIxiLPp4AD5Dsn7R) | 2:43 | 2025-02-06 | 2025-02-28 |
 | [Conflicted](https://open.spotify.com/track/57EfCHzNNPppPHkMPA02KP) | [zivve](https://open.spotify.com/artist/4uBfAtQBqmCA5dwvU6cq7v), [Jay Kim](https://open.spotify.com/artist/6imBIUT38VebSD6K6N6cN6) | [Conflicted \(with Jay Kim\)](https://open.spotify.com/album/3P3K29jbPBDsfqGEz1WBzX) | 3:00 | 2024-04-11 | 2024-04-19 |
 | [Confusing \(Summertime\)](https://open.spotify.com/track/3N9q12W1U4cyz1SNfy3N7p) | [plotones](https://open.spotify.com/artist/2uiobStTvqQjT30aHqnUKl), [4lex](https://open.spotify.com/artist/5Y3TAUyFG5nZpYVecDRtZ1) | [Confusing \(Summertime\)](https://open.spotify.com/album/7vm83d0tz31e5LFKLQ76tj) | 3:12 | 2025-05-22 | 2025-06-20 |
-| [Conor](https://open.spotify.com/track/4UMaclARcQjCBQoPQHAwr3) | [MAMI UMAMI](https://open.spotify.com/artist/1gXudtIPsBxon00193AQb9) | [AFTERwork](https://open.spotify.com/album/6vWoj3VIogiTj8F6DBSn2j) | 3:18 | 2026-05-12 |  |
+| [Conor](https://open.spotify.com/track/4UMaclARcQjCBQoPQHAwr3) | [MAMI UMAMI](https://open.spotify.com/artist/1gXudtIPsBxon00193AQb9) | [AFTERwork](https://open.spotify.com/album/6vWoj3VIogiTj8F6DBSn2j) | 3:18 | 2026-05-12 | 2026-06-24 |
 | [CONTROL](https://open.spotify.com/track/0xtZ8zIohJJoRGegv6xYSV) | [Martin Wave](https://open.spotify.com/artist/4edEKYyKxQBrI5InlgmcsN), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ), [Cappa](https://open.spotify.com/artist/1LCPvGsQVJUQE8oyIRihHh) | [CONTROL](https://open.spotify.com/album/2XHVG7UjUCLkFZN8RR4tqI) | 2:35 | 2025-05-29 | 2025-06-27 |
 | [Cookie](https://open.spotify.com/track/2VXQpEvGSxrCXzhll9f6UK) | [Kenton Slash Demon](https://open.spotify.com/artist/6c9QzUS4FsfkV31t39lnbU) | [Cookie / Janni](https://open.spotify.com/album/27bDAbwdcm0lA1wZxGEOUT) | 3:26 | 2024-12-04 | 2025-01-03 |
 | [Cookie](https://open.spotify.com/track/4gstZtZtXLXv0Uo8FzFpGV) | [Kenton Slash Demon](https://open.spotify.com/artist/6c9QzUS4FsfkV31t39lnbU) | [Cookie / Janni](https://open.spotify.com/album/0bx32q9kylq1PiLkCHbsQq) | 3:26 | 2024-08-22 | 2024-11-08 |
@@ -404,7 +404,7 @@
 | [Eduardo made a new friend today](https://open.spotify.com/track/2FbPKlQ56pBpMFtKTV3zdi) | [Hosiannah](https://open.spotify.com/artist/0NJjvhC9pJiUNTK8OUkVIq) | [Eduardo made a new friend today](https://open.spotify.com/album/0qL0cfgq3HE7y7HLj4lKNN) | 3:13 | 2024-02-08 | 2024-02-16 |
 | [eeelluminagee](https://open.spotify.com/track/3CNH1O6Yxyw9Hx9ewlSRdy) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [eeelluminagee](https://open.spotify.com/album/5z0tTAvea9bCu1yO6g6VXM) | 3:28 | 2026-05-26 |  |
 | [EGO DEATH](https://open.spotify.com/track/1Tl0wKnSoMgEgpa1jtYbfb) | [Frederik Valentin](https://open.spotify.com/artist/5xmip7jwRD4w1n5z7J0m5Y) | [EGO DEATH](https://open.spotify.com/album/6GWzfMuwHu8qOlm6aqgbXe) | 5:45 | 2024-07-25 | 2024-09-14 |
-| [Eleanor's Escape](https://open.spotify.com/track/21LcmaUSmbrzdxqHUEhi8B) | [100%WET](https://open.spotify.com/artist/00NfekFQ6GejpGDubQhgN2) | [Eleanor's Escape](https://open.spotify.com/album/639kU4PVltUCtPQOL7rNUL) | 4:16 | 2026-04-21 |  |
+| [Eleanor's Escape](https://open.spotify.com/track/21LcmaUSmbrzdxqHUEhi8B) | [100%WET](https://open.spotify.com/artist/00NfekFQ6GejpGDubQhgN2) | [Eleanor's Escape](https://open.spotify.com/album/639kU4PVltUCtPQOL7rNUL) | 4:16 | 2026-04-21 | 2026-06-24 |
 | [electric dream](https://open.spotify.com/track/3owm6kuLMIw8qOYuUB3HAT) | [Silent Boy](https://open.spotify.com/artist/6mF4BkHXn187nmDfA7d9Mu), [MASAKA](https://open.spotify.com/artist/6tn3C5xHZDyUoqd0yTPawY), [defyer](https://open.spotify.com/artist/4gzhQmub5TDvQ9cgvhvOUE) | [electric dream](https://open.spotify.com/album/61qNaShSguYm9aWHrqQmPs) | 2:43 | 2025-05-01 | 2025-06-20 |
 | [Elegantly](https://open.spotify.com/track/19AYjIGUoCQZAXQj9PJWo9) | [Joselin](https://open.spotify.com/artist/6QGSO53ZvBWWNInDC2anMt) | [Elegantly](https://open.spotify.com/album/328mBKq090GLmA8dkHZMwT) | 2:56 | 2024-04-04 | 2024-06-07 |
 | [Elin](https://open.spotify.com/track/0zhXmPOonnfX7P1gNosPiM) | [Agnes Skure](https://open.spotify.com/artist/3mSaNio38zjJkLyozP2hc0), [demekech](https://open.spotify.com/artist/1N6JyEBD4tbmqfLkXPP93l) | [Gazette](https://open.spotify.com/album/2xFrT3KiZm9iW14EY3Gs7n) | 3:52 | 2025-11-03 | 2026-02-20 |
@@ -728,6 +728,7 @@
 | [IGNORED](https://open.spotify.com/track/5juBv5OIT5ZMEiaVR0TqFN) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [IGNORED](https://open.spotify.com/album/7wMWXPQrL1LSMm0SNMBL4n) | 2:46 | 2025-01-02 | 2025-03-14 |
 | [Illusion](https://open.spotify.com/track/08IHvtg3uEKTxdF6MRi20d) | [Echo Thrills](https://open.spotify.com/artist/3ffR557vYU2mGUwk5Fs5hF) | [The Inner City](https://open.spotify.com/album/5UcxFtVIBjkmn6hOVtxlhI) | 3:00 | 2025-10-09 | 2026-01-16 |
 | [IMAGINE](https://open.spotify.com/track/4WTqC5TIHvLuixfQPBMYey) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [IMAGINE](https://open.spotify.com/album/7IEua4tyaqNGlJkeh96kgH) | 2:20 | 2025-04-10 | 2025-07-04 |
+| [Immortal](https://open.spotify.com/track/5CNRPSc33mEafkIZ6xgBVA) | [EILA](https://open.spotify.com/artist/17DPyFDjvLRiYFHgp9viFf) | [Immortal](https://open.spotify.com/album/0WrZnF3dHq0VNT0ZCUQIdC) | 3:22 | 2026-06-23 |  |
 | [immune](https://open.spotify.com/track/7ewa8T2zvdEMWSFG7cLl3E) | [sindr](https://open.spotify.com/artist/4UiuiDCLil74AvDoXjdpib) | [immune](https://open.spotify.com/album/7JB4xISNGadReKJYxSy69x) | 2:15 | 2024-02-08 | 2024-03-01 |
 | [Imperfect '99](https://open.spotify.com/track/4cgBiNTYIku5vTs0VVYnUR) | [Daghem](https://open.spotify.com/artist/1YcmK9yjLnTcze8VpKYcRi) | [Imperfect '99](https://open.spotify.com/album/1igfsyZaUupb7OzfIXnZfa) | 3:07 | 2025-05-22 | 2025-06-27 |
 | [In Between](https://open.spotify.com/track/6wfx1rPUG0siCZA252MEVu) | [Nedja](https://open.spotify.com/artist/0wEePcQsNMthoKEoNSMBIN) | [In Between](https://open.spotify.com/album/2Vpb2I8PoGW4PYkAP2y5Vd) | 3:18 | 2026-05-05 |  |
@@ -778,6 +779,7 @@
 | [Keep It Simple](https://open.spotify.com/track/2GLypzkTRcrdn1bRDOi25E) | [Melr](https://open.spotify.com/artist/6AGtYsLIZrn8KbtrJUP2Uu) | [Keep It Simple](https://open.spotify.com/album/42V3QZUhgYF2059NCTMg7u) | 3:02 | 2026-01-22 | 2026-04-02 |
 | [Keep on running off](https://open.spotify.com/track/2mgd2uGU3DWJG0NuR122Wh) | [Nowhere Blue](https://open.spotify.com/artist/4rSnpj0LK5jbdGUTKeBLzP) | [Keep on running off](https://open.spotify.com/album/5e172q7lNrtoi3BjDy58H1) | 3:00 | 2024-06-27 | 2024-08-23 |
 | [Keeper](https://open.spotify.com/track/0aAhF3VWaaseWphyipsgKk) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Keeper](https://open.spotify.com/album/6JgrgucMtrbkFrAhVUwxjP) | 3:45 | 2026-02-05 | 2026-04-02 |
+| [Kelly](https://open.spotify.com/track/5zg2SLq4J1w0y7n9TWP8s4) | [Kelly No Brakes](https://open.spotify.com/artist/0ZnVWrM636IZszLw8naK0V) | [Kelly](https://open.spotify.com/album/05y25pwHlCDzV03IBfJs7c) | 4:09 | 2026-06-23 |  |
 | [KIDZ](https://open.spotify.com/track/64vMHmKzRLACoIcRvtcY4D) | [AV AV AV](https://open.spotify.com/artist/0ElSSC4jDQ7mGvDZoAIafM) | [Need 4 Speed](https://open.spotify.com/album/7HaN6resQ87eey8nbhD811) | 3:42 | 2024-12-04 | 2025-01-03 |
 | [KIDZ](https://open.spotify.com/track/6fnPB3xEaMwWbXIFsLK5bu) | [AV AV AV](https://open.spotify.com/artist/0ElSSC4jDQ7mGvDZoAIafM) | [KIDZ](https://open.spotify.com/album/3PKpaLHUBdIQmTm4rgroQ7) | 3:42 | 2024-09-26 | 2024-10-25 |
 | [Kill 4 My Love](https://open.spotify.com/track/23HsoLYrP624nAcQGHlgTT) | [Neon Priest](https://open.spotify.com/artist/2ABpmoGVflrSQ8thdBjyrU) | [Kill 4 My Love](https://open.spotify.com/album/0q1TfBkFwK41WDktWRhPWD) | 3:08 | 2024-11-28 | 2025-01-31 |
@@ -1411,6 +1413,7 @@
 | [Ta\-Dah](https://open.spotify.com/track/5rIm1xHHnN9kx7VKENe2AE) | [Kinck](https://open.spotify.com/artist/3WIqCpjYUrR2Bt9rFYNaej) | [Ta\-Dah](https://open.spotify.com/album/4dYbcrZPMtx8xx2cklO9VI) | 2:30 | 2024-02-15 | 2024-03-22 |
 | [Take A Walk](https://open.spotify.com/track/1Sd05WKDL1UfoFiA1TOW6L) | [Fig Tape](https://open.spotify.com/artist/44kJG3Qy0qN3xmoogcJU2Z) | [Take A Walk](https://open.spotify.com/album/5TUPt6XwD9k6gzttJfNMtR) | 2:17 | 2024-10-10 | 2025-01-03 |
 | [Take It Back](https://open.spotify.com/track/1ANmeH8rwhldXh2GkEBJRm) | [HANN3R](https://open.spotify.com/artist/3cplLQ8cd7oHYbczpbrKrc) | [Take It Back](https://open.spotify.com/album/5PLtdAGcJIdKdWAaVwi4Ew) | 2:38 | 2025-05-16 | 2025-06-13 |
+| [Take It Back](https://open.spotify.com/track/5CcAW1JbWEKPvFRaUpNfhO) | [Laura Amelia](https://open.spotify.com/artist/2Kpn9jES3PeAJlkmZXvito) | [Take It Back](https://open.spotify.com/album/66aSe9KA1o5ugmcR644Mxh) | 2:50 | 2026-06-23 |  |
 | [Take It Down](https://open.spotify.com/track/0xavN6Reg9HDdJNe6yfiRU) | [WIN WIN](https://open.spotify.com/artist/7iBrlNg54cJghrZBVrq3Yt) | [Take It Down](https://open.spotify.com/album/5YA9fM3Mld9I6q6ey1urCH) | 2:45 | 2025-03-06 | 2025-04-04 |
 | [Take Me To The Altar](https://open.spotify.com/track/5wXG16j2RKCLN5QBTJdY8z) | [Fig Tape](https://open.spotify.com/artist/44kJG3Qy0qN3xmoogcJU2Z) | [Take Me To The Altar](https://open.spotify.com/album/5XFYYQxyC5Rb5vtFGxhJVn) | 2:36 | 2025-10-09 | 2025-12-04 |
 | [Take Your Time](https://open.spotify.com/track/3aQoJe0eLWyDJKWACYVyOB) | [EILA](https://open.spotify.com/artist/17DPyFDjvLRiYFHgp9viFf), [Hetty\-Lo](https://open.spotify.com/artist/5sAFICy9VevH6Sfa3xEvXf) | [Play n Repeat](https://open.spotify.com/album/3Cc2VM4VaAfG7hlTGdU3jS) | 2:02 | 2025-11-27 | 2026-03-20 |

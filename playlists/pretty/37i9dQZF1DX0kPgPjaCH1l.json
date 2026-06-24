@@ -1,6 +1,6 @@
 {
   "description": "Baba God, run am \ud83d\ude4f. \nCover:  Asake",
-  "num_followers": 93455,
+  "num_followers": 93600,
   "original_name": "afro adura ",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,22 @@
     {
       "added_at": "2026-06-12 00:01:55",
       "album": {
+        "name": "Do Better",
+        "url": "https://open.spotify.com/album/1HhTifDRrTEGVBkpMZQj2u"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        }
+      ],
+      "duration_ms": 162063,
+      "name": "Do Better",
+      "url": "https://open.spotify.com/track/4aeLgBOtKtYC9UNMfaqtwD"
+    },
+    {
+      "added_at": "2026-06-12 00:01:55",
+      "album": {
         "name": "Uzo Ano",
         "url": "https://open.spotify.com/album/5ZxsefAXL0pCtv9E0pkXYL"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 218181,
       "name": "Uzo Ano",
       "url": "https://open.spotify.com/track/70Y5c9SimCfgEiO4koOPIo"
-    },
-    {
-      "added_at": "2026-06-12 00:01:55",
-      "album": {
-        "name": "Do Better",
-        "url": "https://open.spotify.com/album/1HhTifDRrTEGVBkpMZQj2u"
-      },
-      "artists": [
-        {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
-        }
-      ],
-      "duration_ms": 162063,
-      "name": "Do Better",
-      "url": "https://open.spotify.com/track/4aeLgBOtKtYC9UNMfaqtwD"
     },
     {
       "added_at": "2026-06-12 00:01:55",
@@ -679,26 +679,6 @@
     {
       "added_at": "2026-06-12 00:01:55",
       "album": {
-        "name": "ARA",
-        "url": "https://open.spotify.com/album/7fluxAs5HSUVmyChevBl2W"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Ara (600M)",
-      "url": "https://open.spotify.com/track/7oHYgZelWF1QOTCtR75rnj"
-    },
-    {
-      "added_at": "2026-06-12 00:01:55",
-      "album": {
         "name": "Lonely Road",
         "url": "https://open.spotify.com/album/4zldXsyHbRQL9nP17xiFom"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 157538,
       "name": "Lonely Road",
       "url": "https://open.spotify.com/track/2aCskdq9N9RczrwEujAV13"
+    },
+    {
+      "added_at": "2026-06-12 00:01:55",
+      "album": {
+        "name": "ARA",
+        "url": "https://open.spotify.com/album/7fluxAs5HSUVmyChevBl2W"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Ara (600M)",
+      "url": "https://open.spotify.com/track/7oHYgZelWF1QOTCtR75rnj"
     },
     {
       "added_at": "2026-06-12 00:01:55",
@@ -1035,18 +1035,22 @@
     {
       "added_at": "2026-06-12 00:01:55",
       "album": {
-        "name": "Feel Good",
-        "url": "https://open.spotify.com/album/3SYYiw2TfVVlau3XAu5NHG"
+        "name": "Adura",
+        "url": "https://open.spotify.com/album/0Q4hbbDXyxsSQz5wWUNMe1"
       },
       "artists": [
         {
           "name": "Mohbad",
           "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 169813,
-      "name": "Feel Good",
-      "url": "https://open.spotify.com/track/0int0g8dikLn0uhd1b1iZu"
+      "duration_ms": 191193,
+      "name": "Adura",
+      "url": "https://open.spotify.com/track/1oK5IICHx1MLPdmvpA1V2j"
     },
     {
       "added_at": "2026-06-12 00:01:55",
@@ -1115,22 +1119,18 @@
     {
       "added_at": "2026-06-12 00:01:55",
       "album": {
-        "name": "Adura",
-        "url": "https://open.spotify.com/album/0Q4hbbDXyxsSQz5wWUNMe1"
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/3SYYiw2TfVVlau3XAu5NHG"
       },
       "artists": [
         {
           "name": "Mohbad",
           "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 191193,
-      "name": "Adura",
-      "url": "https://open.spotify.com/track/1oK5IICHx1MLPdmvpA1V2j"
+      "duration_ms": 169813,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/0int0g8dikLn0uhd1b1iZu"
     },
     {
       "added_at": "2026-06-12 00:01:55",

@@ -6,7 +6,7 @@
     "name": "BennyE456",
     "url": "https://open.spotify.com/user/bennyellison4"
   },
-  "snapshot_id": "AAAJ98pvYrZX4VkOdidgRBO0kFMJ2qSM",
+  "snapshot_id": "AAAJ+YNQHQbpFmQLqCUDBVim7v3Mhlu2",
   "tracks": [
     {
       "added_at": "2019-06-08 21:56:13",
@@ -21671,6 +21671,38 @@
       "duration_ms": 275936,
       "name": "the feeling",
       "url": "https://open.spotify.com/track/3SoarlzPEiF7NgSeGsh44S"
+    },
+    {
+      "added_at": "2026-06-23 17:06:02",
+      "album": {
+        "name": "Baby Steps",
+        "url": "https://open.spotify.com/album/172FBTtpqNv9blWGkjgmvP"
+      },
+      "artists": [
+        {
+          "name": "Quadeca",
+          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
+        }
+      ],
+      "duration_ms": 238658,
+      "name": "Baby Steps",
+      "url": "https://open.spotify.com/track/40eANvl45mhgwEHL5pHHSn"
+    },
+    {
+      "added_at": "2026-06-23 17:33:35",
+      "album": {
+        "name": "Hummer",
+        "url": "https://open.spotify.com/album/0EdUCo0oxkBCpNK5EM1hfs"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 361631,
+      "name": "Hummer",
+      "url": "https://open.spotify.com/track/1GfEpihzfbV6HFt21JA1dz"
     }
   ],
   "unique_name": "The True Benny Mix",

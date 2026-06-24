@@ -1,6 +1,6 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 345030,
+  "num_followers": 345053,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Network Entities",
+        "url": "https://open.spotify.com/album/6B8OPdnxgB6NfsHiHTtjtd"
+      },
+      "artists": [
+        {
+          "name": "Incorporeal Visions Deluxe",
+          "url": "https://open.spotify.com/artist/6oN8dTpjc9s7SfQOuTt87e"
+        }
+      ],
+      "duration_ms": 141666,
+      "name": "\u8a69 Desktop",
+      "url": "https://open.spotify.com/track/7nrBvBSt6NdhL3LO6P38gf"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Lynx",
         "url": "https://open.spotify.com/album/6bWCczrlwsGGc9B8wCFair"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 201933,
       "name": "Lynx",
       "url": "https://open.spotify.com/track/07RjOHhgQG6FsQHZhfcNdv"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Network Entities",
-        "url": "https://open.spotify.com/album/6B8OPdnxgB6NfsHiHTtjtd"
-      },
-      "artists": [
-        {
-          "name": "Incorporeal Visions Deluxe",
-          "url": "https://open.spotify.com/artist/6oN8dTpjc9s7SfQOuTt87e"
-        }
-      ],
-      "duration_ms": 141666,
-      "name": "\u8a69 Desktop",
-      "url": "https://open.spotify.com/track/7nrBvBSt6NdhL3LO6P38gf"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "\u56da\u4eba",
-        "url": "https://open.spotify.com/album/6jK1pKKMjVaRAPGKtdrHW9"
-      },
-      "artists": [
-        {
-          "name": "desert sand feels warm at night",
-          "url": "https://open.spotify.com/artist/31krAdMGlK6qGv5TCF7e9P"
-        }
-      ],
-      "duration_ms": 320462,
-      "name": "\u5e7d\u970a",
-      "url": "https://open.spotify.com/track/5k4CETgejw6DSDTfqXvTba"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "\u9752\u6625\u306e\u4f11\u6687",
         "url": "https://open.spotify.com/album/6G9BSnNfs463Zk6T6dccAu"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 263592,
       "name": "\u9752\u6625\u306e\u4f11\u6687",
       "url": "https://open.spotify.com/track/7icvWRCrYM2amuNzni6oNC"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "\u56da\u4eba",
+        "url": "https://open.spotify.com/album/6jK1pKKMjVaRAPGKtdrHW9"
+      },
+      "artists": [
+        {
+          "name": "desert sand feels warm at night",
+          "url": "https://open.spotify.com/artist/31krAdMGlK6qGv5TCF7e9P"
+        }
+      ],
+      "duration_ms": 320462,
+      "name": "\u5e7d\u970a",
+      "url": "https://open.spotify.com/track/5k4CETgejw6DSDTfqXvTba"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Dusty Shelves",
-        "url": "https://open.spotify.com/album/2QK8zPoWilHGHS0nmqWuKf"
-      },
-      "artists": [
-        {
-          "name": "NNTYTUU",
-          "url": "https://open.spotify.com/artist/1DbJR3WnrE6zQ5XIuLx8mD"
-        }
-      ],
-      "duration_ms": 156230,
-      "name": "Entrust",
-      "url": "https://open.spotify.com/track/0hjuajTmKw9mRhdVmP2h6R"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Tropics 1",
         "url": "https://open.spotify.com/album/1B0OTswqyimuHF5OEI4uyO"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 208831,
       "name": "Oso",
       "url": "https://open.spotify.com/track/7KTCqS2ABjYUfEXRm4w8SV"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Dusty Shelves",
+        "url": "https://open.spotify.com/album/2QK8zPoWilHGHS0nmqWuKf"
+      },
+      "artists": [
+        {
+          "name": "NNTYTUU",
+          "url": "https://open.spotify.com/artist/1DbJR3WnrE6zQ5XIuLx8mD"
+        }
+      ],
+      "duration_ms": 156230,
+      "name": "Entrust",
+      "url": "https://open.spotify.com/track/0hjuajTmKw9mRhdVmP2h6R"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Body Double",
-        "url": "https://open.spotify.com/album/4Jp57xuKXR8Q2WiZtXLiHJ"
-      },
-      "artists": [
-        {
-          "name": "18 Carat Affair",
-          "url": "https://open.spotify.com/artist/0va8U409dr4gA1zQ2gSnD5"
-        }
-      ],
-      "duration_ms": 91593,
-      "name": "Private Eyes",
-      "url": "https://open.spotify.com/track/7fZY8y8RwAYpdDCsF4ELJm"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Polygon Paradise",
         "url": "https://open.spotify.com/album/2nsz0P9PDU6iYEMY1EPuK5"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 140678,
       "name": "Monogon",
       "url": "https://open.spotify.com/track/60r9DrLtGACy95pTVVLw2a"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Body Double",
+        "url": "https://open.spotify.com/album/4Jp57xuKXR8Q2WiZtXLiHJ"
+      },
+      "artists": [
+        {
+          "name": "18 Carat Affair",
+          "url": "https://open.spotify.com/artist/0va8U409dr4gA1zQ2gSnD5"
+        }
+      ],
+      "duration_ms": 91593,
+      "name": "Private Eyes",
+      "url": "https://open.spotify.com/track/7fZY8y8RwAYpdDCsF4ELJm"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "You're no one",
+        "url": "https://open.spotify.com/album/2L642n3LEGg6XVAwHq58UR"
+      },
+      "artists": [
+        {
+          "name": "Somburd",
+          "url": "https://open.spotify.com/artist/6wcT73JBleLHxOuXSURwi7"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "You're no one",
+      "url": "https://open.spotify.com/track/2BN6fLHHoqZJt4QCFiSEJp"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "\u264d\ufe0e\u2752\ufe0e\u2353\ufe0e\u2b27\ufe0e\u29eb\ufe0e\u264b\ufe0e\u25cf\ufe0e \u264c\ufe0e\u264b\ufe0e\u25cf\ufe0e\u25cf\ufe0e",
         "url": "https://open.spotify.com/album/5p4jf5AH2qd8NlLZOWKfOE"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 176000,
       "name": "\u264d\ufe0e\u2752\ufe0e\u2353\ufe0e\u2b27\ufe0e\u29eb\ufe0e\u264b\ufe0e\u25cf\ufe0e \u264c\ufe0e\u264b\ufe0e\u25cf\ufe0e\u25cf\ufe0e",
       "url": "https://open.spotify.com/track/6KVCMAVyNw88EP3IIwK4MD"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "You're no one",
-        "url": "https://open.spotify.com/album/2L642n3LEGg6XVAwHq58UR"
-      },
-      "artists": [
-        {
-          "name": "Somburd",
-          "url": "https://open.spotify.com/artist/6wcT73JBleLHxOuXSURwi7"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "You're no one",
-      "url": "https://open.spotify.com/track/2BN6fLHHoqZJt4QCFiSEJp"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Sports",
+        "url": "https://open.spotify.com/album/5UVd1H64YlB3Z5gnDXa8og"
+      },
+      "artists": [
+        {
+          "name": "SPORTSGIRL",
+          "url": "https://open.spotify.com/artist/2gj2a0b2PhwlDaQerfUoES"
+        }
+      ],
+      "duration_ms": 306000,
+      "name": "Tennis",
+      "url": "https://open.spotify.com/track/5BBZrCQzJBKt3zLhlQFStc"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Fever Dream (slowed + reverb)",
         "url": "https://open.spotify.com/album/4SrcOmKDUSAQHWLjixQ3OJ"
       },
@@ -1619,18 +1635,34 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Sports",
-        "url": "https://open.spotify.com/album/5UVd1H64YlB3Z5gnDXa8og"
+        "name": "Tropics 1",
+        "url": "https://open.spotify.com/album/1B0OTswqyimuHF5OEI4uyO"
       },
       "artists": [
         {
-          "name": "SPORTSGIRL",
-          "url": "https://open.spotify.com/artist/2gj2a0b2PhwlDaQerfUoES"
+          "name": "AURAGRAPH",
+          "url": "https://open.spotify.com/artist/6yR7RysQJaTayvmT0Bx8zt"
         }
       ],
-      "duration_ms": 306000,
-      "name": "Tennis",
-      "url": "https://open.spotify.com/track/5BBZrCQzJBKt3zLhlQFStc"
+      "duration_ms": 215930,
+      "name": "Spring Water",
+      "url": "https://open.spotify.com/track/1ulOpZGsWSZcaBQd1diOj8"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Emotion",
+        "url": "https://open.spotify.com/album/3PQy1c37dHOzPfd2PLbRT4"
+      },
+      "artists": [
+        {
+          "name": "Surfing",
+          "url": "https://open.spotify.com/artist/2vTrzq2s1adq6MrQ5mdQNj"
+        }
+      ],
+      "duration_ms": 177625,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/2OfHkj98A1QC2WXxrfH56F"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1663,38 +1695,6 @@
       "duration_ms": 277570,
       "name": "\u65b0\u3057\u3044\u6642\u4ee3, Yes!",
       "url": "https://open.spotify.com/track/4UGeYxP5W5sVf0UUblKahK"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Emotion",
-        "url": "https://open.spotify.com/album/3PQy1c37dHOzPfd2PLbRT4"
-      },
-      "artists": [
-        {
-          "name": "Surfing",
-          "url": "https://open.spotify.com/artist/2vTrzq2s1adq6MrQ5mdQNj"
-        }
-      ],
-      "duration_ms": 177625,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/2OfHkj98A1QC2WXxrfH56F"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Tropics 1",
-        "url": "https://open.spotify.com/album/1B0OTswqyimuHF5OEI4uyO"
-      },
-      "artists": [
-        {
-          "name": "AURAGRAPH",
-          "url": "https://open.spotify.com/artist/6yR7RysQJaTayvmT0Bx8zt"
-        }
-      ],
-      "duration_ms": 215930,
-      "name": "Spring Water",
-      "url": "https://open.spotify.com/track/1ulOpZGsWSZcaBQd1diOj8"
     },
     {
       "added_at": "2023-07-18 02:19:19",

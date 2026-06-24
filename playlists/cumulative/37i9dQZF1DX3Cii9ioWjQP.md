@@ -2,9 +2,9 @@
 
 ### [Jazzy Korea](https://open.spotify.com/playlist/37i9dQZF1DX3Cii9ioWjQP)
 
-> All about Korean Jazz hits & new \(Cover: Youn Sun Nah \(나윤선\)\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
+> All about Korean Jazz hits & new \(Cover: Haewon Moon\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
 
-282 songs - 19 hr 37 min
+283 songs - 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [A Finite time](https://open.spotify.com/track/1cGYyqTaHbuv0R472C9bLT) | [Heemin Chae](https://open.spotify.com/artist/4n6gUX8ldyO9nBHGPCnwKy) | [A Finite time](https://open.spotify.com/album/6eGJky3HqQ0sLH7zUjBLuI) | 4:27 | 2023-07-19 | 2025-02-19 |
 | [A good thing](https://open.spotify.com/track/5wshBiqIBASdItBlwSN1PI) | [Yeseul Kim](https://open.spotify.com/artist/4u6LWxsANEMNmE1KJo49Ci) | [A good thing](https://open.spotify.com/album/6DkBOdtTIfMAdKl2JZ1wwk) | 5:28 | 2023-03-31 | 2024-11-07 |
 | [A Lovers’ Waltz](https://open.spotify.com/track/0Wbt5XjJjCjGRoV4AZDIPj) | [Minna Seo](https://open.spotify.com/artist/783H2R3PrEaeM1WHym8B4R) | [A Lovers’ Waltz](https://open.spotify.com/album/4kqczxhNOAsnR5V3aGzPm5) | 3:48 | 2024-01-19 | 2024-11-07 |
-| [A Map of Pain](https://open.spotify.com/track/7EVi83wWHOXQ6cTUITpPZD) | [Youn Sun Nah](https://open.spotify.com/artist/10tYA1kHmiT7kCfF6HX0Wj) | [Lost Pieces](https://open.spotify.com/album/6se9CvfskawVxCslsdaINh) | 3:53 | 2026-03-24 |  |
+| [A Map of Pain](https://open.spotify.com/track/7EVi83wWHOXQ6cTUITpPZD) | [Youn Sun Nah](https://open.spotify.com/artist/10tYA1kHmiT7kCfF6HX0Wj) | [Lost Pieces](https://open.spotify.com/album/6se9CvfskawVxCslsdaINh) | 3:53 | 2026-03-24 | 2026-06-24 |
 | [A Snowy Field](https://open.spotify.com/track/1kjUqt4vCCjPgkEUM0cV81) | [LCY Project](https://open.spotify.com/artist/6X9H0aP7HNL2RKH6XKIX1i) | [A Snowy Field](https://open.spotify.com/album/1SOhk2ch54jORDdG7ZtPjv) | 3:24 | 2024-04-18 | 2024-11-28 |
 | [A Sorrowful Memory](https://open.spotify.com/track/1OXu0ppB1dUwwKMF9Un4q9) | [Ha Dong Yeon](https://open.spotify.com/artist/37HjETdZEtntIoddJLvk0C) | [Jinxed at First \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/6qfCrcFoQZSuKIoYvS0jn1) | 3:33 | 2022-07-08 | 2024-08-11 |
 | [actually i\`m from jazz](https://open.spotify.com/track/0r4ko5ssD3NFWed4YimMbW) | [Coa White](https://open.spotify.com/artist/6pE3JDwvWDbjv1TqLRDjiP) | [actually i\`m from jazz](https://open.spotify.com/album/1LoAeJfQAX6xh8jgXzRgwu) | 4:23 | 2023-02-07 | 2024-11-07 |
@@ -169,6 +169,7 @@
 | [Pai, Moon, Everything](https://open.spotify.com/track/35o3FZ22ftwNTfbAGSflYZ) | [Mandong](https://open.spotify.com/artist/2Wk4Orq6UQ5KPunF9WHiyd) | [Pai, Moon, Everything](https://open.spotify.com/album/3rBbFBtehaeGhceikBkTFk) | 6:50 | 2023-09-20 | 2024-11-07 |
 | [Pamera Waltz](https://open.spotify.com/track/50xIhpMuGbJD6ZGVUoRjaO) | [Hookuo](https://open.spotify.com/artist/6eBZRX3oKGthcmHWR8mpvf) | [Parasol Violet](https://open.spotify.com/album/4er6pRBGJlcvfDsewXfc2D) | 3:26 | 2024-07-19 | 2025-04-04 |
 | [Panama City](https://open.spotify.com/track/0VMAEcSHxnQdMedvh0DmDg) | [신영주](https://open.spotify.com/artist/1RYbei4j2dxJS0hGwPCU7Q) | [Panama City](https://open.spotify.com/album/68t8T2g4qPYt3cF3W2cLSg) | 3:19 | 2022-05-18 | 2023-10-05 |
+| [Paper Wing](https://open.spotify.com/track/3C056Cw9lr6VqnrRDnEEfR) | [Haewon Moon](https://open.spotify.com/artist/5vRXwK3TSQ2mZgw9ZLIS7q) | [Paper Wing](https://open.spotify.com/album/2TxYJwV3JL3IfsnVw5xqOI) | 5:01 | 2026-06-23 |  |
 | [Paradise](https://open.spotify.com/track/69zIdA5t7hSbg84oBqMGN2) | [Duck Street](https://open.spotify.com/artist/3gwtQID1nUIazz3OOtA3Xj) | [Paradise](https://open.spotify.com/album/0FIfipUXodzW7yXdNZPrZk) | 4:29 | 2023-02-07 | 2024-11-07 |
 | [Parasol Violet \(feat\. Jade\)](https://open.spotify.com/track/34K57qXV5vNW7DmCSau8TH) | [Hookuo](https://open.spotify.com/artist/6eBZRX3oKGthcmHWR8mpvf), [Jade](https://open.spotify.com/artist/4WmtKVMoT1cQyHhD6lduGh) | [Parasol Violet](https://open.spotify.com/album/4er6pRBGJlcvfDsewXfc2D) | 4:13 | 2024-07-19 | 2025-04-04 |
 | [Perfume](https://open.spotify.com/track/02xYtlVTLBZXxXIP2kec41) | [Mellow Kitchen](https://open.spotify.com/artist/36aNW4upSxSBHoX0I3AmP1) | [Perfume](https://open.spotify.com/album/2HwZWaK4Sp3fnrbgfIz5Vq) | 3:12 | 2022-05-03 | 2023-02-08 |

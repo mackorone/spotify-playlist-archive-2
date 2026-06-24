@@ -1,12 +1,12 @@
 {
   "description": "This is Outkast. The essential tracks, all in one playlist.",
-  "num_followers": 168415,
+  "num_followers": 168432,
   "original_name": "This Is Outkast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajcpgAAAAABMJM+7Qjvq453iXHPAfjQh",
+  "snapshot_id": "ajh7AAAAAABi2MAarYhtVNIqbNky0aTV",
   "tracks": [
     {
       "added_at": null,
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
         }
       ],
-      "duration_ms": 324369,
-      "name": "Rosa Parks",
-      "url": "https://open.spotify.com/track/0shK5iZQppbHPQYiy60xs9"
+      "duration_ms": 222655,
+      "name": "Da Art of Storytellin' (Pt. 1)",
+      "url": "https://open.spotify.com/track/1KQymTxNJfWk6vCD5ywKW2"
     },
     {
       "added_at": null,
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
         }
       ],
-      "duration_ms": 222655,
-      "name": "Da Art of Storytellin' (Pt. 1)",
-      "url": "https://open.spotify.com/track/1KQymTxNJfWk6vCD5ywKW2"
+      "duration_ms": 324369,
+      "name": "Rosa Parks",
+      "url": "https://open.spotify.com/track/0shK5iZQppbHPQYiy60xs9"
     },
     {
       "added_at": null,
@@ -679,50 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Idlewild",
-        "url": "https://open.spotify.com/album/3L6JBfRxhzGzhhRDlTEdBz"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        },
-        {
-          "name": "Scar",
-          "url": "https://open.spotify.com/artist/2skahWK8IOGB6oBCbR2e7D"
-        },
-        {
-          "name": "Sleepy Brown",
-          "url": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
-        }
-      ],
-      "duration_ms": 264400,
-      "name": "Morris Brown (feat. Scar & Sleepy Brown)",
-      "url": "https://open.spotify.com/track/18uAu5gCnoGGNYQu8LeAr1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stankonia",
-        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        },
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 290666,
-      "name": "Humble Mumble (feat. Erykah Badu)",
-      "url": "https://open.spotify.com/track/5cN4KyXGUdNOve1TEPWmhL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beat'n Down Yo Block (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5C7NyeW6pFBCwyBvu9nu05"
       },
@@ -747,6 +703,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stankonia",
+        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 290666,
+      "name": "Humble Mumble (feat. Erykah Badu)",
+      "url": "https://open.spotify.com/track/5cN4KyXGUdNOve1TEPWmhL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Idlewild",
+        "url": "https://open.spotify.com/album/3L6JBfRxhzGzhhRDlTEdBz"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        {
+          "name": "Scar",
+          "url": "https://open.spotify.com/artist/2skahWK8IOGB6oBCbR2e7D"
+        },
+        {
+          "name": "Sleepy Brown",
+          "url": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
+        }
+      ],
+      "duration_ms": 264400,
+      "name": "Morris Brown (feat. Scar & Sleepy Brown)",
+      "url": "https://open.spotify.com/track/18uAu5gCnoGGNYQu8LeAr1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Big Boi & Dre Present...OutKast",
         "url": "https://open.spotify.com/album/5OJKj1KGQEM1pnHtuvY0It"
       },
@@ -759,22 +759,6 @@
       "duration_ms": 274013,
       "name": "Funkin' Around",
       "url": "https://open.spotify.com/track/049tw2MgDBdrtzZQjqtcdh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Idlewild",
-        "url": "https://open.spotify.com/album/3L6JBfRxhzGzhhRDlTEdBz"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 204160,
-      "name": "Idlewild Blue (Don'tchu Worry 'Bout Me)",
-      "url": "https://open.spotify.com/track/3tkbjyAmQnGsD52Rn8TCX8"
     },
     {
       "added_at": null,
@@ -835,6 +819,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Idlewild",
+        "url": "https://open.spotify.com/album/3L6JBfRxhzGzhhRDlTEdBz"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 204160,
+      "name": "Idlewild Blue (Don'tchu Worry 'Bout Me)",
+      "url": "https://open.spotify.com/track/3tkbjyAmQnGsD52Rn8TCX8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stankonia (25th Anniversary)",
         "url": "https://open.spotify.com/album/6k5p5oU3jFqUc3p8U7qYwA"
       },
@@ -847,30 +847,6 @@
       "duration_ms": 304059,
       "name": "Speedballin'",
       "url": "https://open.spotify.com/track/6JyWKkyjS2wazRaPuRPQFP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Idlewild",
-        "url": "https://open.spotify.com/album/3L6JBfRxhzGzhhRDlTEdBz"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 323000,
-      "name": "Hollywood Divorce (feat. Snoop Dogg & Lil' Wayne)",
-      "url": "https://open.spotify.com/track/1gZZyC3EEw8hwqoYRZqypC"
     },
     {
       "added_at": null,
@@ -907,6 +883,30 @@
       "duration_ms": 243440,
       "name": "Neck Uv Da Woods (feat. Outkast)",
       "url": "https://open.spotify.com/track/5rX4diK1dOmikCV8ffQOEl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Idlewild",
+        "url": "https://open.spotify.com/album/3L6JBfRxhzGzhhRDlTEdBz"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 323000,
+      "name": "Hollywood Divorce (feat. Snoop Dogg & Lil' Wayne)",
+      "url": "https://open.spotify.com/track/1gZZyC3EEw8hwqoYRZqypC"
     },
     {
       "added_at": null,

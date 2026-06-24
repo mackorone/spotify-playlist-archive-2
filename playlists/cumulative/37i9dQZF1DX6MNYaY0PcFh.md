@@ -4,7 +4,7 @@
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound\. Cover: J Wax
 
-408 songs - 22 hr 47 min
+409 songs - 22 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [Needed You](https://open.spotify.com/track/4K8aOmtSHM45q9O6bN8Hc0) | [Strn.](https://open.spotify.com/artist/4UdZWeX7Nkt2LtdoGEzlsH), [ALEXYS](https://open.spotify.com/artist/2hZSRabELx8cqDED0Dd5jT) | [Needed You](https://open.spotify.com/album/3xCd2AgD9A19DfwGz41nNp) | 2:03 | 2025-10-23 |  |
 | [Needle On The Record \- 4am Mix](https://open.spotify.com/track/1EzAJBjrWvYsUBHI1hoDnc) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Needle On The Record \(4am Mix\)](https://open.spotify.com/album/6Vwh7m7Dc6c2ouZgjBLqZW) | 2:58 | 2024-01-26 | 2024-07-27 |
 | [Never Gonna Be](https://open.spotify.com/track/4U776N5SlNQ7CtQYB5CY8p) | [Villager](https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7) | [Never Gonna Be](https://open.spotify.com/album/4NPusQqsK7m5CDLa0CebYM) | 3:45 | 2023-06-08 | 2024-06-28 |
+| [New Ting](https://open.spotify.com/track/1oQpq6RUVy06nfsjcZm4S8) | [Krafty Kuts](https://open.spotify.com/artist/6Ebt7JHILWJCE7aR7JLFB2) | [New Ting](https://open.spotify.com/album/3kaBAySJbC9HBSC0p70PPt) | 2:59 | 2026-06-18 |  |
 | [Next 2 You](https://open.spotify.com/track/3bX6x6oCl1GU0CzfRUylOs) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v) | 3:00 | 2022-11-25 | 2023-09-18 |
 | [No Name Groove](https://open.spotify.com/track/44m3n7H0Fn7FrxFi8rfQAf) | [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT), [Kasia](https://open.spotify.com/artist/5tPOVi066GG3dVIuLGOYrX) | [No Name Groove](https://open.spotify.com/album/0rknB5AlY9eUwBFXgRrNWY) | 4:23 | 2022-11-25 | 2024-02-09 |
 | [No Paint](https://open.spotify.com/track/01WpbxfBQz4Fa5dJ8RCfPE) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [No Paint](https://open.spotify.com/album/4QE6c8zOdkPUAN0MEE1xox) | 1:44 | 2025-11-14 | 2026-02-06 |
@@ -350,7 +351,7 @@
 | [Supa Smoov \- Bumpa's Xtra Smoov Mix](https://open.spotify.com/track/3qcZkQELHhpYTMYWPM1BT7) | [Locky](https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa), [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4), [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf) | [Supa Smoov \(Bumpa's Xtra Smoov Mix\)](https://open.spotify.com/album/0S1uf6gfZYHzSjkhHcsSWf) | 2:43 | 2025-11-07 |  |
 | [Super High](https://open.spotify.com/track/3UiyKjrGdNhnP1jbSf4JZH) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s), [EV](https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX) | [Super High](https://open.spotify.com/album/0G55G4W6Nyy2smxthRaWrv) | 3:14 | 2026-02-20 |  |
 | [Sweet](https://open.spotify.com/track/6VGLkcRFlnt38lQIqa9xQC) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Sweet](https://open.spotify.com/album/2IB3vKc68wV4wAnRRHFSOb) | 2:20 | 2025-06-12 | 2025-08-29 |
-| [Swept Away](https://open.spotify.com/track/13epcBWtRTdyiBHhfdimrI) | [Hutcher](https://open.spotify.com/artist/2nwnPxZXwF9Mfaik9pQNXI), [Cecelia](https://open.spotify.com/artist/6LtDEad7bRcRxBKQoiFAlI) | [Swept Away](https://open.spotify.com/album/5OQWYahgccARpqqFBq0hr8) | 2:47 | 2026-01-16 |  |
+| [Swept Away](https://open.spotify.com/track/13epcBWtRTdyiBHhfdimrI) | [Hutcher](https://open.spotify.com/artist/2nwnPxZXwF9Mfaik9pQNXI), [Cecelia](https://open.spotify.com/artist/6LtDEad7bRcRxBKQoiFAlI) | [Swept Away](https://open.spotify.com/album/5OQWYahgccARpqqFBq0hr8) | 2:47 | 2026-01-16 | 2026-06-24 |
 | [Swings](https://open.spotify.com/track/51f0x0ish7roN0PUlCsAgY) | [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO) | [Swings](https://open.spotify.com/album/7Gmllttn0NtckSdTmsosYk) | 2:21 | 2025-08-15 |  |
 | [Take Control](https://open.spotify.com/track/0Dva4BUUvU1eSe3EV5F3Wa) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D) | [Take Control](https://open.spotify.com/album/5K6e9x4TdZsvmlODZ7GdQQ) | 3:00 | 2022-11-25 | 2024-01-04 |
 | [Take Control](https://open.spotify.com/track/7sYlJeuvvQFKwC9g2M7k9u) | [Lockerz](https://open.spotify.com/artist/1LuS7XrtiwtzvdAnZPC6BN) | [Take Control](https://open.spotify.com/album/09slsqibNej7G9AHHekZ92) | 3:24 | 2026-06-11 |  |

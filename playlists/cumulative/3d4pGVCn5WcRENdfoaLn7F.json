@@ -1883,6 +1883,24 @@
     },
     {
       "album": {
+        "name": "Fake Illusion",
+        "url": "https://open.spotify.com/album/2Huu4WMjqQTA5C0KBjd54P"
+      },
+      "artists": [
+        {
+          "name": "Taylor D",
+          "url": "https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184621,
+      "name": "Fake Illusion",
+      "url": "https://open.spotify.com/track/4XV8XVah83sBK4easO1Le0"
+    },
+    {
+      "album": {
         "name": "False Prophet",
         "url": "https://open.spotify.com/album/29bErY1NGaYrHjmNIMvX7x"
       },

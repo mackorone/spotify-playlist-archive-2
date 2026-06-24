@@ -4,7 +4,7 @@
 
 > John Otto, take 'em to the Matthews Bridge!
 
-173 songs - 10 hr 30 min
+174 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Brackish](https://open.spotify.com/track/5znZ4aN1j49w2Oel8tdmgG) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit](https://open.spotify.com/album/5PyNZ5DIu4UNWYfIgJwqXH) | 3:09 | 2023-05-16 | 2024-04-19 |
 | [Brackish](https://open.spotify.com/track/6lqwRfIHYRiJ7M9xfLqcRx) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit](https://open.spotify.com/album/1afkQWD3zQlhOQLRRdZrOu) | 3:09 | 2022-11-03 | 2023-12-24 |
 | [Break Stuff](https://open.spotify.com/track/2YC6ET3q1F29B0V7UcPV70) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Greatest Hitz](https://open.spotify.com/album/50na3UenOpUOS1uuWXM0AY) | 2:46 | 2021-09-06 |  |
+| [Breathless](https://open.spotify.com/track/6GmKS2TBRo53eLX9w0RhUM) | [Lifer](https://open.spotify.com/artist/09r5DbXTHzkULoLVWdAIMW) | [Lifer](https://open.spotify.com/album/61RMxopbyjCvWgon4QIoqF) | 4:42 | 2026-03-20 |  |
 | [Bring Me To Life](https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:55 | 2022-06-18 | 2024-04-19 |
 | [Bring Me To Life](https://open.spotify.com/track/646J2jOtUe4Jflrmh6JFjN) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/20mh1X1FQQidKMu2XypyMI) | 3:55 | 2022-04-17 | 2022-04-21 |
 | [Build Your Cages](https://open.spotify.com/track/1qVxslK1epoLJCfZFhu24L) | [Pulse Ultra](https://open.spotify.com/artist/0mfFGjshEFbLqZEkPBkblG) | [Headspace](https://open.spotify.com/album/0sXelo7ZacAWnxYs41vixi) | 3:54 | 2022-04-17 | 2022-07-26 |
@@ -131,7 +132,7 @@
 | [Paralyzer](https://open.spotify.com/track/28IEbk5a7twNTbUEvWslUb) | [Finger Eleven](https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n) | [Them Vs\. You Vs\. Me \(Deluxe Edition\)](https://open.spotify.com/album/2pCfqddO9tLKRz3wzSNGsZ) | 3:28 | 2021-09-06 |  |
 | [Pardon Me](https://open.spotify.com/track/3FJuFr00K5IpgvTCDDaqW5) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself \- Tour Edition](https://open.spotify.com/album/4nO7EUWCOzqHK3iGDXDzzU) | 3:43 | 2021-09-06 | 2022-07-29 |
 | [Pardon Me](https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:43 | 2022-06-18 | 2024-04-19 |
-| [Pitiful](https://open.spotify.com/track/1TTOAw90zzNWKnUgzzcvZW) | [Blindside](https://open.spotify.com/artist/0Uj2hge2fxypJ7f4ik6lpr) | [Silence](https://open.spotify.com/album/5QVIcWwkQXJ6vwbQDikZrl) | 3:12 | 2021-09-06 |  |
+| [Pitiful](https://open.spotify.com/track/1TTOAw90zzNWKnUgzzcvZW) | [Blindside](https://open.spotify.com/artist/0Uj2hge2fxypJ7f4ik6lpr) | [Silence](https://open.spotify.com/album/5QVIcWwkQXJ6vwbQDikZrl) | 3:12 | 2021-09-06 | 2026-06-24 |
 | [Poem](https://open.spotify.com/track/7mQwxVogsnpR3h6AJLQLlR) | [Taproot](https://open.spotify.com/artist/319rafipfKvd4cqaOwWIvA) | [Welcome](https://open.spotify.com/album/713d2aig86cskmj4zdL9nR) | 3:09 | 2021-09-06 |  |
 | [Praise](https://open.spotify.com/track/3fXY1GLVF8QmzbTfNTTaFr) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Animosity](https://open.spotify.com/album/6csmoeDVSefHvffDtIgCw1) | 3:38 | 2022-11-03 | 2024-04-16 |
 | [Price to Play](https://open.spotify.com/track/6WV1sNIE0gG9cIdQ27vuvI) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [14 Shades of Grey](https://open.spotify.com/album/6PntFOrFJdHpXE9xzjhkyR) | 3:35 | 2024-03-26 |  |

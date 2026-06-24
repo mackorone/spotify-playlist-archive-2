@@ -2569,6 +2569,28 @@
     },
     {
       "album": {
+        "name": "FOREVER KIDS",
+        "url": "https://open.spotify.com/album/3EhMtYhrnZ1XDJ7FyzmRLq"
+      },
+      "artists": [
+        {
+          "name": "JMIN",
+          "url": "https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219823,
+      "name": "AMAZING (feat. Sik-K)",
+      "url": "https://open.spotify.com/track/0h97ZHSA2ZSw7Gfz1NKTDY"
+    },
+    {
+      "album": {
         "name": "AMBITION 2/10",
         "url": "https://open.spotify.com/album/72jqOxG7FqqoUryy2GlCFl"
       },
@@ -42222,6 +42244,28 @@
       "duration_ms": 166999,
       "name": "Yarrr",
       "url": "https://open.spotify.com/track/4BT0LtYtDN8bBaCPN0CPo1"
+    },
+    {
+      "album": {
+        "name": "YATA",
+        "url": "https://open.spotify.com/album/6fEZzDe1mWBBIToX7iiujb"
+      },
+      "artists": [
+        {
+          "name": "Odee",
+          "url": "https://open.spotify.com/artist/6cXolDFPOgf0wuRe5kMPxo"
+        },
+        {
+          "name": "HOLYDAY",
+          "url": "https://open.spotify.com/artist/6BEleStcBwip7cF71WVt1L"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155586,
+      "name": "YATA",
+      "url": "https://open.spotify.com/track/6qdTM5yID2MNsXgnDSPvJp"
     },
     {
       "album": {

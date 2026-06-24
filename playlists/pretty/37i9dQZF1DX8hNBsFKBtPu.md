@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > We got you! Den bedste nye pop er samlet her 💖 JONATHAN
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,136 likes - 179 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,130 likes - 179 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

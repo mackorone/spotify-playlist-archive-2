@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3905380,
+  "num_followers": 3905220,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -643,26 +643,6 @@
     {
       "added_at": "2026-06-19 04:00:42",
       "album": {
-        "name": "Stay Alive",
-        "url": "https://open.spotify.com/album/02L1yfDDg8vAiqlHYM0Roi"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "The Devil's Tax Return",
-          "url": "https://open.spotify.com/artist/1pnP4d3omqdQ4MDfizPlGC"
-        }
-      ],
-      "duration_ms": 233978,
-      "name": "Stay Alive",
-      "url": "https://open.spotify.com/track/7doHB4pJIeG8xTl2cigRJu"
-    },
-    {
-      "added_at": "2026-06-19 04:00:42",
-      "album": {
         "name": "Not The Same",
         "url": "https://open.spotify.com/album/6TcWS750Qhg2203YwZuPdX"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 196500,
       "name": "Not The Same",
       "url": "https://open.spotify.com/track/2B4Z3Ynr4GsNE1S6EiMWZF"
+    },
+    {
+      "added_at": "2026-06-19 04:00:42",
+      "album": {
+        "name": "Stay Alive",
+        "url": "https://open.spotify.com/album/02L1yfDDg8vAiqlHYM0Roi"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "The Devil's Tax Return",
+          "url": "https://open.spotify.com/artist/1pnP4d3omqdQ4MDfizPlGC"
+        }
+      ],
+      "duration_ms": 233978,
+      "name": "Stay Alive",
+      "url": "https://open.spotify.com/track/7doHB4pJIeG8xTl2cigRJu"
     },
     {
       "added_at": "2026-06-19 04:00:42",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-06-19 04:00:42",
       "album": {
+        "name": "Feel",
+        "url": "https://open.spotify.com/album/2kVboAU8NCpgRBT7VyHcK1"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/3mxwrp5v4TcWK1T4MsXdcs"
+    },
+    {
+      "added_at": "2026-06-19 04:00:42",
+      "album": {
         "name": "Here Again / Wild Again",
         "url": "https://open.spotify.com/album/35HNH9ADGwhR3A1Ok8ahSd"
       },
@@ -855,42 +871,6 @@
     {
       "added_at": "2026-06-19 04:00:42",
       "album": {
-        "name": "Feel",
-        "url": "https://open.spotify.com/album/2kVboAU8NCpgRBT7VyHcK1"
-      },
-      "artists": [
-        {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/3mxwrp5v4TcWK1T4MsXdcs"
-    },
-    {
-      "added_at": "2026-06-19 04:00:42",
-      "album": {
-        "name": "KYGO",
-        "url": "https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 258517,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/61UHYLpt5koa0wHhw3n6Uz"
-    },
-    {
-      "added_at": "2026-06-19 04:00:42",
-      "album": {
         "name": "Sunset In Pretoria",
         "url": "https://open.spotify.com/album/0rFijquyRXf1e6SmsBinmD"
       },
@@ -907,46 +887,6 @@
       "duration_ms": 238032,
       "name": "Sunset In Pretoria",
       "url": "https://open.spotify.com/track/03vLVYmqX7k3gKm3kOQIai"
-    },
-    {
-      "added_at": "2026-06-19 04:00:42",
-      "album": {
-        "name": "Change of Driver",
-        "url": "https://open.spotify.com/album/1eOiRwEPNOmeENq1PEy5ia"
-      },
-      "artists": [
-        {
-          "name": "Falden",
-          "url": "https://open.spotify.com/artist/6O5LAkus9iGG1vvMGu5mDo"
-        },
-        {
-          "name": "PEARL",
-          "url": "https://open.spotify.com/artist/6hZgNWpmI3Ti681I6IPEvW"
-        }
-      ],
-      "duration_ms": 231024,
-      "name": "Change of Driver",
-      "url": "https://open.spotify.com/track/61J1SikiocG2bFnyQDWM9x"
-    },
-    {
-      "added_at": "2026-06-19 04:00:42",
-      "album": {
-        "name": "A Life",
-        "url": "https://open.spotify.com/album/4NFeATnC0BhLtvXInTdO9R"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        },
-        {
-          "name": "Henry Green",
-          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
-        }
-      ],
-      "duration_ms": 199160,
-      "name": "Felt (feat. Henry Green)",
-      "url": "https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d"
     },
     {
       "added_at": "2026-06-19 04:00:42",
@@ -971,6 +911,46 @@
     {
       "added_at": "2026-06-19 04:00:42",
       "album": {
+        "name": "KYGO",
+        "url": "https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 258517,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/61UHYLpt5koa0wHhw3n6Uz"
+    },
+    {
+      "added_at": "2026-06-19 04:00:42",
+      "album": {
+        "name": "Change of Driver",
+        "url": "https://open.spotify.com/album/1eOiRwEPNOmeENq1PEy5ia"
+      },
+      "artists": [
+        {
+          "name": "Falden",
+          "url": "https://open.spotify.com/artist/6O5LAkus9iGG1vvMGu5mDo"
+        },
+        {
+          "name": "PEARL",
+          "url": "https://open.spotify.com/artist/6hZgNWpmI3Ti681I6IPEvW"
+        }
+      ],
+      "duration_ms": 231024,
+      "name": "Change of Driver",
+      "url": "https://open.spotify.com/track/61J1SikiocG2bFnyQDWM9x"
+    },
+    {
+      "added_at": "2026-06-19 04:00:42",
+      "album": {
         "name": "Have It All",
         "url": "https://open.spotify.com/album/739Rj4q2KEERTlzzF7eIpT"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 213750,
       "name": "Have It All",
       "url": "https://open.spotify.com/track/2A0BUJTl2JAja9lv64KRJg"
+    },
+    {
+      "added_at": "2026-06-19 04:00:42",
+      "album": {
+        "name": "A Life",
+        "url": "https://open.spotify.com/album/4NFeATnC0BhLtvXInTdO9R"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        },
+        {
+          "name": "Henry Green",
+          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
+        }
+      ],
+      "duration_ms": 199160,
+      "name": "Felt (feat. Henry Green)",
+      "url": "https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d"
     },
     {
       "added_at": "2026-06-19 04:00:42",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-06-19 04:00:42",
       "album": {
-        "name": "Somewhere In Between",
-        "url": "https://open.spotify.com/album/1SyEXGFsWxnHjD1UsdACMk"
-      },
-      "artists": [
-        {
-          "name": "Forester",
-          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
-        }
-      ],
-      "duration_ms": 172631,
-      "name": "Electric Soul",
-      "url": "https://open.spotify.com/track/2DDgjp1fChi6UvQzNxtgUw"
-    },
-    {
-      "added_at": "2026-06-19 04:00:42",
-      "album": {
         "name": "From The Start",
         "url": "https://open.spotify.com/album/4egDJ1nzQU2SuFNkYaYMpe"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 199450,
       "name": "From The Start",
       "url": "https://open.spotify.com/track/0dQc8ZTG7fPARbRJPXHs9P"
+    },
+    {
+      "added_at": "2026-06-19 04:00:42",
+      "album": {
+        "name": "Somewhere In Between",
+        "url": "https://open.spotify.com/album/1SyEXGFsWxnHjD1UsdACMk"
+      },
+      "artists": [
+        {
+          "name": "Forester",
+          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
+        }
+      ],
+      "duration_ms": 172631,
+      "name": "Electric Soul",
+      "url": "https://open.spotify.com/track/2DDgjp1fChi6UvQzNxtgUw"
     },
     {
       "added_at": "2026-06-19 04:00:42",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-06-19 04:00:42",
       "album": {
-        "name": "Wanderer",
-        "url": "https://open.spotify.com/album/4D9GygCWZnsM3qD7xZpzDO"
-      },
-      "artists": [
-        {
-          "name": "Claptone",
-          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
-        }
-      ],
-      "duration_ms": 195812,
-      "name": "Wanderlust",
-      "url": "https://open.spotify.com/track/4YOSuGzpYJqyOH3RCe1Els"
-    },
-    {
-      "added_at": "2026-06-19 04:00:42",
-      "album": {
         "name": "AMi Vol. 1",
         "url": "https://open.spotify.com/album/4yZVkEpL1rV8n4KmSINpYb"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 250533,
       "name": "Outline",
       "url": "https://open.spotify.com/track/2Eb6bBgGcVm83xjI2IaTlr"
+    },
+    {
+      "added_at": "2026-06-19 04:00:42",
+      "album": {
+        "name": "Wanderer",
+        "url": "https://open.spotify.com/album/4D9GygCWZnsM3qD7xZpzDO"
+      },
+      "artists": [
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        }
+      ],
+      "duration_ms": 195812,
+      "name": "Wanderlust",
+      "url": "https://open.spotify.com/track/4YOSuGzpYJqyOH3RCe1Els"
     },
     {
       "added_at": "2026-06-19 04:00:42",
@@ -1291,6 +1291,30 @@
     {
       "added_at": "2026-06-19 04:00:42",
       "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/2YBVdVWIfh2qMHIwczlmdE"
+      },
+      "artists": [
+        {
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+        },
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        },
+        {
+          "name": "Rosie Darling",
+          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/33Q6yV1CVOkgeqKmtjnWUE"
+    },
+    {
+      "added_at": "2026-06-19 04:00:42",
+      "album": {
         "name": "Maitri",
         "url": "https://open.spotify.com/album/2q2KMPcrknWvv81MReT6mX"
       },
@@ -1327,30 +1351,6 @@
     {
       "added_at": "2026-06-19 04:00:42",
       "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/2YBVdVWIfh2qMHIwczlmdE"
-      },
-      "artists": [
-        {
-          "name": "Audien",
-          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
-        },
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        },
-        {
-          "name": "Rosie Darling",
-          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/33Q6yV1CVOkgeqKmtjnWUE"
-    },
-    {
-      "added_at": "2026-06-19 04:00:42",
-      "album": {
         "name": "Out Of Ten (Shingo Nakamura & before saudade Remix)",
         "url": "https://open.spotify.com/album/2muoiXwIB1Jw4JMXRFgrbz"
       },
@@ -1375,26 +1375,6 @@
     {
       "added_at": "2026-06-19 04:00:42",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/1v9r2LPHOtzLHGq0qp6mlA"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        },
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 258409,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/25s9f4TrrZZzZTYjA8NE19"
-    },
-    {
-      "added_at": "2026-06-19 04:00:42",
-      "album": {
         "name": "Sun & Rain",
         "url": "https://open.spotify.com/album/4iAsazBdJVm5OqhEYKTXEX"
       },
@@ -1411,6 +1391,26 @@
       "duration_ms": 200640,
       "name": "Sun & Rain",
       "url": "https://open.spotify.com/track/7bqtONADSmsbMHy57EVGix"
+    },
+    {
+      "added_at": "2026-06-19 04:00:42",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/1v9r2LPHOtzLHGq0qp6mlA"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        },
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 258409,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/25s9f4TrrZZzZTYjA8NE19"
     },
     {
       "added_at": "2026-06-19 04:00:42",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-06-19 04:00:42",
       "album": {
-        "name": "Sewn",
-        "url": "https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH"
-      },
-      "artists": [
-        {
-          "name": "Kidnap",
-          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
-        }
-      ],
-      "duration_ms": 212903,
-      "name": "Sewn",
-      "url": "https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM"
-    },
-    {
-      "added_at": "2026-06-19 04:00:42",
-      "album": {
         "name": "Rabbit Hole",
         "url": "https://open.spotify.com/album/4DRQYxf3qpxyiMkKuPIcU2"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 251303,
       "name": "Rabbit Hole",
       "url": "https://open.spotify.com/track/7IdzWFKqSfRJnWesOlaeuW"
+    },
+    {
+      "added_at": "2026-06-19 04:00:42",
+      "album": {
+        "name": "Sewn",
+        "url": "https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH"
+      },
+      "artists": [
+        {
+          "name": "Kidnap",
+          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "Sewn",
+      "url": "https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM"
     },
     {
       "added_at": "2026-06-19 04:00:42",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2026-06-19 04:00:42",
       "album": {
-        "name": "All Is Right",
-        "url": "https://open.spotify.com/album/6HdiXCbG1eU2Y6SDyXsRE4"
-      },
-      "artists": [
-        {
-          "name": "Thysma",
-          "url": "https://open.spotify.com/artist/38rkVgCX1c5TUzFNRwfexd"
-        }
-      ],
-      "duration_ms": 210500,
-      "name": "All Is Right",
-      "url": "https://open.spotify.com/track/1rsJB19a3FfYdLKK2mjMfU"
-    },
-    {
-      "added_at": "2026-06-19 04:00:42",
-      "album": {
         "name": "Just Noise Pt. II",
         "url": "https://open.spotify.com/album/6NL7SkrK3auwVEvuISvSaV"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 266189,
       "name": "Pangea",
       "url": "https://open.spotify.com/track/3zeST3OUSGo90oZBQzIuNm"
+    },
+    {
+      "added_at": "2026-06-19 04:00:42",
+      "album": {
+        "name": "All Is Right",
+        "url": "https://open.spotify.com/album/6HdiXCbG1eU2Y6SDyXsRE4"
+      },
+      "artists": [
+        {
+          "name": "Thysma",
+          "url": "https://open.spotify.com/artist/38rkVgCX1c5TUzFNRwfexd"
+        }
+      ],
+      "duration_ms": 210500,
+      "name": "All Is Right",
+      "url": "https://open.spotify.com/track/1rsJB19a3FfYdLKK2mjMfU"
     },
     {
       "added_at": "2026-06-19 04:00:42",
@@ -1895,6 +1895,22 @@
     {
       "added_at": "2026-06-19 04:00:42",
       "album": {
+        "name": "Civilian World",
+        "url": "https://open.spotify.com/album/7xxQ6IO8IeqOY7hPxs9cDH"
+      },
+      "artists": [
+        {
+          "name": "Amtrac",
+          "url": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
+        }
+      ],
+      "duration_ms": 456373,
+      "name": "Civilian World",
+      "url": "https://open.spotify.com/track/0UFSRShQ5xVoojuNbFSD9i"
+    },
+    {
+      "added_at": "2026-06-19 04:00:42",
+      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/4OoOJSaVeJi7BlIdiY2Wx3"
       },
@@ -1915,22 +1931,6 @@
       "duration_ms": 258644,
       "name": "Control",
       "url": "https://open.spotify.com/track/6K1MxJMyM2ImqQvYTdrnDL"
-    },
-    {
-      "added_at": "2026-06-19 04:00:42",
-      "album": {
-        "name": "Civilian World",
-        "url": "https://open.spotify.com/album/7xxQ6IO8IeqOY7hPxs9cDH"
-      },
-      "artists": [
-        {
-          "name": "Amtrac",
-          "url": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
-        }
-      ],
-      "duration_ms": 456373,
-      "name": "Civilian World",
-      "url": "https://open.spotify.com/track/0UFSRShQ5xVoojuNbFSD9i"
     },
     {
       "added_at": "2026-06-19 04:00:42",

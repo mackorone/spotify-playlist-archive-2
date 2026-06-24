@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,471 songs - 9 day 23 hr 21 min
+4,476 songs - 9 day 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1691,6 +1691,7 @@
 | [Halfless Souls](https://open.spotify.com/track/4rzpcgpoOaCHCudaOfjrQl) | [Amedeo Orlandi](https://open.spotify.com/artist/0AjSSKpvPNGbs4MpUi3MXH) | [Halfless Souls](https://open.spotify.com/album/3Exqy2GkyiPbrUlIakn719) | 3:28 | 2025-10-07 |  |
 | [Hallow Tales \- 2025 Remaster](https://open.spotify.com/track/6pJBr7i4ZZz6UeBgq30hYv) | [Robert80z](https://open.spotify.com/artist/3N0C6tFumt18qCNENY5WHB) | [The Dividing Line \(2025 Remaster\)](https://open.spotify.com/album/3MzgPxLIEpeiZJWqqdd8p0) | 3:48 | 2025-05-05 |  |
 | [Halloween Every Day](https://open.spotify.com/track/05GeKjRj0xlF6XYgFzuPQ8) | [Brenso](https://open.spotify.com/artist/56W6bwD2W4blOzdXURs1DE) | [Halloween Every Day](https://open.spotify.com/album/7GE4Fj5k4OewpL4PMgylwA) | 2:38 | 2025-09-29 |  |
+| [Hampir Saja](https://open.spotify.com/track/402MPYl6n9BtEVH8xvjro6) | [Eklyra](https://open.spotify.com/artist/2ROoPAHDGn6hHs986H0y9V) | [Hampir Saja](https://open.spotify.com/album/0KTMY3iGT5MDmK35lWJdph) | 3:23 | 2026-06-23 |  |
 | [Hanahaki](https://open.spotify.com/track/7iZZ0nvDWuDSSxq7JtNtMO) | [Corrupt P1cture](https://open.spotify.com/artist/2q4DGRukYWiZFccYoq9uwN) | [Royalty](https://open.spotify.com/album/5ujB4MEna73Lq0i2sK7KHp) | 2:56 | 2025-12-19 |  |
 | [Hand of Gold](https://open.spotify.com/track/4dmzhrA0dXwVVBsCUFwIkC) | [James Sebastian](https://open.spotify.com/artist/6IX76Xz04QnJdDtcDIfoD6) | [Hand of Gold](https://open.spotify.com/album/6s9d9tyK12ljYpu1saaUXm) | 2:42 | 2026-06-22 |  |
 | [Hands of God](https://open.spotify.com/track/3ker5A7IVbjfi5gtjnIE0m) | [Destroy the Moon](https://open.spotify.com/artist/08fTPY5aK0E2zRxSN1Gbkt) | [Hands of God](https://open.spotify.com/album/0MmtQzwcyyyfRl0U6Ok6cN) | 5:35 | 2026-06-09 |  |
@@ -1823,6 +1824,7 @@
 | [HOME](https://open.spotify.com/track/5SSwaaEflTrax8JPsW6ZkC) | [Scarlet City](https://open.spotify.com/artist/49klWMejrBkHg8mUW4tQrj) | [HOME](https://open.spotify.com/album/09ldHO1i16Ygsxi4CXzinL) | 3:05 | 2025-05-20 |  |
 | [Home Away From Home](https://open.spotify.com/track/267efG5oPeK80bVnfO1KcN) | [Amelia Pinter](https://open.spotify.com/artist/1NhvClkKenN1Sq8f3jcMp8) | [Home Away From Home](https://open.spotify.com/album/1KkFRLLJukZOnWQzQgy78h) | 3:18 | 2025-06-04 |  |
 | [Home Is A Feeling](https://open.spotify.com/track/39DLHzhFtzqInCJneXZc8J) | [Amelia Pinter](https://open.spotify.com/artist/1NhvClkKenN1Sq8f3jcMp8) | [Home Is A Feeling](https://open.spotify.com/album/3WOvJgjRqX45ZLVZ1Tx6qP) | 3:17 | 2025-06-04 |  |
+| [Homem de Negocios](https://open.spotify.com/track/7HVFLtRCZifFPj08dVRlzI) | [MBUENO](https://open.spotify.com/artist/0L7hmgeg9mVh1fM21m0mdB) | [Homem de Negocios](https://open.spotify.com/album/6C3g5k2Zduy3tAnXRaMBOf) | 2:15 | 2026-06-23 |  |
 | [Honey and Morphine](https://open.spotify.com/track/6DFJfyvuwcQq4e7rEiUyhe) | [Leonardo979](https://open.spotify.com/artist/4BrUhoNq2K1uJX2OcSk7FW) | [Honey and Morphine](https://open.spotify.com/album/4IuopYNV7bHyXZb1B17tbY) | 4:57 | 2025-07-04 |  |
 | [Hood Chronicles](https://open.spotify.com/track/5EOQvSoSeqbeT8nNDJbZBn) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Gangsta rap](https://open.spotify.com/album/5DjfHnIsnHBjvVFvStHhrn) | 1:48 | 2025-08-20 |  |
 | [Hood Chronicles \(another\)](https://open.spotify.com/track/1zSJ96KzRzutQw3zDxl8IQ) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Gangsta rap](https://open.spotify.com/album/5DjfHnIsnHBjvVFvStHhrn) | 1:49 | 2025-08-20 |  |
@@ -2391,6 +2393,7 @@
 | [Masquerade](https://open.spotify.com/track/4UOmzam7Hu6HlHbHrIx5Hg) | [TJ Kidwell](https://open.spotify.com/artist/2NsemkSjtAPqgf57Vl1tpO) | [Masquerade of Me](https://open.spotify.com/album/0vLk7TOQ6eCUQeukDt44Vv) | 3:41 | 2025-11-08 |  |
 | [Mastodonte](https://open.spotify.com/track/2ONSCIg1KbDHUhwQb3SYaj) | [Ruster](https://open.spotify.com/artist/0MB2qTmFxuZkVdphbXgSeq) | [Mastodonte](https://open.spotify.com/album/1WqEAf6ehq91MtabcIqUvr) | 3:06 | 2025-11-24 |  |
 | [Math Is Money](https://open.spotify.com/track/4zzEIBANP1pCQQSl1yxchH) | [Lifter Puller](https://open.spotify.com/artist/5ln57CgiNtmgrZFbBWKsSK) | [Slips Backwards](https://open.spotify.com/album/24S4uwsuS1ttyHh6dJWMZh) | 3:31 | 2025-11-05 |  |
+| [Matory](https://open.spotify.com/track/39WrEUqGAXuylnOtGeVE3h) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Matory](https://open.spotify.com/album/37DeS2yQJ0UUF8tKJjdes4) | 2:31 | 2026-06-23 |  |
 | [MATRIMONI IN VISTA](https://open.spotify.com/track/7aFPWmrLGhlh30p20LWf07) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [NON SONO IL PAPA \(Deluxe Edition\)](https://open.spotify.com/album/29s0ZAydytxQoqxqEhI4Mv) | 2:47 | 2025-04-04 |  |
 | [Matrimonio di Riparazione](https://open.spotify.com/track/2G8n3BzI6EZHtxUXFTPQiu) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [CRINGE](https://open.spotify.com/album/5tmgSk2cwKZEne551QfWWE) | 1:44 | 2025-05-12 |  |
 | [Matrix of Sound](https://open.spotify.com/track/7bzpqpoeOywJ1sU3ZnTub2) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Virtual rock](https://open.spotify.com/album/48aggZCMxbdvSMGvL55GyX) | 3:25 | 2025-09-12 |  |
@@ -2938,6 +2941,7 @@
 | [Party Till Dawn \(another\)](https://open.spotify.com/track/6Y1L8h5PZX0oEA2Fn08VwD) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Party Punk](https://open.spotify.com/album/1coJEWj1ziaeqRssS4E2Kf) | 2:19 | 2025-09-19 |  |
 | [Passacaglia](https://open.spotify.com/track/6v8J04r5YMwizn1vDsZUeR) | [Mauro Tudino](https://open.spotify.com/artist/1oeoZXpqKTC8Y62yrALSC9) | [Passacaglia](https://open.spotify.com/album/2TkoialBdfIRVNP1tjWDsi) | 1:31 | 2025-06-04 |  |
 | [Passion for the past](https://open.spotify.com/track/6uax7VhWFGN2xzpWVH6i8k) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [80's music inspired](https://open.spotify.com/album/52EpTauHULa82DwbMx0Pdh) | 3:49 | 2025-08-28 |  |
+| [Patience](https://open.spotify.com/track/5j3ivBCTU5U4OBljFq8p9R) | [Wretched Things](https://open.spotify.com/artist/6bq9LPNfltcBgpvfdtTWwk) | [Patience](https://open.spotify.com/album/03FHkDM2h58AFvohS2S8pw) | 4:05 | 2026-06-23 |  |
 | [PCC](https://open.spotify.com/track/0pbJZFqKWVBmpqqeta8yCg) | [Osah](https://open.spotify.com/artist/1AeKlQFE3f4jMoiJyuhyM1), [ROM D\. ODSU](https://open.spotify.com/artist/3bHFJ6BT2BeXUSYq9Bqi2u) | [PCC](https://open.spotify.com/album/1rpolSpCnwHA214aX8RJGr) | 2:51 | 2025-06-05 |  |
 | [Peacemakers](https://open.spotify.com/track/7K8F1C4dcNao9gJOUiR8mc) | [Miguel De La Wiest](https://open.spotify.com/artist/26hbbPnAg9VCscmcsIGXY6) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/1k7DZX3OogiMcHFOjTOtFQ) | 4:38 | 2026-01-12 | 2026-01-26 |
 | [PEGGIOXTE](https://open.spotify.com/track/0bA7T5mSWQrpk9Pmml2UFD) | [Klaudia DG](https://open.spotify.com/artist/0WyWixivFk2XT2nn8WTJRZ) | [PEGGIOXTE](https://open.spotify.com/album/5sqbsO1hpRKfaTtpvS1ufc) | 3:18 | 2025-06-24 |  |
@@ -4442,6 +4446,7 @@
 | [До...](https://open.spotify.com/track/5m6XWAJqh5JIASKzflxibL) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [До...](https://open.spotify.com/album/5DSJDeiaxavP4mZnoyqWC0) | 4:28 | 2025-05-15 |  |
 | [Дороги снегом замело](https://open.spotify.com/track/74xgU9bqvu9nbvzhkLmZkU) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 2:59 | 2026-03-31 |  |
 | [Дороги снегом замело...](https://open.spotify.com/track/3jST45CWJr4yZPPfWNhap4) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Дороги снегом замело...](https://open.spotify.com/album/2pTVHLJ4wxSOWXshqJE2nX) | 2:59 | 2025-11-15 |  |
+| [Дышать](https://open.spotify.com/track/4R5bbmS5OoFrgbLk8tRoY8) | [ANTY\-DOTE](https://open.spotify.com/artist/6977CBnV7l66u6yEM9MwMW) | [Дышать](https://open.spotify.com/album/4WnGAdmmXihQC1WKsOmw4I) | 1:02 | 2026-06-23 |  |
 | [Космос ждёт!](https://open.spotify.com/track/0JPFXFDmQcoixLEcniPbsx) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 4:44 | 2026-02-23 |  |
 | [Космос ждёт!](https://open.spotify.com/track/3eI5TOZVCiR9F1UGgBunrq) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос ждёт!](https://open.spotify.com/album/3aEUPND51PH4Kw466Tw49M) | 4:44 | 2026-04-10 |  |
 | [Люблю](https://open.spotify.com/track/5OFLs1NK4P9CTwwH2P0rKY) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Люблю](https://open.spotify.com/album/3YJO7rlQMviBQRxqMCUtx9) | 3:41 | 2025-05-15 |  |

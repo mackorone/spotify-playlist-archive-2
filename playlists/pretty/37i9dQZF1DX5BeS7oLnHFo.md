@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5BeS7oLnHFo.md) - [plain]
 
 > كافيار الراب المحلّي
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,848 likes - 42 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,849 likes - 42 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5BeS7oLnHFo.md) - [plain]
 | 4 | [تاكل خشب](https://open.spotify.com/track/6F3nkMMR3lrBmy87e4TMDa) | [DTPNOOZ](https://open.spotify.com/artist/4TVnCMyC8C645LUw2fqq2w) | [تاكل خشب](https://open.spotify.com/album/2fFKDW0fAZEe16pHFMhV70) | 2:53 |
 | 5 | [Y20](https://open.spotify.com/track/1UDiiOdFUs3MdV9uAo8cYe) | [Triple9](https://open.spotify.com/artist/4EDet5KEQAdPKia5RxnVLt), [YSN Lowkey](https://open.spotify.com/artist/2gaO2Gwf588OnnaDwArIAW) | [Y20](https://open.spotify.com/album/6KB2ail4OHmi7hLE9sO9x6) | 1:54 |
 | 6 | [TABOOT](https://open.spotify.com/track/6motnIl1IffKpaWvHGAk1w) | [Vortex](https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP), [MSati 7](https://open.spotify.com/artist/6ZsgDzHYazjnG5NzMfPHC9) | [TABOOT](https://open.spotify.com/album/66ZgAfsd41sy3kRELM40N3) | 2:24 |
-| 7 | [Ala El Hadi](https://open.spotify.com/track/59RJkigbf7igBzNQJ56NQF) | [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu), [Warchieff](https://open.spotify.com/artist/0rKBPvNmQMHFGNf8RCYLt8), [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Ala El Hadi](https://open.spotify.com/album/2rRFYwugXgccV96X5OlzzH) | 2:38 |
+| 7 | [Ala El Hadi](https://open.spotify.com/track/59RJkigbf7igBzNQJ56NQF) | [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu), [AL7AMDAN](https://open.spotify.com/artist/0rKBPvNmQMHFGNf8RCYLt8), [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Ala El Hadi](https://open.spotify.com/album/2rRFYwugXgccV96X5OlzzH) | 2:38 |
 | 8 | [NASEHAT MUSHFIQ](https://open.spotify.com/track/607JmfmWDTOgacXpWYFmNW) | [Klash](https://open.spotify.com/artist/576Qg5nTQ5fVCFaSYrvKdw) | [NASEHAT MUSHFIQ](https://open.spotify.com/album/23zOEXioEzkBPCRc8gTznD) | 2:52 |
 | 9 | [Esmaa Alhagega](https://open.spotify.com/track/2wtF7gIR51J7ZFfsuDISjb) | [Slow Moe](https://open.spotify.com/artist/5ws4gBwkGLUzjVxhvw4Kwd) | [Esmaa Alhagega](https://open.spotify.com/album/3t6JQ82i9tw9Stm3rLHs4U) | 4:19 |
 | 10 | [Dabbaba](https://open.spotify.com/track/2m4BGrqCUVV73BAK3FdnVh) | [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd), [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu) | [Dabbaba](https://open.spotify.com/album/4DDutVKDyQFI7Hq0MV6Nyv) | 2:09 |

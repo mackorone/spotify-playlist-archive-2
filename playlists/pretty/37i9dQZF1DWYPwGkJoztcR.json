@@ -1,6 +1,6 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 397624,
+  "num_followers": 397629,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
-        "name": "Cruisin\u2019",
-        "url": "https://open.spotify.com/album/4ZnUyydglrmKxqYJCwLmkI"
-      },
-      "artists": [
-        {
-          "name": "TOINE",
-          "url": "https://open.spotify.com/artist/1UKhHMifOzxgAaoQvJW7no"
-        }
-      ],
-      "duration_ms": 204082,
-      "name": "Cruisin\u2019",
-      "url": "https://open.spotify.com/track/1L7PYfV7Axk4PHqvzIctWJ"
-    },
-    {
-      "added_at": "2026-05-26 22:00:49",
-      "album": {
         "name": "Dizzy",
         "url": "https://open.spotify.com/album/0dD2rA5I3QnNxbzxmnHNe7"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 183275,
       "name": "Dizzy",
       "url": "https://open.spotify.com/track/3ii39q3PlsdGcL2QAxc2pe"
+    },
+    {
+      "added_at": "2026-05-26 22:00:49",
+      "album": {
+        "name": "Cruisin\u2019",
+        "url": "https://open.spotify.com/album/4ZnUyydglrmKxqYJCwLmkI"
+      },
+      "artists": [
+        {
+          "name": "TOINE",
+          "url": "https://open.spotify.com/artist/1UKhHMifOzxgAaoQvJW7no"
+        }
+      ],
+      "duration_ms": 204082,
+      "name": "Cruisin\u2019",
+      "url": "https://open.spotify.com/track/1L7PYfV7Axk4PHqvzIctWJ"
     },
     {
       "added_at": "2026-05-26 22:00:49",
@@ -139,18 +139,18 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
-        "name": "Chlo\u00eb and the Next 20th Century",
-        "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
+        "name": "Streets of London",
+        "url": "https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF"
       },
       "artists": [
         {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 300240,
-      "name": "Goodbye Mr. Blue",
-      "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
+      "duration_ms": 189136,
+      "name": "Streets of London",
+      "url": "https://open.spotify.com/track/6s9KM1jKM4HBjoe3A71F6w"
     },
     {
       "added_at": "2026-05-26 22:00:49",
@@ -171,18 +171,18 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
-        "name": "Streets of London",
-        "url": "https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF"
+        "name": "Chlo\u00eb and the Next 20th Century",
+        "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
         }
       ],
-      "duration_ms": 189136,
-      "name": "Streets of London",
-      "url": "https://open.spotify.com/track/6s9KM1jKM4HBjoe3A71F6w"
+      "duration_ms": 300240,
+      "name": "Goodbye Mr. Blue",
+      "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
     },
     {
       "added_at": "2026-05-26 22:00:49",
@@ -435,18 +435,18 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
-        "name": "Conversation",
-        "url": "https://open.spotify.com/album/2uiBton7Bsbn3rFABv8vDp"
+        "name": "The Ones We Seek",
+        "url": "https://open.spotify.com/album/2Af8iQCdiVQUjW7RTy15Kc"
       },
       "artists": [
         {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+          "name": "Racoon",
+          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
         }
       ],
-      "duration_ms": 186438,
-      "name": "Conversation",
-      "url": "https://open.spotify.com/track/7xNTBpjd4aU98Roi43Gzzo"
+      "duration_ms": 274955,
+      "name": "The Ones We Seek",
+      "url": "https://open.spotify.com/track/63H0KKB9i7QO0bchVPffRm"
     },
     {
       "added_at": "2026-05-26 22:00:49",
@@ -467,18 +467,18 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
-        "name": "The Ones We Seek",
-        "url": "https://open.spotify.com/album/2Af8iQCdiVQUjW7RTy15Kc"
+        "name": "Conversation",
+        "url": "https://open.spotify.com/album/2uiBton7Bsbn3rFABv8vDp"
       },
       "artists": [
         {
-          "name": "Racoon",
-          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
         }
       ],
-      "duration_ms": 274955,
-      "name": "The Ones We Seek",
-      "url": "https://open.spotify.com/track/63H0KKB9i7QO0bchVPffRm"
+      "duration_ms": 186438,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/7xNTBpjd4aU98Roi43Gzzo"
     },
     {
       "added_at": "2026-05-26 22:00:49",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
-        "name": "Muscle Shoals",
-        "url": "https://open.spotify.com/album/4CgnYQ1ImIJaoxkgCmYXVt"
-      },
-      "artists": [
-        {
-          "name": "DeWolff",
-          "url": "https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k"
-        }
-      ],
-      "duration_ms": 182106,
-      "name": "Let's Stay Together",
-      "url": "https://open.spotify.com/track/6kttTC4qm7W8CTfOLcMrMG"
-    },
-    {
-      "added_at": "2026-05-26 22:00:49",
-      "album": {
         "name": "Pray",
         "url": "https://open.spotify.com/album/5fJ1VOWImcJkl9QLRsRHBS"
       },
@@ -707,18 +691,18 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
-        "name": "Northern Star",
-        "url": "https://open.spotify.com/album/5R4PL73ePjYo53hfmicqFP"
+        "name": "Muscle Shoals",
+        "url": "https://open.spotify.com/album/4CgnYQ1ImIJaoxkgCmYXVt"
       },
       "artists": [
         {
-          "name": "Nambyar",
-          "url": "https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9"
+          "name": "DeWolff",
+          "url": "https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k"
         }
       ],
-      "duration_ms": 192080,
-      "name": "Northern Star",
-      "url": "https://open.spotify.com/track/4cfVHLsWpN7dwbLRLsSoSn"
+      "duration_ms": 182106,
+      "name": "Let's Stay Together",
+      "url": "https://open.spotify.com/track/6kttTC4qm7W8CTfOLcMrMG"
     },
     {
       "added_at": "2026-05-26 22:00:49",
@@ -735,6 +719,22 @@
       "duration_ms": 230715,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz"
+    },
+    {
+      "added_at": "2026-05-26 22:00:49",
+      "album": {
+        "name": "Northern Star",
+        "url": "https://open.spotify.com/album/5R4PL73ePjYo53hfmicqFP"
+      },
+      "artists": [
+        {
+          "name": "Nambyar",
+          "url": "https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9"
+        }
+      ],
+      "duration_ms": 192080,
+      "name": "Northern Star",
+      "url": "https://open.spotify.com/track/4cfVHLsWpN7dwbLRLsSoSn"
     },
     {
       "added_at": "2026-05-26 22:00:49",
@@ -823,6 +823,22 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
+        "name": "Here's To Forever",
+        "url": "https://open.spotify.com/album/3p9p5hYgfz4AiC3tNfX4g7"
+      },
+      "artists": [
+        {
+          "name": "Bart van Liemt",
+          "url": "https://open.spotify.com/artist/3xLM1wsWj19ZjpYwmuyX5D"
+        }
+      ],
+      "duration_ms": 184883,
+      "name": "Here's To Forever",
+      "url": "https://open.spotify.com/track/1kPqJKym5MEHXO0Mpdh4Bx"
+    },
+    {
+      "added_at": "2026-05-26 22:00:49",
+      "album": {
         "name": "What Makes A King",
         "url": "https://open.spotify.com/album/59ZHtyohHl6rHbajav5ofK"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 244472,
       "name": "Heart of the Matter",
       "url": "https://open.spotify.com/track/6OkmVYAiybfvlSjrGnCTPb"
-    },
-    {
-      "added_at": "2026-05-26 22:00:49",
-      "album": {
-        "name": "Here's To Forever",
-        "url": "https://open.spotify.com/album/3p9p5hYgfz4AiC3tNfX4g7"
-      },
-      "artists": [
-        {
-          "name": "Bart van Liemt",
-          "url": "https://open.spotify.com/artist/3xLM1wsWj19ZjpYwmuyX5D"
-        }
-      ],
-      "duration_ms": 184883,
-      "name": "Here's To Forever",
-      "url": "https://open.spotify.com/track/1kPqJKym5MEHXO0Mpdh4Bx"
     },
     {
       "added_at": "2026-05-26 22:00:49",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
-        "name": "Brotherhood",
-        "url": "https://open.spotify.com/album/7haF1TCzyvqeqsb89lMlAT"
-      },
-      "artists": [
-        {
-          "name": "Isaac Roux",
-          "url": "https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA"
-        }
-      ],
-      "duration_ms": 236394,
-      "name": "Brotherhood",
-      "url": "https://open.spotify.com/track/2ETvqF6fCwAcGjI7OEZlRh"
-    },
-    {
-      "added_at": "2026-05-26 22:00:49",
-      "album": {
         "name": "Apple Tree",
         "url": "https://open.spotify.com/album/1iKpZ2BXsPfibh7g897dgx"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 178336,
       "name": "Apple Tree",
       "url": "https://open.spotify.com/track/3F8qD0jYXjGweKRYv5CQRf"
+    },
+    {
+      "added_at": "2026-05-26 22:00:49",
+      "album": {
+        "name": "Brotherhood",
+        "url": "https://open.spotify.com/album/7haF1TCzyvqeqsb89lMlAT"
+      },
+      "artists": [
+        {
+          "name": "Isaac Roux",
+          "url": "https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA"
+        }
+      ],
+      "duration_ms": 236394,
+      "name": "Brotherhood",
+      "url": "https://open.spotify.com/track/2ETvqF6fCwAcGjI7OEZlRh"
     },
     {
       "added_at": "2026-05-26 22:00:49",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
-        "name": "i'm changing my mind",
-        "url": "https://open.spotify.com/album/7cjunboFq4ymwahQTGiPQB"
-      },
-      "artists": [
-        {
-          "name": "Katie Koss",
-          "url": "https://open.spotify.com/artist/0tF0BK361CxlAYtmu6WADN"
-        }
-      ],
-      "duration_ms": 234336,
-      "name": "adeline",
-      "url": "https://open.spotify.com/track/0xMF4mYFyJXUjJPo3tcO0J"
-    },
-    {
-      "added_at": "2026-05-26 22:00:49",
-      "album": {
         "name": "Don't Leave Me Now",
         "url": "https://open.spotify.com/album/3242iTcpKXzQe4zFTp2AMz"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 232082,
       "name": "Don't Leave Me Now",
       "url": "https://open.spotify.com/track/6WmFcu5t23LYIw6jotpn5Z"
+    },
+    {
+      "added_at": "2026-05-26 22:00:49",
+      "album": {
+        "name": "i'm changing my mind",
+        "url": "https://open.spotify.com/album/7cjunboFq4ymwahQTGiPQB"
+      },
+      "artists": [
+        {
+          "name": "Katie Koss",
+          "url": "https://open.spotify.com/artist/0tF0BK361CxlAYtmu6WADN"
+        }
+      ],
+      "duration_ms": 234336,
+      "name": "adeline",
+      "url": "https://open.spotify.com/track/0xMF4mYFyJXUjJPo3tcO0J"
     },
     {
       "added_at": "2026-05-26 22:00:49",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
-        "name": "Pink Shades",
-        "url": "https://open.spotify.com/album/3ukzsoKcwtAyFnjtbGbCKw"
-      },
-      "artists": [
-        {
-          "name": "Blackbird",
-          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
-        }
-      ],
-      "duration_ms": 195586,
-      "name": "Lonely On Lovers Lane",
-      "url": "https://open.spotify.com/track/5PLSERzlNXmiOJsMMyI9j7"
-    },
-    {
-      "added_at": "2026-05-26 22:00:49",
-      "album": {
         "name": "Who Am I",
         "url": "https://open.spotify.com/album/2Kwf79Mrk1ms9T4lfIJiL6"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 145403,
       "name": "Who Am I",
       "url": "https://open.spotify.com/track/0YKcTnaJJ9U5QeX6TNqJ7z"
+    },
+    {
+      "added_at": "2026-05-26 22:00:49",
+      "album": {
+        "name": "Pink Shades",
+        "url": "https://open.spotify.com/album/3ukzsoKcwtAyFnjtbGbCKw"
+      },
+      "artists": [
+        {
+          "name": "Blackbird",
+          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "Lonely On Lovers Lane",
+      "url": "https://open.spotify.com/track/5PLSERzlNXmiOJsMMyI9j7"
     },
     {
       "added_at": "2026-05-26 22:00:49",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
-        "name": "Bend",
-        "url": "https://open.spotify.com/album/24Lcq3Gfs5zUkovQWsmTAT"
-      },
-      "artists": [
-        {
-          "name": "Noa Lee",
-          "url": "https://open.spotify.com/artist/4YGchyGbwAekTbhOxczQqM"
-        }
-      ],
-      "duration_ms": 236801,
-      "name": "Bend",
-      "url": "https://open.spotify.com/track/5ndA2BSNuy54Ga49nEkECX"
-    },
-    {
-      "added_at": "2026-05-26 22:00:49",
-      "album": {
         "name": "Your Spirit (From \"Team Spirit: Next Gen\")",
         "url": "https://open.spotify.com/album/7KE4vswEm8fYEq3WKmQucw"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 211862,
       "name": "Your Spirit - From \"Team Spirit: Next Gen\"",
       "url": "https://open.spotify.com/track/6WlW10QVG34BDyAZOCXL4N"
+    },
+    {
+      "added_at": "2026-05-26 22:00:49",
+      "album": {
+        "name": "Bend",
+        "url": "https://open.spotify.com/album/24Lcq3Gfs5zUkovQWsmTAT"
+      },
+      "artists": [
+        {
+          "name": "Noa Lee",
+          "url": "https://open.spotify.com/artist/4YGchyGbwAekTbhOxczQqM"
+        }
+      ],
+      "duration_ms": 236801,
+      "name": "Bend",
+      "url": "https://open.spotify.com/track/5ndA2BSNuy54Ga49nEkECX"
     },
     {
       "added_at": "2026-05-26 22:00:49",

@@ -2963,6 +2963,32 @@
     },
     {
       "album": {
+        "name": "Norge sk\u00e5rte m\u00e5l",
+        "url": "https://open.spotify.com/album/41JyMkkffGt09pkVnmI19w"
+      },
+      "artists": [
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        },
+        {
+          "name": "Han Helge & Han H\u00e5kon",
+          "url": "https://open.spotify.com/artist/1bIbltluV9bXeETPkdhDKI"
+        },
+        {
+          "name": "Andr\u00e9 Jensen",
+          "url": "https://open.spotify.com/artist/23FJYGygLXgiEHgVhzye71"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113606,
+      "name": "Norge sk\u00e5rte m\u00e5l",
+      "url": "https://open.spotify.com/track/57A2AQ1FjfAItYUIzhs4E6"
+    },
+    {
+      "album": {
         "name": "Normandie",
         "url": "https://open.spotify.com/album/77n1CfO0adsKZVHCGrZMnH"
       },
@@ -4451,7 +4477,7 @@
     },
     {
       "album": {
-        "name": "Vikingblod",
+        "name": "Vikingblod (Norway Row Chant)",
         "url": "https://open.spotify.com/album/6U7wwnQ9GrWMj4dCvOXky1"
       },
       "artists": [
@@ -4468,7 +4494,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 162045,
-      "name": "Vikingblod",
+      "name": "Vikingblod (Norway Row Chant)",
       "url": "https://open.spotify.com/track/34YF4ZTr6cWQyHsjAmV1Co"
     },
     {

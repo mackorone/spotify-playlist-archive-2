@@ -1,12 +1,12 @@
 {
   "description": "This is Alcolirykoz. The essential tracks, all in one playlist.",
-  "num_followers": 64118,
+  "num_followers": 64131,
   "original_name": "This Is Alcolirykoz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajcpgAAAAADl3sUGKM0zlcfE7fwsRxIy",
+  "snapshot_id": "ajh7AAAAAACHmRk9u40afih3sCYDvTMp",
   "tracks": [
     {
       "added_at": null,
@@ -300,13 +300,13 @@
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
         },
         {
-          "name": "Estee Nack",
-          "url": "https://open.spotify.com/artist/6BBkWyAZhcINj7GecYg3Wd"
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
         }
       ],
-      "duration_ms": 228148,
-      "name": "Reflujo",
-      "url": "https://open.spotify.com/track/04ri4wOci5SO0lbBTlShjp"
+      "duration_ms": 221590,
+      "name": "La Caza de Nari\u00f1o",
+      "url": "https://open.spotify.com/track/4JryerYhYVxt0KGJVHojSB"
     },
     {
       "added_at": null,
@@ -372,13 +372,13 @@
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
         },
         {
-          "name": "Junior Zamora",
-          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+          "name": "Estee Nack",
+          "url": "https://open.spotify.com/artist/6BBkWyAZhcINj7GecYg3Wd"
         }
       ],
-      "duration_ms": 221590,
-      "name": "La Caza de Nari\u00f1o",
-      "url": "https://open.spotify.com/track/4JryerYhYVxt0KGJVHojSB"
+      "duration_ms": 228148,
+      "name": "Reflujo",
+      "url": "https://open.spotify.com/track/04ri4wOci5SO0lbBTlShjp"
     },
     {
       "added_at": null,
@@ -423,26 +423,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pantone",
-        "url": "https://open.spotify.com/album/4KIYSo2O5ZqH03VeHXsWNX"
+        "name": "Efectos Secundarios",
+        "url": "https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq"
       },
       "artists": [
         {
-          "name": "No Rules Clan",
-          "url": "https://open.spotify.com/artist/6i28S1MHCSNJtufoq0DnPv"
-        },
-        {
           "name": "Alcolirykoz",
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "El Arkeologo",
-          "url": "https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre"
         }
       ],
-      "duration_ms": 265488,
-      "name": "Quien Va",
-      "url": "https://open.spotify.com/track/21WsQHnPcE2nGM7RUyuEay"
+      "duration_ms": 365706,
+      "name": "Otra Canci\u00f3n Larga",
+      "url": "https://open.spotify.com/track/2PfziMSEW5WDvoxSWCxRfT"
     },
     {
       "added_at": null,
@@ -463,18 +455,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Efectos Secundarios",
-        "url": "https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq"
+        "name": "Pantone",
+        "url": "https://open.spotify.com/album/4KIYSo2O5ZqH03VeHXsWNX"
       },
       "artists": [
         {
+          "name": "No Rules Clan",
+          "url": "https://open.spotify.com/artist/6i28S1MHCSNJtufoq0DnPv"
+        },
+        {
           "name": "Alcolirykoz",
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "El Arkeologo",
+          "url": "https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre"
         }
       ],
-      "duration_ms": 365706,
-      "name": "Otra Canci\u00f3n Larga",
-      "url": "https://open.spotify.com/track/2PfziMSEW5WDvoxSWCxRfT"
+      "duration_ms": 265488,
+      "name": "Quien Va",
+      "url": "https://open.spotify.com/track/21WsQHnPcE2nGM7RUyuEay"
     },
     {
       "added_at": null,
@@ -515,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Efectos Secundarios",
+        "url": "https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 209586,
+      "name": "Antes del Meridiano",
+      "url": "https://open.spotify.com/track/6l3SJhTmqqlmCcm3gMRTFE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "10",
         "url": "https://open.spotify.com/album/6pNVucax5EH9Nf90F6qqBq"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 231505,
       "name": "Mi Religi\u00f3n",
       "url": "https://open.spotify.com/track/3idFvZM9VyiIkjSOjfuGkJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Efectos Secundarios",
-        "url": "https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 209586,
-      "name": "Antes del Meridiano",
-      "url": "https://open.spotify.com/track/6l3SJhTmqqlmCcm3gMRTFE"
     },
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Efectos Secundarios",
+        "url": "https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 233906,
+      "name": "Anestesia Local - Episodio 2",
+      "url": "https://open.spotify.com/track/2CjZxvQhqXQdMilp1tAJSX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Horizonte",
         "url": "https://open.spotify.com/album/5JZJDct3WLX67mhEfJOJiZ"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 316002,
       "name": "La Esquina del Mariachi",
       "url": "https://open.spotify.com/track/5Ulvsqb4ekKiSuiEWFAAro"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Efectos Secundarios",
-        "url": "https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 233906,
-      "name": "Anestesia Local - Episodio 2",
-      "url": "https://open.spotify.com/track/2CjZxvQhqXQdMilp1tAJSX"
     },
     {
       "added_at": null,

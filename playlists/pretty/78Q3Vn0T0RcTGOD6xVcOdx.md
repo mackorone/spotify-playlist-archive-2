@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 
 > www.upmusicpromotion.com &\#x2F; IG: @upmusic\_promotion &\#x2F; promo@upmusicpromotion.com
 
-[UP Music ProMotion](https://open.spotify.com/user/11141650175) - 480 likes - 49 songs - 3 hr 12 min
+[UP Music ProMotion](https://open.spotify.com/user/11141650175) - 480 likes - 54 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,5 +57,10 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 | 47 | [La Clave que Mueve el Eje](https://open.spotify.com/track/2Av3rDnW8ZZU3q3FIcIeFG) | [LIUBO MIRA](https://open.spotify.com/artist/04YU4zYJaZXvCzAQNhrpsn) | [Corazón Programable](https://open.spotify.com/album/3CHzef5RiMMDRyTdyspNgZ) | 2:09 |
 | 48 | [Inmune a Tu Veneno](https://open.spotify.com/track/6X2AeXnTQlRbo3Gqpb1j1P) | [LIUBO MIRA](https://open.spotify.com/artist/04YU4zYJaZXvCzAQNhrpsn) | [Corazón Programable](https://open.spotify.com/album/3CHzef5RiMMDRyTdyspNgZ) | 2:41 |
 | 49 | [La Quema del Microchip](https://open.spotify.com/track/1BqaPt8RQwYk9Yq7spCUai) | [LIUBO MIRA](https://open.spotify.com/artist/04YU4zYJaZXvCzAQNhrpsn) | [Corazón Programable](https://open.spotify.com/album/3CHzef5RiMMDRyTdyspNgZ) | 2:32 |
+| 50 | [A Minha Natureza](https://open.spotify.com/track/266qMtgZ5vQAESnaGJDAGQ) | [StickClek](https://open.spotify.com/artist/0NmomGYNZEoWxCd89RjmZp) | [A Minha Natureza](https://open.spotify.com/album/5WYpjn1c84idZtmIZ3RA1a) | 3:21 |
+| 51 | [Noite Abençoada](https://open.spotify.com/track/2obhzL0eDaXSjbDBie0bRR) | [StickClek](https://open.spotify.com/artist/0NmomGYNZEoWxCd89RjmZp) | [Noite Abençoada](https://open.spotify.com/album/2pwbEltIxyNGPN3AorBMKf) | 3:05 |
+| 52 | [Te Quedaste Aqui](https://open.spotify.com/track/0M1N6VKGZOT31h5hVeHB2l) | [NBA D OG](https://open.spotify.com/artist/0XOLgv10SqN7yAZ5JGHtjy) | [Te Quedaste Aqui](https://open.spotify.com/album/3ZPvwZaFc4cQ1l2J1xgXR0) | 3:46 |
+| 53 | [Somos Argentina](https://open.spotify.com/track/0m8Xw5K1ElsnwYbw9annKa) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Somos Argentina](https://open.spotify.com/album/5mV30PKE8ngjym6n1kfegH) | 4:54 |
+| 54 | [Tu Primera](https://open.spotify.com/track/2YlY78siKTJAfYyLF1yAB4) | [Carmen Ferrer](https://open.spotify.com/artist/359XJlUvw7EUMAGeeGJ5Wk) | [Tu Primera](https://open.spotify.com/album/7ad6EW2XS1NfyktvuJl1uz) | 3:30 |
 
-Snapshot ID: `AAACQrl24J2Qn5ehtRfCPOHQ93Ii3peg`
+Snapshot ID: `AAACR9lUqnMyxWIKv6lyGwc1GD5FvCrp`

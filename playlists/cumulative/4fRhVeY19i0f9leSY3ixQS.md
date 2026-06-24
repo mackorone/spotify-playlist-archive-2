@@ -4,7 +4,7 @@
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-1,715 songs - 3 day 23 hr 47 min
+1,718 songs - 3 day 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -378,6 +378,7 @@
 | [DINKY](https://open.spotify.com/track/4PcYojEeQPi8Mz9gvCes1d) | [Obsolescence](https://open.spotify.com/artist/6IxEerSy0GrEJo2At5NIKd) | [DINKY](https://open.spotify.com/album/0eZV4Vs34YQ8MJ88pPWiEz) | 3:25 | 2026-02-19 | 2026-03-23 |
 | [Dirty Road](https://open.spotify.com/track/1mPxBtfu7Qad4RCOWK8SNF) | [JACK FLINT](https://open.spotify.com/artist/3C9CMQQDcbCQ9uUkg2ribC) | [Dirty Road](https://open.spotify.com/album/3NlyK2erdevSrtUhHEBIkD) | 5:41 | 2025-12-03 | 2025-12-24 |
 | [Diré](https://open.spotify.com/track/4DSQXiIQxqA2xTog0GEWEh) | [Nico Tallac](https://open.spotify.com/artist/7afY95ejJDhYH50Ce2mgsT) | [En Fin](https://open.spotify.com/album/4nZsWk64LWVpk3Dui3czf8) | 3:31 | 2026-04-01 | 2026-04-21 |
+| [disaster](https://open.spotify.com/track/0M201PbVv5MjbZkiWzCUlk) | [only tears](https://open.spotify.com/artist/6AaJR9N3Z2Ot4HGNdM4rlM) | [disaster](https://open.spotify.com/album/76FbLBSd2Zot5goToxcbHN) | 3:40 | 2026-06-24 |  |
 | [Disclaimer\*](https://open.spotify.com/track/1WNXukif2Uo84QFKkYe1or) | [FLAWERS](https://open.spotify.com/artist/5VnP0wjcPHZEburwioHNCv) | [Disclaimer\*](https://open.spotify.com/album/6Edik332rPxEVmkk0GPNEl) | 1:06 | 2026-02-16 | 2026-03-09 |
 | [Discípulo \(Early One, Live Festival Variable 2023\)](https://open.spotify.com/track/5XwD1NrTzPHWIGo6TSEmMY) | [Peak Level](https://open.spotify.com/artist/3bM9OXS4SVUI0UW9DMw5ss) | [Bootleg: Live Mutations](https://open.spotify.com/album/6rdKfnNY3tDWIoSXhxpT47) | 3:02 | 2026-06-20 |  |
 | [Discípulo \- Hierofante Mix](https://open.spotify.com/track/1kWZaubUIbzZb2q1n8lIhQ) | [Peak Level](https://open.spotify.com/artist/3bM9OXS4SVUI0UW9DMw5ss) | [MUTANTE](https://open.spotify.com/album/6ViLWsyal9h7WSiYMCBhhj) | 3:05 | 2026-03-28 | 2026-04-17 |
@@ -1097,6 +1098,7 @@
 | [Photographs](https://open.spotify.com/track/5vYRYdmlRythrdbuhn8Wjn) | [7 Seconds Later](https://open.spotify.com/artist/23sO4cYkyuwZmUuQC7o57N) | [7 Seconds Later](https://open.spotify.com/album/1V2De7aUannpYQgZPC7g11) | 3:45 | 2026-03-02 | 2026-03-21 |
 | [Pick Up The Pizza](https://open.spotify.com/track/7kFZX03v4lqTKUlRe6Wvf6) | [All My X's](https://open.spotify.com/artist/6ZqM5Fqw9kun5jTGnlW4eG) | [All My X's EP](https://open.spotify.com/album/00l4rp6PnDEmJ4vdCQwzzO) | 3:14 | 2026-02-05 | 2026-03-09 |
 | [Picture Perfidy](https://open.spotify.com/track/25pPeJGh8vJTRDo3QGxgaE) | [Fauxtrot](https://open.spotify.com/artist/78VcndnbhVab7nHy1N7oxZ), [Carter Jones](https://open.spotify.com/artist/7ffuOlhThgK7aJlEPpSqQe) | [Picture Perfidy](https://open.spotify.com/album/1tahUGoSJfOvGCkwoYAWZT) | 4:00 | 2025-11-10 | 2025-12-10 |
+| [PIGEON SONG](https://open.spotify.com/track/0rKsbKlzf4RKrCuY1IOW1n) | [Maz & The Phantasms](https://open.spotify.com/artist/3bxfjLBLwpN6sQjNYbBl26) | [PIGEON SONG](https://open.spotify.com/album/60OtUCCHdn2ygp4ECesGSm) | 2:38 | 2026-06-23 |  |
 | [ping pong accidents](https://open.spotify.com/track/2SVsSJRLst61ClO9cO8ZNt) | [statis](https://open.spotify.com/artist/5lBQgyk08a6q1asPjl5zAZ) | [ping pong accidents](https://open.spotify.com/album/13s21vFleWBuPLtp85TRLl) | 4:17 | 2026-02-05 | 2026-02-27 |
 | [Pink Noises](https://open.spotify.com/track/52gZK9uDQM7g0wvcvJ56wr) | [Satva](https://open.spotify.com/artist/5hW3wXuMeJBeG11j3YSL5o) | [Pink Noises](https://open.spotify.com/album/4PQrY6AeBdjMZMck9tDidz) | 3:31 | 2026-05-31 |  |
 | [Piras](https://open.spotify.com/track/1zfvzrHSoyScG5H9tWhpY9) | [No Drop For Us](https://open.spotify.com/artist/4miQtink0mV5twP3iWXFlw) | [Antesis, Pt\. 2](https://open.spotify.com/album/2VsJwTv5rzrQ4jMAdlesz0) | 2:58 | 2025-11-28 | 2026-01-15 |
@@ -1357,6 +1359,7 @@
 | [Stay Strong](https://open.spotify.com/track/786r3M66JjV31as4xj2UJT) | [Linear Television](https://open.spotify.com/artist/7qUePVdi85X7qkMtXPEXO2) | [Sandy Beach](https://open.spotify.com/album/0oYFz1J8RXu7xJQqDSIbJk) | 2:11 | 2026-01-06 | 2026-01-29 |
 | [Stay With Me](https://open.spotify.com/track/3Bd5rnQ4kDi3RbKbjbF8K9) | [Crying in Colour](https://open.spotify.com/artist/1gKbrFmybPXTOjGBXetQAn) | [Stay With Me](https://open.spotify.com/album/03giCh9I2o3HR4xmhld7F5) | 3:37 | 2026-05-14 | 2026-06-15 |
 | [Stay with Me](https://open.spotify.com/track/6b2bvHhn6kTmp8KDPHTigA) | [Main\-De\-Gloire](https://open.spotify.com/artist/1YcOnsBEycC9X5OY6kUzmV) | [Ravecøre](https://open.spotify.com/album/02S523fv6pPpr4kHdBHzdR) | 3:33 | 2025-12-13 | 2026-01-06 |
+| [Stealin'](https://open.spotify.com/track/3NSk6BSHNRUqkBHvXFvBDW) | [Simple Maschines](https://open.spotify.com/artist/1lii7viphugNgIVDRPBO4A) | [Simple Maschines 1](https://open.spotify.com/album/20Sr1qkXKpGgL0n0Jpf3M8) | 1:44 | 2026-06-23 |  |
 | [Still Breathing](https://open.spotify.com/track/6fFkH5gfwg57znzRCZST7w) | [Universe 25](https://open.spotify.com/artist/61MdTyU5sZjonNarb3DhMW) | [Still Breathing](https://open.spotify.com/album/34pHY28Okn87mA2Z4vGOJX) | 3:08 | 2026-03-05 |  |
 | [Still Here](https://open.spotify.com/track/5DaMgetKGZ1PFvLUcv9NiY) | [Gizem Demirhan](https://open.spotify.com/artist/1E0M9BtLjPMUurgqUqpi7o) | [Still Here](https://open.spotify.com/album/6k7m9nMvk7dJVqW00aoWaz) | 3:48 | 2025-12-22 | 2026-01-15 |
 | [Still Not Over It \(Not Even Close\)](https://open.spotify.com/track/3u2tXGtnEMgNPSjQkF8i2g) | [FairPlay](https://open.spotify.com/artist/4aFVqjsRwNkKdE4MJt3MwD) | [Still Not Over It \(Not Even Close\)](https://open.spotify.com/album/4gC7Szh10Em7tXEla72BRV) | 2:55 | 2026-01-16 | 2026-02-05 |

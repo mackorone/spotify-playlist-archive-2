@@ -4,7 +4,7 @@
 
 > The sound of the underground\. Cover: Bring Me The Horizon
 
-770 songs - 1 day 22 hr 10 min
+771 songs - 1 day 22 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,7 @@
 | [Eat My Dust!](https://open.spotify.com/track/3622QSjVmSaFdXKeYsCYBl) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [Eat My Dust!](https://open.spotify.com/album/4E8nAMLXCyRiaVP3sPgmUf) | 2:59 | 2026-01-30 |  |
 | [Echoes](https://open.spotify.com/track/0LaoxSSzKFhhbBQ9fGKxsc) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Echoes](https://open.spotify.com/album/0eZVWhcjULemVSblWXjqnV) | 4:29 | 2025-10-10 | 2026-01-19 |
 | [Ego \(Maniac\)](https://open.spotify.com/track/4FpAkBPkcL2U2jvdnQwUdL) | [Defences](https://open.spotify.com/artist/6M3IxScP80lP27UNxjrMJv) | [Shadowlight](https://open.spotify.com/album/68dh3KwPvAvRVpuG0Jx7u4) | 3:37 | 2024-11-08 | 2025-09-12 |
-| [Ego Death](https://open.spotify.com/track/2JJfPd80KcUu4IMD6ZjAkz) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Ego Death](https://open.spotify.com/album/4N7E4CwLMu8iaANPPT2Twx) | 2:12 | 2026-01-30 |  |
+| [Ego Death](https://open.spotify.com/track/2JJfPd80KcUu4IMD6ZjAkz) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Ego Death](https://open.spotify.com/album/4N7E4CwLMu8iaANPPT2Twx) | 2:12 | 2026-01-30 | 2026-06-24 |
 | [Emotion Sickness](https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Emotion Sickness](https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S) | 4:31 | 2023-05-11 | 2023-10-13 |
 | [End of You](https://open.spotify.com/track/0PsFsv5xUyX06ZhIEtFkeA) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk), [Courtney LaPlante](https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs) | [End of You](https://open.spotify.com/album/7heJiiZpgQXmqVIoz2Fra1) | 3:12 | 2025-09-05 |  |
 | [Enemy](https://open.spotify.com/track/6uw93PQ8gHcceraxPfCFUp) | [Oxymorrons](https://open.spotify.com/artist/3GDw9k8FzlOUxPzDUaUhlZ) | [Enemy](https://open.spotify.com/album/5kiallXslLnp6hxZRFhDkp) | 2:24 | 2023-07-25 | 2024-01-12 |
@@ -274,6 +274,7 @@
 | [Game Over](https://open.spotify.com/track/5dSidrJ5XHdP1xb11xpV2z) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Life Is But a Dream…](https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa) | 3:46 | 2023-06-01 | 2024-02-17 |
 | [GASOLINE](https://open.spotify.com/track/4HGEwC9WRC2NMVtIkaC5ye) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [GASOLINE](https://open.spotify.com/album/2ZL64l82SA1HN5EX06b4Kg) | 3:08 | 2026-01-30 | 2026-05-01 |
 | [Gethsemane](https://open.spotify.com/track/29JLgNBcOky7QB68OrvYxO) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 6:23 | 2025-05-08 | 2026-03-25 |
+| [Ghost In A Hell](https://open.spotify.com/track/1ifvotCn2amn0w2QomDaaj) | [Lake Malice](https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO) | [Ghost In A Hell](https://open.spotify.com/album/4UdIZrlx493O2rHab6VF4g) | 4:10 | 2026-06-12 |  |
 | [Gift Horse](https://open.spotify.com/track/67CrKLE8d3Qhm4gcltiKs1) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [TANGK](https://open.spotify.com/album/6U11VNHZAfYY3E9V4oFB2p) | 4:09 | 2024-06-28 | 2025-09-12 |
 | [Gifted Every Strength](https://open.spotify.com/track/50Rr3aPZNinnaTIbR7e3AG) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Gifted Every Strength](https://open.spotify.com/album/2Ds01d8hsxzJtNTEZVz41G) | 6:10 | 2025-05-02 | 2026-03-25 |
 | [Gila Monster](https://open.spotify.com/track/7zHiG2FFEpeGvBmJkgZzVv) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Gila Monster](https://open.spotify.com/album/7o29QKPMZsDZ64DDBrzQzN) | 4:35 | 2023-05-19 | 2023-08-11 |

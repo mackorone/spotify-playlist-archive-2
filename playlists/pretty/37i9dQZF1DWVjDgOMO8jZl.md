@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 
 > Sei nomi e sei storie che non vediamo l'ora di farvi scoprire e raccontarvi quest'anno 👀 Classe RADAR Italia 2026 in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,291 likes - 18 songs - 53 min 26 sec
+[Spotify](https://open.spotify.com/user/spotify) - 25,293 likes - 18 songs - 53 min 26 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

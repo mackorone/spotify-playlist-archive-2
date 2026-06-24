@@ -1,12 +1,12 @@
 {
   "description": "This is Victony. The essential tracks, all in one playlist.",
-  "num_followers": 17266,
+  "num_followers": 17281,
   "original_name": "This Is Victony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajcpgAAAAAAkmxwlJkNSgEAhHPwpwLa5",
+  "snapshot_id": "ajh7AAAAAADjNj4WYikdNM3/TITeaOoJ",
   "tracks": [
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Very Stubborn",
-        "url": "https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 136585,
-      "name": "V.S. Freestyle",
-      "url": "https://open.spotify.com/track/0WEjE529QbSQsEGrPr686Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Outlaw",
         "url": "https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 175000,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/6OeHAhsVn22nStOm1XRHLQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Very Stubborn",
+        "url": "https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 136585,
+      "name": "V.S. Freestyle",
+      "url": "https://open.spotify.com/track/0WEjE529QbSQsEGrPr686Q"
     },
     {
       "added_at": null,
@@ -871,6 +871,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Darling + Angelus",
+        "url": "https://open.spotify.com/album/7E5NyqTBqxn8SvkwznzgvY"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Angelus",
+      "url": "https://open.spotify.com/track/2oR4N3EY05WLEotPoMLRJ6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Symbol of Hope",
         "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 153560,
       "name": "Bebe",
       "url": "https://open.spotify.com/track/1agUOP9cocY7h4gY9t1tYh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Darling + Angelus",
-        "url": "https://open.spotify.com/album/7E5NyqTBqxn8SvkwznzgvY"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Angelus",
-      "url": "https://open.spotify.com/track/2oR4N3EY05WLEotPoMLRJ6"
     },
     {
       "added_at": null,

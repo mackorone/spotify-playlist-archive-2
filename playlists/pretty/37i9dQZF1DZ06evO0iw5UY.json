@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajcpgAAAAAAEqQ33GFjFCncMCBEvQL+h",
+  "snapshot_id": "ajh7AAAAAAB/C5wubjEx0IMBtsriShU1",
   "tracks": [
     {
       "added_at": null,
@@ -279,26 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eternal (SATOSHI Remix)",
-        "url": "https://open.spotify.com/album/0198aXZconibXvFhUMXx3x"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        },
-        {
-          "name": "SATOSHI",
-          "url": "https://open.spotify.com/artist/0B2e9vm885JoBB8MoGRUj9"
-        }
-      ],
-      "duration_ms": 183171,
-      "name": "Eternal - SATOSHI Remix",
-      "url": "https://open.spotify.com/track/47vBxe76ulueekDAfPnMhF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love // Chaos",
         "url": "https://open.spotify.com/album/3Iz1TViTuDQ6C7Cyn5CD7k"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 186853,
       "name": "Next Life (feat. Krewella)",
       "url": "https://open.spotify.com/track/1s9PSUpePBIkHH1hKjFQ32"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eternal (SATOSHI Remix)",
+        "url": "https://open.spotify.com/album/0198aXZconibXvFhUMXx3x"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        },
+        {
+          "name": "SATOSHI",
+          "url": "https://open.spotify.com/artist/0B2e9vm885JoBB8MoGRUj9"
+        }
+      ],
+      "duration_ms": 183171,
+      "name": "Eternal - SATOSHI Remix",
+      "url": "https://open.spotify.com/track/47vBxe76ulueekDAfPnMhF"
     },
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 195533,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/6vIUovlj8NGi1JfnzVUUBI"
+      "duration_ms": 205160,
+      "name": "Come & Get It",
+      "url": "https://open.spotify.com/track/2tI2DDT95lnvNhlPWZRMJ3"
     },
     {
       "added_at": null,
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 205160,
-      "name": "Come & Get It",
-      "url": "https://open.spotify.com/track/2tI2DDT95lnvNhlPWZRMJ3"
+      "duration_ms": 195533,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/6vIUovlj8NGi1JfnzVUUBI"
     },
     {
       "added_at": null,
@@ -511,18 +511,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "zer0",
-        "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
+        "name": "Goddess",
+        "url": "https://open.spotify.com/album/34a72beTRCPtigmNlHdy3G"
       },
       "artists": [
         {
           "name": "Krewella",
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        },
+        {
+          "name": "NERVO",
+          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
+        },
+        {
+          "name": "Raja Kumari",
+          "url": "https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25"
         }
       ],
-      "duration_ms": 186965,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/1Nd3uXANYEAy9z30IlzIWF"
+      "duration_ms": 177499,
+      "name": "Goddess",
+      "url": "https://open.spotify.com/track/5CwSEAyM1cQG2uV1XTHn34"
     },
     {
       "added_at": null,
@@ -539,6 +547,22 @@
       "duration_ms": 206946,
       "name": "Killin' It",
       "url": "https://open.spotify.com/track/4KraKuKPaSgHLZaqBRJNHc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "zer0",
+        "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 186965,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/1Nd3uXANYEAy9z30IlzIWF"
     },
     {
       "added_at": null,
@@ -567,30 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goddess",
-        "url": "https://open.spotify.com/album/34a72beTRCPtigmNlHdy3G"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        },
-        {
-          "name": "NERVO",
-          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
-        },
-        {
-          "name": "Raja Kumari",
-          "url": "https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25"
-        }
-      ],
-      "duration_ms": 177499,
-      "name": "Goddess",
-      "url": "https://open.spotify.com/track/5CwSEAyM1cQG2uV1XTHn34"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Team",
         "url": "https://open.spotify.com/album/4egttCfKypFMnO6eE3OT2R"
       },
@@ -603,6 +603,22 @@
       "duration_ms": 186506,
       "name": "Team",
       "url": "https://open.spotify.com/track/3NRrvr3ctGwpV1wLRjgSSs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New World Pt. 1",
+        "url": "https://open.spotify.com/album/2Ar8jEA2FlEofQbzLZAcXz"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 198822,
+      "name": "Be There",
+      "url": "https://open.spotify.com/track/7K0pKyU2oYG8TJHXXyEHGy"
     },
     {
       "added_at": null,
@@ -623,22 +639,6 @@
       "duration_ms": 225428,
       "name": "Alarm",
       "url": "https://open.spotify.com/track/6ZRenQ13CN0GaOnuKL9QNQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New World Pt. 1",
-        "url": "https://open.spotify.com/album/2Ar8jEA2FlEofQbzLZAcXz"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 198822,
-      "name": "Be There",
-      "url": "https://open.spotify.com/track/7K0pKyU2oYG8TJHXXyEHGy"
     },
     {
       "added_at": null,

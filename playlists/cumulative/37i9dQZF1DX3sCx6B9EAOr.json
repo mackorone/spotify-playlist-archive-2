@@ -2444,7 +2444,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 198237,
       "name": "BOTTOMS UP",
       "url": "https://open.spotify.com/track/5ThWoCQuCn1tqDUDBGkleB"
@@ -8643,6 +8643,24 @@
     },
     {
       "album": {
+        "name": "II - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/31DduRZUEYnZHXmiDwRb9R"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "In a Loop",
+      "url": "https://open.spotify.com/track/7lBkZa2B6poAKTI1yGdREd"
+    },
+    {
+      "album": {
         "name": "YOUTH IN THE SHADE",
         "url": "https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX"
       },
@@ -9156,7 +9174,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 198000,
       "name": "Keep It Slow",
       "url": "https://open.spotify.com/track/43xGjs1gxcKRdaLOtjeisg"
@@ -9622,6 +9640,24 @@
       "duration_ms": 179395,
       "name": "Lemon Drop",
       "url": "https://open.spotify.com/track/2kpmBZqu52h6uCZXFTIXJK"
+    },
+    {
+      "album": {
+        "name": "Lemon Tang - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/39xlBHb1gQvMVqRZLjaTjI"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Lemon Tang",
+      "url": "https://open.spotify.com/track/0NGFAcYQVHCIdQea2qSs1I"
     },
     {
       "album": {
@@ -14629,6 +14665,24 @@
     },
     {
       "album": {
+        "name": "SNAPBACK",
+        "url": "https://open.spotify.com/album/25CmZCmdlDSKjQ1CyBuysZ"
+      },
+      "artists": [
+        {
+          "name": "HOSHI",
+          "url": "https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "SNAPBACK",
+      "url": "https://open.spotify.com/track/3CVdqafJ9WtmiCGkR2d9rJ"
+    },
+    {
+      "album": {
         "name": "CHECKMATE",
         "url": "https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK"
       },
@@ -16888,7 +16942,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 190000,
       "name": "Twenty",
       "url": "https://open.spotify.com/track/5iu6gTajYJEGzF6maepqZd"

@@ -4141,6 +4141,24 @@
     },
     {
       "album": {
+        "name": "Down 2 Wait",
+        "url": "https://open.spotify.com/album/0KSf0zeLELHSegXvWvmEMi"
+      },
+      "artists": [
+        {
+          "name": "Crumb Pit",
+          "url": "https://open.spotify.com/artist/7FB7TG2lBUfqoNQlWz7z1I"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154971,
+      "name": "Down 2 Wait",
+      "url": "https://open.spotify.com/track/0GD71HdgxylP7DhFvGgYXC"
+    },
+    {
+      "album": {
         "name": "Down For Anything",
         "url": "https://open.spotify.com/album/6u2FL1r8zNSaUwGs3GVAdu"
       },

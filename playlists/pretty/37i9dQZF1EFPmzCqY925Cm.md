@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPmzCqY925Cm.md) - [plain]
 | 46 | [Drunk Enough to Say That I Love You \(Revolt Remix\)](https://open.spotify.com/track/5gkxFPflbWN4rfKXDE7p9V) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn) | [Drunk Enough to Say That I Love You \(Revolt Remix\)](https://open.spotify.com/album/3MCnPLixvb2nq5eejWumll) | 2:37 |
 | 47 | [If You’re Gonna Leave \- Bvrnout Remix](https://open.spotify.com/track/0orIbg5joaGx2SVelTEXxJ) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn), [BVRNOUT](https://open.spotify.com/artist/5oREZfPeedk4nyo1GpqKfU) | [If You’re Gonna Leave \(Bvrnout Remix\)](https://open.spotify.com/album/1QDU362NUzDMuDwNDZbIN8) | 3:05 |
 | 48 | [Psychopath](https://open.spotify.com/track/5dODr3iRHeaaHb2bx2j8O5) | [SIIICKBRAIN](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [MY MASOCHISTIC MIND](https://open.spotify.com/album/47ZhdYUbzhzhwi8u1hdLgt) | 3:00 |
-| 49 | [Bounce It](https://open.spotify.com/track/6VGCWfHwYWG6M165U4KKgw) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Bounce It](https://open.spotify.com/album/64MdNVoHUIU6aKRXViwTx5) | 2:10 |
-| 50 | [CLASSIC](https://open.spotify.com/track/3AgkaN9ca6gmA8vaBlgA3s) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [CLASSIC](https://open.spotify.com/album/5vA7TtHURjmn49seAAgWCG) | 3:18 |
+| 49 | [CLASSIC](https://open.spotify.com/track/3AgkaN9ca6gmA8vaBlgA3s) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [CLASSIC](https://open.spotify.com/album/5vA7TtHURjmn49seAAgWCG) | 3:18 |
+| 50 | [Bounce It](https://open.spotify.com/track/6VGCWfHwYWG6M165U4KKgw) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Bounce It](https://open.spotify.com/album/64MdNVoHUIU6aKRXViwTx5) | 2:10 |
 | 51 | [boyfriends/girlfriends](https://open.spotify.com/track/2zZ2mkijL7wveyHQznS6Wv) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [i really like being here](https://open.spotify.com/album/0avszn2ZfvqmjjhJHRBNXm) | 2:42 |
 | 52 | [Die Classic](https://open.spotify.com/track/1hoeH2WEypMiZqrXA7A1kG) | [secs on the beach](https://open.spotify.com/artist/5zDEuV2X31GgJ4R0tPosmM) | [Die Classic](https://open.spotify.com/album/2AaTxD0THPDjS2amHyTyb5) | 2:00 |
 | 53 | [cut me](https://open.spotify.com/track/6KrfX0RLQclPUiMt3TypvF) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [cut me](https://open.spotify.com/album/6xPEkn6QjznRqs263Cjht9) | 2:00 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPmzCqY925Cm.md) - [plain]
 | 68 | [Elevate](https://open.spotify.com/track/6G5XiYJ4nSvVdbdQeFPVax) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [CLASSIC](https://open.spotify.com/album/5vA7TtHURjmn49seAAgWCG) | 2:53 |
 | 69 | [Not My Problem](https://open.spotify.com/track/00xbhCeJjnu5IJbKUJRoz0) | [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt) | [You Should Prolly Sit Down For This](https://open.spotify.com/album/1IsDPJrQijue8GwAw6j3gz) | 3:07 |
 
-Snapshot ID: `AcU7xgAAAADB3+5N87mMDMZ6mJiNh9aB`
+Snapshot ID: `AcVBZgAAAAApR1LoJAbODY8gC5FQQcLX`

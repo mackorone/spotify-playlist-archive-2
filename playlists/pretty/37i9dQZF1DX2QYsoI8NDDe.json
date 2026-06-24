@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Lila Downs \ud83d\udd25",
-  "num_followers": 580016,
+  "num_followers": 580014,
   "original_name": "Women of M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,22 @@
     {
       "added_at": "2026-05-29 06:00:32",
       "album": {
+        "name": "Obvio No",
+        "url": "https://open.spotify.com/album/5ZG8d0cWqDDzJHsKhxaz0Z"
+      },
+      "artists": [
+        {
+          "name": "Viviann Baeza",
+          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
+        }
+      ],
+      "duration_ms": 196166,
+      "name": "Obvio No",
+      "url": "https://open.spotify.com/track/0ggedvT3TQhCOti5AKrvVU"
+    },
+    {
+      "added_at": "2026-05-29 06:00:32",
+      "album": {
         "name": "Hazy x Ti",
         "url": "https://open.spotify.com/album/3MuYnh1VWMP2ZPIdbbsMCh"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 213749,
       "name": "Hazy x Ti",
       "url": "https://open.spotify.com/track/32PH9SwqGeEpmyHfe64bn9"
-    },
-    {
-      "added_at": "2026-05-29 06:00:32",
-      "album": {
-        "name": "Obvio No",
-        "url": "https://open.spotify.com/album/5ZG8d0cWqDDzJHsKhxaz0Z"
-      },
-      "artists": [
-        {
-          "name": "Viviann Baeza",
-          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
-        }
-      ],
-      "duration_ms": 196166,
-      "name": "Obvio No",
-      "url": "https://open.spotify.com/track/0ggedvT3TQhCOti5AKrvVU"
     },
     {
       "added_at": "2026-05-29 06:00:32",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-05-29 06:00:32",
       "album": {
-        "name": "A Trav\u00e9s Del Vaso",
-        "url": "https://open.spotify.com/album/7op4sGECjAI3o6Bs0BDZoQ"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 182586,
-      "name": "A Trav\u00e9s Del Vaso",
-      "url": "https://open.spotify.com/track/3MtIfJ7WM8lTHxtf7rYe15"
-    },
-    {
-      "added_at": "2026-05-29 06:00:32",
-      "album": {
         "name": "Qu\u00e9 Hubiera Pasado",
         "url": "https://open.spotify.com/album/4kiLHKvcs4Tlm5h0kpekYC"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 159061,
       "name": "Qu\u00e9 Hubiera Pasado",
       "url": "https://open.spotify.com/track/4OW4oNqxITRHCR2mNI226f"
+    },
+    {
+      "added_at": "2026-05-29 06:00:32",
+      "album": {
+        "name": "A Trav\u00e9s Del Vaso",
+        "url": "https://open.spotify.com/album/7op4sGECjAI3o6Bs0BDZoQ"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 182586,
+      "name": "A Trav\u00e9s Del Vaso",
+      "url": "https://open.spotify.com/track/3MtIfJ7WM8lTHxtf7rYe15"
     },
     {
       "added_at": "2026-05-29 06:00:32",
@@ -535,26 +535,6 @@
     {
       "added_at": "2026-05-29 06:00:32",
       "album": {
-        "name": "\u00bfARDIDA QUI\u00c9N?",
-        "url": "https://open.spotify.com/album/4oxsCPmw0U4j8Rg5jg6ygJ"
-      },
-      "artists": [
-        {
-          "name": "Viviann Baeza",
-          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
-        },
-        {
-          "name": "Mar\u00eda Le\u00f3n",
-          "url": "https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc"
-        }
-      ],
-      "duration_ms": 140854,
-      "name": "\u00bfARDIDA QUI\u00c9N?",
-      "url": "https://open.spotify.com/track/0gCqNU4anOEcpwUY0u44br"
-    },
-    {
-      "added_at": "2026-05-29 06:00:32",
-      "album": {
         "name": "Malagradecido",
         "url": "https://open.spotify.com/album/5krkvlcYYbvYnuiUVwDFa9"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 174133,
       "name": "Malagradecido",
       "url": "https://open.spotify.com/track/09GKeaFkvYFasYLWC0S0Fm"
+    },
+    {
+      "added_at": "2026-05-29 06:00:32",
+      "album": {
+        "name": "\u00bfARDIDA QUI\u00c9N?",
+        "url": "https://open.spotify.com/album/4oxsCPmw0U4j8Rg5jg6ygJ"
+      },
+      "artists": [
+        {
+          "name": "Viviann Baeza",
+          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
+        },
+        {
+          "name": "Mar\u00eda Le\u00f3n",
+          "url": "https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc"
+        }
+      ],
+      "duration_ms": 140854,
+      "name": "\u00bfARDIDA QUI\u00c9N?",
+      "url": "https://open.spotify.com/track/0gCqNU4anOEcpwUY0u44br"
     },
     {
       "added_at": "2026-05-29 06:00:32",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-05-29 06:00:32",
       "album": {
-        "name": "Selectiva",
-        "url": "https://open.spotify.com/album/5WLtyQPSuBnKE7lB2O3HzB"
-      },
-      "artists": [
-        {
-          "name": "Helen Ochoa",
-          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
-        }
-      ],
-      "duration_ms": 141101,
-      "name": "Selectiva",
-      "url": "https://open.spotify.com/track/5KgIfj8LTD4ewnlML92z5g"
-    },
-    {
-      "added_at": "2026-05-29 06:00:32",
-      "album": {
         "name": "MEXICANA VOL. 2",
         "url": "https://open.spotify.com/album/5TI6LSYMxe2Tl21NnUb8u4"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 195060,
       "name": "Mi Reh\u00e9n",
       "url": "https://open.spotify.com/track/7IvhK66l8t2UQICRlg38W1"
+    },
+    {
+      "added_at": "2026-05-29 06:00:32",
+      "album": {
+        "name": "Selectiva",
+        "url": "https://open.spotify.com/album/5WLtyQPSuBnKE7lB2O3HzB"
+      },
+      "artists": [
+        {
+          "name": "Helen Ochoa",
+          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
+        }
+      ],
+      "duration_ms": 141101,
+      "name": "Selectiva",
+      "url": "https://open.spotify.com/track/5KgIfj8LTD4ewnlML92z5g"
     },
     {
       "added_at": "2026-05-29 06:00:32",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2026-05-29 06:00:32",
       "album": {
+        "name": "Que Ganas De No Verte Nunca M\u00e1s",
+        "url": "https://open.spotify.com/album/2hkLkzcmOqFnlhZPpx58kw"
+      },
+      "artists": [
+        {
+          "name": "ANDYVERE",
+          "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
+        }
+      ],
+      "duration_ms": 209920,
+      "name": "Que Ganas De No Verte Nunca M\u00e1s",
+      "url": "https://open.spotify.com/track/0Z1Hwnp3Ts3tpK4Lki5KOp"
+    },
+    {
+      "added_at": "2026-05-29 06:00:32",
+      "album": {
         "name": "No Me Vengas A Decir",
         "url": "https://open.spotify.com/album/5QeSWUvRuC1V7yUrLw3p4r"
       },
@@ -1091,18 +1107,18 @@
     {
       "added_at": "2026-05-29 06:00:32",
       "album": {
-        "name": "Que Ganas De No Verte Nunca M\u00e1s",
-        "url": "https://open.spotify.com/album/2hkLkzcmOqFnlhZPpx58kw"
+        "name": "Lo Que Se Dice Amor",
+        "url": "https://open.spotify.com/album/4Ok20KmkESQQ0rRvpciMbI"
       },
       "artists": [
         {
-          "name": "ANDYVERE",
-          "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 209920,
-      "name": "Que Ganas De No Verte Nunca M\u00e1s",
-      "url": "https://open.spotify.com/track/0Z1Hwnp3Ts3tpK4Lki5KOp"
+      "duration_ms": 192935,
+      "name": "Lo Que Se Dice Amor",
+      "url": "https://open.spotify.com/track/14aDLVA80RCtKbOdS0eVG7"
     },
     {
       "added_at": "2026-05-29 06:00:32",
@@ -1123,22 +1139,6 @@
       "duration_ms": 316883,
       "name": "Y Nos Dieron Las 10",
       "url": "https://open.spotify.com/track/5VTTS6tweu30FEBcMhhz0P"
-    },
-    {
-      "added_at": "2026-05-29 06:00:32",
-      "album": {
-        "name": "Lo Que Se Dice Amor",
-        "url": "https://open.spotify.com/album/4Ok20KmkESQQ0rRvpciMbI"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 192935,
-      "name": "Lo Que Se Dice Amor",
-      "url": "https://open.spotify.com/track/14aDLVA80RCtKbOdS0eVG7"
     },
     {
       "added_at": "2026-05-29 06:00:32",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2026-05-29 06:00:32",
       "album": {
+        "name": "Con Todo Y Mi Tristeza (En Vivo Desde Tenampa 100)",
+        "url": "https://open.spotify.com/album/10l6d2kg8dxjPemNIfxbUW"
+      },
+      "artists": [
+        {
+          "name": "Karina Catal\u00e1n",
+          "url": "https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx"
+        }
+      ],
+      "duration_ms": 254227,
+      "name": "Con Todo Y Mi Tristeza - En Vivo Desde Tenampa 100",
+      "url": "https://open.spotify.com/track/1KZ7bZLmto31FCm4G3dURQ"
+    },
+    {
+      "added_at": "2026-05-29 06:00:32",
+      "album": {
         "name": "Cuanto Te Amo",
         "url": "https://open.spotify.com/album/2ILRR1XBqTsQcq0vkn4FQ1"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 174552,
       "name": "Cuanto Te Amo",
       "url": "https://open.spotify.com/track/3H0TN0PotVH0SZVuxq34Gz"
-    },
-    {
-      "added_at": "2026-05-29 06:00:32",
-      "album": {
-        "name": "Con Todo Y Mi Tristeza (En Vivo Desde Tenampa 100)",
-        "url": "https://open.spotify.com/album/10l6d2kg8dxjPemNIfxbUW"
-      },
-      "artists": [
-        {
-          "name": "Karina Catal\u00e1n",
-          "url": "https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx"
-        }
-      ],
-      "duration_ms": 254227,
-      "name": "Con Todo Y Mi Tristeza - En Vivo Desde Tenampa 100",
-      "url": "https://open.spotify.com/track/1KZ7bZLmto31FCm4G3dURQ"
     },
     {
       "added_at": "2026-05-29 06:00:32",
@@ -1603,8 +1603,8 @@
     {
       "added_at": "2026-05-29 06:00:32",
       "album": {
-        "name": "Cuando Abras Los Ojos (En Vivo)",
-        "url": "https://open.spotify.com/album/4bVfMcEwztp8nUaqj5Pueq"
+        "name": "Caminos De Michoacan (En Vivo)",
+        "url": "https://open.spotify.com/album/2onjf4QRJiGJWCwkXSDTxp"
       },
       "artists": [
         {
@@ -1612,9 +1612,9 @@
           "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
         }
       ],
-      "duration_ms": 200745,
-      "name": "Cuando Abras Los Ojos (En Vivo)",
-      "url": "https://open.spotify.com/track/0Qe97fMABeUgesEKr51Xwl"
+      "duration_ms": 363264,
+      "name": "Caminos De Michoacan (En Vivo)",
+      "url": "https://open.spotify.com/track/1yaCfymfoO4c3bxCAWl3WD"
     },
     {
       "added_at": "2026-05-29 06:00:32",
@@ -1687,8 +1687,8 @@
     {
       "added_at": "2026-05-29 06:00:32",
       "album": {
-        "name": "Caminos De Michoacan (En Vivo)",
-        "url": "https://open.spotify.com/album/2onjf4QRJiGJWCwkXSDTxp"
+        "name": "Cuando Abras Los Ojos (En Vivo)",
+        "url": "https://open.spotify.com/album/4bVfMcEwztp8nUaqj5Pueq"
       },
       "artists": [
         {
@@ -1696,9 +1696,9 @@
           "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
         }
       ],
-      "duration_ms": 363264,
-      "name": "Caminos De Michoacan (En Vivo)",
-      "url": "https://open.spotify.com/track/1yaCfymfoO4c3bxCAWl3WD"
+      "duration_ms": 200745,
+      "name": "Cuando Abras Los Ojos (En Vivo)",
+      "url": "https://open.spotify.com/track/0Qe97fMABeUgesEKr51Xwl"
     },
     {
       "added_at": "2026-05-29 06:00:32",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2026-05-29 06:00:32",
       "album": {
-        "name": "SI T\u00da ERES MI HOMBRE Y YO TU MUJER (EN VIVO)",
-        "url": "https://open.spotify.com/album/4YnzTMA71h2DvfNSGhPk3w"
-      },
-      "artists": [
-        {
-          "name": "Liz Ocampo",
-          "url": "https://open.spotify.com/artist/41T07jnEGtuRN46wy778zx"
-        }
-      ],
-      "duration_ms": 233898,
-      "name": "SI T\u00da ERES MI HOMBRE Y YO TU MUJER - EN VIVO",
-      "url": "https://open.spotify.com/track/0E2Nw0aA2F5cHRybVGHhNP"
-    },
-    {
-      "added_at": "2026-05-29 06:00:32",
-      "album": {
         "name": "Lo Que No Sirve Estorba",
         "url": "https://open.spotify.com/album/082MmanG89tmj2GJUjkfrW"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 202436,
       "name": "Lo Que No Sirve Estorba",
       "url": "https://open.spotify.com/track/2dlyilz3XIHcrrLwbLfuKH"
+    },
+    {
+      "added_at": "2026-05-29 06:00:32",
+      "album": {
+        "name": "SI T\u00da ERES MI HOMBRE Y YO TU MUJER (EN VIVO)",
+        "url": "https://open.spotify.com/album/4YnzTMA71h2DvfNSGhPk3w"
+      },
+      "artists": [
+        {
+          "name": "Liz Ocampo",
+          "url": "https://open.spotify.com/artist/41T07jnEGtuRN46wy778zx"
+        }
+      ],
+      "duration_ms": 233898,
+      "name": "SI T\u00da ERES MI HOMBRE Y YO TU MUJER - EN VIVO",
+      "url": "https://open.spotify.com/track/0E2Nw0aA2F5cHRybVGHhNP"
     },
     {
       "added_at": "2026-05-29 06:00:32",

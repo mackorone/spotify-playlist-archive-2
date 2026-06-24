@@ -4,7 +4,7 @@
 
 > New & Hottest K\-Hip Hop is here\. \(Cover: NOWIAMYOUNG\)
 
-1,923 songs - 4 day 6 hr 42 min
+1,925 songs - 4 day 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Allergy \(Prod\. hyeminsong, Jeffrey White, shinjihang\)](https://open.spotify.com/track/2v9k16kHwaOhOMYmFTWeoY) | [iiso](https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v), [JJANGYOU](https://open.spotify.com/artist/3ViJGHHVOYothA6WMi2rYR) | [AP Melodies](https://open.spotify.com/album/6dGSTPRWk3ZwXVdb4Lsjzi) | 1:56 | 2025-08-04 | 2025-10-11 |
 | [Alone \(Feat\. LeeHi\)](https://open.spotify.com/track/2SSbQoEqPHu6qAgi3pFobY) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [ALONE](https://open.spotify.com/album/0t8BYpDMceb2cfEdHYwXhP) | 2:59 | 2022-06-27 | 2022-12-20 |
 | [Alright \(feat\. pH\-1, HAON & Jay Park\)](https://open.spotify.com/track/4e1o6BLtgFcDbaXEF1W6mA) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [POP A LOT](https://open.spotify.com/album/1QbzttUvCTfS4Auh28FsVf) | 3:10 | 2023-08-09 | 2024-03-09 |
+| [AMAZING \(feat\. Sik\-K\)](https://open.spotify.com/track/0h97ZHSA2ZSw7Gfz1NKTDY) | [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [FOREVER KIDS](https://open.spotify.com/album/3EhMtYhrnZ1XDJ7FyzmRLq) | 3:39 | 2026-06-23 |  |
 | [Ambition](https://open.spotify.com/track/5oxIQwbWIvAIYDmB2K8E6j) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [AMBITION 2/10](https://open.spotify.com/album/72jqOxG7FqqoUryy2GlCFl) | 3:12 | 2026-02-11 |  |
 | [Ambitious B](https://open.spotify.com/track/7fKg4Spmggqu64lZSgmv8J) | [Yumewanaii](https://open.spotify.com/artist/4oLq9qTt8P6pawQN1w9zL8) | [Ambitious B](https://open.spotify.com/album/3SbEXP35GLeN3ez8RQRncM) | 1:36 | 2025-09-08 | 2025-12-10 |
 | [AMBITIUN](https://open.spotify.com/track/76rhDyuK7Tevz35ZyXg9YO) | [untell](https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8) | [AMBITIUN](https://open.spotify.com/album/2bkjeiI3hNKJWRl9UCIGlk) | 3:13 | 2026-05-30 |  |
@@ -1858,6 +1859,7 @@
 | [YAH\-HO \(BADTITUDE\)](https://open.spotify.com/track/7MGHY91IHRqbhm6w4tPhYp) | [BADVILLAIN](https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV) | [OVERSTEP](https://open.spotify.com/album/15rdrWfjFtnMnzdZIemvoQ) | 2:12 | 2024-06-28 | 2024-10-24 |
 | [Yaro!](https://open.spotify.com/track/4XAR1tOVBg3GpLnd3HhxBd) | [Illho](https://open.spotify.com/artist/2BPEoEZ55KvqSrZMT9rHed), [FUNKY STONE](https://open.spotify.com/artist/2PM9Mze0xeJIIQsZW1czcE), [KOBU](https://open.spotify.com/artist/37zeVCSi7oqxfACeRAoKpV) | [Hold On](https://open.spotify.com/album/4d9drDaQNmCS7rEoEQ7xTO) | 2:46 | 2024-10-27 | 2024-11-28 |
 | [Yarrr](https://open.spotify.com/track/4BT0LtYtDN8bBaCPN0CPo1) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [Yarrr](https://open.spotify.com/album/2xMOUARfRlDtpJD1PlCNtQ) | 2:46 | 2026-05-12 |  |
+| [YATA](https://open.spotify.com/track/6qdTM5yID2MNsXgnDSPvJp) | [Odee](https://open.spotify.com/artist/6cXolDFPOgf0wuRe5kMPxo), [HOLYDAY](https://open.spotify.com/artist/6BEleStcBwip7cF71WVt1L) | [YATA](https://open.spotify.com/album/6fEZzDe1mWBBIToX7iiujb) | 2:35 | 2026-06-23 |  |
 | [YAYAYA \(Feat\. Mirani\)](https://open.spotify.com/track/6H7hpnwgn2zH1OUsJjbrPo) | [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX), [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [TokkinnyBrown1.5](https://open.spotify.com/album/5bOKueM07L06faNzgjL3U5) | 3:18 | 2021-12-21 | 2022-07-04 |
 | [YAYO \(Feat\. Slim9lock\)](https://open.spotify.com/track/31pv3Qj2wNfFIZ9ymhSL6L) | [Jimmy Paige](https://open.spotify.com/artist/0lb59tIBwWrDfP6X956pkK), [Slim 9lock](https://open.spotify.com/artist/0th6fLI9VttKJ9gIjoNPAM) | [YAYO \(Feat\. Slim 9lock\)](https://open.spotify.com/album/1bi4xVDtw9MMOW30seM4is) | 3:24 | 2023-04-07 | 2023-06-14 |
 | [YEAH! YEAH!](https://open.spotify.com/track/7vmq3Ukd8csLDpCvoOM9Do) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [4SHOBOIZ Vol\. 2: 4SHOVILLE](https://open.spotify.com/album/2PmrRGuWioIjWlJGvftkRl) | 3:04 | 2026-05-18 |  |

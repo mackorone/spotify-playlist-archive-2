@@ -347,22 +347,6 @@
     {
       "added_at": "2026-06-02 19:01:30",
       "album": {
-        "name": "Don\u2019t Make Me Love U",
-        "url": "https://open.spotify.com/album/5QQH6wCepwybR1tvROlfKy"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 205322,
-      "name": "Don\u2019t Make Me Love U",
-      "url": "https://open.spotify.com/track/5RCxs4hI3l01zASQkClUnm"
-    },
-    {
-      "added_at": "2026-06-02 19:01:30",
-      "album": {
         "name": "High Pony",
         "url": "https://open.spotify.com/album/2AfwyV0pnRmPb55yNXlgfO"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 233961,
       "name": "listening",
       "url": "https://open.spotify.com/track/10Lr9lK7wQGRyaCdb2kspj"
+    },
+    {
+      "added_at": "2026-06-02 19:01:30",
+      "album": {
+        "name": "Don\u2019t Make Me Love U",
+        "url": "https://open.spotify.com/album/5QQH6wCepwybR1tvROlfKy"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 205322,
+      "name": "Don\u2019t Make Me Love U",
+      "url": "https://open.spotify.com/track/5RCxs4hI3l01zASQkClUnm"
     },
     {
       "added_at": "2026-06-02 19:01:30",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-06-02 19:01:30",
       "album": {
-        "name": "Long Gone",
-        "url": "https://open.spotify.com/album/2qWxWWa2jYTMPwA15YwShN"
-      },
-      "artists": [
-        {
-          "name": "D\u00e2mares Gomes",
-          "url": "https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC"
-        }
-      ],
-      "duration_ms": 224426,
-      "name": "Long Gone",
-      "url": "https://open.spotify.com/track/4Hsjt3ANT8B2saagrW6wig"
-    },
-    {
-      "added_at": "2026-06-02 19:01:30",
-      "album": {
         "name": "Maniac",
         "url": "https://open.spotify.com/album/7zhKcGwizryo4VIJueO1V4"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 150853,
       "name": "Maniac",
       "url": "https://open.spotify.com/track/6zEgLCKqeYmAG83pEvXHw3"
+    },
+    {
+      "added_at": "2026-06-02 19:01:30",
+      "album": {
+        "name": "Long Gone",
+        "url": "https://open.spotify.com/album/2qWxWWa2jYTMPwA15YwShN"
+      },
+      "artists": [
+        {
+          "name": "D\u00e2mares Gomes",
+          "url": "https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC"
+        }
+      ],
+      "duration_ms": 224426,
+      "name": "Long Gone",
+      "url": "https://open.spotify.com/track/4Hsjt3ANT8B2saagrW6wig"
     },
     {
       "added_at": "2026-06-02 19:01:30",

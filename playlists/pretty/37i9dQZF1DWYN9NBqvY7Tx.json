@@ -1,6 +1,6 @@
 {
   "description": "Dance, bass, EDM, trap, phonk: the perfect gaming mix. ",
-  "num_followers": 1241929,
+  "num_followers": 1242059,
   "original_name": "Ultra Gaming",
   "owner": {
     "name": "Spotify",
@@ -275,42 +275,6 @@
     {
       "added_at": "2026-06-11 16:20:19",
       "album": {
-        "name": "MONTAGEM COMA",
-        "url": "https://open.spotify.com/album/5k8jDV518pIk74gBsU72fi"
-      },
-      "artists": [
-        {
-          "name": "ANDROMEDA",
-          "url": "https://open.spotify.com/artist/1RklNDIiYVZ3dYdEUnB0cS"
-        },
-        {
-          "name": "elysian.",
-          "url": "https://open.spotify.com/artist/51K0b3lRd87cKX02hU26we"
-        }
-      ],
-      "duration_ms": 73480,
-      "name": "MONTAGEM COMA",
-      "url": "https://open.spotify.com/track/2UbLtO7CH3jhez0n2T7uDC"
-    },
-    {
-      "added_at": "2026-06-11 16:20:19",
-      "album": {
-        "name": "Fluxxwave",
-        "url": "https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV"
-      },
-      "artists": [
-        {
-          "name": "Clovis Reyes",
-          "url": "https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6"
-        }
-      ],
-      "duration_ms": 150441,
-      "name": "Fluxxwave",
-      "url": "https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr"
-    },
-    {
-      "added_at": "2026-06-11 16:20:19",
-      "album": {
         "name": "Fendi 2",
         "url": "https://open.spotify.com/album/65K3PJuqDDFu40Tk93vvxU"
       },
@@ -331,6 +295,42 @@
       "duration_ms": 90526,
       "name": "Fendi 2",
       "url": "https://open.spotify.com/track/4CdFhK8D7bn5Qe6wvmuEwH"
+    },
+    {
+      "added_at": "2026-06-11 16:20:19",
+      "album": {
+        "name": "Fluxxwave",
+        "url": "https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV"
+      },
+      "artists": [
+        {
+          "name": "Clovis Reyes",
+          "url": "https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6"
+        }
+      ],
+      "duration_ms": 150441,
+      "name": "Fluxxwave",
+      "url": "https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr"
+    },
+    {
+      "added_at": "2026-06-11 16:20:19",
+      "album": {
+        "name": "MONTAGEM COMA",
+        "url": "https://open.spotify.com/album/5k8jDV518pIk74gBsU72fi"
+      },
+      "artists": [
+        {
+          "name": "ANDROMEDA",
+          "url": "https://open.spotify.com/artist/1RklNDIiYVZ3dYdEUnB0cS"
+        },
+        {
+          "name": "elysian.",
+          "url": "https://open.spotify.com/artist/51K0b3lRd87cKX02hU26we"
+        }
+      ],
+      "duration_ms": 73480,
+      "name": "MONTAGEM COMA",
+      "url": "https://open.spotify.com/track/2UbLtO7CH3jhez0n2T7uDC"
     },
     {
       "added_at": "2026-06-11 16:20:19",
@@ -547,6 +547,22 @@
     {
       "added_at": "2026-06-11 16:20:19",
       "album": {
+        "name": "Running Around",
+        "url": "https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "duration_ms": 124620,
+      "name": "Running Around",
+      "url": "https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE"
+    },
+    {
+      "added_at": "2026-06-11 16:20:19",
+      "album": {
         "name": "CLIMA LINDO",
         "url": "https://open.spotify.com/album/3StJkT99NLpTwoGjzbEqpH"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 81995,
       "name": "CLIMA LINDO - SLOWED",
       "url": "https://open.spotify.com/track/5ymkm3U65CzrLbij6eerzp"
-    },
-    {
-      "added_at": "2026-06-11 16:20:19",
-      "album": {
-        "name": "Running Around",
-        "url": "https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        }
-      ],
-      "duration_ms": 124620,
-      "name": "Running Around",
-      "url": "https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE"
     },
     {
       "added_at": "2026-06-11 16:20:19",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2026-06-11 16:20:19",
       "album": {
-        "name": "vendetta!",
-        "url": "https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr"
-      },
-      "artists": [
-        {
-          "name": "MUPP",
-          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
-        },
-        {
-          "name": "Sadfriendd",
-          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
-        }
-      ],
-      "duration_ms": 107044,
-      "name": "vendetta!",
-      "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
-    },
-    {
-      "added_at": "2026-06-11 16:20:19",
-      "album": {
         "name": "Butterfly 2026",
         "url": "https://open.spotify.com/album/1lwNp8Fmtac2FTiI1fh3w9"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 164336,
       "name": "Butterfly 2026",
       "url": "https://open.spotify.com/track/1DznCjR8ml1o2j2bEG5kN6"
+    },
+    {
+      "added_at": "2026-06-11 16:20:19",
+      "album": {
+        "name": "vendetta!",
+        "url": "https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr"
+      },
+      "artists": [
+        {
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+        },
+        {
+          "name": "Sadfriendd",
+          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
+        }
+      ],
+      "duration_ms": 107044,
+      "name": "vendetta!",
+      "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
     },
     {
       "added_at": "2026-06-11 16:20:19",
@@ -1563,22 +1563,26 @@
     {
       "added_at": "2026-06-11 16:20:19",
       "album": {
-        "name": "Duro",
-        "url": "https://open.spotify.com/album/6qVJg6v3zLf9tEm7cQiRch"
+        "name": "Where You Are (GRiZ Remix)",
+        "url": "https://open.spotify.com/album/6kULCT45GzgLQp2DbCA0oS"
       },
       "artists": [
         {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         },
         {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        },
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
         }
       ],
-      "duration_ms": 185600,
-      "name": "Duro",
-      "url": "https://open.spotify.com/track/0TCXWkIuBKZeHAzn1O75FS"
+      "duration_ms": 240000,
+      "name": "Where You Are - GRiZ Remix",
+      "url": "https://open.spotify.com/track/47kEJq44ZBrRBD4gvdCu0v"
     },
     {
       "added_at": "2026-06-11 16:20:19",
@@ -1623,26 +1627,22 @@
     {
       "added_at": "2026-06-11 16:20:19",
       "album": {
-        "name": "Where You Are (GRiZ Remix)",
-        "url": "https://open.spotify.com/album/6kULCT45GzgLQp2DbCA0oS"
+        "name": "Duro",
+        "url": "https://open.spotify.com/album/6qVJg6v3zLf9tEm7cQiRch"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
         },
         {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        },
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Where You Are - GRiZ Remix",
-      "url": "https://open.spotify.com/track/47kEJq44ZBrRBD4gvdCu0v"
+      "duration_ms": 185600,
+      "name": "Duro",
+      "url": "https://open.spotify.com/track/0TCXWkIuBKZeHAzn1O75FS"
     },
     {
       "added_at": "2026-06-11 16:20:19",
@@ -1735,18 +1735,22 @@
     {
       "added_at": "2026-06-11 16:20:19",
       "album": {
-        "name": ">>>hands on me<<<",
-        "url": "https://open.spotify.com/album/0F588VeJ3cyYy6AnZFcXMv"
+        "name": "ONE FOR YOU",
+        "url": "https://open.spotify.com/album/5HSr7vEpd8zbvP4F0hquzd"
       },
       "artists": [
         {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+          "name": "ALLEYCVT",
+          "url": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1"
+        },
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
         }
       ],
-      "duration_ms": 137560,
-      "name": ">>>hands on me<<<",
-      "url": "https://open.spotify.com/track/3g6l32hAD99c9SFQRAZutd"
+      "duration_ms": 152516,
+      "name": "ONE FOR YOU",
+      "url": "https://open.spotify.com/track/3b26vJtV7KETHKtu4sxabB"
     },
     {
       "added_at": "2026-06-11 16:20:19",
@@ -1775,22 +1779,18 @@
     {
       "added_at": "2026-06-11 16:20:19",
       "album": {
-        "name": "ONE FOR YOU",
-        "url": "https://open.spotify.com/album/5HSr7vEpd8zbvP4F0hquzd"
+        "name": ">>>hands on me<<<",
+        "url": "https://open.spotify.com/album/0F588VeJ3cyYy6AnZFcXMv"
       },
       "artists": [
         {
-          "name": "ALLEYCVT",
-          "url": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1"
-        },
-        {
-          "name": "Levity",
-          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
         }
       ],
-      "duration_ms": 152516,
-      "name": "ONE FOR YOU",
-      "url": "https://open.spotify.com/track/3b26vJtV7KETHKtu4sxabB"
+      "duration_ms": 137560,
+      "name": ">>>hands on me<<<",
+      "url": "https://open.spotify.com/track/3g6l32hAD99c9SFQRAZutd"
     },
     {
       "added_at": "2026-06-11 16:20:19",

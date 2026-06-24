@@ -6914,7 +6914,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 226000,
       "name": "STRAIGHT LINE",
       "url": "https://open.spotify.com/track/5eUuNoeb3ssH6T6zQiXsIj"
@@ -8784,6 +8784,24 @@
       "duration_ms": 196666,
       "name": "You Broke Up with Me",
       "url": "https://open.spotify.com/track/5jZF1nvKORdaHNjNNMRbFl"
+    },
+    {
+      "album": {
+        "name": "One Of Us",
+        "url": "https://open.spotify.com/album/1JusbAeAs7tTPKAn0Y6iiA"
+      },
+      "artists": [
+        {
+          "name": "James Barker Band",
+          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189638,
+      "name": "You Didn\u2019t Hear It From Me",
+      "url": "https://open.spotify.com/track/3nf11phTAo1DOMNwEWCBBf"
     },
     {
       "album": {

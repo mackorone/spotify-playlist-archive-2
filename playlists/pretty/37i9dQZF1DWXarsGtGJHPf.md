@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXarsGtGJHPf.md) - [plain]
 
 > Enjoy the iconic K\-OSTs with the music videos! \(Cover: 신입사원 강회장\) \(K\-OST를 뮤직비디오와 함께 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,366 likes - 37 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,369 likes - 37 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

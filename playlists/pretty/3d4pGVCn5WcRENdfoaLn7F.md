@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 743 likes - 70 songs - 4 hr 7 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 747 likes - 71 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,5 +78,6 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 68 | [Anthem](https://open.spotify.com/track/7yERL9lG267wju2Ufue3ac) | [No Man's Land](https://open.spotify.com/artist/4DrY8MPAU23CWiFre0klEI) | [Anthem](https://open.spotify.com/album/5wg8ZXbOlWn14e7NdFOs3D) | 3:18 |
 | 69 | [Let You Go](https://open.spotify.com/track/1fpxd2RNpar9ICN3JyckXW) | [The Winter Sloths](https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD) | [The Winter Sloths](https://open.spotify.com/album/3wjHKUaiAB5FmDqvM7s3Rr) | 3:28 |
 | 70 | [Too Close To The Headlights](https://open.spotify.com/track/1FvzRpndnImsgnoEXxm6ce) | [Frode Møller](https://open.spotify.com/artist/5r3LiRT8ytsGdckgx8hJwo) | [Too Close To The Headlights](https://open.spotify.com/album/01McrIbaakCYoirVvaeqKQ) | 3:47 |
+| 71 | [Fake Illusion](https://open.spotify.com/track/4XV8XVah83sBK4easO1Le0) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Fake Illusion](https://open.spotify.com/album/2Huu4WMjqQTA5C0KBjd54P) | 3:04 |
 
-Snapshot ID: `AAADv8rhUCBSt1vG7kJXF83VYKhbt0LR`
+Snapshot ID: `AAADwBaNb6LdGzn5YY+co5STlVUzgZ0s`

@@ -17546,7 +17546,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 130423,
       "name": "Se ei ollu min\u00e4",
       "url": "https://open.spotify.com/track/6pcFppgbBG2eXOGdRn46kH"
@@ -20806,6 +20806,24 @@
       "duration_ms": 169074,
       "name": "Toista sua",
       "url": "https://open.spotify.com/track/0tQZ5PHjvaTprcgfdbOgKk"
+    },
+    {
+      "album": {
+        "name": "Toivon et se olisit s\u00e4",
+        "url": "https://open.spotify.com/album/0IJt19qld2lforDczKV6TN"
+      },
+      "artists": [
+        {
+          "name": "aitojulia",
+          "url": "https://open.spotify.com/artist/5y5CYG7Qt66h5rNyfuPCaF"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151800,
+      "name": "Toivon et se olisit s\u00e4",
+      "url": "https://open.spotify.com/track/07MLh6bAdCtDr5IzSejES5"
     },
     {
       "album": {

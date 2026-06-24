@@ -4,7 +4,7 @@
 
 > 世界中で話題のエレクトロニック・ダンスミュージックを一つのプレイリストに！Cover: Robin Schulz x Marten Hørger
 
-789 songs - 1 day 16 hr 39 min
+790 songs - 1 day 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,6 +321,7 @@
 | [Helium](https://open.spotify.com/track/6boSF01JluHcotXBvUcnEz) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Helium](https://open.spotify.com/album/2dMZhbMxAjRSWPjSOUkr1B) | 2:18 | 2025-08-14 | 2025-11-19 |
 | [Hello](https://open.spotify.com/track/15aqhgN9LLd7TvuF367e57) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Hello](https://open.spotify.com/album/0Ep3CUwcbfWRyKLiTWvEKk) | 2:54 | 2025-10-02 | 2025-10-17 |
 | [Here We Go Again](https://open.spotify.com/track/3WsbAGQt6HgTj9kg6f466M) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Here We Go Again](https://open.spotify.com/album/1MIlk0URqciXoiT8xqLzZf) | 2:44 | 2023-03-16 | 2023-08-24 |
+| [Here With Me Now](https://open.spotify.com/track/1Hu1QammuVLqU6IvvmbV2n) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Here With Me Now](https://open.spotify.com/album/1yGhvmVC9eJXFO1xs3ttwf) | 4:20 | 2026-06-12 |  |
 | [Hero](https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Hero](https://open.spotify.com/album/5jbvicaA8IhNJxOyr4iXtt) | 2:55 | 2023-05-04 | 2024-03-03 |
 | [HIGHER](https://open.spotify.com/track/7a82N5DrxDyrLMaP3tq9NM) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [HIGHER](https://open.spotify.com/album/0VaYBiCTEsEKPTrezUpwla) | 2:11 | 2024-08-22 | 2024-08-30 |
 | [Higher Power](https://open.spotify.com/track/7paRyIC5aRpiiYkiBnT39O) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Higher Power](https://open.spotify.com/album/4bQrdY8wBoLMaeCwzFlsfd) | 3:07 | 2025-08-07 | 2025-09-26 |
@@ -363,7 +364,7 @@
 | [If Only I \(feat\. Bebe Rexha\)](https://open.spotify.com/track/5oOgt1g5fB45ZkHZjjB9Qy) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [If Only I \(feat\. Bebe Rexha\)](https://open.spotify.com/album/0kd0OCzyoqrr0c9n66xjgi) | 2:22 | 2023-06-22 | 2023-06-24 |
 | [If U Need It](https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [If U Need It](https://open.spotify.com/album/628CN0UzuPsstc678cQ5Sn) | 2:59 | 2023-11-30 | 2025-06-06 |
 | [Illusion \- The Blaze Remix](https://open.spotify.com/track/2Z8bXQpJTjR78t7nu4FRCk) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [Illusion \(The Blaze Remix\)](https://open.spotify.com/album/1eQnfWI0gVyTFV1aT3DQwE) | 4:10 | 2024-06-20 | 2024-06-29 |
-| [Impossible](https://open.spotify.com/track/64rrzPOGT6mu1928QXogfu) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Impossible](https://open.spotify.com/album/2NYFG63e3WzinNocpndoSM) | 2:53 | 2026-04-23 |  |
+| [Impossible](https://open.spotify.com/track/64rrzPOGT6mu1928QXogfu) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Impossible](https://open.spotify.com/album/2NYFG63e3WzinNocpndoSM) | 2:53 | 2026-04-23 | 2026-06-24 |
 | [In My Arms](https://open.spotify.com/track/6nJiqVmR1SyAu50GuDenIJ) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [In My Arms](https://open.spotify.com/album/5QWkS6NoS33Nf3N0FomUzy) | 3:28 | 2025-05-15 | 2025-08-30 |
 | [In My Bones](https://open.spotify.com/track/1dcK8O2qEq7E34o4ImQEco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [In My Bones](https://open.spotify.com/album/1KIJzQIjSlJaSQZ9qLf1kB) | 2:36 | 2024-04-25 | 2024-11-29 |
 | [In My Dreams](https://open.spotify.com/track/0cs3wJc2hHHGHw13ZTYf5j) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [In My Dreams](https://open.spotify.com/album/5XSd8ZVFkVv0VsCznOA6Ia) | 4:50 | 2024-09-12 | 2024-11-15 |

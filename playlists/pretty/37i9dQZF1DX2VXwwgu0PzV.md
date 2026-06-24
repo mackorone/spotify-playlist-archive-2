@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: CalledOut Music
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,234 likes - 124 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,251 likes - 124 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 36 | [Your Way II](https://open.spotify.com/track/0HRE64PXOwTEYVyfHEdDme) | [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv), [Abims](https://open.spotify.com/artist/3ByJvshy0yP9wc2dOOIuKJ), [Psalm Hills](https://open.spotify.com/artist/2pssl6dzeh6h6IpUIq9XQ7) | [Your Way II](https://open.spotify.com/album/7nQhHNDOjjHWk59SvT8G1B) | 3:46 |
 | 37 | [Nobody](https://open.spotify.com/track/3OjNHsBXP8V1ABRru6tsoZ) | [SS City](https://open.spotify.com/artist/4OpSoBF444VaTHCWmhEzWn), [Thombee](https://open.spotify.com/artist/0KF8JaRrXlN4Bs9BH6KtNp), [Chuks Paschal](https://open.spotify.com/artist/3pUYC0FslPFdR87XdMggxE) | [Nobody](https://open.spotify.com/album/4JUJnWsPI7CAdTmg2pZ0iz) | 2:41 |
 | 38 | [Reckless Lover](https://open.spotify.com/track/65jA8kJUA3BHyH1h1QGkwk) | [Paul Tomisin](https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ) | [Reckless Lover](https://open.spotify.com/album/6P1Sbx3KoBeJpLCc7PllDB) | 8:57 |
-| 39 | [Forgotten](https://open.spotify.com/track/77xKiiGTuxfgRNkRMaEZTm) | [Anna Makula](https://open.spotify.com/artist/2sCH9kYASIAGOaloAfOe44) | [Forgotten](https://open.spotify.com/album/3aOSbxEXQPKl3n9Q8t26GE) | 3:03 |
+| 39 | [Forgotten \(Live\)](https://open.spotify.com/track/77xKiiGTuxfgRNkRMaEZTm) | [Anna Makula](https://open.spotify.com/artist/2sCH9kYASIAGOaloAfOe44) | [Forgotten \(Live\)](https://open.spotify.com/album/3aOSbxEXQPKl3n9Q8t26GE) | 3:03 |
 | 40 | [Jugular Jugular](https://open.spotify.com/track/4cB6amZ81ycrtmCSGIhl2N) | [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Jugular Jugular](https://open.spotify.com/album/4fRHMcvU4cAsebcPGqOPxn) | 4:35 |
 | 41 | [Unending Joy](https://open.spotify.com/track/5Ze3zGf8vy3KNI64MAyOXa) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Unending Joy](https://open.spotify.com/album/1JlSlgPAX5ES1G05LZJESr) | 9:45 |
 | 42 | [Brand New](https://open.spotify.com/track/0Rdeo8okBZiBc6MV6Jv98j) | [Nuelzo](https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR), [KIMAH](https://open.spotify.com/artist/3A3j7JESpmqIZQNz4C7GRn), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY) | [Brand New](https://open.spotify.com/album/0EKBkpWSi4KEtWPzfI9pGO) | 2:24 |

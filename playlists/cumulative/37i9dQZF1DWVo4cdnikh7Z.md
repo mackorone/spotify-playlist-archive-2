@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Vishwanath & Sons
 
-2,464 songs - 6 day 4 hr 25 min
+2,465 songs - 6 day 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1083,6 +1083,7 @@
 | [Lokiverse 2.0](https://open.spotify.com/track/5OxVOeYmIzelfupJtq1X6G) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Leo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2nZKDF0ZFy0Pv7uMakAwZh) | 1:54 | 2023-10-19 | 2024-01-23 |
 | [Lolaakku](https://open.spotify.com/track/2WEkAU9Yc3vPAYxPCxT3yA) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [Kondraal Paavam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0fbQxKzE6e2pp4SdZAB23L) | 3:45 | 2023-03-03 | 2023-04-14 |
 | [Lottery Kanni Lottery Kanni.](https://open.spotify.com/track/21glqvrpCdBaGdRpxshNK1) | [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Bumper \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ptCtZkGcwG0URQidQrRPv) | 2:17 | 2023-07-04 | 2023-07-19 |
+| [Love \- U Love \- U Kaatteri \- From "Immortal"](https://open.spotify.com/track/64t2s5KpGBjyTR2rXdvIl0) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Reshma Shyam](https://open.spotify.com/artist/6gLyEME6OfBcqYtrDt1JlB), [Shalli C](https://open.spotify.com/artist/2JYc2MZ0MVSBwt7FcAKViU) | [Love \- U Love \- U Kaatteri \(From "Immortal"\)](https://open.spotify.com/album/52S95XXrGaWRJoczIUBd3l) | 3:36 | 2026-06-23 |  |
 | [Love Advice Song](https://open.spotify.com/track/7AR6fGWF1jzeeMM9te05KS) | [Vijay Antony](https://open.spotify.com/artist/6CtYzQvENTdGq5LPPsePdV) | [Pookie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5iw6PpoSiYztUxQWeKAm66) | 3:29 | 2026-02-09 | 2026-04-07 |
 | [Love Advice Song \(From "Pookie"\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/track/6YJPbn4xYdXkiuTPZXbVXk) | [Vijay Antony](https://open.spotify.com/artist/6CtYzQvENTdGq5LPPsePdV) | [Love Advice Song \(From "Pookie"\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4HwydFcoKq74uNsRTfdMHX) | 3:30 | 2025-12-22 | 2026-02-10 |
 | [Love Detox](https://open.spotify.com/track/6w4adLRDDcq4mHepGn7Ss4) | [Punya Selva](https://open.spotify.com/artist/6uvIzuYq1gO5Q4AkLwSIgw), [Suriya](https://open.spotify.com/artist/5jyOS8L5CughATUjhDX8GP), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Arunraja Kamaraj](https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe) | [Retro \[TAMIL\]](https://open.spotify.com/album/5G6wOndtXdAygfFXSy1f7q) | 3:30 | 2025-04-19 | 2025-06-13 |

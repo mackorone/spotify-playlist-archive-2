@@ -1,6 +1,6 @@
 {
   "description": "A calm sea, a quiet beach, a peaceful moment... \nRelax, sleep, meditate, with soft sounds of the soothing surf.",
-  "num_followers": 116826,
+  "num_followers": 116862,
   "original_name": "Gentle Waves",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-04-02 18:24:59",
       "album": {
-        "name": "Nautical Days",
-        "url": "https://open.spotify.com/album/5Sd5iK6P9H1zcoQGp5di2m"
-      },
-      "artists": [
-        {
-          "name": "Lave",
-          "url": "https://open.spotify.com/artist/5EA4MDPkAtu1hrHhgM8tWK"
-        }
-      ],
-      "duration_ms": 147534,
-      "name": "Flowing Through Me",
-      "url": "https://open.spotify.com/track/3kl2pNDxGQPFlVc7vcgZ41"
-    },
-    {
-      "added_at": "2026-04-02 18:24:59",
-      "album": {
         "name": "Wuthering Lochs",
         "url": "https://open.spotify.com/album/4vLzq2D9GTVMz6t1qUFSWZ"
       },
@@ -683,22 +667,6 @@
     {
       "added_at": "2026-04-02 18:24:59",
       "album": {
-        "name": "Gentle Waves",
-        "url": "https://open.spotify.com/album/7tM4OvM5AlaiTpZCMmH7hy"
-      },
-      "artists": [
-        {
-          "name": "Rivulet",
-          "url": "https://open.spotify.com/artist/3GZncWDyd61QW6I6bYw4u8"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Soothing Waves",
-      "url": "https://open.spotify.com/track/6xUeaS7PWP8CPU98JW0iSY"
-    },
-    {
-      "added_at": "2026-04-02 18:24:59",
-      "album": {
         "name": "Dancing Waves",
         "url": "https://open.spotify.com/album/0bkdQzer9UrT5r6qNccPX4"
       },
@@ -711,6 +679,38 @@
       "duration_ms": 133462,
       "name": "Ocean Mist",
       "url": "https://open.spotify.com/track/2WccQeCOFqFsmpRm4GRiol"
+    },
+    {
+      "added_at": "2026-04-02 18:24:59",
+      "album": {
+        "name": "Nautical Days",
+        "url": "https://open.spotify.com/album/5Sd5iK6P9H1zcoQGp5di2m"
+      },
+      "artists": [
+        {
+          "name": "Lave",
+          "url": "https://open.spotify.com/artist/5EA4MDPkAtu1hrHhgM8tWK"
+        }
+      ],
+      "duration_ms": 147534,
+      "name": "Flowing Through Me",
+      "url": "https://open.spotify.com/track/3kl2pNDxGQPFlVc7vcgZ41"
+    },
+    {
+      "added_at": "2026-04-02 18:24:59",
+      "album": {
+        "name": "Gentle Waves",
+        "url": "https://open.spotify.com/album/7tM4OvM5AlaiTpZCMmH7hy"
+      },
+      "artists": [
+        {
+          "name": "Rivulet",
+          "url": "https://open.spotify.com/artist/3GZncWDyd61QW6I6bYw4u8"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Soothing Waves",
+      "url": "https://open.spotify.com/track/6xUeaS7PWP8CPU98JW0iSY"
     },
     {
       "added_at": "2026-04-02 18:24:59",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-04-02 18:24:59",
       "album": {
-        "name": "Magic Water",
-        "url": "https://open.spotify.com/album/3Ewgcu9Y9gbmxJurW4gvVs"
-      },
-      "artists": [
-        {
-          "name": "Shaman",
-          "url": "https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M"
-        }
-      ],
-      "duration_ms": 186274,
-      "name": "Finding the Light",
-      "url": "https://open.spotify.com/track/7pI5Hy6cpduETyWYS4fvI5"
-    },
-    {
-      "added_at": "2026-04-02 18:24:59",
-      "album": {
         "name": "Blue Ocean",
         "url": "https://open.spotify.com/album/2oyJGIr1HYy5Vov8gxERRo"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 183677,
       "name": "Papakolea (Waves)",
       "url": "https://open.spotify.com/track/5HZqGUr9nK1zy1mFmwPTc0"
+    },
+    {
+      "added_at": "2026-04-02 18:24:59",
+      "album": {
+        "name": "Magic Water",
+        "url": "https://open.spotify.com/album/3Ewgcu9Y9gbmxJurW4gvVs"
+      },
+      "artists": [
+        {
+          "name": "Shaman",
+          "url": "https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M"
+        }
+      ],
+      "duration_ms": 186274,
+      "name": "Finding the Light",
+      "url": "https://open.spotify.com/track/7pI5Hy6cpduETyWYS4fvI5"
     },
     {
       "added_at": "2026-04-02 18:24:59",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-04-02 18:24:59",
       "album": {
-        "name": "Nature's Whisper",
-        "url": "https://open.spotify.com/album/11bXVKxd4mayU5FJN4iHgG"
-      },
-      "artists": [
-        {
-          "name": "Willow Drift",
-          "url": "https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Coral Waters - Ocean",
-      "url": "https://open.spotify.com/track/0RjVm5A7ZeVXjQxPUugZH6"
-    },
-    {
-      "added_at": "2026-04-02 18:24:59",
-      "album": {
         "name": "Ocean Waves",
         "url": "https://open.spotify.com/album/1g4CXHJpJywHXFeX9CVqLE"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 173127,
       "name": "Waves in Capbreton",
       "url": "https://open.spotify.com/track/30GcqYrwMhloErNPfWZKMR"
+    },
+    {
+      "added_at": "2026-04-02 18:24:59",
+      "album": {
+        "name": "Nature's Whisper",
+        "url": "https://open.spotify.com/album/11bXVKxd4mayU5FJN4iHgG"
+      },
+      "artists": [
+        {
+          "name": "Willow Drift",
+          "url": "https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Coral Waters - Ocean",
+      "url": "https://open.spotify.com/track/0RjVm5A7ZeVXjQxPUugZH6"
     },
     {
       "added_at": "2026-04-02 18:24:59",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-04-02 18:24:59",
       "album": {
-        "name": "Rain and Ocean Soundscapes",
-        "url": "https://open.spotify.com/album/5hbhvPjENqCuWA1pfl0KJZ"
-      },
-      "artists": [
-        {
-          "name": "NatuREM",
-          "url": "https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99"
-        }
-      ],
-      "duration_ms": 249909,
-      "name": "Gentle Swells Wave Crashes",
-      "url": "https://open.spotify.com/track/0R2IFAk7adUzQNMg90PkuW"
-    },
-    {
-      "added_at": "2026-04-02 18:24:59",
-      "album": {
         "name": "Tropical Ocean Wave Dreams",
         "url": "https://open.spotify.com/album/4aW0CgnkvlMpfukTxLDb3u"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 186761,
       "name": "Sea, Sand and Seashells",
       "url": "https://open.spotify.com/track/1jzIE1bZcx6s4aMxVDDtNO"
+    },
+    {
+      "added_at": "2026-04-02 18:24:59",
+      "album": {
+        "name": "Rain and Ocean Soundscapes",
+        "url": "https://open.spotify.com/album/5hbhvPjENqCuWA1pfl0KJZ"
+      },
+      "artists": [
+        {
+          "name": "NatuREM",
+          "url": "https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99"
+        }
+      ],
+      "duration_ms": 249909,
+      "name": "Gentle Swells Wave Crashes",
+      "url": "https://open.spotify.com/track/0R2IFAk7adUzQNMg90PkuW"
     },
     {
       "added_at": "2026-04-02 18:24:59",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-04-02 18:24:59",
       "album": {
-        "name": "Ayudantes para dormir",
-        "url": "https://open.spotify.com/album/7r5Aj4mO7gl9VFowZjI1LS"
-      },
-      "artists": [
-        {
-          "name": "Ayudantes para dormir",
-          "url": "https://open.spotify.com/artist/3uiLZIt70oh7RelYoaozqD"
-        }
-      ],
-      "duration_ms": 274882,
-      "name": "Ondas de sue\u00f1o",
-      "url": "https://open.spotify.com/track/257HeQKft6Ef6fNZSP0T5n"
-    },
-    {
-      "added_at": "2026-04-02 18:24:59",
-      "album": {
         "name": "Agua",
         "url": "https://open.spotify.com/album/0FG7HOJB5h2knAJ2EQcSn2"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 196000,
       "name": "Light Waves Sound",
       "url": "https://open.spotify.com/track/1yRJjh8bRDa9OnR2gkr8Gr"
+    },
+    {
+      "added_at": "2026-04-02 18:24:59",
+      "album": {
+        "name": "Ayudantes para dormir",
+        "url": "https://open.spotify.com/album/7r5Aj4mO7gl9VFowZjI1LS"
+      },
+      "artists": [
+        {
+          "name": "Ayudantes para dormir",
+          "url": "https://open.spotify.com/artist/3uiLZIt70oh7RelYoaozqD"
+        }
+      ],
+      "duration_ms": 274882,
+      "name": "Ondas de sue\u00f1o",
+      "url": "https://open.spotify.com/track/257HeQKft6Ef6fNZSP0T5n"
     },
     {
       "added_at": "2026-04-02 18:24:59",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-04-02 18:24:59",
       "album": {
-        "name": "How I\u2019ve Longed for Waters",
-        "url": "https://open.spotify.com/album/7yPGQJgZTf06KdXVOVaDSa"
-      },
-      "artists": [
-        {
-          "name": "Shaman",
-          "url": "https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M"
-        }
-      ],
-      "duration_ms": 181116,
-      "name": "Contemplation at the Shore",
-      "url": "https://open.spotify.com/track/5m9Ll1sMYoBxitAVWeUBue"
-    },
-    {
-      "added_at": "2026-04-02 18:24:59",
-      "album": {
         "name": "Volume One",
         "url": "https://open.spotify.com/album/1w2TodavMoCOgcJXqWOWRV"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 155136,
       "name": "Waves",
       "url": "https://open.spotify.com/track/7riFaBLvTQfPsSILEZV6Se"
+    },
+    {
+      "added_at": "2026-04-02 18:24:59",
+      "album": {
+        "name": "How I\u2019ve Longed for Waters",
+        "url": "https://open.spotify.com/album/7yPGQJgZTf06KdXVOVaDSa"
+      },
+      "artists": [
+        {
+          "name": "Shaman",
+          "url": "https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M"
+        }
+      ],
+      "duration_ms": 181116,
+      "name": "Contemplation at the Shore",
+      "url": "https://open.spotify.com/track/5m9Ll1sMYoBxitAVWeUBue"
     },
     {
       "added_at": "2026-04-02 18:24:59",
@@ -1739,18 +1739,18 @@
     {
       "added_at": "2026-04-02 18:24:59",
       "album": {
-        "name": "Waves For Sleeping",
-        "url": "https://open.spotify.com/album/1iOxi5K0NRnew8562HF8zx"
+        "name": "Relaxing Ocean Library",
+        "url": "https://open.spotify.com/album/1AQhJlcLfvwTRk8INmu1Qy"
       },
       "artists": [
         {
-          "name": "Gnees Early Waves",
-          "url": "https://open.spotify.com/artist/7HWzEstD6nTbL0iiKjMu7s"
+          "name": "Relaxing Ocean Library",
+          "url": "https://open.spotify.com/artist/6e8BCppIC0GAeFBeKSYaSt"
         }
       ],
-      "duration_ms": 159100,
-      "name": "By The Shoreline",
-      "url": "https://open.spotify.com/track/04rH1zCYGYzmoOkVOVY4Gj"
+      "duration_ms": 196905,
+      "name": "In the Dock",
+      "url": "https://open.spotify.com/track/4iGwNuIwLMfrEHBCrz7Pyd"
     },
     {
       "added_at": "2026-04-02 18:24:59",
@@ -1771,18 +1771,18 @@
     {
       "added_at": "2026-04-02 18:24:59",
       "album": {
-        "name": "Relaxing Ocean Library",
-        "url": "https://open.spotify.com/album/1AQhJlcLfvwTRk8INmu1Qy"
+        "name": "Waves For Sleeping",
+        "url": "https://open.spotify.com/album/1iOxi5K0NRnew8562HF8zx"
       },
       "artists": [
         {
-          "name": "Relaxing Ocean Library",
-          "url": "https://open.spotify.com/artist/6e8BCppIC0GAeFBeKSYaSt"
+          "name": "Gnees Early Waves",
+          "url": "https://open.spotify.com/artist/7HWzEstD6nTbL0iiKjMu7s"
         }
       ],
-      "duration_ms": 196905,
-      "name": "In the Dock",
-      "url": "https://open.spotify.com/track/4iGwNuIwLMfrEHBCrz7Pyd"
+      "duration_ms": 159100,
+      "name": "By The Shoreline",
+      "url": "https://open.spotify.com/track/04rH1zCYGYzmoOkVOVY4Gj"
     },
     {
       "added_at": "2026-04-02 18:24:59",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2026-04-02 18:24:59",
       "album": {
-        "name": "Waves For Sleeping",
-        "url": "https://open.spotify.com/album/1iOxi5K0NRnew8562HF8zx"
-      },
-      "artists": [
-        {
-          "name": "Gnees Early Waves",
-          "url": "https://open.spotify.com/artist/7HWzEstD6nTbL0iiKjMu7s"
-        }
-      ],
-      "duration_ms": 134611,
-      "name": "Florida Rain Storm",
-      "url": "https://open.spotify.com/track/7Gvyowqht3otAnELmNcXvQ"
-    },
-    {
-      "added_at": "2026-04-02 18:24:59",
-      "album": {
         "name": "Thai Beach Chill",
         "url": "https://open.spotify.com/album/7x8gFJ5nkJS1mf5chINJ7O"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 179220,
       "name": "Thai Beach Chill - Waves",
       "url": "https://open.spotify.com/track/3GRvbmUuO1ePIlQcl9xYwH"
+    },
+    {
+      "added_at": "2026-04-02 18:24:59",
+      "album": {
+        "name": "Waves For Sleeping",
+        "url": "https://open.spotify.com/album/1iOxi5K0NRnew8562HF8zx"
+      },
+      "artists": [
+        {
+          "name": "Gnees Early Waves",
+          "url": "https://open.spotify.com/artist/7HWzEstD6nTbL0iiKjMu7s"
+        }
+      ],
+      "duration_ms": 134611,
+      "name": "Florida Rain Storm",
+      "url": "https://open.spotify.com/track/7Gvyowqht3otAnELmNcXvQ"
     },
     {
       "added_at": "2026-04-02 18:24:59",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2026-04-02 18:24:59",
       "album": {
-        "name": "Northshore Waves",
-        "url": "https://open.spotify.com/album/7iB2dRwjXirHBjp4ijeiua"
-      },
-      "artists": [
-        {
-          "name": "Water Meditations",
-          "url": "https://open.spotify.com/artist/6Az4KFpZ2iMhF7UlgcQ14C"
-        }
-      ],
-      "duration_ms": 155852,
-      "name": "Northshore Waves",
-      "url": "https://open.spotify.com/track/2H00sQz1BcMPtUYtmCBgRv"
-    },
-    {
-      "added_at": "2026-04-02 18:24:59",
-      "album": {
         "name": "Echo of Waves",
         "url": "https://open.spotify.com/album/2A1V2bnCjWGXYrKKTAE7HV"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 195000,
       "name": "Sleeping at the Calm Coast",
       "url": "https://open.spotify.com/track/67RbgGgHDNYiJKBGjCBvO6"
+    },
+    {
+      "added_at": "2026-04-02 18:24:59",
+      "album": {
+        "name": "Northshore Waves",
+        "url": "https://open.spotify.com/album/7iB2dRwjXirHBjp4ijeiua"
+      },
+      "artists": [
+        {
+          "name": "Water Meditations",
+          "url": "https://open.spotify.com/artist/6Az4KFpZ2iMhF7UlgcQ14C"
+        }
+      ],
+      "duration_ms": 155852,
+      "name": "Northshore Waves",
+      "url": "https://open.spotify.com/track/2H00sQz1BcMPtUYtmCBgRv"
     },
     {
       "added_at": "2026-04-02 18:24:59",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2026-04-02 18:24:59",
       "album": {
-        "name": "Seaside In The Stockholm Archipelago",
-        "url": "https://open.spotify.com/album/7ffphDQ0QuttrqokstevrY"
-      },
-      "artists": [
-        {
-          "name": "Archipelago Smoothe",
-          "url": "https://open.spotify.com/artist/3n3Br1Nm8nuHT6kH7gZerv"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Seaside In The Stockholm Archipelago 2",
-      "url": "https://open.spotify.com/track/1KQPyKNFWNkGpUi1BnPHVJ"
-    },
-    {
-      "added_at": "2026-04-02 18:24:59",
-      "album": {
         "name": "Lullaby Waves",
         "url": "https://open.spotify.com/album/4heWfxzUYEryrwDSiTOFiv"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 125573,
       "name": "Country Side Waves",
       "url": "https://open.spotify.com/track/3RCJ9ZPvM1sbZ1uSwlEgyH"
+    },
+    {
+      "added_at": "2026-04-02 18:24:59",
+      "album": {
+        "name": "Seaside In The Stockholm Archipelago",
+        "url": "https://open.spotify.com/album/7ffphDQ0QuttrqokstevrY"
+      },
+      "artists": [
+        {
+          "name": "Archipelago Smoothe",
+          "url": "https://open.spotify.com/artist/3n3Br1Nm8nuHT6kH7gZerv"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Seaside In The Stockholm Archipelago 2",
+      "url": "https://open.spotify.com/track/1KQPyKNFWNkGpUi1BnPHVJ"
     },
     {
       "added_at": "2026-04-02 18:24:59",

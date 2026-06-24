@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zyaFj8e28t.md) - [plain]
 
 > Les plus grands tubes français des années 80\. Photo : France Gall
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,927 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,947 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zyaFj8e28t.md) - [plain]
 | 41 | [En l'an 2001](https://open.spotify.com/track/4Lv1Xqqu5vvl3jjiyhGn4j) | [Pierre Bachelet](https://open.spotify.com/artist/473XDcWSxnSaxptauf6fg4) | [Le Meilleur De](https://open.spotify.com/album/5JFBGYglZem8jUTB5QOGSN) | 5:27 |
 | 42 | [C'est la ouate \- Radio Edit Original Version 1987](https://open.spotify.com/track/2dgbgBcWg5iKQ0jmChAb3l) | [Caroline Loeb](https://open.spotify.com/artist/4zYAaouXzmn3A6XTC2Uqlm) | [C'est la ouate](https://open.spotify.com/album/3yiq55M0qGXWFzv56C8cXb) | 3:48 |
 | 43 | [Désir, désir, Pt\. 1](https://open.spotify.com/track/2tr24VBF280hvO14tSNBEO) | [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z), [Véronique Jannot](https://open.spotify.com/artist/3AySyGIRlpIhkjan8dOSbN) | [Belle Ile En Mer](https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl) | 4:56 |
-| 44 | [Embrasse moi idiot \- .](https://open.spotify.com/track/418hg3W91QSVSI7S6l3baJ) | [Bill Baxter](https://open.spotify.com/artist/3KpXJFls6MeNgtt8uyBfmf) | [Embrasse Moi Idiot](https://open.spotify.com/album/03ZiFpoAZNWSHvQAkfHM6z) | 3:45 |
-| 45 | [Lili voulait aller danser](https://open.spotify.com/track/5W8DHtd2JOU9q7X3pvzafw) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [Femmes, indiscrétion, blasphème](https://open.spotify.com/album/6F7PDFzEi076fEcgMTt34f) | 3:58 |
+| 44 | [Lili voulait aller danser](https://open.spotify.com/track/5W8DHtd2JOU9q7X3pvzafw) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [Femmes, indiscrétion, blasphème](https://open.spotify.com/album/6F7PDFzEi076fEcgMTt34f) | 3:58 |
+| 45 | [Embrasse moi idiot \- .](https://open.spotify.com/track/418hg3W91QSVSI7S6l3baJ) | [Bill Baxter](https://open.spotify.com/artist/3KpXJFls6MeNgtt8uyBfmf) | [Embrasse Moi Idiot](https://open.spotify.com/album/03ZiFpoAZNWSHvQAkfHM6z) | 3:45 |
 | 46 | [Les brunes comptent pas pour des prunes](https://open.spotify.com/track/2FO8AfQVGJsmxgg6RlI5jK) | [Lio](https://open.spotify.com/artist/48sZWxnqspohWtxJNg7OsI) | [Les brunes comptent pas pour des prunes](https://open.spotify.com/album/48Hn4QRWsu9vLDNLdmBPxb) | 3:09 |
 | 47 | [Eve lève\-toi](https://open.spotify.com/track/3MPmRgJHfD7CADCibQfNgG) | [Julie Pietri](https://open.spotify.com/artist/4siBlVknVhh8jtVy9jHsDG) | [Eve lève\-toi](https://open.spotify.com/album/5P5GtHwVOmZEVqqapr0F1w) | 4:32 |
 | 48 | [Tombé pour la France \- Version maximum](https://open.spotify.com/track/5DlrHsAjvzsR1z4vOLZPN3) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Tombé pour la France](https://open.spotify.com/album/16kl4uJMSvFCfiyBl2cXFv) | 6:30 |
-| 49 | [Le temps est assassin \- Remasterisé en 2008](https://open.spotify.com/track/4lMDfQ7hIwwcbRgsY870LU) | [Véronique Sanson](https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D) | [Véronique Sanson \(Edition Deluxe\)](https://open.spotify.com/album/5xOuC8UkYnYXiqeHN21bqS) | 5:13 |
-| 50 | [Mélissa](https://open.spotify.com/track/4YkRb6KIi03YSfGuTDJrZG) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [A Rendez\-Vous With Julien Clerc](https://open.spotify.com/album/1BBkJnf0MLDGRcMzEsal7C) | 3:00 |
+| 49 | [Mélissa](https://open.spotify.com/track/4YkRb6KIi03YSfGuTDJrZG) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [A Rendez\-Vous With Julien Clerc](https://open.spotify.com/album/1BBkJnf0MLDGRcMzEsal7C) | 3:00 |
+| 50 | [Le temps est assassin \- Remasterisé en 2008](https://open.spotify.com/track/4lMDfQ7hIwwcbRgsY870LU) | [Véronique Sanson](https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D) | [Véronique Sanson \(Edition Deluxe\)](https://open.spotify.com/album/5xOuC8UkYnYXiqeHN21bqS) | 5:13 |
 
 Snapshot ID: `AAAAAFEuN5VnO3be9ztDZVc8zIl2Emeb`

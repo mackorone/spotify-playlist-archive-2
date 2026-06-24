@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-511 songs - 1 day 4 hr 53 min
+513 songs - 1 day 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,6 +353,7 @@
 | [Que No Te Importe](https://open.spotify.com/track/4kXG6SQ0NF2cUpvoZjaClf) | [Karlex Pitt](https://open.spotify.com/artist/6RZcX1OjxVzN6j1gycuevD) | [Que No Te Importe](https://open.spotify.com/album/0yYgk2KXBhW1A2AgLXMgw4) | 2:31 | 2026-04-25 | 2026-05-26 |
 | [Rabbit!](https://open.spotify.com/track/3knD7dkD3rgu3AAF893E8R) | [Kim Million$](https://open.spotify.com/artist/393NYPTSuRjbbf2HtcnRMN) | [Rabbit!](https://open.spotify.com/album/3DQgH9DE5lLAXPmnwHnRTy) | 2:10 | 2026-04-13 | 2026-05-26 |
 | [Rain](https://open.spotify.com/track/13XK1nYPylUfYF0FtxCvVB) | [Zoe Tedeschi](https://open.spotify.com/artist/1SJpmtRt9oC0NU3R9cqNc3) | [Rain](https://open.spotify.com/album/3Z3sd1x32IUjs4u9dkMevk) | 3:03 | 2026-01-04 | 2026-02-21 |
+| [Rain Falls In The Night.](https://open.spotify.com/track/7BZCcc8ehQu34C5wD0qtvZ) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Rain Falls In The Night.](https://open.spotify.com/album/6qNaBCOTlr5tsFe5rxsQY8) | 4:16 | 2026-06-23 |  |
 | [Ramounie](https://open.spotify.com/track/6xWlprrLSpaNMK6tnaZ0NZ) | [DJ ToloV](https://open.spotify.com/artist/5EovaKhTCk7aUZ2iYy26t7) | [Ramounie](https://open.spotify.com/album/5595pglhwoIHAFB0PvmAKr) | 3:55 | 2025-11-16 | 2026-01-05 |
 | [RAP DE MINECRAFT](https://open.spotify.com/track/2TVIBaCN7AoJ2okpNAIxx5) | [Kalibre Brown](https://open.spotify.com/artist/5ukaoYh4Cp7e4zp1gRM1bp) | [RAP DE MINECRAFT](https://open.spotify.com/album/53ImTr4XsTPc5vMk6uMbRk) | 2:10 | 2025-11-30 | 2026-01-05 |
 | [Razza Umana](https://open.spotify.com/track/4kyqPP2pApVhqU9UDPCPIa) | [Mantideatea](https://open.spotify.com/artist/5v1HMdsldVByS7yLgsL3aB) | [Vecchio Progresso](https://open.spotify.com/album/3r1infkoCbumrwUx4nBIEd) | 3:27 | 2025-11-10 | 2025-12-01 |
@@ -438,6 +439,7 @@
 | [The Perfect Buzz](https://open.spotify.com/track/4nIbtAyxR6yeBxgONwdtda) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [The Perfect Buzz](https://open.spotify.com/album/2kPgxCfeUcADkJSxT0jBtG) | 2:46 | 2026-02-08 |  |
 | [The Price of Not Being Me](https://open.spotify.com/track/5QEcw5tlMYZlbmTq1qxjdV) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [The Price of Not Being Me](https://open.spotify.com/album/7dUP5R8LClZXSqEuSOVdUA) | 3:34 | 2026-01-24 | 2026-02-21 |
 | [The Red Cha Cha](https://open.spotify.com/track/10DZ0KHJmt1PS0hVNIf6PT) | [CallMeWhoElse](https://open.spotify.com/artist/3sLFnlQ8XFsPNqZ2ly2cCo) | [The Red Cha Cha](https://open.spotify.com/album/0wBE98iV9c9xym1kQFK5b6) | 2:23 | 2025-11-30 | 2026-01-05 |
+| [The Show Must Go On](https://open.spotify.com/track/5vz5HR8tJJwTMobjNIrM6w) | [Madam Radar](https://open.spotify.com/artist/6ujUWoIlmlQWODAb46LmE8) | [The Show Must Go On](https://open.spotify.com/album/64oFLRTDDU3PiNPsv1Pidj) | 3:38 | 2026-06-23 |  |
 | [The Summit](https://open.spotify.com/track/1j0RFvDArOtl2P19hAD62t) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [The Summit](https://open.spotify.com/album/17EQOZPmfmbWsIU5bfu9ou) | 2:44 | 2026-03-16 |  |
 | [The Thinker And The Prover](https://open.spotify.com/track/271dv3OBpfRS1YmHqubWZQ) | [Jason Waroff](https://open.spotify.com/artist/1tAoX2x3TC1kp4eIewKZ77) | [The Thinker And The Prover](https://open.spotify.com/album/3RnQntICT9Zskt7fckchwt) | 2:12 | 2026-04-24 |  |
 | [The Thinker And The Prover](https://open.spotify.com/track/3EjFDIbZj4y5VJjW7Jxc9H) | [Jason Waroff](https://open.spotify.com/artist/1tAoX2x3TC1kp4eIewKZ77) | [The Thinker And The Prover](https://open.spotify.com/album/66gGHDPKfLxjss96Sj4lnM) | 6:01 | 2025-08-24 | 2026-01-25 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-10",
-  "description": "The best new music by independent artists in the Nordics. Cover: Yuti",
+  "description": "The best new music by independent artists in the Nordics. Cover: Clutter",
   "name": "Fresh Finds Nordics",
   "tracks": [
     {
@@ -220,7 +220,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 170332,
       "name": "3 days",
       "url": "https://open.spotify.com/track/76hFGJEkcSdG1PhO6QSD0e"
@@ -5216,7 +5216,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 198321,
       "name": "Conor",
       "url": "https://open.spotify.com/track/4UMaclARcQjCBQoPQHAwr3"
@@ -7436,7 +7436,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 256266,
       "name": "Eleanor's Escape",
       "url": "https://open.spotify.com/track/21LcmaUSmbrzdxqHUEhi8B"
@@ -13433,6 +13433,24 @@
     },
     {
       "album": {
+        "name": "Immortal",
+        "url": "https://open.spotify.com/album/0WrZnF3dHq0VNT0ZCUQIdC"
+      },
+      "artists": [
+        {
+          "name": "EILA",
+          "url": "https://open.spotify.com/artist/17DPyFDjvLRiYFHgp9viFf"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202666,
+      "name": "Immortal",
+      "url": "https://open.spotify.com/track/5CNRPSc33mEafkIZ6xgBVA"
+    },
+    {
+      "album": {
         "name": "immune",
         "url": "https://open.spotify.com/album/7JB4xISNGadReKJYxSy69x"
       },
@@ -14354,6 +14372,24 @@
       "duration_ms": 225120,
       "name": "Keeper",
       "url": "https://open.spotify.com/track/0aAhF3VWaaseWphyipsgKk"
+    },
+    {
+      "album": {
+        "name": "Kelly",
+        "url": "https://open.spotify.com/album/05y25pwHlCDzV03IBfJs7c"
+      },
+      "artists": [
+        {
+          "name": "Kelly No Brakes",
+          "url": "https://open.spotify.com/artist/0ZnVWrM636IZszLw8naK0V"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249454,
+      "name": "Kelly",
+      "url": "https://open.spotify.com/track/5zg2SLq4J1w0y7n9TWP8s4"
     },
     {
       "album": {
@@ -26156,6 +26192,24 @@
       "duration_ms": 158620,
       "name": "Take It Back",
       "url": "https://open.spotify.com/track/1ANmeH8rwhldXh2GkEBJRm"
+    },
+    {
+      "album": {
+        "name": "Take It Back",
+        "url": "https://open.spotify.com/album/66aSe9KA1o5ugmcR644Mxh"
+      },
+      "artists": [
+        {
+          "name": "Laura Amelia",
+          "url": "https://open.spotify.com/artist/2Kpn9jES3PeAJlkmZXvito"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170423,
+      "name": "Take It Back",
+      "url": "https://open.spotify.com/track/5CcAW1JbWEKPvFRaUpNfhO"
     },
     {
       "album": {

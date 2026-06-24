@@ -4239,6 +4239,24 @@
     },
     {
       "album": {
+        "name": "are you lonely?",
+        "url": "https://open.spotify.com/album/1magMsVGcV4r6K3fUCRMIo"
+      },
+      "artists": [
+        {
+          "name": "shteppi",
+          "url": "https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183581,
+      "name": "stephanie.",
+      "url": "https://open.spotify.com/track/3OJIyyskAs0fqv9FyJe5T8"
+    },
+    {
+      "album": {
         "name": "stfu.",
         "url": "https://open.spotify.com/album/0SRYzffT84QwJv5LCeluhL"
       },

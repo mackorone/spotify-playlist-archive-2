@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > hyper\_sleaze.electro\_glitch.v2008.withslayr.zip.\[FINAL\]\_\[REAL\]\_\_coverartist.TiffanyDay
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,365,216 likes - 69 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,367,498 likes - 69 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

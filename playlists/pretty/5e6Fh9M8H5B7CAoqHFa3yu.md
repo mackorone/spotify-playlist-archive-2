@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 340 likes - 2,401 songs - 5 day 21 hr 43 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 341 likes - 2,406 songs - 5 day 21 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2409,5 +2409,10 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2399 | [I See You](https://open.spotify.com/track/4121pSeIc1sxqnH4i3nEvi) | [RamShackle](https://open.spotify.com/artist/0io5dV4KEggh6b7TR1EOPV) | [I See You](https://open.spotify.com/album/3Ba69of6UprDdYXUFqi7Kx) | 3:37 |
 | 2400 | [INOPIA](https://open.spotify.com/track/0U4WS6XPqk2mTekMyf9hEF) | [Los Cansinos](https://open.spotify.com/artist/5ruDyDWrPtFECWQjzuMehx) | [INOPIA](https://open.spotify.com/album/3nbySGkd2EomrxB8T0CYci) | 2:33 |
 | 2401 | [Bara](https://open.spotify.com/track/50hb6zxmJMxrfavhe0fyn7) | [Merah](https://open.spotify.com/artist/0SqG39qV2HtVNgtjKSKGXQ) | [Utara](https://open.spotify.com/album/2Ds4iV3LPSya4zyVBHqhcn) | 3:49 |
+| 2402 | [Matory](https://open.spotify.com/track/39WrEUqGAXuylnOtGeVE3h) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Matory](https://open.spotify.com/album/37DeS2yQJ0UUF8tKJjdes4) | 2:31 |
+| 2403 | [Хорошие всё люди](https://open.spotify.com/track/3rhtHtJJhEv59cFXru3yFp) | [the poet must die](https://open.spotify.com/artist/2D0En2asmzvF1FGNiXEGqf) | [Хорошие всё люди](https://open.spotify.com/album/4w2zx1lJYBAwqFa2Qoo9zZ) | 1:02 |
+| 2404 | [Дышать](https://open.spotify.com/track/4R5bbmS5OoFrgbLk8tRoY8) | [ANTY\-DOTE](https://open.spotify.com/artist/6977CBnV7l66u6yEM9MwMW) | [Дышать](https://open.spotify.com/album/4WnGAdmmXihQC1WKsOmw4I) | 1:02 |
+| 2405 | [Time and a Place](https://open.spotify.com/track/5IcBicRU5XceiJJRcds8wt) | [HAMLIN](https://open.spotify.com/artist/08UO9aJMvPU8w2BfXKeZbk) | [Time and a Place](https://open.spotify.com/album/5Na8n7JvfZI2qWnYWfFEkV) | 4:12 |
+| 2406 | [Luka Yang Bernama Kamu](https://open.spotify.com/track/2VXPqyN2N6J15Md9fSc8s9) | [Ekkyu](https://open.spotify.com/artist/6mT1w2xe3Os7CLSR1bAU6W) | [Luka Yang Bernama Kamu](https://open.spotify.com/album/3fhiugMLvJQfLRZoM3XItY) | 4:38 |
 
-Snapshot ID: `AAAKLaPmU6hYNjYzE1Ws5nNjUFda3S3G`
+Snapshot ID: `AAAKMhsZavXjFwtsTC3SweU4xB6h8M8R`

@@ -6885,6 +6885,24 @@
     },
     {
       "album": {
+        "name": "K\u0105pa\u0142am si\u0119 wczoraj w snach",
+        "url": "https://open.spotify.com/album/3DhqZFXewd6BvLsKa5bIzZ"
+      },
+      "artists": [
+        {
+          "name": "AJLA",
+          "url": "https://open.spotify.com/artist/0DKSIQmQ284IrIKpNdl36H"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Lawenda",
+      "url": "https://open.spotify.com/track/0drGhZGTBdkiqzRpMjyM9b"
+    },
+    {
+      "album": {
         "name": "Lawenda",
         "url": "https://open.spotify.com/album/3WEJpUAEawGWhW9DseR7KV"
       },
@@ -15800,7 +15818,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 137605,
       "name": "wzrok, w kt\u00f3rym pl\u0105cze si\u0119 mi\u0142o\u015b\u0107",
       "url": "https://open.spotify.com/track/5a4Kmo43noRWD70IdDVYfK"

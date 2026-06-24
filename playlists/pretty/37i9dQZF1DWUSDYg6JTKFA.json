@@ -1,6 +1,6 @@
 {
   "description": "Find hope in Him in every note of these songs full of faith!",
-  "num_followers": 213708,
+  "num_followers": 213720,
   "original_name": "Hold Hope",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2026-05-19 08:18:48",
       "album": {
-        "name": "The EXILE",
-        "url": "https://open.spotify.com/album/3Z5eTl8JjXIWoMx3M8GRsN"
-      },
-      "artists": [
-        {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        }
-      ],
-      "duration_ms": 226083,
-      "name": "Somebody Prayed",
-      "url": "https://open.spotify.com/track/1ukqYsTRhTM4jsfb2S8wrz"
-    },
-    {
-      "added_at": "2026-05-19 08:18:48",
-      "album": {
         "name": "Love Ran Red",
         "url": "https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 250626,
       "name": "At The Cross (Love Ran Red)",
       "url": "https://open.spotify.com/track/27uBwOJbW6kHsCbKGukxMK"
+    },
+    {
+      "added_at": "2026-05-19 08:18:48",
+      "album": {
+        "name": "The EXILE",
+        "url": "https://open.spotify.com/album/3Z5eTl8JjXIWoMx3M8GRsN"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "duration_ms": 226083,
+      "name": "Somebody Prayed",
+      "url": "https://open.spotify.com/track/1ukqYsTRhTM4jsfb2S8wrz"
     },
     {
       "added_at": "2026-05-19 08:18:48",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-05-19 08:18:48",
       "album": {
-        "name": "Rescue",
-        "url": "https://open.spotify.com/album/49sgj5TsAza6TkXow8DQWa"
-      },
-      "artists": [
-        {
-          "name": "Jordan St. Cyr",
-          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
-        }
-      ],
-      "duration_ms": 221403,
-      "name": "Rescue",
-      "url": "https://open.spotify.com/track/4ANZqWyzB9fIW2XtthkVQV"
-    },
-    {
-      "added_at": "2026-05-19 08:18:48",
-      "album": {
         "name": "High Hopes",
         "url": "https://open.spotify.com/album/1JlsrX9MGKgi8WZNrfi5TI"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 202226,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/1LvPXi9WbYBub6v0Q94ItD"
+    },
+    {
+      "added_at": "2026-05-19 08:18:48",
+      "album": {
+        "name": "Rescue",
+        "url": "https://open.spotify.com/album/49sgj5TsAza6TkXow8DQWa"
+      },
+      "artists": [
+        {
+          "name": "Jordan St. Cyr",
+          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
+        }
+      ],
+      "duration_ms": 221403,
+      "name": "Rescue",
+      "url": "https://open.spotify.com/track/4ANZqWyzB9fIW2XtthkVQV"
     },
     {
       "added_at": "2026-05-19 08:18:48",
@@ -1843,18 +1843,18 @@
     {
       "added_at": "2026-05-19 08:18:48",
       "album": {
-        "name": "My Light",
-        "url": "https://open.spotify.com/album/4pBtX6lfkeENkYIQ2vpus2"
+        "name": "Mover of Mountains",
+        "url": "https://open.spotify.com/album/2lpkPfilFnBtHHqwbVk92G"
       },
       "artists": [
         {
-          "name": "Colton Dixon",
-          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
+          "name": "Citipointe Worship",
+          "url": "https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2"
         }
       ],
-      "duration_ms": 147390,
-      "name": "My Light",
-      "url": "https://open.spotify.com/track/2KD4v8UbJi44ZaPLeTm5t5"
+      "duration_ms": 344986,
+      "name": "Mover of Mountains (Live)",
+      "url": "https://open.spotify.com/track/7tj72TNjfyaYeYyQ01yNhP"
     }
   ],
   "unique_name": "Hold Hope",

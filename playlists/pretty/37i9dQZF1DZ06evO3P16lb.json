@@ -1,12 +1,12 @@
 {
   "description": "This is Lupita Infante. The essential tracks, all in one playlist.",
-  "num_followers": 2105,
+  "num_followers": 2113,
   "original_name": "This Is Lupita Infante",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajcpgAAAAAAX138bdhFI1H70g/JHy0bF",
+  "snapshot_id": "ajh7AAAAAACPp967/rof4DliXBVt3Yyd",
   "tracks": [
     {
       "added_at": null,
@@ -115,22 +115,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amorcito Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/3NG0a4l4VbwZ1rPlIm7g70"
+        "name": "La Corona Es M\u00eda",
+        "url": "https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B"
       },
       "artists": [
         {
           "name": "Lupita Infante",
           "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        },
-        {
-          "name": "Mariachi Sol De Mexico De Jose Hernandez",
-          "url": "https://open.spotify.com/artist/0MnQvecFg1VbNkiFcPnsaG"
         }
       ],
-      "duration_ms": 149619,
-      "name": "Amorcito Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1z3UgtvtJm0WZ8LCg8efKS"
+      "duration_ms": 147745,
+      "name": "Tengo Mal Gusto",
+      "url": "https://open.spotify.com/track/4SvbDNh51XJ0f7LVmwDWNp"
     },
     {
       "added_at": null,
@@ -183,18 +179,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Corona Es M\u00eda",
-        "url": "https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B"
+        "name": "Amorcito Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3NG0a4l4VbwZ1rPlIm7g70"
       },
       "artists": [
         {
           "name": "Lupita Infante",
           "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        },
+        {
+          "name": "Mariachi Sol De Mexico De Jose Hernandez",
+          "url": "https://open.spotify.com/artist/0MnQvecFg1VbNkiFcPnsaG"
         }
       ],
-      "duration_ms": 147745,
-      "name": "Tengo Mal Gusto",
-      "url": "https://open.spotify.com/track/4SvbDNh51XJ0f7LVmwDWNp"
+      "duration_ms": 149619,
+      "name": "Amorcito Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1z3UgtvtJm0WZ8LCg8efKS"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Explore the current wave of VOCALOID culture. Cover: 32ki",
+  "description": "Explore the current wave of VOCALOID culture. Cover: MIMI",
   "name": "VOCALOID now",
   "tracks": [
     {
@@ -7946,7 +7946,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 233625,
       "name": "\u30c9\u30ea\u30fc\u30de\u30fc\u30ba\u30d3\u30fc\u30c8",
       "url": "https://open.spotify.com/track/374paD6wZxAXIhCXkjbiQt"
@@ -9515,6 +9515,28 @@
     },
     {
       "album": {
+        "name": "\u30df\u30e5\u30fc\u30b8\u30c3\u30af (feat. \u53ef\u4e0d)",
+        "url": "https://open.spotify.com/album/1BLYYtqyHLBzkgH5ckh7X6"
+      },
+      "artists": [
+        {
+          "name": "MIMI",
+          "url": "https://open.spotify.com/artist/0nwGsQzwVqdlBAg0eSNxmd"
+        },
+        {
+          "name": "\u53ef\u4e0d",
+          "url": "https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "\u30df\u30e5\u30fc\u30b8\u30c3\u30af (feat. \u53ef\u4e0d)",
+      "url": "https://open.spotify.com/track/20izQWOsvLql59j6x6l0B5"
+    },
+    {
+      "album": {
         "name": "MIKU/TOA",
         "url": "https://open.spotify.com/album/3JmsMqb8TqftbCTAQXAexJ"
       },
@@ -9802,6 +9824,24 @@
       "duration_ms": 139984,
       "name": "\u30e2\u30ce\u30af\u30ed\u30dc\u30a4\u30b9",
       "url": "https://open.spotify.com/track/0xlTyumYTuupeKEOzLo9Pq"
+    },
+    {
+      "album": {
+        "name": "\u30e4\u30e9\u30e9\u30e9(YARARARA)",
+        "url": "https://open.spotify.com/album/4e75aI5UsN2ZrSVHGCBmdz"
+      },
+      "artists": [
+        {
+          "name": "AnythingBecomeMoe",
+          "url": "https://open.spotify.com/artist/4FCvsRjFCZQYBCq7NKUIjK"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147195,
+      "name": "\u30e4\u30e9\u30e9\u30e9(YARARARA)",
+      "url": "https://open.spotify.com/track/7fFkLGltPEHInEHoPfT0Jf"
     },
     {
       "album": {
@@ -10628,7 +10668,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 78093,
       "name": "\u4eba\u30cb\u30a2\u30ea",
       "url": "https://open.spotify.com/track/0Mn34mzAZ55Q7VfdvelB0Z"

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajcpgAAAAABfvxnptZm6yJw6tEtbk7w6",
+  "snapshot_id": "ajh7AAAAAADTHiHA5hp+Wmrz+h4Vruu5",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Medias Negras",
-        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 158928,
-      "name": "Medias Negras",
-      "url": "https://open.spotify.com/track/48f4eACs0OsZO80PlFsChR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para Ellas",
         "url": "https://open.spotify.com/album/0qdsE73HbB4e6weGZqekHv"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 217186,
       "name": "Hoja en Blanco",
       "url": "https://open.spotify.com/track/4CcmnS70Yfcs5jm8J6OOWN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Medias Negras",
+        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 158928,
+      "name": "Medias Negras",
+      "url": "https://open.spotify.com/track/48f4eACs0OsZO80PlFsChR"
     },
     {
       "added_at": null,

@@ -4969,6 +4969,32 @@
     },
     {
       "album": {
+        "name": "Para La Gilada (Remix)",
+        "url": "https://open.spotify.com/album/27r4d2S6tSMdRxkou6ZCyU"
+      },
+      "artists": [
+        {
+          "name": "Meta Guacha",
+          "url": "https://open.spotify.com/artist/3HOkZ1yVuMiVJeH1sFjMQL"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176703,
+      "name": "Para La Gilada - Remix",
+      "url": "https://open.spotify.com/track/7oRXN6etpQGWG2yAnQFzVB"
+    },
+    {
+      "album": {
         "name": "Para Que Volver",
         "url": "https://open.spotify.com/album/4ZZlKOxcgyF46zukNom517"
       },
@@ -5992,7 +6018,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-24",
       "duration_ms": 196186,
       "name": "Se Me Va la Voz",
       "url": "https://open.spotify.com/track/4i7j1PdXPJeftm9gj8J1DL"
