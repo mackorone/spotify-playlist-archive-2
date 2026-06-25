@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-1,138 songs - 2 day 10 hr 29 min
+1,139 songs - 2 day 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1115,6 +1115,7 @@
 | [Without Me](https://open.spotify.com/track/48fvMOyYDflTCbRSNJVglq) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [Concrete Castles](https://open.spotify.com/artist/1Cexar57ALO1nZIiKoIUuo) | [Without Me](https://open.spotify.com/album/3UVTbzNQzm5UWhs7Hltghz) | 3:12 | 2024-01-26 | 2024-04-05 |
 | [WITHOUT U](https://open.spotify.com/track/0zDWtTrHkB0hC8PaCSk0Lx) | [DISTO](https://open.spotify.com/artist/1uodYnEBYYgZsExzoMeiGl), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [The Blueprint](https://open.spotify.com/album/11vbM8Rflk8ZqMRJDrr8VZ) | 2:33 | 2022-09-22 | 2023-02-22 |
 | [Without You](https://open.spotify.com/track/7hvpcyq2AkgqTGxTQ9Qif5) | [32Stitches](https://open.spotify.com/artist/4NH2deLFDDB0YeV3PNLjWQ) | [Without You](https://open.spotify.com/album/5sEaAJCCNJfbvzq21SmUZw) | 3:55 | 2022-02-03 | 2022-02-16 |
+| [Without You](https://open.spotify.com/track/7IvD5f3qlRviom10Oe95Kt) | [DASH](https://open.spotify.com/artist/0Lytvh6QGkV6v8UAeht06c), [Tara Carosielli](https://open.spotify.com/artist/5d6YpWfrSRRZBTgfLt0xcz) | [Without You](https://open.spotify.com/album/0mWL666UA0GKdao1Bk3eas) | 2:27 | 2026-06-24 |  |
 | [Wolves](https://open.spotify.com/track/4z7GNPrQaorf2sN6AkDONX) | [Soulji](https://open.spotify.com/artist/3sCSFXcnA4yqnV7KhnxPnl) | [Wolves](https://open.spotify.com/album/4vUi3tv0KAxXvcLdeXRvb0) | 3:52 | 2023-10-20 | 2023-11-18 |
 | [Worship Me Slowly](https://open.spotify.com/track/1tOUI5gnBn97ajxXXpOwto) | [Reed Wonder](https://open.spotify.com/artist/7LaEPzqOfzvbRCBTpzRkQv), [Aurora Olivas](https://open.spotify.com/artist/6OB7PzOSbC30b8E5uGjRBo) | [Worship Me Slowly](https://open.spotify.com/album/49GxUO9Y1rJSinECAH5GZw) | 3:12 | 2025-10-02 |  |
 | [Worth It](https://open.spotify.com/track/2SlQJGn5ZR0ZNO7M9sV7UT) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Essenger](https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE) | [Worth It](https://open.spotify.com/album/18xBXYF9HMCYwH97Ib4YUI) | 3:15 | 2022-01-14 | 2022-07-02 |

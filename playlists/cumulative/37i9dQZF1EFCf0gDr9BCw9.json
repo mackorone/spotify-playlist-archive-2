@@ -911,6 +911,24 @@
     },
     {
       "album": {
+        "name": "Midnight Jazz & Blue Nights: Late Night Jazz, Deep Cuts, Bluesy & Sophisticated Mood",
+        "url": "https://open.spotify.com/album/5vSRuNR1smC7nZzpkaFVdC"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Clementine",
+      "url": "https://open.spotify.com/track/5ibgf1qeYANImR53R9madR"
+    },
+    {
+      "album": {
         "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
         "url": "https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj"
       },
@@ -948,7 +966,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 160133,
       "name": "Clementine",
       "url": "https://open.spotify.com/track/2CbCBgI5XgzcQ0NiNIRkmm"
@@ -1053,6 +1071,24 @@
     },
     {
       "album": {
+        "name": "Die Legenden des Jazz - Duke Ellington",
+        "url": "https://open.spotify.com/album/5qXPfcAeAWL4ehQYzU3sQ0"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170466,
+      "name": "Depk",
+      "url": "https://open.spotify.com/track/1jkUvqMnnONLJn7qLcdodg"
+    },
+    {
+      "album": {
         "name": "Duke Ellington's Far East Suite",
         "url": "https://open.spotify.com/album/5vpTgY04AzRBacZxtGhFe6"
       },
@@ -1064,7 +1100,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 372182,
       "name": "Depk",
       "url": "https://open.spotify.com/track/6M8khwCck0uxFRRwYMO39h"

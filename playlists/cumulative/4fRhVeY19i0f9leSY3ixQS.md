@@ -4,7 +4,7 @@
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-1,718 songs - 3 day 23 hr 55 min
+1,719 songs - 3 day 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1697,6 +1697,7 @@
 | [You Can't Spell "Failure" Without U & I](https://open.spotify.com/track/1nqns95SIoOYhKgj7JAdk7) | [Scott Middlin](https://open.spotify.com/artist/5xQHsYgEBOprSATYk7ygPH) | [You Can't Spell "Failure" Without U & I](https://open.spotify.com/album/2h38RTqdIk2LKSIMjlgBRU) | 2:32 | 2025-12-22 | 2026-02-24 |
 | [You Damn Bastard](https://open.spotify.com/track/3dkeEsFexqyFCjrFRGQhL7) | [Beheading Samsara](https://open.spotify.com/artist/6hqtsxItiu7PXRURpYwAYE) | [You Damn Bastard](https://open.spotify.com/album/1leBKcfRyetARD01oFgfFs) | 3:20 | 2026-01-03 | 2026-01-22 |
 | [You Don't Wanna Go Home](https://open.spotify.com/track/1N3Yy7KmL8kPNUvUf9ndyU) | [Nayla Salzmann](https://open.spotify.com/artist/41J6ppdYoUtSogli4x9Jxo) | [You Don't Wanna Go Home](https://open.spotify.com/album/7y2TICCC1Hv6sXMQHbljoR) | 2:59 | 2025-11-15 | 2025-12-10 |
+| [You Don't Wanna Go Home](https://open.spotify.com/track/5TAd5qBYgM65fvHgAD0uAI) | [Nayla Salzmann](https://open.spotify.com/artist/41J6ppdYoUtSogli4x9Jxo) | [home ANYMORE](https://open.spotify.com/album/17LlS0edP2jyVRe1D73Hjs) | 2:59 | 2026-06-24 |  |
 | [You Flinched Paul!](https://open.spotify.com/track/68MjmPVPRmPAiDsRgf5SW1) | [Ransom Note](https://open.spotify.com/artist/6tJfplBomt656jEDLZf58F) | [You Flinched Paul!](https://open.spotify.com/album/0XzrlYlbqG2g53KZ2pMqhj) | 2:20 | 2026-05-11 | 2026-06-12 |
 | [You Know](https://open.spotify.com/track/2ewL6nDW9xHY6FcngNL3NC) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [You Know](https://open.spotify.com/album/53LzGxN4ZxyrfQtOkB8xDa) | 2:43 | 2026-04-04 | 2026-04-24 |
 | [YOU ME THEM](https://open.spotify.com/track/4FPpSsMGTqQxwGladeLdQs) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [LOUD NOISES](https://open.spotify.com/album/3td0OGM48SevIvq1jkUxAM) | 4:34 | 2025-08-03 |  |

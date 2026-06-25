@@ -1276,6 +1276,32 @@
     {
       "album": {
         "name": "This Melody",
+        "url": "https://open.spotify.com/album/1T6idSGPr0NRJaz3AnOXXl"
+      },
+      "artists": [
+        {
+          "name": "Rudeejay",
+          "url": "https://open.spotify.com/artist/2zC8RU0p5FvJeCPPLVBR8K"
+        },
+        {
+          "name": "Da Brozz",
+          "url": "https://open.spotify.com/artist/2jrH2DRrZ0NU395R27gal6"
+        },
+        {
+          "name": "BELLA X",
+          "url": "https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "This Melody",
+      "url": "https://open.spotify.com/track/01GHQ9kL4axKx3eYiLNEQJ"
+    },
+    {
+      "album": {
+        "name": "This Melody",
         "url": "https://open.spotify.com/album/43Cy3S3bdMlgFYbYXjaYk5"
       },
       "artists": [
@@ -1294,7 +1320,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 166000,
       "name": "This Melody",
       "url": "https://open.spotify.com/track/5S5fBN39X06z6dCrfyc1QO"

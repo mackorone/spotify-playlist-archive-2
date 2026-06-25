@@ -2,9 +2,9 @@
 
 ### [Today's Punk](https://open.spotify.com/playlist/37i9dQZF1DXdOAw8BT7AHt)
 
-> The best of every corner of modern punk rock\. Cover: Sweet Pill
+> The best of every corner of modern punk rock\. Cover: Mannequin Pussy
 
-770 songs - 1 day 14 hr 51 min
+771 songs - 1 day 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,7 +386,7 @@
 | [Karma Too Close](https://open.spotify.com/track/7wknILHOI4wqc7MowtsNI7) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Karma Too Close](https://open.spotify.com/album/1e0UiI1obOMLnuCmfQESyJ) | 2:21 | 2024-07-19 | 2024-10-11 |
 | [KICKFLIP](https://open.spotify.com/track/0M1v8YmXRs2bqFy8X0c0di) | [GANG!](https://open.spotify.com/artist/50DgH5MV7YHdaQ3behXw4C) | [KICKFLIP](https://open.spotify.com/album/19Nuh0OCQfLenVVjjk4K7E) | 2:01 | 2024-06-14 | 2024-10-10 |
 | [Kids Wanna Dance](https://open.spotify.com/track/3elBHbeIPKuWTuflsA8tFw) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [Kids Wanna Dance](https://open.spotify.com/album/4yh3NxpgLVxDac62H6sGDS) | 3:24 | 2024-01-19 | 2024-03-30 |
-| [Kingbreaker](https://open.spotify.com/track/2PzEuyNwf8TB1sfi8vnDpr) | [The Armed](https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K) | [Kingbreaker](https://open.spotify.com/album/3YikGzdMlbMEUNmRu3bPrF) | 1:59 | 2025-07-04 |  |
+| [Kingbreaker](https://open.spotify.com/track/2PzEuyNwf8TB1sfi8vnDpr) | [The Armed](https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K) | [Kingbreaker](https://open.spotify.com/album/3YikGzdMlbMEUNmRu3bPrF) | 1:59 | 2025-07-04 | 2026-06-25 |
 | [Knees Deep](https://open.spotify.com/track/26nKaeICWQGG1EC3cTGliE) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y) | 3:39 | 2023-03-03 | 2023-11-18 |
 | [Knees Deep](https://open.spotify.com/track/6QZ5TAWM48V8b6pkwByX5k) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U) | 3:39 | 2022-12-02 | 2023-04-30 |
 | [Knowledge](https://open.spotify.com/track/1V5ySfK71RkfAsDVf4IOPV) | [media puzzle](https://open.spotify.com/artist/1JFW3ACD123onrCbzNag5Z) | [New Racehorse](https://open.spotify.com/album/6WdPhUtZnHojStkgiBJGxW) | 2:15 | 2026-06-05 |  |
@@ -752,6 +752,7 @@
 | [When Kevin Gets Free](https://open.spotify.com/track/2NqWTLHUCTzWC1L0jXEwIc) | [Public Opinion](https://open.spotify.com/artist/62vfQ1IiuwsEwyqPWiAsWF) | [When Kevin Gets Free](https://open.spotify.com/album/1K8p9jifebz5M3mMwTMSvP) | 1:54 | 2026-06-05 | 2026-06-12 |
 | [when we were friends](https://open.spotify.com/track/6VleKNFc2xxqiQSAPUBnRR) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [when we were friends](https://open.spotify.com/album/0EKr0IF82LGWsTFMJJygT3) | 2:25 | 2026-05-22 |  |
 | [When We Were Young \(feat\. Jaret Reddick of Bowling For Soup\)](https://open.spotify.com/track/5Ia75Gb9IdPKsAuU7v93PL) | [Mest](https://open.spotify.com/artist/1ToMIJExb7R5Klsff81NsK), [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [When We Were Young \(feat\. Jaret Reddick of Bowling For Soup\)](https://open.spotify.com/album/40R60muWYyAVfngs2hVZfj) | 2:59 | 2024-05-31 | 2024-07-03 |
+| [Where's My Dini? \- Spotify Singles](https://open.spotify.com/track/3yANmEBnFRfWwScZ5VHf0s) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Where's My Dini? \(Spotify Singles\)](https://open.spotify.com/album/3m9zl3efQRswdVyYBfvcOm) | 4:43 | 2026-06-24 |  |
 | [White Lies](https://open.spotify.com/track/015NtR2Ju1QInVARP0sKST) | [The S.E.T.](https://open.spotify.com/artist/0Zj0IxZKZQu0Cc0veaM3IK), [Gut Instinct](https://open.spotify.com/artist/63L8S5HqlKxXfksqPu3vtF) | [White Lies](https://open.spotify.com/album/6gIzsuG2eCEgOIe8Ztg9iv) | 2:07 | 2026-02-13 | 2026-05-09 |
 | [White Trash Millionaire](https://open.spotify.com/track/4Vt4vfcqBtOT9MT9GtWiXP) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Sweet Tooth](https://open.spotify.com/album/2vMWoMKeyq9m1xIghMKkaL) | 2:38 | 2022-12-02 | 2023-11-18 |
 | [Who Am I](https://open.spotify.com/track/2gDzbtMofzJlmaN5oGjI7x) | [Grandmas House](https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv) | [Who Am I](https://open.spotify.com/album/112fCF19lmyd56p14czHBO) | 1:46 | 2023-03-03 | 2024-01-16 |

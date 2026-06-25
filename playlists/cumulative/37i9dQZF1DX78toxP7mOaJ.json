@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Fresh rock & alternative from independent artists every Wednesday. Cover: LEMONSUCKR",
+  "description": "Fresh rock & alternative from independent artists every Wednesday. Cover: Clutter",
   "name": "Fresh Finds Rock",
   "tracks": [
     {
@@ -3564,6 +3564,24 @@
       "duration_ms": 226335,
       "name": "Been Down",
       "url": "https://open.spotify.com/track/3w8MVdGpbdt1H7M4CwhpHc"
+    },
+    {
+      "album": {
+        "name": "Before You Disappear",
+        "url": "https://open.spotify.com/album/0gPgCrgYK8KeTPogzoccHA"
+      },
+      "artists": [
+        {
+          "name": "Ruben Gerritz",
+          "url": "https://open.spotify.com/artist/4IXnbn0VJQ42ybbNRa4MB0"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198095,
+      "name": "Before You Disappear",
+      "url": "https://open.spotify.com/track/495cjydvmEw3WdH4K8LJJz"
     },
     {
       "album": {
@@ -15666,6 +15684,24 @@
       "duration_ms": 163384,
       "name": "Good Enough",
       "url": "https://open.spotify.com/track/21X6AYT2I5MVgPpIwuRndm"
+    },
+    {
+      "album": {
+        "name": "Good Enough",
+        "url": "https://open.spotify.com/album/1V3sZlCa2uP1npYlh83fLJ"
+      },
+      "artists": [
+        {
+          "name": "Ultra Lights",
+          "url": "https://open.spotify.com/artist/6T7xnpZAOPf4XwrYZclzTA"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127173,
+      "name": "Good Enough",
+      "url": "https://open.spotify.com/track/1B1By24uRkI2EH3UNrcBK8"
     },
     {
       "album": {
@@ -28366,7 +28402,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 138133,
       "name": "pe$o$",
       "url": "https://open.spotify.com/track/78WEkdHuwNV47RJZ3ezgeH"
@@ -30330,7 +30366,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 225880,
       "name": "Real Tree Lee",
       "url": "https://open.spotify.com/track/1MCsJBk8H4ku4v6PNqi0P4"
@@ -30690,7 +30726,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 280041,
       "name": "Return To Sender",
       "url": "https://open.spotify.com/track/3oVKmjGaOuqGwwLubWGv3o"
@@ -32756,6 +32792,24 @@
       "duration_ms": 151257,
       "name": "Shrug",
       "url": "https://open.spotify.com/track/2BYqJBHBGQ9XQsCWbvEdJh"
+    },
+    {
+      "album": {
+        "name": "Sick Bag",
+        "url": "https://open.spotify.com/album/44zdzCGgWAx69IQhUjvNMx"
+      },
+      "artists": [
+        {
+          "name": "Body Type",
+          "url": "https://open.spotify.com/artist/2gOqvEhTe5TjetSBfivC4D"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178618,
+      "name": "Sick Bag",
+      "url": "https://open.spotify.com/track/4EhTfbD88QfrgG8GghJn7v"
     },
     {
       "album": {
@@ -41870,7 +41924,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 209506,
       "name": "World End",
       "url": "https://open.spotify.com/track/3MZU1JNZFRBkOJikVKpnvC"
@@ -42254,6 +42308,24 @@
       "duration_ms": 227225,
       "name": "Yes Please!",
       "url": "https://open.spotify.com/track/7GoZb3nes83ynwUOkxRmK5"
+    },
+    {
+      "album": {
+        "name": "YES, I AM AN ANIMAL",
+        "url": "https://open.spotify.com/album/0IDnwWNDrfmk02MmJR93be"
+      },
+      "artists": [
+        {
+          "name": "tankerlow",
+          "url": "https://open.spotify.com/artist/3s1K1og0JzNIKLOj3sQeZJ"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304679,
+      "name": "YES, I AM AN ANIMAL",
+      "url": "https://open.spotify.com/track/54ayOa2nydoqHPbje4Ggtl"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: SUPER BEAVER \*👉 <a href="https://spice.eplus.jp/articles/347083">連動記事</a>をSPICEでチェック!
 
-15,169 songs - 40 day 6 hr 16 min
+15,171 songs - 40 day 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3355,6 +3355,7 @@
 | [Goddess](https://open.spotify.com/track/6sf85kmU2v6LMkFOIpCdnQ) | [Ymagik](https://open.spotify.com/artist/1uhBMk895gc3CoYMr0SjAA), [JUNE](https://open.spotify.com/artist/0ePVNxqH7mluwT7FEyrwIE) | [Goddess](https://open.spotify.com/album/3Wugg2r62zM4o2rTMncgku) | 3:42 | 2023-03-14 | 2023-03-16 |
 | [GODS](https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [GODS](https://open.spotify.com/album/0rAaP1OBxVCn2cIUZNjGRs) | 3:40 | 2023-10-04 | 2023-10-11 |
 | [Goes On](https://open.spotify.com/track/0ABdjpCuLnTTluGGdlDfja) | [烏兎 \-uto\-](https://open.spotify.com/artist/1mRH8Ts0ab2eegJfZsqPwc) | [Blessings of the Sun](https://open.spotify.com/album/1AJute2GlhIg4DmgLG121e) | 4:41 | 2025-04-29 | 2025-05-07 |
+| [Going](https://open.spotify.com/track/0ooR1VXfwVvPVxfMAqKnUn) | [Manaka](https://open.spotify.com/artist/3TUjg4NvsTvKiyRuPdsurN), [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0) | [Going](https://open.spotify.com/album/1WNLDLMUXMw9vcGVX0WF4N) | 2:49 | 2026-06-23 |  |
 | [Going Kokomo](https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:10 | 2023-04-04 | 2023-04-12 |
 | [Gojingamrae](https://open.spotify.com/track/1CE0dJsDYx8Fzu02DNKEWR) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [Gojingamrae](https://open.spotify.com/album/5n3xA0sZr7cIV8EmNg7RBH) | 1:43 | 2026-05-12 | 2026-05-20 |
 | [GOKKO](https://open.spotify.com/track/1rhpSPzVqNW1m3FPwA1b2s) | [PASSEPIED](https://open.spotify.com/artist/115IWAVy4OTxhE0xdDef1c) | [GOKKO](https://open.spotify.com/album/1lVJ1LWjQfnthPH3gbUZwJ) | 3:06 | 2023-04-18 | 2023-04-26 |
@@ -7373,6 +7374,7 @@
 | [run a marathon](https://open.spotify.com/track/1GLdIW8xUY07dKESHxVtbN) | [Nitroday](https://open.spotify.com/artist/4AjzuiHaLa2FjngUldW4e5) | [run a marathon](https://open.spotify.com/album/2UdrMmf1rqROP6tDo1f3Xg) | 3:56 | 2023-12-19 | 2023-12-27 |
 | [Run and Run](https://open.spotify.com/track/6RfmyHQa68q2wfedafOV78) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Run and Run](https://open.spotify.com/album/4P3A17BUhvKN7qRXsSQ1al) | 3:00 | 2025-07-15 | 2025-07-23 |
 | [run for the hills](https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:23 | 2023-12-12 | 2023-12-20 |
+| [RUN IT](https://open.spotify.com/track/0ZYs2sRaCVomWCYP2PGH1j) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [RUN IT](https://open.spotify.com/album/2l6lf2MpFkDGE7XmNMAO8O) | 3:29 | 2026-06-23 |  |
 | [Run It Up](https://open.spotify.com/track/5I60n99ERcQGhwQZgKQLE3) | [T\-Bobo](https://open.spotify.com/artist/40NK4mGLUjuQ4Gx5EASzXK), [LINX](https://open.spotify.com/artist/37CqnZYT9UcBm5zx5olRd2), [Dress Marine](https://open.spotify.com/artist/0xJmBBrz8aZsWts5g1x1Me), [VEINTI4](https://open.spotify.com/artist/4o7vyB4AfcMinZMlhs5zDw) | [Hell or Heaven](https://open.spotify.com/album/0F1b4ubuoHcXMtgtiXjd7b) | 2:24 | 2026-05-27 | 2026-06-03 |
 | [Run Now](https://open.spotify.com/track/3HDXUOLbZmve7O0ZmtAbXV) | [Kamui](https://open.spotify.com/artist/39PBUM5S4D2fVPFbzMUr6C), [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm) | [Run Now](https://open.spotify.com/album/2zimdE0dku9qNzyBB7VKb0) | 3:28 | 2024-07-16 | 2024-07-24 |
 | [Run Or Hide \(feat\. Marina Watanabe\)](https://open.spotify.com/track/6yg50Iimr1S1uSo3bJB6ZV) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Marina Watanabe](https://open.spotify.com/artist/7fECFlpIoo88jHc85cD642) | [Neo Standard](https://open.spotify.com/album/6vXMlkcOS97nxv48Kl76MV) | 3:13 | 2023-09-20 | 2023-09-27 |

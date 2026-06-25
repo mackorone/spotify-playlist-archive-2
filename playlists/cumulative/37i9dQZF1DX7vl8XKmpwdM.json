@@ -5461,6 +5461,36 @@
     },
     {
       "album": {
+        "name": "Rippipee (From \"Sathyavan Savithiri\")",
+        "url": "https://open.spotify.com/album/0q8EIU64LmGa5lbpF03ocB"
+      },
+      "artists": [
+        {
+          "name": "Sam C.S.",
+          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
+        },
+        {
+          "name": "Diwakar",
+          "url": "https://open.spotify.com/artist/5BdXSKDC9KQQpdQ7V3cZxD"
+        },
+        {
+          "name": "Reshma Shyam",
+          "url": "https://open.spotify.com/artist/6gLyEME6OfBcqYtrDt1JlB"
+        },
+        {
+          "name": "Mohan Rajan",
+          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177079,
+      "name": "Rippipee (From \"Sathyavan Savithiri\")",
+      "url": "https://open.spotify.com/track/16u3QPCAZQ37dHqRmlWm0a"
+    },
+    {
+      "album": {
         "name": "Dragon (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7nnIfhnQEZouWC7Stu3AY9"
       },
@@ -6282,7 +6312,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 197104,
       "name": "Thalapathy Kacheri (From \"Jana Nayagan\")",
       "url": "https://open.spotify.com/track/28keFvZn4UVRi4I8Rj4GjY"

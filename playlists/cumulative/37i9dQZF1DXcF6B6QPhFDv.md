@@ -4,7 +4,7 @@
 
 > ROCK NEVER DIES \| Cover: The Paradox
 
-1,318 songs - 3 day 1 hr 12 min
+1,319 songs - 3 day 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1281,6 +1281,7 @@
 | [When We Die \(Can We Still Get High?\) \(feat\. Lil Yachty\)](https://open.spotify.com/track/08uWHOhYijA1DXxhHSDBDH) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [When We Die \(Can We Still Get High?\) \(feat\. Lil Yachty\)](https://open.spotify.com/album/3pgq59bj7H3zljjzgXvs6A) | 5:00 | 2024-01-26 | 2024-05-18 |
 | [when we were young](https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [when we were young](https://open.spotify.com/album/2ZGOqvkbQFLEayRqXxGjc9) | 3:13 | 2022-05-06 | 2022-08-13 |
 | [Where Blue Light Blooms](https://open.spotify.com/track/5JK1baqYwbfNQaLkwaLEdX) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [Feeling Not Found](https://open.spotify.com/album/4tljXNTOiaHaXiKMhqLdyj) | 3:20 | 2024-10-04 | 2025-03-01 |
+| [Where's My Dini? \- Spotify Singles](https://open.spotify.com/track/3yANmEBnFRfWwScZ5VHf0s) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Where's My Dini? \(Spotify Singles\)](https://open.spotify.com/album/3m9zl3efQRswdVyYBfvcOm) | 4:43 | 2026-06-24 |  |
 | [White Horses](https://open.spotify.com/track/5FxdLsAmaOo8ofpNvsSun5) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing](https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV) | 4:29 | 2025-11-21 |  |
 | [WHO](https://open.spotify.com/track/4GKe6Jxk9Fhs62img1owZX) | [Spotify](https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV) | [WKR?](https://open.spotify.com/album/3KeFwv7LXKs8kfJjqyRSag) | 0:18 | 2024-03-11 | 2024-03-14 |
 | [WHOEVER YOU WANT ME TO BE \(NOTHING MORE\)](https://open.spotify.com/track/61TkbQlySi619YQgnaxUQT) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [WHOEVER YOU WANT ME TO BE \(NOTHING MORE\)](https://open.spotify.com/album/5vBkSnHcPz4vG7fkWgOIAi) | 2:47 | 2026-06-05 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs sons du mois s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify.",
-  "num_followers": 402121,
+  "num_followers": 402116,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : Mai 2026",
   "owner": {
     "name": "Spotify",
@@ -103,22 +103,6 @@
     {
       "added_at": "2026-05-31 22:00:06",
       "album": {
-        "name": "everyone for ten minutes",
-        "url": "https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 184761,
-      "name": "we should talk",
-      "url": "https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz"
-    },
-    {
-      "added_at": "2026-05-31 22:00:06",
-      "album": {
         "name": "\u00c9t\u00e9 avec toi",
         "url": "https://open.spotify.com/album/5ExuPCbhP2IlrBgvdZvTLu"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 187320,
       "name": "\u00c9t\u00e9 avec toi",
       "url": "https://open.spotify.com/track/4cSHMHSTRhetAtT1iDP2zO"
+    },
+    {
+      "added_at": "2026-05-31 22:00:06",
+      "album": {
+        "name": "everyone for ten minutes",
+        "url": "https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "we should talk",
+      "url": "https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz"
     },
     {
       "added_at": "2026-05-31 22:00:06",
@@ -335,22 +335,6 @@
     {
       "added_at": "2026-05-31 22:00:06",
       "album": {
-        "name": "Maman",
-        "url": "https://open.spotify.com/album/0gxk8tI9M0cupnLHBaQUjw"
-      },
-      "artists": [
-        {
-          "name": "Wamen",
-          "url": "https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse"
-        }
-      ],
-      "duration_ms": 167666,
-      "name": "Maman",
-      "url": "https://open.spotify.com/track/4rDiyfZtqk03FTzQ4M8tg4"
-    },
-    {
-      "added_at": "2026-05-31 22:00:06",
-      "album": {
         "name": "DISCO INFERNO",
         "url": "https://open.spotify.com/album/7t1h5yn1S2JBCGrX0vUkTl"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 233788,
       "name": "C\u0152UR DE PIRATE",
       "url": "https://open.spotify.com/track/0vmYv8KwjjBOC0UQjIuU8m"
+    },
+    {
+      "added_at": "2026-05-31 22:00:06",
+      "album": {
+        "name": "Maman",
+        "url": "https://open.spotify.com/album/0gxk8tI9M0cupnLHBaQUjw"
+      },
+      "artists": [
+        {
+          "name": "Wamen",
+          "url": "https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse"
+        }
+      ],
+      "duration_ms": 167666,
+      "name": "Maman",
+      "url": "https://open.spotify.com/track/4rDiyfZtqk03FTzQ4M8tg4"
     },
     {
       "added_at": "2026-05-31 22:00:06",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-05-31 22:00:06",
       "album": {
-        "name": "The Big One",
-        "url": "https://open.spotify.com/album/4UL5cSgVg7hj3cKW7H1IS6"
-      },
-      "artists": [
-        {
-          "name": "Dent May",
-          "url": "https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7"
-        }
-      ],
-      "duration_ms": 218186,
-      "name": "The Big One",
-      "url": "https://open.spotify.com/track/1VaeMX2S1N7PxH5aE6gwBd"
-    },
-    {
-      "added_at": "2026-05-31 22:00:06",
-      "album": {
         "name": "Replay",
         "url": "https://open.spotify.com/album/3g1ttBs979kIuCcQywhOc0"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 176500,
       "name": "Replay",
       "url": "https://open.spotify.com/track/1EUmrCBpRI6RPNYFcziSU5"
+    },
+    {
+      "added_at": "2026-05-31 22:00:06",
+      "album": {
+        "name": "The Big One",
+        "url": "https://open.spotify.com/album/4UL5cSgVg7hj3cKW7H1IS6"
+      },
+      "artists": [
+        {
+          "name": "Dent May",
+          "url": "https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7"
+        }
+      ],
+      "duration_ms": 218186,
+      "name": "The Big One",
+      "url": "https://open.spotify.com/track/1VaeMX2S1N7PxH5aE6gwBd"
     },
     {
       "added_at": "2026-05-31 22:00:06",

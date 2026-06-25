@@ -4,7 +4,7 @@
 
 > Country music's latest offerings featuring Waylon Wyatt, Cole Swindell, Brothers Osborne and more.
 
-13,127 songs - 29 day 21 hr 47 min
+13,127 songs - 29 day 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -10917,7 +10917,7 @@
 | [Texas Swagger](https://open.spotify.com/track/41CGku4X9e0cu17XRrmZmz) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Texas Swagger](https://open.spotify.com/album/0H1ZkLgkghWqXCMloetCKr) | 2:43 | 2026-01-23 | 2026-02-07 |
 | [Texas Two Step](https://open.spotify.com/track/0m2GRaM1WZu2i3FrhFTiJz) | [Bronson Diamond](https://open.spotify.com/artist/0mSLLMyw3xf8LMkrIs3ZFW), [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Texas Two Step](https://open.spotify.com/album/0hF2MFwDb9sJirWlaKVP0X) | 3:13 | 2025-12-19 | 2026-01-15 |
 | [Texas Two Step](https://open.spotify.com/track/14xCZIDwpuZtkapSNp0EYE) | [Zach Meadows](https://open.spotify.com/artist/2EVgNIwOWFXvUgiMtW5NuX) | [Texas Two Step](https://open.spotify.com/album/5VMF6esK3nuEEVqgUVMBPn) | 3:35 | 2023-08-11 | 2023-08-19 |
-| [Texas Women](https://open.spotify.com/track/6N4aeMmRiNImovfb4t8VUG) | [The Wilder Blue](https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD), [Tracy Byrd](https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT) | [Texas Women](https://open.spotify.com/album/1T4adZsPN9vjteXvmm6Ss9) | 3:58 | 2026-06-19 |  |
+| [Texas Women](https://open.spotify.com/track/6N4aeMmRiNImovfb4t8VUG) | [The Wilder Blue](https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD), [Tracy Byrd](https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT) | [Texas Women](https://open.spotify.com/album/1T4adZsPN9vjteXvmm6Ss9) | 4:23 | 2026-06-19 |  |
 | [Text My Ex](https://open.spotify.com/track/7xe7gezQHuxy3bB8aILVTF) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D), [Oli Parker](https://open.spotify.com/artist/4o7rOtAAYgrNOZrnxG8t9g) | [Text My Ex](https://open.spotify.com/album/1zjrrE8kjeZGoA7bGNQTmg) | 2:21 | 2025-06-20 | 2025-06-28 |
 | [Thank God](https://open.spotify.com/track/3v4J8GQQ5fSniOaFAkmSaG) | [Chad Bushnell](https://open.spotify.com/artist/7u3M8QGYeoWJBUKZt39xRN) | [Thank God](https://open.spotify.com/album/4fm9hSmnugCzl2mWBNWt4P) | 3:35 | 2021-12-31 | 2022-01-15 |
 | [Thank God](https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:54 | 2022-09-09 | 2022-09-17 |

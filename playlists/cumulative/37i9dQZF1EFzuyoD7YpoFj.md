@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-717 songs - 1 day 14 hr 36 min
+718 songs - 1 day 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [All The Time And Everywhere](https://open.spotify.com/track/7MA5JZ041w1UzhPO6lqf9W) | [Dickie Valentine](https://open.spotify.com/artist/60JUOTnRuDTetm7Hiwonev) | [This Is Dickie Valentine](https://open.spotify.com/album/5xu3KJ20I7S8uWn6vD4mdH) | 3:07 | 2024-07-24 | 2025-06-28 |
 | [All Through the Night](https://open.spotify.com/track/2CIDqYfIYfl9vx02wIyCG9) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 4:32 | 2024-07-24 | 2025-06-28 |
 | [All Through The Night](https://open.spotify.com/track/2glsiwOCYHE3OGomXqF2YD) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [The Cole Porter Songbook by Ella Fitzgerald: Legendary Jazz Standards & Love Classic Songs](https://open.spotify.com/album/1pjjHOKGnGKzMBxU0w3SFt) | 3:08 | 2026-05-31 | 2026-06-02 |
-| [All Through The Night](https://open.spotify.com/track/5vPfX2ZSujQf6vLUJrXsFN) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book \(Expanded Edition\)](https://open.spotify.com/album/5h8vIlNNUiczk48YIyryuI) | 3:14 | 2026-06-12 |  |
+| [All Through The Night](https://open.spotify.com/track/6WRidiUvt5qzXlqpbmVCLA) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Midnight Jazz & Blue Nights: Late Night Jazz, Deep Cuts, Bluesy & Sophisticated Mood](https://open.spotify.com/album/5vSRuNR1smC7nZzpkaFVdC) | 3:13 | 2026-06-24 |  |
+| [All Through The Night](https://open.spotify.com/track/5vPfX2ZSujQf6vLUJrXsFN) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book \(Expanded Edition\)](https://open.spotify.com/album/5h8vIlNNUiczk48YIyryuI) | 3:14 | 2026-06-12 | 2026-06-25 |
 | [All Through The Night](https://open.spotify.com/track/3SzFMhHBt7bw0eS35946N6) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book](https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM) | 3:16 | 2025-06-27 | 2026-06-13 |
 | [All Through The Night \- Ella Fitzgerald Sings the Cole Porter Songbook](https://open.spotify.com/track/18b4Lt336qH0ei7w5AWyvQ) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [INTEGRAL ELLA FITZGERALD 1956\-1957](https://open.spotify.com/album/6lSbe0c38u3jFUvEvh0MKg) | 3:16 | 2026-02-12 | 2026-05-03 |
 | [Alles Komt Terug](https://open.spotify.com/track/6SatnA4nlhXiCpiC6KdsCH) | [Tourist LeMC](https://open.spotify.com/artist/6mbdN4ACD50R8vBKGCfzsr) | [We Begrijpen Mekaar](https://open.spotify.com/album/5QO7SFUlJgAAXx2Oi7me0B) | 3:22 | 2024-07-24 |  |

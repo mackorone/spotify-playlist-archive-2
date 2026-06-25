@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Fresh country music by independent artists every Wednesday. Cover: Scoot Teasley, Artwork: Fan\u00e9lie Muselier\n",
+  "description": "Fresh country music by independent artists every Wednesday. Cover: Hunt Pipkin, Artwork: Fan\u00e9lie Muselier\n",
   "name": "Fresh Finds Country",
   "tracks": [
     {
@@ -608,7 +608,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 206292,
       "name": "4x4",
       "url": "https://open.spotify.com/track/67GXlXd4V3rDhngkIwZ0Ad"
@@ -1084,6 +1084,24 @@
       "duration_ms": 150133,
       "name": "A Parking Lot Far Away",
       "url": "https://open.spotify.com/track/0T8xDz3TD4Nw3wQKdehaZL"
+    },
+    {
+      "album": {
+        "name": "A Song for You",
+        "url": "https://open.spotify.com/album/5ZpqL6ajb1dNCIQfhIToxO"
+      },
+      "artists": [
+        {
+          "name": "AUSTIN G",
+          "url": "https://open.spotify.com/artist/2MKu40myhUVlIgfsrw5Huq"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183658,
+      "name": "A Song for You",
+      "url": "https://open.spotify.com/track/7lgei7Qfy2ItzgaEVMr3RC"
     },
     {
       "album": {
@@ -18360,7 +18378,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 209788,
       "name": "Far From Over You",
       "url": "https://open.spotify.com/track/4N1SlICqjZiLNHqseRoOVy"
@@ -22562,6 +22580,24 @@
     {
       "album": {
         "name": "Goodyears",
+        "url": "https://open.spotify.com/album/7amFBGsB6suoeiJp0uEwWC"
+      },
+      "artists": [
+        {
+          "name": "Gabe Walsh",
+          "url": "https://open.spotify.com/artist/6umOdZsRiFfqL0o1bYbc4X"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213923,
+      "name": "Goodyears",
+      "url": "https://open.spotify.com/track/1UVvscGyDpcEjha8Ox0O8l"
+    },
+    {
+      "album": {
+        "name": "Goodyears",
         "url": "https://open.spotify.com/album/1YSehnmy9EqmuKzZrpiNRE"
       },
       "artists": [
@@ -24085,6 +24121,24 @@
     },
     {
       "album": {
+        "name": "He Ain't Coming Back",
+        "url": "https://open.spotify.com/album/2Lo1YrkLzIayqgUBgTxV0B"
+      },
+      "artists": [
+        {
+          "name": "Lakelin Lemmings",
+          "url": "https://open.spotify.com/artist/6rD2PsyfQ3F86DbVnjVSn2"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206133,
+      "name": "He Ain't Coming Back",
+      "url": "https://open.spotify.com/track/6rcHLvbAz0no5YhJdtMOc6"
+    },
+    {
+      "album": {
         "name": "He Met a Girl",
         "url": "https://open.spotify.com/album/1cp0jUsCHUpoVFVH2EBtm9"
       },
@@ -24994,6 +25048,24 @@
       "duration_ms": 217133,
       "name": "Hearts Like Mine",
       "url": "https://open.spotify.com/track/3uzXlgeVmB5zaS8mFczuIN"
+    },
+    {
+      "album": {
+        "name": "Heather",
+        "url": "https://open.spotify.com/album/1uw9rWXMAsMJoJtehUAg0q"
+      },
+      "artists": [
+        {
+          "name": "Ava Liv Mabry",
+          "url": "https://open.spotify.com/artist/6zlB6kvR0qGgUz2S7l3H0N"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152739,
+      "name": "Heather",
+      "url": "https://open.spotify.com/track/5dw58XgghES8su2yXgQDPg"
     },
     {
       "album": {
@@ -30776,7 +30848,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 189882,
       "name": "Into It",
       "url": "https://open.spotify.com/track/3iJo2Fiom7YbsG8qZ39j7b"
@@ -43906,7 +43978,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 178144,
       "name": "Over The Moon",
       "url": "https://open.spotify.com/track/3gIeigK8Rrhq2U1OK0STer"
@@ -59501,6 +59573,24 @@
     },
     {
       "album": {
+        "name": "Too Far Gone",
+        "url": "https://open.spotify.com/album/638F3gObkZXTuJQI3FkBt5"
+      },
+      "artists": [
+        {
+          "name": "Emma Smalley",
+          "url": "https://open.spotify.com/artist/0aS7MPo8k8PNxOAJmRVcDw"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223252,
+      "name": "Too Far Gone",
+      "url": "https://open.spotify.com/track/4yQkY0H62mICj7tXIb44Ir"
+    },
+    {
+      "album": {
         "name": "Too Fast For This Town",
         "url": "https://open.spotify.com/album/1dWdxtnvezbJlhGbyUGFo6"
       },
@@ -60428,7 +60518,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 203967,
       "name": "Two Boots",
       "url": "https://open.spotify.com/track/0ey9A7L0UFKXmUTAVdJKY4"
@@ -61614,6 +61704,24 @@
       "duration_ms": 220066,
       "name": "Wanted By The Law",
       "url": "https://open.spotify.com/track/3Ls2ngEcJZvqDfAPEyLJHe"
+    },
+    {
+      "album": {
+        "name": "Wanted Man",
+        "url": "https://open.spotify.com/album/0xTo74rRquOEoNX3Q2Jf68"
+      },
+      "artists": [
+        {
+          "name": "Antwane Tyler",
+          "url": "https://open.spotify.com/artist/2JRMpGMeW97V78uzcbF2Sx"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128619,
+      "name": "Wanted Man",
+      "url": "https://open.spotify.com/track/7IHd7kUPOX0jCHphbI7XrL"
     },
     {
       "album": {

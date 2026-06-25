@@ -1,12 +1,12 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 235186,
+  "num_followers": 235169,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajh7AAAAAAAKZ6WaQ0DwmK1wDNdQ/Gzb",
+  "snapshot_id": "ajnMgAAAAABsF2Nlw6q5GgUxHr02uyVa",
   "tracks": [
     {
       "added_at": null,
@@ -143,6 +143,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Atr\u00e9vete A So\u00f1ar",
+        "url": "https://open.spotify.com/album/571Z1f9GtauZi0OmKUyPu6"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 235173,
+      "name": "El Primer Dia Sin Ti",
+      "url": "https://open.spotify.com/track/7i8Pt4HNuQideWC6t0cDX9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los D\u00fao 3",
         "url": "https://open.spotify.com/album/3f8PsF3D3BxxQJGvN2nqXC"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 299066,
       "name": "De M\u00ed Enam\u00f3rate",
       "url": "https://open.spotify.com/track/6JmCyFj0UAIkGlp9EsFEsu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Atr\u00e9vete A So\u00f1ar",
-        "url": "https://open.spotify.com/album/571Z1f9GtauZi0OmKUyPu6"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 235173,
-      "name": "El Primer Dia Sin Ti",
-      "url": "https://open.spotify.com/track/7i8Pt4HNuQideWC6t0cDX9"
     },
     {
       "added_at": null,
@@ -407,26 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atr\u00e9vete A So\u00f1ar 2",
-        "url": "https://open.spotify.com/album/12ZHvtCWmZqtud4TndhrSS"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        },
-        {
-          "name": "Las Populares",
-          "url": "https://open.spotify.com/artist/2DUNKEtgbgyBJA7TdX3bcX"
-        }
-      ],
-      "duration_ms": 197453,
-      "name": "Hot Pops",
-      "url": "https://open.spotify.com/track/3d0YUGL40ceqwNHTtVhlGk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mientras Me Enamoras",
         "url": "https://open.spotify.com/album/1dM6TuQuv0TRWLHbooLxTn"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 209824,
       "name": "Mientras Me Enamoras",
       "url": "https://open.spotify.com/track/3PzZNV9AANQ1VFs80IHOEx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Atr\u00e9vete A So\u00f1ar 2",
+        "url": "https://open.spotify.com/album/12ZHvtCWmZqtud4TndhrSS"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Las Populares",
+          "url": "https://open.spotify.com/artist/2DUNKEtgbgyBJA7TdX3bcX"
+        }
+      ],
+      "duration_ms": 197453,
+      "name": "Hot Pops",
+      "url": "https://open.spotify.com/track/3d0YUGL40ceqwNHTtVhlGk"
     },
     {
       "added_at": null,
@@ -483,6 +483,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Canta Con Morat",
+        "url": "https://open.spotify.com/album/3ZPCDjEmiEkeq0QoRQoNcH"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 184189,
+      "name": "Idiota",
+      "url": "https://open.spotify.com/track/1cxbYGx8hYGY7JuxcseqKf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Atr\u00e9vete A So\u00f1ar 2",
         "url": "https://open.spotify.com/album/12ZHvtCWmZqtud4TndhrSS"
       },
@@ -503,26 +523,6 @@
       "duration_ms": 174693,
       "name": "Peek A Boo",
       "url": "https://open.spotify.com/track/39qhci9cs0XEdU4KcmTBpK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canta Con Morat",
-        "url": "https://open.spotify.com/album/3ZPCDjEmiEkeq0QoRQoNcH"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 184189,
-      "name": "Idiota",
-      "url": "https://open.spotify.com/track/1cxbYGx8hYGY7JuxcseqKf"
     },
     {
       "added_at": null,
@@ -563,6 +563,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Atr\u00e9vete A So\u00f1ar",
+        "url": "https://open.spotify.com/album/571Z1f9GtauZi0OmKUyPu6"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Las Populares",
+          "url": "https://open.spotify.com/artist/2DUNKEtgbgyBJA7TdX3bcX"
+        }
+      ],
+      "duration_ms": 205733,
+      "name": "Dame Corazon",
+      "url": "https://open.spotify.com/track/3XcowngSbS2cfi1FUMs3xr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Atr\u00e9vete A So\u00f1ar 2",
         "url": "https://open.spotify.com/album/12ZHvtCWmZqtud4TndhrSS"
       },
@@ -595,42 +615,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atr\u00e9vete A So\u00f1ar",
-        "url": "https://open.spotify.com/album/571Z1f9GtauZi0OmKUyPu6"
+        "name": "Cena Musical Latina",
+        "url": "https://open.spotify.com/album/1aLDb3B09PoafsgPxy6sNb"
       },
       "artists": [
         {
           "name": "Danna Paola",
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        },
-        {
-          "name": "Las Populares",
-          "url": "https://open.spotify.com/artist/2DUNKEtgbgyBJA7TdX3bcX"
         }
       ],
-      "duration_ms": 205733,
-      "name": "Dame Corazon",
-      "url": "https://open.spotify.com/track/3XcowngSbS2cfi1FUMs3xr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Regueton Mix 2022 \ud83d\ude0d",
-        "url": "https://open.spotify.com/album/3tuokMaTjnuhL9A8dvLkze"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 188546,
-      "name": "Cachito",
-      "url": "https://open.spotify.com/track/1fcB9qo3tBaelcsL1nnATU"
+      "duration_ms": 244800,
+      "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
+      "url": "https://open.spotify.com/track/6v3FguYgfdASLOemDk8xaY"
     },
     {
       "added_at": null,
@@ -655,24 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cena Musical Latina",
-        "url": "https://open.spotify.com/album/1aLDb3B09PoafsgPxy6sNb"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 244800,
-      "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
-      "url": "https://open.spotify.com/track/6v3FguYgfdASLOemDk8xaY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AmyLla Ni\u00f1a De La Mochila Azul Vol.2",
-        "url": "https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW"
+        "name": "Regueton Mix 2022 \ud83d\ude0d",
+        "url": "https://open.spotify.com/album/3tuokMaTjnuhL9A8dvLkze"
       },
       "artists": [
         {
@@ -680,13 +660,13 @@
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         },
         {
-          "name": "Tatiana",
-          "url": "https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0"
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
         }
       ],
-      "duration_ms": 220600,
-      "name": "Caminos De Luz",
-      "url": "https://open.spotify.com/track/72LXdr5YUCB2s2wxYHuhcQ"
+      "duration_ms": 188546,
+      "name": "Cachito",
+      "url": "https://open.spotify.com/track/1fcB9qo3tBaelcsL1nnATU"
     },
     {
       "added_at": null,
@@ -707,6 +687,26 @@
       "duration_ms": 182813,
       "name": "No Bailes Sola",
       "url": "https://open.spotify.com/track/18Ehq6VGcQOYfVBT4EYed5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AmyLla Ni\u00f1a De La Mochila Azul Vol.2",
+        "url": "https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Tatiana",
+          "url": "https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0"
+        }
+      ],
+      "duration_ms": 220600,
+      "name": "Caminos De Luz",
+      "url": "https://open.spotify.com/track/72LXdr5YUCB2s2wxYHuhcQ"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AmyLla Ni\u00f1a De La Mochila Azul Vol.2",
-        "url": "https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 182133,
-      "name": "Milagrito",
-      "url": "https://open.spotify.com/track/2nPPhyPxWv58MqWLbnYkeX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Atrevete A So\u00f1ar (Original Sountrack)",
         "url": "https://open.spotify.com/album/2xxdR4FrSukKWJ18NuKfgu"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 34226,
       "name": "Everybody Hands Up!!",
       "url": "https://open.spotify.com/track/1W00m9l5aElQhpzLEfgPtp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AmyLla Ni\u00f1a De La Mochila Azul Vol.2",
+        "url": "https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 182133,
+      "name": "Milagrito",
+      "url": "https://open.spotify.com/track/2nPPhyPxWv58MqWLbnYkeX"
     },
     {
       "added_at": null,
@@ -827,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AmyLla Ni\u00f1a De La Mochila Azul Vol.2",
-        "url": "https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 187906,
-      "name": "El Cielo En Brazos De Pap\u00e1",
-      "url": "https://open.spotify.com/track/20vs9G7JnvqkMrzpm8jZQx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pop para los peques",
         "url": "https://open.spotify.com/album/1ReWDCoZ2nzYT2lbxxSjyb"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 190586,
       "name": "Mar\u00eda Belem",
       "url": "https://open.spotify.com/track/4zh6vIBEH8GQpOphzEnH09"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AmyLla Ni\u00f1a De La Mochila Azul Vol.2",
+        "url": "https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 187906,
+      "name": "El Cielo En Brazos De Pap\u00e1",
+      "url": "https://open.spotify.com/track/20vs9G7JnvqkMrzpm8jZQx"
     },
     {
       "added_at": null,
@@ -895,6 +895,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "La M\u00fasica y las Mujeres",
+        "url": "https://open.spotify.com/album/74SChGBL5GpfKvYggjW7I5"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 149589,
+      "name": "tqum - Remix",
+      "url": "https://open.spotify.com/track/3bZkRGbE7hvtfnlXpsxQLz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AmyLla Ni\u00f1a De La Mochila Azul Vol.2",
         "url": "https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW"
       },
@@ -923,30 +947,6 @@
       "duration_ms": 157666,
       "name": "Esa Es Mi Mamita Linda",
       "url": "https://open.spotify.com/track/11n0fDc4ju3oxVLlYqgTtL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La M\u00fasica y las Mujeres",
-        "url": "https://open.spotify.com/album/74SChGBL5GpfKvYggjW7I5"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 149589,
-      "name": "tqum - Remix",
-      "url": "https://open.spotify.com/track/3bZkRGbE7hvtfnlXpsxQLz"
     },
     {
       "added_at": null,

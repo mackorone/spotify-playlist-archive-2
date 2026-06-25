@@ -633,6 +633,24 @@
     },
     {
       "album": {
+        "name": "Black & White",
+        "url": "https://open.spotify.com/album/4d9gRLsl9swpB6qC1xzjYF"
+      },
+      "artists": [
+        {
+          "name": "Patch Habits",
+          "url": "https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202285,
+      "name": "Black & White",
+      "url": "https://open.spotify.com/track/5l7Saevnhj0pWnnLAeXHOz"
+    },
+    {
+      "album": {
         "name": "Blanket Dreams",
         "url": "https://open.spotify.com/album/4M47wTUTOrVeFg50G5cXbl"
       },

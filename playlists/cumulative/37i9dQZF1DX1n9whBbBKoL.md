@@ -4,7 +4,7 @@
 
 > Ambient drone to make you feel weightless.
 
-700 songs - 1 day 9 hr 44 min
+703 songs - 1 day 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Celestia](https://open.spotify.com/track/2I27lElI9uiPyIPeDkB70C) | [Tundra Miles](https://open.spotify.com/artist/4kLXFoLSe7YfrF08nrKESJ) | [Celestia](https://open.spotify.com/album/0yR9DPQYSij4ff2ZNUuMoa) | 3:03 | 2025-11-19 | 2026-06-13 |
 | [Celestial](https://open.spotify.com/track/1FPjiDSqB5qYzLy77eQqMU) | [Lake Nebula](https://open.spotify.com/artist/2vrz4UIWYTyVEKZ3DubfRU) | [Celestial](https://open.spotify.com/album/42vrYOv2bbFPQp9pku4loa) | 2:51 | 2025-04-01 | 2026-02-05 |
 | [Celestial Silence](https://open.spotify.com/track/2ZDVsZgCA1tQ0akgVxxlzA) | [Paia Mooni](https://open.spotify.com/artist/1eSR2WemgOxjpRlUlzZSwn) | [Celestial Silence](https://open.spotify.com/album/0IWhVnatzsGbfvDrGklbwi) | 2:42 | 2025-07-23 |  |
+| [Celestial Snooze](https://open.spotify.com/track/06kY3E5OVmfEybdhtPUCaX) | [Celestros](https://open.spotify.com/artist/67aZiwEIyJelBQiBjcvZ6V) | [Celestial Snooze](https://open.spotify.com/album/5NAoKCgyveLu4SttGW3xtT) | 2:59 | 2026-06-24 |  |
 | [Celestial Stillness](https://open.spotify.com/track/7DykWqafRSZEpUa6LxmZ9J) | [Seth Sands](https://open.spotify.com/artist/1EcwJ494z7gVanrsuDjNs8) | [Celestial Stillness](https://open.spotify.com/album/5PRYhBMv3d71hn5YgVi8Bp) | 3:08 | 2025-12-09 | 2026-03-21 |
 | [Celestial Tides](https://open.spotify.com/track/23ew6FqfWK92kzXWw1Lgi8) | [tenebrae](https://open.spotify.com/artist/0Pot957YoZubiuyhOPCIay) | [Celestial Tides](https://open.spotify.com/album/658NBj0E1TFeNV2uRpe755) | 2:38 | 2025-07-09 | 2026-05-09 |
 | [Centered](https://open.spotify.com/track/4xXFAr8ir0aQLqxXBGFQ4n) | [A´leroi](https://open.spotify.com/artist/6ucS6hImkhRYqVGEnwcJ1I) | [Centered](https://open.spotify.com/album/4B8W32tfhj8fkNSa9N1hlx) | 2:46 | 2024-05-20 |  |
@@ -627,6 +628,7 @@
 | [Surrounded Passage \(Delta Binaural\)](https://open.spotify.com/track/0gffACkxI5ABiI7Ak9Gb4R) | [Milo Graves](https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV) | [Surrounded Passage \(Delta Binaural\)](https://open.spotify.com/album/54uV4LPslzmKDj50ylCNYl) | 3:37 | 2024-02-07 | 2024-07-16 |
 | [Susurration](https://open.spotify.com/track/3HViVJ12Sifz8lriboJfZD) | [Morgondimma](https://open.spotify.com/artist/0mQskyOm143f9LT371ux2U) | [Susurration](https://open.spotify.com/album/3AWWSmuKh7xD8rPdS0tbvK) | 2:22 | 2024-05-04 | 2025-10-08 |
 | [Sway Me Away](https://open.spotify.com/track/5WoT7gc0ZRAFml3B2k7ZlC) | [Joseff Shields](https://open.spotify.com/artist/3k3jeStlJRgFKEWvcbJuy3) | [Sway Me Away](https://open.spotify.com/album/6jrZpHY37Ck2f2X4t0NIKp) | 2:13 | 2022-03-24 | 2024-11-07 |
+| [Sylphae Drift](https://open.spotify.com/track/7kDRANb3o54y0yUTNUhTyF) | [Eva Duarte](https://open.spotify.com/artist/0xnpKQPZgNhUM4l1UoRGZg) | [Sylphae Drift](https://open.spotify.com/album/1MxQwDFd9qnwsEbXFg0ZLW) | 2:52 | 2026-06-24 |  |
 | [Synaptic Dream](https://open.spotify.com/track/3GTf4cMfzCuVNSDyCNwBKY) | [Tuscany Flow](https://open.spotify.com/artist/6oMNHqt2Amt55TwRg2FhbH) | [Synaptic Dream](https://open.spotify.com/album/58cJbg1Qowuty8MgWy0dlM) | 2:47 | 2025-09-23 | 2026-05-09 |
 | [Synthetic](https://open.spotify.com/track/2zXjXjPgvYHSMa472qBXMa) | [Digitalis](https://open.spotify.com/artist/0dxuNGL2sY3z2qXzZ69ki2) | [Synthetic](https://open.spotify.com/album/2rfbyyWjqbTb3mTAPyRSvX) | 2:54 | 2025-02-26 | 2026-05-09 |
 | [Synthetic Data Sphere](https://open.spotify.com/track/59ODuG8ttbkZ4coLIZIO55) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Synthetic Data Sphere](https://open.spotify.com/album/04usknpbJhQuIRoTPTl7IB) | 3:22 | 2024-11-21 | 2025-07-24 |
@@ -639,6 +641,7 @@
 | [The Portal](https://open.spotify.com/track/4SElA4Dm591oMKVxdAsIDD) | [Now & Anatma](https://open.spotify.com/artist/6RJUE6sgw2xb5nVYXhKxE9) | [The Portal](https://open.spotify.com/album/44d4ixmraT72ZtNArh9Un2) | 3:17 | 2025-10-07 | 2026-05-09 |
 | [The Riddle of Dreams](https://open.spotify.com/track/5HfIHltHzu31DBzxJwoVQg) | [Carligo](https://open.spotify.com/artist/6rcMboN5jrM7OzqcqIfLwd) | [The Riddle of Dreams](https://open.spotify.com/album/5gBFJ8RLzPdObOk4pQTiKj) | 2:27 | 2021-11-10 | 2024-05-21 |
 | [The Searching Mind](https://open.spotify.com/track/4kr9gd3vK8IQw3783OeuIk) | [Suraj Ives](https://open.spotify.com/artist/4VPaJH2YvHn7jNz6SVVgwn) | [The Searching Mind](https://open.spotify.com/album/7kbqP0XONQcJm2Bw985mHn) | 3:23 | 2024-02-27 | 2025-10-08 |
+| [The sky, still pale](https://open.spotify.com/track/1jFx53FPIdv24BysbMJOvn) | [Kai Stellar](https://open.spotify.com/artist/5Ni9tbQ9r28mw5RS8AyGQr) | [The sky, still pale](https://open.spotify.com/album/5xMO1cQM8gM0rv136ibSYg) | 2:47 | 2026-06-24 |  |
 | [There Is No Door](https://open.spotify.com/track/0rijE9OzRao288gMiqCHOB) | [Gabrielle Sarrov](https://open.spotify.com/artist/0hWj5Qhik6MeR8OgrX7QQs) | [There Is No Door](https://open.spotify.com/album/5Kw0k4LswXV9gWynxsfydx) | 2:18 | 2024-03-06 | 2024-08-31 |
 | [Theta Sinus 100 Hz \- 104 Hz](https://open.spotify.com/track/3dw2xpPQnX1K5dvUETLDY7) | [Theta Aum](https://open.spotify.com/artist/7JqEtz50hLij7xaWbuWV42) | [Theta Aum](https://open.spotify.com/album/1CIuo5ZK4G1l1DAQzRviit) | 3:33 | 2021-11-10 | 2022-04-22 |
 | [Thought Within](https://open.spotify.com/track/2gMXp1EehxMGY5RODw3yg2) | [Carl Borg](https://open.spotify.com/artist/1A6tzufDDqCP4qRnReIfhX) | [Thought Within](https://open.spotify.com/album/6nhxEsyfGehv4qlm097Sr3) | 2:14 | 2025-11-19 |  |

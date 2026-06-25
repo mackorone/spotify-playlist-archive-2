@@ -10127,6 +10127,32 @@
     },
     {
       "album": {
+        "name": "Heart On Fire",
+        "url": "https://open.spotify.com/album/3jLewI3rO5Vu4je8lZzh2P"
+      },
+      "artists": [
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4"
+        },
+        {
+          "name": "SampliFire",
+          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+        },
+        {
+          "name": "Z3LLA",
+          "url": "https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200571,
+      "name": "Heart On Fire",
+      "url": "https://open.spotify.com/track/71DcFIQWfKtNE4mr13dv7G"
+    },
+    {
+      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/5ZP5RXBdCFckiXwXN6tWp8"
       },

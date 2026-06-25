@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,296 likes - 44 songs - 2 hr 49 min
+[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,296 likes - 45 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,5 +52,6 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 | 42 | [JEAN SHORTS](https://open.spotify.com/track/3L2Na5XhAajI0KVaQp7qFu) | [Val Texas](https://open.spotify.com/artist/7spILdiaFh8D2O1yiGNGrA) | [DIRT](https://open.spotify.com/album/2y6jtOEkZXgrtbkvcXdfrG) | 2:41 |
 | 43 | [POPSTAR](https://open.spotify.com/track/5eKWnk0CuVzBoJNNMDRilZ) | [Snowflake Maker](https://open.spotify.com/artist/2sQohLh8eFMnXitpz2yoM5) | [POPSTAR](https://open.spotify.com/album/5k6yAsfYV423IPbGwG6BMn) | 2:56 |
 | 44 | [DOPAMINE DRESS](https://open.spotify.com/track/08iYmhYHH14MoD6RMrdwb0) | [Mira Rouge](https://open.spotify.com/artist/68s1cpHfNyQlaV0p2XCxia) | [DOPAMINE DRESS](https://open.spotify.com/album/3G2VsUkF9bUnZTNpD3W1ph) | 4:17 |
+| 45 | [Elysian Fields](https://open.spotify.com/track/5R2WeAM9axE8EMAMbPchzO) | [Stratafield](https://open.spotify.com/artist/1VuViStzi9Ag49k1Hxm9xA) | [Sympathetic Waveforms](https://open.spotify.com/album/5NH23YnT1jzDMkSC2b9AdK) | 4:51 |
 
-Snapshot ID: `AAAkR+NZDLO+H14jpXn5EcAeBaEpdBAA`
+Snapshot ID: `AAAkSAL3Eo8HfkHGEEnC5bS9DpirUwbr`

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 
 > Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: Pirlo
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,539 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,550 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [EL FICTICIO](https://open.spotify.com/track/7fqHCkfwrKu58t4JQSE0Kq) | [El Goldo](https://open.spotify.com/artist/2Uz6P0j7gDmtKVIFbPrOvt), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [EL FICTICIO](https://open.spotify.com/album/6K8JJwEpv8kXuLpjjSR0bK) | 6:15 |
+| 1 | [EL FICTICIO](https://open.spotify.com/track/7fqHCkfwrKu58t4JQSE0Kq) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [EL FICTICIO](https://open.spotify.com/album/6K8JJwEpv8kXuLpjjSR0bK) | 6:15 |
 | 2 | [GANAS REMIX](https://open.spotify.com/track/57vNJ68zPmGIkgiDreQv6S) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [GANAS REMIX](https://open.spotify.com/album/51ZB7xmzN8RVLJfCeXJmOH) | 5:26 |
 | 3 | [Livianito](https://open.spotify.com/track/4DANLftoIh2G6U2O3N3LFo) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Prodmonja](https://open.spotify.com/artist/1jO63kMnVlY5VxryDFQsTO) | [Livianito](https://open.spotify.com/album/4gbTB6sULTaiHobyBUEH33) | 2:56 |
 | 4 | [Las Muñequitas](https://open.spotify.com/track/4nJJCRYru4QQakCiUA155f) | [Mr Plata](https://open.spotify.com/artist/0UWiPOyp26dwNCEKRwo7qO), [El Americano 4KT](https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N) | [Las Muñequitas](https://open.spotify.com/album/7n15KecHJpMAvSLUpllKHu) | 3:13 |

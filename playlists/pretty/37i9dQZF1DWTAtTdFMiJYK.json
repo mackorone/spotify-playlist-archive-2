@@ -1,6 +1,6 @@
 {
   "description": "Most exciting artists from the Indian Indie scene. Cover: JBABE",
-  "num_followers": 193719,
+  "num_followers": 193754,
   "original_name": "RADAR India",
   "owner": {
     "name": "Spotify",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2026-06-19 05:52:28",
       "album": {
+        "name": "CIRCLES",
+        "url": "https://open.spotify.com/album/2D2JEphFbPsxbthC89eH1t"
+      },
+      "artists": [
+        {
+          "name": "Himonshu Parikh",
+          "url": "https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX"
+        }
+      ],
+      "duration_ms": 172352,
+      "name": "Dariya",
+      "url": "https://open.spotify.com/track/6Y9PQMcP2PwspzZvKbMG6w"
+    },
+    {
+      "added_at": "2026-06-19 05:52:28",
+      "album": {
         "name": "Saanware Aijaiyo",
         "url": "https://open.spotify.com/album/5k7KeArB1J9JPCRC12Xz7j"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 234713,
       "name": "Saanware Aijaiyo",
       "url": "https://open.spotify.com/track/2uDeh0ImYtWkYSPjrX77gb"
-    },
-    {
-      "added_at": "2026-06-19 05:52:28",
-      "album": {
-        "name": "CIRCLES",
-        "url": "https://open.spotify.com/album/2D2JEphFbPsxbthC89eH1t"
-      },
-      "artists": [
-        {
-          "name": "Himonshu Parikh",
-          "url": "https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX"
-        }
-      ],
-      "duration_ms": 172352,
-      "name": "Dariya",
-      "url": "https://open.spotify.com/track/6Y9PQMcP2PwspzZvKbMG6w"
     },
     {
       "added_at": "2026-06-19 05:52:28",

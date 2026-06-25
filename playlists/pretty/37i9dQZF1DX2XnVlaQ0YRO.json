@@ -1,6 +1,6 @@
 {
   "description": "chill christmas beats to keep you cozy and focused",
-  "num_followers": 22095,
+  "num_followers": 22094,
   "original_name": "lofi christmas study\ud83c\udf84\ud83d\udcda",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,22 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
+        "name": "Ding Dong",
+        "url": "https://open.spotify.com/album/07CMcqWZZJbiUNJ6HU6SXY"
+      },
+      "artists": [
+        {
+          "name": "Chillow Pillow",
+          "url": "https://open.spotify.com/artist/7C4rbCsfUBLM9oen3ZLdHp"
+        }
+      ],
+      "duration_ms": 126888,
+      "name": "Ding Dong",
+      "url": "https://open.spotify.com/track/18GnuKmxuA0baUvfyf1UrP"
+    },
+    {
+      "added_at": "2025-12-19 14:39:19",
+      "album": {
         "name": "Holiday Hustle",
         "url": "https://open.spotify.com/album/4nWDxRMiJuKx5BCsPFbK0S"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 231471,
       "name": "Slay Bells",
       "url": "https://open.spotify.com/track/3RSrEnMcJ48u9bQZi0TIoo"
-    },
-    {
-      "added_at": "2025-12-19 14:39:19",
-      "album": {
-        "name": "Ding Dong",
-        "url": "https://open.spotify.com/album/07CMcqWZZJbiUNJ6HU6SXY"
-      },
-      "artists": [
-        {
-          "name": "Chillow Pillow",
-          "url": "https://open.spotify.com/artist/7C4rbCsfUBLM9oen3ZLdHp"
-        }
-      ],
-      "duration_ms": 126888,
-      "name": "Ding Dong",
-      "url": "https://open.spotify.com/track/18GnuKmxuA0baUvfyf1UrP"
     },
     {
       "added_at": "2025-12-19 14:39:19",
@@ -339,22 +339,6 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
-        "name": "A Lofi Xmas",
-        "url": "https://open.spotify.com/album/2EGWnZJEuGx9pC7nUGRPjy"
-      },
-      "artists": [
-        {
-          "name": "SwuM",
-          "url": "https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m"
-        }
-      ],
-      "duration_ms": 109714,
-      "name": "Jinbells",
-      "url": "https://open.spotify.com/track/3V4TzkY3u1KVi6OgvUShrP"
-    },
-    {
-      "added_at": "2025-12-19 14:39:19",
-      "album": {
         "name": "Snow Fall",
         "url": "https://open.spotify.com/album/4BC8r8YSZfEw77vzyjQbwz"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 125869,
       "name": "Snow Fall",
       "url": "https://open.spotify.com/track/2QScw1XZ9UMw0HmmlyExBQ"
+    },
+    {
+      "added_at": "2025-12-19 14:39:19",
+      "album": {
+        "name": "A Lofi Xmas",
+        "url": "https://open.spotify.com/album/2EGWnZJEuGx9pC7nUGRPjy"
+      },
+      "artists": [
+        {
+          "name": "SwuM",
+          "url": "https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m"
+        }
+      ],
+      "duration_ms": 109714,
+      "name": "Jinbells",
+      "url": "https://open.spotify.com/track/3V4TzkY3u1KVi6OgvUShrP"
     },
     {
       "added_at": "2025-12-19 14:39:19",
@@ -387,22 +387,6 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
-        "name": "Beats & Baubles",
-        "url": "https://open.spotify.com/album/32Jogj0yxkutOXSmLnOuJ1"
-      },
-      "artists": [
-        {
-          "name": "MPC Blues",
-          "url": "https://open.spotify.com/artist/6yB7F6p4mdln4jB2PLpOeF"
-        }
-      ],
-      "duration_ms": 108387,
-      "name": "Beats & Baubles",
-      "url": "https://open.spotify.com/track/1nJiaOfFOxhM2zPupNQaoh"
-    },
-    {
-      "added_at": "2025-12-19 14:39:19",
-      "album": {
         "name": "Angels From the Realms of Glory",
         "url": "https://open.spotify.com/album/1fPgTkdFB9Hx3KlO6YcgXu"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 133500,
       "name": "Angels From the Realms of Glory",
       "url": "https://open.spotify.com/track/4mzy2PQeLfXanVsrnvjBoC"
+    },
+    {
+      "added_at": "2025-12-19 14:39:19",
+      "album": {
+        "name": "Beats & Baubles",
+        "url": "https://open.spotify.com/album/32Jogj0yxkutOXSmLnOuJ1"
+      },
+      "artists": [
+        {
+          "name": "MPC Blues",
+          "url": "https://open.spotify.com/artist/6yB7F6p4mdln4jB2PLpOeF"
+        }
+      ],
+      "duration_ms": 108387,
+      "name": "Beats & Baubles",
+      "url": "https://open.spotify.com/track/1nJiaOfFOxhM2zPupNQaoh"
     },
     {
       "added_at": "2025-12-19 14:39:19",
@@ -647,22 +647,6 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
-        "name": "Cozy Little Christmas",
-        "url": "https://open.spotify.com/album/4ZRFYQV3j28iB41F6IHVmp"
-      },
-      "artists": [
-        {
-          "name": "Little Smokey",
-          "url": "https://open.spotify.com/artist/5dsmlVS4HsQ44fEGCmARw4"
-        }
-      ],
-      "duration_ms": 143647,
-      "name": "Do They Know It's Christmas",
-      "url": "https://open.spotify.com/track/3BQXFIUb8nJmY9xGqz4iId"
-    },
-    {
-      "added_at": "2025-12-19 14:39:19",
-      "album": {
         "name": "Jingle Jungle",
         "url": "https://open.spotify.com/album/158trcJoW64TEmf7DbAxGE"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 140571,
       "name": "Jingle Jungle",
       "url": "https://open.spotify.com/track/19FDpk9KZ09t6FtlvWhr2A"
+    },
+    {
+      "added_at": "2025-12-19 14:39:19",
+      "album": {
+        "name": "Cozy Little Christmas",
+        "url": "https://open.spotify.com/album/4ZRFYQV3j28iB41F6IHVmp"
+      },
+      "artists": [
+        {
+          "name": "Little Smokey",
+          "url": "https://open.spotify.com/artist/5dsmlVS4HsQ44fEGCmARw4"
+        }
+      ],
+      "duration_ms": 143647,
+      "name": "Do They Know It's Christmas",
+      "url": "https://open.spotify.com/track/3BQXFIUb8nJmY9xGqz4iId"
     },
     {
       "added_at": "2025-12-19 14:39:19",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
-        "name": "Hark! The Herald Angels Sing",
-        "url": "https://open.spotify.com/album/2JO5EUMtP6BxGAHr3dyETU"
-      },
-      "artists": [
-        {
-          "name": "louke's beats",
-          "url": "https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E"
-        }
-      ],
-      "duration_ms": 117041,
-      "name": "O Little Town Of Bethlehem",
-      "url": "https://open.spotify.com/track/4JwbRapYxPE883XUslPwIS"
-    },
-    {
-      "added_at": "2025-12-19 14:39:19",
-      "album": {
         "name": "Joyeux No\u00ebl Mes Amis",
         "url": "https://open.spotify.com/album/0pUlrSrq6gcPR6tCZGApMN"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 158070,
       "name": "Joyeux No\u00ebl Mes Amis",
       "url": "https://open.spotify.com/track/496qR8QAdvGMokE5g06cu6"
+    },
+    {
+      "added_at": "2025-12-19 14:39:19",
+      "album": {
+        "name": "Hark! The Herald Angels Sing",
+        "url": "https://open.spotify.com/album/2JO5EUMtP6BxGAHr3dyETU"
+      },
+      "artists": [
+        {
+          "name": "louke's beats",
+          "url": "https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E"
+        }
+      ],
+      "duration_ms": 117041,
+      "name": "O Little Town Of Bethlehem",
+      "url": "https://open.spotify.com/track/4JwbRapYxPE883XUslPwIS"
     },
     {
       "added_at": "2025-12-19 14:39:19",
@@ -839,22 +839,6 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
-        "name": "From all of us",
-        "url": "https://open.spotify.com/album/4PBH9L1AHEX0aH4lMCKz10"
-      },
-      "artists": [
-        {
-          "name": "Krims Krams",
-          "url": "https://open.spotify.com/artist/2h9Xl98MO21fGnWbheeKuu"
-        }
-      ],
-      "duration_ms": 131233,
-      "name": "From all of us",
-      "url": "https://open.spotify.com/track/6zTvl1rhTJ9EonFzDdbXGm"
-    },
-    {
-      "added_at": "2025-12-19 14:39:19",
-      "album": {
         "name": "El Tamborillero",
         "url": "https://open.spotify.com/album/3BFtMfVWEq5rdN2GUIPGEu"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 166125,
       "name": "El Tamborillero",
       "url": "https://open.spotify.com/track/5FhKEzzYnquRmc6yoMfZLq"
+    },
+    {
+      "added_at": "2025-12-19 14:39:19",
+      "album": {
+        "name": "From all of us",
+        "url": "https://open.spotify.com/album/4PBH9L1AHEX0aH4lMCKz10"
+      },
+      "artists": [
+        {
+          "name": "Krims Krams",
+          "url": "https://open.spotify.com/artist/2h9Xl98MO21fGnWbheeKuu"
+        }
+      ],
+      "duration_ms": 131233,
+      "name": "From all of us",
+      "url": "https://open.spotify.com/track/6zTvl1rhTJ9EonFzDdbXGm"
     },
     {
       "added_at": "2025-12-19 14:39:19",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
-        "name": "Santa Baby",
-        "url": "https://open.spotify.com/album/5ZnyA6A9KQ6TQMPleWR4i6"
-      },
-      "artists": [
-        {
-          "name": "Holiday Beats",
-          "url": "https://open.spotify.com/artist/2UtVsWvYK223O6g10t5zM3"
-        }
-      ],
-      "duration_ms": 146224,
-      "name": "Santa Baby",
-      "url": "https://open.spotify.com/track/4uakClJG3d1mGaZSPHvR2e"
-    },
-    {
-      "added_at": "2025-12-19 14:39:19",
-      "album": {
         "name": "Santa Claus Is Coming To Town",
         "url": "https://open.spotify.com/album/0tM8zlJ2jEL7AcwmPltjEW"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 117817,
       "name": "Santa Claus Is Coming To Town",
       "url": "https://open.spotify.com/track/1jYPxZRtTjBkzONbXSDcth"
+    },
+    {
+      "added_at": "2025-12-19 14:39:19",
+      "album": {
+        "name": "Santa Baby",
+        "url": "https://open.spotify.com/album/5ZnyA6A9KQ6TQMPleWR4i6"
+      },
+      "artists": [
+        {
+          "name": "Holiday Beats",
+          "url": "https://open.spotify.com/artist/2UtVsWvYK223O6g10t5zM3"
+        }
+      ],
+      "duration_ms": 146224,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/4uakClJG3d1mGaZSPHvR2e"
     },
     {
       "added_at": "2025-12-19 14:39:19",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
-        "name": "Portal De Belen",
-        "url": "https://open.spotify.com/album/7ojC4Ip648NdAe046Exggh"
-      },
-      "artists": [
-        {
-          "name": "Antiguos Hop",
-          "url": "https://open.spotify.com/artist/6FmavXbmV5c0c7cg1vgjjZ"
-        }
-      ],
-      "duration_ms": 161600,
-      "name": "Portal De Belen",
-      "url": "https://open.spotify.com/track/2BeiJVc1bT0Tox1CXDRLn3"
-    },
-    {
-      "added_at": "2025-12-19 14:39:19",
-      "album": {
         "name": "Feliz Navidad",
         "url": "https://open.spotify.com/album/2Ph3ugY0LJ4sxNxGdRj6Wv"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 165721,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/3AKZXmdLhHTdCj6SoHfqB1"
+    },
+    {
+      "added_at": "2025-12-19 14:39:19",
+      "album": {
+        "name": "Portal De Belen",
+        "url": "https://open.spotify.com/album/7ojC4Ip648NdAe046Exggh"
+      },
+      "artists": [
+        {
+          "name": "Antiguos Hop",
+          "url": "https://open.spotify.com/artist/6FmavXbmV5c0c7cg1vgjjZ"
+        }
+      ],
+      "duration_ms": 161600,
+      "name": "Portal De Belen",
+      "url": "https://open.spotify.com/track/2BeiJVc1bT0Tox1CXDRLn3"
     },
     {
       "added_at": "2025-12-19 14:39:19",
@@ -1391,38 +1391,6 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
-        "name": "Blanca Navidad",
-        "url": "https://open.spotify.com/album/00v4fmoJekO4cfz7PxfOgu"
-      },
-      "artists": [
-        {
-          "name": "Moon Portal",
-          "url": "https://open.spotify.com/artist/5LfDgl8lMSLTkDdPxR2Eeo"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Blanca Navidad",
-      "url": "https://open.spotify.com/track/559cbvnNsfuT55dLmPDFSF"
-    },
-    {
-      "added_at": "2025-12-19 14:39:19",
-      "album": {
-        "name": "O holy night",
-        "url": "https://open.spotify.com/album/0hu4PmlNHihz3OENWgTLM5"
-      },
-      "artists": [
-        {
-          "name": "muni.",
-          "url": "https://open.spotify.com/artist/0rCtkH6uwwmKN8XotEwo5u"
-        }
-      ],
-      "duration_ms": 147677,
-      "name": "O holy night",
-      "url": "https://open.spotify.com/track/1Iub3TbupI5hH7fduTVjVO"
-    },
-    {
-      "added_at": "2025-12-19 14:39:19",
-      "album": {
         "name": "All I Want For Xmas",
         "url": "https://open.spotify.com/album/3xfPG2t5bJciY2ypx2NbzE"
       },
@@ -1435,6 +1403,22 @@
       "duration_ms": 138042,
       "name": "All I Want For Xmas",
       "url": "https://open.spotify.com/track/3VZQzdqncXBLpMNDyLSI5o"
+    },
+    {
+      "added_at": "2025-12-19 14:39:19",
+      "album": {
+        "name": "Blanca Navidad",
+        "url": "https://open.spotify.com/album/00v4fmoJekO4cfz7PxfOgu"
+      },
+      "artists": [
+        {
+          "name": "Moon Portal",
+          "url": "https://open.spotify.com/artist/5LfDgl8lMSLTkDdPxR2Eeo"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Blanca Navidad",
+      "url": "https://open.spotify.com/track/559cbvnNsfuT55dLmPDFSF"
     },
     {
       "added_at": "2025-12-19 14:39:19",
@@ -1455,18 +1439,18 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
-        "name": "Have Yourself a Merry Little Christmas",
-        "url": "https://open.spotify.com/album/2ZapRS1wnlMvMDmOIRjWkr"
+        "name": "O holy night",
+        "url": "https://open.spotify.com/album/0hu4PmlNHihz3OENWgTLM5"
       },
       "artists": [
         {
-          "name": "Harry G's Beats",
-          "url": "https://open.spotify.com/artist/59fTGxMpUBkID2RojOnA8V"
+          "name": "muni.",
+          "url": "https://open.spotify.com/artist/0rCtkH6uwwmKN8XotEwo5u"
         }
       ],
-      "duration_ms": 159833,
-      "name": "Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/5kdsHsHLsanmsItkkpWFo2"
+      "duration_ms": 147677,
+      "name": "O holy night",
+      "url": "https://open.spotify.com/track/1Iub3TbupI5hH7fduTVjVO"
     },
     {
       "added_at": "2025-12-19 14:39:19",
@@ -1487,6 +1471,22 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
+        "name": "Have Yourself a Merry Little Christmas",
+        "url": "https://open.spotify.com/album/2ZapRS1wnlMvMDmOIRjWkr"
+      },
+      "artists": [
+        {
+          "name": "Harry G's Beats",
+          "url": "https://open.spotify.com/artist/59fTGxMpUBkID2RojOnA8V"
+        }
+      ],
+      "duration_ms": 159833,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/5kdsHsHLsanmsItkkpWFo2"
+    },
+    {
+      "added_at": "2025-12-19 14:39:19",
+      "album": {
         "name": "The Night Before",
         "url": "https://open.spotify.com/album/1yITIVwWWZxjIXufJ6Vxkp"
       },
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
-        "name": "Frosty the Snowman",
-        "url": "https://open.spotify.com/album/0JrWSrhT5EgEQUWD5jxOXj"
-      },
-      "artists": [
-        {
-          "name": "Ginobu",
-          "url": "https://open.spotify.com/artist/6f47lU5rm4LSTUVvpl9Fc6"
-        }
-      ],
-      "duration_ms": 167926,
-      "name": "Frosty the Snowman",
-      "url": "https://open.spotify.com/track/1X9UR1fhvcAFDIpZPlJqxH"
-    },
-    {
-      "added_at": "2025-12-19 14:39:19",
-      "album": {
         "name": "JOY",
         "url": "https://open.spotify.com/album/33Me4g9n924cJ6ezfiOAXg"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 189196,
       "name": "JOY",
       "url": "https://open.spotify.com/track/4PU3g1wGXO9hcLRGuSdP9C"
+    },
+    {
+      "added_at": "2025-12-19 14:39:19",
+      "album": {
+        "name": "Frosty the Snowman",
+        "url": "https://open.spotify.com/album/0JrWSrhT5EgEQUWD5jxOXj"
+      },
+      "artists": [
+        {
+          "name": "Ginobu",
+          "url": "https://open.spotify.com/artist/6f47lU5rm4LSTUVvpl9Fc6"
+        }
+      ],
+      "duration_ms": 167926,
+      "name": "Frosty the Snowman",
+      "url": "https://open.spotify.com/track/1X9UR1fhvcAFDIpZPlJqxH"
     },
     {
       "added_at": "2025-12-19 14:39:19",

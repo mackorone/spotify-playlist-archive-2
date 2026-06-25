@@ -9699,6 +9699,24 @@
     },
     {
       "album": {
+        "name": "Deixo",
+        "url": "https://open.spotify.com/album/6yOKyXzB6Qz8oxeyK5RZ8K"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Foguete",
+          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195365,
+      "name": "Deixo",
+      "url": "https://open.spotify.com/track/5kMu03BQiBZwg2urpihT9H"
+    },
+    {
+      "album": {
         "name": "DEJA VU",
         "url": "https://open.spotify.com/album/0aN9m8iDUE1Khh5qL6Aj4q"
       },
@@ -12658,7 +12676,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 157358,
       "name": "Errado o Triplo (\u00d4h Perigo) - Ao Vivo",
       "url": "https://open.spotify.com/track/4TvVqX9HOMTvDJXYHxHbq7"
@@ -17860,7 +17878,7 @@
       ],
       "date_added": "2025-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-17",
+      "date_removed": null,
       "duration_ms": 179504,
       "name": "Ilus\u00e3o De \u00d3tica - Ao Vivo",
       "url": "https://open.spotify.com/track/44CTudFZ0kbaIF9n0jk7oU"
@@ -36104,7 +36122,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 231057,
       "name": "TADINHA",
       "url": "https://open.spotify.com/track/0K7qMa0JqOIETkWmQXmQvw"
@@ -36996,7 +37014,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 129515,
       "name": "Texana 37",
       "url": "https://open.spotify.com/track/72KzypkTLmEyOz3xWuAurD"
@@ -41216,7 +41234,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-24",
+      "date_removed": null,
       "duration_ms": 162858,
       "name": "Volt\u00e1vel",
       "url": "https://open.spotify.com/track/6Yf90AbdxoSL16346QKLzT"

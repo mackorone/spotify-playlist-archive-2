@@ -1,6 +1,6 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 49994,
+  "num_followers": 49997,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-04-20 02:30:13",
       "album": {
-        "name": "Fermata",
-        "url": "https://open.spotify.com/album/3v1d74UUOHYRVZV01vvuhX"
-      },
-      "artists": [
-        {
-          "name": "YOUNGJAE",
-          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
-        }
-      ],
-      "duration_ms": 187026,
-      "name": "Escape to Me",
-      "url": "https://open.spotify.com/track/4TpP0C0g138XLBytuduE0m"
-    },
-    {
-      "added_at": "2026-04-20 02:30:13",
-      "album": {
         "name": "BLOSSOM - THE 3RD MINI ALBUM",
         "url": "https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 256226,
       "name": "Bird On The Edge",
       "url": "https://open.spotify.com/track/53T5mZuqAjvm0pinUfwIXr"
+    },
+    {
+      "added_at": "2026-04-20 02:30:13",
+      "album": {
+        "name": "Fermata",
+        "url": "https://open.spotify.com/album/3v1d74UUOHYRVZV01vvuhX"
+      },
+      "artists": [
+        {
+          "name": "YOUNGJAE",
+          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
+        }
+      ],
+      "duration_ms": 187026,
+      "name": "Escape to Me",
+      "url": "https://open.spotify.com/track/4TpP0C0g138XLBytuduE0m"
     },
     {
       "added_at": "2026-04-20 02:30:13",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-04-20 02:30:13",
       "album": {
-        "name": "Resident Playbook, Pt. 3 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0wJhsu9q7b7hot5Zlu2mU6"
-      },
-      "artists": [
-        {
-          "name": "WINTER",
-          "url": "https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI"
-        }
-      ],
-      "duration_ms": 219991,
-      "name": "On Such a Day",
-      "url": "https://open.spotify.com/track/59RLYQQ8v9PItVwFf1qNhx"
-    },
-    {
-      "added_at": "2026-04-20 02:30:13",
-      "album": {
         "name": "Resident Playbook (Original Soundtrack)",
         "url": "https://open.spotify.com/album/7scrnEA8acHOJr2BhWwKgb"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 241676,
       "name": "Slow",
       "url": "https://open.spotify.com/track/3bHE2Q0boauLBF8iJLUIga"
+    },
+    {
+      "added_at": "2026-04-20 02:30:13",
+      "album": {
+        "name": "Resident Playbook, Pt. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0wJhsu9q7b7hot5Zlu2mU6"
+      },
+      "artists": [
+        {
+          "name": "WINTER",
+          "url": "https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI"
+        }
+      ],
+      "duration_ms": 219991,
+      "name": "On Such a Day",
+      "url": "https://open.spotify.com/track/59RLYQQ8v9PItVwFf1qNhx"
     },
     {
       "added_at": "2026-04-20 02:30:13",

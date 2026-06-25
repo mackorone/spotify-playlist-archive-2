@@ -290,7 +290,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-26",
+      "date_removed": null,
       "duration_ms": 940000,
       "name": "New (Part 1)",
       "url": "https://open.spotify.com/track/4xPbiTndGD1qA52NsXSova"
@@ -384,6 +384,24 @@
       "duration_ms": 232000,
       "name": "Silken Pt. 2.1",
       "url": "https://open.spotify.com/track/72xpnBpM8UEJtCAiURvM3R"
+    },
+    {
+      "album": {
+        "name": "Sing To",
+        "url": "https://open.spotify.com/album/0Mk8L0gOTZ0h880gaG43M4"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209014,
+      "name": "Sing To",
+      "url": "https://open.spotify.com/track/5X6zwyutwK7uSj0uFOSpad"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Rock](https://open.spotify.com/playlist/37i9dQZF1DX78toxP7mOaJ)
 
-> Fresh rock & alternative from independent artists every Wednesday\. Cover: LEMONSUCKR
+> Fresh rock & alternative from independent artists every Wednesday\. Cover: Clutter
 
-2,354 songs - 5 day 10 hr 18 min
+2,358 songs - 5 day 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Been Better](https://open.spotify.com/track/6Q959ampDmPu40NTGLC02p) | [Coal Bed](https://open.spotify.com/artist/2rEzca2bMYnIxSyQQRvT3D) | [Been Better](https://open.spotify.com/album/1GyCWCRk6Gq06dQlPJ2J9E) | 2:17 | 2023-08-23 | 2023-11-09 |
 | [Been Better](https://open.spotify.com/track/3g0QrOr4LLK5b5P41AN3oF) | [Coal Bed](https://open.spotify.com/artist/2rEzca2bMYnIxSyQQRvT3D) | [Ripper](https://open.spotify.com/album/4e8elqKsPLNmsEcgdvASWo) | 2:18 | 2024-11-06 | 2025-01-30 |
 | [Been Down](https://open.spotify.com/track/3w8MVdGpbdt1H7M4CwhpHc) | [Glimmer](https://open.spotify.com/artist/4ldTJbQ7TIIjZYgUtH5RwT) | [Been Down](https://open.spotify.com/album/7dHk76xf4JuMH9Ssc6WdGB) | 3:46 | 2025-09-24 | 2025-12-04 |
+| [Before You Disappear](https://open.spotify.com/track/495cjydvmEw3WdH4K8LJJz) | [Ruben Gerritz](https://open.spotify.com/artist/4IXnbn0VJQ42ybbNRa4MB0) | [Before You Disappear](https://open.spotify.com/album/0gPgCrgYK8KeTPogzoccHA) | 3:18 | 2026-06-24 |  |
 | [Beheadal](https://open.spotify.com/track/5bUoBZ7LG0A2L9FOsTDjBe) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [Beheadal](https://open.spotify.com/album/0q4DKYyoEF0mFREOkPsmbt) | 1:58 | 2025-03-05 | 2025-04-24 |
 | [Beheadal](https://open.spotify.com/track/5qUkm87o2Zq1YrcbH53cPu) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [Birds/Beheadal](https://open.spotify.com/album/3i1KhL1YqE9ShgCXUldXis) | 1:58 | 2025-12-03 | 2026-01-15 |
 | [Behind](https://open.spotify.com/track/10Nqct5hSsnxwDDvWac80W) | [Kills Birds](https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN) | [Behind](https://open.spotify.com/album/5B4JT2tLSPGc5eZOlRYSLJ) | 3:26 | 2025-04-16 | 2025-07-03 |
@@ -870,6 +871,7 @@
 | [Gonna Get Better](https://open.spotify.com/track/3lnKBvycf8vphhmpvhruNI) | [Uninvited](https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn) | [Gonna Get Better](https://open.spotify.com/album/7xla3BNE9X4zRZfu0iwezN) | 3:15 | 2023-08-16 | 2023-11-30 |
 | [Good Days](https://open.spotify.com/track/2a9LvqDQdgKDDTCmvTIzjU) | [Grace Inspace](https://open.spotify.com/artist/50QEqqsedL6N3W0ICmLhYT) | [Good Days](https://open.spotify.com/album/2G9BAip6sHvwM45Av8H7lJ) | 2:38 | 2023-02-01 | 2023-03-16 |
 | [Good Enough](https://open.spotify.com/track/21X6AYT2I5MVgPpIwuRndm) | [Reece Young](https://open.spotify.com/artist/1bdqTbBpPy0SGAmxYun3Hh) | [Good Enough](https://open.spotify.com/album/3SvGJHhTo9tXFQ5q0ZOKZE) | 2:43 | 2022-11-09 | 2022-12-01 |
+| [Good Enough](https://open.spotify.com/track/1B1By24uRkI2EH3UNrcBK8) | [Ultra Lights](https://open.spotify.com/artist/6T7xnpZAOPf4XwrYZclzTA) | [Good Enough](https://open.spotify.com/album/1V3sZlCa2uP1npYlh83fLJ) | 2:07 | 2026-06-24 |  |
 | [good for it](https://open.spotify.com/track/3UNj7YUdaSXpjIlr4pGm39) | [memorydrip](https://open.spotify.com/artist/1TcKeJsMqedlyp4nmTmx97) | [good for it](https://open.spotify.com/album/7BsqmaZc6azowvGmQXmkSX) | 4:03 | 2023-03-22 | 2023-05-04 |
 | [Good Kids](https://open.spotify.com/track/5f3R3mVywPhyr4eQNmSSbX) | [Feldspar](https://open.spotify.com/artist/6TJp0yKY5iT6MjAAL30Q12) | [Good Kids](https://open.spotify.com/album/7xH9bFRx44Z8tNdh6ecwsi) | 3:04 | 2026-05-20 |  |
 | [good riddance & goodbye](https://open.spotify.com/track/50Af3Dxae9FsEuyDEyRHKb) | [NOAH WEILAND](https://open.spotify.com/artist/0jP1qUWSe4EElV6GaKCuW1), [Slayloverboy](https://open.spotify.com/artist/03v1lj3scVQgZT2j60MtKN) | [good riddance & goodbye](https://open.spotify.com/album/3DYvGg6UYOd2jXGiIRquWO) | 3:12 | 2023-02-01 | 2023-03-02 |
@@ -1569,7 +1571,7 @@
 | [Passing](https://open.spotify.com/track/6xWBnKAcKAM7HJ2hw6GGYM) | [Career Woman](https://open.spotify.com/artist/17RK5BpOKQ4YVtCHFWKK3y) | [Passing](https://open.spotify.com/album/7mhfR2VLl5BcrIVxbNuSV2) | 1:53 | 2023-08-30 | 2024-03-07 |
 | [Patch](https://open.spotify.com/track/1WaKD5cNCYS7EgcJETMh2g) | [Valley Palace](https://open.spotify.com/artist/3jF2ypAAgPGDrMya2J4sHM) | [Patch](https://open.spotify.com/album/5B1s097zdY8QcrjD8CwImJ) | 3:39 | 2021-12-01 | 2022-02-17 |
 | [Pay the Price](https://open.spotify.com/track/2nHMLYKRSpRlVPR75PNZUc) | [Glowing](https://open.spotify.com/artist/0bqQxnj2ZL4M2dZahKDZFm) | [Pay the Price](https://open.spotify.com/album/3Fm8Xv3BLPJ9OgCTwX3kT4) | 3:36 | 2023-02-15 | 2023-05-04 |
-| [pe$o$](https://open.spotify.com/track/78WEkdHuwNV47RJZ3ezgeH) | [Evan Fong](https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP) | [speed](https://open.spotify.com/album/4D2i96fOirLLCHYAbf8lA0) | 2:18 | 2026-05-06 |  |
+| [pe$o$](https://open.spotify.com/track/78WEkdHuwNV47RJZ3ezgeH) | [Evan Fong](https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP) | [speed](https://open.spotify.com/album/4D2i96fOirLLCHYAbf8lA0) | 2:18 | 2026-05-06 | 2026-06-25 |
 | [Peach](https://open.spotify.com/track/3HHcTqXCKDuUYTCH7ue9K8) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [Peach](https://open.spotify.com/album/6A6oDzTGOLntd7edj7Cwv0) | 3:29 | 2022-08-24 | 2023-01-12 |
 | [peaches](https://open.spotify.com/track/3IpgsVCeB1C8aNNUslVo0o) | [Total Wife](https://open.spotify.com/artist/1JQhIj3MeXcTYorKsa5SBz) | [come back down](https://open.spotify.com/album/4a0wDl4zpCX10gWbsB9VuJ) | 2:44 | 2025-12-03 | 2026-02-19 |
 | [peaches](https://open.spotify.com/track/4tcdP94DVfoNctCdz8aozT) | [Total Wife](https://open.spotify.com/artist/1JQhIj3MeXcTYorKsa5SBz) | [peaches](https://open.spotify.com/album/2C3jHv6MTDtWGx2J1hygRH) | 2:44 | 2025-09-10 | 2025-10-09 |
@@ -1677,7 +1679,7 @@
 | [Real Life](https://open.spotify.com/track/2fgZPk5SaFk2D28uHJOYx0) | [Holdfast.](https://open.spotify.com/artist/2Swe1eLITXtY5b0xOx8AE8) | [Real Life](https://open.spotify.com/album/2roed6azw0vPdq8wNLApNr) | 3:53 | 2023-06-21 | 2024-01-11 |
 | [REAL LOVE IS FOREVER](https://open.spotify.com/track/5zIgpbN65gUnQ10huitXmi) | [hotjohnmichael](https://open.spotify.com/artist/0dLcRSFtKULuHblq7wsPaR) | [REAL LOVE IS FOREVER](https://open.spotify.com/album/2zMUXFVMltkRSS3RcXr6Qa) | 2:33 | 2022-05-25 | 2022-06-16 |
 | [Real Power](https://open.spotify.com/track/5njyGv6YdkdsJvPOxthQ9p) | [Golomb](https://open.spotify.com/artist/4oEYPeWBiiKJ2kCTKurrRu) | [Real Power](https://open.spotify.com/album/6Lwpuwb1T7VJPdUDHarm7K) | 3:00 | 2025-05-21 | 2025-08-14 |
-| [Real Tree Lee](https://open.spotify.com/track/1MCsJBk8H4ku4v6PNqi0P4) | [Adult DVD](https://open.spotify.com/artist/1lT3vDbjqz299SxePec6ZG) | [Real Tree Lee](https://open.spotify.com/album/5L8sqPbuLeUlhib296q7KU) | 3:45 | 2026-01-21 |  |
+| [Real Tree Lee](https://open.spotify.com/track/1MCsJBk8H4ku4v6PNqi0P4) | [Adult DVD](https://open.spotify.com/artist/1lT3vDbjqz299SxePec6ZG) | [Real Tree Lee](https://open.spotify.com/album/5L8sqPbuLeUlhib296q7KU) | 3:45 | 2026-01-21 | 2026-06-25 |
 | [Really Big Shrimp](https://open.spotify.com/track/4keBrel4hcVl8BhPYIIih2) | [Carly Cosgrove](https://open.spotify.com/artist/4h3DxZa1JxZhSB1a64ziKx) | [Really Big Shrimp](https://open.spotify.com/album/1geczTpVEMH5Un9wxMRusf) | 4:23 | 2022-02-02 | 2022-05-05 |
 | [Really Big Shrimp](https://open.spotify.com/track/7I8HTkZlxAebopq8TuQrj2) | [Carly Cosgrove](https://open.spotify.com/artist/4h3DxZa1JxZhSB1a64ziKx) | [See You in Chemistry](https://open.spotify.com/album/6UOPV8qxODA82L1pZAiNd1) | 4:23 | 2022-11-30 | 2023-01-12 |
 | [Really Good Song](https://open.spotify.com/track/5nOozr21hsA3CbBHiQc5d4) | [Really Good Time](https://open.spotify.com/artist/69sUrcdEMJrukvF581bshp) | [Really Good Song](https://open.spotify.com/album/7iekAKB1B1FlSLbTAU1SaH) | 2:57 | 2022-11-09 | 2022-12-01 |
@@ -1697,7 +1699,7 @@
 | [resala \- رسالة](https://open.spotify.com/track/4B38V5n35Ec7plhSSCVkNc) | [nabeel \- نبيل](https://open.spotify.com/artist/2utvoANtAeOGBklKqppZIl) | [ghayoom \- غيوم](https://open.spotify.com/album/0xc4FJJ3z20TeCEaFuAG5x) | 3:33 | 2025-12-03 | 2026-02-05 |
 | [Reseda](https://open.spotify.com/track/07mSJaOA01ZiH1ehxMpn5Y) | [Nara's Room](https://open.spotify.com/artist/3HZtXP2NFVOKB6aNLCmpwW) | [Tearless, thoughtless](https://open.spotify.com/album/3yqu4W7W0dsC0eACjsDQPb) | 3:08 | 2026-05-20 |  |
 | [Restless](https://open.spotify.com/track/1QMH8fWSJiEnLQhNegTjxK) | [Late November](https://open.spotify.com/artist/5AgraKGOClXr2594sW7Am1) | [Restless](https://open.spotify.com/album/7Hxsh2UCcFuLIsBkKS6ty1) | 4:26 | 2023-07-12 | 2023-10-19 |
-| [Return To Sender](https://open.spotify.com/track/3oVKmjGaOuqGwwLubWGv3o) | [MX LONELY](https://open.spotify.com/artist/7JrQ7OeohqbGyqXwuLLEpW) | [Return To Sender](https://open.spotify.com/album/32h0kqaH1LeNVKEZnHsi7b) | 4:40 | 2026-01-14 |  |
+| [Return To Sender](https://open.spotify.com/track/3oVKmjGaOuqGwwLubWGv3o) | [MX LONELY](https://open.spotify.com/artist/7JrQ7OeohqbGyqXwuLLEpW) | [Return To Sender](https://open.spotify.com/album/32h0kqaH1LeNVKEZnHsi7b) | 4:40 | 2026-01-14 | 2026-06-25 |
 | [Revenge Dress](https://open.spotify.com/track/7w3lHpePhApQkuTcFceZHb) | [Family Dinner](https://open.spotify.com/artist/7ztPkxDDDYp27ssoOB9sEj) | [Revenge Dress](https://open.spotify.com/album/4RlIYgXS8Jlr801Ry10QHR) | 2:46 | 2023-04-26 | 2023-06-15 |
 | [Rhythm](https://open.spotify.com/track/1IrFThsLj5TDaPAxILkSNC) | [roman around](https://open.spotify.com/artist/18pfB891JbZKKn0bCueMvY) | [Rhythm](https://open.spotify.com/album/5E28tN4cwIgmLR9hUBVrdz) | 4:03 | 2022-06-29 | 2022-09-01 |
 | [Ribbons](https://open.spotify.com/track/3V27RRDIZ9LokW2aN9yG3i) | [My Transparent Eye](https://open.spotify.com/artist/6D9BQI3d6y8lOkC6EB7lkU) | [Ribbons](https://open.spotify.com/album/2ghx4eCfzYwbWZGj8gvsIw) | 3:55 | 2025-08-13 | 2025-12-04 |
@@ -1811,6 +1813,7 @@
 | [Shotgun](https://open.spotify.com/track/4RNccsYqMiqXir1kYRG0aE) | [Roxx Revolt & the Velvets](https://open.spotify.com/artist/1vvhlAM0vArjzzWYdCQ3Yt) | [Shotgun](https://open.spotify.com/album/6epxGNdGTHMF9lJPULTyfa) | 3:02 | 2023-01-18 | 2023-03-16 |
 | [Shotgun](https://open.spotify.com/track/4fW6kK0t8Pv7gkbNjUWH9I) | [Theo Moss](https://open.spotify.com/artist/0ETuekbiB4yJVpe2fAMiNP) | [Shotgun](https://open.spotify.com/album/7BCaDRAXBVRUwhcVsuJ5Pu) | 2:48 | 2025-02-05 | 2025-04-03 |
 | [Shrug](https://open.spotify.com/track/2BYqJBHBGQ9XQsCWbvEdJh) | [Rat Tally](https://open.spotify.com/artist/7kLaLiBdbGiIC6jYwcpZbb) | [Shrug](https://open.spotify.com/album/1seU3PoAcT4U4BP2T6AKQJ) | 2:31 | 2021-12-01 | 2022-01-20 |
+| [Sick Bag](https://open.spotify.com/track/4EhTfbD88QfrgG8GghJn7v) | [Body Type](https://open.spotify.com/artist/2gOqvEhTe5TjetSBfivC4D) | [Sick Bag](https://open.spotify.com/album/44zdzCGgWAx69IQhUjvNMx) | 2:58 | 2026-06-24 |  |
 | [Sick Little Star](https://open.spotify.com/track/1uWpK1MUeMEKA77lyZM4tG) | [Noelle Sucks](https://open.spotify.com/artist/2kj9J1mkap7VGmtgqJi5yB) | [Sick Little Star](https://open.spotify.com/album/3umP8vNIgKsUniEkFb2At8) | 3:01 | 2025-08-06 | 2026-01-15 |
 | [Sidestep](https://open.spotify.com/track/2DKlZoozJDcMUMhZd6wB2J) | [World News](https://open.spotify.com/artist/3VQXCMRCSzdKek71OkAL3Q) | [Sidestep](https://open.spotify.com/album/3CYDOCmr3EZ89osXV0St45) | 5:56 | 2026-04-15 |  |
 | [signal](https://open.spotify.com/track/7onK8D6ETbJlBRbJ886Gpe) | [Scout Gillett](https://open.spotify.com/artist/705dFUqTFi2Gg8B4fZqBLl) | [signal](https://open.spotify.com/album/3DN6oFwdOKixXtWqUltkdF) | 2:36 | 2022-07-27 | 2022-09-15 |
@@ -2313,7 +2316,7 @@
 | [Wonder How](https://open.spotify.com/track/7rhqGznU9Ej1BGn8Bcfwp9) | [Pleasure Pill](https://open.spotify.com/artist/4xCsBqQhsFzLIuuJNkoxB8) | [Wonder How](https://open.spotify.com/album/44YqBozjlU2RH2CWGMSRbL) | 3:08 | 2023-08-30 | 2023-11-30 |
 | [words that kill](https://open.spotify.com/track/5gTBayswQYYDyaMBuTUBsN) | [Ty Lorenzo](https://open.spotify.com/artist/7t2jE1JsESHGwePprtdCLI) | [words that kill](https://open.spotify.com/album/2uv5wQ30bKo0SfzhMscGvB) | 2:55 | 2022-09-21 | 2022-12-01 |
 | [World Apart](https://open.spotify.com/track/6tAIL5bzj3hE7eWlRE2Ru6) | [Bike Routes](https://open.spotify.com/artist/0sBN7TbbFmFYH29xxa6VGA) | [World Apart](https://open.spotify.com/album/4m29SVaQToxqTXt8r2qNUd) | 3:00 | 2024-10-02 | 2024-11-07 |
-| [World End](https://open.spotify.com/track/3MZU1JNZFRBkOJikVKpnvC) | [Opal Mag](https://open.spotify.com/artist/04DSTB4v2Gskr37xC4uaAD) | [World End](https://open.spotify.com/album/19f5scV96ijki3lwsATwFa) | 3:29 | 2026-02-25 |  |
+| [World End](https://open.spotify.com/track/3MZU1JNZFRBkOJikVKpnvC) | [Opal Mag](https://open.spotify.com/artist/04DSTB4v2Gskr37xC4uaAD) | [World End](https://open.spotify.com/album/19f5scV96ijki3lwsATwFa) | 3:29 | 2026-02-25 | 2026-06-25 |
 | [Worldsworst](https://open.spotify.com/track/4MS4Wpp0QGM8RgJrId9BPy) | [Worlds Worst](https://open.spotify.com/artist/61WE20UoQujMRZqzTOq3sI) | [American Muscle](https://open.spotify.com/album/5CEZLXeWQzCacadbuBwsyC) | 2:41 | 2025-07-16 | 2025-12-04 |
 | [Worse Together](https://open.spotify.com/track/4NUUu2AGJTmeIovsyIHkiV) | [Venus & the Flytraps](https://open.spotify.com/artist/0p1Rswnjvt7KFNFTYXNmWF) | [Worse Together](https://open.spotify.com/album/2JIgRcXq3CnoRDdNxJRB4N) | 3:01 | 2023-02-22 | 2024-01-11 |
 | [Would U Object?](https://open.spotify.com/track/2Ww7EYSag4Po0ozoSbSzgr) | [Maddy Davis](https://open.spotify.com/artist/0N1XijsQLptT42ERtHfKsZ) | [Would U Object?](https://open.spotify.com/album/77ceNGJ9jWUSNJlfXXgnuN) | 3:29 | 2023-07-26 | 2023-10-05 |
@@ -2334,6 +2337,7 @@
 | [yalma \- يلمع](https://open.spotify.com/track/0MiX3X94CBWSFBRVuv4bLH) | [nabeel \- نبيل](https://open.spotify.com/artist/2utvoANtAeOGBklKqppZIl) | [yalma \- يلمع](https://open.spotify.com/album/4BY4nLo9RoF2YIddDGebOX) | 5:08 | 2025-05-21 | 2025-09-25 |
 | [Yes Chef](https://open.spotify.com/track/4sKx1IURoFRpak7Mgr1aY9) | [Heavy Lungs](https://open.spotify.com/artist/07eIrj0b3z5mgvtkDmWoxo) | [Yes Chef](https://open.spotify.com/album/4hF06ngLLmK4LfqVVgDX1i) | 1:52 | 2025-02-12 | 2025-03-20 |
 | [Yes Please!](https://open.spotify.com/track/7GoZb3nes83ynwUOkxRmK5) | [SidePonies](https://open.spotify.com/artist/5KwKfaUL5Ha9ihmXDRYEB0) | [Yes Please!](https://open.spotify.com/album/7qT0HAYr3IlPyPPPyn5fIB) | 3:47 | 2024-02-07 | 2024-03-21 |
+| [YES, I AM AN ANIMAL](https://open.spotify.com/track/54ayOa2nydoqHPbje4Ggtl) | [tankerlow](https://open.spotify.com/artist/3s1K1og0JzNIKLOj3sQeZJ) | [YES, I AM AN ANIMAL](https://open.spotify.com/album/0IDnwWNDrfmk02MmJR93be) | 5:04 | 2026-06-24 |  |
 | [You & I](https://open.spotify.com/track/0srq2xzwoudYMxfratuopQ) | [Showpony](https://open.spotify.com/artist/2wrM8a4GFN37IinDtSNli7), [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [Tyler Lindsay](https://open.spotify.com/artist/3W9kWgFu5BouUIUwo94iSg) | [You & I](https://open.spotify.com/album/3ytTYTmMKZG4EZnxcYVffM) | 3:11 | 2026-02-04 | 2026-03-12 |
 | [You Are](https://open.spotify.com/track/4c4CbNaQg5D37RpRRPhgNP) | [Dolly](https://open.spotify.com/artist/4xBWNa5eOmRdcoYQq7fHN4) | [You Are](https://open.spotify.com/album/22hSYeGyCk4qKF232zm69L) | 5:47 | 2024-01-10 | 2024-03-14 |
 | [You Follow Me Around](https://open.spotify.com/track/6TFGjO5tVnsRw2ChX7vRoW) | [The Fades](https://open.spotify.com/artist/58FnrTrMiP3T8lUjkbNZdZ) | [You Follow Me Around](https://open.spotify.com/album/6ZtLLPauGWJcMjuHBd8Ky6) | 3:30 | 2022-08-10 | 2022-09-29 |

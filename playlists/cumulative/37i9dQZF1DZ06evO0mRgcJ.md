@@ -4,7 +4,7 @@
 
 > This is Los Desvelados\. The essential tracks, all in one playlist.
 
-102 songs - 5 hr 35 min
+103 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Camioneta Alterada](https://open.spotify.com/track/0fvHIf04ujurWHXX7NLx5l) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Camioneta Alterada](https://open.spotify.com/album/5AKUeJnTKAPQOKk3KmoX0t) | 3:29 | 2024-01-29 |  |
 | [Cerveza Al Aire](https://open.spotify.com/track/0lclNVJgbfNZDdwIwkAZbO) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Cerveza Al Aire](https://open.spotify.com/album/1zrNUiT3MeXWxOIHhbW5kQ) | 3:51 | 2025-07-18 |  |
 | [Chapito Lomas](https://open.spotify.com/track/3WHOLFP8efU4kSKektfFGe) | [Martin Castillo](https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Chapito Lomas](https://open.spotify.com/album/3YEavSCWGJ1ZbdmJKCjO6t) | 3:21 | 2024-12-08 | 2025-11-14 |
-| [Critíquenme](https://open.spotify.com/track/5y35zXJMQ53ebkJGm8ZlSJ) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground 3](https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11) | 2:37 | 2024-02-02 |  |
+| [Critíquenme](https://open.spotify.com/track/5y35zXJMQ53ebkJGm8ZlSJ) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground 3](https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11) | 2:37 | 2024-02-02 | 2026-06-25 |
 | [Cuatro Grandes \(Cuadro Lavado\)](https://open.spotify.com/track/0ggmHIybqGimyRj8wLz81v) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [LA Privada](https://open.spotify.com/album/0PNMxKlPkcdUXEwCf9pcPf) | 2:47 | 2025-05-15 | 2026-01-30 |
 | [Dash](https://open.spotify.com/track/3mGNfLaiEjokEf4IGN5eI5) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Dash](https://open.spotify.com/album/6yPZzcF4xp64gOdDB7lxfI) | 3:18 | 2024-01-29 |  |
 | [De aquí pa allá](https://open.spotify.com/track/61DvcN30XR5Z7tE0nkbAn3) | [Jorge Morales El Jilguero](https://open.spotify.com/artist/6WDM3vQTsUQ4pMBUhAlHQv), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Yo Soy El Que Soy](https://open.spotify.com/album/0XMpQx7hguTme7QdNMnufW) | 2:40 | 2025-06-29 | 2026-05-29 |
@@ -46,6 +46,7 @@
 | [El Sieteh](https://open.spotify.com/track/0KuwvVmXF1z5Bm4nNYgj0j) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [El Sieteh](https://open.spotify.com/album/6PKSzk8tHnN7lMciM13HOM) | 4:31 | 2026-02-23 |  |
 | [El Terminator](https://open.spotify.com/track/1QQeHaqtG8tOU8BbCWVPf6) | [Christian Nava](https://open.spotify.com/artist/4ykQDHQarNbuhmYt8YB3W0), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [El Terminator](https://open.spotify.com/album/6k6fcNBK814YrhGv833xc3) | 2:55 | 2024-01-29 | 2025-09-21 |
 | [EL TERMINATOR](https://open.spotify.com/track/6gVc3POmDDgTqia2v3xdKg) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [CORRIDOS UNDERGROUND \(Vol\. 4\)](https://open.spotify.com/album/2Nqb3yTWqrq8IJ5hPMn9UY) | 2:35 | 2024-04-11 | 2025-05-15 |
+| [EL TRUQUITO](https://open.spotify.com/track/3lGMUn3lS9qWR9oRyBgNMt) | [El Filly Y Sus Aliados](https://open.spotify.com/artist/0qvV5NBJR6uHz2B43Wxemt), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [EL TRUQUITO](https://open.spotify.com/album/1IknBKFcTwtL5na9HAXfD5) | 1:51 | 2026-06-25 |  |
 | [El Uno Al 7 \- En Vivo](https://open.spotify.com/track/6xTQCejd4DEUcJyEHl3Ahj) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [El Uno Al 7 \(En Vivo\)](https://open.spotify.com/album/3ZQHJaeHx9bGyZIsRC8Abs) | 3:24 | 2024-01-29 |  |
 | [El Vecino](https://open.spotify.com/track/4jXLo2WyoyCRQGVeATuSsm) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Legion Del Corrido](https://open.spotify.com/album/0r9jqZqqorVlus4zZLTiO7) | 2:20 | 2024-01-29 | 2024-04-11 |
 | [En 1 al 7](https://open.spotify.com/track/4WchYo3B9276gSE7YOJ324) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Los Varones De California](https://open.spotify.com/artist/4JtXEZQTssP9XfeaPbi8NF) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 3:11 | 2024-05-26 | 2024-11-25 |

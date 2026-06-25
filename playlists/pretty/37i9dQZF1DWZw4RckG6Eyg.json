@@ -1,6 +1,6 @@
 {
   "description": "All the indie gems from 2025 that we can't get enough of. Cover: she's green",
-  "num_followers": 46602,
+  "num_followers": 46603,
   "original_name": "Indie Editors' Hyperfixations of 2025 ",
   "owner": {
     "name": "Spotify",
@@ -851,6 +851,22 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
+        "name": "Body Break",
+        "url": "https://open.spotify.com/album/0UhmToxL1sZ4Ld0zmbUhHi"
+      },
+      "artists": [
+        {
+          "name": "Beryl",
+          "url": "https://open.spotify.com/artist/6BSlVdBcQTPh8txkqgad0n"
+        }
+      ],
+      "duration_ms": 215649,
+      "name": "If I go",
+      "url": "https://open.spotify.com/track/6uTTNETm26JZlksu0KFgJu"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
         "name": "Dealerz",
         "url": "https://open.spotify.com/album/3gT4OeIXlqJZ9xrhXlR1OT"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 166344,
       "name": "Dealerz",
       "url": "https://open.spotify.com/track/5wCYpFI6oW9BejmzlBiXIs"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
-        "name": "Body Break",
-        "url": "https://open.spotify.com/album/0UhmToxL1sZ4Ld0zmbUhHi"
-      },
-      "artists": [
-        {
-          "name": "Beryl",
-          "url": "https://open.spotify.com/artist/6BSlVdBcQTPh8txkqgad0n"
-        }
-      ],
-      "duration_ms": 215649,
-      "name": "If I go",
-      "url": "https://open.spotify.com/track/6uTTNETm26JZlksu0KFgJu"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "Good Things",
-        "url": "https://open.spotify.com/album/1ISR9HaRvDSbJRCcBeMrWG"
-      },
-      "artists": [
-        {
-          "name": "Annabelle Dinda",
-          "url": "https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36"
-        }
-      ],
-      "duration_ms": 213415,
-      "name": "Good Things",
-      "url": "https://open.spotify.com/track/4b2ySri2ec5oJtEVt3Zyx7"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
         "name": "Skins",
         "url": "https://open.spotify.com/album/2mXZjNoSOJ9422Gwvmh7Wu"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 260173,
       "name": "Skins",
       "url": "https://open.spotify.com/track/5munQvyxlq8hZNvTIrKoQT"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
+        "name": "Good Things",
+        "url": "https://open.spotify.com/album/1ISR9HaRvDSbJRCcBeMrWG"
+      },
+      "artists": [
+        {
+          "name": "Annabelle Dinda",
+          "url": "https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36"
+        }
+      ],
+      "duration_ms": 213415,
+      "name": "Good Things",
+      "url": "https://open.spotify.com/track/4b2ySri2ec5oJtEVt3Zyx7"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "Homerun 2021",
-        "url": "https://open.spotify.com/album/3eso9JkXxZyMBrjzUbsBxR"
-      },
-      "artists": [
-        {
-          "name": "Jonah Yano",
-          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
-        }
-      ],
-      "duration_ms": 201666,
-      "name": "Homerun 2021",
-      "url": "https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
         "name": "Electric Hour",
         "url": "https://open.spotify.com/album/5glk52BEcA9c9RODElJkqF"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 330199,
       "name": "Even if it's Just a Dream",
       "url": "https://open.spotify.com/track/0RfXPfvVaCXQWTbHfXlVQI"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
+        "name": "Homerun 2021",
+        "url": "https://open.spotify.com/album/3eso9JkXxZyMBrjzUbsBxR"
+      },
+      "artists": [
+        {
+          "name": "Jonah Yano",
+          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "Homerun 2021",
+      "url": "https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "Vanities",
-        "url": "https://open.spotify.com/album/7ePZ3EZLrbIXyms6fc9hJd"
-      },
-      "artists": [
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
-        }
-      ],
-      "duration_ms": 201012,
-      "name": "So Sweet & Willing",
-      "url": "https://open.spotify.com/track/2XIT9pYAiTCawCmspbwhrh"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
         "name": "Stone Femmes",
         "url": "https://open.spotify.com/album/2byXC960vYk4iRRxL9FSBc"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 179325,
       "name": "Stone Femmes",
       "url": "https://open.spotify.com/track/7tQZcX1IDSgJcs9Dt92VzD"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
+        "name": "Vanities",
+        "url": "https://open.spotify.com/album/7ePZ3EZLrbIXyms6fc9hJd"
+      },
+      "artists": [
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
+        }
+      ],
+      "duration_ms": 201012,
+      "name": "So Sweet & Willing",
+      "url": "https://open.spotify.com/track/2XIT9pYAiTCawCmspbwhrh"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "Miffed It",
-        "url": "https://open.spotify.com/album/04XGmj4SzLzNy3THrWaKfe"
-      },
-      "artists": [
-        {
-          "name": "Way Dynamic",
-          "url": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk"
-        }
-      ],
-      "duration_ms": 246240,
-      "name": "Miffed It",
-      "url": "https://open.spotify.com/track/3n3nY1tcsTbBT1SyWR4Kff"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
         "name": "Holy Water",
         "url": "https://open.spotify.com/album/3PxjhJ8Lj3YE2PodJ1BVIa"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 233221,
       "name": "Images of Love",
       "url": "https://open.spotify.com/track/4Iyni4uugM3tRXvo2Xuzwt"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
+        "name": "Miffed It",
+        "url": "https://open.spotify.com/album/04XGmj4SzLzNy3THrWaKfe"
+      },
+      "artists": [
+        {
+          "name": "Way Dynamic",
+          "url": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk"
+        }
+      ],
+      "duration_ms": 246240,
+      "name": "Miffed It",
+      "url": "https://open.spotify.com/track/3n3nY1tcsTbBT1SyWR4Kff"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "Pale Song / Love Is",
-        "url": "https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ"
-      },
-      "artists": [
-        {
-          "name": "Dove Ellis",
-          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
-        }
-      ],
-      "duration_ms": 165460,
-      "name": "Pale Song",
-      "url": "https://open.spotify.com/track/5NbilllIdF8lp4FmdX7OF8"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
         "name": "POOR CHOICES",
         "url": "https://open.spotify.com/album/7i6ANs380kdGplpLHBuxBE"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 204782,
       "name": "POOR CHOICES",
       "url": "https://open.spotify.com/track/5hLmbpWtuvhkzCosigqOHa"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
+        "name": "Pale Song / Love Is",
+        "url": "https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ"
+      },
+      "artists": [
+        {
+          "name": "Dove Ellis",
+          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
+        }
+      ],
+      "duration_ms": 165460,
+      "name": "Pale Song",
+      "url": "https://open.spotify.com/track/5NbilllIdF8lp4FmdX7OF8"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "Jetplane",
-        "url": "https://open.spotify.com/album/2dqqdgT9eAranPuGWV38Zc"
+        "name": "jones",
+        "url": "https://open.spotify.com/album/0ZdcI5SgkDnVvTrBurFchs"
       },
       "artists": [
         {
-          "name": "Sorry",
-          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
+          "name": "boylife",
+          "url": "https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb"
         }
       ],
-      "duration_ms": 156824,
-      "name": "Jetplane",
-      "url": "https://open.spotify.com/track/1LSGFeUg7nnzTwM0fShNyA"
+      "duration_ms": 268313,
+      "name": "junior",
+      "url": "https://open.spotify.com/track/5DeQBAPTltJreKfwiBJDyh"
     }
   ],
   "unique_name": "Indie Editors' Hyperfixations of 2025 ",

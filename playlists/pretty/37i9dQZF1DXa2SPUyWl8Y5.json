@@ -1,6 +1,6 @@
 {
   "description": "Focus with melodic house and techno. ",
-  "num_followers": 563026,
+  "num_followers": 563063,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "Salzburg",
-        "url": "https://open.spotify.com/album/0kp2LYtnerUPh8VI4Y8GHA"
-      },
-      "artists": [
-        {
-          "name": "Worakls",
-          "url": "https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p"
-        }
-      ],
-      "duration_ms": 436150,
-      "name": "Salzburg",
-      "url": "https://open.spotify.com/track/2uTPHrN8zqYnHUb6Wuz1FC"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
         "name": "Concorde",
         "url": "https://open.spotify.com/album/2bR57Fk9p69p3X8cRaGl4P"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 236129,
       "name": "Concorde",
       "url": "https://open.spotify.com/track/2IUG5pEgIyvevQI92WB6Vh"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
+        "name": "Salzburg",
+        "url": "https://open.spotify.com/album/0kp2LYtnerUPh8VI4Y8GHA"
+      },
+      "artists": [
+        {
+          "name": "Worakls",
+          "url": "https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p"
+        }
+      ],
+      "duration_ms": 436150,
+      "name": "Salzburg",
+      "url": "https://open.spotify.com/track/2uTPHrN8zqYnHUb6Wuz1FC"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "Sense of Wonder",
-        "url": "https://open.spotify.com/album/7IHA14MqqNRlmEeELXtwz3"
-      },
-      "artists": [
-        {
-          "name": "Paradoks",
-          "url": "https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf"
-        }
-      ],
-      "duration_ms": 241282,
-      "name": "Sense of Wonder",
-      "url": "https://open.spotify.com/track/0iP4oGGuZMSXdRPhxL8iQ4"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/42RzcaAaTLCowXNlHAK1Du"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 230400,
       "name": "Luna",
       "url": "https://open.spotify.com/track/19nIwUJ2K8fSF2VUoOXEUM"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
+        "name": "Sense of Wonder",
+        "url": "https://open.spotify.com/album/7IHA14MqqNRlmEeELXtwz3"
+      },
+      "artists": [
+        {
+          "name": "Paradoks",
+          "url": "https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf"
+        }
+      ],
+      "duration_ms": 241282,
+      "name": "Sense of Wonder",
+      "url": "https://open.spotify.com/track/0iP4oGGuZMSXdRPhxL8iQ4"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "Minister",
-        "url": "https://open.spotify.com/album/25m24dUkyawXKaRAPBTrAZ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Portman",
-          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
-        }
-      ],
-      "duration_ms": 240020,
-      "name": "Minister",
-      "url": "https://open.spotify.com/track/3cyN9y1ZKdCkx7KB0E1GRM"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
         "name": "Infinity",
         "url": "https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 420495,
       "name": "If I Had Wings",
       "url": "https://open.spotify.com/track/5YTUltabO6pDPCgKzeAW4a"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
+        "name": "Minister",
+        "url": "https://open.spotify.com/album/25m24dUkyawXKaRAPBTrAZ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Portman",
+          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
+        }
+      ],
+      "duration_ms": 240020,
+      "name": "Minister",
+      "url": "https://open.spotify.com/track/3cyN9y1ZKdCkx7KB0E1GRM"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "Wadi Dana",
-        "url": "https://open.spotify.com/album/45NYhmGO76k8GWRpxYSJQN"
-      },
-      "artists": [
-        {
-          "name": "Corren Cavini",
-          "url": "https://open.spotify.com/artist/2UgCkNOjEjL0uKDwewjet8"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "Wadi Dana",
-      "url": "https://open.spotify.com/track/6Fv8RI7hYPvddWOcsTs2HW"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
         "name": "Lyra",
         "url": "https://open.spotify.com/album/10EVZVgK0jaOVuIW1A8GSy"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 437891,
       "name": "Lyra",
       "url": "https://open.spotify.com/track/1Y4nxwSQr5jTMXKaQwiLOA"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
+        "name": "Wadi Dana",
+        "url": "https://open.spotify.com/album/45NYhmGO76k8GWRpxYSJQN"
+      },
+      "artists": [
+        {
+          "name": "Corren Cavini",
+          "url": "https://open.spotify.com/artist/2UgCkNOjEjL0uKDwewjet8"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Wadi Dana",
+      "url": "https://open.spotify.com/track/6Fv8RI7hYPvddWOcsTs2HW"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "Songs of Silence",
-        "url": "https://open.spotify.com/album/31pmASRti6IjbYo67KbrJi"
-      },
-      "artists": [
-        {
-          "name": "Vince Clarke",
-          "url": "https://open.spotify.com/artist/7zkGCcaPSB7nLCtaxEWWE1"
-        }
-      ],
-      "duration_ms": 227033,
-      "name": "Scarper",
-      "url": "https://open.spotify.com/track/4RJz6UMktOxRng1j0mvrY1"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
         "name": "Nebula",
         "url": "https://open.spotify.com/album/6sIs8vP0ctpyBmJ8jFhQP9"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 498419,
       "name": "Postquam",
       "url": "https://open.spotify.com/track/3uz86uuWkk7oyJs5pOTN3b"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
+        "name": "Songs of Silence",
+        "url": "https://open.spotify.com/album/31pmASRti6IjbYo67KbrJi"
+      },
+      "artists": [
+        {
+          "name": "Vince Clarke",
+          "url": "https://open.spotify.com/artist/7zkGCcaPSB7nLCtaxEWWE1"
+        }
+      ],
+      "duration_ms": 227033,
+      "name": "Scarper",
+      "url": "https://open.spotify.com/track/4RJz6UMktOxRng1j0mvrY1"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -1043,18 +1043,22 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/1KTNoba0EoQRVl1rLOv71a"
+        "name": "Lunar",
+        "url": "https://open.spotify.com/album/06R8GH8lr3HkN6amHyZU8w"
       },
       "artists": [
         {
-          "name": "Haddadi Von Engst",
-          "url": "https://open.spotify.com/artist/5Hg5DBnnqGjRx8ylws0xy5"
+          "name": "SKIY",
+          "url": "https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ"
+        },
+        {
+          "name": "Galexis",
+          "url": "https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h"
         }
       ],
-      "duration_ms": 308000,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/5nTULNIZFwN3e4g05lb6fF"
+      "duration_ms": 192016,
+      "name": "Lunar",
+      "url": "https://open.spotify.com/track/1nawO2xKQj1haBWWhLpUfG"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -1095,22 +1099,18 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "Lunar",
-        "url": "https://open.spotify.com/album/06R8GH8lr3HkN6amHyZU8w"
+        "name": "Run",
+        "url": "https://open.spotify.com/album/1KTNoba0EoQRVl1rLOv71a"
       },
       "artists": [
         {
-          "name": "SKIY",
-          "url": "https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ"
-        },
-        {
-          "name": "Galexis",
-          "url": "https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h"
+          "name": "Haddadi Von Engst",
+          "url": "https://open.spotify.com/artist/5Hg5DBnnqGjRx8ylws0xy5"
         }
       ],
-      "duration_ms": 192016,
-      "name": "Lunar",
-      "url": "https://open.spotify.com/track/1nawO2xKQj1haBWWhLpUfG"
+      "duration_ms": 308000,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/5nTULNIZFwN3e4g05lb6fF"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "Vibrations",
-        "url": "https://open.spotify.com/album/47lVs3yxAMXVmHn8P6O3I5"
-      },
-      "artists": [
-        {
-          "name": "Horisone",
-          "url": "https://open.spotify.com/artist/4QK6kc57qNZNCb8DZ68tOr"
-        }
-      ],
-      "duration_ms": 435238,
-      "name": "Housefly",
-      "url": "https://open.spotify.com/track/1GarEhuWQWBEhS5qnFiHG7"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
         "name": "Planet F",
         "url": "https://open.spotify.com/album/2GNTFKRmaZkZSzxGcSAKeQ"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 241769,
       "name": "Planet F",
       "url": "https://open.spotify.com/track/7zL8LOU2Wzhc48ObFxOUq8"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
+        "name": "Vibrations",
+        "url": "https://open.spotify.com/album/47lVs3yxAMXVmHn8P6O3I5"
+      },
+      "artists": [
+        {
+          "name": "Horisone",
+          "url": "https://open.spotify.com/artist/4QK6kc57qNZNCb8DZ68tOr"
+        }
+      ],
+      "duration_ms": 435238,
+      "name": "Housefly",
+      "url": "https://open.spotify.com/track/1GarEhuWQWBEhS5qnFiHG7"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "The Mood",
-        "url": "https://open.spotify.com/album/3XQPuf5CmDz0jEwgsfsygX"
-      },
-      "artists": [
-        {
-          "name": "Rafael Osmo",
-          "url": "https://open.spotify.com/artist/3ChjGRo4LfuJy7uXo0uQG5"
-        }
-      ],
-      "duration_ms": 210731,
-      "name": "The Mood",
-      "url": "https://open.spotify.com/track/6eHjPAXmPtSw7qjn3FTVfc"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
         "name": "Mind Kontrol EP",
         "url": "https://open.spotify.com/album/0Gb1g3zTWUGkO8OpG5nHmc"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 403709,
       "name": "Dark Future",
       "url": "https://open.spotify.com/track/5pogItD4GCGPkMR3SlLd1R"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
+        "name": "The Mood",
+        "url": "https://open.spotify.com/album/3XQPuf5CmDz0jEwgsfsygX"
+      },
+      "artists": [
+        {
+          "name": "Rafael Osmo",
+          "url": "https://open.spotify.com/artist/3ChjGRo4LfuJy7uXo0uQG5"
+        }
+      ],
+      "duration_ms": 210731,
+      "name": "The Mood",
+      "url": "https://open.spotify.com/track/6eHjPAXmPtSw7qjn3FTVfc"
     },
     {
       "added_at": "2026-06-11 06:56:41",

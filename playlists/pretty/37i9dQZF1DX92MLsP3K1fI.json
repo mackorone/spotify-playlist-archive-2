@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Noa Sainz en portada \u2728",
-  "num_followers": 95090,
+  "num_followers": 95101,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -111,18 +111,22 @@
     {
       "added_at": "2026-04-10 16:15:50",
       "album": {
-        "name": "Quiero +",
-        "url": "https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv"
+        "name": "Lejos de la Ciudad (con Camilo)",
+        "url": "https://open.spotify.com/album/77bk6nc9OGUllHsYJh0Icu"
       },
       "artists": [
         {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         }
       ],
-      "duration_ms": 128487,
-      "name": "Quiero +",
-      "url": "https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h"
+      "duration_ms": 187358,
+      "name": "Lejos de la Ciudad - con Camilo",
+      "url": "https://open.spotify.com/track/3iDMvP8BZxE2Olorh2pWg9"
     },
     {
       "added_at": "2026-04-10 16:15:50",
@@ -283,22 +287,18 @@
     {
       "added_at": "2026-04-10 16:15:50",
       "album": {
-        "name": "Lejos de la Ciudad (con Camilo)",
-        "url": "https://open.spotify.com/album/77bk6nc9OGUllHsYJh0Icu"
+        "name": "Quiero +",
+        "url": "https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv"
       },
       "artists": [
         {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
         }
       ],
-      "duration_ms": 187358,
-      "name": "Lejos de la Ciudad - con Camilo",
-      "url": "https://open.spotify.com/track/3iDMvP8BZxE2Olorh2pWg9"
+      "duration_ms": 128487,
+      "name": "Quiero +",
+      "url": "https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h"
     },
     {
       "added_at": "2026-04-10 16:15:50",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-04-10 16:15:50",
       "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/4NSnbADexvBDh4shBebFh2"
-      },
-      "artists": [
-        {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
-        }
-      ],
-      "duration_ms": 172765,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/5cgeK14YrMX2ftrxhsvbp1"
-    },
-    {
-      "added_at": "2026-04-10 16:15:50",
-      "album": {
         "name": "El Vuelo",
         "url": "https://open.spotify.com/album/3AqXBCmOIQJebXPf3H5p86"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 191892,
       "name": "El Vuelo",
       "url": "https://open.spotify.com/track/48d79eyEINBLKtnV3iBqLJ"
+    },
+    {
+      "added_at": "2026-04-10 16:15:50",
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/4NSnbADexvBDh4shBebFh2"
+      },
+      "artists": [
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        }
+      ],
+      "duration_ms": 172765,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/5cgeK14YrMX2ftrxhsvbp1"
     },
     {
       "added_at": "2026-04-10 16:15:50",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-04-10 16:15:50",
       "album": {
-        "name": "Chance",
-        "url": "https://open.spotify.com/album/6EMUBfbdMpi708BLwQ9Sd9"
-      },
-      "artists": [
-        {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
-        }
-      ],
-      "duration_ms": 156521,
-      "name": "Chance",
-      "url": "https://open.spotify.com/track/7HO32nFlwhg1uDC2KZKDN8"
-    },
-    {
-      "added_at": "2026-04-10 16:15:50",
-      "album": {
         "name": "AMOR",
         "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 180857,
       "name": "AMOR",
       "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
+    },
+    {
+      "added_at": "2026-04-10 16:15:50",
+      "album": {
+        "name": "Chance",
+        "url": "https://open.spotify.com/album/6EMUBfbdMpi708BLwQ9Sd9"
+      },
+      "artists": [
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        }
+      ],
+      "duration_ms": 156521,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/7HO32nFlwhg1uDC2KZKDN8"
     },
     {
       "added_at": "2026-04-10 16:15:50",
@@ -903,26 +903,6 @@
     {
       "added_at": "2026-04-10 16:15:50",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/0wpvm3fJua2roPGSKKAxNt"
-      },
-      "artists": [
-        {
-          "name": "Mar Lucas",
-          "url": "https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI"
-        },
-        {
-          "name": "Juan Duque",
-          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
-        }
-      ],
-      "duration_ms": 157021,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/2qWQRcqmmXLiI3jzZBfKwd"
-    },
-    {
-      "added_at": "2026-04-10 16:15:50",
-      "album": {
         "name": "MALVAS",
         "url": "https://open.spotify.com/album/6kUKwicaYia3sYbgQyEtb2"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 183760,
       "name": "MALVAS",
       "url": "https://open.spotify.com/track/1MtxOSpyeHEQEUV2NtkK1H"
+    },
+    {
+      "added_at": "2026-04-10 16:15:50",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/0wpvm3fJua2roPGSKKAxNt"
+      },
+      "artists": [
+        {
+          "name": "Mar Lucas",
+          "url": "https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI"
+        },
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "duration_ms": 157021,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/2qWQRcqmmXLiI3jzZBfKwd"
     },
     {
       "added_at": "2026-04-10 16:15:50",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-04-10 16:15:50",
       "album": {
-        "name": "odio a primera vista",
-        "url": "https://open.spotify.com/album/0SUOvTZTNdnEES1VpEW7Vu"
-      },
-      "artists": [
-        {
-          "name": "Ana Sofi W.",
-          "url": "https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0"
-        }
-      ],
-      "duration_ms": 186996,
-      "name": "odio a primera vista",
-      "url": "https://open.spotify.com/track/4O7u2mKN9ovYtk3ejaJ87O"
-    },
-    {
-      "added_at": "2026-04-10 16:15:50",
-      "album": {
         "name": "Hot Cherry Bomb",
         "url": "https://open.spotify.com/album/14JMi0a2NKoBedw05QpxWV"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 128000,
       "name": "Hot Cherry Bomb",
       "url": "https://open.spotify.com/track/6vFqACvmDtCtcLB2OdiBA2"
+    },
+    {
+      "added_at": "2026-04-10 16:15:50",
+      "album": {
+        "name": "odio a primera vista",
+        "url": "https://open.spotify.com/album/0SUOvTZTNdnEES1VpEW7Vu"
+      },
+      "artists": [
+        {
+          "name": "Ana Sofi W.",
+          "url": "https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0"
+        }
+      ],
+      "duration_ms": 186996,
+      "name": "odio a primera vista",
+      "url": "https://open.spotify.com/track/4O7u2mKN9ovYtk3ejaJ87O"
     },
     {
       "added_at": "2026-04-10 16:15:50",

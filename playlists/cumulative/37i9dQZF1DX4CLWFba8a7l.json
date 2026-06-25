@@ -8391,6 +8391,24 @@
     },
     {
       "album": {
+        "name": "PQC",
+        "url": "https://open.spotify.com/album/35hsDC9B2utVC66cjrJ1GY"
+      },
+      "artists": [
+        {
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212195,
+      "name": "PQC",
+      "url": "https://open.spotify.com/track/0bP1I4aL8vehpEkXQ3dmgO"
+    },
+    {
+      "album": {
         "name": "Pressed",
         "url": "https://open.spotify.com/album/4KGLVBHwJiDdpYkJcoV6VN"
       },
@@ -11326,7 +11344,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-12",
+      "date_removed": null,
       "duration_ms": 206571,
       "name": "Trust",
       "url": "https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1"
@@ -11572,7 +11590,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 195371,
       "name": "VERTICAL WORLDS",
       "url": "https://open.spotify.com/track/4BixLPsuhd4pJw4DC1lt0z"
@@ -11962,7 +11980,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 197544,
       "name": "Where Our Streets Met",
       "url": "https://open.spotify.com/track/1pdY6AbGcmbev2bBj7ScdA"

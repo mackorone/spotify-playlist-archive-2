@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,167 likes - 119 songs - 6 hr 58 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,167 likes - 120 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,5 +127,6 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 117 | [Recita](https://open.spotify.com/track/4iVc34n6jfYEP7wHhdK3sm) | [LEUCA](https://open.spotify.com/artist/3McV2dVJBfa6kuLS2M2I1i) | [Recita](https://open.spotify.com/album/3VlWM3WZ7NJyCP6gZUZiKH) | 2:49 |
 | 118 | [Sinking Into The Ocean](https://open.spotify.com/track/30DebVQG34KpyNWMZm2VNx) | [Maia and the Squires](https://open.spotify.com/artist/0ZUdMSGAbhRWkb6WJwuBeq) | [Sinking Into The Ocean](https://open.spotify.com/album/1RSTKvRHsWAuvnTAO9Bpmc) | 4:25 |
 | 119 | [A Lot](https://open.spotify.com/track/0ZyU0bHh1UsZz9MUzSth8g) | [Loni Lila](https://open.spotify.com/artist/4mVVCZXncoiQapqEdPFFAy), [Konsum](https://open.spotify.com/artist/6Dw2VAyo0stjSYKTVDzLVD), [YÜÜP](https://open.spotify.com/artist/5Sl0lYEFxFwXKIfJa1Iglj) | [A Lot](https://open.spotify.com/album/5LLIXRhHSDFLhS72dP4Hbp) | 3:24 |
+| 120 | [Black & White](https://open.spotify.com/track/5l7Saevnhj0pWnnLAeXHOz) | [Patch Habits](https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ) | [Black & White](https://open.spotify.com/album/4d9gRLsl9swpB6qC1xzjYF) | 3:22 |
 
-Snapshot ID: `AAAPCBtPMEPTvP+k/iHgI/7HAYTaLyCf`
+Snapshot ID: `AAAPCebC/ecgg/2q6BJ3EByJpReg90eT`

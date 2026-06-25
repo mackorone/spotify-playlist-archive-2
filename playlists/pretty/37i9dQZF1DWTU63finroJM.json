@@ -1,6 +1,6 @@
 {
   "description": "Meet the future of music around the world. Cover: JBABE",
-  "num_followers": 85971,
+  "num_followers": 86009,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
@@ -199,22 +199,6 @@
     {
       "added_at": "2026-06-19 13:00:36",
       "album": {
-        "name": "Could've Been",
-        "url": "https://open.spotify.com/album/3mYUUcwsOOzZjGvGonUukT"
-      },
-      "artists": [
-        {
-          "name": "Celine Wanyi",
-          "url": "https://open.spotify.com/artist/6TDH7ncjLQmNKM1SdbggnZ"
-        }
-      ],
-      "duration_ms": 165655,
-      "name": "Could've Been",
-      "url": "https://open.spotify.com/track/5yy1SxsJf6OY3lbbR7h4ww"
-    },
-    {
-      "added_at": "2026-06-19 13:00:36",
-      "album": {
         "name": "201",
         "url": "https://open.spotify.com/album/0k6DgqXoQCEdsjKE7oAwsU"
       },
@@ -235,6 +219,38 @@
       "duration_ms": 148380,
       "name": "201",
       "url": "https://open.spotify.com/track/4rmbkWnmeotS7o3Lgx7b8Q"
+    },
+    {
+      "added_at": "2026-06-19 13:00:36",
+      "album": {
+        "name": "Could've Been",
+        "url": "https://open.spotify.com/album/3mYUUcwsOOzZjGvGonUukT"
+      },
+      "artists": [
+        {
+          "name": "Celine Wanyi",
+          "url": "https://open.spotify.com/artist/6TDH7ncjLQmNKM1SdbggnZ"
+        }
+      ],
+      "duration_ms": 165655,
+      "name": "Could've Been",
+      "url": "https://open.spotify.com/track/5yy1SxsJf6OY3lbbR7h4ww"
+    },
+    {
+      "added_at": "2026-06-19 13:00:36",
+      "album": {
+        "name": "A Little Larger Than The Entire Universe",
+        "url": "https://open.spotify.com/album/6l66NGkulOLFL5HIwdnqZ2"
+      },
+      "artists": [
+        {
+          "name": "JBABE",
+          "url": "https://open.spotify.com/artist/3c31TRttHfPOdHHVfijaby"
+        }
+      ],
+      "duration_ms": 181566,
+      "name": "Cries in Crocodile",
+      "url": "https://open.spotify.com/track/2FAsIE5rXnHFxLbVgQbxYa"
     },
     {
       "added_at": "2026-06-19 13:00:36",
@@ -267,22 +283,6 @@
       "duration_ms": 181935,
       "name": "Rich As Fuck",
       "url": "https://open.spotify.com/track/0r3pzceW5ovmHKCM7OcfAI"
-    },
-    {
-      "added_at": "2026-06-19 13:00:36",
-      "album": {
-        "name": "A Little Larger Than The Entire Universe",
-        "url": "https://open.spotify.com/album/6l66NGkulOLFL5HIwdnqZ2"
-      },
-      "artists": [
-        {
-          "name": "JBABE",
-          "url": "https://open.spotify.com/artist/3c31TRttHfPOdHHVfijaby"
-        }
-      ],
-      "duration_ms": 181566,
-      "name": "Cries in Crocodile",
-      "url": "https://open.spotify.com/track/2FAsIE5rXnHFxLbVgQbxYa"
     },
     {
       "added_at": "2026-06-19 13:00:36",
@@ -369,20 +369,24 @@
       "url": "https://open.spotify.com/track/4HzcajLTN9Nr0Bml0coNbv"
     },
     {
-      "added_at": "2026-06-19 13:00:36",
+      "added_at": "2026-06-20 16:52:25",
       "album": {
-        "name": "no time for sober",
-        "url": "https://open.spotify.com/album/2eDbJ5LcvvwjnNQtUzdjjF"
+        "name": "can't be blue",
+        "url": "https://open.spotify.com/album/61f7Qz1pcOV9CmpDiWZIam"
       },
       "artists": [
         {
-          "name": "NO TIME FOR SILENCE",
-          "url": "https://open.spotify.com/artist/4QhqPcRuERYC4hLLY3gVxe"
+          "name": "can't be blue",
+          "url": "https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5"
+        },
+        {
+          "name": "HAN",
+          "url": "https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F"
         }
       ],
-      "duration_ms": 217915,
-      "name": "i wish im alright\uff08\u6292\u60c5 \u7248\uff09",
-      "url": "https://open.spotify.com/track/5KGCSZJi0J7aDnScGWshwD"
+      "duration_ms": 195000,
+      "name": "can't love (feat. HAN (Stray Kids))",
+      "url": "https://open.spotify.com/track/3KQbhkqIGm1W577i5iw0gB"
     },
     {
       "added_at": "2026-06-19 13:00:36",
@@ -403,6 +407,22 @@
     {
       "added_at": "2026-06-19 13:00:36",
       "album": {
+        "name": "no time for sober",
+        "url": "https://open.spotify.com/album/2eDbJ5LcvvwjnNQtUzdjjF"
+      },
+      "artists": [
+        {
+          "name": "NO TIME FOR SILENCE",
+          "url": "https://open.spotify.com/artist/4QhqPcRuERYC4hLLY3gVxe"
+        }
+      ],
+      "duration_ms": 217915,
+      "name": "i wish im alright\uff08\u6292\u60c5 \u7248\uff09",
+      "url": "https://open.spotify.com/track/5KGCSZJi0J7aDnScGWshwD"
+    },
+    {
+      "added_at": "2026-06-19 13:00:36",
+      "album": {
         "name": "MR. SMILE",
         "url": "https://open.spotify.com/album/66P2RDdsOcRXDrDLVW5rhR"
       },
@@ -415,26 +435,6 @@
       "duration_ms": 228124,
       "name": "MR. SMILE",
       "url": "https://open.spotify.com/track/3ez7xQy4UKDqnCPz0q6cxc"
-    },
-    {
-      "added_at": "2026-06-20 16:52:25",
-      "album": {
-        "name": "can't be blue",
-        "url": "https://open.spotify.com/album/61f7Qz1pcOV9CmpDiWZIam"
-      },
-      "artists": [
-        {
-          "name": "can't be blue",
-          "url": "https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5"
-        },
-        {
-          "name": "HAN",
-          "url": "https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "can't love (feat. HAN (Stray Kids))",
-      "url": "https://open.spotify.com/track/3KQbhkqIGm1W577i5iw0gB"
     },
     {
       "added_at": "2026-06-19 13:00:36",

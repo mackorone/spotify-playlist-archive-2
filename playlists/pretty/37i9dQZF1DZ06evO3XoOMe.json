@@ -1,12 +1,12 @@
 {
   "description": "This is Chxrry. The essential tracks, all in one playlist.",
-  "num_followers": 568,
+  "num_followers": 570,
   "original_name": "This Is Chxrry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajh7AAAAAADbk1Ri+7XCd6i7EFbi/m8N",
+  "snapshot_id": "ajnMgAAAAADxnzAhooPyh6CudlC1Ny5W",
   "tracks": [
     {
       "added_at": null,
@@ -382,15 +382,11 @@
         {
           "name": "Chxrry",
           "url": "https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ"
-        },
-        {
-          "name": "Vory",
-          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
         }
       ],
-      "duration_ms": 173920,
-      "name": "Never Had This (feat. Vory)",
-      "url": "https://open.spotify.com/track/3xXTpfoDm9sLx4WzuV47XA"
+      "duration_ms": 62666,
+      "name": "Around",
+      "url": "https://open.spotify.com/track/3qKNMvtL3n3zin2b4DrpQR"
     }
   ],
   "unique_name": "This Is Chxrry",

@@ -4,7 +4,7 @@
 
 > you are feeling sleepy, just go to sleep 💤
 
-272 songs - 12 hr 53 min
+273 songs - 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [Velvet Skies](https://open.spotify.com/track/6vUoRuZPSJyULHJbLCy3ih) | [Center of Attention](https://open.spotify.com/artist/4xp0qN8C2Og0QbD3GxxfCs) | [Velvet Skies](https://open.spotify.com/album/2bTs88QOvEA7m1uJwfAxJE) | 2:34 | 2025-06-16 |  |
 | [visions of you](https://open.spotify.com/track/7MyzlbpGoB3SNS0uBHNFB5) | [Forrest Gomez](https://open.spotify.com/artist/1PHHfV4BP0QFgommlTuc6Q) | [visions of you](https://open.spotify.com/album/2MHUkGnn9nzIMlFz7bdJTx) | 2:29 | 2025-09-09 | 2026-05-19 |
 | [waiting still](https://open.spotify.com/track/32vjhjj5KWfVlHfCMg6yLs) | [NÒWN](https://open.spotify.com/artist/6HSIq0RQ7mhLiRGUu79kCm) | [waiting still](https://open.spotify.com/album/3pPwfIMqCdccz4NB99sSd0) | 2:26 | 2025-09-09 |  |
+| [Waning Moon](https://open.spotify.com/track/15UYwSZ7GbuLKAc0I0sXll) | [CMF](https://open.spotify.com/artist/4chgaW0MxXKKwtYvrkPCfn) | [If We're Apart, I’m Somewhere Missing You](https://open.spotify.com/album/48R1rKuzDjPYMsI8VxCfAL) | 5:05 | 2026-06-24 |  |
 | [warmth](https://open.spotify.com/track/6NflHj3pdGn2f68gLZB4e8) | [halfsoul](https://open.spotify.com/artist/4lbFdz2lQ1V2gAlmCvVuy0) | [warmth](https://open.spotify.com/album/1z5ecrrqFd9no12g7t6Hz0) | 1:26 | 2025-09-09 |  |
 | [Waterfalls](https://open.spotify.com/track/5ZmtBofitcnMfYxJgHrKtO) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Waterfalls](https://open.spotify.com/album/5oyxhOO2eBysNT7K5cZIvf) | 3:25 | 2025-02-28 |  |
 | [where do we go from now on](https://open.spotify.com/track/5MdW0f7jvNDYNCvjTBBcCz) | [NÒWN](https://open.spotify.com/artist/6HSIq0RQ7mhLiRGUu79kCm) | [where do we go from now on](https://open.spotify.com/album/0sKESV40emOQLCj8dETgnc) | 2:40 | 2026-02-23 | 2026-04-16 |

@@ -1,214 +1,478 @@
 {
-  "description": "This week: pumped for the world cup \u26bd\ufe0f Cover: Shakira",
-  "num_followers": 849395,
+  "description": "This week: main stage giants and songs that fill arenas Cover: Harry Styles",
+  "num_followers": 849362,
   "original_name": "Throwback Thursday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALhJFlcZ6Bs3YUJMKLZ6DvxGE8Xm",
+  "snapshot_id": "AAAAADdTJhb03Gt8QRQlOdS3pYcwnKEo",
   "tracks": [
     {
-      "added_at": "2026-06-18 10:55:30",
+      "added_at": "2026-06-24 23:00:10",
       "album": {
-        "name": "Three Lions (Football's Coming Home)",
-        "url": "https://open.spotify.com/album/6vOxOnQHYrXocGtFkbEx57"
+        "name": "Harry Styles",
+        "url": "https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV"
       },
       "artists": [
         {
-          "name": "Baddiel, Skinner & Lightning Seeds",
-          "url": "https://open.spotify.com/artist/3LtYMPncqtiugGwOuuLq3h"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 228360,
-      "name": "Three Lions (Football's Coming Home)",
-      "url": "https://open.spotify.com/track/0Ai6qtPfiEYGCqBGJYWD1W"
+      "duration_ms": 340706,
+      "name": "Sign of the Times",
+      "url": "https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN"
     },
     {
-      "added_at": "2026-06-18 10:55:30",
+      "added_at": "2026-06-24 23:00:10",
       "album": {
-        "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
-        "url": "https://open.spotify.com/album/3pzQF7YgU1f66pBayA8uHv"
+        "name": "Born In The Echoes",
+        "url": "https://open.spotify.com/album/36E5LAM5D3AKnVx8s5dyc6"
       },
       "artists": [
         {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
         },
         {
-          "name": "Freshlyground",
-          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
         }
       ],
-      "duration_ms": 202626,
-      "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
-      "url": "https://open.spotify.com/track/2Cd9iWfcOpGDHLz6tVA3G4"
+      "duration_ms": 260696,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE"
     },
     {
-      "added_at": "2026-06-18 10:55:30",
+      "added_at": "2026-06-24 23:00:10",
       "album": {
-        "name": "Tubthumper",
-        "url": "https://open.spotify.com/album/5yaumQgV6xGqCy014aOREt"
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
       "artists": [
         {
-          "name": "Chumbawamba",
-          "url": "https://open.spotify.com/artist/0TcYeHEK9sBtv7xPbKhzHz"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 278778,
-      "name": "Tubthumping",
-      "url": "https://open.spotify.com/track/22HYEJveCvykVDHDiEEmjZ"
+      "duration_ms": 242013,
+      "name": "drivers license",
+      "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
     },
     {
-      "added_at": "2026-06-18 10:55:30",
+      "added_at": "2026-06-24 23:00:10",
       "album": {
-        "name": "England Forever",
-        "url": "https://open.spotify.com/album/29ETRlKeWyADLEr6TNhHsG"
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
       },
       "artists": [
         {
-          "name": "Collapsed Lung",
-          "url": "https://open.spotify.com/artist/6sizjS3o8Ph8LoA8WzpXGY"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 170826,
-      "name": "Eat My Goal",
-      "url": "https://open.spotify.com/track/3ccYIUSw9tEslIaLpH791f"
+      "duration_ms": 220734,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt"
     },
     {
-      "added_at": "2026-06-18 10:55:30",
+      "added_at": "2026-06-24 23:00:10",
       "album": {
-        "name": "Come Into My Life (The Album)",
-        "url": "https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe"
+        "name": "My Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
       },
       "artists": [
         {
-          "name": "Gala",
-          "url": "https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         },
         {
-          "name": "Molella",
-          "url": "https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 236133,
+      "name": "Love Me Harder",
+      "url": "https://open.spotify.com/track/5J4ZkQpzMUFojo1CtAZYpn"
+    },
+    {
+      "added_at": "2026-06-24 23:00:10",
+      "album": {
+        "name": "Nothing Was The Same (Deluxe)",
+        "url": "https://open.spotify.com/album/2ZUFSbIkmFkGag000RWOpA"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
-          "name": "Phil Jay",
-          "url": "https://open.spotify.com/artist/2yUcByiqLsQiJgGKIn1xeb"
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
         }
       ],
-      "duration_ms": 213394,
-      "name": "Freed From Desire",
-      "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
+      "duration_ms": 227880,
+      "name": "Hold On, We're Going Home",
+      "url": "https://open.spotify.com/track/6jdOi5U5LBzQrc4c1VT983"
     },
     {
-      "added_at": "2026-06-18 10:55:30",
+      "added_at": "2026-06-24 23:00:10",
       "album": {
-        "name": "Wavin' Flag (International Version Coca-Cola\u00ae Celebration Mix)",
-        "url": "https://open.spotify.com/album/4AxYH62dOx4jWwvWVGbh6Q"
+        "name": "Hypersonic Missiles",
+        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
       },
       "artists": [
         {
-          "name": "K'NAAN",
-          "url": "https://open.spotify.com/artist/7pGyQZx9thVa8GxMBeXscB"
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
         }
       ],
-      "duration_ms": 212506,
-      "name": "Wavin' Flag - Coca-Cola\u00ae Celebration Mix",
-      "url": "https://open.spotify.com/track/6WFQsZZa81anp9BkqZMyTb"
+      "duration_ms": 237986,
+      "name": "Hypersonic Missiles",
+      "url": "https://open.spotify.com/track/6CltzquypraYIlWFp48m1O"
     },
     {
-      "added_at": "2026-06-18 10:55:30",
+      "added_at": "2026-06-24 23:00:10",
       "album": {
-        "name": "Carnaval de Paris",
-        "url": "https://open.spotify.com/album/0wevT1LD6VQtghix2apQgQ"
+        "name": "Confessions on a Dance Floor",
+        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
       },
       "artists": [
         {
-          "name": "Dario G",
-          "url": "https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 232653,
-      "name": "Carnaval de Paris - Radio Mix",
-      "url": "https://open.spotify.com/track/59mdyQniSaNFeXaKMGu9RB"
+      "duration_ms": 337733,
+      "name": "Hung Up",
+      "url": "https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH"
     },
     {
-      "added_at": "2026-06-18 10:55:30",
+      "added_at": "2026-06-24 23:00:10",
       "album": {
-        "name": "Vindaloo",
-        "url": "https://open.spotify.com/album/516PzWSkrAALZ6gft6l7oi"
+        "name": "(What's The Story) Morning Glory?",
+        "url": "https://open.spotify.com/album/2u30gztZTylY4RG7IvfXs8"
       },
       "artists": [
         {
-          "name": "Fat Les",
-          "url": "https://open.spotify.com/artist/4BHU68IINW0fZNRIvSOir5"
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 221000,
-      "name": "Vindaloo",
-      "url": "https://open.spotify.com/track/6rok0MW3ze4KBEng4ZBAna"
+      "duration_ms": 258906,
+      "name": "Wonderwall",
+      "url": "https://open.spotify.com/track/1qPbGZqppFwLwcBC1JQ6Vr"
     },
     {
-      "added_at": "2026-06-18 10:55:30",
+      "added_at": "2026-06-24 23:00:10",
       "album": {
-        "name": "Southgate You're the One (Football's Coming Home Again)",
-        "url": "https://open.spotify.com/album/4MXJZjxt3Rqw4hLWq3HclI"
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
       },
       "artists": [
         {
-          "name": "Atomic Kitten",
-          "url": "https://open.spotify.com/artist/6JMHws5haIO6V35YNYDnDw"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 187050,
-      "name": "Southgate You're the One (Football's Coming Home Again)",
-      "url": "https://open.spotify.com/track/2d7hZirnGQ9zu8TODdqVV8"
+      "duration_ms": 233720,
+      "name": "Love Yourself",
+      "url": "https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0"
     },
     {
-      "added_at": "2026-06-18 10:55:30",
+      "added_at": "2026-06-24 23:00:10",
       "album": {
-        "name": "Greatest - DJ \u00d6tzi",
-        "url": "https://open.spotify.com/album/62MBPRkJ1mg75WoBNLnRHR"
+        "name": "A Head Full of Dreams",
+        "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
       },
       "artists": [
         {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 218773,
-      "name": "Hey Baby (Uhh, Ahh)",
-      "url": "https://open.spotify.com/track/6LRhfKP8E7q0XEufBUgc2R"
+      "duration_ms": 263786,
+      "name": "Adventure of a Lifetime",
+      "url": "https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M"
     },
     {
-      "added_at": "2026-06-18 10:55:30",
+      "added_at": "2026-06-24 23:00:10",
       "album": {
-        "name": "Shout (feat. Dizzee Rascal & James Corden)",
-        "url": "https://open.spotify.com/album/4Re2WBiGw5VTBNZdc3to5Q"
+        "name": "SUCKER",
+        "url": "https://open.spotify.com/album/0DgLboDoKVcueitwtpQxe2"
       },
       "artists": [
         {
-          "name": "Shout for England",
-          "url": "https://open.spotify.com/artist/0GGwQi1Nhgklz3kwJ1holE"
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 169866,
+      "name": "Boom Clap",
+      "url": "https://open.spotify.com/track/3x2YIvkLcxvZQsA5x6xyIR"
+    },
+    {
+      "added_at": "2026-06-24 23:00:10",
+      "album": {
+        "name": "Young And Beautiful",
+        "url": "https://open.spotify.com/album/1D92WOHWUI2AGQCCdplcXL"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 236053,
+      "name": "Young And Beautiful",
+      "url": "https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9"
+    },
+    {
+      "added_at": "2026-06-24 23:00:10",
+      "album": {
+        "name": "Inside In / Inside Out",
+        "url": "https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY"
+      },
+      "artists": [
+        {
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "duration_ms": 203506,
+      "name": "Naive",
+      "url": "https://open.spotify.com/track/7BHPGtpuuWWsvE7cCaMuEU"
+    },
+    {
+      "added_at": "2026-06-24 23:00:10",
+      "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/5duyQokC4FMcWPYTV9Gpf9"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 242973,
+      "name": "Set Fire to the Rain",
+      "url": "https://open.spotify.com/track/3di5hcvxxciiqwMH1jarhY"
+    },
+    {
+      "added_at": "2026-06-24 23:00:10",
+      "album": {
+        "name": "18 Months",
+        "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "duration_ms": 206413,
+      "name": "Feel So Close - Radio Edit",
+      "url": "https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc"
+    },
+    {
+      "added_at": "2026-06-24 23:00:10",
+      "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
-          "name": "Dizzee Rascal",
-          "url": "https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv"
-        },
-        {
-          "name": "James Corden",
-          "url": "https://open.spotify.com/artist/5E17eRqSfn08FsmvNCds0P"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 202560,
-      "name": "Shout (feat. Dizzee Rascal & James Corden)",
-      "url": "https://open.spotify.com/track/7eKZAIfTm7gAPULBw0UP6o"
+      "duration_ms": 206420,
+      "name": "La Santa",
+      "url": "https://open.spotify.com/track/69vlMrzHwATKzupwNcUPyK"
     },
     {
-      "added_at": "2026-06-18 10:55:30",
+      "added_at": "2026-06-24 23:00:10",
       "album": {
-        "name": "This One's for You (feat. Zara Larsson) [Official Song UEFA EURO 2016]",
-        "url": "https://open.spotify.com/album/7EvlnQaVuUuFLIeSuE6nRq"
+        "name": "I AM...SASHA FIERCE - Platinum Edition",
+        "url": "https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 249866,
+      "name": "If I Were a Boy",
+      "url": "https://open.spotify.com/track/1oQZk2bKBLgP1cbuFKvjkq"
+    },
+    {
+      "added_at": "2026-06-24 23:00:10",
+      "album": {
+        "name": "One (Your Name)",
+        "url": "https://open.spotify.com/album/5aLY2ivPGXvFX770ihBnmd"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 163246,
+      "name": "One (Your Name) - Radio Edit",
+      "url": "https://open.spotify.com/track/6iznpTNBnljkbP0WtAfn50"
+    },
+    {
+      "added_at": "2026-06-24 23:00:10",
+      "album": {
+        "name": "Recovery",
+        "url": "https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 263373,
+      "name": "Love The Way You Lie",
+      "url": "https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED"
+    },
+    {
+      "added_at": "2026-06-24 23:00:10",
+      "album": {
+        "name": "Come On Over (Diamond Edition / Super Deluxe)",
+        "url": "https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 212224,
+      "name": "You're Still The One",
+      "url": "https://open.spotify.com/track/3x2ksaXI6EZUWidE2BiLXy"
+    },
+    {
+      "added_at": "2026-06-24 23:00:10",
+      "album": {
+        "name": "The Blueprint 3",
+        "url": "https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX"
+      },
+      "artists": [
+        {
+          "name": "JA\u0178-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 276920,
+      "name": "Empire State Of Mind",
+      "url": "https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO"
+    },
+    {
+      "added_at": "2026-06-24 23:00:10",
+      "album": {
+        "name": "The Fame",
+        "url": "https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 208306,
+      "name": "Paparazzi",
+      "url": "https://open.spotify.com/track/02XnQdf7sipaKBBHixz3Zp"
+    },
+    {
+      "added_at": "2026-06-24 23:00:10",
+      "album": {
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "HUMBLE.",
+      "url": "https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS"
+    },
+    {
+      "added_at": "2026-06-24 23:00:10",
+      "album": {
+        "name": "Day & Age (Bonus Tracks)",
+        "url": "https://open.spotify.com/album/0Ug5scDXUIgGN8yanDBLQw"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 245373,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/1sTsuZTdANkiFd7T34H3nb"
+    },
+    {
+      "added_at": "2026-06-24 23:00:10",
+      "album": {
+        "name": "Pablo Honey",
+        "url": "https://open.spotify.com/album/6400dnyeDyD2mIFHfkwHXN"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 238640,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/6b2oQwSGFkzsMtQruIWm2p"
+    },
+    {
+      "added_at": "2026-06-24 23:00:10",
+      "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 261153,
+      "name": "Castle on the Hill",
+      "url": "https://open.spotify.com/track/6PCUP3dWmTjcTtXY02oFdT"
+    },
+    {
+      "added_at": "2026-06-24 23:00:10",
+      "album": {
+        "name": "One More Love",
+        "url": "https://open.spotify.com/album/6PXqQOVeSTmA90oXv1iw32"
       },
       "artists": [
         {
@@ -216,371 +480,351 @@
           "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
         }
       ],
-      "duration_ms": 207272,
-      "name": "This One's for You (feat. Zara Larsson) (Official Song UEFA EURO 2016)",
-      "url": "https://open.spotify.com/track/46NBoIAHrmR7qcUGCIFEjR"
+      "duration_ms": 210093,
+      "name": "Memories (feat. Kid Cudi)",
+      "url": "https://open.spotify.com/track/5mQxnUb7XbV9vyYIGn5L0g"
     },
     {
-      "added_at": "2026-06-18 10:55:30",
+      "added_at": "2026-06-24 23:00:10",
       "album": {
-        "name": "Live It Up (Official Song 2018 FIFA World Cup Russia)",
-        "url": "https://open.spotify.com/album/1oxKlNFmKZ4heJRiBP0Sny"
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
       },
       "artists": [
         {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 234652,
+      "name": "Green Light",
+      "url": "https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb"
+    },
+    {
+      "added_at": "2026-06-24 23:00:10",
+      "album": {
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 215280,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb"
+    },
+    {
+      "added_at": "2026-06-24 23:00:10",
+      "album": {
+        "name": "Lungs (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 252818,
+      "name": "Dog Days Are Over",
+      "url": "https://open.spotify.com/track/456WNXWhDwYOSf5SpTuqxd"
+    },
+    {
+      "added_at": "2026-06-24 23:00:10",
+      "album": {
+        "name": "Random Access Memories",
+        "url": "https://open.spotify.com/album/2bhYZTFBsnB3IXItHQBmUV"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
         },
         {
-          "name": "Will Smith",
-          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
         },
         {
-          "name": "Era Istrefi",
-          "url": "https://open.spotify.com/artist/4poL7YCSkG7kMnWjAdDU91"
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
         }
       ],
-      "duration_ms": 207977,
-      "name": "Live It Up - Official Song 2018 FIFA World Cup Russia",
-      "url": "https://open.spotify.com/track/4DnHUy01jEA4b5ydC3HgsT"
+      "duration_ms": 369614,
+      "name": "Get Lucky (feat. Pharrell Williams and Nile Rodgers)",
+      "url": "https://open.spotify.com/track/66xHyI6ITToQPm7PdOzIyn"
     },
     {
-      "added_at": "2026-06-18 10:55:30",
+      "added_at": "2026-06-24 23:00:10",
       "album": {
-        "name": "Samba de Janeiro",
-        "url": "https://open.spotify.com/album/5TfIXTpntvzKhPPH7JBBoR"
+        "name": "The Suburbs Deluxe",
+        "url": "https://open.spotify.com/album/76Rnn8D33IjnJxv4hQdmRX"
       },
       "artists": [
         {
-          "name": "Bellini",
-          "url": "https://open.spotify.com/artist/2CzPCLry0VHxB4JNva2du6"
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
         }
       ],
-      "duration_ms": 168444,
-      "name": "Samba de Janeiro",
-      "url": "https://open.spotify.com/track/5aIfLbdgkbH7NbQryd1poB"
+      "duration_ms": 315026,
+      "name": "The Suburbs",
+      "url": "https://open.spotify.com/track/7HCj6qN0tG2HN1eLQyWUBg"
     },
     {
-      "added_at": "2026-06-18 10:55:30",
+      "added_at": "2026-06-24 23:00:10",
       "album": {
-        "name": "Globalization",
-        "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
       },
       "artists": [
         {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 183290,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62"
+    },
+    {
+      "added_at": "2026-06-24 23:00:10",
+      "album": {
+        "name": "Whatever People Say I Am, That's What I'm Not",
+        "url": "https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 173680,
+      "name": "I Bet You Look Good On The Dancefloor",
+      "url": "https://open.spotify.com/track/3DQVgcqaP3iSMbaKsd57l5"
+    },
+    {
+      "added_at": "2026-06-24 23:00:10",
+      "album": {
+        "name": "Gang Signs & Prayer",
+        "url": "https://open.spotify.com/album/5fkFWJ9LZizXE4yPenNGuy"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 238418,
+      "name": "Big For Your Boots",
+      "url": "https://open.spotify.com/track/3uMB82o0qa7erhiZBW9KQC"
+    },
+    {
+      "added_at": "2026-06-24 23:00:10",
+      "album": {
+        "name": "Night Visions",
+        "url": "https://open.spotify.com/album/6nxDQi0FeEwccEPJeNySoS"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 177506,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/5qaEfEh1AtSdrdrByCP7qR"
+    },
+    {
+      "added_at": "2026-06-24 23:00:10",
+      "album": {
+        "name": "Black Holes and Revelations",
+        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 212439,
+      "name": "Supermassive Black Hole",
+      "url": "https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9"
+    },
+    {
+      "added_at": "2026-06-24 23:00:10",
+      "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 194087,
+      "name": "bad guy",
+      "url": "https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m"
+    },
+    {
+      "added_at": "2026-06-24 23:00:10",
+      "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         },
         {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 230453,
+      "name": "Starboy",
+      "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
+    },
+    {
+      "added_at": "2026-06-24 23:00:10",
+      "album": {
+        "name": "Demon Days",
+        "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         },
         {
-          "name": "Claudia Leitte",
-          "url": "https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp"
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
         }
       ],
-      "duration_ms": 222559,
-      "name": "We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song] (feat. Jennifer Lopez & Claudia Leitte)",
-      "url": "https://open.spotify.com/track/1PCvKFPWnTXAe2oaReVUcr"
+      "duration_ms": 222640,
+      "name": "Feel Good Inc.",
+      "url": "https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT"
     },
     {
-      "added_at": "2026-06-18 10:55:30",
+      "added_at": "2026-06-24 23:00:10",
       "album": {
-        "name": "Danza Kuduro 2019 (Luigi Ramirez Remix)",
-        "url": "https://open.spotify.com/album/7E4AuTXQYKaC0kOBq5rSr9"
+        "name": "1989 (Big Machine Radio Release Special)",
+        "url": "https://open.spotify.com/album/6EsTJnpahwW6xX20zvqQgZ"
       },
       "artists": [
         {
-          "name": "Lucenzo",
-          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Style",
+      "url": "https://open.spotify.com/track/4D7kxLhSz7siCOw7KA5rQn"
+    },
+    {
+      "added_at": "2026-06-24 23:00:10",
+      "album": {
+        "name": "AT.LONG.LAST.A$AP",
+        "url": "https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
         },
         {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        }
-      ],
-      "duration_ms": 196099,
-      "name": "Danza Kuduro",
-      "url": "https://open.spotify.com/track/0rCxlp7KdpW1JR8uG6Uno0"
-    },
-    {
-      "added_at": "2026-06-18 10:55:30",
-      "album": {
-        "name": "News Of The World (2011 Remaster)",
-        "url": "https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "We Are The Champions - Remastered 2011",
-      "url": "https://open.spotify.com/track/1lCRw5FEZ1gPDNPzy1K4zW"
-    },
-    {
-      "added_at": "2026-06-18 10:55:30",
-      "album": {
-        "name": "Sweet Caroline",
-        "url": "https://open.spotify.com/album/6RfgcwsOUlWkGNAd6zjjYd"
-      },
-      "artists": [
-        {
-          "name": "Neil Diamond",
-          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
-        }
-      ],
-      "duration_ms": 203573,
-      "name": "Sweet Caroline",
-      "url": "https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV"
-    },
-    {
-      "added_at": "2026-06-18 10:55:30",
-      "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/06RhYSAgH9jdM6j1iaDcv0"
-      },
-      "artists": [
-        {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
         },
         {
-          "name": "JIHYO",
-          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
         },
         {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Adriana C",
-          "url": "https://open.spotify.com/artist/7oBUfgdK5Q8PBdT9QsTgHE"
-        },
-        {
-          "name": "RedOne",
-          "url": "https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx"
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
         }
       ],
-      "duration_ms": 232941,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/7EqulVHbWDM0SR2e2IFpDv"
+      "duration_ms": 260990,
+      "name": "Everyday (feat. Rod Stewart, Miguel & Mark Ronson)",
+      "url": "https://open.spotify.com/track/2N3U8uTYhjX2KwGT0pf5x0"
     },
     {
-      "added_at": "2026-06-18 10:55:30",
+      "added_at": "2026-06-24 23:00:10",
       "album": {
-        "name": "Parado no Bail\u00e3o",
-        "url": "https://open.spotify.com/album/4OZ9djo9HM9hIQtjY2NBLa"
+        "name": "Blurryface",
+        "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
       },
       "artists": [
         {
-          "name": "MC L da Vinte",
-          "url": "https://open.spotify.com/artist/0lHB0Qc4pmD5RkTLlHeESo"
-        },
-        {
-          "name": "MC Gury",
-          "url": "https://open.spotify.com/artist/6fOyYqdh6p0ZWLs9zUDoyt"
-        },
-        {
-          "name": "DJ Swat",
-          "url": "https://open.spotify.com/artist/3JrsRa8z1Pngkkf4pDrokD"
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 171692,
-      "name": "Parado no Bail\u00e3o",
-      "url": "https://open.spotify.com/track/3Hb9kUdm4yf839Fle4RIdT"
+      "duration_ms": 202333,
+      "name": "Stressed Out",
+      "url": "https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn"
     },
     {
-      "added_at": "2026-06-18 10:55:30",
+      "added_at": "2026-06-24 23:00:10",
       "album": {
-        "name": "Elephant",
-        "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
       "artists": [
         {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 232106,
-      "name": "Seven Nation Army",
-      "url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR"
+      "duration_ms": 172626,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
     },
     {
-      "added_at": "2026-06-18 10:55:30",
+      "added_at": "2026-06-24 23:00:10",
       "album": {
-        "name": "Colors (Coca-Cola\u00ae Anthem, 2018 FIFA World CupTM)",
-        "url": "https://open.spotify.com/album/7pglizAVl7fH7acLADSS8d"
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
       },
       "artists": [
         {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         }
       ],
-      "duration_ms": 187389,
-      "name": "Colors - Coca-Cola\u00ae Anthem, 2018 FIFA World CupTM",
-      "url": "https://open.spotify.com/track/7wD6iRghe6SnKHkvHqpnC5"
+      "duration_ms": 248807,
+      "name": "White Ferrari",
+      "url": "https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV"
     },
     {
-      "added_at": "2026-06-18 10:55:30",
+      "added_at": "2026-06-24 23:00:10",
       "album": {
-        "name": "90s Pride",
-        "url": "https://open.spotify.com/album/6UUZ2aCfKJFJ2Zg2KKedMa"
+        "name": "No Need To Argue (2025 Remastered)",
+        "url": "https://open.spotify.com/album/6E2UIe7qUVYi6v2fVbGddX"
       },
       "artists": [
         {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
         }
       ],
-      "duration_ms": 304080,
-      "name": "Go West",
-      "url": "https://open.spotify.com/track/0D2t9hxLR86LXCTjSngqyC"
+      "duration_ms": 305626,
+      "name": "Zombie - 2025 Remastered",
+      "url": "https://open.spotify.com/track/3gjHnylel3PTRpjS44ocqr"
     },
     {
-      "added_at": "2026-06-18 10:55:30",
+      "added_at": "2026-06-24 23:00:10",
       "album": {
-        "name": "Can You Hear Me",
-        "url": "https://open.spotify.com/album/7ezpYfIuVG2dTWXR88EMmJ"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 222480,
-      "name": "Can You Hear Me",
-      "url": "https://open.spotify.com/track/4vJLvSA46n3I1yVA0EBYzX"
-    },
-    {
-      "added_at": "2026-06-18 10:55:30",
-      "album": {
-        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
-        "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 289133,
-      "name": "I Gotta Feeling",
-      "url": "https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR"
-    },
-    {
-      "added_at": "2026-06-18 10:55:30",
-      "album": {
-        "name": "Ricky Martin",
-        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 277426,
-      "name": "La Copa de la Vida (La Cancion Oficial de la Copa Mundial, Francia '98) - Spanglish Radio Edit",
-      "url": "https://open.spotify.com/track/0KnZ3Fgnqjmz4Sl2OA5zwa"
-    },
-    {
-      "added_at": "2026-06-18 10:55:30",
-      "album": {
-        "name": "My Type",
-        "url": "https://open.spotify.com/album/3FkPbizteyMJfT2tLyvnkE"
-      },
-      "artists": [
-        {
-          "name": "Saint Motel",
-          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
-        }
-      ],
-      "duration_ms": 206393,
-      "name": "My Type",
-      "url": "https://open.spotify.com/track/2DFi8rwHcVkTTgu7PULhtI"
-    },
-    {
-      "added_at": "2026-06-18 10:55:30",
-      "album": {
-        "name": "Kernkraft 400 Single Mixes",
-        "url": "https://open.spotify.com/album/2qmrRoUZQemrKFr9PBMDHd"
-      },
-      "artists": [
-        {
-          "name": "Zombie Nation",
-          "url": "https://open.spotify.com/artist/7vFpNLbCXbBFs4kFBUlkSl"
-        }
-      ],
-      "duration_ms": 285173,
-      "name": "Kernkraft 400",
-      "url": "https://open.spotify.com/track/6PUzxtIHkv346yP89NzP9X"
-    },
-    {
-      "added_at": "2026-06-18 10:55:30",
-      "album": {
-        "name": "The World Is Ours (Coca-Cola 2014 World's Cup Anthem)",
-        "url": "https://open.spotify.com/album/4sIDoxshMRh5RC5XX1DXCd"
-      },
-      "artists": [
-        {
-          "name": "Aloe Blacc X David Correy",
-          "url": "https://open.spotify.com/artist/4Nx36PEzJoS5uSPoYZ7E5B"
-        }
-      ],
-      "duration_ms": 174880,
-      "name": "The World Is Ours (Coca-Cola 2014 World's Cup Anthem)",
-      "url": "https://open.spotify.com/track/3C4w6xn8ywZX6tPY110Avs"
-    },
-    {
-      "added_at": "2026-06-18 10:55:30",
-      "album": {
-        "name": "Africainement v\u00f4tre",
-        "url": "https://open.spotify.com/album/7CbbTg0ujpAaeLvEvk8JqS"
-      },
-      "artists": [
-        {
-          "name": "Magic System",
-          "url": "https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F"
-        },
-        {
-          "name": "Chawki",
-          "url": "https://open.spotify.com/artist/79b2ipSR68Uf9EzA438KZt"
-        }
-      ],
-      "duration_ms": 233693,
-      "name": "Magic in the Air (feat. Ahmed Chawki)",
-      "url": "https://open.spotify.com/track/3s6ltUrI93LBKU8taezsLn"
-    },
-    {
-      "added_at": "2026-06-18 10:55:30",
-      "album": {
-        "name": "Tribute",
-        "url": "https://open.spotify.com/album/2Bgfdyrywv3KEe0WwZdb0V"
-      },
-      "artists": [
-        {
-          "name": "John Newman",
-          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
-        }
-      ],
-      "duration_ms": 239894,
-      "name": "Love Me Again",
-      "url": "https://open.spotify.com/track/5TbzAWWc5eJaANpA9kfGCd"
-    },
-    {
-      "added_at": "2026-06-18 10:55:30",
-      "album": {
-        "name": "All That You Can't Leave Behind",
-        "url": "https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN"
+        "name": "Achtung Baby",
+        "url": "https://open.spotify.com/album/3hErePSImi79vYHrSmypGw"
       },
       "artists": [
         {
@@ -588,417 +832,41 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 248400,
-      "name": "Beautiful Day",
-      "url": "https://open.spotify.com/track/0gzqZ9d1jIKo9psEIthwXe"
+      "duration_ms": 276186,
+      "name": "One",
+      "url": "https://open.spotify.com/track/3PKtemUKxiDBvBo7tpQ8bG"
     },
     {
-      "added_at": "2026-06-18 10:55:30",
+      "added_at": "2026-06-24 23:00:10",
       "album": {
-        "name": "Blur: The Best Of",
-        "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
+        "name": "The 20/20 Experience (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu"
       },
       "artists": [
         {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         }
       ],
-      "duration_ms": 121880,
-      "name": "Song 2",
-      "url": "https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK"
+      "duration_ms": 485598,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/4rHZZAmHpZrA3iH5zx8frV"
     },
     {
-      "added_at": "2026-06-18 10:55:30",
+      "added_at": "2026-06-24 23:00:10",
       "album": {
-        "name": "The Best of Jeff Beck",
-        "url": "https://open.spotify.com/album/5HyIzVed87uFCnyMhB8vfZ"
+        "name": "Need You Now",
+        "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
       },
       "artists": [
         {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
         }
       ],
-      "duration_ms": 176440,
-      "name": "Hi Ho Silver Lining",
-      "url": "https://open.spotify.com/track/0l6vPbNky56gut034Ye7aj"
-    },
-    {
-      "added_at": "2026-06-18 10:55:30",
-      "album": {
-        "name": "Life Thru A Lens",
-        "url": "https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN"
-      },
-      "artists": [
-        {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Let Me Entertain You",
-      "url": "https://open.spotify.com/track/0SLtqCrXBRrnkxSOMA3X4W"
-    },
-    {
-      "added_at": "2026-06-18 10:55:30",
-      "album": {
-        "name": "Euro IV Ever",
-        "url": "https://open.spotify.com/album/6gXNjA5wdBmbNhXtCjUz5b"
-      },
-      "artists": [
-        {
-          "name": "E-Type",
-          "url": "https://open.spotify.com/artist/53I4RAzuXWvaO1vzrCBJbD"
-        }
-      ],
-      "duration_ms": 213413,
-      "name": "Campione 2000 - Radio Version",
-      "url": "https://open.spotify.com/track/78UcxP3Xm0EOXneQUDsStA"
-    },
-    {
-      "added_at": "2026-06-18 10:55:30",
-      "album": {
-        "name": "Luciano Pavarotti, Vol. 2",
-        "url": "https://open.spotify.com/album/6v99dRGt8EWIhtPHV5CnOJ"
-      },
-      "artists": [
-        {
-          "name": "Luciano Pavarotti",
-          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
-        }
-      ],
-      "duration_ms": 183666,
-      "name": "Nessun Dorma",
-      "url": "https://open.spotify.com/track/1TbuDl6GklIG7zy5fSiNni"
-    },
-    {
-      "added_at": "2026-06-18 10:55:30",
-      "album": {
-        "name": "The Best of New Order",
-        "url": "https://open.spotify.com/album/6cjugjFHB3T1alJxAffyxQ"
-      },
-      "artists": [
-        {
-          "name": "New Order",
-          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
-        }
-      ],
-      "duration_ms": 270826,
-      "name": "World in Motion",
-      "url": "https://open.spotify.com/track/08po8QZK3tihnLBZWATAki"
-    },
-    {
-      "added_at": "2026-06-18 10:55:30",
-      "album": {
-        "name": "Europop",
-        "url": "https://open.spotify.com/album/54vbD17F1t5q3yHkj1cX37"
-      },
-      "artists": [
-        {
-          "name": "Eiffel 65",
-          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 283747,
-      "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
-      "url": "https://open.spotify.com/track/2yAVzRiEQooPEJ9SYx11L3"
-    },
-    {
-      "added_at": "2026-06-18 10:55:30",
-      "album": {
-        "name": "Elvis 30 #1 Hits",
-        "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        },
-        {
-          "name": "Junkie XL",
-          "url": "https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN"
-        }
-      ],
-      "duration_ms": 213240,
-      "name": "A Little Less Conversation - JXL Radio Edit Remix",
-      "url": "https://open.spotify.com/track/7FNIEfhhBlzsZFxCwI5Nwh"
-    },
-    {
-      "added_at": "2026-06-18 10:55:30",
-      "album": {
-        "name": "Before the Storm",
-        "url": "https://open.spotify.com/album/5GnRROSFWQhuxfDkyBALGb"
-      },
-      "artists": [
-        {
-          "name": "Darude",
-          "url": "https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ"
-        }
-      ],
-      "duration_ms": 225666,
-      "name": "Sandstorm",
-      "url": "https://open.spotify.com/track/3dxDj8pDPlIHCIrUPXuCeG"
-    },
-    {
-      "added_at": "2026-06-18 10:55:30",
-      "album": {
-        "name": "We're on the Ball (Official England Song for the 2002 Fifa World Cup)",
-        "url": "https://open.spotify.com/album/1fjVc0TFR32FwCGdSt3ZRs"
-      },
-      "artists": [
-        {
-          "name": "Ant & Dec",
-          "url": "https://open.spotify.com/artist/2gmeFH5Iz8UEA7K0OHDePQ"
-        }
-      ],
-      "duration_ms": 179426,
-      "name": "We're on the Ball - Official England Song for the 2002 Fifa World Cup",
-      "url": "https://open.spotify.com/track/0t89iD70mn0p4yHYMDIC0T"
-    },
-    {
-      "added_at": "2026-06-18 10:55:30",
-      "album": {
-        "name": "Born Slippy (Nuxx) [Radio Edit]",
-        "url": "https://open.spotify.com/album/6p7gQ5S39dLxMvyqqnP9Qd"
-      },
-      "artists": [
-        {
-          "name": "Underworld",
-          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
-        }
-      ],
-      "duration_ms": 264187,
-      "name": "Born Slippy (Nuxx) - Radio Edit",
-      "url": "https://open.spotify.com/track/3bUNyRrTFJDd4mqvUcb1Aa"
-    },
-    {
-      "added_at": "2026-06-18 10:55:30",
-      "album": {
-        "name": "Ol\u00e9 (We Are England) (feat. Morrisson)",
-        "url": "https://open.spotify.com/album/6j7MTI813ggUwZ02Y8etvB"
-      },
-      "artists": [
-        {
-          "name": "Krept & Konan",
-          "url": "https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE"
-        },
-        {
-          "name": "S1lva",
-          "url": "https://open.spotify.com/artist/22LHFHHASPvdi72ZY9uWGP"
-        },
-        {
-          "name": "M1llionz",
-          "url": "https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq"
-        },
-        {
-          "name": "Morrisson",
-          "url": "https://open.spotify.com/artist/3bn93QEHOITZ4ARuiZdfRA"
-        }
-      ],
-      "duration_ms": 259242,
-      "name": "Ol\u00e9 (We Are England) (feat. Morrisson)",
-      "url": "https://open.spotify.com/track/4AWzHLkxutS3Z4bds6ndVt"
-    },
-    {
-      "added_at": "2026-06-18 10:55:30",
-      "album": {
-        "name": "Pa\u00eds do Futebol",
-        "url": "https://open.spotify.com/album/7DAKbgEabUfwJwztyMp009"
-      },
-      "artists": [
-        {
-          "name": "MC Guim\u00ea",
-          "url": "https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 149002,
-      "name": "Pa\u00eds do Futebol",
-      "url": "https://open.spotify.com/track/7AD7hNwGOOSRe33QtnyprD"
-    },
-    {
-      "added_at": "2026-06-18 10:55:30",
-      "album": {
-        "name": "Together Stronger (C'mon Wales)",
-        "url": "https://open.spotify.com/album/4tFzKvq6nyasqVmnmG0fGE"
-      },
-      "artists": [
-        {
-          "name": "Manic Street Preachers",
-          "url": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
-        }
-      ],
-      "duration_ms": 227800,
-      "name": "Together Stronger (C'mon Wales)",
-      "url": "https://open.spotify.com/track/2DcXYmH182Y5y7SUQaANfe"
-    },
-    {
-      "added_at": "2026-06-18 10:55:30",
-      "album": {
-        "name": "The Very Best Of Gerry & Pacemakers",
-        "url": "https://open.spotify.com/album/3OCG92zQDHdHMBRSoRR6jH"
-      },
-      "artists": [
-        {
-          "name": "Gerry & The Pacemakers",
-          "url": "https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8"
-        }
-      ],
-      "duration_ms": 159546,
-      "name": "You'll Never Walk Alone",
-      "url": "https://open.spotify.com/track/6fSNK6QlZskYmKTvJnNH5P"
-    },
-    {
-      "added_at": "2026-06-18 10:55:30",
-      "album": {
-        "name": "Sense",
-        "url": "https://open.spotify.com/album/1HftoId1N1sLdKABnqbbMh"
-      },
-      "artists": [
-        {
-          "name": "The Lightning Seeds",
-          "url": "https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "The Life Of Riley",
-      "url": "https://open.spotify.com/track/5RDotTHl1TmgoBykuObt3g"
-    },
-    {
-      "added_at": "2026-06-18 10:55:30",
-      "album": {
-        "name": "You'll Never Walk Alone",
-        "url": "https://open.spotify.com/album/1rxwBniH3KdsiHLebDlVMg"
-      },
-      "artists": [
-        {
-          "name": "Brize-E and the Anfield Posse",
-          "url": "https://open.spotify.com/artist/3R4kWHqvuzDhilPtCfXBLb"
-        }
-      ],
-      "duration_ms": 308306,
-      "name": "Anfield Rap'96",
-      "url": "https://open.spotify.com/track/44Y9535mz8HMdQ8huq1wMX"
-    },
-    {
-      "added_at": "2026-06-18 10:55:30",
-      "album": {
-        "name": "Folklore",
-        "url": "https://open.spotify.com/album/0n5YYYnL8cjKL2E7fmu1lu"
-      },
-      "artists": [
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        }
-      ],
-      "duration_ms": 220346,
-      "name": "For\u00e7a",
-      "url": "https://open.spotify.com/track/6ildNZ9Dv8KMKxEyIYCTcw"
-    },
-    {
-      "added_at": "2026-06-18 10:55:30",
-      "album": {
-        "name": "We've Got Salah (Liverpool Song)",
-        "url": "https://open.spotify.com/album/2h0skiEI9tvTrRyYx3AYCd"
-      },
-      "artists": [
-        {
-          "name": "Kevin Murphy",
-          "url": "https://open.spotify.com/artist/13a7HuUGDXDWE6RZgwEa8C"
-        },
-        {
-          "name": "Marc Kenny",
-          "url": "https://open.spotify.com/artist/15feBXQiS79WGMG139Phem"
-        }
-      ],
-      "duration_ms": 150730,
-      "name": "We've Got Salah (Liverpool Song)",
-      "url": "https://open.spotify.com/track/180ELDg32ahpt5vxqtHRoz"
-    },
-    {
-      "added_at": "2026-06-18 10:55:30",
-      "album": {
-        "name": "Tatu Bom de Bola (The Official 2014 FIFA World Cup Mascot Song)",
-        "url": "https://open.spotify.com/album/4f35WxC3fgS2N6IWrfStkm"
-      },
-      "artists": [
-        {
-          "name": "Arlindo Cruz",
-          "url": "https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP"
-        }
-      ],
-      "duration_ms": 201386,
-      "name": "Tatu Bom de Bola (The Official 2014 FIFA World Cup Mascot Song)",
-      "url": "https://open.spotify.com/track/4ZrPTE0IOnCeT9MXjESVdP"
-    },
-    {
-      "added_at": "2026-06-18 10:55:30",
-      "album": {
-        "name": "Anthem (The 2002 FIFA World Cup Official Anthem)",
-        "url": "https://open.spotify.com/album/2MMZlVGEcUFnAmBuNu7j9D"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        },
-        {
-          "name": "Blake Neely",
-          "url": "https://open.spotify.com/artist/4UOzqO0jZUrTiTunfBw4tp"
-        },
-        {
-          "name": "Heikki Liimatainen",
-          "url": "https://open.spotify.com/artist/6RZb7D7nJgXdxEK1KECyCi"
-        },
-        {
-          "name": "Jaakko Salovaara",
-          "url": "https://open.spotify.com/artist/2h05BPlltEH5CrFzvLRb89"
-        }
-      ],
-      "duration_ms": 224306,
-      "name": "Anthem (The 2002 FIFA World Cup Official Anthem) [JS Radio Edit]",
-      "url": "https://open.spotify.com/track/5mD7U1UEVFwp1rUDLuPyVz"
-    },
-    {
-      "added_at": "2026-06-18 10:55:30",
-      "album": {
-        "name": "Panorama Musical de M\u00e9xico",
-        "url": "https://open.spotify.com/album/2WXWaP5HxaOtg82fXUeBv7"
-      },
-      "artists": [
-        {
-          "name": "Motto - Continuo",
-          "url": "https://open.spotify.com/artist/7lqcyJjaRnAWBJsqLPKZ6g"
-        }
-      ],
-      "duration_ms": 173200,
-      "name": "Futbol M\u00e9xico 70",
-      "url": "https://open.spotify.com/track/1GSa6H0MaYZIszPuMipURB"
-    },
-    {
-      "added_at": "2026-06-18 10:55:30",
-      "album": {
-        "name": "The Collection & Tracklisting",
-        "url": "https://open.spotify.com/album/5e6VPOPLw5cSXsVMvQEioq"
-      },
-      "artists": [
-        {
-          "name": "Baccara",
-          "url": "https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ"
-        }
-      ],
-      "duration_ms": 273866,
-      "name": "Yes Sir, I Can Boogie",
-      "url": "https://open.spotify.com/track/2LScqpywMqGcnum6nNaxXX"
+      "duration_ms": 277573,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/11EX5yhxr9Ihl3IN1asrfK"
     }
   ],
   "unique_name": "Throwback Thursday (2)",

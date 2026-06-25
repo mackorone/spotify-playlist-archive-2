@@ -1,6 +1,6 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 34673,
+  "num_followers": 34669,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",
   "owner": {
     "name": "Spotify",
@@ -967,6 +967,22 @@
     {
       "added_at": "2026-04-17 03:26:41",
       "album": {
+        "name": "Archive 1: [Road Runner]",
+        "url": "https://open.spotify.com/album/7vD1S5S2T4qHQzAAmZaSwl"
+      },
+      "artists": [
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        }
+      ],
+      "duration_ms": 187680,
+      "name": "Inside",
+      "url": "https://open.spotify.com/track/2DQExJcuyW8ZuDIcOBx0EG"
+    },
+    {
+      "added_at": "2026-04-17 03:26:41",
+      "album": {
         "name": "SET",
         "url": "https://open.spotify.com/album/5FCXsnwWOFHbdIR13XYONv"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 185729,
       "name": "Pick up your phone (Feat. MOON)",
       "url": "https://open.spotify.com/track/5FMPLl79EfOnRZ4xn2Mck0"
-    },
-    {
-      "added_at": "2026-04-17 03:26:41",
-      "album": {
-        "name": "Archive 1: [Road Runner]",
-        "url": "https://open.spotify.com/album/7vD1S5S2T4qHQzAAmZaSwl"
-      },
-      "artists": [
-        {
-          "name": "JAY B",
-          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
-        }
-      ],
-      "duration_ms": 187680,
-      "name": "Inside",
-      "url": "https://open.spotify.com/track/2DQExJcuyW8ZuDIcOBx0EG"
     },
     {
       "added_at": "2026-04-17 03:26:41",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2026-04-17 03:26:41",
       "album": {
-        "name": "WHAT HAVE WE DONE",
-        "url": "https://open.spotify.com/album/4zZWJyAbApju1SeHQrCLnT"
-      },
-      "artists": [
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
-        }
-      ],
-      "duration_ms": 164026,
-      "name": "ERYKAH BADU (Feat. CAMO)",
-      "url": "https://open.spotify.com/track/5Ovvat3uPyNMFKPO63fD3O"
-    },
-    {
-      "added_at": "2026-04-17 03:26:41",
-      "album": {
         "name": "Crush on You",
         "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 222860,
       "name": "Hug Me",
       "url": "https://open.spotify.com/track/7J28iQgZUf4sCfGKRFUazO"
+    },
+    {
+      "added_at": "2026-04-17 03:26:41",
+      "album": {
+        "name": "WHAT HAVE WE DONE",
+        "url": "https://open.spotify.com/album/4zZWJyAbApju1SeHQrCLnT"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        }
+      ],
+      "duration_ms": 164026,
+      "name": "ERYKAH BADU (Feat. CAMO)",
+      "url": "https://open.spotify.com/track/5Ovvat3uPyNMFKPO63fD3O"
     }
   ],
   "unique_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",

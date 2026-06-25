@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Posłuchaj zwycięzców i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,499 likes - 79 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,496 likes - 79 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 37 | [BEZ ANDRZEJA](https://open.spotify.com/track/4pWjCBXSyx0iJMRA9FZ4Xh) | [Jerzy Rogiewicz](https://open.spotify.com/artist/7Mhb114pzmEQPxShNLLI3T), [Bartłomiej Topa](https://open.spotify.com/artist/6v7jbB0N68FFnHxAhU71vD) | [1670: Sezon 2 \(Muzyka z Serialu Netflix\)](https://open.spotify.com/album/3CMTk1ouyaaKtNjH9sLFH1) | 1:55 |
 | 38 | [Zaprzepaszczone siły wielkiej armii świętych znaków \- Live](https://open.spotify.com/track/6s6wfg8dqEMSy5BPHxqGj8) | [Coma](https://open.spotify.com/artist/2T2smvVw7QCC5cSdyPxs17) | [Coma Live Pol'and'Rock Festival 2024](https://open.spotify.com/album/6mlP6ugzvd8mHq5KMQxSK7) | 14:15 |
 | 39 | [WKURWELEPSZEPOGO](https://open.spotify.com/track/0MNsAage0bUhHOtJJ56nmu) | [Zdechły Osa](https://open.spotify.com/artist/509dS4Q0EfUQuG7KvaSsiz) | [TRASH TAPE](https://open.spotify.com/album/6b6pAbeAZSdgdr4exEr2ax) | 2:16 |
-| 40 | [Life Is A Game](https://open.spotify.com/track/5VxYcJN2ozjuTrJ1GrPpM9) | [BOKKA](https://open.spotify.com/artist/6R2e6FSXY9vhgOulV08FO3) | [White Room](https://open.spotify.com/album/76UZTsGDCKULhoDWoFJWTB) | 3:32 |
-| 41 | [The Shit Ov God](https://open.spotify.com/track/3Zt1D4S1eOfxRoGIBE0aSP) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [The Shit Ov God](https://open.spotify.com/album/6SVTZkfsUI2iD0jB9kl7zV) | 5:36 |
+| 40 | [The Shit Ov God](https://open.spotify.com/track/3Zt1D4S1eOfxRoGIBE0aSP) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [The Shit Ov God](https://open.spotify.com/album/6SVTZkfsUI2iD0jB9kl7zV) | 5:36 |
+| 41 | [Life Is A Game](https://open.spotify.com/track/5VxYcJN2ozjuTrJ1GrPpM9) | [BOKKA](https://open.spotify.com/artist/6R2e6FSXY9vhgOulV08FO3) | [White Room](https://open.spotify.com/album/76UZTsGDCKULhoDWoFJWTB) | 3:32 |
 | 42 | [Nowy rozdział](https://open.spotify.com/track/02W2Rnd9yiaYMUdPb8FW8u) | [Turbo](https://open.spotify.com/artist/1hT8ADv3IA415PjBUwfLLv) | [Blizny](https://open.spotify.com/album/3zZetK9kvK3SFuI1hCazEB) | 4:06 |
 | 43 | [Moja bestia](https://open.spotify.com/track/0ZbwqrkZHD8NAG74mXJ7PL) | [Błażej Król](https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4) | [Popiół](https://open.spotify.com/album/73hQElTnbuhB7HT0w9gIN3) | 4:41 |
 | 44 | [VValka o każdy kolejny dzień](https://open.spotify.com/track/4odf0Poq48hNjNUDONrRbF) | [WaluśKraksaKryzys](https://open.spotify.com/artist/4kOWvyAkvmkCrIHwW3bODd) | [Tematy i wariacje](https://open.spotify.com/album/5oPLIlVa14HPuYNuZ7MSeT) | 4:53 |
@@ -57,10 +57,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 47 | [Memento Amoris](https://open.spotify.com/track/6BRe9FeshYY6KedQk6Af08) | [Kury](https://open.spotify.com/artist/24HKrPZTxj9oSaXv2gf0D9) | [Uno Lovis Party](https://open.spotify.com/album/1tp2IPGbxwnOVnVcO5x1Q4) | 3:22 |
 | 48 | [Aport](https://open.spotify.com/track/7akEAUYosmzkXTpYvmfahf) | [Sad Smiles](https://open.spotify.com/artist/5LISNIIF2dVg8fxzZImkzo) | [BUNT](https://open.spotify.com/album/15gTLiKvDdaG9kxU86rv1I) | 5:26 |
 | 49 | [Dubbrat](https://open.spotify.com/track/07tSNivehfYJ52SPt1ta2Q) | [Vavamuffin](https://open.spotify.com/artist/2Lm3vSenofPiawS8U58tMD) | [Fly High\-Fi!](https://open.spotify.com/album/1PDdmD6r7XGmMHos1YZeTF) | 3:50 |
-| 50 | [YUMI](https://open.spotify.com/track/7oIBVngEmtARJZFPmVh0CI) | [hoshii](https://open.spotify.com/artist/1PzdsUKu27uO3dCnpnXxWJ), [Kuba Więcek](https://open.spotify.com/artist/6TMvLRR8hD8RADUX9aqz3L) | [HER NAME WAS YUMI](https://open.spotify.com/album/70tZRCqPItOdy3vornYcAi) | 2:39 |
-| 51 | [TEMPO](https://open.spotify.com/track/2OsEoEDUiIskiYAWUl3YW8) | [Chrust](https://open.spotify.com/artist/2di34XAaoL0ppBWIVcmtrA), [Krzysztof Falkowski](https://open.spotify.com/artist/2VJHyS9wj5qYaUyRtae5RN) | [Przed Zmierzchem](https://open.spotify.com/album/1JfOqy8sGzn71x6WAeitCD) | 2:39 |
-| 52 | [An Empty Grave Is Just A Hole In The Ground](https://open.spotify.com/track/3m2SXOi3m1ArkPS1naFlu3) | [Hostia](https://open.spotify.com/artist/1oM790LNK44Js7LOQJKSzy) | [Razorblade Psalm](https://open.spotify.com/album/2XtgKamCicOquv0c0uIrTV) | 1:36 |
-| 53 | [Amor sin esperanza](https://open.spotify.com/track/2zK3jWZ37xCZFQRS2x07r9) | [Marcin Masecki](https://open.spotify.com/artist/5q3lPRiypUmNNLhmoz8WFg) | [Boleros y Masecki](https://open.spotify.com/album/2eOsPHztjx0TGTTATCwWpx) | 4:51 |
+| 50 | [TEMPO](https://open.spotify.com/track/2OsEoEDUiIskiYAWUl3YW8) | [Chrust](https://open.spotify.com/artist/2di34XAaoL0ppBWIVcmtrA), [Krzysztof Falkowski](https://open.spotify.com/artist/2VJHyS9wj5qYaUyRtae5RN) | [Przed Zmierzchem](https://open.spotify.com/album/1JfOqy8sGzn71x6WAeitCD) | 2:39 |
+| 51 | [YUMI](https://open.spotify.com/track/7oIBVngEmtARJZFPmVh0CI) | [hoshii](https://open.spotify.com/artist/1PzdsUKu27uO3dCnpnXxWJ), [Kuba Więcek](https://open.spotify.com/artist/6TMvLRR8hD8RADUX9aqz3L) | [HER NAME WAS YUMI](https://open.spotify.com/album/70tZRCqPItOdy3vornYcAi) | 2:39 |
+| 52 | [Amor sin esperanza](https://open.spotify.com/track/2zK3jWZ37xCZFQRS2x07r9) | [Marcin Masecki](https://open.spotify.com/artist/5q3lPRiypUmNNLhmoz8WFg) | [Boleros y Masecki](https://open.spotify.com/album/2eOsPHztjx0TGTTATCwWpx) | 4:51 |
+| 53 | [An Empty Grave Is Just A Hole In The Ground](https://open.spotify.com/track/3m2SXOi3m1ArkPS1naFlu3) | [Hostia](https://open.spotify.com/artist/1oM790LNK44Js7LOQJKSzy) | [Razorblade Psalm](https://open.spotify.com/album/2XtgKamCicOquv0c0uIrTV) | 1:36 |
 | 54 | [Tokyo](https://open.spotify.com/track/1Ruq8JmcNn0Us3jnZNaS9T) | [Nene Heroine](https://open.spotify.com/artist/682FUdadxb0BbBEJosAiSR) | [4](https://open.spotify.com/album/38AMF23w6heUQ2Yh617s2V) | 7:24 |
 | 55 | [KREW Z KRWI](https://open.spotify.com/track/4prmXqlZocQ5lmQ24vsGDK) | [Luxtorpeda](https://open.spotify.com/artist/0D5kXlS7UOApMpTyuSrFAW) | [MÓJ TRUP JEST WIĘKSZY NIŻ TWÓJ](https://open.spotify.com/album/49A5muPtRuTvE0BbqRJfBR) | 5:13 |
 | 56 | [Chaga](https://open.spotify.com/track/3JQQzsgNruVfkfWmLpynLg) | [Błoto](https://open.spotify.com/artist/28k8arToA1cflcvaH5T4Zv) | [Grzyby](https://open.spotify.com/album/7zg0n8RqanuD3eldxRimfO) | 2:54 |

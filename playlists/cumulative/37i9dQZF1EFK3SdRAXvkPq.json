@@ -1581,6 +1581,24 @@
     },
     {
       "album": {
+        "name": "La Culpable",
+        "url": "https://open.spotify.com/album/6CyGPqtDn4hfis24yIEjXr"
+      },
+      "artists": [
+        {
+          "name": "Jalil Lopez",
+          "url": "https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "La Culpable",
+      "url": "https://open.spotify.com/track/7L6xzpdRR1fbMd3tMUqGlr"
+    },
+    {
+      "album": {
         "name": "INSOMNIO",
         "url": "https://open.spotify.com/album/0leCm7DasgqP70lhOVeXyU"
       },

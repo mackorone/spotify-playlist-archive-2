@@ -1,12 +1,12 @@
 {
   "description": "This is Jane's Addiction. The essential tracks, all in one playlist.",
-  "num_followers": 44966,
+  "num_followers": 44964,
   "original_name": "This Is Jane's Addiction",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajh7AAAAAAC2AQMxCpXv6GSsu0VmtQXe",
+  "snapshot_id": "ajnMgAAAAADf+YH+nfmgyQgRzEApsn/u",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strays",
-        "url": "https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk"
-      },
-      "artists": [
-        {
-          "name": "Jane's Addiction",
-          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
-        }
-      ],
-      "duration_ms": 272386,
-      "name": "Strays",
-      "url": "https://open.spotify.com/track/7fNLuDI0HJO61SWq0MctAn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Cabinet of Curiosities",
         "url": "https://open.spotify.com/album/3OruSfm0NBmUPhwTafdktT"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 279226,
       "name": "Ripple",
       "url": "https://open.spotify.com/track/1DpCCcdyR4GIknFDQVZfLm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strays",
+        "url": "https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "duration_ms": 272386,
+      "name": "Strays",
+      "url": "https://open.spotify.com/track/7fNLuDI0HJO61SWq0MctAn"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strays",
-        "url": "https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk"
-      },
-      "artists": [
-        {
-          "name": "Jane's Addiction",
-          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
-        }
-      ],
-      "duration_ms": 327093,
-      "name": "Price I Pay",
-      "url": "https://open.spotify.com/track/7e9xEvXgrrzWxnJqzgQS4I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jane's Addiction (Live)",
         "url": "https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 212024,
       "name": "My Time",
       "url": "https://open.spotify.com/track/10pGH8aoEeHJNY7pjiFwGu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strays",
+        "url": "https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "duration_ms": 327093,
+      "name": "Price I Pay",
+      "url": "https://open.spotify.com/track/7e9xEvXgrrzWxnJqzgQS4I"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/38LLML1wkkJh8Z3590UmyF"
-      },
-      "artists": [
-        {
-          "name": "Jane's Addiction",
-          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
-        }
-      ],
-      "duration_ms": 223673,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/58tzpBiwJ37BdjOmK5X7Hm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jane's Addiction (Live)",
         "url": "https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 214424,
       "name": "Trip Away",
       "url": "https://open.spotify.com/track/7KAm9ZLmSaqFnbHBGQx2M8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/38LLML1wkkJh8Z3590UmyF"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "duration_ms": 223673,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/58tzpBiwJ37BdjOmK5X7Hm"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imminent Redemption",
-        "url": "https://open.spotify.com/album/1jezAfCTEWx7jbda6iUxAi"
-      },
-      "artists": [
-        {
-          "name": "Jane's Addiction",
-          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
-        }
-      ],
-      "duration_ms": 184761,
-      "name": "Imminent Redemption",
-      "url": "https://open.spotify.com/track/4ysBDkdjmgz56zPVswaA7B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jane's Addiction (Live)",
         "url": "https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 244666,
       "name": "Whores",
       "url": "https://open.spotify.com/track/381qntd8NgIOAu1GswB0bZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Imminent Redemption",
+        "url": "https://open.spotify.com/album/1jezAfCTEWx7jbda6iUxAi"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "Imminent Redemption",
+      "url": "https://open.spotify.com/track/4ysBDkdjmgz56zPVswaA7B"
     },
     {
       "added_at": null,

@@ -579,6 +579,24 @@
     },
     {
       "album": {
+        "name": "AIR",
+        "url": "https://open.spotify.com/album/3hCoWPHW2cvaE2PkIPsQRL"
+      },
+      "artists": [
+        {
+          "name": "Egbert Capalla",
+          "url": "https://open.spotify.com/artist/5VjxdUD2k7hok2PuLXTooJ"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236412,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/68aV0LAtm1AlefVKodPTDz"
+    },
+    {
+      "album": {
         "name": "All I Am Is Bleeding",
         "url": "https://open.spotify.com/album/1LEz1vQxn2IAnffaOUdxhC"
       },
@@ -2166,7 +2184,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 264623,
       "name": "Caesar (I'll Haunt You Now)",
       "url": "https://open.spotify.com/track/4aSxg19eWsCun6tyzrYeWP"
@@ -2922,7 +2940,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 221679,
       "name": "contact",
       "url": "https://open.spotify.com/track/4huCxiN2GsEG6mY6yb73ih"
@@ -4405,6 +4423,24 @@
     },
     {
       "album": {
+        "name": "Eff",
+        "url": "https://open.spotify.com/album/6dETXg07PAZwWftcGhrtJF"
+      },
+      "artists": [
+        {
+          "name": "Boshtet",
+          "url": "https://open.spotify.com/artist/1CCkSEO1pTxWvFdcjPVwHB"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203076,
+      "name": "Eff",
+      "url": "https://open.spotify.com/track/2TBSXvVmz416mPXeWuLAD2"
+    },
+    {
+      "album": {
         "name": "Electric Love",
         "url": "https://open.spotify.com/album/177BhxFET5l4YG89GwFMIq"
       },
@@ -4648,6 +4684,28 @@
       "duration_ms": 170959,
       "name": "Escher Drawings",
       "url": "https://open.spotify.com/track/4xcqAo1IrQHFj3EDCQH0Z7"
+    },
+    {
+      "album": {
+        "name": "Every Time You Cry",
+        "url": "https://open.spotify.com/album/4fEpJnACSbkvZ1DwEDRlFV"
+      },
+      "artists": [
+        {
+          "name": "Terminal Serious",
+          "url": "https://open.spotify.com/artist/2RTCBjz1PXujOSleM0fICo"
+        },
+        {
+          "name": "Kurs",
+          "url": "https://open.spotify.com/artist/4wTBIkk5HN5W1jM9fFTV3Q"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237709,
+      "name": "Every Time You Cry (Kurs Remix)",
+      "url": "https://open.spotify.com/track/06WOn7eDfiRGhkdMRP4dyr"
     },
     {
       "album": {
@@ -7862,7 +7920,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 194400,
       "name": "John's Garden",
       "url": "https://open.spotify.com/track/43iziGy6VRNnlpTtT5axWj"
@@ -8176,7 +8234,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 289720,
       "name": "King Counterfeit",
       "url": "https://open.spotify.com/track/7oKLvnUwgIlvLgyY0ztz7D"
@@ -10331,6 +10389,24 @@
     },
     {
       "album": {
+        "name": "On Your Way",
+        "url": "https://open.spotify.com/album/4MVmHRuhcD2zB2vXB1mR7Y"
+      },
+      "artists": [
+        {
+          "name": "OperaBabes",
+          "url": "https://open.spotify.com/artist/3ujLLiliLCsRHxS7B2kZ2U"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228914,
+      "name": "On Your Way",
+      "url": "https://open.spotify.com/track/0drRHKIwH1MdX2cXrev92c"
+    },
+    {
+      "album": {
         "name": "Prism Perspective",
         "url": "https://open.spotify.com/album/5BrPj73DSl0obLmqZc2eoN"
       },
@@ -12453,6 +12529,24 @@
     },
     {
       "album": {
+        "name": "Silhouette..",
+        "url": "https://open.spotify.com/album/6tI9kDTrCf44UQhTaqTyCO"
+      },
+      "artists": [
+        {
+          "name": "Grandpas Illusion",
+          "url": "https://open.spotify.com/artist/10ADX5r7j3Jaxt0MbRNBbA"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211999,
+      "name": "Silhouette..",
+      "url": "https://open.spotify.com/track/0sF7texsMsqkihJTrioRTk"
+    },
+    {
+      "album": {
         "name": "Anarchy and Ashes",
         "url": "https://open.spotify.com/album/2uz43txPKuAuACwMvHPviW"
       },
@@ -13356,7 +13450,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 208793,
       "name": "Street",
       "url": "https://open.spotify.com/track/5oNPKMYx14cj8XqQPe6ahN"
@@ -14574,7 +14668,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 319892,
       "name": "The Scavengers",
       "url": "https://open.spotify.com/track/60CFVzMTsZhBZixZcMyGbC"
@@ -16120,7 +16214,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 231000,
       "name": "Walking out of the cave",
       "url": "https://open.spotify.com/track/6Hud5jnMcqPbtqIGPJwLqC"
@@ -16268,6 +16362,24 @@
       "duration_ms": 240000,
       "name": "Watch You Beg",
       "url": "https://open.spotify.com/track/5ee27I7cWQALUMjs06nnkt"
+    },
+    {
+      "album": {
+        "name": "Stockholm Sessions",
+        "url": "https://open.spotify.com/album/75jgj69TduUGL0zPI3xob5"
+      },
+      "artists": [
+        {
+          "name": "INLEGION",
+          "url": "https://open.spotify.com/artist/3uTISJ4t9NgYeNipenoFxY"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301575,
+      "name": "Water and Flesh",
+      "url": "https://open.spotify.com/track/3va08x27StWDuVaetVitYA"
     },
     {
       "album": {
@@ -16488,7 +16600,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 276307,
       "name": "When Only Memories Remain",
       "url": "https://open.spotify.com/track/01iq31HQZOdD7ZmUtpOBOu"

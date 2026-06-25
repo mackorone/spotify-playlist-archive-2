@@ -1,6 +1,6 @@
 {
   "description": "Popronde is een jaarlijks reizend festival in NL met de grootste talenten. Cover: Gilly ",
-  "num_followers": 2002,
+  "num_followers": 2003,
   "original_name": "Popronde 2026",
   "owner": {
     "name": "Spotify",
@@ -247,22 +247,6 @@
     {
       "added_at": "2026-06-08 07:57:47",
       "album": {
-        "name": "okaydokay_",
-        "url": "https://open.spotify.com/album/3rl7bg0nT0CR4JGufRgOqX"
-      },
-      "artists": [
-        {
-          "name": "Magazines",
-          "url": "https://open.spotify.com/artist/24YiCboyRa5iK3cHYgzjaz"
-        }
-      ],
-      "duration_ms": 160517,
-      "name": "okaydokay_",
-      "url": "https://open.spotify.com/track/5Xp3lIVEYqF1XhxVOMxrTU"
-    },
-    {
-      "added_at": "2026-06-08 07:57:47",
-      "album": {
         "name": "No Profit",
         "url": "https://open.spotify.com/album/4ctjWefHbDBYal1EqWEZ8R"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 151111,
       "name": "No Profit",
       "url": "https://open.spotify.com/track/2mCBVMTa6e7VcQzdvvJegO"
+    },
+    {
+      "added_at": "2026-06-08 07:57:47",
+      "album": {
+        "name": "okaydokay_",
+        "url": "https://open.spotify.com/album/3rl7bg0nT0CR4JGufRgOqX"
+      },
+      "artists": [
+        {
+          "name": "Magazines",
+          "url": "https://open.spotify.com/artist/24YiCboyRa5iK3cHYgzjaz"
+        }
+      ],
+      "duration_ms": 160517,
+      "name": "okaydokay_",
+      "url": "https://open.spotify.com/track/5Xp3lIVEYqF1XhxVOMxrTU"
     },
     {
       "added_at": "2026-06-08 07:57:47",
@@ -359,38 +359,6 @@
     {
       "added_at": "2026-06-08 07:57:47",
       "album": {
-        "name": "SKIN",
-        "url": "https://open.spotify.com/album/4Xh0HmsYyQN41QfbfMqrnn"
-      },
-      "artists": [
-        {
-          "name": "Anna Joan",
-          "url": "https://open.spotify.com/artist/5iBu6NZycOXhSNLzBTJY6l"
-        }
-      ],
-      "duration_ms": 149070,
-      "name": "SKIN",
-      "url": "https://open.spotify.com/track/3qsdHJxDcAmKP0WD7U6R0P"
-    },
-    {
-      "added_at": "2026-06-08 07:57:47",
-      "album": {
-        "name": "Kan Ik Zoveel? / Dingen Mis Met De Auto",
-        "url": "https://open.spotify.com/album/5KqpYFAhXnE7EjX9C3yjDC"
-      },
-      "artists": [
-        {
-          "name": "Igor",
-          "url": "https://open.spotify.com/artist/3bhBM7OA3aCdsNVzRzkBPq"
-        }
-      ],
-      "duration_ms": 234633,
-      "name": "Kan Ik Zoveel?",
-      "url": "https://open.spotify.com/track/2OETcNMac8rz2i8DTk6MV2"
-    },
-    {
-      "added_at": "2026-06-08 07:57:47",
-      "album": {
         "name": "Gebruiksaanwijzing",
         "url": "https://open.spotify.com/album/53LhDdESqVsnqNCvbnVvA7"
       },
@@ -419,6 +387,38 @@
       "duration_ms": 203190,
       "name": "Into pieces",
       "url": "https://open.spotify.com/track/1TpKy1lTWddfoiUqx5LYiZ"
+    },
+    {
+      "added_at": "2026-06-08 07:57:47",
+      "album": {
+        "name": "SKIN",
+        "url": "https://open.spotify.com/album/4Xh0HmsYyQN41QfbfMqrnn"
+      },
+      "artists": [
+        {
+          "name": "Anna Joan",
+          "url": "https://open.spotify.com/artist/5iBu6NZycOXhSNLzBTJY6l"
+        }
+      ],
+      "duration_ms": 149070,
+      "name": "SKIN",
+      "url": "https://open.spotify.com/track/3qsdHJxDcAmKP0WD7U6R0P"
+    },
+    {
+      "added_at": "2026-06-08 07:57:47",
+      "album": {
+        "name": "Kan Ik Zoveel? / Dingen Mis Met De Auto",
+        "url": "https://open.spotify.com/album/5KqpYFAhXnE7EjX9C3yjDC"
+      },
+      "artists": [
+        {
+          "name": "Igor",
+          "url": "https://open.spotify.com/artist/3bhBM7OA3aCdsNVzRzkBPq"
+        }
+      ],
+      "duration_ms": 234633,
+      "name": "Kan Ik Zoveel?",
+      "url": "https://open.spotify.com/track/2OETcNMac8rz2i8DTk6MV2"
     },
     {
       "added_at": "2026-06-08 07:57:47",
@@ -651,18 +651,18 @@
     {
       "added_at": "2026-06-08 07:57:47",
       "album": {
-        "name": "Hin Orer",
-        "url": "https://open.spotify.com/album/69nnv7jiuaTrvqNFKb2VuO"
+        "name": "TWISTED",
+        "url": "https://open.spotify.com/album/5sQyC0NPgDoYpR4XcY5dLZ"
       },
       "artists": [
         {
-          "name": "Ara",
-          "url": "https://open.spotify.com/artist/7eMq20o4L2IGNOa4AVugMr"
+          "name": "F.I.X.",
+          "url": "https://open.spotify.com/artist/4NWDPe87t2vGT8IpC1XGrv"
         }
       ],
-      "duration_ms": 213167,
-      "name": "Hin Orer",
-      "url": "https://open.spotify.com/track/51ikyUu1Rc7UE73iEGxS8m"
+      "duration_ms": 122000,
+      "name": "TWISTED",
+      "url": "https://open.spotify.com/track/0rxyllC57EkK6YO8iJAv4O"
     },
     {
       "added_at": "2026-06-08 07:57:47",
@@ -683,34 +683,18 @@
     {
       "added_at": "2026-06-08 07:57:47",
       "album": {
-        "name": "TWISTED",
-        "url": "https://open.spotify.com/album/5sQyC0NPgDoYpR4XcY5dLZ"
+        "name": "Hin Orer",
+        "url": "https://open.spotify.com/album/69nnv7jiuaTrvqNFKb2VuO"
       },
       "artists": [
         {
-          "name": "F.I.X.",
-          "url": "https://open.spotify.com/artist/4NWDPe87t2vGT8IpC1XGrv"
+          "name": "Ara",
+          "url": "https://open.spotify.com/artist/7eMq20o4L2IGNOa4AVugMr"
         }
       ],
-      "duration_ms": 122000,
-      "name": "TWISTED",
-      "url": "https://open.spotify.com/track/0rxyllC57EkK6YO8iJAv4O"
-    },
-    {
-      "added_at": "2026-06-08 07:57:47",
-      "album": {
-        "name": "GYL",
-        "url": "https://open.spotify.com/album/6DtUI3NTKbVfwtIE8qkiE5"
-      },
-      "artists": [
-        {
-          "name": "Amazone",
-          "url": "https://open.spotify.com/artist/5G0ANZaJzsikgGl5nZdm46"
-        }
-      ],
-      "duration_ms": 171023,
-      "name": "GYL",
-      "url": "https://open.spotify.com/track/3kExYLXJZm994hkWmQ9TXD"
+      "duration_ms": 213167,
+      "name": "Hin Orer",
+      "url": "https://open.spotify.com/track/51ikyUu1Rc7UE73iEGxS8m"
     },
     {
       "added_at": "2026-06-08 07:57:47",
@@ -727,6 +711,22 @@
       "duration_ms": 186400,
       "name": "Bad Mood",
       "url": "https://open.spotify.com/track/2Vpd1LXBwRVKoeL6d1rZb3"
+    },
+    {
+      "added_at": "2026-06-08 07:57:47",
+      "album": {
+        "name": "GYL",
+        "url": "https://open.spotify.com/album/6DtUI3NTKbVfwtIE8qkiE5"
+      },
+      "artists": [
+        {
+          "name": "Amazone",
+          "url": "https://open.spotify.com/artist/5G0ANZaJzsikgGl5nZdm46"
+        }
+      ],
+      "duration_ms": 171023,
+      "name": "GYL",
+      "url": "https://open.spotify.com/track/3kExYLXJZm994hkWmQ9TXD"
     },
     {
       "added_at": "2026-06-08 07:57:47",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2026-06-08 07:57:47",
       "album": {
+        "name": "Heart on the line",
+        "url": "https://open.spotify.com/album/5IvnZ499ApL1dYRQLkc76W"
+      },
+      "artists": [
+        {
+          "name": "LAHAYE",
+          "url": "https://open.spotify.com/artist/2JsVoXX032R5atSaQo23rH"
+        }
+      ],
+      "duration_ms": 215485,
+      "name": "Heart on the line",
+      "url": "https://open.spotify.com/track/0ZnPblbkeUfMFNFx2Juh2E"
+    },
+    {
+      "added_at": "2026-06-08 07:57:47",
+      "album": {
         "name": "Still In The Race",
         "url": "https://open.spotify.com/album/3om1AQ9TzeEQShMLe5wMEj"
       },
@@ -1215,38 +1231,6 @@
       "duration_ms": 169846,
       "name": "ME HART IS OP",
       "url": "https://open.spotify.com/track/2HsAFzJtwbG74Up1Empt0W"
-    },
-    {
-      "added_at": "2026-06-08 07:57:47",
-      "album": {
-        "name": "Heart on the line",
-        "url": "https://open.spotify.com/album/5IvnZ499ApL1dYRQLkc76W"
-      },
-      "artists": [
-        {
-          "name": "LAHAYE",
-          "url": "https://open.spotify.com/artist/2JsVoXX032R5atSaQo23rH"
-        }
-      ],
-      "duration_ms": 215485,
-      "name": "Heart on the line",
-      "url": "https://open.spotify.com/track/0ZnPblbkeUfMFNFx2Juh2E"
-    },
-    {
-      "added_at": "2026-06-08 07:57:47",
-      "album": {
-        "name": "Warm Light",
-        "url": "https://open.spotify.com/album/6muYDkSY3YNgBlq7UX4ovU"
-      },
-      "artists": [
-        {
-          "name": "Amelie Spinks",
-          "url": "https://open.spotify.com/artist/2msCn66H8nedyo0JqNg9aH"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/73OObOaztvXbVA4kgYukXK"
     },
     {
       "added_at": "2026-06-08 07:57:47",
@@ -1287,6 +1271,22 @@
       "duration_ms": 298693,
       "name": "Snakes and Heartbreak(er)s",
       "url": "https://open.spotify.com/track/3D7n0y3XWg2GKlGrR4Gxw0"
+    },
+    {
+      "added_at": "2026-06-08 07:57:47",
+      "album": {
+        "name": "Warm Light",
+        "url": "https://open.spotify.com/album/6muYDkSY3YNgBlq7UX4ovU"
+      },
+      "artists": [
+        {
+          "name": "Amelie Spinks",
+          "url": "https://open.spotify.com/artist/2msCn66H8nedyo0JqNg9aH"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/73OObOaztvXbVA4kgYukXK"
     },
     {
       "added_at": "2026-06-08 07:57:47",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2026-06-08 07:57:47",
       "album": {
-        "name": "Magnum Opus",
-        "url": "https://open.spotify.com/album/2wIGvz7F1jQqMeZL5dE8tu"
-      },
-      "artists": [
-        {
-          "name": "Keely Westwood",
-          "url": "https://open.spotify.com/artist/6UvI51uzYzaeJCxBcEdAGC"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "Magnum Opus",
-      "url": "https://open.spotify.com/track/1YgvtcSX1pBBDy5RfKkUA1"
-    },
-    {
-      "added_at": "2026-06-08 07:57:47",
-      "album": {
         "name": "Machine (Radio Edit)",
         "url": "https://open.spotify.com/album/30sf8e2RiUehhuLlgkvWP1"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 213152,
       "name": "Machine (Radio Edit)",
       "url": "https://open.spotify.com/track/6NdWQV4xKE0BdOnkbfnnb4"
+    },
+    {
+      "added_at": "2026-06-08 07:57:47",
+      "album": {
+        "name": "Magnum Opus",
+        "url": "https://open.spotify.com/album/2wIGvz7F1jQqMeZL5dE8tu"
+      },
+      "artists": [
+        {
+          "name": "Keely Westwood",
+          "url": "https://open.spotify.com/artist/6UvI51uzYzaeJCxBcEdAGC"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "Magnum Opus",
+      "url": "https://open.spotify.com/track/1YgvtcSX1pBBDy5RfKkUA1"
     },
     {
       "added_at": "2026-06-08 07:57:47",

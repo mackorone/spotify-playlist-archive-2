@@ -1,12 +1,12 @@
 {
   "description": "This is Patti Smith. The essential tracks, all in one playlist.",
-  "num_followers": 54707,
+  "num_followers": 54712,
   "original_name": "This Is Patti Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajh7AAAAAACv9aRtJDawKNVfjYY9F/f/",
+  "snapshot_id": "ajnMgAAAAACA6atyjqwhBnHTZaFAjCxK",
   "tracks": [
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trampin'",
-        "url": "https://open.spotify.com/album/5pykpXlDqoTpxVkeaHOQLr"
+        "name": "Twelve",
+        "url": "https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 309493,
-      "name": "Peaceable Kingdom",
-      "url": "https://open.spotify.com/track/3cus7Q6wCCgN4BAGLszFQV"
+      "duration_ms": 377240,
+      "name": "Everybody Hurts",
+      "url": "https://open.spotify.com/track/33iQ7flnKWXFKyRW9QF7WZ"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twelve",
-        "url": "https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta"
+        "name": "Trampin'",
+        "url": "https://open.spotify.com/album/5pykpXlDqoTpxVkeaHOQLr"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 377240,
-      "name": "Everybody Hurts",
-      "url": "https://open.spotify.com/track/33iQ7flnKWXFKyRW9QF7WZ"
+      "duration_ms": 309493,
+      "name": "Peaceable Kingdom",
+      "url": "https://open.spotify.com/track/3cus7Q6wCCgN4BAGLszFQV"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream Of Life",
-        "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 246640,
-      "name": "Looking for You (I Was)",
-      "url": "https://open.spotify.com/track/4amGL7ISvnFCO00PgYKn8f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Twelve",
         "url": "https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 242640,
       "name": "Helpless",
       "url": "https://open.spotify.com/track/1eXtvbH5AfeRC14QqtJXcZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dream Of Life",
+        "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 246640,
+      "name": "Looking for You (I Was)",
+      "url": "https://open.spotify.com/track/4amGL7ISvnFCO00PgYKn8f"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "These Are The Words (From \"Pope Francis: A Man of His Word\")",
-        "url": "https://open.spotify.com/album/2fXB301xeX4kcuMd4lD5x6"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 265293,
-      "name": "These Are The Words - From \"Pope Francis: A Man of His Word\"",
-      "url": "https://open.spotify.com/track/4VA2oV0FfcpaAowScXnR18"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Horses (50th Anniversary)",
         "url": "https://open.spotify.com/album/5wfqCy3E6SOkH16Qhv7QRm"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 174503,
       "name": "The Hunter Gets Captured by The Game",
       "url": "https://open.spotify.com/track/2CYP4cDBByvEysHN9VpQ5O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "These Are The Words (From \"Pope Francis: A Man of His Word\")",
+        "url": "https://open.spotify.com/album/2fXB301xeX4kcuMd4lD5x6"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 265293,
+      "name": "These Are The Words - From \"Pope Francis: A Man of His Word\"",
+      "url": "https://open.spotify.com/track/4VA2oV0FfcpaAowScXnR18"
     },
     {
       "added_at": null,

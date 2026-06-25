@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Harsha Vardhan",
-  "num_followers": 19886,
+  "num_followers": 19888,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK0if84qz1WCBDrG2WG83dibFFzf",
+  "snapshot_id": "AAAAACGybFd/uqxLgS0Jy0utMy/VlhDT",
   "tracks": [
     {
       "added_at": "2026-06-10 10:19:16",
@@ -191,6 +191,22 @@
       "duration_ms": 184846,
       "name": "Sundari Sundari",
       "url": "https://open.spotify.com/track/6Lg938ZCEBYRxTFvkIfnmf"
+    },
+    {
+      "added_at": "2026-06-24 12:12:33",
+      "album": {
+        "name": "Kuchi Udambu",
+        "url": "https://open.spotify.com/album/3KA0XyJR9nFIQ0qLvofD57"
+      },
+      "artists": [
+        {
+          "name": "M.Kapilan",
+          "url": "https://open.spotify.com/artist/3QSgLjnVKpllCs1jfw9Mra"
+        }
+      ],
+      "duration_ms": 206117,
+      "name": "Kuchi Udambu",
+      "url": "https://open.spotify.com/track/0b4VZPys5IkKEKT1cSdAz7"
     },
     {
       "added_at": "2026-06-11 08:44:03",
@@ -1515,30 +1531,6 @@
       "duration_ms": 178285,
       "name": "Yaen Anbe",
       "url": "https://open.spotify.com/track/3qo7g4rdkeefPbKPAgdBhC"
-    },
-    {
-      "added_at": "2026-02-16 12:37:43",
-      "album": {
-        "name": "Cult Classic",
-        "url": "https://open.spotify.com/album/5qkQpBcvNccPFME57mYCpn"
-      },
-      "artists": [
-        {
-          "name": "Gabrial Gladson",
-          "url": "https://open.spotify.com/artist/7bT5pEKrRCw55c5Gio2pE8"
-        },
-        {
-          "name": "Adithya Sriram",
-          "url": "https://open.spotify.com/artist/0QkoNWJljkXVNcOwNooaQo"
-        },
-        {
-          "name": "Jane Thompson",
-          "url": "https://open.spotify.com/artist/0qOGPgfGo4xZ5ttkpLx37N"
-        }
-      ],
-      "duration_ms": 192167,
-      "name": "Cult Classic",
-      "url": "https://open.spotify.com/track/35mRmwFEF4EPctOTvJ0iDa"
     }
   ],
   "unique_name": "RADAR Tamil",

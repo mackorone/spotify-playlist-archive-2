@@ -4306,7 +4306,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 134399,
       "name": "Balans",
       "url": "https://open.spotify.com/track/0JK8MMdQNg1hHV51b2lsBA"
@@ -9256,7 +9256,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 173478,
       "name": "Cine te sun\u0103?",
       "url": "https://open.spotify.com/track/2iv0HFAp8FNzH35irvm78r"
@@ -11198,7 +11198,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-24",
+      "date_removed": null,
       "duration_ms": 223448,
       "name": "Dai Dai",
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
@@ -11268,7 +11268,7 @@
       ],
       "date_added": "2025-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 157693,
       "name": "Damelo",
       "url": "https://open.spotify.com/track/37h8o6hEV5jdmiNpZkFxRF"
@@ -23394,7 +23394,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-24",
+      "date_removed": null,
       "duration_ms": 136875,
       "name": "Jester",
       "url": "https://open.spotify.com/track/7kcBiaUm1uPSNgUbSioyEE"
@@ -28178,7 +28178,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 208695,
       "name": "MDS",
       "url": "https://open.spotify.com/track/7d90mcFcXgy1L4BJqiAoLX"
@@ -28456,6 +28456,24 @@
       "duration_ms": 229855,
       "name": "Merry Go Round",
       "url": "https://open.spotify.com/track/3VegC0PZiHjGxb80DER8XU"
+    },
+    {
+      "album": {
+        "name": "Mesterul Manele",
+        "url": "https://open.spotify.com/album/1tZHGWcvCU3eZTllya7znL"
+      },
+      "artists": [
+        {
+          "name": "Alex Botea",
+          "url": "https://open.spotify.com/artist/0P8GOB6ZytMhZX8fd1OUsz"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200471,
+      "name": "Mesterul Manele",
+      "url": "https://open.spotify.com/track/04XSd1K9IUneZBRDQXIUac"
     },
     {
       "album": {
@@ -29110,7 +29128,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 233281,
       "name": "MODEL",
       "url": "https://open.spotify.com/track/0g0CvffYlfUznjEGe86Fpd"
@@ -43716,7 +43734,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-24",
+      "date_removed": null,
       "duration_ms": 159007,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
@@ -46870,7 +46888,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 153000,
       "name": "Tratamente",
       "url": "https://open.spotify.com/track/2beoq3iRO5pp23aeJlgK87"

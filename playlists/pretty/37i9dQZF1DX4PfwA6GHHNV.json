@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 23269,
+  "num_followers": 23273,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -103,6 +103,22 @@
     {
       "added_at": "2026-06-12 03:01:42",
       "album": {
+        "name": "Un Afrito",
+        "url": "https://open.spotify.com/album/4Gpxahsskuc5R2nj1Wqft7"
+      },
+      "artists": [
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "duration_ms": 127058,
+      "name": "Un Afrito",
+      "url": "https://open.spotify.com/track/213EYsG3x95vtxupDU1XMc"
+    },
+    {
+      "added_at": "2026-06-12 03:01:42",
+      "album": {
         "name": "AFRICAN GIRLS",
         "url": "https://open.spotify.com/album/7F76UW4g4Mq8rRLznvAAuc"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 123582,
       "name": "AFRICAN GIRLS",
       "url": "https://open.spotify.com/track/1pDVWzY2lp3Y7Qi0WTY4Ad"
-    },
-    {
-      "added_at": "2026-06-12 03:01:42",
-      "album": {
-        "name": "Un Afrito",
-        "url": "https://open.spotify.com/album/4Gpxahsskuc5R2nj1Wqft7"
-      },
-      "artists": [
-        {
-          "name": "Juan Duque",
-          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
-        }
-      ],
-      "duration_ms": 127058,
-      "name": "Un Afrito",
-      "url": "https://open.spotify.com/track/213EYsG3x95vtxupDU1XMc"
     },
     {
       "added_at": "2026-06-12 03:01:42",
@@ -351,46 +351,6 @@
     {
       "added_at": "2026-06-12 03:01:42",
       "album": {
-        "name": "Ela Erra",
-        "url": "https://open.spotify.com/album/2p8zTZvs4nX56bmNW3EsFy"
-      },
-      "artists": [
-        {
-          "name": "Lezin",
-          "url": "https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp"
-        },
-        {
-          "name": "Carlean",
-          "url": "https://open.spotify.com/artist/3bO5G35IOls0BK0nbAoJq6"
-        },
-        {
-          "name": "Matteuzin",
-          "url": "https://open.spotify.com/artist/1G5PyzlCfVieDXFuUhZ1vc"
-        }
-      ],
-      "duration_ms": 93714,
-      "name": "Ela Erra",
-      "url": "https://open.spotify.com/track/79vdtGxxlcfXP8vhrM0jtL"
-    },
-    {
-      "added_at": "2026-06-12 03:01:42",
-      "album": {
-        "name": "No Sign of Weakness",
-        "url": "https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 175935,
-      "name": "No Sign of Weakness",
-      "url": "https://open.spotify.com/track/2hZSwKDJFiTnxnvObgiQuB"
-    },
-    {
-      "added_at": "2026-06-12 03:01:42",
-      "album": {
         "name": "Baile Em Chamas",
         "url": "https://open.spotify.com/album/4oFHjLe2BbGvDpfphCCkBV"
       },
@@ -411,6 +371,46 @@
       "duration_ms": 173333,
       "name": "Baile Em Chamas",
       "url": "https://open.spotify.com/track/5Inqosk5KZ1OHZqp36Xrid"
+    },
+    {
+      "added_at": "2026-06-12 03:01:42",
+      "album": {
+        "name": "No Sign of Weakness",
+        "url": "https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 175935,
+      "name": "No Sign of Weakness",
+      "url": "https://open.spotify.com/track/2hZSwKDJFiTnxnvObgiQuB"
+    },
+    {
+      "added_at": "2026-06-12 03:01:42",
+      "album": {
+        "name": "Ela Erra",
+        "url": "https://open.spotify.com/album/2p8zTZvs4nX56bmNW3EsFy"
+      },
+      "artists": [
+        {
+          "name": "Lezin",
+          "url": "https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp"
+        },
+        {
+          "name": "Carlean",
+          "url": "https://open.spotify.com/artist/3bO5G35IOls0BK0nbAoJq6"
+        },
+        {
+          "name": "Matteuzin",
+          "url": "https://open.spotify.com/artist/1G5PyzlCfVieDXFuUhZ1vc"
+        }
+      ],
+      "duration_ms": 93714,
+      "name": "Ela Erra",
+      "url": "https://open.spotify.com/track/79vdtGxxlcfXP8vhrM0jtL"
     },
     {
       "added_at": "2026-06-12 03:01:42",

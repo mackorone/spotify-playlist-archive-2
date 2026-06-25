@@ -4,7 +4,7 @@
 
 > Its time to relish the best themes of Kollywood!<br/>Cover : KH X RK Reunion
 
-228 songs - 6 hr 54 min
+229 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Kick Theme \(From "Kick"\)](https://open.spotify.com/track/1bts9A6cTbCvvWTzx5VS8h) | [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ) | [Kick Theme \(From "Kick"\) \- Single](https://open.spotify.com/album/5hPEWmXTxssIDurSN2lC8j) | 2:36 | 2023-01-18 | 2023-02-07 |
 | [Kingpin Simon](https://open.spotify.com/track/4ad56VgrPjGQWoOFCGDQSe) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Coolie \(Original Background Score\)](https://open.spotify.com/album/2xSjbEyF1GTL6hJdvvvfd8) | 1:18 | 2025-09-10 |  |
 | [Kokkarako](https://open.spotify.com/track/1jdestcFzmrUNefnpH1UaZ) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Jigarthanda DoubleX \(Original Score\)](https://open.spotify.com/album/5mOvkOWuNDJ4knaJFMHgRo) | 1:44 | 2024-05-15 | 2024-06-08 |
-| [Leader Stroke \- Instrumental](https://open.spotify.com/track/670fC877bDFyFRXnVcJiAj) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ) | [Leader \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1vLQ6c6JqndLdiUngPhNVe) | 2:23 | 2026-03-31 |  |
+| [Leader Stroke \- Instrumental](https://open.spotify.com/track/670fC877bDFyFRXnVcJiAj) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ) | [Leader \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1vLQ6c6JqndLdiUngPhNVe) | 2:23 | 2026-03-31 | 2026-06-25 |
 | [Leo Das Entry \(From "Leo"\)](https://open.spotify.com/track/2r0ROhr7pRN4MXDMT1fEmd) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Leo Das Entry \(From "Leo"\)](https://open.spotify.com/album/1zPUq6zLrJyDUtNJBN7eQh) | 1:37 | 2024-01-09 | 2025-05-28 |
 | [Lokiverse \- Background Score](https://open.spotify.com/track/209pScL6fUhISxcLWkB6rf) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 2:36 | 2022-07-08 |  |
 | [Lokiverse 2.0](https://open.spotify.com/track/5OxVOeYmIzelfupJtq1X6G) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Leo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2nZKDF0ZFy0Pv7uMakAwZh) | 1:54 | 2023-10-19 | 2026-05-19 |
@@ -208,6 +208,7 @@
 | [The Rise](https://open.spotify.com/track/3M0yJxkUkEyn8ku3zBPLfX) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7) | [Viduthalai \(Original Background Score\)](https://open.spotify.com/album/640AWcG0puLErrZs6J6uCd) | 1:16 | 2024-03-19 | 2024-05-16 |
 | [The Theri Theme](https://open.spotify.com/track/5F6QjI9stjXP8yNzu60SEP) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vedalam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KOvSxSNXC7mPvVESt1rVT) | 1:52 | 2021-11-01 |  |
 | [The Vikram Squad \- Background Score](https://open.spotify.com/track/0hEUT9CpY3R2nvYzdvxGLE) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:34 | 2022-07-08 |  |
+| [The Wild Theme \(From "OM Chapter 1: Udhiram \- The Blood Wood"\)](https://open.spotify.com/track/0uExLQym0YauTNhuLJGcps) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz) | [The Wild Theme \(From "OM Chapter 1: Udhiram \- The Blood Wood"\)](https://open.spotify.com/album/6X2IEDUBAssbCb3CGHDWht) | 1:45 | 2026-06-24 |  |
 | [Theme Music 1](https://open.spotify.com/track/5U9EsOlN3BOGKSDTlOKNkA) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Kadhal Kondaen \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/72FEBJg0kJl4axCBYzktGI) | 1:06 | 2021-11-01 | 2025-06-06 |
 | [Theme of 3](https://open.spotify.com/track/7vXNWKJJsuflJZwDtrQgRO) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Mandolin Seenu](https://open.spotify.com/artist/2Wuq8f0T8XhQzjPSpMWY0i) | [3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KxiTZwnVuot6XVWRqh4PZ) | 1:29 | 2021-11-01 | 2026-03-04 |
 | [Thiruppi Kudukkum Neram](https://open.spotify.com/track/2oxZzvIiInIGtFDLia33w2) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Varisu Original Sound Track](https://open.spotify.com/album/1BQenhYzXw2QwFgva3d8RL) | 1:56 | 2023-08-18 |  |

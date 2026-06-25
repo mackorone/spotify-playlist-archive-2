@@ -1,6 +1,6 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: Natanzinho Lima, Belo",
-  "num_followers": 759200,
+  "num_followers": 759188,
   "original_name": "Puro Suco do Brasil",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,26 @@
     {
       "added_at": "2026-06-19 13:54:21",
       "album": {
+        "name": "Pared\u00e3o do Nattan (Ao Vivo Em Fortaleza)",
+        "url": "https://open.spotify.com/album/42CsFg3kxKccXG5YONxcaS"
+      },
+      "artists": [
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        },
+        {
+          "name": "Z\u00e9 Vaqueiro",
+          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
+        }
+      ],
+      "duration_ms": 156579,
+      "name": "Aproveita Que Eu T\u00f4 Brigado - Ao Vivo",
+      "url": "https://open.spotify.com/track/6bpIrlJ06Fb6amL5M9djmi"
+    },
+    {
+      "added_at": "2026-06-19 13:54:21",
+      "album": {
         "name": "Ama Um Maloqueiro",
         "url": "https://open.spotify.com/album/2Gt4u2BoqtJMNQ63pKyh5S"
       },
@@ -659,22 +679,42 @@
     {
       "added_at": "2026-06-19 13:54:21",
       "album": {
-        "name": "Pared\u00e3o do Nattan (Ao Vivo Em Fortaleza)",
-        "url": "https://open.spotify.com/album/42CsFg3kxKccXG5YONxcaS"
+        "name": "Sertanejo S\u00e9rie A (Ao Vivo Em Goi\u00e2nia)",
+        "url": "https://open.spotify.com/album/2QMsZZVq3ucWt4mnkPQYdX"
       },
       "artists": [
         {
-          "name": "NATTAN",
-          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
         },
         {
-          "name": "Z\u00e9 Vaqueiro",
-          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
+          "name": "Naiara Azevedo",
+          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
+        },
+        {
+          "name": "Fred & Fabr\u00edcio",
+          "url": "https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8"
         }
       ],
-      "duration_ms": 156579,
-      "name": "Aproveita Que Eu T\u00f4 Brigado - Ao Vivo",
-      "url": "https://open.spotify.com/track/6bpIrlJ06Fb6amL5M9djmi"
+      "duration_ms": 341722,
+      "name": "Pra N\u00e3o Pensar em Voc\u00ea / Algu\u00e9m / S\u00f3 Pro Meu Prazer",
+      "url": "https://open.spotify.com/track/6vf8QLIPZMULA3SZvDlw1l"
+    },
+    {
+      "added_at": "2026-06-19 13:54:21",
+      "album": {
+        "name": "MOLHO (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4oMmPinXoUPTK2snpCWxAy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "duration_ms": 167528,
+      "name": "Aquele Lugar - Ao Vivo",
+      "url": "https://open.spotify.com/track/0pGsxpkJC9IwK93fmqEYXn"
     },
     {
       "added_at": "2026-06-19 13:54:21",
@@ -703,46 +743,6 @@
       "duration_ms": 176400,
       "name": "QUANDO VOC\u00ca SE FOI CHOREI (SORRI, SOU REI)",
       "url": "https://open.spotify.com/track/4YQ37NPJlIUMFo8Kq51heS"
-    },
-    {
-      "added_at": "2026-06-19 13:54:21",
-      "album": {
-        "name": "MOLHO (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4oMmPinXoUPTK2snpCWxAy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        }
-      ],
-      "duration_ms": 167528,
-      "name": "Aquele Lugar - Ao Vivo",
-      "url": "https://open.spotify.com/track/0pGsxpkJC9IwK93fmqEYXn"
-    },
-    {
-      "added_at": "2026-06-19 13:54:21",
-      "album": {
-        "name": "Sertanejo S\u00e9rie A (Ao Vivo Em Goi\u00e2nia)",
-        "url": "https://open.spotify.com/album/2QMsZZVq3ucWt4mnkPQYdX"
-      },
-      "artists": [
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
-        },
-        {
-          "name": "Naiara Azevedo",
-          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
-        },
-        {
-          "name": "Fred & Fabr\u00edcio",
-          "url": "https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8"
-        }
-      ],
-      "duration_ms": 341722,
-      "name": "Pra N\u00e3o Pensar em Voc\u00ea / Algu\u00e9m / S\u00f3 Pro Meu Prazer",
-      "url": "https://open.spotify.com/track/6vf8QLIPZMULA3SZvDlw1l"
     },
     {
       "added_at": "2026-06-19 13:54:21",
@@ -799,6 +799,26 @@
     {
       "added_at": "2026-06-19 13:54:21",
       "album": {
+        "name": "Ele Ou Eu",
+        "url": "https://open.spotify.com/album/5rsqVICpteZxgoXUSarVp5"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        },
+        {
+          "name": "Pablo",
+          "url": "https://open.spotify.com/artist/2uOlKKhuUUWlTITCYYUuIK"
+        }
+      ],
+      "duration_ms": 204351,
+      "name": "Ele Ou Eu",
+      "url": "https://open.spotify.com/track/5h7u2u9egl8LaE9rTDscH5"
+    },
+    {
+      "added_at": "2026-06-19 13:54:21",
+      "album": {
         "name": "Rebolando",
         "url": "https://open.spotify.com/album/289saTjwe7KWkj0InLRX9t"
       },
@@ -823,22 +843,26 @@
     {
       "added_at": "2026-06-19 13:54:21",
       "album": {
-        "name": "Ele Ou Eu",
-        "url": "https://open.spotify.com/album/5rsqVICpteZxgoXUSarVp5"
+        "name": "Na Imagina\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6AXA2rbQCaAJfCcqgYPHcE"
       },
       "artists": [
         {
-          "name": "L\u00e9o Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+          "name": "Eric Land",
+          "url": "https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH"
         },
         {
-          "name": "Pablo",
-          "url": "https://open.spotify.com/artist/2uOlKKhuUUWlTITCYYUuIK"
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "DJ TOPO",
+          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
         }
       ],
-      "duration_ms": 204351,
-      "name": "Ele Ou Eu",
-      "url": "https://open.spotify.com/track/5h7u2u9egl8LaE9rTDscH5"
+      "duration_ms": 114044,
+      "name": "Na Imagina\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1sWx8hqMdjT3Gc7F9BSbUY"
     },
     {
       "added_at": "2026-06-19 13:54:21",
@@ -863,30 +887,6 @@
       "duration_ms": 171480,
       "name": "Me Apaixonei Nessa Morena",
       "url": "https://open.spotify.com/track/7xcDd2JxnJtO87QQr8uY0O"
-    },
-    {
-      "added_at": "2026-06-19 13:54:21",
-      "album": {
-        "name": "Na Imagina\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/6AXA2rbQCaAJfCcqgYPHcE"
-      },
-      "artists": [
-        {
-          "name": "Eric Land",
-          "url": "https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH"
-        },
-        {
-          "name": "Mc Livinho",
-          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
-        },
-        {
-          "name": "DJ TOPO",
-          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
-        }
-      ],
-      "duration_ms": 114044,
-      "name": "Na Imagina\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/1sWx8hqMdjT3Gc7F9BSbUY"
     },
     {
       "added_at": "2026-06-19 13:54:21",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 
 > Smooth indie jazz joints from around the globe\. Cover: Tom Misch
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,115 likes - 101 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,153 likes - 101 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

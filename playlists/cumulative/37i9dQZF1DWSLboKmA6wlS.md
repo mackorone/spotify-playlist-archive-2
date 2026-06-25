@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Thailand](https://open.spotify.com/playlist/37i9dQZF1DWSLboKmA6wlS)
 
-> เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: miller\. Artwork: Isu Kim
+> เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: whateve\. Artwork: Isu Kim
 
-2,653 songs - 6 day 22 hr 29 min
+2,658 songs - 6 day 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Don't Come Back](https://open.spotify.com/track/5cCdshxiOa2LzHM6jHNKau) | [XI](https://open.spotify.com/artist/00EYO9tpVSk1YkXQs1awnQ) | [To You](https://open.spotify.com/album/4ZQLuaJGAQ6DHRQL27G5fp) | 3:02 | 2024-10-18 | 2024-10-26 |
 | [Don't Cry](https://open.spotify.com/track/1hYcCild8qVI9EHaWm8437) | [KYLINZ](https://open.spotify.com/artist/6TVM9jGjYrMBgqL3qXEdnA) | [Don't Cry](https://open.spotify.com/album/1lnjcwvJGfSFstmJpHhd47) | 3:54 | 2025-10-03 | 2025-10-18 |
 | [Don't Get Yourself Dry](https://open.spotify.com/track/3CKSC3Wnq38bitaDJT1scQ) | [GAZEKATE](https://open.spotify.com/artist/4F8TQLHmLbfQbaewX40glp) | [Don't Get Yourself Dry](https://open.spotify.com/album/2QE4Yfo1KiIgpN6Hng3oh6) | 4:20 | 2023-01-20 | 2023-01-28 |
+| [DON'T KNOW WHY](https://open.spotify.com/track/76GBhyMeRPCVu3FzHWKrWN) | [QLO](https://open.spotify.com/artist/21YXTehB0cp31YOL3AxewF) | [DON'T KNOW WHY](https://open.spotify.com/album/4KgNfQeo1IDYuPKem4nlQV) | 2:22 | 2026-06-24 |  |
 | [don't u even cry?](https://open.spotify.com/track/7ARdtYq12d2dDYgGUUJtmr) | [\_less](https://open.spotify.com/artist/16XaZ9bhtFCLUow2Z1Y7Of) | [don't u even cry?](https://open.spotify.com/album/0ZQOYZEcEJGez6HtkMCmXl) | 4:05 | 2023-02-02 | 2023-02-11 |
 | [don't wanna miss you](https://open.spotify.com/track/4RfKwkEosc5ObAzKRMyU5b) | [bXd](https://open.spotify.com/artist/11R7WnedRjQv6G7ZGodm7Q) | [don't wanna miss you](https://open.spotify.com/album/48hRUZvo0w1yOgBZOAUEyf) | 4:17 | 2023-09-15 | 2023-10-21 |
 | [Don’t Kill The Vibe](https://open.spotify.com/track/7eyMWy0eMYWBbYpm0cYYjh) | [THAMMACHAD](https://open.spotify.com/artist/7DBb38Zz6lP0rzkLMThNJs), [Toocalderone](https://open.spotify.com/artist/3F1JAaMFZfvix9UOOl3FK2), [Elista the Drag Gamer](https://open.spotify.com/artist/7aISzaoLIUdTQyUnkMSASH), [Laganja Estranja](https://open.spotify.com/artist/0otWGUpCf7aJaDVsczhzzP) | [Don’t Kill The Vibe](https://open.spotify.com/album/6dpK5SaIm38FOb9gwWJ9wg) | 4:42 | 2024-05-31 | 2024-06-08 |
@@ -154,6 +155,7 @@
 | [F.A.W](https://open.spotify.com/track/34ORUzYu57eLNpo5PZ9XT1) | [Chilly Chally](https://open.spotify.com/artist/2CGpWY07U2MrarjGsdyJgH) | [F.A.W](https://open.spotify.com/album/4ddIEOc8uPoRjMpsLRRk7u) | 4:31 | 2025-10-24 | 2025-12-05 |
 | [Fade](https://open.spotify.com/track/7JKVJR0HibAxspdNpETrCx) | [AXCE WINTER](https://open.spotify.com/artist/6MfqX4PRjxHwawy2ArWbqL) | [Fade](https://open.spotify.com/album/5taRjjeqQOLfDP1MTZcJa3) | 3:21 | 2025-03-20 | 2025-05-23 |
 | [Faded Sea](https://open.spotify.com/track/5a396MJKuZFba9U060Svpl) | [Flowers For Daryl](https://open.spotify.com/artist/7juHNCQiSAGwJNbvDch2FM) | [A Blessing in Disguise](https://open.spotify.com/album/4MoBa53HXIiSSZqJcfhv7s) | 5:49 | 2023-01-27 | 2023-04-01 |
+| [Fading Starlight](https://open.spotify.com/track/0Yr4EFFlnJOl2kqCNQftvn) | [Jikkafone](https://open.spotify.com/artist/298jfKASUYsJU1RT5tdlAp) | [Fading Starlight](https://open.spotify.com/album/0i9bP3bO3JgOQT15VPLuj8) | 4:22 | 2026-06-24 |  |
 | [FAKEดีออก](https://open.spotify.com/track/4jUwGi2gIlWiqNabjzwRPI) | [QEETHA](https://open.spotify.com/artist/3l0GAlP5fa1GLyjq7JhexM) | [FAKEดีออก](https://open.spotify.com/album/287P1Dsb5SBKiNa86hcDYA) | 2:57 | 2023-02-02 | 2023-04-07 |
 | [Fall in Love](https://open.spotify.com/track/2eBIya9AvMDqCn1EfcD2Vv) | [ARMOR](https://open.spotify.com/artist/5mgTHOrzHxFvdg8AgUsGuD) | [Fall in Love](https://open.spotify.com/album/0xNw3QifPY1o13VDyxTfEM) | 3:19 | 2023-06-30 | 2023-07-03 |
 | [Fall in Love](https://open.spotify.com/track/45dtFcaOs4lBf8gXAAoN8W) | [ARMOR](https://open.spotify.com/artist/5mgTHOrzHxFvdg8AgUsGuD) | [Fall in Love](https://open.spotify.com/album/2GuhTPysxjc8C0wkMJKPCX) | 3:19 | 2023-06-30 | 2024-01-06 |
@@ -728,6 +730,7 @@
 | [คนอย่างเธอจะรักใครเป็น \(Clytie\)](https://open.spotify.com/track/22K9vgDuh4J66Bh6iajuJD) | [Goneaway](https://open.spotify.com/artist/4fAgUl5yw0nnANMEGeqtL2) | [คนอย่างเธอจะรักใครเป็น \(Clytie\)](https://open.spotify.com/album/3YrOcEyqbD5L59JxAdWZl3) | 4:00 | 2024-05-24 | 2024-08-03 |
 | [คนเก่ง](https://open.spotify.com/track/1st1g6SUQ0iy8TPFhI0Ibk) | [GAIKAI](https://open.spotify.com/artist/2tjF5O9fXbcqYq8O1lIVti) | [คนเก่ง](https://open.spotify.com/album/7w0Ey9uDSG6Z5rY7SoS4ff) | 4:11 | 2023-02-02 | 2023-03-25 |
 | [คนเดิม \(New Me\)](https://open.spotify.com/track/10pmBI1E7TkJPvWlLTlXld) | [PREMMANUCH](https://open.spotify.com/artist/36aNHEt5zPybnPOdKOQoqd) | [คนเดิม \(New Me\)](https://open.spotify.com/album/1LEPKJW6QtoQenUxvXaV3B) | 4:17 | 2025-09-05 | 2025-09-20 |
+| [คนเดียวทั้งปี](https://open.spotify.com/track/333y4Tfy2z6967kSy6uriI) | [The Butterfly](https://open.spotify.com/artist/7F4AVScaSWznAOlBYwEIG1) | [คนเดียวทั้งปี](https://open.spotify.com/album/3fIvx7GuncmH33jTTu3is9) | 3:30 | 2026-06-24 |  |
 | [คนเห็นแก่ตัว \(DOPE\)](https://open.spotify.com/track/2iSIPjNJqQHbPBqVU9seP9) | [YODSARUN](https://open.spotify.com/artist/7w7BVYWmNFduUbjjqUuFb7) | [คนเห็นแก่ตัว \(DOPE\)](https://open.spotify.com/album/01Cg3LZd30LVxmkxGZWPLw) | 3:39 | 2026-03-05 | 2026-05-07 |
 | [คนแก้เหงา](https://open.spotify.com/track/46GRskoBZ0HTTdpWVrByaO) | [WHALJAY](https://open.spotify.com/artist/00DQn2x4PUykmPHF8EVpYy) | [คนแก้เหงา](https://open.spotify.com/album/1dulsOHN3U7T4fGrYzE2JQ) | 3:12 | 2024-11-15 | 2024-11-23 |
 | [คนแปลกหน้า\(ที่รู้จักกันดี\)](https://open.spotify.com/track/5kJAD8FeuAicJIpevbn5ma) | [7EDAI](https://open.spotify.com/artist/4GuTo8qaM1rScdyfXTTftH) | [คนแปลกหน้า\(ที่รู้จักกันดี\)](https://open.spotify.com/album/0SbWQCrQmQMmHSNysVuhWF) | 3:45 | 2024-11-08 | 2024-11-23 |
@@ -1030,6 +1033,7 @@
 | [ดาวอังคาร](https://open.spotify.com/track/7AZWZ4R7wkFVKqEagzljoT) | [Venus](https://open.spotify.com/artist/4feYmlX06VRoQRWxejDiwT) | [ดาวอังคาร](https://open.spotify.com/album/1RPwPiZ2YmUXU3CsHWesre) | 3:10 | 2022-11-18 | 2022-11-26 |
 | [ดาวเดือนบนฟ้า](https://open.spotify.com/track/1FRUwesWxQJyRkJWCRu4lF) | [Kgreen](https://open.spotify.com/artist/3UmbELimzWDpCMydQAUtND) | [ดาวเดือนบนฟ้า](https://open.spotify.com/album/30IoGDZdrWJqoL8QqR6ATR) | 2:04 | 2025-07-10 | 2025-07-25 |
 | [ดาวเศร้า](https://open.spotify.com/track/6kgyuSbolOmojQJX9IlWxw) | [Owlet](https://open.spotify.com/artist/6ZbW6kb4lV2Jb4q2NAm8Eo) | [ดาวเศร้า](https://open.spotify.com/album/6U6MlkluErGzWCgDlfssYa) | 4:15 | 2023-02-17 | 2023-03-11 |
+| [ดิ่ง \(Deep\)](https://open.spotify.com/track/20EMMATUtWu4rs6IMOXkfK) | [Enter The Joy](https://open.spotify.com/artist/2FA1UgZXy5OoXBB6CNgCQk) | [ดิ่ง \(Deep\)](https://open.spotify.com/album/1zOfH1aSjAKLOSiFLyqoUH) | 5:33 | 2026-06-24 |  |
 | [ดีก็ได้ ร้ายก็เป็น](https://open.spotify.com/track/1BNHsiM8vdCYnIZqZSKJDf) | [Cake Keeratirat](https://open.spotify.com/artist/6cAZvK6kxmFEMlpfx66ZV3) | [ดีก็ได้ ร้ายก็เป็น](https://open.spotify.com/album/346jcz7DWwqu5lfgcrrCNl) | 3:28 | 2024-11-01 | 2024-11-16 |
 | [ดีขึ้น](https://open.spotify.com/track/1H3zMGRC6Ch5j9XuxpX2hI) | [KNzC](https://open.spotify.com/artist/5gs4wTCMulShnksLEvv2rh), [PA!NX](https://open.spotify.com/artist/4QxOzXBJf1F4xkT4DTuqeU), [DoubleG](https://open.spotify.com/artist/2oJ13JDIMVQgDqWEL7yjZ1) | [ดีขึ้น](https://open.spotify.com/album/6YdvTuxL9HFkolNqLNxzmT) | 3:40 | 2024-02-16 | 2024-02-24 |
 | [ดีขึ้น](https://open.spotify.com/track/37ytIcBSOemrR8soaOo8Gi) | [KNzC](https://open.spotify.com/artist/5gs4wTCMulShnksLEvv2rh), [PA!NX](https://open.spotify.com/artist/4QxOzXBJf1F4xkT4DTuqeU), [DoubleG](https://open.spotify.com/artist/2oJ13JDIMVQgDqWEL7yjZ1) | [ดีขึ้น](https://open.spotify.com/album/7M6YeEOFn0rz2kYkukglqr) | 3:40 | 2024-02-16 | 2024-02-21 |
@@ -2231,6 +2235,7 @@
 | [เมื่อมันสายไป](https://open.spotify.com/track/3SAoSkEcPRmtgCtTxyTHPe) | [Dumb.Rong](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [เมื่อมันสายไป](https://open.spotify.com/album/0JQW5yBGPcS8PGcv7viPmd) | 4:56 | 2024-05-17 | 2024-06-01 |
 | [เมื่อวันอังคารที่แล้ว \(Last Tuesday\)](https://open.spotify.com/track/4bIbv944DHGptnaUd3iOch) | [SAREENA](https://open.spotify.com/artist/2LPrJoFmgy4F3Lcd1kzycT) | [Last Tuesday Story](https://open.spotify.com/album/2EIJ6ysuyJ3jNBnqBXxbx7) | 3:05 | 2025-06-19 | 2025-07-25 |
 | [เมื่อวาน \(If I had Known\)](https://open.spotify.com/track/2VPUfsbOeLjkStCVHU297T) | [Pitcha](https://open.spotify.com/artist/1zGfyVesOudcNkU3oMeVtU) | [เมื่อวาน \(If I had Known\)](https://open.spotify.com/album/2LN5WvM0nMvbcQkEPxVrnV) | 4:04 | 2024-10-11 | 2024-11-09 |
+| [เมื่อวานฉันรักเธอน้อยกว่าวันนี้](https://open.spotify.com/track/2ed8adZVrtxPsZiXEnUV2K) | [whateve](https://open.spotify.com/artist/7zjWcziyuEgaHLtUjb0ikG) | [เมื่อวานฉันรักเธอน้อยกว่าวันนี้](https://open.spotify.com/album/6FmtNZfhY3qXIuGMp8h5wb) | 3:30 | 2026-06-24 |  |
 | [เมื่อสายไป \(Too Late\)](https://open.spotify.com/track/50ly42q5tSJKrg8PeVrM2x) | [52Hz.](https://open.spotify.com/artist/644n4DLEJHnmnAgoVv6oTE) | [เมื่อสายไป \(Too Late\)](https://open.spotify.com/album/2vbLYQcRuMpIYVhit6r61J) | 4:51 | 2023-10-20 | 2023-11-09 |
 | [เมื่อเราถูกรัก \(จากใครสักคนที่ถูกเลี้ยงดูมาอย่างดี\)](https://open.spotify.com/track/3EwfaOLNINnYtkl1LBATjW) | [Alarm9](https://open.spotify.com/artist/1CVUCotEuE0NG4KiRGaYit) | [เมื่อเราถูกรัก \(จากใครสักคนที่ถูกเลี้ยงดูมาอย่างดี\)](https://open.spotify.com/album/47f9gn5eWnyfKPNJZWGT50) | 4:00 | 2025-04-03 | 2025-05-23 |
 | [เมื่อไม่มีเธอ](https://open.spotify.com/track/5LhAlOhkGcQK8OjPFSfCJ5) | [Paks](https://open.spotify.com/artist/2YV9gw9wdpbCZpBUI7ukDz) | [เมื่อไม่มีเธอ](https://open.spotify.com/album/61Z30nkN3TPVQFH4ZyEdRG) | 4:08 | 2024-04-19 | 2024-06-01 |

@@ -563,6 +563,24 @@
     },
     {
       "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/3Eauvo8fZ7Hb5HpNwrDE1P"
+      },
+      "artists": [
+        {
+          "name": "GB",
+          "url": "https://open.spotify.com/artist/4YMJGenzGCHYz30PRdTJP8"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241541,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/3aOfynJVvUXioiO0gkzfPX"
+    },
+    {
+      "album": {
         "name": "Hitch Your Wagon to a Star",
         "url": "https://open.spotify.com/album/5UpLbFxtP5aWQhIfKZlvSQ"
       },
@@ -1418,6 +1436,24 @@
       "duration_ms": 164626,
       "name": "Auntie's Lock/Infinitum",
       "url": "https://open.spotify.com/track/08mLKO1adBkvaaJyCsEahC"
+    },
+    {
+      "album": {
+        "name": "Autosmile",
+        "url": "https://open.spotify.com/album/0TkVOCI5fcQPt6mbFT2jil"
+      },
+      "artists": [
+        {
+          "name": "@",
+          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399026,
+      "name": "Autosmile",
+      "url": "https://open.spotify.com/track/74wiS51Xagi78GpoStA7hr"
     },
     {
       "album": {

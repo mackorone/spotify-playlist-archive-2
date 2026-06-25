@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > kun det nyeste danske rap 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,334 likes - 61 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,326 likes - 61 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Siden Start \(feat\. OLIVVER & Merro8\)](https://open.spotify.com/track/1pnUOhAme8mJoclC7tZXM2) | [Mike Lowrey](https://open.spotify.com/artist/1Ty16CxXn9CapBAn9bt4Hv), [Willy](https://open.spotify.com/artist/6Ex4qMJYjLpfDpxDinHC82), [OLIVVER](https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO), [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [Siden Start \(feat\. OLIVVER & Merro8\)](https://open.spotify.com/album/0Z5OvShv9JmPhxPwPzCmE8) | 2:36 |
-| 2 | [Hold Mit Tempo](https://open.spotify.com/track/1AiduuJNTQikQ4edzuTcUM) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [WAVY](https://open.spotify.com/album/6i7FhriSAJMckXNjqy1K5E) | 2:43 |
+| 2 | [Hold Mit Tempo](https://open.spotify.com/track/1AiduuJNTQikQ4edzuTcUM) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [WAVY](https://open.spotify.com/album/6i7FhriSAJMckXNjqy1K5E) | 2:43 |
 | 3 | [Kort & Kontant](https://open.spotify.com/track/1VqsSu8ypQfuFqWSEhYXVW) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Kort & Kontant](https://open.spotify.com/album/7GDLqPFMdNBc7DfhOd5nnV) | 3:25 |
 | 4 | [Libre](https://open.spotify.com/track/4whm6QeeLouv2jc6iCV8Iq) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC) | [Libre](https://open.spotify.com/album/7duxJrzYUSBx9VuZfYCTkw) | 2:03 |
 | 5 | [KUN 4 OS 2](https://open.spotify.com/track/3tTjSy6eiEi7rFLIHtrUeP) | [AMAL](https://open.spotify.com/artist/4CtKkvQ9cQLDkJMJDS3XAD), [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [KUN 4 OS 2](https://open.spotify.com/album/01byyjuHBSQuDyXtvMvaLK) | 3:45 |

@@ -643,6 +643,24 @@
     },
     {
       "album": {
+        "name": "Sympathetic Waveforms",
+        "url": "https://open.spotify.com/album/5NH23YnT1jzDMkSC2b9AdK"
+      },
+      "artists": [
+        {
+          "name": "Stratafield",
+          "url": "https://open.spotify.com/artist/1VuViStzi9Ag49k1Hxm9xA"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291600,
+      "name": "Elysian Fields",
+      "url": "https://open.spotify.com/track/5R2WeAM9axE8EMAMbPchzO"
+    },
+    {
+      "album": {
         "name": "Endless and Free",
         "url": "https://open.spotify.com/album/1pXbNpKvgqUtX924js0vhx"
       },

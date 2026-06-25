@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-401 songs - 23 hr 16 min
+402 songs - 23 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Be the Star That You Are](https://open.spotify.com/track/48hhpEl3Q2f4sL4kMsHC8R) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Be the Star That You Are](https://open.spotify.com/album/1QcGdYC268jeVW185uD1L0) | 3:09 | 2026-04-18 |  |
 | [Beautiful Fear](https://open.spotify.com/track/2Q5xpVC50J31TqReHVIWk0) | [Lillibet](https://open.spotify.com/artist/5y9NYCtVotuZjlA8wkPoDe) | [Beautiful Fear](https://open.spotify.com/album/2sAtb468bjoRr9YJsvSnpD) | 3:52 | 2026-01-28 | 2026-03-10 |
 | [Bir Kent Rüyası](https://open.spotify.com/track/5Ww3NzsitV8ZlrGRF8FwRL) | [Gizem Demirhan](https://open.spotify.com/artist/1E0M9BtLjPMUurgqUqpi7o) | [Bir Kent Rüyası](https://open.spotify.com/album/5AoC8tcQtcs5mKXQAih72z) | 3:05 | 2026-02-10 | 2026-03-29 |
+| [Black & White](https://open.spotify.com/track/5l7Saevnhj0pWnnLAeXHOz) | [Patch Habits](https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ) | [Black & White](https://open.spotify.com/album/4d9gRLsl9swpB6qC1xzjYF) | 3:22 | 2026-06-24 |  |
 | [Blanket Dreams](https://open.spotify.com/track/2tBYXZBymRJRGMMH9t1oF2) | [Baggs](https://open.spotify.com/artist/44k6sRhRRAW6Uy85KCr9Ti) | [Blanket Dreams](https://open.spotify.com/album/4M47wTUTOrVeFg50G5cXbl) | 3:34 | 2026-04-14 |  |
 | [Blood Full of Metal](https://open.spotify.com/track/248ljP84krXywsN09x4F4E) | [The PennyPound](https://open.spotify.com/artist/2QhZfUGvvm4AA07JNVY4SS) | [Blood Full of Metal](https://open.spotify.com/album/2mIC9Fjg06dzZpcHiDFngB) | 3:12 | 2026-02-03 | 2026-03-20 |
 | [Bloodshot Eyes](https://open.spotify.com/track/4XzNILnHHcfJxtRtGn4Ow8) | [Ruth A Harris](https://open.spotify.com/artist/4TUBRIaMIcsQUgkIIl5Vz8) | [Bloodshot Eyes](https://open.spotify.com/album/5P9VKrEu11OUOb8Rxj6yla) | 3:33 | 2026-02-08 | 2026-03-29 |

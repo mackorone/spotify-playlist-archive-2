@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Jami Faltin, Samuell, Ina..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,512 likes - 91 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,507 likes - 91 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

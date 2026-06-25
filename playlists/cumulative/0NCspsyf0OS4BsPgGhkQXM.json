@@ -23795,6 +23795,28 @@
     },
     {
       "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/0mWL666UA0GKdao1Bk3eas"
+      },
+      "artists": [
+        {
+          "name": "DASH",
+          "url": "https://open.spotify.com/artist/0Lytvh6QGkV6v8UAeht06c"
+        },
+        {
+          "name": "Tara Carosielli",
+          "url": "https://open.spotify.com/artist/5d6YpWfrSRRZBTgfLt0xcz"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/7IvD5f3qlRviom10Oe95Kt"
+    },
+    {
+      "album": {
         "name": "Wolves",
         "url": "https://open.spotify.com/album/4vUi3tv0KAxXvcLdeXRvb0"
       },

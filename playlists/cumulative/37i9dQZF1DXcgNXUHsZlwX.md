@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-611 songs - 1 day 12 hr 23 min
+612 songs - 1 day 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Flash in the Pan](https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Eleven Songs](https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76) | 2:49 | 2021-10-03 |  |
 | [FLATTE!](https://open.spotify.com/track/0q9SpxJXi5uLhxKQNsJflG) | [Fred Tremblay](https://open.spotify.com/artist/4MpruP4drFjBWNU64Ipd6n) | [Au pire, j'vendrai du gaz...](https://open.spotify.com/album/5LFv3Rp4aBp2WQbtJzBlDa) | 3:07 | 2021-02-23 | 2021-05-27 |
 | [Flavie s'en va](https://open.spotify.com/track/7McJTrpBlAvRKgwEl4teap) | [Yasmina Léveillé](https://open.spotify.com/artist/2mqsXujGcEAShex2pxA4ui) | [Entre Beyrouth et Lévis](https://open.spotify.com/album/5oLTU3Dc75WLB6cq586f0h) | 3:32 | 2026-03-06 | 2026-06-17 |
+| [Fleuron \(feat\. Helena Deland\)](https://open.spotify.com/track/4fgp7Ase2eu8dnkQZ73AkT) | [N NAO](https://open.spotify.com/artist/2bTWc0z5acK6nczbQAoiFs), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Fleuron \(feat\. Helena Deland\)](https://open.spotify.com/album/6Qp4q7H4L6xOiR6rfpGxn0) | 3:15 | 2026-06-19 |  |
 | [Fontaine à vœux](https://open.spotify.com/track/22zJbNjvH4ZFplXfypE9Yo) | [Les Hay Babies](https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx) | [Boîte aux lettres](https://open.spotify.com/album/4Ziyy1jo91GImMnuTHtU19) | 3:30 | 2022-07-08 | 2023-09-16 |
 | [Fontaine à vœux](https://open.spotify.com/track/4S9LrQt71r4XcUQylmgyGM) | [Les Hay Babies](https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx) | [Boîte aux lettres](https://open.spotify.com/album/0vl6hSJqFCkUPeE0FNvf6e) | 3:30 | 2021-01-03\* | 2022-07-29 |
 | [For The Breakdowns](https://open.spotify.com/track/2fN3mTftR80HwV5r79rq10) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [For the Breakdowns](https://open.spotify.com/album/5yoqFxiDljDVn70lVn1Sd2) | 3:04 | 2022-09-16 | 2023-02-12 |
@@ -263,7 +264,7 @@
 | [La forêt](https://open.spotify.com/track/307TfFnAVG0MN2pSFXz2AW) | [Jay Trepanier](https://open.spotify.com/artist/5GAcHj0ZkPL07NNkfgW7do) | [La forêt](https://open.spotify.com/album/1GMaKOEve0K68gFGPjjXbF) | 2:22 | 2024-09-13 | 2024-12-03 |
 | [La fumée des bougies](https://open.spotify.com/track/7IsofhSconuBgXO2cvpbVL) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [La fumée des bougies](https://open.spotify.com/album/0s5d7SHgMqa5EJlz24vsLp) | 3:57 | 2022-12-16 | 2023-08-26 |
 | [La lettre](https://open.spotify.com/track/5T0pz4KYzXrOBWxrBvpZ8W) | [Juste Robert](https://open.spotify.com/artist/4lll5qbnN7kMIi5jOZUpVi) | [Ta théorie sur la lumière](https://open.spotify.com/album/16smfu1rntYNsY9yYqvDDC) | 3:24 | 2022-02-11 | 2022-07-23 |
-| [La lumière](https://open.spotify.com/track/0biGRUzQFtJMSraU7iu9Xm) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [La lumière](https://open.spotify.com/album/1Bnd3iUOj9iTWgyQH8q4Pk) | 4:00 | 2025-06-20 |  |
+| [La lumière](https://open.spotify.com/track/0biGRUzQFtJMSraU7iu9Xm) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [La lumière](https://open.spotify.com/album/1Bnd3iUOj9iTWgyQH8q4Pk) | 4:00 | 2025-06-20 | 2026-06-25 |
 | [La maison jaune \(edit\)](https://open.spotify.com/track/3WtMKaUKG7thWKJstzcKNo) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [La maison jaune \(edit\)](https://open.spotify.com/album/3knYO0onnkgMwjU3VZCetN) | 4:06 | 2021-12-06 | 2022-04-19 |
 | [La mer rose](https://open.spotify.com/track/4DnUtxeDsHam1KdvdOgBVv) | [Orlanda](https://open.spotify.com/artist/23nY5K8uRicVSFQDOovHTe) | [Fantaisie](https://open.spotify.com/album/3VYyrIlSdin2xd7MQKxvtG) | 2:27 | 2025-02-07 | 2026-01-31 |
 | [La mort des étoiles](https://open.spotify.com/track/5iDhyg8xIAkK1EJtZdL4Vr) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [La mort des étoiles](https://open.spotify.com/album/6JMHCAOiIQoJG7Yp8s40m5) | 4:19 | 2021-01-03\* | 2026-01-01 |

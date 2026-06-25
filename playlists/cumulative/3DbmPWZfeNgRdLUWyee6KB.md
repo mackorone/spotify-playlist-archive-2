@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,221 songs - 2 day 23 hr 4 min
+1,224 songs - 2 day 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,6 +359,7 @@
 | [Fumble](https://open.spotify.com/track/1SQufToTrFMKonHw9xmfFy) | [Ben Carringer](https://open.spotify.com/artist/5Xs7la5VzfvqDJD2KfVhL6) | [Fumble](https://open.spotify.com/album/6ucAkjjQKfWa3n83odFH7P) | 4:02 | 2025-12-15 | 2026-01-15 |
 | [fun fiction](https://open.spotify.com/track/56uH5sVVh4rCJEd1k00ZqX) | [Kiey](https://open.spotify.com/artist/5EUXxplcFbismt2ccPQNHd), [CeCe Trương](https://open.spotify.com/artist/0We6FybaRNC3InZwnhiH2J) | [fun fiction](https://open.spotify.com/album/6BN0EwEZ1QrC9aFplflHj9) | 3:15 | 2026-06-16 |  |
 | [Fuori Fase](https://open.spotify.com/track/4BvTTUR5I6Lu32H4SEp5XF) | [SanaNasciari](https://open.spotify.com/artist/3DtXo63P1fcyUzRRYsnI3T) | [Fuori Fase](https://open.spotify.com/album/7EUDXRvf6IO08kdUOvmexW) | 3:19 | 2026-03-18 | 2026-04-22 |
+| [FURRY FRIENDS](https://open.spotify.com/track/2gnZmFxLw9by8BwV1k6BHa) | [Crazy Trottles](https://open.spotify.com/artist/6N3TSJcbEEqiHeiv6qqFxz) | [FURRY FRIENDS](https://open.spotify.com/album/5HKaaPkVWWcxYZ9COjBxIX) | 2:34 | 2026-06-24 |  |
 | [Future Paranoia](https://open.spotify.com/track/0JkVP9dN0djsS4j1aKMwZO) | [Philip Morgan Lewis](https://open.spotify.com/artist/6dttJ9KPpPk9qoo8mEWkR5) | [Future Paranoia](https://open.spotify.com/album/1X5EWN85z3URtBr5A0Msyd) | 2:22 | 2026-06-23 |  |
 | [Gangster Shit](https://open.spotify.com/track/3D6rVmlwFJnTYHzeC1pF3o) | [Lance Mitchell](https://open.spotify.com/artist/42tYt31wuq2tI0umoOwsC4) | [Gangster Shit](https://open.spotify.com/album/0x2247BmfODK2ubsG0QLTs) | 1:54 | 2026-02-03 | 2026-03-07 |
 | [Gather Ye Low Buzz](https://open.spotify.com/track/15e4jWmhuh6MXnsgEGgMWV) | [Huey Daze](https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y), [Ata Sato](https://open.spotify.com/artist/7c3ZuJHFKA2hYp5DtGXwLA) | [Gather Ye Low Buzz](https://open.spotify.com/album/59WESmGVeCeWQ3FIXCFkOI) | 2:07 | 2026-05-21 |  |
@@ -652,6 +653,7 @@
 | [Memories](https://open.spotify.com/track/5Jpq2l82zrAp0IxgeLR8c2) | [Nissu](https://open.spotify.com/artist/0jFlIuRMZuBZrowaOZXEe0) | [Memories](https://open.spotify.com/album/6Kbr8PFQrTu0J2GmK8o5uz) | 3:32 | 2025-12-09 | 2026-01-05 |
 | [Men whit the painted faces \- Remastered 2023](https://open.spotify.com/track/3vCaqtrVCRDnWsRW4Q2QLW) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3) | [...and Mama was a belly dancer \(Remastered 2023\)](https://open.spotify.com/album/7akxOJh7LxWGdBMmHH7HOo) | 4:54 | 2023-11-16 | 2025-11-29 |
 | [Mental Check](https://open.spotify.com/track/2U7NtTYY6Cb0C06jJ4ibuS) | [B1GHEADCHRIS](https://open.spotify.com/artist/1qfIzy7pywvM34nzOv6DA6), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK), [Prod\. MyKey](https://open.spotify.com/artist/5EihbHGDf7x0IUptnEGvFm) | [Mental Check](https://open.spotify.com/album/45J61GzF99IiCjNdYbh1g3) | 2:52 | 2025-09-29 | 2025-11-29 |
+| [Mercury](https://open.spotify.com/track/5Lfna3AUBeb8a1zcvkBcyq) | [Mirco Vincenzo Giuseppe Prainito](https://open.spotify.com/artist/7j7MDPBL9KgXPfpNbbm4PC) | [Mercury](https://open.spotify.com/album/6AQ2C55ZPeBgh3qYOxqldT) | 3:55 | 2026-06-24 |  |
 | [merry go ride](https://open.spotify.com/track/4Jp9WaezW7pSVinrabzEu8) | [Aditi Babel](https://open.spotify.com/artist/4X2D1bYP9UzN86evEoqG4U) | [merry go ride](https://open.spotify.com/album/7BC6SaxU6BcjdaNVp1xseX) | 3:10 | 2026-03-24 | 2026-04-22 |
 | [Messed up \- Special Version](https://open.spotify.com/track/7HWY296a0w1F8PnmXzhd4I) | [Tony Rocha](https://open.spotify.com/artist/5IAqjbY4kei33bE9LUX6Sm) | [Messed Up](https://open.spotify.com/album/47irEOvWe6aeYqCORfxZWE) | 3:04 | 2026-06-09 |  |
 | [Meu Amor Vão Bora](https://open.spotify.com/track/1gPxCrhDQUgXNgN7wLACh7) | [SINCERSIX](https://open.spotify.com/artist/7zJGhnTmm0NKy3JDYIKskG) | [Meu Amor Vão Bora](https://open.spotify.com/album/5VanKUYVd8eF61b3l4uBfU) | 3:44 | 2026-06-09 |  |
@@ -969,6 +971,7 @@
 | [Sugnu comu un cunigliu \(Remix\)](https://open.spotify.com/track/2FqPlXHl92icIrhAMX7oqA) | [Rosa Balistreri](https://open.spotify.com/artist/6PMYU9RDf4z5H45KdeMyeF), [Milagro Acustico](https://open.spotify.com/artist/3DGNC89jMak25ZrNzdfnjs), [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa) | [Greetings from South Italy](https://open.spotify.com/album/6Yup2nahWkqQlE3Iji4tNm) | 4:42 | 2023-04-27 | 2025-11-29 |
 | [Suitcase By The Door](https://open.spotify.com/track/32BI9PMpCX7jROdJaCryrw) | [Caitty](https://open.spotify.com/artist/1AGpP1Kgtg1qtlHAFY643d) | [Written By Caitty](https://open.spotify.com/album/1wowlkL5qOCspZ6TjHXEKM) | 3:48 | 2025-11-24 | 2026-01-05 |
 | [Summer days](https://open.spotify.com/track/62kvla2cqvJWEIDckj5bAD) | [Jivarp](https://open.spotify.com/artist/0BGkkx9kCUionEhgkwekU8) | [Summer days](https://open.spotify.com/album/1t1UpetlINbJ71govZlfUx) | 2:50 | 2025-12-22 | 2026-01-24 |
+| [Summer Lover.](https://open.spotify.com/track/3Q7LYZJ6yogTVR6zKBFaGC) | [Filthy Algorithm](https://open.spotify.com/artist/7ekDW2aZNWqepIqqqfuE0G) | [Summer Lover.](https://open.spotify.com/album/30EKrOcaBoEDVcOkNIFMVB) | 2:45 | 2026-06-24 |  |
 | [Sunday Morning Fight \(About Saturday Night\)](https://open.spotify.com/track/1mw9rMpGKLTK87W4T0w2j7) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Sunday Morning Fight \(About Saturday Night\)](https://open.spotify.com/album/5GAm7vkxYMcA9eRVYzodpz) | 3:44 | 2025-12-20 | 2026-01-15 |
 | [Sunflower](https://open.spotify.com/track/5TqAQEA5kwDC6VN9pwGEBs) | [Craig Cordwell](https://open.spotify.com/artist/1LGKYIglmZVkinGQyFftre) | [Sunflower](https://open.spotify.com/album/67q3RqljhpQeY4vsl0s4di) | 2:26 | 2026-03-02 | 2026-03-25 |
 | [Sunflower \(by NorLights\)](https://open.spotify.com/track/1ontRaVty2151D0FWCPZQw) | [NorLights](https://open.spotify.com/artist/4J2UmzAldNPzDFI2DYTzoh) | [Sunflower \(by NorLights\)](https://open.spotify.com/album/5chXRB68aAI3my88H7ZXle) | 2:57 | 2026-03-17 | 2026-04-12 |

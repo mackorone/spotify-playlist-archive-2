@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Bonobo
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,772 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,780 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 14 | [Party Criminal](https://open.spotify.com/track/3fRURTdeiyrZMRKpyFtDbE) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe), [Warrior Queen](https://open.spotify.com/artist/6MGlEnPgJhFkC8P8DdKtsT) | [Cutting Thread](https://open.spotify.com/album/2l3soHjdwpJifx0Nn7Jh1N) | 3:14 |
 | 15 | [Essex\_Honey.mp3](https://open.spotify.com/track/6PMSpoBxswOQOkgWXv0ih3) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Essex\_Honey.mp3](https://open.spotify.com/album/7Em98ENzbDnIoXXPaZ4mFY) | 4:49 |
 | 16 | [I Think I'm About To Break](https://open.spotify.com/track/1AWPTcx4W2Z4b4UFIOVdZE) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn), [CARMICHAEL](https://open.spotify.com/artist/28aPZP4w3Qj01OPQCoSwC8), [suval](https://open.spotify.com/artist/4LqnRW18kU8pjcg2YJZoIF) | [I Think I'm About To Break](https://open.spotify.com/album/0uDGDWdXl258PeABlvQbaf) | 2:45 |
-| 17 | [Visions \(feat\. Sarah Nimmo\)](https://open.spotify.com/track/14lsJvnrQf7SX2uk3jO1sO) | [NIGHT manoeuvres](https://open.spotify.com/artist/2CanvvhMZkqCFDFEOvcdNE), [Dot Major](https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh), [ABSOLUTE.](https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h), [Sarah Nimmo](https://open.spotify.com/artist/2U6enUXvLRB7L29djdKqJO) | [Visions \(feat\. Sarah Nimmo\)](https://open.spotify.com/album/0dHj6dcR59sEmaaN4gjmsF) | 2:50 |
+| 17 | [Visions](https://open.spotify.com/track/14lsJvnrQf7SX2uk3jO1sO) | [NIGHT manoeuvres](https://open.spotify.com/artist/2CanvvhMZkqCFDFEOvcdNE), [Dot Major](https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh), [ABSOLUTE.](https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h), [Sarah Nimmo](https://open.spotify.com/artist/2U6enUXvLRB7L29djdKqJO) | [Visions](https://open.spotify.com/album/0dHj6dcR59sEmaaN4gjmsF) | 2:50 |
 | 18 | [138 Perc](https://open.spotify.com/track/0rO1KgRj9JwhLYfLt4I2td) | [Sam Interface](https://open.spotify.com/artist/04dcWSXP57PDMzOuQ2tgMw) | [138 Perc](https://open.spotify.com/album/6L4TmMYQsWLZepaQbROMGn) | 4:41 |
 | 19 | [ill be there for u](https://open.spotify.com/track/2pfbhevjWzuSycZzSXAuVU) | [amil raja](https://open.spotify.com/artist/4emKkyOHSx3lMdmNNBZiUt) | [ill be there for u](https://open.spotify.com/album/4igH6XAgzuFY0OXVXOSIod) | 3:09 |
 | 20 | [Vertical](https://open.spotify.com/track/0ecQazzKkndVD8Ry9Orp9Q) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Vertical](https://open.spotify.com/album/5yE2axVMkK3AwGrAT7W1L3) | 2:36 |

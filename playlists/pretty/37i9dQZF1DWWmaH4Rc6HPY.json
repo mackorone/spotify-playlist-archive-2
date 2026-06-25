@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! ANASOF en portada.",
-  "num_followers": 38828,
+  "num_followers": 38837,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2026-05-22 06:00:30",
       "album": {
-        "name": "Pop Rock",
-        "url": "https://open.spotify.com/album/0fBK2XFrgxTKQMYrLDQxsI"
-      },
-      "artists": [
-        {
-          "name": "Melendi",
-          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
-        }
-      ],
-      "duration_ms": 217120,
-      "name": "Veneno y Arena",
-      "url": "https://open.spotify.com/track/4xRc4vzso6gm1waaBUFIoM"
-    },
-    {
-      "added_at": "2026-05-22 06:00:30",
-      "album": {
         "name": "Me has invitado a bailar",
         "url": "https://open.spotify.com/album/2dtz3wrC1FrShzjLEy6xDp"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 192906,
       "name": "Me has invitado a bailar",
       "url": "https://open.spotify.com/track/0JJw1ghkoEu3Yat1uOSjAE"
+    },
+    {
+      "added_at": "2026-05-22 06:00:30",
+      "album": {
+        "name": "Pop Rock",
+        "url": "https://open.spotify.com/album/0fBK2XFrgxTKQMYrLDQxsI"
+      },
+      "artists": [
+        {
+          "name": "Melendi",
+          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
+        }
+      ],
+      "duration_ms": 217120,
+      "name": "Veneno y Arena",
+      "url": "https://open.spotify.com/track/4xRc4vzso6gm1waaBUFIoM"
     },
     {
       "added_at": "2026-05-22 06:00:30",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-05-22 06:00:30",
       "album": {
-        "name": "Se Me Va",
-        "url": "https://open.spotify.com/album/5nVcYNglS9CCWlBgent3Nf"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Se Me Va",
-      "url": "https://open.spotify.com/track/3k8cy0mnztuAVC267hrLLm"
-    },
-    {
-      "added_at": "2026-05-22 06:00:30",
-      "album": {
         "name": "CUERPOS, Vol. 1",
         "url": "https://open.spotify.com/album/08oCrWpJJhLBSRqd6WczEV"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 226181,
       "name": "TIEMPO OFF",
       "url": "https://open.spotify.com/track/6VZrGs2utNJM028PV2gPJB"
+    },
+    {
+      "added_at": "2026-05-22 06:00:30",
+      "album": {
+        "name": "Se Me Va",
+        "url": "https://open.spotify.com/album/5nVcYNglS9CCWlBgent3Nf"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Se Me Va",
+      "url": "https://open.spotify.com/track/3k8cy0mnztuAVC267hrLLm"
     },
     {
       "added_at": "2026-05-22 06:00:30",
@@ -759,26 +759,6 @@
     {
       "added_at": "2026-05-22 06:00:30",
       "album": {
-        "name": "El Reloj Me Miente",
-        "url": "https://open.spotify.com/album/5OLRpRcnGYLR1u0HFy0DTk"
-      },
-      "artists": [
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        },
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        }
-      ],
-      "duration_ms": 223274,
-      "name": "El Reloj Me Miente",
-      "url": "https://open.spotify.com/track/0OiQup7RDj8XgOe4yHIDpP"
-    },
-    {
-      "added_at": "2026-05-22 06:00:30",
-      "album": {
         "name": "La \u00daltima Noche (con Estopa)",
         "url": "https://open.spotify.com/album/2YVsgpiHQi6Gz3LKmyTYV7"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 235360,
       "name": "S\u00f3lo Qu\u00e9date En Silencio",
       "url": "https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD"
+    },
+    {
+      "added_at": "2026-05-22 06:00:30",
+      "album": {
+        "name": "El Reloj Me Miente",
+        "url": "https://open.spotify.com/album/5OLRpRcnGYLR1u0HFy0DTk"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        },
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "duration_ms": 223274,
+      "name": "El Reloj Me Miente",
+      "url": "https://open.spotify.com/track/0OiQup7RDj8XgOe4yHIDpP"
     },
     {
       "added_at": "2026-05-22 06:00:30",
@@ -1043,18 +1043,22 @@
     {
       "added_at": "2026-05-22 06:00:30",
       "album": {
-        "name": "Bruma",
-        "url": "https://open.spotify.com/album/1x0vn8Q88as4Ct8UcKNIe7"
+        "name": "7 Secretos",
+        "url": "https://open.spotify.com/album/1DHS9kMaklrQAiiOxUAzmO"
       },
       "artists": [
         {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
         }
       ],
-      "duration_ms": 201120,
-      "name": "Bruma",
-      "url": "https://open.spotify.com/track/6sz1RiK5ltgQQxSsrRzVy4"
+      "duration_ms": 191107,
+      "name": "Dame Love - Remix",
+      "url": "https://open.spotify.com/track/4osMQOkwTX79FUbNJpGxCD"
     },
     {
       "added_at": "2026-05-22 06:00:30",
@@ -1079,22 +1083,18 @@
     {
       "added_at": "2026-05-22 06:00:30",
       "album": {
-        "name": "7 Secretos",
-        "url": "https://open.spotify.com/album/1DHS9kMaklrQAiiOxUAzmO"
+        "name": "Bruma",
+        "url": "https://open.spotify.com/album/1x0vn8Q88as4Ct8UcKNIe7"
       },
       "artists": [
         {
-          "name": "Seven Kayne",
-          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
-        },
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
         }
       ],
-      "duration_ms": 191107,
-      "name": "Dame Love - Remix",
-      "url": "https://open.spotify.com/track/4osMQOkwTX79FUbNJpGxCD"
+      "duration_ms": 201120,
+      "name": "Bruma",
+      "url": "https://open.spotify.com/track/6sz1RiK5ltgQQxSsrRzVy4"
     },
     {
       "added_at": "2026-05-22 06:00:30",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-05-22 06:00:30",
       "album": {
-        "name": "Alta Fidelidad",
-        "url": "https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ"
-      },
-      "artists": [
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        }
-      ],
-      "duration_ms": 230097,
-      "name": "Quisiera Ser Como T\u00fa",
-      "url": "https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f"
-    },
-    {
-      "added_at": "2026-05-22 06:00:30",
-      "album": {
         "name": "R",
         "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 210333,
       "name": "Sed de Acci\u00f3n",
       "url": "https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX"
+    },
+    {
+      "added_at": "2026-05-22 06:00:30",
+      "album": {
+        "name": "Alta Fidelidad",
+        "url": "https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "duration_ms": 230097,
+      "name": "Quisiera Ser Como T\u00fa",
+      "url": "https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f"
     },
     {
       "added_at": "2026-05-22 06:00:30",
@@ -1219,22 +1219,22 @@
     {
       "added_at": "2026-05-22 06:00:30",
       "album": {
-        "name": "Te Extra\u00f1ar\u00e9",
-        "url": "https://open.spotify.com/album/1UT6WSgRQ09CY40pHslYEQ"
+        "name": "El M\u00e9ndigo D\u00eda Del Padre",
+        "url": "https://open.spotify.com/album/5h5eVaiuXPxfUfxgFOPuE9"
       },
       "artists": [
         {
-          "name": "Jumbo",
-          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
         },
         {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
         }
       ],
-      "duration_ms": 196365,
-      "name": "Te Extra\u00f1ar\u00e9",
-      "url": "https://open.spotify.com/track/4jNEAv50XJge80AocPZYWB"
+      "duration_ms": 266066,
+      "name": "El M\u00e9ndigo D\u00eda Del Padre",
+      "url": "https://open.spotify.com/track/6KwKCsC05vg2RbhF5rVmc3"
     },
     {
       "added_at": "2026-05-22 06:00:30",
@@ -1275,22 +1275,22 @@
     {
       "added_at": "2026-05-22 06:00:30",
       "album": {
-        "name": "El M\u00e9ndigo D\u00eda Del Padre",
-        "url": "https://open.spotify.com/album/5h5eVaiuXPxfUfxgFOPuE9"
+        "name": "Te Extra\u00f1ar\u00e9",
+        "url": "https://open.spotify.com/album/1UT6WSgRQ09CY40pHslYEQ"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Madero",
-          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+          "name": "Jumbo",
+          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
         },
         {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 266066,
-      "name": "El M\u00e9ndigo D\u00eda Del Padre",
-      "url": "https://open.spotify.com/track/6KwKCsC05vg2RbhF5rVmc3"
+      "duration_ms": 196365,
+      "name": "Te Extra\u00f1ar\u00e9",
+      "url": "https://open.spotify.com/track/4jNEAv50XJge80AocPZYWB"
     },
     {
       "added_at": "2026-05-22 06:00:30",

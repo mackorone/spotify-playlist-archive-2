@@ -915,6 +915,28 @@
     },
     {
       "album": {
+        "name": "Welcome To The Jungle (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1W7FuYLH3fv0lncFQ7hmqE"
+      },
+      "artists": [
+        {
+          "name": "Talwiinder",
+          "url": "https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN"
+        },
+        {
+          "name": "NDS",
+          "url": "https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213764,
+      "name": "Kyun",
+      "url": "https://open.spotify.com/track/0dEPR2Atoyv8ZvBOFH8i9W"
+    },
+    {
+      "album": {
         "name": "Laal Pari (From \"Housefull 5\")",
         "url": "https://open.spotify.com/album/3Z3pyPT3n8DtJyEtvAnm8L"
       },
@@ -960,7 +982,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 188101,
       "name": "Laal Peeli Akhiyaan (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
       "url": "https://open.spotify.com/track/2ibipg9GBEZ5YKOdskobJZ"
@@ -1668,7 +1690,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 160536,
       "name": "Tera Ho Jaun (From \"Hai Jawani Toh Ishq Hona Hai\")",
       "url": "https://open.spotify.com/track/4KrVfk5QMYwIvUC3q5p0la"
@@ -1869,6 +1891,36 @@
     },
     {
       "album": {
+        "name": "VALLAH (From \u201cCocktail 2\u201d)",
+        "url": "https://open.spotify.com/album/6VS0zvMt7Rrdv8bZrMlCfE"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        },
+        {
+          "name": "Harrdy Sandhu",
+          "url": "https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193591,
+      "name": "VALLAH - From \u201cCocktail 2\u201d",
+      "url": "https://open.spotify.com/track/4ghNyHEWBeYan20mwSWDQ8"
+    },
+    {
+      "album": {
         "name": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
         "url": "https://open.spotify.com/album/2140eUTm2dUfKj1FL7DDAe"
       },
@@ -1970,7 +2022,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 285619,
       "name": "Zara Zara Touch Me",
       "url": "https://open.spotify.com/track/15BmNnMZTnPTawkFaJv1JR"

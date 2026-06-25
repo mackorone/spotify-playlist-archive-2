@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Tierra Whack
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,325,501 likes - 99 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,325,487 likes - 99 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 11 | [I Can See](https://open.spotify.com/track/2E0cEkMXWGKOA1wZx48IG5) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [I Can See](https://open.spotify.com/album/04MbUzml78sr5akB33mNDG) | 5:44 |
 | 12 | [DIRTY RUMOURS](https://open.spotify.com/track/3IZIkPVcsfqbpfTg7gc1SN) | [Ledbyher](https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s) | [DIRTY RUMOURS](https://open.spotify.com/album/3pb7TEfOUjkeKv8heapI6n) | 2:35 |
 | 13 | [Wushua](https://open.spotify.com/track/7oeD5jfi5PA7Aqh1xN4Nu4) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO) | [A Constant Charade \(Deluxe\)](https://open.spotify.com/album/4Jo5mp9O4wlNAhZLJatrry) | 3:10 |
-| 14 | [punch](https://open.spotify.com/track/5RBBxbvBLrQrN8K84fFtmA) | [Daisy\*](https://open.spotify.com/artist/5D9FTN2RO8AWdm57L9CVeH) | [punch](https://open.spotify.com/album/5uhc0x5otbt10RYvxUovN4) | 3:15 |
+| 14 | [punch](https://open.spotify.com/track/5RBBxbvBLrQrN8K84fFtmA) | [Daisy\*](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [punch](https://open.spotify.com/album/5uhc0x5otbt10RYvxUovN4) | 3:15 |
 | 15 | [point blank](https://open.spotify.com/track/3iVIWU9iGw8bJ8x2mfwXnI) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [point blank](https://open.spotify.com/album/2jJpukwwcs7tfNQFGq8iLr) | 4:26 |
 | 16 | [soulless cycle](https://open.spotify.com/track/6cOD4NsMsC3xykBHA3j5b6) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [soulless cycle](https://open.spotify.com/album/1yMh2IJqah3gsYN0MZBClm) | 2:58 |
 | 17 | [WAX PAPER](https://open.spotify.com/track/6jwFEp5K8fJ8R0yuKKPlCW) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [WAX PAPER](https://open.spotify.com/album/6zj9XJYbvNjJIJD5ItS4n6) | 2:43 |

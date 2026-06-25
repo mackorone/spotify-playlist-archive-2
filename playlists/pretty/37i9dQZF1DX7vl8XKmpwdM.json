@@ -1,12 +1,12 @@
 {
   "description": "Dance Machi Dance\nCover : Karuppu",
-  "num_followers": 356990,
+  "num_followers": 357096,
   "original_name": "Latest Dance Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPgiJb1hmjAn7mV57nRhcKR6Q4oM",
+  "snapshot_id": "AAAAAKYDdjVqOsKhzK1bDGRL7eaJyFFw",
   "tracks": [
     {
       "added_at": "2026-06-10 11:37:19",
@@ -157,30 +157,6 @@
       "url": "https://open.spotify.com/track/6zoMXYC40gVmMXQJfJFeCg"
     },
     {
-      "added_at": "2025-11-08 17:53:01",
-      "album": {
-        "name": "Thalapathy Kacheri (From \"Jana Nayagan\")",
-        "url": "https://open.spotify.com/album/0TthxobhZuRUVweIhTUwuc"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Thalapathy Vijay",
-          "url": "https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm"
-        },
-        {
-          "name": "Arivu",
-          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
-        }
-      ],
-      "duration_ms": 197104,
-      "name": "Thalapathy Kacheri (From \"Jana Nayagan\")",
-      "url": "https://open.spotify.com/track/28keFvZn4UVRi4I8Rj4GjY"
-    },
-    {
       "added_at": "2026-06-10 11:37:19",
       "album": {
         "name": "Karuppu (Original Motion Picture Soundtrack)",
@@ -239,6 +215,34 @@
       "duration_ms": 192961,
       "name": "Goindhamma (From \"Meesaya Murukku 2\")",
       "url": "https://open.spotify.com/track/4pibaSwz8vWyQQcFlDafFz"
+    },
+    {
+      "added_at": "2026-06-24 12:52:07",
+      "album": {
+        "name": "Rippipee (From \"Sathyavan Savithiri\")",
+        "url": "https://open.spotify.com/album/0q8EIU64LmGa5lbpF03ocB"
+      },
+      "artists": [
+        {
+          "name": "Sam C.S.",
+          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
+        },
+        {
+          "name": "Diwakar",
+          "url": "https://open.spotify.com/artist/5BdXSKDC9KQQpdQ7V3cZxD"
+        },
+        {
+          "name": "Reshma Shyam",
+          "url": "https://open.spotify.com/artist/6gLyEME6OfBcqYtrDt1JlB"
+        },
+        {
+          "name": "Mohan Rajan",
+          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
+        }
+      ],
+      "duration_ms": 177079,
+      "name": "Rippipee (From \"Sathyavan Savithiri\")",
+      "url": "https://open.spotify.com/track/16u3QPCAZQ37dHqRmlWm0a"
     },
     {
       "added_at": "2026-06-04 16:35:39",

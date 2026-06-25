@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Jazz](https://open.spotify.com/playlist/37i9dQZF1DXcWL5K0oNHcG)
 
-> Fresh jazz by independent artists every Wednesday\. Cover: New Jazz Underground\. Artwork: Joy Yamusangie.
+> Fresh jazz by independent artists every Wednesday\. Cover: Happy Imaeda\. Artwork: Joy Yamusangie.
 
-1,664 songs - 5 day 9 hr 51 min
+1,666 songs - 5 day 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -452,6 +452,7 @@
 | [Eri](https://open.spotify.com/track/1aJqWaIMx9mR4ssYT1jyBI) | [aki](https://open.spotify.com/artist/12mAUPNqn3G6BAjL1IgqsB) | [Eri](https://open.spotify.com/album/4Kyp0XXfeMrFPy3EP2WOc2) | 4:36 | 2022-09-28 | 2022-11-17 |
 | [Eronel](https://open.spotify.com/track/7dlFqpfkzAfVJNMu44WMqF) | [Marek Konarski](https://open.spotify.com/artist/0ZnimzyDZNsRbfHQqKnJw6) | [Konarski & Standards](https://open.spotify.com/album/2dj69o8yltikLhY0a0afam) | 5:51 | 2022-10-05 | 2022-12-01 |
 | [Escape to Mars](https://open.spotify.com/track/2vc3Yib4xxlNJJucPxqr8p) | [Aycan Teztel](https://open.spotify.com/artist/23pPYFUQvWcJANg52Q2e6L), [Anıl Şallıel](https://open.spotify.com/artist/7wNfIZCBLC3oT0b9a7qcir), [Williams Richart Cardoso](https://open.spotify.com/artist/4AkrHBPJJyd3Hpl4119kkN), [Volkan Öktem](https://open.spotify.com/artist/2CKKVhnXg0a9sw0DOXmwLK) | [Escape to Mars](https://open.spotify.com/album/6OdMa4xdjMDPZzFekcRNPe) | 3:28 | 2022-11-16 | 2023-03-16 |
+| [Eternal Spring](https://open.spotify.com/track/0Jd8WLhhbWgDWAPnZuqwCH) | [Jack Wyllie](https://open.spotify.com/artist/0e97XEaqVcQRfIeTLBPDkl) | [Eternal Spring](https://open.spotify.com/album/1lq6DmTvcF4jsrSmW7ckTY) | 5:21 | 2026-06-24 |  |
 | [Everybody Wins the Good Fight](https://open.spotify.com/track/3g8rMkaSzgpVDZvo6Zujz3) | [Aarhus Jazz Orchestra](https://open.spotify.com/artist/1VdLMRDzrV0JtFSOnk2em6), [I Think You're Awesome](https://open.spotify.com/artist/4tt0r6mVh339M8jIakNl9K) | [Everybody Wins the Good Fight](https://open.spotify.com/album/4t29eCjvuM3Z2LFVkqj8HT) | 6:28 | 2022-04-20 | 2022-05-19 |
 | [Evil Cute](https://open.spotify.com/track/13b15FZFkjeqby3OIaEvzv) | [Shunaji](https://open.spotify.com/artist/1bR8vHth2l5FyrI6Btgonx) | [Evil Cute](https://open.spotify.com/album/6a4oaeUkfzuWu8MukjuGUa) | 2:08 | 2023-07-19 | 2024-01-20 |
 | [Explorations of One's Self Inside a Caravan](https://open.spotify.com/track/3vDtZyKQKAg5LCfr4Y1mgY) | [Harry Christelis](https://open.spotify.com/artist/5JkSdbKIea82lrbbbkt2O7), [Christos Stylianides](https://open.spotify.com/artist/51uGQgWINfEcrZkmeuBpoV), [Andrea Di Biase](https://open.spotify.com/artist/5QbzXhxE9turmrCqd5Fose), [Dave Storey](https://open.spotify.com/artist/173p0nF7UqLCAX3a7wR58d) | [Explorations of One's Self Inside a Caravan](https://open.spotify.com/album/4bgQAoc7eURGY6LBqtmWtP) | 9:13 | 2023-02-08 | 2023-04-06 |
@@ -1138,7 +1139,7 @@
 | [Resemblance](https://open.spotify.com/track/5e6QY9L8oQW8qaajKXLci9) | [Emiliano Lasansky](https://open.spotify.com/artist/5H9mRyNtdbnJ9L0mAD2egh) | [Resemblance](https://open.spotify.com/album/53VCDjLyjPHroGXFAS1ZgS) | 6:40 | 2024-09-18 | 2025-03-20 |
 | [resketch](https://open.spotify.com/track/08TJVPBVXL871ukrtwfIs5) | [PIANO SHIFT](https://open.spotify.com/artist/2NgVrbppUOWDrRtFqxiLgi) | [resketch](https://open.spotify.com/album/6wLcbgKD8OFqSqFieK4Guf) | 3:43 | 2023-06-14 | 2023-09-15 |
 | [Resonance](https://open.spotify.com/track/3D8qO1KBD4LE3hf98PWDaz) | [BZSounds](https://open.spotify.com/artist/5sfU8PTosAbplqqVFQGwVH) | [Resonance](https://open.spotify.com/album/6lkWhsa43nOo4QZ4SkslKm) | 4:49 | 2023-05-24 | 2023-07-27 |
-| [Resonance](https://open.spotify.com/track/5DKML664ZyiuKI2RmPweIY) | [SYNC.EXE](https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx) | [Resonance](https://open.spotify.com/album/5JOKGI1Pwi5Elseu6PBI6y) | 3:58 | 2025-07-09 |  |
+| [Resonance](https://open.spotify.com/track/5DKML664ZyiuKI2RmPweIY) | [SYNC.EXE](https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx) | [Resonance](https://open.spotify.com/album/5JOKGI1Pwi5Elseu6PBI6y) | 3:58 | 2025-07-09 | 2026-06-25 |
 | [Reste un oiseau](https://open.spotify.com/track/2EJF3EdnuLtLNVNafgP08h) | [Anne Paceo](https://open.spotify.com/artist/73WqPBltlyOTxKoOVWWBdL) | [S.H.A.M.A.N.E.S](https://open.spotify.com/album/7FOsfHcovB9NrvNqDKZFTS) | 3:15 | 2022-11-30 | 2023-01-12 |
 | [Reste un oiseau](https://open.spotify.com/track/4miACj3Pi7Pox3ylFNFZ9s) | [Anne Paceo](https://open.spotify.com/artist/73WqPBltlyOTxKoOVWWBdL) | [Reste un oiseau](https://open.spotify.com/album/6803wHGAlnx5ABcWhjgmJy) | 3:15 | 2022-02-09 | 2022-03-17 |
 | [Resurgence](https://open.spotify.com/track/5qtmaZ4LY7yXy5Iv556dZX) | [Mad Keys](https://open.spotify.com/artist/542FKpIX73UoqWHne4D2E2) | [Resurgence](https://open.spotify.com/album/2HhwakTXk20GrAjjyWTAqC) | 5:40 | 2022-04-27 | 2022-05-26 |
@@ -1470,6 +1471,7 @@
 | [Time Brings About Change](https://open.spotify.com/track/6CT88Y0r13Oz9xkexzxTe5) | [Cord Martin](https://open.spotify.com/artist/63cZyR7rLr6FUBcJXb7tXx) | [Cord Progressions](https://open.spotify.com/album/3mvFdwmZRcXXpwjBgxzS1y) | 4:31 | 2025-12-03 | 2026-01-15 |
 | [Time Brings About Change](https://open.spotify.com/track/7mD7bQy4KWhOcwqDJJSrjP) | [Cord Martin](https://open.spotify.com/artist/63cZyR7rLr6FUBcJXb7tXx) | [Time Brings About Change](https://open.spotify.com/album/6vUpvsjbxicPYCWWM5xiq4) | 4:31 | 2024-10-16 | 2025-04-10 |
 | [Time's Arrow](https://open.spotify.com/track/2vRg6acFFC8BWfcnOEbjpw) | [Nick Biello](https://open.spotify.com/artist/1d6ygnyhi2BsKUsNpdVe0y) | [Time's Arrow](https://open.spotify.com/album/1h6YqHwAYlkgOMBE0NfMDh) | 5:29 | 2024-02-07 | 2024-03-09 |
+| [Tiramisu Tempest](https://open.spotify.com/track/7nKzYkxrrwoXN0s8xn4DQS) | [Happy Imaeda](https://open.spotify.com/artist/5SBf5sAXKy4kNlVP3iTULs) | [Tiramisu Tempest](https://open.spotify.com/album/63z6ptPzMvd16DOMMlkZrW) | 2:21 | 2026-06-24 |  |
 | [Tired](https://open.spotify.com/track/4lokC5pTwtz1A5AIVKV626) | [Capt.Pigment](https://open.spotify.com/artist/6Iexrv7lcJDX98FpYkbGMq) | [Tired](https://open.spotify.com/album/7MNVmy1mW6gfjk4LkKFeFn) | 2:48 | 2022-05-18 | 2022-06-16 |
 | [Tmuna Blues](https://open.spotify.com/track/5Bw2Zy8WFBMVZ2kcDefmik) | [Iris & Ofer Portugaly](https://open.spotify.com/artist/3oMvAEWH4mmSfXcWfIJMjn), [Ilan Salem](https://open.spotify.com/artist/46hngj56FwYvtAZAXad68n) | [Tmuna Blues](https://open.spotify.com/album/4Sju7XEQBFuG15sRAKUfRf) | 7:40 | 2023-01-11 | 2023-03-23 |
 | [To be naive](https://open.spotify.com/track/11lrfwaA2P3Vaf56tbfOE5) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [To be naive](https://open.spotify.com/album/4lVIjRZ5J3zUSKTHV7iV3X) | 3:59 | 2023-01-18 | 2023-02-26 |
@@ -1547,7 +1549,7 @@
 | [Vivid](https://open.spotify.com/track/5TFymZXyf1nub50VQ1Hdlr) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [Vivid](https://open.spotify.com/album/3etinD27F1y6Oxb0NLcqav) | 3:51 | 2024-02-28 | 2024-09-19 |
 | [Vlad](https://open.spotify.com/track/5EuHGJnx5aInPpE32L61eF) | [Mika Krstic](https://open.spotify.com/artist/3fs2IhOduiLzt9jlN7YEC2) | [Vlad](https://open.spotify.com/album/2GU1HmnHfu0sq0RhbzrK2c) | 4:11 | 2023-05-31 | 2023-08-10 |
 | [Voices](https://open.spotify.com/track/1u8d1Odf4y1b8IMtwh1E14) | [Pokaz Trio](https://open.spotify.com/artist/704bYfAwWnUa02roScIhgn) | [Voices](https://open.spotify.com/album/4qlvh1pr4UFhGfka0DMzf0) | 7:05 | 2022-03-16 | 2022-04-21 |
-| [Volkslied \- feat.井上銘](https://open.spotify.com/track/0V9Wmky0m7eiYhG96lYBiV) | [小室響](https://open.spotify.com/artist/2knziYJNT3pAgE21mHc4a0), [井上銘](https://open.spotify.com/artist/1cw4DRIdgFVPpNEdx0xORg) | [Singularity](https://open.spotify.com/album/6SVmvtKJyT4BTZsgfO6IeS) | 11:30 | 2025-07-09 |  |
+| [Volkslied \- feat.井上銘](https://open.spotify.com/track/0V9Wmky0m7eiYhG96lYBiV) | [小室響](https://open.spotify.com/artist/2knziYJNT3pAgE21mHc4a0), [井上銘](https://open.spotify.com/artist/1cw4DRIdgFVPpNEdx0xORg) | [Singularity](https://open.spotify.com/album/6SVmvtKJyT4BTZsgfO6IeS) | 11:30 | 2025-07-09 | 2026-06-25 |
 | [Volta ao Catopê](https://open.spotify.com/track/4eW3zVWI4PJbIVsV4i39wI) | [Pedro Gomes](https://open.spotify.com/artist/2BAqtohDtp3a95qxi1wcJZ) | [Volta ao Catopê](https://open.spotify.com/album/5U8aAX0S20zjuYegd4052K) | 4:17 | 2022-08-17 | 2022-10-20 |
 | [Voodoo](https://open.spotify.com/track/5ZEttLcNUh3LNK4kWn0Mer) | [Emma Rawicz](https://open.spotify.com/artist/1lnfMuTAKnEVC5dLB4N0wl) | [Voodoo](https://open.spotify.com/album/4HUHantwZJxa7vPtwLFKFn) | 5:34 | 2022-03-16 | 2022-04-21 |
 | [Voodoo](https://open.spotify.com/track/6ejKBw9NwfH5JZCj2z7WnD) | [Emma Rawicz](https://open.spotify.com/artist/1lnfMuTAKnEVC5dLB4N0wl) | [Incantation](https://open.spotify.com/album/7oybWO0caPN6WCjYRn7DKp) | 5:34 | 2022-11-30 | 2023-01-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 
 > Ultimate 101 Punjabi Hits with Navaan Sandhu
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,445,083 likes - 101 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,445,112 likes - 101 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 | 72 | [Deewana](https://open.spotify.com/track/2KDDpTTvMODGoo3vmz29x4) | [BAGI MUNDA](https://open.spotify.com/artist/0HBnrWuJIS5VK5HVNP5y6Y), [JASKARAN](https://open.spotify.com/artist/4AzMhFHYDgw1CZ9SIg885K), [dox](https://open.spotify.com/artist/7sIGEYfllS5VN2Fj0QCtX4) | [SANJU & SALLU RETURNS](https://open.spotify.com/album/14DNtUvxgQ2eIh7BCmo6D1) | 3:31 |
 | 73 | [MEDAL](https://open.spotify.com/track/4K5aBuakMjnDhFa56CmlHC) | [Chandra Brar](https://open.spotify.com/artist/5sieaTASHA1VDIsOg04ubm), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [MEDAL](https://open.spotify.com/album/1UWSQ9JqRDlPfFMR89J9kf) | 2:13 |
 | 74 | [Thodi Si Daaru](https://open.spotify.com/track/3JiLQJmVW7d4O8AQDFB3oj) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Thodi Si Daaru](https://open.spotify.com/album/5VtCQYa9RJHYMQAfzAb1HQ) | 3:00 |
-| 75 | [Morni](https://open.spotify.com/track/6dfkZxJZnj8lhDkSgl2H6j) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tru\-Skool](https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2) | [The Call of Panjab](https://open.spotify.com/album/58nSQhJ6jxFam34jgoZyul) | 3:25 |
+| 75 | [Morni](https://open.spotify.com/track/6dfkZxJZnj8lhDkSgl2H6j) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tru\-Skool](https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp) | [The Call of Panjab](https://open.spotify.com/album/58nSQhJ6jxFam34jgoZyul) | 3:25 |
 | 76 | [Il Capo](https://open.spotify.com/track/5lfzzSrGiid1bvw0W8K2HA) | [Real Boss](https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP), [Arvin Beatz](https://open.spotify.com/artist/2GaqYSHNeH0PKPCl0Vcn84) | [Il Capo](https://open.spotify.com/album/5pLWCSnEyc05ivyxdnQBeA) | 2:39 |
 | 77 | [Sirra](https://open.spotify.com/track/3QsGq1Xd1n8qc9hwSPzQgj) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Kiran Bajwa](https://open.spotify.com/artist/3qmx2CGviBi21h58nDMJcs), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw) | [WITHOUT PREJUDICE](https://open.spotify.com/album/1wspMsQ2eMXqo5gs6vEHzi) | 2:26 |
 | 78 | [Dil Dardeh](https://open.spotify.com/track/0ku4NlnENAuhWyYnKfI4DA) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W), [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [JayB Singh](https://open.spotify.com/artist/3fQeAT5Oo93bKRwmOWo5HM) | [By Any Means](https://open.spotify.com/album/4Gn0Jhsoq3Q0a5TtoSb35D) | 3:15 |

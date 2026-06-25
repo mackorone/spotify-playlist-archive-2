@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring Waylon Wyatt, Cole Swindell, Brothers Osborne and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,658 likes - 69 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,730 likes - 69 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 8 | [Thinking What I'm Thinking](https://open.spotify.com/track/7ewkuUrCmy3FllHosZAwtN) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Thinking What I'm Thinking](https://open.spotify.com/album/23JijXiP8GcIuy44YnFMd3) | 4:42 |
 | 9 | [Settle Me Down](https://open.spotify.com/track/3QsPiy0rKUiJfXlI5YtTw5) | [Big Mo](https://open.spotify.com/artist/6p0IWgx77UVIe3OBcaSgdA), [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Settle Me Down](https://open.spotify.com/album/0V1qvrWOqTKdaECFhCrg71) | 2:41 |
 | 10 | [Boxed In](https://open.spotify.com/track/2wGGDbuZzKdh118bZkRyia) | [Joe Jordan](https://open.spotify.com/artist/3agUzpPCDynMkXCQkZYVIv) | [Boxed In](https://open.spotify.com/album/1K5k8KvB3xMVKxNpMsvavU) | 3:40 |
-| 11 | [Texas Women](https://open.spotify.com/track/6N4aeMmRiNImovfb4t8VUG) | [The Wilder Blue](https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD), [Tracy Byrd](https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT) | [Texas Women](https://open.spotify.com/album/1T4adZsPN9vjteXvmm6Ss9) | 3:58 |
+| 11 | [Texas Women](https://open.spotify.com/track/6N4aeMmRiNImovfb4t8VUG) | [The Wilder Blue](https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD), [Tracy Byrd](https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT) | [Texas Women](https://open.spotify.com/album/1T4adZsPN9vjteXvmm6Ss9) | 4:23 |
 | 12 | [Everything I Love](https://open.spotify.com/track/4WlfMMJC9Cc5MYZABVzGWr) | [Gareth](https://open.spotify.com/artist/0r0HGFrFjLgQZch834rCSq) | [Everything I Love](https://open.spotify.com/album/1N3R89ATQfNpLh62lWyK6r) | 2:52 |
 | 13 | [Last Drink](https://open.spotify.com/track/3suBVKJY7to6AzjT1SWW50) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Last Drink](https://open.spotify.com/album/6QLvCi9QiegKJxjLXVJB9p) | 4:02 |
 | 14 | [Whiskey Was The Witness](https://open.spotify.com/track/3mEchex5vythTJgsXwgo5I) | [Elijah Scott](https://open.spotify.com/artist/1KpQ1cGIyjXvRWmxb5MXnE), [Julia Lyons](https://open.spotify.com/artist/77JeMEYD7V22KmaU26iNJs) | [Whiskey Was The Witness](https://open.spotify.com/album/5epechODklZcecNwTinfVj) | 3:16 |

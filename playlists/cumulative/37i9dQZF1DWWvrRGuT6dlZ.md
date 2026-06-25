@@ -2,9 +2,9 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: SONG NING\. Artwork: Isu Kim.
+> The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: Straw 林水草\. Artwork: Isu Kim.
 
-1,482 songs - 3 day 9 hr 10 min
+1,484 songs - 3 day 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Broken Reflection](https://open.spotify.com/track/7boZJzzpdwFUOYjAIRNzIo) | [Mia Insyirah](https://open.spotify.com/artist/0PAUnfVTskeFqLIQV1IjV2) | [Broken Reflection](https://open.spotify.com/album/70tSiWNRM6jDvYat6H9Hhs) | 2:27 | 2021-12-01 | 2022-01-14 |
 | [BRUTAL](https://open.spotify.com/track/6XcZTucMhI6GR6fZsFL8Ig) | [Mardiana](https://open.spotify.com/artist/3svIMmaQEnyipJfbbW6dyH) | [BRUTAL](https://open.spotify.com/album/6mQ76kFb5eM0uTeiVVGqeG) | 3:24 | 2023-10-19 | 2024-01-19 |
 | [Buang Masa](https://open.spotify.com/track/0FaEZQNcOBogAoLhNreLrV) | [Bani Rae](https://open.spotify.com/artist/0nrykdtTQqFaCLYPPZOzG7) | [Buang Masa](https://open.spotify.com/album/1IteVhuVETnwpXYSKP1Xip) | 2:24 | 2025-07-04 | 2025-09-06 |
+| [Bubble](https://open.spotify.com/track/4lHvbowqDKrM25i718OdsK) | [Straw 林水草](https://open.spotify.com/artist/4J9NMdvmSkuuD8ZgoBcTdv) | [Bubble](https://open.spotify.com/album/2mcWSPj1Pmp6GrYXYxsLoB) | 2:50 | 2026-06-24 |  |
 | [BUBBLY](https://open.spotify.com/track/1YxMfqTpk22khi8ZfmSK0G) | [Ethan Low](https://open.spotify.com/artist/09O5HSw8RO3aAnWNCADaKS) | [BUBBLY](https://open.spotify.com/album/4vIEdzVa15kQvoalvxPIz5) | 2:51 | 2023-03-02 | 2024-01-12 |
 | [Bukan Wanita Baja](https://open.spotify.com/track/1svZzgyAD5BjiUyZa9eKMu) | [Shazreen Shaharum](https://open.spotify.com/artist/74yIjIDHYqc7zseLQGd84B) | [Bukan Wanita Baja](https://open.spotify.com/album/10026pz6UZmH4ODrJmqdMn) | 4:43 | 2025-05-02 | 2025-07-05 |
 | [BURN](https://open.spotify.com/track/5cn5FnG1iUksBbKF7WMLfR) | [Mia Insyirah](https://open.spotify.com/artist/0PAUnfVTskeFqLIQV1IjV2) | [BURN](https://open.spotify.com/album/3Bn4AMHbMi8nUXLvzji95w) | 2:39 | 2025-10-30 | 2026-03-21 |
@@ -1277,6 +1278,7 @@
 | [Understand](https://open.spotify.com/track/7Ecpa1ADSYvMRWP5awybcD) | [The Island Voices](https://open.spotify.com/artist/6qlXAApftEMUSOCpaFiMKR), [Elsa Mickayla](https://open.spotify.com/artist/7HA7Xpc6jxV0orcFXWJDe7), [Izzathy Halil](https://open.spotify.com/artist/0l6OjJBsZus58CeVkysJXD) | [Understand](https://open.spotify.com/album/3DzoCvNwXABEKhrIhos67w) | 3:32 | 2025-10-16 | 2025-12-04 |
 | [unfair](https://open.spotify.com/track/2s9Bg5mMeI4wv9VgSkyrvF) | [Adam Imanullah](https://open.spotify.com/artist/5cKDx7hnwYXC4TtlaaFhgK) | [metaconscious](https://open.spotify.com/album/08Aje2deA6GYzeN7jlKHZq) | 2:57 | 2025-01-17 | 2025-04-04 |
 | [Unstable](https://open.spotify.com/track/2ovDKZx81JSPsijmdHEOo5) | [Danesh Leonadi](https://open.spotify.com/artist/1k0wAlKAGHhKN6W3QeC52J) | [I'm Just Being Human](https://open.spotify.com/album/4nje0CqNDwIdPbhfuNbogN) | 3:12 | 2024-02-29 | 2025-01-18 |
+| [Untuk Teman Lamaku](https://open.spotify.com/track/0sIgpPF0biQGfsjGuA4VzJ) | [Ahmadul Amin](https://open.spotify.com/artist/3zEZOoywGtysVsh2w8OMZy) | [Untuk Teman Lamaku](https://open.spotify.com/album/7CDk0pBMvKsMZEKY8Xfein) | 3:49 | 2026-06-24 |  |
 | [Up](https://open.spotify.com/track/6MvHpnVZk3onTWdGTTlJWO) | [Yaung](https://open.spotify.com/artist/5brjWpkQWkAineD6T2Mx12) | [Up](https://open.spotify.com/album/0At5I86fWOkZDokz1BDd8C) | 3:09 | 2023-05-11 | 2023-11-18 |
 | [Up & Down](https://open.spotify.com/track/57knZ7GMe05dPoIWqWEJno) | [Hijack Hayley](https://open.spotify.com/artist/0yXoiuY9ZVzJRNu15X6eCU) | [Up & Down](https://open.spotify.com/album/0qZfUe3FICTXS1yd5B8gaH) | 4:02 | 2026-01-14 | 2026-03-14 |
 | [ur cat is cute!](https://open.spotify.com/track/1dk1IJH1gTQekNsPAplnOp) | [Meer Nash](https://open.spotify.com/artist/5u7bSTNoq9AU1dh4sgurL8) | [ur cat is cute!](https://open.spotify.com/album/0USZQLdZSS9Po2XwPlf3Td) | 3:07 | 2025-06-12 | 2025-08-01 |

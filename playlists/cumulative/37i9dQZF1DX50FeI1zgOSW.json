@@ -2262,7 +2262,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 192167,
       "name": "Cult Classic",
       "url": "https://open.spotify.com/track/35mRmwFEF4EPctOTvJ0iDa"
@@ -7248,6 +7248,24 @@
       "duration_ms": 174666,
       "name": "Kozhupurale",
       "url": "https://open.spotify.com/track/3Wlpc4581rrTf20EeyNuOY"
+    },
+    {
+      "album": {
+        "name": "Kuchi Udambu",
+        "url": "https://open.spotify.com/album/3KA0XyJR9nFIQ0qLvofD57"
+      },
+      "artists": [
+        {
+          "name": "M.Kapilan",
+          "url": "https://open.spotify.com/artist/3QSgLjnVKpllCs1jfw9Mra"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206117,
+      "name": "Kuchi Udambu",
+      "url": "https://open.spotify.com/track/0b4VZPys5IkKEKT1cSdAz7"
     },
     {
       "album": {

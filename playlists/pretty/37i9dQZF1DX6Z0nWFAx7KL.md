@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 
 > easy breezy music ☀️☺️
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,319 likes - 60 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,315 likes - 60 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 50 | [You Have To Have A Goal](https://open.spotify.com/track/1C7Vnu1mLDXALJyDwGOW1E) | [Sébastien Lintz](https://open.spotify.com/artist/4DJAdrP7ni17K4091qE52z) | [You Have To Have A Goal](https://open.spotify.com/album/5lOT9PhbKreAqABpYg8mVX) | 2:13 |
 | 51 | [Electric](https://open.spotify.com/track/51FFmeDLNlJUkueFkjtzxY) | [Dela Utca](https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X), [chameleon](https://open.spotify.com/artist/5H61giTnrSTMQd1Pl0tKNB) | [Electric](https://open.spotify.com/album/2UNpZByJYcRTCNRSeUqst0) | 2:13 |
 | 52 | [Fire](https://open.spotify.com/track/2rESC4IbBLXDgY5kUj4qga) | [LO](https://open.spotify.com/artist/6bdx22A1shpd9U6YAd8Vto), [Fia De Luca](https://open.spotify.com/artist/4L9Leu8vWuIkbUWKuJ0Mbq) | [Fire](https://open.spotify.com/album/2i2wQgG2tAUkQ8HbIko185) | 2:54 |
-| 53 | [Vanilla](https://open.spotify.com/track/5i3fyz5jSbt0YEMR9qrLbo) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA) | [Vanilla](https://open.spotify.com/album/3qt6VmrM2TqtaU5dhSi847) | 2:50 |
-| 54 | [Young Forever](https://open.spotify.com/track/2GnOlapaZMJ0swQynBCs8Q) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v), [Flip Flop Joe](https://open.spotify.com/artist/4mEoZalalxfXjM63DMaJmA) | [Young Forever](https://open.spotify.com/album/0QeT4JzH46XY7cTTTD6tkR) | 2:17 |
+| 53 | [Young Forever](https://open.spotify.com/track/2GnOlapaZMJ0swQynBCs8Q) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v), [Flip Flop Joe](https://open.spotify.com/artist/4mEoZalalxfXjM63DMaJmA) | [Young Forever](https://open.spotify.com/album/0QeT4JzH46XY7cTTTD6tkR) | 2:17 |
+| 54 | [Vanilla](https://open.spotify.com/track/5i3fyz5jSbt0YEMR9qrLbo) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA) | [Vanilla](https://open.spotify.com/album/3qt6VmrM2TqtaU5dhSi847) | 2:50 |
 | 55 | [Need A Break](https://open.spotify.com/track/0est3WrsDX02oU8CumrLpz) | [MAKS \(FR\)](https://open.spotify.com/artist/0C3AuNGBY39ioSTA79TzMz) | [Need A Break](https://open.spotify.com/album/3ayu0iDvhYm0QEP7G2tO2j) | 2:27 |
 | 56 | [Iajo](https://open.spotify.com/track/70QunfArMKaFnMKTzv2C9x) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Beats & Pieces II](https://open.spotify.com/album/0yQHW3TPiuNdfWvkumo4ac) | 4:38 |
 | 57 | [Bloom](https://open.spotify.com/track/1KO6Kk23aYLrkmaDIjA4jf) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [LAST CALL](https://open.spotify.com/artist/2LoibTtixf5tjTYORAxbtN), [Horxata](https://open.spotify.com/artist/3QkSqgd7THUtqWlJjL4iRn) | [Bloom](https://open.spotify.com/album/59T2jCjBGnIFlizQggbrSd) | 2:32 |
-| 58 | [Someday](https://open.spotify.com/track/3YyyrX4LkrEVTm5rFX3PBG) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1) | [Someday](https://open.spotify.com/album/4qxBwTSqsUTIy0NnThwvcE) | 2:24 |
-| 59 | [All We Need Is Us](https://open.spotify.com/track/1cgv6rn6OIaHtKdU0Umrdn) | [just Fede](https://open.spotify.com/artist/7uXJKN6U0eK8uWOdKAUNkP), [Steeg](https://open.spotify.com/artist/7Cop3WdLhGUHerZfcDqeuG), [David Emde](https://open.spotify.com/artist/5RJZfbpmq3aRaRBYP1Q89D) | [All We Need Is Us](https://open.spotify.com/album/7n2WsTkhWSfxWuMTJxyHcv) | 2:28 |
+| 58 | [All We Need Is Us](https://open.spotify.com/track/1cgv6rn6OIaHtKdU0Umrdn) | [just Fede](https://open.spotify.com/artist/7uXJKN6U0eK8uWOdKAUNkP), [Steeg](https://open.spotify.com/artist/7Cop3WdLhGUHerZfcDqeuG), [David Emde](https://open.spotify.com/artist/5RJZfbpmq3aRaRBYP1Q89D) | [All We Need Is Us](https://open.spotify.com/album/7n2WsTkhWSfxWuMTJxyHcv) | 2:28 |
+| 59 | [Someday](https://open.spotify.com/track/3YyyrX4LkrEVTm5rFX3PBG) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1) | [Someday](https://open.spotify.com/album/4qxBwTSqsUTIy0NnThwvcE) | 2:24 |
 | 60 | [Full Speed](https://open.spotify.com/track/0bKWKkNd2OWm9amqODXmkZ) | [Bella Who](https://open.spotify.com/artist/21RdBMtAUWp975JGBffrFc), [DOM](https://open.spotify.com/artist/0feQYUPVrExLO4v0S51wGP) | [Full Speed](https://open.spotify.com/album/2HzsnkOchlecG4I7smXiyq) | 4:11 |
 
 Snapshot ID: `AAAAAIGAjeZZpD5g+nrJ+ZyXDkjd3f9n`

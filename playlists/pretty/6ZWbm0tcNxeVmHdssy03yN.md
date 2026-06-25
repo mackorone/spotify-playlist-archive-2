@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 52,472 likes - 96 songs - 4 hr 49 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 52,473 likes - 96 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 8 | [Mother](https://open.spotify.com/track/1XsoxnOCKgHtqJ6TBNo5fZ) | [Seanna Pereira](https://open.spotify.com/artist/2n7eurO3HF2Qpsu4blCx4R) | [Mother](https://open.spotify.com/album/5LZeYuBpihU4OGbmVoBzXj) | 2:48 |
 | 9 | [rain in the sunset](https://open.spotify.com/track/1jXk0WkZ70LqDFJ4MRTtom) | [Stevie Daniels](https://open.spotify.com/artist/4TgARZl7cImJgmnnz6dPDK), [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [rain in the sunset](https://open.spotify.com/album/6dfHxqfLgCsbOP2ea1zrAn) | 2:56 |
 | 10 | [You and Me \- Acoustic Version](https://open.spotify.com/track/7JOwQjyg0099deajBU77YU) | [Al Nicol](https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu), [Johanna Samuels](https://open.spotify.com/artist/3NsEv68AsYdjKdCJ4AhHTa) | [You and Me \- Acoustic Version](https://open.spotify.com/album/5iHG4UaA99cHMADjm5MexL) | 3:44 |
-| 11 | [Addicted To You](https://open.spotify.com/track/2c5aYmeY4kWWAJVkl8Fjrp) | [Younique](https://open.spotify.com/artist/1XfTwnIs2yeSkS9kQGPGRq), [Night Smile](https://open.spotify.com/artist/1oXRRCKA9EsT3uyZwR3lEO) | [Addicted To You](https://open.spotify.com/album/61NaxlUJVw6QUvbtHGvp4X) | 3:52 |
+| 11 | [Addicted To You](https://open.spotify.com/track/2c5aYmeY4kWWAJVkl8Fjrp) | [Younique](https://open.spotify.com/artist/1XfTwnIs2yeSkS9kQGPGRq), [Seth & The Forge](https://open.spotify.com/artist/69zS3UaqsKdTLumPpkK8IP) | [Addicted To You](https://open.spotify.com/album/61NaxlUJVw6QUvbtHGvp4X) | 3:52 |
 | 12 | [Don't Miss](https://open.spotify.com/track/79CQVkmqdlF2uaq65WBdhr) | [Izzar](https://open.spotify.com/artist/0vKgFYlm0P3REMbXf57Zqq), [Smithy](https://open.spotify.com/artist/2aEPsNACE72sP3abkMx9g1) | [Don't Miss](https://open.spotify.com/album/6ZuoXCGcnpZBulPFecm5il) | 3:05 |
 | 13 | [CHANEL](https://open.spotify.com/track/3wekPxMjifdAkidkajJ9BN) | [kayeonwun](https://open.spotify.com/artist/2LWuiriYyZn5yvg4ejXEBc) | [CHANEL](https://open.spotify.com/album/6xjsOYbfwBCrvtjFtribjY) | 1:20 |
 | 14 | [Mapula](https://open.spotify.com/track/43oOzlw1bWcNvT9lOE1nN6) | [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6) | [Mapula](https://open.spotify.com/album/27ParTPlMyDMJaKIzIrYDd) | 2:33 |

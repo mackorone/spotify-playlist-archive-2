@@ -4,7 +4,7 @@
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\.   Cover: Channel Tres
 
-2,280 songs - 6 day 22 hr 58 min
+2,281 songs - 6 day 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -425,6 +425,7 @@
 | [Crystal](https://open.spotify.com/track/77NlLyX4TCDrggCOI7Vtmt) | [TREKKIE TRAX CREW](https://open.spotify.com/artist/1aaNrx84WrTGObka1rpON3) | [Crystal](https://open.spotify.com/album/71mVMiVEsfype5XwCGFkGU) | 2:50 | 2024-03-07 | 2024-08-16 |
 | [Crystallise](https://open.spotify.com/track/3kReiSUQNYZkY8e96EZFDz) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo), [Orem](https://open.spotify.com/artist/1HjQ6IQwNatqgTtFnklIoL) | [Crystallise](https://open.spotify.com/album/6DGXwJI6H1wDfDo52X6KqQ) | 4:24 | 2025-10-24 | 2025-11-08 |
 | [Cue and Nat](https://open.spotify.com/track/1LObEx74alFGQzE1RKQzJV) | [Shimpei Watanabe](https://open.spotify.com/artist/3gEWP5rg9EZl9cW6TPxB7S) | [Dee Dot See](https://open.spotify.com/album/2jxh2vClBRyRGuNUZN5xzB) | 6:53 | 2024-08-05 | 2024-09-20 |
+| [CUT THE LINE \(feat\. DJ ADHD & Nikki Nair\)](https://open.spotify.com/track/3Fxebmm6QwVVS1HsuqyeqN) | [deBasement](https://open.spotify.com/artist/76Hqz0xVLDA9UwwqKR1JVl), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6) | [CUT THE LINE \(feat\. DJ ADHD & Nikki Nair\)](https://open.spotify.com/album/0Q3Qz11aspOYa9oUbVKQLH) | 4:41 | 2026-06-18 |  |
 | [Cycles](https://open.spotify.com/track/1bI63jk0mgWmMMdPklonrB) | [Footshooter](https://open.spotify.com/artist/691jSL9gwZx8VX55QVTRGa), [James Mollison](https://open.spotify.com/artist/5FHf0e5ya34Q4nDr1RbITm) | [Cycles](https://open.spotify.com/album/0pddLbhgbX2Y8xpwmI0Lrn) | 5:42 | 2025-01-16 | 2025-02-21 |
 | [CYCLE’25](https://open.spotify.com/track/1S3z7vwxZ2eouwAnoKxq9W) | [Tokyo Community Radio](https://open.spotify.com/artist/07CaXB3DGJ32RvPWqFsmig), [Licaxxx](https://open.spotify.com/artist/2u7KzLObg2wxMYkxQ5OAhR) | [SESSIONS COLLECTION VOL.3](https://open.spotify.com/album/0D7FhraZXPvUjXjv7BnZfd) | 4:54 | 2025-06-05 | 2025-07-04 |
 | [CYGNUS \- Another Take](https://open.spotify.com/track/5z32XED6Qp2ed7xZRIEKZ4) | [Hiroshi Watanabe](https://open.spotify.com/artist/3YMGEE2v8JFucik7FvSndd) | [Cygnus Remixes](https://open.spotify.com/album/3f1uaUrrN25LiZVCVAyte0) | 8:37 | 2024-01-11 | 2024-04-05 |

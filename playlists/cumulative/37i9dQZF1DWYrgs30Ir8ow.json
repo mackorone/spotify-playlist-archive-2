@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Altijd frisse hits! Cover: Taylor Swift",
+  "description": "Altijd frisse hits! Cover: Rutger van Barneveld",
   "name": "Fresh Hits",
   "tracks": [
     {
@@ -6811,6 +6811,24 @@
     },
     {
       "album": {
+        "name": "Door Het Oog Van De Nacht",
+        "url": "https://open.spotify.com/album/7BRsfyW9ugAffAfhAo3yim"
+      },
+      "artists": [
+        {
+          "name": "Flaire",
+          "url": "https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174179,
+      "name": "Door Het Oog Van De Nacht",
+      "url": "https://open.spotify.com/track/0uWmcPc7Ie30nyNrsHnTjR"
+    },
+    {
+      "album": {
         "name": "The Great Divide",
         "url": "https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz"
       },
@@ -9040,7 +9058,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 137198,
       "name": "Gappie Sappie",
       "url": "https://open.spotify.com/track/2FCDwCdXpMnSq3QuHWZ3UM"
@@ -12160,7 +12178,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 181326,
       "name": "Ik Ben Niet Meer Bang",
       "url": "https://open.spotify.com/track/6nZo4DQDz3UMqKCXi6UvYY"
@@ -28028,6 +28046,24 @@
       "duration_ms": 152285,
       "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
       "url": "https://open.spotify.com/track/5VlY1Th1IgoNCLutkFfUVu"
+    },
+    {
+      "album": {
+        "name": "Zomer in NL",
+        "url": "https://open.spotify.com/album/4d49Zsyb9LRxSiAF93uoBp"
+      },
+      "artists": [
+        {
+          "name": "Turfy Gang",
+          "url": "https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "Zomer in NL",
+      "url": "https://open.spotify.com/track/1YEMCWrZNYuinXS870FjFP"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-09",
-  "description": "\u041d\u0430\u0439\u043b\u0456\u043f\u0448\u0430 \u043c\u0443\u0437\u0438\u043a\u0430 \u0432\u0456\u0434 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0445 \u0430\u0440\u0442\u0438\u0441\u0442\u0456\u0432-\u043f\u043e\u0447\u0430\u0442\u043a\u0456\u0432\u0446\u0456\u0432. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: prirva",
+  "description": "\u041d\u0430\u0439\u043b\u0456\u043f\u0448\u0430 \u043c\u0443\u0437\u0438\u043a\u0430 \u0432\u0456\u0434 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0445 \u0430\u0440\u0442\u0438\u0441\u0442\u0456\u0432-\u043f\u043e\u0447\u0430\u0442\u043a\u0456\u0432\u0446\u0456\u0432. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: ripcity",
   "name": "Fresh Finds \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
   "tracks": [
     {
@@ -362,7 +362,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 169138,
       "name": "Chalky Roads",
       "url": "https://open.spotify.com/track/2kSmUQO57TinlfuX6BjKzT"
@@ -1810,7 +1810,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 147049,
       "name": "\u0412 \u043f'\u044f\u043d\u0456\u043c \u0442\u0430\u043d\u0446\u0456",
       "url": "https://open.spotify.com/track/5e1SW7PqfIEjdox1Q31VpB"
@@ -5095,6 +5095,24 @@
     },
     {
       "album": {
+        "name": "\u041d\u0430 \u0432\u0441\u0456 \u0434\u0432\u0435\u0440\u0456 \u0437\u0430\u043c\u043a\u043d\u0438\u0441\u044c",
+        "url": "https://open.spotify.com/album/5wby4X2xdzXw9AMplcuN3g"
+      },
+      "artists": [
+        {
+          "name": "\u0422\u0438 \u043d\u0435 \u043f\u0440\u043e\u0442\u0438",
+          "url": "https://open.spotify.com/artist/5B1fu3qRVVTqhERkQQxfVK"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236826,
+      "name": "\u041d\u0430 \u0432\u0441\u0456 \u0434\u0432\u0435\u0440\u0456 \u0437\u0430\u043c\u043a\u043d\u0438\u0441\u044c",
+      "url": "https://open.spotify.com/track/72WH6QaO0IQqJBhhJ0Fkxo"
+    },
+    {
+      "album": {
         "name": "\u041d\u0430 \u0440\u043e\u0437\u0456",
         "url": "https://open.spotify.com/album/6NfWhEQpduz8u6BXu56dox"
       },
@@ -5650,7 +5668,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 118391,
       "name": "\u041d\u0435\u043f\u043e\u043c\u0456\u0442\u043d\u043e",
       "url": "https://open.spotify.com/track/1Hz7kuT98kxSl9EGoQzDaI"
@@ -5726,6 +5744,24 @@
       "duration_ms": 230823,
       "name": "\u041d\u044e\u0434\u0441\u0438",
       "url": "https://open.spotify.com/track/4d0dCMeRDJ91IgSy1Terzf"
+    },
+    {
+      "album": {
+        "name": "\u0427\u043e\u0440\u043d\u0438\u0439 \u043b\u0456\u0441",
+        "url": "https://open.spotify.com/album/0RXrel0d8VBBh9tSYLfa3l"
+      },
+      "artists": [
+        {
+          "name": "\u041e\u043a\u0442\u0430\u0432\u0456\u0430\u043d \u0421\u0435\u0440\u043f\u0435\u043d\u044c",
+          "url": "https://open.spotify.com/artist/4dcMFLCd0oLqwG3RGE9Tyg"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186823,
+      "name": "\u041d\u0456\u0445\u0442\u043e \u043d\u0456 \u0432 \u0447\u043e\u043c\u0443 \u043d\u0435 \u0432\u0438\u043d\u0435\u043d, \u043e\u043a\u0440\u0456\u043c \u043c\u0435\u043d\u0435",
+      "url": "https://open.spotify.com/track/3ZrLynIiP5Bp0rfJtnqH19"
     },
     {
       "album": {
@@ -5938,7 +5974,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 142300,
       "name": "\u041e\u0437",
       "url": "https://open.spotify.com/track/1lsrmjnsHkU8AeeSmDJqTc"
@@ -6849,6 +6885,42 @@
     },
     {
       "album": {
+        "name": "\u041f\u0456\u0434\u0439\u043e\u043c",
+        "url": "https://open.spotify.com/album/23SzCkRrzxOm6liufNmnOK"
+      },
+      "artists": [
+        {
+          "name": "MOLODYY",
+          "url": "https://open.spotify.com/artist/0zwASeH7IV8C8cvVwOTtrd"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197956,
+      "name": "\u041f\u0456\u0434\u0439\u043e\u043c",
+      "url": "https://open.spotify.com/track/7oTCvZagNNPtajzQWuxwpg"
+    },
+    {
+      "album": {
+        "name": "\u041f\u0406\u0414\u041a\u041e\u0420\u042f\u0419\u0421\u042f",
+        "url": "https://open.spotify.com/album/1IfpkrgUndItqOmQb5ZMuG"
+      },
+      "artists": [
+        {
+          "name": "rockceleba",
+          "url": "https://open.spotify.com/artist/2zIJrrIF5e6bAFcgkLJkcW"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207328,
+      "name": "\u041f\u0406\u0414\u041a\u041e\u0420\u042f\u0419\u0421\u042f",
+      "url": "https://open.spotify.com/track/2VJY1Z4vqs6UZkjMxpz6TA"
+    },
+    {
+      "album": {
         "name": "\u041f\u0456\u043a\u0441\u0435\u043b\u044c",
         "url": "https://open.spotify.com/album/6EzK7BiGGES59jCucxBQZN"
       },
@@ -7066,7 +7138,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 191612,
       "name": "\u0440\u0456\u0437\u043d\u0456 \u043f\u043b\u0430\u043d\u0435\u0442\u0438",
       "url": "https://open.spotify.com/track/4GLmB7YAWAMRsdcoxpiKvM"
@@ -8038,6 +8110,24 @@
       "duration_ms": 181639,
       "name": "\u0421\u0406\u0420\u0418\u0419 \u0422\u0423\u041c\u0410\u041d",
       "url": "https://open.spotify.com/track/0FKwmaPMKI3daVuSJtItml"
+    },
+    {
+      "album": {
+        "name": "\u0442\u0430\u043a \u0456 \u043d\u0435 \u0432\u0442\u0456\u043a",
+        "url": "https://open.spotify.com/album/5uXKLrNSGrClGIA7dw4OtZ"
+      },
+      "artists": [
+        {
+          "name": "ripcity",
+          "url": "https://open.spotify.com/artist/5llGjZdNOIUf6T0ewEbSeK"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149291,
+      "name": "\u0442\u0430\u043a \u0456 \u043d\u0435 \u0432\u0442\u0456\u043a",
+      "url": "https://open.spotify.com/track/4B7tz2mOVDQ1TYYkQ6yxyM"
     },
     {
       "album": {

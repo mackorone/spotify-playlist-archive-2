@@ -1,13 +1,29 @@
 {
   "description": "you met me at a very indie twang time in my life... Any Young Mechanic on the cover",
-  "num_followers": 97870,
+  "num_followers": 97875,
   "original_name": "Indie Twang",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEPvj7bG+GRM6nUBdVM7pfQoUFhM",
+  "snapshot_id": "AAAAAIHgeKvBzjHIZ/1Zf0mLlUg7khiz",
   "tracks": [
+    {
+      "added_at": "2026-06-24 14:57:11",
+      "album": {
+        "name": "Billy Came Back",
+        "url": "https://open.spotify.com/album/5PWPGFNrbIuXQoLcI8FsAe"
+      },
+      "artists": [
+        {
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        }
+      ],
+      "duration_ms": 189148,
+      "name": "Billy Came Back",
+      "url": "https://open.spotify.com/track/4llSkj7K4ekT5wzcLKd4C5"
+    },
     {
       "added_at": "2026-06-05 04:01:03",
       "album": {
@@ -39,26 +55,6 @@
       "duration_ms": 247498,
       "name": "I'm So Wasted",
       "url": "https://open.spotify.com/track/01iHurTpAQoOiwaRVyiIB2"
-    },
-    {
-      "added_at": "2026-06-05 04:01:03",
-      "album": {
-        "name": "Where\u2019s Your Love Now (Waxahatchee Version)",
-        "url": "https://open.spotify.com/album/1pnhU7gq3vrxKaq8cWkNs3"
-      },
-      "artists": [
-        {
-          "name": "This Is Lorelei",
-          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
-        },
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 321140,
-      "name": "Where\u2019s Your Love Now - Waxahatchee Version",
-      "url": "https://open.spotify.com/track/5hLbAu2TGDhiwhvebzY5cv"
     },
     {
       "added_at": "2026-06-05 04:01:03",
@@ -111,6 +107,26 @@
       "duration_ms": 396157,
       "name": "Thinking About You",
       "url": "https://open.spotify.com/track/4HtGk60e5a7eOnIrlBqNI6"
+    },
+    {
+      "added_at": "2026-06-05 04:01:03",
+      "album": {
+        "name": "Where\u2019s Your Love Now (Waxahatchee Version)",
+        "url": "https://open.spotify.com/album/1pnhU7gq3vrxKaq8cWkNs3"
+      },
+      "artists": [
+        {
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        },
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 321140,
+      "name": "Where\u2019s Your Love Now - Waxahatchee Version",
+      "url": "https://open.spotify.com/track/5hLbAu2TGDhiwhvebzY5cv"
     },
     {
       "added_at": "2026-06-05 04:01:03",

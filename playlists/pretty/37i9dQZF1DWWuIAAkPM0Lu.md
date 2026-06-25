@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Vi er klar til weekendens hedebølge med WAVY @lamin.wavy, right? 🥵
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,132 likes - 97 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,126 likes - 97 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hold Mit Tempo](https://open.spotify.com/track/1AiduuJNTQikQ4edzuTcUM) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [WAVY](https://open.spotify.com/album/6i7FhriSAJMckXNjqy1K5E) | 2:43 |
+| 1 | [Hold Mit Tempo](https://open.spotify.com/track/1AiduuJNTQikQ4edzuTcUM) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [WAVY](https://open.spotify.com/album/6i7FhriSAJMckXNjqy1K5E) | 2:43 |
 | 2 | [IS IT LOVE](https://open.spotify.com/track/3LBZWdxMKp0dHCbaRJB82d) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [IS IT LOVE](https://open.spotify.com/album/3Ly0mmjvfZ1I9ICjEWq7KH) | 3:07 |
 | 3 | [Hvis solen brændte ud](https://open.spotify.com/track/5Wfjh4Qctzs9PJVH3chDhN) | [Blæst](https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5) | [BLÆST FOREVER](https://open.spotify.com/album/0Ro6S1sma0EcXoq9kXWOCi) | 3:13 |
 | 4 | [Danser Med Minder](https://open.spotify.com/track/1ZOOtzolAVDQlzUf7thUZf) | [Kind mod Kind](https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As) | [Danser Med Minder](https://open.spotify.com/album/4OKdAIuWuRcuOzbBTRzmxJ) | 3:38 |

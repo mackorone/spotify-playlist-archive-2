@@ -1,6 +1,6 @@
 {
   "description": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u0456 \u0430\u0440\u0442\u0438\u0441\u0442\u0438 \u0432 \u0434\u043e\u0431\u0456\u0440\u0446\u0456 \u043d\u0430\u0439\u0446\u0456\u043a\u0430\u0432\u0456\u0448\u0438\u0445 \u043f\u043e\u043f \u0442\u0440\u0435\u043a\u0456\u0432. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Olivia Rodrigo",
-  "num_followers": 15354,
+  "num_followers": 15355,
   "original_name": "\u0422\u041e\u041f \u041f\u041e\u041f 2026",
   "owner": {
     "name": "Spotify",
@@ -855,6 +855,22 @@
     {
       "added_at": "2026-06-18 21:00:58",
       "album": {
+        "name": "\u042f\u043f\u043e\u043d\u0456\u044f",
+        "url": "https://open.spotify.com/album/0kBKwloGNP7QnCbHnFiXmx"
+      },
+      "artists": [
+        {
+          "name": "DOROFEEVA",
+          "url": "https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM"
+        }
+      ],
+      "duration_ms": 154030,
+      "name": "\u042f\u043f\u043e\u043d\u0456\u044f",
+      "url": "https://open.spotify.com/track/617ECGnksDPGqkR0FKsoye"
+    },
+    {
+      "added_at": "2026-06-18 21:00:58",
+      "album": {
         "name": "Ya Tabtab",
         "url": "https://open.spotify.com/album/70VOfqtogVHD4qzT9n8Deo"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 173454,
       "name": "Ya Tabtab",
       "url": "https://open.spotify.com/track/4VprDXa9zCBQ9n1xNSeIum"
-    },
-    {
-      "added_at": "2026-06-18 21:00:58",
-      "album": {
-        "name": "\u042f\u043f\u043e\u043d\u0456\u044f",
-        "url": "https://open.spotify.com/album/0kBKwloGNP7QnCbHnFiXmx"
-      },
-      "artists": [
-        {
-          "name": "DOROFEEVA",
-          "url": "https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM"
-        }
-      ],
-      "duration_ms": 154030,
-      "name": "\u042f\u043f\u043e\u043d\u0456\u044f",
-      "url": "https://open.spotify.com/track/617ECGnksDPGqkR0FKsoye"
     },
     {
       "added_at": "2026-06-18 21:00:58",
@@ -923,6 +923,22 @@
     {
       "added_at": "2026-06-18 21:00:58",
       "album": {
+        "name": "\u041b\u044e\u0434\u0438\u043d\u0430 \u0434\u043b\u044f \u043c\u0435\u043d\u0435",
+        "url": "https://open.spotify.com/album/4JK6ynAd87SklnVH1P6YpE"
+      },
+      "artists": [
+        {
+          "name": "MAX BARSKIH",
+          "url": "https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5"
+        }
+      ],
+      "duration_ms": 267580,
+      "name": "\u041b\u044e\u0434\u0438\u043d\u0430 \u0434\u043b\u044f \u043c\u0435\u043d\u0435",
+      "url": "https://open.spotify.com/track/62vzgg6Lx13JHk5Lzlhuln"
+    },
+    {
+      "added_at": "2026-06-18 21:00:58",
+      "album": {
         "name": "Play (Extended Edition)",
         "url": "https://open.spotify.com/album/64QhljQEwTfoEt9z6jsyxl"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 215511,
       "name": "Camera",
       "url": "https://open.spotify.com/track/4rWeuQF9HD3UP6XEqLDVew"
-    },
-    {
-      "added_at": "2026-06-18 21:00:58",
-      "album": {
-        "name": "\u0417\u0430\u043a\u043e\u0445\u0430\u043d\u0438\u0439",
-        "url": "https://open.spotify.com/album/3bKoHfmc6fSHfONIgPelfb"
-      },
-      "artists": [
-        {
-          "name": "MAX BARSKIH",
-          "url": "https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5"
-        }
-      ],
-      "duration_ms": 228281,
-      "name": "\u0417\u0430\u043a\u043e\u0445\u0430\u043d\u0438\u0439",
-      "url": "https://open.spotify.com/track/6CIjysLIbpQTdkeZ6HiWFi"
     },
     {
       "added_at": "2026-06-18 21:00:58",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2026-06-18 21:00:58",
       "album": {
+        "name": "\u0417\u0430\u043a\u043e\u0445\u0430\u043d\u0438\u0439",
+        "url": "https://open.spotify.com/album/3bKoHfmc6fSHfONIgPelfb"
+      },
+      "artists": [
+        {
+          "name": "MAX BARSKIH",
+          "url": "https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5"
+        }
+      ],
+      "duration_ms": 228281,
+      "name": "\u0417\u0430\u043a\u043e\u0445\u0430\u043d\u0438\u0439",
+      "url": "https://open.spotify.com/track/6CIjysLIbpQTdkeZ6HiWFi"
+    },
+    {
+      "added_at": "2026-06-18 21:00:58",
+      "album": {
         "name": "Romcom",
         "url": "https://open.spotify.com/album/13ynoeCvmsVqsU5P8BLd9d"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 193608,
       "name": "\u0422\u0432\u0456\u0439 \u0430\u0440\u043e\u043c\u0430\u0442",
       "url": "https://open.spotify.com/track/2XuMhr7BgehygNPq1ffQqF"
-    },
-    {
-      "added_at": "2026-06-18 21:00:58",
-      "album": {
-        "name": "\u041b\u044e\u0434\u0438\u043d\u0430 \u0434\u043b\u044f \u043c\u0435\u043d\u0435",
-        "url": "https://open.spotify.com/album/4JK6ynAd87SklnVH1P6YpE"
-      },
-      "artists": [
-        {
-          "name": "MAX BARSKIH",
-          "url": "https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5"
-        }
-      ],
-      "duration_ms": 267580,
-      "name": "\u041b\u044e\u0434\u0438\u043d\u0430 \u0434\u043b\u044f \u043c\u0435\u043d\u0435",
-      "url": "https://open.spotify.com/track/62vzgg6Lx13JHk5Lzlhuln"
     },
     {
       "added_at": "2026-06-18 21:00:58",

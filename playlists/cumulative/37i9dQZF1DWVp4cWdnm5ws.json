@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Introducing RADAR Philippines Cast of 2026. Cover: VVINK",
+  "description": "Introducing RADAR Philippines Cast of 2026. Cover: Kenaniah",
   "name": "RADAR Philippines",
   "tracks": [
     {
@@ -3498,6 +3498,24 @@
       "duration_ms": 231794,
       "name": "Mariposa",
       "url": "https://open.spotify.com/track/0j452wGGiFFZzGzWWa4cqq"
+    },
+    {
+      "album": {
+        "name": "maryclaire",
+        "url": "https://open.spotify.com/album/1meZYCtadHPVjd8GYH6mTr"
+      },
+      "artists": [
+        {
+          "name": "fitterkarma",
+          "url": "https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365882,
+      "name": "maryclaire",
+      "url": "https://open.spotify.com/track/2kxOkocyK75spxRWoSaufB"
     },
     {
       "album": {

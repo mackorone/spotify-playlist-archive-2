@@ -2,9 +2,9 @@
 
 ### [RADAR Philippines](https://open.spotify.com/playlist/37i9dQZF1DWVp4cWdnm5ws)
 
-> Introducing RADAR Philippines Cast of 2026\. Cover: VVINK
+> Introducing RADAR Philippines Cast of 2026\. Cover: Kenaniah
 
-343 songs - 20 hr 15 min
+344 songs - 20 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [MAPA](https://open.spotify.com/track/6Fz2TpxUD0YvAPsuG8nDMJ) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [MAPA](https://open.spotify.com/album/4Qhx57hNp0CUmUbO2igtAq) | 4:35 | 2021-11-25 | 2023-04-14 |
 | [Marilag](https://open.spotify.com/track/2zbq6eS68i4NIJWekIuW1s) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj) | [Marilag](https://open.spotify.com/album/55B7nAZ0c4QF5pdHhVOkRY) | 2:37 | 2024-11-08 | 2025-03-28 |
 | [Mariposa](https://open.spotify.com/track/0j452wGGiFFZzGzWWa4cqq) | [Peaceful Gemini](https://open.spotify.com/artist/4AD2SGYmDQVd02vrwH0TaA), [DB Tha Girl](https://open.spotify.com/artist/557z0T9CAn8BAPaTAZpDaG) | [Mariposa](https://open.spotify.com/album/6dSj3xF4g0MqpNAF7QBeAk) | 3:51 | 2021-11-25 | 2022-03-25 |
+| [maryclaire](https://open.spotify.com/track/2kxOkocyK75spxRWoSaufB) | [fitterkarma](https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr) | [maryclaire](https://open.spotify.com/album/1meZYCtadHPVjd8GYH6mTr) | 6:05 | 2026-06-24 |  |
 | [Maulan](https://open.spotify.com/track/3Ps0HEBA983FI2eaLtRMjW) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Maulan](https://open.spotify.com/album/4wJr8jkyzQqhgkMlhfCXTQ) | 3:59 | 2025-08-01 | 2026-04-07 |
 | [Mayari](https://open.spotify.com/track/4fYDCIeW8frXcVpifquhxJ) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Mayari](https://open.spotify.com/album/2Vhz5nwKK4Hb5ssC5wBoTn) | 4:30 | 2021-11-25 | 2022-03-25 |
 | [Mind, Body & Soul](https://open.spotify.com/track/0hi5lH7ioy89SP1itoseLt) | [Peaceful Gemini](https://open.spotify.com/artist/4AD2SGYmDQVd02vrwH0TaA) | [Mind, Body & Soul](https://open.spotify.com/album/0tmFpA4feyj6wlpIX7GE0D) | 3:29 | 2021-11-25 | 2022-03-25 |

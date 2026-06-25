@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wtrGDH81Oa.md) - [plain]
 
 > Instrumental house for when you need to focus!
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,319 likes - 183 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 465,447 likes - 183 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -192,4 +192,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wtrGDH81Oa.md) - [plain]
 | 182 | [Coze](https://open.spotify.com/track/2mhfB2EriXMA7aWATzVS5m) | [Meladonica](https://open.spotify.com/artist/0CKBzB3A5cgDZhbdtbhQXv) | [Coze](https://open.spotify.com/album/1bG3ZzEZ2OpN2tb62vr0q2) | 2:17 |
 | 183 | [Mirage Palms](https://open.spotify.com/track/4ZQ2z1nTT0KDtWOlgVYxjO) | [Egelloc](https://open.spotify.com/artist/03zsYt1vzRxmXN0OUhCr7g) | [Mirage Palms](https://open.spotify.com/album/448GlhttMXbsoHmqrQPCBI) | 2:12 |
 
-Snapshot ID: `AAAAAAEjXtc+LIZwoNFUevyTbd7UKJgx`
+Snapshot ID: `AAAAABsk49Q4NkIwmSc1nY1b9jDfIJNY`

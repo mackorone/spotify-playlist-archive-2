@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 109577,
+  "num_followers": 109587,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -871,6 +871,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Pit Stop",
+        "url": "https://open.spotify.com/album/1Bo3QIkCyr0AErUw4BHl1h"
+      },
+      "artists": [
+        {
+          "name": "Bridde Boys",
+          "url": "https://open.spotify.com/artist/3MXwHgXTLymeCniKY1H3aM"
+        }
+      ],
+      "duration_ms": 253544,
+      "name": "Pit Stop",
+      "url": "https://open.spotify.com/track/00efU9s1tVptQB3SUabGvu"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "We Don't Stop",
         "url": "https://open.spotify.com/album/040y4hBxeWnxEXp6Nwoypu"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 149027,
       "name": "Vervloekt",
       "url": "https://open.spotify.com/track/0TSXMqkkZy7yV7jno8Nv4a"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Pit Stop",
-        "url": "https://open.spotify.com/album/1Bo3QIkCyr0AErUw4BHl1h"
-      },
-      "artists": [
-        {
-          "name": "Bridde Boys",
-          "url": "https://open.spotify.com/artist/3MXwHgXTLymeCniKY1H3aM"
-        }
-      ],
-      "duration_ms": 253544,
-      "name": "Pit Stop",
-      "url": "https://open.spotify.com/track/00efU9s1tVptQB3SUabGvu"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -975,6 +975,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "LION",
+        "url": "https://open.spotify.com/album/5otMiiTCoXNJlvOWnQNV2X"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        },
+        {
+          "name": "Yung Felix",
+          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
+        }
+      ],
+      "duration_ms": 177994,
+      "name": "PARANOIA",
+      "url": "https://open.spotify.com/track/5kHMdJLmN364FvFfky3AXI"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Francis",
         "url": "https://open.spotify.com/album/1pgAdTVfRnyzn4AqNXOUZ2"
       },
@@ -999,26 +1019,6 @@
       "duration_ms": 185834,
       "name": "Louboutin",
       "url": "https://open.spotify.com/track/1nYj5Hv2ON80QokibDMvOE"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "LION",
-        "url": "https://open.spotify.com/album/5otMiiTCoXNJlvOWnQNV2X"
-      },
-      "artists": [
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        },
-        {
-          "name": "Yung Felix",
-          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
-        }
-      ],
-      "duration_ms": 177994,
-      "name": "PARANOIA",
-      "url": "https://open.spotify.com/track/5kHMdJLmN364FvFfky3AXI"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1975,6 +1975,30 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Christian Dior",
+        "url": "https://open.spotify.com/album/3YwWt0GFc3bPZfmsU1uCjM"
+      },
+      "artists": [
+        {
+          "name": "Dopebwoy",
+          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
+        },
+        {
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+        }
+      ],
+      "duration_ms": 152032,
+      "name": "Christian Dior",
+      "url": "https://open.spotify.com/track/101Guv5qCWiDv0rufQuhmX"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Gouden Plaat",
         "url": "https://open.spotify.com/album/6foJw5tA83SRvOLKL5ubYY"
       },
@@ -2047,30 +2071,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Christian Dior",
-        "url": "https://open.spotify.com/album/3YwWt0GFc3bPZfmsU1uCjM"
-      },
-      "artists": [
-        {
-          "name": "Dopebwoy",
-          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
-        },
-        {
-          "name": "Bryan Mg",
-          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
-        },
-        {
-          "name": "SRNO",
-          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
-        }
-      ],
-      "duration_ms": 152032,
-      "name": "Christian Dior",
-      "url": "https://open.spotify.com/track/101Guv5qCWiDv0rufQuhmX"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Vostape Vol.1: Congo Johnny Depp",
         "url": "https://open.spotify.com/album/0o58cKDGHVB2IUbIhQfzCB"
       },
@@ -2087,6 +2087,30 @@
       "duration_ms": 164000,
       "name": "Ex (feat. Webb)",
       "url": "https://open.spotify.com/track/3c6ioyk7G7YabcyIPfXZ3z"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Forever Lit",
+        "url": "https://open.spotify.com/album/4P8C9tvr8xleuIMgVBKpGy"
+      },
+      "artists": [
+        {
+          "name": "Dopebwoy",
+          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
+        },
+        {
+          "name": "3robi",
+          "url": "https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o"
+        },
+        {
+          "name": "Mula B",
+          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
+        }
+      ],
+      "duration_ms": 156921,
+      "name": "Walou Crisis (feat. 3robi & Mula B)",
+      "url": "https://open.spotify.com/track/4cEEHXGY0dsKtwmGFwhr9V"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -2155,30 +2179,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Forever Lit",
-        "url": "https://open.spotify.com/album/4P8C9tvr8xleuIMgVBKpGy"
-      },
-      "artists": [
-        {
-          "name": "Dopebwoy",
-          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
-        },
-        {
-          "name": "3robi",
-          "url": "https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o"
-        },
-        {
-          "name": "Mula B",
-          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
-        }
-      ],
-      "duration_ms": 156921,
-      "name": "Walou Crisis (feat. 3robi & Mula B)",
-      "url": "https://open.spotify.com/track/4cEEHXGY0dsKtwmGFwhr9V"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Speling",
         "url": "https://open.spotify.com/album/7wU40hIIazCe9fto5Meubi"
       },
@@ -2223,6 +2223,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Dragon Roll",
+        "url": "https://open.spotify.com/album/4C8Gro390C1e2lTIgbprmN"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 156631,
+      "name": "Dragon Roll",
+      "url": "https://open.spotify.com/track/2fCdtNreNptDAZnisSOLpX"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Gouden Plaat",
         "url": "https://open.spotify.com/album/6foJw5tA83SRvOLKL5ubYY"
       },
@@ -2239,22 +2255,6 @@
       "duration_ms": 136499,
       "name": "Laat Niet Los (feat. Jonna Fraser)",
       "url": "https://open.spotify.com/track/3UxtV3dzZU58Y5OzaUUplr"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Dragon Roll",
-        "url": "https://open.spotify.com/album/4C8Gro390C1e2lTIgbprmN"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 156631,
-      "name": "Dragon Roll",
-      "url": "https://open.spotify.com/track/2fCdtNreNptDAZnisSOLpX"
     }
   ],
   "unique_name": "Oude Party Tunes",

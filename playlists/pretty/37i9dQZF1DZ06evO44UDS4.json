@@ -1,12 +1,12 @@
 {
   "description": "This is Oliver Tree. The essential tracks, all in one playlist.",
-  "num_followers": 162116,
+  "num_followers": 163082,
   "original_name": "This Is Oliver Tree",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajh7AAAAAAB8SC+yAe6zrRu6d5IZoDsO",
+  "snapshot_id": "ajnMgAAAAABEZKYHthd7abhZOETSiHgK",
   "tracks": [
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All You Ever Wanted",
-        "url": "https://open.spotify.com/album/4KUpiZ42WqvNZ5gT3ZfNRm"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 119934,
-      "name": "All You Ever Wanted",
-      "url": "https://open.spotify.com/track/4TLx9SRerOh8eKkNEJ8Bty"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Radical Dude!",
         "url": "https://open.spotify.com/album/4MvN5DwEU0CPHL92VKSgkz"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 212631,
       "name": "Forget It (feat. Oliver Tree)",
       "url": "https://open.spotify.com/track/2xo44UuPdAFzaVMSX95suy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All You Ever Wanted",
+        "url": "https://open.spotify.com/album/4KUpiZ42WqvNZ5gT3ZfNRm"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 119934,
+      "name": "All You Ever Wanted",
+      "url": "https://open.spotify.com/track/4TLx9SRerOh8eKkNEJ8Bty"
     },
     {
       "added_at": null,
@@ -699,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
+        "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 132236,
+      "name": "When You're Around",
+      "url": "https://open.spotify.com/track/27RyeAlW8qufycdeSz2K2o"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Turn It Up (feat. Tommy Cash)",
         "url": "https://open.spotify.com/album/6QtloaQlP1TQEDBMJsTtG8"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 129621,
       "name": "Turn It Up (feat. Tommy Cash)",
       "url": "https://open.spotify.com/track/1LqGBnl9m1duX1XWopugaf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
-        "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 132236,
-      "name": "When You're Around",
-      "url": "https://open.spotify.com/track/27RyeAlW8qufycdeSz2K2o"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deep End",
-        "url": "https://open.spotify.com/album/1TwEYzYp5T5lKcsR09D9EZ"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 150255,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/43AOW7GMURYgHE1KFNjLZJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
         "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 193986,
       "name": "Every Type of Friend",
       "url": "https://open.spotify.com/track/4857wFBWpbuhm5caykSZSO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/1TwEYzYp5T5lKcsR09D9EZ"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 150255,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/43AOW7GMURYgHE1KFNjLZJ"
     },
     {
       "added_at": null,

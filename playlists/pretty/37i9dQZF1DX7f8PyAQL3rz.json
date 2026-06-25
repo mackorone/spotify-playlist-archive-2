@@ -1,12 +1,12 @@
 {
   "description": "no drill e na bola \u00e9 \ud83c\udde7\ud83c\uddf7 , tlgd",
-  "num_followers": 1443784,
+  "num_followers": 1443672,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO7lYa3aaw9JL9hHeBSTnuqb7ZVl",
+  "snapshot_id": "AAAAAMeVINItR2tepPg/XyZp7AiA29Pp",
   "tracks": [
     {
       "added_at": "2026-06-17 15:55:30",
@@ -1079,6 +1079,26 @@
     {
       "added_at": "2026-06-17 15:55:30",
       "album": {
+        "name": "BOLA DE MEIA.",
+        "url": "https://open.spotify.com/album/6vXRIMIBzpOflkPY2agdON"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "duration_ms": 213995,
+      "name": "BOLA DE MEIA.",
+      "url": "https://open.spotify.com/track/6gLZVkQfxtLb7Lw4yV1nM3"
+    },
+    {
+      "added_at": "2026-06-17 15:55:30",
+      "album": {
         "name": "AQUI \u00c9 BRASIL",
         "url": "https://open.spotify.com/album/43On3lmGHBNE9Mo0Lyjzx5"
       },
@@ -1119,26 +1139,6 @@
       "duration_ms": 354461,
       "name": "AQUI \u00c9 BRASIL",
       "url": "https://open.spotify.com/track/78FNzEE7jtP3Lf5niaxAfH"
-    },
-    {
-      "added_at": "2026-06-17 15:55:30",
-      "album": {
-        "name": "BOLA DE MEIA.",
-        "url": "https://open.spotify.com/album/6vXRIMIBzpOflkPY2agdON"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        }
-      ],
-      "duration_ms": 213995,
-      "name": "BOLA DE MEIA.",
-      "url": "https://open.spotify.com/track/6gLZVkQfxtLb7Lw4yV1nM3"
     },
     {
       "added_at": "2026-06-17 15:55:30",
@@ -1287,6 +1287,30 @@
     {
       "added_at": "2026-06-17 15:55:30",
       "album": {
+        "name": "NOVA: 2L's",
+        "url": "https://open.spotify.com/album/3NpuBxpNF0TBps3RmEBaZp"
+      },
+      "artists": [
+        {
+          "name": "Podpah Records",
+          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
+        },
+        {
+          "name": "Bia Soull",
+          "url": "https://open.spotify.com/artist/0VYAyZttWMdlpWDl07itbd"
+        },
+        {
+          "name": "DJ CARLOZS",
+          "url": "https://open.spotify.com/artist/1tdUkusb60eDS6p0fgXexU"
+        }
+      ],
+      "duration_ms": 136650,
+      "name": "NOVA: 2L's",
+      "url": "https://open.spotify.com/track/1upJCA58emV5XezZ7yS1pU"
+    },
+    {
+      "added_at": "2026-06-17 15:55:30",
+      "album": {
         "name": "CAN'T TOUCH THIS (REMIX)",
         "url": "https://open.spotify.com/album/7GxEdpLHtlnIleMqwgv5P2"
       },
@@ -1315,30 +1339,6 @@
       "duration_ms": 209142,
       "name": "CAN'T TOUCH THIS (REMIX)",
       "url": "https://open.spotify.com/track/7kxAU1jYYMnK13TUYLYSkV"
-    },
-    {
-      "added_at": "2026-06-17 15:55:30",
-      "album": {
-        "name": "NOVA: 2L's",
-        "url": "https://open.spotify.com/album/3NpuBxpNF0TBps3RmEBaZp"
-      },
-      "artists": [
-        {
-          "name": "Podpah Records",
-          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
-        },
-        {
-          "name": "Bia Soull",
-          "url": "https://open.spotify.com/artist/0VYAyZttWMdlpWDl07itbd"
-        },
-        {
-          "name": "DJ CARLOZS",
-          "url": "https://open.spotify.com/artist/1tdUkusb60eDS6p0fgXexU"
-        }
-      ],
-      "duration_ms": 136650,
-      "name": "NOVA: 2L's",
-      "url": "https://open.spotify.com/track/1upJCA58emV5XezZ7yS1pU"
     },
     {
       "added_at": "2026-06-17 15:55:30",

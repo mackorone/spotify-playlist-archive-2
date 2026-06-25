@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > hyper\_sleaze.electro\_glitch.v2008.withslayr.zip.\[FINAL\]\_\[REAL\]\_\_coverartist.TiffanyDay
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,367,498 likes - 69 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,369,506 likes - 69 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [CONSTANTLY](https://open.spotify.com/track/15vg0v6tZ1y8aZfpdz2KRY) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu), [slayr](https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA) | [CONSTANTLY](https://open.spotify.com/album/213P10SLkkkRltYI9bbh2V) | 3:02 |
-| 2 | [punch](https://open.spotify.com/track/5RBBxbvBLrQrN8K84fFtmA) | [Daisy\*](https://open.spotify.com/artist/5D9FTN2RO8AWdm57L9CVeH) | [punch](https://open.spotify.com/album/5uhc0x5otbt10RYvxUovN4) | 3:15 |
+| 2 | [punch](https://open.spotify.com/track/5RBBxbvBLrQrN8K84fFtmA) | [Daisy\*](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [punch](https://open.spotify.com/album/5uhc0x5otbt10RYvxUovN4) | 3:15 |
 | 3 | [Ne Plus Ultra](https://open.spotify.com/track/5nlsXkRIR3ZFTdeot66Yj6) | [ear](https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG) | [Ne Plus Ultra](https://open.spotify.com/album/2VJYwE0GEeZ9JADw5BFX80) | 2:49 |
 | 4 | [Fuck My Computer](https://open.spotify.com/track/5ZbztTcvj6QWWbeYsL4GTa) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [I Love My Computer](https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ) | 3:10 |
 | 5 | [I Bring My Gun To The Function \(with Boys Noize\)](https://open.spotify.com/track/0f3P2kbpIvGdgfvXN7rIKG) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [I Bring My Gun To The Function \(with Boys Noize\)](https://open.spotify.com/album/5v1raNmRS2QloeEe4TzbnA) | 3:10 |

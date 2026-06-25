@@ -4,7 +4,7 @@
 
 > All new Worship songs on the rise! Cover: Charles Weems
 
-1,012 songs - 3 day 18 hr 4 min
+1,012 songs - 3 day 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -558,7 +558,7 @@
 | [Mercy In The Morning](https://open.spotify.com/track/0nmEnCJrQoUdf04kZye0QQ) | [Seth Carpenter](https://open.spotify.com/artist/2jveyjr93fq4ZFgIjG4vFt) | [Mercy In The Morning](https://open.spotify.com/album/7kaanmAt7rAGOf6puTSjWR) | 5:26 | 2025-06-06 | 2025-08-05 |
 | [Midnight \- Radio Version](https://open.spotify.com/track/1jn37EplTmgk8ZoXsoHGsu) | [Rita Springer](https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c) | [Midnight](https://open.spotify.com/album/1KI4ndRW4pVUrCXgR8XaAt) | 5:03 | 2021-06-12 | 2024-06-24 |
 | [Midst](https://open.spotify.com/track/3iEVhb9l6mFqj2I2LUDGua) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Andrew Holt](https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8) | [Midst](https://open.spotify.com/album/1iytTNnPCBeEtX9JyyVR77) | 6:38 | 2026-02-07 | 2026-02-22 |
-| [Mighty God \- Live](https://open.spotify.com/track/6sNHGIXmrBydSl6zstkzq9) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Mighty God \(Live\)](https://open.spotify.com/album/4rHXkkzhGwENKYcA3VAjRG) | 6:16 | 2026-04-17 |  |
+| [Mighty God \- Live](https://open.spotify.com/track/6sNHGIXmrBydSl6zstkzq9) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Mighty God \(Live\)](https://open.spotify.com/album/4rHXkkzhGwENKYcA3VAjRG) | 6:03 | 2026-04-17 |  |
 | [Mighty Name of Jesus](https://open.spotify.com/track/7wqSUHBPpffaR5XGuGsafk) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [David Dennis](https://open.spotify.com/artist/18yC0bj6ef6IYj48bTUEAK) | [Mighty Name of Jesus](https://open.spotify.com/album/5FZ1N4Ia4I8e7vS7tOevun) | 7:23 | 2025-10-03 | 2025-11-16 |
 | [Mighty Name Of Jesus \- Live](https://open.spotify.com/track/46WzpkFoJalPyep0pxLcG3) | [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [Mighty Name of Jesus \(Live\)](https://open.spotify.com/album/14bpNlh1xY0ADHNZc1LxIc) | 4:46 | 2025-03-12 | 2025-08-05 |
 | [Mighty Name Of Jesus \- Strings Version](https://open.spotify.com/track/3uqqiJjJfKBjvtBJXySG9n) | [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [Mighty Name Of Jesus \- The Collection](https://open.spotify.com/album/0wnHm1dJfcXDw74vgIUJN3) | 8:06 | 2026-03-21 | 2026-05-20 |

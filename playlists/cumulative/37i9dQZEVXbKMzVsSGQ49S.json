@@ -357,6 +357,24 @@
     },
     {
       "album": {
+        "name": "100K",
+        "url": "https://open.spotify.com/album/06W3AKJIcRtwd8kdUYyGDV"
+      },
+      "artists": [
+        {
+          "name": "Tractopelle Musik",
+          "url": "https://open.spotify.com/artist/4nM9QTw9xOGr1yXbJH7lSt"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157241,
+      "name": "100K",
+      "url": "https://open.spotify.com/track/4JQCVnxg6z3IilzZmhH4Jq"
+    },
+    {
+      "album": {
         "name": "Joey 3",
         "url": "https://open.spotify.com/album/6cdZW1zQQd5jwQPAyf1tZZ"
       },
@@ -4500,7 +4518,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -17747,6 +17765,24 @@
     },
     {
       "album": {
+        "name": "Fading Like Us",
+        "url": "https://open.spotify.com/album/7lziCqud1tkzQhpweOLgsb"
+      },
+      "artists": [
+        {
+          "name": "Ankus",
+          "url": "https://open.spotify.com/artist/50o4p10snr54FW0eZDehdf"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206718,
+      "name": "Fading Like Us",
+      "url": "https://open.spotify.com/track/6yckvCFTrmUT1qe5ptM96n"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -17904,7 +17940,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-24",
+      "date_removed": null,
       "duration_ms": 246874,
       "name": "Fallegur dagur",
       "url": "https://open.spotify.com/track/0VUH43O5GBZDsVuphW1IAQ"
@@ -24960,7 +24996,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 284798,
       "name": "Hey Gringo",
       "url": "https://open.spotify.com/track/4aPeeN8IYOCMNBGI0p7169"
@@ -37048,7 +37084,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 144775,
       "name": "Miklu betri einn",
       "url": "https://open.spotify.com/track/5DFkMQKi0vlTWoILzaFpc4"
@@ -39974,7 +40010,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 234240,
       "name": "No Good",
       "url": "https://open.spotify.com/track/0Tr5G2mE56eLUGvCaXRM8I"
@@ -53440,7 +53476,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 212655,
       "name": "Sumari\u00f0",
       "url": "https://open.spotify.com/track/0C0KHWR5vwYzDWGv81pfaw"

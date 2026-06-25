@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Aina Abdul, Tyla, RIIZE, Liza Hanim, Luqman Podolski, Alpha, Daiyan Trisha,  and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,185 likes - 91 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,182 likes - 91 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

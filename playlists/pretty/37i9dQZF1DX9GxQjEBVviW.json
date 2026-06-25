@@ -1,6 +1,6 @@
 {
   "description": "\u200bBoogie along to doo-wop's greatest hits.",
-  "num_followers": 250851,
+  "num_followers": 250873,
   "original_name": "Doo-Wop Dee Doo",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-07-14 11:36:52",
       "album": {
-        "name": "The Best Of The Marcels",
-        "url": "https://open.spotify.com/album/3rgajlw95Z2hWWggHCUkRa"
-      },
-      "artists": [
-        {
-          "name": "The Marcels",
-          "url": "https://open.spotify.com/artist/1JQYskbOoudT9cylam24a3"
-        }
-      ],
-      "duration_ms": 152200,
-      "name": "Heartaches",
-      "url": "https://open.spotify.com/track/3BfRMHhQlhDJYaiULVPgvS"
-    },
-    {
-      "added_at": "2024-07-14 11:36:52",
-      "album": {
         "name": "For Cool Grandkids Everywhere",
         "url": "https://open.spotify.com/album/32xVr7I4Aj0RqHYRTsQx0a"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 156266,
       "name": "At The Hop",
       "url": "https://open.spotify.com/track/0X1rGmNiBAdqpkeWlaZbmi"
+    },
+    {
+      "added_at": "2024-07-14 11:36:52",
+      "album": {
+        "name": "The Best Of The Marcels",
+        "url": "https://open.spotify.com/album/3rgajlw95Z2hWWggHCUkRa"
+      },
+      "artists": [
+        {
+          "name": "The Marcels",
+          "url": "https://open.spotify.com/artist/1JQYskbOoudT9cylam24a3"
+        }
+      ],
+      "duration_ms": 152200,
+      "name": "Heartaches",
+      "url": "https://open.spotify.com/track/3BfRMHhQlhDJYaiULVPgvS"
     },
     {
       "added_at": "2024-07-14 11:36:52",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-07-14 11:36:52",
       "album": {
-        "name": "The Marcels",
-        "url": "https://open.spotify.com/album/7aRLy6IzAiasWqxy62lubc"
-      },
-      "artists": [
-        {
-          "name": "The Marcels",
-          "url": "https://open.spotify.com/artist/1JQYskbOoudT9cylam24a3"
-        }
-      ],
-      "duration_ms": 136771,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/2CghtwfbA6zkqfxRlSsSJG"
-    },
-    {
-      "added_at": "2024-07-14 11:36:52",
-      "album": {
         "name": "The Hollywood Flames",
         "url": "https://open.spotify.com/album/6ezr8YCNogJhJv0ggSRtET"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 136333,
       "name": "Buzz, Buzz, Buzz",
       "url": "https://open.spotify.com/track/1rhkJsynQ42VnaJanPmNwg"
+    },
+    {
+      "added_at": "2024-07-14 11:36:52",
+      "album": {
+        "name": "The Marcels",
+        "url": "https://open.spotify.com/album/7aRLy6IzAiasWqxy62lubc"
+      },
+      "artists": [
+        {
+          "name": "The Marcels",
+          "url": "https://open.spotify.com/artist/1JQYskbOoudT9cylam24a3"
+        }
+      ],
+      "duration_ms": 136771,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/2CghtwfbA6zkqfxRlSsSJG"
     },
     {
       "added_at": "2024-07-14 11:36:52",
@@ -519,8 +519,8 @@
     {
       "added_at": "2024-07-14 11:36:52",
       "album": {
-        "name": "\"Maybe\": The Best of the Chantels",
-        "url": "https://open.spotify.com/album/1HQAVqEPsz4dZPX9AjHA86"
+        "name": "Doo Wop Classics Vol. 1",
+        "url": "https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp"
       },
       "artists": [
         {
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/08kLJJHCIH3KZGk4FZmWSK"
         }
       ],
-      "duration_ms": 138814,
-      "name": "Look into My Eyes",
-      "url": "https://open.spotify.com/track/4VcYXEr0gaRPK9V5KDDjX7"
+      "duration_ms": 170000,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/3OQws3wO9koGb1g2QP2YsN"
     },
     {
       "added_at": "2024-07-14 11:36:52",
@@ -599,8 +599,8 @@
     {
       "added_at": "2024-07-14 11:36:52",
       "album": {
-        "name": "Doo Wop Classics Vol. 1",
-        "url": "https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp"
+        "name": "\"Maybe\": The Best of the Chantels",
+        "url": "https://open.spotify.com/album/1HQAVqEPsz4dZPX9AjHA86"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/08kLJJHCIH3KZGk4FZmWSK"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Maybe",
-      "url": "https://open.spotify.com/track/3OQws3wO9koGb1g2QP2YsN"
+      "duration_ms": 138814,
+      "name": "Look into My Eyes",
+      "url": "https://open.spotify.com/track/4VcYXEr0gaRPK9V5KDDjX7"
     },
     {
       "added_at": "2024-07-14 11:36:52",

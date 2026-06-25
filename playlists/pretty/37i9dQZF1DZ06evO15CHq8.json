@@ -1,12 +1,12 @@
 {
   "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 676495,
+  "num_followers": 676535,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajh7AAAAAAA0oQ//TxRbOZukF/9o1q2B",
+  "snapshot_id": "ajnMgAAAAAAK4ckQELau6gHbpEWof47M",
   "tracks": [
     {
       "added_at": null,
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
         }
       ],
-      "duration_ms": 221047,
-      "name": "BLOODSWEAT",
-      "url": "https://open.spotify.com/track/3YGma4LsXxOZYZiKOtsSzC"
+      "duration_ms": 124249,
+      "name": "Leviticus",
+      "url": "https://open.spotify.com/track/2QesOhDm8RV7gQ3xbu41xm"
     },
     {
       "added_at": null,
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
         }
       ],
-      "duration_ms": 124249,
-      "name": "Leviticus",
-      "url": "https://open.spotify.com/track/2QesOhDm8RV7gQ3xbu41xm"
+      "duration_ms": 221047,
+      "name": "BLOODSWEAT",
+      "url": "https://open.spotify.com/track/3YGma4LsXxOZYZiKOtsSzC"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Long Term Effects of SUFFERING",
-        "url": "https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 178131,
-      "name": "Ugliest",
-      "url": "https://open.spotify.com/track/2Q9nA56DKKJhj4cHMbHlAS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KILL YOURSELF Part XII: The Dark Glacier Saga",
         "url": "https://open.spotify.com/album/0Jbf4eYSaqLj4OW0xCrJlj"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 123468,
       "name": "2nd Hand",
       "url": "https://open.spotify.com/track/3YeQsJs1FdLI3w0BqWwpmk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Long Term Effects of SUFFERING",
+        "url": "https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 178131,
+      "name": "Ugliest",
+      "url": "https://open.spotify.com/track/2Q9nA56DKKJhj4cHMbHlAS"
     },
     {
       "added_at": null,
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "THY WILL BE DONE",
-        "url": "https://open.spotify.com/album/7jtViL0H9WMUkCrsafE4xo"
+        "name": "KILL YOURSELF Part XII: The Dark Glacier Saga",
+        "url": "https://open.spotify.com/album/0Jbf4eYSaqLj4OW0xCrJlj"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
         }
       ],
-      "duration_ms": 204969,
-      "name": "2009 Reggie Bush",
-      "url": "https://open.spotify.com/track/4Jeaq2Tzhali3fSFjMezZy"
+      "duration_ms": 134962,
+      "name": "Audubon",
+      "url": "https://open.spotify.com/track/3UcyaCWLsc0XDhzXHUuH1S"
     },
     {
       "added_at": null,
@@ -675,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "KILL YOURSELF Part XII: The Dark Glacier Saga",
-        "url": "https://open.spotify.com/album/0Jbf4eYSaqLj4OW0xCrJlj"
+        "name": "THY WILL BE DONE",
+        "url": "https://open.spotify.com/album/7jtViL0H9WMUkCrsafE4xo"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
         }
       ],
-      "duration_ms": 134962,
-      "name": "Audubon",
-      "url": "https://open.spotify.com/track/3UcyaCWLsc0XDhzXHUuH1S"
+      "duration_ms": 204969,
+      "name": "2009 Reggie Bush",
+      "url": "https://open.spotify.com/track/4Jeaq2Tzhali3fSFjMezZy"
     },
     {
       "added_at": null,
@@ -819,22 +819,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grey Gorilla",
-        "url": "https://open.spotify.com/album/2oaau3jGhm8zjnBbGxmCA6"
+        "name": "Goodnight Lovell",
+        "url": "https://open.spotify.com/album/7DNZURhi8nhcGxhoRriZFS"
       },
       "artists": [
         {
-          "name": "Ramirez",
-          "url": "https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2"
+          "name": "Night Lovell",
+          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
         },
         {
           "name": "$uicideboy$",
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
         }
       ],
-      "duration_ms": 192809,
-      "name": "Grey Gods",
-      "url": "https://open.spotify.com/track/4iSHIHjbwqztgHdSeTjuMN"
+      "duration_ms": 145202,
+      "name": "JOAN OF ARC",
+      "url": "https://open.spotify.com/track/1nQwi9UGdNeN1FyzGE7jDt"
     }
   ],
   "unique_name": "This Is $uicideboy$",

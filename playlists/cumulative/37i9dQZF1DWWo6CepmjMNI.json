@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: JOY\u00c9",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: CURS",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49 \u0e40\u0e17\u0e2a\u0e14\u0e35 Indie Tasty",
   "tracks": [
     {
@@ -42,6 +42,24 @@
       "duration_ms": 240644,
       "name": "1",
       "url": "https://open.spotify.com/track/7C0iw6P8SwYz8FJrN7SGaj"
+    },
+    {
+      "album": {
+        "name": "50/50",
+        "url": "https://open.spotify.com/album/6nO8T32fBPe8ffwq6HsR4S"
+      },
+      "artists": [
+        {
+          "name": "The Publish",
+          "url": "https://open.spotify.com/artist/1dkiRgFFVF7XmX4vo0NEEh"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301548,
+      "name": "50/50",
+      "url": "https://open.spotify.com/track/3wkjS9EyCPHrkJ0hkn5ozX"
     },
     {
       "album": {
@@ -682,7 +700,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 216616,
       "name": "NOISE CANCELLING",
       "url": "https://open.spotify.com/track/4M6UHs4hOdufqwjElfKseZ"
@@ -2289,6 +2307,24 @@
     },
     {
       "album": {
+        "name": "\u0e14\u0e34\u0e48\u0e07 (Deep)",
+        "url": "https://open.spotify.com/album/1zOfH1aSjAKLOSiFLyqoUH"
+      },
+      "artists": [
+        {
+          "name": "Enter The Joy",
+          "url": "https://open.spotify.com/artist/2FA1UgZXy5OoXBB6CNgCQk"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333176,
+      "name": "\u0e14\u0e34\u0e48\u0e07 (Deep)",
+      "url": "https://open.spotify.com/track/20EMMATUtWu4rs6IMOXkfK"
+    },
+    {
+      "album": {
         "name": "\u0e14\u0e35\u0e41\u0e25\u0e49\u0e27",
         "url": "https://open.spotify.com/album/63IW4wzMkru6GvdLwCa8In"
       },
@@ -2642,7 +2678,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 254408,
       "name": "\u0e17\u0e35\u0e48\u0e41\u0e25\u0e49\u0e27\u0e21\u0e32\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e23",
       "url": "https://open.spotify.com/track/1LJiWvhU9PikSG5vUo5Vow"
@@ -3244,7 +3280,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 247621,
       "name": "\u0e1e\u0e1a\u0e01\u0e31\u0e19 (Other Side)",
       "url": "https://open.spotify.com/track/0mHEr0RxeC51sigzX0bUDP"
@@ -3320,6 +3356,24 @@
       "duration_ms": 268376,
       "name": "\u0e1e\u0e2d\u0e41\u0e25\u0e49\u0e27(\u0e41\u0e15\u0e48\u0e2d\u0e35\u0e01\u0e41\u0e25\u0e49\u0e27)",
       "url": "https://open.spotify.com/track/6cvASv3yuhmXUkpvArYNGo"
+    },
+    {
+      "album": {
+        "name": "\u0e1e\u0e31\u0e01",
+        "url": "https://open.spotify.com/album/6aPG4ryFJoU8rU3HBUV47w"
+      },
+      "artists": [
+        {
+          "name": "Wallry",
+          "url": "https://open.spotify.com/artist/5Rfrdko5rmc0qMAcyCuDki"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "\u0e1e\u0e31\u0e01",
+      "url": "https://open.spotify.com/track/1qY9qaO6me2UlGlZ2NX1sr"
     },
     {
       "album": {
@@ -4585,6 +4639,24 @@
     },
     {
       "album": {
+        "name": "YEP MAY YEP",
+        "url": "https://open.spotify.com/album/00sYILXJKkxOVNILEgLjm7"
+      },
+      "artists": [
+        {
+          "name": "YMY",
+          "url": "https://open.spotify.com/artist/7M3iEQzqUhshIroT8hahga"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258678,
+      "name": "\u0e2b\u0e32\u0e01\u0e09\u0e31\u0e19\u0e44\u0e14\u0e49\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e2d\u0e35\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07",
+      "url": "https://open.spotify.com/track/49RkE1kVmRI2HOL8U2Answ"
+    },
+    {
+      "album": {
         "name": "\u0e2b\u0e32\u0e01\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e22\u0e2d\u0e21\u0e23\u0e31\u0e1a\u0e21\u0e31\u0e19 (YOURS)",
         "url": "https://open.spotify.com/album/6vRogRMbe9A090xSSACu9s"
       },
@@ -4999,6 +5071,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e07\u0e34\u0e19\u0e15\u0e23\u0e32",
+        "url": "https://open.spotify.com/album/0l4y5bv8IoeqXEaPCSclzB"
+      },
+      "artists": [
+        {
+          "name": "Sukid458",
+          "url": "https://open.spotify.com/artist/6dWH3SSe9rYb2KvunPIvf4"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285517,
+      "name": "\u0e40\u0e07\u0e34\u0e19\u0e15\u0e23\u0e32",
+      "url": "https://open.spotify.com/track/4BbmLTx2Pp6biPZ0ZOqlKp"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e08\u0e47\u0e1a\u0e40\u0e01\u0e48\u0e07 (Hurt)",
         "url": "https://open.spotify.com/album/4xBWcKwOOeW1K1laHIhT5C"
       },
@@ -5338,7 +5428,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 241241,
       "name": "\u0e40\u0e1e\u0e35\u0e22\u0e07\u0e23\u0e39\u0e49\u0e2a\u0e36\u0e01",
       "url": "https://open.spotify.com/track/4Je6mCTC25kHFAGDRIasSX"
@@ -5612,7 +5702,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 281000,
       "name": "\u0e41\u0e04\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e40\u0e08\u0e2d (About Fate)",
       "url": "https://open.spotify.com/track/2HHwVSMuBB8GnI1QjVndzk"
@@ -5760,6 +5850,24 @@
       "duration_ms": 221917,
       "name": "\u0e42\u0e17\u0e23\u0e1b\u0e25\u0e38\u0e01\u0e40\u0e18\u0e2d",
       "url": "https://open.spotify.com/track/3t0UIgHDKNd4xuaBQ2ZUFh"
+    },
+    {
+      "album": {
+        "name": "\u0e42\u0e25\u0e01\u0e04\u0e27\u0e32\u0e21\u0e08\u0e23\u0e34\u0e07 (REALITY HITS)",
+        "url": "https://open.spotify.com/album/3KZ7gawGVh6uGnEPrbFN6I"
+      },
+      "artists": [
+        {
+          "name": "Varis",
+          "url": "https://open.spotify.com/artist/53DTvTbpR2jK1KUrR13431"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287168,
+      "name": "\u0e42\u0e25\u0e01\u0e04\u0e27\u0e32\u0e21\u0e08\u0e23\u0e34\u0e07 (REALITY HITS)",
+      "url": "https://open.spotify.com/track/5WjIzVculbw1st9OdhHq2K"
     },
     {
       "album": {
@@ -6300,7 +6408,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 258261,
       "name": "\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48\u0e40\u0e18\u0e2d",
       "url": "https://open.spotify.com/track/2nCxgWqc37RCo5cb9XsCHz"

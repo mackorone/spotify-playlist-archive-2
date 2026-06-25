@@ -4,7 +4,7 @@
 
 > The best new dance tracks from independent artists & labels\. Featuring VIVI909\. Curated by human Spotify editors.
 
-3,555 songs - 9 day 14 hr 13 min
+3,556 songs - 9 day 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1210,7 +1210,7 @@
 | [From The Top](https://open.spotify.com/track/5ELPO5jIJsvx01w5WIpXXf) | [Alex Culross](https://open.spotify.com/artist/10mUhPf4y20AdcI5AwrNdD) | [From The Top](https://open.spotify.com/album/6pO53drQ05K22RL1Ac7cwT) | 3:28 | 2026-01-21 | 2026-03-19 |
 | [Front 2 Back](https://open.spotify.com/track/5O3BBu1w4gfT0vsLPN3bfW) | [Jordan Peak](https://open.spotify.com/artist/5Jhhsm26nMbGu8FNOvN3Gk) | [Front 2 Back](https://open.spotify.com/album/0GjU9EI6COpbjnLEh049Ct) | 2:59 | 2025-07-11 | 2025-08-28 |
 | [FRONT LEFT SPEAKER](https://open.spotify.com/track/4BbAQd9yHbOPF4PzDQRksr) | [deBasement](https://open.spotify.com/artist/76Hqz0xVLDA9UwwqKR1JVl) | [FRONT LEFT SPEAKER / FTDJ \(Thank God\)](https://open.spotify.com/album/3cTyn6ZcVOv2fuXEO0dqC9) | 3:40 | 2024-08-28 | 2024-11-16 |
-| [Front, Left](https://open.spotify.com/track/7IP9P1jnYnvEBa2FcEDDSd) | [Secret Floor](https://open.spotify.com/artist/3mA8kikSvA1bdFS84nB2lm) | [Front, Left](https://open.spotify.com/album/4VtJjZ6t72YVSOWcS0KYBq) | 2:22 | 2026-03-18 |  |
+| [Front, Left](https://open.spotify.com/track/7IP9P1jnYnvEBa2FcEDDSd) | [Secret Floor](https://open.spotify.com/artist/3mA8kikSvA1bdFS84nB2lm) | [Front, Left](https://open.spotify.com/album/4VtJjZ6t72YVSOWcS0KYBq) | 2:22 | 2026-03-18 | 2026-06-25 |
 | [Frozen Time](https://open.spotify.com/track/04gmLKrBOaGYbEboof98rg) | [Joseph Crime](https://open.spotify.com/artist/263mhJcYZhRpnTByW2f57G) | [Frozen Time](https://open.spotify.com/album/7adtype4aYgD15BCt98mB6) | 4:32 | 2022-10-05 | 2022-11-10 |
 | [fruttimango](https://open.spotify.com/track/4sUnEvyDA5DQOVDO711oJN) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [fruttimango](https://open.spotify.com/album/4P3jVpIk0YVVmXqIkefkOr) | 2:40 | 2022-10-05 | 2022-10-13 |
 | [fruttimango](https://open.spotify.com/track/5mtjaopZRNOrNVD8G634Y9) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [fruttimango](https://open.spotify.com/album/1k5BETs1emVtwlDPsgW4Be) | 2:40 | 2022-10-05 | 2022-11-10 |
@@ -1871,6 +1871,7 @@
 | [Look Good](https://open.spotify.com/track/6ksxe4Kmq9hdqqti0EFhOk) | [Ethan Walsh](https://open.spotify.com/artist/4EOVG7sMtdCjUbRSs1E0aT) | [Look Good](https://open.spotify.com/album/71DApqhcYDfibOT9unRwuf) | 2:14 | 2025-11-28 | 2025-12-04 |
 | [Look in the mirror](https://open.spotify.com/track/4kT4fkSZiMu5Hjhbqmgeoj) | [Cuezy.](https://open.spotify.com/artist/4lKn9D68mehoGHZAzYRTVB) | [Look in the mirror](https://open.spotify.com/album/1dAEJO2xmpnowElMFVogAh) | 4:34 | 2024-11-06 | 2024-12-05 |
 | [Look The Other Way](https://open.spotify.com/track/5x9tTch2LsMNPReORReT7I) | [LUMI](https://open.spotify.com/artist/2GhZq7k05EWdvb4cS2RQG5) | [Look The Other Way](https://open.spotify.com/album/3gqQjbbgkdbKUeBYtXeHdI) | 3:33 | 2024-01-17 | 2024-02-15 |
+| [Look What You Started](https://open.spotify.com/track/29nMOoXKrQpc7OJKJME9aV) | [Sasha GiGi](https://open.spotify.com/artist/49Gce8amMAHaw4B0Jfb8i5) | [Look What You Started](https://open.spotify.com/album/76iMqKiknAKfmhD9AoHTBu) | 3:07 | 2026-06-24 |  |
 | [Looking For Something](https://open.spotify.com/track/7MpDsggmJaTIUGtQmoFizN) | [Sante Sansone](https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8) | [Looking For Something EP](https://open.spotify.com/album/7if5jDOZzdfL6LLrl95xG0) | 3:26 | 2022-09-28 | 2022-12-01 |
 | [Loop](https://open.spotify.com/track/7hxEKzETvUwIgveCidaX9D) | [Stockholm Noir](https://open.spotify.com/artist/2ACCqah94vUZNJOKqDb1yG) | [Loop](https://open.spotify.com/album/4bG0PXnF6tjy1CMuEZP0zo) | 4:21 | 2023-04-12 | 2023-05-18 |
 | [Lop Nor](https://open.spotify.com/track/3840qLLhpUXTRV3TVXcgmn) | [boys be kko](https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D) | [Lop Nor](https://open.spotify.com/album/7wkTPXbAI6PaE2BUZ46UR1) | 5:48 | 2022-07-27 | 2022-08-25 |
@@ -2189,7 +2190,7 @@
 | [Nightfall](https://open.spotify.com/track/0zw3k3uhsQN7y84IXGMbad) | [Tom Westy](https://open.spotify.com/artist/0HhpiOJAde5crSTrd6sMbW) | [Nightfall EP](https://open.spotify.com/album/5tMrltjmtfTVhuWn4vx3FG) | 3:38 | 2025-02-07 | 2025-03-15 |
 | [Ninacamina](https://open.spotify.com/track/7mnnneke9KNVkwjPmMB7EY) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Izzy Camina](https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u) | [Ninacamina](https://open.spotify.com/album/3ZbOtABntVluWh1wtzmGMv) | 3:07 | 2024-01-24 | 2024-02-15 |
 | [nintendo 64](https://open.spotify.com/track/3ojqUvdhAxighZs7WDi2mx) | [wes mills](https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT) | [nintendo 64](https://open.spotify.com/album/0Ler3M1pK387glzodtvbFR) | 2:35 | 2022-11-09 | 2023-01-19 |
-| [No Bad Trips](https://open.spotify.com/track/5L1jMPd94KbotvZRtA7dJH) | [Birthday in Texas](https://open.spotify.com/artist/35SYTkkKBjuA75X0FoLRjA) | [No Bad Trips](https://open.spotify.com/album/3AngFwNxlTz9Byb8TzLpaf) | 2:12 | 2026-04-22 |  |
+| [No Bad Trips](https://open.spotify.com/track/5L1jMPd94KbotvZRtA7dJH) | [Birthday in Texas](https://open.spotify.com/artist/35SYTkkKBjuA75X0FoLRjA) | [No Bad Trips](https://open.spotify.com/album/3AngFwNxlTz9Byb8TzLpaf) | 2:12 | 2026-04-22 | 2026-06-25 |
 | [No Drugs](https://open.spotify.com/track/0TFJemtFTaBQ12HwKiRPx3) | [Jenn Getz & Alfie](https://open.spotify.com/artist/3InZgAgqREkBk5ZmMureYH) | [No Drugs](https://open.spotify.com/album/4QyUvhtYJqcrt9CsDlSvAZ) | 2:52 | 2023-04-12 | 2023-05-18 |
 | [No Friends](https://open.spotify.com/track/7LjDoeu6XRR6LRiNQj5ZTD) | [Maybon](https://open.spotify.com/artist/58WNaQYHzXvOY23UGICpOb) | [No Friends](https://open.spotify.com/album/0j72i8xGZBNHEWwCtH2jN6) | 2:35 | 2025-11-03 | 2025-12-04 |
 | [No Fuss](https://open.spotify.com/track/3AwN4UWWMsqKcSZ2DJ75my) | [Allan Low](https://open.spotify.com/artist/10fRQ9UPedAiR089JYZZPN) | [No Fuss](https://open.spotify.com/album/6eBZIYBzvYIXen9WmKgt0w) | 2:28 | 2024-08-16 | 2024-10-05 |
@@ -2498,7 +2499,7 @@
 | [Pump This](https://open.spotify.com/track/3zv6z0evv8QiIJjA8yOWAf) | [EFESIAN](https://open.spotify.com/artist/1fZOavLEMJtVzDcFGVPHWC) | [Pump This](https://open.spotify.com/album/0vYFogRb0q1U9UhVcy9o8f) | 4:09 | 2023-02-22 | 2023-03-16 |
 | [Pump This Party](https://open.spotify.com/track/2S2WlomEUoG5KWSSWQxhs5) | [JWalkz](https://open.spotify.com/artist/6qkfEFRUF7IsGgfpOMUTfk), [JAYC](https://open.spotify.com/artist/6RaD7n2k5twat5wiryhGuJ) | [Pump This Party](https://open.spotify.com/album/0n0AxX0DyNDjhSLnYjKQAY) | 3:11 | 2025-02-19 | 2025-04-04 |
 | [Pumped Up](https://open.spotify.com/track/21z5YclbgJ3hMbSGPngtNf) | [Danny Bond](https://open.spotify.com/artist/63XtZdrI2TXtK6EMVQ7s9D) | [Pumped Up](https://open.spotify.com/album/17R08hA4r43atcNwyUmggN) | 2:29 | 2023-03-01 | 2023-03-09 |
-| [punch](https://open.spotify.com/track/5RBBxbvBLrQrN8K84fFtmA) | [Daisy\*](https://open.spotify.com/artist/5D9FTN2RO8AWdm57L9CVeH) | [punch](https://open.spotify.com/album/5uhc0x5otbt10RYvxUovN4) | 3:15 | 2026-06-12 |  |
+| [punch](https://open.spotify.com/track/5RBBxbvBLrQrN8K84fFtmA) | [Daisy\*](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [punch](https://open.spotify.com/album/5uhc0x5otbt10RYvxUovN4) | 3:15 | 2026-06-12 |  |
 | [PUPPY](https://open.spotify.com/track/21amCankTlHEM4h5cUdD9E) | [Nathalie Duchene](https://open.spotify.com/artist/31QreE8xTvA8Rdq9UXCvnC) | [PUPPY](https://open.spotify.com/album/1EOeaa9aBWzPxb53QsxJgd) | 3:50 | 2024-09-18 | 2024-11-07 |
 | [Purity](https://open.spotify.com/track/5DR6vuwwCEBg9kAgJB2zG8) | [Nour](https://open.spotify.com/artist/5Sn6yiM4zeSnszRUMQxfo0) | [Purity](https://open.spotify.com/album/2tHTsIjHACxiXGtN7Hi2aC) | 7:54 | 2022-10-05 | 2022-12-01 |
 | [push](https://open.spotify.com/track/70rHOpWK2D0T4unIzANPL0) | [glittr](https://open.spotify.com/artist/2a5e4bQS4bNov080O3zTFJ) | [push / above](https://open.spotify.com/album/4Gzd09NSaDOzrsNQMAmPd7) | 2:47 | 2024-03-27 | 2024-05-11 |

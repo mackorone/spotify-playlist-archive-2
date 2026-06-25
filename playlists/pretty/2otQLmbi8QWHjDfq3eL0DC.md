@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 
 ### [HOUSE MUSIC 2026: Future Dance Hits, House & Deep Beats  🎶](https://open.spotify.com/playlist/2otQLmbi8QWHjDfq3eL0DC)
 
-> Dance Hits that define the future! Get ready for fresh House, Tech House &amp; Disco House grooves\. Featuring new tracks from David Guetta, Fred again.., Dom Dolla, and LF System\. High\-energy party anthems &amp; uplifting vibes\. Updated Weekly! Like &amp; Save for your ultimate 2026 House playlist!
+> The hottest House Music of 2026! This electrifying House playlist features the biggest Dance Hits &amp; future anthems from David Guetta, Fred again.., Sonny Fodera, &amp; Prospa\. Dive into pulsating beats, fresh grooves, and an unforgettable vibe\. Uprdated Weekly! Like &amp; Save for your next dance session!
 
-[Topsify](https://open.spotify.com/user/topsify) - 1,312,834 likes - 100 songs - 5 hr 4 min
+[Topsify](https://open.spotify.com/user/topsify) - 1,312,870 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 | 99 | [Temptation \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/3fvsxmytTns1ApIWBqfANZ) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Temptation \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/30K7gYPhkqCeQJ25C0GvXE) | 2:52 |
 | 100 | [Think About Us](https://open.spotify.com/track/3zEtrCrypOOIWKEapaTpq5) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [can we do it all again?](https://open.spotify.com/album/4FRJ8Vn159vRiyLTdcGAWI) | 2:58 |
 
-Snapshot ID: `AAARpOKa7bAUt5dlvwP/EZCALcwGZdGP`
+Snapshot ID: `AAARpUiKYy3VNQ3Qx82jxb2EThV1ctFe`

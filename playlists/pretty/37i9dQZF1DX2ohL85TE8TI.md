@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: 멋진 신세계\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,715,912 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,715,809 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 99 | [Run & Run](https://open.spotify.com/track/2T7WF29RwkgS3OnWctG89f) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [Dear\. X \(Original Soundtrack\) Part.1](https://open.spotify.com/album/6PlMD8N6iPLSwSHQCIIxI5) | 2:54 |
 | 100 | [Summer End](https://open.spotify.com/track/2knq4yj5NlKk76UF9px8ih) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Summer End \(Original Soundtrack from Last Summer\)](https://open.spotify.com/album/2WyblLuFfoHwGxFIBnSo0O) | 3:09 |
 
-Snapshot ID: `AAAAAGlzTLKyHSd17Fsfuazq8tOVJVk6`
+Snapshot ID: `AAAAAANTj8+kCQuWFbWrE8LcuhSepbAP`

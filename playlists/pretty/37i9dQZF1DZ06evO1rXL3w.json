@@ -1,33 +1,13 @@
 {
   "description": "This is Kris Bowers. The essential tracks, all in one playlist.",
-  "num_followers": 2659,
+  "num_followers": 2662,
   "original_name": "This Is Kris Bowers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajh7AAAAAACSbH6qQXh8b71oSQK13BTf",
+  "snapshot_id": "ajnMgAAAAAB5ZiwZVxt+qUP1RQY4D4mX",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spider-Noir (Prime Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/12H2ZoNfvfd2njn519Tr4r"
-      },
-      "artists": [
-        {
-          "name": "Kris Bowers",
-          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
-        },
-        {
-          "name": "Michael Dean Parsons",
-          "url": "https://open.spotify.com/artist/0PtgERFoiSK8egVLiNkure"
-        }
-      ],
-      "duration_ms": 153209,
-      "name": "Final Act - From the Prime Original Series Spider-Noir",
-      "url": "https://open.spotify.com/track/50hNk4CNkpVUdn6VKuk9OM"
-    },
     {
       "added_at": null,
       "album": {
@@ -60,9 +40,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 136573,
-      "name": "I Am The Tea",
-      "url": "https://open.spotify.com/track/03LELeiepIk1GZy1C1JYDH"
+      "duration_ms": 54119,
+      "name": "Love Or Envy",
+      "url": "https://open.spotify.com/track/09YAz8zwEc3e53EnNGsSGZ"
     },
     {
       "added_at": null,
@@ -124,9 +104,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 54119,
-      "name": "Love Or Envy",
-      "url": "https://open.spotify.com/track/09YAz8zwEc3e53EnNGsSGZ"
+      "duration_ms": 136573,
+      "name": "I Am The Tea",
+      "url": "https://open.spotify.com/track/03LELeiepIk1GZy1C1JYDH"
     },
     {
       "added_at": null,

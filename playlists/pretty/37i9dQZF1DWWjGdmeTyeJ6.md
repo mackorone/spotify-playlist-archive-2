@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music from independent artists and labels\. Featuring Jordan Patterson\. Curated with love by human Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,220,628 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,220,627 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 3 | [spotless state of mind](https://open.spotify.com/track/4eD2k2u8NJGcIGcKddEcJf) | [Fia James](https://open.spotify.com/artist/7m9lGtwbFjNmBpc3AcJI7R) | [spotless state of mind](https://open.spotify.com/album/4nd3lSysTh1vDOAsujdUUT) | 2:39 |
 | 4 | [Rodeo Clown](https://open.spotify.com/track/3FKeUGz59HxXkfei9HqKC8) | [Sierra Spirit](https://open.spotify.com/artist/1IpkMILxQQ6fXFxHsolyFR) | [Rodeo Clown](https://open.spotify.com/album/61GzM1hCo92YxcNidEhzns) | 2:54 |
 | 5 | [Stars](https://open.spotify.com/track/4s42j4BhFmaeQtRrOSC6bP) | [Do Nothing](https://open.spotify.com/artist/73N7cGNNww6Uod1d3IiBKP) | [Stars](https://open.spotify.com/album/1olpLgv7x6PoATBnNmNxjQ) | 2:52 |
-| 6 | [punch](https://open.spotify.com/track/5RBBxbvBLrQrN8K84fFtmA) | [Daisy\*](https://open.spotify.com/artist/5D9FTN2RO8AWdm57L9CVeH) | [punch](https://open.spotify.com/album/5uhc0x5otbt10RYvxUovN4) | 3:15 |
+| 6 | [punch](https://open.spotify.com/track/5RBBxbvBLrQrN8K84fFtmA) | [Daisy\*](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [punch](https://open.spotify.com/album/5uhc0x5otbt10RYvxUovN4) | 3:15 |
 | 7 | [sweet talk \(Live\) \| Spotify Fresh Finds x Sounds That Move](https://open.spotify.com/track/39Rn8Oo9457pJhvOT4uyCV) | [nomi.](https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4) | [sweet talk \(Live\) \| Spotify Fresh Finds x Sounds That Move](https://open.spotify.com/album/2ziwVgc0w5aZLVh76bNdtW) | 2:36 |
 | 8 | [WYM \(I Ain't Fresh\)](https://open.spotify.com/track/2XM18Uw0HEMGGeRGPxTeD7) | [Tahjaee](https://open.spotify.com/artist/6PvayPkNZDVr1LHKzaCAs2), [jhonniedamnd](https://open.spotify.com/artist/7qWZ7Mw71hkXKztqoEy727) | [WYM \(I Ain't Fresh\)](https://open.spotify.com/album/0bSDvvWRojNGeTkoAKqX1t) | 2:53 |
 | 9 | [Not So Sweet](https://open.spotify.com/track/36MdkPZVMopxPWK3MXsE70) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [Not So Sweet](https://open.spotify.com/album/6Zr7GLxnNwy9vVod25bpux) | 3:55 |

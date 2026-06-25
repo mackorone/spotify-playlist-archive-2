@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 
 > Best of Haryanvi Hip\-Hop! Cover: Urban Poet
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,630 likes - 75 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,652 likes - 75 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 | 28 | [Haryana Hood](https://open.spotify.com/track/1RdrAqXa2fUj2XytsKaUwl) | [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [Haryana Hood](https://open.spotify.com/album/4x2HtG6BCrYlok67vSgxjj) | 3:31 |
 | 29 | [Counterfeit](https://open.spotify.com/track/3E1MdjeFk5ZVVp9d6KU1Ay) | [PANJETA](https://open.spotify.com/artist/5aDlllQePpCiUfrFNeKEDR) | [Counterfeit](https://open.spotify.com/album/2cELg7DPZHuO2lIRlGuAcn) | 2:04 |
 | 30 | [Desi Hood](https://open.spotify.com/track/1ytkL95GzG5FfFHozezQFx) | [Krish Rao](https://open.spotify.com/artist/0iwEynjG3vgrTK0dj5QHxl) | [Desi Hood](https://open.spotify.com/album/36B93HW3IYVWNVZH0qPaCR) | 2:28 |
-| 31 | [Lobby](https://open.spotify.com/track/3iyEd62r4866VNGy6q0R6x) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Reloaded KD](https://open.spotify.com/album/2DN31KgkAg2qGGOFDWA054) | 3:48 |
+| 31 | [Lobby](https://open.spotify.com/track/3iyEd62r4866VNGy6q0R6x) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0), [Ghanu Music](https://open.spotify.com/artist/21dcNsxyYDyCaF33KDYL3T) | [Reloaded KD](https://open.spotify.com/album/2DN31KgkAg2qGGOFDWA054) | 3:48 |
 | 32 | [No Guts No Glory](https://open.spotify.com/track/32OvzmMs6oBsa2MDPQw9bH) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5) | [No Guts No Glory](https://open.spotify.com/album/42xj8tt1FmuETtkQS43oCa) | 2:56 |
 | 33 | [Tension](https://open.spotify.com/track/70YFXFbrvl5J3nUfqxTFue) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Tension](https://open.spotify.com/album/4q4VhpYWO14Jtdeyg3w6wb) | 2:23 |
 | 34 | [Smack Down](https://open.spotify.com/track/1qn0uDVnMgPTEWxedEIlVq) | [Sahil Dhull](https://open.spotify.com/artist/1YhZbHSLY4DwUzlennljq8), [Riyaazi](https://open.spotify.com/artist/5LN6cFuEopifixZsRarBri) | [Timeless](https://open.spotify.com/album/7aWCbuY23zycacncetVfSj) | 2:09 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 | 50 | [Deadly Zone](https://open.spotify.com/track/68LtGqZ3Ulvy1nMcdhEEht) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Deadly Zone](https://open.spotify.com/album/0yUSrznzLt3VwYAb98zSAW) | 2:48 |
 | 51 | [Swad Lere](https://open.spotify.com/track/5ugzr0gigMbPsVw7ucU5oL) | [Ranjha Litani](https://open.spotify.com/artist/4CjFkANVvhctPlfQZ41gql), [Raaga Litani](https://open.spotify.com/artist/0AyPAjWPEon23K96YW8kFV), [Riyaazi](https://open.spotify.com/artist/5LN6cFuEopifixZsRarBri) | [Swaad Lere](https://open.spotify.com/album/2hA5S1UHPIj1Mx9bQX97Q8) | 3:14 |
 | 52 | [Fire Spit](https://open.spotify.com/track/2zJx7a2mnrXAyExxm5WmYe) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ), [3rd Eye](https://open.spotify.com/artist/318a6U8piaVqh1qyTD5sqZ) | [F1](https://open.spotify.com/album/3AqhupPmnUNCvvNEx0F61s) | 2:40 |
-| 53 | [Dacoit](https://open.spotify.com/track/2yfYHSThClcMOzlcceswBp) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Reloaded KD](https://open.spotify.com/album/2DN31KgkAg2qGGOFDWA054) | 3:19 |
+| 53 | [Dacoit](https://open.spotify.com/track/2yfYHSThClcMOzlcceswBp) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0), [Ghanu Music](https://open.spotify.com/artist/21dcNsxyYDyCaF33KDYL3T) | [Reloaded KD](https://open.spotify.com/album/2DN31KgkAg2qGGOFDWA054) | 3:19 |
 | 54 | [Psyco Jaatni](https://open.spotify.com/track/0LrOz07K5MKNKAfTj9Rgbp) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Abhishek Raina](https://open.spotify.com/artist/11kJaZYEE0xblhOGLMrk1U), [Reet Gill](https://open.spotify.com/artist/20xpX8flho3yNAcY9ynEsH) | [Psyco Jaatni](https://open.spotify.com/album/10CLAtoUbv2JHL5F6SP75l) | 3:28 |
 | 55 | [Stock](https://open.spotify.com/track/3GOGNcPzmN3Vy804D9vUNV) | [Nindaniya](https://open.spotify.com/artist/5DhA0gXqsyZ4tpGqiybGva) | [Stock](https://open.spotify.com/album/01eLHSYcmafJra1YN2mCg2) | 3:06 |
 | 56 | [Yaar Chale Ni](https://open.spotify.com/track/5KMW5VJUMG1AEJlhN5Eyh6) | [Avy Nyoli](https://open.spotify.com/artist/2R5btwiJhkxWzX1nfjRWQ8) | [Yaar Chale Ni](https://open.spotify.com/album/0fozvGqOCpvPti5t59SJWc) | 2:41 |

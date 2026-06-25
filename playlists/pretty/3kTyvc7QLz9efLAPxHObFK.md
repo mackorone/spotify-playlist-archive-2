@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 18 likes - 3,111 songs - 6 day 16 hr 19 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 18 likes - 3,112 songs - 6 day 16 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3119,5 +3119,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 3109 | [Flyin' High](https://open.spotify.com/track/7wczJxdljc2n6DSj5YGE9L) | [High Resistance](https://open.spotify.com/artist/2oqQBJb0AXOKJHOzOlEuWO) | [Flyin' High](https://open.spotify.com/album/3X68wMmfpVp1E879RLvjdT) | 2:23 |
 | 3110 | [BODY MOVE](https://open.spotify.com/track/6NqIFmNHR1sWzWGTmnYaLl) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [BODY MOVE](https://open.spotify.com/album/35DequSIKFZ3uL2YeepqvD) | 2:38 |
 | 3111 | [Tear You Apart](https://open.spotify.com/track/1XYHqSfJK9ud9nuRjQcbXi) | [She Wants Revenge](https://open.spotify.com/artist/2zRt0sfxNnqI8gLR7d8gWt) | [She Wants Revenge](https://open.spotify.com/album/3S41D3x5NUwlVOuUNwoZ16) | 4:44 |
+| 3112 | [KISS KISS](https://open.spotify.com/track/6yNiOEUBCWNGUCX12bKqds) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW), [GPF](https://open.spotify.com/artist/4OoHneMX97SjUXKWgsyrP4), [Dr Donk](https://open.spotify.com/artist/0NirwTOv2qvuXsNNZkDPNu) | [KISS KISS](https://open.spotify.com/album/7za4IpRqRV01MzylcAOr9f) | 2:30 |
 
-Snapshot ID: `AAAMgkub+FTh91pD9VTOVMOUCNf8LCZl`
+Snapshot ID: `AAAMg5TEtPYudU6TgmmO0gnXfyV+Iec4`

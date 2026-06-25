@@ -403,6 +403,26 @@
     {
       "added_at": "2026-06-23 15:00:13",
       "album": {
+        "name": "Going",
+        "url": "https://open.spotify.com/album/1WNLDLMUXMw9vcGVX0WF4N"
+      },
+      "artists": [
+        {
+          "name": "Manaka",
+          "url": "https://open.spotify.com/artist/3TUjg4NvsTvKiyRuPdsurN"
+        },
+        {
+          "name": "Litty",
+          "url": "https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0"
+        }
+      ],
+      "duration_ms": 169400,
+      "name": "Going",
+      "url": "https://open.spotify.com/track/0ooR1VXfwVvPVxfMAqKnUn"
+    },
+    {
+      "added_at": "2026-06-23 15:00:13",
+      "album": {
         "name": "SHINTOKYO #6",
         "url": "https://open.spotify.com/album/1i4CV6LvZ8PWuphsqRiQAq"
       },

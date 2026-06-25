@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > Tristeza latina
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,897 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,902 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 36 | [fluya +](https://open.spotify.com/track/29RMIfhBVpZ05aPaR1oGVc) | [prado norte](https://open.spotify.com/artist/401yTJ8VYSgtLSeVfr3AjB) | [fluya +](https://open.spotify.com/album/5CXiG2ciD1cWf2pgfL00nX) | 4:02 |
 | 37 | [Estallar](https://open.spotify.com/track/76lfQ80UnsyvJDxRbKOs3w) | [Inválido](https://open.spotify.com/artist/7xVdVY75NJnzJ2OLmV22Sq) | [Todo el Silencio](https://open.spotify.com/album/0DFXz6haQbrLCMD1kYMHnL) | 5:50 |
 | 38 | [Comenzar De Cero](https://open.spotify.com/track/6nzIedKdHdAiz8iZa5fHU5) | [Congelador](https://open.spotify.com/artist/3OggS6Lzuzojyvd8t8ZAat) | [Panorama Neutral](https://open.spotify.com/album/4TMvWBmWr1WTTBIPzsLGul) | 3:22 |
-| 39 | [Tornado de Acuña](https://open.spotify.com/track/7bITaqPtYc9kRKkK0Krziy) | [Mantarrayas](https://open.spotify.com/artist/3FigwqJilYViW7bgzLk8g1) | [Tornado de Acuña](https://open.spotify.com/album/39byPs7qMGRNyepDn9E1JK) | 2:42 |
+| 39 | [No nos van a callar](https://open.spotify.com/track/3Y56kpqQAS7BflTNUG6mLA) | [Veritas](https://open.spotify.com/artist/43Nm1V8WR2FRJXkKC7KEYP) | [Marinero](https://open.spotify.com/album/1drhNMm9fWNwt94H5o0c6n) | 5:23 |
 | 40 | [Doctrina](https://open.spotify.com/track/4c28N3w0jxzuYoqk6faW8X) | [Las Armas](https://open.spotify.com/artist/2c8uad9zaUCSYzh2K2QPi7) | [De Lo Espiritual en la Música](https://open.spotify.com/album/4h8oNmAVeEnsXroRRc2ki1) | 2:24 |
-| 41 | [No nos van a callar](https://open.spotify.com/track/3Y56kpqQAS7BflTNUG6mLA) | [Veritas](https://open.spotify.com/artist/43Nm1V8WR2FRJXkKC7KEYP) | [Marinero](https://open.spotify.com/album/1drhNMm9fWNwt94H5o0c6n) | 5:23 |
-| 42 | [No Vi Mas Allá](https://open.spotify.com/track/5GZwj712P5AjwwsBGNdoa4) | [no somos lo que fuimos](https://open.spotify.com/artist/0DGmPI6KNfMZHJFf6ePM8A) | [Para Bien / Para Mal, Vol\. 1](https://open.spotify.com/album/0ph7JhSEApz6gCwbeT0eXS) | 4:21 |
+| 41 | [No Vi Mas Allá](https://open.spotify.com/track/5GZwj712P5AjwwsBGNdoa4) | [no somos lo que fuimos](https://open.spotify.com/artist/0DGmPI6KNfMZHJFf6ePM8A) | [Para Bien / Para Mal, Vol\. 1](https://open.spotify.com/album/0ph7JhSEApz6gCwbeT0eXS) | 4:21 |
+| 42 | [Tornado de Acuña](https://open.spotify.com/track/7bITaqPtYc9kRKkK0Krziy) | [Mantarrayas](https://open.spotify.com/artist/3FigwqJilYViW7bgzLk8g1) | [Tornado de Acuña](https://open.spotify.com/album/39byPs7qMGRNyepDn9E1JK) | 2:42 |
 | 43 | [Kabuki](https://open.spotify.com/track/4Sf7foZWDZXcsiFCFKIsTC) | [Fiesta Bizarra](https://open.spotify.com/artist/4LJsadS7NTK4pjcXkNu5Zu) | [LaFlor Records Vol\. 1](https://open.spotify.com/album/6BV2gv6qZ37d4gD4eWRygX) | 1:05 |
-| 44 | [Harakiri Shogun Pt.2](https://open.spotify.com/track/0Gv2BKKQDks4D0OWCptU53) | [Entrelobos](https://open.spotify.com/artist/48DFXshrt8ll6PfYaOcoCJ) | [Golden Boy](https://open.spotify.com/album/4eqQmv2QmIfFjqG7c3mAts) | 3:11 |
-| 45 | [3k](https://open.spotify.com/track/1B9QARNqTkzIUosalq7d7g) | [Kumatora](https://open.spotify.com/artist/22c7RZg1HnmhTs96YEJLYs) | [lo único incómodo \(es\) que nos vamos a encontrar](https://open.spotify.com/album/5QKRBZ05aG8NOQIqsz0oPx) | 1:44 |
+| 44 | [3k](https://open.spotify.com/track/1B9QARNqTkzIUosalq7d7g) | [Kumatora](https://open.spotify.com/artist/22c7RZg1HnmhTs96YEJLYs) | [lo único incómodo \(es\) que nos vamos a encontrar](https://open.spotify.com/album/5QKRBZ05aG8NOQIqsz0oPx) | 1:44 |
+| 45 | [Harakiri Shogun Pt.2](https://open.spotify.com/track/0Gv2BKKQDks4D0OWCptU53) | [Entrelobos](https://open.spotify.com/artist/48DFXshrt8ll6PfYaOcoCJ) | [Golden Boy](https://open.spotify.com/album/4eqQmv2QmIfFjqG7c3mAts) | 3:11 |
 | 46 | [Todo es igual](https://open.spotify.com/track/6nzCwtaxALVq9ttc2hHwYT) | [Dan Taylor MX](https://open.spotify.com/artist/3XMLtLBrACQZcPO846w2Ri) | [IV](https://open.spotify.com/album/5vEJgoBOUoxPGyIFQN71k6) | 2:12 |
 | 47 | [¿Dónde Estás?](https://open.spotify.com/track/0fPKu2W9GKva9hLkab5L5p) | [Local Champion](https://open.spotify.com/artist/1GSe3n9GErzHAaPcn7fXMT) | [Todo Lo Que Siempre Quise Decirte](https://open.spotify.com/album/4ShonKGDpddXlbuTpObnro) | 2:33 |
 | 48 | [Riviera](https://open.spotify.com/track/08vKDopMoW4BHOrGbdWPez) | [AMBR](https://open.spotify.com/artist/46A52Keqzf0gPAfXqWLAVu) | [De Entropía](https://open.spotify.com/album/0ZSPDZ8pneDzOdzn1Zbnhg) | 1:56 |
-| 49 | [24:00](https://open.spotify.com/track/6ZZMJsKZavEzmXSgHT0TIW) | [Diente de Oro](https://open.spotify.com/artist/6o7Yqv4imhW4Jz4Y1v20YM) | [Nimio](https://open.spotify.com/album/4nZopQiqBny5EWs3sZMZYm) | 3:38 |
-| 50 | [Sabado en Alemán](https://open.spotify.com/track/1Ly47nLecje8VHxml8eB9X) | [Teniente](https://open.spotify.com/artist/2gi6IsKTijDybvh79yqx5a) | [Fuseimyaku](https://open.spotify.com/album/7KNyE8ipPRD7FStCbJbzRL) | 4:13 |
+| 49 | [Sabado en Alemán](https://open.spotify.com/track/1Ly47nLecje8VHxml8eB9X) | [Teniente](https://open.spotify.com/artist/2gi6IsKTijDybvh79yqx5a) | [Fuseimyaku](https://open.spotify.com/album/7KNyE8ipPRD7FStCbJbzRL) | 4:13 |
+| 50 | [24:00](https://open.spotify.com/track/6ZZMJsKZavEzmXSgHT0TIW) | [Diente de Oro](https://open.spotify.com/artist/6o7Yqv4imhW4Jz4Y1v20YM) | [Nimio](https://open.spotify.com/album/4nZopQiqBny5EWs3sZMZYm) | 3:38 |
 
 Snapshot ID: `AAAAAHsUGi+wP8PPbL+XG0PKoDUJg9pc`

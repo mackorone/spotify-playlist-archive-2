@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZBIhSC4FGF.md) - [plain]
 
 > Relax to some gentle percussion from all corners of the globe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,374 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,863 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZBIhSC4FGF.md) - [plain]
 | 99 | [Stress & Anxiety Recovery](https://open.spotify.com/track/1HygZkT4lkxOQHc6AD7JNs) | [Malte Marten](https://open.spotify.com/artist/6gmfGQKmOr9z7GTYK7ecEj) | [Stress & Anxiety Recovery](https://open.spotify.com/album/2vsa9IFU1PbEy3VOc7B6Mb) | 3:34 |
 | 100 | [Ionian](https://open.spotify.com/track/0It1fCg1NbOdCtSd1quACn) | [Elysian Heart](https://open.spotify.com/artist/1x3oP4wJPV3fUtTV6KQIvD) | [Ionian](https://open.spotify.com/album/7rXOkTKkNCldFNkEzItbw8) | 2:42 |
 
-Snapshot ID: `AAAAAEPY/BJpracw9i9XvC9t2AITMjwF`
+Snapshot ID: `AAAAAI1yvrGuKl/l9YOwiDj87tDv2zpz`

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda MS de Sergio Liz\u00e1rraga, Manuel Turizo \ud83d\udcf8",
-  "num_followers": 1302690,
+  "num_followers": 1302687,
   "original_name": "Banda 2026",
   "owner": {
     "name": "Spotify",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-06-19 06:00:40",
       "album": {
-        "name": "La Serenata",
-        "url": "https://open.spotify.com/album/7xwr2mg47GmgAORNpuKf3F"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 170468,
-      "name": "La Serenata",
-      "url": "https://open.spotify.com/track/1gHN981Zxj8coFh9d7oZV4"
-    },
-    {
-      "added_at": "2026-06-19 06:00:40",
-      "album": {
         "name": "Legado Coleccion 1 Regrabado",
         "url": "https://open.spotify.com/album/5ZWNnTDOu8trRdfKYvEy4O"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 230965,
       "name": "Mil Heridas",
       "url": "https://open.spotify.com/track/50e5wLsBnFoeBNUMbM03FW"
+    },
+    {
+      "added_at": "2026-06-19 06:00:40",
+      "album": {
+        "name": "La Serenata",
+        "url": "https://open.spotify.com/album/7xwr2mg47GmgAORNpuKf3F"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 170468,
+      "name": "La Serenata",
+      "url": "https://open.spotify.com/track/1gHN981Zxj8coFh9d7oZV4"
     },
     {
       "added_at": "2026-06-19 06:00:40",
@@ -947,6 +947,22 @@
     {
       "added_at": "2026-06-19 06:00:40",
       "album": {
+        "name": "No Tiene Precio",
+        "url": "https://open.spotify.com/album/5YvHY9xcYR1kjEm2Fpxu0B"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 183640,
+      "name": "Si Se Trata De Ti",
+      "url": "https://open.spotify.com/track/7Mdf5g453UuOPEwjlwc2X6"
+    },
+    {
+      "added_at": "2026-06-19 06:00:40",
+      "album": {
         "name": "Un D\u00eda Como Hoy",
         "url": "https://open.spotify.com/album/3TEMz9o6CRKPpaBbRLQorv"
       },
@@ -967,18 +983,18 @@
     {
       "added_at": "2026-06-19 06:00:40",
       "album": {
-        "name": "No Tiene Precio",
-        "url": "https://open.spotify.com/album/5YvHY9xcYR1kjEm2Fpxu0B"
+        "name": "Sonri\u00e9ndole A La Vida (En Vivo)",
+        "url": "https://open.spotify.com/album/6uTfMJlT4CO62cQrrGKWhn"
       },
       "artists": [
         {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
         }
       ],
-      "duration_ms": 183640,
-      "name": "Si Se Trata De Ti",
-      "url": "https://open.spotify.com/track/7Mdf5g453UuOPEwjlwc2X6"
+      "duration_ms": 209000,
+      "name": "Sonri\u00e9ndole A La Vida - En Vivo",
+      "url": "https://open.spotify.com/track/0rVWmNE47AvPDTqtfHXbIA"
     },
     {
       "added_at": "2026-06-19 06:00:40",
@@ -999,22 +1015,6 @@
       "duration_ms": 235091,
       "name": "Ya Se Muri\u00f3",
       "url": "https://open.spotify.com/track/6VEg4MhQufQOIVJVbiMGVm"
-    },
-    {
-      "added_at": "2026-06-19 06:00:40",
-      "album": {
-        "name": "Sonri\u00e9ndole A La Vida (En Vivo)",
-        "url": "https://open.spotify.com/album/6uTfMJlT4CO62cQrrGKWhn"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Sonri\u00e9ndole A La Vida - En Vivo",
-      "url": "https://open.spotify.com/track/0rVWmNE47AvPDTqtfHXbIA"
     },
     {
       "added_at": "2026-06-19 06:00:40",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-06-19 06:00:40",
       "album": {
-        "name": "En Vivo Desde La Oficina",
-        "url": "https://open.spotify.com/album/2WjjoqOuPMIbmZcJkqrrMc"
-      },
-      "artists": [
-        {
-          "name": "Beto Vega",
-          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
-        }
-      ],
-      "duration_ms": 144370,
-      "name": "Copa de Vino",
-      "url": "https://open.spotify.com/track/0LflEWaUaypzR08kLtgrd0"
-    },
-    {
-      "added_at": "2026-06-19 06:00:40",
-      "album": {
         "name": "Vete",
         "url": "https://open.spotify.com/album/0FcQ8qNCjTOba9EVl2mANA"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 213250,
       "name": "Vete",
       "url": "https://open.spotify.com/track/7mt1OIVVExwWPg3SBBmef4"
+    },
+    {
+      "added_at": "2026-06-19 06:00:40",
+      "album": {
+        "name": "En Vivo Desde La Oficina",
+        "url": "https://open.spotify.com/album/2WjjoqOuPMIbmZcJkqrrMc"
+      },
+      "artists": [
+        {
+          "name": "Beto Vega",
+          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
+        }
+      ],
+      "duration_ms": 144370,
+      "name": "Copa de Vino",
+      "url": "https://open.spotify.com/track/0LflEWaUaypzR08kLtgrd0"
     },
     {
       "added_at": "2026-06-19 06:00:40",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-06-19 06:00:40",
       "album": {
-        "name": "No Tiene Precio",
-        "url": "https://open.spotify.com/album/5YvHY9xcYR1kjEm2Fpxu0B"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 146524,
-      "name": "Por Aqu\u00ed Pas\u00f3 Mar\u00eda",
-      "url": "https://open.spotify.com/track/5pYeQU77YuKzscy8YJvFx7"
-    },
-    {
-      "added_at": "2026-06-19 06:00:40",
-      "album": {
         "name": "Cari\u00f1ito (Live)",
         "url": "https://open.spotify.com/album/46b7zuMfKU4LyLxfGK7pxw"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 230933,
       "name": "Cari\u00f1ito - Live",
       "url": "https://open.spotify.com/track/0zKCcroG4DN8Qq1R082En7"
+    },
+    {
+      "added_at": "2026-06-19 06:00:40",
+      "album": {
+        "name": "No Tiene Precio",
+        "url": "https://open.spotify.com/album/5YvHY9xcYR1kjEm2Fpxu0B"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 146524,
+      "name": "Por Aqu\u00ed Pas\u00f3 Mar\u00eda",
+      "url": "https://open.spotify.com/track/5pYeQU77YuKzscy8YJvFx7"
     },
     {
       "added_at": "2026-06-19 06:00:40",

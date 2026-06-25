@@ -1,12 +1,12 @@
 {
   "description": "This is Judas Priest. The essential tracks, all in one playlist.",
-  "num_followers": 184552,
+  "num_followers": 184569,
   "original_name": "This Is Judas Priest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajh7AAAAAACKcDd9OwBHUeNwacqlCO6t",
+  "snapshot_id": "ajnMgAAAAACs9V22kOn0NHQW8BCN55KG",
   "tracks": [
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Angel Of Retribution",
-        "url": "https://open.spotify.com/album/12rTdEhRhwPpV0XJvZW9u1"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 253093,
-      "name": "Judas Rising",
-      "url": "https://open.spotify.com/track/23aT0N006BZf43hZYTKoaz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Firepower",
         "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 263973,
       "name": "Never The Heroes",
       "url": "https://open.spotify.com/track/2dyoAUok3JghK7dQQeQ2lU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Angel Of Retribution",
+        "url": "https://open.spotify.com/album/12rTdEhRhwPpV0XJvZW9u1"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 253093,
+      "name": "Judas Rising",
+      "url": "https://open.spotify.com/track/23aT0N006BZf43hZYTKoaz"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nostradamus",
-        "url": "https://open.spotify.com/album/2k2m2GaoRsa0aDxo6Z2lEQ"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 268333,
-      "name": "Lost Love",
-      "url": "https://open.spotify.com/track/5TrISe7VQxaewmfwX8QPgt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Firepower",
         "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 323266,
       "name": "Rising From Ruins",
       "url": "https://open.spotify.com/track/1f2qbSrsGznurodPtpfjV2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nostradamus",
+        "url": "https://open.spotify.com/album/2k2m2GaoRsa0aDxo6Z2lEQ"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 268333,
+      "name": "Lost Love",
+      "url": "https://open.spotify.com/track/5TrISe7VQxaewmfwX8QPgt"
     },
     {
       "added_at": null,

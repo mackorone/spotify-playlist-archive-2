@@ -1,13 +1,45 @@
 {
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: New Jazz Underground. Artwork: Joy Yamusangie.",
-  "num_followers": 243173,
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: Happy Imaeda. Artwork: Joy Yamusangie.",
+  "num_followers": 243193,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADR/NJHv7pu/R9SS2U0Sv7TyloeA",
+  "snapshot_id": "AAAAAOy0hCCSKpxdinN+YLzhAw7DZF+W",
   "tracks": [
+    {
+      "added_at": "2026-06-24 15:21:33",
+      "album": {
+        "name": "Tiramisu Tempest",
+        "url": "https://open.spotify.com/album/63z6ptPzMvd16DOMMlkZrW"
+      },
+      "artists": [
+        {
+          "name": "Happy Imaeda",
+          "url": "https://open.spotify.com/artist/5SBf5sAXKy4kNlVP3iTULs"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Tiramisu Tempest",
+      "url": "https://open.spotify.com/track/7nKzYkxrrwoXN0s8xn4DQS"
+    },
+    {
+      "added_at": "2026-06-24 15:21:33",
+      "album": {
+        "name": "Eternal Spring",
+        "url": "https://open.spotify.com/album/1lq6DmTvcF4jsrSmW7ckTY"
+      },
+      "artists": [
+        {
+          "name": "Jack Wyllie",
+          "url": "https://open.spotify.com/artist/0e97XEaqVcQRfIeTLBPDkl"
+        }
+      ],
+      "duration_ms": 321536,
+      "name": "Eternal Spring",
+      "url": "https://open.spotify.com/track/0Jd8WLhhbWgDWAPnZuqwCH"
+    },
     {
       "added_at": "2026-06-17 14:30:17",
       "album": {
@@ -485,22 +517,6 @@
       "url": "https://open.spotify.com/track/1twVNq0Ndt6yb2BHQW7Y45"
     },
     {
-      "added_at": "2025-07-09 04:00:06",
-      "album": {
-        "name": "Resonance",
-        "url": "https://open.spotify.com/album/5JOKGI1Pwi5Elseu6PBI6y"
-      },
-      "artists": [
-        {
-          "name": "SYNC.EXE",
-          "url": "https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx"
-        }
-      ],
-      "duration_ms": 238794,
-      "name": "Resonance",
-      "url": "https://open.spotify.com/track/5DKML664ZyiuKI2RmPweIY"
-    },
-    {
       "added_at": "2026-02-18 17:47:31",
       "album": {
         "name": "Tea For Two",
@@ -591,26 +607,6 @@
       "duration_ms": 237383,
       "name": "NOTHING PERSONAL",
       "url": "https://open.spotify.com/track/3WMQUy8epd786TQbAjUE0k"
-    },
-    {
-      "added_at": "2025-07-09 04:00:06",
-      "album": {
-        "name": "Singularity",
-        "url": "https://open.spotify.com/album/6SVmvtKJyT4BTZsgfO6IeS"
-      },
-      "artists": [
-        {
-          "name": "\u5c0f\u5ba4\u97ff",
-          "url": "https://open.spotify.com/artist/2knziYJNT3pAgE21mHc4a0"
-        },
-        {
-          "name": "\u4e95\u4e0a\u9298",
-          "url": "https://open.spotify.com/artist/1cw4DRIdgFVPpNEdx0xORg"
-        }
-      ],
-      "duration_ms": 690973,
-      "name": "Volkslied - feat.\u4e95\u4e0a\u9298",
-      "url": "https://open.spotify.com/track/0V9Wmky0m7eiYhG96lYBiV"
     },
     {
       "added_at": "2026-01-14 05:00:01",

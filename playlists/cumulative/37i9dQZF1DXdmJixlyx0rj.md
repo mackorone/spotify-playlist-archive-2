@@ -4,7 +4,7 @@
 
 > New & best K\-Electronic music is here\. \(Cover: IÖN\)
 
-319 songs - 17 hr 52 min
+320 songs - 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Good Night Good Morning \(GNGM\) \- minlee Remix](https://open.spotify.com/track/5lC6Y8j5AZw9eZOIH832dS) | [minlee](https://open.spotify.com/artist/72Gqg5WgtKqaOXWYNEYsJ4), [Ellui](https://open.spotify.com/artist/4ZKxiNM9m75TMnTqcRnIP7), [Hardy](https://open.spotify.com/artist/213y7dSJCI5M9S4cOA6vju) | [Good Night Good Morning \(GNGM\) \[minlee Remix\]](https://open.spotify.com/album/6Gms2D8W5M7060RkTQchjO) | 2:05 | 2024-09-17 | 2026-06-24 |
 | [Gravity \- Garage Remix](https://open.spotify.com/track/6xuTvKxGKjvjrhbFjPvNcf) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Love Tune: Rewired](https://open.spotify.com/album/5ZY7p28JBut9fdAOo8ge9B) | 3:35 | 2025-02-11 | 2026-02-12 |
 | [GROUSE](https://open.spotify.com/track/2oKZdWw77Di9ZCLI82zkdv) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [GRB02](https://open.spotify.com/album/7jbVRExKqUqRUtAXFAJeHG) | 3:18 | 2024-09-10 | 2024-11-09 |
+| [HAPPYEND \(Closing\) \- “Arexibo” Remix](https://open.spotify.com/track/1Tc4G0ul4vhAe3pzIYe1wj) | [Lia Ouyang Rusli](https://open.spotify.com/artist/3yI0A9p0FOE8UFHuz4CUto), [Arexibo](https://open.spotify.com/artist/0mMVB6TJ94c6hvihOcAV13) | [Reminded of HAPPYEND](https://open.spotify.com/album/1wkWf7aTxTn0JS7R8Mqmg7) | 5:59 | 2026-06-24 |  |
 | [Heart Of Steel](https://open.spotify.com/track/75dE6BHbk7fOra3OEvChg3) | [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [Bright Lights](https://open.spotify.com/artist/2AoeqcUs8DySgZRJ9yV4Ou) | [Heart Of Steel](https://open.spotify.com/album/2MvflJ13HmbZoSOOhOcSGS) | 3:27 | 2024-06-28 | 2025-09-13 |
 | [HERO](https://open.spotify.com/track/5bxJv7l1QE9Qv9rpYvbSlO) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [DJ Mii](https://open.spotify.com/artist/5RqV5Ga5EPI4NlgsiELB4m) | [HERO GIRLS](https://open.spotify.com/album/0mBQNCgnsfa2hMM3NtgJxL) | 3:57 | 2026-01-23 | 2026-02-24 |
 | [High](https://open.spotify.com/track/0UoC8cBPLaYBa87OtZQ0zr) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [High](https://open.spotify.com/album/1Lij4H3ykjlMZwVRutCx36) | 3:25 | 2024-09-17 |  |
@@ -165,7 +166,7 @@
 | [KETCHUP \(with DAUL\)](https://open.spotify.com/track/7vRbgGeSOrVw4BLHJWsiuH) | [Coco K](https://open.spotify.com/artist/1WFVD9B1qvU1UPYcTSahqs), [DAUL](https://open.spotify.com/artist/3ai1NgxNCUgcRr0BPbBOAc) | [KETCHUP \(with DAUL\)](https://open.spotify.com/album/3eB1Tdfgc4NTy5biUJXHRT) | 2:44 | 2026-02-11 | 2026-04-02 |
 | [Kick It \- Hitchhiker Remix](https://open.spotify.com/track/1byqSrJw0DWBX6QVB7zyGo) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH), [Hitchhiker](https://open.spotify.com/artist/5ePDPFrSdmaieYrKrPDJPx) | [iScreaM Vol.1 : Kick It Remixes](https://open.spotify.com/album/19kdYfU8fFSKwXd5EZwNr5) | 3:10 | 2024-04-05 | 2024-08-24 |
 | [Kick It \- Valentino Khan Remix](https://open.spotify.com/track/7sJICRUS1spg6HO7v59vZo) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [iScreaM Vol.1 : Kick It Remixes](https://open.spotify.com/album/19kdYfU8fFSKwXd5EZwNr5) | 3:09 | 2024-04-05 | 2024-06-29 |
-| [Kind of Love \(feat\. Ina Bravo\)](https://open.spotify.com/track/7B7RcNZ804nKRXLir2yS7r) | [SakaZan](https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM), [Ina Bravo](https://open.spotify.com/artist/2ToVGBAU5JEE6mTdgTmGpx) | [Kind of Love \(feat\. Ina Bravo\)](https://open.spotify.com/album/4OcyPubs6iPrCqw2LJCAUd) | 3:20 | 2024-06-28 |  |
+| [Kind of Love \(feat\. Ina Bravo\)](https://open.spotify.com/track/7B7RcNZ804nKRXLir2yS7r) | [SakaZan](https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM), [Ina Bravo](https://open.spotify.com/artist/2ToVGBAU5JEE6mTdgTmGpx) | [Kind of Love \(feat\. Ina Bravo\)](https://open.spotify.com/album/4OcyPubs6iPrCqw2LJCAUd) | 3:20 | 2024-06-28 | 2026-06-25 |
 | [KPOP B!TCH](https://open.spotify.com/track/2v8n9luYuBJcvrhylo1G1f) | [The Deep](https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp) | [KPOP B!TCH](https://open.spotify.com/album/7EOFfxjYvlOmhJT0U3Uwxk) | 2:52 | 2025-11-20 | 2026-06-04 |
 | [LAMBO](https://open.spotify.com/track/4qKHo9Jsq9XqqDuWmu0xVx) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [GRB02](https://open.spotify.com/album/7jbVRExKqUqRUtAXFAJeHG) | 3:23 | 2024-09-10 | 2024-10-22 |
 | [Late Night Feels \(Öwnboss Remix\)](https://open.spotify.com/track/0xjVvYD6h76UlNkGl3L7Q4) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj) | [Late Night Feels \(Öwnboss Remix\)](https://open.spotify.com/album/5OOvHH51kDIkwrJv4YUEIQ) | 3:10 | 2024-06-28 |  |

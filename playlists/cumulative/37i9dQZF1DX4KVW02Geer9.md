@@ -2,9 +2,9 @@
 
 ### [X\-Over ジャズ!](https://open.spotify.com/playlist/37i9dQZF1DX4KVW02Geer9)
 
-> クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: N.S\. DANCEMBLE
+> クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: リアナ・フローレス
 
-573 songs - 1 day 17 hr 1 min
+575 songs - 1 day 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -427,7 +427,9 @@
 | [Slum](https://open.spotify.com/track/2LDWRy1zw9nVl82Wh6d25J) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [Studio Natives, Vol\. 1](https://open.spotify.com/album/1LvGluM8v8Z3hKBHmm8kf0) | 6:04 | 2025-01-16 | 2025-03-22 |
 | [Smell The Daisies](https://open.spotify.com/track/2sTq0X4MDSkxCJlWRxZoY6) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Smell The Daisies](https://open.spotify.com/album/6fPAIReQn5pSujZslHEwGk) | 4:10 | 2025-03-06 | 2025-06-20 |
 | [Små lätta moln](https://open.spotify.com/track/5AEYLNvBPEkkQ3ThAcRAtU) | [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF) | [Små lätta moln](https://open.spotify.com/album/3fJ79aCddeyyHmrR38CNk0) | 8:13 | 2025-05-08 | 2025-07-04 |
+| [SNEAKPEAK feat\. Shing02](https://open.spotify.com/track/38T3zfs1KtdNCbRPCRjC9H) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw), [Shing02](https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9) | [SNEAKPEAK feat\. Shing02](https://open.spotify.com/album/4T8yFAKBzi7HfUCpaph1sC) | 3:39 | 2026-06-24 |  |
 | [Snowy Road](https://open.spotify.com/track/5NLkF1qzYNdabDOw83eha4) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Snowy Road](https://open.spotify.com/album/32jiuNbErLfzOYpvH0GkH8) | 4:52 | 2024-06-27 | 2024-09-13 |
+| [So it goes](https://open.spotify.com/track/5qfWxLZF5bxsQcen6PIg8U) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [So it goes](https://open.spotify.com/album/3DezGjyrh1Hwa6mdiqSPNb) | 2:36 | 2026-06-24 |  |
 | [Sometimes I Miss](https://open.spotify.com/track/2RvckqFywUf9qkt68AoY00) | [Sachal Vasandani](https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr), [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [Sometimes I Miss](https://open.spotify.com/album/5c7BqU4kkY8LtSlRnji1Ye) | 3:51 | 2025-01-30 | 2025-03-28 |
 | [Sonder](https://open.spotify.com/track/5mmwd1hld9h0fEhMnY08jl) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Nicole McCabe](https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl), [Ka'Cye Thompkins](https://open.spotify.com/artist/0Iw3kQWOb7EvjXwEpyH40I), [Jermaine Paul](https://open.spotify.com/artist/302jOsgU7aZW71XhLem57k) | [Sonder](https://open.spotify.com/album/2YtlLhImGkpxBntI3HtsOZ) | 3:25 | 2024-11-28 | 2025-01-25 |
 | [Sorrow \- feat\. Liam Bailey](https://open.spotify.com/track/0fi1XZO45Zn60uMkiqV025) | [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5), [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Sorrow \(feat\. Liam Bailey\)](https://open.spotify.com/album/5A8H1eVSWckghg7Szj9oGp) | 4:42 | 2024-11-14 | 2024-12-06 |

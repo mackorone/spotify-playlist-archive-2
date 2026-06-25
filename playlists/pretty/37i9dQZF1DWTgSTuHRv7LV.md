@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 
 > Lo mejor del Hip\-Hop y Rap en español\. Cover: Victor Mendivil, Eladio Carrion
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,732 likes - 200 songs - 10 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,738 likes - 200 songs - 10 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 | 7 | [Viche Curao](https://open.spotify.com/track/7tQF5RI8mgk9mcMSkX39Ca) | [Pablo Fortaleza](https://open.spotify.com/artist/7jgM23vUu9pm4Fn5tw4yR1), [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Viche Curao](https://open.spotify.com/album/706lhiuZzLEj3oKvuoNqom) | 3:07 |
 | 8 | [SUPERELEGANTE](https://open.spotify.com/track/2tju7etDjRvp6fr2UePRo7) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [SUPERELEGANTE](https://open.spotify.com/album/1PBjsqySIB84Kmx4oI6exJ) | 2:22 |
 | 9 | [Los Más Odiados](https://open.spotify.com/track/2SaGuh1LZ7qIxZE8h7SXwx) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q), [Porta](https://open.spotify.com/artist/3p7Bs02UWDt5ENoJeUGqaB) | [Salto de Fe](https://open.spotify.com/album/46onTMzi9FlGypnp4NgzqI) | 3:33 |
-| 10 | [Mil Caras](https://open.spotify.com/track/0mK3maRXWZqhKGuV3ISIZK) | [Tino El Pingüino](https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF) | [Mil Caras](https://open.spotify.com/album/3afEtTNGgJ9KySBc228VbA) | 3:16 |
+| 10 | [Mil Caras](https://open.spotify.com/track/0mK3maRXWZqhKGuV3ISIZK) | [Tino El Pingüino](https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF) | [Mil Caras](https://open.spotify.com/album/3afEtTNGgJ9KySBc228VbA) | 3:15 |
 | 11 | [Champion](https://open.spotify.com/track/09qLLbQ0iDoQmBU8BXhiw6) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Los Compas](https://open.spotify.com/artist/0p7iJs5QwLKfKmA2f7XRIg) | [Champion](https://open.spotify.com/album/3eTeA1UVzik2N8uyGOs2ei) | 2:30 |
 | 12 | [180](https://open.spotify.com/track/3MG268XDZ7frEPQxrzuRpb) | [Efecto SR](https://open.spotify.com/artist/2do4Z40QtYI2DXXc7xIlSs), [Ángel Galván](https://open.spotify.com/artist/6IuOEyhdhzyjHeHmnpofW7), [''El Obama'' Carlos Anderson](https://open.spotify.com/artist/3u2W429W7BHf3rjbdHUir1) | [Bakarath](https://open.spotify.com/album/4ZspvcnVLT57WrcNfcc4Ww) | 3:10 |
 | 13 | [Orula](https://open.spotify.com/track/0ejwu6GH5TeXx82YvO6XSN) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Orula](https://open.spotify.com/album/4KMJ1C8ZPOb1yOPx18QEoO) | 3:05 |

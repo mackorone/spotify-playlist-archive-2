@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Jubin Nautiyal, Elnaaz Norouzi, Amit Trivedi and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,384 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,534 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 6 | [Janam Mera](https://open.spotify.com/track/0jXCiJGruGGCpwroWg76Ry) | [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [Armaan Lahoria](https://open.spotify.com/artist/4KLQtsULex87FN5sg05g8C), [Snipr](https://open.spotify.com/artist/5FBBHL5ycaBTQZNUjQnOtu) | [Janam Mera](https://open.spotify.com/album/1bBm5v5zNqlTGa1fNlGu2H) | 3:23 |
 | 7 | [Yaar Khafaa \(Irshad \- Mehfilz with Papon\) \(From The Living Room\)](https://open.spotify.com/track/2EZCj4uuLzdhSYmQ9BaBa9) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Yaar Khafaa \(Irshad \- Mehfilz with Papon\) \(From The Living Room\)](https://open.spotify.com/album/26ejQYhPYbx9sMN1O79Isr) | 4:26 |
 | 8 | [Qaraar](https://open.spotify.com/track/3S31XTwTQFEG7R5DbDCMbc) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo), [Dipti Misra](https://open.spotify.com/artist/01uFaIgB0EWy8RIpi0LDQ8) | [Qaraar](https://open.spotify.com/album/5ZgxkBhPJ25z0ty5hUVnYX) | 6:50 |
-| 9 | [Tikhe Nain](https://open.spotify.com/track/1f1qkNpKGGBiVfsdPmOnZO) | [Aroob Khan](https://open.spotify.com/artist/47GH9lsbudQDWNTgIHTr9a), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM), [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [Tikhe Nain](https://open.spotify.com/album/6PvVTxzGkNRvcfoOFQgnrI) | 2:26 |
+| 9 | [Tikhe Nain](https://open.spotify.com/track/1f1qkNpKGGBiVfsdPmOnZO) | [Aroob Khan](https://open.spotify.com/artist/47GH9lsbudQDWNTgIHTr9a), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM), [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [Tikhe Nain](https://open.spotify.com/album/6PvVTxzGkNRvcfoOFQgnrI) | 2:27 |
 | 10 | [Jindua](https://open.spotify.com/track/1FFBC2W0yWt5vusq7h3qcq) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Neeshitaa Kumar](https://open.spotify.com/artist/7nPSQjeftA9KU8Z6BWniQc), [Rabica Wadhawan](https://open.spotify.com/artist/7JvI3rxourVbaMmZT382fk) | [Jindua](https://open.spotify.com/album/5ILJCF5XPuEvugvewaCywK) | 2:56 |
 | 11 | [Jaana O Jaana](https://open.spotify.com/track/3ujeM3TJKBPHQRfQqk39Wn) | [Raj Shekhar](https://open.spotify.com/artist/39pGCZPIhRP3RwHhRfN7VJ), [Shabbir Ahmed](https://open.spotify.com/artist/6KZ6c43Dnjm6STHZ6avQU1) | [Jaana O Jaana](https://open.spotify.com/album/25cuG2cB9MGA3Nozm7u6ca) | 3:46 |
 | 12 | [Banno Re](https://open.spotify.com/track/6V9Kxgh0rW4P4l0olccGNF) | [Dev Negi](https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK), [Liaquat Gola](https://open.spotify.com/artist/2g7bWngU1HABm50nSGDiAR), [Ashique Elahi](https://open.spotify.com/artist/4oGbD4krLHtkyd75RRWdCv) | [Banno Re](https://open.spotify.com/album/1px4Tlt43ts2n67uRwsFbH) | 3:48 |

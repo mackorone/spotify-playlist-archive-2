@@ -1,12 +1,12 @@
 {
   "description": "100 % chill, 100 % Montr\u00e9al avec Beaux L\u00e9on",
-  "num_followers": 142306,
+  "num_followers": 142398,
   "original_name": "Montr\u00e9al Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAInxhgr9FK9J1lVfWFFFLAeP1oU3",
+  "snapshot_id": "AAAAAHp4ur3j0ZzqB33GgIRrrxfeF4Sh",
   "tracks": [
     {
       "added_at": "2026-06-19 04:02:52",
@@ -27,18 +27,18 @@
     {
       "added_at": "2026-06-19 04:02:52",
       "album": {
-        "name": "Fais comme si",
-        "url": "https://open.spotify.com/album/0i6j55j1PGM7P7uTVSnSCP"
+        "name": "Cimeti\u00e8re",
+        "url": "https://open.spotify.com/album/0Rdbgv3BNJjNV4iE101yhc"
       },
       "artists": [
         {
-          "name": "Beaux L\u00e9on",
-          "url": "https://open.spotify.com/artist/18L8wzQmX9vmU7wxW2Bpde"
+          "name": "Grand Eug\u00e8ne",
+          "url": "https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT"
         }
       ],
-      "duration_ms": 180361,
-      "name": "Fais comme si",
-      "url": "https://open.spotify.com/track/3raXlp55TvRY4oZGcGfJwY"
+      "duration_ms": 213064,
+      "name": "Cimeti\u00e8re",
+      "url": "https://open.spotify.com/track/5GI7dE5w4CfxctSk3ZzA67"
     },
     {
       "added_at": "2026-06-19 04:02:52",
@@ -127,22 +127,6 @@
     {
       "added_at": "2026-06-19 04:02:52",
       "album": {
-        "name": "Cimeti\u00e8re",
-        "url": "https://open.spotify.com/album/0Rdbgv3BNJjNV4iE101yhc"
-      },
-      "artists": [
-        {
-          "name": "Grand Eug\u00e8ne",
-          "url": "https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT"
-        }
-      ],
-      "duration_ms": 213064,
-      "name": "Cimeti\u00e8re",
-      "url": "https://open.spotify.com/track/5GI7dE5w4CfxctSk3ZzA67"
-    },
-    {
-      "added_at": "2026-06-19 04:02:52",
-      "album": {
         "name": "Cloudless Sky Of None",
         "url": "https://open.spotify.com/album/32ZEv6QQSFtC5NRAve0kFU"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 206574,
       "name": "Cloudless Sky Of None",
       "url": "https://open.spotify.com/track/1TGT9DVmsPxmNpUpGyf90y"
+    },
+    {
+      "added_at": "2026-06-19 04:02:52",
+      "album": {
+        "name": "Fais comme si",
+        "url": "https://open.spotify.com/album/0i6j55j1PGM7P7uTVSnSCP"
+      },
+      "artists": [
+        {
+          "name": "Beaux L\u00e9on",
+          "url": "https://open.spotify.com/artist/18L8wzQmX9vmU7wxW2Bpde"
+        }
+      ],
+      "duration_ms": 180361,
+      "name": "Fais comme si",
+      "url": "https://open.spotify.com/track/3raXlp55TvRY4oZGcGfJwY"
     },
     {
       "added_at": "2026-06-19 04:02:52",

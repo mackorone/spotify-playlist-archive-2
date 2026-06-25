@@ -4,7 +4,7 @@
 
 > With Yeat, Cuo Zay, Autumn! and more
 
-253 songs - 10 hr 2 min
+255 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [All Night](https://open.spotify.com/track/0cd80Dn2KH2ek7rLOMOlLm) | [Mdot 59](https://open.spotify.com/artist/5XKwahmcQcv5FuJ42uQT0N) | [59 Reasons](https://open.spotify.com/album/1eW3EdkFpyZ5Wo9ugzi7Qq) | 2:15 | 2026-04-06 | 2026-04-19 |
 | [alone](https://open.spotify.com/track/0vkZ0YLOtFEaaRWlfFMgb8) | [Taewitdak](https://open.spotify.com/artist/11hMddoHgub1AGz7APSTjF) | [alone](https://open.spotify.com/album/4Bf0WhthMNDJnMwlUhnoTe) | 2:30 | 2025-11-29 |  |
 | [AR\-15](https://open.spotify.com/track/0y81SHgKhCA9pwuOPQPG9z) | [Bloodhound Lil Jeff](https://open.spotify.com/artist/7cLnKyXKfZJN3EAKlrCrhZ) | [Bloody Bruddas](https://open.spotify.com/album/5rFMgfUL0AqhSPjI0MFT0i) | 2:08 | 2025-11-29 |  |
-| [Asking For A Friend](https://open.spotify.com/track/3nl1BfsamjdP0zPMA8wqJW) | [JcameOutTheMil](https://open.spotify.com/artist/5CkgrPDzaiF0Frx9FF6yno), [YLW LilT](https://open.spotify.com/artist/3GyFWRe6W6m8pQYQIJiR4X) | [Asking For A Friend](https://open.spotify.com/album/2ybomG0wYthl89idUzq5El) | 2:40 | 2026-05-30 |  |
+| [Asking For A Friend](https://open.spotify.com/track/3nl1BfsamjdP0zPMA8wqJW) | [JcameOutTheMil](https://open.spotify.com/artist/5CkgrPDzaiF0Frx9FF6yno), [YLW LilT](https://open.spotify.com/artist/3GyFWRe6W6m8pQYQIJiR4X) | [Asking For A Friend](https://open.spotify.com/album/2ybomG0wYthl89idUzq5El) | 2:40 | 2026-05-30 | 2026-06-25 |
 | [BACKINTHECITY](https://open.spotify.com/track/0hraa6N5drtAw6yF9Bqnzz) | [Grizz](https://open.spotify.com/artist/6Za78cAKvPuuZvbdh2r443) | [BACKINTHECITY](https://open.spotify.com/album/6eXzIhcaFw8q9ISQ3yToM5) | 1:55 | 2026-05-10 | 2026-05-17 |
 | [Bad Boy \(with Young Thug\)](https://open.spotify.com/track/43CIWpJaJHRcI4mUSjqgc2) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Bad Boy \(with Young Thug\)](https://open.spotify.com/album/5hUFZjxtqYvxm9FGUhHCdE) | 2:37 | 2025-12-06 | 2026-06-16 |
 | [Baked Up \( Ur Mom \)](https://open.spotify.com/track/2rg1PxHBSmOwwNrCqkIECl) | [TishiSSJ](https://open.spotify.com/artist/7EXEUb9E89RG5kLnnkt0MU), [millyx](https://open.spotify.com/artist/2gvnYIMvU7AqUd95tBWRYK), [paulys x](https://open.spotify.com/artist/76D7EG1yjIBBKZy7qazatV) | [Baked Up \( Ur Mom \)](https://open.spotify.com/album/5wd1UAA1Xi3BuxUI4Uq3Bj) | 2:21 | 2026-02-10 | 2026-03-31 |
@@ -173,6 +173,7 @@
 | [PDL](https://open.spotify.com/track/3k2xRF5wGlAZnRsSPOOAXn) | [Pasto Flocco](https://open.spotify.com/artist/4dQKBmnccqxpFiAk5qmvy7) | [GLE Presents: BLUEBILLZ EP](https://open.spotify.com/album/2yLq95mpSfaL9959tkbyL8) | 2:07 | 2025-11-29 | 2025-12-01 |
 | [petrol](https://open.spotify.com/track/3JBtFRUOBOSTUTMNu9s3MM) | [1oneam](https://open.spotify.com/artist/089ASSwOW4Cih3frNuDtUv) | [Sin +](https://open.spotify.com/album/0SGShXyFMMIf64gSEI4Whz) | 1:52 | 2025-12-09 | 2026-01-23 |
 | [POETRY](https://open.spotify.com/track/7ynWM21CmrgpzyllPO4Rw3) | [Lord Simmy](https://open.spotify.com/artist/1x56BjunhKrTqDZSXvOgFt) | [POETRY](https://open.spotify.com/album/15vdbHHoAC9ouX5LzCr5Tz) | 2:12 | 2025-11-29 | 2026-02-15 |
+| [Pole Janky](https://open.spotify.com/track/3b01MpEZcTCBOLj0XTsryu) | [Wank Stiller](https://open.spotify.com/artist/46Zk36M5Lzblzcq24MeM31) | [Therapeutic](https://open.spotify.com/album/72kRgrX5AaI1Ix4oVztqRd) | 1:58 | 2026-06-25 |  |
 | [Porsches In The Rain](https://open.spotify.com/track/0WMgVB4OEm5JEj08lBtBgf) | [YBN Nahmir](https://open.spotify.com/artist/3gGUMEwIX6XodWsYEvKSal), [Almighty Jay](https://open.spotify.com/artist/2HWXxzgBIr0RMSZmvMZeJU) | [YBN: The Mixtape](https://open.spotify.com/album/6l4itLa2SkBAVBASZ2WKFv) | 3:00 | 2026-06-11 | 2026-06-15 |
 | [Price I Pay](https://open.spotify.com/track/6PKAfJPbZMOk2Zz9D8g0w4) | [C Choppa](https://open.spotify.com/artist/1MRuYaXPATMYujESraf5cN) | [Price I Pay](https://open.spotify.com/album/0FujItN4Qr3bhxwWTl0voS) | 2:41 | 2025-12-05 | 2026-06-19 |
 | [Pub Sub](https://open.spotify.com/track/0vtfVaApMNkfJr5yhEmnX4) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI) | [Scarecrow](https://open.spotify.com/album/6VrC29ahnGNino6ddscM8h) | 3:14 | 2025-11-29 |  |
@@ -184,6 +185,7 @@
 | [Purple Moncler](https://open.spotify.com/track/3PlxIlMXqw04F45yHM13mw) | [Trimskii](https://open.spotify.com/artist/5lt3g2Pk2jwy0nrZKsMdPF) | [Purple Moncler](https://open.spotify.com/album/5n67CRBoyBcsDGtMPu06I4) | 3:32 | 2026-03-13 | 2026-06-05 |
 | [racist](https://open.spotify.com/track/2E9IBpAAmVJ4TT0qEs5yln) | [Hapes](https://open.spotify.com/artist/67YTeu5GB7MfmwTooDX4qo) | [racist](https://open.spotify.com/album/5SIIIDo1KMhRJduTnuns9L) | 1:36 | 2026-05-01 | 2026-05-02 |
 | [Real Talk](https://open.spotify.com/track/50ClQ5PTkY2Sc3f0ynVxis) | [Cuo Zay](https://open.spotify.com/artist/6yFzNwvuceOObkopessurR) | [Real Talk](https://open.spotify.com/album/1WzQqIOpYtVQ0XzgkWMzoJ) | 2:26 | 2026-04-13 | 2026-06-14 |
+| [Really Them](https://open.spotify.com/track/7r4tBbtGC0LZ9iSS0KOP1v) | [Stormywhole](https://open.spotify.com/artist/7dLe31jkL1o2pprbbmqRL4) | [What Love Is](https://open.spotify.com/album/62CFIawuaEDGiwkhdAv8ne) | 2:01 | 2026-06-25 |  |
 | [Regular Show \- Vanta Version](https://open.spotify.com/track/1F3WRhECuzY78VXXT10CYh) | [Khenan](https://open.spotify.com/artist/1EjaHZ1glOgzroXJNhuGLE), [IGoByTobi](https://open.spotify.com/artist/7m7JiSs7G0WVtQj9zmPepf) | [VANTAGONIST](https://open.spotify.com/album/6NxLdlhJEyKo0aNZWn0Jr9) | 3:14 | 2026-05-17 | 2026-05-24 |
 | [Ride For Me](https://open.spotify.com/track/7rEwfqQMPIXlDWktGbDI3R) | [Rayy Dubb](https://open.spotify.com/artist/5JkD3p2fJbGwVagjQSfD7h) | [Industry](https://open.spotify.com/album/2D9cqvphij7wSJXIT8SqR4) | 1:58 | 2026-02-26 | 2026-03-21 |
 | [RIP Goonew](https://open.spotify.com/track/3ZnvoxSBGWYFGvjaSDRdPq) | [Slimesito](https://open.spotify.com/artist/1fqzcp3dzZD1YGQ2RT5pYs), [BeezyB](https://open.spotify.com/artist/0beKhPdlNQhonFGiOOJHqi) | [Slimebeezy 3](https://open.spotify.com/album/0g8gja4ZdfXMVK2fWSCbWc) | 2:20 | 2026-01-22 | 2026-03-18 |
@@ -239,7 +241,7 @@
 | [Tuck Blick](https://open.spotify.com/track/5KbBJjm7P3L7w2JI0hVxuB) | [ThirstyOwe3k](https://open.spotify.com/artist/1dtFF7RRzg7nFykaThgcLk), [DuseThaJoynt](https://open.spotify.com/artist/6iyl1ecyb5wUZd2Ovsfvus) | [Tuck Blick](https://open.spotify.com/album/3ISOMp3jA6STWoglv2jtF2) | 2:07 | 2026-04-14 | 2026-04-15 |
 | [U A JOKE](https://open.spotify.com/track/6WzU2cE9u9m4PSCYIBIwPd) | [nnickyp](https://open.spotify.com/artist/2Tny36sUxlxvzw0mtwiHr7) | [The Blueprint](https://open.spotify.com/album/2Lf4vt3hubKi2Cc5E7zVXI) | 1:32 | 2026-02-18 | 2026-02-21 |
 | [UP!](https://open.spotify.com/track/0wHDIhaF25Yddt2xyug75E) | [Trefuego](https://open.spotify.com/artist/4HQfNWcXe8k5dlMHx4QrTP) | [UP!](https://open.spotify.com/album/2LcFpUbAJL3yHNnuQJ6Sud) | 1:50 | 2025-11-29 |  |
-| [V8](https://open.spotify.com/track/25Dp8uX1Jn71Zy2x0x77qo) | [Mannystotle](https://open.spotify.com/artist/6r7MEdqqFQTkbCwqHA1BW6), [Blaxian](https://open.spotify.com/artist/5hY9vFP2SpMfb5ZXqMI3o4) | [V8](https://open.spotify.com/album/3Hu2Vp0UjU5wn0ptgoIdLW) | 2:40 | 2026-06-07 |  |
+| [V8](https://open.spotify.com/track/25Dp8uX1Jn71Zy2x0x77qo) | [Mannystotle](https://open.spotify.com/artist/6r7MEdqqFQTkbCwqHA1BW6), [Blaxian](https://open.spotify.com/artist/5hY9vFP2SpMfb5ZXqMI3o4) | [V8](https://open.spotify.com/album/3Hu2Vp0UjU5wn0ptgoIdLW) | 2:40 | 2026-06-07 | 2026-06-25 |
 | [vetements jeans](https://open.spotify.com/track/3BQZLM6vMQWWZwMcx3kWeu) | [Saltyngget](https://open.spotify.com/artist/46GgJ6qHCR08sCvbJ1UJzy), [Denizlpsevv](https://open.spotify.com/artist/4pgSIfKXAJIobPChLgCBC2), [lznvrse](https://open.spotify.com/artist/7sVaqWeaXYCptHiY4fflgD) | [vetements jeans](https://open.spotify.com/album/0fVUcJ8RZDBxRFQqNR9qJ9) | 2:30 | 2025-11-29 | 2025-12-11 |
 | [vibe](https://open.spotify.com/track/5xOizHnjd92FNm6ruDUYSD) | [ixlvice](https://open.spotify.com/artist/2MjjoL0FkaOOpEE5CJhS64) | [vibe](https://open.spotify.com/album/7AyL6Ya7hNVtcQ7ShOlXSp) | 3:37 | 2025-12-06 | 2025-12-13 |
 | [Vikings](https://open.spotify.com/track/3el1BydkPjW2hTJdhive6G) | [Jc32Baby](https://open.spotify.com/artist/0UIxpEFKo3useaZ9dUeStw) | [NBR \(No Bap Rap\)](https://open.spotify.com/album/1f3yjQUAU2qG6HWT67Ct79) | 2:25 | 2026-04-28 | 2026-05-04 |

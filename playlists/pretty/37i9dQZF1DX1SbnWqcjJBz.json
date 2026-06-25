@@ -1,6 +1,6 @@
 {
   "description": "this should have been her espresso\n\nSee also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 137237,
+  "num_followers": 137258,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "A Public Affair",
+        "url": "https://open.spotify.com/album/2YzYKCgsmHx3sG4Gkm34Me"
+      },
+      "artists": [
+        {
+          "name": "Jessica Simpson",
+          "url": "https://open.spotify.com/artist/2tFN9ubMXEhdAQvdQxcsma"
+        }
+      ],
+      "duration_ms": 201466,
+      "name": "A Public Affair",
+      "url": "https://open.spotify.com/track/1gFMesXcHHtIUhwzxYFOtz"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "One More Love",
         "url": "https://open.spotify.com/album/5bRrEsH3Mjl8O0lpUgdIHI"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 165600,
       "name": "Who's That Chick ? (feat. Rihanna) - Single Version",
       "url": "https://open.spotify.com/track/45PdLo6r1tME4Uhkg5h7ak"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "A Public Affair",
-        "url": "https://open.spotify.com/album/2YzYKCgsmHx3sG4Gkm34Me"
-      },
-      "artists": [
-        {
-          "name": "Jessica Simpson",
-          "url": "https://open.spotify.com/artist/2tFN9ubMXEhdAQvdQxcsma"
-        }
-      ],
-      "duration_ms": 201466,
-      "name": "A Public Affair",
-      "url": "https://open.spotify.com/track/1gFMesXcHHtIUhwzxYFOtz"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "EMOTION SIDE B",
+        "url": "https://open.spotify.com/album/31776n0a6xHYMHSlK4983u"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 236533,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/7wgxq27uOvfydLunYkcmAU"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "TREAT MYSELF",
         "url": "https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 212933,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/1fPp89nbZQiRar1f3a8lPe"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "EMOTION SIDE B",
-        "url": "https://open.spotify.com/album/31776n0a6xHYMHSlK4983u"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 236533,
-      "name": "Cry",
-      "url": "https://open.spotify.com/track/7wgxq27uOvfydLunYkcmAU"
     },
     {
       "added_at": "2024-06-02 21:23:10",

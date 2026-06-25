@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 489 likes - 68 songs - 4 hr 18 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 489 likes - 69 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,5 +76,6 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 66 | [Disaster](https://open.spotify.com/track/0ETH6Dqd86ZMB9LWtlg1X3) | [No Fucking Good](https://open.spotify.com/artist/7xu0zu8LsAeUDdOxWI9iHS) | [The EP](https://open.spotify.com/album/0hea467HMdKdOkqPGTyNk9) | 4:51 |
 | 67 | [No More](https://open.spotify.com/track/5AKRusRRZE5YoUkF0XwyGk) | [The Twinpims](https://open.spotify.com/artist/6UrRv5Q70wkn1urhQBqItL) | [No More](https://open.spotify.com/album/14v5mbH2aXizw2tslxpDfn) | 3:19 |
 | 68 | [Bad Medicine](https://open.spotify.com/track/5Cpj9SqRd6tON7qOQIYQhy) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [Bad Medicine](https://open.spotify.com/album/418PEdXOglBn0sDniDXMdf) | 2:16 |
+| 69 | [What Remains](https://open.spotify.com/track/4oMM9SF5TYscNNN8KHoslX) | [RABBiTHOLE](https://open.spotify.com/artist/5c9jIapeSPaUgi0M1iB6Mi) | [What Remains](https://open.spotify.com/album/6n6yJgKlDj3QKNvuGshOo7) | 3:49 |
 
-Snapshot ID: `AAAB8ulEMDb/iUOxbv3HBYrW0yG527Z1`
+Snapshot ID: `AAAB87UUjxQguL20CJOrk+HF0FKIytQM`

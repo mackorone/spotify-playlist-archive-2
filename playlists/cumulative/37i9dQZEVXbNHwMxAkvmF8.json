@@ -1654,7 +1654,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 192000,
       "name": "Afro Beat",
       "url": "https://open.spotify.com/track/6vXcUUwsnBlOcXXT22ZIGT"
@@ -2090,7 +2090,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 152000,
       "name": "Always be mine",
       "url": "https://open.spotify.com/track/3HeA087njNOUOBvTQ2f9jV"
@@ -3438,7 +3438,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-24",
+      "date_removed": null,
       "duration_ms": 124273,
       "name": "BAGIRA",
       "url": "https://open.spotify.com/track/18DVypBkvcJtVFzQr5Ly7J"
@@ -3500,7 +3500,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-24",
+      "date_removed": null,
       "duration_ms": 167687,
       "name": "BAKPAKK",
       "url": "https://open.spotify.com/track/6dd2fGbktU3zOHHWK58nto"
@@ -11846,7 +11846,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 183000,
       "name": "F\u00c9LT\u00c9GL\u00c1K",
       "url": "https://open.spotify.com/track/70VRbSPeELXFYOO1rk2IJm"
@@ -25049,6 +25049,24 @@
     },
     {
       "album": {
+        "name": "Pesti b\u00e1rdok",
+        "url": "https://open.spotify.com/album/45uG02RJkRCwM5yAcLoeG8"
+      },
+      "artists": [
+        {
+          "name": "Carson Coma",
+          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355325,
+      "name": "Pesti b\u00e1rdok",
+      "url": "https://open.spotify.com/track/6GbI4lomlbCVHGfufZrjOv"
+    },
+    {
+      "album": {
         "name": "comic sins",
         "url": "https://open.spotify.com/album/2mWqqTxTrcp6gzC8ybT5ii"
       },
@@ -31682,7 +31700,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 144203,
       "name": "S\u00d6T\u00c9T",
       "url": "https://open.spotify.com/track/68SnGU5Oa3SEV7y8w1L9bk"
@@ -35520,7 +35538,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 108746,
       "name": "Vinnipu",
       "url": "https://open.spotify.com/track/3yLlQXH3AucZNk0SEB80Kc"

@@ -4,7 +4,7 @@
 
 > Buscando um sono profundo? Essa playlist te ajuda a dormir melhor.
 
-1,118 songs - 2 day 5 hr 20 min
+1,122 songs - 2 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Alternate](https://open.spotify.com/track/2MhNUKofEWVAGA3CdiL6i7) | [Awake or Asleep](https://open.spotify.com/artist/3oBTUfwSCOhxSuhdXeN1c4) | [Alternate](https://open.spotify.com/album/0gItWf24uY8fPX9aGss4kT) | 3:15 | 2025-05-27 | 2026-03-12 |
 | [Altitude](https://open.spotify.com/track/4oMMgWfDl9k3FUIL6BltNs) | [Obviame](https://open.spotify.com/artist/5O2OGECehpgmmdVmWInftr) | [Altitude](https://open.spotify.com/album/2g8YMB3eMQVfkfmhxuQI6j) | 3:02 | 2024-08-30 | 2025-12-03 |
 | [Amado Nervo](https://open.spotify.com/track/2Pob0B0xBaszDLVBDWNh0U) | [Sayulita](https://open.spotify.com/artist/1TZG0boEXBMRfxjj1nH6TM) | [Amado Nervo](https://open.spotify.com/album/6a4WIqXe0jVegSsNx8vCDJ) | 3:09 | 2023-10-20 | 2024-02-09 |
+| [Ammeter](https://open.spotify.com/track/77E95JrA1vI1VoQ4XgV4hD) | [Night Resonant](https://open.spotify.com/artist/25tJutV7nhxsg59v0X4bax) | [Ammeter](https://open.spotify.com/album/5E38tWXSfLHRU675ow4zGr) | 2:52 | 2026-06-24 |  |
 | [Amoralis](https://open.spotify.com/track/6hVsOvinmJAGJJpXxpPhDy) | [Sheila's Disciples](https://open.spotify.com/artist/6fVRZUOhSnwc3dtmooHbkO) | [Always Wear A Crown](https://open.spotify.com/album/1lqjD9lHsGxFVgzoYP7Xxg) | 4:13 | 2023-10-20 | 2024-02-28 |
 | [Anachronic](https://open.spotify.com/track/28BhahBC2qOpui6ryXoCev) | [Jeila Sander](https://open.spotify.com/artist/1AhX9oQWyvwH5cYYSQbqUZ) | [Anachronic](https://open.spotify.com/album/4xvH0fR97sPN1K2NXajyLB) | 2:48 | 2023-10-20 | 2024-03-21 |
 | [Anagro](https://open.spotify.com/track/0vNRbK9UxLXJSminB42c45) | [amaron](https://open.spotify.com/artist/01aRA4ZySdCi0bmRhTyGhf) | [Anagro](https://open.spotify.com/album/7BE4x4mUcWvN7VTGIEjQYJ) | 2:51 | 2025-11-11 | 2026-05-10 |
@@ -81,6 +82,7 @@
 | [Ara](https://open.spotify.com/track/6SbFBs5pon9flXihCWlfO4) | [Placidous](https://open.spotify.com/artist/2Q0EISrSeMlAHRybVtpcF1) | [Ara](https://open.spotify.com/album/3ihuFLmR9nqUwShXXOsSWP) | 2:45 | 2024-01-17 | 2024-08-03 |
 | [Arkham Nights](https://open.spotify.com/track/7u5roXUTEuxzdPf5zQH3xH) | [Sanguinus](https://open.spotify.com/artist/0qf4Rq4omzrxX03ZttRH3P) | [Arkham Nights](https://open.spotify.com/album/7E30qOJyGId9Js3MK3pGDk) | 3:01 | 2024-05-04 | 2025-12-18 |
 | [Arrival of No\-thing](https://open.spotify.com/track/5S9eZUeM5jwr71FxpBARsA) | [Sleep Therapist](https://open.spotify.com/artist/68k3b1woWXT4Ka3OWAz7WU) | [Downtime](https://open.spotify.com/album/6ve1WvKRIFnNclsTob1Z5f) | 3:51 | 2023-10-20 | 2024-02-09 |
+| [As Darkness Settles](https://open.spotify.com/track/0zqeRrslVVNXgzagEFnagz) | [Claira Mikkelsen](https://open.spotify.com/artist/1UW4IN55vQzgYjkdR3ivVE) | [As Darkness Settles](https://open.spotify.com/album/1qN9cPUD1UGf356yrYacVE) | 2:26 | 2026-06-24 |  |
 | [As Day Fades Into Night](https://open.spotify.com/track/5nxgnk2YmJRZUr1k0QvEIK) | [The Nightgate](https://open.spotify.com/artist/5Q3USAuNC7NpbhO9JqN2uK) | [As Day Fades Into Night](https://open.spotify.com/album/2McYGVYPvWLpzWcJZIbupc) | 3:12 | 2024-01-17 | 2024-03-07 |
 | [As Seasons Turn](https://open.spotify.com/track/4YOo4NUYoNqT6eFPr5tBnW) | [Dorian Froste](https://open.spotify.com/artist/70eqTmilvlPutXBD4hp0Ss) | [As Seasons Turn](https://open.spotify.com/album/69td0JnREhF7Xy0FY8WWrz) | 3:00 | 2026-01-29 | 2026-06-13 |
 | [As Seen In Silver Halide](https://open.spotify.com/track/4lanwDkWGgvJMgrdfomThw) | [Silver Roses](https://open.spotify.com/artist/1D4JTnffy0RUs0yeRKNSUT) | [Jibba](https://open.spotify.com/album/2kB2T6v3qDTxkK1mSxJhsY) | 3:16 | 2023-10-20 | 2023-11-25 |
@@ -541,6 +543,7 @@
 | [Lighthouse](https://open.spotify.com/track/0LNiw2LKUcJG80ciSFQnLu) | [Oliver Ólafsson](https://open.spotify.com/artist/0xgumNwunVskpeLSl8FyjU) | [Lighthouse](https://open.spotify.com/album/0NiwXfCPPctznzw3f3rOkH) | 2:27 | 2024-11-05 | 2025-02-15 |
 | [Lightshed](https://open.spotify.com/track/1HPajcIIWuZQWnKekrRAhB) | [Emberlace](https://open.spotify.com/artist/7a7GAIop7VfMQgWiSphyQC) | [Lightshed](https://open.spotify.com/album/6oifg8VxfdtrGK7Ip6HY3B) | 2:36 | 2025-09-23 | 2026-03-12 |
 | [Lihnida](https://open.spotify.com/track/6lRUeAsKuo25bXplm2EPqi) | [Alsephina](https://open.spotify.com/artist/2EFJqbmRZS645xeescnjp6) | [Lihnida](https://open.spotify.com/album/1zWgumSEFMiooZwuCU7HnS) | 2:42 | 2025-03-27 | 2026-03-12 |
+| [Liminality](https://open.spotify.com/track/1mqDhA9qfVZtznFr3WHNCE) | [Silvender](https://open.spotify.com/artist/27X4biNzBbSANHTSO2stdZ) | [Liminality](https://open.spotify.com/album/5tofqgiQ1pqoK207e7sgnW) | 2:24 | 2026-06-24 |  |
 | [Limitless](https://open.spotify.com/track/5PPIGcWAaYcSJaITVgTmrC) | [luminique Revox](https://open.spotify.com/artist/1x102Y2kSACtCX5MsNyIGX) | [Limitless](https://open.spotify.com/album/37vaeK75NjbyVT4qYh3plN) | 2:44 | 2025-06-25 | 2026-03-21 |
 | [Linea Degli Alberi](https://open.spotify.com/track/7pSiVCrdIbpIvn8oNH3XPY) | [Giulia De Serio](https://open.spotify.com/artist/51lfmojViPJ0XrAghn70IC) | [Linea Degli Alberi](https://open.spotify.com/album/4fFXVfJEGlld0nASf5kGHr) | 3:56 | 2023-10-20 | 2024-02-09 |
 | [Linearity](https://open.spotify.com/track/0Ci8JFzz4gsoDRY7aUau5o) | [Hypertime](https://open.spotify.com/artist/2h8Lzun0E6Ei7JeGW6Hlcc) | [Linearity](https://open.spotify.com/album/0pgMpYSMvMZtoLDl9EWeHW) | 3:11 | 2023-10-20 | 2024-02-09 |
@@ -859,6 +862,7 @@
 | [Sidereal](https://open.spotify.com/track/6l2dsZpGNmYsWmr7HxqLiB) | [Greyling](https://open.spotify.com/artist/48urdq4J33JKnATnJNT1Xz) | [Sidereal](https://open.spotify.com/album/2Tz4In6IQJxvribOsDEnVN) | 2:12 | 2024-05-04 | 2024-08-31 |
 | [sierra star](https://open.spotify.com/track/2dGmw1z9W32GGeofbAdNY1) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [sierra star](https://open.spotify.com/album/1YZIh0zHuUjAAZChz65fW4) | 3:21 | 2023-10-20 | 2024-04-06 |
 | [Signs In The Sky](https://open.spotify.com/track/1ayIzU9MXiMUd1MWAJP2Y7) | [Riseran](https://open.spotify.com/artist/5Nxj0jnslmO6SYW2ikO1Ho) | [Signs In The Sky](https://open.spotify.com/album/2Cq2OiOUqiw9S3epxTKrFf) | 2:39 | 2024-08-02 | 2024-10-15 |
+| [Silence Between Suns](https://open.spotify.com/track/7BwJcnVh7MIOy9njjZzwq9) | [Kichiro Acone](https://open.spotify.com/artist/53SjHBIMAXANrkkv8OOwL5) | [Silence Between Suns](https://open.spotify.com/album/6YWR7I5MUWiJJBRTISSiZ0) | 2:42 | 2026-06-24 |  |
 | [Silencia](https://open.spotify.com/track/3PD9nIMhKtMPsF0NMs3b5P) | [Dronia](https://open.spotify.com/artist/5Z1hoAJ3HE5peZejeQP2as) | [Silencia](https://open.spotify.com/album/1YV4ZPNv69uBKR1SBnjPAP) | 3:05 | 2024-02-27 | 2024-03-07 |
 | [Silenqua](https://open.spotify.com/track/1VqIIzV1rlvuarEotVVE1C) | [Foreglow](https://open.spotify.com/artist/2fxdHlNjFfdYlMltby9IpJ) | [Silenqua](https://open.spotify.com/album/2BmTpeQ3CP1cgRDKRLewvj) | 2:32 | 2025-10-23 | 2026-03-21 |
 | [Silent Dreams](https://open.spotify.com/track/6d36syikVGb3zii0aINq15) | [Lo Cendrisse](https://open.spotify.com/artist/4owRJmjZDkUnN35Yxxsgtp) | [Silent Dreams](https://open.spotify.com/album/1by6DnIMMNX75JKbKglBgg) | 2:40 | 2025-06-17 | 2026-03-12 |

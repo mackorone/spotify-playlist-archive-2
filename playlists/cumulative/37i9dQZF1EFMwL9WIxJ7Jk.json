@@ -2289,6 +2289,24 @@
     },
     {
       "album": {
+        "name": "Toy With Me (Deluxe)",
+        "url": "https://open.spotify.com/album/18JIUrWc9SN596q2Km9KSJ"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147541,
+      "name": "Just Wanna Cry",
+      "url": "https://open.spotify.com/track/4sVjCdImoRX1JR9VnmVgE0"
+    },
+    {
+      "album": {
         "name": "Holidays Around the World",
         "url": "https://open.spotify.com/album/73NpyNEQHBYey6oZZrFD6X"
       },
@@ -2478,7 +2496,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 225053,
       "name": "Like I'm Gonna Lose You (feat. John Legend)",
       "url": "https://open.spotify.com/track/7MjKAV0mFiEID9WhDSSzaW"

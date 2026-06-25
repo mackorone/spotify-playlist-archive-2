@@ -2,9 +2,9 @@
 
 ### [Malayalam Indie](https://open.spotify.com/playlist/37i9dQZF1DX1UloYFdbD8M)
 
-> Super Cool Indie Tracks from Gods Own Country<br/>Cover: K.S.Harisankar, Salim Sulaiman
+> Super Cool Indie Tracks from Gods Own Country<br/>Cover: Gowry Lekshmi
 
-500 songs - 1 day 6 hr 54 min
+502 songs - 1 day 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [Mazhamegam](https://open.spotify.com/track/3fnO3TqRRKGMdC5uaZNuwp) | [P S Ajmal Shah](https://open.spotify.com/artist/6UfrHGnTCdPQQvvB8XHPtR) | [Mazhamegam](https://open.spotify.com/album/4iDdMRaPy6VXsDPporlfWd) | 1:29 | 2024-02-29 | 2024-09-11 |
 | [Mazhayayi](https://open.spotify.com/track/38b0PWjywZlQHCuBkhZ4f9) | [Jan Sam Bobby](https://open.spotify.com/artist/715dF2SfXy287VWRRzddFR), [San Jame Bobby](https://open.spotify.com/artist/55zuvLXQ0myK8Pg9pHSF49), [Dan Jude Bobby](https://open.spotify.com/artist/2spbsj0fPN52eQRr75ZBE4), [Bobby S Robert](https://open.spotify.com/artist/73C9ZWwwci9QULTcAbq9b1) | [Mazhayayi](https://open.spotify.com/album/5vIsu0BvsTAhC5Srn2DtZH) | 3:25 | 2025-08-01 | 2025-11-12 |
 | [Mazhaye](https://open.spotify.com/track/7DM08BBcMukrAnxkuzDUwo) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Mazhaye](https://open.spotify.com/album/3J3R9cnHC96bApTpmsSKgh) | 1:05 | 2022-11-02 | 2023-07-28 |
+| [Meenangadi](https://open.spotify.com/track/00yANyBR41gfG4r92pBu8I) | [DeXterDuke](https://open.spotify.com/artist/7pgCk3NAxxOTwBPm2dmZOa), [Akhil Jifroom](https://open.spotify.com/artist/75plEvjt52hf70SHFUfEQs), [Kid TwisTer](https://open.spotify.com/artist/4dqz9abbk7xY7hB6Re1bR7) | [Meenangadi](https://open.spotify.com/album/3bWRGmICUICqqcaArNq7kc) | 3:34 | 2026-06-24 |  |
 | [Meghamayi Nee](https://open.spotify.com/track/6LIQAlEOv84UtXR11jwjvI) | [Karthika Kumar](https://open.spotify.com/artist/1Ua6ZTTgIDu8LAN1j92kR3), [Ranjith Meleppatt](https://open.spotify.com/artist/3JZG5cjyM0iBJKCGRUxCND), [Haritha Haribabu](https://open.spotify.com/artist/7LeBWfsKPoNkHzn0zRwdT8) | [Meghamayi Nee](https://open.spotify.com/album/3VH1yKdp45jbqazKpK9kka) | 1:28 | 2025-02-13 | 2025-03-21 |
 | [Minnal](https://open.spotify.com/track/4H0OZy4tS8NozQbyXttkBl) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa), [copiedthecat](https://open.spotify.com/artist/1t3dzWfQqSMa3uIziPcWBO) | [Minnal](https://open.spotify.com/album/7fCcCldrSjMcWLKdHYaYaz) | 2:51 | 2026-03-13 |  |
 | [Mizhikal](https://open.spotify.com/track/343mJaVSEOGCPzQi2liO5c) | [Jan Sam Bobby](https://open.spotify.com/artist/715dF2SfXy287VWRRzddFR), [Sebesteena](https://open.spotify.com/artist/2vhFiDb28NHjV4m5ozmeNV) | [Mizhikal](https://open.spotify.com/album/7DGikq1T3tt1SZjoSfKRiY) | 3:14 | 2022-08-01 | 2023-07-29 |
@@ -392,6 +393,7 @@
 | [Poyidum Kaalame](https://open.spotify.com/track/2kj948pj6cnDVwrCPdeZ07) | [Derby Tomhills](https://open.spotify.com/artist/2cdukNqEfEWuFupQIfjen8), [Kavya S Chandra](https://open.spotify.com/artist/39ZeUmal47Ovg1oksPfyCj), [Javad Ali](https://open.spotify.com/artist/654obrgvs7v0Bj4QS8XxeM) | [Poyidum Kaalame](https://open.spotify.com/album/3lxQGNalGRGOWRmHNcgxFl) | 3:08 | 2025-07-11 | 2025-11-12 |
 | [Pranayam](https://open.spotify.com/track/4GgOKuJ1cXDPZa1vxPPqSY) | [Crishna](https://open.spotify.com/artist/2MH6exyP2K90nuxJ4bqZvi) | [Pranayam](https://open.spotify.com/album/2HKtcIQXADZBD3k3MZue0F) | 2:42 | 2024-10-14 | 2025-05-24 |
 | [Prapanjam](https://open.spotify.com/track/4IguOEcObo3QhGgmjYj45Z) | [Salman Koroth](https://open.spotify.com/artist/3NmWvHbLeja1KL716ZByRS), [Envu](https://open.spotify.com/artist/1NZ5Zm3aCfS8QcyxZa3R5K) | [Prapanjam](https://open.spotify.com/album/2AnDARKMlBWy3csPRnLa2x) | 4:15 | 2025-10-13 | 2025-11-04 |
+| [Pratheekshakal](https://open.spotify.com/track/23P2vTIEwxRZAbqLKkLLNW) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Pratheekshakal](https://open.spotify.com/album/6ousBdz2ouSwrWZGuuOGAQ) | 3:09 | 2026-06-24 |  |
 | [Pravasi](https://open.spotify.com/track/2T5FVgSvxUyEn1rH4Stfu2) | [Thakara](https://open.spotify.com/artist/528QfTIbfkN7BD1AM2I0SC) | [Mojo Sessions Live](https://open.spotify.com/album/6UtfSEfMlTw9h4DKa59Yjn) | 4:03 | 2022-12-22 | 2024-06-29 |
 | [Premaalamil](https://open.spotify.com/track/1VeJX1Mx3wXV46KYhWiXmt) | [Wraith V](https://open.spotify.com/artist/4BOMjhDXc0Aet35ZlLZNgZ), [Jawed Aslam](https://open.spotify.com/artist/7dxeL109zn2qpD5W2HX1sC) | [Premaalamil](https://open.spotify.com/album/07WgthIei5wM26SmISQvhu) | 3:50 | 2025-07-04 | 2025-12-21 |
 | [Puthumazha](https://open.spotify.com/track/5CfnIDYUEXRTe6eiYR4YQZ) | [Ewinikz](https://open.spotify.com/artist/5gfzutNloSkBDuLVikIUN8), [Godwin Fernandez](https://open.spotify.com/artist/5vTeO5rzVIjdqNv7RTmB43), [Suchith Surendran](https://open.spotify.com/artist/3Dmkg6TaEsyJ9n8grHJl5T) | [Puthumazha](https://open.spotify.com/album/7ys3lpm8qwYbepZ8bPr08v) | 1:10 | 2025-07-22 | 2025-09-04 |

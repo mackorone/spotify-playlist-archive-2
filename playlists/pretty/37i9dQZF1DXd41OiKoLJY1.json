@@ -1,13 +1,93 @@
 {
-  "description": "The best new music from independent artists. Curated with love by human Spotify editors. Cover: [S3AN]. Artwork: Isu Kim.\n",
-  "num_followers": 73000,
+  "description": "The best new music from independent artists. Curated with love by human Spotify editors. Cover: [Camille de la Cruz]. Artwork: Isu Kim.\n",
+  "num_followers": 73002,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPpt1Ov4Olzjor47GEhC92GawBoc",
+  "snapshot_id": "AAAAAHSLMt9SMQow7StrCVnpkEqSOBX+",
   "tracks": [
+    {
+      "added_at": "2026-06-24 05:00:09",
+      "album": {
+        "name": "ikaw lang ang bossing ko",
+        "url": "https://open.spotify.com/album/4guaa8LYGnFvSabu4GUpu6"
+      },
+      "artists": [
+        {
+          "name": "neytan",
+          "url": "https://open.spotify.com/artist/2SiPvwfKYm1TANEo8F0zyT"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "ikaw lang ang bossing ko",
+      "url": "https://open.spotify.com/track/314IQcUw9Ge5iWScZFiYq0"
+    },
+    {
+      "added_at": "2026-06-24 05:00:09",
+      "album": {
+        "name": "Before You Left",
+        "url": "https://open.spotify.com/album/55klWigmxBqw3IRJia30z3"
+      },
+      "artists": [
+        {
+          "name": "Camille de la Cruz",
+          "url": "https://open.spotify.com/artist/19unJ2tL7xGtVAZ8XIyTqi"
+        }
+      ],
+      "duration_ms": 144718,
+      "name": "Before You Left",
+      "url": "https://open.spotify.com/track/6Bn2bgzn1Ak410q7AC6qBc"
+    },
+    {
+      "added_at": "2026-06-24 05:00:09",
+      "album": {
+        "name": "Scribble List of Feelings",
+        "url": "https://open.spotify.com/album/3DO9cdydSijTcCDzfwDHTb"
+      },
+      "artists": [
+        {
+          "name": "Doughbaby",
+          "url": "https://open.spotify.com/artist/2R7aG4RRGoFpgMAf8Iuz4T"
+        }
+      ],
+      "duration_ms": 273616,
+      "name": "Muntikan",
+      "url": "https://open.spotify.com/track/4Y4hZxwU3WXfydWoUZs3FO"
+    },
+    {
+      "added_at": "2026-06-24 05:00:09",
+      "album": {
+        "name": "ONE MAN DOLO",
+        "url": "https://open.spotify.com/album/3eWVwNtrnzH1d9lkQWX3vN"
+      },
+      "artists": [
+        {
+          "name": "Nuelo Racks",
+          "url": "https://open.spotify.com/artist/1DK0SBKpJRtTK3xpD2uumy"
+        }
+      ],
+      "duration_ms": 169459,
+      "name": "ONE MAN DOLO",
+      "url": "https://open.spotify.com/track/4S9QJQe3TmlQWApkWK4XgA"
+    },
+    {
+      "added_at": "2026-06-24 05:00:09",
+      "album": {
+        "name": "Flawless",
+        "url": "https://open.spotify.com/album/0yT8gfZN8oAfAvR2jzKtDj"
+      },
+      "artists": [
+        {
+          "name": "Stef Aranas",
+          "url": "https://open.spotify.com/artist/741S9vc1M279OomvdEsFhg"
+        }
+      ],
+      "duration_ms": 189908,
+      "name": "Flawless",
+      "url": "https://open.spotify.com/track/5wj44QtOXYjckQ1tN9Ni1t"
+    },
     {
       "added_at": "2026-06-17 05:00:37",
       "album": {

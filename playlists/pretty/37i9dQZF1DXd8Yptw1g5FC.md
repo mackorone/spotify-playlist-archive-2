@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Derya Uluğ ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,176 likes - 121 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,194 likes - 121 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 81 | [Denizde Karartı Var \- Kadının Türküsü II](https://open.spotify.com/track/0KapWUrku3GsyJ3nj4K7w3) | [Öykü Gürman](https://open.spotify.com/artist/173BBRCDf7unNOeNIeP0OV) | [Denizde Karartı Var \(Kadının Türküsü II\)](https://open.spotify.com/album/4aITomYdWkdkiGtOImD8Gn) | 3:04 |
 | 82 | [Alıştım](https://open.spotify.com/track/3JTIs7oWHrhfJ9zmF7ALzR) | [üçkuruş](https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK) | [Alıştım](https://open.spotify.com/album/7LrRZONcEPYPRDvwLC1U8M) | 2:57 |
 | 83 | [Olsun](https://open.spotify.com/track/0A0gPRaLQH7bOOWKFwXxc6) | [Emre Dönmez](https://open.spotify.com/artist/0l1SkNuZtTebIGNna4PeCJ) | [Olsun](https://open.spotify.com/album/0Xzi5IQi61vlf5J4G6GJLM) | 2:30 |
-| 84 | [Taka Taka](https://open.spotify.com/track/1bkdNswVVngpmTC7sWlRua) | [Jakar](https://open.spotify.com/artist/2w2EFclidTR0idWloSgvGt), [Melissa](https://open.spotify.com/artist/0FR7kRA22gUDZgVkaDIGfa), [LUSI](https://open.spotify.com/artist/2rorGbRXviiV4PoU2QnOZ0) | [Taka Taka \(Pop\)](https://open.spotify.com/album/0ljdcDG69ahYfqkZ0V0w4O) | 3:03 |
+| 84 | [Taka Taka](https://open.spotify.com/track/1bkdNswVVngpmTC7sWlRua) | [The Jam Republic](https://open.spotify.com/artist/2Yt0vcuQgfxDAYkQ96ZJ0h), [Jakar](https://open.spotify.com/artist/2w2EFclidTR0idWloSgvGt), [Melissa](https://open.spotify.com/artist/0FR7kRA22gUDZgVkaDIGfa), [LUSI](https://open.spotify.com/artist/2rorGbRXviiV4PoU2QnOZ0) | [Taka Taka \(Pop\)](https://open.spotify.com/album/0ljdcDG69ahYfqkZ0V0w4O) | 3:03 |
 | 85 | [Yaralar](https://open.spotify.com/track/04PLfqtl7YOlzRI7SUfNcK) | [Mert Tunçmakas](https://open.spotify.com/artist/1OYIIzg7yzOwPicLYnmrBS) | [Yaralar](https://open.spotify.com/album/075xmTYI1XmllSrwuBjveB) | 2:48 |
 | 86 | [Jackson vs Tyson](https://open.spotify.com/track/3pRabFT8FZfDOHZR6YidGh) | [Moses](https://open.spotify.com/artist/7xihR0iAXmuXt2XJobep51) | [Jackson vs Tyson](https://open.spotify.com/album/4jeFVh6MnCrlrN5fLctNi7) | 2:24 |
 | 87 | [Toprak Olacak](https://open.spotify.com/track/5f2ReQJ2PfE0KsdSEsaFLT) | [Mine Koşan](https://open.spotify.com/artist/2ditOd9fNYAscQhUmYhfXh) | [Toprak Olacak](https://open.spotify.com/album/5tv235VDIDOy8qC8TSjjrW) | 3:41 |

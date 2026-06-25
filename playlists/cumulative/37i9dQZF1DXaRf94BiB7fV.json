@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover - abhii, Vagish",
+  "description": "The best new music by independent artists and labels in India. Cover - Trishita Recs",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -3663,6 +3663,36 @@
     },
     {
       "album": {
+        "name": "Batohi",
+        "url": "https://open.spotify.com/album/7GXY0tYVvVzRT4cioB2gGK"
+      },
+      "artists": [
+        {
+          "name": "Sujeet Anahata Thakur",
+          "url": "https://open.spotify.com/artist/61CLoY2iiFnPYVNk4HfMcu"
+        },
+        {
+          "name": "Akansha Tripathi",
+          "url": "https://open.spotify.com/artist/38XFS9SEu4eGBCguIdmIni"
+        },
+        {
+          "name": "Ishaan Nigam",
+          "url": "https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2"
+        },
+        {
+          "name": "Harshit Shankar",
+          "url": "https://open.spotify.com/artist/1EFgrLcxuH1vQX6GiEui6R"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247500,
+      "name": "Batohi",
+      "url": "https://open.spotify.com/track/5tX0htWh35W6wyOznMo7Nr"
+    },
+    {
+      "album": {
         "name": "Bawarey",
         "url": "https://open.spotify.com/album/7z0V9zGb1kChSeKrcRnK8a"
       },
@@ -3860,7 +3890,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 197400,
       "name": "behe chale?",
       "url": "https://open.spotify.com/track/6UOzlwlogfDtjvqfaEt3gs"
@@ -12812,7 +12842,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 171969,
       "name": "Hum Tum Miley",
       "url": "https://open.spotify.com/track/7GGUyCMipQJaORkMoPRw0d"
@@ -15176,6 +15206,24 @@
       "duration_ms": 189827,
       "name": "Jamoora",
       "url": "https://open.spotify.com/track/3uiwQNJKrSn4tqwXynfpKm"
+    },
+    {
+      "album": {
+        "name": "Janeja",
+        "url": "https://open.spotify.com/album/2TWqyyizM984MkjUM1y8Pp"
+      },
+      "artists": [
+        {
+          "name": "Pratik Kundu",
+          "url": "https://open.spotify.com/artist/4qoPM6imXNKs7Uj6aAJNJP"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236204,
+      "name": "Janeja",
+      "url": "https://open.spotify.com/track/3ss4BuT46BfmUTqAfz6QEA"
     },
     {
       "album": {
@@ -19008,7 +19056,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 192500,
       "name": "Kiski Khata",
       "url": "https://open.spotify.com/track/2s5f7ouN7DtFZXGmNFb9tJ"
@@ -19654,7 +19702,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 168000,
       "name": "Kyun",
       "url": "https://open.spotify.com/track/0N7oQjTaY8TEnHwa7ktljA"
@@ -22385,6 +22433,32 @@
     },
     {
       "album": {
+        "name": "Megh",
+        "url": "https://open.spotify.com/album/5VeWYcqevUdkTr79LUBkcH"
+      },
+      "artists": [
+        {
+          "name": "Iravu",
+          "url": "https://open.spotify.com/artist/32gGumlFxS3I49LH5cNcrH"
+        },
+        {
+          "name": "Ankur Banerjee",
+          "url": "https://open.spotify.com/artist/3dOHjpMK9sbQEGbwrcoGIe"
+        },
+        {
+          "name": "Pranathi Varma",
+          "url": "https://open.spotify.com/artist/10fOJE3AwE1pBtKF69pAvQ"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233696,
+      "name": "Megh",
+      "url": "https://open.spotify.com/track/3Ljb4WAugiB74p46pSBz4O"
+    },
+    {
+      "album": {
         "name": "Meheki",
         "url": "https://open.spotify.com/album/33HxPVJUeWYUmUPphJbIOq"
       },
@@ -23388,7 +23462,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 240059,
       "name": "Mohe Rang Banaa Lo",
       "url": "https://open.spotify.com/track/1d0d5s71yau9dIsedkEbGh"
@@ -34311,6 +34385,24 @@
     },
     {
       "album": {
+        "name": "Tijori",
+        "url": "https://open.spotify.com/album/1dDCqEcbjUIysTEQgVaV8r"
+      },
+      "artists": [
+        {
+          "name": "Trishita Recs",
+          "url": "https://open.spotify.com/artist/4lB0A51UgKHZ00Uhuta9K4"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186210,
+      "name": "Tijori",
+      "url": "https://open.spotify.com/track/7lmK3ix2fXGsgZWwcSgfU9"
+    },
+    {
+      "album": {
         "name": "Till Midnight",
         "url": "https://open.spotify.com/album/3IBr5MGj7ytvIThbhQtPWd"
       },
@@ -35568,6 +35660,28 @@
       "duration_ms": 191494,
       "name": "Tum Ho Meri Jaan",
       "url": "https://open.spotify.com/track/2DqSQgNvvn4iktgrdDLCoj"
+    },
+    {
+      "album": {
+        "name": "Tum Mere Hona",
+        "url": "https://open.spotify.com/album/3tnEdFjBzdoCugmz3ZC76x"
+      },
+      "artists": [
+        {
+          "name": "Yashashree Venkatesh",
+          "url": "https://open.spotify.com/artist/6vm6Dz0pOPUo7tmTFHQPWu"
+        },
+        {
+          "name": "ANKUSH",
+          "url": "https://open.spotify.com/artist/77o1JYELsxlyy19Z3WOiLv"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189356,
+      "name": "Tum Mere Hona",
+      "url": "https://open.spotify.com/track/7qjXz8fcLnc9pmzfP1UlH2"
     },
     {
       "album": {

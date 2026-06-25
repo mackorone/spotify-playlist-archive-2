@@ -1,6 +1,6 @@
 {
   "description": "Aquelas pra come\u00e7ar o dia de alma leve",
-  "num_followers": 612727,
+  "num_followers": 612753,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2026-06-19 03:00:16",
       "album": {
-        "name": "N",
-        "url": "https://open.spotify.com/album/0ArhyC2E8UYtNhFYBialf0"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 245538,
-      "name": "relic\u00e1rio",
-      "url": "https://open.spotify.com/track/1fZgxJgmmOl8zCyHgcKAWE"
-    },
-    {
-      "added_at": "2026-06-19 03:00:16",
-      "album": {
         "name": "Pode Se Achegar",
         "url": "https://open.spotify.com/album/1ProWdFTYf1k8czB43FVge"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 228780,
       "name": "Pode Se Achegar",
       "url": "https://open.spotify.com/track/5pmBfQ7bewBJR9dhVnqMHU"
+    },
+    {
+      "added_at": "2026-06-19 03:00:16",
+      "album": {
+        "name": "N",
+        "url": "https://open.spotify.com/album/0ArhyC2E8UYtNhFYBialf0"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 245538,
+      "name": "relic\u00e1rio",
+      "url": "https://open.spotify.com/track/1fZgxJgmmOl8zCyHgcKAWE"
     },
     {
       "added_at": "2026-06-19 03:00:16",
@@ -587,6 +587,22 @@
     {
       "added_at": "2026-06-19 03:00:16",
       "album": {
+        "name": "Cru",
+        "url": "https://open.spotify.com/album/7wYN6lMpcVx2maHSGc2yQb"
+      },
+      "artists": [
+        {
+          "name": "Liniker e os Caramelows",
+          "url": "https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n"
+        }
+      ],
+      "duration_ms": 364359,
+      "name": "Zero",
+      "url": "https://open.spotify.com/track/7Jl757vT5eNqemc6PtY2dA"
+    },
+    {
+      "added_at": "2026-06-19 03:00:16",
+      "album": {
         "name": "Um dia de domingo",
         "url": "https://open.spotify.com/album/6UsutqrIyl5NVGoP4i4hoz"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 251903,
       "name": "Um dia de domingo",
       "url": "https://open.spotify.com/track/4Hnc4ewhudTuDkXiyZ39Vm"
-    },
-    {
-      "added_at": "2026-06-19 03:00:16",
-      "album": {
-        "name": "Cru",
-        "url": "https://open.spotify.com/album/7wYN6lMpcVx2maHSGc2yQb"
-      },
-      "artists": [
-        {
-          "name": "Liniker e os Caramelows",
-          "url": "https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n"
-        }
-      ],
-      "duration_ms": 364359,
-      "name": "Zero",
-      "url": "https://open.spotify.com/track/7Jl757vT5eNqemc6PtY2dA"
     },
     {
       "added_at": "2026-06-19 03:00:16",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-06-19 03:00:16",
       "album": {
-        "name": "FOR\u00c7A DA JUVENTUDE",
-        "url": "https://open.spotify.com/album/1rjWs2gqsxkKVP9LIs2Luo"
-      },
-      "artists": [
-        {
-          "name": "Os Garotin",
-          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
-        }
-      ],
-      "duration_ms": 224184,
-      "name": "hoje eu vou me dar bem",
-      "url": "https://open.spotify.com/track/0yzpUJbXuG7vNd20TzGHlR"
-    },
-    {
-      "added_at": "2026-06-19 03:00:16",
-      "album": {
         "name": "Banda do Mar",
         "url": "https://open.spotify.com/album/1Jlhl64iUyVxFgApbvyCS4"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 221693,
       "name": "Dia Clarear",
       "url": "https://open.spotify.com/track/7JQet6yCd8rZX3oeVGqAyx"
+    },
+    {
+      "added_at": "2026-06-19 03:00:16",
+      "album": {
+        "name": "FOR\u00c7A DA JUVENTUDE",
+        "url": "https://open.spotify.com/album/1rjWs2gqsxkKVP9LIs2Luo"
+      },
+      "artists": [
+        {
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+        }
+      ],
+      "duration_ms": 224184,
+      "name": "hoje eu vou me dar bem",
+      "url": "https://open.spotify.com/track/0yzpUJbXuG7vNd20TzGHlR"
     },
     {
       "added_at": "2026-06-19 03:00:16",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2026-06-19 03:00:16",
       "album": {
-        "name": "Tons de Marrom",
-        "url": "https://open.spotify.com/album/2Ws5rlczmp2G60lDPJyrsZ"
-      },
-      "artists": [
-        {
-          "name": "Ryan Fidelis",
-          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
-        },
-        {
-          "name": "Nina",
-          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
-        }
-      ],
-      "duration_ms": 193562,
-      "name": "Corpo Suado",
-      "url": "https://open.spotify.com/track/60HKq194AJUnsiyogk99uL"
-    },
-    {
-      "added_at": "2026-06-19 03:00:16",
-      "album": {
         "name": "J\u00fapiter",
         "url": "https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 239707,
       "name": "Depois de Ter Voc\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/2OGTo6ZsIrRr1F7rtd7PbP"
+    },
+    {
+      "added_at": "2026-06-19 03:00:16",
+      "album": {
+        "name": "Tons de Marrom",
+        "url": "https://open.spotify.com/album/2Ws5rlczmp2G60lDPJyrsZ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+        },
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
+        }
+      ],
+      "duration_ms": 193562,
+      "name": "Corpo Suado",
+      "url": "https://open.spotify.com/track/60HKq194AJUnsiyogk99uL"
     },
     {
       "added_at": "2026-06-19 03:00:16",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-06-19 03:00:16",
       "album": {
-        "name": "Carinhoso",
-        "url": "https://open.spotify.com/album/4HFoIAVMjeCiA69B1NQdX0"
-      },
-      "artists": [
-        {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
-        }
-      ],
-      "duration_ms": 106452,
-      "name": "Carinhoso",
-      "url": "https://open.spotify.com/track/1M2o02mk2R0ltQcsQO7zZR"
-    },
-    {
-      "added_at": "2026-06-19 03:00:16",
-      "album": {
         "name": "Cris\u00e1lida",
         "url": "https://open.spotify.com/album/4rUZOCrDhLJGQlnnNRZ8fe"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 223808,
       "name": "Do Que \u00e9 Feito o Amor?",
       "url": "https://open.spotify.com/track/4NiuvO3nSHWYbnlpXtEX7I"
+    },
+    {
+      "added_at": "2026-06-19 03:00:16",
+      "album": {
+        "name": "Carinhoso",
+        "url": "https://open.spotify.com/album/4HFoIAVMjeCiA69B1NQdX0"
+      },
+      "artists": [
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        }
+      ],
+      "duration_ms": 106452,
+      "name": "Carinhoso",
+      "url": "https://open.spotify.com/track/1M2o02mk2R0ltQcsQO7zZR"
     },
     {
       "added_at": "2026-06-19 03:00:16",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2026-06-19 03:00:16",
       "album": {
-        "name": "Tenha do Seu Lado",
-        "url": "https://open.spotify.com/album/3xbo5AXOm0UgWVt71j52d3"
-      },
-      "artists": [
-        {
-          "name": "Benzi\u00ea",
-          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
-        }
-      ],
-      "duration_ms": 202154,
-      "name": "Tenha do Seu Lado",
-      "url": "https://open.spotify.com/track/7iRxsuKe44yvOYMypoBnzs"
-    },
-    {
-      "added_at": "2026-06-19 03:00:16",
-      "album": {
         "name": "Quem dir\u00e1?",
         "url": "https://open.spotify.com/album/1d3T6dE5JcdL8jSlMOwA6K"
       },
@@ -1819,22 +1803,6 @@
       "duration_ms": 172580,
       "name": "Quem dir\u00e1?",
       "url": "https://open.spotify.com/track/099mGrokbzQj9lr88cfFAE"
-    },
-    {
-      "added_at": "2026-06-19 03:00:16",
-      "album": {
-        "name": "Del\u00edrio Coletivo, Vol. 1",
-        "url": "https://open.spotify.com/album/2qbJQpwa2qJWnR24FNHXgk"
-      },
-      "artists": [
-        {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Ci\u00eancia",
-      "url": "https://open.spotify.com/track/368qoip11DFOOFkxx9tozr"
     },
     {
       "added_at": "2026-06-19 03:00:16",
@@ -1859,6 +1827,22 @@
     {
       "added_at": "2026-06-19 03:00:16",
       "album": {
+        "name": "Del\u00edrio Coletivo, Vol. 1",
+        "url": "https://open.spotify.com/album/2qbJQpwa2qJWnR24FNHXgk"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Ci\u00eancia",
+      "url": "https://open.spotify.com/track/368qoip11DFOOFkxx9tozr"
+    },
+    {
+      "added_at": "2026-06-19 03:00:16",
+      "album": {
         "name": "da primeira vez (from the first time)",
         "url": "https://open.spotify.com/album/2p7xzOUtZyKit5rZLfwGfY"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 201183,
       "name": "da primeira vez (from the first time)",
       "url": "https://open.spotify.com/track/63qOBLF8403qXWcfi4sAQx"
+    },
+    {
+      "added_at": "2026-06-19 03:00:16",
+      "album": {
+        "name": "Tenha do Seu Lado",
+        "url": "https://open.spotify.com/album/3xbo5AXOm0UgWVt71j52d3"
+      },
+      "artists": [
+        {
+          "name": "Benzi\u00ea",
+          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
+        }
+      ],
+      "duration_ms": 202154,
+      "name": "Tenha do Seu Lado",
+      "url": "https://open.spotify.com/track/7iRxsuKe44yvOYMypoBnzs"
     }
   ],
   "unique_name": "Manh\u00e3 Relax",

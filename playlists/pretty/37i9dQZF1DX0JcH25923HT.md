@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 
 > Palos de ayer, clásicos para siempre\. Foto: Bad Bunny.
 
-[Spotify](https://open.spotify.com/user/spotify) - 594,830 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 594,951 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 | 72 | [Dillom: Bzrp Music Sessions, Vol\. 9/66](https://open.spotify.com/track/6Vwfjz5LsHKTYY5IzhKW2A) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [Dillom: Bzrp Music Sessions, Vol\. 9/66](https://open.spotify.com/album/7EpZ3YjIPfaeB5MAzI5HnB) | 2:31 |
 | 73 | [Como Soy](https://open.spotify.com/track/6l2UmWFHtPqgWq0hnqlfJT) | [Pacho El Antifeka](https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Como Soy](https://open.spotify.com/album/6aDcL8v3iXacgkHL7DGu0G) | 5:12 |
 | 74 | [Ahora Me Llama \- Remix](https://open.spotify.com/track/0mQD5ilmghCieAw6E6YFrd) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Ahora Me Llama \(Remix\)](https://open.spotify.com/album/3QL5SDLpu79KrQAW3jhJ8y) | 4:11 |
-| 75 | [Ferrari](https://open.spotify.com/track/4mbb7hmfDR6M9cQaLdYSFd) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 3:08 |
-| 76 | [Piso](https://open.spotify.com/track/2nxft8uvdFYovqAcaxulSz) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Piso](https://open.spotify.com/album/4Vsl4WJiebxjDwpBp7JqPQ) | 3:39 |
+| 75 | [Piso](https://open.spotify.com/track/2nxft8uvdFYovqAcaxulSz) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Piso](https://open.spotify.com/album/4Vsl4WJiebxjDwpBp7JqPQ) | 3:39 |
+| 76 | [Ferrari](https://open.spotify.com/track/4mbb7hmfDR6M9cQaLdYSFd) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 3:08 |
 | 77 | [Si Te Lastimé](https://open.spotify.com/track/1NKwmnPXpm2WaZbiPBcfYY) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Si Te Lastimé](https://open.spotify.com/album/00JEveuRpUpFxB2Npr8fNa) | 2:13 |
 | 78 | [Illuminati \- Remix](https://open.spotify.com/track/6fGyrAxqgdvhzcOKlMQq5s) | [Kiddtetoon](https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF), [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Illuminati \(Remix\)](https://open.spotify.com/album/1hYkac7PNbTZlOOXwZJSam) | 4:50 |
 | 79 | [Haters \- Remix](https://open.spotify.com/track/1XuH3RXp7sCFPNof6xvFlm) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Haters \(Remix\)](https://open.spotify.com/album/7eh4EPAHsOFpon6iG7q75Q) | 5:28 |

@@ -362,10 +362,28 @@
       ],
       "date_added": "2025-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 189176,
       "name": "100 roosi",
       "url": "https://open.spotify.com/track/56ygCy6bOYAOTSdi6nRjQa"
+    },
+    {
+      "album": {
+        "name": "100K",
+        "url": "https://open.spotify.com/album/06W3AKJIcRtwd8kdUYyGDV"
+      },
+      "artists": [
+        {
+          "name": "Tractopelle Musik",
+          "url": "https://open.spotify.com/artist/4nM9QTw9xOGr1yXbJH7lSt"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157241,
+      "name": "100K",
+      "url": "https://open.spotify.com/track/4JQCVnxg6z3IilzZmhH4Jq"
     },
     {
       "album": {
@@ -3506,7 +3524,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 187178,
       "name": "armastan, ei armasta",
       "url": "https://open.spotify.com/track/7gy6n6xauco1dttxquR39d"
@@ -4288,7 +4306,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -5380,7 +5398,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 258296,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
@@ -8618,7 +8636,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 163276,
       "name": "Chiri Biri Binn",
       "url": "https://open.spotify.com/track/3uKvL9ZSerdmQsuVd5yerY"
@@ -10328,7 +10346,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 223448,
       "name": "Dai Dai",
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
@@ -10550,7 +10568,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 216352,
       "name": "Danza Kuduro - Version MTO",
       "url": "https://open.spotify.com/track/2ynaRz7EuNbDrNrlr3QUjP"
@@ -17524,6 +17542,24 @@
     {
       "album": {
         "name": "F\u00fcr Elise",
+        "url": "https://open.spotify.com/album/0eq0AXDDShOs9BB58AXivU"
+      },
+      "artists": [
+        {
+          "name": "Traffic",
+          "url": "https://open.spotify.com/artist/0Yk0PoyjQiEyIKgnaJFR0n"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180930,
+      "name": "F\u00fcr Elise",
+      "url": "https://open.spotify.com/track/6yWASuOtW0ORwrfUy8TqRM"
+    },
+    {
+      "album": {
+        "name": "F\u00fcr Elise",
         "url": "https://open.spotify.com/album/7zfpfrJADQAOtnxT3qykhO"
       },
       "artists": [
@@ -20672,7 +20708,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-26",
+      "date_removed": null,
       "duration_ms": 165411,
       "name": "Hispaania T\u00fcdruk",
       "url": "https://open.spotify.com/track/0wQIaO72C8X6F5I8a4GQDH"
@@ -21658,7 +21694,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 214400,
       "name": "hugo toom",
       "url": "https://open.spotify.com/track/47GAYk6gq9ZE6Ij9WWYdGP"
@@ -23776,7 +23812,7 @@
       ],
       "date_added": "2021-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 199354,
       "name": "Incognito",
       "url": "https://open.spotify.com/track/1xTFpnwtAB56vb8KqySM1d"
@@ -25530,7 +25566,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-26",
+      "date_removed": null,
       "duration_ms": 362441,
       "name": "Juulikuu lumi",
       "url": "https://open.spotify.com/track/3aMmngJz3oEP0Ua5ttzNHi"
@@ -25786,7 +25822,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 199218,
       "name": "Kajakad",
       "url": "https://open.spotify.com/track/39FZkSipVTBbEmEdThXRXl"
@@ -27411,6 +27447,24 @@
     },
     {
       "album": {
+        "name": "XX - 20 AASTAT METEORIITIDE SAJUS",
+        "url": "https://open.spotify.com/album/635VEt0CR4DFjhQ2muHTfF"
+      },
+      "artists": [
+        {
+          "name": "Smilers",
+          "url": "https://open.spotify.com/artist/3gDHpjemovd3LuV3tHgjOq"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261278,
+      "name": "K\u00e4ime katuseid m\u00f6\u00f6da",
+      "url": "https://open.spotify.com/track/3mUnNCnlxennpXN88LoQv3"
+    },
+    {
+      "album": {
         "name": "kannatused ehk k\u00fclakiigel pole stopperit",
         "url": "https://open.spotify.com/album/7mLL0eVJ6aOzQ5I6z9cUwN"
       },
@@ -28050,7 +28104,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-26",
+      "date_removed": null,
       "duration_ms": 295000,
       "name": "Las Mina Proovin Siis Ka (Originaal)",
       "url": "https://open.spotify.com/track/1Pjo9Nf25RgBByaafcXeBz"
@@ -29304,7 +29358,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 173142,
       "name": "Lihtsalt kaaslane",
       "url": "https://open.spotify.com/track/0StAgispgjih4elmadtyRY"
@@ -29826,7 +29880,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 176000,
       "name": "LLC",
       "url": "https://open.spotify.com/track/5JhljRLzNxMRHho5AoQzAM"
@@ -35576,7 +35630,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 206146,
       "name": "Muusik",
       "url": "https://open.spotify.com/track/6OxvI4d9Yf6OTTNoBmpDWi"
@@ -36802,7 +36856,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 250440,
       "name": "Nii Kuum",
       "url": "https://open.spotify.com/track/0PCBUcY3eOQZNxAeqiT54r"
@@ -40871,6 +40925,24 @@
     },
     {
       "album": {
+        "name": "Maailm meid saadab",
+        "url": "https://open.spotify.com/album/5f70F9vyXn7MCJimHrh6iV"
+      },
+      "artists": [
+        {
+          "name": "P\u00f5hja-Tallinn",
+          "url": "https://open.spotify.com/artist/3KI8jioJMzeN2aiJUMDbCs"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212666,
+      "name": "Petteid Loon'd",
+      "url": "https://open.spotify.com/track/4LXJpmffJvloalMWQJVKMB"
+    },
+    {
+      "album": {
         "name": "Rebel",
         "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
       },
@@ -42738,7 +42810,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-29",
+      "date_removed": null,
       "duration_ms": 201818,
       "name": "P\u00e4rlip\u00fc\u00fcdja",
       "url": "https://open.spotify.com/track/5roWPTh1cBdLSeuMF6QtoR"
@@ -44911,6 +44983,24 @@
     },
     {
       "album": {
+        "name": "Raimond Valgre Laule",
+        "url": "https://open.spotify.com/album/6NIWSKCSV2TFS2xSNtAtEl"
+      },
+      "artists": [
+        {
+          "name": "Karavan",
+          "url": "https://open.spotify.com/artist/2kCYuLt9oD8xX4bjU85RDF"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192192,
+      "name": "Saaremaa valss",
+      "url": "https://open.spotify.com/track/3K8bssdKxXqhAVsC3fJh1N"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -45932,7 +46022,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 180740,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
@@ -50824,7 +50914,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 190400,
       "name": "tabuuu",
       "url": "https://open.spotify.com/track/1MyTCLYyJ547w6FLSjb3om"
@@ -51306,7 +51396,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 223057,
       "name": "Tamburiin",
       "url": "https://open.spotify.com/track/3TKhfQOOHtA7QNtoju4cXn"
@@ -51332,6 +51422,24 @@
       "duration_ms": 181276,
       "name": "tana-tana",
       "url": "https://open.spotify.com/track/0h34lyTz4Q5FrRmN9Qc7Sk"
+    },
+    {
+      "album": {
+        "name": "XX - 20 AASTAT METEORIITIDE SAJUS",
+        "url": "https://open.spotify.com/album/635VEt0CR4DFjhQ2muHTfF"
+      },
+      "artists": [
+        {
+          "name": "Smilers",
+          "url": "https://open.spotify.com/artist/3gDHpjemovd3LuV3tHgjOq"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223960,
+      "name": "Tantsin sinuga taevas",
+      "url": "https://open.spotify.com/track/62b8IpvhU1PYiOFtMv28zt"
     },
     {
       "album": {
@@ -51544,7 +51652,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 208055,
       "name": "Tee mis sa tahad",
       "url": "https://open.spotify.com/track/6vzXc5nsa0JTMfAtWrZkIN"
@@ -56284,6 +56392,24 @@
     {
       "album": {
         "name": "V\u00e4\u00e4ramatu j\u00f5ud",
+        "url": "https://open.spotify.com/album/2eeY6RqHUHBHo6G1Aq0BdW"
+      },
+      "artists": [
+        {
+          "name": "Karl-Erik Taukar",
+          "url": "https://open.spotify.com/artist/0IBo1QzwnBeD4N8WS5aD5X"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194560,
+      "name": "Vastupandamatu",
+      "url": "https://open.spotify.com/track/7sHWLyTrY8GDuRNkwm1czW"
+    },
+    {
+      "album": {
+        "name": "V\u00e4\u00e4ramatu j\u00f5ud",
         "url": "https://open.spotify.com/album/5Q8W2sZwXL0nlbc6n4g0eW"
       },
       "artists": [
@@ -57080,7 +57206,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-26",
+      "date_removed": null,
       "duration_ms": 215506,
       "name": "V\u00f5ta Aega",
       "url": "https://open.spotify.com/track/6jJn2uBui1SzUbLlYLWXCz"

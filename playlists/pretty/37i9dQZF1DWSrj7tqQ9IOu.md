@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois sélectionnés par les éditos de Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,121 likes - 35 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,116 likes - 35 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 3 | [Sexy Nana](https://open.spotify.com/track/0at2jRhqZ9lhzEILevQxkZ) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [Sexy Nana](https://open.spotify.com/album/0u7kWFTWJv57axLNMFxw30) | 2:36 |
 | 4 | [BOY IN RED](https://open.spotify.com/track/7B2ygRXyWZulEpO4G1CHZf) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [IT'S BEEN AWFUL](https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH) | 3:09 |
 | 5 | [Hostage \(feat\. 21 Savage\)](https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 3:11 |
-| 6 | [we should talk](https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [everyone for ten minutes](https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o) | 3:04 |
-| 7 | [Été avec toi](https://open.spotify.com/track/4cSHMHSTRhetAtT1iDP2zO) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0) | [Été avec toi](https://open.spotify.com/album/5ExuPCbhP2IlrBgvdZvTLu) | 3:07 |
+| 6 | [Été avec toi](https://open.spotify.com/track/4cSHMHSTRhetAtT1iDP2zO) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0) | [Été avec toi](https://open.spotify.com/album/5ExuPCbhP2IlrBgvdZvTLu) | 3:07 |
+| 7 | [we should talk](https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [everyone for ten minutes](https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o) | 3:04 |
 | 8 | [In The Stars](https://open.spotify.com/track/6PkObLfJ4c0BfXQXuJmu91) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [In The Stars](https://open.spotify.com/album/1nk0CV2agKlG3G0dV4vyqK) | 4:13 |
 | 9 | [Talk On The Hill](https://open.spotify.com/track/5qoiAW2WK3b7Ncm3W9HkTL) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Talk On The Hill](https://open.spotify.com/album/3AhS0lrdaTPA4R6KRLtC6y) | 3:27 |
 | 10 | [linknb](https://open.spotify.com/track/1EljD71jwrLB0a3NGJqsJf) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [linknb](https://open.spotify.com/album/19mOTRnjuU6KeO0LuWsstc) | 1:55 |
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 17 | [Madonna](https://open.spotify.com/track/1v3YvbPK8LG05o1V6EOrkI) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Limbo](https://open.spotify.com/album/48BdQtxbatDILuuDZTKDDd) | 2:17 |
 | 18 | [Yao](https://open.spotify.com/track/4MfWUAdEaVLHFM6qyLSGWb) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Yao](https://open.spotify.com/album/1XRsCJnR5qfOOkWLqyLIgX) | 3:07 |
 | 19 | [Les roses](https://open.spotify.com/track/5Ff8SOh8E69TbqLHJFHQjT) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Les roses](https://open.spotify.com/album/38jKknph0hxIEKMoaVB92i) | 4:37 |
-| 20 | [Maman](https://open.spotify.com/track/4rDiyfZtqk03FTzQ4M8tg4) | [Wamen](https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse) | [Maman](https://open.spotify.com/album/0gxk8tI9M0cupnLHBaQUjw) | 2:47 |
-| 21 | [CŒUR DE PIRATE](https://open.spotify.com/track/0vmYv8KwjjBOC0UQjIuU8m) | [LinLin](https://open.spotify.com/artist/1D7nUBd4i2mrVpmLQmHI0n) | [DISCO INFERNO](https://open.spotify.com/album/7t1h5yn1S2JBCGrX0vUkTl) | 3:53 |
+| 20 | [CŒUR DE PIRATE](https://open.spotify.com/track/0vmYv8KwjjBOC0UQjIuU8m) | [LinLin](https://open.spotify.com/artist/1D7nUBd4i2mrVpmLQmHI0n) | [DISCO INFERNO](https://open.spotify.com/album/7t1h5yn1S2JBCGrX0vUkTl) | 3:53 |
+| 21 | [Maman](https://open.spotify.com/track/4rDiyfZtqk03FTzQ4M8tg4) | [Wamen](https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse) | [Maman](https://open.spotify.com/album/0gxk8tI9M0cupnLHBaQUjw) | 2:47 |
 | 22 | [Jeunes et cons](https://open.spotify.com/track/2Rr4xbCfYjJKQ5qdezU2N3) | [Shades](https://open.spotify.com/artist/2ci4Or1nFI30YCiRS2YXV8), [Costa](https://open.spotify.com/artist/4wMo1eZWwlJeWoBtIqZYXX), [2L](https://open.spotify.com/artist/2N6RfSP8wXKS6cTraTbqKj) | [Jeunes et cons](https://open.spotify.com/album/25IsT97AyumsVb8MLT6ccg) | 3:09 |
 | 23 | [Voicetrack Generation](https://open.spotify.com/track/41gmO7kWreWhpNxlHWHODa) | [Anetha](https://open.spotify.com/artist/7sJ3ngSMvvXGdVLnODPqXa), [ring noord](https://open.spotify.com/artist/2LG15MTQyH0AMfeCMjdr8A) | [Voicetrack Generation](https://open.spotify.com/album/1KR4NBbIq5TzITwiomAykm) | 4:13 |
 | 24 | [Anomalie](https://open.spotify.com/track/7BjtnFWiaBWdbr5nKF6ogB) | [Revers Gagnant](https://open.spotify.com/artist/1JJFKIcDjsMUEJAini15V8), [Jade Mansion](https://open.spotify.com/artist/4L5L8gnE5hd4dMWMLbk59O) | [Anomalie](https://open.spotify.com/album/6YgQgvhLzxNDNZMu8Z8rC7) | 3:41 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 28 | [Bad Boy](https://open.spotify.com/track/1DSzMuDGO6aaxpcj5iIiT5) | [Doria](https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839) | [Bad Boy](https://open.spotify.com/album/4Gj5Hju12pBbPPdlMdVSMo) | 2:40 |
 | 29 | [nofuture](https://open.spotify.com/track/5q0Xh6gHDBngynqeRIjCVW) | [Coelho](https://open.spotify.com/artist/45EiqrrOPCklyjQWF3Z6pR) | [millénium](https://open.spotify.com/album/3zYyqINgPNfPl7YGQYMSGw) | 2:00 |
 | 30 | [Hula Hoop \(feat\. Tuerie\)](https://open.spotify.com/track/6C5SCWr6dl6XrPbMqweqee) | [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg), [Tuerie](https://open.spotify.com/artist/1UILCk5p48n9qaNf1uie0a) | [Chroniques terrestres, Vol\. 2](https://open.spotify.com/album/0KIS7MHEcUoYxmQFzsPN3T) | 3:23 |
-| 31 | [The Big One](https://open.spotify.com/track/1VaeMX2S1N7PxH5aE6gwBd) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [The Big One](https://open.spotify.com/album/4UL5cSgVg7hj3cKW7H1IS6) | 3:38 |
-| 32 | [Replay](https://open.spotify.com/track/1EUmrCBpRI6RPNYFcziSU5) | [Jaïa Rose](https://open.spotify.com/artist/3uwTDwvi4L9Zo18M5oiZ3Y) | [Replay](https://open.spotify.com/album/3g1ttBs979kIuCcQywhOc0) | 2:56 |
+| 31 | [Replay](https://open.spotify.com/track/1EUmrCBpRI6RPNYFcziSU5) | [Jaïa Rose](https://open.spotify.com/artist/3uwTDwvi4L9Zo18M5oiZ3Y) | [Replay](https://open.spotify.com/album/3g1ttBs979kIuCcQywhOc0) | 2:56 |
+| 32 | [The Big One](https://open.spotify.com/track/1VaeMX2S1N7PxH5aE6gwBd) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [The Big One](https://open.spotify.com/album/4UL5cSgVg7hj3cKW7H1IS6) | 3:38 |
 | 33 | [DJ Please](https://open.spotify.com/track/1u1xK8c5mC3mktwPbYzlhZ) | [Zonmai](https://open.spotify.com/artist/690TcJftS8JgJI5iEsYEcU) | [DJ Please](https://open.spotify.com/album/05ji6ExwRNau8A0L70yNln) | 2:31 |
 | 34 | [Fire Away \(feat\. Slayyyter\)](https://open.spotify.com/track/2un4EaIKXxdVtQbO6cdYM4) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Fire Away \(feat\. Slayyyter\)](https://open.spotify.com/album/1PneNeTJUTq8ueNrXhjwQR) | 3:27 |
 | 35 | [hardcore](https://open.spotify.com/track/4ShHkTTpQtvBhBDsAZ7HbL) | [Alvin Amaïzo](https://open.spotify.com/artist/4lhjjDpsGu9roJmU0TNlGh) | [hardcore](https://open.spotify.com/album/0JNl62tBnwsPAx8tc79zzJ) | 3:24 |

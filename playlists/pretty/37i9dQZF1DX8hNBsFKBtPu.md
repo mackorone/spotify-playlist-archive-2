@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > We got you! Den bedste nye pop er samlet her 💖 JONATHAN
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,130 likes - 179 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,126 likes - 179 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 | 4 | [Kanten](https://open.spotify.com/track/6hoPyaOW01F83KUbTaR1Ge) | [URO](https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD) | [Kanten](https://open.spotify.com/album/0vubJFLLitPbPa1n1wc3IH) | 2:32 |
 | 5 | [Sæt Det Fri](https://open.spotify.com/track/2YFG7K2csOO1GqPTQkQbTz) | [Malte Ebert](https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl) | [Sæt Det Fri](https://open.spotify.com/album/7i0etg8EnmIQm69MysY5Nr) | 2:44 |
 | 6 | [Ekko](https://open.spotify.com/track/7wUhEjy8rarp2c8G7lXs0W) | [Blæst](https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5), [Makosir](https://open.spotify.com/artist/0G7lEqLdSyAiUGMB1P9nsh) | [Ekko](https://open.spotify.com/album/0ZrqgQIzB8dt6p8EdbB6JU) | 2:58 |
-| 7 | [Hold Mit Tempo](https://open.spotify.com/track/1AiduuJNTQikQ4edzuTcUM) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [WAVY](https://open.spotify.com/album/6i7FhriSAJMckXNjqy1K5E) | 2:43 |
+| 7 | [Hold Mit Tempo](https://open.spotify.com/track/1AiduuJNTQikQ4edzuTcUM) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [WAVY](https://open.spotify.com/album/6i7FhriSAJMckXNjqy1K5E) | 2:43 |
 | 8 | [Ham Med Guitaren](https://open.spotify.com/track/5cKNn5VQXGSxwZ68yzeVQi) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Ham Med Guitaren](https://open.spotify.com/album/41rv9rV6jZMwzt3O9CE8jl) | 3:14 |
 | 9 | [Dødvande](https://open.spotify.com/track/4xmR81dksRzRinebqUDKb9) | [will](https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB) | [Dødvande](https://open.spotify.com/album/0PjEG7TBeZ3o3pPEDwxFKL) | 2:10 |
 | 10 | [En Mildest Talt Elendig Samtale](https://open.spotify.com/track/7fGN0JEQtntcln3LdnjXoe) | [Ella Augusta](https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz), [Chris Burton](https://open.spotify.com/artist/4xEK7RZaPr5EblYHsaeBWo) | [En Mildest Talt Elendig Samtale](https://open.spotify.com/album/49j3gmWxLB6AlHJtqsixOf) | 2:53 |

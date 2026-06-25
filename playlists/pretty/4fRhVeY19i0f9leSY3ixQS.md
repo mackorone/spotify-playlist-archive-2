@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,414 likes - 259 songs - 14 hr 22 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,414 likes - 260 songs - 14 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -267,5 +267,6 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 257 | [Stealin'](https://open.spotify.com/track/3NSk6BSHNRUqkBHvXFvBDW) | [Simple Maschines](https://open.spotify.com/artist/1lii7viphugNgIVDRPBO4A) | [Simple Maschines 1](https://open.spotify.com/album/20Sr1qkXKpGgL0n0Jpf3M8) | 1:44 |
 | 258 | [BLEED \- Single Version](https://open.spotify.com/track/6OOhnKmVu1YxR8IKPOqpbf) | [Condition Baker](https://open.spotify.com/artist/6FRx7aC6xjwPX4XM1Ryicu) | [BLEED](https://open.spotify.com/album/1HUACNh5N6FCKrsQcOzTya) | 2:53 |
 | 259 | [disaster](https://open.spotify.com/track/0M201PbVv5MjbZkiWzCUlk) | [only tears](https://open.spotify.com/artist/6AaJR9N3Z2Ot4HGNdM4rlM) | [disaster](https://open.spotify.com/album/76FbLBSd2Zot5goToxcbHN) | 3:40 |
+| 260 | [You Don't Wanna Go Home](https://open.spotify.com/track/5TAd5qBYgM65fvHgAD0uAI) | [Nayla Salzmann](https://open.spotify.com/artist/41J6ppdYoUtSogli4x9Jxo) | [home ANYMORE](https://open.spotify.com/album/17LlS0edP2jyVRe1D73Hjs) | 2:59 |
 
-Snapshot ID: `AAAQ3tdQgKJFrkgYAsRcHrQrwvfqwbuC`
+Snapshot ID: `AAAQ392nL96arSZg2NCJRIIX1ZV31BYj`

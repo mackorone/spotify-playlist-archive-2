@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 
 > Soft instrumental Jazz for all your activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,285,889 likes - 185 songs - 10 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,286,153 likes - 185 songs - 10 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 | 184 | [For Sentimental Reasons](https://open.spotify.com/track/16XLUnjRsRJ2ZAUTsxCH1D) | [Ray Love Trio](https://open.spotify.com/artist/5So2roBHkoYi3wWy1pehXZ) | [For Sentimental Reasons](https://open.spotify.com/album/7p5N5Up8eojd9eqh0mkgbO) | 3:40 |
 | 185 | [At your place](https://open.spotify.com/track/77JtSFO9b4BXKXIBGRng1U) | [Dave Oakley trio](https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc) | [At your place](https://open.spotify.com/album/2wLyO0bm1UmYBmvF5C0JcU) | 3:18 |
 
-Snapshot ID: `AAAAAASEcDUaWrfJyXTMNYa1XKe5lQ9O`
+Snapshot ID: `AAAAAFcAkGkIsGEs6rCek8yeC8/ATyQY`

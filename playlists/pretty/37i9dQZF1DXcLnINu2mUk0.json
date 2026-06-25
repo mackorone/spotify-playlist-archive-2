@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Arag\u00e3o",
-  "num_followers": 55235,
+  "num_followers": 55238,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,30 @@
     {
       "added_at": "2026-06-18 23:00:56",
       "album": {
+        "name": "Imagina",
+        "url": "https://open.spotify.com/album/3AwiIJAqmkyYtIae9WvUKq"
+      },
+      "artists": [
+        {
+          "name": "FRANKIEONTHEGUITAR",
+          "url": "https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po"
+        },
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        },
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        }
+      ],
+      "duration_ms": 223100,
+      "name": "Imagina",
+      "url": "https://open.spotify.com/track/7ngJWF9fTaOG3vmEhSvK6g"
+    },
+    {
+      "added_at": "2026-06-18 23:00:56",
+      "album": {
         "name": "IT WILL HURT BOTH WAYS",
         "url": "https://open.spotify.com/album/4GeL7dcG2LxnYTsypnE9MJ"
       },
@@ -531,6 +555,26 @@
     {
       "added_at": "2026-06-18 23:00:56",
       "album": {
+        "name": "Solteiros",
+        "url": "https://open.spotify.com/album/5rsxQjqde3vkCtI8QeZgoo"
+      },
+      "artists": [
+        {
+          "name": "Deejay Telio",
+          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
+        },
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "duration_ms": 179023,
+      "name": "Solteiros",
+      "url": "https://open.spotify.com/track/0Y60C8JorO9tGfqK4oXnGd"
+    },
+    {
+      "added_at": "2026-06-18 23:00:56",
+      "album": {
         "name": "Amor de Agosto",
         "url": "https://open.spotify.com/album/43OLhOCAzmBiNuoNS856NS"
       },
@@ -551,22 +595,18 @@
     {
       "added_at": "2026-06-18 23:00:56",
       "album": {
-        "name": "Reservado",
-        "url": "https://open.spotify.com/album/1fv3j4QZFpWTljyn1Ay6sM"
+        "name": "Farda",
+        "url": "https://open.spotify.com/album/32hjFK119OwRDwxUJgMM2C"
       },
       "artists": [
         {
-          "name": "Deejay Telio",
-          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
-        },
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+          "name": "Gson",
+          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
         }
       ],
-      "duration_ms": 158326,
-      "name": "Cacau",
-      "url": "https://open.spotify.com/track/4jq69Jq3ZxYXTeXu9JhmIO"
+      "duration_ms": 189011,
+      "name": "Farda",
+      "url": "https://open.spotify.com/track/5WCLTDd9DfPtY1XHEa63FJ"
     },
     {
       "added_at": "2026-06-18 23:00:56",
@@ -603,6 +643,42 @@
     {
       "added_at": "2026-06-18 23:00:56",
       "album": {
+        "name": "Reservado",
+        "url": "https://open.spotify.com/album/1fv3j4QZFpWTljyn1Ay6sM"
+      },
+      "artists": [
+        {
+          "name": "Deejay Telio",
+          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
+        },
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "duration_ms": 158326,
+      "name": "Cacau",
+      "url": "https://open.spotify.com/track/4jq69Jq3ZxYXTeXu9JhmIO"
+    },
+    {
+      "added_at": "2026-06-18 23:00:56",
+      "album": {
+        "name": "Coroa",
+        "url": "https://open.spotify.com/album/0nkyWbSnYG4mqxRNOFngCq"
+      },
+      "artists": [
+        {
+          "name": "Piruka",
+          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
+        }
+      ],
+      "duration_ms": 219968,
+      "name": "Salto Alto",
+      "url": "https://open.spotify.com/track/7nt9d9KSHEyOAy9BuLcloO"
+    },
+    {
+      "added_at": "2026-06-18 23:00:56",
+      "album": {
         "name": "B\u00ean\u00e7\u00e3o (feat. Van Zee & Bispo)",
         "url": "https://open.spotify.com/album/0qh2Oll4rfSc8I3tO1fYv0"
       },
@@ -623,6 +699,26 @@
       "duration_ms": 205934,
       "name": "B\u00ean\u00e7\u00e3o (feat. Van Zee & Bispo)",
       "url": "https://open.spotify.com/track/1hdWqiFAy5hNRxyVpDy81P"
+    },
+    {
+      "added_at": "2026-06-18 23:00:56",
+      "album": {
+        "name": "ROSAS",
+        "url": "https://open.spotify.com/album/4kjME0GNANHDdPmq01LhEj"
+      },
+      "artists": [
+        {
+          "name": "Kappa Jotta",
+          "url": "https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu"
+        },
+        {
+          "name": "MUN",
+          "url": "https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr"
+        }
+      ],
+      "duration_ms": 177272,
+      "name": "ROSAS",
+      "url": "https://open.spotify.com/track/7z230czvpJomvwY3HPbsES"
     },
     {
       "added_at": "2026-06-18 23:00:56",
@@ -783,6 +879,22 @@
     {
       "added_at": "2026-06-18 23:00:56",
       "album": {
+        "name": "Reflexo",
+        "url": "https://open.spotify.com/album/72xvmSok2ElCdaFrXiOt9b"
+      },
+      "artists": [
+        {
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+        }
+      ],
+      "duration_ms": 306733,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/4b6hDtZL8KHTzt9cgfvaqX"
+    },
+    {
+      "added_at": "2026-06-18 23:00:56",
+      "album": {
         "name": "do.mar",
         "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
       },
@@ -819,6 +931,42 @@
     {
       "added_at": "2026-06-18 23:00:56",
       "album": {
+        "name": "Nada a Esconder",
+        "url": "https://open.spotify.com/album/2mkZBhS9I5hcZfCw8ShfM3"
+      },
+      "artists": [
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "duration_ms": 218258,
+      "name": "Nada a Esconder",
+      "url": "https://open.spotify.com/track/0JrBOhbstid47iGfPIdwwi"
+    },
+    {
+      "added_at": "2026-06-18 23:00:56",
+      "album": {
+        "name": "FIM DA NOITE",
+        "url": "https://open.spotify.com/album/6EeclZ55kbwZGGTG66gMlO"
+      },
+      "artists": [
+        {
+          "name": "Kappa Jotta",
+          "url": "https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu"
+        },
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        }
+      ],
+      "duration_ms": 214065,
+      "name": "FIM DA NOITE",
+      "url": "https://open.spotify.com/track/6r0Ot1DfoBIvSIDEsKQ5wa"
+    },
+    {
+      "added_at": "2026-06-18 23:00:56",
+      "album": {
         "name": "Clima",
         "url": "https://open.spotify.com/album/5C4aCWJtiISw7Cu6g6HVMf"
       },
@@ -831,38 +979,6 @@
       "duration_ms": 176425,
       "name": "Clima",
       "url": "https://open.spotify.com/track/4WlMcUCtmXRHncPULo3wmK"
-    },
-    {
-      "added_at": "2026-06-18 23:00:56",
-      "album": {
-        "name": "Voz da Multid\u00e3o",
-        "url": "https://open.spotify.com/album/4Dk6TDTbaP2pNdeOWYBLeE"
-      },
-      "artists": [
-        {
-          "name": "Deejay Telio",
-          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
-        }
-      ],
-      "duration_ms": 206186,
-      "name": "Voz da Multid\u00e3o",
-      "url": "https://open.spotify.com/track/31D9NOd8syWRzk2c9Aj0Hl"
-    },
-    {
-      "added_at": "2026-06-18 23:00:56",
-      "album": {
-        "name": "Sometimes",
-        "url": "https://open.spotify.com/album/5KtyAVXpW4uqD2TG02NTA4"
-      },
-      "artists": [
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/5ZU1TW5KbwOb7r0ZDILy7c"
     },
     {
       "added_at": "2026-06-18 23:00:56",
@@ -883,6 +999,58 @@
       "duration_ms": 183092,
       "name": "Como Seria? / Amor S\u00f3brio",
       "url": "https://open.spotify.com/track/7uekYsGKTZM2LfyjB87x0Y"
+    },
+    {
+      "added_at": "2026-06-18 23:00:56",
+      "album": {
+        "name": "11 11",
+        "url": "https://open.spotify.com/album/0Wc6A1EIpH1cDRy1mPkXmB"
+      },
+      "artists": [
+        {
+          "name": "SYRO",
+          "url": "https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x"
+        },
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        }
+      ],
+      "duration_ms": 176320,
+      "name": "Brutos Diamantes",
+      "url": "https://open.spotify.com/track/0O0P2tgslUxEGsf5UB6CKc"
+    },
+    {
+      "added_at": "2026-06-18 23:00:56",
+      "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/5KtyAVXpW4uqD2TG02NTA4"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/5ZU1TW5KbwOb7r0ZDILy7c"
+    },
+    {
+      "added_at": "2026-06-18 23:00:56",
+      "album": {
+        "name": "Voz da Multid\u00e3o",
+        "url": "https://open.spotify.com/album/4Dk6TDTbaP2pNdeOWYBLeE"
+      },
+      "artists": [
+        {
+          "name": "Deejay Telio",
+          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
+        }
+      ],
+      "duration_ms": 206186,
+      "name": "Voz da Multid\u00e3o",
+      "url": "https://open.spotify.com/track/31D9NOd8syWRzk2c9Aj0Hl"
     },
     {
       "added_at": "2026-06-18 23:00:56",
@@ -919,6 +1087,26 @@
     {
       "added_at": "2026-06-18 23:00:56",
       "album": {
+        "name": "Fala-me A Verdade",
+        "url": "https://open.spotify.com/album/48GEWX4I0fQxKKvGNHHTMb"
+      },
+      "artists": [
+        {
+          "name": "Bia Caboz",
+          "url": "https://open.spotify.com/artist/0riQxiJoPm0Wh4M9ofN50a"
+        },
+        {
+          "name": "Piruka",
+          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
+        }
+      ],
+      "duration_ms": 172804,
+      "name": "Fala-me A Verdade",
+      "url": "https://open.spotify.com/track/2sI9xJoaJ4R3Z8nqRfEsJw"
+    },
+    {
+      "added_at": "2026-06-18 23:00:56",
+      "album": {
         "name": "Interestelar",
         "url": "https://open.spotify.com/album/02PsewjrcAwfmprEsadxBa"
       },
@@ -931,22 +1119,6 @@
       "duration_ms": 188593,
       "name": "Interestelar",
       "url": "https://open.spotify.com/track/0itv2Wy3TruEEZy4dRsu32"
-    },
-    {
-      "added_at": "2026-06-18 23:00:56",
-      "album": {
-        "name": "Eu Quero Um Preto",
-        "url": "https://open.spotify.com/album/4VYHoBdfe9ItKcZEIVVky4"
-      },
-      "artists": [
-        {
-          "name": "Nenny",
-          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
-        }
-      ],
-      "duration_ms": 233307,
-      "name": "Eu Quero Um Preto",
-      "url": "https://open.spotify.com/track/5RR0enYvYBvjNIPAAYzxcU"
     },
     {
       "added_at": "2026-06-18 23:00:56",
@@ -967,6 +1139,22 @@
     {
       "added_at": "2026-06-18 23:00:56",
       "album": {
+        "name": "Eu Quero Um Preto",
+        "url": "https://open.spotify.com/album/4VYHoBdfe9ItKcZEIVVky4"
+      },
+      "artists": [
+        {
+          "name": "Nenny",
+          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
+        }
+      ],
+      "duration_ms": 233307,
+      "name": "Eu Quero Um Preto",
+      "url": "https://open.spotify.com/track/5RR0enYvYBvjNIPAAYzxcU"
+    },
+    {
+      "added_at": "2026-06-18 23:00:56",
+      "album": {
         "name": "Menino Da Mam\u00e3 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3LZsPR3MOg0h3B4927BAXO"
       },
@@ -979,6 +1167,26 @@
       "duration_ms": 198300,
       "name": "N\u00e3o Presto",
       "url": "https://open.spotify.com/track/5DKTdgyYNXI8MGOM2GemRe"
+    },
+    {
+      "added_at": "2026-06-18 23:00:56",
+      "album": {
+        "name": "Bairrista de Luxo",
+        "url": "https://open.spotify.com/album/1ehLvKQneJz9OjTAebraMK"
+      },
+      "artists": [
+        {
+          "name": "bapcat",
+          "url": "https://open.spotify.com/artist/02Qg3L9GCPXeVQFxZ1b4ou"
+        },
+        {
+          "name": "Joint One",
+          "url": "https://open.spotify.com/artist/5W4i9lwHlsuhSL6Mw4KvCQ"
+        }
+      ],
+      "duration_ms": 135804,
+      "name": "Bairrista de Luxo",
+      "url": "https://open.spotify.com/track/3joqxJanG048iK7xizpAnD"
     },
     {
       "added_at": "2026-06-18 23:00:56",
@@ -1143,6 +1351,22 @@
     {
       "added_at": "2026-06-18 23:00:56",
       "album": {
+        "name": "XVIII",
+        "url": "https://open.spotify.com/album/1URmVSVwz1OAINOAv5gZtp"
+      },
+      "artists": [
+        {
+          "name": "Dolce",
+          "url": "https://open.spotify.com/artist/2XGXbQFvAcvkqXYATSNO4P"
+        }
+      ],
+      "duration_ms": 181276,
+      "name": "J\u00e1 N\u00e3o Aguento",
+      "url": "https://open.spotify.com/track/4EKGPKSAzzwjoLYPD9xyWL"
+    },
+    {
+      "added_at": "2026-06-18 23:00:56",
+      "album": {
         "name": "Aguarela",
         "url": "https://open.spotify.com/album/3xn6NxoK4rdQRyWndt4ylL"
       },
@@ -1187,226 +1411,6 @@
       "duration_ms": 196276,
       "name": "T\u00f3xico (feat. Ivandro & WIU)",
       "url": "https://open.spotify.com/track/1AlA6M3Kr97ZsWzlQBCxZh"
-    },
-    {
-      "added_at": "2026-06-18 23:00:56",
-      "album": {
-        "name": "XVIII",
-        "url": "https://open.spotify.com/album/1URmVSVwz1OAINOAv5gZtp"
-      },
-      "artists": [
-        {
-          "name": "Dolce",
-          "url": "https://open.spotify.com/artist/2XGXbQFvAcvkqXYATSNO4P"
-        }
-      ],
-      "duration_ms": 181276,
-      "name": "J\u00e1 N\u00e3o Aguento",
-      "url": "https://open.spotify.com/track/4EKGPKSAzzwjoLYPD9xyWL"
-    },
-    {
-      "added_at": "2026-06-18 23:00:56",
-      "album": {
-        "name": "Sei-te de Cor",
-        "url": "https://open.spotify.com/album/0EfndHIa8rIjSWDoJtoGcg"
-      },
-      "artists": [
-        {
-          "name": "Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
-        }
-      ],
-      "duration_ms": 219692,
-      "name": "Sei-te de Cor",
-      "url": "https://open.spotify.com/track/2ZIWYtx82CrNATOhUeAJpv"
-    },
-    {
-      "added_at": "2026-06-18 23:00:56",
-      "album": {
-        "name": "Infinito",
-        "url": "https://open.spotify.com/album/5PggQNNlmkNTw3jZFyn0qs"
-      },
-      "artists": [
-        {
-          "name": "NAPA",
-          "url": "https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu"
-        },
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        }
-      ],
-      "duration_ms": 229244,
-      "name": "Infinito",
-      "url": "https://open.spotify.com/track/2lJ43uf6sTBG9RV9YeXqtb"
-    },
-    {
-      "added_at": "2026-06-18 23:00:56",
-      "album": {
-        "name": "Perfume (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5tE6GbtjP4htGoyrT5H78A"
-      },
-      "artists": [
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 174428,
-      "name": "Perfume - Ao Vivo",
-      "url": "https://open.spotify.com/track/5RrkZPErBSiNW8OjRxnkId"
-    },
-    {
-      "added_at": "2026-06-18 23:00:56",
-      "album": {
-        "name": "WONDER",
-        "url": "https://open.spotify.com/album/4euL5ozDT7eXHQuZ7EU6Tb"
-      },
-      "artists": [
-        {
-          "name": "Papillon",
-          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
-        },
-        {
-          "name": "Carla Prata",
-          "url": "https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS"
-        }
-      ],
-      "duration_ms": 193601,
-      "name": "\u00a1 S\u00d3 N\u00d3S ! (feat. Carla Prata)",
-      "url": "https://open.spotify.com/track/6gJF4kTu4cQDklJMnd0ZkQ"
-    },
-    {
-      "added_at": "2026-06-18 23:00:56",
-      "album": {
-        "name": "Biri Bam Bam",
-        "url": "https://open.spotify.com/album/0Bn7C13zNi9vYlC5nbmkpa"
-      },
-      "artists": [
-        {
-          "name": "Blaya",
-          "url": "https://open.spotify.com/artist/0kWbj6PdoovMr1GXFcvJ5A"
-        },
-        {
-          "name": "Maria Jo\u00e3o",
-          "url": "https://open.spotify.com/artist/0jgkYmoEBi6R0MfysJpz7N"
-        }
-      ],
-      "duration_ms": 177110,
-      "name": "Biri Bam Bam",
-      "url": "https://open.spotify.com/track/7cBpp7L46vwX7MZ40pQp4A"
-    },
-    {
-      "added_at": "2026-06-18 23:00:56",
-      "album": {
-        "name": "Violetta",
-        "url": "https://open.spotify.com/album/2bxwGAO6LDVzSjPoEggQ58"
-      },
-      "artists": [
-        {
-          "name": "Lhast",
-          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
-        }
-      ],
-      "duration_ms": 152470,
-      "name": "\u00c0 Procura",
-      "url": "https://open.spotify.com/track/2gRjbu1mxypKW0zPyf5uGa"
-    },
-    {
-      "added_at": "2026-06-18 23:00:56",
-      "album": {
-        "name": "Nossa Hist\u00f3ria",
-        "url": "https://open.spotify.com/album/4ly1joTaalQ5wAP0rbwmPT"
-      },
-      "artists": [
-        {
-          "name": "Waze",
-          "url": "https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm"
-        },
-        {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
-        }
-      ],
-      "duration_ms": 253085,
-      "name": "Nossa Hist\u00f3ria",
-      "url": "https://open.spotify.com/track/7fTEgp9TRGwEPVgfCLVjSb"
-    },
-    {
-      "added_at": "2026-06-18 23:00:56",
-      "album": {
-        "name": "Chama",
-        "url": "https://open.spotify.com/album/7c0pS0w9PBaIobszlefBT7"
-      },
-      "artists": [
-        {
-          "name": "CADU",
-          "url": "https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3"
-        }
-      ],
-      "duration_ms": 153029,
-      "name": "Chama",
-      "url": "https://open.spotify.com/track/5HnyAdCgZ4LkQ0LX7epYwQ"
-    },
-    {
-      "added_at": "2026-06-18 23:00:56",
-      "album": {
-        "name": "10 MINUTOS",
-        "url": "https://open.spotify.com/album/1f7H62wBukLZ1dWc8Vfgoh"
-      },
-      "artists": [
-        {
-          "name": "ATJ",
-          "url": "https://open.spotify.com/artist/2EIF8yz9lT5vzYDriL5VAG"
-        }
-      ],
-      "duration_ms": 300333,
-      "name": "10 MINUTOS",
-      "url": "https://open.spotify.com/track/0NIlYkV3zxqZkGVbJJzpLf"
-    },
-    {
-      "added_at": "2026-06-18 23:00:56",
-      "album": {
-        "name": "Flexin On U",
-        "url": "https://open.spotify.com/album/483ljN85NtrrdrvsNSXF8u"
-      },
-      "artists": [
-        {
-          "name": "X-Tense",
-          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
-        },
-        {
-          "name": "Tatiana Duarte",
-          "url": "https://open.spotify.com/artist/78o0thKbUQAtuBKIy9FwdT"
-        }
-      ],
-      "duration_ms": 271500,
-      "name": "Flexin On U",
-      "url": "https://open.spotify.com/track/21WFD8glO3k4hYmOiprEFF"
-    },
-    {
-      "added_at": "2026-06-18 23:00:56",
-      "album": {
-        "name": "Barco",
-        "url": "https://open.spotify.com/album/6aVeW0VvFv4qDpigItRzVn"
-      },
-      "artists": [
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        },
-        {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
-        }
-      ],
-      "duration_ms": 216556,
-      "name": "Barco",
-      "url": "https://open.spotify.com/track/6f3wQcpYZUjnakdFmriRbF"
     }
   ],
   "unique_name": "Seda",

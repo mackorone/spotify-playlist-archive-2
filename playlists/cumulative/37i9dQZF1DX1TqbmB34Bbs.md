@@ -2,9 +2,9 @@
 
 ### [K\`illin'](https://open.spotify.com/playlist/37i9dQZF1DX1TqbmB34Bbs)
 
-> Illest hardcore K\-hip hop tracks are here\. \(Cover: Tray B\) \(공격력 상승 국내 힙합을 즐겨보세요!\)
+> Illest hardcore K\-hip hop tracks are here\. \(Cover: 1300\) \(공격력 상승 국내 힙합을 즐겨보세요!\)
 
-1,372 songs - 3 day 3 hr 26 min
+1,373 songs - 3 day 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@
 | [BEEF](https://open.spotify.com/track/57ihhpShbD11bf2WwcdyAN) | [Luci Gang](https://open.spotify.com/artist/6bdK4VbII2XlfccYCeK47S) | [BEEF](https://open.spotify.com/album/1zRgoN1IqbQ0PiCRKkG4DE) | 1:57 | 2024-11-20 | 2024-12-06 |
 | [Ben Baller](https://open.spotify.com/track/6DiUNb7fewa9TVSSR2nm8v) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM), [Ghoulavelii](https://open.spotify.com/artist/6nwEYQKFXGAKvwnUqZUd52), [BRADYSTREET](https://open.spotify.com/artist/5VWEpJSb8drkormu61Yb5j) | [The Road Less Traveled](https://open.spotify.com/album/7uIX1VIj6lQTjYuWfjCQ59) | 3:30 | 2022-06-03 | 2022-07-09 |
 | [Benchpress \(feat\. Don Mills\)](https://open.spotify.com/track/4RyQYo5he9vGrtooXRdDh6) | [RB NINE](https://open.spotify.com/artist/79tuyMDO42MRFpm8gOXn7p), [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn) | [Benchpress \(feat\. Don Mills\)](https://open.spotify.com/album/28mHfCH5Acc4etCJrgKTTQ) | 2:56 | 2022-08-17 | 2022-09-09 |
-| [BENTLEY 2](https://open.spotify.com/track/5moCmHqQCBe99MAUdCARVO) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR) | [BENTLEY 2](https://open.spotify.com/album/2ytxNmXlCjcIcWzdTsZ6J0) | 4:13 | 2022-06-27 |  |
+| [BENTLEY 2](https://open.spotify.com/track/5moCmHqQCBe99MAUdCARVO) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR) | [BENTLEY 2](https://open.spotify.com/album/2ytxNmXlCjcIcWzdTsZ6J0) | 4:13 | 2022-06-27 | 2026-06-25 |
 | [BENZO](https://open.spotify.com/track/6rhq5U4vBZ90GpzhodA9rz) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [BENZO](https://open.spotify.com/album/0BW5t9qhzscspZ6ozozmOa) | 2:22 | 2022-08-01 | 2023-06-07 |
 | [Beretta \(Feat\. Dayoung Ahn\)](https://open.spotify.com/track/1b4YNaLnpC4SK4MBxAn5ku) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Ahn Dayoung](https://open.spotify.com/artist/3YaTzrZaXXljeI8vpvzyBX) | [UNDERGROUND ROCKSTAR](https://open.spotify.com/album/3zNOCJUMp0IOEREqInMhug) | 3:44 | 2022-05-28 | 2022-07-27 |
 | [BERMUDA TRIANGLE](https://open.spotify.com/track/0hRVm06wtH5HsmPetg1W9t) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [BERMUDA TRIANGLE](https://open.spotify.com/album/7BUHltdya9h5Qv0qI2xvhX) | 3:27 | 2022-07-25 | 2024-09-03 |
@@ -261,6 +261,7 @@
 | [Chuck](https://open.spotify.com/track/10yON1bpoRp87hZE3xOBra) | [PAXXWORD](https://open.spotify.com/artist/14P3Qvy0EDuTyGt5kzL8wP) | [Chuck](https://open.spotify.com/album/1Qu1vXn3MMJLBNOgYXs06v) | 2:44 | 2022-07-07 | 2022-07-25 |
 | [CHURCH](https://open.spotify.com/track/0CXa72Y0ozZmM5QObUzMxE) | [C JAMM](https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR) | [Ghenn](https://open.spotify.com/album/69FHIXspR1TqcpIfmS0ZZR) | 3:43 | 2022-05-28 |  |
 | [Circle Mind \(feat\. Dbo\)](https://open.spotify.com/track/32aPXAGrLPmZahHtGMw4r6) | [Green](https://open.spotify.com/artist/5QZhUdqvTEGnKNLVBTbFSY), [Dbo](https://open.spotify.com/artist/7pMFAOPNBL5beBLW4Pohst) | [Circle Mind](https://open.spotify.com/album/2yVFgP5puQ82LFsEj1e7F4) | 2:28 | 2022-12-26 | 2023-01-11 |
+| [clear out the room](https://open.spotify.com/track/61C9oLlD9mo78jLNpyMfVT) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P) | [clear out the room](https://open.spotify.com/album/0hxMEdWolujsfpXAHEPGcY) | 2:59 | 2026-06-24 |  |
 | [Cliche](https://open.spotify.com/track/4BbhBERmvgRWY6NP4TBHRv) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM) | [Cliche](https://open.spotify.com/album/2R0puxgLW6nwuRFkSmBjEa) | 2:40 | 2022-06-09 | 2022-07-29 |
 | [Cliché](https://open.spotify.com/track/2udNW46Jp5dP24bnNaPmh8) | [XINSAYNE](https://open.spotify.com/artist/4yY3FsmWRwMIFXRDkMpnBS) | [4 MNTGS](https://open.spotify.com/album/3X7dYhAS4gOjL1sMZJ0psi) | 1:15 | 2022-05-31 | 2022-06-17 |
 | [CLOCK \(Feat\. KIM XIMYA\)](https://open.spotify.com/track/2vOiR63TOimnJebgHiNzcG) | [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [THE STRANGER](https://open.spotify.com/album/1AHvYJ00JEw2rhqGVM3Yi8) | 3:08 | 2022-05-31 | 2022-07-23 |

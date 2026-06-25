@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2026-05-02",
-  "description": "T\u1eadp h\u1ee3p c\u00e1c MV \u0111\u1ec9nh n\u00f3c k\u1ecbch tr\u1ea7n. \u0110\u0103ng k\u00fd Premium \u0111\u1ec3 xem. \u1ea2nh b\u00eca: H\u00e0 An Huy",
+  "description": "T\u1eadp h\u1ee3p c\u00e1c MV \u0111\u1ec9nh n\u00f3c k\u1ecbch tr\u1ea7n. \u0110\u0103ng k\u00fd Premium \u0111\u1ec3 xem. \u1ea2nh b\u00eca: Hngle",
   "name": "\u0110\u00e0i Ph\u00e1t H\u00ecnh V-Pop",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 340138,
       "name": "Bi\u1ec7t Kh\u00fac",
       "url": "https://open.spotify.com/track/4Sb2tLjJY1OfzME7SmnvN7"
@@ -629,6 +629,46 @@
     },
     {
       "album": {
+        "name": "Ng\u01b0\u1ee3c H\u01b0\u1edbng (feat. Minh T\u1ed1c & Lam)",
+        "url": "https://open.spotify.com/album/3m64ILRM2CMHdBXAKb6Z3J"
+      },
+      "artists": [
+        {
+          "name": "S.T S\u01a1n Th\u1ea1ch",
+          "url": "https://open.spotify.com/artist/3YwCEaM1uA75y4Iz6FLgRC"
+        },
+        {
+          "name": "Minh T\u1ed1c & Lam",
+          "url": "https://open.spotify.com/artist/27RoKwun6jKycKbH2iYUFU"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268020,
+      "name": "Ng\u01b0\u1ee3c H\u01b0\u1edbng (feat. Minh T\u1ed1c & Lam)",
+      "url": "https://open.spotify.com/track/58aEcLRp4DMKPyHMvvi4Kt"
+    },
+    {
+      "album": {
+        "name": "Nh\u1ea5c M\u00e1y",
+        "url": "https://open.spotify.com/album/46l0nGmfwZCAGonJajsACp"
+      },
+      "artists": [
+        {
+          "name": "Noo Ph\u01b0\u1edbc Th\u1ecbnh",
+          "url": "https://open.spotify.com/artist/3mibIJiduF0MVLLAvHZAxw"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230823,
+      "name": "Nh\u1ea5c M\u00e1y",
+      "url": "https://open.spotify.com/track/1sw1KUol417wLcw6w6yWZQ"
+    },
+    {
+      "album": {
         "name": "N\u1eafng D\u01b0\u1edbi Ch\u00e2n M\u00e2y",
         "url": "https://open.spotify.com/album/1qMStQGlAbYWFgXcGK4oBH"
       },
@@ -727,6 +767,28 @@
     },
     {
       "album": {
+        "name": "T\u00ecm Em (feat. B\u1ea3o Anh)",
+        "url": "https://open.spotify.com/album/4qCaDixeJX4LXWMZs6rVyl"
+      },
+      "artists": [
+        {
+          "name": "Hngle",
+          "url": "https://open.spotify.com/artist/7kBsX15IDun9YxuVmKCMYJ"
+        },
+        {
+          "name": "B\u1ea3o Anh",
+          "url": "https://open.spotify.com/artist/4fCHhderLwLacsIOIKgu3J"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274589,
+      "name": "T\u00ecm Em (feat. B\u1ea3o Anh)",
+      "url": "https://open.spotify.com/track/6ELX356o21U28T73ZxruUj"
+    },
+    {
+      "album": {
         "name": "T\u00ecnh Y\u00eau Ng\u1ee7 Qu\u00ean",
         "url": "https://open.spotify.com/album/4zrlMRfQ6NxqK6JvpxeTwj"
       },
@@ -746,6 +808,24 @@
       "duration_ms": 177600,
       "name": "T\u00ecnh Y\u00eau Ng\u1ee7 Qu\u00ean",
       "url": "https://open.spotify.com/track/2MjpqyEA73TzenhDmj0RFN"
+    },
+    {
+      "album": {
+        "name": "T\u1eeb \u0110\u1ea7u",
+        "url": "https://open.spotify.com/album/5ta4BkE2WfbV50RZi5Ziiy"
+      },
+      "artists": [
+        {
+          "name": "Chillies",
+          "url": "https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309677,
+      "name": "T\u1eeb \u0110\u1ea7u",
+      "url": "https://open.spotify.com/track/7AAnw2xzxKplhRa0nCpM9i"
     },
     {
       "album": {

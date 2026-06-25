@@ -1,6 +1,6 @@
 {
   "description": "Die Playlist zur Wasserpfeife. Cover: RAF Camora",
-  "num_followers": 911699,
+  "num_followers": 911662,
   "original_name": "Shisha Club",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "AAAAAEEnD10PYV8rEVG9LKzPTs3Plie+",
   "tracks": [
+    {
+      "added_at": "2026-06-11 22:00:49",
+      "album": {
+        "name": "Rien 100 Rien",
+        "url": "https://open.spotify.com/album/2GLuHlc49dJKY8yzxUZb8p"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Sous la lune",
+      "url": "https://open.spotify.com/track/6hKkzk8UlVUj9ioPCyeH1O"
+    },
     {
       "added_at": "2026-06-11 22:00:49",
       "album": {
@@ -35,22 +51,6 @@
     {
       "added_at": "2026-06-11 22:00:49",
       "album": {
-        "name": "Rien 100 Rien",
-        "url": "https://open.spotify.com/album/2GLuHlc49dJKY8yzxUZb8p"
-      },
-      "artists": [
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Sous la lune",
-      "url": "https://open.spotify.com/track/6hKkzk8UlVUj9ioPCyeH1O"
-    },
-    {
-      "added_at": "2026-06-11 22:00:49",
-      "album": {
         "name": "KILLY MANJARO",
         "url": "https://open.spotify.com/album/2iYCjwIYCULB69wNmigHlg"
       },
@@ -71,22 +71,22 @@
     {
       "added_at": "2026-06-11 22:00:49",
       "album": {
-        "name": "Vermisse",
-        "url": "https://open.spotify.com/album/0MyJNG4dGUzXMOKRHQ20OB"
+        "name": "CDY",
+        "url": "https://open.spotify.com/album/3uR81H1Std9NSoYDYRiHi5"
       },
       "artists": [
         {
-          "name": "Dardan",
-          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+          "name": "LACAZETTE",
+          "url": "https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE"
         },
         {
-          "name": "Azet",
-          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
         }
       ],
-      "duration_ms": 154653,
-      "name": "Vermisse",
-      "url": "https://open.spotify.com/track/0DAe8XAFqCfdL2F649pgN0"
+      "duration_ms": 139431,
+      "name": "CDY",
+      "url": "https://open.spotify.com/track/6BRGGHydYjs2xpSjw8Dwx7"
     },
     {
       "added_at": "2026-06-11 22:00:49",
@@ -107,22 +107,22 @@
     {
       "added_at": "2026-06-11 22:00:49",
       "album": {
-        "name": "CDY",
-        "url": "https://open.spotify.com/album/3uR81H1Std9NSoYDYRiHi5"
+        "name": "Vermisse",
+        "url": "https://open.spotify.com/album/0MyJNG4dGUzXMOKRHQ20OB"
       },
       "artists": [
         {
-          "name": "LACAZETTE",
-          "url": "https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE"
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
         },
         {
-          "name": "Jazeek",
-          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
         }
       ],
-      "duration_ms": 139431,
-      "name": "CDY",
-      "url": "https://open.spotify.com/track/6BRGGHydYjs2xpSjw8Dwx7"
+      "duration_ms": 154653,
+      "name": "Vermisse",
+      "url": "https://open.spotify.com/track/0DAe8XAFqCfdL2F649pgN0"
     },
     {
       "added_at": "2026-06-11 22:00:49",
@@ -243,6 +243,22 @@
     {
       "added_at": "2026-06-11 22:00:49",
       "album": {
+        "name": "hotels & skylines",
+        "url": "https://open.spotify.com/album/45Y8d3ArBD3XPVrdYUfebt"
+      },
+      "artists": [
+        {
+          "name": "Lyno Nine8",
+          "url": "https://open.spotify.com/artist/6tsVNQekIFCnHgY0xrcCuh"
+        }
+      ],
+      "duration_ms": 138913,
+      "name": "hotels & skylines",
+      "url": "https://open.spotify.com/track/2aeC1sWpv4bTN61yadaHUk"
+    },
+    {
+      "added_at": "2026-06-11 22:00:49",
+      "album": {
         "name": "BRITNEY SPEARS",
         "url": "https://open.spotify.com/album/6MPAjfI5jiGaxj4mXXDvP1"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 165372,
       "name": "GHETTOGIRL",
       "url": "https://open.spotify.com/track/0G5x5rALxKOkwicMjKta79"
-    },
-    {
-      "added_at": "2026-06-11 22:00:49",
-      "album": {
-        "name": "hotels & skylines",
-        "url": "https://open.spotify.com/album/45Y8d3ArBD3XPVrdYUfebt"
-      },
-      "artists": [
-        {
-          "name": "Lyno Nine8",
-          "url": "https://open.spotify.com/artist/6tsVNQekIFCnHgY0xrcCuh"
-        }
-      ],
-      "duration_ms": 138913,
-      "name": "hotels & skylines",
-      "url": "https://open.spotify.com/track/2aeC1sWpv4bTN61yadaHUk"
     },
     {
       "added_at": "2026-06-11 22:00:49",
@@ -595,18 +595,22 @@
     {
       "added_at": "2026-06-11 22:00:49",
       "album": {
-        "name": "PIANO REEZ (SRT)",
-        "url": "https://open.spotify.com/album/4DwlD841aeDpBPFZwMTN5J"
+        "name": "Lamborghini",
+        "url": "https://open.spotify.com/album/6TBlaJHOuP8FJGmGf53vsr"
       },
       "artists": [
         {
-          "name": "reezy",
-          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+          "name": "Baby B3ns",
+          "url": "https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP"
+        },
+        {
+          "name": "Lucio101",
+          "url": "https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv"
         }
       ],
-      "duration_ms": 147721,
-      "name": "PIANO REEZ (SRT)",
-      "url": "https://open.spotify.com/track/1VQrgjJAcMg7tUwsw0N88n"
+      "duration_ms": 156340,
+      "name": "Lamborghini",
+      "url": "https://open.spotify.com/track/2RIcDd6QS6qQO5YPJ5lT9l"
     },
     {
       "added_at": "2026-06-11 22:00:49",
@@ -631,22 +635,18 @@
     {
       "added_at": "2026-06-11 22:00:49",
       "album": {
-        "name": "Lamborghini",
-        "url": "https://open.spotify.com/album/6TBlaJHOuP8FJGmGf53vsr"
+        "name": "PIANO REEZ (SRT)",
+        "url": "https://open.spotify.com/album/4DwlD841aeDpBPFZwMTN5J"
       },
       "artists": [
         {
-          "name": "Baby B3ns",
-          "url": "https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP"
-        },
-        {
-          "name": "Lucio101",
-          "url": "https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv"
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
         }
       ],
-      "duration_ms": 156340,
-      "name": "Lamborghini",
-      "url": "https://open.spotify.com/track/2RIcDd6QS6qQO5YPJ5lT9l"
+      "duration_ms": 147721,
+      "name": "PIANO REEZ (SRT)",
+      "url": "https://open.spotify.com/track/1VQrgjJAcMg7tUwsw0N88n"
     },
     {
       "added_at": "2026-06-11 22:00:49",
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-06-11 22:00:49",
       "album": {
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/5C1Sd7q6rTVcgBTb8ObWEg"
+      },
+      "artists": [
+        {
+          "name": "FXNN",
+          "url": "https://open.spotify.com/artist/1s69iKSamRoX4hu3iwIhnR"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/4mGjBB9Kfn0Znah2TIlYNG"
+    },
+    {
+      "added_at": "2026-06-11 22:00:49",
+      "album": {
         "name": "art attack",
         "url": "https://open.spotify.com/album/3XbLYuBgtW5613hoxoOPUi"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 166896,
       "name": "art attack",
       "url": "https://open.spotify.com/track/5BlflGhvAxyr8dC8eoJ97Y"
-    },
-    {
-      "added_at": "2026-06-11 22:00:49",
-      "album": {
-        "name": "Nightmare",
-        "url": "https://open.spotify.com/album/5C1Sd7q6rTVcgBTb8ObWEg"
-      },
-      "artists": [
-        {
-          "name": "FXNN",
-          "url": "https://open.spotify.com/artist/1s69iKSamRoX4hu3iwIhnR"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "Nightmare",
-      "url": "https://open.spotify.com/track/4mGjBB9Kfn0Znah2TIlYNG"
     },
     {
       "added_at": "2026-06-11 22:00:49",
@@ -995,42 +995,6 @@
     {
       "added_at": "2026-06-11 22:00:49",
       "album": {
-        "name": "Show",
-        "url": "https://open.spotify.com/album/5RwUQCDLsWPGwtI4kBzcnj"
-      },
-      "artists": [
-        {
-          "name": "Farid Bang",
-          "url": "https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1"
-        },
-        {
-          "name": "Bobby Vandamme",
-          "url": "https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq"
-        }
-      ],
-      "duration_ms": 161146,
-      "name": "Show",
-      "url": "https://open.spotify.com/track/5GGScNcyGVQGjdkIxc8DfJ"
-    },
-    {
-      "added_at": "2026-06-11 22:00:49",
-      "album": {
-        "name": "Tr\u00e4nen",
-        "url": "https://open.spotify.com/album/7Hjp9ZAbijiLCUZ1pwcnsO"
-      },
-      "artists": [
-        {
-          "name": "Makar",
-          "url": "https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN"
-        }
-      ],
-      "duration_ms": 147730,
-      "name": "Tr\u00e4nen",
-      "url": "https://open.spotify.com/track/5fML3HUwuAgxkdRskh5apJ"
-    },
-    {
-      "added_at": "2026-06-11 22:00:49",
-      "album": {
         "name": "Playboys im AMG",
         "url": "https://open.spotify.com/album/352ocuWsww6xXPgUDmXFqq"
       },
@@ -1051,6 +1015,42 @@
       "duration_ms": 153175,
       "name": "Syt",
       "url": "https://open.spotify.com/track/4UxVPXznavq6dwRv9bro7G"
+    },
+    {
+      "added_at": "2026-06-11 22:00:49",
+      "album": {
+        "name": "Tr\u00e4nen",
+        "url": "https://open.spotify.com/album/7Hjp9ZAbijiLCUZ1pwcnsO"
+      },
+      "artists": [
+        {
+          "name": "Makar",
+          "url": "https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN"
+        }
+      ],
+      "duration_ms": 147730,
+      "name": "Tr\u00e4nen",
+      "url": "https://open.spotify.com/track/5fML3HUwuAgxkdRskh5apJ"
+    },
+    {
+      "added_at": "2026-06-11 22:00:49",
+      "album": {
+        "name": "Show",
+        "url": "https://open.spotify.com/album/5RwUQCDLsWPGwtI4kBzcnj"
+      },
+      "artists": [
+        {
+          "name": "Farid Bang",
+          "url": "https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1"
+        },
+        {
+          "name": "Bobby Vandamme",
+          "url": "https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq"
+        }
+      ],
+      "duration_ms": 161146,
+      "name": "Show",
+      "url": "https://open.spotify.com/track/5GGScNcyGVQGjdkIxc8DfJ"
     },
     {
       "added_at": "2026-06-11 22:00:49",

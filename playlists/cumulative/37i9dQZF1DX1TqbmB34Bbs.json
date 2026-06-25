@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Illest hardcore K-hip hop tracks are here. (Cover: Tray B) (\uacf5\uaca9\ub825 \uc0c1\uc2b9 \uad6d\ub0b4 \ud799\ud569\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "description": "Illest hardcore K-hip hop tracks are here. (Cover: 1300) (\uacf5\uaca9\ub825 \uc0c1\uc2b9 \uad6d\ub0b4 \ud799\ud569\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "K`illin'",
   "tracks": [
     {
@@ -3774,7 +3774,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 253927,
       "name": "BENTLEY 2",
       "url": "https://open.spotify.com/track/5moCmHqQCBe99MAUdCARVO"
@@ -6192,6 +6192,24 @@
       "duration_ms": 148615,
       "name": "Circle Mind (feat. Dbo)",
       "url": "https://open.spotify.com/track/32aPXAGrLPmZahHtGMw4r6"
+    },
+    {
+      "album": {
+        "name": "clear out the room",
+        "url": "https://open.spotify.com/album/0hxMEdWolujsfpXAHEPGcY"
+      },
+      "artists": [
+        {
+          "name": "1300",
+          "url": "https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179561,
+      "name": "clear out the room",
+      "url": "https://open.spotify.com/track/61C9oLlD9mo78jLNpyMfVT"
     },
     {
       "album": {

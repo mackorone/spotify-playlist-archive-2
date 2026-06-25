@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Philippines](https://open.spotify.com/playlist/37i9dQZF1DXd41OiKoLJY1)
 
-> The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: \[S3AN\]\. Artwork: Isu Kim.
+> The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: \[Camille de la Cruz\]\. Artwork: Isu Kim.
 
-4,102 songs - 9 day 23 hr 33 min
+4,107 songs - 9 day 23 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -470,6 +470,7 @@
 | [Bedtime](https://open.spotify.com/track/5qbKGWlYgZp1Ktrk7yj70r) | [YXE](https://open.spotify.com/artist/3IIFJXZD7qzQ3rvVsMAgZW) | [Bedtime](https://open.spotify.com/album/6zLVNXqHFcCYxC7qGnkPKr) | 3:18 | 2024-08-01 | 2024-08-30 |
 | [BEFORE](https://open.spotify.com/track/5663tCK5zvF5630ocSxvOR) | [BenPlayssuuu](https://open.spotify.com/artist/2rKAMFopIecOV8vIjxvtjR), [Ikia](https://open.spotify.com/artist/20LA2dbkmH1dkEhd3AClRV) | [BEFORE](https://open.spotify.com/album/307ZX9LjP5GhTmgT9kcBXF) | 1:47 | 2026-03-05 | 2026-05-07 |
 | [Before You Leave My Heart](https://open.spotify.com/track/4SGJXiT5oEXsLCusmpS849) | [ANNA](https://open.spotify.com/artist/0kdRq6M9xM5QIw0NIfyEHN) | [Before You Leave My Heart](https://open.spotify.com/album/0eEAS5alAozUiNulHgx5bm) | 4:06 | 2022-01-27 | 2022-03-11 |
+| [Before You Left](https://open.spotify.com/track/6Bn2bgzn1Ak410q7AC6qBc) | [Camille de la Cruz](https://open.spotify.com/artist/19unJ2tL7xGtVAZ8XIyTqi) | [Before You Left](https://open.spotify.com/album/55klWigmxBqw3IRJia30z3) | 2:24 | 2026-06-24 |  |
 | [Beh Buti Nga](https://open.spotify.com/track/7AWuMFHjEfYF2BllheN74E) | [Kahel](https://open.spotify.com/artist/2en1UzOP6taB2wxIFQzULa) | [Beh Buti Nga](https://open.spotify.com/album/2L7jssqmRHM0COEiz4Ouxd) | 4:43 | 2025-01-23 | 2026-01-15 |
 | [Believe](https://open.spotify.com/track/2QjKqLxt5LhpWaLUGYIm4I) | [SK!D](https://open.spotify.com/artist/44IMSufMeFgCqrPpBTI9Di), [ALMZC](https://open.spotify.com/artist/2fNSYQe6Yqu5XgczlRC3vJ) | [Believe](https://open.spotify.com/album/6Eef0Ey4Y56yq9ZACjN3dv) | 2:53 | 2023-05-25 | 2023-06-09 |
 | [BENG](https://open.spotify.com/track/5fmbFpIzbZN6zv0mbnxFzd) | [FuMi](https://open.spotify.com/artist/5z1u78f6Cbmiewkon0fPyT) | [BENG](https://open.spotify.com/album/6gUW9sc4mUuBsAEtRevrrN) | 3:02 | 2024-06-13 | 2024-07-12 |
@@ -1126,6 +1127,7 @@
 | [Fla\-high](https://open.spotify.com/track/5rtTC2UX3xKHWdgy3c5to8) | [SK!D](https://open.spotify.com/artist/44IMSufMeFgCqrPpBTI9Di), [Louie Grammz](https://open.spotify.com/artist/0BB8aL0LTCZqyhOmahbE3N) | [Fla\-high](https://open.spotify.com/album/0MMgKu3lbnTv7NNEGIzPmN) | 3:01 | 2024-01-11 | 2024-02-16 |
 | [Flaming\-Go](https://open.spotify.com/track/6Grq0MkTlyMlfClIKAkyNs) | [Marco Trov](https://open.spotify.com/artist/6VLsFA3b3ajdxweTYhBMY3) | [Flaming\-Go](https://open.spotify.com/album/6jc15WNCb7VJ0v5TOZ9bds) | 2:18 | 2025-10-09 | 2025-12-04 |
 | [FLAVOR](https://open.spotify.com/track/7csQ7bFwmd7bxfRYlrbvDD) | [Paul Lagac](https://open.spotify.com/artist/3d1qSFaTvaYV49M9eLRmK0), [drmfy](https://open.spotify.com/artist/4hsyXkZRXr0zZ8WNQAJnhp) | [FLAVOR](https://open.spotify.com/album/16HwJGpyFGQeeDL826mu2Q) | 2:37 | 2023-02-23 | 2023-03-10 |
+| [Flawless](https://open.spotify.com/track/5wj44QtOXYjckQ1tN9Ni1t) | [Stef Aranas](https://open.spotify.com/artist/741S9vc1M279OomvdEsFhg) | [Flawless](https://open.spotify.com/album/0yT8gfZN8oAfAvR2jzKtDj) | 3:09 | 2026-06-24 |  |
 | [Flawless Love](https://open.spotify.com/track/0hXv5U4bviTTzFCHOy7E3x) | [Martin Venegas](https://open.spotify.com/artist/6cLHzuqXfCxpQIhD37qHJu) | [Flawless Love](https://open.spotify.com/album/1O9nUyTnTCj4soscLG7O9O) | 4:05 | 2022-06-02 | 2022-08-20 |
 | [FLAY](https://open.spotify.com/track/3j0Xz15BTG0483XbsbUau6) | [Brad Louisee](https://open.spotify.com/artist/1aWmfjamyyqLlGg0h9EX8K) | [FLAY](https://open.spotify.com/album/6BsogK16EhCQpsVilxNfPx) | 3:41 | 2024-06-27 | 2024-07-27 |
 | [Flirt](https://open.spotify.com/track/5OskTLTEqwyDW2rBpfALQ8) | [YXE](https://open.spotify.com/artist/3IIFJXZD7qzQ3rvVsMAgZW) | [Flirt](https://open.spotify.com/album/7HSTbXX6gBsYkaZM4n8baY) | 3:33 | 2022-01-27 | 2022-02-11 |
@@ -1651,6 +1653,7 @@
 | [Ikaw At Ako](https://open.spotify.com/track/75YwfNljcrS2B8RzbKLpLc) | [Stan Tan](https://open.spotify.com/artist/4duhsBPQoYg4a0uvyKvBhH) | [Ikaw At Ako](https://open.spotify.com/album/57nI5WGuXPO2TGAIQSGlkN) | 4:00 | 2024-06-13 | 2024-07-05 |
 | [Ikaw Lamang](https://open.spotify.com/track/4dgtdxkDwu59CKRPBSgBZf) | [Jeffrey Querubin](https://open.spotify.com/artist/6af6ThbIjS7M2ahGkrnukn) | [Ikaw Lamang](https://open.spotify.com/album/06jiIRH4Gi5ZyYLH6S7pV6) | 3:43 | 2025-04-03 | 2026-01-15 |
 | [Ikaw Lang](https://open.spotify.com/track/1sw2RbDNpOegThRyfdwKlQ) | [BLuNaYr](https://open.spotify.com/artist/4kWMODPErY3MCRSrTT3Q9n), [Kunnns](https://open.spotify.com/artist/1J1FQYm0uU36C7ngGcHszH) | [Ikaw Lang](https://open.spotify.com/album/1NYzfCuvNJ6JPs7DH0zamK) | 2:49 | 2024-01-11 | 2024-02-09 |
+| [ikaw lang ang bossing ko](https://open.spotify.com/track/314IQcUw9Ge5iWScZFiYq0) | [neytan](https://open.spotify.com/artist/2SiPvwfKYm1TANEo8F0zyT) | [ikaw lang ang bossing ko](https://open.spotify.com/album/4guaa8LYGnFvSabu4GUpu6) | 4:48 | 2026-06-24 |  |
 | [Ikaw Lang Ang Gusto](https://open.spotify.com/track/48qIwt8huuDLwOF3ANlmlo) | [KIDLAT](https://open.spotify.com/artist/3mhAXcHF1oLXDtoJDHYWmQ) | [Ikaw Lang Ang Gusto](https://open.spotify.com/album/7d5qsldxkIkHaGORn0LEYC) | 4:21 | 2026-03-05 | 2026-05-07 |
 | [Ikaw Lang Ang Hiling](https://open.spotify.com/track/5MccMZfBNSfVgMJRU4XTIs) | [brei](https://open.spotify.com/artist/4wbdkRQc3d2yVkT68rMrOi) | [Ikaw Lang Ang Hiling](https://open.spotify.com/album/6Jl3GdM2eYHtpkV1M38yru) | 3:48 | 2025-11-13 | 2026-02-06 |
 | [Ikaw Lang Talaga](https://open.spotify.com/track/0zGENX2kS4nUfjx6gHwOMF) | [NaÏV](https://open.spotify.com/artist/09UWVORoWNvb4g6A4CBDuF) | [Ikaw Lang Talaga](https://open.spotify.com/album/0xawU7fujEARx6dERwfco3) | 3:40 | 2024-02-22 | 2024-03-22 |
@@ -2415,6 +2418,7 @@
 | [Muli](https://open.spotify.com/track/7F3EgtpZ6PBMTNm4q42fiO) | [Kade.](https://open.spotify.com/artist/67c67s2gF7grLnIFt3Uqd4) | [Muli](https://open.spotify.com/album/7FOxEuFJP4M4G7B4qY0YCt) | 3:17 | 2022-05-05 | 2022-07-01 |
 | [Muli Sa Tag\-Ulan](https://open.spotify.com/track/6qU74pydWboqkbiilAua55) | [BrokenString](https://open.spotify.com/artist/3UaeOwi1z7X8ZNFU0iXBGC) | [Muli Sa Tag\-Ulan](https://open.spotify.com/album/3PPp8f42YRV19KlQ3XJiEf) | 4:10 | 2023-11-09 | 2023-12-09 |
 | [Mundo](https://open.spotify.com/track/0DUCmYEcRaIVReOV8HJEhx) | [YFJHAY](https://open.spotify.com/artist/6SygNpCWRSxpnGq5LXNt9q) | [Mixed Emotions](https://open.spotify.com/album/0MqdEayF1uW80WVNivlCmF) | 2:55 | 2023-02-23 | 2023-03-03 |
+| [Muntikan](https://open.spotify.com/track/4Y4hZxwU3WXfydWoUZs3FO) | [Doughbaby](https://open.spotify.com/artist/2R7aG4RRGoFpgMAf8Iuz4T) | [Scribble List of Feelings](https://open.spotify.com/album/3DO9cdydSijTcCDzfwDHTb) | 4:33 | 2026-06-24 |  |
 | [Muntikan Na \(feat\. Faye Yupano\)](https://open.spotify.com/track/0W3TKZ5k3nFqIYoCGEMQT1) | [Debonair District](https://open.spotify.com/artist/2VuzHoCgTuDlkmStBfz1XI), [Faye Yupano](https://open.spotify.com/artist/18b7zvfnzcWPz7SM7VJfQU) | [Muntikan Na \(feat\. Faye Yupano\)](https://open.spotify.com/album/3CwfOJjfCsiI5szNOIF8Rr) | 5:03 | 2023-02-09 | 2023-02-24 |
 | [Munting Hiling](https://open.spotify.com/track/0y0wwvz7vUPlxLMbSCPUBN) | [Melissa Corpus](https://open.spotify.com/artist/0gju7dDWpRtQTmqAl8IH5x), [Arjie King](https://open.spotify.com/artist/3eYWchZEKh8C4alSP0zmB1) | [Munting Hiling](https://open.spotify.com/album/0dhnEzK0Fw4PUPd7AtbN29) | 4:45 | 2022-03-31 | 2022-05-06 |
 | [Musika](https://open.spotify.com/track/73RxL6qi0jLOrsrZ1d79FJ) | [Cisco](https://open.spotify.com/artist/1hQJe9CyAmPBXJ8Cz0Krnq), [Dang](https://open.spotify.com/artist/18cDbc4rGk1aD0i2sqqpZh) | [Musika](https://open.spotify.com/album/5o6Drk9VEI4i5KUekh3ZP9) | 3:12 | 2025-03-27 | 2025-05-23 |
@@ -2616,6 +2620,7 @@
 | [Once](https://open.spotify.com/track/0cNU8rmtPjdwVQ5JurnB4U) | [Chris Cantada Force](https://open.spotify.com/artist/5ubeV5kSMrVqdelpI3LlMw) | [Once](https://open.spotify.com/album/3BKCMFho1Eib4qpCTRrZmk) | 3:03 | 2024-05-23 | 2025-01-17 |
 | [One in a Billion](https://open.spotify.com/track/17Bw70x4dGtq05lx1shKlt) | [Peter Miranda](https://open.spotify.com/artist/1LdJBVApsCM3MAXqVh6wuF) | [One in a Billion](https://open.spotify.com/album/5j0yPg9DzYXs6P07fayT5H) | 2:36 | 2025-10-23 | 2025-12-04 |
 | [One Life](https://open.spotify.com/track/33wcKo6iuDjREEwdTzghh7) | [Mica Javier](https://open.spotify.com/artist/1fwxng0bfmgRfzdutglXEa) | [One Life](https://open.spotify.com/album/77TA6N7h6qJRzfllTYuB8p) | 2:45 | 2024-08-23 | 2025-01-17 |
+| [ONE MAN DOLO](https://open.spotify.com/track/4S9QJQe3TmlQWApkWK4XgA) | [Nuelo Racks](https://open.spotify.com/artist/1DK0SBKpJRtTK3xpD2uumy) | [ONE MAN DOLO](https://open.spotify.com/album/3eWVwNtrnzH1d9lkQWX3vN) | 2:49 | 2026-06-24 |  |
 | [One More](https://open.spotify.com/track/1e6wzwHu1Gl9rx46EppHSX) | [DAZE](https://open.spotify.com/artist/0jts7PajizS8WEOylLO1b6) | [One More](https://open.spotify.com/album/21rHkFRX8t2ed0f4hGouFE) | 2:14 | 2024-08-23 | 2024-09-20 |
 | [One More Chance](https://open.spotify.com/track/3CnN7SUB01NbB1PSTbBJgJ) | [Schumi](https://open.spotify.com/artist/0FbygDeAj1BryQmwC1bOJq), [Shawn Cal](https://open.spotify.com/artist/7IzfFpBcGIPYCxeCGdO8XT), [hezo](https://open.spotify.com/artist/2rvT533SzeP7uvRe5oNRNC) | [One More Chance](https://open.spotify.com/album/0GiwXR6WZ03MuB6tCuZlWz) | 3:55 | 2025-10-02 | 2025-12-04 |
 | [One night](https://open.spotify.com/track/3KaVG6Ygzl8AGyQFpiNZTV) | [King Murph](https://open.spotify.com/artist/5GskChFEdkaoBxhzSQRKsG), [Fritzie](https://open.spotify.com/artist/7gTIW4HEdX5UDO0gXyOGV4), [Lyka B](https://open.spotify.com/artist/6yZkoXDZ5YHVXljE3GEdy6) | [One night](https://open.spotify.com/album/0UxlTYP37ZWylyNBw44414) | 3:51 | 2023-06-08 | 2023-06-23 |

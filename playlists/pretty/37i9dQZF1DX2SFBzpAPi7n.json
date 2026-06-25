@@ -1,6 +1,6 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: can't be blue) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 250822,
+  "num_followers": 250804,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-06-20 14:31:00",
       "album": {
-        "name": "4th Mini Album 'CEREMONY'",
-        "url": "https://open.spotify.com/album/22TsuaiFzj7i9cIKFwKdyI"
-      },
-      "artists": [
-        {
-          "name": "QWER",
-          "url": "https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy"
-        }
-      ],
-      "duration_ms": 196607,
-      "name": "CEREMONY",
-      "url": "https://open.spotify.com/track/7CoEOvI85tbkhdgJRd8XfC"
-    },
-    {
-      "added_at": "2026-06-20 14:31:00",
-      "album": {
         "name": "JAMONG SALGU CLUB",
         "url": "https://open.spotify.com/album/2DV7iVJ7L5DRQijgjyqLyQ"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 300786,
       "name": "Event Horizon",
       "url": "https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9"
+    },
+    {
+      "added_at": "2026-06-20 14:31:00",
+      "album": {
+        "name": "4th Mini Album 'CEREMONY'",
+        "url": "https://open.spotify.com/album/22TsuaiFzj7i9cIKFwKdyI"
+      },
+      "artists": [
+        {
+          "name": "QWER",
+          "url": "https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy"
+        }
+      ],
+      "duration_ms": 196607,
+      "name": "CEREMONY",
+      "url": "https://open.spotify.com/track/7CoEOvI85tbkhdgJRd8XfC"
     },
     {
       "added_at": "2026-06-20 14:31:00",
@@ -711,18 +711,18 @@
     {
       "added_at": "2026-06-20 14:31:00",
       "album": {
-        "name": "LOVE&HATE",
-        "url": "https://open.spotify.com/album/5lOdOxNDjxelMZ7PJSZB6G"
+        "name": "EXchange4, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2I17RyVqyk6yJgj3SF4T0T"
       },
       "artists": [
         {
-          "name": "HANRORO",
-          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
         }
       ],
-      "duration_ms": 197000,
-      "name": "GAME OVER ?",
-      "url": "https://open.spotify.com/track/3Ce7m66BjXf97IDrvUVGbP"
+      "duration_ms": 185000,
+      "name": "Ruin My Life",
+      "url": "https://open.spotify.com/track/1VXv0ltyTJWcRltuEf5Qin"
     },
     {
       "added_at": "2026-06-20 14:31:00",
@@ -743,18 +743,18 @@
     {
       "added_at": "2026-06-20 14:31:00",
       "album": {
-        "name": "EXchange4, Pt. 1 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/2I17RyVqyk6yJgj3SF4T0T"
+        "name": "LOVE&HATE",
+        "url": "https://open.spotify.com/album/5lOdOxNDjxelMZ7PJSZB6G"
       },
       "artists": [
         {
-          "name": "BOYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
         }
       ],
-      "duration_ms": 185000,
-      "name": "Ruin My Life",
-      "url": "https://open.spotify.com/track/1VXv0ltyTJWcRltuEf5Qin"
+      "duration_ms": 197000,
+      "name": "GAME OVER ?",
+      "url": "https://open.spotify.com/track/3Ce7m66BjXf97IDrvUVGbP"
     },
     {
       "added_at": "2026-06-20 14:31:00",

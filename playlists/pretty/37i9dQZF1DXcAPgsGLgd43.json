@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb featuring Miluhska",
-  "num_followers": 118858,
+  "num_followers": 118893,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1359,6 +1359,26 @@
     {
       "added_at": "2026-06-19 04:01:24",
       "album": {
+        "name": "Coroa",
+        "url": "https://open.spotify.com/album/2VyoPPR34XZhvgzEqSVQ6a"
+      },
+      "artists": [
+        {
+          "name": "JOHN ELLE",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+        },
+        {
+          "name": "Jes\u00fas Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum"
+        }
+      ],
+      "duration_ms": 136088,
+      "name": "Coroa",
+      "url": "https://open.spotify.com/track/7tgVdw3YmgZe2JyFHxpmq3"
+    },
+    {
+      "added_at": "2026-06-19 04:01:24",
+      "album": {
         "name": "Ta Sendo",
         "url": "https://open.spotify.com/album/1U5VUUBn4JpuEIgUyfHYs8"
       },
@@ -1379,26 +1399,6 @@
       "duration_ms": 203809,
       "name": "Ta Sendo",
       "url": "https://open.spotify.com/track/4HkEvRh46mXU9ZTIW8uhvx"
-    },
-    {
-      "added_at": "2026-06-19 04:01:24",
-      "album": {
-        "name": "Coroa",
-        "url": "https://open.spotify.com/album/2VyoPPR34XZhvgzEqSVQ6a"
-      },
-      "artists": [
-        {
-          "name": "JOHN ELLE",
-          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
-        },
-        {
-          "name": "Jes\u00fas Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum"
-        }
-      ],
-      "duration_ms": 136088,
-      "name": "Coroa",
-      "url": "https://open.spotify.com/track/7tgVdw3YmgZe2JyFHxpmq3"
     },
     {
       "added_at": "2026-06-19 04:01:24",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2026-06-19 04:01:24",
       "album": {
+        "name": "Marrakesh",
+        "url": "https://open.spotify.com/album/4JFwSZw2uFMTjI7eCtUJ4y"
+      },
+      "artists": [
+        {
+          "name": "JOHN ELLE",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+        }
+      ],
+      "duration_ms": 142258,
+      "name": "Marrakesh",
+      "url": "https://open.spotify.com/track/6RsuW9DXFOVgdoPycLIKqS"
+    },
+    {
+      "added_at": "2026-06-19 04:01:24",
+      "album": {
         "name": "Cuando Te Veo",
         "url": "https://open.spotify.com/album/5v4xJxxhOVXof3Qtk8Vh0e"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 223731,
       "name": "Cuando Te Veo",
       "url": "https://open.spotify.com/track/1Pv8HWSBMiKmeRWnq1ZzeH"
-    },
-    {
-      "added_at": "2026-06-19 04:01:24",
-      "album": {
-        "name": "Marrakesh",
-        "url": "https://open.spotify.com/album/4JFwSZw2uFMTjI7eCtUJ4y"
-      },
-      "artists": [
-        {
-          "name": "JOHN ELLE",
-          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
-        }
-      ],
-      "duration_ms": 142258,
-      "name": "Marrakesh",
-      "url": "https://open.spotify.com/track/6RsuW9DXFOVgdoPycLIKqS"
     },
     {
       "added_at": "2026-06-19 04:01:24",
@@ -1679,30 +1679,6 @@
     {
       "added_at": "2026-06-19 04:01:24",
       "album": {
-        "name": "Morenita",
-        "url": "https://open.spotify.com/album/1tVe5NkJfNSwnEArPYH5Yr"
-      },
-      "artists": [
-        {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
-        },
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "Paradise Inc.",
-          "url": "https://open.spotify.com/artist/67vOeDGgGxBetc1ckJH6Ka"
-        }
-      ],
-      "duration_ms": 178816,
-      "name": "Morenita",
-      "url": "https://open.spotify.com/track/76UOMh4rQocYNavvGLgGiw"
-    },
-    {
-      "added_at": "2026-06-19 04:01:24",
-      "album": {
         "name": "Bandolera",
         "url": "https://open.spotify.com/album/5GwGA7XXx9mjUISFnkk7Bp"
       },
@@ -1739,6 +1715,30 @@
     {
       "added_at": "2026-06-19 04:01:24",
       "album": {
+        "name": "Morenita",
+        "url": "https://open.spotify.com/album/1tVe5NkJfNSwnEArPYH5Yr"
+      },
+      "artists": [
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        },
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Paradise Inc.",
+          "url": "https://open.spotify.com/artist/67vOeDGgGxBetc1ckJH6Ka"
+        }
+      ],
+      "duration_ms": 178816,
+      "name": "Morenita",
+      "url": "https://open.spotify.com/track/76UOMh4rQocYNavvGLgGiw"
+    },
+    {
+      "added_at": "2026-06-19 04:01:24",
+      "album": {
         "name": "Mi Gentee EP",
         "url": "https://open.spotify.com/album/6RStukcwjW3DzS9eR9BJKG"
       },
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2026-06-19 04:01:24",
       "album": {
-        "name": "Que Calor, Que Calor",
-        "url": "https://open.spotify.com/album/30PS8JTib0xrnYojz7SDXU"
-      },
-      "artists": [
-        {
-          "name": "MESTIZA",
-          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
-        }
-      ],
-      "duration_ms": 199354,
-      "name": "Que Calor, Que Calor",
-      "url": "https://open.spotify.com/track/7x3EL6oSsGBoNjBRvwCAvU"
-    },
-    {
-      "added_at": "2026-06-19 04:01:24",
-      "album": {
         "name": "PAPI",
         "url": "https://open.spotify.com/album/5FomfAbIMMLUIfe9fTQi9A"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 155100,
       "name": "PAPI",
       "url": "https://open.spotify.com/track/4CGGFdzBK2fp8QN9GxWwia"
+    },
+    {
+      "added_at": "2026-06-19 04:01:24",
+      "album": {
+        "name": "Que Calor, Que Calor",
+        "url": "https://open.spotify.com/album/30PS8JTib0xrnYojz7SDXU"
+      },
+      "artists": [
+        {
+          "name": "MESTIZA",
+          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
+        }
+      ],
+      "duration_ms": 199354,
+      "name": "Que Calor, Que Calor",
+      "url": "https://open.spotify.com/track/7x3EL6oSsGBoNjBRvwCAvU"
     },
     {
       "added_at": "2026-06-19 04:01:24",
@@ -1839,22 +1839,6 @@
       "duration_ms": 180000,
       "name": "Matadora - Radio Edit",
       "url": "https://open.spotify.com/track/0kIIoDPOIges2ZRGZIc6YC"
-    },
-    {
-      "added_at": "2026-06-19 04:01:24",
-      "album": {
-        "name": "Kiki",
-        "url": "https://open.spotify.com/album/3O3z1T3hEIwrXl5ED0gViH"
-      },
-      "artists": [
-        {
-          "name": "Crusy",
-          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
-        }
-      ],
-      "duration_ms": 180109,
-      "name": "Kiki",
-      "url": "https://open.spotify.com/track/7qpHYfkq07k5LhAT1eqCsL"
     },
     {
       "added_at": "2026-06-19 04:01:24",
@@ -1903,6 +1887,22 @@
     {
       "added_at": "2026-06-19 04:01:24",
       "album": {
+        "name": "Kiki",
+        "url": "https://open.spotify.com/album/3O3z1T3hEIwrXl5ED0gViH"
+      },
+      "artists": [
+        {
+          "name": "Crusy",
+          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
+        }
+      ],
+      "duration_ms": 180109,
+      "name": "Kiki",
+      "url": "https://open.spotify.com/track/7qpHYfkq07k5LhAT1eqCsL"
+    },
+    {
+      "added_at": "2026-06-19 04:01:24",
+      "album": {
         "name": "Oye Manita",
         "url": "https://open.spotify.com/album/1c7WyeBcYxMaSBwz4isThL"
       },
@@ -1947,6 +1947,30 @@
     {
       "added_at": "2026-06-19 04:01:24",
       "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/49WSoPCFjeCJPcLxkyYrrI"
+      },
+      "artists": [
+        {
+          "name": "Danny Roma x Manrix",
+          "url": "https://open.spotify.com/artist/4spGf6fGY8RvGeM5hzFEF1"
+        },
+        {
+          "name": "CAVALLI",
+          "url": "https://open.spotify.com/artist/3uNSAoHkmTzDxc369XtOv4"
+        },
+        {
+          "name": "Lina Torres",
+          "url": "https://open.spotify.com/artist/5xX3HNmF1nGeWuaTbbadM1"
+        }
+      ],
+      "duration_ms": 152903,
+      "name": "Vida",
+      "url": "https://open.spotify.com/track/7Jy94rhQOwizzFMRop4xBc"
+    },
+    {
+      "added_at": "2026-06-19 04:01:24",
+      "album": {
         "name": "La Buena Vida (feat. Tayson Kryss)",
         "url": "https://open.spotify.com/album/2HIc2AaPKvkU6APeLBwN0T"
       },
@@ -1971,30 +1995,6 @@
       "duration_ms": 137963,
       "name": "La Buena Vida (feat. Tayson Kryss)",
       "url": "https://open.spotify.com/track/0VpQieuQ6vS00yknO16eGy"
-    },
-    {
-      "added_at": "2026-06-19 04:01:24",
-      "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/49WSoPCFjeCJPcLxkyYrrI"
-      },
-      "artists": [
-        {
-          "name": "Danny Roma x Manrix",
-          "url": "https://open.spotify.com/artist/4spGf6fGY8RvGeM5hzFEF1"
-        },
-        {
-          "name": "CAVALLI",
-          "url": "https://open.spotify.com/artist/3uNSAoHkmTzDxc369XtOv4"
-        },
-        {
-          "name": "Lina Torres",
-          "url": "https://open.spotify.com/artist/5xX3HNmF1nGeWuaTbbadM1"
-        }
-      ],
-      "duration_ms": 152903,
-      "name": "Vida",
-      "url": "https://open.spotify.com/track/7Jy94rhQOwizzFMRop4xBc"
     },
     {
       "added_at": "2026-06-19 04:01:24",

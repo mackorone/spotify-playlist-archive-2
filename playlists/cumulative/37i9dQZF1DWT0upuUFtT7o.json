@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new indie tracks from independent artists & labels. Cover: Rian Brazil",
+  "description": "The best new indie tracks from independent artists & labels. Cover: @",
   "name": "Fresh Finds Indie",
   "tracks": [
     {
@@ -4893,6 +4893,24 @@
     },
     {
       "album": {
+        "name": "Autosmile",
+        "url": "https://open.spotify.com/album/0TkVOCI5fcQPt6mbFT2jil"
+      },
+      "artists": [
+        {
+          "name": "@",
+          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399026,
+      "name": "Autosmile",
+      "url": "https://open.spotify.com/track/74wiS51Xagi78GpoStA7hr"
+    },
+    {
+      "album": {
         "name": "Autumn",
         "url": "https://open.spotify.com/album/19DXkTkkhbA8pNJuqexbXJ"
       },
@@ -9264,7 +9282,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 167315,
       "name": "brave2",
       "url": "https://open.spotify.com/track/65Lfg7gOR3BZQzVD4d7JJY"
@@ -14332,7 +14350,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 210000,
       "name": "Cut and Dry",
       "url": "https://open.spotify.com/track/57m7ws7xQ6XSdOfU9w92D5"
@@ -18079,6 +18097,24 @@
     },
     {
       "album": {
+        "name": "Election Day",
+        "url": "https://open.spotify.com/album/2FHIOpt9YhcfoMvi4LsjCk"
+      },
+      "artists": [
+        {
+          "name": "Lily Seabird",
+          "url": "https://open.spotify.com/artist/1ZIjaMq0dyU2CZaI6GFxBd"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284346,
+      "name": "Election Day",
+      "url": "https://open.spotify.com/track/14bE8Ti7Nk7MNLrTmKs13m"
+    },
+    {
+      "album": {
         "name": "Electric Nights",
         "url": "https://open.spotify.com/album/0PJOzuaH6GMDY3WGB1QJqD"
       },
@@ -19328,7 +19364,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 177000,
       "name": "FALLINFORU",
       "url": "https://open.spotify.com/track/2eOK6VYIsnUsOvTTkEcZkJ"
@@ -24941,6 +24977,24 @@
     },
     {
       "album": {
+        "name": "guitarsonG",
+        "url": "https://open.spotify.com/album/2qw12lKu7NjUCUi0Ne3RZL"
+      },
+      "artists": [
+        {
+          "name": "Marc.net",
+          "url": "https://open.spotify.com/artist/4z0gLrvnr59tgbaluEOtZH"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "guitarsonG",
+      "url": "https://open.spotify.com/track/1r6bs2UKpMimp9g076FUTc"
+    },
+    {
+      "album": {
         "name": "GUM",
         "url": "https://open.spotify.com/album/6k71hERXkElU1ToOmUqntU"
       },
@@ -28354,6 +28408,24 @@
       "duration_ms": 211250,
       "name": "Hysterical",
       "url": "https://open.spotify.com/track/7sm3rjniGkoRTKzLlIakj6"
+    },
+    {
+      "album": {
+        "name": "I <3 You",
+        "url": "https://open.spotify.com/album/1TnELmd9snfmrRmxse8NX0"
+      },
+      "artists": [
+        {
+          "name": "Love Egg",
+          "url": "https://open.spotify.com/artist/5QNhVWZXwIZEHUQWbLG2yr"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122560,
+      "name": "I <3 You",
+      "url": "https://open.spotify.com/track/658hxdysZypt05ifU1ox26"
     },
     {
       "album": {
@@ -33297,6 +33369,24 @@
     },
     {
       "album": {
+        "name": "Kelly",
+        "url": "https://open.spotify.com/album/05y25pwHlCDzV03IBfJs7c"
+      },
+      "artists": [
+        {
+          "name": "Kelly No Brakes",
+          "url": "https://open.spotify.com/artist/0ZnVWrM636IZszLw8naK0V"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249454,
+      "name": "Kelly",
+      "url": "https://open.spotify.com/track/5zg2SLq4J1w0y7n9TWP8s4"
+    },
+    {
+      "album": {
         "name": "KEROSENE",
         "url": "https://open.spotify.com/album/4ktqL1vcwvr4ffYcrcii4F"
       },
@@ -33820,7 +33910,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 224418,
       "name": "Klouds Will Carry Me To Sleep",
       "url": "https://open.spotify.com/track/7EcldKQZHuizgKU4b7UbSk"
@@ -35912,7 +36002,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 260296,
       "name": "Lizzie mcguire",
       "url": "https://open.spotify.com/track/7kNqAfUxLmrETcwvBTQCkg"
@@ -49783,6 +49873,24 @@
     },
     {
       "album": {
+        "name": "Right-Click, Rename",
+        "url": "https://open.spotify.com/album/3DQgfEuXxUJjnnPwiRkFBz"
+      },
+      "artists": [
+        {
+          "name": "Bert",
+          "url": "https://open.spotify.com/artist/7oHUE5iM2Mn1lughMs1H00"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139392,
+      "name": "Right-Click, Rename",
+      "url": "https://open.spotify.com/track/1CMLOWxgVwk2gvgpwkmBth"
+    },
+    {
+      "album": {
         "name": "Rina",
         "url": "https://open.spotify.com/album/0F50eKL0ojlfvNTKgsKmhu"
       },
@@ -51384,6 +51492,24 @@
       "duration_ms": 176029,
       "name": "Sapphire",
       "url": "https://open.spotify.com/track/4BLZjdPU4Yiw1M1KDTY3bA"
+    },
+    {
+      "album": {
+        "name": "Songs at West End Prep",
+        "url": "https://open.spotify.com/album/2ZWc8REoD4HJbdhyirXyZ3"
+      },
+      "artists": [
+        {
+          "name": "tal castle",
+          "url": "https://open.spotify.com/artist/41WaQcyds1uCvYCZtwswoR"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199480,
+      "name": "Sarah Joins Color Guard",
+      "url": "https://open.spotify.com/track/6MZKp557XOP1bXE3sah4Yh"
     },
     {
       "album": {
@@ -58214,7 +58340,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 233283,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/19swoESh14znOg6WDx3liB"
@@ -60590,7 +60716,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 289650,
       "name": "The Great Plains",
       "url": "https://open.spotify.com/track/6c8Uo1Oxh8voqJqA1O5Jgz"
@@ -61520,7 +61646,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 113044,
       "name": "things 2 make U smile",
       "url": "https://open.spotify.com/track/6wBprAkQVcFYp4xLo4Hvg8"
@@ -63803,6 +63929,24 @@
     },
     {
       "album": {
+        "name": "TWENTY TWO",
+        "url": "https://open.spotify.com/album/0KZe5av36oG68i1LVeRzmz"
+      },
+      "artists": [
+        {
+          "name": "Anna Justen",
+          "url": "https://open.spotify.com/artist/5I7Lr9ifQWQv9UdzU9BZr7"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217213,
+      "name": "TWENTY TWO",
+      "url": "https://open.spotify.com/track/0HBcFRE9EDFx6HHind4b5m"
+    },
+    {
+      "album": {
         "name": "twentyone",
         "url": "https://open.spotify.com/album/6XPoIFRZlNSvdNKJ9Mq60Q"
       },
@@ -65935,6 +66079,24 @@
     },
     {
       "album": {
+        "name": "Walmart",
+        "url": "https://open.spotify.com/album/6MOODniNUgSGdiguTezSAz"
+      },
+      "artists": [
+        {
+          "name": "miaw",
+          "url": "https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171200,
+      "name": "Walmart",
+      "url": "https://open.spotify.com/track/3pC89hDuU1GZbZD13KbfPY"
+    },
+    {
+      "album": {
         "name": "Wanna",
         "url": "https://open.spotify.com/album/5ziaDeu4Ulk0MkIujM5Fw8"
       },
@@ -66934,7 +67096,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 145500,
       "name": "What Do You Dream About?",
       "url": "https://open.spotify.com/track/61udt3YoXJJpNV5LpMTm9v"

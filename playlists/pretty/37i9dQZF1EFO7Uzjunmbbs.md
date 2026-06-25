@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/21JhxcGHq3awKEjLrsnRD8">Emily Weisband</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,057 likes - 217 songs - 12 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,058 likes - 217 songs - 12 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -174,8 +174,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 164 | [Sunsets](https://open.spotify.com/track/00Lxlifd7GJxWo5b5CJ4kt) | [Angie K](https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL) | [Sunsets](https://open.spotify.com/album/4YCxaRaVfwQSM3dci0xOAX) | 3:22 |
 | 165 | [Call It a Day](https://open.spotify.com/track/0h1brql5vlRZin3C94U9Cd) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [Young Love & Saturday Nights](https://open.spotify.com/album/0TJoGKCktudahrtegfmmgD) | 3:04 |
 | 166 | [Tomorrow](https://open.spotify.com/track/583bcrSG5vru3H4Lru9dQa) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Thank You](https://open.spotify.com/album/3IHDaf8CClvaSdgrewRPjl) | 3:23 |
-| 167 | [This City Tonight](https://open.spotify.com/track/0Jj7T59d63wuOSvkXsPvkX) | [Mark Blomsteel](https://open.spotify.com/artist/6Fqe2k9vqvUdrSha9wTgXk) | [This City Tonight](https://open.spotify.com/album/5TLhkLeYBkh86PiDDQiMjS) | 3:37 |
-| 168 | [In Case of Emergency](https://open.spotify.com/track/0wer2NCCNi5Ks6jXznIRfh) | [Doc McStuffins \- Cast](https://open.spotify.com/artist/0uJln5OCeNdFzQuRfV5Ddo) | [Disney Junior Music: Doc McStuffins \- The Doc Is In Vol\. 2](https://open.spotify.com/album/2APRAxjQ9Y4HLCm2sJuQdO) | 0:47 |
+| 167 | [In Case of Emergency](https://open.spotify.com/track/0wer2NCCNi5Ks6jXznIRfh) | [Doc McStuffins \- Cast](https://open.spotify.com/artist/0uJln5OCeNdFzQuRfV5Ddo) | [Disney Junior Music: Doc McStuffins \- The Doc Is In Vol\. 2](https://open.spotify.com/album/2APRAxjQ9Y4HLCm2sJuQdO) | 0:47 |
+| 168 | [This City Tonight](https://open.spotify.com/track/0Jj7T59d63wuOSvkXsPvkX) | [Mark Blomsteel](https://open.spotify.com/artist/6Fqe2k9vqvUdrSha9wTgXk) | [This City Tonight](https://open.spotify.com/album/5TLhkLeYBkh86PiDDQiMjS) | 3:37 |
 | 169 | [That's Why \(You Love Me\)](https://open.spotify.com/track/6X92IuYTb2HX56BvpKn1xj) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Danielle](https://open.spotify.com/album/5FVRKekEp0D2cUH0hK59zV) | 2:38 |
 | 170 | [Crashlanded](https://open.spotify.com/track/4RbWBrPEvvC1KiAXVdfRG9) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Crashlanded](https://open.spotify.com/album/0x2OmXAe36pO4S5Ygiurk4) | 3:07 |
 | 171 | [Strange Times](https://open.spotify.com/track/7kOD9GBPbRmKBC9ulD7dp3) | [Macy Martin](https://open.spotify.com/artist/3jtrkW7BFCTcFA6HXPv0O9) | [Strange Times](https://open.spotify.com/album/67w9yTbAFGNRHjmH4vju7v) | 3:16 |
@@ -226,4 +226,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 216 | [Fade](https://open.spotify.com/track/1C9Wc3BTnDUHZk3GIkgbZN) | [The Economy](https://open.spotify.com/artist/0paX1HpZropGQVJ08G2WRG) | [The Early Hours](https://open.spotify.com/album/2gTjxjSENo91JkJRVRkhNK) | 5:10 |
 | 217 | [Heartache](https://open.spotify.com/track/1ANoywqSXzofnUGE2ZXENq) | [Lil JJ Reynolds](https://open.spotify.com/artist/6tOlcdCH7l4MwVW8EyHBDC) | [Heartache](https://open.spotify.com/album/0R8XSYdAgRsBc5saCdVQUl) | 3:12 |
 
-Snapshot ID: `AcVBZgAAAADIdKdMXqFNQFtosJb8aA7A`
+Snapshot ID: `AcVHBgAAAADwZEv+rkGTgPSS87ctay8y`

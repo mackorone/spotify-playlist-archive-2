@@ -1,6 +1,6 @@
 {
   "description": "O melhor do Tecnobrega, Melody e Brega do norte! Foto: Manu",
-  "num_followers": 362509,
+  "num_followers": 362539,
   "original_name": "Melodys Marcantes",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-05-29 03:00:05",
       "album": {
-        "name": "Uma noite Amaz\u00f4nica (Ao Vivo em Portugal)",
-        "url": "https://open.spotify.com/album/1UATryKcX3smDVVk4XWJ8R"
-      },
-      "artists": [
-        {
-          "name": "Joelma",
-          "url": "https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM"
-        }
-      ],
-      "duration_ms": 230614,
-      "name": "Tchau Pra Voc\u00ea - Ao Vivo em Portugal",
-      "url": "https://open.spotify.com/track/3vtTlxjcAKKjPs3E6V9QCL"
-    },
-    {
-      "added_at": "2026-05-29 03:00:05",
-      "album": {
         "name": "T\u00e1 Ardendo Hein",
         "url": "https://open.spotify.com/album/655rMUuXH3FgoDyVIN6d0b"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 152904,
       "name": "Falando Com a Lua",
       "url": "https://open.spotify.com/track/3yR9ZKxtkL9Ktx16syW0lr"
+    },
+    {
+      "added_at": "2026-05-29 03:00:05",
+      "album": {
+        "name": "Uma noite Amaz\u00f4nica (Ao Vivo em Portugal)",
+        "url": "https://open.spotify.com/album/1UATryKcX3smDVVk4XWJ8R"
+      },
+      "artists": [
+        {
+          "name": "Joelma",
+          "url": "https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM"
+        }
+      ],
+      "duration_ms": 230614,
+      "name": "Tchau Pra Voc\u00ea - Ao Vivo em Portugal",
+      "url": "https://open.spotify.com/track/3vtTlxjcAKKjPs3E6V9QCL"
     },
     {
       "added_at": "2026-05-29 03:00:05",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: Charles Weems
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,430 likes - 100 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,444 likes - 100 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 83 | [Redeemed \- Live](https://open.spotify.com/track/0b0itI0G0JoDRHjPBOn67i) | [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk) | [Redeemed \(Live\)](https://open.spotify.com/album/2YKpKKfCf5x1kAsS4eh8fa) | 3:39 |
 | 84 | [How Awesome](https://open.spotify.com/track/5oF4UsxUmNg0MIveexiwOX) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [How Awesome](https://open.spotify.com/album/160z96t098nZ0kjU9b2ZAU) | 7:56 |
 | 85 | [New Thing \- Live](https://open.spotify.com/track/6upp8gy0AqRf0gWJ5T4lct) | [Heart of God Church](https://open.spotify.com/artist/2FfsXXadtqUpYzJFEZR5dN), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39), [Daniel Goh](https://open.spotify.com/artist/4CdYgcqqyJDghd3WgXra5z) | [New Thing \(Live\)](https://open.spotify.com/album/7BJHaIRiNlTtHNe7yxuCJa) | 4:31 |
-| 86 | [Mighty God \- Live](https://open.spotify.com/track/6sNHGIXmrBydSl6zstkzq9) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Mighty God \(Live\)](https://open.spotify.com/album/4rHXkkzhGwENKYcA3VAjRG) | 6:16 |
+| 86 | [Mighty God \- Live](https://open.spotify.com/track/6sNHGIXmrBydSl6zstkzq9) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Mighty God \(Live\)](https://open.spotify.com/album/4rHXkkzhGwENKYcA3VAjRG) | 6:03 |
 | 87 | [Mind of Christ](https://open.spotify.com/track/7HFsYa0ZpJsm4AZlJN07uy) | [Chase Wagner](https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi), [John Wilds](https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg) | [You Change The World By Being Yourself](https://open.spotify.com/album/4owKWhV3x6OrHUal5RyhKf) | 4:52 |
 | 88 | [WAR](https://open.spotify.com/track/474m6tQOcFpYkAUDKr3fCI) | [Engedi Music](https://open.spotify.com/artist/4Mc68ttSCK8Gdfef5eQM1V), [Charles Weems](https://open.spotify.com/artist/4b55lXHPorwxp0HHq0W6ab) | [WAR](https://open.spotify.com/album/0KAOeaeQm6IfrogYh4PxLA) | 5:18 |
 | 89 | [What A Privilege](https://open.spotify.com/track/773aEiSnLNwXZ60cNDtsZK) | [Southeast Worship](https://open.spotify.com/artist/48Cxaiqses3N5qczr2RJ99), [Christopher Lane Jackson](https://open.spotify.com/artist/6OfrIBpkBlyxdO3ekTTNgM) | [What A Privilege](https://open.spotify.com/album/0ShNfPhSphQta3BxtWVRWY) | 4:31 |

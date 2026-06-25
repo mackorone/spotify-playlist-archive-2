@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 
 > ¡Ay Jalisco no te rajes! Así suena la Perla de Occidente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,891 likes - 80 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,885 likes - 80 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 63 | [Brillantina](https://open.spotify.com/track/3E0oe6DSQ7f4v9EJ8lZaiu) | [Telefunka](https://open.spotify.com/artist/1bXOJUefXiubpe3686KYFm) | [Electrodoméstico](https://open.spotify.com/album/05sgvH47IC8I8ok8ZQXUtp) | 3:32 |
 | 64 | [Fijate Que Suave](https://open.spotify.com/track/1PwJUleR5YVeNBckjSXDTg) | [Troker](https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G) | [Jazz Vinil](https://open.spotify.com/album/52WJbxe0xZuqq4UAChFNXX) | 4:11 |
 | 65 | [Cuando Salga la Luna](https://open.spotify.com/track/7tla7OE84fevuyEqNgOjwH) | [Radaid](https://open.spotify.com/artist/6L5ZxnA0J7H0pjubBZFDMz) | [Luz Escondida](https://open.spotify.com/album/7lvaNgNthi0xhNeUOHsma3) | 4:36 |
-| 66 | [Super 8](https://open.spotify.com/track/1ppE503LdYpkr1BMqBeMJV) | [La Dosis](https://open.spotify.com/artist/4sGkNo2iD0Mr963lqnTil7) | [La Dosis](https://open.spotify.com/album/1w7s38LGudL6tMQ5cJURlQ) | 3:24 |
-| 67 | [Sin Ti](https://open.spotify.com/track/0BqcQNtGQyGEkTyT3f531Q) | [Thermo](https://open.spotify.com/artist/3HA7l0ZFLSMYWHCVuUZjT7) | [Nos Creían Mudos](https://open.spotify.com/album/0oy28xG9Bsm4k75Q2qreih) | 3:36 |
+| 66 | [Sin Ti](https://open.spotify.com/track/0BqcQNtGQyGEkTyT3f531Q) | [Thermo](https://open.spotify.com/artist/3HA7l0ZFLSMYWHCVuUZjT7) | [Nos Creían Mudos](https://open.spotify.com/album/0oy28xG9Bsm4k75Q2qreih) | 3:36 |
+| 67 | [Super 8](https://open.spotify.com/track/1ppE503LdYpkr1BMqBeMJV) | [La Dosis](https://open.spotify.com/artist/4sGkNo2iD0Mr963lqnTil7) | [La Dosis](https://open.spotify.com/album/1w7s38LGudL6tMQ5cJURlQ) | 3:24 |
 | 68 | [Vudú](https://open.spotify.com/track/3NOqbsgsUlgDIqSyUGy85R) | [Garigoles](https://open.spotify.com/artist/4wPyNRBXqP3IZLVJP3AsTX) | [No esperes por el caos..\. este llega cada fin de semana](https://open.spotify.com/album/46DXNSqal3i2c4gq9BLPDB) | 3:50 |
 | 69 | [Noir Mambo](https://open.spotify.com/track/6nv9bERk9Wobhs1je4El9a) | [Troker](https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G) | [Noir Mambo](https://open.spotify.com/album/6emy3Dpmax22ePiukYrFgJ) | 4:59 |
 | 70 | [Drunk Again](https://open.spotify.com/track/7M0Xd0SzUUSr35QLQjWVqV) | [Toncho Pilatos](https://open.spotify.com/artist/3RKNiMGSJ4dfDpizaqm9X3) | [Toncho Pilatos](https://open.spotify.com/album/2GBWCqo2XWqqfNhhIRXSwK) | 3:15 |

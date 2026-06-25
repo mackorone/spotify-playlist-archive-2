@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5aLMfjiruumRxGGkZpYdTQ">Ben \(of Waterboutus\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-106 songs - 4 hr 33 min
+110 songs - 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [BLU RAY](https://open.spotify.com/track/3eI25pZPGVisbHUcGc8zqq) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [KULT](https://open.spotify.com/album/7CIFDR37hKi31m5jfratbz) | 3:42 | 2026-06-09 |  |
 | [Bundeswehr](https://open.spotify.com/track/5JLbgRkto4OrrkWgAHcJZT) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Bossbaby Tape](https://open.spotify.com/album/5GWhPUtYOpjZo28JNQaFzq) | 1:37 | 2026-06-09 |  |
 | [Camouflage](https://open.spotify.com/track/1gQaC6w8fszv5hW28G7Ier) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [Say Less \(Bonus\)](https://open.spotify.com/album/6C9yE5GnQrsrHjXexRn1Cc) | 2:58 | 2026-06-09 | 2026-06-19 |
+| [Camouflage](https://open.spotify.com/track/4FrUHbUeosjQSYR65AOXOg) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [Say Less](https://open.spotify.com/album/1IIUr3VeycdEm8O201gGBC) | 2:58 | 2026-06-24 |  |
 | [Candyshop](https://open.spotify.com/track/36a8dZZagp2tNmUSfeFdoc) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [SCHERBENHAUS](https://open.spotify.com/album/6NmkkyoVSFlXVCHEoT8I7M) | 2:50 | 2026-06-09 |  |
 | [Catwoman](https://open.spotify.com/track/4p2zIDZA4oglBJuPJl6oOF) | [Jano](https://open.spotify.com/artist/7L47OSdJj97aLcHuHVm6k3) | [Catwoman](https://open.spotify.com/album/52SI4Qw2cWcwRV0YNIFHqJ) | 2:16 | 2026-06-09 |  |
 | [Chester Piano](https://open.spotify.com/track/2DAhkQwCOYfjirOiuTluOI) | [Eljero Winchester](https://open.spotify.com/artist/4QdW2CcWnjVdq3deGqX1ZJ) | [Chester Piano](https://open.spotify.com/album/1IC4szgKa0O8I34nynv0Vn) | 2:12 | 2026-06-09 |  |
@@ -47,6 +48,7 @@
 | [Glitch](https://open.spotify.com/track/1sMIJnKvXXp6SXB0Ko6vPM) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [SCHERBENHAUS](https://open.spotify.com/album/6NmkkyoVSFlXVCHEoT8I7M) | 2:49 | 2026-06-09 |  |
 | [Glock 17](https://open.spotify.com/track/0GtFRCbcK2PBoOMnB6jZS5) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [SCHERBENHAUS](https://open.spotify.com/album/6NmkkyoVSFlXVCHEoT8I7M) | 1:53 | 2026-06-09 |  |
 | [Gone](https://open.spotify.com/track/0nl3c2C0yvPpbYibIYYIEp) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [Say Less \(Bonus\)](https://open.spotify.com/album/6C9yE5GnQrsrHjXexRn1Cc) | 2:16 | 2026-06-09 | 2026-06-19 |
+| [Gone](https://open.spotify.com/track/6qVXnHdSd0sRih0Wd0AVst) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [Say Less](https://open.spotify.com/album/1IIUr3VeycdEm8O201gGBC) | 2:16 | 2026-06-24 |  |
 | [GRILL ROYAL](https://open.spotify.com/track/7jJR5j9jZd8ELDph3B26gT) | [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [EVERYTHINGS PURPLE 3](https://open.spotify.com/album/5rtzdLY5wUHxFoNscDt3Ih) | 2:15 | 2026-06-09 |  |
 | [Hart gehen ohne Grund](https://open.spotify.com/track/4zST3MYTa3Mj31aMyhLUel) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Bossbaby Tape](https://open.spotify.com/album/5GWhPUtYOpjZo28JNQaFzq) | 2:06 | 2026-06-09 |  |
 | [Hier oben](https://open.spotify.com/track/2sBcWePtEzOXMzdvJIiLYn) | [Danju](https://open.spotify.com/artist/383SVV0agxDRv1X2dKHsUb), [katlix](https://open.spotify.com/artist/2w9SZxjM9DUKiFsMhAk5Lr) | [Hier oben](https://open.spotify.com/album/6EbV9QwccvX2l1spTk9TiE) | 2:52 | 2026-06-09 |  |
@@ -71,6 +73,7 @@
 | [Mr\. Olympia \- Bonus](https://open.spotify.com/track/4rlcTx4pjDWmJusjRQBLnH) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz), [Eljero Winchester](https://open.spotify.com/artist/4QdW2CcWnjVdq3deGqX1ZJ) | [Say Less \(Bonus\)](https://open.spotify.com/album/6C9yE5GnQrsrHjXexRn1Cc) | 3:37 | 2026-06-09 | 2026-06-22 |
 | [Mr\. Olympia \- Bonus](https://open.spotify.com/track/55z2FexDa5zs5qVRAUGcRP) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz), [Eljero Winchester](https://open.spotify.com/artist/4QdW2CcWnjVdq3deGqX1ZJ) | [Mr\. Olympia \(Bonus\)](https://open.spotify.com/album/4yzugVhilcYUxTOUXI2txZ) | 3:37 | 2026-06-21 |  |
 | [Nebel](https://open.spotify.com/track/5qpsr6fAJd12dd1TsCofZl) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Ich wünschte, es würd' mich kümmern](https://open.spotify.com/album/0N5tvHsq4LEOH7snMpeRbW) | 1:23 | 2026-06-09 |  |
+| [Neugeboren](https://open.spotify.com/track/0KKNqbpNixoOnhR42aD51o) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [Say Less](https://open.spotify.com/album/1IIUr3VeycdEm8O201gGBC) | 3:33 | 2026-06-24 |  |
 | [Neugeboren](https://open.spotify.com/track/7DG2bEeQrOBuWstVZOZwJK) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [Say Less \(Bonus\)](https://open.spotify.com/album/6C9yE5GnQrsrHjXexRn1Cc) | 3:33 | 2026-06-09 | 2026-06-19 |
 | [Nichts hittet mehr](https://open.spotify.com/track/02yiCq5hKu0U8NWdqJDKRv) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [traence](https://open.spotify.com/album/3Oxkc0e9D6eTJUL4e1yiEE) | 3:28 | 2026-06-09 |  |
 | [Nostalgie](https://open.spotify.com/track/6AUuQdsDyBzF65zw4cjG5M) | [Pajel](https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm), [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Lonlee](https://open.spotify.com/album/5arNpuwGmkczhRMerGHaWb) | 2:50 | 2026-06-09 |  |
@@ -109,6 +112,7 @@
 | [Vorbei](https://open.spotify.com/track/5gqpGCjWFgxkP2o2HJjeor) | [BABYJOY](https://open.spotify.com/artist/2vYWyXs1PJbycPBdTstmHH) | [Vorbei](https://open.spotify.com/album/0tJQ5qWoPH5wrUCx24OUQY) | 2:47 | 2026-06-09 |  |
 | [WARTE MAL](https://open.spotify.com/track/2J2tlbDEMw0k0j2aikKXIo) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [KULT](https://open.spotify.com/album/7CIFDR37hKi31m5jfratbz) | 2:19 | 2026-06-09 |  |
 | [Warum immer Ich](https://open.spotify.com/track/7xHsXJT7x3RW94zamTR1Kb) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3), [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Warum immer Ich](https://open.spotify.com/album/4iSIgn73eRebx4H55o3phD) | 2:48 | 2026-06-09 |  |
+| [Water Freestyle](https://open.spotify.com/track/1okXPScEEvEPsW32MIcYfj) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz), [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Say Less](https://open.spotify.com/album/1IIUr3VeycdEm8O201gGBC) | 3:27 | 2026-06-24 |  |
 | [Water Freestyle](https://open.spotify.com/track/4jd9IctLRh2jBUBO1EdYR2) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz), [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Say Less \(Bonus\)](https://open.spotify.com/album/6C9yE5GnQrsrHjXexRn1Cc) | 3:27 | 2026-06-09 | 2026-06-19 |
 | [Wir gehen rein!](https://open.spotify.com/track/4ZwiWNSqJiKdUZC4Afqmob) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [Jaill](https://open.spotify.com/artist/0RTKm5n4OBSU5H8uGqi3fM) | [SCHERBENHAUS](https://open.spotify.com/album/6NmkkyoVSFlXVCHEoT8I7M) | 2:28 | 2026-06-09 |  |
 | [Wäre ich](https://open.spotify.com/track/5BQqQI7Zt6fmyBG4nJ99px) | [9inebro](https://open.spotify.com/artist/47YlbKJ9aZM3HVa0lUXHZ0), [Lugatti](https://open.spotify.com/artist/4P5ooDKThRs2cx6MZ7cpFg), [Lugatti & 9ine](https://open.spotify.com/artist/4eZg2h2Qez5XuD6PQAqGie) | [Kompass](https://open.spotify.com/album/7aoyG2OQE7gRPpzFhqvjbJ) | 2:44 | 2026-06-09 |  |

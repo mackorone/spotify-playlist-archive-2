@@ -4,7 +4,7 @@
 
 > you met me at a very indie twang time in my life..\. Any Young Mechanic on the cover
 
-365 songs - 23 hr 28 min
+366 songs - 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Better Friends](https://open.spotify.com/track/5aH2jkj6VAeuoFfAxdDFo7) | [Bedroom](https://open.spotify.com/artist/7COP1HCvVq1cIpZcLQYoNe) | [Better Friends](https://open.spotify.com/album/1xAaeRGN7LploVcEwBR6TW) | 4:46 | 2023-03-17 | 2023-04-29 |
 | [Big Love](https://open.spotify.com/track/5TlQaUReZtviIA3AWrAazB) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Big Love](https://open.spotify.com/album/4fgwPlwnatn7LfaMiziOJh) | 2:57 | 2024-02-02 |  |
 | [Big Open Sky Flyer](https://open.spotify.com/track/5FlLGHaavAIPxvVPEuphiF) | [Kylie Dailey](https://open.spotify.com/artist/0lC97iGj9XViueKd9WERw4) | [Big Open Sky Flyer](https://open.spotify.com/album/24Qik8HHbQbvCIsuEpWxu4) | 5:20 | 2023-09-15 | 2023-12-09 |
+| [Billy Came Back](https://open.spotify.com/track/4llSkj7K4ekT5wzcLKd4C5) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Billy Came Back](https://open.spotify.com/album/5PWPGFNrbIuXQoLcI8FsAe) | 3:09 | 2026-06-24 |  |
 | [Birdshot](https://open.spotify.com/track/1kAIhD8CStfKtbSxd8AQgN) | [Shallowater](https://open.spotify.com/artist/3BV5N0bOmtkavYFUSHsfMQ) | [There Is a Well](https://open.spotify.com/album/3lcgqKWD7oAZR1erySYvVw) | 3:46 | 2026-04-10 |  |
 | [Black Bear](https://open.spotify.com/track/2SPacYHu9nWUVnxnmSEJOI) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Black Bear](https://open.spotify.com/album/3ClE7KHKTRFulaAREMqSbD) | 3:46 | 2025-08-01 |  |
 | [Blackberry Song](https://open.spotify.com/track/2jGWmm8AkM9bEmMZObSXvu) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Childish Prodigy](https://open.spotify.com/album/3TmWAswHIm0Vb08qymeagU) | 3:26 | 2023-07-05 |  |

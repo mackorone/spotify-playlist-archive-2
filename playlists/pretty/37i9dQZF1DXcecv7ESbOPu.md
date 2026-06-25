@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från jalda, Dizzy och Valter Nilsson med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,439 likes - 86 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,430 likes - 86 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 73 | [Talking Dirty](https://open.spotify.com/track/0TvgV79xVI0t2022ABkxS4) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Resurrection](https://open.spotify.com/album/0YwFC9K2Xqgz9DsLOuZuMn) | 2:12 |
 | 74 | [gisslan](https://open.spotify.com/track/0X9t0fkeAtvL7qhWElctTI) | [tom piippola](https://open.spotify.com/artist/5WUVmT9XtXUlRBsSO9G6Hq) | [gisslan](https://open.spotify.com/album/30SgQM6hrlaLf9KawOHjWo) | 3:21 |
 | 75 | [Innekväll](https://open.spotify.com/track/2eLt4jzK9MA7XjK0aDRtig) | [Gabriel Bendel](https://open.spotify.com/artist/3inqIWuL0ga3i4qylZJy2n) | [Innekvällar](https://open.spotify.com/album/6hVlXswSpQAcWuyM3JAQi9) | 3:47 |
-| 76 | [Hold Mit Tempo](https://open.spotify.com/track/1AiduuJNTQikQ4edzuTcUM) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [WAVY](https://open.spotify.com/album/6i7FhriSAJMckXNjqy1K5E) | 2:43 |
+| 76 | [Hold Mit Tempo](https://open.spotify.com/track/1AiduuJNTQikQ4edzuTcUM) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [WAVY](https://open.spotify.com/album/6i7FhriSAJMckXNjqy1K5E) | 2:43 |
 | 77 | [Man On A Mission \(feat\. Wizkid\)](https://open.spotify.com/track/23wy2RcVfQRv0TYWTPfbep) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [BROWN \(The Chocolate Edition\)](https://open.spotify.com/album/1D43ezrQX3k6lqAoRVrghb) | 3:52 |
 | 78 | [BÖRJA OM](https://open.spotify.com/track/38fz3XfpynBab4Krw1DfOq) | [NOVELLEN](https://open.spotify.com/artist/5aQMa0MZ0CiWYGm1XukJ2r) | [BÖRJA OM](https://open.spotify.com/album/7pNCa9aFo8V6eOI8XPqsVA) | 2:55 |
 | 79 | [For a Little While](https://open.spotify.com/track/4snOoBe1d9bvXBjtADp1pS) | [SKAYA](https://open.spotify.com/artist/0MOD3DH1k0RNiMvIqxUQQC) | [For a Little While](https://open.spotify.com/album/0eaPrCSV3x82l6IJPSVh3j) | 2:50 |

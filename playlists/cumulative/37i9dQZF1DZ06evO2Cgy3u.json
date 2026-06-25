@@ -106,7 +106,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 305693,
       "name": "Babydog",
       "url": "https://open.spotify.com/track/7xeeZ3Gpr2hF8Nq9fTEXy0"
@@ -304,7 +304,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-05",
+      "date_removed": null,
       "duration_ms": 185026,
       "name": "I Saw a Hill",
       "url": "https://open.spotify.com/track/6pCcyHTYNwwUmsrG75IS9S"
@@ -592,7 +592,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 270346,
       "name": "Rainstorm",
       "url": "https://open.spotify.com/track/1XkFQIwqTLgteC5YO4oxp3"
@@ -740,6 +740,24 @@
       "duration_ms": 197666,
       "name": "We Smile",
       "url": "https://open.spotify.com/track/6xiSUqGrrHHGt1EqHEN2QQ"
+    },
+    {
+      "album": {
+        "name": "Looking in the Shadows",
+        "url": "https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ"
+      },
+      "artists": [
+        {
+          "name": "The Raincoats",
+          "url": "https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238640,
+      "name": "You Ask Why",
+      "url": "https://open.spotify.com/track/3bu7gq8IUdQddACLYOMbQH"
     },
     {
       "album": {

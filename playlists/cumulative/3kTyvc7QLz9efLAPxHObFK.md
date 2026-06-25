@@ -4,7 +4,7 @@
 
 > 
 
-3,119 songs - 6 day 16 hr 47 min
+3,120 songs - 6 day 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1531,6 +1531,7 @@
 | [Kingdom](https://open.spotify.com/track/1airHoWwsnsDZGMrk8sGcR) | [Inquisitive](https://open.spotify.com/artist/6K4XQXfV7Gill2ULeRu6fw), [GEO](https://open.spotify.com/artist/7IrT0MoBoHV6n8ue5u6F1p) | [Kingdom](https://open.spotify.com/album/0Gdu7VD1XAijD7SxypU4RW) | 2:30 | 2025-03-31 |  |
 | [Kingdoms Hero](https://open.spotify.com/track/0nKfjIBlvW8s92zrFdLviM) | [Eufeion](https://open.spotify.com/artist/7ykuX8JwiitjBbIMlGVH0B) | [Kingdoms Hero](https://open.spotify.com/album/0knPQcjn6NfmAmlCbHnQuE) | 4:00 | 2024-07-01 |  |
 | [Kings](https://open.spotify.com/track/5raSPTWWO1kpfaxSaS045M) | [Sh1nigami](https://open.spotify.com/artist/6T9win9YibsSV5q2HEM26n), [Astro Blast](https://open.spotify.com/artist/1FyI6MTG6K4XJB7efaCoK4) | [Kings](https://open.spotify.com/album/7j7HHnoKa57aWR66Pst9Jc) | 2:52 | 2025-10-17 |  |
+| [KISS KISS](https://open.spotify.com/track/6yNiOEUBCWNGUCX12bKqds) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW), [GPF](https://open.spotify.com/artist/4OoHneMX97SjUXKWgsyrP4), [Dr Donk](https://open.spotify.com/artist/0NirwTOv2qvuXsNNZkDPNu) | [KISS KISS](https://open.spotify.com/album/7za4IpRqRV01MzylcAOr9f) | 2:30 | 2026-06-24 |  |
 | [Kiss Me Again](https://open.spotify.com/track/24i2bBK5icpy87VIwBPRr2) | [Jiyagi](https://open.spotify.com/artist/1W62M2K9f0mwHdXhtywK4l), [Septum](https://open.spotify.com/artist/5zeN5UUPeAzIZDBtSmjGTl), [Frozen Frog](https://open.spotify.com/artist/4p1LK0iXwOpL02Q1ZBGzKF) | [Kiss Me Again](https://open.spotify.com/album/5PUF5UAMyqLiLuLmSeXVCG) | 2:17 | 2026-02-25 |  |
 | [Knight Rider \- Extended Mix](https://open.spotify.com/track/154JgLui3jz0R0kd05pImU) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [XTREME](https://open.spotify.com/album/0ng8yv4WB9DP5W6xRmMLaE) | 3:34 | 2022-08-10 |  |
 | [Knocked Out](https://open.spotify.com/track/3dAGQ2aSRpNeNWE904E9va) | [N3bula](https://open.spotify.com/artist/0bKtsZIFkV1M2sl1j0OeGq) | [Knocked Out](https://open.spotify.com/album/5I5n46FiJsUWAIvWdcDP53) | 3:23 | 2024-04-03 |  |

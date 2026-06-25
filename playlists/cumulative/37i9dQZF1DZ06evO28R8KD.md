@@ -4,7 +4,7 @@
 
 > This is Emily A\. Sprague\. The essential tracks, all in one playlist.
 
-31 songs - 3 hr 19 min
+32 songs - 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,12 +23,13 @@
 | [Mirror](https://open.spotify.com/track/2S4TjDCuFEqewoBxzW2VYd) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Hill, Flower, Fog](https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol) | 9:35 | 2026-03-27 |  |
 | [Moon View](https://open.spotify.com/track/2SmHi3TIZKxgeadZBR47S8) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Hill, Flower, Fog](https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol) | 5:47 | 2026-03-27 |  |
 | [Nagoya](https://open.spotify.com/track/5VfCcjwti5OSQrq37CE9xT) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cloud Time](https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D) | 7:26 | 2026-03-27 |  |
-| [New \(Part 1\)](https://open.spotify.com/track/4xPbiTndGD1qA52NsXSova) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [full/new](https://open.spotify.com/album/2QjD5gBRPzvQDtASXMaitU) | 15:40 | 2026-04-24 | 2026-04-26 |
+| [New \(Part 1\)](https://open.spotify.com/track/4xPbiTndGD1qA52NsXSova) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [full/new](https://open.spotify.com/album/2QjD5gBRPzvQDtASXMaitU) | 15:40 | 2026-04-24 |  |
 | [Osaka](https://open.spotify.com/track/6AE8juZVAZWNBGPNgSPAHB) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cloud Time](https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D) | 6:26 | 2026-03-27 |  |
 | [Piano 1](https://open.spotify.com/track/5lSEJkubu5mdi1NnYkEiLC) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Mount Vision](https://open.spotify.com/album/5Er0d89UQnCYtTBoQLZsSr) | 7:23 | 2026-03-27 |  |
 | [Piano 2 \(Mount Vision\)](https://open.spotify.com/track/3EVe6aUZJOeLDNSVYv60pS) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Mount Vision](https://open.spotify.com/album/5Er0d89UQnCYtTBoQLZsSr) | 3:41 | 2026-03-27 |  |
 | [Rain](https://open.spotify.com/track/04ZsK2jPzneYHxkFWeu667) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Hill, Flower, Fog](https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol) | 6:09 | 2026-03-27 |  |
 | [Silken Pt\. 2.1](https://open.spotify.com/track/72xpnBpM8UEJtCAiURvM3R) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Silken Pt\. 2.1](https://open.spotify.com/album/2M4guG3tSS7txcqjx8oiHT) | 3:52 | 2026-03-27 |  |
+| [Sing To](https://open.spotify.com/track/5X6zwyutwK7uSj0uFOSpad) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Sing To](https://open.spotify.com/album/0Mk8L0gOTZ0h880gaG43M4) | 3:29 | 2026-06-25 |  |
 | [Star Gazing](https://open.spotify.com/track/06DeoRfplLugqP2Soi6No2) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Hill, Flower, Fog](https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol) | 6:53 | 2026-03-27 |  |
 | [Synth 1](https://open.spotify.com/track/3UEvagUTpKhD1BSSNHWkj9) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Mount Vision](https://open.spotify.com/album/5Er0d89UQnCYtTBoQLZsSr) | 7:21 | 2026-03-27 |  |
 | [Synth 2](https://open.spotify.com/track/4IMVzTPODkGzYYB1YlhPJ6) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Mount Vision](https://open.spotify.com/album/5Er0d89UQnCYtTBoQLZsSr) | 7:39 | 2026-03-27 |  |

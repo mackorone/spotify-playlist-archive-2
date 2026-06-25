@@ -1,6 +1,6 @@
 {
   "description": "From the very deep spirit of the almighty North. ",
-  "num_followers": 589588,
+  "num_followers": 589672,
   "original_name": "Northern Spirits",
   "owner": {
     "name": "Spotify",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "Hibj\u00f8rnen",
-        "url": "https://open.spotify.com/album/2nLM3Cr0Gj0sKvQQXXkJvb"
-      },
-      "artists": [
-        {
-          "name": "Wardruna",
-          "url": "https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA"
-        }
-      ],
-      "duration_ms": 182360,
-      "name": "Hibj\u00f8rnen",
-      "url": "https://open.spotify.com/track/10D9EfOCDrswH6b33eqvQW"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
         "name": "Tv\u00e5 Systrar",
         "url": "https://open.spotify.com/album/5pCP287g0eJdIxEUA8UNwB"
       },
@@ -891,18 +875,34 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "Akva (Live)",
-        "url": "https://open.spotify.com/album/0vJfKqs1FC63IShbggiyyu"
+        "name": "Hibj\u00f8rnen",
+        "url": "https://open.spotify.com/album/2nLM3Cr0Gj0sKvQQXXkJvb"
       },
       "artists": [
         {
-          "name": "KAUAN",
-          "url": "https://open.spotify.com/artist/2QgzO1Z5XYu9zj3nOYsXUa"
+          "name": "Wardruna",
+          "url": "https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA"
         }
       ],
-      "duration_ms": 404959,
-      "name": "Akva - Live",
-      "url": "https://open.spotify.com/track/5sCfp94Viu01VFQlNL1Zf2"
+      "duration_ms": 182360,
+      "name": "Hibj\u00f8rnen",
+      "url": "https://open.spotify.com/track/10D9EfOCDrswH6b33eqvQW"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Huginn ok Muninn",
+        "url": "https://open.spotify.com/album/29kFr26QuyvyBsRyzwrFkb"
+      },
+      "artists": [
+        {
+          "name": "Nytt Land",
+          "url": "https://open.spotify.com/artist/6NQ701XGEJodDZ5lqVtrBp"
+        }
+      ],
+      "duration_ms": 313469,
+      "name": "Huginn ok Muninn",
+      "url": "https://open.spotify.com/track/2Xxvm29k94TTwGmAX7UhBA"
     },
     {
       "added_at": "2025-11-14 04:00:17",
@@ -923,18 +923,18 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "Huginn ok Muninn",
-        "url": "https://open.spotify.com/album/29kFr26QuyvyBsRyzwrFkb"
+        "name": "Akva (Live)",
+        "url": "https://open.spotify.com/album/0vJfKqs1FC63IShbggiyyu"
       },
       "artists": [
         {
-          "name": "Nytt Land",
-          "url": "https://open.spotify.com/artist/6NQ701XGEJodDZ5lqVtrBp"
+          "name": "KAUAN",
+          "url": "https://open.spotify.com/artist/2QgzO1Z5XYu9zj3nOYsXUa"
         }
       ],
-      "duration_ms": 313469,
-      "name": "Huginn ok Muninn",
-      "url": "https://open.spotify.com/track/2Xxvm29k94TTwGmAX7UhBA"
+      "duration_ms": 404959,
+      "name": "Akva - Live",
+      "url": "https://open.spotify.com/track/5sCfp94Viu01VFQlNL1Zf2"
     },
     {
       "added_at": "2025-11-14 04:00:17",

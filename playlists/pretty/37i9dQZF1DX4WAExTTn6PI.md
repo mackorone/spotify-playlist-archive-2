@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Rising voices, enduring roots\. Cover:  Alela Diane
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,633 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,644 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 99 | [Waitin' On You](https://open.spotify.com/track/2gqnqVpyUXDPrmZ6L3UKGb) | [Anna Elizabeth Laube](https://open.spotify.com/artist/6O0rWDT0LuZk9Cpe45kbcx) | [Waitin' On You](https://open.spotify.com/album/6jujRiW55qpAOkH7jlKkQO) | 3:02 |
 | 100 | [Break the Levee](https://open.spotify.com/track/0UIBeV7RaQeqZ1lPWZ3bWQ) | [Franklin Jonas](https://open.spotify.com/artist/0CiDBbLe1R6VLQ4wXgRHoV) | [Break the Levee](https://open.spotify.com/album/7445dZQs93YCgHkd5TPiRS) | 3:46 |
 
-Snapshot ID: `AAAAAKkOtkj3NEgb1XtINXuz53VEYJ6E`
+Snapshot ID: `AAAAAEr/49IMEJWIPK62JsueJJwe9B6W`

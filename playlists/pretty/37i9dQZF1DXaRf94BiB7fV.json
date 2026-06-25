@@ -1,13 +1,117 @@
 {
-  "description": "The best new music by independent artists and labels in India. Cover - abhii, Vagish",
-  "num_followers": 61787,
+  "description": "The best new music by independent artists and labels in India. Cover - Trishita Recs",
+  "num_followers": 61792,
   "original_name": "Fresh Finds India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADhd6leVgtpXn8YXW1T9rbO9AdKU",
+  "snapshot_id": "AAAAADeSjMTSN3vVQ8o8WwGr86U8Y1PP",
   "tracks": [
+    {
+      "added_at": "2026-06-24 07:30:27",
+      "album": {
+        "name": "Tijori",
+        "url": "https://open.spotify.com/album/1dDCqEcbjUIysTEQgVaV8r"
+      },
+      "artists": [
+        {
+          "name": "Trishita Recs",
+          "url": "https://open.spotify.com/artist/4lB0A51UgKHZ00Uhuta9K4"
+        }
+      ],
+      "duration_ms": 186210,
+      "name": "Tijori",
+      "url": "https://open.spotify.com/track/7lmK3ix2fXGsgZWwcSgfU9"
+    },
+    {
+      "added_at": "2026-06-24 07:30:27",
+      "album": {
+        "name": "Tum Mere Hona",
+        "url": "https://open.spotify.com/album/3tnEdFjBzdoCugmz3ZC76x"
+      },
+      "artists": [
+        {
+          "name": "Yashashree Venkatesh",
+          "url": "https://open.spotify.com/artist/6vm6Dz0pOPUo7tmTFHQPWu"
+        },
+        {
+          "name": "ANKUSH",
+          "url": "https://open.spotify.com/artist/77o1JYELsxlyy19Z3WOiLv"
+        }
+      ],
+      "duration_ms": 189356,
+      "name": "Tum Mere Hona",
+      "url": "https://open.spotify.com/track/7qjXz8fcLnc9pmzfP1UlH2"
+    },
+    {
+      "added_at": "2026-06-24 07:30:27",
+      "album": {
+        "name": "Megh",
+        "url": "https://open.spotify.com/album/5VeWYcqevUdkTr79LUBkcH"
+      },
+      "artists": [
+        {
+          "name": "Iravu",
+          "url": "https://open.spotify.com/artist/32gGumlFxS3I49LH5cNcrH"
+        },
+        {
+          "name": "Ankur Banerjee",
+          "url": "https://open.spotify.com/artist/3dOHjpMK9sbQEGbwrcoGIe"
+        },
+        {
+          "name": "Pranathi Varma",
+          "url": "https://open.spotify.com/artist/10fOJE3AwE1pBtKF69pAvQ"
+        }
+      ],
+      "duration_ms": 233696,
+      "name": "Megh",
+      "url": "https://open.spotify.com/track/3Ljb4WAugiB74p46pSBz4O"
+    },
+    {
+      "added_at": "2026-06-24 07:30:27",
+      "album": {
+        "name": "Janeja",
+        "url": "https://open.spotify.com/album/2TWqyyizM984MkjUM1y8Pp"
+      },
+      "artists": [
+        {
+          "name": "Pratik Kundu",
+          "url": "https://open.spotify.com/artist/4qoPM6imXNKs7Uj6aAJNJP"
+        }
+      ],
+      "duration_ms": 236204,
+      "name": "Janeja",
+      "url": "https://open.spotify.com/track/3ss4BuT46BfmUTqAfz6QEA"
+    },
+    {
+      "added_at": "2026-06-24 07:30:27",
+      "album": {
+        "name": "Batohi",
+        "url": "https://open.spotify.com/album/7GXY0tYVvVzRT4cioB2gGK"
+      },
+      "artists": [
+        {
+          "name": "Sujeet Anahata Thakur",
+          "url": "https://open.spotify.com/artist/61CLoY2iiFnPYVNk4HfMcu"
+        },
+        {
+          "name": "Akansha Tripathi",
+          "url": "https://open.spotify.com/artist/38XFS9SEu4eGBCguIdmIni"
+        },
+        {
+          "name": "Ishaan Nigam",
+          "url": "https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2"
+        },
+        {
+          "name": "Harshit Shankar",
+          "url": "https://open.spotify.com/artist/1EFgrLcxuH1vQX6GiEui6R"
+        }
+      ],
+      "duration_ms": 247500,
+      "name": "Batohi",
+      "url": "https://open.spotify.com/track/5tX0htWh35W6wyOznMo7Nr"
+    },
     {
       "added_at": "2026-06-17 07:30:17",
       "album": {
@@ -707,22 +811,6 @@
     {
       "added_at": "2026-06-10 07:30:05",
       "album": {
-        "name": "Kyun",
-        "url": "https://open.spotify.com/album/2qY0EKgYbTRjKRY58gZMJt"
-      },
-      "artists": [
-        {
-          "name": "Arunima Wali",
-          "url": "https://open.spotify.com/artist/2XbJp0erWMnqGVUj3KqhKT"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Kyun",
-      "url": "https://open.spotify.com/track/0N7oQjTaY8TEnHwa7ktljA"
-    },
-    {
-      "added_at": "2026-06-10 07:30:05",
-      "album": {
         "name": "Abracadabra",
         "url": "https://open.spotify.com/album/3ScGwEpXDBPN7xcowjge5O"
       },
@@ -751,22 +839,6 @@
       "duration_ms": 251866,
       "name": "Zikr Tera",
       "url": "https://open.spotify.com/track/1M9u5kPU8aio16038y4qPX"
-    },
-    {
-      "added_at": "2026-06-10 07:30:05",
-      "album": {
-        "name": "behe chale?",
-        "url": "https://open.spotify.com/album/58BUMC6yv9asxlHjKE4tLB"
-      },
-      "artists": [
-        {
-          "name": "Sashaar",
-          "url": "https://open.spotify.com/artist/4O8ct7ONbGjj9BAWnnK3Vr"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "behe chale?",
-      "url": "https://open.spotify.com/track/6UOzlwlogfDtjvqfaEt3gs"
     },
     {
       "added_at": "2026-06-10 07:30:05",
@@ -811,30 +883,6 @@
     {
       "added_at": "2026-06-10 07:30:05",
       "album": {
-        "name": "Mohe Rang Banaa Lo",
-        "url": "https://open.spotify.com/album/64fVQUQntNXsHxRCv3oeHK"
-      },
-      "artists": [
-        {
-          "name": "Savni Bhatt",
-          "url": "https://open.spotify.com/artist/1YO52y5qNkcHvM2x27N2Tn"
-        },
-        {
-          "name": "Sanjoy Das",
-          "url": "https://open.spotify.com/artist/17BFGrrdmA4wu1KyGvN7pJ"
-        },
-        {
-          "name": "Vaibhav Wavikar",
-          "url": "https://open.spotify.com/artist/6RO4ArlWJAIogIC1faNUIw"
-        }
-      ],
-      "duration_ms": 240059,
-      "name": "Mohe Rang Banaa Lo",
-      "url": "https://open.spotify.com/track/1d0d5s71yau9dIsedkEbGh"
-    },
-    {
-      "added_at": "2026-06-10 07:30:05",
-      "album": {
         "name": "DMTMH",
         "url": "https://open.spotify.com/album/5YuNuVMuhKVyko0iNrgQOn"
       },
@@ -851,30 +899,6 @@
     {
       "added_at": "2026-06-10 07:30:05",
       "album": {
-        "name": "Hum Tum Miley",
-        "url": "https://open.spotify.com/album/0K0U5D15JUGzp3Vj4OptAc"
-      },
-      "artists": [
-        {
-          "name": "Ishaan Nigam",
-          "url": "https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2"
-        },
-        {
-          "name": "Amaan Anjum",
-          "url": "https://open.spotify.com/artist/6i2OGAPggr2SpNnrzEjQG1"
-        },
-        {
-          "name": "Harshil Roy",
-          "url": "https://open.spotify.com/artist/0WLHgj66goZ8D71UhA0wvN"
-        }
-      ],
-      "duration_ms": 171969,
-      "name": "Hum Tum Miley",
-      "url": "https://open.spotify.com/track/7GGUyCMipQJaORkMoPRw0d"
-    },
-    {
-      "added_at": "2026-06-10 07:30:05",
-      "album": {
         "name": "Saiyaan Ji",
         "url": "https://open.spotify.com/album/3MRep8SqAbCk4HsC0iDAgw"
       },
@@ -887,34 +911,6 @@
       "duration_ms": 259200,
       "name": "Saiyaan Ji",
       "url": "https://open.spotify.com/track/7Fj7BynBezZtivL1zWbgiO"
-    },
-    {
-      "added_at": "2026-06-10 07:30:05",
-      "album": {
-        "name": "Kiski Khata",
-        "url": "https://open.spotify.com/album/14CbMFfLo7xOa4X2560AfW"
-      },
-      "artists": [
-        {
-          "name": "Aishwarya",
-          "url": "https://open.spotify.com/artist/7mTJZY7jhvN2QEzWqwXdKP"
-        },
-        {
-          "name": "Saurabh Trivedi",
-          "url": "https://open.spotify.com/artist/3bz6ZRvw3t4k0Oz72baGrk"
-        },
-        {
-          "name": "Rishita Malkania",
-          "url": "https://open.spotify.com/artist/2iYRleECSrB0io7EdpIWFz"
-        },
-        {
-          "name": "Eric Wink",
-          "url": "https://open.spotify.com/artist/7k2dC4sHlKjN52VppZRxUP"
-        }
-      ],
-      "duration_ms": 192500,
-      "name": "Kiski Khata",
-      "url": "https://open.spotify.com/track/2s5f7ouN7DtFZXGmNFb9tJ"
     }
   ],
   "unique_name": "Fresh Finds India",

@@ -6,8 +6,24 @@
     "name": "Jenesaispop",
     "url": "https://open.spotify.com/user/jenesaispop"
   },
-  "snapshot_id": "AADiM5LZPtFE9XverwIS1uigrEjVpThi",
+  "snapshot_id": "AADiNNDsjmIkm3NvfWQ2XQ2IER1Wb9LU",
   "tracks": [
+    {
+      "added_at": "2026-06-24 10:04:25",
+      "album": {
+        "name": "Voyager",
+        "url": "https://open.spotify.com/album/0aP1rf4Xix1A4oG6q2SfWy"
+      },
+      "artists": [
+        {
+          "name": "PJ Harvey",
+          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+        }
+      ],
+      "duration_ms": 247166,
+      "name": "Voyager",
+      "url": "https://open.spotify.com/track/4YZ7rGwFbbbOTJZECr4T8W"
+    },
     {
       "added_at": "2026-06-19 05:21:37",
       "album": {

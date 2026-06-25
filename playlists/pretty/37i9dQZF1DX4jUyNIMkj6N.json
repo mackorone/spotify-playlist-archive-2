@@ -1,6 +1,6 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 223387,
+  "num_followers": 223393,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-06-18 22:00:34",
       "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/1zIYfWBJ8z9niRJbU5c3KQ"
-      },
-      "artists": [
-        {
-          "name": "Kristian Kristensen",
-          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
-        }
-      ],
-      "duration_ms": 251140,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/21XqZ9JSZv6Vh6BNTGi0gz"
-    },
-    {
-      "added_at": "2026-06-18 22:00:34",
-      "album": {
         "name": "A Dangerous Thing",
         "url": "https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 215573,
       "name": "A Dangerous Thing",
       "url": "https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX"
+    },
+    {
+      "added_at": "2026-06-18 22:00:34",
+      "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/1zIYfWBJ8z9niRJbU5c3KQ"
+      },
+      "artists": [
+        {
+          "name": "Kristian Kristensen",
+          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
+        }
+      ],
+      "duration_ms": 251140,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/21XqZ9JSZv6Vh6BNTGi0gz"
     },
     {
       "added_at": "2026-06-18 22:00:34",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-06-18 22:00:34",
       "album": {
-        "name": "v\u00e1r",
-        "url": "https://open.spotify.com/album/4Fy4CcZQ4WpfmRjfNmQMZF"
-      },
-      "artists": [
-        {
-          "name": "Fay Wildhagen",
-          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
-        }
-      ],
-      "duration_ms": 231586,
-      "name": "v\u00e1r",
-      "url": "https://open.spotify.com/track/34iSLP2Qs7dH4BZqP0Bj9U"
-    },
-    {
-      "added_at": "2026-06-18 22:00:34",
-      "album": {
         "name": "Vampire Country",
         "url": "https://open.spotify.com/album/2DZpZ3j4yZrv39kuKeNtvZ"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 247975,
       "name": "Raven",
       "url": "https://open.spotify.com/track/7AF2UzVYXqxdJLKzKuKq1U"
+    },
+    {
+      "added_at": "2026-06-18 22:00:34",
+      "album": {
+        "name": "v\u00e1r",
+        "url": "https://open.spotify.com/album/4Fy4CcZQ4WpfmRjfNmQMZF"
+      },
+      "artists": [
+        {
+          "name": "Fay Wildhagen",
+          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
+        }
+      ],
+      "duration_ms": 231586,
+      "name": "v\u00e1r",
+      "url": "https://open.spotify.com/track/34iSLP2Qs7dH4BZqP0Bj9U"
     },
     {
       "added_at": "2026-06-18 22:00:34",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-06-18 22:00:34",
       "album": {
-        "name": "Pixie's Parasol",
-        "url": "https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw"
-      },
-      "artists": [
-        {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
-        }
-      ],
-      "duration_ms": 182946,
-      "name": "Pixie's Parasol",
-      "url": "https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93"
-    },
-    {
-      "added_at": "2026-06-18 22:00:34",
-      "album": {
         "name": "Cult to A Saint",
         "url": "https://open.spotify.com/album/5J51HUdRQFacntDsIhRmbf"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 218400,
       "name": "Cult to A Saint",
       "url": "https://open.spotify.com/track/6LiZv6hKaSY9DMMqVO3hgy"
+    },
+    {
+      "added_at": "2026-06-18 22:00:34",
+      "album": {
+        "name": "Pixie's Parasol",
+        "url": "https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw"
+      },
+      "artists": [
+        {
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+        }
+      ],
+      "duration_ms": 182946,
+      "name": "Pixie's Parasol",
+      "url": "https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93"
     },
     {
       "added_at": "2026-06-18 22:00:34",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-06-18 22:00:34",
       "album": {
-        "name": "A Chosen Family",
-        "url": "https://open.spotify.com/album/5edXe34CzaJQps4q5ADGdr"
-      },
-      "artists": [
-        {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
-        }
-      ],
-      "duration_ms": 235392,
-      "name": "I Let the Good Ones Go",
-      "url": "https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8"
-    },
-    {
-      "added_at": "2026-06-18 22:00:34",
-      "album": {
         "name": "No Jolene",
         "url": "https://open.spotify.com/album/71R93xVwsFtmiW7nCm4V5h"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 157188,
       "name": "No Jolene",
       "url": "https://open.spotify.com/track/32MwhuIuhW55LawKJa8jyQ"
+    },
+    {
+      "added_at": "2026-06-18 22:00:34",
+      "album": {
+        "name": "A Chosen Family",
+        "url": "https://open.spotify.com/album/5edXe34CzaJQps4q5ADGdr"
+      },
+      "artists": [
+        {
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+        }
+      ],
+      "duration_ms": 235392,
+      "name": "I Let the Good Ones Go",
+      "url": "https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8"
     },
     {
       "added_at": "2026-06-18 22:00:34",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-06-18 22:00:34",
       "album": {
-        "name": "Something Good",
-        "url": "https://open.spotify.com/album/6pYjJFbYrjgxPc6O6ke14G"
-      },
-      "artists": [
-        {
-          "name": "Tuvaband",
-          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
-        }
-      ],
-      "duration_ms": 225939,
-      "name": "Something Good",
-      "url": "https://open.spotify.com/track/4MIpMHjGu9tBoK065wTu6R"
-    },
-    {
-      "added_at": "2026-06-18 22:00:34",
-      "album": {
         "name": "Tennessee",
         "url": "https://open.spotify.com/album/2s2VJj5SNBnkUuBZlzoP7s"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 159697,
       "name": "Tennessee",
       "url": "https://open.spotify.com/track/3aUYO9yu8Q3MzNPToWkkBc"
+    },
+    {
+      "added_at": "2026-06-18 22:00:34",
+      "album": {
+        "name": "Something Good",
+        "url": "https://open.spotify.com/album/6pYjJFbYrjgxPc6O6ke14G"
+      },
+      "artists": [
+        {
+          "name": "Tuvaband",
+          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
+        }
+      ],
+      "duration_ms": 225939,
+      "name": "Something Good",
+      "url": "https://open.spotify.com/track/4MIpMHjGu9tBoK065wTu6R"
     }
   ],
   "unique_name": "Nordic Folk",

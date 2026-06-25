@@ -1,6 +1,6 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: JMIN)(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 221992,
+  "num_followers": 221999,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -267,26 +267,6 @@
     {
       "added_at": "2026-06-23 09:41:59",
       "album": {
-        "name": "Bucket List",
-        "url": "https://open.spotify.com/album/0lviZJTZcp60rZnT5vYdqB"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "JAMIE",
-          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
-        }
-      ],
-      "duration_ms": 199506,
-      "name": "Joker (Feat. JAMIE)",
-      "url": "https://open.spotify.com/track/7GLn0324YKGYxbYN7GH8Ip"
-    },
-    {
-      "added_at": "2026-06-23 09:41:59",
-      "album": {
         "name": "Between Sat & Sun",
         "url": "https://open.spotify.com/album/6YcwCU0b6fXZ003KIU8Jio"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 235893,
       "name": "Black Heart (feat. Leellamarz, BE'O)",
       "url": "https://open.spotify.com/track/2odm919sRfQIhH2na8YSKK"
+    },
+    {
+      "added_at": "2026-06-23 09:41:59",
+      "album": {
+        "name": "Bucket List",
+        "url": "https://open.spotify.com/album/0lviZJTZcp60rZnT5vYdqB"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+        }
+      ],
+      "duration_ms": 199506,
+      "name": "Joker (Feat. JAMIE)",
+      "url": "https://open.spotify.com/track/7GLn0324YKGYxbYN7GH8Ip"
     },
     {
       "added_at": "2026-06-23 09:41:59",
@@ -1147,6 +1147,42 @@
     {
       "added_at": "2026-06-23 09:41:59",
       "album": {
+        "name": "Organic2",
+        "url": "https://open.spotify.com/album/4do2LvREDAeSafUqlFjNOn"
+      },
+      "artists": [
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 205106,
+      "name": "AURORA (feat. Crush)",
+      "url": "https://open.spotify.com/track/40tciWf8SD8zLL8lRsHNjx"
+    },
+    {
+      "added_at": "2026-06-23 09:41:59",
+      "album": {
+        "name": "MELODY",
+        "url": "https://open.spotify.com/album/3W1z3nwXcFrxdY8mSwktGl"
+      },
+      "artists": [
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "duration_ms": 181629,
+      "name": "MELODY",
+      "url": "https://open.spotify.com/track/259wZqRoiqkrRMosDDnnOX"
+    },
+    {
+      "added_at": "2026-06-23 09:41:59",
+      "album": {
         "name": "BLEND",
         "url": "https://open.spotify.com/album/6ftmYAVe6L56j8u2YYzyeR"
       },
@@ -1171,38 +1207,18 @@
     {
       "added_at": "2026-06-23 09:41:59",
       "album": {
-        "name": "MELODY",
-        "url": "https://open.spotify.com/album/3W1z3nwXcFrxdY8mSwktGl"
+        "name": "MBT",
+        "url": "https://open.spotify.com/album/2XP5oAZ4KePlCQrdUKddn4"
       },
       "artists": [
         {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+          "name": "rosy",
+          "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
         }
       ],
-      "duration_ms": 181629,
-      "name": "MELODY",
-      "url": "https://open.spotify.com/track/259wZqRoiqkrRMosDDnnOX"
-    },
-    {
-      "added_at": "2026-06-23 09:41:59",
-      "album": {
-        "name": "Organic2",
-        "url": "https://open.spotify.com/album/4do2LvREDAeSafUqlFjNOn"
-      },
-      "artists": [
-        {
-          "name": "PENOMECO",
-          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 205106,
-      "name": "AURORA (feat. Crush)",
-      "url": "https://open.spotify.com/track/40tciWf8SD8zLL8lRsHNjx"
+      "duration_ms": 142280,
+      "name": "MBT",
+      "url": "https://open.spotify.com/track/17wvYb3NN58riCL6wQJjFl"
     },
     {
       "added_at": "2026-06-23 09:41:59",
@@ -1247,22 +1263,6 @@
     {
       "added_at": "2026-06-23 09:41:59",
       "album": {
-        "name": "MBT",
-        "url": "https://open.spotify.com/album/2XP5oAZ4KePlCQrdUKddn4"
-      },
-      "artists": [
-        {
-          "name": "rosy",
-          "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
-        }
-      ],
-      "duration_ms": 142280,
-      "name": "MBT",
-      "url": "https://open.spotify.com/track/17wvYb3NN58riCL6wQJjFl"
-    },
-    {
-      "added_at": "2026-06-23 09:41:59",
-      "album": {
         "name": "LOVESICK",
         "url": "https://open.spotify.com/album/3CHydLWaSOXR2aM4q8Hqqr"
       },
@@ -1279,26 +1279,6 @@
       "duration_ms": 239983,
       "name": "TORO (feat. Crush)",
       "url": "https://open.spotify.com/track/0ljaG5dzwQG1E8j9sURWcB"
-    },
-    {
-      "added_at": "2026-06-23 09:41:59",
-      "album": {
-        "name": "6SEOUL",
-        "url": "https://open.spotify.com/album/0YV6qvJTTXx7AYD2RSyMfh"
-      },
-      "artists": [
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "PLAYER (feat. Crush)",
-      "url": "https://open.spotify.com/track/0aKxRmN8Dv6KAWuYwLbKim"
     },
     {
       "added_at": "2026-06-23 09:41:59",
@@ -1339,6 +1319,26 @@
       "duration_ms": 189157,
       "name": "HATE ME (feat. youra) (prod. WOOGIE)",
       "url": "https://open.spotify.com/track/5L2dd0GWhy2rXeGp0g5pnT"
+    },
+    {
+      "added_at": "2026-06-23 09:41:59",
+      "album": {
+        "name": "6SEOUL",
+        "url": "https://open.spotify.com/album/0YV6qvJTTXx7AYD2RSyMfh"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "PLAYER (feat. Crush)",
+      "url": "https://open.spotify.com/track/0aKxRmN8Dv6KAWuYwLbKim"
     },
     {
       "added_at": "2026-06-23 09:41:59",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2026-06-23 09:41:59",
       "album": {
+        "name": "1,2,3,4,5",
+        "url": "https://open.spotify.com/album/7D6P8Uo19ayw8P4kqrCzjz"
+      },
+      "artists": [
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        }
+      ],
+      "duration_ms": 182026,
+      "name": "1,2,3,4,5",
+      "url": "https://open.spotify.com/track/0b2uMH3ziqvmdPyyv02FA7"
+    },
+    {
+      "added_at": "2026-06-23 09:41:59",
+      "album": {
         "name": "Focused On Getting Rich",
         "url": "https://open.spotify.com/album/19nQ5tfbjcexQxVXWToO1u"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 138280,
       "name": "Over You",
       "url": "https://open.spotify.com/track/53Ck0tEqxMbgP9GpBSN1cl"
-    },
-    {
-      "added_at": "2026-06-23 09:41:59",
-      "album": {
-        "name": "1,2,3,4,5",
-        "url": "https://open.spotify.com/album/7D6P8Uo19ayw8P4kqrCzjz"
-      },
-      "artists": [
-        {
-          "name": "Coogie",
-          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
-        }
-      ],
-      "duration_ms": 182026,
-      "name": "1,2,3,4,5",
-      "url": "https://open.spotify.com/track/0b2uMH3ziqvmdPyyv02FA7"
     },
     {
       "added_at": "2026-06-23 09:41:59",
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2026-06-23 09:41:59",
       "album": {
+        "name": "Am I Trippin'?",
+        "url": "https://open.spotify.com/album/0U8JxnnjXex1ZYi2MK2adm"
+      },
+      "artists": [
+        {
+          "name": "Yung Blesh",
+          "url": "https://open.spotify.com/artist/4brsMLGzcBIcMFiow8fRfZ"
+        }
+      ],
+      "duration_ms": 167441,
+      "name": "She Want Gucci (with. TRADE L)",
+      "url": "https://open.spotify.com/track/4Dv6dJmToRNN5pqhfqn1FM"
+    },
+    {
+      "added_at": "2026-06-23 09:41:59",
+      "album": {
         "name": "AFRO TAPE 2",
         "url": "https://open.spotify.com/album/2fk1hPLeK3pWirbOb7ydTn"
       },
@@ -1863,22 +1879,6 @@
       "duration_ms": 223366,
       "name": "LOVE (feat. Paloalto)",
       "url": "https://open.spotify.com/track/7q0wTNSPym2IyWUcY6m5Vt"
-    },
-    {
-      "added_at": "2026-06-23 09:41:59",
-      "album": {
-        "name": "Am I Trippin'?",
-        "url": "https://open.spotify.com/album/0U8JxnnjXex1ZYi2MK2adm"
-      },
-      "artists": [
-        {
-          "name": "Yung Blesh",
-          "url": "https://open.spotify.com/artist/4brsMLGzcBIcMFiow8fRfZ"
-        }
-      ],
-      "duration_ms": 167441,
-      "name": "She Want Gucci (with. TRADE L)",
-      "url": "https://open.spotify.com/track/4Dv6dJmToRNN5pqhfqn1FM"
     },
     {
       "added_at": "2026-06-23 09:41:59",

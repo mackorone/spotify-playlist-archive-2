@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 158149,
+  "num_followers": 158145,
   "original_name": "ren hygge",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,22 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
+        "name": "Stop All the World Now (Special Edition)",
+        "url": "https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y"
+      },
+      "artists": [
+        {
+          "name": "Howie Day",
+          "url": "https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer"
+        }
+      ],
+      "duration_ms": 277000,
+      "name": "Collide - Acoustic Version",
+      "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
         "name": "Gemt Dit Nummer",
         "url": "https://open.spotify.com/album/1FJeiGJjSMBPV4Z3qwc9Xv"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 167690,
       "name": "Gemt Dit Nummer",
       "url": "https://open.spotify.com/track/5oLLC1Enkdr3TB03wFHFx0"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
-        "name": "Stop All the World Now (Special Edition)",
-        "url": "https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y"
-      },
-      "artists": [
-        {
-          "name": "Howie Day",
-          "url": "https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer"
-        }
-      ],
-      "duration_ms": 277000,
-      "name": "Collide - Acoustic Version",
-      "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Superlim",
-        "url": "https://open.spotify.com/album/5KbJT01tNLb2HenQ5Unp6R"
-      },
-      "artists": [
-        {
-          "name": "Sira Jovina",
-          "url": "https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat"
-        }
-      ],
-      "duration_ms": 185355,
-      "name": "Superlim",
-      "url": "https://open.spotify.com/track/4BwPT0pILUhY4wUdv0NLLT"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "bl\u00e5 n\u00e6tter",
         "url": "https://open.spotify.com/album/1Rb8lqf2mIY0DyerLKkVhS"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 172000,
       "name": "To Lanterner",
       "url": "https://open.spotify.com/track/0zs5EIVjsz66ZHuVlqj2hI"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "Superlim",
+        "url": "https://open.spotify.com/album/5KbJT01tNLb2HenQ5Unp6R"
+      },
+      "artists": [
+        {
+          "name": "Sira Jovina",
+          "url": "https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat"
+        }
+      ],
+      "duration_ms": 185355,
+      "name": "Superlim",
+      "url": "https://open.spotify.com/track/4BwPT0pILUhY4wUdv0NLLT"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Det Hele Handler Om Dig",
-        "url": "https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS"
-      },
-      "artists": [
-        {
-          "name": "August H\u00f8yen",
-          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
-        }
-      ],
-      "duration_ms": 194500,
-      "name": "Blomster Visner",
-      "url": "https://open.spotify.com/track/0O9arYuEk17mMatL9ERQZu"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "ii",
         "url": "https://open.spotify.com/album/7MRes84TxvKPqlTbp3FDUN"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 178476,
       "name": "Thin",
       "url": "https://open.spotify.com/track/7swTZr50nSpeq9469IJ9LI"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "Det Hele Handler Om Dig",
+        "url": "https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS"
+      },
+      "artists": [
+        {
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+        }
+      ],
+      "duration_ms": 194500,
+      "name": "Blomster Visner",
+      "url": "https://open.spotify.com/track/0O9arYuEk17mMatL9ERQZu"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
+        "name": "stoppe med at elske nogen",
+        "url": "https://open.spotify.com/album/07DbAsBCVD1IpRCGelbtli"
+      },
+      "artists": [
+        {
+          "name": "Lea Ey\u00f0bj\u00f8rg",
+          "url": "https://open.spotify.com/artist/5UTFhx3pJkrUHKlM4gd2rv"
+        }
+      ],
+      "duration_ms": 192283,
+      "name": "stoppe med at elske nogen",
+      "url": "https://open.spotify.com/track/0tC2SW9xEH0Fz8NlAF225f"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
         "name": "Det \u00d8nsker Jeg For Dig (feat. Burhan G)",
         "url": "https://open.spotify.com/album/2Wd7GUiG8M5y6hSpMxT3Kd"
       },
@@ -1827,22 +1843,6 @@
       "duration_ms": 196826,
       "name": "This Morning",
       "url": "https://open.spotify.com/track/3phOtFs7faVgUInMMaJ3RD"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
-        "name": "stoppe med at elske nogen",
-        "url": "https://open.spotify.com/album/07DbAsBCVD1IpRCGelbtli"
-      },
-      "artists": [
-        {
-          "name": "Lea Ey\u00f0bj\u00f8rg",
-          "url": "https://open.spotify.com/artist/5UTFhx3pJkrUHKlM4gd2rv"
-        }
-      ],
-      "duration_ms": 192283,
-      "name": "stoppe med at elske nogen",
-      "url": "https://open.spotify.com/track/0tC2SW9xEH0Fz8NlAF225f"
     },
     {
       "added_at": "2026-05-21 12:03:22",

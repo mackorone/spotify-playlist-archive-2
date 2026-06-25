@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: Housefires, Dante Bowe, Kendrick Williams, Ariel Campbell, & Lily Hooten
 
-[Spotify](https://open.spotify.com/user/spotify) - 950,888 likes - 80 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,896 likes - 80 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 | 13 | [Love Of My Life \- Live](https://open.spotify.com/track/7bLxvZFk8wQ0TsNzjyfUr0) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya), [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz) | [Love Of My Life \(Live\)](https://open.spotify.com/album/0CeeiriXCYTPYiKzk1z2Bl) | 9:23 |
 | 14 | [FATHER'S HOUSE](https://open.spotify.com/track/0BrRKWI1dw5VCfTzpBMydN) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [FATHER'S HOUSE](https://open.spotify.com/album/7AK6pZm0XiMHKs2ia7XUEC) | 6:00 |
 | 15 | [What A God \- Live](https://open.spotify.com/track/5IB4ugsKzjD4hWuIEFZtAE) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Kenzie Walker](https://open.spotify.com/artist/4VJFpqwAvZKRah8klcHmFy), [Chelsea Plank](https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk) | [Move of God \(Live\)](https://open.spotify.com/album/0ihbB3q54H2tUCzS5I7Gsv) | 7:14 |
-| 16 | [Beneath Your Wings \- Live](https://open.spotify.com/track/0cVvmK5YQaiRoga45kLhY4) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Beneath Your Wings \(Live\)](https://open.spotify.com/album/29R0QI9DC4qbiNqmJRFegB) | 8:03 |
+| 16 | [Beneath Your Wings \- Live](https://open.spotify.com/track/0cVvmK5YQaiRoga45kLhY4) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Beneath Your Wings \(Live\)](https://open.spotify.com/album/29R0QI9DC4qbiNqmJRFegB) | 8:02 |
 | 17 | [The Perfect Love of Jesus \- Live](https://open.spotify.com/track/5R7MwLBKlUPzRptEuQFY1I) | [LO Worship](https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq), [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [The Perfect Love of Jesus \(Live\)](https://open.spotify.com/album/0t6mPMKBtiYM0BRfYW0TIM) | 7:53 |
 | 18 | [Wonderful Jesus \- Live](https://open.spotify.com/track/0uOY661yvZkutTTXZ0khdS) | [Awakening Music](https://open.spotify.com/artist/0PvvTvGMg88er6G9b71B6c), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [Desire of Our Hearts](https://open.spotify.com/album/3jfaiCVY3BqrQ6D6IXyZUm) | 7:28 |
 | 19 | [Higher Than I](https://open.spotify.com/track/5aFJW3p1SvYfvVRT7HBKp8) | [Sons Of Sunday](https://open.spotify.com/artist/4xdrIk3HcWXiRifZnnpG5O) | [Sons Of Sunday](https://open.spotify.com/album/0uGwOI1g9VLHVZtaGh2X9w) | 4:18 |

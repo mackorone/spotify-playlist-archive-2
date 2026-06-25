@@ -1,6 +1,6 @@
 {
   "description": "Bedroom bootlegs and electroclash gems. Cover: MGMT",
-  "num_followers": 80765,
+  "num_followers": 80776,
   "original_name": "Bloghouse",
   "owner": {
     "name": "Spotify",
@@ -1271,38 +1271,6 @@
     {
       "added_at": "2024-08-08 18:53:25",
       "album": {
-        "name": "Idealism",
-        "url": "https://open.spotify.com/album/1tI2KRkbdaxI1lVUDW8F7S"
-      },
-      "artists": [
-        {
-          "name": "Digitalism",
-          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
-        }
-      ],
-      "duration_ms": 250693,
-      "name": "Idealistic",
-      "url": "https://open.spotify.com/track/2jJ2OyPniCS1a16Ghw8vZo"
-    },
-    {
-      "added_at": "2024-08-08 18:53:25",
-      "album": {
-        "name": "Cross",
-        "url": "https://open.spotify.com/album/5P4Wx3YhpsD4zFTvmPskWd"
-      },
-      "artists": [
-        {
-          "name": "Justice",
-          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
-        }
-      ],
-      "duration_ms": 234959,
-      "name": "Genesis",
-      "url": "https://open.spotify.com/track/2W29TNaSCiolWbPfQNgNOW"
-    },
-    {
-      "added_at": "2024-08-08 18:53:25",
-      "album": {
         "name": "Crystal Castles",
         "url": "https://open.spotify.com/album/75olNPlDKi2XQhTD9IPlVC"
       },
@@ -1323,18 +1291,50 @@
     {
       "added_at": "2024-08-08 18:53:25",
       "album": {
-        "name": "Happiness Remixes - EP",
-        "url": "https://open.spotify.com/album/35QnXyqia1Cc6aLckE1ehl"
+        "name": "Cross",
+        "url": "https://open.spotify.com/album/5P4Wx3YhpsD4zFTvmPskWd"
       },
       "artists": [
         {
-          "name": "Sam Sparro",
-          "url": "https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y"
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
         }
       ],
-      "duration_ms": 218025,
-      "name": "Happiness - The Magician Remix",
-      "url": "https://open.spotify.com/track/1pnBLmKOqhKcLUV4aFubgi"
+      "duration_ms": 234959,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/2W29TNaSCiolWbPfQNgNOW"
+    },
+    {
+      "added_at": "2024-08-08 18:53:25",
+      "album": {
+        "name": "Idealism",
+        "url": "https://open.spotify.com/album/1tI2KRkbdaxI1lVUDW8F7S"
+      },
+      "artists": [
+        {
+          "name": "Digitalism",
+          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
+        }
+      ],
+      "duration_ms": 250693,
+      "name": "Idealistic",
+      "url": "https://open.spotify.com/track/2jJ2OyPniCS1a16Ghw8vZo"
+    },
+    {
+      "added_at": "2024-08-08 18:53:25",
+      "album": {
+        "name": "Cansei De Ser Sexy",
+        "url": "https://open.spotify.com/album/6IiKo8hbnqheYfEHaEmHoz"
+      },
+      "artists": [
+        {
+          "name": "CSS",
+          "url": "https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA"
+        }
+      ],
+      "duration_ms": 187026,
+      "name": "Music Is My Hot, Hot Sex",
+      "url": "https://open.spotify.com/track/6M2iIzUzlea2yZROhTlxDl"
     }
   ],
   "unique_name": "Bloghouse",

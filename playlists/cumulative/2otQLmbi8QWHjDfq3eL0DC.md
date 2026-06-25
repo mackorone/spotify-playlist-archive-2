@@ -2,7 +2,7 @@
 
 ### [HOUSE MUSIC 2026: Future Dance Hits, House & Deep Beats  🎶](https://open.spotify.com/playlist/2otQLmbi8QWHjDfq3eL0DC)
 
-> Dance Hits that define the future! Get ready for fresh House, Tech House &amp; Disco House grooves\. Featuring new tracks from David Guetta, Fred again.., Dom Dolla, and LF System\. High\-energy party anthems &amp; uplifting vibes\. Updated Weekly! Like &amp; Save for your ultimate 2026 House playlist!
+> The hottest House Music of 2026! This electrifying House playlist features the biggest Dance Hits &amp; future anthems from David Guetta, Fred again.., Sonny Fodera, &amp; Prospa\. Dive into pulsating beats, fresh grooves, and an unforgettable vibe\. Uprdated Weekly! Like &amp; Save for your next dance session!
 
 532 songs - 1 day 2 hr 38 min
 

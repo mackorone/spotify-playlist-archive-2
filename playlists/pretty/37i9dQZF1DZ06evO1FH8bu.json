@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajh7AAAAAAACHn3Z6/ros3sTZpWjLCJy",
+  "snapshot_id": "ajnMgAAAAAA8SpV5baMXqOk1x1VgAvBx",
   "tracks": [
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
         }
       ],
-      "duration_ms": 172480,
-      "name": "STFU",
-      "url": "https://open.spotify.com/track/5gzy2eJn42ED4WoKd9Gpsn"
+      "duration_ms": 224004,
+      "name": "You Should See Me Now",
+      "url": "https://open.spotify.com/track/0s8BLMagjuEEqxqJj4HEHG"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
         }
       ],
-      "duration_ms": 224004,
-      "name": "You Should See Me Now",
-      "url": "https://open.spotify.com/track/0s8BLMagjuEEqxqJj4HEHG"
+      "duration_ms": 172480,
+      "name": "STFU",
+      "url": "https://open.spotify.com/track/5gzy2eJn42ED4WoKd9Gpsn"
     },
     {
       "added_at": null,
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
         }
       ],
-      "duration_ms": 190295,
-      "name": "Staircase Wit",
-      "url": "https://open.spotify.com/track/0rQybU8pbJFcaUU7Mqju0z"
+      "duration_ms": 202158,
+      "name": "Damsel In Distress",
+      "url": "https://open.spotify.com/track/7HuZXpNRta1mVgOmqCJssL"
     },
     {
       "added_at": null,
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
         }
       ],
-      "duration_ms": 202158,
-      "name": "Damsel In Distress",
-      "url": "https://open.spotify.com/track/7HuZXpNRta1mVgOmqCJssL"
+      "duration_ms": 190295,
+      "name": "Staircase Wit",
+      "url": "https://open.spotify.com/track/0rQybU8pbJFcaUU7Mqju0z"
     },
     {
       "added_at": null,

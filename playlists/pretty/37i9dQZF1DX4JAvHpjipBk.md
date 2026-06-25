@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > Celebrate Juneteenth with new music from Tyla, Key Glock, Myles Smith, FKA twigs, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,594,600 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,594,287 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

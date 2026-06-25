@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Manaka
 
-1,622 songs - 3 day 2 hr 21 min
+1,623 songs - 3 day 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -525,6 +525,7 @@
 | [Goddamn](https://open.spotify.com/track/2yOpoQHZUUQGiv39XhVKaw) | [Leviryi](https://open.spotify.com/artist/0dHYc5ljM3Nocqd42goUM5), [KUVIZM](https://open.spotify.com/artist/2crDfVv0eZDUSL4At5lPCy) | [Stereotype](https://open.spotify.com/album/7eGuaXCaPdhpGE6he5L2XP) | 1:27 | 2024-09-12 | 2024-11-27 |
 | [Godzilla](https://open.spotify.com/track/0J3JXLGEwD42xA3DYfw1RF) | [ARuM](https://open.spotify.com/artist/2W46oY5sDSCWXrZq8sljQx) | [Godzilla](https://open.spotify.com/album/49ch4e0WGYLZXMBW0fpGcw) | 3:28 | 2025-07-22 | 2025-10-01 |
 | [GOEMON](https://open.spotify.com/track/6HO0oAjTqqvfaspFkLzYEK) | [Gypsy Well](https://open.spotify.com/artist/1VsvKeGxliar6b9Ps7MqGO) | [GOEMON](https://open.spotify.com/album/6yFHD4LRXQFz6OC9JgTxWl) | 2:32 | 2024-02-27 | 2024-09-04 |
+| [Going](https://open.spotify.com/track/0ooR1VXfwVvPVxfMAqKnUn) | [Manaka](https://open.spotify.com/artist/3TUjg4NvsTvKiyRuPdsurN), [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0) | [Going](https://open.spotify.com/album/1WNLDLMUXMw9vcGVX0WF4N) | 2:49 | 2026-06-23 |  |
 | [going \(feat\. VIGOR MAN\)](https://open.spotify.com/track/29pYdeFpHPW8gFWQB5UgAM) | [GINJI MIKAZUKI](https://open.spotify.com/artist/6J07tTWInNyy1ZzWcr8roz), [VIGOR MAN](https://open.spotify.com/artist/3expK8GzSFWORVEFnKq8h1) | [Le Lien](https://open.spotify.com/album/7JJP4uDWTKWmNxi05g6StI) | 2:58 | 2024-11-19 | 2024-11-21 |
 | [Going Backwards \(feat\. 9for\)](https://open.spotify.com/track/5WscUzfQOdjukpRKwbqP81) | [A.O.](https://open.spotify.com/artist/2jfEozrJPe4aHfA86ClOAI), [9for](https://open.spotify.com/artist/7ou6o7WaEvZOjbpydt9Pgl) | [Going Backwards \(feat\. 9for\)](https://open.spotify.com/album/3pM3ya7DmuDeyTcHRppRJd) | 2:45 | 2024-12-10 | 2025-01-09 |
 | [GOLD RUSH](https://open.spotify.com/track/7FFO2U4dUPmJNHBdCl6cJL) | [FUNNYSTREET](https://open.spotify.com/artist/5H9ffxwTyQrD4QqsDR2kHb) | [GOLD RUSH](https://open.spotify.com/album/2bQw2Z9KCxaZaEnobcfXEF) | 2:50 | 2024-05-08 | 2024-07-31 |

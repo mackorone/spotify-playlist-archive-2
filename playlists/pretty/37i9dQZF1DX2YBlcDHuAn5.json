@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 33929,
+  "num_followers": 33927,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,26 @@
     {
       "added_at": "2026-05-21 22:00:09",
       "album": {
+        "name": "Castaways",
+        "url": "https://open.spotify.com/album/43nTCW1quhIVMokEbaIV6r"
+      },
+      "artists": [
+        {
+          "name": "Milow",
+          "url": "https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5"
+        },
+        {
+          "name": "Florence Arman",
+          "url": "https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15"
+        }
+      ],
+      "duration_ms": 164454,
+      "name": "Castaways",
+      "url": "https://open.spotify.com/track/6ICGEHHvGJ9l4I68zuiyXB"
+    },
+    {
+      "added_at": "2026-05-21 22:00:09",
+      "album": {
         "name": "By The Bay",
         "url": "https://open.spotify.com/album/7LtOrnQ2x5JQFzoSN2PZvC"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 204328,
       "name": "By The Bay",
       "url": "https://open.spotify.com/track/5afcgRprK5Ind4L5Dk6ZuI"
-    },
-    {
-      "added_at": "2026-05-21 22:00:09",
-      "album": {
-        "name": "Castaways",
-        "url": "https://open.spotify.com/album/43nTCW1quhIVMokEbaIV6r"
-      },
-      "artists": [
-        {
-          "name": "Milow",
-          "url": "https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5"
-        },
-        {
-          "name": "Florence Arman",
-          "url": "https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15"
-        }
-      ],
-      "duration_ms": 164454,
-      "name": "Castaways",
-      "url": "https://open.spotify.com/track/6ICGEHHvGJ9l4I68zuiyXB"
     },
     {
       "added_at": "2026-05-21 22:00:09",

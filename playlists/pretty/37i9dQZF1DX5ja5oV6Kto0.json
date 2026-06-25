@@ -1,6 +1,6 @@
 {
   "description": "The new wave of alternative, genre-bending and creative afro-fusion music. Cover: Sarah Phenom, Maleigh Zan, Brazy",
-  "num_followers": 111981,
+  "num_followers": 111997,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
@@ -387,18 +387,18 @@
     {
       "added_at": "2026-06-19 00:01:52",
       "album": {
-        "name": "Love Stray",
-        "url": "https://open.spotify.com/album/5TLK7dV5QefqleKyBjgO6d"
+        "name": "RICK OWENS & GIVENCHY",
+        "url": "https://open.spotify.com/album/59lMRhoxHV8cVChH9l735Z"
       },
       "artists": [
         {
-          "name": "Braye",
-          "url": "https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0"
+          "name": "WAVE$TAR",
+          "url": "https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ"
         }
       ],
-      "duration_ms": 177968,
-      "name": "Deeper Than Love",
-      "url": "https://open.spotify.com/track/621gWcQWi29Ka1veHGYVEI"
+      "duration_ms": 134960,
+      "name": "GIVENCHY",
+      "url": "https://open.spotify.com/track/7BWjBUUdElPrt810wy2pKb"
     },
     {
       "added_at": "2026-06-19 00:01:52",
@@ -419,18 +419,18 @@
     {
       "added_at": "2026-06-19 00:01:52",
       "album": {
-        "name": "RICK OWENS & GIVENCHY",
-        "url": "https://open.spotify.com/album/59lMRhoxHV8cVChH9l735Z"
+        "name": "Love Stray",
+        "url": "https://open.spotify.com/album/5TLK7dV5QefqleKyBjgO6d"
       },
       "artists": [
         {
-          "name": "WAVE$TAR",
-          "url": "https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ"
+          "name": "Braye",
+          "url": "https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0"
         }
       ],
-      "duration_ms": 134960,
-      "name": "GIVENCHY",
-      "url": "https://open.spotify.com/track/7BWjBUUdElPrt810wy2pKb"
+      "duration_ms": 177968,
+      "name": "Deeper Than Love",
+      "url": "https://open.spotify.com/track/621gWcQWi29Ka1veHGYVEI"
     },
     {
       "added_at": "2026-06-19 00:01:52",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-06-19 00:01:52",
       "album": {
-        "name": "Bad Decision",
-        "url": "https://open.spotify.com/album/6H5P86FsOUGSNamxMUYk2A"
-      },
-      "artists": [
-        {
-          "name": "Maali",
-          "url": "https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk"
-        }
-      ],
-      "duration_ms": 211428,
-      "name": "Bad Decision",
-      "url": "https://open.spotify.com/track/7BkG45C1yI14XPRkGQckqo"
-    },
-    {
-      "added_at": "2026-06-19 00:01:52",
-      "album": {
         "name": "Diamond in a Process",
         "url": "https://open.spotify.com/album/5DJMJRwCb46P2lo5Nf2O1n"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 145426,
       "name": "Yapa Yapa",
       "url": "https://open.spotify.com/track/7ksVRiH1HIMc9HbUO6qNH0"
+    },
+    {
+      "added_at": "2026-06-19 00:01:52",
+      "album": {
+        "name": "Bad Decision",
+        "url": "https://open.spotify.com/album/6H5P86FsOUGSNamxMUYk2A"
+      },
+      "artists": [
+        {
+          "name": "Maali",
+          "url": "https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk"
+        }
+      ],
+      "duration_ms": 211428,
+      "name": "Bad Decision",
+      "url": "https://open.spotify.com/track/7BkG45C1yI14XPRkGQckqo"
     },
     {
       "added_at": "2026-06-19 00:01:52",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2026-06-19 00:01:52",
       "album": {
+        "name": "Popstar Party",
+        "url": "https://open.spotify.com/album/5qbv9ptUdlcivvSSOXc7UG"
+      },
+      "artists": [
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "duration_ms": 188764,
+      "name": "Popstar Party",
+      "url": "https://open.spotify.com/track/6ijobO5xJ1NgPGiC7evca8"
+    },
+    {
+      "added_at": "2026-06-19 00:01:52",
+      "album": {
         "name": "Pasta",
         "url": "https://open.spotify.com/album/7FXNVVtmIMGcqCyhOq67Ro"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 151052,
       "name": "Pasta",
       "url": "https://open.spotify.com/track/3viqMJokehxGl9bfvwRRaC"
-    },
-    {
-      "added_at": "2026-06-19 00:01:52",
-      "album": {
-        "name": "Popstar Party",
-        "url": "https://open.spotify.com/album/5qbv9ptUdlcivvSSOXc7UG"
-      },
-      "artists": [
-        {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
-        }
-      ],
-      "duration_ms": 188764,
-      "name": "Popstar Party",
-      "url": "https://open.spotify.com/track/6ijobO5xJ1NgPGiC7evca8"
     },
     {
       "added_at": "2026-06-19 00:01:52",
@@ -1223,6 +1223,26 @@
     {
       "added_at": "2026-06-19 00:01:52",
       "album": {
+        "name": "FOTM (Running)",
+        "url": "https://open.spotify.com/album/7yl1WnKiLCaYuwY4uXkxUJ"
+      },
+      "artists": [
+        {
+          "name": "KwesiSoul",
+          "url": "https://open.spotify.com/artist/2zaQxkROhBUJAyLyNnUuWr"
+        },
+        {
+          "name": "Taitan",
+          "url": "https://open.spotify.com/artist/4g1BJchdm4bno5b4MD9fxf"
+        }
+      ],
+      "duration_ms": 147391,
+      "name": "FOTM (Running)",
+      "url": "https://open.spotify.com/track/2QR0JM3xIQ2CRFsUuagSWs"
+    },
+    {
+      "added_at": "2026-06-19 00:01:52",
+      "album": {
         "name": "Duplicity",
         "url": "https://open.spotify.com/album/7aRtGCd2xiZhyaGICBpOhq"
       },
@@ -1255,26 +1275,6 @@
       "duration_ms": 148800,
       "name": "Format",
       "url": "https://open.spotify.com/track/1QPucGEaFM7i3Z9Tm0voim"
-    },
-    {
-      "added_at": "2026-06-19 00:01:52",
-      "album": {
-        "name": "FOTM (Running)",
-        "url": "https://open.spotify.com/album/7yl1WnKiLCaYuwY4uXkxUJ"
-      },
-      "artists": [
-        {
-          "name": "KwesiSoul",
-          "url": "https://open.spotify.com/artist/2zaQxkROhBUJAyLyNnUuWr"
-        },
-        {
-          "name": "Taitan",
-          "url": "https://open.spotify.com/artist/4g1BJchdm4bno5b4MD9fxf"
-        }
-      ],
-      "duration_ms": 147391,
-      "name": "FOTM (Running)",
-      "url": "https://open.spotify.com/track/2QR0JM3xIQ2CRFsUuagSWs"
     },
     {
       "added_at": "2026-06-19 00:01:52",
@@ -1451,6 +1451,30 @@
     {
       "added_at": "2026-06-19 00:01:52",
       "album": {
+        "name": "Files '26",
+        "url": "https://open.spotify.com/album/209d4zV2zFXAL4206la0VR"
+      },
+      "artists": [
+        {
+          "name": "cosamote",
+          "url": "https://open.spotify.com/artist/2j7j3bmaV4Ej8b9Cy0FtMY"
+        },
+        {
+          "name": "Caleb Clay",
+          "url": "https://open.spotify.com/artist/7nYMySRZoIDziBAJ6KZ3Bl"
+        },
+        {
+          "name": "Jamz FR",
+          "url": "https://open.spotify.com/artist/0ogU1vFCg3izozUsK7ij5q"
+        }
+      ],
+      "duration_ms": 116400,
+      "name": "Consistency",
+      "url": "https://open.spotify.com/track/1Dhy1cYiYuKvgLsOgq2zME"
+    },
+    {
+      "added_at": "2026-06-19 00:01:52",
+      "album": {
         "name": "Italawa",
         "url": "https://open.spotify.com/album/2TSeiQDOkAsmIrNuk329fn"
       },
@@ -1479,30 +1503,6 @@
       "duration_ms": 118974,
       "name": "Princessa",
       "url": "https://open.spotify.com/track/75uaXl3fE1nny7OFA6SCZh"
-    },
-    {
-      "added_at": "2026-06-19 00:01:52",
-      "album": {
-        "name": "Files '26",
-        "url": "https://open.spotify.com/album/209d4zV2zFXAL4206la0VR"
-      },
-      "artists": [
-        {
-          "name": "cosamote",
-          "url": "https://open.spotify.com/artist/2j7j3bmaV4Ej8b9Cy0FtMY"
-        },
-        {
-          "name": "Caleb Clay",
-          "url": "https://open.spotify.com/artist/7nYMySRZoIDziBAJ6KZ3Bl"
-        },
-        {
-          "name": "Jamz FR",
-          "url": "https://open.spotify.com/artist/0ogU1vFCg3izozUsK7ij5q"
-        }
-      ],
-      "duration_ms": 116400,
-      "name": "Consistency",
-      "url": "https://open.spotify.com/track/1Dhy1cYiYuKvgLsOgq2zME"
     },
     {
       "added_at": "2026-06-19 00:01:52",

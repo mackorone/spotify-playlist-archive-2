@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,592 likes - 589 songs - 1 day 16 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,598 likes - 589 songs - 1 day 16 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -173,8 +173,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 163 | [La Luna Hizo Esto](https://open.spotify.com/track/7gYRMOKThN8mxf18dR7vTO) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [Il Volo](https://open.spotify.com/album/1PgN8duH3bxGnO4MILfOt2) | 3:28 |
 | 164 | [I Am](https://open.spotify.com/track/25Pvx66yRLQ6mfwQAEzY2D) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [Hilary Duff](https://open.spotify.com/album/3PkUFix54f7aKr6Jbqnsom) | 3:43 |
 | 165 | [Takin' Back My Heart](https://open.spotify.com/track/2ROJCBdOLQNp01eRXjsPG8) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) | 4:32 |
-| 166 | [You Knew Me When](https://open.spotify.com/track/0pW7lNBM7and8vGVQ6jMxo) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [I Am \(Deluxe\)](https://open.spotify.com/album/6rhUimbVJnPEmsmOBa5i2Y) | 3:40 |
-| 167 | [Nothing Broken But My Heart](https://open.spotify.com/track/03xpqxQ2tCUuDAKNLThmGO) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Celine Dion](https://open.spotify.com/album/7C6LFxLn63uasNoDIQ5khO) | 5:55 |
+| 166 | [Nothing Broken But My Heart](https://open.spotify.com/track/03xpqxQ2tCUuDAKNLThmGO) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Celine Dion](https://open.spotify.com/album/7C6LFxLn63uasNoDIQ5khO) | 5:55 |
+| 167 | [You Knew Me When](https://open.spotify.com/track/0pW7lNBM7and8vGVQ6jMxo) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [I Am \(Deluxe\)](https://open.spotify.com/album/6rhUimbVJnPEmsmOBa5i2Y) | 3:40 |
 | 168 | [Wrap U Around Me](https://open.spotify.com/track/7yaSV1A46vEcTM27dpd8EC) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Tomorrow](https://open.spotify.com/album/33YSJfsBkjN3yqcq18bdRi) | 3:22 |
 | 169 | [Why Goodbye](https://open.spotify.com/track/5QHCpzyo4arFLPPpM2UnwP) | [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0) | [Through The Fire](https://open.spotify.com/album/7trZWGxj0elTVSBisiuCqy) | 4:23 |
 | 170 | [Your Letter](https://open.spotify.com/track/1NSCBsrYgjkmNiNSgiMLzK) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Room 112](https://open.spotify.com/album/2a9zJQA2ttMax51gVplZ2w) | 5:20 |
@@ -289,8 +289,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 279 | [One Night With You \(Everyday of Your Life\)](https://open.spotify.com/track/1h22k2vpmDHIw1ZT0vee4c) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [One Night With You: The Best Of Love, Volume 2](https://open.spotify.com/album/2lkLq0W75R4m4xFZrmXGrB) | 4:24 |
 | 280 | [Don't Need You To \(Tell Me I'm Pretty\)](https://open.spotify.com/track/2X4SVUKg4wvQFJjdt8vPZx) | [Samantha Mumba](https://open.spotify.com/artist/7L12TqJ0fbwtFljTbwfwRI) | [Don't Need You To \(Tell Me I'm Pretty\)](https://open.spotify.com/album/29dax1uaLwWUkIfArGqGjP) | 3:35 |
 | 281 | [You Go First](https://open.spotify.com/track/0qVoSr1jArDkdB78QgKKTH) | [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Diane Warren: The Cave Sessions, Vol\. 1](https://open.spotify.com/album/1xjZo0P4M0V14UHILaJ4Re) | 3:31 |
-| 282 | [Devil's Got a New Disguise](https://open.spotify.com/track/47skqbxKffzIeyMUA6A6Q1) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [The Very Best Of Aerosmith](https://open.spotify.com/album/6RLOmcEDsCekH0fyKicITX) | 4:27 |
-| 283 | [I'll Never Get Over You \- Getting Over Me](https://open.spotify.com/track/48Qec2XCaneiD1j4rGrtqz) | [Jasmine Trias](https://open.spotify.com/artist/0Av5wX4Zd3bam6RWExlocY) | [Jasmine Trias](https://open.spotify.com/album/5tJqBDYbTcZme9t4GfNV2W) | 3:41 |
+| 282 | [I'll Never Get Over You \- Getting Over Me](https://open.spotify.com/track/48Qec2XCaneiD1j4rGrtqz) | [Jasmine Trias](https://open.spotify.com/artist/0Av5wX4Zd3bam6RWExlocY) | [Jasmine Trias](https://open.spotify.com/album/5tJqBDYbTcZme9t4GfNV2W) | 3:41 |
+| 283 | [Devil's Got a New Disguise](https://open.spotify.com/track/47skqbxKffzIeyMUA6A6Q1) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [The Very Best Of Aerosmith](https://open.spotify.com/album/6RLOmcEDsCekH0fyKicITX) | 4:27 |
 | 284 | [Here's To The Nights](https://open.spotify.com/track/5Ct9fD9hFSJuyFEzUlRG6w) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Here’s To The Nights](https://open.spotify.com/album/35Y28ilNoufC6tjau8ZdSB) | 4:06 |
 | 285 | [One In This World](https://open.spotify.com/track/2hyLXM40ZAV9rMBtRNpJL1) | [Haylie Duff](https://open.spotify.com/artist/02T6rhlQ5X6rO01HUOIjLT) | [A Cinderella Story](https://open.spotify.com/album/0v7wAUSuX97AEwuJrcFJHb) | 4:11 |
 | 286 | [Times Like This](https://open.spotify.com/track/2rw5u17eoLKHdBizu0IOE2) | [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Diane Warren: The Cave Sessions, Vol\. 1](https://open.spotify.com/album/1xjZo0P4M0V14UHILaJ4Re) | 4:08 |
@@ -308,8 +308,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 298 | [Perfection](https://open.spotify.com/track/0C5QSBH1wHLfP1cAKQIK4i) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Cher](https://open.spotify.com/album/0NxtOR1ND3Qygex4ACA0z9) | 4:29 |
 | 299 | [Compass](https://open.spotify.com/track/04V4N1KAybtHjv5TiT6YTX) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Rewind](https://open.spotify.com/album/2HwasEZzIj3QfRc5n5HDQs) | 4:21 |
 | 300 | [Body to Body, Heart to Heart](https://open.spotify.com/track/4DKnzfWjpSw77g9hW82qXx) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Living Proof](https://open.spotify.com/album/6wObbsRHMxZIo06tP3hYTa) | 3:58 |
-| 301 | [Soon](https://open.spotify.com/track/0YRGIRTHsQzuHoOKvdosBN) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [I Need You](https://open.spotify.com/album/7uBPEVNhaQa2G68Rd6mToK) | 3:52 |
-| 302 | [Cruel Nights](https://open.spotify.com/track/7oUxPHvb894AdTQTxIUGZm) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Brigade](https://open.spotify.com/album/5CuSWXFhWielWXrXK8Sd8m) | 4:04 |
+| 301 | [Cruel Nights](https://open.spotify.com/track/7oUxPHvb894AdTQTxIUGZm) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Brigade](https://open.spotify.com/album/5CuSWXFhWielWXrXK8Sd8m) | 4:04 |
+| 302 | [Soon](https://open.spotify.com/track/0YRGIRTHsQzuHoOKvdosBN) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [I Need You](https://open.spotify.com/album/7uBPEVNhaQa2G68Rd6mToK) | 3:52 |
 | 303 | [Don't Make Me Live Without You](https://open.spotify.com/track/4QamiGJ7vPuJvBCeCQgRMx) | [No Mercy](https://open.spotify.com/artist/2tUGlReCZRMoRgl0IS79i3) | [My Promise](https://open.spotify.com/album/5CQHiljabLGvn72iQk0wsZ) | 4:00 |
 | 304 | [Better Me](https://open.spotify.com/track/0Q0cmtyVIj6rzDRMsRbkkx) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [Calling All Hearts \(Deluxe\)](https://open.spotify.com/album/78lzpyeBeywyc6h9SCFrAO) | 3:55 |
 | 305 | [Moonlight \- DJ THT Edit](https://open.spotify.com/track/50m1SoDGafprzaJkqV3dtr) | [Jens O.](https://open.spotify.com/artist/1DDMrVXQt53FwOcxBQvjwh), [Ti\-Mo](https://open.spotify.com/artist/73JwGHDxXzf3LpzZTqz2GG) | [Moonlight](https://open.spotify.com/album/3HSV7iYeObvpqCWJCzCA2V) | 3:20 |
@@ -598,4 +598,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 588 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 589 | [There's Always Love](https://open.spotify.com/track/1GEM0xFN8KCkZ8MWXeTGjk) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Music Speaks Louder Than Words](https://open.spotify.com/album/749QW9xP9WJSrLAYHAJaco) | 4:30 |
 
-Snapshot ID: `AcVBZgAAAAB4GgsPxkP0LL7V26k07MKu`
+Snapshot ID: `AcVHBgAAAABTD1rUD9hb6Vb7eNOMf22d`

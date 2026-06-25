@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-8,427 songs - 19 day 10 hr 59 min
+8,428 songs - 19 day 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7964,6 +7964,7 @@
 | [Voy a pensar en ti](https://open.spotify.com/track/7j0X2ye2TMNaa8gIrVoN89) | [mariagrep](https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy), [Mundo Prestigio](https://open.spotify.com/artist/440S5SUBOxAKr28buL99Xw) | [Voy a pensar en ti](https://open.spotify.com/album/34PqcFBUnb8OYk1tNvvfoV) | 3:18 | 2026-02-20 | 2026-02-28 |
 | [Voy con la Luna \- por rumbas](https://open.spotify.com/track/7dZ8mkIpMCksuMYTK3aLyM) | [d.dramático](https://open.spotify.com/artist/16r4uM9iMu5Td76JkbzpK3), [Juanito Bienmesabe](https://open.spotify.com/artist/2HGAOLGnOuvsVX7DKeRnqV) | [Voy con la Luna \- por rumbas](https://open.spotify.com/album/1HrOXAiUdo64mDlukyhuHZ) | 2:29 | 2024-11-29 | 2025-01-11 |
 | [Voyage](https://open.spotify.com/track/7uD9jf0smjoapsHkxEmlEg) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0), [mori](https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX) | [Voyage](https://open.spotify.com/album/68wPgpFpa1NpJvSBUnBI9E) | 3:16 | 2025-09-12 | 2025-09-20 |
+| [Voyager](https://open.spotify.com/track/4YZ7rGwFbbbOTJZECr4T8W) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Voyager](https://open.spotify.com/album/0aP1rf4Xix1A4oG6q2SfWy) | 4:07 | 2026-06-24 |  |
 | [Vuela](https://open.spotify.com/track/3j506WDipR7MYz24ZW7sJQ) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k), [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj) | [Vuela](https://open.spotify.com/album/6onCoMgkndiEcLPXZX4OLz) | 3:49 | 2025-11-14 | 2025-11-22 |
 | [Vuela](https://open.spotify.com/track/0YLuqUI5Qw4HlaTbGbOKSB) | [Nena Daconte](https://open.spotify.com/artist/58ZTr51uERVdMQbfDbc5B3) | [Vuela](https://open.spotify.com/album/3fh2fVdaTb6CsD0PRqvKdx) | 3:33 | 2024-10-11 | 2024-10-19 |
 | [vuela, y sus pupilas se dilatan](https://open.spotify.com/track/3EU7t6cHkAA3NJNdtiOMTC) | [Syd dePalma](https://open.spotify.com/artist/04vfo27dr0j76mPV6vtzuE), [Niño de Elche](https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP) | [paris](https://open.spotify.com/album/1BBAE5Q4ciKTM8Ql9gO9TA) | 3:46 | 2025-10-31 | 2025-11-08 |

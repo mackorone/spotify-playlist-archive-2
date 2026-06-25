@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Harsha Vardhan
 
-803 songs - 1 day 21 hr 29 min
+804 songs - 1 day 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Cosmic Kaadhal \(From "Nodigalal Naam Karaiya"\)](https://open.spotify.com/track/7urPC6bNYLfTZk56JEBECA) | [MK Mohan Kumar](https://open.spotify.com/artist/2GrAC4fHqBDMYt8YYIPJqr), [Koshy Cherry](https://open.spotify.com/artist/3Hx1gvwW4mVtO2ucjxqX4Y) | [Cosmic Kaadhal \(From "Nodigalal Naam Karaiya"\)](https://open.spotify.com/album/6uw6DurUUI2IWb7BfDKm3M) | 2:50 | 2024-06-01 | 2024-12-06 |
 | [Cray Cray](https://open.spotify.com/track/42axzyHxUiNIjZE0jjhHY3) | [Abhishek Pughazh](https://open.spotify.com/artist/0W6yV529ajj6imwa7W7aZZ) | [Cray Cray](https://open.spotify.com/album/7ALMIpTflJnjiScqq69CpF) | 2:54 | 2025-09-19 | 2025-10-25 |
 | [Crushu Ponnu](https://open.spotify.com/track/6K9UX4O0gJDWB5WA2yKZ8F) | [Vithun Gopal](https://open.spotify.com/artist/1aFooHTtn9P4VBcBFIlVRe), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Crushu Ponnu](https://open.spotify.com/album/221xzfAS0aodo5AAkYo1RQ) | 3:37 | 2023-06-30 | 2024-01-20 |
-| [Cult Classic](https://open.spotify.com/track/35mRmwFEF4EPctOTvJ0iDa) | [Gabrial Gladson](https://open.spotify.com/artist/7bT5pEKrRCw55c5Gio2pE8), [Adithya Sriram](https://open.spotify.com/artist/0QkoNWJljkXVNcOwNooaQo), [Jane Thompson](https://open.spotify.com/artist/0qOGPgfGo4xZ5ttkpLx37N) | [Cult Classic](https://open.spotify.com/album/5qkQpBcvNccPFME57mYCpn) | 3:12 | 2026-02-16 |  |
+| [Cult Classic](https://open.spotify.com/track/35mRmwFEF4EPctOTvJ0iDa) | [Gabrial Gladson](https://open.spotify.com/artist/7bT5pEKrRCw55c5Gio2pE8), [Adithya Sriram](https://open.spotify.com/artist/0QkoNWJljkXVNcOwNooaQo), [Jane Thompson](https://open.spotify.com/artist/0qOGPgfGo4xZ5ttkpLx37N) | [Cult Classic](https://open.spotify.com/album/5qkQpBcvNccPFME57mYCpn) | 3:12 | 2026-02-16 | 2026-06-25 |
 | [Daavu](https://open.spotify.com/track/4Dmz2VjarNsfZf84nDGJMB) | [Nilukshan](https://open.spotify.com/artist/2hBjBVtnPvVJ8HycacP7EL), [Velan Udhayakumar](https://open.spotify.com/artist/1aiY8n9nQ9hhBtqfl33EPG) | [Daavu](https://open.spotify.com/album/38zcO3MVMaUVz2foHaAlHI) | 3:17 | 2026-06-08 |  |
 | [Dapparu Raaja](https://open.spotify.com/track/03nlIEXvxmpxrXjLEeVHod) | [V3K](https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe), [Jazir](https://open.spotify.com/artist/0d1lMWHrbrstpXRWaadvhZ) | [Dapparu Raaja](https://open.spotify.com/album/6lyIOuHtXkTnjVd6TXtOwW) | 4:37 | 2024-10-12 | 2024-12-06 |
 | [Darling](https://open.spotify.com/track/34tuP4nFoFi0l43l5g2gJd) | [$carce](https://open.spotify.com/artist/71LOuajUcL1fBqE6rA1nTc), [Jeruson](https://open.spotify.com/artist/08z8cYk0E56BpT6vSS04ss) | [Darling](https://open.spotify.com/album/0E4oO3SgpGQu0CGt7GyX6v) | 3:17 | 2024-10-24 | 2024-12-06 |
@@ -335,6 +335,7 @@
 | [Konji Pesa](https://open.spotify.com/track/4rxltwAsWLvTN3mvMLxoc9) | [Rajaganapathy](https://open.spotify.com/artist/2VuJo5b1VcEIruE52GtNLq), [47seconds](https://open.spotify.com/artist/6zSpeGx3zxDEH4QxixbJn6) | [Konji Pesa](https://open.spotify.com/album/3OT4puDbCCHSZwv0CXbdSL) | 3:22 | 2025-07-18 | 2025-08-26 |
 | [Koothu](https://open.spotify.com/track/6tP9H2YghB2KaNdWZwlVTp) | [Siennor](https://open.spotify.com/artist/7llcZ59fwsSv4nEx3mgu31) | [Agappor](https://open.spotify.com/album/6AV0XvOWE51QL7LozwDy2T) | 1:48 | 2023-04-28 | 2023-10-04 |
 | [Kozhupurale](https://open.spotify.com/track/3Wlpc4581rrTf20EeyNuOY) | [Dhinesh Nagarajan](https://open.spotify.com/artist/7F9j3YZmUVUSBIDISKbwbt) | [Kadhalikkiren \(From "Think Indie"\)](https://open.spotify.com/album/7KSmaRHan0muLPyx3zaVpr) | 2:54 | 2025-09-17 | 2025-11-06 |
+| [Kuchi Udambu](https://open.spotify.com/track/0b4VZPys5IkKEKT1cSdAz7) | [M.Kapilan](https://open.spotify.com/artist/3QSgLjnVKpllCs1jfw9Mra) | [Kuchi Udambu](https://open.spotify.com/album/3KA0XyJR9nFIQ0qLvofD57) | 3:26 | 2026-06-24 |  |
 | [Kukku](https://open.spotify.com/track/03s9QjSSFetqBixnA1Hivl) | [Kelithee](https://open.spotify.com/artist/6HlnMXGEvONMYRUGa3QQTg), [Adithya Sriram](https://open.spotify.com/artist/0QkoNWJljkXVNcOwNooaQo) | [Kukku](https://open.spotify.com/album/6OTyI6hzeTaTrJxWYiemAt) | 2:55 | 2026-04-27 | 2026-05-10 |
 | [Kullama](https://open.spotify.com/track/1tUbPKPSj05LI309xJ1Fid) | [K L Revanth](https://open.spotify.com/artist/3FGLO2665aCenkZD9vF1eB), [Viwin Frencies](https://open.spotify.com/artist/47ZrxtQrnCIPnKvYxGNdtx), [Deepika Thamizhvanan](https://open.spotify.com/artist/43a28ORx6LKegumMDqM5pD) | [Kullama](https://open.spotify.com/album/6sS60GSdDnGxQPROVnZztc) | 4:48 | 2024-02-12 | 2024-08-24 |
 | [Laila x Majnu](https://open.spotify.com/track/3TDazJP7kKplHUlG0vL3Po) | [Swag Madrasis](https://open.spotify.com/artist/2FIDxch0IdXQcBEpwoknbQ) | [Laila x Majnu](https://open.spotify.com/album/3KkCR3h70DWMcqgZvLzDNA) | 3:48 | 2024-05-03 | 2024-08-11 |

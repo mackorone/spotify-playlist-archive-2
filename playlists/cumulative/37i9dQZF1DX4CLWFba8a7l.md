@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: The Avalanches
 
-661 songs - 1 day 12 hr 58 min
+662 songs - 1 day 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -453,6 +453,7 @@
 | [poison](https://open.spotify.com/track/708OIcF8K7xaT8Pj7XqSml) | [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [poison](https://open.spotify.com/album/1obOKGKtYzlDjO4hyO6LHn) | 2:05 | 2025-09-01 | 2025-09-05 |
 | [POISON IVY](https://open.spotify.com/track/5TFfsW1UUFWJQKY5vORoW0) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID) | [POISON IVY](https://open.spotify.com/album/5fqoqqx5sBoPArdKZDYLjx) | 2:46 | 2025-05-01 | 2025-05-16 |
 | [Powertrippn'](https://open.spotify.com/track/3q9hvVcew3qfHhFDoW9UKN) | [GUM](https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW), [Ambrose Kenny\-Smith](https://open.spotify.com/artist/0NLFuTzlY3oCTiJGBzpu97) | [Ill Times](https://open.spotify.com/album/2aVVkK5Wm8bcUGxMK0Hh4J) | 3:10 | 2024-07-18 | 2024-08-27 |
+| [PQC](https://open.spotify.com/track/0bP1I4aL8vehpEkXQ3dmgO) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [PQC](https://open.spotify.com/album/35hsDC9B2utVC66cjrJ1GY) | 3:32 | 2026-06-18 |  |
 | [Pressed](https://open.spotify.com/track/4J1511BNhGrfsDYut0TDSs) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Pressed](https://open.spotify.com/album/4KGLVBHwJiDdpYkJcoV6VN) | 2:53 | 2026-05-07 | 2026-05-15 |
 | [Prove](https://open.spotify.com/track/3b0xNfVAT1xj3hRkl23PD6) | [Dylan Atlantis](https://open.spotify.com/artist/1OIwR0QnsHzPZrC1pTN1UO) | [It Starts Again](https://open.spotify.com/album/6Pgc6rfkN8tH7Di52bEXnQ) | 3:04 | 2025-10-09 | 2025-10-17 |
 | [Punch Drunk Love](https://open.spotify.com/track/3pw0oGsWWY9vUVFcUlHq4O) | [aleksiah](https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9) | [Punch Drunk Love](https://open.spotify.com/album/460d5gDLVH1L54u9wOyhbY) | 3:17 | 2025-09-18 | 2025-09-26 |
@@ -607,7 +608,7 @@
 | [Touchy Subject](https://open.spotify.com/track/5oquffCDI8BAXP7jBewlll) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Touchy Subject](https://open.spotify.com/album/7E6LnPGLCbh5yZMb5sjWEk) | 3:47 | 2024-05-31 | 2024-11-26 |
 | [Train Left The Station](https://open.spotify.com/track/2MRxpNwr8fccjiRMpa9zFA) | [The Dreggs](https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1) | [Caught in a Reverie](https://open.spotify.com/album/57mCFDpG3DjTa7LeD89Dsr) | 4:15 | 2024-05-31 | 2025-01-10 |
 | [Transactional Deal](https://open.spotify.com/track/7oOsr25JQYP7WbYiVrvImd) | [Charlie Collins](https://open.spotify.com/artist/2rEuydWE0WYRbI4YajHu9E) | [Transactional Deal](https://open.spotify.com/album/4WyxbPuZYUA7QaXQ79JFOl) | 4:16 | 2025-09-01 | 2025-09-05 |
-| [Trust](https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 3:26 | 2024-05-31 | 2026-06-12 |
+| [Trust](https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 3:26 | 2024-05-31 |  |
 | [Truth](https://open.spotify.com/track/4mSDOE2kImbodUtKFLmcqm) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Truth](https://open.spotify.com/album/1PoebRqjvlN71Tjdwg6I37) | 3:27 | 2025-05-29 | 2025-10-10 |
 | [Try Me](https://open.spotify.com/track/19z986PgphGLQvBEfYSrvU) | [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu) | [Try Me](https://open.spotify.com/album/673wPIH6WgkyhaM5bTfg35) | 3:12 | 2025-09-01 | 2025-09-05 |
 | [Tsunami](https://open.spotify.com/track/5ORGoLlRAtpEz9q7ztyS8I) | [The Moving Stills](https://open.spotify.com/artist/5MXKeoHi08yq7nnRNe3t4w) | [Half Moon Bay](https://open.spotify.com/album/6ZNvHEDhXHfcjVDy7uBUIP) | 3:09 | 2025-07-03 | 2025-07-11 |
@@ -620,7 +621,7 @@
 | [Untangling](https://open.spotify.com/track/0bSYdcUnIbKJbraPbLc4kj) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Untangling](https://open.spotify.com/album/7g4aMr7RrfdBwZhXtZnNVd) | 3:56 | 2024-08-15 | 2025-01-10 |
 | [Ur A Rat](https://open.spotify.com/track/63n0N10n1XYQTMCka3yqtE) | [WAAX](https://open.spotify.com/artist/1KaaogmGXWK1Qi3WR81Tmi) | [Ur A Rat](https://open.spotify.com/album/0fA2VjYx1r2NnxUe2bP9ib) | 2:39 | 2025-08-07 | 2025-08-16 |
 | [Velcro](https://open.spotify.com/track/3a76rzObHzW2ybgktTS4Ga) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Velcro](https://open.spotify.com/album/5ucuVQ7IvRZDPtdXfql6HG) | 3:28 | 2026-05-21 |  |
-| [VERTICAL WORLDS](https://open.spotify.com/track/4BixLPsuhd4pJw4DC1lt0z) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [VERTICAL WORLDS](https://open.spotify.com/album/7J5sYFuxDRzYGrSNqv9H1G) | 3:15 | 2026-05-21 |  |
+| [VERTICAL WORLDS](https://open.spotify.com/track/4BixLPsuhd4pJw4DC1lt0z) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [VERTICAL WORLDS](https://open.spotify.com/album/7J5sYFuxDRzYGrSNqv9H1G) | 3:15 | 2026-05-21 | 2026-06-25 |
 | [Viagra](https://open.spotify.com/track/14I5n4dTGVIB4Y995Rl5sC) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Viagra](https://open.spotify.com/album/49JW9xFUTXqr58ZBnLjFZ1) | 4:11 | 2024-10-24 | 2024-11-01 |
 | [Waiting For Tonight](https://open.spotify.com/track/75ckdfW23NPWGDMSjdUFBv) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Waiting For Tonight](https://open.spotify.com/album/0qotkTPWWApJanSQPeynOe) | 3:18 | 2024-05-31 | 2024-09-21 |
 | [Wake Up](https://open.spotify.com/track/1m8jhrWGlDXOWI2l8JG9Lk) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Wake Up](https://open.spotify.com/album/4h5y3RQfceyaCLCjDAYZuo) | 2:04 | 2024-05-31 | 2025-04-09 |
@@ -641,7 +642,7 @@
 | [when my wings are cut off](https://open.spotify.com/track/4FLzbyklBSxPgU1PW82UUj) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [i want the light to swallow me whole](https://open.spotify.com/album/6OZBrcIljhzV1VMfQLgVbh) | 2:17 | 2025-06-12 | 2025-09-05 |
 | [When We Were Young](https://open.spotify.com/track/3Up4Umt7RGaKsmU6aUpAlR) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [When We Were Young](https://open.spotify.com/album/1Zf7IoTfjpHBfk1baVolew) | 3:08 | 2026-01-29 | 2026-02-06 |
 | [Where Does Life Begin](https://open.spotify.com/track/62WiDhDtNdb3n1xc7MVBFa) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Double A Side](https://open.spotify.com/album/0RZU79Nn0a5W5oJCvqWBFH) | 2:57 | 2025-08-31 | 2025-09-02 |
-| [Where Our Streets Met](https://open.spotify.com/track/1pdY6AbGcmbev2bBj7ScdA) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [What Makes a Girl a Girl](https://open.spotify.com/album/4QqoZQ9YV7TOTrkohQQ5pQ) | 3:17 | 2026-02-12 |  |
+| [Where Our Streets Met](https://open.spotify.com/track/1pdY6AbGcmbev2bBj7ScdA) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [What Makes a Girl a Girl](https://open.spotify.com/album/4QqoZQ9YV7TOTrkohQQ5pQ) | 3:17 | 2026-02-12 | 2026-06-25 |
 | [Where You Need To Be](https://open.spotify.com/track/5wAxcO9N89pLKRo68vMqJL) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Where You Need To Be](https://open.spotify.com/album/5zuAaJ9wg60dc7UOVHVgRz) | 4:13 | 2025-05-22 | 2025-10-10 |
 | [While I Got Time](https://open.spotify.com/track/1rCCa9y1CHjPvphMTBtRbC) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [While I Got Time](https://open.spotify.com/album/2IYWJYYuElnW35H7JJJQCs) | 3:45 | 2025-09-01 | 2025-09-05 |
 | [Whistle](https://open.spotify.com/track/3npT8vIhMJQp3NYrs9FjAB) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I), [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf) | [Whistle](https://open.spotify.com/album/6wdBvLfeROObJGi5nIlyDD) | 2:22 | 2026-03-26 | 2026-04-27 |

@@ -747,6 +747,36 @@
     },
     {
       "album": {
+        "name": "Bandhu 2.0 (From \"Cocktail 2\")",
+        "url": "https://open.spotify.com/album/5830mF41OEgnX3twGqEzSL"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        },
+        {
+          "name": "Neeraj Shridhar",
+          "url": "https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221777,
+      "name": "Bandhu 2.0 (From \"Cocktail 2\")",
+      "url": "https://open.spotify.com/track/4qnFfsCaMe2Nsg1VfFPxq9"
+    },
+    {
+      "album": {
         "name": "A Gentleman",
         "url": "https://open.spotify.com/album/5yl46ykkODW4AE8vZ2qQ0N"
       },
@@ -1508,6 +1538,36 @@
       "duration_ms": 157152,
       "name": "Character Dheela 2.0 (From \"Shehzada\")",
       "url": "https://open.spotify.com/track/0QT9B8Yfrz0vi66oXMrKJg"
+    },
+    {
+      "album": {
+        "name": "Chatni (From \"Dhamaal 4\")",
+        "url": "https://open.spotify.com/album/7LcDbGpG2Ti1cq9QKlaF8q"
+      },
+      "artists": [
+        {
+          "name": "Aditya Dev",
+          "url": "https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs"
+        },
+        {
+          "name": "Neelkamal Singh",
+          "url": "https://open.spotify.com/artist/2pywmTkxO0H1CY8ZXSJTSC"
+        },
+        {
+          "name": "Mamta Sharma",
+          "url": "https://open.spotify.com/artist/0RMsiUCTjsdGjoKyhEm8Y4"
+        },
+        {
+          "name": "Dhiraj Babuaan",
+          "url": "https://open.spotify.com/artist/6rVoypz9oLQQugC1W9pH4k"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155144,
+      "name": "Chatni (From \"Dhamaal 4\")",
+      "url": "https://open.spotify.com/track/3sC1jet8rEyTu3GOrPDJlm"
     },
     {
       "album": {
@@ -4584,7 +4644,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 187099,
       "name": "Main Khiladi - From \"Selfiee\"",
       "url": "https://open.spotify.com/track/7E0A86Yhc0ZyOl6aAPE5wN"
@@ -5342,7 +5402,7 @@
       ],
       "date_added": "2021-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 164045,
       "name": "Nadiyon Paar (Let the Music Play Again) (From \"Roohi\")",
       "url": "https://open.spotify.com/track/2PEo8JQ48mfEv8a2HLqDvt"
@@ -6396,7 +6456,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 219212,
       "name": "Roop Di Rani (From \"Pati Patni Aur Woh Do\")",
       "url": "https://open.spotify.com/track/7xyNDDiMs0H0424cvXjdct"
@@ -8086,6 +8146,36 @@
       "duration_ms": 253833,
       "name": "Uyi Amma - From \"Azaad\"",
       "url": "https://open.spotify.com/track/2nP1wLRh85mo5Wdj4RQldp"
+    },
+    {
+      "album": {
+        "name": "VALLAH (From \u201cCocktail 2\u201d)",
+        "url": "https://open.spotify.com/album/6VS0zvMt7Rrdv8bZrMlCfE"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        },
+        {
+          "name": "Harrdy Sandhu",
+          "url": "https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193591,
+      "name": "VALLAH - From \u201cCocktail 2\u201d",
+      "url": "https://open.spotify.com/track/4ghNyHEWBeYan20mwSWDQ8"
     },
     {
       "album": {

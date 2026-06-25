@@ -4,7 +4,7 @@
 
 > 
 
-1,392 songs - 3 day 7 hr 46 min
+1,393 songs - 3 day 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -468,7 +468,7 @@
 | [Gorgeous](https://open.spotify.com/track/1ZY1PqizIl78geGM4xWlEA) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:29 | 2023-07-05 | 2026-05-31 |
 | [Grandma Calls The Boy Bad News](https://open.spotify.com/track/6joRiv1DoamZ0AyBvQg8T6) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [F1 The Album](https://open.spotify.com/album/2HwRKkEp7jXbxXwcGyZYHK) | 3:26 | 2025-07-04 |  |
 | [grave](https://open.spotify.com/track/6jDT7DB6k0psPX0nWNDI1K) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 3:13 | 2023-12-07 |  |
-| [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-10-09 |  |
+| [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-10-09 | 2026-06-25 |
 | [Green Eggs And Ham \- Original Broadway Cast Recording](https://open.spotify.com/track/6HatwE3la3Gh8eoAyL2Z6d) | [Dr\. Seuss](https://open.spotify.com/artist/4mi47OiK1uIz0TygMvYgW2), [Lynn Ahrens](https://open.spotify.com/artist/7vd6sS3NY5iwoMuyOK4LPK), [Stephen Flaherty](https://open.spotify.com/artist/0e0KzJhXyejX79USdqgNiy), [Original Broadway Cast: Seussical: The Musical](https://open.spotify.com/artist/4qmFAqxBodtlPyTkn1lMtJ) | [Seussical](https://open.spotify.com/album/1O4Z2W8WXk6eoeAIQy67Ze) | 1:17 | 2025-11-05 |  |
 | [Greenlight](https://open.spotify.com/track/56LQyaXsYWQZ2b7OPLAKEO) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:45 | 2025-02-20 |  |
 | [GRWM](https://open.spotify.com/track/6nYlU9iIBRwEnCdXudBJl4) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 2:35 | 2025-08-07 |  |
@@ -836,6 +836,7 @@
 | [Nostalgia](https://open.spotify.com/track/1YZOcaGiN1cCwANvG3Ib9G) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 3:03 | 2025-02-20 |  |
 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-08-03 | 2026-01-05 |
 | [Nothing Changes](https://open.spotify.com/track/4MITx2mU5AihHNUVDPKEpE) | [Jewelle Blackman](https://open.spotify.com/artist/4TBsKdA7190eaHM5E2HQI9), [Yvette Gonzalez\-Nacer](https://open.spotify.com/artist/5wUluB4hpO7rTnPSUCqJNT), [Kay Trinidad](https://open.spotify.com/artist/7yWvIWQVF6Cfj5YTsrHIin), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s), [Hadestown Original Broadway Company](https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH) | [Hadestown \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1J1yxODbNlqKbwRqJxYJUP) | 1:11 | 2025-07-27 |  |
+| [Nothing Matters But You](https://open.spotify.com/track/70wrRjno33tp0gaYLqdyjC) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Silence Between Songs](https://open.spotify.com/album/0Q0rJ81u7O4EFCpqkcwJJ2) | 2:45 | 2026-06-24 |  |
 | [Nothing New \(feat\. Phoebe Bridgers\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/01K4zKU104LyJ8gMb7227B) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:18 | 2023-08-14 |  |
 | [Notice Me](https://open.spotify.com/track/6cjQZQh7G1PT56n5EtjvJC) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 2:40 | 2024-12-30 |  |
 | [Notice Me, Horton \- From "Seussical The Musical"](https://open.spotify.com/track/5HML9ylanbhqWYe0kk3jiM) | [Lynn Ahrens](https://open.spotify.com/artist/7vd6sS3NY5iwoMuyOK4LPK), [Stephen Flaherty](https://open.spotify.com/artist/0e0KzJhXyejX79USdqgNiy), [Janine LaManna](https://open.spotify.com/artist/6JR2RlXf1P7oALaIiHwJEm), [Kevin Chamberlin](https://open.spotify.com/artist/0hjafZk3hkNc7iamqlXfJY) | [Seussical](https://open.spotify.com/album/1O4Z2W8WXk6eoeAIQy67Ze) | 3:07 | 2025-11-05 |  |

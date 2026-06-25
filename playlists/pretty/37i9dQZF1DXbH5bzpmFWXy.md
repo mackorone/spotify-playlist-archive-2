@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 
 > Porque el barrio es el barrio aquí y en Corea\. Escucha las cumbias más perronas para el partido
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,486 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,509 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 24 | [Rumba Quimbumba](https://open.spotify.com/track/0trX1nThTl4NfJuctzJVA3) | [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX) | [El Poder De La Cumbia](https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m) | 4:57 |
 | 25 | [Vida No Te Vayas](https://open.spotify.com/track/3WZw8CGZAUFTlpacWeesB6) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Corazoncito Pum Pum \(2025 Remastered\)](https://open.spotify.com/album/4bjYLHXanQRMPMRC4FwcnM) | 3:48 |
 | 26 | [Cumbia En La Playa](https://open.spotify.com/track/4USKfftLX85UCuwuV5DLUT) | [INSPIRACION COLOMBIANA](https://open.spotify.com/artist/6aDQPhm289KjJHzU0TvaVA) | [Quienes Somos](https://open.spotify.com/album/3A20APioynHFJaz8sItaP1) | 5:45 |
-| 27 | [Suena Mi Cumbia \- 2025 Remastered](https://open.spotify.com/track/0IWezx2Lu5qV5WFMlYvdnn) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Como un Ángel \(2025 Remastered\)](https://open.spotify.com/album/2TVVimdJI79DQhtc2ddC0f) | 3:52 |
+| 27 | [Suena Mi Cumbia \- 2025 Remastered](https://open.spotify.com/track/0IWezx2Lu5qV5WFMlYvdnn) | [Los Yaguaru de Angel Venegas](https://open.spotify.com/artist/4RVNe0ykEiQN2l5FpErbtz) | [Como un Ángel \(2025 Remastered\)](https://open.spotify.com/album/2TVVimdJI79DQhtc2ddC0f) | 3:52 |
 | 28 | [Corazón Solitario](https://open.spotify.com/track/7pxs0seevgCsp3h23lUGBw) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guarachando](https://open.spotify.com/album/18alqYy5VLW7BxT86gmAGI) | 4:03 |
 | 29 | [Corazón Enamorado](https://open.spotify.com/track/54PSHIY4nF4CxtwBpSOqW6) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia](https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK) | 4:08 |
 | 30 | [La Borrachita](https://open.spotify.com/track/7DYs1KJ0pQMLUqijW7X0ZO) | [Polibio Mayorga](https://open.spotify.com/artist/1zjOtZAqIcwJVMmKOoB60K) | [Super Exitos, Vol\. II](https://open.spotify.com/album/7ghOAgt0nH4N9KYG3Ub9Qd) | 2:13 |

@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3092\u7279\u96c6\u3002Featuring Japanese Singer-Songwriters. Cover: tuki.",
-  "num_followers": 65468,
+  "num_followers": 65474,
   "original_name": "\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc Singer-Songwriter Japan",
   "owner": {
     "name": "Spotify",
@@ -979,6 +979,22 @@
     {
       "added_at": "2026-06-23 15:00:10",
       "album": {
+        "name": "\u30ce\u30fc\u30de\u30eb",
+        "url": "https://open.spotify.com/album/4WUPtlNVOtxUZBaZWuYjAQ"
+      },
+      "artists": [
+        {
+          "name": "TOMONARI SORA\t",
+          "url": "https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG"
+        }
+      ],
+      "duration_ms": 268586,
+      "name": "\u30ce\u30fc\u30de\u30eb",
+      "url": "https://open.spotify.com/track/2t16JXtOvW6Z5agduqqqmI"
+    },
+    {
+      "added_at": "2026-06-23 15:00:10",
+      "album": {
         "name": "Magic",
         "url": "https://open.spotify.com/album/2G6L8gwcR9wKUFHMGt4MUY"
       },
@@ -995,18 +1011,18 @@
     {
       "added_at": "2026-06-23 15:00:10",
       "album": {
-        "name": "\u30ce\u30fc\u30de\u30eb",
-        "url": "https://open.spotify.com/album/4WUPtlNVOtxUZBaZWuYjAQ"
+        "name": "solitude",
+        "url": "https://open.spotify.com/album/4Um3CxQQHfb7aWNuUxvkAb"
       },
       "artists": [
         {
-          "name": "TOMONARI SORA\t",
-          "url": "https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG"
+          "name": "Lavt",
+          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
         }
       ],
-      "duration_ms": 268586,
-      "name": "\u30ce\u30fc\u30de\u30eb",
-      "url": "https://open.spotify.com/track/2t16JXtOvW6Z5agduqqqmI"
+      "duration_ms": 150700,
+      "name": "voicemail",
+      "url": "https://open.spotify.com/track/1qQ6cYg7zyWPlQMyryQjvs"
     },
     {
       "added_at": "2026-06-23 15:00:10",
@@ -1039,22 +1055,6 @@
       "duration_ms": 297000,
       "name": "\u30af\u30ed\u30fc\u30d0\u30fc",
       "url": "https://open.spotify.com/track/6RbK8eVJ2Zo1VifYN7EFTw"
-    },
-    {
-      "added_at": "2026-06-23 15:00:10",
-      "album": {
-        "name": "solitude",
-        "url": "https://open.spotify.com/album/4Um3CxQQHfb7aWNuUxvkAb"
-      },
-      "artists": [
-        {
-          "name": "Lavt",
-          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
-        }
-      ],
-      "duration_ms": 150700,
-      "name": "voicemail",
-      "url": "https://open.spotify.com/track/1qQ6cYg7zyWPlQMyryQjvs"
     },
     {
       "added_at": "2026-06-23 15:00:10",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-06-23 15:00:10",
       "album": {
-        "name": "Pool",
-        "url": "https://open.spotify.com/album/18KGoNHgu434wYaS0aTqlq"
-      },
-      "artists": [
-        {
-          "name": "Satoko Shibata",
-          "url": "https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU"
-        }
-      ],
-      "duration_ms": 194693,
-      "name": "Pool",
-      "url": "https://open.spotify.com/track/6PPpFg4PAtcq6bC6th0H6E"
-    },
-    {
-      "added_at": "2026-06-23 15:00:10",
-      "album": {
         "name": "\u30d5\u30bf\u30ea\u30ce\u30bb\u30ab\u30a4",
         "url": "https://open.spotify.com/album/4vFiwzFinWIQQ0eXFcQq00"
       },
@@ -1239,18 +1223,18 @@
     {
       "added_at": "2026-06-23 15:00:10",
       "album": {
-        "name": "\u30d1\u30e9\u30bd\u30e0\u30cb\u30a2",
-        "url": "https://open.spotify.com/album/2psksUsB4o9xBS9mArvYD0"
+        "name": "Pool",
+        "url": "https://open.spotify.com/album/18KGoNHgu434wYaS0aTqlq"
       },
       "artists": [
         {
-          "name": "Lavt",
-          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
+          "name": "Satoko Shibata",
+          "url": "https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU"
         }
       ],
-      "duration_ms": 127966,
-      "name": "\u30d1\u30e9\u30bd\u30e0\u30cb\u30a2",
-      "url": "https://open.spotify.com/track/5BnMjmHTJgmIOhUvfE2q9B"
+      "duration_ms": 194693,
+      "name": "Pool",
+      "url": "https://open.spotify.com/track/6PPpFg4PAtcq6bC6th0H6E"
     },
     {
       "added_at": "2026-06-23 15:00:10",
@@ -1271,6 +1255,22 @@
     {
       "added_at": "2026-06-23 15:00:10",
       "album": {
+        "name": "\u30d1\u30e9\u30bd\u30e0\u30cb\u30a2",
+        "url": "https://open.spotify.com/album/2psksUsB4o9xBS9mArvYD0"
+      },
+      "artists": [
+        {
+          "name": "Lavt",
+          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
+        }
+      ],
+      "duration_ms": 127966,
+      "name": "\u30d1\u30e9\u30bd\u30e0\u30cb\u30a2",
+      "url": "https://open.spotify.com/track/5BnMjmHTJgmIOhUvfE2q9B"
+    },
+    {
+      "added_at": "2026-06-23 15:00:10",
+      "album": {
         "name": "UP TO THE MINUTE MIXTAPE",
         "url": "https://open.spotify.com/album/6s6Pqnd88fCGpFrgpEr9Gg"
       },
@@ -1283,22 +1283,6 @@
       "duration_ms": 227720,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/1797TbHHrKxxVyk2u5td2F"
-    },
-    {
-      "added_at": "2026-06-23 15:00:10",
-      "album": {
-        "name": "Drowsy",
-        "url": "https://open.spotify.com/album/6gi4KfSZh5Ub9xJ3nScIBz"
-      },
-      "artists": [
-        {
-          "name": "\u541b\u5cf6\u5927\u7a7a",
-          "url": "https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ"
-        }
-      ],
-      "duration_ms": 225345,
-      "name": "Drowsy",
-      "url": "https://open.spotify.com/track/5atolq5rBAf9XkfqILXXga"
     },
     {
       "added_at": "2026-06-23 15:00:10",
@@ -1319,6 +1303,22 @@
       "duration_ms": 215327,
       "name": "\u30e6\u30fc\u30c8\u30d4\u30a2 feat. UA",
       "url": "https://open.spotify.com/track/5XspVlFqxMOrhEW5tNpq4S"
+    },
+    {
+      "added_at": "2026-06-23 15:00:10",
+      "album": {
+        "name": "Drowsy",
+        "url": "https://open.spotify.com/album/6gi4KfSZh5Ub9xJ3nScIBz"
+      },
+      "artists": [
+        {
+          "name": "\u541b\u5cf6\u5927\u7a7a",
+          "url": "https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ"
+        }
+      ],
+      "duration_ms": 225345,
+      "name": "Drowsy",
+      "url": "https://open.spotify.com/track/5atolq5rBAf9XkfqILXXga"
     },
     {
       "added_at": "2026-06-23 15:00:10",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2026-06-23 15:00:10",
       "album": {
+        "name": "\u77ac\u767a\u7684\u306b\u604b\u3057\u3088\u3046",
+        "url": "https://open.spotify.com/album/2EXnrIEvdWP7W6RsFs35Va"
+      },
+      "artists": [
+        {
+          "name": "Yasuyuki Okamura",
+          "url": "https://open.spotify.com/artist/6ZaIdsp9xfWC1QJlxR1TBL"
+        }
+      ],
+      "duration_ms": 236080,
+      "name": "\u3060\u3044\u3059\u304d remix 2026",
+      "url": "https://open.spotify.com/track/5Su1enb2RY8u6MXigP5mbQ"
+    },
+    {
+      "added_at": "2026-06-23 15:00:10",
+      "album": {
         "name": "\u4e00\u4eba\u7fbd\u7e54",
         "url": "https://open.spotify.com/album/61UMHKATVO3F67a9HmGBsz"
       },
@@ -1387,18 +1403,18 @@
     {
       "added_at": "2026-06-23 15:00:10",
       "album": {
-        "name": "\u77ac\u767a\u7684\u306b\u604b\u3057\u3088\u3046",
-        "url": "https://open.spotify.com/album/2EXnrIEvdWP7W6RsFs35Va"
+        "name": "\u87ba\u65cb\u306e\u8857",
+        "url": "https://open.spotify.com/album/78qeryjC8dhgyIVgyKFJEx"
       },
       "artists": [
         {
-          "name": "Yasuyuki Okamura",
-          "url": "https://open.spotify.com/artist/6ZaIdsp9xfWC1QJlxR1TBL"
+          "name": "\u304c\u3089\u308a",
+          "url": "https://open.spotify.com/artist/0JLttnOJnnXSyy8xRFiCPp"
         }
       ],
-      "duration_ms": 236080,
-      "name": "\u3060\u3044\u3059\u304d remix 2026",
-      "url": "https://open.spotify.com/track/5Su1enb2RY8u6MXigP5mbQ"
+      "duration_ms": 197433,
+      "name": "\u30ec\u30f3\u30ba",
+      "url": "https://open.spotify.com/track/71HguLdW670hpDJR9f5l8K"
     },
     {
       "added_at": "2026-06-23 15:00:10",
@@ -1419,22 +1435,6 @@
     {
       "added_at": "2026-06-23 15:00:10",
       "album": {
-        "name": "Heart of Rainbow",
-        "url": "https://open.spotify.com/album/78ACz5XAT1ZGgaF8wAU7Kr"
-      },
-      "artists": [
-        {
-          "name": ".ENDRECHERI.",
-          "url": "https://open.spotify.com/artist/2Xe4i1wmyan14oNqhrTS78"
-        }
-      ],
-      "duration_ms": 277551,
-      "name": "Heart of Rainbow",
-      "url": "https://open.spotify.com/track/5aBMOm2RJe0mlKaNKDirot"
-    },
-    {
-      "added_at": "2026-06-23 15:00:10",
-      "album": {
         "name": "\u50d5\u306f",
         "url": "https://open.spotify.com/album/2UkvkDP2tm0TVm9PFnueU3"
       },
@@ -1451,18 +1451,34 @@
     {
       "added_at": "2026-06-23 15:00:10",
       "album": {
-        "name": "\u87ba\u65cb\u306e\u8857",
-        "url": "https://open.spotify.com/album/78qeryjC8dhgyIVgyKFJEx"
+        "name": "Loved One",
+        "url": "https://open.spotify.com/album/6swCMSD8cc9kCYg60SFlpc"
       },
       "artists": [
         {
-          "name": "\u304c\u3089\u308a",
-          "url": "https://open.spotify.com/artist/0JLttnOJnnXSyy8xRFiCPp"
+          "name": "DEAN FUJIOKA",
+          "url": "https://open.spotify.com/artist/59m6Auk4r76d16XDpOznCY"
         }
       ],
-      "duration_ms": 197433,
-      "name": "\u30ec\u30f3\u30ba",
-      "url": "https://open.spotify.com/track/71HguLdW670hpDJR9f5l8K"
+      "duration_ms": 266160,
+      "name": "Loved One",
+      "url": "https://open.spotify.com/track/1JRGF0P4QeavZUxH86M1q0"
+    },
+    {
+      "added_at": "2026-06-23 15:00:10",
+      "album": {
+        "name": "Heart of Rainbow",
+        "url": "https://open.spotify.com/album/78ACz5XAT1ZGgaF8wAU7Kr"
+      },
+      "artists": [
+        {
+          "name": ".ENDRECHERI.",
+          "url": "https://open.spotify.com/artist/2Xe4i1wmyan14oNqhrTS78"
+        }
+      ],
+      "duration_ms": 277551,
+      "name": "Heart of Rainbow",
+      "url": "https://open.spotify.com/track/5aBMOm2RJe0mlKaNKDirot"
     },
     {
       "added_at": "2026-06-23 15:00:10",
@@ -1499,22 +1515,6 @@
     {
       "added_at": "2026-06-23 15:00:10",
       "album": {
-        "name": "Loved One",
-        "url": "https://open.spotify.com/album/6swCMSD8cc9kCYg60SFlpc"
-      },
-      "artists": [
-        {
-          "name": "DEAN FUJIOKA",
-          "url": "https://open.spotify.com/artist/59m6Auk4r76d16XDpOznCY"
-        }
-      ],
-      "duration_ms": 266160,
-      "name": "Loved One",
-      "url": "https://open.spotify.com/track/1JRGF0P4QeavZUxH86M1q0"
-    },
-    {
-      "added_at": "2026-06-23 15:00:10",
-      "album": {
         "name": "\u3067\u304d\u308b\u3060\u3051/\u53cb\u9054\u304c\u3044\u308b",
         "url": "https://open.spotify.com/album/2iccswYJOuTlPVR7KKUHMi"
       },
@@ -1527,6 +1527,22 @@
       "duration_ms": 269995,
       "name": "\u3067\u304d\u308b\u3060\u3051",
       "url": "https://open.spotify.com/track/76iksHbFiGerox78hM1TTT"
+    },
+    {
+      "added_at": "2026-06-23 15:00:10",
+      "album": {
+        "name": "\u3053\u306e\u6307\u3068\u307e\u308c",
+        "url": "https://open.spotify.com/album/32gH2eYlZmwo1ZuoMAA1if"
+      },
+      "artists": [
+        {
+          "name": "Naoto Inti Raymi",
+          "url": "https://open.spotify.com/artist/77SZmOd2zA3L3n9x697iWb"
+        }
+      ],
+      "duration_ms": 244285,
+      "name": "\u3053\u306e\u6307\u3068\u307e\u308c",
+      "url": "https://open.spotify.com/track/1jB18QPEXeJ5l2MsaN3eYg"
     },
     {
       "added_at": "2026-06-23 15:00:10",
@@ -1563,18 +1579,18 @@
     {
       "added_at": "2026-06-23 15:00:10",
       "album": {
-        "name": "\u3053\u306e\u6307\u3068\u307e\u308c",
-        "url": "https://open.spotify.com/album/32gH2eYlZmwo1ZuoMAA1if"
+        "name": "soulmate",
+        "url": "https://open.spotify.com/album/7IvRAnzxwgSEotdaZW4BmR"
       },
       "artists": [
         {
-          "name": "Naoto Inti Raymi",
-          "url": "https://open.spotify.com/artist/77SZmOd2zA3L3n9x697iWb"
+          "name": "TOMIOKA AI",
+          "url": "https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi"
         }
       ],
-      "duration_ms": 244285,
-      "name": "\u3053\u306e\u6307\u3068\u307e\u308c",
-      "url": "https://open.spotify.com/track/1jB18QPEXeJ5l2MsaN3eYg"
+      "duration_ms": 203952,
+      "name": "soulmate",
+      "url": "https://open.spotify.com/track/27hC2ZRKnJa5scJ8ULneWD"
     },
     {
       "added_at": "2026-06-23 15:00:10",
@@ -1591,22 +1607,6 @@
       "duration_ms": 184567,
       "name": "\u30e1\u30de\u30a4",
       "url": "https://open.spotify.com/track/2WCn9HrGDwcEm0bU0xgcrt"
-    },
-    {
-      "added_at": "2026-06-23 15:00:10",
-      "album": {
-        "name": "soulmate",
-        "url": "https://open.spotify.com/album/7IvRAnzxwgSEotdaZW4BmR"
-      },
-      "artists": [
-        {
-          "name": "TOMIOKA AI",
-          "url": "https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi"
-        }
-      ],
-      "duration_ms": 203952,
-      "name": "soulmate",
-      "url": "https://open.spotify.com/track/27hC2ZRKnJa5scJ8ULneWD"
     },
     {
       "added_at": "2026-06-23 15:00:10",

@@ -1,6 +1,6 @@
 {
   "description": "The Ultimate EA SPORTS FC Brazil Playlist: bringing together the sounds of Brazil in celebration of The World's Game. Curated specially for you.",
-  "num_followers": 394863,
+  "num_followers": 394818,
   "original_name": "EA SPORTS FC Ultimate Mix: Brazil",
   "owner": {
     "name": "Spotify",
@@ -439,30 +439,6 @@
     {
       "added_at": "2026-06-19 11:00:20",
       "album": {
-        "name": "Vem com tudo",
-        "url": "https://open.spotify.com/album/4TfLV1HjFS4uh08o8ZlsaE"
-      },
-      "artists": [
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "Tropkillaz",
-          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "Vem com tudo",
-      "url": "https://open.spotify.com/track/3mTMQ4ceGNWhfnH5IYKpkO"
-    },
-    {
-      "added_at": "2026-06-19 11:00:20",
-      "album": {
         "name": "BlocoBleque",
         "url": "https://open.spotify.com/album/0wYL4vGPT2qV0qkvjG53Eq"
       },
@@ -487,6 +463,30 @@
       "duration_ms": 228751,
       "name": "S\u00f3 Tem Jogador",
       "url": "https://open.spotify.com/track/4J8YnRd5u21USIiBzsyDC4"
+    },
+    {
+      "added_at": "2026-06-19 11:00:20",
+      "album": {
+        "name": "Vem com tudo",
+        "url": "https://open.spotify.com/album/4TfLV1HjFS4uh08o8ZlsaE"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "Tropkillaz",
+          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "Vem com tudo",
+      "url": "https://open.spotify.com/track/3mTMQ4ceGNWhfnH5IYKpkO"
     },
     {
       "added_at": "2026-06-19 11:00:20",

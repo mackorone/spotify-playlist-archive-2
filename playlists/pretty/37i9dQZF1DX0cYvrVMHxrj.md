@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cYvrVMHxrj.md) - [plain]
 
 > We asked artists to shout out the rising names we \(and you\) need to know — and these are their picks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 978 likes - 72 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 979 likes - 72 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cYvrVMHxrj.md) - [plain]
 | 41 | [Bombing](https://open.spotify.com/track/6XjVIWvQeKA38Ii1xts5Ja) | [Lola Parda](https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD) | [Dolores](https://open.spotify.com/album/0pA9AZv8Looc0TBrAc6tox) | 4:03 |
 | 42 | [APIÁDATE DE MI](https://open.spotify.com/track/1U3Hsgej5ba3gBcb6m9cxk) | [Gonzalo Ávila](https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6) | [APIÁDATE DE MI](https://open.spotify.com/album/7psXQ9Q3eYqVPQu2OJKNxZ) | 2:42 |
 | 43 | [La Memoria de un Beso](https://open.spotify.com/track/1tXQq3pgtv7qIu8uzbxtZd) | [Lucas Martí](https://open.spotify.com/artist/4SjBX6jitXDJ7VUfIqeXfP), [Manuela Mantero](https://open.spotify.com/artist/4vD6KXKEWAzGHlLCnmUeJA) | [La Memoria de un Kiss](https://open.spotify.com/album/6jdagME46sj0v3XpfNASoj) | 3:02 |
-| 44 | [Tormenta](https://open.spotify.com/track/7mHipoaIXyNYiJXwV5TjQw) | [Hunters of the Alps](https://open.spotify.com/artist/7Gl1t0pZGk6YDx42OB8vDG) | [Tormenta](https://open.spotify.com/album/35c6RFSwT57u84wDbLX4c0) | 3:53 |
+| 44 | [Tormenta](https://open.spotify.com/track/7mHipoaIXyNYiJXwV5TjQw) | [Hunters of the Alps](https://open.spotify.com/artist/1kt5RCgfiTyQTH8L9HimZe) | [Tormenta](https://open.spotify.com/album/35c6RFSwT57u84wDbLX4c0) | 3:53 |
 | 45 | [Despedida](https://open.spotify.com/track/41WOiLDpldQTlozGpIjbqh) | [Thais Nogueira](https://open.spotify.com/artist/2TJViaE5ceFzn1dYKs3hKF) | [Me Acorda pra Sonhar](https://open.spotify.com/album/2QDUKdWPAvJA9CY51Smkr6) | 3:21 |
 | 46 | [Comandante 01](https://open.spotify.com/track/7qxE7RWWJjsyLF83oD2sjk) | [Dani Tapia](https://open.spotify.com/artist/0ODccomcktwx3B6hJVAF1C) | [Comandante 01](https://open.spotify.com/album/3ce5FYFuNJKsfPE2ZUeoMg) | 2:43 |
 | 47 | [Nostalgia](https://open.spotify.com/track/3WoGULk1bFMJ4d0Pydb9ag) | [Carlos Torres](https://open.spotify.com/artist/14CVFYbyTHSbffeB0iyoDI) | [Corridos Tumbados Vol\. 2](https://open.spotify.com/album/1tpjN0LOyoLBT2WEhB2EUW) | 4:09 |

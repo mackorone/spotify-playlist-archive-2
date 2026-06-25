@@ -4,7 +4,7 @@
 
 > 
 
-238 songs - 12 hr 20 min
+243 songs - 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [alone](https://open.spotify.com/track/7iuvjLWfCeuXUjCL5ux3Yd) | [Swízzy](https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO), [Foreign](https://open.spotify.com/artist/3D3yyi7c5AiQulhArfwbib) | [Melodic Desire](https://open.spotify.com/album/301s5ttpCmABTQMpqaf292) | 4:37 | 2025-04-10 |  |
 | [Ame](https://open.spotify.com/track/56vX2UYUGNMEIq3i4l66OL) | [Luizie](https://open.spotify.com/artist/2cQQa7eaJy9pO5QgEhxVXR) | [Ame](https://open.spotify.com/album/2KSyYrS7na1qwhUPGOS4vt) | 3:55 | 2025-09-11 |  |
 | [Any Day](https://open.spotify.com/track/3zNgZ7T9ZrN6mtBsRVhtJJ) | [Ocartiz James](https://open.spotify.com/artist/23MBrNLP0Eee8OZbRMcH7z), [Bec](https://open.spotify.com/artist/5KlC6dFBcvWlovMoCTOgQN) | [Away for too Long \- The Studio Sessions](https://open.spotify.com/album/2Q0i2bSiCG17BBpw4GAkIG) | 1:28 | 2025-03-12 |  |
+| [Assassinatus Ruber](https://open.spotify.com/track/4E2MuFuLMGWTpvN3SkRwar) | [Ilay Sonoro](https://open.spotify.com/artist/3RZz4uk2brWykLANiPv4Bv) | [Assassinatus Ruber](https://open.spotify.com/album/6rbJISzJPnWbZSp8lcY5rF) | 4:39 | 2026-06-24 |  |
 | [Attention\(Tiri tese\)](https://open.spotify.com/track/34Xd43zwRtMXwNokRZPPME) | [Mr Gee TupaZ](https://open.spotify.com/artist/5Ra20bv5OyKWbI28XLHph0) | [Attention\(Tiri tese\)](https://open.spotify.com/album/7LP1vJO1wvp8ggjnfgG6tn) | 2:01 | 2026-06-18 |  |
 | [AZOTARTE](https://open.spotify.com/track/4eG6YirA72uHlDKmzYmlud) | [El HA](https://open.spotify.com/artist/4aOhbiEACFgXO6CzfZiPGL), [Adal Palacios](https://open.spotify.com/artist/19x873JrC5NE60vCN4KPZp), [Dj Sixten](https://open.spotify.com/artist/6gMq2c8MQmHgDTeOSxDUKw), [Dj Full Mx](https://open.spotify.com/artist/3gBDVCX4mV5qVxbR0eyT06), [Brayan Vr](https://open.spotify.com/artist/6VbJpJjFWYLbCKKxbIeQlE) | [AZOTARTE](https://open.spotify.com/album/4f85e5tYKqheOGA1p7t0E7) | 2:11 | 2025-09-09 |  |
 | [Badali Badala](https://open.spotify.com/track/3TyG9VWhzwh9ETEQ0JOsgU) | [Sebastian McQueen](https://open.spotify.com/artist/35DV0SZfNbQyrILm1UYHzP) | [Between Us](https://open.spotify.com/album/1FckvjpUd1bin7xkXQzyuF) | 5:03 | 2026-06-19 |  |
@@ -83,7 +84,9 @@
 | [Falling Apart](https://open.spotify.com/track/38O5OYX7gXD2YAamTcW72t) | [ARK IDENTITY](https://open.spotify.com/artist/569UPpViTfeKYYJRjggAz8) | [Falling Apart](https://open.spotify.com/album/78h0okzrA3Z9rhln7vShrC) | 2:50 | 2025-12-11 |  |
 | [FAMOUS](https://open.spotify.com/track/4qEnIy1gg6nUNES2OxWr9N) | [MEanIngfUl](https://open.spotify.com/artist/5j62YtmsqrRgu7v49wDtrA), [w0nderthug](https://open.spotify.com/artist/4TaOqV1FUHnhkX67H25xJp) | [FAMOUS](https://open.spotify.com/album/1kNBfxOpHZ5JWiqixGLZXp) | 3:36 | 2026-01-02 |  |
 | [Fastlife](https://open.spotify.com/track/37X0LVMpjlxIeiW7mpre4I) | [Ovthex](https://open.spotify.com/artist/5GitDiJdtHyC7aHejcDn7s) | [Fastlife](https://open.spotify.com/album/17qINZKWn4KsLPIpiyZqV8) | 2:58 | 2025-04-06 |  |
+| [Fire](https://open.spotify.com/track/6s9qYXqxPCV2x2EJglACvd) | [The Steel](https://open.spotify.com/artist/0o8mtfGFaxEYBF5TtoVOGY) | [The Steel II](https://open.spotify.com/album/5CelAdbDkCINozP22sFgEd) | 4:04 | 2026-06-24 |  |
 | [Foolish](https://open.spotify.com/track/4Rx9hSHqsf7EnarIK4ogCq) | [Absorbingpersona](https://open.spotify.com/artist/19vhCix1RBZqXR9PqKZXAo) | [Foolish](https://open.spotify.com/album/0qu3zdChmXT5ByD9A9Y0Zw) | 3:22 | 2026-03-15 |  |
+| [Footsteps In The Snow](https://open.spotify.com/track/4rEIvYWAoxaJMQtn2Vxh22) | [TRUE VIOLENCE](https://open.spotify.com/artist/4Nd2abwG3lQaZFAOJkrKc5), [Semzo](https://open.spotify.com/artist/6B5ZIMPRas4DEOC5j9mGii) | [TRUE VIOLENCE II](https://open.spotify.com/album/675EWaERbVUkX532tpDywe) | 7:00 | 2026-06-24 |  |
 | [for the day \(my life doesn't seem so gray\)](https://open.spotify.com/track/5jEA3MfSYes1opYzW1A15B) | [jj!s](https://open.spotify.com/artist/2JashvlZeoFOiLpIy6dFE6) | [for the day \(my life doesn't seem so gray\)](https://open.spotify.com/album/54etYLc84CmETgjN65td9C) | 1:58 | 2026-03-05 |  |
 | [Genuine](https://open.spotify.com/track/51mLBSASbfih09HkTViS8M) | [Pixiewolf](https://open.spotify.com/artist/2MjyIcU2BRGLYXtpW9aVa7) | [Genuine](https://open.spotify.com/album/1yhCbT665XRK4sbp19WRCQ) | 2:43 | 2025-04-07 |  |
 | [Gimme Someone I Can Hold on to \(Instrumental\)](https://open.spotify.com/track/5LcrOJjKRQ8opafD72lCm6) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Gimme Someone I Can Hold on to \(Instrumental\)](https://open.spotify.com/album/4WIZ3Cf2dJTEKeGLdhKLmZ) | 3:26 | 2025-03-12 |  |
@@ -144,6 +147,7 @@
 | [Moving to Texas](https://open.spotify.com/track/78o1O6LcHo2wfJRWuzCvXZ) | [Tanya Winch](https://open.spotify.com/artist/0aWKzDAfDE0e9YAJ75fW51) | [Moving to Texas](https://open.spotify.com/album/0UsrULV6sHykPhDQ0CeCNN) | 3:50 | 2026-03-06 |  |
 | [Muse](https://open.spotify.com/track/7B5rT2i6JliL4fcxQRqDlk) | [Raphaela](https://open.spotify.com/artist/4fpakQ8unqqBifmsszha5F) | [Muse](https://open.spotify.com/album/6XWrC2jrmxLhdLtupCS0eq) | 3:09 | 2025-07-07 |  |
 | [Naomi](https://open.spotify.com/track/2YSdjfaZVGB09ZnUZNjrhp) | [Faint Images of the Radio Sky](https://open.spotify.com/artist/63BRCSvVdohSDgSUm19bPb) | [Itching Through the Permafrost](https://open.spotify.com/album/21aFPA1VXrE7OtKVCBNPyY) | 4:55 | 2026-06-16 |  |
+| [Never Had](https://open.spotify.com/track/45EKsEATCU3KLdyitu8bjm) | [Charlie Sly](https://open.spotify.com/artist/4qvTP5uRYPsE9qHJHgDrKr) | [The Waiter](https://open.spotify.com/album/4fVJZw78OQ25XSYahysgzv) | 4:18 | 2026-06-24 |  |
 | [no evidence](https://open.spotify.com/track/3SbYA5SX1jA1sLpbume305) | [Jonas Feurle](https://open.spotify.com/artist/0wu3fN6dTlMop83dDnMwke), [scrutch](https://open.spotify.com/artist/5ZgbUIDHqbDpf149oTHsaC) | [anytime but now](https://open.spotify.com/album/3DHm8gapNXPAuy9RuRD6xc) | 2:52 | 2025-08-14 |  |
 | [No Hay Tiempo](https://open.spotify.com/track/2zLn9ZLLxBLJXfjo7kZwVv) | [Lu\-k Mc](https://open.spotify.com/artist/7eBvM4CyBRXoJK0l7dUTkq) | [No Hay Tiempo](https://open.spotify.com/album/6twp3uVTUMbnQGgo9iHiFJ) | 3:27 | 2026-04-02 |  |
 | [No Lover](https://open.spotify.com/track/37V9X9p9qwOarHwCjsCSRr) | [Haryx](https://open.spotify.com/artist/3KyoaBJkZoxcSSuFnuv9lA) | [No Lover](https://open.spotify.com/album/4TAfyJTinnMVPLUfnEz6gX) | 2:30 | 2025-11-03 |  |
@@ -155,6 +159,7 @@
 | [Old Soul](https://open.spotify.com/track/4zoyn0XwZ2MysyRYxNcTCp) | [Herald K](https://open.spotify.com/artist/1rG4pmrcpdK5cmkqFDVXRk) | [Mythologies](https://open.spotify.com/album/4kxNO2xUxABCx3RP6CgpSb) | 3:18 | 2026-01-07 |  |
 | [One and Only](https://open.spotify.com/track/73wr3gNS6bOGO7yv4vCD24) | [Dareen](https://open.spotify.com/artist/7azOWyR2mZ7PSy71udacAB), [CerVon Campbell](https://open.spotify.com/artist/11BE68QWC1UePwPs7clKa5) | [One and Only](https://open.spotify.com/album/40N9skHDNb6YX6WfvOvZ2N) | 3:27 | 2025-07-15 |  |
 | [Or Nah \- Spanish Version](https://open.spotify.com/track/3szuFgl7zsoSKNtJAWpMPB) | [The Samu](https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP) | [Or Nah \(Spanish Version\)](https://open.spotify.com/album/67MJVFPDbsF5MkaqICtx2U) | 2:05 | 2026-03-13 |  |
+| [OSAKA GHOST](https://open.spotify.com/track/0tceQ475Sk4ZIkIqnLoJP7) | [Astro Wagon](https://open.spotify.com/artist/3GxYu9iRj6AMeIrydORMTI), [Jon Voyage](https://open.spotify.com/artist/1kJFnDZoyYXmMU7DIMktWN) | [OSAKA GHOST](https://open.spotify.com/album/2acZVzl7GZlIw1sbbTcAIC) | 2:25 | 2026-06-24 |  |
 | [Out Of Your Mind](https://open.spotify.com/track/5GrkmVVLabYjq1iap5aqF2) | [VANNAH LEE](https://open.spotify.com/artist/0o2AeqlJETyETAvfZcVgvG) | [Out Of Your Mind](https://open.spotify.com/album/2pzwxx7gyFsQG9ZZprCgpP) | 3:07 | 2025-09-15 |  |
 | [peak cinema](https://open.spotify.com/track/3Lt7BxHEYOLcfWURRf7SdR) | [Nakeltbg](https://open.spotify.com/artist/2Vg7QmOQ4alrHtr5vu677Q) | [COALESCENCE \(7\)](https://open.spotify.com/album/5oFCxq9UhLjkbmlcKbem7U) | 2:46 | 2025-09-02 |  |
 | [Permission](https://open.spotify.com/track/64XniZVCRhgxyn3HVIZhn2) | [The Summer Fruits](https://open.spotify.com/artist/28x9gjrLuZt7qXjgjNOh0w) | [Permission](https://open.spotify.com/album/2MH58peDK1Rmg7vtSf7GoI) | 2:52 | 2026-06-15 |  |

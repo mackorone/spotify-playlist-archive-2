@@ -31467,6 +31467,32 @@
     },
     {
       "album": {
+        "name": "KISS KISS",
+        "url": "https://open.spotify.com/album/7za4IpRqRV01MzylcAOr9f"
+      },
+      "artists": [
+        {
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+        },
+        {
+          "name": "GPF",
+          "url": "https://open.spotify.com/artist/4OoHneMX97SjUXKWgsyrP4"
+        },
+        {
+          "name": "Dr Donk",
+          "url": "https://open.spotify.com/artist/0NirwTOv2qvuXsNNZkDPNu"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "KISS KISS",
+      "url": "https://open.spotify.com/track/6yNiOEUBCWNGUCX12bKqds"
+    },
+    {
+      "album": {
         "name": "Kiss Me Again",
         "url": "https://open.spotify.com/album/5PUF5UAMyqLiLuLmSeXVCG"
       },

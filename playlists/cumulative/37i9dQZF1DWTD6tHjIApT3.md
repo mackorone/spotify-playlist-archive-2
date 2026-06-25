@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: 茉ひる
 
-3,810 songs - 10 day 2 hr 33 min
+3,811 songs - 10 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -686,6 +686,7 @@
 | [Go Round feat.Daoko](https://open.spotify.com/track/7BSLbYEo3dZAFSRzpJqT3X) | [KizunaAI](https://open.spotify.com/artist/0PBygVazIp5XN6sBMSa14Y), [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC) | [Homecoming](https://open.spotify.com/album/1DifKQp5ypPbb6xxpWsG1R) | 3:07 | 2025-09-16 | 2025-09-24 |
 | [Goddess](https://open.spotify.com/track/6PDzZVxbuZHImcACGiaKLt) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Goddess / Waterproof / Swamp](https://open.spotify.com/album/664g5Wm5dsC1eMJ11FOrV6) | 3:34 | 2025-12-09 | 2026-02-12 |
 | [Goes On](https://open.spotify.com/track/0ABdjpCuLnTTluGGdlDfja) | [烏兎 \-uto\-](https://open.spotify.com/artist/1mRH8Ts0ab2eegJfZsqPwc) | [Blessings of the Sun](https://open.spotify.com/album/1AJute2GlhIg4DmgLG121e) | 4:41 | 2025-04-29 | 2025-05-07 |
+| [Going](https://open.spotify.com/track/0ooR1VXfwVvPVxfMAqKnUn) | [Manaka](https://open.spotify.com/artist/3TUjg4NvsTvKiyRuPdsurN), [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0) | [Going](https://open.spotify.com/album/1WNLDLMUXMw9vcGVX0WF4N) | 2:49 | 2026-06-23 |  |
 | [Gokyuchu](https://open.spotify.com/track/3P1hy53LptV8AhNe5Gh1tm) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Hateshinai Futari](https://open.spotify.com/album/7E8CvB7huaCPvAoKQSVstA) | 5:17 | 2022-10-11 | 2022-10-19 |
 | [Gold](https://open.spotify.com/track/6FIQq6ftvqrtQDmaMC3CTG) | [May J.](https://open.spotify.com/artist/7sJzR6n8Buyv45FKrLvZIS) | [AURORA](https://open.spotify.com/album/5X92MTGN5aazM8PdD0zEA8) | 3:42 | 2024-04-16 | 2024-04-24 |
 | [Goldfish](https://open.spotify.com/track/3otgMiMbW4xRr6iFXckBjh) | [望月ヒナタ](https://open.spotify.com/artist/4VGKxbTlK8S2rHhrR6oLh9) | [Goldfish](https://open.spotify.com/album/4dcfW7cCjIlkqbLBOtWT6y) | 4:13 | 2025-09-23 | 2025-10-01 |
@@ -2272,7 +2273,7 @@
 | [うつつ](https://open.spotify.com/track/3vJCuyn9ASeiFGMR31b4Cv) | [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [うつつ](https://open.spotify.com/album/5u9iXFpNMg7S8mzHBlqGUi) | 3:40 | 2024-05-28 | 2024-06-05 |
 | [うつろぶね](https://open.spotify.com/track/6jJK86HoqRhebpT1Tisdfb) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [うつろぶね](https://open.spotify.com/album/3RrSnMnxlKcLCtHgu2p9SZ) | 3:53 | 2022-05-29 | 2022-07-28 |
 | [うらぎりもの](https://open.spotify.com/track/4PT1JrWIZyeF9koWq78PcP) | [RYUTist](https://open.spotify.com/artist/4BSpF4yQWrGiYdxNsLRdX1), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [うらぎりもの/しるし](https://open.spotify.com/album/2nC1uWzDL0LT7oGvolVw7p) | 4:27 | 2022-08-09 | 2022-08-17 |
-| [うるわしきひと](https://open.spotify.com/track/1M3v8EIemHoCqEOautFldv) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [うるわしきひと](https://open.spotify.com/album/3avb1sjs58rujT74DuXGih) | 4:35 | 2026-03-10 | 2026-06-24 |
+| [うるわしきひと](https://open.spotify.com/track/1M3v8EIemHoCqEOautFldv) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [うるわしきひと](https://open.spotify.com/album/3avb1sjs58rujT74DuXGih) | 4:35 | 2026-03-10 |  |
 | [うるわしのフルコース](https://open.spotify.com/track/6UpN71HaYqH5qVAsOwazUH) | [楓 幸枝](https://open.spotify.com/artist/2VCpkbUqhSU1FmZFmtozdn) | [うるわしのフルコース](https://open.spotify.com/album/4ufPX8bZFD45LGrCmMMaVm) | 3:20 | 2024-04-16 | 2024-04-24 |
 | [うれしくて](https://open.spotify.com/track/25C3HZIvRGGtkasbrZe7D1) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [うれしくて／ときめき](https://open.spotify.com/album/6Wm8TQQ90CrHqHrp9vmkwz) | 6:23 | 2023-09-12 | 2023-12-30 |
 | [うわのそら](https://open.spotify.com/track/7xq3Qm4jXRTj7i3LwqO8Wn) | [mekakushe](https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz) | [うわのそら](https://open.spotify.com/album/0AW6J7tY0g8ym8y3K2CpRj) | 3:43 | 2024-03-26 | 2024-03-28 |
@@ -2622,7 +2623,7 @@
 | [グッバイバイ](https://open.spotify.com/track/6dujTu2FauOpI1bsHD093L) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [グッバイバイ](https://open.spotify.com/album/2qpbGbndqRvyxQp1qYiUnv) | 3:21 | 2023-09-19 | 2024-12-25 |
 | [グライド](https://open.spotify.com/track/6jg0v1Iy7Y1t2M2bcVrTRf) | [Myuk](https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9) | [グライド](https://open.spotify.com/album/05RJSqyP55ocLOOyIXaNht) | 3:30 | 2025-10-08 | 2026-02-12 |
 | [グラデーション](https://open.spotify.com/track/1L0lCD2lqcV9u4CYV0qTrj) | [RUNG HYANG](https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ) | [グラデーション](https://open.spotify.com/album/4DSfd1hJjQqHlElI4wfffu) | 4:11 | 2024-04-09 | 2024-04-11 |
-| [グローリー](https://open.spotify.com/track/08rrk9hExuHujD5CzNGO3b) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [日々散漫](https://open.spotify.com/album/2NAsVsq0trIIgvpk2pHtCW) | 3:22 | 2026-03-17 |  |
+| [グローリー](https://open.spotify.com/track/08rrk9hExuHujD5CzNGO3b) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [日々散漫](https://open.spotify.com/album/2NAsVsq0trIIgvpk2pHtCW) | 3:22 | 2026-03-17 | 2026-06-25 |
 | [ケセラセラ](https://open.spotify.com/track/5OJMwEmkJZ65rlI1zPOUIN) | [Kaela Kimura](https://open.spotify.com/artist/56Eer6ASRcE4aJHJwejTuN) | [ケセラセラ](https://open.spotify.com/album/6k8kiS8vpQHAXeEWTuj1JI) | 3:58 | 2023-12-12 | 2023-12-14 |
 | [ケダモノのフレンズ](https://open.spotify.com/track/6WUytTGUVFHTVGOqty1UPs) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [odds and ends](https://open.spotify.com/album/4T0USknu2Yz9mhoB6enHH0) | 3:37 | 2022-05-29 | 2022-09-01 |
 | [ゲレンデ・ファンキー・ラブ](https://open.spotify.com/track/1K1N1YbraoGs49S38gPIjj) | [Philosophy no Dance](https://open.spotify.com/artist/2DUhXuCbn5RWAkRaKh8qaA) | [ゲレンデ・ファンキー・ラブ](https://open.spotify.com/album/4ZKWJQ6jlQtNgHD78F0Q8S) | 5:06 | 2025-12-02 | 2025-12-10 |

@@ -4,7 +4,7 @@
 
 > All about Korean Jazz hits & new \(Cover: Haewon Moon\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
 
-283 songs - 19 hr 42 min
+284 songs - 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [What A Wonderful Blue Night](https://open.spotify.com/track/53fCbojK6JJjYvaMdToit0) | [Park Ki Hun](https://open.spotify.com/artist/1FfO76bIOpFkTpyCIjkDCR) | [Journey](https://open.spotify.com/album/0bOaUFUarwmUUQoZV94WES) | 4:56 | 2024-02-15 | 2024-11-07 |
 | [What A Wonderful Blue Night \(Feat\. Yun Seokcheol\) \- Bossanova Ver.](https://open.spotify.com/track/0QoGXe1zRzvNsOwbZ3dma6) | [Park Ki Hun](https://open.spotify.com/artist/1FfO76bIOpFkTpyCIjkDCR), [Yun Seokcheol](https://open.spotify.com/artist/2CducdjCN6kUjcecP0U5we) | [Park's Mood](https://open.spotify.com/album/6WePQz4TECRBySr3pldSwe) | 3:04 | 2025-09-11 |  |
 | [When I Walk With You](https://open.spotify.com/track/5H5OTHVVhooNowDREHiW3u) | [jazzer](https://open.spotify.com/artist/6xgHk3IjlYwNlFYYiTEteb) | [When I Walk With You](https://open.spotify.com/album/3BvIjh41QjAQHF3eTmjSD5) | 3:00 | 2023-02-07 | 2024-11-07 |
+| [When it stops raining \- tape mastered](https://open.spotify.com/track/3Gah3az5SeCNRV1IxIbJEj) | [Luca minor](https://open.spotify.com/artist/3mzVPZ18FgIuMjWUtYGooK) | [When it stops raining \(tape mastered\)](https://open.spotify.com/album/7AeBRZmuqoSOiKM9tFjFtO) | 2:53 | 2026-06-24 |  |
 | [WHITE \(Feat\. Chan, jeebanoff, sannie\)](https://open.spotify.com/track/5sOlHrTu1dI5EhKfRNki9a) | [Q the trumpet](https://open.spotify.com/artist/6s38y5NrMJQEEaA71NqYHW), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F), [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV), [sannie](https://open.spotify.com/artist/7DzAtAzBPwXAbnwVWoo6sb) | [WHITE](https://open.spotify.com/album/71gK8qbtaxgdT9ilAKFLZK) | 4:25 | 2024-12-17 |  |
 | [White Christmas](https://open.spotify.com/track/34jFiBvQltG35fneRLMMQM) | [Kangziwon](https://open.spotify.com/artist/0QppvAbksaKrGlNk0i1zzF) | [2022 Christmas VIBE \- Kangziwon](https://open.spotify.com/album/0VAvIdy18d508PtgsUA5bG) | 4:17 | 2023-02-07 | 2024-11-07 |
 | [Wiegenlied \(Lullaby\) K.350](https://open.spotify.com/track/3urRLTzYj5NeXxjzFps0Bw) | [Shin Hyunpill & Ko Heean](https://open.spotify.com/artist/6bk0kCo13gHdJfejZ2oaZ5) | [Dear Mozart](https://open.spotify.com/album/61c5QVCrlHFLjXSRhRUk72) | 3:40 | 2024-04-18 | 2024-11-28 |

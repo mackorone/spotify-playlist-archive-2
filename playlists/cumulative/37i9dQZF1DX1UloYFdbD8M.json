@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Super Cool Indie Tracks from Gods Own Country\nCover: K.S.Harisankar, Salim Sulaiman",
+  "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Gowry Lekshmi",
   "name": "Malayalam Indie",
   "tracks": [
     {
@@ -5801,6 +5801,32 @@
     },
     {
       "album": {
+        "name": "Meenangadi",
+        "url": "https://open.spotify.com/album/3bWRGmICUICqqcaArNq7kc"
+      },
+      "artists": [
+        {
+          "name": "DeXterDuke",
+          "url": "https://open.spotify.com/artist/7pgCk3NAxxOTwBPm2dmZOa"
+        },
+        {
+          "name": "Akhil Jifroom",
+          "url": "https://open.spotify.com/artist/75plEvjt52hf70SHFUfEQs"
+        },
+        {
+          "name": "Kid TwisTer",
+          "url": "https://open.spotify.com/artist/4dqz9abbk7xY7hB6Re1bR7"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214910,
+      "name": "Meenangadi",
+      "url": "https://open.spotify.com/track/00yANyBR41gfG4r92pBu8I"
+    },
+    {
+      "album": {
         "name": "Meghamayi Nee",
         "url": "https://open.spotify.com/album/3VH1yKdp45jbqazKpK9kka"
       },
@@ -8310,6 +8336,24 @@
       "duration_ms": 255867,
       "name": "Prapanjam",
       "url": "https://open.spotify.com/track/4IguOEcObo3QhGgmjYj45Z"
+    },
+    {
+      "album": {
+        "name": "Pratheekshakal",
+        "url": "https://open.spotify.com/album/6ousBdz2ouSwrWZGuuOGAQ"
+      },
+      "artists": [
+        {
+          "name": "Gowry Lekshmi",
+          "url": "https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Pratheekshakal",
+      "url": "https://open.spotify.com/track/23P2vTIEwxRZAbqLKkLLNW"
     },
     {
       "album": {

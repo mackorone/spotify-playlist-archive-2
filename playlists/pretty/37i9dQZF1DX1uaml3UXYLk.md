@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 
 > Electronic music with caffeine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,898 likes - 160 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,940 likes - 160 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 | 159 | [Sleepless](https://open.spotify.com/track/6NM6O8YFXpx8AYt1YhmsRl) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [sleepless](https://open.spotify.com/album/3W6tK2GI0mf8333LdPyGj8) | 2:51 |
 | 160 | [Organica](https://open.spotify.com/track/1SAkwrEJddvKKFCRLtQSIl) | [Oldofredi](https://open.spotify.com/artist/2o1RrTh4ndGzk8CvWLvv0l) | [Organica](https://open.spotify.com/album/1kKQYr5gG8MliYBTAXLNe6) | 2:13 |
 
-Snapshot ID: `AAAAAFPvwI8fiy9kFRb9mkW2oiY5843Z`
+Snapshot ID: `AAAAAF26y6DeC8qA7MO0RzVlHT8F8S7e`

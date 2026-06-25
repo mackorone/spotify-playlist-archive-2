@@ -1,6 +1,6 @@
 {
   "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Heitor & Henrique, Israel & Rodolffo",
-  "num_followers": 484095,
+  "num_followers": 484093,
   "original_name": "Gera\u00e7\u00e3o Sertaneja",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2026-06-19 03:00:41",
       "album": {
-        "name": "Aqui Tem Sentimento, Ep.3",
-        "url": "https://open.spotify.com/album/3VcU0KNUWCQjGfKf5DGQz8"
-      },
-      "artists": [
-        {
-          "name": "Cleber & Henrique",
-          "url": "https://open.spotify.com/artist/7z48B4UbsaRaEfsRKgqDJk"
-        }
-      ],
-      "duration_ms": 193283,
-      "name": "Adrenalina",
-      "url": "https://open.spotify.com/track/70a5UtwaRBqKE9jcr7s96y"
-    },
-    {
-      "added_at": "2026-06-19 03:00:41",
-      "album": {
         "name": "N\u00e3o Foi Pra Sempre",
         "url": "https://open.spotify.com/album/4IPuSEDhiP73MN9qIgVaR1"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 132583,
       "name": "N\u00e3o Foi Pra Sempre",
       "url": "https://open.spotify.com/track/2Zn2PuJmF9YMiIbSdOA1jz"
+    },
+    {
+      "added_at": "2026-06-19 03:00:41",
+      "album": {
+        "name": "Aqui Tem Sentimento, Ep.3",
+        "url": "https://open.spotify.com/album/3VcU0KNUWCQjGfKf5DGQz8"
+      },
+      "artists": [
+        {
+          "name": "Cleber & Henrique",
+          "url": "https://open.spotify.com/artist/7z48B4UbsaRaEfsRKgqDJk"
+        }
+      ],
+      "duration_ms": 193283,
+      "name": "Adrenalina",
+      "url": "https://open.spotify.com/track/70a5UtwaRBqKE9jcr7s96y"
     },
     {
       "added_at": "2026-06-19 03:00:41",
@@ -303,26 +303,6 @@
     {
       "added_at": "2026-06-19 03:00:41",
       "album": {
-        "name": "Nem Tira A Roupa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/78OXXfPFaQRNyBC24lsPN8"
-      },
-      "artists": [
-        {
-          "name": "Lorena Cristine",
-          "url": "https://open.spotify.com/artist/2QVNBzkqMGqtwHiLyobYln"
-        },
-        {
-          "name": "Mar\u00edlia Tavares",
-          "url": "https://open.spotify.com/artist/5B1BR71Q9cBvvoNocPSHiL"
-        }
-      ],
-      "duration_ms": 149026,
-      "name": "Nem Tira A Roupa - Ao Vivo",
-      "url": "https://open.spotify.com/track/12l2QeF4w8eNy6rwNvLsjH"
-    },
-    {
-      "added_at": "2026-06-19 03:00:41",
-      "album": {
         "name": "Tatuagem (Ao Vivo em S\u00e3o Paulo)",
         "url": "https://open.spotify.com/album/2lARVUV40jZnnWXWp4I2Fv"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 255875,
       "name": "Tatuagem (Ao Vivo em S\u00e3o Paulo)",
       "url": "https://open.spotify.com/track/4uZRf8dVBGZRGPfN0VRyxI"
+    },
+    {
+      "added_at": "2026-06-19 03:00:41",
+      "album": {
+        "name": "Nem Tira A Roupa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/78OXXfPFaQRNyBC24lsPN8"
+      },
+      "artists": [
+        {
+          "name": "Lorena Cristine",
+          "url": "https://open.spotify.com/artist/2QVNBzkqMGqtwHiLyobYln"
+        },
+        {
+          "name": "Mar\u00edlia Tavares",
+          "url": "https://open.spotify.com/artist/5B1BR71Q9cBvvoNocPSHiL"
+        }
+      ],
+      "duration_ms": 149026,
+      "name": "Nem Tira A Roupa - Ao Vivo",
+      "url": "https://open.spotify.com/track/12l2QeF4w8eNy6rwNvLsjH"
     },
     {
       "added_at": "2026-06-19 03:00:41",
@@ -399,26 +399,6 @@
     {
       "added_at": "2026-06-19 03:00:41",
       "album": {
-        "name": "0 KM Chorado",
-        "url": "https://open.spotify.com/album/5dln2Uw9L65YzASRVfdFXI"
-      },
-      "artists": [
-        {
-          "name": "Kellen Lemos",
-          "url": "https://open.spotify.com/artist/3E1etQXaTSYAb6nR82OOlo"
-        },
-        {
-          "name": "Luiza Martins",
-          "url": "https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43"
-        }
-      ],
-      "duration_ms": 201509,
-      "name": "0 KM Chorado",
-      "url": "https://open.spotify.com/track/6cWYhI4j2WzrgexGLOd3J9"
-    },
-    {
-      "added_at": "2026-06-19 03:00:41",
-      "album": {
         "name": "Desce \u00c1lcool",
         "url": "https://open.spotify.com/album/3rcKvg4eioRnsf2x8ltth5"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 132291,
       "name": "Desce \u00c1lcool",
       "url": "https://open.spotify.com/track/3nTHxfQNhlmCsWoR7TPJ2M"
+    },
+    {
+      "added_at": "2026-06-19 03:00:41",
+      "album": {
+        "name": "0 KM Chorado",
+        "url": "https://open.spotify.com/album/5dln2Uw9L65YzASRVfdFXI"
+      },
+      "artists": [
+        {
+          "name": "Kellen Lemos",
+          "url": "https://open.spotify.com/artist/3E1etQXaTSYAb6nR82OOlo"
+        },
+        {
+          "name": "Luiza Martins",
+          "url": "https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43"
+        }
+      ],
+      "duration_ms": 201509,
+      "name": "0 KM Chorado",
+      "url": "https://open.spotify.com/track/6cWYhI4j2WzrgexGLOd3J9"
     },
     {
       "added_at": "2026-06-19 03:00:41",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-06-19 03:00:41",
       "album": {
-        "name": "Do Vinho ao Caf\u00e9",
-        "url": "https://open.spotify.com/album/0aTP82z3eE0QQJbR4ieeu3"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Pedro e Cristiano",
-          "url": "https://open.spotify.com/artist/2vOcwgiDuTXso9PMEJjk3n"
-        }
-      ],
-      "duration_ms": 174517,
-      "name": "Do Vinho ao Caf\u00e9",
-      "url": "https://open.spotify.com/track/1nRWHXuu8jH3eYGKAYwcKu"
-    },
-    {
-      "added_at": "2026-06-19 03:00:41",
-      "album": {
         "name": "Primeira L\u00e1grima (Ao Vivo)",
         "url": "https://open.spotify.com/album/1zGNZUtaIZmHUYvuLQjXFk"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 163448,
       "name": "Primeira L\u00e1grima - Ao Vivo",
       "url": "https://open.spotify.com/track/0K6l2wZRSwHIIyiQF7Ttzn"
+    },
+    {
+      "added_at": "2026-06-19 03:00:41",
+      "album": {
+        "name": "Do Vinho ao Caf\u00e9",
+        "url": "https://open.spotify.com/album/0aTP82z3eE0QQJbR4ieeu3"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Pedro e Cristiano",
+          "url": "https://open.spotify.com/artist/2vOcwgiDuTXso9PMEJjk3n"
+        }
+      ],
+      "duration_ms": 174517,
+      "name": "Do Vinho ao Caf\u00e9",
+      "url": "https://open.spotify.com/track/1nRWHXuu8jH3eYGKAYwcKu"
     },
     {
       "added_at": "2026-06-19 03:00:41",
@@ -735,6 +735,22 @@
     {
       "added_at": "2026-06-19 03:00:41",
       "album": {
+        "name": "Os Mi\u00f3 Que T\u00e1 Tendo (Eu S\u00f3 Quero Um Cowboy)",
+        "url": "https://open.spotify.com/album/5IdXGRFrWamNQIyrDWo4e9"
+      },
+      "artists": [
+        {
+          "name": "May e Gabi",
+          "url": "https://open.spotify.com/artist/7Hp5amK5MrJdUFx1r9QrVq"
+        }
+      ],
+      "duration_ms": 125537,
+      "name": "Os Mi\u00f3 Que T\u00e1 Tendo (Eu S\u00f3 Quero Um Cowboy)",
+      "url": "https://open.spotify.com/track/5h4kVsNgCJj8QGbSlVDyq8"
+    },
+    {
+      "added_at": "2026-06-19 03:00:41",
+      "album": {
         "name": "Ningu\u00e9m Vira Amor (Ao Vivo)",
         "url": "https://open.spotify.com/album/0o4u9EcM17CHy5dWfiwkoh"
       },
@@ -755,22 +771,6 @@
     {
       "added_at": "2026-06-19 03:00:41",
       "album": {
-        "name": "Os Mi\u00f3 Que T\u00e1 Tendo (Eu S\u00f3 Quero Um Cowboy)",
-        "url": "https://open.spotify.com/album/5IdXGRFrWamNQIyrDWo4e9"
-      },
-      "artists": [
-        {
-          "name": "May e Gabi",
-          "url": "https://open.spotify.com/artist/7Hp5amK5MrJdUFx1r9QrVq"
-        }
-      ],
-      "duration_ms": 125537,
-      "name": "Os Mi\u00f3 Que T\u00e1 Tendo (Eu S\u00f3 Quero Um Cowboy)",
-      "url": "https://open.spotify.com/track/5h4kVsNgCJj8QGbSlVDyq8"
-    },
-    {
-      "added_at": "2026-06-19 03:00:41",
-      "album": {
         "name": "Meu Astral",
         "url": "https://open.spotify.com/album/2j9q1BZPQELmyK4DCAaF3W"
       },
@@ -787,6 +787,26 @@
       "duration_ms": 131432,
       "name": "Congela",
       "url": "https://open.spotify.com/track/4TAOgIHpKBc5mgrY6m5iqT"
+    },
+    {
+      "added_at": "2026-06-19 03:00:41",
+      "album": {
+        "name": "A\u00ed \u00c9 Loucura, Ep. 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5NsyRGDgr4Qep8JEgc7YuM"
+      },
+      "artists": [
+        {
+          "name": "Borges & Dedeu",
+          "url": "https://open.spotify.com/artist/0OhKWG75cikvQc8iUNeo8D"
+        },
+        {
+          "name": "MJ Records",
+          "url": "https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf"
+        }
+      ],
+      "duration_ms": 242316,
+      "name": "Seu Astral / Enquanto Houver Raz\u00f5es - Ao Vivo",
+      "url": "https://open.spotify.com/track/5s5thQ6XDeYzFf2MGjQ4yx"
     },
     {
       "added_at": "2026-06-19 03:00:41",
@@ -819,26 +839,6 @@
       "duration_ms": 174294,
       "name": "Mais Neg\u00f3cio - Ao Vivo",
       "url": "https://open.spotify.com/track/1zDdpi8uhfXDEqs7T2RIwT"
-    },
-    {
-      "added_at": "2026-06-19 03:00:41",
-      "album": {
-        "name": "A\u00ed \u00c9 Loucura, Ep. 3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5NsyRGDgr4Qep8JEgc7YuM"
-      },
-      "artists": [
-        {
-          "name": "Borges & Dedeu",
-          "url": "https://open.spotify.com/artist/0OhKWG75cikvQc8iUNeo8D"
-        },
-        {
-          "name": "MJ Records",
-          "url": "https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf"
-        }
-      ],
-      "duration_ms": 242316,
-      "name": "Seu Astral / Enquanto Houver Raz\u00f5es - Ao Vivo",
-      "url": "https://open.spotify.com/track/5s5thQ6XDeYzFf2MGjQ4yx"
     },
     {
       "added_at": "2026-06-19 03:00:41",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2026-06-19 03:00:41",
       "album": {
-        "name": "Baila Que Baila (Ao Vivo)",
-        "url": "https://open.spotify.com/album/43e22aPTIdUwT9dwj2YDLP"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mulato e Leandro",
-          "url": "https://open.spotify.com/artist/6XdovN8SP0rflhboapBCWn"
-        },
-        {
-          "name": "William & Bidiko",
-          "url": "https://open.spotify.com/artist/12kiggyMtZvgZjQuhmp6Xy"
-        }
-      ],
-      "duration_ms": 169386,
-      "name": "Baila Que Baila - Ao Vivo",
-      "url": "https://open.spotify.com/track/40B5UrgWuCIVFHr4t2NMbv"
-    },
-    {
-      "added_at": "2026-06-19 03:00:41",
-      "album": {
         "name": "Mais 18",
         "url": "https://open.spotify.com/album/5LSNuS83GtsRNFOYTsmb6h"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 163605,
       "name": "Mais 18",
       "url": "https://open.spotify.com/track/2D5BT7DLrPLcz8CCGyvsAF"
+    },
+    {
+      "added_at": "2026-06-19 03:00:41",
+      "album": {
+        "name": "Baila Que Baila (Ao Vivo)",
+        "url": "https://open.spotify.com/album/43e22aPTIdUwT9dwj2YDLP"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mulato e Leandro",
+          "url": "https://open.spotify.com/artist/6XdovN8SP0rflhboapBCWn"
+        },
+        {
+          "name": "William & Bidiko",
+          "url": "https://open.spotify.com/artist/12kiggyMtZvgZjQuhmp6Xy"
+        }
+      ],
+      "duration_ms": 169386,
+      "name": "Baila Que Baila - Ao Vivo",
+      "url": "https://open.spotify.com/track/40B5UrgWuCIVFHr4t2NMbv"
     },
     {
       "added_at": "2026-06-19 03:00:41",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-06-19 03:00:41",
       "album": {
-        "name": "Coisas Esot\u00e9ricas / N\u00e3o Vou Mais Chorar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3uQHjCY1j0Bbwkol3AxYw2"
-      },
-      "artists": [
-        {
-          "name": "Melissa e Milena",
-          "url": "https://open.spotify.com/artist/6uUfwRchop6ciRB2HxXDKw"
-        }
-      ],
-      "duration_ms": 206094,
-      "name": "Coisas Esot\u00e9ricas / N\u00e3o Vou Mais Chorar - Ao Vivo",
-      "url": "https://open.spotify.com/track/2WdOgGVJXlUXz6ZoUiQnrG"
-    },
-    {
-      "added_at": "2026-06-19 03:00:41",
-      "album": {
         "name": "Primeiro Rol\u00ea (Ao Vivo)",
         "url": "https://open.spotify.com/album/6yEMAMQe67D0czjHDX3jzZ"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 172999,
       "name": "Primeiro Rol\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/0kMvs53wPbOmPP1XVmba54"
+    },
+    {
+      "added_at": "2026-06-19 03:00:41",
+      "album": {
+        "name": "Coisas Esot\u00e9ricas / N\u00e3o Vou Mais Chorar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3uQHjCY1j0Bbwkol3AxYw2"
+      },
+      "artists": [
+        {
+          "name": "Melissa e Milena",
+          "url": "https://open.spotify.com/artist/6uUfwRchop6ciRB2HxXDKw"
+        }
+      ],
+      "duration_ms": 206094,
+      "name": "Coisas Esot\u00e9ricas / N\u00e3o Vou Mais Chorar - Ao Vivo",
+      "url": "https://open.spotify.com/track/2WdOgGVJXlUXz6ZoUiQnrG"
     },
     {
       "added_at": "2026-06-19 03:00:41",

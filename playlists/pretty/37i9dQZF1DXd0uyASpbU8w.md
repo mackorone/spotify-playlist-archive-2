@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Shimza, Tyla, Al Xapo & Benzoo, The Joy and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,305 likes - 68 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,357 likes - 68 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

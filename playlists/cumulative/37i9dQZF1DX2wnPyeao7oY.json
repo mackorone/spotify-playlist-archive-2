@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-08",
-  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Sorry X",
+  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Prompts",
   "name": "Fresh Finds Heavy",
   "tracks": [
     {
@@ -454,7 +454,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 286764,
       "name": "Aftermath",
       "url": "https://open.spotify.com/track/77vlVBy2iasW2jiiLlp3te"
@@ -2986,7 +2986,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 229714,
       "name": "Crave",
       "url": "https://open.spotify.com/track/7I4yruTwtFlhwSmlIiB2xx"
@@ -3518,6 +3518,24 @@
       "duration_ms": 212914,
       "name": "Death Oath",
       "url": "https://open.spotify.com/track/6N5hpnvbfFYDQYZNhKl0Dz"
+    },
+    {
+      "album": {
+        "name": "Death To Something",
+        "url": "https://open.spotify.com/album/7jIb1kFkYPuDv4I6KR7LZ4"
+      },
+      "artists": [
+        {
+          "name": "SAVE US",
+          "url": "https://open.spotify.com/artist/4zg7MdBZ6o5IFIcB6qXZg1"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Death To Something",
+      "url": "https://open.spotify.com/track/691foVXBeyjG2KPY4PGeFy"
     },
     {
       "album": {
@@ -4247,6 +4265,24 @@
     },
     {
       "album": {
+        "name": "Parasite Dream",
+        "url": "https://open.spotify.com/album/4Nq9TrgLJUpIOBhi6ZUbbX"
+      },
+      "artists": [
+        {
+          "name": "Prompts",
+          "url": "https://open.spotify.com/artist/3roPPqGAbyY4WHCbJbJnjl"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253894,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/1yceuVJSJ9M082CzRdlBJN"
+    },
+    {
+      "album": {
         "name": "Seven Garbage Born of Hatred",
         "url": "https://open.spotify.com/album/0ABjbNJguBMmTbwBc1dN1c"
       },
@@ -4960,6 +4996,24 @@
       "duration_ms": 152191,
       "name": "Expiration Date",
       "url": "https://open.spotify.com/track/7jfExfelmrHCD2h0OtoYBC"
+    },
+    {
+      "album": {
+        "name": "Extinct",
+        "url": "https://open.spotify.com/album/6m7KB00nEHTth0fxKcMwUY"
+      },
+      "artists": [
+        {
+          "name": "Beyond Deviation",
+          "url": "https://open.spotify.com/artist/6bGhlZE9y0X5Gm8eJUbQP1"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204538,
+      "name": "Extinct",
+      "url": "https://open.spotify.com/track/1IuZtTSjqV0e8yv4HMMGLd"
     },
     {
       "album": {
@@ -7006,7 +7060,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 216151,
       "name": "Host",
       "url": "https://open.spotify.com/track/6MP0zsi25mgQafDXkLCUOD"
@@ -7220,6 +7274,24 @@
       "duration_ms": 394760,
       "name": "I Feel the Night",
       "url": "https://open.spotify.com/track/3TBWwpKHggcLiPqW4BOnhL"
+    },
+    {
+      "album": {
+        "name": "I Killed Satan",
+        "url": "https://open.spotify.com/album/6Lnf993SBZvxQoJGVKzp7r"
+      },
+      "artists": [
+        {
+          "name": "Battlesnake",
+          "url": "https://open.spotify.com/artist/2jrvVsbr886ElfLO355U3y"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210951,
+      "name": "I Killed Satan",
+      "url": "https://open.spotify.com/track/2yLodN25W5PJVheWxj7Dtz"
     },
     {
       "album": {
@@ -7736,7 +7808,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 164000,
       "name": "INTRUSIVE THOUGHTS",
       "url": "https://open.spotify.com/track/6Y5SbN02DMsFMRAhBu11I2"
@@ -10070,7 +10142,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 253363,
       "name": "No\u010dn\u00ed M\u016fra",
       "url": "https://open.spotify.com/track/4JnkgvDRTyhdZ2t7EjkNKM"
@@ -11344,6 +11416,24 @@
       "duration_ms": 216240,
       "name": "Razor",
       "url": "https://open.spotify.com/track/3nOZwO3wEK0qdu2R9g1iEA"
+    },
+    {
+      "album": {
+        "name": "Ready To Talk",
+        "url": "https://open.spotify.com/album/20cwKltC9fNd1FjaWcFqIH"
+      },
+      "artists": [
+        {
+          "name": "Broken Earth",
+          "url": "https://open.spotify.com/artist/1JirMH2xgDshYWN3G5t7hA"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197828,
+      "name": "Ready To Talk",
+      "url": "https://open.spotify.com/track/0N6XAJxfd261NPvdZvIKpH"
     },
     {
       "album": {
@@ -12744,7 +12834,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 178320,
       "name": "soulless cycle",
       "url": "https://open.spotify.com/track/6cOD4NsMsC3xykBHA3j5b6"
@@ -12892,6 +12982,24 @@
       "duration_ms": 220671,
       "name": "Split Brow",
       "url": "https://open.spotify.com/track/7BoMPwr6gxukuRukhU1zpO"
+    },
+    {
+      "album": {
+        "name": "Split Frame",
+        "url": "https://open.spotify.com/album/0GtnVq4ebbWhdo1T6wdzO0"
+      },
+      "artists": [
+        {
+          "name": "A Sight in Veracity",
+          "url": "https://open.spotify.com/artist/766tMT7gzeXdwTCMSoN68M"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169110,
+      "name": "Split Frame",
+      "url": "https://open.spotify.com/track/0AzyVf32eD9dhX4AETtWGy"
     },
     {
       "album": {
@@ -13094,6 +13202,24 @@
       "duration_ms": 206877,
       "name": "Stillborn",
       "url": "https://open.spotify.com/track/30EBMmwhPG0fLU9XQbhigB"
+    },
+    {
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/1TMM6MAO6NhoxA8S5U0SNp"
+      },
+      "artists": [
+        {
+          "name": "Sakoya",
+          "url": "https://open.spotify.com/artist/0x2dZoTljdt9Pfv26DMJv3"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186593,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/1cbrvTs3sYdtQCWoOrk2VR"
     },
     {
       "album": {
@@ -14610,7 +14736,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 249000,
       "name": "Tired",
       "url": "https://open.spotify.com/track/7d8btb5iJHN2vVBf6uNE3A"

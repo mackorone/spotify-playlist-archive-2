@@ -1,12 +1,12 @@
 {
   "description": "This is BL\u00d8F. The essential tracks, all in one playlist.",
-  "num_followers": 94327,
+  "num_followers": 94338,
   "original_name": "This Is BL\u00d8F",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajh7AAAAAACZ2lsGzFeR4ohOU8+ipdWC",
+  "snapshot_id": "ajnMgAAAAABsFDc3gELLSevjKaWpzaV6",
   "tracks": [
     {
       "added_at": null,
@@ -391,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aan",
+        "url": "https://open.spotify.com/album/0tTV2cKaA2TXTUOE642C59"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 250506,
+      "name": "Over De Dam",
+      "url": "https://open.spotify.com/track/5a6UWbPBj1cAipfZzwDXRj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Umoja",
         "url": "https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 283333,
       "name": "Aanzoek Zonder Ringen",
       "url": "https://open.spotify.com/track/6Cc0qQpIw9Dzm9c9GSFjRt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aan",
-        "url": "https://open.spotify.com/album/0tTV2cKaA2TXTUOE642C59"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 250506,
-      "name": "Over De Dam",
-      "url": "https://open.spotify.com/track/5a6UWbPBj1cAipfZzwDXRj"
     },
     {
       "added_at": null,

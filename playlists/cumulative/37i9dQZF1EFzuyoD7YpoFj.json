@@ -563,6 +563,24 @@
     },
     {
       "album": {
+        "name": "Midnight Jazz & Blue Nights: Late Night Jazz, Deep Cuts, Bluesy & Sophisticated Mood",
+        "url": "https://open.spotify.com/album/5vSRuNR1smC7nZzpkaFVdC"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193187,
+      "name": "All Through The Night",
+      "url": "https://open.spotify.com/track/6WRidiUvt5qzXlqpbmVCLA"
+    },
+    {
+      "album": {
         "name": "Ella Fitzgerald Sings The Cole Porter Song Book (Expanded Edition)",
         "url": "https://open.spotify.com/album/5h8vIlNNUiczk48YIyryuI"
       },
@@ -574,7 +592,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 194893,
       "name": "All Through The Night",
       "url": "https://open.spotify.com/track/5vPfX2ZSujQf6vLUJrXsFN"

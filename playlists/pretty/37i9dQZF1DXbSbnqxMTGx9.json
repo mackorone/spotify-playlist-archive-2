@@ -1,6 +1,6 @@
 {
   "description": "The ultimate reggae playlist. Cover: Bob Marley",
-  "num_followers": 3219623,
+  "num_followers": 3219863,
   "original_name": "Reggae Classics",
   "owner": {
     "name": "Spotify",
@@ -1060,13 +1060,13 @@
       },
       "artists": [
         {
-          "name": "Stranger & Patsy",
-          "url": "https://open.spotify.com/artist/4ziAwbPCNR5388Xp7XnGyq"
+          "name": "Roy Shirley",
+          "url": "https://open.spotify.com/artist/20SfytGDGLIt4yklvZ38wk"
         }
       ],
-      "duration_ms": 164920,
-      "name": "Down By The Train Line",
-      "url": "https://open.spotify.com/track/7hUrr2RkzJezvLFlq5YkZ8"
+      "duration_ms": 167533,
+      "name": "Hold Them",
+      "url": "https://open.spotify.com/track/2JHyRO7aEJH0UXOjZQ7m0r"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1076,13 +1076,13 @@
       },
       "artists": [
         {
-          "name": "Roy Shirley",
-          "url": "https://open.spotify.com/artist/20SfytGDGLIt4yklvZ38wk"
+          "name": "Stranger & Patsy",
+          "url": "https://open.spotify.com/artist/4ziAwbPCNR5388Xp7XnGyq"
         }
       ],
-      "duration_ms": 167533,
-      "name": "Hold Them",
-      "url": "https://open.spotify.com/track/2JHyRO7aEJH0UXOjZQ7m0r"
+      "duration_ms": 164920,
+      "name": "Down By The Train Line",
+      "url": "https://open.spotify.com/track/7hUrr2RkzJezvLFlq5YkZ8"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
+        "name": "Reggae Classics",
+        "url": "https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP"
+      },
+      "artists": [
+        {
+          "name": "UB40",
+          "url": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+        }
+      ],
+      "duration_ms": 182066,
+      "name": "Red Red Wine",
+      "url": "https://open.spotify.com/track/1DLe77IuTY32Lj3Kh50Uzi"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
         "name": "Riding the Roots Chariot",
         "url": "https://open.spotify.com/album/3K82f6Jv1CtvO5JYMWbsnB"
       },
@@ -1619,26 +1635,6 @@
       "duration_ms": 155490,
       "name": "Beat Down Babylon",
       "url": "https://open.spotify.com/track/0mBz5oETbkKgPTHKTt8RHG"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "War Ina Babylon",
-        "url": "https://open.spotify.com/album/4Bw7hyzk37wBHptu4HglHV"
-      },
-      "artists": [
-        {
-          "name": "Max Romeo",
-          "url": "https://open.spotify.com/artist/45QpZznbXYo3nWy0TIhvgv"
-        },
-        {
-          "name": "The Upsetters",
-          "url": "https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b"
-        }
-      ],
-      "duration_ms": 207666,
-      "name": "Chase The Devil",
-      "url": "https://open.spotify.com/track/2kPQbvKYxJV2z5q2wNps7n"
     }
   ],
   "unique_name": "Reggae Classics",

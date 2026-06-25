@@ -1,12 +1,12 @@
 {
   "description": "This is Michael Jackson. The essential tracks, all in one playlist.",
-  "num_followers": 3467844,
+  "num_followers": 3470466,
   "original_name": "This Is Michael Jackson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajh7AAAAAAAb693aZnMPkO71dgfq0RHB",
+  "snapshot_id": "ajnMgAAAAACQ7FJjEKeKXHQR4c3Fb9sI",
   "tracks": [
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad (Remastered)",
-        "url": "https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 232801,
-      "name": "Liberian Girl - 2012 Remastered Version",
-      "url": "https://open.spotify.com/track/2WzQbiXKpmRNLWXbqo8Z7b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BLOOD ON THE DANCE FLOOR/ HIStory In The Mix",
         "url": "https://open.spotify.com/album/0RNsFWWdiz1rrdLI1pwbvJ"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 254226,
       "name": "Blood on the Dance Floor",
       "url": "https://open.spotify.com/track/11lw4bWbmxWIETHitBU0Gc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad (Remastered)",
+        "url": "https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 232801,
+      "name": "Liberian Girl - 2012 Remastered Version",
+      "url": "https://open.spotify.com/track/2WzQbiXKpmRNLWXbqo8Z7b"
     },
     {
       "added_at": null,

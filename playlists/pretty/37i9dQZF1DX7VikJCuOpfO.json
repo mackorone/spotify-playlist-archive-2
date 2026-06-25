@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Christian Nodal\ud83d\udcf8",
-  "num_followers": 367994,
+  "num_followers": 368000,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,22 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
+        "name": "Un Abrazo (Versi\u00f3n Regional)",
+        "url": "https://open.spotify.com/album/5gwNUXcnQpmaik21UHDS5H"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 238500,
+      "name": "Un Abrazo - Versi\u00f3n Regional",
+      "url": "https://open.spotify.com/track/0QO0d6FjUjvcb65xu832YQ"
+    },
+    {
+      "added_at": "2026-05-22 06:00:32",
+      "album": {
         "name": "Emilia",
         "url": "https://open.spotify.com/album/55kC2mytSmuqEkW4YkbhOz"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 221848,
       "name": "Emilia",
       "url": "https://open.spotify.com/track/5AVezBQITmD27pmvzKULgm"
-    },
-    {
-      "added_at": "2026-05-22 06:00:32",
-      "album": {
-        "name": "Un Abrazo (Versi\u00f3n Regional)",
-        "url": "https://open.spotify.com/album/5gwNUXcnQpmaik21UHDS5H"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 238500,
-      "name": "Un Abrazo - Versi\u00f3n Regional",
-      "url": "https://open.spotify.com/track/0QO0d6FjUjvcb65xu832YQ"
     },
     {
       "added_at": "2026-05-22 06:00:32",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
-        "name": "De Qu\u00e9 Manera Te Olvido",
-        "url": "https://open.spotify.com/album/3ZdsQ9qRiqlzaIeRVdvC65"
-      },
-      "artists": [
-        {
-          "name": "Elias Medina",
-          "url": "https://open.spotify.com/artist/7c6AUl38S5Xo8t6fvGKJDJ"
-        }
-      ],
-      "duration_ms": 174250,
-      "name": "De Qu\u00e9 Manera Te Olvido",
-      "url": "https://open.spotify.com/track/7r6np7igPeQkUB2UKYHW1U"
-    },
-    {
-      "added_at": "2026-05-22 06:00:32",
-      "album": {
         "name": "En Las Cantinas (En vivo)",
         "url": "https://open.spotify.com/album/2Y37D3boCOXZSf1IHURy9N"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 196377,
       "name": "No Me Amenaces (En Vivo)",
       "url": "https://open.spotify.com/track/4wSyFpCLJp4LBB7epKQZ1F"
+    },
+    {
+      "added_at": "2026-05-22 06:00:32",
+      "album": {
+        "name": "De Qu\u00e9 Manera Te Olvido",
+        "url": "https://open.spotify.com/album/3ZdsQ9qRiqlzaIeRVdvC65"
+      },
+      "artists": [
+        {
+          "name": "Elias Medina",
+          "url": "https://open.spotify.com/artist/7c6AUl38S5Xo8t6fvGKJDJ"
+        }
+      ],
+      "duration_ms": 174250,
+      "name": "De Qu\u00e9 Manera Te Olvido",
+      "url": "https://open.spotify.com/track/7r6np7igPeQkUB2UKYHW1U"
     },
     {
       "added_at": "2026-05-22 06:00:32",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
-        "name": "Que Ganas De No Verte Nunca M\u00e1s",
-        "url": "https://open.spotify.com/album/2hkLkzcmOqFnlhZPpx58kw"
-      },
-      "artists": [
-        {
-          "name": "ANDYVERE",
-          "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
-        }
-      ],
-      "duration_ms": 209920,
-      "name": "Que Ganas De No Verte Nunca M\u00e1s",
-      "url": "https://open.spotify.com/track/0Z1Hwnp3Ts3tpK4Lki5KOp"
-    },
-    {
-      "added_at": "2026-05-22 06:00:32",
-      "album": {
         "name": "No Voy a Regresar",
         "url": "https://open.spotify.com/album/4ltDXZWMsobll9mj0ogUrb"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 195922,
       "name": "No Voy a Regresar",
       "url": "https://open.spotify.com/track/0QQpCnFeMyEIcmkuic0iIT"
+    },
+    {
+      "added_at": "2026-05-22 06:00:32",
+      "album": {
+        "name": "Que Ganas De No Verte Nunca M\u00e1s",
+        "url": "https://open.spotify.com/album/2hkLkzcmOqFnlhZPpx58kw"
+      },
+      "artists": [
+        {
+          "name": "ANDYVERE",
+          "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
+        }
+      ],
+      "duration_ms": 209920,
+      "name": "Que Ganas De No Verte Nunca M\u00e1s",
+      "url": "https://open.spotify.com/track/0Z1Hwnp3Ts3tpK4Lki5KOp"
     },
     {
       "added_at": "2026-05-22 06:00:32",
@@ -863,6 +863,22 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
+        "name": "Una Limosna",
+        "url": "https://open.spotify.com/album/6EYfW56o1eEgwuhPSthvnN"
+      },
+      "artists": [
+        {
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+        }
+      ],
+      "duration_ms": 172422,
+      "name": "Una Limosna",
+      "url": "https://open.spotify.com/track/15z7cJ1vKveZ6drvbM5DeJ"
+    },
+    {
+      "added_at": "2026-05-22 06:00:32",
+      "album": {
         "name": "Este Amor",
         "url": "https://open.spotify.com/album/52k951JAnmJbJfJBCGe5AR"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 231302,
       "name": "Este Amor",
       "url": "https://open.spotify.com/track/4qQEpeUsKJYeRTZmF9nsSf"
-    },
-    {
-      "added_at": "2026-05-22 06:00:32",
-      "album": {
-        "name": "Una Limosna",
-        "url": "https://open.spotify.com/album/6EYfW56o1eEgwuhPSthvnN"
-      },
-      "artists": [
-        {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
-        }
-      ],
-      "duration_ms": 172422,
-      "name": "Una Limosna",
-      "url": "https://open.spotify.com/track/15z7cJ1vKveZ6drvbM5DeJ"
     },
     {
       "added_at": "2026-05-22 06:00:32",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
-        "name": "Esa Perra Ya Me Mordi\u00f3",
-        "url": "https://open.spotify.com/album/0J19wntQXd72hlcOZ7ucnC"
-      },
-      "artists": [
-        {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        }
-      ],
-      "duration_ms": 210592,
-      "name": "Esa Perra Ya Me Mordi\u00f3",
-      "url": "https://open.spotify.com/track/1meWqNTdwoGQXdbizpKOUd"
-    },
-    {
-      "added_at": "2026-05-22 06:00:32",
-      "album": {
         "name": "Pajarillo",
         "url": "https://open.spotify.com/album/5jH8BDn3zQe2FQ0aZdson7"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 229173,
       "name": "Pajarillo",
       "url": "https://open.spotify.com/track/0ZvSxLlYyF2qEs3PQj5X3w"
+    },
+    {
+      "added_at": "2026-05-22 06:00:32",
+      "album": {
+        "name": "Esa Perra Ya Me Mordi\u00f3",
+        "url": "https://open.spotify.com/album/0J19wntQXd72hlcOZ7ucnC"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        }
+      ],
+      "duration_ms": 210592,
+      "name": "Esa Perra Ya Me Mordi\u00f3",
+      "url": "https://open.spotify.com/track/1meWqNTdwoGQXdbizpKOUd"
     },
     {
       "added_at": "2026-05-22 06:00:32",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
+        "name": "Mi M\u00e9xico Mestizo",
+        "url": "https://open.spotify.com/album/2xQyshk5TRjdAVLonc74gv"
+      },
+      "artists": [
+        {
+          "name": "Sant Orozco",
+          "url": "https://open.spotify.com/artist/0ZeCzmxhyIQU8pB2jloBbG"
+        }
+      ],
+      "duration_ms": 146060,
+      "name": "Mi M\u00e9xico Mestizo",
+      "url": "https://open.spotify.com/track/5Rn5XDwuJmzSiqIsDLspyo"
+    },
+    {
+      "added_at": "2026-05-22 06:00:32",
+      "album": {
         "name": "Diente De Le\u00f3n",
         "url": "https://open.spotify.com/album/6tF3e4s4jH2JH2HYyoPexo"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 219175,
       "name": "Diente De Le\u00f3n",
       "url": "https://open.spotify.com/track/0QnAR0S70keqrIMvfKBjzF"
-    },
-    {
-      "added_at": "2026-05-22 06:00:32",
-      "album": {
-        "name": "Mi M\u00e9xico Mestizo",
-        "url": "https://open.spotify.com/album/2xQyshk5TRjdAVLonc74gv"
-      },
-      "artists": [
-        {
-          "name": "Sant Orozco",
-          "url": "https://open.spotify.com/artist/0ZeCzmxhyIQU8pB2jloBbG"
-        }
-      ],
-      "duration_ms": 146060,
-      "name": "Mi M\u00e9xico Mestizo",
-      "url": "https://open.spotify.com/track/5Rn5XDwuJmzSiqIsDLspyo"
     },
     {
       "added_at": "2026-05-22 06:00:32",

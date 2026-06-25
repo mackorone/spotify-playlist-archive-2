@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Julia Jacklin
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,291,237 likes - 173 songs - 9 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,291,171 likes - 173 songs - 9 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

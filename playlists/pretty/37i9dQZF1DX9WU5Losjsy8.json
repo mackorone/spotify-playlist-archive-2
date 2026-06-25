@@ -1,6 +1,6 @@
 {
   "description": "Mit dieser Playlist h\u00f6rt die Party nie auf!",
-  "num_followers": 496896,
+  "num_followers": 496954,
   "original_name": "Malle Party 2026",
   "owner": {
     "name": "Spotify",
@@ -807,26 +807,6 @@
     {
       "added_at": "2026-06-11 22:01:20",
       "album": {
-        "name": "Mama Laudaaa",
-        "url": "https://open.spotify.com/album/4yWhxiH0UB3A6jfr0ZLe4v"
-      },
-      "artists": [
-        {
-          "name": "Almklausi",
-          "url": "https://open.spotify.com/artist/3f56dbtoRz7bucWJUeofzK"
-        },
-        {
-          "name": "Specktakel",
-          "url": "https://open.spotify.com/artist/1ErIf1pAAaw5upKsCbqhzz"
-        }
-      ],
-      "duration_ms": 215976,
-      "name": "Mama Laudaaa",
-      "url": "https://open.spotify.com/track/1RcWWgnw5fVm3wcNq11zBu"
-    },
-    {
-      "added_at": "2026-06-11 22:01:20",
-      "album": {
         "name": "Schau mal herein",
         "url": "https://open.spotify.com/album/69m1H2ksabmBn4oCQzYut7"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 183133,
       "name": "Schau mal herein",
       "url": "https://open.spotify.com/track/0f6pPvxwkvBFaIpfhAQHgt"
+    },
+    {
+      "added_at": "2026-06-11 22:01:20",
+      "album": {
+        "name": "Mama Laudaaa",
+        "url": "https://open.spotify.com/album/4yWhxiH0UB3A6jfr0ZLe4v"
+      },
+      "artists": [
+        {
+          "name": "Almklausi",
+          "url": "https://open.spotify.com/artist/3f56dbtoRz7bucWJUeofzK"
+        },
+        {
+          "name": "Specktakel",
+          "url": "https://open.spotify.com/artist/1ErIf1pAAaw5upKsCbqhzz"
+        }
+      ],
+      "duration_ms": 215976,
+      "name": "Mama Laudaaa",
+      "url": "https://open.spotify.com/track/1RcWWgnw5fVm3wcNq11zBu"
     },
     {
       "added_at": "2026-06-11 22:01:20",
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-06-11 22:01:20",
       "album": {
+        "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
+        "url": "https://open.spotify.com/album/5RXeATnYMMGjUWoczsa4a3"
+      },
+      "artists": [
+        {
+          "name": "Tobee",
+          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
+        }
+      ],
+      "duration_ms": 246433,
+      "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
+      "url": "https://open.spotify.com/track/1pMsWnQCaLQvL3O0vaMp5H"
+    },
+    {
+      "added_at": "2026-06-11 22:01:20",
+      "album": {
         "name": "HASENJAGD",
         "url": "https://open.spotify.com/album/7z6XRu94FWJRAsVaFeodgL"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 158135,
       "name": "HASENJAGD",
       "url": "https://open.spotify.com/track/4VCeLD6GatBDyoA5ijrL4X"
-    },
-    {
-      "added_at": "2026-06-11 22:01:20",
-      "album": {
-        "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
-        "url": "https://open.spotify.com/album/5RXeATnYMMGjUWoczsa4a3"
-      },
-      "artists": [
-        {
-          "name": "Tobee",
-          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
-        }
-      ],
-      "duration_ms": 246433,
-      "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
-      "url": "https://open.spotify.com/track/1pMsWnQCaLQvL3O0vaMp5H"
     },
     {
       "added_at": "2026-06-11 22:01:20",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-06-11 22:01:20",
       "album": {
-        "name": "Die Nacht von Freitag auf Montag",
-        "url": "https://open.spotify.com/album/7BxwSFUIIiDmHqZv6pdtt6"
-      },
-      "artists": [
-        {
-          "name": "Peter Wackel",
-          "url": "https://open.spotify.com/artist/2AkhLtPZf3dPJZRrXqBqXb"
-        }
-      ],
-      "duration_ms": 178578,
-      "name": "Die Nacht von Freitag auf Montag",
-      "url": "https://open.spotify.com/track/0NjLgGCwHAE0KhVTALxdCb"
-    },
-    {
-      "added_at": "2026-06-11 22:01:20",
-      "album": {
         "name": "King Kong",
         "url": "https://open.spotify.com/album/4RBDtEQ86Uj6hQ1b31H03n"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 156120,
       "name": "King Kong",
       "url": "https://open.spotify.com/track/7GIlBNE6pZRfoRfo4oL7f0"
+    },
+    {
+      "added_at": "2026-06-11 22:01:20",
+      "album": {
+        "name": "Die Nacht von Freitag auf Montag",
+        "url": "https://open.spotify.com/album/7BxwSFUIIiDmHqZv6pdtt6"
+      },
+      "artists": [
+        {
+          "name": "Peter Wackel",
+          "url": "https://open.spotify.com/artist/2AkhLtPZf3dPJZRrXqBqXb"
+        }
+      ],
+      "duration_ms": 178578,
+      "name": "Die Nacht von Freitag auf Montag",
+      "url": "https://open.spotify.com/track/0NjLgGCwHAE0KhVTALxdCb"
     },
     {
       "added_at": "2026-06-11 22:01:20",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2026-06-11 22:01:20",
       "album": {
-        "name": "Hast Du Saufen mal probiert? (1000 und 1 Nacht)",
-        "url": "https://open.spotify.com/album/7k4m57CRV2p6lueGYH7iSH"
-      },
-      "artists": [
-        {
-          "name": "Kings of G\u00fcnter",
-          "url": "https://open.spotify.com/artist/64Tp3pyyHag0ngw5SLchgY"
-        },
-        {
-          "name": "Reis Against The Sp\u00fclmachine",
-          "url": "https://open.spotify.com/artist/1woaAg9umuHZpxmoRPstxP"
-        }
-      ],
-      "duration_ms": 179061,
-      "name": "Hast Du Saufen mal probiert? (1000 und 1 Nacht)",
-      "url": "https://open.spotify.com/track/5fCBl1cfgQZaOdRCzKjcqT"
-    },
-    {
-      "added_at": "2026-06-11 22:01:20",
-      "album": {
         "name": "WOW!",
         "url": "https://open.spotify.com/album/2M6KtlSMelRaIBneRuXeZg"
       },
@@ -1247,6 +1227,26 @@
       "duration_ms": 119248,
       "name": "WOW!",
       "url": "https://open.spotify.com/track/4xfEcpw3EcHWX3IEEhG5ua"
+    },
+    {
+      "added_at": "2026-06-11 22:01:20",
+      "album": {
+        "name": "Hast Du Saufen mal probiert? (1000 und 1 Nacht)",
+        "url": "https://open.spotify.com/album/7k4m57CRV2p6lueGYH7iSH"
+      },
+      "artists": [
+        {
+          "name": "Kings of G\u00fcnter",
+          "url": "https://open.spotify.com/artist/64Tp3pyyHag0ngw5SLchgY"
+        },
+        {
+          "name": "Reis Against The Sp\u00fclmachine",
+          "url": "https://open.spotify.com/artist/1woaAg9umuHZpxmoRPstxP"
+        }
+      ],
+      "duration_ms": 179061,
+      "name": "Hast Du Saufen mal probiert? (1000 und 1 Nacht)",
+      "url": "https://open.spotify.com/track/5fCBl1cfgQZaOdRCzKjcqT"
     },
     {
       "added_at": "2026-06-11 22:01:20",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-06-11 22:01:20",
       "album": {
-        "name": "K\u00e4pt'n Morgen",
-        "url": "https://open.spotify.com/album/7AxIlCtJ9HucWsmburWi9A"
-      },
-      "artists": [
-        {
-          "name": "Sch\u00fcrze",
-          "url": "https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ"
-        }
-      ],
-      "duration_ms": 158785,
-      "name": "K\u00e4pt'n Morgen",
-      "url": "https://open.spotify.com/track/5uGacwxeGDV4RSDYqgMGmZ"
-    },
-    {
-      "added_at": "2026-06-11 22:01:20",
-      "album": {
         "name": "Grapefruit",
         "url": "https://open.spotify.com/album/2GPa0un8izzyTkgZWgocBo"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 184160,
       "name": "Grapefruit",
       "url": "https://open.spotify.com/track/6tsfUUzJ5SFKP7n2H9V22F"
+    },
+    {
+      "added_at": "2026-06-11 22:01:20",
+      "album": {
+        "name": "K\u00e4pt'n Morgen",
+        "url": "https://open.spotify.com/album/7AxIlCtJ9HucWsmburWi9A"
+      },
+      "artists": [
+        {
+          "name": "Sch\u00fcrze",
+          "url": "https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ"
+        }
+      ],
+      "duration_ms": 158785,
+      "name": "K\u00e4pt'n Morgen",
+      "url": "https://open.spotify.com/track/5uGacwxeGDV4RSDYqgMGmZ"
     },
     {
       "added_at": "2026-06-11 22:01:20",

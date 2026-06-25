@@ -1,12 +1,12 @@
 {
   "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 153196,
+  "num_followers": 153216,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajh7AAAAAABFuyBVU66jCMmLnyQAJEV9",
+  "snapshot_id": "ajnMgAAAAAA+r5jAY0dUlex9QH1Pq8RH",
   "tracks": [
     {
       "added_at": null,
@@ -523,26 +523,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "JESUS IS KING",
-        "url": "https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
       },
       "artists": [
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Clipse",
-          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
-        },
-        {
           "name": "Kenny G",
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        },
+        {
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
         }
       ],
-      "duration_ms": 213877,
-      "name": "Use This Gospel",
-      "url": "https://open.spotify.com/track/0oPOuDmmkVp3h6puekhs6P"
+      "duration_ms": 244826,
+      "name": "You Send Me (with Michael Bolton)",
+      "url": "https://open.spotify.com/track/6qB2W0DcQo2kLyqw2JUo5k"
     },
     {
       "added_at": null,
@@ -567,22 +563,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
+        "name": "JESUS IS KING",
+        "url": "https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9"
       },
       "artists": [
         {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         },
         {
-          "name": "Michael Bolton",
-          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+          "name": "Clipse",
+          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+        },
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 244826,
-      "name": "You Send Me (with Michael Bolton)",
-      "url": "https://open.spotify.com/track/6qB2W0DcQo2kLyqw2JUo5k"
+      "duration_ms": 213877,
+      "name": "Use This Gospel",
+      "url": "https://open.spotify.com/track/0oPOuDmmkVp3h6puekhs6P"
     },
     {
       "added_at": null,

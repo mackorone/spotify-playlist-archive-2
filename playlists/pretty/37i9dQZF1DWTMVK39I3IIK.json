@@ -1,6 +1,6 @@
 {
   "description": "young soundsss!! Monaqi p\u00e5 forsiden \ud83c\udf54",
-  "num_followers": 47172,
+  "num_followers": 47173,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -503,18 +503,22 @@
     {
       "added_at": "2026-06-19 08:10:56",
       "album": {
-        "name": "Folk Forsvinder",
-        "url": "https://open.spotify.com/album/3epMbIVpnO7V1854Efwfpc"
+        "name": "Lille hus i Jylland (feat. Dahlin)",
+        "url": "https://open.spotify.com/album/3N62lUJDomKSPBDbX7w1c7"
       },
       "artists": [
         {
-          "name": "Chris Burton",
-          "url": "https://open.spotify.com/artist/4xEK7RZaPr5EblYHsaeBWo"
+          "name": "Albert Heath",
+          "url": "https://open.spotify.com/artist/0JYSq0mqljZ5VYGF1M3r2L"
+        },
+        {
+          "name": "Dahlin",
+          "url": "https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P"
         }
       ],
-      "duration_ms": 173041,
-      "name": "Folk Forsvinder",
-      "url": "https://open.spotify.com/track/1ahsG679rkCBohS1CRjbnr"
+      "duration_ms": 164805,
+      "name": "Lille hus i Jylland (feat. Dahlin)",
+      "url": "https://open.spotify.com/track/6tt5xtseCg8LGm8CvE0aAl"
     },
     {
       "added_at": "2026-06-19 08:10:56",
@@ -535,6 +539,22 @@
     {
       "added_at": "2026-06-19 08:10:56",
       "album": {
+        "name": "Folk Forsvinder",
+        "url": "https://open.spotify.com/album/3epMbIVpnO7V1854Efwfpc"
+      },
+      "artists": [
+        {
+          "name": "Chris Burton",
+          "url": "https://open.spotify.com/artist/4xEK7RZaPr5EblYHsaeBWo"
+        }
+      ],
+      "duration_ms": 173041,
+      "name": "Folk Forsvinder",
+      "url": "https://open.spotify.com/track/1ahsG679rkCBohS1CRjbnr"
+    },
+    {
+      "added_at": "2026-06-19 08:10:56",
+      "album": {
         "name": "Synger Bare",
         "url": "https://open.spotify.com/album/6GB6K47CUmUged4NVsNPuO"
       },
@@ -547,26 +567,6 @@
       "duration_ms": 107812,
       "name": "Synger Bare",
       "url": "https://open.spotify.com/track/7Icr3LYFjfg1XFeMX1vPZV"
-    },
-    {
-      "added_at": "2026-06-19 08:10:56",
-      "album": {
-        "name": "Lille hus i Jylland (feat. Dahlin)",
-        "url": "https://open.spotify.com/album/3N62lUJDomKSPBDbX7w1c7"
-      },
-      "artists": [
-        {
-          "name": "Albert Heath",
-          "url": "https://open.spotify.com/artist/0JYSq0mqljZ5VYGF1M3r2L"
-        },
-        {
-          "name": "Dahlin",
-          "url": "https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P"
-        }
-      ],
-      "duration_ms": 164805,
-      "name": "Lille hus i Jylland (feat. Dahlin)",
-      "url": "https://open.spotify.com/track/6tt5xtseCg8LGm8CvE0aAl"
     },
     {
       "added_at": "2026-06-19 08:10:56",
@@ -715,38 +715,6 @@
     {
       "added_at": "2026-06-19 08:10:56",
       "album": {
-        "name": "August",
-        "url": "https://open.spotify.com/album/3pPCyjrhrxAO7PC4JI2STb"
-      },
-      "artists": [
-        {
-          "name": "August H\u00f8yen",
-          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
-        }
-      ],
-      "duration_ms": 195988,
-      "name": "Hvad Med Mig",
-      "url": "https://open.spotify.com/track/7vdrHqdOQ7TuZSngyiIiTx"
-    },
-    {
-      "added_at": "2026-06-19 08:10:56",
-      "album": {
-        "name": "Ingen Bund",
-        "url": "https://open.spotify.com/album/72yYt6zHgG6qQkgXNpPqLx"
-      },
-      "artists": [
-        {
-          "name": "Von Quar",
-          "url": "https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3"
-        }
-      ],
-      "duration_ms": 219124,
-      "name": "Ingen Bund",
-      "url": "https://open.spotify.com/track/6Wh43ZGGQycgGfw2fj7wy3"
-    },
-    {
-      "added_at": "2026-06-19 08:10:56",
-      "album": {
         "name": "Hygge & Hustle",
         "url": "https://open.spotify.com/album/2Srx5oXpWlK50X7XF4RYpb"
       },
@@ -767,6 +735,22 @@
     {
       "added_at": "2026-06-19 08:10:56",
       "album": {
+        "name": "Ingen Bund",
+        "url": "https://open.spotify.com/album/72yYt6zHgG6qQkgXNpPqLx"
+      },
+      "artists": [
+        {
+          "name": "Von Quar",
+          "url": "https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3"
+        }
+      ],
+      "duration_ms": 219124,
+      "name": "Ingen Bund",
+      "url": "https://open.spotify.com/track/6Wh43ZGGQycgGfw2fj7wy3"
+    },
+    {
+      "added_at": "2026-06-19 08:10:56",
+      "album": {
         "name": "Hvis jeg ku'",
         "url": "https://open.spotify.com/album/3kNHoFmsaqrnd0cPtlKM3c"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 229000,
       "name": "Hvis jeg ku'",
       "url": "https://open.spotify.com/track/74eJCVzPl499tMbiD8FpRM"
+    },
+    {
+      "added_at": "2026-06-19 08:10:56",
+      "album": {
+        "name": "August",
+        "url": "https://open.spotify.com/album/3pPCyjrhrxAO7PC4JI2STb"
+      },
+      "artists": [
+        {
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+        }
+      ],
+      "duration_ms": 195988,
+      "name": "Hvad Med Mig",
+      "url": "https://open.spotify.com/track/7vdrHqdOQ7TuZSngyiIiTx"
     },
     {
       "added_at": "2026-06-19 08:10:56",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2026-06-19 08:10:56",
       "album": {
+        "name": "passer p\u00e5 mit K",
+        "url": "https://open.spotify.com/album/0SmlwDasj8JUKMIvofdUp9"
+      },
+      "artists": [
+        {
+          "name": "Klara Vibeke",
+          "url": "https://open.spotify.com/artist/5bQ5Pw6LpF4cystane7jby"
+        }
+      ],
+      "duration_ms": 158292,
+      "name": "passer p\u00e5 mit K",
+      "url": "https://open.spotify.com/track/4Vv8Zh3tdP2I67fbIFLOCF"
+    },
+    {
+      "added_at": "2026-06-19 08:10:56",
+      "album": {
         "name": "Pisk",
         "url": "https://open.spotify.com/album/76WG25xbB0WzKtfwgzivt1"
       },
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2026-06-19 08:10:56",
       "album": {
-        "name": "tense present",
-        "url": "https://open.spotify.com/album/3Y3jFgpvIJY3tT7h8y9FbT"
-      },
-      "artists": [
-        {
-          "name": "lucca",
-          "url": "https://open.spotify.com/artist/0wkRL12dR8YrRM3JPzXd1N"
-        }
-      ],
-      "duration_ms": 127992,
-      "name": "cool words",
-      "url": "https://open.spotify.com/track/2YemLBdJSJQAwndrKhPgqb"
-    },
-    {
-      "added_at": "2026-06-19 08:10:56",
-      "album": {
         "name": "Ind I Solen",
         "url": "https://open.spotify.com/album/3zOUUHsN36r3eqFNh1gz0b"
       },
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2026-06-19 08:10:56",
       "album": {
-        "name": "passer p\u00e5 mit K",
-        "url": "https://open.spotify.com/album/0SmlwDasj8JUKMIvofdUp9"
+        "name": "tense present",
+        "url": "https://open.spotify.com/album/3Y3jFgpvIJY3tT7h8y9FbT"
       },
       "artists": [
         {
-          "name": "Klara Vibeke",
-          "url": "https://open.spotify.com/artist/5bQ5Pw6LpF4cystane7jby"
+          "name": "lucca",
+          "url": "https://open.spotify.com/artist/0wkRL12dR8YrRM3JPzXd1N"
         }
       ],
-      "duration_ms": 158292,
-      "name": "passer p\u00e5 mit K",
-      "url": "https://open.spotify.com/track/4Vv8Zh3tdP2I67fbIFLOCF"
+      "duration_ms": 127992,
+      "name": "cool words",
+      "url": "https://open.spotify.com/track/2YemLBdJSJQAwndrKhPgqb"
     },
     {
       "added_at": "2026-06-19 08:10:56",

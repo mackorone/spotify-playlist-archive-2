@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > 100 % chill, 100 % Montréal avec Beaux Léon
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,306 likes - 72 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,398 likes - 72 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [chop it](https://open.spotify.com/track/6jjinjz2ECBHmdx0gL3Wch) | [em & I](https://open.spotify.com/artist/0dgwHMDyg6vFYX4qJ8CmGb) | [chop it](https://open.spotify.com/album/4AUIY2JRgZcA0PNwHJa7Lb) | 2:00 |
-| 2 | [Fais comme si](https://open.spotify.com/track/3raXlp55TvRY4oZGcGfJwY) | [Beaux Léon](https://open.spotify.com/artist/18L8wzQmX9vmU7wxW2Bpde) | [Fais comme si](https://open.spotify.com/album/0i6j55j1PGM7P7uTVSnSCP) | 3:00 |
+| 2 | [Cimetière](https://open.spotify.com/track/5GI7dE5w4CfxctSk3ZzA67) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT) | [Cimetière](https://open.spotify.com/album/0Rdbgv3BNJjNV4iE101yhc) | 3:33 |
 | 3 | [Marathon](https://open.spotify.com/track/1YBzcUoJZthEfBvamvR7Y6) | [Burgundy](https://open.spotify.com/artist/6hkp7FR5xaFjMpMBxHWbpX) | [Marathon](https://open.spotify.com/album/2OsCTcjrqHmer0jxi2jilj) | 2:28 |
 | 4 | [Sous le soleil](https://open.spotify.com/track/7uxfXz0gY0m2KZwRp4z7WA) | [Laura Schembri](https://open.spotify.com/artist/6zgpQxL63HGaItTxfFIUk8) | [Tout inclus](https://open.spotify.com/album/6XOHod94zYseoz2VdBeQE8) | 3:36 |
 | 5 | [Ensemble](https://open.spotify.com/track/43VyeXCEmE2Kq9eggkMkLq) | [lobono](https://open.spotify.com/artist/5QyGe7NL0efnOCe92depss), [ok cam](https://open.spotify.com/artist/5qWkMP3Hp4sGnRI0AgWOlt) | [Ensemble](https://open.spotify.com/album/1yBiEvBYyelygquVueOi02) | 3:15 |
 | 6 | [Dizzy](https://open.spotify.com/track/3ii39q3PlsdGcL2QAxc2pe) | [Edward Rogers](https://open.spotify.com/artist/45nWsdrg5SQJevmlzfCuo1) | [Dizzy](https://open.spotify.com/album/0dD2rA5I3QnNxbzxmnHNe7) | 3:03 |
 | 7 | [Si j'avais un clou](https://open.spotify.com/track/5Q5sQJpdEJpD5oXLJkAwAm) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Si j'avais un clou](https://open.spotify.com/album/5Ta4hSDVG7dcLf2PSCFTpl) | 3:49 |
-| 8 | [Cimetière](https://open.spotify.com/track/5GI7dE5w4CfxctSk3ZzA67) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT) | [Cimetière](https://open.spotify.com/album/0Rdbgv3BNJjNV4iE101yhc) | 3:33 |
-| 9 | [Cloudless Sky Of None](https://open.spotify.com/track/1TGT9DVmsPxmNpUpGyf90y) | [Korovo](https://open.spotify.com/artist/4sfnIK0CpZEovyUqHX3hE2) | [Cloudless Sky Of None](https://open.spotify.com/album/32ZEv6QQSFtC5NRAve0kFU) | 3:26 |
+| 8 | [Cloudless Sky Of None](https://open.spotify.com/track/1TGT9DVmsPxmNpUpGyf90y) | [Korovo](https://open.spotify.com/artist/4sfnIK0CpZEovyUqHX3hE2) | [Cloudless Sky Of None](https://open.spotify.com/album/32ZEv6QQSFtC5NRAve0kFU) | 3:26 |
+| 9 | [Fais comme si](https://open.spotify.com/track/3raXlp55TvRY4oZGcGfJwY) | [Beaux Léon](https://open.spotify.com/artist/18L8wzQmX9vmU7wxW2Bpde) | [Fais comme si](https://open.spotify.com/album/0i6j55j1PGM7P7uTVSnSCP) | 3:00 |
 | 10 | [Viva la vida Aviva](https://open.spotify.com/track/09CYb1GdcPM2smNePTiLyC) | [fangs](https://open.spotify.com/artist/4hMzLL80aF5I6obBe0FXKW) | [Viva la vida Aviva](https://open.spotify.com/album/2qgynq21DyiBaIqrTK9YRd) | 2:11 |
 | 11 | [Ne me fais pas mal](https://open.spotify.com/track/5vMfDo2q3Pl8e4qgczvrzm) | [Édouard Tremblay\-Grenier](https://open.spotify.com/artist/6renDkf9cZYkI2TX5SKD4X) | [François Roberge](https://open.spotify.com/album/6sVp4J3N1Ws0Mouj5ksdAp) | 2:57 |
 | 12 | [Tout ce qui dépasse](https://open.spotify.com/track/00JSNlp8wt9AuBEUDr7vZG) | [Colin Léo](https://open.spotify.com/artist/0hS3bXypocs7LRHRlXQyOC) | [Tout ce qui dépasse](https://open.spotify.com/album/4igk7A8WGArsPJYnM0lHUc) | 2:50 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 71 | [White Wine](https://open.spotify.com/track/4ysRlTFRuc1UUMPme4VdBa) | [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI) | [Hopeless Dreams](https://open.spotify.com/album/088yo1cqpkG6fO9ouTQ9R2) | 2:33 |
 | 72 | [Ya sé ya sé](https://open.spotify.com/track/35nSQRBBDMhSm0m6alg068) | [Gabriella Olivo](https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO) | [Ya sé ya sé](https://open.spotify.com/album/1jrV8hSISzYtwjugMPGDVe) | 3:43 |
 
-Snapshot ID: `AAAAAInxhgr9FK9J1lVfWFFFLAeP1oU3`
+Snapshot ID: `AAAAAHp4ur3j0ZzqB33GgIRrrxfeF4Sh`

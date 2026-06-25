@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 
 > 
 
-[CerVon Campbell](https://open.spotify.com/user/1275620579) - 523 likes - 246 songs - 12 hr 47 min
+[CerVon Campbell](https://open.spotify.com/user/1275620579) - 523 likes - 251 songs - 13 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -254,5 +254,10 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 | 244 | [Mi Mundo Sin Ti](https://open.spotify.com/track/7iYYjbHEyidencpPySu4Os) | [Jorge Trez](https://open.spotify.com/artist/1QblYNIinirun9slUCO1Gq) | [Mi Mundo Sin Ti](https://open.spotify.com/album/0Yjwg2KmcX9bJpjn7kp0Lf) | 2:16 |
 | 245 | [Blue Light Special](https://open.spotify.com/track/6HRVlFltzuLK7rKBFhKVIA) | [CallMeWhoElse](https://open.spotify.com/artist/3sLFnlQ8XFsPNqZ2ly2cCo), [TeaYaMay](https://open.spotify.com/artist/3S2YNukhEwW4WgEGMu16Q5) | [Blue Light Special](https://open.spotify.com/album/0hUunqwS7iLOvOXirxsH8E) | 2:10 |
 | 246 | [Believe in Me](https://open.spotify.com/track/3PW9C68cjN0FZVMsBjuYYy) | [TriniPrince](https://open.spotify.com/artist/6WPYob9LKVO2vFN2ZCZkZl) | [Believe in Me](https://open.spotify.com/album/40CUhO4l1bIl6sLoVgmHmb) | 1:52 |
+| 247 | [Footsteps In The Snow](https://open.spotify.com/track/4rEIvYWAoxaJMQtn2Vxh22) | [TRUE VIOLENCE](https://open.spotify.com/artist/4Nd2abwG3lQaZFAOJkrKc5), [Semzo](https://open.spotify.com/artist/6B5ZIMPRas4DEOC5j9mGii) | [TRUE VIOLENCE II](https://open.spotify.com/album/675EWaERbVUkX532tpDywe) | 7:00 |
+| 248 | [Never Had](https://open.spotify.com/track/45EKsEATCU3KLdyitu8bjm) | [Charlie Sly](https://open.spotify.com/artist/4qvTP5uRYPsE9qHJHgDrKr) | [The Waiter](https://open.spotify.com/album/4fVJZw78OQ25XSYahysgzv) | 4:18 |
+| 249 | [Assassinatus Ruber](https://open.spotify.com/track/4E2MuFuLMGWTpvN3SkRwar) | [Ilay Sonoro](https://open.spotify.com/artist/3RZz4uk2brWykLANiPv4Bv) | [Assassinatus Ruber](https://open.spotify.com/album/6rbJISzJPnWbZSp8lcY5rF) | 4:39 |
+| 250 | [OSAKA GHOST](https://open.spotify.com/track/0tceQ475Sk4ZIkIqnLoJP7) | [Astro Wagon](https://open.spotify.com/artist/3GxYu9iRj6AMeIrydORMTI), [Jon Voyage](https://open.spotify.com/artist/1kJFnDZoyYXmMU7DIMktWN) | [OSAKA GHOST](https://open.spotify.com/album/2acZVzl7GZlIw1sbbTcAIC) | 2:25 |
+| 251 | [Fire](https://open.spotify.com/track/6s9qYXqxPCV2x2EJglACvd) | [The Steel](https://open.spotify.com/artist/0o8mtfGFaxEYBF5TtoVOGY) | [The Steel II](https://open.spotify.com/album/5CelAdbDkCINozP22sFgEd) | 4:04 |
 
-Snapshot ID: `AAAV/A2amk3JG1l9eq9KkgXfY7P2lsH7`
+Snapshot ID: `AAAWAZLjeqd9YINw9pm2EK8XY0nVXed/`

@@ -10499,6 +10499,24 @@
     },
     {
       "album": {
+        "name": "Lehmitytt\u00f6",
+        "url": "https://open.spotify.com/album/09GBZbGAUDnoMvUcdrI4fw"
+      },
+      "artists": [
+        {
+          "name": "Katariina Juselius",
+          "url": "https://open.spotify.com/artist/075DeS26KHmrP8bteg75Om"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195564,
+      "name": "Lehmitytt\u00f6",
+      "url": "https://open.spotify.com/track/1TAKLDnzz9IdQFLu7sozWO"
+    },
+    {
+      "album": {
         "name": "Leijonanruokaa",
         "url": "https://open.spotify.com/album/3pbw8Ifw6yayhXGLnc1pWj"
       },
@@ -16284,7 +16302,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 242640,
       "name": "Rakastan teit\u00e4 kaikkia",
       "url": "https://open.spotify.com/track/6HVdu7bH9m4IYcxnEY8Htk"

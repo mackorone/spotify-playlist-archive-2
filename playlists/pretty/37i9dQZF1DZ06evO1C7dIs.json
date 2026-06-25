@@ -1,12 +1,12 @@
 {
   "description": "This is Nightwish. The essential tracks, all in one playlist.",
-  "num_followers": 265431,
+  "num_followers": 265442,
   "original_name": "This Is Nightwish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajh7AAAAAAD03zxDQu+EX8xmbMtTVQq5",
+  "snapshot_id": "ajnMgAAAAAAm8mhVhIDdrlGEuuFH1Lx4",
   "tracks": [
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bye Bye Beautiful",
+        "url": "https://open.spotify.com/album/4qomktB4Z9mQVPm42eEYwd"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 301853,
+      "name": "Escapist",
+      "url": "https://open.spotify.com/track/66X2i4bMFJB9zGgff9gyzq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dark Passion Play",
         "url": "https://open.spotify.com/album/33knvUBRR5ekNBrtLqQVTD"
       },
@@ -539,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bye Bye Beautiful",
-        "url": "https://open.spotify.com/album/4qomktB4Z9mQVPm42eEYwd"
+        "name": "Wish I Had an Angel",
+        "url": "https://open.spotify.com/album/2l0KYO3zjZtfFzls7rSPA7"
       },
       "artists": [
         {
@@ -548,9 +564,9 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 301853,
-      "name": "Escapist",
-      "url": "https://open.spotify.com/track/66X2i4bMFJB9zGgff9gyzq"
+      "duration_ms": 232813,
+      "name": "Where Were You Last Night",
+      "url": "https://open.spotify.com/track/1BZ2yeGFtYN0Sk5yrgvMdk"
     },
     {
       "added_at": null,
@@ -583,22 +599,6 @@
       "duration_ms": 259733,
       "name": "Dead To The World",
       "url": "https://open.spotify.com/track/3lY7foOrKVtDoYKUJXmkML"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wish I Had an Angel",
-        "url": "https://open.spotify.com/album/2l0KYO3zjZtfFzls7rSPA7"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 232813,
-      "name": "Where Were You Last Night",
-      "url": "https://open.spotify.com/track/1BZ2yeGFtYN0Sk5yrgvMdk"
     },
     {
       "added_at": null,

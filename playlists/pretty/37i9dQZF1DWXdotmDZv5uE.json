@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Ay Jalisco no te rajes! As\u00ed suena la Perla de Occidente.",
-  "num_followers": 132891,
+  "num_followers": 132885,
   "original_name": "Coraz\u00f3n Tapat\u00edo",
   "owner": {
     "name": "Spotify",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-06-08 22:39:48",
       "album": {
-        "name": "La Dosis",
-        "url": "https://open.spotify.com/album/1w7s38LGudL6tMQ5cJURlQ"
-      },
-      "artists": [
-        {
-          "name": "La Dosis",
-          "url": "https://open.spotify.com/artist/4sGkNo2iD0Mr963lqnTil7"
-        }
-      ],
-      "duration_ms": 204933,
-      "name": "Super 8",
-      "url": "https://open.spotify.com/track/1ppE503LdYpkr1BMqBeMJV"
-    },
-    {
-      "added_at": "2026-06-08 22:39:48",
-      "album": {
         "name": "Nos Cre\u00edan Mudos",
         "url": "https://open.spotify.com/album/0oy28xG9Bsm4k75Q2qreih"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 216440,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/0BqcQNtGQyGEkTyT3f531Q"
+    },
+    {
+      "added_at": "2026-06-08 22:39:48",
+      "album": {
+        "name": "La Dosis",
+        "url": "https://open.spotify.com/album/1w7s38LGudL6tMQ5cJURlQ"
+      },
+      "artists": [
+        {
+          "name": "La Dosis",
+          "url": "https://open.spotify.com/artist/4sGkNo2iD0Mr963lqnTil7"
+        }
+      ],
+      "duration_ms": 204933,
+      "name": "Super 8",
+      "url": "https://open.spotify.com/track/1ppE503LdYpkr1BMqBeMJV"
     },
     {
       "added_at": "2026-06-08 22:39:48",

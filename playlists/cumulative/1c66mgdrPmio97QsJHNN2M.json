@@ -4903,6 +4903,24 @@
     },
     {
       "album": {
+        "name": "Bring Back the Feeling",
+        "url": "https://open.spotify.com/album/4HKCUdRntwilj1Up7Iagn9"
+      },
+      "artists": [
+        {
+          "name": "Maxwell LeVan",
+          "url": "https://open.spotify.com/artist/6BAItgRso9SUbIyIpjcdm1"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178909,
+      "name": "Bring Back the Feeling",
+      "url": "https://open.spotify.com/track/09mfLrHrJZlJrzcogIIVCY"
+    },
+    {
+      "album": {
         "name": "Broke - Instrumental",
         "url": "https://open.spotify.com/album/3MCAOHFZli7bcLOyRRhbTR"
       },
@@ -7528,7 +7546,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 179710,
       "name": "Dance Wit Me",
       "url": "https://open.spotify.com/track/79DU8FIMzHGaii1TxbkK0W"
@@ -10628,7 +10646,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 307415,
       "name": "Eurobear Lisbon",
       "url": "https://open.spotify.com/track/6ClpZ2w9khUkoQga930BME"
@@ -26794,7 +26812,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 121714,
       "name": "Pandora's Box",
       "url": "https://open.spotify.com/track/40KUTnz7el3gWD3fkZWXbf"
@@ -26974,7 +26992,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 177190,
       "name": "Pardon My French",
       "url": "https://open.spotify.com/track/2DCQbWFEmKvCe4Bt02Bz7o"
@@ -37512,7 +37530,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 167007,
       "name": "track 3 of space dog",
       "url": "https://open.spotify.com/track/2wLf5G4B79y2zHx21WYd0a"
@@ -38740,6 +38758,24 @@
       "duration_ms": 141519,
       "name": "VOID IN MY SOUL",
       "url": "https://open.spotify.com/track/02SgYwvrfPnGtmxDStCg0y"
+    },
+    {
+      "album": {
+        "name": "The Lady Vanishes",
+        "url": "https://open.spotify.com/album/4uUDLTuH6SJ3wne0CHk3iy"
+      },
+      "artists": [
+        {
+          "name": "Jay Moussa-Mann",
+          "url": "https://open.spotify.com/artist/2aSlAzC15sb0NojtkwfsYz"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168428,
+      "name": "Volleyball Girl",
+      "url": "https://open.spotify.com/track/08EmyhL6y0XfybVe0makFk"
     },
     {
       "album": {
@@ -40962,7 +40998,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 173674,
       "name": "Would've Known",
       "url": "https://open.spotify.com/track/4MXoLatVNwwpYhscXKxPmI"

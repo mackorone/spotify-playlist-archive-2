@@ -9340,7 +9340,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 174227,
       "name": "DARBEDA",
       "url": "https://open.spotify.com/track/0ZjqXH9bjK0N9lnmDz0c6d"
@@ -11144,6 +11144,24 @@
       "duration_ms": 182400,
       "name": "Douwi Douwi",
       "url": "https://open.spotify.com/track/7wFJmDfeb7CtN8xAr4ftSV"
+    },
+    {
+      "album": {
+        "name": "Doza",
+        "url": "https://open.spotify.com/album/6IaP90vGsJwS7SPW8hXiW9"
+      },
+      "artists": [
+        {
+          "name": "Pause",
+          "url": "https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165355,
+      "name": "Doza",
+      "url": "https://open.spotify.com/track/4kCbi2FCTEQCrwNCD0zzFU"
     },
     {
       "album": {
@@ -32444,7 +32462,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-21",
+      "date_removed": null,
       "duration_ms": 161666,
       "name": "Sahran lil",
       "url": "https://open.spotify.com/track/1wNH5iIDfcbXdG97m5Uf0H"
@@ -37742,7 +37760,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 147761,
       "name": "Tsswirtek",
       "url": "https://open.spotify.com/track/4vmI7UiGUCtavyYHDno3QL"
@@ -41106,7 +41124,7 @@
       },
       "artists": [
         {
-          "name": "Lazaro",
+          "name": "LAZARO",
           "url": "https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx"
         }
       ],

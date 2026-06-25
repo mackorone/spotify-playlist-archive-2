@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Gogohawk\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,361 songs - 3 day 10 hr 25 min
+1,362 songs - 3 day 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -652,7 +652,7 @@
 | [Light \(Feat\. Junguk\)](https://open.spotify.com/track/77SWtlPS2Y4ijijx4Ucgbp) | [minzunki](https://open.spotify.com/artist/6gj5VZHLST9DF4D5LTek65), [Junguk](https://open.spotify.com/artist/0r0UiX83K8j121ilLGAX8k) | [Light \(Feat\. Junguk\)](https://open.spotify.com/album/5QqP080KIO26a5XvDNX2F5) | 3:49 | 2024-04-30 | 2024-05-10 |
 | [Lighthouse](https://open.spotify.com/track/6NE7hAW6UFEJWhv2hP6z8X) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Calibrate](https://open.spotify.com/album/0U8Tdmu885TydIA7hdlZ0y) | 3:45 | 2021-12-21 | 2025-08-27 |
 | [Like A Bird](https://open.spotify.com/track/6gFIpK79s3aMiJM2riCNw5) | [Kim Hyo Rin](https://open.spotify.com/artist/5utWINxnF6V3qB60hLMZTp) | [Like A Bird](https://open.spotify.com/album/6cQzqYWaTGg6VLbb435eNg) | 3:00 | 2025-01-15 | 2025-03-15 |
-| [Like a Bird, Like a Fish](https://open.spotify.com/track/4xpfEYzoPiUC5nO5swt9bk) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc) | [Like a Bird, Like a Fish](https://open.spotify.com/album/2LSXBO9G6hE7ZYrnOCATX7) | 3:36 | 2026-04-07 |  |
+| [Like a Bird, Like a Fish](https://open.spotify.com/track/4xpfEYzoPiUC5nO5swt9bk) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc) | [Like a Bird, Like a Fish](https://open.spotify.com/album/2LSXBO9G6hE7ZYrnOCATX7) | 3:36 | 2026-04-07 | 2026-06-25 |
 | [Like me, Love me, and](https://open.spotify.com/track/6nTdhFncoiNoJ0eCSoI3s1) | [DADADA](https://open.spotify.com/artist/2QJ3Y9xgZFulkgbDnteypu) | [Love me please](https://open.spotify.com/album/4SYPc5CQpm9ER2mzBNGYsi) | 3:52 | 2025-12-04 | 2026-01-27 |
 | [Like my groove](https://open.spotify.com/track/2LpUmnpyrdsrGwjxFkUBVp) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx), [the orchard](https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI) | [Like my groove](https://open.spotify.com/album/7kcDdPNGDvR88xrU41QWlz) | 3:07 | 2022-08-18 | 2022-09-06 |
 | [Like the Sea, Like the River](https://open.spotify.com/track/4qZvldWN1IT5Y2rZ2QYbJX) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [Like the Sea, Like the River](https://open.spotify.com/album/0nbyji1ac3ZqZ3aDFDirod) | 4:09 | 2025-11-19 | 2026-01-19 |
@@ -673,6 +673,7 @@
 | [Lost in the City](https://open.spotify.com/track/5tZFCjvVbOuEKkeOi6GWZd) | [Ashmute](https://open.spotify.com/artist/7EYwKfQY1bAfLr2EUPOL0h) | [Lost in the City](https://open.spotify.com/album/4cN9wky9XIVZqrAKTASmTe) | 3:23 | 2022-09-05 | 2022-09-21 |
 | [lost the love \(with\. KIM SU IN\)](https://open.spotify.com/track/73Y8wOmucnTu0lUgfR57xU) | [Chosunblues](https://open.spotify.com/artist/6mKicVKyt6CPmrvbGkge4G), [KIM SU IN](https://open.spotify.com/artist/1eD6xraivpnXUOr4eX9Rhj) | [lost the love](https://open.spotify.com/album/7tARiULOzmBxyYehOg0b6U) | 5:48 | 2023-09-26 | 2024-05-10 |
 | [Lotus](https://open.spotify.com/track/5o4b92ELtQ33pKyCyrtTaE) | [Noa Coast](https://open.spotify.com/artist/0XTepDq5q7tQj6Xg7UPWys) | [Lotus](https://open.spotify.com/album/0Vf2Lxm3zQ0EEDUZAh1lY8) | 3:50 | 2025-08-01 | 2025-09-06 |
+| [LOVE \- “Damons year” Remix](https://open.spotify.com/track/6oc2oKvVbLkWp1U5c9tNIq) | [Lia Ouyang Rusli](https://open.spotify.com/artist/3yI0A9p0FOE8UFHuz4CUto), [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [Reminded of HAPPYEND](https://open.spotify.com/album/1wkWf7aTxTn0JS7R8Mqmg7) | 2:33 | 2026-06-24 |  |
 | [love and hatred](https://open.spotify.com/track/6RIhYubAexXYmq2LGqAGIa) | [OhYoon](https://open.spotify.com/artist/3E3GZJRleQR8QkRaFciIqV) | [love and hatred](https://open.spotify.com/album/6yEmEdDzRy3kUGOcIz6qzG) | 2:50 | 2024-11-06 | 2025-01-23 |
 | [Love Highway](https://open.spotify.com/track/6Es5m3mqOjmEgD0gBWXM8d) | [Blue Smile](https://open.spotify.com/artist/5rQwjCpFxybGzLiIBMGsXv) | [Love Highway](https://open.spotify.com/album/1XHWY0HUxW2T6RwbOyco2c) | 4:16 | 2026-01-14 | 2026-02-13 |
 | [love in balcony](https://open.spotify.com/track/7BrlpynTrdHToVYs4uJSre) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [COLOR PAPER HOTEL](https://open.spotify.com/album/4oqDAgsdYAQGaZu6QtmHsQ) | 3:50 | 2023-02-01 | 2023-03-01 |

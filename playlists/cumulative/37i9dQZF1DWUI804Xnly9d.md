@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-643 songs - 1 day 11 hr 58 min
+644 songs - 1 day 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,7 +410,7 @@
 | [Nami Danam](https://open.spotify.com/track/21zVuAAjqefWyA27NWZTiY) | [Aditya Kambhampati](https://open.spotify.com/artist/00dVKOZFv0XpCJCunfFWEE) | [Nami Danam](https://open.spotify.com/album/1bVfwBHWZ7XEYBO4oottGQ) | 4:51 | 2023-07-19 | 2023-08-03 |
 | [Naraziyaan](https://open.spotify.com/track/5VReUwAENOtHpdgbn49JdX) | [Gursheet Khanuja](https://open.spotify.com/artist/6cGG5aDa7RjUOWbqMVlh66), [Geetesh Yadav](https://open.spotify.com/artist/2LPKu6MxNC5SRxeiHqRMrm) | [Naraziyaan](https://open.spotify.com/album/77uXObF1PN1q4HW7i1HoNJ) | 3:38 | 2024-12-04 |  |
 | [Naya Jahaan \- Stripped](https://open.spotify.com/track/3OUmQlsuMxUxcapjTotHMB) | [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04) | [Naya Jahaan \- Stripped](https://open.spotify.com/album/6V61uR9ixr8BOxYo84Xso3) | 2:15 | 2023-08-30 | 2024-02-21 |
-| [Nazar](https://open.spotify.com/track/2AVEL5vPdG3RaakqiVCzoA) | [Kshitij Vishwakarma](https://open.spotify.com/artist/7qV0MH8s4k7iDMuYVQzGvi) | [Nazar](https://open.spotify.com/album/2w990tnpsf7MGjZJBK0t6f) | 3:40 | 2025-02-14 |  |
+| [Nazar](https://open.spotify.com/track/2AVEL5vPdG3RaakqiVCzoA) | [Kshitij Vishwakarma](https://open.spotify.com/artist/7qV0MH8s4k7iDMuYVQzGvi) | [Nazar](https://open.spotify.com/album/2w990tnpsf7MGjZJBK0t6f) | 3:40 | 2025-02-14 | 2026-06-25 |
 | [Nazar](https://open.spotify.com/track/79nB5wBVW8GtqaTdrnWwsS) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Nazar](https://open.spotify.com/album/5mbnll7Q0EZcSC88Cvutut) | 4:08 | 2025-04-11 |  |
 | [Nindiya](https://open.spotify.com/track/5j4XfQQaOtP6VZpo5wMPPP) | [Komorebi](https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS) | [Nindiya](https://open.spotify.com/album/0G0naNmj8UQzJFTQWXlwOZ) | 3:40 | 2023-11-10 | 2024-02-06 |
 | [Nindiya](https://open.spotify.com/track/6Zr12i0fWk3HvhDH3NS2jn) | [Kunal Kemmu](https://open.spotify.com/artist/0YHAEByvvpuptet6AuZaTz) | [Nindiya](https://open.spotify.com/album/5YuGJTZ2KkATuFPkcOg951) | 2:43 | 2026-05-07 |  |
@@ -435,6 +435,7 @@
 | [Parindey](https://open.spotify.com/track/1hB2v1jDsLe9ApvDYJ0twe) | [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Parindey](https://open.spotify.com/album/2gMzRhTnjzT8VD5Qy5Ao0q) | 3:01 | 2023-05-17 | 2023-08-29 |
 | [Pariyon Ki Duniya](https://open.spotify.com/track/4PnZwswnElBV5JemrOnSuM) | [Joy Sengupta](https://open.spotify.com/artist/2w5FAQc2JWciNPGhsTBf4B), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Pinky Poonawala](https://open.spotify.com/artist/4DhyWRZAivYeuXMNmijjEY), [Nastya Saraswati](https://open.spotify.com/artist/0jtyiGiZtoSVHLgK4Qxz3Q) | [Pariyon Ki Duniya](https://open.spotify.com/album/7MUReK6TwvioU10WVkZLiZ) | 3:01 | 2024-05-17 | 2024-09-06 |
 | [Paro](https://open.spotify.com/track/6nRGPf5tpeJtKpXZO5cgIT) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D), [UNPLG'd](https://open.spotify.com/artist/3gKTtA1BK4pq1IIHXAyvgO) | [Paro](https://open.spotify.com/album/1pnmSGbSYY19bPwUJ4XJOl) | 1:10 | 2025-04-02 |  |
+| [Paro \- 2am Version](https://open.spotify.com/track/5mfiLyAEx8OKwb9L7LY27T) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Paro \(2am version\)](https://open.spotify.com/album/4H6MYuBqTjDI026g3FftS4) | 1:28 | 2026-06-24 |  |
 | [Parwaah](https://open.spotify.com/track/5CeWyGt9oMtsBBOLtYRTl5) | [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK) | [Parwaah](https://open.spotify.com/album/0bxsenYWUkYi3nEDuPefhd) | 4:22 | 2023-05-17 | 2023-06-24 |
 | [Parwaaz](https://open.spotify.com/track/4ZKNx6PVTkX5zUtPUHX2tW) | [The Western Ghats](https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv) | [Parwaaz](https://open.spotify.com/album/10SbTpq2BTnqjnkbhkUDL8) | 4:11 | 2024-02-09 | 2024-03-12 |
 | [Patang](https://open.spotify.com/track/6RD9dthWpHuwQj1CDENCZD) | [Aditya N.](https://open.spotify.com/artist/4hywkPZjNnWbisCuDpTB5d), [Nayantara Bhatkal](https://open.spotify.com/artist/6tTt2QJN9fk6o0xePqBiIA), [Class](https://open.spotify.com/artist/55QQRSnrc4sTCDqJPLz2w0) | [Class: Season 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3LYcCtX4jQcwUr2q9es85P) | 2:35 | 2023-05-17 | 2023-08-10 |

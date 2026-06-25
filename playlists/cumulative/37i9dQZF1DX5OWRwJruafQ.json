@@ -738,7 +738,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 188387,
       "name": "911",
       "url": "https://open.spotify.com/track/1EPcG4PNwL2YuvNHIKyMo0"
@@ -7161,6 +7161,28 @@
     },
     {
       "album": {
+        "name": "Hook Up",
+        "url": "https://open.spotify.com/album/4EMCcPz5oUmR7eguEZPZrR"
+      },
+      "artists": [
+        {
+          "name": "Iqbal",
+          "url": "https://open.spotify.com/artist/6RWbIF7ghLlX3R3J32QRTp"
+        },
+        {
+          "name": "Jovinbainz",
+          "url": "https://open.spotify.com/artist/5pDsg7wlmFI8ubgEh6rmt4"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242436,
+      "name": "Hook Up",
+      "url": "https://open.spotify.com/track/7KJBm1JIs7BLcqRt4FEMdj"
+    },
+    {
+      "album": {
         "name": "Hor Ni",
         "url": "https://open.spotify.com/album/3g4mySC53WSbYvvf0d69DD"
       },
@@ -9888,6 +9910,28 @@
       "duration_ms": 204000,
       "name": "Love Hurts",
       "url": "https://open.spotify.com/track/3iyxOE7ZrxMCVMNzFkWtZY"
+    },
+    {
+      "album": {
+        "name": "Low Fade",
+        "url": "https://open.spotify.com/album/4OMBxFEkBo4MHCTTRP90Jf"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Mxrci",
+          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175772,
+      "name": "Low Fade",
+      "url": "https://open.spotify.com/track/4CZl2BQkGPIFK99cf6jTAz"
     },
     {
       "album": {
@@ -15948,7 +15992,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 178456,
       "name": "TOP SPOT",
       "url": "https://open.spotify.com/track/1LcpgltaeOuzZJwmhmfZr7"

@@ -4691,6 +4691,24 @@
     },
     {
       "album": {
+        "name": "What Remains",
+        "url": "https://open.spotify.com/album/6n6yJgKlDj3QKNvuGshOo7"
+      },
+      "artists": [
+        {
+          "name": "RABBiTHOLE",
+          "url": "https://open.spotify.com/artist/5c9jIapeSPaUgi0M1iB6Mi"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229885,
+      "name": "What Remains",
+      "url": "https://open.spotify.com/track/4oMM9SF5TYscNNN8KHoslX"
+    },
+    {
+      "album": {
         "name": "What's Wrong With You?",
         "url": "https://open.spotify.com/album/493LfPZPFGetvhsX9xH3KK"
       },

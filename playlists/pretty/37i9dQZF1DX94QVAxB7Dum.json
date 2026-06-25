@@ -1,6 +1,6 @@
 {
   "description": "Music from the award-winning doc: The Black Power Mixtape 1967\u20131975.",
-  "num_followers": 826036,
+  "num_followers": 826100,
   "original_name": "The Black Power Mixtape 1967\u20131975",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-07-02 22:47:47",
       "album": {
+        "name": "The Very Best Of William Bell",
+        "url": "https://open.spotify.com/album/0JyBAA6AYVPsJc2KWj4x3D"
+      },
+      "artists": [
+        {
+          "name": "William Bell",
+          "url": "https://open.spotify.com/artist/33BiBNoSXa7sQ3ef8OLTQO"
+        }
+      ],
+      "duration_ms": 140733,
+      "name": "I Forgot To Be Your Lover",
+      "url": "https://open.spotify.com/track/1yPWD2ZQ8kLPYJtuIWHpa6"
+    },
+    {
+      "added_at": "2024-07-02 22:47:47",
+      "album": {
         "name": "Silver Collection",
         "url": "https://open.spotify.com/album/4HpfxzhcJ8a3zoUvLG0R5R"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 195773,
       "name": "Smiling Faces Sometimes",
       "url": "https://open.spotify.com/track/1ajJsHKxOwsGYpoFGXe1QL"
-    },
-    {
-      "added_at": "2024-07-02 22:47:47",
-      "album": {
-        "name": "The Very Best Of William Bell",
-        "url": "https://open.spotify.com/album/0JyBAA6AYVPsJc2KWj4x3D"
-      },
-      "artists": [
-        {
-          "name": "William Bell",
-          "url": "https://open.spotify.com/artist/33BiBNoSXa7sQ3ef8OLTQO"
-        }
-      ],
-      "duration_ms": 140733,
-      "name": "I Forgot To Be Your Lover",
-      "url": "https://open.spotify.com/track/1yPWD2ZQ8kLPYJtuIWHpa6"
     },
     {
       "added_at": "2024-07-02 22:47:47",

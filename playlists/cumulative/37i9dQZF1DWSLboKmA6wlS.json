@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e17\u0e35\u0e48\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e04\u0e31\u0e14\u0e2a\u0e23\u0e23\u0e42\u0e14\u0e22\u0e1a\u0e23\u0e23\u0e13\u0e32\u0e18\u0e34\u0e01\u0e32\u0e23 Spotify. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: miller. Artwork: Isu Kim",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e17\u0e35\u0e48\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e04\u0e31\u0e14\u0e2a\u0e23\u0e23\u0e42\u0e14\u0e22\u0e1a\u0e23\u0e23\u0e13\u0e32\u0e18\u0e34\u0e01\u0e32\u0e23 Spotify. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: whateve. Artwork: Isu Kim",
   "name": "Fresh Finds Thailand",
   "tracks": [
     {
@@ -2387,6 +2387,24 @@
     },
     {
       "album": {
+        "name": "DON'T KNOW WHY",
+        "url": "https://open.spotify.com/album/4KgNfQeo1IDYuPKem4nlQV"
+      },
+      "artists": [
+        {
+          "name": "QLO",
+          "url": "https://open.spotify.com/artist/21YXTehB0cp31YOL3AxewF"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142916,
+      "name": "DON'T KNOW WHY",
+      "url": "https://open.spotify.com/track/76GBhyMeRPCVu3FzHWKrWN"
+    },
+    {
+      "album": {
         "name": "don't u even cry?",
         "url": "https://open.spotify.com/album/0ZQOYZEcEJGez6HtkMCmXl"
       },
@@ -2702,6 +2720,24 @@
       "duration_ms": 349090,
       "name": "Faded Sea",
       "url": "https://open.spotify.com/track/5a396MJKuZFba9U060Svpl"
+    },
+    {
+      "album": {
+        "name": "Fading Starlight",
+        "url": "https://open.spotify.com/album/0i9bP3bO3JgOQT15VPLuj8"
+      },
+      "artists": [
+        {
+          "name": "Jikkafone",
+          "url": "https://open.spotify.com/artist/298jfKASUYsJU1RT5tdlAp"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "Fading Starlight",
+      "url": "https://open.spotify.com/track/0Yr4EFFlnJOl2kqCNQftvn"
     },
     {
       "album": {
@@ -13493,6 +13529,24 @@
     },
     {
       "album": {
+        "name": "\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27\u0e17\u0e31\u0e49\u0e07\u0e1b\u0e35",
+        "url": "https://open.spotify.com/album/3fIvx7GuncmH33jTTu3is9"
+      },
+      "artists": [
+        {
+          "name": "The Butterfly",
+          "url": "https://open.spotify.com/artist/7F4AVScaSWznAOlBYwEIG1"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27\u0e17\u0e31\u0e49\u0e07\u0e1b\u0e35",
+      "url": "https://open.spotify.com/track/333y4Tfy2z6967kSy6uriI"
+    },
+    {
+      "album": {
         "name": "\u0e04\u0e19\u0e40\u0e2b\u0e47\u0e19\u0e41\u0e01\u0e48\u0e15\u0e31\u0e27 (DOPE)",
         "url": "https://open.spotify.com/album/01Cg3LZd30LVxmkxGZWPLw"
       },
@@ -19106,6 +19160,24 @@
       "duration_ms": 255187,
       "name": "\u0e14\u0e32\u0e27\u0e40\u0e28\u0e23\u0e49\u0e32",
       "url": "https://open.spotify.com/track/6kgyuSbolOmojQJX9IlWxw"
+    },
+    {
+      "album": {
+        "name": "\u0e14\u0e34\u0e48\u0e07 (Deep)",
+        "url": "https://open.spotify.com/album/1zOfH1aSjAKLOSiFLyqoUH"
+      },
+      "artists": [
+        {
+          "name": "Enter The Joy",
+          "url": "https://open.spotify.com/artist/2FA1UgZXy5OoXBB6CNgCQk"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333176,
+      "name": "\u0e14\u0e34\u0e48\u0e07 (Deep)",
+      "url": "https://open.spotify.com/track/20EMMATUtWu4rs6IMOXkfK"
     },
     {
       "album": {
@@ -41420,6 +41492,24 @@
       "duration_ms": 244000,
       "name": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e27\u0e32\u0e19 (If I had Known)",
       "url": "https://open.spotify.com/track/2VPUfsbOeLjkStCVHU297T"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e27\u0e32\u0e19\u0e09\u0e31\u0e19\u0e23\u0e31\u0e01\u0e40\u0e18\u0e2d\u0e19\u0e49\u0e2d\u0e22\u0e01\u0e27\u0e48\u0e32\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49",
+        "url": "https://open.spotify.com/album/6FmtNZfhY3qXIuGMp8h5wb"
+      },
+      "artists": [
+        {
+          "name": "whateve",
+          "url": "https://open.spotify.com/artist/7zjWcziyuEgaHLtUjb0ikG"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e27\u0e32\u0e19\u0e09\u0e31\u0e19\u0e23\u0e31\u0e01\u0e40\u0e18\u0e2d\u0e19\u0e49\u0e2d\u0e22\u0e01\u0e27\u0e48\u0e32\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49",
+      "url": "https://open.spotify.com/track/2ed8adZVrtxPsZiXEnUV2K"
     },
     {
       "album": {

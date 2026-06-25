@@ -2375,6 +2375,24 @@
     },
     {
       "album": {
+        "name": "Painful",
+        "url": "https://open.spotify.com/album/7a4l81UqmFYs13351IyOSc"
+      },
+      "artists": [
+        {
+          "name": "Yo La Tengo",
+          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425466,
+      "name": "Big Day Coming",
+      "url": "https://open.spotify.com/track/0azh8Cxn6sUDdyXDBE9qUk"
+    },
+    {
+      "album": {
         "name": "Changephobia",
         "url": "https://open.spotify.com/album/7v5Vuz4HyHldAgTG9NpcFY"
       },

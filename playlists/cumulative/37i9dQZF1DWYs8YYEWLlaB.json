@@ -16,7 +16,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 119172,
       "name": "#i\u015fbirli\u011fi",
       "url": "https://open.spotify.com/track/7pY0EgXq4SAl0dHjtkxdUe"
@@ -143,6 +143,24 @@
     },
     {
       "album": {
+        "name": "Ak\u015fam\u00fcst\u00fc",
+        "url": "https://open.spotify.com/album/1d5ajC5UEApJAtlA8zKZ2h"
+      },
+      "artists": [
+        {
+          "name": "Yal\u0131n",
+          "url": "https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Ak\u015fam\u00fcst\u00fc",
+      "url": "https://open.spotify.com/track/2DuqHDhcgQJ4Rz8noWFsgR"
+    },
+    {
+      "album": {
         "name": "Aldan\u0131r\u0131m",
         "url": "https://open.spotify.com/album/1nQJBqp4xqBPEv5MU2qxHt"
       },
@@ -238,7 +256,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 141923,
       "name": "ANKARA TATANGALAR",
       "url": "https://open.spotify.com/track/4MkndNZKOkfiasYF06RiWx"
@@ -1465,7 +1483,7 @@
       "artists": [
         {
           "name": "Motive",
-          "url": "https://open.spotify.com/artist/5LjOSVqRWRs1eL2OY297Jg"
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
         }
       ],
       "date_added": "2026-05-25",
@@ -1734,7 +1752,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 143265,
       "name": "Ewa Safi",
       "url": "https://open.spotify.com/track/3PZ5mxb19denUmoHHpMipx"
@@ -2313,6 +2331,24 @@
     },
     {
       "album": {
+        "name": "HAYRAN",
+        "url": "https://open.spotify.com/album/1yGkCrgghH7UJgMalYTSka"
+      },
+      "artists": [
+        {
+          "name": "Radikal",
+          "url": "https://open.spotify.com/artist/16CDaDlBd2bji8I4Ck1iuV"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163347,
+      "name": "HAYRAN",
+      "url": "https://open.spotify.com/track/6D4UduWC97tRdqQlaal2EI"
+    },
+    {
+      "album": {
         "name": "Pi\u015fman",
         "url": "https://open.spotify.com/album/2d36jqTxkiuvdoHCBefUNg"
       },
@@ -2368,6 +2404,32 @@
       "duration_ms": 202431,
       "name": "Hileli",
       "url": "https://open.spotify.com/track/4eBE6hpwm7aJxIY4iwgwU8"
+    },
+    {
+      "album": {
+        "name": "hola hola",
+        "url": "https://open.spotify.com/album/2YGeHMEaSs4cHZdds4HZot"
+      },
+      "artists": [
+        {
+          "name": "ASLAR",
+          "url": "https://open.spotify.com/artist/2sQAXdjNpwvs57LUxYzFdA"
+        },
+        {
+          "name": "Lessio",
+          "url": "https://open.spotify.com/artist/7sD4ByMNKsrb4dDBmZxam1"
+        },
+        {
+          "name": "Astral",
+          "url": "https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139350,
+      "name": "hola hola",
+      "url": "https://open.spotify.com/track/4va2AJCPRNFuCSm8RaPmVL"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Calming music accompanied by the waves of the ocean\. Breathe with the ebb and flow of the sea.
 
-231 songs - 11 hr 2 min
+232 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Mindful Swell](https://open.spotify.com/track/4IdY42vTEo4xF4cWMErT9W) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Mindful Swell](https://open.spotify.com/album/6zmEZNa4jxDxm0ZKLbEEAP) | 2:16 | 2024-06-03 | 2024-08-13 |
 | [Montée](https://open.spotify.com/track/1Y9yrclEspGQA0G6iDDYQ2) | [Le Coralie](https://open.spotify.com/artist/7svB5Mw6IP6Io3r7dEQi20) | [Montée](https://open.spotify.com/album/6IIm5oHifAaIaXUnqpPkeA) | 2:50 | 2025-10-02 | 2026-03-13 |
 | [Moonlight Dolphin](https://open.spotify.com/track/5axYEK74QBwkyAdQjNd5DT) | [Nature Rehab](https://open.spotify.com/artist/1xzruyrjhInryEzjKlmzMG) | [Moonlight Dolphin](https://open.spotify.com/album/3YN2cBhWqzcQfFP5nZaJwx) | 3:44 | 2025-04-01 |  |
-| [Moonlit River](https://open.spotify.com/track/77C0BJ02fJKdp5YGGzwgzY) | [Sol Reya](https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8) | [Moonlit River](https://open.spotify.com/album/3ccZR5HufZ2RAiuBY5uyr5) | 2:27 | 2026-02-27 |  |
+| [Moonlit River](https://open.spotify.com/track/77C0BJ02fJKdp5YGGzwgzY) | [Sol Reya](https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8) | [Moonlit River](https://open.spotify.com/album/3ccZR5HufZ2RAiuBY5uyr5) | 2:27 | 2026-02-27 | 2026-06-25 |
 | [Morning Waves](https://open.spotify.com/track/1rECiVNfP8569A717vmLe1) | [Altum Somnum](https://open.spotify.com/artist/5W2BQPTLV5i34uvAtUs935) | [Morning Waves](https://open.spotify.com/album/7BkE4jqDYkveB43oDU4ULT) | 2:52 | 2024-03-20 | 2025-10-21 |
 | [Newfoundland](https://open.spotify.com/track/2jAXw7YVGD2r6nzQwJLgsY) | [Miyklo](https://open.spotify.com/artist/2X3Invt8lYGm7czZvFUPCj) | [Newfoundland](https://open.spotify.com/album/502h7NzW2A12rSKLIvA6JJ) | 2:28 | 2025-12-17 |  |
 | [Night Skies](https://open.spotify.com/track/1nERsyf5ID8i9SlopTV9FC) | [Ilya Reed](https://open.spotify.com/artist/29BrAyE0k3F02euWo4LpBM) | [Night Skies](https://open.spotify.com/album/4QkLYljbujJ9WyPwMxDAlx) | 2:50 | 2026-02-27 | 2026-05-30 |
@@ -144,7 +144,7 @@
 | [Ocean Birds](https://open.spotify.com/track/2WxsSHPMb206URoGTNwAOQ) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Ocean Birds](https://open.spotify.com/album/5Yyy0uhrkeLfkWXt0kzETm) | 3:08 | 2024-03-01 | 2025-04-02 |
 | [Ocean Dive](https://open.spotify.com/track/2r4NivF3SETTKXKvhp1mYm) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Ocean Dive](https://open.spotify.com/album/5Ck9ina89LcfFVMej8G4ti) | 3:33 | 2025-02-18 |  |
 | [Ocean Dreaming](https://open.spotify.com/track/5N4BF0Id1qiEiMGuCaaqg6) | [Semaphore](https://open.spotify.com/artist/6DrUO7tFv2WDlPuibMoNcV) | [Ocean Dreaming](https://open.spotify.com/album/37kg8PQ3t5MY09QWHPRCU8) | 2:51 | 2024-02-06 | 2025-01-16 |
-| [Ocean Healing](https://open.spotify.com/track/49nZSk6EBugEBSfNQlkr0y) | [Fourth Eye](https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY) | [Ocean Healing](https://open.spotify.com/album/28gd2fvoaM7XH1fJEBCnEM) | 3:32 | 2024-03-01 | 2026-03-21 |
+| [Ocean Healing](https://open.spotify.com/track/49nZSk6EBugEBSfNQlkr0y) | [Fourth Eye](https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY) | [Ocean Healing](https://open.spotify.com/album/28gd2fvoaM7XH1fJEBCnEM) | 3:32 | 2024-03-01 |  |
 | [Ocean Horizon](https://open.spotify.com/track/24uFq1QlocI7wGKWA2ynSJ) | [Satori Bloom](https://open.spotify.com/artist/7i9wtx5GMP70LKJE1Qa2qR) | [Ocean Horizon](https://open.spotify.com/album/3wLvtPkDiAb9tRt09KSFoK) | 3:17 | 2025-12-17 | 2026-06-13 |
 | [Ocean in a Drop](https://open.spotify.com/track/5yxqIaxcAWpcxcX95a6QYt) | [Gaiasphere](https://open.spotify.com/artist/39LUEKMNXRlQBUDMwwK14q) | [Ocean in a Drop](https://open.spotify.com/album/6xF8SMoiAmYx8VSrzdbja2) | 3:12 | 2026-02-27 |  |
 | [Ocean Light](https://open.spotify.com/track/5IwVSLVaXXZt9tk9YO93oN) | [Altum Somnum](https://open.spotify.com/artist/5W2BQPTLV5i34uvAtUs935) | [Ocean Light](https://open.spotify.com/album/3gPJrfsuA47xcNVhOiYivj) | 2:47 | 2025-04-01 |  |
@@ -182,7 +182,7 @@
 | [saltlakes](https://open.spotify.com/track/3g6fliPxqUQpSoLw9wvGWb) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [saltlakes](https://open.spotify.com/album/3UZPGU96FGS0ODZBia0bbK) | 2:50 | 2026-02-27 |  |
 | [Sand Mountain](https://open.spotify.com/track/3EvomX9g0fEOKTCRUTcvg1) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Sand Mountain](https://open.spotify.com/album/7HXnsk96PhsG1lvoksUYeq) | 2:18 | 2023-10-23 |  |
 | [Santanyi](https://open.spotify.com/track/3rO499O1PWBnA0vlAwO9fp) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Santanyi](https://open.spotify.com/album/3P91FU1iT0YVMETaIE1isA) | 2:41 | 2023-10-23 | 2026-06-13 |
-| [Sapphire Reflection](https://open.spotify.com/track/6BhhpEmEFutl0oyl0VzDN1) | [Nebuu](https://open.spotify.com/artist/4OHXOR1h0JhQBarufXpOtP) | [Sapphire Reflection](https://open.spotify.com/album/5bF5LLZdoRDRfrdaKozJHa) | 2:35 | 2025-12-17 |  |
+| [Sapphire Reflection](https://open.spotify.com/track/6BhhpEmEFutl0oyl0VzDN1) | [Nebuu](https://open.spotify.com/artist/4OHXOR1h0JhQBarufXpOtP) | [Sapphire Reflection](https://open.spotify.com/album/5bF5LLZdoRDRfrdaKozJHa) | 2:35 | 2025-12-17 | 2026-06-25 |
 | [Scenery](https://open.spotify.com/track/7pbqUZV3IVADNfLD4pa0tc) | [Jianwu](https://open.spotify.com/artist/15UcWbG8WJ71qSwgeOU4XO) | [Scenery](https://open.spotify.com/album/5I4EmI8sSubdnIiei3i154) | 2:45 | 2024-11-22 | 2024-12-02 |
 | [Seaesta](https://open.spotify.com/track/3URABoQxXx1Grenb3NDklF) | [Lavona](https://open.spotify.com/artist/3ZjL5oc3m442zsT7EtEPz9) | [Seaesta](https://open.spotify.com/album/2Dyt2lLbfcgvtTjSPS0jKQ) | 2:29 | 2025-10-02 |  |
 | [Seas in Balance](https://open.spotify.com/track/3nZWbaCeHbuczBt6KrgerH) | [Yin Canopy](https://open.spotify.com/artist/0Noyn207iScjKuf0Rzbe5s) | [Seas in Balance](https://open.spotify.com/album/448smD1wZADRppxWq8tmS4) | 2:22 | 2025-10-02 |  |
@@ -238,6 +238,7 @@
 | [Where the sun goes down \(Nature Edit\)](https://open.spotify.com/track/5PS3msmNfcvZxAxPRpEIL4) | [Aurelin](https://open.spotify.com/artist/4WxaQLOx5d0XXzj20fTd4X) | [Where the sun goes down \(Nature Edit\)](https://open.spotify.com/album/4T0ggBKzuWQuwDRqwGZGXM) | 3:27 | 2025-10-02 |  |
 | [Wind of Serenity](https://open.spotify.com/track/1ZFrUu4wdWc9iPW8M48Nil) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [Wind of Serenity](https://open.spotify.com/album/092neHTVHilfDCEkuLk7Jn) | 2:40 | 2024-03-01 | 2025-05-16 |
 | [Winds for Serenity](https://open.spotify.com/track/737MJBBOR64E9U7JX25Qol) | [Willow Ward](https://open.spotify.com/artist/6x28OJxhDL0xICscyvqkxA) | [Winds for Serenity](https://open.spotify.com/album/1vZaQoGogZ3sf3AJRrUM7w) | 3:15 | 2025-10-02 | 2026-02-28 |
+| [Wings Over Waves](https://open.spotify.com/track/6RDseU08qfnrodYIXgN1qO) | [Halune](https://open.spotify.com/artist/4KnjWOt271mXcYMTgxeITj) | [Wings Over Waves](https://open.spotify.com/album/4Ib9aeNnXG7SbHLZOSOHLO) | 2:49 | 2026-06-12 |  |
 | [Zen \(Sound Bath\)](https://open.spotify.com/track/6P1PwPQz9v8OpDmsaJLplo) | [Ghost Of Summer](https://open.spotify.com/artist/2SQs5lwQifKBBhMDYnPZy8) | [Zen \(Sound Bath\)](https://open.spotify.com/album/3ZRNXJU8GSBkM2qoDeTXvT) | 3:23 | 2023-11-24 | 2025-05-19 |
 
 \*This playlist was first scraped on 2023-10-24. Prior content cannot be recovered.

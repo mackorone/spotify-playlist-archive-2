@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcmybUHdi27L.md) - [plain]
 
 > Fête De La Musique is on the 21st June, are you ready?
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,147 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,165 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcmybUHdi27L.md) - [plain]
 | 49 | [ZOU BISOU](https://open.spotify.com/track/1LmeIVvg4CVTu6kicEVoAr) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [MEGA BBL](https://open.spotify.com/album/5kULRFcbbkP6NHNBpi6T6p) | 2:42 |
 | 50 | [BACKKA](https://open.spotify.com/track/0vgRoHUufPIKoIStgC0ZRm) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Ayetian](https://open.spotify.com/artist/5FrdcC0audM19v7r1GQx4P) | [Sounds of the Diaspora 2](https://open.spotify.com/album/2vWy5CWRpgfJ4GNTbbcocW) | 3:30 |
 
-Snapshot ID: `AAAAAP1fifyQAX4glBJsnUdJmw62lge9`
+Snapshot ID: `AAAAAJTeQ2yrvgpiM6a6KqELkhO5h0GK`

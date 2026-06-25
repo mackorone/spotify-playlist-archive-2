@@ -2,7 +2,7 @@
 
 ### [digital detox✌️](https://open.spotify.com/playlist/37i9dQZF1DX5uFnRv5lZjw)
 
-> 2025: doom scrolling is out, off\-grid is in.
+> doom scrolling is out, off\-grid is in.
 
 120 songs - 5 hr 2 min
 

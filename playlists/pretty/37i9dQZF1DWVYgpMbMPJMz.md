@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover: DOE & Joe L Barnes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,068,120 likes - 80 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,068,226 likes - 80 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 40 | [You Prepare the Fire](https://open.spotify.com/track/726NUsPYYDXOG4TmkTpRpl) | [Zach Webb](https://open.spotify.com/artist/7xY48N1Fs8R9DDKcUrevke) | [You Prepare the Fire](https://open.spotify.com/album/2QIQ0XXpJnwbfJ8OvlPABZ) | 5:20 |
 | 41 | [Let There Be \- Live](https://open.spotify.com/track/2tJZUC678Z4Lpi5G97tjj3) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [The Blue Tent \(Live\)](https://open.spotify.com/album/2TgqsUTFDNEjAhjOZsb5XD) | 4:40 |
 | 42 | [Man of Sorrows \(house partiii\)](https://open.spotify.com/track/0RPYeMOuuzZ78f8YXsPPcI) | [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [MATT CROCKER \- house partiii \(Vol\. 1\)](https://open.spotify.com/album/5YgNIQtbdscy5ItbIyAsde) | 4:36 |
-| 43 | [Mighty God \- Live](https://open.spotify.com/track/6sNHGIXmrBydSl6zstkzq9) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Mighty God \(Live\)](https://open.spotify.com/album/4rHXkkzhGwENKYcA3VAjRG) | 6:16 |
+| 43 | [Mighty God \- Live](https://open.spotify.com/track/6sNHGIXmrBydSl6zstkzq9) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Mighty God \(Live\)](https://open.spotify.com/album/4rHXkkzhGwENKYcA3VAjRG) | 6:03 |
 | 44 | [The Foolishness Of God](https://open.spotify.com/track/5w0lbWtkHWt41yTrayULeF) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [The Foolishness Of God](https://open.spotify.com/album/4VkmoYyJIaZJl9YaY9yLY8) | 4:49 |
 | 45 | [Blood of Jesus \(I Surrender All\)](https://open.spotify.com/track/0quxaXkS1kE3oKMdMWJbZ8) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Ashley Bailey](https://open.spotify.com/artist/0mCGACx1tzi9BRx1KX0OXR), [Aaron Tedeschi](https://open.spotify.com/artist/3LSv8vyAjTxn37MsKnYkz0) | [Blood of Jesus \(I Surrender All\)](https://open.spotify.com/album/39iJQ5xz5BDQ30QdSGHbhW) | 5:37 |
 | 46 | [Stories \- Break Open](https://open.spotify.com/track/0l9DYjPy6LG59JNQl6jGJW) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Break Open](https://open.spotify.com/album/0FSWZD1UjBwGb1nNUJFExO) | 6:38 |

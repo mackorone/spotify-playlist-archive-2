@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 612 likes - 161 songs - 12 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 613 likes - 161 songs - 12 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 48 | [Summertime](https://open.spotify.com/track/2bZ00g0QNNHnLkoEdR9IUk) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan Sings George Gershwin](https://open.spotify.com/album/3WNkR1jew5kfBxl1PhgwPa) | 2:54 |
 | 49 | [I Like That You Can't Take That Away From Me](https://open.spotify.com/track/0ZsWdOc919i76q32pmlz1r) | [Jae Millz](https://open.spotify.com/artist/0qWtta2AJnHQITmWvhcehs), [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv), [Mashonda](https://open.spotify.com/artist/5SyhqYagv3kA1s7xbI8QGi), [June Christy](https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP) | [Take The Lead](https://open.spotify.com/album/5pjfujDJYCQoOZJ87KezQV) | 2:27 |
 | 50 | [Gone, Gone, Gone](https://open.spotify.com/track/7JXspV8huWhAauiO8cGVLr) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Porgy And Bess](https://open.spotify.com/album/5TZUz4IkdUZY8i1cnbaAHz) | 2:03 |
-| 51 | [Cuban Overture](https://open.spotify.com/track/4yHx7vheDab2WI2KaKJlp7) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [New Zealand Symphony Orchestra](https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM), [James Judd](https://open.spotify.com/artist/3bRgHXc5F81fdXrdh5jpz5) | [Gershwin: An American in Paris \- Porgy and Bess Suite](https://open.spotify.com/album/5vumLsj62UXwY56n1fUplG) | 10:42 |
-| 52 | [For You, For Me, For Evermore](https://open.spotify.com/track/3xFNCOi1LdKAwTkzoABx2R) | [Morgana King](https://open.spotify.com/artist/6OBKNqNkRe1Z5VA1TBvMuH), [Richard Hayman & His Orchestra](https://open.spotify.com/artist/6rUa5Spu1A7O98MketkcX7) | [For You, For Me, Forevermore](https://open.spotify.com/album/2I8URD6JXKYwtMByw90GVq) | 3:07 |
+| 51 | [For You, For Me, For Evermore](https://open.spotify.com/track/3xFNCOi1LdKAwTkzoABx2R) | [Morgana King](https://open.spotify.com/artist/6OBKNqNkRe1Z5VA1TBvMuH), [Richard Hayman & His Orchestra](https://open.spotify.com/artist/6rUa5Spu1A7O98MketkcX7) | [For You, For Me, Forevermore](https://open.spotify.com/album/2I8URD6JXKYwtMByw90GVq) | 3:07 |
+| 52 | [Cuban Overture](https://open.spotify.com/track/4yHx7vheDab2WI2KaKJlp7) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [New Zealand Symphony Orchestra](https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM), [James Judd](https://open.spotify.com/artist/3bRgHXc5F81fdXrdh5jpz5) | [Gershwin: An American in Paris \- Porgy and Bess Suite](https://open.spotify.com/album/5vumLsj62UXwY56n1fUplG) | 10:42 |
 | 53 | [Prayer \(Oh Doctor Jesus\)](https://open.spotify.com/track/6qzOPSNPZwTkQVLTuzofok) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Porgy And Bess](https://open.spotify.com/album/5TZUz4IkdUZY8i1cnbaAHz) | 4:38 |
 | 54 | [I Can't Be Bothered Now](https://open.spotify.com/track/0BfvhXg1QoYQy3x3cvMyzQ) | [Kirby Ward](https://open.spotify.com/artist/3CP3fz5qpw93t4feU2qLoP), [The "Crazy for You" Female Ensemble](https://open.spotify.com/artist/2Gz3Ta2IFXlZrhehCZSZOI) | [Crazy For You \(Original London Cast Recording\)](https://open.spotify.com/album/2VSXE30vimrdGB8ELKfWLZ) | 4:14 |
 | 55 | [On The Double](https://open.spotify.com/track/5DgvQdgGwYLqG4yK8owSRr) | [Lloyd Banks](https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi) | [H.F.M\. 2 \(Hunger For More 2\)](https://open.spotify.com/album/0h8gzYOChHoUjn3xt4mDsS) | 2:49 |
@@ -170,4 +170,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 160 | [If God Want to Kill Me](https://open.spotify.com/track/7FA747HPTXCToNteipCCab) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [George Gershwin's Complete Porgy and Bess \(Hd Remastered\)](https://open.spotify.com/album/1cCswl4XmfcFPvuExNOapI) | 2:05 |
 | 161 | [Crab Man](https://open.spotify.com/track/5c6p9txsU48nVObYtRTYHQ) | [The Magni Wentzel Sextet](https://open.spotify.com/artist/7427u0wL9sJxNaJ3vzbp69) | [Porgy & Bess](https://open.spotify.com/album/7i7NoSvjk1MpeQMEua7tpc) | 1:37 |
 
-Snapshot ID: `AcVBSAAAAAB8H/d2KkxfO2aPiqhKWTgw`
+Snapshot ID: `AcVHJAAAAACRyEFTVSivx/hsCEtGLXnr`

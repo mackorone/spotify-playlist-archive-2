@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 21515,
+  "num_followers": 21527,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajh7AAAAAAAPjjQVfQITX92rsuHpaU/J",
+  "snapshot_id": "ajnMgAAAAACNx8hqXLsZ3T/B97zgCtGs",
   "tracks": [
     {
       "added_at": null,
@@ -899,30 +899,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "EU GOSTO DE GAROTAS",
-        "url": "https://open.spotify.com/album/6pR1Ki8v3x7jPXbSFqRmAU"
+        "name": "Tanto Faz",
+        "url": "https://open.spotify.com/album/5KpJdmvfZhyew4cg0GLqHS"
       },
       "artists": [
         {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
-        },
-        {
-          "name": "Ikinya",
-          "url": "https://open.spotify.com/artist/3P9UYzQwlhR3HczWdbtcmU"
-        },
-        {
-          "name": "MangoLab",
-          "url": "https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym"
+          "name": "Black Queen",
+          "url": "https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv"
         },
         {
           "name": "Ebony",
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         }
       ],
-      "duration_ms": 175748,
-      "name": "CAMISA 10",
-      "url": "https://open.spotify.com/track/2mZcF2Nfx3bG4cEognxsuz"
+      "duration_ms": 196800,
+      "name": "Tanto Faz",
+      "url": "https://open.spotify.com/track/7s6Raq8Yvdhjsa38Bnpp8t"
     },
     {
       "added_at": null,
@@ -947,22 +939,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tanto Faz",
-        "url": "https://open.spotify.com/album/5KpJdmvfZhyew4cg0GLqHS"
+        "name": "EU GOSTO DE GAROTAS",
+        "url": "https://open.spotify.com/album/6pR1Ki8v3x7jPXbSFqRmAU"
       },
       "artists": [
         {
-          "name": "Black Queen",
-          "url": "https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv"
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        },
+        {
+          "name": "Ikinya",
+          "url": "https://open.spotify.com/artist/3P9UYzQwlhR3HczWdbtcmU"
+        },
+        {
+          "name": "MangoLab",
+          "url": "https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym"
         },
         {
           "name": "Ebony",
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         }
       ],
-      "duration_ms": 196800,
-      "name": "Tanto Faz",
-      "url": "https://open.spotify.com/track/7s6Raq8Yvdhjsa38Bnpp8t"
+      "duration_ms": 175748,
+      "name": "CAMISA 10",
+      "url": "https://open.spotify.com/track/2mZcF2Nfx3bG4cEognxsuz"
     },
     {
       "added_at": null,

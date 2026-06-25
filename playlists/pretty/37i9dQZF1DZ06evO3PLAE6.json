@@ -1,12 +1,12 @@
 {
   "description": "This is Kasey Chambers. The essential tracks, all in one playlist.",
-  "num_followers": 11929,
+  "num_followers": 11928,
   "original_name": "This Is Kasey Chambers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajh7AAAAAADW4a98E+TGnhG110BJ1/pT",
+  "snapshot_id": "ajnMgAAAAAA4MFYFHMooNtIWhdogaD3U",
   "tracks": [
     {
       "added_at": null,
@@ -571,26 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wreck & Ruin",
-        "url": "https://open.spotify.com/album/4rq15QdhJoQuy9Cju6Q3cZ"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        },
-        {
-          "name": "Shane Nicholson",
-          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
-        }
-      ],
-      "duration_ms": 155693,
-      "name": "The Quiet Life",
-      "url": "https://open.spotify.com/track/2vRGeDYwISNpSebcswORMg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dragonfly",
         "url": "https://open.spotify.com/album/3o807nqdUFN5MEc9Ex7IoM"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 271960,
       "name": "I Still Pray",
       "url": "https://open.spotify.com/track/4oYgJotc49KtSyGALfwWVH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wreck & Ruin",
+        "url": "https://open.spotify.com/album/4rq15QdhJoQuy9Cju6Q3cZ"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Shane Nicholson",
+          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
+        }
+      ],
+      "duration_ms": 155693,
+      "name": "The Quiet Life",
+      "url": "https://open.spotify.com/track/2vRGeDYwISNpSebcswORMg"
     },
     {
       "added_at": null,
@@ -775,46 +775,6 @@
       "duration_ms": 209293,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/7KlvXLOb3z0UFX0uBHG0x6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Campfire",
-        "url": "https://open.spotify.com/album/56qQohM8UvAKvdOIc9zFjQ"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        },
-        {
-          "name": "The Fireside Disciples",
-          "url": "https://open.spotify.com/artist/7gdLV2HcdUVBvB2Xrdg6aW"
-        },
-        {
-          "name": "Alan Pigram",
-          "url": "https://open.spotify.com/artist/4wQ04ttKcPpBsPYoBBMVYu"
-        }
-      ],
-      "duration_ms": 211040,
-      "name": "The Campfire Song (feat. Alan Pigram)",
-      "url": "https://open.spotify.com/track/2Clppdl5RKxpjqkxrt7gWO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/3o807nqdUFN5MEc9Ex7IoM"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 221247,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/3TSW0LDIUXbUa3NT5ynZKP"
     }
   ],
   "unique_name": "This Is Kasey Chambers",

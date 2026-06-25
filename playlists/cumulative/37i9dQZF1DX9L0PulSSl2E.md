@@ -4,7 +4,7 @@
 
 > Sit back, thand rakho te Chill Karlo with Mankirt Aulakh
 
-91 songs - 4 hr 16 min
+92 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Into You](https://open.spotify.com/track/455OjhLhU9JCNYKKoUOFwr) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Into You](https://open.spotify.com/album/64vhuaHJxjSZrOwMUqGJ85) | 2:54 | 2025-10-17 |  |
 | [Ishq](https://open.spotify.com/track/3ps4IwLgRYDcqxbH2KjBk1) | [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG), [Arsh Heer](https://open.spotify.com/artist/0IMB9ZqS18okmvGMGYzl45) | [Ishq](https://open.spotify.com/album/1uqcoGMKtezQLVCWFUn2aG) | 2:00 | 2026-02-20 | 2026-03-27 |
 | [It's Me](https://open.spotify.com/track/03rnbVMhzvcpTBYi1X2HFb) | [Deep Chahal](https://open.spotify.com/artist/4Uf7FQlaAnd8APkdudp2cc), [Bugzy](https://open.spotify.com/artist/6YNHmTLaBKTLszcuUsaXCz) | [VELORA](https://open.spotify.com/album/2plRiyaMQOlEgUqXV89jbT) | 3:01 | 2026-03-25 |  |
-| [Jatt Mehkma](https://open.spotify.com/track/61R3DMR4U2n25qgX9ryciJ) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [GLORY](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:15 | 2025-10-17 |  |
+| [Jatt Mehkma](https://open.spotify.com/track/61R3DMR4U2n25qgX9ryciJ) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [GLORY](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:15 | 2025-10-17 | 2026-06-25 |
 | [Jawani](https://open.spotify.com/track/4zbWvyne1wLrmXdbuvTHgs) | [SABBA](https://open.spotify.com/artist/7tardcybPTgbQgPKAvydh8), [Meavin](https://open.spotify.com/artist/1nG9O8LanYlbxZVA28oYFV) | [Jawani](https://open.spotify.com/album/5klRDh8JxQOcXcc7Rxzjw5) | 3:26 | 2026-03-10 | 2026-03-26 |
 | [Jinniyan](https://open.spotify.com/track/46TlSsFIAtUmaNKpPUQaIE) | [digV](https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Maninder Buttar](https://open.spotify.com/artist/2sN4fSzAm2rAL0HIurPCEM), [Pranay Parti](https://open.spotify.com/artist/0PZmx7d0zgDWcm7HTvngcy) | [Jinniyan](https://open.spotify.com/album/7pJ7siqSx1vj04RZqv9gaz) | 3:18 | 2025-10-17 | 2025-11-04 |
 | [Kaatilana](https://open.spotify.com/track/4gAYB5yzeYrQ0jz13FmFOV) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [Push Kahlon](https://open.spotify.com/artist/3FV1d5JZKT5LjoMbBhZoBP), [Rippy Grewal](https://open.spotify.com/artist/1RaZAbVB4yopz69N1XlZvj) | [Kaatilana](https://open.spotify.com/album/0nBHaOa8XXkIB0e3YAYnxf) | 3:12 | 2025-11-24 |  |
@@ -58,6 +58,7 @@
 | [Kinna Tera](https://open.spotify.com/track/11Ua3dEO8c0lZQG1yqngtE) | [BAD Junkie](https://open.spotify.com/artist/67PszvnwyV2SVgLAaVqOER), [Prakriti Pandey](https://open.spotify.com/artist/5gyrzC7jLzk6zlZVRwGwdb) | [Kinna Tera](https://open.spotify.com/album/3s52PXAUvWHXc3OG1S3qWK) | 3:13 | 2026-02-23 | 2026-03-14 |
 | [Kinni Kinni](https://open.spotify.com/track/3F3ZuXYFXGM1V6pk3b3zmi) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 3:33 | 2025-10-17 |  |
 | [Kufar](https://open.spotify.com/track/7oODxqLHmajTXnGK0hWfj1) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [AURA](https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT) | 2:38 | 2025-10-17 |  |
+| [Kyun](https://open.spotify.com/track/0dEPR2Atoyv8ZvBOFH8i9W) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG) | [Welcome To The Jungle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1W7FuYLH3fv0lncFQ7hmqE) | 3:33 | 2026-06-24 |  |
 | [Lagda Na Dil](https://open.spotify.com/track/7Fjl2QuvHWjNofOZGpHNMe) | [RAAJA](https://open.spotify.com/artist/5C7H6bRxIcTnOpgyyj2Il5), [Sickboi](https://open.spotify.com/artist/2RSjOH1tYnTgkpkz81WICb), [Deepa Bandala](https://open.spotify.com/artist/3iZ7MuYEOcqPt8canew8ca) | [Lagda Na Dil](https://open.spotify.com/album/1lFY6bcXn6qTK7e7BBJF4N) | 3:06 | 2025-11-25 | 2026-02-21 |
 | [Lor Lor](https://open.spotify.com/track/0UVcAOt6NMxYQ24zD66XKk) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA), [Kartik Dev](https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz), [Gaurav Dev](https://open.spotify.com/artist/68Cqe4YTtQpcuyKLktPxr9) | [Lor Lor](https://open.spotify.com/album/4zqRJG3ls1lWXULHc712bw) | 2:59 | 2025-10-17 |  |
 | [Lover](https://open.spotify.com/track/0XwRlvv3KlOu4HWlOH34XG) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 3:10 | 2025-10-17 |  |

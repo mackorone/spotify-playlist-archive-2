@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: may\-june 2026 \(previous playlists archived on my profile\)
 
-1,019 songs - 2 day 13 hr 50 min
+1,021 songs - 2 day 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Above Your Head](https://open.spotify.com/track/3gMbaUdsgtdM0TX24Pdy5W) | [Memory Of Jane](https://open.spotify.com/artist/4sU782GTDIMkKacoc4EuxM) | [In The Double](https://open.spotify.com/album/6ArXQJGo5C2UbKEM2hbqEb) | 2:43 | 2024-09-18 | 2024-10-07 |
 | [Abraham, Martin And John](https://open.spotify.com/track/41tl6xfIKib7fexaHudvV0) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [Dion](https://open.spotify.com/album/323GIk4Y4kaO9XcEPNlBq6) | 3:20 | 2026-04-23 | 2026-05-06 |
 | [Abstract Of Expression](https://open.spotify.com/track/779isqr6HQU4eGWvL8Lt59) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [Fidelity](https://open.spotify.com/album/05V4gFM4ZIkotmDJxAGLl9) | 7:20 | 2025-01-11 | 2025-03-02 |
+| [Adrenaline](https://open.spotify.com/track/3aOfynJVvUXioiO0gkzfPX) | [GB](https://open.spotify.com/artist/4YMJGenzGCHYz30PRdTJP8) | [Adrenaline](https://open.spotify.com/album/3Eauvo8fZ7Hb5HpNwrDE1P) | 4:01 | 2026-06-24 |  |
 | [After the Farmer's Wife](https://open.spotify.com/track/3IAnFuQUscnMQdCwz0HS81) | [Benny Benji](https://open.spotify.com/artist/31Fp7TWqvWz0fnyCvOEfZP) | [Hitch Your Wagon to a Star](https://open.spotify.com/album/5UpLbFxtP5aWQhIfKZlvSQ) | 1:31 | 2024-03-20 | 2024-05-16 |
 | [Afterlife](https://open.spotify.com/track/0yYQbFuqvXyZc46e2QEqI7) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Afterlife](https://open.spotify.com/album/0DnQhNQf6xRTkN1nVC4l1i) | 3:30 | 2025-06-01 | 2025-07-04 |
 | [Again & Again](https://open.spotify.com/track/3Kh7jZ6QdVJJq63A3xRneN) | [the bird and the bee](https://open.spotify.com/artist/65XA3lk0aG9XejO8y37jjD) | [the bird and the bee](https://open.spotify.com/album/6a0Cjn8ctxzj67VGrk96IH) | 2:45 | 2025-10-24 | 2025-11-15 |
@@ -86,6 +87,7 @@
 | [Atoms For Peace](https://open.spotify.com/track/1yr5rQnDL8QhJWCI6rPId8) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [The Eraser](https://open.spotify.com/album/4X8Y79gWo6xm7Osdapg58E) | 5:13 | 2025-03-09 | 2025-05-09 |
 | [Au Pays du Cocaine](https://open.spotify.com/track/1g9GiiPPaL7KcDHlDzu7lT) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 3:30 | 2025-11-28 | 2026-01-15 |
 | [Auntie's Lock/Infinitum](https://open.spotify.com/track/08mLKO1adBkvaaJyCsEahC) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Laura Darlington](https://open.spotify.com/artist/67OokTsDsLUvJI6oIxCigq) | [Los Angeles](https://open.spotify.com/album/0q8xcjDnjM60zXr8UdSDfu) | 2:44 | 2024-09-07 | 2024-09-11 |
+| [Autosmile](https://open.spotify.com/track/74wiS51Xagi78GpoStA7hr) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Autosmile](https://open.spotify.com/album/0TkVOCI5fcQPt6mbFT2jil) | 6:39 | 2026-06-24 |  |
 | [B](https://open.spotify.com/track/7t1FUkqJRdQdNrkjwfhq2H) | [Lync](https://open.spotify.com/artist/31fnC8wbw2ZBITgOp6KKoY) | [These Are Not Fall Colors](https://open.spotify.com/album/3Is1zxmfs8xXPL8QnB27kd) | 4:30 | 2024-10-24 | 2024-11-14 |
 | [Baby Lef Marah](https://open.spotify.com/track/0amK3uqJKw5AJ9CgeJArTz) | [S.E\. Rogie](https://open.spotify.com/artist/1W8vgcN29v8ChWmlpZQ3Ai) | [The Sounds of S.E\. Rogie](https://open.spotify.com/album/1Ovz1OhylAnhQ2kLf65obf) | 3:10 | 2024-06-25 | 2024-07-12 |
 | [Bacara](https://open.spotify.com/track/0Nzb9xXoZ4YKmoi2TLvO9S) | [Grand Kallé](https://open.spotify.com/artist/72y2BmOygi88StwtMuQfEQ), [L'African Jazz](https://open.spotify.com/artist/0mHnv5jdaehGzv9zujVlXW) | [Merveilles du passé, Vol\. 1 \(1958 / 1959 / 1960\)](https://open.spotify.com/album/6LGIjTarpggj13sgOa0G1h) | 2:48 | 2025-12-24 | 2026-01-15 |

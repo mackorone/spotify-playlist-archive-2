@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > Tonique & Man with more rich grooves 🇫🇷🌞 metropolis is your home for the best indie dance
 
-[Spotify](https://open.spotify.com/user/spotify) - 870,709 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 870,675 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 68 | [Happy Birthday](https://open.spotify.com/track/2kNtiNtCbRbw3vP2qG6Ae9) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Written into Changes](https://open.spotify.com/album/652IHz4kGbrNGIkq40T6wU) | 3:53 |
 | 69 | [Ventricle](https://open.spotify.com/track/6vrVUOH8GBueYVLXXOIlfe) | [Next To Blue](https://open.spotify.com/artist/651bTRrM7AWeYldvSxdHco) | [Ventricle](https://open.spotify.com/album/7JyLPiCcJmpKtndcjGwU87) | 3:34 |
 | 70 | [Supercolor \(feat\. CECI\)](https://open.spotify.com/track/5MivC2zico0hz5JFvZK9lz) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [CECI](https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG) | [The Cocktail Hour](https://open.spotify.com/album/0eGzoGDUX6ZSQhuY8DT7Ct) | 3:31 |
-| 71 | [Keepsake](https://open.spotify.com/track/552B44JS2NxJ4p1pP8hr2K) | [Dugong Jr](https://open.spotify.com/artist/5CJyoIE9kMfWbFbdVk721i), [Georgi Kay](https://open.spotify.com/artist/32DJdHuhN1840L73Bqxhxj) | [Keepsake](https://open.spotify.com/album/0njf5S9ErmET6YDNYzPoah) | 3:24 |
+| 71 | [Keepsake \(feat\. Georgi Kay\)](https://open.spotify.com/track/552B44JS2NxJ4p1pP8hr2K) | [Dugong Jr](https://open.spotify.com/artist/5CJyoIE9kMfWbFbdVk721i), [Georgi Kay](https://open.spotify.com/artist/32DJdHuhN1840L73Bqxhxj) | [Keepsake \(feat\. Georgi Kay\)](https://open.spotify.com/album/0njf5S9ErmET6YDNYzPoah) | 3:24 |
 | 72 | [My Temptations](https://open.spotify.com/track/2MK2fcwBiq2fHxooYW4qfC) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV) | [My Temptations](https://open.spotify.com/album/7zkuvjLRSq5dqOlNekcQGU) | 3:11 |
 | 73 | [Too Late](https://open.spotify.com/track/4vlSOYbHKPSMF6MuNSUeIR) | [ForgiveMeTommy!](https://open.spotify.com/artist/55gwBuz7mELCtvJDIVHQOA) | [Too Late](https://open.spotify.com/album/3jSEJZJVWl7BtoXg1Z0I6t) | 4:10 |
 | 74 | [Fall Into The Sky](https://open.spotify.com/track/5nZRKQHFHRS2Pp7KQRlYWC) | [Marinus](https://open.spotify.com/artist/0PuoByZ9ODmTJfp4WOCAlX) | [Fall Into The Sky](https://open.spotify.com/album/4Z48wBC5ExTP7smaj1HcvS) | 2:50 |

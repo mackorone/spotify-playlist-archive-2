@@ -2,7 +2,7 @@
 
 ### [Weekly Workout 🏃](https://open.spotify.com/playlist/7EYxnpva8IlIgJ42z96zXH)
 
-> Fuel your gym routine with the best workout hits\. Beastmode and pump workout, wellness, health, running, pilates, HIIT, weightlifting, hits\. Featuring high\-energy pop, hyperpop and EDM, fitness beats from Calvin Harris, Alok, Ninajirachi, and more  to boost your motivation\. Updated weekly.
+> Fuel your gym routine with the best workout hits for wellness, health, running, pilates, HIIT, weightlifting + more
 
 1,135 songs - 2 day 11 hr 37 min
 

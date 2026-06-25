@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 
 > Nagrody rozdane! Posłuchaj zwycięzców i  nominowanych utworów w kategorii singiel roku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,757 likes - 79 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,755 likes - 79 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 | 44 | [Wołanie](https://open.spotify.com/track/2pYHClMIvzhDOyxGiON4q6) | [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7), [Ajron](https://open.spotify.com/artist/5dlqcZJpv99qibC0d9mJLM), [Eldo](https://open.spotify.com/artist/5nuF8QjV4BtabUeBaXzzwK) | [Wołanie](https://open.spotify.com/album/6lDX7gUBeS1hU6yKpSNBP5) | 3:12 |
 | 45 | [BANGKOK2025](https://open.spotify.com/track/5TlOTGWIYU8IBN6n0EmCVW) | [Bardal](https://open.spotify.com/artist/1wb1K9VIqbfdavYI0PZwKR), [rów babicze](https://open.spotify.com/artist/7G7Cn1swPVhPV4V3PNNXP1) | [BANGKOK2025](https://open.spotify.com/album/7iDiOpE0IGEiCg2mLRI8mk) | 3:18 |
 | 46 | [Ruchy](https://open.spotify.com/track/267Idgd3aoiep1efGLZIRC) | [Opał](https://open.spotify.com/artist/28WXX79U4jzq1kfjx5QXPy), [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ), [4Money](https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1), [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak) | [Połączenia 2](https://open.spotify.com/album/2feprtPOCyMVM6HW7j3taF) | 2:46 |
-| 47 | [SIE KLEI](https://open.spotify.com/track/6hTcG0znsgf33wBAnf8P8y) | [javier](https://open.spotify.com/artist/7cLA1cTY8dCn9Kb8r8JdKY) | [NEXT](https://open.spotify.com/album/2WO3Kt3oLo4ApWcy6nFkQo) | 1:53 |
-| 48 | [kiedy byłem ale to house](https://open.spotify.com/track/3fF3RKOiMgMtCpPqdF3xdA) | [BSK](https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2), [młody klakson](https://open.spotify.com/artist/5OpbwO25KnXFv2nUYlMwOu) | [kiedy byłem ale to house](https://open.spotify.com/album/2mxKYP9uC0exnzfuozaax1) | 2:49 |
+| 47 | [kiedy byłem ale to house](https://open.spotify.com/track/3fF3RKOiMgMtCpPqdF3xdA) | [BSK](https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2), [młody klakson](https://open.spotify.com/artist/5OpbwO25KnXFv2nUYlMwOu) | [kiedy byłem ale to house](https://open.spotify.com/album/2mxKYP9uC0exnzfuozaax1) | 2:49 |
+| 48 | [SIE KLEI](https://open.spotify.com/track/6hTcG0znsgf33wBAnf8P8y) | [javier](https://open.spotify.com/artist/7cLA1cTY8dCn9Kb8r8JdKY) | [NEXT](https://open.spotify.com/album/2WO3Kt3oLo4ApWcy6nFkQo) | 1:53 |
 | 49 | [lodowisko](https://open.spotify.com/track/0lQQLAQY4vmCb1dpcz1OlH) | [kuqe 2115](https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf), [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74), [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht) | [nareszcie w domu](https://open.spotify.com/album/7prZBQ3CV8ZUO05o9tnhbb) | 2:24 |
 | 50 | [SOCCER KICK](https://open.spotify.com/track/0BfkntpqRHxU3fyue9m3rG) | [Słoń](https://open.spotify.com/artist/0wm6v5GU6VbR1wtsm0YiTV), [The Returners](https://open.spotify.com/artist/4zO6WqG8mu49ek0ZDIptTk) | [SOCCER KICK](https://open.spotify.com/album/2uT4wnK0mgsOd15OEPWR2s) | 3:04 |
 | 51 | [Nowa Kultura](https://open.spotify.com/track/1l5u5znLAXCxMimLcR6G5f) | [Aleshen](https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu) | [ALESHEN II](https://open.spotify.com/album/0oTX7hZShhVYj8HQ6cwxvJ) | 2:32 |

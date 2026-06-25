@@ -1,6 +1,6 @@
 {
   "description": "the best things in life can't be contained.",
-  "num_followers": 1334453,
+  "num_followers": 1334321,
   "original_name": "Wild & Free",
   "owner": {
     "name": "Spotify",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-05-08 17:21:15",
       "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
-      },
-      "artists": [
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 244951,
-      "name": "Horse to Water",
-      "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
-    },
-    {
-      "added_at": "2026-05-08 17:21:15",
-      "album": {
         "name": "In These Silent Days",
         "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 303593,
       "name": "Broken Horses",
       "url": "https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib"
+    },
+    {
+      "added_at": "2026-05-08 17:21:15",
+      "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 244951,
+      "name": "Horse to Water",
+      "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
     },
     {
       "added_at": "2026-05-08 17:21:15",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-05-08 17:21:15",
       "album": {
-        "name": "Dancing For The Answers - EP",
-        "url": "https://open.spotify.com/album/7J8GMfGTfVzoSdZsUgt0Bg"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 216753,
-      "name": "Punta Cometa - Dancing For The Answers Alt Version",
-      "url": "https://open.spotify.com/track/0oiiHes8LMjKbofgD1aDcA"
-    },
-    {
-      "added_at": "2026-05-08 17:21:15",
-      "album": {
         "name": "Caesar Knows",
         "url": "https://open.spotify.com/album/0AAfuLbM9duV4zcHWaDNKG"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 156080,
       "name": "Caesar Knows",
       "url": "https://open.spotify.com/track/7IkZ5KtGsJ95M5rrpdmscs"
+    },
+    {
+      "added_at": "2026-05-08 17:21:15",
+      "album": {
+        "name": "Dancing For The Answers - EP",
+        "url": "https://open.spotify.com/album/7J8GMfGTfVzoSdZsUgt0Bg"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 216753,
+      "name": "Punta Cometa - Dancing For The Answers Alt Version",
+      "url": "https://open.spotify.com/track/0oiiHes8LMjKbofgD1aDcA"
     },
     {
       "added_at": "2026-05-08 17:21:15",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-05-08 17:21:15",
       "album": {
-        "name": "Songs of Our Native Daughters",
-        "url": "https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A"
-      },
-      "artists": [
-        {
-          "name": "Our Native Daughters",
-          "url": "https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW"
-        }
-      ],
-      "duration_ms": 221546,
-      "name": "I Knew I Could Fly",
-      "url": "https://open.spotify.com/track/1tLDBychkP96pHT664rJIY"
-    },
-    {
-      "added_at": "2026-05-08 17:21:15",
-      "album": {
         "name": "Falling Asleep At The Wheel",
         "url": "https://open.spotify.com/album/2CndY3GLsa0e0gliCDPMsK"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 203247,
       "name": "Falling Asleep At The Wheel",
       "url": "https://open.spotify.com/track/5H1va3j5Bmr4zdBVgTwUti"
+    },
+    {
+      "added_at": "2026-05-08 17:21:15",
+      "album": {
+        "name": "Songs of Our Native Daughters",
+        "url": "https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A"
+      },
+      "artists": [
+        {
+          "name": "Our Native Daughters",
+          "url": "https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW"
+        }
+      ],
+      "duration_ms": 221546,
+      "name": "I Knew I Could Fly",
+      "url": "https://open.spotify.com/track/1tLDBychkP96pHT664rJIY"
     },
     {
       "added_at": "2026-05-08 17:21:15",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-05-08 17:21:15",
       "album": {
-        "name": "Extralife",
-        "url": "https://open.spotify.com/album/5OK6JHJhkSwle7EIeZZQ2E"
-      },
-      "artists": [
-        {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
-        }
-      ],
-      "duration_ms": 285346,
-      "name": "Futures",
-      "url": "https://open.spotify.com/track/71t9ZaeCkxa0tMVHVfAXFi"
-    },
-    {
-      "added_at": "2026-05-08 17:21:15",
-      "album": {
         "name": "Gimme the Beat Back",
         "url": "https://open.spotify.com/album/76VRoxpT60WNLRxMwovLfY"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 165133,
       "name": "Gimme the Beat Back",
       "url": "https://open.spotify.com/track/056W9KxE1pktCEsiydW6ZX"
+    },
+    {
+      "added_at": "2026-05-08 17:21:15",
+      "album": {
+        "name": "Extralife",
+        "url": "https://open.spotify.com/album/5OK6JHJhkSwle7EIeZZQ2E"
+      },
+      "artists": [
+        {
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+        }
+      ],
+      "duration_ms": 285346,
+      "name": "Futures",
+      "url": "https://open.spotify.com/track/71t9ZaeCkxa0tMVHVfAXFi"
     },
     {
       "added_at": "2026-05-08 17:21:15",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KARSfd7WcM.md) - [plain]
 
 > Fall hard, love harder\. Listen to the music from Heartstopper, new season now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 816,970 likes - 147 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 817,000 likes - 147 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KARSfd7WcM.md) - [plain]
 | 146 | [Moment In The Sun \(Bonus Track\)](https://open.spotify.com/track/5cnxbbs1MCRm6LiKrO37UR) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Headful of Sugar](https://open.spotify.com/album/4qyImIz6xwQNwDErQEbxnZ) | 3:09 |
 | 147 | [I Belong In Your Arms](https://open.spotify.com/track/0MOPdmOiCKChZjLzJHJAXi) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Something](https://open.spotify.com/album/1QupnCI7y1qsm6h1S5vWFw) | 3:27 |
 
-Snapshot ID: `AAAAAGdzytSU5Oh9jO2YqHSi8aqpLftq`
+Snapshot ID: `AAAAACxCzm6UvdhtLHbc4v+lmnBbz0jd`

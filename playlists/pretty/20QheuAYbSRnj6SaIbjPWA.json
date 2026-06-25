@@ -6,7 +6,7 @@
     "name": "Evan",
     "url": "https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l"
   },
-  "snapshot_id": "AAABKIIeBcMNhpEq3Y9k3i6OcY64i4q7",
+  "snapshot_id": "AAABKXl8ZIEoUcVQ8Ydp8orW7RFW6Idf",
   "tracks": [
     {
       "added_at": "2023-02-27 21:53:34",
@@ -2843,6 +2843,22 @@
       "duration_ms": 371746,
       "name": "On the Nature of Daylight",
       "url": "https://open.spotify.com/track/56oReVXIfUO9xkX7pHmEU0"
+    },
+    {
+      "added_at": "2026-06-24 18:34:58",
+      "album": {
+        "name": "Disintegration (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 426013,
+      "name": "Homesick - Remastered",
+      "url": "https://open.spotify.com/track/45TOYG5wlT96EZZLi3Byam"
     }
   ],
   "unique_name": "20QheuAYbSRnj6SaIbjPWA",

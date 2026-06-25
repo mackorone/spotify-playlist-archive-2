@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from fresh and emerging artists. Curated with love by human Spotify editors. Cover: SONG NING. Artwork: Isu Kim.",
+  "description": "The best new music from fresh and emerging artists. Curated with love by human Spotify editors. Cover: Straw \u6797\u6c34\u8349. Artwork: Isu Kim.",
   "name": "Fresh Finds SG & MY",
   "tracks": [
     {
@@ -3290,6 +3290,24 @@
       "duration_ms": 144000,
       "name": "Buang Masa",
       "url": "https://open.spotify.com/track/0FaEZQNcOBogAoLhNreLrV"
+    },
+    {
+      "album": {
+        "name": "Bubble",
+        "url": "https://open.spotify.com/album/2mcWSPj1Pmp6GrYXYxsLoB"
+      },
+      "artists": [
+        {
+          "name": "Straw \u6797\u6c34\u8349",
+          "url": "https://open.spotify.com/artist/4J9NMdvmSkuuD8ZgoBcTdv"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170508,
+      "name": "Bubble",
+      "url": "https://open.spotify.com/track/4lHvbowqDKrM25i718OdsK"
     },
     {
       "album": {
@@ -24236,6 +24254,24 @@
       "duration_ms": 192000,
       "name": "Unstable",
       "url": "https://open.spotify.com/track/2ovDKZx81JSPsijmdHEOo5"
+    },
+    {
+      "album": {
+        "name": "Untuk Teman Lamaku",
+        "url": "https://open.spotify.com/album/7CDk0pBMvKsMZEKY8Xfein"
+      },
+      "artists": [
+        {
+          "name": "Ahmadul Amin",
+          "url": "https://open.spotify.com/artist/3zEZOoywGtysVsh2w8OMZy"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229090,
+      "name": "Untuk Teman Lamaku",
+      "url": "https://open.spotify.com/track/0sIgpPF0biQGfsjGuA4VzJ"
     },
     {
       "album": {

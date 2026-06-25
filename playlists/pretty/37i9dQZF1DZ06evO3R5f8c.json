@@ -1,12 +1,12 @@
 {
   "description": "This is Black Coffee. The essential tracks, all in one playlist.",
-  "num_followers": 197209,
+  "num_followers": 197282,
   "original_name": "This Is Black Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajh7AAAAAABC1mgj+gUDaOH8DuWnnNGV",
+  "snapshot_id": "ajnMgAAAAACd2MxsVC4tzz9us3WPTAqA",
   "tracks": [
     {
       "added_at": null,
@@ -883,26 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Platinumb Heart Beating",
-        "url": "https://open.spotify.com/album/5I1PuwMzFN5Ooh8R5zUncS"
-      },
-      "artists": [
-        {
-          "name": "Msaki",
-          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
-        },
-        {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
-        }
-      ],
-      "duration_ms": 350000,
-      "name": "Uthando Lwam",
-      "url": "https://open.spotify.com/track/7lp3w0kR7m6o3mrKLSXGkI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Traveller (Extended Mix)",
         "url": "https://open.spotify.com/album/1CnnR1LNyGFzpcNkrbljoB"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 439308,
       "name": "Traveller - Extended Mix",
       "url": "https://open.spotify.com/track/3QF8Xtfvgnyk0tRUnDxTFU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Platinumb Heart Beating",
+        "url": "https://open.spotify.com/album/5I1PuwMzFN5Ooh8R5zUncS"
+      },
+      "artists": [
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "duration_ms": 350000,
+      "name": "Uthando Lwam",
+      "url": "https://open.spotify.com/track/7lp3w0kR7m6o3mrKLSXGkI"
     },
     {
       "added_at": null,

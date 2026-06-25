@@ -1,13 +1,93 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Ivy Knight",
-  "num_followers": 98660,
+  "num_followers": 98682,
   "original_name": "Fresh Finds Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIuog/Oq/1wNQAycAoUk6lGpqIi8",
+  "snapshot_id": "AAAAAPYPjif+KeojIQk4CK7ZJJ/VfW0M",
   "tracks": [
+    {
+      "added_at": "2026-06-24 22:08:07",
+      "album": {
+        "name": "Angel So Bad",
+        "url": "https://open.spotify.com/album/60s33QYtxHcdogg8JJjIFH"
+      },
+      "artists": [
+        {
+          "name": "True Mountain Laurel",
+          "url": "https://open.spotify.com/artist/1D3Q3ri32nScwBTwlLtxXU"
+        }
+      ],
+      "duration_ms": 172944,
+      "name": "Angel So Bad",
+      "url": "https://open.spotify.com/track/4mlGoUXzd1xZs3f89ZXvL4"
+    },
+    {
+      "added_at": "2026-06-24 22:08:07",
+      "album": {
+        "name": "Autosmile",
+        "url": "https://open.spotify.com/album/0TkVOCI5fcQPt6mbFT2jil"
+      },
+      "artists": [
+        {
+          "name": "@",
+          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
+        }
+      ],
+      "duration_ms": 399026,
+      "name": "Autosmile",
+      "url": "https://open.spotify.com/track/74wiS51Xagi78GpoStA7hr"
+    },
+    {
+      "added_at": "2026-06-24 22:08:07",
+      "album": {
+        "name": "Just Like That",
+        "url": "https://open.spotify.com/album/0UA130o1GHwKGHhzpW9Ggk"
+      },
+      "artists": [
+        {
+          "name": "yeemz",
+          "url": "https://open.spotify.com/artist/3esOPpGsiTP1Rc5lS1Jr6a"
+        }
+      ],
+      "duration_ms": 153491,
+      "name": "Just Like That",
+      "url": "https://open.spotify.com/track/5MfdiCBpbFbzmjVLRAykGp"
+    },
+    {
+      "added_at": "2026-06-24 22:08:07",
+      "album": {
+        "name": "Counting",
+        "url": "https://open.spotify.com/album/61AJBKlwuWFuUkG7w1ZEnC"
+      },
+      "artists": [
+        {
+          "name": "Anna Shoemaker",
+          "url": "https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4"
+        }
+      ],
+      "duration_ms": 218366,
+      "name": "Counting",
+      "url": "https://open.spotify.com/track/3NWOWcypy2u5Vc23hFi9FM"
+    },
+    {
+      "added_at": "2026-06-24 22:08:07",
+      "album": {
+        "name": "avoid me",
+        "url": "https://open.spotify.com/album/4LQF20TUI2tPxoztReVxSd"
+      },
+      "artists": [
+        {
+          "name": "Mikal Sabella",
+          "url": "https://open.spotify.com/artist/48l3CDUNMi5cDJDzatyl8X"
+        }
+      ],
+      "duration_ms": 202880,
+      "name": "avoid me",
+      "url": "https://open.spotify.com/track/1AEeEOK6AIVFM6BtRfPOYa"
+    },
     {
       "added_at": "2026-06-17 18:25:45",
       "album": {
@@ -1127,86 +1207,6 @@
       "duration_ms": 472982,
       "name": "Algae Bloom",
       "url": "https://open.spotify.com/track/2xgo1E9g90fftyw6KFgfsa"
-    },
-    {
-      "added_at": "2026-03-25 16:00:36",
-      "album": {
-        "name": "Wings",
-        "url": "https://open.spotify.com/album/39Nt75yWLYPHOma4OdNwZr"
-      },
-      "artists": [
-        {
-          "name": "Betty",
-          "url": "https://open.spotify.com/artist/4dzpD5GedidkVBhvGGEpGs"
-        }
-      ],
-      "duration_ms": 248981,
-      "name": "Wings",
-      "url": "https://open.spotify.com/track/5S1BO9BS02VIBBDjh2ybEA"
-    },
-    {
-      "added_at": "2026-03-25 16:00:36",
-      "album": {
-        "name": "Headlamp",
-        "url": "https://open.spotify.com/album/1HAWzhhJhj0j6lCCGNFn9F"
-      },
-      "artists": [
-        {
-          "name": "Ivy Knight",
-          "url": "https://open.spotify.com/artist/2k3Q5efL6SiHfAsGqdXk4z"
-        }
-      ],
-      "duration_ms": 198040,
-      "name": "Headlamp",
-      "url": "https://open.spotify.com/track/7x5G3YrfwKBRcLsBhS2CoN"
-    },
-    {
-      "added_at": "2026-04-08 16:00:07",
-      "album": {
-        "name": "Story's End",
-        "url": "https://open.spotify.com/album/1ZVufTemxbdERJ5wHFzyq2"
-      },
-      "artists": [
-        {
-          "name": "Maria Taylor",
-          "url": "https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m"
-        }
-      ],
-      "duration_ms": 314500,
-      "name": "Shades of Blue",
-      "url": "https://open.spotify.com/track/1dlOl952KY5oU5aef4CUCi"
-    },
-    {
-      "added_at": "2026-04-08 16:00:07",
-      "album": {
-        "name": "Dripping Coffee",
-        "url": "https://open.spotify.com/album/58ZCECWGAExqhQuZ29Iz07"
-      },
-      "artists": [
-        {
-          "name": "Ramsey Thornton",
-          "url": "https://open.spotify.com/artist/16Yf6ZfrDTWu4jt7GQrjdL"
-        }
-      ],
-      "duration_ms": 165218,
-      "name": "Dripping Coffee",
-      "url": "https://open.spotify.com/track/2aZanjLbCu3JHAz5CxSTIJ"
-    },
-    {
-      "added_at": "2026-04-01 16:00:36",
-      "album": {
-        "name": "Companion",
-        "url": "https://open.spotify.com/album/7tIAKXEuqT5IGs8HZXb0cz"
-      },
-      "artists": [
-        {
-          "name": "Sluice",
-          "url": "https://open.spotify.com/artist/2G2lzG0hD7813EiPyiCC4j"
-        }
-      ],
-      "duration_ms": 168389,
-      "name": "Torpor",
-      "url": "https://open.spotify.com/track/1hJaRe3VnckiLHn73ABng1"
     }
   ],
   "unique_name": "Fresh Finds Folk",

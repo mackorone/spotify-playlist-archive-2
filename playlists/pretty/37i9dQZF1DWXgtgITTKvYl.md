@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 
 > A collection of the best recent Prog Rock tracks\. Cover: Pink Floyd
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,502 likes - 75 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,559 likes - 75 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

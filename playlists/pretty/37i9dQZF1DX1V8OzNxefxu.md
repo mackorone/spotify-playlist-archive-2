@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V8OzNxefxu.md) - [plain]
 
 > Quelques chansons tranquilles pour des moments tendres et complices
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,193 likes - 68 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,192 likes - 68 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V8OzNxefxu.md) - [plain]
 | 9 | [Coco Câline \- Acoustic](https://open.spotify.com/track/78KD7blxwETXx2wo57jSEs) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Vous & moi](https://open.spotify.com/album/5pSQDgT8MXpFtgVR9ZFJRJ) | 3:46 |
 | 10 | [Si t'étais là](https://open.spotify.com/track/3ghmFXEXTP6DdVOyvuPHpr) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Louane](https://open.spotify.com/album/7rDvst38yYrJFGqs4W25Y8) | 2:33 |
 | 11 | [Le chant des sirènes](https://open.spotify.com/track/0gSvEcIBXqiYqomjp6hKHj) | [Fréro Delavega](https://open.spotify.com/artist/6bebPrkEPr2xEkiHP3QkNT) | [Fréro Delavega](https://open.spotify.com/album/6vRDgJ6ZlOQ8DH1Y4Olx46) | 2:58 |
-| 12 | [On dirait \- Acoustic version](https://open.spotify.com/track/5Lk4J1Su1lx2eTYsPMHKtH) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Au coeur de moi \(Bonus Tracks\)](https://open.spotify.com/album/3RxIsw5PjwrPGYOicwJqt4) | 3:33 |
+| 12 | [On dirait \- Version acoustique](https://open.spotify.com/track/5Lk4J1Su1lx2eTYsPMHKtH) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Au coeur de moi \(Bonus Tracks\)](https://open.spotify.com/album/3RxIsw5PjwrPGYOicwJqt4) | 3:33 |
 | 13 | [Que je t'aime](https://open.spotify.com/track/2wqHH4mITmvGf0ogwCzS5r) | [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX) | [Ilo Veyou](https://open.spotify.com/album/0tOFyyQeAYENYub9DDloWP) | 3:43 |
 | 14 | [Je m'en vais](https://open.spotify.com/track/6cZDf3mpynxrZbnx95j0tp) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [Vianney](https://open.spotify.com/album/51uvnRRpgp7FEUO7Y0jj5O) | 3:18 |
 | 15 | [Je veux tes yeux](https://open.spotify.com/track/5LDNaD9VSZ2qe8F70pZ4nH) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Je veux tes yeux](https://open.spotify.com/album/2JbCWxUTwMLf7zTmNxojGT) | 3:29 |

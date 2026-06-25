@@ -246,7 +246,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 175304,
       "name": "BABYDOLL (From the Netflix Rap Show \u201cNuova Scena\u201d)",
       "url": "https://open.spotify.com/track/5QAp93p5PbN056L26szJKI"
@@ -344,7 +344,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 146400,
       "name": "BENVENUTI IN CALABRIA (From the Netflix Rap Show \u201cNuova Scena\u201d)",
       "url": "https://open.spotify.com/track/50WyKvHTwuxHvXCIla9Ekq"
@@ -1213,6 +1213,52 @@
     },
     {
       "album": {
+        "name": "La Volta Giusta \u2013 Red Bull Posse",
+        "url": "https://open.spotify.com/album/4OJAJAwcrMEflYEcYHralw"
+      },
+      "artists": [
+        {
+          "name": "Nuova Scena",
+          "url": "https://open.spotify.com/artist/6BvbuCQioYZUBH1z4vm37u"
+        },
+        {
+          "name": "MadMan",
+          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
+        },
+        {
+          "name": "NOX",
+          "url": "https://open.spotify.com/artist/6b0qbsuBxViNCoV49F4D4A"
+        },
+        {
+          "name": "EOS",
+          "url": "https://open.spotify.com/artist/1CKLvkmWpjZfwfSDODVFpV"
+        },
+        {
+          "name": "CamilWay",
+          "url": "https://open.spotify.com/artist/0wa2aoDSMRdZi8qlOMUqEA"
+        },
+        {
+          "name": "Cuta",
+          "url": "https://open.spotify.com/artist/3YHgTUKp46PTi8yhIHOUQi"
+        },
+        {
+          "name": "Willie Peyote",
+          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
+        },
+        {
+          "name": "Andry The Hitmaker",
+          "url": "https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321517,
+      "name": "La Volta Giusta \u2013 Red Bull Posse",
+      "url": "https://open.spotify.com/track/4UKciRPy8loJ0TTIeWPuBL"
+    },
+    {
+      "album": {
         "name": "Lettera al Successo",
         "url": "https://open.spotify.com/album/40JAbQ0dElPOegPzPSiffU"
       },
@@ -1326,7 +1372,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 152000,
       "name": "L\u2019ego (From the Netflix Rap Show \u201cNuova Scena\u201d)",
       "url": "https://open.spotify.com/track/5qkvEFyyBShsZWBUixMvam"
@@ -1388,7 +1434,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 134340,
       "name": "MICA IO (From the Netflix Rap Show \u201cNuova Scena\u201d)",
       "url": "https://open.spotify.com/track/6OLVqqm88TFiX5TABQspL0"
@@ -1508,7 +1554,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 130666,
       "name": "NETWORK (From the Netflix Rap Show \u201cNuova Scena\u201d)",
       "url": "https://open.spotify.com/track/28polmoNjO1dvYiUfFxN43"
@@ -1614,7 +1660,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 158270,
       "name": "NUOVA VITA (From the Netflix Rap Show \u201cNuova Scena\u201d) - CamilWay",
       "url": "https://open.spotify.com/track/6z7ZAvaPkpkRuwjhWyn14G"
@@ -1814,7 +1860,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 196551,
       "name": "Partenope (From the Netflix Rap Show \u201cNuova Scena\u201d)",
       "url": "https://open.spotify.com/track/3o7Wj9qmWwV1mnnouU3krc"
@@ -2028,7 +2074,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 132578,
       "name": "SEDICENNE INCINTA (From the Netflix Rap Show \u201cNuova Scena\u201d)",
       "url": "https://open.spotify.com/track/0cdHN2xOVKzyMnEC3S7Q28"
@@ -2370,7 +2416,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 151835,
       "name": "TUTTO A POSTO (From the Netflix Rap Show \u201cNuova Scena\u201d) - Live",
       "url": "https://open.spotify.com/track/5YZEHwsOGXQZo7IrPhqJam"
@@ -2470,7 +2516,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 156471,
       "name": "WE GOT IT (From the Netflix Rap Show \u201cNuova Scena\u201d) - Live",
       "url": "https://open.spotify.com/track/011YjJ0LFDtAl7OahUAUfD"
@@ -2514,7 +2560,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 150461,
       "name": "Zin Zin (From the Netflix Rap Show \u201cNuova Scena\u201d)",
       "url": "https://open.spotify.com/track/3QpfAGCWS5owDwtTzTQzlj"

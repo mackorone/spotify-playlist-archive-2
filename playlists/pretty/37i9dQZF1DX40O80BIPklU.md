@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 
 > Hip\-Hop con Ñ, aquí lxs que dominan el juego de las rimas\. Tino el Pingüino en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,162 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,158 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 | 37 | [I Gotta Go](https://open.spotify.com/track/6KwCM5xpwiPNhZPxWIomev) | [Soul AM](https://open.spotify.com/artist/6ppLSXJZysRO3LBrlJIVuA), [Komba](https://open.spotify.com/artist/45GCCsbyU6F1K5qMciA4tc), [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS) | [I Gotta Go](https://open.spotify.com/album/6LHqNJ36TxS3ep0oFQoT1b) | 2:18 |
 | 38 | [Tiro la Mia](https://open.spotify.com/track/2yHcCTXwOiYfuGtfwcYijd) | [Dj Mad Pee](https://open.spotify.com/artist/0fIVHIhpzTYjwmnSSEHpJV), [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Tiro la Mia](https://open.spotify.com/album/76TTsXPXjCzgxsmSGpD2Bf) | 2:29 |
 | 39 | [Déjalos Que Hablen](https://open.spotify.com/track/7adUs7wbkxxwtqIjqdjsgm) | [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe) | [Déjalos Que Hablen](https://open.spotify.com/album/5ea1cbVq7BGWlGC9RiLiX7) | 2:37 |
-| 40 | [Mil Caras](https://open.spotify.com/track/0mK3maRXWZqhKGuV3ISIZK) | [Tino El Pingüino](https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF) | [Mil Caras](https://open.spotify.com/album/3afEtTNGgJ9KySBc228VbA) | 3:16 |
+| 40 | [Mil Caras](https://open.spotify.com/track/0mK3maRXWZqhKGuV3ISIZK) | [Tino El Pingüino](https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF) | [Mil Caras](https://open.spotify.com/album/3afEtTNGgJ9KySBc228VbA) | 3:15 |
 | 41 | [¿dónde están?](https://open.spotify.com/track/4wz7IwLOIdjCUxtmA10nf2) | [Mike Lamadrid](https://open.spotify.com/artist/0yH4dtb40shmtEVyb9yA8C) | [¿dónde están?](https://open.spotify.com/album/4bbGl1kUFLGDVkRw89937W) | 2:46 |
 | 42 | [Punto Débil](https://open.spotify.com/track/58QtQYfiockbGhPYM3RezA) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Punto Débil](https://open.spotify.com/album/73pFms1bri6h1IikXgyJF7) | 4:22 |
 | 43 | [Viche Curao](https://open.spotify.com/track/7tQF5RI8mgk9mcMSkX39Ca) | [Pablo Fortaleza](https://open.spotify.com/artist/7jgM23vUu9pm4Fn5tw4yR1), [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Viche Curao](https://open.spotify.com/album/706lhiuZzLEj3oKvuoNqom) | 3:07 |

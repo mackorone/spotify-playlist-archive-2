@@ -1,6 +1,6 @@
 {
   "description": "Stompers, floaters and floorshakers - these are the tracks that defined the Northern Soul movement.",
-  "num_followers": 150871,
+  "num_followers": 150881,
   "original_name": "Northern Soul Classics",
   "owner": {
     "name": "Spotify",
@@ -139,18 +139,18 @@
     {
       "added_at": "2024-03-22 16:05:01",
       "album": {
-        "name": "I Get The Sweetest Feeling",
-        "url": "https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6"
+        "name": "Band Of Gold",
+        "url": "https://open.spotify.com/album/5m1858fUPOsdHRYHIihBB0"
       },
       "artists": [
         {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+          "name": "Freda Payne",
+          "url": "https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ"
         }
       ],
-      "duration_ms": 178373,
-      "name": "I Get The Sweetest Feeling",
-      "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
+      "duration_ms": 178093,
+      "name": "Band Of Gold (Single Mix)",
+      "url": "https://open.spotify.com/track/4o7pdbMDw6XwfXZFCZDoUH"
     },
     {
       "added_at": "2024-03-22 16:05:01",
@@ -171,18 +171,18 @@
     {
       "added_at": "2024-03-22 16:05:01",
       "album": {
-        "name": "Band Of Gold",
-        "url": "https://open.spotify.com/album/5m1858fUPOsdHRYHIihBB0"
+        "name": "I Get The Sweetest Feeling",
+        "url": "https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6"
       },
       "artists": [
         {
-          "name": "Freda Payne",
-          "url": "https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ"
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
         }
       ],
-      "duration_ms": 178093,
-      "name": "Band Of Gold (Single Mix)",
-      "url": "https://open.spotify.com/track/4o7pdbMDw6XwfXZFCZDoUH"
+      "duration_ms": 178373,
+      "name": "I Get The Sweetest Feeling",
+      "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
     },
     {
       "added_at": "2024-03-22 16:05:01",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-03-22 16:05:01",
       "album": {
-        "name": "The Northern Soul Story Vol.4: Wigan Casino",
-        "url": "https://open.spotify.com/album/6PgTpu4A3QmoR79tNmk4Ml"
-      },
-      "artists": [
-        {
-          "name": "Tobi Legend",
-          "url": "https://open.spotify.com/artist/6eq5SerOImK3d0a6HNQPOC"
-        }
-      ],
-      "duration_ms": 185160,
-      "name": "Time Will Pass You By",
-      "url": "https://open.spotify.com/track/4N4syZY2CN82yUh8BlNT3L"
-    },
-    {
-      "added_at": "2024-03-22 16:05:01",
-      "album": {
         "name": "The Northern Soul Story Vol.3: Blackpool Mecca",
         "url": "https://open.spotify.com/album/5GuuWoBcMTtfbIZ8Fudik6"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 150520,
       "name": "Moonlight Music and You",
       "url": "https://open.spotify.com/track/162C3OWfP2OKiE4CqcLQdy"
+    },
+    {
+      "added_at": "2024-03-22 16:05:01",
+      "album": {
+        "name": "The Northern Soul Story Vol.4: Wigan Casino",
+        "url": "https://open.spotify.com/album/6PgTpu4A3QmoR79tNmk4Ml"
+      },
+      "artists": [
+        {
+          "name": "Tobi Legend",
+          "url": "https://open.spotify.com/artist/6eq5SerOImK3d0a6HNQPOC"
+        }
+      ],
+      "duration_ms": 185160,
+      "name": "Time Will Pass You By",
+      "url": "https://open.spotify.com/track/4N4syZY2CN82yUh8BlNT3L"
     },
     {
       "added_at": "2024-03-22 16:05:01",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-03-22 16:05:01",
       "album": {
-        "name": "Ain't Nothin But a House Party",
-        "url": "https://open.spotify.com/album/6Zd5nGmHAPgw1o1GsRE4zw"
-      },
-      "artists": [
-        {
-          "name": "The Showstoppers",
-          "url": "https://open.spotify.com/artist/20KXZcTJLZTfi2ER7yFnqr"
-        }
-      ],
-      "duration_ms": 158973,
-      "name": "Ain't Nothin but a Houseparty",
-      "url": "https://open.spotify.com/track/64JXjk4JU0WG7BJwQTSga4"
-    },
-    {
-      "added_at": "2024-03-22 16:05:01",
-      "album": {
         "name": "The Stars Of Northern Soul Volume 1",
         "url": "https://open.spotify.com/album/1x6I4OVVnsZGTSBznVw9WY"
       },
@@ -1419,6 +1403,22 @@
     {
       "added_at": "2024-03-22 16:05:01",
       "album": {
+        "name": "Ain't Nothin But a House Party",
+        "url": "https://open.spotify.com/album/6Zd5nGmHAPgw1o1GsRE4zw"
+      },
+      "artists": [
+        {
+          "name": "The Showstoppers",
+          "url": "https://open.spotify.com/artist/20KXZcTJLZTfi2ER7yFnqr"
+        }
+      ],
+      "duration_ms": 158973,
+      "name": "Ain't Nothin but a Houseparty",
+      "url": "https://open.spotify.com/track/64JXjk4JU0WG7BJwQTSga4"
+    },
+    {
+      "added_at": "2024-03-22 16:05:01",
+      "album": {
         "name": "The Northern Soul Story Vol.4: Wigan Casino",
         "url": "https://open.spotify.com/album/6PgTpu4A3QmoR79tNmk4Ml"
       },
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-03-22 16:05:01",
       "album": {
-        "name": "Haynes Ultimate Guide to Northern Soul",
-        "url": "https://open.spotify.com/album/2YZ5MjpwfRaCd1hunGOZzH"
-      },
-      "artists": [
-        {
-          "name": "Lee David",
-          "url": "https://open.spotify.com/artist/7AZpPOy6ZtFoPS4hBxpZSQ"
-        }
-      ],
-      "duration_ms": 141746,
-      "name": "Temptation Is Calling My Name - Single Version",
-      "url": "https://open.spotify.com/track/6pOJd5tcIdae5RFprqyHHw"
-    },
-    {
-      "added_at": "2024-03-22 16:05:01",
-      "album": {
         "name": "Constellation of Chicago Soul",
         "url": "https://open.spotify.com/album/1t7urpNm3RvRxOZrWG52Fm"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 155666,
       "name": "Just Like the Weather",
       "url": "https://open.spotify.com/track/1wGUSWGhLZvChd0fxsvsU0"
+    },
+    {
+      "added_at": "2024-03-22 16:05:01",
+      "album": {
+        "name": "Haynes Ultimate Guide to Northern Soul",
+        "url": "https://open.spotify.com/album/2YZ5MjpwfRaCd1hunGOZzH"
+      },
+      "artists": [
+        {
+          "name": "Lee David",
+          "url": "https://open.spotify.com/artist/7AZpPOy6ZtFoPS4hBxpZSQ"
+        }
+      ],
+      "duration_ms": 141746,
+      "name": "Temptation Is Calling My Name - Single Version",
+      "url": "https://open.spotify.com/track/6pOJd5tcIdae5RFprqyHHw"
     },
     {
       "added_at": "2024-03-22 16:05:01",

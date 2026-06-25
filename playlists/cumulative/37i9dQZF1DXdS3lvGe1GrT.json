@@ -1757,6 +1757,24 @@
     },
     {
       "album": {
+        "name": "Angel So Bad",
+        "url": "https://open.spotify.com/album/60s33QYtxHcdogg8JJjIFH"
+      },
+      "artists": [
+        {
+          "name": "True Mountain Laurel",
+          "url": "https://open.spotify.com/artist/1D3Q3ri32nScwBTwlLtxXU"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172944,
+      "name": "Angel So Bad",
+      "url": "https://open.spotify.com/track/4mlGoUXzd1xZs3f89ZXvL4"
+    },
+    {
+      "album": {
         "name": "Angels Bowling",
         "url": "https://open.spotify.com/album/0SYmEWSu1yga1NAB1d2ibF"
       },
@@ -2604,6 +2622,42 @@
       "duration_ms": 391461,
       "name": "Automatic Love",
       "url": "https://open.spotify.com/track/153xNtmzRqNgvKkHz5M2Po"
+    },
+    {
+      "album": {
+        "name": "Autosmile",
+        "url": "https://open.spotify.com/album/0TkVOCI5fcQPt6mbFT2jil"
+      },
+      "artists": [
+        {
+          "name": "@",
+          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399026,
+      "name": "Autosmile",
+      "url": "https://open.spotify.com/track/74wiS51Xagi78GpoStA7hr"
+    },
+    {
+      "album": {
+        "name": "avoid me",
+        "url": "https://open.spotify.com/album/4LQF20TUI2tPxoztReVxSd"
+      },
+      "artists": [
+        {
+          "name": "Mikal Sabella",
+          "url": "https://open.spotify.com/artist/48l3CDUNMi5cDJDzatyl8X"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202880,
+      "name": "avoid me",
+      "url": "https://open.spotify.com/track/1AEeEOK6AIVFM6BtRfPOYa"
     },
     {
       "album": {
@@ -7063,6 +7117,24 @@
     },
     {
       "album": {
+        "name": "Counting",
+        "url": "https://open.spotify.com/album/61AJBKlwuWFuUkG7w1ZEnC"
+      },
+      "artists": [
+        {
+          "name": "Anna Shoemaker",
+          "url": "https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218366,
+      "name": "Counting",
+      "url": "https://open.spotify.com/track/3NWOWcypy2u5Vc23hFi9FM"
+    },
+    {
+      "album": {
         "name": "Cow Song",
         "url": "https://open.spotify.com/album/42CkWCbOfwaVsTk5TrWsTv"
       },
@@ -9622,7 +9694,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 165218,
       "name": "Dripping Coffee",
       "url": "https://open.spotify.com/track/2aZanjLbCu3JHAz5CxSTIJ"
@@ -15102,7 +15174,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 198040,
       "name": "Headlamp",
       "url": "https://open.spotify.com/track/7x5G3YrfwKBRcLsBhS2CoN"
@@ -19194,6 +19266,24 @@
       "duration_ms": 184270,
       "name": "Just Like Me",
       "url": "https://open.spotify.com/track/0amncKBwEYANfX3OyDTFXk"
+    },
+    {
+      "album": {
+        "name": "Just Like That",
+        "url": "https://open.spotify.com/album/0UA130o1GHwKGHhzpW9Ggk"
+      },
+      "artists": [
+        {
+          "name": "yeemz",
+          "url": "https://open.spotify.com/artist/3esOPpGsiTP1Rc5lS1Jr6a"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153491,
+      "name": "Just Like That",
+      "url": "https://open.spotify.com/track/5MfdiCBpbFbzmjVLRAykGp"
     },
     {
       "album": {
@@ -29392,7 +29482,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 314500,
       "name": "Shades of Blue",
       "url": "https://open.spotify.com/track/1dlOl952KY5oU5aef4CUCi"
@@ -35194,7 +35284,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 168389,
       "name": "Torpor",
       "url": "https://open.spotify.com/track/1hJaRe3VnckiLHn73ABng1"
@@ -37876,7 +37966,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 248981,
       "name": "Wings",
       "url": "https://open.spotify.com/track/5S1BO9BS02VIBBDjh2ybEA"

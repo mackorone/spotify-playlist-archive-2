@@ -456,7 +456,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 770851,
       "name": "Arriando Caminos / Zamba de Amor y Mar / Luna Tucumana / Mujer Ni\u00f1a y Amiga / Jazm\u00edn de Luna / Cenizas / Nada Tengo de Ti / Anoche No Dorm\u00ed",
       "url": "https://open.spotify.com/track/1IR1Pxh6ctS4A2UaBlHW02"
@@ -1582,7 +1582,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 146453,
       "name": "Desde el Puente Carretero (with Peteco Carabajal)",
       "url": "https://open.spotify.com/track/32mWcBr72gtKjrZhbWotbi"
@@ -1878,6 +1878,28 @@
       "duration_ms": 123146,
       "name": "El Gualamb\u00e1o - Grabaci\u00f3n Original 1959",
       "url": "https://open.spotify.com/track/6C47UVs9GGfx43i03ZThIr"
+    },
+    {
+      "album": {
+        "name": "La Vida Era M\u00e1s Corta",
+        "url": "https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "Cuti y Roberto Carabajal",
+          "url": "https://open.spotify.com/artist/4GN1eZnMxHLMX8a7sBBbFc"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203226,
+      "name": "El Invisible",
+      "url": "https://open.spotify.com/track/7sgfnHbbLRv3suSjBrvGXI"
     },
     {
       "album": {
@@ -2339,6 +2361,28 @@
     },
     {
       "album": {
+        "name": "Jangadero",
+        "url": "https://open.spotify.com/album/3kDzb6GxoMiGKL3OsNb6w3"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270013,
+      "name": "Jangadero",
+      "url": "https://open.spotify.com/track/6baKbE9hmJotIaHULwyIpF"
+    },
+    {
+      "album": {
         "name": "Leyenda",
         "url": "https://open.spotify.com/album/0ElncY7qEVIgOs0QXBZUUO"
       },
@@ -2592,6 +2636,24 @@
       "duration_ms": 130106,
       "name": "La Chicharra Cantora",
       "url": "https://open.spotify.com/track/3wlP4yvynVOq292A1C7jq1"
+    },
+    {
+      "album": {
+        "name": "La del Abuelo",
+        "url": "https://open.spotify.com/album/0z4QIAfee1mJqfeKPTPOXP"
+      },
+      "artists": [
+        {
+          "name": "Campedrinos",
+          "url": "https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164586,
+      "name": "La del Abuelo",
+      "url": "https://open.spotify.com/track/7suf7DOG7Gb9cUubeyQyNi"
     },
     {
       "album": {
@@ -3260,7 +3322,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-25",
       "duration_ms": 212077,
       "name": "La Zamba",
       "url": "https://open.spotify.com/track/2RUG2nP32VkyvNF2lFnbIM"
@@ -3996,8 +4058,8 @@
           "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
         },
         {
-          "name": "EMI",
-          "url": "https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1"
+          "name": "Emiliano Brancciari",
+          "url": "https://open.spotify.com/artist/6Xdjhy4MawcCmBq5MYM5N8"
         }
       ],
       "date_added": "2025-06-27",

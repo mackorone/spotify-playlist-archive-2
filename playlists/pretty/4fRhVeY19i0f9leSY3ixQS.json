@@ -6,7 +6,7 @@
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAAQ3tdQgKJFrkgYAsRcHrQrwvfqwbuC",
+  "snapshot_id": "AAAQ392nL96arSZg2NCJRIIX1ZV31BYj",
   "tracks": [
     {
       "added_at": "2026-05-12 03:36:45",
@@ -4199,6 +4199,22 @@
       "duration_ms": 220642,
       "name": "disaster",
       "url": "https://open.spotify.com/track/0M201PbVv5MjbZkiWzCUlk"
+    },
+    {
+      "added_at": "2026-06-24 07:59:05",
+      "album": {
+        "name": "home ANYMORE",
+        "url": "https://open.spotify.com/album/17LlS0edP2jyVRe1D73Hjs"
+      },
+      "artists": [
+        {
+          "name": "Nayla Salzmann",
+          "url": "https://open.spotify.com/artist/41J6ppdYoUtSogli4x9Jxo"
+        }
+      ],
+      "duration_ms": 179923,
+      "name": "You Don't Wanna Go Home",
+      "url": "https://open.spotify.com/track/5TAd5qBYgM65fvHgAD0uAI"
     }
   ],
   "unique_name": "Spotify Radio",

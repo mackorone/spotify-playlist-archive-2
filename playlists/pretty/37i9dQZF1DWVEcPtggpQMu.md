@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap\. <br/>Cover: Money Badoo
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,832 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,862 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 | 99 | [SHiNDiNi](https://open.spotify.com/track/2Dp5uF9E95WO3wEBPE000w) | [DJ Speedsta](https://open.spotify.com/artist/3sNkVGehC2a2YkD346mk87), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Ney The Bae](https://open.spotify.com/artist/2ejPIS2ocEAjCNhqkEtblo), [Blue Pappi](https://open.spotify.com/artist/3s08T4PFTVRjVPwgkhNq6D) | [120 Ocean View Dr.](https://open.spotify.com/album/49wwnX13DEX96uMBBjdn4P) | 3:14 |
 | 100 | [Dairy \(feat\. Kane Keid\)](https://open.spotify.com/track/6K8C2A17okx5cFU6dG0nud) | [Blue Pappi](https://open.spotify.com/artist/3s08T4PFTVRjVPwgkhNq6D), [Kane Keid](https://open.spotify.com/artist/3ve1wkH34zrfqTDaotzBto) | [Dairy \(feat\. Kane Keid\)](https://open.spotify.com/album/64fF8IIEmWqu4fYMfX2fQJ) | 3:12 |
 
-Snapshot ID: `AAAAAOn0oJ4jYoX6B2KNCzOkEpzq96Ky`
+Snapshot ID: `AAAAABswOJl76L5e5t6DU4rCHULuTlZB`

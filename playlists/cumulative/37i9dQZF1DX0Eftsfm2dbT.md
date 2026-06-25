@@ -4,7 +4,7 @@
 
 > J\-Hip Hopの最新注目曲をまとめてチェック cover: LEX \*水曜更新。マイライブラリに保存して毎週チェックしよう
 
-2,652 songs - 5 day 12 hr 56 min
+2,653 songs - 5 day 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [+81 Connect Call\_JUMADIBA](https://open.spotify.com/track/5LRhYqk1HGqsgozlJUCa7W) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [+81 Connect Call\_JUMADIBA](https://open.spotify.com/album/63RxsQq8iMizZUCCYpUyhV) | 0:05 | 2025-07-08 | 2025-08-06 |
 | [+81 Connect Call\_kZm](https://open.spotify.com/track/1WxEy1ApvSvLEqFKUjYooa) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4) | [+81 Connect Call\_kZm](https://open.spotify.com/album/05ocfpSUIPKuAeqyjJ0x7O) | 0:07 | 2025-08-05 | 2025-09-04 |
 | [+81 Connect Call\_LANA](https://open.spotify.com/track/48wfpr9c8v0b4BqydswJpd) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [+81 Connect Call\_LANA](https://open.spotify.com/album/2WgC4Ksb6eNTqlpCmBZt24) | 0:12 | 2025-07-29 | 2026-04-29 |
-| [+81 Connect Call\_LEX](https://open.spotify.com/track/5kvWpgwZwWRrihDuBFdcy9) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [+81 Connect Call\_LEX](https://open.spotify.com/album/6Z74Ydqdowpr5P1jp9ROr5) | 0:12 | 2025-11-25 | 2026-02-11 |
+| [+81 Connect Call\_LEX](https://open.spotify.com/track/5kvWpgwZwWRrihDuBFdcy9) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [+81 Connect Call\_LEX](https://open.spotify.com/album/6Z74Ydqdowpr5P1jp9ROr5) | 0:12 | 2025-11-25 |  |
 | [+81 Connect Call\_MFS](https://open.spotify.com/track/4ow5fi1IexrgH9z7XqDlyU) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [+81 Connect Call\_MFS](https://open.spotify.com/album/479hiP9NnUBhUX4KdDLt4v) | 0:08 | 2025-09-23 | 2025-10-15 |
 | [+81 Connect Call\_OZworld](https://open.spotify.com/track/4kdMHvW13p5E1o8ZXIBKLl) | [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO) | [+81 Connect Call\_OZworld](https://open.spotify.com/album/0PGitcU92l4HW9d8kSwCnD) | 0:08 | 2025-09-02 | 2025-09-24 |
 | [+81 Connect Call\_SamRecks](https://open.spotify.com/track/7k0Qe38QZSN6UvrqFgWdVU) | [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien) | [+81 Connect Call\_SamRecks](https://open.spotify.com/album/6IrTRvFzJVgZAK8lqefaQw) | 0:04 | 2025-11-13 | 2025-11-26 |
@@ -815,6 +815,7 @@
 | [GOAT](https://open.spotify.com/track/3edi5revIoKupagkhCLY2A) | [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE), [Lunv Loyal](https://open.spotify.com/artist/7lud8HFr0WHko0Kg99Dj4M) | [DONG JING REN](https://open.spotify.com/album/7h7wZupoqS4lpV8qOI29eE) | 2:32 | 2023-11-07 | 2024-01-31 |
 | [Godzilla](https://open.spotify.com/track/0J3JXLGEwD42xA3DYfw1RF) | [ARuM](https://open.spotify.com/artist/2W46oY5sDSCWXrZq8sljQx) | [Godzilla](https://open.spotify.com/album/49ch4e0WGYLZXMBW0fpGcw) | 3:28 | 2025-07-23 | 2025-07-30 |
 | [GOEMON](https://open.spotify.com/track/6HO0oAjTqqvfaspFkLzYEK) | [Gypsy Well](https://open.spotify.com/artist/1VsvKeGxliar6b9Ps7MqGO) | [GOEMON](https://open.spotify.com/album/6yFHD4LRXQFz6OC9JgTxWl) | 2:32 | 2024-02-28 | 2024-03-20 |
+| [Going](https://open.spotify.com/track/0ooR1VXfwVvPVxfMAqKnUn) | [Manaka](https://open.spotify.com/artist/3TUjg4NvsTvKiyRuPdsurN), [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0) | [Going](https://open.spotify.com/album/1WNLDLMUXMw9vcGVX0WF4N) | 2:49 | 2026-06-24 |  |
 | [GOING DOWN!!!](https://open.spotify.com/track/5uoBPYRHV1W2mLzDc2kjmK) | [vividboooy](https://open.spotify.com/artist/2HdFwTHtgBqm7EdJsViK6F) | [GOING DOWN!!!](https://open.spotify.com/album/4h6TRJcQvd4BL20VcHTEfT) | 2:10 | 2024-09-24 | 2024-10-02 |
 | [GOING HOME \(feat\. 11\)](https://open.spotify.com/track/3TJM9eGuE0YYXI0cQoTWSx) | [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P), [11](https://open.spotify.com/artist/1yK0tKkb6EubWXf6FMC1kV) | [GOING HOME \(feat\. 11\)](https://open.spotify.com/album/66R5I9QxSFxK1HObgZ9XI9) | 3:09 | 2024-10-31 | 2024-12-13 |
 | [GOLD](https://open.spotify.com/track/6GrSaB2ngxHQiLYdMb2FfZ) | [BBY NABE](https://open.spotify.com/artist/4zb2mUkgFg9NGwAJnzlS8B) | [GOLD](https://open.spotify.com/album/0skz2bNIMQdutR0R4xTIMg) | 3:11 | 2025-11-25 | 2025-12-10 |

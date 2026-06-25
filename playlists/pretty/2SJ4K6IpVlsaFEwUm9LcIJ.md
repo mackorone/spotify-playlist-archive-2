@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: may\-june 2026 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 24,351 likes - 35 songs - 2 hr 9 min
+[margeaux](https://open.spotify.com/user/1220511975) - 24,356 likes - 37 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,5 +43,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 33 | [Under my bed](https://open.spotify.com/track/52Sd0lu6TTVMDhwQqjZcD6) | [Operelly](https://open.spotify.com/artist/7b5ONZHG45xm3qlyJqlz63) | [\*FLUTTERS AWAY\*](https://open.spotify.com/album/5grjXewIYwJzeegUrLSsyx) | 2:52 |
 | 34 | [Dozen Roses](https://open.spotify.com/track/1QM2VOPPfzGJJJ2Hgqo90m) | [Thomas Dollbaum](https://open.spotify.com/artist/3TBOFVWrSRdDxKjNxBdlKZ) | [Birds of Paradise](https://open.spotify.com/album/7Lib6qYBmpQCGyh1W8L4S3) | 5:24 |
 | 35 | [May Our Enimies Never Find Happiness \- The Boats Remix](https://open.spotify.com/track/2q1gES6bTM02kqxvYXqVTH) | [The Boats](https://open.spotify.com/artist/12LR7O3LG2tezoEBx1yhRa) | [Our Small Ideas](https://open.spotify.com/album/7m0WhwnsbyXCbID6NiiGzV) | 3:35 |
+| 36 | [Adrenaline](https://open.spotify.com/track/3aOfynJVvUXioiO0gkzfPX) | [GB](https://open.spotify.com/artist/4YMJGenzGCHYz30PRdTJP8) | [Adrenaline](https://open.spotify.com/album/3Eauvo8fZ7Hb5HpNwrDE1P) | 4:01 |
+| 37 | [Autosmile](https://open.spotify.com/track/74wiS51Xagi78GpoStA7hr) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Autosmile](https://open.spotify.com/album/0TkVOCI5fcQPt6mbFT2jil) | 6:39 |
 
-Snapshot ID: `AAAOcQshfR68PI4pTd19woSShsRDgzdY`
+Snapshot ID: `AAAOc2qX7iJiCVxHVGbiOkO798OfuYPt`

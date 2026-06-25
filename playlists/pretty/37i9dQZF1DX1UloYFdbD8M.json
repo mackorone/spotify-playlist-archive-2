@@ -1,13 +1,29 @@
 {
-  "description": "Super Cool Indie Tracks from Gods Own Country\nCover: K.S.Harisankar, Salim Sulaiman",
-  "num_followers": 40237,
+  "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Gowry Lekshmi",
+  "num_followers": 40251,
   "original_name": "Malayalam Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALXbkDhAWoSvRhz27Ua4thWRpfZ1",
+  "snapshot_id": "AAAAAHOvT/AIsbrI/z9SX5DdnB6HRV+3",
   "tracks": [
+    {
+      "added_at": "2026-06-24 11:39:34",
+      "album": {
+        "name": "Pratheekshakal",
+        "url": "https://open.spotify.com/album/6ousBdz2ouSwrWZGuuOGAQ"
+      },
+      "artists": [
+        {
+          "name": "Gowry Lekshmi",
+          "url": "https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Pratheekshakal",
+      "url": "https://open.spotify.com/track/23P2vTIEwxRZAbqLKkLLNW"
+    },
     {
       "added_at": "2026-01-16 09:26:59",
       "album": {
@@ -179,6 +195,30 @@
       "duration_ms": 166153,
       "name": "Ravil Melle",
       "url": "https://open.spotify.com/track/5lBRUGwkC8irqHyIKQRkF9"
+    },
+    {
+      "added_at": "2026-06-24 11:39:34",
+      "album": {
+        "name": "Meenangadi",
+        "url": "https://open.spotify.com/album/3bWRGmICUICqqcaArNq7kc"
+      },
+      "artists": [
+        {
+          "name": "DeXterDuke",
+          "url": "https://open.spotify.com/artist/7pgCk3NAxxOTwBPm2dmZOa"
+        },
+        {
+          "name": "Akhil Jifroom",
+          "url": "https://open.spotify.com/artist/75plEvjt52hf70SHFUfEQs"
+        },
+        {
+          "name": "Kid TwisTer",
+          "url": "https://open.spotify.com/artist/4dqz9abbk7xY7hB6Re1bR7"
+        }
+      ],
+      "duration_ms": 214910,
+      "name": "Meenangadi",
+      "url": "https://open.spotify.com/track/00yANyBR41gfG4r92pBu8I"
     },
     {
       "added_at": "2026-06-19 04:48:37",

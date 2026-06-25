@@ -1,29 +1,13 @@
 {
   "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 551968,
+  "num_followers": 552042,
   "original_name": "This Is Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajh7AAAAAADW8le9eVELfo1Ki+5Emqum",
+  "snapshot_id": "ajnMgAAAAABqjsycA6ZKPKPkPpM0pbG7",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jenni",
-        "url": "https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 226950,
-      "name": "Con \u00c9l",
-      "url": "https://open.spotify.com/track/7aCLtSlkFRMiPycFEEhLFA"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 186333,
       "name": "De Contrabando",
       "url": "https://open.spotify.com/track/3qIyYcE3nwAPOlXP6SSGPg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jenni",
+        "url": "https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 226950,
+      "name": "Con \u00c9l",
+      "url": "https://open.spotify.com/track/7aCLtSlkFRMiPycFEEhLFA"
     },
     {
       "added_at": null,

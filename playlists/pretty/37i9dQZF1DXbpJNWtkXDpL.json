@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de la m\u00fasica en M\u00e9xico en compa\u00f1\u00eda de iza tkm",
-  "num_followers": 92668,
+  "num_followers": 92756,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -403,18 +403,22 @@
     {
       "added_at": "2026-06-22 17:58:29",
       "album": {
-        "name": "HOSHI",
-        "url": "https://open.spotify.com/album/3ZryHVPBurDqxS84K7QXaT"
+        "name": "ME VEIA BIEN",
+        "url": "https://open.spotify.com/album/0L5kvaZLgtWyZmpRbQ8rY4"
       },
       "artists": [
         {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+          "name": "Malo",
+          "url": "https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb"
+        },
+        {
+          "name": "Novato El Flow",
+          "url": "https://open.spotify.com/artist/0DZQelzQbikGV45xMMPMjP"
         }
       ],
-      "duration_ms": 178500,
-      "name": "la estrella que quer\u00eda brillar",
-      "url": "https://open.spotify.com/track/2gTOLXAJl7RqVJwFvlQWQU"
+      "duration_ms": 148051,
+      "name": "ME VEIA BIEN",
+      "url": "https://open.spotify.com/track/7wGR4HVmHjH6ezMxp7h4SS"
     },
     {
       "added_at": "2026-06-22 17:58:29",
@@ -439,22 +443,18 @@
     {
       "added_at": "2026-06-22 17:58:29",
       "album": {
-        "name": "ME VEIA BIEN",
-        "url": "https://open.spotify.com/album/0L5kvaZLgtWyZmpRbQ8rY4"
+        "name": "HOSHI",
+        "url": "https://open.spotify.com/album/3ZryHVPBurDqxS84K7QXaT"
       },
       "artists": [
         {
-          "name": "Malo",
-          "url": "https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb"
-        },
-        {
-          "name": "Novato El Flow",
-          "url": "https://open.spotify.com/artist/0DZQelzQbikGV45xMMPMjP"
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 148051,
-      "name": "ME VEIA BIEN",
-      "url": "https://open.spotify.com/track/7wGR4HVmHjH6ezMxp7h4SS"
+      "duration_ms": 178500,
+      "name": "la estrella que quer\u00eda brillar",
+      "url": "https://open.spotify.com/track/2gTOLXAJl7RqVJwFvlQWQU"
     },
     {
       "added_at": "2026-06-22 17:58:29",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-06-22 17:58:29",
       "album": {
-        "name": "i Music Listen",
-        "url": "https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ"
-      },
-      "artists": [
-        {
-          "name": "iza tkm",
-          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
-        }
-      ],
-      "duration_ms": 198545,
-      "name": "t escucho al pensar",
-      "url": "https://open.spotify.com/track/2iKDc7w7jeZwjfjYsJZz4x"
-    },
-    {
-      "added_at": "2026-06-22 17:58:29",
-      "album": {
         "name": "Victoria Miller",
         "url": "https://open.spotify.com/album/15fTPXkZZVfc7YqPxHBFbt"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 181080,
       "name": "Victoria Miller",
       "url": "https://open.spotify.com/track/1A4pMPkvusJScnQ9HsqAv0"
+    },
+    {
+      "added_at": "2026-06-22 17:58:29",
+      "album": {
+        "name": "i Music Listen",
+        "url": "https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ"
+      },
+      "artists": [
+        {
+          "name": "iza tkm",
+          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
+        }
+      ],
+      "duration_ms": 198545,
+      "name": "t escucho al pensar",
+      "url": "https://open.spotify.com/track/2iKDc7w7jeZwjfjYsJZz4x"
     },
     {
       "added_at": "2026-06-22 17:58:29",
@@ -583,6 +583,22 @@
     {
       "added_at": "2026-06-22 17:58:29",
       "album": {
+        "name": "pa que",
+        "url": "https://open.spotify.com/album/54zMR9xpK3l6DHhjitr4Qd"
+      },
+      "artists": [
+        {
+          "name": "bpuntito",
+          "url": "https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u"
+        }
+      ],
+      "duration_ms": 196946,
+      "name": "pa que",
+      "url": "https://open.spotify.com/track/5smAUZtCCJCcHv2qyknRgt"
+    },
+    {
+      "added_at": "2026-06-22 17:58:29",
+      "album": {
         "name": "Llegan Y Se Van",
         "url": "https://open.spotify.com/album/06Wlr8IqqlIz3v0f2XfHs7"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 166808,
       "name": "le hablo a la luna de ti",
       "url": "https://open.spotify.com/track/2F2qal7yD2QMzOxVFKAd1e"
-    },
-    {
-      "added_at": "2026-06-22 17:58:29",
-      "album": {
-        "name": "pa que",
-        "url": "https://open.spotify.com/album/54zMR9xpK3l6DHhjitr4Qd"
-      },
-      "artists": [
-        {
-          "name": "bpuntito",
-          "url": "https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u"
-        }
-      ],
-      "duration_ms": 196946,
-      "name": "pa que",
-      "url": "https://open.spotify.com/track/5smAUZtCCJCcHv2qyknRgt"
     },
     {
       "added_at": "2026-06-22 17:58:29",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-06-22 17:58:29",
       "album": {
-        "name": "mirar adentro",
-        "url": "https://open.spotify.com/album/5crFVDguekt65vFoLlKgew"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 209382,
-      "name": "mirar adentro",
-      "url": "https://open.spotify.com/track/4D58UqIzqL8BXM0MDRYJMq"
-    },
-    {
-      "added_at": "2026-06-22 17:58:29",
-      "album": {
         "name": "PEKORITAS VOL.1",
         "url": "https://open.spotify.com/album/62NyBs8dQmOtKYZUmdex6A"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 147453,
       "name": "SOLA",
       "url": "https://open.spotify.com/track/7Em8Ee0KGibwIr5smqk1TJ"
+    },
+    {
+      "added_at": "2026-06-22 17:58:29",
+      "album": {
+        "name": "mirar adentro",
+        "url": "https://open.spotify.com/album/5crFVDguekt65vFoLlKgew"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 209382,
+      "name": "mirar adentro",
+      "url": "https://open.spotify.com/track/4D58UqIzqL8BXM0MDRYJMq"
     },
     {
       "added_at": "2026-06-22 17:58:29",
@@ -835,6 +835,22 @@
     {
       "added_at": "2026-06-22 17:58:29",
       "album": {
+        "name": "puede ser que ma\u00f1ana",
+        "url": "https://open.spotify.com/album/72dQTdU4eSEjraSXzXNc9A"
+      },
+      "artists": [
+        {
+          "name": "FREEKIDS",
+          "url": "https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j"
+        }
+      ],
+      "duration_ms": 170204,
+      "name": "puede ser que ma\u00f1ana",
+      "url": "https://open.spotify.com/track/04JyEAMKSbbaYePxUxl2ko"
+    },
+    {
+      "added_at": "2026-06-22 17:58:29",
+      "album": {
         "name": "Tempestad",
         "url": "https://open.spotify.com/album/3ROgzkUpea1ABUTLIVgtuE"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 147586,
       "name": "No puedo estar aqu\u00ed (feat. iza tkm)",
       "url": "https://open.spotify.com/track/6XIe5UZSwsdgtuSTLuWlBP"
-    },
-    {
-      "added_at": "2026-06-22 17:58:29",
-      "album": {
-        "name": "puede ser que ma\u00f1ana",
-        "url": "https://open.spotify.com/album/72dQTdU4eSEjraSXzXNc9A"
-      },
-      "artists": [
-        {
-          "name": "FREEKIDS",
-          "url": "https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j"
-        }
-      ],
-      "duration_ms": 170204,
-      "name": "puede ser que ma\u00f1ana",
-      "url": "https://open.spotify.com/track/04JyEAMKSbbaYePxUxl2ko"
     },
     {
       "added_at": "2026-06-22 17:58:29",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-06-22 17:58:29",
       "album": {
-        "name": "ati!",
-        "url": "https://open.spotify.com/album/7gXPJM8yYWrp9kqZZasOvc"
-      },
-      "artists": [
-        {
-          "name": "Plastikboy",
-          "url": "https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp"
-        }
-      ],
-      "duration_ms": 148363,
-      "name": "ati!",
-      "url": "https://open.spotify.com/track/0k4pnNwerwfq20JsDqVjqF"
-    },
-    {
-      "added_at": "2026-06-22 17:58:29",
-      "album": {
         "name": "Ping\u00fcinos",
         "url": "https://open.spotify.com/album/3V79Llwk7Lb9EUbsYd3wiG"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 196629,
       "name": "Ping\u00fcinos",
       "url": "https://open.spotify.com/track/6vmzWzScqJ70yumSCoNa3y"
+    },
+    {
+      "added_at": "2026-06-22 17:58:29",
+      "album": {
+        "name": "ati!",
+        "url": "https://open.spotify.com/album/7gXPJM8yYWrp9kqZZasOvc"
+      },
+      "artists": [
+        {
+          "name": "Plastikboy",
+          "url": "https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp"
+        }
+      ],
+      "duration_ms": 148363,
+      "name": "ati!",
+      "url": "https://open.spotify.com/track/0k4pnNwerwfq20JsDqVjqF"
     },
     {
       "added_at": "2026-06-22 17:58:29",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-06-22 17:58:29",
       "album": {
-        "name": "Trampa",
-        "url": "https://open.spotify.com/album/23TlzdTObc4hxFW0QoOO5T"
-      },
-      "artists": [
-        {
-          "name": "Fabio Capri",
-          "url": "https://open.spotify.com/artist/1SvS3C2cttLfpWzIIQiPAq"
-        }
-      ],
-      "duration_ms": 152928,
-      "name": "Trampa",
-      "url": "https://open.spotify.com/track/7obwVq6dHi4WpWsdxvxnjF"
-    },
-    {
-      "added_at": "2026-06-22 17:58:29",
-      "album": {
         "name": "La Culpable",
         "url": "https://open.spotify.com/album/5XMBK8fMW1S1oto6Qmyl6R"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 237005,
       "name": "La Culpable",
       "url": "https://open.spotify.com/track/3LcfsnsxE0AsUtry81FxsU"
+    },
+    {
+      "added_at": "2026-06-22 17:58:29",
+      "album": {
+        "name": "Trampa",
+        "url": "https://open.spotify.com/album/23TlzdTObc4hxFW0QoOO5T"
+      },
+      "artists": [
+        {
+          "name": "Fabio Capri",
+          "url": "https://open.spotify.com/artist/1SvS3C2cttLfpWzIIQiPAq"
+        }
+      ],
+      "duration_ms": 152928,
+      "name": "Trampa",
+      "url": "https://open.spotify.com/track/7obwVq6dHi4WpWsdxvxnjF"
     },
     {
       "added_at": "2026-06-22 17:58:29",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-06-22 17:58:29",
       "album": {
-        "name": "MONTAGEM BALENCI?",
-        "url": "https://open.spotify.com/album/21il8xM3gaZI08FHgTChWy"
-      },
-      "artists": [
-        {
-          "name": "BOWSY",
-          "url": "https://open.spotify.com/artist/6sdYo8XBiJTetz2XypUkCn"
-        }
-      ],
-      "duration_ms": 96471,
-      "name": "MONTAGEM BALENCI?",
-      "url": "https://open.spotify.com/track/6onwIzriGdWf16W2aDY2VE"
-    },
-    {
-      "added_at": "2026-06-22 17:58:29",
-      "album": {
         "name": "TUTSI POP",
         "url": "https://open.spotify.com/album/3vqJfqqfMdLOf8HJLeLGbJ"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 202823,
       "name": "TUTSI POP",
       "url": "https://open.spotify.com/track/3sxd645fkfmfUrXQuAPkQK"
+    },
+    {
+      "added_at": "2026-06-22 17:58:29",
+      "album": {
+        "name": "MONTAGEM BALENCI?",
+        "url": "https://open.spotify.com/album/21il8xM3gaZI08FHgTChWy"
+      },
+      "artists": [
+        {
+          "name": "BOWSY",
+          "url": "https://open.spotify.com/artist/6sdYo8XBiJTetz2XypUkCn"
+        }
+      ],
+      "duration_ms": 96471,
+      "name": "MONTAGEM BALENCI?",
+      "url": "https://open.spotify.com/track/6onwIzriGdWf16W2aDY2VE"
     },
     {
       "added_at": "2026-06-22 17:58:29",

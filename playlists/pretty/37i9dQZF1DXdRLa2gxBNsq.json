@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Non Servium.",
-  "num_followers": 116274,
+  "num_followers": 116277,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,22 @@
     {
       "added_at": "2026-06-11 22:00:32",
       "album": {
+        "name": "Cicatriz en la Matrix",
+        "url": "https://open.spotify.com/album/51o67b23wyqqkYGN738zMG"
+      },
+      "artists": [
+        {
+          "name": "Lendakaris Muertos",
+          "url": "https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc"
+        }
+      ],
+      "duration_ms": 118986,
+      "name": "Tenemos a la Pasma",
+      "url": "https://open.spotify.com/track/2yGO1zOQ3psTV42DxtzF85"
+    },
+    {
+      "added_at": "2026-06-11 22:00:32",
+      "album": {
         "name": "La Historia se Repite",
         "url": "https://open.spotify.com/album/3lezYnTMMATl07wClgIcHg"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 130632,
       "name": "La Historia se Repite",
       "url": "https://open.spotify.com/track/4A2mcoje2LKC9ErsTl2vOj"
-    },
-    {
-      "added_at": "2026-06-11 22:00:32",
-      "album": {
-        "name": "Cicatriz en la Matrix",
-        "url": "https://open.spotify.com/album/51o67b23wyqqkYGN738zMG"
-      },
-      "artists": [
-        {
-          "name": "Lendakaris Muertos",
-          "url": "https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc"
-        }
-      ],
-      "duration_ms": 118986,
-      "name": "Tenemos a la Pasma",
-      "url": "https://open.spotify.com/track/2yGO1zOQ3psTV42DxtzF85"
     },
     {
       "added_at": "2026-06-11 22:00:32",
@@ -771,6 +771,22 @@
     {
       "added_at": "2026-06-11 22:00:32",
       "album": {
+        "name": "Quiero que sepas",
+        "url": "https://open.spotify.com/album/63eBCTHHIFZw0gyEapFaIz"
+      },
+      "artists": [
+        {
+          "name": "Segismundo Toxic\u00f3mano",
+          "url": "https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U"
+        }
+      ],
+      "duration_ms": 170662,
+      "name": "Quiero que sepas",
+      "url": "https://open.spotify.com/track/33Dh6Ot8qS3nC13zAopC5y"
+    },
+    {
+      "added_at": "2026-06-11 22:00:32",
+      "album": {
         "name": "La Calle Arde",
         "url": "https://open.spotify.com/album/63TDd5KeunGk8rzpaBk4kP"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 158068,
       "name": "La Calle Arde",
       "url": "https://open.spotify.com/track/6TmRbFHBRM3utbSk8epHBZ"
-    },
-    {
-      "added_at": "2026-06-11 22:00:32",
-      "album": {
-        "name": "Quiero que sepas",
-        "url": "https://open.spotify.com/album/63eBCTHHIFZw0gyEapFaIz"
-      },
-      "artists": [
-        {
-          "name": "Segismundo Toxic\u00f3mano",
-          "url": "https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U"
-        }
-      ],
-      "duration_ms": 170662,
-      "name": "Quiero que sepas",
-      "url": "https://open.spotify.com/track/33Dh6Ot8qS3nC13zAopC5y"
     },
     {
       "added_at": "2026-06-11 22:00:32",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-06-11 22:00:32",
       "album": {
-        "name": "Sin Perd\u00f3n",
-        "url": "https://open.spotify.com/album/6oZ2KJHWZCOsGF8C7K0BIA"
-      },
-      "artists": [
-        {
-          "name": "Enga\u00f1o Manifiesto",
-          "url": "https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c"
-        }
-      ],
-      "duration_ms": 190980,
-      "name": "Sin Perd\u00f3n",
-      "url": "https://open.spotify.com/track/7x0suSvlacQBTe9dPBpXzu"
-    },
-    {
-      "added_at": "2026-06-11 22:00:32",
-      "album": {
         "name": "Mi \u00fanica salida",
         "url": "https://open.spotify.com/album/2m91Eba2vl5OSLCpJejcIy"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 200168,
       "name": "Mi \u00fanica salida",
       "url": "https://open.spotify.com/track/1Iq05aiCe4fPyJXDiSsHIW"
+    },
+    {
+      "added_at": "2026-06-11 22:00:32",
+      "album": {
+        "name": "Sin Perd\u00f3n",
+        "url": "https://open.spotify.com/album/6oZ2KJHWZCOsGF8C7K0BIA"
+      },
+      "artists": [
+        {
+          "name": "Enga\u00f1o Manifiesto",
+          "url": "https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c"
+        }
+      ],
+      "duration_ms": 190980,
+      "name": "Sin Perd\u00f3n",
+      "url": "https://open.spotify.com/track/7x0suSvlacQBTe9dPBpXzu"
     },
     {
       "added_at": "2026-06-11 22:00:32",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-06-11 22:00:32",
       "album": {
-        "name": "No Olvidamos, 3 de Marzo - Single",
-        "url": "https://open.spotify.com/album/0p3A6vidvVSIaA8lXxATVE"
-      },
-      "artists": [
-        {
-          "name": "Soziedad Alkoholika",
-          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
-        }
-      ],
-      "duration_ms": 231593,
-      "name": "No Olvidamos, 3 de Marzo",
-      "url": "https://open.spotify.com/track/4l7gui5pGuOs7sHLkGqeCX"
-    },
-    {
-      "added_at": "2026-06-11 22:00:32",
-      "album": {
         "name": "Figurante",
         "url": "https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt"
       },
@@ -979,18 +963,18 @@
     {
       "added_at": "2026-06-11 22:00:32",
       "album": {
-        "name": "Antifascismo",
-        "url": "https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU"
+        "name": "No Olvidamos, 3 de Marzo - Single",
+        "url": "https://open.spotify.com/album/0p3A6vidvVSIaA8lXxATVE"
       },
       "artists": [
         {
-          "name": "Kaos Urbano",
-          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
+          "name": "Soziedad Alkoholika",
+          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
         }
       ],
-      "duration_ms": 260127,
-      "name": "Antifascismo",
-      "url": "https://open.spotify.com/track/0V945W0o8KQijRUY98x59d"
+      "duration_ms": 231593,
+      "name": "No Olvidamos, 3 de Marzo",
+      "url": "https://open.spotify.com/track/4l7gui5pGuOs7sHLkGqeCX"
     },
     {
       "added_at": "2026-06-11 22:00:32",
@@ -1011,6 +995,22 @@
     {
       "added_at": "2026-06-11 22:00:32",
       "album": {
+        "name": "Antifascismo",
+        "url": "https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU"
+      },
+      "artists": [
+        {
+          "name": "Kaos Urbano",
+          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
+        }
+      ],
+      "duration_ms": 260127,
+      "name": "Antifascismo",
+      "url": "https://open.spotify.com/track/0V945W0o8KQijRUY98x59d"
+    },
+    {
+      "added_at": "2026-06-11 22:00:32",
+      "album": {
         "name": "Ni una Sola Palabra",
         "url": "https://open.spotify.com/album/3cCGlsL0rcQXpASb4Lqeka"
       },
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-06-11 22:00:32",
       "album": {
-        "name": "Vivir la Vida",
-        "url": "https://open.spotify.com/album/21LP92m9L3r5rY8zxF3uLF"
-      },
-      "artists": [
-        {
-          "name": "Kaos Et\u00edliko",
-          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
-        }
-      ],
-      "duration_ms": 172360,
-      "name": "Vivir la Vida",
-      "url": "https://open.spotify.com/track/4CeVTya5DmyswFPaiukYJ7"
-    },
-    {
-      "added_at": "2026-06-11 22:00:32",
-      "album": {
         "name": "Rico deprimido (XX5)",
         "url": "https://open.spotify.com/album/5beaDQvsYwZFJWBYvuy50z"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 205696,
       "name": "Rico deprimido - XX5",
       "url": "https://open.spotify.com/track/5x7dsu12skCbNd5HR05ZcB"
+    },
+    {
+      "added_at": "2026-06-11 22:00:32",
+      "album": {
+        "name": "Vivir la Vida",
+        "url": "https://open.spotify.com/album/21LP92m9L3r5rY8zxF3uLF"
+      },
+      "artists": [
+        {
+          "name": "Kaos Et\u00edliko",
+          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
+        }
+      ],
+      "duration_ms": 172360,
+      "name": "Vivir la Vida",
+      "url": "https://open.spotify.com/track/4CeVTya5DmyswFPaiukYJ7"
     },
     {
       "added_at": "2026-06-11 22:00:32",
@@ -1163,6 +1163,26 @@
     {
       "added_at": "2026-06-11 22:00:32",
       "album": {
+        "name": "Ana Curra y los 13 Ap\u00f3stoles Presentan: La \u00daltima Cena de Par\u00e1lisis Permanente",
+        "url": "https://open.spotify.com/album/0COz15FUuwBr02ogUbGdJA"
+      },
+      "artists": [
+        {
+          "name": "Ana Curra",
+          "url": "https://open.spotify.com/artist/17GqenWaUzLjbkH0IKJA5m"
+        },
+        {
+          "name": "Bala",
+          "url": "https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ"
+        }
+      ],
+      "duration_ms": 189493,
+      "name": "Adictos a la Lujuria - con \u00c1nxela (Bala)",
+      "url": "https://open.spotify.com/track/36aKaIj6aD2MLkBiCTT1hZ"
+    },
+    {
+      "added_at": "2026-06-11 22:00:32",
+      "album": {
         "name": "Una y Nos Vamos (Versi\u00f3n 2024)",
         "url": "https://open.spotify.com/album/6xPQrDpm7oCRNRpJOyWkdK"
       },
@@ -1183,26 +1203,6 @@
       "duration_ms": 220942,
       "name": "Una y Nos Vamos - Versi\u00f3n 2024",
       "url": "https://open.spotify.com/track/1ojM4BgQqqAMeOVhuoSaqx"
-    },
-    {
-      "added_at": "2026-06-11 22:00:32",
-      "album": {
-        "name": "Ana Curra y los 13 Ap\u00f3stoles Presentan: La \u00daltima Cena de Par\u00e1lisis Permanente",
-        "url": "https://open.spotify.com/album/0COz15FUuwBr02ogUbGdJA"
-      },
-      "artists": [
-        {
-          "name": "Ana Curra",
-          "url": "https://open.spotify.com/artist/17GqenWaUzLjbkH0IKJA5m"
-        },
-        {
-          "name": "Bala",
-          "url": "https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ"
-        }
-      ],
-      "duration_ms": 189493,
-      "name": "Adictos a la Lujuria - con \u00c1nxela (Bala)",
-      "url": "https://open.spotify.com/track/36aKaIj6aD2MLkBiCTT1hZ"
     },
     {
       "added_at": "2026-06-11 22:00:32",
@@ -1318,10 +1318,6 @@
         {
           "name": "Dr. Gayolas",
           "url": "https://open.spotify.com/artist/4vCE8m5O8lGQXiyggF06BC"
-        },
-        {
-          "name": "Puta Espa\u00f1a Musical",
-          "url": "https://open.spotify.com/artist/7D94wSYN0Y9NrmXgqzckBq"
         }
       ],
       "duration_ms": 223181,

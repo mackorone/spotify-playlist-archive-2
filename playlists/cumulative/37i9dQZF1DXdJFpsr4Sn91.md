@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. 🌪️
 
-1,233 songs - 2 day 13 hr 40 min
+1,234 songs - 2 day 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -545,6 +545,7 @@
 | [Leave Me Alone](https://open.spotify.com/track/1T38okUZknebljidMNSvfJ) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Leave Me Alone](https://open.spotify.com/album/3BKy2tD6GZCsfYkmgWkdbq) | 2:21 | 2025-05-22 | 2025-06-06 |
 | [Leffastara](https://open.spotify.com/track/7ceplN1E5dAupsN6Muxlfr) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Leffastara](https://open.spotify.com/album/1MXiWQsS8FPDdVx4ih7DUk) | 2:38 | 2025-05-29 | 2025-07-04 |
 | [LEGENDAARINEN](https://open.spotify.com/track/3rM149r6vCiV1EwZxixAR1) | [Pasi ja Anssi](https://open.spotify.com/artist/5Ptz1xkszwS7JBksmx8gMt), [Virve Rosti](https://open.spotify.com/artist/0bdhvnpKpN6rlgQnf2VC3h), [Mikko Kilkkinen](https://open.spotify.com/artist/0CsuE56rqrXXiKg2XsDn2Q) | [LEGENDAARINEN](https://open.spotify.com/album/6ThGnl2BzocpqKJBFdggO7) | 3:29 | 2025-06-12 | 2025-06-27 |
+| [Lehmityttö](https://open.spotify.com/track/1TAKLDnzz9IdQFLu7sozWO) | [Katariina Juselius](https://open.spotify.com/artist/075DeS26KHmrP8bteg75Om) | [Lehmityttö](https://open.spotify.com/album/09GBZbGAUDnoMvUcdrI4fw) | 3:15 | 2026-06-18 |  |
 | [Leijonanruokaa](https://open.spotify.com/track/2gYKkaZDgonVODfPQBQtW3) | [Aliisa Syrjä](https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd), [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Leijonanruokaa](https://open.spotify.com/album/3pbw8Ifw6yayhXGLnc1pWj) | 3:14 | 2025-02-20 | 2025-05-16 |
 | [Leima \(feat\. Turisti\)](https://open.spotify.com/track/57Stuvnw9HYOTKsmHxk9gV) | [Jenni Vartiainen](https://open.spotify.com/artist/6PP1ZiMzBbTeRqGvhr3pV9), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [ORIGO](https://open.spotify.com/album/7bH5zo9yUlF6TXk8SpfxPt) | 2:36 | 2025-03-20 | 2025-06-13 |
 | [Lentoi](https://open.spotify.com/track/7CogTl76ZQ1amD04YAxF45) | [Davy](https://open.spotify.com/artist/2RttK43esYFkU4hD5BU0AT) | [Lentoi](https://open.spotify.com/album/4mg96xe915Svxv7f1h3pB9) | 2:14 | 2024-11-07 | 2024-11-29 |
@@ -842,7 +843,7 @@
 | [Radio päälle](https://open.spotify.com/track/3BnuOAB4vQY2v7wB2ObAea) | [helmi marleena](https://open.spotify.com/artist/7J1WgHwoB353m2teuaxwgK) | [Radio päälle](https://open.spotify.com/album/39ixk01uXbUgwHANdeY0kq) | 2:52 | 2026-01-09 | 2026-05-29 |
 | [Rakasta mua](https://open.spotify.com/track/5dgrnNQ9mfNJ4Pgj602VeW) | [Kasmir](https://open.spotify.com/artist/2O6Va98fudK0E8rtu7Nm2Z) | [Rakasta mua](https://open.spotify.com/album/7vwXUsKguvh1TzScdVFqUv) | 3:32 | 2024-10-24 | 2024-11-15 |
 | [Rakasta mua, rakasta mua, rakasta](https://open.spotify.com/track/6bALO8Bm07OPy15XYp6Ojb) | [Sara Siipola](https://open.spotify.com/artist/0cv9YYFgE0vLVgTjMrOZup) | [Rakasta mua, rakasta mua, rakasta](https://open.spotify.com/album/07CBnYfIo4ry5oiumvV81z) | 3:04 | 2024-09-05 | 2024-11-08 |
-| [Rakastan teitä kaikkia](https://open.spotify.com/track/6HVdu7bH9m4IYcxnEY8Htk) | [Olavi Uusivirta](https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV) | [Rakastan teitä kaikkia](https://open.spotify.com/album/07zrgkpshBt5YmV10Hwl9o) | 4:02 | 2026-04-23 |  |
+| [Rakastan teitä kaikkia](https://open.spotify.com/track/6HVdu7bH9m4IYcxnEY8Htk) | [Olavi Uusivirta](https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV) | [Rakastan teitä kaikkia](https://open.spotify.com/album/07zrgkpshBt5YmV10Hwl9o) | 4:02 | 2026-04-23 | 2026-06-25 |
 | [rakastetuks](https://open.spotify.com/track/5hyeTEEoJq7V7B9SHr2NIc) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra) | [rakastetuks](https://open.spotify.com/album/290UH7vRSjEj0jIP2CVr6d) | 2:21 | 2024-12-12 | 2025-01-10 |
 | [Rakastumisen oireet](https://open.spotify.com/track/7t0l5dhhyXHdSscnNTwPuR) | [Elias Kaskinen](https://open.spotify.com/artist/2ema1DJVrVL8ZzcNF2hRcj) | [Rakastumisen oireet](https://open.spotify.com/album/2cM5W1rwV48w6sdpp68RgA) | 2:38 | 2026-02-05 |  |
 | [Rakastut muihin tyttöihin](https://open.spotify.com/track/73I8G01m1fv2RWx6sR9GZW) | [Vesta](https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q) | [Rakastut muihin tyttöihin](https://open.spotify.com/album/1OfUXX1PZtEi3AbT22bTXc) | 2:15 | 2024-10-24 | 2024-12-03 |

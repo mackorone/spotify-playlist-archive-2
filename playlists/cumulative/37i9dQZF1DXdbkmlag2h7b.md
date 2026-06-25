@@ -4,7 +4,7 @@
 
 > Drift away with enthralling instrumentals.
 
-453 songs - 23 hr 5 min
+454 songs - 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -431,6 +431,7 @@
 | [Virina](https://open.spotify.com/track/4AvXmKOak1EF3SWbu6vC7B) | [Joseph Alphane](https://open.spotify.com/artist/65IJPn3wYi35Qpov4MXcFr) | [Virina](https://open.spotify.com/album/1VKOm8qoInTSBefoA0M2AX) | 3:17 | 2025-09-24 |  |
 | [Vortex](https://open.spotify.com/track/3S2ZHKem1HCE7bTAebPEIv) | [Distant Melodies](https://open.spotify.com/artist/3vgkgrvvpY5ojN6YIlwpzc) | [Vortex](https://open.spotify.com/album/0GjhRCo8wLlPFzXaFdPMNK) | 2:51 | 2025-09-24 | 2026-04-16 |
 | [Vortex Trance](https://open.spotify.com/track/6bl76Eco7CEr7JJdhmdqoF) | [Just Fillin' Time](https://open.spotify.com/artist/3kpfRZ9ygubWr0Ydx9pARu) | [Vortex Trance](https://open.spotify.com/album/70sKQPPEhenDxhxPmC6QGJ) | 2:34 | 2024-05-11 | 2026-04-16 |
+| [Waning Moon](https://open.spotify.com/track/15UYwSZ7GbuLKAc0I0sXll) | [CMF](https://open.spotify.com/artist/4chgaW0MxXKKwtYvrkPCfn) | [If We're Apart, I’m Somewhere Missing You](https://open.spotify.com/album/48R1rKuzDjPYMsI8VxCfAL) | 5:05 | 2026-06-24 |  |
 | [Waterfalls](https://open.spotify.com/track/5ZmtBofitcnMfYxJgHrKtO) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Waterfalls](https://open.spotify.com/album/5oyxhOO2eBysNT7K5cZIvf) | 3:25 | 2025-03-05 | 2026-05-14 |
 | [Watermelon Well](https://open.spotify.com/track/4P0VaKvN6XffglDI00Kxr3) | [Ben Seretan](https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa), [John Thayer](https://open.spotify.com/artist/0epYBMvUpoUYstNjLNHL4k) | [Watermelon Well](https://open.spotify.com/album/0nNsXUIdgSoz2kVRbOyRDL) | 3:41 | 2026-04-15 |  |
 | [Wavelength](https://open.spotify.com/track/3CIUwqQJUKSRJHvnH5RmEI) | [Jack Allenson](https://open.spotify.com/artist/3xmdKBMDTE4t48Il54UmBb) | [Wavelength](https://open.spotify.com/album/5yGLy9sbGiMH27T0YHjjH1) | 3:12 | 2025-11-27 |  |

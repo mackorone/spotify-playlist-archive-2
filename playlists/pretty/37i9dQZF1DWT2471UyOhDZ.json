@@ -1,6 +1,6 @@
 {
   "description": "A hand-picked selection for an extraordinary palette. Cover: Julia Jacklin",
-  "num_followers": 93627,
+  "num_followers": 93621,
   "original_name": "The Listening Post",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,22 @@
     {
       "added_at": "2026-06-18 23:00:52",
       "album": {
+        "name": "Anything He Was",
+        "url": "https://open.spotify.com/album/2FUew1tmYs8QW7YOmiZRDV"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "duration_ms": 239480,
+      "name": "Anything He Was",
+      "url": "https://open.spotify.com/track/5vtMCt0sWVxCbsTUnPyCTh"
+    },
+    {
+      "added_at": "2026-06-18 23:00:52",
+      "album": {
         "name": "The Cosmic Selector Vol. 1",
         "url": "https://open.spotify.com/album/6lpG635tVIMn2WAN2QG9Sp"
       },
@@ -227,22 +243,6 @@
     {
       "added_at": "2026-06-18 23:00:52",
       "album": {
-        "name": "Anything He Was",
-        "url": "https://open.spotify.com/album/2FUew1tmYs8QW7YOmiZRDV"
-      },
-      "artists": [
-        {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
-        }
-      ],
-      "duration_ms": 239480,
-      "name": "Anything He Was",
-      "url": "https://open.spotify.com/track/5vtMCt0sWVxCbsTUnPyCTh"
-    },
-    {
-      "added_at": "2026-06-18 23:00:52",
-      "album": {
         "name": "Everybody Scream",
         "url": "https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu"
       },
@@ -255,6 +255,22 @@
       "duration_ms": 244500,
       "name": "Everybody Scream",
       "url": "https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW"
+    },
+    {
+      "added_at": "2026-06-18 23:00:52",
+      "album": {
+        "name": "Tunnels",
+        "url": "https://open.spotify.com/album/0tf2qpHEEELAYR6LKsPjuR"
+      },
+      "artists": [
+        {
+          "name": "Finn Wolfhard",
+          "url": "https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG"
+        }
+      ],
+      "duration_ms": 168265,
+      "name": "Tunnels",
+      "url": "https://open.spotify.com/track/6YPCE9MLZegYj9mV03RXU3"
     },
     {
       "added_at": "2026-06-18 23:00:52",
@@ -283,22 +299,6 @@
       "duration_ms": 266759,
       "name": "Puppet - Taken From Peaky Blinders: The Immortal Man (Soundtrack from the Netflix Film)",
       "url": "https://open.spotify.com/track/7dtX124bngqv8RPPccWYUC"
-    },
-    {
-      "added_at": "2026-06-18 23:00:52",
-      "album": {
-        "name": "Tunnels",
-        "url": "https://open.spotify.com/album/0tf2qpHEEELAYR6LKsPjuR"
-      },
-      "artists": [
-        {
-          "name": "Finn Wolfhard",
-          "url": "https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG"
-        }
-      ],
-      "duration_ms": 168265,
-      "name": "Tunnels",
-      "url": "https://open.spotify.com/track/6YPCE9MLZegYj9mV03RXU3"
     },
     {
       "added_at": "2026-06-18 23:00:52",
@@ -503,6 +503,22 @@
     {
       "added_at": "2026-06-18 23:00:52",
       "album": {
+        "name": "Guitar",
+        "url": "https://open.spotify.com/album/2T7O7QJnesN3l3iPX1NAZY"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 182360,
+      "name": "Rock And Roll",
+      "url": "https://open.spotify.com/track/58yz3lbCHxj18jsbwkQEyz"
+    },
+    {
+      "added_at": "2026-06-18 23:00:52",
+      "album": {
         "name": "Emotionally Unavailable",
         "url": "https://open.spotify.com/album/0DdYnNu0u3iFfbLf0UxlHC"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 272196,
       "name": "Warning",
       "url": "https://open.spotify.com/track/0RVh6eHyE6wxV0MSl3KYep"
-    },
-    {
-      "added_at": "2026-06-18 23:00:52",
-      "album": {
-        "name": "Guitar",
-        "url": "https://open.spotify.com/album/2T7O7QJnesN3l3iPX1NAZY"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 182360,
-      "name": "Rock And Roll",
-      "url": "https://open.spotify.com/track/58yz3lbCHxj18jsbwkQEyz"
     },
     {
       "added_at": "2026-06-18 23:00:52",
@@ -599,6 +599,22 @@
       "duration_ms": 226077,
       "name": "Love Story",
       "url": "https://open.spotify.com/track/6NZzRwgpQAuKWy8N9OdZpY"
+    },
+    {
+      "added_at": "2026-06-18 23:00:52",
+      "album": {
+        "name": "Cap In Hand",
+        "url": "https://open.spotify.com/album/1zy5MTDu9hdJJZFFJocUV5"
+      },
+      "artists": [
+        {
+          "name": "Eels",
+          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
+        }
+      ],
+      "duration_ms": 212760,
+      "name": "Cap In Hand",
+      "url": "https://open.spotify.com/track/7FZQ2rD9dTDt8GY3zJostK"
     },
     {
       "added_at": "2026-06-18 23:00:52",
@@ -683,22 +699,6 @@
     {
       "added_at": "2026-06-18 23:00:52",
       "album": {
-        "name": "Cap In Hand",
-        "url": "https://open.spotify.com/album/1zy5MTDu9hdJJZFFJocUV5"
-      },
-      "artists": [
-        {
-          "name": "Eels",
-          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
-        }
-      ],
-      "duration_ms": 212760,
-      "name": "Cap In Hand",
-      "url": "https://open.spotify.com/track/7FZQ2rD9dTDt8GY3zJostK"
-    },
-    {
-      "added_at": "2026-06-18 23:00:52",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/5mPkilFOM7WabqNcBkN8ZI"
       },
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-06-18 23:00:52",
       "album": {
-        "name": "Star",
-        "url": "https://open.spotify.com/album/75az8Y4wNKLh8PpMz6h4zF"
-      },
-      "artists": [
-        {
-          "name": "Iceage",
-          "url": "https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU"
-        }
-      ],
-      "duration_ms": 205274,
-      "name": "Star",
-      "url": "https://open.spotify.com/track/3PdE19PCcon8iVW9KXtRWl"
-    },
-    {
-      "added_at": "2026-06-18 23:00:52",
-      "album": {
         "name": "Dog Eared",
         "url": "https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi"
       },
@@ -763,6 +747,22 @@
     {
       "added_at": "2026-06-18 23:00:52",
       "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/75az8Y4wNKLh8PpMz6h4zF"
+      },
+      "artists": [
+        {
+          "name": "Iceage",
+          "url": "https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU"
+        }
+      ],
+      "duration_ms": 205274,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/3PdE19PCcon8iVW9KXtRWl"
+    },
+    {
+      "added_at": "2026-06-18 23:00:52",
+      "album": {
         "name": "Taxes",
         "url": "https://open.spotify.com/album/7uY2QygHF2ZNHbb0lxRadE"
       },
@@ -775,6 +775,22 @@
       "duration_ms": 197661,
       "name": "Taxes",
       "url": "https://open.spotify.com/track/7r9BUOSnekEjrkMhmxD6Ae"
+    },
+    {
+      "added_at": "2026-06-18 23:00:52",
+      "album": {
+        "name": "Spin",
+        "url": "https://open.spotify.com/album/5KX0Uj86kvTpEOMyEFgw8d"
+      },
+      "artists": [
+        {
+          "name": "Johnny Marr",
+          "url": "https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS"
+        }
+      ],
+      "duration_ms": 230866,
+      "name": "Spin",
+      "url": "https://open.spotify.com/track/7u4ifZOfedfYY0LQABsXzx"
     },
     {
       "added_at": "2026-06-18 23:00:52",
@@ -811,18 +827,18 @@
     {
       "added_at": "2026-06-18 23:00:52",
       "album": {
-        "name": "Spin",
-        "url": "https://open.spotify.com/album/5KX0Uj86kvTpEOMyEFgw8d"
+        "name": "Illinois Again",
+        "url": "https://open.spotify.com/album/46ogyvsglHfzceKTtzcbNN"
       },
       "artists": [
         {
-          "name": "Johnny Marr",
-          "url": "https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS"
+          "name": "Sorcha Richardson",
+          "url": "https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc"
         }
       ],
-      "duration_ms": 230866,
-      "name": "Spin",
-      "url": "https://open.spotify.com/track/7u4ifZOfedfYY0LQABsXzx"
+      "duration_ms": 236223,
+      "name": "Illinois Again",
+      "url": "https://open.spotify.com/track/2VjZpK6FAhMxfJwBDMBeij"
     },
     {
       "added_at": "2026-06-18 23:00:52",
@@ -839,6 +855,22 @@
       "duration_ms": 130785,
       "name": "But You Just Woke Me Up",
       "url": "https://open.spotify.com/track/3O3qS7OEH1cIFfDzzWO3ym"
+    },
+    {
+      "added_at": "2026-06-18 23:00:52",
+      "album": {
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/5bERfb2BXDKSZuQcDmDwJR"
+      },
+      "artists": [
+        {
+          "name": "Fine",
+          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
+        }
+      ],
+      "duration_ms": 143592,
+      "name": "Portal",
+      "url": "https://open.spotify.com/track/7LYCoMFe1ciXBMdwZLmvG2"
     },
     {
       "added_at": "2026-06-18 23:00:52",
@@ -863,34 +895,18 @@
     {
       "added_at": "2026-06-18 23:00:52",
       "album": {
-        "name": "Portal",
-        "url": "https://open.spotify.com/album/5bERfb2BXDKSZuQcDmDwJR"
+        "name": "Heaven Knows You're Lonely",
+        "url": "https://open.spotify.com/album/2Y98tVyg7r3FWdbEHXpI1B"
       },
       "artists": [
         {
-          "name": "Fine",
-          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
+          "name": "Dylan John Thomas",
+          "url": "https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb"
         }
       ],
-      "duration_ms": 143592,
-      "name": "Portal",
-      "url": "https://open.spotify.com/track/7LYCoMFe1ciXBMdwZLmvG2"
-    },
-    {
-      "added_at": "2026-06-18 23:00:52",
-      "album": {
-        "name": "Illinois Again",
-        "url": "https://open.spotify.com/album/46ogyvsglHfzceKTtzcbNN"
-      },
-      "artists": [
-        {
-          "name": "Sorcha Richardson",
-          "url": "https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc"
-        }
-      ],
-      "duration_ms": 236223,
-      "name": "Illinois Again",
-      "url": "https://open.spotify.com/track/2VjZpK6FAhMxfJwBDMBeij"
+      "duration_ms": 181773,
+      "name": "Heaven Knows You're Lonely",
+      "url": "https://open.spotify.com/track/5G3Qxt22dINouyLfdfvz9e"
     },
     {
       "added_at": "2026-06-18 23:00:52",
@@ -943,22 +959,6 @@
     {
       "added_at": "2026-06-18 23:00:52",
       "album": {
-        "name": "The Scythe",
-        "url": "https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW"
-      },
-      "artists": [
-        {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
-        }
-      ],
-      "duration_ms": 285240,
-      "name": "The Scythe",
-      "url": "https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw"
-    },
-    {
-      "added_at": "2026-06-18 23:00:52",
-      "album": {
         "name": "Grenadine",
         "url": "https://open.spotify.com/album/3MBqDqbQylcQWNGVkFcQvU"
       },
@@ -975,18 +975,18 @@
     {
       "added_at": "2026-06-18 23:00:52",
       "album": {
-        "name": "Heaven Knows You're Lonely",
-        "url": "https://open.spotify.com/album/2Y98tVyg7r3FWdbEHXpI1B"
+        "name": "The Scythe",
+        "url": "https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW"
       },
       "artists": [
         {
-          "name": "Dylan John Thomas",
-          "url": "https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb"
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
         }
       ],
-      "duration_ms": 181773,
-      "name": "Heaven Knows You're Lonely",
-      "url": "https://open.spotify.com/track/5G3Qxt22dINouyLfdfvz9e"
+      "duration_ms": 285240,
+      "name": "The Scythe",
+      "url": "https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw"
     },
     {
       "added_at": "2026-06-18 23:00:52",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-06-18 23:00:52",
       "album": {
-        "name": "Sliced by a Fingernail",
-        "url": "https://open.spotify.com/album/2C5iuOZxurGiklNlB2PSG1"
-      },
-      "artists": [
-        {
-          "name": "Dry Cleaning",
-          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
-        }
-      ],
-      "duration_ms": 248800,
-      "name": "Sliced by a Fingernail",
-      "url": "https://open.spotify.com/track/5gSmH3RJTOLqQwxRhzBZIg"
-    },
-    {
-      "added_at": "2026-06-18 23:00:52",
-      "album": {
         "name": "Just Can't Wait",
         "url": "https://open.spotify.com/album/5PCF0cVC5RFFW8pgn1HZah"
       },
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2026-06-18 23:00:52",
       "album": {
-        "name": "Third Side of the Moon",
-        "url": "https://open.spotify.com/album/311t5nnuS4Fo6citMUuXMB"
+        "name": "Sliced by a Fingernail",
+        "url": "https://open.spotify.com/album/2C5iuOZxurGiklNlB2PSG1"
       },
       "artists": [
         {
-          "name": "Modest Mouse",
-          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+          "name": "Dry Cleaning",
+          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
         }
       ],
-      "duration_ms": 276095,
-      "name": "Picking Dragons' Pockets",
-      "url": "https://open.spotify.com/track/1j5eedtT8HcViWk0f702gT"
+      "duration_ms": 248800,
+      "name": "Sliced by a Fingernail",
+      "url": "https://open.spotify.com/track/5gSmH3RJTOLqQwxRhzBZIg"
     },
     {
       "added_at": "2026-06-18 23:00:52",
@@ -1127,6 +1111,22 @@
       "duration_ms": 273598,
       "name": "Hold",
       "url": "https://open.spotify.com/track/7y9jNvL0e0jTu0yr4OJ7Yd"
+    },
+    {
+      "added_at": "2026-06-18 23:00:52",
+      "album": {
+        "name": "Third Side of the Moon",
+        "url": "https://open.spotify.com/album/311t5nnuS4Fo6citMUuXMB"
+      },
+      "artists": [
+        {
+          "name": "Modest Mouse",
+          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+        }
+      ],
+      "duration_ms": 276095,
+      "name": "Picking Dragons' Pockets",
+      "url": "https://open.spotify.com/track/1j5eedtT8HcViWk0f702gT"
     },
     {
       "added_at": "2026-06-18 23:00:52",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-06-18 23:00:52",
       "album": {
-        "name": "Little Black Dress",
-        "url": "https://open.spotify.com/album/2wVN511oQyf618kr0sSj9b"
-      },
-      "artists": [
-        {
-          "name": "Francis of Delirium",
-          "url": "https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif"
-        }
-      ],
-      "duration_ms": 191620,
-      "name": "Little Black Dress",
-      "url": "https://open.spotify.com/track/5lDV7OJxjzx4ln8DPZNLeR"
-    },
-    {
-      "added_at": "2026-06-18 23:00:52",
-      "album": {
         "name": "Come Over, Do Me Wrong",
         "url": "https://open.spotify.com/album/57uLR6kBn4y4a7dfo3NoN0"
       },
@@ -1283,6 +1267,22 @@
     {
       "added_at": "2026-06-18 23:00:52",
       "album": {
+        "name": "Little Black Dress",
+        "url": "https://open.spotify.com/album/2wVN511oQyf618kr0sSj9b"
+      },
+      "artists": [
+        {
+          "name": "Francis of Delirium",
+          "url": "https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif"
+        }
+      ],
+      "duration_ms": 191620,
+      "name": "Little Black Dress",
+      "url": "https://open.spotify.com/track/5lDV7OJxjzx4ln8DPZNLeR"
+    },
+    {
+      "added_at": "2026-06-18 23:00:52",
+      "album": {
         "name": "Tomorrow is Perfect",
         "url": "https://open.spotify.com/album/7gVnv19lJakKUMCTYZ7BXq"
       },
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-06-18 23:00:52",
       "album": {
-        "name": "100 Horses",
-        "url": "https://open.spotify.com/album/7H0nTLxKn6dK9Z8451o4pG"
-      },
-      "artists": [
-        {
-          "name": "Geese",
-          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
-        }
-      ],
-      "duration_ms": 226355,
-      "name": "100 Horses",
-      "url": "https://open.spotify.com/track/1bHFGVgvmhnhDKAz1FnaoB"
-    },
-    {
-      "added_at": "2026-06-18 23:00:52",
-      "album": {
         "name": "Fighting For You",
         "url": "https://open.spotify.com/album/6aUmqJropontQSpa4Elg9M"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 186325,
       "name": "Fighting For You",
       "url": "https://open.spotify.com/track/3uPHcgBPAK3wfTQHWvyUJM"
+    },
+    {
+      "added_at": "2026-06-18 23:00:52",
+      "album": {
+        "name": "100 Horses",
+        "url": "https://open.spotify.com/album/7H0nTLxKn6dK9Z8451o4pG"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "duration_ms": 226355,
+      "name": "100 Horses",
+      "url": "https://open.spotify.com/track/1bHFGVgvmhnhDKAz1FnaoB"
     },
     {
       "added_at": "2026-06-18 23:00:52",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-06-18 23:00:52",
       "album": {
-        "name": "Ode To The Glory Days",
-        "url": "https://open.spotify.com/album/40p1xMqGSRpXl11bSaO9C3"
-      },
-      "artists": [
-        {
-          "name": "Girl In The Year Above",
-          "url": "https://open.spotify.com/artist/1O7L4N5WMArmnOyDhuX5Y7"
-        }
-      ],
-      "duration_ms": 274458,
-      "name": "Ode To The Glory Days",
-      "url": "https://open.spotify.com/track/1woppfKnFQrxgLkr36Zu5I"
-    },
-    {
-      "added_at": "2026-06-18 23:00:52",
-      "album": {
         "name": "In Limerence",
         "url": "https://open.spotify.com/album/1UJb5PdzFT9C7f9fc1QxLO"
       },
@@ -1459,18 +1443,18 @@
     {
       "added_at": "2026-06-18 23:00:52",
       "album": {
-        "name": "I'll Change for You",
-        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
+        "name": "Ode To The Glory Days",
+        "url": "https://open.spotify.com/album/40p1xMqGSRpXl11bSaO9C3"
       },
       "artists": [
         {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+          "name": "Girl In The Year Above",
+          "url": "https://open.spotify.com/artist/1O7L4N5WMArmnOyDhuX5Y7"
         }
       ],
-      "duration_ms": 196426,
-      "name": "I'll Change for You",
-      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
+      "duration_ms": 274458,
+      "name": "Ode To The Glory Days",
+      "url": "https://open.spotify.com/track/1woppfKnFQrxgLkr36Zu5I"
     },
     {
       "added_at": "2026-06-18 23:00:52",
@@ -1487,6 +1471,22 @@
       "duration_ms": 219310,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/0r66U3zD7beNhmsuvcmyw2"
+    },
+    {
+      "added_at": "2026-06-18 23:00:52",
+      "album": {
+        "name": "I'll Change for You",
+        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 196426,
+      "name": "I'll Change for You",
+      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
     },
     {
       "added_at": "2026-06-18 23:00:52",
