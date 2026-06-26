@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Current indie tunes from Asia and around the world. Cover: Slow Pulp",
+  "description": "Current indie tunes from Asia and around the world. Cover: Phoebe Bridgers",
   "name": "Indie Shuffle",
   "tracks": [
     {
@@ -3221,6 +3221,24 @@
     },
     {
       "album": {
+        "name": "Baby Steps",
+        "url": "https://open.spotify.com/album/172FBTtpqNv9blWGkjgmvP"
+      },
+      "artists": [
+        {
+          "name": "Quadeca",
+          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238658,
+      "name": "Baby Steps",
+      "url": "https://open.spotify.com/track/40eANvl45mhgwEHL5pHHSn"
+    },
+    {
+      "album": {
         "name": "Daydreamer",
         "url": "https://open.spotify.com/album/4F2XqvfLTTsIlM0QR52kX7"
       },
@@ -3558,7 +3576,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 178200,
       "name": "Badlands (with Gracie Abrams)",
       "url": "https://open.spotify.com/track/47Z5J8r3LrI0gSuqxijzSg"
@@ -5676,7 +5694,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 186285,
       "name": "Boy",
       "url": "https://open.spotify.com/track/3eFUpyUIWFMSQ3RvUpxZXu"
@@ -8108,7 +8126,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 197637,
       "name": "Close to You",
       "url": "https://open.spotify.com/track/2G5ItTp6kepUVeJrsmFSbQ"
@@ -8308,7 +8326,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 241609,
       "name": "Cola",
       "url": "https://open.spotify.com/track/3B93NLC96iNgCwIW0Z4n7J"
@@ -9423,6 +9441,24 @@
     },
     {
       "album": {
+        "name": "(\u00bd) Biograph",
+        "url": "https://open.spotify.com/album/3cvo1VOztfBcc92nbS9HjZ"
+      },
+      "artists": [
+        {
+          "name": "Bhanu Marais",
+          "url": "https://open.spotify.com/artist/0lNHnWpu3fCw1Hb2y0QOSj"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "D(is)pleasing",
+      "url": "https://open.spotify.com/track/3izN9L8dmuvFz8mdaVvWEp"
+    },
+    {
+      "album": {
         "name": "Daisies",
         "url": "https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn"
       },
@@ -10108,7 +10144,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 279682,
       "name": "Days Of Us",
       "url": "https://open.spotify.com/track/5KVU59d9whwEPNrRY4WZmO"
@@ -11294,7 +11330,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 296912,
       "name": "Dogs",
       "url": "https://open.spotify.com/track/0etXcXbnJcj6xrZIWrgDnv"
@@ -12194,7 +12230,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 230573,
       "name": "Eastside Girls",
       "url": "https://open.spotify.com/track/2GmMuH5UXe9DazNasUgGgM"
@@ -14070,6 +14106,24 @@
       "duration_ms": 274229,
       "name": "Fanzine Made Of Flesh",
       "url": "https://open.spotify.com/track/2hS2ztz2o1CEd1zWCz09HM"
+    },
+    {
+      "album": {
+        "name": "11",
+        "url": "https://open.spotify.com/album/3Wpl5sQURlpSfRKkU4K8Oh"
+      },
+      "artists": [
+        {
+          "name": "eleventwelfth",
+          "url": "https://open.spotify.com/artist/2obLLc4blv37GYbFwqyE3t"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219328,
+      "name": "far away from here - ACT I : The Setup",
+      "url": "https://open.spotify.com/track/2WXIVz7W62BqMoYX0k8cm3"
     },
     {
       "album": {
@@ -16106,7 +16160,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 202196,
       "name": "Get Go",
       "url": "https://open.spotify.com/track/223hI1QE2UcD4pZLSFPt01"
@@ -17176,7 +17230,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 261306,
       "name": "Good Grief",
       "url": "https://open.spotify.com/track/6pFmi8RgLNHLB7nOan39RA"
@@ -20928,7 +20982,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 180923,
       "name": "i know u by heart",
       "url": "https://open.spotify.com/track/6jF4LqY2Ow84SyBBVpZCoY"
@@ -21702,7 +21756,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 180053,
       "name": "If I Leave",
       "url": "https://open.spotify.com/track/4eMXMUkWS4aChMfA1UO4YJ"
@@ -22164,7 +22218,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 208611,
       "name": "In the End",
       "url": "https://open.spotify.com/track/5WKguOpEwe8qpXPSz25Zqx"
@@ -23891,6 +23945,24 @@
     },
     {
       "album": {
+        "name": "Kodoku EP",
+        "url": "https://open.spotify.com/album/6eyBRckyqEPv8wxYz7FWpg"
+      },
+      "artists": [
+        {
+          "name": "Rol3ert",
+          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181836,
+      "name": "Kodoku",
+      "url": "https://open.spotify.com/track/6bOpaowQXoFxpPYAXEejSp"
+    },
+    {
+      "album": {
         "name": "HOSONO HOUSE COVERS",
         "url": "https://open.spotify.com/album/53yoYgjDvXcd4kJoqyVDEz"
       },
@@ -24206,7 +24278,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 149866,
       "name": "Last of a Dying Breed",
       "url": "https://open.spotify.com/track/1c2ArpI0RmBOk62Tf81xLI"
@@ -24843,6 +24915,24 @@
     },
     {
       "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/4ru0om77u2RfaL5imQMEVZ"
+      },
+      "artists": [
+        {
+          "name": "Pearl & The Oysters",
+          "url": "https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236640,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/3aN98BUq8ictAeeb2UshaH"
+    },
+    {
+      "album": {
         "name": "CLOSE A CHAPTER",
         "url": "https://open.spotify.com/album/6SRGAcCg2hW8infbRUF4C9"
       },
@@ -25204,7 +25294,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 178280,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/2hCM8z2UlTDQV9yXjga8Ox"
@@ -25500,6 +25590,24 @@
       "duration_ms": 200280,
       "name": "Lost",
       "url": "https://open.spotify.com/track/1mGdHXCqhbV8oXCPkY1dZk"
+    },
+    {
+      "album": {
+        "name": "Lost Boys",
+        "url": "https://open.spotify.com/album/7lJZpDWPKrfLjiY17OmwhP"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254614,
+      "name": "Lost Boys",
+      "url": "https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI"
     },
     {
       "album": {
@@ -26358,7 +26466,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 211147,
       "name": "Macram\u00e9 (ft. Mei Semones)",
       "url": "https://open.spotify.com/track/4AKMCbXYw5zXpHMAUeQ8uy"
@@ -27922,7 +28030,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 234390,
       "name": "Missing",
       "url": "https://open.spotify.com/track/1xZiJQuvH4AMNjUPrd6P2g"
@@ -27976,7 +28084,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 204778,
       "name": "Miyazaki",
       "url": "https://open.spotify.com/track/4VdqXAgfC79LeweD9qVgVZ"
@@ -28356,7 +28464,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 205080,
       "name": "More Time",
       "url": "https://open.spotify.com/track/1eFYjbLIN7ifJFiyn6uGfg"
@@ -30072,7 +30180,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 275730,
       "name": "Night Bloom",
       "url": "https://open.spotify.com/track/61e3yAb92msUp08gkryt2D"
@@ -30590,6 +30698,24 @@
       "duration_ms": 164844,
       "name": "Normal People Things",
       "url": "https://open.spotify.com/track/1vJmd8YIIAz6XQ9GHlUr5p"
+    },
+    {
+      "album": {
+        "name": "not again",
+        "url": "https://open.spotify.com/album/6aUTe5jRMNsCzONsSQSVLI"
+      },
+      "artists": [
+        {
+          "name": "mindfreakk!",
+          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264761,
+      "name": "not again",
+      "url": "https://open.spotify.com/track/6rc3jNCyKM37uZxCKTTKON"
     },
     {
       "album": {
@@ -33560,7 +33686,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 215948,
       "name": "Planting Tomatoes",
       "url": "https://open.spotify.com/track/0BuI2IX8F4HlGjIxywA09L"
@@ -35332,7 +35458,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 271838,
       "name": "Rest Of Your Life",
       "url": "https://open.spotify.com/track/5SbqZBOTw1mVo7ZVbQCgki"
@@ -35924,7 +36050,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 240486,
       "name": "Romeo",
       "url": "https://open.spotify.com/track/5wAQo2E9nq1ywCakVFgftt"
@@ -37026,7 +37152,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 156610,
       "name": "Say Yes",
       "url": "https://open.spotify.com/track/0H0gZ5S9SGT7xnURituwh4"
@@ -37626,6 +37752,24 @@
       "duration_ms": 188442,
       "name": "She Wants To Go Dancing",
       "url": "https://open.spotify.com/track/3CTBfot80XAOyuaJ1jcN5z"
+    },
+    {
+      "album": {
+        "name": "She's My Religion",
+        "url": "https://open.spotify.com/album/17iEQhSfY6US3IGhzLoEVG"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240194,
+      "name": "She's My Religion",
+      "url": "https://open.spotify.com/track/4Roi9Mr7xgXkdSjpbdgCl4"
     },
     {
       "album": {
@@ -38544,7 +38688,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 192495,
       "name": "Slow Tonight",
       "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
@@ -38706,7 +38850,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 277060,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/3bkeFShCXWdW7jntIi3z9v"
@@ -39002,7 +39146,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 271213,
       "name": "So What",
       "url": "https://open.spotify.com/track/2mr1Sm2SOzIhaEXyzpd6II"
@@ -40608,7 +40752,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 223416,
       "name": "Stranger's Funeral",
       "url": "https://open.spotify.com/track/0xsKzUbzpcqQ9kGLV1tZ16"
@@ -41148,6 +41292,24 @@
       "duration_ms": 448316,
       "name": "Sun Gazer",
       "url": "https://open.spotify.com/track/0zx1O0aW16fzAxDfua2Tow"
+    },
+    {
+      "album": {
+        "name": "Sun Has Set",
+        "url": "https://open.spotify.com/album/2YwRomMDFX0sttDNVqBrXR"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141804,
+      "name": "Sun Has Set",
+      "url": "https://open.spotify.com/track/3CnEw0mRAXVlLw36iL0mbe"
     },
     {
       "album": {
@@ -42174,7 +42336,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 234784,
       "name": "Take you away",
       "url": "https://open.spotify.com/track/6fsj3YQXCwlXbAgNgGeg6C"
@@ -43349,6 +43511,28 @@
     },
     {
       "album": {
+        "name": "The Hardest Thing",
+        "url": "https://open.spotify.com/album/2PLZ9hI8mDeub9AFbltuo2"
+      },
+      "artists": [
+        {
+          "name": "Charlie Lim",
+          "url": "https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ"
+        },
+        {
+          "name": "Tamzene",
+          "url": "https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236578,
+      "name": "The Hardest Thing",
+      "url": "https://open.spotify.com/track/1esXEYlMNJfaeO03HggvI6"
+    },
+    {
+      "album": {
         "name": "the harvest",
         "url": "https://open.spotify.com/album/0aiiC7wDEUW7fIXhd1h0HQ"
       },
@@ -43604,7 +43788,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 297787,
       "name": "The Moon Cave (feat. Asha Puthli, Bobby Womack, Dave Jolicoeur, Jalen Ngonda and Black Thought)",
       "url": "https://open.spotify.com/track/6VflG4mpZSlpKnqNRL3NO9"
@@ -45802,7 +45986,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 197213,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/3IU8gx0FlYarKKA4TOgraH"
@@ -45932,7 +46116,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 273805,
       "name": "Trying Times",
       "url": "https://open.spotify.com/track/52T8TTMESX21406wvTdQDY"
@@ -46456,7 +46640,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 207600,
       "name": "Under the Silver Moon",
       "url": "https://open.spotify.com/track/6qa9ImotbPJJ287VzSSN9X"
@@ -48848,7 +49032,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 213722,
       "name": "where's your girlfriend",
       "url": "https://open.spotify.com/track/3a660Cnhydjs5O5g0yQ1ME"
@@ -50012,7 +50196,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 234971,
       "name": "you and forever",
       "url": "https://open.spotify.com/track/7faK0eOWGbfxWeuw1inyBN"

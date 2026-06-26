@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 
 > 
 
-[CerVon Campbell](https://open.spotify.com/user/1275620579) - 523 likes - 251 songs - 13 hr 9 min
+[CerVon Campbell](https://open.spotify.com/user/1275620579) - 524 likes - 255 songs - 13 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,5 +259,9 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 | 249 | [Assassinatus Ruber](https://open.spotify.com/track/4E2MuFuLMGWTpvN3SkRwar) | [Ilay Sonoro](https://open.spotify.com/artist/3RZz4uk2brWykLANiPv4Bv) | [Assassinatus Ruber](https://open.spotify.com/album/6rbJISzJPnWbZSp8lcY5rF) | 4:39 |
 | 250 | [OSAKA GHOST](https://open.spotify.com/track/0tceQ475Sk4ZIkIqnLoJP7) | [Astro Wagon](https://open.spotify.com/artist/3GxYu9iRj6AMeIrydORMTI), [Jon Voyage](https://open.spotify.com/artist/1kJFnDZoyYXmMU7DIMktWN) | [OSAKA GHOST](https://open.spotify.com/album/2acZVzl7GZlIw1sbbTcAIC) | 2:25 |
 | 251 | [Fire](https://open.spotify.com/track/6s9qYXqxPCV2x2EJglACvd) | [The Steel](https://open.spotify.com/artist/0o8mtfGFaxEYBF5TtoVOGY) | [The Steel II](https://open.spotify.com/album/5CelAdbDkCINozP22sFgEd) | 4:04 |
+| 252 | [DFRNT](https://open.spotify.com/track/62YDjUHeTCsC5ONLBui5o8) | [ALWYSPHIL](https://open.spotify.com/artist/7FJXm7WP29Q9dfYCcBRMXg) | [DFRNT](https://open.spotify.com/album/6ne96XT0Dk84sUeYV6J24H) | 2:36 |
+| 253 | [3P3](https://open.spotify.com/track/6IHH0LmthFLpXLAbrYkUlw) | [Bastyann](https://open.spotify.com/artist/34Ufkh4lTUvCJpGspVsd8d), [Danche](https://open.spotify.com/artist/3dQx0MvP6u0nA6SfY38V5j), [Danncray](https://open.spotify.com/artist/5VD7tAqlMjgCRCBhs3xjTZ) | [RITUALES](https://open.spotify.com/album/7IBdexOx4VYxhfGr9X5QuR) | 2:19 |
+| 254 | [Let them](https://open.spotify.com/track/6LH4XRb1VsDfqb2KvznJwG) | [Merla](https://open.spotify.com/artist/1GgYEBhQle66sXg6jOdA8K) | [Let them](https://open.spotify.com/album/5S8Yuc25oFb8PAZNm2USLr) | 2:52 |
+| 255 | [You're not alone](https://open.spotify.com/track/1hXq4ig3y9UmN6DHFaTaGu) | [Basement](https://open.spotify.com/artist/3AJMnPzFJc7MIbaaajhqJw) | [You're not alone](https://open.spotify.com/album/4am4CNnz2fOXVHtQleDG99) | 3:23 |
 
-Snapshot ID: `AAAWAZLjeqd9YINw9pm2EK8XY0nVXed/`
+Snapshot ID: `AAAWBVklAp4ERTD/FY1lh9Liys0vQRnR`

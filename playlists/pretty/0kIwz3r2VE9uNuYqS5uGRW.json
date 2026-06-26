@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 523,
+  "num_followers": 524,
   "original_name": "u pwetty",
   "owner": {
     "name": "CerVon Campbell",
     "url": "https://open.spotify.com/user/1275620579"
   },
-  "snapshot_id": "AAAWAZLjeqd9YINw9pm2EK8XY0nVXed/",
+  "snapshot_id": "AAAWBVklAp4ERTD/FY1lh9Liys0vQRnR",
   "tracks": [
     {
       "added_at": "2025-03-12 13:37:59",
@@ -4247,6 +4247,78 @@
       "duration_ms": 244360,
       "name": "Fire",
       "url": "https://open.spotify.com/track/6s9qYXqxPCV2x2EJglACvd"
+    },
+    {
+      "added_at": "2026-06-25 15:27:36",
+      "album": {
+        "name": "DFRNT",
+        "url": "https://open.spotify.com/album/6ne96XT0Dk84sUeYV6J24H"
+      },
+      "artists": [
+        {
+          "name": "ALWYSPHIL",
+          "url": "https://open.spotify.com/artist/7FJXm7WP29Q9dfYCcBRMXg"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "DFRNT",
+      "url": "https://open.spotify.com/track/62YDjUHeTCsC5ONLBui5o8"
+    },
+    {
+      "added_at": "2026-06-25 15:27:38",
+      "album": {
+        "name": "RITUALES",
+        "url": "https://open.spotify.com/album/7IBdexOx4VYxhfGr9X5QuR"
+      },
+      "artists": [
+        {
+          "name": "Bastyann",
+          "url": "https://open.spotify.com/artist/34Ufkh4lTUvCJpGspVsd8d"
+        },
+        {
+          "name": "Danche",
+          "url": "https://open.spotify.com/artist/3dQx0MvP6u0nA6SfY38V5j"
+        },
+        {
+          "name": "Danncray",
+          "url": "https://open.spotify.com/artist/5VD7tAqlMjgCRCBhs3xjTZ"
+        }
+      ],
+      "duration_ms": 139626,
+      "name": "3P3",
+      "url": "https://open.spotify.com/track/6IHH0LmthFLpXLAbrYkUlw"
+    },
+    {
+      "added_at": "2026-06-25 15:27:39",
+      "album": {
+        "name": "Let them",
+        "url": "https://open.spotify.com/album/5S8Yuc25oFb8PAZNm2USLr"
+      },
+      "artists": [
+        {
+          "name": "Merla",
+          "url": "https://open.spotify.com/artist/1GgYEBhQle66sXg6jOdA8K"
+        }
+      ],
+      "duration_ms": 172679,
+      "name": "Let them",
+      "url": "https://open.spotify.com/track/6LH4XRb1VsDfqb2KvznJwG"
+    },
+    {
+      "added_at": "2026-06-25 15:27:42",
+      "album": {
+        "name": "You're not alone",
+        "url": "https://open.spotify.com/album/4am4CNnz2fOXVHtQleDG99"
+      },
+      "artists": [
+        {
+          "name": "Basement",
+          "url": "https://open.spotify.com/artist/3AJMnPzFJc7MIbaaajhqJw"
+        }
+      ],
+      "duration_ms": 203383,
+      "name": "You're not alone",
+      "url": "https://open.spotify.com/track/1hXq4ig3y9UmN6DHFaTaGu"
     }
   ],
   "unique_name": "u pwetty",

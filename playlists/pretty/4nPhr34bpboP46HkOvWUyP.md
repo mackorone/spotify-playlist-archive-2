@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4nPhr34bpboP46HkOvWUyP.md) - [plain]
 
 > ⭐ALL OF MY MUSIC: SOLO &amp; FEATURE WORK⭐
 
-[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 26 likes - 68 songs - 3 hr 35 min
+[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 26 likes - 69 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,5 +76,6 @@ pretty - [cumulative](/playlists/cumulative/4nPhr34bpboP46HkOvWUyP.md) - [plain]
 | 66 | [Intro](https://open.spotify.com/track/0HLSdM3Cs5MEwymHVGxi6j) | [Vincent & The Black Rabbit](https://open.spotify.com/artist/1L8i0OGcP78idTEtpFBZ3e) | [Hypnagogic Baden](https://open.spotify.com/album/22087DsDihceHpt53rZ0H2) | 1:38 |
 | 67 | [Heyyy](https://open.spotify.com/track/75vHzcntF1WRrRh5yCLxei) | [MaskBoi X](https://open.spotify.com/artist/2ZyPKZF7fHCV4iQG7Bw7wm), [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [Heyyy](https://open.spotify.com/album/2Wev8hyf5e9bPtOswNa5pb) | 3:36 |
 | 68 | [GET AWAY WITH MURDER](https://open.spotify.com/track/4UfV0QR8WGVjcNFZas4JfR) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Vincent & The Black Rabbit](https://open.spotify.com/artist/1L8i0OGcP78idTEtpFBZ3e), [Asterr](https://open.spotify.com/artist/79baYpVN5bf0u38KkcG2LM), [Bunny Mimi](https://open.spotify.com/artist/09wXv9Adm9JViu28oyCC08) | [GET AWAY WITH MURDER](https://open.spotify.com/album/5gNZYoUZcDtyC0MJ31EFRM) | 4:42 |
+| 69 | [hearts in the rain](https://open.spotify.com/track/3nff3iZjMUUwOmU2V3rTbg) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [deer park rd.](https://open.spotify.com/artist/1m4DtAB9X0MsPdlXqWahzP) | [hearts in the rain](https://open.spotify.com/album/616B9XSaCaOSDHId6r9hol) | 3:59 |
 
-Snapshot ID: `AAABOFR4JTy3s3Ux5DT4Gv9/QGGMTVm7`
+Snapshot ID: `AAABORzHF4pf6/VOdshyRLj6E6WhtelH`

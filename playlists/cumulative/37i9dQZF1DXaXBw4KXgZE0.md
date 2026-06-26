@@ -4,7 +4,7 @@
 
 > Música de piano suave para dormir bebés profundamente.
 
-89 songs - 3 hr 39 min
+90 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Evening Calm](https://open.spotify.com/track/6KRuS6fd35vpTlqtGu8J04) | [Arlo Fry](https://open.spotify.com/artist/09SeCXWOJ9r88UZD6uoxgs) | [Evening Calm](https://open.spotify.com/album/1RP1fOnS8EszhhGRM2Plda) | 1:38 | 2026-03-20 |  |
 | [Fairy Dust](https://open.spotify.com/track/3bJK8GugWTUGa9cDXioatC) | [Naomi Nora](https://open.spotify.com/artist/0YNOeiHmQFjfYhfSU8TOq7) | [Fairy Dust](https://open.spotify.com/album/6IU9I01l4WeGTg6pwOke7V) | 2:04 | 2025-06-11 | 2025-09-27 |
 | [Fields Of Green](https://open.spotify.com/track/4jt9Dt3XgsnTvYbodHH12q) | [Algoth Holmes](https://open.spotify.com/artist/1T6WU2UcLZhrtMLEva6RJl) | [Way Back Home](https://open.spotify.com/album/07R3bhJLKUd2GyrjOlAOzh) | 2:47 | 2022-03-25 | 2025-06-12 |
+| [Floating Star](https://open.spotify.com/track/12bHSjSZx3bFAnU1zO9Cwg) | [Elias Ljungdahl](https://open.spotify.com/artist/5rRIUDLokzq6OMl3V98W18) | [Floating Star](https://open.spotify.com/album/4bzctxpHzTqTeu4B8C74vO) | 2:28 | 2026-06-25 |  |
 | [Fluffy Yawns](https://open.spotify.com/track/042WW9ClDQZGZ83wMDN5y0) | [Nallegrisen](https://open.spotify.com/artist/12Fj3FKjfyCizgT4q3n2kX) | [Fluffy Yawns](https://open.spotify.com/album/1Jp7M0S9CBoOqxYpSmvXIs) | 1:50 | 2025-06-11 |  |
 | [For My Friends](https://open.spotify.com/track/3nQmWfikKibsIt4eSoC2Tl) | [Alexis Montague](https://open.spotify.com/artist/0vb87QbwjeqPLvDUahlZpa) | [For My Friends](https://open.spotify.com/album/57HFg87D0nIsRUrHWKsy01) | 1:11 | 2025-06-11 |  |
 | [Forrest Gump \- Main Title \(Feather Theme\)](https://open.spotify.com/track/4SNS6KMBDrfK676bO1hQj9) | [Jordan Barns](https://open.spotify.com/artist/4NhmH4PFEHpmuRCYsqCvst) | [Forrest Gump \- Main Title \(Feather Theme\)](https://open.spotify.com/album/1cLj9aIkZRAf2Zb1iqtVz0) | 3:21 | 2022-03-25 |  |

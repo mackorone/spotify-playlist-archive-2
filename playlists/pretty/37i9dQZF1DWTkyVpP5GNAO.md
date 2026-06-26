@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > Dale a Dios toda la gloria y alabanza! Foto: Averly Murrillo
 
-[Spotify](https://open.spotify.com/user/spotify) - 561,059 likes - 75 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,101 likes - 75 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hay Poder \(YESHUA\) \- Live](https://open.spotify.com/track/3n12kCtTF0CpHtgHnJHKfT) | [Averly Morillo](https://open.spotify.com/artist/40oCnQkoBkpfTohVnTf40S) | [Hay Poder \(YESHUA\) \[Live\]](https://open.spotify.com/album/3cZoGPZmi8ogTAbSlzU3E8) | 9:50 |
 | 2 | [Gracias A La Cruz](https://open.spotify.com/track/1z8O7c6SeYQymSen7xbTsF) | [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75) | [Gracias A La Cruz](https://open.spotify.com/album/2qr3B7UPelc7paIgaj55Nk) | 5:08 |
 | 3 | [Inquebrantable](https://open.spotify.com/track/5bQhc8SI484MRfa7X7PlOv) | [Sarai Rivera](https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk) | [Inquebrantable](https://open.spotify.com/album/3M0Jh6mEcpMSJXbM5vqNQ0) | 3:33 |
-| 4 | [Mírenlo](https://open.spotify.com/track/0EvBSn62KUjXM38l1oPbH0) | [Abi y Mauri](https://open.spotify.com/artist/7eWnbAZFp1GGJNa0j75Zcp), [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I) | [Mírenlo](https://open.spotify.com/album/2gX24MkbRCeUTWxdKDHtHh) | 12:19 |
+| 4 | [Mírenlo](https://open.spotify.com/track/0EvBSn62KUjXM38l1oPbH0) | [abiymauri](https://open.spotify.com/artist/7eWnbAZFp1GGJNa0j75Zcp), [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I) | [Mírenlo](https://open.spotify.com/album/2gX24MkbRCeUTWxdKDHtHh) | 12:19 |
 | 5 | [Bendice a Dios](https://open.spotify.com/track/39CJiDBR6TLfJHD1xgeont) | [David & Karen](https://open.spotify.com/artist/7n3IHj2513sePlMl89T0b4), [Isaac Hernandez](https://open.spotify.com/artist/4fqBDjekpKqKV5I1n3UO6z) | [Bendice a Dios](https://open.spotify.com/album/5iEvxWFXJl7skgETn22C9l) | 5:34 |
 | 6 | [ALABEN A YAHWEH](https://open.spotify.com/track/3xM1ZboW9SQ6bE4mPRlycx) | [World Worship](https://open.spotify.com/artist/0sWeunTzY69e7TCkUflZQm) | [ALABEN A YAHWEH](https://open.spotify.com/album/0x3r6Tt67GqnMBwc0DG2vv) | 9:00 |
 | 7 | [Haz Lo Que Tu Quieras \(Sesiones Noviembre\)](https://open.spotify.com/track/5rr6L7v7hgNMTybeR1uVrl) | [Conquistando Fronteras](https://open.spotify.com/artist/4wSfiTrdcKdVZ7L7wNSaE3) | [Haz Lo Que Tu Quieras \(Sesiones Noviembre\)](https://open.spotify.com/album/7FO53gFB2eGxDzzxA3Zv50) | 10:00 |

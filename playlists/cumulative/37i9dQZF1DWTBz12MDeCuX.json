@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Die Playlist, die dich f\u00fchlt. Cover: Bad Bunny",
+  "description": "Die Playlist, die dich f\u00fchlt. Cover: Kauta",
   "name": "me right now",
   "tracks": [
     {
@@ -642,7 +642,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 138666,
       "name": "17000 Meilen",
       "url": "https://open.spotify.com/track/5OIvnAOpwJbHrKzI5udm6w"
@@ -1586,6 +1586,24 @@
       "duration_ms": 180000,
       "name": "4 Uhr",
       "url": "https://open.spotify.com/track/5AHSgn5YA32xPTM0Tlhxkv"
+    },
+    {
+      "album": {
+        "name": "40's",
+        "url": "https://open.spotify.com/album/3BY2v9enhCWcd5WWAUvuLx"
+      },
+      "artists": [
+        {
+          "name": "Kilo Kent",
+          "url": "https://open.spotify.com/artist/76398ZCDu1VWMFtNF0oROO"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136840,
+      "name": "40's",
+      "url": "https://open.spotify.com/track/1QvmJr1uSfT4OKoGt3d9Gn"
     },
     {
       "album": {
@@ -7891,6 +7909,24 @@
     },
     {
       "album": {
+        "name": "berliner hollywood",
+        "url": "https://open.spotify.com/album/1s9XIypKUuNvSHweaDtevl"
+      },
+      "artists": [
+        {
+          "name": "BEVN",
+          "url": "https://open.spotify.com/artist/6yhoNaKEJd3CH33hl26How"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "berliner hollywood",
+      "url": "https://open.spotify.com/track/33pzFfIQRxhbu8Asfp9g9d"
+    },
+    {
+      "album": {
         "name": "Berliner M\u00e4rchen",
         "url": "https://open.spotify.com/album/3y53YXvqCKWayNDWxyIa7Q"
       },
@@ -11008,6 +11044,28 @@
       "duration_ms": 183748,
       "name": "Casper",
       "url": "https://open.spotify.com/track/1dV2NyQUs4fnjIt03nsObq"
+    },
+    {
+      "album": {
+        "name": "Catharsis",
+        "url": "https://open.spotify.com/album/5q3jPN4pN99nvgzvHuNwie"
+      },
+      "artists": [
+        {
+          "name": "KUKO",
+          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
+        },
+        {
+          "name": "Tokio Hotel",
+          "url": "https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226064,
+      "name": "Catharsis",
+      "url": "https://open.spotify.com/track/0fW4McH0CZO94g0L8sJCE2"
     },
     {
       "album": {
@@ -17060,7 +17118,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 138207,
       "name": "Ein Schwanz entfernt",
       "url": "https://open.spotify.com/track/7L8cbGhcpfiGC81dgHzgGv"
@@ -21124,7 +21182,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 178624,
       "name": "Front Row",
       "url": "https://open.spotify.com/track/3WjtW5sWM9kuGbehvrJlbW"
@@ -21642,6 +21700,24 @@
       "duration_ms": 170823,
       "name": "f\u00fchL mich So...mit Dir",
       "url": "https://open.spotify.com/track/0TImFGfXwnaVJw7GB4C7NI"
+    },
+    {
+      "album": {
+        "name": "f\u00fchlst du das auch",
+        "url": "https://open.spotify.com/album/2aAHDYWJ0tQzfmn1LsSq7a"
+      },
+      "artists": [
+        {
+          "name": "Mika No\u00e9",
+          "url": "https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118466,
+      "name": "f\u00fchlst du das auch",
+      "url": "https://open.spotify.com/track/6j1rG6MdgGf6axvaRXKgvf"
     },
     {
       "album": {
@@ -22360,7 +22436,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 105803,
       "name": "GEBRCHN",
       "url": "https://open.spotify.com/track/6mMs3tMoH98AUNWWXV4zFY"
@@ -23574,7 +23650,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 143846,
       "name": "Girl Dinner",
       "url": "https://open.spotify.com/track/5ByU1TXNh8wkeDcpdULcyi"
@@ -25188,6 +25264,24 @@
       "duration_ms": 178379,
       "name": "Hal5",
       "url": "https://open.spotify.com/track/7qCBNPvqBIczTFTa9XHmh2"
+    },
+    {
+      "album": {
+        "name": "Halb 10 (Wenn die Sonne untergeht)",
+        "url": "https://open.spotify.com/album/57UNtZU74cLXqqOr4bvbdV"
+      },
+      "artists": [
+        {
+          "name": "Cesa",
+          "url": "https://open.spotify.com/artist/18jpWyd82gxchhUrnZst8P"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116903,
+      "name": "Halb 10 (Wenn die Sonne untergeht)",
+      "url": "https://open.spotify.com/track/30QJipuagw0kQMaC3fDIof"
     },
     {
       "album": {
@@ -27510,7 +27604,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 187000,
       "name": "Hochhaus",
       "url": "https://open.spotify.com/track/5AjIxBCf7pVb5ZopqftVsw"
@@ -29672,6 +29766,24 @@
       "duration_ms": 193024,
       "name": "Ich hass dich",
       "url": "https://open.spotify.com/track/5CGPOGyyF3XvyQwyqlJH0P"
+    },
+    {
+      "album": {
+        "name": "Ich hasse",
+        "url": "https://open.spotify.com/album/43XXpz53y2g2Yd1x4EPVWl"
+      },
+      "artists": [
+        {
+          "name": "Kauta",
+          "url": "https://open.spotify.com/artist/706cem551IzKiczuAQIEDw"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134412,
+      "name": "Ich hasse",
+      "url": "https://open.spotify.com/track/3wxzL6CJkm6MPmGARzXOyI"
     },
     {
       "album": {
@@ -33959,6 +34071,24 @@
     },
     {
       "album": {
+        "name": "Knutschen auf der Parkbank",
+        "url": "https://open.spotify.com/album/0b0XGbnBxlOMaiXco0PIYQ"
+      },
+      "artists": [
+        {
+          "name": "6euroneunzig",
+          "url": "https://open.spotify.com/artist/4pEmzp8WBdyO0HsKZyW26A"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160496,
+      "name": "Knutschen auf der Parkbank",
+      "url": "https://open.spotify.com/track/4ykIk22caYVdMwa0u4hvHw"
+    },
+    {
+      "album": {
         "name": "Kokain",
         "url": "https://open.spotify.com/album/6Q99g3bdYs26VdEvX9Q1V1"
       },
@@ -34022,7 +34152,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 146043,
       "name": "KOKOSNUSS",
       "url": "https://open.spotify.com/track/1Wt0okU2AQCphxQ8PE9b5V"
@@ -34786,6 +34916,28 @@
       "duration_ms": 123800,
       "name": "LA LA LAND (1234)",
       "url": "https://open.spotify.com/track/5oRmBsEWdP5LTQ6q9MX9HO"
+    },
+    {
+      "album": {
+        "name": "LA PLENA",
+        "url": "https://open.spotify.com/album/0IuvSeeJ7YWHRbvLnGkK1d"
+      },
+      "artists": [
+        {
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+        },
+        {
+          "name": "Solita",
+          "url": "https://open.spotify.com/artist/5Ob7GHZjaHoaPqHWTD3bvP"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157052,
+      "name": "LA PLENA",
+      "url": "https://open.spotify.com/track/3IBKYKqk4PM7Y3EBv2QsKR"
     },
     {
       "album": {
@@ -36114,6 +36266,28 @@
       "duration_ms": 164413,
       "name": "lieb dich eigentlich :(",
       "url": "https://open.spotify.com/track/715EJu6WsuLbDjRYSrXrmS"
+    },
+    {
+      "album": {
+        "name": "LIEBE",
+        "url": "https://open.spotify.com/album/2lLTCsHzjPWvfVbe1bmV91"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "JBS",
+          "url": "https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210996,
+      "name": "LIEBE",
+      "url": "https://open.spotify.com/track/5VSBmKQItts45sCFdW7Z7F"
     },
     {
       "album": {
@@ -40418,7 +40592,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 120093,
       "name": "MISCHKONSUM",
       "url": "https://open.spotify.com/track/1B8iBVpdLg2IxHv99ZAUKs"
@@ -41064,6 +41238,24 @@
       "duration_ms": 185392,
       "name": "Monkey Banana - Original Mix",
       "url": "https://open.spotify.com/track/0KEA9eVLmbND3kuRVxJ7Yy"
+    },
+    {
+      "album": {
+        "name": "MONSTAAA",
+        "url": "https://open.spotify.com/album/2YirG8lIIA59xPQLBKYum9"
+      },
+      "artists": [
+        {
+          "name": "badchieff",
+          "url": "https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134672,
+      "name": "MONSTAAA",
+      "url": "https://open.spotify.com/track/5Sqqd9eB305NaFuK5Ilvhf"
     },
     {
       "album": {
@@ -42798,7 +42990,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 128759,
       "name": "Naschen",
       "url": "https://open.spotify.com/track/4Arvh4o4DYG7bxqJb83JFv"
@@ -43752,7 +43944,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 155897,
-      "name": "nie sch\u00f6n genug (feat. Bengio)",
+      "name": "nie sch\u00f6n genug (Bengio Edit)",
       "url": "https://open.spotify.com/track/2QM3HgY6io2VnochaBytLh"
     },
     {
@@ -43884,6 +44076,24 @@
       "duration_ms": 161212,
       "name": "Nie wieder sehen",
       "url": "https://open.spotify.com/track/1t1VvjY7al80AdEoAQ3kPN"
+    },
+    {
+      "album": {
+        "name": "NIE WIEDER VERLIEBEN",
+        "url": "https://open.spotify.com/album/1N5rdYFFXZEzQ8493EGbP3"
+      },
+      "artists": [
+        {
+          "name": "CIVAN",
+          "url": "https://open.spotify.com/artist/2DkBug60LT1v2RHGTgbo0g"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "NIE WIEDER VERLIEBEN",
+      "url": "https://open.spotify.com/track/47gklMn1a3YveTOXtEJKxe"
     },
     {
       "album": {
@@ -45308,7 +45518,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 128394,
       "name": "OBSESSED",
       "url": "https://open.spotify.com/track/4yZc4VjXu43T2wsxQ7tjvF"
@@ -47076,7 +47286,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 135869,
       "name": "PAPARAZZI",
       "url": "https://open.spotify.com/track/3WHhmy6I0w4vumicvH9qnL"
@@ -48524,7 +48734,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 110613,
       "name": "playboy",
       "url": "https://open.spotify.com/track/4Are0CQd9AIKDNyeiuIukU"
@@ -52579,6 +52789,24 @@
     },
     {
       "album": {
+        "name": "SCHWARZE HERZEN",
+        "url": "https://open.spotify.com/album/5YQwfcq9Lx1XSwsJGIHq91"
+      },
+      "artists": [
+        {
+          "name": "erob\u00e9",
+          "url": "https://open.spotify.com/artist/2Reg4IlIHtEGZHnSD4pphn"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81245,
+      "name": "SCHWARZE HERZEN",
+      "url": "https://open.spotify.com/track/0gOmUyxvFmCZQbzvj17UUf"
+    },
+    {
+      "album": {
         "name": "schwarze SUVs",
         "url": "https://open.spotify.com/album/6xkvyVTWRegxKOo0bbZcb2"
       },
@@ -53406,7 +53634,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 137373,
       "name": "Sexy & Sad",
       "url": "https://open.spotify.com/track/3YTislS8mQHCWWx3cc82R8"
@@ -54863,6 +55091,24 @@
     },
     {
       "album": {
+        "name": "So Abgefuckt",
+        "url": "https://open.spotify.com/album/4nqSKEz2mPuXrpK1O1ubGU"
+      },
+      "artists": [
+        {
+          "name": "CCOSMO",
+          "url": "https://open.spotify.com/artist/0DFSWsBGwp4kqEKvU9Akj4"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150927,
+      "name": "So Abgefuckt",
+      "url": "https://open.spotify.com/track/40T4YzVoD5w8OrKNwRgEn6"
+    },
+    {
+      "album": {
         "name": "so bad",
         "url": "https://open.spotify.com/album/5Rxm93tFvpe05DtpvtDpgN"
       },
@@ -55260,6 +55506,24 @@
       "duration_ms": 156560,
       "name": "Sobredosis",
       "url": "https://open.spotify.com/track/6TTkgmwbCnz8Y4oiUdzmtD"
+    },
+    {
+      "album": {
+        "name": "Soda Zitron",
+        "url": "https://open.spotify.com/album/6xLhRYX5YJN8LGFNeJ1GYC"
+      },
+      "artists": [
+        {
+          "name": "BIBIZA",
+          "url": "https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Soda Zitron",
+      "url": "https://open.spotify.com/track/7FytLKznuhvK7yHtCxZaP7"
     },
     {
       "album": {
@@ -58578,7 +58842,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 136200,
       "name": "Sweet 16",
       "url": "https://open.spotify.com/track/37uefWfY2bAG2sux3Argot"
@@ -59210,7 +59474,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 162548,
       "name": "TANZSCHEIN",
       "url": "https://open.spotify.com/track/6P4wvzxJJZR7cVs1kFXL3q"
@@ -61258,6 +61522,24 @@
       "duration_ms": 326906,
       "name": "Track 10",
       "url": "https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc"
+    },
+    {
+      "album": {
+        "name": "wof\u00fcr es sich zu leben lohnt",
+        "url": "https://open.spotify.com/album/4S7PyRhfDKCJZR5cwfun5E"
+      },
+      "artists": [
+        {
+          "name": "Esther Graf",
+          "url": "https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/35d7jd7wWS3GstJwVNZy3b"
     },
     {
       "album": {

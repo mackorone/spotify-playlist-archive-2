@@ -2894,7 +2894,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 346500,
       "name": "Ebenezer (My Helper)",
       "url": "https://open.spotify.com/track/0vZuT1xmdfAiPS2MHrAwTE"
@@ -3552,7 +3552,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 432288,
       "name": "Eze Ebube II",
       "url": "https://open.spotify.com/track/4fRi4MMb7bB1nRny2BpqMd"
@@ -3614,6 +3614,24 @@
       "duration_ms": 507857,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/2EiWrz9GFeka1rdT8redKn"
+    },
+    {
+      "album": {
+        "name": "Faithful",
+        "url": "https://open.spotify.com/album/6QVYThtAZSWJuGRIBY8mhB"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 586140,
+      "name": "Faithful",
+      "url": "https://open.spotify.com/track/1hltOjT8EEq1FX0Y8NYCQI"
     },
     {
       "album": {
@@ -6076,7 +6094,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 301008,
       "name": "I Will Wait",
       "url": "https://open.spotify.com/track/0tMRJTLAoxozAPwZOXCLuF"

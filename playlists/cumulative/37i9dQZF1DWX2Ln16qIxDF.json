@@ -5828,7 +5828,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 176781,
       "name": "Dando vueltas",
       "url": "https://open.spotify.com/track/1vTEUsNu9TqL5DBNHf7j5b"
@@ -10294,7 +10294,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 201750,
       "name": "Hor\u00f3scopo - 21:00",
       "url": "https://open.spotify.com/track/6PvgO4pyoIVEwjaW2E0K2x"
@@ -10750,6 +10750,24 @@
       "duration_ms": 184687,
       "name": "JBL",
       "url": "https://open.spotify.com/track/1wvI6lJLC7mjUzdssQq5MU"
+    },
+    {
+      "album": {
+        "name": "Jealous Lover",
+        "url": "https://open.spotify.com/album/7ubZyifk1IUlccV9qKsOoM"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229994,
+      "name": "Jealous Lover",
+      "url": "https://open.spotify.com/track/2W1okJYTmZtO70IRDGEFVu"
     },
     {
       "album": {
@@ -12002,7 +12020,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 192111,
       "name": "LA VILLA",
       "url": "https://open.spotify.com/track/2ZyrAym0sRLwt4PhGotHuI"
@@ -15119,6 +15137,28 @@
     },
     {
       "album": {
+        "name": "Myke Towers: Bzrp Music Sessions, Vol. 42/66",
+        "url": "https://open.spotify.com/album/2Ke2hlEudtDT0KDaNIZY9Z"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189719,
+      "name": "Myke Towers: Bzrp Music Sessions, Vol. 42/66",
+      "url": "https://open.spotify.com/track/6ixCgwWOAN6C07ozzRm9pj"
+    },
+    {
+      "album": {
         "name": "M\u00c1S AMOR X FAVOR",
         "url": "https://open.spotify.com/album/4WVglxb4rpjwVyjq7Z1WIc"
       },
@@ -16804,6 +16844,24 @@
       "duration_ms": 202956,
       "name": "Otro Como T\u00fa",
       "url": "https://open.spotify.com/track/6TlPpf1alVVUy7AiCWmvRE"
+    },
+    {
+      "album": {
+        "name": "Otro Cumplea\u00f1os",
+        "url": "https://open.spotify.com/album/0QCB3aF4ABfpm7oqGpaKVp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Wald",
+          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174154,
+      "name": "Otro Cumplea\u00f1os",
+      "url": "https://open.spotify.com/track/6NtUqkWvw9oemFVi2q7dKz"
     },
     {
       "album": {
@@ -18886,7 +18944,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 179495,
       "name": "PUTISHORT",
       "url": "https://open.spotify.com/track/0j0GppxYmKYniNbawj5RlF"
@@ -25776,6 +25834,24 @@
       "duration_ms": 159776,
       "name": "Wapa",
       "url": "https://open.spotify.com/track/3pKQxo7IgfYkT2BmU4yr4w"
+    },
+    {
+      "album": {
+        "name": "Watch It Burn",
+        "url": "https://open.spotify.com/album/4iY3IDPSVSMmxyAyb3qoTP"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175555,
+      "name": "Watch It Burn",
+      "url": "https://open.spotify.com/track/3JlUDSDmqhAgbZWqyAuthY"
     },
     {
       "album": {

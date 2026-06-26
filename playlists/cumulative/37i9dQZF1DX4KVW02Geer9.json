@@ -11859,6 +11859,24 @@
     },
     {
       "album": {
+        "name": "\u65e5\u672c\u6c11\u8b21\u3088\u308a\u611b\u3092\u3053\u3081\u3066",
+        "url": "https://open.spotify.com/album/6mzbwEWVx5LWor1eUPGqgF"
+      },
+      "artists": [
+        {
+          "name": "Minyo Crusaders",
+          "url": "https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290962,
+      "name": "\u5317\u6d77\u76c6\u5504",
+      "url": "https://open.spotify.com/track/18us37rGhbqOAMyVMzwFFh"
+    },
+    {
+      "album": {
         "name": "\u5352\u696d\u306e\u30a8\u30a2\u30ed\u30e9\u30a4\u30c8",
         "url": "https://open.spotify.com/album/6IlJNmhEKHcpb6mYmraMM0"
       },

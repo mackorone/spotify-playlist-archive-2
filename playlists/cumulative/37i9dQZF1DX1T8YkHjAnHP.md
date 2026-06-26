@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5bKdC6382t97Qnpvs81Rqx">Bedouin</a>'s favorite tracks\. Updated regularly\. Curated by Bedouin\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-321 songs - 1 day 4 hr 46 min
+323 songs - 1 day 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Better Than This ft\. IVETA](https://open.spotify.com/track/00Rqbth6VNzxB8v6P61Az3) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [IVETA](https://open.spotify.com/artist/0Ovl0zogGMb3ggjDSOaAFp) | [Into The Wind](https://open.spotify.com/album/5dTFIpg8E87NJmMhpuPtKF) | 3:54 | 2024-11-15 | 2025-08-28 |
 | [Black Sun](https://open.spotify.com/track/20JiYYRX4KyNPOj1ADNjd5) | [Darksidevinyl](https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0) | [Kana EP](https://open.spotify.com/album/68akROjc9w0rBeSpJjBI0x) | 6:18 | 2023-02-17 | 2023-11-07 |
 | [Bocat](https://open.spotify.com/track/4rS8pri7CQvOjWmfNBOm8B) | [Guy Gerber](https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC), [Albertina](https://open.spotify.com/artist/5Xr5eX0ZFi76JHaRDGh8pq) | [Bocat](https://open.spotify.com/album/3U902JoOXXajnhsYNYk55B) | 6:25 | 2022-08-02 | 2022-09-10 |
+| [Bora Bora \- Radio Edit](https://open.spotify.com/track/7FdBFLahBQA9toEM7ZfxVq) | [Robin M](https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7), [Robin Michelangelo](https://open.spotify.com/artist/5RUemJ6qQNY6Asyla2ZvbR) | [Tromlitz](https://open.spotify.com/album/3X67ZDSuvt5EaozVel4tj0) | 2:50 | 2026-06-25 |  |
 | [Borderline \- Catz 'n Dogz Remix](https://open.spotify.com/track/6xoZRqx40HdvSecJNvm5Lx) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Nyv](https://open.spotify.com/artist/1ciw0LLweRvHpU9zhiOYyq), [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh) | [Borderline \(Remixes\)](https://open.spotify.com/album/05MhwaBxOSGFG8LsRGNsMt) | 6:06 | 2023-02-17 | 2023-07-20 |
 | [Breathe](https://open.spotify.com/track/0G4QCpJMA6u8MGXxzg4gm9) | [Flemming Bassedow](https://open.spotify.com/artist/5xErRJAqs3cGl6xPiZkfgY) | [Breathe](https://open.spotify.com/album/7fwjxoj5aUkXUliu02iFKk) | 7:45 | 2023-02-17 | 2023-11-30 |
 | [Buenos Aires](https://open.spotify.com/track/6lbOkdXQZmHZyxoqJRDG3L) | [Juan Hansen](https://open.spotify.com/artist/1ZFLYus27fzqEV3d6RBrxo), [Martin Rizzola](https://open.spotify.com/artist/41M8FZ8PR9lbnS1MWEIoC4) | [Telling Me Something EP](https://open.spotify.com/album/6G1JfqlVxSeUgAmF6tdjPk) | 8:10 | 2022-08-02 | 2023-06-13 |
@@ -288,6 +289,7 @@
 | [Together](https://open.spotify.com/track/4dhs4FM9kE1nAKPHQIjaMD) | [Hyenah](https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu), [Deep Aztec](https://open.spotify.com/artist/5getpnTxZMpYRlfyXOjQQw) | [Together EP](https://open.spotify.com/album/2Ye44uHgBcbGZT0Jb7HFlO) | 6:57 | 2022-08-02 | 2023-09-12 |
 | [Trippy Yeah](https://open.spotify.com/track/1CM0kiqrtCSHClFjTccTOb) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Trippy Yeah](https://open.spotify.com/album/2kcnbaQIOOEz7zb5yWhVp3) | 3:58 | 2025-08-27 |  |
 | [Trivia](https://open.spotify.com/track/3s4l7SQWULlrGPL7aqnEzD) | [Marcus Worgull](https://open.spotify.com/artist/4N2PiVgTuh2rxhc3HGVKAG), [Peter Pardeike](https://open.spotify.com/artist/0LHjAYNdezU9MWHFYTYAjE) | [Trivia EP](https://open.spotify.com/album/1SQNuCbaxB5qMj6DFURC0G) | 6:32 | 2023-09-11 | 2025-05-15 |
+| [Tromlitz \- Radio Edit](https://open.spotify.com/track/6tIxPSDiEFsjpcvd7F1HKN) | [Robin M](https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7), [Robin Michelangelo](https://open.spotify.com/artist/5RUemJ6qQNY6Asyla2ZvbR) | [Tromlitz](https://open.spotify.com/album/3X67ZDSuvt5EaozVel4tj0) | 3:08 | 2026-06-25 |  |
 | [Troublemakers](https://open.spotify.com/track/1Re64v11j6NhuJG9LAEiGR) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [No Rules EP](https://open.spotify.com/album/1S28FFZL59GgcUChSBfZBl) | 3:41 | 2026-06-19 |  |
 | [Try](https://open.spotify.com/track/12Pnf23BSnTZTTOOrzYBIu) | [Ivory \(IT\)](https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr) | [Feelin'](https://open.spotify.com/album/6g67MU2G9JmsIvuXf0yY9x) | 3:39 | 2023-02-17 | 2023-11-30 |
 | [Two Zulu Men In Ibiza](https://open.spotify.com/track/6CWJQvtLGj52iA7ulDljW8) | [DJ Merlon](https://open.spotify.com/artist/3qFcd2aD9HCbpBO88l0Zff), [Enoo Napa](https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC) | [Two Zulu Men In Ibiza EP](https://open.spotify.com/album/5EbkVB9wNhdpHYOxSVY8Dz) | 7:01 | 2023-02-17 | 2023-11-07 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Merveille",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : RnBoi",
   "name": "R&Bae",
   "tracks": [
     {
@@ -640,7 +640,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 154163,
       "name": "AU BON ENDROIT",
       "url": "https://open.spotify.com/track/5uK21s4ujRqMs8b7nlSzow"
@@ -1102,6 +1102,28 @@
       "duration_ms": 172120,
       "name": "Beau parleur",
       "url": "https://open.spotify.com/track/1dxLarvU0YHWPH0PuwQWUN"
+    },
+    {
+      "album": {
+        "name": "Bendo",
+        "url": "https://open.spotify.com/album/6y8o17lcV5p2t2sZfxKBDE"
+      },
+      "artists": [
+        {
+          "name": "C2AM",
+          "url": "https://open.spotify.com/artist/1acO9gERaiQD0BiOOdBrlG"
+        },
+        {
+          "name": "Bizzy",
+          "url": "https://open.spotify.com/artist/3tsgXW0J2AhnaKh9hTnT3W"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167807,
+      "name": "Bendo",
+      "url": "https://open.spotify.com/track/6nC3VULKRHp2NsnUnJyaRs"
     },
     {
       "album": {
@@ -1612,6 +1634,28 @@
     {
       "album": {
         "name": "C'est comment",
+        "url": "https://open.spotify.com/album/0ubpCAqFRK6601zZ3w7chQ"
+      },
+      "artists": [
+        {
+          "name": "Fleetzy",
+          "url": "https://open.spotify.com/artist/3dYZEqP6PfjEyjkUxgmg8d"
+        },
+        {
+          "name": "DAKEEZ",
+          "url": "https://open.spotify.com/artist/63TYAXPLsZ7A3AFeGiGGGu"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147840,
+      "name": "C'est comment",
+      "url": "https://open.spotify.com/track/5wu4i9BrgztpCv6XzgLtIl"
+    },
+    {
+      "album": {
+        "name": "C'est comment",
         "url": "https://open.spotify.com/album/3Y2gLEBIBsRlGlI5pQaAjn"
       },
       "artists": [
@@ -1658,7 +1702,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 210652,
       "name": "C'est Ko",
       "url": "https://open.spotify.com/track/1c8IL1VDg2YbrPdH4NBBsz"
@@ -2344,7 +2388,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 157610,
       "name": "Coeur scell\u00e9",
       "url": "https://open.spotify.com/track/3PJKyR5vgiizGFs23yqq81"
@@ -3396,7 +3440,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 172000,
       "name": "Dis-moi",
       "url": "https://open.spotify.com/track/5VFHv6nkTxhgCtSgEXKL7A"
@@ -4307,6 +4351,28 @@
     },
     {
       "album": {
+        "name": "HHHH\u00b2",
+        "url": "https://open.spotify.com/album/5StEA77WBVD37guZmDD87f"
+      },
+      "artists": [
+        {
+          "name": "Josman",
+          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
+        },
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204253,
+      "name": "face2face (feat. Ronisia)",
+      "url": "https://open.spotify.com/track/5b5xwjnYDRatDTe3l75MON"
+    },
+    {
+      "album": {
         "name": "Faire sans",
         "url": "https://open.spotify.com/album/3X4u5L4fmzr4q6gxGUm4vj"
       },
@@ -4398,7 +4464,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 156803,
       "name": "Fancy",
       "url": "https://open.spotify.com/track/0IdecNzsxv7F1lUgFVTTIH"
@@ -4550,7 +4616,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 155297,
       "name": "FLEUR BLEUE",
       "url": "https://open.spotify.com/track/32PDB6No0y6U2GqoPska5I"
@@ -5397,6 +5463,24 @@
     },
     {
       "album": {
+        "name": "IMMORTEL",
+        "url": "https://open.spotify.com/album/1M366XXnrnkIZb7BuWxGxw"
+      },
+      "artists": [
+        {
+          "name": "Hevans",
+          "url": "https://open.spotify.com/artist/5kB5CFvKViwheacDPa8Ls5"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185136,
+      "name": "IMMORTEL",
+      "url": "https://open.spotify.com/track/3uwwuXDKzE8i4q6KVJ7HEM"
+    },
+    {
+      "album": {
         "name": "IMPOLIE",
         "url": "https://open.spotify.com/album/0KzWsiWyCYwxirg68jBnD0"
       },
@@ -5912,6 +5996,24 @@
       "duration_ms": 176346,
       "name": "Jamais",
       "url": "https://open.spotify.com/track/5YlJIxE6hsr5x7avxnjq8g"
+    },
+    {
+      "album": {
+        "name": "JAMAIS CHANG\u00c9",
+        "url": "https://open.spotify.com/album/2QxbI7fOl6Bf90Mt7d8jJy"
+      },
+      "artists": [
+        {
+          "name": "Ocevne",
+          "url": "https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172171,
+      "name": "JAMAIS CHANG\u00c9",
+      "url": "https://open.spotify.com/track/5Dp27TXunm7jCjeKU2tyPL"
     },
     {
       "album": {
@@ -8634,6 +8736,24 @@
       "duration_ms": 185191,
       "name": "Ne doute pas",
       "url": "https://open.spotify.com/track/3jjR16AsYxadkidrptGLYc"
+    },
+    {
+      "album": {
+        "name": "Need It",
+        "url": "https://open.spotify.com/album/3NCVJSYfzj6Nb9vTFLcyZT"
+      },
+      "artists": [
+        {
+          "name": "\u00c9NA\u00c9",
+          "url": "https://open.spotify.com/artist/41qDq9RL1JUO3WfBT1vjLM"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187840,
+      "name": "Need It",
+      "url": "https://open.spotify.com/track/3l2roH53b5ZenJ0NlqZBA5"
     },
     {
       "album": {
@@ -12135,6 +12255,24 @@
     },
     {
       "album": {
+        "name": "SOUVENIR",
+        "url": "https://open.spotify.com/album/0xAfpPg7Skj5S9E8Faw22R"
+      },
+      "artists": [
+        {
+          "name": "Rambo goyard",
+          "url": "https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155793,
+      "name": "SOUVENIR",
+      "url": "https://open.spotify.com/track/7Cpq6imglcXPfJMbNVftXL"
+    },
+    {
+      "album": {
         "name": "Galat\u00e9e",
         "url": "https://open.spotify.com/album/0fYC25oqs9YmPIa3V09feB"
       },
@@ -12426,7 +12564,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 139665,
       "name": "S\u00dbRE DE MOI",
       "url": "https://open.spotify.com/track/2CUYxEolSnk75ufOki8clC"

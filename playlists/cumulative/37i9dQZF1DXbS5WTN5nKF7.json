@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "Le meilleur des hits avec Shakira & Burna Boy",
+  "description": "Le meilleur des hits avec Na\u00efka",
   "name": "Hit Radio",
   "tracks": [
     {
@@ -1518,7 +1518,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 169004,
       "name": "C'est \u00e0 qui le tour",
       "url": "https://open.spotify.com/track/6DMW3BD1VPidFiWuXH3b4N"
@@ -1536,7 +1536,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 215511,
       "name": "Camera",
       "url": "https://open.spotify.com/track/6vqyk3mbDBv3npTpctYoka"
@@ -3231,6 +3231,28 @@
     },
     {
       "album": {
+        "name": "Four To The Floor",
+        "url": "https://open.spotify.com/album/6OvgUGqFkKbEOQ9UE4j9Oo"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "Starsailor",
+          "url": "https://open.spotify.com/artist/0G8zjE6SsFTlbglCkU8pm3"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212307,
+      "name": "Four To The Floor",
+      "url": "https://open.spotify.com/track/4UrHXNvA6u7Wb68nhjCK20"
+    },
+    {
+      "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
       },
@@ -3682,6 +3704,24 @@
       "duration_ms": 183022,
       "name": "Hands On Me (feat. Meghan Trainor)",
       "url": "https://open.spotify.com/track/1TXbPx0WUaJM0fjDVs4wCD"
+    },
+    {
+      "album": {
+        "name": "hate that i made you love me",
+        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
     },
     {
       "album": {
@@ -6610,7 +6650,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 166240,
       "name": "OK KO (feat. Kyo)",
       "url": "https://open.spotify.com/track/69Fw8Cx50fVi0Pv7NJayhV"
@@ -7280,7 +7320,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 142323,
       "name": "Qu'est-ce qu'il me restera ?",
       "url": "https://open.spotify.com/track/2dDb0ZppFpTDdcqPLIgJ01"
@@ -7298,7 +7338,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 193666,
       "name": "Quand m\u00eame",
       "url": "https://open.spotify.com/track/4V9V7lUvb6DZFCa3XwJPbc"
@@ -8046,7 +8086,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -8434,6 +8474,24 @@
       "duration_ms": 225211,
       "name": "Survive",
       "url": "https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV"
+    },
+    {
+      "album": {
+        "name": "Systaime",
+        "url": "https://open.spotify.com/album/3WPu1zUqJ9nWCsjeIqTe4t"
+      },
+      "artists": [
+        {
+          "name": "Christophe Willem",
+          "url": "https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154991,
+      "name": "Systaime",
+      "url": "https://open.spotify.com/track/03P7mOAnyLr6T8uIGGU9Pr"
     },
     {
       "album": {
@@ -8854,7 +8912,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-22",
+      "date_removed": null,
       "duration_ms": 189588,
       "name": "The Way We Touch",
       "url": "https://open.spotify.com/track/4A5RlP9QGsqPdTwCOpcwKK"

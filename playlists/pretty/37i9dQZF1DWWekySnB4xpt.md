@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWekySnB4xpt.md) - [plain]
 
 ### [Made In Venezuela](https://open.spotify.com/playlist/37i9dQZF1DWWekySnB4xpt)
 
-> Representando la cultura con orgullo\. Representing with pride! Cover: Chino & Nacho, Danny Ocean
+> Hoy más que nunca, unidos por Venezuela\. 🇻🇪❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,549 likes - 85 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,571 likes - 85 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWekySnB4xpt.md) - [plain]
 | 84 | [Caballo Viejo](https://open.spotify.com/track/6VGRiUGPup3c0tZTX2lWhv) | [Simón Díaz](https://open.spotify.com/artist/29GjVRVQSln078FWYOX4r4) | [Sus Grandes Exitos](https://open.spotify.com/album/4fXILOMBr57rYVoZ22Z1C4) | 2:59 |
 | 85 | [Manantial de Corazón](https://open.spotify.com/track/24ri1EFlBW3eYOuidgmBxu) | [Yordano](https://open.spotify.com/artist/207wrLMuGP7znQqdIaMCaJ), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [El Tren de los Regresos \(Parada Especial\)](https://open.spotify.com/album/2KYw8Iq21R9qXBBREdkEq3) | 4:12 |
 
-Snapshot ID: `AAAAAMFqPcgD5XJIcWHiZ7d6rcZuPFyv`
+Snapshot ID: `AAAAAJHh+pzXVh0ljNdPhw8O9OHhI3Sx`

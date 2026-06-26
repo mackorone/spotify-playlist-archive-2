@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-737 songs - 2 day 3 hr 4 min
+738 songs - 2 day 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -510,7 +510,8 @@
 | [Satellite](https://open.spotify.com/track/1MElTrFCCQVaR9U3AQPTlk) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Satellite](https://open.spotify.com/album/4oZkzxKdIFZbb3hwVqbyoZ) | 2:58 | 2023-12-13 | 2024-02-02 |
 | [Saturday Night’s Alright \(For Fighting\) \- Remastered 2014](https://open.spotify.com/track/12yHvSYFXI7PGzNecUvIDu) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 4:55 | 2022-09-08 |  |
 | [Sausage Rolls for Everyone](https://open.spotify.com/track/13tYoTNaGN5TjVjnbjzotV) | [LadBaby](https://open.spotify.com/artist/0gWa2AiDlbvF24aqoLT2c1) | [Sausage Rolls for Everyone \(Foodbank Choir\)](https://open.spotify.com/album/3PrYKqmqFgfAcnllPi3jsd) | 4:07 | 2025-11-21 | 2026-06-25 |
-| [Sausage Rolls for Everyone](https://open.spotify.com/track/05N7K5msPbY3AE5h1i1DlF) | [LadBaby](https://open.spotify.com/artist/0gWa2AiDlbvF24aqoLT2c1), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sausage Rolls for Everyone](https://open.spotify.com/album/4gSLhY97EdadQii0n2X31w) | 3:27 | 2022-09-08 |  |
+| [Sausage Rolls for Everyone](https://open.spotify.com/track/05N7K5msPbY3AE5h1i1DlF) | [LadBaby](https://open.spotify.com/artist/0gWa2AiDlbvF24aqoLT2c1), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sausage Rolls for Everyone](https://open.spotify.com/album/4gSLhY97EdadQii0n2X31w) | 3:27 | 2022-09-08 | 2026-06-26 |
+| [Sausage Rolls For Everyone](https://open.spotify.com/track/5ebrdcOlZrKgDVs7ZxrZo9) | [LadBaby](https://open.spotify.com/artist/0gWa2AiDlbvF24aqoLT2c1), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sausage Rolls for Everyone](https://open.spotify.com/album/0QQBJ7uDVRjdDgUBmsXypZ) | 3:27 | 2026-06-25 |  |
 | [Sausage Rolls for Everyone](https://open.spotify.com/track/6fNd6OkGoACwHtAnf2wslm) | [LadBaby](https://open.spotify.com/artist/0gWa2AiDlbvF24aqoLT2c1), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sausage Rolls for Everyone](https://open.spotify.com/album/4gQYK0guzqRxHtt9SQnXFr) | 3:27 | 2022-10-13 | 2025-11-20 |
 | [Sausage Rolls for Everyone \- Foodbank Choir](https://open.spotify.com/track/4ff7UvADfecl8vA9Tr0Bbt) | [LadBaby](https://open.spotify.com/artist/0gWa2AiDlbvF24aqoLT2c1), [The Food Bank Choir](https://open.spotify.com/artist/5JHQrzn5sn8h7gdrWXYmac) | [Sausage Rolls for Everyone \(Foodbank Choir\)](https://open.spotify.com/album/5g345tar0lMOHQHo02cGVg) | 4:07 | 2025-11-19 | 2025-11-22 |
 | [Scared To Live](https://open.spotify.com/track/4BGZF4oLbTL0pWm7C18pbv) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:11 | 2023-12-13 |  |

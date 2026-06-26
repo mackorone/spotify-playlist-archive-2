@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Olivia Rodrigo sulla cover della playlist con tutte le hit pi\u00f9 \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+  "description": "Artie 5ive sulla cover della playlist con tutte le hit pi\u00f9 \ud83d\udd25\ud83d\udd25\ud83d\udd25",
   "name": "Hot Hits Italia",
   "tracks": [
     {
@@ -2663,6 +2663,28 @@
     },
     {
       "album": {
+        "name": "AMATORE",
+        "url": "https://open.spotify.com/album/0Put06lJPKgGFHmMntdV7f"
+      },
+      "artists": [
+        {
+          "name": "Samurai Jay",
+          "url": "https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH"
+        },
+        {
+          "name": "Vito Salamanca",
+          "url": "https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164262,
+      "name": "FLAMENCO PARANOIA",
+      "url": "https://open.spotify.com/track/549DrPfwUQuZB3q53WQh1z"
+    },
+    {
+      "album": {
         "name": "Hustle Mixtape Vol. 2",
         "url": "https://open.spotify.com/album/4BmvCSV4ZqsnyAcQQQnv0S"
       },
@@ -3018,7 +3040,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 137952,
       "name": "Halo",
       "url": "https://open.spotify.com/track/6zjlQ39iHKMaPcY9Fz4d9e"
@@ -4040,6 +4062,24 @@
       "duration_ms": 210996,
       "name": "Magica Favola",
       "url": "https://open.spotify.com/track/2DO1VNiVcIVKJVd2PhKCsW"
+    },
+    {
+      "album": {
+        "name": "Magnetic / Addicted To Your Love",
+        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
+      },
+      "artists": [
+        {
+          "name": "The Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181384,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
     },
     {
       "album": {
@@ -7240,7 +7280,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 184421,
       "name": "XXDONO (feat. Lazza)",
       "url": "https://open.spotify.com/track/7n5unddip61Z4ZBHCwIm8r"

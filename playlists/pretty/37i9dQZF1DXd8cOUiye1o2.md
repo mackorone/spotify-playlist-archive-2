@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 
 > Get ready to go back in time and groove with it! Listen to 'Bandhu 2.0' from Cocktail 2.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,008,281 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,008,398 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 | 47 | [Ishq Jatavaan](https://open.spotify.com/track/5Z3XpJanPvmYOmCUaoKmQn) | [Goldie Sohel](https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv) | [Ishq Jatavaan](https://open.spotify.com/album/7aODaOSa4hA3S1vPpy36Ui) | 2:55 |
 | 48 | [Thehro Dekhenge Hum Kab Tak \- From "Governor"](https://open.spotify.com/track/5eogfNroANTY8SdNqfWoSL) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Javed Akhtar](https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Governor \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ELqS8vIG0watKI010OQxb) | 4:18 |
 | 49 | [Baat Phir Bhi Reh Gayi](https://open.spotify.com/track/26eFpzXEPPdwzTP5NJSZBT) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Harshit Karnatak](https://open.spotify.com/artist/0zCnHoMe8EbjFlRkPsdJKj) | [Baat Phir Bhi Reh Gayi](https://open.spotify.com/album/1RFlC6We3lYCqKtK28qbAR) | 4:14 |
-| 50 | [Dil Bebaak](https://open.spotify.com/track/1TjAaNVKteQSq3pXmrrg1S) | [Dev Arijit](https://open.spotify.com/artist/6BZExpYe5yylgSeHAWVsF6) | [Dil Bebaak](https://open.spotify.com/album/3Y1jMY8AXZyU7gv8VaRDGL) | 6:39 |
+| 50 | [Dil Bebaak](https://open.spotify.com/track/1TjAaNVKteQSq3pXmrrg1S) | [Aarvan](https://open.spotify.com/artist/6TAYIefXnilxpTxwdicmwS) | [Dil Bebaak](https://open.spotify.com/album/3Y1jMY8AXZyU7gv8VaRDGL) | 6:39 |
 | 51 | [Nabz Nabz \- Female Version \- From "Bharat Bhhagya Viddhaata"](https://open.spotify.com/track/4ZZwAOker7T7RihtZDeGQX) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Aman Pant](https://open.spotify.com/artist/3DEQO9JUqGunLxKk6UJVpE), [Manoj Tapadia](https://open.spotify.com/artist/1nzOl3prtA7lKOMshropqJ) | [Nabz Nabz \- Female Version \(From "Bharat Bhhagya Viddhaata"\)](https://open.spotify.com/album/0lXKgkyTOHomzlnzXQL2rV) | 3:40 |
 | 52 | [Gareeb](https://open.spotify.com/track/5WokMuGOqi4lyZpBHOhpFw) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [Gareeb](https://open.spotify.com/album/60U8TSb7YMwH1p4zhIVj6N) | 2:41 |
 | 53 | [homecoming](https://open.spotify.com/track/6NAOTFHdHN6OFVVnvZjO9H) | [OutStation](https://open.spotify.com/artist/1mPbly9dEPJVrAGPkkgAgH) | [homecoming](https://open.spotify.com/album/1UMV9MF47xRXnE0j5zuyC9) | 2:49 |

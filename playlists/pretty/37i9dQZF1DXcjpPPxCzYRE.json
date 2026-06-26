@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 442799,
+  "num_followers": 442835,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -735,26 +735,6 @@
     {
       "added_at": "2026-06-11 22:01:16",
       "album": {
-        "name": "Era de Aqu\u00e1rio/Deixa o Sol Entrar",
-        "url": "https://open.spotify.com/album/6lOynBCQr4s3GKTpGlOZ07"
-      },
-      "artists": [
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        },
-        {
-          "name": "Ana Moura",
-          "url": "https://open.spotify.com/artist/5HjL8Wcg8TdKTABDci2mB7"
-        }
-      ],
-      "duration_ms": 245118,
-      "name": "Era de Aqu\u00e1rio/Deixa o Sol Entrar",
-      "url": "https://open.spotify.com/track/76tplKafy6kBbFKi7vGBhb"
-    },
-    {
-      "added_at": "2026-06-11 22:01:16",
-      "album": {
         "name": "Trist\u00e1n, Ahora Con Reloj",
         "url": "https://open.spotify.com/album/7oDxt14IyAbiLAxlCMLHEe"
       },
@@ -791,6 +771,26 @@
     {
       "added_at": "2026-06-11 22:01:16",
       "album": {
+        "name": "Era de Aqu\u00e1rio/Deixa o Sol Entrar",
+        "url": "https://open.spotify.com/album/6lOynBCQr4s3GKTpGlOZ07"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        },
+        {
+          "name": "Ana Moura",
+          "url": "https://open.spotify.com/artist/5HjL8Wcg8TdKTABDci2mB7"
+        }
+      ],
+      "duration_ms": 245118,
+      "name": "Era de Aqu\u00e1rio/Deixa o Sol Entrar",
+      "url": "https://open.spotify.com/track/76tplKafy6kBbFKi7vGBhb"
+    },
+    {
+      "added_at": "2026-06-11 22:01:16",
+      "album": {
         "name": "Memory Be a Blade",
         "url": "https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00"
       },
@@ -803,6 +803,42 @@
       "duration_ms": 221066,
       "name": "Memory Be a Blade",
       "url": "https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA"
+    },
+    {
+      "added_at": "2026-06-11 22:01:16",
+      "album": {
+        "name": "Leaveyourlove (with MARO)",
+        "url": "https://open.spotify.com/album/1uuLzCuVaBJlIgPYIwy7d9"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        },
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 214446,
+      "name": "Leaveyourlove (with MARO)",
+      "url": "https://open.spotify.com/track/5io7Rv6WxpvkqCRreCvXGc"
+    },
+    {
+      "added_at": "2026-06-11 22:01:16",
+      "album": {
+        "name": "We Were Here",
+        "url": "https://open.spotify.com/album/3kJxji4lJkuzZJSTWFbNnG"
+      },
+      "artists": [
+        {
+          "name": "Joshua Radin",
+          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
+        }
+      ],
+      "duration_ms": 149013,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/2ZaYFNn1YQuLSVdHhanr4Q"
     },
     {
       "added_at": "2026-06-11 22:01:16",
@@ -835,42 +871,6 @@
       "duration_ms": 183431,
       "name": "KISS ME",
       "url": "https://open.spotify.com/track/0bThHrVS5I2yFe36bWjHql"
-    },
-    {
-      "added_at": "2026-06-11 22:01:16",
-      "album": {
-        "name": "We Were Here",
-        "url": "https://open.spotify.com/album/3kJxji4lJkuzZJSTWFbNnG"
-      },
-      "artists": [
-        {
-          "name": "Joshua Radin",
-          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
-        }
-      ],
-      "duration_ms": 149013,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/2ZaYFNn1YQuLSVdHhanr4Q"
-    },
-    {
-      "added_at": "2026-06-11 22:01:16",
-      "album": {
-        "name": "Leaveyourlove (with MARO)",
-        "url": "https://open.spotify.com/album/1uuLzCuVaBJlIgPYIwy7d9"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        },
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 214446,
-      "name": "Leaveyourlove (with MARO)",
-      "url": "https://open.spotify.com/track/5io7Rv6WxpvkqCRreCvXGc"
     },
     {
       "added_at": "2026-06-11 22:01:16",
@@ -927,6 +927,22 @@
     {
       "added_at": "2026-06-11 22:01:16",
       "album": {
+        "name": "No One's Gonna Love You (Stockholm Version)",
+        "url": "https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY"
+      },
+      "artists": [
+        {
+          "name": "Band of Horses",
+          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+        }
+      ],
+      "duration_ms": 228646,
+      "name": "No One's Gonna Love You (Stockholm Version)",
+      "url": "https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL"
+    },
+    {
+      "added_at": "2026-06-11 22:01:16",
+      "album": {
         "name": "ThunderWave",
         "url": "https://open.spotify.com/album/6X04Gtu90ik0MFHv09TOIL"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 194040,
       "name": "ThunderWave",
       "url": "https://open.spotify.com/track/7K9x5koIMokVbEfg1RsT4A"
-    },
-    {
-      "added_at": "2026-06-11 22:01:16",
-      "album": {
-        "name": "No One's Gonna Love You (Stockholm Version)",
-        "url": "https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY"
-      },
-      "artists": [
-        {
-          "name": "Band of Horses",
-          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
-        }
-      ],
-      "duration_ms": 228646,
-      "name": "No One's Gonna Love You (Stockholm Version)",
-      "url": "https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL"
     },
     {
       "added_at": "2026-06-11 22:01:16",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2026-06-11 22:01:16",
       "album": {
+        "name": "Atanor",
+        "url": "https://open.spotify.com/album/6DrdihUtlmWjSaSVPW4M5Y"
+      },
+      "artists": [
+        {
+          "name": "BORJA",
+          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
+        }
+      ],
+      "duration_ms": 166250,
+      "name": "Notre-Dame",
+      "url": "https://open.spotify.com/track/6c2s7cbT6WbothMJ6HaywK"
+    },
+    {
+      "added_at": "2026-06-11 22:01:16",
+      "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
       },
@@ -1063,22 +1079,6 @@
     {
       "added_at": "2026-06-11 22:01:16",
       "album": {
-        "name": "Atanor",
-        "url": "https://open.spotify.com/album/6DrdihUtlmWjSaSVPW4M5Y"
-      },
-      "artists": [
-        {
-          "name": "BORJA",
-          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
-        }
-      ],
-      "duration_ms": 166250,
-      "name": "Notre-Dame",
-      "url": "https://open.spotify.com/track/6c2s7cbT6WbothMJ6HaywK"
-    },
-    {
-      "added_at": "2026-06-11 22:01:16",
-      "album": {
         "name": "Even In The Quiet",
         "url": "https://open.spotify.com/album/2gvO56GUca2zlnDP6sb7XM"
       },
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-06-11 22:01:16",
       "album": {
-        "name": "Dreamers",
-        "url": "https://open.spotify.com/album/56iF3zN01TJO6yhr1HCVfA"
-      },
-      "artists": [
-        {
-          "name": "Mighty Oaks",
-          "url": "https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC"
-        }
-      ],
-      "duration_ms": 252293,
-      "name": "The Great Unknown",
-      "url": "https://open.spotify.com/track/7CeJuYHjC7wmtwMWBDKcvV"
-    },
-    {
-      "added_at": "2026-06-11 22:01:16",
-      "album": {
         "name": "Hold Your Head Up High",
         "url": "https://open.spotify.com/album/1utqu0XGDOsrDL4TWXhf8J"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 217360,
       "name": "Hold Your Head Up High",
       "url": "https://open.spotify.com/track/7oOsCpcgcLXKkkIPQzQ6cX"
+    },
+    {
+      "added_at": "2026-06-11 22:01:16",
+      "album": {
+        "name": "Dreamers",
+        "url": "https://open.spotify.com/album/56iF3zN01TJO6yhr1HCVfA"
+      },
+      "artists": [
+        {
+          "name": "Mighty Oaks",
+          "url": "https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC"
+        }
+      ],
+      "duration_ms": 252293,
+      "name": "The Great Unknown",
+      "url": "https://open.spotify.com/track/7CeJuYHjC7wmtwMWBDKcvV"
     },
     {
       "added_at": "2026-06-11 22:01:16",
@@ -1231,26 +1231,6 @@
     {
       "added_at": "2026-06-11 22:01:16",
       "album": {
-        "name": "la misma piedra",
-        "url": "https://open.spotify.com/album/73qUgyM2oEivK7vZzwOBYE"
-      },
-      "artists": [
-        {
-          "name": "Ton Felices",
-          "url": "https://open.spotify.com/artist/6grJmsi4w2KCWnI3vY2dQ4"
-        },
-        {
-          "name": "Rita Pay\u00e9s",
-          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
-        }
-      ],
-      "duration_ms": 216996,
-      "name": "la misma piedra",
-      "url": "https://open.spotify.com/track/6ULXF63UxgVFKVmuZgVVNU"
-    },
-    {
-      "added_at": "2026-06-11 22:01:16",
-      "album": {
         "name": "El Sitio de Mi Recreo",
         "url": "https://open.spotify.com/album/5uwukbu9XmoBz1qn8kuDME"
       },
@@ -1271,6 +1251,26 @@
       "duration_ms": 211791,
       "name": "El Sitio de Mi Recreo",
       "url": "https://open.spotify.com/track/63L2xTgFiiabCUdWwfXdep"
+    },
+    {
+      "added_at": "2026-06-11 22:01:16",
+      "album": {
+        "name": "la misma piedra",
+        "url": "https://open.spotify.com/album/73qUgyM2oEivK7vZzwOBYE"
+      },
+      "artists": [
+        {
+          "name": "Ton Felices",
+          "url": "https://open.spotify.com/artist/6grJmsi4w2KCWnI3vY2dQ4"
+        },
+        {
+          "name": "Rita Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
+        }
+      ],
+      "duration_ms": 216996,
+      "name": "la misma piedra",
+      "url": "https://open.spotify.com/track/6ULXF63UxgVFKVmuZgVVNU"
     },
     {
       "added_at": "2026-06-11 22:01:16",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2026-06-11 22:01:16",
       "album": {
-        "name": "En el Puerto",
-        "url": "https://open.spotify.com/album/0mbFMcXCLyJNieSTaT2sM4"
-      },
-      "artists": [
-        {
-          "name": "Adam Guerrero",
-          "url": "https://open.spotify.com/artist/3GJmCYBp0vJTVDDi5Vd9wn"
-        }
-      ],
-      "duration_ms": 156297,
-      "name": "En el Puerto",
-      "url": "https://open.spotify.com/track/34iqepdrWz1vhwY8xJzGkQ"
-    },
-    {
-      "added_at": "2026-06-11 22:01:16",
-      "album": {
         "name": "I Feel Good",
         "url": "https://open.spotify.com/album/7mYKEJW5dQ8iqyZDhufS68"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 229253,
       "name": "I Feel Good",
       "url": "https://open.spotify.com/track/6aMm2SYEO1TQru1qk8iyzT"
+    },
+    {
+      "added_at": "2026-06-11 22:01:16",
+      "album": {
+        "name": "En el Puerto",
+        "url": "https://open.spotify.com/album/0mbFMcXCLyJNieSTaT2sM4"
+      },
+      "artists": [
+        {
+          "name": "Adam Guerrero",
+          "url": "https://open.spotify.com/artist/3GJmCYBp0vJTVDDi5Vd9wn"
+        }
+      ],
+      "duration_ms": 156297,
+      "name": "En el Puerto",
+      "url": "https://open.spotify.com/track/34iqepdrWz1vhwY8xJzGkQ"
     },
     {
       "added_at": "2026-06-11 22:01:16",
@@ -1819,6 +1819,26 @@
     {
       "added_at": "2026-06-11 22:01:16",
       "album": {
+        "name": "1 Dolor",
+        "url": "https://open.spotify.com/album/7gXbL0h3fgN9iThK5cypAG"
+      },
+      "artists": [
+        {
+          "name": "Suave",
+          "url": "https://open.spotify.com/artist/16QMnwd53HiSIbB57esWKu"
+        },
+        {
+          "name": "Junnio",
+          "url": "https://open.spotify.com/artist/1sLvo7ClsDMTBrFe8aTzF6"
+        }
+      ],
+      "duration_ms": 186737,
+      "name": "1 Dolor",
+      "url": "https://open.spotify.com/track/6lNBceAGdl6t9slEQQc9UC"
+    },
+    {
+      "added_at": "2026-06-11 22:01:16",
+      "album": {
         "name": "HOY SALDR\u00c9 por si sales",
         "url": "https://open.spotify.com/album/6S7xuxL2nlvbV7Zx3Vz1CH"
       },
@@ -1839,26 +1859,6 @@
       "duration_ms": 171312,
       "name": "son de tu talla mis brazos",
       "url": "https://open.spotify.com/track/0qXDb5qvwZcMsMST0P2Ynq"
-    },
-    {
-      "added_at": "2026-06-11 22:01:16",
-      "album": {
-        "name": "1 Dolor",
-        "url": "https://open.spotify.com/album/7gXbL0h3fgN9iThK5cypAG"
-      },
-      "artists": [
-        {
-          "name": "Suave",
-          "url": "https://open.spotify.com/artist/16QMnwd53HiSIbB57esWKu"
-        },
-        {
-          "name": "Junnio",
-          "url": "https://open.spotify.com/artist/1sLvo7ClsDMTBrFe8aTzF6"
-        }
-      ],
-      "duration_ms": 186737,
-      "name": "1 Dolor",
-      "url": "https://open.spotify.com/track/6lNBceAGdl6t9slEQQc9UC"
     },
     {
       "added_at": "2026-06-11 22:01:16",

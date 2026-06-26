@@ -2325,6 +2325,28 @@
     },
     {
       "album": {
+        "name": "DO",
+        "url": "https://open.spotify.com/album/1Cj0Fz89D0N9cNcQoaGrMV"
+      },
+      "artists": [
+        {
+          "name": "Tjsarx",
+          "url": "https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ"
+        },
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145531,
+      "name": "DO",
+      "url": "https://open.spotify.com/track/5my8ScRHzur1cdz2dnnZqL"
+    },
+    {
+      "album": {
         "name": "Evidence",
         "url": "https://open.spotify.com/album/3X10R33baD5m8UJ0KeIfSo"
       },
@@ -3178,6 +3200,24 @@
       "duration_ms": 131640,
       "name": "Eyes of The Spirit Chant (Prayer Chant)",
       "url": "https://open.spotify.com/track/1ChG8HUNhUKa0Qyl4CvT5B"
+    },
+    {
+      "album": {
+        "name": "Faithful",
+        "url": "https://open.spotify.com/album/6QVYThtAZSWJuGRIBY8mhB"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 586140,
+      "name": "Faithful",
+      "url": "https://open.spotify.com/track/1hltOjT8EEq1FX0Y8NYCQI"
     },
     {
       "album": {
@@ -4394,7 +4434,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 416232,
       "name": "Halleluyah",
       "url": "https://open.spotify.com/track/0JdqdYIpLzDycj6k6SyGqj"
@@ -5252,6 +5292,28 @@
       "duration_ms": 312556,
       "name": "Igwe",
       "url": "https://open.spotify.com/track/6Of9mBX5A3C0DqH7ysqqFb"
+    },
+    {
+      "album": {
+        "name": "Ikeze",
+        "url": "https://open.spotify.com/album/6vPMxNFkNChotelcABKFpJ"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "The Good Wine",
+          "url": "https://open.spotify.com/artist/4zAIwqmbzqg6T8F0jfbcq6"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106111,
+      "name": "Ikeze",
+      "url": "https://open.spotify.com/track/0eVhIi4ISZc04b2sAH3r5j"
     },
     {
       "album": {
@@ -7368,7 +7430,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 392462,
       "name": "Nara Ekele - Remix",
       "url": "https://open.spotify.com/track/5z53vv2JHLryixAKAkduBN"
@@ -8602,7 +8664,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 193939,
       "name": "Potter's Hands",
       "url": "https://open.spotify.com/track/6Awa4IjKUveY7nsTo1QWK2"
@@ -10722,7 +10784,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 502918,
       "name": "We Raise A Sound",
       "url": "https://open.spotify.com/track/25roQKgZN5cEzxI9DmvJHX"
@@ -11258,6 +11320,24 @@
       "duration_ms": 154000,
       "name": "Yewo",
       "url": "https://open.spotify.com/track/24q2NrlyFV3htvw0EqqJvE"
+    },
+    {
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/602hWSJ5IXJPvm0bmyzTav"
+      },
+      "artists": [
+        {
+          "name": "Micah Charlz",
+          "url": "https://open.spotify.com/artist/2d2a1Ulv4ArqVxCOxfWCh1"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247603,
+      "name": "You",
+      "url": "https://open.spotify.com/track/6KxXdtHXfxf1tCqkN9XpmD"
     },
     {
       "album": {

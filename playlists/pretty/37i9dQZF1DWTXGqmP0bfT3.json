@@ -1,6 +1,6 @@
 {
   "description": "brutal breakdowns and riffs to amp you up.",
-  "num_followers": 566955,
+  "num_followers": 567126,
   "original_name": "Energy Booster: Metal",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2026-03-06 18:04:08",
       "album": {
+        "name": "Primo Victoria (Re-Armed)",
+        "url": "https://open.spotify.com/album/0XUH04WpLqnB0Q7Hep3aR0"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "duration_ms": 250720,
+      "name": "Primo Victoria",
+      "url": "https://open.spotify.com/track/5DbAOJ5dYW5A9xBhkeb33t"
+    },
+    {
+      "added_at": "2026-03-06 18:04:08",
+      "album": {
         "name": "RATATATA",
         "url": "https://open.spotify.com/album/4DccXktGbSRsgUoBvH8EN7"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 216428,
       "name": "RATATATA",
       "url": "https://open.spotify.com/track/14WYmNQWvR2TTWoRp8t9Ml"
-    },
-    {
-      "added_at": "2026-03-06 18:04:08",
-      "album": {
-        "name": "Primo Victoria (Re-Armed)",
-        "url": "https://open.spotify.com/album/0XUH04WpLqnB0Q7Hep3aR0"
-      },
-      "artists": [
-        {
-          "name": "Sabaton",
-          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
-        }
-      ],
-      "duration_ms": 250720,
-      "name": "Primo Victoria",
-      "url": "https://open.spotify.com/track/5DbAOJ5dYW5A9xBhkeb33t"
     },
     {
       "added_at": "2026-03-06 18:04:08",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-03-06 18:04:08",
       "album": {
-        "name": "Got Your Six",
-        "url": "https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 206903,
-      "name": "Jekyll and Hyde",
-      "url": "https://open.spotify.com/track/6efSwlK3LOlWOeKK9xlUKF"
-    },
-    {
-      "added_at": "2026-03-06 18:04:08",
-      "album": {
         "name": "The War to End All Wars",
         "url": "https://open.spotify.com/album/3kB4VjXKKCY7l5xeH113Da"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 236000,
       "name": "Stormtroopers",
       "url": "https://open.spotify.com/track/7cUHFTxJhxtZ5tpY34SMRw"
+    },
+    {
+      "added_at": "2026-03-06 18:04:08",
+      "album": {
+        "name": "Got Your Six",
+        "url": "https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 206903,
+      "name": "Jekyll and Hyde",
+      "url": "https://open.spotify.com/track/6efSwlK3LOlWOeKK9xlUKF"
     },
     {
       "added_at": "2026-03-06 18:04:08",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-03-06 18:04:08",
       "album": {
-        "name": "Repentless",
-        "url": "https://open.spotify.com/album/5QTGKCuJbyViaQQXjHOvjL"
-      },
-      "artists": [
-        {
-          "name": "Slayer",
-          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
-        }
-      ],
-      "duration_ms": 199866,
-      "name": "Repentless",
-      "url": "https://open.spotify.com/track/6W2KBpMMXW17r7dPyqi8Iu"
-    },
-    {
-      "added_at": "2026-03-06 18:04:08",
-      "album": {
         "name": "Berserker",
         "url": "https://open.spotify.com/album/499iZ0iesrciB5jO9jSOWx"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 304596,
       "name": "Blind And Frozen",
       "url": "https://open.spotify.com/track/7iOSeHfKU2EhSKcX7TbjKG"
+    },
+    {
+      "added_at": "2026-03-06 18:04:08",
+      "album": {
+        "name": "Repentless",
+        "url": "https://open.spotify.com/album/5QTGKCuJbyViaQQXjHOvjL"
+      },
+      "artists": [
+        {
+          "name": "Slayer",
+          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+        }
+      ],
+      "duration_ms": 199866,
+      "name": "Repentless",
+      "url": "https://open.spotify.com/track/6W2KBpMMXW17r7dPyqi8Iu"
     },
     {
       "added_at": "2026-03-06 18:04:08",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2026-03-06 18:04:08",
       "album": {
-        "name": "Bloodstone & Diamonds",
-        "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
+        "name": "The Sin and the Sentence",
+        "url": "https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT"
       },
       "artists": [
         {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 396736,
-      "name": "Game Over",
-      "url": "https://open.spotify.com/track/27oqpECc2wygxRAIBCgxHa"
+      "duration_ms": 349869,
+      "name": "The Sin and the Sentence",
+      "url": "https://open.spotify.com/track/6156ZPGcezId0Bmw7x7c7K"
     },
     {
       "added_at": "2026-03-06 18:04:08",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2026-03-06 18:04:08",
       "album": {
-        "name": "The Sin and the Sentence",
-        "url": "https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT"
+        "name": "Bloodstone & Diamonds",
+        "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
       },
       "artists": [
         {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 349869,
-      "name": "The Sin and the Sentence",
-      "url": "https://open.spotify.com/track/6156ZPGcezId0Bmw7x7c7K"
+      "duration_ms": 396736,
+      "name": "Game Over",
+      "url": "https://open.spotify.com/track/27oqpECc2wygxRAIBCgxHa"
     },
     {
       "added_at": "2026-03-06 18:04:08",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2026-03-06 18:04:08",
       "album": {
-        "name": "BRAVE NEW WORLD",
-        "url": "https://open.spotify.com/album/6ODIDW9Ud3whinMHkY2Cbh"
-      },
-      "artists": [
-        {
-          "name": "STARSET",
-          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
-        }
-      ],
-      "duration_ms": 263942,
-      "name": "BRAVE NEW WORLD",
-      "url": "https://open.spotify.com/track/7stpbtJzoBx1D38egFeT29"
-    },
-    {
-      "added_at": "2026-03-06 18:04:08",
-      "album": {
         "name": "A Man with a Plan",
         "url": "https://open.spotify.com/album/21oFR2AOxOiVXa99ZJCkhP"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 179820,
       "name": "A Man with a Plan",
       "url": "https://open.spotify.com/track/0QW8MW9NKqmhqnaVDtXXw9"
+    },
+    {
+      "added_at": "2026-03-06 18:04:08",
+      "album": {
+        "name": "BRAVE NEW WORLD",
+        "url": "https://open.spotify.com/album/6ODIDW9Ud3whinMHkY2Cbh"
+      },
+      "artists": [
+        {
+          "name": "STARSET",
+          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
+        }
+      ],
+      "duration_ms": 263942,
+      "name": "BRAVE NEW WORLD",
+      "url": "https://open.spotify.com/track/7stpbtJzoBx1D38egFeT29"
     },
     {
       "added_at": "2026-03-06 18:04:08",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2026-03-06 18:04:08",
       "album": {
-        "name": "Blood of the Nations",
-        "url": "https://open.spotify.com/album/0sUtCw0dDv0KC8zrnxlmY4"
-      },
-      "artists": [
-        {
-          "name": "Accept",
-          "url": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
-        }
-      ],
-      "duration_ms": 324746,
-      "name": "Beat the Bastards",
-      "url": "https://open.spotify.com/track/5CtaBjZac81phlz5FNFI18"
-    },
-    {
-      "added_at": "2026-03-06 18:04:08",
-      "album": {
         "name": "No Grave but the Sea (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6leGMq1KVN1SWHScCunixS"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 236786,
       "name": "Alestorm",
       "url": "https://open.spotify.com/track/6Br1VbTp9OptQn0uTQcil0"
+    },
+    {
+      "added_at": "2026-03-06 18:04:08",
+      "album": {
+        "name": "Blood of the Nations",
+        "url": "https://open.spotify.com/album/0sUtCw0dDv0KC8zrnxlmY4"
+      },
+      "artists": [
+        {
+          "name": "Accept",
+          "url": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
+        }
+      ],
+      "duration_ms": 324746,
+      "name": "Beat the Bastards",
+      "url": "https://open.spotify.com/track/5CtaBjZac81phlz5FNFI18"
     },
     {
       "added_at": "2026-03-06 18:04:08",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2026-03-06 18:04:08",
       "album": {
-        "name": "Phantom Anthem",
-        "url": "https://open.spotify.com/album/5raPbxzLIp6YJTN5jyyT2f"
-      },
-      "artists": [
-        {
-          "name": "August Burns Red",
-          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
-        }
-      ],
-      "duration_ms": 277693,
-      "name": "Invisible Enemy",
-      "url": "https://open.spotify.com/track/4gSokjaAfP1W9NTfkolzdJ"
-    },
-    {
-      "added_at": "2026-03-06 18:04:08",
-      "album": {
         "name": "Tether",
         "url": "https://open.spotify.com/album/7r8e3NJOBNWCznsvhN4SHR"
       },
@@ -2139,18 +2123,18 @@
     {
       "added_at": "2026-03-06 18:04:08",
       "album": {
-        "name": "I, the Mask",
-        "url": "https://open.spotify.com/album/3nE97EZ0zIx760XlDczMo7"
+        "name": "Phantom Anthem",
+        "url": "https://open.spotify.com/album/5raPbxzLIp6YJTN5jyyT2f"
       },
       "artists": [
         {
-          "name": "In Flames",
-          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+          "name": "August Burns Red",
+          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
         }
       ],
-      "duration_ms": 213773,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/4Io0qzQ3z8HjWMoF07rHLG"
+      "duration_ms": 277693,
+      "name": "Invisible Enemy",
+      "url": "https://open.spotify.com/track/4gSokjaAfP1W9NTfkolzdJ"
     },
     {
       "added_at": "2026-03-06 18:04:08",
@@ -2171,6 +2155,22 @@
       "duration_ms": 225758,
       "name": "In Another Life (feat. Courtney LaPlante)",
       "url": "https://open.spotify.com/track/5F2L2phmZw5dZZY72VpFM2"
+    },
+    {
+      "added_at": "2026-03-06 18:04:08",
+      "album": {
+        "name": "I, the Mask",
+        "url": "https://open.spotify.com/album/3nE97EZ0zIx760XlDczMo7"
+      },
+      "artists": [
+        {
+          "name": "In Flames",
+          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+        }
+      ],
+      "duration_ms": 213773,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/4Io0qzQ3z8HjWMoF07rHLG"
     },
     {
       "added_at": "2026-03-06 18:04:08",

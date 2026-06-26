@@ -2,9 +2,9 @@
 
 ### [ABAT∑RA](https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w)
 
-> Cover: Stormy
+> Cover: Shobee
 
-534 songs - 1 day 3 hr 43 min
+535 songs - 1 day 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [AJI TCHOUF](https://open.spotify.com/track/75DWIaOCmyEP7licOYs9pl) | [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17), [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [AJI TCHOUF](https://open.spotify.com/album/3QcLNHlCktUOE2d2QknP8K) | 3:56 | 2023-09-21 | 2023-12-30 |
 | [Akhennouch](https://open.spotify.com/track/0jhnXwnkKVB4FpI3Y7nJjW) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Euphorie \(DELUXE\)](https://open.spotify.com/album/5KH7VsdG6AuFxZygl3osgS) | 2:43 | 2024-09-01 | 2025-02-13 |
 | [Akhennouch](https://open.spotify.com/track/4ue8qeZznm4DJJFs7DXYCk) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Euphorie](https://open.spotify.com/album/2f1y0eNkIK9RQdwhWdNJ8a) | 2:43 | 2023-11-10 | 2024-05-10 |
+| [Al9](https://open.spotify.com/track/6R2n4QbKaGEq1tSBxMSDV4) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL) | [Al9](https://open.spotify.com/album/02A1XjlZUuqqnzjJ1dz3yc) | 2:00 | 2026-06-25 |  |
 | [Alaska](https://open.spotify.com/track/3rI36YKtHPFsqzj1dopQZQ) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [Alaska](https://open.spotify.com/album/44xgCRX6NDYWXQiYXfXt1t) | 3:36 | 2025-11-07 | 2025-11-29 |
 | [Alatif](https://open.spotify.com/track/5EziL9bwKacAPWAQSkl8Wh) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Alatif](https://open.spotify.com/album/12PmJ95M7wML8ievJRi0zx) | 3:16 | 2023-02-18 | 2023-06-23 |
 | [ALL THE MONSTERS COME OUT AT NIGHT](https://open.spotify.com/track/0FAMmPD8qMBkTylNs3WJsH) | [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1), [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [DIARY OF A DEAD MAN](https://open.spotify.com/album/6vxkoCVCD9t5QWbSpeAmP8) | 3:23 | 2024-06-20 | 2024-07-13 |
@@ -158,7 +159,7 @@
 | [Désert](https://open.spotify.com/track/51HpsmYJtOMzdO06DfnpNd) | [La Fouine](https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Désert](https://open.spotify.com/album/4NES3mugoAZeqRC2P9i7qC) | 3:06 | 2025-02-12 | 2025-08-09 |
 | [El barrio](https://open.spotify.com/track/3HFkMYk8c5Khmfl0nmQYHm) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:28 | 2023-01-06 | 2023-06-23 |
 | [ELVIS](https://open.spotify.com/track/3DkAOxcXbO7iqrBkbTqWYR) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 3:06 | 2024-07-12 | 2024-07-27 |
-| [Epic Fury](https://open.spotify.com/track/5LKxJSEihInyb7Xer7WDdn) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Epic Fury](https://open.spotify.com/album/5IkJ9HgQ1Jx7MyaiDPLT9o) | 2:08 | 2026-06-13 |  |
+| [Epic Fury](https://open.spotify.com/track/5LKxJSEihInyb7Xer7WDdn) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Epic Fury](https://open.spotify.com/album/5IkJ9HgQ1Jx7MyaiDPLT9o) | 2:08 | 2026-06-13 | 2026-06-26 |
 | [ETAT](https://open.spotify.com/track/6wMXaJAZQMv9PUKyn62cWe) | [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg), [Fetah](https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu) | [BALA W FAS](https://open.spotify.com/album/2QIh9VO7NiTo2BCqFnl9qa) | 3:35 | 2025-03-05 | 2025-04-17 |
 | [Eufury](https://open.spotify.com/track/6qLmmvQDXYI9jesFhTdOEn) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Eufury](https://open.spotify.com/album/6SOAaopbpAVjiUE80HA1X5) | 2:34 | 2022-12-26 | 2023-01-20 |
 | [Everlasting](https://open.spotify.com/track/2Be8nEJt4Hb7FSc2XvvGvU) | [Diib](https://open.spotify.com/artist/1PAFc1G2WeoQ4DeGKETVdi) | [Everlasting](https://open.spotify.com/album/3uaYjrZkX6GWwH4kT3I0Cj) | 2:09 | 2023-10-26 | 2024-04-16 |

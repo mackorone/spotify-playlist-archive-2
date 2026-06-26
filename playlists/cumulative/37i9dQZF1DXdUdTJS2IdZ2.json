@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Rising stars and new releases from sunny Singapore. Cover: Stopgap",
+  "description": "Rising stars and new releases from sunny Singapore. Cover: KIARA",
   "name": "Rising 65",
   "tracks": [
     {
@@ -330,6 +330,24 @@
       "duration_ms": 196923,
       "name": "Ada Apa Di Sana",
       "url": "https://open.spotify.com/track/5PHdC78MpFHGP0ixttW9oR"
+    },
+    {
+      "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/5FrrWRUUXdW1Wzq2Sf7ykA"
+      },
+      "artists": [
+        {
+          "name": "Richard Jansen",
+          "url": "https://open.spotify.com/artist/1XywyUNRJT198rCERG0pA0"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232631,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/0McJKd101GVh4l1hQOAqMx"
     },
     {
       "album": {
@@ -4715,6 +4733,24 @@
     },
     {
       "album": {
+        "name": "Difference",
+        "url": "https://open.spotify.com/album/0pxplmDxhmn7x2QatY8WXc"
+      },
+      "artists": [
+        {
+          "name": "Krysta Joy",
+          "url": "https://open.spotify.com/artist/4VXfwnB0P19PoJq9gRYcLS"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201994,
+      "name": "Difference",
+      "url": "https://open.spotify.com/track/6H0MOUCm8NoQ1IpMnxrCB8"
+    },
+    {
+      "album": {
         "name": "DINOSAUR",
         "url": "https://open.spotify.com/album/5jsQBUbpsOZ0gYJZWthE8g"
       },
@@ -5142,6 +5178,24 @@
       "duration_ms": 181736,
       "name": "Dreamer's Song",
       "url": "https://open.spotify.com/track/5VbmUEAhSFWVzOnH0rmwsl"
+    },
+    {
+      "album": {
+        "name": "drip drop",
+        "url": "https://open.spotify.com/album/6MANePRxpESga8yRIjsd1m"
+      },
+      "artists": [
+        {
+          "name": "phyllzx",
+          "url": "https://open.spotify.com/artist/3pGw79Q5CfoBgwYw4vHfS2"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151200,
+      "name": "drip drop",
+      "url": "https://open.spotify.com/track/6raY7GdYS04cV0O66c0Arb"
     },
     {
       "album": {
@@ -6197,6 +6251,46 @@
     },
     {
       "album": {
+        "name": "Feel The Same",
+        "url": "https://open.spotify.com/album/47rg3xDbdjWlQUT2ifSvKO"
+      },
+      "artists": [
+        {
+          "name": "DEON",
+          "url": "https://open.spotify.com/artist/2m3AQebiU86qWsrwG9Y6gN"
+        },
+        {
+          "name": "Don Aaron",
+          "url": "https://open.spotify.com/artist/7yZk3ndNXj6yeOxxafjEFU"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180696,
+      "name": "Feel The Same",
+      "url": "https://open.spotify.com/track/07CaxqXK4XktFo7YFhVYWA"
+    },
+    {
+      "album": {
+        "name": "Fifth Member",
+        "url": "https://open.spotify.com/album/6HnU9AwM9DK0QYfdkw5PNI"
+      },
+      "artists": [
+        {
+          "name": "Johnstan Kazue",
+          "url": "https://open.spotify.com/artist/43nCNSMrLQJgD56XouGsoJ"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171597,
+      "name": "Fifth Member",
+      "url": "https://open.spotify.com/track/1bi1xETcGtFf1Kw5F7tCBo"
+    },
+    {
+      "album": {
         "name": "FIGURE IT OUT",
         "url": "https://open.spotify.com/album/1Vy2Tn3Q1zdcgafspYcz9V"
       },
@@ -6630,7 +6724,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 164940,
       "name": "forget me",
       "url": "https://open.spotify.com/track/5v2fBtaHK0d8AdnOSl3PFu"
@@ -7469,6 +7563,28 @@
     },
     {
       "album": {
+        "name": "Good at Being Bad",
+        "url": "https://open.spotify.com/album/2khfi5fLxDceCp8UT5ilcX"
+      },
+      "artists": [
+        {
+          "name": "Sky Shen \u6c88\u4e8e\u7fd4",
+          "url": "https://open.spotify.com/artist/4rCtNYi7fb5vwXz7dxHVkY"
+        },
+        {
+          "name": "Odelia Rei",
+          "url": "https://open.spotify.com/artist/7G7I02yeiNBx3WwKYWlpaA"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210964,
+      "name": "Good at Being Bad",
+      "url": "https://open.spotify.com/track/6nHVMJQlS208sL2nD55437"
+    },
+    {
+      "album": {
         "name": "Swim, Swim",
         "url": "https://open.spotify.com/album/0KaNwNqaZmXPVswyBO8tVt"
       },
@@ -7654,6 +7770,28 @@
       "duration_ms": 147555,
       "name": "Grow",
       "url": "https://open.spotify.com/track/4KfnCEXq1zFR5UILSVbbkU"
+    },
+    {
+      "album": {
+        "name": "GROW UP!",
+        "url": "https://open.spotify.com/album/1k10s68Se0uxzj62RE9QMN"
+      },
+      "artists": [
+        {
+          "name": "ICEBOX",
+          "url": "https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK"
+        },
+        {
+          "name": "teem",
+          "url": "https://open.spotify.com/artist/0unwNwqhc1Mvt46XAUbukd"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213626,
+      "name": "GROW UP!",
+      "url": "https://open.spotify.com/track/7nc0JzDG6sXmUBk2YBPLVk"
     },
     {
       "album": {
@@ -9200,7 +9338,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 212913,
       "name": "hYperSAD",
       "url": "https://open.spotify.com/track/4yedtyS1vNhbYjvOceAYya"
@@ -11280,7 +11418,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 207120,
       "name": "Just When I Thought",
       "url": "https://open.spotify.com/track/7LuchRu3iFNM0OxCaJ3jzs"
@@ -11548,6 +11686,24 @@
       "duration_ms": 176842,
       "name": "kiss u there",
       "url": "https://open.spotify.com/track/7AkDyHuvur7ARUmH4bWfTS"
+    },
+    {
+      "album": {
+        "name": "everland",
+        "url": "https://open.spotify.com/album/6KDACdZRZMtZGAv00d3cpP"
+      },
+      "artists": [
+        {
+          "name": "Regina Song",
+          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212470,
+      "name": "Kisses by the shore",
+      "url": "https://open.spotify.com/track/57DO9sz4pweyiIeOavYhZk"
     },
     {
       "album": {
@@ -13667,6 +13823,24 @@
     },
     {
       "album": {
+        "name": "Miss it",
+        "url": "https://open.spotify.com/album/6xrWEFIqPuI4tgFWn9tH3u"
+      },
+      "artists": [
+        {
+          "name": "KIARA",
+          "url": "https://open.spotify.com/artist/3ereOrrDplpipPoEhHYFeI"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140275,
+      "name": "Miss it",
+      "url": "https://open.spotify.com/track/1jCddnBIWCU30rImYdZqXy"
+    },
+    {
+      "album": {
         "name": "missed call",
         "url": "https://open.spotify.com/album/3TxhBZL0RbHDMrZuoNGd9q"
       },
@@ -14016,7 +14190,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 153809,
       "name": "My Flame",
       "url": "https://open.spotify.com/track/1eH1UFIiOnLLGiNU6vhS0J"
@@ -15347,6 +15521,32 @@
     },
     {
       "album": {
+        "name": "One of a Kind",
+        "url": "https://open.spotify.com/album/6NiySGCXFabjo5QpZeQXmo"
+      },
+      "artists": [
+        {
+          "name": "me-mai",
+          "url": "https://open.spotify.com/artist/3mUSzVCF0uh8YuVH16vNJS"
+        },
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        },
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173217,
+      "name": "One of a Kind",
+      "url": "https://open.spotify.com/track/1fw2TeV3p4Rc0Us9tcwBts"
+    },
+    {
+      "album": {
         "name": "one of one freestyle",
         "url": "https://open.spotify.com/album/31aciwdsoj0yOxr0Fc1s6E"
       },
@@ -15416,6 +15616,24 @@
       "duration_ms": 166071,
       "name": "Open Sun",
       "url": "https://open.spotify.com/track/4lLKOHmyVqzNYW8PM7jrcn"
+    },
+    {
+      "album": {
+        "name": "everland",
+        "url": "https://open.spotify.com/album/6KDACdZRZMtZGAv00d3cpP"
+      },
+      "artists": [
+        {
+          "name": "Regina Song",
+          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170181,
+      "name": "Opening Line",
+      "url": "https://open.spotify.com/track/4SYuHF6mkmOm9kMEhZYSLv"
     },
     {
       "album": {
@@ -16526,7 +16744,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 110886,
       "name": "POV: Pray to God \u795e",
       "url": "https://open.spotify.com/track/0ggKgMJVLqxyibJxYH7cr8"
@@ -18753,6 +18971,24 @@
     },
     {
       "album": {
+        "name": "siren",
+        "url": "https://open.spotify.com/album/5tNUYIhJkgNQMzTozYOQHy"
+      },
+      "artists": [
+        {
+          "name": "spilled milk",
+          "url": "https://open.spotify.com/artist/0M04UBvXW2tTDSZJV5mDpm"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218461,
+      "name": "siren",
+      "url": "https://open.spotify.com/track/27IZdfUVcbPiELEOguU106"
+    },
+    {
+      "album": {
         "name": "Skibidi",
         "url": "https://open.spotify.com/album/4byK3iy3CTIUfTizINvL5A"
       },
@@ -19282,6 +19518,24 @@
       "duration_ms": 116603,
       "name": "SOUR GRAPE",
       "url": "https://open.spotify.com/track/2GgBQrVEjRoIvJO1SFaUA3"
+    },
+    {
+      "album": {
+        "name": "south",
+        "url": "https://open.spotify.com/album/7rD9D1pSsEXG7X2NMaCo5x"
+      },
+      "artists": [
+        {
+          "name": "Mikaela Ray",
+          "url": "https://open.spotify.com/artist/5nlXxWLxmfWwuE2m5ZFVaW"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "south",
+      "url": "https://open.spotify.com/track/0HeVS1bhhC3TCN65rRUc0P"
     },
     {
       "album": {
@@ -20961,6 +21215,28 @@
     },
     {
       "album": {
+        "name": "The Hardest Thing",
+        "url": "https://open.spotify.com/album/2PLZ9hI8mDeub9AFbltuo2"
+      },
+      "artists": [
+        {
+          "name": "Charlie Lim",
+          "url": "https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ"
+        },
+        {
+          "name": "Tamzene",
+          "url": "https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236578,
+      "name": "The Hardest Thing",
+      "url": "https://open.spotify.com/track/1esXEYlMNJfaeO03HggvI6"
+    },
+    {
+      "album": {
         "name": "The Haunting",
         "url": "https://open.spotify.com/album/579E9QhxyWB2mRjMLQbtYN"
       },
@@ -21980,7 +22256,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 250000,
       "name": "tomatoes",
       "url": "https://open.spotify.com/track/1rpI2jUuX92lJw4Dn99q54"
@@ -25609,6 +25885,24 @@
     },
     {
       "album": {
+        "name": "\u559c\u6b61\u8ab0",
+        "url": "https://open.spotify.com/album/697y3EsmFpfst81qqsIFwm"
+      },
+      "artists": [
+        {
+          "name": "June Lim HZ",
+          "url": "https://open.spotify.com/artist/0SCWACAGWz35LAd8kIjOAo"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246910,
+      "name": "\u559c\u6b61\u8ab0",
+      "url": "https://open.spotify.com/track/1ptNbnKxOM5QPNsviNMQNy"
+    },
+    {
+      "album": {
         "name": "\u56de\u5230\u90a3\u5929",
         "url": "https://open.spotify.com/album/7aBVFpqUnNVl8CfK5PcVF5"
       },
@@ -26360,7 +26654,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 236428,
       "name": "\u6211\u5011\u6c92\u6709\u4ee5\u5f8c",
       "url": "https://open.spotify.com/track/5FkDo3pWKNl9gsKtgGXw0c"
@@ -27486,6 +27780,28 @@
       "duration_ms": 196463,
       "name": "\u770b\u4e0d\u898b\u3001\u807d\u4e0d\u898b",
       "url": "https://open.spotify.com/track/0vIKgO3oDuDat5BC57P4ks"
+    },
+    {
+      "album": {
+        "name": "\u771f\u76f8\uff08\u65b0\u4f20\u5a92\u620f\u5267\u300a\u81f3\u6b7b\u4e0d\u6e1d\u300b\u63d2\u66f2\uff09",
+        "url": "https://open.spotify.com/album/5EwSSmTWr9jxhibXWBkOIV"
+      },
+      "artists": [
+        {
+          "name": "Tay Kewei",
+          "url": "https://open.spotify.com/artist/7CEGCiUDMO8Xr257mqIJl2"
+        },
+        {
+          "name": "Alfred Sim",
+          "url": "https://open.spotify.com/artist/3epKmTu8QPqArqY6gEVfyS"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266276,
+      "name": "\u771f\u76f8\uff08\u65b0\u4f20\u5a92\u620f\u5267\u300a\u81f3\u6b7b\u4e0d\u6e1d\u300b\u63d2\u66f2\uff09",
+      "url": "https://open.spotify.com/track/26YuUvkWdgVeqlhGnQyeKI"
     },
     {
       "album": {

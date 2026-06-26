@@ -4,7 +4,7 @@
 
 > This is John Coltrane\. The essential tracks, all in one playlist.
 
-66 songs - 7 hr 30 min
+67 songs - 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A Love Supreme, Pt\. I – Acknowledgement](https://open.spotify.com/track/0CLbmkYmQIWiEwnsbOkLpd) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [A Love Supreme](https://open.spotify.com/album/7Eoz7hJvaX1eFkbpQxC5PA) | 7:42 | 2025-07-20 |  |
 | [A Love Supreme, Pt\. II \- Resolution](https://open.spotify.com/track/7unF2ARDGldwWxZWCmlwDM) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [A Love Supreme](https://open.spotify.com/album/7Eoz7hJvaX1eFkbpQxC5PA) | 7:17 | 2025-07-20 |  |
 | [A Love Supreme, Pt\. IV \- Psalm](https://open.spotify.com/track/5FLQmLjjeNIuC8U5mDnXC8) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [A Love Supreme](https://open.spotify.com/album/7Eoz7hJvaX1eFkbpQxC5PA) | 7:02 | 2026-01-17 | 2026-05-09 |
-| [After The Rain](https://open.spotify.com/track/7qIu3QtATGnJhQ9RyrDQHP) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Dear Old Stockholm](https://open.spotify.com/album/6P6XOKteZFhhaCs1duL40k) | 4:08 | 2026-03-30 |  |
+| [After The Rain](https://open.spotify.com/track/7qIu3QtATGnJhQ9RyrDQHP) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Dear Old Stockholm](https://open.spotify.com/album/6P6XOKteZFhhaCs1duL40k) | 4:08 | 2026-03-30 | 2026-06-26 |
 | [After The Rain](https://open.spotify.com/track/2JQqfVJhFnNADUJDDPmw63) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Impressions](https://open.spotify.com/album/3Ot8usQajsFawIAsULDrqj) | 4:09 | 2025-07-20 | 2026-03-04 |
 | [Aisha](https://open.spotify.com/track/0Haa5GeQyJJ9SjSqbqcXsT) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Olé Coltrane \(Deluxe Edition\)](https://open.spotify.com/album/5BGkenbuo3xY3CRblRPj8K) | 7:45 | 2025-09-02 | 2025-11-17 |
 | [All Blues \(feat\. John Coltrane, Cannonball Adderley & Bill Evans\)](https://open.spotify.com/track/5o3DSHw1ORhM3lWxqGRvEf) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Kind Of Blue \(Legacy Edition\)](https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw) | 11:32 | 2025-07-20 |  |
@@ -64,6 +64,7 @@
 | [Take The Coltrane](https://open.spotify.com/track/6aNnVdpAQu8R0qGq5NMXyZ) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5) | 4:42 | 2025-07-20 |  |
 | [Tenor Madness \- Rudy Van Gelder Remastered 2006 / Shared ISRC](https://open.spotify.com/track/7f4svguucdFTOv6gOjOvhO) | [Sonny Rollins Quartet](https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Tenor Madness](https://open.spotify.com/album/7Jpvy75Z6twnPyADNBzeII) | 12:13 | 2025-07-20 |  |
 | [The Feeling Of Jazz](https://open.spotify.com/track/6aQjtWVOYLhaatELyPBt12) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5) | 5:29 | 2025-07-20 |  |
+| [The Night Has a Thousand Eyes](https://open.spotify.com/track/5rVVbOL9bl2RmAh9aNqPp8) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Coltrane's Sound](https://open.spotify.com/album/2h8x8HL7N3grURq1OM77ja) | 6:51 | 2026-06-26 |  |
 | [Theme For Ernie](https://open.spotify.com/track/0H2iAE7Y1ivCZ5YzEf3NMT) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Soultrane](https://open.spotify.com/album/7pU5qUNqbOMToIyqzF0Nmg) | 4:53 | 2025-07-20 |  |
 | [Theme For Ernie](https://open.spotify.com/track/5VA1yV8w80A5yBkro1qPWN) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [The Mellow Sound Of John Coltrane](https://open.spotify.com/album/0siipFlB8UzK9tFfCUHQfi) | 4:57 | 2026-04-10 | 2026-05-19 |
 | [They Say It's Wonderful](https://open.spotify.com/track/6x8XKDM8Rnid4TyOUg9kj3) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane And Johnny Hartman](https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU) | 5:20 | 2025-07-20 |  |

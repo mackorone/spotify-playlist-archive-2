@@ -1,13 +1,29 @@
 {
   "description": "Great food, good company and some soft music. ",
-  "num_followers": 648019,
+  "num_followers": 647967,
   "original_name": "Dinner Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEsWlYwLSWBAgD72qa0fWQTCTPoq",
+  "snapshot_id": "AAAAADG/VEwoSEN7ZKdxaWyw35e+cT3Z",
   "tracks": [
+    {
+      "added_at": "2026-06-26 04:01:48",
+      "album": {
+        "name": "Most of the Time",
+        "url": "https://open.spotify.com/album/1ze1UO2MCfEoBzUGRMGrfR"
+      },
+      "artists": [
+        {
+          "name": "Jackie Evans",
+          "url": "https://open.spotify.com/artist/3hr95JCfCIlFRK9EmDFJ3R"
+        }
+      ],
+      "duration_ms": 167020,
+      "name": "10 Till the Morning",
+      "url": "https://open.spotify.com/track/5a7nKar5pBJj1dl0uEODqv"
+    },
     {
       "added_at": "2025-11-14 05:00:29",
       "album": {
@@ -75,22 +91,6 @@
       "duration_ms": 200626,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "I Try: The Macy Gray Collection",
-        "url": "https://open.spotify.com/album/5CM936m8EZUHEEpxN5X7Sa"
-      },
-      "artists": [
-        {
-          "name": "Macy Gray",
-          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
-        }
-      ],
-      "duration_ms": 238066,
-      "name": "I Try",
-      "url": "https://open.spotify.com/track/00cP99zN0bsUZSpXbAlQXg"
     },
     {
       "added_at": "2023-10-20 04:00:00",

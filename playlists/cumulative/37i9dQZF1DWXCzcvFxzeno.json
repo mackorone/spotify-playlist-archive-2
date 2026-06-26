@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-11",
-  "description": "\ud83d\ude08 welcome to the rave \ud83d\ude08  Cover: Sara Landry",
+  "description": "\ud83d\ude08 welcome to the rave \ud83d\ude08  Cover: 999999999",
   "name": "Hard Techno",
   "tracks": [
     {
@@ -1407,6 +1407,28 @@
     },
     {
       "album": {
+        "name": "Catharsis",
+        "url": "https://open.spotify.com/album/5q3jPN4pN99nvgzvHuNwie"
+      },
+      "artists": [
+        {
+          "name": "KUKO",
+          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
+        },
+        {
+          "name": "Tokio Hotel",
+          "url": "https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226064,
+      "name": "Catharsis",
+      "url": "https://open.spotify.com/track/0fW4McH0CZO94g0L8sJCE2"
+    },
+    {
+      "album": {
         "name": "Chaos Magicka",
         "url": "https://open.spotify.com/album/0diP5S4t1ExwK7TWcD7Z4N"
       },
@@ -1750,7 +1772,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 348192,
       "name": "Dam Dam Dam",
       "url": "https://open.spotify.com/track/2xBXLFJRja72cfOVR4o8WY"
@@ -1842,6 +1864,28 @@
       "duration_ms": 192000,
       "name": "Dance With The Devil (The 6th Gate) (Reinier Zonneveld Remix)",
       "url": "https://open.spotify.com/track/4MD1o8JcULNAz85S6Ld57J"
+    },
+    {
+      "album": {
+        "name": "Data Corrupted",
+        "url": "https://open.spotify.com/album/2yyPlGLHjaWi5Dv1JO9G4H"
+      },
+      "artists": [
+        {
+          "name": "Radical Redemption",
+          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
+        },
+        {
+          "name": "Kruelty",
+          "url": "https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Data Corrupted",
+      "url": "https://open.spotify.com/track/4jA66zbGyEIOO7axqn4kSM"
     },
     {
       "album": {
@@ -2758,6 +2802,28 @@
       "duration_ms": 116521,
       "name": "French Kiss",
       "url": "https://open.spotify.com/track/45f8hQO5e28l0KiCfP6OWx"
+    },
+    {
+      "album": {
+        "name": "FREQUENCIES",
+        "url": "https://open.spotify.com/album/5650LwtbHaFVxbYdQ1vXD3"
+      },
+      "artists": [
+        {
+          "name": "Helen Frey",
+          "url": "https://open.spotify.com/artist/2VHOmBPPSEKRE14EFfAAxu"
+        },
+        {
+          "name": "PRMIDV",
+          "url": "https://open.spotify.com/artist/3iQTD4N5Tkb9NQCb5idqXS"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256500,
+      "name": "FREQUENCIES",
+      "url": "https://open.spotify.com/track/4Bcscbk7M7ZiXaYvIY8lso"
     },
     {
       "album": {
@@ -3763,6 +3829,28 @@
     },
     {
       "album": {
+        "name": "I Got Acid",
+        "url": "https://open.spotify.com/album/7DqeTZTW7W1MSewzTKjnwR"
+      },
+      "artists": [
+        {
+          "name": "999999999",
+          "url": "https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc"
+        },
+        {
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127586,
+      "name": "I Got Acid",
+      "url": "https://open.spotify.com/track/482SNF4FRJ5Ik8j2krjMEE"
+    },
+    {
+      "album": {
         "name": "I Gotta Come In",
         "url": "https://open.spotify.com/album/6U4Zykb93hkwR0mE4pj7lS"
       },
@@ -4040,7 +4128,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 164053,
       "name": "Kick Bass In Your Face",
       "url": "https://open.spotify.com/track/50aNLhnlmcuJQ2iF7Bpd6q"
@@ -4852,7 +4940,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 320093,
       "name": "Mystical Energy",
       "url": "https://open.spotify.com/track/6jQJKutPT5MicGc9jvgFhu"
@@ -5234,7 +5322,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 255584,
       "name": "Phatt Bass",
       "url": "https://open.spotify.com/track/60NIQobRG98JBVgQYU9gyi"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Where afrobeats meets amapiano.\nCover:  Balloranking",
+  "description": "Where afrobeats meets amapiano.\nCover:  Wande Coal",
   "name": "afro-piano",
   "tracks": [
     {
@@ -1871,6 +1871,32 @@
     },
     {
       "album": {
+        "name": "I Know Who I Be",
+        "url": "https://open.spotify.com/album/7dR22XlVbfSAhTSltPiU7g"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "JAZZWRLD",
+          "url": "https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz"
+        },
+        {
+          "name": "GL_Ceejay",
+          "url": "https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233976,
+      "name": "I Know Who I Be",
+      "url": "https://open.spotify.com/track/1TglprKNjHw9rmTNgVZpUu"
+    },
+    {
+      "album": {
         "name": "Love Is Not Enough, Vol. 2",
         "url": "https://open.spotify.com/album/4Z8XKYQDIVxQx6s2LTqDiG"
       },
@@ -3141,6 +3167,28 @@
     },
     {
       "album": {
+        "name": "OWO",
+        "url": "https://open.spotify.com/album/3CiDvVXSHpfaHVqANurLxY"
+      },
+      "artists": [
+        {
+          "name": "JIJII",
+          "url": "https://open.spotify.com/artist/1uIotlj48VDryRfgYUvoE6"
+        },
+        {
+          "name": "Fimi",
+          "url": "https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141052,
+      "name": "OWO",
+      "url": "https://open.spotify.com/track/1wZFb5OWDEfBov6nSKioax"
+    },
+    {
+      "album": {
         "name": "Pain Killer",
         "url": "https://open.spotify.com/album/0IsBgS4ulHe5hchLBo5Xvc"
       },
@@ -3692,7 +3740,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 146548,
       "name": "Sin-Idem",
       "url": "https://open.spotify.com/track/56t2PaCWDBWFd0431B9Wty"
@@ -3953,6 +4001,24 @@
     },
     {
       "album": {
+        "name": "KING COAL",
+        "url": "https://open.spotify.com/album/6KPqebNAhpIVGeDzjaATxr"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 6",
+      "url": "https://open.spotify.com/track/4erCeMYq7wsuiKTpBF69hH"
+    },
+    {
+      "album": {
         "name": "Vex For U (feat. Fireboy DML & Ayo Maff)",
         "url": "https://open.spotify.com/album/6yhDNq8JsOA3fd8xW4JgPB"
       },
@@ -4138,7 +4204,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 175714,
       "name": "Yolo",
       "url": "https://open.spotify.com/track/0lqXbEtZXcQ6TjEGyANB2g"

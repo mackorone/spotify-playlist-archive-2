@@ -945,6 +945,32 @@
     },
     {
       "album": {
+        "name": "Sib\u00e9rie",
+        "url": "https://open.spotify.com/album/2AYHsQAtCJDH3kAoaJNcD2"
+      },
+      "artists": [
+        {
+          "name": "Misa",
+          "url": "https://open.spotify.com/artist/3KMRfMxNGZlob5zfIwwnMT"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Bob Marlich",
+          "url": "https://open.spotify.com/artist/2hbpMFkBbWiREMmfZ6KC3T"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Dame De Fer",
+      "url": "https://open.spotify.com/track/3tu5edWklybUy0NkVjnWec"
+    },
+    {
+      "album": {
         "name": "Directors Cut 4",
         "url": "https://open.spotify.com/album/1CbmjQ2qeIJj4VSTOnnAfY"
       },
@@ -2684,7 +2710,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 182857,
       "name": "OFFERINGS",
       "url": "https://open.spotify.com/track/5hMnU2uA3XbuDEulRabqRc"

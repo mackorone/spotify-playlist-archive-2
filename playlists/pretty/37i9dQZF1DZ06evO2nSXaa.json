@@ -1,12 +1,12 @@
 {
   "description": "This is Tate McRae. The essential tracks, all in one playlist.",
-  "num_followers": 425784,
+  "num_followers": 425820,
   "original_name": "This Is Tate McRae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajnMgAAAAACkQX+YWML/ZipWIxXZNWIm",
+  "snapshot_id": "ajseAAAAAABdOJWwcYDnj/C4rjiHREZ9",
   "tracks": [
     {
       "added_at": null,
@@ -216,7 +216,7 @@
       "added_at": null,
       "album": {
         "name": "So Close To What",
-        "url": "https://open.spotify.com/album/07V9HO6Djetw5j5lXPylLd"
+        "url": "https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP"
       },
       "artists": [
         {
@@ -224,9 +224,9 @@
           "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 183747,
-      "name": "Siren sounds (bonus)",
-      "url": "https://open.spotify.com/track/6A18pcBX8QZGwI8EkR7aIP"
+      "duration_ms": 156642,
+      "name": "It's ok I'm ok",
+      "url": "https://open.spotify.com/track/3OfqwyE7RrZrtuxCRixfII"
     },
     {
       "added_at": null,
@@ -280,7 +280,7 @@
       "added_at": null,
       "album": {
         "name": "So Close To What",
-        "url": "https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP"
+        "url": "https://open.spotify.com/album/07V9HO6Djetw5j5lXPylLd"
       },
       "artists": [
         {
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 156642,
-      "name": "It's ok I'm ok",
-      "url": "https://open.spotify.com/track/3OfqwyE7RrZrtuxCRixfII"
+      "duration_ms": 183747,
+      "name": "Siren sounds (bonus)",
+      "url": "https://open.spotify.com/track/6A18pcBX8QZGwI8EkR7aIP"
     },
     {
       "added_at": null,

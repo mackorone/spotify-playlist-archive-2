@@ -2,9 +2,9 @@
 
 ### [RADAR Italia](https://open.spotify.com/playlist/37i9dQZF1DWVjDgOMO8jZl)
 
-> Sei nomi e sei storie che non vediamo l'ora di farvi scoprire e raccontarvi quest'anno 👀 Classe RADAR Italia 2026 in cover
+> Sei nomi e sei storie che non vediamo l'ora di farvi scoprire e raccontarvi quest'anno 🥹 Emili Kasa in cover
 
-237 songs - 11 hr 17 min
+239 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [GIRASOLE](https://open.spotify.com/track/0wW7yRFcQrhXNjBwfcm1Gw) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE 2.0](https://open.spotify.com/album/3V5mL95C6ca2X7UoQAwGpo) | 3:17 | 2022-11-07 | 2022-11-13 |
 | [GIRASOLE](https://open.spotify.com/track/6Q5BuRgXZOWItqzvZfjKxw) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE](https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29) | 3:17 | 2022-08-31 | 2023-04-12 |
 | [GIÙ DA ME](https://open.spotify.com/track/4OMdFWA9yLk8zHq6gwnSY6) | [Marte](https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb) | [GIÙ DA ME](https://open.spotify.com/album/7djKPOv1ZCuFubOjudHqjr) | 1:55 | 2025-07-10 | 2026-06-11 |
+| [Goodbye \(rabbia, ti giuro, come stai\)](https://open.spotify.com/track/36GWAY6ThW9k0dxQsvjXNA) | [Emili Kasa](https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA) | [Goodbye \(rabbia, ti giuro, come stai\)](https://open.spotify.com/album/2TlHQ2CyD17BEPeXC5cuim) | 2:55 | 2026-06-25 |  |
 | [Guai \(feat\. Francesca Michielin\)](https://open.spotify.com/track/34hOXJuqGnxRVg0B5eDrpG) | [HU](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6), [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS) | [Numeri primi](https://open.spotify.com/album/72dqKyvNBKYp2LT4KC38vH) | 2:30 | 2022-08-31 | 2023-04-12 |
 | [Himalaya](https://open.spotify.com/track/6mRdQVSDsKkMm9qGPRstyR) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Himalaya](https://open.spotify.com/album/3F1BzuzhZ5tfPCJuR4O15K) | 3:15 | 2026-05-14 | 2026-06-11 |
 | [HOE + HARD \(feat\. Tony Effe\)](https://open.spotify.com/track/43Wy3qYbTLUxUqsLZlTAa7) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [HOE + HARD \(feat\. Tony Effe\)](https://open.spotify.com/album/5YclMYzrQvzpUu3mTbBhBd) | 2:33 | 2023-04-11 | 2024-04-24 |
@@ -107,6 +108,7 @@
 | [Jack e Lacrime](https://open.spotify.com/track/2aSDEaup7MlEAr8uVVOo48) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [Jack e Lacrime](https://open.spotify.com/album/7cau5ANQLaau3sH4tqH8Qw) | 2:38 | 2023-04-11 | 2024-04-24 |
 | [KANYE WEST \(feat\. Bresh\)](https://open.spotify.com/track/76V4fmBYiVqpOJB6GC3SHA) | [Camilla Magli](https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [KANYE WEST \(feat\. Bresh\)](https://open.spotify.com/album/599Ef02IOqtzkVBd1sFlfo) | 3:08 | 2023-04-11 | 2024-04-24 |
 | [KNOCK OUT \(feat\. BigMama\)](https://open.spotify.com/track/1mwtk1gaJ8NlcHON0f22Tk) | [Camilla Magli](https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ), [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [CLUB BLU](https://open.spotify.com/album/4dnD2Nz51WpxBXx87Izty6) | 2:50 | 2023-04-11 | 2024-04-24 |
+| [l'unico ricordo](https://open.spotify.com/track/7LSt8i9gLiQbNulp92v46j) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [la ragazza che suonava il piano](https://open.spotify.com/album/4TW1W2WwtayQV9HWXFDoUM) | 2:30 | 2026-06-25 |  |
 | [La Haine](https://open.spotify.com/track/7BW4fxpnJjIU1ETT6pdSJW) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [PROVINCIALE](https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq) | 2:52 | 2022-08-31 | 2023-04-12 |
 | [LA NOTTE \(feat\. thasup\)](https://open.spotify.com/track/2Rgnz1zbNus9eaTYd3DcEe) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [LA NOTTE \(feat\. thasup\)](https://open.spotify.com/album/7KPWHITXB44PYMY7ZdzRDN) | 2:41 | 2024-04-23 | 2025-05-14 |
 | [La stessa parte della luna](https://open.spotify.com/track/75Sxtpf4qJLqtpeDiZqXWa) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Dormi](https://open.spotify.com/album/0o43FP6kzT5GH7opmU9dCo) | 4:17 | 2025-05-13 | 2026-06-11 |

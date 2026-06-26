@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Comunidade Cat\u00f3lica Shalom",
-  "num_followers": 380099,
+  "num_followers": 380119,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -179,18 +179,22 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "Adora\u00e7\u00e3o na Nossa Casa \u00c9 Assim 9",
-        "url": "https://open.spotify.com/album/1Z19YIT9c8WBEPPsiUnGBU"
+        "name": "Me V\u00ea Como Ningu\u00e9m Me V\u00ea",
+        "url": "https://open.spotify.com/album/1lQY6Gs9eK42Emoqf27JK6"
       },
       "artists": [
         {
           "name": "Colo de Deus",
           "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+        },
+        {
+          "name": "BENITO",
+          "url": "https://open.spotify.com/artist/19eFC9b8d3JQ5sbYMLkY7v"
         }
       ],
-      "duration_ms": 636452,
-      "name": "Me Aceita de Volta",
-      "url": "https://open.spotify.com/track/3GIxWG9j6QNtm6BteSTIqG"
+      "duration_ms": 349500,
+      "name": "Me V\u00ea Como Ningu\u00e9m Me V\u00ea",
+      "url": "https://open.spotify.com/track/1qXR4bBNp3tg4yTWhfXb3D"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -263,22 +267,18 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "Me V\u00ea Como Ningu\u00e9m Me V\u00ea",
-        "url": "https://open.spotify.com/album/1lQY6Gs9eK42Emoqf27JK6"
+        "name": "Adora\u00e7\u00e3o na Nossa Casa \u00c9 Assim 9",
+        "url": "https://open.spotify.com/album/1Z19YIT9c8WBEPPsiUnGBU"
       },
       "artists": [
         {
           "name": "Colo de Deus",
           "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
-        },
-        {
-          "name": "BENITO",
-          "url": "https://open.spotify.com/artist/19eFC9b8d3JQ5sbYMLkY7v"
         }
       ],
-      "duration_ms": 349500,
-      "name": "Me V\u00ea Como Ningu\u00e9m Me V\u00ea",
-      "url": "https://open.spotify.com/track/1qXR4bBNp3tg4yTWhfXb3D"
+      "duration_ms": 636452,
+      "name": "Me Aceita de Volta",
+      "url": "https://open.spotify.com/track/3GIxWG9j6QNtm6BteSTIqG"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "Santa Rita de C\u00e1ssia",
-        "url": "https://open.spotify.com/album/2csSlHzHFqDWMTTI6ZPSPy"
-      },
-      "artists": [
-        {
-          "name": "Eliana Ribeiro",
-          "url": "https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y"
-        }
-      ],
-      "duration_ms": 310772,
-      "name": "Santa Rita de C\u00e1ssia",
-      "url": "https://open.spotify.com/track/3JVlroKYf2nrOEL2bA6Jv8"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
         "name": "Ora\u00e7\u00e3o pela Paz",
         "url": "https://open.spotify.com/album/1uPyGym4lIjS2hOTYR0Gt1"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 221476,
       "name": "Ora\u00e7\u00e3o pela Paz",
       "url": "https://open.spotify.com/track/2iM87kL2SSVUoRD5v0Gp6M"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
+        "name": "Santa Rita de C\u00e1ssia",
+        "url": "https://open.spotify.com/album/2csSlHzHFqDWMTTI6ZPSPy"
+      },
+      "artists": [
+        {
+          "name": "Eliana Ribeiro",
+          "url": "https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y"
+        }
+      ],
+      "duration_ms": 310772,
+      "name": "Santa Rita de C\u00e1ssia",
+      "url": "https://open.spotify.com/track/3JVlroKYf2nrOEL2bA6Jv8"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "Minha Hist\u00f3ria",
-        "url": "https://open.spotify.com/album/4LUJEygAvb9A6UBHdKiz9c"
-      },
-      "artists": [
-        {
-          "name": "Davidson Silva",
-          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
-        }
-      ],
-      "duration_ms": 236442,
-      "name": "S\u00f3 por Ti Jesus",
-      "url": "https://open.spotify.com/track/3wge0Fm4OtGlXtUJzw1ObA"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
         "name": "Can\u00e7\u00f5es de um Cora\u00e7\u00e3o Sereno",
         "url": "https://open.spotify.com/album/4pozEgu5OwgwNSCv2Op6OW"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 149743,
       "name": "Cora\u00e7\u00e3o Sagrado",
       "url": "https://open.spotify.com/track/1Er3YhGPoKQSLlUtrTKJZu"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
+        "name": "Minha Hist\u00f3ria",
+        "url": "https://open.spotify.com/album/4LUJEygAvb9A6UBHdKiz9c"
+      },
+      "artists": [
+        {
+          "name": "Davidson Silva",
+          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
+        }
+      ],
+      "duration_ms": 236442,
+      "name": "S\u00f3 por Ti Jesus",
+      "url": "https://open.spotify.com/track/3wge0Fm4OtGlXtUJzw1ObA"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "\u00c1gape Amor Divino (Ao Vivo) [Deluxe]",
-        "url": "https://open.spotify.com/album/57hepB3nk9cMT0FHeXtkYm"
-      },
-      "artists": [
-        {
-          "name": "Padre Marcelo Rossi",
-          "url": "https://open.spotify.com/artist/0BLa22ZCJcTxW78hoNlFA9"
-        }
-      ],
-      "duration_ms": 324268,
-      "name": "Levanta e Anda - Ao Vivo",
-      "url": "https://open.spotify.com/track/2jycVbKMZWU5raNSWkdxxe"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
         "name": "Acalma Minha Tempestade",
         "url": "https://open.spotify.com/album/5HdMqXQBzHL0MaLhb1ybHU"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 322512,
       "name": "Acalma Minha Tempestade",
       "url": "https://open.spotify.com/track/2PhnQYOU7iDcvTym7tzXwb"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
+        "name": "\u00c1gape Amor Divino (Ao Vivo) [Deluxe]",
+        "url": "https://open.spotify.com/album/57hepB3nk9cMT0FHeXtkYm"
+      },
+      "artists": [
+        {
+          "name": "Padre Marcelo Rossi",
+          "url": "https://open.spotify.com/artist/0BLa22ZCJcTxW78hoNlFA9"
+        }
+      ],
+      "duration_ms": 324268,
+      "name": "Levanta e Anda - Ao Vivo",
+      "url": "https://open.spotify.com/track/2jycVbKMZWU5raNSWkdxxe"
     },
     {
       "added_at": "2026-06-12 03:01:51",

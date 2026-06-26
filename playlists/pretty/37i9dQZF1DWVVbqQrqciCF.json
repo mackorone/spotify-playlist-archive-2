@@ -1,18 +1,18 @@
 {
   "description": "Japanese music duo formed in 2019, consisting of vocalist ikura and producer Ayase. YOASOBI\u306e\u697d\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
-  "num_followers": 338999,
+  "num_followers": 339035,
   "original_name": "This Is YOASOBI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALYYGRmt+8IfUmX/1A2SMUyBae/C",
+  "snapshot_id": "AAAAAKDK+cpfRYAHgVUx4hfbJfhdNGSv",
   "tracks": [
     {
-      "added_at": "2026-05-05 15:00:21",
+      "added_at": "2026-06-25 22:10:55",
       "album": {
-        "name": "\u30a2\u30c9\u30ec\u30ca",
-        "url": "https://open.spotify.com/album/2QgUUmu8JSrgsuacr6dI6x"
+        "name": "THE BOOK for,",
+        "url": "https://open.spotify.com/album/6wBkzKouHawAr9e7lLxZLA"
       },
       "artists": [
         {
@@ -20,15 +20,31 @@
           "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
         }
       ],
-      "duration_ms": 185825,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/6VpeCZDyuFJD3HW5bwEc8Z"
+    },
+    {
+      "added_at": "2026-06-25 22:10:55",
+      "album": {
+        "name": "THE BOOK for,",
+        "url": "https://open.spotify.com/album/6wBkzKouHawAr9e7lLxZLA"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 187306,
       "name": "\u30a2\u30c9\u30ec\u30ca",
-      "url": "https://open.spotify.com/track/6RlkEHM3PohEge8Lfhe9Cs"
+      "url": "https://open.spotify.com/track/6opptJmdOo9CLXs2zEaPK6"
     },
     {
-      "added_at": "2026-05-05 15:00:21",
+      "added_at": "2026-06-25 22:10:55",
       "album": {
-        "name": "BABY",
-        "url": "https://open.spotify.com/album/2dp6XnYilNlELoSnGzSIdG"
+        "name": "THE BOOK for,",
+        "url": "https://open.spotify.com/album/6wBkzKouHawAr9e7lLxZLA"
       },
       "artists": [
         {
@@ -36,15 +52,63 @@
           "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
         }
       ],
-      "duration_ms": 230751,
+      "duration_ms": 182933,
+      "name": "UNDEAD",
+      "url": "https://open.spotify.com/track/35xfPPSPHG42a8MSoHBymZ"
+    },
+    {
+      "added_at": "2026-06-25 22:10:55",
+      "album": {
+        "name": "THE BOOK for,",
+        "url": "https://open.spotify.com/album/6wBkzKouHawAr9e7lLxZLA"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 201786,
+      "name": "PLAYERS",
+      "url": "https://open.spotify.com/track/582epFEaznKZ7oru9UwfPz"
+    },
+    {
+      "added_at": "2026-06-25 22:10:55",
+      "album": {
+        "name": "THE BOOK for,",
+        "url": "https://open.spotify.com/album/6wBkzKouHawAr9e7lLxZLA"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 210866,
+      "name": "\u30e2\u30ce\u30c8\u30fc\u30f3",
+      "url": "https://open.spotify.com/track/542yNA3qqRGoy9tZExXUgu"
+    },
+    {
+      "added_at": "2026-06-25 22:10:55",
+      "album": {
+        "name": "THE BOOK for,",
+        "url": "https://open.spotify.com/album/6wBkzKouHawAr9e7lLxZLA"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 232226,
       "name": "BABY",
-      "url": "https://open.spotify.com/track/7j0fGg4xd1Lo1zPcUDV1T6"
+      "url": "https://open.spotify.com/track/2ttGkjkGwazKjDqjYholti"
     },
     {
-      "added_at": "2026-05-05 15:00:21",
+      "added_at": "2026-06-25 22:10:55",
       "album": {
-        "name": "\u5287\u4e0a",
-        "url": "https://open.spotify.com/album/2u1jyTGzYhnMNy495lVx8G"
+        "name": "THE BOOK for,",
+        "url": "https://open.spotify.com/album/6wBkzKouHawAr9e7lLxZLA"
       },
       "artists": [
         {
@@ -52,9 +116,89 @@
           "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
         }
       ],
-      "duration_ms": 198882,
+      "duration_ms": 185626,
+      "name": "Watch me!",
+      "url": "https://open.spotify.com/track/1douWS9eNpp1Mi93zvuEOR"
+    },
+    {
+      "added_at": "2026-06-25 22:10:55",
+      "album": {
+        "name": "THE BOOK for,",
+        "url": "https://open.spotify.com/album/6wBkzKouHawAr9e7lLxZLA"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 187306,
+      "name": "Biri-Biri",
+      "url": "https://open.spotify.com/track/4Vv69hqzDLWl5RDIfnqsUb"
+    },
+    {
+      "added_at": "2026-06-25 22:10:55",
+      "album": {
+        "name": "THE BOOK for,",
+        "url": "https://open.spotify.com/album/6wBkzKouHawAr9e7lLxZLA"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 207173,
+      "name": "New me",
+      "url": "https://open.spotify.com/track/3cHIeZTJe2QSvypOSDZsom"
+    },
+    {
+      "added_at": "2026-06-25 22:10:55",
+      "album": {
+        "name": "THE BOOK for,",
+        "url": "https://open.spotify.com/album/6wBkzKouHawAr9e7lLxZLA"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 334866,
+      "name": "HEART BEAT",
+      "url": "https://open.spotify.com/track/5go4ivfbVkTXig50OVJrQM"
+    },
+    {
+      "added_at": "2026-06-25 22:10:55",
+      "album": {
+        "name": "THE BOOK for,",
+        "url": "https://open.spotify.com/album/6wBkzKouHawAr9e7lLxZLA"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 209053,
+      "name": "\u821e\u53f0\u306b\u7acb\u3063\u3066",
+      "url": "https://open.spotify.com/track/4MwBh6LPH5Xhi6wKInwOIT"
+    },
+    {
+      "added_at": "2026-06-25 22:10:55",
+      "album": {
+        "name": "THE BOOK for,",
+        "url": "https://open.spotify.com/album/6wBkzKouHawAr9e7lLxZLA"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 200906,
       "name": "\u5287\u4e0a",
-      "url": "https://open.spotify.com/track/3BFx3IfjwIaUr0W5Bl1LED"
+      "url": "https://open.spotify.com/track/1wqT6wA3RRyo0DVajcpy7F"
     },
     {
       "added_at": "2026-05-05 15:00:21",
@@ -75,22 +219,6 @@
     {
       "added_at": "2026-05-05 15:00:21",
       "album": {
-        "name": "UNDEAD",
-        "url": "https://open.spotify.com/album/6MJBA73OCvq4FEJqYhXn9e"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 182702,
-      "name": "UNDEAD",
-      "url": "https://open.spotify.com/track/5NxmDq0yXBYGfCbMqvIXuv"
-    },
-    {
-      "added_at": "2026-05-05 15:00:21",
-      "album": {
         "name": "THE BOOK 3",
         "url": "https://open.spotify.com/album/68w73FF3dYC6C3RWdcV0Yl"
       },
@@ -103,22 +231,6 @@
       "duration_ms": 192400,
       "name": "\u795d\u798f",
       "url": "https://open.spotify.com/track/1VoTe7qVyqyMNLgZpQeugO"
-    },
-    {
-      "added_at": "2026-05-05 15:00:21",
-      "album": {
-        "name": "\u821e\u53f0\u306b\u7acb\u3063\u3066",
-        "url": "https://open.spotify.com/album/3OId6Q1stp8y4QOnQUZ9ku"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 207958,
-      "name": "\u821e\u53f0\u306b\u7acb\u3063\u3066",
-      "url": "https://open.spotify.com/track/42lDvdAmBr7H5hLzvr882L"
     },
     {
       "added_at": "2026-05-05 15:00:21",
@@ -171,38 +283,6 @@
     {
       "added_at": "2026-05-05 15:00:21",
       "album": {
-        "name": "Watch me!",
-        "url": "https://open.spotify.com/album/1M2XEzXjHUbVfMVfwMTPYc"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 186193,
-      "name": "Watch me!",
-      "url": "https://open.spotify.com/track/2XlTBc7XOzyunDf3Oqsfpk"
-    },
-    {
-      "added_at": "2026-05-05 15:00:21",
-      "album": {
-        "name": "PLAYERS",
-        "url": "https://open.spotify.com/album/6OtUkMrwUzUzhPqvKiRIVe"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 201155,
-      "name": "PLAYERS",
-      "url": "https://open.spotify.com/track/30GGgQDoRSBsjck9tMmDDP"
-    },
-    {
-      "added_at": "2026-05-05 15:00:21",
-      "album": {
         "name": "\u3042\u306e\u5922\u3092\u306a\u305e\u3063\u3066",
         "url": "https://open.spotify.com/album/6VtHuuDn351LBXwpxmvZqt"
       },
@@ -247,22 +327,6 @@
       "duration_ms": 206000,
       "name": "\u602a\u7269",
       "url": "https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi"
-    },
-    {
-      "added_at": "2026-05-05 15:00:21",
-      "album": {
-        "name": "\u30e2\u30ce\u30c8\u30fc\u30f3",
-        "url": "https://open.spotify.com/album/5xCgHRLy9eo3VJIssNPOUJ"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 210870,
-      "name": "\u30e2\u30ce\u30c8\u30fc\u30f3",
-      "url": "https://open.spotify.com/track/42XeicjBjdyu7boDDtHkvu"
     },
     {
       "added_at": "2026-05-05 15:00:21",
@@ -315,22 +379,6 @@
     {
       "added_at": "2026-05-05 15:00:21",
       "album": {
-        "name": "HEART BEAT",
-        "url": "https://open.spotify.com/album/2af8DYGcIT3jG1aC0sC2sF"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 335465,
-      "name": "HEART BEAT",
-      "url": "https://open.spotify.com/track/3J99JXowSczha1Cp0LtFoc"
-    },
-    {
-      "added_at": "2026-05-05 15:00:21",
-      "album": {
         "name": "THE BOOK 3",
         "url": "https://open.spotify.com/album/68w73FF3dYC6C3RWdcV0Yl"
       },
@@ -375,22 +423,6 @@
       "duration_ms": 198853,
       "name": "\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc",
       "url": "https://open.spotify.com/track/5stUI9U3VGp2j4sbqJEiVI"
-    },
-    {
-      "added_at": "2026-05-05 15:00:21",
-      "album": {
-        "name": "New me",
-        "url": "https://open.spotify.com/album/0YXJVcVH0uFhYSBc2duxyf"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 206129,
-      "name": "New me",
-      "url": "https://open.spotify.com/track/43DrDpSiIZWEiEfsQQHoQi"
     },
     {
       "added_at": "2026-05-05 15:00:21",
@@ -555,22 +587,6 @@
       "duration_ms": 256120,
       "name": "\u6d77\u306e\u307e\u306b\u307e\u306b",
       "url": "https://open.spotify.com/track/7Fe2z1doVotACIjPuO0wQI"
-    },
-    {
-      "added_at": "2026-05-05 15:00:21",
-      "album": {
-        "name": "Biri-Biri",
-        "url": "https://open.spotify.com/album/1hxB0L2PCz5d5jQl2s39Sz"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 187325,
-      "name": "Biri-Biri",
-      "url": "https://open.spotify.com/track/3X9N36jB8FtTkzTCkIFi4u"
     },
     {
       "added_at": "2026-05-05 15:00:21",

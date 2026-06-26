@@ -4,7 +4,7 @@
 
 > 
 
-243 songs - 12 hr 42 min
+247 songs - 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [2 cute 4 that](https://open.spotify.com/track/31FUeWlf3btTudRfGfo7qv) | [dyl\~](https://open.spotify.com/artist/7vPyQ69WeMZbApbgjWAWcX) | [2 cute 4 that](https://open.spotify.com/album/0ROWzFZNDzqYCHcR2xtu2g) | 1:33 | 2025-08-19 |  |
 | [2805](https://open.spotify.com/track/6OkThCextlbfDydfSO4cHp) | [sullivan grace band](https://open.spotify.com/artist/3ksrh2WkrKJmEeerKl2bpd) | [2805](https://open.spotify.com/album/3AqgwXEQaDCS5awPbA1vk8) | 2:41 | 2026-04-02 |  |
 | [3:33](https://open.spotify.com/track/4xNJwjT3OKzE7E5IB1rZw9) | [Jey Master](https://open.spotify.com/artist/3JXF0zmgQriGDuch8M800V) | [3:33](https://open.spotify.com/album/2uqbgfJVIuMKLq7ie558kC) | 3:33 | 2025-08-26 |  |
+| [3P3](https://open.spotify.com/track/6IHH0LmthFLpXLAbrYkUlw) | [Bastyann](https://open.spotify.com/artist/34Ufkh4lTUvCJpGspVsd8d), [Danche](https://open.spotify.com/artist/3dQx0MvP6u0nA6SfY38V5j), [Danncray](https://open.spotify.com/artist/5VD7tAqlMjgCRCBhs3xjTZ) | [RITUALES](https://open.spotify.com/album/7IBdexOx4VYxhfGr9X5QuR) | 2:19 | 2026-06-25 |  |
 | [4:44AM](https://open.spotify.com/track/4M03RhnysxttvTKqQKE8it) | [SCRAZ](https://open.spotify.com/artist/6hQQsPJ3df9XVj8CMBy5Yk), [MPC Smoke](https://open.spotify.com/artist/7Dbyx5Qw8XaH8qX86Kh2fQ) | [4:44AM](https://open.spotify.com/album/4TEX17jd6bREevtW8c8LG1) | 3:00 | 2025-12-11 |  |
 | [512](https://open.spotify.com/track/2CdquEDCaFau9PMHF8eFcW) | [Morales](https://open.spotify.com/artist/1ZzjFl9TaQcLtzxOhStXg7), [Vivih](https://open.spotify.com/artist/0igUZhKUbwqknOURErylJL) | [512](https://open.spotify.com/album/7ij81xOTfo61L1FuYwKwTH) | 2:42 | 2025-09-09 |  |
 | [a helping hand](https://open.spotify.com/track/0DdjWSK9mYxd0OkMafssrD) | [COZE!NE](https://open.spotify.com/artist/7HFc1tkoqLi1lRrhAxGKAq) | [a helping hand](https://open.spotify.com/album/5wwGLyU2CkVND4ZrkvoPl1) | 2:24 | 2026-05-06 |  |
@@ -60,6 +61,7 @@
 | [Desejos](https://open.spotify.com/track/2BhCdMZCJt4Y6IDuJNNMOK) | [Tiago Amorim](https://open.spotify.com/artist/1blXm9FViuataPse8jKebH) | [Desejos](https://open.spotify.com/album/3p3ftOcLj6YGJvVuzYUsYU) | 3:54 | 2025-12-10 |  |
 | [Desert Roll](https://open.spotify.com/track/1i3jPowCNmyemFeiJtvLSA) | [A VIOLET IN YOUTH](https://open.spotify.com/artist/3Gqlvwb5U3hbST19eSdJqB) | [Desert Roll, Exactly.](https://open.spotify.com/album/5s5LGNDHjvLzEkRDYKBkaE) | 3:21 | 2026-04-02 |  |
 | [Desnudita](https://open.spotify.com/track/1aVp36oGu1xj8bJavKxQEK) | [OGzuz](https://open.spotify.com/artist/6OJT0CHj1pRZBhiTlZuzay), [∆ndrik](https://open.spotify.com/artist/0kwYTmo0MgvxDkf35lilIz) | [Desnudita](https://open.spotify.com/album/6ztoOedgELjC9bg6FYctK2) | 3:10 | 2026-06-03 |  |
+| [DFRNT](https://open.spotify.com/track/62YDjUHeTCsC5ONLBui5o8) | [ALWYSPHIL](https://open.spotify.com/artist/7FJXm7WP29Q9dfYCcBRMXg) | [DFRNT](https://open.spotify.com/album/6ne96XT0Dk84sUeYV6J24H) | 2:36 | 2026-06-25 |  |
 | [Diablax](https://open.spotify.com/track/6CVeBLFZw98ek6Eh7zE3pd) | [Jhey Dottor](https://open.spotify.com/artist/2LGdqmsihZguVs2AAbIfV4) | [Diablax](https://open.spotify.com/album/7rybHGQt51fJxGm8lVoVxL) | 2:40 | 2026-06-19 |  |
 | [DIDN'T WARN YA](https://open.spotify.com/track/7qrzCjrqPljxxMRQCIEwTt) | [Emmett Xander](https://open.spotify.com/artist/5dGDu2lnsyIOXr0WlOTvFI) | [DIDN'T WARN YA](https://open.spotify.com/album/3CQhmDzGEbPDNu7ShVyeVE) | 1:48 | 2025-04-03 |  |
 | [Dog Daze Haze](https://open.spotify.com/track/5UfjfOt3mwzpaGeO1Hwgdw) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o), [yukigloom](https://open.spotify.com/artist/6JGwAjF1SceQb8y5mMVuha) | [MMXXII](https://open.spotify.com/album/6vRRH7PlhC05goJHMlpwGN) | 3:14 | 2025-09-01 |  |
@@ -131,6 +133,7 @@
 | [Laws](https://open.spotify.com/track/0RtwS89n4XVNOwAH4BOShh) | [Solace in Me](https://open.spotify.com/artist/4hMB6B8dzaeRQDN8qfN0Ys) | [Laws](https://open.spotify.com/album/7eqdrllEwQEPEP0R5kdx4N) | 3:58 | 2025-03-12 |  |
 | [LEAN!](https://open.spotify.com/track/664DgklAT5Lo9Wrb6QXpdb) | [depthOblivious](https://open.spotify.com/artist/21o6YsaoKdb1Nwqj6jPbtk), [SIX KAY](https://open.spotify.com/artist/6mmiz77evce5uhUiL0VcGi), [Christ's Follower](https://open.spotify.com/artist/6uu11HELac3RX4GiGFmRXV) | [LEAN!](https://open.spotify.com/album/1BDq7h2zoZS60NJr0p3Ogd) | 1:25 | 2025-04-07 |  |
 | [Learning to Miss You](https://open.spotify.com/track/1yJ0t8Sf2TdkIj4Ye9pm7x) | [City Builders](https://open.spotify.com/artist/3U28N05cLVVNS1iW4NOA3A) | [Learning to Miss You](https://open.spotify.com/album/2sftCIduUO3KFOu8z1kOJI) | 3:19 | 2025-05-16 |  |
+| [Let them](https://open.spotify.com/track/6LH4XRb1VsDfqb2KvznJwG) | [Merla](https://open.spotify.com/artist/1GgYEBhQle66sXg6jOdA8K) | [Let them](https://open.spotify.com/album/5S8Yuc25oFb8PAZNm2USLr) | 2:52 | 2026-06-25 |  |
 | [lightspeed](https://open.spotify.com/track/4OEBTrZ4bUE3fUIcPdTqiB) | [JailBird Sage](https://open.spotify.com/artist/1vuRh9rOX23PMKyz4Aj0MB), [saoirse dream](https://open.spotify.com/artist/2xNs2zfnh52ORUTI4Qfvxf) | [indie princess](https://open.spotify.com/album/6ZA10YUMKPLMpWwB7sfMf3) | 2:02 | 2025-04-08 |  |
 | [Lisa](https://open.spotify.com/track/04iAtfM5oQS6wvrido4xDY) | [BEVIxPlanett](https://open.spotify.com/artist/0QgxDZ9yAoGgSRfxipFOtM) | [Lisa](https://open.spotify.com/album/0p6GGF380E8EIMoBEeNcBs) | 2:37 | 2026-01-18 |  |
 | [Looking For Someone Else](https://open.spotify.com/track/1utWfzvkT6PKtaX2Bgtr3t) | [Yudiee](https://open.spotify.com/artist/0dNbGpKbJIlqywH7WOeBZi) | [Looking For Someone Else](https://open.spotify.com/album/1ZrVlTdpWzSJtUFSr78Smy) | 2:42 | 2025-03-12 |  |
@@ -248,6 +251,7 @@
 | [Whiskey](https://open.spotify.com/track/0hnWQ00Z7cVWtcZDXLYq6x) | [Second Story Duo](https://open.spotify.com/artist/41awsJ9Gs9Ah8d5uX37r3h) | [Reflections](https://open.spotify.com/album/4PJ1P80qf9hVpFGchfhy13) | 3:02 | 2025-12-14 |  |
 | [Why did you Leave me?](https://open.spotify.com/track/5uZbQPdLJ7gnhpdecwNSgw) | [Callum Renshaw](https://open.spotify.com/artist/3Ujsrfs3QjtIok8isfMXej) | [Why did you Leave me?](https://open.spotify.com/album/29Ame1VezxvtLjQmbuHZxz) | 3:03 | 2026-05-16 |  |
 | [You at First Sight](https://open.spotify.com/track/5Jb8z94wh7eUBUIhaqoKFm) | [Inorganic Era](https://open.spotify.com/artist/0Y1Z3cpF7xQrAyQKHNadxY) | [You at First Sight](https://open.spotify.com/album/7zGHcgMh4hf5jUm0EgA1z6) | 3:04 | 2025-09-15 |  |
+| [You're not alone](https://open.spotify.com/track/1hXq4ig3y9UmN6DHFaTaGu) | [Basement](https://open.spotify.com/artist/3AJMnPzFJc7MIbaaajhqJw) | [You're not alone](https://open.spotify.com/album/4am4CNnz2fOXVHtQleDG99) | 3:23 | 2026-06-25 |  |
 | [Yourself](https://open.spotify.com/track/3A1vzDBL3IHjzphf83E3mZ) | [Nissu](https://open.spotify.com/artist/0jFlIuRMZuBZrowaOZXEe0), [Paigey Cakey](https://open.spotify.com/artist/1Lfz8ISr2g1d33hirTmajR) | [Memories](https://open.spotify.com/album/6Kbr8PFQrTu0J2GmK8o5uz) | 3:18 | 2025-12-24 |  |
 | [Вдыхая](https://open.spotify.com/track/7h0NWQtE9GpPGOwPaocdPF) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 3:03 | 2025-03-12 |  |
 | [Молочный улун](https://open.spotify.com/track/6Gw6lB9PIKJUivZXpI4E9i) | [К Поездам](https://open.spotify.com/artist/65hECiVsNi1wEvzF84pIxV) | [Бозкараган](https://open.spotify.com/album/37VsMcgG0086QMEfFI8jJQ) | 2:07 | 2026-01-31 |  |

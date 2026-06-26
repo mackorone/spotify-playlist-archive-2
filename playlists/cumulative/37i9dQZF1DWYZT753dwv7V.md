@@ -4,7 +4,7 @@
 
 > I più grandi successi della storia del festival 🏆
 
-106 songs - 6 hr 32 min
+107 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Felicità](https://open.spotify.com/track/7sXTcibuNYugjjYNfgf2kY) | [Al Bano And Romina Power](https://open.spotify.com/artist/1c0wBsDBu0NqpvxBqjYjZS) | [Felicità \(Ariola Express Gold\-Serie\)](https://open.spotify.com/album/6rYKh2EVXdWs5Pe8MugvSM) | 3:13 | 2025-02-25 |  |
 | [Fiamme negli occhi](https://open.spotify.com/track/5qn15Hs4s26YaNd5UWVe00) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [Fiamme negli occhi](https://open.spotify.com/album/63QloB2LteDzQMKstFJ3XK) | 3:26 | 2025-02-25 |  |
 | [Gente come noi](https://open.spotify.com/track/0rPsMM9L2Rr6wCGPFHjWPZ) | [Ivana Spagna](https://open.spotify.com/artist/6RA9iJdNW5Lt7xTJhUBAno) | [Ivana Spagna](https://open.spotify.com/album/3ok6wgz1ucuA4BMciW8SVf) | 4:07 | 2025-02-25 |  |
-| [Glicine](https://open.spotify.com/track/7g1MeIDCN0R36wi4bNarbN) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Glicine](https://open.spotify.com/album/1zKdr84teaXQZuQiOUjscD) | 3:37 | 2025-02-25 |  |
+| [Glicine](https://open.spotify.com/track/7g1MeIDCN0R36wi4bNarbN) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Glicine](https://open.spotify.com/album/1zKdr84teaXQZuQiOUjscD) | 3:37 | 2025-02-25 | 2026-06-26 |
 | [Grande amore](https://open.spotify.com/track/4hWQaCHO3k3bTYi8AozKTE) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [Sanremo grande amore](https://open.spotify.com/album/3Ugt1E8Ft5I0Ry1cLUdMIi) | 3:44 | 2025-02-25 |  |
 | [I Tuoi Particolari](https://open.spotify.com/track/524euygKKFWurhvIdSrkg6) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [I Tuoi Particolari](https://open.spotify.com/album/6sbV5tigkQuCteprgk9pwd) | 3:39 | 2025-02-25 | 2025-12-21 |
 | [Il ballo delle incertezze](https://open.spotify.com/track/35JwSMQXtHyTKPTcpXF07P) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Il ballo delle incertezze](https://open.spotify.com/album/3AGmokaneh8qA9rA5HshFM) | 3:25 | 2025-02-25 | 2025-10-12 |
@@ -70,6 +70,7 @@
 | [Non mi avete fatto niente](https://open.spotify.com/track/1oMYET9xQB8XpxwTt2c5Dz) | [Ermal Meta](https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd), [Fabrizio Moro](https://open.spotify.com/artist/3ebOqZZsLCDAkLS6QdI8cc) | [Non mi avete fatto niente](https://open.spotify.com/album/3Qs5bBmUVXpZBcEkw4uxJ8) | 3:28 | 2025-02-25 |  |
 | [Non voglio mica la luna](https://open.spotify.com/track/0xZGPXJ0vzeWIcVlwI4jY8) | [Fiordaliso](https://open.spotify.com/artist/3O9LDOD9Hutyg1tWnqETgH) | [Fiordaliso](https://open.spotify.com/album/3oBdY9Ue7M2VSMrsBfdN6s) | 4:02 | 2025-02-25 |  |
 | [Nostalgia canaglia](https://open.spotify.com/track/14K0I2XngCqxazt1EfJkZj) | [Al Bano](https://open.spotify.com/artist/2gpELJDuhOQi1DPcI0VFvw), [Romina Power](https://open.spotify.com/artist/2ZUY3LkHAoSiPSO7tXNwZM) | [Tutto Al Bano](https://open.spotify.com/album/6qafxVsxR0Cotcny5z1cdk) | 3:46 | 2025-02-25 |  |
+| [Nu juorno buono](https://open.spotify.com/track/2AUyuGpF3sw1bTfPKEoagq) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [Nu juorno buono](https://open.spotify.com/album/2JkdqcQZ9PX0rxk6CffLYb) | 3:18 | 2026-01-25 |  |
 | [Ovunque Sarai](https://open.spotify.com/track/75mCCeBwjfoZtfAPE0SxwO) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [Il giorno in cui ho smesso di pensare](https://open.spotify.com/album/2bL1yZKdgMo1syeyCYDwhq) | 3:20 | 2025-02-25 |  |
 | [Pazza](https://open.spotify.com/track/1MwyUklCSLF8heoph2ttFe) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [Pazza](https://open.spotify.com/album/3IGUYanHxdk5DX7aB8e3lv) | 2:48 | 2025-02-25 |  |
 | [Per Elisa](https://open.spotify.com/track/6P9ISBfXg35gWQzq3ggLIu) | [Alice](https://open.spotify.com/artist/3zNFrznlC0kv866J7Karl3) | [Alice](https://open.spotify.com/album/0VGXsdSBJngZJNRW5o9blY) | 3:40 | 2025-02-25 |  |

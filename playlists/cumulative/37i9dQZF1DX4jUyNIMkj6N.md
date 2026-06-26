@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-422 songs - 1 day 1 hr 21 min
+423 songs - 1 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [All My Life](https://open.spotify.com/track/1uAYzAogqtmB63DDrikfQE) | [Claudia Scott](https://open.spotify.com/artist/777v7gGGlGEYyqqvinQ481), [Casino Steel](https://open.spotify.com/artist/58kOvhIZpOMFKjNND4ucuj) | [All My Life](https://open.spotify.com/album/6J4FJ08uYXTNQ4Tfz3086J) | 5:26 | 2021-12-02 | 2022-10-14 |
 | [All of Me](https://open.spotify.com/track/0VFbizmhEILidyQBvPOjCx) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [All of Me](https://open.spotify.com/album/0wEaalS9Qna2fCrgnLMPDc) | 2:56 | 2024-01-18 | 2025-10-26 |
 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 | 2022-03-24 | 2023-11-24 |
-| [All yours](https://open.spotify.com/track/25hgx87uoz8TcOu8JyKhHE) | [Palegengas](https://open.spotify.com/artist/6pIkIT2KD2bCV02ZXqhMNj) | [All yours](https://open.spotify.com/album/6iuhXgdlSEjuLrFHtrqEIz) | 3:17 | 2026-02-26 |  |
+| [All yours](https://open.spotify.com/track/25hgx87uoz8TcOu8JyKhHE) | [Palegengas](https://open.spotify.com/artist/6pIkIT2KD2bCV02ZXqhMNj) | [All yours](https://open.spotify.com/album/6iuhXgdlSEjuLrFHtrqEIz) | 3:17 | 2026-02-26 | 2026-06-26 |
 | [Alle Snakker Sant](https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle Snakker Sant](https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3) | 2:48 | 2022-07-14 | 2024-04-19 |
 | [Alle snakker sant](https://open.spotify.com/track/6Mjz6Kra9NP0qffCIt7ltm) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle snakker sant](https://open.spotify.com/album/22vJhT8LsQgC27izuQ7Pd3) | 2:48 | 2021-12-02 | 2022-07-27 |
 | [Almost Forever](https://open.spotify.com/track/3wx37zQZm1LDSMe3W1I1K2) | [Simen Mitlid](https://open.spotify.com/artist/3AE2EXc8hnJxb0AoGf3i2A) | [Almost Forever](https://open.spotify.com/album/07wG7p38JlGpv7ijyWznZN) | 3:50 | 2023-09-07 | 2023-12-03 |
@@ -362,6 +362,7 @@
 | [Time of the Blue](https://open.spotify.com/track/0e1GAQ4Cm74D1A0zvXVhdT) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Time of the Blue](https://open.spotify.com/album/41w6j5UiScGhghsSxAp2mM) | 3:46 | 2022-07-14 | 2022-09-30 |
 | [Time Of The Blue](https://open.spotify.com/track/5w07hToyU4dsmmlZNFWfhR) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Time Of The Blue](https://open.spotify.com/album/5ZFwywhpxDFt2dBbWIfXEo) | 3:46 | 2021-12-02 | 2022-07-29 |
 | [Time of Waiting](https://open.spotify.com/track/0ouq2rgrnZ71KmnkW4xUmq) | [Tommy Berre](https://open.spotify.com/artist/1JS0Gw2KxVFPmFNivcjmgt), [Roberto Dalla Vecchia](https://open.spotify.com/artist/7bfm99qXAlGJQrkcudmwyA) | [Time of Waiting](https://open.spotify.com/album/55d318EyF219Cbnei0f0wV) | 2:48 | 2023-02-16 | 2023-07-25 |
+| [TIMEWONTMAKEYOUMINE](https://open.spotify.com/track/2nalYgJsYW5lTezoDol3EP) | [Frederik Valentin](https://open.spotify.com/artist/5xmip7jwRD4w1n5z7J0m5Y) | [UNFINISHEDLOVESONGS](https://open.spotify.com/album/2z5sAmKwxKdPzvBWftqVSS) | 2:58 | 2026-06-25 |  |
 | [To Know A Girl](https://open.spotify.com/track/1Wym8u72A2GXzdJnr1LV37) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [To Know A Girl](https://open.spotify.com/album/6KnpVvB8AeJmxnVSscHgOg) | 2:01 | 2026-04-23 |  |
 | [Took the Train 'til the End](https://open.spotify.com/track/0JhqyLHTwuFbl34Z2nQZWL) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Miss You, I Do](https://open.spotify.com/album/0T0s1ct3KmVkQg5dAd8ILU) | 3:59 | 2025-03-06 | 2026-04-13 |
 | [Tranøy fyr](https://open.spotify.com/track/1ZiY38qhaI4HF6lilr2FV8) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Tranøy fyr](https://open.spotify.com/album/6VdthuopHQGNXLcCH5Vwjy) | 3:56 | 2022-01-06 | 2024-01-19 |

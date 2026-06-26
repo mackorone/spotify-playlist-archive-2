@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Aus der Schweiz f\u00fcr dich \u2013 musique suisse \u2013 musica svizzera \ud83c\udde8\ud83c\udded\nCover: Eileen Alister",
+  "description": "Aus der Schweiz f\u00fcr dich \u2013 musique suisse \u2013 musica svizzera \ud83c\udde8\ud83c\udded\nCover: Kings Elliot",
   "name": "Swiss Made",
   "tracks": [
     {
@@ -280,6 +280,24 @@
       "duration_ms": 202587,
       "name": "Alright",
       "url": "https://open.spotify.com/track/34GXxkoiX3dTC4GSGFY7xL"
+    },
+    {
+      "album": {
+        "name": "Ancient",
+        "url": "https://open.spotify.com/album/03XKuGjq8upDPtlc5rsLoa"
+      },
+      "artists": [
+        {
+          "name": "Elena Flury",
+          "url": "https://open.spotify.com/artist/3Qje1fgX9cfwugPCAG6Uuy"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180560,
+      "name": "Ancient",
+      "url": "https://open.spotify.com/track/0Rq1Ml0FBjO2NsLVYwfQ5z"
     },
     {
       "album": {
@@ -1058,6 +1076,24 @@
       "duration_ms": 139587,
       "name": "Body",
       "url": "https://open.spotify.com/track/1ucysYifutlHvdhT3wPH09"
+    },
+    {
+      "album": {
+        "name": "BORN BLUE (THE SONG)",
+        "url": "https://open.spotify.com/album/7J3K7vYvEDFCQbhpCXdECr"
+      },
+      "artists": [
+        {
+          "name": "Kings Elliot",
+          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "BORN BLUE (THE SONG)",
+      "url": "https://open.spotify.com/track/4UWtyESSkgFuLL7JU6YsdX"
     },
     {
       "album": {
@@ -2136,7 +2172,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 200937,
       "name": "distance",
       "url": "https://open.spotify.com/track/3LJ5QtTyjtBgsMVLZsLYj0"
@@ -3186,6 +3222,28 @@
       "duration_ms": 180478,
       "name": "Foto",
       "url": "https://open.spotify.com/track/6zrEOdAyx1vPjSFFgv8pEg"
+    },
+    {
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/3EJkFFctLoXCOKrS2O6hKY"
+      },
+      "artists": [
+        {
+          "name": "DJ Antoine",
+          "url": "https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo"
+        },
+        {
+          "name": "Tim Moyo",
+          "url": "https://open.spotify.com/artist/3T5QkaUrOahzNpA0JvqsF1"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169930,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/1zzrdSKdqTman4sjMyZYpu"
     },
     {
       "album": {
@@ -6296,7 +6354,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 146706,
       "name": "Never Stop the Party",
       "url": "https://open.spotify.com/track/17vOYsHvYE3YFXvAs8U9p7"
@@ -6602,7 +6660,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 197458,
       "name": "Old Again",
       "url": "https://open.spotify.com/track/5rU1wFFx3mWFVm2UcTg2Y3"
@@ -8362,7 +8420,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 203106,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/59UM9sARVWyG9GLXOJIzoX"
@@ -8724,6 +8782,24 @@
       "duration_ms": 140750,
       "name": "THE LOVER",
       "url": "https://open.spotify.com/track/51IMjTw9T8BliGgPMSFqEr"
+    },
+    {
+      "album": {
+        "name": "The One That Got Away",
+        "url": "https://open.spotify.com/album/78ENBQoIomlPqXkes3xQde"
+      },
+      "artists": [
+        {
+          "name": "LEILA",
+          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227613,
+      "name": "The One That Got Away",
+      "url": "https://open.spotify.com/track/6QmCR7y85C3MPXFr3ne0Ao"
     },
     {
       "album": {

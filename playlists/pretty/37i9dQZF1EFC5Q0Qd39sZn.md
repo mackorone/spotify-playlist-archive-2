@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,598 likes - 589 songs - 1 day 16 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,599 likes - 589 songs - 1 day 16 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 39 | [I Didn't Know My Own Strength](https://open.spotify.com/track/2d8012yMxNQF0jS3zxo4nU) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I Look To You](https://open.spotify.com/album/1MwwtYFk7ow6Bn0S98VW0A) | 3:39 |
 | 40 | [Missing You Now \(feat\. Kenny G\)](https://open.spotify.com/track/77kXCdIpGvg9Sdj4AXMK2Y) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Time, Love & Tenderness](https://open.spotify.com/album/4wQ6v4Q5YidrpC85KuBlTL) | 4:33 |
 | 41 | [Heart By Heart](https://open.spotify.com/track/6hp52bCSCN4nmAr3YMNKMF) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [The Mortal Instruments: City of Bones \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2BLgCI5sxPWSQGMB3B3Ogf) | 3:44 |
-| 42 | [Born To Be Somebody](https://open.spotify.com/track/1gWnUzwTMhOv4cWyj1CDxB) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Never Say Never \- The Remixes](https://open.spotify.com/album/0wZJCeyfJ0LVrrtH4CwQYw) | 3:01 |
-| 43 | [DRAMA](https://open.spotify.com/track/5Pixk2d6ey48MKVq5W6HWt) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [Übermensch](https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G) | 3:54 |
+| 42 | [DRAMA](https://open.spotify.com/track/5Pixk2d6ey48MKVq5W6HWt) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [Übermensch](https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G) | 3:54 |
+| 43 | [Born To Be Somebody](https://open.spotify.com/track/1gWnUzwTMhOv4cWyj1CDxB) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Never Say Never \- The Remixes](https://open.spotify.com/album/0wZJCeyfJ0LVrrtH4CwQYw) | 3:01 |
 | 44 | [I Love You Goodbye](https://open.spotify.com/track/2DEp2t7R9zRg38nNxEAVcB) | [Nina](https://open.spotify.com/artist/2tQbSWgZLIB8MXMnsXVRro) | [Live](https://open.spotify.com/album/66a4sphHBAshn0R7a8q2W6) | 4:06 |
 | 45 | [I Will Be Here For You](https://open.spotify.com/track/3CO19cTl5zzlWx9GWEpOhD) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Change Your World](https://open.spotify.com/album/4e09Ygjp2WiHzqXqV1J1HR) | 4:33 |
 | 46 | [Love Me Like That \(Champion Love\)](https://open.spotify.com/track/5kUMB8d7Xa6X7VNe8qTY9k) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Creed II: The Album](https://open.spotify.com/album/7kSa9AwcDQ6ZUScaXxp8zP) | 3:30 |
@@ -210,8 +210,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 200 | [Refugio De Amor \(You Are My Home\) \- Salsa](https://open.spotify.com/track/1RqKtxUtUC7niG3ob60jkV) | [Vanessa L\. Williams](https://open.spotify.com/artist/2LaI36n7EVNlR6SSqv9cKg), [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne Fan's Pack \- Tiempo De Vals/Volver A Nacer/Atado A Tu Amor](https://open.spotify.com/album/4Uq8uQ70aZEXmyn4a3EnDZ) | 5:28 |
 | 201 | [I Bow Out](https://open.spotify.com/track/2VgaALs0kKa9EG76A7T7uB) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:29 |
 | 202 | [What We Leave Behind](https://open.spotify.com/track/1hSC6vWh3Rzkn9JSWicerC) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Miss You Already \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1OJEishIRloK73nEQ5y8Eh) | 3:12 |
-| 203 | [You Pulled Me Through](https://open.spotify.com/track/20wlQCBAmNzKw7hRJ7eQR1) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [Jennifer Hudson](https://open.spotify.com/album/2keYz2u0j1QdnZw2z88kXp) | 3:39 |
-| 204 | [Rosie](https://open.spotify.com/track/3lf07xbXUAdsYlSJpRYQOp) | [Richie Sambora](https://open.spotify.com/artist/6uNjT2PKDfR7t48JKhajkh) | [Stranger In This Town](https://open.spotify.com/album/1iHo9sJ9iZ8JKQDJMwAGyj) | 4:50 |
+| 203 | [Rosie](https://open.spotify.com/track/3lf07xbXUAdsYlSJpRYQOp) | [Richie Sambora](https://open.spotify.com/artist/6uNjT2PKDfR7t48JKhajkh) | [Stranger In This Town](https://open.spotify.com/album/1iHo9sJ9iZ8JKQDJMwAGyj) | 4:50 |
+| 204 | [You Pulled Me Through](https://open.spotify.com/track/20wlQCBAmNzKw7hRJ7eQR1) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [Jennifer Hudson](https://open.spotify.com/album/2keYz2u0j1QdnZw2z88kXp) | 3:39 |
 | 205 | [Dear Me \- From The Original Documentary "Diane Warren: Relentless"](https://open.spotify.com/track/6GTTgyBHSqYLbJfMWNwPVU) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Dear Me \(From The Original Documentary "Diane Warren: Relentless"\)](https://open.spotify.com/album/5rFSttIqFbbi0DkoejrmXH) | 3:20 |
 | 206 | [Superhuman](https://open.spotify.com/track/4eMiknze54I87MoQ9yemCq) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [The Life](https://open.spotify.com/album/1DVit0dyCMSGJ4urswE5Sf) | 4:10 |
 | 207 | [Nothing Can Keep Me From You](https://open.spotify.com/track/2NiSYwryWPbvpzP23GlVtV) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [KISS Box Set](https://open.spotify.com/album/1aQUAWtVCilkjTK9fnoJ3e) | 4:04 |
@@ -223,8 +223,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 213 | [Too Gone, Too Long](https://open.spotify.com/track/2IOjsucrORGHHlqIlF3OAF) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [EV3](https://open.spotify.com/album/3mn8mLqRknZCD8o7Ruy4BN) | 4:42 |
 | 214 | [I'm Not Made of Steel](https://open.spotify.com/track/319QNS9ILIXDlEfnYwSFtn) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The One Thing](https://open.spotify.com/album/76UFgbtfCFi3mGjckycfvX) | 5:11 |
 | 215 | [Forever Isn't Long Enough](https://open.spotify.com/track/4UhUX2Ipv3RDkFaHQTRBTs) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Time, Love & Tenderness](https://open.spotify.com/album/4wQ6v4Q5YidrpC85KuBlTL) | 4:31 |
-| 216 | [And the Night Stood Still](https://open.spotify.com/track/6t0RfDtaS400oOVuTaX1bj) | [Smokie](https://open.spotify.com/artist/5rIqOJspxDq89aBBCUda1X) | [It's Country Time](https://open.spotify.com/album/3lb10Z7Lf81i16aq8VYxvB) | 3:46 |
-| 217 | [The One Thing](https://open.spotify.com/track/3mgXHv9bi2TFYeC5O1D1zT) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The One Thing](https://open.spotify.com/album/76UFgbtfCFi3mGjckycfvX) | 5:09 |
+| 216 | [The One Thing](https://open.spotify.com/track/3mgXHv9bi2TFYeC5O1D1zT) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The One Thing](https://open.spotify.com/album/76UFgbtfCFi3mGjckycfvX) | 5:09 |
+| 217 | [And the Night Stood Still](https://open.spotify.com/track/6t0RfDtaS400oOVuTaX1bj) | [Smokie](https://open.spotify.com/artist/5rIqOJspxDq89aBBCUda1X) | [It's Country Time](https://open.spotify.com/album/3lb10Z7Lf81i16aq8VYxvB) | 3:46 |
 | 218 | [Real Emotion](https://open.spotify.com/track/5bFt9A14TrFu1FQqQskzSl) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 4:25 |
 | 219 | [I Don't Want to Be Your Friend](https://open.spotify.com/track/6XIgcKoXQbJEr6E8EikAyC) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [A Night To Remember](https://open.spotify.com/album/3wegC2LXYCQknfUuOYBwmz) | 4:21 |
 | 220 | [Lovin' Proof](https://open.spotify.com/track/2wjCT6QwVk0nvkeqdgevbx) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 4:11 |
@@ -598,4 +598,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 588 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 589 | [There's Always Love](https://open.spotify.com/track/1GEM0xFN8KCkZ8MWXeTGjk) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Music Speaks Louder Than Words](https://open.spotify.com/album/749QW9xP9WJSrLAYHAJaco) | 4:30 |
 
-Snapshot ID: `AcVHBgAAAABTD1rUD9hb6Vb7eNOMf22d`
+Snapshot ID: `AcVMpgAAAABLJmcesKmvEC4eDrU3l9uP`

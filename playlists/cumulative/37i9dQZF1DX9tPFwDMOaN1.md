@@ -2,7 +2,7 @@
 
 ### [K\-Pop ON! \(온\)](https://open.spotify.com/playlist/37i9dQZF1DX9tPFwDMOaN1)
 
-> The new & hottest K\-Pop is here! \(Cover: Hearts2Hearts\)
+> The new & hottest K\-Pop is here! \(Cover: Stray Kids\)
 
 887 songs - 1 day 21 hr 45 min
 

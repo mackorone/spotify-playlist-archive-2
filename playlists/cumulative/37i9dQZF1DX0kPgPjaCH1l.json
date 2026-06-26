@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-24",
-  "description": "Baba God, run am \ud83d\ude4f. \nCover:  Asake",
+  "description": "Baba God, run am \ud83d\ude4f. \nCover:  Barry ",
   "name": "afro adura ",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 146285,
       "name": "1000 Thoughts",
       "url": "https://open.spotify.com/track/6idlK37wzdlOJP9c3MS4m5"
+    },
+    {
+      "album": {
+        "name": "1942",
+        "url": "https://open.spotify.com/album/4vqElV5yYZYLkh2T6ssMHw"
+      },
+      "artists": [
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150508,
+      "name": "1942",
+      "url": "https://open.spotify.com/track/4gLXm2USDlVMUdTfresz0B"
     },
     {
       "album": {
@@ -1496,7 +1514,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 164760,
       "name": "Jehovah",
       "url": "https://open.spotify.com/track/7EfjkOYi6He33zzUoHuUjs"
@@ -2586,7 +2604,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 154615,
       "name": "Sho Mo Mi",
       "url": "https://open.spotify.com/track/2jQuziL4jIUO8YhcRfTpZr"
@@ -2843,6 +2861,42 @@
     },
     {
       "album": {
+        "name": "KING COAL",
+        "url": "https://open.spotify.com/album/6KPqebNAhpIVGeDzjaATxr"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 11",
+      "url": "https://open.spotify.com/track/4t4Idhn46m8YDMeGtNwRvj"
+    },
+    {
+      "album": {
+        "name": "Barrystar, Vol. 2",
+        "url": "https://open.spotify.com/album/2sRMHoYk2tlpv0Dq9DtWcj"
+      },
+      "artists": [
+        {
+          "name": "Barry Jhay",
+          "url": "https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/3FVclanhZBo5V9d5mO8mke"
+    },
+    {
+      "album": {
         "name": "Freshout Jimma, Vol. 1",
         "url": "https://open.spotify.com/album/4vEbQcyYikY4qCKGxAgfeT"
       },
@@ -2898,7 +2952,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 214736,
       "name": "Try (feat. Young Jonn)",
       "url": "https://open.spotify.com/track/12Mel6t7zZlfn1CpmwL96L"

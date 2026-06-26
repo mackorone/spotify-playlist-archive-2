@@ -4970,7 +4970,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 183947,
       "name": "Come Slide",
       "url": "https://open.spotify.com/track/75uppmIvjtxiutMdmA8C9c"
@@ -5530,7 +5530,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 160587,
       "name": "Dangbana Riddim",
       "url": "https://open.spotify.com/track/07eJSSPcNlkR34wVlkrCcY"
@@ -7140,7 +7140,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 140505,
       "name": "Energy",
       "url": "https://open.spotify.com/track/5KkV60IH22ERQHfNxkGa1G"
@@ -7856,7 +7856,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 154838,
       "name": "Find A Way",
       "url": "https://open.spotify.com/track/3ioVE7SKMzbgrkhcCiTKWB"
@@ -9531,6 +9531,28 @@
     },
     {
       "album": {
+        "name": "Built Different",
+        "url": "https://open.spotify.com/album/0eZrosDFkbClhRzEnoJD63"
+      },
+      "artists": [
+        {
+          "name": "Otega",
+          "url": "https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs"
+        },
+        {
+          "name": "DJ YK",
+          "url": "https://open.spotify.com/artist/2VLe3q3Vp7R9aQQGip5oMe"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161375,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/0ASno3zrAbwRe4cVfH1c7K"
+    },
+    {
+      "album": {
         "name": "Happy Day",
         "url": "https://open.spotify.com/album/7cxmSJpET0841ZDTBy1zVz"
       },
@@ -10659,6 +10681,32 @@
     },
     {
       "album": {
+        "name": "I Know Who I Be",
+        "url": "https://open.spotify.com/album/7dR22XlVbfSAhTSltPiU7g"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "JAZZWRLD",
+          "url": "https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz"
+        },
+        {
+          "name": "GL_Ceejay",
+          "url": "https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233976,
+      "name": "I Know Who I Be",
+      "url": "https://open.spotify.com/track/1TglprKNjHw9rmTNgVZpUu"
+    },
+    {
+      "album": {
         "name": "I Like Girls",
         "url": "https://open.spotify.com/album/2UzLjMX7iff7P6KcbL9Ez3"
       },
@@ -11679,6 +11727,24 @@
     },
     {
       "album": {
+        "name": "JIGGLE",
+        "url": "https://open.spotify.com/album/0MlvZhXLMS6Q0gZlVeY11R"
+      },
+      "artists": [
+        {
+          "name": "Chella",
+          "url": "https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128495,
+      "name": "JIGGLE",
+      "url": "https://open.spotify.com/track/6kSNvau2G1L3qxsyMB3LaT"
+    },
+    {
+      "album": {
         "name": "Boy Alone (Deluxe)",
         "url": "https://open.spotify.com/album/5NI7LqHIf9hDtH640m7VI6"
       },
@@ -11712,7 +11778,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 136874,
       "name": "Joanna",
       "url": "https://open.spotify.com/track/1HqUNWKlYGjxqw2W28scFK"
@@ -13864,7 +13930,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 181289,
       "name": "MAGAA",
       "url": "https://open.spotify.com/track/1uXIywdXW2eaFnD3zJbfpl"
@@ -17497,6 +17563,28 @@
     },
     {
       "album": {
+        "name": "On my mind",
+        "url": "https://open.spotify.com/album/43w6KiIP8mCiOCc1RFVcvT"
+      },
+      "artists": [
+        {
+          "name": "Yam\u00ea",
+          "url": "https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163994,
+      "name": "On my mind",
+      "url": "https://open.spotify.com/track/6gKQMPemGGxgdCgeqNMBBp"
+    },
+    {
+      "album": {
         "name": "ON YOU",
         "url": "https://open.spotify.com/album/3HAjphodzLCIimI20NpAAz"
       },
@@ -19656,7 +19744,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 196000,
       "name": "Rhythm",
       "url": "https://open.spotify.com/track/33a1uLQRtgOGJDU7DqNsFt"
@@ -20146,7 +20234,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 144487,
       "name": "Samankwe",
       "url": "https://open.spotify.com/track/1ouLGBzR2y1EOHhcrB2bjo"
@@ -20564,7 +20652,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 196250,
       "name": "Shake That",
       "url": "https://open.spotify.com/track/2HNqGqMFyUjyjGyi6K58xm"
@@ -21204,6 +21292,28 @@
       "duration_ms": 188411,
       "name": "SOMETHING",
       "url": "https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w"
+    },
+    {
+      "album": {
+        "name": "Sometimes Love",
+        "url": "https://open.spotify.com/album/7B2wlFa4gonKkpXkWBYMXc"
+      },
+      "artists": [
+        {
+          "name": "Somi",
+          "url": "https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA"
+        },
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307245,
+      "name": "Sometimes Love",
+      "url": "https://open.spotify.com/track/20KOIyeSqCrfWnUJhGlfKl"
     },
     {
       "album": {
@@ -23075,6 +23185,24 @@
     },
     {
       "album": {
+        "name": "Barrystar, Vol. 2",
+        "url": "https://open.spotify.com/album/2sRMHoYk2tlpv0Dq9DtWcj"
+      },
+      "artists": [
+        {
+          "name": "Barry Jhay",
+          "url": "https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/3FVclanhZBo5V9d5mO8mke"
+    },
+    {
+      "album": {
         "name": "YUSFUL MUSIC",
         "url": "https://open.spotify.com/album/1HuptmkvsxXrr4JLulD83n"
       },
@@ -23365,6 +23493,24 @@
     },
     {
       "album": {
+        "name": "Uche Jumbo",
+        "url": "https://open.spotify.com/album/6HWoNUfkHlTokQFzGtZk5Y"
+      },
+      "artists": [
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148269,
+      "name": "Uche Jumbo",
+      "url": "https://open.spotify.com/track/7bRUMiDGOuaVamLrq52rSW"
+    },
+    {
+      "album": {
         "name": "Lungu Boy",
         "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
       },
@@ -23478,6 +23624,28 @@
       "duration_ms": 174545,
       "name": "understand",
       "url": "https://open.spotify.com/track/6oOCGD2Sp9UTcDsuDz8Hdu"
+    },
+    {
+      "album": {
+        "name": "Understand Me",
+        "url": "https://open.spotify.com/album/08wSUNoBVnufVVXiR0uXao"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "NO11",
+          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Understand Me",
+      "url": "https://open.spotify.com/track/7r1JAS1VyNY522GJhnIUCL"
     },
     {
       "album": {
@@ -25004,6 +25172,24 @@
       "duration_ms": 195789,
       "name": "YBIL (You Believe in Love) (feat. Kizz Daniel)",
       "url": "https://open.spotify.com/track/6bF1EypRS76xVjKe9fho5C"
+    },
+    {
+      "album": {
+        "name": "YBTM",
+        "url": "https://open.spotify.com/album/75ek7OW0Sa9wa7Mj4LTPPv"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176727,
+      "name": "YBTM",
+      "url": "https://open.spotify.com/track/3PfBH3KIRTmiMfKq2p4dXc"
     },
     {
       "album": {

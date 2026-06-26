@@ -1793,6 +1793,24 @@
     },
     {
       "album": {
+        "name": "BAD COMPANY",
+        "url": "https://open.spotify.com/album/11NO5t5VTniRy4dJOxQ1EC"
+      },
+      "artists": [
+        {
+          "name": "Tiger La Flor",
+          "url": "https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173409,
+      "name": "BAD COMPANY",
+      "url": "https://open.spotify.com/track/6l8EVqC5hJbYzys0N3QXAN"
+    },
+    {
+      "album": {
         "name": "BAD DECISIONS",
         "url": "https://open.spotify.com/album/61WyYQC1peEOTLBFlCC1I9"
       },

@@ -1499,6 +1499,28 @@
     },
     {
       "album": {
+        "name": "Cuando habla el coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5BwjoQp8RdXwrVhWX736ta"
+      },
+      "artists": [
+        {
+          "name": "Francia 98",
+          "url": "https://open.spotify.com/artist/6me7j5R08ARYKASHiqhvcu"
+        },
+        {
+          "name": "Jorge Serrano",
+          "url": "https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212442,
+      "name": "Cuando habla el coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3xUFEIcBssbf46DOOZKiw0"
+    },
+    {
+      "album": {
         "name": "Probame (Demo)",
         "url": "https://open.spotify.com/album/2fs5He9XpcqbqLud8QSRyv"
       },
@@ -2862,7 +2884,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 220501,
       "name": "Estocolmo",
       "url": "https://open.spotify.com/track/5Td1HTNA1KWwYJurEgh0Wx"
@@ -4202,6 +4224,28 @@
       "duration_ms": 236015,
       "name": "La Vida Es As\u00ed",
       "url": "https://open.spotify.com/track/1Zsu6m9PyxwcpyUcw3yQgk"
+    },
+    {
+      "album": {
+        "name": "La vida y una pelota",
+        "url": "https://open.spotify.com/album/2F0TDZSceVq6QlSGQVnmzD"
+      },
+      "artists": [
+        {
+          "name": "SANTACRUZ",
+          "url": "https://open.spotify.com/artist/42q0iHNbkj0YS8kp0QuOp2"
+        },
+        {
+          "name": "Martin Lopez",
+          "url": "https://open.spotify.com/artist/2HeuIrj5ldDUqd8zv79S4y"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181019,
+      "name": "La vida y una pelota",
+      "url": "https://open.spotify.com/track/6bA8TndkjRvWrEYCwJU2zz"
     },
     {
       "album": {
@@ -8396,7 +8440,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 243570,
       "name": "Una Vida M\u00e1s",
       "url": "https://open.spotify.com/track/3DrUefe54Lh14hPrhA4W4Y"

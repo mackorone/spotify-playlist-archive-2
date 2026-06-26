@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Génesis Colón
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,152 likes - 100 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,175 likes - 100 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 61 | [Tan Bueno](https://open.spotify.com/track/7AUW3JjrrXiJIwxpG5FJ3h) | [Pauneto](https://open.spotify.com/artist/1cs6ODU6Bu1cxX7nqsBC7W) | [Tan Bueno](https://open.spotify.com/album/3R440cLpzKtieDNzYwCQ7U) | 2:22 |
 | 62 | [Vive Sin Miedo](https://open.spotify.com/track/4PUcx8kmXdPXuaH54JF38m) | [Brayan Booz](https://open.spotify.com/artist/6c4FK057PXYFZR8mBFgnCD) | [Vive Sin Miedo](https://open.spotify.com/album/1pgsND9aLfLCAsJ6auavv3) | 2:39 |
 | 63 | [La Barra de Jesús](https://open.spotify.com/track/2PE7PpEUXhP5rY3UuRi2FQ) | [Artury Pepper](https://open.spotify.com/artist/00YAB4AxSCscGVzUrSmD57), [Lairos](https://open.spotify.com/artist/527mUtlGTEtRGRXXoF1EGF), [DJ ADOS](https://open.spotify.com/artist/20qX2f7YGzqEKw1vmZe7IP), [Jairon High](https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M) | [La Barra de Jesús](https://open.spotify.com/album/3LVhZyTNEnHZJ4kKg459M0) | 2:19 |
-| 64 | [Mírenlo](https://open.spotify.com/track/0EvBSn62KUjXM38l1oPbH0) | [Abi y Mauri](https://open.spotify.com/artist/7eWnbAZFp1GGJNa0j75Zcp), [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I) | [Mírenlo](https://open.spotify.com/album/2gX24MkbRCeUTWxdKDHtHh) | 12:19 |
+| 64 | [Mírenlo](https://open.spotify.com/track/0EvBSn62KUjXM38l1oPbH0) | [abiymauri](https://open.spotify.com/artist/7eWnbAZFp1GGJNa0j75Zcp), [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I) | [Mírenlo](https://open.spotify.com/album/2gX24MkbRCeUTWxdKDHtHh) | 12:19 |
 | 65 | [Hay Poder \(YESHUA\) \- Live](https://open.spotify.com/track/3n12kCtTF0CpHtgHnJHKfT) | [Averly Morillo](https://open.spotify.com/artist/40oCnQkoBkpfTohVnTf40S) | [Hay Poder \(YESHUA\) \[Live\]](https://open.spotify.com/album/3cZoGPZmi8ogTAbSlzU3E8) | 9:50 |
 | 66 | [Salmo 91](https://open.spotify.com/track/0oEFjB48ohshnkn7VLZVwk) | [Johan y Sofi](https://open.spotify.com/artist/4QPzngDflVr8Qq8vRgL4qT), [Sofía Mancipe](https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Salmo 91](https://open.spotify.com/album/3NTNaROyuehgjCxjxrVcAT) | 4:16 |
 | 67 | [Este Es Su Cuerpo](https://open.spotify.com/track/0Zgyq1iXczzuJVtH0xeO9L) | [Maurilio Suárez y el grupo Méssia](https://open.spotify.com/artist/79DdMTTLznPo5fIX5tlE1K), [Marcela de Maria y Campos](https://open.spotify.com/artist/40HHCzICj1joEmzrjb9oYS) | [Este Es Su Cuerpo](https://open.spotify.com/album/6I5yFJjSZP35ryJOGuBZyX) | 3:30 |

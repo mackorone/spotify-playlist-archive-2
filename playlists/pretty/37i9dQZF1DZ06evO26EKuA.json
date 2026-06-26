@@ -1,12 +1,12 @@
 {
   "description": "This is Valent\u00edn Elizalde. The essential tracks, all in one playlist.",
-  "num_followers": 474997,
+  "num_followers": 475052,
   "original_name": "This Is Valent\u00edn Elizalde",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajnMgAAAAABr2J9mIOnpXWGax4cynOB+",
+  "snapshot_id": "ajseAAAAAACGLJ86/ChL0P/XyaMfpqCc",
   "tracks": [
     {
       "added_at": null,
@@ -731,22 +731,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Mejor Colecci\u00f3n De Corridos",
-        "url": "https://open.spotify.com/album/7lk2j5XmLBaWJw40K6lTtZ"
+        "name": "Vencedor",
+        "url": "https://open.spotify.com/album/4cPRux21b3M1X668qR5lZ3"
       },
       "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        },
         {
           "name": "Valent\u00edn Elizalde",
           "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
         }
       ],
-      "duration_ms": 157280,
-      "name": "La Tambora Va A Sonar",
-      "url": "https://open.spotify.com/track/2VeCQKwNIqeEBIu4abOKKO"
+      "duration_ms": 124666,
+      "name": "Y No Me Lo Das",
+      "url": "https://open.spotify.com/track/4gyXD97usXdbOUrsP95PaC"
     },
     {
       "added_at": null,
@@ -783,18 +779,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vencedor",
-        "url": "https://open.spotify.com/album/4cPRux21b3M1X668qR5lZ3"
+        "name": "La Mejor Colecci\u00f3n De Corridos",
+        "url": "https://open.spotify.com/album/7lk2j5XmLBaWJw40K6lTtZ"
       },
       "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        },
         {
           "name": "Valent\u00edn Elizalde",
           "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
         }
       ],
-      "duration_ms": 124666,
-      "name": "Y No Me Lo Das",
-      "url": "https://open.spotify.com/track/4gyXD97usXdbOUrsP95PaC"
+      "duration_ms": 157280,
+      "name": "La Tambora Va A Sonar",
+      "url": "https://open.spotify.com/track/2VeCQKwNIqeEBIu4abOKKO"
     },
     {
       "added_at": null,

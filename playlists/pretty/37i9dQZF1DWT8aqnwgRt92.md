@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,543,309 likes - 99 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,543,277 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,9 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 93 | [Submarine Youth](https://open.spotify.com/track/3EAaR5AFd8T1HmAP3dPIXG) | [reGretGirl](https://open.spotify.com/artist/5uvz2VwV3ubUy1Tm1UOrLs) | [Submarine Youth](https://open.spotify.com/album/5Iye2J0M3KdclFEJVUF9gf) | 3:27 |
 | 94 | [君は恋人](https://open.spotify.com/track/2DpxUvpifasKCux95AMW4g) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [君は恋人](https://open.spotify.com/album/6llaqDfdsFoormsUrhdrbo) | 3:37 |
 | 95 | [フローリア](https://open.spotify.com/track/2NXqNLeinF2qV8EuldkqQu) | [Miho Okasaki](https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm) | [フローリア](https://open.spotify.com/album/3Z8RikNPT2YEePJWm6LElP) | 4:37 |
-| 96 | [Happy Stars Forever!](https://open.spotify.com/track/3bTiVhXEWarmsiiSut8mFO) | [長瀬琴乃 \(CV:橘 美來\)](https://open.spotify.com/artist/5aNqOgJHJBWVzP4lrNaxj0), [川咲さくら \(CV:菅野真衣\)](https://open.spotify.com/artist/4OkbwGMGFV6ChUxL14luUu), [天動瑠依 \(CV:雨宮 天\)](https://open.spotify.com/artist/6pza5RAOaUduGRWBygnakK), [神崎莉央 \(CV:戸松 遥\)](https://open.spotify.com/artist/0iM1XJj7tUAXVDTafkUWye), [fran \(CV:Lynn\)](https://open.spotify.com/artist/42dGlJ4TYrtWXVLc8b1s8l) | [Happy Stars Forever!](https://open.spotify.com/album/7svYEVXUnYIbbnLsO8lRDV) | 3:31 |
-| 97 | [The Brave \- from CrosSing](https://open.spotify.com/track/1TqErSDB1EQqLqqXcNnvbm) | [Ayana Taketatsu](https://open.spotify.com/artist/34UBKoTrfN5mZ0qzJtsZSS) | [The Brave \- from CrosSing](https://open.spotify.com/album/3MPRiIEZXAxEwYeUcpgT4L) | 3:15 |
-| 98 | [アパショナータ](https://open.spotify.com/track/1jMlz8VvDsVPxbvKpyJKcV) | [斜木 七基\(CV:大塚 剛央\)](https://open.spotify.com/artist/2HM2GC8dXuL0Yyxm4wGZ29) | [18TRIP 'Funny day' \-Day2\-](https://open.spotify.com/album/3HU6i2UtwMYQE4qQdcTZjm) | 3:17 |
-| 99 | [ラックアウト](https://open.spotify.com/track/6MjfVcT38g5RuuAXRCxRxn) | [千葉翔也](https://open.spotify.com/artist/7ksLasGjsOxPkSYVQMMKlm) | [Invention](https://open.spotify.com/album/1KLixUg7wjhx2utZ2zkl6O) | 3:16 |
+| 96 | [g](https://open.spotify.com/track/5ZNHmpzW8Z6CXO18dp1Tpu) | [Shouta Aoi](https://open.spotify.com/artist/4Kg3vBPMPfnYrnZo2A4czS) | [g](https://open.spotify.com/album/5lZM4MjAHZ9q1xoF5Wl9yQ) | 3:15 |
+| 97 | [Happy Stars Forever!](https://open.spotify.com/track/3bTiVhXEWarmsiiSut8mFO) | [長瀬琴乃 \(CV:橘 美來\)](https://open.spotify.com/artist/5aNqOgJHJBWVzP4lrNaxj0), [川咲さくら \(CV:菅野真衣\)](https://open.spotify.com/artist/4OkbwGMGFV6ChUxL14luUu), [天動瑠依 \(CV:雨宮 天\)](https://open.spotify.com/artist/6pza5RAOaUduGRWBygnakK), [神崎莉央 \(CV:戸松 遥\)](https://open.spotify.com/artist/0iM1XJj7tUAXVDTafkUWye), [fran \(CV:Lynn\)](https://open.spotify.com/artist/42dGlJ4TYrtWXVLc8b1s8l) | [Happy Stars Forever!](https://open.spotify.com/album/7svYEVXUnYIbbnLsO8lRDV) | 3:31 |
+| 98 | [The Brave \- from CrosSing](https://open.spotify.com/track/1TqErSDB1EQqLqqXcNnvbm) | [Ayana Taketatsu](https://open.spotify.com/artist/34UBKoTrfN5mZ0qzJtsZSS) | [The Brave \- from CrosSing](https://open.spotify.com/album/3MPRiIEZXAxEwYeUcpgT4L) | 3:15 |
+| 99 | [アパショナータ](https://open.spotify.com/track/1jMlz8VvDsVPxbvKpyJKcV) | [斜木 七基\(CV:大塚 剛央\)](https://open.spotify.com/artist/2HM2GC8dXuL0Yyxm4wGZ29) | [18TRIP 'Funny day' \-Day2\-](https://open.spotify.com/album/3HU6i2UtwMYQE4qQdcTZjm) | 3:17 |
+| 100 | [ラックアウト](https://open.spotify.com/track/6MjfVcT38g5RuuAXRCxRxn) | [千葉翔也](https://open.spotify.com/artist/7ksLasGjsOxPkSYVQMMKlm) | [Invention](https://open.spotify.com/album/1KLixUg7wjhx2utZ2zkl6O) | 3:16 |
 
 Snapshot ID: `AAAAADDPr/paPBR0oRgNSV4woKJsZyuH`

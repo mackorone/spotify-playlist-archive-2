@@ -4,7 +4,7 @@
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-2,645 songs - 6 day 19 hr 24 min
+2,646 songs - 6 day 19 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -432,6 +432,7 @@
 | [Fuwa Fuwa Time \- From CrosSing](https://open.spotify.com/track/2VkhXYlEEx0753IjeQCeof) | [Onishi Aguri](https://open.spotify.com/artist/3hp538apqv8zWeIa31uKe7) | [Fuwa Fuwa Time \- From CrosSing](https://open.spotify.com/album/2umPEmciHjUCfqziD1B7zG) | 3:58 | 2022-07-28 | 2022-08-03 |
 | [fuwari](https://open.spotify.com/track/5PEDVhheFpRqK5JJ2cu5Nn) | [内田彩](https://open.spotify.com/artist/0M6zW75xJfkFNrxxawEdLz) | [fuwari](https://open.spotify.com/album/6RcIN4K2i0nFbjDoySoMQG) | 3:23 | 2025-07-15 | 2025-07-23 |
 | [fūmi zekka](https://open.spotify.com/track/2Lphm5lQ3bOULctWRuMhJ8) | [YuNi](https://open.spotify.com/artist/6BzlN4V17m7ogeItP4CNN5) | [fūmi zekka](https://open.spotify.com/album/6B2EGXqpVPapvfPFyLlwKm) | 3:18 | 2023-08-06 | 2023-10-04 |
+| [g](https://open.spotify.com/track/5ZNHmpzW8Z6CXO18dp1Tpu) | [Shouta Aoi](https://open.spotify.com/artist/4Kg3vBPMPfnYrnZo2A4czS) | [g](https://open.spotify.com/album/5lZM4MjAHZ9q1xoF5Wl9yQ) | 3:15 | 2026-06-23 |  |
 | [GAME OVER](https://open.spotify.com/track/2gH2pndal6ciCOzB0HNhSt) | [issey](https://open.spotify.com/artist/6NOuhUhXshepSHcBqwwZJt) | [GAME OVER](https://open.spotify.com/album/0B7HSA1BkB7b6MfJcR5KIK) | 3:53 | 2024-07-03 | 2024-07-06 |
 | [Garden of Remembrance](https://open.spotify.com/track/1z2BwXcCg7udJjekN3JuMh) | [Lovely Summer Chan](https://open.spotify.com/artist/4nA0WP72lQ6494sT3xbips) | [「Garden of Remembrance」劇中曲](https://open.spotify.com/album/5EWWd1nPJMu0XtKvpNSwkz) | 7:16 | 2024-10-29 | 2024-11-06 |
 | [Gathering](https://open.spotify.com/track/3iGY0QyTIKWB2EdZyRUWCR) | [Megumi Hayashibara](https://open.spotify.com/artist/53e5Lp1qdqsYgfGL9YuW5p) | [Gathering](https://open.spotify.com/album/4JRxN6nijgRbpDFhARtQR3) | 3:42 | 2024-12-17 | 2025-01-03 |

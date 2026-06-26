@@ -3371,6 +3371,28 @@
     },
     {
       "album": {
+        "name": "Letters",
+        "url": "https://open.spotify.com/album/7pAIxQkoQ3wQSxaGiX7sR5"
+      },
+      "artists": [
+        {
+          "name": "JOKER390P",
+          "url": "https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW"
+        },
+        {
+          "name": "AZWIN",
+          "url": "https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Homies",
+      "url": "https://open.spotify.com/track/7teRfFMg4OAzDAep33O5zR"
+    },
+    {
+      "album": {
         "name": "Wish Hope Fly",
         "url": "https://open.spotify.com/album/4BjQpEh6WzIWptPhgxKkEL"
       },
@@ -9296,7 +9318,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 240875,
       "name": "Poothiri",
       "url": "https://open.spotify.com/track/6lO6phS09XKfyHv0DYzJw7"

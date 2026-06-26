@@ -861,6 +861,24 @@
     },
     {
       "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/75ybgqO4jcR5wVBqJjhOty"
+      },
+      "artists": [
+        {
+          "name": "Sydney Mira",
+          "url": "https://open.spotify.com/artist/5XwFYCv86rU6frthHUp9JS"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174548,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/50RQjG7miFoLtAyS8Jga1n"
+    },
+    {
+      "album": {
         "name": "Adulterated LV song",
         "url": "https://open.spotify.com/album/18Czjwd1XWSW2Hvx29631x"
       },
@@ -3423,6 +3441,24 @@
     },
     {
       "album": {
+        "name": "Be The Same",
+        "url": "https://open.spotify.com/album/0Zm9ZIKduYLq51OAdpsXL1"
+      },
+      "artists": [
+        {
+          "name": "George Charra",
+          "url": "https://open.spotify.com/artist/35iy2fliGVuc6BtFHl1bw2"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143280,
+      "name": "Be The Same",
+      "url": "https://open.spotify.com/track/0eYkvzDB4Oo5kwWb0r02i2"
+    },
+    {
+      "album": {
         "name": "Be the Star That You Are",
         "url": "https://open.spotify.com/album/1QcGdYC268jeVW185uD1L0"
       },
@@ -4968,7 +5004,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 187640,
       "name": "Broken Hearts",
       "url": "https://open.spotify.com/track/4zoUcOXipFBK89Sxk1viho"
@@ -16020,7 +16056,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 217199,
       "name": "I Ain't Country But My Friends Are",
       "url": "https://open.spotify.com/track/2WJVd7kvQzHf7K8WiaSuwI"
@@ -16042,6 +16078,24 @@
       "duration_ms": 208050,
       "name": "I Am The Quiet",
       "url": "https://open.spotify.com/track/2FOOHGf0cHZGWPSggyKkFZ"
+    },
+    {
+      "album": {
+        "name": "I Can't Dance Country",
+        "url": "https://open.spotify.com/album/0XzM1vUPDUIGnzxK9WdxkD"
+      },
+      "artists": [
+        {
+          "name": "Jason Jarrett",
+          "url": "https://open.spotify.com/artist/4rgw61pW4Elbxf14ssmWWO"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220653,
+      "name": "I Can't Dance Country",
+      "url": "https://open.spotify.com/track/61NcTpeterWcrgazn3NBSf"
     },
     {
       "album": {
@@ -16738,6 +16792,24 @@
       "duration_ms": 188135,
       "name": "I Wanna Be Your Ex",
       "url": "https://open.spotify.com/track/1CdXOgY6iJlEFF0NNcVE9K"
+    },
+    {
+      "album": {
+        "name": "I wanna roll with you",
+        "url": "https://open.spotify.com/album/7xNt3IW1z4gx2IYCWpCquJ"
+      },
+      "artists": [
+        {
+          "name": "Ridgewell",
+          "url": "https://open.spotify.com/artist/76stEBv30Y8khXPjqoSeNw"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192573,
+      "name": "I wanna roll with you",
+      "url": "https://open.spotify.com/track/4QEUO03FEwAC1b77BYj7yP"
     },
     {
       "album": {
@@ -18080,6 +18152,24 @@
       "duration_ms": 179759,
       "name": "INTO THE FIRE",
       "url": "https://open.spotify.com/track/2l8WmuRWyBNuYgMH4lBTrI"
+    },
+    {
+      "album": {
+        "name": "Into Your Orbit",
+        "url": "https://open.spotify.com/album/4lGby8Y8RcoLgTf8j4561P"
+      },
+      "artists": [
+        {
+          "name": "Henry Lees",
+          "url": "https://open.spotify.com/artist/67O8s6LaoOtJcTRkqcz6fO"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240204,
+      "name": "Into Your Orbit",
+      "url": "https://open.spotify.com/track/1WnMoE8PnCICtiTxgeOZ54"
     },
     {
       "album": {
@@ -24129,6 +24219,28 @@
     },
     {
       "album": {
+        "name": "Nation (Acoustic Version)",
+        "url": "https://open.spotify.com/album/0Q0z9e7YySpMrH2QSQWVjc"
+      },
+      "artists": [
+        {
+          "name": "DIVA",
+          "url": "https://open.spotify.com/artist/6bARqSRs4h8GlS8I2SN6nn"
+        },
+        {
+          "name": "Antoine Garrel",
+          "url": "https://open.spotify.com/artist/7mfXwtV1UD1M6DZMNBNTr0"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206093,
+      "name": "Nation - Acoustic Version",
+      "url": "https://open.spotify.com/track/4PO8wpjkwCUr11BOcSCvuE"
+    },
+    {
+      "album": {
         "name": "Natural Rizz",
         "url": "https://open.spotify.com/album/4mn9DQvhkOe6gmsw6jIzVU"
       },
@@ -25390,7 +25502,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 169919,
       "name": "Not My Boyfriend",
       "url": "https://open.spotify.com/track/4jSCbJoSYnzecbIILbW3tk"
@@ -26279,6 +26391,24 @@
     },
     {
       "album": {
+        "name": "ONLY YOU TONIGHT",
+        "url": "https://open.spotify.com/album/07WSm5ZRj0bqK8nt1rCmC8"
+      },
+      "artists": [
+        {
+          "name": "ALFON SBK",
+          "url": "https://open.spotify.com/artist/6HoLZ2fsPr5mCJMtfZZhAp"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183358,
+      "name": "ONLY YOU TONIGHT",
+      "url": "https://open.spotify.com/track/7r8C7AK4GE5lKRh3mI0HVh"
+    },
+    {
+      "album": {
         "name": "Only Your Vision",
         "url": "https://open.spotify.com/album/4v0RHc8OVLQ6gSGRUmr93x"
       },
@@ -26758,7 +26888,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 64685,
       "name": "overstimulation. (overthinking, Pt. 2)",
       "url": "https://open.spotify.com/track/6WVlEjF7lBPQz4WdpdYJl5"
@@ -33848,7 +33978,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 163000,
       "name": "Sunray (Show Me Where To Go) - Pop Rework",
       "url": "https://open.spotify.com/track/0spNYMW0IKjuG1Ca8NS8jF"
@@ -35226,7 +35356,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 282880,
       "name": "The Flame",
       "url": "https://open.spotify.com/track/5sv9RrS15XZmLv5k1llDTF"
@@ -40774,7 +40904,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 208239,
       "name": "With You (I Don't Care) - Reimagined",
       "url": "https://open.spotify.com/track/5R91LBZqM3WZDyiRupYtz1"

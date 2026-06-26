@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 
 > Grab a drink and relax to the Jazz played in the background at the bar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,547 likes - 100 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,594 likes - 100 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 | 25 | [Something Cool \- Mono](https://open.spotify.com/track/2mqjKGlSdJHdjCQHtOx6PD) | [June Christy](https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP) | [Something Cool \(1955 Version\)](https://open.spotify.com/album/1GJeSeLhbyiOpsNNjndHLA) | 4:18 |
 | 26 | [All The Way \- Rudy Van Gelder Edition / 2007 / Digital Remaster](https://open.spotify.com/track/5Vwv04kuzOG41a1v8RgZ8O) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Candy \(Remastered\)](https://open.spotify.com/album/4GfUYw8hn5RPQHkRCcU2aL) | 7:27 |
 | 27 | [I Remember Clifford](https://open.spotify.com/track/6HdtoTELqn8uyK5mnvhOcy) | [John Lewis](https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s) | [The Wonderful World Of Jazz](https://open.spotify.com/album/7bVINZrNHFkVADBBHfOiAh) | 3:30 |
-| 28 | [Cry Me A River](https://open.spotify.com/track/1ZAJSDOejLqTsKZ5LSvCOv) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Dexter Blows Hot & Cool](https://open.spotify.com/album/007UOKwZqyvqWhjcIHlYqI) | 3:42 |
-| 29 | [Ev'ry Time We Say Goodbye](https://open.spotify.com/track/7mCcMSjdxm7I4zLnckj8nV) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m), [Bud Shank Quintet](https://open.spotify.com/artist/0wxeKxK215flbUeSkHOhTS) | [All Through The Night: Julie London Sings The Choicest Of Cole Porter \(Bonus Tracks\)](https://open.spotify.com/album/6rE7shZVgh3JfpLrdoR1Zn) | 4:20 |
+| 28 | [Ev'ry Time We Say Goodbye](https://open.spotify.com/track/7mCcMSjdxm7I4zLnckj8nV) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m), [Bud Shank Quintet](https://open.spotify.com/artist/0wxeKxK215flbUeSkHOhTS) | [All Through The Night: Julie London Sings The Choicest Of Cole Porter \(Bonus Tracks\)](https://open.spotify.com/album/6rE7shZVgh3JfpLrdoR1Zn) | 4:20 |
+| 29 | [Cry Me A River](https://open.spotify.com/track/1ZAJSDOejLqTsKZ5LSvCOv) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Dexter Blows Hot & Cool](https://open.spotify.com/album/007UOKwZqyvqWhjcIHlYqI) | 3:42 |
 | 30 | [Lover Man \(Oh Where Can You Be\)](https://open.spotify.com/track/6R9KBVibYQz0OjFSDlPdrn) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie \(Expanded Edition\)](https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6) | 2:46 |
 | 31 | [Do It Again](https://open.spotify.com/track/0NaArK8e9ovK75lLRU0OWM) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [Loads Of Love](https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY) | 2:57 |
 | 32 | [When Your Lover Has Gone](https://open.spotify.com/track/4cAZSwLu81TpobAB0M9kz4) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baker's Holiday](https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR) | 2:54 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 | 78 | [Moonglow](https://open.spotify.com/track/6X5JwYOrUQzMY1rYVTVKik) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [The Hawk Relaxes](https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH) | 5:56 |
 | 79 | [Make The Man Love Me](https://open.spotify.com/track/6OXdOnoAKftmieuch2Fbis) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [For Those In Love \(Expanded Edition\)](https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2) | 5:35 |
 | 80 | [Your Love Has Faded](https://open.spotify.com/track/1X5DC9OMRJ2O7F9uJzlVqO) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Johnny Hodges With Billy Strayhorn And The Orchestra](https://open.spotify.com/album/5CGVW3S012Wp5KteaW61kG) | 3:00 |
-| 81 | [Come Rain Or Come Shine](https://open.spotify.com/track/02ptMhCrjCMFVzXKMGbF1E) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Verve Jazz Masters 43: Ben Webster](https://open.spotify.com/album/4hafeOXr4qO4FqaFGRgCOe) | 4:21 |
-| 82 | [Something To Live For](https://open.spotify.com/track/6vztWp5jzOaYM9HaCaZWvO) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [By Special Request](https://open.spotify.com/album/5mRJwyqRM2bhb6VxiESoK0) | 3:11 |
+| 81 | [Something To Live For](https://open.spotify.com/track/6vztWp5jzOaYM9HaCaZWvO) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [By Special Request](https://open.spotify.com/album/5mRJwyqRM2bhb6VxiESoK0) | 3:11 |
+| 82 | [Come Rain Or Come Shine](https://open.spotify.com/track/02ptMhCrjCMFVzXKMGbF1E) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Verve Jazz Masters 43: Ben Webster](https://open.spotify.com/album/4hafeOXr4qO4FqaFGRgCOe) | 4:21 |
 | 83 | [I Wished On The Moon \- Stereo Version](https://open.spotify.com/track/2dcLrmsyULzRcPH0IHRwVh) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [The Genius Of Coleman Hawkins \(Expanded Edition\)](https://open.spotify.com/album/0Z2OKl1GiVUStRfHyqMZzz) | 3:37 |
 | 84 | [My Funny Valentine](https://open.spotify.com/track/0nBGIx5yWqxvtf1EEnEGgm) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [I Remember Miles](https://open.spotify.com/album/0hGqrIcYgj6l11MAbmJEmd) | 5:34 |
 | 85 | [Little Girl Blue](https://open.spotify.com/track/26bVvTsdbtIAuJ0pZyCaOO) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Ballads](https://open.spotify.com/album/66lE5oVdR8QZjXNbYjJulR) | 7:14 |

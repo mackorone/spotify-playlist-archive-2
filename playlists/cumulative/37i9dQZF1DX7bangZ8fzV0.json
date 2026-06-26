@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek! Omslag: Appel",
+  "description": "Net die beste Afrikaanse musiek! Omslag: Droomsindroom en Bernice West",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -1008,7 +1008,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-25",
+      "date_removed": null,
       "duration_ms": 196208,
       "name": "Carina",
       "url": "https://open.spotify.com/track/6g8kgX8WWiExbvUJqGpz1X"
@@ -3684,7 +3684,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 187617,
       "name": "Kroeg Cowboys",
       "url": "https://open.spotify.com/track/0J3OJrSPHZhrWkYPkPzc2e"

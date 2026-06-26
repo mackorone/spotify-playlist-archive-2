@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 30 | [Çike Çike](https://open.spotify.com/track/1i0H5CstsEIWguEV7z6cNT) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [DIRTY BLONDE](https://open.spotify.com/album/2VcEHKTpMRNDRsWZ1cB8tG) | 2:19 |
 | 31 | [When You Know](https://open.spotify.com/track/72WG3s5wgJRrgXz4Y8kw3r) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greetings From Your Hometown](https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR) | 4:29 |
 | 32 | [High Key](https://open.spotify.com/track/26conjuiPm1qB5KnLUtYar) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Vacancy](https://open.spotify.com/album/4FYQFYBKEVSjNNHk5aU2TR) | 2:12 |
-| 33 | [Your Hand Is Safe in Mine](https://open.spotify.com/track/3YJebXo5hYFcEhnSvuzUQQ) | [Blush](https://open.spotify.com/artist/31rc0iQFBQBf1PcS7L3wIN) | [Your Hand Is Safe in Mine](https://open.spotify.com/album/3s549VD9aZNQwdlXlfDZOh) | 3:36 |
-| 34 | [Too Easy](https://open.spotify.com/track/1gDfAiHvXdPXlUlaWcfxNS) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Too Easy](https://open.spotify.com/album/69KTB2HVrTKtY8eIPLcHTc) | 1:54 |
+| 33 | [Too Easy](https://open.spotify.com/track/1gDfAiHvXdPXlUlaWcfxNS) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Too Easy](https://open.spotify.com/album/69KTB2HVrTKtY8eIPLcHTc) | 1:54 |
+| 34 | [Your Hand Is Safe in Mine](https://open.spotify.com/track/3YJebXo5hYFcEhnSvuzUQQ) | [Blush](https://open.spotify.com/artist/31rc0iQFBQBf1PcS7L3wIN) | [Your Hand Is Safe in Mine](https://open.spotify.com/album/3s549VD9aZNQwdlXlfDZOh) | 3:36 |
 | 35 | [Feel Alright](https://open.spotify.com/track/3GjEM7WIYqIFrnjGpPlWl6) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [trying not to think about it](https://open.spotify.com/album/3pqGPovRqsz0IYfWsfR5CL) | 2:55 |
 | 36 | [Sugar Daddy](https://open.spotify.com/track/66w94M418mHrEEdDfKn5ob) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/5ukER8Gzjr4CPSwN8fwykc) | 3:38 |
 | 37 | [You \(feat\. Teyana Taylor\)](https://open.spotify.com/track/1oTztL8s8W0RsJhzKpfhuI) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [DIME TRAP](https://open.spotify.com/album/6BLPwtPvpmqKHp2pFfpSIT) | 3:50 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 93 | [WADE](https://open.spotify.com/track/4oZRhm2x62qN6prKI3S4fO) | [Parker Phillips](https://open.spotify.com/artist/4G4U0Pmtl0I2JKqI7uvsJw) | [AWAKENING](https://open.spotify.com/album/4xblTWNkBQJQQF9l5p9suu) | 2:46 |
 | 94 | [Fire](https://open.spotify.com/track/3Ic9ajFl2aBmmQFXQus3Ed) | [Hawk Love](https://open.spotify.com/artist/3mNH3Eq13YnMTwo8vWwwTR) | [Fire](https://open.spotify.com/album/1h88EmeUgoP9Yjpdhz60Jh) | 4:16 |
 
-Snapshot ID: `AcVHJAAAAADXmd2g4fH1v5HYBJHh+6J4`
+Snapshot ID: `AcVMxAAAAACWrJvNidRYp1GzsDmyBx3S`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 
 > your honky tonk meets club playlist 🤠🪩 featuring Diplo
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,728 likes - 101 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,823 likes - 101 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 | 5 | [Two Steppin’ \(feat\. Adrien Nunez\)](https://open.spotify.com/track/6fOMrE0rA2XMbSaO3Wku0h) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Adrien Nunez](https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ) | [Two Steppin’ \(feat\. Adrien Nunez\)](https://open.spotify.com/album/3TFX3h1hQwlkMoQ0ZCH16W) | 2:19 |
 | 6 | [Heaven On Your Mind](https://open.spotify.com/track/6CfTOBRp1sgG8xY97RsUWS) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Dan Tyminski](https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8) | [Heaven On Your Mind](https://open.spotify.com/album/1oPqsnINC8uvqs1MfxZNez) | 3:44 |
 | 7 | [Mama Said](https://open.spotify.com/track/4bR85fyG1N5zcAuSFM56Kc) | [MC4D](https://open.spotify.com/artist/2MbY32LPINIi9P6PCkrOJI), [Kenley](https://open.spotify.com/artist/1SinB4B9WOu3GmKti284cW) | [Mama Said](https://open.spotify.com/album/7Dq4rtNPbrixPRzZr7UfHt) | 3:06 |
-| 8 | [Getaway Car](https://open.spotify.com/track/5BWK5cxevhraRUxNtdnTNH) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Getaway Car](https://open.spotify.com/album/64uplmfT0JPURVHJp4r3eS) | 2:35 |
-| 9 | [Where We Go](https://open.spotify.com/track/1aHAmd4iXRRkXIrTJwKncm) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Where We Go](https://open.spotify.com/album/6NtERYanUda0B8Oh1LI1LE) | 3:16 |
-| 10 | [45](https://open.spotify.com/track/6gn4OIwAxBB5lYD7iSLU6h) | [Country Night](https://open.spotify.com/artist/5Q520C8g8SdHdWVjw4SEU3), [Jake Banfield](https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb), [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) | [45](https://open.spotify.com/album/39HAgzCA2FgimBHbp8U2qn) | 2:50 |
+| 8 | [Two Dozen Roses](https://open.spotify.com/track/4a9ZZEO0wrkxbRxjTCoVHW) | [Country Night](https://open.spotify.com/artist/5Q520C8g8SdHdWVjw4SEU3) | [Two Dozen Roses](https://open.spotify.com/album/1ODVSyhYS32Qt1xFyroJup) | 2:42 |
+| 9 | [Getaway Car](https://open.spotify.com/track/5BWK5cxevhraRUxNtdnTNH) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Getaway Car](https://open.spotify.com/album/64uplmfT0JPURVHJp4r3eS) | 2:35 |
+| 10 | [Where We Go](https://open.spotify.com/track/1aHAmd4iXRRkXIrTJwKncm) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Where We Go](https://open.spotify.com/album/6NtERYanUda0B8Oh1LI1LE) | 3:16 |
 | 11 | [HONKY TONK BADONKADONK](https://open.spotify.com/track/5uHA52m0cZ2l8JeUwVx8wI) | [MOONLGHT](https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs), [Country Night](https://open.spotify.com/artist/5Q520C8g8SdHdWVjw4SEU3), [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [HONKY TONK BADONKADONK](https://open.spotify.com/album/1OzaeXfWl2R0ncz727BPQs) | 1:54 |
 | 12 | [Austin \(Boots Stop Workin'\) \- Distant Matter Remix](https://open.spotify.com/track/0gkTJziolVNOmmdwgaRMho) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I), [Distant Matter](https://open.spotify.com/artist/7jOCrpnW33mqmrR6r6ORvn) | [Austin \(Boots Stop Workin'\) \[Distant Matter Remix\]](https://open.spotify.com/album/35gz5TLdUbb0JxSzfKLiHc) | 2:56 |
 | 13 | [Saving This Bottle \(feat\. Wyatt Flores\)](https://open.spotify.com/track/1v0jM6IaTnEIroGq7EzDYM) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Saving This Bottle \(feat\. Wyatt Flores\)](https://open.spotify.com/album/0lEuI3pwNNM61THkCkkFhu) | 3:05 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 | 100 | [Hold You Tonight \(with Chris Lane\)](https://open.spotify.com/track/58jecLK0epwMLr9cy5vFUy) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Hold You Tonight \(with Chris Lane\)](https://open.spotify.com/album/3jpi8V1xyAiNNiheqa6Rl5) | 3:39 |
 | 101 | [This Town's Been Too Good To Us \(VAVO Remix\)](https://open.spotify.com/track/5hSJLszS7QUMQbVT3cwfEo) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x), [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK) | [This Town's Been Too Good To Us \(VAVO Remix\)](https://open.spotify.com/album/15NlctqXysjYS5fFGACncz) | 2:44 |
 
-Snapshot ID: `AAAAAPo8gEH+N1eNEihZBFYAFVPG4/Qb`
+Snapshot ID: `AAAAAOoWuoIBkOF1h4MRgwefCFy+2ubR`

@@ -2,9 +2,9 @@
 
 ### [Bongo Flava](https://open.spotify.com/playlist/37i9dQZF1DX3EbcelyrZPd)
 
-> Get your fill of vibes straight out of Tanzania\. Cover: Mbosso
+> Get your fill of vibes straight out of Tanzania\. Cover: Darassa
 
-692 songs - 1 day 15 hr 15 min
+693 songs - 1 day 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,7 +318,7 @@
 | [Mi Nawe](https://open.spotify.com/track/6pWRJyR4x0undU6dIR2mpP) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Mi Nawe](https://open.spotify.com/album/0jvLmR2XD7mM8zXNfuvPJ2) | 2:45 | 2023-10-19 | 2024-07-05 |
 | [Milele](https://open.spotify.com/track/3vArI20yjxyaVepSKiaUml) | [Manengo](https://open.spotify.com/artist/340oRLVQms0ZR6ijh6mFGS), [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Milele](https://open.spotify.com/album/4wIHp3uNOmvSxsmquGOqe7) | 2:57 | 2022-09-08 | 2022-11-18 |
 | [Milele](https://open.spotify.com/track/0EmxQAONJcrwsUBXEG0MHT) | [Ziddy Value](https://open.spotify.com/artist/5gXnyeKkqW4TntseWbzJ8I), [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Milele](https://open.spotify.com/album/6gVktkDRocUP5pn9WvVANr) | 3:04 | 2024-07-11 | 2024-08-09 |
-| [Minakutaka](https://open.spotify.com/track/54IZOqy2UAzaJtNJwUSbPH) | [Future Destin](https://open.spotify.com/artist/54v6fGbKfPoC31jwPPTA6v), [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC) | [Minakutaka](https://open.spotify.com/album/0iSx80Jcyka7e7drgnaWKA) | 2:55 | 2026-02-05 |  |
+| [Minakutaka](https://open.spotify.com/track/54IZOqy2UAzaJtNJwUSbPH) | [Future Destin](https://open.spotify.com/artist/54v6fGbKfPoC31jwPPTA6v), [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC) | [Minakutaka](https://open.spotify.com/album/0iSx80Jcyka7e7drgnaWKA) | 2:55 | 2026-02-05 | 2026-06-26 |
 | [Mind Your Business](https://open.spotify.com/track/0RlgWDE08CHHKzACLWczCV) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a) | [Mind Your Business](https://open.spotify.com/album/7z4FyJhsRKM8TNepV4CwoM) | 3:08 | 2023-03-23 | 2023-09-22 |
 | [Miss Bantu \(feat\. Spice\)](https://open.spotify.com/track/25G0isuPtzCqMWDPm99yPS) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Miss Bantu \(feat\. Spice\)](https://open.spotify.com/album/3MUrDQrZLAlpUPniQ63wwZ) | 3:33 | 2022-07-22 | 2023-01-13 |
 | [Mitano](https://open.spotify.com/track/2MeQYMD5hTdHVRX4fjpYvi) | [Lony Bway](https://open.spotify.com/artist/2lCSNBa7XKaxqgIlAhGXFJ), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Mitano](https://open.spotify.com/album/2PHyjMtCUcwATrDvQ1ZuQ3) | 3:12 | 2025-10-23 | 2026-01-30 |
@@ -414,7 +414,7 @@
 | [Nikilala](https://open.spotify.com/track/6RFGm7BDBsbGM2A4Q332n4) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Nikilala](https://open.spotify.com/album/1cUWkCUttv5J9EyGJutwWL) | 2:30 | 2023-03-09 | 2023-06-23 |
 | [Nikilewa](https://open.spotify.com/track/1qcGEe6axTplnCkOGnztSm) | [Loui](https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5) | [Nikilewa](https://open.spotify.com/album/5GKOjH3Mz96OS8jXHr2g6Z) | 3:29 | 2023-11-02 | 2024-04-19 |
 | [Nikizipata](https://open.spotify.com/track/5Q2aW3Deb1Kis2JdodvlCa) | [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Nikizipata](https://open.spotify.com/album/6zk14RHkGJfDvxWw1rtuy4) | 3:00 | 2021-11-25 | 2022-02-25 |
-| [Nikupe](https://open.spotify.com/track/3sdHTy7PyUwcxdkot3FOP2) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK), [D Love](https://open.spotify.com/artist/6X3Lq8GTJirf9y3mfvDoPU) | [Nikupe](https://open.spotify.com/album/6rb4FpYQdr6woXj3NyKTbk) | 3:10 | 2026-02-05 |  |
+| [Nikupe](https://open.spotify.com/track/3sdHTy7PyUwcxdkot3FOP2) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK), [D Love](https://open.spotify.com/artist/6X3Lq8GTJirf9y3mfvDoPU) | [Nikupe](https://open.spotify.com/album/6rb4FpYQdr6woXj3NyKTbk) | 3:10 | 2026-02-05 | 2026-06-26 |
 | [Nikupende \(feat\. Q\-Mark & Slick Widit\)](https://open.spotify.com/track/0vmx7Ir3yqYzLvtDGmQK7l) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl), [Afriikan Papi](https://open.spotify.com/artist/4fDmMQuFAIHnsKbmfOY8yO), [Q\-Mark](https://open.spotify.com/artist/1PINqStNpc48PWNAMDQpVj), [Slick Widit](https://open.spotify.com/artist/3bDWpyZXR29vsVsjguxLWe) | [Nikupende \(feat\. Afriikan Papi, Q\-Mark & Slick Widit\)](https://open.spotify.com/album/5CaPbeq0J1ugZNNfN8MVYW) | 4:26 | 2023-10-19 | 2024-01-19 |
 | [Nileweshe](https://open.spotify.com/track/0JPI0mOwmryRq3UB1uQGyr) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Nileweshe](https://open.spotify.com/album/3gRFo8kVuinEntUw0HRBRz) | 2:48 | 2022-11-17 | 2023-06-02 |
 | [Nimejipata](https://open.spotify.com/track/2YCdvj059UD2sGV6jamW5d) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Nimejipata](https://open.spotify.com/album/0o4meWc4SbMl0JtTEVx42d) | 3:25 | 2023-09-07 | 2024-01-19 |
@@ -669,6 +669,7 @@
 | [Why](https://open.spotify.com/track/6TlZkvGTKWJXtYUx4XGCyv) | [The Ben](https://open.spotify.com/artist/71jxVM5UsQTnPa9DpkK21E), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Why](https://open.spotify.com/album/4qdyzWegDBzlnPfl0FmBaB) | 3:26 | 2022-01-13 | 2023-01-27 |
 | [Wild Party](https://open.spotify.com/track/1MPE4zErPnH2kCF5oqUO0q) | [Krizbeatz](https://open.spotify.com/artist/5ecA37waug3nQ8hqfz6IlT), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Wild Party](https://open.spotify.com/album/6nSCa4VbVgAHdTrZee4vdQ) | 3:25 | 2022-06-23 | 2022-10-28 |
 | [Wivu](https://open.spotify.com/track/0u0RsS5jrlbXisoh4klGgb) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Wivu](https://open.spotify.com/album/0nDvPbjBXVkE2nzNs89mfG) | 3:01 | 2023-01-19 | 2023-11-10 |
+| [Wivu](https://open.spotify.com/track/14p6haa3m3b9WxUhDF93iy) | [Vanillah](https://open.spotify.com/artist/2KFj5D3aDGmnAyHrvLegtI), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Listen to Me Again](https://open.spotify.com/album/4xQ3Molayp9PvepgQsZqe4) | 3:32 | 2026-06-26 |  |
 | [Wololo](https://open.spotify.com/track/2T3VV5Z3JkWLQl9qEAvqXd) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Wololo](https://open.spotify.com/album/75wI90vteHYUkb6tP4bOSA) | 3:53 | 2024-04-18 | 2024-11-08 |
 | [Wote](https://open.spotify.com/track/7vYxNbbyISaUiZ3Q5wkGFG) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Made For Us](https://open.spotify.com/album/2H5LMQ3oXWcd2lxP3nW8NR) | 3:31 | 2023-01-12 | 2023-09-15 |
 | [Wote](https://open.spotify.com/track/560WaxcCey7Ss0t4ii0Bm4) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Love Season](https://open.spotify.com/album/3lmgIevac4UvNrj4K5I3hg) | 3:10 | 2025-02-06 | 2025-08-22 |

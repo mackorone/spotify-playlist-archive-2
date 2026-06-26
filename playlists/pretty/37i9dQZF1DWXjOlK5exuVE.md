@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjOlK5exuVE.md) - [plain]
 
 > Historias que hacen historia\.  en portada\. El Fantasma y Los Huracanes del Norte en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,930 likes - 130 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,073 likes - 130 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

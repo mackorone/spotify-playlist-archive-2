@@ -12824,7 +12824,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 158205,
       "name": "In the Morning",
       "url": "https://open.spotify.com/track/4SewWfdvt7gSWPu3As9q22"
@@ -28352,6 +28352,24 @@
       "duration_ms": 155460,
       "name": "The More We Fight",
       "url": "https://open.spotify.com/track/7cKKC5JB5Ca9orbxSwjI4G"
+    },
+    {
+      "album": {
+        "name": "The more you smile, the more I fall for summer!",
+        "url": "https://open.spotify.com/album/2bZDNY34mPUexTMZ6GqxAw"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
+          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254772,
+      "name": "The more you smile, the more I fall for summer!",
+      "url": "https://open.spotify.com/track/4Z0PY79HJHH3nRPG8gRzTi"
     },
     {
       "album": {

@@ -461,6 +461,24 @@
     },
     {
       "album": {
+        "name": "Lovetamin",
+        "url": "https://open.spotify.com/album/0vkzo5HhcdJBJvnycrIcBi"
+      },
+      "artists": [
+        {
+          "name": "Hanzi",
+          "url": "https://open.spotify.com/artist/15ZgV0muEsLwegqv0NlmHU"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185435,
+      "name": "Lovetamin",
+      "url": "https://open.spotify.com/track/0anwIFefRjv4KNZq9gB3po"
+    },
+    {
+      "album": {
         "name": "L\u1eeda G\u1ea7n R\u01a1m",
         "url": "https://open.spotify.com/album/3hObjbuaDU4N1o5IGO6yXx"
       },
@@ -520,7 +538,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 226499,
       "name": "Mong ch\u00fang ta h\u1ea1nh ph\u00fac",
       "url": "https://open.spotify.com/track/4PPwOSiHrv4TnfS1O0ABli"
@@ -538,7 +556,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 219154,
       "name": "M\u00e1y Bay Gi\u1ea5y (ROCK)",
       "url": "https://open.spotify.com/track/39rXWGPo9YlQgcc9dgwBhk"
@@ -870,7 +888,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 218823,
       "name": "Xi\u00eau L\u00f2ng Vi\u1ec7t Nam",
       "url": "https://open.spotify.com/track/2HyVA0cYA8vB8xrUeMZ8XH"

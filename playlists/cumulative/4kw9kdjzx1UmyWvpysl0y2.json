@@ -347,6 +347,28 @@
     },
     {
       "album": {
+        "name": "a different self, not this time (Ward Wills Remix)",
+        "url": "https://open.spotify.com/album/7fKyQd76AoUdnqdgcVAmTF"
+      },
+      "artists": [
+        {
+          "name": "Ward Wills",
+          "url": "https://open.spotify.com/artist/22HWLRzuuO4aRQrXGIAnDj"
+        },
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138226,
+      "name": "a different self, not this time - Ward Wills Remix",
+      "url": "https://open.spotify.com/track/2xvYN1qrV3JPsyT8ZwLQPS"
+    },
+    {
+      "album": {
         "name": "A Flicker of Hope",
         "url": "https://open.spotify.com/album/3k9fpNCXZDPfNJXFsY1qVL"
       },

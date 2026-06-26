@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/43eWkIiNDbimyD35iong1G.md) - [plain]
 
 > Your perfect 2026 Wedding Playlist! ✨ Romantic ceremony ballads, joyful reception anthems, and timeless first dance songs\. Featuring Ed Sheeran, Bruno Mars, John Legend, Taylor Swift, Adele, and more! Updated Weekly! ❤️ Save for your special day.
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 193,722 likes - 150 songs - 9 hr 4 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 194,246 likes - 150 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

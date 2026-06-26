@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-25",
-  "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Camila Buch",
+  "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: El Plan De La Mariposa",
   "name": "Modo Ac\u00fastico",
   "tracks": [
     {
@@ -871,6 +871,40 @@
     },
     {
       "album": {
+        "name": "B\u00e1",
+        "url": "https://open.spotify.com/album/4CYNxRI3AQGcvxX3gx9KNh"
+      },
+      "artists": [
+        {
+          "name": "Tito C\u00f3rdoba",
+          "url": "https://open.spotify.com/artist/58XHQyvfR5QHlFyfkmCdmJ"
+        },
+        {
+          "name": "Jos\u00e9 Cerutti",
+          "url": "https://open.spotify.com/artist/3EWflUB1gbFOX355ZmhwkU"
+        },
+        {
+          "name": "Juan Mauro",
+          "url": "https://open.spotify.com/artist/0U5Rga3cQFHuXi2EyfIQGv"
+        },
+        {
+          "name": "Clara Luna",
+          "url": "https://open.spotify.com/artist/0oSl1aAQo8PZbXHwJDl3f0"
+        },
+        {
+          "name": "Mari Mendizabal",
+          "url": "https://open.spotify.com/artist/0mEsCDq4n33eBxn4Vhwz0U"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193819,
+      "name": "Canci\u00f3n Litoral",
+      "url": "https://open.spotify.com/track/6Owdgn6XxV5ZQEseEOCO0M"
+    },
+    {
+      "album": {
         "name": "Chau",
         "url": "https://open.spotify.com/album/43JH3qZu6rXGBqegyUq9J4"
       },
@@ -1647,6 +1681,24 @@
     },
     {
       "album": {
+        "name": "Paso por tu atm\u00f3sfera (Ac\u00fastico En Vivo Madrid - Casa Brava)",
+        "url": "https://open.spotify.com/album/6cyP9HkNUUUi7AY3H9EzeP"
+      },
+      "artists": [
+        {
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245663,
+      "name": "Esquina de la Sombra - Ac\u00fastico En Vivo Madrid - Casa Brava",
+      "url": "https://open.spotify.com/track/2VkTjfROAoR3ZQipvvQceQ"
+    },
+    {
+      "album": {
         "name": "TEMPORAL, LP.",
         "url": "https://open.spotify.com/album/6ITfMwpGDKVTzl16mMXvYN"
       },
@@ -1922,7 +1974,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 277733,
       "name": "Hermoza From Heaven",
       "url": "https://open.spotify.com/track/3LW57dH9v1gZO7HC3Bzs09"
@@ -2472,7 +2524,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 304847,
       "name": "Mandol\u00edn - Live",
       "url": "https://open.spotify.com/track/4URBvGjdh2WpLKNx4mr1SJ"
@@ -3192,7 +3244,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 157611,
       "name": "Pedazos - Ac\u00fastico - Remastered 2026",
       "url": "https://open.spotify.com/track/4a3XV5dNEQzhZYRniHku4l"
@@ -3522,6 +3574,28 @@
       "duration_ms": 204540,
       "name": "Seminare",
       "url": "https://open.spotify.com/track/5UvdojEkKkZIpnOzJ7qM8B"
+    },
+    {
+      "album": {
+        "name": "Serenata del 900 (Casa Sole)",
+        "url": "https://open.spotify.com/album/3LCqfj3XyKijkaGuF0bgoV"
+      },
+      "artists": [
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        },
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193897,
+      "name": "Serenata del 900 (Casa Sole)",
+      "url": "https://open.spotify.com/track/5lxmxVVKufdAcM2Jn5pdlB"
     },
     {
       "album": {

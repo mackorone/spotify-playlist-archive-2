@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > slap house on repeat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,414 likes - 60 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,412 likes - 60 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 18 | [Crash](https://open.spotify.com/track/0j8dgoUYTkqdqzfvxXqYG9) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ) | [Crash](https://open.spotify.com/album/0FrwdQEOvEUP6wYUaiiaSS) | 2:06 |
 | 19 | [Wonderful Life](https://open.spotify.com/track/08lo8MO2RVzNRGO6da99RQ) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc), [Ane](https://open.spotify.com/artist/0832DbKyCSpPqX9lkf7aCj) | [Wonderful Life](https://open.spotify.com/album/2Bx9G3XtMsbZRe5TzyYDZd) | 2:40 |
 | 20 | [Cheri Cheri Lady](https://open.spotify.com/track/5fiFfpaMThpPDBFkOO39iy) | [KARMA](https://open.spotify.com/artist/0E0D3kAD5sz1jf2HCTIfQT), [Flip Capella](https://open.spotify.com/artist/7ISVMXRseDXG6dgN78y6Dz) | [Cheri Cheri Lady](https://open.spotify.com/album/1J2ZhftJ3i4jE9kucljwmP) | 2:24 |
-| 21 | [Drunk in Love](https://open.spotify.com/track/0rG5jvbdBRAg7paORdTWSe) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [Slap House Party](https://open.spotify.com/album/7risiHnzUvnYXey8cpEdoX) | 2:45 |
-| 22 | [L'amour Toujours](https://open.spotify.com/track/76xsVM3XLEty7aBjEZTjAF) | [Beachbag](https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg), [Max Fail](https://open.spotify.com/artist/6fyLFM7G6aSFpZ1BUUDCLf), [Viktoria Vane](https://open.spotify.com/artist/79dlbfHIQnyxL71jvyQw4J) | [L'amour Toujours](https://open.spotify.com/album/5XoyPNLakrTcLUclTZdLFk) | 2:21 |
+| 21 | [L'amour Toujours](https://open.spotify.com/track/76xsVM3XLEty7aBjEZTjAF) | [Beachbag](https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg), [Max Fail](https://open.spotify.com/artist/6fyLFM7G6aSFpZ1BUUDCLf), [Viktoria Vane](https://open.spotify.com/artist/79dlbfHIQnyxL71jvyQw4J) | [L'amour Toujours](https://open.spotify.com/album/5XoyPNLakrTcLUclTZdLFk) | 2:21 |
+| 22 | [Drunk in Love](https://open.spotify.com/track/0rG5jvbdBRAg7paORdTWSe) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [Slap House Party](https://open.spotify.com/album/7risiHnzUvnYXey8cpEdoX) | 2:45 |
 | 23 | [1001 Arabian Nights](https://open.spotify.com/track/3YmiKv5z67ZV8tiW1eNHCM) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ), [Chipz](https://open.spotify.com/artist/770rU18or2uAGT21xyvpzp) | [1001 Arabian Nights](https://open.spotify.com/album/6yGgrWVZENV6IQCCpxZQRI) | 2:54 |
 | 24 | [Somebody To Love](https://open.spotify.com/track/7AxA87dIJ1FF4l1BQ98ZCZ) | [Axel Black & White](https://open.spotify.com/artist/3OexsqL65OHjNt8oeFn0fN) | [Somebody To Love](https://open.spotify.com/album/7FzaGZqU7lXtba0UkfoIEc) | 2:21 |
 | 25 | [Electricity](https://open.spotify.com/track/1Rz3Xw2qOsRncTVajZR3cY) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Electricity](https://open.spotify.com/album/0sh0aEIH7aK0d0sqdYiE6H) | 2:40 |

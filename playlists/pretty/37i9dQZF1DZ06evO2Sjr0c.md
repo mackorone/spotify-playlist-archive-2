@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sjr0c.md) - [plain]
 
 > This is Grateful Dead\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,134 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,159 likes - 50 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sjr0c.md) - [plain]
 | 49 | [Wharf Rat \- Live at Fillmore East, New York, NY, April 26, 1971](https://open.spotify.com/track/0JKWRYAxDyWqS14WmtLFOf) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Grateful Dead \(Skull & Roses\) \[Live\]](https://open.spotify.com/album/0ObxRAQTpVO1u7bT3VxrIN) | 8:31 |
 | 50 | [Cold Rain and Snow \- Live at Fillmore Auditorium, San Francisco, CA 7/3/66](https://open.spotify.com/track/7n5gO1fCFdltGVmkMIWSq8) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Cold Rain and Snow \(Live at Fillmore Auditorium, San Francisco, CA 7/3/66\)](https://open.spotify.com/album/3SovzZ99QjlFCOsn2Fpouk) | 3:15 |
 
-Snapshot ID: `ajnMgAAAAAAe9IXT+ah5LvlpbFsc+z96`
+Snapshot ID: `ajseAAAAAABafLz/Rq3mw92hmU0MNy36`

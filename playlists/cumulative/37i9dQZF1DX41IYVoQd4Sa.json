@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "autumn",
+        "url": "https://open.spotify.com/album/2xGsjWdYg3XWCdiPGLaTQC"
+      },
+      "artists": [
+        {
+          "name": "Keren Ilan",
+          "url": "https://open.spotify.com/artist/1BtArb2ClUlsFp1f39A0Tt"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175797,
+      "name": "A War In Me",
+      "url": "https://open.spotify.com/track/2EMqR2DvvcSpk3YjpFKb8L"
+    },
+    {
+      "album": {
         "name": "African Coast",
         "url": "https://open.spotify.com/album/0YTazTE52ZIaUKT4wCd8na"
       },
@@ -414,6 +432,24 @@
       "duration_ms": 145911,
       "name": "Black Eye",
       "url": "https://open.spotify.com/track/40jNQbXc3SxO2VVmgSsFlc"
+    },
+    {
+      "album": {
+        "name": "Bridge",
+        "url": "https://open.spotify.com/album/4OeqNwbvSY3NbzzDgKrGgE"
+      },
+      "artists": [
+        {
+          "name": "Shir Frum",
+          "url": "https://open.spotify.com/artist/31Cz2bC0pRyLQ7Xpsu16L9"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235011,
+      "name": "Bridge",
+      "url": "https://open.spotify.com/track/74NFC3fU86cULjI9lkMN6A"
     },
     {
       "album": {
@@ -1938,7 +1974,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 221793,
       "name": "Rendez Vous",
       "url": "https://open.spotify.com/track/1KdlsMtnGT0bCd3howONrn"
@@ -2288,7 +2324,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 132397,
       "name": "Umidak",
       "url": "https://open.spotify.com/track/3j1iM3PqldgJPuzIgEVWs9"
@@ -2404,6 +2440,24 @@
       "duration_ms": 158641,
       "name": "Wednesdays",
       "url": "https://open.spotify.com/track/7xzvAial1zgnpSNF17NP3J"
+    },
+    {
+      "album": {
+        "name": "Homework",
+        "url": "https://open.spotify.com/album/0kd9N9LZRTtFRG82pBq3sq"
+      },
+      "artists": [
+        {
+          "name": "Roy Reemy",
+          "url": "https://open.spotify.com/artist/7oRZxDEJe5QKE3yWJxAOP0"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159413,
+      "name": "What Friends Are For",
+      "url": "https://open.spotify.com/track/29Hx1Xq5BrQ73NmPr3fBUG"
     },
     {
       "album": {
@@ -3762,7 +3816,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 205496,
       "name": "\u05d4\u05d1\u05e0\u05d9\u05d9\u05df \u05d4\u05d0\u05d7\u05e8\u05d5\u05df \u05d1\u05ea\u05dc \u05d0\u05d1\u05d9\u05d1",
       "url": "https://open.spotify.com/track/0CFizxIBQmArw9wLFDxpeE"
@@ -4004,7 +4058,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 180224,
       "name": "\u05d4\u05d9\u05d9 \u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05dc\u05d4\u05d2\u05d9\u05d3 \u05dc\u05da - \u05de\u05ea\u05d5\u05da \u05e4\u05e1\u05e7\u05d5\u05dc \u05d4\u05d0\u05d7\u05d9\u05d5\u05ea \u05d4\u05de\u05d5\u05e6\u05dc\u05d7\u05d5\u05ea \u05e9\u05dc\u05d9",
       "url": "https://open.spotify.com/track/2JRU7fPnZSAeAw15PZiauH"
@@ -4860,7 +4914,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 208706,
       "name": "\u05d7\u05dc\u05e7 \u05dc\u05d0 \u05e0\u05e4\u05e8\u05d3 \u05de\u05d0\u05d7\u05e8\u05d9\u05dd",
       "url": "https://open.spotify.com/track/7aOFrZTExl780REZ3CIFiN"
@@ -6339,6 +6393,24 @@
     },
     {
       "album": {
+        "name": "\u05d4\u05d7\u05d5\u05e6\u05d4",
+        "url": "https://open.spotify.com/album/1aFczNc2iquBlL2368iIQ6"
+      },
+      "artists": [
+        {
+          "name": "\u05e0\u05d5\u05d2\u05d4 \u05d1\u05e0\u05d0\u05d9",
+          "url": "https://open.spotify.com/artist/2uoNPOJBXOAaJI8O4UomQb"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201960,
+      "name": "\u05de\u05d9\u05dc\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/0H2WRlQmPhIww7r4JNmUJx"
+    },
+    {
+      "album": {
         "name": "\u05de\u05d9\u05dc\u05d9\u05dd \u05d0\u05d4\u05d1\u05d4 \u05d5\u05d9\u05d9\u05df",
         "url": "https://open.spotify.com/album/5AKPGUxw9RTTMuuYXYkTVQ"
       },
@@ -6474,6 +6546,24 @@
       "duration_ms": 214357,
       "name": "\u05de\u05e2\u05d5\u05e0\u05d4 \u05dc\u05e2\u05d5\u05e0\u05d4",
       "url": "https://open.spotify.com/track/3FYdP6pprYqBtGwzqEtCsx"
+    },
+    {
+      "album": {
+        "name": "\u05de\u05e8\u05d0\u05d4 \u05dc\u05d9 \u05d0\u05ea \u05d4\u05e9\u05e7\u05d8",
+        "url": "https://open.spotify.com/album/4BeqL7VHszyjTMarotAZBI"
+      },
+      "artists": [
+        {
+          "name": "\u05d0\u05d1\u05e0\u05e8 \u05d8\u05d5\u05d0\u05d2",
+          "url": "https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "\u05de\u05e8\u05d0\u05d4 \u05dc\u05d9 \u05d0\u05ea \u05d4\u05e9\u05e7\u05d8",
+      "url": "https://open.spotify.com/track/1d1BNBeoKCGJNg3rHHGcco"
     },
     {
       "album": {

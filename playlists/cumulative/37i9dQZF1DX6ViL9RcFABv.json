@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: ZARKO",
+  "description": "Uma playlist de pura alma pop! Foto: Virgul, Maninho",
   "name": "Pop PT",
   "tracks": [
     {
@@ -712,6 +712,24 @@
       "duration_ms": 169066,
       "name": "Amor Que Morre",
       "url": "https://open.spotify.com/track/0sPOgUesQhH2FuSfMPpQWh"
+    },
+    {
+      "album": {
+        "name": "Amor Sem Pressa",
+        "url": "https://open.spotify.com/album/2BtOUNtTukjy0thddJMISU"
+      },
+      "artists": [
+        {
+          "name": "David Fonseca",
+          "url": "https://open.spotify.com/artist/2mpkPK6gJdBZWzUTMTOF2J"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195882,
+      "name": "Amor Sem Pressa",
+      "url": "https://open.spotify.com/track/57LzJb04HWtnWHD2j6TMVd"
     },
     {
       "album": {
@@ -2900,7 +2918,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 236465,
       "name": "Dif\u00edcil Demais",
       "url": "https://open.spotify.com/track/47RRqyn5a7DWTmJv1x7DuD"
@@ -4372,7 +4390,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 191500,
       "name": "Gritar ao Mundo",
       "url": "https://open.spotify.com/track/0wiB8dpqSN9O0Wv5CDL6Wz"
@@ -4506,6 +4524,24 @@
       "duration_ms": 192933,
       "name": "Hist\u00f3ria por Contar",
       "url": "https://open.spotify.com/track/1xExJ9s5nKEPZH0dHbhy6Y"
+    },
+    {
+      "album": {
+        "name": "Hist\u00f3ria Que Ficou",
+        "url": "https://open.spotify.com/album/4CoEXOvhiPx999UeieM8bN"
+      },
+      "artists": [
+        {
+          "name": "Nsoki",
+          "url": "https://open.spotify.com/artist/6HfAa52MnValWEHNMdWAlH"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210424,
+      "name": "Hist\u00f3ria Que Ficou",
+      "url": "https://open.spotify.com/track/5GunpOgwidkHbSg98zfEYJ"
     },
     {
       "album": {
@@ -6525,6 +6561,28 @@
     },
     {
       "album": {
+        "name": "N\u00e3o T\u00e1 F\u00e1cil",
+        "url": "https://open.spotify.com/album/6Aa8jI0ScpOiSd6O1ZoCad"
+      },
+      "artists": [
+        {
+          "name": "Virgul",
+          "url": "https://open.spotify.com/artist/0qe3I1MOY8oFj3DuoWNwbq"
+        },
+        {
+          "name": "Maninho",
+          "url": "https://open.spotify.com/artist/0c1Tiu4dJze8OTzxJ7Yowr"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178641,
+      "name": "N\u00e3o T\u00e1 F\u00e1cil",
+      "url": "https://open.spotify.com/track/0YTmjC8mBzBfov0pZl2h3a"
+    },
+    {
+      "album": {
         "name": "N\u00e3o V\u00e1s Embora",
         "url": "https://open.spotify.com/album/2w4tNGJvCVDMfnmaSYKLVO"
       },
@@ -8237,6 +8295,24 @@
     },
     {
       "album": {
+        "name": "Relembra",
+        "url": "https://open.spotify.com/album/5bFD06RyWl6muocbMJyQN3"
+      },
+      "artists": [
+        {
+          "name": "Joana Oliveira",
+          "url": "https://open.spotify.com/artist/2E0tfKjtPJhGFmkjf7Srjh"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190550,
+      "name": "Relembra",
+      "url": "https://open.spotify.com/track/7rThep6X0qtgvdw96kkMnw"
+    },
+    {
+      "album": {
         "name": "Respirar",
         "url": "https://open.spotify.com/album/5ufqNkX3GmQuODOMFADd0H"
       },
@@ -9412,7 +9488,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 176434,
       "name": "S\u00f3t\u00e3o dos Porqu\u00eas",
       "url": "https://open.spotify.com/track/2WttNRFTl0Aez48Cq8uj2J"
@@ -9768,7 +9844,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 170584,
       "name": "Tina",
       "url": "https://open.spotify.com/track/0cGZQqrXnlnBfU7uqHY1eh"

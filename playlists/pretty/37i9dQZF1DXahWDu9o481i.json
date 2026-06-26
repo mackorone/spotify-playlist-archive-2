@@ -1,12 +1,12 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Alvaro Diaz",
-  "num_followers": 101982,
+  "num_followers": 101963,
   "original_name": "Editors' Picks: Best Songs of May",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO9B+bsgWR/AYvixdT++MTouiZIE",
+  "snapshot_id": "AAAAAH9pFVmNIUKsLQWdq+Mg5u8y5K+r",
   "tracks": [
     {
       "added_at": "2026-06-01 05:00:24",
@@ -215,6 +215,22 @@
     {
       "added_at": "2026-06-01 05:00:24",
       "album": {
+        "name": "Return To Bhibo",
+        "url": "https://open.spotify.com/album/3X3K0yWFq4Fu0f1w2SwKNc"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 157840,
+      "name": "Return To Bhibo",
+      "url": "https://open.spotify.com/track/0b04O4aNqXhiUtHJcb6bcm"
+    },
+    {
+      "added_at": "2026-06-01 05:00:24",
+      "album": {
         "name": "Think About Me",
         "url": "https://open.spotify.com/album/2nQaXdzjSp7ZkNapPxIZiA"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 159308,
       "name": "Think About Me",
       "url": "https://open.spotify.com/track/4rGkUNqOZ6Yf7VXAc1xHor"
-    },
-    {
-      "added_at": "2026-06-01 05:00:24",
-      "album": {
-        "name": "Return To Bhibo",
-        "url": "https://open.spotify.com/album/3X3K0yWFq4Fu0f1w2SwKNc"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 157840,
-      "name": "Return To Bhibo",
-      "url": "https://open.spotify.com/track/0b04O4aNqXhiUtHJcb6bcm"
     },
     {
       "added_at": "2026-06-01 05:00:24",
@@ -287,22 +287,6 @@
     {
       "added_at": "2026-06-01 05:00:24",
       "album": {
-        "name": "Mad About It",
-        "url": "https://open.spotify.com/album/4VjiPFf4esJ94jdP6DYtfR"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        }
-      ],
-      "duration_ms": 157008,
-      "name": "Mad About It",
-      "url": "https://open.spotify.com/track/6npl3kyUizb2JQWv0c6G8o"
-    },
-    {
-      "added_at": "2026-06-01 05:00:24",
-      "album": {
         "name": "Talk On The Hill",
         "url": "https://open.spotify.com/album/3AhS0lrdaTPA4R6KRLtC6y"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 207774,
       "name": "Talk On The Hill",
       "url": "https://open.spotify.com/track/5qoiAW2WK3b7Ncm3W9HkTL"
+    },
+    {
+      "added_at": "2026-06-01 05:00:24",
+      "album": {
+        "name": "Mad About It",
+        "url": "https://open.spotify.com/album/4VjiPFf4esJ94jdP6DYtfR"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "duration_ms": 157008,
+      "name": "Mad About It",
+      "url": "https://open.spotify.com/track/6npl3kyUizb2JQWv0c6G8o"
     },
     {
       "added_at": "2026-06-01 05:00:24",
@@ -679,6 +679,22 @@
     {
       "added_at": "2026-06-01 05:00:24",
       "album": {
+        "name": "New Muscles",
+        "url": "https://open.spotify.com/album/2N2LCCVDf8LDxolIYNAK3J"
+      },
+      "artists": [
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "duration_ms": 234236,
+      "name": "New Muscles",
+      "url": "https://open.spotify.com/track/4i1PwZv3CJ4CV0vEZ69rzE"
+    },
+    {
+      "added_at": "2026-06-01 05:00:24",
+      "album": {
         "name": "Antes De Ti",
         "url": "https://open.spotify.com/album/4oenvaL2jFacESPIFH4rBF"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 176580,
       "name": "Antes De Ti",
       "url": "https://open.spotify.com/track/6zpMOUVDo9fpT37BLywSPl"
-    },
-    {
-      "added_at": "2026-06-01 05:00:24",
-      "album": {
-        "name": "New Muscles",
-        "url": "https://open.spotify.com/album/2N2LCCVDf8LDxolIYNAK3J"
-      },
-      "artists": [
-        {
-          "name": "mary in the junkyard",
-          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
-        }
-      ],
-      "duration_ms": 234236,
-      "name": "New Muscles",
-      "url": "https://open.spotify.com/track/4i1PwZv3CJ4CV0vEZ69rzE"
     },
     {
       "added_at": "2026-06-01 05:00:24",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-06-01 05:00:24",
       "album": {
-        "name": "War Over Land",
-        "url": "https://open.spotify.com/album/00hlYRC7F3voGuZqhf5fG2"
-      },
-      "artists": [
-        {
-          "name": "JPEGMAFIA",
-          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
-        }
-      ],
-      "duration_ms": 174068,
-      "name": "War Over Land",
-      "url": "https://open.spotify.com/track/6gn1jvInLQ352xxZEjPGz4"
-    },
-    {
-      "added_at": "2026-06-01 05:00:24",
-      "album": {
         "name": "APPETITE",
         "url": "https://open.spotify.com/album/01eQX7mtZbpWuEjsV9Hizf"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 209376,
       "name": "APPETITE",
       "url": "https://open.spotify.com/track/07IXgUhCqweDxkuhZ5XLqO"
+    },
+    {
+      "added_at": "2026-06-01 05:00:24",
+      "album": {
+        "name": "War Over Land",
+        "url": "https://open.spotify.com/album/00hlYRC7F3voGuZqhf5fG2"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "duration_ms": 174068,
+      "name": "War Over Land",
+      "url": "https://open.spotify.com/track/6gn1jvInLQ352xxZEjPGz4"
     },
     {
       "added_at": "2026-06-01 05:00:24",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-06-01 05:00:24",
       "album": {
-        "name": "Under the Same Sky",
-        "url": "https://open.spotify.com/album/3t7pBbQPmteNiZnpbBrK77"
-      },
-      "artists": [
-        {
-          "name": "SOFYKA",
-          "url": "https://open.spotify.com/artist/0aOnfDbpLdvyWDnjZiIEBq"
-        }
-      ],
-      "duration_ms": 194526,
-      "name": "Under the Same Sky",
-      "url": "https://open.spotify.com/track/062Rh6vIMkwEuksiWF6sKC"
-    },
-    {
-      "added_at": "2026-06-01 05:00:24",
-      "album": {
         "name": "i wait, i sink",
         "url": "https://open.spotify.com/album/7caD1nvFAGlDkltnoJHh1o"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 166167,
       "name": "i wait, i sink",
       "url": "https://open.spotify.com/track/0mvaPr8EQmx46H6han0xwN"
+    },
+    {
+      "added_at": "2026-06-01 05:00:24",
+      "album": {
+        "name": "Under the Same Sky",
+        "url": "https://open.spotify.com/album/3t7pBbQPmteNiZnpbBrK77"
+      },
+      "artists": [
+        {
+          "name": "SOFYKA",
+          "url": "https://open.spotify.com/artist/0aOnfDbpLdvyWDnjZiIEBq"
+        }
+      ],
+      "duration_ms": 194526,
+      "name": "Under the Same Sky",
+      "url": "https://open.spotify.com/track/062Rh6vIMkwEuksiWF6sKC"
     },
     {
       "added_at": "2026-06-01 05:00:24",

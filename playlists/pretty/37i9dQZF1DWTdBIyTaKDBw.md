@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 
 > Enjoy the lo\-fi beat with oriental colors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,749 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,774 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 33 | [Puddles](https://open.spotify.com/track/16Ur2rs2LmY5rfUhQGt9Ds) | [Jordy Chandra](https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh), [Jay\-Lounge](https://open.spotify.com/artist/47sdYTwmCqrIVcJV11c6Cj) | [Puddles](https://open.spotify.com/album/3Jlibm8J2dmYwkF3sJtbSw) | 3:35 |
 | 34 | [Shinjuku](https://open.spotify.com/track/7LBO0230RXsB371lZmWKrv) | [Just Big Hills](https://open.spotify.com/artist/2ih5O9wwxSSYLe9Bnce309) | [Shinjuku](https://open.spotify.com/album/4KaWvtsalcd0fMEbval9dO) | 2:48 |
 | 35 | [Forever Lotus](https://open.spotify.com/track/6R2pHq4pApqWlnoUoms9KX) | [RŮDE](https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq) | [Eternal Youth](https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV) | 3:42 |
-| 36 | [Sunday Vibes](https://open.spotify.com/track/3fI1DEUK7gml9W6iFntNel) | [Wünsche](https://open.spotify.com/artist/6la2xjnhxnRYP3iZ3suP9H) | [Sunday Vibes](https://open.spotify.com/album/5iiG3fMlS9zc9ehx43qpzf) | 2:00 |
+| 36 | [Sage](https://open.spotify.com/track/63yGlWei594l3Me8KaKF2G) | [Tophat Panda](https://open.spotify.com/artist/2WhnHknWvBgrC3pHYKDMSs), [milligon](https://open.spotify.com/artist/62h3mAlyYduSmprbNEdKKD) | [Sage](https://open.spotify.com/album/26BmBroNz25vIvfSXU5rwd) | 2:27 |
 | 37 | [Journey](https://open.spotify.com/track/2pAPo7r9woX5AwLDNzAgaV) | [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Journey](https://open.spotify.com/album/5NyRXPU0MbwycaSqq75IlV) | 2:49 |
-| 38 | [Sage](https://open.spotify.com/track/63yGlWei594l3Me8KaKF2G) | [Tophat Panda](https://open.spotify.com/artist/2WhnHknWvBgrC3pHYKDMSs), [milligon](https://open.spotify.com/artist/62h3mAlyYduSmprbNEdKKD) | [Sage](https://open.spotify.com/album/26BmBroNz25vIvfSXU5rwd) | 2:27 |
+| 38 | [Sunday Vibes](https://open.spotify.com/track/3fI1DEUK7gml9W6iFntNel) | [Wünsche](https://open.spotify.com/artist/6la2xjnhxnRYP3iZ3suP9H) | [Sunday Vibes](https://open.spotify.com/album/5iiG3fMlS9zc9ehx43qpzf) | 2:00 |
 | 39 | [Remembrance](https://open.spotify.com/track/5IOnrqVaLAQ0gS8gjNNdDU) | [Kerusu](https://open.spotify.com/artist/2Ckfavq6yKfTznirabm1L8) | [Remembrance](https://open.spotify.com/album/4uRYwjUle4SuyO1Uzwi17v) | 3:30 |
 | 40 | [one day in japan](https://open.spotify.com/track/3d5sFXzamm1Bak74pl1eU9) | [aekasora](https://open.spotify.com/artist/14zYh9bbvvVtfJHQpzSGDa) | [Simple Things](https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz) | 2:52 |
 | 41 | [Samurai Warrior](https://open.spotify.com/track/1M1rhe1W3uoV6mdfbnJNpx) | [Lost Files](https://open.spotify.com/artist/0NA9RjFnSsIlj1FUMhfuow) | [Samurai Warrior](https://open.spotify.com/album/6jh2PW4SIaMw8wwHyerB9l) | 2:05 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 69 | [to reach a person](https://open.spotify.com/track/4FWMs0QomD7B2yLiwoTfep) | [aekasora](https://open.spotify.com/artist/14zYh9bbvvVtfJHQpzSGDa) | [Simple Things](https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz) | 3:39 |
 | 70 | [Kodama](https://open.spotify.com/track/4Umx3U9NAiorxTL6DUoGY8) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP) | [Kodama](https://open.spotify.com/album/4S9RRERSAdBcIi0QcTnZmG) | 3:06 |
 | 71 | [Night Drive](https://open.spotify.com/track/33kQJiqhOOSkfs7dz3SQ1O) | [Elijah Lee](https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu) | [Vanishing Journey](https://open.spotify.com/album/3oGLMzJCwhyBqy50CHoMwP) | 2:26 |
-| 72 | [Sanctuary](https://open.spotify.com/track/4xVy2Ej4pV95vyMauBwToI) | [Nomak](https://open.spotify.com/artist/6XrpG3fOQBXzVBYjQUrsGv) | [Calm](https://open.spotify.com/album/2udB97O2aRJDluomPS7v9m) | 4:02 |
-| 73 | [Phase](https://open.spotify.com/track/2Tc9u95gqhnfn9Q79TpgIa) | [Howle](https://open.spotify.com/artist/74dewNXT99KRJ0v9sfi7Bp) | [Phase](https://open.spotify.com/album/3iILl7bjMEidc23SlypqAV) | 3:54 |
+| 72 | [Phase](https://open.spotify.com/track/2Tc9u95gqhnfn9Q79TpgIa) | [Howle](https://open.spotify.com/artist/74dewNXT99KRJ0v9sfi7Bp) | [Phase](https://open.spotify.com/album/3iILl7bjMEidc23SlypqAV) | 3:54 |
+| 73 | [Sanctuary](https://open.spotify.com/track/4xVy2Ej4pV95vyMauBwToI) | [Nomak](https://open.spotify.com/artist/6XrpG3fOQBXzVBYjQUrsGv) | [Calm](https://open.spotify.com/album/2udB97O2aRJDluomPS7v9m) | 4:02 |
 | 74 | [Yamete](https://open.spotify.com/track/42xuMGQNL4hCTQHBzkZVU1) | [Tosama Beats](https://open.spotify.com/artist/0cqZ61vhObf3KJ2UgaveZg) | [Yamete](https://open.spotify.com/album/5RUEyH0Wj84oBzjEvjuDKi) | 3:15 |
 | 75 | [Birds](https://open.spotify.com/track/036lPK1hs7BhEIznZ1OGBy) | [Wünsche](https://open.spotify.com/artist/6la2xjnhxnRYP3iZ3suP9H) | [Sunday Vibes](https://open.spotify.com/album/5iiG3fMlS9zc9ehx43qpzf) | 2:13 |
 | 76 | [Mt Fuji](https://open.spotify.com/track/3lAqbZuoUooBSSbsSJvyOb) | [lechiffrebeats](https://open.spotify.com/artist/0RDK14Ri76NaSlTIBrzYcn) | [Mt Fuji](https://open.spotify.com/album/6lNtz6uNR6f2szHla7qJiA) | 1:56 |
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 87 | [Torimichi](https://open.spotify.com/track/1kD08WYSwIYlA586nKbPgs) | [Coddneck](https://open.spotify.com/artist/0xqoVrZyl43jmN4B0dwKaw) | [Torimichi](https://open.spotify.com/album/5quOu1BA0FTj6KgtcoYltV) | 4:41 |
 | 88 | [Cherry Tree](https://open.spotify.com/track/5owO5cS8Bdkyvcac3Eadt5) | [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb) | [Soothing Breeze](https://open.spotify.com/album/50cgYJnKBSTaxjrLavv1FF) | 2:36 |
 | 89 | [Autumn in Osaka](https://open.spotify.com/track/1XsgXYvkeYaKquLQY9m8dO) | [Vens Adams](https://open.spotify.com/artist/5aqTLMEUNAGDfzRNBzJZiQ) | [Autumn in Osaka](https://open.spotify.com/album/3HaMbxX4Ywec6NLXexpMuw) | 2:40 |
-| 90 | [Song of the Samurai](https://open.spotify.com/track/5nG6besfk5Aoa24OBSdREv) | [Elijah Nang](https://open.spotify.com/artist/0yIO6HI875mLzamqmjjFFU) | [Lost in Japan II](https://open.spotify.com/album/4ouEJG6RaGAKTB6CwhnBtT) | 3:31 |
-| 91 | [Miss Each Other Because of Love](https://open.spotify.com/track/0J2YOcFgqGHQawWpwvOhdR) | [Tido Kang](https://open.spotify.com/artist/49daIKDRlPMp7kGetJ2yVE) | [Flying Petals](https://open.spotify.com/album/1LJnXFzgDt7cbq1HFswL4A) | 2:47 |
+| 90 | [Miss Each Other Because of Love](https://open.spotify.com/track/0J2YOcFgqGHQawWpwvOhdR) | [Tido Kang](https://open.spotify.com/artist/49daIKDRlPMp7kGetJ2yVE) | [Flying Petals](https://open.spotify.com/album/1LJnXFzgDt7cbq1HFswL4A) | 2:47 |
+| 91 | [Song of the Samurai](https://open.spotify.com/track/5nG6besfk5Aoa24OBSdREv) | [Elijah Nang](https://open.spotify.com/artist/0yIO6HI875mLzamqmjjFFU) | [Lost in Japan II](https://open.spotify.com/album/4ouEJG6RaGAKTB6CwhnBtT) | 3:31 |
 | 92 | [Hatsukoi](https://open.spotify.com/track/3wPK4mTmc3N5IU0SrrVlH4) | [Lilac](https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1) | [Answer Love](https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1) | 2:25 |
 | 93 | [Mountain Trail](https://open.spotify.com/track/6V74ZQYUqoyePb0OWNu8hW) | [DaniSogen](https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO) | [Mountain Trail](https://open.spotify.com/album/7MKhgHTNGbgMlLXBxmQDKv) | 2:33 |
 | 94 | [Jade Temple](https://open.spotify.com/track/6Tsgy9lJRMPDf6WOdclWUv) | [Lenny B](https://open.spotify.com/artist/3PplCjTWQ2AbTboXJNCpSa), [Coloured Rocks](https://open.spotify.com/artist/4CMUg0w1aGMdiWjfl3zI8t) | [First Light Of Spring](https://open.spotify.com/album/7FvGvkEWBL4UN6HgDkGdtH) | 2:20 |
 | 95 | [Ancient Bond](https://open.spotify.com/track/3qOwHr2YkggGQjDHOU10ra) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Ancient Bond](https://open.spotify.com/album/2VmqsNof7gbRec5Gd3xAX5) | 2:44 |
 | 96 | [Death Curse](https://open.spotify.com/track/3G6p8lXQ1qjQOzvZA1KB6A) | [NKOHA](https://open.spotify.com/artist/74yb8EAWGPAcIUo6CFxKIR) | [Despair](https://open.spotify.com/album/2uMNrWj9iLyuDflq5vUC1v) | 2:11 |
-| 97 | [Sakura Temple](https://open.spotify.com/track/2GVaw6ZH10v87Anbhay6eG) | [Vindu](https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej) | [Sakura Temple](https://open.spotify.com/album/6bWl64ciGr8yUrQnlJbpI3) | 2:48 |
-| 98 | [Summer Breeze](https://open.spotify.com/track/58heKhVoYe0mXW4PB3CfLF) | [Nuver](https://open.spotify.com/artist/7INJXFDyMoyqqp91q0FWqh), [Naga](https://open.spotify.com/artist/1cFwGz4dRovWtCxBdaTOK1) | [Neverland](https://open.spotify.com/album/3D6xynEYj5EOgvAcVRjgrN) | 2:43 |
-| 99 | [Sunlit](https://open.spotify.com/track/6CaNDQIdh5guSCXbg0MOgG) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [marsquake](https://open.spotify.com/artist/7JHsA8iL2mnUsAteuzehsb) | [Déjà vu](https://open.spotify.com/album/4LTL70hnBdhDGxGcc42LzZ) | 2:31 |
+| 97 | [Summer Breeze](https://open.spotify.com/track/58heKhVoYe0mXW4PB3CfLF) | [Nuver](https://open.spotify.com/artist/7INJXFDyMoyqqp91q0FWqh), [Naga](https://open.spotify.com/artist/1cFwGz4dRovWtCxBdaTOK1) | [Neverland](https://open.spotify.com/album/3D6xynEYj5EOgvAcVRjgrN) | 2:43 |
+| 98 | [Sakura Temple](https://open.spotify.com/track/2GVaw6ZH10v87Anbhay6eG) | [Vindu](https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej) | [Sakura Temple](https://open.spotify.com/album/6bWl64ciGr8yUrQnlJbpI3) | 2:48 |
+| 99 | [Daichi](https://open.spotify.com/track/11Mjbc6OAMVjEKsfnDI0R2) | [JazzyCal](https://open.spotify.com/artist/2xJEE7AyFH4DwefFkWjcPd) | [Daichi](https://open.spotify.com/album/2UIUb5zqUqtHZS1HDz0I3y) | 1:58 |
 | 100 | [Nama](https://open.spotify.com/track/5uvMZMApFm7G5pVueAmXhu) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Nama](https://open.spotify.com/album/2gaz2Ko1IGrk8LfQxAgSBX) | 2:41 |
 
 Snapshot ID: `AAAAAF8iDyRwBo6PXWpxEVZr3d/UY3RN`

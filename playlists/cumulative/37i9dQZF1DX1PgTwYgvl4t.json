@@ -320,7 +320,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 550000,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/5yxLHZnfVldRA7Gj9BtzOw"
@@ -828,7 +828,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 262325,
       "name": "Beautiful Exchange",
       "url": "https://open.spotify.com/track/7clvto32JaAp4fcLcHD1Lf"
@@ -3662,7 +3662,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 204036,
       "name": "Impossibility Shatterer",
       "url": "https://open.spotify.com/track/4NCR1DUnHd1HHrCRfJu68P"
@@ -4080,6 +4080,28 @@
       "duration_ms": 337711,
       "name": "Kadosh (Live)",
       "url": "https://open.spotify.com/track/78Fp5wJomAsTyP3Hiju3ud"
+    },
+    {
+      "album": {
+        "name": "Kadosh [Holy One]",
+        "url": "https://open.spotify.com/album/2gMQXWtx6d88FhEvfyGNhy"
+      },
+      "artists": [
+        {
+          "name": "B Jazz",
+          "url": "https://open.spotify.com/artist/6dK4RRKNrcATMmMySMmU5d"
+        },
+        {
+          "name": "Yadah",
+          "url": "https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 520522,
+      "name": "Kadosh [Holy One]",
+      "url": "https://open.spotify.com/track/6XSvD90syUwTGVCF1vkvao"
     },
     {
       "album": {
@@ -4826,7 +4848,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 336585,
       "name": "My Daddy Loves Me",
       "url": "https://open.spotify.com/track/0h5LOYHokBrfBKHDd1S0Bf"
@@ -6671,6 +6693,24 @@
     },
     {
       "album": {
+        "name": "The Message",
+        "url": "https://open.spotify.com/album/3AofX56RDBsK0oHTbIPCEp"
+      },
+      "artists": [
+        {
+          "name": "Jordan Praise",
+          "url": "https://open.spotify.com/artist/7fG249hsXVMxhDYXtCfPzr"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262535,
+      "name": "The Message",
+      "url": "https://open.spotify.com/track/5tujb3SAfoijKKazU6tEzB"
+    },
+    {
+      "album": {
         "name": "The Name of Jesus (Live in Concert)",
         "url": "https://open.spotify.com/album/0FBAKHBxvNTdsPNW7Qbfk4"
       },
@@ -6686,6 +6726,28 @@
       "duration_ms": 490000,
       "name": "The Name of Jesus - Live in Concert",
       "url": "https://open.spotify.com/track/4KTSpi2D4uoHcwxcPvvt3v"
+    },
+    {
+      "album": {
+        "name": "The Presence",
+        "url": "https://open.spotify.com/album/3q6KdXKelqomEs5jfJeNFo"
+      },
+      "artists": [
+        {
+          "name": "Onome Ovwori",
+          "url": "https://open.spotify.com/artist/3BVYzOXEHmFZGLy9jHiXIy"
+        },
+        {
+          "name": "Abigail Bassey",
+          "url": "https://open.spotify.com/artist/7aaektqVMNaK2ORxbh2kwa"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 522857,
+      "name": "The Presence",
+      "url": "https://open.spotify.com/track/0sf9fSoDxDydUq40SepJnd"
     },
     {
       "album": {
@@ -6900,6 +6962,24 @@
       "duration_ms": 390777,
       "name": "Totally Available",
       "url": "https://open.spotify.com/track/7u5PJy1meljL8c5xXhZ0Ta"
+    },
+    {
+      "album": {
+        "name": "Intimacy (Worship Night Ottawa)",
+        "url": "https://open.spotify.com/album/33PF9ACY0xsHQv4y5xZR6r"
+      },
+      "artists": [
+        {
+          "name": "Daniel Ojo",
+          "url": "https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 12",
+      "url": "https://open.spotify.com/track/29yiihojfcl5zkMWUrH86o"
     },
     {
       "album": {

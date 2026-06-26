@@ -4,7 +4,7 @@
 
 > The most intense local drill music firing up the continent\. Cover:  O'Kenneth
 
-300 songs - 14 hr 54 min
+302 songs - 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Plan B](https://open.spotify.com/track/65UfDLUUQphi0TC8ja46nn) | [Kofi Jamar](https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK) | [Plan B](https://open.spotify.com/album/5BKLaEnrvktRKecn5Wqrem) | 3:08 | 2022-11-15 | 2022-12-09 |
 | [PLENTY WAHALA](https://open.spotify.com/track/6Q8VMpuINAzI3CKcb0Mr3i) | [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [PLENTY WAHALA](https://open.spotify.com/album/1Ao4ScnHoXMMo0SuH3AMfH) | 2:47 | 2026-04-10 |  |
 | [POWER](https://open.spotify.com/track/1pVinZbONbJJUoNs9I0zF1) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [TPS](https://open.spotify.com/album/7lF6SMbtfihgllL2byoKjn) | 2:10 | 2024-06-21 |  |
+| [POWER \- Remix](https://open.spotify.com/track/1Kw7dxzNHmTzSNjpL4B0td) | [Will TOA](https://open.spotify.com/artist/69xjIFoFKUn23lDQAYoDqM), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [KUMANADA 2](https://open.spotify.com/album/6AMJtDLXD8TXxyR3IHVLSL) | 3:05 | 2026-06-25 |  |
 | [Press 2](https://open.spotify.com/track/3zLOIvEldB1gIquM8FFqRm) | [4K & SYDER](https://open.spotify.com/artist/0t6ol0asVlzV0xbDxGdGGN), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Press 2](https://open.spotify.com/album/4PKJyjI7pt0EpHKjFodziL) | 4:26 | 2025-03-31 |  |
 | [PSA](https://open.spotify.com/track/6A2ebely8FlDFE8eTFg1pH) | [Braabenk](https://open.spotify.com/artist/0TUUFSxsiNUDliSybMOI7I) | [THE BIG BENK THEORY](https://open.spotify.com/album/28oAbRsScwunyzeNBLepnF) | 1:12 | 2026-04-10 | 2026-04-30 |
 | [Pull Up](https://open.spotify.com/track/3cWvkCD9isTVUZ72ETXWyO) | [MAGESTY](https://open.spotify.com/artist/3V6xbGSuk5cJrzTAD0AG7p) | [Pull Up](https://open.spotify.com/album/3UwtSP7zqETH2kmP8HG1ww) | 3:36 | 2023-08-03 | 2023-08-11 |
@@ -275,6 +276,7 @@
 | [Toffee](https://open.spotify.com/track/4qncFa5abNWOljfJ6atPcZ) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [TOFFEE](https://open.spotify.com/album/2w0uS5c01bbICce8aD9thW) | 3:25 | 2025-07-18 | 2025-09-19 |
 | [Tonight](https://open.spotify.com/track/4AwLs3NpQFSy5bhIdeXWll) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd) | [Tonight](https://open.spotify.com/album/5rikpwZ6bc9dweoWLojsyz) | 2:19 | 2023-11-17 | 2024-01-19 |
 | [Touché](https://open.spotify.com/track/7icSngvRJmY5FpcsXg67yv) | [Nasa Nassa](https://open.spotify.com/artist/1LKGSEPso33OnJ1fZxsQVP) | [Touché](https://open.spotify.com/album/1YuEqdkNN7wFiT3LfSKcdn) | 2:02 | 2023-03-10 | 2023-03-18 |
+| [Track 1](https://open.spotify.com/track/2Fiq6goppIAyRxXKXKq59Y) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [GuyGuy Mmienu](https://open.spotify.com/album/6BwjKGAGtwPNtNnth1tziy) | 0:00 | 2026-06-25 |  |
 | [Trapper Man](https://open.spotify.com/track/1J8NL4Us5EZSJw1GwkvRiS) | [Hiphop Africa](https://open.spotify.com/artist/2s1z2VzXmksRd1VNoKhkhY), [Sobolo Geng](https://open.spotify.com/artist/5gKj7cTFiW0Edum0HkGifx) | [Trapper Man](https://open.spotify.com/album/6tTm9ln6qZuquAWFnO4Di3) | 3:07 | 2025-09-26 | 2025-11-05 |
 | [TRAUMA](https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [The Championship](https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp) | 2:48 | 2024-05-24 |  |
 | [TSOOBI \(AKONOBA\)](https://open.spotify.com/track/4jGGlJ79PIT8MA85gfCMSR) | [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [TSOOBI \(AKONOBA\)](https://open.spotify.com/album/298RAd7DjwBSO2PYx9NEIV) | 3:46 | 2026-01-14 |  |

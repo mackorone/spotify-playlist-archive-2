@@ -3314,7 +3314,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 154581,
       "name": "Back 2 Back",
       "url": "https://open.spotify.com/track/1tsDf9YBzRuAon9RgzfyOd"
@@ -4016,6 +4016,24 @@
       "duration_ms": 179361,
       "name": "Bang Man",
       "url": "https://open.spotify.com/track/735AY1Wwc1zb6exlKxH0mT"
+    },
+    {
+      "album": {
+        "name": "BANGOUT",
+        "url": "https://open.spotify.com/album/7z3aQPmbLfsvVuGzhsQJF6"
+      },
+      "artists": [
+        {
+          "name": "SosMula",
+          "url": "https://open.spotify.com/artist/7fFfPSHnrplQpezV79CFYc"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139221,
+      "name": "BANGOUT",
+      "url": "https://open.spotify.com/track/5eSKfFhiqlItnWlnkmAhxQ"
     },
     {
       "album": {
@@ -5226,7 +5244,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 169936,
       "name": "Black Truck",
       "url": "https://open.spotify.com/track/1yaNCXYlyWvFyJBvt3fvd5"
@@ -5886,6 +5904,24 @@
       "duration_ms": 130916,
       "name": "Bosses Linking With Bosses",
       "url": "https://open.spotify.com/track/5w2HEVe6nQnn9yYCjeCBfu"
+    },
+    {
+      "album": {
+        "name": "ML2",
+        "url": "https://open.spotify.com/album/4myjAoCPL3ydX9fi92FibQ"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114291,
+      "name": "BossManeDlow",
+      "url": "https://open.spotify.com/track/6khPKpvZIA8ghsvxwmJa4D"
     },
     {
       "album": {
@@ -8114,7 +8150,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 124500,
       "name": "Clap",
       "url": "https://open.spotify.com/track/1qBEN3LafkXQBJ9ofV4nzM"
@@ -9246,7 +9282,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 225185,
       "name": "Dallas Bizness (feat. Montana 700, Zillionaire Doe & Hustleman Quise)",
       "url": "https://open.spotify.com/track/4xwqh82cWFMFbdyhdfnpYX"
@@ -10944,7 +10980,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 129966,
       "name": "Double Shot",
       "url": "https://open.spotify.com/track/5f9dfEC9t9vzUzH3QxcQMT"
@@ -11068,7 +11104,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 126000,
       "name": "Dre Wick",
       "url": "https://open.spotify.com/track/0ZxCLeXmose37uSHvhijlQ"
@@ -11672,7 +11708,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 87120,
       "name": "Everywhere I Go",
       "url": "https://open.spotify.com/track/34m26K64fX2OtUVov3z1Ej"
@@ -17685,6 +17721,28 @@
     },
     {
       "album": {
+        "name": "Layin Da Walkdown B Side",
+        "url": "https://open.spotify.com/album/6VSoSQCRlLmAy13HARcV3g"
+      },
+      "artists": [
+        {
+          "name": "Lil Double 0",
+          "url": "https://open.spotify.com/artist/4uKEP0JYfpFtngWlgViewd"
+        },
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137138,
+      "name": "Hit List (feat. Rob49)",
+      "url": "https://open.spotify.com/track/1ejMbMYl8sfc0BDE29nKwp"
+    },
+    {
+      "album": {
         "name": "Hit Stick",
         "url": "https://open.spotify.com/album/2Ke0SlOOJmQ8zvs7tOjEZN"
       },
@@ -19209,6 +19267,28 @@
     },
     {
       "album": {
+        "name": "I Need Dat Remix (with Nino Paid)",
+        "url": "https://open.spotify.com/album/5aLPTT081rhgRb0mTpZjwd"
+      },
+      "artists": [
+        {
+          "name": "318dman",
+          "url": "https://open.spotify.com/artist/0iEcoGz1YaKNF19yz37IBm"
+        },
+        {
+          "name": "Nino Paid",
+          "url": "https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161428,
+      "name": "I Need Dat Remix (with Nino Paid)",
+      "url": "https://open.spotify.com/track/6r5QSex5UqrFvmsUpn3zO1"
+    },
+    {
+      "album": {
         "name": "I Promise",
         "url": "https://open.spotify.com/album/2vGN8oGhj3VhW1Yl6MQkSZ"
       },
@@ -20156,7 +20236,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 132923,
       "name": "Interview (with YTB Fatt)",
       "url": "https://open.spotify.com/track/3p5GrjmjZTgEZNcbwJjRvg"
@@ -20640,6 +20720,24 @@
       "duration_ms": 173400,
       "name": "Jay & Twan 1",
       "url": "https://open.spotify.com/track/3gpV8e51dn62yi8lXBfpDO"
+    },
+    {
+      "album": {
+        "name": "JD",
+        "url": "https://open.spotify.com/album/3ft7U2LHp66XMVflhcZ2RN"
+      },
+      "artists": [
+        {
+          "name": "Raq baby",
+          "url": "https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131180,
+      "name": "JD",
+      "url": "https://open.spotify.com/track/0Ymmd1vQIIyVdslWqshSR3"
     },
     {
       "album": {
@@ -22118,7 +22216,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 158000,
       "name": "Lay It Down",
       "url": "https://open.spotify.com/track/22HQqPzsM2kl79Ck1mJIAP"
@@ -22456,6 +22554,24 @@
       "duration_ms": 153626,
       "name": "Let's Get It",
       "url": "https://open.spotify.com/track/0FGvtcQ1vrROlG2hjJn5mU"
+    },
+    {
+      "album": {
+        "name": "Let's Get It On",
+        "url": "https://open.spotify.com/album/2UaizXTh70VR8JvvFVSQXW"
+      },
+      "artists": [
+        {
+          "name": "Jdot Breezy",
+          "url": "https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154357,
+      "name": "Let's Get It On",
+      "url": "https://open.spotify.com/track/4zorXcdszJzve2hxTX5rCn"
     },
     {
       "album": {
@@ -23492,7 +23608,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 176927,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/0vHOchQSz1dB4X023AckTb"
@@ -23853,6 +23969,32 @@
     },
     {
       "album": {
+        "name": "Lafamilia",
+        "url": "https://open.spotify.com/album/5UW6j5gTvxJR6U9huDWeXT"
+      },
+      "artists": [
+        {
+          "name": "DJ Bandz",
+          "url": "https://open.spotify.com/artist/7KnXSV7gkQLmGczm2akVOk"
+        },
+        {
+          "name": "Only The Family",
+          "url": "https://open.spotify.com/artist/3IaKn0ExWTMPqa0mscUYw3"
+        },
+        {
+          "name": "BabyDrill",
+          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149808,
+      "name": "Made My Name",
+      "url": "https://open.spotify.com/track/3hi4HT1RAQ2IxoGSSSird2"
+    },
+    {
+      "album": {
         "name": "MADONNA & RIHANNA",
         "url": "https://open.spotify.com/album/0r81t0FQLIyyAytNSLUbqy"
       },
@@ -24156,6 +24298,28 @@
       "duration_ms": 131160,
       "name": "Mandem",
       "url": "https://open.spotify.com/track/6hLZ6G18DmYbBIccZoqdrV"
+    },
+    {
+      "album": {
+        "name": "MANE",
+        "url": "https://open.spotify.com/album/0FllIVqExjcvX48GIXXu3H"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197260,
+      "name": "MANE",
+      "url": "https://open.spotify.com/track/287y8enXKYqxjJs5LzVQVZ"
     },
     {
       "album": {
@@ -25632,7 +25796,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 174149,
       "name": "More Problems",
       "url": "https://open.spotify.com/track/1MBVUTolTkF4PYEfQzAnyv"
@@ -29534,7 +29698,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 151677,
       "name": "Out the Mud (with Key Glock)",
       "url": "https://open.spotify.com/track/1jUL7HHFFV0NwQ1ZXydwav"
@@ -30266,7 +30430,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 110119,
       "name": "Party On The 6",
       "url": "https://open.spotify.com/track/2OKVPtAyjCC3ibI5WzFLW5"
@@ -31594,6 +31758,36 @@
       "duration_ms": 148706,
       "name": "Presidential Rolex",
       "url": "https://open.spotify.com/track/23L1gQJjtlZMrZPZvluyQe"
+    },
+    {
+      "album": {
+        "name": "Lafamilia",
+        "url": "https://open.spotify.com/album/5UW6j5gTvxJR6U9huDWeXT"
+      },
+      "artists": [
+        {
+          "name": "DJ Bandz",
+          "url": "https://open.spotify.com/artist/7KnXSV7gkQLmGczm2akVOk"
+        },
+        {
+          "name": "Only The Family",
+          "url": "https://open.spotify.com/artist/3IaKn0ExWTMPqa0mscUYw3"
+        },
+        {
+          "name": "King Von",
+          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
+        },
+        {
+          "name": "Sada Baby",
+          "url": "https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168311,
+      "name": "Pressin Again",
+      "url": "https://open.spotify.com/track/6OnUEyurkxkUGcqt8t5YvY"
     },
     {
       "album": {
@@ -35252,7 +35446,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 196372,
       "name": "Secret Indictment",
       "url": "https://open.spotify.com/track/4rD5qxURCWoEjlqTAccepX"
@@ -37125,6 +37319,24 @@
     },
     {
       "album": {
+        "name": "ML2",
+        "url": "https://open.spotify.com/album/4myjAoCPL3ydX9fi92FibQ"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138082,
+      "name": "So Not Sorry",
+      "url": "https://open.spotify.com/track/1iwMql4p7HmFI0H8fSnwqJ"
+    },
+    {
+      "album": {
         "name": "Soak City (feat. Mustard, OhGeesy & BlueBucksClan)",
         "url": "https://open.spotify.com/album/3htlZheOSXN2DdT7L1HtDF"
       },
@@ -37330,6 +37542,24 @@
       "duration_ms": 128306,
       "name": "soulless",
       "url": "https://open.spotify.com/track/0MR7Cb6TlNaQgs0vXDaK0W"
+    },
+    {
+      "album": {
+        "name": "South Beach",
+        "url": "https://open.spotify.com/album/2wdgJ3fzZgxfzSJA7AaB4d"
+      },
+      "artists": [
+        {
+          "name": "Luhh Dyl",
+          "url": "https://open.spotify.com/artist/4dZBZceC6PDa9XCr3mJwq2"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128450,
+      "name": "South Beach",
+      "url": "https://open.spotify.com/track/7hel2XaXnR6rIRcLyswp2g"
     },
     {
       "album": {
@@ -39578,6 +39808,24 @@
       "duration_ms": 127268,
       "name": "Switch Places With Me",
       "url": "https://open.spotify.com/track/3aVmTnamofbElWbhhyMIpE"
+    },
+    {
+      "album": {
+        "name": "ML2",
+        "url": "https://open.spotify.com/album/4myjAoCPL3ydX9fi92FibQ"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189463,
+      "name": "Switches",
+      "url": "https://open.spotify.com/track/6dxnh3T7CESIRxsSSYbHvl"
     },
     {
       "album": {
@@ -42164,7 +42412,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 169411,
       "name": "Trunk Beating",
       "url": "https://open.spotify.com/track/6FMJaIukbFPr8BK9iVLWoT"
@@ -42922,6 +43170,24 @@
       "duration_ms": 179349,
       "name": "Up On Us",
       "url": "https://open.spotify.com/track/2SPa91MdtTxBJy85uarkli"
+    },
+    {
+      "album": {
+        "name": "UP THE SCORE",
+        "url": "https://open.spotify.com/album/4H5ayYHWwpnu8wcoM7L9CG"
+      },
+      "artists": [
+        {
+          "name": "Fatt Smaxk",
+          "url": "https://open.spotify.com/artist/0RRUXaSteOOZzo5gMCAeuX"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137933,
+      "name": "UP THE SCORE",
+      "url": "https://open.spotify.com/track/35auUoo9WcaRMbFSWubRYT"
     },
     {
       "album": {
@@ -44114,6 +44380,24 @@
       "duration_ms": 175718,
       "name": "WE NOT DONE",
       "url": "https://open.spotify.com/track/5ggfaK0dKWFrEr6PDO1knB"
+    },
+    {
+      "album": {
+        "name": "KILL THE KING",
+        "url": "https://open.spotify.com/album/7n2pr72Wvg7ZPHN3wFLSfd"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177126,
+      "name": "WE ON",
+      "url": "https://open.spotify.com/track/5TdDb0cormnrZswuFS33Ud"
     },
     {
       "album": {

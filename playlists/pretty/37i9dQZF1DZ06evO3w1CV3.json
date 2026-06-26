@@ -1,12 +1,12 @@
 {
   "description": "This is Joy Crookes. The essential tracks, all in one playlist.",
-  "num_followers": 35321,
+  "num_followers": 35327,
   "original_name": "This Is Joy Crookes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajnMgAAAAACZ9pUbSCF5cxysQg28EeEl",
+  "snapshot_id": "ajseAAAAAAB45kN2nTrDcQTx+DWaowSU",
   "tracks": [
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Influence EP",
+        "url": "https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv"
+      },
+      "artists": [
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        }
+      ],
+      "duration_ms": 191400,
+      "name": "New Manhattan",
+      "url": "https://open.spotify.com/track/6B0VAfh8UCCEMNvgmGYEGX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "What's Love Got to Do with It? (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3OtrHr6YssIB3dCg42g8qc"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 147506,
       "name": "Mahi Sona (AKA The Wedding Song) - Joy Crookes Version",
       "url": "https://open.spotify.com/track/4oDFdxr8iodW5JubvDmjMt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Influence EP",
-        "url": "https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv"
-      },
-      "artists": [
-        {
-          "name": "Joy Crookes",
-          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
-        }
-      ],
-      "duration_ms": 191400,
-      "name": "New Manhattan",
-      "url": "https://open.spotify.com/track/6B0VAfh8UCCEMNvgmGYEGX"
     }
   ],
   "unique_name": "This Is Joy Crookes",

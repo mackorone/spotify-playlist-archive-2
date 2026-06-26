@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: OMWAWES
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,262 likes - 111 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,349 likes - 111 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

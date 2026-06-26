@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-31",
-  "description": "The artisanal ambient and alternative sounds make you float in the air. / \u4e0a\u8cea\u306a\u30a2\u30f3\u30d3\u30a8\u30f3\u30c8\u3068\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30df\u30e5\u30fc\u30b8\u30c3\u30af cover: tamanaramen",
+  "description": "The artisanal ambient and alternative sounds make you float in the air. / \u4e0a\u8cea\u306a\u30a2\u30f3\u30d3\u30a8\u30f3\u30c8\u3068\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30df\u30e5\u30fc\u30b8\u30c3\u30af cover: Exportion",
   "name": "Sora Ambient",
   "tracks": [
     {
@@ -872,7 +872,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 235500,
       "name": "Actias Aliena",
       "url": "https://open.spotify.com/track/2F8XnwYww02OMlpN8bUPh0"
@@ -948,6 +948,28 @@
       "duration_ms": 208866,
       "name": "AFTER IMAGE",
       "url": "https://open.spotify.com/track/1Jxb8fKZJrobr8T2NCBNlY"
+    },
+    {
+      "album": {
+        "name": "After the Silence",
+        "url": "https://open.spotify.com/album/6Vv3N7JnzTBBlwdxy3eb2E"
+      },
+      "artists": [
+        {
+          "name": "Fennesz",
+          "url": "https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz"
+        },
+        {
+          "name": "Bajune Tobeta",
+          "url": "https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "After the Silence",
+      "url": "https://open.spotify.com/track/2cr0AJ48Xk94H0UNjJA1BQ"
     },
     {
       "album": {
@@ -1074,7 +1096,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 190151,
       "name": "allez, pousse!",
       "url": "https://open.spotify.com/track/37QuoY5RacNd54FJnqCIfK"
@@ -1641,6 +1663,24 @@
     },
     {
       "album": {
+        "name": "Music To Watch Seeds Grow By 008: Salamanda (Basil)",
+        "url": "https://open.spotify.com/album/21Yh6bO2hOL7wqy5mZsaSs"
+      },
+      "artists": [
+        {
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146791,
+      "name": "Basil's dream",
+      "url": "https://open.spotify.com/track/6jmirL4rbnzVmxdo9XITR3"
+    },
+    {
+      "album": {
         "name": "Lorings",
         "url": "https://open.spotify.com/album/61edjeTzA9eXBLQ1JxyJFI"
       },
@@ -1656,7 +1696,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 153073,
       "name": "Basketball",
       "url": "https://open.spotify.com/track/2RgYGHyhGGSTqFJtuiimQG"
@@ -2026,7 +2066,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 236374,
       "name": "Black (Grey)",
       "url": "https://open.spotify.com/track/2ERFLKHk8pMOBFXPPu9AD5"
@@ -2276,6 +2316,24 @@
       "duration_ms": 560000,
       "name": "Blue Veil",
       "url": "https://open.spotify.com/track/35wu2nJIWGYcrYpiU8YwKv"
+    },
+    {
+      "album": {
+        "name": "BLUR",
+        "url": "https://open.spotify.com/album/105aiznYDd8TlZ3p2s1IqA"
+      },
+      "artists": [
+        {
+          "name": "Nobuhiro Okahashi",
+          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "BLUR",
+      "url": "https://open.spotify.com/track/7sLkdm1CIDfTIFizosBODL"
     },
     {
       "album": {
@@ -4378,7 +4436,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 137106,
       "name": "Drizzle (Echo)",
       "url": "https://open.spotify.com/track/4wVpQwlI7ZBY6W4CCgy5zD"
@@ -4504,7 +4562,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 407600,
       "name": "ECHO-ARMOR: PRE-AWAKENING",
       "url": "https://open.spotify.com/track/1gsljh0u53nCYCUF3tHB3L"
@@ -6714,7 +6772,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 232300,
       "name": "Hoshi no Jikan",
       "url": "https://open.spotify.com/track/6U2oocUrAiMp9F8k4Khaa3"
@@ -7626,6 +7684,24 @@
       "duration_ms": 392353,
       "name": "Invitation",
       "url": "https://open.spotify.com/track/5GX3sk2Xex3998tQu8uaKH"
+    },
+    {
+      "album": {
+        "name": "Ipheion",
+        "url": "https://open.spotify.com/album/3JBduR1LLpbXovZWRzOuV7"
+      },
+      "artists": [
+        {
+          "name": "shinichi karuishi",
+          "url": "https://open.spotify.com/artist/4RUNHwe2hkErHMYDTXnsCu"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180450,
+      "name": "Ipheion",
+      "url": "https://open.spotify.com/track/7xbtZvdHKk9pBEiSPp9Do7"
     },
     {
       "album": {
@@ -8638,7 +8714,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 211621,
       "name": "Ley Line",
       "url": "https://open.spotify.com/track/4cMUKFwlGF6YRc5UOzbIKr"
@@ -9886,6 +9962,32 @@
       "duration_ms": 361445,
       "name": "Mirror#1",
       "url": "https://open.spotify.com/track/0y6jbOUzzm5NuNOhsGijqb"
+    },
+    {
+      "album": {
+        "name": "Mist awaiting the light",
+        "url": "https://open.spotify.com/album/1z5aR8r2hCX4BwNSiy9Zmn"
+      },
+      "artists": [
+        {
+          "name": "yanaco",
+          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
+        },
+        {
+          "name": "Josefina Tai",
+          "url": "https://open.spotify.com/artist/60116chQIOZvd4OldPJJw0"
+        },
+        {
+          "name": "Daniel H Pereira",
+          "url": "https://open.spotify.com/artist/3dvwZUIWhEpWyqP9hk1StN"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215800,
+      "name": "Mist awaiting the light",
+      "url": "https://open.spotify.com/track/0mmGwGuWrmSY85frP2kuHh"
     },
     {
       "album": {
@@ -11321,6 +11423,42 @@
     },
     {
       "album": {
+        "name": "Resonance Warfront",
+        "url": "https://open.spotify.com/album/7tSDHpx85d1jquRuro8aQG"
+      },
+      "artists": [
+        {
+          "name": "Exportion",
+          "url": "https://open.spotify.com/artist/0brCtEXtI0eniWvODW8s2q"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266973,
+      "name": "ORIGIN OF HUM",
+      "url": "https://open.spotify.com/track/3dhASweBAUqoalCaROi97S"
+    },
+    {
+      "album": {
+        "name": "Oslo",
+        "url": "https://open.spotify.com/album/4mbnDMvaYSwY2h7WdD1xHY"
+      },
+      "artists": [
+        {
+          "name": "Tyondai Braxton",
+          "url": "https://open.spotify.com/artist/3LxogQGFWIVPpDWNOVlSzK"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 516402,
+      "name": "Oslo",
+      "url": "https://open.spotify.com/track/2rEozOaQ9KU15bz253g1Cb"
+    },
+    {
+      "album": {
         "name": "cendre",
         "url": "https://open.spotify.com/album/4PnuHl4d1rzQ8lsqxAfB6H"
       },
@@ -11394,7 +11532,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 173920,
       "name": "PALE",
       "url": "https://open.spotify.com/track/4QSh8hKevYk4HAsy6Db0fD"
@@ -11412,7 +11550,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 166026,
       "name": "Pale Quiet",
       "url": "https://open.spotify.com/track/2Y6HRsGWY3FZcHg6LzgBgx"
@@ -11732,7 +11870,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 256806,
       "name": "Permanent Vacation",
       "url": "https://open.spotify.com/track/2TB6VjgjeY6lElURwtB5Eg"
@@ -13096,10 +13234,28 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 353936,
       "name": "Sans Visage I",
       "url": "https://open.spotify.com/track/4klxc5MBI642JmP8ZnyxK7"
+    },
+    {
+      "album": {
+        "name": "Sans Visage IV",
+        "url": "https://open.spotify.com/album/3epCdj1H5aAlvB1seuYHba"
+      },
+      "artists": [
+        {
+          "name": "Felicia Atkinson",
+          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227207,
+      "name": "Sans Visage IV",
+      "url": "https://open.spotify.com/track/17j9nPk9EtmfvvXfgrXF4x"
     },
     {
       "album": {
@@ -13158,7 +13314,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 544000,
       "name": "Scorpio Purple Skies (feat. John Also Bennett)",
       "url": "https://open.spotify.com/track/1HUhDn1wcTvivqKXDFKzuw"
@@ -13951,6 +14107,24 @@
     },
     {
       "album": {
+        "name": "Sing To",
+        "url": "https://open.spotify.com/album/0Mk8L0gOTZ0h880gaG43M4"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209014,
+      "name": "Sing To",
+      "url": "https://open.spotify.com/track/5X6zwyutwK7uSj0uFOSpad"
+    },
+    {
+      "album": {
         "name": "Green",
         "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
       },
@@ -13984,6 +14158,42 @@
       "duration_ms": 410333,
       "name": "SLEEP",
       "url": "https://open.spotify.com/track/1aw0BaQEC2PGp8kmYYHvyP"
+    },
+    {
+      "album": {
+        "name": "Sleep Spiral",
+        "url": "https://open.spotify.com/album/3EuaCwg2cuCbxPek2zVWJ4"
+      },
+      "artists": [
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340933,
+      "name": "Sleep Spiral",
+      "url": "https://open.spotify.com/track/3oRu4U9c9pRVQfMsvM3qcg"
+    },
+    {
+      "album": {
+        "name": "Sleep Walk",
+        "url": "https://open.spotify.com/album/11uxrbubXbNEeZwIODo3ci"
+      },
+      "artists": [
+        {
+          "name": "Koji Ishikura",
+          "url": "https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133640,
+      "name": "Sleep Walk",
+      "url": "https://open.spotify.com/track/4NnBjiqjcjdqfbkbl9l3J8"
     },
     {
       "album": {
@@ -14162,6 +14372,24 @@
       "duration_ms": 486000,
       "name": "Smoke Rings",
       "url": "https://open.spotify.com/track/51Zmeoly6CMVFwqHps8068"
+    },
+    {
+      "album": {
+        "name": "Belladonna Nocturne",
+        "url": "https://open.spotify.com/album/0MKmxWSoSEQoG5VoSyN633"
+      },
+      "artists": [
+        {
+          "name": "Daniel Lanois",
+          "url": "https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87666,
+      "name": "Snow Lake",
+      "url": "https://open.spotify.com/track/0lULvza49oUyDVfcFTWqYn"
     },
     {
       "album": {
@@ -14765,6 +14993,32 @@
     },
     {
       "album": {
+        "name": "Stand among the trees",
+        "url": "https://open.spotify.com/album/7xstQCX3FZNpSdLNkyGofO"
+      },
+      "artists": [
+        {
+          "name": "yanaco",
+          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
+        },
+        {
+          "name": "Josefina Tai",
+          "url": "https://open.spotify.com/artist/60116chQIOZvd4OldPJJw0"
+        },
+        {
+          "name": "Daniel H Pereira",
+          "url": "https://open.spotify.com/artist/3dvwZUIWhEpWyqP9hk1StN"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205545,
+      "name": "Stand among the trees",
+      "url": "https://open.spotify.com/track/4WFUPhVQXVWqyFCTadEFD0"
+    },
+    {
+      "album": {
         "name": "Vapor",
         "url": "https://open.spotify.com/album/1IpHSURAZpaIlAkLX8vqGt"
       },
@@ -15336,7 +15590,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 271807,
       "name": "Sun Tickles",
       "url": "https://open.spotify.com/track/7qhjO48EeSm9ecDfDt2LIp"
@@ -15798,7 +16052,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 426693,
       "name": "The Breath That Precedes Light",
       "url": "https://open.spotify.com/track/5I9csQLzfT16RQUYRr8Xr5"
@@ -16064,7 +16318,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 235750,
       "name": "The Sun's White Wind",
       "url": "https://open.spotify.com/track/5M7cQ2vFpxU3srXkwZdOzS"
@@ -17396,7 +17650,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 109573,
       "name": "VEIL",
       "url": "https://open.spotify.com/track/2dKuPGmF2uZVlehFKcoTT8"
@@ -17589,6 +17843,24 @@
     },
     {
       "album": {
+        "name": "WANE",
+        "url": "https://open.spotify.com/album/3erDFVFFUynMFuUsCnXQ2V"
+      },
+      "artists": [
+        {
+          "name": "Nobuhiro Okahashi",
+          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133560,
+      "name": "WANE",
+      "url": "https://open.spotify.com/track/0iuZVDBG0nYHmxWUI4wWFu"
+    },
+    {
+      "album": {
         "name": "Soothe & Sleep, Vol.3",
         "url": "https://open.spotify.com/album/0laYkHbtDIhxlVK5UxfQIh"
       },
@@ -17676,7 +17948,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 168306,
       "name": "Watermirror",
       "url": "https://open.spotify.com/track/4DHBAANMcbSyKuAO3okHAl"

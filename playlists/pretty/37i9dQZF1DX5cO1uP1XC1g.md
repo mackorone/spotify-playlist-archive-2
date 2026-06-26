@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cO1uP1XC1g.md) - [plain]
 
 > The Hottest Arabic Music.<br/>Cover: Sherine
 
-[Spotify](https://open.spotify.com/user/spotify) - 590,223 likes - 51 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 590,307 likes - 51 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cO1uP1XC1g.md) - [plain]
 | 3 | [Nano](https://open.spotify.com/track/6yrZoKcoa7EIx7e7uCCmPW) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf), [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Nano](https://open.spotify.com/album/3fv8OyR9optht1R8q7ReFk) | 3:36 |
 | 4 | [Tayeh Fel Amaken](https://open.spotify.com/track/3DWEmKglQcWrxnABIUd36d) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Tayeh Fel Amaken](https://open.spotify.com/album/3jagFWx4p0C3rav6lkHZ32) | 3:49 |
 | 5 | [Wayli](https://open.spotify.com/track/4KSeLwo0wVyqZn81dQirht) | [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Wayli](https://open.spotify.com/album/75eviJkl1lIpWERd64sDzn) | 3:17 |
-| 6 | [خيبت توقعاتك](https://open.spotify.com/track/21w3QHi6wZhJE87CVCjSkj) | [Houda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [خيبت توقعاتك](https://open.spotify.com/album/45yoQicE2qNDnLEa6JMTek) | 3:46 |
+| 6 | [خيبت توقعاتك](https://open.spotify.com/track/21w3QHi6wZhJE87CVCjSkj) | [Houda](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [خيبت توقعاتك](https://open.spotify.com/album/45yoQicE2qNDnLEa6JMTek) | 3:46 |
 | 7 | [Mesh Habibi Bas](https://open.spotify.com/track/1nOv83Igd6VoVoKNeGOGQJ) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Mesh Habibi Bas](https://open.spotify.com/album/15rENBw7yFYHGAe2YBPlEv) | 4:01 |
 | 8 | [Badna Nroue](https://open.spotify.com/track/4Y29obvHXHeQFJUjZOEHqG) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Mega Haifa 2](https://open.spotify.com/album/01NVQQpvmM2ejbglR55Smx) | 1:45 |
 | 9 | [Kifek 3A Fra2e](https://open.spotify.com/track/1dDMi1rMxOXGFVDFcF41Ii) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs), [Mohamed Chaker](https://open.spotify.com/artist/6v3svbntXqckH0VLMYNFi0) | [Kifek 3A Fra2e](https://open.spotify.com/album/45QIRHKcKVQxZOa1KB034T) | 3:48 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cO1uP1XC1g.md) - [plain]
 | 50 | [Lammah](https://open.spotify.com/track/0Hk9OFVAxB6mxTtLmmFdkT) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Lammah](https://open.spotify.com/album/6Slm5v59bwaVCCVVIiCrQM) | 3:41 |
 | 51 | [هيجيلي موجوع](https://open.spotify.com/track/2Heqj9jtxarmecKxycGSWn) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [هيجيلي موجوع](https://open.spotify.com/album/0pSmKTjNF9e51ZUGXRVDWI) | 3:30 |
 
-Snapshot ID: `AAAAAPmblDfIT+9N2pQ/U6znSLiOWjBf`
+Snapshot ID: `AAAAACWoyajIbzLJ0RjMp4YumA/ELAJV`

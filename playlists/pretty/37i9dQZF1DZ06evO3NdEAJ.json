@@ -1,12 +1,12 @@
 {
   "description": "This is La Fiera de Ojinaga. The essential tracks, all in one playlist.",
-  "num_followers": 54293,
+  "num_followers": 54302,
   "original_name": "This Is La Fiera de Ojinaga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajnMgAAAAABQjTV/rSIzdsLE1mQw6Se/",
+  "snapshot_id": "ajseAAAAAAC3V69sHM7aH7gFr1Yx3eQt",
   "tracks": [
     {
       "added_at": null,
@@ -323,26 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ranchero Y Tosco",
-        "url": "https://open.spotify.com/album/3E7tqH38ZUbfspz2ayzC3s"
-      },
-      "artists": [
-        {
-          "name": "La Nueva Estrategia",
-          "url": "https://open.spotify.com/artist/6KrsPUXRtIKhTla4QfuRW0"
-        },
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 172600,
-      "name": "Lo Dice El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6nSMEQt4Ua2nvKovfMWIT7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como un Meteorito",
         "url": "https://open.spotify.com/album/2NPXznFzShgA3D4bapgYR1"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 181034,
       "name": "Maldita Soledad",
       "url": "https://open.spotify.com/track/4MuXo5mfMatTI3sImuqjg3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ranchero Y Tosco",
+        "url": "https://open.spotify.com/album/3E7tqH38ZUbfspz2ayzC3s"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Estrategia",
+          "url": "https://open.spotify.com/artist/6KrsPUXRtIKhTla4QfuRW0"
+        },
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 172600,
+      "name": "Lo Dice El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6nSMEQt4Ua2nvKovfMWIT7"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Calientita",
-        "url": "https://open.spotify.com/album/5kyoEFoQ2MKSNMCNl0GZw9"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 141773,
-      "name": "Calientita",
-      "url": "https://open.spotify.com/track/0vM0UcnVHS3JQMTaKyU5bG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Sale Bien",
         "url": "https://open.spotify.com/album/1vm2Uy33Mrv1WNpWxQ0xLv"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 167509,
       "name": "Te Sale Bien",
       "url": "https://open.spotify.com/track/1AOuMm9EJB0S8FviogQcpQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Calientita",
+        "url": "https://open.spotify.com/album/5kyoEFoQ2MKSNMCNl0GZw9"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 141773,
+      "name": "Calientita",
+      "url": "https://open.spotify.com/track/0vM0UcnVHS3JQMTaKyU5bG"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Ti Enamorado",
-        "url": "https://open.spotify.com/album/1WGsWVwYWDwVSlZJxEHamf"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 233165,
-      "name": "De Ti Enamorado",
-      "url": "https://open.spotify.com/track/02MIYH9EHLAHZVu6iIFiNx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/5ZzQNKzCB7NdaWM2ldgex4"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 249777,
       "name": "Mi Forma de Sentir",
       "url": "https://open.spotify.com/track/32BMeAx8Gf7cWbUuINvqn5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Ti Enamorado",
+        "url": "https://open.spotify.com/album/1WGsWVwYWDwVSlZJxEHamf"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 233165,
+      "name": "De Ti Enamorado",
+      "url": "https://open.spotify.com/track/02MIYH9EHLAHZVu6iIFiNx"
     },
     {
       "added_at": null,
@@ -719,18 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "7.2",
-        "url": "https://open.spotify.com/album/3PvzlNzZj7gaNlWDR6YdKB"
+        "name": "Me Derrumb\u00e9 a Tus Pies",
+        "url": "https://open.spotify.com/album/5BapJqjEnc9bRomteNgQtC"
       },
       "artists": [
         {
           "name": "La Fiera de Ojinaga",
           "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        },
+        {
+          "name": "La Energia Nortena",
+          "url": "https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp"
         }
       ],
-      "duration_ms": 160235,
-      "name": "Si Llegan a Enterarse",
-      "url": "https://open.spotify.com/track/235uSINaGqneZry2vVXtx0"
+      "duration_ms": 204970,
+      "name": "Me Derrumb\u00e9 a Tus Pies",
+      "url": "https://open.spotify.com/track/6wA9irSsOpsIwoVz1rnt7O"
     },
     {
       "added_at": null,
@@ -751,22 +755,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Derrumb\u00e9 a Tus Pies",
-        "url": "https://open.spotify.com/album/5BapJqjEnc9bRomteNgQtC"
+        "name": "7.2",
+        "url": "https://open.spotify.com/album/3PvzlNzZj7gaNlWDR6YdKB"
       },
       "artists": [
         {
           "name": "La Fiera de Ojinaga",
           "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        },
-        {
-          "name": "La Energia Nortena",
-          "url": "https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp"
         }
       ],
-      "duration_ms": 204970,
-      "name": "Me Derrumb\u00e9 a Tus Pies",
-      "url": "https://open.spotify.com/track/6wA9irSsOpsIwoVz1rnt7O"
+      "duration_ms": 160235,
+      "name": "Si Llegan a Enterarse",
+      "url": "https://open.spotify.com/track/235uSINaGqneZry2vVXtx0"
     },
     {
       "added_at": null,

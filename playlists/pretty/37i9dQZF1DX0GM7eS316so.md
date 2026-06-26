@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GM7eS316so.md) - [plain]
 
 > Loosen up your soul\. Mixes available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,916 likes - 60 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,034 likes - 60 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

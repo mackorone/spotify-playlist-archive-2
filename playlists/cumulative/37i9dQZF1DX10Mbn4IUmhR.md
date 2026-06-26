@@ -2,9 +2,9 @@
 
 ### [pop fm](https://open.spotify.com/playlist/37i9dQZF1DX10Mbn4IUmhR)
 
-> Your frequency for today's hottest pop tracks in Mzansi\. Cover:
+> Your frequency for today's hottest pop tracks in Mzansi\. Cover: MOONGA K.
 
-798 songs - 1 day 18 hr 16 min
+799 songs - 1 day 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [BET](https://open.spotify.com/track/5ufJFtHp4xmJKytbhexXSy) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [BET](https://open.spotify.com/album/4uXodrOmAokrLDas53zJOJ) | 3:18 | 2024-06-27 | 2024-07-12 |
 | [Better](https://open.spotify.com/track/4T3fNx3CgwDRRYgmFCbD4J) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Better](https://open.spotify.com/album/6Nd4PYvQ7aYid1Gn6sWgeG) | 3:49 | 2025-02-27 | 2025-03-21 |
 | [Better Knowin' You](https://open.spotify.com/track/4yjVMmOVJXF7eXjqJlBxcE) | [Anica Kiana](https://open.spotify.com/artist/0B6OnZVakGggmtAviW0ep0) | [Better Knowin' You](https://open.spotify.com/album/7G2xuYcjfVEhc0SqmdvzoD) | 3:22 | 2025-12-19 | 2026-01-24 |
+| [BIG EGO](https://open.spotify.com/track/0NCUDhC7plQ3PO294m7F8z) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d) | [BIG EGO](https://open.spotify.com/album/0rSqxLqcaZpl380IQ2pnwd) | 3:50 | 2026-06-25 |  |
 | [Big Ol' Hammer](https://open.spotify.com/track/0KC3gdNQmZcNmGUJg4iXEV) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Big Ol' Hammer](https://open.spotify.com/album/6tnp1KpDg5ZCAxkHnk3hhX) | 2:27 | 2025-06-20 | 2025-06-24 |
 | [Bipolar Bear](https://open.spotify.com/track/0bKX1XrbjRWAYbvdt3Ta6Y) | [Tasha Baxter](https://open.spotify.com/artist/7sLv4bED064cYa2XhF85og) | [Bipolar Bear](https://open.spotify.com/album/3RAxcP95hghk4uM8HbfciB) | 4:08 | 2025-04-04 | 2025-04-11 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-07-11 |  |
@@ -181,7 +182,7 @@
 | [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 | 2024-11-07 | 2024-11-16 |
 | [Dive In](https://open.spotify.com/track/0bA6QKsb5NaUEPp408fX0S) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Juvie](https://open.spotify.com/album/1jK9tjtq7oZcQuaJmYsnjC) | 3:15 | 2026-01-23 |  |
 | [Dolce Vita](https://open.spotify.com/track/3icZ3wDL4J31dUFbIqGm7q) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Dolce Vita](https://open.spotify.com/album/7BM07pyAYIypULRmLOgGdo) | 3:31 | 2025-07-24 | 2025-08-01 |
-| [Don't Call Me Up](https://open.spotify.com/track/6aVIwFUO8Ntmsr7Qt90Dca) | [Mieke Chapman](https://open.spotify.com/artist/7HPKblSu4ldDmPoqeueCDw) | [Don't Call Me Up](https://open.spotify.com/album/50Q7z29qN7csmFqx3cu3Cg) | 3:05 | 2026-02-19 |  |
+| [Don't Call Me Up](https://open.spotify.com/track/6aVIwFUO8Ntmsr7Qt90Dca) | [Mieke Chapman](https://open.spotify.com/artist/7HPKblSu4ldDmPoqeueCDw) | [Don't Call Me Up](https://open.spotify.com/album/50Q7z29qN7csmFqx3cu3Cg) | 3:05 | 2026-02-19 | 2026-06-26 |
 | [Don't Cry](https://open.spotify.com/track/1YAnjTIRzOJtvduBcNUe8r) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Don't Cry](https://open.spotify.com/album/2E8IL9o71dUdFJqoZH7jfb) | 2:44 | 2024-11-15 | 2024-11-22 |
 | [Don't Cry, Put Your Head On My Shoulder](https://open.spotify.com/track/7pIkx5eSiIqA4WPRK526Wf) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Don't Cry, Put Your Head On My Shoulder](https://open.spotify.com/album/74xb3RB0NFdpxogUMihIlb) | 3:51 | 2025-05-22 | 2025-07-09 |
 | [Don't Have U](https://open.spotify.com/track/6r2PmMAtceaC8oXgJwkgaL) | [Faker Streets](https://open.spotify.com/artist/5fl7MrhmaUgE8flYAmZ0VV) | [Don't Have U](https://open.spotify.com/album/3KDjtKeJujPIMgmC7uD4WO) | 2:59 | 2025-08-07 | 2025-08-30 |

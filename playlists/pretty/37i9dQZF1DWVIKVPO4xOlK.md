@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIKVPO4xOlK.md) - [plain]
 
 > <a href="https://open.spotify.com/genre/0JQ5DAqbMKFGEKqSBDV3q2">Belicofest</a> rompiendo en Los Angeles!
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,382 likes - 30 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,370 likes - 30 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Descubre lo más nuevo del movimiento\. Cover: Kris R, Ryan Castro, De La Rose & Cris MJ
 
-2,460 songs - 5 day 8 hr 13 min
+2,461 songs - 5 day 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,6 +353,7 @@
 | [BYONCE](https://open.spotify.com/track/4Uf3qct71nYsNivPLFK3pZ) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [BYONCE](https://open.spotify.com/album/0ksDLflW5ukV4g2kruaktp) | 2:19 | 2025-08-22 | 2025-11-08 |
 | [C.Y.B.E.R.](https://open.spotify.com/track/1DkVJlPKeLW8fDok5RojSC) | [CDobleta](https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE) | [C.Y.B.E.R.](https://open.spotify.com/album/1FXsgdhswMT5mh5FDoE2hu) | 2:41 | 2024-12-06 | 2025-02-15 |
 | [Ca$hi](https://open.spotify.com/track/6QCW6T5ulRVBW5Ng2ZaK4G) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Ca$hi](https://open.spotify.com/album/16sEGKLeULIFxgugeQRUmc) | 3:08 | 2026-02-27 | 2026-04-18 |
+| [Cabernet](https://open.spotify.com/track/16ElBU3Nnk4SCElgYmK0jt) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [Cabernet](https://open.spotify.com/album/5cKVFpaK1Pv7L68VduLrRA) | 4:05 | 2026-06-25 |  |
 | [Cachos](https://open.spotify.com/track/4lXxyNEaO7Uqtan29qj6Py) | [Nesi](https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat) | [Cachos](https://open.spotify.com/album/2gnUOJCs6JkZz0RcMjJ1Z0) | 2:32 | 2026-05-02 |  |
 | [CACHÉ](https://open.spotify.com/track/6Snhzg4NoTqNgRlkLhzzBW) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA PANTERA NEGRA](https://open.spotify.com/album/6NmYJszy5BaEm1WF4tJL7Z) | 3:16 | 2024-08-23 | 2024-11-09 |
 | [Caducaste](https://open.spotify.com/track/3k0au8hNwghIrLsfpP2W4z) | [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Caducaste](https://open.spotify.com/album/5um6GIoA0TejDR97zILaDG) | 3:34 | 2026-04-03 |  |
@@ -861,7 +862,7 @@
 | [G O D D E S S](https://open.spotify.com/track/6CqT8nNfeFX89UaZQn6eIa) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [G O D D E S S](https://open.spotify.com/album/3Nu0PN3Oiw7Z1yCqDubU4m) | 2:35 | 2024-09-20 | 2024-12-21 |
 | [G Spot](https://open.spotify.com/track/7qcG5K5O8XjmKT2DFdxWl4) | [Sahir](https://open.spotify.com/artist/0dqT9B1Xej71qvAo8uE4Uh), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [G Spot](https://open.spotify.com/album/0OGm90v3LUf6pZyeI55yTc) | 3:31 | 2023-04-14 | 2023-09-09 |
 | [G&P3](https://open.spotify.com/track/1SHk2Omw2oQGZkV14YYqdq) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [G&P3](https://open.spotify.com/album/4O2bbARYjOpydvQppaTSpQ) | 3:16 | 2022-03-21 | 2022-04-16 |
-| [G\-LATINA](https://open.spotify.com/track/3Q0jBRz944gYpMXiYfODjN) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [G\-LATINA](https://open.spotify.com/album/7mogv95UWW5yloGmZwiILr) | 2:26 | 2026-03-13 |  |
+| [G\-LATINA](https://open.spotify.com/track/3Q0jBRz944gYpMXiYfODjN) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [G\-LATINA](https://open.spotify.com/album/7mogv95UWW5yloGmZwiILr) | 2:26 | 2026-03-13 | 2026-06-26 |
 | [Gafas Pal Sol](https://open.spotify.com/track/1fRVcAo1TNDqdzV55vn3ep) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [El Bloke Hills](https://open.spotify.com/album/3bUFjO2k4a1KpnSjtpfwxc) | 2:42 | 2023-09-22 | 2024-01-06 |
 | [Gallo Fino](https://open.spotify.com/track/0XGgxEIxTbC6tNHwdFJO1j) | [Karma Producer](https://open.spotify.com/artist/31XVqBzrt48jujwuZdiJW2), [Jasiel AB](https://open.spotify.com/artist/1hsZtqjs2Z7sInQ8x3oUEx), [XI Keko](https://open.spotify.com/artist/24KkD1DiyxxQ4VHglf3x3q), [Bizi](https://open.spotify.com/artist/52t5GQEhzBaHVrqaZpWKiy) | [Gallo Fino](https://open.spotify.com/album/3oNazipmH2UH9V7JKkI2hL) | 2:00 | 2025-03-21 | 2025-05-24 |
 | [GANAS](https://open.spotify.com/track/4KE9Ne3hgh18B3Th4xcylg) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [GANAS](https://open.spotify.com/album/5kvrX3U5XjJVzCbtr71K7T) | 3:10 | 2026-01-16 | 2026-02-28 |

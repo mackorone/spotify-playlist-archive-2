@@ -2,9 +2,9 @@
 
 ### [Techno State](https://open.spotify.com/playlist/37i9dQZF1DX8ZMwsPgxIOs)
 
-> Techno is a state of mind\. Cover: Juliet Fox
+> Techno is a state of mind\. Cover: Space 92
 
-652 songs - 1 day 22 hr 57 min
+653 songs - 1 day 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -569,6 +569,7 @@
 | [Tell Us](https://open.spotify.com/track/3raC4JsHNnLjIG9U65wKAI) | [Gabe](https://open.spotify.com/artist/0WoUrE9CjbROyWCMMdGMqu), [Roddy Lima](https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx) | [Tell Us](https://open.spotify.com/album/7vKuJf14IDiXGbTEGlZDzw) | 2:44 | 2025-10-02 |  |
 | [Tempelhof](https://open.spotify.com/track/1OXu6yphRorUKpTttBMMhl) | [GiGi FM](https://open.spotify.com/artist/2I64l1qh83iqkQ3cLRGcPi) | [Movimiento](https://open.spotify.com/album/6aKGDyR5AGabrgoK72IspI) | 5:33 | 2024-06-14 | 2025-06-21 |
 | [Test My Luck](https://open.spotify.com/track/5DBlsm04zZqUtRQxmfmsTv) | [Doruksen](https://open.spotify.com/artist/4QualaVaoF8vYnpJ5o8Pw6) | [Test My Luck](https://open.spotify.com/album/2ufBJLFeFuG0cyqpsOvNpH) | 2:59 | 2025-08-07 |  |
+| [Testo Skin Part 1](https://open.spotify.com/track/2rAx3OdiLOWWlm95HqN3Wq) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Harmony](https://open.spotify.com/album/51EmZvgBe2KU6858cvotYi) | 2:49 | 2026-06-25 |  |
 | [Thank You \- Oscar L Remix](https://open.spotify.com/track/7IoW3hYujecE7nzUDFVEhS) | [Volaris](https://open.spotify.com/artist/1gitvozvRIt6HisVREf3Hy), [Oscar L](https://open.spotify.com/artist/28KSeoYQphCQ5cGa0cuUCm) | [Thank You](https://open.spotify.com/album/5kg6M6yGNmw80lZxZIutrI) | 5:56 | 2024-09-12 | 2025-10-03 |
 | [The Afterparty \- Loco & Jam Remix](https://open.spotify.com/track/08MmPdIc2RSZ93U4Ux2RxI) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ), [Loco & Jam](https://open.spotify.com/artist/5RwXcpTt7Fr8S8yG3Tbr9b) | [The Afterparty \(Loco & Jam Remix\)](https://open.spotify.com/album/4emXTiKX7G6CtnK90bCNAI) | 3:45 | 2024-04-05 | 2025-02-21 |
 | [The Age Of Ent](https://open.spotify.com/track/7imdBBUwjlvYwsHwE0YIsK) | [Adam Pits](https://open.spotify.com/artist/0vrrcYDODaghHDyxGZCIis) | [A Recurring Nature](https://open.spotify.com/album/06MbkEoh9pOQW2oxDwCGiX) | 6:08 | 2022-04-15 | 2022-05-07 |

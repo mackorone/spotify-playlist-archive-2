@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's country crop. Cover: Wade Forster",
+  "description": "The cream of today's country crop. Cover: Cody Johnson",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -712,7 +712,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 204897,
       "name": "Ain't Over Me Yet",
       "url": "https://open.spotify.com/track/3XqQ0wdVTielXOde7wYXiL"
@@ -878,7 +878,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 208322,
       "name": "All In Already",
       "url": "https://open.spotify.com/track/4dyhUKHZjlFyJHB6zlg904"
@@ -2400,7 +2400,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 172066,
       "name": "BLACKSMITH",
       "url": "https://open.spotify.com/track/0gjNdCXIDZQBbgiTpO6TAn"
@@ -2732,7 +2732,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 165597,
       "name": "Born To Die",
       "url": "https://open.spotify.com/track/2OYL3iPdImeS7qMmV2gOsX"
@@ -4666,7 +4666,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 176400,
       "name": "Crisco",
       "url": "https://open.spotify.com/track/5pnWECOdwXO5tIyx1DqAeP"
@@ -8235,6 +8235,24 @@
     },
     {
       "album": {
+        "name": "Hands Up",
+        "url": "https://open.spotify.com/album/0sgUIRGCsKo9P1ixNC99au"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Hands Up",
+      "url": "https://open.spotify.com/track/1E6l75Po0SL0C1Clobjf5v"
+    },
+    {
+      "album": {
         "name": "Hang Tight Honey",
         "url": "https://open.spotify.com/album/5WyXnepLcbyDzp4qhBZ5f2"
       },
@@ -8358,7 +8376,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 160200,
       "name": "Hard Liquor and Soft Rock",
       "url": "https://open.spotify.com/track/7lsUqpco8LB7sP0GisVDGM"
@@ -9056,7 +9074,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 191830,
       "name": "high school sweetheart",
       "url": "https://open.spotify.com/track/3kxcRsR6yaghkuTwXDZO5Z"
@@ -9526,6 +9544,24 @@
       "duration_ms": 163689,
       "name": "Horses and Divorces (feat. Miranda Lambert)",
       "url": "https://open.spotify.com/track/44tr6kkaMRgd2UVG44wqv7"
+    },
+    {
+      "album": {
+        "name": "Horseshoes & Hand Grenades",
+        "url": "https://open.spotify.com/album/2M1HiPa2U58hAL7ExrxPmR"
+      },
+      "artists": [
+        {
+          "name": "Tyler Braden",
+          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161471,
+      "name": "Horseshoes & Hand Grenades",
+      "url": "https://open.spotify.com/track/650qT68rpwWkYNRz9I8KaM"
     },
     {
       "album": {
@@ -10746,7 +10782,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 189882,
       "name": "Into It",
       "url": "https://open.spotify.com/track/3iJo2Fiom7YbsG8qZ39j7b"
@@ -14148,7 +14184,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 176843,
       "name": "no tears in the summer",
       "url": "https://open.spotify.com/track/6xC0vB5mTTvMG8tCjVsPd8"
@@ -14282,6 +14318,28 @@
       "duration_ms": 193851,
       "name": "Note To Self",
       "url": "https://open.spotify.com/track/5X9XUK9LZTAUO9wuqYLp4N"
+    },
+    {
+      "album": {
+        "name": "Nothin' Better To Do",
+        "url": "https://open.spotify.com/album/5bxRfuJwg5wMBHlFmqrvL1"
+      },
+      "artists": [
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        },
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182214,
+      "name": "Nothin' Better To Do (with Wyatt Flores)",
+      "url": "https://open.spotify.com/track/74Qu7xLd1FRWGwgLRh4EGI"
     },
     {
       "album": {
@@ -15433,6 +15491,24 @@
     },
     {
       "album": {
+        "name": "Prettiest Wreck",
+        "url": "https://open.spotify.com/album/5QfDmAPoZ5iE4f1Nk7ntpY"
+      },
+      "artists": [
+        {
+          "name": "Tori Darke",
+          "url": "https://open.spotify.com/artist/2HzkV2TeZkSlipQVSHbzAj"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169007,
+      "name": "Prettiest Wreck",
+      "url": "https://open.spotify.com/track/7CP672eSuZocHYcW7jtxYj"
+    },
+    {
+      "album": {
         "name": "Pretty Doesn't Make You Good",
         "url": "https://open.spotify.com/album/2CCgH95QT9QgkKSU1HdZyN"
       },
@@ -15648,6 +15724,24 @@
       "duration_ms": 214333,
       "name": "Queen of Daytona Beach",
       "url": "https://open.spotify.com/track/2M2g0K7kzi2dcXdtjbI5Nz"
+    },
+    {
+      "album": {
+        "name": "Pink Pocket Pistol",
+        "url": "https://open.spotify.com/album/4YZryAHr8tsQ73nVV0V81v"
+      },
+      "artists": [
+        {
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220474,
+      "name": "Raining Inside",
+      "url": "https://open.spotify.com/track/5IXPx6rTgCCEOLQnlq1cpa"
     },
     {
       "album": {
@@ -17120,6 +17214,28 @@
       "duration_ms": 211962,
       "name": "She's The One",
       "url": "https://open.spotify.com/track/42Di68uyYR96IwvHYtM0E9"
+    },
+    {
+      "album": {
+        "name": "Banks Of The Trinity",
+        "url": "https://open.spotify.com/album/5HXVIeGnVkbxonX7SCj2HD"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184786,
+      "name": "Shoot The Bull",
+      "url": "https://open.spotify.com/track/6qZOIYvUcfKl9kTE2rxitF"
     },
     {
       "album": {
@@ -19040,7 +19156,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 178573,
       "name": "Take Me Back (Leave Me There)",
       "url": "https://open.spotify.com/track/5hb2X5SnGfVnNQyqAWJCch"
@@ -19300,6 +19416,24 @@
       "duration_ms": 183673,
       "name": "That Summer",
       "url": "https://open.spotify.com/track/21pFoQUP2Jl56aumhoMCbK"
+    },
+    {
+      "album": {
+        "name": "Midnight Mavericks",
+        "url": "https://open.spotify.com/album/3sbsbhU0LzAoBFPYnhpy36"
+      },
+      "artists": [
+        {
+          "name": "Kingswood",
+          "url": "https://open.spotify.com/artist/4zOw0E0NA7B4lIYyc3XNt5"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267580,
+      "name": "The Action",
+      "url": "https://open.spotify.com/track/4whb0wRmx1Z9Ar3MdIxVfr"
     },
     {
       "album": {
@@ -20223,6 +20357,24 @@
     },
     {
       "album": {
+        "name": "Till The Going's Gone",
+        "url": "https://open.spotify.com/album/1qwO21OoseQGLolRb3FR6U"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180146,
+      "name": "Till The Going's Gone",
+      "url": "https://open.spotify.com/track/0WkiA8rK5QLNTw0dT8KSDG"
+    },
+    {
+      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/4MxEcVj0VyK0BUXls2kTC6"
       },
@@ -21036,6 +21188,24 @@
       "duration_ms": 200102,
       "name": "Waylon In '75",
       "url": "https://open.spotify.com/track/2D2HjhdgjfaMSFLB0scM9L"
+    },
+    {
+      "album": {
+        "name": "HERO: A Second Wind",
+        "url": "https://open.spotify.com/album/7Dta2R6zh3NV1SvKsvalqo"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182866,
+      "name": "We Can't Be Friends",
+      "url": "https://open.spotify.com/track/2bgTXQe2IF8mjgW5eiKj27"
     },
     {
       "album": {

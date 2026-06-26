@@ -1,6 +1,6 @@
 {
   "description": "Train insane with these Bollywood tracks.",
-  "num_followers": 337293,
+  "num_followers": 337459,
   "original_name": "Bollywood Workout",
   "owner": {
     "name": "Spotify",
@@ -899,6 +899,26 @@
     {
       "added_at": "2026-06-24 04:56:37",
       "album": {
+        "name": "Dangal (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/354TJOapvmkc4JCxi9vJHh"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Daler Mehndi",
+          "url": "https://open.spotify.com/artist/6wa1AsxB9oJP7lwNSmbcYx"
+        }
+      ],
+      "duration_ms": 299325,
+      "name": "Dangal",
+      "url": "https://open.spotify.com/track/5Ry67OqwCxKbswCxcPHcg9"
+    },
+    {
+      "added_at": "2026-06-24 04:56:37",
+      "album": {
         "name": "Aankh Marey (From \"Simmba\")",
         "url": "https://open.spotify.com/album/4Tm5PfvhoU8ZAkmHYvEzIN"
       },
@@ -923,26 +943,6 @@
       "duration_ms": 212741,
       "name": "Aankh Marey (From \"Simmba\")",
       "url": "https://open.spotify.com/track/63MvWd6T6yoS7h4AJ4Hjrm"
-    },
-    {
-      "added_at": "2026-06-24 04:56:37",
-      "album": {
-        "name": "Dangal (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/354TJOapvmkc4JCxi9vJHh"
-      },
-      "artists": [
-        {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
-          "name": "Daler Mehndi",
-          "url": "https://open.spotify.com/artist/6wa1AsxB9oJP7lwNSmbcYx"
-        }
-      ],
-      "duration_ms": 299325,
-      "name": "Dangal",
-      "url": "https://open.spotify.com/track/5Ry67OqwCxKbswCxcPHcg9"
     },
     {
       "added_at": "2026-06-24 04:56:37",

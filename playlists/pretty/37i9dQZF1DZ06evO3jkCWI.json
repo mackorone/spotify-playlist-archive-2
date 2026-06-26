@@ -1,12 +1,12 @@
 {
   "description": "This is Los Invasores De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 201489,
+  "num_followers": 201551,
   "original_name": "This Is Los Invasores De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajnMgAAAAADPhQRgslFoM/xwOM+CKN48",
+  "snapshot_id": "ajseAAAAAAB9h2socFwRJ7xw9JCFSdZK",
   "tracks": [
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Castigame",
-        "url": "https://open.spotify.com/album/2mzZX6tPn2HSgwPDwBWxlM"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Que No Se Apague La Lumbre",
-      "url": "https://open.spotify.com/track/1FHVrQ4GmRxmWx7g1RzdJJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se\u00f1al De Alerta",
         "url": "https://open.spotify.com/album/28K8AZI79UWVamCJZglQlq"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 165853,
       "name": "Ni Que Tuvieras Tanta Suerte",
       "url": "https://open.spotify.com/track/0OzRg0JDqxDDxtmKn2GUVi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Castigame",
+        "url": "https://open.spotify.com/album/2mzZX6tPn2HSgwPDwBWxlM"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Que No Se Apague La Lumbre",
+      "url": "https://open.spotify.com/track/1FHVrQ4GmRxmWx7g1RzdJJ"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aguanta Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 166266,
-      "name": "Nada Contigo",
-      "url": "https://open.spotify.com/track/0BElkouvu7hJy1NB2RF1Va"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi H\u00e9roe",
         "url": "https://open.spotify.com/album/1Flg5XJrhqjvd70wX6QV9C"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 159013,
       "name": "Degenerado",
       "url": "https://open.spotify.com/track/413NV5nNVfbEh7vG1x2GTl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aguanta Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 166266,
+      "name": "Nada Contigo",
+      "url": "https://open.spotify.com/track/0BElkouvu7hJy1NB2RF1Va"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Pegue",
-        "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 193706,
-      "name": "Lucio Pe\u00f1a",
-      "url": "https://open.spotify.com/track/2szJfT5bYhIB0jdjsgpWNj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Es Demasiado Tarde",
         "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 186173,
       "name": "Distancia Maldita",
       "url": "https://open.spotify.com/track/3RhNtiTs0FwK9RpZpP7Xf8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos De Pegue",
+        "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 193706,
+      "name": "Lucio Pe\u00f1a",
+      "url": "https://open.spotify.com/track/2szJfT5bYhIB0jdjsgpWNj"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Flor De Naranjo",
-        "url": "https://open.spotify.com/album/5phLi5dStR0wTk1hGYC2Q3"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 150973,
-      "name": "El Amor De Nosotros",
-      "url": "https://open.spotify.com/track/2APZe1mAUx8lMfFVP2f7AA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Laurita Garza",
         "url": "https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 155506,
       "name": "La Tumba Ser\u00e1 El Final",
       "url": "https://open.spotify.com/track/4AcJrebC9ncscQPZlP9xED"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Flor De Naranjo",
+        "url": "https://open.spotify.com/album/5phLi5dStR0wTk1hGYC2Q3"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 150973,
+      "name": "El Amor De Nosotros",
+      "url": "https://open.spotify.com/track/2APZe1mAUx8lMfFVP2f7AA"
     },
     {
       "added_at": null,

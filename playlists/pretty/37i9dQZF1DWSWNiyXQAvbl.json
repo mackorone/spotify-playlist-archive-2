@@ -1,6 +1,6 @@
 {
   "description": "Ease back in time with the help of these seventies classics...",
-  "num_followers": 516480,
+  "num_followers": 516493,
   "original_name": "Easy 70s",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "Energy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1aKaiiPUuycMQa4ugZXArH"
-      },
-      "artists": [
-        {
-          "name": "The Pointer Sisters",
-          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
-        }
-      ],
-      "duration_ms": 210640,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/65lHwG8JFJs67PnOUhCYPq"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1yBUWYxGG5j1fjzSkrMY0C"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 208333,
       "name": "Rock Me Gently",
       "url": "https://open.spotify.com/track/2qh2VGAOYFXLsMbdATRf6w"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
+        "name": "Energy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1aKaiiPUuycMQa4ugZXArH"
+      },
+      "artists": [
+        {
+          "name": "The Pointer Sisters",
+          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
+        }
+      ],
+      "duration_ms": 210640,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/65lHwG8JFJs67PnOUhCYPq"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -967,6 +967,22 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/63k57x0qOkUWEMR0dkMivh"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 254453,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/703BT1NQsfIwPFv8MXQ47m"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
         "name": "Slowhand 35th Anniversary (Super Deluxe)",
         "url": "https://open.spotify.com/album/5L3heXJfh1liiYsZyFZ22G"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 204226,
       "name": "How Long",
       "url": "https://open.spotify.com/track/4AjKVyNUMdUveKK5OH1OJD"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/63k57x0qOkUWEMR0dkMivh"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 254453,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/703BT1NQsfIwPFv8MXQ47m"
     },
     {
       "added_at": "2024-06-03 14:45:23",

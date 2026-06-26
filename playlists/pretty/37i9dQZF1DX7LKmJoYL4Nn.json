@@ -1,6 +1,6 @@
 {
   "description": "Songs from \u201cENSEMBLE STARS!!\u201d \u00a9 2014-2019 Happy Elements K.K\n",
-  "num_followers": 63078,
+  "num_followers": 63079,
   "original_name": "ENSEMBLE STARS!!",
   "owner": {
     "name": "Spotify",
@@ -351,26 +351,6 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
-        "name": "PM6:\u221e\u300c\u3089\u3073\u3085&\u30d4\u30fc\u30b9\u4f1d\u8aac\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u2060SELECTION 10 UNIT SONG",
-        "url": "https://open.spotify.com/album/193HSvLV9U3ruKbDAEju5l"
-      },
-      "artists": [
-        {
-          "name": "PM6:\u221e",
-          "url": "https://open.spotify.com/artist/2GvcPHWg5MaQk9s3RPKiFv"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 225202,
-      "name": "\u3089\u3073\u3085&\u30d4\u30fc\u30b9\u4f1d\u8aac",
-      "url": "https://open.spotify.com/track/7LrGUS1U2GIkbk4Akth9XF"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
         "name": "Eden\u300cThe Bible of The \u201cEden\u201d\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra",
         "url": "https://open.spotify.com/album/6WxMTnJbj1qmdWnmMVdvXR"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 359773,
       "name": "The Bible of The \u201cEden\u201d",
       "url": "https://open.spotify.com/track/33wWNHn9Nc1SbrDRN3KeXT"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
+        "name": "PM6:\u221e\u300c\u3089\u3073\u3085&\u30d4\u30fc\u30b9\u4f1d\u8aac\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u2060SELECTION 10 UNIT SONG",
+        "url": "https://open.spotify.com/album/193HSvLV9U3ruKbDAEju5l"
+      },
+      "artists": [
+        {
+          "name": "PM6:\u221e",
+          "url": "https://open.spotify.com/artist/2GvcPHWg5MaQk9s3RPKiFv"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 225202,
+      "name": "\u3089\u3073\u3085&\u30d4\u30fc\u30b9\u4f1d\u8aac",
+      "url": "https://open.spotify.com/track/7LrGUS1U2GIkbk4Akth9XF"
     },
     {
       "added_at": "2026-04-21 15:00:41",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
-        "name": "\u30b9\u30ad\u30b9\u30ad\u30cf\u30f3\u30bf\u30fc\u2661",
-        "url": "https://open.spotify.com/album/0G67I9Ba3ayQHq7S22orfn"
-      },
-      "artists": [
-        {
-          "name": "Special for Princess!",
-          "url": "https://open.spotify.com/artist/1neTClI3dczNRCQUj9Kbv3"
-        }
-      ],
-      "duration_ms": 238033,
-      "name": "\u30b9\u30ad\u30b9\u30ad\u30cf\u30f3\u30bf\u30fc\u2661",
-      "url": "https://open.spotify.com/track/4s3WJBqODAeXk7kHlwq0Nh"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
         "name": "Dear World (Short ver.)",
         "url": "https://open.spotify.com/album/5Iibsmm600yJmx7VBUHTYV"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 145300,
       "name": "Dear World - Short ver.",
       "url": "https://open.spotify.com/track/4WhbXvkphy7lrFzOVelHqX"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
+        "name": "\u30b9\u30ad\u30b9\u30ad\u30cf\u30f3\u30bf\u30fc\u2661",
+        "url": "https://open.spotify.com/album/0G67I9Ba3ayQHq7S22orfn"
+      },
+      "artists": [
+        {
+          "name": "Special for Princess!",
+          "url": "https://open.spotify.com/artist/1neTClI3dczNRCQUj9Kbv3"
+        }
+      ],
+      "duration_ms": 238033,
+      "name": "\u30b9\u30ad\u30b9\u30ad\u30cf\u30f3\u30bf\u30fc\u2661",
+      "url": "https://open.spotify.com/track/4s3WJBqODAeXk7kHlwq0Nh"
     },
     {
       "added_at": "2026-04-21 15:00:41",

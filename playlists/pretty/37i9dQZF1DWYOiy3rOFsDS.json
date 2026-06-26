@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con Cumbia Pedregal en portada.",
-  "num_followers": 543713,
+  "num_followers": 543661,
   "original_name": "nuevo bolero",
   "owner": {
     "name": "Spotify",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-05-22 06:00:54",
       "album": {
-        "name": "Nuestro Primer Disco / Nuestro Amor",
-        "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
-      },
-      "artists": [
-        {
-          "name": "Los Tri-O",
-          "url": "https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "Para Que Pides Perdon (Bonus Track)",
-      "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
-    },
-    {
-      "added_at": "2026-05-22 06:00:54",
-      "album": {
         "name": "Me Vuelves Loca",
         "url": "https://open.spotify.com/album/2AuC5wOjsNXG7rWyFheYZi"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 268146,
       "name": "Me Vuelves Loca",
       "url": "https://open.spotify.com/track/4b2VrKk6vR7304vrY3v0f0"
+    },
+    {
+      "added_at": "2026-05-22 06:00:54",
+      "album": {
+        "name": "Nuestro Primer Disco / Nuestro Amor",
+        "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
+      },
+      "artists": [
+        {
+          "name": "Los Tri-O",
+          "url": "https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "Para Que Pides Perdon (Bonus Track)",
+      "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
     },
     {
       "added_at": "2026-05-22 06:00:54",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-05-22 06:00:54",
       "album": {
-        "name": "DUAL",
-        "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
-      },
-      "artists": [
-        {
-          "name": "Paola Decanini",
-          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
-        }
-      ],
-      "duration_ms": 207296,
-      "name": "La Apuesta",
-      "url": "https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0"
-    },
-    {
-      "added_at": "2026-05-22 06:00:54",
-      "album": {
         "name": "Caso Cerrado",
         "url": "https://open.spotify.com/album/4QyAhMcjSCY1OjNMfIgSuq"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 189346,
       "name": "Caso Cerrado",
       "url": "https://open.spotify.com/track/5ufFr8RZTUaR6onPwL4vQb"
+    },
+    {
+      "added_at": "2026-05-22 06:00:54",
+      "album": {
+        "name": "DUAL",
+        "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
+      },
+      "artists": [
+        {
+          "name": "Paola Decanini",
+          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
+        }
+      ],
+      "duration_ms": 207296,
+      "name": "La Apuesta",
+      "url": "https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0"
     },
     {
       "added_at": "2026-05-22 06:00:54",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2026-05-22 06:00:54",
       "album": {
-        "name": "Una Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/7cShrPBSg4JiIqPMmodnUX"
-      },
-      "artists": [
-        {
-          "name": "Denise Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/3EqIHpUI8pbcH5UgqZBWbW"
-        }
-      ],
-      "duration_ms": 171272,
-      "name": "Una Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/59iMSvqe3XmRqhB9AS2bsM"
-    },
-    {
-      "added_at": "2026-05-22 06:00:54",
-      "album": {
         "name": "Empecemos a Empezar",
         "url": "https://open.spotify.com/album/1DjuOKT64S3kVkajN4jFU4"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 200859,
       "name": "Empecemos a Empezar",
       "url": "https://open.spotify.com/track/3DGy4S1hW4LOiSXW1xFDki"
+    },
+    {
+      "added_at": "2026-05-22 06:00:54",
+      "album": {
+        "name": "Una Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/7cShrPBSg4JiIqPMmodnUX"
+      },
+      "artists": [
+        {
+          "name": "Denise Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/3EqIHpUI8pbcH5UgqZBWbW"
+        }
+      ],
+      "duration_ms": 171272,
+      "name": "Una Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/59iMSvqe3XmRqhB9AS2bsM"
     },
     {
       "added_at": "2026-05-22 06:00:54",

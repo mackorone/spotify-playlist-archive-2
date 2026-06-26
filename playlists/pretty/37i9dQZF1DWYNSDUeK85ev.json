@@ -1,6 +1,6 @@
 {
   "description": "La playlist que prende la fiesta.",
-  "num_followers": 696804,
+  "num_followers": 696819,
   "original_name": "Joda",
   "owner": {
     "name": "Spotify",
@@ -867,6 +867,22 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
+        "name": "Altos Cumbieros - Cumbia Villera",
+        "url": "https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF"
+      },
+      "artists": [
+        {
+          "name": "Altos Cumbieros",
+          "url": "https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM"
+        }
+      ],
+      "duration_ms": 188720,
+      "name": "No voy a llorar",
+      "url": "https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE"
+    },
+    {
+      "added_at": "2026-06-19 03:00:21",
+      "album": {
         "name": "Pistola Remix",
         "url": "https://open.spotify.com/album/5uvaIwoUvjtR3wETfwB95T"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 136806,
       "name": "Pistola Remix",
       "url": "https://open.spotify.com/track/10cA6m379GINGe7ZF6g3q1"
-    },
-    {
-      "added_at": "2026-06-19 03:00:21",
-      "album": {
-        "name": "Altos Cumbieros - Cumbia Villera",
-        "url": "https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF"
-      },
-      "artists": [
-        {
-          "name": "Altos Cumbieros",
-          "url": "https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM"
-        }
-      ],
-      "duration_ms": 188720,
-      "name": "No voy a llorar",
-      "url": "https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE"
     },
     {
       "added_at": "2026-06-19 03:00:21",
@@ -1983,26 +1983,6 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
-        "name": "El Dia de Mi Suerte (Guaracha)",
-        "url": "https://open.spotify.com/album/619f11g93vnIAbxjiNh1qa"
-      },
-      "artists": [
-        {
-          "name": "Chichee",
-          "url": "https://open.spotify.com/artist/2ErncbMR6asOMKhjrUdmT3"
-        },
-        {
-          "name": "DJ Cuba",
-          "url": "https://open.spotify.com/artist/185gdgGAP7g2lZX9dVFDaE"
-        }
-      ],
-      "duration_ms": 145511,
-      "name": "El Dia de Mi Suerte - Guaracha",
-      "url": "https://open.spotify.com/track/6jkSYIxKp9dq5cUV3AVxHe"
-    },
-    {
-      "added_at": "2026-06-19 03:00:21",
-      "album": {
         "name": "Retumbando la Bocina #2 (Set Remix)",
         "url": "https://open.spotify.com/album/633PenwOj1jpbHbGDSw8lH"
       },
@@ -2019,18 +1999,22 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
-        "name": "Ritmo, Vol. 1",
-        "url": "https://open.spotify.com/album/061ey5iAc8evXtWdY3CSwk"
+        "name": "El Dia de Mi Suerte (Guaracha)",
+        "url": "https://open.spotify.com/album/619f11g93vnIAbxjiNh1qa"
       },
       "artists": [
         {
-          "name": "Rkt",
-          "url": "https://open.spotify.com/artist/79IqrR42sN3ALgtibYWsaL"
+          "name": "Chichee",
+          "url": "https://open.spotify.com/artist/2ErncbMR6asOMKhjrUdmT3"
+        },
+        {
+          "name": "DJ Cuba",
+          "url": "https://open.spotify.com/artist/185gdgGAP7g2lZX9dVFDaE"
         }
       ],
-      "duration_ms": 219211,
-      "name": "En el Party",
-      "url": "https://open.spotify.com/track/0yljGoheC8WIvdFx8W7eH9"
+      "duration_ms": 145511,
+      "name": "El Dia de Mi Suerte - Guaracha",
+      "url": "https://open.spotify.com/track/6jkSYIxKp9dq5cUV3AVxHe"
     },
     {
       "added_at": "2026-06-19 03:00:21",
@@ -2059,6 +2043,22 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
+        "name": "Ritmo, Vol. 1",
+        "url": "https://open.spotify.com/album/061ey5iAc8evXtWdY3CSwk"
+      },
+      "artists": [
+        {
+          "name": "Rkt",
+          "url": "https://open.spotify.com/artist/79IqrR42sN3ALgtibYWsaL"
+        }
+      ],
+      "duration_ms": 219211,
+      "name": "En el Party",
+      "url": "https://open.spotify.com/track/0yljGoheC8WIvdFx8W7eH9"
+    },
+    {
+      "added_at": "2026-06-19 03:00:21",
+      "album": {
         "name": "Modo Cabron",
         "url": "https://open.spotify.com/album/0gaf6PG9FRslNcTiPSCb8W"
       },
@@ -2083,26 +2083,6 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
-        "name": "Este o Este (Guaracha)",
-        "url": "https://open.spotify.com/album/09zAdSWAEqa8NoyQmO6xMa"
-      },
-      "artists": [
-        {
-          "name": "Chichee",
-          "url": "https://open.spotify.com/artist/2ErncbMR6asOMKhjrUdmT3"
-        },
-        {
-          "name": "DJ Cuba",
-          "url": "https://open.spotify.com/artist/185gdgGAP7g2lZX9dVFDaE"
-        }
-      ],
-      "duration_ms": 117120,
-      "name": "Este o Este - Guaracha",
-      "url": "https://open.spotify.com/track/2uSeA4d12mQpsFxMHbnVxz"
-    },
-    {
-      "added_at": "2026-06-19 03:00:21",
-      "album": {
         "name": "DJ ALEX, THE LA PLANTA - PA' QUE BAILE | E8",
         "url": "https://open.spotify.com/album/3wh602i26zmVempfRiWV9s"
       },
@@ -2119,6 +2099,26 @@
       "duration_ms": 147446,
       "name": "DJ ALEX, THE LA PLANTA - PA' QUE BAILE | E8",
       "url": "https://open.spotify.com/track/7LmjI4JFIq88OFF6kbBZJh"
+    },
+    {
+      "added_at": "2026-06-19 03:00:21",
+      "album": {
+        "name": "Este o Este (Guaracha)",
+        "url": "https://open.spotify.com/album/09zAdSWAEqa8NoyQmO6xMa"
+      },
+      "artists": [
+        {
+          "name": "Chichee",
+          "url": "https://open.spotify.com/artist/2ErncbMR6asOMKhjrUdmT3"
+        },
+        {
+          "name": "DJ Cuba",
+          "url": "https://open.spotify.com/artist/185gdgGAP7g2lZX9dVFDaE"
+        }
+      ],
+      "duration_ms": 117120,
+      "name": "Este o Este - Guaracha",
+      "url": "https://open.spotify.com/track/2uSeA4d12mQpsFxMHbnVxz"
     }
   ],
   "unique_name": "Joda",

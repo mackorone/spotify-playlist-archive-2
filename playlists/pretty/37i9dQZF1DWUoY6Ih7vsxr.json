@@ -1,6 +1,6 @@
 {
   "description": "Listen the 00's best collection of K-Pop dance. (Cover: 2NE1) (2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \ucf00\uc774\ud31d \ub304\uc2a4\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 356423,
+  "num_followers": 356538,
   "original_name": "Millennium K-Pop",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Fiction And Fact",
-        "url": "https://open.spotify.com/album/7bmaIj97ZBuFyDewh5lY4s"
-      },
-      "artists": [
-        {
-          "name": "Beast",
-          "url": "https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC"
-        }
-      ],
-      "duration_ms": 234586,
-      "name": "Fiction",
-      "url": "https://open.spotify.com/track/69QlYqNJeZG14R4an2aoJv"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "ALIVE",
         "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 236817,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/7GLlnuHjYIKy3YR59ziaQe"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "Fiction And Fact",
+        "url": "https://open.spotify.com/album/7bmaIj97ZBuFyDewh5lY4s"
+      },
+      "artists": [
+        {
+          "name": "Beast",
+          "url": "https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC"
+        }
+      ],
+      "duration_ms": 234586,
+      "name": "Fiction",
+      "url": "https://open.spotify.com/track/69QlYqNJeZG14R4an2aoJv"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -575,8 +575,8 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "SHAKE IT",
-        "url": "https://open.spotify.com/album/7wxGBt2oAGDjZ9CgPhQU8C"
+        "name": "ALONE",
+        "url": "https://open.spotify.com/album/5PXVRXQIPAXH0j78MfeDrV"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
         }
       ],
-      "duration_ms": 208506,
-      "name": "SHAKE IT",
-      "url": "https://open.spotify.com/track/59FBFyeST1vqN8G41YgFS6"
+      "duration_ms": 206266,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/40gUfKHwCNLpXowFN9Hvsu"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -659,8 +659,8 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "ALONE",
-        "url": "https://open.spotify.com/album/5PXVRXQIPAXH0j78MfeDrV"
+        "name": "SHAKE IT",
+        "url": "https://open.spotify.com/album/7wxGBt2oAGDjZ9CgPhQU8C"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
         }
       ],
-      "duration_ms": 206266,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/40gUfKHwCNLpXowFN9Hvsu"
+      "duration_ms": 208506,
+      "name": "SHAKE IT",
+      "url": "https://open.spotify.com/track/59FBFyeST1vqN8G41YgFS6"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Snow Pink",
-        "url": "https://open.spotify.com/album/19b3lwHo0nKeh11ZL2znNr"
-      },
-      "artists": [
-        {
-          "name": "Apink",
-          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
-        }
-      ],
-      "duration_ms": 234967,
-      "name": "My My",
-      "url": "https://open.spotify.com/track/7lrLDy8ZYL5KLx2Z9GZTaP"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "New Challenge",
         "url": "https://open.spotify.com/album/7to9h7fVE0VSyks3yz8kUA"
       },
@@ -1271,8 +1255,24 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "COLLECTION",
-        "url": "https://open.spotify.com/album/3Cenzci2VpnZbo1S9Ruade"
+        "name": "Snow Pink",
+        "url": "https://open.spotify.com/album/19b3lwHo0nKeh11ZL2znNr"
+      },
+      "artists": [
+        {
+          "name": "Apink",
+          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
+        }
+      ],
+      "duration_ms": 234967,
+      "name": "My My",
+      "url": "https://open.spotify.com/track/7lrLDy8ZYL5KLx2Z9GZTaP"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "To Anyone",
+        "url": "https://open.spotify.com/album/2SNSGfhfcfBLyQDTXMCPXG"
       },
       "artists": [
         {
@@ -1280,9 +1280,9 @@
           "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
         }
       ],
-      "duration_ms": 225373,
-      "name": "FIRE",
-      "url": "https://open.spotify.com/track/4q2HU9Ijpk4zJ24x7oMdXb"
+      "duration_ms": 213400,
+      "name": "Kiss (Dara)",
+      "url": "https://open.spotify.com/track/4kay2XPHGRBS1VaKIEL39K"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Seven Springs Of Apink",
-        "url": "https://open.spotify.com/album/6N7uosa9vVi6cI1LoVF64R"
-      },
-      "artists": [
-        {
-          "name": "Apink",
-          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
-        }
-      ],
-      "duration_ms": 224160,
-      "name": "I don't Know",
-      "url": "https://open.spotify.com/track/5DM5iNhImOgjBW3c5OgYLn"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "Lupin",
         "url": "https://open.spotify.com/album/0z3NBMOUlrNI3gLdy1V28s"
       },
@@ -1351,8 +1335,24 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "To Anyone",
-        "url": "https://open.spotify.com/album/2SNSGfhfcfBLyQDTXMCPXG"
+        "name": "Seven Springs Of Apink",
+        "url": "https://open.spotify.com/album/6N7uosa9vVi6cI1LoVF64R"
+      },
+      "artists": [
+        {
+          "name": "Apink",
+          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
+        }
+      ],
+      "duration_ms": 224160,
+      "name": "I don't Know",
+      "url": "https://open.spotify.com/track/5DM5iNhImOgjBW3c5OgYLn"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "COLLECTION",
+        "url": "https://open.spotify.com/album/3Cenzci2VpnZbo1S9Ruade"
       },
       "artists": [
         {
@@ -1360,9 +1360,9 @@
           "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
         }
       ],
-      "duration_ms": 213400,
-      "name": "Kiss (Dara)",
-      "url": "https://open.spotify.com/track/4kay2XPHGRBS1VaKIEL39K"
+      "duration_ms": 225373,
+      "name": "FIRE",
+      "url": "https://open.spotify.com/track/4q2HU9Ijpk4zJ24x7oMdXb"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Hard to love, How to love",
-        "url": "https://open.spotify.com/album/2x29rw7sHezje8lFwT1XCn"
-      },
-      "artists": [
-        {
-          "name": "Beast",
-          "url": "https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC"
-        }
-      ],
-      "duration_ms": 216868,
-      "name": "Shadow",
-      "url": "https://open.spotify.com/track/0yiW0iUlPQg5htp6GyR7v7"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "\uae30\ub300",
         "url": "https://open.spotify.com/album/2YxJHDVzL2rWt5ZoXPv0FM"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 186493,
       "name": "\ubc18\uc9dd\ubc18\uc9dd",
       "url": "https://open.spotify.com/track/3GYjMYmmvBIk0xwbQhAnQ8"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "Hard to love, How to love",
+        "url": "https://open.spotify.com/album/2x29rw7sHezje8lFwT1XCn"
+      },
+      "artists": [
+        {
+          "name": "Beast",
+          "url": "https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC"
+        }
+      ],
+      "duration_ms": 216868,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/0yiW0iUlPQg5htp6GyR7v7"
     },
     {
       "added_at": "2024-03-27 14:24:46",

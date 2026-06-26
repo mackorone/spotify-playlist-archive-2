@@ -1,12 +1,12 @@
 {
   "description": "This is Victor Ray. The essential tracks, all in one playlist.",
-  "num_followers": 5968,
+  "num_followers": 5970,
   "original_name": "This Is Victor Ray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajnMgAAAAACyNFuoCguwrrg3iqcaLQIV",
+  "snapshot_id": "ajseAAAAAAAyUhZBGHw6XH/2pNQuFvMa",
   "tracks": [
     {
       "added_at": null,
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
         }
       ],
-      "duration_ms": 175653,
-      "name": "Contagious",
-      "url": "https://open.spotify.com/track/4Q2XCNVJpBAKq5JYip3wye"
+      "duration_ms": 205720,
+      "name": "Disappear",
+      "url": "https://open.spotify.com/track/3GaogYQuDRFs0qhtriRvxX"
     },
     {
       "added_at": null,
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
         }
       ],
-      "duration_ms": 205720,
-      "name": "Disappear",
-      "url": "https://open.spotify.com/track/3GaogYQuDRFs0qhtriRvxX"
+      "duration_ms": 175653,
+      "name": "Contagious",
+      "url": "https://open.spotify.com/track/4Q2XCNVJpBAKq5JYip3wye"
     }
   ],
   "unique_name": "This Is Victor Ray",

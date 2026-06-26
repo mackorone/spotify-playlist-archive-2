@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,370 songs - 3 day 1 hr 12 min
+1,371 songs - 3 day 1 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -639,6 +639,7 @@
 | [Joy](https://open.spotify.com/track/17E3lZxFJnO49Gb0tdgVn0) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Joy](https://open.spotify.com/album/76GgZZUHQu2VQRLMXEIQcL) | 4:41 | 2021-12-17 | 2022-04-21 |
 | [Juliet & Romeo](https://open.spotify.com/track/1CRy08G60mS5jvhB27xMpS) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Juliet & Romeo](https://open.spotify.com/album/4ndTH1x8j5zYaidYSO5MXh) | 3:24 | 2020-09-05 | 2021-10-16 |
 | [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 | 2025-07-14 |  |
+| [Jump N' Shout \- Gorgon City Remix](https://open.spotify.com/track/2pbtSI3CJXfAE9ekE5qowg) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Jump N' Shout \(Gorgon City Remix\)](https://open.spotify.com/album/2G9F2xsIz3HFRmzDEW4RQR) | 3:57 | 2026-06-26 |  |
 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 | 2022-07-29 | 2023-05-27 |
 | [Jupiter Jazz](https://open.spotify.com/track/2T6rMXWYc934IWMudx1H1X) | [Galaxy 2 Galaxy](https://open.spotify.com/artist/2JW9UTb6ViFLYf7VQxBJqD) | [Galaxy 2 Galaxy: A High Tech Jazz Compilation](https://open.spotify.com/album/5f4gnlLgeEAj7RRoo4gIYV) | 4:30 | 2020-07-01 | 2020-10-13 |
 | [Just Feels Tight](https://open.spotify.com/track/2cegJfpyiaWXclqj5HRsZG) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Just Feels Tight](https://open.spotify.com/album/2Xz3H4wBkEFBNHqqxmw4nS) | 3:17 | 2021-08-10 | 2022-06-28 |
@@ -1144,7 +1145,7 @@
 | [Sun Is Dark](https://open.spotify.com/track/6Lmx1AyfNlmOVCW2Sxisnk) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn) | [Sun Is Dark](https://open.spotify.com/album/4cJpfipD6q3smdPwp8COoO) | 2:38 | 2024-04-05 | 2025-12-13 |
 | [Sun Is Shining \- Firebeatz Remix](https://open.spotify.com/track/3Uop3symAjwE1isIxJyaOP) | [Funkstar De Luxe](https://open.spotify.com/artist/1R5R9EyBe8MxRuD3BIXaV2), [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo) | [Sun Is Shining \(Firebeatz Remix\)](https://open.spotify.com/album/14zPM2izlAioJLeZMT1Vae) | 3:27 | 2020-05-22\* | 2022-04-20 |
 | [Sun Phase](https://open.spotify.com/track/1yfUYv5TOkuFbePQubZlEk) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Sun Phase](https://open.spotify.com/album/39UdQPn62ARMPc0NUNQOLE) | 5:16 | 2022-07-14 | 2022-07-30 |
-| [Sunny](https://open.spotify.com/track/7tZSQgFyzWAAtsb7OUUDbn) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO) | [Sunny](https://open.spotify.com/album/2VTfQy8ZPbdjvYzHCO0PVz) | 2:34 | 2025-05-02 |  |
+| [Sunny](https://open.spotify.com/track/7tZSQgFyzWAAtsb7OUUDbn) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO) | [Sunny](https://open.spotify.com/album/2VTfQy8ZPbdjvYzHCO0PVz) | 2:34 | 2025-05-02 | 2026-06-26 |
 | [Sunny Days \(with Dawn Tallman\)](https://open.spotify.com/track/12KVUsP4XTG3iDgzD4SjGu) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi), [Dawn Tallman](https://open.spotify.com/artist/0aCxspxNd9b6qyT8LJTpXW) | [Sunny Days \(with Dawn Tallman\)](https://open.spotify.com/album/4DTbuCQHJsUajJJmNbC4Yc) | 3:49 | 2020-10-13 | 2021-03-21 |
 | [Sunroof \- Loud Luxury Remix](https://open.spotify.com/track/1E8i4Xq9tH2LVWC0b1Sptj) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x), [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ) | [Sunroof \(Loud Luxury Remix\)](https://open.spotify.com/album/7LC439zjDcvAgdooLmL67Q) | 2:53 | 2022-08-19 | 2024-03-23 |
 | [Sunshine \(My Girl\)](https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Sunshine \(My Girl\)](https://open.spotify.com/album/7AE0HaidGUaRBSmIZmJ8As) | 2:11 | 2023-09-15 | 2026-01-15 |

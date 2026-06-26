@@ -2,9 +2,9 @@
 
 ### [Fresh Variété](https://open.spotify.com/playlist/37i9dQZF1DWSBZhfF4ZHr8)
 
-> Les meilleures nouveautés de la variété française avec marguerite
+> Les meilleures nouveautés de la variété française avec Lenie
 
-510 songs - 1 day 1 hr 4 min
+513 songs - 1 day 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Amour Propre](https://open.spotify.com/track/2tJwgIuMmG0XsuJ9LOl732) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [Amour Propre](https://open.spotify.com/album/6HBuRorkCC8wE32Ez5o9Zr) | 3:29 | 2025-10-23 | 2026-02-13 |
 | [Amoureuse](https://open.spotify.com/track/3PQmX1mupYapRFR57k7lea) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Nous deux \(Edition Deluxe\)](https://open.spotify.com/album/3L21t9BVqcJ8O49DlsCh3A) | 2:42 | 2026-02-19 | 2026-05-01 |
 | [Amère](https://open.spotify.com/track/2LKcg2tRu36P7WnvSeZSnX) | [Vernis Rouge](https://open.spotify.com/artist/6Miu2EYSCD74K7VzDYostC) | [Amère](https://open.spotify.com/album/7D1iEGT0tmSrwX2e0tlqDa) | 2:27 | 2024-06-27 | 2024-10-04 |
+| [Antidote](https://open.spotify.com/track/6N6IDk3LpuH5yw5iizcdzT) | [Lenie](https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF) | [Antidote](https://open.spotify.com/album/11euD1ywvH5CDv2IQEEzlL) | 2:34 | 2026-06-25 |  |
 | [Après nous](https://open.spotify.com/track/29y8gwKrKe8ppXXFg3ILqY) | [Sab](https://open.spotify.com/artist/0Nvj3odmXbXYyAvkyF4Eal), [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Après nous](https://open.spotify.com/album/7pJ9mUBe8H10izh3hbbBV9) | 3:01 | 2025-09-18 | 2025-12-12 |
 | [Au dessus des nuages](https://open.spotify.com/track/6ioB8gvjuMsrLxdlwJpeC1) | [Geoffrey](https://open.spotify.com/artist/3kB7ObACEFRh7mKeB1RstK) | [Au dessus des nuages](https://open.spotify.com/album/2hUw8a8vbQOWFLSYRYpwaT) | 2:29 | 2024-09-05 | 2024-11-22 |
 | [Au revoir au départ](https://open.spotify.com/track/0XUvdwliJwl40PGatwdeHV) | [Charles Doré](https://open.spotify.com/artist/5pkg2J5CWBiP3bPJZj5Ra9) | [Au revoir au départ](https://open.spotify.com/album/3vComKlyCoucrCMXFh6DYF) | 2:32 | 2026-02-05 | 2026-04-24 |
@@ -46,6 +47,7 @@
 | [Bijou](https://open.spotify.com/track/025HZ4WXMzptOa0SztQ8ky) | [Jeanne Gabrielle](https://open.spotify.com/artist/01DNT67EQW5Pcj6BIXHfnZ) | [Bijou](https://open.spotify.com/album/0WPPIiYdFOTI4WTR7bd31Y) | 2:49 | 2025-10-16 | 2026-02-13 |
 | [Bollywood](https://open.spotify.com/track/6YQuwMRXGbbBHGw54F1BPl) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Bollywood](https://open.spotify.com/album/6stKRosdbqJWhxg0GFxP34) | 2:52 | 2025-04-17 | 2025-05-23 |
 | [Bonjour docteur](https://open.spotify.com/track/5DCa18LuNfuTRwW78k4ocS) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Bonjour docteur](https://open.spotify.com/album/1ceUkJZZo7FYSOEVgd1upM) | 3:25 | 2026-03-19 | 2026-06-19 |
+| [Boosté](https://open.spotify.com/track/16IuR7rJKqCkeOfr5jpD4o) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Boosté](https://open.spotify.com/album/5GJC5yrXFNPyQ2TXNiC8j2) | 2:45 | 2026-06-25 |  |
 | [Boule au ventre](https://open.spotify.com/track/4P3CwJ2gqym33wJKeeOl4j) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Hélé](https://open.spotify.com/album/78tVFMGbPWdm1S86JyC017) | 3:00 | 2025-11-20 | 2026-01-16 |
 | [boum boum barbie](https://open.spotify.com/track/51qU69BObybLoJS2grfKBG) | [Marie Jay](https://open.spotify.com/artist/3EfWdPE7TccXs99V0WuOZY) | [boum boum barbie](https://open.spotify.com/album/1n4g3xXJbgPb9eR0CP9wLP) | 2:24 | 2026-03-05 | 2026-05-29 |
 | [Butterfly](https://open.spotify.com/track/4FsPvaASzHNVGs0vFXavBo) | [Superbus](https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq), [RORI](https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I) | [Butterfly](https://open.spotify.com/album/3rOI7YmGY7hVB8m7YZ8HPY) | 3:43 | 2025-06-12 | 2025-09-13 |
@@ -342,6 +344,7 @@
 | [On s'écrira](https://open.spotify.com/track/2BCdppopkwUrAHw6nepqRD) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F), [Loïc Nottet](https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu) | [On s'écrira](https://open.spotify.com/album/0cJEP5ecTZ0CObshdrHBCs) | 2:52 | 2024-09-19 | 2024-11-29 |
 | [Oser](https://open.spotify.com/track/2OwSd94EtSFh5dzrp4SFWY) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Oser](https://open.spotify.com/album/2fl3JX1Iq19Ar3ByUKlZoQ) | 2:34 | 2025-01-09 | 2025-02-21 |
 | [Oublier](https://open.spotify.com/track/08ERabruhqMIkZOlIPKIDb) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Oublier](https://open.spotify.com/album/5Ezw4AdjahQsjz7U3iXIec) | 2:48 | 2025-09-11 | 2025-10-10 |
+| [OUTSIDER](https://open.spotify.com/track/3v54oq1rGWMrijBrnlNvRy) | [lowey](https://open.spotify.com/artist/0bHn6CXor3W20fGzNqUe8P) | [TOUT EST ORANGE](https://open.spotify.com/album/7HoemZY2tGpDGfAAF5hIVA) | 2:01 | 2026-06-25 |  |
 | [page blanche](https://open.spotify.com/track/4Etuqcijo0qS68x7soXNof) | [Moyà](https://open.spotify.com/artist/1Xvap7Au9MqLcUJUCPcJp1) | [page blanche](https://open.spotify.com/album/1pKpHIgiVxXMSRzcxyYXo9) | 2:42 | 2025-06-12 | 2025-07-11 |
 | [Panique à Paris \(TimeMachine 1985 Remix\)](https://open.spotify.com/track/0BlzANbVeirejZbA531CM5) | [Lucille](https://open.spotify.com/artist/5GPmxu2WE6tusMcK0WQdS2), [TimeMachine1985](https://open.spotify.com/artist/2XgfAq6E80cypDmNZ5JXGv) | [Panique à Paris \(TimeMachine 1985 Remix\)](https://open.spotify.com/album/6BLMYvSZkyIvfZdp0psSsu) | 3:00 | 2025-02-06 | 2025-03-16 |
 | [Papa](https://open.spotify.com/track/4LXEefVm05vkHCF43zC8bJ) | [DAYSY](https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk) | [Papa](https://open.spotify.com/album/093D26r87WUjIS9cPvSuOT) | 2:49 | 2024-06-27 | 2024-09-20 |
@@ -377,12 +380,12 @@
 | [Pour l'éternité](https://open.spotify.com/track/7c2G5O1aLTELM9U9UFroMR) | [Linh](https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj) | [Pour l'éternité](https://open.spotify.com/album/6v29dTzAAGyX5jXC65ujw4) | 2:59 | 2026-02-05 | 2026-05-01 |
 | [Pourquoi ?](https://open.spotify.com/track/58Pie8O9NHYEITXYzkqbLm) | [Patxi](https://open.spotify.com/artist/0gSwb8hjVjngaLSPYOcpy9), [Sylvain Duthu](https://open.spotify.com/artist/7mlvN5fTEjTUBLuUbUPpW6) | [Pourquoi ?](https://open.spotify.com/album/2tNEEMApXdjVjHbV3EzPcP) | 2:58 | 2026-01-22 | 2026-04-10 |
 | [Pourquoi c'est ma faute](https://open.spotify.com/track/0wBlKAIz4OHYOmqPgyr0D0) | [Camille LV](https://open.spotify.com/artist/73MUbbxCJGpiMBz0fFO8is) | [Pourquoi c'est ma faute](https://open.spotify.com/album/53PrOEpLchGMYxlFfUQs0a) | 2:26 | 2025-11-13 | 2026-02-06 |
-| [Pourquoi tu m'aimes ?](https://open.spotify.com/track/3QHijDVJc8IoanrBD1J2Ha) | [EMA](https://open.spotify.com/artist/5sBs3oeSyC5mNZimFy1QHY) | [Pourquoi tu m'aimes ?](https://open.spotify.com/album/4nzCs9Ub1F8BKG7aDwofdE) | 2:24 | 2026-03-26 |  |
+| [Pourquoi tu m'aimes ?](https://open.spotify.com/track/3QHijDVJc8IoanrBD1J2Ha) | [EMA](https://open.spotify.com/artist/5sBs3oeSyC5mNZimFy1QHY) | [Pourquoi tu m'aimes ?](https://open.spotify.com/album/4nzCs9Ub1F8BKG7aDwofdE) | 2:24 | 2026-03-26 | 2026-06-26 |
 | [Pourquoi tu restes](https://open.spotify.com/track/75xZpzWWuTbTMdloVuQ67M) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f) | [MINUIT UNE](https://open.spotify.com/album/3VPbTdf159bD51i91Sw6Aj) | 2:47 | 2025-06-05 | 2025-09-19 |
 | [Première fois](https://open.spotify.com/track/2yaVFrD8ugHhld6t6Nwaxt) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Il faut que tu saches](https://open.spotify.com/album/6rX8V0Vs9oaGB8LgrUOcn1) | 2:40 | 2025-12-04 | 2026-03-13 |
 | [Princesse chaos \- Marine's Version](https://open.spotify.com/track/1W1U19EsKUKhOBl82GgpWL) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy), [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Princesse chaos \(Marine's Version\)](https://open.spotify.com/album/7CG9GuXWH0BnbRTtdFJrvj) | 2:55 | 2026-06-11 |  |
 | [Princesse de la nuit](https://open.spotify.com/track/75qwPX1KWjKBA6oMN4msvO) | [Oria](https://open.spotify.com/artist/2tcokte1gClrCRw645UFYR) | [Princesse de la nuit](https://open.spotify.com/album/1wWpr7rUvnhihjJTaxu8sR) | 3:30 | 2026-03-16 | 2026-06-19 |
-| [Problème \(feat\. La Fouine\)](https://open.spotify.com/track/4xwa2sVbOq5WEeW998mzk9) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [La Fouine](https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd) | [VERSATILE](https://open.spotify.com/album/0owIvIFEbUN6xtsplJHOjZ) | 2:42 | 2026-04-02 |  |
+| [Problème \(feat\. La Fouine\)](https://open.spotify.com/track/4xwa2sVbOq5WEeW998mzk9) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [La Fouine](https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd) | [VERSATILE](https://open.spotify.com/album/0owIvIFEbUN6xtsplJHOjZ) | 2:42 | 2026-04-02 | 2026-06-26 |
 | [problème problème](https://open.spotify.com/track/06GlYvE9CUWUV83OUrDBUI) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [problème problème](https://open.spotify.com/album/3dqSveAkJ0DezC4IkzS3qE) | 2:38 | 2025-11-06 | 2026-02-13 |
 | [Prêt à t'aimer](https://open.spotify.com/track/71pTdNcN3lieAQj3BPDn13) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Verano](https://open.spotify.com/album/3bLdmgVrspGmk8M8Goqhw8) | 3:17 | 2026-01-22 | 2026-04-10 |
 | [Puzzle](https://open.spotify.com/track/64CmepzkypgxrWLhbkB27E) | [Lujipeka](https://open.spotify.com/artist/1eTRyiHsWMoWKPD6s4Kiqt) | [PAULISE + PUZZLE](https://open.spotify.com/album/0NVSvL5BYQwQsoAZ3vOB8h) | 2:35 | 2025-06-05 | 2025-09-19 |
@@ -415,7 +418,7 @@
 | [Résister \(What about Peace?\)](https://open.spotify.com/track/46fePeAZ2ui3QHDoGxpDMx) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Résister \(What about Peace?\)](https://open.spotify.com/album/3lrK6iynnWj1oO1fONiQ9I) | 3:10 | 2024-06-27 | 2024-10-04 |
 | [Rêve](https://open.spotify.com/track/6vx7Db8JvhiuX6i36kFOkH) | [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Rêve](https://open.spotify.com/album/1J0EFmYDNoOr7EXXcedTm5) | 2:36 | 2025-10-09 | 2025-11-28 |
 | [Sage](https://open.spotify.com/track/7dWF43SRnWnqRNVXTa43lG) | [Cobalt](https://open.spotify.com/artist/6WgLIuTWmYjBTFN64iv7ZB) | [Sincère](https://open.spotify.com/album/4kuvu8IkLHyb3yodU8qNZ5) | 2:45 | 2025-09-11 | 2025-10-17 |
-| [SALES GOSSES](https://open.spotify.com/track/1xQTJT3CIkboRAChRaqm9O) | [lowey](https://open.spotify.com/artist/0bHn6CXor3W20fGzNqUe8P) | [SALES GOSSES](https://open.spotify.com/album/5kq4F80Q0hEIyRz2YM7nGh) | 2:23 | 2026-05-07 |  |
+| [SALES GOSSES](https://open.spotify.com/track/1xQTJT3CIkboRAChRaqm9O) | [lowey](https://open.spotify.com/artist/0bHn6CXor3W20fGzNqUe8P) | [SALES GOSSES](https://open.spotify.com/album/5kq4F80Q0hEIyRz2YM7nGh) | 2:23 | 2026-05-07 | 2026-06-26 |
 | [Sans toi](https://open.spotify.com/track/7F67nFKCxSnDdSJwOkZQCn) | [Hugo Nogam](https://open.spotify.com/artist/3A08xhQd902eJmnI5U0bJe) | [Sans toi](https://open.spotify.com/album/6dIHkbZtnkMcNa9ITpFgWu) | 2:45 | 2024-09-26 | 2024-11-15 |
 | [Sans toi](https://open.spotify.com/track/6o7M2MVp3DrPGJcR3ZHRsv) | [Lenie](https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF) | [Sans toi](https://open.spotify.com/album/6XRgeirorxvr1SNfZGcnVI) | 3:34 | 2024-10-03 | 2025-01-10 |
 | [Sans vous](https://open.spotify.com/track/3i0STV9zBlqhMKZQTgcIJ0) | [Sauvan](https://open.spotify.com/artist/4wBeyqtkhN19P3XJCyfq4y) | [Sans vous](https://open.spotify.com/album/1eOVvClP4oRDq109ulCNUi) | 2:40 | 2024-11-14 | 2024-12-20 |

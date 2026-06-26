@@ -4,7 +4,7 @@
 
 > Tu dosis diaria de rock 📸 El Kuelgue
 
-466 songs - 1 day 5 hr 35 min
+468 songs - 1 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Creo](https://open.spotify.com/track/5Bi9Cq5oVFy1OtUgecbegZ) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Señales](https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy) | 4:49 | 2022-06-29 |  |
 | [Crimen](https://open.spotify.com/track/3oqWr0jDWNXxWufNogGREp) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 3:52 | 2022-06-29 |  |
 | [Cualquier Luz](https://open.spotify.com/track/6GWoIeMRAO4URuf37QLmNL) | [Cielo Razzo](https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu) | [Cualquier Luz](https://open.spotify.com/album/695WkAoQNgfYYhM5WFARtK) | 3:52 | 2022-07-01 | 2022-07-05 |
+| [Cuando habla el corazón](https://open.spotify.com/track/3xUFEIcBssbf46DOOZKiw0) | [Francia 98](https://open.spotify.com/artist/6me7j5R08ARYKASHiqhvcu), [Jorge Serrano](https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF) | [Cuando habla el corazón](https://open.spotify.com/album/5BwjoQp8RdXwrVhWX736ta) | 3:32 | 2026-06-26 |  |
 | [Cuando Me Muera](https://open.spotify.com/track/3gvaShbCuEoL51efZWtpIs) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Probame \(Demo\)](https://open.spotify.com/album/2fs5He9XpcqbqLud8QSRyv) | 2:06 | 2022-07-06 | 2022-07-12 |
 | [Cuando Me Muera](https://open.spotify.com/track/1rvg63zCuXz8gLYDnASEmK) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Probame](https://open.spotify.com/album/7lVtD74Hhay5GHEC74kEsP) | 2:57 | 2025-07-11 | 2025-07-18 |
 | [Cuando Salga](https://open.spotify.com/track/3s2cde8fJsUFnZyFBrK8TE) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Cuando Salga](https://open.spotify.com/album/06moxnFs4jYIkze2FPxJFs) | 4:01 | 2022-07-01 | 2022-07-29 |
@@ -159,7 +160,7 @@
 | [Esplín](https://open.spotify.com/track/1CjA0TtKx6IMlSmKer9Wyw) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Puertas](https://open.spotify.com/album/0YyiLprwcLOytMKd4ES5tq) | 4:38 | 2025-05-23 |  |
 | [Estampita](https://open.spotify.com/track/3vaV6ERdDONqCzXvqxuutE) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Estampita](https://open.spotify.com/album/6Z1DpEiOF3BMj67ZukNgSL) | 4:44 | 2022-07-15 | 2022-07-17 |
 | [Este Misterio](https://open.spotify.com/track/0Na1RP9HDaKPaU90cCF5ra) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Las Lunas](https://open.spotify.com/album/4iCgdNm7iU0GDegH0hEnVJ) | 4:22 | 2022-07-06 | 2022-07-25 |
-| [Estocolmo](https://open.spotify.com/track/5Td1HTNA1KWwYJurEgh0Wx) | [Ale Kurz](https://open.spotify.com/artist/6702vlPBoiA7zeDvv6wPkW) | [Estocolmo](https://open.spotify.com/album/6yy9GaqwkCnybxNNnmaOvI) | 3:40 | 2026-05-15 |  |
+| [Estocolmo](https://open.spotify.com/track/5Td1HTNA1KWwYJurEgh0Wx) | [Ale Kurz](https://open.spotify.com/artist/6702vlPBoiA7zeDvv6wPkW) | [Estocolmo](https://open.spotify.com/album/6yy9GaqwkCnybxNNnmaOvI) | 3:40 | 2026-05-15 | 2026-06-26 |
 | [Euforia y Furia](https://open.spotify.com/track/5lt3j3lvo6YEsxgJh9ceNv) | [Javier Calamaro](https://open.spotify.com/artist/6tPLRbaYWgZXppgsyKQ2M5), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Euforia y Furia](https://open.spotify.com/album/3E4z7zd4fUHd9ZUvoTmlBC) | 3:47 | 2022-07-19 | 2022-07-24 |
 | [Excusa](https://open.spotify.com/track/2SFHPqjgKmlVMcNTBRvIIU) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [Excusa](https://open.spotify.com/album/3XvY5etZVkqTQHV3Ha4tEH) | 4:21 | 2026-05-07 | 2026-05-15 |
 | [Extraterrestre](https://open.spotify.com/track/1fS21qlEIAQQNLFLc0I6d2) | [LUASÓ](https://open.spotify.com/artist/1KzX3Ca3tJTAcaj7bbWqM7) | [Extraterrestre](https://open.spotify.com/album/5ai9UWw22PDwImiMWB39x7) | 3:39 | 2025-11-19 | 2026-01-15 |
@@ -230,6 +231,7 @@
 | [La Sangre](https://open.spotify.com/track/7hT14hKoS60U4wdPEPPei2) | [Videotape](https://open.spotify.com/artist/1mgBvxATqGK1YZPzThNHnW), [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf) | [La Sangre](https://open.spotify.com/album/267R1MP85lzgBWHRjOLukU) | 3:37 | 2025-05-02 | 2025-07-11 |
 | [La Vida Cura](https://open.spotify.com/track/70H9KzJ3vy5655EHTpdiP4) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Devorando Intensidad](https://open.spotify.com/album/16ycW7h7bErtyFt9CI5BN8) | 4:12 | 2022-07-06 | 2022-07-14 |
 | [La Vida Es Así](https://open.spotify.com/track/1Zsu6m9PyxwcpyUcw3yQgk) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [La Vida Es Así](https://open.spotify.com/album/4A5ZpkfXDkiVFXrQWQQv8s) | 3:56 | 2022-07-19 | 2022-07-28 |
+| [La vida y una pelota](https://open.spotify.com/track/6bA8TndkjRvWrEYCwJU2zz) | [SANTACRUZ](https://open.spotify.com/artist/42q0iHNbkj0YS8kp0QuOp2), [Martin Lopez](https://open.spotify.com/artist/2HeuIrj5ldDUqd8zv79S4y) | [La vida y una pelota](https://open.spotify.com/album/2F0TDZSceVq6QlSGQVnmzD) | 3:01 | 2026-06-26 |  |
 | [Lago en el Cielo](https://open.spotify.com/track/17eJyYLIlMNlOqcwHYJ9F2) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 5:08 | 2022-06-29 | 2023-01-28 |
 | [Las Arañas](https://open.spotify.com/track/0DC2xgdAaunixqno818mZo) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Las Arañas](https://open.spotify.com/album/146l6kCOT77xMMjJQIPeTK) | 2:59 | 2025-02-21 | 2025-04-04 |
 | [Las cosas que no se tocan](https://open.spotify.com/track/5Y3T9zncw2XDAcn9pFliKT) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otro Día en el Planeta Tierra](https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC) | 3:34 | 2023-11-10 |  |
@@ -450,7 +452,7 @@
 | [Una Palabra](https://open.spotify.com/track/2RxycdRveRxXn2eWXcZuao) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Una Palabra](https://open.spotify.com/album/3LlQh3lUz1VEpkbi0X16MY) | 3:42 | 2026-04-10 | 2026-05-08 |
 | [Una Tregua](https://open.spotify.com/track/7bZ8erPLv4zulyDVL66dJQ) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Hija del Rigor](https://open.spotify.com/album/3q4AvWqFjeQRtR8zj1A5QO) | 3:30 | 2022-07-06 | 2022-11-08 |
 | [Una Vez Más](https://open.spotify.com/track/4gPlgQtE8ZbtWSoADLneBw) | [Lucho Al A77AQUE](https://open.spotify.com/artist/2cloS9NWMDt9emhfy9QUmA) | [Una Vez Más](https://open.spotify.com/album/6iZCkRzYbbwYLiHXLBn2mk) | 3:11 | 2023-08-18 | 2023-09-22 |
-| [Una Vida Más](https://open.spotify.com/track/3DrUefe54Lh14hPrhA4W4Y) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [FLORECE EN EL CAOS](https://open.spotify.com/album/1dFtJQK4H3PlsaPP2WZrdl) | 4:03 | 2026-01-12 |  |
+| [Una Vida Más](https://open.spotify.com/track/3DrUefe54Lh14hPrhA4W4Y) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [FLORECE EN EL CAOS](https://open.spotify.com/album/1dFtJQK4H3PlsaPP2WZrdl) | 4:03 | 2026-01-12 | 2026-06-26 |
 | [Va A Escampar](https://open.spotify.com/track/4MPwBYidOWnwpKlqQYJEzX) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 4:41 | 2022-07-19 |  |
 | [Valle de Valium](https://open.spotify.com/track/639KxyOYhHgaovDipRf4RY) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Valle de Valium](https://open.spotify.com/album/6N2LPGfUDWFcxWRL6eOG7S) | 2:07 | 2022-07-19 | 2022-07-25 |
 | [Vamos a Casarnos](https://open.spotify.com/track/1ueROprUNDd0Mv8QfT49b4) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [El Ángel Que Soy](https://open.spotify.com/album/6Za93DEEDEuv6W7K61UNGg) | 3:19 | 2025-06-27 | 2025-07-11 |

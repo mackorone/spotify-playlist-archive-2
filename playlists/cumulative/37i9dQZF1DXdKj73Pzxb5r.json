@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover:  Leonardo Ringo",
+  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Pertunjukan",
   "name": "Skena Gres",
   "tracks": [
     {
@@ -150,6 +150,42 @@
       "duration_ms": 210278,
       "name": "A Man, a Bottle, and a Prayer",
       "url": "https://open.spotify.com/track/6Bhtdq0Rut7PCWOpdRxQ0W"
+    },
+    {
+      "album": {
+        "name": "A Shadow Haunts My Mind",
+        "url": "https://open.spotify.com/album/7M7qEP3shhxEaNmGhmtEoU"
+      },
+      "artists": [
+        {
+          "name": "Nood Kink",
+          "url": "https://open.spotify.com/artist/2GLo4KW2K9FeeJ67D2Hqt1"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232480,
+      "name": "A Shadow Haunts My Mind",
+      "url": "https://open.spotify.com/track/6G9YE4s6kdXTf8fseBeSww"
+    },
+    {
+      "album": {
+        "name": "ACCIDENT",
+        "url": "https://open.spotify.com/album/7fZfi9O4LBL2v7D9eRjwW5"
+      },
+      "artists": [
+        {
+          "name": "Bara Dita",
+          "url": "https://open.spotify.com/artist/2lADVhtxaYCp3iVe4JSM2I"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "ACCIDENT",
+      "url": "https://open.spotify.com/track/6IaG43KmrsLtp6YRWpkxsj"
     },
     {
       "album": {
@@ -1312,10 +1348,28 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 215944,
       "name": "Cakrawala",
       "url": "https://open.spotify.com/track/50wkkSJD0ZBvxRZWh3m15E"
+    },
+    {
+      "album": {
+        "name": "Call It Your Mistake",
+        "url": "https://open.spotify.com/album/5xOhQEgZgCDqKmqSQQJw8l"
+      },
+      "artists": [
+        {
+          "name": "Woodland Ginger",
+          "url": "https://open.spotify.com/artist/31YUuJ5b2ItoNYS7zknifj"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248347,
+      "name": "Call It Your Mistake",
+      "url": "https://open.spotify.com/track/0ChzQqTVCak89QbSa8h6oX"
     },
     {
       "album": {
@@ -1714,7 +1768,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 248703,
       "name": "Corak Di Balik Debu",
       "url": "https://open.spotify.com/track/2QyZG0qi1M6467e9PGBvRz"
@@ -1758,6 +1812,24 @@
       "duration_ms": 278259,
       "name": "Curtains",
       "url": "https://open.spotify.com/track/0cTbckdChO9Z4xdVy6FL6k"
+    },
+    {
+      "album": {
+        "name": "(\u00bd) Biograph",
+        "url": "https://open.spotify.com/album/3cvo1VOztfBcc92nbS9HjZ"
+      },
+      "artists": [
+        {
+          "name": "Bhanu Marais",
+          "url": "https://open.spotify.com/artist/0lNHnWpu3fCw1Hb2y0QOSj"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "D(is)pleasing",
+      "url": "https://open.spotify.com/track/3izN9L8dmuvFz8mdaVvWEp"
     },
     {
       "album": {
@@ -2212,7 +2284,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 229714,
       "name": "Don't Hold Me Just To Hold On",
       "url": "https://open.spotify.com/track/7aqLZzTRqYXpMXyHjHID6p"
@@ -2274,7 +2346,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 230313,
       "name": "Don't You Say I'm in Love",
       "url": "https://open.spotify.com/track/2wExzqXugXYiquPFiQSpaO"
@@ -2675,6 +2747,24 @@
     },
     {
       "album": {
+        "name": "Fashion Star",
+        "url": "https://open.spotify.com/album/0dnYbCK4yVF0y9dhwfFwzf"
+      },
+      "artists": [
+        {
+          "name": "Helicat",
+          "url": "https://open.spotify.com/artist/14n0XRttSZ4loKncdbUXe3"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218636,
+      "name": "Fashion Star",
+      "url": "https://open.spotify.com/track/1iKk2lQGjltQkxqXm7SFb9"
+    },
+    {
+      "album": {
         "name": "Fatamorgana",
         "url": "https://open.spotify.com/album/7IyIwRaq66irZCv1n8sdEo"
       },
@@ -2740,7 +2830,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 204788,
       "name": "Fell 4 U",
       "url": "https://open.spotify.com/track/2NW2dhhqVi2zyWWrht0Yxh"
@@ -2928,7 +3018,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 211542,
       "name": "From The Children\u2019s Eye",
       "url": "https://open.spotify.com/track/067o37QQDovPO0i9K50b5o"
@@ -2950,7 +3040,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 230769,
       "name": "Galau is so 2002 - Love as Punishment Version",
       "url": "https://open.spotify.com/track/4nrxQle0ia64LHS9Rw9kqJ"
@@ -3990,7 +4080,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 241040,
       "name": "Jalan Nan Buntu",
       "url": "https://open.spotify.com/track/0D2nnlk9PKm6uXTJY5EF7K"
@@ -4012,6 +4102,24 @@
       "duration_ms": 225281,
       "name": "Jalur Bebas Hambatan",
       "url": "https://open.spotify.com/track/0WKfFli4wfhr04p0CYuicl"
+    },
+    {
+      "album": {
+        "name": "Senandung Pekerja",
+        "url": "https://open.spotify.com/album/0SUxEY7bUCi6VhpWs4M3lP"
+      },
+      "artists": [
+        {
+          "name": "nahumlogo",
+          "url": "https://open.spotify.com/artist/4OqnEEb9fFHPGlNmZL92Vr"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184320,
+      "name": "Jam 7",
+      "url": "https://open.spotify.com/track/0n1ubTdXNGocfQnxPAy7cr"
     },
     {
       "album": {
@@ -4230,7 +4338,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 281074,
       "name": "Juang Angan",
       "url": "https://open.spotify.com/track/1wwTYjfLeD82rVxLuV7mef"
@@ -4950,7 +5058,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 162206,
       "name": "Lapdog",
       "url": "https://open.spotify.com/track/3519Kdoa7IqSOjDTKPdWTJ"
@@ -6194,7 +6302,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 205080,
       "name": "More Time",
       "url": "https://open.spotify.com/track/1eFYjbLIN7ifJFiyn6uGfg"
@@ -6716,7 +6824,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 241500,
       "name": "Palsu (Sudah Seribu Kata)",
       "url": "https://open.spotify.com/track/2jQ8tDxE3Z82RoBRcCaQBO"
@@ -7349,6 +7457,24 @@
     },
     {
       "album": {
+        "name": "Rain Pour Out",
+        "url": "https://open.spotify.com/album/1nGaGKOThSNt35oLBBtno9"
+      },
+      "artists": [
+        {
+          "name": "Nathalie Ezmeralda",
+          "url": "https://open.spotify.com/artist/317pXIcioJR0xIA5PnBUk0"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223500,
+      "name": "Rain Pour Out",
+      "url": "https://open.spotify.com/track/7duiQfpsL49c8UlRMqgUE4"
+    },
+    {
+      "album": {
         "name": "Rasamala",
         "url": "https://open.spotify.com/album/2LmJQvFGcHHdGRKhdD3I2M"
       },
@@ -7360,7 +7486,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 186000,
       "name": "Rasamala",
       "url": "https://open.spotify.com/track/0BwtyCdzdDTQrDbRXsa7mT"
@@ -7581,6 +7707,24 @@
     },
     {
       "album": {
+        "name": "REFLECTIONS",
+        "url": "https://open.spotify.com/album/24Sb1huCPgcnMD0amvFZak"
+      },
+      "artists": [
+        {
+          "name": "BEEMS",
+          "url": "https://open.spotify.com/artist/3yMqTkJp45JOiDtMvfcS8r"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167439,
+      "name": "ROSES",
+      "url": "https://open.spotify.com/track/5G4ijkq6GDdMYLKRMvz3rV"
+    },
+    {
+      "album": {
         "name": "Rufus/Odyssey",
         "url": "https://open.spotify.com/album/3Ru1lWqR5bT9AhxZJRsgcb"
       },
@@ -7748,7 +7892,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 238050,
       "name": "Sampai Mati",
       "url": "https://open.spotify.com/track/4brgarWvSnBR9NNWg7awHr"
@@ -8275,6 +8419,24 @@
     },
     {
       "album": {
+        "name": "Si Baik",
+        "url": "https://open.spotify.com/album/4XX0Rgksb8B562ynOz63oV"
+      },
+      "artists": [
+        {
+          "name": "Inoya House",
+          "url": "https://open.spotify.com/artist/5ItIPaGaHbUvu2zEFPfwBB"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256745,
+      "name": "Si Baik",
+      "url": "https://open.spotify.com/track/3z95u68kKOJR6mWHhll5yq"
+    },
+    {
+      "album": {
         "name": "Si Bungsu",
         "url": "https://open.spotify.com/album/2p7F424qcATGk0mezA7qfF"
       },
@@ -8452,7 +8614,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 204590,
       "name": "Smile Like The Sun",
       "url": "https://open.spotify.com/track/5Xxtcc2F184IUgv11QjjhO"
@@ -8618,6 +8780,24 @@
       "duration_ms": 200000,
       "name": "Stay Asleep",
       "url": "https://open.spotify.com/track/5yHboJF2EN6Z3s1EPKOF1I"
+    },
+    {
+      "album": {
+        "name": "Still Show Up In My Dreams",
+        "url": "https://open.spotify.com/album/10cUjLMfzIiW04wbkjY5HJ"
+      },
+      "artists": [
+        {
+          "name": "Novascotia",
+          "url": "https://open.spotify.com/artist/66k4IwKEoPu01TMuaQf8mT"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181124,
+      "name": "Still Show Up In My Dreams",
+      "url": "https://open.spotify.com/track/7IRpzzB50WVSaNgPto8J8X"
     },
     {
       "album": {
@@ -9184,7 +9364,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 242833,
       "name": "Tenggelam",
       "url": "https://open.spotify.com/track/1SZMxDGWDiKa9Jb5van3nA"
@@ -9246,6 +9426,24 @@
       "duration_ms": 236212,
       "name": "Terdiasi",
       "url": "https://open.spotify.com/track/1UZKEWCeZ2Zv3BanLxDFD6"
+    },
+    {
+      "album": {
+        "name": "Forever Rookie",
+        "url": "https://open.spotify.com/album/1obGCezp3PbFNmFoutJfiZ"
+      },
+      "artists": [
+        {
+          "name": "Pertunjukan",
+          "url": "https://open.spotify.com/artist/3LCVPJDhAuLXDGiNCb6Km4"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213090,
+      "name": "Terlalu Cepat",
+      "url": "https://open.spotify.com/track/5I3AAqrQzhDNJO3U8iocn4"
     },
     {
       "album": {

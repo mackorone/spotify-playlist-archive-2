@@ -7737,6 +7737,24 @@
     },
     {
       "album": {
+        "name": "Really Works",
+        "url": "https://open.spotify.com/album/0Meej6kMeW5Dzt1z38LiyD"
+      },
+      "artists": [
+        {
+          "name": "Y U QT",
+          "url": "https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177500,
+      "name": "Really Works",
+      "url": "https://open.spotify.com/track/4kZFD8wkXMkBwBcW69aEWx"
+    },
+    {
+      "album": {
         "name": "RECALLING",
         "url": "https://open.spotify.com/album/4jnkH8gApLeaATGMVhe1AL"
       },

@@ -1,6 +1,6 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 285583,
+  "num_followers": 285581,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
@@ -731,6 +731,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "The Very Best Yet (The Very Best Yet Version)",
+        "url": "https://open.spotify.com/album/2BgbVFW7nmYTDWuhqNMuAq"
+      },
+      "artists": [
+        {
+          "name": "The Hillbilly Moonshiners Bluegrass Band",
+          "url": "https://open.spotify.com/artist/6BcK7PtPC4B4buhH0wsLua"
+        }
+      ],
+      "duration_ms": 218091,
+      "name": "Can't Feel My Face - The Very Best Yet Version",
+      "url": "https://open.spotify.com/track/5NM7wEj9onAnCEQ65X8AMH"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Gum Tree Canoe",
         "url": "https://open.spotify.com/album/13BUiVlKesdaWPgQqozhYv"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 278854,
       "name": "My Love (Live)",
       "url": "https://open.spotify.com/track/7L9CcpZEfjZQT7LsZuQFWw"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "The Very Best Yet (The Very Best Yet Version)",
-        "url": "https://open.spotify.com/album/2BgbVFW7nmYTDWuhqNMuAq"
-      },
-      "artists": [
-        {
-          "name": "The Hillbilly Moonshiners Bluegrass Band",
-          "url": "https://open.spotify.com/artist/6BcK7PtPC4B4buhH0wsLua"
-        }
-      ],
-      "duration_ms": 218091,
-      "name": "Can't Feel My Face - The Very Best Yet Version",
-      "url": "https://open.spotify.com/track/5NM7wEj9onAnCEQ65X8AMH"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Defying Gravity",
-        "url": "https://open.spotify.com/album/2RoHp3yp5WgYAiFN5uCE5k"
-      },
-      "artists": [
-        {
-          "name": "Austin Brown: The Covers",
-          "url": "https://open.spotify.com/artist/7BTVjewQkmSmvHAzEqIl36"
-        }
-      ],
-      "duration_ms": 184687,
-      "name": "Defying Gravity",
-      "url": "https://open.spotify.com/track/3sCMvJ9DOm6vwt8DzkC2tm"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Rhapsody in Blue (grass)",
         "url": "https://open.spotify.com/album/5XeyyuXub22TpOXd3B1RzB"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 226901,
       "name": "American Tune",
       "url": "https://open.spotify.com/track/6y7lQfGN3tfNyZT0Yi8V2m"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Defying Gravity",
+        "url": "https://open.spotify.com/album/2RoHp3yp5WgYAiFN5uCE5k"
+      },
+      "artists": [
+        {
+          "name": "Austin Brown: The Covers",
+          "url": "https://open.spotify.com/artist/7BTVjewQkmSmvHAzEqIl36"
+        }
+      ],
+      "duration_ms": 184687,
+      "name": "Defying Gravity",
+      "url": "https://open.spotify.com/track/3sCMvJ9DOm6vwt8DzkC2tm"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "He Called Me Baby",
-        "url": "https://open.spotify.com/album/7aiK72YOfer4Rx9KzSOnak"
-      },
-      "artists": [
-        {
-          "name": "AJ Lee & Blue Summit",
-          "url": "https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr"
-        }
-      ],
-      "duration_ms": 279198,
-      "name": "He Called Me Baby",
-      "url": "https://open.spotify.com/track/07XgjLPy8zK8ppSZ7r38gb"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Wagon Wheel",
         "url": "https://open.spotify.com/album/7cPsrl4X5vxDsoL3gdZK2l"
       },
@@ -1095,18 +1079,18 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Rich Girl",
-        "url": "https://open.spotify.com/album/4hkQNTft7bp3Gd4MyIbjbf"
+        "name": "He Called Me Baby",
+        "url": "https://open.spotify.com/album/7aiK72YOfer4Rx9KzSOnak"
       },
       "artists": [
         {
-          "name": "Shadowgrass",
-          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
+          "name": "AJ Lee & Blue Summit",
+          "url": "https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr"
         }
       ],
-      "duration_ms": 230454,
-      "name": "Rich Girl",
-      "url": "https://open.spotify.com/track/6TnbTAr8EtRYR5st0irRoP"
+      "duration_ms": 279198,
+      "name": "He Called Me Baby",
+      "url": "https://open.spotify.com/track/07XgjLPy8zK8ppSZ7r38gb"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1123,6 +1107,22 @@
       "duration_ms": 191000,
       "name": "Make Me Stay or Make Me Go",
       "url": "https://open.spotify.com/track/2HNsjA02EScFsBj3VIg2RS"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Rich Girl",
+        "url": "https://open.spotify.com/album/4hkQNTft7bp3Gd4MyIbjbf"
+      },
+      "artists": [
+        {
+          "name": "Shadowgrass",
+          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
+        }
+      ],
+      "duration_ms": 230454,
+      "name": "Rich Girl",
+      "url": "https://open.spotify.com/track/6TnbTAr8EtRYR5st0irRoP"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1499,6 +1499,30 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "Those Were the Days",
+        "url": "https://open.spotify.com/album/4afclf1PXcwWZYU1B1wie1"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Rhonda Vincent",
+          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
+        },
+        {
+          "name": "Judy Collins",
+          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
+        }
+      ],
+      "duration_ms": 214453,
+      "name": "Both Sides Now",
+      "url": "https://open.spotify.com/track/1cjDZNaMWIv7Q1eRqF9Rca"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Elderly Woman Behind the Counter in a Small Town",
         "url": "https://open.spotify.com/album/4iiZRBXts873qS2KaWEXNg"
       },
@@ -1523,30 +1547,6 @@
       "duration_ms": 221913,
       "name": "Elderly Woman Behind the Counter in a Small Town - Radio Edit",
       "url": "https://open.spotify.com/track/4O0HBabeKYER9BRKW0URli"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Those Were the Days",
-        "url": "https://open.spotify.com/album/4afclf1PXcwWZYU1B1wie1"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Rhonda Vincent",
-          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
-        },
-        {
-          "name": "Judy Collins",
-          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
-        }
-      ],
-      "duration_ms": 214453,
-      "name": "Both Sides Now",
-      "url": "https://open.spotify.com/track/1cjDZNaMWIv7Q1eRqF9Rca"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1723,26 +1723,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Family, Friends & Heroes",
-        "url": "https://open.spotify.com/album/4jEA27ToawCGCUH7GZUkH0"
-      },
-      "artists": [
-        {
-          "name": "Frank Solivan",
-          "url": "https://open.spotify.com/artist/4G7z1AB9nKUdBBHxaHIfa9"
-        },
-        {
-          "name": "Del McCoury",
-          "url": "https://open.spotify.com/artist/1yGXkI3DrirCcXv3uwJjGv"
-        }
-      ],
-      "duration_ms": 304333,
-      "name": "Pretty Woman",
-      "url": "https://open.spotify.com/track/3wITrtynoofk1CNLgy2XOh"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Guess I'm Doing Fine",
         "url": "https://open.spotify.com/album/7CvyXC5glE5wSTiaTW7Q21"
       },
@@ -1759,6 +1739,26 @@
       "duration_ms": 280441,
       "name": "Guess I'm Doing Fine",
       "url": "https://open.spotify.com/track/1nYepgS69x8u58SHOpfkSq"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Family, Friends & Heroes",
+        "url": "https://open.spotify.com/album/4jEA27ToawCGCUH7GZUkH0"
+      },
+      "artists": [
+        {
+          "name": "Frank Solivan",
+          "url": "https://open.spotify.com/artist/4G7z1AB9nKUdBBHxaHIfa9"
+        },
+        {
+          "name": "Del McCoury",
+          "url": "https://open.spotify.com/artist/1yGXkI3DrirCcXv3uwJjGv"
+        }
+      ],
+      "duration_ms": 304333,
+      "name": "Pretty Woman",
+      "url": "https://open.spotify.com/track/3wITrtynoofk1CNLgy2XOh"
     },
     {
       "added_at": "2026-02-04 05:00:53",

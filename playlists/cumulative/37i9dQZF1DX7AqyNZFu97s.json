@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from independent artists in the UK and Ireland. Cover: DRZ",
+  "description": "The best new music from independent artists in the UK and Ireland. Cover: Wxterboi",
   "name": "Fresh Finds UK & IE",
   "tracks": [
     {
@@ -1470,6 +1470,24 @@
       "duration_ms": 167195,
       "name": "A Mile In My Mind",
       "url": "https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx"
+    },
+    {
+      "album": {
+        "name": "A Moment of Bliss",
+        "url": "https://open.spotify.com/album/6WTOLhKIPOgKG5eOQWmBV2"
+      },
+      "artists": [
+        {
+          "name": "two kalme",
+          "url": "https://open.spotify.com/artist/7mjadfpeejXDP4e0sFTFAR"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218274,
+      "name": "A Moment of Bliss",
+      "url": "https://open.spotify.com/track/5Gv86AOnhq2tWxTvdaYuKa"
     },
     {
       "album": {
@@ -13364,7 +13382,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 191246,
       "name": "Dali (Reach Out)",
       "url": "https://open.spotify.com/track/5QZ0brQWYd1pLejf3mPRlu"
@@ -14706,6 +14724,24 @@
       "duration_ms": 292000,
       "name": "Devil \u00c9ire",
       "url": "https://open.spotify.com/track/3Onx1wdkp2GAxr9gyX1JqU"
+    },
+    {
+      "album": {
+        "name": "did you ask for this",
+        "url": "https://open.spotify.com/album/2kgmqkVTM042WBup51sARO"
+      },
+      "artists": [
+        {
+          "name": "holybones",
+          "url": "https://open.spotify.com/artist/5BrxhXnto2nqDoweFmBnJ0"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185306,
+      "name": "did you ask for this",
+      "url": "https://open.spotify.com/track/5ytBJVsVok9yWBQca56Ewx"
     },
     {
       "album": {
@@ -25492,7 +25528,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 141146,
       "name": "Heaven Now",
       "url": "https://open.spotify.com/track/6754QvJuh7U1XbvgGPhPNv"
@@ -28846,6 +28882,24 @@
       "duration_ms": 86128,
       "name": "I NEVER WORE A CAPE",
       "url": "https://open.spotify.com/track/2CS3GCttq77koSV6jUgl1X"
+    },
+    {
+      "album": {
+        "name": "Swings & Roundabouts",
+        "url": "https://open.spotify.com/album/0i24zGzwq9gqLey87ylT1y"
+      },
+      "artists": [
+        {
+          "name": "Goldbug",
+          "url": "https://open.spotify.com/artist/2BR1kVQeNkclkP2gFeivuS"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228372,
+      "name": "I Said You Said",
+      "url": "https://open.spotify.com/track/7JafQIY6uBAdhDfuIbL6J3"
     },
     {
       "album": {
@@ -33380,7 +33434,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 167133,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/4eRvcOIivwd85jYXhWdsmP"
@@ -48045,6 +48099,24 @@
     },
     {
       "album": {
+        "name": "DREAMON",
+        "url": "https://open.spotify.com/album/2Hme0pMDpEqriJWDS1oNEe"
+      },
+      "artists": [
+        {
+          "name": "Wxterboi",
+          "url": "https://open.spotify.com/artist/544LkXoMYQUHx92BtPHRHS"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130560,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/4k1E1hioBtPXmxPnx6qaRG"
+    },
+    {
+      "album": {
         "name": "put me in a letter",
         "url": "https://open.spotify.com/album/5GaUSrZHZMYIk7bCacnfIO"
       },
@@ -51844,7 +51916,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 164571,
       "name": "SET ME FREE",
       "url": "https://open.spotify.com/track/78QkphRTDf4v56ukEVzpLg"
@@ -54864,6 +54936,24 @@
       "duration_ms": 267368,
       "name": "Stained Glass Window",
       "url": "https://open.spotify.com/track/1Iy1dBd5qO65eTnsZ2oqLV"
+    },
+    {
+      "album": {
+        "name": "stained.",
+        "url": "https://open.spotify.com/album/4mp7D1urRCNVN2QGFY3SgK"
+      },
+      "artists": [
+        {
+          "name": "donny.",
+          "url": "https://open.spotify.com/artist/0beHEfLkJtL1hpfypHSTqp"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168019,
+      "name": "stained.",
+      "url": "https://open.spotify.com/track/5qeScgeJ0WMucU07zx7zBB"
     },
     {
       "album": {
@@ -60202,7 +60292,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 165680,
       "name": "Time Lost",
       "url": "https://open.spotify.com/track/0aHSrR8RefR8MbMt5X9DYo"
@@ -62821,6 +62911,24 @@
     },
     {
       "album": {
+        "name": "Vinyl Spinning",
+        "url": "https://open.spotify.com/album/3o9I6K90GAd4L0Yh6DdnTp"
+      },
+      "artists": [
+        {
+          "name": "Essy Sparrow",
+          "url": "https://open.spotify.com/artist/0SKfJH94hxcbotdBSIvTRj"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252944,
+      "name": "Vinyl Spinning",
+      "url": "https://open.spotify.com/track/4VG0Pd2MaaoBZprgUJV2Nn"
+    },
+    {
+      "album": {
         "name": "Visa",
         "url": "https://open.spotify.com/album/7a19mEMUsijNEN4XyC0pVF"
       },
@@ -63570,7 +63678,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 258000,
       "name": "water",
       "url": "https://open.spotify.com/track/0MqOAxDNm7IOFoGXr1hfzn"
@@ -66037,6 +66145,24 @@
     },
     {
       "album": {
+        "name": "worry",
+        "url": "https://open.spotify.com/album/3jzwGIMyA6yKDoExHbiaG8"
+      },
+      "artists": [
+        {
+          "name": "@WAR",
+          "url": "https://open.spotify.com/artist/31EqzztLNVAKfqgIQ3O5qU"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140275,
+      "name": "worry",
+      "url": "https://open.spotify.com/track/78WOOr6bbJDyJHkcrXte9z"
+    },
+    {
+      "album": {
         "name": "Worry About",
         "url": "https://open.spotify.com/album/0egp7qjRgCftCMqlVzmATb"
       },
@@ -66354,7 +66480,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 188016,
       "name": "You",
       "url": "https://open.spotify.com/track/7G0e2YWm6ix3zrfXsU9xsU"

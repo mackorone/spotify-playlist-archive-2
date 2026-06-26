@@ -2,9 +2,9 @@
 
 ### [Suflet + Sunet](https://open.spotify.com/playlist/37i9dQZF1DXbSA2u8djoN5)
 
-> Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Guess Who
+> Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: RAVA, Antonia
 
-295 songs - 14 hr 25 min
+296 songs - 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [EMIL BOC](https://open.spotify.com/track/73QUECdsYbfuPPhmhrJiQy) | [Mobtrap](https://open.spotify.com/artist/6Nspm53g0iGjgJxTcwhqOl) | [MOB PACK \(EP\)](https://open.spotify.com/album/32DTY8uyqKUqBRXoyeCr8G) | 1:47 | 2024-12-05 | 2025-01-10 |
 | [Eram La Drum](https://open.spotify.com/track/3znQu9ocHIpPlXRZuZTbHU) | [Maximilian](https://open.spotify.com/artist/6e2d76MT8kXSkoo7sH3rdY), [Vlad Flueraru](https://open.spotify.com/artist/0WcTbZrizMTmNS2GIihE3T) | [Eram La Drum](https://open.spotify.com/album/1hgfPOzPpOKSukKDCcdfGD) | 2:30 | 2024-10-24 | 2024-11-22 |
 | [EU](https://open.spotify.com/track/5JQfyIDpWqhu5UBzKAo4na) | [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F), [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [Ștefan IV: Umbra](https://open.spotify.com/album/5659zuqfAbbi2zIPziei9t) | 4:13 | 2024-06-27 | 2025-06-20 |
-| [Eu Beu / 3 Pahare](https://open.spotify.com/track/1b0A2F37I3DEWeL0nlygJP) | [Magnat](https://open.spotify.com/artist/3WdvjbFmE73xrtArJxfLKJ), [Feoctist](https://open.spotify.com/artist/4N03JKbnaPn7rsntNg24ql), [Pavel Stratan](https://open.spotify.com/artist/6COGnMricMUbH9sM5TMbAF) | [Eu Beu / 3 Pahare](https://open.spotify.com/album/7iXaY2gQE95YAatM140rLB) | 3:20 | 2025-12-12 |  |
+| [Eu Beu / 3 Pahare](https://open.spotify.com/track/1b0A2F37I3DEWeL0nlygJP) | [Magnat](https://open.spotify.com/artist/3WdvjbFmE73xrtArJxfLKJ), [Feoctist](https://open.spotify.com/artist/4N03JKbnaPn7rsntNg24ql), [Pavel Stratan](https://open.spotify.com/artist/6COGnMricMUbH9sM5TMbAF) | [Eu Beu / 3 Pahare](https://open.spotify.com/album/7iXaY2gQE95YAatM140rLB) | 3:20 | 2025-12-12 | 2026-06-26 |
 | [EYESFORYOU](https://open.spotify.com/track/3a6N6x28g2RxF7FVPWUlOC) | [Alduts Sherdley](https://open.spotify.com/artist/2qMXn4mBsY5Ilj8gLjRPGF) | [EYESFORYOU](https://open.spotify.com/album/4zXnWgTgd9ExFHu30SmB84) | 2:53 | 2026-05-14 | 2026-05-22 |
 | [FACE DOWN](https://open.spotify.com/track/6i8vHHCDrN2KePIjsTP9XR) | [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR), [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS) | [BANDO 4](https://open.spotify.com/album/3wE4neLiYyfvKHzQYMPlVh) | 2:28 | 2025-12-18 | 2026-05-01 |
 | [FAM.](https://open.spotify.com/track/3wZoC2EWRgxoQt97yyREMe) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [DUPĂ FAIMĂ DEVII NAȘPA](https://open.spotify.com/album/4Z9peZjxxJXovjzYrtdb5R) | 3:24 | 2026-02-12 | 2026-03-07 |
@@ -272,6 +272,7 @@
 | [TUREAZ\-O](https://open.spotify.com/track/49TQJahxC2nOwzMuHeoMyo) | [AOUR](https://open.spotify.com/artist/2LjVvlBSYQOf4XY8hD5uRB), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [TUREAZ\-O](https://open.spotify.com/album/3dk71qXYTDWB1Jjr8lfIPq) | 3:06 | 2025-03-20 | 2025-10-04 |
 | [TURURU](https://open.spotify.com/track/5NybQDA5y4wEtRQKVZWBQw) | [Satra B.E.N.Z.](https://open.spotify.com/artist/3ZxemCGQmRuqoBPhQP5Gut), [Alduts Sherdley](https://open.spotify.com/artist/2qMXn4mBsY5Ilj8gLjRPGF) | [TURURU](https://open.spotify.com/album/71Md4y07hO846ju9W6MVjK) | 2:19 | 2024-07-18 | 2025-02-28 |
 | [Twinnin](https://open.spotify.com/track/1GR0oEHQKR8GcWL3tE1PQ5) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ), [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Twinnin](https://open.spotify.com/album/4Xu6t9blgQ7OT5YNiYAk1W) | 2:32 | 2025-08-21 | 2026-01-17 |
+| [TÂRZIU](https://open.spotify.com/track/2OGs4Cs3yxfp0rqBpdgiYE) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn) | [TÂRZIU](https://open.spotify.com/album/7f19U7dqscOlCWAr6BiA4A) | 4:18 | 2026-06-25 |  |
 | [ultima \(noapte\)](https://open.spotify.com/track/2CGaabfPeMsfEUpYN7gOti) | [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [ultima \(noapte\)](https://open.spotify.com/album/6rlFAvwB2e8ye7JeQZkxZC) | 3:48 | 2025-01-09 |  |
 | [Ultima scrisoare](https://open.spotify.com/track/5y394tVMkN6KJK9oBIw2gt) | [Cortes](https://open.spotify.com/artist/0F4yCrlwfMsrMI90zZYmTF), [Kuinna](https://open.spotify.com/artist/2Nf3tUIoSAH0fKrHwjSOYl) | [Ultima scrisoare](https://open.spotify.com/album/6uMLtZJY4S62nHHt2IwpTK) | 3:34 | 2025-11-06 | 2025-12-05 |
 | [Umăr la umăr](https://open.spotify.com/track/1bfhOZQKSgevVlVCGUalWl) | [El Nino](https://open.spotify.com/artist/01tCOipZP0bkn0LjSZ5S5i) | [Umăr la umăr](https://open.spotify.com/album/0MHMeRZ9wCyPSKvJZORN1N) | 2:42 | 2025-03-14 | 2025-04-09 |

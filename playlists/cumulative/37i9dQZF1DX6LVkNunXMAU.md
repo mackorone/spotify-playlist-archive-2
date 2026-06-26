@@ -2,9 +2,9 @@
 
 ### [folk & otoño](https://open.spotify.com/playlist/37i9dQZF1DX6LVkNunXMAU)
 
-> Folk latino de estación\. Foto: Alondra Bravo
+> Folk latino de estación\. Foto: El Mulu
 
-375 songs - 20 hr 33 min
+379 songs - 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [De Ballenas](https://open.spotify.com/track/17GAhyPJ1N3QB0bLf8kdoW) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3), [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [De Ballenas](https://open.spotify.com/album/3ocfV6SaW9x6NPF5sD6DQ0) | 3:41 | 2025-01-10 |  |
 | [De Haber Sabido](https://open.spotify.com/track/1Z88J2aTfSa1JzYUq7HoFu) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ), [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4) | [Lo Primero](https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q) | 3:08 | 2025-04-21 |  |
 | [De Viaje](https://open.spotify.com/track/0YwrqRHtpvlQChhbiYoQI5) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I) | [De Viaje](https://open.spotify.com/album/3vNCP5XY6ZuYMbqrLj3ChU) | 3:22 | 2022-07-15 | 2026-05-29 |
+| [Dentro De Un Cuadro](https://open.spotify.com/track/2BSXbTun714yWrJ4axqSEt) | [La Mena](https://open.spotify.com/artist/44lIthwBhSBagZlx0TN49V), [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX) | [Dentro De Un Cuadro](https://open.spotify.com/album/4Y53TJSO1sb5I7PZoIyLRc) | 1:32 | 2026-06-26 |  |
 | [Deseo](https://open.spotify.com/track/50hyNWjdwIF9scfR90eODz) | [Agustina Pampin](https://open.spotify.com/artist/1SzhQpRiCh3rCfkjTmPcfv) | [Deseo](https://open.spotify.com/album/1rsiAjtt1h6xohktk6jfHe) | 3:09 | 2023-05-19 | 2023-06-24 |
 | [despegar mis pies \- En Vivo](https://open.spotify.com/track/0Cy9Zbzq7emQ6Xi02d9V1U) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Un Nuevo Refugio \(Dulce Cuarto Sesiones\) \[En Vivo\]](https://open.spotify.com/album/4ieBAdvt0JDhrGCsCyMHCJ) | 3:48 | 2024-10-11 |  |
 | [Dije que sí](https://open.spotify.com/track/78rLvvoIpOAcdVPmQJNTnt) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [Decir que sí](https://open.spotify.com/album/52PFaNWnDjXTCuDyMdIFT0) | 2:18 | 2025-07-25 |  |
@@ -186,6 +187,7 @@
 | [La Mochila del Mundo](https://open.spotify.com/track/2tch5wBhdrdAkZYuJlAdhb) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [Algo Tiene Que Cambiar](https://open.spotify.com/album/2iKR4ZBb3NLJM0Zg8yhQvi) | 3:06 | 2023-05-19 | 2023-06-24 |
 | [La Poesia Intermitente](https://open.spotify.com/track/5sEEsMp1Q2a0vccFrxSZkD) | [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [Tranki Town](https://open.spotify.com/album/7EN6Gq75GPfuHvcptkuOsk) | 3:53 | 2022-05-20 | 2023-04-15 |
 | [La razón](https://open.spotify.com/track/0qmmbCIDtqIo5UANUF7UhX) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1) | [La razón](https://open.spotify.com/album/10rovyKmiXi763COyBP9oz) | 3:47 | 2023-10-06 | 2023-12-03 |
+| [La Tormenta](https://open.spotify.com/track/4JEY3vlTlb1byFbI6OgYBg) | [Metalengua](https://open.spotify.com/artist/3gIGCGSknVNY5D17w3CCqh), [Nano Stern](https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X) | [La Tormenta](https://open.spotify.com/album/7lchNWI4NFNWRou6FXovnh) | 2:21 | 2026-06-26 |  |
 | [Las Cosas Simples](https://open.spotify.com/track/3nO0c6dxcZqrDW4WTEtKUr) | [Adrián Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Las Cosas Simples](https://open.spotify.com/album/4gq30p37s9VgAovyUtfDqz) | 4:07 | 2024-03-07 |  |
 | [Las Risas Caen](https://open.spotify.com/track/3kVciV1r3KxJSmHI15LLJA) | [T'Shine](https://open.spotify.com/artist/4d3XBHv7pvLOtkJBwQqMrm) | [Estructuras Inestables](https://open.spotify.com/album/1THM2S2ulfKF94Iq03MyG8) | 3:27 | 2023-05-12 | 2023-06-11 |
 | [Lento](https://open.spotify.com/track/1qjNi3E0y1RH7kTCK43W26) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [\(un poco + de\) FE](https://open.spotify.com/album/7JwkZdvu1ffUBOrrhuWIuZ) | 3:24 | 2022-05-20 | 2022-07-16 |
@@ -238,6 +240,7 @@
 | [Niño Bosque](https://open.spotify.com/track/2iWOCZS5LTjTbRYDGtiD4y) | [María Morgade](https://open.spotify.com/artist/5916I1sGtfQ3ugjsbS3NjF) | [Niño Bosque](https://open.spotify.com/album/7ega2osbiK6lYmBFtPrHQd) | 2:56 | 2026-04-24 |  |
 | [Niño Bosque](https://open.spotify.com/track/3NgFZGH2w9BqkNVyxsBP1X) | [María Morgade](https://open.spotify.com/artist/5916I1sGtfQ3ugjsbS3NjF) | [Niño Bosque](https://open.spotify.com/album/0X7lBPRO37oNovgx6tdPN5) | 2:56 | 2025-01-10 |  |
 | [no hace falta saber](https://open.spotify.com/track/6lXq1bTonpEYQYSQ9IXI1Y) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [no hace falta saber](https://open.spotify.com/album/7okZw7sF6r7x5NNF2eMaxW) | 2:48 | 2023-06-23 | 2024-08-24 |
+| [No Nos Vimos](https://open.spotify.com/track/2g8IXozpjRbd0vhjm37S3x) | [Borneo](https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz) | [No Nos Vimos](https://open.spotify.com/album/54DWkiEN9xAdN34tR3T5BD) | 3:31 | 2026-06-26 |  |
 | [No Te Acerques Tanto a Mí](https://open.spotify.com/track/36wVZnuq7ujmbfErkTuhh4) | [Margarita Pla](https://open.spotify.com/artist/2oiL55yTcmeFCv18Y9jEii) | [Respirar de Nuevo](https://open.spotify.com/album/0bIHg0GOPmuwmR2iU5m2On) | 4:33 | 2022-11-11 | 2023-05-30 |
 | [No Te Puedo Decir Que No](https://open.spotify.com/track/2BB4nJnuMJnFy3jKGUWPni) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a), [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [No Te Puedo Decir Que No](https://open.spotify.com/album/0s4Yzgd1fDrjq05WBFSvvp) | 3:03 | 2022-05-20 | 2024-09-27 |
 | [No Ves Tal Vez](https://open.spotify.com/track/4vKh9YiqQQQHq7Bn2IdNbN) | [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ), [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy) | [No Ves Tal Vez](https://open.spotify.com/album/3C4Cqb16lrZSpFoc772AIv) | 3:29 | 2023-04-07 | 2024-09-27 |
@@ -307,6 +310,7 @@
 | [Serpiente](https://open.spotify.com/track/3SwIQLdc5lHUOPtrMeWR12) | [Gianna Sotera](https://open.spotify.com/artist/0slraaTntA9kCC4p2K7HRc) | [Serpiente](https://open.spotify.com/album/5lK69LFTJhA6lakZaWLD1h) | 3:25 | 2023-05-12 | 2023-06-24 |
 | [Seré mía](https://open.spotify.com/track/6ztXazDxjvxifJMWRAGkKn) | [Kurmi](https://open.spotify.com/artist/1BF5IPlIOTc6JJWQPuqG3W) | [Seré mía](https://open.spotify.com/album/1QGEjpTaJ64tSx3CsQqbkU) | 3:14 | 2025-01-10 |  |
 | [Si bien fue poco](https://open.spotify.com/track/5UCnTmxuBMCZpIPtrHZS6v) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Si bien fue poco](https://open.spotify.com/album/4oHu1P0JdQ5ZWYqHQa4uEj) | 4:06 | 2025-07-18 |  |
+| [Si Llega el Desastre](https://open.spotify.com/track/3671YCKEwXXgQJ6q67OFlm) | [El Mulu](https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM) | [Si Llega el Desastre](https://open.spotify.com/album/0qiEOnpVrGHEoV9MpC9AGz) | 3:18 | 2026-06-26 |  |
 | [Si Sabes Regresar](https://open.spotify.com/track/2rliXcqi1OZ7xhaPUUeh1x) | [Molok0](https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J) | [Si Sabes Regresar](https://open.spotify.com/album/6bQRPUxBERpv9A0Yd461ZN) | 2:38 | 2024-10-17 |  |
 | [siente más](https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 4:00 | 2022-08-26 | 2023-06-24 |
 | [Sigo Llorando](https://open.spotify.com/track/1Ptw4qmBwDENGx2qrfUIBc) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Sigo Llorando](https://open.spotify.com/album/3V1VAfG6FC5nppug6OZHnm) | 3:43 | 2022-11-11 | 2026-05-29 |

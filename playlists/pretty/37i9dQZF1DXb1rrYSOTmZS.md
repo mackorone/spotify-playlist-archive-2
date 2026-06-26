@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1rrYSOTmZS.md) - [plain]
 
 > enjoy the wave to earth CONCERT \[사랑으로 0.3\] LIVE SET including the voices of them on stage! \(wave to earth의 무대 멘트와 목소리가 포함된 \[사랑으로 0.3\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,145 likes - 28 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,170 likes - 28 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,862 likes - 332 songs - 18 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,863 likes - 332 songs - 18 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -172,7 +172,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 162 | [Children](https://open.spotify.com/track/6Y9DgDlgMjads2M34Q7Pnt) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Black Mona Lisa](https://open.spotify.com/album/5TjZrtwHeIxK4KUGZcQe27) | 3:41 |
 | 163 | [Kingdom](https://open.spotify.com/track/0LHjotMicZfqH5qTuB0k8P) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Escape](https://open.spotify.com/album/5fTQCKSHr5hpGHEo51n4e7) | 3:52 |
 | 164 | [Impressionable](https://open.spotify.com/track/3QAgFsUgFfRNk8UFfB0f89) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 2 \- The 3rd Album](https://open.spotify.com/album/3xgFGYUOVxGp7pZywdf7AC) | 3:01 |
-| 165 | [Psycho and Beautiful](https://open.spotify.com/track/66hTmSvvdanE90lCEp7ogV) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [LOVE XX](https://open.spotify.com/album/27oOn7dm9kXQSmksJkAHy5) | 2:50 |
+| 165 | [Psycho and Beautiful](https://open.spotify.com/track/66hTmSvvdanE90lCEp7ogV) | [CLASSy](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [LOVE XX](https://open.spotify.com/album/27oOn7dm9kXQSmksJkAHy5) | 2:50 |
 | 166 | [16 Again](https://open.spotify.com/track/3qrTracLJmTz2XaJDkSiEN) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [16 Again](https://open.spotify.com/album/7x7AQEl511oMbhjVkBc2Lq) | 3:15 |
 | 167 | [Fingertips](https://open.spotify.com/track/7JZBTSbpVzSJwRUgHxvUIG) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [Fingertips](https://open.spotify.com/album/5GeJw5dsJDahd3DLjPT3MJ) | 4:15 |
 | 168 | [Headache](https://open.spotify.com/track/6LYFeW0kFfq673sEbVtGLm) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/68xnlxNDFcNGjDxxOv7gxH) | 2:44 |
@@ -250,8 +250,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 240 | [Rude Love \- Live Acoustic](https://open.spotify.com/track/6qL7vsuhKpkqjKzWnFn3iM) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Rude Love \(Acoustic Versions\)](https://open.spotify.com/album/3YrwPhks1IDgK3ETB3wHNw) | 2:59 |
 | 241 | [Be Without You](https://open.spotify.com/track/2hy8VUlygF2HoKQJbkAKkn) | [KStewart](https://open.spotify.com/artist/4jQF2fKZDX6pQIPWwsNWyp) | [Be Without You](https://open.spotify.com/album/4iONmkExzW0E1uyH1pmdEj) | 3:20 |
 | 242 | [Inside Of Me \- Radio Edit](https://open.spotify.com/track/06otM0LvTEQr5tofhO3eWo) | [My Digital Enemy](https://open.spotify.com/artist/7xwN3wuAbcvsSsY4fj1iLA) | [Inside Of Me](https://open.spotify.com/album/6Ikxxt68oAMp9IS5bxmEE6) | 2:39 |
-| 243 | [Interruption](https://open.spotify.com/track/6SGo3xaUbZEu8GfvtaCJzS) | [Tiana Blake](https://open.spotify.com/artist/0dQdwOMacJwwE8Tattr1XI) | [Interruption](https://open.spotify.com/album/3qYHfrjfjposJMFWg1Tj1F) | 3:08 |
-| 244 | [One Track Mind \(feat\. RILEASA\)](https://open.spotify.com/track/5RgB1e7a1KHrXrfT3UuPCc) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [RILEASA](https://open.spotify.com/artist/5spVyRrIk8Es1ZBi2ClEUU) | [Believe Me Now?](https://open.spotify.com/album/70szmVYkj3Y8y1wh3bxkMR) | 2:44 |
+| 243 | [One Track Mind \(feat\. RILEASA\)](https://open.spotify.com/track/5RgB1e7a1KHrXrfT3UuPCc) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [RILEASA](https://open.spotify.com/artist/5spVyRrIk8Es1ZBi2ClEUU) | [Believe Me Now?](https://open.spotify.com/album/70szmVYkj3Y8y1wh3bxkMR) | 2:44 |
+| 244 | [Interruption](https://open.spotify.com/track/6SGo3xaUbZEu8GfvtaCJzS) | [Tiana Blake](https://open.spotify.com/artist/0dQdwOMacJwwE8Tattr1XI) | [Interruption](https://open.spotify.com/album/3qYHfrjfjposJMFWg1Tj1F) | 3:08 |
 | 245 | [In My Eyes](https://open.spotify.com/track/4bldcOQqMQwjOFeWD1q0bt) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Night Work](https://open.spotify.com/album/1KtK7yRDwIkJBZrkeIHUdo) | 3:23 |
 | 246 | [Shy](https://open.spotify.com/track/0FEV2UdmSXQVHSDI8VJDg8) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 3:17 |
 | 247 | [Who You Are \(Part 2\)](https://open.spotify.com/track/0cH19PG5Y0qx92HSog7MyG) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Who You Are \(Part 2\)](https://open.spotify.com/album/30hla16mTXRTbeqmFfSz0O) | 3:47 |
@@ -341,4 +341,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 331 | [Hearsay \- Interlude](https://open.spotify.com/track/65sA0SEBGpcTadBiIWvfKB) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 0:15 |
 | 332 | [Forever](https://open.spotify.com/track/4nFQk5qNI8TKWnorHDljEp) | [Jono Hill](https://open.spotify.com/artist/6gQmXqh4cXimoa1NotjBQW) | [As Far as the Eye Can See \(Original Score\)](https://open.spotify.com/album/6ACj9tILNQn22YobKjbfAr) | 0:44 |
 
-Snapshot ID: `AcVHBgAAAACSen2p0r6brZYGtwDNKiuE`
+Snapshot ID: `AcVMpgAAAAAfA/hcnt0zE0X6Mbhi/OQe`

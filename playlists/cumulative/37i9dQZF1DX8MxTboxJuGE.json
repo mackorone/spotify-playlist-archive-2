@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "The Cloud Of Unknowing",
+        "url": "https://open.spotify.com/album/0WFz9rFwPbjU8omow6P8yQ"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215680,
+      "name": "All Souls Rising",
+      "url": "https://open.spotify.com/track/4sNPIf8I1vk8f6zB0NwUAz"
+    },
+    {
+      "album": {
         "name": "Purgat\u00f3rio",
         "url": "https://open.spotify.com/album/3k3VAVgygl2j0hbSsppd0C"
       },
@@ -182,7 +200,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 246792,
       "name": "Bring It",
       "url": "https://open.spotify.com/track/7vEZUuh4pRvBBlXaKh8gn0"
@@ -564,7 +582,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 214346,
       "name": "False - 2021 - Remaster",
       "url": "https://open.spotify.com/track/75rdMM7Tqq1P4mFrJGD5fc"
@@ -886,6 +904,28 @@
       "duration_ms": 229640,
       "name": "In The Wind",
       "url": "https://open.spotify.com/track/2NMY0HrpgXgo0AYrjlQiXe"
+    },
+    {
+      "album": {
+        "name": "Intui\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4AvAJ4oxYAdQTZ9z2K3uSY"
+      },
+      "artists": [
+        {
+          "name": "Edu Falaschi",
+          "url": "https://open.spotify.com/artist/5BrPgtYnoVfEoDYzw0AHGz"
+        },
+        {
+          "name": "Rafael Bittencourt",
+          "url": "https://open.spotify.com/artist/0mwuCuavFPba7MlbdXEm19"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254693,
+      "name": "Intui\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/4EmUqUYkRsSUu23jWJzbL2"
     },
     {
       "album": {
@@ -1370,7 +1410,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 236755,
       "name": "Quinze Anos",
       "url": "https://open.spotify.com/track/1ZMptKVjYW5Jb5SVwbbADU"
@@ -2305,6 +2345,24 @@
     },
     {
       "album": {
+        "name": "Unchained",
+        "url": "https://open.spotify.com/album/30VHV6yPJ0KfODMk3LIGKP"
+      },
+      "artists": [
+        {
+          "name": "Edu Falaschi",
+          "url": "https://open.spotify.com/artist/5BrPgtYnoVfEoDYzw0AHGz"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420773,
+      "name": "Unchained",
+      "url": "https://open.spotify.com/track/5JLx71pMIAWbNl6RON0CaV"
+    },
+    {
+      "album": {
         "name": "Under The Sun",
         "url": "https://open.spotify.com/album/1oweEZoub0eQXjT0jyGPnY"
       },
@@ -2316,7 +2374,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 294626,
       "name": "Under The Sun",
       "url": "https://open.spotify.com/track/232zDRN94ayKlp9SZSsl8r"

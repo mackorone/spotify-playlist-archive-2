@@ -2438,7 +2438,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 122119,
       "name": "Brain Freeze",
       "url": "https://open.spotify.com/track/1s8VsJBqBwYsEeJzsZ5Dt1"
@@ -6401,6 +6401,28 @@
     },
     {
       "album": {
+        "name": "Everything's Fine",
+        "url": "https://open.spotify.com/album/2VpmMSVWQmFCqLRi0En2JR"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165692,
+      "name": "Everything's Fine (PM)",
+      "url": "https://open.spotify.com/track/1kLGkdqxQLZoQD9MBxyiwY"
+    },
+    {
+      "album": {
         "name": "Ex's & Oh's",
         "url": "https://open.spotify.com/album/2YFHbRlQNfc4uOfNTxqtyR"
       },
@@ -7404,7 +7426,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 166615,
       "name": "Forget You (feat. BARBZ)",
       "url": "https://open.spotify.com/track/4GojOaaXHYF8sX4u4jLjYJ"
@@ -15464,7 +15486,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 202443,
       "name": "One More Time (I Need U)",
       "url": "https://open.spotify.com/track/60kxTiWULyyPj1cr9fJOjT"
@@ -16321,6 +16343,32 @@
     },
     {
       "album": {
+        "name": "PLZ HOLD (feat. Tkay Maidza)",
+        "url": "https://open.spotify.com/album/1R2M8bDvkMwoJ7hazDb8tD"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        },
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145592,
+      "name": "PLZ HOLD (feat. Tkay Maidza)",
+      "url": "https://open.spotify.com/track/1vKQshIjVUhyg99UbCyeMp"
+    },
+    {
+      "album": {
         "name": "pogo",
         "url": "https://open.spotify.com/album/2fq3wurBOOLw6TQBrP3jcw"
       },
@@ -16806,6 +16854,28 @@
       "duration_ms": 220581,
       "name": "Pump The Brakes",
       "url": "https://open.spotify.com/track/553gYUFBUpXSQM8CSZcEhg"
+    },
+    {
+      "album": {
+        "name": "Pumpin",
+        "url": "https://open.spotify.com/album/5HUcDxoU1KWBcjyLhlJDbM"
+      },
+      "artists": [
+        {
+          "name": "Partiboi69",
+          "url": "https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL"
+        },
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211197,
+      "name": "Pumpin",
+      "url": "https://open.spotify.com/track/51KLyIiHMGywXh2yh9Lk5d"
     },
     {
       "album": {
@@ -17706,6 +17776,32 @@
       "duration_ms": 178218,
       "name": "Run It Up",
       "url": "https://open.spotify.com/track/4Tla2jt77nO70DgGwFejbK"
+    },
+    {
+      "album": {
+        "name": "Run Run River (Angels Above Me)",
+        "url": "https://open.spotify.com/album/78vBqtV0zN5JKWPTBVbGid"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156093,
+      "name": "Run Run River (Angels Above Me)",
+      "url": "https://open.spotify.com/track/0Xe2FjyQndr2LsRD820iR3"
     },
     {
       "album": {
@@ -18956,7 +19052,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 173316,
       "name": "Smooth",
       "url": "https://open.spotify.com/track/58QPfkhEGLkZeqXwZkcNv5"

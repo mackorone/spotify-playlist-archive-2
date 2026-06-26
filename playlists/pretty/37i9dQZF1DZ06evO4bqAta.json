@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
-  "num_followers": 591477,
+  "num_followers": 591523,
   "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajnMgAAAAABZt5sztLq1VmhIgF2j6j0B",
+  "snapshot_id": "ajseAAAAAADbWhlzUvv/w66XnlOk12MT",
   "tracks": [
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blonde On Blonde",
-        "url": "https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 293828,
-      "name": "Just Like a Woman",
-      "url": "https://open.spotify.com/track/37Dl7jQMmt0gUnzTKqnjkN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Planet Waves",
         "url": "https://open.spotify.com/album/3gYbjd76d8T5Ct5WxCxX5R"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 297103,
       "name": "Forever Young - Slow Version",
       "url": "https://open.spotify.com/track/4yWl0tnEanf3zmZzl9kbQn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blonde On Blonde",
+        "url": "https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 293828,
+      "name": "Just Like a Woman",
+      "url": "https://open.spotify.com/track/37Dl7jQMmt0gUnzTKqnjkN"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 419189,
-      "name": "Isis",
-      "url": "https://open.spotify.com/track/5j216bw8PG0EcIdfu92k4l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oh Mercy",
         "url": "https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 305089,
       "name": "Most of the Time",
       "url": "https://open.spotify.com/track/7wLzlhL0tb3GhPhnIz7IpQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 419189,
+      "name": "Isis",
+      "url": "https://open.spotify.com/track/5j216bw8PG0EcIdfu92k4l"
     },
     {
       "added_at": null,

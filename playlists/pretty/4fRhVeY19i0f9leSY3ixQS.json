@@ -1,12 +1,12 @@
 {
   "description": "The NEW radio! Huge playlist to brighten long days, from all genres. Shuffle it! New music added daily :) www.avondalerecords.com",
-  "num_followers": 1414,
+  "num_followers": 1423,
   "original_name": "Spotify Radio",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAAQ392nL96arSZg2NCJRIIX1ZV31BYj",
+  "snapshot_id": "AAAQ6DbPqllcB9gkw+IUOiGRanHpZs+z",
   "tracks": [
     {
       "added_at": "2026-05-12 03:36:45",
@@ -4169,6 +4169,38 @@
       "url": "https://open.spotify.com/track/3NSk6BSHNRUqkBHvXFvBDW"
     },
     {
+      "added_at": "2026-06-25 08:26:07",
+      "album": {
+        "name": "Used To",
+        "url": "https://open.spotify.com/album/3kMqL0CsE0yT24tb1CtUQV"
+      },
+      "artists": [
+        {
+          "name": "JJ Alan",
+          "url": "https://open.spotify.com/artist/34eH4GyeqQiYobL6coyBW3"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "Used To",
+      "url": "https://open.spotify.com/track/5HU5OA6ErKMAuTcSSi9G0W"
+    },
+    {
+      "added_at": "2026-06-25 08:25:41",
+      "album": {
+        "name": "Meine Zeit",
+        "url": "https://open.spotify.com/album/3bL7Cn6VyVCjT7E5prcu8R"
+      },
+      "artists": [
+        {
+          "name": "Flo W.",
+          "url": "https://open.spotify.com/artist/5aM9fR66kPNgmUIdMmufkL"
+        }
+      ],
+      "duration_ms": 90934,
+      "name": "Meine Zeit",
+      "url": "https://open.spotify.com/track/2xI0a9P9fkzlEXU15zSh41"
+    },
+    {
       "added_at": "2026-06-24 03:39:57",
       "album": {
         "name": "BLEED",
@@ -4215,6 +4247,122 @@
       "duration_ms": 179923,
       "name": "You Don't Wanna Go Home",
       "url": "https://open.spotify.com/track/5TAd5qBYgM65fvHgAD0uAI"
+    },
+    {
+      "added_at": "2026-06-25 08:40:40",
+      "album": {
+        "name": "Television War",
+        "url": "https://open.spotify.com/album/2cZkYUiZXfQ3XLhUxsuFVm"
+      },
+      "artists": [
+        {
+          "name": "Brenso",
+          "url": "https://open.spotify.com/artist/56W6bwD2W4blOzdXURs1DE"
+        }
+      ],
+      "duration_ms": 129625,
+      "name": "Television War",
+      "url": "https://open.spotify.com/track/4YvWj5XMgtHAqORatyJuVP"
+    },
+    {
+      "added_at": "2026-06-25 08:52:54",
+      "album": {
+        "name": "Supersolid Rock Machine",
+        "url": "https://open.spotify.com/album/3EsQnRLLmD8nAsocbhZsKv"
+      },
+      "artists": [
+        {
+          "name": "Superwatt",
+          "url": "https://open.spotify.com/artist/0HsHStNa5qasm5XF5p8Wgl"
+        }
+      ],
+      "duration_ms": 201625,
+      "name": "Balls, Brains, Horsepower",
+      "url": "https://open.spotify.com/track/7Kou8QtBJvSgChjzsL6hzT"
+    },
+    {
+      "added_at": "2026-06-25 09:11:51",
+      "album": {
+        "name": "Museum",
+        "url": "https://open.spotify.com/album/7zlJLNqmekNYTbT0azdiBT"
+      },
+      "artists": [
+        {
+          "name": "Spill",
+          "url": "https://open.spotify.com/artist/2tC6hqb6gqpLnCoZ5fI323"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Museum",
+      "url": "https://open.spotify.com/track/5O8eoERqd2cbvn887Gyfjt"
+    },
+    {
+      "added_at": "2026-06-25 09:19:28",
+      "album": {
+        "name": "Ad\u00e9u",
+        "url": "https://open.spotify.com/album/430wbJ8NOzJiNvwKyFtV2Q"
+      },
+      "artists": [
+        {
+          "name": "SAWARO",
+          "url": "https://open.spotify.com/artist/6yjugtMe5o8kpqfvFNJPT5"
+        }
+      ],
+      "duration_ms": 234329,
+      "name": "Ad\u00e9u",
+      "url": "https://open.spotify.com/track/16SEHMOVMQwdOSrrJkiWAw"
+    },
+    {
+      "added_at": "2026-06-25 09:22:21",
+      "album": {
+        "name": "Breaking Crests",
+        "url": "https://open.spotify.com/album/2dLSlsENTZgScQ0gyNwmcN"
+      },
+      "artists": [
+        {
+          "name": "KXENIA",
+          "url": "https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL"
+        }
+      ],
+      "duration_ms": 176208,
+      "name": "LIGHTHOUSE",
+      "url": "https://open.spotify.com/track/3grAFJ4WFMWqUxEAzmhbjE"
+    },
+    {
+      "added_at": "2026-06-25 09:25:22",
+      "album": {
+        "name": "Radiobed",
+        "url": "https://open.spotify.com/album/0Q0KaneUvsWOisNrcsDnxO"
+      },
+      "artists": [
+        {
+          "name": "Lost in Lilacs",
+          "url": "https://open.spotify.com/artist/3yeEX4ZL3lpbKEe1hj2GtJ"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Grrr",
+      "url": "https://open.spotify.com/track/2PjEn5jnHD1BUBL1DUMgVS"
+    },
+    {
+      "added_at": "2026-06-25 09:25:33",
+      "album": {
+        "name": "Stigmata",
+        "url": "https://open.spotify.com/album/0NRVcAITV8Fz56QYEMrohr"
+      },
+      "artists": [
+        {
+          "name": "Fact Pattern",
+          "url": "https://open.spotify.com/artist/0dXIlj26frKRmrePtP2Aaf"
+        },
+        {
+          "name": "Inva//id",
+          "url": "https://open.spotify.com/artist/6OcRZGzOmYnBfx5G6L4KNP"
+        }
+      ],
+      "duration_ms": 241233,
+      "name": "Stigmata",
+      "url": "https://open.spotify.com/track/47y7xlj4JMN8yquWaTpnQJ"
     }
   ],
   "unique_name": "Spotify Radio",

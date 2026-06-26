@@ -2,9 +2,9 @@
 
 ### [360 Dance](https://open.spotify.com/playlist/37i9dQZF1DWTwCImwcYjDL)
 
-> De beste dance hits! Cover: Tiësto
+> De beste dance hits! Cover: Franky Rizardo
 
-223 songs - 11 hr 17 min
+224 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Bound To Be](https://open.spotify.com/track/0GxnVrhcIrwzAI4DNco1rK) | [Regi](https://open.spotify.com/artist/77ehFS1P2bU6Bfcs1qu6Jd), [Laura Tesoro](https://open.spotify.com/artist/2vmZupMPxLgT8MNNXTRfa2) | [Bound To Be](https://open.spotify.com/album/0nVdzmErK5yca6ul7Mna0n) | 2:48 | 2026-01-22 | 2026-04-03 |
 | [boy you turn me](https://open.spotify.com/track/5xM6Saib7CixujU8BFW2eN) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [boy you turn me](https://open.spotify.com/album/0yYcF3WuWkHIYpsyWUpRfA) | 3:12 | 2026-03-12 | 2026-05-29 |
 | [Breathe](https://open.spotify.com/track/3k5OdriAcdZklJxzpx8EGM) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Breathe](https://open.spotify.com/album/08R9vWGp22a2x5iqsGgMxH) | 2:48 | 2026-04-02 |  |
-| [Breathe](https://open.spotify.com/track/63RFZokcV2SCixkkqtJTdj) | [Paul Keen](https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF), [Simonic](https://open.spotify.com/artist/254oJ0MeedgW5QELgrhFPC) | [Breathe](https://open.spotify.com/album/1z8uXbVJnEjCW9SAZoVjk7) | 2:56 | 2026-02-26 |  |
+| [Breathe](https://open.spotify.com/track/63RFZokcV2SCixkkqtJTdj) | [Paul Keen](https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF), [Simonic](https://open.spotify.com/artist/254oJ0MeedgW5QELgrhFPC) | [Breathe](https://open.spotify.com/album/1z8uXbVJnEjCW9SAZoVjk7) | 2:56 | 2026-02-26 | 2026-06-26 |
 | [Bring Me To Life](https://open.spotify.com/track/6pkSEqfTFyoqaPXQ1d4nLp) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [FORS](https://open.spotify.com/artist/3IG2AmQqnXTje1NHlIQViX) | [Bring Me To Life](https://open.spotify.com/album/0hLl6XW9qAjuuPijk9SKTe) | 4:18 | 2025-11-27 | 2026-02-27 |
 | [Can't Decide](https://open.spotify.com/track/10pfamFYvg5ftwq6rGJrWx) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc), [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4), [Locky](https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa) | [Can't Decide](https://open.spotify.com/album/2VezYvaKWplhVgqRq1mEKD) | 2:55 | 2025-07-17 | 2025-08-08 |
 | [Can't Slow Down](https://open.spotify.com/track/2KywvbBKDE19v1MqLp52W6) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [Can't Slow Down](https://open.spotify.com/album/1YANR1WSpn28SnFdn2SG4k) | 2:08 | 2026-02-05 | 2026-05-15 |
@@ -65,6 +65,7 @@
 | [Drop That Beat](https://open.spotify.com/track/1zdpuot7uYIIPUAqKUcMap) | [Mosimann](https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK), [Ixxel](https://open.spotify.com/artist/4FuPIvoA4iAe0sVoEfXhal) | [Drop That Beat](https://open.spotify.com/album/5HSSnZBsoHxq1Ch7LH9niU) | 3:28 | 2026-03-05 |  |
 | [Du Du Dum](https://open.spotify.com/track/3n7B0F0EWZ5tHQiD5p2aLm) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt) | [Du Du Dum](https://open.spotify.com/album/6WRRAI9MxMu6c8eTfAKSAR) | 3:38 | 2025-11-12 | 2026-03-13 |
 | [Embers](https://open.spotify.com/track/3OGmnOgg3NQ4uwerCW3GXE) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Embers](https://open.spotify.com/album/0bJj4VUm90sLGDcfl69ZM4) | 3:01 | 2026-01-19 | 2026-03-06 |
+| [Feel](https://open.spotify.com/track/3mxwrp5v4TcWK1T4MsXdcs) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Feel](https://open.spotify.com/album/2kVboAU8NCpgRBT7VyHcK1) | 2:38 | 2026-06-25 |  |
 | [Fire Fire](https://open.spotify.com/track/35dt2bP4CcBzepyufQbvYZ) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7), [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [Fire Fire](https://open.spotify.com/album/7rIqdKsiVJ2ZAHtxFJm6jf) | 2:30 | 2025-09-04 |  |
 | [Free Your Mind](https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Free Your Mind](https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU) | 3:21 | 2026-04-16 |  |
 | [Friday, I’m In Luv \(feat\. bbyclose\)](https://open.spotify.com/track/28x5HxlPwaVrZZH5kgqvtV) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Friday, I’m In Luv \(feat\. bbyclose\)](https://open.spotify.com/album/7nbeiiC2yrhywoh1IdYsae) | 2:25 | 2025-07-17 | 2025-10-03 |

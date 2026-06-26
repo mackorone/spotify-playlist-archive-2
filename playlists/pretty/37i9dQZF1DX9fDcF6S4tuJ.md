@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9fDcF6S4tuJ.md) - [plain]
 
 ### [Disney Princess](https://open.spotify.com/playlist/37i9dQZF1DX9fDcF6S4tuJ)
 
-> Embrace your inner Princess with your favorite Disney Princess songs.
+> Embrace your inner Princess with your favorite Disney Princess songs including "I Am Moana." Disney's Moana, in theaters soon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,008,525 likes - 72 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,008,683 likes - 72 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9fDcF6S4tuJ.md) - [plain]
 | 71 | [Strong](https://open.spotify.com/track/7CMUQu028pU9oKOFMI6pgK) | [Sonna Rele](https://open.spotify.com/artist/3xsipKZGmxYOaitFs52yJf) | [Cinderella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx) | 3:14 |
 | 72 | [That's How You Know \- From "Enchanted"/Soundtrack Version](https://open.spotify.com/track/1OzSfjFW08DTD51XoNnog7) | [Amy Adams](https://open.spotify.com/artist/1gkcZQArk5rV8uBwG8y5FX) | [Enchanted](https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc) | 3:48 |
 
-Snapshot ID: `AAAAAAkmcuItaT0TG7NJXA0b0ORE+trZ`
+Snapshot ID: `AAAAACCirn7jGvRpoqL0D8fYNTyWL8oM`

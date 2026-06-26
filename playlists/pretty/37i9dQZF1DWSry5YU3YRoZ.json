@@ -1,6 +1,6 @@
 {
   "description": "\ucc28\ubd84\ud558\uace0 \uac10\uc131\uc801\uc778 \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3b8\uc548\ud55c \ubc24 \ub418\uc138\uc694 :) (Listen to K-Pop sleeping songs)",
-  "num_followers": 11691,
+  "num_followers": 11698,
   "original_name": "zZZ \uc798\uc790\uc694",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2026-04-27 02:46:25",
       "album": {
-        "name": "love song",
-        "url": "https://open.spotify.com/album/5MbXbQBOrTmBlCNSIKqjEl"
-      },
-      "artists": [
-        {
-          "name": "Lee Yerin",
-          "url": "https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N"
-        }
-      ],
-      "duration_ms": 203658,
-      "name": "love song",
-      "url": "https://open.spotify.com/track/4YK6kyQr9E3KRdi08w3pQz"
-    },
-    {
-      "added_at": "2026-04-27 02:46:25",
-      "album": {
         "name": "The Little",
         "url": "https://open.spotify.com/album/2Eg215da9ZVMDyMXIBAjaM"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 184653,
       "name": "The Little",
       "url": "https://open.spotify.com/track/464Ymo9CA1fD7lzgUnoijt"
+    },
+    {
+      "added_at": "2026-04-27 02:46:25",
+      "album": {
+        "name": "love song",
+        "url": "https://open.spotify.com/album/5MbXbQBOrTmBlCNSIKqjEl"
+      },
+      "artists": [
+        {
+          "name": "Lee Yerin",
+          "url": "https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N"
+        }
+      ],
+      "duration_ms": 203658,
+      "name": "love song",
+      "url": "https://open.spotify.com/track/4YK6kyQr9E3KRdi08w3pQz"
     },
     {
       "added_at": "2026-04-27 02:46:25",
@@ -800,25 +800,25 @@
           "url": "https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW"
         }
       ],
-      "duration_ms": 191945,
-      "name": "of the waves",
-      "url": "https://open.spotify.com/track/6vVhoM22t1QCi8AdFvrRzq"
+      "duration_ms": 200114,
+      "name": "Long time",
+      "url": "https://open.spotify.com/track/3T75cUsEXXcWzWFhcpBa4z"
     },
     {
       "added_at": "2026-04-27 02:46:25",
       "album": {
-        "name": "\uc138\ub808\ub098\ub370 Serenade",
-        "url": "https://open.spotify.com/album/0HDFUM2tbky2lkTiLfT298"
+        "name": "Demo songs",
+        "url": "https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi"
       },
       "artists": [
         {
-          "name": "parkjiyoon",
-          "url": "https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi"
+          "name": "Kim Hyunchang",
+          "url": "https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB"
         }
       ],
-      "duration_ms": 218000,
-      "name": "\uc138\ub808\ub098\ub370 Serenade",
-      "url": "https://open.spotify.com/track/3Hhe3S1wl9E5sTGjqqKBoV"
+      "duration_ms": 246874,
+      "name": "dear heart",
+      "url": "https://open.spotify.com/track/1l8m2AYyklcReKPLQcGH9d"
     }
   ],
   "unique_name": "zZZ \uc798\uc790\uc694",

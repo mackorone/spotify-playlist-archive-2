@@ -1715,6 +1715,32 @@
     },
     {
       "album": {
+        "name": "Beg You",
+        "url": "https://open.spotify.com/album/7yfXmXMG09j5gVj5rY2nAp"
+      },
+      "artists": [
+        {
+          "name": "Eelke Kleijn",
+          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
+        },
+        {
+          "name": "Layla Benitez",
+          "url": "https://open.spotify.com/artist/3StMSo3rzsZBfuGaGLq3IE"
+        },
+        {
+          "name": "Leo Wood",
+          "url": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213562,
+      "name": "Beg You",
+      "url": "https://open.spotify.com/track/1bhtpg4vd53nh4duQh19rb"
+    },
+    {
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/1kv35nBdNjZ1MHQuK34NZV"
       },
@@ -2850,7 +2876,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 231521,
       "name": "Coming In Heavy",
       "url": "https://open.spotify.com/track/6VTiQz9Er68Nn8DywsO2v3"
@@ -5536,7 +5562,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 161250,
       "name": "Fight Machine (feat. NAIIM)",
       "url": "https://open.spotify.com/track/7oKpSQxF9V2XMsFRrQ76P9"
@@ -5558,7 +5584,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 288115,
       "name": "Find A Way - Adam Sellouk Remix",
       "url": "https://open.spotify.com/track/4KoCo18Zg02uv72tyofFKf"
@@ -6216,7 +6242,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-20",
+      "date_removed": null,
       "duration_ms": 193357,
       "name": "Galaxy",
       "url": "https://open.spotify.com/track/2gtR8ffUU1xAOsTNeaEe3A"
@@ -7732,7 +7758,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 190726,
       "name": "Human Now (feat. Luke Steele)",
       "url": "https://open.spotify.com/track/3Ta75DXRTpZ0XieWHuhjE4"
@@ -11431,6 +11457,24 @@
     },
     {
       "album": {
+        "name": "Neither Here nor There",
+        "url": "https://open.spotify.com/album/1p7eMQ6EWpMzNW2ZZwwC3w"
+      },
+      "artists": [
+        {
+          "name": "La Giang",
+          "url": "https://open.spotify.com/artist/4ZtuLbaTRcktUjXtSwzqQ3"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277261,
+      "name": "Neither Here nor There",
+      "url": "https://open.spotify.com/track/4xgXWb9FaRCtP3kzuO70Y3"
+    },
+    {
+      "album": {
         "name": "NEMESIS",
         "url": "https://open.spotify.com/album/17KQVpxPbnL5QRaZmMIjF7"
       },
@@ -12119,6 +12163,28 @@
     },
     {
       "album": {
+        "name": "One More Night",
+        "url": "https://open.spotify.com/album/7JzZIXsqnFpBNN6NFoJCSD"
+      },
+      "artists": [
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        },
+        {
+          "name": "Frankyeffe",
+          "url": "https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/63NVdE8FnQDVYy9UzWzeCA"
+    },
+    {
+      "album": {
         "name": "Only Human",
         "url": "https://open.spotify.com/album/0yRBPG7n4gLI1ZZ1OrH1vp"
       },
@@ -12170,6 +12236,28 @@
       "duration_ms": 485927,
       "name": "Optical",
       "url": "https://open.spotify.com/track/6Y5EdBwTFQM8clidhhzjGt"
+    },
+    {
+      "album": {
+        "name": "Orages",
+        "url": "https://open.spotify.com/album/7dmsg0zuOtzMmhV4QhTvc5"
+      },
+      "artists": [
+        {
+          "name": "Joris Delacroix",
+          "url": "https://open.spotify.com/artist/3HRRzIZNQFus3xlUx2xKy1"
+        },
+        {
+          "name": "PACT",
+          "url": "https://open.spotify.com/artist/5EDgmVBq5IjxAumbWRazCA"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225230,
+      "name": "Orages",
+      "url": "https://open.spotify.com/track/1L0hqrZM2FEuiIrquTG8aq"
     },
     {
       "album": {
@@ -14066,7 +14154,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 193700,
       "name": "RITMO",
       "url": "https://open.spotify.com/track/3ifvaAvaSYo1WDWXxAiv2A"
@@ -14164,7 +14252,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 146490,
       "name": "Rondo",
       "url": "https://open.spotify.com/track/6CwxmhlcNrTpyM2GyhyUp3"
@@ -16089,6 +16177,24 @@
     },
     {
       "album": {
+        "name": "Take Me Higher",
+        "url": "https://open.spotify.com/album/5wG9PrFYFT6jH2IH4uNRt2"
+      },
+      "artists": [
+        {
+          "name": "Brina Knauss",
+          "url": "https://open.spotify.com/artist/3dAC3NjJnsavHLFC8GCyRZ"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417637,
+      "name": "Take Me Higher",
+      "url": "https://open.spotify.com/track/29sK75FcZG9AFQ3Wka5iQn"
+    },
+    {
+      "album": {
         "name": "Take Off",
         "url": "https://open.spotify.com/album/350F8g1oIRWzdUs8gMfmsc"
       },
@@ -16796,6 +16902,28 @@
       "duration_ms": 232380,
       "name": "The Point Of Living (Omnya Remix)",
       "url": "https://open.spotify.com/track/3AHuzLTJG3pg5XNHa0c2Cl"
+    },
+    {
+      "album": {
+        "name": "The Present",
+        "url": "https://open.spotify.com/album/5RJGiUtK43Fgp3clT5LX7A"
+      },
+      "artists": [
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        },
+        {
+          "name": "Korolova",
+          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193125,
+      "name": "The Present",
+      "url": "https://open.spotify.com/track/0maA6RvbajdIFwz4F9wxCD"
     },
     {
       "album": {
@@ -18946,7 +19074,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 285600,
       "name": "WHEREVER YOU ARE",
       "url": "https://open.spotify.com/track/0oG75Fub50IHhrn9qKXBjO"

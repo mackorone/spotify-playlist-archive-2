@@ -1,12 +1,12 @@
 {
   "description": "This is Roberta Flack. The essential tracks, all in one playlist.",
-  "num_followers": 49628,
+  "num_followers": 49630,
   "original_name": "This Is Roberta Flack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajnMgAAAAABqjD6lgCXmNAsl4FMqmqA7",
+  "snapshot_id": "ajseAAAAAAAhL9FfrJ0JjWsF3ugq5nhX",
   "tracks": [
     {
       "added_at": null,
@@ -195,6 +195,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quiet Fire",
+        "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 247226,
+      "name": "Will You Still Love Me Tomorrow",
+      "url": "https://open.spotify.com/track/6n5647DTsQSR4llhBAqoUr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Donny Hathaway Collection",
         "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 290973,
       "name": "Back Together Again (feat. Donny Hathaway)",
       "url": "https://open.spotify.com/track/065o5Vhiq7Dx6JXF0e33S8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quiet Fire",
-        "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 247226,
-      "name": "Will You Still Love Me Tomorrow",
-      "url": "https://open.spotify.com/track/6n5647DTsQSR4llhBAqoUr"
     },
     {
       "added_at": null,
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 248213,
-      "name": "Hey, That's No Way to Say Goodbye",
-      "url": "https://open.spotify.com/track/130dKZhza6XRe8WSBl1nsu"
+      "duration_ms": 316586,
+      "name": "Compared to What",
+      "url": "https://open.spotify.com/track/3ZTEMmFm3FzfEtjqJN32c1"
     },
     {
       "added_at": null,
@@ -392,9 +392,25 @@
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 316586,
-      "name": "Compared to What",
-      "url": "https://open.spotify.com/track/3ZTEMmFm3FzfEtjqJN32c1"
+      "duration_ms": 248213,
+      "name": "Hey, That's No Way to Say Goodbye",
+      "url": "https://open.spotify.com/track/130dKZhza6XRe8WSBl1nsu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Set the Night to Music",
+        "url": "https://open.spotify.com/album/4NH4c6JLgCJeFiVrC5jBez"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 301946,
+      "name": "You Make Me Feel Brand New",
+      "url": "https://open.spotify.com/track/2vXcw6gXsvfmQezYVs9Las"
     },
     {
       "added_at": null,
@@ -415,22 +431,6 @@
       "duration_ms": 303333,
       "name": "I (Who Have Nothing)",
       "url": "https://open.spotify.com/track/2gd06mQH4bk07b7klXpkyV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Set the Night to Music",
-        "url": "https://open.spotify.com/album/4NH4c6JLgCJeFiVrC5jBez"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 301946,
-      "name": "You Make Me Feel Brand New",
-      "url": "https://open.spotify.com/track/2vXcw6gXsvfmQezYVs9Las"
     },
     {
       "added_at": null,
@@ -479,6 +479,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Born To Love",
+        "url": "https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE"
+      },
+      "artists": [
+        {
+          "name": "Peabo Bryson",
+          "url": "https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0"
+        },
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 271640,
+      "name": "Can We Find Love Again",
+      "url": "https://open.spotify.com/track/1G13qSTYRoDhyuFub96Y7P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Roberta Flack & Donny Hathaway",
         "url": "https://open.spotify.com/album/3t3Ql46lQfRm2Co3SFXkrp"
       },
@@ -515,26 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Born To Love",
-        "url": "https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE"
-      },
-      "artists": [
-        {
-          "name": "Peabo Bryson",
-          "url": "https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0"
-        },
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 271640,
-      "name": "Can We Find Love Again",
-      "url": "https://open.spotify.com/track/1G13qSTYRoDhyuFub96Y7P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chapter Two",
         "url": "https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4"
       },
@@ -547,26 +547,6 @@
       "duration_ms": 299693,
       "name": "Let It Be Me",
       "url": "https://open.spotify.com/track/3JQhucHpNxG2iDwFYHUwur"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live & More",
-        "url": "https://open.spotify.com/album/0Cg0ZJ1upTPMXfn7M2C5iZ"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        },
-        {
-          "name": "Peabo Bryson",
-          "url": "https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0"
-        }
-      ],
-      "duration_ms": 570800,
-      "name": "Only Heaven Can Wait (For Love) / You Are My Heaven - Live Version",
-      "url": "https://open.spotify.com/track/4maILRXT2aYEo6BxTSAk1U"
     },
     {
       "added_at": null,
@@ -591,6 +571,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live & More",
+        "url": "https://open.spotify.com/album/0Cg0ZJ1upTPMXfn7M2C5iZ"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        },
+        {
+          "name": "Peabo Bryson",
+          "url": "https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0"
+        }
+      ],
+      "duration_ms": 570800,
+      "name": "Only Heaven Can Wait (For Love) / You Are My Heaven - Live Version",
+      "url": "https://open.spotify.com/track/4maILRXT2aYEo6BxTSAk1U"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I'm the One",
         "url": "https://open.spotify.com/album/5A00qXuqxWrO4NvSkBZfq4"
       },
@@ -603,6 +603,22 @@
       "duration_ms": 224733,
       "name": "'Till the Morning Comes",
       "url": "https://open.spotify.com/track/1Fj7PU5CHaVEgn4f9ZC85N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mercy Mercy Me (Live at Montreux, 2005)",
+        "url": "https://open.spotify.com/album/35e5LeFW5xUq3mQonZtiak"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 363840,
+      "name": "Mercy Mercy Me - Live at Montreux, 2005",
+      "url": "https://open.spotify.com/track/2zbX4mAR7ZZOs0utlZlXng"
     },
     {
       "added_at": null,
@@ -643,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mercy Mercy Me (Live at Montreux, 2005)",
-        "url": "https://open.spotify.com/album/35e5LeFW5xUq3mQonZtiak"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 363840,
-      "name": "Mercy Mercy Me - Live at Montreux, 2005",
-      "url": "https://open.spotify.com/track/2zbX4mAR7ZZOs0utlZlXng"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Killing Me Softly",
         "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
       },
@@ -695,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live & More",
-        "url": "https://open.spotify.com/album/0Cg0ZJ1upTPMXfn7M2C5iZ"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        },
-        {
-          "name": "Peabo Bryson",
-          "url": "https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0"
-        }
-      ],
-      "duration_ms": 470466,
-      "name": "Reachin' for the Sky - Live Version",
-      "url": "https://open.spotify.com/track/7fkgZQETwePSUjTgydUl69"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Roberta Flack Featuring Donny Hathaway",
         "url": "https://open.spotify.com/album/4cNXauC0sitXWsOmuOtGvg"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 246066,
       "name": "Only Heaven Can Wait (For Love) (feat. Donny Hathaway)",
       "url": "https://open.spotify.com/track/7FOSBjOxnDd3vns3AKx8rr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live & More",
+        "url": "https://open.spotify.com/album/0Cg0ZJ1upTPMXfn7M2C5iZ"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        },
+        {
+          "name": "Peabo Bryson",
+          "url": "https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0"
+        }
+      ],
+      "duration_ms": 470466,
+      "name": "Reachin' for the Sky - Live Version",
+      "url": "https://open.spotify.com/track/7fkgZQETwePSUjTgydUl69"
     },
     {
       "added_at": null,

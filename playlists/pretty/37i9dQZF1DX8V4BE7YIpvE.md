@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8V4BE7YIpvE.md) - [plain]
 
 > Focus, game or just chill to these smooth synthwave beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,064 likes - 90 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,127 likes - 90 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,22 +14,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8V4BE7YIpvE.md) - [plain]
 | 4 | [Neon Orbit](https://open.spotify.com/track/16GTkv3dQoS1MgFzNd3Uc8) | [After Dark](https://open.spotify.com/artist/01oXEIT0WHf08pPiMUuY9k) | [Neon Orbit](https://open.spotify.com/album/6QE5TbvaUwhb426Hj4Ak2E) | 2:02 |
 | 5 | [Signal in the Night](https://open.spotify.com/track/0GfrH11bdkBG26DLlRuxYD) | [Night Shapes](https://open.spotify.com/artist/6PRP1lwrRpqb8gfYERsnhV) | [Signal in the Night](https://open.spotify.com/album/5NKRsDlA8f3Rg3BWzWoMtP) | 2:22 |
 | 6 | [Metrogate](https://open.spotify.com/track/5xSxWpL9NhkR2B4lwKIK5v) | [Nocora](https://open.spotify.com/artist/5Lip3pKcScdUFzpJ4fJpHh) | [Metrogate](https://open.spotify.com/album/4Q5fTmh7p1FC2cO6G8vz1u) | 2:02 |
-| 7 | [Pacific FM](https://open.spotify.com/track/5sJSsNjYnlSUyAi9SzwmCd) | [Lucy In Disguise](https://open.spotify.com/artist/1FwlK3oTrK60CBk54koZJg) | [Pacific FM](https://open.spotify.com/album/7037eUSnHepw1YxWCLCDzN) | 3:35 |
-| 8 | [Moonset Lagoon](https://open.spotify.com/track/2WkBM7FQAaaXIAm87pcqrR) | [Low Horizon](https://open.spotify.com/artist/3jHzfRqEY04Ye2Z7tntlVR) | [Moonset Lagoon](https://open.spotify.com/album/43A2TImzSPBFmN43qvJS8g) | 2:27 |
-| 9 | [Last Flight Home](https://open.spotify.com/track/74cIJLvDb0MqZeFWYFISIJ) | [Crystal Motel](https://open.spotify.com/artist/6UD8pS3KW4GX4PPxza4OW3) | [Last Flight Home](https://open.spotify.com/album/3TS7vwd8nyPCSTh2I7cCY1) | 2:13 |
-| 10 | [Nokton](https://open.spotify.com/track/5JuWSV7iwKHcnM07wTC2gm) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0) | [Nokton](https://open.spotify.com/album/6r8bfLMdbkBfU87w4OkDgr) | 4:03 |
-| 11 | [Ring of Tomorrow](https://open.spotify.com/track/6SEE7vwnevV0E2IgRVpm0f) | [Azure Rooms](https://open.spotify.com/artist/6wOyatkq0K10g7yVdniobk) | [Ring of Tomorrow](https://open.spotify.com/album/5xBxQ3jKLs7MFwDh8FC1HX) | 2:15 |
-| 12 | [Radion \- Slowed](https://open.spotify.com/track/2cVtSnlZ2q9ryxYrXN3ASJ) | [Rogue VHS](https://open.spotify.com/artist/55DhV9I8VahoWvpa3QMPP5), [Echo Wolf](https://open.spotify.com/artist/60ZQkaf0EkOhPZOKlwYv5s) | [Radion](https://open.spotify.com/album/23d7GT8TL1YsDC2jBbxRSR) | 3:57 |
-| 13 | [Youth](https://open.spotify.com/track/3htQLQ5sBwlf8q7BwFHCyR) | [Aurora Wave](https://open.spotify.com/artist/4AQ41dflvmpYLr59f4Fg16) | [Youth](https://open.spotify.com/album/7sTZ8nxCThLx23NJyXgVZY) | 2:22 |
-| 14 | [Dream State](https://open.spotify.com/track/1MwN0GKuHEx1mQV9NeSgWf) | [Downtown Binary](https://open.spotify.com/artist/0H4t3GcGse8cqfL222mfbv) | [Dream State](https://open.spotify.com/album/4zNRBdpAuFfWMJ3pkpp6C6) | 5:07 |
-| 15 | [Platform 22](https://open.spotify.com/track/2H9WYcVOtCkBtcAK26zxap) | [Crystal Motel](https://open.spotify.com/artist/6UD8pS3KW4GX4PPxza4OW3) | [Platform 22](https://open.spotify.com/album/6HvC9zZSVNpEhXJzpAcHzr) | 2:10 |
-| 16 | [Subception](https://open.spotify.com/track/3Hh26NS2tU4rlUPzS23Lzj) | [NiElsir](https://open.spotify.com/artist/7A7IFcjPcVU9swlaIT1wbk) | [Subception](https://open.spotify.com/album/2odxmqt1NfU0R0q2p3V3J7) | 4:05 |
-| 17 | [Awakening](https://open.spotify.com/track/25opYqHRWFhf2BXnXdTJ6s) | [Lavaros](https://open.spotify.com/artist/56QnFN63OBCffhsKBcm78z) | [Metanoia](https://open.spotify.com/album/4Z11SHkD9MSesj7zEaIWk9) | 2:14 |
-| 18 | [Underpass Reverie](https://open.spotify.com/track/5YPZBk1PtKjY4UzR7N8US9) | [Night Shapes](https://open.spotify.com/artist/6PRP1lwrRpqb8gfYERsnhV) | [Underpass Reverie](https://open.spotify.com/album/6CW2fbIEzrUZVF0V3ooZcz) | 2:28 |
-| 19 | [Static Horizon](https://open.spotify.com/track/47pIdfwVppx9bWNs2FHnDO) | [After Dark](https://open.spotify.com/artist/01oXEIT0WHf08pPiMUuY9k) | [Static Horizon](https://open.spotify.com/album/4CwbYwAw7lixI1oiiiPNAe) | 2:12 |
-| 20 | [Afterlight](https://open.spotify.com/track/0n3eQd5OwyywONTRfXQ0Ry) | [Emil Rottmayer](https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT) | [Afterlight](https://open.spotify.com/album/6xn0oEUNjATbwAThgQHyFx) | 3:37 |
-| 21 | [Static](https://open.spotify.com/track/0O20mEKJKYAJRgknFj4NEt) | [The Motion](https://open.spotify.com/artist/2Oa32CWdPcsW36MkDRjM5n), [ØFFalling](https://open.spotify.com/artist/2ojS6yIcU29iRfOFEwQnIV) | [Static](https://open.spotify.com/album/6mM9X7l29yfMAouPf3xyzz) | 3:25 |
-| 22 | [Lost Valley](https://open.spotify.com/track/0iumWLcmMMQ6sdST9HrqgJ) | [Aurora Wave](https://open.spotify.com/artist/4AQ41dflvmpYLr59f4Fg16) | [Lost Valley](https://open.spotify.com/album/2m2EQgKQ9XoJIb314ZihkN) | 3:01 |
+| 7 | [Moonset Lagoon](https://open.spotify.com/track/2WkBM7FQAaaXIAm87pcqrR) | [Low Horizon](https://open.spotify.com/artist/3jHzfRqEY04Ye2Z7tntlVR) | [Moonset Lagoon](https://open.spotify.com/album/43A2TImzSPBFmN43qvJS8g) | 2:27 |
+| 8 | [Last Flight Home](https://open.spotify.com/track/74cIJLvDb0MqZeFWYFISIJ) | [Crystal Motel](https://open.spotify.com/artist/6UD8pS3KW4GX4PPxza4OW3) | [Last Flight Home](https://open.spotify.com/album/3TS7vwd8nyPCSTh2I7cCY1) | 2:13 |
+| 9 | [Nokton](https://open.spotify.com/track/5JuWSV7iwKHcnM07wTC2gm) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0) | [Nokton](https://open.spotify.com/album/6r8bfLMdbkBfU87w4OkDgr) | 4:03 |
+| 10 | [Youth](https://open.spotify.com/track/3htQLQ5sBwlf8q7BwFHCyR) | [Aurora Wave](https://open.spotify.com/artist/4AQ41dflvmpYLr59f4Fg16) | [Youth](https://open.spotify.com/album/7sTZ8nxCThLx23NJyXgVZY) | 2:22 |
+| 11 | [Dream State](https://open.spotify.com/track/1MwN0GKuHEx1mQV9NeSgWf) | [Downtown Binary](https://open.spotify.com/artist/0H4t3GcGse8cqfL222mfbv) | [Dream State](https://open.spotify.com/album/4zNRBdpAuFfWMJ3pkpp6C6) | 5:07 |
+| 12 | [Platform 22](https://open.spotify.com/track/2H9WYcVOtCkBtcAK26zxap) | [Crystal Motel](https://open.spotify.com/artist/6UD8pS3KW4GX4PPxza4OW3) | [Platform 22](https://open.spotify.com/album/6HvC9zZSVNpEhXJzpAcHzr) | 2:10 |
+| 13 | [Subception](https://open.spotify.com/track/3Hh26NS2tU4rlUPzS23Lzj) | [NiElsir](https://open.spotify.com/artist/7A7IFcjPcVU9swlaIT1wbk) | [Subception](https://open.spotify.com/album/2odxmqt1NfU0R0q2p3V3J7) | 4:05 |
+| 14 | [Awakening](https://open.spotify.com/track/25opYqHRWFhf2BXnXdTJ6s) | [Lavaros](https://open.spotify.com/artist/56QnFN63OBCffhsKBcm78z) | [Metanoia](https://open.spotify.com/album/4Z11SHkD9MSesj7zEaIWk9) | 2:14 |
+| 15 | [Underpass Reverie](https://open.spotify.com/track/5YPZBk1PtKjY4UzR7N8US9) | [Night Shapes](https://open.spotify.com/artist/6PRP1lwrRpqb8gfYERsnhV) | [Underpass Reverie](https://open.spotify.com/album/6CW2fbIEzrUZVF0V3ooZcz) | 2:28 |
+| 16 | [Static Horizon](https://open.spotify.com/track/47pIdfwVppx9bWNs2FHnDO) | [After Dark](https://open.spotify.com/artist/01oXEIT0WHf08pPiMUuY9k) | [Static Horizon](https://open.spotify.com/album/4CwbYwAw7lixI1oiiiPNAe) | 2:12 |
+| 17 | [Afterlight](https://open.spotify.com/track/0n3eQd5OwyywONTRfXQ0Ry) | [Emil Rottmayer](https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT) | [Afterlight](https://open.spotify.com/album/6xn0oEUNjATbwAThgQHyFx) | 3:37 |
+| 18 | [Static](https://open.spotify.com/track/0O20mEKJKYAJRgknFj4NEt) | [The Motion](https://open.spotify.com/artist/2Oa32CWdPcsW36MkDRjM5n), [ØFFalling](https://open.spotify.com/artist/2ojS6yIcU29iRfOFEwQnIV) | [Static](https://open.spotify.com/album/6mM9X7l29yfMAouPf3xyzz) | 3:25 |
+| 19 | [Lost Valley](https://open.spotify.com/track/0iumWLcmMMQ6sdST9HrqgJ) | [Aurora Wave](https://open.spotify.com/artist/4AQ41dflvmpYLr59f4Fg16) | [Lost Valley](https://open.spotify.com/album/2m2EQgKQ9XoJIb314ZihkN) | 3:01 |
+| 20 | [Ring of Tomorrow](https://open.spotify.com/track/6SEE7vwnevV0E2IgRVpm0f) | [Azure Rooms](https://open.spotify.com/artist/6wOyatkq0K10g7yVdniobk) | [Ring of Tomorrow](https://open.spotify.com/album/5xBxQ3jKLs7MFwDh8FC1HX) | 2:15 |
+| 21 | [Pacific FM](https://open.spotify.com/track/5sJSsNjYnlSUyAi9SzwmCd) | [Lucy In Disguise](https://open.spotify.com/artist/1FwlK3oTrK60CBk54koZJg) | [Pacific FM](https://open.spotify.com/album/7037eUSnHepw1YxWCLCDzN) | 3:35 |
+| 22 | [Radion \- Slowed](https://open.spotify.com/track/2cVtSnlZ2q9ryxYrXN3ASJ) | [Rogue VHS](https://open.spotify.com/artist/55DhV9I8VahoWvpa3QMPP5), [Echo Wolf](https://open.spotify.com/artist/60ZQkaf0EkOhPZOKlwYv5s) | [Radion](https://open.spotify.com/album/23d7GT8TL1YsDC2jBbxRSR) | 3:57 |
 | 23 | [Parallax](https://open.spotify.com/track/09KiRkUWXVjzaISuMNia3d) | [Foudroie](https://open.spotify.com/artist/1P689RfBCQpBQoZhCCgFma) | [Parallax](https://open.spotify.com/album/6WXePaUDedYtJimyPRjy5W) | 2:07 |
 | 24 | [Lunar Glow](https://open.spotify.com/track/70B83E7I2hY8kjDlGhFffp) | [Deltavolt](https://open.spotify.com/artist/7JVTsM5lw7BcXMUDkHd67B), [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz) | [Lunar Glow](https://open.spotify.com/album/2aXf4TO1QVplMdbuAQV2dc) | 2:56 |
 | 25 | [Light Shift](https://open.spotify.com/track/2o5g4pvgKEB1nKsmROugVK) | [Alex Boychuk](https://open.spotify.com/artist/5PQIdH1jeF2EvLoTENF0qU) | [Light Shift](https://open.spotify.com/album/1Db7jNdGRzyIlK9zD3VQeQ) | 3:47 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8V4BE7YIpvE.md) - [plain]
 | 89 | [Drift](https://open.spotify.com/track/2kwIEGhwRDoVcXX5QLUxft) | [Axl Rhodes](https://open.spotify.com/artist/5nlgdELJT2bvwCgU1ZCNf4), [Nightflyer](https://open.spotify.com/artist/1QoMEICpXIL1cNck2dWHIh) | [Drift](https://open.spotify.com/album/3xeoeiLfxVZ3P1QQlByPV7) | 3:50 |
 | 90 | [Infrared](https://open.spotify.com/track/4vgXBdJJ9jCEnAKFhVgCmN) | [Emil Rottmayer](https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT) | [Infrared](https://open.spotify.com/album/1KcHt65UCtPC8lAY7ytLUt) | 3:08 |
 
-Snapshot ID: `AAAAAG04vX+xmMe8IX9tdO6QY2Cf0EdF`
+Snapshot ID: `AAAAANwbmPJuzlzGd06SOsx1b4ldBUk3`

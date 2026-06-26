@@ -4,7 +4,7 @@
 
 > Conheça as novas vozes da música sertaneja! Foto: Heitor & Henrique, Israel & Rodolffo
 
-432 songs - 20 hr 36 min
+433 songs - 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Escorpiana](https://open.spotify.com/track/3Io9VaEYk5TRhD47yCJgPP) | [Fael](https://open.spotify.com/artist/0wm7fcPWX7YcYWabIvDl0X) | [Escorpiana](https://open.spotify.com/album/0QwM7mzj3MbH2rA1Hm2hQf) | 2:26 | 2024-06-28 | 2024-07-19 |
 | [Esquece](https://open.spotify.com/track/5Oi7eYlDSBqZc6CfkGV7WC) | [Jennifer Scheffer](https://open.spotify.com/artist/5pUunA7YSNnIdMv8qN92yN), [Paulo Pires](https://open.spotify.com/artist/3whgFbrRxsOmYVrq3t4hCY) | [Esquece](https://open.spotify.com/album/62rXAGiSDww5j8bijZdTP2) | 2:19 | 2024-06-28 | 2024-07-13 |
 | [Esquecível \- Ao Vivo](https://open.spotify.com/track/2n4pwBxp0f5rQOZsZCJ09f) | [Larissa e Mariana](https://open.spotify.com/artist/4Tbs2tTIXSx0CfTQCj96kO), [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox) | [Esquecível \(Ao Vivo\)](https://open.spotify.com/album/6pIAHUlvlgeqzkgYPZ5sfd) | 3:18 | 2026-02-06 |  |
+| [Esse Cara Não é Eu \- Ao Vivo](https://open.spotify.com/track/1ZdnEJvySXljXFxnQUuK8S) | [João Lucas e Ricardo](https://open.spotify.com/artist/1bZGiIIAMysBfICdZZy1CX), [Max e Luan](https://open.spotify.com/artist/5M1ILxS67JEzWguvzNakgE), [MJ Records](https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf) | [Esse Cara Não é Eu \(Ao Vivo\)](https://open.spotify.com/album/2r5lTPjgH7yw92hNIUWZXs) | 2:29 | 2026-06-26 |  |
 | [Estatística \- Ao Vivo](https://open.spotify.com/track/0mNUOT5kFPui5ghdqy0mAE) | [Débora & Daniela](https://open.spotify.com/artist/3O4oCrI8bsnuk5X6mrjjb7), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Encontro, Vol.1 \(Ao Vivo\)](https://open.spotify.com/album/7zc32T4pEa1YRtGtiBX04W) | 2:35 | 2025-04-04 | 2025-12-12 |
 | [Estranhos na Rua](https://open.spotify.com/track/04wD6wvICgg429Pxre0CAg) | [Melissa e Milena](https://open.spotify.com/artist/6uUfwRchop6ciRB2HxXDKw), [Cristinas](https://open.spotify.com/artist/7DmKgIhj9hUClv6a1iF4Q3) | [Estranhos na Rua](https://open.spotify.com/album/4rNlO8Mai2hG928TGcIPEf) | 3:09 | 2025-05-30 | 2025-07-19 |
 | [Estupidamente](https://open.spotify.com/track/6b3tJ8apcSvupFoynX6Roq) | [Lorena Cristine](https://open.spotify.com/artist/2QVNBzkqMGqtwHiLyobYln) | [Estupidamente](https://open.spotify.com/album/4w03adnLXHwOKqygDas1sE) | 3:04 | 2025-01-17 | 2025-02-07 |
@@ -261,7 +262,7 @@
 | [Não Foi Pra Sempre](https://open.spotify.com/track/2Zn2PuJmF9YMiIbSdOA1jz) | [Jhenifer e Thiago](https://open.spotify.com/artist/20Yc9fqIl2wtBrlwuiYgCk) | [Não Foi Pra Sempre](https://open.spotify.com/album/4IPuSEDhiP73MN9qIgVaR1) | 2:12 | 2026-05-15 |  |
 | [Não Prometi \- Ao Vivo](https://open.spotify.com/track/0XTJllfB214MgvmVp8LoDm) | [Rapha & Leo](https://open.spotify.com/artist/05BcBTSbcgEgbIMzRTOhKs) | [Não Prometi \(Ao Vivo\)](https://open.spotify.com/album/4Rzr4LTFJzDZv37ZaQs3B8) | 2:23 | 2024-06-28 | 2024-09-27 |
 | [Não Sei o Que Lá / Só Fazendo Amor \- Batidão & Tereré, Ao Vivo](https://open.spotify.com/track/1JeyJyzInLEcczWkSiTSsY) | [Thulio & Thiagu](https://open.spotify.com/artist/5GYmepcNQqDReWPdV4sX2g) | [Não Sei o Que Lá / Só Fazendo Amor \(Batidão & Tereré, Ao Vivo\)](https://open.spotify.com/album/6KcZXZdQSy2M5OkX14yAdv) | 2:53 | 2024-06-28 | 2024-08-24 |
-| [Não Tem Coração \- Ao Vivo](https://open.spotify.com/track/46OvpQBI6USXfd3cBmRpt2) | [Bia Bosco](https://open.spotify.com/artist/5Wc1XC9J5T1vCw8NsUt2OK) | [Um Novo Horizonte, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/1QrAebRIqS4gL3IL6qY4dl) | 3:28 | 2026-03-06 |  |
+| [Não Tem Coração \- Ao Vivo](https://open.spotify.com/track/46OvpQBI6USXfd3cBmRpt2) | [Bia Bosco](https://open.spotify.com/artist/5Wc1XC9J5T1vCw8NsUt2OK) | [Um Novo Horizonte, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/1QrAebRIqS4gL3IL6qY4dl) | 3:28 | 2026-03-06 | 2026-06-26 |
 | [Não tem você \- Ao Vivo](https://open.spotify.com/track/1UjXpFudlor8o3HAp7436v) | [GH e Eduardo](https://open.spotify.com/artist/5JA1rRkR1sws7OmZVvqU4V) | [Não tem você \(Ao Vivo\)](https://open.spotify.com/album/7eSjIRb3S9mDEmPAn5tOgp) | 2:29 | 2024-09-13 | 2025-02-14 |
 | [Não Tenho Advogado \- Ao Vivo](https://open.spotify.com/track/5UThpd6uiIEi9cJWmNpKe6) | [Ana Karla](https://open.spotify.com/artist/7mw9XzFeAIy1kpWqdnuRG3) | [No Rancho, Vol\. 01 \(Ao Vivo\)](https://open.spotify.com/album/01bDZkfxolGLZ2kG18EHK6) | 2:42 | 2026-04-24 |  |
 | [Não Vai Seco](https://open.spotify.com/track/4nm0sdoLEaASMA4rjpR66a) | [Pedro Henrique e João Victor](https://open.spotify.com/artist/1Q2sPWZlgf0X5CQYDIHdef) | [Não Vai Seco](https://open.spotify.com/album/5l8VXNYRrFfLz1hY0lg8xh) | 2:20 | 2025-10-04 |  |

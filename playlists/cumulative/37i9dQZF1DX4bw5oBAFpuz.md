@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-644 songs - 1 day 12 hr 36 min
+646 songs - 1 day 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,6 +319,7 @@
 | [Lifeline](https://open.spotify.com/track/4JIuMgm9VaZ7RjdINnb0qW) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Colors](https://open.spotify.com/album/3gItu2V465QjUfK63UQM0K) | 2:59 | 2025-01-28 | 2025-05-09 |
 | [Lift You Up](https://open.spotify.com/track/7Gu7NjUmWPvX5I35WolbIQ) | [Jasper Steverlinck](https://open.spotify.com/artist/5M9Q9H6jHj5txCVX5KSM8V) | [Lift You Up](https://open.spotify.com/album/0VpQQARdV5LQijcfgFIoLX) | 3:01 | 2023-11-02 |  |
 | [Light Switch \- Acoustic](https://open.spotify.com/track/42nDnUAPjhZFlj5wt2BjJm) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Light Switch \(Acoustic\)](https://open.spotify.com/album/0H6pdORxZ735HztupqklPx) | 3:06 | 2023-02-23 | 2024-07-27 |
+| [Little More Time](https://open.spotify.com/track/7ukOzDe3BKCSpA6ki775U5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Little More Time](https://open.spotify.com/album/4iRdV4c5sAh3oMl5MTYv9t) | 3:38 | 2026-06-25 |  |
 | [Little Things](https://open.spotify.com/track/240WkSGaUBJMBmHLqS33WA) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [HILDA](https://open.spotify.com/album/36JKBe1pJrnrxPOFLCE0uj) | 3:09 | 2023-02-23 | 2026-03-06 |
 | [Looking For Your Name](https://open.spotify.com/track/1pfOZQDapYAnR5qbHZhsXm) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Embrace](https://open.spotify.com/album/7G53des9iRPuUydeFXXNGy) | 4:53 | 2023-02-23 | 2026-02-07 |
 | [Lose It All](https://open.spotify.com/track/1mBtrVS6hLeqcVecvpAqBJ) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Lose It All](https://open.spotify.com/album/1zxsgM6wXvm801tK3ue3aF) | 3:25 | 2023-02-23 | 2023-08-18 |
@@ -384,7 +385,7 @@
 | [No Worries](https://open.spotify.com/track/1T6928Jai5vaFUIP7XhXhS) | [Simon Webbe](https://open.spotify.com/artist/3P6nMEGXn0hzBlMndKfLQH) | [Sanctuary](https://open.spotify.com/album/3721OxBl0D7wkRrKhfJl03) | 3:29 | 2024-04-11 | 2026-03-06 |
 | [No Worries](https://open.spotify.com/track/0Q95QAw0HKaykvMZA3tMOb) | [Simon Webbe](https://open.spotify.com/artist/3P6nMEGXn0hzBlMndKfLQH) | [Sanctuary](https://open.spotify.com/album/4zlJk4dH9eE5wQGOrKvKhs) | 3:29 | 2023-02-23 | 2024-04-19 |
 | [Nobody Just Like You](https://open.spotify.com/track/6c1LPZcvGFR61iNceP77q9) | [Human Nature](https://open.spotify.com/artist/72BTmmAO3QfETWlFjwjfJ1) | [Nobody Just Like You](https://open.spotify.com/album/1T17JPPFnkMa9hd9fkqblx) | 2:44 | 2023-02-23 | 2024-08-03 |
-| [Nobody Knows](https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Nobody Knows](https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj) | 2:32 | 2024-10-24 |  |
+| [Nobody Knows](https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Nobody Knows](https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj) | 2:32 | 2024-10-24 | 2026-06-26 |
 | [Not Our Fault](https://open.spotify.com/track/0q7EANvg9S0AUFaE7iINZB) | [Thomas Geelens](https://open.spotify.com/artist/0fOACSuV2yErGIXJvBsIZz) | [Not Our Fault](https://open.spotify.com/album/5Nc2dtfzKdxu7ri2YbMSGZ) | 4:31 | 2023-05-01 | 2024-01-24 |
 | [Not Our Fault](https://open.spotify.com/track/1LTtiJn18l2cYDjYxK3OQU) | [Thomas Geelens](https://open.spotify.com/artist/0fOACSuV2yErGIXJvBsIZz) | [Not Our Fault](https://open.spotify.com/album/1IOX8G95QttETwSCr0EI4k) | 4:31 | 2023-04-25 | 2023-05-10 |
 | [Not Our Fault](https://open.spotify.com/track/6QuwHuwgucbVeqJBlIWD0h) | [Thomas Geelens](https://open.spotify.com/artist/0fOACSuV2yErGIXJvBsIZz) | [Not Our Fault](https://open.spotify.com/album/5H7nCfkt7ovBwVG7LqU2xA) | 4:31 | 2024-01-16 | 2024-03-21 |
@@ -541,7 +542,7 @@
 | [Tears Dry On Their Own](https://open.spotify.com/track/6yLX8QnxlnEqZfs3YKCfjF) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 3:05 | 2023-02-23 | 2023-09-05 |
 | [Tell Me](https://open.spotify.com/track/004ahAHS641tMDChzRvJPj) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Tell Me](https://open.spotify.com/album/0ASbLMBmRueltuW4UX2j3A) | 3:32 | 2023-02-23 | 2024-07-24 |
 | [Tell Me That You Love Me](https://open.spotify.com/track/0n3pKT2HiMJGxoAYgyezBV) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Tell Me That You Love Me](https://open.spotify.com/album/6O0z01p8PGCUr7QQQLk1g9) | 3:14 | 2023-06-06 | 2024-03-27 |
-| [Tell Me That You Love Me](https://open.spotify.com/track/2wHA4yJKT8TJhGz20QxUqX) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Tell Me That You Love Me](https://open.spotify.com/album/4oWsCEo45zfCdw8piPQUYm) | 3:14 | 2023-02-23 |  |
+| [Tell Me That You Love Me](https://open.spotify.com/track/2wHA4yJKT8TJhGz20QxUqX) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Tell Me That You Love Me](https://open.spotify.com/album/4oWsCEo45zfCdw8piPQUYm) | 3:14 | 2023-02-23 | 2026-06-26 |
 | [ten years time](https://open.spotify.com/track/3zwOqHFnMOFP5BWZAL4Cxn) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [ten years time](https://open.spotify.com/album/2KS00P0TaswDOaTBNc6KVj) | 2:59 | 2025-07-08 |  |
 | [Tennessee Whiskey](https://open.spotify.com/track/7qKBw3VBU6dVqK6F8WBIOJ) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY), [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB) | [Tennessee Whiskey](https://open.spotify.com/album/71KzrFnqFfcPOptYLPboZM) | 4:22 | 2023-02-23 |  |
 | [the devil's advocate](https://open.spotify.com/track/6EQxQwc56xRBxjQQMHPFkn) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [the devil's advocate](https://open.spotify.com/album/3AQLKzmHD6t3R4MTE90E4P) | 2:59 | 2025-03-06 |  |
@@ -613,6 +614,7 @@
 | [weed & videogames](https://open.spotify.com/track/5V8NIbC1m0FC2t697j6Bua) | [Joe Buck](https://open.spotify.com/artist/66ko2UINS5X1TRK48kdsyh) | [weed & videogames](https://open.spotify.com/album/4VomEJXaT4uQeNzfP9aVmr) | 3:03 | 2024-04-04 |  |
 | [What A Day](https://open.spotify.com/track/2w9aX8tFMSkkGxgdKg31zx) | [Penny Roox](https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg) | [What A Day](https://open.spotify.com/album/17ScPzQxVtLXiCr1T1POvU) | 3:46 | 2023-08-17 | 2024-03-22 |
 | [What A Day](https://open.spotify.com/track/3GHsGDZ0wyEZyGEIK6PcgT) | [Penny Roox](https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg) | [What A Day](https://open.spotify.com/album/3zQ9BOb67wGJtXjjZWGXmn) | 3:46 | 2023-02-23 | 2023-08-18 |
+| [What A Way To Die](https://open.spotify.com/track/7lXJRZCuWUPTXasC1tQPJo) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [Letters To My Habits](https://open.spotify.com/album/5tD52eQUJoBetPCi2hQdln) | 2:45 | 2026-06-25 |  |
 | [What I Got](https://open.spotify.com/track/78nJ82Er1YBR1GfOwa11Mt) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [What I Got](https://open.spotify.com/album/4gsWBDBphJW4eJcFfQYjZd) | 3:08 | 2023-02-23 | 2023-04-26 |
 | [What You Meant To Me](https://open.spotify.com/track/0bvh4owohGyhv93QeIZJkr) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW), [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [What You Meant To Me](https://open.spotify.com/album/2v2gbLj8H0OJtAtwNmsJxc) | 2:48 | 2025-06-05 |  |
 | [Whatever It Takes](https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:21 | 2024-03-21 | 2025-06-21 |

@@ -4,10 +4,11 @@
 
 > Great food, good company and some soft music.
 
-558 songs - 1 day 10 hr 29 min
+559 songs - 1 day 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [10 Till the Morning](https://open.spotify.com/track/5a7nKar5pBJj1dl0uEODqv) | [Jackie Evans](https://open.spotify.com/artist/3hr95JCfCIlFRK9EmDFJ3R) | [Most of the Time](https://open.spotify.com/album/1ze1UO2MCfEoBzUGRMGrfR) | 2:47 | 2026-06-26 |  |
 | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/track/4j5ffIFh7bFT7GZciP1TCy) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 2:47 | 2022-09-23 | 2023-04-20 |
 | [1975](https://open.spotify.com/track/3gBieBvsatYFgiG5K129ds) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [1975](https://open.spotify.com/album/0rhChR1mcH1LVUCTm1JtHZ) | 3:10 | 2022-01-27 | 2022-11-13 |
 | [A Case of U](https://open.spotify.com/track/1mfC9Ex7nLdZzHZL71HBcY) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [One Nite Alone..\. \(Solo Piano and Voice by Prince\)](https://open.spotify.com/album/6yFib1dBMSd8CvFf99a1Ks) | 3:39 | 2022-10-28 | 2022-11-13 |
@@ -224,7 +225,7 @@
 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/49Nm3tdtTOZ0nwGDGcqK5w) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [U218 Singles](https://open.spotify.com/album/0pYUq4UiXNgq8mO23rlHVU) | 4:37 | 2022-10-28 | 2022-11-13 |
 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/22tceep2vzeOKKX1jIjiLi) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5OkSkzxPZuziL8waHmU8Zd) | 4:37 | 2022-01-27 | 2022-07-29 |
 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:37 | 2022-07-08 | 2023-04-20 |
-| [I Try](https://open.spotify.com/track/00cP99zN0bsUZSpXbAlQXg) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [I Try: The Macy Gray Collection](https://open.spotify.com/album/5CM936m8EZUHEEpxN5X7Sa) | 3:58 | 2022-01-27 |  |
+| [I Try](https://open.spotify.com/track/00cP99zN0bsUZSpXbAlQXg) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [I Try: The Macy Gray Collection](https://open.spotify.com/album/5CM936m8EZUHEEpxN5X7Sa) | 3:58 | 2022-01-27 | 2026-06-26 |
 | [I Try](https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [On How Life Is](https://open.spotify.com/album/50DkoLL4ArRVXhWx9ssQSe) | 3:59 | 2022-07-08 | 2024-04-19 |
 | [I Turn to You](https://open.spotify.com/track/4Do68W4FWO2hRAJCzG1lus) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Christina Aguilera \(Expanded Edition\)](https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9) | 4:33 | 2022-01-27 | 2023-04-20 |
 | [I Was Made For Loving You](https://open.spotify.com/track/4XbQLaWyFkXTwPK33kxWQJ) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Unbreakable Smile](https://open.spotify.com/album/30QwSnTFUhCGee32ng1tvL) | 3:08 | 2022-01-27 | 2022-07-29 |

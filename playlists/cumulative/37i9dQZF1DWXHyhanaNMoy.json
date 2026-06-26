@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Motion & good vibes! Cover: Veertien",
+  "description": "Motion & good vibes! Cover: Henkie T & KM",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -2000,7 +2000,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 119000,
       "name": "Aura Check",
       "url": "https://open.spotify.com/track/2jwoP3FVcjSu5Ey5N0cxXQ"
@@ -5857,6 +5857,32 @@
     },
     {
       "album": {
+        "name": "Bossy",
+        "url": "https://open.spotify.com/album/1BYrOpijrHWarzW732oidn"
+      },
+      "artists": [
+        {
+          "name": "Puri",
+          "url": "https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp"
+        },
+        {
+          "name": "Tribal Kush",
+          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
+        },
+        {
+          "name": "Basta Lion",
+          "url": "https://open.spotify.com/artist/0QhsKMpgJqVMX95TI4yvFE"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117600,
+      "name": "Bossy",
+      "url": "https://open.spotify.com/track/1ThBXOQdTyzB0xcu89X3j7"
+    },
+    {
+      "album": {
         "name": "Bottles",
         "url": "https://open.spotify.com/album/1EhfKYJkIdRS5yYDnb3OKq"
       },
@@ -6963,6 +6989,24 @@
     },
     {
       "album": {
+        "name": "Casamigos",
+        "url": "https://open.spotify.com/album/6Bi2o3GT3K5yjeAup6yDbk"
+      },
+      "artists": [
+        {
+          "name": "Lostt",
+          "url": "https://open.spotify.com/artist/2zvq4i4GGwZ6T5CmWcjJkk"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167213,
+      "name": "Casamigos",
+      "url": "https://open.spotify.com/track/6vf95Kg34gBYJzc4DBKweD"
+    },
+    {
+      "album": {
         "name": "Casanova",
         "url": "https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA"
       },
@@ -7970,7 +8014,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 172053,
       "name": "COMMAS",
       "url": "https://open.spotify.com/track/1RVBT05e3P6vtziIXxTfZB"
@@ -8318,6 +8362,40 @@
       "duration_ms": 176134,
       "name": "Cough (Odo)",
       "url": "https://open.spotify.com/track/0u2A4QNAMUyfQbgfVR3HvK"
+    },
+    {
+      "album": {
+        "name": "COUPE",
+        "url": "https://open.spotify.com/album/12FvmyX5gaQ2zgqmscQV1k"
+      },
+      "artists": [
+        {
+          "name": "OCS",
+          "url": "https://open.spotify.com/artist/6eFyS3cm4ANCbAuxQNl7ap"
+        },
+        {
+          "name": "Burleson",
+          "url": "https://open.spotify.com/artist/2LrUyWIbWXIs6rruqS8rw8"
+        },
+        {
+          "name": "Bailey KBC",
+          "url": "https://open.spotify.com/artist/3Cf9anMB3CrNzdcOgeLVC4"
+        },
+        {
+          "name": "JANE",
+          "url": "https://open.spotify.com/artist/4ElOcm04vCIg9rGUWsJ9qe"
+        },
+        {
+          "name": "TJWAVE",
+          "url": "https://open.spotify.com/artist/2N42z0vPgDduoGlO4opnmV"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112728,
+      "name": "COUPE",
+      "url": "https://open.spotify.com/track/4JeAs684oKNPTe4zOiOP2P"
     },
     {
       "album": {
@@ -9466,7 +9544,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 177272,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/1Iu7jLEn3rZUHGPblvtmII"
@@ -17418,7 +17496,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 122531,
       "name": "Jiggle",
       "url": "https://open.spotify.com/track/67JHxUu8yzVzvMxwQ6Hv21"
@@ -19976,6 +20054,28 @@
       "duration_ms": 159237,
       "name": "Like Me",
       "url": "https://open.spotify.com/track/1Hg54dQu3hi1Rp2Y2Z5nGc"
+    },
+    {
+      "album": {
+        "name": "Like That",
+        "url": "https://open.spotify.com/album/4j52h0Jclht4HPXKho4sHo"
+      },
+      "artists": [
+        {
+          "name": "ValsBezig",
+          "url": "https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4"
+        },
+        {
+          "name": "Penchi",
+          "url": "https://open.spotify.com/artist/4NOvTuUeo0tIV8uZx5iEgl"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154455,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/3oIdq3dNLGB6sHUKPTYqmm"
     },
     {
       "album": {
@@ -34600,7 +34700,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 174823,
       "name": "Tornado",
       "url": "https://open.spotify.com/track/5c2ns82nxF2pg59M5DkuSM"
@@ -34692,7 +34792,7 @@
       ],
       "date_added": "2026-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 145512,
       "name": "Tout donner",
       "url": "https://open.spotify.com/track/3Xta6s5k5IwdTfjLwYMa7O"
@@ -34836,6 +34936,42 @@
       "duration_ms": 194395,
       "name": "Tra",
       "url": "https://open.spotify.com/track/5M2RXimSt8334s6eLz5ueo"
+    },
+    {
+      "album": {
+        "name": "Perseverance",
+        "url": "https://open.spotify.com/album/1riiEXbaZVllfRLvDktfxf"
+      },
+      "artists": [
+        {
+          "name": "Russ Millions",
+          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 7",
+      "url": "https://open.spotify.com/track/4Vs0gIpwXvQr87X1ndakcz"
+    },
+    {
+      "album": {
+        "name": "Farasha / \u0641\u0631\u0627\u0634\u0629",
+        "url": "https://open.spotify.com/album/5o214igdQdbjhVlAnd6ukf"
+      },
+      "artists": [
+        {
+          "name": "Inez",
+          "url": "https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 8",
+      "url": "https://open.spotify.com/track/403VWu7hrDm7JMKtBBzbBI"
     },
     {
       "album": {

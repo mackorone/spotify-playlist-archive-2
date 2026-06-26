@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Anna Castiglia in cover di Indie Italia con il nuovo singolo Mir\u00f2 \ud83c\udf1e",
+  "description": "alzare il volumeee \u00e8 uscito un pezzo nuovo di prima stanza a destra \ud83e\ude75",
   "name": "Indie Italia",
   "tracks": [
     {
@@ -3587,6 +3587,24 @@
     },
     {
       "album": {
+        "name": "Goodbye (rabbia, ti giuro, come stai)",
+        "url": "https://open.spotify.com/album/2TlHQ2CyD17BEPeXC5cuim"
+      },
+      "artists": [
+        {
+          "name": "Emili Kasa",
+          "url": "https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175611,
+      "name": "Goodbye (rabbia, ti giuro, come stai)",
+      "url": "https://open.spotify.com/track/36GWAY6ThW9k0dxQsvjXNA"
+    },
+    {
+      "album": {
         "name": "Governatevi",
         "url": "https://open.spotify.com/album/5ECmOUNDwtam7iaL8XEnHm"
       },
@@ -4516,6 +4534,24 @@
       "duration_ms": 164150,
       "name": "L'Ultima Canzone",
       "url": "https://open.spotify.com/track/163T8bwTmi8PPKhfGjOBtI"
+    },
+    {
+      "album": {
+        "name": "la ragazza che suonava il piano",
+        "url": "https://open.spotify.com/album/4TW1W2WwtayQV9HWXFDoUM"
+      },
+      "artists": [
+        {
+          "name": "prima stanza a destra",
+          "url": "https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150093,
+      "name": "l'unico ricordo",
+      "url": "https://open.spotify.com/track/7LSt8i9gLiQbNulp92v46j"
     },
     {
       "album": {
@@ -5752,7 +5788,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 198540,
       "name": "Mao",
       "url": "https://open.spotify.com/track/3R9z5gVkW83FPI3b1yVlph"
@@ -6531,6 +6567,24 @@
     },
     {
       "album": {
+        "name": "26",
+        "url": "https://open.spotify.com/album/67SBrrE0LhCNEJpar5MQ0P"
+      },
+      "artists": [
+        {
+          "name": "Ele A",
+          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151011,
+      "name": "Nn \u00e8 divertente",
+      "url": "https://open.spotify.com/track/5JBpzVzJmlvr8cgApQHceV"
+    },
+    {
+      "album": {
         "name": "no, non mi va",
         "url": "https://open.spotify.com/album/3rnRTdKBGUu19Vv1kaEafF"
       },
@@ -7158,6 +7212,28 @@
       "duration_ms": 167101,
       "name": "Ovvio",
       "url": "https://open.spotify.com/track/4hIUJZRIS0NRWUkyy0dZlJ"
+    },
+    {
+      "album": {
+        "name": "Dream Samples",
+        "url": "https://open.spotify.com/album/13ZEli9typ84vO0t0ZZcOn"
+      },
+      "artists": [
+        {
+          "name": "okgiorgio",
+          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
+        },
+        {
+          "name": "Pier Danio Forni",
+          "url": "https://open.spotify.com/artist/3Qo8e6LA95lPX2U1wjHXLk"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289291,
+      "name": "Padova Dream",
+      "url": "https://open.spotify.com/track/03YjOA1fBy8Wg43XUHUCHb"
     },
     {
       "album": {
@@ -8420,7 +8496,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 200481,
       "name": "Rimbalzo",
       "url": "https://open.spotify.com/track/5hZ7VsIgALNs9aVl7OZISx"
@@ -8968,7 +9044,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 180384,
       "name": "Senza vestiti",
       "url": "https://open.spotify.com/track/5PnpH0YgeOQ7m1Yn3B17CI"
@@ -9120,7 +9196,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 190959,
       "name": "Signora",
       "url": "https://open.spotify.com/track/0jYE7oP3YhnaQuJNijQw5d"
@@ -10580,7 +10656,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 200160,
       "name": "Una Magia pi\u00f9 forte della Morte",
       "url": "https://open.spotify.com/track/2XotgGguBhOonM5xwve1kU"

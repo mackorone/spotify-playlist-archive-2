@@ -4,7 +4,7 @@
 
 > This is Deep Purple\. The essential tracks, all in one playlist.
 
-127 songs - 10 hr 10 min
+128 songs - 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,9 +41,10 @@
 | [Fireball \- 1996 Remaster](https://open.spotify.com/track/3bLfteEOjNnH7Gpa2NgSlF) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Fireball \(25th Anniversary Edition\)](https://open.spotify.com/album/7nn5IUsa4aqi16o3U0qik6) | 3:24 | 2022-10-12 |  |
 | [First Sign of Madness](https://open.spotify.com/track/1iVSSLaV1feQFIBV2pKEaf) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Extras: The Now What?! B\-Sides and Bonus Songs](https://open.spotify.com/album/6PvYfkFYRsFsXx3IbTmSf3) | 4:27 | 2022-09-17 | 2022-10-13 |
 | [Flight of the Rat \- 1995 Remaster](https://open.spotify.com/track/3zhuhqAO2QHQKBK1zWYGrY) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock \(Anniversary Edition\)](https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ) | 7:55 | 2022-09-18 | 2024-07-21 |
-| [Gettin' Tighter \- 2010 Digital Remaster](https://open.spotify.com/track/2cEx6PZgsWqu3aa0JTvsho) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Come Taste The Band: 35th Anniversary Edition](https://open.spotify.com/album/6zleJIShCZ0opG8jGuOGMy) | 3:38 | 2022-09-17 |  |
+| [Gettin' Tighter \- 2010 Digital Remaster](https://open.spotify.com/track/2cEx6PZgsWqu3aa0JTvsho) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Come Taste The Band: 35th Anniversary Edition](https://open.spotify.com/album/6zleJIShCZ0opG8jGuOGMy) | 3:38 | 2022-09-17 | 2026-06-26 |
 | [Girls Like That \- 20th Anniversary Remix](https://open.spotify.com/track/5hppjSURxXHlxVYwm6jfDB) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Rapture of the Deep \(20th Anniversary Remix\)](https://open.spotify.com/album/5TasmBOdZjpsaD7MYW2MOO) | 3:56 | 2025-09-09 | 2025-10-19 |
 | [Green Onions / Hush \- Live in Gaevle](https://open.spotify.com/track/0AaHIhvJoQJK1EwTi52gH3) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Extras: The Now What?! B\-Sides and Bonus Songs](https://open.spotify.com/album/6PvYfkFYRsFsXx3IbTmSf3) | 7:59 | 2022-09-19 | 2022-10-13 |
+| [Guilt Trippin'](https://open.spotify.com/track/6E0gNcF1Y1ZMF6OVUx0Ulu) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Guilt Trippin'](https://open.spotify.com/album/2dHEbnyZ0obevooCvNJNZ1) | 4:52 | 2026-06-26 |  |
 | [Hallelujah](https://open.spotify.com/track/0yJRRuMuKkV9kMlDDcdKX7) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [The Very Best Of \(Special Edition\)](https://open.spotify.com/album/0XmL85owcwkhqvKLgJObQx) | 3:43 | 2022-09-17 | 2022-10-13 |
 | [Hard Lovin' Man \- 1995 Remaster](https://open.spotify.com/track/7vre86aecrNXYdqCaLCiCb) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock \(Anniversary Edition\)](https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ) | 7:10 | 2022-09-18 | 2022-10-13 |
 | [Hard Lovin' Woman](https://open.spotify.com/track/1p2rdOyJKHLuqJR9S3uevx) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [The House Of Blue Light](https://open.spotify.com/album/3jb80uITBoKioTLmu8cqaC) | 3:25 | 2022-09-17 | 2022-12-01 |

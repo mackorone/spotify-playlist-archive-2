@@ -1,12 +1,12 @@
 {
   "description": "Submit your song: https:&#x2F;&#x2F;dailyplaylists.com&#x2F;playlists&#x2F;1sxp36xhSTsWgyoJTwHYTS",
-  "num_followers": 638,
+  "num_followers": 639,
   "original_name": "Radios France",
   "owner": {
     "name": "RADIO PLUG PRO",
     "url": "https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e"
   },
-  "snapshot_id": "AAABI8E1GAohbKljppeQJsjXKB50zOBC",
+  "snapshot_id": "AAABJpNZx0QxrwXr2E0Yvby0K+FNdqWX",
   "tracks": [
     {
       "added_at": "2023-04-28 22:56:02",
@@ -4259,6 +4259,54 @@
       "duration_ms": 163200,
       "name": "DOULEUR \u00c9B\u00c8NE",
       "url": "https://open.spotify.com/track/0rb5xz3USUEhASJpOZdiGH"
+    },
+    {
+      "added_at": "2026-06-25 23:53:22",
+      "album": {
+        "name": "La Nuit",
+        "url": "https://open.spotify.com/album/6SBT3l51BiLME0uhMwUUuU"
+      },
+      "artists": [
+        {
+          "name": "Mike Moonnight",
+          "url": "https://open.spotify.com/artist/6T8Ols663KRRS4UdzGPbFf"
+        }
+      ],
+      "duration_ms": 167120,
+      "name": "La Nuit",
+      "url": "https://open.spotify.com/track/21tJYf8GxZ2nbMOu2i2aVg"
+    },
+    {
+      "added_at": "2026-06-25 23:53:28",
+      "album": {
+        "name": "Insomnie",
+        "url": "https://open.spotify.com/album/07lCcMGbJkSGeeyc293klT"
+      },
+      "artists": [
+        {
+          "name": "Kailys",
+          "url": "https://open.spotify.com/artist/57PDGjJgwxrUFCLlkxJZZn"
+        }
+      ],
+      "duration_ms": 215813,
+      "name": "Insomnie",
+      "url": "https://open.spotify.com/track/4yzeM3WcIcVd649yvktMY3"
+    },
+    {
+      "added_at": "2026-06-25 23:53:51",
+      "album": {
+        "name": "Pu' D'batterie, Vol.1",
+        "url": "https://open.spotify.com/album/5nWA8oermHFntIte4GL2qb"
+      },
+      "artists": [
+        {
+          "name": "Colossale",
+          "url": "https://open.spotify.com/artist/1eektsWsMeBWe0icYCQj2x"
+        }
+      ],
+      "duration_ms": 100588,
+      "name": "Freddie Gibbs",
+      "url": "https://open.spotify.com/track/2EuZgmpNafZ65eqhIyutd3"
     }
   ],
   "unique_name": "Radios France",

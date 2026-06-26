@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 23273,
+  "num_followers": 23274,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,22 @@
     {
       "added_at": "2026-06-12 03:01:42",
       "album": {
+        "name": "Um Pitiko de Brasil",
+        "url": "https://open.spotify.com/album/5zroGDXFHTBmkxyyIbHFIy"
+      },
+      "artists": [
+        {
+          "name": "Pitiko",
+          "url": "https://open.spotify.com/artist/1sNDYyvEvLUHft9IZERyqn"
+        }
+      ],
+      "duration_ms": 206458,
+      "name": "Na Lua ou No Sol",
+      "url": "https://open.spotify.com/track/58Uzs018wXeXmLFPMqQ0tR"
+    },
+    {
+      "added_at": "2026-06-12 03:01:42",
+      "album": {
         "name": "Ela Erra",
         "url": "https://open.spotify.com/album/2p8zTZvs4nX56bmNW3EsFy"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 93714,
       "name": "Ela Erra",
       "url": "https://open.spotify.com/track/79vdtGxxlcfXP8vhrM0jtL"
-    },
-    {
-      "added_at": "2026-06-12 03:01:42",
-      "album": {
-        "name": "Um Pitiko de Brasil",
-        "url": "https://open.spotify.com/album/5zroGDXFHTBmkxyyIbHFIy"
-      },
-      "artists": [
-        {
-          "name": "Pitiko",
-          "url": "https://open.spotify.com/artist/1sNDYyvEvLUHft9IZERyqn"
-        }
-      ],
-      "duration_ms": 206458,
-      "name": "Na Lua ou No Sol",
-      "url": "https://open.spotify.com/track/58Uzs018wXeXmLFPMqQ0tR"
     },
     {
       "added_at": "2026-06-12 03:01:42",
@@ -611,6 +611,26 @@
     {
       "added_at": "2026-06-12 03:01:42",
       "album": {
+        "name": "P\u00f4kas / Mfalme",
+        "url": "https://open.spotify.com/album/3NSNBHp6tJvSswP4TIagVh"
+      },
+      "artists": [
+        {
+          "name": "Amiri",
+          "url": "https://open.spotify.com/artist/21AJ8DDu51y8XYvVRjHU4p"
+        },
+        {
+          "name": "Deryck Cabrera",
+          "url": "https://open.spotify.com/artist/14SCQ3mQawCGO2ktCRGgGd"
+        }
+      ],
+      "duration_ms": 345022,
+      "name": "P\u00f4kas",
+      "url": "https://open.spotify.com/track/7rxlGOl1BGVdCcV3uC0KQN"
+    },
+    {
+      "added_at": "2026-06-12 03:01:42",
+      "album": {
         "name": "Fiona",
         "url": "https://open.spotify.com/album/6ytRAacYIXoohTPj6RshfF"
       },
@@ -651,26 +671,6 @@
       "duration_ms": 234000,
       "name": "Me Balan\u00e7a Toda",
       "url": "https://open.spotify.com/track/0RILtthfBvGM3FpX7GkI4p"
-    },
-    {
-      "added_at": "2026-06-12 03:01:42",
-      "album": {
-        "name": "P\u00f4kas / Mfalme",
-        "url": "https://open.spotify.com/album/3NSNBHp6tJvSswP4TIagVh"
-      },
-      "artists": [
-        {
-          "name": "Amiri",
-          "url": "https://open.spotify.com/artist/21AJ8DDu51y8XYvVRjHU4p"
-        },
-        {
-          "name": "Deryck Cabrera",
-          "url": "https://open.spotify.com/artist/14SCQ3mQawCGO2ktCRGgGd"
-        }
-      ],
-      "duration_ms": 345022,
-      "name": "P\u00f4kas",
-      "url": "https://open.spotify.com/track/7rxlGOl1BGVdCcV3uC0KQN"
     },
     {
       "added_at": "2026-06-12 03:01:42",
@@ -807,6 +807,22 @@
     {
       "added_at": "2026-06-12 03:01:42",
       "album": {
+        "name": "M\u00fasicas Para Mulheres, Vol. 1",
+        "url": "https://open.spotify.com/album/61GjFlMdbK3NEssTLJV0wF"
+      },
+      "artists": [
+        {
+          "name": "Dash Foreal",
+          "url": "https://open.spotify.com/artist/2vrrGwK98P8zHi7mskmfXA"
+        }
+      ],
+      "duration_ms": 167876,
+      "name": "S\u00f3 pra voc\u00ea",
+      "url": "https://open.spotify.com/track/0OYfygtqmhjlLbz6AL4Thc"
+    },
+    {
+      "added_at": "2026-06-12 03:01:42",
+      "album": {
         "name": "12 de Junho",
         "url": "https://open.spotify.com/album/5bHkLSLhWDFZq9OsMwjgs4"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 190588,
       "name": "12 de Junho",
       "url": "https://open.spotify.com/track/7EzBbffkrBToB3Gh7kvP8c"
-    },
-    {
-      "added_at": "2026-06-12 03:01:42",
-      "album": {
-        "name": "M\u00fasicas Para Mulheres, Vol. 1",
-        "url": "https://open.spotify.com/album/61GjFlMdbK3NEssTLJV0wF"
-      },
-      "artists": [
-        {
-          "name": "Dash Foreal",
-          "url": "https://open.spotify.com/artist/2vrrGwK98P8zHi7mskmfXA"
-        }
-      ],
-      "duration_ms": 167876,
-      "name": "S\u00f3 pra voc\u00ea",
-      "url": "https://open.spotify.com/track/0OYfygtqmhjlLbz6AL4Thc"
     },
     {
       "added_at": "2026-06-12 03:01:42",

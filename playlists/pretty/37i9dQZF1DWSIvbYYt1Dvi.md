@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > quanto vale uma peça pronta ser substituída?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,138,702 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,138,750 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 26 | [Sinopse](https://open.spotify.com/track/52NRuwUkXByg4dk99RbraN) | [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Sinopse](https://open.spotify.com/album/0xJrF4kjy8wwsjT0Nt3W3e) | 3:21 |
 | 27 | [FREESTYLE 2026](https://open.spotify.com/track/5bAMXG0oFvnNJ0DlAtyZeN) | [Bradockdan](https://open.spotify.com/artist/79oTF8wB34af3vzzBLCqPJ), [Victor Henry](https://open.spotify.com/artist/2BlDMHgN6HfWB0wvGa8DPu), [Pluck D](https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq) | [FREESTYLE 2026](https://open.spotify.com/album/6gFuX9zrUBdIrkrbJUAtVj) | 2:30 |
 | 28 | [NOITES TRAIÇOEIRAS](https://open.spotify.com/track/5FuRslm40ttLrTJSP8EgUI) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Beat do Ávila](https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP), [Mahai](https://open.spotify.com/artist/2wRHyStBiMxi4bYc8nHdPy) | [Você Precisa do Álibi](https://open.spotify.com/album/4530wDuVkqhhnJsGma5qKX) | 2:45 |
-| 29 | [100% pura](https://open.spotify.com/track/39l9kzwpjKFuv0AiMG2wlu) | [Afreekassia](https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Cacau 50%](https://open.spotify.com/album/0xMEXymMK5kOISGQUuxYxC) | 2:36 |
+| 29 | [100% pura](https://open.spotify.com/track/39l9kzwpjKFuv0AiMG2wlu) | [Afreekassia](https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Cacau 50% \(Vol\. 1\)](https://open.spotify.com/album/0xMEXymMK5kOISGQUuxYxC) | 2:36 |
 | 30 | [Quanto vale o show memo?](https://open.spotify.com/track/60C5e5py3Ab2h21I8a63n9) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Cassiano](https://open.spotify.com/artist/23E2hrdvZnKUYpNZRIxhjx) | [Emicida Racional VL 2 \- Mesmas Cores & Mesmos Valores](https://open.spotify.com/album/0F6jY4tlKrI0whPSmhjlQn) | 3:17 |
 | 31 | [Música pra Mc's](https://open.spotify.com/track/7MNddRTvDuICSbFXn77BSU) | [Cassol](https://open.spotify.com/artist/0hg0SDpSJsbcMjsRoHdnsu), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk) | [Nativo](https://open.spotify.com/album/2FGqHsA9CM6A1mPnu53g0k) | 1:48 |
 | 32 | [BOLA DE MEIA.](https://open.spotify.com/track/6gLZVkQfxtLb7Lw4yV1nM3) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [BOLA DE MEIA.](https://open.spotify.com/album/6vXRIMIBzpOflkPY2agdON) | 3:33 |

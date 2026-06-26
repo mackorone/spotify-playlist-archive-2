@@ -3812,7 +3812,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 177000,
       "name": "Do your dance",
       "url": "https://open.spotify.com/track/0BlndWgd48bhj9ui9xiEtS"
@@ -3830,7 +3830,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-25",
+      "date_removed": null,
       "duration_ms": 177000,
       "name": "Do your dance",
       "url": "https://open.spotify.com/track/5POcU3tBNEXuIDgfYo4TEa"
@@ -6478,7 +6478,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 163879,
       "name": "Hurry up!",
       "url": "https://open.spotify.com/track/6i03vhoaUZxi3MfICeF3s9"
@@ -11076,7 +11076,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-25",
+      "date_removed": null,
       "duration_ms": 284583,
       "name": "PLEASE",
       "url": "https://open.spotify.com/track/3Ohb6hLc9rdw63nq8NMC17"
@@ -13826,7 +13826,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 210000,
       "name": "STORY",
       "url": "https://open.spotify.com/track/5I34mmT2bCukrXK2EwkfC1"
@@ -20250,7 +20250,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-25",
+      "date_removed": null,
       "duration_ms": 196187,
       "name": "\u0e19\u0e04\u0e23\u0e14\u0e32\u0e23\u0e32",
       "url": "https://open.spotify.com/track/1x0rPOZKfNKkfWETw4nB6K"
@@ -21498,7 +21498,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-24",
+      "date_removed": null,
       "duration_ms": 232941,
       "name": "\u0e23\u0e2d\u0e2d\u0e22\u0e39\u0e48\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e19\u0e31\u0e49\u0e19",
       "url": "https://open.spotify.com/track/24wXz2WuaF02y0mrKNPMsN"
@@ -23689,6 +23689,24 @@
     },
     {
       "album": {
+        "name": "the lords of misery",
+        "url": "https://open.spotify.com/album/2Sskpd9faVmGlfLaRpq4C2"
+      },
+      "artists": [
+        {
+          "name": "Cocktail",
+          "url": "https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266498,
+      "name": "\u0e40\u0e18\u0e2d",
+      "url": "https://open.spotify.com/track/3HlTt5df6OrvtwTvO6iFla"
+    },
+    {
+      "album": {
         "name": "TWO OF A KIND",
         "url": "https://open.spotify.com/album/0SQz6m3XQIWrMqIluvyhNv"
       },
@@ -24148,7 +24166,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 239770,
       "name": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e16\u0e39\u0e01\u0e04\u0e49\u0e19\u0e1e\u0e1a (Finally She Found.)",
       "url": "https://open.spotify.com/track/7q9cMJ0oDZFZSnqatZNabo"
@@ -25514,7 +25532,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 280000,
       "name": "\u0e44\u0e21\u0e48\u0e21\u0e35\u0e27\u0e31\u0e19\u0e44\u0e2b\u0e19\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07 (starlost.)",
       "url": "https://open.spotify.com/track/2L54tWSpB5yeAYvienaKTT"

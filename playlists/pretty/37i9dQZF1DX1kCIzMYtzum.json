@@ -1,6 +1,6 @@
 {
   "description": "Home is where the main stage is \u2764\ufe0f\u200d\ud83d\udd25 with John Summit",
-  "num_followers": 526593,
+  "num_followers": 526949,
   "original_name": "EDM 2026",
   "owner": {
     "name": "Spotify",
@@ -1619,26 +1619,6 @@
     {
       "added_at": "2026-06-19 04:01:29",
       "album": {
-        "name": "Better Times (feat. BARBZ)",
-        "url": "https://open.spotify.com/album/2mmC7pH9VfseFT0xc0Byaq"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "BARBZ",
-          "url": "https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc"
-        }
-      ],
-      "duration_ms": 188972,
-      "name": "Better Times (feat. BARBZ)",
-      "url": "https://open.spotify.com/track/3rzMJ9GVogl8CtcrxHRnIH"
-    },
-    {
-      "added_at": "2026-06-19 04:01:29",
-      "album": {
         "name": "Chasing Paradise",
         "url": "https://open.spotify.com/album/6WgNtisaBfx6HlMGFDltTK"
       },
@@ -1675,6 +1655,26 @@
       "duration_ms": 182225,
       "name": "Cash Out",
       "url": "https://open.spotify.com/track/7qHSfKzilTsXJuuWcjX1vZ"
+    },
+    {
+      "added_at": "2026-06-19 04:01:29",
+      "album": {
+        "name": "Better Times (feat. BARBZ)",
+        "url": "https://open.spotify.com/album/2mmC7pH9VfseFT0xc0Byaq"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "BARBZ",
+          "url": "https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc"
+        }
+      ],
+      "duration_ms": 188972,
+      "name": "Better Times (feat. BARBZ)",
+      "url": "https://open.spotify.com/track/3rzMJ9GVogl8CtcrxHRnIH"
     },
     {
       "added_at": "2026-06-19 04:01:29",

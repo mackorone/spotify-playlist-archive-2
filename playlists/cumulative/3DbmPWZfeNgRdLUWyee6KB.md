@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,224 songs - 2 day 23 hr 13 min
+1,226 songs - 2 day 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Bridge of Boldness](https://open.spotify.com/track/79566wwkKbJ9BZk7RSaus9) | [Kafiristan](https://open.spotify.com/artist/5YMvcsjHDQbAV9H5ScLyqK), [Beato Angelico](https://open.spotify.com/artist/5CJ0yEhrvURVrFstPuxFdG) | [Bridge of Boldness](https://open.spotify.com/album/7vvWldpJbLUdRHPMWdzNHG) | 3:00 | 2024-02-15 | 2025-12-28 |
 | [Bright As The Stars](https://open.spotify.com/track/5vZMfAHNm6MeaomaddB4Fq) | [Kathi Fran](https://open.spotify.com/artist/10QZVs0DFiNYbYrkKEE385) | [Bright As The Stars](https://open.spotify.com/album/6Mx8feGql3vMv1cPzdWPHH) | 3:18 | 2026-01-29 | 2026-02-28 |
 | [Bright Lights of Gaza](https://open.spotify.com/track/0fr2XR7BwfggHtpCX685sl) | [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Mediterranean Jazz Project](https://open.spotify.com/artist/2igMKABeT1z573MU6j9fXT), [Gianluca Urbano](https://open.spotify.com/artist/7bqtO6GVyE8cx9hWVsjnZG), [Alfredo Posillipo](https://open.spotify.com/artist/7t7CJWtF302EBxxrIefxC0) | [Bright Lights of Gaza](https://open.spotify.com/album/330q4uPmolaxV7TIAlpmmh) | 4:15 | 2024-06-13 | 2025-12-28 |
+| [Bring Back the Feeling](https://open.spotify.com/track/09mfLrHrJZlJrzcogIIVCY) | [Maxwell LeVan](https://open.spotify.com/artist/6BAItgRso9SUbIyIpjcdm1) | [Bring Back the Feeling](https://open.spotify.com/album/4HKCUdRntwilj1Up7Iagn9) | 2:58 | 2026-06-25 |  |
 | [Broken Conversations](https://open.spotify.com/track/6MwAfAJrR9SQfXU4eqERuH) | [Gizem Demirhan](https://open.spotify.com/artist/1E0M9BtLjPMUurgqUqpi7o) | [Broken Conversations](https://open.spotify.com/album/6i0l2X4NgBrSr2iowHKwjQ) | 3:43 | 2026-05-05 | 2026-06-05 |
 | [Broken Trust](https://open.spotify.com/track/2KhIeTdnN8IebU3nXdiXqK) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Broken Trust](https://open.spotify.com/album/33PUel7sBH1AQsxQmFciKH) | 2:52 | 2025-11-11 | 2026-01-15 |
 | [Bukan Orang Timur \(Mimpi Jadi Bintang\)](https://open.spotify.com/track/4ye8HiMTGZh4M7RqBYO8ID) | [Nirvan Channel](https://open.spotify.com/artist/5CrcSowv9jp8dX1WCmoB5x) | [Bukan Orang Timur \(Mimpi Jadi Bintang\)](https://open.spotify.com/album/7sG1LmsVHtqqj8nLHMB9OE) | 4:17 | 2026-06-18 |  |
@@ -302,6 +303,7 @@
 | [Erster Tag](https://open.spotify.com/track/4HUJfOcBaaiXUN8ZZpyfLp) | [Nickelino](https://open.spotify.com/artist/0cldXMd6IBkC2YmXbnPVdu) | [Erster Tag](https://open.spotify.com/album/0k7weDzMA6KeySQwWgiETO) | 3:29 | 2026-02-15 | 2026-03-15 |
 | [Estrella de luna](https://open.spotify.com/track/5NjudslnouGdwlYfJFyTU6) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Esfera](https://open.spotify.com/album/4tOgRDthKfbLEK1PkLIt9R) | 2:29 | 2026-01-27 | 2026-02-28 |
 | [Europe Flow \- Remix](https://open.spotify.com/track/5CFEwAG4IVLP0Li9F8VNX6) | [neyoooo](https://open.spotify.com/artist/3OtyVxfz6lLJL5745K6u8I), [Official GooNie](https://open.spotify.com/artist/3IjaIwNFWwhoBRlzItmi5Y), [ProdByWhites](https://open.spotify.com/artist/6flN5ZCSG9JeQeX9msFVV7) | [Europe Flow \(Remix\)](https://open.spotify.com/album/2BBTIa9LgvP9g0GoL3fDd1) | 1:56 | 2026-04-02 | 2026-05-03 |
+| [Even If It Ends](https://open.spotify.com/track/5uMjPEoWLYy76yf4pj9iLb) | [Youb Mens](https://open.spotify.com/artist/4g0hEdRRDZAtsWO9YgRJFT), [Samija](https://open.spotify.com/artist/46P7ib6U2AhkLntVpf6LUF) | [Even If It Ends](https://open.spotify.com/album/3FTi7jUWKe34h6n73MBYsW) | 2:55 | 2026-06-25 |  |
 | [Ever After](https://open.spotify.com/track/7rhWgee7NgvqeLpOwIelx2) | [Getaway Stranger](https://open.spotify.com/artist/5Oesbp8lunP19rmQuqiHLN) | [Ever After](https://open.spotify.com/album/37h2QkT2iPXXWTzS0Rcu5I) | 3:08 | 2026-05-13 |  |
 | [Everlasting](https://open.spotify.com/track/1PkxoTKPCNdn38xZ4vrRYU) | [ALRIGHT](https://open.spotify.com/artist/6wsLLtTC30cVoWIpjFX8xx) | [Everlasting](https://open.spotify.com/album/4wy80FBOPHmdNe08Su752v) | 3:46 | 2026-01-26 | 2026-02-28 |
 | [Every Day](https://open.spotify.com/track/77Xpq8jioOWIqKWaJyT71E) | [Cristobal Junta](https://open.spotify.com/artist/4qfd9D2EeXvlUrQr6RO1U1) | [Let Yourself Know](https://open.spotify.com/album/1NtUyx79SG97sPCa16Iq0g) | 5:20 | 2026-02-12 | 2026-03-15 |

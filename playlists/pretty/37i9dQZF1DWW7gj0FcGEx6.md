@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest cinematic soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,061 likes - 254 songs - 12 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,092 likes - 254 songs - 12 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 10 | [Shattered, Rise](https://open.spotify.com/track/6IIroi5rdPZGOYVHhvyue2) | [Sam Slater](https://open.spotify.com/artist/7CBbqdnpSKylujNPI0h1io) | [SAROS \(Original Soundtrack\)](https://open.spotify.com/album/3QLD93xJ27rLQKb0brwc6S) | 5:39 |
 | 11 | [Hi Ho \(Extended\)](https://open.spotify.com/track/6rU9qcjO0eCLkJ0N5CYbBj) | [Tune\-Yards](https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi) | [I Love Boosters \(Original Motion Picture Score\)](https://open.spotify.com/album/3ESNiXtztUhuVYgEpYahZ0) | 4:19 |
 | 12 | [Welcome To The Boroughs](https://open.spotify.com/track/5ji5NEJaT1OMSQNrjtD9wD) | [John Paesano](https://open.spotify.com/artist/3MhnTc9AODdRGMrtntEqIz) | [The Boroughs \(Original Score from the Netflix Series\)](https://open.spotify.com/album/16Vcry3gq9w5HzVc1vdxnG) | 4:11 |
-| 13 | [Vive de Gaulle \- Extrait de la BOF La Bataille de Gaulle \- L'âge de fer](https://open.spotify.com/track/1sW0BXQVMIM23hlraGJTMz) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Vive de Gaulle \(Extrait de la BOF La Bataille de Gaulle \- L'âge de fer\)](https://open.spotify.com/album/4uqPXLWxl2SOfExy7WZLxi) | 2:35 |
+| 13 | [Fureur juvénile](https://open.spotify.com/track/1sW0BXQVMIM23hlraGJTMz) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Fureur juvénile](https://open.spotify.com/album/4uqPXLWxl2SOfExy7WZLxi) | 2:35 |
 | 14 | [Mister A](https://open.spotify.com/track/0wd4RkKpLRAP5rWodd7fg1) | [Paul Leonard\-Morgan](https://open.spotify.com/artist/0360rTDeUjEyBXaz2Ki00a) | [Watson: Seasons 1 & 2 \(Original Series Soundtrack\)](https://open.spotify.com/album/7oci1pirgR6VUwjOoAExqA) | 2:05 |
 | 15 | [Jack Ryan Ghost War](https://open.spotify.com/track/46N2ssxjA1cS02xA1RoArb) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8), [William Marriott](https://open.spotify.com/artist/71e8RnAv2CEtlvaIAAowXC) | [Tom Clancy's Jack Ryan: Ghost War \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6fwa3R3386WKDKQYxSECce) | 2:37 |
 | 16 | [C'EST PARTI](https://open.spotify.com/track/5QTtHnAUbF8agWCYXCHM4L) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [MATA \(Bande originale\)](https://open.spotify.com/album/28K3ulAlrdUGYrH2HHshwN) | 1:57 |

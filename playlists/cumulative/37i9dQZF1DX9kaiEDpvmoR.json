@@ -722,7 +722,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 170000,
       "name": "Bad Blood",
       "url": "https://open.spotify.com/track/6F5ZOMStXsxHAfWDqpcOVZ"
@@ -1834,7 +1834,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 264146,
       "name": "Det b\u00e4sta av allt - Live",
       "url": "https://open.spotify.com/track/3yZzIdYbrajLDhcnPOXOCR"
@@ -3796,6 +3796,24 @@
       "duration_ms": 183333,
       "name": "Have The Heart (Feat. Dolly Parton)",
       "url": "https://open.spotify.com/track/1sqXfPaRD7npnH712RZQAF"
+    },
+    {
+      "album": {
+        "name": "Heaven Is a Place on Earth",
+        "url": "https://open.spotify.com/album/4GkrL5O3cTCsp9aTk0j288"
+      },
+      "artists": [
+        {
+          "name": "Sanna Nielsen",
+          "url": "https://open.spotify.com/artist/3PvEhkL4pgu9glR6yOlYKK"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183658,
+      "name": "Heaven Is a Place on Earth",
+      "url": "https://open.spotify.com/track/443kWGstgFfJM2x1LcBGUg"
     },
     {
       "album": {
@@ -7894,6 +7912,24 @@
       "duration_ms": 251362,
       "name": "R\u00e4dd f\u00f6r hundar",
       "url": "https://open.spotify.com/track/31zjUJQ5zQx6Jw9NMuiNDn"
+    },
+    {
+      "album": {
+        "name": "R\u00e4dda Liv",
+        "url": "https://open.spotify.com/album/4QqhNQxXWmPBpYZNn1p5aj"
+      },
+      "artists": [
+        {
+          "name": "Timbuktu",
+          "url": "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227666,
+      "name": "R\u00e4dda Liv",
+      "url": "https://open.spotify.com/track/1HU7FMa7cj5l1Zv4R6B0dO"
     },
     {
       "album": {

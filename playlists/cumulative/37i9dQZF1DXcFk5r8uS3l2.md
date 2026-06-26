@@ -2,9 +2,9 @@
 
 ### [Blues Roots](https://open.spotify.com/playlist/37i9dQZF1DXcFk5r8uS3l2)
 
-> You've come to the crossroads of soul, folk, and the blues\. Cover: Sons of Legion
+> You've come to the crossroads of soul, folk, and the blues\. Cover: Keb' Mo'
 
-495 songs - 1 day 6 hr 57 min
+496 songs - 1 day 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Feels so Bad \- Previously Unreleased Take](https://open.spotify.com/track/5cl45ejCEAoCeYzuOr7k1z) | [Junior Kimbrough](https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr) | [Introducing Junior Kimbrough](https://open.spotify.com/album/1Aw2XfNshXdkGEcl8myTnD) | 2:17 | 2021-12-17 | 2023-03-11 |
 | [Fiddle](https://open.spotify.com/track/1yqA8U6NTglVeBWoLwpwAO) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Fiddle](https://open.spotify.com/album/5tlMpDBnEsbFPkgTNcpWyU) | 3:12 | 2022-12-02 | 2022-12-10 |
 | [Fight the Good Fight](https://open.spotify.com/track/4SZcib7kgYNZC43ZeLpYQM) | [Vaneese Thomas](https://open.spotify.com/artist/79cmm0PKrLWIrqp80GpJtK) | [Fight the Good Fight](https://open.spotify.com/album/09KRwQuSiA0RE2Hy1L3u20) | 3:46 | 2022-04-15 | 2022-06-11 |
+| [Final Approach](https://open.spotify.com/track/5YPcwXfi1uGuUSMDCq6Asv) | [Swamp Dogg](https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX) | [Swamp Dogg Contemplates The Afterlife](https://open.spotify.com/album/16JqcSxNQDfq9hq6KCpVjx) | 3:58 | 2026-06-26 |  |
 | [Fire \- Edit](https://open.spotify.com/track/4mGkVCstt9CC4mIU8iHOZ5) | [Ash Radford](https://open.spotify.com/artist/5xbTNkvW7vgjRXPKjwBEyw) | [Fire](https://open.spotify.com/album/2rGNHADUSv8bTiRa13dB0j) | 3:59 | 2022-08-19 | 2025-06-28 |
 | [Fireman](https://open.spotify.com/track/2sSpzTMLQTLn2BjPTuSyaO) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Hard to Kill](https://open.spotify.com/album/53nnG57cJkUHY52Ftihn0P) | 3:27 | 2022-06-24 | 2023-05-27 |
 | [First McDonell's on the Moon](https://open.spotify.com/track/5tIPp0eDCVopzvXyeMgUOm) | [Jake La Botz](https://open.spotify.com/artist/7pHtidPDRlqg71cTcwjWQX) | [First McDonell's on the Moon](https://open.spotify.com/album/6hVnFJurOhApCMbjug96f4) | 3:51 | 2022-04-01 | 2023-04-09 |
@@ -414,7 +415,7 @@
 | [Taking Me Higher](https://open.spotify.com/track/3ChtpeFDJVzpW9RXgj2R68) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Taking Me Higher](https://open.spotify.com/album/61hTKXeRPanocUk0xi1RUP) | 4:03 | 2023-03-31 | 2026-02-14 |
 | [Taking Me Higher](https://open.spotify.com/track/5ZfnFMQcDepyO0QO7faF8A) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Taking Me Higher](https://open.spotify.com/album/0fsKfRIS3CvprsvgtL6ojm) | 4:03 | 2023-03-31 | 2024-04-19 |
 | [Teacher's Desk](https://open.spotify.com/track/5k2bTDnCsEi1EZIHzAAri8) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [Coast of Light](https://open.spotify.com/album/5ZNpCyaXw6GYlwfBd9QkBb) | 3:37 | 2026-03-27 | 2026-06-12 |
-| [That Sorta Thing](https://open.spotify.com/track/4h8BpG0sPKepkIg7cTUV5K) | [Mike Stocksdale](https://open.spotify.com/artist/5hBlYNHQa69ayImuzihy8a) | [Connectors](https://open.spotify.com/album/0rNBrSecTs04QML7F4P84K) | 3:37 | 2026-06-05 |  |
+| [That Sorta Thing](https://open.spotify.com/track/4h8BpG0sPKepkIg7cTUV5K) | [Mike Stocksdale](https://open.spotify.com/artist/5hBlYNHQa69ayImuzihy8a) | [Connectors](https://open.spotify.com/album/0rNBrSecTs04QML7F4P84K) | 3:37 | 2026-06-05 | 2026-06-26 |
 | [That's How Love Is Made](https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [That's How Love Is Made](https://open.spotify.com/album/7jEsDY3DfzPI2MRJaOyZdP) | 3:46 | 2022-08-26 | 2023-03-11 |
 | [The Battle of Atlanta](https://open.spotify.com/track/6vwDgv1N8Iyv8YyMDpuUqx) | [Lee Bains + The Glory Fires](https://open.spotify.com/artist/1oTNCl6SRphYGb9NQ0toVE) | [The Battle of Atlanta](https://open.spotify.com/album/3UmdOo3j5KVnz4KBCtzu9K) | 5:16 | 2022-08-05 | 2022-08-13 |
 | [The Breeze](https://open.spotify.com/track/0Oou2wDOZJFrNqRbDgOFir) | [Kenny Sharp](https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E) | [The Breeze](https://open.spotify.com/album/20qckV3u4PYG6MHZSWJwhH) | 2:36 | 2022-09-02 | 2023-08-26 |
@@ -486,7 +487,7 @@
 | [Whiskey & Wonder](https://open.spotify.com/track/4TlOVtxbJpd9XTwjuVLHeM) | [Angel Forrest](https://open.spotify.com/artist/3kZNky4VEHNviUvh6zNRal), [Brandon Isaak](https://open.spotify.com/artist/7wRVElYhXOEFCgWbR21RQO) | [Whiskey & Wonder](https://open.spotify.com/album/3dZbWqY6QZPSIuVGEQN6mn) | 4:34 | 2022-03-11 | 2023-03-11 |
 | [Who Am I](https://open.spotify.com/track/6DaUU43SjEQuCk9d67bxPr) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Who Am I](https://open.spotify.com/album/46k1LmapSWGKQWalvlFPNQ) | 4:56 | 2026-03-04 |  |
 | [Who Needs the Weather](https://open.spotify.com/track/4yDo8iTBGJguFLp2gwl5pb) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Who Needs the Weather](https://open.spotify.com/album/39HxtzBfmt3AxY0TomYerH) | 3:06 | 2025-03-14 | 2026-03-30 |
-| [Whom I Adore](https://open.spotify.com/track/0KyEGhg4AcfSuMrgPjMdEc) | [Oliver Wood](https://open.spotify.com/artist/74evjLDRTaA6Fz6s2rHudU) | [Fat Cat Silhouette](https://open.spotify.com/album/1yfKoTH7qutAxGbjpZGHJs) | 2:55 | 2024-06-14 |  |
+| [Whom I Adore](https://open.spotify.com/track/0KyEGhg4AcfSuMrgPjMdEc) | [Oliver Wood](https://open.spotify.com/artist/74evjLDRTaA6Fz6s2rHudU) | [Fat Cat Silhouette](https://open.spotify.com/album/1yfKoTH7qutAxGbjpZGHJs) | 2:55 | 2024-06-14 | 2026-06-26 |
 | [Why Do I Cry Anymore](https://open.spotify.com/track/3gEHy9sxwFdv2dDXc8WB7P) | [Seth Walker](https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9) | [Why Do I Cry Anymore](https://open.spotify.com/album/5hldzbhEFzLqeT2WATFsZS) | 3:28 | 2022-05-13 | 2022-07-25 |
 | [Wishing Well](https://open.spotify.com/track/2tQTI8d2eXxMiXmgHjZWgQ) | [Sons of Legion](https://open.spotify.com/artist/4WBCjNjq0MGPsvcXyOPWKW) | [Wishing Well](https://open.spotify.com/album/0qgadIcWUzFPNmVUfxyiDR) | 2:48 | 2026-04-03 |  |
 | [Worry](https://open.spotify.com/track/1hAIPXpzfpBGsWGYTf69MM) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Worry](https://open.spotify.com/album/4lsxhQoLG5OEUEfVlUgA9H) | 3:05 | 2021-12-17 | 2024-06-01 |

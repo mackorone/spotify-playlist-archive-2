@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "The best new electronic indie music. Cover: 1-800 GIRLS",
+  "description": "The best new electronic indie music. Cover: Bonobo",
   "name": "Indie Electronic ",
   "tracks": [
     {
@@ -436,6 +436,24 @@
       "duration_ms": 326029,
       "name": "All About You (feat. Foster The People) - Tensnake Remix",
       "url": "https://open.spotify.com/track/1DeI7qWSf8BRIIOtcbEssN"
+    },
+    {
+      "album": {
+        "name": "All Crews",
+        "url": "https://open.spotify.com/album/5ejfUaxTlTuEqGcAF17IHO"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398714,
+      "name": "All Crews",
+      "url": "https://open.spotify.com/track/3U56eB00ABNewSE8Jtb4ow"
     },
     {
       "album": {
@@ -918,6 +936,24 @@
       "duration_ms": 173858,
       "name": "Back On My Love",
       "url": "https://open.spotify.com/track/4XXntvDIUeeOIpbsw9b601"
+    },
+    {
+      "album": {
+        "name": "Bad Bara",
+        "url": "https://open.spotify.com/album/1nkgMtnzvbBSt0BWxFYAlg"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245571,
+      "name": "Bad Bara",
+      "url": "https://open.spotify.com/track/4NVV7bdI8LYB2PG2uqrxu6"
     },
     {
       "album": {
@@ -1620,7 +1656,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 188500,
       "name": "Coming Undone",
       "url": "https://open.spotify.com/track/4XlLl2TbccBar21aXWYly1"
@@ -2054,6 +2090,28 @@
       "duration_ms": 114333,
       "name": "Digital Slaves",
       "url": "https://open.spotify.com/track/2vMXEYcrqv5HAoBy83UQkT"
+    },
+    {
+      "album": {
+        "name": "DIGITiSE",
+        "url": "https://open.spotify.com/album/3wgramFhznwdYSxucYuTQw"
+      },
+      "artists": [
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        },
+        {
+          "name": "Pat Alvarez",
+          "url": "https://open.spotify.com/artist/44rUL8RUXtDCmb8Mtjy5kp"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246857,
+      "name": "DIGITiSE",
+      "url": "https://open.spotify.com/track/3BGWPMnHswMQh1OBXZ8qaf"
     },
     {
       "album": {
@@ -2584,6 +2642,24 @@
       "duration_ms": 289315,
       "name": "Electric Cutz",
       "url": "https://open.spotify.com/track/4P07CYinzfgW5xAITGydS1"
+    },
+    {
+      "album": {
+        "name": "Electro Disco",
+        "url": "https://open.spotify.com/album/7KKqAPlS03U7VdyIE94dyj"
+      },
+      "artists": [
+        {
+          "name": "Ros T",
+          "url": "https://open.spotify.com/artist/4sG0aI4xrubRmrdWBIn4RO"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138057,
+      "name": "Electro Disco",
+      "url": "https://open.spotify.com/track/7MA7XTy9FO1NuFvFpY3Djy"
     },
     {
       "album": {
@@ -4237,6 +4313,24 @@
     },
     {
       "album": {
+        "name": "ITVLO",
+        "url": "https://open.spotify.com/album/1sY6EDoFwyLD5rI0tG2QJR"
+      },
+      "artists": [
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287267,
+      "name": "ITVLO",
+      "url": "https://open.spotify.com/track/5GmLeKLNFgOPCqyonBPYtr"
+    },
+    {
+      "album": {
         "name": "I\u2019m your girl right? (Fcukers Remix)",
         "url": "https://open.spotify.com/album/0leGp1s72gcNFFsdHs4MhY"
       },
@@ -4962,7 +5056,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 248783,
       "name": "Love Me Baby",
       "url": "https://open.spotify.com/track/3x0oiAC2nLm397M0ukpDDv"
@@ -5126,7 +5220,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 302362,
       "name": "Make Me Feel Better",
       "url": "https://open.spotify.com/track/37Udv1XxXBOjmAgTr6n2f6"
@@ -6310,7 +6404,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 265878,
       "name": "Plastic Camelia",
       "url": "https://open.spotify.com/track/0ep3CnoP0dSWyFPUhQJU0D"
@@ -8764,7 +8858,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 243760,
       "name": "To Live",
       "url": "https://open.spotify.com/track/6zUFj33kQovnQC5x49mwlt"

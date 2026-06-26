@@ -3266,7 +3266,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 160000,
       "name": "feels like home",
       "url": "https://open.spotify.com/track/6mEbQzPatJwotaLbYB6OLQ"
@@ -3512,6 +3512,24 @@
       "duration_ms": 154126,
       "name": "For You",
       "url": "https://open.spotify.com/track/015oTZOFMNR1IhWEKOr1H1"
+    },
+    {
+      "album": {
+        "name": "Foreign",
+        "url": "https://open.spotify.com/album/5UMhrr7ZuhfzTqVqVb1rzk"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203183,
+      "name": "Foreign",
+      "url": "https://open.spotify.com/track/5LKYdatBy0QOV1ME8sHowf"
     },
     {
       "album": {
@@ -4544,7 +4562,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 189401,
       "name": "hella jealous",
       "url": "https://open.spotify.com/track/0l45fHynGyWPiSrJ1szQZj"
@@ -9978,6 +9996,24 @@
       "duration_ms": 119202,
       "name": "Stuck on You",
       "url": "https://open.spotify.com/track/7ezB0lC0VEW7BZA1dRbGQN"
+    },
+    {
+      "album": {
+        "name": "Payback Is A Dog",
+        "url": "https://open.spotify.com/album/0wcQqcmAoYqsp835JHZ6rV"
+      },
+      "artists": [
+        {
+          "name": "Nia Smith",
+          "url": "https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198139,
+      "name": "Stuntin",
+      "url": "https://open.spotify.com/track/0kOIgPakbZqEDMoUX1qiSR"
     },
     {
       "album": {

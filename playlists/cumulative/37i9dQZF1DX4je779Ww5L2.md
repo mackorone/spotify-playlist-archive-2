@@ -4,7 +4,7 @@
 
 > de sfeer van 6 uur in de ochtend in de buitenlucht
 
-126 songs - 8 hr 1 min
+127 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Queen\-Size Life](https://open.spotify.com/track/3Ci3PhwCqFUTNlfQ59Nj3z) | [Mountaineer](https://open.spotify.com/artist/5ayGJVSrPdzT28dxwsxgOj) | [Queen\-Size Life](https://open.spotify.com/album/7e5CvNi9fnhAIJ9ntZnlDB) | 3:36 | 2026-03-23 |  |
 | [Realize \(Essence\)](https://open.spotify.com/track/789rnoPBFblPQBMTNGrGc2) | [Melle Jutte](https://open.spotify.com/artist/29NcmXvID0g9FtDLTvTrxZ) | [A Passage Between](https://open.spotify.com/album/6ghjaRprdmAhepnKaEpVIL) | 4:12 | 2025-10-01 |  |
 | [Richardson \- feat\. Cassandra Jenkins](https://open.spotify.com/track/4Jrstw4tzEoFCE5hZMug96) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT), [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [Richardson \(feat\. Cassandra Jenkins\)](https://open.spotify.com/album/72T10FajAmf5Wu0M9scOpp) | 3:44 | 2025-08-08 |  |
+| [Room Of Love](https://open.spotify.com/track/0z7GpjiF54m9GIGYQKr88G) | [Thomas Azier](https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv) | [Room Of Love](https://open.spotify.com/album/1s2dk5WxnGWHDvyUpjAWRD) | 4:59 | 2026-06-25 |  |
 | [Rush Hour Traffic](https://open.spotify.com/track/6s1lxdvY8PRX3omWmOVaXx) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Rush Hour Traffic](https://open.spotify.com/album/5ADcIb3FaxCChD4dhjbg1y) | 4:24 | 2025-11-06 |  |
 | [Seven Lonely Nights](https://open.spotify.com/track/4KWwyQtWCtO04TWelNBbe2) | [A\. Johanson](https://open.spotify.com/artist/1p11NnGiTGtzm49zznyK69), [Géonne Hartman](https://open.spotify.com/artist/4DxQTlVe6YC4kzlrPxXXon) | [A Soundtrack to a Never\-Ending Story](https://open.spotify.com/album/2Ej1zX3c1wVBDIJnNk62Dp) | 4:13 | 2025-08-08 |  |
 | [Shadowplay](https://open.spotify.com/track/2JIhlHcaY2TuzN8o9nomgV) | [Wallners](https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos) | [Shadowplay](https://open.spotify.com/album/3NmPE01wzAEeAjPdJIFEsq) | 4:29 | 2025-08-08 |  |

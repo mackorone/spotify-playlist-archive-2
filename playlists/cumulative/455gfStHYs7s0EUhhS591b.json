@@ -4119,6 +4119,24 @@
     },
     {
       "album": {
+        "name": "Remains The Same",
+        "url": "https://open.spotify.com/album/4RfxXC2TU6Qn5zYiZBh4VG"
+      },
+      "artists": [
+        {
+          "name": "Beob\u00ea",
+          "url": "https://open.spotify.com/artist/1SNjvPpsWFYWGpJW5wPeeK"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210614,
+      "name": "Remains The Same",
+      "url": "https://open.spotify.com/track/0ET81wGcTILXSZrWYtLKGp"
+    },
+    {
+      "album": {
         "name": "Resolved",
         "url": "https://open.spotify.com/album/67mjNfaAkCvMTEzL0D1fa6"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-02",
-  "description": "Le meilleur du rap africain francophone. Photo : Black K",
+  "description": "Le meilleur du rap africain francophone. Photo : 3xdavs",
   "name": "Afro Rap",
   "tracks": [
     {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 184309,
       "name": "10",
       "url": "https://open.spotify.com/track/1pciAPsOnZALtJAJx3RhjD"
@@ -599,6 +599,24 @@
     },
     {
       "album": {
+        "name": "Ba Lali",
+        "url": "https://open.spotify.com/album/01GVC8jPP6kI1VEQZmK2Jm"
+      },
+      "artists": [
+        {
+          "name": "Houze Gvng",
+          "url": "https://open.spotify.com/artist/5jjHEzi1nD2FAPKB6aAjHk"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191150,
+      "name": "Ba Lali",
+      "url": "https://open.spotify.com/track/76oUep7iz6H16hIwcCdBh0"
+    },
+    {
+      "album": {
         "name": "Ba Mambu",
         "url": "https://open.spotify.com/album/65Na0RqvLk8oDFesHM3kgM"
       },
@@ -639,6 +657,28 @@
     },
     {
       "album": {
+        "name": "Bad Bitchiz",
+        "url": "https://open.spotify.com/album/4QHgAXY3fm4RHL3iHuvv6u"
+      },
+      "artists": [
+        {
+          "name": "D14",
+          "url": "https://open.spotify.com/artist/3y3XReRDa8zAZop35uXw0h"
+        },
+        {
+          "name": "Widgunz",
+          "url": "https://open.spotify.com/artist/3sIJ8AYWsQmlgIcLxwiFkt"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207576,
+      "name": "Bad Bitchiz",
+      "url": "https://open.spotify.com/track/1S750kuZUnE2aR84RZaUQT"
+    },
+    {
+      "album": {
         "name": "BAKARY SAMAKE",
         "url": "https://open.spotify.com/album/2DqT7IcHeeqnjMoAeo2L4J"
       },
@@ -650,7 +690,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 109994,
       "name": "BAKARY SAMAKE",
       "url": "https://open.spotify.com/track/1NZC193DI69GEZUkzQnxVj"
@@ -1116,7 +1156,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 133565,
       "name": "C BZ",
       "url": "https://open.spotify.com/track/56d99YIxzEh9vru7zZpg06"
@@ -1548,6 +1588,24 @@
       "duration_ms": 175968,
       "name": "Cherie Coco",
       "url": "https://open.spotify.com/track/5HrLD9Z6v0bb9F4kmJJlXE"
+    },
+    {
+      "album": {
+        "name": "CHOC",
+        "url": "https://open.spotify.com/album/6DDcgFdR6lWfDKYqU3iv7f"
+      },
+      "artists": [
+        {
+          "name": "Cash Crime",
+          "url": "https://open.spotify.com/artist/7ycoKUNT2nsxYHaJMJBOyn"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122336,
+      "name": "CHOC",
+      "url": "https://open.spotify.com/track/4qgow2zlZ7kJMuFGHRU88R"
     },
     {
       "album": {
@@ -2064,7 +2122,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 174545,
       "name": "Di Maria",
       "url": "https://open.spotify.com/track/1Y0znDIHeRoj6WNSkMW6pc"
@@ -2938,7 +2996,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 154576,
       "name": "FREESTYLE VATOS #1",
       "url": "https://open.spotify.com/track/6Sb1CS60M3Ks5dWkSsGUwc"
@@ -3194,6 +3252,24 @@
       "duration_ms": 164170,
       "name": "Golden Boy 2",
       "url": "https://open.spotify.com/track/6HqtDBTRdLKHJJlz3LpQLz"
+    },
+    {
+      "album": {
+        "name": "GOR",
+        "url": "https://open.spotify.com/album/4Lg1O03eANpteniVCZnqC1"
+      },
+      "artists": [
+        {
+          "name": "Marla",
+          "url": "https://open.spotify.com/artist/0mucJeDL0Mvb5KES4NhiHG"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "GOR",
+      "url": "https://open.spotify.com/track/58gfAtTrN0oZSXuer83Hj7"
     },
     {
       "album": {
@@ -3724,6 +3800,32 @@
       "duration_ms": 181752,
       "name": "KongossaTrap36",
       "url": "https://open.spotify.com/track/2vgA8qFZQpQJpC4mIE0zzh"
+    },
+    {
+      "album": {
+        "name": "Kossa Moi \u00c7a",
+        "url": "https://open.spotify.com/album/0Zm3LnClgjnzPWJe0bXeMC"
+      },
+      "artists": [
+        {
+          "name": "Kill B Psycatra",
+          "url": "https://open.spotify.com/artist/0TgVB8vHRFwo5uhZYFwfRH"
+        },
+        {
+          "name": "Lucasdu237",
+          "url": "https://open.spotify.com/artist/69Lfohj1CqaLTxqFVEWMcl"
+        },
+        {
+          "name": "Willy Wallas",
+          "url": "https://open.spotify.com/artist/5Y2ZxwT6skaSDBUyteBCL1"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162508,
+      "name": "Kossa Moi \u00c7a",
+      "url": "https://open.spotify.com/track/3f7NjkkdYfe3sIEEwoOoYT"
     },
     {
       "album": {
@@ -4537,6 +4639,24 @@
     },
     {
       "album": {
+        "name": "MODE AVION (Remix)",
+        "url": "https://open.spotify.com/album/3OqFWHuVCvhoA8TEaxXx7b"
+      },
+      "artists": [
+        {
+          "name": "3xdavs",
+          "url": "https://open.spotify.com/artist/5d0mxlfcRm41HzyFrNfxlr"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149606,
+      "name": "MODE AVION - Remix",
+      "url": "https://open.spotify.com/track/0i0Tpdzsh5XXKC91Q2FUkH"
+    },
+    {
+      "album": {
         "name": "MONA LISA",
         "url": "https://open.spotify.com/album/39DwulUHKfSGZiPo5uoGEs"
       },
@@ -4574,6 +4694,28 @@
       "duration_ms": 177696,
       "name": "Monalisa",
       "url": "https://open.spotify.com/track/55UrNTlMsd1ADUZ4kzriV7"
+    },
+    {
+      "album": {
+        "name": "NMX",
+        "url": "https://open.spotify.com/album/2nvTPqOxiXuEOjwzwSQZOD"
+      },
+      "artists": [
+        {
+          "name": "DM la l\u00e9gende",
+          "url": "https://open.spotify.com/artist/1TMP7FxNxJyNzoJgqgpTTV"
+        },
+        {
+          "name": "Willy Wallas",
+          "url": "https://open.spotify.com/artist/5Y2ZxwT6skaSDBUyteBCL1"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "Monnaie",
+      "url": "https://open.spotify.com/track/72m2rE5RMIXTNyb5OO5wjG"
     },
     {
       "album": {
@@ -5542,7 +5684,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 179428,
       "name": "PLUS QUE TOI",
       "url": "https://open.spotify.com/track/6Mtn50CvbZJdo2xhECsqjM"
@@ -5778,7 +5920,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 158706,
       "name": "PURPLE",
       "url": "https://open.spotify.com/track/0Xi7DJNEIwmlbTFW9Oqegs"
@@ -5822,6 +5964,24 @@
       "duration_ms": 169699,
       "name": "RASTA (feat. La Rvfleuze)",
       "url": "https://open.spotify.com/track/53TevesyM4q1FHlQIiFITA"
+    },
+    {
+      "album": {
+        "name": "Rasta Rocket",
+        "url": "https://open.spotify.com/album/5l09U5NTQ8HnaKfVFfv49x"
+      },
+      "artists": [
+        {
+          "name": "Dayo Lamar",
+          "url": "https://open.spotify.com/artist/05bfMROifJpylezJUnm10j"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128947,
+      "name": "Rasta Rocket",
+      "url": "https://open.spotify.com/track/2ClQYQQ6JWm4N0Tk1wKxpJ"
     },
     {
       "album": {
@@ -6231,6 +6391,24 @@
     },
     {
       "album": {
+        "name": "SORRY I'M BAD",
+        "url": "https://open.spotify.com/album/6qWEhSnVbwQXycx9xW2XpB"
+      },
+      "artists": [
+        {
+          "name": "L'Oiseau Rare",
+          "url": "https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163472,
+      "name": "SORRY I'M BAD",
+      "url": "https://open.spotify.com/track/5RbG6Oi4myHjMy9U74HoMn"
+    },
+    {
+      "album": {
         "name": "NON N'AIE PAS PEUR (NNPP)",
         "url": "https://open.spotify.com/album/3vXhG3QvrluhhSqUa45GlJ"
       },
@@ -6250,7 +6428,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 227628,
       "name": "SOSUCAM",
       "url": "https://open.spotify.com/track/2Z8tBoi4LU1jnGSSNZshk1"
@@ -7098,7 +7276,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 305454,
       "name": "Voigbi",
       "url": "https://open.spotify.com/track/1fLPc8mPj57pY4FemILrC0"

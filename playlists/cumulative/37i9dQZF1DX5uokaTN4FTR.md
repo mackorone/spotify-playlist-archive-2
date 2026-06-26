@@ -2,9 +2,9 @@
 
 ### [Massive Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX5uokaTN4FTR)
 
-> The UK's biggest dance playlist! Cover: Silva Bumpa
+> The UK's biggest dance playlist! Cover: Jazzy
 
-766 songs - 1 day 15 hr 49 min
+767 songs - 1 day 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/track/7cnS0EPwBnP9ZIdGOAOY7c) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5) | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/album/7pKuRGliZzRAHJaFED7y6Q) | 2:06 | 2023-02-10 | 2023-06-09 |
 | [Falling](https://open.spotify.com/track/6FYiUGWk4P8mDKUCj5m7ID) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [Falling](https://open.spotify.com/album/4hgqGfVcXLabF9CVcGVD5q) | 3:44 | 2021-11-12 | 2022-02-04 |
 | [Favour](https://open.spotify.com/track/7oNqFOek4W2px8jzrK4BxF) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Favour](https://open.spotify.com/album/7EuOzXLRWg4G575PupWcPs) | 3:14 | 2026-05-28 |  |
+| [Feel](https://open.spotify.com/track/3mxwrp5v4TcWK1T4MsXdcs) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Feel](https://open.spotify.com/album/2kVboAU8NCpgRBT7VyHcK1) | 2:38 | 2026-06-25 |  |
 | [Feel Again](https://open.spotify.com/track/4fZLc0wDQI58O19N5rkK2K) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP) | [can we do it all again?](https://open.spotify.com/album/4FRJ8Vn159vRiyLTdcGAWI) | 3:41 | 2026-06-11 |  |
 | [Feel It \- Club Edit](https://open.spotify.com/track/71xKlOIhZKO55Rt3zSHzQt) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Feel It \(Club Edit\)](https://open.spotify.com/album/0xa0dJgYKO9keCfgjhuBYH) | 2:04 | 2023-07-20 | 2024-02-23 |
 | [Feel Like That](https://open.spotify.com/track/2GlzL3MAoqg6sKFEC3tKFQ) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w) | [Feel Like That](https://open.spotify.com/album/3VrM26Y9zVHzAVHov5uzWE) | 2:39 | 2022-11-11 | 2023-02-10 |
@@ -476,7 +477,7 @@
 | [My Heart's Been Waiting for You \(feat\. Duvall\)](https://open.spotify.com/track/5CDdnP62YjCVbp8epDMdLY) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Duvall](https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc) | [My Heart's Been Waiting For You \(feat\. Duvall\)](https://open.spotify.com/album/1JXZJkssqEVjgN6hE0lVVW) | 3:26 | 2022-04-15 | 2022-07-08 |
 | [My Humps](https://open.spotify.com/track/5WoBAyXaOnKEfvsZocrPeT) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip) | [My Humps](https://open.spotify.com/album/5oIu4GbSrhxQLUhipFQiYb) | 3:06 | 2021-11-05 | 2022-03-04 |
 | [My Love](https://open.spotify.com/track/5Vi0u7cGTcPrXk6ZOoppnp) | [Jethro Heston](https://open.spotify.com/artist/1Qj4wPnd5DKW7TXALK7Xfj) | [My Love](https://open.spotify.com/album/09zYedT6OABvIqKBuEH3zE) | 2:36 | 2022-06-16 | 2022-09-16 |
-| [My Loving](https://open.spotify.com/track/49sL5BeNMirG6Fy4mBd8Fg) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [My Loving](https://open.spotify.com/album/2HBmhLOs1tpnr1KGvJd6B3) | 2:50 | 2026-02-27 |  |
+| [My Loving](https://open.spotify.com/track/49sL5BeNMirG6Fy4mBd8Fg) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [My Loving](https://open.spotify.com/album/2HBmhLOs1tpnr1KGvJd6B3) | 2:50 | 2026-02-27 | 2026-06-26 |
 | [Never Be Alone](https://open.spotify.com/track/3WB9r0SqS5ThjK49bDexXe) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP) | [Never Be Alone](https://open.spotify.com/album/1sYaWj31p76yMZhspz73yM) | 3:09 | 2024-01-19 | 2024-11-08 |
 | [Never Be Lonely](https://open.spotify.com/track/4beKzTMCCMDizozv4Y3Shj) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Never Be Lonely](https://open.spotify.com/album/1DCiXnF1Z9XX4zxYCFytSX) | 2:14 | 2024-02-16 | 2025-02-21 |
 | [Never Let You Go](https://open.spotify.com/track/1Jy0KzjB5zXPR0Mq50unST) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Illyus Barrientos ](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C) | [Never Let You Go](https://open.spotify.com/album/1nNkFigS1EwbPmPU94NM5g) | 3:01 | 2026-02-06 |  |

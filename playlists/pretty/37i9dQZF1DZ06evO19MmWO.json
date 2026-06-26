@@ -1,12 +1,12 @@
 {
   "description": "This is Little Walter. The essential tracks, all in one playlist.",
-  "num_followers": 7326,
+  "num_followers": 7324,
   "original_name": "This Is Little Walter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajnMgAAAAABqutaJIAEG+1PsvlRZDi6B",
+  "snapshot_id": "ajseAAAAAACiT01Ke+bWTen0iyQX1YaD",
   "tracks": [
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Little Walter",
-        "url": "https://open.spotify.com/album/2yIkYQJevVxZADVieZX1Bx"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 184573,
-      "name": "You're So Fine",
-      "url": "https://open.spotify.com/track/5efTTfuEyLcafZ5ZBxAu3Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anthology: His Early Years (Remastered)",
         "url": "https://open.spotify.com/album/77Zjw39g47Y37bPn3gOVgR"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 179920,
       "name": "Don't Have To Hunt No More",
       "url": "https://open.spotify.com/track/0TMbL2oiVtqaB9QXKI9e9S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of Little Walter",
+        "url": "https://open.spotify.com/album/2yIkYQJevVxZADVieZX1Bx"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 184573,
+      "name": "You're So Fine",
+      "url": "https://open.spotify.com/track/5efTTfuEyLcafZ5ZBxAu3Y"
     },
     {
       "added_at": null,
@@ -639,62 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Little Walter",
-        "url": "https://open.spotify.com/album/2yIkYQJevVxZADVieZX1Bx"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 196173,
-      "name": "Blue Light - Single Version",
-      "url": "https://open.spotify.com/track/5KR5hJ3y1evtGt5MeEHU8l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Super Blues",
-        "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
-      },
-      "artists": [
-        {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
-        },
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        },
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 209826,
-      "name": "You Can't Judge A Book By Its Cover",
-      "url": "https://open.spotify.com/track/2HD83NXZZRx68thhkaZk6H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Confessin' The Blues",
-        "url": "https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Mean Old Frisco",
-      "url": "https://open.spotify.com/track/2x2LPXCxlDLkT80kbjBAMR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Complete Chess Masters (1950 - 1967)",
         "url": "https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr"
       },
@@ -704,33 +648,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 132146,
-      "name": "Evans Shuffle",
-      "url": "https://open.spotify.com/track/7qMbcPfEJFEltXDsLs3DXc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anthology: His Early Years (Remastered)",
-        "url": "https://open.spotify.com/album/77Zjw39g47Y37bPn3gOVgR"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Rogers",
-          "url": "https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0"
-        },
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        },
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 174546,
-      "name": "Left Me with a Broken Heart - Remastered",
-      "url": "https://open.spotify.com/track/31ni5tgexPPHyNKrmTY9U8"
+      "duration_ms": 183000,
+      "name": "Hate To See You Go - Extended",
+      "url": "https://open.spotify.com/track/3stgNDeoJuRr3HB4GVHQF4"
     },
     {
       "added_at": null,
@@ -775,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Best Of Little Walter",
+        "url": "https://open.spotify.com/album/2yIkYQJevVxZADVieZX1Bx"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 196173,
+      "name": "Blue Light - Single Version",
+      "url": "https://open.spotify.com/track/5KR5hJ3y1evtGt5MeEHU8l"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Complete Chess Masters (1950 - 1967)",
         "url": "https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr"
       },
@@ -784,9 +720,89 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 183000,
-      "name": "Hate To See You Go - Extended",
-      "url": "https://open.spotify.com/track/3stgNDeoJuRr3HB4GVHQF4"
+      "duration_ms": 132146,
+      "name": "Evans Shuffle",
+      "url": "https://open.spotify.com/track/7qMbcPfEJFEltXDsLs3DXc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Super Blues",
+        "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
+      },
+      "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        },
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        },
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 209826,
+      "name": "You Can't Judge A Book By Its Cover",
+      "url": "https://open.spotify.com/track/2HD83NXZZRx68thhkaZk6H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Confessin' The Blues",
+        "url": "https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Mean Old Frisco",
+      "url": "https://open.spotify.com/track/2x2LPXCxlDLkT80kbjBAMR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anthology: His Early Years (Remastered)",
+        "url": "https://open.spotify.com/album/77Zjw39g47Y37bPn3gOVgR"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Rogers",
+          "url": "https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0"
+        },
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        },
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 174546,
+      "name": "Left Me with a Broken Heart - Remastered",
+      "url": "https://open.spotify.com/track/31ni5tgexPPHyNKrmTY9U8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Complete Chess Masters (1950 - 1967)",
+        "url": "https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 180293,
+      "name": "Teenage Beat",
+      "url": "https://open.spotify.com/track/5gKVjyfO3xGZcozwf7KH1g"
     },
     {
       "added_at": null,
@@ -811,22 +827,6 @@
       "duration_ms": 161466,
       "name": "Goin' Away Baby - Remastered",
       "url": "https://open.spotify.com/track/67QSWbVQHsCuNCL5Aob0rK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Complete Chess Masters (1950 - 1967)",
-        "url": "https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 180293,
-      "name": "Teenage Beat",
-      "url": "https://open.spotify.com/track/5gKVjyfO3xGZcozwf7KH1g"
     },
     {
       "added_at": null,

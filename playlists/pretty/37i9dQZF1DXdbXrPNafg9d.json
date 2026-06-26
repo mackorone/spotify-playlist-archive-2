@@ -1,13 +1,449 @@
 {
-  "description": "The best new music every Friday. Cover: Julia Jacklin",
-  "num_followers": 1291171,
+  "description": "The best new music every Friday. Cover: Phoebe Bridgers",
+  "num_followers": 1291126,
   "original_name": "All New Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF9cYs1y4EypyxJ465P5UrPoNTU8",
+  "snapshot_id": "AAAAAJq8A94ip5AMS44DX38T0r3fNMZ2",
   "tracks": [
+    {
+      "added_at": "2026-06-26 04:01:55",
+      "album": {
+        "name": "Lost Boys",
+        "url": "https://open.spotify.com/album/7lJZpDWPKrfLjiY17OmwhP"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 254614,
+      "name": "Lost Boys",
+      "url": "https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI"
+    },
+    {
+      "added_at": "2026-06-26 04:01:55",
+      "album": {
+        "name": "Sun Has Set",
+        "url": "https://open.spotify.com/album/2YwRomMDFX0sttDNVqBrXR"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 141804,
+      "name": "Sun Has Set",
+      "url": "https://open.spotify.com/track/3CnEw0mRAXVlLw36iL0mbe"
+    },
+    {
+      "added_at": "2026-06-26 04:01:55",
+      "album": {
+        "name": "Billy Came Back",
+        "url": "https://open.spotify.com/album/5PWPGFNrbIuXQoLcI8FsAe"
+      },
+      "artists": [
+        {
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        }
+      ],
+      "duration_ms": 189148,
+      "name": "Billy Came Back",
+      "url": "https://open.spotify.com/track/4llSkj7K4ekT5wzcLKd4C5"
+    },
+    {
+      "added_at": "2026-06-26 04:01:55",
+      "album": {
+        "name": "Your Day Will Come",
+        "url": "https://open.spotify.com/album/2e1eja8MYlw9fn7v48ZFlU"
+      },
+      "artists": [
+        {
+          "name": "Chanel Beads",
+          "url": "https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL"
+        }
+      ],
+      "duration_ms": 181386,
+      "name": "Tyler Richard",
+      "url": "https://open.spotify.com/track/1z6gxaOoSkvzXpkb0s6sdh"
+    },
+    {
+      "added_at": "2026-06-26 04:01:55",
+      "album": {
+        "name": "Sweet Fortune",
+        "url": "https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "duration_ms": 221595,
+      "name": "Virtuoso",
+      "url": "https://open.spotify.com/track/2RtNoFR37ieZtxShQ5BSSI"
+    },
+    {
+      "added_at": "2026-06-26 04:01:55",
+      "album": {
+        "name": "is it cool? (feat. SZA)",
+        "url": "https://open.spotify.com/album/5ZKl6FzFtBJc3edhG04gxW"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 174230,
+      "name": "is it cool? (feat. SZA)",
+      "url": "https://open.spotify.com/track/4olWlfIzbDyD53NhWyvdDJ"
+    },
+    {
+      "added_at": "2026-06-26 04:01:55",
+      "album": {
+        "name": "Maybe I Still Love You",
+        "url": "https://open.spotify.com/album/1Ma4Uq57VElIYB5o8ZRYkQ"
+      },
+      "artists": [
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+        }
+      ],
+      "duration_ms": 241331,
+      "name": "Maybe I Still Love You",
+      "url": "https://open.spotify.com/track/2Oof4NCIrXZmYBViU9XAfw"
+    },
+    {
+      "added_at": "2026-06-26 04:01:55",
+      "album": {
+        "name": "Violins",
+        "url": "https://open.spotify.com/album/2dkOtTHYlj2DzIgLaf6FGy"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "duration_ms": 250386,
+      "name": "Violins",
+      "url": "https://open.spotify.com/track/2xgOrdZIgcckxGam4dZNVA"
+    },
+    {
+      "added_at": "2026-06-26 04:01:55",
+      "album": {
+        "name": "She's My Religion",
+        "url": "https://open.spotify.com/album/17iEQhSfY6US3IGhzLoEVG"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 240194,
+      "name": "She's My Religion",
+      "url": "https://open.spotify.com/track/4Roi9Mr7xgXkdSjpbdgCl4"
+    },
+    {
+      "added_at": "2026-06-26 04:01:55",
+      "album": {
+        "name": "Molly In The Club",
+        "url": "https://open.spotify.com/album/1Z5c4jEcH46WtxXhAE7lCw"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stel",
+          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
+        }
+      ],
+      "duration_ms": 216138,
+      "name": "Molly In The Club",
+      "url": "https://open.spotify.com/track/1ngbCM8cVBEcE3yCFdelAU"
+    },
+    {
+      "added_at": "2026-06-26 04:01:55",
+      "album": {
+        "name": "Armor",
+        "url": "https://open.spotify.com/album/3OUjODbCdJfSwgGChAY5fR"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 198433,
+      "name": "Armor",
+      "url": "https://open.spotify.com/track/3vEznOTV6qVU4GO7kmB1GK"
+    },
+    {
+      "added_at": "2026-06-26 04:01:55",
+      "album": {
+        "name": "Baby Steps",
+        "url": "https://open.spotify.com/album/172FBTtpqNv9blWGkjgmvP"
+      },
+      "artists": [
+        {
+          "name": "Quadeca",
+          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
+        }
+      ],
+      "duration_ms": 238658,
+      "name": "Baby Steps",
+      "url": "https://open.spotify.com/track/40eANvl45mhgwEHL5pHHSn"
+    },
+    {
+      "added_at": "2026-06-26 04:01:55",
+      "album": {
+        "name": "So it goes",
+        "url": "https://open.spotify.com/album/3DezGjyrh1Hwa6mdiqSPNb"
+      },
+      "artists": [
+        {
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        }
+      ],
+      "duration_ms": 156340,
+      "name": "So it goes",
+      "url": "https://open.spotify.com/track/5qfWxLZF5bxsQcen6PIg8U"
+    },
+    {
+      "added_at": "2026-06-26 04:01:55",
+      "album": {
+        "name": "Carp",
+        "url": "https://open.spotify.com/album/76gHlnhDPEiGGMmsojsXPA"
+      },
+      "artists": [
+        {
+          "name": "Oxis",
+          "url": "https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb"
+        }
+      ],
+      "duration_ms": 164372,
+      "name": "Carp",
+      "url": "https://open.spotify.com/track/6zFVzqWNjYlPrigzjEIU2H"
+    },
+    {
+      "added_at": "2026-06-26 04:01:55",
+      "album": {
+        "name": "autogratis",
+        "url": "https://open.spotify.com/album/06iXP3HqwlHO0XVPQeFwd3"
+      },
+      "artists": [
+        {
+          "name": "Chanpan",
+          "url": "https://open.spotify.com/artist/1fWoiW6kTjrVDoRc4ba3kh"
+        }
+      ],
+      "duration_ms": 142040,
+      "name": "jesus in china (overflow)",
+      "url": "https://open.spotify.com/track/0XvLtugENvHmhtDhBDLVh1"
+    },
+    {
+      "added_at": "2026-06-26 04:01:55",
+      "album": {
+        "name": "Happiness is Just a Myth",
+        "url": "https://open.spotify.com/album/5zctQBsw1x0H0y1FSPGSmW"
+      },
+      "artists": [
+        {
+          "name": "Susannah Joffe",
+          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
+        }
+      ],
+      "duration_ms": 234186,
+      "name": "Happiness is Just a Myth",
+      "url": "https://open.spotify.com/track/4tJrxR1KushXMiAu7iH4ip"
+    },
+    {
+      "added_at": "2026-06-26 04:01:55",
+      "album": {
+        "name": "Caught In A Jam",
+        "url": "https://open.spotify.com/album/6MDmeqzitvQIK0n7q5Ob5X"
+      },
+      "artists": [
+        {
+          "name": "Portraits Of Tracy",
+          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
+        }
+      ],
+      "duration_ms": 253250,
+      "name": "Caught In A Jam",
+      "url": "https://open.spotify.com/track/67aVjLV3z4QqlXMBrGoOOJ"
+    },
+    {
+      "added_at": "2026-06-26 04:01:55",
+      "album": {
+        "name": "eat the pavement",
+        "url": "https://open.spotify.com/album/1BplCRhETbabreZMRIgkfx"
+      },
+      "artists": [
+        {
+          "name": "Dev Lemons",
+          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
+        }
+      ],
+      "duration_ms": 224950,
+      "name": "eat the pavement",
+      "url": "https://open.spotify.com/track/5WnxvPtkEJ31yXF8ZPwQr2"
+    },
+    {
+      "added_at": "2026-06-26 04:01:55",
+      "album": {
+        "name": "EAVESDROPPING",
+        "url": "https://open.spotify.com/album/7cUIDKRSyezrS3oZtywQwh"
+      },
+      "artists": [
+        {
+          "name": "ill peach",
+          "url": "https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt"
+        }
+      ],
+      "duration_ms": 182887,
+      "name": "RODEO",
+      "url": "https://open.spotify.com/track/0bfVAtGxRGmqtaLxjezNJG"
+    },
+    {
+      "added_at": "2026-06-26 04:01:55",
+      "album": {
+        "name": "Autosmile",
+        "url": "https://open.spotify.com/album/0TkVOCI5fcQPt6mbFT2jil"
+      },
+      "artists": [
+        {
+          "name": "@",
+          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
+        }
+      ],
+      "duration_ms": 399026,
+      "name": "Autosmile",
+      "url": "https://open.spotify.com/track/74wiS51Xagi78GpoStA7hr"
+    },
+    {
+      "added_at": "2026-06-26 04:01:55",
+      "album": {
+        "name": "Eternal BAM Nation",
+        "url": "https://open.spotify.com/album/5V3JWWxA9uorTR3T5rcSfJ"
+      },
+      "artists": [
+        {
+          "name": "Born At Midnite",
+          "url": "https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa"
+        }
+      ],
+      "duration_ms": 144680,
+      "name": "I Haven\u2019t Forgotten You",
+      "url": "https://open.spotify.com/track/10dei2pRZz9USduNqb2BsY"
+    },
+    {
+      "added_at": "2026-06-26 04:01:55",
+      "album": {
+        "name": "You Are Spring!",
+        "url": "https://open.spotify.com/album/10FoDGoTLJ1fmOwpLbJRjT"
+      },
+      "artists": [
+        {
+          "name": "Tasha",
+          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
+        }
+      ],
+      "duration_ms": 276546,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/6XMIGkfs34gxTn0lBRBKQT"
+    },
+    {
+      "added_at": "2026-06-26 04:01:55",
+      "album": {
+        "name": "God Made Me A Star",
+        "url": "https://open.spotify.com/album/3of0Vme1gW9RXOvoPSq6qt"
+      },
+      "artists": [
+        {
+          "name": "Girlfriend, Wife",
+          "url": "https://open.spotify.com/artist/7zvFSAz5RYFZcNQyHixDDM"
+        }
+      ],
+      "duration_ms": 202813,
+      "name": "Kinda Mean",
+      "url": "https://open.spotify.com/track/5E5OiMSypgElvW4a3R1bpa"
+    },
+    {
+      "added_at": "2026-06-26 04:01:55",
+      "album": {
+        "name": "Pretty Little Fantasy",
+        "url": "https://open.spotify.com/album/0I8huIWgOQglUiqStZzrJ0"
+      },
+      "artists": [
+        {
+          "name": "Brennan Wedl",
+          "url": "https://open.spotify.com/artist/60YFU6VpDwNGQnFYU63Efh"
+        }
+      ],
+      "duration_ms": 180870,
+      "name": "Pretty Little Fantasy",
+      "url": "https://open.spotify.com/track/4Smf0vdmlvQRsUezDS91wW"
+    },
+    {
+      "added_at": "2026-06-26 04:01:55",
+      "album": {
+        "name": "Walmart",
+        "url": "https://open.spotify.com/album/6MOODniNUgSGdiguTezSAz"
+      },
+      "artists": [
+        {
+          "name": "miaw",
+          "url": "https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8"
+        }
+      ],
+      "duration_ms": 171200,
+      "name": "Walmart",
+      "url": "https://open.spotify.com/track/3pC89hDuU1GZbZD13KbfPY"
+    },
+    {
+      "added_at": "2026-06-26 04:01:55",
+      "album": {
+        "name": "TWENTY TWO",
+        "url": "https://open.spotify.com/album/0KZe5av36oG68i1LVeRzmz"
+      },
+      "artists": [
+        {
+          "name": "Anna Justen",
+          "url": "https://open.spotify.com/artist/5I7Lr9ifQWQv9UdzU9BZr7"
+        }
+      ],
+      "duration_ms": 217213,
+      "name": "TWENTY TWO",
+      "url": "https://open.spotify.com/track/0HBcFRE9EDFx6HHind4b5m"
+    },
+    {
+      "added_at": "2026-06-26 04:01:55",
+      "album": {
+        "name": "Coastal Ghostal",
+        "url": "https://open.spotify.com/album/7DKwn4mWM9zwVGkhWoTlbS"
+      },
+      "artists": [
+        {
+          "name": "vern matz",
+          "url": "https://open.spotify.com/artist/3ueZVX55ehCZVl46S1YTcj"
+        }
+      ],
+      "duration_ms": 103500,
+      "name": "Coastal Ghostal",
+      "url": "https://open.spotify.com/track/2gtvAPiGh3zLkRuUI0OuV7"
+    },
     {
       "added_at": "2026-06-19 04:01:48",
       "album": {

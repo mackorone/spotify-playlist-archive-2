@@ -4,7 +4,7 @@
 
 > The pulse of Latin House 💃🏻💃🏻 featuring Miluhska
 
-545 songs - 1 day 5 hr 10 min
+546 songs - 1 day 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,6 +374,7 @@
 | [Pachuco](https://open.spotify.com/track/7AOTRIjLg70ALz46yeWk2h) | [Broz](https://open.spotify.com/artist/3yfAt1o2PVrVe3jTe8o5Ln), [MichaelBM](https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl), [Erick T](https://open.spotify.com/artist/0oL2gjYOTpcRB9aFqFMLw0) | [Pachuco](https://open.spotify.com/album/7gnCSYZGh8zZOzy5qCINDh) | 2:03 | 2025-06-13 | 2026-03-14 |
 | [Palma Da Mao](https://open.spotify.com/track/640VxwbcxFTspknfTVKDst) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [TEKO](https://open.spotify.com/artist/6LYBTipBAHSpduixnHmWuS) | [Palma Da Mao](https://open.spotify.com/album/3ht5Rn336mOmlAeULPqPsN) | 2:53 | 2025-05-16 |  |
 | [PAPI](https://open.spotify.com/track/4CGGFdzBK2fp8QN9GxWwia) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Sam Collins](https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx) | [PAPI](https://open.spotify.com/album/5FomfAbIMMLUIfe9fTQi9A) | 2:35 | 2024-06-14 |  |
+| [PAPI](https://open.spotify.com/track/2jiDDOAnHUcF9OeXzUbpPv) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5), [Domenico Rondinelli](https://open.spotify.com/artist/4pYmOPlUOA4p7cSrmnSd5w) | [PAPI](https://open.spotify.com/album/3PJYLIo87uSrtkwDZ2a7ZD) | 2:54 | 2026-06-25 |  |
 | [Parriba](https://open.spotify.com/track/5VITD8CR7WcFiB9Grgvs6s) | [Sommer](https://open.spotify.com/artist/43M0BiDPo1cAvFggYpmOD6), [HOS](https://open.spotify.com/artist/79Q8DPpE46f4OgjvJAomt0) | [Parriba](https://open.spotify.com/album/54gq340tQMXIOGj6VFGVIs) | 2:55 | 2024-05-24 | 2024-08-10 |
 | [Party's Jumpin](https://open.spotify.com/track/11mmDbwTvh67lHK8jEv53i) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Ossey James](https://open.spotify.com/artist/5Krv6spDHbLWdNMtyTdRpX) | [Party's Jumpin](https://open.spotify.com/album/0ipSLNiyPij1uJ8mbcRyFy) | 2:55 | 2021-10-08 | 2023-11-11 |
 | [Pasalo](https://open.spotify.com/track/47CyUgxCpGrNiGhISewBiB) | [No Worries](https://open.spotify.com/artist/2irVr9CElPqOWeTnpA4UCv), [LAETER](https://open.spotify.com/artist/6upOr5VnzVx6iaB2ZBbcB6) | [Ghetto Plata](https://open.spotify.com/album/5R0yjUqsASQ8pHa2UM64Ix) | 2:15 | 2025-11-14 | 2025-11-29 |
@@ -388,7 +389,7 @@
 | [Pelota](https://open.spotify.com/track/6e1n2hJalQwUKjwosm5iwZ) | [DJ S.K.T](https://open.spotify.com/artist/05z4P0nQO00HG5WeErugd0), [Pure Cold](https://open.spotify.com/artist/63xJ8YYPv8AtvO8sj3ssLI), [Shaq Rayes](https://open.spotify.com/artist/2PgjJYtkSxJPn6A0jmLerc) | [Pelota](https://open.spotify.com/album/5fIhFcKkwc1TGivrJD5vdU) | 3:20 | 2024-03-29 | 2024-05-28 |
 | [Periquito](https://open.spotify.com/track/5gJU2cf4oyZdFqVoeYr7jn) | [Bruno Bona](https://open.spotify.com/artist/0BeKej0zI0RZQxLPoktkpU) | [Salzzati](https://open.spotify.com/album/06whUCfuBRM3hI1Vgzs7fw) | 5:16 | 2024-04-19 | 2024-06-22 |
 | [Perreo Y2K](https://open.spotify.com/track/0ebpKe5qa9honC8r5Ki7wD) | [Thomas Garcia](https://open.spotify.com/artist/0pOf0CQbzWVo2rgrH9h0Rq), [ELLA](https://open.spotify.com/artist/2wP1AJJUJKhLk5k4agvujz) | [Perreo Y2K](https://open.spotify.com/album/56fPL6B7nqTmSF1N8xk39a) | 3:34 | 2025-11-14 | 2026-01-24 |
-| [Perversa](https://open.spotify.com/track/0qh9V7O8f0CSLufNlyjva9) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Byred](https://open.spotify.com/artist/1aABhU6Qe0paiGAPMlRbWU), [Harrell](https://open.spotify.com/artist/3XhY6vumQiV38lOxH9yeWH) | [Perversa](https://open.spotify.com/album/7vtTn5VGyUcMoGtRN2u8QC) | 2:36 | 2025-09-19 |  |
+| [Perversa](https://open.spotify.com/track/0qh9V7O8f0CSLufNlyjva9) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Byred](https://open.spotify.com/artist/1aABhU6Qe0paiGAPMlRbWU), [Harrell](https://open.spotify.com/artist/3XhY6vumQiV38lOxH9yeWH) | [Perversa](https://open.spotify.com/album/7vtTn5VGyUcMoGtRN2u8QC) | 2:36 | 2025-09-19 | 2026-06-26 |
 | [Piano de la Selva](https://open.spotify.com/track/0FJnDA2xiJ5jqYZgA6bhdE) | [Mia Moretti](https://open.spotify.com/artist/508HEnl2cDRksyq8hyQtRh) | [Piano de la Selva](https://open.spotify.com/album/3eeNuUpzHKLg0rTSTcMh0D) | 4:07 | 2023-12-01 | 2024-03-20 |
 | [Pinta La Cara](https://open.spotify.com/track/5AVI8ypG9UVCZVlCKYUsze) | [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL), [Jay Rah](https://open.spotify.com/artist/6gte1p7WrXAo0U4NWZ3nnv) | [Pinta La Cara](https://open.spotify.com/album/7LScuw1NUZ4d98YS3TmeZI) | 2:26 | 2026-01-14 | 2026-04-11 |
 | [Piquete Cabron](https://open.spotify.com/track/1mmgm9xT14LpjzLPtujjMJ) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Pensión](https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM), [Bray](https://open.spotify.com/artist/2D3KD8asLccXu0Fp3TQuHn) | [Piquete Cabron](https://open.spotify.com/album/3o4xW1GtO6jmOItDsJdkzq) | 2:42 | 2024-06-21 |  |

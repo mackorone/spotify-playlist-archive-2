@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-09",
-  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. cover: Sasuke Haraguchi \u539f\u53e3\u6c99\u8f14",
+  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. cover: YOASOBI",
   "name": "Gacha Pop",
   "tracks": [
     {
@@ -158,6 +158,24 @@
       "duration_ms": 155601,
       "name": "abon",
       "url": "https://open.spotify.com/track/6JrnGrFFPMF0VSi1mp5X0R"
+    },
+    {
+      "album": {
+        "name": "abyss in the world",
+        "url": "https://open.spotify.com/album/6p5nuvaCsrspKOkDsn3yPw"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235173,
+      "name": "abyss in the world",
+      "url": "https://open.spotify.com/track/7g0px70vi7BKiSyZcBre2Y"
     },
     {
       "album": {
@@ -1931,6 +1949,24 @@
     },
     {
       "album": {
+        "name": "DADA",
+        "url": "https://open.spotify.com/album/3FHBp4TZso2tqf9HaWYbVL"
+      },
+      "artists": [
+        {
+          "name": "Kocchi no Kento",
+          "url": "https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161466,
+      "name": "DADA",
+      "url": "https://open.spotify.com/track/2bVvKjWzxOYA99lLp5Yusb"
+    },
+    {
+      "album": {
         "name": "Dance in Silence",
         "url": "https://open.spotify.com/album/4QhWnXvzZzYDmsOT3koCd9"
       },
@@ -3178,6 +3214,24 @@
       "duration_ms": 183186,
       "name": "Fly High",
       "url": "https://open.spotify.com/track/7BFgL3I4BB3gYrxfQsBF5t"
+    },
+    {
+      "album": {
+        "name": "Focus Focus",
+        "url": "https://open.spotify.com/album/3GSHqVAAHY6UM4u3Kr0rCn"
+      },
+      "artists": [
+        {
+          "name": "Kyary Pamyu Pamyu",
+          "url": "https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249626,
+      "name": "Focus Focus",
+      "url": "https://open.spotify.com/track/6QPWUM2xaallfdqTcsQVqS"
     },
     {
       "album": {
@@ -6050,7 +6104,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 196040,
       "name": "LET'S JUST CRASH",
       "url": "https://open.spotify.com/track/3sE2VokkeH68napilCny6J"
@@ -7536,7 +7590,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 196253,
       "name": "Never Grow Up",
       "url": "https://open.spotify.com/track/5aDgM8rYPT15CqjkN1EIKq"
@@ -14401,6 +14455,24 @@
     },
     {
       "album": {
+        "name": "THE BOOK for,",
+        "url": "https://open.spotify.com/album/6wBkzKouHawAr9e7lLxZLA"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206586,
+      "name": "\u30aa\u30ea\u30aa\u30f3",
+      "url": "https://open.spotify.com/track/6VpeCZDyuFJD3HW5bwEc8Z"
+    },
+    {
+      "album": {
         "name": "\u30aa\u30ea\u30b8\u30f3",
         "url": "https://open.spotify.com/album/5pRmvEqEFcbS83hcQPNWrb"
       },
@@ -15014,7 +15086,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 158474,
       "name": "\u30b7\u30e3\u30b1\u30ca\u30d9\u30a4\u30d9\u30fc",
       "url": "https://open.spotify.com/track/0zlZVdP0ddhqjaGcDVd8oo"
@@ -17199,6 +17271,28 @@
     },
     {
       "album": {
+        "name": "Cinema",
+        "url": "https://open.spotify.com/album/6iKGgIPWAHykuvGWAU7nj3"
+      },
+      "artists": [
+        {
+          "name": "\u8309\u3072\u308b",
+          "url": "https://open.spotify.com/artist/5bWP5BvE7omi0VcYqs2S5R"
+        },
+        {
+          "name": "Billy Choi",
+          "url": "https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "\u30ed\u30b9\u30c8\u30e9\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/3qpUfBCfMzPvkAEiamCP2W"
+    },
+    {
+      "album": {
         "name": "\u30ed\u30c3\u30af\u30aa\u30f3",
         "url": "https://open.spotify.com/album/0J8A7J3iEm0umNxT38O7lx"
       },
@@ -18916,7 +19010,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 281920,
       "name": "\u604b\u8272",
       "url": "https://open.spotify.com/track/62XmbJHgLkBQZOT5SJMGA1"
@@ -21194,7 +21288,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 171000,
       "name": "\u9006\u69d8",
       "url": "https://open.spotify.com/track/3hETmWK6G4wLMRCADo6hXn"

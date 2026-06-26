@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Ozuna is bringing the heat this week. Tap in every Thursday for a new Fuego mixtape.",
+  "description": "Yan Block is bringing the heat this week. Tap in every Thursday for a fresh Fuego mixtape.",
   "name": "Fuego",
   "tracks": [
     {
@@ -1060,7 +1060,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 196015,
       "name": "3 AM",
       "url": "https://open.spotify.com/track/4B3cGux5Dy2VRYUbsqDj4M"
@@ -6450,7 +6450,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 135811,
       "name": "Bandida Entrenada",
       "url": "https://open.spotify.com/track/3o0nsMGWZMpp3GOEZkVuSR"
@@ -8329,6 +8329,28 @@
     },
     {
       "album": {
+        "name": "Myke Towers: Bzrp Music Sessions, Vol. 42/66",
+        "url": "https://open.spotify.com/album/2Ke2hlEudtDT0KDaNIZY9Z"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196252,
+      "name": "BOOBYTRAP",
+      "url": "https://open.spotify.com/track/3SgX7xcsLSdB3yHLsAD4Oz"
+    },
+    {
+      "album": {
         "name": "EL \u00daLTIMO TOUR DEL MUNDO",
         "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
       },
@@ -9654,7 +9676,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 151967,
       "name": "CANAIMA",
       "url": "https://open.spotify.com/track/1PqEsoekuO7LmxQC0ybQ3z"
@@ -26112,7 +26134,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 166336,
       "name": "I N T E N S I D A D",
       "url": "https://open.spotify.com/track/3sN6rhycsWyXJOQHps4K1Z"
@@ -35209,6 +35231,32 @@
     },
     {
       "album": {
+        "name": "EL PEOR HOMBRE DEL MUNDO",
+        "url": "https://open.spotify.com/album/5SRrJ19R5JyGcGHE3r8nnb"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        },
+        {
+          "name": "Los Money Makers",
+          "url": "https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212783,
+      "name": "MERO TOTE",
+      "url": "https://open.spotify.com/track/26wRv00loYD9urTl85LFbI"
+    },
+    {
+      "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
       },
@@ -37200,7 +37248,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 198226,
       "name": "Mu\u00f1eca",
       "url": "https://open.spotify.com/track/2tA0NJJMlUidcrd5lZ2QmG"
@@ -45216,7 +45264,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 164377,
       "name": "PONTE PONTE",
       "url": "https://open.spotify.com/track/5pmWnKBWCUazCzhwmKQ4yY"
@@ -56126,7 +56174,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 127080,
       "name": "TODO CONTIGO",
       "url": "https://open.spotify.com/track/51NmauCMugYOsHARAfpkiR"

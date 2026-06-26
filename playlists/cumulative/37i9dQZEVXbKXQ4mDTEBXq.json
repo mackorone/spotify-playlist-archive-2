@@ -276,10 +276,28 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 165454,
       "name": "3XL",
       "url": "https://open.spotify.com/track/3sNbkM4pIy1l7p6K2lhpvm"
+    },
+    {
+      "album": {
+        "name": "3XL",
+        "url": "https://open.spotify.com/album/42E8Hui63dCwaiLPjzPOaE"
+      },
+      "artists": [
+        {
+          "name": "Number_i",
+          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165454,
+      "name": "3XL",
+      "url": "https://open.spotify.com/track/6ggjkwPk8ghOR5Pu5rTRH6"
     },
     {
       "album": {
@@ -662,7 +680,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 267069,
       "name": "A\u30fbRA\u30fbSHI",
       "url": "https://open.spotify.com/track/1wQFwOgGGOct9tmdMwDSXo"
@@ -1858,6 +1876,24 @@
       "duration_ms": 241680,
       "name": "Cry Baby",
       "url": "https://open.spotify.com/track/6wDntdm888mDo458RaYjGl"
+    },
+    {
+      "album": {
+        "name": "Dance Forever",
+        "url": "https://open.spotify.com/album/477lZIVcype9EXieOX1uh3"
+      },
+      "artists": [
+        {
+          "name": "SixTONES",
+          "url": "https://open.spotify.com/artist/7dhueqtbx2NVq1leXyqaNl"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236360,
+      "name": "Dance Forever",
+      "url": "https://open.spotify.com/track/0dZZbt79ij4qm2VbDxTBrD"
     },
     {
       "album": {

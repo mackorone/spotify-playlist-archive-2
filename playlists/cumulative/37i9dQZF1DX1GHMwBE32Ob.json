@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "From the trenches. Through the streets.\nCover: Balloranking",
+  "description": "From the trenches. Through the streets.\nCover: Chella",
   "name": "Street Energy ",
   "tracks": [
     {
@@ -3652,7 +3652,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 123528,
       "name": "FUJI PARTY",
       "url": "https://open.spotify.com/track/6YOByn9plxYPTA6oeLlRkb"
@@ -5110,6 +5110,24 @@
       "duration_ms": 138208,
       "name": "Jembe",
       "url": "https://open.spotify.com/track/5c208bYsRosPrQkSchuNFE"
+    },
+    {
+      "album": {
+        "name": "JIGGLE",
+        "url": "https://open.spotify.com/album/0MlvZhXLMS6Q0gZlVeY11R"
+      },
+      "artists": [
+        {
+          "name": "Chella",
+          "url": "https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128495,
+      "name": "JIGGLE",
+      "url": "https://open.spotify.com/track/6kSNvau2G1L3qxsyMB3LaT"
     },
     {
       "album": {
@@ -9281,6 +9299,42 @@
     },
     {
       "album": {
+        "name": "KING COAL",
+        "url": "https://open.spotify.com/album/6KPqebNAhpIVGeDzjaATxr"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 15",
+      "url": "https://open.spotify.com/track/1GxRlWK5Y4dz1Gpl5PvVho"
+    },
+    {
+      "album": {
+        "name": "Barrystar, Vol. 2",
+        "url": "https://open.spotify.com/album/2sRMHoYk2tlpv0Dq9DtWcj"
+      },
+      "artists": [
+        {
+          "name": "Barry Jhay",
+          "url": "https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/3FVclanhZBo5V9d5mO8mke"
+    },
+    {
+      "album": {
         "name": "YUSFUL MUSIC",
         "url": "https://open.spotify.com/album/1HuptmkvsxXrr4JLulD83n"
       },
@@ -9702,7 +9756,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 223365,
       "name": "We Worldwide",
       "url": "https://open.spotify.com/track/4SctYj8sqFHdgp2IllLaVB"
@@ -10034,7 +10088,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 130140,
       "name": "Y26k",
       "url": "https://open.spotify.com/track/4JsuLvXMwVB8552sXp8VEt"

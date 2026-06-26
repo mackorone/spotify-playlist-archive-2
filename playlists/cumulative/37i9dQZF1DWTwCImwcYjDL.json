@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "De beste dance hits! Cover: Ti\u00ebsto",
+  "description": "De beste dance hits! Cover: Franky Rizardo",
   "name": "360 Dance",
   "tracks": [
     {
@@ -738,7 +738,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 176000,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/63RFZokcV2SCixkkqtJTdj"
@@ -1236,6 +1236,24 @@
       "duration_ms": 181200,
       "name": "Embers",
       "url": "https://open.spotify.com/track/3OGmnOgg3NQ4uwerCW3GXE"
+    },
+    {
+      "album": {
+        "name": "Feel",
+        "url": "https://open.spotify.com/album/2kVboAU8NCpgRBT7VyHcK1"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/3mxwrp5v4TcWK1T4MsXdcs"
     },
     {
       "album": {

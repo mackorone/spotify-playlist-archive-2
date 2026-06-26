@@ -4,7 +4,7 @@
 
 > All your favorite Disney hits, including classics from Encanto, Descendants, Frozen, Mufasa: The Lion King, and Toy Story.
 
-266 songs - 13 hr 32 min
+267 songs - 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Part of Your World](https://open.spotify.com/track/7tUSJY4nsDBJTjd1UXKRsT) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Howard Ashman](https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN), [Jodi Benson](https://open.spotify.com/artist/4mmMtabvFCKA6HfmVmitNH), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [J.A.C\. Redford](https://open.spotify.com/artist/12SZOUcX7wqG0xugqIu4HH) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 3:15 | 2022-04-01 |  |
 | [Part of Your World](https://open.spotify.com/track/5UK5ZeUAzy3Am4VeU6ouV8) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [The Little Mermaid \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/1b7rPu376c9APSVH2KKcdk) | 3:34 | 2023-08-15 | 2025-11-07 |
 | [Part of Your World \- From "The Little Mermaid"](https://open.spotify.com/track/2pcSENGQmdptFCBQ3HpKHe) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [Part of Your World \(From "The Little Mermaid"\)](https://open.spotify.com/album/1cehuxhFNt8Q8Eobacb0YR) | 3:34 | 2023-04-26 | 2023-08-16 |
+| [Party In The U.S.A.](https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives](https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS) | 3:22 | 2026-06-25 |  |
 | [Perfect Revenge](https://open.spotify.com/track/60UNcOiHERCGTo9qsssH2K) | [Dara Reneé](https://open.spotify.com/artist/7BtVR5EyH1mjLM5bjXUD5s), [Anthony Pyatt](https://open.spotify.com/artist/4W3FJJnbYT9lxlTMlqaCSQ), [Joshua Colley](https://open.spotify.com/artist/4PDGt9weHkPqUdaBqrGzOD), [Mars](https://open.spotify.com/artist/4SYrMF1h0Mfasc0UPn6c6D), [Peder Lindell](https://open.spotify.com/artist/2D8DtrZa1KFyaGkxI1lgjJ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants: The Rise of Red \(Original Soundtrack\)](https://open.spotify.com/album/3KPOdANPLDWwF0U4TOzjrK) | 3:14 | 2024-08-02 | 2025-11-07 |
 | [Poor Unfortunate Souls](https://open.spotify.com/track/0LAhBAJOM0IzqOaMvuFLZq) | [Melissa McCarthy](https://open.spotify.com/artist/7Ctc7ZLdwiEF0BGzG4pOul) | [The Little Mermaid \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/1b7rPu376c9APSVH2KKcdk) | 4:42 | 2023-08-15 | 2023-12-19 |
 | [Poor Unfortunate Souls](https://open.spotify.com/track/2OOdeu2Q1yQmQabgp07FOe) | [Melissa McCarthy](https://open.spotify.com/artist/7Ctc7ZLdwiEF0BGzG4pOul) | [The Little Mermaid \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/40tsP3taBOC9HqNaLCZZKP) | 4:42 | 2025-02-28 | 2025-07-26 |

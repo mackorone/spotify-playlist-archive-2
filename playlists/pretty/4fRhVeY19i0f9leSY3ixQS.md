@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,414 likes - 260 songs - 14 hr 25 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,423 likes - 269 songs - 14 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -265,8 +265,17 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 255 | [Free the Noise](https://open.spotify.com/track/0sjHKzox0O91e8q7eqPQ59) | [Luke, Im ur fuzzer](https://open.spotify.com/artist/4HPVFa8z0dRn18htOSCISy) | [Free the Noise](https://open.spotify.com/album/1MI6Ozaa89mEwbGaZ7EnU6) | 2:55 |
 | 256 | [Holograms](https://open.spotify.com/track/74LgAGJ2EJiX4tm3uYPxH2) | [Clay Guccione](https://open.spotify.com/artist/3xVmv1dQqq0tREp3DyA4TX) | [Holograms](https://open.spotify.com/album/5OLMEB7BgkvEFoE9zGbo9i) | 5:35 |
 | 257 | [Stealin'](https://open.spotify.com/track/3NSk6BSHNRUqkBHvXFvBDW) | [Simple Maschines](https://open.spotify.com/artist/1lii7viphugNgIVDRPBO4A) | [Simple Maschines 1](https://open.spotify.com/album/20Sr1qkXKpGgL0n0Jpf3M8) | 1:44 |
-| 258 | [BLEED \- Single Version](https://open.spotify.com/track/6OOhnKmVu1YxR8IKPOqpbf) | [Condition Baker](https://open.spotify.com/artist/6FRx7aC6xjwPX4XM1Ryicu) | [BLEED](https://open.spotify.com/album/1HUACNh5N6FCKrsQcOzTya) | 2:53 |
-| 259 | [disaster](https://open.spotify.com/track/0M201PbVv5MjbZkiWzCUlk) | [only tears](https://open.spotify.com/artist/6AaJR9N3Z2Ot4HGNdM4rlM) | [disaster](https://open.spotify.com/album/76FbLBSd2Zot5goToxcbHN) | 3:40 |
-| 260 | [You Don't Wanna Go Home](https://open.spotify.com/track/5TAd5qBYgM65fvHgAD0uAI) | [Nayla Salzmann](https://open.spotify.com/artist/41J6ppdYoUtSogli4x9Jxo) | [home ANYMORE](https://open.spotify.com/album/17LlS0edP2jyVRe1D73Hjs) | 2:59 |
+| 258 | [Used To](https://open.spotify.com/track/5HU5OA6ErKMAuTcSSi9G0W) | [JJ Alan](https://open.spotify.com/artist/34eH4GyeqQiYobL6coyBW3) | [Used To](https://open.spotify.com/album/3kMqL0CsE0yT24tb1CtUQV) | 2:31 |
+| 259 | [Meine Zeit](https://open.spotify.com/track/2xI0a9P9fkzlEXU15zSh41) | [Flo W.](https://open.spotify.com/artist/5aM9fR66kPNgmUIdMmufkL) | [Meine Zeit](https://open.spotify.com/album/3bL7Cn6VyVCjT7E5prcu8R) | 1:30 |
+| 260 | [BLEED \- Single Version](https://open.spotify.com/track/6OOhnKmVu1YxR8IKPOqpbf) | [Condition Baker](https://open.spotify.com/artist/6FRx7aC6xjwPX4XM1Ryicu) | [BLEED](https://open.spotify.com/album/1HUACNh5N6FCKrsQcOzTya) | 2:53 |
+| 261 | [disaster](https://open.spotify.com/track/0M201PbVv5MjbZkiWzCUlk) | [only tears](https://open.spotify.com/artist/6AaJR9N3Z2Ot4HGNdM4rlM) | [disaster](https://open.spotify.com/album/76FbLBSd2Zot5goToxcbHN) | 3:40 |
+| 262 | [You Don't Wanna Go Home](https://open.spotify.com/track/5TAd5qBYgM65fvHgAD0uAI) | [Nayla Salzmann](https://open.spotify.com/artist/41J6ppdYoUtSogli4x9Jxo) | [home ANYMORE](https://open.spotify.com/album/17LlS0edP2jyVRe1D73Hjs) | 2:59 |
+| 263 | [Television War](https://open.spotify.com/track/4YvWj5XMgtHAqORatyJuVP) | [Brenso](https://open.spotify.com/artist/56W6bwD2W4blOzdXURs1DE) | [Television War](https://open.spotify.com/album/2cZkYUiZXfQ3XLhUxsuFVm) | 2:09 |
+| 264 | [Balls, Brains, Horsepower](https://open.spotify.com/track/7Kou8QtBJvSgChjzsL6hzT) | [Superwatt](https://open.spotify.com/artist/0HsHStNa5qasm5XF5p8Wgl) | [Supersolid Rock Machine](https://open.spotify.com/album/3EsQnRLLmD8nAsocbhZsKv) | 3:21 |
+| 265 | [Museum](https://open.spotify.com/track/5O8eoERqd2cbvn887Gyfjt) | [Spill](https://open.spotify.com/artist/2tC6hqb6gqpLnCoZ5fI323) | [Museum](https://open.spotify.com/album/7zlJLNqmekNYTbT0azdiBT) | 4:09 |
+| 266 | [Adéu](https://open.spotify.com/track/16SEHMOVMQwdOSrrJkiWAw) | [SAWARO](https://open.spotify.com/artist/6yjugtMe5o8kpqfvFNJPT5) | [Adéu](https://open.spotify.com/album/430wbJ8NOzJiNvwKyFtV2Q) | 3:54 |
+| 267 | [LIGHTHOUSE](https://open.spotify.com/track/3grAFJ4WFMWqUxEAzmhbjE) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [Breaking Crests](https://open.spotify.com/album/2dLSlsENTZgScQ0gyNwmcN) | 2:56 |
+| 268 | [Grrr](https://open.spotify.com/track/2PjEn5jnHD1BUBL1DUMgVS) | [Lost in Lilacs](https://open.spotify.com/artist/3yeEX4ZL3lpbKEe1hj2GtJ) | [Radiobed](https://open.spotify.com/album/0Q0KaneUvsWOisNrcsDnxO) | 3:56 |
+| 269 | [Stigmata](https://open.spotify.com/track/47y7xlj4JMN8yquWaTpnQJ) | [Fact Pattern](https://open.spotify.com/artist/0dXIlj26frKRmrePtP2Aaf), [Inva//id](https://open.spotify.com/artist/6OcRZGzOmYnBfx5G6L4KNP) | [Stigmata](https://open.spotify.com/album/0NRVcAITV8Fz56QYEMrohr) | 4:01 |
 
-Snapshot ID: `AAAQ392nL96arSZg2NCJRIIX1ZV31BYj`
+Snapshot ID: `AAAQ6DbPqllcB9gkw+IUOiGRanHpZs+z`

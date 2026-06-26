@@ -10182,7 +10182,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 166057,
       "name": "Just Sine Waves",
       "url": "https://open.spotify.com/track/7J8NbJZXIbR3JLOUk5BITV"
@@ -14196,6 +14196,24 @@
       "duration_ms": 221946,
       "name": "Ozu",
       "url": "https://open.spotify.com/track/0fym4mro3A1876ysJ7ulJQ"
+    },
+    {
+      "album": {
+        "name": "Please",
+        "url": "https://open.spotify.com/album/3MDIlB5tvVGQfBWYodIDBC"
+      },
+      "artists": [
+        {
+          "name": "DJ Plead",
+          "url": "https://open.spotify.com/artist/3srk7xv520Ls9D09QMpEJg"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270500,
+      "name": "pa700",
+      "url": "https://open.spotify.com/track/0SqqAF6V4ClXmpZ2LKAZLf"
     },
     {
       "album": {

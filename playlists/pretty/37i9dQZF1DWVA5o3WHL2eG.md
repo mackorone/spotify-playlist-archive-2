@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: BROCKHOFF
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,850 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,867 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 24 | [Oxytocin](https://open.spotify.com/track/0UZpoYY7M8YNaaEryw2WmY) | [Mine](https://open.spotify.com/artist/2jmpnuwn52LqrQASBlyQGJ), [LIONSTORM](https://open.spotify.com/artist/2R674rphXQgJ2v2TXHydvV) | [Oxytocin](https://open.spotify.com/album/5JTpJr7p20iDusqqEOq0Xl) | 2:55 |
 | 25 | [Keinen Mann](https://open.spotify.com/track/4mV3ZcdxZ5b3PlLSdZ1Vai) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Keinen Mann](https://open.spotify.com/album/0wEqD5eJYMo8HF8RbsCnDn) | 2:20 |
 | 26 | [Boogiepop Blitzkrieg Blob](https://open.spotify.com/track/6XvkIu9TeTEV2dzT89Be5m) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [Boogiepop Blitzkrieg Blob](https://open.spotify.com/album/18EEaZHJFCpZ14Eqx04lyC) | 1:40 |
-| 27 | [KNAX](https://open.spotify.com/track/1hJ6EJdAsQkseks0eJBwCo) | [Wa22ermann](https://open.spotify.com/artist/6WJVluElmUFNEsOl7TPX8X) | [KNAX](https://open.spotify.com/album/11Hx2CxzFxCTEcKNC8Iusx) | 2:42 |
-| 28 | [zähl die tage](https://open.spotify.com/track/5ffzHtIJ8RmWHzPjViNW9d) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [es ist okay, dass du fühlst](https://open.spotify.com/album/78Ck6zxHmG4I07KDPj1LTn) | 2:58 |
+| 27 | [zähl die tage](https://open.spotify.com/track/5ffzHtIJ8RmWHzPjViNW9d) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [es ist okay, dass du fühlst](https://open.spotify.com/album/78Ck6zxHmG4I07KDPj1LTn) | 2:58 |
+| 28 | [KNAX](https://open.spotify.com/track/1hJ6EJdAsQkseks0eJBwCo) | [Wa22ermann](https://open.spotify.com/artist/6WJVluElmUFNEsOl7TPX8X) | [KNAX](https://open.spotify.com/album/11Hx2CxzFxCTEcKNC8Iusx) | 2:42 |
 | 29 | [Whatever](https://open.spotify.com/track/3wUqbA1hc4bu2R0KiM0TTi) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Whatever](https://open.spotify.com/album/1BaR0QSNMtVK3mn0fIyDlt) | 2:48 |
 | 30 | [Whenever You Want](https://open.spotify.com/track/4D6MO8L8XMosduqGD8zA5D) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [I've Stopped Getting Chills For A While Now](https://open.spotify.com/album/7GjlQUFZz3eK3rhBFJKwer) | 3:59 |
 | 31 | [Steh Auf](https://open.spotify.com/track/7x2LZ36JN2mGoM6JOq74fO) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Steh Auf](https://open.spotify.com/album/6EoAQqxgIvCCEs7lXwV7F3) | 3:15 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 38 | [Sin miedo](https://open.spotify.com/track/0mkUD2LmmaMQA0H6LQvs1I) | [Anna Ullrich](https://open.spotify.com/artist/50KbwRJgMFxSmT50FamuDN), [Tamara Flores](https://open.spotify.com/artist/1n1ShmhkecqcWxNexfFbuN) | [Sin miedo](https://open.spotify.com/album/6lckoOEGdRo7qirCBzgdaQ) | 2:38 |
 | 39 | [HDF](https://open.spotify.com/track/2CF2N0jsterp8EL3pt8Xz7) | [sarah4k](https://open.spotify.com/artist/5FeCVlYDA8WCyvh3KIY8NN) | [OKAY?! Vol.1](https://open.spotify.com/album/7kSWLDJJXWzyDnRr2QLWNO) | 2:08 |
 | 40 | [Ring am Finger](https://open.spotify.com/track/6TaFKeYCCcsIHO4I71kJjW) | [DEVADO](https://open.spotify.com/artist/6PKF4fIUipCe45VN6iVbsL) | [Ring am Finger](https://open.spotify.com/album/1K6Eo6d8XJJx7sK87c4OyA) | 2:30 |
-| 41 | [Pinke Plüschjacke](https://open.spotify.com/track/1MReIAYdZntiYppjxWXZiC) | [ela.](https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx) | [Pinke Plüschjacke](https://open.spotify.com/album/15SiaPrp8mY7IFu6FjRBIx) | 2:51 |
-| 42 | [Halbe Wahrheit](https://open.spotify.com/track/09ro7ihMGccFtQDWATIF8f) | [Queen Mahoro](https://open.spotify.com/artist/4hxPH9nqIhqRQVaXwNeevB) | [Nicht mehr traurig](https://open.spotify.com/album/6FtYUdzSfqNCsAVmR3BsmM) | 1:58 |
+| 41 | [Halbe Wahrheit](https://open.spotify.com/track/09ro7ihMGccFtQDWATIF8f) | [Queen Mahoro](https://open.spotify.com/artist/4hxPH9nqIhqRQVaXwNeevB) | [Nicht mehr traurig](https://open.spotify.com/album/6FtYUdzSfqNCsAVmR3BsmM) | 1:58 |
+| 42 | [Pinke Plüschjacke](https://open.spotify.com/track/1MReIAYdZntiYppjxWXZiC) | [ela.](https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx) | [Pinke Plüschjacke](https://open.spotify.com/album/15SiaPrp8mY7IFu6FjRBIx) | 2:51 |
 | 43 | [AFTERPARTY](https://open.spotify.com/track/7cXaKAI2HThRDSWPETLJZq) | [BAEZY](https://open.spotify.com/artist/4T640jDRFxkIBiWHwIPrKY) | [AFTERPARTY](https://open.spotify.com/album/6NleuMGkvZtoMuxFHpIrmv) | 2:04 |
 | 44 | [To Be Sexy](https://open.spotify.com/track/50Q1ca2b4zv6IgF3l4itQD) | [Jo The Man The Music](https://open.spotify.com/artist/1BWOJXIhHTWP13YSMqjnAQ) | [To Be Sexy](https://open.spotify.com/album/276yBdzt3CV6kAuYv1WDeL) | 3:01 |
 | 45 | [Unlove You](https://open.spotify.com/track/4uayfJhcQlWGzKgkVSdOQY) | [CAIVA](https://open.spotify.com/artist/0VevbPTec9d8audiahBL3f) | [Unlove You](https://open.spotify.com/album/7s84H8qfRyPdlve7Xji3iq) | 3:28 |

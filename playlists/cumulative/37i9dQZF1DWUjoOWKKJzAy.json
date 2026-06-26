@@ -835,6 +835,24 @@
     },
     {
       "album": {
+        "name": "Tour XL - 40 Anos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/42UPFBZiRi0dh7M6AxeHHT"
+      },
+      "artists": [
+        {
+          "name": "Paulo Ricardo",
+          "url": "https://open.spotify.com/artist/07V0GWuWYmgheREejBORmk"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228770,
+      "name": "Louras Geladas - Ao Vivo",
+      "url": "https://open.spotify.com/track/781M4UvrRm917MWRdixUee"
+    },
+    {
+      "album": {
         "name": "Hot 20 - Jo\u00e3o Penca e Seus Miquinhos Amestrados",
         "url": "https://open.spotify.com/album/0C304PONzIjVaPp4E9U78L"
       },

@@ -4674,7 +4674,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 170625,
       "name": "Die Living",
       "url": "https://open.spotify.com/track/2oKsaWKGDnYD5V0Q8SiSVK"
@@ -5168,7 +5168,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 207272,
       "name": "Don't Worry Baby",
       "url": "https://open.spotify.com/track/0uFffwji3muqn5MEe7hiYw"
@@ -9392,7 +9392,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 195918,
       "name": "I Like",
       "url": "https://open.spotify.com/track/2EqvkJYnk3pCqlsaN89THt"
@@ -11374,7 +11374,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 224414,
       "name": "Like I Like It",
       "url": "https://open.spotify.com/track/6vLKVWEuOCQAWEaHv2yknm"
@@ -14840,7 +14840,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 205190,
       "name": "Orla",
       "url": "https://open.spotify.com/track/0VFmkwR6SCmT7TIJThlCn9"
@@ -15264,6 +15264,28 @@
       "duration_ms": 195468,
       "name": "People Are Strange - Festival Mix",
       "url": "https://open.spotify.com/track/5b61rcrjF6JG7yq0RRaOLh"
+    },
+    {
+      "album": {
+        "name": "Perception EP",
+        "url": "https://open.spotify.com/album/1tBVUdSnqeyzqaoqvy5G86"
+      },
+      "artists": [
+        {
+          "name": "SOLANCE",
+          "url": "https://open.spotify.com/artist/2gmkTgD5PwEI6E4Vh0f4ha"
+        },
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189230,
+      "name": "Perception (KREAM Edit)",
+      "url": "https://open.spotify.com/track/6A6GbwidozXNvnxrkCRb8i"
     },
     {
       "album": {
@@ -15696,6 +15718,28 @@
       "duration_ms": 156923,
       "name": "Pump Up The Jam",
       "url": "https://open.spotify.com/track/2bazIDcL2XOCZE5rh58R7r"
+    },
+    {
+      "album": {
+        "name": "Pumpin",
+        "url": "https://open.spotify.com/album/5HUcDxoU1KWBcjyLhlJDbM"
+      },
+      "artists": [
+        {
+          "name": "Partiboi69",
+          "url": "https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL"
+        },
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211197,
+      "name": "Pumpin",
+      "url": "https://open.spotify.com/track/51KLyIiHMGywXh2yh9Lk5d"
     },
     {
       "album": {
@@ -16266,7 +16310,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 181364,
       "name": "Rhyme Dust",
       "url": "https://open.spotify.com/track/59QDyqLww2pxyg9ijOPO7f"
@@ -16354,7 +16398,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 113618,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/7dfqSBe3I7m2GxuigR0zGk"
@@ -19071,6 +19115,28 @@
     },
     {
       "album": {
+        "name": "Swedish Mermaid (Rebecca & Fiona Remix)",
+        "url": "https://open.spotify.com/album/6KmEIUsOvwzKJmrWzAxxxM"
+      },
+      "artists": [
+        {
+          "name": "Maja Francis",
+          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
+        },
+        {
+          "name": "Rebecca & Fiona",
+          "url": "https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189115,
+      "name": "Swedish Mermaid (Rebecca & Fiona Remix) - Radio edit",
+      "url": "https://open.spotify.com/track/70OKnvljXMOwtqhsMV5qW5"
+    },
+    {
+      "album": {
         "name": "Sweet Disposition (John Summit & Silver Panda Remix)",
         "url": "https://open.spotify.com/album/1xGF8XISTlMx8LCZrxhLa5"
       },
@@ -19472,7 +19538,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 238500,
       "name": "Talk nice",
       "url": "https://open.spotify.com/track/6i1D8BSUDo5WHIDvl9sMqp"
@@ -20866,7 +20932,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 232796,
       "name": "Two Hearts",
       "url": "https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL"

@@ -1358,7 +1358,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 143891,
       "name": "ASSIGNMENT",
       "url": "https://open.spotify.com/track/039v69B31n5qbJ0mkCCqZM"
@@ -4550,7 +4550,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 213428,
       "name": "Crawling",
       "url": "https://open.spotify.com/track/0lFoYDeKvuhEpd6V0eK4fO"
@@ -6448,6 +6448,24 @@
       "duration_ms": 189906,
       "name": "DWYSSWM (Don't Worry Your Secret's Safe With Me)",
       "url": "https://open.spotify.com/track/5riZjtRWIYdFiXaoRogNHq"
+    },
+    {
+      "album": {
+        "name": "heartcore",
+        "url": "https://open.spotify.com/album/7dWWVgDy4S6L06l3skL3EN"
+      },
+      "artists": [
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180177,
+      "name": "E-MOTION",
+      "url": "https://open.spotify.com/track/47jmrl8NmxEv2bPML9E8IW"
     },
     {
       "album": {
@@ -15900,6 +15918,32 @@
       "duration_ms": 162760,
       "name": "NOISE",
       "url": "https://open.spotify.com/track/7EB4ZaeORzAv9TBIfMfruC"
+    },
+    {
+      "album": {
+        "name": "nomorelove",
+        "url": "https://open.spotify.com/album/4xBdKfGBisHpRgDVBnz2e2"
+      },
+      "artists": [
+        {
+          "name": "Bypass Music",
+          "url": "https://open.spotify.com/artist/5LD8MmPEUqN4OIzWWrFUNI"
+        },
+        {
+          "name": "Lily Moore",
+          "url": "https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS"
+        },
+        {
+          "name": "Ice Dob",
+          "url": "https://open.spotify.com/artist/5ZLzKYDgXhi7UzKcXWCHjP"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156448,
+      "name": "nomorelove",
+      "url": "https://open.spotify.com/track/580qMo4N3Lz1LBQMIJFx3Y"
     },
     {
       "album": {

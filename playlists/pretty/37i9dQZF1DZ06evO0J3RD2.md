@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0J3RD2.md) - [plain]
 
 > This is Movements\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,130 likes - 36 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,137 likes - 36 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0J3RD2.md) - [plain]
 | 35 | [Tightrope](https://open.spotify.com/track/0qESwJG5DLYEpigv3h08ky) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [RUCKUS!](https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo) | 4:41 |
 | 36 | [Losing My Religion](https://open.spotify.com/track/6RaND67ynZKamGlL6esD5P) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Losing My Religion](https://open.spotify.com/album/6mlscNhLWoCtRSoNUSwGGo) | 4:29 |
 
-Snapshot ID: `ajnMgAAAAAA5NqYE9LPkh+3+/ypUhtwN`
+Snapshot ID: `ajseAAAAAADzUPwje3/ugb5q/Ymucaaz`

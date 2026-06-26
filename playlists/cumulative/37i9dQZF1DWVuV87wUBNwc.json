@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "Mauvais djo au sommet de la premi\u00e8re playlist de France.",
+  "description": "Jennifer Lopez & David Guetta au sommet de la premi\u00e8re playlist de France.",
   "name": "Hits du Moment",
   "tracks": [
     {
@@ -668,7 +668,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 125454,
       "name": "B.M.S (by my side)",
       "url": "https://open.spotify.com/track/0T1CzbjyOEU60cL5G244di"
@@ -3097,6 +3097,28 @@
     },
     {
       "album": {
+        "name": "Four To The Floor",
+        "url": "https://open.spotify.com/album/6OvgUGqFkKbEOQ9UE4j9Oo"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "Starsailor",
+          "url": "https://open.spotify.com/artist/0G8zjE6SsFTlbglCkU8pm3"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212307,
+      "name": "Four To The Floor",
+      "url": "https://open.spotify.com/track/4UrHXNvA6u7Wb68nhjCK20"
+    },
+    {
+      "album": {
         "name": "Friendly Fire",
         "url": "https://open.spotify.com/album/601IEigQO3enlyrbn4SpNM"
       },
@@ -4611,6 +4633,24 @@
     },
     {
       "album": {
+        "name": "Le Petit P\u00eacheur",
+        "url": "https://open.spotify.com/album/1jjbImjSR9gTjqmbjTA4OB"
+      },
+      "artists": [
+        {
+          "name": "Manon Lisa",
+          "url": "https://open.spotify.com/artist/2qzxrbVBGwJjYOay7mJmhf"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "Le Petit P\u00eacheur",
+      "url": "https://open.spotify.com/track/7LBYUp2QeFNjNmfncY4DHU"
+    },
+    {
+      "album": {
         "name": "M.I.L.S 4",
         "url": "https://open.spotify.com/album/1M1KkNC2T11RCmQ3nZ9izv"
       },
@@ -4980,6 +5020,24 @@
       "duration_ms": 172727,
       "name": "Madrid City",
       "url": "https://open.spotify.com/track/6KHxe3Yj8W8oq3zviUvJRe"
+    },
+    {
+      "album": {
+        "name": "Maladie",
+        "url": "https://open.spotify.com/album/7vTk9JCF1hzUNCjUA5vgkI"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Maladie",
+      "url": "https://open.spotify.com/track/2n4L2a5xgpJmPdLzDl3mE6"
     },
     {
       "album": {
@@ -6896,7 +6954,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -7362,7 +7420,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 166922,
       "name": "Sex Model",
       "url": "https://open.spotify.com/track/4YiP42tiEfZ1blOnzJ6fRr"

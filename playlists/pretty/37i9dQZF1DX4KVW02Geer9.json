@@ -1,12 +1,12 @@
 {
   "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: \u30ea\u30a2\u30ca\u30fb\u30d5\u30ed\u30fc\u30ec\u30b9",
-  "num_followers": 65226,
+  "num_followers": 65237,
   "original_name": "X-Over \u30b8\u30e3\u30ba!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO4NPjvvU/9cjB/WeOkuAFiclNfN",
+  "snapshot_id": "AAAAAKmGi0P4a8h189ld0UpoPd/Mn7Fo",
   "tracks": [
     {
       "added_at": "2026-06-24 06:15:24",
@@ -45,22 +45,6 @@
       "url": "https://open.spotify.com/track/38T3zfs1KtdNCbRPCRjC9H"
     },
     {
-      "added_at": "2026-05-26 15:00:49",
-      "album": {
-        "name": "iii",
-        "url": "https://open.spotify.com/album/6YMgz5xg15rXCTT0MAVGBU"
-      },
-      "artists": [
-        {
-          "name": "N.S. DANCEMBLE",
-          "url": "https://open.spotify.com/artist/4vgz1ReBFy52w0qHJekFBr"
-        }
-      ],
-      "duration_ms": 201802,
-      "name": "\u518d\u751f",
-      "url": "https://open.spotify.com/track/1OTYC3sM0OjSNd7Y72bprw"
-    },
-    {
       "added_at": "2026-06-19 00:22:28",
       "album": {
         "name": "Rainbow",
@@ -81,6 +65,22 @@
       "url": "https://open.spotify.com/track/528pHUtcTjp4D3UxouB4CE"
     },
     {
+      "added_at": "2026-06-25 15:00:10",
+      "album": {
+        "name": "\u65e5\u672c\u6c11\u8b21\u3088\u308a\u611b\u3092\u3053\u3081\u3066",
+        "url": "https://open.spotify.com/album/6mzbwEWVx5LWor1eUPGqgF"
+      },
+      "artists": [
+        {
+          "name": "Minyo Crusaders",
+          "url": "https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG"
+        }
+      ],
+      "duration_ms": 290962,
+      "name": "\u5317\u6d77\u76c6\u5504",
+      "url": "https://open.spotify.com/track/18us37rGhbqOAMyVMzwFFh"
+    },
+    {
       "added_at": "2026-06-19 00:22:28",
       "album": {
         "name": "Off the Embankment",
@@ -99,6 +99,22 @@
       "duration_ms": 224693,
       "name": "Off the Embankment",
       "url": "https://open.spotify.com/track/24jmigSnkTCsBq5wKMGYsJ"
+    },
+    {
+      "added_at": "2026-05-26 15:00:49",
+      "album": {
+        "name": "iii",
+        "url": "https://open.spotify.com/album/6YMgz5xg15rXCTT0MAVGBU"
+      },
+      "artists": [
+        {
+          "name": "N.S. DANCEMBLE",
+          "url": "https://open.spotify.com/artist/4vgz1ReBFy52w0qHJekFBr"
+        }
+      ],
+      "duration_ms": 201802,
+      "name": "\u518d\u751f",
+      "url": "https://open.spotify.com/track/1OTYC3sM0OjSNd7Y72bprw"
     },
     {
       "added_at": "2026-06-02 15:00:29",

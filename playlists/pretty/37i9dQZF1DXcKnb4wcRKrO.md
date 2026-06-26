@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKnb4wcRKrO.md) - [plain]
 
 > Golden hour, apéritif, cozy time, beach wind\-down \-  jazzy vibes & relaxed house beats🍹
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,036 likes - 150 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,293 likes - 150 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKnb4wcRKrO.md) - [plain]
 | 149 | [Red Offset](https://open.spotify.com/track/32MzFc0QOdiqG7x1WETBIk) | [Plain Days](https://open.spotify.com/artist/78zQdBo0BoNJBJSx9vYkGE) | [Red Offset](https://open.spotify.com/album/4IxeTO6aha5DfGXFGefgy7) | 2:16 |
 | 150 | [Last Call](https://open.spotify.com/track/2oNeJxWbFkL7457XgXsfw4) | [philocalie](https://open.spotify.com/artist/2xSEBQojyWTfoZ637ZjiZm), [Lennex](https://open.spotify.com/artist/2eu54IIOLXr91ZaCG05vJK), [Erwo](https://open.spotify.com/artist/5mVyynSAENFM48yJi70Fsq) | [Last Call](https://open.spotify.com/album/0qXcnkrQb1VAkRSFCoNagG) | 2:35 |
 
-Snapshot ID: `AAAAAEhsEvaYz8X4xNzavmNV1tiLOf8j`
+Snapshot ID: `AAAAAO5SrtGdC915c3/lqoUDIIzZ9XGJ`

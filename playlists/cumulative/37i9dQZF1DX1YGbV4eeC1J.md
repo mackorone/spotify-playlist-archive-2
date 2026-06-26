@@ -2,9 +2,9 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> What is your love language? Say it in Swahili\.  Cover: Phany Love
+> What is your love language? Say it in Swahili\.  Cover: Vanilla
 
-370 songs - 20 hr 43 min
+371 songs - 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Chibaby](https://open.spotify.com/track/7lAqB3ozpExtjrOCbg4AHA) | [Jovial](https://open.spotify.com/artist/2iULDphri5hyIfw6Z1HhcH), [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Chibaby](https://open.spotify.com/album/1u0J1Gu4dgSf3c9UU8VaRi) | 3:36 | 2025-05-08 | 2026-02-13 |
 | [Chombo](https://open.spotify.com/track/5iyiGl2swMh2Hoo3WtjMof) | [Cheed](https://open.spotify.com/artist/2qB04YVOV3cm2YSEn5L90z) | [Endless Love EP](https://open.spotify.com/album/293vnq26EV2uVbehBuavxk) | 3:24 | 2022-08-11 | 2023-02-04 |
 | [Closer](https://open.spotify.com/track/4tcINUMLwOk74IJqeoTv8W) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Closer](https://open.spotify.com/album/0w6C76lbJGFdiKQlwfYNPm) | 3:18 | 2022-08-18 | 2023-05-05 |
-| [Closer](https://open.spotify.com/track/2WVcEQjK8nDQq3xcGrb1I3) | [Miss Kamweru](https://open.spotify.com/artist/7bhv4dzPZ4ukV1fCBJNeUQ) | [Closer](https://open.spotify.com/album/0n38FRZY0LI1cgI4nAychR) | 2:37 | 2026-05-15 |  |
+| [Closer](https://open.spotify.com/track/2WVcEQjK8nDQq3xcGrb1I3) | [Miss Kamweru](https://open.spotify.com/artist/7bhv4dzPZ4ukV1fCBJNeUQ) | [Closer](https://open.spotify.com/album/0n38FRZY0LI1cgI4nAychR) | 2:37 | 2026-05-15 | 2026-06-26 |
 | [Confuse Me](https://open.spotify.com/track/7hPrIkzoycpFc9u2sQk8Lm) | [Okello Max](https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp), [Mordecai Dex](https://open.spotify.com/artist/7itqo8Vno3ohE3Ce85aHBL), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Healing](https://open.spotify.com/album/6mjstDKxdSDfK7PgOvnKRC) | 3:50 | 2025-07-04 | 2025-11-07 |
 | [Controller](https://open.spotify.com/track/4Bpkbim8Fxw8dSdqVFgzbX) | [Tommy Flavour](https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu) | [Controller](https://open.spotify.com/album/07kcDlbjoCj3aFEw63CDA2) | 3:05 | 2022-08-11 | 2022-12-17 |
 | [Dah! \(feat\. Alikiba\)](https://open.spotify.com/track/4aiEer4vCjTyuRAVFAlmGD) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Dah! \(feat\. Alikiba\)](https://open.spotify.com/album/3W0tL0BDQHyKP4Wjol9Ps6) | 3:08 | 2024-03-14 | 2024-03-22 |
@@ -84,7 +84,7 @@
 | [Forever](https://open.spotify.com/track/1T64n0T17I3deCh0Uk9hct) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Therapy](https://open.spotify.com/album/0E7ArB2FlQPLLdyynSOvUp) | 3:37 | 2024-04-25 | 2024-07-05 |
 | [Furaha](https://open.spotify.com/track/77tlTHsLMs2ubmp8VyNqpx) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Furaha](https://open.spotify.com/album/4xsB6wIT8GFXLF1JIx2eVl) | 2:45 | 2025-02-13 |  |
 | [Furukuta](https://open.spotify.com/track/5sgsXrwCGhGXaFP7KhbwrI) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Furukuta](https://open.spotify.com/album/6SUXON4yFtTdklgXQxOk4t) | 3:06 | 2024-06-27 | 2024-10-11 |
-| [Gimmie](https://open.spotify.com/track/72fGY2W3zO4QpYpmoSP9W5) | [Mimi Mars](https://open.spotify.com/artist/0EvB9GVXaLmhGROh8ZIAKi) | [Gimmie](https://open.spotify.com/album/1Bv11bCWhUfhSc5QJk5MW8) | 2:20 | 2026-01-15 |  |
+| [Gimmie](https://open.spotify.com/track/72fGY2W3zO4QpYpmoSP9W5) | [Mimi Mars](https://open.spotify.com/artist/0EvB9GVXaLmhGROh8ZIAKi) | [Gimmie](https://open.spotify.com/album/1Bv11bCWhUfhSc5QJk5MW8) | 2:20 | 2026-01-15 | 2026-06-26 |
 | [Goli](https://open.spotify.com/track/6n3ZfpBRbKFDbJcJDNdEUe) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU) | [Goli](https://open.spotify.com/album/5rmaDuakvgsWB6LdpLzj0z) | 3:31 | 2025-05-02 | 2025-08-22 |
 | [Hadithi \(feat\. Diamond Platnumz\)](https://open.spotify.com/track/5TrEBfukZOp890EY750Ktn) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Love Sounds Different](https://open.spotify.com/album/7uUGjipQKNBau0C3KASL56) | 2:38 | 2024-03-14 | 2024-03-22 |
 | [Haiwahusu](https://open.spotify.com/track/1Md3HmqIOIOqEenhx7r6Gh) | [Israel Onyach](https://open.spotify.com/artist/0FsioHzjzS6b1EZKadZsZK) | [Timestamp](https://open.spotify.com/album/76RvAWfB1SVkhh9mt7x8cJ) | 3:43 | 2024-05-16 | 2024-07-05 |
@@ -365,6 +365,7 @@
 | [Why](https://open.spotify.com/track/6TlZkvGTKWJXtYUx4XGCyv) | [The Ben](https://open.spotify.com/artist/71jxVM5UsQTnPa9DpkK21E), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Why](https://open.spotify.com/album/4qdyzWegDBzlnPfl0FmBaB) | 3:26 | 2022-05-26 | 2024-08-16 |
 | [Wimbo Wetu](https://open.spotify.com/track/0zOV2YLP3cSpknApGiIo4H) | [Ethan](https://open.spotify.com/artist/16VZMbA7y5gwrxNG0q3wC1) | [Wimbo Wetu](https://open.spotify.com/album/3XbVKuy8YmoHYwqXoVRvBr) | 4:26 | 2023-07-06 | 2024-01-26 |
 | [WIVU](https://open.spotify.com/track/0wKkMsJb5vGjUMG1AHU4OM) | [Charisma](https://open.spotify.com/artist/34FqcraaOV85NJMLNb4JQu) | [THE MOTIONS](https://open.spotify.com/album/4fPOxjuC3kyV9c6TW4Ejjq) | 3:00 | 2024-08-08 | 2025-01-31 |
+| [Wivu](https://open.spotify.com/track/14p6haa3m3b9WxUhDF93iy) | [Vanillah](https://open.spotify.com/artist/2KFj5D3aDGmnAyHrvLegtI), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Listen to Me Again](https://open.spotify.com/album/4xQ3Molayp9PvepgQsZqe4) | 3:32 | 2026-06-26 |  |
 | [Wote](https://open.spotify.com/track/560WaxcCey7Ss0t4ii0Bm4) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Love Season](https://open.spotify.com/album/3lmgIevac4UvNrj4K5I3hg) | 3:10 | 2025-02-06 |  |
 | [Wow](https://open.spotify.com/track/1a50fC98TLpeermDrb5dws) | [Appy](https://open.spotify.com/artist/22CP7pIdG3mGt7AL1Dm4gv) | [This is Appy](https://open.spotify.com/album/43i28oP35562ecl4k6KOzs) | 3:32 | 2026-02-12 |  |
 | [Yako Wapi](https://open.spotify.com/track/3EIGn3wZiw5PZw66eHwBuq) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Yako Wapi](https://open.spotify.com/album/6RCoSr3PynLjqURiK99QRK) | 3:35 | 2025-01-23 | 2025-09-12 |

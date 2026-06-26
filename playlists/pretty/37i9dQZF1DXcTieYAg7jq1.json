@@ -1,13 +1,45 @@
 {
-  "description": "Featuring that new vintage. Cover: Naomi Scott",
-  "num_followers": 443969,
+  "description": "Featuring that new vintage. Cover: Debbii Dawson",
+  "num_followers": 444006,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFEIQRqChsaYO+ie7KSZovGajQHA",
+  "snapshot_id": "AAAAALea4aoGdEq970K3TrUnkIgrExBo",
   "tracks": [
+    {
+      "added_at": "2026-06-26 04:00:29",
+      "album": {
+        "name": "Where Have All The Good Men Gone?",
+        "url": "https://open.spotify.com/album/2T4mLc6SKNUBQZvdbD8Vt9"
+      },
+      "artists": [
+        {
+          "name": "Debbii Dawson",
+          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
+        }
+      ],
+      "duration_ms": 168215,
+      "name": "Mars",
+      "url": "https://open.spotify.com/track/5RbmvXlg7WFVqFZtxv9ATO"
+    },
+    {
+      "added_at": "2026-06-26 04:00:29",
+      "album": {
+        "name": "Saturday Night",
+        "url": "https://open.spotify.com/album/7LtJ3HtPW9fPLqd9nraw6J"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 217440,
+      "name": "Saturday Night",
+      "url": "https://open.spotify.com/track/5kaXbTDNmB14gIqDrI0sVX"
+    },
     {
       "added_at": "2026-05-29 04:01:17",
       "album": {
@@ -25,20 +57,20 @@
       "url": "https://open.spotify.com/track/5XpfG1xcdznjc3BPdotlXK"
     },
     {
-      "added_at": "2026-06-05 04:01:52",
+      "added_at": "2026-06-26 04:00:29",
       "album": {
-        "name": "Mrs. Kisses",
-        "url": "https://open.spotify.com/album/1qbnghY7L0MQhGSxBxm2Mb"
+        "name": "My Tragic Love Story",
+        "url": "https://open.spotify.com/album/7gBAcyjxQLSIWvfgha6KYx"
       },
       "artists": [
         {
-          "name": "tig3r lewis",
-          "url": "https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN"
+          "name": "Olivia C. Dacal",
+          "url": "https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa"
         }
       ],
-      "duration_ms": 192534,
-      "name": "Mrs. Kisses",
-      "url": "https://open.spotify.com/track/559GqhUeuXY8tKdVXMSMpT"
+      "duration_ms": 198797,
+      "name": "My Tragic Love Story",
+      "url": "https://open.spotify.com/track/6fIkgdMrq2OzoHKcpEYO8z"
     },
     {
       "added_at": "2026-05-01 04:02:18",
@@ -55,6 +87,86 @@
       "duration_ms": 178016,
       "name": "Material Lover",
       "url": "https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S"
+    },
+    {
+      "added_at": "2026-04-17 04:00:57",
+      "album": {
+        "name": "Hate to Be the One",
+        "url": "https://open.spotify.com/album/3D1D6EStEZHBBxevQ9epWK"
+      },
+      "artists": [
+        {
+          "name": "Izzy Escobar",
+          "url": "https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO"
+        }
+      ],
+      "duration_ms": 209466,
+      "name": "Hate to Be the One",
+      "url": "https://open.spotify.com/track/6JiUEyUcZ1C9FnNAfO4UIZ"
+    },
+    {
+      "added_at": "2026-06-26 04:00:29",
+      "album": {
+        "name": "Lucky Charm",
+        "url": "https://open.spotify.com/album/75tf9TGXxxYBrAYhEwUUe2"
+      },
+      "artists": [
+        {
+          "name": "Madeline The Person",
+          "url": "https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY"
+        }
+      ],
+      "duration_ms": 182758,
+      "name": "Lucky Charm",
+      "url": "https://open.spotify.com/track/4Szao0AvRVhjlsTzFBsqwL"
+    },
+    {
+      "added_at": "2026-06-19 04:01:09",
+      "album": {
+        "name": "Love Is for Suckers",
+        "url": "https://open.spotify.com/album/0B5RT0pvzVrH8TVPY63G66"
+      },
+      "artists": [
+        {
+          "name": "RAYNE",
+          "url": "https://open.spotify.com/artist/3BfKXIXRTtUMCUSWK0f3CN"
+        }
+      ],
+      "duration_ms": 181028,
+      "name": "Love Is for Suckers",
+      "url": "https://open.spotify.com/track/3t6EystzC1IMkeLD1EuVQ3"
+    },
+    {
+      "added_at": "2026-06-26 04:00:29",
+      "album": {
+        "name": "BORN BLUE (THE SONG)",
+        "url": "https://open.spotify.com/album/7J3K7vYvEDFCQbhpCXdECr"
+      },
+      "artists": [
+        {
+          "name": "Kings Elliot",
+          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "BORN BLUE (THE SONG)",
+      "url": "https://open.spotify.com/track/4UWtyESSkgFuLL7JU6YsdX"
+    },
+    {
+      "added_at": "2026-06-05 04:01:52",
+      "album": {
+        "name": "Mrs. Kisses",
+        "url": "https://open.spotify.com/album/1qbnghY7L0MQhGSxBxm2Mb"
+      },
+      "artists": [
+        {
+          "name": "tig3r lewis",
+          "url": "https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN"
+        }
+      ],
+      "duration_ms": 192534,
+      "name": "Mrs. Kisses",
+      "url": "https://open.spotify.com/track/559GqhUeuXY8tKdVXMSMpT"
     },
     {
       "added_at": "2026-06-12 04:14:06",
@@ -119,38 +231,6 @@
       "duration_ms": 210517,
       "name": "I Was Wrong",
       "url": "https://open.spotify.com/track/6UJPMPsiXUFl2tI0XlZzh6"
-    },
-    {
-      "added_at": "2026-06-19 04:01:09",
-      "album": {
-        "name": "Love Is for Suckers",
-        "url": "https://open.spotify.com/album/0B5RT0pvzVrH8TVPY63G66"
-      },
-      "artists": [
-        {
-          "name": "RAYNE",
-          "url": "https://open.spotify.com/artist/3BfKXIXRTtUMCUSWK0f3CN"
-        }
-      ],
-      "duration_ms": 181028,
-      "name": "Love Is for Suckers",
-      "url": "https://open.spotify.com/track/3t6EystzC1IMkeLD1EuVQ3"
-    },
-    {
-      "added_at": "2026-04-17 04:00:57",
-      "album": {
-        "name": "Hate to Be the One",
-        "url": "https://open.spotify.com/album/3D1D6EStEZHBBxevQ9epWK"
-      },
-      "artists": [
-        {
-          "name": "Izzy Escobar",
-          "url": "https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO"
-        }
-      ],
-      "duration_ms": 209466,
-      "name": "Hate to Be the One",
-      "url": "https://open.spotify.com/track/6JiUEyUcZ1C9FnNAfO4UIZ"
     },
     {
       "added_at": "2026-05-29 04:01:17",
@@ -993,26 +1073,6 @@
       "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
     },
     {
-      "added_at": "2026-02-06 05:50:36",
-      "album": {
-        "name": "Cry (feat. Kenny G)",
-        "url": "https://open.spotify.com/album/2AGIiRCZ9q5cYOfQ8LmU3B"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        },
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 187240,
-      "name": "Cry (feat. Kenny G)",
-      "url": "https://open.spotify.com/track/3G0SQeuephtTBg5OZtXyRD"
-    },
-    {
       "added_at": "2025-11-21 05:00:33",
       "album": {
         "name": "Head Above Water",
@@ -1357,22 +1417,6 @@
       "url": "https://open.spotify.com/track/4x08v04zVAsyVeeZskSDN3"
     },
     {
-      "added_at": "2025-09-12 04:00:28",
-      "album": {
-        "name": "Moonshine",
-        "url": "https://open.spotify.com/album/5yWslb5Coa1ZMCN43gRIjV"
-      },
-      "artists": [
-        {
-          "name": "Stephen Day",
-          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
-        }
-      ],
-      "duration_ms": 119000,
-      "name": "Moonshine",
-      "url": "https://open.spotify.com/track/6fnVXJMz2ahAVFxc9fwczD"
-    },
-    {
       "added_at": "2025-08-22 04:00:12",
       "album": {
         "name": "BIG MONEY",
@@ -1585,38 +1629,6 @@
       "url": "https://open.spotify.com/track/5pGdWJIkt47ovJcBOKHl2S"
     },
     {
-      "added_at": "2025-05-23 04:00:22",
-      "album": {
-        "name": "Who Knew Dancing Was A Sin",
-        "url": "https://open.spotify.com/album/2agANvTRbWcM7wzBgaSRFA"
-      },
-      "artists": [
-        {
-          "name": "Elliot James Reay",
-          "url": "https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5"
-        }
-      ],
-      "duration_ms": 194920,
-      "name": "Who Knew Dancing Was A Sin",
-      "url": "https://open.spotify.com/track/09qCrdsapK16DbhzFBzvMA"
-    },
-    {
-      "added_at": "2025-05-02 04:00:26",
-      "album": {
-        "name": "Olive Tree",
-        "url": "https://open.spotify.com/album/16PHvU7FdshoSHOOizxOEG"
-      },
-      "artists": [
-        {
-          "name": "Quinn XCII",
-          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
-        }
-      ],
-      "duration_ms": 241060,
-      "name": "Olive Tree",
-      "url": "https://open.spotify.com/track/52vHgE4QfUoEyn8h3IqT7T"
-    },
-    {
       "added_at": "2025-03-21 04:00:40",
       "album": {
         "name": "White Lies",
@@ -1647,22 +1659,6 @@
       "duration_ms": 183857,
       "name": "Girl of the Hour",
       "url": "https://open.spotify.com/track/5DToj6deasn1CaLqldIWCJ"
-    },
-    {
-      "added_at": "2025-01-10 05:00:12",
-      "album": {
-        "name": "Hush",
-        "url": "https://open.spotify.com/album/71uMtQ6dsqaaaDfgs94xvt"
-      },
-      "artists": [
-        {
-          "name": "Jules Halpern",
-          "url": "https://open.spotify.com/artist/7K5b86z7l451wp57waF0Py"
-        }
-      ],
-      "duration_ms": 184226,
-      "name": "Hush",
-      "url": "https://open.spotify.com/track/4Qc6g3CcyLwebubsViTw06"
     }
   ],
   "unique_name": "Retro Pop",

@@ -4,7 +4,7 @@
 
 > 하나 뿐인 내 사랑을 정하는 날\. 따뜻하고 낭만적인 국내 가요와 마음 가득 행복함을 느껴보세요\. \(The day I decide on my one and only love\. Feel the happiness in your heart with warm and romantic domestic songs.\)
 
-125 songs - 8 hr 14 min
+126 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Gift](https://open.spotify.com/track/5eO04wLeM487N9qhPHPPoB) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Moonlight](https://open.spotify.com/album/46uEItiUj8dJavY8Jw3fye) | 4:20 | 2024-12-19 |  |
 | [Gravity of You](https://open.spotify.com/track/2kbxOrQUGHjDzuFpIs8Hev) | [Shin Seung Hun](https://open.spotify.com/artist/4xgRWQOK2y3pGRFtmWNjyw) | [SINCERELY MELODIES](https://open.spotify.com/album/3TxzTHwIDN6XFVtIVDDA3o) | 3:33 | 2025-09-30 |  |
 | [He'story](https://open.spotify.com/track/5i1eunjj1liTM6lwNygo8v) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [He'story \(Shin Ye Young X Lulu\-lala Friends 2\)](https://open.spotify.com/album/4csirJdWT7NZ1cFYRcPXXV) | 4:25 | 2026-04-27 |  |
+| [Heaven Knows](https://open.spotify.com/track/7zf5sJzBtOuujJYes54ucb) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc), [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Heaven Knows](https://open.spotify.com/album/6Qn42r5xPsrEE3YziVwiIR) | 4:04 | 2026-06-25 |  |
 | [HONEYMOON](https://open.spotify.com/track/5iGdQsgIGDSlxJKlsCv62L) | [PL](https://open.spotify.com/artist/3ZRrPmnB6ORWKeEJ8qawnP) | [HONEYMOON](https://open.spotify.com/album/3Ms7sWhlT637M6uDqxLbTF) | 3:32 | 2024-12-19 |  |
 | [I can't take my eyes off you](https://open.spotify.com/track/2GsYFOVcol1GPP94nMe5je) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [I can't take my eyes off you](https://open.spotify.com/album/6SrmdTc9UCeVLKJkBLIm5H) | 5:07 | 2026-02-24 |  |
 | [I can't take my eyes off you](https://open.spotify.com/track/4aMDsdh082wshipTFzAjr1) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [I can't take my eyes off you / Serenade](https://open.spotify.com/album/7ISPZeyUDpAFPlB7F9ZI8j) | 5:07 | 2026-03-17 |  |

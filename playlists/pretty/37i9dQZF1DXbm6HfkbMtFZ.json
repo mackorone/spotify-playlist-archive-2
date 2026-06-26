@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 841842,
+  "num_followers": 841884,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
-        "name": "The Rabbit That Hunts Tigers",
-        "url": "https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK"
-      },
-      "artists": [
-        {
-          "name": "Yin Yin",
-          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
-        }
-      ],
-      "duration_ms": 308301,
-      "name": "One Inch Punch",
-      "url": "https://open.spotify.com/track/6BdpQ5lDOUNbaER31ajumE"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
         "name": "Feel Good",
         "url": "https://open.spotify.com/album/4Bpt4fHYxxgqR2GjrxyR6D"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 201640,
       "name": "Dontcha",
       "url": "https://open.spotify.com/track/6dET51TwAJPrKV5wmA5Vhr"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
+        "name": "The Rabbit That Hunts Tigers",
+        "url": "https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK"
+      },
+      "artists": [
+        {
+          "name": "Yin Yin",
+          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
+        }
+      ],
+      "duration_ms": 308301,
+      "name": "One Inch Punch",
+      "url": "https://open.spotify.com/track/6BdpQ5lDOUNbaER31ajumE"
     },
     {
       "added_at": "2026-05-18 19:19:44",
@@ -471,6 +471,22 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/7bBGtsRDuDXdr0glqgdIlx"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 231266,
+      "name": "Black Rain",
+      "url": "https://open.spotify.com/track/5WiBOUfizLpHt0NY2V7XCn"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
         "name": "Eddie",
         "url": "https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 290893,
       "name": "Out Of Love",
       "url": "https://open.spotify.com/track/3hNywmR93yvj68y2zl8mRt"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/7bBGtsRDuDXdr0glqgdIlx"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 231266,
-      "name": "Black Rain",
-      "url": "https://open.spotify.com/track/5WiBOUfizLpHt0NY2V7XCn"
     },
     {
       "added_at": "2026-05-18 19:19:44",
@@ -807,26 +807,6 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
-        "name": "Uneasy - Metronomy x spill tab",
-        "url": "https://open.spotify.com/album/3XRHpM3LFOWY9nnWwKCKyv"
-      },
-      "artists": [
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        },
-        {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
-        }
-      ],
-      "duration_ms": 203262,
-      "name": "Uneasy - Metronomy x spill tab",
-      "url": "https://open.spotify.com/track/6HOXiIuMfKzEpWsdZ02wZL"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
         "name": "Time to Melt",
         "url": "https://open.spotify.com/album/7tbxSBCADgo0YnDBw4EzJW"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 207037,
       "name": "Where You Belong",
       "url": "https://open.spotify.com/track/0WPOxxoEVoglAvhqroDpQA"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
+        "name": "Uneasy - Metronomy x spill tab",
+        "url": "https://open.spotify.com/album/3XRHpM3LFOWY9nnWwKCKyv"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        },
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "duration_ms": 203262,
+      "name": "Uneasy - Metronomy x spill tab",
+      "url": "https://open.spotify.com/track/6HOXiIuMfKzEpWsdZ02wZL"
     },
     {
       "added_at": "2026-05-18 19:19:44",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
-        "name": "One and Only",
-        "url": "https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM"
-      },
-      "artists": [
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 191037,
-      "name": "One and Only",
-      "url": "https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
         "name": "The Gold (Nick Waterhouse Remix)",
         "url": "https://open.spotify.com/album/0QgLeJOCYZN6V9kUTlgNHu"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 249773,
       "name": "The Gold - Nick Waterhouse Remix",
       "url": "https://open.spotify.com/track/5qVVPptGHVCPMci6NCbLCq"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
+        "name": "One and Only",
+        "url": "https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 191037,
+      "name": "One and Only",
+      "url": "https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa"
     },
     {
       "added_at": "2026-05-18 19:19:44",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
-        "name": "What Now",
-        "url": "https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 202720,
-      "name": "I Don't",
-      "url": "https://open.spotify.com/track/7Gzm2IS4zLi5W46dudWn7H"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
         "name": "Maybe Later",
         "url": "https://open.spotify.com/album/7yocoFhxAHU4mvE0anaPFm"
       },
@@ -1791,18 +1775,18 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
-        "name": "TORNADO",
-        "url": "https://open.spotify.com/album/1u7lnVv0gqzo6TNSSvjojv"
+        "name": "What Now",
+        "url": "https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2"
       },
       "artists": [
         {
-          "name": "FLEECE",
-          "url": "https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm"
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
         }
       ],
-      "duration_ms": 204817,
-      "name": "Where's My Beach Hat",
-      "url": "https://open.spotify.com/track/0W7ID3fBwiarBoHqETvlXh"
+      "duration_ms": 202720,
+      "name": "I Don't",
+      "url": "https://open.spotify.com/track/7Gzm2IS4zLi5W46dudWn7H"
     },
     {
       "added_at": "2026-05-18 19:19:44",
@@ -1819,6 +1803,22 @@
       "duration_ms": 191560,
       "name": "You're A Song (That I Can't Sing)",
       "url": "https://open.spotify.com/track/5ZXxJ5AWzZ6Td3MZKbwwdt"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
+        "name": "TORNADO",
+        "url": "https://open.spotify.com/album/1u7lnVv0gqzo6TNSSvjojv"
+      },
+      "artists": [
+        {
+          "name": "FLEECE",
+          "url": "https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm"
+        }
+      ],
+      "duration_ms": 204817,
+      "name": "Where's My Beach Hat",
+      "url": "https://open.spotify.com/track/0W7ID3fBwiarBoHqETvlXh"
     },
     {
       "added_at": "2026-05-18 19:19:44",
@@ -1887,6 +1887,22 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
+        "name": "Lucha",
+        "url": "https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib"
+      },
+      "artists": [
+        {
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+        }
+      ],
+      "duration_ms": 262184,
+      "name": "Nunca",
+      "url": "https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
         "name": "The Road From Memphis (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6IoxOcWv5ugc0W08VdeRDY"
       },
@@ -1903,22 +1919,6 @@
       "duration_ms": 199680,
       "name": "Progress",
       "url": "https://open.spotify.com/track/0AuM6Fku5nWZ0CM21YEzty"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
-        "name": "Lucha",
-        "url": "https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib"
-      },
-      "artists": [
-        {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
-        }
-      ],
-      "duration_ms": 262184,
-      "name": "Nunca",
-      "url": "https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv"
     },
     {
       "added_at": "2026-05-18 19:19:44",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
-        "name": "Bye Bye 17",
-        "url": "https://open.spotify.com/album/3lJgfGvlQIdJ9JdWAAape1"
-      },
-      "artists": [
-        {
-          "name": "Har Mar Superstar",
-          "url": "https://open.spotify.com/artist/5wjWLK4KMqmRbdUtTEV1BG"
-        }
-      ],
-      "duration_ms": 125962,
-      "name": "Late Night Morning Light",
-      "url": "https://open.spotify.com/track/36Jk4Gov47YOevltFX97sD"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
         "name": "Blossom Dearie Sings (45th Anniversary Edition)",
         "url": "https://open.spotify.com/album/7ylVNuVPvO6dAS84nuQE7A"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 176718,
       "name": "Somebody New",
       "url": "https://open.spotify.com/track/2Br3fsJf9k9ciS5jiDxpDQ"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
+        "name": "Bye Bye 17",
+        "url": "https://open.spotify.com/album/3lJgfGvlQIdJ9JdWAAape1"
+      },
+      "artists": [
+        {
+          "name": "Har Mar Superstar",
+          "url": "https://open.spotify.com/artist/5wjWLK4KMqmRbdUtTEV1BG"
+        }
+      ],
+      "duration_ms": 125962,
+      "name": "Late Night Morning Light",
+      "url": "https://open.spotify.com/track/36Jk4Gov47YOevltFX97sD"
     }
   ],
   "unique_name": "Feel Good Dinner",

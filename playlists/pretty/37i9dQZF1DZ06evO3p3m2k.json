@@ -1,12 +1,12 @@
 {
   "description": "This is Juliana. The essential tracks, all in one playlist.",
-  "num_followers": 5857,
+  "num_followers": 5862,
   "original_name": "This Is Juliana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajnMgAAAAACtTGmnvoijplHjmvHHbeIf",
+  "snapshot_id": "ajseAAAAAAAWBE45+9rCO/wg1nWdcHRg",
   "tracks": [
     {
       "added_at": null,
@@ -399,18 +399,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Juliana",
-        "url": "https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x"
+        "name": "DOS DOS DOS",
+        "url": "https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP"
       },
       "artists": [
         {
           "name": "Juliana",
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        },
+        {
+          "name": "Mabiland",
+          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
         }
       ],
-      "duration_ms": 237272,
-      "name": "Electricidad (2:21am)",
-      "url": "https://open.spotify.com/track/5ErcJsujfGgRXsTTz7FGRm"
+      "duration_ms": 207946,
+      "name": "Pendejada feat. Mabiland",
+      "url": "https://open.spotify.com/track/1LA1dNwVWQQZwuSQ8TmOry"
     },
     {
       "added_at": null,
@@ -431,22 +435,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "DOS DOS DOS",
-        "url": "https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP"
+        "name": "Juliana",
+        "url": "https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x"
       },
       "artists": [
         {
           "name": "Juliana",
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        },
-        {
-          "name": "Mabiland",
-          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
         }
       ],
-      "duration_ms": 207946,
-      "name": "Pendejada feat. Mabiland",
-      "url": "https://open.spotify.com/track/1LA1dNwVWQQZwuSQ8TmOry"
+      "duration_ms": 237272,
+      "name": "Electricidad (2:21am)",
+      "url": "https://open.spotify.com/track/5ErcJsujfGgRXsTTz7FGRm"
     },
     {
       "added_at": null,

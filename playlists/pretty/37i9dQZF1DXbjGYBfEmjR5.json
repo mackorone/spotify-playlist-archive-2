@@ -1,6 +1,6 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 365218,
+  "num_followers": 365244,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
@@ -787,26 +787,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "You Can't Run",
-        "url": "https://open.spotify.com/album/71XLVZtjVzsVGwL6VKckaf"
-      },
-      "artists": [
-        {
-          "name": "ev.exi",
-          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
-        },
-        {
-          "name": "Lavera",
-          "url": "https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB"
-        }
-      ],
-      "duration_ms": 201142,
-      "name": "You Can't Run",
-      "url": "https://open.spotify.com/track/6h0mHDcRBUbViG36YW0ujv"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Shine On",
         "url": "https://open.spotify.com/album/2cObnKKxgibtT4WW3WvDD4"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 215125,
       "name": "Glimmer",
       "url": "https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "You Can't Run",
+        "url": "https://open.spotify.com/album/71XLVZtjVzsVGwL6VKckaf"
+      },
+      "artists": [
+        {
+          "name": "ev.exi",
+          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
+        },
+        {
+          "name": "Lavera",
+          "url": "https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB"
+        }
+      ],
+      "duration_ms": 201142,
+      "name": "You Can't Run",
+      "url": "https://open.spotify.com/track/6h0mHDcRBUbViG36YW0ujv"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/3Z61l2s9c2dkb1OB8KwM3o"
-      },
-      "artists": [
-        {
-          "name": "ev.exi",
-          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
-        }
-      ],
-      "duration_ms": 232699,
-      "name": "Mode",
-      "url": "https://open.spotify.com/track/6PiITaAN35MgWSGkcQUA7m"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Stereo",
         "url": "https://open.spotify.com/album/06IIGatctBNn3MQExq8dYc"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 248447,
       "name": "Together",
       "url": "https://open.spotify.com/track/0gmJDqUuSU5pU0OD9DqFs0"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/3Z61l2s9c2dkb1OB8KwM3o"
+      },
+      "artists": [
+        {
+          "name": "ev.exi",
+          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
+        }
+      ],
+      "duration_ms": 232699,
+      "name": "Mode",
+      "url": "https://open.spotify.com/track/6PiITaAN35MgWSGkcQUA7m"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Tropical Feeling",
-        "url": "https://open.spotify.com/album/2bUGIHbRURIAphBRHd5f4K"
+        "name": "Paradise Break",
+        "url": "https://open.spotify.com/album/6PbGSUZ6oaSXT82SRE6Vzf"
       },
       "artists": [
         {
-          "name": "Skule Toyama",
-          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
+          "name": "Sparkly Night",
+          "url": "https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN"
         }
       ],
-      "duration_ms": 292939,
-      "name": "Tropical Feeling",
-      "url": "https://open.spotify.com/track/76swBwQesVkyBnSkqpEphn"
+      "duration_ms": 175567,
+      "name": "Lady Paradise",
+      "url": "https://open.spotify.com/track/5v6UbRijN2QIvkEK4Alssb"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1143,50 +1143,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Paradise Break",
-        "url": "https://open.spotify.com/album/6PbGSUZ6oaSXT82SRE6Vzf"
+        "name": "Tropical Feeling",
+        "url": "https://open.spotify.com/album/2bUGIHbRURIAphBRHd5f4K"
       },
       "artists": [
         {
-          "name": "Sparkly Night",
-          "url": "https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN"
+          "name": "Skule Toyama",
+          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
         }
       ],
-      "duration_ms": 175567,
-      "name": "Lady Paradise",
-      "url": "https://open.spotify.com/track/5v6UbRijN2QIvkEK4Alssb"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Delicate",
-        "url": "https://open.spotify.com/album/1JFB5WfXGEAkxpQlzgVRZg"
-      },
-      "artists": [
-        {
-          "name": "Sui Uzi",
-          "url": "https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln"
-        }
-      ],
-      "duration_ms": 251151,
-      "name": "Delicate",
-      "url": "https://open.spotify.com/track/4KoVr6cmHVKkecEudgzbLi"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Road Trip",
-        "url": "https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU"
-      },
-      "artists": [
-        {
-          "name": "AnTgry",
-          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
-        }
-      ],
-      "duration_ms": 173421,
-      "name": "Palm Road",
-      "url": "https://open.spotify.com/track/5SfaKzXyqTf2RhICNrw0Z0"
+      "duration_ms": 292939,
+      "name": "Tropical Feeling",
+      "url": "https://open.spotify.com/track/76swBwQesVkyBnSkqpEphn"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1211,22 +1179,34 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "CHEESECAKE+",
-        "url": "https://open.spotify.com/album/2W1BtAraV5SGikigCgD8qO"
+        "name": "Road Trip",
+        "url": "https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU"
       },
       "artists": [
         {
-          "name": "LemKuuja",
-          "url": "https://open.spotify.com/artist/3eMRhrlKRHoJGeDEivWLjX"
-        },
-        {
-          "name": "\u30ed\u30fc\u30c9\u30b9Rhodes",
-          "url": "https://open.spotify.com/artist/16kNuSeIUtQ30Bnl7tHBb0"
+          "name": "AnTgry",
+          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
         }
       ],
-      "duration_ms": 259673,
-      "name": "Hollywood",
-      "url": "https://open.spotify.com/track/1tr1iSUzaqoxf8GjnG3XtH"
+      "duration_ms": 173421,
+      "name": "Palm Road",
+      "url": "https://open.spotify.com/track/5SfaKzXyqTf2RhICNrw0Z0"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Delicate",
+        "url": "https://open.spotify.com/album/1JFB5WfXGEAkxpQlzgVRZg"
+      },
+      "artists": [
+        {
+          "name": "Sui Uzi",
+          "url": "https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln"
+        }
+      ],
+      "duration_ms": 251151,
+      "name": "Delicate",
+      "url": "https://open.spotify.com/track/4KoVr6cmHVKkecEudgzbLi"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1243,6 +1223,26 @@
       "duration_ms": 240000,
       "name": "SAILORSATURDAYS",
       "url": "https://open.spotify.com/track/5bg67Ih7JzzmfrJZVx2zXC"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "CHEESECAKE+",
+        "url": "https://open.spotify.com/album/2W1BtAraV5SGikigCgD8qO"
+      },
+      "artists": [
+        {
+          "name": "LemKuuja",
+          "url": "https://open.spotify.com/artist/3eMRhrlKRHoJGeDEivWLjX"
+        },
+        {
+          "name": "\u30ed\u30fc\u30c9\u30b9Rhodes",
+          "url": "https://open.spotify.com/artist/16kNuSeIUtQ30Bnl7tHBb0"
+        }
+      ],
+      "duration_ms": 259673,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/1tr1iSUzaqoxf8GjnG3XtH"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1463,22 +1463,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "I Must Be Dreamin'",
-        "url": "https://open.spotify.com/album/33RvNe28yAJFslxS7A9ons"
+        "name": "Talk Of The Dancefloor",
+        "url": "https://open.spotify.com/album/1MJQEf09RBmB8PY7W9AxR5"
       },
       "artists": [
         {
-          "name": "Luanmer",
-          "url": "https://open.spotify.com/artist/2OdUBrq8S4T9JBgdllvvuD"
-        },
-        {
-          "name": "\u30b5\u30af\u30e9SAKURA-LEE",
-          "url": "https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB"
+          "name": "Strawberry Station",
+          "url": "https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB"
         }
       ],
-      "duration_ms": 223129,
-      "name": "I Must Be Dreamin'",
-      "url": "https://open.spotify.com/track/0c4B3vugfHDK23HL5hjvGb"
+      "duration_ms": 202783,
+      "name": "I Didn't Know",
+      "url": "https://open.spotify.com/track/1j9YnP7bHVGzBr3DPiJyB8"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1499,34 +1495,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Talk Of The Dancefloor",
-        "url": "https://open.spotify.com/album/1MJQEf09RBmB8PY7W9AxR5"
+        "name": "I Must Be Dreamin'",
+        "url": "https://open.spotify.com/album/33RvNe28yAJFslxS7A9ons"
       },
       "artists": [
         {
-          "name": "Strawberry Station",
-          "url": "https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB"
-        }
-      ],
-      "duration_ms": 202783,
-      "name": "I Didn't Know",
-      "url": "https://open.spotify.com/track/1j9YnP7bHVGzBr3DPiJyB8"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Saturn St.",
-        "url": "https://open.spotify.com/album/3zA540uSE3ht3kk2pcf4cW"
-      },
-      "artists": [
+          "name": "Luanmer",
+          "url": "https://open.spotify.com/artist/2OdUBrq8S4T9JBgdllvvuD"
+        },
         {
-          "name": "Lando Burch",
-          "url": "https://open.spotify.com/artist/1Dt8AV9iHIAqybj2AwNhZX"
+          "name": "\u30b5\u30af\u30e9SAKURA-LEE",
+          "url": "https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB"
         }
       ],
-      "duration_ms": 157500,
-      "name": "C'est La Vie",
-      "url": "https://open.spotify.com/track/14YdVfy61MPAebt7OptsCg"
+      "duration_ms": 223129,
+      "name": "I Must Be Dreamin'",
+      "url": "https://open.spotify.com/track/0c4B3vugfHDK23HL5hjvGb"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1543,6 +1527,22 @@
       "duration_ms": 141873,
       "name": "DRENCH3D",
       "url": "https://open.spotify.com/track/7Cyanc2rFw2KE1tFevL1Sb"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Saturn St.",
+        "url": "https://open.spotify.com/album/3zA540uSE3ht3kk2pcf4cW"
+      },
+      "artists": [
+        {
+          "name": "Lando Burch",
+          "url": "https://open.spotify.com/artist/1Dt8AV9iHIAqybj2AwNhZX"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "C'est La Vie",
+      "url": "https://open.spotify.com/track/14YdVfy61MPAebt7OptsCg"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Pleasure",
+        "url": "https://open.spotify.com/album/0AMbhzgFEcmVj46N9TPGmU"
+      },
+      "artists": [
+        {
+          "name": "BarbWalters",
+          "url": "https://open.spotify.com/artist/5PyZeODg7q5TGXZfuQEcOj"
+        }
+      ],
+      "duration_ms": 218947,
+      "name": "Bbrown",
+      "url": "https://open.spotify.com/track/21JcSs9Zkdc2kuNzoLBcbz"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "PopSlinger (Original Videogame Soundtrack)",
         "url": "https://open.spotify.com/album/2334zQIqaH68guuXAEHZnr"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 444297,
       "name": "Chill City",
       "url": "https://open.spotify.com/track/0vx7rDY7DD44i5tFTMx0C9"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Pleasure",
-        "url": "https://open.spotify.com/album/0AMbhzgFEcmVj46N9TPGmU"
-      },
-      "artists": [
-        {
-          "name": "BarbWalters",
-          "url": "https://open.spotify.com/artist/5PyZeODg7q5TGXZfuQEcOj"
-        }
-      ],
-      "duration_ms": 218947,
-      "name": "Bbrown",
-      "url": "https://open.spotify.com/track/21JcSs9Zkdc2kuNzoLBcbz"
     }
   ],
   "unique_name": "Future Funk",

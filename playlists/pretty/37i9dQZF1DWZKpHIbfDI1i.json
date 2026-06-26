@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. LAGOS en portada ",
-  "num_followers": 852144,
+  "num_followers": 852170,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -327,8 +327,8 @@
     {
       "added_at": "2026-06-19 06:00:31",
       "album": {
-        "name": "Aguas",
-        "url": "https://open.spotify.com/album/3M2ysOq0MWdkpDydIVZ07K"
+        "name": "Que Gacho",
+        "url": "https://open.spotify.com/album/5wlbbDq6Sz0pCKWAMigv6i"
       },
       "artists": [
         {
@@ -338,15 +338,11 @@
         {
           "name": "Neton Vega",
           "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        },
-        {
-          "name": "Rey Quinto",
-          "url": "https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0"
         }
       ],
-      "duration_ms": 172682,
-      "name": "Aguas",
-      "url": "https://open.spotify.com/track/2KgzC2HaBfy67hMkSUDOys"
+      "duration_ms": 193205,
+      "name": "Que Gacho",
+      "url": "https://open.spotify.com/track/6W2FY18zqXsKLN14vOHBJp"
     },
     {
       "added_at": "2026-06-19 06:00:31",
@@ -427,8 +423,8 @@
     {
       "added_at": "2026-06-19 06:00:31",
       "album": {
-        "name": "Que Gacho",
-        "url": "https://open.spotify.com/album/5wlbbDq6Sz0pCKWAMigv6i"
+        "name": "Aguas",
+        "url": "https://open.spotify.com/album/3M2ysOq0MWdkpDydIVZ07K"
       },
       "artists": [
         {
@@ -438,11 +434,15 @@
         {
           "name": "Neton Vega",
           "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        },
+        {
+          "name": "Rey Quinto",
+          "url": "https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0"
         }
       ],
-      "duration_ms": 193205,
-      "name": "Que Gacho",
-      "url": "https://open.spotify.com/track/6W2FY18zqXsKLN14vOHBJp"
+      "duration_ms": 172682,
+      "name": "Aguas",
+      "url": "https://open.spotify.com/track/2KgzC2HaBfy67hMkSUDOys"
     },
     {
       "added_at": "2026-06-19 06:00:31",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-06-19 06:00:31",
       "album": {
-        "name": "K de Karma",
-        "url": "https://open.spotify.com/album/67Amfz9H8W7fi35u8Cn7zc"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 181933,
-      "name": "Ruleta Rusa",
-      "url": "https://open.spotify.com/track/0IZy9WMqzzK4HNTiHnuzBM"
-    },
-    {
-      "added_at": "2026-06-19 06:00:31",
-      "album": {
         "name": "Modo Dif\u00edcil",
         "url": "https://open.spotify.com/album/3kfuMuOaXbp69CayJ2kiqI"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 201461,
       "name": "Modo Dif\u00edcil",
       "url": "https://open.spotify.com/track/36HVLbDhXrvMTBRj6KTD31"
+    },
+    {
+      "added_at": "2026-06-19 06:00:31",
+      "album": {
+        "name": "K de Karma",
+        "url": "https://open.spotify.com/album/67Amfz9H8W7fi35u8Cn7zc"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 181933,
+      "name": "Ruleta Rusa",
+      "url": "https://open.spotify.com/track/0IZy9WMqzzK4HNTiHnuzBM"
     },
     {
       "added_at": "2026-06-19 06:00:31",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-06-19 06:00:31",
       "album": {
-        "name": "Todos nos Shipean",
-        "url": "https://open.spotify.com/album/3SPczqBl3VuAwAHWfHQwa4"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 136588,
-      "name": "Todos nos Shipean",
-      "url": "https://open.spotify.com/track/1oeOCmZsqxNOKTE4AWqojs"
-    },
-    {
-      "added_at": "2026-06-19 06:00:31",
-      "album": {
         "name": "Filoso",
         "url": "https://open.spotify.com/album/1OCQPMCZ5BcZXYBsxB0bLi"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 163983,
       "name": "Filoso",
       "url": "https://open.spotify.com/track/6h3IkDgzW9livzwgH9dKeX"
+    },
+    {
+      "added_at": "2026-06-19 06:00:31",
+      "album": {
+        "name": "Todos nos Shipean",
+        "url": "https://open.spotify.com/album/3SPczqBl3VuAwAHWfHQwa4"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 136588,
+      "name": "Todos nos Shipean",
+      "url": "https://open.spotify.com/track/1oeOCmZsqxNOKTE4AWqojs"
     },
     {
       "added_at": "2026-06-19 06:00:31",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2026-06-19 06:00:31",
       "album": {
+        "name": "Expansi\u00f3n",
+        "url": "https://open.spotify.com/album/69ceJyl4is6jkwTPjyCYMf"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "duration_ms": 155131,
+      "name": "Un Corridazo",
+      "url": "https://open.spotify.com/track/6VIX6Tu8pnrZurbOnpLj2x"
+    },
+    {
+      "added_at": "2026-06-19 06:00:31",
+      "album": {
         "name": "De Los Dientes Pa Fuera",
         "url": "https://open.spotify.com/album/3rGviY23qfCvsHXiauzv19"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 168664,
       "name": "De Los Dientes Pa Fuera",
       "url": "https://open.spotify.com/track/6U4MQb60Hkvv4ZS2Qwg3Lo"
-    },
-    {
-      "added_at": "2026-06-19 06:00:31",
-      "album": {
-        "name": "Expansi\u00f3n",
-        "url": "https://open.spotify.com/album/69ceJyl4is6jkwTPjyCYMf"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        }
-      ],
-      "duration_ms": 155131,
-      "name": "Un Corridazo",
-      "url": "https://open.spotify.com/track/6VIX6Tu8pnrZurbOnpLj2x"
     },
     {
       "added_at": "2026-06-19 06:00:31",
@@ -1307,6 +1307,42 @@
     {
       "added_at": "2026-06-19 06:00:31",
       "album": {
+        "name": "Otro Abrigo",
+        "url": "https://open.spotify.com/album/1MjzhfXAHq75qYVw4XnIFs"
+      },
+      "artists": [
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "duration_ms": 165162,
+      "name": "Otro Abrigo",
+      "url": "https://open.spotify.com/track/4gzMku4VVN3AKGtbrXE527"
+    },
+    {
+      "added_at": "2026-06-19 06:00:31",
+      "album": {
+        "name": "Estilo R'S, Vol. 3",
+        "url": "https://open.spotify.com/album/3xFbL5aJ5SNXh1PSgUalaT"
+      },
+      "artists": [
+        {
+          "name": "El De Las R's",
+          "url": "https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j"
+        }
+      ],
+      "duration_ms": 120076,
+      "name": "Por Brasil",
+      "url": "https://open.spotify.com/track/2wc7SicspmxsazX7Op17DW"
+    },
+    {
+      "added_at": "2026-06-19 06:00:31",
+      "album": {
         "name": "Injusto - A COLORS SHOW",
         "url": "https://open.spotify.com/album/5vZ13fB8CvXLBIpFTFPLkE"
       },
@@ -1347,42 +1383,6 @@
       "duration_ms": 198361,
       "name": "Motelear",
       "url": "https://open.spotify.com/track/3O0qEIelB7qOCDvTRhQTP0"
-    },
-    {
-      "added_at": "2026-06-19 06:00:31",
-      "album": {
-        "name": "Estilo R'S, Vol. 3",
-        "url": "https://open.spotify.com/album/3xFbL5aJ5SNXh1PSgUalaT"
-      },
-      "artists": [
-        {
-          "name": "El De Las R's",
-          "url": "https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j"
-        }
-      ],
-      "duration_ms": 120076,
-      "name": "Por Brasil",
-      "url": "https://open.spotify.com/track/2wc7SicspmxsazX7Op17DW"
-    },
-    {
-      "added_at": "2026-06-19 06:00:31",
-      "album": {
-        "name": "Otro Abrigo",
-        "url": "https://open.spotify.com/album/1MjzhfXAHq75qYVw4XnIFs"
-      },
-      "artists": [
-        {
-          "name": "Yubeili",
-          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
-        },
-        {
-          "name": "Alka Produce",
-          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
-        }
-      ],
-      "duration_ms": 165162,
-      "name": "Otro Abrigo",
-      "url": "https://open.spotify.com/track/4gzMku4VVN3AKGtbrXE527"
     },
     {
       "added_at": "2026-06-19 06:00:31",
@@ -1431,22 +1431,22 @@
     {
       "added_at": "2026-06-19 06:00:31",
       "album": {
-        "name": "50/50",
-        "url": "https://open.spotify.com/album/14LepGB8kIKQCzxbKVMvdz"
+        "name": "No Me Pidas Un Tiempo",
+        "url": "https://open.spotify.com/album/5CARWChEinGKjMDSIxV4ol"
       },
       "artists": [
         {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         },
         {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
         }
       ],
-      "duration_ms": 204849,
-      "name": "50/50",
-      "url": "https://open.spotify.com/track/2uBRBvEuLx0i3B1cbJLXxp"
+      "duration_ms": 194782,
+      "name": "No Me Pidas Un Tiempo",
+      "url": "https://open.spotify.com/track/7vV6vTQGEhdfYIF9ZfFnR7"
     }
   ],
   "unique_name": "Top M\u00e9xico",

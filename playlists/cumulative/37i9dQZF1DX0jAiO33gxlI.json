@@ -4148,7 +4148,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 202666,
       "name": "Batman X Pinguim",
       "url": "https://open.spotify.com/track/3AqPRHHbiRrJ9FejCqZCWB"
@@ -5660,6 +5660,36 @@
       "duration_ms": 205672,
       "name": "Cairo",
       "url": "https://open.spotify.com/track/6wpqAxnc59HZ4WbdPzLjam"
+    },
+    {
+      "album": {
+        "name": "Cais",
+        "url": "https://open.spotify.com/album/5dXGFQiGdSbgh1ydhGVHxs"
+      },
+      "artists": [
+        {
+          "name": "S\u00edntese",
+          "url": "https://open.spotify.com/artist/44A7vIMeuMh3AhjFTkj8B5"
+        },
+        {
+          "name": "Teo Guedx",
+          "url": "https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M"
+        },
+        {
+          "name": "Pedro Brando",
+          "url": "https://open.spotify.com/artist/3dl4oP7XELyU1Oe6nIU81H"
+        },
+        {
+          "name": "EME Lab",
+          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Cais",
+      "url": "https://open.spotify.com/track/4FtlleXw8YQZduiGRtHIAz"
     },
     {
       "album": {
@@ -10691,6 +10721,40 @@
     },
     {
       "album": {
+        "name": "BASE: Kilos de Rima",
+        "url": "https://open.spotify.com/album/0quvg2bsUx5HYXo9MEzj6Z"
+      },
+      "artists": [
+        {
+          "name": "Podpah Records",
+          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
+        },
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Barona",
+          "url": "https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        },
+        {
+          "name": "Monna Brutal",
+          "url": "https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354633,
+      "name": "EDHardy Itarar\u00e9",
+      "url": "https://open.spotify.com/track/2arWCuax7RBsn0y8S1DuiM"
+    },
+    {
+      "album": {
         "name": "Efeito Domin\u00f3",
         "url": "https://open.spotify.com/album/2oG7HdVS6KA1p6PSCU0fDM"
       },
@@ -11737,6 +11801,28 @@
     },
     {
       "album": {
+        "name": "Eu N\u00e3o Sei Parar",
+        "url": "https://open.spotify.com/album/640YNExuEV7sbXNVGlFuIt"
+      },
+      "artists": [
+        {
+          "name": "Afrodite Bxd",
+          "url": "https://open.spotify.com/artist/6yofdBnMvY2T1pjLwlN6i5"
+        },
+        {
+          "name": "DJ 2F",
+          "url": "https://open.spotify.com/artist/3tkq9ZnBaejLPLRpg8kGET"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140351,
+      "name": "Eu N\u00e3o Sei Parar",
+      "url": "https://open.spotify.com/track/5lnp7UYhG72Ix0LmliWhDo"
+    },
+    {
+      "album": {
         "name": "Aleatoriamente",
         "url": "https://open.spotify.com/album/7mYQl9N5akPjstOuWUxS47"
       },
@@ -12088,7 +12174,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 195164,
       "name": "Falando de Ai",
       "url": "https://open.spotify.com/track/0pjFHRJz4KMKCvQIbWinc5"
@@ -12166,6 +12252,32 @@
       "duration_ms": 184180,
       "name": "Fantasmas",
       "url": "https://open.spotify.com/track/3RuxiOnq4PdK9ti61U2HgT"
+    },
+    {
+      "album": {
+        "name": "Farinha",
+        "url": "https://open.spotify.com/album/6pri2IEmcFEtpXVYfNkK3J"
+      },
+      "artists": [
+        {
+          "name": "Oreia",
+          "url": "https://open.spotify.com/artist/0473TlzNowswPtN7v5U4Pb"
+        },
+        {
+          "name": "Mago de Tarso",
+          "url": "https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4"
+        },
+        {
+          "name": "Faew",
+          "url": "https://open.spotify.com/artist/2wc2o0xe5pjBkzgMMt3Py9"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132972,
+      "name": "Farinha",
+      "url": "https://open.spotify.com/track/6Os5LOvqZfp0FUVPfJ02YZ"
     },
     {
       "album": {
@@ -13168,6 +13280,28 @@
       "duration_ms": 204638,
       "name": "Flow Shakur",
       "url": "https://open.spotify.com/track/6WMDa7YXZWCqhMXAAT71N6"
+    },
+    {
+      "album": {
+        "name": "Foca em mim - Spotify Singles",
+        "url": "https://open.spotify.com/album/4Use2gMU5KB1uVS2Ejl6XN"
+      },
+      "artists": [
+        {
+          "name": "Ci\u00e7a",
+          "url": "https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4"
+        },
+        {
+          "name": "Bruce Slim Beats",
+          "url": "https://open.spotify.com/artist/51SpeGvzKVZIxsQ13K37CD"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131615,
+      "name": "Foca em mim - Spotify Singles",
+      "url": "https://open.spotify.com/track/3H6MZFtzwidLB7bKKaDZe7"
     },
     {
       "album": {
@@ -15479,6 +15613,44 @@
     },
     {
       "album": {
+        "name": "inpacto",
+        "url": "https://open.spotify.com/album/3Z7A4LMoJuWmP3qbn0aycR"
+      },
+      "artists": [
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        },
+        {
+          "name": "Hiran",
+          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
+        },
+        {
+          "name": "WinniT",
+          "url": "https://open.spotify.com/artist/6n0tzdjsS4IdfDRVsigdTy"
+        },
+        {
+          "name": "Gabrel\u00fa",
+          "url": "https://open.spotify.com/artist/2iQjYFLNpukoPYt0a7NJsL"
+        },
+        {
+          "name": "Zaila",
+          "url": "https://open.spotify.com/artist/2wX1wQaQ6KLfz0endkQtLj"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242640,
+      "name": "inpacto",
+      "url": "https://open.spotify.com/track/6zMFk4zkV2cFfbZcwwI89l"
+    },
+    {
+      "album": {
         "name": "INSACI\u00c1VEL",
         "url": "https://open.spotify.com/album/1ngpLXkLFc5Sp6S5BYY0vL"
       },
@@ -17412,6 +17584,32 @@
       "duration_ms": 160000,
       "name": "Lir\u00edope & C\u00e9fiso",
       "url": "https://open.spotify.com/track/1XMBbLGX8XlKYW71WfheNF"
+    },
+    {
+      "album": {
+        "name": "Living Large",
+        "url": "https://open.spotify.com/album/6hKwwvrBR9fgJ2CLHcl0cu"
+      },
+      "artists": [
+        {
+          "name": "Reggie bds",
+          "url": "https://open.spotify.com/artist/4sGrPTMTIuOStR9bKj6foO"
+        },
+        {
+          "name": "Gshytt",
+          "url": "https://open.spotify.com/artist/5SsefSnZzKpSsfAypeO9rn"
+        },
+        {
+          "name": "Edi Rock",
+          "url": "https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335483,
+      "name": "Living Large",
+      "url": "https://open.spotify.com/track/2dslyYOIxDCq4GeIpQBtPt"
     },
     {
       "album": {
@@ -20695,6 +20893,32 @@
     },
     {
       "album": {
+        "name": "MUNDO INVERTIDO",
+        "url": "https://open.spotify.com/album/1vSMWmXBpkMKtChnIwdSFz"
+      },
+      "artists": [
+        {
+          "name": "outro lado",
+          "url": "https://open.spotify.com/artist/3QmFq43WZx7c0kgBHLgVX6"
+        },
+        {
+          "name": "MANDNAH",
+          "url": "https://open.spotify.com/artist/6oZoZ2QIjUl8JnEOTre31a"
+        },
+        {
+          "name": "Mylena Drague",
+          "url": "https://open.spotify.com/artist/1ODMXHrfQ2k5trZl4HqM4d"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "MUNDO INVERTIDO",
+      "url": "https://open.spotify.com/track/0PiKL2Db7LVyKkrGgMgNmt"
+    },
+    {
+      "album": {
         "name": "Mundo Moda",
         "url": "https://open.spotify.com/album/5ZdpI1JQi24J5n1DGbC0OM"
       },
@@ -21032,7 +21256,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 279757,
       "name": "Na minha \u00e1rea \u00e9 normal",
       "url": "https://open.spotify.com/track/0bX5bK3yRLItijh3Emj7AC"
@@ -21084,7 +21308,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 205714,
       "name": "Na Vanguarda de Mim Mesmo",
       "url": "https://open.spotify.com/track/78aeiSApCeBtme4BQ2OoaX"
@@ -22378,7 +22602,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 327717,
       "name": "Nova Ordem",
       "url": "https://open.spotify.com/track/3zqp4TxerDOx1QfwPnsGSF"
@@ -28284,7 +28508,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 146526,
       "name": "Psicol\u00f3gico 2",
       "url": "https://open.spotify.com/track/10eqeLbxPhrFfPiAT1CYsQ"
@@ -28638,7 +28862,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 148000,
       "name": "QUEBREI SUA CASA",
       "url": "https://open.spotify.com/track/4QMvXgG3Ae5aycBwhKm2q8"
@@ -34408,7 +34632,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 201976,
       "name": "Tempos de Guerra",
       "url": "https://open.spotify.com/track/34Z12vfTvFAa9YenEZBRmw"

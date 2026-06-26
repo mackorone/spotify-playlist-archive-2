@@ -1,148 +1,132 @@
 {
-  "description": "A new world of alternative electronic music. Cover: Surusinghe",
-  "num_followers": 129542,
+  "description": "A new world of alternative electronic music. Cover: HAAi",
+  "num_followers": 129531,
   "original_name": "Portal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOtZZ9mbCPihj03JI6z2Dh1Xm9IN",
+  "snapshot_id": "AAAAAHe2RgCpvFFvMUHmysVEwRW5FXO7",
   "tracks": [
     {
-      "added_at": "2026-05-21 14:00:31",
+      "added_at": "2026-06-25 14:00:47",
       "album": {
-        "name": "Rubbing",
-        "url": "https://open.spotify.com/album/4vZ3vbhSoEf4dtQpcX3yf7"
+        "name": "DIGITiSE",
+        "url": "https://open.spotify.com/album/3wgramFhznwdYSxucYuTQw"
       },
       "artists": [
         {
-          "name": "Surusinghe",
-          "url": "https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe"
-        }
-      ],
-      "duration_ms": 335665,
-      "name": "Rubbing",
-      "url": "https://open.spotify.com/track/4miQKb9E3kVOFwHXcqfDxv"
-    },
-    {
-      "added_at": "2026-05-06 00:22:41",
-      "album": {
-        "name": "Waaalk",
-        "url": "https://open.spotify.com/album/2jDwGQw9Xi02RkNuTquVuV"
-      },
-      "artists": [
-        {
-          "name": "Kuzco",
-          "url": "https://open.spotify.com/artist/41gAwOVRxPXax5jUQ3Ub6Q"
-        }
-      ],
-      "duration_ms": 323440,
-      "name": "Waaalk",
-      "url": "https://open.spotify.com/track/5ZzxwSEbO6BSyJtOtdAs7w"
-    },
-    {
-      "added_at": "2026-05-06 00:22:41",
-      "album": {
-        "name": "Baladna (Our Country)",
-        "url": "https://open.spotify.com/album/1lGOOtluFot7UtvTRW9LYb"
-      },
-      "artists": [
-        {
-          "name": "Human Movement",
-          "url": "https://open.spotify.com/artist/37dubgexq6dhyB4eCM3PHZ"
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
         },
         {
-          "name": "Run. Prowler",
-          "url": "https://open.spotify.com/artist/3C40mPMhajzib5LRzo4fIr"
+          "name": "Pat Alvarez",
+          "url": "https://open.spotify.com/artist/44rUL8RUXtDCmb8Mtjy5kp"
         }
       ],
-      "duration_ms": 228021,
-      "name": "Baladna (Our Country)",
-      "url": "https://open.spotify.com/track/647TvHAy31UijvOAYXg6Yh"
+      "duration_ms": 246857,
+      "name": "DIGITiSE",
+      "url": "https://open.spotify.com/track/3BGWPMnHswMQh1OBXZ8qaf"
     },
     {
-      "added_at": "2026-05-21 14:00:31",
+      "added_at": "2026-06-25 14:00:47",
       "album": {
-        "name": "Doin' It All 4U EP",
-        "url": "https://open.spotify.com/album/3rXNiNFNqEe2gL0rpvReVS"
+        "name": "Break Cycle",
+        "url": "https://open.spotify.com/album/0W1Abygr7OuvZdAY3Pm2wV"
       },
       "artists": [
         {
-          "name": "Declan McDermott",
-          "url": "https://open.spotify.com/artist/53aq3G5al39txgYlmDQ3PC"
+          "name": "Kassian",
+          "url": "https://open.spotify.com/artist/4w6VhlUuzrUoJ5NbCpefXx"
+        }
+      ],
+      "duration_ms": 311000,
+      "name": "Break Cycle",
+      "url": "https://open.spotify.com/track/01gSUZsQsAOvz5MazeYesw"
+    },
+    {
+      "added_at": "2026-06-25 14:00:47",
+      "album": {
+        "name": "23 Seconds",
+        "url": "https://open.spotify.com/album/2MMcwowj39fvb0QvqmOCwg"
+      },
+      "artists": [
+        {
+          "name": "Cobblestone Jazz",
+          "url": "https://open.spotify.com/artist/2dT7QUNxVkOLhlNO7mF5b3"
+        }
+      ],
+      "duration_ms": 506552,
+      "name": "W",
+      "url": "https://open.spotify.com/track/5qa6lvwEGEzb4dyFswODX9"
+    },
+    {
+      "added_at": "2026-06-25 14:00:47",
+      "album": {
+        "name": "Razor",
+        "url": "https://open.spotify.com/album/2XzsEKrM6OIe3gRz11GGsz"
+      },
+      "artists": [
+        {
+          "name": "Eden Burns",
+          "url": "https://open.spotify.com/artist/6lItMkb0pYOU1DvFUWgYo2"
+        }
+      ],
+      "duration_ms": 400231,
+      "name": "Razor",
+      "url": "https://open.spotify.com/track/1b9DBkeVKlbFmxWsxA57px"
+    },
+    {
+      "added_at": "2026-06-25 14:00:47",
+      "album": {
+        "name": "Don't You Want My Love",
+        "url": "https://open.spotify.com/album/26sj4Z6eywTIWHNBmN5Sw0"
+      },
+      "artists": [
+        {
+          "name": "CC:DISCO!",
+          "url": "https://open.spotify.com/artist/37fxVoFAMzet5CiiDg7SL7"
         },
         {
-          "name": "lovetempo",
-          "url": "https://open.spotify.com/artist/0OypB7arfOmIwUP9C5z2GY"
+          "name": "Manuel Darquart",
+          "url": "https://open.spotify.com/artist/0mumYdYeqKkr99t3iDEHGS"
         }
       ],
-      "duration_ms": 390000,
-      "name": "Doin' It All 4 U - Lovetempo Remix",
-      "url": "https://open.spotify.com/track/5nA7GhofX2ljMqDe1eCjth"
+      "duration_ms": 341500,
+      "name": "Don't You Want My Love",
+      "url": "https://open.spotify.com/track/6WeFRRqIox3cCwDRAQuLZ5"
     },
     {
-      "added_at": "2026-05-06 00:22:41",
+      "added_at": "2026-06-25 14:00:47",
       "album": {
-        "name": "Remember That Feeling",
-        "url": "https://open.spotify.com/album/6JYt3VwmbRL9zA8ooRUkkK"
+        "name": "15 Years of Butter Sessions - Disc One",
+        "url": "https://open.spotify.com/album/5ZWuvwjTsQZaFrwpBx6vOt"
       },
       "artists": [
         {
-          "name": "Frits Wentink",
-          "url": "https://open.spotify.com/artist/6RU8a6xLRtKJckACb5wf5D"
+          "name": "Fader Cap",
+          "url": "https://open.spotify.com/artist/2j2rkTK1Mg7vu3yBAcu5a6"
         }
       ],
-      "duration_ms": 372470,
-      "name": "Move Steady",
-      "url": "https://open.spotify.com/track/44jabD6Z3WdKMh6t17NwH5"
+      "duration_ms": 314000,
+      "name": "86 Chambers",
+      "url": "https://open.spotify.com/track/4DhIvRiqbC8biSAt2nfw0G"
     },
     {
-      "added_at": "2026-05-21 14:00:31",
+      "added_at": "2026-06-25 14:00:47",
       "album": {
-        "name": "Lost City Archives, Vol. 1",
-        "url": "https://open.spotify.com/album/18J5jKLGuupdUgIaBDCCJj"
+        "name": "Wrong",
+        "url": "https://open.spotify.com/album/7A7X59YwsaNXrDj1sq6u3E"
       },
       "artists": [
         {
-          "name": "Ash Brown (UK)",
-          "url": "https://open.spotify.com/artist/4S4i4UF1AlCWQjSwiSzw6p"
+          "name": "moktar",
+          "url": "https://open.spotify.com/artist/6jMORNptwLDBn8ujqRLbxa"
         }
       ],
-      "duration_ms": 253975,
-      "name": "Funk Lovin' Criminal",
-      "url": "https://open.spotify.com/track/7gBP3ceeVb0smR7XSiVi4A"
-    },
-    {
-      "added_at": "2026-05-06 00:22:41",
-      "album": {
-        "name": "Ordinary Badman",
-        "url": "https://open.spotify.com/album/0G9GXFwO58VA6N5zuShJ90"
-      },
-      "artists": [
-        {
-          "name": "Hugh B",
-          "url": "https://open.spotify.com/artist/0ccbE6uaLu9K9U1QTNvjzn"
-        }
-      ],
-      "duration_ms": 282632,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/75KuWJNM0WaXnDlLBprBJV"
-    },
-    {
-      "added_at": "2026-05-06 00:22:41",
-      "album": {
-        "name": "Safe In My Arms / YourLove",
-        "url": "https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        }
-      ],
-      "duration_ms": 172129,
-      "name": "YourLove",
-      "url": "https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41"
+      "duration_ms": 269000,
+      "name": "Wrong",
+      "url": "https://open.spotify.com/track/735lM18iNkmBwXHmUpktPx"
     },
     {
       "added_at": "2026-05-06 00:22:41",
@@ -671,18 +655,18 @@
     {
       "added_at": "2026-05-06 00:22:41",
       "album": {
-        "name": "All Night Long",
-        "url": "https://open.spotify.com/album/3yhDHafqAFeWjbtpzP2Tfl"
+        "name": "Where You Need To Be",
+        "url": "https://open.spotify.com/album/5zuAaJ9wg60dc7UOVHVgRz"
       },
       "artists": [
         {
-          "name": "LNRT",
-          "url": "https://open.spotify.com/artist/3K6wMz8wZO3G0ffTAQeqgC"
+          "name": "Skin On Skin",
+          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
         }
       ],
-      "duration_ms": 179076,
-      "name": "All Night Long",
-      "url": "https://open.spotify.com/track/01PhbKK2jcCO8YCjTgIXhT"
+      "duration_ms": 253478,
+      "name": "Where You Need To Be",
+      "url": "https://open.spotify.com/track/5wAxcO9N89pLKRo68vMqJL"
     },
     {
       "added_at": "2026-06-11 14:00:37",
@@ -707,18 +691,18 @@
     {
       "added_at": "2026-05-06 00:22:41",
       "album": {
-        "name": "Where You Need To Be",
-        "url": "https://open.spotify.com/album/5zuAaJ9wg60dc7UOVHVgRz"
+        "name": "All Night Long",
+        "url": "https://open.spotify.com/album/3yhDHafqAFeWjbtpzP2Tfl"
       },
       "artists": [
         {
-          "name": "Skin On Skin",
-          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
+          "name": "LNRT",
+          "url": "https://open.spotify.com/artist/3K6wMz8wZO3G0ffTAQeqgC"
         }
       ],
-      "duration_ms": 253478,
-      "name": "Where You Need To Be",
-      "url": "https://open.spotify.com/track/5wAxcO9N89pLKRo68vMqJL"
+      "duration_ms": 179076,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/01PhbKK2jcCO8YCjTgIXhT"
     },
     {
       "added_at": "2026-05-06 00:22:41",
@@ -743,26 +727,6 @@
     {
       "added_at": "2026-05-06 00:22:41",
       "album": {
-        "name": "The Heads That Know",
-        "url": "https://open.spotify.com/album/5nCHAjDBoIwmtf8dKOvdB7"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        },
-        {
-          "name": "Comma Dee",
-          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
-        }
-      ],
-      "duration_ms": 423244,
-      "name": "The Heads That Know (feat. Comma Dee)",
-      "url": "https://open.spotify.com/track/5TH2FmWFED58bejTlKQXVi"
-    },
-    {
-      "added_at": "2026-05-06 00:22:41",
-      "album": {
         "name": "Night Moves",
         "url": "https://open.spotify.com/album/6jsl3oV9zfqb7l7rpbQDki"
       },
@@ -781,6 +745,26 @@
       "url": "https://open.spotify.com/track/3txXtinyEJNYIifRyLK3z2"
     },
     {
+      "added_at": "2026-05-06 00:22:41",
+      "album": {
+        "name": "The Heads That Know",
+        "url": "https://open.spotify.com/album/5nCHAjDBoIwmtf8dKOvdB7"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        {
+          "name": "Comma Dee",
+          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
+        }
+      ],
+      "duration_ms": 423244,
+      "name": "The Heads That Know (feat. Comma Dee)",
+      "url": "https://open.spotify.com/track/5TH2FmWFED58bejTlKQXVi"
+    },
+    {
       "added_at": "2026-05-21 14:00:31",
       "album": {
         "name": "Spiralen",
@@ -795,26 +779,6 @@
       "duration_ms": 437809,
       "name": "Spiralen",
       "url": "https://open.spotify.com/track/03ra0kWWPT8fW3sy6onMfc"
-    },
-    {
-      "added_at": "2026-05-06 00:22:41",
-      "album": {
-        "name": "Maia Maia",
-        "url": "https://open.spotify.com/album/4NmtnN6kK5IMgxzUILmZiu"
-      },
-      "artists": [
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        },
-        {
-          "name": "CLIPZ",
-          "url": "https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE"
-        }
-      ],
-      "duration_ms": 181498,
-      "name": "Maia Maia",
-      "url": "https://open.spotify.com/track/2DCAWhnusZQoxC7BffLjGY"
     },
     {
       "added_at": "2026-05-06 00:22:41",
@@ -839,6 +803,26 @@
       "duration_ms": 229107,
       "name": "Back to Basics (feat. Skepta) (Floating Points Remix)",
       "url": "https://open.spotify.com/track/7JvuiP16UTKCnieS9E2Bg3"
+    },
+    {
+      "added_at": "2026-05-06 00:22:41",
+      "album": {
+        "name": "Maia Maia",
+        "url": "https://open.spotify.com/album/4NmtnN6kK5IMgxzUILmZiu"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        },
+        {
+          "name": "CLIPZ",
+          "url": "https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE"
+        }
+      ],
+      "duration_ms": 181498,
+      "name": "Maia Maia",
+      "url": "https://open.spotify.com/track/2DCAWhnusZQoxC7BffLjGY"
     },
     {
       "added_at": "2026-05-06 00:22:41",
@@ -875,6 +859,22 @@
       "duration_ms": 238571,
       "name": "Mad",
       "url": "https://open.spotify.com/track/4i2PhAH8B2dOtPsRY5EluD"
+    },
+    {
+      "added_at": "2026-05-06 00:22:41",
+      "album": {
+        "name": "Safe In My Arms / YourLove",
+        "url": "https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        }
+      ],
+      "duration_ms": 172129,
+      "name": "YourLove",
+      "url": "https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41"
     },
     {
       "added_at": "2026-05-06 00:22:41",

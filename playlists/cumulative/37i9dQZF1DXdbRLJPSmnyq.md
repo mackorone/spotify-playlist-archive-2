@@ -4,7 +4,7 @@
 
 > All the J\-Pop tunes you love in one playlist\. Cover: Vaundy
 
-497 songs - 1 day 6 hr 53 min
+500 songs - 1 day 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [イノセントブルー](https://open.spotify.com/track/5vy2GU5ypxi4DTt8ImfDAP) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [イノセントブルー](https://open.spotify.com/album/1kWmrfi2SEltqcsJ200N44) | 3:23 | 2025-09-26 | 2025-10-03 |
 | [エゴ](https://open.spotify.com/track/40kJCdBL13f2chrKdn8oXP) | [RETRORIRON](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [エゴ](https://open.spotify.com/album/4vc1Ncw9rr38JhtzAKUrkc) | 4:06 | 2026-04-09 |  |
 | [オトノケ \- Otonoke](https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [オトノケ \- Otonoke](https://open.spotify.com/album/7zI1wDJmkfHMBwZpbwJn8H) | 3:05 | 2024-10-10 | 2025-02-02 |
+| [オリオン](https://open.spotify.com/track/6VpeCZDyuFJD3HW5bwEc8Z) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK for,](https://open.spotify.com/album/6wBkzKouHawAr9e7lLxZLA) | 3:26 | 2026-06-25 |  |
 | [オレンジ](https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [オレンジ](https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3) | 3:55 | 2024-03-08 | 2025-05-31 |
 | [カメレオン](https://open.spotify.com/track/0J0P8iSE6l3pYHbUdNFYdS) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [カメレオン](https://open.spotify.com/album/2dZ3LDlFGj0D4dvb1iDx7z) | 3:13 | 2023-06-19 | 2024-07-06 |
 | [カーテンコール](https://open.spotify.com/track/1nysdCpKAh6yif4JkmoiNy) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [カーテンコール](https://open.spotify.com/album/11GFYcT1N05hLyrWABo9BK) | 4:03 | 2024-08-08 | 2024-12-14 |
@@ -466,8 +467,10 @@
 | [水平線](https://open.spotify.com/track/3RvdkNMcSy71m0aT6UF9Uf) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ユーモア](https://open.spotify.com/album/4Owee1i5rIFJvQczZXSdiQ) | 4:48 | 2023-06-19 | 2024-12-14 |
 | [火種](https://open.spotify.com/track/3WaAa5Fc3LgN7QRn5oVomX) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [火種](https://open.spotify.com/album/1usOiy15DL5VbcguyZmrX5) | 3:24 | 2026-04-09 |  |
 | [灯を護る](https://open.spotify.com/track/0tu73VStd4PNxbF37Y6YSD) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [灯を護る](https://open.spotify.com/album/5kh25KxBQdiqOPOr05rxM3) | 3:33 | 2025-10-09 |  |
+| [烏 \- Raven](https://open.spotify.com/track/5Ij88F5dK7yib1RoNA8wGV) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [烏 \- Raven](https://open.spotify.com/album/77lHr1rXYAkLjOVkcSXLGH) | 4:08 | 2026-06-25 |  |
 | [煉獄と猗窩座の戦い](https://open.spotify.com/track/19XwEQeVwyeXrNsaETN0bx) | [椎名豪](https://open.spotify.com/artist/5SwtzFnHzuWGai6tPOHBeH) | [「鬼滅の刃」無限列車編 オリジナルサウンドトラック](https://open.spotify.com/album/319uh4R4DZ2oEIEaGSFyAF) | 3:19 | 2025-08-28 | 2025-09-06 |
 | [燈](https://open.spotify.com/track/7jtXjZ3JViUo9M3ogYAapO) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [i 触れる SAD UFO](https://open.spotify.com/album/39l5XqHOxUnSvkyToqhtIt) | 3:59 | 2023-08-27 | 2025-03-10 |
+| [琥珀の遠景](https://open.spotify.com/track/5dAfLTQ2lONTkJAxy5vAZE) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [花落知多少](https://open.spotify.com/album/2s6QTNtUwHVVgzpo5vCEay) | 6:52 | 2026-06-25 |  |
 | [百花繚乱](https://open.spotify.com/track/79zgdvnTPyWSuTrd48Ik5O) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [百花繚乱](https://open.spotify.com/album/3LDV2xGL9HiqCsQujEPQLb) | 2:59 | 2025-02-01 |  |
 | [真夏のトワイライト](https://open.spotify.com/track/6Y5hTkQSznh1wFDw2p3SDW) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx), [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [真夏のトワイライト](https://open.spotify.com/album/2I35grEfCPhILtpBhZAHfn) | 4:38 | 2025-09-12 | 2025-10-03 |
 | [祝祭のうた](https://open.spotify.com/track/6fkPFcktjMGeGhQDKF8ABE) | [Maya](https://open.spotify.com/artist/3hYoE1ytUckiWOUW0HHgm4), [松田歩（離婚伝説）](https://open.spotify.com/artist/2MabopxipxElTyWLGbwQkG) | [Scarlet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/33wEN4Nt3ANVVNFaVSrXpd) | 4:20 | 2025-11-21 | 2026-01-30 |

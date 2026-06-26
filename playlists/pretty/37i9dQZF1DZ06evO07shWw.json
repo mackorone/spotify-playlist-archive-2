@@ -1,12 +1,12 @@
 {
   "description": "This is Ingrid Andress. The essential tracks, all in one playlist.",
-  "num_followers": 9261,
+  "num_followers": 9264,
   "original_name": "This Is Ingrid Andress",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajnMgAAAAADAOH/Y4y6TAK3uofmphXUY",
+  "snapshot_id": "ajseAAAAAAAnTCw3kkGpGhYxcwlzHCF0",
   "tracks": [
     {
       "added_at": null,
@@ -83,8 +83,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Catch 22",
-        "url": "https://open.spotify.com/album/1BpLEq3RV91FPE7TQd9WDv"
+        "name": "Tattoos",
+        "url": "https://open.spotify.com/album/0ooC997k9ey9EMOIBCfLyt"
       },
       "artists": [
         {
@@ -92,9 +92,9 @@
           "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
         }
       ],
-      "duration_ms": 197564,
-      "name": "Catch 22",
-      "url": "https://open.spotify.com/track/6PwQarviIfpD5dqUeGnf01"
+      "duration_ms": 198813,
+      "name": "Tattoos",
+      "url": "https://open.spotify.com/track/4kgygJE5PCRORk4iBYChSY"
     },
     {
       "added_at": null,
@@ -131,8 +131,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tattoos",
-        "url": "https://open.spotify.com/album/0ooC997k9ey9EMOIBCfLyt"
+        "name": "Catch 22",
+        "url": "https://open.spotify.com/album/1BpLEq3RV91FPE7TQd9WDv"
       },
       "artists": [
         {
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
         }
       ],
-      "duration_ms": 198813,
-      "name": "Tattoos",
-      "url": "https://open.spotify.com/track/4kgygJE5PCRORk4iBYChSY"
+      "duration_ms": 197564,
+      "name": "Catch 22",
+      "url": "https://open.spotify.com/track/6PwQarviIfpD5dqUeGnf01"
     },
     {
       "added_at": null,

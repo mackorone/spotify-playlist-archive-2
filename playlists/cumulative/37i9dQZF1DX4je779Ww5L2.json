@@ -1615,6 +1615,24 @@
     },
     {
       "album": {
+        "name": "Room Of Love",
+        "url": "https://open.spotify.com/album/1s2dk5WxnGWHDvyUpjAWRD"
+      },
+      "artists": [
+        {
+          "name": "Thomas Azier",
+          "url": "https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299559,
+      "name": "Room Of Love",
+      "url": "https://open.spotify.com/track/0z7GpjiF54m9GIGYQKr88G"
+    },
+    {
+      "album": {
         "name": "Rush Hour Traffic",
         "url": "https://open.spotify.com/album/5ADcIb3FaxCChD4dhjbg1y"
       },

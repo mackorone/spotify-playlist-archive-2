@@ -204,7 +204,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 189053,
       "name": "Dear Darkness",
       "url": "https://open.spotify.com/track/3khsLfdlKOy9uZ754psc9G"
@@ -360,7 +360,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 112946,
       "name": "I Inside the Old Year Dying",
       "url": "https://open.spotify.com/track/1bk0pE5DN0lfTx8pI9WerX"
@@ -674,7 +674,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 151706,
       "name": "Shame",
       "url": "https://open.spotify.com/track/3xUQfzyrHerNnSt3eUsprb"
@@ -992,6 +992,24 @@
       "duration_ms": 331600,
       "name": "To Bring You My Love",
       "url": "https://open.spotify.com/track/537IPiZTZ1GVcohzFHAHf5"
+    },
+    {
+      "album": {
+        "name": "Voyager",
+        "url": "https://open.spotify.com/album/0aP1rf4Xix1A4oG6q2SfWy"
+      },
+      "artists": [
+        {
+          "name": "PJ Harvey",
+          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247166,
+      "name": "Voyager",
+      "url": "https://open.spotify.com/track/4YZ7rGwFbbbOTJZECr4T8W"
     },
     {
       "album": {

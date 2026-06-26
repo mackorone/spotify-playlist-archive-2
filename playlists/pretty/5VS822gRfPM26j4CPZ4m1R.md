@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 
 > Playlist
 
-[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 18,067 likes - 648 songs - 1 day 14 hr 28 min
+[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 18,073 likes - 647 songs - 1 day 14 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -655,6 +655,5 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 | 645 | [Criaturas da Noite](https://open.spotify.com/track/52QOOeICT7uUg3EaET0Xr0) | [Pedro Mizutani](https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R), [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Criaturas da Noite](https://open.spotify.com/album/6AxgdZrrtWJjYxRePiprqr) | 1:46 |
 | 646 | [Bye Dummy](https://open.spotify.com/track/13xRpimF9gtVsB5GM8Gyjz) | [Hector Gachan](https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM) | [Bye Dummy](https://open.spotify.com/album/0BPaiZ5xFY692UPO6Hfw10) | 2:49 |
 | 647 | [Swallows](https://open.spotify.com/track/0WLnrsmhALslw59evSN1uB) | [BROTHER SUN SISTER MOON](https://open.spotify.com/artist/4jYamjqQ1wmOLS41qNiZ0i) | [Swallows](https://open.spotify.com/album/3dXc2gUqgr28Y5kZ93SYzI) | 2:57 |
-| 648 | [Swallows](https://open.spotify.com/track/0WLnrsmhALslw59evSN1uB) | [BROTHER SUN SISTER MOON](https://open.spotify.com/artist/4jYamjqQ1wmOLS41qNiZ0i) | [Swallows](https://open.spotify.com/album/3dXc2gUqgr28Y5kZ93SYzI) | 2:57 |
 
-Snapshot ID: `AAAMghCfSOM09HC5kZQSAr9UkGbNRzW0`
+Snapshot ID: `AAAMg+tmoB35EkuUFgcGhhgiJXXKpfUx`

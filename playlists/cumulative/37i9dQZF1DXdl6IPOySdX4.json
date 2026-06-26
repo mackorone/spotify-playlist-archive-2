@@ -3658,7 +3658,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 167500,
       "name": "fuck, i\u2019m yours?",
       "url": "https://open.spotify.com/track/1qsncTDPTkXKYIiNpi3WdJ"
@@ -4472,7 +4472,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 197333,
       "name": "Hotel",
       "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
@@ -5586,6 +5586,24 @@
       "duration_ms": 151048,
       "name": "lemon sorbet",
       "url": "https://open.spotify.com/track/0N0vTOwTQLo6edqB1TF2XS"
+    },
+    {
+      "album": {
+        "name": "ICARUS: Too Close To The Sun",
+        "url": "https://open.spotify.com/album/4jqvCybQhi7XcMJYtYCWgD"
+      },
+      "artists": [
+        {
+          "name": "Jared Benjamin",
+          "url": "https://open.spotify.com/artist/0pu0ZEMZtgePMOE6m19Cne"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119267,
+      "name": "LET ME IN",
+      "url": "https://open.spotify.com/track/0FJKAzOCba9AX4cVfAudd1"
     },
     {
       "album": {
@@ -6996,6 +7014,24 @@
       "duration_ms": 302346,
       "name": "Novacane",
       "url": "https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53"
+    },
+    {
+      "album": {
+        "name": "NSFW",
+        "url": "https://open.spotify.com/album/1DxNF6nz0EbEtPYIpHnJm3"
+      },
+      "artists": [
+        {
+          "name": "Haiden Henderson",
+          "url": "https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165020,
+      "name": "NSFW",
+      "url": "https://open.spotify.com/track/5PkQJUjEmdoGdpYTbCv1QC"
     },
     {
       "album": {

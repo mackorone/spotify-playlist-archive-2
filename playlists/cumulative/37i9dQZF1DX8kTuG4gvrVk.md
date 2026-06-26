@@ -2,7 +2,7 @@
 
 ### [Éxitos Venezuela](https://open.spotify.com/playlist/37i9dQZF1DX8kTuG4gvrVk)
 
-> ¡Los éxitos de hoy en un sólo lugar! En portada: Omar Courtz
+> Todos los éxitos de Venezuela están aquí.
 
 338 songs - 18 hr 14 min
 

@@ -2,7 +2,7 @@
 
 ### [Flow Venezuela](https://open.spotify.com/playlist/37i9dQZF1DWTtgIvO0zxTI)
 
-> Aquí está el sonido urbano de Venezuela\. Cover: La Cruz
+> Aquí está el sonido urbano de Venezuela.
 
 173 songs - 9 hr 13 min
 

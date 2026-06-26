@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest Afrobeats, Afropop and Afro-Caribbean hits, all in one place. Cover: R2",
+  "description": "The hottest Afrobeats, Afropop and Afro-Caribbean hits, all in one place. Cover: Tayc",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -1998,6 +1998,24 @@
       "duration_ms": 176795,
       "name": "BB",
       "url": "https://open.spotify.com/track/2B4kKmVsTB2YvTcuU8HpZL"
+    },
+    {
+      "album": {
+        "name": "Be my Valentine ? / MR. DJ",
+        "url": "https://open.spotify.com/album/6QjQrPLjMDI2TMFc5ykWnT"
+      },
+      "artists": [
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179551,
+      "name": "Be my Valentine ?",
+      "url": "https://open.spotify.com/track/37L3bmbVtltbI1ANN7dVWF"
     },
     {
       "album": {
@@ -8778,7 +8796,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 177049,
       "name": "jaloux f\u00e2ch\u00e9",
       "url": "https://open.spotify.com/track/7mUdlJ8dHqHijoZEn6jQ1n"
@@ -12732,7 +12750,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 146626,
       "name": "No Stress",
       "url": "https://open.spotify.com/track/5ihk7LYUhUcGVVvUAqViTt"
@@ -15585,6 +15603,28 @@
     },
     {
       "album": {
+        "name": "R\u00e9anym\u00e9",
+        "url": "https://open.spotify.com/album/1ZtLBn35lK7Vm2nYmE9NBo"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        },
+        {
+          "name": "Anyme023",
+          "url": "https://open.spotify.com/artist/2XoNHBh5o3I1Niqsr5uA3P"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151874,
+      "name": "R\u00e9anym\u00e9",
+      "url": "https://open.spotify.com/track/5EOVtfClo1Mhx0gSaZJC92"
+    },
+    {
+      "album": {
         "name": "Sability",
         "url": "https://open.spotify.com/album/3ACRYhith1SxOT6teukBvy"
       },
@@ -15698,6 +15738,28 @@
       "duration_ms": 160530,
       "name": "Sans effet",
       "url": "https://open.spotify.com/track/53jQtMml7GWHfpQWsR96jy"
+    },
+    {
+      "album": {
+        "name": "Sans forcer",
+        "url": "https://open.spotify.com/album/2uzUkkEQlVGr8YKoF5DbCO"
+      },
+      "artists": [
+        {
+          "name": "Bol\u00e9mvn",
+          "url": "https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7"
+        },
+        {
+          "name": "kulturr",
+          "url": "https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130332,
+      "name": "Sans forcer",
+      "url": "https://open.spotify.com/track/40nokckxYaKXowzuNsVuZp"
     },
     {
       "album": {
@@ -16923,6 +16985,28 @@
     },
     {
       "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/7emsHcOFipTp3Fc22l8o62"
+      },
+      "artists": [
+        {
+          "name": "Vegedream",
+          "url": "https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd"
+        },
+        {
+          "name": "Meryl",
+          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178513,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/3HtmeE9GWYZaOLnxrDt29s"
+    },
+    {
+      "album": {
         "name": "Back 2 Basics",
         "url": "https://open.spotify.com/album/35NrBizEFZV3nxcccD42XB"
       },
@@ -17302,7 +17386,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 155476,
       "name": "Tellement",
       "url": "https://open.spotify.com/track/07x8McckfT6GnTn2V1L3Ew"
@@ -17338,7 +17422,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 179948,
       "name": "Tentation",
       "url": "https://open.spotify.com/track/18M04FaA1qU3GYrynMMz2j"
@@ -17850,6 +17934,24 @@
       "duration_ms": 177203,
       "name": "Too Busy To Be Bae",
       "url": "https://open.spotify.com/track/2oXElJdmnDXKkeWNEYiK7A"
+    },
+    {
+      "album": {
+        "name": "Tornado",
+        "url": "https://open.spotify.com/album/2zQhdFu3XNlJe6hvZwKQ6U"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174823,
+      "name": "Tornado",
+      "url": "https://open.spotify.com/track/5c2ns82nxF2pg59M5DkuSM"
     },
     {
       "album": {
@@ -19196,7 +19298,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 172912,
       "name": "Who\u2019s Dat Girl",
       "url": "https://open.spotify.com/track/6XaN4trfoMvRFEy8HoB4nC"

@@ -1,6 +1,6 @@
 {
   "description": "lost in a haze",
-  "num_followers": 177303,
+  "num_followers": 177490,
   "original_name": "dazed",
   "owner": {
     "name": "Spotify",
@@ -875,6 +875,22 @@
     {
       "added_at": "2025-11-13 16:46:16",
       "album": {
+        "name": "Maybe in Nirvana",
+        "url": "https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv"
+      },
+      "artists": [
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        }
+      ],
+      "duration_ms": 182052,
+      "name": "Dear Fren",
+      "url": "https://open.spotify.com/track/5a8XfB6605lKdiHw2CBuHC"
+    },
+    {
+      "added_at": "2025-11-13 16:46:16",
+      "album": {
         "name": "Over & Done",
         "url": "https://open.spotify.com/album/3xuOAlopCvFZtJanfT0ab3"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 202597,
       "name": "Over & Done",
       "url": "https://open.spotify.com/track/0fjO41F0zhpJaLp7GEvMON"
-    },
-    {
-      "added_at": "2025-11-13 16:46:16",
-      "album": {
-        "name": "Maybe in Nirvana",
-        "url": "https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv"
-      },
-      "artists": [
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        }
-      ],
-      "duration_ms": 182052,
-      "name": "Dear Fren",
-      "url": "https://open.spotify.com/track/5a8XfB6605lKdiHw2CBuHC"
     },
     {
       "added_at": "2025-11-13 16:46:16",

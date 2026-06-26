@@ -1,13 +1,33 @@
 {
   "description": "A new take on a classic sound. Cover: Dabeull",
-  "num_followers": 159670,
+  "num_followers": 159761,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALag3R1poULBArqYc4UiZuPwwJ0T",
+  "snapshot_id": "AAAAALGCxxbQb119AxfohalRbyK/Ucs9",
   "tracks": [
+    {
+      "added_at": "2026-06-26 04:01:32",
+      "album": {
+        "name": "UNSECRET DISCO",
+        "url": "https://open.spotify.com/album/0Sl36dfBXVEBZly2r7KQSA"
+      },
+      "artists": [
+        {
+          "name": "UNSECRET",
+          "url": "https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c"
+        },
+        {
+          "name": "WILSN",
+          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
+        }
+      ],
+      "duration_ms": 186760,
+      "name": "Can't Stop My Feet",
+      "url": "https://open.spotify.com/track/15htPZCKA42k5A6rPKXaHR"
+    },
     {
       "added_at": "2026-06-19 04:01:01",
       "album": {
@@ -1835,22 +1855,6 @@
       "duration_ms": 326400,
       "name": "Disco Save My Life",
       "url": "https://open.spotify.com/track/0Rh5XomjOtIYabPhtZ1TyV"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "HOT",
-        "url": "https://open.spotify.com/album/1KmisFnVTIct9oBmATe41I"
-      },
-      "artists": [
-        {
-          "name": "La Felix",
-          "url": "https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj"
-        }
-      ],
-      "duration_ms": 218110,
-      "name": "HOT",
-      "url": "https://open.spotify.com/track/1UVRdZRAiW3GomKSg81PLE"
     },
     {
       "added_at": "2023-05-12 04:00:00",

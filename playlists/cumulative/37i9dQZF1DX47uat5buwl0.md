@@ -4,7 +4,7 @@
 
 > Banger na banger\. Cover: Antoon 🔥
 
-191 songs - 8 hr 22 min
+193 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Dans Gewoon](https://open.spotify.com/track/3YrzQVu7wdv1d5MO2DvVdl) | [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ), [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Dans Gewoon](https://open.spotify.com/album/3PvUWA9XY1FQhKikmc5NK6) | 2:32 | 2025-12-26 |  |
 | [Dansen Met Een Engel](https://open.spotify.com/track/55bhfVPAdefPI7ZoJTVCTN) | [Muda](https://open.spotify.com/artist/7m6avB4kU97EWWo2W7vrIm) | [Dansen Met Een Engel](https://open.spotify.com/album/5mwYNIoM2DnIKQfKjZsqH7) | 2:36 | 2026-02-09 | 2026-04-03 |
 | [Dansvloer Dilemma](https://open.spotify.com/track/5hm19T0tQzMHTnC3lZA8PC) | [Roeland Beelen](https://open.spotify.com/artist/3AO2szj8eZ8MSTw0hghw3M) | [Dansvloer Dilemma](https://open.spotify.com/album/4NMMzxRCxS2ndNubwAznAF) | 2:08 | 2026-01-27 |  |
+| [Dansvloerjunkies](https://open.spotify.com/track/12vfSzaIb3fz94rdkJ33Jl) | [Otje8](https://open.spotify.com/artist/18fb2BDza1aOquqWrxdjuW) | [Dansvloerjunkies](https://open.spotify.com/album/1RUzNdy0Juu5k9f4KM9U04) | 2:22 | 2026-06-25 |  |
 | [De Enige](https://open.spotify.com/track/4WH5g5hyfQxgN94JGNOUZk) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [De Enige](https://open.spotify.com/album/23nN46ulvMESVJFJJovgSu) | 2:38 | 2026-05-28 |  |
 | [De Leeuw Komt Eraan](https://open.spotify.com/track/28GAHI5g37JbdtdwcTyfI7) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [De Leeuw Komt Eraan](https://open.spotify.com/album/2cYpryI2g6eu20whof2VI8) | 2:14 | 2026-06-17 |  |
 | [De Liefde](https://open.spotify.com/track/3MrCOZ0qldvkNiQTWG9GIt) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [De Liefde](https://open.spotify.com/album/61mnvmeJ8RTpN5bXDq6AXy) | 2:04 | 2025-10-01 | 2025-12-06 |
@@ -163,6 +164,7 @@
 | [Stiekem Gedanst](https://open.spotify.com/track/7hIR9M1Gz5COo3UQGfM0sy) | [Toontje Lager](https://open.spotify.com/artist/7isSKzkNHe3Tsmht2ar6Ai) | [Stiekem Dansen](https://open.spotify.com/album/5mAosSoggHR0G5mNXYo1Ci) | 3:34 | 2026-01-13 |  |
 | [Studie Uit](https://open.spotify.com/track/5sHjRyfeGNwu5f2GV0960x) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Studie Uit](https://open.spotify.com/album/4SwDKB3YuJ1qJyqYLsYiBe) | 2:41 | 2025-07-17 | 2025-12-12 |
 | [Sukkel](https://open.spotify.com/track/7zYGIaIvLBtrrEfJxTuAUS) | [Bix](https://open.spotify.com/artist/7KbMCOvCe7lYFcRzdd9BJn), [Alessio](https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj), [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk), [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa) | [Sukkel](https://open.spotify.com/album/1Fq0937kbvelxVOvwebiXA) | 2:35 | 2025-07-17 | 2025-08-05 |
+| [SUPERSTAR](https://open.spotify.com/track/0isizAo7CkD7DhZm3C1DaY) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [SUPERSTAR](https://open.spotify.com/album/0mKjLg4PFqhXdBMKCoGQm0) | 2:29 | 2026-06-25 |  |
 | [Take Me Up \(Gotta Get Up\) \- Lego Edit](https://open.spotify.com/track/1ovbcaNgLbOp71RbF4pvng) | [Ralphi Rosario](https://open.spotify.com/artist/0c5584rnmlOvkMpJtpBLTh), [Donna Blakely](https://open.spotify.com/artist/5l4zJlT301p3IPrAx94iqw), [lego](https://open.spotify.com/artist/3fyCFDyqAPJOuOMlLA4liJ) | [Take Me Up \(Gotta Get Up\)](https://open.spotify.com/album/45kSt9lcncbWs2HVUnG0qo) | 3:22 | 2026-01-27 |  |
 | [Talk To You \(ft\. 54 Ultra\)](https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Talk To You \(ft\. 54 Ultra\)](https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ) | 3:11 | 2026-03-09 |  |
 | [The Days \- NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8) | [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [The Days \(NOTION Remix\)](https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ) | 3:53 | 2025-07-17 | 2025-09-26 |

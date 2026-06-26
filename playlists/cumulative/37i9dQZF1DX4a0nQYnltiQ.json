@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "The #1 Destination for the best melodies in the world. Cover: Chxrry",
+  "description": "The #1 Destination for the best melodies in the world. Cover: Steve Lacy",
   "name": "Essence",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 169314,
       "name": "10%",
       "url": "https://open.spotify.com/track/7ehB2Wp1OpCNAraJZpBBXI"
@@ -1457,6 +1457,24 @@
     },
     {
       "album": {
+        "name": "LOVE AGAIN",
+        "url": "https://open.spotify.com/album/6ot9MVm7jHd0GbvmZ9JkZ7"
+      },
+      "artists": [
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "LOVE AGAIN",
+      "url": "https://open.spotify.com/track/2KFJ2oHxCvEEysGniYF4MK"
+    },
+    {
+      "album": {
         "name": "Love Letter",
         "url": "https://open.spotify.com/album/11koFUb2flCfP4dELQ388y"
       },
@@ -2404,7 +2422,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 181310,
       "name": "Sweet Serotonin",
       "url": "https://open.spotify.com/track/5pzCNVV0gcW92gF73DmhOa"

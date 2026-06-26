@@ -2,7 +2,7 @@
 
 ### [planet rave](https://open.spotify.com/playlist/37i9dQZF1DWW1XLSH8Oafp)
 
-> ur on the list bb 🪐 featuring jigitz
+> ur on the list bb 🪐 featuring Seah
 
 1,322 songs - 3 day 0 hr 4 min
 

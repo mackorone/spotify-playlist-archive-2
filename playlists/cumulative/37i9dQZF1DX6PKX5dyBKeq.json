@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Fredo",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: EsDeeKid",
   "name": "Rap UK",
   "tracks": [
     {
@@ -19594,7 +19594,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 146000,
       "name": "Hero",
       "url": "https://open.spotify.com/track/3q2LwSEKx9Tzt37FWAhcyC"
@@ -21834,7 +21834,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 123529,
       "name": "Iran",
       "url": "https://open.spotify.com/track/0ehz376JBCz8DxX7UB6ToQ"
@@ -24391,6 +24391,32 @@
     },
     {
       "album": {
+        "name": "levels",
+        "url": "https://open.spotify.com/album/1fI4KwMxN0uRh3yA3XvmZJ"
+      },
+      "artists": [
+        {
+          "name": "Pozzy",
+          "url": "https://open.spotify.com/artist/4QmxfpwoGK3BHPGCfZ3A5G"
+        },
+        {
+          "name": "Saiming",
+          "url": "https://open.spotify.com/artist/7iIrU7sHGT5yo0TOKIe6D9"
+        },
+        {
+          "name": "t.o",
+          "url": "https://open.spotify.com/artist/3VPVf2I5XVZGmTp5WHva68"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234866,
+      "name": "levels",
+      "url": "https://open.spotify.com/track/5WnAF1Vh2byZgn0KwOT5in"
+    },
+    {
+      "album": {
         "name": "A Gangster's Holiday",
         "url": "https://open.spotify.com/album/0nXqWdunKlI94USB0QSiUS"
       },
@@ -25756,7 +25782,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 142574,
       "name": "lullaby",
       "url": "https://open.spotify.com/track/0YSYriaJjtPeXQebvhTotZ"
@@ -28420,7 +28446,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 158770,
       "name": "More Than U Know",
       "url": "https://open.spotify.com/track/2ALJOResYdGVnp7LvYmE21"
@@ -32518,6 +32544,24 @@
       "duration_ms": 139354,
       "name": "Paper Planes",
       "url": "https://open.spotify.com/track/1CH8BQSYIiQvLJuEJ48pAc"
+    },
+    {
+      "album": {
+        "name": "Papercuts",
+        "url": "https://open.spotify.com/album/7urk8n6HffC74Erefhzmzx"
+      },
+      "artists": [
+        {
+          "name": "Joe James",
+          "url": "https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210413,
+      "name": "Papercuts",
+      "url": "https://open.spotify.com/track/0s1wIuuawNo3JdA6aZUnrF"
     },
     {
       "album": {
@@ -36666,6 +36710,24 @@
       "duration_ms": 317593,
       "name": "Rockstar Manners",
       "url": "https://open.spotify.com/track/5kpMBRlNBmjz7ZXHnlfvrB"
+    },
+    {
+      "album": {
+        "name": "RockWave",
+        "url": "https://open.spotify.com/album/5Rti1VEHljEEGaVwlSHM3j"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134265,
+      "name": "RockWave",
+      "url": "https://open.spotify.com/track/7umWv57SsTnh1P4FFTa8bg"
     },
     {
       "album": {
@@ -41591,6 +41653,28 @@
     },
     {
       "album": {
+        "name": "The Elephant In The Room",
+        "url": "https://open.spotify.com/album/14JQJ1oXfeoD03ffZfnqru"
+      },
+      "artists": [
+        {
+          "name": "Catch",
+          "url": "https://open.spotify.com/artist/1RfToIsj1AxotI31yAdJsT"
+        },
+        {
+          "name": "Young Adz",
+          "url": "https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211648,
+      "name": "Target",
+      "url": "https://open.spotify.com/track/12TuFEojfVYzPAt0cdyfad"
+    },
+    {
+      "album": {
         "name": "Tea Over Henny",
         "url": "https://open.spotify.com/album/0EQL1FlbCyFIhVMbKnXf7K"
       },
@@ -43024,7 +43108,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 151141,
       "name": "Time It Takes",
       "url": "https://open.spotify.com/track/7sQv9SUALl860ClpWjOKYy"
@@ -43686,6 +43770,24 @@
       "duration_ms": 194089,
       "name": "Toxic Trait",
       "url": "https://open.spotify.com/track/49NAdUsRKTFK3Lz8k0yQNy"
+    },
+    {
+      "album": {
+        "name": "Perseverance",
+        "url": "https://open.spotify.com/album/1riiEXbaZVllfRLvDktfxf"
+      },
+      "artists": [
+        {
+          "name": "Russ Millions",
+          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 6",
+      "url": "https://open.spotify.com/track/6zf80ZbDcjHGr85U1anoum"
     },
     {
       "album": {
@@ -47454,6 +47556,24 @@
       "duration_ms": 218028,
       "name": "Workmode",
       "url": "https://open.spotify.com/track/1UAE9QwUAga2WigZcQASsJ"
+    },
+    {
+      "album": {
+        "name": "worry",
+        "url": "https://open.spotify.com/album/3jzwGIMyA6yKDoExHbiaG8"
+      },
+      "artists": [
+        {
+          "name": "@WAR",
+          "url": "https://open.spotify.com/artist/31EqzztLNVAKfqgIQ3O5qU"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140275,
+      "name": "worry",
+      "url": "https://open.spotify.com/track/78WOOr6bbJDyJHkcrXte9z"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,205 songs - 3 day 16 hr 34 min
+1,206 songs - 3 day 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -543,7 +543,7 @@
 | [Jin Dou Yun](https://open.spotify.com/track/7vjL2ZTSGbh77iA2YnsvIx) | [Polygonia](https://open.spotify.com/artist/1bvMkEwyURFPl2eDGZieUm) | [Da Nao Tian Gong](https://open.spotify.com/album/2ypIUJpjOomXeyZndnEcG9) | 7:42 | 2024-02-16 | 2024-03-29 |
 | [Jupiter](https://open.spotify.com/track/17XWNxJmaPZbHjJ48aCmwm) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Jupiter](https://open.spotify.com/album/3GwfZuYLP7X8d0FBOZGyHt) | 4:05 | 2025-05-30 | 2025-08-15 |
 | [Just Saying](https://open.spotify.com/track/6wYROkv6ZrZJiS8utsY8P6) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Colour](https://open.spotify.com/album/0AVPusXNzK1jWwefBiPJ5I) | 1:23 | 2020-08-26 | 2021-03-06 |
-| [Just Sine Waves](https://open.spotify.com/track/7J8NbJZXIbR3JLOUk5BITV) | [Martin Roth](https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1) | [Mono No Aware](https://open.spotify.com/album/70hyp5k7zuvuI52UZvWBKx) | 2:46 | 2025-05-19 |  |
+| [Just Sine Waves](https://open.spotify.com/track/7J8NbJZXIbR3JLOUk5BITV) | [Martin Roth](https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1) | [Mono No Aware](https://open.spotify.com/album/70hyp5k7zuvuI52UZvWBKx) | 2:46 | 2025-05-19 | 2026-06-26 |
 | [Karl](https://open.spotify.com/track/6XmHQPPaoZIAy2N9ENvjRL) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Knife + Heart \(Official Soundtrack\)](https://open.spotify.com/album/0RUjgQppW67OIBTkRv8fdt) | 2:19 | 2019-06-19\* | 2020-10-22 |
 | [Karst \- Vegyn Remix](https://open.spotify.com/track/3NgBhFxrBA3eW4iED0BxFe) | [E.VAX](https://open.spotify.com/artist/12m4a5ljGoe6yyYPpVi7Hr), [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Karst \(Vegyn Remix\)](https://open.spotify.com/album/13OGZbqfqVXsSzxbiCfAnH) | 3:55 | 2022-03-11 | 2025-07-19 |
 | [Keep Shimmering](https://open.spotify.com/track/4M7bnpKyvmXMuoZe10hnki) | [Tom VR](https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5) | [Please Keep Shimmering](https://open.spotify.com/album/1gNXxhIfHLXttmjKSC1TDV) | 4:23 | 2021-10-01 | 2023-09-01 |
@@ -755,6 +755,7 @@
 | [Oxygen.absorber](https://open.spotify.com/track/4CjgdO19EpjeJrt7z6dfhU) | [Austin Haga](https://open.spotify.com/artist/1EW4egEHrOzzQQET1ncFFh) | [SPLIT EP](https://open.spotify.com/album/0HjmuPEwPDTRNZqpEYOypY) | 3:36 | 2019-07-25 | 2020-10-22 |
 | [Ozone Scraper](https://open.spotify.com/track/0Q9R4VjA7LedOAoUBvT2fV) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Ozone Scraper](https://open.spotify.com/album/5AUkiL7bPV1Hc6jGdYydrI) | 3:31 | 2023-08-18 | 2023-10-14 |
 | [Ozu](https://open.spotify.com/track/0fym4mro3A1876ysJ7ulJQ) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y) | [Diego E.P.](https://open.spotify.com/album/6jBUi3Hjp0GihmvfNMmeGI) | 3:41 | 2021-09-03 |  |
+| [pa700](https://open.spotify.com/track/0SqqAF6V4ClXmpZ2LKAZLf) | [DJ Plead](https://open.spotify.com/artist/3srk7xv520Ls9D09QMpEJg) | [Please](https://open.spotify.com/album/3MDIlB5tvVGQfBWYodIDBC) | 4:30 | 2026-06-25 |  |
 | [Painted Skies](https://open.spotify.com/track/3Zs0LasDmlVpaEfqszmJo3) | [Milton Breech](https://open.spotify.com/artist/4m9ky9cpnow3EZ44QgB90k) | [Painted Skies](https://open.spotify.com/album/02i8PBMwDTi7u7OSjpP6cW) | 2:29 | 2019-05-26\* | 2020-08-26 |
 | [Pale Skin](https://open.spotify.com/track/7MNBvMmbdmQyc5beXqrDLH) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [A Forest](https://open.spotify.com/album/7zczp6XRwsdgnAolUjgfEh) | 3:50 | 2019-06-19\* | 2020-10-19 |
 | [Paper Rockets \- Original Mix](https://open.spotify.com/track/2l95ZQD13ZwQs42TGxrlaE) | [Ryan Davis](https://open.spotify.com/artist/0AHClmU8AZuj9naaENhVrP) | [From Within EP](https://open.spotify.com/album/4IXn2OV8Hnx9q4hZ1GTdCV) | 3:13 | 2019-06-21 | 2025-11-11 |

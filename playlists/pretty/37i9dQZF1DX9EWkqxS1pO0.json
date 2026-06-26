@@ -1,12 +1,12 @@
 {
   "description": "Yeni favori sanat\u00e7\u0131n\u0131 ke\u015ffet \u26a1 Kapak: Radikal",
-  "num_followers": 72468,
+  "num_followers": 72487,
   "original_name": "Ke\u015fif",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEhMnSmYA5X7hOVAv0Fhc8deaF0A",
+  "snapshot_id": "AAAAANkH+5m9GaYCuSnIl/yvxTOiDUOe",
   "tracks": [
     {
       "added_at": "2026-06-18 21:00:54",
@@ -303,22 +303,6 @@
     {
       "added_at": "2026-06-18 21:00:54",
       "album": {
-        "name": "Y\u00e2r",
-        "url": "https://open.spotify.com/album/1wDvmE3kDUHrU4fhIBioS2"
-      },
-      "artists": [
-        {
-          "name": "Den Ze",
-          "url": "https://open.spotify.com/artist/2zOTxRKSncCCTHLxwRfuMY"
-        }
-      ],
-      "duration_ms": 211312,
-      "name": "Y\u00e2r",
-      "url": "https://open.spotify.com/track/4Nf2sawApBOhPTGEjkvikS"
-    },
-    {
-      "added_at": "2026-06-18 21:00:54",
-      "album": {
         "name": "s\u00f6yle",
         "url": "https://open.spotify.com/album/2FYQF7rXRJr2Fs6XH3UZUM"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 201153,
       "name": "s\u00f6yle",
       "url": "https://open.spotify.com/track/0FzsSOV5EykJCiENiwA7CC"
+    },
+    {
+      "added_at": "2026-06-18 21:00:54",
+      "album": {
+        "name": "Y\u00e2r",
+        "url": "https://open.spotify.com/album/1wDvmE3kDUHrU4fhIBioS2"
+      },
+      "artists": [
+        {
+          "name": "Den Ze",
+          "url": "https://open.spotify.com/artist/2zOTxRKSncCCTHLxwRfuMY"
+        }
+      ],
+      "duration_ms": 211312,
+      "name": "Y\u00e2r",
+      "url": "https://open.spotify.com/track/4Nf2sawApBOhPTGEjkvikS"
     },
     {
       "added_at": "2026-06-18 21:00:54",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-06-18 21:00:54",
       "album": {
-        "name": "Bi Sana",
-        "url": "https://open.spotify.com/album/7bHEugtE6HewfRCr4Dlp4E"
-      },
-      "artists": [
-        {
-          "name": "G\u00f6zde Bulda\u015f",
-          "url": "https://open.spotify.com/artist/6SW6IYlxnQd3xbcZD3JDLP"
-        }
-      ],
-      "duration_ms": 145693,
-      "name": "Bi Sana",
-      "url": "https://open.spotify.com/track/2TKmDMFjWuBMlzmRQmneT1"
-    },
-    {
-      "added_at": "2026-06-18 21:00:54",
-      "album": {
         "name": "Bir Bir",
         "url": "https://open.spotify.com/album/1OEwwB2FESKuziGRR8tqiY"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 175658,
       "name": "Bir Bir",
       "url": "https://open.spotify.com/track/3ICdfm7CAO0vg14gyUFjkG"
+    },
+    {
+      "added_at": "2026-06-18 21:00:54",
+      "album": {
+        "name": "Bi Sana",
+        "url": "https://open.spotify.com/album/7bHEugtE6HewfRCr4Dlp4E"
+      },
+      "artists": [
+        {
+          "name": "G\u00f6zde Bulda\u015f",
+          "url": "https://open.spotify.com/artist/6SW6IYlxnQd3xbcZD3JDLP"
+        }
+      ],
+      "duration_ms": 145693,
+      "name": "Bi Sana",
+      "url": "https://open.spotify.com/track/2TKmDMFjWuBMlzmRQmneT1"
     },
     {
       "added_at": "2026-06-18 21:00:54",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-06-18 21:00:54",
       "album": {
-        "name": "Neyse",
-        "url": "https://open.spotify.com/album/0LfyiV8HT3r06i4xCc6SHP"
-      },
-      "artists": [
-        {
-          "name": "Kalabal\u0131klar",
-          "url": "https://open.spotify.com/artist/2h1njP9dxIRtOeSNQGJJcw"
-        }
-      ],
-      "duration_ms": 169734,
-      "name": "Neyse",
-      "url": "https://open.spotify.com/track/509inIvWm6E20MRSkmHd2V"
-    },
-    {
-      "added_at": "2026-06-18 21:00:54",
-      "album": {
         "name": "neler gizli",
         "url": "https://open.spotify.com/album/5yuiJZZpstwBxsq5swoB4c"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 228750,
       "name": "neler gizli",
       "url": "https://open.spotify.com/track/2ACIcDumWQPJ3BCuhrtsfB"
+    },
+    {
+      "added_at": "2026-06-18 21:00:54",
+      "album": {
+        "name": "Neyse",
+        "url": "https://open.spotify.com/album/0LfyiV8HT3r06i4xCc6SHP"
+      },
+      "artists": [
+        {
+          "name": "Kalabal\u0131klar",
+          "url": "https://open.spotify.com/artist/2h1njP9dxIRtOeSNQGJJcw"
+        }
+      ],
+      "duration_ms": 169734,
+      "name": "Neyse",
+      "url": "https://open.spotify.com/track/509inIvWm6E20MRSkmHd2V"
     },
     {
       "added_at": "2026-06-18 21:00:54",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-06-18 21:00:54",
       "album": {
-        "name": "Gitti\u011finden Beri",
-        "url": "https://open.spotify.com/album/76tZW6wowp0N0dAYUBxUG7"
-      },
-      "artists": [
-        {
-          "name": "Bade",
-          "url": "https://open.spotify.com/artist/0PtAztBAwJWdQD5BABZKtz"
-        }
-      ],
-      "duration_ms": 166092,
-      "name": "Gitti\u011finden Beri",
-      "url": "https://open.spotify.com/track/7Ku9AxEP7ASDRWhu8U32wB"
-    },
-    {
-      "added_at": "2026-06-18 21:00:54",
-      "album": {
         "name": "\u00dc\u015f\u00fcmem Ondan De\u011fil",
         "url": "https://open.spotify.com/album/0aPIOBbZ2yppejBnlc4OKN"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 191250,
       "name": "\u00dc\u015f\u00fcmem Ondan De\u011fil",
       "url": "https://open.spotify.com/track/6xjyNZ9yjxGenZaiMDM4lg"
+    },
+    {
+      "added_at": "2026-06-18 21:00:54",
+      "album": {
+        "name": "Gitti\u011finden Beri",
+        "url": "https://open.spotify.com/album/76tZW6wowp0N0dAYUBxUG7"
+      },
+      "artists": [
+        {
+          "name": "Bade",
+          "url": "https://open.spotify.com/artist/0PtAztBAwJWdQD5BABZKtz"
+        }
+      ],
+      "duration_ms": 166092,
+      "name": "Gitti\u011finden Beri",
+      "url": "https://open.spotify.com/track/7Ku9AxEP7ASDRWhu8U32wB"
     },
     {
       "added_at": "2026-06-18 21:00:54",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-06-18 21:00:54",
       "album": {
-        "name": "MUTLU SON",
-        "url": "https://open.spotify.com/album/1oJXSExATvGAn5yaKgSUxM"
-      },
-      "artists": [
-        {
-          "name": "\u00d6yk\u00fc D\u00f6rter",
-          "url": "https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA"
-        }
-      ],
-      "duration_ms": 147535,
-      "name": "MUTLU SON",
-      "url": "https://open.spotify.com/track/0BFd3PLkEnThjJWu3gzEiL"
-    },
-    {
-      "added_at": "2026-06-18 21:00:54",
-      "album": {
         "name": "zalim",
         "url": "https://open.spotify.com/album/678tSoWkxSECUbSI23Ocxv"
       },
@@ -1183,18 +1167,34 @@
     {
       "added_at": "2026-06-18 21:00:54",
       "album": {
-        "name": "Davet",
-        "url": "https://open.spotify.com/album/6C4En9YDneqoA0hECVCnXx"
+        "name": "MUTLU SON",
+        "url": "https://open.spotify.com/album/1oJXSExATvGAn5yaKgSUxM"
       },
       "artists": [
         {
-          "name": "Ege Can Sal",
-          "url": "https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX"
+          "name": "\u00d6yk\u00fc D\u00f6rter",
+          "url": "https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA"
         }
       ],
-      "duration_ms": 152307,
-      "name": "Davet",
-      "url": "https://open.spotify.com/track/6fXHnrfJqw3duhbf0PvrG0"
+      "duration_ms": 147535,
+      "name": "MUTLU SON",
+      "url": "https://open.spotify.com/track/0BFd3PLkEnThjJWu3gzEiL"
+    },
+    {
+      "added_at": "2026-06-18 21:00:54",
+      "album": {
+        "name": "Yoklu\u011funun Derdi",
+        "url": "https://open.spotify.com/album/21YPQ6dih6e33kajrqoNW1"
+      },
+      "artists": [
+        {
+          "name": "Tolga Ayaz",
+          "url": "https://open.spotify.com/artist/7G2ZpX14n32mQ9k61IdLmY"
+        }
+      ],
+      "duration_ms": 214515,
+      "name": "Yoklu\u011funun Derdi",
+      "url": "https://open.spotify.com/track/44ZDaAnptNUdAvZpOZM46Y"
     },
     {
       "added_at": "2026-06-18 21:00:54",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2026-06-18 21:00:54",
       "album": {
-        "name": "Yoklu\u011funun Derdi",
-        "url": "https://open.spotify.com/album/21YPQ6dih6e33kajrqoNW1"
+        "name": "Davet",
+        "url": "https://open.spotify.com/album/6C4En9YDneqoA0hECVCnXx"
       },
       "artists": [
         {
-          "name": "Tolga Ayaz",
-          "url": "https://open.spotify.com/artist/7G2ZpX14n32mQ9k61IdLmY"
+          "name": "Ege Can Sal",
+          "url": "https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX"
         }
       ],
-      "duration_ms": 214515,
-      "name": "Yoklu\u011funun Derdi",
-      "url": "https://open.spotify.com/track/44ZDaAnptNUdAvZpOZM46Y"
+      "duration_ms": 152307,
+      "name": "Davet",
+      "url": "https://open.spotify.com/track/6fXHnrfJqw3duhbf0PvrG0"
     }
   ],
   "unique_name": "Ke\u015fif",

@@ -4,7 +4,7 @@
 
 > Nieuwe alternative & rock releases\. Cover: Personal Trainer
 
-883 songs - 2 day 3 hr 27 min
+884 songs - 2 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -714,6 +714,7 @@
 | [Sunburned in London](https://open.spotify.com/track/3yl2nZ7PzggmJ0QOqA8OZT) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [Sunburned in London](https://open.spotify.com/album/0QhhQxOzxnkc78HbKI94Nv) | 6:37 | 2026-02-06 | 2026-04-24 |
 | [Sunny Baby](https://open.spotify.com/track/1AH1KdgFBW2orzVFDqzrup) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Sunny Baby](https://open.spotify.com/album/5QTrD7sEFUlkt5wXHS2wEa) | 3:19 | 2025-03-13 | 2025-06-03 |
 | [Sunny Day \(Deadline\)](https://open.spotify.com/track/14BHhhBdtJS4wTHuX3L4Co) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Sunny Day \(Deadline\)](https://open.spotify.com/album/6Haip8Tb8mzaGmDBYpRVPf) | 3:12 | 2026-04-16 | 2026-05-09 |
+| [SUPERPOWERS](https://open.spotify.com/track/0GJ9W1TSQzbxAgCCX2xc6d) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [SUPERPOWERS](https://open.spotify.com/album/2alYlwvRKwIy0w7nEpDnWY) | 2:53 | 2026-06-18 |  |
 | [Supersad](https://open.spotify.com/track/1RsfrWBRyXb36JUhSulKlF) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Supersad](https://open.spotify.com/album/1zirJ7lGSbrflcoVdTnEPA) | 2:50 | 2024-06-24 | 2024-10-18 |
 | [Surfin'](https://open.spotify.com/track/2c5K25BaMvcGEVovHGMScS) | [SONS](https://open.spotify.com/artist/4smQzo74d24VIhwRf5K59S) | [Surfin'](https://open.spotify.com/album/4ZkfSz3NyxUul3sthxrUFv) | 1:59 | 2026-03-16 | 2026-06-19 |
 | [Sweet Fame](https://open.spotify.com/track/2FeJTYfPRpZw3ekoXSVa0r) | [Oproer](https://open.spotify.com/artist/0t4k3hFcPfmTpeNlRFPat2) | [Sweet Fame](https://open.spotify.com/album/3XAtF4x4O83uJGnDOaBjBN) | 3:07 | 2025-05-26 | 2025-08-10 |

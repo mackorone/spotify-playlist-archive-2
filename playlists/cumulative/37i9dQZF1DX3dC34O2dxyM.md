@@ -4,7 +4,7 @@
 
 > Canciones de cuna relajantes con arpa y guitarra.
 
-352 songs - 10 hr 42 min
+354 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Daisy Bell](https://open.spotify.com/track/1005qYjEgIXFA7gkkhpf43) | [Sonia Campra](https://open.spotify.com/artist/6seSt7No9xstCMTTx9GJy4) | [Daisy Bell](https://open.spotify.com/album/5HC2rS5WLnB7hRakRJZcIY) | 1:46 | 2021-10-29 | 2024-05-17 |
 | [Dancing With My Sweetheart](https://open.spotify.com/track/6z75TMbYWTGWIUEq03FzN0) | [Garth Winter](https://open.spotify.com/artist/48KlcKLmPswD1SWQhi6z5L) | [Dancing With My Sweetheart](https://open.spotify.com/album/31hbyp1aLB95nmkRmpQERm) | 1:34 | 2021-10-29 | 2024-05-17 |
 | [Dark night, Sleep tight](https://open.spotify.com/track/4AyuF903Evw8I9J3ZtiCng) | [Percy Erickson](https://open.spotify.com/artist/2CZkyihyuE9dEYbA1DTC45) | [Dark night, Sleep tight](https://open.spotify.com/album/4T481VUerDBhjcx2cKwTCL) | 1:05 | 2021-10-29 | 2024-05-17 |
+| [Day Dream](https://open.spotify.com/track/206OxyQh9xv63HaZjFyfz0) | [Lenox Martin](https://open.spotify.com/artist/472Cau4ZzDrfQR8Xwm4arw) | [Day Dream](https://open.spotify.com/album/5QqLpHDVdwmaaAdnW4M2DZ) | 2:00 | 2026-06-25 |  |
 | [Dear teddy](https://open.spotify.com/track/4McgjQHfTD9NkXCOOKhIcn) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Dear teddy](https://open.spotify.com/album/3ZbPpGwQi06bp9PofzISBF) | 1:37 | 2024-05-16 |  |
 | [Det gåtfulla folket](https://open.spotify.com/track/3LJaPZaJQMDAPd4NWZMnU9) | [Celeste Knight](https://open.spotify.com/artist/1UgS4sDHUIYMiwbzV2LkXl) | [Det gåtfulla folket](https://open.spotify.com/album/4jkbKpDaccNPhnDACXwGOr) | 3:44 | 2021-10-29 | 2024-05-17 |
 | [Diamonds](https://open.spotify.com/track/7JwZYwycgfelBvuhPCZOpD) | [Fei Kura](https://open.spotify.com/artist/5Gs7KAVWa4xqgvsJZpu0jI) | [Diamonds](https://open.spotify.com/album/3fteKDZUgA53fBtAXYHKcy) | 1:05 | 2024-05-16 | 2025-06-12 |
@@ -244,6 +245,7 @@
 | [Pop! Goes the Weasel](https://open.spotify.com/track/7amwRp4KIwmjbfGYpRzqjl) | [Aleeza May](https://open.spotify.com/artist/6n4NX7cBWbkXX0uCKjfMl0) | [Pop! Goes the Weasel](https://open.spotify.com/album/76pWhtPUKI4MVWpc05Ykhh) | 1:38 | 2024-05-16 |  |
 | [Puppy Love](https://open.spotify.com/track/6DaTj3tFSinoMzMtdv1yVM) | [September Blackwood](https://open.spotify.com/artist/2U5xaVrnCTnR6xSNc7Pwrp) | [Come Sail Away](https://open.spotify.com/album/2Kusp6AwauNVXkSixFiUXu) | 1:42 | 2021-10-29 | 2024-05-17 |
 | [Que Linda Manita](https://open.spotify.com/track/13ytdfEni9x39EA5wsNWoB) | [Regina Kent](https://open.spotify.com/artist/1wAxDngNNPJNc2gAV2Z7VM) | [Arpa](https://open.spotify.com/album/6OL2F8vnKstdtyYBRBv8xW) | 2:33 | 2021-10-29 | 2025-03-15 |
+| [Quiero Dormir](https://open.spotify.com/track/46MliXAikDrARBvHWhkK4z) | [Pipo and Roy](https://open.spotify.com/artist/2D6uOhkI97JwoLo1GGgmGS) | [Quiero Dormir](https://open.spotify.com/album/2jGkyodwQSIKlhhNKB6X99) | 1:24 | 2026-06-25 |  |
 | [Quiet Stars, Gentle Strums](https://open.spotify.com/track/5Z1pFUx2YyiQ02GPItTgQC) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [Quiet Stars, Gentle Strums](https://open.spotify.com/album/6lDyqibXUO1LIbywkvJSZP) | 2:13 | 2024-10-18 |  |
 | [Rabbit In The Hat](https://open.spotify.com/track/00rRb4G7YP7nppzamVFKA2) | [Brian Garner](https://open.spotify.com/artist/14PkQdstnMicAGULrm5aV9) | [Treehouse](https://open.spotify.com/album/5o7s0tWeRWvMgCaoOyVBaB) | 2:02 | 2024-05-16 | 2026-03-21 |
 | [Rain Rain Go Away](https://open.spotify.com/track/6nzTVUelsg5FgwYC8e4dQq) | [Marcos Perez](https://open.spotify.com/artist/12U2bFEqsXJrcSsa44TX1T) | [Rain Rain Go Away](https://open.spotify.com/album/0W7kT0c4n1KHTMplaoRutF) | 1:36 | 2021-10-29 | 2024-05-17 |
@@ -334,7 +336,7 @@
 | [Twinkle Twinkle Little Star](https://open.spotify.com/track/6zWt8aRGtbqQ0kGaQIXV0W) | [My Little Guitar](https://open.spotify.com/artist/0N43eonuFdAXrUaAyFJAmQ) | [Twinkle Twinkle Little Star](https://open.spotify.com/album/3cofneXkg1OtWT3tYF4Z6k) | 1:37 | 2021-10-29 | 2024-05-17 |
 | [Un grand cerf](https://open.spotify.com/track/1QL7CCZvH3wa0K3IUzsadV) | [Aya Poole](https://open.spotify.com/artist/6RtV8jxgvNwEACODd5xsHK) | [Un grand cerf](https://open.spotify.com/album/7sc8g6ukjnvCbUP8jtWgOL) | 1:41 | 2024-05-16 | 2025-07-28 |
 | [Under the Shining Stars](https://open.spotify.com/track/1tuHBmHspiWtcHisFJQo2Y) | [Skymningen](https://open.spotify.com/artist/2BEBC0wjP3GU2dH0hMilUs) | [Under the Shining Stars](https://open.spotify.com/album/7afLw1fNKNLJaCvvrVdun0) | 2:15 | 2024-05-16 |  |
-| [Unicorns](https://open.spotify.com/track/5eUi6uioV6i7zSwhEhL4pf) | [Choo Choo Baby](https://open.spotify.com/artist/0vDdNNkBuWh1lJhAREEFce) | [Unicorns](https://open.spotify.com/album/6K8LetL1T75t1ETwbPDAU7) | 2:15 | 2024-05-16 |  |
+| [Unicorns](https://open.spotify.com/track/5eUi6uioV6i7zSwhEhL4pf) | [Choo Choo Baby](https://open.spotify.com/artist/0vDdNNkBuWh1lJhAREEFce) | [Unicorns](https://open.spotify.com/album/6K8LetL1T75t1ETwbPDAU7) | 2:15 | 2024-05-16 | 2026-06-26 |
 | [Up Among the Clouds](https://open.spotify.com/track/1Ey7xPK8P00PuX11RQsYTZ) | [Kimmy Doyle](https://open.spotify.com/artist/7Bwg02Tn6RFiJnp83X1FSx) | [Up Among the Clouds](https://open.spotify.com/album/3m1rXsAzAyXiFAnpoLAvj1) | 1:53 | 2021-10-29 | 2024-05-17 |
 | [Vai a Dormire](https://open.spotify.com/track/1UVqywu8u1C8aodf7LqduO) | [Enzo La Mattina](https://open.spotify.com/artist/6z7U7lNXziQtlaVlWbfJa9) | [Vai a Dormire](https://open.spotify.com/album/3CNfSGopkK8Ap4cQnshSDv) | 2:20 | 2021-10-29 | 2024-09-12 |
 | [Wacky hair day](https://open.spotify.com/track/7m8f8zywfYjwG5WH68F103) | [Gabriela McGill](https://open.spotify.com/artist/5aK74Ph5sZ8w1VSLGF2tfC) | [Wacky hair day](https://open.spotify.com/album/2As9i3ANsMLFJCGxjs8u1s) | 1:54 | 2021-10-29 | 2024-05-17 |

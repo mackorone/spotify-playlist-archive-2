@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Al die nuutste Afrikaanse musiek met Bella, Appel, Tasch\u00e9, Aiden Kaide en meer!",
+  "description": "Al die nuutste Afrikaanse musiek met Barto, Die Piesangskille, Justin Vega, Juanita du Plessis en meer!",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -5401,6 +5401,24 @@
     },
     {
       "album": {
+        "name": "Boer Song",
+        "url": "https://open.spotify.com/album/0NDZh19Yb3pqK9MCL1YbNn"
+      },
+      "artists": [
+        {
+          "name": "Bonus in Desember",
+          "url": "https://open.spotify.com/artist/3qmrl2CODNuh7DyxyHnv7t"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164053,
+      "name": "Boer Song",
+      "url": "https://open.spotify.com/track/0GFjA9lXcWJAFzz8RZ7fy9"
+    },
+    {
+      "album": {
         "name": "Boere Plakkies",
         "url": "https://open.spotify.com/album/6isvpPlJenr1F40aHa9Ukw"
       },
@@ -6254,7 +6272,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 204000,
       "name": "Braai Sal Ons Braai",
       "url": "https://open.spotify.com/track/3SZ4gjMbs5th3DBFijjp60"
@@ -10099,6 +10117,24 @@
     },
     {
       "album": {
+        "name": "Die Son Staan Nie Stil Nie",
+        "url": "https://open.spotify.com/album/0cZdbrm1NKljUbAQRy1J3m"
+      },
+      "artists": [
+        {
+          "name": "Dozi",
+          "url": "https://open.spotify.com/artist/46hYfC7ROSU1sxGMK0pKXf"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202071,
+      "name": "Die Son Staan Nie Stil Nie",
+      "url": "https://open.spotify.com/track/3CP6La2J9okHEnDMyOUY0D"
+    },
+    {
+      "album": {
         "name": "Die Sonskyn en Die Re\u00ebn",
         "url": "https://open.spotify.com/album/1G1I8b6QO6p7r8IM94C0cR"
       },
@@ -10294,7 +10330,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 180085,
       "name": "DIE WATER",
       "url": "https://open.spotify.com/track/291Q2MlVVMyqi81CflpT5U"
@@ -11140,7 +11176,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 198574,
       "name": "DNA",
       "url": "https://open.spotify.com/track/67xrWES15bw8zIOMXG6xah"
@@ -12488,7 +12524,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 252727,
       "name": "Ek En Jy",
       "url": "https://open.spotify.com/track/7bpf84fRIAuiph4sIy0HeD"
@@ -13680,7 +13716,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 225103,
       "name": "EK WEET",
       "url": "https://open.spotify.com/track/5MsyWYDZefNO7VYmxhgYdS"
@@ -14070,6 +14106,24 @@
       "duration_ms": 156191,
       "name": "Elsie",
       "url": "https://open.spotify.com/track/2vwebWKn1FIRbrI3klfkRS"
+    },
+    {
+      "album": {
+        "name": "Emerald Eyes",
+        "url": "https://open.spotify.com/album/46G2JmrhtA4YT5vfqXzacQ"
+      },
+      "artists": [
+        {
+          "name": "Likkewaan",
+          "url": "https://open.spotify.com/artist/6lo75AjRf26g8qluCyDwO3"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209981,
+      "name": "Emerald Eyes",
+      "url": "https://open.spotify.com/track/2kQztLfnrsw7VCdm8ld98o"
     },
     {
       "album": {
@@ -18978,7 +19032,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 212666,
       "name": "Huis Toe",
       "url": "https://open.spotify.com/track/08oHfIN2XsU3BviWRcJN3t"
@@ -20159,6 +20213,24 @@
     },
     {
       "album": {
+        "name": "Janice STFU (Afrikaans version)",
+        "url": "https://open.spotify.com/album/4dJMuIH8JVTnOtElqJFWSc"
+      },
+      "artists": [
+        {
+          "name": "Jaakie",
+          "url": "https://open.spotify.com/artist/42quOzLgb6fpnRIiE07ACz"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190477,
+      "name": "Janice STFU (Afrikaans version)",
+      "url": "https://open.spotify.com/track/7uzJeucsmil2MR2MCEoiF1"
+    },
+    {
+      "album": {
         "name": "Janie",
         "url": "https://open.spotify.com/album/3vLwXmxQP0caBJNAELSNK5"
       },
@@ -20372,7 +20444,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 158000,
       "name": "Jet plane",
       "url": "https://open.spotify.com/track/77oPlAS0VAHXlfnK95ti7S"
@@ -20812,7 +20884,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 203808,
       "name": "Jozi",
       "url": "https://open.spotify.com/track/1xO0gUemrhSXNFBjUnq2EJ"
@@ -22952,6 +23024,24 @@
       "duration_ms": 224648,
       "name": "Klein Maanskyn",
       "url": "https://open.spotify.com/track/4pGXZTvQg8RoP2Eiz8EX9L"
+    },
+    {
+      "album": {
+        "name": "klein molekule",
+        "url": "https://open.spotify.com/album/7H1LtaAmFJ9DUlaKSLbpSK"
+      },
+      "artists": [
+        {
+          "name": "MOEGOE",
+          "url": "https://open.spotify.com/artist/3LuJllzfjmmo5p6R4HRbrZ"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178860,
+      "name": "klein molekule",
+      "url": "https://open.spotify.com/track/3zj1px0SXDIQxVmJVtQxMF"
     },
     {
       "album": {
@@ -25114,6 +25204,24 @@
       "duration_ms": 228473,
       "name": "Lag Lag",
       "url": "https://open.spotify.com/track/6GvEegpm81SNzOuKD7wl0t"
+    },
+    {
+      "album": {
+        "name": "Acoustic Live @ Sterrewag Theatre",
+        "url": "https://open.spotify.com/album/5EO97OB3wyxBbflPLhR7Br"
+      },
+      "artists": [
+        {
+          "name": "William Wolf",
+          "url": "https://open.spotify.com/artist/3QwFyw3JPeW3U1TJrtadaY"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175053,
+      "name": "Lakens (Radio Edit)",
+      "url": "https://open.spotify.com/track/7L0B4twnduABD0DMMWc6lX"
     },
     {
       "album": {
@@ -27566,7 +27674,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 169365,
       "name": "Maia-hee",
       "url": "https://open.spotify.com/track/3CvTMnkmGO5zTbDk0xL9J1"
@@ -28475,6 +28583,28 @@
     },
     {
       "album": {
+        "name": "Mia (Remix)",
+        "url": "https://open.spotify.com/album/2c1SQLMd98XDMGu94Bzl4j"
+      },
+      "artists": [
+        {
+          "name": "Die Piesangskille",
+          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
+        },
+        {
+          "name": "Justin Vega",
+          "url": "https://open.spotify.com/artist/2IzKTL47yQLnbkl5IvBhuU"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211800,
+      "name": "Mia - Remix",
+      "url": "https://open.spotify.com/track/2PX2RraximKX4zvAtJybpr"
+    },
+    {
+      "album": {
         "name": "Mia, Jy",
         "url": "https://open.spotify.com/album/5wHPieDfDaOum3eraaZhuO"
       },
@@ -29018,7 +29148,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 192089,
       "name": "Monica",
       "url": "https://open.spotify.com/track/2im5SmQjuHhVcWuo28skZT"
@@ -29094,6 +29224,24 @@
       "duration_ms": 211455,
       "name": "Mooier As Mens",
       "url": "https://open.spotify.com/track/6Sf2Gix8i6F5dppxF4SDsW"
+    },
+    {
+      "album": {
+        "name": "Mooier Deel Van My",
+        "url": "https://open.spotify.com/album/3FP5GN38nhJMtb3ftKUgbZ"
+      },
+      "artists": [
+        {
+          "name": "Lach\u00e9",
+          "url": "https://open.spotify.com/artist/3ESGlHPRXXND0pf6SHtSj3"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Mooier Deel Van My",
+      "url": "https://open.spotify.com/track/2qrre00hEgEH1FTkMaNxyV"
     },
     {
       "album": {
@@ -29930,6 +30078,24 @@
       "duration_ms": 207656,
       "name": "My Tipe Dronk",
       "url": "https://open.spotify.com/track/48S2n4oh2TXCkuFeKvcmvp"
+    },
+    {
+      "album": {
+        "name": "My Vingers En Die Snare",
+        "url": "https://open.spotify.com/album/3fYMqCIwTWgr73pCTTRqK0"
+      },
+      "artists": [
+        {
+          "name": "Mark Pekeur",
+          "url": "https://open.spotify.com/artist/0UXdX1Rbzo1BHCI5V2w4jt"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251719,
+      "name": "My Vingers En Die Snare",
+      "url": "https://open.spotify.com/track/0LBqxP3FtnJaawp8I4fq8l"
     },
     {
       "album": {
@@ -31042,7 +31208,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 193766,
       "name": "Nie Jou Naam Nie",
       "url": "https://open.spotify.com/track/14nrFLDLlh0XaGiPm3el69"
@@ -35170,7 +35336,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 190435,
       "name": "Polariteit",
       "url": "https://open.spotify.com/track/6EsdoFyfcf3OLZBnQgmvoA"
@@ -37377,6 +37543,24 @@
     },
     {
       "album": {
+        "name": "Saudade vir 'n Selfdood",
+        "url": "https://open.spotify.com/album/3Vte6bxfs6woiEysmIzKV9"
+      },
+      "artists": [
+        {
+          "name": "Petronel Baard",
+          "url": "https://open.spotify.com/artist/4J1h9siHxQN6QFm1WVwpOG"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378289,
+      "name": "Saudade vir 'n Selfdood",
+      "url": "https://open.spotify.com/track/2HvsaCjpTTN62qEoRmG9Rx"
+    },
+    {
+      "album": {
         "name": "Sawubona Tussen Sterre",
         "url": "https://open.spotify.com/album/6Zh2rlUqLxeGH8i96zEJ9U"
       },
@@ -38222,7 +38406,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 164851,
       "name": "Skaakmat",
       "url": "https://open.spotify.com/track/47CTcKuABlWUJ89Lyikx56"
@@ -40771,6 +40955,24 @@
     },
     {
       "album": {
+        "name": "Nuwe Spore",
+        "url": "https://open.spotify.com/album/6RNnzl4wOCBsemtp5dqHfv"
+      },
+      "artists": [
+        {
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182006,
+      "name": "Spore",
+      "url": "https://open.spotify.com/track/5y9iFzYn1Nygb9sOKSLamt"
+    },
+    {
+      "album": {
         "name": "Spotgoedkoop",
         "url": "https://open.spotify.com/album/0NO8OaknzdfsvKjoaAa754"
       },
@@ -41780,7 +41982,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 172374,
       "name": "Stoute kinners",
       "url": "https://open.spotify.com/track/4DHVvT9oiN5V7ir42Q8hOg"
@@ -41990,6 +42192,24 @@
       "duration_ms": 232160,
       "name": "Stuur Groete Aan Mannetjies Roux",
       "url": "https://open.spotify.com/track/4PQXOSZPTVmzaJ4ih83FqC"
+    },
+    {
+      "album": {
+        "name": "Suburbs",
+        "url": "https://open.spotify.com/album/0SWfbiWzFBbQdOIFbIqmTZ"
+      },
+      "artists": [
+        {
+          "name": "Ruben Eloff",
+          "url": "https://open.spotify.com/artist/0IzjCRbwve0Gx2N7syqyVS"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Suburbs",
+      "url": "https://open.spotify.com/track/7vQxqf32nI9uQpShqPsY9a"
     },
     {
       "album": {
@@ -43710,6 +43930,24 @@
       "duration_ms": 164526,
       "name": "Totsiens",
       "url": "https://open.spotify.com/track/6BhA6x3RdgId5E8vrWGNHG"
+    },
+    {
+      "album": {
+        "name": "Hierdie Oomblik",
+        "url": "https://open.spotify.com/album/6Zny7lSnpbgZ7N2S3YYStO"
+      },
+      "artists": [
+        {
+          "name": "Juanita du Plessis",
+          "url": "https://open.spotify.com/artist/7dtmhKnycd3REPNNixXGHO"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/3wNuwI4JUltqlUtof6H32M"
     },
     {
       "album": {
@@ -48624,6 +48862,24 @@
       "duration_ms": 283767,
       "name": "Weerlig",
       "url": "https://open.spotify.com/track/0tbyO5Q0gKn7NDZtXesH8S"
+    },
+    {
+      "album": {
+        "name": "Weerlig Liefde",
+        "url": "https://open.spotify.com/album/3byrFG0uC5g1CJPb8KVI09"
+      },
+      "artists": [
+        {
+          "name": "Wilmari Senekal",
+          "url": "https://open.spotify.com/artist/1miwMNgol7bgOedeMcq9Tq"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153428,
+      "name": "Weerlig Liefde",
+      "url": "https://open.spotify.com/track/15Mbdo6KacQ4bgyGB9p6kW"
     },
     {
       "album": {

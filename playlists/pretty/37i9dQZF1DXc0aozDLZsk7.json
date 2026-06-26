@@ -1,6 +1,6 @@
 {
   "description": "Relax. Abbandonati alla musica e ritrova la tua tranquillit\u00e0.",
-  "num_followers": 675766,
+  "num_followers": 675762,
   "original_name": "No Stress",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,22 @@
     {
       "added_at": "2026-05-07 22:04:19",
       "album": {
+        "name": "Every Kingdom",
+        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 328506,
+      "name": "Old Pine",
+      "url": "https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI"
+    },
+    {
+      "added_at": "2026-05-07 22:04:19",
+      "album": {
         "name": "Know.",
         "url": "https://open.spotify.com/album/7dwIWyB2jdJgL3P2JEgRKm"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 160240,
       "name": "Heartbeats",
       "url": "https://open.spotify.com/track/3jQyadhLTxpxadQlkFh2b8"
-    },
-    {
-      "added_at": "2026-05-07 22:04:19",
-      "album": {
-        "name": "Every Kingdom",
-        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 328506,
-      "name": "Old Pine",
-      "url": "https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI"
     },
     {
       "added_at": "2026-05-07 22:04:19",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-05-07 22:04:19",
       "album": {
-        "name": "The Breach EP",
-        "url": "https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR"
-      },
-      "artists": [
-        {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
-        }
-      ],
-      "duration_ms": 253848,
-      "name": "The Breach",
-      "url": "https://open.spotify.com/track/1WXVfFRD89EtVURD4Tbixo"
-    },
-    {
-      "added_at": "2026-05-07 22:04:19",
-      "album": {
         "name": "This City Remix (feat. Anne-Marie)",
         "url": "https://open.spotify.com/album/1CaqKGLTbEJzGTikKtoQi6"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 197328,
       "name": "This City Remix (feat. Anne-Marie)",
       "url": "https://open.spotify.com/track/1FtIOsS879PVgtHKw3C6Vs"
+    },
+    {
+      "added_at": "2026-05-07 22:04:19",
+      "album": {
+        "name": "The Breach EP",
+        "url": "https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        }
+      ],
+      "duration_ms": 253848,
+      "name": "The Breach",
+      "url": "https://open.spotify.com/track/1WXVfFRD89EtVURD4Tbixo"
     },
     {
       "added_at": "2026-05-07 22:04:19",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-05-07 22:04:19",
       "album": {
-        "name": "Blue Sky Mentality (Complete Edition)",
-        "url": "https://open.spotify.com/album/40OV4pw1Vvzrvo2yOTl5AF"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 169880,
-      "name": "Somebody",
-      "url": "https://open.spotify.com/track/2p2PyJXXzOzpaP2HEEKYsE"
-    },
-    {
-      "added_at": "2026-05-07 22:04:19",
-      "album": {
         "name": "If Ever",
         "url": "https://open.spotify.com/album/0hWhMuCu6vFSHTJNH3BqqC"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 215104,
       "name": "If Ever (with Jack Johnson & Ben Harper)",
       "url": "https://open.spotify.com/track/5CeXAfGpk9baITQvV0feoG"
+    },
+    {
+      "added_at": "2026-05-07 22:04:19",
+      "album": {
+        "name": "Blue Sky Mentality (Complete Edition)",
+        "url": "https://open.spotify.com/album/40OV4pw1Vvzrvo2yOTl5AF"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 169880,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/2p2PyJXXzOzpaP2HEEKYsE"
     },
     {
       "added_at": "2026-05-07 22:04:19",

@@ -4187,6 +4187,24 @@
     },
     {
       "album": {
+        "name": "Celebrate",
+        "url": "https://open.spotify.com/album/1ZTBOo5xHtn4V4lF954RgW"
+      },
+      "artists": [
+        {
+          "name": "A.I. The Anomaly",
+          "url": "https://open.spotify.com/artist/3PoVfuLf8nvX4HLntiLTUa"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177630,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/0QwwgQsHd4rugwYUkKM8nx"
+    },
+    {
+      "album": {
         "name": "cest la vie vie vie vie vie",
         "url": "https://open.spotify.com/album/2RR3rgpm5ImfQHVpIdCQr7"
       },

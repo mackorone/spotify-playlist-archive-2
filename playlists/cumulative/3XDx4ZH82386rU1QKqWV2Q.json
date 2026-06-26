@@ -6457,6 +6457,24 @@
     },
     {
       "album": {
+        "name": "Heavy Metal",
+        "url": "https://open.spotify.com/album/7iu9bIgtExczJZPloO4Za6"
+      },
+      "artists": [
+        {
+          "name": "Hell of a Nite",
+          "url": "https://open.spotify.com/artist/6pB9rUyXInuQ2Nf3NnJI7I"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253090,
+      "name": "Heavy Metal",
+      "url": "https://open.spotify.com/track/02Nr7ADTrZAkF6Jg8eiA7r"
+    },
+    {
+      "album": {
         "name": "Hell of a Dive",
         "url": "https://open.spotify.com/album/1j2KELAhJNhy3vlz9lTLhn"
       },

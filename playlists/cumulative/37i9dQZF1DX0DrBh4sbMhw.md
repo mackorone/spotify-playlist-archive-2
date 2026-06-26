@@ -4,7 +4,7 @@
 
 > ang lalim
 
-360 songs - 22 hr 15 min
+361 songs - 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Ako Ang Iyong Lagi](https://open.spotify.com/track/6VVfotOnpdJJBNGLsg9FXG) | [Earl Generao](https://open.spotify.com/artist/37gpPWUw01BXkRl4zg8hkk) | [Ako Ang Iyong Lagi](https://open.spotify.com/album/2TRJ3kk13uLslcK78UuceY) | 5:14 | 2023-10-18 | 2024-11-05 |
 | [akong ako](https://open.spotify.com/track/1Ci8ag9gmsiNhTgSAvQJo2) | [dana paulene](https://open.spotify.com/artist/7cYNDABWPazJakksQnbZFA) | [akong ako](https://open.spotify.com/album/4PP76TdEXfunxuGXh9MkL5) | 3:29 | 2025-11-13 | 2025-12-02 |
 | [Alanganin](https://open.spotify.com/track/10PRIQDXTzY4uK8X5UD348) | [Le John](https://open.spotify.com/artist/2SKZZzdGrOcdb8q3IguugV) | [Alanganin](https://open.spotify.com/album/2FnFVTIOU8qDIMxyEvaWyp) | 3:57 | 2026-02-16 | 2026-03-10 |
-| [All I Did Was Dream of You \(feat\. The Marías\)](https://open.spotify.com/track/0qWoOHqTirzo59FQ9eoECH) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [All I Did Was Dream of You \(feat\. The Marías\)](https://open.spotify.com/album/4cC1e65OnA1NdyiuvdnwSt) | 3:43 | 2026-03-16 | 2026-06-16 |
+| [All I Did Was Dream of You \(feat\. The Marías\)](https://open.spotify.com/track/0qWoOHqTirzo59FQ9eoECH) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [All I Did Was Dream of You \(feat\. The Marías\)](https://open.spotify.com/album/4cC1e65OnA1NdyiuvdnwSt) | 3:43 | 2026-03-16 |  |
 | [Always](https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 3:45 | 2023-10-18 |  |
 | [Ang Ilaw Mo](https://open.spotify.com/track/41nU0pp66IAP19b7dwLQ7V) | [Healy After Dark](https://open.spotify.com/artist/5xRllYZrqUU5by4KMyz9cY) | [Ang Ilaw Mo](https://open.spotify.com/album/67Ri7UIqsLVWmOBVlYG05H) | 3:56 | 2025-11-17 | 2025-11-25 |
 | [Ang Pag\-ibig](https://open.spotify.com/track/639Wg7NFfgbwjSwDphqgvz) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Ang Pag\-ibig](https://open.spotify.com/album/7lheyrZDUh2R6N2mBWXnqP) | 4:47 | 2023-10-18 | 2024-11-18 |
@@ -49,7 +49,7 @@
 | [better for you](https://open.spotify.com/track/2fxoRz7eUFbo5RoHSvXqQh) | [siopaolo](https://open.spotify.com/artist/4dXBBVDuriULFiOyu5E8Kf) | [better for you](https://open.spotify.com/album/19YZ17zw3p3FBz4B1eoGCm) | 4:49 | 2023-10-18 | 2024-11-05 |
 | [Bihag](https://open.spotify.com/track/3L2wQUnfb3A9dBBx063Jzc) | [Berto](https://open.spotify.com/artist/0HhyOgjAujCFwk95NJgIqK) | [Bihag](https://open.spotify.com/album/5UATSahFtb06gHRvxH0kvH) | 4:15 | 2023-10-18 | 2024-11-05 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-06-05 |  |
-| [bittersweet](https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [bittersweet](https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR) | 3:22 | 2025-11-05 |  |
+| [bittersweet](https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [bittersweet](https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR) | 3:22 | 2025-11-05 | 2026-06-26 |
 | [Biyahe](https://open.spotify.com/track/6M87p4JZBHlZboqD0dhQix) | [raven](https://open.spotify.com/artist/3Dr5ezvDdYsycy1gfaZWSL) | [Biyahe](https://open.spotify.com/album/4MfB3PBqb5FKbE7w9UnIZy) | 3:13 | 2023-11-10 | 2024-06-06 |
 | [Blade Of Grass](https://open.spotify.com/track/7xIoinMSiwIp5BWR7toO1O) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:17 | 2025-05-09 | 2025-06-07 |
 | [BLEED](https://open.spotify.com/track/3CJrKExvAP6RCtUR8Cf99P) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BLEED](https://open.spotify.com/album/783jliO1kkc5vXTrxHqNKk) | 2:51 | 2023-11-10 | 2024-06-06 |
@@ -184,7 +184,7 @@
 | [Ligaya](https://open.spotify.com/track/3sJKnpDvliJ9OH4cORjatB) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Ligaya](https://open.spotify.com/album/0k85IwWv2bdmLKU9ZVgIEe) | 4:08 | 2024-06-05 | 2024-06-12 |
 | [Ligaya](https://open.spotify.com/track/4IeuTj1pEHuL9vJSiEqEfR) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Ligaya](https://open.spotify.com/album/0ccUyUkrIynFO5USku5IHH) | 4:08 | 2023-10-18 | 2023-11-11 |
 | [light](https://open.spotify.com/track/4i2T7Nm4Q72sNnSlGADSm6) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [light](https://open.spotify.com/album/1eSyRapMqJE70YPpjuzbvP) | 3:45 | 2023-10-18 | 2024-11-05 |
-| [Limot](https://open.spotify.com/track/7HOEqncRxY4CC7HUMp4kPa) | [I Belong to the Zoo](https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg) | [Limot](https://open.spotify.com/album/575QXywmTHxwPP93o04Uqi) | 4:01 | 2026-06-15 |  |
+| [Limot](https://open.spotify.com/track/7HOEqncRxY4CC7HUMp4kPa) | [I Belong to the Zoo](https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg) | [Limot](https://open.spotify.com/album/575QXywmTHxwPP93o04Uqi) | 4:01 | 2026-06-15 | 2026-06-26 |
 | [Listahan](https://open.spotify.com/track/5S7Deakw4SQd7FsNbtzyoe) | [El Manu](https://open.spotify.com/artist/1r2yCpK3TvWvkZQ2vFhDF0) | [Listahan](https://open.spotify.com/album/1N8OwJNdnxPGKmxw0UL91t) | 4:35 | 2026-05-20 | 2026-06-16 |
 | [Look At Us Now \(Honeycomb\)](https://open.spotify.com/track/7bSlafYF33JHLoB9NtsL9V) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [AURORA](https://open.spotify.com/album/4ouqACcnzsOvtUlnj5abyo) | 5:32 | 2023-10-18 | 2024-11-12 |
 | [love from afar](https://open.spotify.com/track/0fvl59TGA4uO3a2kVDsOWM) | [Umar Sirhan](https://open.spotify.com/artist/1aBGLr4Mt61I8hhejBgNnk) | [love from afar](https://open.spotify.com/album/6NxNRFMuU0jiWyaMdj6EPM) | 4:09 | 2024-06-05 | 2024-06-12 |
@@ -269,7 +269,7 @@
 | [pocket locket](https://open.spotify.com/track/7t9d2YdmD87JC72pocMtlz) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [parallel universe pt\. 1](https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF) | 3:08 | 2024-07-19 | 2024-11-05 |
 | [Promise](https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:54 | 2023-10-18 | 2024-04-19 |
 | [Promise](https://open.spotify.com/track/4LHq10VKu3fSIg8EeVRi09) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Promise](https://open.spotify.com/album/21QZu3y3ewBQfmehshqMmZ) | 3:54 | 2024-03-04 | 2024-11-05 |
-| [Pwede Bang Tayo Nalang?](https://open.spotify.com/track/218UNO7YUViTZyz1Tt46b9) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2) | [Pwede Bang Tayo Nalang?](https://open.spotify.com/album/0yXfHQkG64LyiNIMOhCKCA) | 4:49 | 2026-06-15 |  |
+| [Pwede Bang Tayo Nalang?](https://open.spotify.com/track/218UNO7YUViTZyz1Tt46b9) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2) | [Pwede Bang Tayo Nalang?](https://open.spotify.com/album/0yXfHQkG64LyiNIMOhCKCA) | 4:49 | 2026-06-15 | 2026-06-26 |
 | [queen of the season](https://open.spotify.com/track/35Tzu0ZfS2YoDNsHfFIR7a) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [last night you said you missed me](https://open.spotify.com/album/3dp8Y5MGseZ3ahOMIP47O2) | 3:19 | 2025-09-17 | 2025-10-10 |
 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 | 2026-03-11 |  |
 | [RATHER BE \(feat\. Lithe\)](https://open.spotify.com/track/1IwA4UYENdDLtR0IlfYFnE) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [BEFORE I FORGET](https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3) | 4:24 | 2026-01-13 | 2026-03-25 |
@@ -310,6 +310,7 @@
 | [Staying](https://open.spotify.com/track/3tcCT8WhAIeRW2Ey9M4bL5) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 2:31 | 2025-11-12 |  |
 | [Stranger's Funeral](https://open.spotify.com/track/0xsKzUbzpcqQ9kGLV1tZ16) | [Chezka](https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY) | [Stranger's Funeral](https://open.spotify.com/album/5n9BwlAdpF815L01sIed5l) | 3:43 | 2026-04-14 | 2026-05-19 |
 | [Stuck](https://open.spotify.com/track/0GfWxo8gFJKgQ96tBrq3qo) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Soft](https://open.spotify.com/album/2gfh9js0PqxJnWctC4au5k) | 3:03 | 2025-11-05 | 2025-12-26 |
+| [stupid song](https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 3:29 | 2026-06-25 |  |
 | [Sumpa](https://open.spotify.com/track/53TEymid26RSQwfL3UrYru) | [fitterkarma](https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr) | [Sumpa](https://open.spotify.com/album/7xbollYnpZJ5iMSFhWrbI1) | 3:34 | 2025-11-07 | 2025-11-25 |
 | [Sungit](https://open.spotify.com/track/6uYeQtBpCicl3LqnIx5GBm) | [Any Name's Okay](https://open.spotify.com/artist/1CZ6BqSNNDTbyne4SltF0e) | [Sungit](https://open.spotify.com/album/1tl9h7Ym9Xc6LH0tg284Jk) | 3:57 | 2025-11-24 | 2025-12-02 |
 | [Suob \- From "Meet, Greet & Bye"](https://open.spotify.com/track/2IS8s76UJOTKqE3lPrEj09) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [Suob \(From "Meet, Greet & Bye"\)](https://open.spotify.com/album/2srniLGdD4CfDxFBG5p633) | 4:44 | 2025-11-24 | 2025-12-02 |
@@ -341,7 +342,7 @@
 | [TWENTIES](https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TWENTIES](https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW) | 2:51 | 2025-03-03 | 2025-11-05 |
 | [Ulap](https://open.spotify.com/track/0en1kxNAvVQxLpbteRTG7L) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Ulap](https://open.spotify.com/album/6ciETtX9ufaXBFRClmnnNG) | 6:45 | 2024-06-05 | 2024-06-12 |
 | [Ulap](https://open.spotify.com/track/0yBycfuTYOoDrvfP5wY2Ux) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Ulap](https://open.spotify.com/album/0LfDCKJ0MSBuR9CxJcS8tf) | 6:45 | 2023-10-18 | 2023-11-11 |
-| [Umaasa](https://open.spotify.com/track/4AULw1VRyJP17zMvwgTIUs) | [Calein](https://open.spotify.com/artist/0DpLoyGVbhOHNR3ht2oO9y) | [Umaasa](https://open.spotify.com/album/5CoCHo5Uln3nDpd1q2aewW) | 5:35 | 2023-10-18 | 2026-06-16 |
+| [Umaasa](https://open.spotify.com/track/4AULw1VRyJP17zMvwgTIUs) | [Calein](https://open.spotify.com/artist/0DpLoyGVbhOHNR3ht2oO9y) | [Umaasa](https://open.spotify.com/album/5CoCHo5Uln3nDpd1q2aewW) | 5:35 | 2023-10-18 |  |
 | [Una](https://open.spotify.com/track/29Yv0hgYGlPh1MgZAzngrg) | [Silent Sanctuary](https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C) | [Una](https://open.spotify.com/album/0TCbPpcfSoh2K8TshIhwDS) | 4:20 | 2026-03-09 | 2026-03-25 |
 | [Under The Same Moon](https://open.spotify.com/track/5FjC46LcoJ1rTtHxMoOPFL) | [Myla](https://open.spotify.com/artist/0NVFZ3XpjyXGlsJ7CMWDFj) | [Sweet Melodies](https://open.spotify.com/album/2Eaw3jA9SsuntHhN3ouDQB) | 3:31 | 2024-08-05 | 2024-11-05 |
 | [Urn](https://open.spotify.com/track/0SsOMCjOCpit4EfFpwjcFW) | [Crying City](https://open.spotify.com/artist/324QqTOkQyG8CUlphElsdD) | [Urn](https://open.spotify.com/album/5DI4qtknotYzeB65hKJPVG) | 3:22 | 2023-10-18 | 2024-11-05 |

@@ -4,7 +4,7 @@
 
 > canciones para chillear con Silvina Moreno
 
-217 songs - 11 hr 43 min
+219 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Miel](https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Miel](https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B) | 2:04 | 2023-10-17 | 2023-10-27 |
 | [mimos](https://open.spotify.com/track/38KlXktvy7bu2cQULM3Thf) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [mimos](https://open.spotify.com/album/5xWjmYo1XmJWHgzxvwTbO6) | 3:06 | 2024-04-12 | 2025-01-30 |
 | [miradas](https://open.spotify.com/track/6ZtWvkZlK3upvmuGVddKiL) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q), [imbn](https://open.spotify.com/artist/4G8NhGa4RLX6Vyw5Cfb09o) | [QUIZÁS LAS HORAS SUMAN MESES](https://open.spotify.com/album/6RynSNM95iXqnzxU3UpeJg) | 2:30 | 2026-05-28 |  |
-| [Missing Piece](https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Missing Piece](https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3) | 3:37 | 2023-10-17 |  |
+| [Missing Piece](https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Missing Piece](https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3) | 3:37 | 2023-10-17 | 2026-06-26 |
 | [mitad](https://open.spotify.com/track/0OmKNkSVTMfRFbrgvmz1bO) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [mitad](https://open.spotify.com/album/7yBVnMTs3IbijMx8wsXyEp) | 2:52 | 2024-03-08 | 2024-03-30 |
 | [MUCHO CON DEMASIAO'](https://open.spotify.com/track/0C4EGmFGx2AxA28Sq0wY9L) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH) | [MUCHO CON DEMASIAO'](https://open.spotify.com/album/4ZmmHuczCn4jkAV8zkK8zu) | 2:19 | 2026-02-06 | 2026-02-28 |
 | [My Mind & Me](https://open.spotify.com/track/0XER3HPMx223xWaAgNKp4Y) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [My Mind & Me](https://open.spotify.com/album/5quJSeTB33tFzfp2EZx9z5) | 2:27 | 2023-10-17 | 2026-05-08 |
@@ -173,6 +173,7 @@
 | [Resurrección](https://open.spotify.com/track/25w2E5BsT292BwrbwTL1Uk) | [Cígaro](https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi) | [Resurrección](https://open.spotify.com/album/5AhTQn9Qduu2blrjquRNmO) | 2:10 | 2025-06-20 | 2025-07-18 |
 | [Rosa](https://open.spotify.com/track/33AWuTMifxeDWvizVzYBiA) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Rosa](https://open.spotify.com/album/2cklcTS1Fw81SExHyUKPbO) | 2:02 | 2023-11-14 | 2024-03-07 |
 | [Rotonda](https://open.spotify.com/track/5pyrz5N78YAqu8lRWqeTTw) | [Adrián Berra](https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO) | [Antes de saltar](https://open.spotify.com/album/0s0qKu5A9V7uwxiAjs0Cig) | 3:49 | 2026-02-27 | 2026-04-24 |
+| [SABOR A MÍ \(La Gloria Eres Tú\)](https://open.spotify.com/track/6cvRJMy82kZbhnwVSLspJR) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [SABOR A MÍ \(La Gloria Eres Tú\)](https://open.spotify.com/album/32NSNxumROUNYVCTobz6eR) | 3:59 | 2026-06-26 |  |
 | [Satellite](https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Satellite](https://open.spotify.com/album/1NmhmrcrG143ODfGk9myHE) | 3:06 | 2023-10-17 | 2025-03-21 |
 | [SER AMIGOS \(olvida\)](https://open.spotify.com/track/1Hgqs710QBTM5lp7Tbv8ad) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [SER AMIGOS \(olvida\)](https://open.spotify.com/album/6fjvO0I7QKkKLrpr4esvh1) | 4:07 | 2026-04-24 | 2026-05-15 |
 | [Será Mi Culpa?](https://open.spotify.com/track/0e5wmUTalS4NiyNjMYmBIA) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET) | [Será Mi Culpa?](https://open.spotify.com/album/4A1s03L5Tw52zY0FamWkDW) | 2:19 | 2023-10-17 | 2024-03-30 |
@@ -190,8 +191,9 @@
 | [tenerte cerca \- sesión en vivo](https://open.spotify.com/track/3PW505mKnfYWDou86OoGdC) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Todo vuelve \(sesión en vivo\)](https://open.spotify.com/album/5XCFLm7l18vr7GWGHzkE3U) | 3:20 | 2025-04-11 | 2025-06-20 |
 | [the boy is mine](https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:53 | 2024-04-05 |  |
 | [The Craving \- single version](https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Craving](https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI) | 2:53 | 2024-05-24 | 2026-05-29 |
-| [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0) | 3:05 | 2023-10-17 |  |
+| [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0) | 3:05 | 2023-10-17 | 2026-06-26 |
 | [The Mountain](https://open.spotify.com/track/1ATWVZj4ukcMcQHRZ6KxvU) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7) | 2:55 | 2025-01-29 | 2025-04-23 |
+| [Toda la vida](https://open.spotify.com/track/34M4ir211IC4o1oF4WkgzZ) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J), [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Toda la vida](https://open.spotify.com/album/7udgVaRDthuSi8JtMTz0e1) | 4:34 | 2026-06-26 |  |
 | [Todo De Mí](https://open.spotify.com/track/18Sx1W4k6Bbie3twAt2azN) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Todo De Mí](https://open.spotify.com/album/6p0QVx7FDgUzSDfoQYpV5L) | 2:54 | 2026-03-06 | 2026-04-24 |
 | [Too Sweet](https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN) | 4:11 | 2024-03-29 | 2024-04-19 |
 | [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 | 2024-03-29 | 2024-03-31 |

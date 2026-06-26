@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 
 > Porque el barrio es el barrio aquí y en Corea\. Escucha las cumbias más perronas para el partido
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,509 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,534 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 19 | [Eres](https://open.spotify.com/track/1OeKx8ya9DRQBWKJmlRFJp) | [Los Extraños](https://open.spotify.com/artist/4o42b77fvOMfJGnDVo8aWK) | [Sigueme](https://open.spotify.com/album/1gWllGhiiVZRYJ3OXqMrOw) | 3:22 |
 | 20 | [Cumbia Tepito](https://open.spotify.com/track/7edbVN6UH8dKKawPwvtmne) | [Los Feders](https://open.spotify.com/artist/31mRf72wmeUtaVCxPumChH) | [Quiero Llorar \(100% Cumbia Sonidera\)](https://open.spotify.com/album/3HdxgA6cCjyJvxQ22ahkS6) | 3:23 |
 | 21 | [Estas Enamorada de un Amigo Mio](https://open.spotify.com/track/2HpAiTT10IBIkxj3X6cYwF) | [Los Villanos Del Sabor](https://open.spotify.com/artist/6n4eZdTWpty8R5XhC50n0P) | [Desde New York para Mexico](https://open.spotify.com/album/77yGKT3HKpjbck8Nm8XQ8E) | 4:31 |
-| 22 | [Pero Tu Mirada](https://open.spotify.com/track/2MWXzkl1krtCoaxfoErZ76) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Corazoncito Pum Pum \(2025 Remastered\)](https://open.spotify.com/album/4bjYLHXanQRMPMRC4FwcnM) | 3:46 |
+| 22 | [Pero Tu Mirada](https://open.spotify.com/track/2MWXzkl1krtCoaxfoErZ76) | [Los Yaguaru de Angel Venegas](https://open.spotify.com/artist/4RVNe0ykEiQN2l5FpErbtz) | [Corazoncito Pum Pum \(2025 Remastered\)](https://open.spotify.com/album/4bjYLHXanQRMPMRC4FwcnM) | 3:46 |
 | 23 | [Te Espero en el Cielo \(Sale El Sol En La Mañana\) Penas Tan Solo Penas intro DjCron](https://open.spotify.com/track/72hnKXVXA64Rg4XPlI8s4E) | [DEMBOW 714 RECORDS](https://open.spotify.com/artist/1ybOsE6AAPASfoOSoECXC8) | [Te Espero en el Cielo \(Sale El Sol En La Mañana\) Penas Tan Solo Penas intro DjCron](https://open.spotify.com/album/0RI3SDnzKGgyH4NzKQFcXX) | 6:06 |
 | 24 | [Rumba Quimbumba](https://open.spotify.com/track/0trX1nThTl4NfJuctzJVA3) | [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX) | [El Poder De La Cumbia](https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m) | 4:57 |
-| 25 | [Vida No Te Vayas](https://open.spotify.com/track/3WZw8CGZAUFTlpacWeesB6) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Corazoncito Pum Pum \(2025 Remastered\)](https://open.spotify.com/album/4bjYLHXanQRMPMRC4FwcnM) | 3:48 |
+| 25 | [Vida No Te Vayas](https://open.spotify.com/track/3WZw8CGZAUFTlpacWeesB6) | [Los Yaguaru de Angel Venegas](https://open.spotify.com/artist/4RVNe0ykEiQN2l5FpErbtz) | [Corazoncito Pum Pum \(2025 Remastered\)](https://open.spotify.com/album/4bjYLHXanQRMPMRC4FwcnM) | 3:48 |
 | 26 | [Cumbia En La Playa](https://open.spotify.com/track/4USKfftLX85UCuwuV5DLUT) | [INSPIRACION COLOMBIANA](https://open.spotify.com/artist/6aDQPhm289KjJHzU0TvaVA) | [Quienes Somos](https://open.spotify.com/album/3A20APioynHFJaz8sItaP1) | 5:45 |
 | 27 | [Suena Mi Cumbia \- 2025 Remastered](https://open.spotify.com/track/0IWezx2Lu5qV5WFMlYvdnn) | [Los Yaguaru de Angel Venegas](https://open.spotify.com/artist/4RVNe0ykEiQN2l5FpErbtz) | [Como un Ángel \(2025 Remastered\)](https://open.spotify.com/album/2TVVimdJI79DQhtc2ddC0f) | 3:52 |
 | 28 | [Corazón Solitario](https://open.spotify.com/track/7pxs0seevgCsp3h23lUGBw) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guarachando](https://open.spotify.com/album/18alqYy5VLW7BxT86gmAGI) | 4:03 |

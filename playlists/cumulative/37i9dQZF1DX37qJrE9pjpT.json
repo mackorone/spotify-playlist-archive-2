@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "40 Bars",
+        "url": "https://open.spotify.com/album/4nTiJqvh2DHGlmRD0EKYqZ"
+      },
+      "artists": [
+        {
+          "name": "Jay Moe",
+          "url": "https://open.spotify.com/artist/5406S7GwLPP57ul2qF8QyM"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176206,
+      "name": "40 Bars",
+      "url": "https://open.spotify.com/track/1prNDIDTCcbV0nqnXCMAt9"
+    },
+    {
+      "album": {
         "name": "A City",
         "url": "https://open.spotify.com/album/4ULtASp6wWwINGBp3cPEhh"
       },
@@ -1918,7 +1936,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 208000,
       "name": "Kama Bob Marley",
       "url": "https://open.spotify.com/track/42N0fr6aYOLyxFmvCCnUFQ"
@@ -2122,7 +2140,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 281469,
       "name": "Legacy",
       "url": "https://open.spotify.com/track/1Yk2ZpiAfDk453A9wAdfyU"
@@ -4577,6 +4595,24 @@
     },
     {
       "album": {
+        "name": "Sijakumiss",
+        "url": "https://open.spotify.com/album/3q03VXUMZQ300ufHxFWndA"
+      },
+      "artists": [
+        {
+          "name": "FreshBoys",
+          "url": "https://open.spotify.com/artist/4ksHkRc0gFw34fr9vAJEdU"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248571,
+      "name": "Sijakumiss",
+      "url": "https://open.spotify.com/track/3JJEQ0t4xhi1QQRCZJUpQd"
+    },
+    {
+      "album": {
         "name": "Siku 462",
         "url": "https://open.spotify.com/album/6tJOOG9u6TLa7teKtA0ctV"
       },
@@ -5462,7 +5498,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 188448,
       "name": "Tungi",
       "url": "https://open.spotify.com/track/3l4N95nLy5SLrmA8alVE7l"
@@ -5576,6 +5612,32 @@
       "duration_ms": 215562,
       "name": "Usizime Taa (feat. Rosa Ree)",
       "url": "https://open.spotify.com/track/6LMLnWE7EuCQBiePWN8rLq"
+    },
+    {
+      "album": {
+        "name": "Utaniambia Nini",
+        "url": "https://open.spotify.com/album/7oaAovic3LH11A9OGEA8ND"
+      },
+      "artists": [
+        {
+          "name": "Salmin Swaggz",
+          "url": "https://open.spotify.com/artist/29Bao5BzmXldCACxALuPcu"
+        },
+        {
+          "name": "Young DareSalama",
+          "url": "https://open.spotify.com/artist/1hHvFni1HRPiOrVCRXqO9t"
+        },
+        {
+          "name": "Maddoh",
+          "url": "https://open.spotify.com/artist/2NCMCv7mFo3uPYCVSs52pk"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Utaniambia Nini",
+      "url": "https://open.spotify.com/track/1FhTx8otGqh3msHgw0n5E1"
     },
     {
       "album": {

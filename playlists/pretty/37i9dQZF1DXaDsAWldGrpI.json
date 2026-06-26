@@ -1,6 +1,6 @@
 {
   "description": "Your favorite artists, recorded live - just like you were there! Cover: Eric Church",
-  "num_followers": 143406,
+  "num_followers": 143407,
   "original_name": "Country Live",
   "owner": {
     "name": "Spotify",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
-        "name": "Still The One: Live From Vegas",
-        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
+        "name": "Live EP 001",
+        "url": "https://open.spotify.com/album/46Wz0JFGscUG5rbo5CEmZe"
       },
       "artists": [
         {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
         }
       ],
-      "duration_ms": 270186,
-      "name": "Any Man Of Mine - Live",
-      "url": "https://open.spotify.com/track/5V9PVHVvD7He5oWUo69YsQ"
+      "duration_ms": 231634,
+      "name": "Straight and Narrow - Live",
+      "url": "https://open.spotify.com/track/0q2ZwaD697dTrD2Fq5jcvU"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
-        "name": "Live EP 001",
-        "url": "https://open.spotify.com/album/46Wz0JFGscUG5rbo5CEmZe"
+        "name": "Still The One: Live From Vegas",
+        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
       },
       "artists": [
         {
-          "name": "Sam Barber",
-          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 231634,
-      "name": "Straight and Narrow - Live",
-      "url": "https://open.spotify.com/track/0q2ZwaD697dTrD2Fq5jcvU"
+      "duration_ms": 270186,
+      "name": "Any Man Of Mine - Live",
+      "url": "https://open.spotify.com/track/5V9PVHVvD7He5oWUo69YsQ"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
+        "name": "Live EP 001",
+        "url": "https://open.spotify.com/album/46Wz0JFGscUG5rbo5CEmZe"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "duration_ms": 184733,
+      "name": "Dancing in the Sky - Live",
+      "url": "https://open.spotify.com/track/2J9gJOybt7LblzP7DOYtpL"
+    },
+    {
+      "added_at": "2026-04-15 17:00:10",
+      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/1oqiAakWVX3wj3URQ1CaoO"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 264892,
       "name": "Margaritaville - Live at Coastal Credit Union Music Park at Walnut Creek, Raleigh, NC, 10.05.2023",
       "url": "https://open.spotify.com/track/70OjE1ads6dRCLzMMYn6jU"
-    },
-    {
-      "added_at": "2026-04-15 17:00:10",
-      "album": {
-        "name": "Live EP 001",
-        "url": "https://open.spotify.com/album/46Wz0JFGscUG5rbo5CEmZe"
-      },
-      "artists": [
-        {
-          "name": "Sam Barber",
-          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Dancing in the Sky - Live",
-      "url": "https://open.spotify.com/track/2J9gJOybt7LblzP7DOYtpL"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -1739,18 +1739,18 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
-        "name": "Straight Line (Live from the HIGH AND ALIVE WORLD TOUR)",
-        "url": "https://open.spotify.com/album/7oKTPmVQ98HM1fqPk48wqH"
+        "name": "Wings (Live at the Ryman)",
+        "url": "https://open.spotify.com/album/2gg3gSnirMHzSdZLvS1Fvs"
       },
       "artists": [
         {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
         }
       ],
-      "duration_ms": 405497,
-      "name": "Straight Line - Live from the HIGH AND ALIVE WORLD TOUR",
-      "url": "https://open.spotify.com/track/3ezfdkLRbUjlB3cHwfYBe7"
+      "duration_ms": 363528,
+      "name": "Wings - Live at the Ryman",
+      "url": "https://open.spotify.com/track/0vaCkZTsFBiWvjVHLFxuG2"
     }
   ],
   "unique_name": "Country Live",

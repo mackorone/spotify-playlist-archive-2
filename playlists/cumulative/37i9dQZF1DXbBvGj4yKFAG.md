@@ -4,7 +4,7 @@
 
 > may include sad indie rock songs.
 
-270 songs - 14 hr 11 min
+272 songs - 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Falling Apart Without You](https://open.spotify.com/track/10ANYWmxWwURWwjPqCUGo8) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Falling Apart Without You](https://open.spotify.com/album/2ab1JYYysapgQgPeBPHoJr) | 3:23 | 2023-05-16 | 2026-03-27 |
 | [Familiar Fields](https://open.spotify.com/track/2JaUbapUFcKEly61vqlaRz) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Together](https://open.spotify.com/album/428iId26KsW5U3fhyC7S3W) | 5:12 | 2023-02-09 | 2023-04-12 |
 | [Fatal Blue](https://open.spotify.com/track/5nzjHP1ALPAqnaqu9CxOyw) | [Grivo](https://open.spotify.com/artist/0NsL0iHM7x5iahPLXXGf9C) | [Omit](https://open.spotify.com/album/3DglweTTqaGzB198Ex36vF) | 5:34 | 2023-04-11 | 2023-06-03 |
-| [Favorite Song](https://open.spotify.com/track/5BqN9YxYxyXqrbS7FWpOWH) | [waveform\*](https://open.spotify.com/artist/6g12mLVmai580Y6SQnGjcd) | [Last Room](https://open.spotify.com/album/4tPzvYMdlRvpnMlXe8zAbz) | 2:54 | 2023-02-09 |  |
+| [Favorite Song](https://open.spotify.com/track/5BqN9YxYxyXqrbS7FWpOWH) | [waveform\*](https://open.spotify.com/artist/6g12mLVmai580Y6SQnGjcd) | [Last Room](https://open.spotify.com/album/4tPzvYMdlRvpnMlXe8zAbz) | 2:54 | 2023-02-09 | 2026-06-26 |
 | [favorite team](https://open.spotify.com/track/2XVeDs8s7TRzo57wNJ57CA) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow) | [favorite team](https://open.spotify.com/album/228jni392cGj2AFtzMh99u) | 2:34 | 2023-06-13 |  |
 | [Fight Club](https://open.spotify.com/track/7EGFu3hR6VIubhJGr0fSl1) | [Birth Day](https://open.spotify.com/artist/75UKUI7fd2RjNRgy8oaNdt) | [Boyhood](https://open.spotify.com/album/1ghe8W4YxdcimjnpguMQTr) | 1:47 | 2023-02-09 | 2023-05-17 |
 | [fine](https://open.spotify.com/track/02XUvebzfQJZnX96mNxtRK) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [fine](https://open.spotify.com/album/12epqefYQBI4DtmhXBv9tf) | 3:52 | 2023-04-11 |  |
@@ -106,6 +106,7 @@
 | [I cant commit to anything](https://open.spotify.com/track/1yrqu7y4N2e3Ov8ZKjdjVY) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [I cant commit to anything](https://open.spotify.com/album/0rkcrSCvRTjm89O9PfUzvN) | 1:42 | 2023-02-17 | 2023-05-17 |
 | [i heard they found you face down inside your living room](https://open.spotify.com/track/0GBmIoWGlCsBghx7mOE0Ll) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [i heard they found you face down inside your living room](https://open.spotify.com/album/69bjMy1M1LF1IeLraUUY5q) | 3:11 | 2023-02-09 | 2026-03-14 |
 | [i heard you were looking like the moon](https://open.spotify.com/track/4Yw8XKDrmJSMNFqvd8JZJ6) | [Richard Orofino](https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0) | [special](https://open.spotify.com/album/0MCWANJq0mI70BGA7FibFx) | 3:43 | 2024-01-03 |  |
+| [i miss us](https://open.spotify.com/track/3dnWWeTji7jc8XO2UzgcvP) | [SylvanBoy](https://open.spotify.com/artist/0fh3aZtfYAFhyyZb8i6ctp) | [i miss us](https://open.spotify.com/album/2LjhSHzNkepXRZn8j9f4FE) | 1:36 | 2026-06-26 |  |
 | [i miss your warm hands](https://open.spotify.com/track/5Mu5BFHb4vFS5cw0hbDICV) | [i don't like mirrors](https://open.spotify.com/artist/7sZCJvKlrUa5wP3GDnW0ld) | [Not How it's Supposed to be](https://open.spotify.com/album/36tFrKEi71NmEQP8QCnZ4q) | 2:11 | 2024-01-02 |  |
 | [i never should have left this place,](https://open.spotify.com/track/393RcUOsW2tqHYADZO3FMY) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy), [Miranda Rain](https://open.spotify.com/artist/5zb0UmoGI37fw1JM6t6x9c) | [i never should have left this place,](https://open.spotify.com/album/4PBGFTgAT0UgrMkHoZ0cy9) | 2:34 | 2026-06-19 |  |
 | [i saw a flying saucer](https://open.spotify.com/track/52KK3h1WDHJyTtpxWonWuY) | [Bluey](https://open.spotify.com/artist/37cCRAGhoSGepKjv5j7MmI), [ctrl + me](https://open.spotify.com/artist/0nPOjNFDJoXX9PHf3Iar6X) | [i saw a flying saucer](https://open.spotify.com/album/2TwPIqLxI5twxyswNNjTxp) | 2:49 | 2024-04-16 |  |
@@ -215,6 +216,7 @@
 | [Sometimes \(Backwood\)](https://open.spotify.com/track/1ElGmhauttS9p7LwmHG9uM) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sometimes \(Backwood\)](https://open.spotify.com/album/3hdw3AH6dkRpONWlJnotZn) | 2:33 | 2023-02-09 | 2023-05-17 |
 | [song i made up to stop myself from having a panic attack just now \(ft\. rich\)](https://open.spotify.com/track/0LTOpiPy2PahUkpMYLW3JL) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ), [Rich](https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ) | [song i made up to stop myself from having a panic attack just now](https://open.spotify.com/album/7ubczqQBG332NdZGDYdtu0) | 0:41 | 2023-02-09 | 2023-05-17 |
 | [Sorry / happysad](https://open.spotify.com/track/27DoSJFpTdzs6lN0iurC5C) | [Ryan Woods](https://open.spotify.com/artist/2Zgc1KUqd7A9wmQ7mQHuwY) | [King of the Basement](https://open.spotify.com/album/6lxrzoYSxl7Nk7pAQkUe7i) | 6:01 | 2023-04-11 | 2023-07-01 |
+| [Sorry Horse \- Demo](https://open.spotify.com/track/6xXTzCRqE6pFiSfqXlscob) | [No Prospects](https://open.spotify.com/artist/5a8xSiB71udGKpwOJKatKI) | [Sorry Horse \(Demo\)](https://open.spotify.com/album/2z39SzEd8EahNxkKPWK1dU) | 5:21 | 2026-06-26 |  |
 | [sorry i was late](https://open.spotify.com/track/7v2IBScC3KwtTZLbQCDVV7) | [i don't like mirrors](https://open.spotify.com/artist/7sZCJvKlrUa5wP3GDnW0ld) | [miserable false ideas](https://open.spotify.com/album/6zuuNlQ0Hq129yKw1t3ldQ) | 1:43 | 2024-04-16 |  |
 | [spill](https://open.spotify.com/track/6hnS1s3LCpOhIIeutpoGGp) | [shane](https://open.spotify.com/artist/328tDiwMTmuvnBGudZtb4o), [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [spill](https://open.spotify.com/album/5tJVmhPFxlPvt6XBN9lCuW) | 3:56 | 2026-05-08 |  |
 | [SPILL](https://open.spotify.com/track/2KGG4wCYyILicxRazWpFTK) | [STACY OUTRAGEOUS](https://open.spotify.com/artist/2SCaiLKNpndcf4FYvoortL) | [SPILL](https://open.spotify.com/album/5b6XhNME9lNAQiT2NrZzJU) | 2:20 | 2023-06-02 | 2026-03-14 |
@@ -256,7 +258,7 @@
 | [unknown feelings](https://open.spotify.com/track/4zyHmSSneytuFEdU2TbU7w) | [Novulent](https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0) | [unknown feelings](https://open.spotify.com/album/48QTn6JIitxayNxApxcopg) | 2:14 | 2024-05-17 |  |
 | [Velvet River](https://open.spotify.com/track/4uTA2zBDjO3lVrMS9z73i0) | [Night Beds](https://open.spotify.com/artist/533wKOfkJylNSi6ntO1wXd) | [Dear Jewell](https://open.spotify.com/album/6lFVEGdRSY6mRRKnEszHUj) | 4:58 | 2023-04-11 | 2023-06-03 |
 | [Warsh\_Tippy and Zelda](https://open.spotify.com/track/3R0jMlEvot7UYLeulRfl8E) | [Whatever, Dad](https://open.spotify.com/artist/1wMNhhG8VUhDGZ249MZBtn) | [Grade Pending](https://open.spotify.com/album/7yFYYhAYCZpZQV4bA3t7nP) | 4:14 | 2023-02-09 | 2026-03-14 |
-| [WASTE](https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK) | [KXLLSWXTCH](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [DISORDER](https://open.spotify.com/album/3yKGB4IYu6MeLkhFJFn9eI) | 2:00 | 2023-02-09 |  |
+| [WASTE](https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK) | [KXLLSWXTCH](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [DISORDER](https://open.spotify.com/album/3yKGB4IYu6MeLkhFJFn9eI) | 2:00 | 2023-02-09 | 2026-06-26 |
 | [Wasted \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/3jgMjYCfIIYWpRVOlLGcgv) | [Rob Moose](https://open.spotify.com/artist/1NpeO0rYdDwUjtaXMDlb25), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Wasted](https://open.spotify.com/album/65pwAPMorzkvM3JkMe1hUV) | 4:54 | 2023-05-19 | 2023-06-03 |
 | [Weekday/Anything](https://open.spotify.com/track/5Gd3XDWIBPJ0lbFPzavKqS) | [Bedroom](https://open.spotify.com/artist/7COP1HCvVq1cIpZcLQYoNe) | [Thread](https://open.spotify.com/album/4ngbnWenF6xcw6gtZzGOFH) | 6:00 | 2023-05-16 | 2026-05-09 |
 | [weighted blanket](https://open.spotify.com/track/1xKcwqnXbzHF5WXNw1V2GA) | [Thomas Reid](https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo) | [weighted blanket](https://open.spotify.com/album/1VXnRaNRvFA7Q6HqsRqPMd) | 4:24 | 2024-04-16 |  |

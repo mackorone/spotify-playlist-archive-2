@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 
 > Suomen suurin ja paras rock\-soittolista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,426 likes - 99 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,425 likes - 99 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 | 78 | [War Pigs \- Charity Version](https://open.spotify.com/track/14M0JWFCnsKNGSvzDn0j6q) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I), [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [War Pigs \(Charity Version\)](https://open.spotify.com/album/4YeoFXF8LyFRSHm6LhUHGf) | 8:04 |
 | 79 | [Dionysus](https://open.spotify.com/track/16oBX63zAQRkNeNa2SDYo1) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [King Of Terrors](https://open.spotify.com/album/5ea5VKYvbGuPNKEJjDm25t) | 3:02 |
 | 80 | [For I Am Death](https://open.spotify.com/track/3K85nEutdOPbJuAJgoe2O4) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [For I Am Death](https://open.spotify.com/album/7LnfxsUCMGkJfwQm969CKM) | 3:39 |
-| 81 | [Raveyard \(feat\. Käärijä\)](https://open.spotify.com/track/2GJVCzNulP71igNkJtJ9ZO) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI), [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Raveyard](https://open.spotify.com/album/301WuaWtWbDOlsAih6cITQ) | 3:45 |
+| 81 | [Raveyard](https://open.spotify.com/track/2GJVCzNulP71igNkJtJ9ZO) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI), [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Raveyard](https://open.spotify.com/album/301WuaWtWbDOlsAih6cITQ) | 3:45 |
 | 82 | [More!](https://open.spotify.com/track/4HHCuXfrlsqL5yffcovuvV) | [Sweatmaster](https://open.spotify.com/artist/2GhrB6KvD9FsgG81kMsD89) | [More!](https://open.spotify.com/album/054mt69QQ9YElS19c2bYOf) | 3:41 |
 | 83 | [From the Bottom of My Heart](https://open.spotify.com/track/5lzUEsc8znqAzlBVewkony) | [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [Come Hell, Come High Water](https://open.spotify.com/album/7mczEKzLUFG5OuNJWB07KI) | 3:10 |
 | 84 | [Diamond In The Rough \(feat\. Marty Friedman\)](https://open.spotify.com/track/09wFyfVHuZRDbeFqeKeutK) | [Danko Jones](https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW), [Marty Friedman](https://open.spotify.com/artist/5czW6bitDSKbNBNDizRT9p) | [Diamond In The Rough](https://open.spotify.com/album/2sPtH5hMN0cH2ZHSfDLoIf) | 3:36 |

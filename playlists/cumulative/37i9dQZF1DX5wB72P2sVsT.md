@@ -2,9 +2,9 @@
 
 ### [BANGER](https://open.spotify.com/playlist/37i9dQZF1DX5wB72P2sVsT)
 
-> Dimitri Vegas & Like Mike x Marlon Hoffstadt au top des bangers dance/electro du moment !
+> Ofenbach au top des bangers dance/electro du moment !
 
-365 songs - 16 hr 52 min
+366 songs - 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Disconnected](https://open.spotify.com/track/0elPKqkYWPPuhpaKAj1fPP) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Disconnected](https://open.spotify.com/album/4VQAVGBcC2gPvo3CyLlgrT) | 2:42 | 2023-11-09 | 2023-12-01 |
 | [Dive Into Me](https://open.spotify.com/track/2y3qIbsaOPaj0xKv20rbOQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Dive Into Me](https://open.spotify.com/album/4wXWmSfJIQerp2UJ2K0wEa) | 2:46 | 2026-05-14 |  |
 | [DNA \(Loving You\) \[feat\. Hannah Boleyn\]](https://open.spotify.com/track/6ibDVMcMUNqZ5eXT9sD4Vy) | [Billy Gillies](https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [DNA \(Loving You\) \[feat\. Hannah Boleyn\]](https://open.spotify.com/album/6chhPL4qq4x8IEkvEDTL3R) | 2:44 | 2023-12-21 | 2024-06-15 |
+| [DNA \(More Than A Game\)](https://open.spotify.com/track/40qwbrvCXsiOPh9xOupCMp) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [DNA \(More Than A Game\) \[FIFA World Cup 2026™\]](https://open.spotify.com/album/53oXeqv93oxxcJwFt3fjH5) | 2:56 | 2026-06-25 |  |
 | [Don't Leave \- Kylie](https://open.spotify.com/track/3TcF1tFvOdhTUMIaCRBFbN) | [Akcent](https://open.spotify.com/artist/57Pw3FSi1qi2fOY4wKOKjK), [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE), [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp) | [Don't Leave \(Kylie\)](https://open.spotify.com/album/3fr8O4xvV0CCAipaAkF8ZS) | 3:08 | 2025-11-13 | 2026-01-15 |
 | [Don't Stop \(I Wanna Know\)](https://open.spotify.com/track/0GaelwSoQDKjwoE16jxwNo) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Don't Stop \(I Wanna Know\)](https://open.spotify.com/album/0CjeKexsHa6yFv7X43qJ4d) | 2:39 | 2024-12-12 | 2025-03-14 |
 | [Don't Wake Me Up](https://open.spotify.com/track/3sU1L9okYWbN61oHZNQTfh) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Don't Wake Me Up](https://open.spotify.com/album/3j5uOXYCe6ebHU86UcAMAg) | 2:34 | 2025-04-17 | 2025-08-08 |
@@ -350,7 +351,7 @@
 | [WACUKA](https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [WACUKA](https://open.spotify.com/album/4kPcAubNH1FbdaFkoEsALw) | 3:10 | 2025-02-13 | 2025-09-19 |
 | [Wahejo](https://open.spotify.com/track/1QSZ1UM7skGd6gpNKAf42v) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Wahejo](https://open.spotify.com/album/5Ah7Urq5kw7C9wtw0sSnRQ) | 2:25 | 2025-11-13 | 2026-03-27 |
 | [Wait So Long \(Why Do I Have To\)](https://open.spotify.com/track/1UlkpIKiVchDMB03AN6LmT) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Wait So Long \(Why Do I Have To\)](https://open.spotify.com/album/4iJYUempAYp2xtPrUX5qKl) | 3:19 | 2025-07-24 | 2026-02-20 |
-| [Walked Away](https://open.spotify.com/track/1k7SaOwbrIuGJZGXhCnoi8) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7) | [Walked Away](https://open.spotify.com/album/6cvgQwNKooq6BRqkHwV05v) | 2:54 | 2026-03-12 |  |
+| [Walked Away](https://open.spotify.com/track/1k7SaOwbrIuGJZGXhCnoi8) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7) | [Walked Away](https://open.spotify.com/album/6cvgQwNKooq6BRqkHwV05v) | 2:54 | 2026-03-12 | 2026-06-26 |
 | [Walking Away \(Infinity\)](https://open.spotify.com/track/74U0wa3qRWRmEtxlpIL17I) | [Matway](https://open.spotify.com/artist/5okL9oHMW5wof7D0x2hQLQ), [June](https://open.spotify.com/artist/0j4sh69ln8Ga7IrQxIoxP5) | [Walking Away \(Infinity\)](https://open.spotify.com/album/2NQXrwAkAvrjoPT537SfI2) | 2:23 | 2025-02-06 | 2025-10-03 |
 | [Walking On A Dream \(Resurrection\)](https://open.spotify.com/track/0yfyF16cCITZcWsIF4oGZs) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43) | [Walking On A Dream \(Reimagined\)](https://open.spotify.com/album/5Bh3jkdfh2bp6KXiQq4yQp) | 2:56 | 2025-11-06 | 2026-04-24 |
 | [Wanna Be Loved \(feat\. PollyAnna\)](https://open.spotify.com/track/4JQQF7uU5LEc5aubbkvA2K) | [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq), [FDVM](https://open.spotify.com/artist/6J0Y4CoGMKL5RyeozHnVKl), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [Wanna Be Loved \(feat\. PollyAnna\)](https://open.spotify.com/album/1yzDhFOZhvCL0Bah2G2Ge9) | 2:30 | 2024-03-22 | 2024-06-15 |

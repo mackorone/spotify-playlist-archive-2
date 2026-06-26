@@ -4,7 +4,7 @@
 
 > Ultimate 101 Punjabi Hits with Navaan Sandhu
 
-595 songs - 1 day 6 hr 18 min
+596 songs - 1 day 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -429,6 +429,7 @@
 | [Psycho](https://open.spotify.com/track/4xMC6iIBZRWhNcbo4s16xK) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [Pleasures](https://open.spotify.com/album/0JLiQngguKQOq3tntZn1xg) | 2:42 | 2023-07-05 | 2023-08-04 |
 | [Punjab Wal Nu](https://open.spotify.com/track/1Qv3awph0oazuf0t9SJw6z) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX), [Ricky Khan](https://open.spotify.com/artist/5QcmkDotvADr6cAYDdlRZQ) | [Timeless](https://open.spotify.com/album/5qq6snxXXNJ73QSaUF9PLC) | 4:15 | 2025-09-05 | 2026-06-13 |
 | [Punjaban](https://open.spotify.com/track/1IP2G9KlWwT9xw1OlGf6Pd) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS), [Kahlon](https://open.spotify.com/artist/6rHyVOJFRsLEOo1aOd2zQG) | [By Any Means](https://open.spotify.com/album/4Gn0Jhsoq3Q0a5TtoSb35D) | 2:57 | 2025-05-02 | 2026-02-21 |
+| [Putt Jam Te Lau](https://open.spotify.com/track/5Cri5X3u4On71cGDGeNNiD) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A), [Jenny Johal](https://open.spotify.com/artist/7wM3DMc1NCh9sjDrUf3QOd) | [Majhaestic](https://open.spotify.com/album/0Rfydlvsbf9JRARoPfaj3v) | 3:46 | 2026-06-26 |  |
 | [Putt Jatt Da](https://open.spotify.com/track/0xffKEAFkJB8ZWt0w38YAn) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Putt Jatt Da](https://open.spotify.com/album/5RuqCvnNgBn5VUzm05EtlD) | 2:35 | 2025-04-18 |  |
 | [Putt Sardara De](https://open.spotify.com/track/4E0ytkzNm1H6HCtMhroi8c) | [Davvy](https://open.spotify.com/artist/1vGOnQzBvNbdaaYBYzsU3z) | [Putt Sardara De](https://open.spotify.com/album/3Nil2VHLzpRrQ1HtInBsYi) | 2:13 | 2022-12-10 | 2022-12-22 |
 | [Qatal](https://open.spotify.com/track/5FDVyL6VahLO3B4T7xRYD9) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo), [Gill Machhrai](https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE) | [WITHOUT PREJUDICE](https://open.spotify.com/album/1wspMsQ2eMXqo5gs6vEHzi) | 2:51 | 2025-05-02 | 2025-10-18 |
@@ -601,7 +602,7 @@
 | [You & Me](https://open.spotify.com/track/5DKaO8NUYB0nIThR0dw7xy) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [AURA](https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT) | 2:59 | 2025-10-24 | 2025-11-29 |
 | [You and Me](https://open.spotify.com/track/4thOONDx78zsY8sHGfU1M2) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Leo](https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2) | 2:52 | 2024-01-04 | 2024-06-01 |
 | [You Talking To Me?](https://open.spotify.com/track/668vJMj83AqV0E2oMFKsiQ) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Trip Beats](https://open.spotify.com/artist/7tDPPascbZXHqvtye9tXrb) | [You Talking To Me?](https://open.spotify.com/album/6iG71uFCXUH91vFqaWFY58) | 2:20 | 2023-08-24 | 2023-09-21 |
-| [Your Thoughts](https://open.spotify.com/track/3nHvjtxxRUXrOQShq6pK6U) | [Nav Singh](https://open.spotify.com/artist/6mzlZZrpYoA0g1m1jbNwMs), [Dachamp](https://open.spotify.com/artist/0e8t6R4kX3xMeMUMB2HL7Z), [Arjan Gill](https://open.spotify.com/artist/7oIh6B3tsRWnIkeX1ZdJyy) | [Your Thoughts](https://open.spotify.com/album/2wLYm5FVxuymjnyJtizaD8) | 3:02 | 2026-05-22 |  |
+| [Your Thoughts](https://open.spotify.com/track/3nHvjtxxRUXrOQShq6pK6U) | [Nav Singh](https://open.spotify.com/artist/6mzlZZrpYoA0g1m1jbNwMs), [Dachamp](https://open.spotify.com/artist/0e8t6R4kX3xMeMUMB2HL7Z), [Arjan Gill](https://open.spotify.com/artist/7oIh6B3tsRWnIkeX1ZdJyy) | [Your Thoughts](https://open.spotify.com/album/2wLYm5FVxuymjnyJtizaD8) | 3:02 | 2026-05-22 | 2026-06-26 |
 | [Zaroor](https://open.spotify.com/track/5thVzD79BxlDTYy0LfHzvu) | [Aparshakti Khurana](https://open.spotify.com/artist/2UWTNi6LLK5lXNGzFWzIqT), [Savi Kahlon](https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP) | [Zaroor](https://open.spotify.com/album/62yJN1YiKoDvXSrSdiXC13) | 2:55 | 2024-08-02 | 2025-05-17 |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

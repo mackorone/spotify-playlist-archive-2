@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: رامي صبري
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,015 likes - 94 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,038 likes - 94 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 22 | [حبايبنا](https://open.spotify.com/track/2QILQaW4Y6g3VrutWaegFG) | [Ahmed Nafea](https://open.spotify.com/artist/1tf8Q3S4asM4mbHrrjJ9dH), [Eslam Saso](https://open.spotify.com/artist/5wqG0tvzxTrS4iGciGGIDk), [G\. Oka](https://open.spotify.com/artist/6EZ1sLlOJzgFJzfWUnF0Py) | [حبايبنا](https://open.spotify.com/album/00lrBY1Om9ipUnS0w6RktN) | 2:15 |
 | 23 | [عجيبة الدنيا دي](https://open.spotify.com/track/1PJFgWD6Zr1IXxAjycSI6X) | [Mostafa Shawky](https://open.spotify.com/artist/69HsaYqqbiG8d3LxNdlvM7) | [عجيبة الدنيا دي](https://open.spotify.com/album/7esPOdGjFFSa2AtmE8O1YF) | 3:33 |
 | 24 | [Nawy](https://open.spotify.com/track/0t3rYIhw5fTD56jM9HaDa6) | [Jimzz](https://open.spotify.com/artist/0BcipBvCuUkO9pn3Ln1fKp) | [Nawy](https://open.spotify.com/album/7LqsUsMNb71NVWP6MlkXIL) | 3:08 |
-| 25 | [Youm B Youmoh](https://open.spotify.com/track/6zrzpivNn0rl58sv3hPYAF) | [Zap Tharwat](https://open.spotify.com/artist/3yLKIh0kKryfCRygWN5wFv), [Houda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH), [Maher El Mallakh](https://open.spotify.com/artist/0t0o72DPDZpHBGARIzcqau) | [Youm B Youmoh](https://open.spotify.com/album/17hlSsIomoHJSUn41sB4m4) | 5:08 |
+| 25 | [Youm B Youmoh](https://open.spotify.com/track/6zrzpivNn0rl58sv3hPYAF) | [Zap Tharwat](https://open.spotify.com/artist/3yLKIh0kKryfCRygWN5wFv), [Houda](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH), [Maher El Mallakh](https://open.spotify.com/artist/0t0o72DPDZpHBGARIzcqau) | [Youm B Youmoh](https://open.spotify.com/album/17hlSsIomoHJSUn41sB4m4) | 5:08 |
 | 26 | [Bas’al Leh](https://open.spotify.com/track/4DsbxVe2t7G2QjATwEpo7s) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [Hazem Hany](https://open.spotify.com/artist/594Y1kYl6zWzdfwHaanUuP) | [Bas’al Leh](https://open.spotify.com/album/671vWo8wnt1OyqawSf5go0) | 2:38 |
 | 27 | [Fe Heta Tanya](https://open.spotify.com/track/3DuBXrFPHQhnyYHDLF1I8G) | [عطار](https://open.spotify.com/artist/0qYgCdqD3rVSoguhaDGGWZ) | [Fe Heta Tanya](https://open.spotify.com/album/0EXkKIsqTXRBG07IJ55k8m) | 2:00 |
 | 28 | [Therapy](https://open.spotify.com/track/78ZwA2gv2dKj92FqY3CwrU) | [Samar Tarik](https://open.spotify.com/artist/4WGpAuX9toAVyVL38o5wA0) | [Therapy](https://open.spotify.com/album/4I5mHJeEcs9QcTfxHUwWfk) | 3:18 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 74 | [El 2ashash](https://open.spotify.com/track/3VXtEgJBlQsd3baHXCU6zz) | [Dallo](https://open.spotify.com/artist/04xF9pcBH9WrpWbpMHmPIG) | [Mahragan El Qahera El Dawly](https://open.spotify.com/album/6UxCN5Ic5AKjQgwuZCo9Qd) | 2:16 |
 | 75 | [لم ينجح أحد إلا أنا \(من فيلم برشامة\)](https://open.spotify.com/track/7ogDvUMbOXazxNvPbQijlE) | [Muslim](https://open.spotify.com/artist/2jOaCmspCCEhX27gTNSxnD) | [لم ينجح أحد إلا أنا \(من فيلم برشامة\)](https://open.spotify.com/album/7LjYtidWKIqpUojMcw9NY2) | 2:40 |
 | 76 | [2X1 \- From EgyBest Movie: The Soundtrack](https://open.spotify.com/track/6l6QI2lb4nvClUuDH4iBgh) | [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN), [HADY MOAMER](https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD) | [2X1 \(From EgyBest Movie: The Soundtrack\)](https://open.spotify.com/album/6WjbI2F6HOtWWhYpQ5usXc) | 3:18 |
-| 77 | [الدلع والانبساط](https://open.spotify.com/track/6oRPhqLz04EvOEutc6Byms) | [Houda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [الدلع والانبساط](https://open.spotify.com/album/0Q0jRz0dNVTMTky344V665) | 2:47 |
+| 77 | [الدلع والانبساط](https://open.spotify.com/track/6oRPhqLz04EvOEutc6Byms) | [Houda](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [الدلع والانبساط](https://open.spotify.com/album/0Q0jRz0dNVTMTky344V665) | 2:47 |
 | 78 | [سر سعادتي \(من مسلسل علي كلاي\)](https://open.spotify.com/track/4A4WhP3xYQbENo8WaaCkTt) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [سر سعادتي \(من مسلسل علي كلاي\)](https://open.spotify.com/album/5PzCvdbFNPScafDmRFxwpC) | 3:54 |
 | 79 | [الشيله وقعت من مسلسل على كلاى](https://open.spotify.com/track/616hWRC1yQfaAQAwSqsqpz) | [Rahma Mohsen](https://open.spotify.com/artist/6TCllXW2SWfhcUzBOOGTLD) | [الشيله وقعت من مسلسل على كلاى](https://open.spotify.com/album/1aBBCdL7IiSu6bpBCUZH2h) | 3:15 |
 | 80 | [عين سحرية](https://open.spotify.com/track/0pTxrkqqHSVCsuHS9NhaH5) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [عين سحرية](https://open.spotify.com/album/2imB9na6sN3WCbz49IuBY0) | 3:21 |
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 88 | [ليه ساكت](https://open.spotify.com/track/20uP3IkHHLVZAylFRTI6Mz) | [Shaimaa El Maghraby](https://open.spotify.com/artist/2JVy6Z1pDdqDfTtZ03ePE9) | [ليه ساكت](https://open.spotify.com/album/2Dhhr4Ru2KvnCoT37aaZYx) | 2:46 |
 | 89 | [Fi Orbek](https://open.spotify.com/track/0BecoILE3PujvJoNQVCMdA) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [Fi Orbek](https://open.spotify.com/album/6Rl5D9or89YnfC8gnsDTRw) | 3:10 |
 | 90 | [اهدى](https://open.spotify.com/track/5JlTukGLAu97KMeIz9EdCM) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [احكي \(الوجه الأول\)](https://open.spotify.com/album/4Uu12iDqBd2oruxXKXnmMi) | 3:32 |
-| 91 | [ليالي](https://open.spotify.com/track/08n1F8ynr4eA4jNU3Tmy0U) | [Houda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [ليالي](https://open.spotify.com/album/0YwagiIzN9YjmQWAK6XvCk) | 3:41 |
+| 91 | [ليالي](https://open.spotify.com/track/08n1F8ynr4eA4jNU3Tmy0U) | [Houda](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [ليالي](https://open.spotify.com/album/0YwagiIzN9YjmQWAK6XvCk) | 3:41 |
 | 92 | [Ya Sater](https://open.spotify.com/track/3NHYBkPCKgfkBSbMkDHfwm) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Ya Sater](https://open.spotify.com/album/6TSZl2sZNam45djO6xSaxF) | 2:42 |
 | 93 | [فانز ويجز](https://open.spotify.com/track/0myIkZFauSARND6gPOwFxC) | [ABOHEIF OG](https://open.spotify.com/artist/0Lujy9z5AUL3ul70bTtATy) | [فانز ويجز](https://open.spotify.com/album/39mdNIPCnX5sOylmD7jfP2) | 2:08 |
 | 94 | [Khatem](https://open.spotify.com/track/1w6mPvHNGNEZak2BG3rmde) | [Zaid Khaled](https://open.spotify.com/artist/5z3HM8XrdwIb4AcyMMHj4r), [Ahmed Diaa](https://open.spotify.com/artist/4lO4iNwFLpdjj2JRTJlFyy) | [Sahar El Layaly](https://open.spotify.com/album/56gWCUI6fu5HsJ8G613ogP) | 2:22 |

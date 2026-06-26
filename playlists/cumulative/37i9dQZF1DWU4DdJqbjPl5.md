@@ -2,9 +2,9 @@
 
 ### [afro&b ](https://open.spotify.com/playlist/37i9dQZF1DWU4DdJqbjPl5)
 
-> Intersection of R&B and afrobeats\. Cover:  Tyla
+> Intersection of R&B and afrobeats\. Cover:  Africaine
 
-582 songs - 1 day 6 hr 26 min
+585 songs - 1 day 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Don't Go Far](https://open.spotify.com/track/33qLiRPjkus5clxQvBBLgW) | [Falana](https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj) | [Don't Go Far](https://open.spotify.com/album/1ujn7USDCKuolHuK5UE8Fn) | 3:18 | 2026-05-08 |  |
 | [Don't Lie](https://open.spotify.com/track/4PjUTGWC6hQJ84zQQOMkWk) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Summer Breeze](https://open.spotify.com/album/2YZpIbvbQ8XSJbak4KeocR) | 2:36 | 2023-06-08 | 2024-08-02 |
 | [DON'T LOVE ME](https://open.spotify.com/track/5uJaS8bZL8pSaTiVOM62cj) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [DON'T LOVE ME](https://open.spotify.com/album/6ko11fruKOL5nq8WiQH6L9) | 3:01 | 2026-02-06 |  |
+| [Don't Say the Words](https://open.spotify.com/track/0N1QCR8ixCrfJq61xeNoot) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Don't Say the Words](https://open.spotify.com/album/4iwWHgHZQ3yZUzOH6wVFBr) | 3:31 | 2026-06-26 |  |
 | [Doorstep](https://open.spotify.com/track/3z9mt4k1wRSkHmBDfqUqIr) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Zzero Sufuri](https://open.spotify.com/artist/46LcXz6xUVZWnQILSNgLT7) | [Doorstep](https://open.spotify.com/album/2KqhIundDwNL9zo85Dj6d4) | 3:54 | 2022-04-21 | 2022-07-08 |
 | [Dopamine](https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Dopamine](https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz) | 2:51 | 2025-07-25 | 2026-05-01 |
 | [Dreams](https://open.spotify.com/track/5aDbyGU5A2TScEkKczGVUM) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Dreams](https://open.spotify.com/album/184CyMEhWh2T7O32DlVucH) | 3:06 | 2023-11-17 | 2024-11-16 |
@@ -168,6 +169,7 @@
 | [Fashion Killer](https://open.spotify.com/track/3R2Etej4zzbt8LTs3rvJA1) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 2:57 | 2021-08-06 | 2023-09-22 |
 | [Favorite](https://open.spotify.com/track/4Aw9OJJDJFCbVlVBAb0EdM) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Favorite](https://open.spotify.com/album/7LcNdnjDCwb9SLjDxi2FPP) | 4:19 | 2026-04-03 | 2026-05-08 |
 | [Fear Nothing](https://open.spotify.com/track/7LvmSzawlp43aFDK6PddO5) | [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [INNER WARRIOR](https://open.spotify.com/album/2abEx97wj9sM4Vs81d1rYM) | 3:28 | 2023-02-03 | 2023-02-17 |
+| [Feel Am](https://open.spotify.com/track/7yzAJ1TZp7unjQGwOgE6Fi) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [ATOM II](https://open.spotify.com/album/6RvwiBdC6WFuKyQuc7FE86) | 2:37 | 2026-06-26 |  |
 | [Feels](https://open.spotify.com/track/2WE7yrbVF47nEmMkWCRwHd) | [OCHÉ](https://open.spotify.com/artist/0syn1OL9u8k1x9gEnNLt6X) | [Feels](https://open.spotify.com/album/4eziN2ydqDpZ2zNjr2ZWmD) | 2:17 | 2023-04-20 | 2023-05-26 |
 | [FIND A WAY](https://open.spotify.com/track/76uERg3iGnf13tuoRoUSxD) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [WONDERFUL](https://open.spotify.com/album/1o1RAIZnKujAlFqJtyaYq4) | 3:40 | 2025-09-05 | 2025-10-10 |
 | [fine ting \(fine $hit\)](https://open.spotify.com/track/06fhryffT3VPtv8v8r8EPK) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [fine ting \(fine $hit\)](https://open.spotify.com/album/2OF9E4AIW98RK4yuybtaRa) | 3:15 | 2026-05-18 |  |
@@ -200,6 +202,7 @@
 | [Girl Next Door](https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Girl Next Door](https://open.spotify.com/album/1FLS0YAOPY3Mcb0o5n5fl4) | 3:00 | 2023-05-11 | 2024-05-17 |
 | [GIRLFRIEND](https://open.spotify.com/track/19jskaQ5MXGGMmaqQowfVS) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [GIRLFRIEND](https://open.spotify.com/album/3nsAiu8BlehnoIwlJIwbRy) | 4:19 | 2026-04-03 | 2026-06-19 |
 | [Give A Little Kindness](https://open.spotify.com/track/7JrYr89YEIGwWqiEFUlSvj) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Seasons](https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ) | 2:44 | 2023-03-30 | 2024-04-26 |
+| [Give It Away](https://open.spotify.com/track/7iRTgiAcZ351tKhIrNYwqz) | [Africaine](https://open.spotify.com/artist/1zS57YVtuOi5HChrk22mT7), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [For Me, This Time](https://open.spotify.com/album/2JF5YNoayMQ40NLPCtaOi9) | 2:02 | 2026-06-26 |  |
 | [Give Me Love](https://open.spotify.com/track/5XUZN3xXUYEXAKwV5O8I0x) | [Ally Jordan](https://open.spotify.com/artist/3E38IZrADn8V282z6ydx8S) | [Give Me Love](https://open.spotify.com/album/0q7P39Z2s5LFSrhhaB7dM4) | 3:30 | 2021-03-25 | 2023-03-04 |
 | [Give Me Something \(feat\. Rowlene\)](https://open.spotify.com/track/5cRuXf4RQjrNEGkTVNlBrv) | [Sha Sha](https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT), [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P) | [Give Me Something \(feat\. Rowlene\)](https://open.spotify.com/album/4beeF1a8TR0ZAmHGbVmcjV) | 2:44 | 2022-08-25 | 2022-11-04 |
 | [Glory](https://open.spotify.com/track/1wQzfGryAzTNKSeDyBcP1z) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Glory](https://open.spotify.com/album/4hT9e7lkQ6lbXP1QHW35pZ) | 2:38 | 2025-06-20 | 2025-11-07 |
@@ -513,7 +516,7 @@
 | [till forever ends](https://open.spotify.com/track/2ZVOWgbP2Nj76kctTF1jjX) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [little messages](https://open.spotify.com/album/7hDzyjqHrig751Igo5ebvN) | 2:56 | 2023-08-25 | 2023-09-15 |
 | [Time Of My Life](https://open.spotify.com/track/6DUINi3VBEZVCpFwyabLEO) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Good Old Days](https://open.spotify.com/album/5Al1lKbE9sfZD21V5gnnYR) | 3:47 | 2024-01-26 | 2024-06-07 |
 | [Tiny Apartment](https://open.spotify.com/track/23i0NB9OBq8S1Haizx1rQY) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [Stubborn](https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc) | 3:40 | 2024-06-21 | 2025-10-17 |
-| [TNGHT](https://open.spotify.com/track/5oWZFpX95oaCZ69WWZNZzc) | [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9) | [SAY Yours](https://open.spotify.com/album/5AIArg9AYwFRfvjh6QPkyv) | 2:45 | 2026-05-29 |  |
+| [TNGHT](https://open.spotify.com/track/5oWZFpX95oaCZ69WWZNZzc) | [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9) | [SAY Yours](https://open.spotify.com/album/5AIArg9AYwFRfvjh6QPkyv) | 2:45 | 2026-05-29 | 2026-06-26 |
 | [To Last](https://open.spotify.com/track/10aCY2jJFNYGf9qpiN2LZy) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [To Last](https://open.spotify.com/album/00RMnS3psKLla6O7sYp8mB) | 2:56 | 2022-11-04 | 2024-02-09 |
 | [Tolo \(Faut m'oublier\)](https://open.spotify.com/track/2oxnEx8bPoKUbcIqpfmJZZ) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [Tolo \(Faut m'oublier\)](https://open.spotify.com/album/2Ay0zPbqsIp2IwmvHiBtp3) | 2:49 | 2024-05-03 | 2024-05-10 |
 | [Tonight](https://open.spotify.com/track/3pmtkeRPl7UNK389EC8lvS) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Tonight](https://open.spotify.com/album/6orgHTkhJhUseTwtujjvmz) | 1:40 | 2024-08-15 | 2025-09-19 |
@@ -552,7 +555,7 @@
 | [Walk Away](https://open.spotify.com/track/3qpvQqhd8fLkTv9BsZmpGJ) | [Nneka](https://open.spotify.com/artist/0VX4MyYhvKRtU1AZUVGLUZ) | [Love Supreme](https://open.spotify.com/album/0Erpf9zdbahSonL0cQ0NC6) | 3:01 | 2022-02-11 | 2022-04-22 |
 | [Wasted Eyes](https://open.spotify.com/track/7dEXXV4xk5OpEdswCWC3GX) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:28 | 2023-06-08 | 2024-06-28 |
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-07-28 | 2024-03-22 |
-| [Wema](https://open.spotify.com/track/0E15zmK9lBCInCo576aeDD) | [nk\_njoroge](https://open.spotify.com/artist/306o9lJc6Kl3fBopcMGWm6) | [Wema](https://open.spotify.com/album/2q7OrlfGsSKKZTgpTsaeB7) | 2:23 | 2026-05-08 |  |
+| [Wema](https://open.spotify.com/track/0E15zmK9lBCInCo576aeDD) | [nk\_njoroge](https://open.spotify.com/artist/306o9lJc6Kl3fBopcMGWm6) | [Wema](https://open.spotify.com/album/2q7OrlfGsSKKZTgpTsaeB7) | 2:23 | 2026-05-08 | 2026-06-26 |
 | [Wetin \- Remix](https://open.spotify.com/track/58oOh7vBW4fXtZfmuNKRtT) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd), [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [Wetin \(Remix\)](https://open.spotify.com/album/1tDDrZpSeQuI3CWNhYhfkE) | 2:00 | 2025-03-28 | 2025-04-26 |
 | [What Have You Done?](https://open.spotify.com/track/5xvRXXVYOketwpYA39Dfrm) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8) | [What Have You Done?](https://open.spotify.com/album/3G7drc03HfTHoIVCUJ8m11) | 3:28 | 2023-05-25 | 2023-11-21 |
 | [What If](https://open.spotify.com/track/0UVfLdHAjqb6yHWqh3mE8F) | [Gabbae](https://open.spotify.com/artist/4PfHsJPWAK9UOCQ562F0Hx), [AUGUST IV](https://open.spotify.com/artist/0rSI47DldAq15E6L5pUH6T) | [What If](https://open.spotify.com/album/1F1xPCXUJz295NiQLMpiJ0) | 3:05 | 2026-04-03 | 2026-05-19 |
@@ -567,7 +570,7 @@
 | [Wickedest](https://open.spotify.com/track/3XD2WOmair7ks4u65FTL4v) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Wickedest](https://open.spotify.com/album/35lLMH1ugTDYOJHQYuQjM2) | 3:15 | 2022-07-22 | 2023-02-24 |
 | [Wickedest \(feat\. Haile\)](https://open.spotify.com/track/4BDCfO09NqfpGM9cbFi9Ef) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Wickedest \(feat\. Haile\)](https://open.spotify.com/album/6aVTmJn2zZCjRnTX50aV65) | 3:15 | 2022-07-22 | 2022-10-14 |
 | [Wild Ride \- A COLORS SHOW](https://open.spotify.com/track/4Ypa7u8GYWX0u0wP5wntsU) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Wild Ride \- A COLORS SHOW](https://open.spotify.com/album/4amcd3oEcwScFQDtGjSaQR) | 2:42 | 2023-10-25 | 2024-10-26 |
-| [Wildfire](https://open.spotify.com/track/5havOQ4fTGftcDsg4LyWKc) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [For All The Right Reasons Vol\. 1](https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN) | 3:11 | 2026-04-03 |  |
+| [Wildfire](https://open.spotify.com/track/5havOQ4fTGftcDsg4LyWKc) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [For All The Right Reasons Vol\. 1](https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN) | 3:11 | 2026-04-03 | 2026-06-26 |
 | [Wildin'](https://open.spotify.com/track/5laEZ8aZUdmjqw41FwvNHa) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Asali \(Sweeter\)](https://open.spotify.com/album/0aReDNKvPUMsV5OchEnX4R) | 3:01 | 2023-10-20 | 2024-04-05 |
 | [Winter & Summer](https://open.spotify.com/track/3a7rELDtWE9gb6DBwxsNPt) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Winter & Summer](https://open.spotify.com/album/73Z3iEJZUJxplEjmD5UZkw) | 3:14 | 2025-01-24 | 2025-11-14 |
 | [with u](https://open.spotify.com/track/5hyte9fMz1uZvfj1Vgz2rY) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d) | [IV](https://open.spotify.com/album/1cs2NpUBHmIyG4eJTOyxYp) | 2:41 | 2022-07-22 | 2022-08-13 |

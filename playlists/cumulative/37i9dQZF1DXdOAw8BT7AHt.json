@@ -1127,6 +1127,24 @@
     },
     {
       "album": {
+        "name": "Baby I'll Change",
+        "url": "https://open.spotify.com/album/1Z00Wymu647hblP4MCcbyN"
+      },
+      "artists": [
+        {
+          "name": "Fiddlehead",
+          "url": "https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262893,
+      "name": "Baby I'll Change",
+      "url": "https://open.spotify.com/track/6hsAyc0XTNEQ6FFq7JGEOE"
+    },
+    {
+      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/4h2iTWNASAecNc26mPncPx"
       },
@@ -2807,6 +2825,24 @@
     },
     {
       "album": {
+        "name": "Who Will Look After The Dogs?",
+        "url": "https://open.spotify.com/album/5wTc5JHsIufcPGetKKnrlv"
+      },
+      "artists": [
+        {
+          "name": "PUP",
+          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183024,
+      "name": "Concrete",
+      "url": "https://open.spotify.com/track/3krrOD1ChbVQ4gYnh4CsAe"
+    },
+    {
+      "album": {
         "name": "CONSTANT TENSION",
         "url": "https://open.spotify.com/album/1iV9MAhNCLtM2d9X6FTqZ6"
       },
@@ -3730,7 +3766,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 251562,
       "name": "Doves",
       "url": "https://open.spotify.com/track/6wPjsL8ie3M8n0aLM59bDh"
@@ -4408,7 +4444,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 212960,
       "name": "Fast Forward, Rewind",
       "url": "https://open.spotify.com/track/5SM45bUFDAvjXenEQO569u"
@@ -6220,7 +6256,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 139040,
       "name": "i know computer",
       "url": "https://open.spotify.com/track/6BkoN5C3zXneLNa4nciVQn"
@@ -8057,6 +8093,28 @@
     },
     {
       "album": {
+        "name": "Melted Heart",
+        "url": "https://open.spotify.com/album/4GG0YZevLhBEhzOnSSKr6H"
+      },
+      "artists": [
+        {
+          "name": "Evil Island",
+          "url": "https://open.spotify.com/artist/1ZqAGxTUQNbBh00YLuuQoP"
+        },
+        {
+          "name": "Alexis Krauss",
+          "url": "https://open.spotify.com/artist/6pTmRTTfo3kOe9qaN9IQFD"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133320,
+      "name": "Melted Heart",
+      "url": "https://open.spotify.com/track/0dUo5PVIXQPdj1B6o4Ojal"
+    },
+    {
+      "album": {
         "name": "Menace/Burn Forever",
         "url": "https://open.spotify.com/album/5gBse4SykL0eYCMdqTDCGt"
       },
@@ -9580,6 +9638,24 @@
       "duration_ms": 186707,
       "name": "Piece of Me",
       "url": "https://open.spotify.com/track/4WlZkSjQ0ZJlZfhwVcQmXB"
+    },
+    {
+      "album": {
+        "name": "Probable Claws",
+        "url": "https://open.spotify.com/album/1TZBW8hazyoaxuFXI6tcU7"
+      },
+      "artists": [
+        {
+          "name": "Sincere Engineer",
+          "url": "https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211893,
+      "name": "Pilot Light",
+      "url": "https://open.spotify.com/track/24HILc3OqEmHTzspI3k6pe"
     },
     {
       "album": {
@@ -12660,7 +12736,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 210895,
       "name": "Tiger Baby",
       "url": "https://open.spotify.com/track/0syJlVaGHirnvF6W6GLVeA"

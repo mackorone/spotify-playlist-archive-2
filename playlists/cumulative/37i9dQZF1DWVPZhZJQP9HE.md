@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sarah Black
 
-794 songs - 1 day 22 hr 44 min
+795 songs - 1 day 22 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -501,7 +501,7 @@
 | [Oh Azhagae, Pt\. 1](https://open.spotify.com/track/2YY7HsQbmERN99mfnUsrGA) | [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB) | [Buffoon Kadhal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/00Ex3gBXLz8v0gXHlmIaJH) | 4:18 | 2023-03-22 | 2023-04-01 |
 | [Oh Kanmaniye](https://open.spotify.com/track/1miOAICSQx1qM6W3a3cp7C) | [Dhayanesh Kumar R](https://open.spotify.com/artist/3RMR9E25rkqAVcYdaheO3f), [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd), [Padmaja Sreeenivasan](https://open.spotify.com/artist/2SVKMYeIcn3iTeKmI1cJpD) | [Oh Kanmaniye](https://open.spotify.com/album/4ChiG4kmBCXR6LWbX1ig6p) | 3:35 | 2025-01-30 | 2025-08-11 |
 | [Oh Maane](https://open.spotify.com/track/5zq8sYIf71unFfTEbdw3kL) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6) | [Oh Maane](https://open.spotify.com/album/1Kx1hAJqJ49iK85Osl6aJE) | 5:28 | 2023-02-10 | 2024-11-26 |
-| [Oh Maname](https://open.spotify.com/track/6Ucqq4GbNq7AOaPryxwRo1) | [Pragathi Guruprasad](https://open.spotify.com/artist/1IMZlbjHW9DCrW6xbtjI6F), [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec) | [Oh Maname](https://open.spotify.com/album/09XMViCQAJWB4qNQ1iUwLB) | 3:50 | 2025-10-10 |  |
+| [Oh Maname](https://open.spotify.com/track/6Ucqq4GbNq7AOaPryxwRo1) | [Pragathi Guruprasad](https://open.spotify.com/artist/1IMZlbjHW9DCrW6xbtjI6F), [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec) | [Oh Maname](https://open.spotify.com/album/09XMViCQAJWB4qNQ1iUwLB) | 3:50 | 2025-10-10 | 2026-06-26 |
 | [Oh My Baby](https://open.spotify.com/track/6ZEz7w3tmInPP7WlK9C1wB) | [Sharon Shobana Vasudevan](https://open.spotify.com/artist/34T3pEe3EpbGVta9jXsTxg), [Sridhar Sena](https://open.spotify.com/artist/5YSYUHw3olaxG4SZhtCPET) | [Oh My Baby](https://open.spotify.com/album/3G9ETvDZGYQvOEQwWFi8RV) | 4:36 | 2026-04-08 |  |
 | [Ok Kanmani](https://open.spotify.com/track/37l0opOPNNFZHQpb1ZW8XX) | [Sudharshan Senthilkumar](https://open.spotify.com/artist/12FIsAEo2PTfy3o0fmsoyp) | [Ok Kanmani](https://open.spotify.com/album/7hPZ3wh5SLRbrZdBpXgctu) | 4:25 | 2022-08-11 | 2022-11-25 |
 | [Okay](https://open.spotify.com/track/56fZS9eCVLNGrc4s9ebbz8) | [Sri Charan](https://open.spotify.com/artist/0TahQmnTdVX3rTMJkO6SpI), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r), [Dharshu Prakash](https://open.spotify.com/artist/3759kf89nqfqS46KxjLyPb) | [Okay](https://open.spotify.com/album/5kWUG5S49XZIyY2875fL1i) | 3:40 | 2024-05-03 | 2024-08-20 |
@@ -620,6 +620,7 @@
 | [Sadugudu Sadugudu](https://open.spotify.com/track/3udIFY3400VmyKmUWteuM5) | [Krishna Kumar](https://open.spotify.com/artist/5tZcEf1A05HXjuROID5h32), [Ajaey Shravan](https://open.spotify.com/artist/3U1ldHA1sIAPz4WfN3yJDW), [Bamba Bakiya](https://open.spotify.com/artist/4nC62crROohMqhekvn3Uoy) | [Sadugudu Sadugudu](https://open.spotify.com/album/3L9YISokNe5HFlEbQRx77a) | 3:40 | 2023-01-25 | 2023-06-24 |
 | [Saga](https://open.spotify.com/track/1PrAlnmhX77F7QMfjGGzWw) | [Keerthana Kunalan](https://open.spotify.com/artist/7vpsJyzheyIsSDtsjJzxUe), [Sagishna Xavier](https://open.spotify.com/artist/6Jdi3gLwRWKNEyCQDUQnex) | [Saga](https://open.spotify.com/album/7hAwsyr4IQLq3Hj1TSXxlx) | 3:37 | 2023-03-10 | 2023-03-23 |
 | [Sagavaasi](https://open.spotify.com/track/6e1AEcNa3ECIOJPw4xpMjb) | [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Khatija Rahman](https://open.spotify.com/artist/3FQoWZ1cZzYzZKMg2MaAYP) | [Sagavaasi](https://open.spotify.com/album/0lYfNFeX2w67OMAEm7mxst) | 6:22 | 2023-02-02 | 2023-02-24 |
+| [Sainkalam](https://open.spotify.com/track/6Y79pDSEdv5ujs0suUEBXL) | [Sooraj S\. Kurup](https://open.spotify.com/artist/0wvji3X9BFRc6KORiVgN8p) | [Sainkalam](https://open.spotify.com/album/0QsdI11FG0a7tLdOOWn2EJ) | 3:02 | 2026-06-25 |  |
 | [Sakkaraiya](https://open.spotify.com/track/2rOyLZZst8HKrXgDHDnauI) | [SATTHIA](https://open.spotify.com/artist/5mHPapKjRFXq1IdaFDnHW9), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Sakkaraiya](https://open.spotify.com/album/414SPcYwEra3PTStaJwVXU) | 3:43 | 2023-08-16 | 2023-10-04 |
 | [Saree Pop](https://open.spotify.com/track/7BpecExcXrWvvgna0gbuSL) | [Daddy Prince](https://open.spotify.com/artist/10w7hLvjbpcCBEE9OmcSa4), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts) | [Saree Pop](https://open.spotify.com/album/4n885BClN8wlrtg4NUylyZ) | 2:33 | 2022-04-22 | 2022-12-20 |
 | [SAROJA](https://open.spotify.com/track/2FD2oa0hgNj40ZpTsOn5lQ) | [Dacalty](https://open.spotify.com/artist/7n15OEL121OCN7hOZnhZEd), [RXZOR](https://open.spotify.com/artist/4DTx9MmllDgeeNCuydfRH9) | [SAROJA](https://open.spotify.com/album/4HPwpVtkDblRgLzv9jw53h) | 2:42 | 2024-02-16 | 2024-04-20 |

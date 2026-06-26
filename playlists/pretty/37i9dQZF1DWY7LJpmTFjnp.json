@@ -1,6 +1,6 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano,  Cuca en portada. ",
-  "num_followers": 971134,
+  "num_followers": 971044,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
@@ -727,22 +727,18 @@
     {
       "added_at": "2026-06-19 06:00:22",
       "album": {
-        "name": "A Casa",
-        "url": "https://open.spotify.com/album/1435j1Cd1T8MJLSos4Arll"
+        "name": "Fobia",
+        "url": "https://open.spotify.com/album/3CrPRAsNzMd54SBk8GFD3G"
       },
       "artists": [
         {
-          "name": "Los Daniels",
-          "url": "https://open.spotify.com/artist/6wAdcWMCHvamfged5FsKBD"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Fobia",
+          "url": "https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS"
         }
       ],
-      "duration_ms": 209440,
-      "name": "Quisiera Saber (with Natalia Lafourcade)",
-      "url": "https://open.spotify.com/track/7ETuZtnJJ1brMNiPpd2LFg"
+      "duration_ms": 157106,
+      "name": "El Microbito",
+      "url": "https://open.spotify.com/track/2EeCAQN9IKpMGKEK3dQobA"
     },
     {
       "added_at": "2026-06-19 06:00:22",
@@ -779,18 +775,22 @@
     {
       "added_at": "2026-06-19 06:00:22",
       "album": {
-        "name": "Fobia",
-        "url": "https://open.spotify.com/album/3CrPRAsNzMd54SBk8GFD3G"
+        "name": "A Casa",
+        "url": "https://open.spotify.com/album/1435j1Cd1T8MJLSos4Arll"
       },
       "artists": [
         {
-          "name": "Fobia",
-          "url": "https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS"
+          "name": "Los Daniels",
+          "url": "https://open.spotify.com/artist/6wAdcWMCHvamfged5FsKBD"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 157106,
-      "name": "El Microbito",
-      "url": "https://open.spotify.com/track/2EeCAQN9IKpMGKEK3dQobA"
+      "duration_ms": 209440,
+      "name": "Quisiera Saber (with Natalia Lafourcade)",
+      "url": "https://open.spotify.com/track/7ETuZtnJJ1brMNiPpd2LFg"
     },
     {
       "added_at": "2026-06-19 06:00:22",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-06-19 06:00:22",
       "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/1szzgue8VuL0dnNHjfNLt9"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 218048,
-      "name": "Las Fuerzas Armadas del Amor",
-      "url": "https://open.spotify.com/track/1iKsOPqoVEWkYnIvnVrQNz"
-    },
-    {
-      "added_at": "2026-06-19 06:00:22",
-      "album": {
         "name": "Ay Ay Ay",
         "url": "https://open.spotify.com/album/5SIzBNK2TOYizzkc6PriUu"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 227686,
       "name": "Ay Ay Ay",
       "url": "https://open.spotify.com/track/5WpfJrnqAtUqoGIRjJ8e7l"
+    },
+    {
+      "added_at": "2026-06-19 06:00:22",
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/1szzgue8VuL0dnNHjfNLt9"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 218048,
+      "name": "Las Fuerzas Armadas del Amor",
+      "url": "https://open.spotify.com/track/1iKsOPqoVEWkYnIvnVrQNz"
     },
     {
       "added_at": "2026-06-19 06:00:22",

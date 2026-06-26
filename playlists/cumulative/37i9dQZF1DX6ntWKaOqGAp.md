@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: indigo la End
 
-3,317 songs - 8 day 14 hr 54 min
+3,318 songs - 8 day 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -708,7 +708,7 @@
 | [Ima Wo Ikirunoda.](https://open.spotify.com/track/2TfgEnBBdBvQl7fdMX1Nqy) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Ima Wo Ikirunoda.](https://open.spotify.com/album/27P7OClUEHrPiybgPxdA7y) | 4:34 | 2023-01-13 | 2023-02-01 |
 | [Image Word \- New Recording Ver.](https://open.spotify.com/track/6TmzSGN9QZjtGFD0lHgH1i) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [Image Word \(New Recording Ver.\)](https://open.spotify.com/album/5iOMMgOubOCQVhOBoXUuWj) | 4:46 | 2023-12-12 | 2024-01-10 |
 | [In a Black Out](https://open.spotify.com/track/4Jb9qPgIOtVmUQJoRDvKwl) | [GRAPEVINE](https://open.spotify.com/artist/7LPp4MiQ8yxVUxhxipe0mm) | [Almost there](https://open.spotify.com/album/16jwz1QKP5h1HNpAI8X35S) | 3:47 | 2023-09-26 | 2023-10-18 |
-| [In the Morning](https://open.spotify.com/track/4SewWfdvt7gSWPu3As9q22) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [In the Morning](https://open.spotify.com/album/5D2E6HcOWHE7TA3SPdpAXd) | 2:38 | 2026-03-31 |  |
+| [In the Morning](https://open.spotify.com/track/4SewWfdvt7gSWPu3As9q22) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [In the Morning](https://open.spotify.com/album/5D2E6HcOWHE7TA3SPdpAXd) | 2:38 | 2026-03-31 | 2026-06-26 |
 | [in the pocket](https://open.spotify.com/track/7cSnylYfrW2vho71jk52EC) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [in the pocket](https://open.spotify.com/album/7og4SwTc07Zan2RHIi0ufr) | 4:51 | 2024-08-29 | 2024-10-23 |
 | [In Your Life](https://open.spotify.com/track/0wCLmoOwQPtJTSkqel7A8W) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [In Your Life](https://open.spotify.com/album/62QURXULvXlv2swtJXLLq4) | 3:55 | 2023-06-27 | 2023-06-29 |
 | [In Your Life](https://open.spotify.com/track/5s94xrIDUhNwtZt26V0MiN) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [In Your Life](https://open.spotify.com/album/20yZQbH7TZ1cCZ0MRyrGVh) | 3:55 | 2023-06-27 | 2023-08-09 |
@@ -1559,6 +1559,7 @@
 | [The last song](https://open.spotify.com/track/3nSblqRTG9MBEuYNRPxoFn) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [The last song](https://open.spotify.com/album/5qwjLuPAV8H3ChvyQZlaM4) | 3:31 | 2023-07-04 | 2023-07-12 |
 | [The Light That Never Returns](https://open.spotify.com/track/2uvwNtr8fT10KFvJ49ZSZW) | [PK shampoo](https://open.spotify.com/artist/7aGhrSyExo2LIUZJjOkgeJ) | [The Noble Fake Star](https://open.spotify.com/album/5Vk9immrqKyHhVakz7L5JP) | 5:46 | 2026-05-26 | 2026-06-03 |
 | [The More We Fight](https://open.spotify.com/track/7cKKC5JB5Ca9orbxSwjI4G) | [セカンドバッカー](https://open.spotify.com/artist/1eoddE8A9kEX2amRoYSZJr) | [The More We Fight](https://open.spotify.com/album/2NZHk517nocz9qJOy8T7Tt) | 2:35 | 2026-01-20 | 2026-02-04 |
+| [The more you smile, the more I fall for summer!](https://open.spotify.com/track/4Z0PY79HJHH3nRPG8gRzTi) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [The more you smile, the more I fall for summer!](https://open.spotify.com/album/2bZDNY34mPUexTMZ6GqxAw) | 4:14 | 2026-06-25 |  |
 | [THE PROMISE](https://open.spotify.com/track/3nzAbV5u0IBT6UJuPqPcLp) | [DOPING PANDA](https://open.spotify.com/artist/1Z9z0ONErFhEvidgPFOi6W) | [THE PROMISE](https://open.spotify.com/album/2Bx6rMVAb1WltCaBQWT5Lg) | 3:18 | 2023-02-14 | 2023-03-31 |
 | [The Show Must Go On](https://open.spotify.com/track/0mNGukFmeB8xQmuS9jOs8B) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [The Show Must Go On](https://open.spotify.com/album/59JPnXZfiLpJZbs92Y6Fdt) | 2:44 | 2024-02-13 | 2024-02-28 |
 | [The SILENCE](https://open.spotify.com/track/0FZxNGBKHZkI4YIovEY4me) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [The SILENCE](https://open.spotify.com/album/3ecpjDJVGNMIns4YMRtUxa) | 4:58 | 2026-03-31 | 2026-04-15 |

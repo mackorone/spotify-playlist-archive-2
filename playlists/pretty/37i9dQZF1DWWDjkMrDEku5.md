@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDjkMrDEku5.md) - [plain]
 
 > Get ready for Disney and Pixar’s Toy Story 5, only in theaters\. To infinity and beyond!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,353 likes - 36 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,692 likes - 36 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

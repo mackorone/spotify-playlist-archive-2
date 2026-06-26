@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: SOFFIE",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: BIBIZA",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "2008 (Venloer Stra\u00dfe)",
+        "url": "https://open.spotify.com/album/1OOOgssijb6BL07fALclLy"
+      },
+      "artists": [
+        {
+          "name": "Jakob Ude",
+          "url": "https://open.spotify.com/artist/0gDG1LlsqO4O5w1ilk2iAH"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158547,
+      "name": "2008 (Venloer Stra\u00dfe)",
+      "url": "https://open.spotify.com/track/50oGdD3sbDILiEUKcCJvq8"
+    },
+    {
+      "album": {
         "name": "2016",
         "url": "https://open.spotify.com/album/79JQCEgltHLRpvevz3exHs"
       },
@@ -448,7 +466,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 114093,
       "name": "2016",
       "url": "https://open.spotify.com/track/1wOMDZVFe2xZ6m0k6YCFZe"
@@ -2488,7 +2506,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 161202,
       "name": "April",
       "url": "https://open.spotify.com/track/4EiJ8kbxdAare5gM8LOWf2"
@@ -3753,6 +3771,24 @@
     },
     {
       "album": {
+        "name": "berliner hollywood",
+        "url": "https://open.spotify.com/album/1s9XIypKUuNvSHweaDtevl"
+      },
+      "artists": [
+        {
+          "name": "BEVN",
+          "url": "https://open.spotify.com/artist/6yhoNaKEJd3CH33hl26How"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "berliner hollywood",
+      "url": "https://open.spotify.com/track/33pzFfIQRxhbu8Asfp9g9d"
+    },
+    {
+      "album": {
         "name": "Berliner Luft",
         "url": "https://open.spotify.com/album/36QABQcLmLfqqxmOBTGI5i"
       },
@@ -3906,6 +3942,24 @@
       "duration_ms": 196744,
       "name": "besser wenn du gehst",
       "url": "https://open.spotify.com/track/2qCWjtUGmxaJ78mvf2mUlp"
+    },
+    {
+      "album": {
+        "name": "Betty Boop",
+        "url": "https://open.spotify.com/album/51OMAQdFVd7LXbNRDUIMvl"
+      },
+      "artists": [
+        {
+          "name": "Julie",
+          "url": "https://open.spotify.com/artist/5oauHSnziOzOh8jYhHs8Oi"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156521,
+      "name": "Betty Boop",
+      "url": "https://open.spotify.com/track/30ZM7FUXw9iHvUfvRwTQWQ"
     },
     {
       "album": {
@@ -5982,7 +6036,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 182014,
       "name": "das gr\u00f6\u00dfte was es gibt",
       "url": "https://open.spotify.com/track/7pFnKfsvuZZ1kKbkKVSw1f"
@@ -9634,7 +9688,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 264000,
       "name": "Fenster",
       "url": "https://open.spotify.com/track/6ZudeRmaraMdu3TS8D4JfR"
@@ -10680,6 +10734,24 @@
       "duration_ms": 140063,
       "name": "F\u00fchl mich gut",
       "url": "https://open.spotify.com/track/0cgrYF4qZ02tfCSqi0cmNs"
+    },
+    {
+      "album": {
+        "name": "f\u00fchlst du das auch",
+        "url": "https://open.spotify.com/album/2aAHDYWJ0tQzfmn1LsSq7a"
+      },
+      "artists": [
+        {
+          "name": "Mika No\u00e9",
+          "url": "https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118466,
+      "name": "f\u00fchlst du das auch",
+      "url": "https://open.spotify.com/track/6j1rG6MdgGf6axvaRXKgvf"
     },
     {
       "album": {
@@ -12843,6 +12915,24 @@
     },
     {
       "album": {
+        "name": "happy end",
+        "url": "https://open.spotify.com/album/6t5PSWl5R7ry28EC2EyL1a"
+      },
+      "artists": [
+        {
+          "name": "Ami Warning",
+          "url": "https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144390,
+      "name": "happy end",
+      "url": "https://open.spotify.com/track/480m6puv3BaJFfLzB89IIe"
+    },
+    {
+      "album": {
         "name": "Hast Du Noch Zeit",
         "url": "https://open.spotify.com/album/7Cqy3a8K3hnrc2ESfRglnV"
       },
@@ -14676,7 +14766,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 199614,
       "name": "Ikarus",
       "url": "https://open.spotify.com/track/4yo4fDAQnu4g39mh1Ro4W4"
@@ -17411,6 +17501,24 @@
     },
     {
       "album": {
+        "name": "Kreative Phasen",
+        "url": "https://open.spotify.com/album/1sLmdlX5AOcZjyYTLAzWec"
+      },
+      "artists": [
+        {
+          "name": "MC WINDHUND",
+          "url": "https://open.spotify.com/artist/57MYoG73ZnyZPIpZbTXFUb"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145574,
+      "name": "Kreative Phasen",
+      "url": "https://open.spotify.com/track/2KNNkN7BwsSVwRH6X8Z7rv"
+    },
+    {
+      "album": {
         "name": "Kreise",
         "url": "https://open.spotify.com/album/4xpl7dnHx7Dh6Y3ekKZ40y"
       },
@@ -17498,6 +17606,24 @@
       "duration_ms": 158812,
       "name": "krepppapier",
       "url": "https://open.spotify.com/track/7HQDr2SyD5KNmBPEizb3lW"
+    },
+    {
+      "album": {
+        "name": "Krieg",
+        "url": "https://open.spotify.com/album/00CHPbYnQcyiaV65acWVRv"
+      },
+      "artists": [
+        {
+          "name": "Yu",
+          "url": "https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161204,
+      "name": "Krieg",
+      "url": "https://open.spotify.com/track/4iJqxTd2mM4VoLL7tbTBIc"
     },
     {
       "album": {
@@ -20585,6 +20711,24 @@
     },
     {
       "album": {
+        "name": "Mitternacht",
+        "url": "https://open.spotify.com/album/0ihoedq5WZq5AXD0J8akm0"
+      },
+      "artists": [
+        {
+          "name": "George JR",
+          "url": "https://open.spotify.com/artist/1DEiVfNJKnAbTDbhKy1h3t"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115201,
+      "name": "Mitternacht",
+      "url": "https://open.spotify.com/track/1so5kgE9INqvJc91spGyO8"
+    },
+    {
+      "album": {
         "name": "mitternacht",
         "url": "https://open.spotify.com/album/6p6oE4QlYjl9MDyS1bFx8H"
       },
@@ -21700,7 +21844,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 162201,
       "name": "Nie verstehen",
       "url": "https://open.spotify.com/track/5IAy7DWnUJwO5JEXpfefKe"
@@ -22502,7 +22646,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 121829,
       "name": "ok wenn du weinst",
       "url": "https://open.spotify.com/track/7HcAbD1vX5zznHjZJQEPi5"
@@ -26660,7 +26804,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 108207,
       "name": "so lonely",
       "url": "https://open.spotify.com/track/5yPX2sxEKFyslaZx872OCi"
@@ -26768,7 +26912,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 132705,
       "name": "So Wie Du",
       "url": "https://open.spotify.com/track/6q8TJY4J6tBAi3yklwLgRn"
@@ -26790,6 +26934,24 @@
       "duration_ms": 180198,
       "name": "SO WIE DU",
       "url": "https://open.spotify.com/track/5aymNONbjyOfjdwqS1F0Xe"
+    },
+    {
+      "album": {
+        "name": "Soda Zitron",
+        "url": "https://open.spotify.com/album/6xLhRYX5YJN8LGFNeJ1GYC"
+      },
+      "artists": [
+        {
+          "name": "BIBIZA",
+          "url": "https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Soda Zitron",
+      "url": "https://open.spotify.com/track/7FytLKznuhvK7yHtCxZaP7"
     },
     {
       "album": {
@@ -28971,6 +29133,28 @@
     },
     {
       "album": {
+        "name": "Timeline (feat. Audio88)",
+        "url": "https://open.spotify.com/album/2Dr6hVKmNLNklx7fGToDNy"
+      },
+      "artists": [
+        {
+          "name": "Marlo Grosshardt",
+          "url": "https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo"
+        },
+        {
+          "name": "Audio88",
+          "url": "https://open.spotify.com/artist/4YlBDllKcEFrLtby1mqaEK"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137275,
+      "name": "Timeline (feat. Audio88)",
+      "url": "https://open.spotify.com/track/1JVD0Xl7vCuKYzW1UCjOaH"
+    },
+    {
+      "album": {
         "name": "F\u00fchlst du dich allein?",
         "url": "https://open.spotify.com/album/2uc22qiOh7uSDgdIx6Rmy0"
       },
@@ -30212,7 +30396,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 133218,
       "name": "Vergeben (ans Leben)",
       "url": "https://open.spotify.com/track/3duSLGUdDRMd2xTnfk4xq8"
@@ -32910,7 +33094,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 143127,
       "name": "Wie Viel",
       "url": "https://open.spotify.com/track/61Cfm7b9nLrWYgcmXl7Y0u"

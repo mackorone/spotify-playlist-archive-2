@@ -1574,7 +1574,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 210858,
       "name": "Chekavar",
       "url": "https://open.spotify.com/track/6csl1tgnQDk87FRAh7j6Sv"
@@ -5232,7 +5232,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 195517,
       "name": "Madrasa - From \"Saina Music Indie\"",
       "url": "https://open.spotify.com/track/2skqHUac0gpqqUMuVjUkrU"
@@ -5310,7 +5310,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 188397,
       "name": "Majnu - From \"Saina Music Indie\"",
       "url": "https://open.spotify.com/track/61HtS9NSAxJ7oLZBzX0lTU"
@@ -6729,6 +6729,32 @@
     },
     {
       "album": {
+        "name": "Neeyen Kanmani",
+        "url": "https://open.spotify.com/album/6thWGOqT1vPhhaDdRsgrP0"
+      },
+      "artists": [
+        {
+          "name": "Ewinikz",
+          "url": "https://open.spotify.com/artist/5gfzutNloSkBDuLVikIUN8"
+        },
+        {
+          "name": "Godwin Fernandez",
+          "url": "https://open.spotify.com/artist/5vTeO5rzVIjdqNv7RTmB43"
+        },
+        {
+          "name": "Dhanya Kaimal",
+          "url": "https://open.spotify.com/artist/1ItrKHL1MtPxp87tZYHBgK"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93879,
+      "name": "Neeyen Kanmani",
+      "url": "https://open.spotify.com/track/0IYAb4oKBhYvB7FZlFtww2"
+    },
+    {
+      "album": {
         "name": "Nenjin Novu",
         "url": "https://open.spotify.com/album/0hlAkV5vUDlZeRMTUW0oBp"
       },
@@ -7166,6 +7192,28 @@
       "duration_ms": 220408,
       "name": "Njanum Oru Manushyanalle",
       "url": "https://open.spotify.com/track/3cKxKqXro6RBRl1uO4d0t6"
+    },
+    {
+      "album": {
+        "name": "Noor Noor",
+        "url": "https://open.spotify.com/album/5xEKJe7ZFQEhJ4hyelXNsz"
+      },
+      "artists": [
+        {
+          "name": "Nazeeb Billu",
+          "url": "https://open.spotify.com/artist/7qKOPvmYkqaCrl8pddYJnk"
+        },
+        {
+          "name": "Jkfactor",
+          "url": "https://open.spotify.com/artist/2YhFy8MzbmY2jlPSqUucAv"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195427,
+      "name": "Noor Noor",
+      "url": "https://open.spotify.com/track/17i0xNH6iWetgJVkpF5toJ"
     },
     {
       "album": {

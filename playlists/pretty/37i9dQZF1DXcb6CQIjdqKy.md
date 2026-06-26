@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover: Terrian
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,640,698 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,640,760 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 13 | [Amazing Grace](https://open.spotify.com/track/64MrCcCsHkXim9Fdi7P6CY) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [The Hymns \(Spotify Version\)](https://open.spotify.com/album/3hsmfn4WeVjTgH7A6xx3Lp) | 4:13 |
 | 14 | [Yahweh](https://open.spotify.com/track/3P3BpjuFi9R9wCg1cUoaUl) | [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [Happy To Be Here](https://open.spotify.com/album/548SBeYbBBay8CuJSGgbfu) | 5:17 |
 | 15 | [Hallowed Be Your Name](https://open.spotify.com/track/1KacGbIerk18ESTtdCniF9) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Andrew Holt](https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8), [Leeland Mooring](https://open.spotify.com/artist/2ylW0JAtYmQpymRkrvWnJb) | [The Chorus](https://open.spotify.com/album/6JThXMOkqvJ8BkF9kOLwbz) | 6:33 |
-| 16 | [There Is A God](https://open.spotify.com/track/7yRA2d7Cc6XjhfKNy95DBX) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [There Is A God](https://open.spotify.com/album/6C6P0jtnKcWA45t2rfuDSt) | 3:45 |
+| 16 | [There Is a God](https://open.spotify.com/track/7yRA2d7Cc6XjhfKNy95DBX) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [There Is a God](https://open.spotify.com/album/6C6P0jtnKcWA45t2rfuDSt) | 3:45 |
 | 17 | [miracle](https://open.spotify.com/track/5mrRRmnUUuzSSIY0M0Nqew) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [miracle](https://open.spotify.com/album/2LTfNK1uz9qsis9hyxfuWa) | 2:45 |
 | 18 | [Promised Land](https://open.spotify.com/track/2IS9bxq9BqYmK5GdTA8yzB) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr), [Tyler Roberts](https://open.spotify.com/artist/6sgNKfg3LWtqX7zvcaImo0) | [Promised Land](https://open.spotify.com/album/4EPC0qdL5Yy7YwzRUNyavs) | 7:58 |
 | 19 | [The Old Rugged Cross \- Spotify Singles](https://open.spotify.com/track/7zvRdGXBx4ypKHzXwnmk58) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [The Old Rugged Cross \(Spotify Singles\)](https://open.spotify.com/album/6PPQduXeIf3ShWuJJGOg58) | 3:08 |

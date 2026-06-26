@@ -1,6 +1,6 @@
 {
   "description": "Piesele potrivite pentru zilele \u0219i nop\u021bile tale chill de var\u0103",
-  "num_followers": 22113,
+  "num_followers": 22116,
   "original_name": "O var\u0103 chill",
   "owner": {
     "name": "Spotify",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-06-08 08:58:53",
       "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 246606,
-      "name": "stay a little longer",
-      "url": "https://open.spotify.com/track/5OdI6v2L7Aez4cclpbojiZ"
-    },
-    {
-      "added_at": "2026-06-08 08:58:53",
-      "album": {
         "name": "Cruel World",
         "url": "https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 225985,
       "name": "White Noise",
       "url": "https://open.spotify.com/track/0rjGD5jVtVbj131wDsfbJG"
+    },
+    {
+      "added_at": "2026-06-08 08:58:53",
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 246606,
+      "name": "stay a little longer",
+      "url": "https://open.spotify.com/track/5OdI6v2L7Aez4cclpbojiZ"
     },
     {
       "added_at": "2026-06-08 08:58:53",

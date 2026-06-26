@@ -4,7 +4,7 @@
 
 > Zenék, amik félreugranak a műfaji határok elől\. Cover: Fran Palermo
 
-435 songs - 1 day 0 hr 33 min
+436 songs - 1 day 0 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,10 +297,11 @@
 | [Orrvérzés](https://open.spotify.com/track/6enUH4ma5KwzXyCucty8yT) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Orrvérzés](https://open.spotify.com/album/7AcvyRgi8Ca9nAyKScJPOC) | 3:19 | 2024-06-28 | 2025-09-27 |
 | [Over](https://open.spotify.com/track/0MvQKd4qZb8ng7svhz5QlI) | [Samurai Drive](https://open.spotify.com/artist/3KJXAVUBjcuGGU7A7ExedX) | [Over](https://open.spotify.com/album/0wXhrHl6OrfNBTSRia2eV2) | 3:52 | 2025-12-22 | 2026-02-10 |
 | [Parisian Song](https://open.spotify.com/track/2uZAzz1G8uzns3XCnN9LN5) | [Symbiosis 5](https://open.spotify.com/artist/3g2cNfwShVe6iV3fGOs4Rf) | [Symbiosis 5](https://open.spotify.com/album/2bhdOfjykHtaF05VnlgX3x) | 8:12 | 2025-12-04 | 2025-12-23 |
+| [Pesti bárdok](https://open.spotify.com/track/6GbI4lomlbCVHGfufZrjOv) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Pesti bárdok](https://open.spotify.com/album/45uG02RJkRCwM5yAcLoeG8) | 5:55 | 2026-06-25 |  |
 | [Pillangóhatás](https://open.spotify.com/track/5L9mdXBFc2g6l2XmfSsSJN) | [Tóth Abigél](https://open.spotify.com/artist/4Cm5LvpsuI6maYo55R7CaS) | [Pillangóhatás](https://open.spotify.com/album/1qA0swttSHDYjbQ3cwOX5Y) | 2:18 | 2025-04-18 |  |
 | [Plan For You](https://open.spotify.com/track/11a7fFxDeyFS0IF5Z6b5S6) | [ZÓRA](https://open.spotify.com/artist/5XRDlWq75VpsIeumX64ZDW) | [Plan For You](https://open.spotify.com/album/2k0M4sNRvc2P2446HQarjH) | 2:53 | 2025-09-26 | 2025-11-29 |
 | [Pletyka](https://open.spotify.com/track/20mZL0fSYFtMYuaD4ctRGV) | [DOMINGO](https://open.spotify.com/artist/2xUAc0Xk9ouY25LInxdNJD) | [Pletyka](https://open.spotify.com/album/4EvQvmMEBQ3gLBGfMRZuq0) | 3:19 | 2024-08-15 | 2024-09-07 |
-| [plusz egy \(+1\)](https://open.spotify.com/track/1ibXEymBvy9ZX8alE2dFoh) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [plusz egy \(+1\)](https://open.spotify.com/album/2BBLfh0N2WWcBo7G7KVHgv) | 3:29 | 2024-09-13 |  |
+| [plusz egy \(+1\)](https://open.spotify.com/track/1ibXEymBvy9ZX8alE2dFoh) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [plusz egy \(+1\)](https://open.spotify.com/album/2BBLfh0N2WWcBo7G7KVHgv) | 3:29 | 2024-09-13 | 2026-06-26 |
 | [POCSOLYA](https://open.spotify.com/track/1xhtbZAAjUEuldqYNil0rW) | [kristoaf](https://open.spotify.com/artist/1JkASUd5gc4NlepQHX4KVz) | [ENSO](https://open.spotify.com/album/2Zm6SG1MzkQmTRy2ZDekyH) | 3:06 | 2024-06-28 | 2024-10-05 |
 | [pontnem](https://open.spotify.com/track/3us0UL4UZth3vWa8WOvwOa) | [Aurevoir.](https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw) | [pontnem](https://open.spotify.com/album/5LNjddXarNCmejSaFGb7MX) | 3:25 | 2024-06-28 | 2025-08-30 |
 | [Porcelán](https://open.spotify.com/track/0FNjdCG1BYCOH2YjStCH9P) | [Loophia](https://open.spotify.com/artist/3Y1l1roXoFoKXUO5EPUecM) | [Porcelán](https://open.spotify.com/album/2GuTg0jTvXKFyVMk6VregQ) | 4:00 | 2025-12-04 | 2026-06-12 |

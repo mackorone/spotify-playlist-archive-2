@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Marley & The Wailers. The essential tracks, all in one playlist.",
-  "num_followers": 2076985,
+  "num_followers": 2077047,
   "original_name": "This Is Bob Marley & The Wailers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajnMgAAAAAB9tuYQKOFrl1pmfNpUgq2O",
+  "snapshot_id": "ajseAAAAAABeEgYdM2JWHbZMSj4k3MnV",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Survival",
-        "url": "https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 231266,
-      "name": "Zimbabwe",
-      "url": "https://open.spotify.com/track/5ApfJDLibIoWL0mRZ5uOKu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Uprising",
         "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 242333,
       "name": "Forever Loving Jah",
       "url": "https://open.spotify.com/track/1CAEHafiiJKjp6t9hfYX7f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Survival",
+        "url": "https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 231266,
+      "name": "Zimbabwe",
+      "url": "https://open.spotify.com/track/5ApfJDLibIoWL0mRZ5uOKu"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rastaman Vibration",
-        "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 283066,
-      "name": "Who The Cap Fit",
-      "url": "https://open.spotify.com/track/2cYAd7BJIOj4Y0pU5Pyesc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confrontation",
         "url": "https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 327133,
       "name": "Rastaman Live Up",
       "url": "https://open.spotify.com/track/2wFw6mZzzABL9gktquq7I5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rastaman Vibration",
+        "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 283066,
+      "name": "Who The Cap Fit",
+      "url": "https://open.spotify.com/track/2cYAd7BJIOj4Y0pU5Pyesc"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rastaman Vibration",
-        "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 170626,
-      "name": "Rat Race",
-      "url": "https://open.spotify.com/track/6EmP97fPXI3aiHnrsHuj08"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Natty Dread",
         "url": "https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 193226,
       "name": "Them Belly Full (But We Hungry)",
       "url": "https://open.spotify.com/track/2Ezmm08Oy4772SkEoC18Kt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rastaman Vibration",
+        "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 170626,
+      "name": "Rat Race",
+      "url": "https://open.spotify.com/track/6EmP97fPXI3aiHnrsHuj08"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rastaman Vibration",
-        "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 253573,
-      "name": "Jah Live",
-      "url": "https://open.spotify.com/track/1SxXBJgUk4z1dZdpdtTB7F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Natty Dread",
         "url": "https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 215666,
       "name": "Natty Dread",
       "url": "https://open.spotify.com/track/2fvi4GCSJn9XYdYrLGLX5f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rastaman Vibration",
+        "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 253573,
+      "name": "Jah Live",
+      "url": "https://open.spotify.com/track/1SxXBJgUk4z1dZdpdtTB7F"
     },
     {
       "added_at": null,

@@ -2,9 +2,9 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Soleil" de GIMS est le Grand Hit de la semaine.
+> "La recette" de Jeck & Carla est le Grand Hit de la semaine.
 
-338 songs - 17 hr 17 min
+341 songs - 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Aseptisé](https://open.spotify.com/track/2W5IVgVXNf3IcqRGWv5lr0) | [Superbus](https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq) | [Aseptisé](https://open.spotify.com/album/2qn28PdWCLjFQfydpVoNEP) | 3:01 | 2024-02-29 | 2024-03-08 |
 | [Au bord de la mer](https://open.spotify.com/track/4JRzne9QPdoRTipanGEqh3) | [Chiloo](https://open.spotify.com/artist/0DjR09NBgtZbkOnBZays9o) | [Au bord de la mer](https://open.spotify.com/album/68QdmvGYzprjbODlaItocj) | 3:13 | 2023-09-28 | 2024-02-16 |
 | [Au bout de mes rêves](https://open.spotify.com/track/0gtCHxyATWVLvcUhq8eL2f) | [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy) | [Au bout de mes rêves](https://open.spotify.com/album/4T8LsKgQuZqucNNf7GbBw8) | 2:50 | 2023-12-07 | 2024-04-19 |
-| [Autrement](https://open.spotify.com/track/3SMtVY7EyN0tSYhAZl1AA7) | [Julien Lieb](https://open.spotify.com/artist/0rQDrh9l7FTDm7cywWpW8i) | [Autrement](https://open.spotify.com/album/2CI0v7K6WEB8Z9O6TnXOzE) | 2:44 | 2025-08-07 |  |
+| [Autrement](https://open.spotify.com/track/3SMtVY7EyN0tSYhAZl1AA7) | [Julien Lieb](https://open.spotify.com/artist/0rQDrh9l7FTDm7cywWpW8i) | [Autrement](https://open.spotify.com/album/2CI0v7K6WEB8Z9O6TnXOzE) | 2:44 | 2025-08-07 | 2026-06-26 |
 | [Avant Elle](https://open.spotify.com/track/313L5l9abg2UJMq0FRccMD) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO) | 3:20 | 2023-11-09 | 2023-12-09 |
 | [Avec ou sans](https://open.spotify.com/track/2WZci6zfzEeVg7kjeRT1RH) | [Jérémy Frerot](https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK) | [Gamin des sables](https://open.spotify.com/album/3PxgtcdYshpXCtNAfBQHdW) | 2:52 | 2025-04-17 | 2025-12-05 |
 | [Avec toi](https://open.spotify.com/track/1j8Yt6ZhiyAAq7voD6z5ja) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [C amir²](https://open.spotify.com/album/3aVEfRYRhlqPGRXptmVKya) | 3:30 | 2025-12-04 | 2026-06-05 |
@@ -86,7 +86,7 @@
 | [Destin](https://open.spotify.com/track/32sbhu9nAOqDC16fuAIvf6) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Pulsations](https://open.spotify.com/album/5dfL1lSvKW38OgZQaOXIFo) | 3:49 | 2023-12-07 | 2023-12-15 |
 | [Dis le moi quand même](https://open.spotify.com/track/06OsS6q8FfbctG1WhbDQDO) | [Roulez Jeunesse](https://open.spotify.com/artist/0Gta4UtwE2podm3d4NCGle) | [Osmose](https://open.spotify.com/album/1438Nj1KVGJuLJdsSYNa0t) | 3:33 | 2023-09-28 | 2023-12-09 |
 | [Dis Moi Tout](https://open.spotify.com/track/387yCeKQgJON67MA3a5w0e) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [EQUATEUR](https://open.spotify.com/album/5JTIaFxUwxcK3ZqQ0KcFWR) | 2:52 | 2023-09-28 | 2023-11-11 |
-| [Dis\-moi oui](https://open.spotify.com/track/5pO0JOpugwMgkNetEiA452) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [Dis\-moi oui](https://open.spotify.com/album/4ilcO4GREDzxE7UPW6oIpe) | 3:56 | 2025-10-02 |  |
+| [Dis\-moi oui](https://open.spotify.com/track/5pO0JOpugwMgkNetEiA452) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [Dis\-moi oui](https://open.spotify.com/album/4ilcO4GREDzxE7UPW6oIpe) | 3:56 | 2025-10-02 | 2026-06-26 |
 | [Dis\-moi où \(feat\. OTTA\)](https://open.spotify.com/track/6FNnrwCYdfGwDiO1x76ReL) | [Julien Lieb](https://open.spotify.com/artist/0rQDrh9l7FTDm7cywWpW8i), [OTTA](https://open.spotify.com/artist/4NMvzpqVsDCC0Cte4GTG3d) | [Naufragé](https://open.spotify.com/album/6Tl529HhyHytN5UG1iBCMf) | 2:41 | 2026-04-23 |  |
 | [Dis\-toi que c'est la vie](https://open.spotify.com/track/0qbNi3Dw48Y1lazonm0WEL) | [Keen' V](https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd) | [Dis\-toi que c'est la vie](https://open.spotify.com/album/01Lw2cjSOrE7omo5ttneqJ) | 2:27 | 2024-03-28 | 2024-08-02 |
 | [DO YOU LOVE ME ?](https://open.spotify.com/track/0ntWrkVB9TSfpYRs7pPMrP) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [DO YOU LOVE ME ?](https://open.spotify.com/album/5kbK6yrQk48c9aggLhihGo) | 2:49 | 2025-09-04 | 2026-01-02 |
@@ -134,6 +134,7 @@
 | [Inoubliable \(feat\. RR\)](https://open.spotify.com/track/6Vso65vZMkqEdzv8zXgQR6) | [Gaëtan Roussel](https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf), [RR](https://open.spotify.com/artist/2i9asRz56fjYM4tUlm4PnQ) | [Eclect!que \(Deluxe Edition\)](https://open.spotify.com/album/4RCWRu23stF0sWEf4nwtfl) | 3:13 | 2024-09-12 | 2024-10-18 |
 | [J'avoue](https://open.spotify.com/track/7mqmImC3Ws0d2MDpxCO4aj) | [Linh](https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj) | [J'avoue](https://open.spotify.com/album/0ukWeSJW5TCjrcYOiniwMq) | 3:09 | 2025-04-24 | 2025-12-12 |
 | [J'me barre](https://open.spotify.com/track/2ZkWEkVDL73dSNAv21aa0B) | [Adé](https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s) | [J'me barre](https://open.spotify.com/album/73Rk8FmhOaBIza5bOYnTmT) | 2:59 | 2023-10-19 | 2023-12-09 |
+| [j'me demande](https://open.spotify.com/track/2u0lUrmXGvHO2Eu2A7RFWb) | [Ambre](https://open.spotify.com/artist/28YPWin68aYoxfouVteGYQ) | [j'me demande](https://open.spotify.com/album/6oo1wbYYRmDwQWmMLWKMoP) | 3:08 | 2026-06-25 |  |
 | [J'étais pas fait pour le bonheur](https://open.spotify.com/track/35A7vKNxPv68FrRg6PkFuS) | [Pascal Obispo](https://open.spotify.com/artist/6XPs6CAjfdxIFrVVUFRrAS), [Giordana Angi](https://open.spotify.com/artist/0ZhqSTaEEWN6USw0E30pws) | [J'étais pas fait pour le bonheur](https://open.spotify.com/album/6iuVrMQpc9O6pFIWS9k5d1) | 3:01 | 2023-09-28 | 2023-11-18 |
 | [Jalousie](https://open.spotify.com/track/2hgCNYw8TW4w073ByEBnGW) | [RORI](https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I) | [Jalousie](https://open.spotify.com/album/66edblwvSbM907hRkXBXxO) | 2:50 | 2024-12-12 | 2025-01-10 |
 | [Je cours \(feat\. Nuit Incolore\)](https://open.spotify.com/track/3SIwPysPwGNDZmNyyf1dwG) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok), [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [Le chemin \- 20 ans](https://open.spotify.com/album/1YK3ZdEdUsSgRTwEG9yZVz) | 2:50 | 2023-12-07 | 2024-03-29 |
@@ -154,6 +155,7 @@
 | [Jet Lag](https://open.spotify.com/track/7fRTjRTHXx2NeDsU6V0585) | [LUIZA](https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D) | [Jet Lag](https://open.spotify.com/album/4cUQUMvniiMM4NVpIxH1Kh) | 2:45 | 2026-04-23 |  |
 | [Julia](https://open.spotify.com/track/3yNkZsAusrKllNWP4cvUH8) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx) | 2:38 | 2024-09-12 | 2025-02-28 |
 | [Jusqu'au dernier \- Version radio](https://open.spotify.com/track/0d3ewnwyQPx7ypLCucYlEW) | [Les Enfoirés](https://open.spotify.com/artist/1OCpqnXexjxrakYtmur3rN) | [Jusqu'au dernier \(Version radio\)](https://open.spotify.com/album/2GDz2nLvPZHfK281ILjqfw) | 3:04 | 2024-01-25 | 2024-05-17 |
+| [Juste un peu](https://open.spotify.com/track/7vNKvKNraI2IAooZMMiBzZ) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [EMMA](https://open.spotify.com/artist/0p6woNDdqjwgcl4uLuCX4V) | [Juste un peu](https://open.spotify.com/album/7A3ec7fkFbwyH6jyjPatCJ) | 2:34 | 2026-06-25 |  |
 | [Juste une chanson](https://open.spotify.com/track/7vOYObP8Svk2Hthv9J8gsq) | [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4) | [A.M.O.U.R](https://open.spotify.com/album/3LwsjIHgP08344cotAfY0N) | 4:22 | 2024-02-01 | 2024-04-19 |
 | [JVQTSM](https://open.spotify.com/track/3FWwWrfHcJwY2C3BaNTh3j) | [Léman](https://open.spotify.com/artist/2EnOL1ADehfBQB03ELa3QQ) | [JVQTSM](https://open.spotify.com/album/7KzCTw13UpdcbSSLfRXUBB) | 2:28 | 2024-03-14 | 2024-09-27 |
 | [J’ai changé](https://open.spotify.com/track/3JhTQzJSjTbpJ6Lfttx3Jy) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Vivre...](https://open.spotify.com/album/5gpwMpxd66j2WAmGcyiWXQ) | 3:07 | 2025-01-30 | 2025-07-18 |
@@ -259,6 +261,7 @@
 | [Partir un jour](https://open.spotify.com/track/1QG5eDtayEWVHGOTBdupkU) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Partir un jour](https://open.spotify.com/album/7FMjqci1hqh973l85VoQYf) | 3:32 | 2025-05-29 | 2025-08-08 |
 | [Pays des merveilles](https://open.spotify.com/track/5lph5Ohom4uGk7pQDyLPJB) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z), [CEUZANY](https://open.spotify.com/artist/5AYXYNFAvk8uUmCa5FDe7L) | [Pays des merveilles](https://open.spotify.com/album/43YnMTktKT5nEJoC5W5XXC) | 3:26 | 2023-09-28 | 2023-11-11 |
 | [Petit Frère](https://open.spotify.com/track/0iQ5nlzoc9DlHPoIpnznZG) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Miroirs \(Edition deluxe\)](https://open.spotify.com/album/04A7mKLEyi4mTTDPM9obKL) | 2:41 | 2025-03-06 | 2025-08-15 |
+| [Peu importe](https://open.spotify.com/track/3MoSqy7oUtQBSAcc4eQA3M) | [Zazie](https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD) | [Peu importe](https://open.spotify.com/album/3WmpDb4ONYEs5UPkHvNCZN) | 2:58 | 2026-06-25 |  |
 | [Piano Piano](https://open.spotify.com/track/1SUiLWeJFzuDYo7VzendQV) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Piano Piano](https://open.spotify.com/album/3Yqa5kICCgL2aqthuXn78F) | 2:24 | 2024-03-21 | 2024-05-24 |
 | [Picasso](https://open.spotify.com/track/2A1wTYEJZkvph9zbDla67R) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [Karma](https://open.spotify.com/album/1cOIpFhvmwtWvG2tuC47Ha) | 2:43 | 2026-06-18 |  |
 | [Plus de place pour ta peine](https://open.spotify.com/track/5mKlpOIgCnIQpiTLsgXPUF) | [Eloïz](https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t) | [Eloïz](https://open.spotify.com/album/4zZpibujGFVsI6foiaWJhj) | 2:32 | 2024-01-18 | 2024-04-26 |
@@ -315,7 +318,7 @@
 | [Ton regard](https://open.spotify.com/track/4FrlgpyAzw4a3gErecQqUO) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Ton regard](https://open.spotify.com/album/1988pIjDPXPRwSLJQHIKvH) | 2:33 | 2024-06-13 | 2025-04-25 |
 | [Tour de France](https://open.spotify.com/track/4C0ZGFMFd8OrDwKHD9Fary) | [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Rose des vents](https://open.spotify.com/album/1NDL8FBENqOHbkcrmDmA0e) | 3:43 | 2024-04-18 | 2024-06-21 |
 | [Tour du Monde](https://open.spotify.com/track/4SBcbQDGWAmZzmMXV09ZqS) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Tour du Monde](https://open.spotify.com/album/6PDyNaRKTKWiT0SFggT1FY) | 2:31 | 2024-12-19 | 2025-02-07 |
-| [Tout a changé \(Rien n'a changé\)](https://open.spotify.com/track/2LVLfi56877BcKEPkrUuYZ) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Hélé](https://open.spotify.com/album/78tVFMGbPWdm1S86JyC017) | 2:46 | 2025-08-07 |  |
+| [Tout a changé \(Rien n'a changé\)](https://open.spotify.com/track/2LVLfi56877BcKEPkrUuYZ) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Hélé](https://open.spotify.com/album/78tVFMGbPWdm1S86JyC017) | 2:46 | 2025-08-07 | 2026-06-26 |
 | [Tout ce que l'on dit \(Mais qu'on ne fait pas\) \- Edit](https://open.spotify.com/track/0hsCfpvzUowipx8KQcsWuu) | [Grégoire](https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E) | [Vivre](https://open.spotify.com/album/5wFGo80kX0WaAkn4sGocyb) | 3:04 | 2024-04-11 | 2024-11-08 |
 | [Tout ce que l'on dit mais qu'on ne fait pas](https://open.spotify.com/track/3RKi6R7lFvPjLgIkdCGLiU) | [Grégoire](https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E) | [Vivre](https://open.spotify.com/album/59u95OSY4puzu4a5Jmymfl) | 3:20 | 2024-03-14 | 2024-04-12 |
 | [Tout dit](https://open.spotify.com/track/5rgGCPU9u78iGV0yIdextZ) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Tout dit](https://open.spotify.com/album/5D7Egi9aJlMcIBbwNAga1e) | 2:31 | 2025-01-09 | 2025-02-28 |

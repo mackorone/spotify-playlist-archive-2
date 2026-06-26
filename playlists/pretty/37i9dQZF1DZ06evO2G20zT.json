@@ -1,12 +1,12 @@
 {
   "description": "This is Seyi Vibez. The essential tracks, all in one playlist.",
-  "num_followers": 50703,
+  "num_followers": 50735,
   "original_name": "This Is Seyi Vibez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajnMgAAAAADFqGupvtBs2Omc2ZKsx0aQ",
+  "snapshot_id": "ajseAAAAAABAG1P5crDkpKjEyHeLrQQ3",
   "tracks": [
     {
       "added_at": null,
@@ -203,6 +203,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NAHAMciaga",
+        "url": "https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Cana",
+      "url": "https://open.spotify.com/track/6iHVLqSeDVj70pcVULZzGj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Timileyin 2.0",
         "url": "https://open.spotify.com/album/6VNmpnogjMbZKJyzuj6c2a"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 159346,
       "name": "Where I\u2019m from",
       "url": "https://open.spotify.com/track/1oFabnkoJ01ksmSmyjELDl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NAHAMciaga",
-        "url": "https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Cana",
-      "url": "https://open.spotify.com/track/6iHVLqSeDVj70pcVULZzGj"
     },
     {
       "added_at": null,
@@ -271,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NAHAMciaga",
+        "url": "https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 123219,
+      "name": "Different Pattern",
+      "url": "https://open.spotify.com/track/46oyXrPbCSbk0TLJ1f7w6K"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Instagram",
         "url": "https://open.spotify.com/album/0GyUBLiSgnRIMnV0H6bP8S"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 140606,
       "name": "Instagram",
       "url": "https://open.spotify.com/track/1Ss5QjczHsdYkvNsiBmoqS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NAHAMciaga",
-        "url": "https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 123219,
-      "name": "Different Pattern",
-      "url": "https://open.spotify.com/track/46oyXrPbCSbk0TLJ1f7w6K"
     },
     {
       "added_at": null,
@@ -435,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NSNV",
-        "url": "https://open.spotify.com/album/0sKjHC9aD5BZsDTxs8I4jk"
+        "name": "Vibe Till Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/6pXS8h1VlReJ5QuuKNogQj"
       },
       "artists": [
         {
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 212297,
-      "name": "God Sent",
-      "url": "https://open.spotify.com/track/6CFlBksvFGvYk8yXP2JrGZ"
+      "duration_ms": 145714,
+      "name": "Blacka Rhythm",
+      "url": "https://open.spotify.com/track/55cRnjrOrjRCw3cp0tUwB5"
     },
     {
       "added_at": null,
@@ -467,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vibe Till Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/6pXS8h1VlReJ5QuuKNogQj"
+        "name": "NSNV",
+        "url": "https://open.spotify.com/album/0sKjHC9aD5BZsDTxs8I4jk"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 145714,
-      "name": "Blacka Rhythm",
-      "url": "https://open.spotify.com/track/55cRnjrOrjRCw3cp0tUwB5"
+      "duration_ms": 212297,
+      "name": "God Sent",
+      "url": "https://open.spotify.com/track/6CFlBksvFGvYk8yXP2JrGZ"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NSNV",
-        "url": "https://open.spotify.com/album/0sKjHC9aD5BZsDTxs8I4jk"
+        "name": "Billion Dollar Baby",
+        "url": "https://open.spotify.com/album/33mcBtk7Vu7uaKjYPvqzKV"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 106971,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/0sXxM6CMjoVAenu5OHYLkq"
+      "duration_ms": 160052,
+      "name": "Bank Of America",
+      "url": "https://open.spotify.com/track/4Hr6oDlsOeZCyhQiOkDFGC"
     },
     {
       "added_at": null,
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Billion Dollar Baby",
-        "url": "https://open.spotify.com/album/33mcBtk7Vu7uaKjYPvqzKV"
+        "name": "NSNV",
+        "url": "https://open.spotify.com/album/0sKjHC9aD5BZsDTxs8I4jk"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 160052,
-      "name": "Bank Of America",
-      "url": "https://open.spotify.com/track/4Hr6oDlsOeZCyhQiOkDFGC"
+      "duration_ms": 106971,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/0sXxM6CMjoVAenu5OHYLkq"
     },
     {
       "added_at": null,
@@ -583,18 +583,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "NSNV",
-        "url": "https://open.spotify.com/album/0sKjHC9aD5BZsDTxs8I4jk"
+        "name": "WhatsApp",
+        "url": "https://open.spotify.com/album/1XzyxAC4BrXyqVmGNxM7vU"
       },
       "artists": [
         {
           "name": "Seyi Vibez",
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        },
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
         }
       ],
-      "duration_ms": 164675,
-      "name": "NSNV",
-      "url": "https://open.spotify.com/track/7jvvjljkMmfMEpRWQ7MxE2"
+      "duration_ms": 134237,
+      "name": "WhatsApp",
+      "url": "https://open.spotify.com/track/2DRHfIWD9Mg70QgTxAKn4m"
     },
     {
       "added_at": null,
@@ -615,22 +619,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "WhatsApp",
-        "url": "https://open.spotify.com/album/1XzyxAC4BrXyqVmGNxM7vU"
+        "name": "NSNV",
+        "url": "https://open.spotify.com/album/0sKjHC9aD5BZsDTxs8I4jk"
       },
       "artists": [
         {
           "name": "Seyi Vibez",
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        },
-        {
-          "name": "Bloody Civilian",
-          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
         }
       ],
-      "duration_ms": 134237,
-      "name": "WhatsApp",
-      "url": "https://open.spotify.com/track/2DRHfIWD9Mg70QgTxAKn4m"
+      "duration_ms": 164675,
+      "name": "NSNV",
+      "url": "https://open.spotify.com/track/7jvvjljkMmfMEpRWQ7MxE2"
     },
     {
       "added_at": null,
@@ -671,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NAHAMciaga",
+        "url": "https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 163846,
+      "name": "Shazam",
+      "url": "https://open.spotify.com/track/7h3lUXlCx5Wn7ac0fQriz3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hat-Trick",
         "url": "https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 156134,
       "name": "Emo (Remix)",
       "url": "https://open.spotify.com/track/1fBzU9kseA8Tmq8rV2R1eC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NAHAMciaga",
-        "url": "https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 163846,
-      "name": "Shazam",
-      "url": "https://open.spotify.com/track/7h3lUXlCx5Wn7ac0fQriz3"
     },
     {
       "added_at": null,

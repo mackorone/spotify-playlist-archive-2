@@ -223,6 +223,28 @@
     },
     {
       "album": {
+        "name": "7ayati",
+        "url": "https://open.spotify.com/album/3UGMlvp7syKa9ze1hNkhms"
+      },
+      "artists": [
+        {
+          "name": "Nawfal",
+          "url": "https://open.spotify.com/artist/0YTJRguouZtIVP0xFGLfkr"
+        },
+        {
+          "name": "DJ White Socks",
+          "url": "https://open.spotify.com/artist/0j0eSYnIP4NmdBRRMRvdUf"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151874,
+      "name": "7ayati",
+      "url": "https://open.spotify.com/track/1BN7xAyT8kj44lsdem70kx"
+    },
+    {
+      "album": {
         "name": "80's",
         "url": "https://open.spotify.com/album/2XjaUCMkWHkRd996KUVOHT"
       },
@@ -4474,7 +4496,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 185116,
       "name": "J't'en vacances (j'fais c'que j'veux) [feat. Orange Lessard]",
       "url": "https://open.spotify.com/track/3cgOQLfKsHchjogpWaFE41"
@@ -5534,6 +5556,28 @@
       "duration_ms": 201122,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
+    },
+    {
+      "album": {
+        "name": "LYNA",
+        "url": "https://open.spotify.com/album/4rqyOXZ0fycFvV4THYD3Q8"
+      },
+      "artists": [
+        {
+          "name": "Jeady Jay",
+          "url": "https://open.spotify.com/artist/4hXDK6hpOhP5dW2kuWZ6my"
+        },
+        {
+          "name": "Lyna Mahyem",
+          "url": "https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130126,
+      "name": "LYNA",
+      "url": "https://open.spotify.com/track/2ZizTkAYMGtjOXeGCAziZY"
     },
     {
       "album": {
@@ -9772,7 +9816,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 144635,
       "name": "Univers",
       "url": "https://open.spotify.com/track/4b5mmyOtZQZR8RsmKuKohL"

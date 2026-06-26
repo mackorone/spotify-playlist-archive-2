@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Deutschpop, der jetzt passiert. Cover: LUNA",
+  "description": "Deutschpop, der jetzt passiert. Cover: Lea Marie",
   "name": "POPLAND",
   "tracks": [
     {
@@ -1709,6 +1709,24 @@
     },
     {
       "album": {
+        "name": "danngehichmit",
+        "url": "https://open.spotify.com/album/2IGWvWEDeg4fhejQYol9GJ"
+      },
+      "artists": [
+        {
+          "name": "ALLESS.",
+          "url": "https://open.spotify.com/artist/0XfxzDkOJ7NkZG46mTsnxl"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "danngehichmit",
+      "url": "https://open.spotify.com/track/4ACwBqcod8RjvbdMZyYn4x"
+    },
+    {
+      "album": {
         "name": "dar\u00fcber schlafen",
         "url": "https://open.spotify.com/album/0BtFFhypiYIyaEUMspgQKe"
       },
@@ -2585,6 +2603,28 @@
     },
     {
       "album": {
+        "name": "Ein Leben lang ist nicht lang",
+        "url": "https://open.spotify.com/album/1WITsJNMMBfLb0axZHUhfH"
+      },
+      "artists": [
+        {
+          "name": "Peter Maffay",
+          "url": "https://open.spotify.com/artist/5W3s4beu23rOlseCbVOp4l"
+        },
+        {
+          "name": "Johannes Oerding",
+          "url": "https://open.spotify.com/artist/4I7D65YMlr6ZxVEGPb7q2K"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191571,
+      "name": "Ein Leben lang ist nicht lang",
+      "url": "https://open.spotify.com/track/3BDmgKrnDDc2oSbb0TfQT2"
+    },
+    {
+      "album": {
         "name": "Ein Lied",
         "url": "https://open.spotify.com/album/60xB6sJ3lZJZBgRdyRzZmO"
       },
@@ -2756,6 +2796,24 @@
       "duration_ms": 171841,
       "name": "Entzug",
       "url": "https://open.spotify.com/track/7L9ut1LUjOFYGr1UjV5NOp"
+    },
+    {
+      "album": {
+        "name": "erst recht",
+        "url": "https://open.spotify.com/album/2y0yqDdEMm3TcX4CGODbTC"
+      },
+      "artists": [
+        {
+          "name": "Maiva",
+          "url": "https://open.spotify.com/artist/5DluYS6gq7pRws9o6EgVd5"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163995,
+      "name": "erst recht",
+      "url": "https://open.spotify.com/track/0ZKIhZ5jljuJLbRCK5H9Ky"
     },
     {
       "album": {
@@ -3217,6 +3275,24 @@
     },
     {
       "album": {
+        "name": "Frieden im Herz",
+        "url": "https://open.spotify.com/album/5ny6aFzYeASF47k13iubGB"
+      },
+      "artists": [
+        {
+          "name": "Madeline Juno",
+          "url": "https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161162,
+      "name": "Frieden im Herz",
+      "url": "https://open.spotify.com/track/4XocN9QUsmiWPztk6ptRpI"
+    },
+    {
+      "album": {
         "name": "Funkstille",
         "url": "https://open.spotify.com/album/2ZEr5BaAa9sTiDnvUwEdD1"
       },
@@ -3358,7 +3434,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 172026,
       "name": "f\u00fcr immer?",
       "url": "https://open.spotify.com/track/5AoEvlzLgADmPb5Incloqt"
@@ -3438,7 +3514,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 152048,
       "name": "Gef\u00e4hrlich",
       "url": "https://open.spotify.com/track/5AOMAHYhBm92nyPBDHNsrv"
@@ -3979,6 +4055,32 @@
     },
     {
       "album": {
+        "name": "wof\u00fcr es sich zu leben lohnt",
+        "url": "https://open.spotify.com/album/4S7PyRhfDKCJZR5cwfun5E"
+      },
+      "artists": [
+        {
+          "name": "Esther Graf",
+          "url": "https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID"
+        },
+        {
+          "name": "Dani Lia",
+          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
+        },
+        {
+          "name": "yola",
+          "url": "https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136578,
+      "name": "hausverbot",
+      "url": "https://open.spotify.com/track/35d7jd7wWS3GstJwVNZy3b"
+    },
+    {
+      "album": {
         "name": "heimkommen",
         "url": "https://open.spotify.com/album/1bNvs6IMhOHHmnYBSPcsn9"
       },
@@ -4106,6 +4208,24 @@
       "duration_ms": 133961,
       "name": "Herz ist dumm",
       "url": "https://open.spotify.com/track/15K7EFaiq1OWvpFmaM6npW"
+    },
+    {
+      "album": {
+        "name": "herz ist voll",
+        "url": "https://open.spotify.com/album/7HUZ125bMfyNfmZTQluu9f"
+      },
+      "artists": [
+        {
+          "name": "LARA",
+          "url": "https://open.spotify.com/artist/5sJwUJdjiGahgdLEVf81MF"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154201,
+      "name": "herz ist voll",
+      "url": "https://open.spotify.com/track/7s8I4fgAtdXSiJ2Ha7hLrv"
     },
     {
       "album": {
@@ -4658,7 +4778,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 170000,
       "name": "In Ihren Augen",
       "url": "https://open.spotify.com/track/2SZ3i0PZy23dXWZQbZRQaa"
@@ -5492,7 +5612,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 112880,
       "name": "Kommst du mit?",
       "url": "https://open.spotify.com/track/0JS8nbktkJihgnLRR0jNYM"
@@ -5778,6 +5898,24 @@
       "duration_ms": 141453,
       "name": "leicht",
       "url": "https://open.spotify.com/track/11reqIzoHjabDRgj1oMXTB"
+    },
+    {
+      "album": {
+        "name": "Leichte Liebe",
+        "url": "https://open.spotify.com/album/664H71cC6MJdNdHMteBFNd"
+      },
+      "artists": [
+        {
+          "name": "Luisa Lou",
+          "url": "https://open.spotify.com/artist/5bDFLmwxBPAMKCUOx0QlsW"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173723,
+      "name": "Leichte Liebe",
+      "url": "https://open.spotify.com/track/02x4vIxmTyh6AARScVclDb"
     },
     {
       "album": {
@@ -6154,6 +6292,24 @@
       "duration_ms": 176359,
       "name": "magisch",
       "url": "https://open.spotify.com/track/0wmR6boixeo88YknUEIfmq"
+    },
+    {
+      "album": {
+        "name": "mama",
+        "url": "https://open.spotify.com/album/4Z96xMS4QstoYt0ajepsuZ"
+      },
+      "artists": [
+        {
+          "name": "Bella",
+          "url": "https://open.spotify.com/artist/5faCGAse4maeHgRIvEMS56"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "mama",
+      "url": "https://open.spotify.com/track/7eLvcOXD9tGss0MTMtmrqg"
     },
     {
       "album": {
@@ -6978,7 +7134,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 188097,
       "name": "nie allein",
       "url": "https://open.spotify.com/track/1SpDDYa4qBXiidvuxWZU8T"
@@ -7090,6 +7246,24 @@
       "duration_ms": 141416,
       "name": "nie wieder so jung",
       "url": "https://open.spotify.com/track/0tsXOM0LALgBgtO1whk7DD"
+    },
+    {
+      "album": {
+        "name": "NIE WIEDER VERLIEBEN",
+        "url": "https://open.spotify.com/album/1N5rdYFFXZEzQ8493EGbP3"
+      },
+      "artists": [
+        {
+          "name": "CIVAN",
+          "url": "https://open.spotify.com/artist/2DkBug60LT1v2RHGTgbo0g"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "NIE WIEDER VERLIEBEN",
+      "url": "https://open.spotify.com/track/47gklMn1a3YveTOXtEJKxe"
     },
     {
       "album": {
@@ -7700,7 +7874,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 122681,
       "name": "pirouetten",
       "url": "https://open.spotify.com/track/2EXoZOOeQ170NVUbwlaIhO"
@@ -7870,7 +8044,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 177534,
       "name": "PSYCHO",
       "url": "https://open.spotify.com/track/6hFOFBz6iqx5JTXli7h7di"
@@ -8270,10 +8444,28 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 175934,
       "name": "seit ich dich mag",
       "url": "https://open.spotify.com/track/0lqROLcSPTYSIZ9YjKtvX6"
+    },
+    {
+      "album": {
+        "name": "seit wir 14 sind",
+        "url": "https://open.spotify.com/album/7KXc3eMC5EVXRDbvtpKBgk"
+      },
+      "artists": [
+        {
+          "name": "Lea Marie",
+          "url": "https://open.spotify.com/artist/5XIF2l3hXty0qWMNR58Bqk"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135790,
+      "name": "seit wir 14 sind",
+      "url": "https://open.spotify.com/track/671KetA7pWmDgB0LW4KcfG"
     },
     {
       "album": {
@@ -9256,7 +9448,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 128403,
       "name": "VERMISS DICH",
       "url": "https://open.spotify.com/track/4r6Aws9aiJdYpG4cS1vrJ1"
@@ -10558,7 +10750,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 179853,
       "name": "wundersch\u00f6n",
       "url": "https://open.spotify.com/track/1zFQF4A7SOCcBFvcZZNKns"

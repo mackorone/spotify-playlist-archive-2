@@ -1,6 +1,6 @@
 {
   "description": "As\u00ed como lo pediste, ponte cursi con las canciones m\u00e1s rom\u00e1nticas. Los 2 de la S en portada \ud83d\udcf8",
-  "num_followers": 1078164,
+  "num_followers": 1078112,
   "original_name": "Banda Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-05-29 06:00:29",
       "album": {
-        "name": "Cuando El Sol Salga Al Rev\u00e9s",
-        "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 183960,
-      "name": "Mi Buen Amante",
-      "url": "https://open.spotify.com/track/1aRrxkV7U4uDhrVkJt8F6Y"
-    },
-    {
-      "added_at": "2026-05-29 06:00:29",
-      "album": {
         "name": "Amor Brutal",
         "url": "https://open.spotify.com/album/45e9grFYy0DiOG5rIpBpIe"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 165146,
       "name": "Mi Bello \u00c1ngel",
       "url": "https://open.spotify.com/track/0DKoET2reNpTGpQMS0VXI0"
+    },
+    {
+      "added_at": "2026-05-29 06:00:29",
+      "album": {
+        "name": "Cuando El Sol Salga Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 183960,
+      "name": "Mi Buen Amante",
+      "url": "https://open.spotify.com/track/1aRrxkV7U4uDhrVkJt8F6Y"
     },
     {
       "added_at": "2026-05-29 06:00:29",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2026-05-29 06:00:29",
       "album": {
-        "name": "Vali\u00f3 La Pena Equivocarme",
-        "url": "https://open.spotify.com/album/1zJpRuqckbWc29EXSboCuc"
-      },
-      "artists": [
-        {
-          "name": "Josi Cuen",
-          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
-        },
-        {
-          "name": "Jorge Medina",
-          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
-        }
-      ],
-      "duration_ms": 221905,
-      "name": "Vali\u00f3 La Pena Equivocarme",
-      "url": "https://open.spotify.com/track/5fadmmChFKcR3G0mChCwP1"
-    },
-    {
-      "added_at": "2026-05-29 06:00:29",
-      "album": {
         "name": "Te Encontr\u00e9",
         "url": "https://open.spotify.com/album/7nI6sntFE1dXyo5UPGRevX"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 197107,
       "name": "Te Encontr\u00e9",
       "url": "https://open.spotify.com/track/7l75lYs5TM7BsGS17ojWQe"
+    },
+    {
+      "added_at": "2026-05-29 06:00:29",
+      "album": {
+        "name": "Vali\u00f3 La Pena Equivocarme",
+        "url": "https://open.spotify.com/album/1zJpRuqckbWc29EXSboCuc"
+      },
+      "artists": [
+        {
+          "name": "Josi Cuen",
+          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
+        },
+        {
+          "name": "Jorge Medina",
+          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
+        }
+      ],
+      "duration_ms": 221905,
+      "name": "Vali\u00f3 La Pena Equivocarme",
+      "url": "https://open.spotify.com/track/5fadmmChFKcR3G0mChCwP1"
     },
     {
       "added_at": "2026-05-29 06:00:29",
@@ -1335,26 +1335,18 @@
     {
       "added_at": "2026-05-29 06:00:29",
       "album": {
-        "name": "A M\u00ed Me Gustas T\u00fa",
-        "url": "https://open.spotify.com/album/3E8pEagTMZOFpfTppkRIHy"
+        "name": "Suspiros",
+        "url": "https://open.spotify.com/album/1nFpuA8baOSvdt0iRIA9IE"
       },
       "artists": [
         {
-          "name": "Los Rojos",
-          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
-        },
-        {
-          "name": "Duelo",
-          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
-        },
-        {
-          "name": "Oscar Iv\u00e1n Trev\u00edno",
-          "url": "https://open.spotify.com/artist/5pPdYQPzWpb1XnsNqE6OOz"
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 186400,
-      "name": "A M\u00ed Me Gustas T\u00fa",
-      "url": "https://open.spotify.com/track/3yLPsviVDfHgXFo6VAcq6z"
+      "duration_ms": 176764,
+      "name": "Suspiros",
+      "url": "https://open.spotify.com/track/2evmCe9rkk8do11scsJ0Xa"
     },
     {
       "added_at": "2026-05-29 06:00:29",
@@ -1375,18 +1367,26 @@
     {
       "added_at": "2026-05-29 06:00:29",
       "album": {
-        "name": "Suspiros",
-        "url": "https://open.spotify.com/album/1nFpuA8baOSvdt0iRIA9IE"
+        "name": "A M\u00ed Me Gustas T\u00fa",
+        "url": "https://open.spotify.com/album/3E8pEagTMZOFpfTppkRIHy"
       },
       "artists": [
         {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+          "name": "Los Rojos",
+          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
+        },
+        {
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+        },
+        {
+          "name": "Oscar Iv\u00e1n Trev\u00edno",
+          "url": "https://open.spotify.com/artist/5pPdYQPzWpb1XnsNqE6OOz"
         }
       ],
-      "duration_ms": 176764,
-      "name": "Suspiros",
-      "url": "https://open.spotify.com/track/2evmCe9rkk8do11scsJ0Xa"
+      "duration_ms": 186400,
+      "name": "A M\u00ed Me Gustas T\u00fa",
+      "url": "https://open.spotify.com/track/3yLPsviVDfHgXFo6VAcq6z"
     },
     {
       "added_at": "2026-05-29 06:00:29",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2026-05-29 06:00:29",
       "album": {
-        "name": "Habla Tu Ex",
-        "url": "https://open.spotify.com/album/5oe0Kt1rdkIclajNXC4YBZ"
-      },
-      "artists": [
-        {
-          "name": "Saul El Jaguar Alarc\u00f3n",
-          "url": "https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro"
-        }
-      ],
-      "duration_ms": 193103,
-      "name": "Habla Tu Ex",
-      "url": "https://open.spotify.com/track/4m2g3MSQmM3vRDMVeDjddV"
-    },
-    {
-      "added_at": "2026-05-29 06:00:29",
-      "album": {
         "name": "Llegando Al Rancho",
         "url": "https://open.spotify.com/album/6vJ9ymVhHcvI1NgFuFA0rN"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 196002,
       "name": "Celos",
       "url": "https://open.spotify.com/track/14cKYjqTETGeewrsckuwtK"
+    },
+    {
+      "added_at": "2026-05-29 06:00:29",
+      "album": {
+        "name": "Habla Tu Ex",
+        "url": "https://open.spotify.com/album/5oe0Kt1rdkIclajNXC4YBZ"
+      },
+      "artists": [
+        {
+          "name": "Saul El Jaguar Alarc\u00f3n",
+          "url": "https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro"
+        }
+      ],
+      "duration_ms": 193103,
+      "name": "Habla Tu Ex",
+      "url": "https://open.spotify.com/track/4m2g3MSQmM3vRDMVeDjddV"
     },
     {
       "added_at": "2026-05-29 06:00:29",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2026-05-29 06:00:29",
       "album": {
-        "name": "Primera Cita",
-        "url": "https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 186455,
-      "name": "Primera Cita",
-      "url": "https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE"
-    },
-    {
-      "added_at": "2026-05-29 06:00:29",
-      "album": {
         "name": "Qu\u00e9 Onda Perdida",
         "url": "https://open.spotify.com/album/6kbhZqFlf80O9LW2EAWz15"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 239637,
       "name": "Qu\u00e9 Onda Perdida",
       "url": "https://open.spotify.com/track/3upTB6o5YgeALHgDp3mzte"
+    },
+    {
+      "added_at": "2026-05-29 06:00:29",
+      "album": {
+        "name": "Primera Cita",
+        "url": "https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 186455,
+      "name": "Primera Cita",
+      "url": "https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE"
     },
     {
       "added_at": "2026-05-29 06:00:29",
@@ -2055,6 +2055,22 @@
     {
       "added_at": "2026-05-29 06:00:29",
       "album": {
+        "name": "La Banda Grande de la Sultana del Norte",
+        "url": "https://open.spotify.com/album/4dmYmIkDXdr42Ul9fAZrHW"
+      },
+      "artists": [
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        }
+      ],
+      "duration_ms": 216226,
+      "name": "Broche de Oro",
+      "url": "https://open.spotify.com/track/5lqBhTIPK6sJ57mm7YfaKt"
+    },
+    {
+      "added_at": "2026-05-29 06:00:29",
+      "album": {
         "name": "Encerrados Pero Enfiestados (Live Vol. 1)",
         "url": "https://open.spotify.com/album/6zXEcqqa4uHq4rg62M0Fxj"
       },
@@ -2083,22 +2099,6 @@
       "duration_ms": 220000,
       "name": "Tu Eterno Enamorado",
       "url": "https://open.spotify.com/track/1DWHKFDQ4xy1U9ncNNbm4P"
-    },
-    {
-      "added_at": "2026-05-29 06:00:29",
-      "album": {
-        "name": "La Banda Grande de la Sultana del Norte",
-        "url": "https://open.spotify.com/album/4dmYmIkDXdr42Ul9fAZrHW"
-      },
-      "artists": [
-        {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
-        }
-      ],
-      "duration_ms": 216226,
-      "name": "Broche de Oro",
-      "url": "https://open.spotify.com/track/5lqBhTIPK6sJ57mm7YfaKt"
     }
   ],
   "unique_name": "Banda Rom\u00e1ntica",

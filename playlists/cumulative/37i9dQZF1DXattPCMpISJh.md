@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Dabeull
 
-349 songs - 21 hr 27 min
+350 songs - 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Call My Name](https://open.spotify.com/track/5l0PRf7kUchBQa9Kkdejqp) | [Sleepy Tom](https://open.spotify.com/artist/1D9XQXqh4YQfJwX7hyLWwr), [Dawn Pemberton](https://open.spotify.com/artist/1nhMHvacUcBwhNToEU4WV7) | [Call My Name](https://open.spotify.com/album/4ZO3TyYHuLyY8ATWSCpKCG) | 3:01 | 2022-05-20 | 2022-09-24 |
 | [CALL NOW \(504\-305\-8269\) \(feat\. Michael Batiste\)](https://open.spotify.com/track/3knkb8Uye1Ndmx6abiIJCC) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Michael Batiste](https://open.spotify.com/artist/1HhxyoQLcufGgej3hU46aA) | [World Music Radio](https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF) | 3:19 | 2023-08-18 |  |
 | [Can't Get Enough](https://open.spotify.com/track/4iKhQ8ww70bM5rqFGmqcxq) | [Daniele Baldi](https://open.spotify.com/artist/6XCnlAqoGasmWxoLIghnVS) | [Can't Get Enough](https://open.spotify.com/album/1EDOh4foBxuhT5PaInDmlM) | 6:22 | 2022-07-01 | 2024-02-17 |
+| [Can't Stop My Feet](https://open.spotify.com/track/15htPZCKA42k5A6rPKXaHR) | [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c), [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [UNSECRET DISCO](https://open.spotify.com/album/0Sl36dfBXVEBZly2r7KQSA) | 3:06 | 2026-06-26 |  |
 | [Can't Stop Writing Songs About You](https://open.spotify.com/track/36AHZnLUtm7QmS1VhuxeiF) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [DISCO: Guest List Edition](https://open.spotify.com/album/48ausuYzcDZAqD7ML9sPcU) | 3:04 | 2021-11-12 | 2022-10-15 |
 | [Celebrate \- Radio Edit](https://open.spotify.com/track/5dEk9sFFB5jpi2RWXKep3Z) | [Micky More & Andy Tee](https://open.spotify.com/artist/4J8KATDlTQSmBzS6T78QPN), [Kathy Brown](https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq), [Sheree Hicks](https://open.spotify.com/artist/79dkWGNPlut8iOyyqPw9Ru) | [Celebrate \(Radio Edit\)](https://open.spotify.com/album/3QIlKE97catBOG2cz5Pan4) | 3:34 | 2023-11-10 |  |
 | [Celebrities](https://open.spotify.com/track/4ZUrFcdrdXge2KavbwF1QG) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7) | [Celebrities](https://open.spotify.com/album/0HQYwb8lUcmwfYjtlpT2t0) | 2:34 | 2023-04-07 | 2025-06-28 |
@@ -143,7 +144,7 @@
 | [HIGH SCHOOL.](https://open.spotify.com/track/2EdjwyRcg3ZqBVsupTxh7S) | [Miranda Powell](https://open.spotify.com/artist/0ooh81WuZPO0SfrChHB1YO), [Ryan Prewett](https://open.spotify.com/artist/0hBE2OEnt0liysUwP4ZaEj) | [HIGH SCHOOL.](https://open.spotify.com/album/6hedKKC6Npmec14EZzKdMz) | 3:16 | 2024-08-16 |  |
 | [Highway Runner \- Ladies on Mars "Street Race" Remix](https://open.spotify.com/track/21BXst2WHRctU1BoynqJQH) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U), [Ladies On Mars](https://open.spotify.com/artist/6tJrp4FYVXfFRZ3oIBD4SU) | [I'm a Rainbow: Recovered & Recoloured](https://open.spotify.com/album/4TJZ8pzdWWXMDNYAJX7Psy) | 3:11 | 2021-11-19 | 2022-09-10 |
 | [Honey Boy \(feat\. Nile Rodgers & Shenseea\) \- Extended Version](https://open.spotify.com/track/0wKCTce0iM4zvsI91qlp3X) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Honey Boy \(feat\. Nile Rodgers & Shenseea\) \[Extended Version\]](https://open.spotify.com/album/6q3RTRma8OfHW8PAFYUKqS) | 7:11 | 2024-05-17 |  |
-| [HOT](https://open.spotify.com/track/1UVRdZRAiW3GomKSg81PLE) | [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj) | [HOT](https://open.spotify.com/album/1KmisFnVTIct9oBmATe41I) | 3:38 | 2023-04-28 |  |
+| [HOT](https://open.spotify.com/track/1UVRdZRAiW3GomKSg81PLE) | [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj) | [HOT](https://open.spotify.com/album/1KmisFnVTIct9oBmATe41I) | 3:38 | 2023-04-28 | 2026-06-26 |
 | [Hotel Dream Girl](https://open.spotify.com/track/4NN6lhuYIIXrL1dLISYLHl) | [Maty Noyes](https://open.spotify.com/artist/5JSXWmQO8csVUy6hSRu8TA), [Spencer Ludwig](https://open.spotify.com/artist/6miuYP0AovZaaKpRFaDQMQ) | [Hotel Dream Girl](https://open.spotify.com/album/2vbqvXDyk9nwrSj76jkSlA) | 3:43 | 2024-07-26 |  |
 | [I Am](https://open.spotify.com/track/6MVk4SW25q1CNENQE1RHyv) | [Michaela Jaé](https://open.spotify.com/artist/1XtZq3vSEgghxZS9aqITv5) | [I Am](https://open.spotify.com/album/06AscAzNNnjwtxfzXgrElI) | 2:03 | 2024-06-14 |  |
 | [I Believe It](https://open.spotify.com/track/5yuscwN84KrGaj06WiUUKy) | [Venice Club](https://open.spotify.com/artist/5nn6vlKul0h0t1ESe524Vx) | [I Believe It](https://open.spotify.com/album/7IqVMiFRYTIOkQP0TC5dW8) | 2:47 | 2022-12-16 | 2023-05-13 |

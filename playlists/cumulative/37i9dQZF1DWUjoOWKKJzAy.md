@@ -4,7 +4,7 @@
 
 > Os hits históricos da década de ouro do rock nacional\. Foto: Cazuza.
 
-86 songs - 5 hr 26 min
+87 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Kátia Flávia, a Godiva de Irajá](https://open.spotify.com/track/5CJi4BG1lGSXwSx3UI1u5Q) | [Fausto Fawcett e Os Robôs Efêmeros](https://open.spotify.com/artist/3dTZZy2Cx13JZtiv9UfZl6) | [iCollection Pop Brasil](https://open.spotify.com/album/2gNwKYJJARenvtgdiq7yhG) | 4:09 | 2020-10-16 | 2024-04-19 |
 | [Kátia Flávia, a Godiva de Irajá](https://open.spotify.com/track/7bu5WQP70BZSKfS3u5rvPA) | [Fausto Fawcett e Os Robôs Efêmeros](https://open.spotify.com/artist/3dTZZy2Cx13JZtiv9UfZl6) | [Elite Squad](https://open.spotify.com/album/1mDEzO58hQ8P7czrdHocfG) | 4:09 | 2020-10-16 |  |
 | [Lança Perfume](https://open.spotify.com/track/0rAX31FT5w3ZQbQMUSkxy8) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Hits](https://open.spotify.com/album/7i4l4zXrbUuK3sL3K99J27) | 2:07 | 2020-10-16 |  |
+| [Louras Geladas \- Ao Vivo](https://open.spotify.com/track/781M4UvrRm917MWRdixUee) | [Paulo Ricardo](https://open.spotify.com/artist/07V0GWuWYmgheREejBORmk) | [Tour XL \- 40 Anos \(Ao Vivo\)](https://open.spotify.com/album/42UPFBZiRi0dh7M6AxeHHT) | 3:48 | 2026-06-25 |  |
 | [Lágrimas de Crocodilo](https://open.spotify.com/track/1ONnn6GrKQoGuHUYQ3eTyv) | [João Penca E Seus Miquinhos Amestrados](https://open.spotify.com/artist/3ISUva36663YvbTZVduBan) | [Hot 20 \- João Penca e Seus Miquinhos Amestrados](https://open.spotify.com/album/0C304PONzIjVaPp4E9U78L) | 3:52 | 2020-10-16 |  |
 | [Me Chama \(feat\. Os Ronaldos\)](https://open.spotify.com/track/6YEs08eeTPKqODQV6TFI0t) | [Lobão](https://open.spotify.com/artist/3LWCuB9QxDmpLhhGwqU04N), [Os Ronaldos](https://open.spotify.com/artist/0txqfJWkA14vekIQcWesml) | [Ronaldo Foi Pra Guerra \(feat\. Os Ronaldos\)](https://open.spotify.com/album/0KdU1xRKnsMO85sAfLZQBH) | 3:42 | 2020-10-16 |  |
 | [Mesmo Que Seja Eu](https://open.spotify.com/track/5gbWOpPBOCUtuhlu0GmfM8) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Brasil Anos 80](https://open.spotify.com/album/6Mdru7B07vdsrH710I43es) | 4:38 | 2020-10-16 | 2022-11-13 |

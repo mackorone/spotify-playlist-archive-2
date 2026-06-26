@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 12668,
+  "num_followers": 12672,
   "original_name": "\uc378 !",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-06-24 04:55:06",
       "album": {
-        "name": "Spring Fever, Pt. 7 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3EhkvrtYTudwpxtOnxvWuW"
-      },
-      "artists": [
-        {
-          "name": "FIFTY FIFTY",
-          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
-        }
-      ],
-      "duration_ms": 173732,
-      "name": "Still In Time",
-      "url": "https://open.spotify.com/track/2AId5fDE2y1UUbagfZVzIQ"
-    },
-    {
-      "added_at": "2026-06-24 04:55:06",
-      "album": {
         "name": "Love Frequency (Original Soundtrack from Just For Meeting You)",
         "url": "https://open.spotify.com/album/3cgYAtoLlt8nO7YdoEuY2l"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 163000,
       "name": "Love Frequency",
       "url": "https://open.spotify.com/track/0JpjJ135Rg9wIzl8FPB9Rw"
+    },
+    {
+      "added_at": "2026-06-24 04:55:06",
+      "album": {
+        "name": "Spring Fever, Pt. 7 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3EhkvrtYTudwpxtOnxvWuW"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "duration_ms": 173732,
+      "name": "Still In Time",
+      "url": "https://open.spotify.com/track/2AId5fDE2y1UUbagfZVzIQ"
     },
     {
       "added_at": "2026-06-24 04:55:06",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-06-24 04:55:06",
       "album": {
-        "name": "LOVECHAPTER",
-        "url": "https://open.spotify.com/album/4taRaj6jpJSs4cp5KFbPJZ"
-      },
-      "artists": [
-        {
-          "name": "H1-KEY",
-          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Stuck with You",
-      "url": "https://open.spotify.com/track/3IJASXMNdfp8z130pvy8p8"
-    },
-    {
-      "added_at": "2026-06-24 04:55:06",
-      "album": {
         "name": "Would You Hold My Hand?",
         "url": "https://open.spotify.com/album/6E7w7vQOxUEa7Jh38RhgVd"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 166994,
       "name": "Would You Hold My Hand?",
       "url": "https://open.spotify.com/track/5kOV8uXtuQoPt7nOs6RqoV"
+    },
+    {
+      "added_at": "2026-06-24 04:55:06",
+      "album": {
+        "name": "LOVECHAPTER",
+        "url": "https://open.spotify.com/album/4taRaj6jpJSs4cp5KFbPJZ"
+      },
+      "artists": [
+        {
+          "name": "H1-KEY",
+          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Stuck with You",
+      "url": "https://open.spotify.com/track/3IJASXMNdfp8z130pvy8p8"
     },
     {
       "added_at": "2026-06-24 04:55:06",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-06-24 04:55:06",
       "album": {
-        "name": "Before the Petals Fall",
-        "url": "https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3"
-      },
-      "artists": [
-        {
-          "name": "CHEN",
-          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
-        }
-      ],
-      "duration_ms": 229346,
-      "name": "Before the Petals Fall",
-      "url": "https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t"
-    },
-    {
-      "added_at": "2026-06-24 04:55:06",
-      "album": {
         "name": "Fall In Love",
         "url": "https://open.spotify.com/album/4vuGJU3d8YCJZRSNvFHX90"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 202546,
       "name": "Fall In Love",
       "url": "https://open.spotify.com/track/5TfjXWXIFzctqqiAoT7bSi"
+    },
+    {
+      "added_at": "2026-06-24 04:55:06",
+      "album": {
+        "name": "Before the Petals Fall",
+        "url": "https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3"
+      },
+      "artists": [
+        {
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+        }
+      ],
+      "duration_ms": 229346,
+      "name": "Before the Petals Fall",
+      "url": "https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t"
     },
     {
       "added_at": "2026-06-24 04:55:06",
@@ -851,22 +851,18 @@
     {
       "added_at": "2026-06-24 04:55:06",
       "album": {
-        "name": "It just happened",
-        "url": "https://open.spotify.com/album/5EUfw7eDDUmSqSy0FN0AGh"
+        "name": "Reaching",
+        "url": "https://open.spotify.com/album/7bnEpJb2YFnRwWZ5fwmgOl"
       },
       "artists": [
         {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
-        },
-        {
-          "name": "Young K",
-          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
+          "name": "MINHYUK (MONSTA X)",
+          "url": "https://open.spotify.com/artist/1lnrTVtTQtQS77320ZmX5V"
         }
       ],
-      "duration_ms": 156306,
-      "name": "\uadf8\ub807\uac8c \ub410\uc5b4 It just happened",
-      "url": "https://open.spotify.com/track/1aMxvF0VxH9uyTCRFceyfm"
+      "duration_ms": 199000,
+      "name": "Reaching",
+      "url": "https://open.spotify.com/track/3YigBhekrP5JPrU9Ahpr2a"
     }
   ],
   "unique_name": "\uc378 !",

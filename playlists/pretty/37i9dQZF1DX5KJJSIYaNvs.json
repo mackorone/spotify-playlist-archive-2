@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover - Sunidhi Chauhan",
-  "num_followers": 105186,
+  "num_followers": 105216,
   "original_name": "EQUAL India",
   "owner": {
     "name": "Spotify",
@@ -1207,30 +1207,6 @@
     {
       "added_at": "2026-06-23 04:05:06",
       "album": {
-        "name": "Ek Din (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6wjziPdeJgVa4AcUoKmX8m"
-      },
-      "artists": [
-        {
-          "name": "Meghna Mishra",
-          "url": "https://open.spotify.com/artist/3vJxJcGRIPwNnWnZwO4vmq"
-        },
-        {
-          "name": "Ram Sampath",
-          "url": "https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx"
-        },
-        {
-          "name": "Irshad Kamil",
-          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
-        }
-      ],
-      "duration_ms": 267272,
-      "name": "Ek Din Title Track (Female) - From \"Ek Din\"",
-      "url": "https://open.spotify.com/track/3kO4Zzo9tKkoq2iNElaPIz"
-    },
-    {
-      "added_at": "2026-06-23 04:05:06",
-      "album": {
         "name": "Jindua",
         "url": "https://open.spotify.com/album/4g2sRBNskak775SL1Qidoo"
       },
@@ -1263,6 +1239,30 @@
       "duration_ms": 176938,
       "name": "Jindua",
       "url": "https://open.spotify.com/track/5Efx3o1NB0vfFDBusFYjqh"
+    },
+    {
+      "added_at": "2026-06-23 04:05:06",
+      "album": {
+        "name": "Ek Din (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6wjziPdeJgVa4AcUoKmX8m"
+      },
+      "artists": [
+        {
+          "name": "Meghna Mishra",
+          "url": "https://open.spotify.com/artist/3vJxJcGRIPwNnWnZwO4vmq"
+        },
+        {
+          "name": "Ram Sampath",
+          "url": "https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "duration_ms": 267272,
+      "name": "Ek Din Title Track (Female) - From \"Ek Din\"",
+      "url": "https://open.spotify.com/track/3kO4Zzo9tKkoq2iNElaPIz"
     },
     {
       "added_at": "2026-06-23 04:05:06",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-06-23 04:05:06",
       "album": {
-        "name": "Fasaana",
-        "url": "https://open.spotify.com/album/1aXkbjRSWxyBZOujzSE8Wj"
-      },
-      "artists": [
-        {
-          "name": "Kuhu Gracia",
-          "url": "https://open.spotify.com/artist/4ebleKdf8oHmy6tyB0W6cq"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Fasaana",
-      "url": "https://open.spotify.com/track/69UVWiMCXMNnj6bKLc2Bi6"
-    },
-    {
-      "added_at": "2026-06-23 04:05:06",
-      "album": {
         "name": "Pankh",
         "url": "https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3"
       },
@@ -1539,6 +1523,22 @@
     {
       "added_at": "2026-06-23 04:05:06",
       "album": {
+        "name": "Fasaana",
+        "url": "https://open.spotify.com/album/1aXkbjRSWxyBZOujzSE8Wj"
+      },
+      "artists": [
+        {
+          "name": "Kuhu Gracia",
+          "url": "https://open.spotify.com/artist/4ebleKdf8oHmy6tyB0W6cq"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Fasaana",
+      "url": "https://open.spotify.com/track/69UVWiMCXMNnj6bKLc2Bi6"
+    },
+    {
+      "added_at": "2026-06-23 04:05:06",
+      "album": {
         "name": "Ankhiyan Roye",
         "url": "https://open.spotify.com/album/28jr23QVPgioV3LcXCkr7M"
       },
@@ -1555,6 +1555,26 @@
       "duration_ms": 195789,
       "name": "Ankhiyan Roye",
       "url": "https://open.spotify.com/track/4gjSfkLdSKAxsDZ4aj0RXb"
+    },
+    {
+      "added_at": "2026-06-23 04:05:06",
+      "album": {
+        "name": "Gal Dil Di",
+        "url": "https://open.spotify.com/album/0zDrspwWjcoS5F4qirkutB"
+      },
+      "artists": [
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        },
+        {
+          "name": "Daddy Beats",
+          "url": "https://open.spotify.com/artist/1X8jfXY8suwZySWPSaieKs"
+        }
+      ],
+      "duration_ms": 149662,
+      "name": "Gal Dil Di",
+      "url": "https://open.spotify.com/track/2YUcDEr4ahw1bXFFKGWErC"
     },
     {
       "added_at": "2026-06-23 04:05:06",
@@ -1603,26 +1623,6 @@
       "duration_ms": 187317,
       "name": "Ankhiyan Nigodi",
       "url": "https://open.spotify.com/track/2gXCEGUg2zmQODJLfAVJmu"
-    },
-    {
-      "added_at": "2026-06-23 04:05:06",
-      "album": {
-        "name": "Gal Dil Di",
-        "url": "https://open.spotify.com/album/0zDrspwWjcoS5F4qirkutB"
-      },
-      "artists": [
-        {
-          "name": "Asees Kaur",
-          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
-        },
-        {
-          "name": "Daddy Beats",
-          "url": "https://open.spotify.com/artist/1X8jfXY8suwZySWPSaieKs"
-        }
-      ],
-      "duration_ms": 149662,
-      "name": "Gal Dil Di",
-      "url": "https://open.spotify.com/track/2YUcDEr4ahw1bXFFKGWErC"
     },
     {
       "added_at": "2026-06-23 04:05:06",

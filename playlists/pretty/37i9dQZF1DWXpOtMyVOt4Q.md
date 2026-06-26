@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Relaxed beats to game, vibe and stay unbothered
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,490 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,544 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 49 | [Mistline](https://open.spotify.com/track/6Tsjt5Z1rPyYHpUT0rtimv) | [Night Shapes](https://open.spotify.com/artist/6PRP1lwrRpqb8gfYERsnhV) | [Mistline](https://open.spotify.com/album/5q7UFqrJAgGZ9aNrrjEX3F) | 2:10 |
 | 50 | [Ocean Eyes](https://open.spotify.com/track/2PMZHLdLaf5WUibfsL6nIU) | [Amsané](https://open.spotify.com/artist/3ySQ8l1Tp4kYr62AEYJVF0) | [Ocean Eyes](https://open.spotify.com/album/3bbovdHQD22JBvkp6kW1rm) | 2:25 |
 
-Snapshot ID: `AAAAAE1KlauIzNTHDlsnNPp+2CXcxYto`
+Snapshot ID: `AAAAAGwh/tRzTIuWvubg/hA+o7rM8MzH`

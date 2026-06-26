@@ -479,6 +479,24 @@
     },
     {
       "album": {
+        "name": "Birdy Fly",
+        "url": "https://open.spotify.com/album/2xZcep5azEozE5BpjnEN0o"
+      },
+      "artists": [
+        {
+          "name": "Vicky Chen",
+          "url": "https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Birdy Fly",
+      "url": "https://open.spotify.com/track/1kYQz3ILMz6t6QiEuMeNpQ"
+    },
+    {
+      "album": {
         "name": "BISH!",
         "url": "https://open.spotify.com/album/5DBKUrlxeljVzXqpU2nlhV"
       },
@@ -3814,7 +3832,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 190000,
       "name": "\u4e00\u5ff5\u300a\u9010\u7389\u300b",
       "url": "https://open.spotify.com/track/5uMBvdM7s18Enia6QmfmHN"
@@ -4498,6 +4516,24 @@
       "duration_ms": 274793,
       "name": "\u4e0d\u5b8c\u6574\u7684\u4eba",
       "url": "https://open.spotify.com/track/456eWpyVRw99PPInnwJqdw"
+    },
+    {
+      "album": {
+        "name": "\u4e0d\u5b8c\u7f8e\u5fc3\u8df3",
+        "url": "https://open.spotify.com/album/5r4aQAMsnQWiJcQhiHzzZs"
+      },
+      "artists": [
+        {
+          "name": "Haezee",
+          "url": "https://open.spotify.com/artist/0LestIkVCbetqsJ3o72Yzn"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224751,
+      "name": "\u4e0d\u5b8c\u7f8e\u5fc3\u8df3",
+      "url": "https://open.spotify.com/track/4S7oRiMCicrxdCgOzi1sQP"
     },
     {
       "album": {
@@ -7326,7 +7362,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 234614,
       "name": "\u518d\u898b\u7684\u6642\u5019 - \u96fb\u5f71\u300a\u967d\u5149\u5973\u5b50\u5408\u5531\u5718\u300b\u4e3b\u984c\u66f2-\u518d\u898b\u7248",
       "url": "https://open.spotify.com/track/3IBYp3fKyydZ5dDtirLY6P"
@@ -10824,7 +10860,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 279923,
       "name": "\u5e78\u798f\u5728\u6b4c\u5531 - \u96fb\u5f71\u300a\u967d\u5149\u5973\u5b50\u5408\u5531\u5718\u300b\u5e78\u798f\u7248\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/3VHi5bCUek6XdiDmqqrirs"
@@ -19432,6 +19468,24 @@
       "duration_ms": 182727,
       "name": "\u8056\u8a95\u661f",
       "url": "https://open.spotify.com/track/0QZ5ixTvCuUbqfRN7x5jK4"
+    },
+    {
+      "album": {
+        "name": "\u805a\u5149\u71c8",
+        "url": "https://open.spotify.com/album/2YIY3Y78AsF3xXAQmmTnlI"
+      },
+      "artists": [
+        {
+          "name": "\u6591\u6069Ben",
+          "url": "https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177676,
+      "name": "\u805a\u5149\u71c8",
+      "url": "https://open.spotify.com/track/0nmcxMPAZQHsJ0wsNlnLn5"
     },
     {
       "album": {

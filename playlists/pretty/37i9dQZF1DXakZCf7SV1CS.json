@@ -1,6 +1,6 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 94506,
+  "num_followers": 94536,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
@@ -579,26 +579,18 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "1000 gecs",
-        "url": "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
+        "name": "prism",
+        "url": "https://open.spotify.com/album/6dVBs7hZT8Y0W0V0I9bqE7"
       },
       "artists": [
         {
-          "name": "100 gecs",
-          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
-        },
-        {
-          "name": "Laura Les",
-          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
-        },
-        {
-          "name": "Dylan Brady",
-          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
+          "name": "monty.pk",
+          "url": "https://open.spotify.com/artist/3L2O6zqeWf9jdUFVihAB5g"
         }
       ],
-      "duration_ms": 140183,
-      "name": "800 db cloud",
-      "url": "https://open.spotify.com/track/2MLuFz9Y3Vg3PF0Yf93M5c"
+      "duration_ms": 152967,
+      "name": "prism",
+      "url": "https://open.spotify.com/track/3LOF9w7r0yos4DqBvizeLa"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -619,18 +611,26 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "prism",
-        "url": "https://open.spotify.com/album/6dVBs7hZT8Y0W0V0I9bqE7"
+        "name": "1000 gecs",
+        "url": "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
       },
       "artists": [
         {
-          "name": "monty.pk",
-          "url": "https://open.spotify.com/artist/3L2O6zqeWf9jdUFVihAB5g"
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        },
+        {
+          "name": "Laura Les",
+          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
+        },
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
         }
       ],
-      "duration_ms": 152967,
-      "name": "prism",
-      "url": "https://open.spotify.com/track/3LOF9w7r0yos4DqBvizeLa"
+      "duration_ms": 140183,
+      "name": "800 db cloud",
+      "url": "https://open.spotify.com/track/2MLuFz9Y3Vg3PF0Yf93M5c"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -1391,18 +1391,22 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/3b1HpQXYsbf9yY1l3O4yOS"
+        "name": "Here",
+        "url": "https://open.spotify.com/album/6CrQ6A6qRoOaKpr2XIWY25"
       },
       "artists": [
         {
-          "name": "A. G. Cook",
-          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+          "name": "Namasenda",
+          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
+        },
+        {
+          "name": "BFOTY",
+          "url": "https://open.spotify.com/artist/4X11FRbQBCLdIhBEj4K9zM"
         }
       ],
-      "duration_ms": 290061,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/0kFQVrQnp6FtvBTixDUfSd"
+      "duration_ms": 196000,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/6jnagwUXc9pmbi4Pa6h5Z3"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -1423,22 +1427,18 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "Here",
-        "url": "https://open.spotify.com/album/6CrQ6A6qRoOaKpr2XIWY25"
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/3b1HpQXYsbf9yY1l3O4yOS"
       },
       "artists": [
         {
-          "name": "Namasenda",
-          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
-        },
-        {
-          "name": "BFOTY",
-          "url": "https://open.spotify.com/artist/4X11FRbQBCLdIhBEj4K9zM"
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Here",
-      "url": "https://open.spotify.com/track/6jnagwUXc9pmbi4Pa6h5Z3"
+      "duration_ms": 290061,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/0kFQVrQnp6FtvBTixDUfSd"
     },
     {
       "added_at": "2024-10-09 21:55:22",

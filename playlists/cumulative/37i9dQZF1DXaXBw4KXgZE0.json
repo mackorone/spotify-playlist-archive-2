@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "Floating Star",
+        "url": "https://open.spotify.com/album/4bzctxpHzTqTeu4B8C74vO"
+      },
+      "artists": [
+        {
+          "name": "Elias Ljungdahl",
+          "url": "https://open.spotify.com/artist/5rRIUDLokzq6OMl3V98W18"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148137,
+      "name": "Floating Star",
+      "url": "https://open.spotify.com/track/12bHSjSZx3bFAnU1zO9Cwg"
+    },
+    {
+      "album": {
         "name": "Fluffy Yawns",
         "url": "https://open.spotify.com/album/1Jp7M0S9CBoOqxYpSmvXIs"
       },

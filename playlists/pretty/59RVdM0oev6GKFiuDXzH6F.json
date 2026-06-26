@@ -6,8 +6,76 @@
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAARk6nhgJJlkX2jj5VK5Ynp5AzhV5+z",
+  "snapshot_id": "AAARl0pH59fWTYplUIz3bx0VWbK6WVrn",
   "tracks": [
+    {
+      "added_at": "2026-06-25 22:00:04",
+      "album": {
+        "name": "In The Night",
+        "url": "https://open.spotify.com/album/1SBZwbwzZfl6PuPrgd0FSW"
+      },
+      "artists": [
+        {
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+        },
+        {
+          "name": "Stylo",
+          "url": "https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI"
+        },
+        {
+          "name": "Eli & Dani",
+          "url": "https://open.spotify.com/artist/6wVwTnmkjVeWVAas91xIJw"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "In The Night",
+      "url": "https://open.spotify.com/track/4qNqRgHTf2maOS3Ttggutw"
+    },
+    {
+      "added_at": "2026-06-25 22:00:07",
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/0cXacz7I0fKilaALwGJv8B"
+      },
+      "artists": [
+        {
+          "name": "Faiolli",
+          "url": "https://open.spotify.com/artist/6oBVe2YK3rG8pS4eLf36wO"
+        }
+      ],
+      "duration_ms": 164109,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/3rXFpt7WCEDi3EPQGOVLo6"
+    },
+    {
+      "added_at": "2026-06-25 22:00:09",
+      "album": {
+        "name": "You Move Me",
+        "url": "https://open.spotify.com/album/7nIMBY2UWHPXXsZbKZFUF3"
+      },
+      "artists": [
+        {
+          "name": "Dantiez",
+          "url": "https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma"
+        },
+        {
+          "name": "Mauro Venti",
+          "url": "https://open.spotify.com/artist/1EYRcS75munXqQbWsZ0HVd"
+        },
+        {
+          "name": "The Saunderson Brothers",
+          "url": "https://open.spotify.com/artist/4yTGUL6IP7JtGmnVUexpQR"
+        },
+        {
+          "name": "JKLN",
+          "url": "https://open.spotify.com/artist/78OSlmY7jGez7noNJe0VPD"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "You Move Me",
+      "url": "https://open.spotify.com/track/1gNqFYGvHbJv6dwjP71pAp"
+    },
     {
       "added_at": "2026-06-18 22:00:06",
       "album": {
@@ -59,6 +127,26 @@
       "duration_ms": 180019,
       "name": "Party Over Here (feat. Detroit's Filthiest)",
       "url": "https://open.spotify.com/track/43gnaKewGiyWvK4qyypoJR"
+    },
+    {
+      "added_at": "2026-06-25 22:00:11",
+      "album": {
+        "name": "Perception EP",
+        "url": "https://open.spotify.com/album/1tBVUdSnqeyzqaoqvy5G86"
+      },
+      "artists": [
+        {
+          "name": "SOLANCE",
+          "url": "https://open.spotify.com/artist/2gmkTgD5PwEI6E4Vh0f4ha"
+        },
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 189230,
+      "name": "Perception (KREAM Edit)",
+      "url": "https://open.spotify.com/track/6A6GbwidozXNvnxrkCRb8i"
     },
     {
       "added_at": "2026-06-05 11:48:38",

@@ -4,7 +4,7 @@
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-279 songs - 16 hr 21 min
+280 songs - 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Redlight](https://open.spotify.com/track/2D15yebXDnUhavk5tBcRGs) | [Krono](https://open.spotify.com/artist/17TFSnqADESRM8BPSaM5aB), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Metamorphoze](https://open.spotify.com/album/7cGmjoJiTfhkrZbdEX9j7s) | 3:19 | 2025-06-19 | 2025-09-26 |
 | [Redlight](https://open.spotify.com/track/4IsdObE3TpsY1XJUXvFcBu) | [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [Krono](https://open.spotify.com/artist/17TFSnqADESRM8BPSaM5aB), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Redlight](https://open.spotify.com/album/0iC99h9yjKxHBZ7eiKYoVo) | 3:22 | 2025-09-26 |  |
 | [Reliquia \- German Brigante Remix](https://open.spotify.com/track/17qNEAUYgyRsfiQ1Loy2Ku) | [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h), [Paji](https://open.spotify.com/artist/7JlIc6aw1PyoBKQg9c1EnJ), [German Brigante](https://open.spotify.com/artist/2h7fN6KOZVgWQ39sYK0jJm) | [Entourage \(Remixed\)](https://open.spotify.com/album/1VQ6JoAWmjo2EZqcm5i0vz) | 3:29 | 2025-06-19 |  |
+| [Remains The Same](https://open.spotify.com/track/0ET81wGcTILXSZrWYtLKGp) | [Beobê](https://open.spotify.com/artist/1SNjvPpsWFYWGpJW5wPeeK) | [Remains The Same](https://open.spotify.com/album/4RfxXC2TU6Qn5zYiZBh4VG) | 3:30 | 2026-06-26 |  |
 | [Resolved](https://open.spotify.com/track/3CyTacX5VCHuDhkJaORu84) | [Thysma](https://open.spotify.com/artist/38rkVgCX1c5TUzFNRwfexd) | [Resolved](https://open.spotify.com/album/67mjNfaAkCvMTEzL0D1fa6) | 2:44 | 2026-02-20 |  |
 | [Resource \- ReChill](https://open.spotify.com/track/4s5HHU7R2gIwDAXSb50LFY) | [Re:Locate](https://open.spotify.com/artist/6xCpROdQDyjULgekyUtW3u), [Robert Nickson](https://open.spotify.com/artist/0dMK3g7XAApwIpLTyE7mqJ) | [Armada Lounge, Vol\. 5 \(The Best Downtempo Songs For Your Listening Pleasure\)](https://open.spotify.com/album/1ageCsoBRZ9zOYgtdmN2SX) | 3:41 | 2025-08-01 |  |
 | [Rhea \- Chillout Mix](https://open.spotify.com/track/5OlKORlfA8OT4gbxeXpfxt) | [John O'Callaghan](https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb), [Neptune Project](https://open.spotify.com/artist/3G0VlbwfjmeZO33pyp09IY) | [Unfold](https://open.spotify.com/album/6wsKImQnKlNQEKoK6nbJGf) | 2:31 | 2025-06-19 |  |

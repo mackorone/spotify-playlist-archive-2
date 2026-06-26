@@ -1258,7 +1258,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 174000,
       "name": "Angular Momentum",
       "url": "https://open.spotify.com/track/0mrqI3I9tuq8Qq3HXRQzT6"
@@ -3076,7 +3076,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 189729,
       "name": "Breath Of Life",
       "url": "https://open.spotify.com/track/4wv20VmbnOprLvWiwEmR6P"
@@ -4307,6 +4307,24 @@
     },
     {
       "album": {
+        "name": "Conservation of Momentum",
+        "url": "https://open.spotify.com/album/6sb6PLOlQSc7GS79lMB69R"
+      },
+      "artists": [
+        {
+          "name": "Diego Bellucci",
+          "url": "https://open.spotify.com/artist/1wkbTJShPHkMwIWUaMY6KZ"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Conservation of Momentum",
+      "url": "https://open.spotify.com/track/62c7lSvCUdAWh3L9dcb9b6"
+    },
+    {
+      "album": {
         "name": "Consoling",
         "url": "https://open.spotify.com/album/0rtww1o21MM8vSXleQR5SS"
       },
@@ -4340,6 +4358,24 @@
       "duration_ms": 182747,
       "name": "Consonance",
       "url": "https://open.spotify.com/track/6wumg3aZYgGbInRSN8S9g5"
+    },
+    {
+      "album": {
+        "name": "Conspicuous",
+        "url": "https://open.spotify.com/album/5V2ntg1EooqfqwpgtnS5d4"
+      },
+      "artists": [
+        {
+          "name": "Calma Totalis",
+          "url": "https://open.spotify.com/artist/1s9skrP96FBxQyrPC3mlVy"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151346,
+      "name": "Conspicuous",
+      "url": "https://open.spotify.com/track/71hqMLXiNy2reCDoHCDFbR"
     },
     {
       "album": {
@@ -4469,6 +4505,24 @@
     },
     {
       "album": {
+        "name": "Coral daylight",
+        "url": "https://open.spotify.com/album/2pS3RswZkwHnNav6lQcOh8"
+      },
+      "artists": [
+        {
+          "name": "Chillnaut",
+          "url": "https://open.spotify.com/artist/1DInqaJwx6HKGqOy86kVgb"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166672,
+      "name": "Coral daylight",
+      "url": "https://open.spotify.com/track/4O6K2mYOS31yKn1YyF5aen"
+    },
+    {
+      "album": {
         "name": "Coral Sky",
         "url": "https://open.spotify.com/album/1YzCfAt4iEF7nQNnRCxCSk"
       },
@@ -4480,7 +4534,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 187500,
       "name": "Coral Sky",
       "url": "https://open.spotify.com/track/39BZpeG37A78zfMQwAoHAE"
@@ -6827,6 +6881,24 @@
     },
     {
       "album": {
+        "name": "Eternal Dreams",
+        "url": "https://open.spotify.com/album/4pYOzmia6JbcUBzeK4aSwS"
+      },
+      "artists": [
+        {
+          "name": "Vilambit",
+          "url": "https://open.spotify.com/artist/0OqFKcuZrOa3TAQzaMJL1M"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156876,
+      "name": "Eternal Dreams",
+      "url": "https://open.spotify.com/track/38xcIxrrfnZkgD2P00nkGB"
+    },
+    {
+      "album": {
         "name": "Eternal Horizon",
         "url": "https://open.spotify.com/album/7IsjEfw4VB3WEAGuYCRSvu"
       },
@@ -7810,7 +7882,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 166500,
       "name": "Fjori",
       "url": "https://open.spotify.com/track/21V4WCaKyZiVY48kh06sBO"
@@ -11032,7 +11104,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 164000,
       "name": "Layers",
       "url": "https://open.spotify.com/track/0MLDLnL7QLSA18VLKOK4Is"
@@ -12188,7 +12260,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 167771,
       "name": "Meadows",
       "url": "https://open.spotify.com/track/2IheO4P1XVghJecAQsorX1"
@@ -15867,6 +15939,24 @@
     },
     {
       "album": {
+        "name": "Renewed",
+        "url": "https://open.spotify.com/album/2n39k3tHY690Y1Q1xO3Adj"
+      },
+      "artists": [
+        {
+          "name": "Tristan Axvall",
+          "url": "https://open.spotify.com/artist/79hIyTprTNhtNGjYBW42s1"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Renewed",
+      "url": "https://open.spotify.com/track/5nNtZjcgIVURcYmNMfjXLE"
+    },
+    {
+      "album": {
         "name": "repos",
         "url": "https://open.spotify.com/album/2B3oab8Tap8eKLdL0dvQji"
       },
@@ -17433,6 +17523,24 @@
     },
     {
       "album": {
+        "name": "Similitudo",
+        "url": "https://open.spotify.com/album/57dJHLKb9W6LcHy6jv8MC4"
+      },
+      "artists": [
+        {
+          "name": "Opheralis",
+          "url": "https://open.spotify.com/artist/0Od9SGUAy2CmML18azdlVc"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Similitudo",
+      "url": "https://open.spotify.com/track/1w9L3lla8eIJEhLMYCbNrC"
+    },
+    {
+      "album": {
         "name": "Simplistica",
         "url": "https://open.spotify.com/album/15GH2ZI0qwAeMTQdYI5VXx"
       },
@@ -17682,6 +17790,24 @@
       "duration_ms": 184000,
       "name": "Sleeping Upside Down",
       "url": "https://open.spotify.com/track/4QAX3ooet9ROIz3HsxPU1Z"
+    },
+    {
+      "album": {
+        "name": "Sleepwave",
+        "url": "https://open.spotify.com/album/6JiXTOWRSqMs7mWa6XBRSE"
+      },
+      "artists": [
+        {
+          "name": "Somnifera",
+          "url": "https://open.spotify.com/artist/2AkFwZieZKlkDtvZxaOL2b"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125062,
+      "name": "Sleepwave",
+      "url": "https://open.spotify.com/track/00CoutcAZTyJ486Y5FFm03"
     },
     {
       "album": {
@@ -21602,7 +21728,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 155322,
       "name": "Without Coordinates",
       "url": "https://open.spotify.com/track/76mEz1fpph6SHqLTT41ZYn"

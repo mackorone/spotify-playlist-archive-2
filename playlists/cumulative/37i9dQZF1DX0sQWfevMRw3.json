@@ -375,6 +375,28 @@
     },
     {
       "album": {
+        "name": "2,2 PROMILLE",
+        "url": "https://open.spotify.com/album/3NsgjpV6y9TdzlKSrJPJkJ"
+      },
+      "artists": [
+        {
+          "name": "Kaptenen",
+          "url": "https://open.spotify.com/artist/6DSprS2EbPUhzEly95Ptvl"
+        },
+        {
+          "name": "OKVH",
+          "url": "https://open.spotify.com/artist/2KlhZOYTfG8pidklQFSSRQ"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114388,
+      "name": "2,2 PROMILLE",
+      "url": "https://open.spotify.com/track/6FUmuYTZPOLX6t8EShFct3"
+    },
+    {
+      "album": {
         "name": "2010",
         "url": "https://open.spotify.com/album/6MIuZmdka8h6vy84CcItzN"
       },
@@ -2554,7 +2576,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 176591,
       "name": "BE WITH U",
       "url": "https://open.spotify.com/track/2SZgyWAVTXWejEAnjr0p6q"
@@ -2708,7 +2730,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 130500,
       "name": "Belvedere",
       "url": "https://open.spotify.com/track/0XK4XQtngtiy1IBnZVs2Wm"
@@ -6184,7 +6206,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 119183,
       "name": "Drekke d\u00e6 fin",
       "url": "https://open.spotify.com/track/4cCIFCWBt4if64SvejQ7MV"
@@ -8025,6 +8047,24 @@
     },
     {
       "album": {
+        "name": "En lycklig man",
+        "url": "https://open.spotify.com/album/3qI2gYa7QgBUdZbdPaK0Hq"
+      },
+      "artists": [
+        {
+          "name": "Dr\u00e4ngarna",
+          "url": "https://open.spotify.com/artist/2HwptwPQ4lvpYimzOJcYoY"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192826,
+      "name": "En lycklig man",
+      "url": "https://open.spotify.com/track/1fRr5EP3ip9g0ocEX6Nnsm"
+    },
+    {
+      "album": {
         "name": "En man som han (EPA Remix)",
         "url": "https://open.spotify.com/album/1U45L03z3Kdn494FqWCyrZ"
       },
@@ -9448,6 +9488,28 @@
       "duration_ms": 152254,
       "name": "FEST I UME\u00c5",
       "url": "https://open.spotify.com/track/3nLd9rmS291m921Ry86KPC"
+    },
+    {
+      "album": {
+        "name": "Fest, Sommar & Vibe",
+        "url": "https://open.spotify.com/album/43ULmf2eCkDdZsVfhGXHYz"
+      },
+      "artists": [
+        {
+          "name": "Joakim Lundell",
+          "url": "https://open.spotify.com/artist/0XNvr6bnNywV946ZKaJtr0"
+        },
+        {
+          "name": "LBSB",
+          "url": "https://open.spotify.com/artist/2iUVnGKQclQfYjdHGSZcX0"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192602,
+      "name": "Fest, Sommar & Vibe",
+      "url": "https://open.spotify.com/track/0h7Y014K4rlxfX4jVqiUSp"
     },
     {
       "album": {
@@ -12848,7 +12910,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 136289,
       "name": "HAKUNA MATATA",
       "url": "https://open.spotify.com/track/53Gv48kSCLE6ADiAaw3uep"
@@ -13580,7 +13642,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 149435,
       "name": "Hele natta",
       "url": "https://open.spotify.com/track/6ErJLc3g3F3LTR89uSQaOW"
@@ -17956,7 +18018,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 148272,
       "name": "K\u00e4rleksfeberdr\u00f6mmar",
       "url": "https://open.spotify.com/track/6YugmiY69PTLcWf0VPXsvy"
@@ -18650,6 +18712,24 @@
       "duration_ms": 152105,
       "name": "Leva/D\u00f6",
       "url": "https://open.spotify.com/track/2DpoXMqHG88yjwZZEcoqzM"
+    },
+    {
+      "album": {
+        "name": "Lever bara en g\u00e5ng",
+        "url": "https://open.spotify.com/album/6dGbrcXanYmy0PT83lbscS"
+      },
+      "artists": [
+        {
+          "name": "Silje Bakke",
+          "url": "https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176326,
+      "name": "Lever bara en g\u00e5ng",
+      "url": "https://open.spotify.com/track/318hdxsMrrwgtSJOggc0kp"
     },
     {
       "album": {
@@ -21409,6 +21489,28 @@
     },
     {
       "album": {
+        "name": "NORRLAND BOY (feat. Anastasiya Ilchuk)",
+        "url": "https://open.spotify.com/album/6PHvyzNApF34tTvFlwl5yu"
+      },
+      "artists": [
+        {
+          "name": "Rivstart",
+          "url": "https://open.spotify.com/artist/0NNJLiIAqTaLE1MMMgrBNj"
+        },
+        {
+          "name": "Anastasiya Ilchuk",
+          "url": "https://open.spotify.com/artist/3UKuG2qQXkjioUD4jQwZrX"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181875,
+      "name": "NORRLAND BOY (feat. Anastasiya Ilchuk)",
+      "url": "https://open.spotify.com/track/0C1pPiN9Qsse136smDVP0t"
+    },
+    {
+      "album": {
         "name": "NORRLANDS CASANOVA",
         "url": "https://open.spotify.com/album/2ZpDPohuwuFIqNOgGNYLJ5"
       },
@@ -23012,6 +23114,24 @@
       "duration_ms": 102524,
       "name": "Plagiera",
       "url": "https://open.spotify.com/track/2z7fYtIWvWW2Ib7e1ViSOq"
+    },
+    {
+      "album": {
+        "name": "Plaster (Capetown)",
+        "url": "https://open.spotify.com/album/5kifSxHnHof86Kj6sJSpe7"
+      },
+      "artists": [
+        {
+          "name": "Hjorterud All\u00e9",
+          "url": "https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141473,
+      "name": "Plaster (Capetown)",
+      "url": "https://open.spotify.com/track/1VSoF8alH1Z9hGw8oUKAjX"
     },
     {
       "album": {
@@ -26362,7 +26482,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 159672,
       "name": "Se P\u00e5 Meg",
       "url": "https://open.spotify.com/track/5ZoZDdZUCvSSzMDZYrK9EH"
@@ -27028,7 +27148,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 190491,
       "name": "Sjukt",
       "url": "https://open.spotify.com/track/1EYQoZCU5eyDIvVDkhgrbj"
@@ -28708,7 +28828,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 186650,
       "name": "SPRIT & K..",
       "url": "https://open.spotify.com/track/5ZJqMo8zMUotvwARwsj1KD"
@@ -30066,6 +30186,24 @@
       "duration_ms": 173689,
       "name": "Svansen",
       "url": "https://open.spotify.com/track/6QjV1SS98rca3Ekkrg6fsT"
+    },
+    {
+      "album": {
+        "name": "Svealand",
+        "url": "https://open.spotify.com/album/5r1afhuYQ7ZpPEj0H0HfES"
+      },
+      "artists": [
+        {
+          "name": "Lia Larsson",
+          "url": "https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133877,
+      "name": "Svealand",
+      "url": "https://open.spotify.com/track/7blpOEoBulgKhhzVsEolbj"
     },
     {
       "album": {
@@ -33602,7 +33740,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 127012,
       "name": "VIAGRA",
       "url": "https://open.spotify.com/track/4vaznKSJW2aBhGsaviHlqx"
@@ -33784,7 +33922,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 143250,
       "name": "VINTERN \u00c4R ETT HELVETE",
       "url": "https://open.spotify.com/track/0j2fdqNLSDqh3Toc7rSRjj"

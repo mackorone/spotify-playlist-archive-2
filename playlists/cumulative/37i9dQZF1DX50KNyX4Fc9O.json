@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-18",
-  "description": "Keep your finger on the pulse of pop. Cover: CHAII",
+  "description": "Keep your finger on the pulse of pop. Cover: Kita Alexander",
   "name": "Pop n' Fresh",
   "tracks": [
     {
@@ -548,6 +548,24 @@
       "duration_ms": 192320,
       "name": "45 Degrees",
       "url": "https://open.spotify.com/track/06RgMdmBK2VcjnpkxyjNEZ"
+    },
+    {
+      "album": {
+        "name": "48",
+        "url": "https://open.spotify.com/album/1j8YWj3e7n3xU66oMk5OaA"
+      },
+      "artists": [
+        {
+          "name": "Aubany",
+          "url": "https://open.spotify.com/artist/3oXJSUdg98IQjP64FAWQuh"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222222,
+      "name": "48",
+      "url": "https://open.spotify.com/track/6w8CeYasVAQ8sAOWK6Qiel"
     },
     {
       "album": {
@@ -5100,7 +5118,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 233750,
       "name": "Blue Chalk (Fly)",
       "url": "https://open.spotify.com/track/0YMY7wyLcgWUZ9zEo0FIy1"
@@ -5354,6 +5372,24 @@
       "duration_ms": 147866,
       "name": "Body Talk",
       "url": "https://open.spotify.com/track/3thdlnGijHmj46ZJkxBah7"
+    },
+    {
+      "album": {
+        "name": "Body Talk",
+        "url": "https://open.spotify.com/album/29aX2iaq2HOjlglOTYOAXM"
+      },
+      "artists": [
+        {
+          "name": "MR. FANTASY",
+          "url": "https://open.spotify.com/artist/34te8NejkffLcYjn9kiAiH"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232565,
+      "name": "Body Talk",
+      "url": "https://open.spotify.com/track/4TDL9a5EVoCe5Ppi1yqxYc"
     },
     {
       "album": {
@@ -5654,6 +5690,24 @@
       "duration_ms": 186285,
       "name": "Boy",
       "url": "https://open.spotify.com/track/3eFUpyUIWFMSQ3RvUpxZXu"
+    },
+    {
+      "album": {
+        "name": "Boy Crazy",
+        "url": "https://open.spotify.com/album/6h7b4HoaAY7sEWt9MDQGZD"
+      },
+      "artists": [
+        {
+          "name": "Lennixx",
+          "url": "https://open.spotify.com/artist/0hdACQBYpPV7hL1VBEmHH6"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149813,
+      "name": "Boy Crazy",
+      "url": "https://open.spotify.com/track/7Mt6YOzW8PiraXz7vfbnFc"
     },
     {
       "album": {
@@ -6598,7 +6652,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 192790,
       "name": "Call Her Home",
       "url": "https://open.spotify.com/track/6NCa7oT1GaVjf8C2atj8wO"
@@ -7728,7 +7782,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 204253,
       "name": "Child of Divorce",
       "url": "https://open.spotify.com/track/5mALlwaDBhzXt3OEiKIHEc"
@@ -9925,6 +9979,24 @@
     },
     {
       "album": {
+        "name": "Dead Wrong",
+        "url": "https://open.spotify.com/album/4DTvQUvWPTESz1SA0gWP8T"
+      },
+      "artists": [
+        {
+          "name": "Blake Rose",
+          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207911,
+      "name": "Dead Wrong",
+      "url": "https://open.spotify.com/track/2vxS3izHNClVTOBoBjImGM"
+    },
+    {
+      "album": {
         "name": "Deadly (feat. Victony)",
         "url": "https://open.spotify.com/album/03YaxCFFtgahKn6fk8lxcL"
       },
@@ -10066,7 +10138,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 180128,
       "name": "Debbie Don't Cry",
       "url": "https://open.spotify.com/track/4yO2xMadKaCLKlP6gT4gVi"
@@ -11810,7 +11882,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 146064,
       "name": "Don't You Know",
       "url": "https://open.spotify.com/track/1mgiMU5E6hXziopHOjIZn4"
@@ -15201,6 +15273,24 @@
     },
     {
       "album": {
+        "name": "For Business Reasons",
+        "url": "https://open.spotify.com/album/4gcpL2cVG5UMhnDNmkYFYx"
+      },
+      "artists": [
+        {
+          "name": "Lyric",
+          "url": "https://open.spotify.com/artist/6WvUuUPD60XGOknbgzqYb2"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "For Business Reasons",
+      "url": "https://open.spotify.com/track/6cgBa2A4TILIO3pQUu7f9b"
+    },
+    {
+      "album": {
         "name": "For Cryin' Out Loud!",
         "url": "https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL"
       },
@@ -15714,7 +15804,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 241470,
       "name": "From Down Here",
       "url": "https://open.spotify.com/track/7Hg7l5aOygIHuaNDVFp3ox"
@@ -17120,7 +17210,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 180345,
       "name": "Goals",
       "url": "https://open.spotify.com/track/3hdGyxmW0eNskNwTwmXOIQ"
@@ -19150,7 +19240,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 190533,
       "name": "HEARTLESS",
       "url": "https://open.spotify.com/track/19FZHDRMhJ0fahX3vHvprt"
@@ -20060,7 +20150,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 194376,
       "name": "Hit the Wall",
       "url": "https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ"
@@ -20158,7 +20248,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 197400,
       "name": "Hold Me In The Dark",
       "url": "https://open.spotify.com/track/23HNkYEt6W2Y3a0H8Jze3R"
@@ -20382,6 +20472,24 @@
       "duration_ms": 202948,
       "name": "hollywood baby",
       "url": "https://open.spotify.com/track/2R0GminsvPBRxh2E2bY42N"
+    },
+    {
+      "album": {
+        "name": "Hologram",
+        "url": "https://open.spotify.com/album/016hMHAjYVsFnzWfZS4rpJ"
+      },
+      "artists": [
+        {
+          "name": "Delta Goodrem",
+          "url": "https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194650,
+      "name": "Hologram",
+      "url": "https://open.spotify.com/track/6Vjn2GPKA9DvV32m3ln6Pm"
     },
     {
       "album": {
@@ -21284,7 +21392,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 196408,
       "name": "How Lucky Am I?",
       "url": "https://open.spotify.com/track/6ZtoANZrSGWNy1OBL7Thtm"
@@ -24389,6 +24497,24 @@
     },
     {
       "album": {
+        "name": "It's Kinda Hot",
+        "url": "https://open.spotify.com/album/5pCdGf426pZVgJTrSjRWxs"
+      },
+      "artists": [
+        {
+          "name": "Amy Shark",
+          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157764,
+      "name": "It's Kinda Hot",
+      "url": "https://open.spotify.com/track/71fNiEeFDm4jNuk15rh4Wf"
+    },
+    {
+      "album": {
         "name": "MAMIHLAPINATAPAI",
         "url": "https://open.spotify.com/album/5VIt2dA2StboE900mllWdJ"
       },
@@ -26525,6 +26651,24 @@
     },
     {
       "album": {
+        "name": "Liar Out Of Me",
+        "url": "https://open.spotify.com/album/5H68xqeJ7cvT7Jl8KbupQK"
+      },
+      "artists": [
+        {
+          "name": "ROSIE",
+          "url": "https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176253,
+      "name": "Liar Out Of Me",
+      "url": "https://open.spotify.com/track/4gkYx1zSCdMEpvoqbCDmdE"
+    },
+    {
+      "album": {
         "name": "lie",
         "url": "https://open.spotify.com/album/6uy43Z8UWtPQS7tnddxU8G"
       },
@@ -27370,7 +27514,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 154261,
       "name": "Look At You",
       "url": "https://open.spotify.com/track/3WQJSRxr74NVU2nAGKbux9"
@@ -30821,6 +30965,24 @@
     },
     {
       "album": {
+        "name": "My Guy",
+        "url": "https://open.spotify.com/album/0x6tr75ApACgiGnraluC8t"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230604,
+      "name": "My Guy",
+      "url": "https://open.spotify.com/track/3n6ytjkbhypwQsRMreKjyT"
+    },
+    {
+      "album": {
         "name": "My Hometown Is Sinking",
         "url": "https://open.spotify.com/album/3d5sL5QzwVxXL3KsbFRN2W"
       },
@@ -30962,6 +31124,24 @@
       "duration_ms": 191840,
       "name": "My Regards",
       "url": "https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt"
+    },
+    {
+      "album": {
+        "name": "My Tragic Love Story",
+        "url": "https://open.spotify.com/album/7gBAcyjxQLSIWvfgha6KYx"
+      },
+      "artists": [
+        {
+          "name": "Olivia C. Dacal",
+          "url": "https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198797,
+      "name": "My Tragic Love Story",
+      "url": "https://open.spotify.com/track/6fIkgdMrq2OzoHKcpEYO8z"
     },
     {
       "album": {
@@ -32207,6 +32387,24 @@
     },
     {
       "album": {
+        "name": "Noise",
+        "url": "https://open.spotify.com/album/09bLVlmRpOON3T0QHsWAK1"
+      },
+      "artists": [
+        {
+          "name": "Jett Blyton",
+          "url": "https://open.spotify.com/artist/1GjrxW9jYV6YzbDEMFLAIe"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209733,
+      "name": "Noise",
+      "url": "https://open.spotify.com/track/5qCRxJGAZ7oReZC3kF4TVm"
+    },
+    {
+      "album": {
         "name": "Northern Attitude (with Hozier)",
         "url": "https://open.spotify.com/album/5yWshZTxFD4N2clZjUBGOH"
       },
@@ -33090,6 +33288,24 @@
       "duration_ms": 183638,
       "name": "On The Line",
       "url": "https://open.spotify.com/track/2FmdOegR6nF8SJLGYb3Y7Z"
+    },
+    {
+      "album": {
+        "name": "On Wires",
+        "url": "https://open.spotify.com/album/1jDVjyRRcIBJceVWSM76eH"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202989,
+      "name": "On Wires",
+      "url": "https://open.spotify.com/track/29KCgoJwNofk7hF4Z1wsEB"
     },
     {
       "album": {
@@ -35564,7 +35780,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 171304,
       "name": "Pretty Little Things",
       "url": "https://open.spotify.com/track/4cxp9FkxuUqcNxvgnfVKju"
@@ -35738,7 +35954,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 190660,
       "name": "PRICE TAG",
       "url": "https://open.spotify.com/track/6ea45jrg9LYFUapPi4B0sC"
@@ -37370,7 +37586,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 167770,
       "name": "round and round",
       "url": "https://open.spotify.com/track/4uW97EdIlhNzUS5QUltXMH"
@@ -37482,6 +37698,24 @@
       "duration_ms": 164063,
       "name": "run for the hills (Spotify OUTSIDE Version) - Live from Malibu",
       "url": "https://open.spotify.com/track/1gMv5QSRDJ6SwcQGbTtAtB"
+    },
+    {
+      "album": {
+        "name": "RUN IT",
+        "url": "https://open.spotify.com/album/2l6lf2MpFkDGE7XmNMAO8O"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "RUN IT",
+      "url": "https://open.spotify.com/track/0ZYs2sRaCVomWCYP2PGH1j"
     },
     {
       "album": {
@@ -38330,6 +38564,24 @@
       "duration_ms": 311907,
       "name": "Scared Of Screaming",
       "url": "https://open.spotify.com/track/2P3ZRlyJxseRbrxMbMltuP"
+    },
+    {
+      "album": {
+        "name": "Scared To Lose",
+        "url": "https://open.spotify.com/album/3CrxNn01L1imFzGwGyuNTg"
+      },
+      "artists": [
+        {
+          "name": "PEPTALK",
+          "url": "https://open.spotify.com/artist/2vYtdvQwAT3n7Gq3crN4EA"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146520,
+      "name": "Scared To Lose",
+      "url": "https://open.spotify.com/track/2RcVe43tq7CyEer91S7w1s"
     },
     {
       "album": {
@@ -40176,7 +40428,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 157931,
       "name": "So Dumb",
       "url": "https://open.spotify.com/track/2AH4vccgqHx4Pzg9UoPm8J"
@@ -41721,6 +41973,28 @@
     },
     {
       "album": {
+        "name": "Still Dancing",
+        "url": "https://open.spotify.com/album/7aV53ErTs72wwaxBVz4eIO"
+      },
+      "artists": [
+        {
+          "name": "Keenan Te",
+          "url": "https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor"
+        },
+        {
+          "name": "Jake Miller",
+          "url": "https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Still Dancing",
+      "url": "https://open.spotify.com/track/1NK6TP83C0mP1Edu61irn0"
+    },
+    {
+      "album": {
         "name": "Still Don't Care",
         "url": "https://open.spotify.com/album/11XiRiJX157BvMuuc9ixuw"
       },
@@ -42524,6 +42798,24 @@
       "duration_ms": 178746,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/7xxmW8ieHp9YnACGc0PfNz"
+    },
+    {
+      "album": {
+        "name": "The Go-Jo Variety Show",
+        "url": "https://open.spotify.com/album/6ZpHwjt6bs5h8RJCvP2ATL"
+      },
+      "artists": [
+        {
+          "name": "Go-Jo",
+          "url": "https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157377,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/30wktNDYuYZ2aVtVakFXfH"
     },
     {
       "album": {
@@ -44034,7 +44326,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 177019,
       "name": "Tell Me (I Heard It From My Father)",
       "url": "https://open.spotify.com/track/7wsFRm5jYAwtcl1qcQFN6D"
@@ -44472,7 +44764,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 176000,
       "name": "The Balance",
       "url": "https://open.spotify.com/track/2OIWoUfeUjrlB5p4ckUFan"
@@ -47610,7 +47902,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 162048,
       "name": "TROCADERO",
       "url": "https://open.spotify.com/track/06lCYcTxYoEUa3DiqHCoYn"
@@ -50658,7 +50950,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 194205,
       "name": "Where Have All The Good Men Gone?",
       "url": "https://open.spotify.com/track/2eUn6PBAZawXLeNEEcbTKu"
@@ -51742,6 +52034,24 @@
       "duration_ms": 214015,
       "name": "Worth It",
       "url": "https://open.spotify.com/track/7clvyBpBBdWhFDk5c3fn8Z"
+    },
+    {
+      "album": {
+        "name": "RAGE",
+        "url": "https://open.spotify.com/album/5oxMfD3pBDCVsRKjpgVXTb"
+      },
+      "artists": [
+        {
+          "name": "Kita Alexander",
+          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203090,
+      "name": "Worth It",
+      "url": "https://open.spotify.com/track/7MRoIVZ0QuVy3xDu9Z6Thu"
     },
     {
       "album": {

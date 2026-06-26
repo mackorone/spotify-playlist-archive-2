@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 123697,
+  "num_followers": 123687,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVgLNz7CUjQ7/FpsJVv5V2LkafUfxn",
+  "snapshot_id": "AAAVgdiQUx/vAP+YPbleKFc9qWQcG/39",
   "tracks": [
+    {
+      "added_at": "2026-06-25 14:24:06",
+      "album": {
+        "name": "a different self, not this time (Ward Wills Remix)",
+        "url": "https://open.spotify.com/album/7fKyQd76AoUdnqdgcVAmTF"
+      },
+      "artists": [
+        {
+          "name": "Ward Wills",
+          "url": "https://open.spotify.com/artist/22HWLRzuuO4aRQrXGIAnDj"
+        },
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        }
+      ],
+      "duration_ms": 138226,
+      "name": "a different self, not this time - Ward Wills Remix",
+      "url": "https://open.spotify.com/track/2xvYN1qrV3JPsyT8ZwLQPS"
+    },
     {
       "added_at": "2026-06-24 15:24:17",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: may\-june 2026 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 24,356 likes - 37 songs - 2 hr 20 min
+[margeaux](https://open.spotify.com/user/1220511975) - 24,359 likes - 39 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,5 +45,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 35 | [May Our Enimies Never Find Happiness \- The Boats Remix](https://open.spotify.com/track/2q1gES6bTM02kqxvYXqVTH) | [The Boats](https://open.spotify.com/artist/12LR7O3LG2tezoEBx1yhRa) | [Our Small Ideas](https://open.spotify.com/album/7m0WhwnsbyXCbID6NiiGzV) | 3:35 |
 | 36 | [Adrenaline](https://open.spotify.com/track/3aOfynJVvUXioiO0gkzfPX) | [GB](https://open.spotify.com/artist/4YMJGenzGCHYz30PRdTJP8) | [Adrenaline](https://open.spotify.com/album/3Eauvo8fZ7Hb5HpNwrDE1P) | 4:01 |
 | 37 | [Autosmile](https://open.spotify.com/track/74wiS51Xagi78GpoStA7hr) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Autosmile](https://open.spotify.com/album/0TkVOCI5fcQPt6mbFT2jil) | 6:39 |
+| 38 | [Heart\-shaped Eyes](https://open.spotify.com/track/3W0XKCoZbqgXrwfdEqRCI3) | [Yangze](https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt) | [Heart\-shaped Eyes](https://open.spotify.com/album/2iYIMPIfDSmVqMeJWp98g6) | 3:09 |
+| 39 | [Stew](https://open.spotify.com/track/1bDwvHbDgtCvr2TcZIpQyn) | [Yangze](https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt) | [Stew](https://open.spotify.com/album/2Rwca3mHmAeP6fEkbXCVHO) | 5:44 |
 
-Snapshot ID: `AAAOc2qX7iJiCVxHVGbiOkO798OfuYPt`
+Snapshot ID: `AAAOdlHoqxBM3I0qtUbgfwGFHJAd+P1P`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 
 > Instrumental Smooth Jazz for relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,411 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,693 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 | 22 | [You Read My Mind](https://open.spotify.com/track/7clQlmRcKRDWXWu9vmYexQ) | [David Benoit](https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu) | [Fuzzy Logic](https://open.spotify.com/album/49ZeUMBQWLHtOvp1G0Os7m) | 4:51 |
 | 23 | [Midnight At The Oasis](https://open.spotify.com/track/3R2KtkNnblbd9icRjH04d8) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [Love's Melody](https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM) | 5:20 |
 | 24 | [Out'a Nowhere](https://open.spotify.com/track/2yyb2V6a0pBKEJxIi6Zqdj) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Celebration](https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy) | 4:51 |
-| 25 | [Vinyl](https://open.spotify.com/track/2q2kwEh9flpSMwwqpPYCC3) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Euge Groove](https://open.spotify.com/album/2r10VaddyCNK8eXQOmSNHG) | 4:29 |
+| 25 | [Touch](https://open.spotify.com/track/09mcJo5V6ZODKYybdYzgaW) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Send One Your Love](https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6) | 3:46 |
 | 26 | [Read Between the Lines](https://open.spotify.com/track/2RtFmibwUwhyL9n48yuYfY) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7) | [Can't Stop Now](https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF) | 4:22 |
-| 27 | [Touch](https://open.spotify.com/track/09mcJo5V6ZODKYybdYzgaW) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Send One Your Love](https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6) | 3:46 |
+| 27 | [Vinyl](https://open.spotify.com/track/2q2kwEh9flpSMwwqpPYCC3) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Euge Groove](https://open.spotify.com/album/2r10VaddyCNK8eXQOmSNHG) | 4:29 |
 | 28 | [Revelation Of The Heart](https://open.spotify.com/track/6aYepV7d90JzmFI4sJLYfv) | [3rd Force](https://open.spotify.com/artist/3t0v2PRYA41acAC7z17tSm) | [Force Field](https://open.spotify.com/album/3jjkcG2HphY52n82XNUsTc) | 5:09 |
 | 29 | [Beaches](https://open.spotify.com/track/1qlNWZGVTcyrCyfeTJgUFD) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [Beaches](https://open.spotify.com/album/0ETUDbr9SDuqPDz0Dau0G5) | 3:47 |
 | 30 | [Ocean Way](https://open.spotify.com/track/670qTzPNB0Ikn0lBTilHbx) | [Torcuato Mariano](https://open.spotify.com/artist/5nmTcw6WV6BzDvguH2iPXR) | [Last Look](https://open.spotify.com/album/5HrdlCejzSFYKD6qA0vywx) | 5:03 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 | 73 | [The Catwalk](https://open.spotify.com/track/2XILqKv1KhGeVDh7HoDBkR) | [Peter Olyni Jr.](https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO) | [The Catwalk](https://open.spotify.com/album/5AjtdeM07zySmIaIkVrHoC) | 3:27 |
 | 74 | [Stay Sharp](https://open.spotify.com/track/5sjRxBquao2bRqbUO5AWlf) | [Elastic Union](https://open.spotify.com/artist/3y5BwMggFMVWZkUDGXWAYr) | [Stay Sharp](https://open.spotify.com/album/02k936MVT6wGk4EHdNEkyC) | 2:09 |
 | 75 | [Inside Out](https://open.spotify.com/track/4fhmc1aqLwQuvd3gAyZONN) | [Dan Siegel](https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd) | [Inside Out](https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi) | 5:32 |
-| 76 | [Golden Hour Groove](https://open.spotify.com/track/51vzBS76w1G5H10Y1T0hzt) | [Wellington Groove](https://open.spotify.com/artist/6X6fVzP6gcGr47X9w895r8) | [Golden Hour Groove](https://open.spotify.com/album/68Xew9Io7x9Hpz8j2xi5RS) | 3:16 |
-| 77 | [Brazil Chill](https://open.spotify.com/track/3UI2NlVimWCWOohTfyaP9v) | [Bob Baldwin](https://open.spotify.com/artist/6URFeH3cWWv6tj2RazL9IP), [Phil Hamilton](https://open.spotify.com/artist/5SCIOHmhAeveZ6dibvvAiU), [Ivan Conte](https://open.spotify.com/artist/2U62U5AIuNn6n7VnEiNiCr), [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [Brazil Chill](https://open.spotify.com/album/4T8thECArdoVMqYZpWxfHn) | 5:22 |
+| 76 | [Brazil Chill](https://open.spotify.com/track/3UI2NlVimWCWOohTfyaP9v) | [Bob Baldwin](https://open.spotify.com/artist/6URFeH3cWWv6tj2RazL9IP), [Phil Hamilton](https://open.spotify.com/artist/5SCIOHmhAeveZ6dibvvAiU), [Ivan Conte](https://open.spotify.com/artist/2U62U5AIuNn6n7VnEiNiCr), [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [Brazil Chill](https://open.spotify.com/album/4T8thECArdoVMqYZpWxfHn) | 5:22 |
+| 77 | [Golden Hour Groove](https://open.spotify.com/track/51vzBS76w1G5H10Y1T0hzt) | [Wellington Groove](https://open.spotify.com/artist/6X6fVzP6gcGr47X9w895r8) | [Golden Hour Groove](https://open.spotify.com/album/68Xew9Io7x9Hpz8j2xi5RS) | 3:16 |
 | 78 | [Winning’s Easy \(When You Want It To Be\)](https://open.spotify.com/track/2Pd1HYBk7du6vgBkJvIUr9) | [Canary Motion](https://open.spotify.com/artist/4AvusCOQLahqaWhcZMnIp5) | [Winning’s Easy \(When You Want It To Be\)](https://open.spotify.com/album/5uLwe7jvlIH89BInp8tWtu) | 4:42 |
 | 79 | [Picante](https://open.spotify.com/track/3YSonOZutvi9PoFiNxLcrS) | [Charles Rudy](https://open.spotify.com/artist/03WvbMNTjKoYCNPF72qCaE) | [Picante](https://open.spotify.com/album/0ZHhbsQQI6wFPYU4pClcaw) | 5:02 |
 | 80 | [Paddock Club](https://open.spotify.com/track/5MAbqSgxemOHcdEPSy39C7) | [Montreux Stay\-Behinds](https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [Paddock Club](https://open.spotify.com/album/2bb2xxPun7rK32R6FxL8dz) | 2:52 |

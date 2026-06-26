@@ -2,9 +2,9 @@
 
 ### [alt.rock](https://open.spotify.com/playlist/37i9dQZF1DX309NIG5AnQn)
 
-> rock alternativo argentino\. <br/>📷 La Grecia
+> rock alternativo argentino\. <br/>📷 Catalina Ammaturo
 
-346 songs - 19 hr 39 min
+348 songs - 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Desmotivada](https://open.spotify.com/track/647413f98cYW3U09g3tHjq) | [Buenos Vampiros](https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo) | [Desmotivada](https://open.spotify.com/album/0fuevSufdQPDZTWoyeEu5H) | 2:22 | 2022-03-25 | 2023-03-25 |
 | [Desvelo](https://open.spotify.com/track/5ZB7rbNjnJ8lMZ4KTuh55F) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Desvelo](https://open.spotify.com/album/5Ik4DBNjzxeCdawBwHyxFI) | 4:34 | 2022-03-25 | 2023-03-25 |
 | [Devenir Paisaje](https://open.spotify.com/track/3Ar4CsbxPja3kJBem7J3de) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Hicimos Crecer un Bosque](https://open.spotify.com/album/2wTNdmVd3HhJPMq8jBd7Vo) | 3:36 | 2024-10-22 | 2026-04-04 |
+| [Diablo Que Soy](https://open.spotify.com/track/34spvmbaocIBAynTOD4h4y) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Diablo Que Soy](https://open.spotify.com/album/6Pw9t1res1r9hcqLFbtExZ) | 2:47 | 2026-06-26 |  |
 | [Dirty Donna](https://open.spotify.com/track/41PlwW2LwnJQCHa3c2L1Qf) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [Dirty Donna](https://open.spotify.com/album/6Y8jks0IRkAjXlHvcgDyX3) | 4:24 | 2026-04-03 |  |
 | [Distante](https://open.spotify.com/track/7yhQlwY8Yjnbzf1NqAL0Md) | [Altocamet](https://open.spotify.com/artist/0ZqTqI2yIMAtxEfDi0ZODe) | [Surfista Nocturno](https://open.spotify.com/album/27hZtuTwWgy62WlAVqFVo2) | 6:00 | 2022-03-25 | 2023-03-25 |
 | [Divina Seducción](https://open.spotify.com/track/3CjyLMFWTcdUrHHIbn3m4v) | [Saturno y la Melancolía](https://open.spotify.com/artist/7v8JacKhFWsgGZGgdSRliT) | [Divina Seducción](https://open.spotify.com/album/6y9yqbRjgQa7NwiPcCqF8O) | 3:30 | 2023-05-12 | 2023-08-19 |
@@ -298,6 +299,7 @@
 | [Sierra de los Padres](https://open.spotify.com/track/3AYvtJVj9RCAYsmFnzANKr) | [montegrande](https://open.spotify.com/artist/662HirrjZdhmvAZseAOOZT) | [Split](https://open.spotify.com/album/6U9FRsubNk9731WzZM2gLc) | 3:36 | 2023-06-30 | 2026-04-04 |
 | [SIESTA DE DRAGONES](https://open.spotify.com/track/4i846XTZEZDNidRkBnZ1kG) | [La Llorona y su Jardín de Dragones](https://open.spotify.com/artist/51RCCzIxJogXeAYBAXTHLW) | [GLU GLU](https://open.spotify.com/album/4OF2EudIUUh47W47NcDDRN) | 3:39 | 2026-04-03 |  |
 | [Sigo](https://open.spotify.com/track/43qRoM6LtbunIxERM8lYh9) | [Chicos de la Oculta](https://open.spotify.com/artist/3EBOQWfu9RhChMqzxRAk34) | [Sigo](https://open.spotify.com/album/1fVYb5l484ECmQYrnIyakT) | 2:55 | 2024-04-19 | 2025-07-25 |
+| [Sigo buscando](https://open.spotify.com/track/60j0ke3oHU1R7yNW4vPeah) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [Sigo buscando](https://open.spotify.com/album/6GieE23s44BPEMIAtrq45T) | 2:55 | 2026-06-26 |  |
 | [Silent Affection](https://open.spotify.com/track/1UgBuBe9A85PYYjiJ8sTIY) | [Pacifica](https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse) | [Freak Scene](https://open.spotify.com/album/6348kjHJNNwPqxaVeZKTAH) | 4:04 | 2023-10-06 | 2024-02-03 |
 | [Simulando Esperar](https://open.spotify.com/track/29NlMSR1PJstmIksMhLMKt) | [Tomates En Verano](https://open.spotify.com/artist/0L3FfPKmBS9yLVNVzulbUt) | [Simulando Esperar](https://open.spotify.com/album/2nxDLdVzUcWSQQG7Qi0pme) | 3:59 | 2023-10-06 | 2025-03-08 |
 | [Solo contra Todos](https://open.spotify.com/track/153dPNiqCp9VYiiYDRlRnf) | [Socorro](https://open.spotify.com/artist/6jlqA6csTISYfkoznueMaA) | [Himno al Distraído](https://open.spotify.com/album/6D2oFvHtKsUNpZHkE0cB8q) | 3:41 | 2026-04-03 |  |

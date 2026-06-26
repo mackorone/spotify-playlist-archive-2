@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Ellize, FY",
+  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Marseaux",
   "name": "Greek Pop",
   "tracks": [
     {
@@ -1412,7 +1412,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 254210,
       "name": "De M' Agapouses",
       "url": "https://open.spotify.com/track/6bz2oDXZjkyCYki5GnIz5O"
@@ -2735,6 +2735,28 @@
     },
     {
       "album": {
+        "name": "Gypsy Girl",
+        "url": "https://open.spotify.com/album/6P5HUKAvskokExIqXTZuRr"
+      },
+      "artists": [
+        {
+          "name": "Tania Breazou",
+          "url": "https://open.spotify.com/artist/0kLn8jOEDFY8KfArE2wn8r"
+        },
+        {
+          "name": "Teo Tzimas",
+          "url": "https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142795,
+      "name": "Gypsy Girl",
+      "url": "https://open.spotify.com/track/1YLbaW7lnYHbYBe805jsn2"
+    },
+    {
+      "album": {
         "name": "Gyrismos",
         "url": "https://open.spotify.com/album/1dAWCzUopvEyjmSg7py5Cp"
       },
@@ -3668,6 +3690,32 @@
       "duration_ms": 157945,
       "name": "Mavra Gialia",
       "url": "https://open.spotify.com/track/61zId67ppahNpBdcf2cVzH"
+    },
+    {
+      "album": {
+        "name": "MAVRA MATIA",
+        "url": "https://open.spotify.com/album/7cPtPkoAhmIRND2Yu3tPOq"
+      },
+      "artists": [
+        {
+          "name": "Mente Fuerte",
+          "url": "https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH"
+        },
+        {
+          "name": "Otilia",
+          "url": "https://open.spotify.com/artist/6RQDTlies3nrNDJwXvbBZT"
+        },
+        {
+          "name": "Baghdad",
+          "url": "https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166282,
+      "name": "MAVRA MATIA",
+      "url": "https://open.spotify.com/track/6vIqTijrFYRTVi3G8i09JU"
     },
     {
       "album": {
@@ -5016,7 +5064,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 202510,
       "name": "SELINI MOU MYRTO",
       "url": "https://open.spotify.com/track/3ohYDTLdzY2dX9Z5pRyr7V"

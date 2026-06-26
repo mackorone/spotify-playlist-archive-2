@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Top Christian Worship 2026 \| Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Tauren Wells! Soaking worship music \| Jelly Roll gospel \. cinco de mayo , gospel songs jelly roll christian
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,548 likes - 165 songs - 15 hr 5 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,537 likes - 165 songs - 15 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 20 | [Wondrous Cross \(When I Survey\)](https://open.spotify.com/track/2S6z1YyMPfokSW8axqBtxu) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm), [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Wondrous Cross \(When I Survey\)](https://open.spotify.com/album/56iT32JlFS49AAXUCsyR6e) | 4:38 |
 | 21 | [Firm Foundation \(He Won’t\)](https://open.spotify.com/track/39Gs7AuV2vXLopvvIiBaP4) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Firm Foundation \(Live\)](https://open.spotify.com/album/7JItqwtqscE2BMoRPIJj4l) | 6:22 |
 | 22 | [Build My Life](https://open.spotify.com/track/2UeOsbOZ3h1QxUX2Jfw42j) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Pat Barrett](https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5) | 4:04 |
-| 23 | [I Was Dead, Now I'm Alive](https://open.spotify.com/track/4jCZcUBdbAckNeWUu2Ydn6) | [Awakening MVMT](https://open.spotify.com/artist/6PuUeoGERfFCcCOGzf7IN4), [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Abby Klinge](https://open.spotify.com/artist/6Fcd2uYQsHq7JGap2HULij) | [I Was Dead, Now I'm Alive](https://open.spotify.com/album/5M1zIktnqOYB8WYOj136tu) | 5:23 |
+| 23 | [I Was Dead, Now I'm Alive \- Live](https://open.spotify.com/track/4jCZcUBdbAckNeWUu2Ydn6) | [Awakening MVMT](https://open.spotify.com/artist/6PuUeoGERfFCcCOGzf7IN4), [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Abby Klinge](https://open.spotify.com/artist/6Fcd2uYQsHq7JGap2HULij) | [I Was Dead, Now I'm Alive \(Live\)](https://open.spotify.com/album/5M1zIktnqOYB8WYOj136tu) | 5:23 |
 | 24 | [The Lord Will Provide \- Live](https://open.spotify.com/track/7AMVI5WFc7oDJESW6ko2JF) | [Canaan Baca](https://open.spotify.com/artist/0h1ga0Poq8QRidzT336Y6q), [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc) | [The Lord Will Provide \(Live\)](https://open.spotify.com/album/511MBeeCq1drhVGTfks8LI) | 5:12 |
 | 25 | [That's What The Blood Does](https://open.spotify.com/track/1A2RumWUeEfv9cesejhNVa) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Matt Pelt](https://open.spotify.com/artist/4Bq682UCIDpgtfgVpvxMwh) | [That's What The Blood Does](https://open.spotify.com/album/4mGZUugxDzwAeL1AAGSRo1) | 5:05 |
 | 26 | [One Good God](https://open.spotify.com/track/3iKHfuRR6n2liPxV9ss8sr) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [One Good God](https://open.spotify.com/album/0XwackFfzuOZ65r4RE7hIO) | 5:24 |

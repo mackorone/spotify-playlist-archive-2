@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajnMgAAAAADv25yGC+XxYZK/Lsgw5A3z",
+  "snapshot_id": "ajseAAAAAABY88NGEXlU5m8/gnb6j3qg",
   "tracks": [
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 182740,
-      "name": "The In-Between",
-      "url": "https://open.spotify.com/track/6WAXHxstqOYRJleZzxDg6d"
+      "duration_ms": 168451,
+      "name": "Reeling",
+      "url": "https://open.spotify.com/track/1nvESaptuv0S2ZzfKsLL9U"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "By a Thread",
-        "url": "https://open.spotify.com/album/2r5dvvJMnPk6dkHwjRv6Vv"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 220850,
-      "name": "Death Rattle",
-      "url": "https://open.spotify.com/track/4vaRz0warAVkzCrSzhkiAr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Extended Family",
         "url": "https://open.spotify.com/album/6hITMFxYvPwKhS7kD1q3Ao"
       },
@@ -423,38 +407,6 @@
       "duration_ms": 162293,
       "name": "Isaac Bowen",
       "url": "https://open.spotify.com/track/4pU2ugAUipPCEcT93R5hQv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/2Pmz99qx28KSvdsSqN5uO0"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 168451,
-      "name": "Reeling",
-      "url": "https://open.spotify.com/track/1nvESaptuv0S2ZzfKsLL9U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Everything is Tenuous",
-        "url": "https://open.spotify.com/album/1CauYGf4kborz50koSaKMd"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 187101,
-      "name": "Remiss of Me",
-      "url": "https://open.spotify.com/track/3qQxv1BBsSnDtJE82pcLnR"
     },
     {
       "added_at": null,
@@ -475,6 +427,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2Pmz99qx28KSvdsSqN5uO0"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 182740,
+      "name": "The In-Between",
+      "url": "https://open.spotify.com/track/6WAXHxstqOYRJleZzxDg6d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everything is Tenuous",
+        "url": "https://open.spotify.com/album/1CauYGf4kborz50koSaKMd"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 187101,
+      "name": "Remiss of Me",
+      "url": "https://open.spotify.com/track/3qQxv1BBsSnDtJE82pcLnR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Extended Family",
         "url": "https://open.spotify.com/album/6hITMFxYvPwKhS7kD1q3Ao"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 207400,
       "name": "Like a Charm",
       "url": "https://open.spotify.com/track/0fe1V6HM3ONZkTT1RtoNMu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "By a Thread",
+        "url": "https://open.spotify.com/album/2r5dvvJMnPk6dkHwjRv6Vv"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 220850,
+      "name": "Death Rattle",
+      "url": "https://open.spotify.com/track/4vaRz0warAVkzCrSzhkiAr"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "By a Thread",
-        "url": "https://open.spotify.com/album/2r5dvvJMnPk6dkHwjRv6Vv"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 184518,
-      "name": "Western Junction",
-      "url": "https://open.spotify.com/track/4b6gMgx5ykfm8Zri8hpaSR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Extended Family",
         "url": "https://open.spotify.com/album/6hITMFxYvPwKhS7kD1q3Ao"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 160573,
       "name": "Southbound",
       "url": "https://open.spotify.com/track/5onrnxQZ7yB6wdlyh7GU2s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "By a Thread",
+        "url": "https://open.spotify.com/album/2r5dvvJMnPk6dkHwjRv6Vv"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 184518,
+      "name": "Western Junction",
+      "url": "https://open.spotify.com/track/4b6gMgx5ykfm8Zri8hpaSR"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "By a Thread",
-        "url": "https://open.spotify.com/album/2r5dvvJMnPk6dkHwjRv6Vv"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 123726,
-      "name": "K.D.R",
-      "url": "https://open.spotify.com/track/1fj3hQgtMW3DyubOaxStHo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Extended Family",
         "url": "https://open.spotify.com/album/6hITMFxYvPwKhS7kD1q3Ao"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 167426,
       "name": "Beacons",
       "url": "https://open.spotify.com/track/59UVajW9WnjGIvhShHxRPY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "By a Thread",
+        "url": "https://open.spotify.com/album/2r5dvvJMnPk6dkHwjRv6Vv"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 123726,
+      "name": "K.D.R",
+      "url": "https://open.spotify.com/track/1fj3hQgtMW3DyubOaxStHo"
     },
     {
       "added_at": null,
@@ -663,6 +663,22 @@
       "duration_ms": 190200,
       "name": "Guillotines in Arbour Park",
       "url": "https://open.spotify.com/track/7eggFqeK0f8155QXSKGWoY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ReWiggled",
+        "url": "https://open.spotify.com/album/7pMmcRjBt41hvqnFQHqYb2"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 81016,
+      "name": "The Shimmie Shake",
+      "url": "https://open.spotify.com/track/4aNbYoDOmasKeeYVyFg1o5"
     }
   ],
   "unique_name": "This Is Luca Brasi",

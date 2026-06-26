@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Folk latino de estaci\u00f3n. Foto: Alondra Bravo",
+  "description": "Folk latino de estaci\u00f3n. Foto: El Mulu",
   "name": "folk & oto\u00f1o",
   "tracks": [
     {
@@ -1999,6 +1999,28 @@
     },
     {
       "album": {
+        "name": "Dentro De Un Cuadro",
+        "url": "https://open.spotify.com/album/4Y53TJSO1sb5I7PZoIyLRc"
+      },
+      "artists": [
+        {
+          "name": "La Mena",
+          "url": "https://open.spotify.com/artist/44lIthwBhSBagZlx0TN49V"
+        },
+        {
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92659,
+      "name": "Dentro De Un Cuadro",
+      "url": "https://open.spotify.com/track/2BSXbTun714yWrJ4axqSEt"
+    },
+    {
+      "album": {
         "name": "Deseo",
         "url": "https://open.spotify.com/album/1rsiAjtt1h6xohktk6jfHe"
       },
@@ -3441,6 +3463,28 @@
     },
     {
       "album": {
+        "name": "La Tormenta",
+        "url": "https://open.spotify.com/album/7lchNWI4NFNWRou6FXovnh"
+      },
+      "artists": [
+        {
+          "name": "Metalengua",
+          "url": "https://open.spotify.com/artist/3gIGCGSknVNY5D17w3CCqh"
+        },
+        {
+          "name": "Nano Stern",
+          "url": "https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141545,
+      "name": "La Tormenta",
+      "url": "https://open.spotify.com/track/4JEY3vlTlb1byFbI6OgYBg"
+    },
+    {
+      "album": {
         "name": "Las Cosas Simples",
         "url": "https://open.spotify.com/album/4gq30p37s9VgAovyUtfDqz"
       },
@@ -4466,6 +4510,24 @@
       "duration_ms": 168026,
       "name": "no hace falta saber",
       "url": "https://open.spotify.com/track/6lXq1bTonpEYQYSQ9IXI1Y"
+    },
+    {
+      "album": {
+        "name": "No Nos Vimos",
+        "url": "https://open.spotify.com/album/54DWkiEN9xAdN34tR3T5BD"
+      },
+      "artists": [
+        {
+          "name": "Borneo",
+          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211375,
+      "name": "No Nos Vimos",
+      "url": "https://open.spotify.com/track/2g8IXozpjRbd0vhjm37S3x"
     },
     {
       "album": {
@@ -5844,6 +5906,24 @@
       "duration_ms": 246330,
       "name": "Si bien fue poco",
       "url": "https://open.spotify.com/track/5UCnTmxuBMCZpIPtrHZS6v"
+    },
+    {
+      "album": {
+        "name": "Si Llega el Desastre",
+        "url": "https://open.spotify.com/album/0qiEOnpVrGHEoV9MpC9AGz"
+      },
+      "artists": [
+        {
+          "name": "El Mulu",
+          "url": "https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198590,
+      "name": "Si Llega el Desastre",
+      "url": "https://open.spotify.com/track/3671YCKEwXXgQJ6q67OFlm"
     },
     {
       "album": {

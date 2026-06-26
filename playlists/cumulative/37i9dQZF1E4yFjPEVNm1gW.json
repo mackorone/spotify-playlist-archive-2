@@ -768,7 +768,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-24",
+      "date_removed": null,
       "duration_ms": 185317,
       "name": "carry it (extended)",
       "url": "https://open.spotify.com/track/52AsGGwpvnCMoeuEwDXv9G"
@@ -1746,7 +1746,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 152893,
       "name": "Hat\u00ebr",
       "url": "https://open.spotify.com/track/7u48RjanhFy30zE8N5dOiw"
@@ -2298,7 +2298,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 189231,
       "name": "king of the pumpkin patch",
       "url": "https://open.spotify.com/track/7yXA3nKDn6fZSj8IWpukUv"
@@ -3120,7 +3120,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 122070,
       "name": "Opp's Hood",
       "url": "https://open.spotify.com/track/2oe0X2oRea7TG5B77sDGO4"
@@ -3178,7 +3178,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 122298,
       "name": "Outta Time",
       "url": "https://open.spotify.com/track/14X6eTpHy7KBldsJwP1P4U"
@@ -3294,7 +3294,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 118595,
       "name": "Pole Janky",
       "url": "https://open.spotify.com/track/3b01MpEZcTCBOLj0XTsryu"
@@ -3334,7 +3334,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 161075,
       "name": "Price I Pay",
       "url": "https://open.spotify.com/track/6PKAfJPbZMOk2Zz9D8g0w4"
@@ -3514,7 +3514,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 121495,
       "name": "Really Them",
       "url": "https://open.spotify.com/track/7r4tBbtGC0LZ9iSS0KOP1v"
@@ -4150,6 +4150,24 @@
       "duration_ms": 112500,
       "name": "Swept Da Block",
       "url": "https://open.spotify.com/track/3TZjiHzps5d0Lk2snACKG3"
+    },
+    {
+      "album": {
+        "name": "Switch It Up",
+        "url": "https://open.spotify.com/album/3XNZfL33Sps01AU8G3bum4"
+      },
+      "artists": [
+        {
+          "name": "Kai Bandz",
+          "url": "https://open.spotify.com/artist/1D8twu2cuGQdILSS02MqLW"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125753,
+      "name": "Switch It Up",
+      "url": "https://open.spotify.com/track/0C0eS2XfcoN0fSUP9Lh8UL"
     },
     {
       "album": {
@@ -5008,7 +5026,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 123211,
       "name": "YOUTUBE",
       "url": "https://open.spotify.com/track/7JFZXCelZMzyjmnolSBv53"

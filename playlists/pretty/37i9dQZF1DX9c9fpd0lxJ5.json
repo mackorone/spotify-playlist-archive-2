@@ -1,6 +1,6 @@
 {
   "description": "indie tunes to make you shine (\u273f\u25e0\u203f\u25e0)",
-  "num_followers": 438905,
+  "num_followers": 438863,
   "original_name": "indie feliz",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-05-11 20:38:16",
       "album": {
-        "name": "ANIM4LES",
-        "url": "https://open.spotify.com/album/2h48DpjjNc111ug7zH2aXl"
-      },
-      "artists": [
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        }
-      ],
-      "duration_ms": 115568,
-      "name": "Sos Todo Lo Que Est\u00e1 Bien",
-      "url": "https://open.spotify.com/track/4pL01X6Og8L9kJRTB65Hsz"
-    },
-    {
-      "added_at": "2026-05-11 20:38:16",
-      "album": {
         "name": "Un d\u00eda m\u00e1s",
         "url": "https://open.spotify.com/album/3JqQExIwMGkaMcitZoN2TT"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 202126,
       "name": "Un d\u00eda m\u00e1s",
       "url": "https://open.spotify.com/track/5mXYPoqiOCab0lTbHqbYTO"
+    },
+    {
+      "added_at": "2026-05-11 20:38:16",
+      "album": {
+        "name": "ANIM4LES",
+        "url": "https://open.spotify.com/album/2h48DpjjNc111ug7zH2aXl"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "duration_ms": 115568,
+      "name": "Sos Todo Lo Que Est\u00e1 Bien",
+      "url": "https://open.spotify.com/track/4pL01X6Og8L9kJRTB65Hsz"
     },
     {
       "added_at": "2026-05-11 20:38:16",
@@ -975,26 +975,6 @@
     {
       "added_at": "2026-05-11 20:38:16",
       "album": {
-        "name": "Promesas de Origami",
-        "url": "https://open.spotify.com/album/7HfXvuT1dU2njGRxqBLoSa"
-      },
-      "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        },
-        {
-          "name": "MiSHNRZ",
-          "url": "https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl"
-        }
-      ],
-      "duration_ms": 146086,
-      "name": "Promesas De Origami",
-      "url": "https://open.spotify.com/track/53ZG7GgHBCkAIhWSC8ksYX"
-    },
-    {
-      "added_at": "2026-05-11 20:38:16",
-      "album": {
         "name": "qu\u00e9 bueno!",
         "url": "https://open.spotify.com/album/5NF8Q7vFhmT1RJ15czoEL7"
       },
@@ -1027,26 +1007,6 @@
     {
       "added_at": "2026-05-11 20:38:16",
       "album": {
-        "name": "Personita Buena (CLUBZ Remix)",
-        "url": "https://open.spotify.com/album/34Pb7ScJyBVS4SWbwSxFyA"
-      },
-      "artists": [
-        {
-          "name": "Carlos Sadness",
-          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
-        },
-        {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Personita Buena - CLUBZ Remix",
-      "url": "https://open.spotify.com/track/7EXx0bIOSyM0iVABq82jrw"
-    },
-    {
-      "added_at": "2026-05-11 20:38:16",
-      "album": {
         "name": "El Ride",
         "url": "https://open.spotify.com/album/2gn2Y3RAxuMjGvbQNl9IKw"
       },
@@ -1067,18 +1027,42 @@
     {
       "added_at": "2026-05-11 20:38:16",
       "album": {
-        "name": "El Sol De Las 3",
-        "url": "https://open.spotify.com/album/2CEg0wCMivKXUXVKk90YOA"
+        "name": "Personita Buena (CLUBZ Remix)",
+        "url": "https://open.spotify.com/album/34Pb7ScJyBVS4SWbwSxFyA"
       },
       "artists": [
         {
-          "name": "seye",
-          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
+          "name": "Carlos Sadness",
+          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
+        },
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
         }
       ],
-      "duration_ms": 168205,
-      "name": "Intr\u00e9pida",
-      "url": "https://open.spotify.com/track/0qpfalTdyhy33HjUUunwYn"
+      "duration_ms": 188571,
+      "name": "Personita Buena - CLUBZ Remix",
+      "url": "https://open.spotify.com/track/7EXx0bIOSyM0iVABq82jrw"
+    },
+    {
+      "added_at": "2026-05-11 20:38:16",
+      "album": {
+        "name": "Promesas de Origami",
+        "url": "https://open.spotify.com/album/7HfXvuT1dU2njGRxqBLoSa"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        },
+        {
+          "name": "MiSHNRZ",
+          "url": "https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "Promesas De Origami",
+      "url": "https://open.spotify.com/track/53ZG7GgHBCkAIhWSC8ksYX"
     },
     {
       "added_at": "2026-05-11 20:38:16",
@@ -1095,6 +1079,22 @@
       "duration_ms": 175596,
       "name": "Volver A Empezar",
       "url": "https://open.spotify.com/track/2UuR56kahTzNGArpn3PWEF"
+    },
+    {
+      "added_at": "2026-05-11 20:38:16",
+      "album": {
+        "name": "El Sol De Las 3",
+        "url": "https://open.spotify.com/album/2CEg0wCMivKXUXVKk90YOA"
+      },
+      "artists": [
+        {
+          "name": "seye",
+          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
+        }
+      ],
+      "duration_ms": 168205,
+      "name": "Intr\u00e9pida",
+      "url": "https://open.spotify.com/track/0qpfalTdyhy33HjUUunwYn"
     },
     {
       "added_at": "2026-05-11 20:38:16",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2026-05-11 20:38:16",
       "album": {
-        "name": "Lucero",
-        "url": "https://open.spotify.com/album/3S8BSzmo1AQcShRuxJgN6A"
+        "name": "Eres",
+        "url": "https://open.spotify.com/album/5X4LwzmV4YI6ZgUSTrLzNs"
       },
       "artists": [
         {
-          "name": "Vicente Cifuentes",
-          "url": "https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG"
+          "name": "Planeta Tres",
+          "url": "https://open.spotify.com/artist/2eATLFTN3YsqxXMa13faPq"
         }
       ],
-      "duration_ms": 226697,
-      "name": "Lucero",
-      "url": "https://open.spotify.com/track/0PZEQTuukLN5d5VhFOXML5"
+      "duration_ms": 204166,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/2qKb3jyXEb4yqeZHlJaS3M"
     },
     {
       "added_at": "2026-05-11 20:38:16",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2026-05-11 20:38:16",
       "album": {
-        "name": "Eres",
-        "url": "https://open.spotify.com/album/5X4LwzmV4YI6ZgUSTrLzNs"
+        "name": "Lucero",
+        "url": "https://open.spotify.com/album/3S8BSzmo1AQcShRuxJgN6A"
       },
       "artists": [
         {
-          "name": "Planeta Tres",
-          "url": "https://open.spotify.com/artist/2eATLFTN3YsqxXMa13faPq"
+          "name": "Vicente Cifuentes",
+          "url": "https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG"
         }
       ],
-      "duration_ms": 204166,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/2qKb3jyXEb4yqeZHlJaS3M"
+      "duration_ms": 226697,
+      "name": "Lucero",
+      "url": "https://open.spotify.com/track/0PZEQTuukLN5d5VhFOXML5"
     },
     {
       "added_at": "2026-05-11 20:38:16",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2026-05-11 20:38:16",
       "album": {
-        "name": "Y SI SE ABREN LOS CIELOS",
-        "url": "https://open.spotify.com/album/7ojO0TsCWpHwxCIZ02vde4"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 180893,
-      "name": "Y SI SE ABREN LOS CIELOS",
-      "url": "https://open.spotify.com/track/7hft2uQ3kmAHG3LkLgJjWw"
-    },
-    {
-      "added_at": "2026-05-11 20:38:16",
-      "album": {
         "name": "Los Perros Van Al Cielo",
         "url": "https://open.spotify.com/album/78zM7Jt21cfSI2s95Me58N"
       },
@@ -1727,22 +1711,34 @@
     {
       "added_at": "2026-05-11 20:38:16",
       "album": {
-        "name": "Alej\u00e9monos",
-        "url": "https://open.spotify.com/album/3ptNF4zl1sec0fViprKxCK"
+        "name": "Y SI SE ABREN LOS CIELOS",
+        "url": "https://open.spotify.com/album/7ojO0TsCWpHwxCIZ02vde4"
       },
       "artists": [
         {
-          "name": "Manu Beker",
-          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
-        },
-        {
-          "name": "Lilly Yan",
-          "url": "https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C"
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
         }
       ],
-      "duration_ms": 165458,
-      "name": "Alej\u00e9monos",
-      "url": "https://open.spotify.com/track/51UK26oZlN0iHGDFz9Idkp"
+      "duration_ms": 180893,
+      "name": "Y SI SE ABREN LOS CIELOS",
+      "url": "https://open.spotify.com/track/7hft2uQ3kmAHG3LkLgJjWw"
+    },
+    {
+      "added_at": "2026-05-11 20:38:16",
+      "album": {
+        "name": "Desastre Comunal",
+        "url": "https://open.spotify.com/album/4EwZis4GJBiNs1ziHwtvhg"
+      },
+      "artists": [
+        {
+          "name": "Los W\u00e1lters",
+          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
+        }
+      ],
+      "duration_ms": 184421,
+      "name": "Desastre Comunal",
+      "url": "https://open.spotify.com/track/1FzcH0boI4wvlUvjnQxf0l"
     }
   ],
   "unique_name": "indie feliz",

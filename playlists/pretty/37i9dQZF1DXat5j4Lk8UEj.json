@@ -1,6 +1,6 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & The Night Sweats",
-  "num_followers": 475826,
+  "num_followers": 475795,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
@@ -835,6 +835,22 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
+        "name": "Tried to Tell You",
+        "url": "https://open.spotify.com/album/0xB1XJxNIddjYUrelC1Vm4"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 218602,
+      "name": "Tried to Tell You",
+      "url": "https://open.spotify.com/track/78Vj1c5mgrddm7aQN0A3fs"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
         "name": "Fever Pitch",
         "url": "https://open.spotify.com/album/7KAcbEEU9MREoPJxW78cEU"
       },
@@ -851,18 +867,18 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Tried to Tell You",
-        "url": "https://open.spotify.com/album/0xB1XJxNIddjYUrelC1Vm4"
+        "name": "Kitchen Table",
+        "url": "https://open.spotify.com/album/7zTtcqJ0SCAXuiALhxNEi0"
       },
       "artists": [
         {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
         }
       ],
-      "duration_ms": 218602,
-      "name": "Tried to Tell You",
-      "url": "https://open.spotify.com/track/78Vj1c5mgrddm7aQN0A3fs"
+      "duration_ms": 208800,
+      "name": "Kitchen Table",
+      "url": "https://open.spotify.com/track/1XxLV1Ag179JlXq1gwICcl"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -883,22 +899,6 @@
       "duration_ms": 317333,
       "name": "Right Kind of Dream",
       "url": "https://open.spotify.com/track/4bvsXc61sKgQ8eqrb6Mqhr"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
-        "name": "Kitchen Table",
-        "url": "https://open.spotify.com/album/7zTtcqJ0SCAXuiALhxNEi0"
-      },
-      "artists": [
-        {
-          "name": "Molly Parden",
-          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
-        }
-      ],
-      "duration_ms": 208800,
-      "name": "Kitchen Table",
-      "url": "https://open.spotify.com/track/1XxLV1Ag179JlXq1gwICcl"
     },
     {
       "added_at": "2025-02-07 05:00:32",

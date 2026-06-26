@@ -2004,7 +2004,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-22",
+      "date_removed": null,
       "duration_ms": 152360,
       "name": "Koekoek (WK Versie)",
       "url": "https://open.spotify.com/track/1hGMqvixdI8vCT1l0lC2s7"
@@ -2238,6 +2238,24 @@
       "duration_ms": 166289,
       "name": "Lilluke Linda",
       "url": "https://open.spotify.com/track/7v0sXJDueMuTg86sP80sG4"
+    },
+    {
+      "album": {
+        "name": "\u2026 En Door",
+        "url": "https://open.spotify.com/album/2GIjZeYF4Nb2ELwIEjuWmZ"
+      },
+      "artists": [
+        {
+          "name": "Snollebollekes",
+          "url": "https://open.spotify.com/artist/2DbTbUZFWbi3U3QzgJqU0V"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Links Rechts",
+      "url": "https://open.spotify.com/track/5EcPtaqxmPvgLcB5gRPF2j"
     },
     {
       "album": {
@@ -2682,7 +2700,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-22",
+      "date_removed": null,
       "duration_ms": 152358,
       "name": "Rood Wit Blauw",
       "url": "https://open.spotify.com/track/7s9qxb3GPmk62Uher0sJoS"
@@ -2814,7 +2832,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-22",
+      "date_removed": null,
       "duration_ms": 178333,
       "name": "Speedy Gonzales",
       "url": "https://open.spotify.com/track/452qliBRnC3wfHTngLg6Ka"
@@ -3298,7 +3316,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-22",
+      "date_removed": null,
       "duration_ms": 170346,
       "name": "Viva Hollandia",
       "url": "https://open.spotify.com/track/0VCYoWWceUxg1jRwlPMBbv"

@@ -1,12 +1,12 @@
 {
   "description": "This is Jes\u00fas Adri\u00e1n Romero. The essential tracks, all in one playlist.",
-  "num_followers": 213851,
+  "num_followers": 213871,
   "original_name": "This Is Jes\u00fas Adri\u00e1n Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajnMgAAAAACjrpH1Jlkulc0aTNoXIMhD",
+  "snapshot_id": "ajseAAAAAACvEeWnFcJdAsktHFMHVsJS",
   "tracks": [
     {
       "added_at": null,
@@ -399,26 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Vivir",
-        "url": "https://open.spotify.com/album/0Qnz5UhfoT7meU6rIIa5jH"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        },
-        {
-          "name": "Jesus Molina",
-          "url": "https://open.spotify.com/artist/7Gl7yiOLDSRr1cZyPwpGv4"
-        }
-      ],
-      "duration_ms": 257552,
-      "name": "A Vivir",
-      "url": "https://open.spotify.com/track/38YkAPODtVFCodo68wzNhX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alex Campos y Sus Amigos (En Vivo)",
         "url": "https://open.spotify.com/album/2PR5VvCobEgA3IdABDw87j"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 248040,
       "name": "Tu Amistad Me Hace Bien - En Vivo",
       "url": "https://open.spotify.com/track/46aynkZF4kEBzYOQYOFAjv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Vivir",
+        "url": "https://open.spotify.com/album/0Qnz5UhfoT7meU6rIIa5jH"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        },
+        {
+          "name": "Jesus Molina",
+          "url": "https://open.spotify.com/artist/7Gl7yiOLDSRr1cZyPwpGv4"
+        }
+      ],
+      "duration_ms": 257552,
+      "name": "A Vivir",
+      "url": "https://open.spotify.com/track/38YkAPODtVFCodo68wzNhX"
     },
     {
       "added_at": null,
@@ -731,22 +731,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Dar\u00e9 Lo Mejor (En Vivo)",
-        "url": "https://open.spotify.com/album/2oOY5CmzdnFhSYR86CQOfc"
+        "name": "Alex Campos y Sus Amigos (En Vivo)",
+        "url": "https://open.spotify.com/album/2PR5VvCobEgA3IdABDw87j"
       },
       "artists": [
         {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
         },
         {
-          "name": "Alejandro Del Bosque",
-          "url": "https://open.spotify.com/artist/2827XOUsEosrxxYdNhyC5h"
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
         }
       ],
-      "duration_ms": 360666,
-      "name": "Al Estar Ante Ti - En Vivo",
-      "url": "https://open.spotify.com/track/6VME9YhmZh1lnqliUGnx5y"
+      "duration_ms": 218746,
+      "name": "Suave Voz - En Vivo",
+      "url": "https://open.spotify.com/track/46I3Gs1rONe92owNoXHgja"
     },
     {
       "added_at": null,
@@ -767,22 +767,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alex Campos y Sus Amigos (En Vivo)",
-        "url": "https://open.spotify.com/album/2PR5VvCobEgA3IdABDw87j"
+        "name": "Te Dar\u00e9 Lo Mejor (En Vivo)",
+        "url": "https://open.spotify.com/album/2oOY5CmzdnFhSYR86CQOfc"
       },
       "artists": [
         {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        },
-        {
           "name": "Jes\u00fas Adri\u00e1n Romero",
           "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        },
+        {
+          "name": "Alejandro Del Bosque",
+          "url": "https://open.spotify.com/artist/2827XOUsEosrxxYdNhyC5h"
         }
       ],
-      "duration_ms": 218746,
-      "name": "Suave Voz - En Vivo",
-      "url": "https://open.spotify.com/track/46I3Gs1rONe92owNoXHgja"
+      "duration_ms": 360666,
+      "name": "Al Estar Ante Ti - En Vivo",
+      "url": "https://open.spotify.com/track/6VME9YhmZh1lnqliUGnx5y"
     },
     {
       "added_at": null,

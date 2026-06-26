@@ -509,6 +509,32 @@
     },
     {
       "album": {
+        "name": "De Tent Moet Op Z'n Kop (Hardstyle Remix)",
+        "url": "https://open.spotify.com/album/573RJSc9S7yL9kFBDxm00E"
+      },
+      "artists": [
+        {
+          "name": "Likke P\u00eahp",
+          "url": "https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma"
+        },
+        {
+          "name": "LARSTIG & GASDROP",
+          "url": "https://open.spotify.com/artist/1MD43KaP0yNmH4ffApOecX"
+        },
+        {
+          "name": "Bass Chaserz",
+          "url": "https://open.spotify.com/artist/5SxjKJ2HIg3dVQ427HYVHS"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117333,
+      "name": "De Tent Moet Op Z'n Kop - Hardstyle Remix",
+      "url": "https://open.spotify.com/track/35W8S9PtT2nzt8c5SWBsQe"
+    },
+    {
+      "album": {
         "name": "Doe Maar",
         "url": "https://open.spotify.com/album/1tZ2LLBIawSYfhcalfYDRv"
       },
@@ -1344,7 +1370,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 176100,
       "name": "Party All Night (Facking Feestje)",
       "url": "https://open.spotify.com/track/3TMyHtHJDdIUJ2ZUvjSzcx"

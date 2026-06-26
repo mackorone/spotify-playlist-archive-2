@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 
 > أجمد أغاني البوب المصري كلها في قائمة واحدة\. الغلاف: عمرو دياب
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,414 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,482 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 | 17 | [Enta Sa7](https://open.spotify.com/track/1YQwc6lXfeoA3jzwlnT1pI) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [Enta Sa7](https://open.spotify.com/album/0Xv5IoNIZO2Q7Weio0NRjs) | 3:26 |
 | 18 | [اه يا غالي](https://open.spotify.com/track/18BCx4X8wsVovSv1P3gOkx) | [Karim Mohsen](https://open.spotify.com/artist/56JGGZouDaedckdIuTg98X) | [اه يا غالي](https://open.spotify.com/album/5clFOfAah8HZfAPNBHRXom) | 2:54 |
 | 19 | [Ba3esh \(New Arrangement\)](https://open.spotify.com/track/0WlmcWbTjiVKsLNQR7UPOs) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Ba3esh \(New Arrangement\)](https://open.spotify.com/album/1ICdaODhox6ZLn8i61ujZ4) | 3:34 |
-| 20 | [الدلع والانبساط](https://open.spotify.com/track/6oRPhqLz04EvOEutc6Byms) | [Houda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [الدلع والانبساط](https://open.spotify.com/album/0Q0jRz0dNVTMTky344V665) | 2:47 |
+| 20 | [الدلع والانبساط](https://open.spotify.com/track/6oRPhqLz04EvOEutc6Byms) | [Houda](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [الدلع والانبساط](https://open.spotify.com/album/0Q0jRz0dNVTMTky344V665) | 2:47 |
 | 21 | [Ghali](https://open.spotify.com/track/6cSXWBLwV9I3Pe421kfCw5) | [Khaled Selim](https://open.spotify.com/artist/5J4acKeUuK5k6oZfx8e1rr) | [Ghali](https://open.spotify.com/album/2l79fD9WGZGNxcvvMGcZzO) | 4:11 |
 | 22 | [ما تيجي نركن الزعل](https://open.spotify.com/track/6SV1CubigxqGfvoSU6uCEV) | [ليل المحمدي](https://open.spotify.com/artist/1YRsTTss73lQAGhtgLKrOd) | [ما تيجي نركن الزعل](https://open.spotify.com/album/032M5b75DmWMAnquK16IGN) | 3:08 |
 | 23 | [Ya Layaly](https://open.spotify.com/track/5hCAs0OsDpCy6kZxEAI3aw) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Ya Layaly](https://open.spotify.com/album/3p1T8i6PfyTuZkaXMBQGX7) | 3:10 |

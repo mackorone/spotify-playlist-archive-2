@@ -2,9 +2,9 @@
 
 ### [Exception Française](https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx)
 
-> Les  meilleures nouveautés de la chanson française avec Pomme.
+> Les  meilleures nouveautés de la chanson française avec Lisa Pariente.
 
-352 songs - 19 hr 10 min
+355 songs - 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Juste avant de tomber](https://open.spotify.com/track/1ZXwbERsrEeKMrZVdOPRMQ) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A) | [Juste avant de tomber](https://open.spotify.com/album/6QqYvin3hXiGiIgpwKxdBQ) | 4:02 | 2025-05-22 | 2025-10-10 |
 | [J’en ai pas encore fini](https://open.spotify.com/track/0hrtAH1qXHDIkEVX4XQYRr) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM) | [J'en ai pas encore fini](https://open.spotify.com/album/4Z3JZPSywHfItYA8Tzqvgv) | 3:28 | 2026-06-04 |  |
 | [J’veux du cuir](https://open.spotify.com/track/40pW3lzalVawpg8oTL1uv8) | [Vanille](https://open.spotify.com/artist/2cDOL359PIxZf239UwINjI) | [J’veux du cuir](https://open.spotify.com/album/3qWWwn60K9WIFBILpDXHxb) | 2:44 | 2025-12-11 | 2026-04-10 |
+| [Kisbee](https://open.spotify.com/track/5mefCB9Jjlll59HwaLK33U) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [Kisbee](https://open.spotify.com/album/62m4yqqakepro5IsQz5QN5) | 2:22 | 2026-06-25 |  |
 | [L'amertume \- Issu du documentaire "Tout un fromage"](https://open.spotify.com/track/13QPh3IfOzMdpmoWlieHRV) | [Pépite](https://open.spotify.com/artist/0oA0cg7ajEwV0EXKCAlQ63) | [L'amertume \(Issu du documentaire "Tout un fromage"\)](https://open.spotify.com/album/4x7Ew0u9AqYYelle6w9KCj) | 2:41 | 2026-04-09 |  |
 | [L'AVANCÉE](https://open.spotify.com/track/0kR6Kk05qUVBkN3oHfHEtD) | [Lisa Portelli](https://open.spotify.com/artist/5BjCAGv8JWZzhcegp8izDi) | [L'AVANCÉE](https://open.spotify.com/album/3IAs8brlwGchun36xwWIgU) | 4:08 | 2024-10-10 | 2025-03-07 |
 | [L'homme idéal](https://open.spotify.com/track/0soh7xZDQFQHOjXmBNWhUJ) | [Vanille](https://open.spotify.com/artist/2cDOL359PIxZf239UwINjI) | [Regarde](https://open.spotify.com/album/1cDrecRdnUbpWtH8Bbqr9J) | 2:35 | 2025-06-12 | 2025-10-10 |
@@ -146,7 +147,7 @@
 | [La lune](https://open.spotify.com/track/7pqDnrVnJbmuOjPnRs5kpI) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Si on sombre ce sera beau \(promis\)](https://open.spotify.com/album/3xpX4ziPYvlQnFDHKP26wW) | 3:49 | 2025-11-13 | 2026-02-20 |
 | [La musique à fond](https://open.spotify.com/track/7jVGaMb1XA9u88tWlouB4t) | [Keren Ann](https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA) | [La musique à fond](https://open.spotify.com/album/1GmHIr4LHAwuloVe5FuiVo) | 3:26 | 2025-05-15 | 2025-09-12 |
 | [LA NUIT](https://open.spotify.com/track/4cc2PUXzaw7hgUsbYScfFd) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [LA NUIT \(La Venue de l’avenir \- musique originale\)](https://open.spotify.com/album/6FEqYXlwRZfx9ro7cXNZru) | 3:12 | 2025-05-29 | 2025-10-17 |
-| [La nuit](https://open.spotify.com/track/4AlhY7cFD946eYQZgW3WSo) | [Steve Ibrahim](https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs) | [La nuit](https://open.spotify.com/album/3V75nRjPbeRtz8idxYojm5) | 3:27 | 2026-03-26 |  |
+| [La nuit](https://open.spotify.com/track/4AlhY7cFD946eYQZgW3WSo) | [Steve Ibrahim](https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs) | [La nuit](https://open.spotify.com/album/3V75nRjPbeRtz8idxYojm5) | 3:27 | 2026-03-26 | 2026-06-26 |
 | [La nuit est entrée en lui](https://open.spotify.com/track/1eA8fnNTsuYW4eYWlcNqxK) | [H\-Burns](https://open.spotify.com/artist/5Jd4dFTFgTta5lqPvamjZn), [Bertrand Belin](https://open.spotify.com/artist/5yFrjxlSd8zPqzCCNrOI5h) | [Sunset Park \(Extended version\)](https://open.spotify.com/album/4R7JoS7uL4Rs0zBayDeJxY) | 4:21 | 2024-06-27 | 2024-09-06 |
 | [La nuit n'est pas prêteuse](https://open.spotify.com/track/5Rch0ztFsIuSbEyIJEpKRI) | [Constance Amiot](https://open.spotify.com/artist/57aTJRDQsVsP8fMuY7URiO) | [After Summer](https://open.spotify.com/album/4Y0XE1wuEFbgYhRwG40Uiy) | 3:03 | 2025-09-25 | 2026-02-06 |
 | [La rivière](https://open.spotify.com/track/0MMXPraylvfvemFGDINgag) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [SOMA](https://open.spotify.com/album/6fCbeaZSXlVDgHTiaMR9C9) | 2:45 | 2025-04-24 | 2025-09-20 |
@@ -188,7 +189,7 @@
 | [Le sud](https://open.spotify.com/track/2lVCyz2QzwLu3bcDzROnpY) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Le sud](https://open.spotify.com/album/3OvJOR3zCO335aro2CEPwW) | 3:45 | 2024-06-27 | 2024-08-30 |
 | [Le temps passe](https://open.spotify.com/track/7lKqPgebPZrZSDM3vGu92k) | [L \(Raphaële Lannadère\)](https://open.spotify.com/artist/6U11D7usLhid56o38NJVi8) | [Le temps passe](https://open.spotify.com/album/1jMasSdtdHzgmhGTjEL9Nw) | 2:09 | 2025-02-20 | 2025-05-16 |
 | [Le temps qui passe sans moi \- Version symphonique](https://open.spotify.com/track/4d4QtDnYE7wwiAHQcYDylg) | [Dominique A](https://open.spotify.com/artist/6IoS9ojtxKCL1tW5VL1buI) | [Le temps qui passe sans moi \- Version symphonique](https://open.spotify.com/album/4tlu9XTFmBkk10T2ZoLa1E) | 3:56 | 2024-06-27 | 2024-09-20 |
-| [Le Train](https://open.spotify.com/track/0jlA2eeimEel4YhVm9FsUR) | [Laure Briard](https://open.spotify.com/artist/01kBbtD0A37qtJ9EdA3Fm1) | [Le Train](https://open.spotify.com/album/0bYRaNGPNyvFWKqOWQfGfS) | 2:33 | 2026-04-30 |  |
+| [Le Train](https://open.spotify.com/track/0jlA2eeimEel4YhVm9FsUR) | [Laure Briard](https://open.spotify.com/artist/01kBbtD0A37qtJ9EdA3Fm1) | [Le Train](https://open.spotify.com/album/0bYRaNGPNyvFWKqOWQfGfS) | 2:33 | 2026-04-30 | 2026-06-26 |
 | [le village](https://open.spotify.com/track/4BUkHw3lvnY8fuOgu9kRAN) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [le village](https://open.spotify.com/album/2PvCytDBc6cEY10ZFDBRAG) | 3:37 | 2026-06-18 |  |
 | [Le Vœu](https://open.spotify.com/track/41GX6q5XIhBslrEhzT8f8r) | [Marco Ferreira](https://open.spotify.com/artist/2eeWkCArv4Bxqqb82b7ona) | [Le Vœu](https://open.spotify.com/album/5EV5iAGebXLRmKklXiCEgo) | 1:57 | 2025-09-25 | 2026-02-13 |
 | [Les Anges](https://open.spotify.com/track/5qftMKQEhmvZTeP1zWXs1d) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider \(Deluxe\)](https://open.spotify.com/album/1ttdXNBRHGq9ASHdeA36cI) | 2:38 | 2024-11-08 | 2024-11-29 |
@@ -266,7 +267,7 @@
 | [Plastique](https://open.spotify.com/track/7nqOy9W1AcgvPB1Ww3N44S) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [Plastique](https://open.spotify.com/album/3nRIj7ie5Fg81SmrXwCP0r) | 3:07 | 2025-02-13 | 2025-06-13 |
 | [playlist](https://open.spotify.com/track/3VunM8L63XtLS4KcCPG0WO) | [Persephone](https://open.spotify.com/artist/1pAi5uMxhnL0M1BiktUcOl) | [playlist](https://open.spotify.com/album/2UFX0Sh4g952XlqbJcr46l) | 2:10 | 2026-01-29 | 2026-05-08 |
 | [Pluie de data](https://open.spotify.com/track/3F2zj7x4wGGpWmezFy07BF) | [Bertrand Belin](https://open.spotify.com/artist/5yFrjxlSd8zPqzCCNrOI5h) | [Pluie de data](https://open.spotify.com/album/2iAXxsQJ0e9cT2Jy9c0amS) | 4:48 | 2025-06-26 | 2025-09-05 |
-| [Plus loin](https://open.spotify.com/track/3pMLw9md188yWQT1deU5rx) | [Volo](https://open.spotify.com/artist/11T4vCBbGWjL5boJmWeiw9), [Mesparrow](https://open.spotify.com/artist/5ai4H4duxTBym6XsFjuGlD) | [Mine de rien](https://open.spotify.com/album/2wNe7k2K0R95Ld1X5kEo7w) | 3:12 | 2026-03-19 |  |
+| [Plus loin](https://open.spotify.com/track/3pMLw9md188yWQT1deU5rx) | [Volo](https://open.spotify.com/artist/11T4vCBbGWjL5boJmWeiw9), [Mesparrow](https://open.spotify.com/artist/5ai4H4duxTBym6XsFjuGlD) | [Mine de rien](https://open.spotify.com/album/2wNe7k2K0R95Ld1X5kEo7w) | 3:12 | 2026-03-19 | 2026-06-26 |
 | [Plusieurs](https://open.spotify.com/track/3iSW2g3seqcGRihjkwwh6l) | [Vincent Delerm](https://open.spotify.com/artist/3Uo7E7lR9Li0qXzxU8VmnF) | [Plusieurs](https://open.spotify.com/album/5R3ElE0JOCffSb7U8xM5Xz) | 3:08 | 2025-04-10 | 2025-05-23 |
 | [Pour ce qui nous attend de mieux](https://open.spotify.com/track/5kcR5em23qzAuYno6IiOuX) | [Ysé](https://open.spotify.com/artist/5rbd3UDWIlTwn6ezggjxUw) | [Pour ce qui nous attend de mieux](https://open.spotify.com/album/74VybRhzx6qlglHu0lWZb6) | 4:09 | 2026-04-23 |  |
 | [Pour te plaire](https://open.spotify.com/track/1btUUml5I5zktEtJlmaht1) | [Hélène Sio](https://open.spotify.com/artist/4xY8i64uyLVZJcxobplgOO) | [Pour te plaire](https://open.spotify.com/album/1GAS9ktxls3jYTnHWU31uq) | 3:04 | 2025-01-30 | 2025-06-13 |
@@ -292,6 +293,7 @@
 | [Rome \- Version acoustique](https://open.spotify.com/track/0PtbSikU0FekxFY2o6pNiP) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Rome \(Version acoustique\)](https://open.spotify.com/album/6BxqvgFnmJpO8YAjiyKFxu) | 2:47 | 2024-06-27 | 2024-11-29 |
 | [révérence](https://open.spotify.com/track/6NLZCOVYmNYsviTk2Q2uDR) | [Jean Castel](https://open.spotify.com/artist/1mNalEbDGiL0rHTGwagfr1) | [révérence](https://open.spotify.com/album/7D3DsoixOg9XAlQsN6OJZx) | 2:46 | 2026-03-05 | 2026-05-29 |
 | [Rêveur, Rêveur](https://open.spotify.com/track/63qs1xM7ReJTFEi3pKdN3R) | [Louis Chedid](https://open.spotify.com/artist/2rBb2WwvpcIHNiofmw22vn) | [Rêveur, Rêveur](https://open.spotify.com/album/3kqttZxgp69ma3RYmscTdB) | 2:57 | 2024-11-14 | 2024-11-29 |
+| [s'aimer](https://open.spotify.com/track/5MtzQdms0nwb3OiQlb2kVw) | [Heroe](https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1) | [s'aimer](https://open.spotify.com/album/2gW5BLFBRTynDNjeGfpGqM) | 3:03 | 2026-06-25 |  |
 | [Saisons](https://open.spotify.com/track/2YJIsskQ7aoEBWTGhn38Gw) | [Jeanne Gabrielle](https://open.spotify.com/artist/01DNT67EQW5Pcj6BIXHfnZ) | [Saisons](https://open.spotify.com/album/35KgRdnce5gzdP3yT3KZCB) | 3:26 | 2025-03-20 | 2025-08-29 |
 | [SAKTI](https://open.spotify.com/track/4TYbR1TD6OQc6WyOHmFNub) | [Liv Oddman](https://open.spotify.com/artist/1yEA4XZdXmdaNG6lLd9RKg) | [SAKTI](https://open.spotify.com/album/6itM1YkHGuEUOtV4WEVV2a) | 3:14 | 2024-06-27 | 2024-10-18 |
 | [Salut](https://open.spotify.com/track/1JKaVKszQvRRRWkC4Jl7NE) | [Côme Ranjard](https://open.spotify.com/artist/40PTFLX9GHiZm6sF2RCCoz) | [Salut](https://open.spotify.com/album/2JrNI1AjKnD11vR5Gn4hXo) | 3:42 | 2024-08-29 | 2024-09-20 |
@@ -355,6 +357,7 @@
 | [Ça va](https://open.spotify.com/track/5bQf0GkvmAvsVIq9iocbn9) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Ça va](https://open.spotify.com/album/28H5Pp4wCwxWkGv15589Nl) | 3:14 | 2025-08-28 | 2025-12-12 |
 | [Éclaircie sur le jardin](https://open.spotify.com/track/0v7FZArmGHq8hWP4pJPYIY) | [Alain Chamfort](https://open.spotify.com/artist/79SJOUvbcH85tS57TH1f4H) | [L’impermanence](https://open.spotify.com/album/68UALG5MqVdnpHfeOsMHtN) | 2:25 | 2024-12-05 | 2025-01-31 |
 | [Écran total](https://open.spotify.com/track/1sVhDL2OQUKItkk56OBGRw) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A) | [Écran total](https://open.spotify.com/album/7dCtiqG1147qsZmnll8L5f) | 3:32 | 2026-05-21 |  |
+| [énième chance](https://open.spotify.com/track/5uQcQJsVSBMWsfh7yq7cBL) | [Ellie Becker](https://open.spotify.com/artist/7sk2rTrxeJHTBisizDA42q) | [énième chance](https://open.spotify.com/album/2KvetfZ8OEpqRTLCkznGEc) | 2:33 | 2026-06-25 |  |
 | [Été 19](https://open.spotify.com/track/2ZQkK63KQfTp9PzUH9bgok) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM) | [Une autre vie](https://open.spotify.com/album/3kOhzA5Vb2pp8nPf1BR1iA) | 2:59 | 2024-11-21 | 2025-01-17 |
 | [Été avec toi](https://open.spotify.com/track/4cSHMHSTRhetAtT1iDP2zO) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0) | [Été avec toi](https://open.spotify.com/album/5ExuPCbhP2IlrBgvdZvTLu) | 3:07 | 2026-05-28 |  |
 | [Été indien](https://open.spotify.com/track/3Yplad4pUttI1nNpTXqOLB) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Été indien](https://open.spotify.com/album/071IfO6HQAdFPOVXlW2qPQ) | 2:52 | 2026-05-21 |  |

@@ -4,7 +4,7 @@
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;1sxp36xhSTsWgyoJTwHYTS
 
-248 songs - 13 hr 14 min
+251 songs - 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Feeling](https://open.spotify.com/track/1X3AwRodqm9ovv2lJGqun1) | [Kofy](https://open.spotify.com/artist/6sOUskMzJnWoK8vyuO0Xiz) | [Café Crème](https://open.spotify.com/album/7ja8rHmx0hYGJtldRMEtij) | 4:11 | 2023-03-08 |  |
 | [Foolish](https://open.spotify.com/track/1UcW3Exk5MUOasInWgwtDl) | [Magadino The Chemist](https://open.spotify.com/artist/2eUA0qZtQYlE7U2jst1Rl6), [Razakel](https://open.spotify.com/artist/3X1RL9kEizLAhWGhuvyQ5O) | [Foolish](https://open.spotify.com/album/6ZsjELuFToNx8JV2g4F0lf) | 3:23 | 2024-10-08 |  |
 | [Fora da Lei](https://open.spotify.com/track/3gPKxT7r4Qc6etxeqLChrh) | [Marcelo Santos](https://open.spotify.com/artist/5DUXqH2QvET0Sutw98BRoZ) | [12:06](https://open.spotify.com/album/0C5Y8NfrqgUD5ayPpyK5a7) | 2:38 | 2023-12-06 |  |
+| [Freddie Gibbs](https://open.spotify.com/track/2EuZgmpNafZ65eqhIyutd3) | [Colossale](https://open.spotify.com/artist/1eektsWsMeBWe0icYCQj2x) | [Pu' D'batterie, Vol.1](https://open.spotify.com/album/5nWA8oermHFntIte4GL2qb) | 1:40 | 2026-06-25 |  |
 | [Freedom](https://open.spotify.com/track/3isxjkWzkuK24ASvhnL1vZ) | [PEDRONAVAJA MNR](https://open.spotify.com/artist/129b82WufeKJZbAzsDw00Z), [R De Rumba](https://open.spotify.com/artist/6zJkLYY6jdwLbRCo3Acc3C), [UG \(Cella Dwellas\)](https://open.spotify.com/artist/12DXNDQGQHC717yh7Iv9EI), [Madnass](https://open.spotify.com/artist/2gYrxk5THEytAGyjIlWoJv), [ZPU](https://open.spotify.com/artist/7F9Bd5X4sxdwWRJVpbfMtb) | [Freedom](https://open.spotify.com/album/7tilxtWhRcaOJ0UyysgvQN) | 4:45 | 2023-02-24 |  |
 | [Funambule](https://open.spotify.com/track/6y6rqbTCePYtDTFIxLzK7I) | [Zéphire](https://open.spotify.com/artist/4NjbhDwd1cZqY0x0tqXaCl) | [Funambule](https://open.spotify.com/album/0Y81p2HP5kxJri4CFZPfjN) | 4:56 | 2024-05-28 |  |
 | [Funambule \- Radio Edit](https://open.spotify.com/track/0rBKnsLN278ENX8Q45sLYH) | [Lô Trêzou](https://open.spotify.com/artist/3ukTPT7HOfgfBnwf95zMM1) | [Funambule \(Radio Edit\)](https://open.spotify.com/album/5HqA87Ilkh8okBjOgFAmEs) | 3:16 | 2024-05-28 |  |
@@ -106,6 +107,7 @@
 | [I DO NOT CARE](https://open.spotify.com/track/5VnJGgizk2bpFQUoYG6KCz) | [Lj Wash](https://open.spotify.com/artist/7iq0wZNWoZKCHtx4vEY53k), [neyoooo](https://open.spotify.com/artist/01lWinOuZGdJ0CcaIv13c5) | [I DO NOT CARE](https://open.spotify.com/album/4kDFBC9GrvuSHKYYqA6hC2) | 2:40 | 2024-10-04 |  |
 | [Ils ne voulaient pas de moi](https://open.spotify.com/track/7iE2DgmImx0PwHbvW0jZZS) | [Colossale](https://open.spotify.com/artist/1eektsWsMeBWe0icYCQj2x), [Dee Joyce](https://open.spotify.com/artist/7cwThkH8u8VHGownnwFcPs) | [Ils ne voulaient pas de moi](https://open.spotify.com/album/2XhKqSURT2jfXkZKXLrlgm) | 3:03 | 2024-12-04 |  |
 | [INDISCRET](https://open.spotify.com/track/2XkZf7PB3MjaBdnzR2KFSo) | [Smeels](https://open.spotify.com/artist/6FyY3mlFrDdKUX35GrzeOZ) | [AERON SIT](https://open.spotify.com/album/499DppgglIUt1d6UD6GNW8) | 2:13 | 2023-01-11 |  |
+| [Insomnie](https://open.spotify.com/track/4yzeM3WcIcVd649yvktMY3) | [Kailys](https://open.spotify.com/artist/57PDGjJgwxrUFCLlkxJZZn) | [Insomnie](https://open.spotify.com/album/07lCcMGbJkSGeeyc293klT) | 3:35 | 2026-06-25 |  |
 | [Intempéries matinales](https://open.spotify.com/track/1xQVGT6jeGmd7LjjgAbcMx) | [SELKA](https://open.spotify.com/artist/37wnPF622kB2IIa8kmTayV) | [Entre les gouttes](https://open.spotify.com/album/0JISNHqqgZMbrNODCD9blh) | 2:31 | 2025-02-19 |  |
 | [It Still Hurts](https://open.spotify.com/track/1ofaUTC0BiUeb4XMtx49L2) | [John Blvck](https://open.spotify.com/artist/360goglak05MPXGbQ7kIJE) | [It Still Hurts](https://open.spotify.com/album/76Ti89RgQ4vH3vzgoE9rLl) | 4:10 | 2023-04-22 |  |
 | [J'le promets](https://open.spotify.com/track/0XFSzZVY04oRg58SBsZVDq) | [Lea Makhoul](https://open.spotify.com/artist/6YpQu3OBXeC8XE4HQ77bVG) | [J'le promets](https://open.spotify.com/album/40AWLwqkJCaym3GAnVhUHl) | 2:42 | 2023-03-19 |  |
@@ -124,6 +126,7 @@
 | [KODAK](https://open.spotify.com/track/4fGxG2rFV9j7oMBAYqFX3M) | [ONHA](https://open.spotify.com/artist/7EWs0gioQTozs7jZ00m4WM), [ROCCO TAVU](https://open.spotify.com/artist/5Z8xoDp0a6OT9QPf2qzZOA) | [OPALE](https://open.spotify.com/album/4Eyo4m8rK7Uj5c5IMps8E4) | 3:01 | 2024-06-15 |  |
 | [konnichiwa](https://open.spotify.com/track/4T3sGjwYapQCyIc1lwYcI2) | [Tom Harker](https://open.spotify.com/artist/2J4ZN6l8QFSXyh7blXyWvs) | [konnichiwa](https://open.spotify.com/album/3zmeR9kc7xLx0m1mgCcz5G) | 2:52 | 2025-06-26 |  |
 | [La fin du film](https://open.spotify.com/track/75olv131UvV2jmqdWvEF0t) | [Clé](https://open.spotify.com/artist/6ngMTk9g830xvD6sl48tmQ) | [La fin du film](https://open.spotify.com/album/1pXdTQjV2DUYXZHZGyg5Pw) | 3:04 | 2025-03-15 |  |
+| [La Nuit](https://open.spotify.com/track/21tJYf8GxZ2nbMOu2i2aVg) | [Mike Moonnight](https://open.spotify.com/artist/6T8Ols663KRRS4UdzGPbFf) | [La Nuit](https://open.spotify.com/album/6SBT3l51BiLME0uhMwUUuU) | 2:47 | 2026-06-25 |  |
 | [La Nuit n'a pas Sommeil](https://open.spotify.com/track/6VMyovpmPXZrKQHAM6nsH9) | [Jeremy Laroch](https://open.spotify.com/artist/0KC8MXn0i9tjZNf4txHmKJ), [Christianne Braspenning](https://open.spotify.com/artist/4Dw0rwTMGywJ3WPAWEGO58) | [La Nuit n'a pas Sommeil](https://open.spotify.com/album/1TimoJpAjnHtAVqV2NZHo1) | 2:47 | 2024-12-04 |  |
 | [La Paye](https://open.spotify.com/track/7eCwjQQvoe4k3iMUUjwHaC) | [Seroan](https://open.spotify.com/artist/0ES16jKLCbea3NsA9utjis) | [La Paye](https://open.spotify.com/album/0wgcFjReyuWvjcxZKpTvYi) | 2:45 | 2023-10-24 |  |
 | [Laisse filer](https://open.spotify.com/track/40SuTRwcXhStcIKm5s5wZd) | [Hub30](https://open.spotify.com/artist/385GnVcvtt3cbhl512XWp0) | [Laisse filer](https://open.spotify.com/album/3P3QbHcKoWht4IraOk7EPH) | 3:16 | 2024-05-28 |  |

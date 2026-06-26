@@ -1,12 +1,12 @@
 {
   "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
-  "num_followers": 48035,
+  "num_followers": 48039,
   "original_name": "This Is Lola Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajnMgAAAAAAQA6rZkdd00pl9v/QC8SOx",
+  "snapshot_id": "ajseAAAAAABYhp2H+qykmLc2HB97ibMe",
   "tracks": [
     {
       "added_at": null,
@@ -475,18 +475,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5ecHiU1k8hCfy61X3Q5W7T"
+        "name": "EL DRAG\u00d3N",
+        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
       },
       "artists": [
         {
           "name": "Lola Indigo",
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 128136,
-      "name": "POBRE DIABLA - Spotify Singles",
-      "url": "https://open.spotify.com/track/2bpaNIytZDt6slUUYZM9Pk"
+      "duration_ms": 174386,
+      "name": "DISCOTEKA",
+      "url": "https://open.spotify.com/track/6PSyxMi8vTq5m25Yh6Oc6J"
     },
     {
       "added_at": null,
@@ -511,22 +515,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "EL DRAG\u00d3N",
-        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5ecHiU1k8hCfy61X3Q5W7T"
       },
       "artists": [
         {
           "name": "Lola Indigo",
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 174386,
-      "name": "DISCOTEKA",
-      "url": "https://open.spotify.com/track/6PSyxMi8vTq5m25Yh6Oc6J"
+      "duration_ms": 128136,
+      "name": "POBRE DIABLA - Spotify Singles",
+      "url": "https://open.spotify.com/track/2bpaNIytZDt6slUUYZM9Pk"
     },
     {
       "added_at": null,
@@ -551,18 +551,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5ecHiU1k8hCfy61X3Q5W7T"
+        "name": "CORAZONES ROTOS",
+        "url": "https://open.spotify.com/album/28V2AlGwC1tF5Ph9f5WGy4"
       },
       "artists": [
         {
           "name": "Lola Indigo",
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
         }
       ],
-      "duration_ms": 253202,
-      "name": "CORAZ\u00d3N PART\u00cdO - Spotify Singles",
-      "url": "https://open.spotify.com/track/7IOYWDbBjwMvOEwQQ89DoF"
+      "duration_ms": 230130,
+      "name": "CORAZONES ROTOS",
+      "url": "https://open.spotify.com/track/7r5QwyDzxyikU1Kbkfz6FM"
     },
     {
       "added_at": null,
@@ -587,22 +591,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "CORAZONES ROTOS",
-        "url": "https://open.spotify.com/album/28V2AlGwC1tF5Ph9f5WGy4"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5ecHiU1k8hCfy61X3Q5W7T"
       },
       "artists": [
         {
           "name": "Lola Indigo",
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
         }
       ],
-      "duration_ms": 230130,
-      "name": "CORAZONES ROTOS",
-      "url": "https://open.spotify.com/track/7r5QwyDzxyikU1Kbkfz6FM"
+      "duration_ms": 253202,
+      "name": "CORAZ\u00d3N PART\u00cdO - Spotify Singles",
+      "url": "https://open.spotify.com/track/7IOYWDbBjwMvOEwQQ89DoF"
     },
     {
       "added_at": null,

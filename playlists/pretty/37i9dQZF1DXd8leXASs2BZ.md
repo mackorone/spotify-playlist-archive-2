@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Manaka
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,514 likes - 103 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,516 likes - 103 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

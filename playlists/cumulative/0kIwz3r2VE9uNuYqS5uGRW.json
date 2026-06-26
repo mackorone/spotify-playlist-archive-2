@@ -95,6 +95,32 @@
     },
     {
       "album": {
+        "name": "RITUALES",
+        "url": "https://open.spotify.com/album/7IBdexOx4VYxhfGr9X5QuR"
+      },
+      "artists": [
+        {
+          "name": "Bastyann",
+          "url": "https://open.spotify.com/artist/34Ufkh4lTUvCJpGspVsd8d"
+        },
+        {
+          "name": "Danche",
+          "url": "https://open.spotify.com/artist/3dQx0MvP6u0nA6SfY38V5j"
+        },
+        {
+          "name": "Danncray",
+          "url": "https://open.spotify.com/artist/5VD7tAqlMjgCRCBhs3xjTZ"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139626,
+      "name": "3P3",
+      "url": "https://open.spotify.com/track/6IHH0LmthFLpXLAbrYkUlw"
+    },
+    {
+      "album": {
         "name": "4:44AM",
         "url": "https://open.spotify.com/album/4TEX17jd6bREevtW8c8LG1"
       },
@@ -1002,6 +1028,24 @@
       "duration_ms": 190579,
       "name": "Desnudita",
       "url": "https://open.spotify.com/track/1aVp36oGu1xj8bJavKxQEK"
+    },
+    {
+      "album": {
+        "name": "DFRNT",
+        "url": "https://open.spotify.com/album/6ne96XT0Dk84sUeYV6J24H"
+      },
+      "artists": [
+        {
+          "name": "ALWYSPHIL",
+          "url": "https://open.spotify.com/artist/7FJXm7WP29Q9dfYCcBRMXg"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "DFRNT",
+      "url": "https://open.spotify.com/track/62YDjUHeTCsC5ONLBui5o8"
     },
     {
       "album": {
@@ -2352,6 +2396,24 @@
       "duration_ms": 199633,
       "name": "Learning to Miss You",
       "url": "https://open.spotify.com/track/1yJ0t8Sf2TdkIj4Ye9pm7x"
+    },
+    {
+      "album": {
+        "name": "Let them",
+        "url": "https://open.spotify.com/album/5S8Yuc25oFb8PAZNm2USLr"
+      },
+      "artists": [
+        {
+          "name": "Merla",
+          "url": "https://open.spotify.com/artist/1GgYEBhQle66sXg6jOdA8K"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172679,
+      "name": "Let them",
+      "url": "https://open.spotify.com/track/6LH4XRb1VsDfqb2KvznJwG"
     },
     {
       "album": {
@@ -4542,6 +4604,24 @@
       "duration_ms": 184439,
       "name": "You at First Sight",
       "url": "https://open.spotify.com/track/5Jb8z94wh7eUBUIhaqoKFm"
+    },
+    {
+      "album": {
+        "name": "You're not alone",
+        "url": "https://open.spotify.com/album/4am4CNnz2fOXVHtQleDG99"
+      },
+      "artists": [
+        {
+          "name": "Basement",
+          "url": "https://open.spotify.com/artist/3AJMnPzFJc7MIbaaajhqJw"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203383,
+      "name": "You're not alone",
+      "url": "https://open.spotify.com/track/1hXq4ig3y9UmN6DHFaTaGu"
     },
     {
       "album": {

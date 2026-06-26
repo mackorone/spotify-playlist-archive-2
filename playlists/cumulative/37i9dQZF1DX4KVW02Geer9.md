@@ -4,7 +4,7 @@
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: リアナ・フローレス
 
-575 songs - 1 day 17 hr 8 min
+576 songs - 1 day 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -571,6 +571,7 @@
 | [偶然の一致](https://open.spotify.com/track/4t9kLLMLdjWfEtXbM3K6r1) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo), [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [偶然の一致](https://open.spotify.com/album/77LZP3ZbG1hbKmSUzzdgkJ) | 4:11 | 2025-08-29 | 2025-10-03 |
 | [光の果実](https://open.spotify.com/track/0PMLzMjMlNTHQqrJ1cAJE1) | [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Reiya The P.A.V.E.](https://open.spotify.com/album/28Xjlj4ghnuLTI5Co2bStf) | 4:42 | 2025-05-15 | 2025-08-01 |
 | [再生](https://open.spotify.com/track/1OTYC3sM0OjSNd7Y72bprw) | [N.S\. DANCEMBLE](https://open.spotify.com/artist/4vgz1ReBFy52w0qHJekFBr) | [iii](https://open.spotify.com/album/6YMgz5xg15rXCTT0MAVGBU) | 3:21 | 2026-05-26 |  |
+| [北海盆唄](https://open.spotify.com/track/18us37rGhbqOAMyVMzwFFh) | [Minyo Crusaders](https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG) | [日本民謡より愛をこめて](https://open.spotify.com/album/6mzbwEWVx5LWor1eUPGqgF) | 4:50 | 2026-06-25 |  |
 | [卒業のエアロライト](https://open.spotify.com/track/0E5npJ8i9uBWErs4vrGOl9) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [卒業のエアロライト](https://open.spotify.com/album/6IlJNmhEKHcpb6mYmraMM0) | 4:00 | 2026-02-05 |  |
 | [惑星](https://open.spotify.com/track/2uA4yw2tDNXdfKLSQ6F0GL) | [矢舟テツロー](https://open.spotify.com/artist/552OyEDbpgWBiFB9vE0SDV) | [惑星](https://open.spotify.com/album/698Joy6TODu5G4d8bCaHCE) | 2:47 | 2024-06-27 | 2024-09-13 |
 | [揺れる](https://open.spotify.com/track/7htsAqcJKs8wuKIbIFB47r) | [LOTUS GUITAR](https://open.spotify.com/artist/0oe4CpEcla7VtzEtP0DYE6) | [揺れる](https://open.spotify.com/album/7oU1ioz9JWtg73Lnl23jv6) | 3:38 | 2025-09-04 | 2025-11-28 |

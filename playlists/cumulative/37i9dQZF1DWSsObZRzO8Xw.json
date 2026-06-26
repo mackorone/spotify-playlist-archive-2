@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Complex rhythms and mesmerizing loops. Cover: Angine de Poitrine",
+  "description": "Complex rhythms and mesmerizing loops. Cover: Elephant Gym",
   "name": "Math Rock",
   "tracks": [
     {
@@ -2722,7 +2722,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 165093,
       "name": "The Barnacle Beach",
       "url": "https://open.spotify.com/track/5DYQ0bInAoRKJFzVRrFy5v"
@@ -3248,6 +3248,24 @@
       "duration_ms": 402866,
       "name": "\u2026But the Pants Stay On",
       "url": "https://open.spotify.com/track/6yyIt97DsuLaPeGt4hlCH1"
+    },
+    {
+      "album": {
+        "name": "\u516c\u8def Highway",
+        "url": "https://open.spotify.com/album/1bMAMiSyDW96G6GZ1NSYtJ"
+      },
+      "artists": [
+        {
+          "name": "Elephant Gym",
+          "url": "https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203712,
+      "name": "\u516c\u8def Highway",
+      "url": "https://open.spotify.com/track/0YJtFxp46guIz1Xsyi5VGQ"
     },
     {
       "album": {

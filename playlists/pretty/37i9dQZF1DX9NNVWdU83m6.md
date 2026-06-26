@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,156 likes - 132 songs - 11 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,165 likes - 132 songs - 11 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 27 | [Vortex](https://open.spotify.com/track/5laqVYGYzUuHVqzPnVEGGk) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [Vortex](https://open.spotify.com/album/3IiQIr12IWEmMEGHNxvvzg) | 4:22 |
 | 28 | [Ikigai](https://open.spotify.com/track/7tO177bfJZ1IJasWil96wD) | [Evan Marien](https://open.spotify.com/artist/7j3WzD4hWEZ0CL4dDH9d6H), [Dana Hawkins](https://open.spotify.com/artist/6ZWC49mHWN4xLxfNW63sJe), [Zac Zinger](https://open.spotify.com/artist/6nVreZX9f5zkyfsuQ3Qo3J) | [Ikigai](https://open.spotify.com/album/315zprf1POK89DZOYBsPtQ) | 4:25 |
 | 29 | [2020](https://open.spotify.com/track/5chtaHyGuNkcj83hzae0Qk) | [The Funky Knuckles](https://open.spotify.com/artist/0uyK6faAhm4CYcf1OhP38V) | [2020](https://open.spotify.com/album/7hSvY3Hq0E1ZO5zSgeuwlL) | 8:03 |
-| 30 | [Elementa](https://open.spotify.com/track/4HnwCdceuquR4OnqXrF0Vp) | [Jonathan Lundberg](https://open.spotify.com/artist/6t3AHrm1phB25xs2XpST7p), [Hadrien Feraud](https://open.spotify.com/artist/3pOfWINUxMN6ntbayQt85j), [Carl Mörner Ringström](https://open.spotify.com/artist/69e8RvFXfQnels113EADzc), [Kristian Kraftling](https://open.spotify.com/artist/2b5sUfjMLjonRPhlSxvoa8), [Karzan Mahmood](https://open.spotify.com/artist/36o6LPKIdrAT4P8dEpkiOu) | [Elementa](https://open.spotify.com/album/64Tb9S99aFTsQ3WEns8Ihu) | 5:23 |
+| 30 | [Elementa](https://open.spotify.com/track/4HnwCdceuquR4OnqXrF0Vp) | [Jonathan Lundberg](https://open.spotify.com/artist/6t3AHrm1phB25xs2XpST7p), [Hadrien Feraud](https://open.spotify.com/artist/3pOfWINUxMN6ntbayQt85j), [Carl Mörner Ringström](https://open.spotify.com/artist/69e8RvFXfQnels113EADzc), [Kristian Kraftling](https://open.spotify.com/artist/2b5sUfjMLjonRPhlSxvoa8), [Karzan Mahmood](https://open.spotify.com/artist/3SmH2siLXeeRHkoDGITXMz) | [Elementa](https://open.spotify.com/album/64Tb9S99aFTsQ3WEns8Ihu) | 5:23 |
 | 31 | [Mezza Luna](https://open.spotify.com/track/4rHvDCZqfrm3yMMOKMwXft) | [PsychCloned](https://open.spotify.com/artist/4xMOnUYYtQbbqEUHxPXa0Y), [Camilo D.G.](https://open.spotify.com/artist/1H1jkHEUqtnoPmJPyCKo1R), [Space Hobo](https://open.spotify.com/artist/3CoCzt2Wu1GPYoKcxVf351) | [Melodic Trance](https://open.spotify.com/album/3EeUEdRJ3niaEtc0Wz0vfN) | 4:55 |
 | 32 | [Tayakadın](https://open.spotify.com/track/1ZevLGcq0eXAPT5ZKrWdXN) | [Geeva Flava](https://open.spotify.com/artist/1gzLVGMn6ZcMIEnqOGLyQl), [Dilan Balkay](https://open.spotify.com/artist/0EmioUrT5ZIveHOQnDcTGM) | [Tayakadın](https://open.spotify.com/album/4Uu07mQBHdCZj4LTYJe4vz) | 8:16 |
 | 33 | [Flight](https://open.spotify.com/track/2yFgYM0madEwWgdOijIYCv) | [Nikola Bankov](https://open.spotify.com/artist/1MYTUphUheZ7NGFaqk4ufd), [Jonas Gravlund](https://open.spotify.com/artist/4TYGbjlU0XZV8gjstM6FLm), [August Korsgaard](https://open.spotify.com/artist/4qxjlF0ufB4YKf4OS3guco), [Jens Mikkel Madsen](https://open.spotify.com/artist/7clzRivIR9YHDz4RcgnYyD), [John Riddell](https://open.spotify.com/artist/0uv2Zc91g37wbcF4JNZjll) | [Flight](https://open.spotify.com/album/0eInTrCi8RZ7yHYBC5uDyu) | 5:05 |

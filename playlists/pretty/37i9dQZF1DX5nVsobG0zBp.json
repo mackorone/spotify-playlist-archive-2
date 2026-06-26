@@ -1,6 +1,6 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: LON3R JOHNY",
-  "num_followers": 85399,
+  "num_followers": 85424,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2026-06-12 15:13:25",
       "album": {
+        "name": "Estrela Maior",
+        "url": "https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0"
+      },
+      "artists": [
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        }
+      ],
+      "duration_ms": 265011,
+      "name": "Estrela Maior",
+      "url": "https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF"
+    },
+    {
+      "added_at": "2026-06-12 15:13:25",
+      "album": {
         "name": "ROSAS",
         "url": "https://open.spotify.com/album/2R7iGYEwaSDTW68ucY9W4E"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 177272,
       "name": "ROSAS",
       "url": "https://open.spotify.com/track/0elz4WC9ZtAOzqP4fgt8T5"
-    },
-    {
-      "added_at": "2026-06-12 15:13:25",
-      "album": {
-        "name": "Estrela Maior",
-        "url": "https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0"
-      },
-      "artists": [
-        {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
-        }
-      ],
-      "duration_ms": 265011,
-      "name": "Estrela Maior",
-      "url": "https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF"
     },
     {
       "added_at": "2026-06-12 15:13:25",
@@ -1255,6 +1255,30 @@
     {
       "added_at": "2026-06-12 15:13:25",
       "album": {
+        "name": "3,14",
+        "url": "https://open.spotify.com/album/6G62obmFgI2yyK36htUzOe"
+      },
+      "artists": [
+        {
+          "name": "Gson",
+          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
+        },
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        },
+        {
+          "name": "Sam The Kid",
+          "url": "https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE"
+        }
+      ],
+      "duration_ms": 324763,
+      "name": "3,14",
+      "url": "https://open.spotify.com/track/1OjAoIz5Gl36rzm9RKEQeG"
+    },
+    {
+      "added_at": "2026-06-12 15:13:25",
+      "album": {
         "name": "Lua",
         "url": "https://open.spotify.com/album/7tMIxE9bA5hgemL5tUzvI1"
       },
@@ -1283,30 +1307,6 @@
       "duration_ms": 220800,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/0kM7y3ykrd0pmixnTnMp23"
-    },
-    {
-      "added_at": "2026-06-12 15:13:25",
-      "album": {
-        "name": "3,14",
-        "url": "https://open.spotify.com/album/6G62obmFgI2yyK36htUzOe"
-      },
-      "artists": [
-        {
-          "name": "Gson",
-          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
-        },
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        },
-        {
-          "name": "Sam The Kid",
-          "url": "https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE"
-        }
-      ],
-      "duration_ms": 324763,
-      "name": "3,14",
-      "url": "https://open.spotify.com/track/1OjAoIz5Gl36rzm9RKEQeG"
     },
     {
       "added_at": "2026-06-12 15:13:25",

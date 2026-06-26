@@ -1,6 +1,6 @@
 {
   "description": "Slacker jams. ",
-  "num_followers": 6694,
+  "num_followers": 6730,
   "original_name": "Lofi Indie",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,6 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "Half Life",
-        "url": "https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU"
-      },
-      "artists": [
-        {
-          "name": "CASTLEBEAT",
-          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
-        }
-      ],
-      "duration_ms": 189805,
-      "name": "Looking For Something",
-      "url": "https://open.spotify.com/track/3igEfREloyWh3Y8m4cS8QB"
-    },
-    {
-      "added_at": "2025-05-01 22:27:23",
-      "album": {
         "name": "GLOW ON",
         "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 176002,
       "name": "ALIEN LOVE CALL",
       "url": "https://open.spotify.com/track/5o5SdS2vu1PgKblBABGlER"
+    },
+    {
+      "added_at": "2025-05-01 22:27:23",
+      "album": {
+        "name": "Half Life",
+        "url": "https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU"
+      },
+      "artists": [
+        {
+          "name": "CASTLEBEAT",
+          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
+        }
+      ],
+      "duration_ms": 189805,
+      "name": "Looking For Something",
+      "url": "https://open.spotify.com/track/3igEfREloyWh3Y8m4cS8QB"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "LIFE ON EARTH",
-        "url": "https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3"
-      },
-      "artists": [
-        {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
-        }
-      ],
-      "duration_ms": 242053,
-      "name": "PIERCED ARROWS",
-      "url": "https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz"
-    },
-    {
-      "added_at": "2025-05-01 22:27:23",
-      "album": {
         "name": "marble arch",
         "url": "https://open.spotify.com/album/2aWNuYIUpxgS5ybXek6d0a"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 296636,
       "name": "marble arch",
       "url": "https://open.spotify.com/track/3gIC7qzRoxiDpYo0ymjZS0"
+    },
+    {
+      "added_at": "2025-05-01 22:27:23",
+      "album": {
+        "name": "LIFE ON EARTH",
+        "url": "https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "duration_ms": 242053,
+      "name": "PIERCED ARROWS",
+      "url": "https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "3:45/buslane",
-        "url": "https://open.spotify.com/album/4BM0zawOq1iJ5zgjfst8NQ"
-      },
-      "artists": [
-        {
-          "name": "lavender",
-          "url": "https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY"
-        }
-      ],
-      "duration_ms": 128530,
-      "name": "3:45/buslane",
-      "url": "https://open.spotify.com/track/5bvnL42xbgE6GE1Sqc8DcG"
-    },
-    {
-      "added_at": "2025-05-01 22:27:23",
-      "album": {
         "name": "When You Gonna Tell 'Em the Truth, Aaron?",
         "url": "https://open.spotify.com/album/24f1sqoX0UlZtAywhRb3Ba"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 233513,
       "name": "Feral Guest",
       "url": "https://open.spotify.com/track/69v7vezS4laY5CZPrWma0B"
+    },
+    {
+      "added_at": "2025-05-01 22:27:23",
+      "album": {
+        "name": "3:45/buslane",
+        "url": "https://open.spotify.com/album/4BM0zawOq1iJ5zgjfst8NQ"
+      },
+      "artists": [
+        {
+          "name": "lavender",
+          "url": "https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY"
+        }
+      ],
+      "duration_ms": 128530,
+      "name": "3:45/buslane",
+      "url": "https://open.spotify.com/track/5bvnL42xbgE6GE1Sqc8DcG"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "at least, I tried",
-        "url": "https://open.spotify.com/album/1QnA67cEEW7GV8izg8ZGwT"
-      },
-      "artists": [
-        {
-          "name": "Heroe",
-          "url": "https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1"
-        }
-      ],
-      "duration_ms": 194060,
-      "name": "at least, I tried",
-      "url": "https://open.spotify.com/track/1EznNhpm2q1HaAFxIO8k2h"
-    },
-    {
-      "added_at": "2025-05-01 22:27:23",
-      "album": {
         "name": "Lady Luck EP",
         "url": "https://open.spotify.com/album/5HeAzBZmmQl3hbfVCODU24"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 231925,
       "name": "Solid Door",
       "url": "https://open.spotify.com/track/2Cv5RfiMkCTgrYKxkYqLAo"
+    },
+    {
+      "added_at": "2025-05-01 22:27:23",
+      "album": {
+        "name": "at least, I tried",
+        "url": "https://open.spotify.com/album/1QnA67cEEW7GV8izg8ZGwT"
+      },
+      "artists": [
+        {
+          "name": "Heroe",
+          "url": "https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1"
+        }
+      ],
+      "duration_ms": 194060,
+      "name": "at least, I tried",
+      "url": "https://open.spotify.com/track/1EznNhpm2q1HaAFxIO8k2h"
     },
     {
       "added_at": "2025-05-01 22:27:23",

@@ -1,6 +1,6 @@
 {
   "description": "The latest and the greatest of CHH!  Cover: Porsha Love",
-  "num_followers": 34514,
+  "num_followers": 34530,
   "original_name": "The Blaze",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
       "duration_ms": 209308,
       "name": "the life we long for",
       "url": "https://open.spotify.com/track/4hSLhEAjLDJwotZ6ZAGo3G"
+    },
+    {
+      "added_at": "2026-06-19 04:01:52",
+      "album": {
+        "name": "Celebrate",
+        "url": "https://open.spotify.com/album/1ZTBOo5xHtn4V4lF954RgW"
+      },
+      "artists": [
+        {
+          "name": "A.I. The Anomaly",
+          "url": "https://open.spotify.com/artist/3PoVfuLf8nvX4HLntiLTUa"
+        }
+      ],
+      "duration_ms": 177630,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/0QwwgQsHd4rugwYUkKM8nx"
     },
     {
       "added_at": "2026-06-19 04:01:52",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "A new world of alternative noise. Cover: YHWH Nailgun",
+  "description": "A new world of alternative noise. Cover: Mannequin Pussy",
   "name": "Wire",
   "tracks": [
     {
@@ -164,7 +164,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 143891,
       "name": "ASSIGNMENT",
       "url": "https://open.spotify.com/track/039v69B31n5qbJ0mkCCqZM"
@@ -1175,6 +1175,24 @@
     },
     {
       "album": {
+        "name": "Get Up and Dance",
+        "url": "https://open.spotify.com/album/35pudrLjhzoqj08pHMjyZn"
+      },
+      "artists": [
+        {
+          "name": "Man/Woman/Chainsaw",
+          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261243,
+      "name": "Get Up and Dance",
+      "url": "https://open.spotify.com/track/4hGBY8lwQbg6UojWNmeJC1"
+    },
+    {
+      "album": {
         "name": "Giraffe",
         "url": "https://open.spotify.com/album/3uFbktga31i0ft3ZwRhrNp"
       },
@@ -1298,6 +1316,24 @@
       "duration_ms": 221312,
       "name": "Golden Boy",
       "url": "https://open.spotify.com/track/3A1ODOlyUOBNHHSkob57Ym"
+    },
+    {
+      "album": {
+        "name": "Good Enough",
+        "url": "https://open.spotify.com/album/1V3sZlCa2uP1npYlh83fLJ"
+      },
+      "artists": [
+        {
+          "name": "Ultra Lights",
+          "url": "https://open.spotify.com/artist/6T7xnpZAOPf4XwrYZclzTA"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127173,
+      "name": "Good Enough",
+      "url": "https://open.spotify.com/track/1B1By24uRkI2EH3UNrcBK8"
     },
     {
       "album": {
@@ -2288,7 +2324,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 135751,
       "name": "Nobody's Son",
       "url": "https://open.spotify.com/track/3WqBMrDMPnbBjBZsa6YrIq"
@@ -2766,7 +2802,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 182714,
       "name": "Rolling By",
       "url": "https://open.spotify.com/track/6rLuJ0UjBbi4xYwvUtYP0B"
@@ -2802,7 +2838,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 254753,
       "name": "Rule 31",
       "url": "https://open.spotify.com/track/7pAfFtGxND5IaeRzOuPHcJ"
@@ -2932,7 +2968,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 95937,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/7LN2eS7gyXt1MenkXRlqAF"
@@ -3365,6 +3401,24 @@
     },
     {
       "album": {
+        "name": "Take Me to the Meeting",
+        "url": "https://open.spotify.com/album/2t0u5r7EU6Exkj0kdOMEKg"
+      },
+      "artists": [
+        {
+          "name": "Mac The Knife",
+          "url": "https://open.spotify.com/artist/3EH6Un3g3K7KwvfOVygIMb"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201025,
+      "name": "Take Me to the Meeting",
+      "url": "https://open.spotify.com/track/6awY3r3qQHoyCRIVR0Pq2b"
+    },
+    {
+      "album": {
         "name": "For Love of Grace & the Hereafter",
         "url": "https://open.spotify.com/album/1oU9h86D6qcuHNDoGvzpwV"
       },
@@ -3787,6 +3841,24 @@
     },
     {
       "album": {
+        "name": "Where's My Dini? (Spotify Singles)",
+        "url": "https://open.spotify.com/album/3m9zl3efQRswdVyYBfvcOm"
+      },
+      "artists": [
+        {
+          "name": "Mannequin Pussy",
+          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283998,
+      "name": "Where's My Dini? - Spotify Singles",
+      "url": "https://open.spotify.com/track/3yANmEBnFRfWwScZ5VHf0s"
+    },
+    {
+      "album": {
         "name": "WHITE NOISE",
         "url": "https://open.spotify.com/album/4Ujzbe9tXwfIZabmtPFAEC"
       },
@@ -3838,6 +3910,24 @@
       "duration_ms": 153416,
       "name": "Wreckage",
       "url": "https://open.spotify.com/track/4aCbdFRL1BWBRNYHNmVtWD"
+    },
+    {
+      "album": {
+        "name": "YES, I AM AN ANIMAL",
+        "url": "https://open.spotify.com/album/0IDnwWNDrfmk02MmJR93be"
+      },
+      "artists": [
+        {
+          "name": "tankerlow",
+          "url": "https://open.spotify.com/artist/3s1K1og0JzNIKLOj3sQeZJ"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304679,
+      "name": "YES, I AM AN ANIMAL",
+      "url": "https://open.spotify.com/track/54ayOa2nydoqHPbje4Ggtl"
     },
     {
       "album": {

@@ -2334,7 +2334,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 216768,
       "name": "above",
       "url": "https://open.spotify.com/track/0Vu0jSzwZCjefcW4vrP9VW"
@@ -3278,6 +3278,28 @@
       "duration_ms": 178813,
       "name": "Alright",
       "url": "https://open.spotify.com/track/11dNeQVqBadIC2ugyZUtCT"
+    },
+    {
+      "album": {
+        "name": "shinigami",
+        "url": "https://open.spotify.com/album/55xWaCcW3X3iaZLkIixlIK"
+      },
+      "artists": [
+        {
+          "name": "Tim Pepperoni",
+          "url": "https://open.spotify.com/artist/6XBb171OKsU4jQ5RfERNVo"
+        },
+        {
+          "name": "Nyture",
+          "url": "https://open.spotify.com/artist/21WTkPiS6pwSvpdwhzXyUJ"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121795,
+      "name": "Alright (feat. Nyture)",
+      "url": "https://open.spotify.com/track/668Jg2e7cgP83LYTcEDgd6"
     },
     {
       "album": {
@@ -8622,7 +8644,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 198260,
       "name": "Casual (feat. Yusef Imamura & Joe Cupertino)",
       "url": "https://open.spotify.com/track/5oIWj1hXO4JivmfoaiWHBB"
@@ -20586,7 +20608,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 188696,
       "name": "Hurricane (feat. Benjazzy)",
       "url": "https://open.spotify.com/track/6c8DvzTSboFzyoweD7n5uf"
@@ -20674,6 +20696,24 @@
       "duration_ms": 257333,
       "name": "Hustler",
       "url": "https://open.spotify.com/track/7eOBjpDoCARFXqf8mkGTsG"
+    },
+    {
+      "album": {
+        "name": "BAYSIDE TAPE",
+        "url": "https://open.spotify.com/album/1gVmPhe2vBUHQsogwMUb1C"
+      },
+      "artists": [
+        {
+          "name": "SWEE",
+          "url": "https://open.spotify.com/artist/01rnISQaxa1W2jWpzzS8yx"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172257,
+      "name": "Hustlin'",
+      "url": "https://open.spotify.com/track/1woHcgOTlCB0Uf91dq6kpi"
     },
     {
       "album": {
@@ -28787,6 +28827,28 @@
     },
     {
       "album": {
+        "name": "MIYAGI (feat. M3R)",
+        "url": "https://open.spotify.com/album/6otdy2148vDDG0vaKdU7Vh"
+      },
+      "artists": [
+        {
+          "name": "CFN MALIK",
+          "url": "https://open.spotify.com/artist/3uX4LhOfuyc2waeiEr2GjX"
+        },
+        {
+          "name": "M3R",
+          "url": "https://open.spotify.com/artist/0My6iE80NWFYIob8q4GknJ"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193032,
+      "name": "MIYAGI (feat. M3R)",
+      "url": "https://open.spotify.com/track/4C2Kt0zBbWkcT8ZuxXrqde"
+    },
+    {
+      "album": {
         "name": "MOGURA Hadashi no mama de",
         "url": "https://open.spotify.com/album/2DudQSNTVA4xU50XvH7ejr"
       },
@@ -33267,6 +33329,28 @@
     },
     {
       "album": {
+        "name": "Odoriko",
+        "url": "https://open.spotify.com/album/0A8d3xRGEekL4poJr9KdIG"
+      },
+      "artists": [
+        {
+          "name": "Stones Taro",
+          "url": "https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB"
+        },
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289880,
+      "name": "Odoriko",
+      "url": "https://open.spotify.com/track/4T9PF3UU7ozEWycT3k3dNl"
+    },
+    {
+      "album": {
         "name": "OG (Remix)",
         "url": "https://open.spotify.com/album/3E5sEY9nnhiRxoLU7qfT3p"
       },
@@ -36160,7 +36244,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 158470,
       "name": "Pretty Problems",
       "url": "https://open.spotify.com/track/2Kh8TQus3CaAyCCpaSVHIy"
@@ -41240,7 +41324,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 161722,
       "name": "SHUTOKO TOKYO",
       "url": "https://open.spotify.com/track/43na6lEIMhUIQen3pTgote"
@@ -48221,6 +48305,24 @@
     },
     {
       "album": {
+        "name": "UP HILL BATTLE",
+        "url": "https://open.spotify.com/album/3zXR3ZPQCsmVIHOFUTQqit"
+      },
+      "artists": [
+        {
+          "name": "LAMP EYE",
+          "url": "https://open.spotify.com/artist/29xU3oMWZbFQasfpWUUPuC"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182410,
+      "name": "UP HILL BATTLE",
+      "url": "https://open.spotify.com/track/2yv28Lyz22GOUTMy5YaJnF"
+    },
+    {
+      "album": {
         "name": "UP!!! (feat. eyden, Kiddy, Ron B & Jelly) [DJ RyuNosuK Remix]",
         "url": "https://open.spotify.com/album/4fQx1p6igRpi2R8FgPyrVc"
       },
@@ -54026,7 +54128,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 121418,
       "name": "\u3086\u3073\u306e\u3046\u305f",
       "url": "https://open.spotify.com/track/4i93kAVgt2bh5gknOpPg8j"
@@ -54806,7 +54908,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 164800,
       "name": "\u30c9\u30d3\u30e5\u30c3\u30b7\u30fc",
       "url": "https://open.spotify.com/track/1oihIpg2hVtingqTF7GH8f"

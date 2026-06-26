@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1BE4x4.md) - [plain]
 
 > This is Violent Soho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,008 likes - 35 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,011 likes - 36 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,11 +19,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1BE4x4.md) - [plain]
 | 9 | [Fur Eyes](https://open.spotify.com/track/7LWjyfOdMrdRWnetsxqBsu) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Hungry Ghost](https://open.spotify.com/album/7MGL9NDDFd6JdFUAcJ0GbZ) | 4:33 |
 | 10 | [Blanket](https://open.spotify.com/track/08k7gNeLvsZamR6Thx8lzZ) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [WACO](https://open.spotify.com/album/6ix7lKcyEpFlEpyiq8vfne) | 3:48 |
 | 11 | [Lying On The Floor](https://open.spotify.com/track/6Z1M64sIAU2d2NNOEDZlkS) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Everything Is A\-OK](https://open.spotify.com/album/0NoURVN52i7sOfSHeoVXKd) | 3:23 |
-| 12 | [Muscle Junkie](https://open.spotify.com/track/6gDmTuKbuGUkFSpVqdZH4r) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho](https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0) | 3:16 |
+| 12 | [Lay Me Down \- B\-Side](https://open.spotify.com/track/0ZG80WaQJoqPeoHl48knRg) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [WACO \(10th Anniversary Edition\)](https://open.spotify.com/album/1UgKkNTjwpodAXcVjKomnC) | 3:43 |
 | 13 | [Dope Calypso](https://open.spotify.com/track/0SUXtdt8aLCt6ENqPwrJ2V) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Hungry Ghost](https://open.spotify.com/album/7MGL9NDDFd6JdFUAcJ0GbZ) | 5:04 |
 | 14 | [How To Taste](https://open.spotify.com/track/4TDUxnS5QcrrKua4AKOnPk) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [WACO](https://open.spotify.com/album/6ix7lKcyEpFlEpyiq8vfne) | 4:30 |
-| 15 | [Kamikaze](https://open.spotify.com/track/4LSj32kCt3uKefJZfWiMd8) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Kamikaze](https://open.spotify.com/album/3ljqE5xXeHOgMHJ0ydRmBV) | 3:22 |
-| 16 | [Lay Me Down \- B\-Side](https://open.spotify.com/track/0ZG80WaQJoqPeoHl48knRg) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [WACO \(10th Anniversary Edition\)](https://open.spotify.com/album/1UgKkNTjwpodAXcVjKomnC) | 3:43 |
+| 15 | [Muscle Junkie](https://open.spotify.com/track/6gDmTuKbuGUkFSpVqdZH4r) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho](https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0) | 3:16 |
+| 16 | [Kamikaze](https://open.spotify.com/track/4LSj32kCt3uKefJZfWiMd8) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Kamikaze](https://open.spotify.com/album/3ljqE5xXeHOgMHJ0ydRmBV) | 3:22 |
 | 17 | [In The Aisle](https://open.spotify.com/track/463MctMxMjFOa8fIgC3lry) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Hungry Ghost](https://open.spotify.com/album/7MGL9NDDFd6JdFUAcJ0GbZ) | 3:41 |
 | 18 | [So Sentimental](https://open.spotify.com/track/6QVLOVHtYM3oCbiLkr8B8K) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [WACO](https://open.spotify.com/album/6ix7lKcyEpFlEpyiq8vfne) | 4:12 |
 | 19 | [Pick it Up Again](https://open.spotify.com/track/1viAAfAMoasBY2OrIiGlxC) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Everything Is A\-OK](https://open.spotify.com/album/0NoURVN52i7sOfSHeoVXKd) | 3:10 |
@@ -40,8 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1BE4x4.md) - [plain]
 | 30 | [Love Is A Heavy Word](https://open.spotify.com/track/2iWQrd8LABqESP9gC4jfYW) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho](https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0) | 3:05 |
 | 31 | [A\-OK](https://open.spotify.com/track/7fRmDecaHguRLdKIlccebL) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Everything Is A\-OK](https://open.spotify.com/album/0NoURVN52i7sOfSHeoVXKd) | 2:43 |
 | 32 | [Home Haircut](https://open.spotify.com/track/6TOZ2DXR90uyBn12wG3oGQ) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Hungry Ghost \(10th Anniversary Edition\)](https://open.spotify.com/album/60MN8kBj6WRBu4igkP0LSQ) | 3:43 |
-| 33 | [Paper Plane](https://open.spotify.com/track/3j0rJCwtLGdK136n7d92p7) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho \(Australia Version\)](https://open.spotify.com/album/6JekHcc4LeZNIYLanvjWW2) | 3:01 |
+| 33 | [My Generation](https://open.spotify.com/track/6RKmCIFlpsc0QjIg59giI0) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho \(Australia Version\)](https://open.spotify.com/album/6JekHcc4LeZNIYLanvjWW2) | 3:02 |
 | 34 | [Here Be Dragons](https://open.spotify.com/track/5VeV8aExj7SSgNDXr5bdJK) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho](https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0) | 3:14 |
 | 35 | [Follow Me Here \- Demo](https://open.spotify.com/track/1ukz3bcQKDvEpsrd9ioWKL) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Hungry Ghost \(10th Anniversary Edition\)](https://open.spotify.com/album/60MN8kBj6WRBu4igkP0LSQ) | 3:44 |
+| 36 | [Paper Plane](https://open.spotify.com/track/3j0rJCwtLGdK136n7d92p7) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho \(Australia Version\)](https://open.spotify.com/album/6JekHcc4LeZNIYLanvjWW2) | 3:01 |
 
-Snapshot ID: `ajnMgAAAAAA3E1//ThaJlUCL0q7K1eZ6`
+Snapshot ID: `ajseAAAAAADAGNK0mrdU5RuVcCfprq3C`

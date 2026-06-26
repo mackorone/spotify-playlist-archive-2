@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Mario Santander en portada.",
-  "num_followers": 72745,
+  "num_followers": 72774,
   "original_name": "electro mx ",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,26 @@
     {
       "added_at": "2026-06-05 06:00:24",
       "album": {
-        "name": "Tu Coraz\u00f3n (Your Heart)",
-        "url": "https://open.spotify.com/album/18b9Dj6RtCqtorAu7l9PKX"
+        "name": "NIENTIENDO",
+        "url": "https://open.spotify.com/album/0cq6E8PgDiEOnV0CCpXEVy"
       },
       "artists": [
         {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+          "name": "Mau Moctezuma",
+          "url": "https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q"
         },
         {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        },
+        {
+          "name": "Natt Calma",
+          "url": "https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH"
         }
       ],
-      "duration_ms": 180120,
-      "name": "Tu Coraz\u00f3n (Your Heart)",
-      "url": "https://open.spotify.com/track/64PXpstU2BDJ1iMcPNLJyS"
+      "duration_ms": 163666,
+      "name": "NIENTIENDO",
+      "url": "https://open.spotify.com/track/1S0U81LjOFfcsVGpSEJrFG"
     },
     {
       "added_at": "2026-06-05 06:00:24",
@@ -283,26 +287,22 @@
     {
       "added_at": "2026-06-05 06:00:24",
       "album": {
-        "name": "NIENTIENDO",
-        "url": "https://open.spotify.com/album/0cq6E8PgDiEOnV0CCpXEVy"
+        "name": "Tu Coraz\u00f3n (Your Heart)",
+        "url": "https://open.spotify.com/album/18b9Dj6RtCqtorAu7l9PKX"
       },
       "artists": [
         {
-          "name": "Mau Moctezuma",
-          "url": "https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q"
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
         },
         {
-          "name": "R\u00d8Z",
-          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
-        },
-        {
-          "name": "Natt Calma",
-          "url": "https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH"
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
         }
       ],
-      "duration_ms": 163666,
-      "name": "NIENTIENDO",
-      "url": "https://open.spotify.com/track/1S0U81LjOFfcsVGpSEJrFG"
+      "duration_ms": 180120,
+      "name": "Tu Coraz\u00f3n (Your Heart)",
+      "url": "https://open.spotify.com/track/64PXpstU2BDJ1iMcPNLJyS"
     },
     {
       "added_at": "2026-06-05 06:00:24",
@@ -463,26 +463,6 @@
     {
       "added_at": "2026-06-05 06:00:24",
       "album": {
-        "name": "FFM",
-        "url": "https://open.spotify.com/album/5y4XajsaCPAp3EhBMk0CHQ"
-      },
-      "artists": [
-        {
-          "name": "Luch",
-          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
-        },
-        {
-          "name": "Ape Drums",
-          "url": "https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u"
-        }
-      ],
-      "duration_ms": 193770,
-      "name": "FFM",
-      "url": "https://open.spotify.com/track/4JizQmbv8ieZshqoVOJPAZ"
-    },
-    {
-      "added_at": "2026-06-05 06:00:24",
-      "album": {
         "name": "Animal",
         "url": "https://open.spotify.com/album/6fiQok7m1pQUTJsCUueZPK"
       },
@@ -503,6 +483,26 @@
     {
       "added_at": "2026-06-05 06:00:24",
       "album": {
+        "name": "FFM",
+        "url": "https://open.spotify.com/album/5y4XajsaCPAp3EhBMk0CHQ"
+      },
+      "artists": [
+        {
+          "name": "Luch",
+          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
+        },
+        {
+          "name": "Ape Drums",
+          "url": "https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u"
+        }
+      ],
+      "duration_ms": 193770,
+      "name": "FFM",
+      "url": "https://open.spotify.com/track/4JizQmbv8ieZshqoVOJPAZ"
+    },
+    {
+      "added_at": "2026-06-05 06:00:24",
+      "album": {
         "name": "Cantus",
         "url": "https://open.spotify.com/album/4EpXHxtJQBHKPK17PSyaAF"
       },
@@ -515,6 +515,26 @@
       "duration_ms": 184051,
       "name": "Cantus",
       "url": "https://open.spotify.com/track/0Vkf87nNUU5wJPKtpTYt4n"
+    },
+    {
+      "added_at": "2026-06-05 06:00:24",
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/6HveR0xxtS6V26H2TmQG41"
+      },
+      "artists": [
+        {
+          "name": "T78",
+          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
+        },
+        {
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+        }
+      ],
+      "duration_ms": 188706,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/6OS6FafuDd9CytXs2pTVWG"
     },
     {
       "added_at": "2026-06-05 06:00:24",
@@ -539,26 +559,6 @@
       "duration_ms": 182584,
       "name": "LA PERLA (V. ELECTRO-CORRIDO)",
       "url": "https://open.spotify.com/track/6uyiI0rLWiYc2DkG0USL4s"
-    },
-    {
-      "added_at": "2026-06-05 06:00:24",
-      "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/6HveR0xxtS6V26H2TmQG41"
-      },
-      "artists": [
-        {
-          "name": "T78",
-          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
-        },
-        {
-          "name": "Mariana BO",
-          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
-        }
-      ],
-      "duration_ms": 188706,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/6OS6FafuDd9CytXs2pTVWG"
     },
     {
       "added_at": "2026-06-05 06:00:24",
@@ -627,6 +627,30 @@
     {
       "added_at": "2026-06-05 06:00:24",
       "album": {
+        "name": "Bella",
+        "url": "https://open.spotify.com/album/6govxhovGzVddUXNOlA74I"
+      },
+      "artists": [
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Los Miranda",
+          "url": "https://open.spotify.com/artist/1gEJUDZiXSNjVJBDzpZh8f"
+        }
+      ],
+      "duration_ms": 188368,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/5KA4V0ZJMkz6jpi13Zgk9w"
+    },
+    {
+      "added_at": "2026-06-05 06:00:24",
+      "album": {
         "name": "Bien Loco",
         "url": "https://open.spotify.com/album/4ZmFdjdojnPfXISVRDgCeA"
       },
@@ -655,30 +679,6 @@
     {
       "added_at": "2026-06-05 06:00:24",
       "album": {
-        "name": "Bella",
-        "url": "https://open.spotify.com/album/6govxhovGzVddUXNOlA74I"
-      },
-      "artists": [
-        {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
-        },
-        {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
-        },
-        {
-          "name": "Los Miranda",
-          "url": "https://open.spotify.com/artist/1gEJUDZiXSNjVJBDzpZh8f"
-        }
-      ],
-      "duration_ms": 188368,
-      "name": "Bella",
-      "url": "https://open.spotify.com/track/5KA4V0ZJMkz6jpi13Zgk9w"
-    },
-    {
-      "added_at": "2026-06-05 06:00:24",
-      "album": {
         "name": "R\u00d8Z \u2013 Spotify Sessions",
         "url": "https://open.spotify.com/album/00KpVHcDHe6LV4sPlPOvgA"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 293166,
       "name": "CORA DE HIELO (feat. Natt Calma) \u2013 Spotify Sessions",
       "url": "https://open.spotify.com/track/75AL7s9h64TNHPNhfficbw"
-    },
-    {
-      "added_at": "2026-06-05 06:00:24",
-      "album": {
-        "name": "Un Poquito M\u00e1s",
-        "url": "https://open.spotify.com/album/7bj3LncFV0WD4jIJa0O6ME"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 196285,
-      "name": "Un Poquito M\u00e1s",
-      "url": "https://open.spotify.com/track/1ShgziqogzD9PeYRNugqNU"
     },
     {
       "added_at": "2026-06-05 06:00:24",
@@ -735,6 +719,22 @@
       "duration_ms": 188225,
       "name": "PPP",
       "url": "https://open.spotify.com/track/1zNobOaHvQIFzYpGb3VBR9"
+    },
+    {
+      "added_at": "2026-06-05 06:00:24",
+      "album": {
+        "name": "Un Poquito M\u00e1s",
+        "url": "https://open.spotify.com/album/7bj3LncFV0WD4jIJa0O6ME"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 196285,
+      "name": "Un Poquito M\u00e1s",
+      "url": "https://open.spotify.com/track/1ShgziqogzD9PeYRNugqNU"
     },
     {
       "added_at": "2026-06-05 06:00:24",
@@ -799,26 +799,6 @@
     {
       "added_at": "2026-06-05 06:00:24",
       "album": {
-        "name": "BOTAS & RAVE",
-        "url": "https://open.spotify.com/album/0aJgOjin88gJ7ZpiTTilYz"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "3BallMTY",
-          "url": "https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "SONI23BALL",
-      "url": "https://open.spotify.com/track/6FAAoH80QaTzWOUTCa8oTZ"
-    },
-    {
-      "added_at": "2026-06-05 06:00:24",
-      "album": {
         "name": "Lunita (J.Pool Remix)",
         "url": "https://open.spotify.com/album/1DCdPcM35yP2fUTbl3MtdL"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 380878,
       "name": "Lunita - J.Pool Remix",
       "url": "https://open.spotify.com/track/4jeBHPvew0cmOwkBplcZcH"
+    },
+    {
+      "added_at": "2026-06-05 06:00:24",
+      "album": {
+        "name": "BOTAS & RAVE",
+        "url": "https://open.spotify.com/album/0aJgOjin88gJ7ZpiTTilYz"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "3BallMTY",
+          "url": "https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "SONI23BALL",
+      "url": "https://open.spotify.com/track/6FAAoH80QaTzWOUTCa8oTZ"
     },
     {
       "added_at": "2026-06-05 06:00:24",
@@ -863,6 +863,22 @@
     {
       "added_at": "2026-06-05 06:00:24",
       "album": {
+        "name": "Exclusive",
+        "url": "https://open.spotify.com/album/3AIRDrD1ScPbFhgqdG0k7O"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 170089,
+      "name": "Exclusive",
+      "url": "https://open.spotify.com/track/46exxtUZ41hRS4RudfrVJw"
+    },
+    {
+      "added_at": "2026-06-05 06:00:24",
+      "album": {
         "name": "Morena (Remix)",
         "url": "https://open.spotify.com/album/5uxV8NLI5gjSAD1mwW9k3m"
       },
@@ -887,18 +903,18 @@
     {
       "added_at": "2026-06-05 06:00:24",
       "album": {
-        "name": "Exclusive",
-        "url": "https://open.spotify.com/album/3AIRDrD1ScPbFhgqdG0k7O"
+        "name": "Ritmo Sabroso",
+        "url": "https://open.spotify.com/album/5d8zfJKzslUkDKVDd7g8Pm"
       },
       "artists": [
         {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
         }
       ],
-      "duration_ms": 170089,
-      "name": "Exclusive",
-      "url": "https://open.spotify.com/track/46exxtUZ41hRS4RudfrVJw"
+      "duration_ms": 154838,
+      "name": "Ritmo Sabroso",
+      "url": "https://open.spotify.com/track/1Xd97xsTJQE2qd2zonWPPX"
     },
     {
       "added_at": "2026-06-05 06:00:24",
@@ -943,18 +959,18 @@
     {
       "added_at": "2026-06-05 06:00:24",
       "album": {
-        "name": "Ritmo Sabroso",
-        "url": "https://open.spotify.com/album/5d8zfJKzslUkDKVDd7g8Pm"
+        "name": "boss",
+        "url": "https://open.spotify.com/album/4vubWhYIAvE2QKfjcnMyHe"
       },
       "artists": [
         {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
         }
       ],
-      "duration_ms": 154838,
-      "name": "Ritmo Sabroso",
-      "url": "https://open.spotify.com/track/1Xd97xsTJQE2qd2zonWPPX"
+      "duration_ms": 131200,
+      "name": "boss",
+      "url": "https://open.spotify.com/track/1wbfnoIbYDqablRSVuNC2m"
     },
     {
       "added_at": "2026-06-05 06:00:24",
@@ -979,22 +995,6 @@
       "duration_ms": 123428,
       "name": "Dancing On Dangerous",
       "url": "https://open.spotify.com/track/0lipGKQoFraacrrBb3Qyg4"
-    },
-    {
-      "added_at": "2026-06-05 06:00:24",
-      "album": {
-        "name": "boss",
-        "url": "https://open.spotify.com/album/4vubWhYIAvE2QKfjcnMyHe"
-      },
-      "artists": [
-        {
-          "name": "EMJAY",
-          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
-        }
-      ],
-      "duration_ms": 131200,
-      "name": "boss",
-      "url": "https://open.spotify.com/track/1wbfnoIbYDqablRSVuNC2m"
     },
     {
       "added_at": "2026-06-05 06:00:24",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2026-06-05 06:00:24",
       "album": {
-        "name": "El 100",
-        "url": "https://open.spotify.com/album/5u7FM0fN09SgCkZRh7vNin"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 178100,
-      "name": "El 100",
-      "url": "https://open.spotify.com/track/6LSMoKokOy7XfJGkDAhDw5"
-    },
-    {
-      "added_at": "2026-06-05 06:00:24",
-      "album": {
         "name": "HOUSE & REGGAETON",
         "url": "https://open.spotify.com/album/0dUycpeblrjlw6w6r5WTad"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 190153,
       "name": "HOUSE & REGGAETON",
       "url": "https://open.spotify.com/track/0DaDaswKuO02nK39YfMpcJ"
+    },
+    {
+      "added_at": "2026-06-05 06:00:24",
+      "album": {
+        "name": "El 100",
+        "url": "https://open.spotify.com/album/5u7FM0fN09SgCkZRh7vNin"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 178100,
+      "name": "El 100",
+      "url": "https://open.spotify.com/track/6LSMoKokOy7XfJGkDAhDw5"
     },
     {
       "added_at": "2026-06-05 06:00:24",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-06-05 06:00:24",
       "album": {
-        "name": "Tutankamon House Mix",
-        "url": "https://open.spotify.com/album/1P1u7k08bAEEvcL9lRjGVF"
-      },
-      "artists": [
-        {
-          "name": "Sundraks",
-          "url": "https://open.spotify.com/artist/5U3mJ8I8zmoNFCVm01jWxI"
-        }
-      ],
-      "duration_ms": 211588,
-      "name": "Tutankamon House Mix",
-      "url": "https://open.spotify.com/track/6DUMR5QXO3tu6QqptEBtR0"
-    },
-    {
-      "added_at": "2026-06-05 06:00:24",
-      "album": {
         "name": "Ya No Se Llevan Serenatas",
         "url": "https://open.spotify.com/album/6MRvPbmvRXntgB8DiDsIT6"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 153262,
       "name": "LA TROKA",
       "url": "https://open.spotify.com/track/7xj4fHsCPJDZwZZzgZQ9z0"
+    },
+    {
+      "added_at": "2026-06-05 06:00:24",
+      "album": {
+        "name": "Tutankamon House Mix",
+        "url": "https://open.spotify.com/album/1P1u7k08bAEEvcL9lRjGVF"
+      },
+      "artists": [
+        {
+          "name": "Sundraks",
+          "url": "https://open.spotify.com/artist/5U3mJ8I8zmoNFCVm01jWxI"
+        }
+      ],
+      "duration_ms": 211588,
+      "name": "Tutankamon House Mix",
+      "url": "https://open.spotify.com/track/6DUMR5QXO3tu6QqptEBtR0"
     },
     {
       "added_at": "2026-06-05 06:00:24",
@@ -1355,62 +1355,6 @@
     {
       "added_at": "2026-06-05 06:00:24",
       "album": {
-        "name": "Tiempo",
-        "url": "https://open.spotify.com/album/7JxN0bScHWwFHijs5W9ISO"
-      },
-      "artists": [
-        {
-          "name": "Jordy Medina",
-          "url": "https://open.spotify.com/artist/2x1b9kfFgo3WDrjUQFVNnX"
-        }
-      ],
-      "duration_ms": 247500,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/4bksJo9DYSiXhq3fCCvEWd"
-    },
-    {
-      "added_at": "2026-06-05 06:00:24",
-      "album": {
-        "name": "Lo Mueve",
-        "url": "https://open.spotify.com/album/7Hxs3puTDbpnamjx0gpwzN"
-      },
-      "artists": [
-        {
-          "name": "Raffa Fl",
-          "url": "https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5"
-        },
-        {
-          "name": "Le Twins",
-          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
-        },
-        {
-          "name": "Nfasis",
-          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
-        }
-      ],
-      "duration_ms": 152812,
-      "name": "Lo Mueve",
-      "url": "https://open.spotify.com/track/4gdGtQ5Apq80zuYzr5NJsM"
-    },
-    {
-      "added_at": "2026-06-05 06:00:24",
-      "album": {
-        "name": "ADICTO",
-        "url": "https://open.spotify.com/album/4AGy5HEITh2mxlmGnswNyE"
-      },
-      "artists": [
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "ADICTO",
-      "url": "https://open.spotify.com/track/2KHyLUWCECWuTmy19158HN"
-    },
-    {
-      "added_at": "2026-06-05 06:00:24",
-      "album": {
         "name": "DEO",
         "url": "https://open.spotify.com/album/2S6P4qEqJvsYrxCu6J5cW8"
       },
@@ -1435,6 +1379,38 @@
     {
       "added_at": "2026-06-05 06:00:24",
       "album": {
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/7JxN0bScHWwFHijs5W9ISO"
+      },
+      "artists": [
+        {
+          "name": "Jordy Medina",
+          "url": "https://open.spotify.com/artist/2x1b9kfFgo3WDrjUQFVNnX"
+        }
+      ],
+      "duration_ms": 247500,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/4bksJo9DYSiXhq3fCCvEWd"
+    },
+    {
+      "added_at": "2026-06-05 06:00:24",
+      "album": {
+        "name": "ADICTO",
+        "url": "https://open.spotify.com/album/4AGy5HEITh2mxlmGnswNyE"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "ADICTO",
+      "url": "https://open.spotify.com/track/2KHyLUWCECWuTmy19158HN"
+    },
+    {
+      "added_at": "2026-06-05 06:00:24",
+      "album": {
         "name": "Tranki",
         "url": "https://open.spotify.com/album/1IVAwFejxBcIERkI9sxrdh"
       },
@@ -1455,6 +1431,30 @@
       "duration_ms": 256000,
       "name": "Tranki",
       "url": "https://open.spotify.com/track/3LiLeyIAbMNndaRvki0Ley"
+    },
+    {
+      "added_at": "2026-06-05 06:00:24",
+      "album": {
+        "name": "Lo Mueve",
+        "url": "https://open.spotify.com/album/7Hxs3puTDbpnamjx0gpwzN"
+      },
+      "artists": [
+        {
+          "name": "Raffa Fl",
+          "url": "https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5"
+        },
+        {
+          "name": "Le Twins",
+          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
+        },
+        {
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+        }
+      ],
+      "duration_ms": 152812,
+      "name": "Lo Mueve",
+      "url": "https://open.spotify.com/track/4gdGtQ5Apq80zuYzr5NJsM"
     },
     {
       "added_at": "2026-06-05 06:00:24",
@@ -1491,6 +1491,34 @@
       "duration_ms": 85520,
       "name": "THIRST FOR ME!",
       "url": "https://open.spotify.com/track/0x6ZS33oQQFyUMRjap4NXf"
+    },
+    {
+      "added_at": "2026-06-05 06:00:24",
+      "album": {
+        "name": "Sola",
+        "url": "https://open.spotify.com/album/4L10sDlgzuYQbPCz0sgZOU"
+      },
+      "artists": [
+        {
+          "name": "Andrea Damante",
+          "url": "https://open.spotify.com/artist/23QiUDhZI1asndJml1wpfV"
+        },
+        {
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+        },
+        {
+          "name": "Luca Testa",
+          "url": "https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7"
+        },
+        {
+          "name": "Dj Human Star",
+          "url": "https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW"
+        }
+      ],
+      "duration_ms": 105703,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/1L1tBBzEQ2OxchU3Ti5zdX"
     },
     {
       "added_at": "2026-06-05 06:00:24",
@@ -1535,34 +1563,6 @@
     {
       "added_at": "2026-06-05 06:00:24",
       "album": {
-        "name": "Sola",
-        "url": "https://open.spotify.com/album/4L10sDlgzuYQbPCz0sgZOU"
-      },
-      "artists": [
-        {
-          "name": "Andrea Damante",
-          "url": "https://open.spotify.com/artist/23QiUDhZI1asndJml1wpfV"
-        },
-        {
-          "name": "Nfasis",
-          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
-        },
-        {
-          "name": "Luca Testa",
-          "url": "https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7"
-        },
-        {
-          "name": "Dj Human Star",
-          "url": "https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW"
-        }
-      ],
-      "duration_ms": 105703,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/1L1tBBzEQ2OxchU3Ti5zdX"
-    },
-    {
-      "added_at": "2026-06-05 06:00:24",
-      "album": {
         "name": "HOUSE PA LAS BANDIS",
         "url": "https://open.spotify.com/album/6epzBQ2ACtDWd1tOsuC8HW"
       },
@@ -1579,30 +1579,6 @@
       "duration_ms": 182989,
       "name": "HOUSE PA LAS BANDIS",
       "url": "https://open.spotify.com/track/184PSzDVMcToT6q3nJNUPf"
-    },
-    {
-      "added_at": "2026-06-05 06:00:24",
-      "album": {
-        "name": "Santa Mar\u00eda",
-        "url": "https://open.spotify.com/album/0QM0NUGL0bnMOEJwh3EJvm"
-      },
-      "artists": [
-        {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
-        },
-        {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        }
-      ],
-      "duration_ms": 260585,
-      "name": "Santa Mar\u00eda",
-      "url": "https://open.spotify.com/track/2QH0Glmg5qHmt1S1Dj0NLS"
     },
     {
       "added_at": "2026-06-05 06:00:24",
@@ -1663,6 +1639,30 @@
       "duration_ms": 143798,
       "name": "PVTIVUELTA",
       "url": "https://open.spotify.com/track/0dLYRSyQlhY3un6yTslsoA"
+    },
+    {
+      "added_at": "2026-06-05 06:00:24",
+      "album": {
+        "name": "Santa Mar\u00eda",
+        "url": "https://open.spotify.com/album/0QM0NUGL0bnMOEJwh3EJvm"
+      },
+      "artists": [
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "duration_ms": 260585,
+      "name": "Santa Mar\u00eda",
+      "url": "https://open.spotify.com/track/2QH0Glmg5qHmt1S1Dj0NLS"
     },
     {
       "added_at": "2026-06-05 06:00:24",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Roxie",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Tribbs, Justyna Steczkowska",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -2266,7 +2266,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 174333,
       "name": "Co chc\u0119, to mam",
       "url": "https://open.spotify.com/track/0enBmAajlaCMkgBrEGSGGj"
@@ -2318,6 +2318,28 @@
       "duration_ms": 151546,
       "name": "CO JA WIEM",
       "url": "https://open.spotify.com/track/6yFBubbTWWUI5Le58Mtwhg"
+    },
+    {
+      "album": {
+        "name": "Co mi tam",
+        "url": "https://open.spotify.com/album/2B44SfjmdJklKXG53xbaz1"
+      },
+      "artists": [
+        {
+          "name": "Wiktoria Kida",
+          "url": "https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H"
+        },
+        {
+          "name": "Ksi\u0119ga \u017bywio\u0142\u00f3w",
+          "url": "https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167652,
+      "name": "Co mi tam",
+      "url": "https://open.spotify.com/track/0TIO9qI3epYJiijG9nolg7"
     },
     {
       "album": {
@@ -3671,6 +3693,24 @@
     },
     {
       "album": {
+        "name": "Dreszcze",
+        "url": "https://open.spotify.com/album/6BlYxjMh6IOceHZcWYp4ZN"
+      },
+      "artists": [
+        {
+          "name": "Martyna Baranowska",
+          "url": "https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159567,
+      "name": "Dreszcze",
+      "url": "https://open.spotify.com/track/4sXAOQVBABdN75iM7DijDL"
+    },
+    {
+      "album": {
         "name": "drink\u0142ykshot",
         "url": "https://open.spotify.com/album/1kolE1AX5sUoKmnh7eyGzM"
       },
@@ -4072,7 +4112,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 167920,
       "name": "DZI\u015a SOBIE DAM",
       "url": "https://open.spotify.com/track/5xLyZIFsmew0xUhEJQYNJj"
@@ -4218,6 +4258,28 @@
       "duration_ms": 214351,
       "name": "Eviva l\u2019arte! (K. Przerwa-Tetmajer)",
       "url": "https://open.spotify.com/track/6D3MtWx5wh0Wvfm155buXg"
+    },
+    {
+      "album": {
+        "name": "FACECARD",
+        "url": "https://open.spotify.com/album/0N0UfBosLlvVl3ZFYIKaxZ"
+      },
+      "artists": [
+        {
+          "name": "Fagata",
+          "url": "https://open.spotify.com/artist/0zzP72k8pbLySGH1TPUZW8"
+        },
+        {
+          "name": "MODELKI",
+          "url": "https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155454,
+      "name": "FACECARD",
+      "url": "https://open.spotify.com/track/1UO7IdCNDjkeZXIK2v1Wcp"
     },
     {
       "album": {
@@ -4831,6 +4893,32 @@
     },
     {
       "album": {
+        "name": "Go\u0142\u0119bie",
+        "url": "https://open.spotify.com/album/5EjGP8mfpEILXfE3lq38Ym"
+      },
+      "artists": [
+        {
+          "name": "Faustyna Maciejczuk",
+          "url": "https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj"
+        },
+        {
+          "name": "Kuba Wi\u0119cek",
+          "url": "https://open.spotify.com/artist/6TMvLRR8hD8RADUX9aqz3L"
+        },
+        {
+          "name": "Pezet",
+          "url": "https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Go\u0142\u0119bie",
+      "url": "https://open.spotify.com/track/3bRmywq8MvSkeAHB3GrUUC"
+    },
+    {
+      "album": {
         "name": "Gramy na czas",
         "url": "https://open.spotify.com/album/2oH3738RTXmXEX0QrcqPyd"
       },
@@ -4890,6 +4978,28 @@
       "duration_ms": 167890,
       "name": "Green Light",
       "url": "https://open.spotify.com/track/1faWRLfWyFcabrwMS1ko3S"
+    },
+    {
+      "album": {
+        "name": "Gwiazdy",
+        "url": "https://open.spotify.com/album/27Ab86b4Qq0jbgga3hnNkJ"
+      },
+      "artists": [
+        {
+          "name": "Tribbs",
+          "url": "https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L"
+        },
+        {
+          "name": "Justyna Steczkowska",
+          "url": "https://open.spotify.com/artist/4MoS5osilxUivShOUtUoZP"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175588,
+      "name": "Gwiazdy",
+      "url": "https://open.spotify.com/track/46jTX4K8Et3JReVbnUtfTO"
     },
     {
       "album": {
@@ -6074,7 +6184,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 163089,
       "name": "Karnawa\u0142",
       "url": "https://open.spotify.com/track/3WG84tIcqiA14QCDOwFWiV"
@@ -7445,6 +7555,24 @@
     },
     {
       "album": {
+        "name": "Fairy Pop",
+        "url": "https://open.spotify.com/album/3cPdL4VimfdCUNqkfvdArO"
+      },
+      "artists": [
+        {
+          "name": "LUNA",
+          "url": "https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199583,
+      "name": "Lucky Secret",
+      "url": "https://open.spotify.com/track/002moL8vrvcntzM73R4ath"
+    },
+    {
+      "album": {
         "name": "Lumpeksowe Serce",
         "url": "https://open.spotify.com/album/0UXPwvouyPB9nZSK99qeoW"
       },
@@ -8654,6 +8782,32 @@
       "duration_ms": 216320,
       "name": "my",
       "url": "https://open.spotify.com/track/19dHt2hh8aaWNCDC3ReLZY"
+    },
+    {
+      "album": {
+        "name": "My\u015bl o mnie",
+        "url": "https://open.spotify.com/album/5BD7AW7WvNfDeOv9HbtKA5"
+      },
+      "artists": [
+        {
+          "name": "bryska",
+          "url": "https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh"
+        },
+        {
+          "name": "Janusz Walczuk",
+          "url": "https://open.spotify.com/artist/44FnIf8PhG6EQRIoENsXu3"
+        },
+        {
+          "name": "Deemz",
+          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140869,
+      "name": "My\u015bl o mnie",
+      "url": "https://open.spotify.com/track/3u4qErXoZMqU8uU8vNUkzu"
     },
     {
       "album": {
@@ -11422,7 +11576,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 156025,
       "name": "Pali si\u0119 niebo",
       "url": "https://open.spotify.com/track/4tIcfOdcIaZAn3KnkJkXyh"
@@ -15369,6 +15523,24 @@
     },
     {
       "album": {
+        "name": "To jest to!",
+        "url": "https://open.spotify.com/album/7iYXIbb20iKje5Qna9Mf63"
+      },
+      "artists": [
+        {
+          "name": "Wiktor Walig\u00f3ra",
+          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205641,
+      "name": "To jest to!",
+      "url": "https://open.spotify.com/track/1I7nEa7aWULffUDCJrkhVp"
+    },
+    {
+      "album": {
         "name": "To ju\u017c nie m\u00f3j dom",
         "url": "https://open.spotify.com/album/4kpQ5BagVgL1jo2SKrkMfC"
       },
@@ -18264,6 +18436,24 @@
       "duration_ms": 204579,
       "name": "Zostan\u0119 tu z Tob\u0105",
       "url": "https://open.spotify.com/track/7r4hXZOQRGIPOfh4Y1iFwu"
+    },
+    {
+      "album": {
+        "name": "Zosta\u0107 tu",
+        "url": "https://open.spotify.com/album/3I8uVdM52Il4SUaahkXtxQ"
+      },
+      "artists": [
+        {
+          "name": "Vixen",
+          "url": "https://open.spotify.com/artist/5XKQ8fa0WdWBmgMFDmctCO"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172031,
+      "name": "Zosta\u0107 tu",
+      "url": "https://open.spotify.com/track/2BwtpP6uMoT15YKS8i1xtw"
     },
     {
       "album": {

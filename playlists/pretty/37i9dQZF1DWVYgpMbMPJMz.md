@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover: DOE & Joe L Barnes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,068,226 likes - 80 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,068,333 likes - 80 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 35 | [Breathe \(feat\. Titus Tucker & Rahkii\)](https://open.spotify.com/track/6wYs3GQfnziD1RdtPbUbFD) | [Forward City](https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Rahkii](https://open.spotify.com/artist/2OUw9DvdP84qX4FkQSwMoG), [Titus Tucker](https://open.spotify.com/artist/4idr0xVXTUerf9RyhOlCV2) | [Here Comes the Wind](https://open.spotify.com/album/1z3z3EuiyWz5pVcQvqMZZp) | 6:53 |
 | 36 | [I Will Follow \- Extended](https://open.spotify.com/track/2MeZbydHrGiiXQpocZOE6m) | [Charles Weems](https://open.spotify.com/artist/4b55lXHPorwxp0HHq0W6ab) | [I Will Follow](https://open.spotify.com/album/29GzDK7GEbMBHos0J1rRvJ) | 8:05 |
 | 37 | [Living Proof](https://open.spotify.com/track/1K9C56Gp01WnHo1Pvt1Ipa) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [LIFE IN COLOR](https://open.spotify.com/album/6JlHqtfFk6YBoop6uPIsfF) | 5:04 |
-| 38 | [I Was Dead, Now I'm Alive](https://open.spotify.com/track/4jCZcUBdbAckNeWUu2Ydn6) | [Awakening MVMT](https://open.spotify.com/artist/6PuUeoGERfFCcCOGzf7IN4), [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Abby Klinge](https://open.spotify.com/artist/6Fcd2uYQsHq7JGap2HULij) | [I Was Dead, Now I'm Alive](https://open.spotify.com/album/5M1zIktnqOYB8WYOj136tu) | 5:23 |
+| 38 | [I Was Dead, Now I'm Alive \- Live](https://open.spotify.com/track/4jCZcUBdbAckNeWUu2Ydn6) | [Awakening MVMT](https://open.spotify.com/artist/6PuUeoGERfFCcCOGzf7IN4), [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Abby Klinge](https://open.spotify.com/artist/6Fcd2uYQsHq7JGap2HULij) | [I Was Dead, Now I'm Alive \(Live\)](https://open.spotify.com/album/5M1zIktnqOYB8WYOj136tu) | 5:23 |
 | 39 | [Magnificent](https://open.spotify.com/track/054ayDYIvEW0KUnUUNLhkg) | [Philippa Hanna](https://open.spotify.com/artist/13Ir7pfxQ5ZkpCHaD2NoX2), [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6) | [Magnificent](https://open.spotify.com/album/6tl3nRgU1piPND0bbuyAYp) | 5:41 |
 | 40 | [You Prepare the Fire](https://open.spotify.com/track/726NUsPYYDXOG4TmkTpRpl) | [Zach Webb](https://open.spotify.com/artist/7xY48N1Fs8R9DDKcUrevke) | [You Prepare the Fire](https://open.spotify.com/album/2QIQ0XXpJnwbfJ8OvlPABZ) | 5:20 |
 | 41 | [Let There Be \- Live](https://open.spotify.com/track/2tJZUC678Z4Lpi5G97tjj3) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [The Blue Tent \(Live\)](https://open.spotify.com/album/2TgqsUTFDNEjAhjOZsb5XD) | 4:40 |

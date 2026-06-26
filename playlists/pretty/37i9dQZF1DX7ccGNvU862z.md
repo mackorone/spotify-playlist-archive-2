@@ -2,25 +2,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ccGNvU862z.md) - [plain]
 
 ### [ฮิปฮอป R.E.A.L\. ](https://open.spotify.com/playlist/37i9dQZF1DX7ccGNvU862z)
 
-> เพลย์ลิสต์ฮิปฮอปของจริง ฮิปฮอป R.E.A.L\. ศิลปิน: YUNGTARR
+> เพลย์ลิสต์ฮิปฮอปของจริง ฮิปฮอป R.E.A.L\. ศิลปิน: Ben Bizzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,401 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,406 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Benz ดำ](https://open.spotify.com/track/3RPiQqgZbe4jFNMIZtGoaU) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ไฟกลางคืน](https://open.spotify.com/album/31eKAtKWWzdhzSn2PG21up) | 2:50 |
-| 2 | [One Of My Life](https://open.spotify.com/track/6Mm77XGJld1QxvKyMrYbFj) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV), [K6Y](https://open.spotify.com/artist/0QxCgzdTynqgvj1OWRllYt) | [One Of My Life](https://open.spotify.com/album/1CoVcH5nmOxaKBc6Z6TJMQ) | 3:36 |
-| 3 | [จุมพิต](https://open.spotify.com/track/1mSpdhpNylzDpGSvrymU07) | [YUNGTARR](https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX) | [จุมพิต](https://open.spotify.com/album/7H6L88P3OnHhmPuLTRobCq) | 3:22 |
-| 4 | [สมดุลรัก \(Balance\)](https://open.spotify.com/track/2luYdyxKSSxuC3cSW8N6A0) | [SEA.](https://open.spotify.com/artist/0uu4cmaCJaaVOiUHQUG2ZC), [Sexski](https://open.spotify.com/artist/6QeYcD1n2YcWygCScfLhRE) | [สมดุลรัก \(Balance\)](https://open.spotify.com/album/27NJks9IX9VfAjgvQQRtgk) | 3:17 |
-| 5 | [Baddie](https://open.spotify.com/track/4jn8qhYieA36a0fiyBqWFC) | [IRONBOY](https://open.spotify.com/artist/7GLqyoZnu5jGVWvGBulrne), [Justmine JMNK](https://open.spotify.com/artist/69MqPYz20C7qW5AiSkScRc) | [PARTYNARY](https://open.spotify.com/album/42xDykUgtEuRgf8PlsS3v0) | 2:29 |
-| 6 | [Sunset In Pattaya](https://open.spotify.com/track/3xAsJQO4g5ZBUL6U6k5CzW) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ไฟกลางคืน](https://open.spotify.com/album/31eKAtKWWzdhzSn2PG21up) | 3:29 |
-| 7 | [เมื่อไหร่จะมี \(มีใจให้กัน\)](https://open.spotify.com/track/7L3sb4eqF8zfQU8nAekHPm) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [เมื่อไหร่จะมี \(มีใจให้กัน\)](https://open.spotify.com/album/1LEPOmRF1QztU3ZG8cflDv) | 3:34 |
-| 8 | [1 OF 1](https://open.spotify.com/track/5kMl8givhqRWmrDTKauySB) | [P6ICK](https://open.spotify.com/artist/52IxFzldfmZmsLcF078dnY), [SURIYA MQT](https://open.spotify.com/artist/47VCMoQZJ0SycPle77t12P) | [1 OF 1](https://open.spotify.com/album/4K9YECaZ2GRmWyfYLyNOrk) | 4:21 |
-| 9 | [เธอทิ้งฉันไว้](https://open.spotify.com/track/6aQNOo0RlmFUx2yfDXBkiT) | [KRK](https://open.spotify.com/artist/69jmffWjz5TWglZkReTYJC), [N/A](https://open.spotify.com/artist/4oPYazJJ1o4rWBrTw9lm40), [HK](https://open.spotify.com/artist/3ox1cmzcE21qMaFHqHKowu) | [เธอทิ้งฉันไว้](https://open.spotify.com/album/2kXhUY8ETOHwxwt9kqZNOK) | 4:56 |
-| 10 | [เจิดจรัส](https://open.spotify.com/track/3xyNRloMm2i6sNAlnnxLFA) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [เจิดจรัส](https://open.spotify.com/album/3N9qCU7JxkpNW6n5QCakNJ) | 4:21 |
-| 11 | [เธอรู้เปล่า](https://open.spotify.com/track/48PXQVS6XxRvT1rXEq0sd7) | [BOSSSICK](https://open.spotify.com/artist/246MafiP1QJBE888UZ3PRL), [SURIYA MQT](https://open.spotify.com/artist/47VCMoQZJ0SycPle77t12P) | [เธอรู้เปล่า](https://open.spotify.com/album/3wjjTEDN5RdcbJeMUvMp1H) | 4:10 |
-| 12 | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/track/63oA4hG0SqvsUFfaEhgqVX) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/album/51gTzozCry8vsoOpJikdqL) | 3:39 |
-| 13 | [Gim Me Luv](https://open.spotify.com/track/0PPYVvUh7t65U8acz6LHLZ) | [AYYOBAX!](https://open.spotify.com/artist/5NrtXNJQlsXS83UZjRQnT2), [Sexski](https://open.spotify.com/artist/6QeYcD1n2YcWygCScfLhRE) | [Gim Me Luv](https://open.spotify.com/album/1be6gJjUNonhtRnFtD5dzR) | 2:22 |
+| 1 | [สมดุลรัก \(Balance\)](https://open.spotify.com/track/2luYdyxKSSxuC3cSW8N6A0) | [SEA.](https://open.spotify.com/artist/0uu4cmaCJaaVOiUHQUG2ZC), [Sexski](https://open.spotify.com/artist/6QeYcD1n2YcWygCScfLhRE) | [สมดุลรัก \(Balance\)](https://open.spotify.com/album/27NJks9IX9VfAjgvQQRtgk) | 3:17 |
+| 2 | [Sunset In Pattaya](https://open.spotify.com/track/3xAsJQO4g5ZBUL6U6k5CzW) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ไฟกลางคืน](https://open.spotify.com/album/31eKAtKWWzdhzSn2PG21up) | 3:29 |
+| 3 | [MINT TEA](https://open.spotify.com/track/1tj8d7hU2zu0gXkox7fodo) | [Ben Bizzy](https://open.spotify.com/artist/7IFeTLxFc5Qn00yznSbNO6) | [MINT TEA](https://open.spotify.com/album/0Y014VIujgb8yA8eVYYhOT) | 3:00 |
+| 4 | [เมื่อไหร่จะมี \(มีใจให้กัน\)](https://open.spotify.com/track/7L3sb4eqF8zfQU8nAekHPm) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [เมื่อไหร่จะมี \(มีใจให้กัน\)](https://open.spotify.com/album/1LEPOmRF1QztU3ZG8cflDv) | 3:34 |
+| 5 | [หมาไม่มีเจ้าของ](https://open.spotify.com/track/3e1XS4ew4iuS2EdMFEWr7D) | [PORZAX](https://open.spotify.com/artist/4ykAAPcxGHz8z6N0muxbIP) | [ZAXLOVE](https://open.spotify.com/album/3Aw1ZrgGL5RYJ3vngXbget) | 4:57 |
+| 6 | [1 OF 1](https://open.spotify.com/track/5kMl8givhqRWmrDTKauySB) | [P6ICK](https://open.spotify.com/artist/52IxFzldfmZmsLcF078dnY), [SURIYA MQT](https://open.spotify.com/artist/47VCMoQZJ0SycPle77t12P) | [1 OF 1](https://open.spotify.com/album/4K9YECaZ2GRmWyfYLyNOrk) | 4:21 |
+| 7 | [Benz ดำ](https://open.spotify.com/track/3RPiQqgZbe4jFNMIZtGoaU) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ไฟกลางคืน](https://open.spotify.com/album/31eKAtKWWzdhzSn2PG21up) | 2:50 |
+| 8 | [One Of My Life](https://open.spotify.com/track/6Mm77XGJld1QxvKyMrYbFj) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV), [K6Y](https://open.spotify.com/artist/0QxCgzdTynqgvj1OWRllYt) | [One Of My Life](https://open.spotify.com/album/1CoVcH5nmOxaKBc6Z6TJMQ) | 3:36 |
+| 9 | [จุมพิต](https://open.spotify.com/track/1mSpdhpNylzDpGSvrymU07) | [YUNGTARR](https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX) | [จุมพิต](https://open.spotify.com/album/7H6L88P3OnHhmPuLTRobCq) | 3:22 |
+| 10 | [Baddie](https://open.spotify.com/track/4jn8qhYieA36a0fiyBqWFC) | [IRONBOY](https://open.spotify.com/artist/7GLqyoZnu5jGVWvGBulrne), [Justmine JMNK](https://open.spotify.com/artist/69MqPYz20C7qW5AiSkScRc) | [PARTYNARY](https://open.spotify.com/album/42xDykUgtEuRgf8PlsS3v0) | 2:29 |
+| 11 | [เธอทิ้งฉันไว้](https://open.spotify.com/track/6aQNOo0RlmFUx2yfDXBkiT) | [KRK](https://open.spotify.com/artist/69jmffWjz5TWglZkReTYJC), [N/A](https://open.spotify.com/artist/4oPYazJJ1o4rWBrTw9lm40), [HK](https://open.spotify.com/artist/3ox1cmzcE21qMaFHqHKowu) | [เธอทิ้งฉันไว้](https://open.spotify.com/album/2kXhUY8ETOHwxwt9kqZNOK) | 4:56 |
+| 12 | [เจิดจรัส](https://open.spotify.com/track/3xyNRloMm2i6sNAlnnxLFA) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [เจิดจรัส](https://open.spotify.com/album/3N9qCU7JxkpNW6n5QCakNJ) | 4:21 |
+| 13 | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/track/63oA4hG0SqvsUFfaEhgqVX) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/album/51gTzozCry8vsoOpJikdqL) | 3:39 |
 | 14 | [นครดารา](https://open.spotify.com/track/2wyjOiDh07ISNq0oq69G4e) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [นครดารา](https://open.spotify.com/album/4EAcsAQeQ7kM5eO9UBBnfM) | 3:16 |
 | 15 | [DIRTY MONEY](https://open.spotify.com/track/4dehHC9y9Kpjlzz186GHOs) | [P6ICK](https://open.spotify.com/artist/52IxFzldfmZmsLcF078dnY), [LIL X](https://open.spotify.com/artist/019QowkYEQYYiV8rhNg4ZT) | [6CARAT2](https://open.spotify.com/album/6CzEMhWjHD07shMNn1tGqV) | 3:05 |
 | 16 | [Faded \- Special Version](https://open.spotify.com/track/5b2OC2aaioNReqHlQs1TbR) | [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m), [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [Faded \(Special Version\)](https://open.spotify.com/album/7J06yijTctAn2FkYe4xZOI) | 3:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ccGNvU862z.md) - [plain]
 | 49 | [พัก](https://open.spotify.com/track/4Q92eOoja3QN0lb4LOohDa) | [JayQ](https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6), [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV), [SIMON](https://open.spotify.com/artist/4Dz036NLSs8GPIFaCPJWGU) | [พัก](https://open.spotify.com/album/3rld4RtibIkOiLAFLZgoOB) | 3:29 |
 | 50 | [หอมปากหอมคอ](https://open.spotify.com/track/3kpr6KbvKveACnE90jsk47) | [iluvujayjay](https://open.spotify.com/artist/00tPUeyHhiMPilBP7yYkwG) | [หอมปากหอมคอ](https://open.spotify.com/album/7vd0K3N7mdk9MJu4wFon4c) | 2:25 |
 
-Snapshot ID: `AAAAAM0TPFqupoXg3gI/G8iAXeQJ78hG`
+Snapshot ID: `AAAAAIfiEHkZHgJ3R+buGmLtq3Ea8qBo`

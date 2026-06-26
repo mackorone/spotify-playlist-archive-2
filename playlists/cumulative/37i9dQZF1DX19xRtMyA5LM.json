@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "De beste tracks in WS\u2757\ufe0fCover: D-Double & Ronnie Flex",
+  "description": "De beste tracks in WS\u2757\ufe0fCover: D-Double",
   "name": "Woordenschat",
   "tracks": [
     {
@@ -100,6 +100,40 @@
       "duration_ms": 173513,
       "name": "100K Summer",
       "url": "https://open.spotify.com/track/4eBHnMo8ubhZtgrTjUjcIy"
+    },
+    {
+      "album": {
+        "name": "Vrijspel (Deluxe)",
+        "url": "https://open.spotify.com/album/2ITuJwvDclaOKmIJfcyZft"
+      },
+      "artists": [
+        {
+          "name": "Esko",
+          "url": "https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj"
+        },
+        {
+          "name": "Kingsize",
+          "url": "https://open.spotify.com/artist/1d6XcWMNZgvbgs123LlFgJ"
+        },
+        {
+          "name": "MocroManiac",
+          "url": "https://open.spotify.com/artist/1n34ZpZX4OCwbuyo9mnfU8"
+        },
+        {
+          "name": "Rafello",
+          "url": "https://open.spotify.com/artist/1V748CEB0J563vCjbIz62B"
+        },
+        {
+          "name": "Rotjoch",
+          "url": "https://open.spotify.com/artist/52kkq3LdnSafdKRWjNqKBw"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321947,
+      "name": "101Killerz",
+      "url": "https://open.spotify.com/track/6tOBp2E1AUWxtqUrx4f6L1"
     },
     {
       "album": {
@@ -234,7 +268,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 146374,
       "name": "2 Motten",
       "url": "https://open.spotify.com/track/5BivQbxn6KNsNk0aYVK4zx"
@@ -1200,7 +1234,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 171081,
       "name": "Ben je dom?",
       "url": "https://open.spotify.com/track/6heB9e8RyXvmQpKZEs3x87"
@@ -2164,7 +2198,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 120000,
       "name": "denk je echt?",
       "url": "https://open.spotify.com/track/6UlfCJtqwfWdzGTI7JHUVv"
@@ -2540,7 +2574,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 237428,
       "name": "Emotional Damage",
       "url": "https://open.spotify.com/track/35BD5rWTlSWfH2Z9W5UVSc"
@@ -2800,10 +2834,32 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 146787,
       "name": "FINESSE",
       "url": "https://open.spotify.com/track/7hapK9RIPikrhptYX9smPs"
+    },
+    {
+      "album": {
+        "name": "Flashbacks & Jetlags",
+        "url": "https://open.spotify.com/album/3QgLObJAyutJr87RuMwHzV"
+      },
+      "artists": [
+        {
+          "name": "D-Double",
+          "url": "https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk"
+        },
+        {
+          "name": "Leblanco",
+          "url": "https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205939,
+      "name": "Flashbacks & Jetlags (feat. Leblanco)",
+      "url": "https://open.spotify.com/track/0Yh4hBIuVI8qZfMfEScwLV"
     },
     {
       "album": {
@@ -3380,6 +3436,28 @@
       "duration_ms": 128000,
       "name": "Gouden Handdruk",
       "url": "https://open.spotify.com/track/3HryFpTCmYuRrrIs4SMSZO"
+    },
+    {
+      "album": {
+        "name": "Vrijspel (Deluxe)",
+        "url": "https://open.spotify.com/album/2ITuJwvDclaOKmIJfcyZft"
+      },
+      "artists": [
+        {
+          "name": "Esko",
+          "url": "https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj"
+        },
+        {
+          "name": "Yssi SB",
+          "url": "https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210584,
+      "name": "Grafsteen",
+      "url": "https://open.spotify.com/track/3KNkkhM1ItwXCi7uATPwVQ"
     },
     {
       "album": {
@@ -5189,6 +5267,28 @@
     },
     {
       "album": {
+        "name": "Flashbacks & Jetlags",
+        "url": "https://open.spotify.com/album/3QgLObJAyutJr87RuMwHzV"
+      },
+      "artists": [
+        {
+          "name": "D-Double",
+          "url": "https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk"
+        },
+        {
+          "name": "Emms",
+          "url": "https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174431,
+      "name": "Life Is Meer Dan Leven (feat. Emms)",
+      "url": "https://open.spotify.com/track/4lNeh5AamBLLDjDNuMB85A"
+    },
+    {
+      "album": {
         "name": "Lift Freestyle",
         "url": "https://open.spotify.com/album/4P3fWPQ34Afi7i36zpLr95"
       },
@@ -5890,7 +5990,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 171707,
       "name": "MIST GEGAAN",
       "url": "https://open.spotify.com/track/3aTAK7b5v3tmZ125yhBUSy"
@@ -8224,7 +8324,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 122818,
       "name": "Sensa",
       "url": "https://open.spotify.com/track/4OByoXgJXbXD4KXtHeA4Xi"
@@ -9212,6 +9312,24 @@
       "duration_ms": 151282,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/2Go05djCQi4zVufi2XFcsQ"
+    },
+    {
+      "album": {
+        "name": "Perseverance",
+        "url": "https://open.spotify.com/album/1riiEXbaZVllfRLvDktfxf"
+      },
+      "artists": [
+        {
+          "name": "Russ Millions",
+          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 7",
+      "url": "https://open.spotify.com/track/4Vs0gIpwXvQr87X1ndakcz"
     },
     {
       "album": {

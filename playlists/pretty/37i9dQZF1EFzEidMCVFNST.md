@@ -288,8 +288,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 278 | [Recadinho para Você](https://open.spotify.com/track/7t6jt692pPcwua3IZx9ipI) | [Ingrid Mantovani](https://open.spotify.com/artist/2TjJZ2XYZGbGnnjD6k1hWg) | [Recadinho para Você](https://open.spotify.com/album/4KC8323hXv1uYuNi4zWkXR) | 2:24 |
 | 279 | [Forte Candidata \- Ao Vivo](https://open.spotify.com/track/0ArhfmiDFGqmEZE33xXH1S) | [Lipe & Lyan](https://open.spotify.com/artist/0V8z8kSUX83Zq7KKaqEJxD) | [Daqui pra Sempre \(Ao Vivo\)](https://open.spotify.com/album/0ZGqMMjqP184TbUgVRNRfK) | 2:35 |
 | 280 | [Tira o Olho](https://open.spotify.com/track/0PiEYXPvlMj0rL9S2Ihv3a) | [Gabriel Gava](https://open.spotify.com/artist/01WrcqajqftNjrRuSqgyQA) | [Gabriel Gava](https://open.spotify.com/album/3KWrWyF0nrj6SL77zlutWr) | 2:50 |
-| 281 | [Mentiroso](https://open.spotify.com/track/16JSs1ibLtVydL4Mf43w7x) | [Railan Soares](https://open.spotify.com/artist/1ZiAbjeFlD1GqnyYzDBLRQ), [MC Mari](https://open.spotify.com/artist/2AdUWxNm17kkGZiPGuorth) | [Mentiroso](https://open.spotify.com/album/2QJKRsYTO9IXpPaGJUlgcf) | 2:22 |
-| 282 | [Caras e bocas](https://open.spotify.com/track/5aSWdEReJnQVje2xKAfC9o) | [Renno](https://open.spotify.com/artist/3yWtLbJMXNarBl4CQRA1go) | [Pra dançar curtir e beber](https://open.spotify.com/album/4wmnObrGXUAT7ukQSQ20ve) | 2:24 |
+| 281 | [Caras e bocas](https://open.spotify.com/track/5aSWdEReJnQVje2xKAfC9o) | [Renno](https://open.spotify.com/artist/3yWtLbJMXNarBl4CQRA1go) | [Pra dançar curtir e beber](https://open.spotify.com/album/4wmnObrGXUAT7ukQSQ20ve) | 2:24 |
+| 282 | [Mentiroso](https://open.spotify.com/track/16JSs1ibLtVydL4Mf43w7x) | [Railan Soares](https://open.spotify.com/artist/1ZiAbjeFlD1GqnyYzDBLRQ), [MC Mari](https://open.spotify.com/artist/2AdUWxNm17kkGZiPGuorth) | [Mentiroso](https://open.spotify.com/album/2QJKRsYTO9IXpPaGJUlgcf) | 2:22 |
 | 283 | [Mordida e Carinho](https://open.spotify.com/track/6ndDchFJol1XKQQ4GmMqei) | [Bia Brasil](https://open.spotify.com/artist/6pdabG7kszf6TdiJYHH1zx) | [Boteco da Novinha](https://open.spotify.com/album/0qBFDBVwVGkpqzJrbvJkBj) | 1:59 |
 | 284 | [Tu Quer Fuder com Minha Vida?](https://open.spotify.com/track/2OwVZu7xO2BMnLNKfGM57r) | [Thiago Vas](https://open.spotify.com/artist/2CBClYgflxpLjU1YBatxUn) | [Tu Quer Fuder com Minha Vida?](https://open.spotify.com/album/3KJgaEu0WkqwMprMD0bHdy) | 2:34 |
 | 285 | [Fora da Casinha](https://open.spotify.com/track/0u88kKTK3FOIQGLPfnKFKX) | [Iury Flores](https://open.spotify.com/artist/4cPlmIA5uZhDVIOwKXQXRd) | [Iury Flores](https://open.spotify.com/album/34ajoP6G7NZHukMNEi4ByB) | 2:36 |
@@ -316,4 +316,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 306 | [Usa Eu](https://open.spotify.com/track/3S5n25SLrJq2IhfOBMDnql) | [Tanury](https://open.spotify.com/artist/2nKnF9sJfToqlsxQpXGlW7) | [Tanury 2023](https://open.spotify.com/album/7pjafNe8mHr0Enwqgj8wAV) | 2:24 |
 | 307 | [De Boa na Lagoa](https://open.spotify.com/track/2JyEtXPdofr92XjnEEI4NH) | [Adriel Salim](https://open.spotify.com/artist/4xwzb6gEDDp5IpAnoASRuy) | [Aumenta o Paredão \(Verão 2023\)](https://open.spotify.com/album/6quXWSGETr7nugA7XM4vf8) | 2:48 |
 
-Snapshot ID: `AcVHBgAAAAC8+WzV1yYfLBseaTY+hgka`
+Snapshot ID: `AcVMpgAAAAADH/u3PnQVS5N4+KOpJWuV`

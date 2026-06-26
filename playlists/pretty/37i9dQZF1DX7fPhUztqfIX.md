@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: Charles Weems
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,444 likes - 100 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,453 likes - 100 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 2 | [To You](https://open.spotify.com/track/7FNgOiBfotP5tjfu7kf9KD) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [To You](https://open.spotify.com/album/1bzajEjhpNpvxqcFZVzbzD) | 5:21 |
 | 3 | [WORD OF GOD](https://open.spotify.com/track/3lDzo0tVeR6nvS44hnhThS) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39), [Steph Wong](https://open.spotify.com/artist/3L1PkIj3jbF7jmRbKztyvd) | [IT NEEDS TO BE SAID SOME MORE](https://open.spotify.com/album/1fLp14hxMusqbqM9eAwncl) | 4:46 |
 | 4 | [Fire In My Bones](https://open.spotify.com/track/61vNrustykicatMErzO7DF) | [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [Fire In My Bones](https://open.spotify.com/album/6GphnWnRbYRvTQkPDutIL6) | 7:02 |
-| 5 | [I Was Dead, Now I'm Alive](https://open.spotify.com/track/4jCZcUBdbAckNeWUu2Ydn6) | [Awakening MVMT](https://open.spotify.com/artist/6PuUeoGERfFCcCOGzf7IN4), [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Abby Klinge](https://open.spotify.com/artist/6Fcd2uYQsHq7JGap2HULij) | [I Was Dead, Now I'm Alive](https://open.spotify.com/album/5M1zIktnqOYB8WYOj136tu) | 5:23 |
+| 5 | [I Was Dead, Now I'm Alive \- Live](https://open.spotify.com/track/4jCZcUBdbAckNeWUu2Ydn6) | [Awakening MVMT](https://open.spotify.com/artist/6PuUeoGERfFCcCOGzf7IN4), [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Abby Klinge](https://open.spotify.com/artist/6Fcd2uYQsHq7JGap2HULij) | [I Was Dead, Now I'm Alive \(Live\)](https://open.spotify.com/album/5M1zIktnqOYB8WYOj136tu) | 5:23 |
 | 6 | [Wild Rushing Wind](https://open.spotify.com/track/7tAGDWkhy6WOhU9lI1AInh) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Caylie Bryant](https://open.spotify.com/artist/7kvngYXa2bVPZt0fOT2r7O) | [Wild Rushing Wind](https://open.spotify.com/album/11nSQefLFgxrC9cWi3w7Ko) | 6:27 |
 | 7 | [Anyone Else](https://open.spotify.com/track/6lgJUKqmIj2vOWGG3A9PDf) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Anyone Else](https://open.spotify.com/album/0Ni7aHZQdhZQ0OGX3ygMa0) | 6:01 |
 | 8 | [Sending Up A Praise](https://open.spotify.com/track/5Lwwm1BrY9ThpSVRACUaE6) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Sending Up A Praise](https://open.spotify.com/album/5Bk8bNvJbRTtPUqSTUtkSp) | 6:00 |

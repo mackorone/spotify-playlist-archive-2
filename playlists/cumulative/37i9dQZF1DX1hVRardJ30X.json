@@ -122424,6 +122424,24 @@
     {
       "album": {
         "name": "Lento",
+        "url": "https://open.spotify.com/album/5y000MuZ68BHJNNTpEJwNL"
+      },
+      "artists": [
+        {
+          "name": "Ian Cordova",
+          "url": "https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146474,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/5uWQZ1ePLnSar0TiVzhr3v"
+    },
+    {
+      "album": {
+        "name": "Lento",
         "url": "https://open.spotify.com/album/7mdFaDz52A5tjN3VaV8D9R"
       },
       "artists": [

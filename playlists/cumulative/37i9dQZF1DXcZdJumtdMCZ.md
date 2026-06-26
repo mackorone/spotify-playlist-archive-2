@@ -4,7 +4,7 @@
 
 > Best of Tamil Hip\-Hop!<br/>Cover : Asal Kolaar
 
-345 songs - 18 hr 7 min
+346 songs - 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Akkrinai Naan \- From "Captain"](https://open.spotify.com/track/7CRrENz4lVWe1kFYxn1WgQ) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Joewin Shamalina](https://open.spotify.com/artist/4YpclnrUJpslzlowW26LOn) | [Akkrinai Naan \(From "Captain"\)](https://open.spotify.com/album/51HbJ9d3dsBatTaYKEsLzR) | 3:51 | 2022-08-27 | 2023-05-13 |
 | [AMA](https://open.spotify.com/track/31KxXEIfbCaKRAm4MG0k1l) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [AMA](https://open.spotify.com/album/2drIyNd5kl5ypgSWGdtRYu) | 2:20 | 2026-01-27 |  |
 | [Amma Unakku](https://open.spotify.com/track/0xYhOQEEcCflXKvhlgtFI4) | [Thuva JB Chandran](https://open.spotify.com/artist/7jaNjjYdfdqOSC9VH7aEqq) | [Amma Unakku](https://open.spotify.com/album/4gKwqXUCOw9rBcbU0SPdfT) | 3:35 | 2025-05-13 | 2025-07-29 |
+| [Angreze](https://open.spotify.com/track/4lVJxhc8ZCsEH1TSZMgbOl) | [Yogi](https://open.spotify.com/artist/0QiCCpzEYPFaWqkWtDQTmH), [Navz\-47](https://open.spotify.com/artist/1COjjFgtQEz2oxPHF6XIuu), [Jords](https://open.spotify.com/artist/7lhD6ETR0JNlpJWYycy3jx), [Star.One](https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4) | [Angreze](https://open.spotify.com/album/4GRXRVHu1g0S5jginuiG5Z) | 2:34 | 2026-06-25 |  |
 | [Anu](https://open.spotify.com/track/26immRiNi9l14fa0x1gfKe) | [Kelithee](https://open.spotify.com/artist/6HlnMXGEvONMYRUGa3QQTg), [Yanchan Produced](https://open.spotify.com/artist/4GKSZvPRVHCR8TrVVWu9HH) | [Anu](https://open.spotify.com/album/3moHanqoeuxCLUhtPs2Jqz) | 1:49 | 2026-05-28 |  |
 | [Area 37](https://open.spotify.com/track/7be3tgcw58D12I4gPIiajs) | [Kanna](https://open.spotify.com/artist/18O9BbKomvdNivmi9B3Zz9), [Ayudha ezhuthu](https://open.spotify.com/artist/70Cilr5UYqtPrpl6isNatb) | [Area 37](https://open.spotify.com/album/3iW9nR9n3AAoi2HVsEetgl) | 2:09 | 2025-05-30 | 2026-03-28 |
 | [Arena \(From "TEST"\)](https://open.spotify.com/track/6iezfKAXRLprXcICgFtIkc) | [Yogi B](https://open.spotify.com/artist/614RN5ndeqpLlqg1yDbjtm), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [Arena \(From "TEST"\)](https://open.spotify.com/album/5m17Jx5opvPBbhcnGuKCZZ) | 2:46 | 2025-03-13 | 2026-03-20 |

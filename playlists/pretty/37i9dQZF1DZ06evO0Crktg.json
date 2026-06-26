@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 341046,
+  "num_followers": 341098,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajnMgAAAAADhKLNg8fqW0GNzMZWpdwnZ",
+  "snapshot_id": "ajseAAAAAABHCU72uap1/gkYpzqMWgd5",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 240722,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/1rnYNAJPAb586NhetosdNW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hands Up",
+        "url": "https://open.spotify.com/album/0sgUIRGCsKo9P1ixNC99au"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Hands Up",
+      "url": "https://open.spotify.com/track/1E6l75Po0SL0C1Clobjf5v"
     },
     {
       "added_at": null,
@@ -423,22 +439,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Help Me God",
-        "url": "https://open.spotify.com/album/01WU13PMkMohKI8mHJJ0DL"
+        "name": "I Hope You're Happy (Commentary Version)",
+        "url": "https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5"
       },
       "artists": [
         {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
         },
         {
           "name": "Jelly Roll",
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 179253,
-      "name": "Son Of The Dirty South",
-      "url": "https://open.spotify.com/track/6WaPKTy7RYb21gs8PasOPL"
+      "duration_ms": 173333,
+      "name": "Box Me Up (feat. Jelly Roll)",
+      "url": "https://open.spotify.com/track/19DC6pFSlhbKG77yG40dQO"
     },
     {
       "added_at": null,
@@ -459,22 +475,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Hope You're Happy (Commentary Version)",
-        "url": "https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5"
+        "name": "So Help Me God",
+        "url": "https://open.spotify.com/album/01WU13PMkMohKI8mHJJ0DL"
       },
       "artists": [
         {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
         },
         {
           "name": "Jelly Roll",
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 173333,
-      "name": "Box Me Up (feat. Jelly Roll)",
-      "url": "https://open.spotify.com/track/19DC6pFSlhbKG77yG40dQO"
+      "duration_ms": 179253,
+      "name": "Son Of The Dirty South",
+      "url": "https://open.spotify.com/track/6WaPKTy7RYb21gs8PasOPL"
     },
     {
       "added_at": null,
@@ -903,30 +919,6 @@
       "duration_ms": 196053,
       "name": "Whiskey Bent (feat. Jelly Roll)",
       "url": "https://open.spotify.com/track/6bR32eVsUfzgZFAraoMITH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hard Fought Hallelujah (Gospel Version) - Spotify Singles (feat. The Choir Room)",
-        "url": "https://open.spotify.com/album/5iqrBPqbMiGOMUw2xVNmOs"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        },
-        {
-          "name": "The Choir Room",
-          "url": "https://open.spotify.com/artist/6PykrTPtMnj4H6EETYYOgK"
-        }
-      ],
-      "duration_ms": 322492,
-      "name": "Hard Fought Hallelujah (Gospel Version) - Spotify Singles (feat. The Choir Room)",
-      "url": "https://open.spotify.com/track/137hXMH6QiVXQSRwcf0DWP"
     }
   ],
   "unique_name": "This Is Jelly Roll",

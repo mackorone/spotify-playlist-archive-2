@@ -1,12 +1,12 @@
 {
   "description": "This is Jane's Addiction. The essential tracks, all in one playlist.",
-  "num_followers": 44964,
+  "num_followers": 44969,
   "original_name": "This Is Jane's Addiction",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajnMgAAAAADf+YH+nfmgyQgRzEApsn/u",
+  "snapshot_id": "ajseAAAAAADK5A3M88A65l0PBCuSTFUu",
   "tracks": [
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 243664,
-      "name": "Rock & Roll",
-      "url": "https://open.spotify.com/track/5D3jslN9eR4jcbsVpt7x6g"
+      "duration_ms": 325291,
+      "name": "Sympathy",
+      "url": "https://open.spotify.com/track/235s3YXmK3PiT4ALbl8cSF"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 325291,
-      "name": "Sympathy",
-      "url": "https://open.spotify.com/track/235s3YXmK3PiT4ALbl8cSF"
+      "duration_ms": 243664,
+      "name": "Rock & Roll",
+      "url": "https://open.spotify.com/track/5D3jslN9eR4jcbsVpt7x6g"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 259239,
-      "name": "So What!",
-      "url": "https://open.spotify.com/track/5r9N2nRnW3IZhtQHFhAjxB"
+      "duration_ms": 275333,
+      "name": "Slow Divers - Live",
+      "url": "https://open.spotify.com/track/4KTJNobIzYHGWn0BkQA03r"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 275333,
-      "name": "Slow Divers - Live",
-      "url": "https://open.spotify.com/track/4KTJNobIzYHGWn0BkQA03r"
+      "duration_ms": 259239,
+      "name": "So What!",
+      "url": "https://open.spotify.com/track/5r9N2nRnW3IZhtQHFhAjxB"
     },
     {
       "added_at": null,

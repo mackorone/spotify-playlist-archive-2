@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Light",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Fy",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -1456,7 +1456,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 170255,
       "name": "ARRRONO",
       "url": "https://open.spotify.com/track/45m5hy5CgN3h1ld5rmFpsi"
@@ -1722,6 +1722,36 @@
       "duration_ms": 250212,
       "name": "AVASIMA STOIXEIA",
       "url": "https://open.spotify.com/track/3Nb7cNFSCPpr8FAyNNxUq7"
+    },
+    {
+      "album": {
+        "name": "AVENTURA",
+        "url": "https://open.spotify.com/album/6XLUZBUALKlHDBzugfvPsD"
+      },
+      "artists": [
+        {
+          "name": "Likeboss",
+          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
+        },
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "HermesHermes",
+          "url": "https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY"
+        },
+        {
+          "name": "GMBeaTz",
+          "url": "https://open.spotify.com/artist/7d9PyOhLipsOeI1cov1cnz"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181492,
+      "name": "AVENTURA",
+      "url": "https://open.spotify.com/track/6S1gs8NVoVEi8ODwUHLvqW"
     },
     {
       "album": {
@@ -2802,7 +2832,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 134117,
       "name": "BUSINESS",
       "url": "https://open.spotify.com/track/3djudakcBistWKRfuKdWuL"
@@ -7947,6 +7977,28 @@
     },
     {
       "album": {
+        "name": "Karamela",
+        "url": "https://open.spotify.com/album/5fNkd9rUc91atQuhSaFLRX"
+      },
+      "artists": [
+        {
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+        },
+        {
+          "name": "BLVD",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "Karamela",
+      "url": "https://open.spotify.com/track/6jMMuFomYt1LgwETDhg5Ro"
+    },
+    {
+      "album": {
         "name": "KARMA",
         "url": "https://open.spotify.com/album/1Chmt0cqtmmZWgYU21UKtZ"
       },
@@ -7966,6 +8018,28 @@
       "duration_ms": 153750,
       "name": "KARMA",
       "url": "https://open.spotify.com/track/3Qa8rrt0bAA2VAYkbEY2pX"
+    },
+    {
+      "album": {
+        "name": "Cariocas",
+        "url": "https://open.spotify.com/album/52pqCi29zrBCzXQfDcIe8V"
+      },
+      "artists": [
+        {
+          "name": "Mc Daddy",
+          "url": "https://open.spotify.com/artist/3wuLkQuhEoK7byB0cfCCWT"
+        },
+        {
+          "name": "DISPLAY",
+          "url": "https://open.spotify.com/artist/2h5alBjyxfubD2ci4vSc28"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124117,
+      "name": "KARXARIAS",
+      "url": "https://open.spotify.com/track/3bDibXmZnowD6cIpqYUi79"
     },
     {
       "album": {
@@ -8128,6 +8202,24 @@
       "duration_ms": 164257,
       "name": "KENZO",
       "url": "https://open.spotify.com/track/72RVUaUXgSjqtWse5mQmDm"
+    },
+    {
+      "album": {
+        "name": "Romeo II",
+        "url": "https://open.spotify.com/album/2xKaXgSdyDa8ruGuPN0Y3e"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167166,
+      "name": "Ki Esy Stin Paro?",
+      "url": "https://open.spotify.com/track/41fePfhOqY09095sZxHUUS"
     },
     {
       "album": {
@@ -8320,7 +8412,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 150131,
       "name": "KOLOTOUBA",
       "url": "https://open.spotify.com/track/2xHSrVzLU1PTDp66zPlN35"
@@ -9024,7 +9116,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 184421,
       "name": "Low Rider",
       "url": "https://open.spotify.com/track/05FslWja07nCxznWhER5Yp"
@@ -9569,6 +9661,32 @@
     },
     {
       "album": {
+        "name": "MAVRA MATIA",
+        "url": "https://open.spotify.com/album/7cPtPkoAhmIRND2Yu3tPOq"
+      },
+      "artists": [
+        {
+          "name": "Mente Fuerte",
+          "url": "https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH"
+        },
+        {
+          "name": "Otilia",
+          "url": "https://open.spotify.com/artist/6RQDTlies3nrNDJwXvbBZT"
+        },
+        {
+          "name": "Baghdad",
+          "url": "https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166282,
+      "name": "MAVRA MATIA",
+      "url": "https://open.spotify.com/track/6vIqTijrFYRTVi3G8i09JU"
+    },
+    {
+      "album": {
         "name": "Kingpin 2",
         "url": "https://open.spotify.com/album/0WMnNM1kfwzu2fU5FTYc3O"
       },
@@ -9618,7 +9736,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 127058,
       "name": "MAXAIRIA KAI GLOCK",
       "url": "https://open.spotify.com/track/5cmtBXdKq8BfztlEDTY0ii"
@@ -9692,7 +9810,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 150281,
       "name": "ME EMAS",
       "url": "https://open.spotify.com/track/3ayAQ1yzV9bezWbvOmeqEn"
@@ -11481,6 +11599,24 @@
     },
     {
       "album": {
+        "name": "Romeo II",
+        "url": "https://open.spotify.com/album/2xKaXgSdyDa8ruGuPN0Y3e"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "omw",
+      "url": "https://open.spotify.com/track/4uLodgH5AnP3mgXMyZHPDO"
+    },
+    {
+      "album": {
         "name": "On God",
         "url": "https://open.spotify.com/album/4EXr5kGlcjKD0PTOWavGRh"
       },
@@ -12018,6 +12154,32 @@
       "duration_ms": 118548,
       "name": "PANW MOU",
       "url": "https://open.spotify.com/track/4Qa689Cg9mB9iaO9PT5cIO"
+    },
+    {
+      "album": {
+        "name": "PAPAPA",
+        "url": "https://open.spotify.com/album/7omjUy4njk43dxAbRclFIN"
+      },
+      "artists": [
+        {
+          "name": "BAKV",
+          "url": "https://open.spotify.com/artist/7q4dxsrYuPcd0PgxBc1eQ4"
+        },
+        {
+          "name": "Big Skendo",
+          "url": "https://open.spotify.com/artist/5wOvUrTEKrUjEDLBHIWxvp"
+        },
+        {
+          "name": "ASOK",
+          "url": "https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144705,
+      "name": "PAPAPA",
+      "url": "https://open.spotify.com/track/1hLrdZsklfL8joX7mhiDYS"
     },
     {
       "album": {
@@ -13106,6 +13268,24 @@
       "duration_ms": 120009,
       "name": "Prishtina",
       "url": "https://open.spotify.com/track/1BuBPgJyWGSZ4PcLISga4x"
+    },
+    {
+      "album": {
+        "name": "PROFANWS",
+        "url": "https://open.spotify.com/album/5AxNnIId9BtXBYAOGoMDdF"
+      },
+      "artists": [
+        {
+          "name": "Kareem Kalokoh",
+          "url": "https://open.spotify.com/artist/6fIBCdiEDMUziaNwDi2Awb"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125217,
+      "name": "PROFANWS",
+      "url": "https://open.spotify.com/track/2eTl8TsZgqCK4ljG5Yw9gx"
     },
     {
       "album": {
@@ -15088,7 +15268,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 145479,
       "name": "STRATOSFERA",
       "url": "https://open.spotify.com/track/5JYJrPJ9A0LiUsM3lrVJMx"
@@ -15634,7 +15814,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 268736,
       "name": "Tha Edina Ta Panta",
       "url": "https://open.spotify.com/track/5tZeRqOJp0x6ffaXdodZVp"
@@ -16986,6 +17166,28 @@
       "duration_ms": 154545,
       "name": "WESH POTO",
       "url": "https://open.spotify.com/track/608Da9ZOerBhtedVOMCeAH"
+    },
+    {
+      "album": {
+        "name": "WHISKEY",
+        "url": "https://open.spotify.com/album/6oZZ68NrmgbxWbQJGJS2zo"
+      },
+      "artists": [
+        {
+          "name": "XRS",
+          "url": "https://open.spotify.com/artist/4VaNTItXu9y1mVG63o9lF4"
+        },
+        {
+          "name": "Night Grind",
+          "url": "https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176843,
+      "name": "WHISKEY",
+      "url": "https://open.spotify.com/track/7y6Nl7g2lPJ3zP4RaN33DE"
     },
     {
       "album": {

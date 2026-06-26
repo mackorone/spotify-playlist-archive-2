@@ -1,6 +1,6 @@
 {
   "description": "Celebrating South Africa's most beloved hits. Cover: J'Something",
-  "num_followers": 3865,
+  "num_followers": 3922,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2026-04-24 07:22:05",
       "album": {
+        "name": "Ibutho",
+        "url": "https://open.spotify.com/album/5l4OrBtOd4rGfpCEzWrfi2"
+      },
+      "artists": [
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW"
+        }
+      ],
+      "duration_ms": 311400,
+      "name": "Lwandle",
+      "url": "https://open.spotify.com/track/6UQCZ9wUMdDX87eVYAqJy4"
+    },
+    {
+      "added_at": "2026-04-24 07:22:05",
+      "album": {
         "name": "Halloween",
         "url": "https://open.spotify.com/album/15SNp2BWjBL3oSs2KnExpF"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 262826,
       "name": "Mambotjie (feat. 2Shot)",
       "url": "https://open.spotify.com/track/0whydZVhYUiAQ7LIQErJeM"
-    },
-    {
-      "added_at": "2026-04-24 07:22:05",
-      "album": {
-        "name": "Ibutho",
-        "url": "https://open.spotify.com/album/5l4OrBtOd4rGfpCEzWrfi2"
-      },
-      "artists": [
-        {
-          "name": "Zola",
-          "url": "https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW"
-        }
-      ],
-      "duration_ms": 311400,
-      "name": "Lwandle",
-      "url": "https://open.spotify.com/track/6UQCZ9wUMdDX87eVYAqJy4"
     },
     {
       "added_at": "2026-04-24 07:22:05",
@@ -511,6 +511,26 @@
     {
       "added_at": "2026-04-24 07:22:05",
       "album": {
+        "name": "Family Values",
+        "url": "https://open.spotify.com/album/4Vka3hwfaOqISTHYyOdkKC"
+      },
+      "artists": [
+        {
+          "name": "Riky Rick",
+          "url": "https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO"
+        },
+        {
+          "name": "ZANO",
+          "url": "https://open.spotify.com/artist/0adNleAt3fifQiP12TGZBJ"
+        }
+      ],
+      "duration_ms": 274053,
+      "name": "Sondela (feat. Zano)",
+      "url": "https://open.spotify.com/track/00gec53aXVCqYMWbKFJHGg"
+    },
+    {
+      "added_at": "2026-04-24 07:22:05",
+      "album": {
         "name": "Another Universe",
         "url": "https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn"
       },
@@ -539,26 +559,6 @@
       "duration_ms": 351746,
       "name": "Shibobo / The Final Countdown",
       "url": "https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h"
-    },
-    {
-      "added_at": "2026-04-24 07:22:05",
-      "album": {
-        "name": "Family Values",
-        "url": "https://open.spotify.com/album/4Vka3hwfaOqISTHYyOdkKC"
-      },
-      "artists": [
-        {
-          "name": "Riky Rick",
-          "url": "https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO"
-        },
-        {
-          "name": "ZANO",
-          "url": "https://open.spotify.com/artist/0adNleAt3fifQiP12TGZBJ"
-        }
-      ],
-      "duration_ms": 274053,
-      "name": "Sondela (feat. Zano)",
-      "url": "https://open.spotify.com/track/00gec53aXVCqYMWbKFJHGg"
     },
     {
       "added_at": "2026-04-24 07:22:05",

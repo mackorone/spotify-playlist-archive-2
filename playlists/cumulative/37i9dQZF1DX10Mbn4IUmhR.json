@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Your frequency for today's hottest pop tracks in Mzansi. Cover: ",
+  "description": "Your frequency for today's hottest pop tracks in Mzansi. Cover: MOONGA K.",
   "name": "pop fm",
   "tracks": [
     {
@@ -1612,6 +1612,24 @@
       "duration_ms": 202000,
       "name": "Better Knowin' You",
       "url": "https://open.spotify.com/track/4yjVMmOVJXF7eXjqJlBxcE"
+    },
+    {
+      "album": {
+        "name": "BIG EGO",
+        "url": "https://open.spotify.com/album/0rSqxLqcaZpl380IQ2pnwd"
+      },
+      "artists": [
+        {
+          "name": "MOONGA K.",
+          "url": "https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "BIG EGO",
+      "url": "https://open.spotify.com/track/0NCUDhC7plQ3PO294m7F8z"
     },
     {
       "album": {
@@ -3274,7 +3292,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 185346,
       "name": "Don't Call Me Up",
       "url": "https://open.spotify.com/track/6aVIwFUO8Ntmsr7Qt90Dca"

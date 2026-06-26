@@ -2,9 +2,9 @@
 
 ### [Ghana Party](https://open.spotify.com/playlist/37i9dQZF1DX7t977T5F4kQ)
 
-> The hottest and recent Ghana party starters\. Cover:   Black Sherif
+> The hottest and recent Ghana party starters\. Cover:   Gyakie
 
-667 songs - 1 day 9 hr 57 min
+670 songs - 1 day 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,6 +321,7 @@
 | [Kill Me](https://open.spotify.com/track/2VXbmqitfRxjzJa5AqNirx) | [Vacs](https://open.spotify.com/artist/2d8bfdQy488Ppx30WvzO2x) | [Kill Me](https://open.spotify.com/album/3mKhwkeVFoBey3u4FnKr4T) | 3:10 | 2023-01-27 | 2023-02-04 |
 | [Knees & Bend II \- Remix](https://open.spotify.com/track/2TRpqKAo2M1uSPzjKaBfy9) | [RCEE](https://open.spotify.com/artist/5aMc9Z99UvAnSOGYAlZsHb), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Knees & Bend II \(Remix\)](https://open.spotify.com/album/7a2XiDYe5XYoZXBLBEKoAv) | 3:39 | 2025-04-07 | 2026-03-20 |
 | [Koko](https://open.spotify.com/track/30e6LzqnrCbfwbJQHZsCFB) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc), [Adina Thembi](https://open.spotify.com/artist/7ujlMMbxQ1lbbBNpYyAU6d), [Sefa](https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI), [Yaa Jackson](https://open.spotify.com/artist/2qktfKyDHjPaZs5UxdUaD9) | [Koko](https://open.spotify.com/album/4wiNGqclgsmEuR0nAwl8Hh) | 3:34 | 2026-01-23 | 2026-01-30 |
+| [Koto Na Gye \(Bend & Take\)](https://open.spotify.com/track/16iHMC9kNIyMG5n1rYRNam) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Koto Na Gye \(Bend & Take\)](https://open.spotify.com/album/1V8YoEmXIlGmgXa1r4CTPY) | 2:03 | 2026-06-25 |  |
 | [KPONKPO](https://open.spotify.com/track/4E0zFXFHtn5qwHHNSOkK1k) | [Gasmilla](https://open.spotify.com/artist/1Wtzdgd5YfWe0WWm9WN3l3) | [KPONKPO](https://open.spotify.com/album/6WRZb4GyZBhtylB9aEe4d7) | 2:59 | 2023-05-19 | 2023-07-01 |
 | [Kuacha](https://open.spotify.com/track/2gQ4Z9XBBzDDi1EqhOj0K7) | [Samsney](https://open.spotify.com/artist/1RaVe8wzZ1DnL6fcAf1x2g), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Kuacha](https://open.spotify.com/album/3ZCBdU2KFy6VmvqAiS3bln) | 3:10 | 2022-11-04 | 2023-09-09 |
 | [KUROM](https://open.spotify.com/track/0muM9LFZb7nAB6ndby6GTo) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [KUROM](https://open.spotify.com/album/1vy8ikWbw0ogx0OXmZG3fZ) | 3:09 | 2024-11-29 | 2025-07-11 |
@@ -564,6 +565,7 @@
 | [Special Love](https://open.spotify.com/track/3tDxbwxI0ekIlubIuqvH97) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S), [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Special Love](https://open.spotify.com/album/1szceHagQSVd8xb31fOoPo) | 2:46 | 2024-08-25 | 2024-10-26 |
 | [Status Quo](https://open.spotify.com/track/5TxlECIHTRbNlxdMczxIU5) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Against All Odds](https://open.spotify.com/album/02txQEiCHuBynfAWsUQQcM) | 4:36 | 2025-08-29 | 2025-09-12 |
 | [Stay with Me](https://open.spotify.com/track/3bUPd3asMBo6vSCgCcbDjv) | [Yaw Darling](https://open.spotify.com/artist/5Evs57zwRolR6QHb2qeYwv) | [Stay with Me](https://open.spotify.com/album/21AMrY6iEhov73JUYXDVO1) | 2:38 | 2024-02-09 | 2024-03-01 |
+| [Steeze & Composure](https://open.spotify.com/track/3boGlE0Apz8ej6EUojHMrj) | [Okese1](https://open.spotify.com/artist/6ZaoSztNvTtjLLRWm60tPc), [DJ FortuneDJ](https://open.spotify.com/artist/3H1ujqsrtJXeYDoJ2Ar9I9) | [Steeze & Composure](https://open.spotify.com/album/2oD53YzBw6wzto7Ha0C2ms) | 2:30 | 2026-06-25 |  |
 | [Stranger](https://open.spotify.com/track/242WBNiAmAI4iF41XEr4Vx) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Sweet Boy](https://open.spotify.com/album/5bemAcOU06NptwvjYE3lLs) | 2:55 | 2026-05-01 |  |
 | [Su Mo Mi](https://open.spotify.com/track/2VP9RsnRRp1UX8BagWcZkY) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Su Mo Mi](https://open.spotify.com/album/4UYe6cZPLs6rTSl6F8ZNI4) | 3:24 | 2022-12-08 | 2023-04-09 |
 | [Suffer Suffer](https://open.spotify.com/track/1FEwkFQFOxdJLngkH7Jgao) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [Suffer Suffer](https://open.spotify.com/album/3ZmxhUBvoUgzHbDh4xfmDq) | 2:50 | 2023-02-23 | 2023-03-11 |
@@ -609,6 +611,7 @@
 | [Too Late](https://open.spotify.com/track/7krvWOVJSMcj3LHuxygzLh) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S) | [Too Late](https://open.spotify.com/album/7mQQiuo6jLbmE3aZeSaXaR) | 3:14 | 2024-11-08 |  |
 | [Tornado](https://open.spotify.com/track/52L1OTjUe8Zmz8xQH9HENi) | [Tripcy](https://open.spotify.com/artist/5O7sGyn3CPojVAPQAtVApn), [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72) | [Tornado](https://open.spotify.com/album/339rnWvetNqZTAZzxrlv35) | 2:38 | 2023-04-27 | 2023-05-20 |
 | [Touch It](https://open.spotify.com/track/3h3xeg5OGNYVM0U9rOAc6j) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Touch It](https://open.spotify.com/album/3VDgHI9zYEzSeH1dv8ij1c) | 2:45 | 2022-11-04 | 2023-08-18 |
+| [TREASURE](https://open.spotify.com/track/3arRudOsaktr2TIHIBrrPW) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [TREASURE](https://open.spotify.com/album/496b5N0z6i4Z2il9yd1qnT) | 2:12 | 2026-06-25 |  |
 | [Try Again](https://open.spotify.com/track/37VzqohsKYJMTN9yS5iSt1) | [Banzy Banero](https://open.spotify.com/artist/5VjCTOxVwGAA7Blx7jv5WN) | [Try Again](https://open.spotify.com/album/4vGY5krrhuhWRNbO1Fd3Xd) | 3:23 | 2023-11-17 | 2024-10-26 |
 | [TSOOBI \(AKONOBA\)](https://open.spotify.com/track/4jGGlJ79PIT8MA85gfCMSR) | [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [TSOOBI \(AKONOBA\)](https://open.spotify.com/album/298RAd7DjwBSO2PYx9NEIV) | 3:46 | 2026-01-14 |  |
 | [TUFF TIMES 2.0 \(feat\. AratheJay\)](https://open.spotify.com/track/5Co15LP8Gbm8FVBTrqnAYY) | [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [TUFF TIMES 2.0 \(feat\. AratheJay\)](https://open.spotify.com/album/1hzwiDaN0GZHS95ZXo1BQQ) | 2:07 | 2026-03-20 |  |

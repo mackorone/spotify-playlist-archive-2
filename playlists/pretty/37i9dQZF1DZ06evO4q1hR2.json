@@ -1,12 +1,12 @@
 {
   "description": "This is El Coyote Y Su Banda Tierra Santa. The essential tracks, all in one playlist.",
-  "num_followers": 81057,
+  "num_followers": 81089,
   "original_name": "This Is El Coyote Y Su Banda Tierra Santa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajnMgAAAAAD7tnXKho2mDw/jrxSV+CcM",
+  "snapshot_id": "ajseAAAAAAD3lPXatlkdPw3f+XixlFe9",
   "tracks": [
     {
       "added_at": null,
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Evolucion De Una Estrella",
-        "url": "https://open.spotify.com/album/6k7d21DElnpqLJJZ9f1TEl"
+        "name": "Exitos En Vivo Vol. 2",
+        "url": "https://open.spotify.com/album/413gecZxn5pFxE7hekZYGW"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 179853,
-      "name": "Pu\u00f1o De Tierra",
-      "url": "https://open.spotify.com/track/6nAwNfJ1kxO5r2EWClqW1b"
+      "duration_ms": 232154,
+      "name": "Reproches Al Viento",
+      "url": "https://open.spotify.com/track/4c8ouGnAqVqp3puWViy0Pz"
     },
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exitos En Vivo Vol. 2",
-        "url": "https://open.spotify.com/album/413gecZxn5pFxE7hekZYGW"
+        "name": "La Evolucion De Una Estrella",
+        "url": "https://open.spotify.com/album/6k7d21DElnpqLJJZ9f1TEl"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 232154,
-      "name": "Reproches Al Viento",
-      "url": "https://open.spotify.com/track/4c8ouGnAqVqp3puWViy0Pz"
+      "duration_ms": 179853,
+      "name": "Pu\u00f1o De Tierra",
+      "url": "https://open.spotify.com/track/6nAwNfJ1kxO5r2EWClqW1b"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coleccion Suprema",
-        "url": "https://open.spotify.com/album/5IUhaLA9PFfj1UgknJ0I5f"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 132160,
-      "name": "Piquetes De Hormiga",
-      "url": "https://open.spotify.com/track/4u5dcho6aCcdwJoNPCm7bu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Dije",
         "url": "https://open.spotify.com/album/26PMGTiJDxG2Pm7s7kdMrE"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 182988,
       "name": "Te Dije",
       "url": "https://open.spotify.com/track/2WisqOuLSNW8yUpwlkf5jN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coleccion Suprema",
+        "url": "https://open.spotify.com/album/5IUhaLA9PFfj1UgknJ0I5f"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 132160,
+      "name": "Piquetes De Hormiga",
+      "url": "https://open.spotify.com/track/4u5dcho6aCcdwJoNPCm7bu"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nacimos Pa' Ser Historia",
-        "url": "https://open.spotify.com/album/1g3rciYVTPekvreB0E5tcK"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 177445,
-      "name": "Ranchero Enamorado",
-      "url": "https://open.spotify.com/track/1eiKBldR09jvV2omvD6PQF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "3 Grandes De La Banda En Homenaje A Jos\u00e9 Alfredo Jim\u00e9nez",
         "url": "https://open.spotify.com/album/7MqSnitKxSy1vMXb35250u"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 187062,
       "name": "El Hijo Del Pueblo",
       "url": "https://open.spotify.com/track/1Ccnqnx2Rp9msuOCudiqwg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nacimos Pa' Ser Historia",
+        "url": "https://open.spotify.com/album/1g3rciYVTPekvreB0E5tcK"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 177445,
+      "name": "Ranchero Enamorado",
+      "url": "https://open.spotify.com/track/1eiKBldR09jvV2omvD6PQF"
     },
     {
       "added_at": null,

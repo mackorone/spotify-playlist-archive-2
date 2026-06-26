@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 
 > You bring the ingredients, we bring the flavor\. Enjoy la cena...
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,601 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,583 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 56 | [Quien Sabe](https://open.spotify.com/track/2bhLqV1h7texAwg4uEhBIx) | [Zenet](https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i) | [Soñar Contigo\. Una Colección de Sus Grandes Canciones](https://open.spotify.com/album/2NsgXX7zdnsp3Ph6un8S08) | 3:59 |
 | 57 | [Guajira](https://open.spotify.com/track/4HMLjIO0JWKskd4OcO66re) | [HABIBI](https://open.spotify.com/artist/3RwYN0Swosf86cRdNn77Jt), [Elisabeth Borne](https://open.spotify.com/artist/3xgdUKPsJSjxeYeLWeLgna) | [Guajira](https://open.spotify.com/album/4S06ERzg9mgSwWlfyZdO2V) | 3:30 |
 | 58 | [Naranjo En Flor](https://open.spotify.com/track/7ouBEajSKGc6NQPe9fpB8i) | [Campo](https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8) | [Bajofondo Tango Club](https://open.spotify.com/album/3KtZ7CB9lIVCekOB0e8HSk) | 4:36 |
-| 59 | [Somos Hermanas](https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Somos Hermanas](https://open.spotify.com/album/5jwDeAqliI9J5t7KXDInjK) | 3:50 |
-| 60 | [Guapachosa](https://open.spotify.com/track/3lk6w0aleZYJfJ0zHpBUto) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h), [Eric Chacón](https://open.spotify.com/artist/6ZiQIMVzOvDwR4mKPLMNRR) | [Guapachosa](https://open.spotify.com/album/4TptYiiaaLLx5ywoAnGrMj) | 3:06 |
+| 59 | [Guapachosa](https://open.spotify.com/track/3lk6w0aleZYJfJ0zHpBUto) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h), [Eric Chacón](https://open.spotify.com/artist/6ZiQIMVzOvDwR4mKPLMNRR) | [Guapachosa](https://open.spotify.com/album/4TptYiiaaLLx5ywoAnGrMj) | 3:06 |
+| 60 | [Somos Hermanas](https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Somos Hermanas](https://open.spotify.com/album/5jwDeAqliI9J5t7KXDInjK) | 3:50 |
 | 61 | [Donde Está](https://open.spotify.com/track/0fjCKNenDu2DBaMcIp3rXS) | [Si\*Sé](https://open.spotify.com/artist/64CWqLWhLQhrerPastRKW9) | [Gold](https://open.spotify.com/album/01NDjxuV02b5rlRHyT3nUU) | 3:44 |
 | 62 | [Dancin' Days](https://open.spotify.com/track/1Nni53RQ8FI8yBYEuZ3jLR) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Música para verse bien](https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ) | 4:09 |
 | 63 | [Todo Cambió](https://open.spotify.com/track/0sYhfDMlg2G1NC0OclLoTx) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Mariangela](https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf) | [Todo Cambió](https://open.spotify.com/album/1Zc8gfpNoHmszL1ybIF2jb) | 3:38 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 94 | [Price of Life](https://open.spotify.com/track/0WXHvhN3VnXrlk1JACQkf8) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [III](https://open.spotify.com/album/5tZXoFSg0vzFbJk0q8TtkI) | 3:44 |
 | 95 | [Sin Rumbo](https://open.spotify.com/track/4lPt2Wyz2u92f6BC8gb93O) | [Otros Aires](https://open.spotify.com/artist/4V8yy6XGCvl6cy2UihbH2h) | [Otros Aires](https://open.spotify.com/album/5NyB7MRoZ81kGJz7uRpHmd) | 3:53 |
 | 96 | [Tiene Sabor](https://open.spotify.com/track/6W9h0BezjB0P5Zcf2FWMPu) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Lost and Found](https://open.spotify.com/album/1fZmMKEOWePGgosLE7npHx) | 3:17 |
-| 97 | [Bailando Con Un Pie](https://open.spotify.com/track/0NEHr6HubGty2liiPyFw2u) | [KerreKe](https://open.spotify.com/artist/5DsW9fidnHgj7FeHJ4T08P) | [Rituales](https://open.spotify.com/album/2wk8ikP4VBxoPrPL0z00dm) | 2:54 |
-| 98 | [Parar el Tiempo](https://open.spotify.com/track/5iBP84nYff7zzoYGSfOwgf) | [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe) | [Terapia](https://open.spotify.com/album/3OgoFDgcFpncuzMonAjLQD) | 4:09 |
-| 99 | [Pela Janela \(Through the Window\)](https://open.spotify.com/track/0FaYHxGCGmAzcQdXeIjmZJ) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3), [Gigi Rezende](https://open.spotify.com/artist/53bWJ73lWFUdo0w02irB8s) | [The Cosmic Game](https://open.spotify.com/album/3x31ejKrrjJWXGd6ftaSNu) | 3:41 |
-| 100 | [Grietas](https://open.spotify.com/track/3fnRf6dq6oZBuDFXruNenf) | [Newen Afrobeat](https://open.spotify.com/artist/0PTJ848ulShbjTx2yqaAlb), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Grietas](https://open.spotify.com/album/4L0f9F1DJmjLqUQx6v6if3) | 5:13 |
+| 97 | [Música Sin Tiempo](https://open.spotify.com/track/6bZtdmZVoBKSr5IEgfPklT) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Música Sin Tiempo](https://open.spotify.com/album/1glGF4NuNqwLeLeEh1VFA9) | 4:44 |
+| 98 | [Bailando Con Un Pie](https://open.spotify.com/track/0NEHr6HubGty2liiPyFw2u) | [KerreKe](https://open.spotify.com/artist/5DsW9fidnHgj7FeHJ4T08P) | [Rituales](https://open.spotify.com/album/2wk8ikP4VBxoPrPL0z00dm) | 2:54 |
+| 99 | [Parar el Tiempo](https://open.spotify.com/track/5iBP84nYff7zzoYGSfOwgf) | [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe) | [Terapia](https://open.spotify.com/album/3OgoFDgcFpncuzMonAjLQD) | 4:09 |
+| 100 | [Pela Janela \(Through the Window\)](https://open.spotify.com/track/0FaYHxGCGmAzcQdXeIjmZJ) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3), [Gigi Rezende](https://open.spotify.com/artist/53bWJ73lWFUdo0w02irB8s) | [The Cosmic Game](https://open.spotify.com/album/3x31ejKrrjJWXGd6ftaSNu) | 3:41 |
 
 Snapshot ID: `AAAAAF/YQgDCVBZQbNr+khZedVVtBSLW`

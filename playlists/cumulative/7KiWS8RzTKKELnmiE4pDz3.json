@@ -18733,6 +18733,24 @@
     },
     {
       "album": {
+        "name": "Supreme Clientele",
+        "url": "https://open.spotify.com/album/7eaQqVyq6xzAVgsxSzSP83"
+      },
+      "artists": [
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226333,
+      "name": "One",
+      "url": "https://open.spotify.com/track/1yeHVJsVPN3ZskQ398be1E"
+    },
+    {
+      "album": {
         "name": "Ridin' Dirty",
         "url": "https://open.spotify.com/album/4jTPQq9PSlKMOm1yLx2ATN"
       },

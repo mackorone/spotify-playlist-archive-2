@@ -4,7 +4,7 @@
 
 > Khuphuka lapho… seku\-late! Cover: LIMIT NALA
 
-295 songs - 23 hr 20 min
+296 songs - 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Emanonini](https://open.spotify.com/track/4lwzWQYvRqYFI1lzilvYnt) | [Diary](https://open.spotify.com/artist/2pTKezPNKXyQCfkUVIRJ74), [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi), [Khuthuza](https://open.spotify.com/artist/0OPeZ6oxm2MldHasnoBTpM) | [Emanonini](https://open.spotify.com/album/6ZG7EuXof1YjMSOZdt427Y) | 4:24 | 2024-06-27 | 2024-09-21 |
 | [Emendweni \(Official Audio\)](https://open.spotify.com/track/7y7rkoxppjGCyanzPR1Ni3) | [Ugatsheni](https://open.spotify.com/artist/2kUReuoaNS6Thgl4zFQA60) | [Inhlupheko](https://open.spotify.com/album/0COaJfx04ihKeZxxcw4j3x) | 4:54 | 2023-01-30 |  |
 | [Emkhathini](https://open.spotify.com/track/0VaIf3loFYGRl9pVlnsYRL) | [Shwi noMtekhala](https://open.spotify.com/artist/3u7RxCpLc0QpXX6wiVWKZ6), [Maphungula](https://open.spotify.com/artist/7bbXvPy5gAzivkwv5oRJI8) | [Emkhathini](https://open.spotify.com/album/43GsmX58ZoBRLv1R4UZiCd) | 5:34 | 2019-09-24 | 2023-02-17 |
-| [Emojis](https://open.spotify.com/track/02j3niedOJGNXpM0q5VXIU) | [Navigator Gcwensa](https://open.spotify.com/artist/6aaykE2Gf6cL8ZptwdVNLC), [Azana](https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5) | [Emojis](https://open.spotify.com/album/2xNxehUdezUHChdTLz9nXJ) | 4:18 | 2025-08-01 |  |
+| [Emojis](https://open.spotify.com/track/02j3niedOJGNXpM0q5VXIU) | [Navigator Gcwensa](https://open.spotify.com/artist/6aaykE2Gf6cL8ZptwdVNLC), [Azana](https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5) | [Emojis](https://open.spotify.com/album/2xNxehUdezUHChdTLz9nXJ) | 4:18 | 2025-08-01 | 2026-06-26 |
 | [Endumisweni](https://open.spotify.com/track/0FVJjE94m2bq1IUIF5NdZ3) | [Bhekumuzi Luthuli](https://open.spotify.com/artist/2olZnrkMJFY0BnGZM7vWMV) | [Igazi Lami](https://open.spotify.com/album/46cbUWGAf5JyhnxL31znQQ) | 4:25 | 2018-09-25 | 2022-07-29 |
 | [Endumisweni](https://open.spotify.com/track/1UGcDqgMa0H0p8vODceY86) | [Bhekumuzi Luthuli](https://open.spotify.com/artist/2olZnrkMJFY0BnGZM7vWMV) | [Gospel Hits](https://open.spotify.com/album/2kT2AwbhhzjQ6AlvBXo936) | 4:25 | 2018-09-25 | 2022-10-14 |
 | [Endumisweni](https://open.spotify.com/track/3IPrZBtgOikNvhiUGQ8K4x) | [Bhekumuzi Luthuli](https://open.spotify.com/artist/2olZnrkMJFY0BnGZM7vWMV) | [Gospel Hits](https://open.spotify.com/album/2ABlTWUAfKDPnUThVIM614) | 4:25 | 2018-09-25 | 2023-02-01 |
@@ -247,6 +247,7 @@
 | [Ubu Ghost bami](https://open.spotify.com/track/18135pAIhu4DClNzwruriW) | [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3), [Intombi yasoLundi](https://open.spotify.com/artist/4Bn20pYoT2Dij98WIQc4lt) | [Ng'funa intozami](https://open.spotify.com/album/5hXdv6EKkrLBoK0diMQwT6) | 2:51 | 2025-11-14 |  |
 | [uHerodi](https://open.spotify.com/track/2OaiWMFJMnUSFLpdsYWgup) | [Madlala](https://open.spotify.com/artist/0e7YfyK9v0fTHo43iJV8Oj) | [Sizohlabelela](https://open.spotify.com/album/2X6RQrGxetaRNPOdx1TgGo) | 3:54 | 2023-08-24 | 2026-04-11 |
 | [Ujola Wedwa](https://open.spotify.com/track/4ap6aES5uDnSV0LZUHHKUC) | [Navigator Gcwensa](https://open.spotify.com/artist/6aaykE2Gf6cL8ZptwdVNLC), [Imeya KaZwelonke](https://open.spotify.com/artist/3zl4AeNCAnBdEVhjNt0PNQ) | [Fortaleza De Sol](https://open.spotify.com/album/4qp4clBnx37iNwbKlfNlzK) | 3:21 | 2023-06-15 | 2024-03-29 |
+| [uJonas \(feat\. Saliwa\)](https://open.spotify.com/track/3ceGIMsy7V0Uapz9yNBH5O) | [Thabiso M](https://open.spotify.com/artist/1RYX4TyWZAVT3lPH24jFBw), [Saliwa](https://open.spotify.com/artist/2I0i5ZfLpQQ1dzFTkyBON8) | [uJonas \(feat\. Saliwa\)](https://open.spotify.com/album/6T6l3Xa1U6K0hKBSwkfDjl) | 3:08 | 2026-06-25 |  |
 | [UKHETHE MINA](https://open.spotify.com/track/35nJgry48wr2AaxRfouhfD) | [Ntencane](https://open.spotify.com/artist/3PKVcK4wKrfPi7qDz1odsV) | [Awuyiphumuze](https://open.spotify.com/album/3VFuhDO3hOZCCkrZktpGkD) | 5:20 | 2026-02-20 | 2026-05-08 |
 | [Ukuganwa](https://open.spotify.com/track/3KagxTKp5nodR1hUIHardA) | [Mfaz' Omnyama](https://open.spotify.com/artist/0JQAeDYaigl5nor0kUP44X) | [Ngiyashisa Bhe!!](https://open.spotify.com/album/0HGeXxPm0xeqMorXQXSczL) | 4:54 | 2018-11-04 | 2022-09-25 |
 | [Ukuganwa](https://open.spotify.com/track/4xrwao2zgAaG45VdsfpGBW) | [Mfaz' Omnyama](https://open.spotify.com/artist/0JQAeDYaigl5nor0kUP44X) | [Ngiyashisa Bhe!!](https://open.spotify.com/album/2XndIgHBdfGrQbU8qdBsdT) | 4:54 | 2018-11-04 | 2023-02-01 |

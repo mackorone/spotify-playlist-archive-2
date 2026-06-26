@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. en portada.",
-  "num_followers": 530701,
+  "num_followers": 530715,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,22 @@
     {
       "added_at": "2026-06-19 06:00:39",
       "album": {
+        "name": "Expansi\u00f3n",
+        "url": "https://open.spotify.com/album/69ceJyl4is6jkwTPjyCYMf"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "duration_ms": 155131,
+      "name": "Un Corridazo",
+      "url": "https://open.spotify.com/track/6VIX6Tu8pnrZurbOnpLj2x"
+    },
+    {
+      "added_at": "2026-06-19 06:00:39",
+      "album": {
         "name": "De Los Dientes Pa Fuera",
         "url": "https://open.spotify.com/album/3rGviY23qfCvsHXiauzv19"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 168664,
       "name": "De Los Dientes Pa Fuera",
       "url": "https://open.spotify.com/track/6U4MQb60Hkvv4ZS2Qwg3Lo"
-    },
-    {
-      "added_at": "2026-06-19 06:00:39",
-      "album": {
-        "name": "Expansi\u00f3n",
-        "url": "https://open.spotify.com/album/69ceJyl4is6jkwTPjyCYMf"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        }
-      ],
-      "duration_ms": 155131,
-      "name": "Un Corridazo",
-      "url": "https://open.spotify.com/track/6VIX6Tu8pnrZurbOnpLj2x"
     },
     {
       "added_at": "2026-06-19 06:00:39",
@@ -663,26 +663,18 @@
     {
       "added_at": "2026-06-19 06:00:39",
       "album": {
-        "name": "Andamos Ready",
-        "url": "https://open.spotify.com/album/5eZtNyhRU4LWBV6RZoMeIt"
+        "name": "HOME RUN",
+        "url": "https://open.spotify.com/album/2Jd7QeAp7XUPr2dgJqplpV"
       },
       "artists": [
         {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        },
-        {
-          "name": "Maffio",
-          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
-        },
-        {
-          "name": "Izaak G",
-          "url": "https://open.spotify.com/artist/34bxjoSYslVQ2qQvgd1ibJ"
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
         }
       ],
-      "duration_ms": 190612,
-      "name": "Andamos Ready",
-      "url": "https://open.spotify.com/track/1OG7aTOFOhGRlHD3BA7Y6M"
+      "duration_ms": 207886,
+      "name": "HOME RUN",
+      "url": "https://open.spotify.com/track/5q4KZBaQrMnj5FAvprBLQO"
     },
     {
       "added_at": "2026-06-19 06:00:39",
@@ -707,18 +699,26 @@
     {
       "added_at": "2026-06-19 06:00:39",
       "album": {
-        "name": "HOME RUN",
-        "url": "https://open.spotify.com/album/2Jd7QeAp7XUPr2dgJqplpV"
+        "name": "Andamos Ready",
+        "url": "https://open.spotify.com/album/5eZtNyhRU4LWBV6RZoMeIt"
       },
       "artists": [
         {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        },
+        {
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+        },
+        {
+          "name": "Izaak G",
+          "url": "https://open.spotify.com/artist/34bxjoSYslVQ2qQvgd1ibJ"
         }
       ],
-      "duration_ms": 207886,
-      "name": "HOME RUN",
-      "url": "https://open.spotify.com/track/5q4KZBaQrMnj5FAvprBLQO"
+      "duration_ms": 190612,
+      "name": "Andamos Ready",
+      "url": "https://open.spotify.com/track/1OG7aTOFOhGRlHD3BA7Y6M"
     },
     {
       "added_at": "2026-06-19 06:00:39",
@@ -927,6 +927,22 @@
     {
       "added_at": "2026-06-19 06:00:39",
       "album": {
+        "name": "No Soy Vegano",
+        "url": "https://open.spotify.com/album/3wplxYtQdvMhXtdvk9mLrv"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 188657,
+      "name": "No Soy Vegano",
+      "url": "https://open.spotify.com/track/2IHje5bOH9voDLJvwDBK34"
+    },
+    {
+      "added_at": "2026-06-19 06:00:39",
+      "album": {
         "name": "Se Rindi\u00f3 El Amor",
         "url": "https://open.spotify.com/album/4SGyPxe8BQMyVVnaysr39p"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 153885,
       "name": "Se Rindi\u00f3 El Amor",
       "url": "https://open.spotify.com/track/4ZJs70EwkQqgEHUFq4vjtM"
-    },
-    {
-      "added_at": "2026-06-19 06:00:39",
-      "album": {
-        "name": "No Soy Vegano",
-        "url": "https://open.spotify.com/album/3wplxYtQdvMhXtdvk9mLrv"
-      },
-      "artists": [
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 188657,
-      "name": "No Soy Vegano",
-      "url": "https://open.spotify.com/track/2IHje5bOH9voDLJvwDBK34"
     },
     {
       "added_at": "2026-06-19 06:00:39",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-06-19 06:00:39",
       "album": {
-        "name": "El Arrepentido",
-        "url": "https://open.spotify.com/album/6L2ZoxR7iuBak07fE8AHjs"
-      },
-      "artists": [
-        {
-          "name": "Secretto",
-          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
-        }
-      ],
-      "duration_ms": 183271,
-      "name": "El Arrepentido",
-      "url": "https://open.spotify.com/track/4Klrqyf3uu6yTxmysjyiYi"
-    },
-    {
-      "added_at": "2026-06-19 06:00:39",
-      "album": {
         "name": "En Vivo Vol.4",
         "url": "https://open.spotify.com/album/5Iog3hJn32L3VMprtQK9Yu"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 226101,
       "name": "Y Por Lo Pronto - En Vivo",
       "url": "https://open.spotify.com/track/0iMqJasK0kg8Z810F8V1J9"
+    },
+    {
+      "added_at": "2026-06-19 06:00:39",
+      "album": {
+        "name": "El Arrepentido",
+        "url": "https://open.spotify.com/album/6L2ZoxR7iuBak07fE8AHjs"
+      },
+      "artists": [
+        {
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
+        }
+      ],
+      "duration_ms": 183271,
+      "name": "El Arrepentido",
+      "url": "https://open.spotify.com/track/4Klrqyf3uu6yTxmysjyiYi"
     },
     {
       "added_at": "2026-06-19 06:00:39",
@@ -1431,38 +1431,6 @@
     {
       "added_at": "2026-06-19 06:00:39",
       "album": {
-        "name": "Porte Fino",
-        "url": "https://open.spotify.com/album/3j4U4t9SGuYRL5RXg7FOGV"
-      },
-      "artists": [
-        {
-          "name": "Grupo Fernandez",
-          "url": "https://open.spotify.com/artist/3iwHYNyKCKBDsa4QFCj8Ik"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Porte Fino",
-      "url": "https://open.spotify.com/track/0HASNzmL0ZNhtqTuNqny9y"
-    },
-    {
-      "added_at": "2026-06-19 06:00:39",
-      "album": {
-        "name": "EL CHAVALON",
-        "url": "https://open.spotify.com/album/6T80qFUIxL19njTbB4iUCw"
-      },
-      "artists": [
-        {
-          "name": "Linea M",
-          "url": "https://open.spotify.com/artist/0HwIz0sUkYsV0nFuKfC2V3"
-        }
-      ],
-      "duration_ms": 170454,
-      "name": "EL CHAVALON",
-      "url": "https://open.spotify.com/track/070iYUd4a6hmqpLZiikJV3"
-    },
-    {
-      "added_at": "2026-06-19 06:00:39",
-      "album": {
         "name": "Jammin' sessions",
         "url": "https://open.spotify.com/album/1pahXinIrDupTLh26l1A4g"
       },
@@ -1479,6 +1447,22 @@
     {
       "added_at": "2026-06-19 06:00:39",
       "album": {
+        "name": "Porte Fino",
+        "url": "https://open.spotify.com/album/3j4U4t9SGuYRL5RXg7FOGV"
+      },
+      "artists": [
+        {
+          "name": "Grupo Fernandez",
+          "url": "https://open.spotify.com/artist/3iwHYNyKCKBDsa4QFCj8Ik"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Porte Fino",
+      "url": "https://open.spotify.com/track/0HASNzmL0ZNhtqTuNqny9y"
+    },
+    {
+      "added_at": "2026-06-19 06:00:39",
+      "album": {
         "name": "El Consejo",
         "url": "https://open.spotify.com/album/2GpMW8JHWFG7BviHG1ty95"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 171444,
       "name": "El Consejo",
       "url": "https://open.spotify.com/track/477GwOC8yxmOrVUY8dAAnc"
+    },
+    {
+      "added_at": "2026-06-19 06:00:39",
+      "album": {
+        "name": "EL CHAVALON",
+        "url": "https://open.spotify.com/album/6T80qFUIxL19njTbB4iUCw"
+      },
+      "artists": [
+        {
+          "name": "Linea M",
+          "url": "https://open.spotify.com/artist/0HwIz0sUkYsV0nFuKfC2V3"
+        }
+      ],
+      "duration_ms": 170454,
+      "name": "EL CHAVALON",
+      "url": "https://open.spotify.com/track/070iYUd4a6hmqpLZiikJV3"
     },
     {
       "added_at": "2026-06-19 06:00:39",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2026-06-19 06:00:39",
       "album": {
-        "name": "Recuerdos De Ni\u00f1o",
-        "url": "https://open.spotify.com/album/7cHIsnYvCUtwbsjHSQ23Cb"
-      },
-      "artists": [
-        {
-          "name": "Los Sembradores",
-          "url": "https://open.spotify.com/artist/1JVfORNBW6NGm0tJPKdvnm"
-        }
-      ],
-      "duration_ms": 146350,
-      "name": "Recuerdos De Ni\u00f1o",
-      "url": "https://open.spotify.com/track/56xdph8ib9mB3hdwCYvzFK"
-    },
-    {
-      "added_at": "2026-06-19 06:00:39",
-      "album": {
         "name": "Mi Condena",
         "url": "https://open.spotify.com/album/6r7a3JoNpGCo9uqaM7hLFx"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 193784,
       "name": "Mi Condena",
       "url": "https://open.spotify.com/track/2t1hPaHuynRaY3GrANTch4"
+    },
+    {
+      "added_at": "2026-06-19 06:00:39",
+      "album": {
+        "name": "Recuerdos De Ni\u00f1o",
+        "url": "https://open.spotify.com/album/7cHIsnYvCUtwbsjHSQ23Cb"
+      },
+      "artists": [
+        {
+          "name": "Los Sembradores",
+          "url": "https://open.spotify.com/artist/1JVfORNBW6NGm0tJPKdvnm"
+        }
+      ],
+      "duration_ms": 146350,
+      "name": "Recuerdos De Ni\u00f1o",
+      "url": "https://open.spotify.com/track/56xdph8ib9mB3hdwCYvzFK"
     },
     {
       "added_at": "2026-06-19 06:00:39",

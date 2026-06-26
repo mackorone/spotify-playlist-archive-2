@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6SSmRuPuSdo.md) - [plain]
 
 > Enjoy the great mix/master songs and performance lineup songs that Yungin, the main host of Aimfesta 2025, thinks about! \(Aimfesta 2025의 메인 호스트 Yungin이 생각하는 믹스/마스터 적으로 훌륭한 곡들과 공연 라인업 곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,021 likes - 35 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,020 likes - 35 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,6 +42,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6SSmRuPuSdo.md) - [plain]
 | 32 | [White T](https://open.spotify.com/track/50VAzw7CouEmhDSq15RotO) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [Love is a Song](https://open.spotify.com/album/6ikgJKwIzuE1YQ7aJRuJ03) | 3:06 |
 | 33 | [name cost](https://open.spotify.com/track/5T596516m5uQPvNgllo3Ir) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [Love is a Song](https://open.spotify.com/album/6ikgJKwIzuE1YQ7aJRuJ03) | 3:57 |
 | 34 | [MADE IN SEOUL \(Feat\. The Quiett\)](https://open.spotify.com/track/0qqAidmkRKI6OobVx5UgtK) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [MADE IN SEOUL](https://open.spotify.com/album/1ys4Gb4i5EjOGRKTVqnQEH) | 2:52 |
-| 35 | [Skyscraper \(Feat\. JUSTHIS\)](https://open.spotify.com/track/3IbkyQEyVBdMGGKh3UGnmc) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 2:53 |
+| 35 | [Skyscraper \(Feat\. JUSTHIS\)](https://open.spotify.com/track/3IbkyQEyVBdMGGKh3UGnmc) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [저스디스 \(JUSTHIS\)](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 2:53 |
 
 Snapshot ID: `AAAAAH7jv3yTOvcQOf40m7A4P8/OrqGC`

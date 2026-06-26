@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: Ellie Nanni",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Moriah Mensah",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -4184,6 +4184,24 @@
       "duration_ms": 125346,
       "name": "Not A Lot Left To Say",
       "url": "https://open.spotify.com/track/5eNSMklKlKJGwyc8ucG2fv"
+    },
+    {
+      "album": {
+        "name": "Old Gs at Millbrook",
+        "url": "https://open.spotify.com/album/1peRulDfaNGVT954NXowpS"
+      },
+      "artists": [
+        {
+          "name": "Moriah Mensah",
+          "url": "https://open.spotify.com/artist/4jgCVCIIT2pPaemZBYMOYJ"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130266,
+      "name": "Old Gs at Millbrook",
+      "url": "https://open.spotify.com/track/0RzBYjoz2KsHAjDr8nSvft"
     },
     {
       "album": {

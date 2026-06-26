@@ -306,6 +306,24 @@
     {
       "album": {
         "name": "Say Less (Bonus)",
+        "url": "https://open.spotify.com/album/14S5zqF3K8R0XX15aKEXoV"
+      },
+      "artists": [
+        {
+          "name": "Boondawg",
+          "url": "https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178646,
+      "name": "Camouflage",
+      "url": "https://open.spotify.com/track/09WxdzGNCRwnIwNRj2SxUZ"
+    },
+    {
+      "album": {
+        "name": "Say Less (Bonus)",
         "url": "https://open.spotify.com/album/6C9yE5GnQrsrHjXexRn1Cc"
       },
       "artists": [
@@ -334,7 +352,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 178646,
       "name": "Camouflage",
       "url": "https://open.spotify.com/track/4FrUHbUeosjQSYR65AOXOg"
@@ -761,6 +779,24 @@
     },
     {
       "album": {
+        "name": "Say Less (Bonus)",
+        "url": "https://open.spotify.com/album/14S5zqF3K8R0XX15aKEXoV"
+      },
+      "artists": [
+        {
+          "name": "Boondawg",
+          "url": "https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136297,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/5QUYv8Tr6EwFPuwgA4nk2R"
+    },
+    {
+      "album": {
         "name": "Say Less",
         "url": "https://open.spotify.com/album/1IIUr3VeycdEm8O201gGBC"
       },
@@ -772,7 +808,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 136297,
       "name": "Gone",
       "url": "https://open.spotify.com/track/6qVXnHdSd0sRih0Wd0AVst"
@@ -1174,6 +1210,28 @@
     {
       "album": {
         "name": "Say Less (Bonus)",
+        "url": "https://open.spotify.com/album/14S5zqF3K8R0XX15aKEXoV"
+      },
+      "artists": [
+        {
+          "name": "Boondawg",
+          "url": "https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz"
+        },
+        {
+          "name": "Eljero Winchester",
+          "url": "https://open.spotify.com/artist/4QdW2CcWnjVdq3deGqX1ZJ"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217331,
+      "name": "Mr. Olympia - Bonus",
+      "url": "https://open.spotify.com/track/4d9lc7Tpskg2i7rNVHhWSh"
+    },
+    {
+      "album": {
+        "name": "Say Less (Bonus)",
         "url": "https://open.spotify.com/album/6C9yE5GnQrsrHjXexRn1Cc"
       },
       "artists": [
@@ -1210,7 +1268,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 217331,
       "name": "Mr. Olympia - Bonus",
       "url": "https://open.spotify.com/track/55z2FexDa5zs5qVRAUGcRP"
@@ -1246,10 +1304,28 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 213401,
       "name": "Neugeboren",
       "url": "https://open.spotify.com/track/0KKNqbpNixoOnhR42aD51o"
+    },
+    {
+      "album": {
+        "name": "Say Less (Bonus)",
+        "url": "https://open.spotify.com/album/14S5zqF3K8R0XX15aKEXoV"
+      },
+      "artists": [
+        {
+          "name": "Boondawg",
+          "url": "https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213401,
+      "name": "Neugeboren",
+      "url": "https://open.spotify.com/track/5dEyNcW0ZpuczLSsge7KDo"
     },
     {
       "album": {
@@ -1851,6 +1927,28 @@
     },
     {
       "album": {
+        "name": "Say Less (Bonus)",
+        "url": "https://open.spotify.com/album/14S5zqF3K8R0XX15aKEXoV"
+      },
+      "artists": [
+        {
+          "name": "Boondawg",
+          "url": "https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz"
+        },
+        {
+          "name": "LUIS",
+          "url": "https://open.spotify.com/artist/1GdFniPzxbAmIGIn89RwoI"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168960,
+      "name": "Too Many",
+      "url": "https://open.spotify.com/track/7lU5Ai0Zqrq9Kone1nfKVq"
+    },
+    {
+      "album": {
         "name": "Too Many",
         "url": "https://open.spotify.com/album/1b3dICrI5AJBDncrNkJ6fi"
       },
@@ -1866,7 +1964,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 168960,
       "name": "Too Many",
       "url": "https://open.spotify.com/track/7vaLo1bu2w81T8XFk1aIuh"
@@ -2008,7 +2106,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 207030,
       "name": "Water Freestyle",
       "url": "https://open.spotify.com/track/1okXPScEEvEPsW32MIcYfj"
@@ -2034,6 +2132,28 @@
       "duration_ms": 207030,
       "name": "Water Freestyle",
       "url": "https://open.spotify.com/track/4jd9IctLRh2jBUBO1EdYR2"
+    },
+    {
+      "album": {
+        "name": "Say Less (Bonus)",
+        "url": "https://open.spotify.com/album/14S5zqF3K8R0XX15aKEXoV"
+      },
+      "artists": [
+        {
+          "name": "Boondawg",
+          "url": "https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz"
+        },
+        {
+          "name": "Souly",
+          "url": "https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207030,
+      "name": "Water Freestyle",
+      "url": "https://open.spotify.com/track/75CfQ5KmvgV3WsJ8dFOHwJ"
     },
     {
       "album": {

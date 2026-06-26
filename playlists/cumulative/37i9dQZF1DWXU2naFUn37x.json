@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "G.Mineiro in cover della playlist dello street rap italiano \u26d3\ufe0f",
+  "description": "Astro in cover della playlist dello street rap italiano \u26d3\ufe0f",
   "name": "Street Culto",
   "tracks": [
     {
@@ -2154,6 +2154,28 @@
       "duration_ms": 168000,
       "name": "Aston Martin (feat. Headie One)",
       "url": "https://open.spotify.com/track/5yIVCbjYf85Ixuc8ybba6s"
+    },
+    {
+      "album": {
+        "name": "ASTP",
+        "url": "https://open.spotify.com/album/0FD51de5MwzTx730l5ZilT"
+      },
+      "artists": [
+        {
+          "name": "Lory G",
+          "url": "https://open.spotify.com/artist/67tVbMvYcF1OlbyEUpjYs3"
+        },
+        {
+          "name": "Sum M",
+          "url": "https://open.spotify.com/artist/7BIs2dy9J4quveTbB3Yu3t"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115200,
+      "name": "ASTP",
+      "url": "https://open.spotify.com/track/3P3KlwQUfD12ggAmnbfeXt"
     },
     {
       "album": {
@@ -4540,7 +4562,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 227139,
       "name": "Camicia e Zanotti",
       "url": "https://open.spotify.com/track/0sqNyE1IULjfZsjEaH15MK"
@@ -7049,6 +7071,24 @@
     },
     {
       "album": {
+        "name": "DOPE",
+        "url": "https://open.spotify.com/album/0QQo33izNRViZ52jhFvdbY"
+      },
+      "artists": [
+        {
+          "name": "Over Lapa",
+          "url": "https://open.spotify.com/artist/48e0k55AhCw5JzNWf3WsXm"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163750,
+      "name": "DOPE",
+      "url": "https://open.spotify.com/track/4DSrvpTzS6XyCUmZ7vgPvb"
+    },
+    {
+      "album": {
         "name": "Botox",
         "url": "https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr"
       },
@@ -7724,7 +7764,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 186055,
       "name": "F.I.$. (feat. Tedua)",
       "url": "https://open.spotify.com/track/5UVUTLEL671Ozsqfh7Kin7"
@@ -10228,7 +10268,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 173706,
       "name": "HowToBasic (feat. Macello)",
       "url": "https://open.spotify.com/track/4LZxnlgJeHhfbCEE9chEyk"
@@ -12992,7 +13032,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 220000,
       "name": "MARIA",
       "url": "https://open.spotify.com/track/4vbxC18tQdekz9pOEvly2X"
@@ -13678,7 +13718,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 124781,
       "name": "MIAMI (feat. Artie 5ive)",
       "url": "https://open.spotify.com/track/48rkA9TzMZrvkqhzt45XPL"
@@ -14683,6 +14723,24 @@
     },
     {
       "album": {
+        "name": "NAPOLETANA",
+        "url": "https://open.spotify.com/album/6G48WKZtGC03BkW9ZcKadf"
+      },
+      "artists": [
+        {
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136721,
+      "name": "NAPOLETANA",
+      "url": "https://open.spotify.com/track/6DfdaRmIddhoXWX20DWBYy"
+    },
+    {
+      "album": {
         "name": "INNOCENTE",
         "url": "https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58"
       },
@@ -15152,7 +15210,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 164000,
       "name": "Nike e Gucci II (feat. Promessa)",
       "url": "https://open.spotify.com/track/0TBfNWCVIhcW33CeahKjYF"
@@ -17423,6 +17481,24 @@
     },
     {
       "album": {
+        "name": "Pop e perc",
+        "url": "https://open.spotify.com/album/0fmcFrPM8ENiDOzacNGBiz"
+      },
+      "artists": [
+        {
+          "name": "Khodi",
+          "url": "https://open.spotify.com/artist/27P9ESA6J25Jzye2CGWg1n"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119548,
+      "name": "Pop e perc",
+      "url": "https://open.spotify.com/track/0b9qUr2L9LT5zVItVlxLWk"
+    },
+    {
+      "album": {
         "name": "Popolari",
         "url": "https://open.spotify.com/album/7pVRdGC80oCPudqzziRSxq"
       },
@@ -18589,6 +18665,24 @@
     },
     {
       "album": {
+        "name": "RELAX",
+        "url": "https://open.spotify.com/album/7nB40oTh71UL5zChGnLkB7"
+      },
+      "artists": [
+        {
+          "name": "Ceejay",
+          "url": "https://open.spotify.com/artist/6eg2wRWO2S05u2gJjSKaxm"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "RELAX",
+      "url": "https://open.spotify.com/track/0Djxy0p7pplQ9eD6QoyVbw"
+    },
+    {
+      "album": {
         "name": "Responsabile (feat. Nerissima Serpe)",
         "url": "https://open.spotify.com/album/7tyFbNorSj6F0n9zUl25hO"
       },
@@ -18896,6 +18990,24 @@
       "duration_ms": 128450,
       "name": "Rock\u2019n\u2019roll",
       "url": "https://open.spotify.com/track/2YrmLcCAL1TKde6P4zs0CR"
+    },
+    {
+      "album": {
+        "name": "Rodrigo Risivi",
+        "url": "https://open.spotify.com/album/35tkrI72FDhu3SlSjdqrt4"
+      },
+      "artists": [
+        {
+          "name": "Dagood YL",
+          "url": "https://open.spotify.com/artist/4zHxCzvTEP15QarBTgB9hw"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164707,
+      "name": "Rodrigo Risivi",
+      "url": "https://open.spotify.com/track/6uaOFCMlR4oF0UXZKecenU"
     },
     {
       "album": {
@@ -19356,7 +19468,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 159574,
       "name": "SCARAFAGGI (feat. Danno)",
       "url": "https://open.spotify.com/track/4cgGC1Zyv1FwgikPYdxDe9"
@@ -21126,6 +21238,28 @@
       "duration_ms": 144657,
       "name": "Suicide Doors",
       "url": "https://open.spotify.com/track/3S0CGNd6V6XzHlQcbZlgiQ"
+    },
+    {
+      "album": {
+        "name": "sconosciuto",
+        "url": "https://open.spotify.com/album/4Bezap3LZLrIY6dNodpAp1"
+      },
+      "artists": [
+        {
+          "name": "UNK",
+          "url": "https://open.spotify.com/artist/7hs3MC7AhseBcED6K2bysr"
+        },
+        {
+          "name": "18K",
+          "url": "https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196562,
+      "name": "SUICIDEROOM (feat. 18K)",
+      "url": "https://open.spotify.com/track/73181fRFgeN6UpKe3FZcce"
     },
     {
       "album": {

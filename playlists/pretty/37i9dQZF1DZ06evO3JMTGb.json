@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajnMgAAAAABJ3Wu/7UMb+0iBMTZkGaqR",
+  "snapshot_id": "ajseAAAAAAA3xa3xnfaiuNP8cF7gMpjO",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Calibrating Senses",
-        "url": "https://open.spotify.com/album/4bkwSPS4JuOPwU9eoCpb7Z"
+        "name": "Goddag",
+        "url": "https://open.spotify.com/album/5vTtvfZpDA43UByWvWKGJ6"
       },
       "artists": [
         {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+          "name": "Phine & Ormen",
+          "url": "https://open.spotify.com/artist/4PWhdZlouA7l04j7YpUKuO"
         },
         {
-          "name": "Johan Car\u00f8e",
-          "url": "https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw"
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
         }
       ],
-      "duration_ms": 102000,
-      "name": "Portal Of",
-      "url": "https://open.spotify.com/track/1cVO0Xcf4ZhZXjz2NOSBZI"
+      "duration_ms": 160000,
+      "name": "Jeg Kan S\u00e5 Godt Li Blomster",
+      "url": "https://open.spotify.com/track/1XNIYQR740vVEBilo0QlWM"
     },
     {
       "added_at": null,
@@ -515,22 +515,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goddag",
-        "url": "https://open.spotify.com/album/5vTtvfZpDA43UByWvWKGJ6"
+        "name": "Calibrating Senses",
+        "url": "https://open.spotify.com/album/4bkwSPS4JuOPwU9eoCpb7Z"
       },
       "artists": [
         {
-          "name": "Phine & Ormen",
-          "url": "https://open.spotify.com/artist/4PWhdZlouA7l04j7YpUKuO"
-        },
-        {
           "name": "Sofie Birch",
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Johan Car\u00f8e",
+          "url": "https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Jeg Kan S\u00e5 Godt Li Blomster",
-      "url": "https://open.spotify.com/track/1XNIYQR740vVEBilo0QlWM"
+      "duration_ms": 102000,
+      "name": "Portal Of",
+      "url": "https://open.spotify.com/track/1cVO0Xcf4ZhZXjz2NOSBZI"
     },
     {
       "added_at": null,
@@ -555,46 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Calibrating Senses",
-        "url": "https://open.spotify.com/album/4bkwSPS4JuOPwU9eoCpb7Z"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        },
-        {
-          "name": "Johan Car\u00f8e",
-          "url": "https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Connotes Beauty",
-      "url": "https://open.spotify.com/track/5b89aevKt1ynGCX26kToQ6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Languoria",
-        "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        },
-        {
-          "name": "Antonina Nowacka",
-          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
-        }
-      ],
-      "duration_ms": 295789,
-      "name": "The Journey",
-      "url": "https://open.spotify.com/track/7ncpJdSRl6DYSA6vw4vhbg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Planetes",
         "url": "https://open.spotify.com/album/7mgSukUn1BYjvnzNWCruCf"
       },
@@ -607,42 +567,6 @@
       "duration_ms": 274115,
       "name": "Begin Sync End",
       "url": "https://open.spotify.com/track/4eqsRAIh3ZxHbV9uvW5oa3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "2nd Quake",
-        "url": "https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB"
-      },
-      "artists": [
-        {
-          "name": "OTOOTO",
-          "url": "https://open.spotify.com/artist/4bTgYIf70ESA9P1HYj7chQ"
-        },
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 234502,
-      "name": "Runge",
-      "url": "https://open.spotify.com/track/1ox3vHoIccsiV7t86Zw3RF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Whisper Fold Brush",
-        "url": "https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 1190161,
-      "name": "Whisper Fold Brush, Pt. One",
-      "url": "https://open.spotify.com/track/2onDSsrIdCaAm9p5ji0bbk"
     },
     {
       "added_at": null,
@@ -667,6 +591,82 @@
     {
       "added_at": null,
       "album": {
+        "name": "Calibrating Senses",
+        "url": "https://open.spotify.com/album/4bkwSPS4JuOPwU9eoCpb7Z"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Johan Car\u00f8e",
+          "url": "https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Connotes Beauty",
+      "url": "https://open.spotify.com/track/5b89aevKt1ynGCX26kToQ6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whisper Fold Brush",
+        "url": "https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 1190161,
+      "name": "Whisper Fold Brush, Pt. One",
+      "url": "https://open.spotify.com/track/2onDSsrIdCaAm9p5ji0bbk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2nd Quake",
+        "url": "https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB"
+      },
+      "artists": [
+        {
+          "name": "OTOOTO",
+          "url": "https://open.spotify.com/artist/4bTgYIf70ESA9P1HYj7chQ"
+        },
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 234502,
+      "name": "Runge",
+      "url": "https://open.spotify.com/track/1ox3vHoIccsiV7t86Zw3RF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Languoria",
+        "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Antonina Nowacka",
+          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
+        }
+      ],
+      "duration_ms": 295789,
+      "name": "The Journey",
+      "url": "https://open.spotify.com/track/7ncpJdSRl6DYSA6vw4vhbg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Island Alchemy",
         "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
       },
@@ -679,6 +679,22 @@
       "duration_ms": 364837,
       "name": "Net (Neverendingthing)",
       "url": "https://open.spotify.com/track/1cw9KWKpaqFS2c8HFV27zV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hidden Terraces",
+        "url": "https://open.spotify.com/album/2POudgO00jsxmmUAwJhh7c"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 1087000,
+      "name": "Morgen\u00e5nder",
+      "url": "https://open.spotify.com/track/3OtCjXOx1v2GEEDtxmmXWA"
     },
     {
       "added_at": null,
@@ -699,22 +715,6 @@
       "duration_ms": 298865,
       "name": "Endowment",
       "url": "https://open.spotify.com/track/2YMtUI0kiCkurTqSCFbEtv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hidden Terraces",
-        "url": "https://open.spotify.com/album/2POudgO00jsxmmUAwJhh7c"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 1087000,
-      "name": "Morgen\u00e5nder",
-      "url": "https://open.spotify.com/track/3OtCjXOx1v2GEEDtxmmXWA"
     },
     {
       "added_at": null,
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
         }
       ],
-      "duration_ms": 185870,
-      "name": "Lace",
-      "url": "https://open.spotify.com/track/5PEiAHjdDWcyzVfY7b63o6"
+      "duration_ms": 318101,
+      "name": "2nd Quake",
+      "url": "https://open.spotify.com/track/6BA5BBreQeelzjmpZSSlUv"
     }
   ],
   "unique_name": "This Is Sofie Birch",

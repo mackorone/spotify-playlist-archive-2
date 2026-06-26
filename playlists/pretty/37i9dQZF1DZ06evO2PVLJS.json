@@ -1,12 +1,12 @@
 {
   "description": "This is Vicente Fern\u00e1ndez. The essential tracks, all in one playlist.",
-  "num_followers": 1127673,
+  "num_followers": 1127751,
   "original_name": "This Is Vicente Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajnMgAAAAADktk70r7CuEk2n+cc7RRCw",
+  "snapshot_id": "ajseAAAAAAD3SYCUmCjNsc3tcQnGC/b9",
   "tracks": [
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Pesar De Todo",
-        "url": "https://open.spotify.com/album/2AlSrJCTDnDJdMV7mjNRso"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 203306,
-      "name": "Miraron Llorar a un Hombre",
-      "url": "https://open.spotify.com/track/2FkpqyehpuEhvkEMsOEg69"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Idolo De Mexico",
         "url": "https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 186160,
       "name": "El Arracadas",
       "url": "https://open.spotify.com/track/23RNaVmsNrlRAe42wR5NkB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Pesar De Todo",
+        "url": "https://open.spotify.com/album/2AlSrJCTDnDJdMV7mjNRso"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 203306,
+      "name": "Miraron Llorar a un Hombre",
+      "url": "https://open.spotify.com/track/2FkpqyehpuEhvkEMsOEg69"
     },
     {
       "added_at": null,

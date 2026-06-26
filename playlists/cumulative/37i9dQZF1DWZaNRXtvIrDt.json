@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "A new world of alternative electronic music. Cover: Surusinghe",
+  "description": "A new world of alternative electronic music. Cover: HAAi",
   "name": "Portal",
   "tracks": [
     {
@@ -386,6 +386,24 @@
       "duration_ms": 173337,
       "name": "808",
       "url": "https://open.spotify.com/track/1ZeZjflXJotwHx4uNX8QoK"
+    },
+    {
+      "album": {
+        "name": "15 Years of Butter Sessions - Disc One",
+        "url": "https://open.spotify.com/album/5ZWuvwjTsQZaFrwpBx6vOt"
+      },
+      "artists": [
+        {
+          "name": "Fader Cap",
+          "url": "https://open.spotify.com/artist/2j2rkTK1Mg7vu3yBAcu5a6"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314000,
+      "name": "86 Chambers",
+      "url": "https://open.spotify.com/track/4DhIvRiqbC8biSAt2nfw0G"
     },
     {
       "album": {
@@ -2026,7 +2044,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 228021,
       "name": "Baladna (Our Country)",
       "url": "https://open.spotify.com/track/647TvHAy31UijvOAYXg6Yh"
@@ -3192,6 +3210,24 @@
       "duration_ms": 169730,
       "name": "Break",
       "url": "https://open.spotify.com/track/3JNS1gdHgr8fms90xGqmzP"
+    },
+    {
+      "album": {
+        "name": "Break Cycle",
+        "url": "https://open.spotify.com/album/0W1Abygr7OuvZdAY3Pm2wV"
+      },
+      "artists": [
+        {
+          "name": "Kassian",
+          "url": "https://open.spotify.com/artist/4w6VhlUuzrUoJ5NbCpefXx"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311000,
+      "name": "Break Cycle",
+      "url": "https://open.spotify.com/track/01gSUZsQsAOvz5MazeYesw"
     },
     {
       "album": {
@@ -4710,7 +4746,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 282632,
       "name": "Crush",
       "url": "https://open.spotify.com/track/75KuWJNM0WaXnDlLBprBJV"
@@ -5379,6 +5415,28 @@
     },
     {
       "album": {
+        "name": "DIGITiSE",
+        "url": "https://open.spotify.com/album/3wgramFhznwdYSxucYuTQw"
+      },
+      "artists": [
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        },
+        {
+          "name": "Pat Alvarez",
+          "url": "https://open.spotify.com/artist/44rUL8RUXtDCmb8Mtjy5kp"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246857,
+      "name": "DIGITiSE",
+      "url": "https://open.spotify.com/track/3BGWPMnHswMQh1OBXZ8qaf"
+    },
+    {
+      "album": {
         "name": "Forward Step",
         "url": "https://open.spotify.com/album/1IIy8SMWVCxqvLTv5u2cFQ"
       },
@@ -5564,7 +5622,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 390000,
       "name": "Doin' It All 4 U - Lovetempo Remix",
       "url": "https://open.spotify.com/track/5nA7GhofX2ljMqDe1eCjth"
@@ -5688,6 +5746,28 @@
       "duration_ms": 241777,
       "name": "Don't Touch Me Baby",
       "url": "https://open.spotify.com/track/71AfT3Bewb71c8108NgOMU"
+    },
+    {
+      "album": {
+        "name": "Don't You Want My Love",
+        "url": "https://open.spotify.com/album/26sj4Z6eywTIWHNBmN5Sw0"
+      },
+      "artists": [
+        {
+          "name": "CC:DISCO!",
+          "url": "https://open.spotify.com/artist/37fxVoFAMzet5CiiDg7SL7"
+        },
+        {
+          "name": "Manuel Darquart",
+          "url": "https://open.spotify.com/artist/0mumYdYeqKkr99t3iDEHGS"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341500,
+      "name": "Don't You Want My Love",
+      "url": "https://open.spotify.com/track/6WeFRRqIox3cCwDRAQuLZ5"
     },
     {
       "album": {
@@ -7980,7 +8060,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 253975,
       "name": "Funk Lovin' Criminal",
       "url": "https://open.spotify.com/track/7gBP3ceeVb0smR7XSiVi4A"
@@ -12904,7 +12984,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 372470,
       "name": "Move Steady",
       "url": "https://open.spotify.com/track/44jabD6Z3WdKMh6t17NwH5"
@@ -15537,6 +15617,24 @@
     },
     {
       "album": {
+        "name": "Razor",
+        "url": "https://open.spotify.com/album/2XzsEKrM6OIe3gRz11GGsz"
+      },
+      "artists": [
+        {
+          "name": "Eden Burns",
+          "url": "https://open.spotify.com/artist/6lItMkb0pYOU1DvFUWgYo2"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400231,
+      "name": "Razor",
+      "url": "https://open.spotify.com/track/1b9DBkeVKlbFmxWsxA57px"
+    },
+    {
+      "album": {
         "name": "RB3",
         "url": "https://open.spotify.com/album/7ICteuiidF1pKca1tyX0A8"
       },
@@ -16072,7 +16170,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 335665,
       "name": "Rubbing",
       "url": "https://open.spotify.com/track/4miQKb9E3kVOFwHXcqfDxv"
@@ -20527,6 +20625,24 @@
     },
     {
       "album": {
+        "name": "23 Seconds",
+        "url": "https://open.spotify.com/album/2MMcwowj39fvb0QvqmOCwg"
+      },
+      "artists": [
+        {
+          "name": "Cobblestone Jazz",
+          "url": "https://open.spotify.com/artist/2dT7QUNxVkOLhlNO7mF5b3"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 506552,
+      "name": "W",
+      "url": "https://open.spotify.com/track/5qa6lvwEGEzb4dyFswODX9"
+    },
+    {
+      "album": {
         "name": "Waaalk",
         "url": "https://open.spotify.com/album/2jDwGQw9Xi02RkNuTquVuV"
       },
@@ -20538,7 +20654,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 323440,
       "name": "Waaalk",
       "url": "https://open.spotify.com/track/5ZzxwSEbO6BSyJtOtdAs7w"
@@ -21412,6 +21528,24 @@
       "duration_ms": 350831,
       "name": "World Collapsing - jamesjamesjames Remix",
       "url": "https://open.spotify.com/track/3CUAmU1RaZwlD7HlOmrAMc"
+    },
+    {
+      "album": {
+        "name": "Wrong",
+        "url": "https://open.spotify.com/album/7A7X59YwsaNXrDj1sq6u3E"
+      },
+      "artists": [
+        {
+          "name": "moktar",
+          "url": "https://open.spotify.com/artist/6jMORNptwLDBn8ujqRLbxa"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269000,
+      "name": "Wrong",
+      "url": "https://open.spotify.com/track/735lM18iNkmBwXHmUpktPx"
     },
     {
       "album": {

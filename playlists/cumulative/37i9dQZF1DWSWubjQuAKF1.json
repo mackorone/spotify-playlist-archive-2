@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Manya",
+  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Hugo Tarres",
   "name": "up next",
   "tracks": [
     {
@@ -374,7 +374,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 234719,
       "name": "Ajabym",
       "url": "https://open.spotify.com/track/3iHBWAK3zlN2267gZtofuv"
@@ -2192,7 +2192,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 168965,
       "name": "chce Twoje zarazki",
       "url": "https://open.spotify.com/track/4RNfRk8YAv28vlF3bplP2t"
@@ -3791,6 +3791,24 @@
     },
     {
       "album": {
+        "name": "Dreszcze",
+        "url": "https://open.spotify.com/album/6BlYxjMh6IOceHZcWYp4ZN"
+      },
+      "artists": [
+        {
+          "name": "Martyna Baranowska",
+          "url": "https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159567,
+      "name": "Dreszcze",
+      "url": "https://open.spotify.com/track/4sXAOQVBABdN75iM7DijDL"
+    },
+    {
+      "album": {
         "name": "drink\u0142ykshot",
         "url": "https://open.spotify.com/album/1kolE1AX5sUoKmnh7eyGzM"
       },
@@ -4150,6 +4168,24 @@
       "duration_ms": 153750,
       "name": "ESCAPE",
       "url": "https://open.spotify.com/track/2Dlc3NKzeU8xybT6R8iQm0"
+    },
+    {
+      "album": {
+        "name": "Esmeralda",
+        "url": "https://open.spotify.com/album/7rRxYzy6yDNhY7KWQ0NSCl"
+      },
+      "artists": [
+        {
+          "name": "Daniel Godson",
+          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171516,
+      "name": "Esmeralda",
+      "url": "https://open.spotify.com/track/1zlYK4S2HHhQWntlXq2t6P"
     },
     {
       "album": {
@@ -4580,6 +4616,24 @@
       "duration_ms": 175759,
       "name": "gdyby\u015b istnia\u0142",
       "url": "https://open.spotify.com/track/6bqFDYGOfZccRDqsbae9we"
+    },
+    {
+      "album": {
+        "name": "Gdzie jest Frank Ocean?",
+        "url": "https://open.spotify.com/album/4zjQp7uLgt5DQoIanOrp1v"
+      },
+      "artists": [
+        {
+          "name": "Frank Leen",
+          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211764,
+      "name": "Gdzie jest Frank Ocean?",
+      "url": "https://open.spotify.com/track/0Zl4Qc9ykqydUmTvbc145L"
     },
     {
       "album": {
@@ -6867,6 +6921,24 @@
     },
     {
       "album": {
+        "name": "LALALA",
+        "url": "https://open.spotify.com/album/7D6h8sNq24s7PKnVrOoYJO"
+      },
+      "artists": [
+        {
+          "name": "Barnim",
+          "url": "https://open.spotify.com/artist/4Bp6oWHVWsocBpnqFJP4Zj"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125882,
+      "name": "LALALA",
+      "url": "https://open.spotify.com/track/51n0lzfSu7ehexBNIwlpGc"
+    },
+    {
+      "album": {
         "name": "Lato",
         "url": "https://open.spotify.com/album/73UdWdEcJuIm1is5aJi0tf"
       },
@@ -6896,7 +6968,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 196000,
       "name": "Lawenda",
       "url": "https://open.spotify.com/track/0drGhZGTBdkiqzRpMjyM9b"
@@ -7236,7 +7308,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 199186,
       "name": "Lustro",
       "url": "https://open.spotify.com/track/5oX4vOfPBdUu43mO8gtv8o"
@@ -7734,6 +7806,32 @@
       "duration_ms": 177750,
       "name": "Mia\u0142e\u015b by\u0107",
       "url": "https://open.spotify.com/track/6VZZhPyAo9U7ZTBRXduWBH"
+    },
+    {
+      "album": {
+        "name": "Midnight Echoes",
+        "url": "https://open.spotify.com/album/3I6PSzNiPefKTnEnCaoH8c"
+      },
+      "artists": [
+        {
+          "name": "Dominik Dudek",
+          "url": "https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx"
+        },
+        {
+          "name": "Francis On My Mind",
+          "url": "https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc"
+        },
+        {
+          "name": "Albert RCB",
+          "url": "https://open.spotify.com/artist/2suB8DxwVd3W7nXcZkLRZc"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Midnight Echoes",
+      "url": "https://open.spotify.com/track/0dHNJPhlBpk1f65kRmwoWj"
     },
     {
       "album": {
@@ -9597,6 +9695,24 @@
     },
     {
       "album": {
+        "name": "Ironic?",
+        "url": "https://open.spotify.com/album/6H1ou0W0EZl6JO6CyjU8Df"
+      },
+      "artists": [
+        {
+          "name": "Jea Mira",
+          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152312,
+      "name": "NIGHT OUT",
+      "url": "https://open.spotify.com/track/2I0d5mI7uU4NqJJ9uD9fmK"
+    },
+    {
+      "album": {
         "name": "Nikt nie kocha tak jak my",
         "url": "https://open.spotify.com/album/6lhSc2frDZ90V9cEUx46ii"
       },
@@ -9745,6 +9861,24 @@
     },
     {
       "album": {
+        "name": "TRYSK",
+        "url": "https://open.spotify.com/album/5A5b9CLivXyFVXaaP4Uv4X"
+      },
+      "artists": [
+        {
+          "name": "IKARVS",
+          "url": "https://open.spotify.com/artist/2nIhOTkDDboRX6RsNMg8wg"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177454,
+      "name": "noktowizja",
+      "url": "https://open.spotify.com/track/0DIv99kVsswFdhqaLwBEJL"
+    },
+    {
+      "album": {
         "name": "Not At This Party",
         "url": "https://open.spotify.com/album/3HeSxkLXlUx9ugabrCXa4t"
       },
@@ -9846,7 +9980,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 172806,
       "name": "O mi\u0142o\u015bci, nie ten czas",
       "url": "https://open.spotify.com/track/2VhzXR9w6jnapPqoHDBwX3"
@@ -10591,6 +10725,24 @@
     },
     {
       "album": {
+        "name": "PARANOJA",
+        "url": "https://open.spotify.com/album/3QtM4vAwBExJsuWJSnx7dz"
+      },
+      "artists": [
+        {
+          "name": "Hugo Tarres",
+          "url": "https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116885,
+      "name": "PARANOJA",
+      "url": "https://open.spotify.com/track/7o42yfJFnEldFhMN7bAT4D"
+    },
+    {
+      "album": {
         "name": "Pasmo Nocne",
         "url": "https://open.spotify.com/album/6v5esqO3xg2ehMuaz85yod"
       },
@@ -11276,7 +11428,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 208055,
       "name": "powiem/nie powiem",
       "url": "https://open.spotify.com/track/509mth4lw2dQQcGXtKMHDc"
@@ -11478,6 +11630,24 @@
       "duration_ms": 157974,
       "name": "PRZEPRASZAM",
       "url": "https://open.spotify.com/track/4SjKuoNNQY5KDX63ryLNPF"
+    },
+    {
+      "album": {
+        "name": "PRZY TOBIE",
+        "url": "https://open.spotify.com/album/5gcQhuYnWRlB7ZcIyD7iOB"
+      },
+      "artists": [
+        {
+          "name": "HELA",
+          "url": "https://open.spotify.com/artist/0kDheRc8ZXm7cEBSIcb3dj"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188976,
+      "name": "PRZY TOBIE",
+      "url": "https://open.spotify.com/track/6IunjfJaJElmdpudshkY6U"
     },
     {
       "album": {
@@ -11818,7 +11988,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 147789,
       "name": "Rachunek na mnie",
       "url": "https://open.spotify.com/track/528dBAwnKHf5O7ZjpXdD3D"
@@ -14101,6 +14271,24 @@
     },
     {
       "album": {
+        "name": "To jest to!",
+        "url": "https://open.spotify.com/album/7iYXIbb20iKje5Qna9Mf63"
+      },
+      "artists": [
+        {
+          "name": "Wiktor Walig\u00f3ra",
+          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205641,
+      "name": "To jest to!",
+      "url": "https://open.spotify.com/track/1I7nEa7aWULffUDCJrkhVp"
+    },
+    {
+      "album": {
         "name": "To nie koniec",
         "url": "https://open.spotify.com/album/4NAFphZqgSKwL8BFiOIbXG"
       },
@@ -14292,7 +14480,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 159473,
       "name": "TopOff",
       "url": "https://open.spotify.com/track/6EmqcmEbc9XHhleW2rBfvm"
@@ -14940,7 +15128,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 203936,
       "name": "W snach",
       "url": "https://open.spotify.com/track/5FpxCMdHZTVGvHJVtrkBDk"
@@ -15652,7 +15840,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 172193,
       "name": "Wspania\u0142y to by\u0142 rok",
       "url": "https://open.spotify.com/track/4068vxwJ0XFCw4M5qtanIV"

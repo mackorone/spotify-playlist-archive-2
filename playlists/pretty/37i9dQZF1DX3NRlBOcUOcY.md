@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 
 > Good vibes only! Aquí solo hay buena vibra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,279 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,282 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 | 89 | [Acapulco \(feat\. Fede Vigevani\)](https://open.spotify.com/track/47G2PT16EOFO0EMSGG9hII) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn), [Fede Vigevani](https://open.spotify.com/artist/3CuloJ8QY3IiCwna8Q6SOr) | [Acapulco \(feat\. Fede Vigevani\)](https://open.spotify.com/album/0C2CUmnQqPs9iepBZr5v63) | 3:31 |
 | 90 | [AZOLEAO](https://open.spotify.com/track/1o7orLqjr0u5EbTnxsPp4N) | [Zalek](https://open.spotify.com/artist/7wGIP46NCaUDHkLrGyabsE), [Flovv coco](https://open.spotify.com/artist/6IUsZuEhV1j9DsdMnCnleu) | [AZOLEAO](https://open.spotify.com/album/4xiQ2wrEzUeQg8OimLtaEH) | 2:15 |
 | 91 | [Ánimo](https://open.spotify.com/track/7ze0MX6Gwoosk1QPia2GGZ) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Ánimo](https://open.spotify.com/album/4wVGGSFFjp7AhOs7LsdquC) | 2:37 |
-| 92 | [Sagitario](https://open.spotify.com/track/3mnB1sPrhZNqEsywmwqN4E) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Sagitario](https://open.spotify.com/album/5lEYaDSKTg2dvBFf3Cj0vf) | 2:48 |
-| 93 | [UNA COMO TÚ](https://open.spotify.com/track/5WroykksLsgGGMkjc1rNVP) | [Jhay P](https://open.spotify.com/artist/4NGOJedxkGWwkbB5QiSJd1) | [UNA COMO TÚ](https://open.spotify.com/album/0r2l4seULfjhxvH3hOwQlY) | 2:16 |
+| 92 | [UNA COMO TÚ](https://open.spotify.com/track/5WroykksLsgGGMkjc1rNVP) | [Jhay P](https://open.spotify.com/artist/4NGOJedxkGWwkbB5QiSJd1) | [UNA COMO TÚ](https://open.spotify.com/album/0r2l4seULfjhxvH3hOwQlY) | 2:16 |
+| 93 | [Sagitario](https://open.spotify.com/track/3mnB1sPrhZNqEsywmwqN4E) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Sagitario](https://open.spotify.com/album/5lEYaDSKTg2dvBFf3Cj0vf) | 2:48 |
 | 94 | [Luna Llena](https://open.spotify.com/track/0w37XvWazgBzY1bD0Pi0yz) | [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Luna Llena](https://open.spotify.com/album/4hInLhxtl2xGXS5FIpPSNr) | 2:30 |
 | 95 | [Simancongo](https://open.spotify.com/track/1Wj1kChsSgwQp0DXq4ursv) | [Zapapaya](https://open.spotify.com/artist/2qDwLZAEADFu1KEpO3y126), [Son Palenque](https://open.spotify.com/artist/3VyjbWEHPjc9JEXsk6Tk2w), [KSPR](https://open.spotify.com/artist/16VP7T1aDDIbSmVYxonevJ), [Montaigne](https://open.spotify.com/artist/6kzjCLv7yCjBOxwHTX9p47) | [Simancongo](https://open.spotify.com/album/1u7tTBpvuRBC21fpC11ocO) | 3:06 |
 | 96 | [Usame](https://open.spotify.com/track/38wIbM05SFodYw2fwiq5ut) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk), [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z) | [Usame](https://open.spotify.com/album/2FuMEHblngX534yhdoSkag) | 2:45 |

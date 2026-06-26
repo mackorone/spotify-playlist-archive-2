@@ -1,12 +1,12 @@
 {
   "description": "This is John Lee Hooker. The essential tracks, all in one playlist.",
-  "num_followers": 52484,
+  "num_followers": 52490,
   "original_name": "This Is John Lee Hooker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajnMgAAAAACpiLgh4+vzMjqwED0W+3x2",
+  "snapshot_id": "ajseAAAAAACZHtPAMH+2NvsnOGrdgn/T",
   "tracks": [
     {
       "added_at": null,
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burnin'",
-        "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 229150,
-      "name": "Blues Before Sunrise",
-      "url": "https://open.spotify.com/track/0gHeDEGKk5Pnm3LfgrY9tG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shake",
         "url": "https://open.spotify.com/album/6X76YOntJCyiiFvaIZgRdA"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 296986,
       "name": "I Lay Down",
       "url": "https://open.spotify.com/track/1ZNcJrNdX4HbO6NGj8tlaL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burnin'",
+        "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 229150,
+      "name": "Blues Before Sunrise",
+      "url": "https://open.spotify.com/track/0gHeDEGKk5Pnm3LfgrY9tG"
     },
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whiskey & Wimmen: John Lee Hooker's Finest",
-        "url": "https://open.spotify.com/album/2IREyf1bkFTWuZMCayQ5V7"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 148013,
-      "name": "I Need Some Money",
-      "url": "https://open.spotify.com/track/4SjUzT00ytvjmhpd2LaWDo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best Of John Lee Hooker 1965 To 1974",
         "url": "https://open.spotify.com/album/1cEQBXubvMi6htzSm1GKzI"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 169466,
       "name": "The Motor City Is Burning",
       "url": "https://open.spotify.com/track/4UBTrrSotbB1DaRbapsR0R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whiskey & Wimmen: John Lee Hooker's Finest",
+        "url": "https://open.spotify.com/album/2IREyf1bkFTWuZMCayQ5V7"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 148013,
+      "name": "I Need Some Money",
+      "url": "https://open.spotify.com/track/4SjUzT00ytvjmhpd2LaWDo"
     },
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "More Real Folk Blues: The Missing Album",
+        "url": "https://open.spotify.com/album/5lwxL0qai9arfOIorpQL11"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 208800,
+      "name": "I Can't Quit You Baby",
+      "url": "https://open.spotify.com/track/1RgxsdVXU33n2po7sFdMHD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chill Out",
         "url": "https://open.spotify.com/album/1gHlGo1eKQl5ppd7pdihNy"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 386973,
       "name": "Serves Me Right to Suffer / Syndicator - feat. Van Morrison - 2007 Remaster",
       "url": "https://open.spotify.com/track/7cdA9MmxoRwjpYFDO0TEhs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "More Real Folk Blues: The Missing Album",
-        "url": "https://open.spotify.com/album/5lwxL0qai9arfOIorpQL11"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 208800,
-      "name": "I Can't Quit You Baby",
-      "url": "https://open.spotify.com/track/1RgxsdVXU33n2po7sFdMHD"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boom Boom (2007 Remaster)",
-        "url": "https://open.spotify.com/album/0keiVYLEe5RKFslw9X9veN"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 373933,
-      "name": "Same Old Blues Again - 2007 - Remaster",
-      "url": "https://open.spotify.com/track/7kiAAOa7TgKXQFDJxWxDwb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shake",
         "url": "https://open.spotify.com/album/7iW0lg3yMzmO47L2yjCBHn"
       },
@@ -583,22 +567,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Lucky",
-        "url": "https://open.spotify.com/album/3t99XEvm7voCGPI7Od66FZ"
+        "name": "Boom Boom (2007 Remaster)",
+        "url": "https://open.spotify.com/album/0keiVYLEe5RKFslw9X9veN"
       },
       "artists": [
         {
           "name": "John Lee Hooker",
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "Robert Cray",
-          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
         }
       ],
-      "duration_ms": 281386,
-      "name": "Mr. Lucky - feat. Robert Cray",
-      "url": "https://open.spotify.com/track/5UEdjD2S5gZwvOVYwIx3oL"
+      "duration_ms": 373933,
+      "name": "Same Old Blues Again - 2007 - Remaster",
+      "url": "https://open.spotify.com/track/7kiAAOa7TgKXQFDJxWxDwb"
     },
     {
       "added_at": null,
@@ -615,6 +595,26 @@
       "duration_ms": 150906,
       "name": "I Can't Stand To Leave You",
       "url": "https://open.spotify.com/track/5fYjLvAzuZSYDjC20B2WOt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mr. Lucky",
+        "url": "https://open.spotify.com/album/3t99XEvm7voCGPI7Od66FZ"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "Robert Cray",
+          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
+        }
+      ],
+      "duration_ms": 281386,
+      "name": "Mr. Lucky - feat. Robert Cray",
+      "url": "https://open.spotify.com/track/5UEdjD2S5gZwvOVYwIx3oL"
     },
     {
       "added_at": null,

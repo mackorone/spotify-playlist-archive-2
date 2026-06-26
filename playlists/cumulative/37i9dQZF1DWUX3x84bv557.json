@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Frisse Nederlandse pop. Cover: Benjamin",
+  "description": "Frisse Nederlandse pop. Cover: Roxy Dekker",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -1436,7 +1436,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 136935,
       "name": "Alles of Niets",
       "url": "https://open.spotify.com/track/5OC1jrn8jYlBj3W5OmfHkJ"
@@ -1898,7 +1898,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 161782,
       "name": "Als Je De Keuze Had",
       "url": "https://open.spotify.com/track/1FZM8dP0aTz018IYwdGH46"
@@ -5210,7 +5210,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 179310,
       "name": "De Kroeg",
       "url": "https://open.spotify.com/track/2BQUkwFfjxOerNgb3SEG7P"
@@ -5250,6 +5250,24 @@
       "duration_ms": 174957,
       "name": "De Laatste Keer Dat Ik Huil",
       "url": "https://open.spotify.com/track/1IFzQTzO3M8TFkGEX8NxtR"
+    },
+    {
+      "album": {
+        "name": "lieve monsters: epiloog",
+        "url": "https://open.spotify.com/album/6xMq7H65IFjuxIJ5JWLnmr"
+      },
+      "artists": [
+        {
+          "name": "Sef",
+          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204184,
+      "name": "de laatste zomer",
+      "url": "https://open.spotify.com/track/38CzuqJ1HtzsPinaZLmNy7"
     },
     {
       "album": {
@@ -7717,6 +7735,24 @@
     },
     {
       "album": {
+        "name": "Just A Lover Girl (Deluxe)",
+        "url": "https://open.spotify.com/album/4Z0To29ffE0htwxvucjMf0"
+      },
+      "artists": [
+        {
+          "name": "Kaya Imani",
+          "url": "https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117000,
+      "name": "Gevaarlijk",
+      "url": "https://open.spotify.com/track/7kuPk2p387tnOYTTGu0FmK"
+    },
+    {
+      "album": {
         "name": "Gevaarlijk",
         "url": "https://open.spotify.com/album/5FZ2kafK488rGGza5KmfSM"
       },
@@ -9282,8 +9318,8 @@
       },
       "artists": [
         {
-          "name": "Kiya",
-          "url": "https://open.spotify.com/artist/5AmyUXItyIVvSaIMO4seW9"
+          "name": "Kiya van Rossum",
+          "url": "https://open.spotify.com/artist/7KPAEc0pqS6UcwvwlSEo7h"
         }
       ],
       "date_added": "2026-04-23",
@@ -10345,6 +10381,24 @@
     },
     {
       "album": {
+        "name": "Hypocriet",
+        "url": "https://open.spotify.com/album/3i5jFbergniuEq3DnpBE2Q"
+      },
+      "artists": [
+        {
+          "name": "Tessa June",
+          "url": "https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160532,
+      "name": "Hypocriet",
+      "url": "https://open.spotify.com/track/4xtPvPsghLZNCiifdABJ0r"
+    },
+    {
+      "album": {
         "name": "Iconisch",
         "url": "https://open.spotify.com/album/1gfcL8Tie2oJUhC0Y0ELCW"
       },
@@ -10754,6 +10808,24 @@
       "duration_ms": 186600,
       "name": "Ik Denk Aan Jou",
       "url": "https://open.spotify.com/track/0Wl180gnGlUgIR6BJt7SSD"
+    },
+    {
+      "album": {
+        "name": "Ik Droom Alvast Van Jou",
+        "url": "https://open.spotify.com/album/2kHjvxjrHroXi2jlBm4iFh"
+      },
+      "artists": [
+        {
+          "name": "BENR",
+          "url": "https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156980,
+      "name": "Ik Droom Alvast Van Jou",
+      "url": "https://open.spotify.com/track/10fXUjOffC01ye6N151DGj"
     },
     {
       "album": {
@@ -12782,7 +12854,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 161427,
       "name": "Koning",
       "url": "https://open.spotify.com/track/0iEx4vifhq4fhi2qoqcfSJ"
@@ -15462,6 +15534,24 @@
       "duration_ms": 158571,
       "name": "Misschien Crazy",
       "url": "https://open.spotify.com/track/21kjeeV4gTtHNCEMclJP0G"
+    },
+    {
+      "album": {
+        "name": "Misschien Is Het Tijd",
+        "url": "https://open.spotify.com/album/4SyQopHqsRexQCsxaADSRa"
+      },
+      "artists": [
+        {
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177169,
+      "name": "Misschien Is Het Tijd",
+      "url": "https://open.spotify.com/track/0u0eIoOtfk3u7f6BNPJhWm"
     },
     {
       "album": {
@@ -20535,6 +20625,24 @@
     },
     {
       "album": {
+        "name": "SUPERSTAR",
+        "url": "https://open.spotify.com/album/0mKjLg4PFqhXdBMKCoGQm0"
+      },
+      "artists": [
+        {
+          "name": "Roxy Dekker",
+          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149589,
+      "name": "SUPERSTAR",
+      "url": "https://open.spotify.com/track/0isizAo7CkD7DhZm3C1DaY"
+    },
+    {
+      "album": {
         "name": "Tafel Voor 2",
         "url": "https://open.spotify.com/album/4AFsBtnKpI01QmlfWXSAZX"
       },
@@ -21391,6 +21499,28 @@
     },
     {
       "album": {
+        "name": "Trust Issues",
+        "url": "https://open.spotify.com/album/4FkORdkTIcHqdLNd366bSL"
+      },
+      "artists": [
+        {
+          "name": "Jav\u00e9",
+          "url": "https://open.spotify.com/artist/0l0L4jCaPSwe99OwHtzQeT"
+        },
+        {
+          "name": "Farah",
+          "url": "https://open.spotify.com/artist/7u7oTbAryqJCgoY8IIECZ3"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123490,
+      "name": "Trust Issues",
+      "url": "https://open.spotify.com/track/4BaX9nMjklNWw0Rm1woars"
+    },
+    {
+      "album": {
         "name": "Tsunami",
         "url": "https://open.spotify.com/album/3BV0vov8j0blp76wUBY9pH"
       },
@@ -21478,6 +21608,32 @@
       "duration_ms": 145500,
       "name": "Twee April",
       "url": "https://open.spotify.com/track/10rCGIyamWa3yexM04sbn4"
+    },
+    {
+      "album": {
+        "name": "Twee Mensen",
+        "url": "https://open.spotify.com/album/2Zm0J1I4wFU87tALfr7HYr"
+      },
+      "artists": [
+        {
+          "name": "Gotu Jim",
+          "url": "https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ"
+        },
+        {
+          "name": "Jacob Dubbel",
+          "url": "https://open.spotify.com/artist/5CgWSdci8Qzl9dRNDIE0S5"
+        },
+        {
+          "name": "Grote Komeet",
+          "url": "https://open.spotify.com/artist/7LYfZxjkhw2zHu56dEhzG6"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282277,
+      "name": "Twee Mensen",
+      "url": "https://open.spotify.com/track/4NdmsDZaXcdafzpqanIreO"
     },
     {
       "album": {
@@ -21673,6 +21829,24 @@
     },
     {
       "album": {
+        "name": "VAL",
+        "url": "https://open.spotify.com/album/6scVbQ46ciABrswVfh9cRL"
+      },
+      "artists": [
+        {
+          "name": "Juultje Tieleman",
+          "url": "https://open.spotify.com/artist/22EjzscO27k9jGcRhEfCRK"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "VAL",
+      "url": "https://open.spotify.com/track/3m2bkSx0cjwZtKRBBleA91"
+    },
+    {
+      "album": {
         "name": "Vallen",
         "url": "https://open.spotify.com/album/5yjHp3FxUjwGgb6MWQHDFW"
       },
@@ -21760,6 +21934,24 @@
       "duration_ms": 171651,
       "name": "Van Goed Naar Beter",
       "url": "https://open.spotify.com/track/0nfFsJLVTNTNFAPn7L8THP"
+    },
+    {
+      "album": {
+        "name": "Van Mij Is Van Mij",
+        "url": "https://open.spotify.com/album/11R5qWO3agKNnsm4K7WER4"
+      },
+      "artists": [
+        {
+          "name": "JANEY",
+          "url": "https://open.spotify.com/artist/173RaTzsGfsppxsy70QxhN"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178579,
+      "name": "Van Mij Is Van Mij",
+      "url": "https://open.spotify.com/track/0mCEu9fbPqgiZQg0tfpEt6"
     },
     {
       "album": {
@@ -22502,7 +22694,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 172500,
       "name": "Vliegen",
       "url": "https://open.spotify.com/track/62aJj3DjAJtvU1hri0d27h"
@@ -24024,6 +24216,24 @@
       "duration_ms": 202869,
       "name": "Wees Niet Bang",
       "url": "https://open.spotify.com/track/7jkWQ2e92jOyjjhj2ZwVem"
+    },
+    {
+      "album": {
+        "name": "Weg met jou",
+        "url": "https://open.spotify.com/album/18CMxSZNBkGo7BqDoWIkuA"
+      },
+      "artists": [
+        {
+          "name": "Ben Forte",
+          "url": "https://open.spotify.com/artist/0W1IlzwhrQJcdagiDZhrz7"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153395,
+      "name": "Weg met jou",
+      "url": "https://open.spotify.com/track/0vWnjfH3A1oMlz7ek2Bkr7"
     },
     {
       "album": {
@@ -25674,7 +25884,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 150475,
       "name": "\u2060Tot Het Eind Van Mij - Akoestisch",
       "url": "https://open.spotify.com/track/2uA8dEMA61IBCXGz4lA3GD"

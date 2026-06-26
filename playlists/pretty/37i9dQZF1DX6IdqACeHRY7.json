@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 158145,
+  "num_followers": 158136,
   "original_name": "ren hygge",
   "owner": {
     "name": "Spotify",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "When You Love Someone (Acoustic)",
-        "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "When You Love Someone - Acoustic",
-      "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "The Thrill Of It All (Special Edition)",
         "url": "https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 283294,
       "name": "No Peace",
       "url": "https://open.spotify.com/track/5ZX1X9Rl4zbx1Wwyn3idVD"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "When You Love Someone (Acoustic)",
+        "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "When You Love Someone - Acoustic",
+      "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -923,6 +923,22 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/1xQ8Rh75TdIzj9sIK4mzGD"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 165107,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/6Qs5f4GnWPnKM0vTK8LdUI"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
         "name": "Horsens (feat. Sofie1998)",
         "url": "https://open.spotify.com/album/1kwC9j8e9iu2MckYWWGPh8"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 191262,
       "name": "Horsens (feat. Sofie1998)",
       "url": "https://open.spotify.com/track/0yDtk8qHW7gg4obQ96cG0z"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/1xQ8Rh75TdIzj9sIK4mzGD"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 165107,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/6Qs5f4GnWPnKM0vTK8LdUI"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1183,6 +1183,30 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
+        "name": "Alt Det (feat. Noah Carter)",
+        "url": "https://open.spotify.com/album/561WRtqToj8ILZEkDXkfqm"
+      },
+      "artists": [
+        {
+          "name": "Thor Farlov",
+          "url": "https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X"
+        },
+        {
+          "name": "Noah Carter",
+          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
+        },
+        {
+          "name": "Danseorkestret",
+          "url": "https://open.spotify.com/artist/1mbYtO5wyUaGVCFQFPPwme"
+        }
+      ],
+      "duration_ms": 178366,
+      "name": "Alt Det (feat. Noah Carter)",
+      "url": "https://open.spotify.com/track/1knZ2cJRHNUeEidZvhypRm"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
         "name": "Ur\u00f8rlig (feat. Karoline Mousing)",
         "url": "https://open.spotify.com/album/6qDSXjURvSBcvVzWpIg2SX"
       },
@@ -1215,30 +1239,6 @@
       "duration_ms": 169842,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/2y6hhuWPK4C6s21N0Y5r8r"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
-        "name": "Alt Det (feat. Noah Carter)",
-        "url": "https://open.spotify.com/album/561WRtqToj8ILZEkDXkfqm"
-      },
-      "artists": [
-        {
-          "name": "Thor Farlov",
-          "url": "https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X"
-        },
-        {
-          "name": "Noah Carter",
-          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
-        },
-        {
-          "name": "Danseorkestret",
-          "url": "https://open.spotify.com/artist/1mbYtO5wyUaGVCFQFPPwme"
-        }
-      ],
-      "duration_ms": 178366,
-      "name": "Alt Det (feat. Noah Carter)",
-      "url": "https://open.spotify.com/track/1knZ2cJRHNUeEidZvhypRm"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Dreng",
-        "url": "https://open.spotify.com/album/5asn67kNJehseJxmxxeJy4"
-      },
-      "artists": [
-        {
-          "name": "Malte Ebert",
-          "url": "https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl"
-        }
-      ],
-      "duration_ms": 153986,
-      "name": "Dreng",
-      "url": "https://open.spotify.com/track/4hHKHJEN7UGBnKY7NvugJ5"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "The Epilogue (Deluxe)",
         "url": "https://open.spotify.com/album/3SuqKNkO5rlv3d9xyGzHDH"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 186971,
       "name": "Hurt So Bad",
       "url": "https://open.spotify.com/track/2ePmuCYaE8FQvYEivOEvpz"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "Dreng",
+        "url": "https://open.spotify.com/album/5asn67kNJehseJxmxxeJy4"
+      },
+      "artists": [
+        {
+          "name": "Malte Ebert",
+          "url": "https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl"
+        }
+      ],
+      "duration_ms": 153986,
+      "name": "Dreng",
+      "url": "https://open.spotify.com/track/4hHKHJEN7UGBnKY7NvugJ5"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
+        "name": "Yellow Bike",
+        "url": "https://open.spotify.com/album/38EDJaK2TBgsUYoPlBMnba"
+      },
+      "artists": [
+        {
+          "name": "Jonah Blacksmith",
+          "url": "https://open.spotify.com/artist/3oM2douHxNqMYMbRNkT1tr"
+        }
+      ],
+      "duration_ms": 200232,
+      "name": "Yellow Bike",
+      "url": "https://open.spotify.com/track/4JuRknM4Htm4rqcDRQdh98"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
         "name": "T\u00c6T P\u00c5 (feat. Delara)",
         "url": "https://open.spotify.com/album/2EJfw8c22rvYkdhdH9RIKx"
       },
@@ -1515,18 +1531,18 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Yellow Bike",
-        "url": "https://open.spotify.com/album/38EDJaK2TBgsUYoPlBMnba"
+        "name": "golden thing",
+        "url": "https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz"
       },
       "artists": [
         {
-          "name": "Jonah Blacksmith",
-          "url": "https://open.spotify.com/artist/3oM2douHxNqMYMbRNkT1tr"
+          "name": "Cody Simpson",
+          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
         }
       ],
-      "duration_ms": 200232,
-      "name": "Yellow Bike",
-      "url": "https://open.spotify.com/track/4JuRknM4Htm4rqcDRQdh98"
+      "duration_ms": 219300,
+      "name": "golden thing",
+      "url": "https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1543,22 +1559,6 @@
       "duration_ms": 233213,
       "name": "Red",
       "url": "https://open.spotify.com/track/1ZCCVA90RcBOyiPPJPoNd6"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
-        "name": "golden thing",
-        "url": "https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz"
-      },
-      "artists": [
-        {
-          "name": "Cody Simpson",
-          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
-        }
-      ],
-      "duration_ms": 219300,
-      "name": "golden thing",
-      "url": "https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Superlim",
-        "url": "https://open.spotify.com/album/5KbJT01tNLb2HenQ5Unp6R"
-      },
-      "artists": [
-        {
-          "name": "Sira Jovina",
-          "url": "https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat"
-        }
-      ],
-      "duration_ms": 185355,
-      "name": "Superlim",
-      "url": "https://open.spotify.com/track/4BwPT0pILUhY4wUdv0NLLT"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/4iioyYjn5y3TYGTdl7qdL5"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 193133,
       "name": "Love Her",
       "url": "https://open.spotify.com/track/2hgk8iKN9UdoM4ILlJ9F5N"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "Superlim",
+        "url": "https://open.spotify.com/album/5KbJT01tNLb2HenQ5Unp6R"
+      },
+      "artists": [
+        {
+          "name": "Sira Jovina",
+          "url": "https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat"
+        }
+      ],
+      "duration_ms": 185355,
+      "name": "Superlim",
+      "url": "https://open.spotify.com/track/4BwPT0pILUhY4wUdv0NLLT"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
+        "name": "This Morning",
+        "url": "https://open.spotify.com/album/67eaxqhdQCoFBqWyCWsUmF"
+      },
+      "artists": [
+        {
+          "name": "Picture This",
+          "url": "https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "This Morning",
+      "url": "https://open.spotify.com/track/3phOtFs7faVgUInMMaJ3RD"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
         "name": "Det \u00d8nsker Jeg For Dig (feat. Burhan G)",
         "url": "https://open.spotify.com/album/2Wd7GUiG8M5y6hSpMxT3Kd"
       },
@@ -1827,22 +1843,6 @@
       "duration_ms": 178027,
       "name": "Det \u00d8nsker Jeg For Dig (feat. Burhan G)",
       "url": "https://open.spotify.com/track/2ZK0RAs8xRUxKOnWc9Ey9s"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
-        "name": "This Morning",
-        "url": "https://open.spotify.com/album/67eaxqhdQCoFBqWyCWsUmF"
-      },
-      "artists": [
-        {
-          "name": "Picture This",
-          "url": "https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW"
-        }
-      ],
-      "duration_ms": 196826,
-      "name": "This Morning",
-      "url": "https://open.spotify.com/track/3phOtFs7faVgUInMMaJ3RD"
     },
     {
       "added_at": "2026-05-21 12:03:22",

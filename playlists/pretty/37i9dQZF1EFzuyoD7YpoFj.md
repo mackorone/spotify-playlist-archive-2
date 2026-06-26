@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 517 likes - 390 songs - 20 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 517 likes - 390 songs - 20 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 49 | [It's All Right With Me \- 2002 \- Remastered](https://open.spotify.com/track/3JWLw0R3OvWYi83UL1CHKZ) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [Movin' On Broadway](https://open.spotify.com/album/0H3fpfEvApgmSPp8qivyOQ) | 1:57 |
 | 50 | [My One And Only Love \- Remastered](https://open.spotify.com/track/6DHuDz9Rnz5beUnOijThjH) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Nice 'n' Easy \(Remastered / Expanded Edition\)](https://open.spotify.com/album/2Xp6c8OMMolIoix6KLyun2) | 3:12 |
 | 51 | [Tomorrow](https://open.spotify.com/track/5uLu2Xc0HteRl5Mjh1Q7p7) | [SR\-71](https://open.spotify.com/artist/7fTcs8dn9y6XuB2IqZMzBq) | [Tomorrow](https://open.spotify.com/album/1iiRROlXh0DOJyyuur5K0O) | 3:48 |
-| 52 | [All Through The Night](https://open.spotify.com/track/6WRidiUvt5qzXlqpbmVCLA) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Midnight Jazz & Blue Nights: Late Night Jazz, Deep Cuts, Bluesy & Sophisticated Mood](https://open.spotify.com/album/5vSRuNR1smC7nZzpkaFVdC) | 3:13 |
+| 52 | [All Through The Night](https://open.spotify.com/track/5vPfX2ZSujQf6vLUJrXsFN) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book \(Expanded Edition\)](https://open.spotify.com/album/5h8vIlNNUiczk48YIyryuI) | 3:14 |
 | 53 | [Get Out of Town](https://open.spotify.com/track/46LFQQGf0KavPAaepNN8sB) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Jeru](https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP) | 4:12 |
 | 54 | [It's Bad for Me \(with The Benny Goodman Sextet\)](https://open.spotify.com/track/2s1PZfqMkyQjZ4yFXPShji) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK), [Benny Goodman Sextet](https://open.spotify.com/artist/33N6sGOKJwLGOnq31ZmEl1) | [Date With The King \(with The Benny Goodman Sextet\)](https://open.spotify.com/album/1UgsnlZGItDmf1qXMzaRbI) | 2:55 |
 | 55 | [Montmartre](https://open.spotify.com/track/4xKOPH17zTLnjQWcGdKTbI) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Rex Stewart](https://open.spotify.com/artist/0Tb8S5bNKO7nZV1eunOwZa) | [Djangologie Vol8 / 1937 \- 1938](https://open.spotify.com/album/4NyzXq4mgVy0XJZMBei6Nb) | 2:25 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 58 | [The Key](https://open.spotify.com/track/5Wt6nnGyzwQbQ2iHsGgM5S) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [The Unquestionable Truth \(Pt\. 1\)](https://open.spotify.com/album/0VsNR8ay7aO8DQGNng2Fko) | 1:24 |
 | 59 | [Ladies In Waiting \- 2025 Remaster](https://open.spotify.com/track/5ufXPyfmxk5mLRP3dDU1Dx) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dressed To Kill \(2025 Remaster\)](https://open.spotify.com/album/4ekx5nOmLLxYPLLoV6t8RD) | 2:32 |
 | 60 | [Come Along with Me](https://open.spotify.com/track/2Xx6NtWl4pC4IyjOVxXbIx) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [Harmony Horizons](https://open.spotify.com/album/4aFhrp00T261Zsmua1kRxg) | 1:59 |
-| 61 | [Love For $ale](https://open.spotify.com/track/3gS9xuTfnr15MAo4RVUbQ3) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o), [Roots Manuva](https://open.spotify.com/artist/4sSSkVtrCTzENCgm2vokiY) | [Momentum](https://open.spotify.com/album/4CAfF5JPPvnHlJ3mrvQfbe) | 5:20 |
-| 62 | [I've Still Got My Health](https://open.spotify.com/track/6b3FrxnjRH8v1fbsoKutaW) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W) | [Beaches \(Original Soundtrack Recording\)](https://open.spotify.com/album/7hKfx1hjTjzdU4SysDMNc9) | 1:29 |
+| 61 | [I've Still Got My Health](https://open.spotify.com/track/6b3FrxnjRH8v1fbsoKutaW) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W) | [Beaches \(Original Soundtrack Recording\)](https://open.spotify.com/album/7hKfx1hjTjzdU4SysDMNc9) | 1:29 |
+| 62 | [Love For $ale](https://open.spotify.com/track/3gS9xuTfnr15MAo4RVUbQ3) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o), [Roots Manuva](https://open.spotify.com/artist/4sSSkVtrCTzENCgm2vokiY) | [Momentum](https://open.spotify.com/album/4CAfF5JPPvnHlJ3mrvQfbe) | 5:20 |
 | 63 | [Between You and Me](https://open.spotify.com/track/5Lxv5Hq08wdPKkJGajwoZB) | [kazemaru](https://open.spotify.com/artist/21dXDRr189OA3FpGA1Evig) | [Running on a Knife\-Edge](https://open.spotify.com/album/4pjVHrqf901239z7oschzQ) | 4:51 |
 | 64 | [You And Me \(We Wanted It All\)](https://open.spotify.com/track/6iA7PtgzePpEjz0qaGyYgp) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Trilogy: Past, Present & Future](https://open.spotify.com/album/4Cv61B08yHx3fwkylkhCxe) | 4:09 |
 | 65 | [Ace In The Hole](https://open.spotify.com/track/3Fj9u1MWT0bcAUANoYdZeB) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book \(Expanded Edition\)](https://open.spotify.com/album/5h8vIlNNUiczk48YIyryuI) | 1:58 |
@@ -399,4 +399,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 389 | [It Ain't Etiquette](https://open.spotify.com/track/1GbMATrktLfNh0qpFFckW3) | [Ronny Graham](https://open.spotify.com/artist/1p9N6ZU2PVPiQnqVRYdb96) | [Cole Porter Revisited](https://open.spotify.com/album/6nLxZJkzWzt72wRAj0uyWI) | 2:31 |
 | 390 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `AcVHEAAAAABe1qLXV6KnKtKRXYdBK+qX`
+Snapshot ID: `AcVMpgAAAAD4tVaDs5ZRUeReHOHJ8185`

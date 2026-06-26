@@ -2469,6 +2469,36 @@
     },
     {
       "album": {
+        "name": "Descendants: Wicked Wonderland (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2vg5VhJdkiNNHKBTrHcV4q"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Nam",
+          "url": "https://open.spotify.com/artist/63eK47VaHDGGGKMRVPiw3D"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        },
+        {
+          "name": "Descendants \u2013 Cast",
+          "url": "https://open.spotify.com/artist/4J79AY6Z2927FTTAgHChuv"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168557,
+      "name": "Mad",
+      "url": "https://open.spotify.com/track/6zU3qF1Kf4b00rAYpQI7iV"
+    },
+    {
+      "album": {
         "name": "Wizards of Waverly Place",
         "url": "https://open.spotify.com/album/2aXmfPpn8Hq7B5gxOTxxi4"
       },

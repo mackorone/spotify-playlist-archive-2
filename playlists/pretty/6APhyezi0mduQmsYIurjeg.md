@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,278 likes - 574 songs - 1 day 10 hr 48 min
+[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,278 likes - 582 songs - 1 day 11 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -582,5 +582,13 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 | 572 | [Duele](https://open.spotify.com/track/5POi6OOXViiSfO93jfktEa) | [Javix Durakoz](https://open.spotify.com/artist/1jGZsCyA4sKJ3ZEHhiVepa) | [Duele](https://open.spotify.com/album/6Nwmv6UXFTiAZUfkGGph1P) | 4:28 |
 | 573 | [DON'T DO THAT](https://open.spotify.com/track/630YNEl6c2QU3rflfCxnGz) | [YASSiN & Sean Terrio](https://open.spotify.com/artist/6MQaXix1Y8JL3q2zYZkd1v) | [DON'T DO THAT](https://open.spotify.com/album/5safWD1mR13AS3OP8WbWmZ) | 3:45 |
 | 574 | [Above the Clouds](https://open.spotify.com/track/0dYML7ZLo5mPXJozCYXzuu) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [I Keep Standing Above the Clouds](https://open.spotify.com/album/0qIKPUfjZ7EJ1d8G7URaZc) | 3:07 |
+| 575 | [Alleluia \- Afro version\)](https://open.spotify.com/track/0D1vsll4Km8bsjdlf6kZ1E) | [K'leb Miller](https://open.spotify.com/artist/1PHuZwnB2uDR6rII59D9kf) | [Alleluia \(Afro version\)\)](https://open.spotify.com/album/5sopOSZ5wCz72FdkiKXGXa) | 2:22 |
+| 576 | [Just A Normal Kid](https://open.spotify.com/track/2dTl4AJExRokk6n9Ne5gNx) | [The Borough](https://open.spotify.com/artist/4FyzVfbimb2frgwzpe3mJg) | [Contradictions](https://open.spotify.com/album/1HLDzOH302g8hagglm769G) | 4:10 |
+| 577 | [Good but not Okay](https://open.spotify.com/track/6hlWLgVkAF5KZzEPs0L1TW) | [Lord Sebastian](https://open.spotify.com/artist/06ADavaxngMDpbcRPXHBvm) | [Good but not Okay](https://open.spotify.com/album/1VRcZudvyYyffx3Oy4RdPF) | 2:56 |
+| 578 | [Heart of a Coward](https://open.spotify.com/track/7vmfuBMDV2eQsjFm2rLPLv) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Heart of a Coward / Maelstrom](https://open.spotify.com/album/2GFTJ5HJLN861GRR7jpwGB) | 4:30 |
+| 579 | [Surfing to Nowhere](https://open.spotify.com/track/6PN45BwdFZexnyNNPWkxyg) | [fabiano matiolla](https://open.spotify.com/artist/1gSEoElmqiR2xGnMtTTqes) | [Surfing to Nowhere](https://open.spotify.com/album/1nitwAEcNvb5ejMda2TESx) | 4:31 |
+| 580 | [We Met In Our Eyes](https://open.spotify.com/track/6HZjgiD2rvIILnO0Mza8nf) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [We Met In Our Eyes](https://open.spotify.com/album/0evetXbbhKlMFJNwwiVXwx) | 4:21 |
+| 581 | [The Family Secret](https://open.spotify.com/track/5v6DxofVLhcqQWsO4JlQ1v) | [Ten Eighty Trees](https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD) | [The Family Secret](https://open.spotify.com/album/1kDUZGxfVbg4uS3OC0MqpB) | 2:59 |
+| 582 | [Étoile filante](https://open.spotify.com/track/26hNIEGpPFju35mGC9dnE7) | [Naghmeh](https://open.spotify.com/artist/3e5qBCtQ2njfzuO3bOTz0a) | [Étoile filante](https://open.spotify.com/album/4x8IeORcUdpLZBMFwfX7aH) | 5:27 |
 
-Snapshot ID: `AAAC05F2RuzUBhV+jWAKDi58o8vKAyys`
+Snapshot ID: `AAAC2yt6UbLp8RSBvR9SmMACbCU47P4A`

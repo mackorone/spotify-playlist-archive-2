@@ -4,13 +4,13 @@
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: 楽音
 
-593 songs - 1 day 9 hr 47 min
+594 songs - 1 day 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#レーッツパーリー](https://open.spotify.com/track/3sAe6ItIImnNscdkHMMf3P) | [PAIN](https://open.spotify.com/artist/3KaeBQyUIIn9LWaAn9kkG0), [リルジャップ](https://open.spotify.com/artist/6iMwrsrienfQITGVUc8R5q) | [WORLD P 2](https://open.spotify.com/album/1gl1lkNglzTZ05fG7rvzAw) | 1:48 | 2024-05-01 | 2024-08-30 |
 | [0.0000%](https://open.spotify.com/track/6tJmPnHeCidKixJ7VEdGgy) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [0.0000%](https://open.spotify.com/album/50W2oJUz1cLctFly2NyYVd) | 2:35 | 2025-03-07 | 2025-04-01 |
-| [1000日間](https://open.spotify.com/track/3HGHvxci8vnRg7RZ5E6lzi) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [1000日間](https://open.spotify.com/album/760cJy3lGdx6BZqtFPkow1) | 3:23 | 2025-07-24 |  |
+| [1000日間](https://open.spotify.com/track/3HGHvxci8vnRg7RZ5E6lzi) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [1000日間](https://open.spotify.com/album/760cJy3lGdx6BZqtFPkow1) | 3:23 | 2025-07-24 | 2026-06-26 |
 | [18](https://open.spotify.com/track/20bxks5amfv7rVf8D6a1r7) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [18](https://open.spotify.com/album/4pyHUmAJzl9dZUvFwVzLe7) | 3:35 | 2023-04-27 | 2023-07-06 |
 | [24/7 YOU...](https://open.spotify.com/track/44FOrs9EwYsp64WlsL8EXD) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [24/7 YOU...](https://open.spotify.com/album/1RIeaWQ4OVcm8TEZdiAaPr) | 2:41 | 2024-02-22 | 2024-03-22 |
 | [2時間3分](https://open.spotify.com/track/6MEe4hFAdepYsOc2vMQlSC) | [freespace](https://open.spotify.com/artist/5sRuYHUZg2rUKCkKJzw2ew) | [2時間3分](https://open.spotify.com/album/2lpcrdrUS0o5LqrJHHSsQV) | 2:20 | 2026-06-04 |  |
@@ -224,6 +224,7 @@
 | [Nagisa](https://open.spotify.com/track/0bdAQ9dwLA5cJtgM05PRKW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Nagisa](https://open.spotify.com/album/1AtPpQ0av1ugXZ1QhjMQkK) | 3:46 | 2023-05-25 | 2023-10-06 |
 | [NaNaNa Tokyo](https://open.spotify.com/track/1wj4yYURESSkb67NIxxm8m) | [Repezen Foxx](https://open.spotify.com/artist/7hflj6zifcC4waqD6JIL7U), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [NaNaNa Tokyo](https://open.spotify.com/album/5ZtzL00EDIBLZQho1vKQ49) | 3:15 | 2023-04-06 | 2023-05-26 |
 | [Nanoka](https://open.spotify.com/track/1Dleg5YF90D0sLPgusv0DB) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Arutokoroni no Teiri](https://open.spotify.com/album/3phjMsKsr6V1aicq04S3Ie) | 6:32 | 2023-11-09 | 2024-04-19 |
+| [Neko\(ねこ\)](https://open.spotify.com/track/3Ssjb03mjfjgGTLOBkJ2TA) | [Neko Jealousy](https://open.spotify.com/artist/1djRHinMObgwj8Imt0kbxO) | [35 BOYS 5 CONCEPTS](https://open.spotify.com/album/411XplusT1eRg9U1PR3cuU) | 2:45 | 2026-06-25 |  |
 | [Never Grow Up](https://open.spotify.com/track/5aDgM8rYPT15CqjkN1EIKq) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Never Grow Up](https://open.spotify.com/album/5b4nK135Z5T9Z62k7804LH) | 3:16 | 2023-12-21 | 2025-10-24 |
 | [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 | 2023-09-01 | 2023-10-13 |
 | [Nice Guy](https://open.spotify.com/track/6pqyZNnLKyJKtrlf42FQoq) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [19.99](https://open.spotify.com/album/4AvNQasUXJ4uHHmtypy6BF) | 2:44 | 2025-02-03 | 2025-03-07 |

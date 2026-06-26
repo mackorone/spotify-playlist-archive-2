@@ -1,6 +1,6 @@
 {
   "description": "When my mouth has no words, let my spirit sing",
-  "num_followers": 79223,
+  "num_followers": 79283,
   "original_name": "Worship Chants",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Never Be the Same (Live)",
-        "url": "https://open.spotify.com/album/1tUbpFa1twKE0dwltJpaF1"
-      },
-      "artists": [
-        {
-          "name": "David Dam",
-          "url": "https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc"
-        }
-      ],
-      "duration_ms": 384000,
-      "name": "Never Be the Same (Live)",
-      "url": "https://open.spotify.com/track/10FpYQLJ3urAr7tPJOnFy5"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "Nekwa Mu",
         "url": "https://open.spotify.com/album/7p2oA7LgcP0qWhCImTMj9k"
       },
@@ -355,22 +339,6 @@
       "duration_ms": 162655,
       "name": "Nekwa Mu",
       "url": "https://open.spotify.com/track/7e5bM94aeUAODYOC6vp2gT"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "To Yahweh's Delight",
-        "url": "https://open.spotify.com/album/4MCPXcYlgqMGWqm8B2k3ap"
-      },
-      "artists": [
-        {
-          "name": "Minister GUC",
-          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
-        }
-      ],
-      "duration_ms": 444255,
-      "name": "Sound of Revival",
-      "url": "https://open.spotify.com/track/76KJfvXOhG4r2DWquugSAd"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -391,6 +359,38 @@
       "duration_ms": 893936,
       "name": "Iwo Loba",
       "url": "https://open.spotify.com/track/27YFofQ1E31ldqdR6wqA7F"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "To Yahweh's Delight",
+        "url": "https://open.spotify.com/album/4MCPXcYlgqMGWqm8B2k3ap"
+      },
+      "artists": [
+        {
+          "name": "Minister GUC",
+          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
+        }
+      ],
+      "duration_ms": 444255,
+      "name": "Sound of Revival",
+      "url": "https://open.spotify.com/track/76KJfvXOhG4r2DWquugSAd"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Never Be the Same (Live)",
+        "url": "https://open.spotify.com/album/1tUbpFa1twKE0dwltJpaF1"
+      },
+      "artists": [
+        {
+          "name": "David Dam",
+          "url": "https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc"
+        }
+      ],
+      "duration_ms": 384000,
+      "name": "Never Be the Same (Live)",
+      "url": "https://open.spotify.com/track/10FpYQLJ3urAr7tPJOnFy5"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -549,20 +549,20 @@
       "url": "https://open.spotify.com/track/0mkiOUQl052rRacosA5fS4"
     },
     {
-      "added_at": "2025-02-14 00:01:09",
+      "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Alignment Chant",
-        "url": "https://open.spotify.com/album/1aDMbqtd24f2gedKY5D17e"
+        "name": "Agbara Olorun po",
+        "url": "https://open.spotify.com/album/7ruTymGcJDzgnveU9ZOAsA"
       },
       "artists": [
         {
-          "name": "Lawrence Oyor",
-          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
+          "name": "Clement whyte",
+          "url": "https://open.spotify.com/artist/4UuoX5tY9U0Qf9dO66EStT"
         }
       ],
-      "duration_ms": 810956,
-      "name": "Alignment Chant - EP",
-      "url": "https://open.spotify.com/track/0t7faQrQwjAZYxQyODCj6z"
+      "duration_ms": 301141,
+      "name": "Agbara Olorun po",
+      "url": "https://open.spotify.com/track/6oxBpuu7Ac3xjtrZgvSfyy"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -581,20 +581,20 @@
       "url": "https://open.spotify.com/track/3D7EubdyMf1i6p2Ts79Cjo"
     },
     {
-      "added_at": "2024-07-26 00:01:00",
+      "added_at": "2025-02-14 00:01:09",
       "album": {
-        "name": "Agbara Olorun po",
-        "url": "https://open.spotify.com/album/7ruTymGcJDzgnveU9ZOAsA"
+        "name": "Alignment Chant",
+        "url": "https://open.spotify.com/album/1aDMbqtd24f2gedKY5D17e"
       },
       "artists": [
         {
-          "name": "Clement whyte",
-          "url": "https://open.spotify.com/artist/4UuoX5tY9U0Qf9dO66EStT"
+          "name": "Lawrence Oyor",
+          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
         }
       ],
-      "duration_ms": 301141,
-      "name": "Agbara Olorun po",
-      "url": "https://open.spotify.com/track/6oxBpuu7Ac3xjtrZgvSfyy"
+      "duration_ms": 810956,
+      "name": "Alignment Chant - EP",
+      "url": "https://open.spotify.com/track/0t7faQrQwjAZYxQyODCj6z"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -687,6 +687,22 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
+        "name": "The Zamar Experience",
+        "url": "https://open.spotify.com/album/4leEZEGBNamPXVBRUqDUQa"
+      },
+      "artists": [
+        {
+          "name": "Faith Captain",
+          "url": "https://open.spotify.com/artist/3w0OMqAlsf7zRV2GprZvJK"
+        }
+      ],
+      "duration_ms": 770500,
+      "name": "Chants of Intimacy",
+      "url": "https://open.spotify.com/track/5pzgMmTjKJlThDPQnfRX5I"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
         "name": "Deep Wells",
         "url": "https://open.spotify.com/album/1xO9FgOlSAHPcIAQ9H8G4z"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 300816,
       "name": "Adua Ke (Cover)",
       "url": "https://open.spotify.com/track/19m3PKmrtknv7pBQVySo5j"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "The Zamar Experience",
-        "url": "https://open.spotify.com/album/4leEZEGBNamPXVBRUqDUQa"
-      },
-      "artists": [
-        {
-          "name": "Faith Captain",
-          "url": "https://open.spotify.com/artist/3w0OMqAlsf7zRV2GprZvJK"
-        }
-      ],
-      "duration_ms": 770500,
-      "name": "Chants of Intimacy",
-      "url": "https://open.spotify.com/track/5pzgMmTjKJlThDPQnfRX5I"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
+        "name": "The Zamar Experience",
+        "url": "https://open.spotify.com/album/4leEZEGBNamPXVBRUqDUQa"
+      },
+      "artists": [
+        {
+          "name": "Faith Captain",
+          "url": "https://open.spotify.com/artist/3w0OMqAlsf7zRV2GprZvJK"
+        }
+      ],
+      "duration_ms": 564250,
+      "name": "Intense Spontaneous Worship",
+      "url": "https://open.spotify.com/track/3Q4IU160DfWbjRJnRVZwe0"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
         "name": "Testimony",
         "url": "https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 531724,
       "name": "Joy Chant",
       "url": "https://open.spotify.com/track/4FaVSby2tGf0H9tg10d6pH"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "The Zamar Experience",
-        "url": "https://open.spotify.com/album/4leEZEGBNamPXVBRUqDUQa"
-      },
-      "artists": [
-        {
-          "name": "Faith Captain",
-          "url": "https://open.spotify.com/artist/3w0OMqAlsf7zRV2GprZvJK"
-        }
-      ],
-      "duration_ms": 564250,
-      "name": "Intense Spontaneous Worship",
-      "url": "https://open.spotify.com/track/3Q4IU160DfWbjRJnRVZwe0"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Flaunt Your Fire (Holy Ghost)",
-        "url": "https://open.spotify.com/album/754CwsqnhdY5y1EZKQqKPd"
-      },
-      "artists": [
-        {
-          "name": "Praiz Singz",
-          "url": "https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h"
-        }
-      ],
-      "duration_ms": 430105,
-      "name": "Flaunt Your Fire (Holy Ghost)",
-      "url": "https://open.spotify.com/track/2zwltlr42APbCR1rnAsoOU"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "You Cover Me",
         "url": "https://open.spotify.com/album/3MpNFst8nlIyBLSt17ErjT"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 1078359,
       "name": "You Cover Me",
       "url": "https://open.spotify.com/track/37JvyLbD2sZqJb0xVYE80U"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Flaunt Your Fire (Holy Ghost)",
+        "url": "https://open.spotify.com/album/754CwsqnhdY5y1EZKQqKPd"
+      },
+      "artists": [
+        {
+          "name": "Praiz Singz",
+          "url": "https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h"
+        }
+      ],
+      "duration_ms": 430105,
+      "name": "Flaunt Your Fire (Holy Ghost)",
+      "url": "https://open.spotify.com/track/2zwltlr42APbCR1rnAsoOU"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -1273,6 +1273,22 @@
       "url": "https://open.spotify.com/track/0RqyWkOhcoFzO9qFw7JIx9"
     },
     {
+      "added_at": "2025-10-17 00:01:26",
+      "album": {
+        "name": "We Bless You Lord (Chant)",
+        "url": "https://open.spotify.com/album/1W9K0AwSqAk22B63mvHZcC"
+      },
+      "artists": [
+        {
+          "name": "Adura Ojofeitimi",
+          "url": "https://open.spotify.com/artist/135hnlf8uzG00qITSjtM2V"
+        }
+      ],
+      "duration_ms": 494396,
+      "name": "We Bless You Lord (Chant)",
+      "url": "https://open.spotify.com/track/2JekJNFUyLBsuqZPtSO0YJ"
+    },
+    {
       "added_at": "2024-07-26 00:01:00",
       "album": {
         "name": "Aye Ole",
@@ -1291,22 +1307,6 @@
       "duration_ms": 1380000,
       "name": "Aye Ole",
       "url": "https://open.spotify.com/track/6XJ4mWDH46We0Mgr1cuHK1"
-    },
-    {
-      "added_at": "2025-10-17 00:01:26",
-      "album": {
-        "name": "We Bless You Lord (Chant)",
-        "url": "https://open.spotify.com/album/1W9K0AwSqAk22B63mvHZcC"
-      },
-      "artists": [
-        {
-          "name": "Adura Ojofeitimi",
-          "url": "https://open.spotify.com/artist/135hnlf8uzG00qITSjtM2V"
-        }
-      ],
-      "duration_ms": 494396,
-      "name": "We Bless You Lord (Chant)",
-      "url": "https://open.spotify.com/track/2JekJNFUyLBsuqZPtSO0YJ"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -1357,22 +1357,6 @@
       "url": "https://open.spotify.com/track/6nBROUuH2rBpWonW2VTQ8G"
     },
     {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "The Secret Place (Live)",
-        "url": "https://open.spotify.com/album/3Z3z970scVmziRFi96ChyU"
-      },
-      "artists": [
-        {
-          "name": "1Spirit & Theophilus Sunday",
-          "url": "https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00"
-        }
-      ],
-      "duration_ms": 385537,
-      "name": "Adullam (Live)",
-      "url": "https://open.spotify.com/track/6nNZp7XHRg8jVqOIlkCxzK"
-    },
-    {
       "added_at": "2025-10-24 00:01:24",
       "album": {
         "name": "Son Of David (Church Arise) [Live]",
@@ -1403,6 +1387,22 @@
       "duration_ms": 809693,
       "name": "Benediction",
       "url": "https://open.spotify.com/track/2aS9WnLarRPsTSyzpzlGNU"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "The Secret Place (Live)",
+        "url": "https://open.spotify.com/album/3Z3z970scVmziRFi96ChyU"
+      },
+      "artists": [
+        {
+          "name": "1Spirit & Theophilus Sunday",
+          "url": "https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00"
+        }
+      ],
+      "duration_ms": 385537,
+      "name": "Adullam (Live)",
+      "url": "https://open.spotify.com/track/6nNZp7XHRg8jVqOIlkCxzK"
     }
   ],
   "unique_name": "Worship Chants",

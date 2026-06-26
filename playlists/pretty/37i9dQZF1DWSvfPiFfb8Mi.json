@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 715510,
+  "num_followers": 715670,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-05-22 04:01:04",
       "album": {
-        "name": "Take You Higher",
-        "url": "https://open.spotify.com/album/5cYXmvJLFKChvebPxEY4dZ"
-      },
-      "artists": [
-        {
-          "name": "Supertaste",
-          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
-        }
-      ],
-      "duration_ms": 195944,
-      "name": "Take You Higher",
-      "url": "https://open.spotify.com/track/3Ku4AjVUdvIhXPGlytVrEe"
-    },
-    {
-      "added_at": "2026-05-22 04:01:04",
-      "album": {
         "name": "The Night Trip",
         "url": "https://open.spotify.com/album/3VZvOCAB238uicvonx2U95"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 206207,
       "name": "Velvet Avenue",
       "url": "https://open.spotify.com/track/18QNbwbYp3ueBhvuaogkF6"
+    },
+    {
+      "added_at": "2026-05-22 04:01:04",
+      "album": {
+        "name": "Take You Higher",
+        "url": "https://open.spotify.com/album/5cYXmvJLFKChvebPxEY4dZ"
+      },
+      "artists": [
+        {
+          "name": "Supertaste",
+          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
+        }
+      ],
+      "duration_ms": 195944,
+      "name": "Take You Higher",
+      "url": "https://open.spotify.com/track/3Ku4AjVUdvIhXPGlytVrEe"
     },
     {
       "added_at": "2026-05-22 04:01:04",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2026-05-22 04:01:04",
       "album": {
+        "name": "To Survive",
+        "url": "https://open.spotify.com/album/1hzD3roirpvq1c2dW5so89"
+      },
+      "artists": [
+        {
+          "name": "Bondax",
+          "url": "https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs"
+        }
+      ],
+      "duration_ms": 238316,
+      "name": "To Survive",
+      "url": "https://open.spotify.com/track/6cxlGc6CDSMsYBM2GlX05U"
+    },
+    {
+      "added_at": "2026-05-22 04:01:04",
+      "album": {
         "name": "New Highs",
         "url": "https://open.spotify.com/album/0lwUMyyqQX3KxuTV8TdYyj"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 232195,
       "name": "New Highs",
       "url": "https://open.spotify.com/track/0S4JMWDEgUIhDVyhmoiNvB"
-    },
-    {
-      "added_at": "2026-05-22 04:01:04",
-      "album": {
-        "name": "To Survive",
-        "url": "https://open.spotify.com/album/1hzD3roirpvq1c2dW5so89"
-      },
-      "artists": [
-        {
-          "name": "Bondax",
-          "url": "https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs"
-        }
-      ],
-      "duration_ms": 238316,
-      "name": "To Survive",
-      "url": "https://open.spotify.com/track/6cxlGc6CDSMsYBM2GlX05U"
     },
     {
       "added_at": "2026-05-22 04:01:04",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2026-05-22 04:01:04",
       "album": {
+        "name": "cabo player",
+        "url": "https://open.spotify.com/album/0WbQtYINepP73xen4NIEzO"
+      },
+      "artists": [
+        {
+          "name": "Pastel",
+          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "cabo player",
+      "url": "https://open.spotify.com/track/4jUtQcmpSOjxiUWwVejqM6"
+    },
+    {
+      "added_at": "2026-05-22 04:01:04",
+      "album": {
         "name": "Please Be Mine",
         "url": "https://open.spotify.com/album/3wA7Go5n1saPzSPAzHN4B8"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 193885,
       "name": "Please Be Mine",
       "url": "https://open.spotify.com/track/6S5dsmCHrJccV7gK5frnxy"
-    },
-    {
-      "added_at": "2026-05-22 04:01:04",
-      "album": {
-        "name": "cabo player",
-        "url": "https://open.spotify.com/album/0WbQtYINepP73xen4NIEzO"
-      },
-      "artists": [
-        {
-          "name": "Pastel",
-          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "cabo player",
-      "url": "https://open.spotify.com/track/4jUtQcmpSOjxiUWwVejqM6"
     },
     {
       "added_at": "2026-05-22 04:01:04",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-05-22 04:01:04",
       "album": {
-        "name": "Ritmo Sabroso",
-        "url": "https://open.spotify.com/album/5d8zfJKzslUkDKVDd7g8Pm"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        }
-      ],
-      "duration_ms": 154838,
-      "name": "Ritmo Sabroso",
-      "url": "https://open.spotify.com/track/1Xd97xsTJQE2qd2zonWPPX"
-    },
-    {
-      "added_at": "2026-05-22 04:01:04",
-      "album": {
         "name": "So Nice To Be In Love",
         "url": "https://open.spotify.com/album/5P5Jqgw0NsyPMxmRTcQWIW"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 154807,
       "name": "So Nice To Be In Love",
       "url": "https://open.spotify.com/track/4N65OwkWDhXUUCEAhU7LGO"
+    },
+    {
+      "added_at": "2026-05-22 04:01:04",
+      "album": {
+        "name": "Ritmo Sabroso",
+        "url": "https://open.spotify.com/album/5d8zfJKzslUkDKVDd7g8Pm"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        }
+      ],
+      "duration_ms": 154838,
+      "name": "Ritmo Sabroso",
+      "url": "https://open.spotify.com/track/1Xd97xsTJQE2qd2zonWPPX"
     },
     {
       "added_at": "2026-05-22 04:01:04",
@@ -1723,30 +1723,6 @@
     {
       "added_at": "2026-05-22 04:01:04",
       "album": {
-        "name": "Nothing Is Forever (Yuksek Remix)",
-        "url": "https://open.spotify.com/album/6M9fbOzo9coxn3qO3Qxl7E"
-      },
-      "artists": [
-        {
-          "name": "Kraak & Smaak",
-          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
-        },
-        {
-          "name": "Kosta G",
-          "url": "https://open.spotify.com/artist/64ucpxkeLwoyiLViMhBR3v"
-        },
-        {
-          "name": "Yuksek",
-          "url": "https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf"
-        }
-      ],
-      "duration_ms": 295081,
-      "name": "Nothing Is Forever - Yuksek Remix",
-      "url": "https://open.spotify.com/track/42STKSJGBYfCJsTqlpq3XA"
-    },
-    {
-      "added_at": "2026-05-22 04:01:04",
-      "album": {
         "name": "Sing It Back (feat. Dana Williams)",
         "url": "https://open.spotify.com/album/6zAWHfeYvpUBY7hZ5TmnTp"
       },
@@ -1767,26 +1743,6 @@
       "duration_ms": 193706,
       "name": "Sing It Back (feat. Dana Williams)",
       "url": "https://open.spotify.com/track/6j8TmyhwPunLSpeNA4kVnI"
-    },
-    {
-      "added_at": "2026-05-22 04:01:04",
-      "album": {
-        "name": "Softskin",
-        "url": "https://open.spotify.com/album/6uqPtb7hQIcZeWpjz9TytF"
-      },
-      "artists": [
-        {
-          "name": "Kid Francescoli",
-          "url": "https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD"
-        },
-        {
-          "name": "Andr\u00e9a",
-          "url": "https://open.spotify.com/artist/0wAy4Wrv599H4LN56EurR3"
-        }
-      ],
-      "duration_ms": 184040,
-      "name": "Softskin",
-      "url": "https://open.spotify.com/track/5bFIeyLczKP7BADj3z6Mst"
     },
     {
       "added_at": "2026-05-22 04:01:04",
@@ -1827,18 +1783,46 @@
     {
       "added_at": "2026-05-22 04:01:04",
       "album": {
-        "name": "Simmer",
-        "url": "https://open.spotify.com/album/1fynK3HUCgQsScMDQLlV0d"
+        "name": "Nothing Is Forever (Yuksek Remix)",
+        "url": "https://open.spotify.com/album/6M9fbOzo9coxn3qO3Qxl7E"
       },
       "artists": [
         {
-          "name": "Supertaste",
-          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
+          "name": "Kraak & Smaak",
+          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
+        },
+        {
+          "name": "Kosta G",
+          "url": "https://open.spotify.com/artist/64ucpxkeLwoyiLViMhBR3v"
+        },
+        {
+          "name": "Yuksek",
+          "url": "https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf"
         }
       ],
-      "duration_ms": 157906,
-      "name": "Simmer",
-      "url": "https://open.spotify.com/track/5rP53oEvIGo8t21srGm9N2"
+      "duration_ms": 295081,
+      "name": "Nothing Is Forever - Yuksek Remix",
+      "url": "https://open.spotify.com/track/42STKSJGBYfCJsTqlpq3XA"
+    },
+    {
+      "added_at": "2026-05-22 04:01:04",
+      "album": {
+        "name": "Softskin",
+        "url": "https://open.spotify.com/album/6uqPtb7hQIcZeWpjz9TytF"
+      },
+      "artists": [
+        {
+          "name": "Kid Francescoli",
+          "url": "https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD"
+        },
+        {
+          "name": "Andr\u00e9a",
+          "url": "https://open.spotify.com/artist/0wAy4Wrv599H4LN56EurR3"
+        }
+      ],
+      "duration_ms": 184040,
+      "name": "Softskin",
+      "url": "https://open.spotify.com/track/5bFIeyLczKP7BADj3z6Mst"
     },
     {
       "added_at": "2026-05-22 04:01:04",
@@ -1863,6 +1847,22 @@
       "duration_ms": 178000,
       "name": "Only You",
       "url": "https://open.spotify.com/track/2FGXZznZ2xSBw4UkgX8ILo"
+    },
+    {
+      "added_at": "2026-05-22 04:01:04",
+      "album": {
+        "name": "Simmer",
+        "url": "https://open.spotify.com/album/1fynK3HUCgQsScMDQLlV0d"
+      },
+      "artists": [
+        {
+          "name": "Supertaste",
+          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
+        }
+      ],
+      "duration_ms": 157906,
+      "name": "Simmer",
+      "url": "https://open.spotify.com/track/5rP53oEvIGo8t21srGm9N2"
     },
     {
       "added_at": "2026-05-22 04:01:04",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2026-05-22 04:01:04",
       "album": {
-        "name": "Past Life",
-        "url": "https://open.spotify.com/album/4u64WU25uYmjvdNGIJZjOr"
-      },
-      "artists": [
-        {
-          "name": "Paco Versailles",
-          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
-        }
-      ],
-      "duration_ms": 237716,
-      "name": "Past Life",
-      "url": "https://open.spotify.com/track/2Bgg6GgU47i8PRRYg8YTj0"
-    },
-    {
-      "added_at": "2026-05-22 04:01:04",
-      "album": {
         "name": "SUBURBIA (after dark)",
         "url": "https://open.spotify.com/album/4dfsU2fRGwB5BC8IbhhoMA"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 208200,
       "name": "california",
       "url": "https://open.spotify.com/track/0s8MaDO1NRBNHZsh25ix9k"
+    },
+    {
+      "added_at": "2026-05-22 04:01:04",
+      "album": {
+        "name": "Past Life",
+        "url": "https://open.spotify.com/album/4u64WU25uYmjvdNGIJZjOr"
+      },
+      "artists": [
+        {
+          "name": "Paco Versailles",
+          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
+        }
+      ],
+      "duration_ms": 237716,
+      "name": "Past Life",
+      "url": "https://open.spotify.com/track/2Bgg6GgU47i8PRRYg8YTj0"
     },
     {
       "added_at": "2026-05-22 04:01:04",
@@ -2131,26 +2131,6 @@
     {
       "added_at": "2026-05-22 04:01:04",
       "album": {
-        "name": "Deal With Love",
-        "url": "https://open.spotify.com/album/0lWEcyqe1x63wdfzVpGgS8"
-      },
-      "artists": [
-        {
-          "name": "M\u00f8me",
-          "url": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
-        },
-        {
-          "name": "Paco Versailles",
-          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Deal With Love",
-      "url": "https://open.spotify.com/track/32JvxnUlvQEtPY9SCRXwK3"
-    },
-    {
-      "added_at": "2026-05-22 04:01:04",
-      "album": {
         "name": "Touch",
         "url": "https://open.spotify.com/album/0SQFyjExg2msQL7xm8Pdw2"
       },
@@ -2187,6 +2167,26 @@
     {
       "added_at": "2026-05-22 04:01:04",
       "album": {
+        "name": "Deal With Love",
+        "url": "https://open.spotify.com/album/0lWEcyqe1x63wdfzVpGgS8"
+      },
+      "artists": [
+        {
+          "name": "M\u00f8me",
+          "url": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
+        },
+        {
+          "name": "Paco Versailles",
+          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Deal With Love",
+      "url": "https://open.spotify.com/track/32JvxnUlvQEtPY9SCRXwK3"
+    },
+    {
+      "added_at": "2026-05-22 04:01:04",
+      "album": {
         "name": "Turning My Heart Blue",
         "url": "https://open.spotify.com/album/7fIfDMV8cMkrikHlLyt93R"
       },
@@ -2199,26 +2199,6 @@
       "duration_ms": 234332,
       "name": "Turning My Heart Blue",
       "url": "https://open.spotify.com/track/4gIfhN6xTKfPDupplMF5xu"
-    },
-    {
-      "added_at": "2026-05-22 04:01:04",
-      "album": {
-        "name": "Nothing Is Forever",
-        "url": "https://open.spotify.com/album/14NTbIECS6DX5hBvtPoyS9"
-      },
-      "artists": [
-        {
-          "name": "Kraak & Smaak",
-          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
-        },
-        {
-          "name": "Kosta G",
-          "url": "https://open.spotify.com/artist/64ucpxkeLwoyiLViMhBR3v"
-        }
-      ],
-      "duration_ms": 212096,
-      "name": "Nothing Is Forever",
-      "url": "https://open.spotify.com/track/26E5NPwV30kG0lYLrUhAK5"
     },
     {
       "added_at": "2026-05-22 04:01:04",
@@ -2243,18 +2223,22 @@
     {
       "added_at": "2026-05-22 04:01:04",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/2jjwe9UvqCRov75gWn7w5R"
+        "name": "Nothing Is Forever",
+        "url": "https://open.spotify.com/album/14NTbIECS6DX5hBvtPoyS9"
       },
       "artists": [
         {
-          "name": "Tensnake",
-          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+          "name": "Kraak & Smaak",
+          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
+        },
+        {
+          "name": "Kosta G",
+          "url": "https://open.spotify.com/artist/64ucpxkeLwoyiLViMhBR3v"
         }
       ],
-      "duration_ms": 154979,
-      "name": "Everybody",
-      "url": "https://open.spotify.com/track/39NtLFOy3CVoceN9DH8Znc"
+      "duration_ms": 212096,
+      "name": "Nothing Is Forever",
+      "url": "https://open.spotify.com/track/26E5NPwV30kG0lYLrUhAK5"
     },
     {
       "added_at": "2026-05-22 04:01:04",
@@ -2279,6 +2263,22 @@
       "duration_ms": 225083,
       "name": "Turn Up The Love - Roosevelt Remix",
       "url": "https://open.spotify.com/track/6PoriAHnwpIM3EDFUAZNSI"
+    },
+    {
+      "added_at": "2026-05-22 04:01:04",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/2jjwe9UvqCRov75gWn7w5R"
+      },
+      "artists": [
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        }
+      ],
+      "duration_ms": 154979,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/39NtLFOy3CVoceN9DH8Znc"
     },
     {
       "added_at": "2026-05-22 04:01:04",
@@ -2407,22 +2407,22 @@
     {
       "added_at": "2026-05-22 04:01:04",
       "album": {
-        "name": "Confetti (Kraak & Smaak Remix)",
-        "url": "https://open.spotify.com/album/3oFSALQPWl6XXcBTeZLZZ9"
+        "name": "360 (feat. Barny Fletcher)",
+        "url": "https://open.spotify.com/album/19jSmzCS2rwyXKQuSD6EQw"
       },
       "artists": [
         {
-          "name": "Marine Neuilly",
-          "url": "https://open.spotify.com/artist/4YwQhwRfbRMFIplXwGQezw"
+          "name": "Benni Ola",
+          "url": "https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg"
         },
         {
-          "name": "Kraak & Smaak",
-          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
+          "name": "Barny Fletcher",
+          "url": "https://open.spotify.com/artist/5q9zHGohILrZ2j1bSL1VeG"
         }
       ],
-      "duration_ms": 218000,
-      "name": "Confetti - Kraak & Smaak Remix",
-      "url": "https://open.spotify.com/track/7hlj2sZHWObIaLIEiMSd9Y"
+      "duration_ms": 194482,
+      "name": "360 (feat. Barny Fletcher)",
+      "url": "https://open.spotify.com/track/6gkNv760hq2dU4CXJghAPL"
     }
   ],
   "unique_name": "Poolside Disco",

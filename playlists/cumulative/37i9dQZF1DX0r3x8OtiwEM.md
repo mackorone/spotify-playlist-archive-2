@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-789 songs - 3 day 1 hr 30 min
+790 songs - 3 day 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -698,7 +698,7 @@
 | [The Underground](https://open.spotify.com/track/7wGmPBuP4YuLGd8VBr3tXT) | [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x), [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds), [Tom Diesel](https://open.spotify.com/artist/7rolJUC0OEHjIesmKcAGKX) | [The Underground](https://open.spotify.com/album/1EVXcljYwqRs05PCzODyWB) | 3:26 | 2025-05-30 |  |
 | [The Unseen](https://open.spotify.com/track/1urNwF91sq26no4phIbJ1t) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [The Unseen / Banderas](https://open.spotify.com/album/4CzoCLWZ8b8fstvRxH8GKN) | 8:00 | 2019-08-06\* | 2020-06-10 |
 | [The Vision](https://open.spotify.com/track/6z3H6Mk3MWMpQXpfMAs0u6) | [DJ Boris](https://open.spotify.com/artist/0CwEv3FWLZi5UomNNYUn0u) | [The Vision](https://open.spotify.com/album/2PJqOxAEfY2jYEpOEog8cd) | 6:43 | 2019-08-15 | 2019-11-09 |
-| [The Wave](https://open.spotify.com/track/4bqLhWkEv7csb51jN98YeT) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [just lil](https://open.spotify.com/artist/3jcw0K5zIPsqqTcsVmKpQg) | [The Wave](https://open.spotify.com/album/1Hlt6ok7aP4iHmQKIgrh3W) | 2:45 | 2026-06-05 |  |
+| [The Wave](https://open.spotify.com/track/4bqLhWkEv7csb51jN98YeT) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [just lil](https://open.spotify.com/artist/3jcw0K5zIPsqqTcsVmKpQg) | [The Wave](https://open.spotify.com/album/1Hlt6ok7aP4iHmQKIgrh3W) | 2:45 | 2026-06-05 | 2026-06-26 |
 | [they told us it was hard, but they were wrong\. \- Fort Romeau Remix](https://open.spotify.com/track/1nF0nHDkHm9BXz7RPeiPtW) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T), [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [they told us it was hard, but they were wrong\. \(remixes\)](https://open.spotify.com/album/5hRlpKQs8T7yQsuenTi3Su) | 5:05 | 2020-07-31 | 2020-09-19 |
 | [They Will Come for Us](https://open.spotify.com/track/5DDdTX9CVzL5PChBJbOa6v) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Delirium / They Will Come for Us](https://open.spotify.com/album/2c0DR1bxAF1nykL9zCPv1M) | 7:15 | 2019-12-23 | 2020-02-01 |
 | [Thinking About You \- Radio Slave feat\. Thomas Gandey Remix](https://open.spotify.com/track/3zAl00ED85d3DoRViaOYg5) | [Sailor & I](https://open.spotify.com/artist/2RZbJDQz3gwJppZzfbuxTx), [Thomas Gandey](https://open.spotify.com/artist/3sL1rpCWTOOABA0CKuyQcM), [Radio Slave](https://open.spotify.com/artist/4rzWjR3L3M54c6I25NzdM3) | [Thinking About You](https://open.spotify.com/album/4HcvPLeX6aREov5RfkrJQB) | 7:50 | 2021-10-14 | 2021-12-19 |
@@ -710,6 +710,7 @@
 | [Time \- Alan Walker Remix \- Extended Version](https://open.spotify.com/track/6SDQETfHW9JT9p99S3nB44) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Time \(Alan Walker Remix\)](https://open.spotify.com/album/6Enr9Ghbsfd3Gs9QLrj612) | 3:35 | 2020-06-12 | 2020-09-11 |
 | [Time Machine](https://open.spotify.com/track/2W95I0bLSIEyuMepqUO522) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey) | [Time Machine](https://open.spotify.com/album/4N3tw2C89vya0RGo6P7g84) | 4:31 | 2023-09-15 | 2024-05-23 |
 | [Toni](https://open.spotify.com/track/1pCKUgc3yk3F9Mt0MTX51o) | [Kalipo](https://open.spotify.com/artist/7ud6dY3K4gi4Q0uVlLd8Hi) | [Toni](https://open.spotify.com/album/3X2xoDkyQ7hVrelZbAiJJY) | 4:58 | 2021-07-17 | 2022-07-28 |
+| [Tonight](https://open.spotify.com/track/4FRuekKdW64dsRJXzzVOLy) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa), [Kosmo Kint](https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn) | [Tonight](https://open.spotify.com/album/1yFzaDx3ibycTAZqUQHJMh) | 3:33 | 2026-06-19 |  |
 | [Too Far Down The Trap \- Kölsch Remix](https://open.spotify.com/track/2HBcyKXs7ahHDssSJ9goSq) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Promised Land \(Remixes\)](https://open.spotify.com/album/7y2Ql92gRjn5vdf1pE8Dhn) | 4:14 | 2024-10-04 | 2025-02-03 |
 | [Too Young](https://open.spotify.com/track/2P47oSY4wOA04R35miFEnn) | [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47), [Ewerseen](https://open.spotify.com/artist/23BaLIAqxy7EayKqACLKPG) | [Too Young](https://open.spotify.com/album/2eSDpMFSB9UmWGOa9tzcC4) | 2:55 | 2025-09-26 | 2025-10-20 |
 | [Topinambur](https://open.spotify.com/track/1aVOrF9veeQuBHZ3FqgZo3) | [Robag Wruhme](https://open.spotify.com/artist/47UDvjDVedKddLfGWk3keI) | [Topinambur EP](https://open.spotify.com/album/6DN4tGqxGOdvGTagUJFmMe) | 6:30 | 2019-12-02 | 2020-05-27 |

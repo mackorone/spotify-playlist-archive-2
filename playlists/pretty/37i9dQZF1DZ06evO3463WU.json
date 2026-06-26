@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 159853,
+  "num_followers": 159863,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajnMgAAAAACQS6VgORJTmA7NyQB/MUOL",
+  "snapshot_id": "ajseAAAAAAD3TmStqX60rTQZwehgr5bf",
   "tracks": [
     {
       "added_at": null,
@@ -752,13 +752,13 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         },
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
         }
       ],
-      "duration_ms": 167986,
-      "name": "Qu\u00e9 Bonito",
-      "url": "https://open.spotify.com/track/3WuXX621m0Vuh8j9VEWvNN"
+      "duration_ms": 187050,
+      "name": "Cien Por Ciento Sincero",
+      "url": "https://open.spotify.com/track/5FvEasro5di9caSJDnLZpz"
     },
     {
       "added_at": null,
@@ -820,33 +820,29 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         },
         {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 187050,
-      "name": "Cien Por Ciento Sincero",
-      "url": "https://open.spotify.com/track/5FvEasro5di9caSJDnLZpz"
+      "duration_ms": 167986,
+      "name": "Qu\u00e9 Bonito",
+      "url": "https://open.spotify.com/track/3WuXX621m0Vuh8j9VEWvNN"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Disc\u00falpame",
-        "url": "https://open.spotify.com/album/4tzSRJNXBiaVkwAeIozUqC"
+        "name": "Vuelve Por Favor",
+        "url": "https://open.spotify.com/album/1yAwz5raSrm3gda3WIIyBC"
       },
       "artists": [
         {
           "name": "Pancho Barraza",
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
         }
       ],
-      "duration_ms": 237722,
-      "name": "Disc\u00falpame",
-      "url": "https://open.spotify.com/track/4nPKL7NXwP8MEbanY7ttD1"
+      "duration_ms": 157605,
+      "name": "Arr\u00e1ncame La Vida",
+      "url": "https://open.spotify.com/track/6xxPw0GEudMMCUKqmvdTCW"
     },
     {
       "added_at": null,
@@ -883,18 +879,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vuelve Por Favor",
-        "url": "https://open.spotify.com/album/1yAwz5raSrm3gda3WIIyBC"
+        "name": "Disc\u00falpame",
+        "url": "https://open.spotify.com/album/4tzSRJNXBiaVkwAeIozUqC"
       },
       "artists": [
         {
           "name": "Pancho Barraza",
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
         }
       ],
-      "duration_ms": 157605,
-      "name": "Arr\u00e1ncame La Vida",
-      "url": "https://open.spotify.com/track/6xxPw0GEudMMCUKqmvdTCW"
+      "duration_ms": 237722,
+      "name": "Disc\u00falpame",
+      "url": "https://open.spotify.com/track/4nPKL7NXwP8MEbanY7ttD1"
     },
     {
       "added_at": null,

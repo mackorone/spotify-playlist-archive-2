@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: Zach Williams
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,837 likes - 80 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,893 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 73 | [Halfway Home](https://open.spotify.com/track/0aS1qk5IIimBhHzwhbYruc) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Halfway Home](https://open.spotify.com/album/3mys52nKcxd0nAAtB7XMA0) | 3:57 |
 | 74 | [Oklahoma](https://open.spotify.com/track/1WXHHQim1F23dML0yFIUt5) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [Oklahoma](https://open.spotify.com/album/6TryrnzGC2Ud4DorIe5gZq) | 3:52 |
 | 75 | [So Good](https://open.spotify.com/track/5PrEButzavdedQm4euqZFd) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Everything I Thought Was Pleasure](https://open.spotify.com/album/2yRSWoDOE8OJUEVA0ZugIq) | 3:25 |
-| 76 | [There Is A God](https://open.spotify.com/track/7yRA2d7Cc6XjhfKNy95DBX) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [There Is A God](https://open.spotify.com/album/6C6P0jtnKcWA45t2rfuDSt) | 3:45 |
+| 76 | [There Is a God](https://open.spotify.com/track/7yRA2d7Cc6XjhfKNy95DBX) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [There Is a God](https://open.spotify.com/album/6C6P0jtnKcWA45t2rfuDSt) | 3:45 |
 | 77 | [When You Give It Up](https://open.spotify.com/track/5d70RGXlCzwqQl5WLV6Wpk) | [Chelsea Plank](https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y) | [When You Give It Up](https://open.spotify.com/album/174U4t8jS0tRqjhpXlgBMh) | 2:42 |
 | 78 | [Dead and Gone](https://open.spotify.com/track/0ANfiqlF0EdKUB0LSgwD6v) | [Weeks Revival](https://open.spotify.com/artist/1Zi57yVO40T6LnTmyTBU7O) | [Dead and Gone](https://open.spotify.com/album/7mQl1PWg8Ok5aQagggiUWn) | 3:27 |
 | 79 | [Through The Fire](https://open.spotify.com/track/6S8CrWrDVYPCvh9fqjAQ8r) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq), [Ashleigh Crabb Brown](https://open.spotify.com/artist/1JObURmpxnNjSaLuyKDy4H) | [Through The Fire](https://open.spotify.com/album/4Jsl5J5qaRkQ7R7r2uIwef) | 3:29 |

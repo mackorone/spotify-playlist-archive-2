@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Born On Road",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Hedex",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -2370,6 +2370,28 @@
       "duration_ms": 195226,
       "name": "beachin",
       "url": "https://open.spotify.com/track/3urYUGRvToBI4u87OzsSMZ"
+    },
+    {
+      "album": {
+        "name": "Beat On My Drum",
+        "url": "https://open.spotify.com/album/2bhyG6zXxsCE3S43riy5Yc"
+      },
+      "artists": [
+        {
+          "name": "Hedex",
+          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
+        },
+        {
+          "name": "In\u00e9z",
+          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213180,
+      "name": "Beat On My Drum",
+      "url": "https://open.spotify.com/track/5rQTAm1XAm7UKdejGZAkZF"
     },
     {
       "album": {
@@ -10714,7 +10736,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 163448,
       "name": "Hibernate",
       "url": "https://open.spotify.com/track/7bUoddlCfcg0BCKVLQB3Pp"
@@ -15777,6 +15799,24 @@
     },
     {
       "album": {
+        "name": "Music Is The Answer",
+        "url": "https://open.spotify.com/album/2PVsdW9nZaPNzxswN4ESJO"
+      },
+      "artists": [
+        {
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246825,
+      "name": "Music Is The Answer",
+      "url": "https://open.spotify.com/track/0EuxlShp4pAKc4mORZ55MK"
+    },
+    {
+      "album": {
         "name": "Musket (feat. Flowdan)",
         "url": "https://open.spotify.com/album/1OakoC3ZL4UKFe1ymOPsqF"
       },
@@ -16802,7 +16842,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 288000,
       "name": "Northern Step",
       "url": "https://open.spotify.com/track/5uN8qtXFOl8j91njYZmW5w"
@@ -22474,6 +22514,24 @@
     {
       "album": {
         "name": "Stay",
+        "url": "https://open.spotify.com/album/1GKVCz8d1LNErZ9M9fX8C6"
+      },
+      "artists": [
+        {
+          "name": "Friction",
+          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/6GfWX1XBhE4kGuakM5KQha"
+    },
+    {
+      "album": {
+        "name": "Stay",
         "url": "https://open.spotify.com/album/2zFpGhJg2BIAAlhVQADs2X"
       },
       "artists": [
@@ -23786,7 +23844,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 183864,
       "name": "The Boy Is Mine",
       "url": "https://open.spotify.com/track/29Mtao4qbThnNlkLs0nuwv"

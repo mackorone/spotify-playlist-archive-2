@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdIWNEnrI0f.md) - [plain]
 
 > Let Japanese beats guide you into a calm and blissful evening\. / 心地よい夜を過ごすための日本製ビートサウンド
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,811 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,847 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdIWNEnrI0f.md) - [plain]
 | 11 | [Elevator Lover](https://open.spotify.com/track/2ChdsbxUUFspNnBKL7Lzr5) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [tender \(Deluxe Edition\)](https://open.spotify.com/album/4ciRzg4BTydpzSGuOruXCx) | 2:38 |
 | 12 | [While You Dooooo \(Extended\)](https://open.spotify.com/track/7pbEoh1Jx2TSN6nAQ93WQz) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ) | [Collections 01](https://open.spotify.com/album/6MfmIuNJmgLZ0kGE5ot8vi) | 3:27 |
 | 13 | [Resonance](https://open.spotify.com/track/2LxGGThhhbFhyHkaZySaty) | [Toshiki Soejima](https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP), [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO) | [Resonance](https://open.spotify.com/album/247WIvYS7i53FjiPEdCw6H) | 3:28 |
-| 14 | [Counting Stars](https://open.spotify.com/track/7KMm1zF2QOTSw2t01IAFif) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [2nd Collection](https://open.spotify.com/album/1uFAVpKOz5CBiaMxVnA9UW) | 4:07 |
+| 14 | [Yves](https://open.spotify.com/track/4WPkKMDMWFrkKpth3KwLb2) | [Sinj Clarke](https://open.spotify.com/artist/7jDSOef767oJaystnbMU4Q) | [Yves](https://open.spotify.com/album/3iLLjXJhwzrnkO7x2s5YoI) | 5:19 |
 | 15 | [raw material](https://open.spotify.com/track/0J4xZOSAotgO9MKTXKWbrO) | [TSUTCHIE](https://open.spotify.com/artist/4nOZG02O2CExI2rH6zQELY) | [samurai champloo music record masta](https://open.spotify.com/album/6X4szwJZewjNiooQquoQhO) | 4:52 |
-| 16 | [Yves](https://open.spotify.com/track/4WPkKMDMWFrkKpth3KwLb2) | [Sinj Clarke](https://open.spotify.com/artist/7jDSOef767oJaystnbMU4Q) | [Yves](https://open.spotify.com/album/3iLLjXJhwzrnkO7x2s5YoI) | 5:19 |
+| 16 | [Counting Stars](https://open.spotify.com/track/7KMm1zF2QOTSw2t01IAFif) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [2nd Collection](https://open.spotify.com/album/1uFAVpKOz5CBiaMxVnA9UW) | 4:07 |
 | 17 | [ole](https://open.spotify.com/track/5GktrSt0vCcZjJALP61bak) | [fat jon](https://open.spotify.com/artist/5Fmr3KeGe2IAVFmMxUq1sD) | [samurai champloo music record departure](https://open.spotify.com/album/1sY71XLUTXSayYmvfayYKA) | 3:27 |
 | 18 | [Cove](https://open.spotify.com/track/5uRkzJn0E5snSTGcvfSegC) | [Toshiki Soejima](https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO), [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO) | [Carefree](https://open.spotify.com/album/1t0tGWj576akBoj8m9VpXX) | 2:01 |
 | 19 | [Worldwide](https://open.spotify.com/track/6Qs9NTmOxaPs4gEcho8hJa) | [edbl & Kazuki Isogai](https://open.spotify.com/artist/1HaUUmKiUSfsXH0PfgdZcI), [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [JPRK](https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH) | [The edbl × Kazuki Sessions](https://open.spotify.com/album/2BPyV8AqbtLq5mlmDvnzIh) | 3:43 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdIWNEnrI0f.md) - [plain]
 | 42 | [North Wing](https://open.spotify.com/track/05kA0tTx15o8wx0vYqm251) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [tender](https://open.spotify.com/album/6xSM45V8BDQAkDudFVCCHA) | 2:34 |
 | 43 | [Yosei](https://open.spotify.com/track/2kW5HMJTeGkaWuYqYv1ASP) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Nagipan](https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS) | [岡潔 \(Oka Kiyoshi\)](https://open.spotify.com/album/54ie8dvZJk5c6WgNHIsM6Q) | 3:01 |
 | 44 | [20250327](https://open.spotify.com/track/0nEu50RsMP6XI5JkImwbCQ) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [20250327](https://open.spotify.com/album/3c9pYvp6UAqOOnKo0NgVbC) | 2:24 |
-| 45 | [Flow Motion](https://open.spotify.com/track/6letr2UF42D0KowDsi8IRN) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0), [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Flow Motion](https://open.spotify.com/album/4cJ8GhgQkfaoQLpHcESCJB) | 2:12 |
-| 46 | [Tokiwa](https://open.spotify.com/track/727VIiPaWSv4c1poz6RKBk) | [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0), [Notation](https://open.spotify.com/artist/6Ez42bOoRelk95xv7GBMhx) | [Tokiwa](https://open.spotify.com/album/7FhyXUuEEwmRuy3hq8QMgZ) | 2:34 |
+| 45 | [Tokiwa](https://open.spotify.com/track/727VIiPaWSv4c1poz6RKBk) | [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0), [Notation](https://open.spotify.com/artist/6Ez42bOoRelk95xv7GBMhx) | [Tokiwa](https://open.spotify.com/album/7FhyXUuEEwmRuy3hq8QMgZ) | 2:34 |
+| 46 | [Flow Motion](https://open.spotify.com/track/6letr2UF42D0KowDsi8IRN) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0), [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Flow Motion](https://open.spotify.com/album/4cJ8GhgQkfaoQLpHcESCJB) | 2:12 |
 | 47 | [Hidden Shrine](https://open.spotify.com/track/4uciSF8VXH3ne7K4AFFfiV) | [HIDE×HIDE](https://open.spotify.com/artist/618q3uBCcddItL9IPh5yRA), [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Hidden Shrine](https://open.spotify.com/album/0CnkfHS7C6nimtwpdAhgOI) | 2:11 |
 | 48 | [波紋](https://open.spotify.com/track/4t3ll0AOpVc4wAUakoDEtT) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Nagipan](https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS) | [波紋](https://open.spotify.com/album/2ehOsRK8RmkbK47XllQ8L8) | 3:09 |
 | 49 | [Time goes by](https://open.spotify.com/track/6H6pqFQ4cAybRvxkXaTihz) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Time goes by](https://open.spotify.com/album/3BGcymZGetozixza8RWiAv) | 1:55 |
-| 50 | [Scintillate](https://open.spotify.com/track/0I8lF4sOSnxssc99KxcBqU) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT), [Devaloop](https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY) | [Scintillate](https://open.spotify.com/album/0adv9JqoGDSm3WhTL3jzcq) | 2:53 |
+| 50 | [Up and Down](https://open.spotify.com/track/3ijY3w5fc6bIkMjEuKBNNh) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Always in a Hurry](https://open.spotify.com/album/2vJdvUwTvo6DfePDG4XaMf) | 2:31 |
 
-Snapshot ID: `AAAAAJj0tj3GL9sWautCH9WUBBfKxsxq`
+Snapshot ID: `AAAAAO/8+T9UmeXSK7+JjrnGllAZ9cJY`

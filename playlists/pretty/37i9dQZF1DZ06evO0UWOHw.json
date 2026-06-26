@@ -1,12 +1,12 @@
 {
   "description": "This is Victony. The essential tracks, all in one playlist.",
-  "num_followers": 17308,
+  "num_followers": 17332,
   "original_name": "This Is Victony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajnMgAAAAADEHktZkjHuBvE8gjGuygrw",
+  "snapshot_id": "ajseAAAAAADIVMU5y5FpqVcvwJRjCBGj",
   "tracks": [
     {
       "added_at": null,
@@ -611,30 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Like2 - Part II (with Skillibeng & Victony)",
-        "url": "https://open.spotify.com/album/1dXuMmtv9aE9H5FbpxGzPa"
-      },
-      "artists": [
-        {
-          "name": "CallMeTheKidd",
-          "url": "https://open.spotify.com/artist/1q3rVmTrPa51ofrwEfC6Kc"
-        },
-        {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 193250,
-      "name": "Like2 - Part II (with Skillibeng & Victony)",
-      "url": "https://open.spotify.com/track/2nNenfkc5uv1b9zkLZ5rOl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hypnotize",
         "url": "https://open.spotify.com/album/5yEFZR4xk6tSmCUz7TU5dl"
       },
@@ -655,6 +631,30 @@
       "duration_ms": 206821,
       "name": "Hypnotize",
       "url": "https://open.spotify.com/track/7LNQltPtE6ChZrHdbYn6BJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Like2 - Part II (with Skillibeng & Victony)",
+        "url": "https://open.spotify.com/album/1dXuMmtv9aE9H5FbpxGzPa"
+      },
+      "artists": [
+        {
+          "name": "CallMeTheKidd",
+          "url": "https://open.spotify.com/artist/1q3rVmTrPa51ofrwEfC6Kc"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 193250,
+      "name": "Like2 - Part II (with Skillibeng & Victony)",
+      "url": "https://open.spotify.com/track/2nNenfkc5uv1b9zkLZ5rOl"
     },
     {
       "added_at": null,

@@ -2,9 +2,9 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Serge Beynaud
+> The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Ste Milano
 
-302 songs - 16 hr 22 min
+304 songs - 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Calculatrice](https://open.spotify.com/track/1CbMMoHWbATGljOR58qEQX) | [Ovie Kan](https://open.spotify.com/artist/3nKWXc2kFHNOhjr37rkvqd) | [Calculatrice](https://open.spotify.com/album/1pQi43kOfpPTlgZRiRMvN8) | 3:45 | 2024-04-25 | 2025-04-25 |
 | [Caléçon](https://open.spotify.com/track/02KynjfpJDJFKmNlxGMcUE) | [Ko\-C](https://open.spotify.com/artist/7BuOoNFjQ1NSpXH0NEzWjy), [Coco Argentée](https://open.spotify.com/artist/3eZbaZtJasAh4P1ptj7bOe) | [Caléçon](https://open.spotify.com/album/7krsg8jshA79Nbd3dnT7In) | 3:28 | 2021-12-20 | 2022-05-27 |
 | [Caprices de Grossesse](https://open.spotify.com/track/6BgeBCh0vWweiQOvYVVKIc) | [Rocky Gold](https://open.spotify.com/artist/0pagPxNrVGh9Qxjh7gn5t7) | [Caprices de Grossesse](https://open.spotify.com/album/20hqf8Bugd8BuK0AkHGHuG) | 4:00 | 2022-02-18 | 2022-06-10 |
+| [CASSE TES REINS](https://open.spotify.com/track/0cugMiKuEQqHj4faaNMR8h) | [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp) | [CASSE TES REINS](https://open.spotify.com/album/1Kcy09lwfBd5SRzP427GvQ) | 2:38 | 2026-06-25 |  |
 | [Changer de côté](https://open.spotify.com/track/3CiJTm2KpuIi9SCA4pzsw6) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Changer de côté](https://open.spotify.com/album/78hiKUxmKL9yefF86CBx3F) | 2:28 | 2026-06-11 |  |
 | [Chauffer le moteur](https://open.spotify.com/track/3S6HETWwfANztUu4Bn5mk9) | [Le D](https://open.spotify.com/artist/1q3qfgcLt7dhYNdWLEXgkX), [Elow'n](https://open.spotify.com/artist/0Gzh0CiahP7loDQP9cn8wt) | [Chauffer le moteur](https://open.spotify.com/album/57EyQk4TpucFXj8yeMdCX3) | 2:47 | 2023-05-18 | 2023-11-24 |
 | [Chebaba](https://open.spotify.com/track/2GrBcbY5ui7yYD9cz1qalO) | [DOUPI PAPILLON](https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le) | [Chebaba](https://open.spotify.com/album/1oxFxatESpXiF5NxLToR74) | 3:22 | 2023-01-12 | 2026-06-12 |
@@ -133,7 +134,7 @@
 | [Focus](https://open.spotify.com/track/3uD2nwx9InLQXr87PuWK3w) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [Focus](https://open.spotify.com/album/4OgcsMdkA4i14JQy1UEXbn) | 2:01 | 2025-07-03 | 2025-11-22 |
 | [Galoper](https://open.spotify.com/track/20ai8KKeDZt0U0vQpclRI4) | [AB LE SUPERMAN](https://open.spotify.com/artist/6K0TZzd8j1q00kwLoncFgJ), [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Galoper](https://open.spotify.com/album/6R4VDE6rOcWJX0H0QVUfJR) | 3:21 | 2023-11-23 | 2024-01-12 |
 | [Garant](https://open.spotify.com/track/5TeUWWHx72QJSgLmS03qjg) | [Safarel Obiang](https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK) | [Garant](https://open.spotify.com/album/2ftu1WjXPD3lpSMQyapwl7) | 3:52 | 2025-03-27 | 2025-10-03 |
-| [Gatement](https://open.spotify.com/track/6bBDszeIuIPd21f8hyf8xr) | [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp) | [Gatement](https://open.spotify.com/album/13OOXMCOjAghbNn9CT9JWJ) | 3:01 | 2025-12-11 |  |
+| [Gatement](https://open.spotify.com/track/6bBDszeIuIPd21f8hyf8xr) | [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp) | [Gatement](https://open.spotify.com/album/13OOXMCOjAghbNn9CT9JWJ) | 3:01 | 2025-12-11 | 2026-06-26 |
 | [Gba Gba \(feat\. Toofan\)](https://open.spotify.com/track/0KZn7SdWR2wRZ1XdW7DU89) | [Axel Merryl](https://open.spotify.com/artist/3G8Pa34BvtmFCVZeOkUJBq), [Toofan](https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi) | [Gba Gba \(feat\. Toofan\)](https://open.spotify.com/album/0PPiG1yFFDt6KCxTemDNrm) | 2:56 | 2025-04-10 | 2025-10-10 |
 | [Gbachina](https://open.spotify.com/track/3Pqqojb8FEEjNAs5lGmZfU) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8) | [Unique](https://open.spotify.com/album/4wsS0vbxRyaG7AR5pIluwe) | 3:48 | 2026-05-07 |  |
 | [Gbrokoto gbrakata](https://open.spotify.com/track/2P8xD8TqtVzoj8taYLcNnz) | [VDA](https://open.spotify.com/artist/5KFQVUUJceKqUAjdtMD4D0) | [Gbrokoto gbrakata](https://open.spotify.com/album/3gY7HkUtDfVfU1ltVRtHUY) | 3:11 | 2025-12-18 | 2026-02-20 |
@@ -237,9 +238,10 @@
 | [PAPA HONORÉ](https://open.spotify.com/track/3RdpwOu5Rk5hZCyq9LJwnb) | [DRE\-A](https://open.spotify.com/artist/7fgp0tqyX3Rccl9P9042mE), [Maa Bio](https://open.spotify.com/artist/07Zs2joCc5igkrjHAeYAEb) | [PAPA HONORÉ](https://open.spotify.com/album/3oeVZbaxJgphr0mVeDId2k) | 2:49 | 2026-06-11 |  |
 | [Passer à coté](https://open.spotify.com/track/4L1HVDYcQdB30NwIjHWJhy) | [Taf La Référence](https://open.spotify.com/artist/5CtDNucB5geU4uqT0SuqZv) | [Passer à coté](https://open.spotify.com/album/6O8hSo39PIBT9LrEdQJ80F) | 2:17 | 2025-04-03 |  |
 | [Petit feu](https://open.spotify.com/track/6L02e6ZEAzKLaeCalrae46) | [Dj Lewis](https://open.spotify.com/artist/2SFw569GOt4rT22zKB38tI), [Team de Poy](https://open.spotify.com/artist/5ENFgPSRpmOpf02X0b4COs) | [CHANGEMENT](https://open.spotify.com/album/1t8v9ob5LHoe880FILPwf2) | 3:24 | 2024-11-14 | 2025-01-31 |
+| [Petit Mapouka](https://open.spotify.com/track/0STTtdPLNdi1NhrGNFHOk9) | [Taf La Référence](https://open.spotify.com/artist/5CtDNucB5geU4uqT0SuqZv) | [Petit Mapouka](https://open.spotify.com/album/2wrbK7ii7ZQ4RsfrmQMXE8) | 2:06 | 2026-06-25 |  |
 | [petite position](https://open.spotify.com/track/1QbjKkAwxDQ49KtplR54Gz) | [Molare](https://open.spotify.com/artist/4RVinIIKSvO4mc0DGj8FW1), [zagpa le requin](https://open.spotify.com/artist/2a77lQyTgbEF3iGy1Dl8V9) | [petite position](https://open.spotify.com/album/6sqTDg1fnpCzNcC1zryqsM) | 3:27 | 2024-01-11 | 2024-03-08 |
 | [Piment](https://open.spotify.com/track/7gB92KifQkXumaRUvxMRNN) | [Agato](https://open.spotify.com/artist/7sDqcdPnwu8MAy5zulMiNz) | [GRINTA](https://open.spotify.com/album/1vEPXP3H5oAg8OOYdKF3pX) | 2:44 | 2022-12-15 | 2023-01-27 |
-| [PLP \- Prends la position](https://open.spotify.com/track/478giL46hJZf0mLhpqEdlu) | [Maydi](https://open.spotify.com/artist/68gQ1BsxTkb1zWJ86nvCBL), [TNT Family](https://open.spotify.com/artist/707k62nFnrWfAmYF9qFcI6) | [PLP \- Prends la position](https://open.spotify.com/album/2HRB1Qq5Hgx9iBPFCunq0Y) | 2:56 | 2026-04-30 |  |
+| [PLP \- Prends la position](https://open.spotify.com/track/478giL46hJZf0mLhpqEdlu) | [Maydi](https://open.spotify.com/artist/68gQ1BsxTkb1zWJ86nvCBL), [TNT Family](https://open.spotify.com/artist/707k62nFnrWfAmYF9qFcI6) | [PLP \- Prends la position](https://open.spotify.com/album/2HRB1Qq5Hgx9iBPFCunq0Y) | 2:56 | 2026-04-30 | 2026-06-26 |
 | [Pourquoi Tirer](https://open.spotify.com/track/02RDO3RzmmKf3ey1G1LeTw) | [Zadi The King](https://open.spotify.com/artist/24NSOTUjCrXAW79i9GwAwt), [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp), [Abomé L'Elephant](https://open.spotify.com/artist/0STZh033Ib685S7yR3Y6vv), [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj), [EMMANUEL BEAT](https://open.spotify.com/artist/03KZQq7zWCbKsngfaLXB0c) | [Pourquoi Tirer](https://open.spotify.com/album/4FlH7yxnTG5pEoqR66gHrq) | 3:20 | 2025-12-11 | 2025-12-19 |
 | [Pousser Démarrer](https://open.spotify.com/track/4bjgCHM6Moyn1I8nBWEgB0) | [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [Pousser Démarrer](https://open.spotify.com/album/2NQElktTGzLahZN3ZCzSNE) | 2:38 | 2025-08-21 | 2026-06-12 |
 | [PÉTÉ](https://open.spotify.com/track/35tlKcLBwsBVmbqVNdZdWK) | [Roma Chiyaya](https://open.spotify.com/artist/2aHgdotevWLyzsIMyeLMX0), [Kadirov Mania](https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK) | [PÉTÉ](https://open.spotify.com/album/7y9YoqewF5oqFjJVs1WgDp) | 2:50 | 2025-01-23 | 2026-01-15 |

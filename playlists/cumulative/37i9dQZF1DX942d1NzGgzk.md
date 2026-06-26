@@ -4,7 +4,7 @@
 
 > The latest of R&B rising in the UK\. Cover: Saint Harison
 
-633 songs - 1 day 8 hr 44 min
+635 songs - 1 day 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [Fallin 4 A Thug](https://open.spotify.com/track/21LvidSXOuc5jgy5ttnCkP) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Fallin 4 A Thug](https://open.spotify.com/album/08two7eshES8TNEHi6WBGl) | 2:30 | 2024-09-12 | 2024-11-17 |
 | [Falling or flying](https://open.spotify.com/track/3o790sA4zssA7vtFpElKKS) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Falling or flying](https://open.spotify.com/album/4DQceiYfpF7ByhwsBQaWYH) | 3:24 | 2023-09-14 | 2024-04-24 |
 | [FEEL SOMETHING](https://open.spotify.com/track/6oOuCS6uz4Vw54CGexK57j) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [FEEL SOMETHING](https://open.spotify.com/album/1IdkBIdxlY0c4mEIC4xfL0) | 2:32 | 2025-06-26 | 2026-02-06 |
-| [feels like home](https://open.spotify.com/track/6mEbQzPatJwotaLbYB6OLQ) | [Naliyah](https://open.spotify.com/artist/3DbI3fZ6rjnVdNMvIehZYo) | [feels like home](https://open.spotify.com/album/0zZbfPWiZz3v9UlFNFwUzl) | 2:40 | 2026-02-27 |  |
+| [feels like home](https://open.spotify.com/track/6mEbQzPatJwotaLbYB6OLQ) | [Naliyah](https://open.spotify.com/artist/3DbI3fZ6rjnVdNMvIehZYo) | [feels like home](https://open.spotify.com/album/0zZbfPWiZz3v9UlFNFwUzl) | 2:40 | 2026-02-27 | 2026-06-26 |
 | [Fell Again](https://open.spotify.com/track/6S86CLAoA7S19wk8WeQjRs) | [cikho](https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz) | [Fell Again / Stranger What's Your Name?](https://open.spotify.com/album/5ug1JL9PFc1gCxokrSh1yo) | 2:41 | 2026-04-23 |  |
 | [Fickle](https://open.spotify.com/track/1iVkt8ObfcsC4hch6nOhf1) | [Shamiya Battles](https://open.spotify.com/artist/3NTdPQSh0JSz5c5AGngQyE) | [Fickle](https://open.spotify.com/album/0Qv2r7upfV3ypA63OVwAPA) | 2:31 | 2023-05-15 | 2023-06-02 |
 | [Fight you](https://open.spotify.com/track/0ge1CEon7FR7RX78ZdZhDA) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Tell Jimmy](https://open.spotify.com/album/7qW0v91QqdcYVuu4sVMLVt) | 3:18 | 2024-02-16 | 2024-03-23 |
@@ -193,6 +193,7 @@
 | [Follow You](https://open.spotify.com/track/3YhmZC4QRnlLn87XuWWRUW) | [ALIA LARA](https://open.spotify.com/artist/7LZtbcOzfx11Fhapw8iiOO) | [Follow You](https://open.spotify.com/album/4LX6oVgc0dBtUzAxcjmDwM) | 3:32 | 2025-04-04 | 2026-02-27 |
 | [Fool's Gold](https://open.spotify.com/track/2xGyP9WuKLJc3zQ395OVPo) | [Elli Ingram](https://open.spotify.com/artist/29Dil4ZXNOwBukXdVL1EwB), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Fool's Gold](https://open.spotify.com/album/49fo04SNkMfOzzZ7tEtVvX) | 2:27 | 2023-03-10 | 2023-05-19 |
 | [For You](https://open.spotify.com/track/015oTZOFMNR1IhWEKOr1H1) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [For You](https://open.spotify.com/album/3EQO3rDWtGgMrVby1xtuCi) | 2:34 | 2026-02-13 |  |
+| [Foreign](https://open.spotify.com/track/5LKYdatBy0QOV1ME8sHowf) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Foreign](https://open.spotify.com/album/5UMhrr7ZuhfzTqVqVb1rzk) | 3:23 | 2026-06-25 |  |
 | [Forever](https://open.spotify.com/track/64CKrUSNUMzFHziTnJJzNG) | [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq) | [Forever](https://open.spotify.com/album/1NYpfhFgpcoMmADUQsaYQm) | 2:39 | 2023-05-15 | 2023-10-03 |
 | [Forgive & Forget](https://open.spotify.com/track/6KafcmIAnIcYOA1Qppfurb) | [RUBII](https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ) | [Forgive & Forget](https://open.spotify.com/album/4MKYOIlZOjLfZIgn1vgBHf) | 2:12 | 2025-09-18 | 2026-05-22 |
 | [Found Love](https://open.spotify.com/track/5Puvc0yCAbWyz5qdTRIcJ0) | [Lylo Gold](https://open.spotify.com/artist/7eBQUbzafUptbgfThBl3dW) | [Lylo Land](https://open.spotify.com/album/1TNGZ5RPitdnsLEvC4GaFT) | 3:07 | 2025-11-21 |  |
@@ -246,7 +247,7 @@
 | [Heaven](https://open.spotify.com/track/7a8PhNagyGpyzbmAsAg76b) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 2:42 | 2023-09-22 | 2024-09-13 |
 | [Heaven](https://open.spotify.com/track/3Wqossbsoiwknv6unRnPlK) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [Heaven](https://open.spotify.com/album/1WUmhAZpjr4WS7QwHfiyco) | 2:32 | 2024-04-19 | 2025-02-07 |
 | [Helicopter](https://open.spotify.com/track/5u3NtpxaJ1OUxlM3dsMDOK) | [Ruby Francis](https://open.spotify.com/artist/7fnUWKPwdb4svzQ7xQF83U) | [Helicopter](https://open.spotify.com/album/797Abj1cvYKD5cgdArm4CX) | 2:42 | 2025-07-24 | 2025-08-09 |
-| [hella jealous](https://open.spotify.com/track/0l45fHynGyWPiSrJ1szQZj) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [hella jealous](https://open.spotify.com/album/0Q0DLgcmAFmehAKjNGx2mz) | 3:09 | 2025-11-07 |  |
+| [hella jealous](https://open.spotify.com/track/0l45fHynGyWPiSrJ1szQZj) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [hella jealous](https://open.spotify.com/album/0Q0DLgcmAFmehAKjNGx2mz) | 3:09 | 2025-11-07 | 2026-06-26 |
 | [Help Me Fight a Losing Battle](https://open.spotify.com/track/29Dpkv9ruNKicm9Xhx4mYL) | [Kaleem Taylor](https://open.spotify.com/artist/4eQKo2fvEqEbdopHhSjlug) | [Help Me Fight a Losing Battle](https://open.spotify.com/album/6kBvVJERDoMx7Ec7L3BjOT) | 3:34 | 2023-03-10 | 2023-05-15 |
 | [Helpless](https://open.spotify.com/track/4LGzy6SV3ff3JgI38cktqe) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Helpless](https://open.spotify.com/album/1kIQcleL75BNtXifuJi7uX) | 3:26 | 2026-02-13 |  |
 | [Hennessy \(feat\. Blxst\)](https://open.spotify.com/track/61mRlOaLDoj6dhSuM81t3t) | [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Hennessy \(feat\. Blxst\)](https://open.spotify.com/album/6yhGlErwPSocayEPnkT9Vk) | 2:24 | 2023-11-17 | 2024-11-15 |
@@ -534,6 +535,7 @@
 | [stuck](https://open.spotify.com/track/0yBh1xowtli8sJsqSUydCT) | [b4u](https://open.spotify.com/artist/5DjaUPqQpwjqpoYKeGcULR) | [stuck](https://open.spotify.com/album/0LhiMrqAXTJgaShcZqlZlW) | 1:54 | 2025-09-18 | 2026-01-15 |
 | [stuck](https://open.spotify.com/track/1nEzZ4l1LYmmaDNgWNzVCG) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [stuck](https://open.spotify.com/album/2WQhpOLkmPLPgrcBYjWmRK) | 2:41 | 2026-04-10 |  |
 | [Stuck on You](https://open.spotify.com/track/7ezB0lC0VEW7BZA1dRbGQN) | [Melina Malone](https://open.spotify.com/artist/605KmpfOyF5FrdSfQkHnq3) | [Stuck on You](https://open.spotify.com/album/46q4wEyyrNgO74c7fbK6Oe) | 1:59 | 2025-07-24 | 2025-11-21 |
+| [Stuntin](https://open.spotify.com/track/0kOIgPakbZqEDMoUX1qiSR) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Payback Is A Dog](https://open.spotify.com/album/0wcQqcmAoYqsp835JHZ6rV) | 3:18 | 2026-06-25 |  |
 | [Stupid People](https://open.spotify.com/track/5g80aGSWaxJJk9DhAQvthJ) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Stupid People](https://open.spotify.com/album/4wb5WR7sbsDkDJ8hlefgGG) | 3:09 | 2022-07-17 | 2023-01-11 |
 | [Subtle Games \- Remix](https://open.spotify.com/track/6PF4h4F2wkskBlO4XbqT5U) | [Mezraa](https://open.spotify.com/artist/6oT0L9KXaIDDW38IpYuvRs), [jjad](https://open.spotify.com/artist/245muEmgdPNuYVuvtnykJF), [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [Subtle Games \(Remix\)](https://open.spotify.com/album/3aMR26kSe8rzHjj7VXLk1R) | 2:34 | 2023-05-18 | 2023-06-02 |
 | [suffer](https://open.spotify.com/track/2YZlu9U67zQQ6tAzaKZyG7) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [suffer](https://open.spotify.com/album/59ElFnfSof0iThMX1qLp1I) | 3:23 | 2026-05-21 |  |

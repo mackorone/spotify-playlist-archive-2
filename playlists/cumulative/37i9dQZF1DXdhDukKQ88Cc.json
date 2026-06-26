@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-26",
-  "description": "kun det nyeste danske rap \ud83d\udc40",
+  "description": "kun det nyeste danske rap \ud83d\udc40 ozzy p\u00e5 cover ",
   "name": "rap dk",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 182589,
       "name": "$AMMEN",
       "url": "https://open.spotify.com/track/2eEUhbrrR7ZwYkOKDIO9oh"
@@ -1514,7 +1514,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 160000,
       "name": "blessed",
       "url": "https://open.spotify.com/track/15cjK5y0kli27DFjxZUCt7"
@@ -1872,6 +1872,24 @@
       "duration_ms": 152903,
       "name": "BUNDEN (feat. Dinero)",
       "url": "https://open.spotify.com/track/6ChccEufjg8ILLzKBu3P0K"
+    },
+    {
+      "album": {
+        "name": "Burde V\u00e6re Mig",
+        "url": "https://open.spotify.com/album/4OR5OckLOn4jLzJN7xDZRs"
+      },
+      "artists": [
+        {
+          "name": "9Boogie",
+          "url": "https://open.spotify.com/artist/6GywQ2ZouwXkm6NuLig6iu"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148242,
+      "name": "Burde V\u00e6re Mig",
+      "url": "https://open.spotify.com/track/75U4WBwyPotccZd5iBbbU0"
     },
     {
       "album": {
@@ -2758,7 +2776,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 158960,
       "name": "Der Kommer En Dag",
       "url": "https://open.spotify.com/track/0FdCmsOZQmExwEUda6WvNI"
@@ -2990,7 +3008,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 113333,
       "name": "DOKU",
       "url": "https://open.spotify.com/track/55KqQqZoGAqAlys3Dqr1m3"
@@ -3480,7 +3498,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 143758,
       "name": "er det p\u00e5",
       "url": "https://open.spotify.com/track/5ILdsTHctTk0qnFlb7OBOC"
@@ -3538,6 +3556,32 @@
       "duration_ms": 137475,
       "name": "Et Sted Herude",
       "url": "https://open.spotify.com/track/1BrhRqAJRa8YweyLVNCBQm"
+    },
+    {
+      "album": {
+        "name": "Etage",
+        "url": "https://open.spotify.com/album/3YfzKwoo8Or9xua0FJDH3d"
+      },
+      "artists": [
+        {
+          "name": "Kris",
+          "url": "https://open.spotify.com/artist/1rM3GL7uWxYk7qWyvGaSnw"
+        },
+        {
+          "name": "marius",
+          "url": "https://open.spotify.com/artist/0DxnhmBH9QUcVojeyZROdZ"
+        },
+        {
+          "name": "Josef",
+          "url": "https://open.spotify.com/artist/3NpkkvYFWSFAazQIF7NYbB"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121960,
+      "name": "Etage",
+      "url": "https://open.spotify.com/track/4Ky5e8gfgppoylrDOkMjR3"
     },
     {
       "album": {
@@ -4151,6 +4195,24 @@
     },
     {
       "album": {
+        "name": "FORFAEN!",
+        "url": "https://open.spotify.com/album/4DybmZcSkspCRNBXh9r8yH"
+      },
+      "artists": [
+        {
+          "name": "Zuloo",
+          "url": "https://open.spotify.com/artist/5Eb9Tyd8uGdju7tI8FPQXr"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143939,
+      "name": "FORFAEN!",
+      "url": "https://open.spotify.com/track/4YRdgqskTDE81gqiCGZaDF"
+    },
+    {
+      "album": {
         "name": "Forfra",
         "url": "https://open.spotify.com/album/74pSxfFnIuhpN2NYgrvVfh"
       },
@@ -4322,7 +4384,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 147000,
       "name": "F\u00f8lelser for mig",
       "url": "https://open.spotify.com/track/2TvAtzwTM75ptluD1btiHQ"
@@ -4566,7 +4628,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 150857,
       "name": "Gone",
       "url": "https://open.spotify.com/track/64uzNBLwjR0ZkSS3R8xKe1"
@@ -4722,6 +4784,24 @@
       "duration_ms": 208083,
       "name": "H.C. (feat. Lamin & KESI)",
       "url": "https://open.spotify.com/track/7DH8FCjWuNSUBk0hXAepvo"
+    },
+    {
+      "album": {
+        "name": "Halv Time",
+        "url": "https://open.spotify.com/album/2RxHQd8G74RmpJCL4GsDco"
+      },
+      "artists": [
+        {
+          "name": "WESTA",
+          "url": "https://open.spotify.com/artist/0GH52FVEqAU8uWFlPUofqb"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129600,
+      "name": "Halv Time",
+      "url": "https://open.spotify.com/track/2GiEuTaFhmidwNltzHkcIc"
     },
     {
       "album": {
@@ -4998,7 +5078,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 133254,
       "name": "HIMMELSENDT",
       "url": "https://open.spotify.com/track/3RTfF3z9LBQReOjWYBVcDO"
@@ -5158,7 +5238,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 160800,
       "name": "hva fuck mener du",
       "url": "https://open.spotify.com/track/06lfv6CwYPnlpXfguvYiCA"
@@ -5296,7 +5376,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 152162,
       "name": "Hver Dag",
       "url": "https://open.spotify.com/track/2oaR5QU69kcdbeQvJV3yLd"
@@ -5836,7 +5916,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 143855,
       "name": "INITIALER",
       "url": "https://open.spotify.com/track/4oCEv3TMIR40w5Ymju5GQl"
@@ -5995,6 +6075,24 @@
     },
     {
       "album": {
+        "name": "Jordsk\u00e6lv",
+        "url": "https://open.spotify.com/album/4OOeYf8qb1fJXXLXLMGgPm"
+      },
+      "artists": [
+        {
+          "name": "ozzy",
+          "url": "https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185875,
+      "name": "Jordsk\u00e6lv",
+      "url": "https://open.spotify.com/track/2yDRyz5yfHz62FkFeb6Ybn"
+    },
+    {
+      "album": {
         "name": "Jumeirah",
         "url": "https://open.spotify.com/album/6QlAljhTljlTtzuPEDzBCm"
       },
@@ -6138,6 +6236,24 @@
       "duration_ms": 195189,
       "name": "Keem (feat. Benny Jamz)",
       "url": "https://open.spotify.com/track/5mFQvwwjVjy1cO0HxxbsoR"
+    },
+    {
+      "album": {
+        "name": "Kender Mig",
+        "url": "https://open.spotify.com/album/2Otx30Zt8boiKM1vIlQmPR"
+      },
+      "artists": [
+        {
+          "name": "Ferslev",
+          "url": "https://open.spotify.com/artist/7eFy8x4GPEMGr2iwf52ejZ"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138023,
+      "name": "Kender Mig",
+      "url": "https://open.spotify.com/track/7dtKlZ5IQpWG1rtFzMqyif"
     },
     {
       "album": {
@@ -6374,7 +6490,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 225681,
       "name": "KUN 4 OS 2",
       "url": "https://open.spotify.com/track/3tTjSy6eiEi7rFLIHtrUeP"
@@ -7362,7 +7478,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 155476,
       "name": "Mentally",
       "url": "https://open.spotify.com/track/1Yx9f4IEoor3fwHhZ2NC3H"
@@ -8226,7 +8342,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 233758,
       "name": "Planet",
       "url": "https://open.spotify.com/track/2z8ren6BAtcW6VWKjy0aTu"
@@ -8284,7 +8400,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 189053,
       "name": "Poppin",
       "url": "https://open.spotify.com/track/5QgNPYhLvoEPIcc1uw7eSq"
@@ -9774,7 +9890,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 144705,
       "name": "SUPER$TAR",
       "url": "https://open.spotify.com/track/4ZPaXrgZoNL51KG9l6qxLa"
@@ -9898,6 +10014,24 @@
       "duration_ms": 154154,
       "name": "Tak For Sidst",
       "url": "https://open.spotify.com/track/5cNxyZy9r5f8m2L7it8ZtB"
+    },
+    {
+      "album": {
+        "name": "Take Off",
+        "url": "https://open.spotify.com/album/5Rci27Sz6d3QsP6gD7SfCC"
+      },
+      "artists": [
+        {
+          "name": "ZUUZ",
+          "url": "https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132062,
+      "name": "Take Off",
+      "url": "https://open.spotify.com/track/27Go4Yav2qrip0Xf7W80Ey"
     },
     {
       "album": {
@@ -10217,6 +10351,24 @@
     },
     {
       "album": {
+        "name": "Turn Me Up",
+        "url": "https://open.spotify.com/album/1rQf3BNiAejFPcKK1cvRLd"
+      },
+      "artists": [
+        {
+          "name": "Benny",
+          "url": "https://open.spotify.com/artist/4ILUZ9Dq04CkO7FeKBcFfM"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190628,
+      "name": "Turn Me Up",
+      "url": "https://open.spotify.com/track/0CKeO5wgXwswNgpAVkec0e"
+    },
+    {
+      "album": {
         "name": "zzz",
         "url": "https://open.spotify.com/album/1bL00lnwcAb27zYnyc01Ud"
       },
@@ -10366,7 +10518,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 127373,
       "name": "Udenlands",
       "url": "https://open.spotify.com/track/36LhHBZSbY7Z1BKqQQpI6M"
@@ -10976,7 +11128,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 118056,
       "name": "Walo",
       "url": "https://open.spotify.com/track/5lt9tqbYBlVJnYcHlrcTN6"
@@ -11046,7 +11198,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 215696,
       "name": "wannabee",
       "url": "https://open.spotify.com/track/13mLSGAcaBVwQe6QZohOBn"

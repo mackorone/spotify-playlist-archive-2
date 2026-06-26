@@ -4,7 +4,7 @@
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Laufey
 
-367 songs - 1 day 3 hr 4 min
+368 songs - 1 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Discord](https://open.spotify.com/track/05fIVYuCo163zqAl55l61i) | [Javier Nero](https://open.spotify.com/artist/0yxQAcXH8zQuWLcouvUg7m), [Lauren Desberg](https://open.spotify.com/artist/3TfaPPKGoRgvEHpsAM7f5J), [Kyle Athayde](https://open.spotify.com/artist/0RzZX668EqWmLhtULOwDph), [Shelly Berg](https://open.spotify.com/artist/4U9TSTlbklvLVHcwbSH7FP) | [Freedom](https://open.spotify.com/album/4qvVMTkK11z1NzJuB1f2IL) | 7:05 | 2023-06-21 | 2024-04-19 |
 | [Discord](https://open.spotify.com/track/2lWUPIPZmGJPaqiPFsmHqy) | [Javier Nero](https://open.spotify.com/artist/0yxQAcXH8zQuWLcouvUg7m), [Lauren Desberg, Kyle Athayde, Shelly Berg](https://open.spotify.com/artist/13m9eNdysWzsOViC9qL0jX) | [Discord](https://open.spotify.com/album/3bZaezUZTlv8LXIFmqA4u7) | 7:05 | 2021-12-17 | 2025-11-29 |
 | [Don't Explain](https://open.spotify.com/track/2JncPNDwT04u0FhWxfJbi5) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Helen Merill](https://open.spotify.com/album/5ilzjsH4ER5ZaytJwnmn3C) | 5:14 | 2021-12-17 | 2024-06-29 |
-| [Don't Go To Strangers](https://open.spotify.com/track/6cRsRBzSaGwfnMMqNSjtFY) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Don't Go To Strangers \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt) | 3:48 | 2021-12-17 |  |
+| [Don't Go To Strangers](https://open.spotify.com/track/6cRsRBzSaGwfnMMqNSjtFY) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Don't Go To Strangers \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt) | 3:48 | 2021-12-17 | 2026-06-26 |
 | [Don't Misunderstand](https://open.spotify.com/track/4vVxrc4FqD6FdolnLw3hlD) | [Jimmy Heath](https://open.spotify.com/artist/5GX8UFlG4vXVXDv8KqDLvk), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Love Letter](https://open.spotify.com/album/03bWBECzM4shXQqXk0Beu4) | 5:32 | 2022-08-26 |  |
 | [Don't Take Your Love From Me](https://open.spotify.com/track/3PTD2eturmZsdedW6reT1p) | [Catherine Russell](https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp) | [Harlem On My Mind](https://open.spotify.com/album/2ebxe3beKvg6ee7XJkvxEd) | 4:52 | 2021-12-17 |  |
 | [Dream a Little Dream of Me](https://open.spotify.com/track/7x571g4w2cwwr6A3Dhjtn5) | [Grasiela Piasson](https://open.spotify.com/artist/4Pj02WhBGYtttMP4iud5hn), [Guga Stroeter](https://open.spotify.com/artist/6AZWEt3SrpxmPIuzT10RSk) | [Grasiela Piasson & Guga Stroeter](https://open.spotify.com/album/1bZ1IxMM8lVMtMVkLWqSZ4) | 4:09 | 2022-03-10 |  |
@@ -269,6 +269,7 @@
 | [Seconds and Circles](https://open.spotify.com/track/7zYGm9rxgXGenwz0tQvT2s) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A) | [Seconds and Circles](https://open.spotify.com/album/7k4psYXqD38YZviHC2Yyqm) | 3:43 | 2024-01-05 | 2024-11-23 |
 | [Sketchbook of Dreams \(Radio Edit\)](https://open.spotify.com/track/1RITW3YPUzPuuf6tqrHSEt) | [Tom van der Zaal](https://open.spotify.com/artist/38Mcg9FMChGYBabmXGr9au) | [Sketchbook of Dreams](https://open.spotify.com/album/0kKiSQBFbPZUaV8WrMl29k) | 3:45 | 2023-05-30 | 2025-11-15 |
 | [Skylark](https://open.spotify.com/track/7pM1ZCbo5MamKTCVhTKLY0) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Skylark](https://open.spotify.com/album/3eqgxkZCEJ8dlBTMqGhgiF) | 4:34 | 2023-02-16 |  |
+| [So it goes](https://open.spotify.com/track/5qfWxLZF5bxsQcen6PIg8U) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [So it goes](https://open.spotify.com/album/3DezGjyrh1Hwa6mdiqSPNb) | 2:36 | 2026-06-25 |  |
 | [Some Other Time](https://open.spotify.com/track/59289Inc7bBbite5iJyP9z) | [Anna Gréta](https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh), [Sigurður Flosason](https://open.spotify.com/artist/1UVuPV1MM978oSl0hQG0hI) | [Some Other Time](https://open.spotify.com/album/6ODc6zxEpBCmPk9OeKbUjz) | 4:26 | 2025-01-17 | 2025-04-05 |
 | [Some Other Time](https://open.spotify.com/track/0wVDgWsBZkeLzERYSYj8CJ) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY), [Peter Hodges](https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh) | [Some Other Time](https://open.spotify.com/album/1KvuEly7wop2kY2YKkqjAg) | 3:27 | 2022-02-18 | 2023-11-17 |
 | [Some Other Time](https://open.spotify.com/track/6OCapkDSgkM1Nv2gOz9E29) | [Johanna Linnea Jakobsson](https://open.spotify.com/artist/69am8UyQyXz2KgO2bnxkfP) | [Some Other Time](https://open.spotify.com/album/2ZUrlorLVAPZVxEv06G3fD) | 5:23 | 2023-12-06 |  |

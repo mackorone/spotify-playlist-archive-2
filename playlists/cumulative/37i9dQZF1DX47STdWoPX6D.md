@@ -4,7 +4,7 @@
 
 > The latest and the greatest of CHH!  Cover: Porsha Love
 
-1,355 songs - 2 day 14 hr 7 min
+1,356 songs - 2 day 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Castaway](https://open.spotify.com/track/6dLBfOMY4hkmCtU7RYwBQZ) | [DizzyEight](https://open.spotify.com/artist/3qpVZqXttPUYEmt53UYDGV), [BP Musiq](https://open.spotify.com/artist/0083LJgGz4LxyLFvhIx2t0) | [Castaway](https://open.spotify.com/album/5hzal9xbY8MEs2mSfSsfFY) | 3:58 | 2025-10-24 | 2025-12-13 |
 | [Casting Bolders](https://open.spotify.com/track/00kVOss36ecosHwSv0Fog9) | [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6) | [Casting Bolders](https://open.spotify.com/album/4b5dfxg2MBMKiyHL5qIxXK) | 2:12 | 2026-04-03 | 2026-05-16 |
 | [Catfish](https://open.spotify.com/track/5ap7xaBOVl8MZ3Dys0LxbS) | [Faith Child](https://open.spotify.com/artist/0FMlGMImrFqeOL7ykcYdZy) | [When Faith Feels Far](https://open.spotify.com/album/31iusvp121DYrNCFQpRB0q) | 1:57 | 2025-09-19 | 2025-10-25 |
+| [Celebrate](https://open.spotify.com/track/0QwwgQsHd4rugwYUkKM8nx) | [A.I\. The Anomaly](https://open.spotify.com/artist/3PoVfuLf8nvX4HLntiLTUa) | [Celebrate](https://open.spotify.com/album/1ZTBOo5xHtn4V4lF954RgW) | 2:57 | 2026-06-19 |  |
 | [cest la vie vie vie vie vie](https://open.spotify.com/track/0dJykHVsyCM5tOZxA9mEe5) | [DC3](https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf) | [cest la vie vie vie vie vie](https://open.spotify.com/album/2RR3rgpm5ImfQHVpIdCQr7) | 2:06 | 2026-05-15 |  |
 | [CHAMELEON](https://open.spotify.com/track/5mvU32PA8xibL643V22p3y) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [CHAMELEON](https://open.spotify.com/album/0UUhJegv9qGiYVxemqE5Ew) | 2:19 | 2026-05-15 |  |
 | [CHAMPION](https://open.spotify.com/track/3vCR6KOEatUsisdiiSylrx) | [Don Ryvcko](https://open.spotify.com/artist/4sPaDVtUm4TRrM6TATYC8D) | [CHAMPION](https://open.spotify.com/album/6R9waf6zzApfDjBBaaBtfN) | 1:48 | 2026-05-15 |  |

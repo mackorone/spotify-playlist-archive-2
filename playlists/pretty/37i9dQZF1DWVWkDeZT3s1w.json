@@ -1,6 +1,6 @@
 {
   "description": "Grandes relatos de toque reflexivo y visi\u00f3n consciente.",
-  "num_followers": 122894,
+  "num_followers": 122913,
   "original_name": "Rap Conciencia",
   "owner": {
     "name": "Spotify",
@@ -855,6 +855,22 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
+        "name": "So Sad",
+        "url": "https://open.spotify.com/album/4rHZ28db6Aczqmj65FlFZe"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "duration_ms": 217511,
+      "name": "So Sad",
+      "url": "https://open.spotify.com/track/73ODDFaktSXfNuRQP4mnRK"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
         "name": "La Capital Del Pecado",
         "url": "https://open.spotify.com/album/5ZhKILys7Vne4fJ1gvWZVc"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 163266,
       "name": "La Capital Del Pecado",
       "url": "https://open.spotify.com/track/5sxIv3QmlnQ4u5NxPM1E7V"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
-        "name": "So Sad",
-        "url": "https://open.spotify.com/album/4rHZ28db6Aczqmj65FlFZe"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        }
-      ],
-      "duration_ms": 217511,
-      "name": "So Sad",
-      "url": "https://open.spotify.com/track/73ODDFaktSXfNuRQP4mnRK"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -931,26 +931,6 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "Esquirlas",
-        "url": "https://open.spotify.com/album/5I9JiAxaMBqrWqwoTa1VKi"
-      },
-      "artists": [
-        {
-          "name": "Lirika Inverza",
-          "url": "https://open.spotify.com/artist/214wdmDstodTL0SEEPDyxb"
-        },
-        {
-          "name": "Montebel",
-          "url": "https://open.spotify.com/artist/3n3xqTWiJ5cThzS3UsDQUV"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Esquirlas",
-      "url": "https://open.spotify.com/track/4uGERRF2SWPcfSVfvNq2Jd"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
         "name": "El eslab\u00f3n perdido",
         "url": "https://open.spotify.com/album/0cnmNoOmJCsRYTruZmE8oq"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 213334,
       "name": "El eslab\u00f3n perdido",
       "url": "https://open.spotify.com/track/5oPhZx0Ap6kcJKBIfzzy6D"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "Esquirlas",
+        "url": "https://open.spotify.com/album/5I9JiAxaMBqrWqwoTa1VKi"
+      },
+      "artists": [
+        {
+          "name": "Lirika Inverza",
+          "url": "https://open.spotify.com/artist/214wdmDstodTL0SEEPDyxb"
+        },
+        {
+          "name": "Montebel",
+          "url": "https://open.spotify.com/artist/3n3xqTWiJ5cThzS3UsDQUV"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Esquirlas",
+      "url": "https://open.spotify.com/track/4uGERRF2SWPcfSVfvNq2Jd"
     },
     {
       "added_at": "2025-05-23 06:00:30",

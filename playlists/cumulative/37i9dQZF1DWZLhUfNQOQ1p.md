@@ -4,7 +4,7 @@
 
 > Musica da ascoltare con un drink in mano 🥃
 
-462 songs - 1 day 6 hr 50 min
+463 songs - 1 day 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Everything Eventually Ends](https://open.spotify.com/track/5LInOGDHqrgetnMlnvaDNq) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt) | [Everything Eventually Ends](https://open.spotify.com/album/5pk9cqTDktuytdBNidkke4) | 2:57 | 2023-05-30 |  |
 | [Falling for You](https://open.spotify.com/track/7o8VEpWXIvvnDIQaXDHI8S) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Falling for You](https://open.spotify.com/album/0eeBjfwq7PNalu0RBtYKeA) | 3:10 | 2023-05-30 |  |
 | [Fantasy Girl](https://open.spotify.com/track/75CoiQTM3XHWSmm4XlfM20) | [Novaé Lita](https://open.spotify.com/artist/1tZ9lQ62KmVFephCl3hfB6) | [Fantasy Girl](https://open.spotify.com/album/2PPmrh2GUeD42U42NWMO9v) | 2:06 | 2023-05-14 | 2023-05-30 |
-| [Feel](https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Feel](https://open.spotify.com/album/1xr54fLjHQSPjOF3MF6pEm) | 3:39 | 2024-06-03 |  |
+| [Feel](https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Feel](https://open.spotify.com/album/1xr54fLjHQSPjOF3MF6pEm) | 3:39 | 2024-06-03 | 2026-06-26 |
 | [Feel Good](https://open.spotify.com/track/2UkX27EXS59qpKUXrMTZlK) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Cyclorama](https://open.spotify.com/album/2XLO00VSPGAGxpUjezhHoC) | 4:00 | 2023-05-30 |  |
 | [Feel It Still](https://open.spotify.com/track/1Bt0UAApn7Oxdam3lQs1vo) | [Revelries](https://open.spotify.com/artist/7KigP1NA8s7IiVIxP5ndwJ), [Henri Purnell](https://open.spotify.com/artist/7cyJzgiJTXR3hf62l5zLOr) | [Feel It Still](https://open.spotify.com/album/1ABBRyrEHEURRnsj9JZNLC) | 3:42 | 2021-08-05 | 2022-07-29 |
 | [Feel It Still](https://open.spotify.com/track/4J0KBaH6ZJh0dVqc7XlYT6) | [Revelries](https://open.spotify.com/artist/7KigP1NA8s7IiVIxP5ndwJ), [Henri Purnell](https://open.spotify.com/artist/7cyJzgiJTXR3hf62l5zLOr) | [Feel It Still](https://open.spotify.com/album/2DeswM9o7EwLJFlaVXQi6t) | 3:42 | 2021-08-05 | 2023-05-31 |
@@ -295,6 +295,7 @@
 | [Nicaraguan Dream](https://open.spotify.com/track/2NQ6In9ja7fBeBI9ADmMWB) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Dazed And Amazed](https://open.spotify.com/album/4GhOIDimNe1i5B8KCSnW3B) | 4:31 | 2021-08-05 | 2022-07-29 |
 | [Nostalgia](https://open.spotify.com/track/2gRvo8CD3AhT3OoQ4Nx6ww) | [Coeo](https://open.spotify.com/artist/3OoNpyvA82LedOZWG3WE8Z) | [Nostalgia](https://open.spotify.com/album/1ES331p0jHfsSykO8bsOmT) | 5:48 | 2024-07-17 | 2025-02-28 |
 | [Nothing Better Than Music](https://open.spotify.com/track/4eZafPjosGlJF6QVxeTdUS) | [GENNARO](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [Nothing Better Than Music](https://open.spotify.com/album/0cBWTiLeGxFpAk5JwbX9S3) | 2:35 | 2025-03-21 |  |
+| [Now You Feel](https://open.spotify.com/track/6ByIvhZp1fSV8uh31UFQyT) | [Flying Moth](https://open.spotify.com/artist/4TmwdCfg977GsElJtngLp7) | [Onda](https://open.spotify.com/album/7LCrYes3eU6PLWBJGJjRGw) | 5:46 | 2026-05-21 |  |
 | [Nuit d'Afrique](https://open.spotify.com/track/4PyABgWf1yG2B2DxwjR1Bi) | [Kora \(CA\)](https://open.spotify.com/artist/7lHiOFpepHokhLTy6PNAL9), [Adrien \(CA\)](https://open.spotify.com/artist/6Rqtg9oAMaZmwcN0gN5UNQ) | [Kindisch Presents: Kindisch Steps VI](https://open.spotify.com/album/4qYhEGnOCZSB01SrTtgmdy) | 11:59 | 2021-08-05 | 2023-05-31 |
 | [Okay Okay](https://open.spotify.com/track/0No2QwwffZCcZBZjG7Q73b) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [...Balla!](https://open.spotify.com/album/1nFv7xx9OHyArzWuCke1yE) | 4:18 | 2024-05-19 | 2024-06-03 |
 | [On the Beach](https://open.spotify.com/track/5QrNXvTQEuBb5iLoIAAuvk) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [New Light Through Old Windows](https://open.spotify.com/album/7p9ePF3nuGOHHKdK54xjHH) | 3:41 | 2024-05-19 | 2024-06-03 |

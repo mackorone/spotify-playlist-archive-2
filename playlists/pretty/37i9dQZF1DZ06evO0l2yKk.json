@@ -1,12 +1,12 @@
 {
   "description": "This is Cardenales De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 204407,
+  "num_followers": 204463,
   "original_name": "This Is Cardenales De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajnMgAAAAAAQLAd6L1oEi898D6hk4AXB",
+  "snapshot_id": "ajseAAAAAACI9pZB9bxn0Qa3EMCTkEfI",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paso A La Reina",
-        "url": "https://open.spotify.com/album/6qjq1PeDXd7uuJbMnXFR1K"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 231706,
-      "name": "Mi Amante",
-      "url": "https://open.spotify.com/track/38KL0tZ65yErYnqS1CoLGz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Espejo De Cantina",
         "url": "https://open.spotify.com/album/7xo92d1dGj5xkpkXlemwOr"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 199226,
       "name": "La Baraja",
       "url": "https://open.spotify.com/track/7aSViAPKH02L542Dzezdg1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paso A La Reina",
+        "url": "https://open.spotify.com/album/6qjq1PeDXd7uuJbMnXFR1K"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 231706,
+      "name": "Mi Amante",
+      "url": "https://open.spotify.com/track/38KL0tZ65yErYnqS1CoLGz"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cumbias Para Bailar",
-        "url": "https://open.spotify.com/album/19Cjoyl4TH19XyyQ1gdbhh"
+        "name": "Compraron Una Cantina",
+        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 191320,
-      "name": "Te Olvid\u00e9 - Cumbia",
-      "url": "https://open.spotify.com/track/1AFNLf3hhqMETOzO2Jd1rc"
+      "duration_ms": 206773,
+      "name": "Asesino A Sueldo",
+      "url": "https://open.spotify.com/track/2ulz3pFEWMaclKCx5P8Hhy"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Compraron Una Cantina",
-        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
+        "name": "Cumbias Para Bailar",
+        "url": "https://open.spotify.com/album/19Cjoyl4TH19XyyQ1gdbhh"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 206773,
-      "name": "Asesino A Sueldo",
-      "url": "https://open.spotify.com/track/2ulz3pFEWMaclKCx5P8Hhy"
+      "duration_ms": 191320,
+      "name": "Te Olvid\u00e9 - Cumbia",
+      "url": "https://open.spotify.com/track/1AFNLf3hhqMETOzO2Jd1rc"
     },
     {
       "added_at": null,

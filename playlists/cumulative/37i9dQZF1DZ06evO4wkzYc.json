@@ -899,6 +899,24 @@
     },
     {
       "album": {
+        "name": "Fotograf\u00eda",
+        "url": "https://open.spotify.com/album/21uioYBhTjhGisiKunbldo"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212532,
+      "name": "Fotograf\u00eda",
+      "url": "https://open.spotify.com/track/1gOaDmYSzt75cZeAR7YRcl"
+    },
+    {
+      "album": {
         "name": "Fuentes De Ortiz",
         "url": "https://open.spotify.com/album/2BqFybANgMFE2Tm1tBOSKS"
       },
@@ -1794,7 +1812,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 240047,
       "name": "Seraf\u00edn",
       "url": "https://open.spotify.com/track/30Bldx71dH6xhYY0FUYtWA"

@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,755 songs - 4 day 10 hr 12 min
+1,756 songs - 4 day 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -887,6 +887,7 @@
 | [Pick you up](https://open.spotify.com/track/7lEamS5mWLjjnxYDHS3Z5R) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Pick you up](https://open.spotify.com/album/5ec6P46lMezGX5zBzpHRvy) | 3:38 | 2024-11-13 | 2025-05-02 |
 | [Pills Chills Shakes \- feat\. HMLT](https://open.spotify.com/track/6dhJbmnXW1Z5OIezT06y1G) | [Otomodatchi](https://open.spotify.com/artist/1YtYMJNUVAW60TKtwu6PQj), [Amiide](https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR), [Jyodan](https://open.spotify.com/artist/7n0YtK7gMQVm6XPELdDFG6), [HMLT](https://open.spotify.com/artist/0fBHUKzEq03UdHV8nc0KOy) | [Pills Chills Shakes \(feat\. HMLT\)](https://open.spotify.com/album/7hggxYKML11YSLBVcOluUU) | 3:28 | 2023-03-28 | 2023-04-19 |
 | [Pink Hair](https://open.spotify.com/track/62ZXOrUNBpa5DAiP3tE19s) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [Pink Hair](https://open.spotify.com/album/2M6ubuh4ne6Vjvrx8MUs2t) | 2:57 | 2023-02-14 | 2023-06-07 |
+| [Pink Lemonade](https://open.spotify.com/track/0svNBo93XRg9xvVYWdPcft) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [Pink Lemonade](https://open.spotify.com/album/1r2bxGAJKXoWxsIhyn069U) | 2:32 | 2026-06-18 |  |
 | [Pixie](https://open.spotify.com/track/0cY7dMIDQEvJpm9QLhwUJ5) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Pixie](https://open.spotify.com/album/05uzTmVeUHezTbQ1TKLsCB) | 5:12 | 2022-05-26 | 2022-06-17 |
 | [Plastic Romance](https://open.spotify.com/track/7AxZFaSZFX9QhTiWHwh06g) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [Plastic Romance](https://open.spotify.com/album/2zOwVX7gdy7Ufc8BxAqKux) | 4:53 | 2024-05-14 | 2024-06-05 |
 | [Playback](https://open.spotify.com/track/0cyepU0mCfmbvZdQMKP4El) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [TWO](https://open.spotify.com/album/0ICXXs5PZGSqrXcogtXezO) | 3:07 | 2022-05-26 | 2023-02-03 |
@@ -1611,7 +1612,7 @@
 | [帰り路 \- MONJOE Remix](https://open.spotify.com/track/2dwK6HnOEGCVbVOjCQtQGG) | [idom](https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx), [MONJOE](https://open.spotify.com/artist/5f9YLfnNCxH8NRdLHVh83P) | [帰り路 \(MONJOE Remix\)](https://open.spotify.com/album/4WlZLxlIrggvFJxZYDby6a) | 3:25 | 2022-05-26 | 2022-07-06 |
 | [平和](https://open.spotify.com/track/1xFILrBQBn67qprImezB0I) | [Zainichi Funk](https://open.spotify.com/artist/37hqgMV84m06updLlBFhIa), [Tavito Nanao](https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a) | [在ライフ](https://open.spotify.com/album/2bbfZQbPszzs9CIww7UNn3) | 5:07 | 2023-10-31 | 2023-11-16 |
 | [平安](https://open.spotify.com/track/4OpE0RXET72v9D2oLRDIbw) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [平安](https://open.spotify.com/album/3uuNRFtMmxz5Z1yuKb2XZw) | 3:09 | 2024-04-23 | 2024-07-27 |
-| [幸せのまわり道](https://open.spotify.com/track/1OCvIuUDYIwnuv6lQzdoD7) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [幸せのまわり道](https://open.spotify.com/album/5Rr1mK7xiTXEgPN6it8VJN) | 3:45 | 2023-10-05 |  |
+| [幸せのまわり道](https://open.spotify.com/track/1OCvIuUDYIwnuv6lQzdoD7) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [幸せのまわり道](https://open.spotify.com/album/5Rr1mK7xiTXEgPN6it8VJN) | 3:45 | 2023-10-05 | 2026-06-26 |
 | [幽霊](https://open.spotify.com/track/4dKjOYrXQxuJ2C3VaoWZwJ) | [odol](https://open.spotify.com/artist/1JWciWrGdCTOWeycrjFWpS) | [幽霊](https://open.spotify.com/album/1KW6vC2adbnG1XOvj20Lld) | 3:55 | 2023-10-17 | 2023-12-01 |
 | [幽霊](https://open.spotify.com/track/5aJwduSF9XWNHxBBEImSNc) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [幽霊](https://open.spotify.com/album/3kYcafDQ4uHEQKTB7VTXme) | 3:28 | 2022-11-08 | 2023-01-18 |
 | [幽霊になっても美しい](https://open.spotify.com/track/7ziRc53RRPcJUXdM2TTynr) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9) | [utas](https://open.spotify.com/album/0zcxntmRM4l8MCPd9zYEWP) | 4:12 | 2026-02-04 | 2026-05-10 |

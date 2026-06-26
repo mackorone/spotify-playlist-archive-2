@@ -1,13 +1,61 @@
 {
-  "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u0622\u0646 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631 \u0625\u0644\u0649 \u0627\u0644\u0639\u0627\u0644\u0645\ud83d\udd25\ud83d\udd1d. \u0627\u0644\u063a\u0644\u0627\u0641: \u0631\u062d\u0645\u0629 \u0645\u062d\u0633\u0646",
-  "num_followers": 456236,
+  "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u0622\u0646 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631 \u0625\u0644\u0649 \u0627\u0644\u0639\u0627\u0644\u0645\ud83d\udd25\ud83d\udd1d. \u0627\u0644\u063a\u0644\u0627\u0641: \u0628\u0647\u0627\u0621 \u0633\u0644\u0637\u0627\u0646",
+  "num_followers": 456366,
   "original_name": "\u0627\u0644\u062a\u0648\u0628",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABLIV2fLhO79Ic7FSPXJsigbOnBB",
+  "snapshot_id": "AAAAAI3gtkb6FESZgPhi/D8umCARguQk",
   "tracks": [
+    {
+      "added_at": "2026-06-25 05:00:16",
+      "album": {
+        "name": "Yally Mashy",
+        "url": "https://open.spotify.com/album/3axL9aPebifeaGhmtmPbKM"
+      },
+      "artists": [
+        {
+          "name": "Bahaa Sultan",
+          "url": "https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7"
+        }
+      ],
+      "duration_ms": 350537,
+      "name": "A2al Wageb",
+      "url": "https://open.spotify.com/track/6ueYazWy9KcEkYrlOVf77r"
+    },
+    {
+      "added_at": "2026-06-25 05:00:16",
+      "album": {
+        "name": "Oum O2af",
+        "url": "https://open.spotify.com/album/7cyeJu1PlHROs9F0au7XCR"
+      },
+      "artists": [
+        {
+          "name": "Bahaa Sultan",
+          "url": "https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7"
+        }
+      ],
+      "duration_ms": 302106,
+      "name": "Be Amaret Eh",
+      "url": "https://open.spotify.com/track/4eoGHcyLFTwtgWRRIkVS1s"
+    },
+    {
+      "added_at": "2026-06-25 05:00:16",
+      "album": {
+        "name": "Wo Malna",
+        "url": "https://open.spotify.com/album/5YOnIhs1M9nPt7EyJCScER"
+      },
+      "artists": [
+        {
+          "name": "Bahaa Sultan",
+          "url": "https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7"
+        }
+      ],
+      "duration_ms": 212976,
+      "name": "Ana",
+      "url": "https://open.spotify.com/track/6V58yrhMVPcHyARryxpwAl"
+    },
     {
       "added_at": "2026-06-10 10:59:18",
       "album": {
@@ -200,7 +248,7 @@
       },
       "artists": [
         {
-          "name": "Houda Bondok",
+          "name": "Houda",
           "url": "https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH"
         }
       ],
@@ -615,22 +663,6 @@
     {
       "added_at": "2026-06-10 10:59:18",
       "album": {
-        "name": "\u0635\u062d\u0628\u064a \u064a\u0627 \u0635\u062d\u0628\u064a",
-        "url": "https://open.spotify.com/album/4YzIMteqKKaYZlipibsnqw"
-      },
-      "artists": [
-        {
-          "name": "Bahaa Sultan",
-          "url": "https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7"
-        }
-      ],
-      "duration_ms": 133823,
-      "name": "\u0635\u062d\u0628\u064a \u064a\u0627 \u0635\u062d\u0628\u064a",
-      "url": "https://open.spotify.com/track/0ZJ2vlWyCoMA52VbECDMEL"
-    },
-    {
-      "added_at": "2026-06-10 10:59:18",
-      "album": {
         "name": "Sebtely Alby",
         "url": "https://open.spotify.com/album/5siBJGS4A5yxVDNkzo3oIk"
       },
@@ -679,30 +711,6 @@
       "duration_ms": 158688,
       "name": "\u062a\u0627\u0646\u064a",
       "url": "https://open.spotify.com/track/3rV9uAALyaUifbNZQPpGen"
-    },
-    {
-      "added_at": "2026-06-10 10:59:18",
-      "album": {
-        "name": "\u0647\u0648 \u062f\u0647 \u0628\u0642\u0649!!\u061f",
-        "url": "https://open.spotify.com/album/4IsZh9PAmnNWEOrTjNtCUu"
-      },
-      "artists": [
-        {
-          "name": "Tamer Hosny",
-          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
-        },
-        {
-          "name": "El Waili",
-          "url": "https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU"
-        },
-        {
-          "name": "Karim Osama",
-          "url": "https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "\u0647\u0648 \u062f\u0647 \u0628\u0642\u0649!!\u061f",
-      "url": "https://open.spotify.com/track/53OjKvNUqahgOdYtlQKiGJ"
     },
     {
       "added_at": "2026-06-10 10:59:18",
@@ -855,22 +863,6 @@
       "duration_ms": 207609,
       "name": "\u0646\u062e\u0628\u0649 \u0644\u064a\u0647",
       "url": "https://open.spotify.com/track/3I76xQ1eSBTZRQKQToms4h"
-    },
-    {
-      "added_at": "2026-06-10 10:59:18",
-      "album": {
-        "name": "\u0627\u0646\u0627 \u0645\u0646 \u063a\u064a\u0631\u0643",
-        "url": "https://open.spotify.com/album/6r21z8FXZjYr4Lz1s86u2o"
-      },
-      "artists": [
-        {
-          "name": "Bahaa Sultan",
-          "url": "https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7"
-        }
-      ],
-      "duration_ms": 211714,
-      "name": "\u0627\u0646\u0627 \u0645\u0646 \u063a\u064a\u0631\u0643",
-      "url": "https://open.spotify.com/track/2nQeY3iJpE57Rnc7r8z2Qx"
     },
     {
       "added_at": "2026-06-10 10:59:18",

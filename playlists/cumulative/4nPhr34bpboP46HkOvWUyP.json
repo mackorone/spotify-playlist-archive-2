@@ -651,6 +651,28 @@
     },
     {
       "album": {
+        "name": "hearts in the rain",
+        "url": "https://open.spotify.com/album/616B9XSaCaOSDHId6r9hol"
+      },
+      "artists": [
+        {
+          "name": "Joshua Lanuarii",
+          "url": "https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw"
+        },
+        {
+          "name": "deer park rd.",
+          "url": "https://open.spotify.com/artist/1m4DtAB9X0MsPdlXqWahzP"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239418,
+      "name": "hearts in the rain",
+      "url": "https://open.spotify.com/track/3nff3iZjMUUwOmU2V3rTbg"
+    },
+    {
+      "album": {
         "name": "Heyyy",
         "url": "https://open.spotify.com/album/2Wev8hyf5e9bPtOswNa5pb"
       },

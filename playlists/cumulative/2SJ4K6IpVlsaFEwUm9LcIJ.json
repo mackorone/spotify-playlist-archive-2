@@ -6513,6 +6513,24 @@
     },
     {
       "album": {
+        "name": "Heart-shaped Eyes",
+        "url": "https://open.spotify.com/album/2iYIMPIfDSmVqMeJWp98g6"
+      },
+      "artists": [
+        {
+          "name": "Yangze",
+          "url": "https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189605,
+      "name": "Heart-shaped Eyes",
+      "url": "https://open.spotify.com/track/3W0XKCoZbqgXrwfdEqRCI3"
+    },
+    {
+      "album": {
         "name": "Shoot the Moon (2006 Remaster)",
         "url": "https://open.spotify.com/album/1KhMx9peEp1gHJE8uSNsxN"
       },
@@ -15006,6 +15024,24 @@
       "duration_ms": 265146,
       "name": "Stella",
       "url": "https://open.spotify.com/track/0zzk2I2yDc1320lyrH5Dvh"
+    },
+    {
+      "album": {
+        "name": "Stew",
+        "url": "https://open.spotify.com/album/2Rwca3mHmAeP6fEkbXCVHO"
+      },
+      "artists": [
+        {
+          "name": "Yangze",
+          "url": "https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344820,
+      "name": "Stew",
+      "url": "https://open.spotify.com/track/1bDwvHbDgtCvr2TcZIpQyn"
     },
     {
       "album": {

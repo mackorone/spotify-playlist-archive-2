@@ -4,7 +4,7 @@
 
 > Best of Malayalam Hip\-Hop! <br/>Cover :  Dabzee
 
-545 songs - 1 day 4 hr 1 min
+546 songs - 1 day 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Hey Nima](https://open.spotify.com/track/5PUkJvKMnevgDUktjt5DR2) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Hey Nima](https://open.spotify.com/album/0B36i98w5vbYZv6ZZUX2IY) | 2:44 | 2022-06-23 | 2025-03-14 |
 | [HIGH HIDE](https://open.spotify.com/track/4MedtWXwTX1IFZjj5EML85) | [Falgunan](https://open.spotify.com/artist/1ymMD3jfBqDsaachaF064Q), [Kalla Sha](https://open.spotify.com/artist/2LJPuiESacNin3Pz3SOXVd) | [HIGH HIDE](https://open.spotify.com/album/29GNzVA6uQNhIRVZAbTdqC) | 2:12 | 2025-01-09 | 2025-03-12 |
 | [HIMALATHILL](https://open.spotify.com/track/5jxjZpprrdVJrmxhKEVHM1) | [OryViah](https://open.spotify.com/artist/2wpGPMFU4ZqlzbQqPF3fhx), [Yaan Siv](https://open.spotify.com/artist/3FwwZtK7s67cH0tL1bzM7B) | [HIMALAYATHILL](https://open.spotify.com/album/5eu8LNr4JaNscTJwdat9Az) | 2:43 | 2025-07-30 | 2025-11-21 |
+| [Homies](https://open.spotify.com/track/7teRfFMg4OAzDAep33O5zR) | [JOKER390P](https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW), [AZWIN](https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8) | [Letters](https://open.spotify.com/album/7pAIxQkoQ3wQSxaGiX7sR5) | 3:04 | 2026-06-25 |  |
 | [Hope](https://open.spotify.com/track/19WKaVw42t88aLr04lH4Qk) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [Wish Hope Fly](https://open.spotify.com/album/4BjQpEh6WzIWptPhgxKkEL) | 3:18 | 2024-02-13 | 2024-04-23 |
 | [Hope](https://open.spotify.com/track/3oMeTMaSY44CZLkefVhQHR) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [Wish Hope Fly](https://open.spotify.com/album/3ayGUpvmbY5mfGClBpjI6R) | 3:18 | 2022-06-23 | 2024-04-19 |
 | [Hope](https://open.spotify.com/track/2nujuLW4cF1iqUXQvcPL5Q) | [Praveen Kay William](https://open.spotify.com/artist/5klbbSjhiOCdvF5iYYatcf), [Jibin Krishna](https://open.spotify.com/artist/7ys1Gv482wuxQRWcGH1FfK) | [Hope](https://open.spotify.com/album/6pgDb9UUgOUF8ugOHSL0px) | 3:42 | 2023-08-31 | 2023-09-12 |
@@ -410,7 +411,7 @@
 | [PONNUM KATTA](https://open.spotify.com/track/0t8yVtc5FuKsV8OAohlqU2) | [Lil PAYYAN](https://open.spotify.com/artist/0HiSpiBBENQAo0BJX5u4ic), [AZWIN](https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8) | [PONNUM KATTA](https://open.spotify.com/album/7nQP9IvFVvLOgsYy4umFKl) | 4:22 | 2025-05-22 | 2025-09-02 |
 | [POOPAADAM](https://open.spotify.com/track/339DGFmkpYyNfylP28dpJi) | [The Culturehood](https://open.spotify.com/artist/7MI6r4NDDgVjonBkrnXAgx), [mubasssok](https://open.spotify.com/artist/0WYTnBzklB1EUwdBNYO53l), [MC MAC](https://open.spotify.com/artist/3wVf68S73HpgPc03cYE5sD), [gouthammm](https://open.spotify.com/artist/43Vt9P8hBXvNLz23OGzYoU) | [POOPAADAM](https://open.spotify.com/album/4Xl8JVFlXhjcMktvEhWQED) | 3:11 | 2025-08-29 | 2025-11-21 |
 | [Poothindeynu \- From "Saina Music Indie"](https://open.spotify.com/track/4oTx9D5mbM5YkVBPJfVO8l) | [ThudWiser](https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp), [ItsPc](https://open.spotify.com/artist/4Z78kY2ARZxZDGbCxtuxBx), [AYARKAY](https://open.spotify.com/artist/2tyf0OD4TeO48e8FVasZ0P) | [Poothindeynu \(From "Saina Music Indie"\)](https://open.spotify.com/album/0rr3DQ3pKCOPekDS4w5faS) | 2:58 | 2025-11-03 | 2025-11-21 |
-| [Poothiri](https://open.spotify.com/track/6lO6phS09XKfyHv0DYzJw7) | [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g), [Lil PAYYAN](https://open.spotify.com/artist/0HiSpiBBENQAo0BJX5u4ic) | [Poothiri](https://open.spotify.com/album/02MrIUsgtabIfXV5wbB4i5) | 4:00 | 2025-06-09 |  |
+| [Poothiri](https://open.spotify.com/track/6lO6phS09XKfyHv0DYzJw7) | [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g), [Lil PAYYAN](https://open.spotify.com/artist/0HiSpiBBENQAo0BJX5u4ic) | [Poothiri](https://open.spotify.com/album/02MrIUsgtabIfXV5wbB4i5) | 4:00 | 2025-06-09 | 2026-06-26 |
 | [Por Mugham \- From "Lady"](https://open.spotify.com/track/64zvecdObrfsu4BSyZVNzI) | [S Dee](https://open.spotify.com/artist/6AIHewFwNjOEJQCrOZBoSt), [Amritha Sunilkumar](https://open.spotify.com/artist/4WzJujnCSgbu1ANx6WA2Li), [Adarsh Krishnan N](https://open.spotify.com/artist/3V2xynGnDRU4GNoQR37XYG), [Abhilash Britto](https://open.spotify.com/artist/2s5XAsIm0UsRwM670fsHFb) | [Por Mugham \(From "Lady"\)](https://open.spotify.com/album/3Dz2wYfsrIGuzlUK0YDp9G) | 3:09 | 2026-03-05 |  |
 | [Poralikal](https://open.spotify.com/track/4Yi3Z3kmaQIqG00EZ5XEyv) | [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB), [Parimal Shais](https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ) | [Poralikal](https://open.spotify.com/album/0JsO6jG4H4NOHyDZ21grXa) | 2:51 | 2023-07-23 | 2024-03-21 |
 | [Porinayi Njan Varunneda](https://open.spotify.com/track/4EI1CHrdS8Nj7NzYULDKQG) | [Exter](https://open.spotify.com/artist/6NL7luAMkgZwQi75Uxusyv) | [Dudu's Love](https://open.spotify.com/album/3AQeAlMXzfZAoiiM4m8U81) | 1:22 | 2024-01-18 | 2024-02-13 |

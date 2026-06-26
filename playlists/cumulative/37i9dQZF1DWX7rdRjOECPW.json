@@ -1056,7 +1056,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 158161,
       "name": "Burn",
       "url": "https://open.spotify.com/track/49B2nbhiXZMQzIp5txtn2d"
@@ -1122,6 +1122,24 @@
       "duration_ms": 154560,
       "name": "Call It Love",
       "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
+    },
+    {
+      "album": {
+        "name": "call me back",
+        "url": "https://open.spotify.com/album/22koXUTCFwgnWoeJSFizT1"
+      },
+      "artists": [
+        {
+          "name": "Ordinary Kid",
+          "url": "https://open.spotify.com/artist/5VT2f9Mtql9jsOPrLefzP9"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114906,
+      "name": "call me back",
+      "url": "https://open.spotify.com/track/5oBuuXTgVVLuIYaJlELm0f"
     },
     {
       "album": {

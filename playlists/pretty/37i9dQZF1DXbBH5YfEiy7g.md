@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: Dumi Mkokstad
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,937 likes - 100 songs - 11 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,026 likes - 100 songs - 11 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 | 99 | [Yehlis'uMoya \(Live\)](https://open.spotify.com/track/0Slb0OZ6AErNcYYAhErEIt) | [3C Live](https://open.spotify.com/artist/2KCFczA90zuWgvEfYDohBT), [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ) | [Yehlis'uMoya \(Live\)](https://open.spotify.com/album/6UYtaXAzhw6u7sLeWCFwyd) | 6:03 |
 | 100 | [Sekgabile](https://open.spotify.com/track/03i77NTIKBUvQoKEEgsVaV) | [Puleng March](https://open.spotify.com/artist/65cfvyR00rBULLtOhWfNTn), [Nhlanhla Zofo](https://open.spotify.com/artist/2puGaMi4O5GZENkA9Mq7PA), [Rev M Sontshi](https://open.spotify.com/artist/4RJvuKln6rAsDwBMyS9vrM) | [Sekgabile](https://open.spotify.com/album/4q536HuCPsdzVaWP0fdAv3) | 8:24 |
 
-Snapshot ID: `AAAAAAXJg1Uz5ixP4A4bzD3oJpt7tcvD`
+Snapshot ID: `AAAAAHxH1a+WEQcKRD6Gpbfw1BcbTLGM`

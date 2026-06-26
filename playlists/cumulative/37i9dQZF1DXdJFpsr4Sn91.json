@@ -150,7 +150,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-21",
+      "date_removed": null,
       "duration_ms": 181985,
       "name": "110%",
       "url": "https://open.spotify.com/track/6SKjV9XZvqldONThAgCFUi"
@@ -168,7 +168,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 159000,
       "name": "112",
       "url": "https://open.spotify.com/track/7huJK8mp1FdJxmII15POPN"
@@ -1180,6 +1180,28 @@
       "duration_ms": 157084,
       "name": "Annan sul v\u00e4h\u00e4n",
       "url": "https://open.spotify.com/track/4l7tL4uh91FBb10tVzZOuX"
+    },
+    {
+      "album": {
+        "name": "Annan sut pois (feat. Tomi Saario)",
+        "url": "https://open.spotify.com/album/4PgMeqNU555ZVxQMriLaC4"
+      },
+      "artists": [
+        {
+          "name": "Lukas Leon",
+          "url": "https://open.spotify.com/artist/1lDaPfGRA6miVIOjZbY50n"
+        },
+        {
+          "name": "Tomi Saario",
+          "url": "https://open.spotify.com/artist/1p1Q1tRavrbMGCgJdf9G0H"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "Annan sut pois (feat. Tomi Saario)",
+      "url": "https://open.spotify.com/track/3tmM50vAAJe4F69LfPBk25"
     },
     {
       "album": {
@@ -2362,7 +2384,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 175677,
       "name": "Boom Kah 2.0",
       "url": "https://open.spotify.com/track/4we0IaQqOwFJlYIiCKvVFt"
@@ -3876,7 +3898,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 209720,
       "name": "Dracula - JENNIE Remix",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
@@ -4235,6 +4257,28 @@
     },
     {
       "album": {
+        "name": "Ei rakastuta ikin\u00e4",
+        "url": "https://open.spotify.com/album/4PPaurLOAgdSJY08vbRQgn"
+      },
+      "artists": [
+        {
+          "name": "Diya",
+          "url": "https://open.spotify.com/artist/7aVx10WNIKLScTvZm7oNk5"
+        },
+        {
+          "name": "Ella Herold",
+          "url": "https://open.spotify.com/artist/7sokmrbjchlLzeqcOrX9aM"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174416,
+      "name": "Ei rakastuta ikin\u00e4",
+      "url": "https://open.spotify.com/track/2dTtoCWrVhb8qDXcbavZ7J"
+    },
+    {
+      "album": {
         "name": "Ei syd\u00e4nt\u00e4 saa",
         "url": "https://open.spotify.com/album/5hwEwsnRnZfNwu99GouiNt"
       },
@@ -4394,7 +4438,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-01",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "El\u00e4m\u00e4 jatkuu",
       "url": "https://open.spotify.com/track/3Usdxqf4vyIg48MMQXacYt"
@@ -4840,7 +4884,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 238826,
       "name": "Ent\u00e4 jos en p\u00e4rj\u00e4\u00e4k\u00e4\u00e4n",
       "url": "https://open.spotify.com/track/7u7QfpxxJ4L8wlakNEPlar"
@@ -6527,6 +6571,24 @@
     },
     {
       "album": {
+        "name": "Herkkisten liiga",
+        "url": "https://open.spotify.com/album/5xKaloO6TrGWYP4x8fPeE8"
+      },
+      "artists": [
+        {
+          "name": "VIIVI",
+          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185086,
+      "name": "Herkkisten liiga",
+      "url": "https://open.spotify.com/track/7vVfrEznUhDS3o4CND3QNb"
+    },
+    {
+      "album": {
         "name": "Herkkukauppa (Bam Tsiki Tsiki)",
         "url": "https://open.spotify.com/album/02AAVxfdMqurVFDJMXTmCw"
       },
@@ -7878,7 +7940,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 183237,
       "name": "iloveitiloveitiloveit",
       "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
@@ -8104,7 +8166,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 206733,
       "name": "Itseni vihollinen",
       "url": "https://open.spotify.com/track/0WXo5nX2iMUjxY9h19FijK"
@@ -9304,7 +9366,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 195770,
       "name": "kerro kerro kuvastin",
       "url": "https://open.spotify.com/track/7H93gPvGL8uwKZkUB6zVDH"
@@ -9428,7 +9490,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-22",
+      "date_removed": null,
       "duration_ms": 153110,
       "name": "Kev\u00e4tkiima",
       "url": "https://open.spotify.com/track/6G2WYA3PdKa7lvgtwP6Ui0"
@@ -9908,6 +9970,42 @@
       "duration_ms": 157863,
       "name": "Kuka Siin Netis On",
       "url": "https://open.spotify.com/track/0NDi2CgFxwY78d1CcVxzBw"
+    },
+    {
+      "album": {
+        "name": "KUKA T\u00c4\u00c4 MIMMI ON?",
+        "url": "https://open.spotify.com/album/3d2lm9RKwDOkcXZhbrxztY"
+      },
+      "artists": [
+        {
+          "name": "Hassan Maikal",
+          "url": "https://open.spotify.com/artist/5ibHOdl3OIBMsBc32Qsl2u"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178846,
+      "name": "KUKA T\u00c4\u00c4 MIMMI ON?",
+      "url": "https://open.spotify.com/track/2k6OIHOtt5Btwy4cuAAdOI"
+    },
+    {
+      "album": {
+        "name": "Kuka Vaan",
+        "url": "https://open.spotify.com/album/0nm1pGaRjoY0P8nAogDGXr"
+      },
+      "artists": [
+        {
+          "name": "WEWWE",
+          "url": "https://open.spotify.com/artist/3pSj91T5aQGsVUoLJH2mb9"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142285,
+      "name": "Kuka Vaan",
+      "url": "https://open.spotify.com/track/6mdRQoDI0ojsAIsJcpAQlV"
     },
     {
       "album": {
@@ -11450,7 +11548,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 150839,
       "name": "l\u00e4hit tulit menit saavuit (club mix)",
       "url": "https://open.spotify.com/track/58Zm0vQZ9VBXk6T8JwX8Os"
@@ -11504,7 +11602,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 147562,
       "name": "m0ti0n",
       "url": "https://open.spotify.com/track/1bfGnvSonrY4NJcG8DAK0l"
@@ -12484,6 +12582,32 @@
       "duration_ms": 163910,
       "name": "Min\u00e4 toivon - Vain el\u00e4m\u00e4\u00e4 kausi 16",
       "url": "https://open.spotify.com/track/6SeKa7pKOQbFzMPgR4LL4t"
+    },
+    {
+      "album": {
+        "name": "Miss Helsinki (with meik & AB)",
+        "url": "https://open.spotify.com/album/10DCv3bWx2eYHuV8c5feC6"
+      },
+      "artists": [
+        {
+          "name": "Victor Nordis",
+          "url": "https://open.spotify.com/artist/1DAgitxRlJMroOghdSraJp"
+        },
+        {
+          "name": "meik",
+          "url": "https://open.spotify.com/artist/3lWLx3XSIXTsTcWH30Xs95"
+        },
+        {
+          "name": "AB",
+          "url": "https://open.spotify.com/artist/76sQrG5TTCfEKDqFhc2zWm"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Miss Helsinki (with meik & AB)",
+      "url": "https://open.spotify.com/track/4zHJILWfqn5mukqZUUa4bi"
     },
     {
       "album": {
@@ -14168,7 +14292,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 239166,
       "name": "Nyt",
       "url": "https://open.spotify.com/track/24KShMbXZYoz4CJr5zocbg"
@@ -14186,7 +14310,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 160408,
       "name": "Nyt On",
       "url": "https://open.spotify.com/track/6OVJ6bo9mc2obaqNbOtzcy"
@@ -15402,7 +15526,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 189000,
       "name": "PETSHOP",
       "url": "https://open.spotify.com/track/1pEhxch5kmJr2RbMKoNguI"
@@ -15594,7 +15718,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 183964,
       "name": "PLAYBOY",
       "url": "https://open.spotify.com/track/1tWP6V183Ux1z2xkZa0WSE"
@@ -16302,7 +16426,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-25",
+      "date_removed": null,
       "duration_ms": 242640,
       "name": "Rakastan teit\u00e4 kaikkia",
       "url": "https://open.spotify.com/track/6HVdu7bH9m4IYcxnEY8Htk"
@@ -16338,7 +16462,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 158571,
       "name": "Rakastumisen oireet",
       "url": "https://open.spotify.com/track/7t0l5dhhyXHdSscnNTwPuR"
@@ -17564,7 +17688,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-24",
+      "date_removed": null,
       "duration_ms": 130423,
       "name": "Se ei ollu min\u00e4",
       "url": "https://open.spotify.com/track/6pcFppgbBG2eXOGdRn46kH"
@@ -18930,7 +19054,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 155573,
       "name": "Stiigerihai",
       "url": "https://open.spotify.com/track/6MPPUuAmlrMYfotZZmGbcC"
@@ -18974,6 +19098,24 @@
       "duration_ms": 172533,
       "name": "Sua Ei Oo - WILLEM Remix",
       "url": "https://open.spotify.com/track/6POXTrTpf5usT9rrbU3L0r"
+    },
+    {
+      "album": {
+        "name": "Sukupuu",
+        "url": "https://open.spotify.com/album/7DZEDJ2EFQlTDQeJAXhBem"
+      },
+      "artists": [
+        {
+          "name": "TINA",
+          "url": "https://open.spotify.com/artist/3wm3F9NVTrqDmkdG80qISm"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "Sukupuu",
+      "url": "https://open.spotify.com/track/4WeLx4T2Q0CfmzjjhFu2ba"
     },
     {
       "album": {
@@ -20106,7 +20248,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 228852,
       "name": "Tee Mulle Mit\u00e4 Vaan",
       "url": "https://open.spotify.com/track/225v95FOaSABtxkvndBTzk"
@@ -21819,6 +21961,24 @@
     },
     {
       "album": {
+        "name": "Vaarallist",
+        "url": "https://open.spotify.com/album/66IQbZGr5Z1KnnDwQEUsCV"
+      },
+      "artists": [
+        {
+          "name": "Ina",
+          "url": "https://open.spotify.com/artist/6U0qpV1jByBImJl8oRFnlQ"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154651,
+      "name": "Vaarallist",
+      "url": "https://open.spotify.com/track/71PZP10jMrXgBHqAVG6dDz"
+    },
+    {
+      "album": {
         "name": "Valentine",
         "url": "https://open.spotify.com/album/0KSyqpwyyp2hl3CEFbY0sg"
       },
@@ -22653,6 +22813,24 @@
     },
     {
       "album": {
+        "name": "Silti huominen tulee",
+        "url": "https://open.spotify.com/album/24yfcMpeIgEMTc67cWMekn"
+      },
+      "artists": [
+        {
+          "name": "Vahtera",
+          "url": "https://open.spotify.com/artist/5bavKfuSixZTrpyxC0qmfj"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198580,
+      "name": "Viiniinmenevii naisii",
+      "url": "https://open.spotify.com/track/5EECa0xVdWNjG9Lix0tTfk"
+    },
+    {
+      "album": {
         "name": "Vikaa kertaa (feat. Joalin)",
         "url": "https://open.spotify.com/album/06IN12ns5sDGdWZktzJF31"
       },
@@ -22730,6 +22908,28 @@
       "duration_ms": 212487,
       "name": "Voices",
       "url": "https://open.spotify.com/track/2qMDLvoWC6qZMjNhGc9V8j"
+    },
+    {
+      "album": {
+        "name": "Voidaaks rikkoo hiljaisuus",
+        "url": "https://open.spotify.com/album/37AvpNQzvi0OuJcdEWpb4E"
+      },
+      "artists": [
+        {
+          "name": "ELLIMEI",
+          "url": "https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra"
+        },
+        {
+          "name": "KAUKUA",
+          "url": "https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164717,
+      "name": "Voidaaks rikkoo hiljaisuus",
+      "url": "https://open.spotify.com/track/2g1bCHeYTpcL9mEUJ2Nm5v"
     },
     {
       "album": {
@@ -23272,7 +23472,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 196156,
       "name": "Who's That Calling?",
       "url": "https://open.spotify.com/track/0w2PrfuXeEqjEbqH8FCCAk"

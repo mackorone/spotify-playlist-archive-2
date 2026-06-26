@@ -8105,6 +8105,24 @@
     },
     {
       "album": {
+        "name": "g",
+        "url": "https://open.spotify.com/album/5lZM4MjAHZ9q1xoF5Wl9yQ"
+      },
+      "artists": [
+        {
+          "name": "Shouta Aoi",
+          "url": "https://open.spotify.com/artist/4Kg3vBPMPfnYrnZo2A4czS"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195966,
+      "name": "g",
+      "url": "https://open.spotify.com/track/5ZNHmpzW8Z6CXO18dp1Tpu"
+    },
+    {
+      "album": {
         "name": "GAME OVER",
         "url": "https://open.spotify.com/album/0B7HSA1BkB7b6MfJcR5KIK"
       },

@@ -1425,6 +1425,24 @@
     },
     {
       "album": {
+        "name": "Pu' D'batterie, Vol.1",
+        "url": "https://open.spotify.com/album/5nWA8oermHFntIte4GL2qb"
+      },
+      "artists": [
+        {
+          "name": "Colossale",
+          "url": "https://open.spotify.com/artist/1eektsWsMeBWe0icYCQj2x"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100588,
+      "name": "Freddie Gibbs",
+      "url": "https://open.spotify.com/track/2EuZgmpNafZ65eqhIyutd3"
+    },
+    {
+      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/7tilxtWhRcaOJ0UyysgvQN"
       },
@@ -1881,6 +1899,24 @@
     },
     {
       "album": {
+        "name": "Insomnie",
+        "url": "https://open.spotify.com/album/07lCcMGbJkSGeeyc293klT"
+      },
+      "artists": [
+        {
+          "name": "Kailys",
+          "url": "https://open.spotify.com/artist/57PDGjJgwxrUFCLlkxJZZn"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215813,
+      "name": "Insomnie",
+      "url": "https://open.spotify.com/track/4yzeM3WcIcVd649yvktMY3"
+    },
+    {
+      "album": {
         "name": "Entre les gouttes",
         "url": "https://open.spotify.com/album/0JISNHqqgZMbrNODCD9blh"
       },
@@ -2226,6 +2262,24 @@
       "duration_ms": 184109,
       "name": "La fin du film",
       "url": "https://open.spotify.com/track/75olv131UvV2jmqdWvEF0t"
+    },
+    {
+      "album": {
+        "name": "La Nuit",
+        "url": "https://open.spotify.com/album/6SBT3l51BiLME0uhMwUUuU"
+      },
+      "artists": [
+        {
+          "name": "Mike Moonnight",
+          "url": "https://open.spotify.com/artist/6T8Ols663KRRS4UdzGPbFf"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167120,
+      "name": "La Nuit",
+      "url": "https://open.spotify.com/track/21tJYf8GxZ2nbMOu2i2aVg"
     },
     {
       "album": {

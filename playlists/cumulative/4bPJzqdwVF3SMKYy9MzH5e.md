@@ -4,7 +4,7 @@
 
 > 
 
-2,417 songs - 5 day 9 hr 57 min
+2,418 songs - 5 day 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2341,6 +2341,7 @@
 | [Whip Smack](https://open.spotify.com/track/2GiIxdpHNTJ4mirXfDOpma) | [DR\. GABBA](https://open.spotify.com/artist/0PBXAVipMP5B7A554hJX0R) | [Whip Smack](https://open.spotify.com/album/6Tmt9DPTZJojU0ILaikzkK) | 2:36 | 2025-09-15 |  |
 | [White Flag](https://open.spotify.com/track/08IFMDAxF7Se7X8RNyoQWF) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:01 | 2021-08-05 |  |
 | [White Mustang](https://open.spotify.com/track/6eygbzyL6hY8jFQTARDuo9) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 2:44 | 2021-08-05 |  |
+| [White Neighbor \- remastered 2007](https://open.spotify.com/track/28dKLbA1nqWRVOmweQteP0) | [Eyehategod](https://open.spotify.com/artist/3BRjxpDVT56Y2G5dS3xYZS) | [Take As Needed for Pain \(Remastered Re\-issue + Bonus Tracks\)](https://open.spotify.com/album/0KGUACvQup4NDOhumQGa3V) | 3:54 | 2026-06-25 |  |
 | [White Rabbit](https://open.spotify.com/track/4vpeKl0vMGdAXpZiQB2Dtd) | [Jefferson Airplane](https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF) | [Surrealistic Pillow](https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a) | 2:30 | 2022-10-15 |  |
 | [Who Dat Boy \(feat\. A$AP Rocky\)](https://open.spotify.com/track/21yRtB6B8EMounImAfHRCP) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 3:25 | 2021-08-05 |  |
 | [whoa \(mind in awe\)](https://open.spotify.com/track/7pdF27mSDuPWhppnHAmWHa) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [SKINS](https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz) | 2:37 | 2021-08-05 |  |

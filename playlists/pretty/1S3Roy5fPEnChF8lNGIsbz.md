@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1S3Roy5fPEnChF8lNGIsbz.md) - [plain]
 
 > More on glitchandgold.com\. Follow @glitchandgoldmusic on Insta for interviews, Radar features and new discoveries.Submit your music on glitchandgold.com
 
-[Glitch&Gold](https://open.spotify.com/user/31jnz6gb3osfynb3qtvugfnc6syq) - 925 likes - 64 songs - 4 hr 5 min
+[Glitch&Gold](https://open.spotify.com/user/31jnz6gb3osfynb3qtvugfnc6syq) - 926 likes - 64 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

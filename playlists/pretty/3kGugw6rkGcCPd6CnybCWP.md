@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,167 likes - 120 songs - 7 hr 2 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,168 likes - 125 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,5 +128,10 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 118 | [Sinking Into The Ocean](https://open.spotify.com/track/30DebVQG34KpyNWMZm2VNx) | [Maia and the Squires](https://open.spotify.com/artist/0ZUdMSGAbhRWkb6WJwuBeq) | [Sinking Into The Ocean](https://open.spotify.com/album/1RSTKvRHsWAuvnTAO9Bpmc) | 4:25 |
 | 119 | [A Lot](https://open.spotify.com/track/0ZyU0bHh1UsZz9MUzSth8g) | [Loni Lila](https://open.spotify.com/artist/4mVVCZXncoiQapqEdPFFAy), [Konsum](https://open.spotify.com/artist/6Dw2VAyo0stjSYKTVDzLVD), [YÜÜP](https://open.spotify.com/artist/5Sl0lYEFxFwXKIfJa1Iglj) | [A Lot](https://open.spotify.com/album/5LLIXRhHSDFLhS72dP4Hbp) | 3:24 |
 | 120 | [Black & White](https://open.spotify.com/track/5l7Saevnhj0pWnnLAeXHOz) | [Patch Habits](https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ) | [Black & White](https://open.spotify.com/album/4d9gRLsl9swpB6qC1xzjYF) | 3:22 |
+| 121 | [Foolin'](https://open.spotify.com/track/3vncpZM6t0AhzJetZDQCcj) | [B\. Berg](https://open.spotify.com/artist/57gpUFpnZP5BLmnFchAwMB) | [Foolin'](https://open.spotify.com/album/5MaxV5DF4EFnYRYke9JiOG) | 4:53 |
+| 122 | [Leave My Mess Behind](https://open.spotify.com/track/5OrY0h7bLAx3m69fulxRrL) | [Wishwell](https://open.spotify.com/artist/4ujbmiDbRtguC5T4JecZgv) | [Leave My Mess Behind](https://open.spotify.com/album/2DxH4WogmQNgtN9amI11YV) | 3:23 |
+| 123 | [Temporale](https://open.spotify.com/track/6fcg53c7n41DTfwE8JbjVk) | [Heygregg](https://open.spotify.com/artist/1osX1AI2YS7ZYZNkkry7iJ) | [Temporale](https://open.spotify.com/album/1GzSHr7iwT76nRnL2zRHh0) | 2:32 |
+| 124 | [i wish that i was him](https://open.spotify.com/track/1DZZWjZnaE1lMUS6E5zHxg) | [Ian Thunder](https://open.spotify.com/artist/0qM0mEacwA4DzC3Wk2OdA3) | [i wish that i was him](https://open.spotify.com/album/4alGFpIigBWHHQ5mMZP9M2) | 1:58 |
+| 125 | [Autumn Lover](https://open.spotify.com/track/1xhuFPqGkiUlXaMZVUyANj) | [Ariel Corinne](https://open.spotify.com/artist/2tgtYtYfuB1XiYygooiWle) | [Love Death and Worms](https://open.spotify.com/album/2EasSth9XZkxYQd4LxgbGU) | 2:50 |
 
-Snapshot ID: `AAAPCebC/ecgg/2q6BJ3EByJpReg90eT`
+Snapshot ID: `AAAPDhQbR99ZUbINtH62NRbXrO25EdcB`

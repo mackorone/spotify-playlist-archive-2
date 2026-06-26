@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,254 songs - 2 day 21 hr 42 min
+1,255 songs - 2 day 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [99 Octane](https://open.spotify.com/track/58HDy7QoiDCFZG9sxTxRfN) | [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Whiney](https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Monstercat x Hospital Records](https://open.spotify.com/album/15NgKtJaUrVVJ7UwvtWtiO) | 2:59 | 2025-01-31 | 2025-05-01 |
 | [A Cause And Effect](https://open.spotify.com/track/2hR48fmeaUy2AHrcbznrvB) | [Approaching Black](https://open.spotify.com/artist/0SfWu37246YXADKirimzyW) | [Make You Mine](https://open.spotify.com/album/0p7nqhtXfPYbA8j88w8kdS) | 4:40 | 2022-10-29 | 2023-01-19 |
 | [A Cookie From Space](https://open.spotify.com/track/7q2h3i7mn0mpO847Yo4rUC) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI), [Bliss](https://open.spotify.com/artist/5kCxDwD2rjY6lKSGdAW7Lk) | [A Cookie From Space](https://open.spotify.com/album/1QbTncSh1e7wfVvJXLEX4G) | 10:19 | 2022-07-07 | 2022-09-17 |
+| [a different self, not this time \- Ward Wills Remix](https://open.spotify.com/track/2xvYN1qrV3JPsyT8ZwLQPS) | [Ward Wills](https://open.spotify.com/artist/22HWLRzuuO4aRQrXGIAnDj), [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [a different self, not this time \(Ward Wills Remix\)](https://open.spotify.com/album/7fKyQd76AoUdnqdgcVAmTF) | 2:18 | 2026-06-25 |  |
 | [A Flicker of Hope](https://open.spotify.com/track/23Lq2x9AhuEt3nKhFWJlh2) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc) | [A Flicker of Hope](https://open.spotify.com/album/3k9fpNCXZDPfNJXFsY1qVL) | 3:16 | 2025-08-19 | 2025-11-14 |
 | [A Game Of Fairies](https://open.spotify.com/track/2rvY72BOiaKVatWch8DT4b) | [ATTLAS](https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3) | [A Game Of Fairies](https://open.spotify.com/album/4aW2r0pFeRUDuo3OvRchGk) | 3:56 | 2023-09-05 | 2024-01-11 |
 | [A Moment Apart](https://open.spotify.com/track/4GWnEGVm89z7WSQ3BEuAN0) | [Matrx](https://open.spotify.com/artist/3UWM8Rb3JjZegw71LpCT6M) | [A Moment Apart](https://open.spotify.com/album/6tRgBvbPBZXCOaTPtv1Juz) | 3:34 | 2021-11-19 | 2022-02-19 |

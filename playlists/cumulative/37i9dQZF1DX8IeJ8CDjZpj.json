@@ -2973,6 +2973,24 @@
     },
     {
       "album": {
+        "name": "Lo Mejor en Bellas Artes - 40 Aniversario",
+        "url": "https://open.spotify.com/album/4hpY1ryuyFipmOovXGoT88"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 546546,
+      "name": "Hasta Que Te Conoc\u00ed - En Vivo [Desde el Instituto Nacional de Bellas Artes]",
+      "url": "https://open.spotify.com/track/6hNkhvhy5ersmVRGFTuIps"
+    },
+    {
+      "album": {
         "name": "Haw\u00e1i",
         "url": "https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Cherish the day with these low-key favorites.",
-  "num_followers": 386312,
+  "num_followers": 386320,
   "original_name": "Easy Acoustic",
   "owner": {
     "name": "Spotify",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/32iKyO3jcmkBhyo5oI3sK0"
-      },
-      "artists": [
-        {
-          "name": "Angel Snow",
-          "url": "https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j"
-        }
-      ],
-      "duration_ms": 206709,
-      "name": "Low (Acoustic)",
-      "url": "https://open.spotify.com/track/22wL5mqVkDtXd6OMT6ojgX"
-    },
-    {
-      "added_at": "2024-07-05 21:33:59",
-      "album": {
         "name": "Famous",
         "url": "https://open.spotify.com/album/66jxEpRg72cH9574G9L49e"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 222571,
       "name": "Famous",
       "url": "https://open.spotify.com/track/3tE7QWHK8fCsSBMtSUQK1B"
+    },
+    {
+      "added_at": "2024-07-05 21:33:59",
+      "album": {
+        "name": "Low",
+        "url": "https://open.spotify.com/album/32iKyO3jcmkBhyo5oI3sK0"
+      },
+      "artists": [
+        {
+          "name": "Angel Snow",
+          "url": "https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j"
+        }
+      ],
+      "duration_ms": 206709,
+      "name": "Low (Acoustic)",
+      "url": "https://open.spotify.com/track/22wL5mqVkDtXd6OMT6ojgX"
     },
     {
       "added_at": "2024-07-05 21:33:59",

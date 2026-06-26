@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtgIvO0zxTI.md) - [plain]
 
 ### [Flow Venezuela](https://open.spotify.com/playlist/37i9dQZF1DWTtgIvO0zxTI)
 
-> Aquí está el sonido urbano de Venezuela\. Cover: La Cruz
+> Aquí está el sonido urbano de Venezuela.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,780 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,783 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtgIvO0zxTI.md) - [plain]
 | 59 | [Como Si Nada](https://open.spotify.com/track/2ECKWYbTPpKvtnKiRiUQqC) | [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Como Si Nada](https://open.spotify.com/album/25baT12B8EsCMIjKVCztUi) | 2:36 |
 | 60 | [Imaginándote](https://open.spotify.com/track/6zxkr2tSIZMIKHaALNvoCr) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Satus](https://open.spotify.com/album/1lOibSxSky80FXEzR5Z2Gn) | 2:29 |
 
-Snapshot ID: `AAAAAIbEKpQY9524wSkGnCyPGarOUYrm`
+Snapshot ID: `AAAAAPW+kIUCERFAniwWUPkYRfDBEwy6`

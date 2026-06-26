@@ -1,6 +1,6 @@
 {
   "description": "und macht laune",
-  "num_followers": 644843,
+  "num_followers": 644872,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
@@ -947,6 +947,22 @@
     {
       "added_at": "2026-06-11 22:00:58",
       "album": {
+        "name": "Biertornado",
+        "url": "https://open.spotify.com/album/7kqjQTEMO3k9IhKa41ADZK"
+      },
+      "artists": [
+        {
+          "name": "PA69",
+          "url": "https://open.spotify.com/artist/1f3unG8ouGKD4s3iscIA5h"
+        }
+      ],
+      "duration_ms": 218417,
+      "name": "Biertornado",
+      "url": "https://open.spotify.com/track/5u7QargOKXO82nXcAU9s8L"
+    },
+    {
+      "added_at": "2026-06-11 22:00:58",
+      "album": {
         "name": "YEAH",
         "url": "https://open.spotify.com/album/3reHnBJbOMrlymwkwYqtEH"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 141551,
       "name": "YEAH",
       "url": "https://open.spotify.com/track/2qlqMa0e422LZyGw1J5for"
-    },
-    {
-      "added_at": "2026-06-11 22:00:58",
-      "album": {
-        "name": "Biertornado",
-        "url": "https://open.spotify.com/album/7kqjQTEMO3k9IhKa41ADZK"
-      },
-      "artists": [
-        {
-          "name": "PA69",
-          "url": "https://open.spotify.com/artist/1f3unG8ouGKD4s3iscIA5h"
-        }
-      ],
-      "duration_ms": 218417,
-      "name": "Biertornado",
-      "url": "https://open.spotify.com/track/5u7QargOKXO82nXcAU9s8L"
     },
     {
       "added_at": "2026-06-11 22:00:58",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2026-06-11 22:00:58",
       "album": {
-        "name": "We Are The People (southstar Remix)",
-        "url": "https://open.spotify.com/album/6NB6yrLJKj7nlP1vUWcVPA"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        },
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 236068,
-      "name": "We Are The People - southstar Remix",
-      "url": "https://open.spotify.com/track/4atLPkcljMp14JBaigYFKC"
-    },
-    {
-      "added_at": "2026-06-11 22:00:58",
-      "album": {
         "name": "Als du gingst (edit)",
         "url": "https://open.spotify.com/album/24CMRdb9SWlm08gBNhWD3F"
       },
@@ -1127,22 +1107,22 @@
     {
       "added_at": "2026-06-11 22:00:58",
       "album": {
-        "name": "Darling",
-        "url": "https://open.spotify.com/album/1aXE1L3MSBmnsNGO5HwKQC"
+        "name": "We Are The People (southstar Remix)",
+        "url": "https://open.spotify.com/album/6NB6yrLJKj7nlP1vUWcVPA"
       },
       "artists": [
         {
-          "name": "marli",
-          "url": "https://open.spotify.com/artist/1UYBl1b6pewBi9Ee06Rvfp"
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
         },
         {
-          "name": "Philemon",
-          "url": "https://open.spotify.com/artist/13k83FRrq682vqOpI7epwJ"
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
         }
       ],
-      "duration_ms": 106480,
-      "name": "Darling",
-      "url": "https://open.spotify.com/track/3DHO3GvZhb49NuJRn8AlaP"
+      "duration_ms": 236068,
+      "name": "We Are The People - southstar Remix",
+      "url": "https://open.spotify.com/track/4atLPkcljMp14JBaigYFKC"
     },
     {
       "added_at": "2026-06-11 22:00:58",
@@ -1163,6 +1143,26 @@
       "duration_ms": 120522,
       "name": "Would You (go to bed with me?)",
       "url": "https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX"
+    },
+    {
+      "added_at": "2026-06-11 22:00:58",
+      "album": {
+        "name": "Darling",
+        "url": "https://open.spotify.com/album/1aXE1L3MSBmnsNGO5HwKQC"
+      },
+      "artists": [
+        {
+          "name": "marli",
+          "url": "https://open.spotify.com/artist/1UYBl1b6pewBi9Ee06Rvfp"
+        },
+        {
+          "name": "Philemon",
+          "url": "https://open.spotify.com/artist/13k83FRrq682vqOpI7epwJ"
+        }
+      ],
+      "duration_ms": 106480,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/3DHO3GvZhb49NuJRn8AlaP"
     },
     {
       "added_at": "2026-06-11 22:00:58",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2026-06-11 22:00:58",
       "album": {
-        "name": "tell you straight (Speed Garage)",
-        "url": "https://open.spotify.com/album/7k9LXSIhJe0FDIPZJh1VGn"
-      },
-      "artists": [
-        {
-          "name": "Strn.",
-          "url": "https://open.spotify.com/artist/4UdZWeX7Nkt2LtdoGEzlsH"
-        },
-        {
-          "name": "ALEXYS",
-          "url": "https://open.spotify.com/artist/2hZSRabELx8cqDED0Dd5jT"
-        }
-      ],
-      "duration_ms": 94344,
-      "name": "tell you straight - Sped Up",
-      "url": "https://open.spotify.com/track/4zWWGFmM2LhtnMAVrTmYBg"
-    },
-    {
-      "added_at": "2026-06-11 22:00:58",
-      "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 158760,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG"
+    },
+    {
+      "added_at": "2026-06-11 22:00:58",
+      "album": {
+        "name": "tell you straight (Speed Garage)",
+        "url": "https://open.spotify.com/album/7k9LXSIhJe0FDIPZJh1VGn"
+      },
+      "artists": [
+        {
+          "name": "Strn.",
+          "url": "https://open.spotify.com/artist/4UdZWeX7Nkt2LtdoGEzlsH"
+        },
+        {
+          "name": "ALEXYS",
+          "url": "https://open.spotify.com/artist/2hZSRabELx8cqDED0Dd5jT"
+        }
+      ],
+      "duration_ms": 94344,
+      "name": "tell you straight - Sped Up",
+      "url": "https://open.spotify.com/track/4zWWGFmM2LhtnMAVrTmYBg"
     },
     {
       "added_at": "2026-06-11 22:00:58",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-06-11 22:00:58",
       "album": {
-        "name": "WHO'S THAT",
-        "url": "https://open.spotify.com/album/5uI4pkcf0BN2KwKbFxMcXL"
-      },
-      "artists": [
-        {
-          "name": "Ikkimel",
-          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
-        }
-      ],
-      "duration_ms": 140009,
-      "name": "WHO'S THAT",
-      "url": "https://open.spotify.com/track/4H0ly29pj5g6vMKum5kkhu"
-    },
-    {
-      "added_at": "2026-06-11 22:00:58",
-      "album": {
         "name": "Lay All Your Love On Me",
         "url": "https://open.spotify.com/album/3SFS3ynjYYTH9w7Fv4oUfz"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 149250,
       "name": "Lay All Your Love On Me",
       "url": "https://open.spotify.com/track/6d4o00VKYnYb1DgvZr2xuV"
+    },
+    {
+      "added_at": "2026-06-11 22:00:58",
+      "album": {
+        "name": "WHO'S THAT",
+        "url": "https://open.spotify.com/album/5uI4pkcf0BN2KwKbFxMcXL"
+      },
+      "artists": [
+        {
+          "name": "Ikkimel",
+          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
+        }
+      ],
+      "duration_ms": 140009,
+      "name": "WHO'S THAT",
+      "url": "https://open.spotify.com/track/4H0ly29pj5g6vMKum5kkhu"
     },
     {
       "added_at": "2026-06-11 22:00:58",
@@ -1719,26 +1719,6 @@
     {
       "added_at": "2026-06-11 22:00:58",
       "album": {
-        "name": "KETA UND KRAWALL",
-        "url": "https://open.spotify.com/album/1J45kvnBanNkQebLmKvXTa"
-      },
-      "artists": [
-        {
-          "name": "Ikkimel",
-          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
-        },
-        {
-          "name": "Barr\u00e9",
-          "url": "https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl"
-        }
-      ],
-      "duration_ms": 125492,
-      "name": "KETA UND KRAWALL",
-      "url": "https://open.spotify.com/track/6zP4Utvok4QRXlNYBZkpGa"
-    },
-    {
-      "added_at": "2026-06-11 22:00:58",
-      "album": {
         "name": "Around The World",
         "url": "https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf"
       },
@@ -1759,22 +1739,22 @@
     {
       "added_at": "2026-06-11 22:00:58",
       "album": {
-        "name": "HURENSOHN",
-        "url": "https://open.spotify.com/album/7e78fbs4oMuxSafCyyZNMO"
+        "name": "KETA UND KRAWALL",
+        "url": "https://open.spotify.com/album/1J45kvnBanNkQebLmKvXTa"
       },
       "artists": [
         {
-          "name": "Rumbombe",
-          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
+          "name": "Ikkimel",
+          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
         },
         {
-          "name": "bozi",
-          "url": "https://open.spotify.com/artist/3qmdhCda5tK3CPIJDdblKU"
+          "name": "Barr\u00e9",
+          "url": "https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl"
         }
       ],
-      "duration_ms": 154493,
-      "name": "HURENSOHN",
-      "url": "https://open.spotify.com/track/1wsndzfARmcXLntwDwGAQu"
+      "duration_ms": 125492,
+      "name": "KETA UND KRAWALL",
+      "url": "https://open.spotify.com/track/6zP4Utvok4QRXlNYBZkpGa"
     },
     {
       "added_at": "2026-06-11 22:00:58",
@@ -1795,6 +1775,26 @@
       "duration_ms": 240761,
       "name": "Major Tom (V\u00f6llig losgel\u00f6st)",
       "url": "https://open.spotify.com/track/0XPmdEHBu90jEJn2LdTGk7"
+    },
+    {
+      "added_at": "2026-06-11 22:00:58",
+      "album": {
+        "name": "HURENSOHN",
+        "url": "https://open.spotify.com/album/7e78fbs4oMuxSafCyyZNMO"
+      },
+      "artists": [
+        {
+          "name": "Rumbombe",
+          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
+        },
+        {
+          "name": "bozi",
+          "url": "https://open.spotify.com/artist/3qmdhCda5tK3CPIJDdblKU"
+        }
+      ],
+      "duration_ms": 154493,
+      "name": "HURENSOHN",
+      "url": "https://open.spotify.com/track/1wsndzfARmcXLntwDwGAQu"
     },
     {
       "added_at": "2026-06-11 22:00:58",
@@ -2015,6 +2015,22 @@
     {
       "added_at": "2026-06-11 22:00:58",
       "album": {
+        "name": "J\u00dcRGEN KLINSMANN",
+        "url": "https://open.spotify.com/album/1QDBKDNR9t4OXFotig6EJT"
+      },
+      "artists": [
+        {
+          "name": "AyVe",
+          "url": "https://open.spotify.com/artist/7v5NBcbJPldtdx1S2zQRtZ"
+        }
+      ],
+      "duration_ms": 140326,
+      "name": "J\u00dcRGEN KLINSMANN",
+      "url": "https://open.spotify.com/track/7tq1Vmap2HLusP6b5rO1y2"
+    },
+    {
+      "added_at": "2026-06-11 22:00:58",
+      "album": {
         "name": "Sehnsucht",
         "url": "https://open.spotify.com/album/1lIE5a9GgW0UN9BJ25UpyZ"
       },
@@ -2031,22 +2047,6 @@
       "duration_ms": 152826,
       "name": "Sehnsucht",
       "url": "https://open.spotify.com/track/7xaqxUl08zOg0YNUHokQpq"
-    },
-    {
-      "added_at": "2026-06-11 22:00:58",
-      "album": {
-        "name": "J\u00dcRGEN KLINSMANN",
-        "url": "https://open.spotify.com/album/1QDBKDNR9t4OXFotig6EJT"
-      },
-      "artists": [
-        {
-          "name": "AyVe",
-          "url": "https://open.spotify.com/artist/7v5NBcbJPldtdx1S2zQRtZ"
-        }
-      ],
-      "duration_ms": 140326,
-      "name": "J\u00dcRGEN KLINSMANN",
-      "url": "https://open.spotify.com/track/7tq1Vmap2HLusP6b5rO1y2"
     }
   ],
   "unique_name": "schiebt anders",

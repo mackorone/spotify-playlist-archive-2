@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Beartooth",
+  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Five Finger Death Punch",
   "name": "Rock Rotation",
   "tracks": [
     {
@@ -512,6 +512,24 @@
       "duration_ms": 204296,
       "name": "A.L.O.N.E.",
       "url": "https://open.spotify.com/track/27hYsmEv0oxDiCRtaePHHq"
+    },
+    {
+      "album": {
+        "name": "Dear God",
+        "url": "https://open.spotify.com/album/3sE3S6k6OA1UXWMKQEiaDY"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276096,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/3m4YAWyI7QypBz2qBUQCOO"
     },
     {
       "album": {
@@ -1328,7 +1346,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 233562,
       "name": "As Alive As You Need Me To Be",
       "url": "https://open.spotify.com/track/1xsEHo7mtGZLEG94vFX11z"
@@ -1368,7 +1386,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 269000,
       "name": "Asking For A Friend",
       "url": "https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp"
@@ -2139,6 +2157,24 @@
     },
     {
       "album": {
+        "name": "Bleeding Heads And Heart Attacks",
+        "url": "https://open.spotify.com/album/5e2P86JLRwEA6keoVp01kU"
+      },
+      "artists": [
+        {
+          "name": "ITCHY",
+          "url": "https://open.spotify.com/artist/42pWilgI9MEZARoTtGHNR4"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206358,
+      "name": "Bleeding Heads And Heart Attacks",
+      "url": "https://open.spotify.com/track/3KAo2LPR9I1k7LrIz0wcBR"
+    },
+    {
+      "album": {
         "name": "Blind Side Sonny",
         "url": "https://open.spotify.com/album/3Q8URHjCFx82FDBf6BUeFJ"
       },
@@ -2396,7 +2432,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 191129,
       "name": "BRAINDEAD (feat. Toby Morse)",
       "url": "https://open.spotify.com/track/4lSXxf1buHPHRqz4otuxde"
@@ -3180,7 +3216,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 226153,
       "name": "Circular",
       "url": "https://open.spotify.com/track/4XnpXJkkKOie8Iunru0JbC"
@@ -3913,6 +3949,24 @@
     },
     {
       "album": {
+        "name": "CYCLONE",
+        "url": "https://open.spotify.com/album/1v49eiS4pL1GbSIee6K2hf"
+      },
+      "artists": [
+        {
+          "name": "blacktoothed",
+          "url": "https://open.spotify.com/artist/0guYG99gfJe7LYCF4WR3c6"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "CYCLONE",
+      "url": "https://open.spotify.com/track/7xoXeBT6vZCS0kWShwPYDh"
+    },
+    {
+      "album": {
         "name": "DANCE WITH ME",
         "url": "https://open.spotify.com/album/3Uo59FndkcDDp0H7k9yJmh"
       },
@@ -4040,6 +4094,24 @@
       "duration_ms": 107428,
       "name": "Date You Won't Forget",
       "url": "https://open.spotify.com/track/7MgG0DwqLSGPHfScZ4YhNM"
+    },
+    {
+      "album": {
+        "name": "De Oppresso Liber",
+        "url": "https://open.spotify.com/album/5WC3J1FQMd4vrA3xuWPUwQ"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240208,
+      "name": "De Oppresso Liber",
+      "url": "https://open.spotify.com/track/1va9iYk8Kq9BYqlBTopxRK"
     },
     {
       "album": {
@@ -6899,6 +6971,24 @@
     },
     {
       "album": {
+        "name": "Guilt Trippin'",
+        "url": "https://open.spotify.com/album/5r5vvtabYJy7A62oBAbVuX"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292293,
+      "name": "Guilt Trippin'",
+      "url": "https://open.spotify.com/track/4YPhSDiB3tS9bn2TNBE7uP"
+    },
+    {
+      "album": {
         "name": "GUTSY",
         "url": "https://open.spotify.com/album/1cSEktYGDM94FlEfAKNOiZ"
       },
@@ -7885,6 +7975,28 @@
     },
     {
       "album": {
+        "name": "The Wow! Signal",
+        "url": "https://open.spotify.com/album/6TObgE5QDLYzA3Exu5vGhS"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235743,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/0OcCTvv3tpZBSZxP889Ijs"
+    },
+    {
+      "album": {
         "name": "Hysteria",
         "url": "https://open.spotify.com/album/7jJ5VDOgCGOOcyuqFX0dEV"
       },
@@ -8831,6 +8943,24 @@
     },
     {
       "album": {
+        "name": "Jealous Lover",
+        "url": "https://open.spotify.com/album/7ubZyifk1IUlccV9qKsOoM"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229994,
+      "name": "Jealous Lover",
+      "url": "https://open.spotify.com/track/2W1okJYTmZtO70IRDGEFVu"
+    },
+    {
+      "album": {
         "name": "Rockstar (Deluxe)",
         "url": "https://open.spotify.com/album/337iOvlhWakFamgb6x2vKN"
       },
@@ -9088,7 +9218,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 276400,
       "name": "Lachryma",
       "url": "https://open.spotify.com/track/0hw2CGX8jaIpS4jGDn3dfa"
@@ -12938,7 +13068,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 221495,
       "name": "Repainting",
       "url": "https://open.spotify.com/track/7mtClBCNr8k9HAybtCkBKW"
@@ -13014,6 +13144,28 @@
       "duration_ms": 196840,
       "name": "Resurge",
       "url": "https://open.spotify.com/track/2HaLls9gZTjwAffcUgCmSa"
+    },
+    {
+      "album": {
+        "name": "dissolution",
+        "url": "https://open.spotify.com/album/18pPzxeQhRThpbtj3ydM2m"
+      },
+      "artists": [
+        {
+          "name": "Siamese",
+          "url": "https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0"
+        },
+        {
+          "name": "Caskets",
+          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220057,
+      "name": "reveries feat. Caskets",
+      "url": "https://open.spotify.com/track/4QT1Xn41ijrhoxHaPaCXft"
     },
     {
       "album": {
@@ -14967,6 +15119,24 @@
     },
     {
       "album": {
+        "name": "Sun Has Set",
+        "url": "https://open.spotify.com/album/2YwRomMDFX0sttDNVqBrXR"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141804,
+      "name": "Sun Has Set",
+      "url": "https://open.spotify.com/track/3CnEw0mRAXVlLw36iL0mbe"
+    },
+    {
+      "album": {
         "name": "SUNBURN IN THE SUMMER",
         "url": "https://open.spotify.com/album/0qNj9zsXoh8yZgTpEGbohi"
       },
@@ -15894,7 +16064,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 225871,
       "name": "The Other Side",
       "url": "https://open.spotify.com/track/0u8wRzaAaJkqpqrTYNn3bZ"
@@ -16096,7 +16266,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 160147,
       "name": "Thirty",
       "url": "https://open.spotify.com/track/2BTDCcbN0pB6z0mZSxmJWj"
@@ -16790,7 +16960,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 238002,
       "name": "Unravelling",
       "url": "https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9"
@@ -16826,7 +16996,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 208258,
       "name": "Until We Disappear",
       "url": "https://open.spotify.com/track/60D4kO3LotIriBmmlNMq8C"
@@ -18176,7 +18346,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 197646,
       "name": "You Got to Lose",
       "url": "https://open.spotify.com/track/5YrYpEPqwBymz2VgbIYGik"
@@ -18256,6 +18426,24 @@
       "duration_ms": 97320,
       "name": "Your Misery",
       "url": "https://open.spotify.com/track/08Zdvv12TUEEkomxqj7l9m"
+    },
+    {
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/4fvnssJxxYAuvjeNB88D0j"
+      },
+      "artists": [
+        {
+          "name": "Fury In The Slaughterhouse",
+          "url": "https://open.spotify.com/artist/6eswqLpEm9AhDIguGzRswT"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159093,
+      "name": "Youth Is Wasted On The Young",
+      "url": "https://open.spotify.com/track/68Ry1fSvFygnxN8fyH1HeO"
     },
     {
       "album": {

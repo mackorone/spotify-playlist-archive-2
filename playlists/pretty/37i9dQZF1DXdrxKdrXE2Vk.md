@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: Housefires, Dante Bowe, Kendrick Williams, Ariel Campbell, & Lily Hooten
 
-[Spotify](https://open.spotify.com/user/spotify) - 950,896 likes - 80 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,916 likes - 80 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 | 24 | [You Will Make All Things New](https://open.spotify.com/track/7JM0ANkEUoDmHmdABU1LhA) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [You Will Make All Things New](https://open.spotify.com/album/6G2MC4cjPD25fb5Bhhu1zJ) | 3:59 |
 | 25 | [Redeemed \- Live](https://open.spotify.com/track/0b0itI0G0JoDRHjPBOn67i) | [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk) | [Redeemed \(Live\)](https://open.spotify.com/album/2YKpKKfCf5x1kAsS4eh8fa) | 3:39 |
 | 26 | [Yahweh Will Manifest \- Live From San Juan PR](https://open.spotify.com/track/1z7Fxs69SXH3OD9XNye8Lz) | [Oasis Ministry](https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p), [Laila Olivera](https://open.spotify.com/artist/5VtJqt6InNwbrpeZ492kWX) | [Yahweh Will Manifest \(Live From San Juan PR\)](https://open.spotify.com/album/5OoSjMQoO2PlmUSzP33gwQ) | 8:33 |
-| 27 | [I Was Dead, Now I'm Alive](https://open.spotify.com/track/4jCZcUBdbAckNeWUu2Ydn6) | [Awakening MVMT](https://open.spotify.com/artist/6PuUeoGERfFCcCOGzf7IN4), [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Abby Klinge](https://open.spotify.com/artist/6Fcd2uYQsHq7JGap2HULij) | [I Was Dead, Now I'm Alive](https://open.spotify.com/album/5M1zIktnqOYB8WYOj136tu) | 5:23 |
+| 27 | [I Was Dead, Now I'm Alive \- Live](https://open.spotify.com/track/4jCZcUBdbAckNeWUu2Ydn6) | [Awakening MVMT](https://open.spotify.com/artist/6PuUeoGERfFCcCOGzf7IN4), [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Abby Klinge](https://open.spotify.com/artist/6Fcd2uYQsHq7JGap2HULij) | [I Was Dead, Now I'm Alive \(Live\)](https://open.spotify.com/album/5M1zIktnqOYB8WYOj136tu) | 5:23 |
 | 28 | [Rest of My Life \- Live](https://open.spotify.com/track/2JTMqQZGd1FVYXIIoZynQQ) | [Damascus Worship](https://open.spotify.com/artist/1QHljL6ZVxIi5bylNmFkFI), [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Rest of My Life \(Live\)](https://open.spotify.com/album/3RLfUbjyzGLKNaskro5zXN) | 4:03 |
 | 29 | [Do A Work In Me \- Live](https://open.spotify.com/track/5ts4pT5MBeNDv4FxzkcOxc) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Do A Work In Me \(Live\)](https://open.spotify.com/album/6f0MbPfuYyhs9ZS0u2ekpL) | 9:21 |
 | 30 | [Shalom + It Is Well \- Live](https://open.spotify.com/track/2i4y3GgJBkthTztzafTU4W) | [Church of the City New York](https://open.spotify.com/artist/7KzjQ0i6ueIh45lCJHFcR6), [Emily Lindquist](https://open.spotify.com/artist/6bkqewBQCraIN3wzWmGawm) | [Live From Hell's Kitchen Vol\. 1](https://open.spotify.com/album/0uPVrx11IuB5mEqB8vnqcO) | 9:49 |

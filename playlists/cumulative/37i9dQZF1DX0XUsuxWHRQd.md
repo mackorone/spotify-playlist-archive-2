@@ -4,7 +4,7 @@
 
 > New music by YG, Key Glock and Skilla Baby.
 
-2,791 songs - 6 day 0 hr 55 min
+2,792 songs - 6 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -567,6 +567,7 @@
 | [Days Like This](https://open.spotify.com/track/1SDmHiEsPpO2YLsubzKRUW) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Life Is Beautiful \(Deluxe\)](https://open.spotify.com/album/2eKy2HAQ2J3WY4Q4rVCha2) | 3:36 | 2025-08-09 | 2025-09-06 |
 | [Dead Man Walking \(feat\. Future\)](https://open.spotify.com/track/35Ycb1cMPK6tyNMsTepijg) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Dead Man Walking](https://open.spotify.com/album/5v7NpK7CAZ6IDdKiUXCtAl) | 2:15 | 2020-01-17 | 2020-01-31 |
 | [Dead or Alive](https://open.spotify.com/track/25iB3wmUOdPF4mj9lNjbtH) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dead or Alive](https://open.spotify.com/album/4g8No0TDtB80QveIDeUTjF) | 2:02 | 2023-09-22 | 2023-10-14 |
+| [Dead Presidents II](https://open.spotify.com/track/3nDYsXggRQxf7PCNUjR4rz) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Reasonable Doubt](https://open.spotify.com/album/3YPK0bNOuayhmSrs0sIIBR) | 4:26 | 2026-06-25 |  |
 | [Dear Mama](https://open.spotify.com/track/6tDxrq4FxEL2q15y37tXT9) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Me Against The World](https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk) | 4:40 | 2023-05-04 | 2025-03-15 |
 | [Death \(feat\. DaBaby\)](https://open.spotify.com/track/6YfTl5YupXOQBKiJJLrxcw) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Death \(feat\. DaBaby\)](https://open.spotify.com/album/0wb2DaHDhLUUS5RRFa26U9) | 2:52 | 2019-11-15 | 2020-02-14 |
 | [Deep Down](https://open.spotify.com/track/545yB924QumhJ43PN4ufyF) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Deep Down](https://open.spotify.com/album/6ke2dWDD3kpGtitTgYjzwT) | 3:22 | 2023-10-27 | 2023-11-11 |

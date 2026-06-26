@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the wonderful holiday season with K-Pop! (Cover: DAY6(\ub370\uc774\uc2dd\uc2a4))",
-  "num_followers": 152951,
+  "num_followers": 152930,
   "original_name": "Christmas K-Pop (\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \ucf00\uc774\ud31d)",
   "owner": {
     "name": "Spotify",
@@ -372,7 +372,7 @@
           "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
         },
         {
-          "name": "JUSTHIS",
+          "name": "\uc800\uc2a4\ub514\uc2a4 (JUSTHIS)",
           "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
         }
       ],
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "Winter Glow",
-        "url": "https://open.spotify.com/album/6ZnV6RIYCZdozre4yDzIOu"
-      },
-      "artists": [
-        {
-          "name": "FIFTY FIFTY",
-          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
-        }
-      ],
-      "duration_ms": 211626,
-      "name": "When You Say My Name",
-      "url": "https://open.spotify.com/track/1LFFqnGA8n1QHlNcobioF8"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "White",
         "url": "https://open.spotify.com/album/2kHbfJSatQE5KAglEKS4dA"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 236026,
       "name": "White",
       "url": "https://open.spotify.com/track/3x2WPJdU4Rl2UOgYZyTJje"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "Winter Glow",
+        "url": "https://open.spotify.com/album/6ZnV6RIYCZdozre4yDzIOu"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "duration_ms": 211626,
+      "name": "When You Say My Name",
+      "url": "https://open.spotify.com/track/1LFFqnGA8n1QHlNcobioF8"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "Maybe Christmas (Orchestra Version)",
-        "url": "https://open.spotify.com/album/45v0kfxliXgedtXPVCtqr2"
-      },
-      "artists": [
-        {
-          "name": "Yiruma",
-          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
-        }
-      ],
-      "duration_ms": 303297,
-      "name": "Maybe Christmas - Orchestra Version",
-      "url": "https://open.spotify.com/track/3rFpFKkRZ62lHyRByZbNUj"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "This Christmas \u2013 Winter is Coming",
         "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 259339,
       "name": "Christmas without You",
       "url": "https://open.spotify.com/track/617cDTzVRFEwYPzi3FKaXT"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "Maybe Christmas (Orchestra Version)",
+        "url": "https://open.spotify.com/album/45v0kfxliXgedtXPVCtqr2"
+      },
+      "artists": [
+        {
+          "name": "Yiruma",
+          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
+        }
+      ],
+      "duration_ms": 303297,
+      "name": "Maybe Christmas - Orchestra Version",
+      "url": "https://open.spotify.com/track/3rFpFKkRZ62lHyRByZbNUj"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "Merry-Chri",
-        "url": "https://open.spotify.com/album/4oqQrLd2zP701hWtcGx0Vr"
-      },
-      "artists": [
-        {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
-        }
-      ],
-      "duration_ms": 332666,
-      "name": "Merry-Chri",
-      "url": "https://open.spotify.com/track/3yVUAgXBPozhKKeXphiTY3"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "This Christmas \u2013 Winter is Coming",
         "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 204554,
       "name": "Candy Cane",
       "url": "https://open.spotify.com/track/1SO3jE0lOysjtylF6y3FWt"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "Merry-Chri",
+        "url": "https://open.spotify.com/album/4oqQrLd2zP701hWtcGx0Vr"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "duration_ms": 332666,
+      "name": "Merry-Chri",
+      "url": "https://open.spotify.com/track/3yVUAgXBPozhKKeXphiTY3"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "THE BOYZ Special Single [Candles]",
-        "url": "https://open.spotify.com/album/0kIrSdkjAIqiQ8yhXyrtun"
-      },
-      "artists": [
-        {
-          "name": "THE BOYZ",
-          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
-        }
-      ],
-      "duration_ms": 231093,
-      "name": "Candles",
-      "url": "https://open.spotify.com/track/5vT3UDjwJt87muaqyLW13W"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "This Christmas \u2013 Winter is Coming",
         "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 167456,
       "name": "The Magic of Christmas Time",
       "url": "https://open.spotify.com/track/35OjjtMHKnPdOAsEZ6M9OA"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "THE BOYZ Special Single [Candles]",
+        "url": "https://open.spotify.com/album/0kIrSdkjAIqiQ8yhXyrtun"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "duration_ms": 231093,
+      "name": "Candles",
+      "url": "https://open.spotify.com/track/5vT3UDjwJt87muaqyLW13W"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "PINK CHRISTMAS",
-        "url": "https://open.spotify.com/album/2dKFIjEOW7xpBbr7DUtn6Z"
-      },
-      "artists": [
-        {
-          "name": "Apink",
-          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
-        }
-      ],
-      "duration_ms": 194866,
-      "name": "PINK CHRISTMAS",
-      "url": "https://open.spotify.com/track/4BU2J7VTrm2TvzaYUX7GXb"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "Christmas Dance",
         "url": "https://open.spotify.com/album/4D7wSlC3TgPptQwEb9t5XP"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 244173,
       "name": "Christmas Dance",
       "url": "https://open.spotify.com/track/5Fr2nTvU0OdhMUohTNXlA4"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "PINK CHRISTMAS",
+        "url": "https://open.spotify.com/album/2dKFIjEOW7xpBbr7DUtn6Z"
+      },
+      "artists": [
+        {
+          "name": "Apink",
+          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
+        }
+      ],
+      "duration_ms": 194866,
+      "name": "PINK CHRISTMAS",
+      "url": "https://open.spotify.com/track/4BU2J7VTrm2TvzaYUX7GXb"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
+        "name": "Winter Bloom",
+        "url": "https://open.spotify.com/album/4fE3UDxP596kDYgqlUukiy"
+      },
+      "artists": [
+        {
+          "name": "CLASSy",
+          "url": "https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ"
+        }
+      ],
+      "duration_ms": 179684,
+      "name": "Winter Bloom",
+      "url": "https://open.spotify.com/track/7jfa0NpiHLaaKpec5cxO30"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
         "name": "Another Sad Love Song",
         "url": "https://open.spotify.com/album/0gOhggWveoOEbmB0YjaZrE"
       },
@@ -1179,18 +1195,18 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "Winter Bloom",
-        "url": "https://open.spotify.com/album/4fE3UDxP596kDYgqlUukiy"
+        "name": "My Winter Trip",
+        "url": "https://open.spotify.com/album/4VVH0BD7z9Cs4iORPbZ2Ci"
       },
       "artists": [
         {
-          "name": "CLASS:y",
-          "url": "https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ"
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
         }
       ],
-      "duration_ms": 179684,
-      "name": "Winter Bloom",
-      "url": "https://open.spotify.com/track/7jfa0NpiHLaaKpec5cxO30"
+      "duration_ms": 251617,
+      "name": "My Winter Trip",
+      "url": "https://open.spotify.com/track/1SDRgU2C81CcOhaOvTOBCk"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1207,22 +1223,6 @@
       "duration_ms": 206493,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/68fpO1QFaZAssEl9c6546S"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
-        "name": "My Winter Trip",
-        "url": "https://open.spotify.com/album/4VVH0BD7z9Cs4iORPbZ2Ci"
-      },
-      "artists": [
-        {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
-        }
-      ],
-      "duration_ms": 251617,
-      "name": "My Winter Trip",
-      "url": "https://open.spotify.com/track/1SDRgU2C81CcOhaOvTOBCk"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "[My Christmas Sweet Love]",
-        "url": "https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM"
-      },
-      "artists": [
-        {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
-        }
-      ],
-      "duration_ms": 225426,
-      "name": "My Christmas Sweet Love",
-      "url": "https://open.spotify.com/track/08VCAwA9DAj9ycjNiNyEoy"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "FOCUS",
         "url": "https://open.spotify.com/album/2HYomfaNdOTYlOftTbE7Af"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 154989,
       "name": "Jingle Bell Love",
       "url": "https://open.spotify.com/track/3vvQB1Jv0HLVyl0esdrKMH"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "[My Christmas Sweet Love]",
+        "url": "https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "duration_ms": 225426,
+      "name": "My Christmas Sweet Love",
+      "url": "https://open.spotify.com/track/08VCAwA9DAj9ycjNiNyEoy"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "[My Christmas Sweet Love]",
-        "url": "https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM"
-      },
-      "artists": [
-        {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
-        }
-      ],
-      "duration_ms": 232746,
-      "name": "Jazz Bar (Carol ver.)",
-      "url": "https://open.spotify.com/track/4I7hBCBjcnH5YCN6AtyFHP"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "MUST HAVE",
         "url": "https://open.spotify.com/album/0p1vF2SctjpmMLekoIBEcO"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 227825,
       "name": "This Christmas",
       "url": "https://open.spotify.com/track/4OFYgzWbOmaZH2D6qblLRv"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "[My Christmas Sweet Love]",
+        "url": "https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "duration_ms": 232746,
+      "name": "Jazz Bar (Carol ver.)",
+      "url": "https://open.spotify.com/track/4I7hBCBjcnH5YCN6AtyFHP"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "[My Christmas Sweet Love]",
-        "url": "https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM"
-      },
-      "artists": [
-        {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
-        }
-      ],
-      "duration_ms": 197160,
-      "name": "Wonderland (Carol ver.)",
-      "url": "https://open.spotify.com/track/6UukezNY3YRxAoNlOKwKkI"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "Christmas Rose",
         "url": "https://open.spotify.com/album/2vWcgcfBxlPZIU9rYqob9o"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 159616,
       "name": "I Still Believe in Santa",
       "url": "https://open.spotify.com/track/3QzRFgACehCoVpE4jRkQCE"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "[My Christmas Sweet Love]",
+        "url": "https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "duration_ms": 197160,
+      "name": "Wonderland (Carol ver.)",
+      "url": "https://open.spotify.com/track/6UukezNY3YRxAoNlOKwKkI"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "The Christmas Number 12",
-        "url": "https://open.spotify.com/album/5jVCZws60QZ11TP2nWjxOZ"
-      },
-      "artists": [
-        {
-          "name": "OoOo",
-          "url": "https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb"
-        }
-      ],
-      "duration_ms": 159835,
-      "name": "The Christmas Number 12",
-      "url": "https://open.spotify.com/track/1VgEdXPGiCizL6DfIUDGok"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "First Snow",
         "url": "https://open.spotify.com/album/2JuP76Opbf43B50FPS6qbb"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 234306,
       "name": "Christmas With You",
       "url": "https://open.spotify.com/track/5b8VfM4pIknpsNH93pEp5x"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "The Christmas Number 12",
+        "url": "https://open.spotify.com/album/5jVCZws60QZ11TP2nWjxOZ"
+      },
+      "artists": [
+        {
+          "name": "OoOo",
+          "url": "https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb"
+        }
+      ],
+      "duration_ms": 159835,
+      "name": "The Christmas Number 12",
+      "url": "https://open.spotify.com/track/1VgEdXPGiCizL6DfIUDGok"
     },
     {
       "added_at": "2026-01-20 05:01:24",

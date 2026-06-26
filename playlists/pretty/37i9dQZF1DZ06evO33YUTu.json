@@ -1,12 +1,12 @@
 {
   "description": "This is Greeicy. The essential tracks, all in one playlist.",
-  "num_followers": 133737,
+  "num_followers": 133745,
   "original_name": "This Is Greeicy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajnMgAAAAACz3sgJweJ/LezH7KqC3jyU",
+  "snapshot_id": "ajseAAAAAAClcN/HANsxgYayOO9SPNDu",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disc\u00falpeme Se\u00f1or",
-        "url": "https://open.spotify.com/album/3rXPB8pYN0z9kw6nz5k8Z2"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 173693,
-      "name": "Disc\u00falpeme Se\u00f1or",
-      "url": "https://open.spotify.com/track/6c1ZfnHFuzU5Wh8PS48IWI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Veces A Besos (Remix)",
         "url": "https://open.spotify.com/album/6GQ6dTqETHVhICdGUoFbjf"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 216146,
       "name": "A Veces A Besos - Remix",
       "url": "https://open.spotify.com/track/5s6wqK03tr6rzkT9qMFB1D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Disc\u00falpeme Se\u00f1or",
+        "url": "https://open.spotify.com/album/3rXPB8pYN0z9kw6nz5k8Z2"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 173693,
+      "name": "Disc\u00falpeme Se\u00f1or",
+      "url": "https://open.spotify.com/track/6c1ZfnHFuzU5Wh8PS48IWI"
     },
     {
       "added_at": null,
@@ -931,26 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfecta",
-        "url": "https://open.spotify.com/album/7qFvB7ZvDIud6x16xMv3Ur"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 182533,
-      "name": "Perfecta",
-      "url": "https://open.spotify.com/track/5gH9CSkFW45IjfocI8MPsb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Magia de Tus Ojos (Versi\u00f3n Pop)",
         "url": "https://open.spotify.com/album/1CpCyWZRRyqOGAGIahFbph"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 168750,
       "name": "La Magia de Tus Ojos - Versi\u00f3n Pop",
       "url": "https://open.spotify.com/track/3GhOpiYR8x3fSTohVMHOWD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perfecta",
+        "url": "https://open.spotify.com/album/7qFvB7ZvDIud6x16xMv3Ur"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 182533,
+      "name": "Perfecta",
+      "url": "https://open.spotify.com/track/5gH9CSkFW45IjfocI8MPsb"
     },
     {
       "added_at": null,

@@ -382,7 +382,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 168164,
       "name": "Almost Me, Almost You",
       "url": "https://open.spotify.com/track/2ZDmomo3jbfpCqJLj7XYFF"
@@ -1970,7 +1970,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 171428,
       "name": "figure it out",
       "url": "https://open.spotify.com/track/0F9hf8q3JsF3TTqUR1S4dW"
@@ -2910,7 +2910,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 102634,
       "name": "I Don\u2019t Fuck With You - Live in LA",
       "url": "https://open.spotify.com/track/53WbL7M2FBvokQhzw3veB6"
@@ -3338,6 +3338,28 @@
       "duration_ms": 155700,
       "name": "Jamais \u00c9t\u00e9 (Cool)",
       "url": "https://open.spotify.com/track/3d78cgjRdpp2hmhZdyMmKp"
+    },
+    {
+      "album": {
+        "name": "Jamais \u00c9t\u00e9 (Cool)",
+        "url": "https://open.spotify.com/album/2vdKUoBLa2xEUvVAnUgc7F"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb M\u00eb",
+          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
+        },
+        {
+          "name": "L\u00e9man",
+          "url": "https://open.spotify.com/artist/2EnOL1ADehfBQB03ELa3QQ"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156139,
+      "name": "Jamais \u00c9t\u00e9 (Cool)",
+      "url": "https://open.spotify.com/track/2Znp96G4Vy1ZOuCEFheCBF"
     },
     {
       "album": {
@@ -4836,7 +4858,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 175693,
       "name": "Princesse chaos - Marine's Version",
       "url": "https://open.spotify.com/track/1W1U19EsKUKhOBl82GgpWL"
@@ -5760,7 +5782,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-21",
+      "date_removed": null,
       "duration_ms": 175005,
       "name": "Surprise Surprise",
       "url": "https://open.spotify.com/track/1qxP9aigVY42COVRva1rO9"
@@ -6089,6 +6111,24 @@
     },
     {
       "album": {
+        "name": "The Swell",
+        "url": "https://open.spotify.com/album/5B3s2wHvYBUrZIzo5J5C8y"
+      },
+      "artists": [
+        {
+          "name": "Amble",
+          "url": "https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207959,
+      "name": "The Swell",
+      "url": "https://open.spotify.com/track/6QUuLk63S1azIQbmDEvpfS"
+    },
+    {
+      "album": {
         "name": "Thee Unknown",
         "url": "https://open.spotify.com/album/2Jkcr5p1FkmY1vYM5WPJtk"
       },
@@ -6404,6 +6444,24 @@
       "duration_ms": 144049,
       "name": "VERSPRICH MIR",
       "url": "https://open.spotify.com/track/6R9psIh9BwAhJmeVTK7Ipg"
+    },
+    {
+      "album": {
+        "name": "Sweet Fortune",
+        "url": "https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221595,
+      "name": "Virtuoso",
+      "url": "https://open.spotify.com/track/2RtNoFR37ieZtxShQ5BSSI"
     },
     {
       "album": {

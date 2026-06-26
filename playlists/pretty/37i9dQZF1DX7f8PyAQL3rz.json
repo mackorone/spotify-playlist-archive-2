@@ -1,6 +1,6 @@
 {
   "description": "no drill e na bola \u00e9 \ud83c\udde7\ud83c\uddf7 , tlgd",
-  "num_followers": 1443672,
+  "num_followers": 1443572,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2026-06-17 15:55:30",
       "album": {
-        "name": "BOLA DE MEIA.",
-        "url": "https://open.spotify.com/album/6vXRIMIBzpOflkPY2agdON"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        }
-      ],
-      "duration_ms": 213995,
-      "name": "BOLA DE MEIA.",
-      "url": "https://open.spotify.com/track/6gLZVkQfxtLb7Lw4yV1nM3"
-    },
-    {
-      "added_at": "2026-06-17 15:55:30",
-      "album": {
         "name": "AQUI \u00c9 BRASIL",
         "url": "https://open.spotify.com/album/43On3lmGHBNE9Mo0Lyjzx5"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 354461,
       "name": "AQUI \u00c9 BRASIL",
       "url": "https://open.spotify.com/track/78FNzEE7jtP3Lf5niaxAfH"
+    },
+    {
+      "added_at": "2026-06-17 15:55:30",
+      "album": {
+        "name": "BOLA DE MEIA.",
+        "url": "https://open.spotify.com/album/6vXRIMIBzpOflkPY2agdON"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "duration_ms": 213995,
+      "name": "BOLA DE MEIA.",
+      "url": "https://open.spotify.com/track/6gLZVkQfxtLb7Lw4yV1nM3"
     },
     {
       "added_at": "2026-06-17 15:55:30",

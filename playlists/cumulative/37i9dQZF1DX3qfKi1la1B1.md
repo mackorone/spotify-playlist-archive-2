@@ -4,12 +4,13 @@
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-497 songs - 1 day 7 hr 40 min
+498 songs - 1 day 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['22](https://open.spotify.com/track/2cWBtSKTNoi7naBpY8RKmu) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV), [Laugh Cry Laugh](https://open.spotify.com/artist/5uTkXOALKTyIBOffC3tJIi) | ['22](https://open.spotify.com/album/7uSlRWoUkfSfgHmFbhhSzM) | 1:57 | 2023-11-16 | 2023-12-01 |
 | [1st Soundscape](https://open.spotify.com/track/2YMY061QrP62VEA6thqCqm) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Wind Down](https://open.spotify.com/album/0SNkVpjU9S4zVxBoytcfON) | 3:44 | 2023-05-23 | 2023-08-18 |
+| [2 Many Days](https://open.spotify.com/track/5xKsdMU9ssxhKSre7iMflV) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [2 Many Days](https://open.spotify.com/album/5C9EToByF5XDM3DXx4WewZ) | 3:05 | 2026-06-25 |  |
 | [5ever](https://open.spotify.com/track/2nwh3hApzIyVa5XdBZOZnQ) | [EDEN](https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt) | [5ever](https://open.spotify.com/album/6IqbOmIzpHrQo7pgIK4V08) | 3:18 | 2024-08-08 | 2024-09-14 |
 | [6 Feet Down](https://open.spotify.com/track/702iObycXld7AL2LQpTpUc) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [6 Feet Down](https://open.spotify.com/album/6i93wnZ5LMF7g7mBgYGF3V) | 2:48 | 2024-01-18 | 2024-05-24 |
 | [6 Feet Down](https://open.spotify.com/track/7LRnNIZFJQSv1mt4W8HYlK) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [6 Feet Down](https://open.spotify.com/album/0pluPeMP0fou1HBotVrHmP) | 2:48 | 2024-01-18 | 2024-04-19 |
@@ -354,7 +355,7 @@
 | [roots](https://open.spotify.com/track/1YYcOpSA7Zq6fYzwDg8YqL) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Third \(Deluxe\)](https://open.spotify.com/album/6WIYPzBb2wVK5HOSN2oyDx) | 2:49 | 2023-06-01 | 2023-07-12 |
 | [Round & Round](https://open.spotify.com/track/1IoMNOQ6m4GQjc1HP8oe9M) | [Audio Dope](https://open.spotify.com/artist/7vByi0TCh4wNTdqNK7dNqe), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo) | [Round & Round](https://open.spotify.com/album/1sTIeDRLjYnAOgI2Qe7nK9) | 3:04 | 2023-01-12 | 2023-03-31 |
 | [S P E Y S I D E](https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [S P E Y S I D E](https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs) | 3:29 | 2024-09-25 | 2025-01-27 |
-| [SACRED HEART](https://open.spotify.com/track/0XOlRD5Q2foFN2hCOOyZc1) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU), [Kala](https://open.spotify.com/artist/1u94nEnxIMhDOMOScTHVTr) | [M.I.7](https://open.spotify.com/album/6TGoIu9hPSLt2fYgdThVKD) | 2:51 | 2026-04-27 |  |
+| [SACRED HEART](https://open.spotify.com/track/0XOlRD5Q2foFN2hCOOyZc1) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU), [Kala](https://open.spotify.com/artist/1u94nEnxIMhDOMOScTHVTr) | [M.I.7](https://open.spotify.com/album/6TGoIu9hPSLt2fYgdThVKD) | 2:51 | 2026-04-27 | 2026-06-26 |
 | [SAINT](https://open.spotify.com/track/4auMua2dpYAQge1UGMiBnP) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [SAINT](https://open.spotify.com/album/7p5Nfjf6G1SC4xveOYrmHc) | 2:59 | 2024-06-07 | 2026-05-08 |
 | [Same Problems?](https://open.spotify.com/track/3jpZwYrDbX2lQMhHwXjyUD) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Same Problems?](https://open.spotify.com/album/3MwuzX0j37H9SYVH78Oavt) | 4:22 | 2023-01-19 | 2023-04-14 |
 | [Satellite 9](https://open.spotify.com/track/3qwf9TLFi1AxfNtFWiXEV1) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Kai Campos](https://open.spotify.com/artist/0ud7Vcl9BBEoOVwoWDqXIH) | [MK 3.5: Satellite 9 \| dvd](https://open.spotify.com/album/5l9YAHV3pOEF23ecMSxlZP) | 3:01 | 2022-10-27 | 2023-01-25 |

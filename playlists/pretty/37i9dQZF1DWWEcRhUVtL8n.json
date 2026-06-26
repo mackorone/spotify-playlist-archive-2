@@ -1,6 +1,6 @@
 {
   "description": "New and approved indie pop. Cover: Quiet Houses",
-  "num_followers": 1667568,
+  "num_followers": 1667521,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
@@ -357,22 +357,6 @@
       "url": "https://open.spotify.com/track/3eFBPuf0y3Vguk6GUCNpwP"
     },
     {
-      "added_at": "2026-05-25 17:48:56",
-      "album": {
-        "name": "everyone for ten minutes",
-        "url": "https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 184761,
-      "name": "we should talk",
-      "url": "https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz"
-    },
-    {
       "added_at": "2026-05-15 16:17:55",
       "album": {
         "name": "thank you i guess",
@@ -387,6 +371,22 @@
       "duration_ms": 118300,
       "name": "thank you i guess",
       "url": "https://open.spotify.com/track/6T1klWs7QMnkPOJGnSpL26"
+    },
+    {
+      "added_at": "2026-05-25 17:48:56",
+      "album": {
+        "name": "everyone for ten minutes",
+        "url": "https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "we should talk",
+      "url": "https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "Bleeding Gold",
-        "url": "https://open.spotify.com/album/35xsdh210MQASoGiWVpzyd"
-      },
-      "artists": [
-        {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
-        }
-      ],
-      "duration_ms": 242820,
-      "name": "Bleeding Gold",
-      "url": "https://open.spotify.com/track/33UMuadJsuFnZ0qcgVAOs1"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
         "name": "Equus Caballus",
         "url": "https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3"
       },
@@ -715,18 +699,18 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "you and forever",
-        "url": "https://open.spotify.com/album/32spb4QXcrqJxAgumWb6up"
+        "name": "Bleeding Gold",
+        "url": "https://open.spotify.com/album/35xsdh210MQASoGiWVpzyd"
       },
       "artists": [
         {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
         }
       ],
-      "duration_ms": 234971,
-      "name": "you and forever",
-      "url": "https://open.spotify.com/track/7faK0eOWGbfxWeuw1inyBN"
+      "duration_ms": 242820,
+      "name": "Bleeding Gold",
+      "url": "https://open.spotify.com/track/33UMuadJsuFnZ0qcgVAOs1"
     },
     {
       "added_at": "2026-05-15 16:36:11",
@@ -743,6 +727,22 @@
       "duration_ms": 173333,
       "name": "Feel It All Again",
       "url": "https://open.spotify.com/track/4tcLxWZs2YYmggQRWGsYTZ"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "you and forever",
+        "url": "https://open.spotify.com/album/32spb4QXcrqJxAgumWb6up"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 234971,
+      "name": "you and forever",
+      "url": "https://open.spotify.com/track/7faK0eOWGbfxWeuw1inyBN"
     },
     {
       "added_at": "2026-06-12 04:02:00",
@@ -833,6 +833,22 @@
       "url": "https://open.spotify.com/track/0ecQazzKkndVD8Ry9Orp9Q"
     },
     {
+      "added_at": "2026-06-05 04:02:01",
+      "album": {
+        "name": "Mesmerized",
+        "url": "https://open.spotify.com/album/48cw0m0nuKHe6Q369tRLkr"
+      },
+      "artists": [
+        {
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+        }
+      ],
+      "duration_ms": 158936,
+      "name": "Mesmerized",
+      "url": "https://open.spotify.com/track/6jOxmhdeeabZJ6ALOalk45"
+    },
+    {
       "added_at": "2026-05-15 16:17:55",
       "album": {
         "name": "Vampire at the Beach",
@@ -851,22 +867,6 @@
     {
       "added_at": "2026-06-05 04:02:01",
       "album": {
-        "name": "Mesmerized",
-        "url": "https://open.spotify.com/album/48cw0m0nuKHe6Q369tRLkr"
-      },
-      "artists": [
-        {
-          "name": "The Aces",
-          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
-        }
-      ],
-      "duration_ms": 158936,
-      "name": "Mesmerized",
-      "url": "https://open.spotify.com/track/6jOxmhdeeabZJ6ALOalk45"
-    },
-    {
-      "added_at": "2026-06-05 04:02:01",
-      "album": {
         "name": "Whisper",
         "url": "https://open.spotify.com/album/2EDUEYGICz8XYZaH18yZOb"
       },
@@ -879,6 +879,22 @@
       "duration_ms": 167653,
       "name": "Whisper",
       "url": "https://open.spotify.com/track/57GzncV0DFLenSIt5yERwY"
+    },
+    {
+      "added_at": "2026-06-19 04:01:13",
+      "album": {
+        "name": "Energizer",
+        "url": "https://open.spotify.com/album/5L0OP0vBGpyU6q6urm9aHs"
+      },
+      "artists": [
+        {
+          "name": "girlsweetvoiced",
+          "url": "https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT"
+        }
+      ],
+      "duration_ms": 151306,
+      "name": "Energizer",
+      "url": "https://open.spotify.com/track/3qAYNIIiXHoycbCWku8cIU"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -911,22 +927,6 @@
       "duration_ms": 186533,
       "name": "Promise (When You Go)",
       "url": "https://open.spotify.com/track/4FNptC8qbW6cAJBsymtHMI"
-    },
-    {
-      "added_at": "2026-06-19 04:01:13",
-      "album": {
-        "name": "Energizer",
-        "url": "https://open.spotify.com/album/5L0OP0vBGpyU6q6urm9aHs"
-      },
-      "artists": [
-        {
-          "name": "girlsweetvoiced",
-          "url": "https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT"
-        }
-      ],
-      "duration_ms": 151306,
-      "name": "Energizer",
-      "url": "https://open.spotify.com/track/3qAYNIIiXHoycbCWku8cIU"
     },
     {
       "added_at": "2026-06-12 04:02:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "Multiplied",
-        "url": "https://open.spotify.com/album/1dSUYAnM09cURsfcPWjX0R"
-      },
-      "artists": [
-        {
-          "name": "Luna Li",
-          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
-        }
-      ],
-      "duration_ms": 182463,
-      "name": "Multiplied",
-      "url": "https://open.spotify.com/track/5ElEuV9r3cm5Ny7AX1HmBv"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
         "name": "Housekeeping",
         "url": "https://open.spotify.com/album/36TdhxyuiOIeDyAZuAgpBE"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 205841,
       "name": "Housekeeping",
       "url": "https://open.spotify.com/track/2sPIXS51PCnYWY8lPtS0oP"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "Multiplied",
+        "url": "https://open.spotify.com/album/1dSUYAnM09cURsfcPWjX0R"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        }
+      ],
+      "duration_ms": 182463,
+      "name": "Multiplied",
+      "url": "https://open.spotify.com/track/5ElEuV9r3cm5Ny7AX1HmBv"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "I Lit The Fire",
-        "url": "https://open.spotify.com/album/5VsdcHGCvGXeA1pX3ERo8C"
-      },
-      "artists": [
-        {
-          "name": "Sara Beth",
-          "url": "https://open.spotify.com/artist/4ikrWdvs3CdWAz3IZmi17r"
-        }
-      ],
-      "duration_ms": 154244,
-      "name": "I Lit The Fire",
-      "url": "https://open.spotify.com/track/3AbrErcms1clz7cbakuQt1"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
         "name": "RODEO CLOWN",
         "url": "https://open.spotify.com/album/5172xO1n4yEllzzcsIqP1N"
       },
@@ -1119,18 +1103,18 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "down under",
-        "url": "https://open.spotify.com/album/6u1MWDlyJlzW28ithVAYp3"
+        "name": "I Lit The Fire",
+        "url": "https://open.spotify.com/album/5VsdcHGCvGXeA1pX3ERo8C"
       },
       "artists": [
         {
-          "name": "Kevian Kraemer",
-          "url": "https://open.spotify.com/artist/4YuuDwJsOgciB2sYUvmo4a"
+          "name": "Sara Beth",
+          "url": "https://open.spotify.com/artist/4ikrWdvs3CdWAz3IZmi17r"
         }
       ],
-      "duration_ms": 204557,
-      "name": "down under",
-      "url": "https://open.spotify.com/track/3qgNwPwVvm6j8JUhpZ2yd3"
+      "duration_ms": 154244,
+      "name": "I Lit The Fire",
+      "url": "https://open.spotify.com/track/3AbrErcms1clz7cbakuQt1"
     },
     {
       "added_at": "2026-06-05 04:02:01",
@@ -1151,18 +1135,18 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "Sick Of Love",
-        "url": "https://open.spotify.com/album/2ETP833yyVmqvtnbnRHtxb"
+        "name": "down under",
+        "url": "https://open.spotify.com/album/6u1MWDlyJlzW28ithVAYp3"
       },
       "artists": [
         {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+          "name": "Kevian Kraemer",
+          "url": "https://open.spotify.com/artist/4YuuDwJsOgciB2sYUvmo4a"
         }
       ],
-      "duration_ms": 216933,
-      "name": "Sick Of Love",
-      "url": "https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi"
+      "duration_ms": 204557,
+      "name": "down under",
+      "url": "https://open.spotify.com/track/3qgNwPwVvm6j8JUhpZ2yd3"
     },
     {
       "added_at": "2026-05-15 19:54:37",
@@ -1183,18 +1167,18 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "Leaving The House Is A Performance",
-        "url": "https://open.spotify.com/album/2X4TbgZOMmhZ6LuWmvwDSs"
+        "name": "Sick Of Love",
+        "url": "https://open.spotify.com/album/2ETP833yyVmqvtnbnRHtxb"
       },
       "artists": [
         {
-          "name": "Sofia and the Antoinettes",
-          "url": "https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7"
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
         }
       ],
-      "duration_ms": 221717,
-      "name": "Naked Chess",
-      "url": "https://open.spotify.com/track/3H245jcnY44ovCFlXMXRtV"
+      "duration_ms": 216933,
+      "name": "Sick Of Love",
+      "url": "https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi"
     },
     {
       "added_at": "2026-06-12 04:02:00",
@@ -1211,6 +1195,22 @@
       "duration_ms": 221400,
       "name": "breathless",
       "url": "https://open.spotify.com/track/3f1B7seoBSLXlyXS2QZU46"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "Leaving The House Is A Performance",
+        "url": "https://open.spotify.com/album/2X4TbgZOMmhZ6LuWmvwDSs"
+      },
+      "artists": [
+        {
+          "name": "Sofia and the Antoinettes",
+          "url": "https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7"
+        }
+      ],
+      "duration_ms": 221717,
+      "name": "Naked Chess",
+      "url": "https://open.spotify.com/track/3H245jcnY44ovCFlXMXRtV"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "Sick of Staying",
-        "url": "https://open.spotify.com/album/65a1oTXKKKPfOCyy2V7jFU"
-      },
-      "artists": [
-        {
-          "name": "Julia Campbell",
-          "url": "https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud"
-        }
-      ],
-      "duration_ms": 206470,
-      "name": "Backseat",
-      "url": "https://open.spotify.com/track/6joa4w2yIUVroOguntE5s4"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
         "name": "Geezer",
         "url": "https://open.spotify.com/album/7ludJVUn2P4sfeQPzQ62eO"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 169776,
       "name": "Geezer",
       "url": "https://open.spotify.com/track/3KPN41U5Im8VH2ZuFl9PHT"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "Sick of Staying",
+        "url": "https://open.spotify.com/album/65a1oTXKKKPfOCyy2V7jFU"
+      },
+      "artists": [
+        {
+          "name": "Julia Campbell",
+          "url": "https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud"
+        }
+      ],
+      "duration_ms": 206470,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/6joa4w2yIUVroOguntE5s4"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1329,42 +1329,6 @@
       "url": "https://open.spotify.com/track/1AYIBIhwU2XFVBfGp0QVZl"
     },
     {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
-        "name": "Reputation / Bobby",
-        "url": "https://open.spotify.com/album/1ydjDKjXy4jVuPwybonR7L"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 235705,
-      "name": "Reputation (feat. Dominic Fike)",
-      "url": "https://open.spotify.com/track/4Py3mpufTWKXpkhy2A17vL"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
-        "name": "AngieAngieAngie",
-        "url": "https://open.spotify.com/album/19lNMxzhXLPvNZkMQnb4gl"
-      },
-      "artists": [
-        {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
-        }
-      ],
-      "duration_ms": 139363,
-      "name": "Roamer",
-      "url": "https://open.spotify.com/track/0Xfj8XkEduoN43F2UMrDGZ"
-    },
-    {
       "added_at": "2026-06-16 17:11:41",
       "album": {
         "name": "girls like girls the album",
@@ -1385,6 +1349,42 @@
       "url": "https://open.spotify.com/track/1NuOwB56vkR1rKZlaGrPrH"
     },
     {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "AngieAngieAngie",
+        "url": "https://open.spotify.com/album/19lNMxzhXLPvNZkMQnb4gl"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "duration_ms": 139363,
+      "name": "Roamer",
+      "url": "https://open.spotify.com/track/0Xfj8XkEduoN43F2UMrDGZ"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "Reputation / Bobby",
+        "url": "https://open.spotify.com/album/1ydjDKjXy4jVuPwybonR7L"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 235705,
+      "name": "Reputation (feat. Dominic Fike)",
+      "url": "https://open.spotify.com/track/4Py3mpufTWKXpkhy2A17vL"
+    },
+    {
       "added_at": "2026-06-12 04:02:00",
       "album": {
         "name": "SICK",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-06-12 04:02:00",
       "album": {
-        "name": "Shiny Stockings",
-        "url": "https://open.spotify.com/album/7uLkCFhxXT6373P8pulfLC"
-      },
-      "artists": [
-        {
-          "name": "aron!",
-          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
-        }
-      ],
-      "duration_ms": 180736,
-      "name": "Shiny Stockings",
-      "url": "https://open.spotify.com/track/6zAjGOsOHaM36lqI2z3xKU"
-    },
-    {
-      "added_at": "2026-06-12 04:02:00",
-      "album": {
         "name": "Southern Youth",
         "url": "https://open.spotify.com/album/4vS8e6ggYLuO6eMNwbqRYg"
       },
@@ -1433,20 +1417,20 @@
       "url": "https://open.spotify.com/track/1PWh0ypifsoAUUN2HtZMpq"
     },
     {
-      "added_at": "2026-05-15 16:17:55",
+      "added_at": "2026-06-12 04:02:00",
       "album": {
-        "name": "Ready",
-        "url": "https://open.spotify.com/album/1e50AHM2FkCz5SLww9qFzT"
+        "name": "Shiny Stockings",
+        "url": "https://open.spotify.com/album/7uLkCFhxXT6373P8pulfLC"
       },
       "artists": [
         {
-          "name": "Junior Varsity",
-          "url": "https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp"
+          "name": "aron!",
+          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
         }
       ],
-      "duration_ms": 172586,
-      "name": "Lost and Found",
-      "url": "https://open.spotify.com/track/0SYktSP2XOX3OipKS9W5vJ"
+      "duration_ms": 180736,
+      "name": "Shiny Stockings",
+      "url": "https://open.spotify.com/track/6zAjGOsOHaM36lqI2z3xKU"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1467,18 +1451,18 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "Memory Be a Blade",
-        "url": "https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00"
+        "name": "Ready",
+        "url": "https://open.spotify.com/album/1e50AHM2FkCz5SLww9qFzT"
       },
       "artists": [
         {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+          "name": "Junior Varsity",
+          "url": "https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp"
         }
       ],
-      "duration_ms": 221066,
-      "name": "Memory Be a Blade",
-      "url": "https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA"
+      "duration_ms": 172586,
+      "name": "Lost and Found",
+      "url": "https://open.spotify.com/track/0SYktSP2XOX3OipKS9W5vJ"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1499,6 +1483,22 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
+        "name": "Memory Be a Blade",
+        "url": "https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00"
+      },
+      "artists": [
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "duration_ms": 221066,
+      "name": "Memory Be a Blade",
+      "url": "https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
         "name": "Pinky Promise",
         "url": "https://open.spotify.com/album/1yNNvUBskbCyaL3U8HajF4"
       },
@@ -1511,6 +1511,22 @@
       "duration_ms": 184740,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/25qyBoX9Hk4WSB6lXrKw9K"
+    },
+    {
+      "added_at": "2026-06-12 04:02:00",
+      "album": {
+        "name": "figure it out",
+        "url": "https://open.spotify.com/album/0RHMZ8XKiK0kmYVeT4yInl"
+      },
+      "artists": [
+        {
+          "name": "dee holt",
+          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "figure it out",
+      "url": "https://open.spotify.com/track/0F9hf8q3JsF3TTqUR1S4dW"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1527,22 +1543,6 @@
       "duration_ms": 266129,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
-        "name": "Stupid Bitches",
-        "url": "https://open.spotify.com/album/7eWy1iLXve9VJdPkr2h9dP"
-      },
-      "artists": [
-        {
-          "name": "Grace Ives",
-          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
-        }
-      ],
-      "duration_ms": 211893,
-      "name": "Stupid Bitches",
-      "url": "https://open.spotify.com/track/4KELpaK3sQ5vEZX9nuK9lg"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1565,6 +1565,22 @@
       "url": "https://open.spotify.com/track/5I25i7QQ0JyUHwovMJprfS"
     },
     {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "Stupid Bitches",
+        "url": "https://open.spotify.com/album/7eWy1iLXve9VJdPkr2h9dP"
+      },
+      "artists": [
+        {
+          "name": "Grace Ives",
+          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
+        }
+      ],
+      "duration_ms": 211893,
+      "name": "Stupid Bitches",
+      "url": "https://open.spotify.com/track/4KELpaK3sQ5vEZX9nuK9lg"
+    },
+    {
       "added_at": "2026-06-05 04:02:01",
       "album": {
         "name": "Song and dance man + Let's go camping",
@@ -1579,22 +1595,6 @@
       "duration_ms": 137700,
       "name": "Song and dance man",
       "url": "https://open.spotify.com/track/2BH6mThxOpVQ8XxPt2IMbX"
-    },
-    {
-      "added_at": "2026-06-12 04:02:00",
-      "album": {
-        "name": "figure it out",
-        "url": "https://open.spotify.com/album/0RHMZ8XKiK0kmYVeT4yInl"
-      },
-      "artists": [
-        {
-          "name": "dee holt",
-          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "figure it out",
-      "url": "https://open.spotify.com/track/0F9hf8q3JsF3TTqUR1S4dW"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1615,22 +1615,6 @@
       "duration_ms": 192075,
       "name": "Love Hate (feat. Thomas Day)",
       "url": "https://open.spotify.com/track/1ysnEi1bFBkn0aCQFPh8gY"
-    },
-    {
-      "added_at": "2026-05-25 17:48:56",
-      "album": {
-        "name": "crumble",
-        "url": "https://open.spotify.com/album/0z1hoiOLPE9tkX1gUXFH9i"
-      },
-      "artists": [
-        {
-          "name": "josh conway",
-          "url": "https://open.spotify.com/artist/7Fg3bk6FxiFhFnrtXxJNR7"
-        }
-      ],
-      "duration_ms": 290000,
-      "name": "crumble",
-      "url": "https://open.spotify.com/track/2QxtLq8tLbq696srRS45J4"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1663,6 +1647,22 @@
       "duration_ms": 179727,
       "name": "Little Blue House",
       "url": "https://open.spotify.com/track/0KUcvWJzx9McoYo31gAqDy"
+    },
+    {
+      "added_at": "2026-05-25 17:48:56",
+      "album": {
+        "name": "crumble",
+        "url": "https://open.spotify.com/album/0z1hoiOLPE9tkX1gUXFH9i"
+      },
+      "artists": [
+        {
+          "name": "josh conway",
+          "url": "https://open.spotify.com/artist/7Fg3bk6FxiFhFnrtXxJNR7"
+        }
+      ],
+      "duration_ms": 290000,
+      "name": "crumble",
+      "url": "https://open.spotify.com/track/2QxtLq8tLbq696srRS45J4"
     },
     {
       "added_at": "2026-05-15 16:17:55",

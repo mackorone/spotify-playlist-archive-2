@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs sons du mois s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify.",
-  "num_followers": 402116,
+  "num_followers": 402104,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : Mai 2026",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2026-05-31 22:00:06",
       "album": {
+        "name": "hardcore",
+        "url": "https://open.spotify.com/album/0JNl62tBnwsPAx8tc79zzJ"
+      },
+      "artists": [
+        {
+          "name": "Alvin Ama\u00efzo",
+          "url": "https://open.spotify.com/artist/4lhjjDpsGu9roJmU0TNlGh"
+        }
+      ],
+      "duration_ms": 204827,
+      "name": "hardcore",
+      "url": "https://open.spotify.com/track/4ShHkTTpQtvBhBDsAZ7HbL"
+    },
+    {
+      "added_at": "2026-05-31 22:00:06",
+      "album": {
         "name": "Fire Away (feat. Slayyyter)",
         "url": "https://open.spotify.com/album/1PneNeTJUTq8ueNrXhjwQR"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 207868,
       "name": "Fire Away (feat. Slayyyter)",
       "url": "https://open.spotify.com/track/2un4EaIKXxdVtQbO6cdYM4"
-    },
-    {
-      "added_at": "2026-05-31 22:00:06",
-      "album": {
-        "name": "hardcore",
-        "url": "https://open.spotify.com/album/0JNl62tBnwsPAx8tc79zzJ"
-      },
-      "artists": [
-        {
-          "name": "Alvin Ama\u00efzo",
-          "url": "https://open.spotify.com/artist/4lhjjDpsGu9roJmU0TNlGh"
-        }
-      ],
-      "duration_ms": 204827,
-      "name": "hardcore",
-      "url": "https://open.spotify.com/track/4ShHkTTpQtvBhBDsAZ7HbL"
     }
   ],
   "unique_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : Mai 2026",

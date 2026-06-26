@@ -1,12 +1,12 @@
 {
   "description": "This is Celia Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 107615,
+  "num_followers": 107617,
   "original_name": "This Is Celia Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajnMgAAAAAAm7mbAEYap018ZDk2jTV3f",
+  "snapshot_id": "ajseAAAAAABpSU7SwPsXteRw22yq1jvk",
   "tracks": [
     {
       "added_at": null,
@@ -543,6 +543,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Demasiado",
+        "url": "https://open.spotify.com/album/6uoYiEZJ2OfFan01ypD4Mj"
+      },
+      "artists": [
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 243201,
+      "name": "Celia",
+      "url": "https://open.spotify.com/track/6Wm1JEYBCiSmwbVkJcdTOM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Celia",
         "url": "https://open.spotify.com/album/04lprwOrXhIWzq0vke1e3s"
       },
@@ -587,22 +607,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Demasiado",
-        "url": "https://open.spotify.com/album/6uoYiEZJ2OfFan01ypD4Mj"
+        "name": "Celia & Johnny (Remastered 2024)",
+        "url": "https://open.spotify.com/album/2Fim0ltdhy5696Nuo2yjY0"
       },
       "artists": [
         {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        },
-        {
           "name": "Celia Cruz",
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
         }
       ],
-      "duration_ms": 243201,
-      "name": "Celia",
-      "url": "https://open.spotify.com/track/6Wm1JEYBCiSmwbVkJcdTOM"
+      "duration_ms": 331244,
+      "name": "Canto a la Habana - Remastered 2024",
+      "url": "https://open.spotify.com/track/46GaLgU3v1BYoCUREVysW2"
     },
     {
       "added_at": null,
@@ -627,26 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celia & Johnny (Remastered 2024)",
-        "url": "https://open.spotify.com/album/2Fim0ltdhy5696Nuo2yjY0"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        }
-      ],
-      "duration_ms": 331244,
-      "name": "Canto a la Habana - Remastered 2024",
-      "url": "https://open.spotify.com/track/46GaLgU3v1BYoCUREVysW2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grandes \u00c9xitos De Celia Cruz",
         "url": "https://open.spotify.com/album/3fZuVtDVcGHISoULNx4Dw3"
       },
@@ -663,6 +663,26 @@
       "duration_ms": 189600,
       "name": "Guede Zaina",
       "url": "https://open.spotify.com/track/6HxrX0t2TnBbrAYTaV3zj0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Only They Could Have Made This Album (Remastered 2024)",
+        "url": "https://open.spotify.com/album/7JCLehSDJvpbC1NGmypzlM"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 172295,
+      "name": "Plazos Traicioneros - Remastered 2024",
+      "url": "https://open.spotify.com/track/7Ml5UAdvDfXljFSwHCHwTj"
     },
     {
       "added_at": null,
@@ -731,26 +751,6 @@
       "duration_ms": 347666,
       "name": "Por Si Acaso No Regreso",
       "url": "https://open.spotify.com/track/1n52ulXSj7E3GOjcpw1EKF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Only They Could Have Made This Album (Remastered 2024)",
-        "url": "https://open.spotify.com/album/7JCLehSDJvpbC1NGmypzlM"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 172295,
-      "name": "Plazos Traicioneros - Remastered 2024",
-      "url": "https://open.spotify.com/track/7Ml5UAdvDfXljFSwHCHwTj"
     },
     {
       "added_at": null,
@@ -1075,26 +1075,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alma Caribe\u00f1a",
-        "url": "https://open.spotify.com/album/24obAzHAF54ZtdSUZtn0np"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 257160,
-      "name": "Tres Gotas De Agua Bendita (feat. Celia Cruz)",
-      "url": "https://open.spotify.com/track/39wf4YalXTzfjokmGTg0cl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Guarachas De La Guarachera",
         "url": "https://open.spotify.com/album/0tEngAyPWimFTRtVrbbvGB"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 166200,
       "name": "Juancito Trucupey",
       "url": "https://open.spotify.com/track/2QPG2p6h37YhkJCzceqrrP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alma Caribe\u00f1a",
+        "url": "https://open.spotify.com/album/24obAzHAF54ZtdSUZtn0np"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 257160,
+      "name": "Tres Gotas De Agua Bendita (feat. Celia Cruz)",
+      "url": "https://open.spotify.com/track/39wf4YalXTzfjokmGTg0cl"
     }
   ],
   "unique_name": "This Is Celia Cruz",

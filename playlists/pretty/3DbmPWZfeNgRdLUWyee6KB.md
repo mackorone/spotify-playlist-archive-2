@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,313 likes - 199 songs - 11 hr 14 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,313 likes - 201 songs - 11 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -207,5 +207,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 197 | [Summer Lover.](https://open.spotify.com/track/3Q7LYZJ6yogTVR6zKBFaGC) | [Filthy Algorithm](https://open.spotify.com/artist/7ekDW2aZNWqepIqqqfuE0G) | [Summer Lover.](https://open.spotify.com/album/30EKrOcaBoEDVcOkNIFMVB) | 2:45 |
 | 198 | [Mercury](https://open.spotify.com/track/5Lfna3AUBeb8a1zcvkBcyq) | [Mirco Vincenzo Giuseppe Prainito](https://open.spotify.com/artist/7j7MDPBL9KgXPfpNbbm4PC) | [Mercury](https://open.spotify.com/album/6AQ2C55ZPeBgh3qYOxqldT) | 3:55 |
 | 199 | [FURRY FRIENDS](https://open.spotify.com/track/2gnZmFxLw9by8BwV1k6BHa) | [Crazy Trottles](https://open.spotify.com/artist/6N3TSJcbEEqiHeiv6qqFxz) | [FURRY FRIENDS](https://open.spotify.com/album/5HKaaPkVWWcxYZ9COjBxIX) | 2:34 |
+| 200 | [Even If It Ends](https://open.spotify.com/track/5uMjPEoWLYy76yf4pj9iLb) | [Youb Mens](https://open.spotify.com/artist/4g0hEdRRDZAtsWO9YgRJFT), [Samija](https://open.spotify.com/artist/46P7ib6U2AhkLntVpf6LUF) | [Even If It Ends](https://open.spotify.com/album/3FTi7jUWKe34h6n73MBYsW) | 2:55 |
+| 201 | [Bring Back the Feeling](https://open.spotify.com/track/09mfLrHrJZlJrzcogIIVCY) | [Maxwell LeVan](https://open.spotify.com/artist/6BAItgRso9SUbIyIpjcdm1) | [Bring Back the Feeling](https://open.spotify.com/album/4HKCUdRntwilj1Up7Iagn9) | 2:58 |
 
-Snapshot ID: `AAAVSXcnqHvpftWqdw6sipkg4E1sfjnq`
+Snapshot ID: `AAAVSxNVqtcceb9t5FxM9Uvr9+movAHE`

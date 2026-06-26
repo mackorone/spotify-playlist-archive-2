@@ -1,12 +1,12 @@
 {
   "description": "This is Cultura Prof\u00e9tica. The essential tracks, all in one playlist.",
-  "num_followers": 250347,
+  "num_followers": 250404,
   "original_name": "This Is Cultura Prof\u00e9tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajnMgAAAAABVGTix2c1+Pf+V0dc+CyHS",
+  "snapshot_id": "ajseAAAAAABkxEUsBKy5TvwOhni6YsIK",
   "tracks": [
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 311948,
-      "name": "Bruna",
-      "url": "https://open.spotify.com/track/57Hf5X5PUakkYnJjIEletG"
+      "duration_ms": 316026,
+      "name": "En bucle",
+      "url": "https://open.spotify.com/track/6Fclh8eoItr2T0QulGtZyO"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 316026,
-      "name": "En bucle",
-      "url": "https://open.spotify.com/track/6Fclh8eoItr2T0QulGtZyO"
+      "duration_ms": 311948,
+      "name": "Bruna",
+      "url": "https://open.spotify.com/track/57Hf5X5PUakkYnJjIEletG"
     },
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diario",
-        "url": "https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91"
+        "name": "Para Mi",
+        "url": "https://open.spotify.com/album/0MCdpAW6Uu1DKJ6xhrl85x"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 299400,
-      "name": "D\u00edas Intensos",
-      "url": "https://open.spotify.com/track/2L7bcQuqRaa05ufkTNY5lx"
+      "duration_ms": 267953,
+      "name": "Para Mi",
+      "url": "https://open.spotify.com/track/0rTsf701vQZJ45qhWyFde9"
     },
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Mi",
-        "url": "https://open.spotify.com/album/0MCdpAW6Uu1DKJ6xhrl85x"
+        "name": "Diario",
+        "url": "https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 267953,
-      "name": "Para Mi",
-      "url": "https://open.spotify.com/track/0rTsf701vQZJ45qhWyFde9"
+      "duration_ms": 299400,
+      "name": "D\u00edas Intensos",
+      "url": "https://open.spotify.com/track/2L7bcQuqRaa05ufkTNY5lx"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCIzMYtzum.md) - [plain]
 
 > Home is where the main stage is ❤️‍🔥 with John Summit
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,593 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 526,949 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCIzMYtzum.md) - [plain]
 | 74 | [Ocean](https://open.spotify.com/track/6jhAJgaS9OttFwP5Cn8WII) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Ocean](https://open.spotify.com/album/0T84ITkYkKp7x3vxWpvSCf) | 3:16 |
 | 75 | [Rumors](https://open.spotify.com/track/4AHW7Q2TGKwfndbbQvjXmF) | [Tomas Grey](https://open.spotify.com/artist/324KqmU4J1mdKnHdFUE3pS) | [Rumors](https://open.spotify.com/album/7MCh5H7UlknUzDlBiSdQPP) | 2:42 |
 | 76 | [Danza Kuduro \- Tiësto Remix](https://open.spotify.com/track/7mdDd1a4TtNGqDW1lXc14o) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Danza Kuduro \(Tiësto Remix\)](https://open.spotify.com/album/6Kd4z1ibE3aDC6lXOs3eMV) | 3:39 |
-| 77 | [Better Times \(feat\. BARBZ\)](https://open.spotify.com/track/3rzMJ9GVogl8CtcrxHRnIH) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [BARBZ](https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc) | [Better Times \(feat\. BARBZ\)](https://open.spotify.com/album/2mmC7pH9VfseFT0xc0Byaq) | 3:08 |
-| 78 | [Chasing Paradise](https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Chasing Paradise](https://open.spotify.com/album/6WgNtisaBfx6HlMGFDltTK) | 3:00 |
-| 79 | [Cash Out](https://open.spotify.com/track/7qHSfKzilTsXJuuWcjX1vZ) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO) | [Cash Out](https://open.spotify.com/album/3JijfF3CowsE5EUUmQQftR) | 3:02 |
+| 77 | [Chasing Paradise](https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Chasing Paradise](https://open.spotify.com/album/6WgNtisaBfx6HlMGFDltTK) | 3:00 |
+| 78 | [Cash Out](https://open.spotify.com/track/7qHSfKzilTsXJuuWcjX1vZ) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO) | [Cash Out](https://open.spotify.com/album/3JijfF3CowsE5EUUmQQftR) | 3:02 |
+| 79 | [Better Times \(feat\. BARBZ\)](https://open.spotify.com/track/3rzMJ9GVogl8CtcrxHRnIH) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [BARBZ](https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc) | [Better Times \(feat\. BARBZ\)](https://open.spotify.com/album/2mmC7pH9VfseFT0xc0Byaq) | 3:08 |
 | 80 | [MAD](https://open.spotify.com/track/6vM1GSndPtQk7AmqEmNAPH) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [MAD](https://open.spotify.com/album/6e3hxK9NnMP08e6GBC1WIV) | 3:19 |
 | 81 | [Around The World](https://open.spotify.com/track/47KhhDku9RLDsWIJjYaXDs) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Around The World](https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf) | 2:20 |
 | 82 | [If I Die Young](https://open.spotify.com/track/3A22noh6KZmsvP7ti5sEcm) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc) | [If I Die Young](https://open.spotify.com/album/6ikA0fPdbJNdmwad2p6I93) | 2:11 |

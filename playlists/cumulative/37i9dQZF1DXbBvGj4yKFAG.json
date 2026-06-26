@@ -1350,7 +1350,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 174915,
       "name": "Favorite Song",
       "url": "https://open.spotify.com/track/5BqN9YxYxyXqrbS7FWpOWH"
@@ -1802,6 +1802,24 @@
       "duration_ms": 223124,
       "name": "i heard you were looking like the moon",
       "url": "https://open.spotify.com/track/4Yw8XKDrmJSMNFqvd8JZJ6"
+    },
+    {
+      "album": {
+        "name": "i miss us",
+        "url": "https://open.spotify.com/album/2LjhSHzNkepXRZn8j9f4FE"
+      },
+      "artists": [
+        {
+          "name": "SylvanBoy",
+          "url": "https://open.spotify.com/artist/0fh3aZtfYAFhyyZb8i6ctp"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96616,
+      "name": "i miss us",
+      "url": "https://open.spotify.com/track/3dnWWeTji7jc8XO2UzgcvP"
     },
     {
       "album": {
@@ -3811,6 +3829,24 @@
     },
     {
       "album": {
+        "name": "Sorry Horse (Demo)",
+        "url": "https://open.spotify.com/album/2z39SzEd8EahNxkKPWK1dU"
+      },
+      "artists": [
+        {
+          "name": "No Prospects",
+          "url": "https://open.spotify.com/artist/5a8xSiB71udGKpwOJKatKI"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321406,
+      "name": "Sorry Horse - Demo",
+      "url": "https://open.spotify.com/track/6xXTzCRqE6pFiSfqXlscob"
+    },
+    {
+      "album": {
         "name": "miserable false ideas",
         "url": "https://open.spotify.com/album/6zuuNlQ0Hq129yKw1t3ldQ"
       },
@@ -4612,7 +4648,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 120428,
       "name": "WASTE",
       "url": "https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK"

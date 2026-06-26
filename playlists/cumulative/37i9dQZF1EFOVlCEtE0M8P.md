@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0j0VkkLGXceKjMIWL6htE1">Jennifer Decilveo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-347 songs - 20 hr 5 min
+349 songs - 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Dance Around It \(feat\. Brandi Carlile & Sheryl Crow\)](https://open.spotify.com/track/1jxRF1uyBtNLaq2NL5ISro) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Second Nature](https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw) | 3:26 | 2024-03-07 | 2026-02-27 |
 | [Dance To The Music](https://open.spotify.com/track/2945XgGPQwoDP2ZM69af4h) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension II](https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw) | 2:31 | 2024-10-24 |  |
 | [Day Away](https://open.spotify.com/track/2DlpdindONWSi4IyTSm8v3) | [Elle Winter](https://open.spotify.com/artist/7LkNpfFX2XpGAO0Amhtfhl) | [Season 5: First Listen \(from Radio Disney "N.B.T." Next BIG Thing\)](https://open.spotify.com/album/4Kh4CnNIwdxeBbfJFPcECV) | 3:53 | 2024-03-07 |  |
+| [Death Is Not The End](https://open.spotify.com/track/7w9GDmXGNxA71MvkL2SV6W) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Death Is Not The End](https://open.spotify.com/album/0u7RKLTC1RbuX7BomdTaEq) | 4:26 | 2026-06-25 |  |
 | [Death of Me](https://open.spotify.com/track/65WzVVqyzkRzSOmM2kovls) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happiness is an Inside Job](https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky) | 2:40 | 2024-03-07 |  |
 | [Deeds Not Words](https://open.spotify.com/track/5cqaJArTBB5RUtfEjZf6ks) | [Fantastically Great Women](https://open.spotify.com/artist/2lI6OvhOdgOtTxFjQy7KFE), [Kirstie Skivington](https://open.spotify.com/artist/4Hs5DxFq2PIHZwenZINJBX), [Jade Kennedy](https://open.spotify.com/artist/2YCruzLCWtvJpweNckjR96), [Renée Lamb](https://open.spotify.com/artist/3nl3Ok4MCLC1gZhmi2OGBs), [Christina Modestou](https://open.spotify.com/artist/21uejta558No7qYG1Nmwn7) | [Fantastically Great Women Who Changed The World \(Studio Cast Recording\)](https://open.spotify.com/album/2jGOKOM3XjP9Lq3T1SEUag) | 3:47 | 2024-03-07 |  |
 | [Desert Man](https://open.spotify.com/track/5dDUOouAExTM498k5nyP9O) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Lost Girls](https://open.spotify.com/album/21pLZkjJiP0zaFve7FJ8wq) | 3:26 | 2024-03-07 |  |
@@ -308,6 +309,7 @@
 | [Temporary Love](https://open.spotify.com/track/614GWtz7F9A61E9OPZqNkU) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 3:38 | 2024-03-07 |  |
 | [That Time Of Year Always](https://open.spotify.com/track/1Uy0dtxpFBCt6uNcRnLudo) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [The Mess We Seem To Make \(Deluxe\)](https://open.spotify.com/album/2T8UKnnH2VfNB2QwCQcq3o) | 3:34 | 2024-03-07 |  |
 | [The Arsonist](https://open.spotify.com/track/3703vDXRh6wxyhpyu09pxl) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Would You Still Love Me If You Really Knew Me?](https://open.spotify.com/album/7CrfDijJ4YRvLEjlOMkgZI) | 3:27 | 2025-07-29 |  |
+| [The Dark](https://open.spotify.com/track/6UCNITu31HUundg15nR9BY) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [The Dark](https://open.spotify.com/album/0CKlR1QlZCj5DvE6ocesUD) | 3:33 | 2026-06-25 |  |
 | [The End](https://open.spotify.com/track/6Uk6eqMPki1s9FRoTFHSQW) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj) | [The Throes Of Winter](https://open.spotify.com/album/5YqF2yjs11eGNdbfMbKe0j) | 4:52 | 2025-11-27 |  |
 | [The End](https://open.spotify.com/track/2b9knIEU8i2rFHNUC6QWMp) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj) | [The Throes Of Winter](https://open.spotify.com/album/4fGt5oUlTWgA2Yn3HrOoD2) | 4:52 | 2024-03-07 | 2025-11-28 |
 | [The Hard Way](https://open.spotify.com/track/1z9bo6t4Cml4e4SN7yYSMZ) | [Diana Gordon](https://open.spotify.com/artist/71Ug2zQHWlJFjNCK8swHfL) | [The Hard Way](https://open.spotify.com/album/5pASbfhqQxkXzdtOvJaA3R) | 3:11 | 2024-03-07 |  |

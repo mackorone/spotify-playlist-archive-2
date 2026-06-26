@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: The Paradox",
-  "num_followers": 604178,
+  "num_followers": 604200,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2026-06-05 10:35:57",
       "album": {
-        "name": "Highs and Lows",
-        "url": "https://open.spotify.com/album/4QmqM5vTpq5TTljgWKd4Ld"
-      },
-      "artists": [
-        {
-          "name": "Citizen",
-          "url": "https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor"
-        }
-      ],
-      "duration_ms": 223416,
-      "name": "Highs and Lows",
-      "url": "https://open.spotify.com/track/69jRxSLeXXM0jDq5EFMc5O"
-    },
-    {
-      "added_at": "2026-06-05 10:35:57",
-      "album": {
         "name": "Run Your Mouth",
         "url": "https://open.spotify.com/album/1UNCJRUv1EaH5UyrFwp3lV"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 165356,
       "name": "Run Your Mouth",
       "url": "https://open.spotify.com/track/51RQPNS0oOD0aWyjs7L5s3"
+    },
+    {
+      "added_at": "2026-06-05 10:35:57",
+      "album": {
+        "name": "Highs and Lows",
+        "url": "https://open.spotify.com/album/4QmqM5vTpq5TTljgWKd4Ld"
+      },
+      "artists": [
+        {
+          "name": "Citizen",
+          "url": "https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor"
+        }
+      ],
+      "duration_ms": 223416,
+      "name": "Highs and Lows",
+      "url": "https://open.spotify.com/track/69jRxSLeXXM0jDq5EFMc5O"
     },
     {
       "added_at": "2026-06-05 10:35:57",
@@ -475,22 +475,6 @@
     {
       "added_at": "2026-06-05 10:35:57",
       "album": {
-        "name": "I Think I've Heard This Before",
-        "url": "https://open.spotify.com/album/6433M5vCem4FivY3cbPtUv"
-      },
-      "artists": [
-        {
-          "name": "Arrows in Action",
-          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
-        }
-      ],
-      "duration_ms": 152624,
-      "name": "Twice",
-      "url": "https://open.spotify.com/track/3mnNND0bmyEBM8p46WBKAO"
-    },
-    {
-      "added_at": "2026-06-05 10:35:57",
-      "album": {
         "name": "Butterfly Effect",
         "url": "https://open.spotify.com/album/5jW6VyljLO6aTkOp9cAP4L"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 194672,
       "name": "Nothing Changes",
       "url": "https://open.spotify.com/track/3lZaRkDVeEHYEDkrWsr1uN"
+    },
+    {
+      "added_at": "2026-06-05 10:35:57",
+      "album": {
+        "name": "I Think I've Heard This Before",
+        "url": "https://open.spotify.com/album/6433M5vCem4FivY3cbPtUv"
+      },
+      "artists": [
+        {
+          "name": "Arrows in Action",
+          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
+        }
+      ],
+      "duration_ms": 152624,
+      "name": "Twice",
+      "url": "https://open.spotify.com/track/3mnNND0bmyEBM8p46WBKAO"
     },
     {
       "added_at": "2026-06-05 10:35:57",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-06-05 10:35:57",
       "album": {
-        "name": "Give or Take",
-        "url": "https://open.spotify.com/album/3OC3EE2AUL6cu81szg0rQu"
-      },
-      "artists": [
-        {
-          "name": "Cartel",
-          "url": "https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk"
-        }
-      ],
-      "duration_ms": 203444,
-      "name": "Give or Take",
-      "url": "https://open.spotify.com/track/1WqcU47Rm0e94bWzltV4vl"
-    },
-    {
-      "added_at": "2026-06-05 10:35:57",
-      "album": {
         "name": "Dystopia",
         "url": "https://open.spotify.com/album/61v3eLYnSNbrXbZeOT3fcu"
       },
@@ -759,18 +743,18 @@
     {
       "added_at": "2026-06-05 10:35:57",
       "album": {
-        "name": "X\u2019s For Eyes",
-        "url": "https://open.spotify.com/album/2W4xgzMCme2M6yGeLFTCTi"
+        "name": "Give or Take",
+        "url": "https://open.spotify.com/album/3OC3EE2AUL6cu81szg0rQu"
       },
       "artists": [
         {
-          "name": "The Red Jumpsuit Apparatus",
-          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
+          "name": "Cartel",
+          "url": "https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk"
         }
       ],
-      "duration_ms": 198977,
-      "name": "Perfection",
-      "url": "https://open.spotify.com/track/1WbMj3nxjiPgx2UFsijV5r"
+      "duration_ms": 203444,
+      "name": "Give or Take",
+      "url": "https://open.spotify.com/track/1WqcU47Rm0e94bWzltV4vl"
     },
     {
       "added_at": "2026-06-05 10:35:57",
@@ -787,6 +771,22 @@
       "duration_ms": 144986,
       "name": "Big Blind",
       "url": "https://open.spotify.com/track/5IiyHmNFsTx6PLI2diNH98"
+    },
+    {
+      "added_at": "2026-06-05 10:35:57",
+      "album": {
+        "name": "X\u2019s For Eyes",
+        "url": "https://open.spotify.com/album/2W4xgzMCme2M6yGeLFTCTi"
+      },
+      "artists": [
+        {
+          "name": "The Red Jumpsuit Apparatus",
+          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
+        }
+      ],
+      "duration_ms": 198977,
+      "name": "Perfection",
+      "url": "https://open.spotify.com/track/1WbMj3nxjiPgx2UFsijV5r"
     },
     {
       "added_at": "2026-06-05 10:35:57",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-06-05 10:35:57",
       "album": {
-        "name": "Feedback",
-        "url": "https://open.spotify.com/album/6OwSZ83UAtFcYuWbrYuafP"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 152963,
-      "name": "Feedback",
-      "url": "https://open.spotify.com/track/4rpw43XrPiHKER3nSL2vZH"
-    },
-    {
-      "added_at": "2026-06-05 10:35:57",
-      "album": {
         "name": "You Should See Me Now",
         "url": "https://open.spotify.com/album/45Hi3e8WGVcpjTiYx8vvth"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 224004,
       "name": "You Should See Me Now",
       "url": "https://open.spotify.com/track/2F9c0gRcMvPm8AinfcuJek"
+    },
+    {
+      "added_at": "2026-06-05 10:35:57",
+      "album": {
+        "name": "Feedback",
+        "url": "https://open.spotify.com/album/6OwSZ83UAtFcYuWbrYuafP"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 152963,
+      "name": "Feedback",
+      "url": "https://open.spotify.com/track/4rpw43XrPiHKER3nSL2vZH"
     },
     {
       "added_at": "2026-06-05 10:35:57",
@@ -987,6 +987,22 @@
     {
       "added_at": "2026-06-05 10:35:57",
       "album": {
+        "name": "Second Thoughts",
+        "url": "https://open.spotify.com/album/18T5RgOkboFwvVVNBCRF3u"
+      },
+      "artists": [
+        {
+          "name": "L\u00f8vesick",
+          "url": "https://open.spotify.com/artist/4tpVKOHMbYOFLuNEQ54hVl"
+        }
+      ],
+      "duration_ms": 161019,
+      "name": "Second Thoughts",
+      "url": "https://open.spotify.com/track/6UR9TruATotQiBMQtU4ZCH"
+    },
+    {
+      "added_at": "2026-06-05 10:35:57",
+      "album": {
         "name": "So Happy",
         "url": "https://open.spotify.com/album/5hR4oE1YAVdj8QzfaLQpCp"
       },
@@ -1003,18 +1019,18 @@
     {
       "added_at": "2026-06-05 10:35:57",
       "album": {
-        "name": "Second Thoughts",
-        "url": "https://open.spotify.com/album/18T5RgOkboFwvVVNBCRF3u"
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/2plIofGd5etSiMkERrAeeI"
       },
       "artists": [
         {
-          "name": "L\u00f8vesick",
-          "url": "https://open.spotify.com/artist/4tpVKOHMbYOFLuNEQ54hVl"
+          "name": "Tally Spear",
+          "url": "https://open.spotify.com/artist/2ToYco7p2abToWrUcAeTwp"
         }
       ],
-      "duration_ms": 161019,
-      "name": "Second Thoughts",
-      "url": "https://open.spotify.com/track/6UR9TruATotQiBMQtU4ZCH"
+      "duration_ms": 208168,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/6fku7eIHq1S1grAnwTw3SB"
     },
     {
       "added_at": "2026-06-05 10:35:57",
@@ -1051,22 +1067,6 @@
     {
       "added_at": "2026-06-05 10:35:57",
       "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/2plIofGd5etSiMkERrAeeI"
-      },
-      "artists": [
-        {
-          "name": "Tally Spear",
-          "url": "https://open.spotify.com/artist/2ToYco7p2abToWrUcAeTwp"
-        }
-      ],
-      "duration_ms": 208168,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/6fku7eIHq1S1grAnwTw3SB"
-    },
-    {
-      "added_at": "2026-06-05 10:35:57",
-      "album": {
         "name": "Sad",
         "url": "https://open.spotify.com/album/7AglGpevhw3sJGjgYKVgW9"
       },
@@ -1079,6 +1079,22 @@
       "duration_ms": 218583,
       "name": "Under My Sweater",
       "url": "https://open.spotify.com/track/4UEJAEpEXaTvP8mu6JDeRn"
+    },
+    {
+      "added_at": "2026-06-05 10:35:57",
+      "album": {
+        "name": "BETTER",
+        "url": "https://open.spotify.com/album/7knkjF5GXG1IkTniG5o7Qy"
+      },
+      "artists": [
+        {
+          "name": "People R Ugly",
+          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
+        }
+      ],
+      "duration_ms": 155668,
+      "name": "BETTER",
+      "url": "https://open.spotify.com/track/1Je9meCzTUNxJ8t2tG6x2E"
     },
     {
       "added_at": "2026-06-05 10:35:57",
@@ -1099,18 +1115,18 @@
     {
       "added_at": "2026-06-05 10:35:57",
       "album": {
-        "name": "BETTER",
-        "url": "https://open.spotify.com/album/7knkjF5GXG1IkTniG5o7Qy"
+        "name": "Bexy",
+        "url": "https://open.spotify.com/album/3UY7suuL86SR3nx5aJziXV"
       },
       "artists": [
         {
-          "name": "People R Ugly",
-          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
+          "name": "Karen Di\u00f3",
+          "url": "https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw"
         }
       ],
-      "duration_ms": 155668,
-      "name": "BETTER",
-      "url": "https://open.spotify.com/track/1Je9meCzTUNxJ8t2tG6x2E"
+      "duration_ms": 110255,
+      "name": "Bexy",
+      "url": "https://open.spotify.com/track/5gtGsDTcUHFzQagjBBFiSh"
     },
     {
       "added_at": "2026-06-05 10:35:57",
@@ -1135,22 +1151,6 @@
       "duration_ms": 233040,
       "name": "I Don't Like Who I Was Then (feat. Ryland Heagy of Origami Angel)",
       "url": "https://open.spotify.com/track/0htUcqJJfwYWFhb4W8T7M2"
-    },
-    {
-      "added_at": "2026-06-05 10:35:57",
-      "album": {
-        "name": "Bexy",
-        "url": "https://open.spotify.com/album/3UY7suuL86SR3nx5aJziXV"
-      },
-      "artists": [
-        {
-          "name": "Karen Di\u00f3",
-          "url": "https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw"
-        }
-      ],
-      "duration_ms": 110255,
-      "name": "Bexy",
-      "url": "https://open.spotify.com/track/5gtGsDTcUHFzQagjBBFiSh"
     },
     {
       "added_at": "2026-06-05 10:35:57",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-06-05 10:35:57",
       "album": {
-        "name": "when we were friends",
-        "url": "https://open.spotify.com/album/0EKr0IF82LGWsTFMJJygT3"
-      },
-      "artists": [
-        {
-          "name": "Pinkshift",
-          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
-        }
-      ],
-      "duration_ms": 145800,
-      "name": "when we were friends",
-      "url": "https://open.spotify.com/track/6VleKNFc2xxqiQSAPUBnRR"
-    },
-    {
-      "added_at": "2026-06-05 10:35:57",
-      "album": {
         "name": "Losing What We Love",
         "url": "https://open.spotify.com/album/71Zbf3k0m4bM7GySIh2erI"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 214505,
       "name": "You & I",
       "url": "https://open.spotify.com/track/2vzV2cEIRSAid5CUPjzYnE"
+    },
+    {
+      "added_at": "2026-06-05 10:35:57",
+      "album": {
+        "name": "when we were friends",
+        "url": "https://open.spotify.com/album/0EKr0IF82LGWsTFMJJygT3"
+      },
+      "artists": [
+        {
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+        }
+      ],
+      "duration_ms": 145800,
+      "name": "when we were friends",
+      "url": "https://open.spotify.com/track/6VleKNFc2xxqiQSAPUBnRR"
     },
     {
       "added_at": "2026-06-05 10:35:57",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-06-05 10:35:57",
       "album": {
-        "name": "Straight Up to Space",
-        "url": "https://open.spotify.com/album/4O1oiHIUMvxzLW7TEO7DPQ"
-      },
-      "artists": [
-        {
-          "name": "OUT IN FRONT",
-          "url": "https://open.spotify.com/artist/7s6QINQAMIPJtlAK4lrKdx"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "Straight Up to Space",
-      "url": "https://open.spotify.com/track/2Fu0ymVqrFGgFWYeah705d"
-    },
-    {
-      "added_at": "2026-06-05 10:35:57",
-      "album": {
         "name": "SORRY I'M LATE",
         "url": "https://open.spotify.com/album/4ZxHPDJDDns4uIcYx9Q5us"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 195401,
       "name": "SORRY I'M LATE",
       "url": "https://open.spotify.com/track/2zjBoQPdXMjgnVfnS8V9zx"
+    },
+    {
+      "added_at": "2026-06-05 10:35:57",
+      "album": {
+        "name": "Straight Up to Space",
+        "url": "https://open.spotify.com/album/4O1oiHIUMvxzLW7TEO7DPQ"
+      },
+      "artists": [
+        {
+          "name": "OUT IN FRONT",
+          "url": "https://open.spotify.com/artist/7s6QINQAMIPJtlAK4lrKdx"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "Straight Up to Space",
+      "url": "https://open.spotify.com/track/2Fu0ymVqrFGgFWYeah705d"
     }
   ],
   "unique_name": "Pop Punk's Not Dead",

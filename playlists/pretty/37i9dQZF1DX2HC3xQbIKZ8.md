@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 
 > Pacific reggae, roots rockers\. Relax, you're on island time\. Cover: Te Wehi
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,289 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,299 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 | 33 | [Hey](https://open.spotify.com/track/2MYtK8CJ6uw3VwDIv6OUDB) | [Sammy Johnson](https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA) | [Sammy Johnson](https://open.spotify.com/album/0YAPhFaGCiljva2vLUIbtq) | 3:26 |
 | 34 | [Perfect to Me](https://open.spotify.com/track/2H8Jh4nbgyLl3k12WRjzsc) | [Josh Tatofi](https://open.spotify.com/artist/5hlcYSbfgsN5kwxz0v70OJ) | [Perfect to Me](https://open.spotify.com/album/6hw4X0et7iiVKh2RwHkVGN) | 4:02 |
 | 35 | [Do Anything](https://open.spotify.com/track/1P4EedNF1QADcxSIeB0ixa) | [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [Do Anything](https://open.spotify.com/album/32zKVSCtzv4uCk0EbMGr3a) | 2:57 |
-| 36 | [Don’t Forget Your Roots](https://open.spotify.com/track/5mUiad5pDU1wFvIbtKgJKB) | [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Six60](https://open.spotify.com/album/2y5lgKfEm5B1pi8qrifGD5) | 3:52 |
-| 37 | [ROLLIN ON](https://open.spotify.com/track/2dynUJpevfv4R12wlQEZ3D) | [Rokkō](https://open.spotify.com/artist/0GyKdT7t2elBNxQV5kCj8b) | [ROLLIN ON](https://open.spotify.com/album/5FbUsSC8Cp296Q09wZXAOU) | 3:16 |
+| 36 | [ROLLIN ON](https://open.spotify.com/track/2dynUJpevfv4R12wlQEZ3D) | [Rokkō](https://open.spotify.com/artist/0GyKdT7t2elBNxQV5kCj8b) | [ROLLIN ON](https://open.spotify.com/album/5FbUsSC8Cp296Q09wZXAOU) | 3:16 |
+| 37 | [Don’t Forget Your Roots](https://open.spotify.com/track/5mUiad5pDU1wFvIbtKgJKB) | [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Six60](https://open.spotify.com/album/2y5lgKfEm5B1pi8qrifGD5) | 3:52 |
 | 38 | [So True](https://open.spotify.com/track/5gAHSJPdHqz2MHc5WsfXnD) | [The Black Seeds](https://open.spotify.com/artist/0Q35wRRhdsU8EbsJ1eouCY) | [On the Sun](https://open.spotify.com/album/6bB9QEMR57Ce6HBAADpvQv) | 3:54 |
 | 39 | [Thinking About You](https://open.spotify.com/track/01hdQfU8xCXA8aW59GnyWG) | [House of Shem](https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845) | [Keep Rising](https://open.spotify.com/album/47FZKIfeX6vDAaUkrAqQbD) | 6:01 |
 | 40 | [Fire Up Di Roses \(with The Green, Common Kings & Fiji\)](https://open.spotify.com/track/3Y9kBavkO9sD8K7QZki0se) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh), [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL), [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ) | [Fire Up Di Roses \(with The Green, Common Kings & Fiji\)](https://open.spotify.com/album/5mo5nalgXTB1DSfAtSK93e) | 3:56 |

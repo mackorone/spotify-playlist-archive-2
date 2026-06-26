@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-18",
-  "description": "The best in South African and international R&B. Cover: lordkez",
+  "description": "The best in South African and international R&B. Cover: TEEKS",
   "name": "R&Beats",
   "tracks": [
     {
@@ -176,7 +176,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 166324,
       "name": "500 Days of Summer",
       "url": "https://open.spotify.com/track/3fMCLPuV1KFyI7Muwn1Zj1"
@@ -1488,7 +1488,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 221400,
       "name": "Breathe In",
       "url": "https://open.spotify.com/track/6xMYGTo5CyMtVNUiCXg5tr"
@@ -2222,7 +2222,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 157910,
       "name": "Cut You Off",
       "url": "https://open.spotify.com/track/7olSeEjcLypVdWRrDD7Uap"
@@ -2458,7 +2458,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 183396,
       "name": "DESIRE",
       "url": "https://open.spotify.com/track/48RuvoMPJrLzQ0xDr1Egjp"
@@ -2512,7 +2512,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 195279,
       "name": "DIAMOND GOLD",
       "url": "https://open.spotify.com/track/1HDemO62blrYXP4IuZv0Ta"
@@ -2574,7 +2574,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 188562,
       "name": "do what i say",
       "url": "https://open.spotify.com/track/2TYAJJTyGC4i3m0RlhuXeu"
@@ -2654,6 +2654,24 @@
       "duration_ms": 338975,
       "name": "Don't Lie/See It Through - A COLORS SHOW",
       "url": "https://open.spotify.com/track/4E59KZHXIXlMtOJkC51jto"
+    },
+    {
+      "album": {
+        "name": "Don't Say the Words",
+        "url": "https://open.spotify.com/album/4iwWHgHZQ3yZUzOH6wVFBr"
+      },
+      "artists": [
+        {
+          "name": "Manana",
+          "url": "https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211533,
+      "name": "Don't Say the Words",
+      "url": "https://open.spotify.com/track/0N1QCR8ixCrfJq61xeNoot"
     },
     {
       "album": {
@@ -4488,7 +4506,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-11",
+      "date_removed": null,
       "duration_ms": 196451,
       "name": "Head in a Jar",
       "url": "https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ"
@@ -5382,7 +5400,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 189101,
       "name": "iNjabulo",
       "url": "https://open.spotify.com/track/6aBdeUzyI3cmVjNTvDQBBK"
@@ -7469,6 +7487,24 @@
     },
     {
       "album": {
+        "name": "My Boy",
+        "url": "https://open.spotify.com/album/6EI6Jmvat5PFCYXi8Cc9BD"
+      },
+      "artists": [
+        {
+          "name": "TEEKS",
+          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254015,
+      "name": "My Boy",
+      "url": "https://open.spotify.com/track/6zCOiqpJqq3IJ3zv075e1P"
+    },
+    {
+      "album": {
         "name": "My Ones",
         "url": "https://open.spotify.com/album/0y8QIkp9MCg8cTgWFTEhIC"
       },
@@ -9206,6 +9242,24 @@
       "duration_ms": 167272,
       "name": "Risk (feat. Moliy)",
       "url": "https://open.spotify.com/track/2dMAggfV7EGVwdaP74xlhB"
+    },
+    {
+      "album": {
+        "name": "and all pride aside",
+        "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182257,
+      "name": "risk it all",
+      "url": "https://open.spotify.com/track/4Efkz2fw4BgqFaWfLReqKN"
     },
     {
       "album": {
@@ -10974,7 +11028,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 194895,
       "name": "TAI CHI",
       "url": "https://open.spotify.com/track/6sVUbgavTwgtgWZCOlMBU0"
@@ -11630,7 +11684,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 166338,
       "name": "Touch",
       "url": "https://open.spotify.com/track/4SWIdIIsvUVXQ12twFZAV7"
@@ -11710,7 +11764,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 249002,
       "name": "Truce",
       "url": "https://open.spotify.com/track/0DUW0A9xuu1yKCaXCQVPSw"
@@ -12018,7 +12072,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 206524,
       "name": "Venting",
       "url": "https://open.spotify.com/track/7uXMqHAf0bQINryPJ9jsQ4"
@@ -12400,7 +12454,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 236470,
       "name": "Wena Fela - A COLORS SHOW",
       "url": "https://open.spotify.com/track/0KRtFv9ocMPQLqyEH6ucgi"

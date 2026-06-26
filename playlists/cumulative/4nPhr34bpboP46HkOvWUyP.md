@@ -4,7 +4,7 @@
 
 > ⭐ALL OF MY MUSIC: SOLO &amp; FEATURE WORK⭐
 
-68 songs - 3 hr 35 min
+69 songs - 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [GET AWAY WITH MURDER](https://open.spotify.com/track/4UfV0QR8WGVjcNFZas4JfR) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Vincent & The Black Rabbit](https://open.spotify.com/artist/1L8i0OGcP78idTEtpFBZ3e), [Asterr](https://open.spotify.com/artist/79baYpVN5bf0u38KkcG2LM), [Bunny Mimi](https://open.spotify.com/artist/09wXv9Adm9JViu28oyCC08) | [GET AWAY WITH MURDER](https://open.spotify.com/album/5gNZYoUZcDtyC0MJ31EFRM) | 4:42 | 2025-11-14 |  |
 | [GRACE MY EYES](https://open.spotify.com/track/6eekhQ1JwiOdLfI9yupCvd) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 3:31 | 2024-12-27 |  |
 | [haunted](https://open.spotify.com/track/7lGJA3LZF5EM1b30ReCqFt) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Squiblers](https://open.spotify.com/artist/4MkQCthzhtcdweul1bWqxk), [kamikaze's endless](https://open.spotify.com/artist/7k3CYBOdj2p7mSf9vxtz7J) | [AWAY FROM WHAT MATTERS](https://open.spotify.com/album/5f0j7F675Kv00GwG8L7D2M) | 3:54 | 2022-09-30 |  |
+| [hearts in the rain](https://open.spotify.com/track/3nff3iZjMUUwOmU2V3rTbg) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [deer park rd.](https://open.spotify.com/artist/1m4DtAB9X0MsPdlXqWahzP) | [hearts in the rain](https://open.spotify.com/album/616B9XSaCaOSDHId6r9hol) | 3:59 | 2026-06-26 |  |
 | [Heyyy](https://open.spotify.com/track/75vHzcntF1WRrRh5yCLxei) | [MaskBoi X](https://open.spotify.com/artist/2ZyPKZF7fHCV4iQG7Bw7wm), [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [Heyyy](https://open.spotify.com/album/2Wev8hyf5e9bPtOswNa5pb) | 3:36 | 2025-08-11 |  |
 | [hide away!](https://open.spotify.com/track/7LvXyaINmVG0yHKTOflLC1) | [nbmusic](https://open.spotify.com/artist/2MJLDXe5MaU4v11KLWXR9J), [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [A](https://open.spotify.com/album/6RpRLV9dJvlmn1OYyNgdyM) | 1:28 | 2021-07-17 |  |
 | [HOW 2 GET STURDY](https://open.spotify.com/track/083kLLlo5wFsSNzAgGRZ2i) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Sam.Avi](https://open.spotify.com/artist/1PL965p0zMKhwMWIXt9iHh), [MouSa](https://open.spotify.com/artist/7HS7UAenyadIf7FTYqSNgn), [Enoch](https://open.spotify.com/artist/1eApSp71ywW186fZquLihy) | [DANCE DANCE BABY](https://open.spotify.com/album/0kNyvop4MS6vXZEgWM5RCt) | 1:49 | 2024-04-04 |  |

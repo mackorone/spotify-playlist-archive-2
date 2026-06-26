@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 
 > all the best instrumentals & sounds from the internet  ∼ 🫀
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,180 likes - 110 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,467 likes - 110 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 | 109 | [aquatic ambience](https://open.spotify.com/track/1AeAJE0BNsq9jyssQDsUZ9) | [Scizzie](https://open.spotify.com/artist/53msUMObYuyAsfh4IUsO9P) | [aquatic ambience](https://open.spotify.com/album/37TyoGJBPVUWVCILvLQ3rj) | 2:03 |
 | 110 | [Six Forty Seven](https://open.spotify.com/track/3QTpfniaJUdsjvDBBeGlW6) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Six Forty Seven](https://open.spotify.com/album/56cBzrkzXxaF1pwEVJW4kc) | 1:59 |
 
-Snapshot ID: `AAAAAOSRt5lmZQN0zgXtcu2ld6gxEZWC`
+Snapshot ID: `AAAAAEhVrPkZyqnuUOkEonzIaHth78o3`

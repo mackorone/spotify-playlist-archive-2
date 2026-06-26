@@ -7640,7 +7640,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-22",
+      "date_removed": null,
       "duration_ms": 207600,
       "name": "De Lejitos",
       "url": "https://open.spotify.com/track/4kJQ6oM2mAj7HIXmxphHEs"
@@ -12463,6 +12463,24 @@
     },
     {
       "album": {
+        "name": "La Voz Favorita",
+        "url": "https://open.spotify.com/album/1g4gOThJ1Go0FCkj8gLgWQ"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181277,
+      "name": "Fuga",
+      "url": "https://open.spotify.com/track/1nsSptqJG7xzP6vDgeoJ41"
+    },
+    {
+      "album": {
         "name": "FULL PIOLI 2.O (feat. Julianno Sosa, El Jordan 23, King Savagge, Polima West Coast, Drago200, Jairo Vera, Galee Galee, Best)",
         "url": "https://open.spotify.com/album/792dWqv1qLtDwjjlW36kTi"
       },
@@ -14996,7 +15014,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 207533,
       "name": "L a k e n o s h i",
       "url": "https://open.spotify.com/track/6OoYmAP9oZtBiSomWpDTWP"
@@ -20288,7 +20306,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 160049,
       "name": "Milloneta",
       "url": "https://open.spotify.com/track/54kf02fRFBOQLWaCbHMNVf"
@@ -21898,7 +21916,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-22",
+      "date_removed": null,
       "duration_ms": 166342,
       "name": "No Llores",
       "url": "https://open.spotify.com/track/4WegEknoxkBCLuRQf6BEEB"
@@ -31834,7 +31852,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 225000,
       "name": "Tiene",
       "url": "https://open.spotify.com/track/1KfiYYMCZkP7no8DdkXFDl"

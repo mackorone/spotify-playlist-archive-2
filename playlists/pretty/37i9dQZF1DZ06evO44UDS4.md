@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO44UDS4.md) - [plain]
 
 > This is Oliver Tree\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,082 likes - 49 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,922 likes - 49 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO44UDS4.md) - [plain]
 | 43 | [I Hate You](https://open.spotify.com/track/4i6xqPtcyz470NNO2LzFZ4) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears Drown the World in a Swimming Pool of Sorrow \(Deluxe\)](https://open.spotify.com/album/3HnZ8f1qXz3I9XrLAxOnSv) | 2:42 |
 | 44 | [ULTRAMAN \- From The Netflix Film "Ultraman: Rising"](https://open.spotify.com/track/6qjUr0g56tRAWRdQ3IQYdL) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [ULTRAMAN \(From The Netflix Film "Ultraman: Rising"\)](https://open.spotify.com/album/7rZoGRmY7hcAlozzSEdjJH) | 3:24 |
 | 45 | [Every Type of Friend](https://open.spotify.com/track/4857wFBWpbuhm5caykSZSO) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 3:13 |
-| 46 | [Deep End](https://open.spotify.com/track/43AOW7GMURYgHE1KFNjLZJ) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Deep End](https://open.spotify.com/album/1TwEYzYp5T5lKcsR09D9EZ) | 2:30 |
-| 47 | [All That](https://open.spotify.com/track/2rzl7pljzUTkNI66aPTz3A) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [All That](https://open.spotify.com/album/5QtIcYSfyu7OmG4Sp2sMEu) | 2:46 |
+| 46 | [All That](https://open.spotify.com/track/2rzl7pljzUTkNI66aPTz3A) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [All That](https://open.spotify.com/album/5QtIcYSfyu7OmG4Sp2sMEu) | 2:46 |
+| 47 | [Deep End](https://open.spotify.com/track/43AOW7GMURYgHE1KFNjLZJ) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Deep End](https://open.spotify.com/album/1TwEYzYp5T5lKcsR09D9EZ) | 2:30 |
 | 48 | [Life Goes On \(feat\. Trippie Redd & Ski Mask The Slump God\)](https://open.spotify.com/track/07ShpyCaAqfCseA3fWFFMY) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [Life Goes On \(feat\. Trippie Redd & Ski Mask The Slump God\)](https://open.spotify.com/album/1ucf98ip08W4dY41QZrXeq) | 3:02 |
 | 49 | [Movement](https://open.spotify.com/track/4OLI1dUkU9GFHm3IUgChaf) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Movement](https://open.spotify.com/album/4X6lXwC3CnCcbQPtoFlIrF) | 2:43 |
 
-Snapshot ID: `ajnMgAAAAABEZKYHthd7abhZOETSiHgK`
+Snapshot ID: `ajseAAAAAABLKXcTIo0BooyhjyzZlha8`

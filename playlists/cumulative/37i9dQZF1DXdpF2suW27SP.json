@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "For\u00e7a Suprema entram na zona. ",
+  "description": "Piruka entra na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -427,6 +427,24 @@
     },
     {
       "album": {
+        "name": "3 ou 4",
+        "url": "https://open.spotify.com/album/0vJZv1jC0fpRX9jSAN7aWn"
+      },
+      "artists": [
+        {
+          "name": "Piruka",
+          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139428,
+      "name": "3 ou 4",
+      "url": "https://open.spotify.com/track/23YkOAOVxr2fZqL2oQv52G"
+    },
+    {
+      "album": {
         "name": "3,14",
         "url": "https://open.spotify.com/album/6G62obmFgI2yyK36htUzOe"
       },
@@ -834,7 +852,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 129468,
       "name": "A MINHA CITY SABE",
       "url": "https://open.spotify.com/track/0gWflSXy7oaZSXTtvaD4Aq"
@@ -2510,6 +2528,32 @@
       "duration_ms": 212321,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/7vmGmNjmGD7hNdzVTk1jnD"
+    },
+    {
+      "album": {
+        "name": "Jon",
+        "url": "https://open.spotify.com/album/2wf5KyKrEMWHyqXdy4kHHA"
+      },
+      "artists": [
+        {
+          "name": "Isak",
+          "url": "https://open.spotify.com/artist/7kG7pv7ChRRM7UvWANusR7"
+        },
+        {
+          "name": "Zigarro",
+          "url": "https://open.spotify.com/artist/1VCW4Jb8zoJLddJBQ75VJq"
+        },
+        {
+          "name": "Armando Teles",
+          "url": "https://open.spotify.com/artist/1fgTXVfHGvor0DgoVJXaka"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194285,
+      "name": "Bar Da Praia",
+      "url": "https://open.spotify.com/track/7malrqRM5g4fsjwJym4ore"
     },
     {
       "album": {
@@ -4518,6 +4562,24 @@
       "duration_ms": 169142,
       "name": "Chuva",
       "url": "https://open.spotify.com/track/64wvMwnsBM0EiaCvDgquOC"
+    },
+    {
+      "album": {
+        "name": "UM DIA VAIS PERCEBER",
+        "url": "https://open.spotify.com/album/0C3gzAtoWURcTuRNDEG6wp"
+      },
+      "artists": [
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194867,
+      "name": "CIDADE",
+      "url": "https://open.spotify.com/track/5iW98FUJkI2P67p2bVRbHI"
     },
     {
       "album": {
@@ -9124,7 +9186,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 224428,
       "name": "HOJE ACORDEI CHATEADO",
       "url": "https://open.spotify.com/track/6iccFYVQeLlrpdLTYJjR7s"
@@ -11119,6 +11181,28 @@
     },
     {
       "album": {
+        "name": "MAL ME QUERES",
+        "url": "https://open.spotify.com/album/7modVapi5c7PCiwHJ5btMV"
+      },
+      "artists": [
+        {
+          "name": "Monsta",
+          "url": "https://open.spotify.com/artist/1UYLvmudFl1ERXDnAPj5WS"
+        },
+        {
+          "name": "Linne Manuel",
+          "url": "https://open.spotify.com/artist/16KjpnTgw4z552Y5BPk13t"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170322,
+      "name": "MAL ME QUERES",
+      "url": "https://open.spotify.com/track/6C0sd3cdzCkKv8nYEeT1M1"
+    },
+    {
+      "album": {
         "name": "Malandrim",
         "url": "https://open.spotify.com/album/229HssbYq8BVOjaY4Q0zbQ"
       },
@@ -12004,7 +12088,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 177838,
       "name": "Micr\u00f3bios",
       "url": "https://open.spotify.com/track/57uzmKmH8BEYBsCMvH5nl4"
@@ -12568,6 +12652,28 @@
       "duration_ms": 202981,
       "name": "M\u00e1 Vida",
       "url": "https://open.spotify.com/track/0gJ7yh20jRqIsgWUObbFAt"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/1a38aTaBKubozCopGm5nWA"
+      },
+      "artists": [
+        {
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+        },
+        {
+          "name": "Uzzy",
+          "url": "https://open.spotify.com/artist/2Ia5AqFe2PZmGirbLc7zMi"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207432,
+      "name": "M\u00e1s",
+      "url": "https://open.spotify.com/track/2JoACjEp4JJRCYqcRwXkRs"
     },
     {
       "album": {
@@ -15048,7 +15154,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 162211,
       "name": "Partir Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0mHTeaDy95c90zuiYQVWUG"

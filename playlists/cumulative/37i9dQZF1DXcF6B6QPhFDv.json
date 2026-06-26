@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-20",
-  "description": "ROCK NEVER DIES | Cover: The Paradox",
+  "description": "ROCK NEVER DIES | it's alive w/ beabadoobee",
   "name": "MARROW",
   "tracks": [
     {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 191423,
       "name": "12 Steps (feat. Treaty Oak Revival)",
       "url": "https://open.spotify.com/track/6RoaWAoHb5KxdBXUlzx6ls"
@@ -1231,6 +1231,24 @@
     },
     {
       "album": {
+        "name": "Arctic",
+        "url": "https://open.spotify.com/album/6A5kz0EFCFBf9gXNgddAOo"
+      },
+      "artists": [
+        {
+          "name": "Porch Light",
+          "url": "https://open.spotify.com/artist/71gxkPYviG8kwEzEZGM1FH"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173013,
+      "name": "Arctic",
+      "url": "https://open.spotify.com/track/2JuuDTjgN7FkR6p0QxOuTw"
+    },
+    {
+      "album": {
         "name": "Arizona",
         "url": "https://open.spotify.com/album/28NzUxruxXkGAGOOdgEPPU"
       },
@@ -1246,6 +1264,24 @@
       "duration_ms": 204053,
       "name": "Arizona",
       "url": "https://open.spotify.com/track/6KZRKGq6hj18WkbgXxcRcZ"
+    },
+    {
+      "album": {
+        "name": "Armor",
+        "url": "https://open.spotify.com/album/3OUjODbCdJfSwgGChAY5fR"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198433,
+      "name": "Armor",
+      "url": "https://open.spotify.com/track/3vEznOTV6qVU4GO7kmB1GK"
     },
     {
       "album": {
@@ -1498,7 +1534,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 166730,
       "name": "Autopilot",
       "url": "https://open.spotify.com/track/5kcA1nEflPu153eEtNEbZB"
@@ -1538,6 +1574,24 @@
       "duration_ms": 153209,
       "name": "B.A.B.E.",
       "url": "https://open.spotify.com/track/7ES8BGLLkl2VsklzKX7d7Z"
+    },
+    {
+      "album": {
+        "name": "Baby I'll Change",
+        "url": "https://open.spotify.com/album/1Z00Wymu647hblP4MCcbyN"
+      },
+      "artists": [
+        {
+          "name": "Fiddlehead",
+          "url": "https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262893,
+      "name": "Baby I'll Change",
+      "url": "https://open.spotify.com/track/6hsAyc0XTNEQ6FFq7JGEOE"
     },
     {
       "album": {
@@ -3481,6 +3535,24 @@
     },
     {
       "album": {
+        "name": "Prairie",
+        "url": "https://open.spotify.com/album/0rYKyoUPaD9R3VxZOPZEKD"
+      },
+      "artists": [
+        {
+          "name": "Bike Routes",
+          "url": "https://open.spotify.com/artist/0sBN7TbbFmFYH29xxa6VGA"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258761,
+      "name": "Chaos Ball",
+      "url": "https://open.spotify.com/track/3OYDaKkG4dgfyGLHLAvGzY"
+    },
+    {
+      "album": {
         "name": "charter spec",
         "url": "https://open.spotify.com/album/4DW9eP5XqwM1I8MmDDlADp"
       },
@@ -3928,7 +4000,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 242346,
       "name": "Crawl Back To My Coffin",
       "url": "https://open.spotify.com/track/7rhDDCVryx9frLUnXSgrZ5"
@@ -5120,7 +5192,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 188066,
       "name": "Dog",
       "url": "https://open.spotify.com/track/7EhOrPGj3Tfc4CPoDiA8rl"
@@ -6380,6 +6452,24 @@
       "duration_ms": 166132,
       "name": "False Reaction",
       "url": "https://open.spotify.com/track/3TG5mHXETb6JyWzysmZ5RN"
+    },
+    {
+      "album": {
+        "name": "Fangs",
+        "url": "https://open.spotify.com/album/3OgRSLmGbLqG8WtiaLgAhb"
+      },
+      "artists": [
+        {
+          "name": "Loathe",
+          "url": "https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249293,
+      "name": "Fangs",
+      "url": "https://open.spotify.com/track/4zXA5VxlbMVvg21Hi5RjcC"
     },
     {
       "album": {
@@ -8099,6 +8189,24 @@
     },
     {
       "album": {
+        "name": "Halfway",
+        "url": "https://open.spotify.com/album/7dRTgpXhKLpFfL3suMrwep"
+      },
+      "artists": [
+        {
+          "name": "Swapmeet",
+          "url": "https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213395,
+      "name": "Halfway",
+      "url": "https://open.spotify.com/track/53oAPCPAZlaMGGKqDnrL5D"
+    },
+    {
+      "album": {
         "name": "Hallways",
         "url": "https://open.spotify.com/album/0RdXtpV2BpwrvApq3IxItb"
       },
@@ -8382,7 +8490,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 192026,
       "name": "Heart Has To Work So Hard",
       "url": "https://open.spotify.com/track/4wwOje67xW4mPCf8JvmWYK"
@@ -9544,7 +9652,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 214304,
       "name": "I Know!",
       "url": "https://open.spotify.com/track/3q2YKTA1K0GrFVoBFMoN5t"
@@ -12644,7 +12752,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 176853,
       "name": "mettle",
       "url": "https://open.spotify.com/track/09kKoIXQgBJMY3nGQN4IMB"
@@ -13610,7 +13718,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 185204,
       "name": "New Year's Eve",
       "url": "https://open.spotify.com/track/4fzNnJKhgFueO0tcstBrQG"
@@ -14022,6 +14130,24 @@
       "duration_ms": 195161,
       "name": "NOSE BLEED",
       "url": "https://open.spotify.com/track/2hXcTd2JwqQcB2BeP4pCmv"
+    },
+    {
+      "album": {
+        "name": "Nosedive",
+        "url": "https://open.spotify.com/album/6qY5K6aLJkQFfd6mwTnTka"
+      },
+      "artists": [
+        {
+          "name": "Man/Woman/Chainsaw",
+          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339424,
+      "name": "Nosedive",
+      "url": "https://open.spotify.com/track/0TbUriU2INQ0wqNubRpFTX"
     },
     {
       "album": {
@@ -15354,7 +15480,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 220101,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/7pasIrCqLFAOtPgXyuYHnV"
@@ -17513,6 +17639,24 @@
     },
     {
       "album": {
+        "name": "Seasons Change",
+        "url": "https://open.spotify.com/album/3HNK1DEB400fb3HR4QubmX"
+      },
+      "artists": [
+        {
+          "name": "The Bends",
+          "url": "https://open.spotify.com/artist/2xBejdNon0VS3Egq8he7sb"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232495,
+      "name": "Seasons Change",
+      "url": "https://open.spotify.com/track/0DRwpqgzcug1j16A6ktmZm"
+    },
+    {
+      "album": {
         "name": "Second Best",
         "url": "https://open.spotify.com/album/6wuwiiAyhdR1B8fuW7Entm"
       },
@@ -19610,6 +19754,24 @@
       "duration_ms": 162880,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8"
+    },
+    {
+      "album": {
+        "name": "Sun Has Set",
+        "url": "https://open.spotify.com/album/2YwRomMDFX0sttDNVqBrXR"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141804,
+      "name": "Sun Has Set",
+      "url": "https://open.spotify.com/track/3CnEw0mRAXVlLw36iL0mbe"
     },
     {
       "album": {
@@ -22077,6 +22239,36 @@
     },
     {
       "album": {
+        "name": "Training / Great",
+        "url": "https://open.spotify.com/album/1LLOCMDTbW4pgbZRKK2TJS"
+      },
+      "artists": [
+        {
+          "name": "Tiberius b",
+          "url": "https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0"
+        },
+        {
+          "name": "Power Snatch",
+          "url": "https://open.spotify.com/artist/3NEo0bJDvJ9xpRWwBRvLZ6"
+        },
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        },
+        {
+          "name": "Daniel James",
+          "url": "https://open.spotify.com/artist/7fjWpR5V7rFThV1mf5fzp9"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120587,
+      "name": "Training",
+      "url": "https://open.spotify.com/track/7c7ceIOFUDHYpIf5z4yYA7"
+    },
+    {
+      "album": {
         "name": "Traps",
         "url": "https://open.spotify.com/album/0UdQroPXUq5V73zbzsGGrh"
       },
@@ -22690,6 +22882,24 @@
       "duration_ms": 177035,
       "name": "Vienna (Everything\u2019s Fine)",
       "url": "https://open.spotify.com/track/4MZkA1wOfqYclYkQt7MUEd"
+    },
+    {
+      "album": {
+        "name": "Violins",
+        "url": "https://open.spotify.com/album/2dkOtTHYlj2DzIgLaf6FGy"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250386,
+      "name": "Violins",
+      "url": "https://open.spotify.com/track/2xgOrdZIgcckxGam4dZNVA"
     },
     {
       "album": {
@@ -23562,6 +23772,24 @@
       "duration_ms": 283998,
       "name": "Where's My Dini? - Spotify Singles",
       "url": "https://open.spotify.com/track/3yANmEBnFRfWwScZ5VHf0s"
+    },
+    {
+      "album": {
+        "name": "White Butterflies",
+        "url": "https://open.spotify.com/album/3fguZR5Upd9GbKR5zKqsOg"
+      },
+      "artists": [
+        {
+          "name": "Jutes",
+          "url": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182782,
+      "name": "White Butterflies",
+      "url": "https://open.spotify.com/track/2fU5LkTqwTHGbbLkIkLCm9"
     },
     {
       "album": {

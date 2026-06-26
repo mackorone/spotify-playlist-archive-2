@@ -134,6 +134,28 @@
     {
       "album": {
         "name": "In Transit",
+        "url": "https://open.spotify.com/album/3qERs0aNa6vKhdXBmzofvj"
+      },
+      "artists": [
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        },
+        {
+          "name": "Zander Raymond",
+          "url": "https://open.spotify.com/artist/5sR4c4y0XegnM0FjJi0Tsw"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203036,
+      "name": "A duck with green feet",
+      "url": "https://open.spotify.com/track/2L6IrYqvbVp1VMdF7EREgX"
+    },
+    {
+      "album": {
+        "name": "In Transit",
         "url": "https://open.spotify.com/album/1kIPPJHupfJboNly1npS7a"
       },
       "artists": [
@@ -606,7 +628,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 223842,
       "name": "First Picture of the Weather Pattern",
       "url": "https://open.spotify.com/track/0TPFUD1Ruw34xxNyU5ilP5"
@@ -932,7 +954,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 232440,
       "name": "It's lily season",
       "url": "https://open.spotify.com/track/5ushVu2JxvqgOZNbRNDsnM"
@@ -1324,7 +1346,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 342327,
       "name": "Rich, Sticky, Sweet",
       "url": "https://open.spotify.com/track/434fNClMan2sL4bZ26Iw2Z"
@@ -1346,7 +1368,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-23",
+      "date_removed": null,
       "duration_ms": 271202,
       "name": "Right Before Dinner",
       "url": "https://open.spotify.com/track/1xtDTPyST8yKRnA7bQHLFm"
@@ -1626,7 +1648,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 76190,
       "name": "Stuff It In Your Mouth and Run (Hi)",
       "url": "https://open.spotify.com/track/7qt3jlxi8T60JXcnYLbmSI"
@@ -1924,10 +1946,32 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 185018,
       "name": "Woven things rest",
       "url": "https://open.spotify.com/track/3XHoPfog6BxKRa8l8l2ar1"
+    },
+    {
+      "album": {
+        "name": "In Transit",
+        "url": "https://open.spotify.com/album/3qERs0aNa6vKhdXBmzofvj"
+      },
+      "artists": [
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        },
+        {
+          "name": "Zander Raymond",
+          "url": "https://open.spotify.com/artist/5sR4c4y0XegnM0FjJi0Tsw"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185018,
+      "name": "Woven things rest",
+      "url": "https://open.spotify.com/track/7cmiWc7OaUwRJithn8BS7G"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1oLNys"

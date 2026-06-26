@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Lorde",
-  "num_followers": 19363,
+  "num_followers": 19364,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2026-06-22 02:32:56",
       "album": {
-        "name": "Better Off",
-        "url": "https://open.spotify.com/album/57SwrbCTxISbDLchYw0nvx"
-      },
-      "artists": [
-        {
-          "name": "Will Swinton",
-          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
-        }
-      ],
-      "duration_ms": 231724,
-      "name": "Better Off",
-      "url": "https://open.spotify.com/track/1MJIGHlxwwTop0ZCuePe3Y"
-    },
-    {
-      "added_at": "2026-06-22 02:32:56",
-      "album": {
         "name": "Right Here Right Now",
         "url": "https://open.spotify.com/album/6csIU1XcyHCNHorQkDE83W"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 203539,
       "name": "Endlessly",
       "url": "https://open.spotify.com/track/2CyfQZebCmtHWEacUX3Bxp"
+    },
+    {
+      "added_at": "2026-06-22 02:32:56",
+      "album": {
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/57SwrbCTxISbDLchYw0nvx"
+      },
+      "artists": [
+        {
+          "name": "Will Swinton",
+          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
+        }
+      ],
+      "duration_ms": 231724,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/1MJIGHlxwwTop0ZCuePe3Y"
     },
     {
       "added_at": "2026-06-22 02:32:56",
@@ -291,6 +291,22 @@
     {
       "added_at": "2026-06-22 02:32:56",
       "album": {
+        "name": "BITE BACK",
+        "url": "https://open.spotify.com/album/44u8w5fzJ8lVizD4t1T0pr"
+      },
+      "artists": [
+        {
+          "name": "Vana",
+          "url": "https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T"
+        }
+      ],
+      "duration_ms": 225682,
+      "name": "BITE BACK",
+      "url": "https://open.spotify.com/track/3oRLktPykF4J9KqAHRlFrx"
+    },
+    {
+      "added_at": "2026-06-22 02:32:56",
+      "album": {
         "name": "Between Us",
         "url": "https://open.spotify.com/album/2n3AdEZI379D0sAAWvTHEa"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 197122,
       "name": "It Never Ends",
       "url": "https://open.spotify.com/track/1TeknOxmMXAfvyuM4PTAMd"
-    },
-    {
-      "added_at": "2026-06-22 02:32:56",
-      "album": {
-        "name": "BITE BACK",
-        "url": "https://open.spotify.com/album/44u8w5fzJ8lVizD4t1T0pr"
-      },
-      "artists": [
-        {
-          "name": "Vana",
-          "url": "https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T"
-        }
-      ],
-      "duration_ms": 225682,
-      "name": "BITE BACK",
-      "url": "https://open.spotify.com/track/3oRLktPykF4J9KqAHRlFrx"
     },
     {
       "added_at": "2026-06-22 02:32:56",
@@ -375,22 +375,6 @@
     {
       "added_at": "2026-06-22 02:32:56",
       "album": {
-        "name": "PRETTY GYAL",
-        "url": "https://open.spotify.com/album/5tKNi4aE8aI5kAsIKs1MpO"
-      },
-      "artists": [
-        {
-          "name": "COTERIE",
-          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
-        }
-      ],
-      "duration_ms": 218134,
-      "name": "PRETTY GYAL",
-      "url": "https://open.spotify.com/track/4C2uLpeiOtQjDDC3XSsLvt"
-    },
-    {
-      "added_at": "2026-06-22 02:32:56",
-      "album": {
         "name": "PLEASER",
         "url": "https://open.spotify.com/album/3DLbNeGEg77U7wyAgIv4pc"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 165925,
       "name": "PLEASER",
       "url": "https://open.spotify.com/track/57aoIncSQMCTT58Nczu5se"
+    },
+    {
+      "added_at": "2026-06-22 02:32:56",
+      "album": {
+        "name": "PRETTY GYAL",
+        "url": "https://open.spotify.com/album/5tKNi4aE8aI5kAsIKs1MpO"
+      },
+      "artists": [
+        {
+          "name": "COTERIE",
+          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
+        }
+      ],
+      "duration_ms": 218134,
+      "name": "PRETTY GYAL",
+      "url": "https://open.spotify.com/track/4C2uLpeiOtQjDDC3XSsLvt"
     },
     {
       "added_at": "2026-06-22 02:32:56",
@@ -487,6 +487,22 @@
     {
       "added_at": "2026-06-22 02:32:56",
       "album": {
+        "name": "Make Way For The Sun",
+        "url": "https://open.spotify.com/album/63yVK9jNRYJX26RyIekABQ"
+      },
+      "artists": [
+        {
+          "name": "O & The Mo",
+          "url": "https://open.spotify.com/artist/6BxU8WANw4zXnBceJykdKX"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Icarus",
+      "url": "https://open.spotify.com/track/7n428mAFxpfChekp39tLFT"
+    },
+    {
+      "added_at": "2026-06-22 02:32:56",
+      "album": {
         "name": "We Belong (feat. Corrella & L.A.B)",
         "url": "https://open.spotify.com/album/1sFjvQK6wmmRgMVAxVFVDA"
       },
@@ -511,22 +527,6 @@
     {
       "added_at": "2026-06-22 02:32:56",
       "album": {
-        "name": "tomato baby",
-        "url": "https://open.spotify.com/album/7J8vbSM16wFVxHnXfiLGIV"
-      },
-      "artists": [
-        {
-          "name": "hanbee",
-          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
-        }
-      ],
-      "duration_ms": 168582,
-      "name": "tomato baby",
-      "url": "https://open.spotify.com/track/126hNkonJst3ARf4I2ACqW"
-    },
-    {
-      "added_at": "2026-06-22 02:32:56",
-      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD"
       },
@@ -539,6 +539,22 @@
       "duration_ms": 246720,
       "name": "Nadja",
       "url": "https://open.spotify.com/track/2AojQfi1k8pgwyg1Ii0Ly8"
+    },
+    {
+      "added_at": "2026-06-22 02:32:56",
+      "album": {
+        "name": "tomato baby",
+        "url": "https://open.spotify.com/album/7J8vbSM16wFVxHnXfiLGIV"
+      },
+      "artists": [
+        {
+          "name": "hanbee",
+          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
+        }
+      ],
+      "duration_ms": 168582,
+      "name": "tomato baby",
+      "url": "https://open.spotify.com/track/126hNkonJst3ARf4I2ACqW"
     },
     {
       "added_at": "2026-06-22 02:32:56",
@@ -559,18 +575,18 @@
     {
       "added_at": "2026-06-22 02:32:56",
       "album": {
-        "name": "Make Way For The Sun",
-        "url": "https://open.spotify.com/album/63yVK9jNRYJX26RyIekABQ"
+        "name": "pretend",
+        "url": "https://open.spotify.com/album/3DgzMxPjuf3WDXGiOxczaj"
       },
       "artists": [
         {
-          "name": "O & The Mo",
-          "url": "https://open.spotify.com/artist/6BxU8WANw4zXnBceJykdKX"
+          "name": "Teo Glacier",
+          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Icarus",
-      "url": "https://open.spotify.com/track/7n428mAFxpfChekp39tLFT"
+      "duration_ms": 170676,
+      "name": "pretend",
+      "url": "https://open.spotify.com/track/3VKW1b4IAxKvNoTki0fLIF"
     },
     {
       "added_at": "2026-06-22 02:32:56",
@@ -591,18 +607,18 @@
     {
       "added_at": "2026-06-22 02:32:56",
       "album": {
-        "name": "pretend",
-        "url": "https://open.spotify.com/album/3DgzMxPjuf3WDXGiOxczaj"
+        "name": "Harmless",
+        "url": "https://open.spotify.com/album/7fpdpcbXKbo8jDqwPW6M9Q"
       },
       "artists": [
         {
-          "name": "Teo Glacier",
-          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
+          "name": "Will Swinton",
+          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
         }
       ],
-      "duration_ms": 170676,
-      "name": "pretend",
-      "url": "https://open.spotify.com/track/3VKW1b4IAxKvNoTki0fLIF"
+      "duration_ms": 145445,
+      "name": "Harmless",
+      "url": "https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0"
     },
     {
       "added_at": "2026-06-22 02:32:56",
@@ -619,22 +635,6 @@
       "duration_ms": 164070,
       "name": "We Made It",
       "url": "https://open.spotify.com/track/1ljnuLllU6fI3aGFUPG6TJ"
-    },
-    {
-      "added_at": "2026-06-22 02:32:56",
-      "album": {
-        "name": "Harmless",
-        "url": "https://open.spotify.com/album/7fpdpcbXKbo8jDqwPW6M9Q"
-      },
-      "artists": [
-        {
-          "name": "Will Swinton",
-          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
-        }
-      ],
-      "duration_ms": 145445,
-      "name": "Harmless",
-      "url": "https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0"
     },
     {
       "added_at": "2026-06-22 02:32:56",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-06-22 02:32:56",
       "album": {
-        "name": "Hell Of A Night",
-        "url": "https://open.spotify.com/album/4yy9Kng4fAMUQ4UUe1h7H2"
-      },
-      "artists": [
-        {
-          "name": "LA WOMEN",
-          "url": "https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj"
-        }
-      ],
-      "duration_ms": 232615,
-      "name": "Hell Of A Night",
-      "url": "https://open.spotify.com/track/6MKq4tkdKCwixFocjVvaC8"
-    },
-    {
-      "added_at": "2026-06-22 02:32:56",
-      "album": {
         "name": "Everything Is Going To Be Alright",
         "url": "https://open.spotify.com/album/68VjqhhlPZRLMAGxs1FSuU"
       },
@@ -775,18 +759,18 @@
     {
       "added_at": "2026-06-22 02:32:56",
       "album": {
-        "name": "Coats",
-        "url": "https://open.spotify.com/album/2MhzYUysgTkEC01pE2Sfjv"
+        "name": "Hell Of A Night",
+        "url": "https://open.spotify.com/album/4yy9Kng4fAMUQ4UUe1h7H2"
       },
       "artists": [
         {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+          "name": "LA WOMEN",
+          "url": "https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj"
         }
       ],
-      "duration_ms": 208875,
-      "name": "Coats",
-      "url": "https://open.spotify.com/track/3Ms4gyZoCG0e63Guz3gkBM"
+      "duration_ms": 232615,
+      "name": "Hell Of A Night",
+      "url": "https://open.spotify.com/track/6MKq4tkdKCwixFocjVvaC8"
     },
     {
       "added_at": "2026-06-22 02:32:56",
@@ -807,18 +791,34 @@
     {
       "added_at": "2026-06-22 02:32:56",
       "album": {
-        "name": "CURSE",
-        "url": "https://open.spotify.com/album/0cFnSWyfKw7gmgURlfeQ41"
+        "name": "Coats",
+        "url": "https://open.spotify.com/album/2MhzYUysgTkEC01pE2Sfjv"
       },
       "artists": [
         {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
         }
       ],
-      "duration_ms": 148525,
-      "name": "DEATH COMES FROM THE SKY",
-      "url": "https://open.spotify.com/track/7xkyqFdogcqpGKkn3baJ6d"
+      "duration_ms": 208875,
+      "name": "Coats",
+      "url": "https://open.spotify.com/track/3Ms4gyZoCG0e63Guz3gkBM"
+    },
+    {
+      "added_at": "2026-06-22 02:32:56",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/6S7iMcj2CRCj8RdPtEI6gM"
+      },
+      "artists": [
+        {
+          "name": "Louis Baker",
+          "url": "https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy"
+        }
+      ],
+      "duration_ms": 201480,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/39lr0bifw4DjmVHySQVEch"
     },
     {
       "added_at": "2026-06-22 02:32:56",
@@ -843,18 +843,18 @@
     {
       "added_at": "2026-06-22 02:32:56",
       "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/6S7iMcj2CRCj8RdPtEI6gM"
+        "name": "CURSE",
+        "url": "https://open.spotify.com/album/0cFnSWyfKw7gmgURlfeQ41"
       },
       "artists": [
         {
-          "name": "Louis Baker",
-          "url": "https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy"
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
         }
       ],
-      "duration_ms": 201480,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/39lr0bifw4DjmVHySQVEch"
+      "duration_ms": 148525,
+      "name": "DEATH COMES FROM THE SKY",
+      "url": "https://open.spotify.com/track/7xkyqFdogcqpGKkn3baJ6d"
     },
     {
       "added_at": "2026-06-22 02:32:56",
@@ -947,18 +947,22 @@
     {
       "added_at": "2026-06-22 02:32:56",
       "album": {
-        "name": "Brown Sugar",
-        "url": "https://open.spotify.com/album/05nJE7MpNns4boJRITmpJe"
+        "name": "Handyman.",
+        "url": "https://open.spotify.com/album/27GwbvIdxCHWZ7oe1gr3yb"
       },
       "artists": [
         {
-          "name": "lilbubblegum",
-          "url": "https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT"
+          "name": "Canaan Ene",
+          "url": "https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA"
+        },
+        {
+          "name": "Sione Toki",
+          "url": "https://open.spotify.com/artist/7CyCft1T5A9pLksmToGkFV"
         }
       ],
-      "duration_ms": 189473,
-      "name": "Brown Sugar",
-      "url": "https://open.spotify.com/track/6L2Wi1vXE5jAzFOm2iOGqn"
+      "duration_ms": 161559,
+      "name": "Handyman.",
+      "url": "https://open.spotify.com/track/1xd2siUNv5buHMILOQZeRB"
     },
     {
       "added_at": "2026-06-22 02:32:56",
@@ -995,22 +999,18 @@
     {
       "added_at": "2026-06-22 02:32:56",
       "album": {
-        "name": "talk is cheap",
-        "url": "https://open.spotify.com/album/7HbcPi920iYLcrKwJNfZGR"
+        "name": "Brown Sugar",
+        "url": "https://open.spotify.com/album/05nJE7MpNns4boJRITmpJe"
       },
       "artists": [
         {
-          "name": "Imani-J",
-          "url": "https://open.spotify.com/artist/0v4Xz06LDEOS0VRzkSbUAk"
-        },
-        {
-          "name": "Bam Marley",
-          "url": "https://open.spotify.com/artist/7fXBLt1KPnFD1c1KBDDTB9"
+          "name": "lilbubblegum",
+          "url": "https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT"
         }
       ],
-      "duration_ms": 175666,
-      "name": "talk is cheap",
-      "url": "https://open.spotify.com/track/75eXKchH6bxhksS7G5rFUf"
+      "duration_ms": 189473,
+      "name": "Brown Sugar",
+      "url": "https://open.spotify.com/track/6L2Wi1vXE5jAzFOm2iOGqn"
     },
     {
       "added_at": "2026-06-22 02:32:56",
@@ -1039,22 +1039,22 @@
     {
       "added_at": "2026-06-22 02:32:56",
       "album": {
-        "name": "Handyman.",
-        "url": "https://open.spotify.com/album/27GwbvIdxCHWZ7oe1gr3yb"
+        "name": "talk is cheap",
+        "url": "https://open.spotify.com/album/7HbcPi920iYLcrKwJNfZGR"
       },
       "artists": [
         {
-          "name": "Canaan Ene",
-          "url": "https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA"
+          "name": "Imani-J",
+          "url": "https://open.spotify.com/artist/0v4Xz06LDEOS0VRzkSbUAk"
         },
         {
-          "name": "Sione Toki",
-          "url": "https://open.spotify.com/artist/7CyCft1T5A9pLksmToGkFV"
+          "name": "Bam Marley",
+          "url": "https://open.spotify.com/artist/7fXBLt1KPnFD1c1KBDDTB9"
         }
       ],
-      "duration_ms": 161559,
-      "name": "Handyman.",
-      "url": "https://open.spotify.com/track/1xd2siUNv5buHMILOQZeRB"
+      "duration_ms": 175666,
+      "name": "talk is cheap",
+      "url": "https://open.spotify.com/track/75eXKchH6bxhksS7G5rFUf"
     },
     {
       "added_at": "2026-06-22 02:32:56",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-06-22 02:32:56",
       "album": {
-        "name": "Reins",
-        "url": "https://open.spotify.com/album/3CulHXRXKuVAZFQMpuKIkV"
-      },
-      "artists": [
-        {
-          "name": "Office Dog",
-          "url": "https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5"
-        }
-      ],
-      "duration_ms": 175786,
-      "name": "Reins",
-      "url": "https://open.spotify.com/track/6KW9DXNen7rez44hKngtKJ"
-    },
-    {
-      "added_at": "2026-06-22 02:32:56",
-      "album": {
         "name": "thought of you",
         "url": "https://open.spotify.com/album/7x6JnVTlfYdQOIskmq0aab"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 225295,
       "name": "thought of you",
       "url": "https://open.spotify.com/track/1BLhi5rDFlPkRk8gbp4uiI"
+    },
+    {
+      "added_at": "2026-06-22 02:32:56",
+      "album": {
+        "name": "Reins",
+        "url": "https://open.spotify.com/album/3CulHXRXKuVAZFQMpuKIkV"
+      },
+      "artists": [
+        {
+          "name": "Office Dog",
+          "url": "https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5"
+        }
+      ],
+      "duration_ms": 175786,
+      "name": "Reins",
+      "url": "https://open.spotify.com/track/6KW9DXNen7rez44hKngtKJ"
     },
     {
       "added_at": "2026-06-22 02:32:56",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-06-22 02:32:56",
       "album": {
-        "name": "Metal",
-        "url": "https://open.spotify.com/album/4xjNfpHmPjhl2coRgNWvOz"
-      },
-      "artists": [
-        {
-          "name": "The Beths",
-          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
-        }
-      ],
-      "duration_ms": 283253,
-      "name": "Metal",
-      "url": "https://open.spotify.com/track/6KF6TkyYpEWKg6BZ3OYJz7"
-    },
-    {
-      "added_at": "2026-06-22 02:32:56",
-      "album": {
         "name": "Didn't Change A Thing",
         "url": "https://open.spotify.com/album/7q6gFymoUw39CUBeDQJTkr"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 164999,
       "name": "Didn't Change A Thing",
       "url": "https://open.spotify.com/track/2OgPwHAA08O8gPkX2S6ujL"
+    },
+    {
+      "added_at": "2026-06-22 02:32:56",
+      "album": {
+        "name": "Metal",
+        "url": "https://open.spotify.com/album/4xjNfpHmPjhl2coRgNWvOz"
+      },
+      "artists": [
+        {
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+        }
+      ],
+      "duration_ms": 283253,
+      "name": "Metal",
+      "url": "https://open.spotify.com/track/6KF6TkyYpEWKg6BZ3OYJz7"
     },
     {
       "added_at": "2026-06-22 02:32:56",

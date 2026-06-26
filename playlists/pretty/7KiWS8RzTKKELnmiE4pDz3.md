@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 276 songs - 17 hr 40 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 277 songs - 17 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -284,5 +284,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 274 | [Goodmorning Sunshine](https://open.spotify.com/track/3lde9IuJ9dedVPa6RliHI1) | [Little Brother](https://open.spotify.com/artist/0s9MrSopEoAn8JqwBipgdO) | [May the Lord Watch](https://open.spotify.com/album/5uyW47qYkSkjoh6WT6I89k) | 4:00 |
 | 275 | [Sittin Alone](https://open.spotify.com/track/4s6S0anjP3SNeQ8VyS7dIz) | [Little Brother](https://open.spotify.com/artist/0s9MrSopEoAn8JqwBipgdO) | [May the Lord Watch](https://open.spotify.com/album/5uyW47qYkSkjoh6WT6I89k) | 3:13 |
 | 276 | [Just Chill \[feat\. Torae & Mela Machinko\]](https://open.spotify.com/track/45bI6PYFqJ17MhWYMfUnnw) | [Dela](https://open.spotify.com/artist/3ZNUlWnJXhcuBaTJGnOO8O) | [Atmosphere Airlines Vol.1](https://open.spotify.com/album/1zcezEmMRB9zI8OPyFeVF4) | 3:26 |
+| 277 | [One](https://open.spotify.com/track/1yeHVJsVPN3ZskQ398be1E) | [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [Supreme Clientele](https://open.spotify.com/album/7eaQqVyq6xzAVgsxSzSP83) | 3:46 |
 
-Snapshot ID: `AAAgeH0C24enUiFy4y8FtPsy4fq2TcPi`
+Snapshot ID: `AAAgeQAcruAHjnqRWF00jjZc08lMUGri`

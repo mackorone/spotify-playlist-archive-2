@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Harsha Vardhan
 
-804 songs - 1 day 21 hr 32 min
+805 songs - 1 day 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Aasaigal](https://open.spotify.com/track/5CV1PudVJ0iNAhSWkl9iKD) | [Nitin K Siva](https://open.spotify.com/artist/1ClekcsZ4VLBcjLiZ1ZUis) | [Aasaigal](https://open.spotify.com/album/4cglbrEgdH16IKpcD2sb2z) | 3:33 | 2023-03-21 | 2023-08-01 |
 | [Aasamy](https://open.spotify.com/track/589Vk4dm6doD6czjby9eYT) | [Aasamy](https://open.spotify.com/artist/3cU465o0Drs2JeNOm9Ljio), [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX) | [Aasamy](https://open.spotify.com/album/4XxRdPoYGfhWCoTW3sOgiF) | 2:41 | 2024-11-21 | 2024-12-04 |
 | [Aayirathil Avan Oruvan](https://open.spotify.com/track/30gPXGKnK719UU9QjiJ5jT) | [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7), [MWS](https://open.spotify.com/artist/2kAssRlZmg5vrIiUiZVInp) | [Mudivili](https://open.spotify.com/album/7txRaw6gINccGbvTdAj6I1) | 3:10 | 2024-07-27 | 2024-09-21 |
+| [ACAPELLA SAMBAA](https://open.spotify.com/track/0mkw6W14pYkRTvnbQnr52z) | [Jagadeesh Kumar Balraj](https://open.spotify.com/artist/6vS08NxeEwSRd6Tdt3iMwt), [Disco Nagesh](https://open.spotify.com/artist/0MDMzwjffAESp75nRoa86I), [Thamarai Varman](https://open.spotify.com/artist/22Dtar7MtPlLx73CfxqDL2), [Aditi Saikumar](https://open.spotify.com/artist/1f6vaQ2HqbJdH6510ANw4x), [Jayashri Saikumar](https://open.spotify.com/artist/7ctFhAmf7s8m8955ZTabQN), [Master J\. Layesh Kumar](https://open.spotify.com/artist/6neWXAt1RUC7xjJzUjc58i) | [ACAPELLA SAMBAA](https://open.spotify.com/album/25MQUEbyfRXmgZjti3oqgp) | 3:43 | 2026-06-25 |  |
 | [Adada](https://open.spotify.com/track/57EcEfTJRQ2efmThNJ0l67) | [Pragathi Guruprasad](https://open.spotify.com/artist/1IMZlbjHW9DCrW6xbtjI6F) | [Adada](https://open.spotify.com/album/3dmuN6G2os1B5fZSGdBK6m) | 3:19 | 2025-03-28 | 2026-01-15 |
 | [Adada Amma](https://open.spotify.com/track/39aXi6kBNGjoVJNGyVPQyo) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Adada Amma](https://open.spotify.com/album/3ulTXAt4H5S2Cv8Mo7mGTk) | 2:44 | 2023-05-13 | 2023-08-17 |
 | [Adam Eval](https://open.spotify.com/track/71SDiDFntykPWQx6N5MS2K) | [Diwa FeF](https://open.spotify.com/artist/6jWkayv6uR1KpGlddlMHDX), [Parth Sapphire](https://open.spotify.com/artist/5m3eU2BVDTAKz6Lm9MBpDr), [Swetha](https://open.spotify.com/artist/2joP0Ctx0GWUJZvn1c5Jwq) | [Adam Eval](https://open.spotify.com/album/0pB5ro7PqwXNQjK1XJ10cP) | 4:03 | 2025-09-01 | 2026-01-22 |

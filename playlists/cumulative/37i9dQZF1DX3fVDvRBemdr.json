@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De nieuwste Hollands & Volkspop releases. Cover: Frans Duijts & Lange Frans",
+  "description": "De nieuwste Hollands & Volkspop releases. Cover: Yves Berendse",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -428,7 +428,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 197812,
       "name": "Alles Gaat Voorbij",
       "url": "https://open.spotify.com/track/3POH4BgyIbavWJuo4ehXZz"
@@ -561,6 +561,24 @@
     },
     {
       "album": {
+        "name": "Alles Uit Het Leven",
+        "url": "https://open.spotify.com/album/4oUd6BD5HnZ8y1YUZn01EX"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00f4me",
+          "url": "https://open.spotify.com/artist/5oFswemSXYTGDaghgbmE6y"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148084,
+      "name": "Alles Uit Het Leven",
+      "url": "https://open.spotify.com/track/2p14t5hB09pBTEjA64RGaT"
+    },
+    {
+      "album": {
         "name": "Alles Wat Ik Nodig Heb",
         "url": "https://open.spotify.com/album/53rNQnM2S0HETUAkYSkD9W"
       },
@@ -594,7 +612,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 187420,
       "name": "Alles Wat Ik Zoek",
       "url": "https://open.spotify.com/track/2cFuY8lgMNDh0UPqwSADJb"
@@ -2728,7 +2746,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 178000,
       "name": "De Warmte Van Je Hartstocht",
       "url": "https://open.spotify.com/track/5sPEcF6AdBLIkRwzLIxBK2"
@@ -2934,7 +2952,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 177133,
       "name": "Die Laatste",
       "url": "https://open.spotify.com/track/3V6uUu5t0xy29cpeNJ2ain"
@@ -3861,6 +3879,28 @@
     },
     {
       "album": {
+        "name": "Fi\u00ebsta Aan De Costa",
+        "url": "https://open.spotify.com/album/0VWHg9NNkhmp73iv6Usj6z"
+      },
+      "artists": [
+        {
+          "name": "Zero Zero Partycrowd",
+          "url": "https://open.spotify.com/artist/4ce06ptLztQRG2EDteTm9A"
+        },
+        {
+          "name": "Zanger Alex",
+          "url": "https://open.spotify.com/artist/7dX46liQvHKgYXekJTB2lO"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204571,
+      "name": "Fi\u00ebsta Aan De Costa",
+      "url": "https://open.spotify.com/track/67vsk6xOZgeoerAW0pKrPo"
+    },
+    {
+      "album": {
         "name": "Flamingo (Jij Bent Het Voor Mij)",
         "url": "https://open.spotify.com/album/0EfaQbxpGrpG4Cu0UxKA7y"
       },
@@ -3876,6 +3916,24 @@
       "duration_ms": 170555,
       "name": "Flamingo (Jij Bent Het Voor Mij)",
       "url": "https://open.spotify.com/track/2x5y65TCqOrDFiuDs7Kk7D"
+    },
+    {
+      "album": {
+        "name": "Fluitje",
+        "url": "https://open.spotify.com/album/79qI1DWt10mFqEfF0pWcIK"
+      },
+      "artists": [
+        {
+          "name": "Ray & Beer",
+          "url": "https://open.spotify.com/artist/3CA4JmxdhbaXZbbEq07TRt"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153106,
+      "name": "Fluitje",
+      "url": "https://open.spotify.com/track/7ng4v7Bi3YueGO4HhfwPNL"
     },
     {
       "album": {
@@ -4495,6 +4553,24 @@
     },
     {
       "album": {
+        "name": "Grote Vriend",
+        "url": "https://open.spotify.com/album/14kopE7Qg0KU3QBnw0vPob"
+      },
+      "artists": [
+        {
+          "name": "Chris De Roo",
+          "url": "https://open.spotify.com/artist/35yTVnduPxdG6QrkuFlmBt"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205423,
+      "name": "Grote Vriend",
+      "url": "https://open.spotify.com/track/5J6Em734K2GJydW55PnZZD"
+    },
+    {
+      "album": {
         "name": "Had Ik Je Maar Nooit Gezoend",
         "url": "https://open.spotify.com/album/1mnLAO80jDCQPD1jlWIxco"
       },
@@ -4506,7 +4582,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 134707,
       "name": "Had Ik Je Maar Nooit Gezoend",
       "url": "https://open.spotify.com/track/2hYoPlms8cBBt4AjM6LV3J"
@@ -4654,7 +4730,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 126489,
       "name": "Heerlijk",
       "url": "https://open.spotify.com/track/3uNLa5MkTaw3OdXWfXzgXZ"
@@ -6250,7 +6326,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 155000,
       "name": "In Die Zomernacht",
       "url": "https://open.spotify.com/track/1cas8ARFmuwXFYc8BhHDQp"
@@ -6647,6 +6723,24 @@
     },
     {
       "album": {
+        "name": "Je Windt Me Op",
+        "url": "https://open.spotify.com/album/6NXs9lSQNOKapI7VMP3qYW"
+      },
+      "artists": [
+        {
+          "name": "Jaman",
+          "url": "https://open.spotify.com/artist/6VIHmm4hJ3OG1yy9fGbECD"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163076,
+      "name": "Je Windt Me Op",
+      "url": "https://open.spotify.com/track/0iVe2BkBUCkdL2IehMUa9Q"
+    },
+    {
+      "album": {
         "name": "Turk Uit De Kroeg (Deluxe)",
         "url": "https://open.spotify.com/album/6qFHbFhVpNcZg5BDDlmumT"
       },
@@ -6662,6 +6756,36 @@
       "duration_ms": 199236,
       "name": "Je Ziet Me Morgenvroeg",
       "url": "https://open.spotify.com/track/4gC9aEz4Kd0OoRF5rstp3t"
+    },
+    {
+      "album": {
+        "name": "Jij Bent Alles",
+        "url": "https://open.spotify.com/album/2MxrSpr0y98d8Yo1W696SR"
+      },
+      "artists": [
+        {
+          "name": "Afro Bros",
+          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
+        },
+        {
+          "name": "John West",
+          "url": "https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy"
+        },
+        {
+          "name": "Billy Dans",
+          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
+        },
+        {
+          "name": "Monq",
+          "url": "https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149849,
+      "name": "Jij Bent Alles",
+      "url": "https://open.spotify.com/track/1zZjvCZIq6ed9BDyRcuIc6"
     },
     {
       "album": {
@@ -6832,7 +6956,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 218711,
       "name": "Jongen",
       "url": "https://open.spotify.com/track/0S5R3o6pU9RzoTaSxrz0HM"
@@ -8436,7 +8560,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 160000,
       "name": "Meer En Meer",
       "url": "https://open.spotify.com/track/3PDBPmDqDvzEIYB7ReFvrh"
@@ -8671,6 +8795,24 @@
     },
     {
       "album": {
+        "name": "Misschien Is Het Tijd",
+        "url": "https://open.spotify.com/album/4SyQopHqsRexQCsxaADSRa"
+      },
+      "artists": [
+        {
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177169,
+      "name": "Misschien Is Het Tijd",
+      "url": "https://open.spotify.com/track/0u0eIoOtfk3u7f6BNPJhWm"
+    },
+    {
+      "album": {
         "name": "Niet Voor Lief",
         "url": "https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi"
       },
@@ -8736,7 +8878,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 156726,
       "name": "More Amor Por Favor",
       "url": "https://open.spotify.com/track/0VPlYGFdJUcGtnniKAiKoa"
@@ -11099,6 +11241,24 @@
     },
     {
       "album": {
+        "name": "Van Top Tot Teen",
+        "url": "https://open.spotify.com/album/31PAbmWB4TSkjIbj8g8fUy"
+      },
+      "artists": [
+        {
+          "name": "Milan Verwoert",
+          "url": "https://open.spotify.com/artist/5SXqnKvLQhK6Phs2oDPX2d"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150351,
+      "name": "Van Top Tot Teen",
+      "url": "https://open.spotify.com/track/6Jk6LkLRzdHoLjuqRU8YER"
+    },
+    {
+      "album": {
         "name": "Vanaf Vandaag",
         "url": "https://open.spotify.com/album/3u4A88Em1cy0G9hReiFXAd"
       },
@@ -11803,6 +11963,24 @@
     },
     {
       "album": {
+        "name": "Waarom Mag Ik Mijn Kind Niet Zien?",
+        "url": "https://open.spotify.com/album/6ehKn4LH8dYLm3IJRoy6Ek"
+      },
+      "artists": [
+        {
+          "name": "Dennis Jones",
+          "url": "https://open.spotify.com/artist/1yX3XZMzhkLPR66FrbG5o2"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Waarom Mag Ik Mijn Kind Niet Zien?",
+      "url": "https://open.spotify.com/track/693gX8ZhCvrTvv1mLufTlt"
+    },
+    {
+      "album": {
         "name": "Waarom Nou Niet (Kleuren)",
         "url": "https://open.spotify.com/album/44thAf5VLWaQSYiEKpEZeA"
       },
@@ -12346,6 +12524,24 @@
       "duration_ms": 174373,
       "name": "Weet jij nog hoe het was",
       "url": "https://open.spotify.com/track/3qQsJqa5pEgTYqB1q1bXQz"
+    },
+    {
+      "album": {
+        "name": "Weet Wat Je Begint 2.0",
+        "url": "https://open.spotify.com/album/55X4ZpJx6qXdMjWcuOlAB0"
+      },
+      "artists": [
+        {
+          "name": "John West",
+          "url": "https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191280,
+      "name": "Weet Wat Je Begint 2.0",
+      "url": "https://open.spotify.com/track/5kslScjYuKwpoI5MvkUsI7"
     },
     {
       "album": {

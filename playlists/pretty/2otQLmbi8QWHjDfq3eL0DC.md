@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 
 > The hottest House Music of 2026! This electrifying House playlist features the biggest Dance Hits &amp; future anthems from David Guetta, Fred again.., Sonny Fodera, &amp; Prospa\. Dive into pulsating beats, fresh grooves, and an unforgettable vibe\. Uprdated Weekly! Like &amp; Save for your next dance session!
 
-[Topsify](https://open.spotify.com/user/topsify) - 1,312,870 likes - 100 songs - 5 hr 4 min
+[Topsify](https://open.spotify.com/user/topsify) - 1,312,892 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

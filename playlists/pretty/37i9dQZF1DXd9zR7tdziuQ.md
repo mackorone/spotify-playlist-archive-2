@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9zR7tdziuQ.md) - [plain]
 
 > Relájate con tus canciones favoritas en versión acústica / Descontrai com versões acústicas das tuas músicas preferidas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 965,131 likes - 150 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 965,161 likes - 150 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9zR7tdziuQ.md) - [plain]
 | 92 | [Closer](https://open.spotify.com/track/4JrV4NJ4ChSoxBTEIb0D7F) | [Tore](https://open.spotify.com/artist/1GZrKwVL73MyDEr4bR9sRk) | [Closer](https://open.spotify.com/album/3AkgNcAjPBlz6PGzgHpDYU) | 4:05 |
 | 93 | [Perfect Strangers \- Acoustic](https://open.spotify.com/track/5AFMjlqAA0skXGqZHGZDxt) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Perfect Strangers \(Acoustic\)](https://open.spotify.com/album/2rJ9hhlOmZZvQfXVGMrmUK) | 3:11 |
 | 94 | [Lot To Learn](https://open.spotify.com/track/1AJRWM34yxnAxhF9TEK0Zj) | [Vivid Color](https://open.spotify.com/artist/4qXCADLD9pMWPUkOBCLQ9H) | [Lot To Learn](https://open.spotify.com/album/1a3QdHnxI3svymN9NZyyxl) | 3:46 |
-| 95 | [High and Dry](https://open.spotify.com/track/5jUExRL4pCNDYPz9qzzK2F) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [High and Dry](https://open.spotify.com/album/6O8BafrfHOLH6V2v3dsPV2) | 4:09 |
-| 96 | [Thunder](https://open.spotify.com/track/0rRtQsqQAaS45dgHfd8t1l) | [The Freed](https://open.spotify.com/artist/1kU8z1cAsNbINQt3ZyFka8) | [Thunder](https://open.spotify.com/album/0yCicHSIShiIcJLkpyxKIC) | 3:24 |
+| 95 | [Thunder](https://open.spotify.com/track/0rRtQsqQAaS45dgHfd8t1l) | [The Freed](https://open.spotify.com/artist/1kU8z1cAsNbINQt3ZyFka8) | [Thunder](https://open.spotify.com/album/0yCicHSIShiIcJLkpyxKIC) | 3:24 |
+| 96 | [High and Dry](https://open.spotify.com/track/5jUExRL4pCNDYPz9qzzK2F) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [High and Dry](https://open.spotify.com/album/6O8BafrfHOLH6V2v3dsPV2) | 4:09 |
 | 97 | [New Rules](https://open.spotify.com/track/2xugNZzWFJVQB54PS5XnG2) | [Becca Adams](https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb) | [New Rules](https://open.spotify.com/album/6jBrihWQmJCl81kuNQS3pE) | 3:47 |
 | 98 | [Hello](https://open.spotify.com/track/5mCLi8QdP2d9EoSIEoO8jX) | [Erato](https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o) | [Hello \(Adele Cover\)](https://open.spotify.com/album/0A6U4HudXB9ZDv3y1Y44qW) | 3:50 |
 | 99 | [Think Before I Talk \- Acoustic](https://open.spotify.com/track/0xr4LgYImMBZL3lnniYzHv) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Think Before I Talk \(Acoustic\)](https://open.spotify.com/album/4xBuuPBwFuPxv8sZNMqeVT) | 3:37 |

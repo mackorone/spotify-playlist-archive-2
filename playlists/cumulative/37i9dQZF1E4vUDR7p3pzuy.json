@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With David Von Beahm, MIK's Reaction, JUST LIZZY and more",
+  "description": "With David Von Beahm, MIK's Reaction, photophor and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -692,6 +692,24 @@
       "duration_ms": 228000,
       "name": "All-Inclusive",
       "url": "https://open.spotify.com/track/5a2DObmVugouqxO7UM7A2R"
+    },
+    {
+      "album": {
+        "name": "Alone It's Hard To Pay The Bill",
+        "url": "https://open.spotify.com/album/0PCtS1GYPaHogeEObtJL6F"
+      },
+      "artists": [
+        {
+          "name": "Simone Vignini",
+          "url": "https://open.spotify.com/artist/2nJ85JfXrhJCBmEhkGlMaU"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261355,
+      "name": "Alone It's Hard To Pay The Bill",
+      "url": "https://open.spotify.com/track/47SQWSn1lewOCYMV83uBBA"
     },
     {
       "album": {
@@ -1603,6 +1621,24 @@
     },
     {
       "album": {
+        "name": "Neon Goth",
+        "url": "https://open.spotify.com/album/5EHze2EAC6CDUxqGgX3cib"
+      },
+      "artists": [
+        {
+          "name": "William Bleak",
+          "url": "https://open.spotify.com/artist/6BClTpfV8cDCoUeRj9IHSF"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221818,
+      "name": "Bitter Ends",
+      "url": "https://open.spotify.com/track/77JvSnf7TKr6ZqTxJKCP9a"
+    },
+    {
+      "album": {
         "name": "When I Die",
         "url": "https://open.spotify.com/album/6KnUQkIUSSoAjUJG2Q7VsZ"
       },
@@ -2184,7 +2220,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-25",
+      "date_removed": null,
       "duration_ms": 264623,
       "name": "Caesar (I'll Haunt You Now)",
       "url": "https://open.spotify.com/track/4aSxg19eWsCun6tyzrYeWP"
@@ -2482,6 +2518,24 @@
       "duration_ms": 316000,
       "name": "Cernunnos",
       "url": "https://open.spotify.com/track/2uXYysXNoU93w1ZDScIqBr"
+    },
+    {
+      "album": {
+        "name": "Change to Come",
+        "url": "https://open.spotify.com/album/4wPFsOvuo74D8VzZXvD9qV"
+      },
+      "artists": [
+        {
+          "name": "Broken Star",
+          "url": "https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255518,
+      "name": "Change to Come",
+      "url": "https://open.spotify.com/track/6aNZDp42UUWGGJZLVRy4Ja"
     },
     {
       "album": {
@@ -2796,7 +2850,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 196447,
       "name": "Cold Sweats",
       "url": "https://open.spotify.com/track/4xAbFkGcPhdws0Xu3lCYhG"
@@ -2940,7 +2994,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-25",
+      "date_removed": null,
       "duration_ms": 221679,
       "name": "contact",
       "url": "https://open.spotify.com/track/4huCxiN2GsEG6mY6yb73ih"
@@ -3925,6 +3979,28 @@
     },
     {
       "album": {
+        "name": "devotion",
+        "url": "https://open.spotify.com/album/65FKdUj88pkl3nebCLubUu"
+      },
+      "artists": [
+        {
+          "name": "DooM",
+          "url": "https://open.spotify.com/artist/2LuNaR97yWCA0sTlD97ic6"
+        },
+        {
+          "name": "Anphz",
+          "url": "https://open.spotify.com/artist/04xFWPQhzOV3TSiPvuRn6c"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206896,
+      "name": "devotion",
+      "url": "https://open.spotify.com/track/6DQU9ojClpHHDMq968QpTO"
+    },
+    {
+      "album": {
         "name": "Diamond Dust",
         "url": "https://open.spotify.com/album/4z3rc3W4CbW3jks9iOIY5n"
       },
@@ -4876,7 +4952,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 161800,
       "name": "Factory",
       "url": "https://open.spotify.com/track/6Pq6iVSIIK8O5UFMs5d2uk"
@@ -5006,7 +5082,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 248956,
       "name": "Falling Stars",
       "url": "https://open.spotify.com/track/1h89xz80g5LZIvnteTPHpS"
@@ -5024,7 +5100,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-23",
+      "date_removed": null,
       "duration_ms": 276372,
       "name": "Family",
       "url": "https://open.spotify.com/track/23Sm5nJOPTD0uXvVE7xu0H"
@@ -5728,7 +5804,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 205511,
       "name": "Gatekeep",
       "url": "https://open.spotify.com/track/3orrNzd0iaBzpdtFWjeA6t"
@@ -6264,7 +6340,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 226480,
       "name": "hands on the board",
       "url": "https://open.spotify.com/track/6FSTmhKIgmqjQmZ48ZEHm7"
@@ -7646,7 +7722,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 102000,
       "name": "Introspace",
       "url": "https://open.spotify.com/track/0QxlmbihCqm77TlKAKdE7T"
@@ -8628,7 +8704,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 253020,
       "name": "Lich Tree",
       "url": "https://open.spotify.com/track/7vWC17XPCeimJ5YuN99EyD"
@@ -9229,6 +9305,28 @@
     },
     {
       "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/7CjRGMD9sI1OQNJt4iVXTK"
+      },
+      "artists": [
+        {
+          "name": "Steve Peacock",
+          "url": "https://open.spotify.com/artist/2CFwobC31DUZ7qlkxzvxew"
+        },
+        {
+          "name": "MIK's Reaction",
+          "url": "https://open.spotify.com/artist/0LS00Hi5R6PcZ9mfPTjSMg"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247994,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/5TuY7LoTVng1mXt9yDYbZt"
+    },
+    {
+      "album": {
         "name": "Men Putting Words in the Mouths of Gods (Judas and the Pilot Remix)",
         "url": "https://open.spotify.com/album/2DLxnzMFqSUZCG8TCevIOr"
       },
@@ -9598,7 +9696,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 164211,
       "name": "Monotonous",
       "url": "https://open.spotify.com/track/68pn74k7l0uzWA3vbm2PCd"
@@ -10418,7 +10516,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 268500,
       "name": "Once and Once Again",
       "url": "https://open.spotify.com/track/3eniaJ714Mz0wGC91ZYwpy"
@@ -13866,7 +13964,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 152000,
       "name": "Takin' Out The Trash",
       "url": "https://open.spotify.com/track/4ssET8R9IELNKsXXHkbMil"
@@ -15293,6 +15391,24 @@
     },
     {
       "album": {
+        "name": "To Follow",
+        "url": "https://open.spotify.com/album/15bnBk28e16Q5RG6KS0U72"
+      },
+      "artists": [
+        {
+          "name": "Hermosa Mitchell",
+          "url": "https://open.spotify.com/artist/2SOxEoUXFL56w6RRz0iAB3"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242973,
+      "name": "To Follow",
+      "url": "https://open.spotify.com/track/6rIQbbnOzzhqvSRKvmTXq1"
+    },
+    {
+      "album": {
         "name": "To Nothing",
         "url": "https://open.spotify.com/album/014766IfNR7l5ANwajU1CZ"
       },
@@ -16196,7 +16312,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 202161,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/4PLqGD2llx4nzL54JDmKSU"
@@ -16254,6 +16370,24 @@
       "duration_ms": 125904,
       "name": "Wall",
       "url": "https://open.spotify.com/track/5Tze56bV33Ad4MGmEGFFSB"
+    },
+    {
+      "album": {
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/5TMzEVsFnmc7ijSq1fs7rT"
+      },
+      "artists": [
+        {
+          "name": "Hagemann",
+          "url": "https://open.spotify.com/artist/5snFYmXyP3zLFZ833UHtfV"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216315,
+      "name": "Wanderlust",
+      "url": "https://open.spotify.com/track/5NHyCuTxgo9P49EL7cy5kg"
     },
     {
       "album": {
@@ -16600,7 +16734,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-25",
+      "date_removed": null,
       "duration_ms": 276307,
       "name": "When Only Memories Remain",
       "url": "https://open.spotify.com/track/01iq31HQZOdD7ZmUtpOBOu"

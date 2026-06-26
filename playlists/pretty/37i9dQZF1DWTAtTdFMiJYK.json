@@ -1,6 +1,6 @@
 {
   "description": "Most exciting artists from the Indian Indie scene. Cover: JBABE",
-  "num_followers": 193754,
+  "num_followers": 193797,
   "original_name": "RADAR India",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,26 @@
     {
       "added_at": "2026-06-19 05:52:28",
       "album": {
+        "name": "Jaadugari",
+        "url": "https://open.spotify.com/album/5sPUfdDzhZ6CC4umEbHJD8"
+      },
+      "artists": [
+        {
+          "name": "maahi",
+          "url": "https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV"
+        },
+        {
+          "name": "Shayra Apoorva",
+          "url": "https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8"
+        }
+      ],
+      "duration_ms": 153882,
+      "name": "Jaadugari",
+      "url": "https://open.spotify.com/track/01JcMZVoGUIWpCacWTiJzb"
+    },
+    {
+      "added_at": "2026-06-19 05:52:28",
+      "album": {
         "name": "Tu Chodiyon Na",
         "url": "https://open.spotify.com/album/1DdgnxCTXd5ggIFAy3TtHe"
       },
@@ -671,26 +691,6 @@
       "duration_ms": 178421,
       "name": "Khwaab",
       "url": "https://open.spotify.com/track/0iEdt7cayQ2XbicDeWFztj"
-    },
-    {
-      "added_at": "2026-06-19 05:52:28",
-      "album": {
-        "name": "Jaadugari",
-        "url": "https://open.spotify.com/album/5sPUfdDzhZ6CC4umEbHJD8"
-      },
-      "artists": [
-        {
-          "name": "maahi",
-          "url": "https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV"
-        },
-        {
-          "name": "Shayra Apoorva",
-          "url": "https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8"
-        }
-      ],
-      "duration_ms": 153882,
-      "name": "Jaadugari",
-      "url": "https://open.spotify.com/track/01JcMZVoGUIWpCacWTiJzb"
     },
     {
       "added_at": "2026-06-19 05:52:28",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2026-06-19 05:52:28",
       "album": {
-        "name": "Saanware Aijaiyo",
-        "url": "https://open.spotify.com/album/5k7KeArB1J9JPCRC12Xz7j"
-      },
-      "artists": [
-        {
-          "name": "Kavita Seth",
-          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
-        },
-        {
-          "name": "Kanishk Seth",
-          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
-        }
-      ],
-      "duration_ms": 234713,
-      "name": "Saanware Aijaiyo",
-      "url": "https://open.spotify.com/track/2uDeh0ImYtWkYSPjrX77gb"
-    },
-    {
-      "added_at": "2026-06-19 05:52:28",
-      "album": {
         "name": "Le Jaa",
         "url": "https://open.spotify.com/album/0imiHfsNmizV0OaVJOYCdA"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 154015,
       "name": "Le Jaa",
       "url": "https://open.spotify.com/track/1JdphOaJPSdVoGTtilQ4Pr"
+    },
+    {
+      "added_at": "2026-06-19 05:52:28",
+      "album": {
+        "name": "Saanware Aijaiyo",
+        "url": "https://open.spotify.com/album/5k7KeArB1J9JPCRC12Xz7j"
+      },
+      "artists": [
+        {
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        },
+        {
+          "name": "Kanishk Seth",
+          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
+        }
+      ],
+      "duration_ms": 234713,
+      "name": "Saanware Aijaiyo",
+      "url": "https://open.spotify.com/track/2uDeh0ImYtWkYSPjrX77gb"
     },
     {
       "added_at": "2026-06-19 05:52:28",

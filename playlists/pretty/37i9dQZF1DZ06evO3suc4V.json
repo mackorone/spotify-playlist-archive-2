@@ -1,12 +1,12 @@
 {
   "description": "This is Ravyn Lenae. The essential tracks, all in one playlist.",
-  "num_followers": 10809,
+  "num_followers": 10817,
   "original_name": "This Is Ravyn Lenae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajnMgAAAAABhFz7PsPThzwcdZpzZR2jf",
+  "snapshot_id": "ajseAAAAAABc+MvYAnDg55z3hYh40c1B",
   "tracks": [
     {
       "added_at": null,
@@ -879,26 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rewind (from Insecure: Music From The HBO Original Series, Season 4)",
-        "url": "https://open.spotify.com/album/1zmUyVNNiF8vTkV4L98n7G"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Raedio",
-          "url": "https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD"
-        }
-      ],
-      "duration_ms": 153133,
-      "name": "Rewind (from Insecure: Music From The HBO Original Series, Season 4)",
-      "url": "https://open.spotify.com/track/0OZieZaaIuwudxctCijFnY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soulection White Label - Monte Booker",
         "url": "https://open.spotify.com/album/6bzDf8hYZbCuwjLoEPRvtE"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 186647,
       "name": "Baby",
       "url": "https://open.spotify.com/track/1AQtWYUKvPw5wYThfi5Uyo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rewind (from Insecure: Music From The HBO Original Series, Season 4)",
+        "url": "https://open.spotify.com/album/1zmUyVNNiF8vTkV4L98n7G"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Raedio",
+          "url": "https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD"
+        }
+      ],
+      "duration_ms": 153133,
+      "name": "Rewind (from Insecure: Music From The HBO Original Series, Season 4)",
+      "url": "https://open.spotify.com/track/0OZieZaaIuwudxctCijFnY"
     },
     {
       "added_at": null,

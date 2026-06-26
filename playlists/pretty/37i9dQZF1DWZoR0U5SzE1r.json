@@ -1,6 +1,6 @@
 {
   "description": "Continue giving God praise with these classic worship songs! Cover: Chris Tomlin",
-  "num_followers": 421608,
+  "num_followers": 421753,
   "original_name": "Worship Classics",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,22 @@
     {
       "added_at": "2026-05-14 05:42:21",
       "album": {
+        "name": "Beautiful Offerings (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 306253,
+      "name": "The Lion and the Lamb",
+      "url": "https://open.spotify.com/track/2FJYXPlTmFPAjTwPS1bMnw"
+    },
+    {
+      "added_at": "2026-05-14 05:42:21",
+      "album": {
         "name": "SEVEN (Live)",
         "url": "https://open.spotify.com/album/6ZVXKVGiyL96L6pflgfWrt"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 283964,
       "name": "Honey In The Rock - Live",
       "url": "https://open.spotify.com/track/06EzKxIt7WUokYpkitiIK2"
-    },
-    {
-      "added_at": "2026-05-14 05:42:21",
-      "album": {
-        "name": "Beautiful Offerings (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 306253,
-      "name": "The Lion and the Lamb",
-      "url": "https://open.spotify.com/track/2FJYXPlTmFPAjTwPS1bMnw"
     },
     {
       "added_at": "2026-05-14 05:42:21",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-05-14 05:42:21",
       "album": {
-        "name": "Age To Age",
-        "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 248346,
-      "name": "El-Shaddai",
-      "url": "https://open.spotify.com/track/7rJlIt0X1SZXLyCNOerJWu"
-    },
-    {
-      "added_at": "2026-05-14 05:42:21",
-      "album": {
         "name": "I Could Sing Of Your Love Forever",
         "url": "https://open.spotify.com/album/1N4SEbCsk8vN2IqcSsmRZo"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 332947,
       "name": "I Could Sing Of Your Love Forever",
       "url": "https://open.spotify.com/track/7Io7LHGjDTNKnphYlB1SPN"
+    },
+    {
+      "added_at": "2026-05-14 05:42:21",
+      "album": {
+        "name": "Age To Age",
+        "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 248346,
+      "name": "El-Shaddai",
+      "url": "https://open.spotify.com/track/7rJlIt0X1SZXLyCNOerJWu"
     },
     {
       "added_at": "2026-05-14 05:42:21",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2026-05-14 05:42:21",
       "album": {
-        "name": "Faithful God",
-        "url": "https://open.spotify.com/album/3DytmYZJbUkgCtRyBtkpf7"
-      },
-      "artists": [
-        {
-          "name": "I AM THEY",
-          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
-        }
-      ],
-      "duration_ms": 210013,
-      "name": "Faithful God",
-      "url": "https://open.spotify.com/track/5YcgWiIj7woRmQQMXDjQ7H"
-    },
-    {
-      "added_at": "2026-05-14 05:42:21",
-      "album": {
         "name": "Just Be",
         "url": "https://open.spotify.com/album/3HHaO3Bpaf6UEt225M55Us"
       },
@@ -1715,6 +1699,22 @@
     {
       "added_at": "2026-05-14 05:42:21",
       "album": {
+        "name": "Faithful God",
+        "url": "https://open.spotify.com/album/3DytmYZJbUkgCtRyBtkpf7"
+      },
+      "artists": [
+        {
+          "name": "I AM THEY",
+          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
+        }
+      ],
+      "duration_ms": 210013,
+      "name": "Faithful God",
+      "url": "https://open.spotify.com/track/5YcgWiIj7woRmQQMXDjQ7H"
+    },
+    {
+      "added_at": "2026-05-14 05:42:21",
+      "album": {
         "name": "Here (Live)",
         "url": "https://open.spotify.com/album/7sOLny4qMMkbLOxfvflwQ8"
       },
@@ -1727,22 +1727,6 @@
       "duration_ms": 358440,
       "name": "Love Changes Everything (Live)",
       "url": "https://open.spotify.com/track/05OrXppgIcMhLaiNthwiMk"
-    },
-    {
-      "added_at": "2026-05-14 05:42:21",
-      "album": {
-        "name": "God's Not Dead",
-        "url": "https://open.spotify.com/album/7Csd473gctS7rL0YUhjlkX"
-      },
-      "artists": [
-        {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
-        }
-      ],
-      "duration_ms": 258453,
-      "name": "God's Not Dead (Like A Lion)",
-      "url": "https://open.spotify.com/track/0eI19vR5WZ12fuYcEFUVkw"
     },
     {
       "added_at": "2026-05-14 05:42:21",
@@ -1779,6 +1763,22 @@
       "duration_ms": 400000,
       "name": "Canvas And Clay - Live",
       "url": "https://open.spotify.com/track/4Woit6kXxixnS2jduLUcy4"
+    },
+    {
+      "added_at": "2026-05-14 05:42:21",
+      "album": {
+        "name": "God's Not Dead",
+        "url": "https://open.spotify.com/album/7Csd473gctS7rL0YUhjlkX"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "duration_ms": 258453,
+      "name": "God's Not Dead (Like A Lion)",
+      "url": "https://open.spotify.com/track/0eI19vR5WZ12fuYcEFUVkw"
     },
     {
       "added_at": "2026-05-14 05:42:21",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2026-05-14 05:42:21",
       "album": {
-        "name": "Death Of Death",
-        "url": "https://open.spotify.com/album/1KFDY2EV313IlVsAiQJQ1C"
-      },
-      "artists": [
-        {
-          "name": "Life.Church Worship",
-          "url": "https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Where The Spirit Of The Lord Is",
-      "url": "https://open.spotify.com/track/7aEJ4hXCfjeWO2zq4tyCT9"
-    },
-    {
-      "added_at": "2026-05-14 05:42:21",
-      "album": {
         "name": "Fill This Place (Studio Version)",
         "url": "https://open.spotify.com/album/0TOI6K9V6PcAGj3cqs1wLS"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 225333,
       "name": "Fill This Place (Studio Version)",
       "url": "https://open.spotify.com/track/6tjlnYnGQRq7YgGBnEBv7K"
+    },
+    {
+      "added_at": "2026-05-14 05:42:21",
+      "album": {
+        "name": "Death Of Death",
+        "url": "https://open.spotify.com/album/1KFDY2EV313IlVsAiQJQ1C"
+      },
+      "artists": [
+        {
+          "name": "Life.Church Worship",
+          "url": "https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Where The Spirit Of The Lord Is",
+      "url": "https://open.spotify.com/track/7aEJ4hXCfjeWO2zq4tyCT9"
     },
     {
       "added_at": "2026-05-14 05:42:21",
@@ -2376,13 +2376,17 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+          "name": "Brian Johnson",
+          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
         }
       ],
-      "duration_ms": 526890,
-      "name": "Champion - Live",
-      "url": "https://open.spotify.com/track/2YRx8jviX9HnvxD0uDIOma"
+      "duration_ms": 515387,
+      "name": "God of Revival - Live",
+      "url": "https://open.spotify.com/track/6r0WuK50Lpu9u460x84oBn"
     },
     {
       "added_at": "2026-05-14 05:42:21",
@@ -2443,18 +2447,18 @@
     {
       "added_at": "2026-05-14 05:42:21",
       "album": {
-        "name": "Let the Praises Ring: The Best of Lincoln Brewster",
-        "url": "https://open.spotify.com/album/4YI4aVaQzJhT9XZdLpPBHE"
+        "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0"
       },
       "artists": [
         {
-          "name": "Lincoln Brewster",
-          "url": "https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1"
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 287434,
-      "name": "Everlasting God",
-      "url": "https://open.spotify.com/track/6eYawsVsCvja8wXmcshtdI"
+      "duration_ms": 259293,
+      "name": "How Can It Be",
+      "url": "https://open.spotify.com/track/2JEcE2v4tOpKzVZFjpLR59"
     },
     {
       "added_at": "2026-05-14 05:42:21",
@@ -2468,33 +2472,29 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Brian Johnson",
-          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
-        },
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
         }
       ],
-      "duration_ms": 515387,
-      "name": "God of Revival - Live",
-      "url": "https://open.spotify.com/track/6r0WuK50Lpu9u460x84oBn"
+      "duration_ms": 526890,
+      "name": "Champion - Live",
+      "url": "https://open.spotify.com/track/2YRx8jviX9HnvxD0uDIOma"
     },
     {
       "added_at": "2026-05-14 05:42:21",
       "album": {
-        "name": "How Can It Be",
-        "url": "https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0"
+        "name": "Let the Praises Ring: The Best of Lincoln Brewster",
+        "url": "https://open.spotify.com/album/4YI4aVaQzJhT9XZdLpPBHE"
       },
       "artists": [
         {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+          "name": "Lincoln Brewster",
+          "url": "https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1"
         }
       ],
-      "duration_ms": 259293,
-      "name": "How Can It Be",
-      "url": "https://open.spotify.com/track/2JEcE2v4tOpKzVZFjpLR59"
+      "duration_ms": 287434,
+      "name": "Everlasting God",
+      "url": "https://open.spotify.com/track/6eYawsVsCvja8wXmcshtdI"
     },
     {
       "added_at": "2026-05-14 05:42:21",
@@ -2579,18 +2579,18 @@
     {
       "added_at": "2026-05-14 05:42:21",
       "album": {
-        "name": "Kari Jobe",
-        "url": "https://open.spotify.com/album/43qobCIpLpsxshjc7PbAXb"
+        "name": "In Jesus Name (God Of Possible)",
+        "url": "https://open.spotify.com/album/6O6M9RO7S8AztEGAYKvD5T"
       },
       "artists": [
         {
-          "name": "Kari Jobe Carnes",
-          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
+          "name": "Katy Nichole",
+          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
         }
       ],
-      "duration_ms": 361386,
-      "name": "Revelation Song",
-      "url": "https://open.spotify.com/track/3pZVH0mPC6fxtmjOT0i9t5"
+      "duration_ms": 222039,
+      "name": "In Jesus Name (God Of Possible)",
+      "url": "https://open.spotify.com/track/6Srgw41KlTpWtu5hbEKeja"
     },
     {
       "added_at": "2026-05-14 05:42:21",
@@ -2631,18 +2631,18 @@
     {
       "added_at": "2026-05-14 05:42:21",
       "album": {
-        "name": "In Jesus Name (God Of Possible)",
-        "url": "https://open.spotify.com/album/6O6M9RO7S8AztEGAYKvD5T"
+        "name": "Kari Jobe",
+        "url": "https://open.spotify.com/album/43qobCIpLpsxshjc7PbAXb"
       },
       "artists": [
         {
-          "name": "Katy Nichole",
-          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
+          "name": "Kari Jobe Carnes",
+          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
         }
       ],
-      "duration_ms": 222039,
-      "name": "In Jesus Name (God Of Possible)",
-      "url": "https://open.spotify.com/track/6Srgw41KlTpWtu5hbEKeja"
+      "duration_ms": 361386,
+      "name": "Revelation Song",
+      "url": "https://open.spotify.com/track/3pZVH0mPC6fxtmjOT0i9t5"
     },
     {
       "added_at": "2026-05-14 05:42:21",

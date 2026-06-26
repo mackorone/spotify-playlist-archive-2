@@ -207,6 +207,28 @@
     },
     {
       "album": {
+        "name": "Monday Kiz's Footprints Vol.3 With Lee Hong Gi (FT Island)",
+        "url": "https://open.spotify.com/album/4ZXj9cKzcIwvWeeF9q1L2M"
+      },
+      "artists": [
+        {
+          "name": "Monday Kiz",
+          "url": "https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD"
+        },
+        {
+          "name": "LEE HONG GI",
+          "url": "https://open.spotify.com/artist/6sLiM3MFm3Yzd0JwELsAG4"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310213,
+      "name": "A Person Closer to Tears (2026)",
+      "url": "https://open.spotify.com/track/6jVVRZdkLkT4jcW4Wc8eDo"
+    },
+    {
+      "album": {
         "name": "A Song For You",
         "url": "https://open.spotify.com/album/284ZHwShyBT7ao6gl8S2pe"
       },
@@ -4260,7 +4282,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 224480,
       "name": "I Can't Help It (Prod. Jungkey)",
       "url": "https://open.spotify.com/track/60lbmSHbESKwdX4v43CxgV"
@@ -8229,6 +8251,24 @@
     },
     {
       "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/7rGcnNoG09g5Meje4gPrwN"
+      },
+      "artists": [
+        {
+          "name": "RYEOWOOK",
+          "url": "https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/2oqZ4QuvbLyNwZ5H9FzzW1"
+    },
+    {
+      "album": {
         "name": "Say goodbye for no reason",
         "url": "https://open.spotify.com/album/69rwgUoFeUWO9MldOT5MVn"
       },
@@ -9394,7 +9434,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 244173,
       "name": "The Eternal Moment",
       "url": "https://open.spotify.com/track/3K7dk2oIAmxJnhv8i24ak8"

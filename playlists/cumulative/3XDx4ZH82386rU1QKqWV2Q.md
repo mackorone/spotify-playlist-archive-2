@@ -4,7 +4,7 @@
 
 > powered by www.releasejet.ai most popular tiktok phonk \- best phonk 2026 \-  viral phonk \- viral sigma \- best sigma male \- sigma workout \- sad sigma songs
 
-828 songs - 1 day 12 hr 49 min
+829 songs - 1 day 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [Heat](https://open.spotify.com/track/3o9bDCIaroPNmtN6KjzYp6) | [Cannibal Empire](https://open.spotify.com/artist/3EUOnh9WkE0Vjpz3HI5YLR) | [Heat](https://open.spotify.com/album/4T8Bxju4tmwHtvZQvxeISI) | 2:35 | 2025-01-13 | 2025-04-18 |
 | [Heathens](https://open.spotify.com/track/4xLy45p5uSzyI3NJiELCjF) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Heathens](https://open.spotify.com/album/52erOI6gpG9EKrCKPN4IFT) | 3:12 | 2023-06-20 | 2023-09-26 |
 | [Heavy Metal](https://open.spotify.com/track/5dCLy5hI2WBVJBNDrxS5hM) | [Dream Quest](https://open.spotify.com/artist/7ECgCKfFgaquWAbCQGtCzu) | [Nightmare and the Dream, Pt\. 1](https://open.spotify.com/album/0bY8OSKEJqfCmPb9josFsN) | 4:12 | 2024-06-17 | 2024-12-18 |
+| [Heavy Metal](https://open.spotify.com/track/02Nr7ADTrZAkF6Jg8eiA7r) | [Hell of a Nite](https://open.spotify.com/artist/6pB9rUyXInuQ2Nf3NnJI7I) | [Heavy Metal](https://open.spotify.com/album/7iu9bIgtExczJZPloO4Za6) | 4:13 | 2026-06-25 |  |
 | [Hell of a Dive](https://open.spotify.com/track/4imwcMisgsK4Vh0yiZ1myF) | [Tannhäuser Gate](https://open.spotify.com/artist/16oRxqB7cGZgjQVOKB4mok) | [Hell of a Dive](https://open.spotify.com/album/1j2KELAhJNhy3vlz9lTLhn) | 2:22 | 2024-08-28 | 2024-12-18 |
 | [Hell To Ascend](https://open.spotify.com/track/4fbJi65jCwaMi4Xs5ZNAri) | [Ezediel](https://open.spotify.com/artist/0tBnlyWLId05SAbBCkE1EY) | [Hell To Ascend](https://open.spotify.com/album/68txpz9LvmBgNq7Sfb0U8W) | 2:29 | 2023-06-12 | 2025-08-22 |
 | [HellHarvest](https://open.spotify.com/track/69bcp5TAVUdO7jDBEVWwUn) | [Velocity.Vampires](https://open.spotify.com/artist/5KYgHoq4Fn7BvuJ0jlD1GK) | [HellHarvest](https://open.spotify.com/album/4eJVL9U8b7lPv1uuHUw5qK) | 3:50 | 2023-07-02 | 2023-08-06 |

@@ -4090,7 +4090,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-25",
+      "date_removed": null,
       "duration_ms": 306477,
       "name": "B\u1ea1n \u0110\u1eddi",
       "url": "https://open.spotify.com/track/0fGJiHH6xSUJU1MAVjxq5m"
@@ -4818,7 +4818,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 208048,
       "name": "Chuy\u1ec7n \u0110\u00f4i Ta (feat. Mu\u1ed9ii)",
       "url": "https://open.spotify.com/track/4CUvVaAYuXtvYURLFz7EIL"
@@ -23998,7 +23998,7 @@
       ],
       "date_added": "2021-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-22",
+      "date_removed": null,
       "duration_ms": 247058,
       "name": "S\u00e0i G\u00f2n H\u00f4m Nay M\u01b0a",
       "url": "https://open.spotify.com/track/1xoadYaxtOp9gHDwgmPDuz"
@@ -27166,7 +27166,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 269473,
       "name": "T\u1eebng L\u00e0 C\u1ee7a Nhau",
       "url": "https://open.spotify.com/track/5KYv3kORBKUmVEoqbRRWxt"
@@ -28514,7 +28514,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
@@ -28790,7 +28790,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-03",
+      "date_removed": null,
       "duration_ms": 211200,
       "name": "Wrong Times",
       "url": "https://open.spotify.com/track/6n2xOcqQrNOY0IfgATSwWs"
@@ -30122,7 +30122,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 261105,
       "name": "\u0110\u00e3 L\u1ee1 Y\u00eau Em Nhi\u1ec1u",
       "url": "https://open.spotify.com/track/3J3nv18iIrOhca1ZWNeuyW"
@@ -30212,6 +30212,28 @@
       "duration_ms": 267272,
       "name": "\u0110\u00f4i Mi Em \u0110ang U S\u1ea7u",
       "url": "https://open.spotify.com/track/0TAEZOaoZx5LBXEkePNrt4"
+    },
+    {
+      "album": {
+        "name": "\u00c1NH S\u00c1NG \u2022 M\u00c0N \u0110\u00caM",
+        "url": "https://open.spotify.com/album/6k7nuWjzJRXCxolrOr56C0"
+      },
+      "artists": [
+        {
+          "name": "GREY D",
+          "url": "https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV"
+        },
+        {
+          "name": "MIN",
+          "url": "https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198145,
+      "name": "\u0111\u00f4i m\u1eaft k\u1ebb t\u00ecnh si",
+      "url": "https://open.spotify.com/track/1ordU9Ts6JNRalwVoXgJd6"
     },
     {
       "album": {

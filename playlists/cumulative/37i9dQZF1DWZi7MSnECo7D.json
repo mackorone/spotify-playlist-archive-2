@@ -1207,6 +1207,24 @@
     },
     {
       "album": {
+        "name": "Animais",
+        "url": "https://open.spotify.com/album/5JqhYaTwY5FlU6WyXv87XT"
+      },
+      "artists": [
+        {
+          "name": "Grisa",
+          "url": "https://open.spotify.com/artist/7hV07PjlQI1Zcy31okJJZ5"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252500,
+      "name": "Animais",
+      "url": "https://open.spotify.com/track/3dSTyRbUYDRxo1dZLGgTd8"
+    },
+    {
+      "album": {
         "name": "Garatujas",
         "url": "https://open.spotify.com/album/4UheE8tmMXmfTdusFy3orQ"
       },
@@ -5420,7 +5438,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 180000,
       "name": "Ensalada de Verano",
       "url": "https://open.spotify.com/track/7qwBPJeOXTYhSxRPOfVGWs"
@@ -12008,7 +12026,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 211850,
       "name": "PARASITA",
       "url": "https://open.spotify.com/track/0gX2BMw9UT41d1UTf7hn9c"
@@ -13190,6 +13208,24 @@
       "duration_ms": 203641,
       "name": "Quase Sert\u00e3o",
       "url": "https://open.spotify.com/track/71QiMGqg27teVr2rMeQhHm"
+    },
+    {
+      "album": {
+        "name": "QUASE SUPERFICIAL",
+        "url": "https://open.spotify.com/album/3x1rXMOCmKz7eSDeqBMAf6"
+      },
+      "artists": [
+        {
+          "name": "Karen Jonz",
+          "url": "https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199225,
+      "name": "QUASE SUPERFICIAL",
+      "url": "https://open.spotify.com/track/12fr1LzY5hOi6crkKud3F1"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [UNTITLED](https://open.spotify.com/playlist/37i9dQZF1DX4FuvFkGbjhs)
 
-> Beyond titles, beyond genre\. Cover: Jimi Somewhere
+> Beyond titles, beyond genre\. Cover: Alewya
 
-896 songs - 2 day 3 hr 48 min
+897 songs - 2 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Bun It Down](https://open.spotify.com/track/2UvEQ0Q3xAUzpOyTlnQSuM) | [Brighter Days Family](https://open.spotify.com/artist/12MXOwaijgy8uXOKFiHpHy) | [Audio Sunrise](https://open.spotify.com/album/1QuMNNx0rJf5OtsRnoIL80) | 4:47 | 2025-03-07 | 2025-06-06 |
 | [BUTTERFLIES](https://open.spotify.com/track/5cfsQZEFf1IpQr8F9vI9le) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 3:13 | 2025-07-11 | 2025-09-05 |
 | [Cactus Water](https://open.spotify.com/track/4mSnIJwKtvmhZHRzBItBQ6) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Cactus Water](https://open.spotify.com/album/0Hig8AAHnlRhJx6yIKdbQR) | 3:24 | 2024-06-27 | 2024-08-02 |
+| [Cairo FM](https://open.spotify.com/track/6v7hCIRoJkuYShT0wls1gD) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Zero](https://open.spotify.com/album/6G3VTaCeobzyhyFrqYli0y) | 3:01 | 2026-06-25 |  |
 | [California](https://open.spotify.com/track/6AebzRlXA8IEwTarwJAzt9) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [VOLUME 1](https://open.spotify.com/album/7dAz4N6jLl36RwpVmJnJBr) | 4:46 | 2024-06-27 | 2024-07-19 |
 | [Call It What You Like](https://open.spotify.com/track/19thWvK8cJVrcE27CgmRO3) | [Thandii](https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M) | [Call It What You Like](https://open.spotify.com/album/0xIthbyKWIGoE8d2JsaZwW) | 2:54 | 2024-07-25 | 2024-09-28 |
 | [Can You Swim?](https://open.spotify.com/track/2dWjtV6SUgVT1oPpA45wQH) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Can You Swim?](https://open.spotify.com/album/3xiBXsB2pmzFwLh8WiWXEc) | 4:55 | 2025-12-05 | 2026-03-06 |
@@ -166,7 +167,7 @@
 | [Cupid](https://open.spotify.com/track/3QIhVvfoBWr4X85530IMeB) | [chi](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW) | [Cupid](https://open.spotify.com/album/45f61grQtozDIhG3xFZ3Oo) | 1:57 | 2024-10-24 | 2025-02-14 |
 | [cutie](https://open.spotify.com/track/2HV5Eq0dvcTNM8ljvfdP6P) | [duendita](https://open.spotify.com/artist/4vZBqD3QXrKiE3mZ6zHr22) | [a strong desire to survive](https://open.spotify.com/album/2momaFzpQ643c1oj4GNKJC) | 4:39 | 2025-04-03 | 2025-06-13 |
 | [cutting grass](https://open.spotify.com/track/0ppaXTvuIgsCIEws6shvAX) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [cutting grass](https://open.spotify.com/album/7maQPrZw6mZViTmb2b9isU) | 5:10 | 2024-07-25 | 2024-09-06 |
-| [Cutting Off The Head Of A Ghost](https://open.spotify.com/track/34h77avpCK81oQ6o6uT61x) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [So Help Me God](https://open.spotify.com/album/1NRIhAmDSsF25lFAwv4pDt) | 3:51 | 2026-06-12 |  |
+| [Cutting Off The Head Of A Ghost](https://open.spotify.com/track/34h77avpCK81oQ6o6uT61x) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [So Help Me God](https://open.spotify.com/album/1NRIhAmDSsF25lFAwv4pDt) | 3:51 | 2026-06-12 | 2026-06-26 |
 | [cuídame de mi](https://open.spotify.com/track/3rHnzhfozKEQ8p414MPW9F) | [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3) | [i Music Listen](https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ) | 3:23 | 2026-02-27 |  |
 | [Cynical](https://open.spotify.com/track/3GyhbghKfFN3ekIZJcMbK0) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Cynical](https://open.spotify.com/album/2nhksn5HeM4MX0EGkSau3e) | 3:27 | 2024-11-01 | 2025-01-24 |
 | [Dafodil](https://open.spotify.com/track/6VVRLkRdr7EzgKTHzYZ1pa) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5), [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Dafodil](https://open.spotify.com/album/2lg6Q82rLglSMu4JkvnHDb) | 3:32 | 2024-08-29 | 2024-11-15 |

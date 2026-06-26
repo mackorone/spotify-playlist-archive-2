@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-8,428 songs - 19 day 11 hr 4 min
+8,431 songs - 19 day 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4363,6 +4363,7 @@
 | [Lost](https://open.spotify.com/track/1mGdHXCqhbV8oXCPkY1dZk) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lost](https://open.spotify.com/album/4V5bqbPeDTAd2uzQ3YhRmp) | 3:20 | 2024-06-06 | 2024-06-15 |
 | [Lost \(feat\. The Kid LAROI\)](https://open.spotify.com/track/6805NqZ8c443YjfQERNoAq) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Different Night Same Rodeo](https://open.spotify.com/album/2cPJrMHIIBkKarl6nxi11P) | 3:16 | 2025-08-07 | 2025-08-16 |
 | [Lost and Found](https://open.spotify.com/track/7BzfqlcZzFr2bjTbLfxx1a) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Lost and Found](https://open.spotify.com/album/7y2bMzJ7K5qgtnEIJeyat7) | 4:15 | 2025-04-11 | 2025-04-26 |
+| [Lost Boys](https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Boys](https://open.spotify.com/album/7lJZpDWPKrfLjiY17OmwhP) | 4:14 | 2026-06-26 |  |
 | [Lost Highway](https://open.spotify.com/track/7okG4aydS3Sb8xZvI3BvLH) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Lost Highway](https://open.spotify.com/album/75xRAiBzaIxASbYLy8EJdf) | 3:09 | 2025-04-30 | 2025-05-10 |
 | [Lost In Devotion](https://open.spotify.com/track/6WYqOPEvKiYihM47u2JNXh) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Emotion \(10th Anniversary Edition\)](https://open.spotify.com/album/1iFZcNmUvhWq5uXYmlKlKb) | 3:14 | 2025-10-17 | 2025-10-25 |
 | [Lost In Space](https://open.spotify.com/track/1PIBxfR4k67snh0hUSgzPs) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Lost In Space](https://open.spotify.com/album/02lrMtGj1XXii9azaaBtPl) | 4:18 | 2024-05-31 | 2024-06-12 |
@@ -6084,6 +6085,7 @@
 | [RAYO DE LUZ](https://open.spotify.com/track/4e48qabruKkdAHWuSh67xM) | [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [RAYO DE LUZ](https://open.spotify.com/album/2g5GgTx8lV9UNovLeJiTFZ) | 3:16 | 2025-01-24 | 2025-02-01 |
 | [Raíces](https://open.spotify.com/track/22L4fN7eeoLuNP6MHAB77e) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Raíces](https://open.spotify.com/album/3HhbkUjg8eI5chZUn3v0Ng) | 3:36 | 2025-03-21 | 2025-03-29 |
 | [Raíces](https://open.spotify.com/track/50SNlrff4m4Taic0BDoPGA) | [Marisol Eichborn](https://open.spotify.com/artist/6T1wEg0JVyXe1MJhrpKH6Q) | [Catarsis](https://open.spotify.com/album/74l8oDOjmjDOUO0SG07lwB) | 2:33 | 2025-02-06 | 2025-02-08 |
+| [Read My Lips \(FIFA Version\)](https://open.spotify.com/track/3aRCjlhDyStousHqYnGZ5G) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Official FIFA World Cup 2026™ Album \(Bonus Edition\)](https://open.spotify.com/album/5KyPwjSFnxwAKOL5Ggo2vo) | 2:46 | 2026-06-26 |  |
 | [Ready](https://open.spotify.com/track/0dDciQvSUTEbcLugnDXRCX) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [Ready](https://open.spotify.com/album/27b6q0H567oGVedA8bAuwg) | 2:52 | 2025-02-14 | 2025-02-22 |
 | [Ready for the Ride](https://open.spotify.com/track/1mBlAPx3o1upduoTYXwgcZ) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5) | [Ready for the Ride](https://open.spotify.com/album/0rSKLa2MWT7QVQLdczMGuk) | 3:27 | 2026-02-27 | 2026-03-07 |
 | [Ready For Your Love](https://open.spotify.com/track/3Kr7UHOUkgaH4PK3Mp1fUP) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Ready For Your Love](https://open.spotify.com/album/5qcOnOmMYeKDPWjsVim6Ss) | 2:39 | 2024-07-05 | 2024-07-13 |
@@ -8026,6 +8028,7 @@
 | [Wassup](https://open.spotify.com/track/39QGmbxBiOxLRs76O9Wzy4) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Wassup](https://open.spotify.com/album/1iAthuOBYXnPz5hNtqn1qF) | 2:51 | 2024-09-27 | 2024-10-05 |
 | [WASSUP](https://open.spotify.com/track/32SJM4tQyJHsB8rgVtZURn) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [WASSUP](https://open.spotify.com/album/0vKAvn3uWijgBplDXSLSkM) | 2:42 | 2025-04-25 | 2025-05-10 |
 | [Waste Me](https://open.spotify.com/track/65pXLi3OL3aoRKM4SkFgjq) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Under My Umbrella](https://open.spotify.com/album/6I3jAD916rESCOEmqmtzTx) | 3:12 | 2026-04-24 | 2026-05-01 |
+| [Watch It Burn](https://open.spotify.com/track/3JlUDSDmqhAgbZWqyAuthY) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Watch It Burn](https://open.spotify.com/album/4iY3IDPSVSMmxyAyb3qoTP) | 2:55 | 2026-06-26 |  |
 | [Watch You Walk Away](https://open.spotify.com/track/6NgR889pWoAtrAPtUtwGFd) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Mortal Primetime \(Deluxe\)](https://open.spotify.com/album/02osO9I4Ouuvmwdz6wQ7W5) | 2:46 | 2025-10-17 | 2025-10-25 |
 | [Watching the Omnibus](https://open.spotify.com/track/05yNeIC98bnWkHV0baPSvq) | [The Bug Club](https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB) | [Watching the Omnibus](https://open.spotify.com/album/7jr9R4OSw3Qh4N1sLeXRdL) | 1:19 | 2026-02-20 | 2026-02-28 |
 | [Water](https://open.spotify.com/track/0iPRaGu0MkIfLHRjFfWedg) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg), [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn) | [Water](https://open.spotify.com/album/6SIDaB4Fx0pxAdHloPWNXp) | 3:34 | 2025-10-10 | 2025-10-18 |

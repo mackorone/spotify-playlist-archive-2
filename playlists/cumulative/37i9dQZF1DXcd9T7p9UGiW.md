@@ -2,9 +2,9 @@
 
 ### [Gone Abroad ](https://open.spotify.com/playlist/37i9dQZF1DXcd9T7p9UGiW)
 
-> Catching flights and going global\. Cover: Tyla and Future
+> Catching flights and going global\. Cover: Yamê and Adekunle Gold
 
-828 songs - 1 day 19 hr 39 min
+829 songs - 1 day 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -479,7 +479,7 @@
 | [Mwah!](https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Mwah!](https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ) | 2:08 | 2025-04-11 |  |
 | [My Lady](https://open.spotify.com/track/2qJKnWeXuINcyjGhufB0nZ) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM), [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [My Lady](https://open.spotify.com/album/1ISLNwowQgIUwjiWHAqf6W) | 2:58 | 2023-07-28 | 2023-10-24 |
 | [My Love \(feat\. Ayra Starr\)](https://open.spotify.com/track/2XOJCFJ6Wig25fnEjxtSsR) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [My Love \(feat\. Ayra Starr\)](https://open.spotify.com/album/6uIz2uaQPu5UjOUm5d8dIm) | 2:56 | 2023-09-08 | 2024-03-08 |
-| [My Luv](https://open.spotify.com/track/35czuOzJsLpewFuH4ASuFG) | [Ghenda](https://open.spotify.com/artist/3516SzT2YG6CVKFfrSFeoF), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [My Luv](https://open.spotify.com/album/35IwA8Uh2CP2TfM1siNeIe) | 2:44 | 2026-06-12 |  |
+| [My Luv](https://open.spotify.com/track/35czuOzJsLpewFuH4ASuFG) | [Ghenda](https://open.spotify.com/artist/3516SzT2YG6CVKFfrSFeoF), [Oxlade](https://open.spotify.com/artist/1AWpQFGqrwHA2BiNv12AyA) | [My Luv](https://open.spotify.com/album/35IwA8Uh2CP2TfM1siNeIe) | 2:44 | 2026-06-12 |  |
 | [My Man](https://open.spotify.com/track/6VaZy3CmYDMafPC6myZDeZ) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [My Man](https://open.spotify.com/album/2P0BnbvscGJpuGBlCUEIUA) | 3:38 | 2022-04-07 | 2023-01-07 |
 | [My Oasis \(feat\. Burna Boy\)](https://open.spotify.com/track/2KoHxhRyWxJzA0VafWd5Nk) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [My Oasis \(feat\. Burna Boy\)](https://open.spotify.com/album/2eBIVchjZqWwwe7P8OmY0Q) | 2:59 | 2021-10-08 | 2022-11-04 |
 | [MY POWER](https://open.spotify.com/track/7ia5l12mCvbQTeAnG1oYpg) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Busiswa](https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw), [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 4:19 | 2021-10-08 | 2022-03-11 |
@@ -532,6 +532,7 @@
 | [Okay](https://open.spotify.com/track/5NjBwPcN1B66MzeWI6x3de) | [Pronto](https://open.spotify.com/artist/2ZT8zCu4xXbz7R1R0EzqWO), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [Riga](https://open.spotify.com/artist/37t8K0CbC1jRSqmDYNEpPX) | [Okay](https://open.spotify.com/album/4msJhBV4qGom4eK8QpBNi5) | 3:12 | 2022-10-28 | 2023-04-28 |
 | [ON DISPLAY](https://open.spotify.com/track/5rms2y2xqSB78qahVFuNYE) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [ON DISPLAY](https://open.spotify.com/album/6VBnCEw2h10MMycRF186yi) | 2:52 | 2025-04-11 | 2025-04-18 |
 | [On My Body](https://open.spotify.com/track/5uxzcaOKTqgUf6E9KXftKz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:37 | 2024-03-22 | 2025-01-17 |
+| [On my mind](https://open.spotify.com/track/6gKQMPemGGxgdCgeqNMBBp) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [On my mind](https://open.spotify.com/album/43w6KiIP8mCiOCc1RFVcvT) | 2:43 | 2026-06-26 |  |
 | [ON TEN](https://open.spotify.com/track/4Sbtvgkqpay8iMF6xDKZzF) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Hkmk](https://open.spotify.com/artist/0Tze8Gw1ML0ApNSPytouXg), [DRILL SZN](https://open.spotify.com/artist/5XFxkRmijQ1JmSHmGSBSzj) | [ON TEN](https://open.spotify.com/album/3PmvDqSRCk9UkW94hFFvr4) | 1:47 | 2023-02-23 | 2023-03-04 |
 | [On The Low](https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [On The Low](https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S) | 2:30 | 2025-08-01 |  |
 | [One Dance](https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Kyla](https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 2:53 | 2021-10-08 | 2024-02-23 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "Sara Hebe en portada. ",
+  "description": "Trashu en portada. ",
   "name": "alt.ar",
   "tracks": [
     {
@@ -2885,6 +2885,24 @@
     },
     {
       "album": {
+        "name": "Dandy Madrugada",
+        "url": "https://open.spotify.com/album/7tBXvhwqVAvQBEk8am3vmf"
+      },
+      "artists": [
+        {
+          "name": "Malandro",
+          "url": "https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224262,
+      "name": "Dandy Madrugada",
+      "url": "https://open.spotify.com/track/3tPOxtVd8Q1vTQ9HvHlLEM"
+    },
+    {
+      "album": {
         "name": "De Abajo Para Arriba",
         "url": "https://open.spotify.com/album/2uU4H49urGRJXuPHGi7W4U"
       },
@@ -2958,6 +2976,24 @@
       "duration_ms": 154800,
       "name": "Delirando",
       "url": "https://open.spotify.com/track/2YK1bWEZYctEqUmk6dnTFi"
+    },
+    {
+      "album": {
+        "name": "DEMASIADO NADA",
+        "url": "https://open.spotify.com/album/0u8UVGTKpjSD11mr5SxPQy"
+      },
+      "artists": [
+        {
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184112,
+      "name": "DEMASIADO NADA",
+      "url": "https://open.spotify.com/track/0sHMiRUvtIzre8r8unluXq"
     },
     {
       "album": {
@@ -3070,6 +3106,28 @@
       "duration_ms": 202551,
       "name": "DESQUITE",
       "url": "https://open.spotify.com/track/7cE3UA7lv4e11ke0Cti5QV"
+    },
+    {
+      "album": {
+        "name": "Destruyendo Todo",
+        "url": "https://open.spotify.com/album/5JMsKDQG38lrTDMThmtPwL"
+      },
+      "artists": [
+        {
+          "name": "Ine Maguire",
+          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
+        },
+        {
+          "name": "Chechi de Marcos",
+          "url": "https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "Destruyendo Todo",
+      "url": "https://open.spotify.com/track/739WvW13txYr3CvlH5wrqE"
     },
     {
       "album": {
@@ -4146,7 +4204,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 285884,
       "name": "Fan",
       "url": "https://open.spotify.com/track/4pRoxcT88roYJIWfcMZCC5"
@@ -5773,6 +5831,28 @@
     },
     {
       "album": {
+        "name": "Let Me Tell Em",
+        "url": "https://open.spotify.com/album/1BH6hEeGxHrpsy7FKXEf2Q"
+      },
+      "artists": [
+        {
+          "name": "Malapraxxis",
+          "url": "https://open.spotify.com/artist/7oVL05pJCDuTxYtD0bLNPx"
+        },
+        {
+          "name": "Alvso",
+          "url": "https://open.spotify.com/artist/5kNCvXZufkVxoFzx4l9EtW"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134423,
+      "name": "Let Me Tell Em",
+      "url": "https://open.spotify.com/track/7vK0olkkI2fPSotKHmDEa8"
+    },
+    {
+      "album": {
         "name": "Le\u00f1a",
         "url": "https://open.spotify.com/album/2z4D7dU1dQsRjt4lMqLudG"
       },
@@ -6031,6 +6111,28 @@
     },
     {
       "album": {
+        "name": "Lo Siento",
+        "url": "https://open.spotify.com/album/2uoaSjY2IyK9JF4Ysl9JoW"
+      },
+      "artists": [
+        {
+          "name": "Soffia Philo",
+          "url": "https://open.spotify.com/artist/5o1ARHZ2fhll5jILdQp84X"
+        },
+        {
+          "name": "Maxi Prieto",
+          "url": "https://open.spotify.com/artist/7k4sBYY4ict7ilJdWo5DnW"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131465,
+      "name": "Lo Siento",
+      "url": "https://open.spotify.com/track/6v1nZI3ZrUSqIwhxHmsFH7"
+    },
+    {
+      "album": {
         "name": "Lo Tengo",
         "url": "https://open.spotify.com/album/5HZh2hBhcjb55tiTWqOmdU"
       },
@@ -6226,6 +6328,24 @@
       "duration_ms": 159963,
       "name": "Lowa",
       "url": "https://open.spotify.com/track/37gGnbqD6q9KXt2xnfbvnI"
+    },
+    {
+      "album": {
+        "name": "Lujo en Tu Vida",
+        "url": "https://open.spotify.com/album/4iiOumnzRQbOe4UmmkRnWE"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133090,
+      "name": "Lujo en Tu Vida",
+      "url": "https://open.spotify.com/track/2gT1YlpgjEQNkSuiqePxg5"
     },
     {
       "album": {
@@ -9022,6 +9142,24 @@
       "duration_ms": 178668,
       "name": "PERD\u00d3N",
       "url": "https://open.spotify.com/track/5YSuQJsJoFrEPUSwfydSmj"
+    },
+    {
+      "album": {
+        "name": "PERFECTO",
+        "url": "https://open.spotify.com/album/44T7EDB2wDWtRrLxpFYQ1S"
+      },
+      "artists": [
+        {
+          "name": "Trashu",
+          "url": "https://open.spotify.com/artist/36LxoJzKgytSD3TWMN54vY"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75046,
+      "name": "PERFECTO",
+      "url": "https://open.spotify.com/track/1V032eqWBP1ppVMynviwTR"
     },
     {
       "album": {
@@ -11918,7 +12056,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 147849,
       "name": "TURRO TOUR",
       "url": "https://open.spotify.com/track/2Ic6lCqcUQMOAY2OeZyQly"

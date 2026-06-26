@@ -1,6 +1,6 @@
 {
   "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2486516,
+  "num_followers": 2486356,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
@@ -719,18 +719,18 @@
     {
       "added_at": "2026-05-20 10:30:00",
       "album": {
-        "name": "Destination XYZ",
-        "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
+        "name": "Nahanap Kita",
+        "url": "https://open.spotify.com/album/6fPUiSWRHRKn1Gk9d5h6PW"
       },
       "artists": [
         {
-          "name": "Callalily",
-          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
+          "name": "Amiel Sol",
+          "url": "https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g"
         }
       ],
-      "duration_ms": 326813,
-      "name": "Magbalik",
-      "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
+      "duration_ms": 317693,
+      "name": "Nahanap Kita",
+      "url": "https://open.spotify.com/track/0GD9U8EM8xcPvuaA50Wzpe"
     },
     {
       "added_at": "2026-05-20 10:30:00",
@@ -751,18 +751,18 @@
     {
       "added_at": "2026-05-20 10:30:00",
       "album": {
-        "name": "Nahanap Kita",
-        "url": "https://open.spotify.com/album/6fPUiSWRHRKn1Gk9d5h6PW"
+        "name": "Destination XYZ",
+        "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
       },
       "artists": [
         {
-          "name": "Amiel Sol",
-          "url": "https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g"
+          "name": "Callalily",
+          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
         }
       ],
-      "duration_ms": 317693,
-      "name": "Nahanap Kita",
-      "url": "https://open.spotify.com/track/0GD9U8EM8xcPvuaA50Wzpe"
+      "duration_ms": 326813,
+      "name": "Magbalik",
+      "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
     },
     {
       "added_at": "2026-05-20 10:30:00",

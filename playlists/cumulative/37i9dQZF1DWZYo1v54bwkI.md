@@ -4,7 +4,7 @@
 
 > Respira profundamente y relaja tu mente.
 
-587 songs - 1 day 4 hr 9 min
+590 songs - 1 day 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [By Midnight](https://open.spotify.com/track/5D8YiJqd8vNkBGO1ZSatnG) | [Jon Stefans](https://open.spotify.com/artist/6sZVV2BKsU8SF4x9Bj9Ypa) | [By Midnight](https://open.spotify.com/album/0WcxDmPWwofsGWR9o08WZx) | 2:20 | 2022-08-15 | 2025-04-10 |
 | [Caldera](https://open.spotify.com/track/1FjhcDgk6ktiroq9OYGZ6e) | [Aitne](https://open.spotify.com/artist/6kBzfRc5LNJoQyoZ6S6FTO) | [Caldera](https://open.spotify.com/album/7dnHNPI5UNncdlUO0NQZBg) | 2:49 | 2025-09-24 | 2026-02-05 |
 | [Calendulum](https://open.spotify.com/track/5EPYuGIECV4sWStSDHj7nK) | [Max Moller](https://open.spotify.com/artist/0gMFBXqBiYu46TA6G2fr1X) | [Calendulum](https://open.spotify.com/album/2oTmTCxFQRr4AO0CnOHlEC) | 2:41 | 2025-09-09 | 2026-02-05 |
-| [Caligo](https://open.spotify.com/track/0M4o2R0n0t8hbKnnOYvB3T) | [Alsephina](https://open.spotify.com/artist/2EFJqbmRZS645xeescnjp6) | [Caligo](https://open.spotify.com/album/56qL3ld5fmLf7MVJdiOwiL) | 2:45 | 2025-10-08 |  |
+| [Caligo](https://open.spotify.com/track/0M4o2R0n0t8hbKnnOYvB3T) | [Alsephina](https://open.spotify.com/artist/2EFJqbmRZS645xeescnjp6) | [Caligo](https://open.spotify.com/album/56qL3ld5fmLf7MVJdiOwiL) | 2:45 | 2025-10-08 | 2026-06-26 |
 | [Calm Balance](https://open.spotify.com/track/4YRJMsB0lkytSNEl8C3Mlt) | [Veena](https://open.spotify.com/artist/6dyllSs5fo7DeCSrxTxkF9) | [Calm Balance](https://open.spotify.com/album/2gvGaXjSxHPJChmD2EV1ne) | 2:26 | 2024-11-27 | 2025-10-09 |
 | [Calm Reservoir](https://open.spotify.com/track/6oSfuQVa5NVuZE3kHYbFgN) | [Chakra Tides](https://open.spotify.com/artist/7gfe0wDVyfNBiAWSVQyZRk) | [Calm Reservoir](https://open.spotify.com/album/3ZCjwdGKdjfSPyTsGPQyDd) | 3:35 | 2024-03-07 | 2026-02-05 |
 | [Canes Venatici](https://open.spotify.com/track/2P64F9RPwQos7ELkKotqW5) | [Donald Beaudoin](https://open.spotify.com/artist/2Z0z4n4ndyWuJVJYoSvlLI) | [Canes Venatici](https://open.spotify.com/album/4FcA1I4Xjgy2fpry8zNlK3) | 3:43 | 2022-07-15 | 2023-08-25 |
@@ -138,7 +138,7 @@
 | [Deeper Feelings](https://open.spotify.com/track/5SJZAqICbOr44zfdXfFFuO) | [Andrei Mizi](https://open.spotify.com/artist/6KnknNIJOqJZzBiooVpN3R) | [Deeper Feelings](https://open.spotify.com/album/1EGnUicl4eQNyq4BzbMY7T) | 3:04 | 2024-03-14 | 2026-02-25 |
 | [Deferred](https://open.spotify.com/track/6LS8m8Rl2nuC5JWf3MK5Ao) | [Shizuka Woods](https://open.spotify.com/artist/5fOPzFnxS42IPY7G8OYqmm) | [Deferred](https://open.spotify.com/album/1t7u7KJTuilD36sT04E2el) | 2:33 | 2025-10-15 | 2026-02-05 |
 | [Depth](https://open.spotify.com/track/73EWZ5JKF4RJgH1HhQgDYp) | [Vau Dio](https://open.spotify.com/artist/1k5dDiIY8luiAY2LoCItXm) | [Depth](https://open.spotify.com/album/3pG7B1UYZ2czCpxylnCfFM) | 3:21 | 2024-11-11 | 2026-02-05 |
-| [Desiderium](https://open.spotify.com/track/4U6bReb0JPJGATCDjKCVqm) | [Catedral Infinita](https://open.spotify.com/artist/4ZHk7eCeQ5Q4o4wWvxq26r) | [Desiderium](https://open.spotify.com/album/6iHUtdVpODuD2BEUhmGLDe) | 2:51 | 2025-06-16 |  |
+| [Desiderium](https://open.spotify.com/track/4U6bReb0JPJGATCDjKCVqm) | [Catedral Infinita](https://open.spotify.com/artist/4ZHk7eCeQ5Q4o4wWvxq26r) | [Desiderium](https://open.spotify.com/album/6iHUtdVpODuD2BEUhmGLDe) | 2:51 | 2025-06-16 | 2026-06-26 |
 | [Dewdrops](https://open.spotify.com/track/1HgFpm8XTIFAIP5uAnCPBc) | [Aerial Lakes](https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt) | [Dewdrops](https://open.spotify.com/album/1deqzuQ2WbvQW0Q4ti2uZi) | 2:35 | 2025-07-08 |  |
 | [Diem Vesper Commendat](https://open.spotify.com/track/5Kzm98GR30X1sEYWKE2eB9) | [Alma Grøtte](https://open.spotify.com/artist/7uLS5Q5tx0Chuaihp53VEE) | [Diem Vesper Commendat](https://open.spotify.com/album/2o2NEHkvOll7w1FDD4FLCg) | 3:04 | 2022-07-15 | 2024-12-13 |
 | [Distant Orbit](https://open.spotify.com/track/4rN01kiW7xTsesTGO0cMrr) | [Åmliden](https://open.spotify.com/artist/4c9woXzcZH9eO8EqiLbT9M) | [Distant Orbit](https://open.spotify.com/album/5komQVEIHo4v5Rr36ubC8S) | 2:34 | 2026-02-24 |  |
@@ -235,7 +235,7 @@
 | [From Another Spectra](https://open.spotify.com/track/1WQwNLDdOIFtvNOmv3h97r) | [Astra Sky](https://open.spotify.com/artist/3VpKQ8XUwdGp6vQ5QQ3ZbP) | [From Another Spectra](https://open.spotify.com/album/11OgHZF80GDqrAhOrMSVxh) | 2:34 | 2025-11-27 | 2026-02-05 |
 | [From near to far](https://open.spotify.com/track/30TJanBBgb8nIL9LFwg5Dm) | [Foora](https://open.spotify.com/artist/4xrxBC3PuUnnlziFfHdvYJ) | [From near to far](https://open.spotify.com/album/1F3F1RdfckM4x6e9IMuu21) | 2:48 | 2025-10-15 |  |
 | [Fulfillment](https://open.spotify.com/track/1qniL4F4O4hBtFp5FmK883) | [Photoautotroph](https://open.spotify.com/artist/1OSyQ1c3oDZQloHUlPTlAg) | [Fulfillment](https://open.spotify.com/album/7ay7MJFZvd2TB44IjcDAoZ) | 2:36 | 2025-02-26 |  |
-| [Fulfilment](https://open.spotify.com/track/2NfsumIGsBH6QBCrH8lDNk) | [Arlo Leclerc](https://open.spotify.com/artist/3EBKbV8vGkaVfjF21qCb4g) | [Fulfilment](https://open.spotify.com/album/39Ggt9GG9qmvv0Oo0JwDaZ) | 2:36 | 2026-02-24 |  |
+| [Fulfilment](https://open.spotify.com/track/2NfsumIGsBH6QBCrH8lDNk) | [Arlo Leclerc](https://open.spotify.com/artist/3EBKbV8vGkaVfjF21qCb4g) | [Fulfilment](https://open.spotify.com/album/39Ggt9GG9qmvv0Oo0JwDaZ) | 2:36 | 2026-02-24 | 2026-06-26 |
 | [Förvandlingen](https://open.spotify.com/track/7hWn0BxfT0X160O8PdMVeb) | [Kim Nordenstierna](https://open.spotify.com/artist/0MV0YK75T6vC9k9604QRID) | [Förvandlingen](https://open.spotify.com/album/6a1rjpJ0uygd62VPLvtC1H) | 2:27 | 2023-02-03 | 2025-05-14 |
 | [Galaxy River](https://open.spotify.com/track/4qoE30s1SzfR9aylJwSULq) | [Starry Girl](https://open.spotify.com/artist/4Uaq25W6YRawMeHyRIKwxy) | [Galaxy River](https://open.spotify.com/album/3TzMmfxAKMqkRFAShdma9u) | 3:37 | 2022-07-15 | 2024-09-04 |
 | [Gan Duille](https://open.spotify.com/track/1Xs8qLgBD1IeblneE69YsV) | [Mila Harper](https://open.spotify.com/artist/61XTODbHm8u4mMws36C1IG) | [Gan Duille](https://open.spotify.com/album/0tqA8fa838YZ9Ex863r6Yl) | 2:31 | 2022-07-15 | 2025-05-14 |
@@ -340,6 +340,7 @@
 | [Midnight Bloom](https://open.spotify.com/track/1qmSnLbQX7kifJXOi1rN3u) | [Soothing Leaf](https://open.spotify.com/artist/1JlIsTlK1wj6QgGbjJZYOc) | [Midnight Bloom](https://open.spotify.com/album/1lUlOKwqb1uhyT8rIk74rx) | 3:11 | 2024-04-04 | 2024-07-27 |
 | [Mind State](https://open.spotify.com/track/6cE8PA0ZWHSGSuRNgWYfIB) | [Adirenne Lushara](https://open.spotify.com/artist/4Bq0flYhY0O3Tl8qMZsaO4) | [Mind State](https://open.spotify.com/album/7MNCHKnMDPHO3xcq4zGhF0) | 3:05 | 2024-06-10 | 2025-05-14 |
 | [minimal](https://open.spotify.com/track/0oxwvgg3rFvxkZsZdcABNA) | [AstroAether](https://open.spotify.com/artist/1Sy04vJvcc5VSae7QTvFUn) | [minimal](https://open.spotify.com/album/0sodVyhRqIByMeIi81ry2H) | 3:05 | 2025-02-05 | 2026-02-05 |
+| [Mistfall](https://open.spotify.com/track/1SYqbqoevykBRc9AhlGELy) | [Angelo Garnier](https://open.spotify.com/artist/7qvvsAZAERVhX0qJ1kq6In) | [Mistfall](https://open.spotify.com/album/5NiGtXKn0dO9aGugUgSY6a) | 2:36 | 2026-06-25 |  |
 | [Mistful](https://open.spotify.com/track/34B2VSzAYslmKMDW8ZwBX2) | [Cosmic Embrace](https://open.spotify.com/artist/4Ol24ExBEtGVwQiIGwK2c6) | [Mistful](https://open.spotify.com/album/1yk8FTtKeTCn1eAcLfgdKm) | 2:25 | 2025-10-15 |  |
 | [Mistletoe](https://open.spotify.com/track/3sdesEyISVCRUqj0c12Jxp) | [Blossom Inn](https://open.spotify.com/artist/1oOLgA7Gl8VzwsIadutGo8) | [Mistletoe](https://open.spotify.com/album/6iC1rAAQha2cLCEWE3TBRm) | 2:32 | 2024-03-07 | 2026-03-20 |
 | [Moments](https://open.spotify.com/track/2qFOEvx0M8Lz3beYiOylcJ) | [Theodore Brim](https://open.spotify.com/artist/1qzetpI2OtTttg58OsZI0o) | [Moments](https://open.spotify.com/album/4YwzUsXrqRo9DEE0WOQXCm) | 2:17 | 2026-02-24 |  |
@@ -347,6 +348,7 @@
 | [Moon](https://open.spotify.com/track/3jNHsKSukaoq436a8YO6ly) | [Aaron Lovell](https://open.spotify.com/artist/4TvS5KUXgzPFQK2Lhq0GEN) | [Moon](https://open.spotify.com/album/1mm5iLOYjDAqSWa50BzUOF) | 2:45 | 2024-04-29 | 2025-04-10 |
 | [Moonlit](https://open.spotify.com/track/6e4WOQaHoiEBcyxYvorUQZ) | [Evanesce](https://open.spotify.com/artist/5UPSHUrbSsFQCpKhIi9nr8) | [Moonlit](https://open.spotify.com/album/3LYcPJg8To1f5mh4PUenMx) | 2:45 | 2025-11-27 |  |
 | [Moonlit](https://open.spotify.com/track/5yZbWuXbM1Z2N6Ig8v1w6m) | [Luune](https://open.spotify.com/artist/7CPclBDt5moKFAwjPTvLRM) | [Moonlit](https://open.spotify.com/album/2HcKrsJcNe1yGPzLYi12Df) | 2:43 | 2025-10-08 | 2026-03-20 |
+| [Moonrest](https://open.spotify.com/track/252jTZdnqJyOzDcYdP8m5p) | [Nature Yami](https://open.spotify.com/artist/2KPdst7c4yYgtB1aLZ4c0P) | [Moonrest](https://open.spotify.com/album/2cDE75sGImRDKIalg2wcun) | 2:39 | 2026-06-25 |  |
 | [More Than Words](https://open.spotify.com/track/4E22XbJSOj8T2Ua6ye19Cx) | [Emeli Saga](https://open.spotify.com/artist/3J5btrvXNSchP5VZiE3vcj) | [More Than Words](https://open.spotify.com/album/7r1WSkRvU9PFPbV7iyK7HT) | 2:42 | 2023-03-16 | 2026-02-05 |
 | [Morning Breeze](https://open.spotify.com/track/3n0oenkKLS8SyJtd4fUkak) | [Koh Lantana](https://open.spotify.com/artist/5D20KUB6A3CzLjb2DfRJqc) | [Best Relaxing SPA Music](https://open.spotify.com/album/00edVDn3XgBLSkCxx6aJN9) | 1:59 | 2022-07-15 | 2022-12-21 |
 | [Morning Energy](https://open.spotify.com/track/43lvXJ34YtEwW2GWkFM8wT) | [santini perotti](https://open.spotify.com/artist/2C3LjNILc7hBqMcLczxi2L) | [Morning Energy](https://open.spotify.com/album/5rLZ4RJAIE2rGWMp6aFsf0) | 1:30 | 2022-07-15 | 2023-07-29 |
@@ -561,6 +563,7 @@
 | [Unseen Tides](https://open.spotify.com/track/5Qn73jrGLvnUurrRhpKElz) | [Skila Phani](https://open.spotify.com/artist/6HpVi4UMmmPM8oUsLy4pnO) | [Light As A Feather](https://open.spotify.com/album/1jkFINHdYVrEeIQEWEQrk3) | 2:58 | 2023-02-17 | 2025-05-14 |
 | [Vakna](https://open.spotify.com/track/6GFBrLr4HbsKqra7MSiluq) | [Signe Golin](https://open.spotify.com/artist/3CBETDmJHF7pJ4ENoSfs3Z) | [Andrum](https://open.spotify.com/album/3DEAYz5dCigP164kUJU53M) | 2:24 | 2022-11-11 | 2025-05-14 |
 | [Valerian](https://open.spotify.com/track/5PBzjazmFvtTg8Ik852i4l) | [Elunara Mare](https://open.spotify.com/artist/52VdaCQAM3PCg8pQjPUaEV) | [Valerian](https://open.spotify.com/album/0JbFEIwJY2Jndh3U2tEWJf) | 2:28 | 2025-10-08 |  |
+| [Veloria](https://open.spotify.com/track/4UwZwmim5Nbnm1vtdwivSZ) | [Calming Lesmo](https://open.spotify.com/artist/5acenmixbZVmxdHn0Je47D) | [Veloria](https://open.spotify.com/album/3I1B7Fg3wc5E1UlCDEt6Qi) | 2:59 | 2026-06-25 |  |
 | [Velvet Dusk](https://open.spotify.com/track/15SAU1PZeZXUnxUNVhLHH8) | [Molnen](https://open.spotify.com/artist/3XcViLMjxgKWbdC7bBvHQd) | [Velvet Dusk](https://open.spotify.com/album/7hkDtX3t50mHf5de0FlSsV) | 2:38 | 2025-07-17 |  |
 | [Velvetine](https://open.spotify.com/track/4840LfK9NqJAwfFTxJIrz2) | [Goran Solkjær](https://open.spotify.com/artist/4TS76DvkB16Zk3uoOTgByQ) | [Velvetine](https://open.spotify.com/album/1BD35jazKq9rYZlKhoM7xM) | 3:45 | 2022-07-15 | 2023-05-20 |
 | [Ventures](https://open.spotify.com/track/68t8OemDQYMtMlKj2dWezV) | [Ventura Lumi](https://open.spotify.com/artist/0jQvAwzpHfMQhQc76iWBa4) | [Ventures](https://open.spotify.com/album/2ZEhQzRpeenQuPqemxkX0u) | 3:55 | 2024-07-12 |  |

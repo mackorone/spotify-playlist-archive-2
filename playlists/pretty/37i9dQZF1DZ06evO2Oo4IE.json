@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajnMgAAAAADiInWGiXdDAHCCrbzgabki",
+  "snapshot_id": "ajseAAAAAAA9rWevT6/tenwMc7hqIzgw",
   "tracks": [
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Pearl Sessions",
-        "url": "https://open.spotify.com/album/2wkjA7zJrCFQcBJpD4tHA7"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 99706,
-      "name": "Overheard In The Studio...",
-      "url": "https://open.spotify.com/track/0rB1ACV8tKm8lDGtsgMfIO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
         "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
       },
@@ -775,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Pearl Sessions",
+        "url": "https://open.spotify.com/album/2wkjA7zJrCFQcBJpD4tHA7"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 99706,
+      "name": "Overheard In The Studio...",
+      "url": "https://open.spotify.com/track/0rB1ACV8tKm8lDGtsgMfIO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Takes To The Sky (Live 1968)",
         "url": "https://open.spotify.com/album/4FbT4qT61380h7xQ1Pymb3"
       },
@@ -787,22 +787,6 @@
       "duration_ms": 83461,
       "name": "Talk, Pt.1 - Live",
       "url": "https://open.spotify.com/track/6JdG2LMfRkpTFcsEem84lr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Essential Janis Joplin",
-        "url": "https://open.spotify.com/album/3sR7NJMeadiOYLFl94uj0X"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 398066,
-      "name": "Tell Mama - Live at McMahon Stadium, Calgary, Canada - July 1970",
-      "url": "https://open.spotify.com/track/5qTQVs778QLVH4OdSzDSp5"
     },
     {
       "added_at": null,
@@ -823,6 +807,22 @@
       "duration_ms": 237559,
       "name": "Hesitation Blues",
       "url": "https://open.spotify.com/track/58k1qXar0SYC8yb6nHAxsX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Essential Janis Joplin",
+        "url": "https://open.spotify.com/album/3sR7NJMeadiOYLFl94uj0X"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 398066,
+      "name": "Tell Mama - Live at McMahon Stadium, Calgary, Canada - July 1970",
+      "url": "https://open.spotify.com/track/5qTQVs778QLVH4OdSzDSp5"
     },
     {
       "added_at": null,
@@ -867,26 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Steve Mann: Alive And Pickin'",
-        "url": "https://open.spotify.com/album/2e82i0uQxkMwdJr8ASIvFe"
-      },
-      "artists": [
-        {
-          "name": "Steve Mann",
-          "url": "https://open.spotify.com/artist/2hcBQcl1OhkGXtcsuy2Mc1"
-        },
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 187413,
-      "name": "Trouble In Mind",
-      "url": "https://open.spotify.com/track/0c3YbzSctWakEYtmjVzlWB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
         "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 200205,
       "name": "Nobody Knows You When You're Down and Out",
       "url": "https://open.spotify.com/track/4xtxGynUKSGzHdW5iZ2uQE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Steve Mann: Alive And Pickin'",
+        "url": "https://open.spotify.com/album/2e82i0uQxkMwdJr8ASIvFe"
+      },
+      "artists": [
+        {
+          "name": "Steve Mann",
+          "url": "https://open.spotify.com/artist/2hcBQcl1OhkGXtcsuy2Mc1"
+        },
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 187413,
+      "name": "Trouble In Mind",
+      "url": "https://open.spotify.com/track/0c3YbzSctWakEYtmjVzlWB"
     }
   ],
   "unique_name": "This Is Janis Joplin",

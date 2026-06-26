@@ -893,6 +893,28 @@
     },
     {
       "album": {
+        "name": "Tromlitz",
+        "url": "https://open.spotify.com/album/3X67ZDSuvt5EaozVel4tj0"
+      },
+      "artists": [
+        {
+          "name": "Robin M",
+          "url": "https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7"
+        },
+        {
+          "name": "Robin Michelangelo",
+          "url": "https://open.spotify.com/artist/5RUemJ6qQNY6Asyla2ZvbR"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Bora Bora - Radio Edit",
+      "url": "https://open.spotify.com/track/7FdBFLahBQA9toEM7ZfxVq"
+    },
+    {
+      "album": {
         "name": "Borderline (Remixes)",
         "url": "https://open.spotify.com/album/05MhwaBxOSGFG8LsRGNsMt"
       },
@@ -5914,6 +5936,28 @@
       "duration_ms": 392442,
       "name": "Trivia",
       "url": "https://open.spotify.com/track/3s4l7SQWULlrGPL7aqnEzD"
+    },
+    {
+      "album": {
+        "name": "Tromlitz",
+        "url": "https://open.spotify.com/album/3X67ZDSuvt5EaozVel4tj0"
+      },
+      "artists": [
+        {
+          "name": "Robin M",
+          "url": "https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7"
+        },
+        {
+          "name": "Robin Michelangelo",
+          "url": "https://open.spotify.com/artist/5RUemJ6qQNY6Asyla2ZvbR"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188852,
+      "name": "Tromlitz - Radio Edit",
+      "url": "https://open.spotify.com/track/6tIxPSDiEFsjpcvd7F1HKN"
     },
     {
       "album": {

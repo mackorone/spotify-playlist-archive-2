@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Punchline, storytelling, rap italiano. MadMan in cover.",
+  "description": "Punchline, storytelling, rap italiano. DJ Shocca aka Roc Beats in cover.",
   "name": "Liricisti",
   "tracks": [
     {
@@ -327,6 +327,24 @@
     },
     {
       "album": {
+        "name": "64 BARRE DI TERRORE (Red Bull 64 Bars)",
+        "url": "https://open.spotify.com/album/4PnI5eaXxjq92nlWpdifek"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189486,
+      "name": "64 BARRE DI TERRORE (Red Bull 64 Bars)",
+      "url": "https://open.spotify.com/track/3mBdOTUyDnayURcWfUgrXH"
+    },
+    {
+      "album": {
         "name": "64 BARRE IN FACCIA (Red Bull 64 Bars)",
         "url": "https://open.spotify.com/album/1myCEAZlP8KQeTwNc3XVtb"
       },
@@ -552,6 +570,28 @@
       "duration_ms": 164363,
       "name": "Addio (feat. Salmo)",
       "url": "https://open.spotify.com/track/1lCR4Zwyp1JFGhXVjlFfts"
+    },
+    {
+      "album": {
+        "name": "Cantina dei Ricordi",
+        "url": "https://open.spotify.com/album/0jgiRzmjMwuSYxmdyTu8vw"
+      },
+      "artists": [
+        {
+          "name": "Vacca",
+          "url": "https://open.spotify.com/artist/4lXqyfnO42fw7mPGF5ZXjR"
+        },
+        {
+          "name": "Dani Faiv",
+          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170294,
+      "name": "Alette di pollo",
+      "url": "https://open.spotify.com/track/3sw7Uzt8KuBd2pzsMKvYLX"
     },
     {
       "album": {
@@ -880,7 +920,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 184875,
       "name": "Atlantide",
       "url": "https://open.spotify.com/track/1mP024sin4qRJS0C0VW7GX"
@@ -1987,6 +2027,44 @@
     },
     {
       "album": {
+        "name": "CHIAVI DELLA CITT\u00c0",
+        "url": "https://open.spotify.com/album/5kv81zXrn09FZjNxlcvujK"
+      },
+      "artists": [
+        {
+          "name": "Giovane Feddini",
+          "url": "https://open.spotify.com/artist/2Q9Z5LbKXiImqMdnZiLT3u"
+        },
+        {
+          "name": "Anagogia",
+          "url": "https://open.spotify.com/artist/2Z7eQuEsvITejxmWouud3B"
+        },
+        {
+          "name": "Dj MS",
+          "url": "https://open.spotify.com/artist/2zx8hW1HdhkTCMa6V2GGNa"
+        },
+        {
+          "name": "Joelz",
+          "url": "https://open.spotify.com/artist/1xLvoEP0zgupEhWcJLvBPT"
+        },
+        {
+          "name": "Toni Zeno",
+          "url": "https://open.spotify.com/artist/3EjtKBJgiLErF6cprWuHXG"
+        },
+        {
+          "name": "Terrasanta",
+          "url": "https://open.spotify.com/artist/3xK8gmuDQ7x4CxPAQaAE85"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304666,
+      "name": "CHIAVI DELLA CITT\u00c0",
+      "url": "https://open.spotify.com/track/1fjOxCKynoc4Fnl6c7bEd0"
+    },
+    {
+      "album": {
         "name": "Fenice",
         "url": "https://open.spotify.com/album/4Ff34a4maeLObapIe4K89I"
       },
@@ -2162,7 +2240,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 202893,
       "name": "COME STAI?",
       "url": "https://open.spotify.com/track/2QjyiKbzVyfrRgE6EGF3bn"
@@ -2294,7 +2372,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 247500,
       "name": "CRASH",
       "url": "https://open.spotify.com/track/0Op5iGBVLyY0G1lDDRfEnf"
@@ -2631,6 +2709,28 @@
     },
     {
       "album": {
+        "name": "NELLA FORMA PI\u00d9 PURA",
+        "url": "https://open.spotify.com/album/7aavTGWdHnB0Guxsh4GXB8"
+      },
+      "artists": [
+        {
+          "name": "Kkrisna",
+          "url": "https://open.spotify.com/artist/6mOW02ZcgtNJSF5jP8eqmf"
+        },
+        {
+          "name": "Toni Zeno",
+          "url": "https://open.spotify.com/artist/3EjtKBJgiLErF6cprWuHXG"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207163,
+      "name": "DIECI PADRE NOSTRO (con Toni Zeno)",
+      "url": "https://open.spotify.com/track/4nVWAWVIkJNhwP1B0MwSDm"
+    },
+    {
+      "album": {
         "name": "Vangelo",
         "url": "https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4"
       },
@@ -2730,7 +2830,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 137872,
       "name": "DOMENICA (feat. Silent Bob)",
       "url": "https://open.spotify.com/track/2j94KMeMCkstgbz4G3ZX6P"
@@ -3365,6 +3465,28 @@
     },
     {
       "album": {
+        "name": "AKA DANNO (DELUXE)",
+        "url": "https://open.spotify.com/album/1aMvYmRYDNaM4Wg3T7ks35"
+      },
+      "artists": [
+        {
+          "name": "Danno",
+          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
+        },
+        {
+          "name": "Dj Craim",
+          "url": "https://open.spotify.com/artist/0ermTOwdFG35lQiVjsWNEZ"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169182,
+      "name": "FUMO DI CHINA",
+      "url": "https://open.spotify.com/track/5NKZFyEEIHNJuT6gnNRkm3"
+    },
+    {
+      "album": {
         "name": "GAME OVER",
         "url": "https://open.spotify.com/album/2I4BCpXcZs3Uelkutq4ya3"
       },
@@ -3508,7 +3630,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 226516,
       "name": "Good Vibes Only",
       "url": "https://open.spotify.com/track/71I3pTi8nQkJbirnFO5Fk8"
@@ -3544,7 +3666,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 175000,
       "name": "GRAZIE",
       "url": "https://open.spotify.com/track/6iLx6AGj9tD3hvsYNRQobS"
@@ -3666,7 +3788,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 258139,
       "name": "HAI MAI (feat. Silent Bob, Tormento)",
       "url": "https://open.spotify.com/track/4iAEtBJwSTGh03F4P0ZB3y"
@@ -4711,6 +4833,24 @@
     },
     {
       "album": {
+        "name": "Laptop",
+        "url": "https://open.spotify.com/album/7iZP6qFAKNTofKUwZ7RU8u"
+      },
+      "artists": [
+        {
+          "name": "Adri",
+          "url": "https://open.spotify.com/artist/6y985VEM5UDacD7lG3Zq9C"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146451,
+      "name": "Laptop",
+      "url": "https://open.spotify.com/track/2VwKHg0nQXnmZRo6XqfmzP"
+    },
+    {
+      "album": {
         "name": "Las Vegas Freestyle",
         "url": "https://open.spotify.com/album/1oqSHf9Qc8sJThpm6lpX2K"
       },
@@ -4920,7 +5060,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 164819,
       "name": "Lettera a Tedua",
       "url": "https://open.spotify.com/track/6XTjmZEoEu0VvSBCFi8bZM"
@@ -4950,7 +5090,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 197157,
       "name": "Levitating High \ud80c\udc79 (con Papa V, Pitta, JOJO ABOT)",
       "url": "https://open.spotify.com/track/0kbcf0agcQ1YYv0poPbGWd"
@@ -5338,7 +5478,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 183999,
       "name": "MAN OF THE YEAR",
       "url": "https://open.spotify.com/track/5GnxXxy4SSSpWZjhURler1"
@@ -5466,6 +5606,36 @@
       "duration_ms": 183089,
       "name": "MI SENTO BENE",
       "url": "https://open.spotify.com/track/2v4kWcQ7LWML8TEQmLDAEO"
+    },
+    {
+      "album": {
+        "name": "60 Hz II - Legacy",
+        "url": "https://open.spotify.com/album/4XFYcrzf3FHbK2C8WbJ1vm"
+      },
+      "artists": [
+        {
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+        },
+        {
+          "name": "Jake La Furia",
+          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
+        },
+        {
+          "name": "Flaco G",
+          "url": "https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9"
+        },
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211958,
+      "name": "Milano Top Boy",
+      "url": "https://open.spotify.com/track/3zBSyG9e9eJYBOoVjSQjya"
     },
     {
       "album": {
@@ -5700,7 +5870,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 128640,
       "name": "MUSICA TRAP",
       "url": "https://open.spotify.com/track/3JSA9yt2eBVOdK52cIn6eW"
@@ -6026,7 +6196,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 160114,
       "name": "NON SO MAI COSA DIRTI",
       "url": "https://open.spotify.com/track/1e6u6sJESC7glxdUrOZx5F"
@@ -6206,6 +6376,24 @@
       "duration_ms": 167400,
       "name": "OK",
       "url": "https://open.spotify.com/track/4Omankg1sEMCJEieJGduI8"
+    },
+    {
+      "album": {
+        "name": "26",
+        "url": "https://open.spotify.com/album/67SBrrE0LhCNEJpar5MQ0P"
+      },
+      "artists": [
+        {
+          "name": "Ele A",
+          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Oki",
+      "url": "https://open.spotify.com/track/0VvjGOqozrA3l33E0NZkmE"
     },
     {
       "album": {
@@ -6612,7 +6800,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 259919,
       "name": "PERCH\u00c9 PIANGO (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/5O7yMp5fwRCKvbVEYoEb7d"
@@ -7170,7 +7358,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 163842,
       "name": "QUELLA FORESTA",
       "url": "https://open.spotify.com/track/4G2Pr2PzW2c2of71iQcZXq"
@@ -7761,6 +7949,32 @@
     },
     {
       "album": {
+        "name": "Self control",
+        "url": "https://open.spotify.com/album/5DZxAf5LA7KQEQKx122Uh9"
+      },
+      "artists": [
+        {
+          "name": "Tormento",
+          "url": "https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L"
+        },
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Juniork",
+          "url": "https://open.spotify.com/artist/0fmgGC0Djn2ZgujYN4HvFo"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184715,
+      "name": "Self control",
+      "url": "https://open.spotify.com/track/1JW2QapVwiEqwX71N0Ztcv"
+    },
+    {
+      "album": {
         "name": "Sfoghi di una vita complicata 5",
         "url": "https://open.spotify.com/album/2y8CANUxlby7nxb7fbyfi0"
       },
@@ -8069,6 +8283,24 @@
     },
     {
       "album": {
+        "name": "26",
+        "url": "https://open.spotify.com/album/67SBrrE0LhCNEJpar5MQ0P"
+      },
+      "artists": [
+        {
+          "name": "Ele A",
+          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130520,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/3CEpzJ7PtAlUGx7jRTHJwG"
+    },
+    {
+      "album": {
         "name": "Orange County California",
         "url": "https://open.spotify.com/album/3dw4egjjsLDxbpgvACa3AC"
       },
@@ -8298,6 +8530,36 @@
       "duration_ms": 204575,
       "name": "Tempo (feat. Latrelle, Promessa)",
       "url": "https://open.spotify.com/track/7fRk1NaO920sA3g8L8CWTK"
+    },
+    {
+      "album": {
+        "name": "60 Hz II - Legacy",
+        "url": "https://open.spotify.com/album/4XFYcrzf3FHbK2C8WbJ1vm"
+      },
+      "artists": [
+        {
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+        },
+        {
+          "name": "Danno",
+          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
+        },
+        {
+          "name": "Armani Doc",
+          "url": "https://open.spotify.com/artist/7djBWDVQvjaDbC8rSilpLC"
+        },
+        {
+          "name": "Toni Zeno",
+          "url": "https://open.spotify.com/artist/3EjtKBJgiLErF6cprWuHXG"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197684,
+      "name": "The Industry Don't Understand II",
+      "url": "https://open.spotify.com/track/3tayc6TjkmpMNFl9O9DFPS"
     },
     {
       "album": {

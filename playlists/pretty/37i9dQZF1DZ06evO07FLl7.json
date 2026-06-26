@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajnMgAAAAACdfRc96GlnekYRRmijOSil",
+  "snapshot_id": "ajseAAAAAADuWpRL1+eFJT/xzmMUTkMU",
   "tracks": [
     {
       "added_at": null,
@@ -771,22 +771,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pr\u00f3spera D+",
-        "url": "https://open.spotify.com/album/5exDobh8Uos33Hw27BPmhM"
+        "name": "Outra Esfera",
+        "url": "https://open.spotify.com/album/1qoq2XVihlVN9H9x48A45k"
       },
       "artists": [
         {
           "name": "Tassia Reis",
           "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        },
-        {
-          "name": "Nelson D",
-          "url": "https://open.spotify.com/artist/3hSRbxpRL7fJ64PepWjCof"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Me Beije",
-      "url": "https://open.spotify.com/track/1berLAehxGY70nYh1bPPfF"
+      "duration_ms": 260119,
+      "name": "Semana Vem",
+      "url": "https://open.spotify.com/track/4uAdD1dcGAcCxDluTEvizW"
     },
     {
       "added_at": null,
@@ -803,42 +799,6 @@
       "duration_ms": 198773,
       "name": "Primavera",
       "url": "https://open.spotify.com/track/4HQ1zoAzgZlggunWIdG2Kt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Imundo",
-        "url": "https://open.spotify.com/album/1J5tvGAHp4FLvx8biG8Hop"
-      },
-      "artists": [
-        {
-          "name": "Hiran",
-          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
-        },
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        }
-      ],
-      "duration_ms": 165436,
-      "name": "Black Loro",
-      "url": "https://open.spotify.com/track/4varAkeoHYFdmFXxiz1VTs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pr\u00f3spera",
-        "url": "https://open.spotify.com/album/5lPf3mZW1C3ftYCbTklzC3"
-      },
-      "artists": [
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        }
-      ],
-      "duration_ms": 210182,
-      "name": "Me Diga",
-      "url": "https://open.spotify.com/track/70PYwbbOgWXjTCtzAUV53l"
     },
     {
       "added_at": null,
@@ -863,6 +823,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pr\u00f3spera",
+        "url": "https://open.spotify.com/album/5lPf3mZW1C3ftYCbTklzC3"
+      },
+      "artists": [
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "duration_ms": 210182,
+      "name": "Me Diga",
+      "url": "https://open.spotify.com/track/70PYwbbOgWXjTCtzAUV53l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Imundo",
+        "url": "https://open.spotify.com/album/1J5tvGAHp4FLvx8biG8Hop"
+      },
+      "artists": [
+        {
+          "name": "Hiran",
+          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
+        },
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "duration_ms": 165436,
+      "name": "Black Loro",
+      "url": "https://open.spotify.com/track/4varAkeoHYFdmFXxiz1VTs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Outra Esfera",
         "url": "https://open.spotify.com/album/1qoq2XVihlVN9H9x48A45k"
       },
@@ -872,37 +868,29 @@
           "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
         }
       ],
-      "duration_ms": 260119,
-      "name": "Semana Vem",
-      "url": "https://open.spotify.com/track/4uAdD1dcGAcCxDluTEvizW"
+      "duration_ms": 217444,
+      "name": "Perigo",
+      "url": "https://open.spotify.com/track/5btFYoiyAJeuyaXCppYmri"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Mango02",
-        "url": "https://open.spotify.com/album/7FJ2UdIC4mXIRlmoyERVxk"
+        "name": "Pr\u00f3spera D+",
+        "url": "https://open.spotify.com/album/5exDobh8Uos33Hw27BPmhM"
       },
       "artists": [
-        {
-          "name": "Afroito",
-          "url": "https://open.spotify.com/artist/1qw5CiJU0QdsGdCdjkC7ue"
-        },
         {
           "name": "Tassia Reis",
           "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
         },
         {
-          "name": "Theo Zagrae",
-          "url": "https://open.spotify.com/artist/0pX9KfvxYdwXSh43fX4t8z"
-        },
-        {
-          "name": "MangoLab",
-          "url": "https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym"
+          "name": "Nelson D",
+          "url": "https://open.spotify.com/artist/3hSRbxpRL7fJ64PepWjCof"
         }
       ],
-      "duration_ms": 191460,
-      "name": "Magenta",
-      "url": "https://open.spotify.com/track/20jar3jBKUq0ojEgHDOD5A"
+      "duration_ms": 240000,
+      "name": "Me Beije",
+      "url": "https://open.spotify.com/track/1berLAehxGY70nYh1bPPfF"
     },
     {
       "added_at": null,
@@ -947,6 +935,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mango02",
+        "url": "https://open.spotify.com/album/7FJ2UdIC4mXIRlmoyERVxk"
+      },
+      "artists": [
+        {
+          "name": "Afroito",
+          "url": "https://open.spotify.com/artist/1qw5CiJU0QdsGdCdjkC7ue"
+        },
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        },
+        {
+          "name": "Theo Zagrae",
+          "url": "https://open.spotify.com/artist/0pX9KfvxYdwXSh43fX4t8z"
+        },
+        {
+          "name": "MangoLab",
+          "url": "https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym"
+        }
+      ],
+      "duration_ms": 191460,
+      "name": "Magenta",
+      "url": "https://open.spotify.com/track/20jar3jBKUq0ojEgHDOD5A"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Outra Esfera",
         "url": "https://open.spotify.com/album/1qoq2XVihlVN9H9x48A45k"
       },
@@ -956,9 +972,9 @@
           "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
         }
       ],
-      "duration_ms": 217444,
-      "name": "Perigo",
-      "url": "https://open.spotify.com/track/5btFYoiyAJeuyaXCppYmri"
+      "duration_ms": 234206,
+      "name": "Ou\u00e7a-Me R M X",
+      "url": "https://open.spotify.com/track/0YH8930FX7C87DUMZIIpii"
     },
     {
       "added_at": null,
@@ -1006,11 +1022,15 @@
         {
           "name": "Tassia Reis",
           "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
         }
       ],
-      "duration_ms": 234206,
-      "name": "Ou\u00e7a-Me R M X",
-      "url": "https://open.spotify.com/track/0YH8930FX7C87DUMZIIpii"
+      "duration_ms": 384448,
+      "name": "Da Lama / Afrontamento",
+      "url": "https://open.spotify.com/track/6Zkb1V7bbL5hIR4SEdhmGm"
     },
     {
       "added_at": null,
@@ -1027,26 +1047,6 @@
       "duration_ms": 189240,
       "name": "Calma Preta",
       "url": "https://open.spotify.com/track/32D34IsYWHiw2bAtqRTaos"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outra Esfera",
-        "url": "https://open.spotify.com/album/1qoq2XVihlVN9H9x48A45k"
-      },
-      "artists": [
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        }
-      ],
-      "duration_ms": 384448,
-      "name": "Da Lama / Afrontamento",
-      "url": "https://open.spotify.com/track/6Zkb1V7bbL5hIR4SEdhmGm"
     }
   ],
   "unique_name": "This Is Tassia Reis",

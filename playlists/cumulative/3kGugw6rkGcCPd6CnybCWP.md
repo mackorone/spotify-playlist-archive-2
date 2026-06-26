@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-402 songs - 23 hr 20 min
+407 songs - 23 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [ashes \(roses and petals\)](https://open.spotify.com/track/2xhHd50zQcD59LDICweKHs) | [hxtedbyforce!](https://open.spotify.com/artist/6LurtON7FdurBR7OGsgtJb) | [ashes \(roses and petals\)](https://open.spotify.com/album/6F8LIZcCN1ogGPQuOJbHtj) | 2:16 | 2026-05-26 |  |
 | [Ask Me Why](https://open.spotify.com/track/0FXqsSgfEQhk3gsLs8FKyL) | [Elandra](https://open.spotify.com/artist/7v6meC75PAbtwyenxZnZaK) | [Ask Me Why](https://open.spotify.com/album/1A6vohn8A6e7Gn8mN5Ob0H) | 3:32 | 2025-11-15 | 2026-01-17 |
 | [Atychiphobia](https://open.spotify.com/track/6tBFBC5Etcyk65r39tFTAj) | [Patch Habits](https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ) | [Atychiphobia](https://open.spotify.com/album/4sWV1ookrG5cyfB1x0Kozc) | 3:44 | 2026-03-09 | 2026-04-16 |
+| [Autumn Lover](https://open.spotify.com/track/1xhuFPqGkiUlXaMZVUyANj) | [Ariel Corinne](https://open.spotify.com/artist/2tgtYtYfuB1XiYygooiWle) | [Love Death and Worms](https://open.spotify.com/album/2EasSth9XZkxYQd4LxgbGU) | 2:50 | 2026-06-25 |  |
 | [Bacardi Love.](https://open.spotify.com/track/6P8S17uPnnLSEf2XPtDPbJ) | [Flow State Experience](https://open.spotify.com/artist/7l4P3Pkgf6vqqhdQLG7vrl) | [Bacardi Love.](https://open.spotify.com/album/4qK19G4ytKA2L8MYT6u2JQ) | 1:53 | 2025-11-07 | 2026-01-17 |
 | [Back To Me](https://open.spotify.com/track/2e1Mqe1pQWp9wRKtoRH5pN) | [Ham Radio](https://open.spotify.com/artist/0KAzAbafgVSUP3w8P4n5SM), [American Theory](https://open.spotify.com/artist/28Qtn1c2vjIrKMKvZHFsD8) | [Back To Me](https://open.spotify.com/album/1eQJZ2ju0grdHgVCeUkgYq) | 3:33 | 2026-05-27 |  |
 | [Back to the Start](https://open.spotify.com/track/47HHmW5YouagaGwQrMCRvi) | [Evan Fahey](https://open.spotify.com/artist/5UQEmHxArWrbjMM94TFVFi) | [Back to the Start](https://open.spotify.com/album/5PNIo39qx1mVQnluO3UM4f) | 2:23 | 2026-05-12 |  |
@@ -137,6 +138,7 @@
 | [Fire](https://open.spotify.com/track/6AYMMXHitROsSNE6KxQz9I) | [Holly Wild](https://open.spotify.com/artist/1gwRWwDueKmMcxHLX5ttmC) | [Fire](https://open.spotify.com/album/1RpsbQ26lwGS3tWYCRsB1q) | 3:24 | 2025-10-24 | 2025-12-02 |
 | [Flames From Ashes](https://open.spotify.com/track/2mxuCuLVNniXnAyHuuDlyZ) | [Lisha Sebastian](https://open.spotify.com/artist/3DGpupUZehN24bDfwPU647) | [Learning to Love](https://open.spotify.com/album/1Ck5RZSaEz4LzO0n1sQk6d) | 3:20 | 2026-03-26 | 2026-04-21 |
 | [Folded \- Cover](https://open.spotify.com/track/2Y4zKHMsZRoPhqq6Ud6PHx) | [MLLN](https://open.spotify.com/artist/6cm9fsI3WSMNSJkJp74L1e) | [Folded \(Cover\)](https://open.spotify.com/album/4LuMEm6hy9ZxZzhgMlKkCq) | 4:05 | 2026-05-17 |  |
+| [Foolin'](https://open.spotify.com/track/3vncpZM6t0AhzJetZDQCcj) | [B\. Berg](https://open.spotify.com/artist/57gpUFpnZP5BLmnFchAwMB) | [Foolin'](https://open.spotify.com/album/5MaxV5DF4EFnYRYke9JiOG) | 4:53 | 2026-06-25 |  |
 | [Forever Blue](https://open.spotify.com/track/0HCpOV0BPeDiwzWMRdPc2F) | [Going Big](https://open.spotify.com/artist/17zEnHkf1boWQ8Ll9yhysp) | [Forever Blue](https://open.spotify.com/album/1jPuINX9YzECKkhVibkw0V) | 4:16 | 2025-11-14 | 2026-01-17 |
 | [Forget](https://open.spotify.com/track/3ccTskdIayct3ul6ImpFhF) | [twomoonsaway](https://open.spotify.com/artist/0ryWmY27elchOQgNPEskvI) | [Forget](https://open.spotify.com/album/68e7pBLOsqIvD05rIkYCgp) | 3:28 | 2026-05-10 |  |
 | [Forget The Serotonin High, I Much Prefer The Void Anyways](https://open.spotify.com/track/0ilKqjDIpc7fmrsYImDKBa) | [Echo Alexander](https://open.spotify.com/artist/0ghlorYK2vI8FZjkkeUEA1) | [Nightmares That Have Become Reality](https://open.spotify.com/album/4Qi0uQiaMPfPZ1hOfjpO14) | 4:41 | 2026-05-10 |  |
@@ -181,6 +183,7 @@
 | [I stood for u \(Girlfriends\)](https://open.spotify.com/track/1jH06cHxmyraxNtV9HFoTo) | [Zombisickle](https://open.spotify.com/artist/3IrjzOB8AmlZx3mQdhl5By) | [I stood for u \(Girlfriends\)](https://open.spotify.com/album/6nIS7SShPtBYrWeeRltyAF) | 1:41 | 2026-04-06 | 2026-05-14 |
 | [I Tried](https://open.spotify.com/track/31n6laL6k7g4t1DhsFePcS) | [MALØNE](https://open.spotify.com/artist/2kjoQ9U3dMg6YcrUiP6540) | [Energy](https://open.spotify.com/album/3hvmpzjC41l5LXXl0JT73N) | 2:10 | 2026-04-23 |  |
 | [I Was Scared](https://open.spotify.com/track/3ro11J4E4vuzZxWE4S0llJ) | [Bad Script](https://open.spotify.com/artist/6z0JS9G1jFH6DgwYsEZK3j) | [Life Hurts You Without Asking](https://open.spotify.com/album/35k58F7hpZIe0uqTprPIVI) | 5:02 | 2026-05-17 |  |
+| [i wish that i was him](https://open.spotify.com/track/1DZZWjZnaE1lMUS6E5zHxg) | [Ian Thunder](https://open.spotify.com/artist/0qM0mEacwA4DzC3Wk2OdA3) | [i wish that i was him](https://open.spotify.com/album/4alGFpIigBWHHQ5mMZP9M2) | 1:58 | 2026-06-25 |  |
 | [I'm Only Sleeping](https://open.spotify.com/track/5uXA2Ss4v2WaqujWoTTmsT) | [Mal Fantome](https://open.spotify.com/artist/2bc1lfZRNtQD0kKa0wo49Y) | [OK UK](https://open.spotify.com/album/0GEnQQPbmgngYDDxvEz2CM) | 3:43 | 2026-02-08 | 2026-03-29 |
 | [I'm so Scared of You](https://open.spotify.com/track/29myHNF0WVbPbwZmc3Al7x) | [Everything Velvet](https://open.spotify.com/artist/0J3Bsaj91QTSMVpxpAY8NE) | [I'm so Scared of You](https://open.spotify.com/album/6FNFV9J1mhqFVz53nzXIOb) | 4:53 | 2025-11-01 | 2026-01-17 |
 | [i've](https://open.spotify.com/track/46CHFOn4ayNjzKQ31B7sbM) | [North Shy](https://open.spotify.com/artist/2A3nZ5WhiMaBI2NgsXa4aV) | [aftermath](https://open.spotify.com/album/3YF6DBphL3fpTWSVrIj2Og) | 3:25 | 2025-10-24 | 2025-12-02 |
@@ -209,6 +212,7 @@
 | [Last Man On Earth](https://open.spotify.com/track/55P8rIE0Lva9mR2QYLFeE3) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Goodbye \(If You Call That Gone\)](https://open.spotify.com/album/1svJQc2WYWqzXp75ZaxFH4) | 3:36 | 2026-03-10 | 2026-04-16 |
 | [Lawless \- Live](https://open.spotify.com/track/5ITVgTTBvXKfljsjnH32bP) | [Daisy Dooks](https://open.spotify.com/artist/14FaxA5641sUwJ48atvveo) | [Live at The Albany](https://open.spotify.com/album/3GorY4S66WCmQ1hiuzPDoC) | 3:56 | 2025-10-30 | 2025-12-12 |
 | [Le monde part en fusée](https://open.spotify.com/track/2I86BkId64ZJMxJ32H7FYG) | [Maël Jones](https://open.spotify.com/artist/7vG6jtcybDsUbuFm6iKxNC) | [Sous contrôle](https://open.spotify.com/album/4IGoZE6Rp1P0JQDDo7MJip) | 3:17 | 2026-03-10 | 2026-04-16 |
+| [Leave My Mess Behind](https://open.spotify.com/track/5OrY0h7bLAx3m69fulxRrL) | [Wishwell](https://open.spotify.com/artist/4ujbmiDbRtguC5T4JecZgv) | [Leave My Mess Behind](https://open.spotify.com/album/2DxH4WogmQNgtN9amI11YV) | 3:23 | 2026-06-25 |  |
 | [Left on Red](https://open.spotify.com/track/7hvIooRdwasrzBFf1zuzMi) | [Left Out](https://open.spotify.com/artist/0u5lJCQCtzpkMkfckgeTwr) | [Left on Red](https://open.spotify.com/album/1oYLH8UaTxWb2mQawgCAci) | 4:38 | 2026-06-03 |  |
 | [Legos](https://open.spotify.com/track/1n6e2lkiVY7jiqIbGETKhk) | [K\-NON](https://open.spotify.com/artist/2whXftjghPIBw9A5rWkjZY), [Vepy](https://open.spotify.com/artist/37eGmYLzLX8gA7Eh9mgVRi) | [Legos](https://open.spotify.com/album/7u35zpzp6buERBScBvujJi) | 3:28 | 2026-02-19 | 2026-04-16 |
 | [let me down](https://open.spotify.com/track/3GNrt3MEs5gaHGJRVuuoDr) | [Pixie Cola](https://open.spotify.com/artist/50vL1eTCa1R40d6BMCkX4G) | [let me down](https://open.spotify.com/album/1zbr6mwb5gTnPWHqQnCYrm) | 3:41 | 2025-10-30 | 2026-01-17 |
@@ -333,6 +337,7 @@
 | [Take Me](https://open.spotify.com/track/7rtj9ELtA6y0zFxv12pOEN) | [Bad Script](https://open.spotify.com/artist/6z0JS9G1jFH6DgwYsEZK3j) | [Blue, Deepest Blue](https://open.spotify.com/album/33pzXi7wLOKUn1Xzn21UOm) | 3:29 | 2026-03-31 | 2026-05-06 |
 | [Take Pills](https://open.spotify.com/track/17dQ6dEmmUAY62q6498ffX) | [HADA](https://open.spotify.com/artist/4NFT2JCnnmDu65IatiikcH) | [Take pills](https://open.spotify.com/album/03i9ywQzdL9OhNigSfwRR0) | 3:10 | 2026-05-22 |  |
 | [Tell Me Where The Light's Gone](https://open.spotify.com/track/1CV0dfCgjLoZbj3ysBndNU) | [Mitch Meyer](https://open.spotify.com/artist/7yOCg6zTd1wMxKCBdD99uk) | [Tell Me Where The Light's Gone](https://open.spotify.com/album/6614ReT8bDTay3fLxIYd4U) | 3:20 | 2026-05-22 |  |
+| [Temporale](https://open.spotify.com/track/6fcg53c7n41DTfwE8JbjVk) | [Heygregg](https://open.spotify.com/artist/1osX1AI2YS7ZYZNkkry7iJ) | [Temporale](https://open.spotify.com/album/1GzSHr7iwT76nRnL2zRHh0) | 2:32 | 2026-06-25 |  |
 | [That Sunshine's Mine](https://open.spotify.com/track/4YgD5fStfkqqjkfL15Tygk) | [Ellie Heath](https://open.spotify.com/artist/4jDhGLOdqlN8casEgCnnjW) | [Pushing Forty](https://open.spotify.com/album/13HsxjVBJF860WS0HcZBV7) | 2:37 | 2026-06-03 |  |
 | [That's Cool](https://open.spotify.com/track/2k7SrfAazc3aXOSGcBT66L) | [Slaney Bay](https://open.spotify.com/artist/6jfR9Na2d55xoFOK5mQT1I) | [That's Cool](https://open.spotify.com/album/7aPGxG33vGIZrTO3YQ5xQb) | 3:46 | 2026-04-12 |  |
 | [The Anchor](https://open.spotify.com/track/0clMXe1bOcuX6uxlRrQ2OM) | [Richy McLoughlin](https://open.spotify.com/artist/2Zhk3KjyBwtA4jzgo8dFXy) | [Ultradian](https://open.spotify.com/album/08licc707KeCqg7jsXWOWB) | 2:46 | 2026-05-05 |  |

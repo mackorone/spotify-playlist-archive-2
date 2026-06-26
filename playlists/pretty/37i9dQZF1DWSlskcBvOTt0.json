@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
-  "num_followers": 589992,
+  "num_followers": 590051,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
@@ -1023,6 +1023,26 @@
     {
       "added_at": "2026-06-19 04:00:46",
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/3OQZaCnc8B6JxWyuZkCTI9"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 196306,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/7Jnhl4HMucYxZIIxhcE5Zb"
+    },
+    {
+      "added_at": "2026-06-19 04:00:46",
+      "album": {
         "name": "Vele Uyena (Risk It All) (feat. Elaine, JAZZWRLD, Thukuthela & Solaariss)",
         "url": "https://open.spotify.com/album/7weLnc8ITNXPCwG2tVxUXs"
       },
@@ -1055,26 +1075,6 @@
     {
       "added_at": "2026-06-19 04:00:46",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/3OQZaCnc8B6JxWyuZkCTI9"
-      },
-      "artists": [
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        },
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 196306,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/7Jnhl4HMucYxZIIxhcE5Zb"
-    },
-    {
-      "added_at": "2026-06-19 04:00:46",
-      "album": {
         "name": "Natural Blues",
         "url": "https://open.spotify.com/album/1Il6vUKaKu9dwdxWSvtoSC"
       },
@@ -1095,6 +1095,26 @@
       "duration_ms": 155476,
       "name": "Natural Blues",
       "url": "https://open.spotify.com/track/0YMP9iIN0kPO3kp7pnxZpB"
+    },
+    {
+      "added_at": "2026-06-19 04:00:46",
+      "album": {
+        "name": "No Shape Without You",
+        "url": "https://open.spotify.com/album/3vrD2T9rErhaCbc4wV1UYf"
+      },
+      "artists": [
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        },
+        {
+          "name": "LevyM",
+          "url": "https://open.spotify.com/artist/6kekX8B3zzb3xBsX4KQgAg"
+        }
+      ],
+      "duration_ms": 265573,
+      "name": "No Shape Without You",
+      "url": "https://open.spotify.com/track/61z9JuSmy3ojIWoVhGHQAE"
     },
     {
       "added_at": "2026-06-19 04:00:46",
@@ -1123,26 +1143,6 @@
       "duration_ms": 188852,
       "name": "Believe In Us",
       "url": "https://open.spotify.com/track/62O2Y6iQE3apMyrpEFpmPA"
-    },
-    {
-      "added_at": "2026-06-19 04:00:46",
-      "album": {
-        "name": "No Shape Without You",
-        "url": "https://open.spotify.com/album/3vrD2T9rErhaCbc4wV1UYf"
-      },
-      "artists": [
-        {
-          "name": "Shimza",
-          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
-        },
-        {
-          "name": "LevyM",
-          "url": "https://open.spotify.com/artist/6kekX8B3zzb3xBsX4KQgAg"
-        }
-      ],
-      "duration_ms": 265573,
-      "name": "No Shape Without You",
-      "url": "https://open.spotify.com/track/61z9JuSmy3ojIWoVhGHQAE"
     },
     {
       "added_at": "2026-06-19 04:00:46",
@@ -1451,26 +1451,18 @@
     {
       "added_at": "2026-06-19 04:00:46",
       "album": {
-        "name": "Right Here, Right Now (Rework)",
-        "url": "https://open.spotify.com/album/02fl3shLdoJFDQTBJun5xX"
+        "name": "GROOVINU",
+        "url": "https://open.spotify.com/album/6qB8AEEnqVOOUsTHu6cIks"
       },
       "artists": [
         {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "Marco Generani",
-          "url": "https://open.spotify.com/artist/6OFkyZFXxnH0hLJ4yeF7ki"
+          "name": "Sara Costa",
+          "url": "https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49"
         }
       ],
-      "duration_ms": 145975,
-      "name": "Right Here, Right Now - Rework",
-      "url": "https://open.spotify.com/track/3szSyYRapmpvq9UKU3drwy"
+      "duration_ms": 166162,
+      "name": "GROOVINU",
+      "url": "https://open.spotify.com/track/6lGOcjBAzM0paksRI8FIkH"
     },
     {
       "added_at": "2026-06-19 04:00:46",
@@ -1495,18 +1487,26 @@
     {
       "added_at": "2026-06-19 04:00:46",
       "album": {
-        "name": "GROOVINU",
-        "url": "https://open.spotify.com/album/6qB8AEEnqVOOUsTHu6cIks"
+        "name": "Right Here, Right Now (Rework)",
+        "url": "https://open.spotify.com/album/02fl3shLdoJFDQTBJun5xX"
       },
       "artists": [
         {
-          "name": "Sara Costa",
-          "url": "https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49"
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Marco Generani",
+          "url": "https://open.spotify.com/artist/6OFkyZFXxnH0hLJ4yeF7ki"
         }
       ],
-      "duration_ms": 166162,
-      "name": "GROOVINU",
-      "url": "https://open.spotify.com/track/6lGOcjBAzM0paksRI8FIkH"
+      "duration_ms": 145975,
+      "name": "Right Here, Right Now - Rework",
+      "url": "https://open.spotify.com/track/3szSyYRapmpvq9UKU3drwy"
     },
     {
       "added_at": "2026-06-19 04:00:46",
@@ -1787,6 +1787,26 @@
     {
       "added_at": "2026-06-19 04:00:46",
       "album": {
+        "name": "Sound Of The Sunrise",
+        "url": "https://open.spotify.com/album/2edg227641w0qF8GX65k0R"
+      },
+      "artists": [
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+        },
+        {
+          "name": "Sistek",
+          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
+        }
+      ],
+      "duration_ms": 193548,
+      "name": "Sound Of The Sunrise",
+      "url": "https://open.spotify.com/track/6m5LSzsU466ynNvEkxoctM"
+    },
+    {
+      "added_at": "2026-06-19 04:00:46",
+      "album": {
         "name": "Feel The Love",
         "url": "https://open.spotify.com/album/5n6V1LkjqA3sr4n1gz1ODx"
       },
@@ -1811,26 +1831,6 @@
       "duration_ms": 183016,
       "name": "Feel The Love",
       "url": "https://open.spotify.com/track/79VHKtRi11otZg0Bil7v1G"
-    },
-    {
-      "added_at": "2026-06-19 04:00:46",
-      "album": {
-        "name": "Sound Of The Sunrise",
-        "url": "https://open.spotify.com/album/2edg227641w0qF8GX65k0R"
-      },
-      "artists": [
-        {
-          "name": "AR/CO",
-          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
-        },
-        {
-          "name": "Sistek",
-          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
-        }
-      ],
-      "duration_ms": 193548,
-      "name": "Sound Of The Sunrise",
-      "url": "https://open.spotify.com/track/6m5LSzsU466ynNvEkxoctM"
     },
     {
       "added_at": "2026-06-19 04:00:46",
@@ -1931,26 +1931,6 @@
     {
       "added_at": "2026-06-19 04:00:46",
       "album": {
-        "name": "Back On 74 (Rework)",
-        "url": "https://open.spotify.com/album/5EN57EnOfeu9KPeTFBXr2W"
-      },
-      "artists": [
-        {
-          "name": "Betical",
-          "url": "https://open.spotify.com/artist/3vbonbiHY9CmCYrWgp9j5z"
-        },
-        {
-          "name": "Arper",
-          "url": "https://open.spotify.com/artist/2ZC47mH6pyBoIJgBfx6Rmq"
-        }
-      ],
-      "duration_ms": 340160,
-      "name": "Back On 74 - Rework",
-      "url": "https://open.spotify.com/track/7x6NXL0GWhUZBtE3aIKukT"
-    },
-    {
-      "added_at": "2026-06-19 04:00:46",
-      "album": {
         "name": "Bilmirem",
         "url": "https://open.spotify.com/album/43ZP1eMhyK58ki4mGeEuy0"
       },
@@ -1967,6 +1947,26 @@
       "duration_ms": 162937,
       "name": "Bilmirem",
       "url": "https://open.spotify.com/track/1V0mY5kWhCbUJYil8PVGUJ"
+    },
+    {
+      "added_at": "2026-06-19 04:00:46",
+      "album": {
+        "name": "Back On 74 (Rework)",
+        "url": "https://open.spotify.com/album/5EN57EnOfeu9KPeTFBXr2W"
+      },
+      "artists": [
+        {
+          "name": "Betical",
+          "url": "https://open.spotify.com/artist/3vbonbiHY9CmCYrWgp9j5z"
+        },
+        {
+          "name": "Arper",
+          "url": "https://open.spotify.com/artist/2ZC47mH6pyBoIJgBfx6Rmq"
+        }
+      ],
+      "duration_ms": 340160,
+      "name": "Back On 74 - Rework",
+      "url": "https://open.spotify.com/track/7x6NXL0GWhUZBtE3aIKukT"
     },
     {
       "added_at": "2026-06-19 04:00:46",
@@ -2307,26 +2307,22 @@
     {
       "added_at": "2026-06-19 04:00:46",
       "album": {
-        "name": "Campanera",
-        "url": "https://open.spotify.com/album/3IsSwiowHDd0YgVeAIuU4U"
+        "name": "Your Command (Paul Kalkbrenner Remix)",
+        "url": "https://open.spotify.com/album/5ZGfegmOmQ795QyKe5ln5U"
       },
       "artists": [
         {
-          "name": "MESTIZA",
-          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
         },
         {
-          "name": "Faul & Wad",
-          "url": "https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5"
-        },
-        {
-          "name": "Diana Navarro",
-          "url": "https://open.spotify.com/artist/2UPK6yJypnotLzHuUBiVa2"
+          "name": "Paul Kalkbrenner",
+          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
         }
       ],
-      "duration_ms": 159555,
-      "name": "Campanera",
-      "url": "https://open.spotify.com/track/48PDWlo207BD9XDRZzFhR7"
+      "duration_ms": 448757,
+      "name": "Your Command - Paul Kalkbrenner Remix",
+      "url": "https://open.spotify.com/track/1GDQ1w0fXYXswcX34AUAor"
     },
     {
       "added_at": "2026-06-19 04:00:46",
@@ -2351,22 +2347,26 @@
     {
       "added_at": "2026-06-19 04:00:46",
       "album": {
-        "name": "Your Command (Paul Kalkbrenner Remix)",
-        "url": "https://open.spotify.com/album/5ZGfegmOmQ795QyKe5ln5U"
+        "name": "Campanera",
+        "url": "https://open.spotify.com/album/3IsSwiowHDd0YgVeAIuU4U"
       },
       "artists": [
         {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+          "name": "MESTIZA",
+          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
         },
         {
-          "name": "Paul Kalkbrenner",
-          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
+          "name": "Faul & Wad",
+          "url": "https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5"
+        },
+        {
+          "name": "Diana Navarro",
+          "url": "https://open.spotify.com/artist/2UPK6yJypnotLzHuUBiVa2"
         }
       ],
-      "duration_ms": 448757,
-      "name": "Your Command - Paul Kalkbrenner Remix",
-      "url": "https://open.spotify.com/track/1GDQ1w0fXYXswcX34AUAor"
+      "duration_ms": 159555,
+      "name": "Campanera",
+      "url": "https://open.spotify.com/track/48PDWlo207BD9XDRZzFhR7"
     },
     {
       "added_at": "2026-06-19 04:00:46",
@@ -2487,6 +2487,22 @@
     {
       "added_at": "2026-06-19 04:00:46",
       "album": {
+        "name": "Remember Who You Are",
+        "url": "https://open.spotify.com/album/2JZ9v11Hfhbvk5AtW3Pgyo"
+      },
+      "artists": [
+        {
+          "name": "Fritz Kalkbrenner",
+          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
+        }
+      ],
+      "duration_ms": 224140,
+      "name": "Remember Who You Are",
+      "url": "https://open.spotify.com/track/3tblXmky5Yxp4egimxx5t8"
+    },
+    {
+      "added_at": "2026-06-19 04:00:46",
+      "album": {
         "name": "Sympathy For The Devil",
         "url": "https://open.spotify.com/album/7j2bfbPa9SfdPLRGLOuNG1"
       },
@@ -2503,22 +2519,6 @@
       "duration_ms": 219963,
       "name": "Sympathy For The Devil",
       "url": "https://open.spotify.com/track/3rrbTQvYSZNPZ5qFrti0xO"
-    },
-    {
-      "added_at": "2026-06-19 04:00:46",
-      "album": {
-        "name": "Remember Who You Are",
-        "url": "https://open.spotify.com/album/2JZ9v11Hfhbvk5AtW3Pgyo"
-      },
-      "artists": [
-        {
-          "name": "Fritz Kalkbrenner",
-          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
-        }
-      ],
-      "duration_ms": 224140,
-      "name": "Remember Who You Are",
-      "url": "https://open.spotify.com/track/3tblXmky5Yxp4egimxx5t8"
     },
     {
       "added_at": "2026-06-19 04:00:46",

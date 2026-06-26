@@ -783,6 +783,22 @@
     {
       "added_at": "2026-04-24 08:23:24",
       "album": {
+        "name": "Love Letters",
+        "url": "https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F"
+      },
+      "artists": [
+        {
+          "name": "Lyambiko",
+          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
+        }
+      ],
+      "duration_ms": 329944,
+      "name": "There Is No Greater Love",
+      "url": "https://open.spotify.com/track/1yvDZeqobR7Pv6ZRVHtT9j"
+    },
+    {
+      "added_at": "2026-04-24 08:23:24",
+      "album": {
         "name": "Stop Searching for Love (feat. Kate Ceberano)",
         "url": "https://open.spotify.com/album/6s063r0rmt7nFgsyobzQvr"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 306960,
       "name": "Stop Searching for Love (feat. Kate Ceberano)",
       "url": "https://open.spotify.com/track/7yi1OPcs7d2nfIQVPYAkky"
-    },
-    {
-      "added_at": "2026-04-24 08:23:24",
-      "album": {
-        "name": "Love Letters",
-        "url": "https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F"
-      },
-      "artists": [
-        {
-          "name": "Lyambiko",
-          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
-        }
-      ],
-      "duration_ms": 329944,
-      "name": "There Is No Greater Love",
-      "url": "https://open.spotify.com/track/1yvDZeqobR7Pv6ZRVHtT9j"
     },
     {
       "added_at": "2026-04-24 08:23:24",
@@ -1019,58 +1019,6 @@
     {
       "added_at": "2026-04-24 08:23:24",
       "album": {
-        "name": "Love & the Lack Thereof",
-        "url": "https://open.spotify.com/album/6G02poGGFTpTnrkrv1lrH6"
-      },
-      "artists": [
-        {
-          "name": "Kat Gang",
-          "url": "https://open.spotify.com/artist/2xTwCujoVxqAHsNTUr1qDi"
-        }
-      ],
-      "duration_ms": 373946,
-      "name": "Then I'll Be Tired of You",
-      "url": "https://open.spotify.com/track/4w1IwCOEWobiZUh5uA35GZ"
-    },
-    {
-      "added_at": "2026-04-24 08:23:24",
-      "album": {
-        "name": "Wild Is Love",
-        "url": "https://open.spotify.com/album/1KaPoOODukFswUMyjlK2ec"
-      },
-      "artists": [
-        {
-          "name": "Naama",
-          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
-        },
-        {
-          "name": "Peter Bernstein",
-          "url": "https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc"
-        }
-      ],
-      "duration_ms": 222533,
-      "name": "Wild Is Love",
-      "url": "https://open.spotify.com/track/1DKnLQHPxHB7bMgewS3JSk"
-    },
-    {
-      "added_at": "2026-04-24 08:23:24",
-      "album": {
-        "name": "That Doesn't Matter",
-        "url": "https://open.spotify.com/album/4k50CU7lgJN6aIAZqjOreg"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 169386,
-      "name": "That Doesn't Matter",
-      "url": "https://open.spotify.com/track/451vo0g9vAHXx6tZsWrZ8b"
-    },
-    {
-      "added_at": "2026-04-24 08:23:24",
-      "album": {
         "name": "The Richard Rodgers Songbook",
         "url": "https://open.spotify.com/album/2nsWi2RA4XDmgOuuMKW87h"
       },
@@ -1103,6 +1051,58 @@
     {
       "added_at": "2026-04-24 08:23:24",
       "album": {
+        "name": "Wild Is Love",
+        "url": "https://open.spotify.com/album/1KaPoOODukFswUMyjlK2ec"
+      },
+      "artists": [
+        {
+          "name": "Naama",
+          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
+        },
+        {
+          "name": "Peter Bernstein",
+          "url": "https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc"
+        }
+      ],
+      "duration_ms": 222533,
+      "name": "Wild Is Love",
+      "url": "https://open.spotify.com/track/1DKnLQHPxHB7bMgewS3JSk"
+    },
+    {
+      "added_at": "2026-04-24 08:23:24",
+      "album": {
+        "name": "Love & the Lack Thereof",
+        "url": "https://open.spotify.com/album/6G02poGGFTpTnrkrv1lrH6"
+      },
+      "artists": [
+        {
+          "name": "Kat Gang",
+          "url": "https://open.spotify.com/artist/2xTwCujoVxqAHsNTUr1qDi"
+        }
+      ],
+      "duration_ms": 373946,
+      "name": "Then I'll Be Tired of You",
+      "url": "https://open.spotify.com/track/4w1IwCOEWobiZUh5uA35GZ"
+    },
+    {
+      "added_at": "2026-04-24 08:23:24",
+      "album": {
+        "name": "That Doesn't Matter",
+        "url": "https://open.spotify.com/album/4k50CU7lgJN6aIAZqjOreg"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 169386,
+      "name": "That Doesn't Matter",
+      "url": "https://open.spotify.com/track/451vo0g9vAHXx6tZsWrZ8b"
+    },
+    {
+      "added_at": "2026-04-24 08:23:24",
+      "album": {
         "name": "Day By Day",
         "url": "https://open.spotify.com/album/2gVd0QcZkUBmJJSD6AL9do"
       },
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-04-24 08:23:24",
       "album": {
-        "name": "Come Closer",
-        "url": "https://open.spotify.com/album/5kbNiEbyJ4GgvJRkduAr39"
-      },
-      "artists": [
-        {
-          "name": "Kat Gang",
-          "url": "https://open.spotify.com/artist/2xTwCujoVxqAHsNTUr1qDi"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "People Will Say We're In Love",
-      "url": "https://open.spotify.com/track/7d5WHGfv4DqTWtjQGHrwij"
-    },
-    {
-      "added_at": "2026-04-24 08:23:24",
-      "album": {
         "name": "Laura Benanti",
         "url": "https://open.spotify.com/album/5lTuYzH9Bc6i59TGVtxw81"
       },
@@ -1151,22 +1135,6 @@
       "duration_ms": 264653,
       "name": "Go Slow",
       "url": "https://open.spotify.com/track/3KMeqdGzrtxXGa5oRwZFGQ"
-    },
-    {
-      "added_at": "2026-04-24 08:23:24",
-      "album": {
-        "name": "I've Been Kicking Myself",
-        "url": "https://open.spotify.com/album/0qZYvYJsrTrGUz4XxgMBsq"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 194933,
-      "name": "I've Been Kicking Myself",
-      "url": "https://open.spotify.com/track/0yllbeI1EJEx9kFn5jVgN2"
     },
     {
       "added_at": "2026-04-24 08:23:24",
@@ -1195,6 +1163,38 @@
       "duration_ms": 376085,
       "name": "You Go to My Head",
       "url": "https://open.spotify.com/track/1xxxPMRx3geNxH5IzUGpbX"
+    },
+    {
+      "added_at": "2026-04-24 08:23:24",
+      "album": {
+        "name": "Come Closer",
+        "url": "https://open.spotify.com/album/5kbNiEbyJ4GgvJRkduAr39"
+      },
+      "artists": [
+        {
+          "name": "Kat Gang",
+          "url": "https://open.spotify.com/artist/2xTwCujoVxqAHsNTUr1qDi"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "People Will Say We're In Love",
+      "url": "https://open.spotify.com/track/7d5WHGfv4DqTWtjQGHrwij"
+    },
+    {
+      "added_at": "2026-04-24 08:23:24",
+      "album": {
+        "name": "I've Been Kicking Myself",
+        "url": "https://open.spotify.com/album/0qZYvYJsrTrGUz4XxgMBsq"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 194933,
+      "name": "I've Been Kicking Myself",
+      "url": "https://open.spotify.com/track/0yllbeI1EJEx9kFn5jVgN2"
     },
     {
       "added_at": "2026-04-24 08:23:24",

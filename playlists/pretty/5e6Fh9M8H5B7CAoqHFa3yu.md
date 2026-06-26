@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 341 likes - 2,406 songs - 5 day 21 hr 57 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 341 likes - 2,413 songs - 5 day 22 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2414,5 +2414,12 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2404 | [Дышать](https://open.spotify.com/track/4R5bbmS5OoFrgbLk8tRoY8) | [ANTY\-DOTE](https://open.spotify.com/artist/6977CBnV7l66u6yEM9MwMW) | [Дышать](https://open.spotify.com/album/4WnGAdmmXihQC1WKsOmw4I) | 1:02 |
 | 2405 | [Time and a Place](https://open.spotify.com/track/5IcBicRU5XceiJJRcds8wt) | [HAMLIN](https://open.spotify.com/artist/08UO9aJMvPU8w2BfXKeZbk) | [Time and a Place](https://open.spotify.com/album/5Na8n7JvfZI2qWnYWfFEkV) | 4:12 |
 | 2406 | [Luka Yang Bernama Kamu](https://open.spotify.com/track/2VXPqyN2N6J15Md9fSc8s9) | [Ekkyu](https://open.spotify.com/artist/6mT1w2xe3Os7CLSR1bAU6W) | [Luka Yang Bernama Kamu](https://open.spotify.com/album/3fhiugMLvJQfLRZoM3XItY) | 4:38 |
+| 2407 | [Больше Букв](https://open.spotify.com/track/0Q4wO9zQapT6lpx6LT5Qkk) | [NeuroKolyan](https://open.spotify.com/artist/4p2EYQIpWi6Fg378pB75C8) | [Больше Букв](https://open.spotify.com/album/6qZzTo28vHipxaZJGqO3rQ) | 4:31 |
+| 2408 | [My Feelings Song \(Emotional Regulation Support\)](https://open.spotify.com/track/1j4MXVAlvxCoRYOD8XwbfH) | [CogniSongs](https://open.spotify.com/artist/3xLSyJ9ROxRRh2wPaByWQx) | [Feel & Know](https://open.spotify.com/album/5MUO4GuTbPLtRKJIvyiXfc) | 3:04 |
+| 2409 | [A–Z Self\-Love & Feelings Kids Song](https://open.spotify.com/track/3mjzeqz8sQqh3335cmKaPn) | [CogniSongs](https://open.spotify.com/artist/3xLSyJ9ROxRRh2wPaByWQx) | [I Know my ABC's \(Letters, Phonics, Emotions\)](https://open.spotify.com/album/2UFrDs90jKe3iLewrayXRX) | 3:11 |
+| 2410 | [Can I Play Too? How to Make Friends Preschooler Song](https://open.spotify.com/track/0IQpGdjALSmEVxKG2CsidH) | [CogniSongs](https://open.spotify.com/artist/3xLSyJ9ROxRRh2wPaByWQx) | [Will You Be My Friend?](https://open.spotify.com/album/5pqj7mZh0fE0kSTQnFzwTv) | 2:21 |
+| 2411 | [I LIGHT UP THE ROOM \(Kids EDM Anthem\)](https://open.spotify.com/track/3Go5cJCWjciTk9LkkCnmcy) | [CogniSongs](https://open.spotify.com/artist/3xLSyJ9ROxRRh2wPaByWQx) | [I LIGHT UP THE ROOM \(Kids EDM Anthem\)](https://open.spotify.com/album/7tJiiukjKAdM1UXJC3OBdH) | 2:47 |
+| 2412 | [Bath Time Wind Down \(Let’s Talk About Your Day\)](https://open.spotify.com/track/1QW0z7lBzuvrlRLjoZlIjv) | [CogniSongs](https://open.spotify.com/artist/3xLSyJ9ROxRRh2wPaByWQx) | [The Bonding Songs Collection](https://open.spotify.com/album/7kHZyIzqOZsshcXqGshcce) | 1:55 |
+| 2413 | [Nieład](https://open.spotify.com/track/783FpVzfgZ7odINgFMNTS3) | [Sierpu](https://open.spotify.com/artist/3KMXxgdgbehB8ELRqunraF) | [Nieład](https://open.spotify.com/album/2Dugjb0uZBqmWrgbQHrBGf) | 2:45 |
 
-Snapshot ID: `AAAKMhsZavXjFwtsTC3SweU4xB6h8M8R`
+Snapshot ID: `AAAKOamykF4Lf+OFWvyBb3sk79l3UCeq`

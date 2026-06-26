@@ -6,8 +6,128 @@
     "name": "Cargo Independent Distribution",
     "url": "https://open.spotify.com/user/cargorecords"
   },
-  "snapshot_id": "AABM7QrwkIHquAJqDNpq/s5utSdvsV1Y",
+  "snapshot_id": "AABM+k8fqvdYZpx/1sTrEL8ZdWpWnM8S",
   "tracks": [
+    {
+      "added_at": "2026-06-25 13:09:14",
+      "album": {
+        "name": "Blue House",
+        "url": "https://open.spotify.com/album/1l1CzSbYEfhCGiJiP3RBLO"
+      },
+      "artists": [
+        {
+          "name": "Croatian Amor",
+          "url": "https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig"
+        }
+      ],
+      "duration_ms": 289687,
+      "name": "Blue House",
+      "url": "https://open.spotify.com/track/5gTETQsg1BZC4qhgXxn7vI"
+    },
+    {
+      "added_at": "2026-06-25 13:09:28",
+      "album": {
+        "name": "Make Me Wanna",
+        "url": "https://open.spotify.com/album/1GtevUiyGYcSHBBsFTl1UK"
+      },
+      "artists": [
+        {
+          "name": "DJ Manny",
+          "url": "https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7"
+        },
+        {
+          "name": "DJ Phil",
+          "url": "https://open.spotify.com/artist/3oSp2886kGrTnv7qEYU93T"
+        }
+      ],
+      "duration_ms": 216340,
+      "name": "Make Me Wanna",
+      "url": "https://open.spotify.com/track/6EE5uSWor5VnCqyspREaTK"
+    },
+    {
+      "added_at": "2026-06-25 13:10:52",
+      "album": {
+        "name": "Rural Meaures",
+        "url": "https://open.spotify.com/album/0cxC2DGA3JX6KBqGSDHqeJ"
+      },
+      "artists": [
+        {
+          "name": "Perch",
+          "url": "https://open.spotify.com/artist/31IgAY8LuXAmTTzaX98j1l"
+        }
+      ],
+      "duration_ms": 185200,
+      "name": "Rosemary",
+      "url": "https://open.spotify.com/track/54lpA7CMX4JhrvHPY1kJ2j"
+    },
+    {
+      "added_at": "2026-06-25 13:08:59",
+      "album": {
+        "name": "Sweetness, Sweetness",
+        "url": "https://open.spotify.com/album/5IjisLPzP3DHBzGX0BbrEv"
+      },
+      "artists": [
+        {
+          "name": "M. Woodroe",
+          "url": "https://open.spotify.com/artist/3XcaCcJ4MSkEPSQNd54qN7"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Sweetness, Sweetness",
+      "url": "https://open.spotify.com/track/77gc9rMxZBhpszAJ9gUiit"
+    },
+    {
+      "added_at": "2026-06-25 13:09:59",
+      "album": {
+        "name": "Critical Mass",
+        "url": "https://open.spotify.com/album/41hXccgancJjA6ZOqKQnrV"
+      },
+      "artists": [
+        {
+          "name": "Nick Mitchell Maiato",
+          "url": "https://open.spotify.com/artist/5xVDCUwaCgq92kjaXoypqS"
+        },
+        {
+          "name": "Bob Bralove",
+          "url": "https://open.spotify.com/artist/40ORdckZc4hDymUnqBmLEA"
+        }
+      ],
+      "duration_ms": 355500,
+      "name": "Critical Mass",
+      "url": "https://open.spotify.com/track/7yDt3M73E66P16CcJ9uYwP"
+    },
+    {
+      "added_at": "2026-06-25 13:10:32",
+      "album": {
+        "name": "Best of Luck",
+        "url": "https://open.spotify.com/album/4K0CdSqp5A0GyMa8k1GKhA"
+      },
+      "artists": [
+        {
+          "name": "Sniffany & The Nits",
+          "url": "https://open.spotify.com/artist/7ERaPawHEVtydVDH6DuolH"
+        }
+      ],
+      "duration_ms": 162255,
+      "name": "Best of Luck",
+      "url": "https://open.spotify.com/track/32IPRl54xl8nv3SNEMAtr8"
+    },
+    {
+      "added_at": "2026-06-25 13:08:46",
+      "album": {
+        "name": "Foxy",
+        "url": "https://open.spotify.com/album/3HoBpL8amL1aLBR7Q9ZEbE"
+      },
+      "artists": [
+        {
+          "name": "Railcard",
+          "url": "https://open.spotify.com/artist/1h7YejqHI5OfMCS6fcRbEr"
+        }
+      ],
+      "duration_ms": 224898,
+      "name": "Foxy",
+      "url": "https://open.spotify.com/track/53xY5CZhm2RzSx01WV48Jp"
+    },
     {
       "added_at": "2026-06-19 10:17:27",
       "album": {
@@ -1587,126 +1707,6 @@
       "duration_ms": 187157,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/7c0GkIDDPRB8mHyOe8zWak"
-    },
-    {
-      "added_at": "2026-05-15 05:59:45",
-      "album": {
-        "name": "Prendre Le Pouvoir Par La Force",
-        "url": "https://open.spotify.com/album/5x689q1qDucIsCe0v2q9Pc"
-      },
-      "artists": [
-        {
-          "name": "Prisonnier du temps",
-          "url": "https://open.spotify.com/artist/6Z8TRIeMpeFbnxvgmPp4Sr"
-        }
-      ],
-      "duration_ms": 193626,
-      "name": "L'Arm\u00e9e Des Ombres",
-      "url": "https://open.spotify.com/track/1uAMWzQbuXJUsigQymZJH4"
-    },
-    {
-      "added_at": "2026-05-15 06:01:43",
-      "album": {
-        "name": "The Idyllist (Remastered 2026)",
-        "url": "https://open.spotify.com/album/6Hqlko9ptNYhxQLO4PCRIP"
-      },
-      "artists": [
-        {
-          "name": "Steve Kilbey",
-          "url": "https://open.spotify.com/artist/73RfKk8YdbdXckjcMBCAd4"
-        }
-      ],
-      "duration_ms": 335413,
-      "name": "Aero-space - Remastered 2026",
-      "url": "https://open.spotify.com/track/1jMYMUfvBSHSrT20DPwr0n"
-    },
-    {
-      "added_at": "2026-05-15 05:44:16",
-      "album": {
-        "name": "Fathom Tides",
-        "url": "https://open.spotify.com/album/2LEiUU8oFmDxXd6yht9VFF"
-      },
-      "artists": [
-        {
-          "name": "Werner Dafeldecker",
-          "url": "https://open.spotify.com/artist/5iZZY08wj2zJDYN8HTuNHn"
-        },
-        {
-          "name": "Lawrence English",
-          "url": "https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI"
-        }
-      ],
-      "duration_ms": 347622,
-      "name": "Fathom Tides V",
-      "url": "https://open.spotify.com/track/1X720PQ3ZRSg5BH4ZYvVJi"
-    },
-    {
-      "added_at": "2026-05-15 05:48:03",
-      "album": {
-        "name": "The Best of Hefner",
-        "url": "https://open.spotify.com/album/3ePxWWpvEeKnEKSCSINJG8"
-      },
-      "artists": [
-        {
-          "name": "Hefner",
-          "url": "https://open.spotify.com/artist/6B4yZT4AZbcEH90zluBhTK"
-        },
-        {
-          "name": "Darren Hayman",
-          "url": "https://open.spotify.com/artist/7z1zIVirda43ep7aMRkXYH"
-        }
-      ],
-      "duration_ms": 263133,
-      "name": "The Greater London Radio",
-      "url": "https://open.spotify.com/track/5TAZ1GTL8moATHhhEgkZWH"
-    },
-    {
-      "added_at": "2026-05-15 05:48:16",
-      "album": {
-        "name": "Encounter with Aliens",
-        "url": "https://open.spotify.com/album/03mhkcJS3wUp8PlVS7K4ty"
-      },
-      "artists": [
-        {
-          "name": "Low Communication",
-          "url": "https://open.spotify.com/artist/2lGu1rS6eJD5Y2xYnjpYV9"
-        }
-      ],
-      "duration_ms": 362790,
-      "name": "Encounter With Aliens",
-      "url": "https://open.spotify.com/track/0zGlCxlTE2Sus6B3enk492"
-    },
-    {
-      "added_at": "2026-05-15 05:59:24",
-      "album": {
-        "name": "Doubtful Realm",
-        "url": "https://open.spotify.com/album/73Kc8OZE26pGpsudGCepKf"
-      },
-      "artists": [
-        {
-          "name": "Angels in America",
-          "url": "https://open.spotify.com/artist/3cnJ18nJFHcGBhmAIYnsn9"
-        }
-      ],
-      "duration_ms": 228940,
-      "name": "Doubtful Realm",
-      "url": "https://open.spotify.com/track/1d0U1qIpuI7RrJFlJBULgQ"
-    },
-    {
-      "added_at": "2026-05-15 06:02:26",
-      "album": {
-        "name": "Teenage Bomb",
-        "url": "https://open.spotify.com/album/1qqUSsGl1USrlxSUR1p3KX"
-      },
-      "artists": [
-        {
-          "name": "The Needles",
-          "url": "https://open.spotify.com/artist/5QhekguX2GVqYhwl4WCrH5"
-        }
-      ],
-      "duration_ms": 182106,
-      "name": "Teenage Bomb",
-      "url": "https://open.spotify.com/track/7ipCKgxYRmos1ExvwdjLLI"
     }
   ],
   "unique_name": "Cargo Independent Distribution New Release Playlist",

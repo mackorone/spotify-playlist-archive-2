@@ -10462,7 +10462,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 115588,
       "name": "Greatest Year",
       "url": "https://open.spotify.com/track/1CM4tAWU2hGEPnIQ8njOwN"
@@ -19617,6 +19617,24 @@
     },
     {
       "album": {
+        "name": "out of the woods",
+        "url": "https://open.spotify.com/album/1T4OxXnEOKCNPWpjP9aiIM"
+      },
+      "artists": [
+        {
+          "name": "s\u00fcnny side",
+          "url": "https://open.spotify.com/artist/5czslLGNW0PurzrnZyucXs"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148611,
+      "name": "out of the woods",
+      "url": "https://open.spotify.com/track/5IrGxcT1gqyIJaq1EompS1"
+    },
+    {
+      "album": {
         "name": "Out of Time",
         "url": "https://open.spotify.com/album/2XgWIq44NJ4hysQTT2ua3b"
       },
@@ -20274,7 +20292,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 92867,
       "name": "Petit c\u0153ur",
       "url": "https://open.spotify.com/track/7yzFraT9cokM2IzDPxsW1m"
@@ -24583,6 +24601,24 @@
     },
     {
       "album": {
+        "name": "speak softly",
+        "url": "https://open.spotify.com/album/5VDkpZlckMeIjA1GffY241"
+      },
+      "artists": [
+        {
+          "name": "LVTA",
+          "url": "https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "speak softly",
+      "url": "https://open.spotify.com/track/2fNpfk95mKHTO2P816KQlZ"
+    },
+    {
+      "album": {
         "name": "speakeasy",
         "url": "https://open.spotify.com/album/5ZrgqlxNkLV8l0o6PaVNzu"
       },
@@ -28038,7 +28074,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 128470,
       "name": "Triplo",
       "url": "https://open.spotify.com/track/5RpukHbnGDArxAsBV6Uk4W"
@@ -28858,6 +28894,24 @@
       "duration_ms": 126857,
       "name": "vinyl",
       "url": "https://open.spotify.com/track/3ZDHugxhMsEaSQ2xhH8dzM"
+    },
+    {
+      "album": {
+        "name": "Violet",
+        "url": "https://open.spotify.com/album/2L7Ic0245IFf8EZueMV15G"
+      },
+      "artists": [
+        {
+          "name": "Cloudsurfin'",
+          "url": "https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114000,
+      "name": "Violet",
+      "url": "https://open.spotify.com/track/6vWZy3veq3tjTzkQBAH1nt"
     },
     {
       "album": {

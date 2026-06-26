@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Most of the Time",
+        "url": "https://open.spotify.com/album/1ze1UO2MCfEoBzUGRMGrfR"
+      },
+      "artists": [
+        {
+          "name": "Jackie Evans",
+          "url": "https://open.spotify.com/artist/3hr95JCfCIlFRK9EmDFJ3R"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167020,
+      "name": "10 Till the Morning",
+      "url": "https://open.spotify.com/track/5a7nKar5pBJj1dl0uEODqv"
+    },
+    {
+      "album": {
         "name": "Good Things",
         "url": "https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm"
       },
@@ -4060,7 +4078,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 238066,
       "name": "I Try",
       "url": "https://open.spotify.com/track/00cP99zN0bsUZSpXbAlQXg"

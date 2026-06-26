@@ -1,12 +1,12 @@
 {
   "description": "This is Herencia de Patrones. The essential tracks, all in one playlist.",
-  "num_followers": 144300,
+  "num_followers": 144307,
   "original_name": "This Is Herencia de Patrones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajnMgAAAAADfebkRWpHZDO8Miw1s0BEB",
+  "snapshot_id": "ajseAAAAAADbonK3mqX8hoTcCLv7MR/b",
   "tracks": [
     {
       "added_at": null,
@@ -431,26 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "333",
-        "url": "https://open.spotify.com/album/0kMlewzNPhiikgi0eL0ocz"
-      },
-      "artists": [
-        {
-          "name": "HERNAN TREJO",
-          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 207293,
-      "name": "Los Ultimos Son Los Primeros (Remix)",
-      "url": "https://open.spotify.com/track/5vRcByVHzEc0Eejo4WzmLi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Plush",
         "url": "https://open.spotify.com/album/3FdVasYYRNSMgmdtcMGxh1"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 177647,
       "name": "Plush",
       "url": "https://open.spotify.com/track/3iOYS9G3ABuHK36IT8f9es"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/0kMlewzNPhiikgi0eL0ocz"
+      },
+      "artists": [
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 207293,
+      "name": "Los Ultimos Son Los Primeros (Remix)",
+      "url": "https://open.spotify.com/track/5vRcByVHzEc0Eejo4WzmLi"
     },
     {
       "added_at": null,

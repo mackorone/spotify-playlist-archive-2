@@ -1,6 +1,6 @@
 {
   "description": "Favoritl\u00e5tar f\u00f6r lugna och sk\u00f6na stunder.",
-  "num_followers": 611901,
+  "num_followers": 611882,
   "original_name": "Lugnt & Sk\u00f6nt",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-06-11 22:01:30",
       "album": {
-        "name": "Be More",
-        "url": "https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "duration_ms": 231684,
-      "name": "Be More",
-      "url": "https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53"
-    },
-    {
-      "added_at": "2026-06-11 22:01:30",
-      "album": {
         "name": "It Takes A Woman",
         "url": "https://open.spotify.com/album/5x2dlq5qBsCHiC9UVSJ4RR"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 246986,
       "name": "It Takes A Woman",
       "url": "https://open.spotify.com/track/64lQdlm7FlF0AYZsRaZlBP"
+    },
+    {
+      "added_at": "2026-06-11 22:01:30",
+      "album": {
+        "name": "Be More",
+        "url": "https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "duration_ms": 231684,
+      "name": "Be More",
+      "url": "https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53"
     },
     {
       "added_at": "2026-06-11 22:01:30",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-06-11 22:01:30",
       "album": {
-        "name": "Till dig",
-        "url": "https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1"
-      },
-      "artists": [
-        {
-          "name": "Kerstin Ljungstr\u00f6m",
-          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Du & jag",
-      "url": "https://open.spotify.com/track/5lD4PboLvP3yWc3MCULsRb"
-    },
-    {
-      "added_at": "2026-06-11 22:01:30",
-      "album": {
         "name": "80's",
         "url": "https://open.spotify.com/album/6FPJRjSJpm6dDcgKOS0dOV"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 210500,
       "name": "80's",
       "url": "https://open.spotify.com/track/2cGlzTR9gC93lc12cZ8afB"
+    },
+    {
+      "added_at": "2026-06-11 22:01:30",
+      "album": {
+        "name": "Till dig",
+        "url": "https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1"
+      },
+      "artists": [
+        {
+          "name": "Kerstin Ljungstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Du & jag",
+      "url": "https://open.spotify.com/track/5lD4PboLvP3yWc3MCULsRb"
     },
     {
       "added_at": "2026-06-11 22:01:30",
@@ -875,6 +875,22 @@
       "duration_ms": 231765,
       "name": "From The Jump (Duet Version)",
       "url": "https://open.spotify.com/track/3DZXLbZv5uUMZ1R1nsSMQg"
+    },
+    {
+      "added_at": "2026-06-11 22:01:30",
+      "album": {
+        "name": "Stockholm",
+        "url": "https://open.spotify.com/album/3NNlYaqNHWxBhdKUJaPpcj"
+      },
+      "artists": [
+        {
+          "name": "Isak Danielson",
+          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
+        }
+      ],
+      "duration_ms": 201342,
+      "name": "Stockholm",
+      "url": "https://open.spotify.com/track/6ey4WncmCwNDailvLTUZCm"
     },
     {
       "added_at": "2026-06-11 22:01:30",
@@ -911,22 +927,6 @@
       "duration_ms": 275326,
       "name": "H\u00e4nderna Mot Himlen - Acoustic",
       "url": "https://open.spotify.com/track/3dBmqkxFJ9qECnyky9YDp2"
-    },
-    {
-      "added_at": "2026-06-11 22:01:30",
-      "album": {
-        "name": "Stockholm",
-        "url": "https://open.spotify.com/album/3NNlYaqNHWxBhdKUJaPpcj"
-      },
-      "artists": [
-        {
-          "name": "Isak Danielson",
-          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
-        }
-      ],
-      "duration_ms": 201342,
-      "name": "Stockholm",
-      "url": "https://open.spotify.com/track/6ey4WncmCwNDailvLTUZCm"
     },
     {
       "added_at": "2026-06-11 22:01:30",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-06-11 22:01:30",
       "album": {
-        "name": "God Bless Sweden",
-        "url": "https://open.spotify.com/album/58fHScs4YWTociyx6ekWff"
-      },
-      "artists": [
-        {
-          "name": "Hannes",
-          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
-        }
-      ],
-      "duration_ms": 185040,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/4m4PB6MrwkCe7tSCTJqGtA"
-    },
-    {
-      "added_at": "2026-06-11 22:01:30",
-      "album": {
         "name": "Your Bones",
         "url": "https://open.spotify.com/album/4DYdcN6zXdIH8lWmtd1FQV"
       },
@@ -1027,18 +1011,18 @@
     {
       "added_at": "2026-06-11 22:01:30",
       "album": {
-        "name": "Stockholm \u00e4r f\u00f6r stort",
-        "url": "https://open.spotify.com/album/341ScRYl1Nuz3wPvelqdxk"
+        "name": "God Bless Sweden",
+        "url": "https://open.spotify.com/album/58fHScs4YWTociyx6ekWff"
       },
       "artists": [
         {
-          "name": "Amani Smith",
-          "url": "https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M"
+          "name": "Hannes",
+          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
         }
       ],
-      "duration_ms": 185421,
-      "name": "Stockholm \u00e4r f\u00f6r stort",
-      "url": "https://open.spotify.com/track/3tiBjKLsRIF3kHIXynvGXv"
+      "duration_ms": 185040,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/4m4PB6MrwkCe7tSCTJqGtA"
     },
     {
       "added_at": "2026-06-11 22:01:30",
@@ -1059,6 +1043,22 @@
     {
       "added_at": "2026-06-11 22:01:30",
       "album": {
+        "name": "Stockholm \u00e4r f\u00f6r stort",
+        "url": "https://open.spotify.com/album/341ScRYl1Nuz3wPvelqdxk"
+      },
+      "artists": [
+        {
+          "name": "Amani Smith",
+          "url": "https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M"
+        }
+      ],
+      "duration_ms": 185421,
+      "name": "Stockholm \u00e4r f\u00f6r stort",
+      "url": "https://open.spotify.com/track/3tiBjKLsRIF3kHIXynvGXv"
+    },
+    {
+      "added_at": "2026-06-11 22:01:30",
+      "album": {
         "name": "Hard To Be Human",
         "url": "https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71"
       },
@@ -1071,30 +1071,6 @@
       "duration_ms": 170414,
       "name": "Hard To Be Human",
       "url": "https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu"
-    },
-    {
-      "added_at": "2026-06-11 22:01:30",
-      "album": {
-        "name": "A Lovestory",
-        "url": "https://open.spotify.com/album/42ADiGXcG2hT5peZ2R5AMT"
-      },
-      "artists": [
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        },
-        {
-          "name": "Fay Wildhagen",
-          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 184120,
-      "name": "A Lovestory",
-      "url": "https://open.spotify.com/track/468eI0Pa2pHWH99czCghAU"
     },
     {
       "added_at": "2026-06-11 22:01:30",
@@ -1131,6 +1107,30 @@
       "duration_ms": 232277,
       "name": "Doesn\u2019t Do Me Any Good",
       "url": "https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0"
+    },
+    {
+      "added_at": "2026-06-11 22:01:30",
+      "album": {
+        "name": "A Lovestory",
+        "url": "https://open.spotify.com/album/42ADiGXcG2hT5peZ2R5AMT"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        },
+        {
+          "name": "Fay Wildhagen",
+          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 184120,
+      "name": "A Lovestory",
+      "url": "https://open.spotify.com/track/468eI0Pa2pHWH99czCghAU"
     },
     {
       "added_at": "2026-06-11 22:01:30",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-06-11 22:01:30",
       "album": {
-        "name": "Bones Shake",
-        "url": "https://open.spotify.com/album/4b4XkDZLCOUqD3gXZ3y2Yk"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 226011,
-      "name": "Bones Shake",
-      "url": "https://open.spotify.com/track/2TX0eN7jdjQiGx7NHSax7l"
-    },
-    {
-      "added_at": "2026-06-11 22:01:30",
-      "album": {
         "name": "f\u00f6r oss",
         "url": "https://open.spotify.com/album/2hgV0AVu9hB4smSue0gPoV"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 181000,
       "name": "f\u00f6r oss",
       "url": "https://open.spotify.com/track/1sxW6Pauxd9qCXrXOli0Xu"
+    },
+    {
+      "added_at": "2026-06-11 22:01:30",
+      "album": {
+        "name": "Bones Shake",
+        "url": "https://open.spotify.com/album/4b4XkDZLCOUqD3gXZ3y2Yk"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 226011,
+      "name": "Bones Shake",
+      "url": "https://open.spotify.com/track/2TX0eN7jdjQiGx7NHSax7l"
     },
     {
       "added_at": "2026-06-11 22:01:30",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-06-11 22:01:30",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 240277,
-      "name": "Airplane",
-      "url": "https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT"
-    },
-    {
-      "added_at": "2026-06-11 22:01:30",
-      "album": {
         "name": "Fragile Thing",
         "url": "https://open.spotify.com/album/1DP01efbCq7HrWl9Yj3JDj"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 168561,
       "name": "Fragile Thing",
       "url": "https://open.spotify.com/track/6WThsZZ0AaMNm4UkBnMmiB"
+    },
+    {
+      "added_at": "2026-06-11 22:01:30",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 240277,
+      "name": "Airplane",
+      "url": "https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT"
     },
     {
       "added_at": "2026-06-11 22:01:30",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2026-06-11 22:01:30",
       "album": {
-        "name": "B\u00f6rja Om",
-        "url": "https://open.spotify.com/album/1lCZ0uYsLyMlV7gdcwQstQ"
-      },
-      "artists": [
-        {
-          "name": "Sara Zacharias",
-          "url": "https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg"
-        }
-      ],
-      "duration_ms": 176809,
-      "name": "B\u00f6rja Om",
-      "url": "https://open.spotify.com/track/1voYsDwEAjE2bwTRuGAl9Y"
-    },
-    {
-      "added_at": "2026-06-11 22:01:30",
-      "album": {
         "name": "Jag h\u00e5ller hj\u00e4rtat i min hand",
         "url": "https://open.spotify.com/album/2rFf2SeE8jT1r5EMQzXWw2"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 195612,
       "name": "Min barndoms s\u00e5ng",
       "url": "https://open.spotify.com/track/5A6XyL4axUrZ5zsNE34G0U"
+    },
+    {
+      "added_at": "2026-06-11 22:01:30",
+      "album": {
+        "name": "B\u00f6rja Om",
+        "url": "https://open.spotify.com/album/1lCZ0uYsLyMlV7gdcwQstQ"
+      },
+      "artists": [
+        {
+          "name": "Sara Zacharias",
+          "url": "https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg"
+        }
+      ],
+      "duration_ms": 176809,
+      "name": "B\u00f6rja Om",
+      "url": "https://open.spotify.com/track/1voYsDwEAjE2bwTRuGAl9Y"
     },
     {
       "added_at": "2026-06-11 22:01:30",

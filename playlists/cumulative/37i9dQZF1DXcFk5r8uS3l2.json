@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Sons of Legion",
+  "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Keb' Mo'",
   "name": "Blues Roots",
   "tracks": [
     {
@@ -2324,6 +2324,24 @@
       "duration_ms": 226454,
       "name": "Fight the Good Fight",
       "url": "https://open.spotify.com/track/4SZcib7kgYNZC43ZeLpYQM"
+    },
+    {
+      "album": {
+        "name": "Swamp Dogg Contemplates The Afterlife",
+        "url": "https://open.spotify.com/album/16JqcSxNQDfq9hq6KCpVjx"
+      },
+      "artists": [
+        {
+          "name": "Swamp Dogg",
+          "url": "https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238158,
+      "name": "Final Approach",
+      "url": "https://open.spotify.com/track/5YPcwXfi1uGuUSMDCq6Asv"
     },
     {
       "album": {
@@ -7672,7 +7690,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 217626,
       "name": "That Sorta Thing",
       "url": "https://open.spotify.com/track/4h8BpG0sPKepkIg7cTUV5K"
@@ -9032,7 +9050,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 175564,
       "name": "Whom I Adore",
       "url": "https://open.spotify.com/track/0KyEGhg4AcfSuMrgPjMdEc"

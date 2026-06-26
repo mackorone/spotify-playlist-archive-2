@@ -4,7 +4,7 @@
 
 > welcome to our universe ft\. Pussy Riot
 
-1,306 songs - 2 day 16 hr 23 min
+1,308 songs - 2 day 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [ASHAMED \[Feat\. Lauren Mayberry\]](https://open.spotify.com/track/15b2BhawVZK3pQ7c2BhUcU) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Lauren Mayberry](https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph) | [ASHAMED f/ Lauren Mayberry](https://open.spotify.com/album/1N5ZcTHlOBXHGhnQtUu2BZ) | 3:01 | 2024-06-13 | 2024-10-11 |
 | [ask nicely](https://open.spotify.com/track/0adKvhR28ImyPl8yKC5oKO) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [ask nicely](https://open.spotify.com/album/0aM2bVnkmBZcW38sKuyAv9) | 2:39 | 2024-02-16 | 2024-05-17 |
 | [ask nicely](https://open.spotify.com/track/0z2SfGU6eMdIxmGRP86cLL) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [ask nicely](https://open.spotify.com/album/1lEfntFhy6muNSOVI9V2Bp) | 2:39 | 2024-03-29 | 2024-04-19 |
-| [ASSIGNMENT](https://open.spotify.com/track/039v69B31n5qbJ0mkCCqZM) | [Power Snatch](https://open.spotify.com/artist/3NEo0bJDvJ9xpRWwBRvLZ6) | [ASSIGNMENT](https://open.spotify.com/album/0HpGVaTMQvOwJk9mjPaQ4c) | 2:23 | 2026-02-06 |  |
+| [ASSIGNMENT](https://open.spotify.com/track/039v69B31n5qbJ0mkCCqZM) | [Power Snatch](https://open.spotify.com/artist/3NEo0bJDvJ9xpRWwBRvLZ6) | [ASSIGNMENT](https://open.spotify.com/album/0HpGVaTMQvOwJk9mjPaQ4c) | 2:23 | 2026-02-06 | 2026-06-26 |
 | [atoms](https://open.spotify.com/track/139vV5MsZSsOgzz0CU6Mgk) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [hawthorne81 / atoms](https://open.spotify.com/album/38bkGByEc2erGS7XcApFgV) | 2:48 | 2023-07-20 | 2023-07-28 |
 | [Attainable](https://open.spotify.com/track/2RMWx21y9xyUZ8naxDae2w) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Only Constant](https://open.spotify.com/album/3khEZvQmpSLplYYIlmK8ti) | 1:43 | 2024-05-28 | 2024-06-07 |
 | [ATTENTION!](https://open.spotify.com/track/5w4nlSCMfNT2TdopSd0Lmu) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [ATTENTION!](https://open.spotify.com/album/7zM6DDsuOyzy85DMg6Ktfh) | 2:41 | 2022-08-04 | 2022-09-09 |
@@ -249,7 +249,7 @@
 | [CPR](https://open.spotify.com/track/6RynBkCtUFER2ll7fLyt9M) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [CPR](https://open.spotify.com/album/6Lv6KtVqoeeNIsZQYvizcN) | 3:09 | 2024-01-12 | 2024-03-15 |
 | [Crash](https://open.spotify.com/track/2WH3mS1wEQVOnqM3MrtgrA) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Crash](https://open.spotify.com/album/5Md6s8myCyloKB3gJTExZT) | 2:28 | 2023-12-08 | 2024-05-17 |
 | [CRASH](https://open.spotify.com/track/2oqoX9JB9mjK9Aomw61kM2) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [LETHAL](https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4) | 2:42 | 2025-05-15 | 2025-07-25 |
-| [Crawling](https://open.spotify.com/track/0lFoYDeKvuhEpd6V0eK4fO) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [Crawling](https://open.spotify.com/album/5I38LJF0jJOR9Fd5KDVZ5D) | 3:33 | 2025-07-03 |  |
+| [Crawling](https://open.spotify.com/track/0lFoYDeKvuhEpd6V0eK4fO) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [Crawling](https://open.spotify.com/album/5I38LJF0jJOR9Fd5KDVZ5D) | 3:33 | 2025-07-03 | 2026-06-26 |
 | [CREEP HEAT](https://open.spotify.com/track/0fRktuIYjAFoYZ3HIORgkQ) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [CREEP HEAT](https://open.spotify.com/album/5mjmBGPfXVVuXbsadrozU5) | 3:25 | 2023-08-03 | 2023-11-11 |
 | [Crossing Guard](https://open.spotify.com/track/5l5B2UwA8Yp6kp1HwchSLx) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Crossing Guard](https://open.spotify.com/album/3kKS6RMfZJ8TMZJz8cTIxn) | 4:44 | 2023-01-20 | 2023-03-10 |
 | [crucify](https://open.spotify.com/track/32P5V0Pkgn4NAGdAEm0UNf) | [KNIFE BRIDE](https://open.spotify.com/artist/34THm21WWzzr69EetTmnVG) | [crucify](https://open.spotify.com/album/4dvnmpF9WoEOU50DWFZ5pH) | 4:11 | 2026-03-27 |  |
@@ -351,6 +351,7 @@
 | [Dusk](https://open.spotify.com/track/6yzuu8joRLnkpDIUzeXTMM) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Dusk](https://open.spotify.com/album/4rBFXDL3kIxwqeicNkWK8q) | 4:34 | 2023-09-21 | 2023-11-11 |
 | [Dutch Courage](https://open.spotify.com/track/5OCDCNYb7xT1HwgJ9SS1Oh) | [XO LU](https://open.spotify.com/artist/1QuS8XFGkFeFQdAQwSR1Uf) | [Dutch Courage](https://open.spotify.com/album/30kaWVTwGdetGhUqlbv04p) | 2:27 | 2021-12-27 | 2022-01-19 |
 | [DWYSSWM \(Don't Worry Your Secret's Safe With Me\)](https://open.spotify.com/track/5riZjtRWIYdFiXaoRogNHq) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [DWYSSWM \(Don't Worry Your Secret's Safe With Me\)](https://open.spotify.com/album/76K6RboS9bSVXarOZY4HPn) | 3:09 | 2022-02-18 | 2022-04-01 |
+| [E\-MOTION](https://open.spotify.com/track/47jmrl8NmxEv2bPML9E8IW) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [heartcore](https://open.spotify.com/album/7dWWVgDy4S6L06l3skL3EN) | 3:00 | 2026-06-25 |  |
 | [East End Boys \(feat\. lozeak\)](https://open.spotify.com/track/6kxK7LtWxZwM8BJnudYmZm) | [Boy Bleach](https://open.spotify.com/artist/0QdhKd1bYPAy48bofL7c0V), [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [East End Boys \(feat\. lozeak\)](https://open.spotify.com/album/0tE5DajPVPW0H2ijr44xXc) | 2:41 | 2023-06-29 | 2023-09-22 |
 | [EAT](https://open.spotify.com/track/3CRDDASiC4gwTYUOOdnMxt) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [EAT / DIRT](https://open.spotify.com/album/5sSHtc1O80DaV60NDKPnYu) | 2:17 | 2024-04-25 | 2024-07-12 |
 | [EAT THE SPOON](https://open.spotify.com/track/7bHZ7xlHczkhHeZRXwAjr4) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [EAT THE SPOON](https://open.spotify.com/album/2Q433TtTTR2Y2wygkvVBpH) | 3:06 | 2025-10-23 |  |
@@ -851,6 +852,7 @@
 | [No Shame](https://open.spotify.com/track/5EbidH3lGB30WuDsoR4km6) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [CALM](https://open.spotify.com/album/46K4raQPIGem3N031upNj9) | 3:12 | 2024-05-28 | 2024-06-07 |
 | [nobody's favorite person, not even my own](https://open.spotify.com/track/0RmfWxyMmROruOHM3dmdKq) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [nobody's favorite person, not even my own](https://open.spotify.com/album/6B1sAAlnS5AeE9xKijrD9b) | 2:11 | 2023-04-13 | 2023-11-18 |
 | [NOISE](https://open.spotify.com/track/7EB4ZaeORzAv9TBIfMfruC) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [NOISE](https://open.spotify.com/album/2jvQJsBySeUaqtZhhMg5rj) | 2:42 | 2026-03-06 |  |
+| [nomorelove](https://open.spotify.com/track/580qMo4N3Lz1LBQMIJFx3Y) | [Bypass Music](https://open.spotify.com/artist/5LD8MmPEUqN4OIzWWrFUNI), [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS), [Ice Dob](https://open.spotify.com/artist/5ZLzKYDgXhi7UzKcXWCHjP) | [nomorelove](https://open.spotify.com/album/4xBdKfGBisHpRgDVBnz2e2) | 2:36 | 2026-06-25 |  |
 | [Nonbinary](https://open.spotify.com/track/4lUlYGT5VvZWN3GBDIc9KT) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 2:19 | 2022-12-16 | 2023-01-27 |
 | [Normal](https://open.spotify.com/track/2fO0C0eaIyI98LKCeyrRK6) | [emily jeffri](https://open.spotify.com/artist/7j7NWasrRsalHoY7DgMLhK) | [Normal](https://open.spotify.com/album/4BuOFtc9VdtYOMR9nLoklC) | 4:39 | 2025-04-03 | 2025-05-16 |
 | [Not My God Anymore](https://open.spotify.com/track/4hsf9k441EY0OH9f2tYpiQ) | [Harpy](https://open.spotify.com/artist/0fLFfyc0914STFxEyQHZhX) | [Not My God Anymore](https://open.spotify.com/album/35UC41GShM2LG3pm07LSbL) | 2:50 | 2024-07-11 | 2025-03-07 |

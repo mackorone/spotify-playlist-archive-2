@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de la m\u00fasica en M\u00e9xico en compa\u00f1\u00eda de iza tkm",
-  "num_followers": 92756,
+  "num_followers": 92838,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -771,26 +771,6 @@
     {
       "added_at": "2026-06-22 17:58:29",
       "album": {
-        "name": "Todav\u00eda No",
-        "url": "https://open.spotify.com/album/5ysZfMbmco9uRHe98XPiZq"
-      },
-      "artists": [
-        {
-          "name": "Karlo",
-          "url": "https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL"
-        },
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 245669,
-      "name": "Todav\u00eda No",
-      "url": "https://open.spotify.com/track/43QyjSix5vl6eoSLyDBbiq"
-    },
-    {
-      "added_at": "2026-06-22 17:58:29",
-      "album": {
         "name": "250cc",
         "url": "https://open.spotify.com/album/6nUtF0ygYhS5iJh8JvnfuB"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 145161,
       "name": "250cc",
       "url": "https://open.spotify.com/track/0Ywh0NH8bmPTQFvQZ9G5yU"
+    },
+    {
+      "added_at": "2026-06-22 17:58:29",
+      "album": {
+        "name": "Todav\u00eda No",
+        "url": "https://open.spotify.com/album/5ysZfMbmco9uRHe98XPiZq"
+      },
+      "artists": [
+        {
+          "name": "Karlo",
+          "url": "https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL"
+        },
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "duration_ms": 245669,
+      "name": "Todav\u00eda No",
+      "url": "https://open.spotify.com/track/43QyjSix5vl6eoSLyDBbiq"
     },
     {
       "added_at": "2026-06-22 17:58:29",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-06-22 17:58:29",
       "album": {
-        "name": "Ping\u00fcinos",
-        "url": "https://open.spotify.com/album/3V79Llwk7Lb9EUbsYd3wiG"
-      },
-      "artists": [
-        {
-          "name": "Agris",
-          "url": "https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q"
-        }
-      ],
-      "duration_ms": 196629,
-      "name": "Ping\u00fcinos",
-      "url": "https://open.spotify.com/track/6vmzWzScqJ70yumSCoNa3y"
-    },
-    {
-      "added_at": "2026-06-22 17:58:29",
-      "album": {
         "name": "ati!",
         "url": "https://open.spotify.com/album/7gXPJM8yYWrp9kqZZasOvc"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 148363,
       "name": "ati!",
       "url": "https://open.spotify.com/track/0k4pnNwerwfq20JsDqVjqF"
+    },
+    {
+      "added_at": "2026-06-22 17:58:29",
+      "album": {
+        "name": "Ping\u00fcinos",
+        "url": "https://open.spotify.com/album/3V79Llwk7Lb9EUbsYd3wiG"
+      },
+      "artists": [
+        {
+          "name": "Agris",
+          "url": "https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q"
+        }
+      ],
+      "duration_ms": 196629,
+      "name": "Ping\u00fcinos",
+      "url": "https://open.spotify.com/track/6vmzWzScqJ70yumSCoNa3y"
     },
     {
       "added_at": "2026-06-22 17:58:29",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-06-22 17:58:29",
       "album": {
-        "name": "La Culpable",
-        "url": "https://open.spotify.com/album/5XMBK8fMW1S1oto6Qmyl6R"
-      },
-      "artists": [
-        {
-          "name": "eydrey",
-          "url": "https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4"
-        }
-      ],
-      "duration_ms": 237005,
-      "name": "La Culpable",
-      "url": "https://open.spotify.com/track/3LcfsnsxE0AsUtry81FxsU"
-    },
-    {
-      "added_at": "2026-06-22 17:58:29",
-      "album": {
         "name": "Trampa",
         "url": "https://open.spotify.com/album/23TlzdTObc4hxFW0QoOO5T"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 152928,
       "name": "Trampa",
       "url": "https://open.spotify.com/track/7obwVq6dHi4WpWsdxvxnjF"
+    },
+    {
+      "added_at": "2026-06-22 17:58:29",
+      "album": {
+        "name": "La Culpable",
+        "url": "https://open.spotify.com/album/5XMBK8fMW1S1oto6Qmyl6R"
+      },
+      "artists": [
+        {
+          "name": "eydrey",
+          "url": "https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4"
+        }
+      ],
+      "duration_ms": 237005,
+      "name": "La Culpable",
+      "url": "https://open.spotify.com/track/3LcfsnsxE0AsUtry81FxsU"
     },
     {
       "added_at": "2026-06-22 17:58:29",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-06-22 17:58:29",
       "album": {
-        "name": "KORA KORA",
-        "url": "https://open.spotify.com/album/2GeUPUMOXzVd9DrnoENWx2"
-      },
-      "artists": [
-        {
-          "name": "cKovi",
-          "url": "https://open.spotify.com/artist/3sdVgczphtmF1sKTgPZrOO"
-        }
-      ],
-      "duration_ms": 131367,
-      "name": "KORA KORA",
-      "url": "https://open.spotify.com/track/6ndpaM4u9dss1lpC7RX92X"
-    },
-    {
-      "added_at": "2026-06-22 17:58:29",
-      "album": {
         "name": "empezar al rev\u00e9s",
         "url": "https://open.spotify.com/album/0ubjYBDDdREIRUBqRgoY5D"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 202230,
       "name": "empezar al rev\u00e9s",
       "url": "https://open.spotify.com/track/6M2sc6l4w1wCSZSwE3HVMj"
+    },
+    {
+      "added_at": "2026-06-22 17:58:29",
+      "album": {
+        "name": "KORA KORA",
+        "url": "https://open.spotify.com/album/2GeUPUMOXzVd9DrnoENWx2"
+      },
+      "artists": [
+        {
+          "name": "cKovi",
+          "url": "https://open.spotify.com/artist/3sdVgczphtmF1sKTgPZrOO"
+        }
+      ],
+      "duration_ms": 131367,
+      "name": "KORA KORA",
+      "url": "https://open.spotify.com/track/6ndpaM4u9dss1lpC7RX92X"
     },
     {
       "added_at": "2026-06-22 17:58:29",

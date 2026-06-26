@@ -2,9 +2,9 @@
 
 ### [Jazz NEXT](https://open.spotify.com/playlist/37i9dQZF1DX9zYTPIU0FeE)
 
-> Journey through the sounds of South African Jazz\. Cover: Rorisang Sechele
+> Journey through the sounds of South African Jazz\. Cover: Nduduzo Makhathini
 
-366 songs - 1 day 12 hr 15 min
+367 songs - 1 day 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Log Out Shut Down \- Live in Studio](https://open.spotify.com/track/2zjanNO8418bIvxfu0FKfs) | [MABUTA](https://open.spotify.com/artist/4Z6IP9yKpOBbitoDKeMIFI) | [Log out Shut Down \(Live in Studio\)](https://open.spotify.com/album/1UcfQoitK9uJQeGHTYaAls) | 6:19 | 2022-04-28 | 2023-04-12 |
 | [Lonely Flowers \- Remastered 2024](https://open.spotify.com/track/6BP0MPz3UVk8s7Aixy2hs5) | [Johnny Dyani](https://open.spotify.com/artist/5aAplFNZE4KHKvdmo7xbNw) | [African Bass \(Remastered 2024\)](https://open.spotify.com/album/3bh4LWHLqPS5CWKdz3ZYvz) | 9:06 | 2024-02-22 | 2025-06-25 |
 | [Love \(Yahweh\)](https://open.spotify.com/track/3l0yuMQfw0c5TmXJo38kRZ) | [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [Yellow: The Novel](https://open.spotify.com/album/45sk1o0DxRIEuHGhzrJfwC) | 5:50 | 2026-04-29 | 2026-05-22 |
-| [Love Drive](https://open.spotify.com/track/62vKXM3SYKQMP9V4FLhjCN) | [Vimbs Mavimbs](https://open.spotify.com/artist/17miQtSakhWQ0YJQtNdCeN) | [Love Drive](https://open.spotify.com/album/4xLYE2FqMIfSsHkPtL7v7q) | 4:34 | 2026-02-13 |  |
+| [Love Drive](https://open.spotify.com/track/62vKXM3SYKQMP9V4FLhjCN) | [Vimbs Mavimbs](https://open.spotify.com/artist/17miQtSakhWQ0YJQtNdCeN) | [Love Drive](https://open.spotify.com/album/4xLYE2FqMIfSsHkPtL7v7q) | 4:34 | 2026-02-13 | 2026-06-26 |
 | [Mabaphile](https://open.spotify.com/track/041J8KXn8xjhQCcgfBQWsR) | [Mandisi Dyantyis](https://open.spotify.com/artist/6hNOG85RpnNVlDUvl6jNF0) | [Cwaka](https://open.spotify.com/album/5x2pAfzkEpcmudXzuVPvyV) | 4:48 | 2023-08-25 | 2024-09-07 |
 | [MaBrrrrrrrrr](https://open.spotify.com/track/0k6nNPe8JO0P2Z9ndX3IeZ) | [Malcolm Jiyane Tree\-O](https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH) | [MaBrrrrrrrrr](https://open.spotify.com/album/3RW0JPlmVfKYSXZEvg3ICs) | 4:56 | 2024-05-30 |  |
 | [Magwaza](https://open.spotify.com/track/0hcy9qRxJvDU7SmarGV2aB) | [Johnny Dyani](https://open.spotify.com/artist/5aAplFNZE4KHKvdmo7xbNw) | [Witchdoctor's Son](https://open.spotify.com/album/7CEEI9oMR992aCbByho4S3) | 13:06 | 2023-11-01 | 2023-11-17 |
@@ -374,5 +374,6 @@
 | [Zimology](https://open.spotify.com/track/5QbBmsFkjXa4RNu1XXsnIz) | [Kyle Shepherd](https://open.spotify.com/artist/5qnR032jCYhmChV9WTt7bf), [Claude Cozens](https://open.spotify.com/artist/10YNEqs1dAwhEFzRn9rmo6) | [FineArt](https://open.spotify.com/album/5BllXS9FAeymgw1Hvkx0wo) | 6:03 | 2026-04-29 | 2026-05-22 |
 | [Zizi](https://open.spotify.com/track/23SM8Kkna9z6603elyb9ok) | [Nomfundo Xaluva](https://open.spotify.com/artist/71N9TXfexGfLXxPDJec5iE) | [Ndilapha](https://open.spotify.com/album/794Pfh9JnYrNIVox3OVtax) | 4:26 | 2026-04-29 | 2026-05-22 |
 | [Zumbwe \(Baby Tiger\)](https://open.spotify.com/track/54ndGmai37h50RRcbJnluh) | [Dick Khoza](https://open.spotify.com/artist/55S8nqki3JZcFbwbxsS9PH) | [Chapita](https://open.spotify.com/album/10188TU8Hzo9tyZj6eKzf6) | 7:12 | 2023-11-01 | 2023-11-17 |
+| [Ḽiṅwalo ḽa Mubebi](https://open.spotify.com/track/3svg2F1ZsOxF2CIL4AAngt) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft), [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM) | [The Myth We Choose](https://open.spotify.com/album/0MLGCKPzliFC2fEkqhihYw) | 6:22 | 2026-06-25 |  |
 
 \*This playlist was first scraped on 2022-10-01. Prior content cannot be recovered.

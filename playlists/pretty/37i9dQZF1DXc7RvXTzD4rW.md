@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。A collection of music from voice actors/ actresses in Japan\. Cover: 蒼井翔太 AOI SHOUTA
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,977 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,979 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 49 | [Endless You](https://open.spotify.com/track/7drDznOI0dSzjqNrdWpz0X) | [Shouta Aoi](https://open.spotify.com/artist/4Kg3vBPMPfnYrnZo2A4czS) | [Endless You](https://open.spotify.com/album/7MMBAGeg4jGnGdFZ0Kl4qO) | 4:44 |
 | 50 | [I need](https://open.spotify.com/track/4FeH4JKpZ24xg7mYjnkcVf) | [田中有紀](https://open.spotify.com/artist/4SmZeXCGJShLDWe9q4SR3j) | [I need](https://open.spotify.com/album/6UDZaVC8nbaK8mx8c8yRof) | 3:51 |
 
-Snapshot ID: `AAAAAKRSkCUNU4Zgnwt7C51J474khqXR`
+Snapshot ID: `AAAAABh4it5ejvapQBiDTnlcl4eN+LSK`

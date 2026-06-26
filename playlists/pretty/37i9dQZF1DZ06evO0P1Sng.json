@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajnMgAAAAACjhnyfFWo1RllayhfYv+PP",
+  "snapshot_id": "ajseAAAAAADI2UUogXRPl9XANI/ApYMG",
   "tracks": [
     {
       "added_at": null,
@@ -515,26 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outro Lugar",
-        "url": "https://open.spotify.com/album/4RBWF7dnGgQdxMUp9vsGOZ"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Spinnheli",
-          "url": "https://open.spotify.com/artist/4hlAv9C6uWQRTQvqE7xWud"
-        }
-      ],
-      "duration_ms": 153623,
-      "name": "Outro Lugar",
-      "url": "https://open.spotify.com/track/5wPLXHoC5WaIe1grjPvgvJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trof\u00e9u",
         "url": "https://open.spotify.com/album/5M274S1cUS8suxN7aD4hvp"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 163428,
       "name": "60K - Remix",
       "url": "https://open.spotify.com/track/4tRhRB2kJQLosmNCWrIsLw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outro Lugar",
+        "url": "https://open.spotify.com/album/4RBWF7dnGgQdxMUp9vsGOZ"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Spinnheli",
+          "url": "https://open.spotify.com/artist/4hlAv9C6uWQRTQvqE7xWud"
+        }
+      ],
+      "duration_ms": 153623,
+      "name": "Outro Lugar",
+      "url": "https://open.spotify.com/track/5wPLXHoC5WaIe1grjPvgvJ"
     },
     {
       "added_at": null,
@@ -687,26 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diva Pop",
-        "url": "https://open.spotify.com/album/22F3kRQ6X5pKSfHe1WM207"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "A.LBeats",
-          "url": "https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo"
-        }
-      ],
-      "duration_ms": 152275,
-      "name": "Diva Pop",
-      "url": "https://open.spotify.com/track/6Ry9PISedNt3UF8g6oYiP3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "OgEMr",
         "url": "https://open.spotify.com/album/57JDkF9dsWZhjgqQoo8yBQ"
       },
@@ -731,6 +711,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Diva Pop",
+        "url": "https://open.spotify.com/album/22F3kRQ6X5pKSfHe1WM207"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "A.LBeats",
+          "url": "https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo"
+        }
+      ],
+      "duration_ms": 152275,
+      "name": "Diva Pop",
+      "url": "https://open.spotify.com/track/6Ry9PISedNt3UF8g6oYiP3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Afroculture",
         "url": "https://open.spotify.com/album/1sM0s4b4cERAyyal6pkDpa"
       },
@@ -747,6 +747,30 @@
       "duration_ms": 165630,
       "name": "Isabella",
       "url": "https://open.spotify.com/track/0Jf8KRqmVUTlYFpJHQahbP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desce & Sobe",
+        "url": "https://open.spotify.com/album/4QSIqL32YPcxJPodgQdBSa"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        },
+        {
+          "name": "Vt no beat",
+          "url": "https://open.spotify.com/artist/6FruCl8GUxsP07s6LpsNKs"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Desce & Sobe",
+      "url": "https://open.spotify.com/track/5ZUUFh13X6t1mJZfycWf8l"
     },
     {
       "added_at": null,
@@ -779,30 +803,6 @@
       "duration_ms": 313823,
       "name": "Dif\u00edcil De Amar",
       "url": "https://open.spotify.com/track/6JnTVrSnN6p6Tp6j93xkfa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desce & Sobe",
-        "url": "https://open.spotify.com/album/4QSIqL32YPcxJPodgQdBSa"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "TOKIODK",
-          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
-        },
-        {
-          "name": "Vt no beat",
-          "url": "https://open.spotify.com/artist/6FruCl8GUxsP07s6LpsNKs"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Desce & Sobe",
-      "url": "https://open.spotify.com/track/5ZUUFh13X6t1mJZfycWf8l"
     },
     {
       "added_at": null,
@@ -1263,30 +1263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Minha Ex \u00e9 Minha Maior F\u00e3",
-        "url": "https://open.spotify.com/album/6EjbpqfdOx0HdpScIcSoVw"
-      },
-      "artists": [
-        {
-          "name": "Penedo",
-          "url": "https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 171500,
-      "name": "Caso Perdido",
-      "url": "https://open.spotify.com/track/1sSBuA1YfqxixnbuJAPSXH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cara Ideal",
         "url": "https://open.spotify.com/album/3vUJU5WTZlyb9gb1P8KvmS"
       },
@@ -1307,6 +1283,30 @@
       "duration_ms": 144923,
       "name": "Ego\u00edsta",
       "url": "https://open.spotify.com/track/1xqRzHGo7Eie8X6Atc8klO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Minha Ex \u00e9 Minha Maior F\u00e3",
+        "url": "https://open.spotify.com/album/6EjbpqfdOx0HdpScIcSoVw"
+      },
+      "artists": [
+        {
+          "name": "Penedo",
+          "url": "https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 171500,
+      "name": "Caso Perdido",
+      "url": "https://open.spotify.com/track/1sSBuA1YfqxixnbuJAPSXH"
     },
     {
       "added_at": null,
@@ -1447,38 +1447,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eles N\u00e3o Ligam Pra Gente",
-        "url": "https://open.spotify.com/album/0uWq40BZUNbaZqpjGyVCPn"
+        "name": "Arquivos",
+        "url": "https://open.spotify.com/album/0CtmDIpvYbwoOt7iMcVJw9"
       },
       "artists": [
         {
-          "name": "Cesar Mc",
-          "url": "https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX"
-        },
-        {
-          "name": "Ducon",
-          "url": "https://open.spotify.com/artist/5ZHFfmxPiRYohYVeUnOogj"
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
         },
         {
           "name": "Azzy",
           "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
         },
         {
-          "name": "Diomedes Chinaski",
-          "url": "https://open.spotify.com/artist/6DDTbUgrNrVcAJFVrOjmVK"
-        },
-        {
-          "name": "Slim Beat",
-          "url": "https://open.spotify.com/artist/0JidbbbZv5SFBEwuc4dREP"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+          "name": "Cave",
+          "url": "https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7"
         }
       ],
-      "duration_ms": 360000,
-      "name": "Eles N\u00e3o Ligam Pra Gente",
-      "url": "https://open.spotify.com/track/0QTcx4DhVrU7jcYRBVDVvW"
+      "duration_ms": 135000,
+      "name": "Arquivos",
+      "url": "https://open.spotify.com/track/5oQaUfLbBhR4yVla3O7jLS"
     }
   ],
   "unique_name": "This Is Azzy",

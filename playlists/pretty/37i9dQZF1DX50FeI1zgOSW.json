@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Harsha Vardhan",
-  "num_followers": 19888,
+  "num_followers": 19891,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACGybFd/uqxLgS0Jy0utMy/VlhDT",
+  "snapshot_id": "AAAAAJVVyr53n//VGAuSASmiiyBeK5yw",
   "tracks": [
     {
       "added_at": "2026-06-10 10:19:16",
@@ -227,6 +227,42 @@
       "duration_ms": 194285,
       "name": "Malare Unnai Kaana (A Cappella)",
       "url": "https://open.spotify.com/track/1memLus2OlpRwDDRbuZB8f"
+    },
+    {
+      "added_at": "2026-06-25 06:48:21",
+      "album": {
+        "name": "ACAPELLA SAMBAA",
+        "url": "https://open.spotify.com/album/25MQUEbyfRXmgZjti3oqgp"
+      },
+      "artists": [
+        {
+          "name": "Jagadeesh Kumar Balraj",
+          "url": "https://open.spotify.com/artist/6vS08NxeEwSRd6Tdt3iMwt"
+        },
+        {
+          "name": "Disco Nagesh",
+          "url": "https://open.spotify.com/artist/0MDMzwjffAESp75nRoa86I"
+        },
+        {
+          "name": "Thamarai Varman",
+          "url": "https://open.spotify.com/artist/22Dtar7MtPlLx73CfxqDL2"
+        },
+        {
+          "name": "Aditi Saikumar",
+          "url": "https://open.spotify.com/artist/1f6vaQ2HqbJdH6510ANw4x"
+        },
+        {
+          "name": "Jayashri Saikumar",
+          "url": "https://open.spotify.com/artist/7ctFhAmf7s8m8955ZTabQN"
+        },
+        {
+          "name": "Master J. Layesh Kumar",
+          "url": "https://open.spotify.com/artist/6neWXAt1RUC7xjJzUjc58i"
+        }
+      ],
+      "duration_ms": 223914,
+      "name": "ACAPELLA SAMBAA",
+      "url": "https://open.spotify.com/track/0mkw6W14pYkRTvnbQnr52z"
     },
     {
       "added_at": "2026-06-17 05:45:32",

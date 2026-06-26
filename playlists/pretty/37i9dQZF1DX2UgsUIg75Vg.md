@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b\. Cover: Masego
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,364,430 likes - 255 songs - 13 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,364,107 likes - 255 songs - 13 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

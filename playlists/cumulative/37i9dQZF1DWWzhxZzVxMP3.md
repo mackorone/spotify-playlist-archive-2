@@ -4,7 +4,7 @@
 
 > Well\-known songs in a soft, chill Bossa vibe🍹
 
-208 songs - 12 hr 3 min
+209 songs - 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Lovefool](https://open.spotify.com/track/3J49YFtSjLMiuyDi6xNHc1) | [Bossa Nova Covers](https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy), [Mats & My](https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3) | [Bossa Nova Covers](https://open.spotify.com/album/0KEmmW5iXwzpaSlaamlizL) | 3:14 | 2022-07-26 | 2024-04-19 |
 | [Lovefool](https://open.spotify.com/track/4rUhZxAo9iQLCqMpHrUaxm) | [Bossa Nova Covers](https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy), [Mats & My](https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3) | [Bossa Nova Covers](https://open.spotify.com/album/6Y165hGqcemNXMGI3KcMiU) | 3:14 | 2022-09-30 | 2022-11-13 |
 | [Mercy](https://open.spotify.com/track/7LEiyxIyeauXaURLRgqzBh) | [The Big Bossa](https://open.spotify.com/artist/40wVf0nTSUmeWTbucENvIq) | [Bossanova Dinner](https://open.spotify.com/album/4rLGydRYO4CVBDIEPaGwFf) | 3:23 | 2022-03-10 | 2024-06-14 |
+| [Midnight Sun](https://open.spotify.com/track/1OJICmJmFqysn7JhFVWpB1) | [Bossa Norte](https://open.spotify.com/artist/2d6Q9yUD0vXglHHPjEiDMy) | [Midnight Sun](https://open.spotify.com/album/6DT2pqhDYefzl04hfglvxO) | 3:10 | 2026-06-25 |  |
 | [Mood \- Bossa Nova](https://open.spotify.com/track/13TDegmsMuGR3MvHQNJPyS) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Mood \- Bossa Nova](https://open.spotify.com/album/4Hq7ktIPIDKy9ynNWhqozY) | 2:58 | 2022-03-10 |  |
 | [New Rules](https://open.spotify.com/track/5VIiodwSobgzi3JMynM6Oo) | [Becca Adams](https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb) | [New Rules](https://open.spotify.com/album/6Bgtj0R3jwwpsmPyieO4Cq) | 2:45 | 2023-06-01 |  |
 | [No Woman, No Cry](https://open.spotify.com/track/48ZC4H4YMg2AmKzTolZygg) | [Bossa Nova Project](https://open.spotify.com/artist/7GQVeFa14DLGmqM3KsABNq) | [No Woman, No Cry](https://open.spotify.com/album/1RfSBGT6mmxxLRL9xhEyX1) | 3:48 | 2022-03-10 | 2023-06-23 |
@@ -215,6 +216,6 @@
 | [You Are the Sunshine of My Life](https://open.spotify.com/track/3BIvGWYoj999nDIY0FyyHP) | [Eduardo Braga](https://open.spotify.com/artist/6HDQnEYnyn9ToT7pvM5LAr) | [Songs That I Love](https://open.spotify.com/album/0XbSRpPhc3xaRN0utUnRXQ) | 3:37 | 2022-07-26 | 2023-05-17 |
 | [You Are the Sunshine of My Life](https://open.spotify.com/track/15UArJfdqyHQGF9BIJwjhG) | [Eduardo Braga](https://open.spotify.com/artist/6HDQnEYnyn9ToT7pvM5LAr), [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG) | [Pós\-Acústico](https://open.spotify.com/album/19k6CeHcaN3KCSVXVlUzAv) | 3:33 | 2022-03-10 | 2022-07-29 |
 | [You're the Sunshine of My Life](https://open.spotify.com/track/19XUrYKOOwiaCDSsN2JbDT) | [Dudu Braga](https://open.spotify.com/artist/3ZwqQ2XrPNiYRomLoN94n7) | [Brazil Loves Bossa, Vol\. 7](https://open.spotify.com/album/4wIdLRseyzeY2CXfUOrbTg) | 3:37 | 2022-09-30 | 2022-11-13 |
-| [Your Song](https://open.spotify.com/track/62PRS5s9sGK26aoaLkbW2J) | [Bossanova Tribute](https://open.spotify.com/artist/7Cnj4EbIbTSXZFsWuzyEic) | [Your Song](https://open.spotify.com/album/2dPyQwGioXogJlCWIVGJ4j) | 3:55 | 2023-05-16 |  |
+| [Your Song](https://open.spotify.com/track/62PRS5s9sGK26aoaLkbW2J) | [Bossanova Tribute](https://open.spotify.com/artist/7Cnj4EbIbTSXZFsWuzyEic) | [Your Song](https://open.spotify.com/album/2dPyQwGioXogJlCWIVGJ4j) | 3:55 | 2023-05-16 | 2026-06-26 |
 
 \*This playlist was first scraped on 2022-04-09. Prior content cannot be recovered.

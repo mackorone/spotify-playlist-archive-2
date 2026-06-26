@@ -1,6 +1,6 @@
 {
   "description": "music to get fly to ft. Erykah Badu",
-  "num_followers": 556113,
+  "num_followers": 556083,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
@@ -1775,18 +1775,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Good Movie",
-        "url": "https://open.spotify.com/album/2REajdJ8KOaR8Vm2Zx8UXM"
+        "name": "Show Me The Money (with Tkay Maidza)",
+        "url": "https://open.spotify.com/album/7L0qZYtIIxyo1B5omj6F4B"
       },
       "artists": [
         {
-          "name": "Pi\u2019erre Bourne",
-          "url": "https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M"
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
         }
       ],
-      "duration_ms": 189151,
-      "name": "DJ In The Car",
-      "url": "https://open.spotify.com/track/7w4yrrz2HMkqjhDrLjA4yy"
+      "duration_ms": 187058,
+      "name": "Show Me The Money (with Tkay Maidza)",
+      "url": "https://open.spotify.com/track/7EA2tzWnu6i0Nai8PMUZgp"
     }
   ],
   "unique_name": "'fit check",

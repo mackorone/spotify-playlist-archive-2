@@ -1409,6 +1409,24 @@
     },
     {
       "album": {
+        "name": "Day Dream",
+        "url": "https://open.spotify.com/album/5QqLpHDVdwmaaAdnW4M2DZ"
+      },
+      "artists": [
+        {
+          "name": "Lenox Martin",
+          "url": "https://open.spotify.com/artist/472Cau4ZzDrfQR8Xwm4arw"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120894,
+      "name": "Day Dream",
+      "url": "https://open.spotify.com/track/206OxyQh9xv63HaZjFyfz0"
+    },
+    {
+      "album": {
         "name": "Dear teddy",
         "url": "https://open.spotify.com/album/3ZbPpGwQi06bp9PofzISBF"
       },
@@ -4253,6 +4271,24 @@
     },
     {
       "album": {
+        "name": "Quiero Dormir",
+        "url": "https://open.spotify.com/album/2jGkyodwQSIKlhhNKB6X99"
+      },
+      "artists": [
+        {
+          "name": "Pipo and Roy",
+          "url": "https://open.spotify.com/artist/2D6uOhkI97JwoLo1GGgmGS"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84604,
+      "name": "Quiero Dormir",
+      "url": "https://open.spotify.com/track/46MliXAikDrARBvHWhkK4z"
+    },
+    {
+      "album": {
         "name": "Quiet Stars, Gentle Strums",
         "url": "https://open.spotify.com/album/6lDyqibXUO1LIbywkvJSZP"
       },
@@ -5884,7 +5920,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 135208,
       "name": "Unicorns",
       "url": "https://open.spotify.com/track/5eUi6uioV6i7zSwhEhL4pf"

@@ -1,6 +1,6 @@
 {
   "description": "\u723d\u3084\u304b\u306a1\u65e5\u3092\u3001\u30b9\u30ed\u30fc\u301c\u30df\u30c3\u30c9\u30c6\u30f3\u30dd\u306a\u97f3\u697d\u3068\u5171\u306b\u5fc3\u5730\u3088\u304f\u30b9\u30bf\u30fc\u30c8\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 88960,
+  "num_followers": 88959,
   "original_name": "Mid Tempo Magic",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
+        "name": "\u671d\u9854",
+        "url": "https://open.spotify.com/album/5BqiHDJ0KHdOVEIHBred2e"
+      },
+      "artists": [
+        {
+          "name": "Yuta Orisaka",
+          "url": "https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH"
+        }
+      ],
+      "duration_ms": 336736,
+      "name": "\u671d\u9854",
+      "url": "https://open.spotify.com/track/5vnTYL1H4uGzNaMB14wagO"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
         "name": "\u30de\u30b7\u304b\u3082\u3057\u308c\u306a\u3044",
         "url": "https://open.spotify.com/album/4BQ5ivnlanw4yUuqL3ugdA"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 162920,
       "name": "6 Years",
       "url": "https://open.spotify.com/track/6092TzQMKn8WgJuHHsy84h"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "\u671d\u9854",
-        "url": "https://open.spotify.com/album/5BqiHDJ0KHdOVEIHBred2e"
-      },
-      "artists": [
-        {
-          "name": "Yuta Orisaka",
-          "url": "https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH"
-        }
-      ],
-      "duration_ms": 336736,
-      "name": "\u671d\u9854",
-      "url": "https://open.spotify.com/track/5vnTYL1H4uGzNaMB14wagO"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "Bluebird",
-        "url": "https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj"
-      },
-      "artists": [
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 179871,
-      "name": "Bluebird",
-      "url": "https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "back to you (you're the reason)",
         "url": "https://open.spotify.com/album/1zGWULZWndg7c8f0adeU5M"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 240392,
       "name": "back to you (you're the reason)",
       "url": "https://open.spotify.com/track/7MiWqkriAg3HsLr8L8OvdN"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "Bluebird",
+        "url": "https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 179871,
+      "name": "Bluebird",
+      "url": "https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "I'd Be Lost",
-        "url": "https://open.spotify.com/album/1Ara6BAU1y3rUWymQRSJij"
-      },
-      "artists": [
-        {
-          "name": "Thee Marloes",
-          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
-        }
-      ],
-      "duration_ms": 167012,
-      "name": "I'd Be Lost",
-      "url": "https://open.spotify.com/track/5WxdR1qBMw71xC4cTMYjYW"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "See You Soon",
         "url": "https://open.spotify.com/album/3RnZzFLaoswdse4TKBEmmH"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 194586,
       "name": "See You Soon",
       "url": "https://open.spotify.com/track/6J0iDtlXabHqZizUKWUAX8"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "I'd Be Lost",
+        "url": "https://open.spotify.com/album/1Ara6BAU1y3rUWymQRSJij"
+      },
+      "artists": [
+        {
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+        }
+      ],
+      "duration_ms": 167012,
+      "name": "I'd Be Lost",
+      "url": "https://open.spotify.com/track/5WxdR1qBMw71xC4cTMYjYW"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -783,6 +783,22 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
+        "name": "Maya, Maya, Maya",
+        "url": "https://open.spotify.com/album/7I8p5Y7dBk1IfMSae7CtML"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        }
+      ],
+      "duration_ms": 179919,
+      "name": "Maya, Maya, Maya",
+      "url": "https://open.spotify.com/track/21afrtWJEDyy6iuJAE0ESa"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
         "name": "Fall Into You",
         "url": "https://open.spotify.com/album/4W2eUzZfKOC0PVE5RjCSlS"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 168658,
       "name": "Fall Into You",
       "url": "https://open.spotify.com/track/6IpniKTQXAEjc2erLByfo2"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "Maya, Maya, Maya",
-        "url": "https://open.spotify.com/album/7I8p5Y7dBk1IfMSae7CtML"
-      },
-      "artists": [
-        {
-          "name": "Maya Delilah",
-          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
-        }
-      ],
-      "duration_ms": 179919,
-      "name": "Maya, Maya, Maya",
-      "url": "https://open.spotify.com/track/21afrtWJEDyy6iuJAE0ESa"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1129,6 +1129,22 @@
       "url": "https://open.spotify.com/track/1PmHzy1AebjGRue4hYVkpM"
     },
     {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "Move On",
+        "url": "https://open.spotify.com/album/1MSNZN04MIYi6g61BXO54t"
+      },
+      "artists": [
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Move On",
+      "url": "https://open.spotify.com/track/09PNPXGzX8BQuCcbpDz3ul"
+    },
+    {
       "added_at": "2026-05-14 15:00:30",
       "album": {
         "name": "I Love Me Now",
@@ -1159,22 +1175,6 @@
       "duration_ms": 276756,
       "name": "I Love Me Now",
       "url": "https://open.spotify.com/track/1QSXVxycWcuBbQXAyeXK6T"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "Move On",
-        "url": "https://open.spotify.com/album/1MSNZN04MIYi6g61BXO54t"
-      },
-      "artists": [
-        {
-          "name": "Rangga Jones",
-          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Move On",
-      "url": "https://open.spotify.com/track/09PNPXGzX8BQuCcbpDz3ul"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1487,6 +1487,30 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
+        "name": "Connection",
+        "url": "https://open.spotify.com/album/3iFigjuA451SneLjONrGiK"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "\u7af9\u5185\u7f8e\u5ba5",
+          "url": "https://open.spotify.com/artist/5PxUfN01MCRFIw7Quz8VZ7"
+        },
+        {
+          "name": "MIYUMIYU",
+          "url": "https://open.spotify.com/artist/5lZiZQ5xaxp94Z9naAVKmg"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Sweet Lies (feat. Miyu Takeuchi)",
+      "url": "https://open.spotify.com/track/7G1A0oCpYCpOiXe05VyNBy"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
         "name": "Your Light",
         "url": "https://open.spotify.com/album/3D2AoXbOpUScjeH9zOWwWJ"
       },
@@ -1523,30 +1547,6 @@
       "duration_ms": 238249,
       "name": "Easy",
       "url": "https://open.spotify.com/track/1gIPa9lKYq33Y7B9bJoBau"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "Connection",
-        "url": "https://open.spotify.com/album/3iFigjuA451SneLjONrGiK"
-      },
-      "artists": [
-        {
-          "name": "Night Tempo",
-          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
-        },
-        {
-          "name": "\u7af9\u5185\u7f8e\u5ba5",
-          "url": "https://open.spotify.com/artist/5PxUfN01MCRFIw7Quz8VZ7"
-        },
-        {
-          "name": "MIYUMIYU",
-          "url": "https://open.spotify.com/artist/5lZiZQ5xaxp94Z9naAVKmg"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Sweet Lies (feat. Miyu Takeuchi)",
-      "url": "https://open.spotify.com/track/7G1A0oCpYCpOiXe05VyNBy"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "I know",
-        "url": "https://open.spotify.com/album/705uQ9r4jJSE9xXGUfVNSs"
-      },
-      "artists": [
-        {
-          "name": "SOIII",
-          "url": "https://open.spotify.com/artist/6IIpHaS29YrhmK1uQnEtOp"
-        }
-      ],
-      "duration_ms": 232820,
-      "name": "I know",
-      "url": "https://open.spotify.com/track/1eRwmWB269meD0JlNDDM60"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/5uMRnkmSWRgwuWvtdwayO7"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 298194,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/2hsTr2uDmLOk5BusqU1jc6"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "I know",
+        "url": "https://open.spotify.com/album/705uQ9r4jJSE9xXGUfVNSs"
+      },
+      "artists": [
+        {
+          "name": "SOIII",
+          "url": "https://open.spotify.com/artist/6IIpHaS29YrhmK1uQnEtOp"
+        }
+      ],
+      "duration_ms": 232820,
+      "name": "I know",
+      "url": "https://open.spotify.com/track/1eRwmWB269meD0JlNDDM60"
     }
   ],
   "unique_name": "Mid Tempo Magic",

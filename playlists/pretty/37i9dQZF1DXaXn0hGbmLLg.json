@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume! June ambassador: <a href=\"spotify:artist:0UMs6dTf23FC2fHc40fXNS\">KI/KI</a>",
-  "num_followers": 14266,
+  "num_followers": 14268,
   "original_name": "EQUAL Benelux",
   "owner": {
     "name": "Spotify",
@@ -167,6 +167,22 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
+        "name": "Something Good",
+        "url": "https://open.spotify.com/album/1VZnoa7b6c1mxCCSG6SoGu"
+      },
+      "artists": [
+        {
+          "name": "Ilse DeLange",
+          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
+        }
+      ],
+      "duration_ms": 180840,
+      "name": "Something Good",
+      "url": "https://open.spotify.com/track/4WpNYzTIOjN3Aw6D3n81Rb"
+    },
+    {
+      "added_at": "2026-06-04 22:00:35",
+      "album": {
         "name": "Jeune & Laide",
         "url": "https://open.spotify.com/album/3oavlb7bKt7NljH3CL5uTZ"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 160070,
       "name": "Autod\u00e9fense",
       "url": "https://open.spotify.com/track/2D7IEFxCt1DU1mac0K8yEL"
-    },
-    {
-      "added_at": "2026-06-04 22:00:35",
-      "album": {
-        "name": "Something Good",
-        "url": "https://open.spotify.com/album/1VZnoa7b6c1mxCCSG6SoGu"
-      },
-      "artists": [
-        {
-          "name": "Ilse DeLange",
-          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
-        }
-      ],
-      "duration_ms": 180840,
-      "name": "Something Good",
-      "url": "https://open.spotify.com/track/4WpNYzTIOjN3Aw6D3n81Rb"
     },
     {
       "added_at": "2026-06-04 22:00:35",
@@ -303,22 +303,6 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
-        "name": "Boy & Girl",
-        "url": "https://open.spotify.com/album/2EeT0iew6pYqXkeltRsL0m"
-      },
-      "artists": [
-        {
-          "name": "FENNE",
-          "url": "https://open.spotify.com/artist/1iEwzHojkE2rHcDAJDQOuo"
-        }
-      ],
-      "duration_ms": 186463,
-      "name": "Boy & Girl",
-      "url": "https://open.spotify.com/track/3IYzAhD6EgmCSdYWUWDBe2"
-    },
-    {
-      "added_at": "2026-06-04 22:00:35",
-      "album": {
         "name": "D\u00e9j\u00e0",
         "url": "https://open.spotify.com/album/2Mo5afIwbgEsu5dlFfYgT4"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 202641,
       "name": "D\u00e9j\u00e0",
       "url": "https://open.spotify.com/track/0anL4HPAhFUplhpyY6ZrgR"
+    },
+    {
+      "added_at": "2026-06-04 22:00:35",
+      "album": {
+        "name": "Boy & Girl",
+        "url": "https://open.spotify.com/album/2EeT0iew6pYqXkeltRsL0m"
+      },
+      "artists": [
+        {
+          "name": "FENNE",
+          "url": "https://open.spotify.com/artist/1iEwzHojkE2rHcDAJDQOuo"
+        }
+      ],
+      "duration_ms": 186463,
+      "name": "Boy & Girl",
+      "url": "https://open.spotify.com/track/3IYzAhD6EgmCSdYWUWDBe2"
     },
     {
       "added_at": "2026-06-04 22:00:35",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
-        "name": "For A Minute",
-        "url": "https://open.spotify.com/album/5YEaUXCdPjPfRvasyl89gH"
-      },
-      "artists": [
-        {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
-        }
-      ],
-      "duration_ms": 215514,
-      "name": "For A Minute",
-      "url": "https://open.spotify.com/track/55qf0ylgBDcQaKj0eWYpJb"
-    },
-    {
-      "added_at": "2026-06-04 22:00:35",
-      "album": {
         "name": "Plankgas",
         "url": "https://open.spotify.com/album/1ah6AWdgrlCwXJVTJiFeum"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 162800,
       "name": "Plankgas",
       "url": "https://open.spotify.com/track/1CYwj9IOMLY1vX0EmMUXym"
+    },
+    {
+      "added_at": "2026-06-04 22:00:35",
+      "album": {
+        "name": "For A Minute",
+        "url": "https://open.spotify.com/album/5YEaUXCdPjPfRvasyl89gH"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "duration_ms": 215514,
+      "name": "For A Minute",
+      "url": "https://open.spotify.com/track/55qf0ylgBDcQaKj0eWYpJb"
     },
     {
       "added_at": "2026-06-04 22:00:35",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
-        "name": "car crash",
-        "url": "https://open.spotify.com/album/5NkG7lUGgJGy3oDw8xH4wl"
-      },
-      "artists": [
-        {
-          "name": "Kids With Buns",
-          "url": "https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz"
-        }
-      ],
-      "duration_ms": 202124,
-      "name": "car crash",
-      "url": "https://open.spotify.com/track/3pZIEAyWZGj5vXa5wCFpoZ"
-    },
-    {
-      "added_at": "2026-06-04 22:00:35",
-      "album": {
         "name": "You Are",
         "url": "https://open.spotify.com/album/39jJaarZplGt1gHKmCpcME"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 200869,
       "name": "You Are",
       "url": "https://open.spotify.com/track/5yCOto2qdnC9d7cYWSgTFm"
+    },
+    {
+      "added_at": "2026-06-04 22:00:35",
+      "album": {
+        "name": "car crash",
+        "url": "https://open.spotify.com/album/5NkG7lUGgJGy3oDw8xH4wl"
+      },
+      "artists": [
+        {
+          "name": "Kids With Buns",
+          "url": "https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz"
+        }
+      ],
+      "duration_ms": 202124,
+      "name": "car crash",
+      "url": "https://open.spotify.com/track/3pZIEAyWZGj5vXa5wCFpoZ"
     },
     {
       "added_at": "2026-06-04 22:00:35",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
-        "name": "The Great Divide",
-        "url": "https://open.spotify.com/album/0hF6KksKFNs67Xc0R0YDXb"
-      },
-      "artists": [
-        {
-          "name": "Celine Cairo",
-          "url": "https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR"
-        }
-      ],
-      "duration_ms": 202289,
-      "name": "The Great Divide",
-      "url": "https://open.spotify.com/track/7fupI8FxcypgJ7HDjw7hQR"
-    },
-    {
-      "added_at": "2026-06-04 22:00:35",
-      "album": {
         "name": "When the World Dissolves",
         "url": "https://open.spotify.com/album/739yEaTuANCpAavgpUQoSs"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 169411,
       "name": "When the World Dissolves",
       "url": "https://open.spotify.com/track/517spBUb3H1kqpUUmDjTJ3"
+    },
+    {
+      "added_at": "2026-06-04 22:00:35",
+      "album": {
+        "name": "The Great Divide",
+        "url": "https://open.spotify.com/album/0hF6KksKFNs67Xc0R0YDXb"
+      },
+      "artists": [
+        {
+          "name": "Celine Cairo",
+          "url": "https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR"
+        }
+      ],
+      "duration_ms": 202289,
+      "name": "The Great Divide",
+      "url": "https://open.spotify.com/track/7fupI8FxcypgJ7HDjw7hQR"
     },
     {
       "added_at": "2026-06-04 22:00:35",
@@ -691,6 +691,22 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
+        "name": "Zwak Voor Jou",
+        "url": "https://open.spotify.com/album/5smyylzp4G8pAPK1AppKNP"
+      },
+      "artists": [
+        {
+          "name": "Denise Kroes",
+          "url": "https://open.spotify.com/artist/4tHksjDEYAhsV4qECw4gG6"
+        }
+      ],
+      "duration_ms": 134444,
+      "name": "Zwak Voor Jou",
+      "url": "https://open.spotify.com/track/5NXI70KQBGnHq8vt1CWESC"
+    },
+    {
+      "added_at": "2026-06-04 22:00:35",
+      "album": {
         "name": "Find My!",
         "url": "https://open.spotify.com/album/0ED8kAtCHP2zNCx3LVore7"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 202593,
       "name": "Find My!",
       "url": "https://open.spotify.com/track/047e0SSWyaduEaaj7FypTC"
-    },
-    {
-      "added_at": "2026-06-04 22:00:35",
-      "album": {
-        "name": "Zwak Voor Jou",
-        "url": "https://open.spotify.com/album/5smyylzp4G8pAPK1AppKNP"
-      },
-      "artists": [
-        {
-          "name": "Denise Kroes",
-          "url": "https://open.spotify.com/artist/4tHksjDEYAhsV4qECw4gG6"
-        }
-      ],
-      "duration_ms": 134444,
-      "name": "Zwak Voor Jou",
-      "url": "https://open.spotify.com/track/5NXI70KQBGnHq8vt1CWESC"
     },
     {
       "added_at": "2026-06-04 22:00:35",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
-        "name": "Strawberry",
-        "url": "https://open.spotify.com/album/4SMEwj1X6KuwzHIyZkcLpE"
-      },
-      "artists": [
-        {
-          "name": "LAKSHMI",
-          "url": "https://open.spotify.com/artist/3PSaVjQnbHmuOKLBbFVxuW"
-        }
-      ],
-      "duration_ms": 237533,
-      "name": "Strawberry",
-      "url": "https://open.spotify.com/track/6akHA8IwpUr7vndAGw1oq7"
-    },
-    {
-      "added_at": "2026-06-04 22:00:35",
-      "album": {
         "name": "I THINK WE SHOULD CHANGE THIS",
         "url": "https://open.spotify.com/album/6xmdULbXe9tMKk1Q6SfIAw"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 242446,
       "name": "HANNAH MONTANA",
       "url": "https://open.spotify.com/track/36dnmtvkyziG2MKXZe6xY4"
+    },
+    {
+      "added_at": "2026-06-04 22:00:35",
+      "album": {
+        "name": "Strawberry",
+        "url": "https://open.spotify.com/album/4SMEwj1X6KuwzHIyZkcLpE"
+      },
+      "artists": [
+        {
+          "name": "LAKSHMI",
+          "url": "https://open.spotify.com/artist/3PSaVjQnbHmuOKLBbFVxuW"
+        }
+      ],
+      "duration_ms": 237533,
+      "name": "Strawberry",
+      "url": "https://open.spotify.com/track/6akHA8IwpUr7vndAGw1oq7"
     },
     {
       "added_at": "2026-06-04 22:00:35",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
-        "name": "Vrede",
-        "url": "https://open.spotify.com/album/06xueBfEDKOMKHdIqnNguZ"
-      },
-      "artists": [
-        {
-          "name": "Puck",
-          "url": "https://open.spotify.com/artist/25Z7oVgSb38ts7pl4c8O4V"
-        }
-      ],
-      "duration_ms": 174255,
-      "name": "Vrede",
-      "url": "https://open.spotify.com/track/5nChDoJ0kXRw9Mmfyhn2ou"
-    },
-    {
-      "added_at": "2026-06-04 22:00:35",
-      "album": {
         "name": "Building Fences",
         "url": "https://open.spotify.com/album/1ojzmNAyZQEZLilSaK4gQX"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 246613,
       "name": "Building Fences",
       "url": "https://open.spotify.com/track/1xixDQ95xnyxEEODsdaK8O"
+    },
+    {
+      "added_at": "2026-06-04 22:00:35",
+      "album": {
+        "name": "Vrede",
+        "url": "https://open.spotify.com/album/06xueBfEDKOMKHdIqnNguZ"
+      },
+      "artists": [
+        {
+          "name": "Puck",
+          "url": "https://open.spotify.com/artist/25Z7oVgSb38ts7pl4c8O4V"
+        }
+      ],
+      "duration_ms": 174255,
+      "name": "Vrede",
+      "url": "https://open.spotify.com/track/5nChDoJ0kXRw9Mmfyhn2ou"
     },
     {
       "added_at": "2026-06-04 22:00:35",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
-        "name": "Used to be us",
-        "url": "https://open.spotify.com/album/0yhmrzjt0hMcvvwy9Uqw63"
+        "name": "Droom Van Haar",
+        "url": "https://open.spotify.com/album/5ewSOShil0yRcF1OwITP0h"
       },
       "artists": [
         {
-          "name": "Pearl Ramos",
-          "url": "https://open.spotify.com/artist/4L8v7LCc2BtljMWBEvSgCh"
+          "name": "Renee Rose",
+          "url": "https://open.spotify.com/artist/6DjAfOheehIKX6VdcJpLDI"
         }
       ],
-      "duration_ms": 137691,
-      "name": "Used to be us",
-      "url": "https://open.spotify.com/track/2wnt1RSq1UFg7oip9FdW7b"
+      "duration_ms": 150306,
+      "name": "Droom Van Haar",
+      "url": "https://open.spotify.com/track/4QPjTstTfyXYhfUoDZWvY4"
     },
     {
       "added_at": "2026-06-04 22:00:35",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
-        "name": "Droom Van Haar",
-        "url": "https://open.spotify.com/album/5ewSOShil0yRcF1OwITP0h"
+        "name": "Used to be us",
+        "url": "https://open.spotify.com/album/0yhmrzjt0hMcvvwy9Uqw63"
       },
       "artists": [
         {
-          "name": "Renee Rose",
-          "url": "https://open.spotify.com/artist/6DjAfOheehIKX6VdcJpLDI"
+          "name": "Pearl Ramos",
+          "url": "https://open.spotify.com/artist/4L8v7LCc2BtljMWBEvSgCh"
         }
       ],
-      "duration_ms": 150306,
-      "name": "Droom Van Haar",
-      "url": "https://open.spotify.com/track/4QPjTstTfyXYhfUoDZWvY4"
+      "duration_ms": 137691,
+      "name": "Used to be us",
+      "url": "https://open.spotify.com/track/2wnt1RSq1UFg7oip9FdW7b"
     },
     {
       "added_at": "2026-06-04 22:00:35",

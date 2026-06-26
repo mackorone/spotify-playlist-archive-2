@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: no na",
+  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Ariana Grande",
   "name": "Lagi Viral",
   "tracks": [
     {
@@ -998,7 +998,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 230211,
       "name": "Ai \u0111\u01b0a em v\u1ec1 (Cukak Remix)",
       "url": "https://open.spotify.com/track/1I00yDXQKeUfYg2HOpGC8B"
@@ -2000,6 +2000,28 @@
       "duration_ms": 254862,
       "name": "Asmalibrasi",
       "url": "https://open.spotify.com/track/3TFdXrYIubXABQh0CxIiSs"
+    },
+    {
+      "album": {
+        "name": "Astaga Bercanda",
+        "url": "https://open.spotify.com/album/03NBHdtrGXlm3VHkjFAiSY"
+      },
+      "artists": [
+        {
+          "name": "Akbar Chalay",
+          "url": "https://open.spotify.com/artist/0dIJRlr9m4hUwdBYmKUTjW"
+        },
+        {
+          "name": "Mingse",
+          "url": "https://open.spotify.com/artist/7n6UYi8ahl0SOStLqjWf6I"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166850,
+      "name": "Astaga Bercanda",
+      "url": "https://open.spotify.com/track/03fkIoNyruY4N2Pa5CqTvv"
     },
     {
       "album": {
@@ -6356,7 +6378,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 155054,
       "name": "ddok ddok ddok",
       "url": "https://open.spotify.com/track/5D5vkXfYyYeURaWIbMA2nP"
@@ -15097,6 +15119,24 @@
     },
     {
       "album": {
+        "name": "Unorthodox Jukebox",
+        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233478,
+      "name": "Locked out of Heaven",
+      "url": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
+    },
+    {
+      "album": {
         "name": "Loneliness",
         "url": "https://open.spotify.com/album/5wYwKu8dqEcnrgoGonXAbc"
       },
@@ -15264,7 +15304,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 170000,
       "name": "LOUD",
       "url": "https://open.spotify.com/track/5rGrtds032AS35wDDyTNN4"
@@ -15698,6 +15738,24 @@
       "duration_ms": 168453,
       "name": "M a k e I t T o T h e M o r n i n g",
       "url": "https://open.spotify.com/track/12VH4g5pTMZmrUVzfJq7F7"
+    },
+    {
+      "album": {
+        "name": "Yang No.1",
+        "url": "https://open.spotify.com/album/5rlPkZwe6EZ019sAoGadne"
+      },
+      "artists": [
+        {
+          "name": "D'Bagindas",
+          "url": "https://open.spotify.com/artist/6IVfG2b4I86tYdigTdpWUa"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218106,
+      "name": "Maafkan",
+      "url": "https://open.spotify.com/track/2zZZQM87GupPuk78UofvFr"
     },
     {
       "album": {
@@ -17200,6 +17258,24 @@
       "duration_ms": 218613,
       "name": "Merra",
       "url": "https://open.spotify.com/track/7cUixGpMddFulqAeEDqUCp"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas, i miss you",
+        "url": "https://open.spotify.com/album/1JrnkLclHl6rgCZ6blcaRp"
+      },
+      "artists": [
+        {
+          "name": "Alex Crichton",
+          "url": "https://open.spotify.com/artist/25JtC3l1STnE2GptoHKXdD"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246857,
+      "name": "Merry Christmas, i miss you",
+      "url": "https://open.spotify.com/track/2GFrDW0pEXpjbNrKvFYI8k"
     },
     {
       "album": {
@@ -25291,6 +25367,24 @@
     },
     {
       "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209680,
+      "name": "stupid song",
+      "url": "https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4"
+    },
+    {
+      "album": {
         "name": "STYLE",
         "url": "https://open.spotify.com/album/2bCF7O4JPKcxtlOw7AtphB"
       },
@@ -28443,6 +28537,24 @@
     },
     {
       "album": {
+        "name": "Illuminate",
+        "url": "https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187973,
+      "name": "Treat You Better",
+      "url": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd"
+    },
+    {
+      "album": {
         "name": "Tresno Tekan Mati (New Version)",
         "url": "https://open.spotify.com/album/5rjrUoQokVq8SKhvhatF2U"
       },
@@ -29304,7 +29416,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 174000,
       "name": "WDA (Whole Different Animal) (feat. G-DRAGON)",
       "url": "https://open.spotify.com/track/59QIYdXAL9XeNtM0j8vN0k"

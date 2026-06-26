@@ -4,7 +4,7 @@
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-562 songs - 1 day 5 hr 34 min
+563 songs - 1 day 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [A Little Bit of Luck](https://open.spotify.com/track/3stQUVyIkVtY7KbU8OGnEN) | [DJ Luck & MC Neat](https://open.spotify.com/artist/4MflsXABg2VC9Powgd7JCF) | [A Little Bit Of Luck](https://open.spotify.com/album/2lnitRC7G6edIjewfydk2U) | 5:49 | 2021-07-09 | 2022-05-11 |
 | [A Little Closer](https://open.spotify.com/track/2wCgQVCF0jhDWiNTFjti7b) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV) | [A Little Closer](https://open.spotify.com/album/3r1gVvQUJx4W0kOj7yRjrU) | 2:55 | 2024-05-24 | 2024-08-03 |
 | [Actin' Tough](https://open.spotify.com/track/507j66jaEEUU11uFSTOHFM) | [Dean Turnley](https://open.spotify.com/artist/3BcWcwYXVjvLWHMGKsuvsd) | [Actin' Tough](https://open.spotify.com/album/0lL98VdijOX8PAeg6sl8MZ) | 3:07 | 2026-04-14 |  |
+| [Activated \(I Just Wanna\)](https://open.spotify.com/track/26mV6U2utvBqmqQizY4w5T) | [Piem](https://open.spotify.com/artist/08st4VKj9jjZJ5eKzAOHq8), [SLM](https://open.spotify.com/artist/7CEy8XnNrNtDipTl5aYt9T), [DJ Technics](https://open.spotify.com/artist/6hjL3Bio8qtNcPTCpuIlhG), [Kotton The Cutie](https://open.spotify.com/artist/3pthTqsBQCuDCfOrYpgEra) | [Activated \(I Just Wanna\)](https://open.spotify.com/album/48ksaIe53knzMdF3Zvl8dc) | 2:35 | 2026-06-25 |  |
 | [Addicted](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Addicted](https://open.spotify.com/album/7yO1vbedliKtwQ65jAjBQr) | 2:32 | 2024-06-14 | 2026-04-15 |
 | [Advice](https://open.spotify.com/track/1fp2uoWXPca3mIdxRHIgQm) | [Cadet](https://open.spotify.com/artist/1Gm0kKaDx4GH6pQF88rjSK), [Deno](https://open.spotify.com/artist/58ICshZ0AgBMNJiLHK3U8l) | [Advice](https://open.spotify.com/album/4wOuGy0YTmOHjHIUo6drO8) | 3:12 | 2021-07-09 | 2022-05-08 |
 | [Afraid \(feat\. HARLEE\)](https://open.spotify.com/track/4FUFk1uJuPtUJrDQ8ZSylK) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [HARLEE](https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy) | [Afraid](https://open.spotify.com/album/0hxaNsjHneCKXSOijcqPVz) | 2:22 | 2021-07-09 | 2023-09-12 |
@@ -261,7 +262,7 @@
 | [Ibizacore](https://open.spotify.com/track/0LU920mdHUiNTWGd3xIxdl) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [Muki](https://open.spotify.com/artist/6D8m8pBw3RkQ1TAi1bF2e1) | [Into The Doof](https://open.spotify.com/album/7bQCvS4ChwrfuLEiGY7fkf) | 2:42 | 2024-07-26 | 2025-05-30 |
 | [If Only I Knew](https://open.spotify.com/track/66H7ULe9JbxBVVWsfLi8JC) | [Denis Sulta](https://open.spotify.com/artist/7cDu9zG1gVQrMdSGBAhzvn) | [If Only I Knew](https://open.spotify.com/album/3VIlxPfmem99BaiIOUQqDX) | 3:43 | 2024-08-02 | 2025-05-09 |
 | [If U Like Me \- Edit](https://open.spotify.com/track/0XGSeTAcfOJa3WfVPAzX8H) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [If U Like Me](https://open.spotify.com/album/11Y3XFv7iAvRHTzOfQodBm) | 2:32 | 2024-06-14 | 2025-05-09 |
-| [If You Let Me](https://open.spotify.com/track/0RsViKNsOgDim3FeU2smxX) | [Albi](https://open.spotify.com/artist/7AANDBs83JY3hFkYl7T3kk), [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [If You Let Me](https://open.spotify.com/album/2EiPW2PhjYzXtq3EikOg96) | 2:37 | 2025-08-04 |  |
+| [If You Let Me](https://open.spotify.com/track/0RsViKNsOgDim3FeU2smxX) | [Albi](https://open.spotify.com/artist/7AANDBs83JY3hFkYl7T3kk), [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [If You Let Me](https://open.spotify.com/album/2EiPW2PhjYzXtq3EikOg96) | 2:37 | 2025-08-04 | 2026-06-26 |
 | [If You Wanna](https://open.spotify.com/track/5NMpjgdyG48RGtkjj8QENH) | [Leftwing : Kody](https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR) | [If You Wanna](https://open.spotify.com/album/7yicRngbUo5uEPuCK2WpRy) | 3:00 | 2021-07-09 | 2022-05-11 |
 | [If Your Girl](https://open.spotify.com/track/17CXft3kDo4QNrO491EFOv) | [Ben Hemsley](https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ), [Gaskin](https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm) | [If Your Girl](https://open.spotify.com/album/1N29DkWu39gZjMsU19Kn9k) | 3:50 | 2026-04-14 |  |
 | [In My Room](https://open.spotify.com/track/5Yqqm8RJ5Rm7FDAv3g1obU) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ), [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [In My Room](https://open.spotify.com/album/4EslqDlOgXkIhbEQHHjl3g) | 2:39 | 2025-05-08 | 2026-04-17 |

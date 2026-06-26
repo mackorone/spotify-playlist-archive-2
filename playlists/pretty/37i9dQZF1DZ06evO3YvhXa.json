@@ -1,12 +1,12 @@
 {
   "description": "This is Jamiroquai. The essential tracks, all in one playlist.",
-  "num_followers": 440815,
+  "num_followers": 440883,
   "original_name": "This Is Jamiroquai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajnMgAAAAADBc6rqwaAaqv2KEyHMmZgD",
+  "snapshot_id": "ajseAAAAAACEOQjQvUu+IVVPilMJIy2v",
   "tracks": [
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 295400,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/4LkJXlCD9AYjScPywhUjZs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Return of the Space Cowboy (Remastered)",
         "url": "https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 256640,
       "name": "Stillness in Time",
       "url": "https://open.spotify.com/track/704D4dPfn1ubgJ1UHXwg3Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 295400,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/4LkJXlCD9AYjScPywhUjZs"
     },
     {
       "added_at": null,

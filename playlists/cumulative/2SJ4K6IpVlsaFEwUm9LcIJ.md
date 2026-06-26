@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: may\-june 2026 \(previous playlists archived on my profile\)
 
-1,021 songs - 2 day 14 hr 1 min
+1,023 songs - 2 day 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -360,6 +360,7 @@
 | [Haverford Impromptu \#1](https://open.spotify.com/track/2lHvKGSQZzm2PlP4N5KpRy) | [Sun Ra](https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX) | [Haverford College, Jan\. 25th, 1980 \(Solo Rhodes Piano\)](https://open.spotify.com/album/0jVth1ufo1rI9gD7yCIQQQ) | 3:21 | 2025-04-02 | 2025-05-09 |
 | [Hawaiian Baby](https://open.spotify.com/track/0eyCLfTyf1KBwOFIBQaIUC) | [The Spinanes](https://open.spotify.com/artist/6lz8TrJesUMdGhKoyXTTda) | [Imp Years](https://open.spotify.com/album/1AbStfXk1A6n70yhAd9oZL) | 5:45 | 2024-12-27 | 2025-01-12 |
 | [Hazme Una Señal](https://open.spotify.com/track/4k2PtVkqKaYp9OJbONyY0z) | [Los Blue Notes](https://open.spotify.com/artist/4DKzUVq1Xy2lmJpmbk2Ko0) | [El Disco de Oro](https://open.spotify.com/album/62F6M8ycdmteffdyWJnZxZ) | 2:15 | 2024-08-19 | 2024-09-08 |
+| [Heart\-shaped Eyes](https://open.spotify.com/track/3W0XKCoZbqgXrwfdEqRCI3) | [Yangze](https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt) | [Heart\-shaped Eyes](https://open.spotify.com/album/2iYIMPIfDSmVqMeJWp98g6) | 3:09 | 2026-06-25 |  |
 | [Heaven Can Wait \- 2006 Remaster](https://open.spotify.com/track/2dX9cTn90GmGsGodXEi3l3) | [Judie Tzuke](https://open.spotify.com/artist/7eo4Kn4hJuwXKCD6nOl2Kh) | [Shoot the Moon \(2006 Remaster\)](https://open.spotify.com/album/1KhMx9peEp1gHJE8uSNsxN) | 4:34 | 2025-08-17 | 2025-09-11 |
 | [Hello Stranger](https://open.spotify.com/track/7dBGHDBPg1sBSWXkPrU1sa) | [Hazel Dickens](https://open.spotify.com/artist/2IEiSF4inDSwzQowcQjdfT), [Alice Gerrard](https://open.spotify.com/artist/3jw7tGSvkcf3nb1LWNnguT) | [Hazel & Alice](https://open.spotify.com/album/4nbDlug3zC6jKR3QnkPjfY) | 3:12 | 2025-09-25 | 2025-11-15 |
 | [Hemisphere Pt\. 2](https://open.spotify.com/track/04OJGaVLI9uNogAQkG4wHu) | [Orson Wells](https://open.spotify.com/artist/6sG6juOduwhzQTnzap9WPw) | [Pneumatics](https://open.spotify.com/album/5Bui8yHG60m3hC9MagW4W0) | 3:19 | 2025-10-26 | 2025-11-15 |
@@ -822,6 +823,7 @@
 | [State Trooper](https://open.spotify.com/track/1Ulh5rWbhhV3PltDadTBZC) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nebraska](https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6) | 3:17 | 2026-04-09 | 2026-04-13 |
 | [Stay Close To Me](https://open.spotify.com/track/7pWym8pTfolrPCsb7eFPqc) | [Ted Hawkins](https://open.spotify.com/artist/1clAnI6PODaoVlbzlUPOfU) | [Watch Your Step](https://open.spotify.com/album/3XnHTwogsnLUFhC7nZ983d) | 3:15 | 2026-02-02 | 2026-03-13 |
 | [Stella](https://open.spotify.com/track/0zzk2I2yDc1320lyrH5Dvh) | [Ultramarine](https://open.spotify.com/artist/7dWvlbbAJ7penJUnxOtUJF) | [Every Man and Woman Is a Star](https://open.spotify.com/album/2yu1jtGNrYsVvTqycc4oh6) | 4:25 | 2025-04-23 | 2025-05-09 |
+| [Stew](https://open.spotify.com/track/1bDwvHbDgtCvr2TcZIpQyn) | [Yangze](https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt) | [Stew](https://open.spotify.com/album/2Rwca3mHmAeP6fEkbXCVHO) | 5:44 | 2026-06-25 |  |
 | [Still Above](https://open.spotify.com/track/2aOKR3QxNyOagxfB7V8ZVa) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Still Above](https://open.spotify.com/album/38F6b7S3fHHVNfd7YT2Yvw) | 2:28 | 2025-06-21 | 2025-07-04 |
 | [Still Feels Like Tears \[Demo\]](https://open.spotify.com/track/7oW1kR6WNzw0NRBmDFbdVj) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Distant Call \- Collected Demos 2000 \- 2006](https://open.spotify.com/album/3R66mzyY7RONq48WPfxPky) | 3:10 | 2024-11-13 | 2025-01-12 |
 | [STILLWELL THEME](https://open.spotify.com/track/0NkQFp82glRfuu9YKbO8MT) | [Frog](https://open.spotify.com/artist/3ME5MgDqwM6G3UDLmwjftA) | [1000 Variations on the Same Song](https://open.spotify.com/album/0UUvgHaTGyQ27kM4eaJuN4) | 3:02 | 2026-02-14 | 2026-03-13 |

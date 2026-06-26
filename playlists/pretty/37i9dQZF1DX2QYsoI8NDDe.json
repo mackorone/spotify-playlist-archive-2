@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Lila Downs \ud83d\udd25",
-  "num_followers": 579997,
+  "num_followers": 579986,
   "original_name": "Women of M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,22 @@
     {
       "added_at": "2026-05-29 06:00:32",
       "album": {
+        "name": "Zapatos Que Aprietan",
+        "url": "https://open.spotify.com/album/4VyXwM08CTSjCvzYam4V2Z"
+      },
+      "artists": [
+        {
+          "name": "Ximena ramos",
+          "url": "https://open.spotify.com/artist/2ONyU1dZQ54agORMzggxTD"
+        }
+      ],
+      "duration_ms": 195750,
+      "name": "Zapatos Que Aprietan",
+      "url": "https://open.spotify.com/track/78ZHzMZpAjKjksZl7vgNyb"
+    },
+    {
+      "added_at": "2026-05-29 06:00:32",
+      "album": {
         "name": "Janney",
         "url": "https://open.spotify.com/album/25X59yD47dtzAAq6bzXliA"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 154992,
       "name": "MALIBU",
       "url": "https://open.spotify.com/track/4fPXanSrPMbboicrHPzV0M"
-    },
-    {
-      "added_at": "2026-05-29 06:00:32",
-      "album": {
-        "name": "Zapatos Que Aprietan",
-        "url": "https://open.spotify.com/album/4VyXwM08CTSjCvzYam4V2Z"
-      },
-      "artists": [
-        {
-          "name": "Ximena ramos",
-          "url": "https://open.spotify.com/artist/2ONyU1dZQ54agORMzggxTD"
-        }
-      ],
-      "duration_ms": 195750,
-      "name": "Zapatos Que Aprietan",
-      "url": "https://open.spotify.com/track/78ZHzMZpAjKjksZl7vgNyb"
     },
     {
       "added_at": "2026-05-29 06:00:32",
@@ -467,22 +467,6 @@
     {
       "added_at": "2026-05-29 06:00:32",
       "album": {
-        "name": "Y Qu\u00e9",
-        "url": "https://open.spotify.com/album/26jxQmK7QAuvHiQ9lGe5oh"
-      },
-      "artists": [
-        {
-          "name": "Alisson Joan",
-          "url": "https://open.spotify.com/artist/65sDAqnzGih8hYzqtZqitw"
-        }
-      ],
-      "duration_ms": 153083,
-      "name": "Y Qu\u00e9",
-      "url": "https://open.spotify.com/track/01fEOyH0Qr4H75Y9RCMD3S"
-    },
-    {
-      "added_at": "2026-05-29 06:00:32",
-      "album": {
         "name": "Soy Fan",
         "url": "https://open.spotify.com/album/5IOMxDPKMtuqX72hEwhz3Z"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 176714,
       "name": "Soy Fan",
       "url": "https://open.spotify.com/track/214dHBkQIghUJArTL083fZ"
+    },
+    {
+      "added_at": "2026-05-29 06:00:32",
+      "album": {
+        "name": "Y Qu\u00e9",
+        "url": "https://open.spotify.com/album/26jxQmK7QAuvHiQ9lGe5oh"
+      },
+      "artists": [
+        {
+          "name": "Alisson Joan",
+          "url": "https://open.spotify.com/artist/65sDAqnzGih8hYzqtZqitw"
+        }
+      ],
+      "duration_ms": 153083,
+      "name": "Y Qu\u00e9",
+      "url": "https://open.spotify.com/track/01fEOyH0Qr4H75Y9RCMD3S"
     },
     {
       "added_at": "2026-05-29 06:00:32",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-05-29 06:00:32",
       "album": {
-        "name": "La Novia Del Pajarillo (En Vivo)",
-        "url": "https://open.spotify.com/album/4hYc8P71h1ByS2vHjItpQF"
-      },
-      "artists": [
-        {
-          "name": "Las Mar\u00edas",
-          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
-        }
-      ],
-      "duration_ms": 235434,
-      "name": "La Novia Del Pajarillo (En Vivo)",
-      "url": "https://open.spotify.com/track/1cqqXvOmdlhbMidw2Uvqtn"
-    },
-    {
-      "added_at": "2026-05-29 06:00:32",
-      "album": {
         "name": "A Pierna Suelta",
         "url": "https://open.spotify.com/album/3MvE3jfLf0X7PJAZlJjmFR"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 177840,
       "name": "A Pierna Suelta",
       "url": "https://open.spotify.com/track/4bXD3k2GRkqjxCe9hTEyps"
+    },
+    {
+      "added_at": "2026-05-29 06:00:32",
+      "album": {
+        "name": "La Novia Del Pajarillo (En Vivo)",
+        "url": "https://open.spotify.com/album/4hYc8P71h1ByS2vHjItpQF"
+      },
+      "artists": [
+        {
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+        }
+      ],
+      "duration_ms": 235434,
+      "name": "La Novia Del Pajarillo (En Vivo)",
+      "url": "https://open.spotify.com/track/1cqqXvOmdlhbMidw2Uvqtn"
     },
     {
       "added_at": "2026-05-29 06:00:32",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-05-29 06:00:32",
       "album": {
-        "name": "Que Ganas De No Verte Nunca M\u00e1s",
-        "url": "https://open.spotify.com/album/2hkLkzcmOqFnlhZPpx58kw"
-      },
-      "artists": [
-        {
-          "name": "ANDYVERE",
-          "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
-        }
-      ],
-      "duration_ms": 209920,
-      "name": "Que Ganas De No Verte Nunca M\u00e1s",
-      "url": "https://open.spotify.com/track/0Z1Hwnp3Ts3tpK4Lki5KOp"
-    },
-    {
-      "added_at": "2026-05-29 06:00:32",
-      "album": {
         "name": "Herencias De Mi Madre (Volumen 2)",
         "url": "https://open.spotify.com/album/21rDrBv6U3OmR8s6BRsC5E"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 138931,
       "name": "La Silla Vac\u00eda",
       "url": "https://open.spotify.com/track/7yjox784bDOYEVTKddDPwg"
+    },
+    {
+      "added_at": "2026-05-29 06:00:32",
+      "album": {
+        "name": "Que Ganas De No Verte Nunca M\u00e1s",
+        "url": "https://open.spotify.com/album/2hkLkzcmOqFnlhZPpx58kw"
+      },
+      "artists": [
+        {
+          "name": "ANDYVERE",
+          "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
+        }
+      ],
+      "duration_ms": 209920,
+      "name": "Que Ganas De No Verte Nunca M\u00e1s",
+      "url": "https://open.spotify.com/track/0Z1Hwnp3Ts3tpK4Lki5KOp"
     },
     {
       "added_at": "2026-05-29 06:00:32",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2026-05-29 06:00:32",
       "album": {
-        "name": "Cuanto Te Amo",
-        "url": "https://open.spotify.com/album/2ILRR1XBqTsQcq0vkn4FQ1"
-      },
-      "artists": [
-        {
-          "name": "Sofi Saar",
-          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
-        },
-        {
-          "name": "Costumbre",
-          "url": "https://open.spotify.com/artist/4GeHKoBHS3bHLGBUDEi90N"
-        }
-      ],
-      "duration_ms": 174552,
-      "name": "Cuanto Te Amo",
-      "url": "https://open.spotify.com/track/3H0TN0PotVH0SZVuxq34Gz"
-    },
-    {
-      "added_at": "2026-05-29 06:00:32",
-      "album": {
         "name": "Con Todo Y Mi Tristeza (En Vivo Desde Tenampa 100)",
         "url": "https://open.spotify.com/album/10l6d2kg8dxjPemNIfxbUW"
       },
@@ -1219,18 +1199,22 @@
     {
       "added_at": "2026-05-29 06:00:32",
       "album": {
-        "name": "No Me Queda M\u00e1s (En Vivo)",
-        "url": "https://open.spotify.com/album/3hIJDpOqh6zItKT6qSRXao"
+        "name": "Cuanto Te Amo",
+        "url": "https://open.spotify.com/album/2ILRR1XBqTsQcq0vkn4FQ1"
       },
       "artists": [
         {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+          "name": "Sofi Saar",
+          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
+        },
+        {
+          "name": "Costumbre",
+          "url": "https://open.spotify.com/artist/4GeHKoBHS3bHLGBUDEi90N"
         }
       ],
-      "duration_ms": 201467,
-      "name": "No Me Queda M\u00e1s (En Vivo)",
-      "url": "https://open.spotify.com/track/4Zj0D44I1YGp4AKlaLSxB9"
+      "duration_ms": 174552,
+      "name": "Cuanto Te Amo",
+      "url": "https://open.spotify.com/track/3H0TN0PotVH0SZVuxq34Gz"
     },
     {
       "added_at": "2026-05-29 06:00:32",
@@ -1267,6 +1251,22 @@
       "duration_ms": 179647,
       "name": "Nos Acostumbramos",
       "url": "https://open.spotify.com/track/0GnSyaviaDBEtitiaH9TST"
+    },
+    {
+      "added_at": "2026-05-29 06:00:32",
+      "album": {
+        "name": "No Me Queda M\u00e1s (En Vivo)",
+        "url": "https://open.spotify.com/album/3hIJDpOqh6zItKT6qSRXao"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 201467,
+      "name": "No Me Queda M\u00e1s (En Vivo)",
+      "url": "https://open.spotify.com/track/4Zj0D44I1YGp4AKlaLSxB9"
     },
     {
       "added_at": "2026-05-29 06:00:32",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2026-05-29 06:00:32",
       "album": {
+        "name": "Hoy Lo Vi Pasar",
+        "url": "https://open.spotify.com/album/4EsqMRhaRNkK5fmLLKyg6u"
+      },
+      "artists": [
+        {
+          "name": "Briseyda Solis",
+          "url": "https://open.spotify.com/artist/06TVyjDIGaOlWTLAf5M6oi"
+        }
+      ],
+      "duration_ms": 213480,
+      "name": "Hoy Lo Vi Pasar",
+      "url": "https://open.spotify.com/track/66L6J0eHhh5ks7xu5oJ2UO"
+    },
+    {
+      "added_at": "2026-05-29 06:00:32",
+      "album": {
         "name": "La M\u00e1s Bella",
         "url": "https://open.spotify.com/album/4pcWwS4qziCROZmUn9P4ZE"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 228238,
       "name": "La M\u00e1s Bella",
       "url": "https://open.spotify.com/track/79cIsy8pd93aTirCOXeiHK"
-    },
-    {
-      "added_at": "2026-05-29 06:00:32",
-      "album": {
-        "name": "Hoy Lo Vi Pasar",
-        "url": "https://open.spotify.com/album/4EsqMRhaRNkK5fmLLKyg6u"
-      },
-      "artists": [
-        {
-          "name": "Briseyda Solis",
-          "url": "https://open.spotify.com/artist/06TVyjDIGaOlWTLAf5M6oi"
-        }
-      ],
-      "duration_ms": 213480,
-      "name": "Hoy Lo Vi Pasar",
-      "url": "https://open.spotify.com/track/66L6J0eHhh5ks7xu5oJ2UO"
     },
     {
       "added_at": "2026-05-29 06:00:32",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-05-29 06:00:32",
       "album": {
-        "name": "Si A\u00fan Me Piensas",
-        "url": "https://open.spotify.com/album/4TcuzBNnFqqL1OHXQNhAbW"
-      },
-      "artists": [
-        {
-          "name": "Griss Romero",
-          "url": "https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA"
-        }
-      ],
-      "duration_ms": 178265,
-      "name": "Tragos de amargo licor",
-      "url": "https://open.spotify.com/track/7tLshdCe1K9QaEuUnnvQb8"
-    },
-    {
-      "added_at": "2026-05-29 06:00:32",
-      "album": {
         "name": "All\u00e1 Donde Vayas",
         "url": "https://open.spotify.com/album/6w4pWVHHj7Adwh3Pe8u9fn"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 213316,
       "name": "All\u00e1 Donde Vayas",
       "url": "https://open.spotify.com/track/2ZWIqmP9Y9AChlfMp9G9Jl"
+    },
+    {
+      "added_at": "2026-05-29 06:00:32",
+      "album": {
+        "name": "Si A\u00fan Me Piensas",
+        "url": "https://open.spotify.com/album/4TcuzBNnFqqL1OHXQNhAbW"
+      },
+      "artists": [
+        {
+          "name": "Griss Romero",
+          "url": "https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA"
+        }
+      ],
+      "duration_ms": 178265,
+      "name": "Tragos de amargo licor",
+      "url": "https://open.spotify.com/track/7tLshdCe1K9QaEuUnnvQb8"
     },
     {
       "added_at": "2026-05-29 06:00:32",

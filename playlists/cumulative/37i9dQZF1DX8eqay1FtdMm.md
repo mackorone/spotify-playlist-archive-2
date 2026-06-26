@@ -4,7 +4,7 @@
 
 > Meet the best Korean vocalists who will melt your eardrums! \(Cover: Kwon Jin Ah\(권진아\)\) 여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-657 songs - 1 day 18 hr 53 min
+659 songs - 1 day 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [A Daily Song](https://open.spotify.com/track/5Df08ImWepnNDWoOS7pIxq) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [Be Ordinary](https://open.spotify.com/album/2p6TG0CTBBbY5jVaCnlHO5) | 4:19 | 2021-12-20 | 2022-07-27 |
 | [A Flying Butterfly](https://open.spotify.com/track/3I71PFicYG614VGl6hqcUK) | [YB](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5) | [Why Be?](https://open.spotify.com/album/4S5PRo1gVG9BvRnCcdYzdS) | 3:34 | 2024-05-29 | 2024-06-06 |
 | [A message to myself](https://open.spotify.com/track/5cFbSoEo5ft3hA746YTGd4) | [JEONG HYO BEAN](https://open.spotify.com/artist/39mNLQ2I1Al3Ewrr9tTxhB) | [A message to myself.](https://open.spotify.com/album/1OvwMJt6WKik5pD7Ip7yrP) | 4:08 | 2022-03-24 | 2022-07-23 |
+| [A Person Closer to Tears \(2026\)](https://open.spotify.com/track/6jVVRZdkLkT4jcW4Wc8eDo) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD), [LEE HONG GI](https://open.spotify.com/artist/6sLiM3MFm3Yzd0JwELsAG4) | [Monday Kiz's Footprints Vol.3 With Lee Hong Gi \(FT Island\)](https://open.spotify.com/album/4ZXj9cKzcIwvWeeF9q1L2M) | 5:10 | 2026-06-23 |  |
 | [A Song For You](https://open.spotify.com/track/5VtQn0Pp23dZZqVGi2zhzQ) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [A Song For You](https://open.spotify.com/album/284ZHwShyBT7ao6gl8S2pe) | 3:47 | 2025-04-29 | 2025-09-02 |
 | [A Song For You](https://open.spotify.com/track/3W1q6gcfqHOmmGWMAeJsUJ) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [A Song For You](https://open.spotify.com/album/5vvVMVn3uDoftumulPKMJw) | 3:47 | 2023-01-28 | 2023-03-06 |
 | [A Song For You](https://open.spotify.com/track/3jAap8woUqJhIFbzedFRd7) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [A Song For You](https://open.spotify.com/album/7JA7N27T4oTQpFbaHCmZow) | 4:55 | 2024-12-10 | 2025-03-27 |
@@ -232,7 +233,7 @@
 | [Hug Me](https://open.spotify.com/track/29iBmddkKfwYrUbfJmjj6K) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Hug Me](https://open.spotify.com/album/4l2KIzsKsMlYzn9TNS458F) | 2:46 | 2024-05-20 | 2024-08-01 |
 | [I \(feat\. MINSEO\)](https://open.spotify.com/track/0OmPQqX1CajqAZ4MkBz6tb) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X), [MINSEO](https://open.spotify.com/artist/3qo507hAo0pjRj42AmioUv) | [I \(feat\. MINSEO\)](https://open.spotify.com/album/7wcgA4iskyzVb8s4w7St3e) | 4:00 | 2021-12-20 | 2022-07-29 |
 | [I can't forget you](https://open.spotify.com/track/7K37ggTWKnAlZFVVmTIlzM) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [If You Wish Upon Me OST Part.3](https://open.spotify.com/album/3RWQFf7JlTLZZWG21CsJr9) | 3:38 | 2022-08-19 | 2025-09-13 |
-| [I Can't Help It \(Prod\. Jungkey\)](https://open.spotify.com/track/60lbmSHbESKwdX4v43CxgV) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [I Can't Help It](https://open.spotify.com/album/1lLdKbEjOACowN4vRgseNd) | 3:44 | 2022-09-21 |  |
+| [I Can't Help It \(Prod\. Jungkey\)](https://open.spotify.com/track/60lbmSHbESKwdX4v43CxgV) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [I Can't Help It](https://open.spotify.com/album/1lLdKbEjOACowN4vRgseNd) | 3:44 | 2022-09-21 | 2026-06-26 |
 | [I Can’t](https://open.spotify.com/track/5o5yvRKiygg9Nh4Uvo0VTH) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [I Can’t \(Re:WIND 4MEN Vol.02\)](https://open.spotify.com/album/4ZUX84xu3LpbFHtgyJdoF6) | 4:10 | 2022-10-08 | 2025-12-05 |
 | [I Don't Want](https://open.spotify.com/track/3aNsBkmdh6MO8UkLd42BUA) | [JUNGKEY](https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2), [Sojeong](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [RETRO](https://open.spotify.com/album/4SeP6ESUtWAfAXNKJPqt8N) | 3:43 | 2022-01-14 | 2022-04-16 |
 | [I hate you](https://open.spotify.com/track/4cuvGQEBMIWnGBQu9yLgOh) | [ZOIN](https://open.spotify.com/artist/6piQESINjWBSElYa126dD7) | [I hate you](https://open.spotify.com/album/0p4tIoEV2Z60mUexJyY4SD) | 3:56 | 2022-03-31 | 2022-06-07 |
@@ -446,6 +447,7 @@
 | [rumor](https://open.spotify.com/track/698TO5R7XS6uHypzpVYbuH) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l) | [r](https://open.spotify.com/album/6KmrLxGgaRGIchZU1eb3br) | 4:36 | 2022-03-24 | 2022-05-16 |
 | [Run](https://open.spotify.com/track/0rqth7TKBij4qKmqI1h4Ts) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [WORD](https://open.spotify.com/album/1y20zPeDfHZyG5BZmJKSiO) | 6:09 | 2021-12-20 | 2022-07-13 |
 | [Run to you](https://open.spotify.com/track/3iB8EwIDGGF7LMIiBqsKip) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [\#10](https://open.spotify.com/album/5PcKDTett30v0zZfO7nF5E) | 4:09 | 2022-03-31 | 2022-04-21 |
+| [Runaway](https://open.spotify.com/track/2oqZ4QuvbLyNwZ5H9FzzW1) | [RYEOWOOK](https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo) | [Runaway](https://open.spotify.com/album/7rGcnNoG09g5Meje4gPrwN) | 2:59 | 2026-06-23 |  |
 | [Say goodbye for no reason](https://open.spotify.com/track/2NiqeqX69bXKOdXS3E6HCx) | [V.O.S](https://open.spotify.com/artist/2x8nGCQ6zMQYA8oAX6Ggk2) | [Say goodbye for no reason](https://open.spotify.com/album/69rwgUoFeUWO9MldOT5MVn) | 3:48 | 2024-08-26 | 2024-09-03 |
 | [Scattered Days](https://open.spotify.com/track/27HoEXjsTVnwmvsSMQEDKb) | [Hanseul](https://open.spotify.com/artist/1mXzPR6FH3CMZYu4VQ6ghD), [In the City](https://open.spotify.com/artist/31Gze6obVZxuBeqEXJYNo8) | [PLAYBACK \#4 'Scattered Days'](https://open.spotify.com/album/6JwxEhmxoie8ldjW6PBE7m) | 3:48 | 2022-01-14 | 2022-06-26 |
 | [seep into you](https://open.spotify.com/track/1gI4erUG1xjcWi5Ysm8YjY) | [Yeoeun](https://open.spotify.com/artist/4KDlIFwLpNZE8xx3cpzsej) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 10](https://open.spotify.com/album/0pazoqMfChhTpwsbqaDS9P) | 3:48 | 2022-07-04 | 2022-07-23 |
@@ -509,7 +511,7 @@
 | [Thank You](https://open.spotify.com/track/1xzC5lmJfG21PJBAeQaBam) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [My Favorite Winter](https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp) | 4:38 | 2022-12-14 | 2023-01-25 |
 | [The Destruction Of The Shell](https://open.spotify.com/track/62V1fAl9jYjZiXNuxuSoFI) | [N.EX.T](https://open.spotify.com/artist/1BvcPcQ3raChuHJcAJrvGy) | [The Return Of N.EX.T Pt\. 1 The Being](https://open.spotify.com/album/4hK0Hd9GwgldreY6AtH4JT) | 9:53 | 2024-05-29 | 2024-06-06 |
 | [the different way](https://open.spotify.com/track/4DWbNWDPmwahzwPtQN2Dtz) | [LEEWOO](https://open.spotify.com/artist/3yqfDFGcPyMlSaR2AMKaSz) | [SHE](https://open.spotify.com/album/7ru2skAL25CnTn4Y8Tg0QY) | 3:37 | 2024-01-12 | 2024-02-09 |
-| [The Eternal Moment](https://open.spotify.com/track/3K7dk2oIAmxJnhv8i24ak8) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Red Moon: Beyond The Light](https://open.spotify.com/album/5Id1UecoJT2agC8uag0jL6) | 4:04 | 2021-12-20 |  |
+| [The Eternal Moment](https://open.spotify.com/track/3K7dk2oIAmxJnhv8i24ak8) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Red Moon: Beyond The Light](https://open.spotify.com/album/5Id1UecoJT2agC8uag0jL6) | 4:04 | 2021-12-20 | 2026-06-26 |
 | [The Gift](https://open.spotify.com/track/2PTnOo4kxWsyTlRc3hwiBo) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [The Gift](https://open.spotify.com/album/5Bkjj4PGtK7078kTvQhvXS) | 3:46 | 2022-01-27 | 2022-07-22 |
 | [The girl who resembles you \(feat\. Ha Yea Song\)](https://open.spotify.com/track/1851TpHKK4pmMVBsqZQZer) | [Hwang In Wook](https://open.spotify.com/artist/56U7IcfF1h54ZxOPqjEnjq), [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [The girl who resembles you](https://open.spotify.com/album/5k5zP2tp6VoOWIlDcJWZpz) | 3:10 | 2026-04-30 |  |
 | [The Leopard of Killimanjaro](https://open.spotify.com/track/5PIr3ZJAhdAbWJx0f3Qoc3) | [4MEN](https://open.spotify.com/artist/7oFIkpNpLrTBgZW6w55W1J) | [Through The Darkness OST Part.4](https://open.spotify.com/album/4udEUd1K2GcbAgw8VUufEO) | 4:21 | 2022-03-21 | 2022-06-12 |

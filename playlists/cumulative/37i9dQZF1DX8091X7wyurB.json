@@ -2300,7 +2300,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 280424,
       "name": "Chinedum",
       "url": "https://open.spotify.com/track/7LcoRUZI1URqzeumgGbKWp"
@@ -4066,7 +4066,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 621040,
       "name": "Eze",
       "url": "https://open.spotify.com/track/6xVJYsNecWgmm603J0anpo"
@@ -5714,7 +5714,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-12",
+      "date_removed": null,
       "duration_ms": 337560,
       "name": "Gratitude",
       "url": "https://open.spotify.com/track/0cXV6AoJBnrnrXK0toJHpB"
@@ -6286,7 +6286,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 540306,
       "name": "He Is Here",
       "url": "https://open.spotify.com/track/71WaxrZwN86EY4oZr2Z8pm"
@@ -7658,7 +7658,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 610039,
       "name": "I See The Lord - Live",
       "url": "https://open.spotify.com/track/38kUGVC4ZLfg6ekJ08IcUh"
@@ -8526,6 +8526,28 @@
       "duration_ms": 242521,
       "name": "Iyawo Mi",
       "url": "https://open.spotify.com/track/2gxLkwd60WHWEQ5E0x0Z0C"
+    },
+    {
+      "album": {
+        "name": "Iyo Iyo",
+        "url": "https://open.spotify.com/album/4C3X0VJVk5rNpTBbdQE2R6"
+      },
+      "artists": [
+        {
+          "name": "Evan Olajide",
+          "url": "https://open.spotify.com/artist/1mxs3ZUAx5ResgxqmevFje"
+        },
+        {
+          "name": "Moses Akoh",
+          "url": "https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312000,
+      "name": "Iyo Iyo",
+      "url": "https://open.spotify.com/track/4TPcxjP5jGe061jKDcOYfM"
     },
     {
       "album": {
@@ -9515,6 +9537,24 @@
     },
     {
       "album": {
+        "name": "In His Presence, Vol. 16 - The Reason Why I Live",
+        "url": "https://open.spotify.com/album/5sFrrho3L4OIHLRDc7urAD"
+      },
+      "artists": [
+        {
+          "name": "Dr Paul Enenche",
+          "url": "https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262705,
+      "name": "Lord I Thirst For You",
+      "url": "https://open.spotify.com/track/6UEvZwMCATRY6hw7xSCv9O"
+    },
+    {
+      "album": {
         "name": "The EXILE",
         "url": "https://open.spotify.com/album/3Z5eTl8JjXIWoMx3M8GRsN"
       },
@@ -9614,7 +9654,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 168791,
       "name": "Love lifted me",
       "url": "https://open.spotify.com/track/7Dh3nIB06U3E36uRzoto6B"
@@ -10882,7 +10922,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 213430,
       "name": "My Thank You",
       "url": "https://open.spotify.com/track/2ZhFqLe4RLezTAfR8idwzX"
@@ -14464,7 +14504,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-24",
+      "date_removed": null,
       "duration_ms": 198518,
       "name": "Subscribed - Live",
       "url": "https://open.spotify.com/track/4PH7CkhsXd4hlc1iTnUV4p"
@@ -16620,7 +16660,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 497779,
       "name": "We Worship You",
       "url": "https://open.spotify.com/track/37ewmOinmfco7aCr3bve3r"

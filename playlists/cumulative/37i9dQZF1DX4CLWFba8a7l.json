@@ -1511,6 +1511,28 @@
     },
     {
       "album": {
+        "name": "Break My Heart",
+        "url": "https://open.spotify.com/album/2i4pcui4vyTDqfZrEJt9Aw"
+      },
+      "artists": [
+        {
+          "name": "Bag Raiders",
+          "url": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46"
+        },
+        {
+          "name": "Meg Mac",
+          "url": "https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181185,
+      "name": "Break My Heart",
+      "url": "https://open.spotify.com/track/3L8B3G1GPRiN3a4RET63rL"
+    },
+    {
+      "album": {
         "name": "BLOOD ON THE DRUMS (The Thorns)",
         "url": "https://open.spotify.com/album/4GOETHIJEzUKybjE6aywCa"
       },
@@ -3209,6 +3231,24 @@
     },
     {
       "album": {
+        "name": "F.M.D.",
+        "url": "https://open.spotify.com/album/5dkihcNVD1NruzZQAKkyqL"
+      },
+      "artists": [
+        {
+          "name": "BIG NOTER",
+          "url": "https://open.spotify.com/artist/3wuLSOv0CPHw4s22TIIN0B"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189533,
+      "name": "F.M.D.",
+      "url": "https://open.spotify.com/track/72VOW8X0ZgYdc9pQnIqur1"
+    },
+    {
+      "album": {
         "name": "FACEDOWN",
         "url": "https://open.spotify.com/album/0HvxP4GWEWPoENikGeEeee"
       },
@@ -4328,7 +4368,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 256444,
       "name": "HANDOUT",
       "url": "https://open.spotify.com/track/3v4GDXibV0EcyViPek8I1d"
@@ -4864,7 +4904,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 220966,
       "name": "How to Breathe (feat. Matt Corby)",
       "url": "https://open.spotify.com/track/6B2OZ4hgTVFsBLW4kmOibB"
@@ -5580,7 +5620,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 154835,
       "name": "It\u2019s Alright",
       "url": "https://open.spotify.com/track/0qolNSuJWgA9diit13iCpC"
@@ -6122,7 +6162,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 219204,
       "name": "LIFE KEEPS GOING",
       "url": "https://open.spotify.com/track/7bUGV0iRkAlZ4qeGix6O9H"
@@ -6824,6 +6864,24 @@
       "duration_ms": 272507,
       "name": "MOLLY",
       "url": "https://open.spotify.com/track/5FxXv3uQHKFKoslI6sMpYi"
+    },
+    {
+      "album": {
+        "name": "Monroe",
+        "url": "https://open.spotify.com/album/2RHzAwuXOlgiqedUFioxHQ"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220290,
+      "name": "Monroe",
+      "url": "https://open.spotify.com/track/4mHEAiQ3TqXizTGJEMZrEo"
     },
     {
       "album": {
@@ -10022,7 +10080,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-12",
+      "date_removed": null,
       "duration_ms": 151212,
       "name": "Stuntn",
       "url": "https://open.spotify.com/track/7FpBSmSsI3AHNTVptxEv1K"
@@ -11344,7 +11402,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 206571,
       "name": "Trust",
       "url": "https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1"
@@ -12252,6 +12310,24 @@
       "duration_ms": 132694,
       "name": "Work Out Fine",
       "url": "https://open.spotify.com/track/2GL3ureNXlitWxKzCelq5A"
+    },
+    {
+      "album": {
+        "name": "RAGE",
+        "url": "https://open.spotify.com/album/5oxMfD3pBDCVsRKjpgVXTb"
+      },
+      "artists": [
+        {
+          "name": "Kita Alexander",
+          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203090,
+      "name": "Worth It",
+      "url": "https://open.spotify.com/track/7MRoIVZ0QuVy3xDu9Z6Thu"
     },
     {
       "album": {

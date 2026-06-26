@@ -1,29 +1,13 @@
 {
   "description": "De grootste hits uit de kroeg in \u00e9\u00e9n playlist.",
-  "num_followers": 281327,
+  "num_followers": 281475,
   "original_name": "Kroegenhits 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJYxEcUyG0rjbEoBgNDipt0fmCZH",
+  "snapshot_id": "AAAAAI16/ustsidF4yyKhdaxCRXbP+Am",
   "tracks": [
-    {
-      "added_at": "2026-06-20 12:00:34",
-      "album": {
-        "name": "Cheerio",
-        "url": "https://open.spotify.com/album/31pOa0QRbqjz0yTkY37Sqh"
-      },
-      "artists": [
-        {
-          "name": "Justen de Wildt",
-          "url": "https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X"
-        }
-      ],
-      "duration_ms": 148815,
-      "name": "Cheerio",
-      "url": "https://open.spotify.com/track/3L9mOOGtByXTKSQOyyko9o"
-    },
     {
       "added_at": "2026-06-20 12:00:34",
       "album": {
@@ -43,6 +27,74 @@
     {
       "added_at": "2026-06-20 12:00:34",
       "album": {
+        "name": "Cheerio",
+        "url": "https://open.spotify.com/album/31pOa0QRbqjz0yTkY37Sqh"
+      },
+      "artists": [
+        {
+          "name": "Justen de Wildt",
+          "url": "https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X"
+        }
+      ],
+      "duration_ms": 148815,
+      "name": "Cheerio",
+      "url": "https://open.spotify.com/track/3L9mOOGtByXTKSQOyyko9o"
+    },
+    {
+      "added_at": "2026-06-25 16:00:35",
+      "album": {
+        "name": "Echt Niet Normaal!",
+        "url": "https://open.spotify.com/album/3YiSpWbD5hdbQxn9U7WUnh"
+      },
+      "artists": [
+        {
+          "name": "Wolter Kroes",
+          "url": "https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU"
+        }
+      ],
+      "duration_ms": 170346,
+      "name": "Viva Hollandia",
+      "url": "https://open.spotify.com/track/0VCYoWWceUxg1jRwlPMBbv"
+    },
+    {
+      "added_at": "2026-06-20 12:00:34",
+      "album": {
+        "name": "Zwoele Zomernachten",
+        "url": "https://open.spotify.com/album/1tosO6LN7sy2lKJ0Hx4dmT"
+      },
+      "artists": [
+        {
+          "name": "Rutger van Barneveld",
+          "url": "https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7"
+        }
+      ],
+      "duration_ms": 195454,
+      "name": "Zwoele Zomernachten",
+      "url": "https://open.spotify.com/track/6gtGFybqydN4OMfy8M6M4b"
+    },
+    {
+      "added_at": "2026-06-25 16:00:35",
+      "album": {
+        "name": "Speedy Gonzales",
+        "url": "https://open.spotify.com/album/7uRpTmaN3tQ11c2T3wOsLD"
+      },
+      "artists": [
+        {
+          "name": "Bonte Carlo",
+          "url": "https://open.spotify.com/artist/3mnbX3HtlkbxMRIhSDLa1M"
+        },
+        {
+          "name": "Jeffrey Parmentier",
+          "url": "https://open.spotify.com/artist/0nGVFnSCZQDPf0hflywur0"
+        }
+      ],
+      "duration_ms": 178333,
+      "name": "Speedy Gonzales",
+      "url": "https://open.spotify.com/track/452qliBRnC3wfHTngLg6Ka"
+    },
+    {
+      "added_at": "2026-06-20 12:00:34",
+      "album": {
         "name": "Zandloopster",
         "url": "https://open.spotify.com/album/2IWE3ybPLZULmw341hKBDw"
       },
@@ -55,6 +107,22 @@
       "duration_ms": 142965,
       "name": "Zandloopster",
       "url": "https://open.spotify.com/track/4ltDygbHH5SfnRsfmuDLRl"
+    },
+    {
+      "added_at": "2026-06-25 16:00:35",
+      "album": {
+        "name": "\u2026 En Door",
+        "url": "https://open.spotify.com/album/2GIjZeYF4Nb2ELwIEjuWmZ"
+      },
+      "artists": [
+        {
+          "name": "Snollebollekes",
+          "url": "https://open.spotify.com/artist/2DbTbUZFWbi3U3QzgJqU0V"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Links Rechts",
+      "url": "https://open.spotify.com/track/5EcPtaqxmPvgLcB5gRPF2j"
     },
     {
       "added_at": "2026-06-20 12:00:34",
@@ -77,20 +145,32 @@
       "url": "https://open.spotify.com/track/3zPB1hMsorvAEiIl88JOpr"
     },
     {
-      "added_at": "2026-06-20 12:00:34",
+      "added_at": "2026-06-25 16:00:35",
       "album": {
-        "name": "Zwoele Zomernachten",
-        "url": "https://open.spotify.com/album/1tosO6LN7sy2lKJ0Hx4dmT"
+        "name": "Koekoek (WK Versie)",
+        "url": "https://open.spotify.com/album/7u1XkQuMbf9CvZ3s9LnM7R"
       },
       "artists": [
         {
-          "name": "Rutger van Barneveld",
-          "url": "https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7"
+          "name": "John De Bever",
+          "url": "https://open.spotify.com/artist/2qAPnua41tsOE6o2L2tl5p"
+        },
+        {
+          "name": "Wilfred Genee",
+          "url": "https://open.spotify.com/artist/5oh8O9m6Cc8zFSq6udk6Hs"
+        },
+        {
+          "name": "Wesley Sneijder",
+          "url": "https://open.spotify.com/artist/23Uo7jJGqKzrIwrtkvRk2m"
+        },
+        {
+          "name": "Rafael Van der Vaart",
+          "url": "https://open.spotify.com/artist/7ExZjNH9lwOcfBeIX1WcA1"
         }
       ],
-      "duration_ms": 195454,
-      "name": "Zwoele Zomernachten",
-      "url": "https://open.spotify.com/track/6gtGFybqydN4OMfy8M6M4b"
+      "duration_ms": 152360,
+      "name": "Koekoek (WK Versie)",
+      "url": "https://open.spotify.com/track/1hGMqvixdI8vCT1l0lC2s7"
     },
     {
       "added_at": "2026-06-20 12:00:34",
@@ -183,6 +263,22 @@
       "duration_ms": 153635,
       "name": "Loco",
       "url": "https://open.spotify.com/track/6VDELF4AaHeGlZujv8LaF8"
+    },
+    {
+      "added_at": "2026-06-25 16:00:35",
+      "album": {
+        "name": "Rood Wit Blauw",
+        "url": "https://open.spotify.com/album/5a2vrk2ub2kUpcPgFAYuST"
+      },
+      "artists": [
+        {
+          "name": "Gerard Joling",
+          "url": "https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG"
+        }
+      ],
+      "duration_ms": 152358,
+      "name": "Rood Wit Blauw",
+      "url": "https://open.spotify.com/track/7s9qxb3GPmk62Uher0sJoS"
     },
     {
       "added_at": "2026-06-20 12:00:34",

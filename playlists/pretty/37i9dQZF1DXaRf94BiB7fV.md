@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover \- Trishita Recs
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,792 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,809 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 4 | [Janeja](https://open.spotify.com/track/3ss4BuT46BfmUTqAfz6QEA) | [Pratik Kundu](https://open.spotify.com/artist/4qoPM6imXNKs7Uj6aAJNJP) | [Janeja](https://open.spotify.com/album/2TWqyyizM984MkjUM1y8Pp) | 3:56 |
 | 5 | [Batohi](https://open.spotify.com/track/5tX0htWh35W6wyOznMo7Nr) | [Sujeet Anahata Thakur](https://open.spotify.com/artist/61CLoY2iiFnPYVNk4HfMcu), [Akansha Tripathi](https://open.spotify.com/artist/38XFS9SEu4eGBCguIdmIni), [Ishaan Nigam](https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2), [Harshit Shankar](https://open.spotify.com/artist/1EFgrLcxuH1vQX6GiEui6R) | [Batohi](https://open.spotify.com/album/7GXY0tYVvVzRT4cioB2gGK) | 4:07 |
 | 6 | [Baanki](https://open.spotify.com/track/0zZMDbpjcrRyoq5vBen567) | [abhii](https://open.spotify.com/artist/32mzdjLFFFILBACaPK4ukU), [Vagish](https://open.spotify.com/artist/50WxrZvt7bdXQLYnnUGhOv) | [Baanki](https://open.spotify.com/album/4pCRkrpzJyooK8paZBpjED) | 3:20 |
-| 7 | [Dil Bebaak](https://open.spotify.com/track/1TjAaNVKteQSq3pXmrrg1S) | [Dev Arijit](https://open.spotify.com/artist/6BZExpYe5yylgSeHAWVsF6) | [Dil Bebaak](https://open.spotify.com/album/3Y1jMY8AXZyU7gv8VaRDGL) | 6:39 |
+| 7 | [Dil Bebaak](https://open.spotify.com/track/1TjAaNVKteQSq3pXmrrg1S) | [Aarvan](https://open.spotify.com/artist/6TAYIefXnilxpTxwdicmwS) | [Dil Bebaak](https://open.spotify.com/album/3Y1jMY8AXZyU7gv8VaRDGL) | 6:39 |
 | 8 | [Tere Bina](https://open.spotify.com/track/7Fc5fY2wmMncjpSvrQjAPL) | [Mausiq](https://open.spotify.com/artist/17mFWGPyG2CbbDv1WSJZVS), [Udit Saxena](https://open.spotify.com/artist/69BwX40UDcRRhksPIX43q5) | [Tere Bina](https://open.spotify.com/album/2XbfrsmO0Qr1CCcjC1hSt9) | 4:21 |
 | 9 | [Darr](https://open.spotify.com/track/0J9cayYWTt38N0vxhxWdih) | [Hemang](https://open.spotify.com/artist/0Mcoqh0ZKmp41Apx7sKyfa) | [Darr](https://open.spotify.com/album/0VZ3TwblBqNaVMZBlazRW0) | 3:22 |
 | 10 | [Bepanah](https://open.spotify.com/track/6qDUnZ8ciH2je4EE8v6O5v) | [Eden's Echo](https://open.spotify.com/artist/6QGcgVC3LDSc23W8THAWtd) | [Bepanah](https://open.spotify.com/album/0Wm2kJdSfu890poEoQYvPQ) | 3:07 |

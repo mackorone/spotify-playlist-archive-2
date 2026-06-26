@@ -4,11 +4,11 @@
 
 > This is Arushi Jain\. The essential tracks, all in one playlist.
 
-30 songs - 3 hr 19 min
+31 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Portal To Silver Linings](https://open.spotify.com/track/1847QMgarVgg8Md0LfK8EJ) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Delight](https://open.spotify.com/album/5mymmR4PpiIjJgwZOuhNXU) | 4:54 | 2026-03-04 | 2026-06-24 |
+| [A Portal To Silver Linings](https://open.spotify.com/track/1847QMgarVgg8Md0LfK8EJ) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Delight](https://open.spotify.com/album/5mymmR4PpiIjJgwZOuhNXU) | 4:54 | 2026-03-04 |  |
 | [A Salve That Travels Time](https://open.spotify.com/track/4DW5SyJfmovob9O7UDxFHN) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Bravespace \(Presented by the Smithsonian Asian Pacific American Center\)](https://open.spotify.com/album/70eaiN3oZg5g34RMOAO2HY) | 5:06 | 2026-03-04 |  |
 | [Anna](https://open.spotify.com/track/2pUoIagEfkojQmTlW92nxS) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ), [OSE](https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu) | [Just a Feeling](https://open.spotify.com/album/38ypqk1q18yzLtTWbetzIw) | 5:38 | 2026-03-04 |  |
 | [Cio](https://open.spotify.com/track/1aoTgLHC5Rj16TGwZA8N5s) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ), [OSE](https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu) | [Just a Feeling](https://open.spotify.com/album/38ypqk1q18yzLtTWbetzIw) | 6:56 | 2026-03-04 |  |
@@ -30,8 +30,9 @@
 | [My People Have Deep Roots](https://open.spotify.com/track/0Xkmp9DkqHvz5EnA7VZPD0) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Under the Lilac Sky](https://open.spotify.com/album/6LPHMEFOuoscZzQQG2UJEj) | 4:00 | 2026-03-04 |  |
 | [No Way Back](https://open.spotify.com/track/3BpLzLr9KPfqRS6RCVkgog) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [No Way Back](https://open.spotify.com/album/6dCYNbog98Dy0CAErdpeQk) | 3:27 | 2026-03-29 | 2026-04-13 |
 | [Our Touching Tongues](https://open.spotify.com/track/6kxfTvXxAavxxRQnV2uoPP) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Delight](https://open.spotify.com/album/5mymmR4PpiIjJgwZOuhNXU) | 5:08 | 2026-03-14 |  |
-| [Play In The Void](https://open.spotify.com/track/6fz51xPtM0V3Zs45xkUUHf) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Delight](https://open.spotify.com/album/5mymmR4PpiIjJgwZOuhNXU) | 4:00 | 2026-03-04 |  |
+| [Play In The Void](https://open.spotify.com/track/6fz51xPtM0V3Zs45xkUUHf) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Delight](https://open.spotify.com/album/5mymmR4PpiIjJgwZOuhNXU) | 4:00 | 2026-03-04 | 2026-06-26 |
 | [Richer Than Blood](https://open.spotify.com/track/4UfBGKEw8F3NgbiyxR6ljG) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Under the Lilac Sky](https://open.spotify.com/album/6LPHMEFOuoscZzQQG2UJEj) | 3:35 | 2026-03-04 |  |
+| [Rodeo \- Arushi Jain Remix](https://open.spotify.com/track/4O8D6ssQOK96agfwg9kBR7) | [Lapgan](https://open.spotify.com/artist/2qpOejyNXBdBfLQh9OO22P), [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Rodeo \(Arushi Jain Remix\)](https://open.spotify.com/album/0QaWQ33MZ5BuP6GonYL6pp) | 4:29 | 2026-06-26 |  |
 | [Sense of Self \(Spontaneous Affinity Compilation\) \[When the Rave Is Not Enough\]](https://open.spotify.com/track/2ftmqwDWQff7j0vSba3B0a) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ), [OSE](https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu) | [Sense of Self \(Spontaneous Affinity Compilation\) \[When the Rave Is Not Enough\]](https://open.spotify.com/album/4BOKWN099uCyyWwEVt71qN) | 7:36 | 2026-03-04 |  |
 | [Shanti](https://open.spotify.com/track/0cOT30jmHC4WVVbP9IzEWu) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ), [OSE](https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu) | [Just a Feeling](https://open.spotify.com/album/38ypqk1q18yzLtTWbetzIw) | 5:29 | 2026-03-04 |  |
 | [Still Dreaming](https://open.spotify.com/track/5x3F4GtnGOSpM7g1R90joU) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Delight](https://open.spotify.com/album/5mymmR4PpiIjJgwZOuhNXU) | 4:27 | 2026-03-04 |  |

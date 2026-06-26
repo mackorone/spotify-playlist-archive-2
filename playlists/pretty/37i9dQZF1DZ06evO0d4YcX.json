@@ -1,12 +1,12 @@
 {
   "description": "This is Amber Mark. The essential tracks, all in one playlist.",
-  "num_followers": 16435,
+  "num_followers": 16436,
   "original_name": "This Is Amber Mark",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajnMgAAAAAAejNZDmsYydJG+SNrkqaY2",
+  "snapshot_id": "ajseAAAAAADRTME3n3F0uS+8Xq+dBKzM",
   "tracks": [
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loosies",
-        "url": "https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 141384,
-      "name": "Wait So Yeah",
-      "url": "https://open.spotify.com/track/7thsRzXNfsM38Z3DuUB3AB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Most Men - A COLORS SHOW",
         "url": "https://open.spotify.com/album/4Ll6gnAL7gDjnZM8tOEndi"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 253375,
       "name": "Most Men - A COLORS SHOW",
       "url": "https://open.spotify.com/track/6oNlhbPtDLVMcSKzloa3WO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Loosies",
+        "url": "https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 141384,
+      "name": "Wait So Yeah",
+      "url": "https://open.spotify.com/track/7thsRzXNfsM38Z3DuUB3AB"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heatwave",
+        "url": "https://open.spotify.com/album/4g9FEP9LOTOblQ8ni00ymY"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 269523,
+      "name": "Heatwave",
+      "url": "https://open.spotify.com/track/5DQ45iTgC4PgcaYt89gg6y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MAKER'S DESIGN",
         "url": "https://open.spotify.com/album/2TunGa3NkPq54qjCozALUl"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 209773,
       "name": "GODDESS REIGN",
       "url": "https://open.spotify.com/track/1PTYb9Ta9dBHSXexc9etic"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heatwave",
-        "url": "https://open.spotify.com/album/4g9FEP9LOTOblQ8ni00ymY"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 269523,
-      "name": "Heatwave",
-      "url": "https://open.spotify.com/track/5DQ45iTgC4PgcaYt89gg6y"
     },
     {
       "added_at": null,

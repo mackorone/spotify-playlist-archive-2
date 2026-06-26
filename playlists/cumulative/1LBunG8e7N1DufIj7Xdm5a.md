@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,476 songs - 9 day 23 hr 34 min
+4,478 songs - 9 day 23 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1022,7 +1022,7 @@
 | [Digital Stardust](https://open.spotify.com/track/5PTFBdlod2bi5Jxv7U9SYM) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Glitchy hyperpop pop electronic music](https://open.spotify.com/album/4UIMT4cWfdIo2ryLabHXYo) | 2:47 | 2025-09-12 |  |
 | [Digital Stardust \(another\)](https://open.spotify.com/track/1HiQzQgt8Gh9a3G0Hun3JN) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Glitchy hyperpop pop electronic music](https://open.spotify.com/album/4UIMT4cWfdIo2ryLabHXYo) | 3:03 | 2025-09-12 |  |
 | [Dil Ye Dhadakta Hi Nahin](https://open.spotify.com/track/55fZN6QYUzsBIdni2Gy1P7) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Dil Ye Dhadakta Hi Nahin](https://open.spotify.com/album/2edQIILVtKKEpc56UC8m4H) | 3:57 | 2026-05-26 |  |
-| [Dil Ye Dhadakta Hi Nahin \(Reprise\)](https://open.spotify.com/track/55rkCD94THKPTUvsuifkq8) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Dil Ye Dhadakta Hi Nahin \(Reprise\)](https://open.spotify.com/album/5h2xUzlizawzxOFfOxkHOm) | 4:36 | 2026-05-27 |  |
+| [Dil Ye Dhadakta Hi Nahin \- Reprise](https://open.spotify.com/track/55rkCD94THKPTUvsuifkq8) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Dil Ye Dhadakta Hi Nahin \(Reprise\)](https://open.spotify.com/album/5h2xUzlizawzxOFfOxkHOm) | 4:36 | 2026-05-27 |  |
 | [Diluvio universale](https://open.spotify.com/track/6msU8Qt2FZ2HRuaLp51iAW) | [Artika](https://open.spotify.com/artist/0nhv8t4yAqnGrqQkeMyVh6) | [Diluvio universale](https://open.spotify.com/album/20LNSwv0uUgxQEJJWqQaIm) | 3:00 | 2025-01-27 |  |
 | [Dime](https://open.spotify.com/track/1x7nexEBA4cv0FDN4Jat8L) | [Duncan Dhu](https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7) | [Piedras](https://open.spotify.com/album/7JPVphExpPOjt0wVBkNBzb) | 4:55 | 2026-03-15 |  |
 | [Dimensiones Paralelas](https://open.spotify.com/track/0cZfAhCMGOWbnD2zzkECVU) | [Nauj Project](https://open.spotify.com/artist/4g6e6FnWWi0oQGhHxkn9Jd) | [Dimensiones Paralelas](https://open.spotify.com/album/5e1cntrq6rg9B5Gmhi0p5w) | 2:49 | 2026-01-26 |  |
@@ -2555,6 +2555,7 @@
 | [Muse](https://open.spotify.com/track/7hRVH6OMsXKNVoOnn92I6O) | [Janari Lucky Audirga](https://open.spotify.com/artist/5lifx2MIzXnq9vvtBRxBKQ) | [Muse](https://open.spotify.com/album/3kyhpwlYEN3C2lC3jrU87I) | 2:47 | 2025-11-20 |  |
 | [Music Ever](https://open.spotify.com/track/4YKbNlOr50o5uqIdleQEn1) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Best Music](https://open.spotify.com/album/7MTHw4nXXx8QfsaKXJZSVp) | 1:52 | 2025-09-19 |  |
 | [Music Ever \(another\)](https://open.spotify.com/track/45VyJYONgs3Oy5pEzYZVFv) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Best Music](https://open.spotify.com/album/7MTHw4nXXx8QfsaKXJZSVp) | 3:43 | 2025-09-19 |  |
+| [Musicando](https://open.spotify.com/track/57kXi1yuNUN7lnZzJTMgyz) | [Banda Brie](https://open.spotify.com/artist/6Lo7AVZ4XTvgTtutMlUg7v) | [Musicando](https://open.spotify.com/album/3EPkpCdVBnl7tNHLeIW9ZS) | 1:56 | 2026-06-25 |  |
 | [Musik for](https://open.spotify.com/track/0wouaMIYGHrIWsAprdzljd) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [80's music inspired](https://open.spotify.com/album/52EpTauHULa82DwbMx0Pdh) | 3:14 | 2025-08-28 |  |
 | [Muévelo Ja](https://open.spotify.com/track/4X4b1soLGAaoxyCowLv8Bf) | [Ivan PolliX](https://open.spotify.com/artist/59dMTfr8L1qzJaGPpzwzZt) | [Muévelo Ja](https://open.spotify.com/album/6QKaEgSRyjQkhP45hTcjb8) | 3:18 | 2026-01-31 |  |
 | [My ADD in Hyperdrive](https://open.spotify.com/track/4jhTLUibf0DPhbbT37FTWe) | [Bumblebird](https://open.spotify.com/artist/4lVB3K4TyKgC359oQUasTv) | [My ADD in Hyperdrive](https://open.spotify.com/album/4A0w95ulxJlfHcH7ZFi6Ni) | 3:11 | 2025-04-18 |  |
@@ -3211,6 +3212,7 @@
 | [Romantico Ma Muori \- Unplugged \- Versione Acustica](https://open.spotify.com/track/5k73aoumxnjLzH4Esz4nCM) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [Romantico Ma Muori \(Unplugged \- Versione Acustica\)](https://open.spotify.com/album/6qYcJBxpSaiJvfCSscRWKt) | 2:39 | 2025-04-04 |  |
 | [Romantico Ma Muori \- Unplugged \- Versione Acustica](https://open.spotify.com/track/6oEoNm5ijNcEkDHLFLNWuB) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [Sessione Intima](https://open.spotify.com/album/3EIaXCDzmDpd383UN4VhTi) | 2:39 | 2025-04-04 |  |
 | [Ronald](https://open.spotify.com/track/1xeIvccuZq4DiqqmZDSbAg) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos), [Alex Terrible](https://open.spotify.com/artist/5imFWt9rzlx5iGqS58ArtO) | [Ronald](https://open.spotify.com/album/01GsZ4orxT9LHqCru5Pnz2) | 3:16 | 2025-04-09 |  |
+| [Rooth Kar Humse](https://open.spotify.com/track/07LEqOxDKMxWl2NmIFZyBD) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Rooth Kar Humse](https://open.spotify.com/album/7oVqibrduv4H6mW1RR0T1X) | 3:38 | 2026-06-25 |  |
 | [Roses](https://open.spotify.com/track/1J850PsKKVf2euOIbMd7bX) | [XIX](https://open.spotify.com/artist/0ZUpmbNh1NeLibf0DGZxMX) | [Roses](https://open.spotify.com/album/7E3aGtofoDYwfB3nYfMjQX) | 4:06 | 2026-01-04 |  |
 | [Rosso di picche](https://open.spotify.com/track/0xBvjpmiXcyH4ygh42EUNN) | [MadEleine](https://open.spotify.com/artist/0qecsDJMNlyALgNFKoTtpi) | [Rosso di picche](https://open.spotify.com/album/7Fih6aegd8VcJiPdL5hjmG) | 2:50 | 2025-03-17 |  |
 | [Roster!](https://open.spotify.com/track/2xDF6qeiwqNLbIxH8UwhXh) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [Roster!](https://open.spotify.com/album/1YVX5NgvUedHgCuqfXQzim) | 1:36 | 2026-01-17 |  |

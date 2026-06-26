@@ -4921,6 +4921,24 @@
     },
     {
       "album": {
+        "name": "ATOM II",
+        "url": "https://open.spotify.com/album/6RvwiBdC6WFuKyQuc7FE86"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157487,
+      "name": "Feel Am",
+      "url": "https://open.spotify.com/track/7yzAJ1TZp7unjQGwOgE6Fi"
+    },
+    {
+      "album": {
         "name": "4 Play",
         "url": "https://open.spotify.com/album/3Ms9uKVOdEp42Y9cZeZukQ"
       },
@@ -5638,6 +5656,28 @@
       "duration_ms": 147916,
       "name": "Girlie",
       "url": "https://open.spotify.com/track/5HVNHyJLAPhlmekOcn3US5"
+    },
+    {
+      "album": {
+        "name": "For Me, This Time",
+        "url": "https://open.spotify.com/album/2JF5YNoayMQ40NLPCtaOi9"
+      },
+      "artists": [
+        {
+          "name": "Africaine",
+          "url": "https://open.spotify.com/artist/1zS57YVtuOi5HChrk22mT7"
+        },
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122410,
+      "name": "Give It Away",
+      "url": "https://open.spotify.com/track/7iRTgiAcZ351tKhIrNYwqz"
     },
     {
       "album": {
@@ -10776,7 +10816,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 186429,
       "name": "PERFECT",
       "url": "https://open.spotify.com/track/5VcBK6eirQsOO92WnPttfV"
@@ -11202,7 +11242,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 196471,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/7BswtmtoUTR7PMfA1KodB2"
@@ -12016,7 +12056,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 144487,
       "name": "Samankwe",
       "url": "https://open.spotify.com/track/1ouLGBzR2y1EOHhcrB2bjo"
@@ -14849,6 +14889,24 @@
     },
     {
       "album": {
+        "name": "Uche Jumbo",
+        "url": "https://open.spotify.com/album/6HWoNUfkHlTokQFzGtZk5Y"
+      },
+      "artists": [
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148269,
+      "name": "Uche Jumbo",
+      "url": "https://open.spotify.com/track/7bRUMiDGOuaVamLrq52rSW"
+    },
+    {
+      "album": {
         "name": "Undercover Lover",
         "url": "https://open.spotify.com/album/11T4lEhgDKLOA6be6OUzfP"
       },
@@ -14886,6 +14944,28 @@
       "duration_ms": 148085,
       "name": "Underskirt",
       "url": "https://open.spotify.com/track/4pk7ZoE2SWpc2DVEBWzgap"
+    },
+    {
+      "album": {
+        "name": "Understand Me",
+        "url": "https://open.spotify.com/album/08wSUNoBVnufVVXiR0uXao"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "NO11",
+          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Understand Me",
+      "url": "https://open.spotify.com/track/7r1JAS1VyNY522GJhnIUCL"
     },
     {
       "album": {
@@ -15072,7 +15152,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 195816,
       "name": "Verily",
       "url": "https://open.spotify.com/track/78JnyPSDt67KvELlYdQvcw"

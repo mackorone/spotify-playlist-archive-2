@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 
 > A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music 💜
 
-[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 60,281 likes - 1,400 songs - 3 day 5 hr 47 min
+[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 60,286 likes - 1,400 songs - 3 day 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 69 | [Lost And Found](https://open.spotify.com/track/75L0n6Kx77IoCcqlO6M1MK) | [CD Ghost](https://open.spotify.com/artist/0wGf1OZAg2ihGB9BaFkqMn) | [Lost And Found](https://open.spotify.com/album/0IeDlZ36T6cguBLKXFel55) | 2:02 |
 | 70 | [Cuttin' Loose](https://open.spotify.com/track/0awgcwoQN4wVh5ORE2GTWQ) | [The Something Specials](https://open.spotify.com/artist/08AQp4Hb2peUdIgr3ZWfni) | [Cuttin' Loose](https://open.spotify.com/album/2anPHrx3xeMUBuP0s5TQO2) | 3:30 |
 | 71 | [wishbone](https://open.spotify.com/track/65XGZf3DW7qIBJ2j6BSUqW) | [drifting.](https://open.spotify.com/artist/4VEAvjBB04pvTuBP06UeAV) | [polaroids // wishbone](https://open.spotify.com/album/6OIoelx5aXZaNroQQew2Ov) | 2:46 |
-| 72 | [See You](https://open.spotify.com/track/6rQ2bbCZPLc7fBl1lXLp54) | [endless 1990](https://open.spotify.com/artist/4zNRf5LP8zlofMfjz3m8we) | [See You](https://open.spotify.com/album/4DFfNGLct24UgU39qSr62U) | 2:23 |
+| 72 | [see you](https://open.spotify.com/track/6rQ2bbCZPLc7fBl1lXLp54) | [endless 1990](https://open.spotify.com/artist/4zNRf5LP8zlofMfjz3m8we) | [see you](https://open.spotify.com/album/4DFfNGLct24UgU39qSr62U) | 2:23 |
 | 73 | [treat](https://open.spotify.com/track/5YPqx0g31B9wKMeOF3ITBl) | [julius belair](https://open.spotify.com/artist/4Us1CmRZOhLJp9UFcA2y1g) | [treat](https://open.spotify.com/album/4zby3DMccJ4yTdZvKE2z8X) | 2:38 |
 | 74 | [Chainmail Hoody](https://open.spotify.com/track/7zGHn3VD9uyiDCs63G1lHo) | [Stevie Zita](https://open.spotify.com/artist/799k56wbyqhZaDazBF8bNY) | [Chainmail Hoody](https://open.spotify.com/album/2PE4rBza6z5YsBCy0ODOql) | 2:15 |
 | 75 | [Cut to blue](https://open.spotify.com/track/13HAoYOskn0scPwqgsMCmg) | [Nara's Room](https://open.spotify.com/artist/3HZtXP2NFVOKB6aNLCmpwW) | [Tearless, thoughtless](https://open.spotify.com/album/3yqu4W7W0dsC0eACjsDQPb) | 2:42 |

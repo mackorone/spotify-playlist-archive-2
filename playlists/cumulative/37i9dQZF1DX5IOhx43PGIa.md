@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: Emei
 
-1,374 songs - 2 day 23 hr 27 min
+1,375 songs - 2 day 23 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Baby OG](https://open.spotify.com/track/576C4UPQH8PgacOTLaDByI) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [TRENCH](https://open.spotify.com/album/3OHhCA38DhT7rBXa5Ea4go) | 3:31 | 2024-10-18 | 2025-02-15 |
 | [Backhouse Ballin' \(feat\. James Reid\)](https://open.spotify.com/track/24yMI9O8GEdADu3hj4axGS) | [MANILA GREY](https://open.spotify.com/artist/7KC9q5wx0bxMD5ABgLCoEd), [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [No Saints on Knight Street](https://open.spotify.com/album/4NcVOJfCpGq5BFEhhvjge4) | 3:36 | 2022-05-27 | 2022-11-12 |
 | [Backseat](https://open.spotify.com/track/5ll8LtJvNBmtrCcqlPb9jy) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [What's Dead and Gone](https://open.spotify.com/album/7tlucLp6G0DquihSIwYbai) | 3:13 | 2024-08-02 | 2024-10-19 |
+| [BAD COMPANY](https://open.spotify.com/track/6l8EVqC5hJbYzys0N3QXAN) | [Tiger La Flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [BAD COMPANY](https://open.spotify.com/album/11NO5t5VTniRy4dJOxQ1EC) | 2:53 | 2026-06-19 |  |
 | [BAD DECISIONS](https://open.spotify.com/track/6DukD7rUREAMZV05R4QJj3) | [Amber Liu](https://open.spotify.com/artist/4ZpzgTOUAznSK70KdPbJHf) | [BAD DECISIONS](https://open.spotify.com/album/61WyYQC1peEOTLBFlCC1I9) | 3:24 | 2022-05-27 | 2022-07-28 |
 | [Bad Haircut \(feat\. JVKE\)](https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [oh to be in love](https://open.spotify.com/album/4Nd7dd1PVy1LZgfmnp2fa9) | 3:42 | 2022-05-27 | 2023-08-12 |
 | [bad note](https://open.spotify.com/track/39j6QzHqCa4G6lCwoJDQYE) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [bad note](https://open.spotify.com/album/2mp93U5wYNG9pNOuOX2nh9) | 2:46 | 2023-06-09 | 2023-08-26 |

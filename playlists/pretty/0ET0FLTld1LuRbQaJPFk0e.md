@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ET0FLTld1LuRbQaJPFk0e.md) - [plain]
 
 > 80s, 90s, 00s
 
-[Gee Nelson](https://open.spotify.com/user/marijkeschouten85) - 632 likes - 54 songs - 3 hr 45 min
+[Gee Nelson](https://open.spotify.com/user/marijkeschouten85) - 628 likes - 54 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -22864,7 +22864,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 165185,
       "name": "Kaihosielu",
       "url": "https://open.spotify.com/track/625qY3SEapY3D5tPoeG5Rz"
@@ -26624,7 +26624,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 232360,
       "name": "Kultaa Hiuksissa",
       "url": "https://open.spotify.com/track/3JdOPNGP3mFBis5W30YiQ5"
@@ -35060,7 +35060,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-21",
+      "date_removed": null,
       "duration_ms": 193578,
       "name": "Mit\u00e4 syd\u00e4melle k\u00e4y",
       "url": "https://open.spotify.com/track/5y08hzaQKn64LXde19zY5i"
@@ -47020,6 +47020,24 @@
       "duration_ms": 172832,
       "name": "Rumors (feat. Cardi B)",
       "url": "https://open.spotify.com/track/6KgtcmCF9Ky68XC7ezxl3s"
+    },
+    {
+      "album": {
+        "name": "RUN IT",
+        "url": "https://open.spotify.com/album/0qq4ARUCMYdH7iEN6Wcq2a"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "RUN IT",
+      "url": "https://open.spotify.com/track/0D7q3I9Hpi7bBuFd2OFp1s"
     },
     {
       "album": {

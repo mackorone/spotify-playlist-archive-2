@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 
 > Relax, unwind, study or work to the soundtracks of Einaudi, Bach, Beethoven, Mozart incl\. Yo\-Yo Ma, Alexis Ffrench, Alexandra Streliski and more.
 
-[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 294,957 likes - 134 songs - 7 hr 16 min
+[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 294,944 likes - 134 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 | 9 | [Avant la suite](https://open.spotify.com/track/0ZEQiY8Hdz3GzheX22C9Bh) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ), [Anastasia Kobekina](https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m) | [Avant la suite](https://open.spotify.com/album/0TdulPsHLP3fq97XGbnyE0) | 3:37 |
 | 10 | [Grateful](https://open.spotify.com/track/18M8lkxW7epH3aR6Lr0hff) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Grateful](https://open.spotify.com/album/73GQBZ5nJxcsc5YWvba688) | 2:18 |
 | 11 | [Song of the Birds \(Arr\. for 8 Cellos by Richard Birchall\)](https://open.spotify.com/track/3yXGTOc18GfJ5eL2q5y40i) | [Pablo Casals](https://open.spotify.com/artist/0pgzuePS9ZtMPwyOvn2NSf), [Jan Vogler](https://open.spotify.com/artist/3LcP8zEKaPiCG1s5MlMWJA), [Neuhardenberg Ensemble](https://open.spotify.com/artist/5DKG29QNxV3erJx86j777R) | [Song of the Birds \(Arr\. for 8 Cellos by Richard Birchall\)](https://open.spotify.com/album/0NTrtVDyxdAAXDghgDenxd) | 2:34 |
-| 12 | [Baignoire](https://open.spotify.com/track/44kibO5hKeYYbuCsGjRuIh) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [La Bataille de Gaulle \- L'Âge de fer \(Bande originale du film\)](https://open.spotify.com/album/5LC1praIA0pjCadXz4oi1g) | 1:56 |
+| 12 | [Un soldat](https://open.spotify.com/track/44kibO5hKeYYbuCsGjRuIh) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [La Bataille de Gaulle \- L'Âge de fer \(Bande originale du film\)](https://open.spotify.com/album/5LC1praIA0pjCadXz4oi1g) | 1:56 |
 | 13 | [Munasterio 'e Santa Chiara \(Arr\. for Violin & Piano by Tim Allhoff\)](https://open.spotify.com/track/2CGID4umquhOKv9p4BKODL) | [Alberto Barberis](https://open.spotify.com/artist/4phoa2o2GHHah13GgHBaDA), [Andrea Cicalese](https://open.spotify.com/artist/4F5KVGbhPL8Xla1Hss1EyJ), [Tim Allhoff](https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY) | [Munasterio 'e Santa Chiara \(Arr\. for Violin & Piano by Tim Allhoff\)](https://open.spotify.com/album/3RCYuoSMyf4lJqoRnOTtjT) | 1:55 |
 | 14 | [Feather Theme \(From "Forrest Gump"\) \- Symphonic](https://open.spotify.com/track/2TLMJPmFKEEkVohAwqSVmP) | [Café del Mundo](https://open.spotify.com/artist/6Vaar3GSj3czeE9EtOrKUJ), [Deutsches Filmorchester Babelsberg](https://open.spotify.com/artist/3gGJa6qH96mfOdii1Wzuir) | [Feather Theme \(From "Forrest Gump"\) \[Symphonic\]](https://open.spotify.com/album/4sjrDsSdgG7pM4p8cTEs6n) | 4:48 |
 | 15 | [Sing Gently](https://open.spotify.com/track/1inuj7hFiczkKp8yNmnRLr) | [Eric Whitacre](https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL), [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Sing Gently](https://open.spotify.com/album/55TGl3eLHEOV5Mkf2ekEQY) | 3:45 |

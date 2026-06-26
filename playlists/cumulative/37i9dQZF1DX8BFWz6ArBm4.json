@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Katerina",
+  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Nikos Makropoulos",
   "name": "Laika tou Simera",
   "tracks": [
     {
@@ -1264,7 +1264,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 222083,
       "name": "Epithesi",
       "url": "https://open.spotify.com/track/50QoR0IEoj8pg3cqzn2nPC"
@@ -2270,7 +2270,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 180571,
       "name": "Kataramena Feggaria - Live",
       "url": "https://open.spotify.com/track/4SpgcAcF735Sr3AjQIVQjc"
@@ -2544,7 +2544,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 152829,
       "name": "Lemonia Mou",
       "url": "https://open.spotify.com/track/3Ypd9akQZ1uisFau9qWi73"
@@ -3098,7 +3098,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 200576,
       "name": "Na Girnouses Piso",
       "url": "https://open.spotify.com/track/2opshSqvan9kufDbZSmbzw"
@@ -3897,6 +3897,24 @@
     },
     {
       "album": {
+        "name": "Se Sena Milao",
+        "url": "https://open.spotify.com/album/7Iymk9PTs7U1zuTVBff9BZ"
+      },
+      "artists": [
+        {
+          "name": "Nikos Makropoulos",
+          "url": "https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216774,
+      "name": "Pou Na Pao",
+      "url": "https://open.spotify.com/track/2kSJoVwUAwNk3pGA553c6S"
+    },
+    {
+      "album": {
         "name": "Pou Ti Vrike?",
         "url": "https://open.spotify.com/album/5CMbdkrcS8H2QWwjr3GYvI"
       },
@@ -3970,6 +3988,24 @@
       "duration_ms": 219823,
       "name": "Psemata",
       "url": "https://open.spotify.com/track/57oG2z9WHnenuZocjynJgx"
+    },
+    {
+      "album": {
+        "name": "Psemata Mi Po",
+        "url": "https://open.spotify.com/album/0LI83NjQK7UoCh79ZWqxt4"
+      },
+      "artists": [
+        {
+          "name": "Stan",
+          "url": "https://open.spotify.com/artist/07u8NOOlwGmNmQjU9whua2"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175613,
+      "name": "Psemata Mi Po",
+      "url": "https://open.spotify.com/track/3NDkI4Vqf7AYBBNQXufprj"
     },
     {
       "album": {
@@ -4465,6 +4501,28 @@
     },
     {
       "album": {
+        "name": "Sta Kalitera Pou Elkontai (Agapate Katallilous)",
+        "url": "https://open.spotify.com/album/32QmrCVsuU8DqDaQNqw3Y2"
+      },
+      "artists": [
+        {
+          "name": "Ioulia Kallimani",
+          "url": "https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p"
+        },
+        {
+          "name": "Michael Touratzidis",
+          "url": "https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191379,
+      "name": "Sta Kalitera Pou Elkontai - Agapate Katallilous",
+      "url": "https://open.spotify.com/track/7w3CkiZG4r01ZZgHjTPYZY"
+    },
+    {
+      "album": {
         "name": "Sta Logia Meiname",
         "url": "https://open.spotify.com/album/0A8U7jtcD3TmY8RY4Y0nas"
       },
@@ -4668,6 +4726,24 @@
       "duration_ms": 238222,
       "name": "Ta Katafera",
       "url": "https://open.spotify.com/track/3lhBDCtZKM678s507pBkSb"
+    },
+    {
+      "album": {
+        "name": "KABANES",
+        "url": "https://open.spotify.com/album/3F8n2brlXT4gorr1ebbyfA"
+      },
+      "artists": [
+        {
+          "name": "Konstantinos Argiros",
+          "url": "https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195573,
+      "name": "TA NISIOTIKA PAIDIA",
+      "url": "https://open.spotify.com/track/4XDlAln3qATRL5FCZwnny5"
     },
     {
       "album": {

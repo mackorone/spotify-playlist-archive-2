@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Péricles e Ferrugem, Diego & Victor Hugo, Grupo Menos É Mais com Pablo, Nattanzinho Lima com Belo e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,308,985 likes - 81 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,308,995 likes - 81 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

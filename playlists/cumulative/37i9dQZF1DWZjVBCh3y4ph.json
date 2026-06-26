@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk & kompa du moment. Photo : Kalipxsau",
+  "description": "Les hits zouk & kompa du moment. Photo : Stony",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -425,6 +425,24 @@
     },
     {
       "album": {
+        "name": "Avou\u00e9",
+        "url": "https://open.spotify.com/album/02WBghF2pmrAKCU7TUwfzf"
+      },
+      "artists": [
+        {
+          "name": "Twendy",
+          "url": "https://open.spotify.com/artist/14R7KuR8LRHmiErcR1Chvq"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196918,
+      "name": "Avou\u00e9",
+      "url": "https://open.spotify.com/track/6t4b6FgHaB9q53Hgfj9zbB"
+    },
+    {
+      "album": {
         "name": "Aye",
         "url": "https://open.spotify.com/album/5S5iTH2m8zvyVV1oMJdntf"
       },
@@ -528,6 +546,28 @@
       "duration_ms": 166252,
       "name": "BABYBOO",
       "url": "https://open.spotify.com/track/30iT4ZT1fGHbGnYRiEnk1T"
+    },
+    {
+      "album": {
+        "name": "BabyGirl",
+        "url": "https://open.spotify.com/album/2LG98XSGDq4CXGrpjqpecE"
+      },
+      "artists": [
+        {
+          "name": "Kan",
+          "url": "https://open.spotify.com/artist/3ScmxG7aEI7lW0gf9vRs6g"
+        },
+        {
+          "name": "Kany",
+          "url": "https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147463,
+      "name": "BabyGirl",
+      "url": "https://open.spotify.com/track/06p6TuNCE5pUpdDVksIZS8"
     },
     {
       "album": {
@@ -718,7 +758,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 147231,
       "name": "Bla bla bla",
       "url": "https://open.spotify.com/track/6n5AjgKF4mYF4LoPchfcNS"
@@ -852,7 +892,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 207263,
       "name": "Boug\u00e9",
       "url": "https://open.spotify.com/track/2d5vpiImR2IievIdphASSL"
@@ -1518,7 +1558,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 140000,
       "name": "Crime parfait",
       "url": "https://open.spotify.com/track/7Mpcmg4Uj94gzZOp8husdg"
@@ -1774,6 +1814,28 @@
       "duration_ms": 218779,
       "name": "Dimension - Radio edit",
       "url": "https://open.spotify.com/track/7FR3FUSLOLHtN8RjFs6kQY"
+    },
+    {
+      "album": {
+        "name": "Dis le moi",
+        "url": "https://open.spotify.com/album/1r1Q68LcB4tSigUhaZAdOE"
+      },
+      "artists": [
+        {
+          "name": "Stony",
+          "url": "https://open.spotify.com/artist/1gfXNiyfLEKouLvNPmrvLk"
+        },
+        {
+          "name": "Oswald",
+          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202409,
+      "name": "Dis le moi",
+      "url": "https://open.spotify.com/track/4UJhjeCgpWZnMVm8Kugsi0"
     },
     {
       "album": {
@@ -2108,7 +2170,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 168384,
       "name": "Doudou",
       "url": "https://open.spotify.com/track/7aKAKakAdPDbZmcUeFlGat"
@@ -2192,7 +2254,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 138545,
       "name": "DOUDOU",
       "url": "https://open.spotify.com/track/2W1hpgKsdh9VMgsR9GvDev"
@@ -2268,6 +2330,24 @@
       "duration_ms": 218850,
       "name": "Effort",
       "url": "https://open.spotify.com/track/0qUAcMqe3voelZveN75MDN"
+    },
+    {
+      "album": {
+        "name": "Destin\u00e9e Supremacy",
+        "url": "https://open.spotify.com/album/7Ms8YCAXjDFwICEdVlbs5I"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173463,
+      "name": "Effray\u00e9e",
+      "url": "https://open.spotify.com/track/4zJr6yrHTYGkZr85ndjZtc"
     },
     {
       "album": {
@@ -2380,6 +2460,24 @@
       "duration_ms": 195555,
       "name": "En Boucle",
       "url": "https://open.spotify.com/track/4NTxdNnlRL5tPwmYS95Xl3"
+    },
+    {
+      "album": {
+        "name": "En p\u00e9tard",
+        "url": "https://open.spotify.com/album/0UozO3MIcGGNOivfq0nR4A"
+      },
+      "artists": [
+        {
+          "name": "Forever Music",
+          "url": "https://open.spotify.com/artist/5h452pRjLcTPSrgg1MpSje"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215686,
+      "name": "En p\u00e9tard",
+      "url": "https://open.spotify.com/track/7Jzf4jD5AgtFQ6BmE6TADL"
     },
     {
       "album": {
@@ -2708,7 +2806,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 192906,
       "name": "Frakass\u00e9",
       "url": "https://open.spotify.com/track/2sTrDpnQhgMvozRjeQO38X"
@@ -3144,6 +3242,24 @@
       "duration_ms": 154923,
       "name": "J'ai la haine",
       "url": "https://open.spotify.com/track/4G5zTBxoysaK8WLz2dvFvq"
+    },
+    {
+      "album": {
+        "name": "J'ai mal",
+        "url": "https://open.spotify.com/album/1mgk83l9omGatU0flDJSgk"
+      },
+      "artists": [
+        {
+          "name": "Ya Levis",
+          "url": "https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189208,
+      "name": "J'ai mal",
+      "url": "https://open.spotify.com/track/2oW0vvqgNUSZyET55JAGNc"
     },
     {
       "album": {
@@ -3647,6 +3763,28 @@
     },
     {
       "album": {
+        "name": "Ki lang ou pal\u00e9",
+        "url": "https://open.spotify.com/album/4i3Sbk2nODZN2oCNze2iso"
+      },
+      "artists": [
+        {
+          "name": "Saina Manotte",
+          "url": "https://open.spotify.com/artist/0ftpDCmIMJEV7wODuCu6Cj"
+        },
+        {
+          "name": "Lion P",
+          "url": "https://open.spotify.com/artist/7JVYJr41SahTd7eGMinGyB"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201517,
+      "name": "Ki lang ou pal\u00e9",
+      "url": "https://open.spotify.com/track/3EPVc7i0lj4KllwBCSgjfM"
+    },
+    {
+      "album": {
         "name": "Goumin",
         "url": "https://open.spotify.com/album/478yYBhIJvfduzaiRWDfZF"
       },
@@ -3994,7 +4132,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 165000,
       "name": "LI NA",
       "url": "https://open.spotify.com/track/7K6qGvX5V5ssMFZhcYLBcS"
@@ -5246,7 +5384,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 150013,
       "name": "Obsession",
       "url": "https://open.spotify.com/track/5FEQ2Ft7ZSv0ek2x9PEBD6"
@@ -5476,6 +5614,24 @@
       "duration_ms": 273760,
       "name": "Ou f\u00e8m vakabon",
       "url": "https://open.spotify.com/track/5keJB9DEzsMnDw3kO6QmSq"
+    },
+    {
+      "album": {
+        "name": "VINNSIS",
+        "url": "https://open.spotify.com/album/1DrEvIy1EYRB5ec2ogOoaN"
+      },
+      "artists": [
+        {
+          "name": "Toulou",
+          "url": "https://open.spotify.com/artist/0X7QlcVMGgyXyNJ6IGaZWG"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "OU LA",
+      "url": "https://open.spotify.com/track/4Q5zUJolucB1LzQkLeV5An"
     },
     {
       "album": {
@@ -6228,6 +6384,24 @@
       "duration_ms": 186352,
       "name": "POU OU ENTANN'",
       "url": "https://open.spotify.com/track/2PVwVPZ9an4z8F3twl15u8"
+    },
+    {
+      "album": {
+        "name": "Pour Lui",
+        "url": "https://open.spotify.com/album/0KjM0igBdyGEXLHyeUdi31"
+      },
+      "artists": [
+        {
+          "name": "Mik L",
+          "url": "https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242857,
+      "name": "Pour Lui",
+      "url": "https://open.spotify.com/track/1DdPH9CMxhSxRw4l6kWzNY"
     },
     {
       "album": {
@@ -7330,7 +7504,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 157000,
       "name": "Suis-Moi",
       "url": "https://open.spotify.com/track/1NEuyzZSYNocoilNQGcZaN"
@@ -7795,6 +7969,32 @@
     },
     {
       "album": {
+        "name": "Tou Lannwit",
+        "url": "https://open.spotify.com/album/5CbHmZmGDVDZFQAOOUnhUk"
+      },
+      "artists": [
+        {
+          "name": "YSN",
+          "url": "https://open.spotify.com/artist/2JxvmvS4bijkOfkIrZcK0Q"
+        },
+        {
+          "name": "Were-vana",
+          "url": "https://open.spotify.com/artist/1f1DjtYgH6yBzBSiGteBJl"
+        },
+        {
+          "name": "Misi\u00e9 Sadik",
+          "url": "https://open.spotify.com/artist/2BfjmShvoGPl4migLIun7a"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177446,
+      "name": "Tou Lannwit",
+      "url": "https://open.spotify.com/track/7tmGEQWv5q7il0pdTQVbG8"
+    },
+    {
+      "album": {
         "name": "Promesse",
         "url": "https://open.spotify.com/album/5LBgOluJZ6hot842JrFhyf"
       },
@@ -8032,7 +8232,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 167741,
       "name": "Trop bien pour moi",
       "url": "https://open.spotify.com/track/1DiaIGmVgNZj9gPmJYX51w"

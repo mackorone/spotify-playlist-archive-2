@@ -1,12 +1,12 @@
 {
   "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
-  "num_followers": 47480,
+  "num_followers": 47481,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajnMgAAAAAAqN1Xwgg9pVOsmhz+yKHZj",
+  "snapshot_id": "ajseAAAAAABTd/RyYo512po8SXSscaiy",
   "tracks": [
     {
       "added_at": null,
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tu Decisi\u00f3n",
+        "url": "https://open.spotify.com/album/3hLv1eT4pM0Lv0F97ZyWG1"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 186466,
+      "name": "Enga\u00f1ada",
+      "url": "https://open.spotify.com/track/4FJD2QyCnn7BfU0jQsgWMF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quiero Verte",
         "url": "https://open.spotify.com/album/0THRwX1TyZekzsCWn3wXxK"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 213812,
       "name": "Quiero Verte",
       "url": "https://open.spotify.com/track/18Qh0YfnFo5wMb8P9756yK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tu Decisi\u00f3n",
-        "url": "https://open.spotify.com/album/3hLv1eT4pM0Lv0F97ZyWG1"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 186466,
-      "name": "Enga\u00f1ada",
-      "url": "https://open.spotify.com/track/4FJD2QyCnn7BfU0jQsgWMF"
     },
     {
       "added_at": null,
@@ -871,6 +871,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Es Brujeria",
+        "url": "https://open.spotify.com/album/4nuYRYCbs4fqdzwjtkoiw4"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 179600,
+      "name": "Solo Mio",
+      "url": "https://open.spotify.com/track/7Br8sUVGTxRkfSeso8aNs2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Mi Me Respetas",
         "url": "https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 150148,
       "name": "A Mi Me Respetas",
       "url": "https://open.spotify.com/track/3bHdMr1QxQrTHhPilZzjMM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Es Brujeria",
-        "url": "https://open.spotify.com/album/4nuYRYCbs4fqdzwjtkoiw4"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 179600,
-      "name": "Solo Mio",
-      "url": "https://open.spotify.com/track/7Br8sUVGTxRkfSeso8aNs2"
     },
     {
       "added_at": null,
@@ -939,26 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ahora Te Llamas Ex",
-        "url": "https://open.spotify.com/album/0jrNMsBQJbB6Z5eNCTQLcO"
-      },
-      "artists": [
-        {
-          "name": "Estibaliz Badiola",
-          "url": "https://open.spotify.com/artist/2K9aaTemNAl94qdUvWoj1u"
-        },
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 149835,
-      "name": "Ahora Te Llamas Ex",
-      "url": "https://open.spotify.com/track/1GXnVmkTAwZh7zEvLlcItF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vozes",
         "url": "https://open.spotify.com/album/2oIKM0oZ45eySf4VUiOSPR"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 213173,
       "name": "Nuestra Canci\u00f3n",
       "url": "https://open.spotify.com/track/7iOdfDA960q7Y4TQhaN3eA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ahora Te Llamas Ex",
+        "url": "https://open.spotify.com/album/0jrNMsBQJbB6Z5eNCTQLcO"
+      },
+      "artists": [
+        {
+          "name": "Estibaliz Badiola",
+          "url": "https://open.spotify.com/artist/2K9aaTemNAl94qdUvWoj1u"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 149835,
+      "name": "Ahora Te Llamas Ex",
+      "url": "https://open.spotify.com/track/1GXnVmkTAwZh7zEvLlcItF"
     },
     {
       "added_at": null,

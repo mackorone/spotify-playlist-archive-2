@@ -1,6 +1,6 @@
 {
   "description": "El poder real del Hip Hop latinoamericano y espa\u00f1ol. La Banda Bast\u00f6n en portada. ",
-  "num_followers": 229951,
+  "num_followers": 230005,
   "original_name": "Cl\u00e1sicos del Hip Hop Latino",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,26 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
+        "name": "Ataraxia: A Plena Luz del Dia",
+        "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Tardes",
+      "url": "https://open.spotify.com/track/3Y5jrneE5ErAfidBuofcKJ"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
         "name": "Techymuv",
         "url": "https://open.spotify.com/album/6cGNmvcaZLZWdGQHcpNXOe"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 311500,
       "name": "I Love You a Lo V\u00edo",
       "url": "https://open.spotify.com/track/1J2LwSgNeYGtAZdlF4jZH3"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "Ataraxia: A Plena Luz del Dia",
-        "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Tardes",
-      "url": "https://open.spotify.com/track/3Y5jrneE5ErAfidBuofcKJ"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Muerte",
-        "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
-      },
-      "artists": [
-        {
-          "name": "Canserbero",
-          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
-        }
-      ],
-      "duration_ms": 284708,
-      "name": "Maquiav\u00e9lico",
-      "url": "https://open.spotify.com/track/447r2keRxpkINmWYp83MlH"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Los Grandes \u00c9xitos En Espa\u00f1ol (Spanish Greatest Hits)",
         "url": "https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 319920,
       "name": "Contra Todos",
       "url": "https://open.spotify.com/track/13FbVnmgiKZdKMHPly1ekQ"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Muerte",
+        "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "duration_ms": 284708,
+      "name": "Maquiav\u00e9lico",
+      "url": "https://open.spotify.com/track/447r2keRxpkINmWYp83MlH"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/29N9nfcvov8KfyF2X8Mj6P"
-      },
-      "artists": [
-        {
-          "name": "Canserbero",
-          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
-        }
-      ],
-      "duration_ms": 244062,
-      "name": "Pensando en Ti",
-      "url": "https://open.spotify.com/track/2auNjgM4xIOANxtZT4Xe9z"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Alma Coraz\u00f3n Y Vida",
         "url": "https://open.spotify.com/album/6nPDlP06ntwX78n1UDI5XE"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 200800,
       "name": "Me\u00f1iques",
       "url": "https://open.spotify.com/track/1WL1tQMLFYL1abzN5U3Bl2"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/29N9nfcvov8KfyF2X8Mj6P"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "duration_ms": 244062,
+      "name": "Pensando en Ti",
+      "url": "https://open.spotify.com/track/2auNjgM4xIOANxtZT4Xe9z"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Muerte",
-        "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
-      },
-      "artists": [
-        {
-          "name": "Canserbero",
-          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
-        }
-      ],
-      "duration_ms": 361978,
-      "name": "Es \u00c9pico",
-      "url": "https://open.spotify.com/track/2kd0T6zgABT8P0s2h9QU5O"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Desde",
         "url": "https://open.spotify.com/album/74UJbBZO5IuCRtwyWqoLzL"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 277439,
       "name": "Desde",
       "url": "https://open.spotify.com/track/5kwkIYnH4ObKsTeNQvZ0pT"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Muerte",
+        "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "duration_ms": 361978,
+      "name": "Es \u00c9pico",
+      "url": "https://open.spotify.com/track/2kd0T6zgABT8P0s2h9QU5O"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Muerte",
-        "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
-      },
-      "artists": [
-        {
-          "name": "Canserbero",
-          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
-        }
-      ],
-      "duration_ms": 318328,
-      "name": "Jerem\u00edas 17-5",
-      "url": "https://open.spotify.com/track/1nSPlJY53DG3avK6UfpDpZ"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Duele",
         "url": "https://open.spotify.com/album/59IkAXXPqzP6DOuYsQ696T"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 159007,
       "name": "Duele",
       "url": "https://open.spotify.com/track/0vp1LRAhFT6PK9ixOmFT6E"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Muerte",
+        "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "duration_ms": 318328,
+      "name": "Jerem\u00edas 17-5",
+      "url": "https://open.spotify.com/track/1nSPlJY53DG3avK6UfpDpZ"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Muerte",
-        "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
+        "name": "Inksanidad",
+        "url": "https://open.spotify.com/album/2amPdwaDwP9ftLGv0RNfIJ"
       },
       "artists": [
         {
-          "name": "Canserbero",
-          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+          "name": "T-Killa",
+          "url": "https://open.spotify.com/artist/52QQ2BADyRwXsS8uqLu2Hl"
         }
       ],
-      "duration_ms": 284813,
-      "name": "Mundo de Piedra",
-      "url": "https://open.spotify.com/track/4fhF0iJffyUJReKSecg78m"
+      "duration_ms": 219158,
+      "name": "Suena",
+      "url": "https://open.spotify.com/track/4HqvCLdcpiJtzxR82gH3qE"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Inksanidad",
-        "url": "https://open.spotify.com/album/2amPdwaDwP9ftLGv0RNfIJ"
+        "name": "Muerte",
+        "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
       },
       "artists": [
         {
-          "name": "T-Killa",
-          "url": "https://open.spotify.com/artist/52QQ2BADyRwXsS8uqLu2Hl"
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
         }
       ],
-      "duration_ms": 219158,
-      "name": "Suena",
-      "url": "https://open.spotify.com/track/4HqvCLdcpiJtzxR82gH3qE"
+      "duration_ms": 284813,
+      "name": "Mundo de Piedra",
+      "url": "https://open.spotify.com/track/4fhF0iJffyUJReKSecg78m"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
+        "name": "Hecho En Mexico",
+        "url": "https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir"
+      },
+      "artists": [
+        {
+          "name": "Kinto Sol",
+          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
+        }
+      ],
+      "duration_ms": 235280,
+      "name": "Raza Es Raza",
+      "url": "https://open.spotify.com/track/4EQpN8UHm1RwMyK7tcGCuB"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
         "name": "Una Isla en los Andes",
         "url": "https://open.spotify.com/album/6arO0VYPhGnJmf2oPVX6nD"
       },
@@ -1667,38 +1683,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Hecho En Mexico",
-        "url": "https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir"
-      },
-      "artists": [
-        {
-          "name": "Kinto Sol",
-          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
-        }
-      ],
-      "duration_ms": 235280,
-      "name": "Raza Es Raza",
-      "url": "https://open.spotify.com/track/4EQpN8UHm1RwMyK7tcGCuB"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "Ocho Lunas",
-        "url": "https://open.spotify.com/album/1RXTzclIwzHy9x0q5y9uLw"
-      },
-      "artists": [
-        {
-          "name": "Gona",
-          "url": "https://open.spotify.com/artist/3yrN2y3XifdxgoTVMiTpDB"
-        }
-      ],
-      "duration_ms": 326593,
-      "name": "Hasta las 3 de la Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/3fWUR3Klzp36JZwIi5DUy8"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Tempo \u00c9xitos",
         "url": "https://open.spotify.com/album/1HI1kTUhjj0RgxtrZ0VCWb"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 169786,
       "name": "Balas",
       "url": "https://open.spotify.com/track/61udLtunSv95Gu89jiWUWf"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Ocho Lunas",
+        "url": "https://open.spotify.com/album/1RXTzclIwzHy9x0q5y9uLw"
+      },
+      "artists": [
+        {
+          "name": "Gona",
+          "url": "https://open.spotify.com/artist/3yrN2y3XifdxgoTVMiTpDB"
+        }
+      ],
+      "duration_ms": 326593,
+      "name": "Hasta las 3 de la Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/3fWUR3Klzp36JZwIi5DUy8"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1767,6 +1767,22 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
+        "name": "Y Boquete Pa Tu Techo",
+        "url": "https://open.spotify.com/album/5UzpBAZUPKyO0dIe6EFfLN"
+      },
+      "artists": [
+        {
+          "name": "Vico C",
+          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
+        }
+      ],
+      "duration_ms": 277801,
+      "name": "Y Boquete Pa Tu Techo",
+      "url": "https://open.spotify.com/track/6VvDIjJSwswOhdbamnbP5z"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
         "name": "Chances",
         "url": "https://open.spotify.com/album/5GVNLD6AGiNGOVNPkLc6rI"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 243869,
       "name": "Madafaka (feat. Molotov)",
       "url": "https://open.spotify.com/track/3SfFu1MfHefPC55gW4ngH3"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "Y Boquete Pa Tu Techo",
-        "url": "https://open.spotify.com/album/5UzpBAZUPKyO0dIe6EFfLN"
-      },
-      "artists": [
-        {
-          "name": "Vico C",
-          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
-        }
-      ],
-      "duration_ms": 277801,
-      "name": "Y Boquete Pa Tu Techo",
-      "url": "https://open.spotify.com/track/6VvDIjJSwswOhdbamnbP5z"
     },
     {
       "added_at": "2024-07-12 18:46:41",

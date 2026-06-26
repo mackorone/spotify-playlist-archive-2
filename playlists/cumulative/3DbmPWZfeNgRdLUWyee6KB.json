@@ -2637,6 +2637,24 @@
     },
     {
       "album": {
+        "name": "Bring Back the Feeling",
+        "url": "https://open.spotify.com/album/4HKCUdRntwilj1Up7Iagn9"
+      },
+      "artists": [
+        {
+          "name": "Maxwell LeVan",
+          "url": "https://open.spotify.com/artist/6BAItgRso9SUbIyIpjcdm1"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178909,
+      "name": "Bring Back the Feeling",
+      "url": "https://open.spotify.com/track/09mfLrHrJZlJrzcogIIVCY"
+    },
+    {
+      "album": {
         "name": "Broken Conversations",
         "url": "https://open.spotify.com/album/6i0l2X4NgBrSr2iowHKwjQ"
       },
@@ -5678,6 +5696,28 @@
       "duration_ms": 116169,
       "name": "Europe Flow - Remix",
       "url": "https://open.spotify.com/track/5CFEwAG4IVLP0Li9F8VNX6"
+    },
+    {
+      "album": {
+        "name": "Even If It Ends",
+        "url": "https://open.spotify.com/album/3FTi7jUWKe34h6n73MBYsW"
+      },
+      "artists": [
+        {
+          "name": "Youb Mens",
+          "url": "https://open.spotify.com/artist/4g0hEdRRDZAtsWO9YgRJFT"
+        },
+        {
+          "name": "Samija",
+          "url": "https://open.spotify.com/artist/46P7ib6U2AhkLntVpf6LUF"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175557,
+      "name": "Even If It Ends",
+      "url": "https://open.spotify.com/track/5uMjPEoWLYy76yf4pj9iLb"
     },
     {
       "album": {

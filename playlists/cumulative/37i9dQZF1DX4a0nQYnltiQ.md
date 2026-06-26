@@ -2,13 +2,13 @@
 
 ### [Essence](https://open.spotify.com/playlist/37i9dQZF1DX4a0nQYnltiQ)
 
-> The \#1 Destination for the best melodies in the world\. Cover: Chxrry
+> The \#1 Destination for the best melodies in the world\. Cover: Steve Lacy
 
-149 songs - 7 hr 31 min
+150 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [10%](https://open.spotify.com/track/7ehB2Wp1OpCNAraJZpBBXI) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [This One Is Personal](https://open.spotify.com/album/55VroRmh4MCv27zw275clO) | 2:49 | 2025-09-11 |  |
+| [10%](https://open.spotify.com/track/7ehB2Wp1OpCNAraJZpBBXI) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [This One Is Personal](https://open.spotify.com/album/55VroRmh4MCv27zw275clO) | 2:49 | 2025-09-11 | 2026-06-26 |
 | [30 Something](https://open.spotify.com/track/1DKVwrlshIVSRXBA6C62Yq) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Jupiter](https://open.spotify.com/album/66HcLnKvY2NUrUta3OduYH) | 3:30 | 2025-07-10 | 2026-02-27 |
 | [Ain't I Good For You](https://open.spotify.com/track/77WEFz4sR98WRO01patyZm) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Ain't I Good For You](https://open.spotify.com/album/5xljYFeXxR6vWQwHhyESSb) | 2:41 | 2025-07-10 | 2025-11-21 |
 | [Ali Bomaye](https://open.spotify.com/track/69ljijBlGBQ82ce3SidtVu) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Ali Bomaye](https://open.spotify.com/album/1B7xewToSrEgG5AtuISwdx) | 2:28 | 2025-07-10 | 2025-10-24 |
@@ -84,6 +84,7 @@
 | [Life After Love](https://open.spotify.com/track/4iI3VuXTaRHhPtIukeljkU) | [Leah Music](https://open.spotify.com/artist/3FrtVf61eHTo2BZNG1qTOK) | [Life After Love](https://open.spotify.com/album/026mGyAjIYXJVinjFvWF8X) | 2:10 | 2025-07-10 | 2025-10-17 |
 | [Like A Star](https://open.spotify.com/track/7mMi0mUPohV2X0nNsCeH57) | [Sophie Castillo](https://open.spotify.com/artist/4LoRVyF2R00cUR8q3oatMb) | [Like A Star](https://open.spotify.com/album/5Pb8ViifCseDip08mLNnsT) | 2:46 | 2025-07-10 | 2026-04-24 |
 | [Long Time](https://open.spotify.com/track/3lWOHVuJFczaKbt3gDsbwU) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [Long Time](https://open.spotify.com/album/5WasWcm3Dhuk1YuyDwDBqB) | 1:54 | 2025-07-10 | 2025-11-21 |
+| [LOVE AGAIN](https://open.spotify.com/track/2KFJ2oHxCvEEysGniYF4MK) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [LOVE AGAIN](https://open.spotify.com/album/6ot9MVm7jHd0GbvmZ9JkZ7) | 3:36 | 2026-06-25 |  |
 | [Love Letter](https://open.spotify.com/track/4QcFLrc1uns09taWo7yFsa) | [Mulaa Joans](https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs) | [Love Letter](https://open.spotify.com/album/11koFUb2flCfP4dELQ388y) | 2:56 | 2026-02-27 |  |
 | [Made 4 U](https://open.spotify.com/track/0HCNNk73IcblEA8fcncvYc) | [ABIR](https://open.spotify.com/artist/3QUOtWgmuxFyae4C0Q0thd) | [Made 4 U](https://open.spotify.com/album/0Z95ZYpPatQwxStl1eociG) | 2:42 | 2025-07-10 | 2025-10-10 |
 | [Make It Up To You \(feat\. Ayra Starr\)](https://open.spotify.com/track/2Ujhdpqhj6MnXELN0GAx0x) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sincere \(Deluxe\)](https://open.spotify.com/album/1E8QXt1GZK0g2SC2JDK4ZE) | 2:31 | 2025-07-10 | 2025-09-12 |
@@ -132,7 +133,7 @@
 | [Sweet Rose](https://open.spotify.com/track/07XM0G5OUgiiG0rtRkhdcv) | [Ella More](https://open.spotify.com/artist/727Q7I2a8uB63eFKd4N38p) | [Sweet Rose](https://open.spotify.com/album/4E16pSvvDRQUUgA1rmsROL) | 3:15 | 2026-04-16 |  |
 | [Sweet Sensation](https://open.spotify.com/track/08lMm17NyaTxqE2pnyLNi8) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Sweet Sensation](https://open.spotify.com/album/0jKFVbAav1wfa5smwIY0bd) | 3:43 | 2025-09-11 |  |
 | [Sweet Serotonin](https://open.spotify.com/track/0RLl3obXeC2HsCQcI1EglP) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Pretty Idea](https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu) | 3:01 | 2026-06-11 | 2026-06-17 |
-| [Sweet Serotonin](https://open.spotify.com/track/5pzCNVV0gcW92gF73DmhOa) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Sweet Serotonin](https://open.spotify.com/album/1aPQaSLNNPbMOJ6ur6hHgK) | 3:01 | 2025-07-10 |  |
+| [Sweet Serotonin](https://open.spotify.com/track/5pzCNVV0gcW92gF73DmhOa) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Sweet Serotonin](https://open.spotify.com/album/1aPQaSLNNPbMOJ6ur6hHgK) | 3:01 | 2025-07-10 | 2026-06-26 |
 | [Take Her Love](https://open.spotify.com/track/6Rbw6xdVOHZCdiforE08HE) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [HunnyMoon Mountain](https://open.spotify.com/album/2rVpyULucip4FgLYR2rw26) | 3:35 | 2025-07-10 | 2025-11-21 |
 | [Taste](https://open.spotify.com/track/158aKdyaVs7HS3OfDZHANh) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Taste](https://open.spotify.com/album/5bKb1kHsa2aTQ5ymqLQ7DK) | 2:44 | 2025-07-10 | 2025-09-12 |
 | [The Betrayal](https://open.spotify.com/track/7uatMCYjpNoEIu4gTsIYr7) | [Sophie Castillo](https://open.spotify.com/artist/4LoRVyF2R00cUR8q3oatMb) | [The Betrayal](https://open.spotify.com/album/1lszv2KPm27Bm0w8151RqY) | 3:42 | 2025-07-10 | 2025-10-10 |

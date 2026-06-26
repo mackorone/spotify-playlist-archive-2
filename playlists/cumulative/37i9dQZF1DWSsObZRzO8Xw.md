@@ -2,9 +2,9 @@
 
 ### [Math Rock](https://open.spotify.com/playlist/37i9dQZF1DWSsObZRzO8Xw)
 
-> Complex rhythms and mesmerizing loops\. Cover: Angine de Poitrine
+> Complex rhythms and mesmerizing loops\. Cover: Elephant Gym
 
-181 songs - 12 hr 39 min
+182 songs - 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [Teratology](https://open.spotify.com/track/7e27JuhzIHIN2p2C6PpGU1) | [The Physics House Band](https://open.spotify.com/artist/30EilmonVXftR1pWoALezP) | [Horizons / Rapture](https://open.spotify.com/album/6g3H4Su4jES5zbfY4av4Tt) | 6:25 | 2021-10-15 |  |
 | [That's Git](https://open.spotify.com/track/3XY1XnhE0QjPUZqpIb7GDn) | [Olde Pine](https://open.spotify.com/artist/1jvXgRFagbj6jaZQlzwokx) | [The EPs](https://open.spotify.com/album/6a6At1Djmp0LHbmFfaOUHI) | 5:04 | 2022-05-20 | 2024-04-19 |
 | [That's Git](https://open.spotify.com/track/4iGnjVwzG8nkT8Gh8Elnwg) | [Olde Pine](https://open.spotify.com/artist/1jvXgRFagbj6jaZQlzwokx) | [Reservoir & the Steve French](https://open.spotify.com/album/2HkfdB4TxpAZTY4TNsrsLP) | 5:04 | 2021-10-15 | 2025-07-05 |
-| [The Barnacle Beach](https://open.spotify.com/track/5DYQ0bInAoRKJFzVRrFy5v) | [Settlefish](https://open.spotify.com/artist/1FzE9PthcwrmwfFNs7LNag) | [The Plural Of The Choir](https://open.spotify.com/album/20Xbsn2bDcmtZKp6FliRP8) | 2:45 | 2021-10-15 |  |
+| [The Barnacle Beach](https://open.spotify.com/track/5DYQ0bInAoRKJFzVRrFy5v) | [Settlefish](https://open.spotify.com/artist/1FzE9PthcwrmwfFNs7LNag) | [The Plural Of The Choir](https://open.spotify.com/album/20Xbsn2bDcmtZKp6FliRP8) | 2:45 | 2021-10-15 | 2026-06-26 |
 | [The Barnacle Beach](https://open.spotify.com/track/6XdQGjYnnVjcDmvVrY10Vg) | [Settlefish](https://open.spotify.com/artist/1FzE9PthcwrmwfFNs7LNag) | [Deep Elm Records Sampler 6 \- The New Crazy](https://open.spotify.com/album/6zwUfvVja6ujpQg9hkZkwM) | 2:49 | 2024-01-19 | 2024-04-19 |
 | [The Detail](https://open.spotify.com/track/1ExXxnndA4qMDA0SK8KnLM) | [Delta Sleep](https://open.spotify.com/artist/05MlomiA9La0OiNIAGqECk) | [Spring Island](https://open.spotify.com/album/4JeLdGuCEO9SF9SnFa9LBh) | 4:29 | 2023-08-09 |  |
 | [The Yabba](https://open.spotify.com/track/7eGKgpVkNraiJtJHL4CC1n) | [Battles](https://open.spotify.com/artist/3EMSpwRtkvUTxfB4aS5xnA) | [La Di Da Di](https://open.spotify.com/album/5EKVDFC9xHXLrT90ym194g) | 6:49 | 2021-10-15 | 2022-05-21 |
@@ -187,6 +187,7 @@
 | [Your Hand In Mine](https://open.spotify.com/track/5NdxiycRi3nP2v7RJoAJIT) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [The Earth Is Not a Cold Dead Place](https://open.spotify.com/album/4ENmFqXRtBpigsdIhSuNJL) | 8:16 | 2021-10-15 | 2024-05-17 |
 | [Your Hand In Mine \- Remastered](https://open.spotify.com/track/4sYn64V9gqP6bpkOGw5B9k) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [The Earth Is Not a Cold Dead Place \(Anniversary Edition\)](https://open.spotify.com/album/49buCcKCJwxvdl0R2dMoIU) | 8:17 | 2022-05-20 | 2024-04-19 |
 | […But the Pants Stay On](https://open.spotify.com/track/6yyIt97DsuLaPeGt4hlCH1) | [A Minor Forest](https://open.spotify.com/artist/4ABTeyDAbK3iv09CHSsoW0) | [Flemish Altruism \(Constituent Parts 1993\-1996\) \[Remaster\]](https://open.spotify.com/album/0V8uE11hFKvBpRkWockq70) | 6:42 | 2021-10-15 |  |
+| [公路 Highway](https://open.spotify.com/track/0YJtFxp46guIz1Xsyi5VGQ) | [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g) | [公路 Highway](https://open.spotify.com/album/1bMAMiSyDW96G6GZ1NSYtJ) | 3:23 | 2026-06-25 |  |
 | [春雨 Spring Rain](https://open.spotify.com/track/5G1wOifWhpTlEhxbaQxQe5) | [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g) | [工作 Work](https://open.spotify.com/album/0Qy0Srk2am6EZHHbPqCgBB) | 4:26 | 2022-05-20 | 2024-04-19 |
 | [春雨\(Sampling：陰天\)](https://open.spotify.com/track/05HEYoJAC1qGEtEqWmXUg2) | [大象體操 Elephant Gym](https://open.spotify.com/artist/7p50JxGTkfqPpDj3r3DdRK) | [工作](https://open.spotify.com/album/5eijheCyOXVoRJWJey0Kdq) | 4:26 | 2021-10-15 |  |
 

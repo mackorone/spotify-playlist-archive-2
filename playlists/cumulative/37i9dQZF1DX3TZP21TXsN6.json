@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "Struis, RADIO Z, YGN KAMII, Het Moment en meer..",
+  "description": "Maycash, C7, Xeno, Louis Pedro en meer..",
   "name": "Fresh Flows",
   "tracks": [
     {
@@ -1029,6 +1029,32 @@
     },
     {
       "album": {
+        "name": "DE 3 PACK",
+        "url": "https://open.spotify.com/album/3DIBRgyPMFjg05HQ92adPx"
+      },
+      "artists": [
+        {
+          "name": "Louis Pedro",
+          "url": "https://open.spotify.com/artist/665UlaIvmBZMaVdl3mcMpt"
+        },
+        {
+          "name": "JAH",
+          "url": "https://open.spotify.com/artist/5Mtx1K2I4k44IIlsCSf659"
+        },
+        {
+          "name": "stay away from dante!",
+          "url": "https://open.spotify.com/artist/5y47Otq6VIrBjaLR7Zl8nd"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178838,
+      "name": "Aquaplaning",
+      "url": "https://open.spotify.com/track/73aDc3HlJ79Vrgq7hpJbXO"
+    },
+    {
+      "album": {
         "name": "ARMA\u00c7\u00c3O DE PERA",
         "url": "https://open.spotify.com/album/6RQbeUovleFoWxk1epnHml"
       },
@@ -1116,7 +1142,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 175536,
       "name": "Audemars Piguet",
       "url": "https://open.spotify.com/track/5gA49eaLpmPKPkWbLAp64m"
@@ -2411,6 +2437,24 @@
     },
     {
       "album": {
+        "name": "Casamigos",
+        "url": "https://open.spotify.com/album/6Bi2o3GT3K5yjeAup6yDbk"
+      },
+      "artists": [
+        {
+          "name": "Lostt",
+          "url": "https://open.spotify.com/artist/2zvq4i4GGwZ6T5CmWcjJkk"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167213,
+      "name": "Casamigos",
+      "url": "https://open.spotify.com/track/6vf95Kg34gBYJzc4DBKweD"
+    },
+    {
+      "album": {
         "name": "Chagrijnig voor m'n od",
         "url": "https://open.spotify.com/album/3DlW87KgtQj1jdb2rVNzDT"
       },
@@ -3081,6 +3125,32 @@
     },
     {
       "album": {
+        "name": "Den Love",
+        "url": "https://open.spotify.com/album/4SScXuJMTnFs8rXpw7K1vc"
+      },
+      "artists": [
+        {
+          "name": "KNALLER",
+          "url": "https://open.spotify.com/artist/2ovH0tGdgfnM3OwsuJykd0"
+        },
+        {
+          "name": "Young Ellens",
+          "url": "https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub"
+        },
+        {
+          "name": "Solid Circle",
+          "url": "https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174857,
+      "name": "Den Love",
+      "url": "https://open.spotify.com/track/3T5hBC6bJ5eGnThRAuQweu"
+    },
+    {
+      "album": {
         "name": "denk je echt?",
         "url": "https://open.spotify.com/album/65vSGfENRYEfhKk1kZYtp5"
       },
@@ -3216,7 +3286,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 159130,
       "name": "Digits",
       "url": "https://open.spotify.com/track/7nw6gwzh0k7OXIDZYpXJYu"
@@ -3483,6 +3553,24 @@
     },
     {
       "album": {
+        "name": "Drunk In Love",
+        "url": "https://open.spotify.com/album/1LesLGeixdb4rYYZA27JYi"
+      },
+      "artists": [
+        {
+          "name": "Miero YIC",
+          "url": "https://open.spotify.com/artist/1EV7sNMefC5xUDp0nxxCPQ"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145454,
+      "name": "Drunk In Love",
+      "url": "https://open.spotify.com/track/3OUhJMDH1jlVTfe0wd3B7h"
+    },
+    {
+      "album": {
         "name": "Duizend Volle Manen",
         "url": "https://open.spotify.com/album/4xJmuGamirTFgurCtUQfoU"
       },
@@ -3538,7 +3626,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 109444,
       "name": "Echt met mij",
       "url": "https://open.spotify.com/track/7daJ4Y17EEKcrTm54gpqVU"
@@ -3560,6 +3648,28 @@
       "duration_ms": 161684,
       "name": "Een En Ander",
       "url": "https://open.spotify.com/track/1UxHbKcaSxMNsndStKfvaI"
+    },
+    {
+      "album": {
+        "name": "Een Reden",
+        "url": "https://open.spotify.com/album/6ZnTqg9NtoHavO07OAfpfF"
+      },
+      "artists": [
+        {
+          "name": "Getit",
+          "url": "https://open.spotify.com/artist/5Yc3rkj4Fs4slH5uGZaG8I"
+        },
+        {
+          "name": "JESSA",
+          "url": "https://open.spotify.com/artist/4IiwGd4Brz4efsh6Kadz0R"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115304,
+      "name": "Een Reden",
+      "url": "https://open.spotify.com/track/2rzNCNHGAHC58S9qGdWW3l"
     },
     {
       "album": {
@@ -3886,6 +3996,32 @@
       "duration_ms": 109268,
       "name": "Fatigu\u00e9",
       "url": "https://open.spotify.com/track/4DiDLuE1RF7RYvLaBamtsE"
+    },
+    {
+      "album": {
+        "name": "FCK IT UP",
+        "url": "https://open.spotify.com/album/51oYbFWAzfHTwGilc1Ip7o"
+      },
+      "artists": [
+        {
+          "name": "Yung Papitos",
+          "url": "https://open.spotify.com/artist/6dhoaoXwevhtauSmhDNkyX"
+        },
+        {
+          "name": "MC Lost",
+          "url": "https://open.spotify.com/artist/3Tw31Sa6vnZHiyo4P39eQ5"
+        },
+        {
+          "name": "MC MC",
+          "url": "https://open.spotify.com/artist/7eMoHqrg7fdrVTjhrQE0Go"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141436,
+      "name": "FCK IT UP",
+      "url": "https://open.spotify.com/track/0ySyl6wtLliJXqr5jBn2eU"
     },
     {
       "album": {
@@ -4717,6 +4853,24 @@
     },
     {
       "album": {
+        "name": "Grindmode",
+        "url": "https://open.spotify.com/album/1cKuFcX331ivbZB1JDO7Fm"
+      },
+      "artists": [
+        {
+          "name": "Fle",
+          "url": "https://open.spotify.com/artist/4mmHkYSBe5qNo8FhuhY6p3"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141467,
+      "name": "Grindmode",
+      "url": "https://open.spotify.com/track/1DgkkECXiTPdivUovw9Vqt"
+    },
+    {
+      "album": {
         "name": "Grote Verandering",
         "url": "https://open.spotify.com/album/3hOSzXYYSh3K0EvbTCBHrF"
       },
@@ -5004,6 +5158,24 @@
       "duration_ms": 160406,
       "name": "Hchouma",
       "url": "https://open.spotify.com/track/1lY4ev4ihSy5MqbYkqnn8U"
+    },
+    {
+      "album": {
+        "name": "Head & Shoulders",
+        "url": "https://open.spotify.com/album/7AYVora80FT0rTSh1dqpUs"
+      },
+      "artists": [
+        {
+          "name": "Freddy Henny",
+          "url": "https://open.spotify.com/artist/6b5zNYKSYMTbXxudqW7sSv"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158291,
+      "name": "Head & Shoulders",
+      "url": "https://open.spotify.com/track/4p2muUO2MvaxjqpLzzql80"
     },
     {
       "album": {
@@ -5682,10 +5854,28 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 111468,
       "name": "In Het Frans",
       "url": "https://open.spotify.com/track/1uMozq4mDofCm2uaMDGNCb"
+    },
+    {
+      "album": {
+        "name": "IN LOVE MET JOU",
+        "url": "https://open.spotify.com/album/40JnLnQEZ54P8OkBLdduzj"
+      },
+      "artists": [
+        {
+          "name": "SKO",
+          "url": "https://open.spotify.com/artist/4dh374pyaeKLOTy5jnUcAS"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158709,
+      "name": "IN LOVE MET JOU",
+      "url": "https://open.spotify.com/track/6Uc1o0nF1ekayNoN3fD9U7"
     },
     {
       "album": {
@@ -5902,6 +6092,24 @@
       "duration_ms": 100848,
       "name": "Jonge van Beethoven",
       "url": "https://open.spotify.com/track/5LRexkmbnueuLmXhAda0QW"
+    },
+    {
+      "album": {
+        "name": "Jongen Van Gracht",
+        "url": "https://open.spotify.com/album/1I5xyfmRWklDa3Bt7pAqLI"
+      },
+      "artists": [
+        {
+          "name": "247Loosey",
+          "url": "https://open.spotify.com/artist/6uaH5YMYW84lVDWbBFWk2x"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Jongen Van Gracht",
+      "url": "https://open.spotify.com/track/0GxDhad2ua9RGriTOy4lSr"
     },
     {
       "album": {
@@ -6309,6 +6517,28 @@
     },
     {
       "album": {
+        "name": "Kom Ko",
+        "url": "https://open.spotify.com/album/2Jo4lmkrDG4fTLAAo48eMJ"
+      },
+      "artists": [
+        {
+          "name": "NTT",
+          "url": "https://open.spotify.com/artist/2aiK06FSZV8lWst1q1LKYQ"
+        },
+        {
+          "name": "DamianDsK",
+          "url": "https://open.spotify.com/artist/3zPVnyv4ax2WW8DsZYjcoG"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130084,
+      "name": "Kom Ko",
+      "url": "https://open.spotify.com/track/4HCdZTJ7zZRJoQudH4yL8X"
+    },
+    {
+      "album": {
         "name": "Kraaiennest - Zonamo Hoodcypher",
         "url": "https://open.spotify.com/album/4ob6LqSpyS2NNGEpoj1ndK"
       },
@@ -6478,6 +6708,32 @@
       "duration_ms": 166956,
       "name": "Laat Me Effe",
       "url": "https://open.spotify.com/track/2Ln4QO2cHWJbMxYoPtuAhP"
+    },
+    {
+      "album": {
+        "name": "LAAT ME ZIEN",
+        "url": "https://open.spotify.com/album/7okifGMwvSadeh7eX2wcSz"
+      },
+      "artists": [
+        {
+          "name": "C7",
+          "url": "https://open.spotify.com/artist/479mu7Ex7VuSufnGgqZreO"
+        },
+        {
+          "name": "Kurd #25",
+          "url": "https://open.spotify.com/artist/0fzQU4gg0wAklZkkbTjohY"
+        },
+        {
+          "name": "HB The Plug",
+          "url": "https://open.spotify.com/artist/17fsAjYzpvI7C5M1D8T34T"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "LAAT ME ZIEN",
+      "url": "https://open.spotify.com/track/3kTXxHyl77r79KLGzO6Qdr"
     },
     {
       "album": {
@@ -6929,6 +7185,24 @@
     },
     {
       "album": {
+        "name": "Lifestyle",
+        "url": "https://open.spotify.com/album/2G8kRGXgwkS8DW5qv8VJTe"
+      },
+      "artists": [
+        {
+          "name": "Ramzi",
+          "url": "https://open.spotify.com/artist/0b1QRmllg4XbtsIsos2haR"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173730,
+      "name": "Lifestyle",
+      "url": "https://open.spotify.com/track/0HZGRSHaegYZnZOGz8e7QL"
+    },
+    {
+      "album": {
         "name": "Like Me",
         "url": "https://open.spotify.com/album/5KxE40ZSS4DXVhlVIitQQL"
       },
@@ -7064,7 +7338,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 136156,
       "name": "Long Way Home",
       "url": "https://open.spotify.com/track/3F5pRlH766iycEBvkSveJr"
@@ -7082,7 +7356,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 172800,
       "name": "LORO",
       "url": "https://open.spotify.com/track/21r6LVXndzvYS5xMzIueXx"
@@ -7681,6 +7955,24 @@
     },
     {
       "album": {
+        "name": "HearTLesS RomAnTic",
+        "url": "https://open.spotify.com/album/2PM6cFcqS8r0j9yHugtacw"
+      },
+      "artists": [
+        {
+          "name": "Brasco",
+          "url": "https://open.spotify.com/artist/1oF9VGP4yn9vVu1sPDLAyr"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140485,
+      "name": "MiddeLVinGaZ",
+      "url": "https://open.spotify.com/track/0j7DgCG8Pqq1Y9Cl7mLzfZ"
+    },
+    {
+      "album": {
         "name": "Midden in de Storm",
         "url": "https://open.spotify.com/album/4vwMqRdGX5BZQ2NVmaW00p"
       },
@@ -8216,7 +8508,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 120000,
       "name": "My Life",
       "url": "https://open.spotify.com/track/7LdOQOTknYkd5UJlEp0hNx"
@@ -8330,6 +8622,24 @@
       "duration_ms": 120500,
       "name": "Nasty Valentine",
       "url": "https://open.spotify.com/track/4YpurA219M0G3HtbBbU2x4"
+    },
+    {
+      "album": {
+        "name": "Neppe Liefde",
+        "url": "https://open.spotify.com/album/6LdJCkxHi2yjVICYYhLFP6"
+      },
+      "artists": [
+        {
+          "name": "Skaffa",
+          "url": "https://open.spotify.com/artist/24RkW6OmQCTvgvwZM89nMG"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187055,
+      "name": "Neppe Liefde",
+      "url": "https://open.spotify.com/track/3ctRq9dS0WLC0VcYngheph"
     },
     {
       "album": {
@@ -8738,7 +9048,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 112389,
       "name": "No Lacking",
       "url": "https://open.spotify.com/track/7wD80teTWWKoTVyBXNQV50"
@@ -9516,7 +9826,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 173333,
       "name": "Patronen in de Chaos",
       "url": "https://open.spotify.com/track/3Y4quDKVUDuQCCW3jfleYr"
@@ -9687,6 +9997,24 @@
     },
     {
       "album": {
+        "name": "Plenty Bottles",
+        "url": "https://open.spotify.com/album/037uKXEhGc0GGznEoltmff"
+      },
+      "artists": [
+        {
+          "name": "Maycash",
+          "url": "https://open.spotify.com/artist/3XuZ73r4HTBo0C8rlGSCmD"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149243,
+      "name": "Plenty Bottles",
+      "url": "https://open.spotify.com/track/4ld97cTGR2XMPBoTUszChr"
+    },
+    {
+      "album": {
         "name": "Praat van de Straat II",
         "url": "https://open.spotify.com/album/7Dw4rtrem5CE1a9zUpi1oB"
       },
@@ -9774,7 +10102,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 150213,
       "name": "Practice",
       "url": "https://open.spotify.com/track/4iQrtnOu809H5BEQUx60T1"
@@ -11156,7 +11484,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 163764,
       "name": "Tegenslag",
       "url": "https://open.spotify.com/track/7jPwUj0MrkYs6pYbUDhp28"

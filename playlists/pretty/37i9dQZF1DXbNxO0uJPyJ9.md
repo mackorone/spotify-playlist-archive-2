@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 799,876 likes - 80 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 799,949 likes - 80 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 46 | [West End Girls \- Disco Mix](https://open.spotify.com/track/56JlUxlgZS1ZFgjopdgdBt) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Disco](https://open.spotify.com/album/69uM5D9lGcA0ODQ8yTXfaj) | 9:03 |
 | 47 | [Shattered Dreams \- 12'' Extended Mix](https://open.spotify.com/track/0bzN1ky1onoeDSbayxt0Gi) | [Johnny Hates Jazz](https://open.spotify.com/artist/6zpPKMhpOoG646kJgZ7RKf) | [The Very Best Of Johnny Hates Jazz](https://open.spotify.com/album/0NDIvDmFe9H6DOBKwsOmgB) | 5:12 |
 | 48 | [Such a Shame \- Extended Mix; 2003 Remaster](https://open.spotify.com/track/6blgcXjvQ4F5CtmABEQlSQ) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [Remixed \(2003 Remaster\)](https://open.spotify.com/album/4A3cOTzJ1bcoKgOnXE1TU4) | 7:01 |
-| 49 | [The Great Commandment](https://open.spotify.com/track/6As51KsSXmA7SUmM32t8UZ) | [Camouflage](https://open.spotify.com/artist/2YTbBGa3Tf2rRPhiJxWoUN) | [Westside 25th Anniversary](https://open.spotify.com/album/5vLIUQ71BxikOdHqpBcpG2) | 5:28 |
-| 50 | [I'm So Excited \(12" Extended Mix\)](https://open.spotify.com/track/2oCCGj7l4QVmamyoyPh4CR) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Dance Vault Remixes](https://open.spotify.com/album/3zGFU1Eq1SCPkmYGmuCCxB) | 5:43 |
+| 49 | [I'm So Excited \(12" Extended Mix\)](https://open.spotify.com/track/2oCCGj7l4QVmamyoyPh4CR) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Dance Vault Remixes](https://open.spotify.com/album/3zGFU1Eq1SCPkmYGmuCCxB) | 5:43 |
+| 50 | [The Great Commandment](https://open.spotify.com/track/6As51KsSXmA7SUmM32t8UZ) | [Camouflage](https://open.spotify.com/artist/2YTbBGa3Tf2rRPhiJxWoUN) | [Westside 25th Anniversary](https://open.spotify.com/album/5vLIUQ71BxikOdHqpBcpG2) | 5:28 |
 | 51 | [High Society Girl \- Long Dub Version; 1983 Digital Remaster](https://open.spotify.com/track/5bTXVkgoUZs8SXngRproJG) | [Laid Back](https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX) | [Good Vibes \- The Very Best of Laid Back](https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1) | 6:10 |
 | 52 | [Thought You Were On My Side \- Extended Remix/European](https://open.spotify.com/track/2Ke6mshSdHeJ0AedHF0jmm) | [Cock Robin](https://open.spotify.com/artist/1MOoTIFOvJ60ATvyRXPPXg) | [Open Book \- The Best Of...](https://open.spotify.com/album/1A95sUd7nLfGX5tI1RuwRN) | 5:22 |
 | 53 | [Theme from S'Express \- 12" Version](https://open.spotify.com/track/6ccIWKEpKvp7YYWLbD3ckK) | [S'Express](https://open.spotify.com/artist/2PvqyOwynRF4BveaU6IA7S) | [Original Soundtrack](https://open.spotify.com/album/760T7VGqZ66wGrRzndpPWc) | 5:59 |

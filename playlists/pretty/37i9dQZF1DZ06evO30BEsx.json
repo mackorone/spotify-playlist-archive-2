@@ -1,12 +1,12 @@
 {
   "description": "This is Gautier Capu\u00e7on. The essential tracks, all in one playlist.",
-  "num_followers": 2012,
+  "num_followers": 2014,
   "original_name": "This Is Gautier Capu\u00e7on",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajnMgAAAAADGatiDg2y36TSFQlqdxYVU",
+  "snapshot_id": "ajseAAAAAAAFhHj/O051ERNagaHNPFjL",
   "tracks": [
     {
       "added_at": null,
@@ -1067,26 +1067,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ga\u00efa",
-        "url": "https://open.spotify.com/album/6l3JRf1uM8DZLR7mmxi4jl"
+        "name": "Elgar & Walton: Cello Concertos",
+        "url": "https://open.spotify.com/album/0apsTmjAkVs4ks2tfXIDOs"
       },
       "artists": [
         {
-          "name": "Max Richter",
-          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+          "name": "Edward Elgar",
+          "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
         },
         {
-          "name": "Jerome Ducros",
-          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
+          "name": "Antonio Pappano",
+          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
         }
       ],
-      "duration_ms": 275933,
-      "name": "Sequence for Ga\u00efa",
-      "url": "https://open.spotify.com/track/19vKyZ0AdFPdNQuHZhGmoE"
+      "duration_ms": 485026,
+      "name": "Elgar: Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato",
+      "url": "https://open.spotify.com/track/1xF2NucEGH7ENxEyKXW2xk"
     },
     {
       "added_at": null,
@@ -1119,30 +1123,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elgar & Walton: Cello Concertos",
-        "url": "https://open.spotify.com/album/0apsTmjAkVs4ks2tfXIDOs"
+        "name": "Ga\u00efa",
+        "url": "https://open.spotify.com/album/6l3JRf1uM8DZLR7mmxi4jl"
       },
       "artists": [
         {
-          "name": "Edward Elgar",
-          "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
         },
         {
-          "name": "Antonio Pappano",
-          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+          "name": "Jerome Ducros",
+          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
         }
       ],
-      "duration_ms": 485026,
-      "name": "Elgar: Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato",
-      "url": "https://open.spotify.com/track/1xF2NucEGH7ENxEyKXW2xk"
+      "duration_ms": 275933,
+      "name": "Sequence for Ga\u00efa",
+      "url": "https://open.spotify.com/track/19vKyZ0AdFPdNQuHZhGmoE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Calm Classical for Studying",
+        "url": "https://open.spotify.com/album/6E1vIbtD1nOoiQb3YDpIX1"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Renaud Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
+        }
+      ],
+      "duration_ms": 82306,
+      "name": "Bach, JS: French Suite No. 2 in C Minor, BWV 813: V. Menuet (Transcr. Neumann for Violin and Cello)",
+      "url": "https://open.spotify.com/track/3vIOzLHn6CphNNK4f5piER"
     },
     {
       "added_at": null,
@@ -1195,26 +1219,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Calm Classical for Studying",
-        "url": "https://open.spotify.com/album/6E1vIbtD1nOoiQb3YDpIX1"
+        "name": "Schubert: String Quintet, Op. 163 & Lieder",
+        "url": "https://open.spotify.com/album/72zb4wpILnZEVoUfnhnDVg"
       },
       "artists": [
         {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Quatuor \u00c9b\u00e8ne",
+          "url": "https://open.spotify.com/artist/2fFxNneQmtCTdIwEpfXnqe"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Renaud Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
         }
       ],
-      "duration_ms": 82306,
-      "name": "Bach, JS: French Suite No. 2 in C Minor, BWV 813: V. Menuet (Transcr. Neumann for Violin and Cello)",
-      "url": "https://open.spotify.com/track/3vIOzLHn6CphNNK4f5piER"
+      "duration_ms": 913335,
+      "name": "Schubert: String Quintet in C Major, Op. 163, D. 956: II. Adagio",
+      "url": "https://open.spotify.com/track/25mDxI046ioWDZZgSF2MYT"
     },
     {
       "added_at": null,
@@ -1247,30 +1271,6 @@
       "duration_ms": 264013,
       "name": "La vie en rose",
       "url": "https://open.spotify.com/track/4uDiP7xdjkD5fYhS6fypp8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Schubert: String Quintet, Op. 163 & Lieder",
-        "url": "https://open.spotify.com/album/72zb4wpILnZEVoUfnhnDVg"
-      },
-      "artists": [
-        {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
-        },
-        {
-          "name": "Quatuor \u00c9b\u00e8ne",
-          "url": "https://open.spotify.com/artist/2fFxNneQmtCTdIwEpfXnqe"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        }
-      ],
-      "duration_ms": 913335,
-      "name": "Schubert: String Quintet in C Major, Op. 163, D. 956: II. Adagio",
-      "url": "https://open.spotify.com/track/25mDxI046ioWDZZgSF2MYT"
     },
     {
       "added_at": null,

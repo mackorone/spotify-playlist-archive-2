@@ -1,12 +1,12 @@
 {
   "description": "The romantic side of classic rock and metal",
-  "num_followers": 995246,
+  "num_followers": 995469,
   "original_name": "Rock Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHzmZbLO7ZiEAKHhkr8bL1dWrITW",
+  "snapshot_id": "AAAAAI4dZRWuGCgfDWjsWMh6jeYfFm/p",
   "tracks": [
     {
       "added_at": "2025-11-13 12:34:14",
@@ -155,6 +155,74 @@
     {
       "added_at": "2025-11-13 12:34:14",
       "album": {
+        "name": "Face The Heat",
+        "url": "https://open.spotify.com/album/4PCVbeHbMHCyZS7Oxl4L31"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "duration_ms": 289200,
+      "name": "Lonely Nights",
+      "url": "https://open.spotify.com/track/0WNyq9XhfmHMxMhMelh0c0"
+    },
+    {
+      "added_at": "2025-11-13 12:34:14",
+      "album": {
+        "name": "Love Songs (2020 Remix)",
+        "url": "https://open.spotify.com/album/36Fg5BRhoXvdqIH3qwTF9m"
+      },
+      "artists": [
+        {
+          "name": "Whitesnake",
+          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
+        },
+        {
+          "name": "Chris Collier",
+          "url": "https://open.spotify.com/artist/1taWFSDSElKxklyuXIJaEy"
+        }
+      ],
+      "duration_ms": 336499,
+      "name": "With All Of My Heart - 2020 Remix",
+      "url": "https://open.spotify.com/track/0ClNaWIOpHsBPcaOBZoByD"
+    },
+    {
+      "added_at": "2025-11-13 12:34:14",
+      "album": {
+        "name": "Under Cover",
+        "url": "https://open.spotify.com/album/5yIXVMM70ay1mQ5kCWpidF"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 225880,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/7m3sxdDtVDitSxPywPi8H8"
+    },
+    {
+      "added_at": "2025-11-13 12:34:14",
+      "album": {
+        "name": "Recover - Deluxe Edition",
+        "url": "https://open.spotify.com/album/6Rjknk17rqmypsIDr6hCbN"
+      },
+      "artists": [
+        {
+          "name": "Great White",
+          "url": "https://open.spotify.com/artist/6ZPbX2Lxd40e2UVkXpyxvI"
+        }
+      ],
+      "duration_ms": 278439,
+      "name": "Save Your Love",
+      "url": "https://open.spotify.com/track/7BA9WB3v5Lkx6WyidzDPU0"
+    },
+    {
+      "added_at": "2025-11-13 12:34:14",
+      "album": {
         "name": "It Must Have Been Love",
         "url": "https://open.spotify.com/album/3dWX1xFUaalRlaaVpe4EPF"
       },
@@ -247,6 +315,118 @@
       "duration_ms": 221053,
       "name": "Little Lies - 2017 Remaster",
       "url": "https://open.spotify.com/track/4CoSCPlKNrWli7E5kFtbcl"
+    },
+    {
+      "added_at": "2025-11-13 12:34:14",
+      "album": {
+        "name": "Cupid",
+        "url": "https://open.spotify.com/album/0jZFOZYfHADfQZEWS34EjG"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 258320,
+      "name": "Faith of the Heart",
+      "url": "https://open.spotify.com/track/45QqpBXmjm3ZYoH7CXjgCI"
+    },
+    {
+      "added_at": "2025-11-13 12:34:14",
+      "album": {
+        "name": "Take What You Want",
+        "url": "https://open.spotify.com/album/7H5q7vrGrHmojsQz6LZEHm"
+      },
+      "artists": [
+        {
+          "name": "Hurricane",
+          "url": "https://open.spotify.com/artist/6G6iuvTHT1XHUEOw5sbQYm"
+        }
+      ],
+      "duration_ms": 283794,
+      "name": "Over The Edge",
+      "url": "https://open.spotify.com/track/1GO9v9LNdspqj7jucTLg5m"
+    },
+    {
+      "added_at": "2025-11-13 12:34:14",
+      "album": {
+        "name": "Creatures Of The Night",
+        "url": "https://open.spotify.com/album/3W0Q8WxZ6yc1nT7lhZuu9t"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 366106,
+      "name": "I Still Love You",
+      "url": "https://open.spotify.com/track/3UGAFI6gHmz88xMQbHr1UT"
+    },
+    {
+      "added_at": "2025-11-13 12:34:14",
+      "album": {
+        "name": "Silence Is Broken",
+        "url": "https://open.spotify.com/album/7HbGwYS9zvK8LWSQzeLUCe"
+      },
+      "artists": [
+        {
+          "name": "Nelson",
+          "url": "https://open.spotify.com/artist/5jJcbGPjjyEhAoU02ynHaA"
+        }
+      ],
+      "duration_ms": 220733,
+      "name": "What About Me?",
+      "url": "https://open.spotify.com/track/5l4lxyTnUqA00w5kqvNMEW"
+    },
+    {
+      "added_at": "2025-11-13 12:34:14",
+      "album": {
+        "name": "Edge of Thorns (Bonus Track Edition)",
+        "url": "https://open.spotify.com/album/4A5NBtITpBxtxA6Fcp0xqB"
+      },
+      "artists": [
+        {
+          "name": "Savatage",
+          "url": "https://open.spotify.com/artist/3N1B1g6JtIgd6ClRkzD4yT"
+        }
+      ],
+      "duration_ms": 231626,
+      "name": "Sleep",
+      "url": "https://open.spotify.com/track/4mpxuJyBRxoiutRLrWCwAY"
+    },
+    {
+      "added_at": "2025-11-13 12:34:14",
+      "album": {
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/1b6ChQEPZbOHVNi5vjqYr6"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 224973,
+      "name": "Diamond Ring",
+      "url": "https://open.spotify.com/track/1OvEB2uv8dr51dsXwo5lTe"
+    },
+    {
+      "added_at": "2025-11-13 12:34:14",
+      "album": {
+        "name": "Babylon A.D.",
+        "url": "https://open.spotify.com/album/4BzqcQaLslzAXjJqAXOgHj"
+      },
+      "artists": [
+        {
+          "name": "Babylon A.D.",
+          "url": "https://open.spotify.com/artist/6sh4WKluS0LOsPdGPerKJ5"
+        }
+      ],
+      "duration_ms": 324133,
+      "name": "Desperate",
+      "url": "https://open.spotify.com/track/2eaom6bXMm3dHkowGkHnmQ"
     },
     {
       "added_at": "2025-11-13 12:34:14",
@@ -475,22 +655,6 @@
     {
       "added_at": "2025-11-13 12:34:14",
       "album": {
-        "name": "Face The Heat",
-        "url": "https://open.spotify.com/album/4PCVbeHbMHCyZS7Oxl4L31"
-      },
-      "artists": [
-        {
-          "name": "Scorpions",
-          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
-        }
-      ],
-      "duration_ms": 289200,
-      "name": "Lonely Nights",
-      "url": "https://open.spotify.com/track/0WNyq9XhfmHMxMhMelh0c0"
-    },
-    {
-      "added_at": "2025-11-13 12:34:14",
-      "album": {
         "name": "Frontiers (2023 Remaster)",
         "url": "https://open.spotify.com/album/3pZ6D15onAaT2YyiTbcHmh"
       },
@@ -587,226 +751,66 @@
     {
       "added_at": "2025-11-13 12:34:14",
       "album": {
-        "name": "Music For Girls Night Out",
-        "url": "https://open.spotify.com/album/0qiop0l73dDZfXckujBG7k"
+        "name": "Chicago 17 (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR"
       },
       "artists": [
         {
-          "name": "Robin Beck",
-          "url": "https://open.spotify.com/artist/0tUERnHmr1tKp2pSwPLN8b"
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
         }
       ],
-      "duration_ms": 196493,
-      "name": "First Time",
-      "url": "https://open.spotify.com/track/1FQ0ecMZMI3ArhcJQPROFP"
+      "duration_ms": 229240,
+      "name": "You're the Inspiration - 2006 Remaster",
+      "url": "https://open.spotify.com/track/36lkJSDyMEZoWTqtRj8Q8q"
     },
     {
       "added_at": "2025-11-13 12:34:14",
       "album": {
-        "name": "You Make Me Feel - The Ballads",
-        "url": "https://open.spotify.com/album/6nUFRklKmzbh0VHzYJYjoB"
+        "name": "Solitude / Solitaire",
+        "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
       },
       "artists": [
         {
-          "name": "Bonfire",
-          "url": "https://open.spotify.com/artist/7gqKcfoY25do9k18uCCgIT"
+          "name": "Peter Cetera",
+          "url": "https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z"
         }
       ],
-      "duration_ms": 284440,
-      "name": "You Make Me Feel",
-      "url": "https://open.spotify.com/track/6ap82DD5UEs3e63CqGiioP"
+      "duration_ms": 258333,
+      "name": "Glory of Love",
+      "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
     },
     {
       "added_at": "2025-11-13 12:34:14",
       "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/4CUSYHYyzqumxIUrCcLDco"
+        "name": "Can't Hold Back",
+        "url": "https://open.spotify.com/album/2gLYQmHLHZhNpTxlnlkXy7"
       },
       "artists": [
         {
-          "name": "Gotthard",
-          "url": "https://open.spotify.com/artist/4DwhNqibDIsxIamSxWb7tQ"
+          "name": "Eddie Money",
+          "url": "https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE"
         }
       ],
-      "duration_ms": 273533,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/6w2q9iV3oJAjcN8cPKNT4a"
+      "duration_ms": 211160,
+      "name": "Take Me Home Tonight",
+      "url": "https://open.spotify.com/track/7b4yGtR0rujvLi5EBfKKJ2"
     },
     {
       "added_at": "2025-11-13 12:34:14",
       "album": {
-        "name": "Rock & Roll Hall of Fame Covers - EP",
-        "url": "https://open.spotify.com/album/2DKXYxXlATCLvg6SVcJsxB"
+        "name": "Last Kiss",
+        "url": "https://open.spotify.com/album/11BDZR6NRHwPiPy1WQr4Jf"
       },
       "artists": [
         {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 180066,
-      "name": "A Teenager in Love - 2012 Remaster",
-      "url": "https://open.spotify.com/track/5kuvOXaO2WiHwES81fSeu3"
-    },
-    {
-      "added_at": "2025-11-13 12:34:14",
-      "album": {
-        "name": "Nostradamus",
-        "url": "https://open.spotify.com/album/2k2m2GaoRsa0aDxo6Z2lEQ"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 268333,
-      "name": "Lost Love",
-      "url": "https://open.spotify.com/track/5TrISe7VQxaewmfwX8QPgt"
-    },
-    {
-      "added_at": "2025-11-13 12:34:14",
-      "album": {
-        "name": "Talk Of The Town",
-        "url": "https://open.spotify.com/album/51EMQTTvBXlOWADIP920BC"
-      },
-      "artists": [
-        {
-          "name": "Talk Of The Town",
-          "url": "https://open.spotify.com/artist/0gKdf8iLoLiEmHNXN9BIi7"
-        }
-      ],
-      "duration_ms": 229773,
-      "name": "In the Night",
-      "url": "https://open.spotify.com/track/3vVesn3Ipg8L4gpxPKoy1E"
-    },
-    {
-      "added_at": "2025-11-13 12:34:14",
-      "album": {
-        "name": "Beggars & Thieves",
-        "url": "https://open.spotify.com/album/28J7y3iaUVXhUscbdS0GW9"
-      },
-      "artists": [
-        {
-          "name": "Beggars & Thieves",
-          "url": "https://open.spotify.com/artist/2dK29Nsq8gvhmSUvjvmtBK"
-        }
-      ],
-      "duration_ms": 308973,
-      "name": "Your Love Is in Vain",
-      "url": "https://open.spotify.com/track/3feSg8pPsHu1oP2rmpE7VR"
-    },
-    {
-      "added_at": "2025-11-13 12:34:14",
-      "album": {
-        "name": "Time's Makin' Changes: The Best Of Tesla",
-        "url": "https://open.spotify.com/album/2FJ0CYfIvogvi1gV6dH8Gl"
-      },
-      "artists": [
-        {
-          "name": "Tesla",
-          "url": "https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU"
-        }
-      ],
-      "duration_ms": 309773,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/7yvhqx2bIMDdUS3LHXAX8C"
-    },
-    {
-      "added_at": "2025-11-13 12:34:14",
-      "album": {
-        "name": "Walkin' The Razor's Edge",
-        "url": "https://open.spotify.com/album/6bLC4Ik5DP9E0nrPCNs4Sh"
-      },
-      "artists": [
-        {
-          "name": "Helix",
-          "url": "https://open.spotify.com/artist/7JF6mRd5N8LzsKugg4rcSG"
-        }
-      ],
-      "duration_ms": 243733,
-      "name": "(Make Me Do) Anything You Want",
-      "url": "https://open.spotify.com/track/0fWTGqNoC0nsbhA0aRAkDf"
-    },
-    {
-      "added_at": "2025-11-13 12:34:14",
-      "album": {
-        "name": "Welcome To The Ball",
-        "url": "https://open.spotify.com/album/2rWyVAXsfcoI4XFb7K55LB"
-      },
-      "artists": [
-        {
-          "name": "Vicious Rumors",
-          "url": "https://open.spotify.com/artist/5qF6qgroDoDIKpPChRqhX3"
-        }
-      ],
-      "duration_ms": 298653,
-      "name": "When Love Comes Down",
-      "url": "https://open.spotify.com/track/0oL5l7aGG4aPdCAkZX6kkv"
-    },
-    {
-      "added_at": "2025-11-13 12:34:14",
-      "album": {
-        "name": "Deep Red Shadows",
-        "url": "https://open.spotify.com/album/1QrUzM5pPKepY3fmrKHUJ4"
-      },
-      "artists": [
-        {
-          "name": "Lillian Axe",
-          "url": "https://open.spotify.com/artist/72iycfDchBBTdhODzAETUw"
-        }
-      ],
-      "duration_ms": 200813,
-      "name": "The Day I Met You",
-      "url": "https://open.spotify.com/track/6hEgSpJP09IPGNASvcFX0n"
-    },
-    {
-      "added_at": "2025-11-13 12:34:14",
-      "album": {
-        "name": "Unusual Heat",
-        "url": "https://open.spotify.com/album/3AYjkl69eLyXjoKGh7Cxi2"
-      },
-      "artists": [
-        {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "duration_ms": 273466,
-      "name": "Safe in My Heart",
-      "url": "https://open.spotify.com/track/7z93deiuycP6O9PHsKoTmt"
-    },
-    {
-      "added_at": "2025-11-13 12:34:14",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/18rxnaBFaD00W29OCpIOo9"
-      },
-      "artists": [
-        {
-          "name": "Enuff Z'Nuff",
-          "url": "https://open.spotify.com/artist/2Y36dqR145FjTKUjibEcjO"
-        }
-      ],
-      "duration_ms": 230826,
-      "name": "Fly High Michelle",
-      "url": "https://open.spotify.com/track/6wUR8lnkxuQUeHa0rJOolR"
-    },
-    {
-      "added_at": "2025-11-13 12:34:14",
-      "album": {
-        "name": "Private Eyes",
-        "url": "https://open.spotify.com/album/60f00wYSgef6dPaJbo2lf1"
-      },
-      "artists": [
-        {
-          "name": "Tommy Bolin",
-          "url": "https://open.spotify.com/artist/5FCC6oo9PupahFuLGEPdMB"
-        }
-      ],
-      "duration_ms": 216666,
-      "name": "Hello, Again",
-      "url": "https://open.spotify.com/track/6KdQTIVUmKRlMsQcC0pmbS"
+      "duration_ms": 195466,
+      "name": "Last Kiss",
+      "url": "https://open.spotify.com/track/0QnONzv3TvHAWk294h6DaQ"
     }
   ],
   "unique_name": "Rock Love Songs",

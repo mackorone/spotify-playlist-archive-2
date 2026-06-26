@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover:   Tyla",
+  "description": "Tracks popping off in the Afro scene. Cover:   Adekunle Gold x Yam\u00ea",
   "name": "Afro Station",
   "tracks": [
     {
@@ -1420,7 +1420,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 175275,
       "name": "Anita",
       "url": "https://open.spotify.com/track/7lqZW9De8s6tOrUSGFiPhh"
@@ -4238,7 +4238,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 126153,
       "name": "C'est moi",
       "url": "https://open.spotify.com/track/2RPGbCAcOvJwqzcm4vpYOL"
@@ -5840,7 +5840,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 168312,
       "name": "Coup\u00e9",
       "url": "https://open.spotify.com/track/7hyoqFb1SsoPW96pcOndPM"
@@ -6754,6 +6754,24 @@
       "duration_ms": 205333,
       "name": "Dirty Whine",
       "url": "https://open.spotify.com/track/1aKFp4DRTAUuVJWSutQ47D"
+    },
+    {
+      "album": {
+        "name": "Dis moi o\u00f9 t'es",
+        "url": "https://open.spotify.com/album/2hIS5MlBTcflTDW4vgUT1M"
+      },
+      "artists": [
+        {
+          "name": "Kurtys",
+          "url": "https://open.spotify.com/artist/732YXWHf1cGFf2CufOIHsU"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130485,
+      "name": "Dis moi o\u00f9 t'es",
+      "url": "https://open.spotify.com/track/1xwsyWKGaVaRXkEZS88rDR"
     },
     {
       "album": {
@@ -8767,6 +8785,24 @@
     },
     {
       "album": {
+        "name": "ATOM II",
+        "url": "https://open.spotify.com/album/6RvwiBdC6WFuKyQuc7FE86"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157487,
+      "name": "Feel Am",
+      "url": "https://open.spotify.com/track/7yzAJ1TZp7unjQGwOgE6Fi"
+    },
+    {
+      "album": {
         "name": "BUTiFLY",
         "url": "https://open.spotify.com/album/2xvYJb8vpUxIvzmUTeleQ3"
       },
@@ -8994,7 +9030,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 195375,
       "name": "fine ting (fine $hit)",
       "url": "https://open.spotify.com/track/06fhryffT3VPtv8v8r8EPK"
@@ -9410,7 +9446,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 156666,
       "name": "Formation",
       "url": "https://open.spotify.com/track/687RJSOAS8xDed1hoFxum1"
@@ -10983,6 +11019,32 @@
     },
     {
       "album": {
+        "name": "I Know Who I Be",
+        "url": "https://open.spotify.com/album/7dR22XlVbfSAhTSltPiU7g"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "JAZZWRLD",
+          "url": "https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz"
+        },
+        {
+          "name": "GL_Ceejay",
+          "url": "https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233976,
+      "name": "I Know Who I Be",
+      "url": "https://open.spotify.com/track/1TglprKNjHw9rmTNgVZpUu"
+    },
+    {
+      "album": {
         "name": "i think i love you 2",
         "url": "https://open.spotify.com/album/2P3HUjiMqIuzFNFUaGSIQ9"
       },
@@ -11082,7 +11144,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 157241,
       "name": "I'M OK",
       "url": "https://open.spotify.com/track/2f04CjDwGwX0QBHso7qdy5"
@@ -11901,6 +11963,24 @@
     },
     {
       "album": {
+        "name": "JAMAIS CHANG\u00c9",
+        "url": "https://open.spotify.com/album/2QxbI7fOl6Bf90Mt7d8jJy"
+      },
+      "artists": [
+        {
+          "name": "Ocevne",
+          "url": "https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172171,
+      "name": "JAMAIS CHANG\u00c9",
+      "url": "https://open.spotify.com/track/5Dp27TXunm7jCjeKU2tyPL"
+    },
+    {
+      "album": {
         "name": "Jamming",
         "url": "https://open.spotify.com/album/7oJhbulsOpn1cGRIlFWouL"
       },
@@ -12072,6 +12152,24 @@
       "duration_ms": 172736,
       "name": "Jies",
       "url": "https://open.spotify.com/track/6dmuFoJ8jYh7kzai2twWNo"
+    },
+    {
+      "album": {
+        "name": "JIGGLE",
+        "url": "https://open.spotify.com/album/0MlvZhXLMS6Q0gZlVeY11R"
+      },
+      "artists": [
+        {
+          "name": "Chella",
+          "url": "https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128495,
+      "name": "JIGGLE",
+      "url": "https://open.spotify.com/track/6kSNvau2G1L3qxsyMB3LaT"
     },
     {
       "album": {
@@ -12344,7 +12442,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 177087,
       "name": "Juice & Liquor",
       "url": "https://open.spotify.com/track/4isHpjM4xVhRI74vGjUm4R"
@@ -13354,7 +13452,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 158017,
       "name": "Lets Go",
       "url": "https://open.spotify.com/track/5M9h9QcZIodUWPZ5neMSGe"
@@ -14300,6 +14398,28 @@
       "duration_ms": 132385,
       "name": "Luvin It",
       "url": "https://open.spotify.com/track/15IiH9MIKo0moBwzZMSjoB"
+    },
+    {
+      "album": {
+        "name": "LYNA",
+        "url": "https://open.spotify.com/album/4rqyOXZ0fycFvV4THYD3Q8"
+      },
+      "artists": [
+        {
+          "name": "Jeady Jay",
+          "url": "https://open.spotify.com/artist/4hXDK6hpOhP5dW2kuWZ6my"
+        },
+        {
+          "name": "Lyna Mahyem",
+          "url": "https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130126,
+      "name": "LYNA",
+      "url": "https://open.spotify.com/track/2ZizTkAYMGtjOXeGCAziZY"
     },
     {
       "album": {
@@ -15518,6 +15638,24 @@
       "duration_ms": 154866,
       "name": "Miss Des Miss",
       "url": "https://open.spotify.com/track/2Qexnj9p4HuIbEljqrjlce"
+    },
+    {
+      "album": {
+        "name": "BACK 2 BACK",
+        "url": "https://open.spotify.com/album/7Bc60xCdm3tna3M8n6s1sK"
+      },
+      "artists": [
+        {
+          "name": "Yorssy",
+          "url": "https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132833,
+      "name": "MISS DES MISS",
+      "url": "https://open.spotify.com/track/76z3Qyexa0tKqqDnSbqmQw"
     },
     {
       "album": {
@@ -17987,6 +18125,28 @@
     },
     {
       "album": {
+        "name": "On my mind",
+        "url": "https://open.spotify.com/album/43w6KiIP8mCiOCc1RFVcvT"
+      },
+      "artists": [
+        {
+          "name": "Yam\u00ea",
+          "url": "https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163994,
+      "name": "On my mind",
+      "url": "https://open.spotify.com/track/6gKQMPemGGxgdCgeqNMBBp"
+    },
+    {
+      "album": {
         "name": "On s'aimait",
         "url": "https://open.spotify.com/album/7tXdwCx8oqavTVUfqOc3JA"
       },
@@ -19146,7 +19306,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 150000,
       "name": "Phony",
       "url": "https://open.spotify.com/track/7nrJHvsmJqtN6Ue41GJX88"
@@ -21202,7 +21362,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 173658,
       "name": "Sesi",
       "url": "https://open.spotify.com/track/3Ov8MLsFdrNDcSp4KzdLhi"
@@ -23526,7 +23686,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 174823,
       "name": "Tornado",
       "url": "https://open.spotify.com/track/5c2ns82nxF2pg59M5DkuSM"
@@ -23764,6 +23924,42 @@
       "duration_ms": 155860,
       "name": "Traboski",
       "url": "https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE"
+    },
+    {
+      "album": {
+        "name": "KING COAL",
+        "url": "https://open.spotify.com/album/6KPqebNAhpIVGeDzjaATxr"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 6",
+      "url": "https://open.spotify.com/track/4erCeMYq7wsuiKTpBF69hH"
+    },
+    {
+      "album": {
+        "name": "Farasha / \u0641\u0631\u0627\u0634\u0629",
+        "url": "https://open.spotify.com/album/5o214igdQdbjhVlAnd6ukf"
+      },
+      "artists": [
+        {
+          "name": "Inez",
+          "url": "https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 8",
+      "url": "https://open.spotify.com/track/403VWu7hrDm7JMKtBBzbBI"
     },
     {
       "album": {
@@ -24804,6 +25000,28 @@
       "duration_ms": 150733,
       "name": "Wayeh",
       "url": "https://open.spotify.com/track/037wIgLisUOMSRfLRrB38O"
+    },
+    {
+      "album": {
+        "name": "WDYS ( WHAT DO YOU SAY?)",
+        "url": "https://open.spotify.com/album/0BfwkaCSKlirg87yQVIxFY"
+      },
+      "artists": [
+        {
+          "name": "Scridge",
+          "url": "https://open.spotify.com/artist/6fYEeLBc96CguiLq9FPBQU"
+        },
+        {
+          "name": "Came Beats",
+          "url": "https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141734,
+      "name": "WDYS ( WHAT DO YOU SAY?)",
+      "url": "https://open.spotify.com/track/0D1DLIH9Xe9tkt12B9fGqQ"
     },
     {
       "album": {

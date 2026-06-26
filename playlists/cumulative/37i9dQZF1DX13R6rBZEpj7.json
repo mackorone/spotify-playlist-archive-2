@@ -899,6 +899,24 @@
     },
     {
       "album": {
+        "name": "Best Friend",
+        "url": "https://open.spotify.com/album/0Kf0SbD4p0drib6dIcY8cX"
+      },
+      "artists": [
+        {
+          "name": "Chad Harrison",
+          "url": "https://open.spotify.com/artist/0JVUKTXdvxf1IhktrBchZP"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/2TvOWFkcU1DwAsjDmaXGMg"
+    },
+    {
+      "album": {
         "name": "Big Truck",
         "url": "https://open.spotify.com/album/090rtFIJpMnIczAXQWlHmi"
       },
@@ -3710,7 +3728,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 153152,
       "name": "I'm Not Deep in Love",
       "url": "https://open.spotify.com/track/5dHsal8Ud0vreWyCSOuNy7"
@@ -4580,6 +4598,32 @@
       "duration_ms": 256603,
       "name": "Lights",
       "url": "https://open.spotify.com/track/0ObQeoS1Mka9as8t4Tn9BC"
+    },
+    {
+      "album": {
+        "name": "Little Bitta This",
+        "url": "https://open.spotify.com/album/3sTmICLlDJWDkXjHnQDuq1"
+      },
+      "artists": [
+        {
+          "name": "Neumonic",
+          "url": "https://open.spotify.com/artist/2vmS0sFSxIZccEf510Xb52"
+        },
+        {
+          "name": "Morty",
+          "url": "https://open.spotify.com/artist/4DKdpWEp7Np8enpUyOdgLD"
+        },
+        {
+          "name": "Melvyn",
+          "url": "https://open.spotify.com/artist/0KdHrIqg805HwRwdxTMhjK"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204315,
+      "name": "Little Bitta This",
+      "url": "https://open.spotify.com/track/103VBFW68H11jOksxaI73S"
     },
     {
       "album": {
@@ -8058,7 +8102,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 155772,
       "name": "Ur Number",
       "url": "https://open.spotify.com/track/3xijz9hc74Negf2y3QgjWn"

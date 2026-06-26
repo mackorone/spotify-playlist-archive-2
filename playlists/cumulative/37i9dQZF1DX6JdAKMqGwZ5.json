@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: Cupido.",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: Alba Morena.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -378,7 +378,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 162666,
       "name": "A Jap\u00f3n",
       "url": "https://open.spotify.com/track/2TG0Ih59AmeZ5fwzOnpOIR"
@@ -403,6 +403,28 @@
     },
     {
       "album": {
+        "name": "A la luz del d\u00eda",
+        "url": "https://open.spotify.com/album/01vdyTu8VNAkcqyXvEJOkE"
+      },
+      "artists": [
+        {
+          "name": "Ters",
+          "url": "https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB"
+        },
+        {
+          "name": "Ciao Marina",
+          "url": "https://open.spotify.com/artist/2Xhr9xrjtvIj1mmkUDUUTo"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186228,
+      "name": "A la luz del d\u00eda",
+      "url": "https://open.spotify.com/track/3w8m7jZjY2JDbwam1A5bFb"
+    },
+    {
+      "album": {
         "name": "A partir de ahora",
         "url": "https://open.spotify.com/album/4FhlpOHfHQGY0OQLaNjzjv"
       },
@@ -418,6 +440,24 @@
       "duration_ms": 240000,
       "name": "A partir de ahora",
       "url": "https://open.spotify.com/track/5HSMsppVuiUt7iAQd4Uzzk"
+    },
+    {
+      "album": {
+        "name": "Aa Amor",
+        "url": "https://open.spotify.com/album/2fLJbbhSsUrnbrVsKUNJsM"
+      },
+      "artists": [
+        {
+          "name": "GOMZ",
+          "url": "https://open.spotify.com/artist/7BLezVBmCyG6aFk101o7vA"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170531,
+      "name": "Aa Amor",
+      "url": "https://open.spotify.com/track/48u1Y5A6hRgu442M6qK0lx"
     },
     {
       "album": {
@@ -862,6 +902,24 @@
       "duration_ms": 206068,
       "name": "ALGO-RITMO",
       "url": "https://open.spotify.com/track/2n0GhbR961I6c20JUjQz1A"
+    },
+    {
+      "album": {
+        "name": "Alguien Habr\u00e1",
+        "url": "https://open.spotify.com/album/49kgk3acNciC3tcSwyVA2g"
+      },
+      "artists": [
+        {
+          "name": "Alba Morena",
+          "url": "https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156867,
+      "name": "Alguien Habr\u00e1",
+      "url": "https://open.spotify.com/track/06fi0UOJyE9PPsOvsfbTUQ"
     },
     {
       "album": {
@@ -1656,7 +1714,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 163334,
       "name": "Besties",
       "url": "https://open.spotify.com/track/4pfCVtnZQH2sidvNcjQ7ap"
@@ -2610,7 +2668,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 207000,
       "name": "Como el aire (3/4)",
       "url": "https://open.spotify.com/track/6XYJj9Ruh7kZ4U2FyJNbEK"
@@ -3012,7 +3070,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 168837,
       "name": "Cr\u00edtico",
       "url": "https://open.spotify.com/track/1zICyrfOQraVDMZapEEc9a"
@@ -3038,6 +3096,24 @@
       "duration_ms": 131071,
       "name": "CUANDO HABLES DE AMOR",
       "url": "https://open.spotify.com/track/11KZnk4XbaeYZrRZTGJcHM"
+    },
+    {
+      "album": {
+        "name": "Cuando pienso en el amor",
+        "url": "https://open.spotify.com/album/015wPGBYBHPlTDLLIrMPeT"
+      },
+      "artists": [
+        {
+          "name": "Paco Moreno",
+          "url": "https://open.spotify.com/artist/1yLrA8a9c6qikBV0THGnux"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149534,
+      "name": "Cuando pienso en el amor",
+      "url": "https://open.spotify.com/track/3SpThre9G5zKJBORhrcQDO"
     },
     {
       "album": {
@@ -3150,7 +3226,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 195083,
       "name": "c\u00f3mo?",
       "url": "https://open.spotify.com/track/4VG1qvz7k4ivLsNqP3dIpX"
@@ -5797,6 +5873,28 @@
     },
     {
       "album": {
+        "name": "FLORES EN EL ASFALTO",
+        "url": "https://open.spotify.com/album/5yQP9vQrbP7GBncWX7aoIa"
+      },
+      "artists": [
+        {
+          "name": "Pamela Rodriguez",
+          "url": "https://open.spotify.com/artist/0xSlY9GBehjuViqWE1KrMC"
+        },
+        {
+          "name": "Abraham Boba",
+          "url": "https://open.spotify.com/artist/6O0NjGbFbvtz6QqBD8nhZk"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "FLORES EN EL ASFALTO",
+      "url": "https://open.spotify.com/track/1Gcfv2I9I2zl5rTyqzgd9q"
+    },
+    {
+      "album": {
         "name": "Flow deskiciada",
         "url": "https://open.spotify.com/album/7emrmUiVMMj5sQ3xt02d0Z"
       },
@@ -6140,7 +6238,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 166907,
       "name": "Gran V\u00eda",
       "url": "https://open.spotify.com/track/0yOuyyJdRw9WquTcTKi0Lt"
@@ -7190,7 +7288,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 175312,
       "name": "La Balada Final",
       "url": "https://open.spotify.com/track/1IDDxwuErbgUjTEbbRbNUq"
@@ -7624,6 +7722,28 @@
       "duration_ms": 149687,
       "name": "La Tarara",
       "url": "https://open.spotify.com/track/5BIaKkjMyMCf9rp0LXDNUE"
+    },
+    {
+      "album": {
+        "name": "La tormenta (feat. MERINO)",
+        "url": "https://open.spotify.com/album/2l0VoLgJXSi6mHFuH4BP1e"
+      },
+      "artists": [
+        {
+          "name": "Elem",
+          "url": "https://open.spotify.com/artist/4Ld1TuG5yea5RoYMLBNOVT"
+        },
+        {
+          "name": "MERINO",
+          "url": "https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177899,
+      "name": "La tormenta - feat. MERINO",
+      "url": "https://open.spotify.com/track/5wxzj0ftGRYUqWXoX6UaRH"
     },
     {
       "album": {
@@ -8880,7 +9000,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 203150,
       "name": "Mayo",
       "url": "https://open.spotify.com/track/3kTFEKvTMFpVtSp9X7kJYB"
@@ -11428,7 +11548,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 214565,
       "name": "papel mach\u00e9",
       "url": "https://open.spotify.com/track/46E7G0KBbKsLCHm96dulv4"
@@ -11836,6 +11956,24 @@
       "duration_ms": 192214,
       "name": "PIRRI",
       "url": "https://open.spotify.com/track/4PKnU6PICOeVRSJYVYDBDz"
+    },
+    {
+      "album": {
+        "name": "Plantas y Barro",
+        "url": "https://open.spotify.com/album/1I7hWm9BrKJrFjPpGHTFlH"
+      },
+      "artists": [
+        {
+          "name": "El \u00daltimo Vecino",
+          "url": "https://open.spotify.com/artist/7pMvkMVRImOSDAicV69zAX"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Plantas y Barro",
+      "url": "https://open.spotify.com/track/6ustzGBhuVPvdMj0TofSiM"
     },
     {
       "album": {
@@ -13106,6 +13244,24 @@
       "duration_ms": 126000,
       "name": "Se siente bien",
       "url": "https://open.spotify.com/track/3bVTNz3OwCutKR6q24jIF9"
+    },
+    {
+      "album": {
+        "name": "ex/cusas",
+        "url": "https://open.spotify.com/album/5jHtHGicQinajiAzIcjd5j"
+      },
+      "artists": [
+        {
+          "name": "Farga",
+          "url": "https://open.spotify.com/artist/17O0sOUnzCVMrJyKrKLYY7"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "se te ve feliz",
+      "url": "https://open.spotify.com/track/7L9ct6NyuHjrU3tO12CJWZ"
     },
     {
       "album": {
@@ -14882,6 +15038,24 @@
       "duration_ms": 160124,
       "name": "TRABAJAR EN VERANO",
       "url": "https://open.spotify.com/track/6lTJGk4VIeMViR74OiCzsT"
+    },
+    {
+      "album": {
+        "name": "SI CANTARA EN ESPA\u00d1OL SERIA ASI",
+        "url": "https://open.spotify.com/album/7GIdsjbTKl1O4ZfMtzyT3f"
+      },
+      "artists": [
+        {
+          "name": "Thals",
+          "url": "https://open.spotify.com/artist/1LDF2JIDwCRoESyjnp7xns"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 6",
+      "url": "https://open.spotify.com/track/32WTUR6LfPmJIIDvve93CG"
     },
     {
       "album": {

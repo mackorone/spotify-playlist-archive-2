@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: MIDNIGHT COWBOY
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,406 likes - 103 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,409 likes - 103 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 102 | [Martyr\#1](https://open.spotify.com/track/6cMAWahZmQfn57wmxGcxfM) | [David Boring](https://open.spotify.com/artist/3jlBKVMzOyLuwLWxkkiwKj) | [Martyr\#1](https://open.spotify.com/album/4x08OFLQ71g3UsVGpT3p0C) | 5:39 |
 | 103 | [冬的夢寐](https://open.spotify.com/track/1wD2Wl5F1xskWui8M0AcSt) | [before the night ends](https://open.spotify.com/artist/4AGHDyw984Ss54AzrGeTgU) | [冬的夢寐](https://open.spotify.com/album/4gbET4VtnjuFsJAoTMRal2) | 3:25 |
 
-Snapshot ID: `AAAAABEouHNVUxYN5u59onlnGLqHXys6`
+Snapshot ID: `AAAAAPGQGxS/FN5a8T/oaVOzi2tZn+eH`

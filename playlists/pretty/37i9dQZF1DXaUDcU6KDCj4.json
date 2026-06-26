@@ -1,6 +1,6 @@
 {
   "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Tiny Habits",
-  "num_followers": 876641,
+  "num_followers": 876624,
   "original_name": "Fresh Folk",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,386 @@
   },
   "snapshot_id": "AAAAAJAyHy9PQLxbo2D2x7c1jeISDFJ1",
   "tracks": [
+    {
+      "added_at": "2026-06-26 04:01:52",
+      "album": {
+        "name": "Sweet Fortune",
+        "url": "https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "duration_ms": 221595,
+      "name": "Virtuoso",
+      "url": "https://open.spotify.com/track/2RtNoFR37ieZtxShQ5BSSI"
+    },
+    {
+      "added_at": "2026-06-26 04:01:52",
+      "album": {
+        "name": "Lost Boys",
+        "url": "https://open.spotify.com/album/7lJZpDWPKrfLjiY17OmwhP"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 254614,
+      "name": "Lost Boys",
+      "url": "https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI"
+    },
+    {
+      "added_at": "2026-06-26 04:01:52",
+      "album": {
+        "name": "Too Young to Die",
+        "url": "https://open.spotify.com/album/7b9deG3fNXBxkptJEyUW6r"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Traffic Jam",
+          "url": "https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7"
+        }
+      ],
+      "duration_ms": 233506,
+      "name": "Too Young to Die",
+      "url": "https://open.spotify.com/track/5oCG2Xp4fJlm1UGVhsCFQZ"
+    },
+    {
+      "added_at": "2026-06-26 04:01:52",
+      "album": {
+        "name": "YOUNG REGAN",
+        "url": "https://open.spotify.com/album/7odkdCGZcEFevFilZZIjn9"
+      },
+      "artists": [
+        {
+          "name": "Ethan Regan",
+          "url": "https://open.spotify.com/artist/3UNkRVGHGCrGCE0930Bt9e"
+        }
+      ],
+      "duration_ms": 156444,
+      "name": "each man has got a bullet",
+      "url": "https://open.spotify.com/track/7AKQaChEENrHqW2Fo1v9Bz"
+    },
+    {
+      "added_at": "2026-06-26 04:01:52",
+      "album": {
+        "name": "Ride Lonesome (feat. Sierra Ferrell)",
+        "url": "https://open.spotify.com/album/4ProrUSimVgRttzO0LfZRj"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 264256,
+      "name": "Ride Lonesome (feat. Sierra Ferrell)",
+      "url": "https://open.spotify.com/track/2lWk9Ik4LSAYKNGwBn86yJ"
+    },
+    {
+      "added_at": "2026-06-26 04:01:52",
+      "album": {
+        "name": "Billy Came Back",
+        "url": "https://open.spotify.com/album/5PWPGFNrbIuXQoLcI8FsAe"
+      },
+      "artists": [
+        {
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        }
+      ],
+      "duration_ms": 189148,
+      "name": "Billy Came Back",
+      "url": "https://open.spotify.com/track/4llSkj7K4ekT5wzcLKd4C5"
+    },
+    {
+      "added_at": "2026-06-26 04:01:52",
+      "album": {
+        "name": "Baby Steps",
+        "url": "https://open.spotify.com/album/172FBTtpqNv9blWGkjgmvP"
+      },
+      "artists": [
+        {
+          "name": "Quadeca",
+          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
+        }
+      ],
+      "duration_ms": 238658,
+      "name": "Baby Steps",
+      "url": "https://open.spotify.com/track/40eANvl45mhgwEHL5pHHSn"
+    },
+    {
+      "added_at": "2026-06-26 04:01:52",
+      "album": {
+        "name": "The Swell",
+        "url": "https://open.spotify.com/album/5B3s2wHvYBUrZIzo5J5C8y"
+      },
+      "artists": [
+        {
+          "name": "Amble",
+          "url": "https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI"
+        }
+      ],
+      "duration_ms": 207959,
+      "name": "The Swell",
+      "url": "https://open.spotify.com/track/6QUuLk63S1azIQbmDEvpfS"
+    },
+    {
+      "added_at": "2026-06-26 04:01:52",
+      "album": {
+        "name": "High and Sad (Franklin Jonas & The Byzantines and Noah Cyrus)",
+        "url": "https://open.spotify.com/album/3V8p1AudNH1yX4w85oAP61"
+      },
+      "artists": [
+        {
+          "name": "Franklin Jonas",
+          "url": "https://open.spotify.com/artist/0CiDBbLe1R6VLQ4wXgRHoV"
+        },
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 203666,
+      "name": "High and Sad (Franklin Jonas & The Byzantines and Noah Cyrus)",
+      "url": "https://open.spotify.com/track/31Ftr30QFl7erwqvegVSlU"
+    },
+    {
+      "added_at": "2026-06-26 04:01:52",
+      "album": {
+        "name": "Gravedigger",
+        "url": "https://open.spotify.com/album/3ljvoeP8qxZvC5Q5b85STU"
+      },
+      "artists": [
+        {
+          "name": "Josie Edwards",
+          "url": "https://open.spotify.com/artist/70876OxjZoMWimkWA2Iduq"
+        }
+      ],
+      "duration_ms": 166301,
+      "name": "Gravedigger",
+      "url": "https://open.spotify.com/track/4cpwbQ87rrbKM9d7acnPmr"
+    },
+    {
+      "added_at": "2026-06-26 04:01:52",
+      "album": {
+        "name": "Let's Go Far",
+        "url": "https://open.spotify.com/album/5jsjBaaoJSikABi2MU2KiC"
+      },
+      "artists": [
+        {
+          "name": "Phillip Phillips",
+          "url": "https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4"
+        }
+      ],
+      "duration_ms": 250251,
+      "name": "Let's Go Far",
+      "url": "https://open.spotify.com/track/1fZk46A71ZcfVtFJXYfJ6F"
+    },
+    {
+      "added_at": "2026-06-26 04:01:52",
+      "album": {
+        "name": "Pott County Call Return",
+        "url": "https://open.spotify.com/album/7GAv2cFaZtrsA3Y0n4vc7R"
+      },
+      "artists": [
+        {
+          "name": "Samantha Crain",
+          "url": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
+        },
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Pott County Call Return",
+      "url": "https://open.spotify.com/track/6zMCkV4gYuZghI8nztjUMe"
+    },
+    {
+      "added_at": "2026-06-26 04:01:52",
+      "album": {
+        "name": "Carolina Rain",
+        "url": "https://open.spotify.com/album/0wCYTR5q0kBkdXc8ROcXix"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "duration_ms": 256426,
+      "name": "Carolina Rain",
+      "url": "https://open.spotify.com/track/7DLuMk0PrnTQt8BE3GK3WY"
+    },
+    {
+      "added_at": "2026-06-26 04:01:52",
+      "album": {
+        "name": "Late for the Sky",
+        "url": "https://open.spotify.com/album/7LbUbKYjuR35KgrKWgc2hI"
+      },
+      "artists": [
+        {
+          "name": "Ken Pomeroy",
+          "url": "https://open.spotify.com/artist/0iGCVyBwI59sh7Nejb8wrF"
+        }
+      ],
+      "duration_ms": 229226,
+      "name": "Late for the Sky",
+      "url": "https://open.spotify.com/track/5WXTlVB2sQdBQtcYaQ1AsQ"
+    },
+    {
+      "added_at": "2026-06-26 04:01:52",
+      "album": {
+        "name": "Maggie",
+        "url": "https://open.spotify.com/album/4OmNQi3AudOnWKdhTQpkD7"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Coleman",
+          "url": "https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV"
+        }
+      ],
+      "duration_ms": 212861,
+      "name": "Maggie",
+      "url": "https://open.spotify.com/track/4a2r6VPZAbFcSX1qf0Aw74"
+    },
+    {
+      "added_at": "2026-06-26 04:01:52",
+      "album": {
+        "name": "Heavy Meadow",
+        "url": "https://open.spotify.com/album/1MYepGZb30Prv8rd9paIRL"
+      },
+      "artists": [
+        {
+          "name": "Georgia Gets By",
+          "url": "https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9"
+        }
+      ],
+      "duration_ms": 286013,
+      "name": "Lean Into The Hill",
+      "url": "https://open.spotify.com/track/6vYO7UphrLGyCuQUs9621A"
+    },
+    {
+      "added_at": "2026-06-26 04:01:52",
+      "album": {
+        "name": "Counting",
+        "url": "https://open.spotify.com/album/61AJBKlwuWFuUkG7w1ZEnC"
+      },
+      "artists": [
+        {
+          "name": "Anna Shoemaker",
+          "url": "https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4"
+        }
+      ],
+      "duration_ms": 218366,
+      "name": "Counting",
+      "url": "https://open.spotify.com/track/3NWOWcypy2u5Vc23hFi9FM"
+    },
+    {
+      "added_at": "2026-06-26 04:01:52",
+      "album": {
+        "name": "Cozy & Twisted, Vol. 1 \"Grandma's Favorites\"",
+        "url": "https://open.spotify.com/album/7kbJrZxnpBhq8br9Lxsr3g"
+      },
+      "artists": [
+        {
+          "name": "King Tuff",
+          "url": "https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI"
+        }
+      ],
+      "duration_ms": 175163,
+      "name": "Turtles World",
+      "url": "https://open.spotify.com/track/5uXsVdfwHsLmVsYNsCNU4J"
+    },
+    {
+      "added_at": "2026-06-26 04:01:52",
+      "album": {
+        "name": "Landfill Poetry",
+        "url": "https://open.spotify.com/album/4LezWbrFvunM8kh3TAaHTb"
+      },
+      "artists": [
+        {
+          "name": "Riley Downing",
+          "url": "https://open.spotify.com/artist/1CUUaD4QTSHjEfrLohLaW6"
+        }
+      ],
+      "duration_ms": 222367,
+      "name": "Landfill Poetry",
+      "url": "https://open.spotify.com/track/4nbqsmjQn0SkCRFSsBbmxu"
+    },
+    {
+      "added_at": "2026-06-26 04:01:52",
+      "album": {
+        "name": "Seaside",
+        "url": "https://open.spotify.com/album/0dtPMEhlRYUYWJaAniHw3U"
+      },
+      "artists": [
+        {
+          "name": "Lila Dupont",
+          "url": "https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32"
+        }
+      ],
+      "duration_ms": 241418,
+      "name": "Seaside",
+      "url": "https://open.spotify.com/track/79jGCYxBWFM6vAJSlpHCHB"
+    },
+    {
+      "added_at": "2026-06-26 04:01:52",
+      "album": {
+        "name": "Autosmile",
+        "url": "https://open.spotify.com/album/0TkVOCI5fcQPt6mbFT2jil"
+      },
+      "artists": [
+        {
+          "name": "@",
+          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
+        }
+      ],
+      "duration_ms": 399026,
+      "name": "Autosmile",
+      "url": "https://open.spotify.com/track/74wiS51Xagi78GpoStA7hr"
+    },
+    {
+      "added_at": "2026-06-26 04:01:52",
+      "album": {
+        "name": "Box Store",
+        "url": "https://open.spotify.com/album/6XncKjOsZLWWAd7x4bZoW2"
+      },
+      "artists": [
+        {
+          "name": "Wild Pink",
+          "url": "https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ"
+        }
+      ],
+      "duration_ms": 158600,
+      "name": "Box Store",
+      "url": "https://open.spotify.com/track/2Gz6xg1P7AxKfPgML46aUa"
+    },
+    {
+      "added_at": "2026-06-26 04:01:52",
+      "album": {
+        "name": "You Are Spring!",
+        "url": "https://open.spotify.com/album/10FoDGoTLJ1fmOwpLbJRjT"
+      },
+      "artists": [
+        {
+          "name": "Tasha",
+          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
+        }
+      ],
+      "duration_ms": 276546,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/6XMIGkfs34gxTn0lBRBKQT"
+    },
     {
       "added_at": "2026-06-19 04:01:43",
       "album": {
@@ -2255,222 +2635,6 @@
       "duration_ms": 231117,
       "name": "Upstate",
       "url": "https://open.spotify.com/track/6Swl911DmwTVxG8FtcVa25"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "Where\u2019s Your Love Now (Waxahatchee Version)",
-        "url": "https://open.spotify.com/album/1pnhU7gq3vrxKaq8cWkNs3"
-      },
-      "artists": [
-        {
-          "name": "This Is Lorelei",
-          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
-        },
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 321140,
-      "name": "Where\u2019s Your Love Now - Waxahatchee Version",
-      "url": "https://open.spotify.com/track/5hLbAu2TGDhiwhvebzY5cv"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "No Driver",
-        "url": "https://open.spotify.com/album/1mtcNZvxU9QfWH9RmUkOrH"
-      },
-      "artists": [
-        {
-          "name": "Widowspeak",
-          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
-        }
-      ],
-      "duration_ms": 228840,
-      "name": "No Driver",
-      "url": "https://open.spotify.com/track/2Md8LNHMvHDN8Ed4GwRCw3"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "Pale Blue Eyes",
-        "url": "https://open.spotify.com/album/1TXPiNt8GDt6UCXI7kT0yk"
-      },
-      "artists": [
-        {
-          "name": "Sydney Ross Mitchell",
-          "url": "https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr"
-        }
-      ],
-      "duration_ms": 213147,
-      "name": "Pale Blue Eyes",
-      "url": "https://open.spotify.com/track/4TvmANoYjSYuYk6oXkiG29"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "Dandelions",
-        "url": "https://open.spotify.com/album/0ehkiwlcpGfMa7ylNvPS7z"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Kemplay",
-          "url": "https://open.spotify.com/artist/4hPxGC5HIlcK36XGqoYCpZ"
-        }
-      ],
-      "duration_ms": 211059,
-      "name": "Dandelions",
-      "url": "https://open.spotify.com/track/1pcdYtroFnCW20yfUJxffT"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "Two People, the Moon",
-        "url": "https://open.spotify.com/album/1xGPWJsyJ0M1bePeyAxl3q"
-      },
-      "artists": [
-        {
-          "name": "Johanna Samuels",
-          "url": "https://open.spotify.com/artist/3NsEv68AsYdjKdCJ4AhHTa"
-        }
-      ],
-      "duration_ms": 174674,
-      "name": "Two People, the Moon",
-      "url": "https://open.spotify.com/track/69LHT5HZDqQdQs2iCheD32"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "Siri, Cancel My Plans",
-        "url": "https://open.spotify.com/album/4rSCTsEKef4LHsPP7UE9UT"
-      },
-      "artists": [
-        {
-          "name": "Jack Van Cleaf",
-          "url": "https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk"
-        }
-      ],
-      "duration_ms": 183813,
-      "name": "Siri, Cancel My Plans",
-      "url": "https://open.spotify.com/track/3nHAw1ypqCG5wS51ipil5i"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "Poltergeist",
-        "url": "https://open.spotify.com/album/7c1JLKyLXwFNN7X7kPhoud"
-      },
-      "artists": [
-        {
-          "name": "Genevieve Stokes",
-          "url": "https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ"
-        }
-      ],
-      "duration_ms": 225005,
-      "name": "Poltergeist",
-      "url": "https://open.spotify.com/track/5AKcgWgeoNk2cuad2MEffF"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "Badlands",
-        "url": "https://open.spotify.com/album/0lMhnhcPMq08GzLqgu9Kw9"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 234159,
-      "name": "Badlands",
-      "url": "https://open.spotify.com/track/0uGdGEN2qDOFQ8mmkIuWyA"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "Tragic Magic",
-        "url": "https://open.spotify.com/album/7oLX84jA6AHnCyELknktHA"
-      },
-      "artists": [
-        {
-          "name": "Matt Corby",
-          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-        }
-      ],
-      "duration_ms": 271087,
-      "name": "Maker",
-      "url": "https://open.spotify.com/track/2OX9uITulRbPtILYQ2totl"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "On My Own",
-        "url": "https://open.spotify.com/album/4cSBzZucKih37AdrzGvFkL"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 275519,
-      "name": "On My Own",
-      "url": "https://open.spotify.com/track/5OFGjQaMRex7vfrHPruQZj"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "Fade Into You",
-        "url": "https://open.spotify.com/album/1hBXcVtSiaYkflIiqjQfAV"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        },
-        {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
-        }
-      ],
-      "duration_ms": 269875,
-      "name": "Fade Into You",
-      "url": "https://open.spotify.com/track/37kGpZDrqQekpIQswHYHw6"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "Dark and Stormy",
-        "url": "https://open.spotify.com/album/4PnsPNH41o40lO1TjXZufB"
-      },
-      "artists": [
-        {
-          "name": "The Brudi Brothers",
-          "url": "https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K"
-        }
-      ],
-      "duration_ms": 193146,
-      "name": "Silver Wave",
-      "url": "https://open.spotify.com/track/5dsWR4AuIjIVi5DWj7slaB"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "Pink Living Room",
-        "url": "https://open.spotify.com/album/6Sua86pFF6JuJzns3XEeRs"
-      },
-      "artists": [
-        {
-          "name": "Bella White",
-          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
-        }
-      ],
-      "duration_ms": 236739,
-      "name": "Pink Living Room",
-      "url": "https://open.spotify.com/track/1Eu49CiR5D5x85kymc70ar"
     }
   ],
   "unique_name": "Fresh Folk",

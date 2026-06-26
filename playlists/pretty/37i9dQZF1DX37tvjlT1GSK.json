@@ -1,6 +1,6 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Kane Rodriguez, T3R Elemento en cover.",
-  "num_followers": 826441,
+  "num_followers": 826497,
   "original_name": "Sierre\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,22 @@
     {
       "added_at": "2026-05-08 09:18:16",
       "album": {
+        "name": "The Life in Your Eyes",
+        "url": "https://open.spotify.com/album/7hnH4pDgMDP4veSuZ7Uxlz"
+      },
+      "artists": [
+        {
+          "name": "Los Del Limit",
+          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
+        }
+      ],
+      "duration_ms": 175124,
+      "name": "Amor Fugaz",
+      "url": "https://open.spotify.com/track/4O2bxKTnK9En7OPw8kGDDF"
+    },
+    {
+      "added_at": "2026-05-08 09:18:16",
+      "album": {
         "name": "Da\u00f1ado",
         "url": "https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 197091,
       "name": "Elvira",
       "url": "https://open.spotify.com/track/1xgWArLVFD1AKsLzftZYc2"
-    },
-    {
-      "added_at": "2026-05-08 09:18:16",
-      "album": {
-        "name": "The Life in Your Eyes",
-        "url": "https://open.spotify.com/album/7hnH4pDgMDP4veSuZ7Uxlz"
-      },
-      "artists": [
-        {
-          "name": "Los Del Limit",
-          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
-        }
-      ],
-      "duration_ms": 175124,
-      "name": "Amor Fugaz",
-      "url": "https://open.spotify.com/track/4O2bxKTnK9En7OPw8kGDDF"
     },
     {
       "added_at": "2026-05-08 09:18:16",
@@ -919,6 +919,22 @@
     {
       "added_at": "2026-05-08 09:18:16",
       "album": {
+        "name": "DEV, Vol. 2",
+        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 189408,
+      "name": "Ya Acabo",
+      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
+    },
+    {
+      "added_at": "2026-05-08 09:18:16",
+      "album": {
         "name": "Porque Te Vas",
         "url": "https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 230795,
       "name": "Porque Te Vas",
       "url": "https://open.spotify.com/track/0lpxDRCONr2FJRqcM3Q74z"
-    },
-    {
-      "added_at": "2026-05-08 09:18:16",
-      "album": {
-        "name": "DEV, Vol. 2",
-        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 189408,
-      "name": "Ya Acabo",
-      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
     },
     {
       "added_at": "2026-05-08 09:18:16",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-05-08 09:18:16",
       "album": {
-        "name": "Si Me Ven",
-        "url": "https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 174432,
-      "name": "Si Me Ven",
-      "url": "https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh"
-    },
-    {
-      "added_at": "2026-05-08 09:18:16",
-      "album": {
         "name": "A Puro Dolor",
         "url": "https://open.spotify.com/album/54bkVDCc7dG3QpIvFePi4a"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 168086,
       "name": "A Puro Dolor",
       "url": "https://open.spotify.com/track/1rXxK89X0XGpIdTB6CwiFu"
+    },
+    {
+      "added_at": "2026-05-08 09:18:16",
+      "album": {
+        "name": "Si Me Ven",
+        "url": "https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 174432,
+      "name": "Si Me Ven",
+      "url": "https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh"
     },
     {
       "added_at": "2026-05-08 09:18:16",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2026-05-08 09:18:16",
       "album": {
+        "name": "No Eramos Pobres",
+        "url": "https://open.spotify.com/album/7ARAFCNn8qdAmGRfjve01g"
+      },
+      "artists": [
+        {
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+        }
+      ],
+      "duration_ms": 176111,
+      "name": "No Eramos Pobres",
+      "url": "https://open.spotify.com/track/5hAVXQydK0GXiTEJ8sRe0b"
+    },
+    {
+      "added_at": "2026-05-08 09:18:16",
+      "album": {
         "name": "Cuando Te Acuerdes De Mi (En Vivo)",
         "url": "https://open.spotify.com/album/3c985F15MGQkPkUlCBPj79"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 187250,
       "name": "Cuando Te Acuerdes De Mi (En Vivo)",
       "url": "https://open.spotify.com/track/1pQrVutT9kzgLavLMUFubD"
-    },
-    {
-      "added_at": "2026-05-08 09:18:16",
-      "album": {
-        "name": "No Eramos Pobres",
-        "url": "https://open.spotify.com/album/7ARAFCNn8qdAmGRfjve01g"
-      },
-      "artists": [
-        {
-          "name": "Juan Freer",
-          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
-        }
-      ],
-      "duration_ms": 176111,
-      "name": "No Eramos Pobres",
-      "url": "https://open.spotify.com/track/5hAVXQydK0GXiTEJ8sRe0b"
     },
     {
       "added_at": "2026-05-08 09:18:16",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2026-05-08 09:18:16",
       "album": {
-        "name": "ME PORTO BONITO",
-        "url": "https://open.spotify.com/album/24ZfOunWyvWR3mcAEvg8mN"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 182750,
-      "name": "ME PORTO BONITO",
-      "url": "https://open.spotify.com/track/6utwmYBwLhVwxCGsZEfG0i"
-    },
-    {
-      "added_at": "2026-05-08 09:18:16",
-      "album": {
         "name": "Cuando La Vida Sea Trago",
         "url": "https://open.spotify.com/album/6YNMH9MWTeqbfw4fS6zH5x"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 173000,
       "name": "Cuando La Vida Sea Trago",
       "url": "https://open.spotify.com/track/2H9XdwA9tD3riAXZmRHBgs"
+    },
+    {
+      "added_at": "2026-05-08 09:18:16",
+      "album": {
+        "name": "ME PORTO BONITO",
+        "url": "https://open.spotify.com/album/24ZfOunWyvWR3mcAEvg8mN"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 182750,
+      "name": "ME PORTO BONITO",
+      "url": "https://open.spotify.com/track/6utwmYBwLhVwxCGsZEfG0i"
     },
     {
       "added_at": "2026-05-08 09:18:16",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2026-05-08 09:18:16",
       "album": {
-        "name": "CUANDO SE ACABE EL TIEMPO",
-        "url": "https://open.spotify.com/album/6HGYuGJSPyusItg6CnOBM4"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00fal Beltran",
-          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
-        }
-      ],
-      "duration_ms": 212678,
-      "name": "CUANDO SE ACABE EL TIEMPO",
-      "url": "https://open.spotify.com/track/7wHVwHUYy2IPQjele1yTV8"
-    },
-    {
-      "added_at": "2026-05-08 09:18:16",
-      "album": {
         "name": "GPI",
         "url": "https://open.spotify.com/album/2LiLs8qxydyzsPigYWtBA9"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 159683,
       "name": "Uno mas Uno Igual a Zero",
       "url": "https://open.spotify.com/track/3TrePR8cFXMlMvlLD9lapD"
+    },
+    {
+      "added_at": "2026-05-08 09:18:16",
+      "album": {
+        "name": "CUANDO SE ACABE EL TIEMPO",
+        "url": "https://open.spotify.com/album/6HGYuGJSPyusItg6CnOBM4"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        }
+      ],
+      "duration_ms": 212678,
+      "name": "CUANDO SE ACABE EL TIEMPO",
+      "url": "https://open.spotify.com/track/7wHVwHUYy2IPQjele1yTV8"
     },
     {
       "added_at": "2026-05-08 09:18:16",
@@ -1927,18 +1927,18 @@
     {
       "added_at": "2026-05-08 09:18:16",
       "album": {
-        "name": "Fotograf\u00edas",
-        "url": "https://open.spotify.com/album/12po6xUW81fl2Zm6rn4D0S"
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/3ZbYDSja58714wMC2XO5kl"
       },
       "artists": [
         {
-          "name": "Aldo Trujillo",
-          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
         }
       ],
-      "duration_ms": 198037,
-      "name": "Fotograf\u00edas",
-      "url": "https://open.spotify.com/track/18LLAuP9ZqWPFsRNja3TuU"
+      "duration_ms": 136182,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/6iCsgZgikqbQSOLbpEK5R5"
     },
     {
       "added_at": "2026-05-08 09:18:16",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2026-05-08 09:18:16",
       "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/3ZbYDSja58714wMC2XO5kl"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 136182,
-      "name": "Flores",
-      "url": "https://open.spotify.com/track/6iCsgZgikqbQSOLbpEK5R5"
-    },
-    {
-      "added_at": "2026-05-08 09:18:16",
-      "album": {
         "name": "Buenas Rachas",
         "url": "https://open.spotify.com/album/18pfoIprtoyL7UZ0r5aJ2e"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 153655,
       "name": "Buenas Rachas",
       "url": "https://open.spotify.com/track/3Tsa2DGBB3HkNk27J7nsnI"
+    },
+    {
+      "added_at": "2026-05-08 09:18:16",
+      "album": {
+        "name": "Fotograf\u00edas",
+        "url": "https://open.spotify.com/album/12po6xUW81fl2Zm6rn4D0S"
+      },
+      "artists": [
+        {
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
+        }
+      ],
+      "duration_ms": 198037,
+      "name": "Fotograf\u00edas",
+      "url": "https://open.spotify.com/track/18LLAuP9ZqWPFsRNja3TuU"
     },
     {
       "added_at": "2026-05-08 09:18:16",

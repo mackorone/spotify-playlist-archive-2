@@ -2,23 +2,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 ### [planet rave](https://open.spotify.com/playlist/37i9dQZF1DWW1XLSH8Oafp)
 
-> ur on the list bb 🪐 featuring jigitz
+> ur on the list bb 🪐 featuring Seah
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,063 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,046 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [thumbs](https://open.spotify.com/track/6vBfayVtFTjDg7eGKNPbrS) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ), [Lamb](https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io) | [thumbs](https://open.spotify.com/album/49sl0vtr7UGlAlqPNi1UG8) | 2:50 |
 | 2 | [heaven/jealous \- Crybaby’s Angel Edit](https://open.spotify.com/track/2yNRgEJE7fPKvtibLyVGY7) | [Orchid](https://open.spotify.com/artist/6QOxGQVxMhHHeljjU5dIvV), [Crybaby](https://open.spotify.com/artist/68sTQgQtPe9e4Bb7OtoqET) | [heaven/jealous \(Crybaby’s Angel Edit\)](https://open.spotify.com/album/6En6M2rhNas8V8vk2ohVyE) | 3:07 |
 | 3 | [Blind](https://open.spotify.com/track/0HgCPFrL49BKiQv6WSJlMG) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg), [DJ Traytex](https://open.spotify.com/artist/6mrd6VB8APeUr5ATWunRZX) | [Blind](https://open.spotify.com/album/7kUK8G239qBQV4rbdAwL8V) | 3:11 |
-| 4 | [Imagination](https://open.spotify.com/track/1eZVcDPxhC6lMYJvUZrmOy) | [DOREY](https://open.spotify.com/artist/5P7dSJOFqnDQ3oY1Q7z0id), [Amy Wiles](https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Imagination](https://open.spotify.com/album/0GmTEDii8a1j4O8geUc1LG) | 3:42 |
-| 5 | [notime…](https://open.spotify.com/track/6qL1c0iuEhxV8a1Rt1l3ww) | [finnjävel](https://open.spotify.com/artist/5YQtvxTvGSShjMTOMyCuPT), [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [notime…youshouldbeaskingmeout](https://open.spotify.com/album/3thIn4T4XksDxTHEU1rExU) | 2:19 |
-| 6 | [All I Need](https://open.spotify.com/track/6fVRAfmDvvJdKkrCtz1qyr) | [Dan Newman](https://open.spotify.com/artist/296GJlzwXU8DbRChCX9OXF) | [All I Need](https://open.spotify.com/album/0Gv6eBcciB7FSYx6mG68D2) | 4:02 |
-| 7 | [Space Lover](https://open.spotify.com/track/0KBcxs5d1w9xjCUSczfKXA) | [Seah](https://open.spotify.com/artist/1TpMVu71X4YNKNi7E1HBNO), [Whos Fault](https://open.spotify.com/artist/4Biuvz61tKXgbVNUH4uTDS) | [Space Lover](https://open.spotify.com/album/5O61UmgWh4iGLHiDaVFnBt) | 4:05 |
-| 8 | [Obsessed](https://open.spotify.com/track/2yNe0KpyIimbKYeIhWrdKF) | [Jersey](https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ) | [Obsessed](https://open.spotify.com/album/5Temir79WPxflPU00Tv4Qp) | 3:46 |
-| 9 | [A Thousand Lies](https://open.spotify.com/track/1rinB6g47GjC1NlJj5NKHq) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4), [Saidah](https://open.spotify.com/artist/18ddrVSTx9Y6FZIiXFG7IU) | [A Thousand Lies](https://open.spotify.com/album/1Pr9UwNTdIvqhb4Q7kKfR3) | 4:44 |
-| 10 | [dream about u \- EUROCLUB Remix](https://open.spotify.com/track/4DEZlLCOrVdZBcpkNadwfQ) | [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH), [EUROCLUB](https://open.spotify.com/artist/0O4Hy2bjefsM76Enm55XkR) | [dream about u \(EUROCLUB Remix\)](https://open.spotify.com/album/3it2gEPKSQf7AVAZTYXRiB) | 3:26 |
-| 11 | [Stop Me Now](https://open.spotify.com/track/6UaWppmgyoRH9svCwFmzAr) | [Melo Nada](https://open.spotify.com/artist/7axOBN2EOcKsN9mRnvTKmI), [k8 Smurf](https://open.spotify.com/artist/3Lp5ukuF2128XV8G3v8y8X) | [Stop Me Now](https://open.spotify.com/album/0L9OUlRFAXiSEzqdVp8ANQ) | 3:02 |
+| 4 | [Space Lover](https://open.spotify.com/track/0KBcxs5d1w9xjCUSczfKXA) | [Seah](https://open.spotify.com/artist/1TpMVu71X4YNKNi7E1HBNO), [Whos Fault](https://open.spotify.com/artist/4Biuvz61tKXgbVNUH4uTDS) | [Space Lover](https://open.spotify.com/album/5O61UmgWh4iGLHiDaVFnBt) | 4:05 |
+| 5 | [Imagination](https://open.spotify.com/track/1eZVcDPxhC6lMYJvUZrmOy) | [DOREY](https://open.spotify.com/artist/5P7dSJOFqnDQ3oY1Q7z0id), [Amy Wiles](https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Imagination](https://open.spotify.com/album/0GmTEDii8a1j4O8geUc1LG) | 3:42 |
+| 6 | [notime…](https://open.spotify.com/track/6qL1c0iuEhxV8a1Rt1l3ww) | [finnjävel](https://open.spotify.com/artist/5YQtvxTvGSShjMTOMyCuPT), [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [notime…youshouldbeaskingmeout](https://open.spotify.com/album/3thIn4T4XksDxTHEU1rExU) | 2:19 |
+| 7 | [All I Need](https://open.spotify.com/track/6fVRAfmDvvJdKkrCtz1qyr) | [Dan Newman](https://open.spotify.com/artist/296GJlzwXU8DbRChCX9OXF) | [All I Need](https://open.spotify.com/album/0Gv6eBcciB7FSYx6mG68D2) | 4:02 |
+| 8 | [Stop Me Now](https://open.spotify.com/track/6UaWppmgyoRH9svCwFmzAr) | [Melo Nada](https://open.spotify.com/artist/7axOBN2EOcKsN9mRnvTKmI), [k8 Smurf](https://open.spotify.com/artist/3Lp5ukuF2128XV8G3v8y8X) | [Stop Me Now](https://open.spotify.com/album/0L9OUlRFAXiSEzqdVp8ANQ) | 3:02 |
+| 9 | [Obsessed](https://open.spotify.com/track/2yNe0KpyIimbKYeIhWrdKF) | [Jersey](https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ) | [Obsessed](https://open.spotify.com/album/5Temir79WPxflPU00Tv4Qp) | 3:46 |
+| 10 | [A Thousand Lies](https://open.spotify.com/track/1rinB6g47GjC1NlJj5NKHq) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4), [Saidah](https://open.spotify.com/artist/18ddrVSTx9Y6FZIiXFG7IU) | [A Thousand Lies](https://open.spotify.com/album/1Pr9UwNTdIvqhb4Q7kKfR3) | 4:44 |
+| 11 | [dream about u \- EUROCLUB Remix](https://open.spotify.com/track/4DEZlLCOrVdZBcpkNadwfQ) | [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH), [EUROCLUB](https://open.spotify.com/artist/0O4Hy2bjefsM76Enm55XkR) | [dream about u \(EUROCLUB Remix\)](https://open.spotify.com/album/3it2gEPKSQf7AVAZTYXRiB) | 3:26 |
 | 12 | [car crash](https://open.spotify.com/track/47z8JPQCgjtRcFqt1kUyoA) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [car crash](https://open.spotify.com/album/1lP8AhonyWZZKNgnEcjSV0) | 2:40 |
 | 13 | [higher](https://open.spotify.com/track/7oCzr7jdTHh3OSYTFxoVsb) | [boy 2000](https://open.spotify.com/artist/352jxy0PhVlrH05EHE78LV) | [higher](https://open.spotify.com/album/52VbP0EmUW0Xwp6GOmoIBS) | 1:59 |
 | 14 | [Lose My Mind](https://open.spotify.com/track/0MaXDIUSHkVaAdy0tXokh5) | [Kiimi](https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Lose My Mind](https://open.spotify.com/album/02nESuAGbJmRZ7241OVBVm) | 4:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 99 | [Somebody Else](https://open.spotify.com/track/5K9UgcPMw6y4PkQkLqwHu7) | [Eyezic](https://open.spotify.com/artist/1mUQNkBHUAOOesB3vc9p97), [demotapes](https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X) | [Somebody Else](https://open.spotify.com/album/0OpZ6W4gMnByrUkMQIKPBS) | 2:01 |
 | 100 | [LUV IN AI <3](https://open.spotify.com/track/4xJSHMFHcppRSMvugndnII) | [BBY GOOSE](https://open.spotify.com/artist/6ECQtn213gfr2RnbL6x7pa) | [STARGIRL SYSTEM](https://open.spotify.com/album/5KXUQYbJdOKos13LT6LcIl) | 3:37 |
 
-Snapshot ID: `AAAAAIv2unS7l0AnrCorkWG5ga1Ka4Z3`
+Snapshot ID: `AAAAAF5erUp1cVE0QiXy4mrgZIHeCruQ`

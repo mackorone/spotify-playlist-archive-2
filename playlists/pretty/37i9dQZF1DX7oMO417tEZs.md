@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > ⁺‧₊˚ ཐིA curated space for the avant\-garde⋆ཋྀ ˚₊‧⁺ Cover: HALO
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,377 likes - 68 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,388 likes - 68 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

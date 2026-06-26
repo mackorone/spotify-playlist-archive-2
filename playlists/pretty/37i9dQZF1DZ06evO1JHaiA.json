@@ -1,12 +1,12 @@
 {
   "description": "This is The Intruders. The essential tracks, all in one playlist.",
-  "num_followers": 3121,
+  "num_followers": 3120,
   "original_name": "This Is The Intruders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajnMgAAAAAAwtQcxa/MXh8UO6A8ys6E2",
+  "snapshot_id": "ajseAAAAAAB4wFxuYtMwIRqMKbLT6KR6",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of The Intruders: Cowboys To Girls",
-        "url": "https://open.spotify.com/album/3ByQcl2cmBljF8Ydu74Ry3"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 244906,
-      "name": "Mother and Child Reunion",
-      "url": "https://open.spotify.com/track/6sAPnlY46Dq0f2LqlWcRTx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "When We Get Married",
         "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 225027,
       "name": "This Is My Love Song",
       "url": "https://open.spotify.com/track/6mSL08tLN782o4iw4PR1Ou"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of The Intruders: Cowboys To Girls",
+        "url": "https://open.spotify.com/album/3ByQcl2cmBljF8Ydu74Ry3"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 244906,
+      "name": "Mother and Child Reunion",
+      "url": "https://open.spotify.com/track/6sAPnlY46Dq0f2LqlWcRTx"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ben-Lee Recordings 1963-65",
-        "url": "https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec"
+        "name": "Old Town Doo Wop, Vol. 5",
+        "url": "https://open.spotify.com/album/5Lv8TMJkF1HYwoAyyJOuuF"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 133413,
-      "name": "Dance Boy",
-      "url": "https://open.spotify.com/track/3ldpPfTpKMP4eksHXWW25A"
+      "duration_ms": 139726,
+      "name": "Just to Be",
+      "url": "https://open.spotify.com/track/7BvoAUxstGc6Ssmc592bTG"
     },
     {
       "added_at": null,
@@ -596,70 +596,6 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 161413,
-      "name": "Tender (Was The Love We Knew)",
-      "url": "https://open.spotify.com/track/7M6mfBANj32qorIc9aAM4Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let's Go Instro",
-        "url": "https://open.spotify.com/album/2TRMwS7hcYepMtwbU1QOd1"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 135800,
-      "name": "Rockamaroll",
-      "url": "https://open.spotify.com/track/5hWwB1t4DZHyyoFJ7O7oyl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ben-Lee Recordings 1963-65",
-        "url": "https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 153786,
-      "name": "But You Belong to Me",
-      "url": "https://open.spotify.com/track/1gBgLPr9FPSNWcphljszz1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Old Town Doo Wop, Vol. 5",
-        "url": "https://open.spotify.com/album/5Lv8TMJkF1HYwoAyyJOuuF"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 139726,
-      "name": "Just to Be",
-      "url": "https://open.spotify.com/track/7BvoAUxstGc6Ssmc592bTG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "When We Get Married",
-        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
       "duration_ms": 169201,
       "name": "Best Days of My Life",
       "url": "https://open.spotify.com/track/0ICwP1Ql94VflS9VMD8kwQ"
@@ -676,9 +612,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 165813,
-      "name": "I'm Glad Your're My Girl",
-      "url": "https://open.spotify.com/track/2H6diTdJOS5SjxEvZJCa4q"
+      "duration_ms": 133413,
+      "name": "Dance Boy",
+      "url": "https://open.spotify.com/track/3ldpPfTpKMP4eksHXWW25A"
     },
     {
       "added_at": null,
@@ -699,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Let's Go Instro",
+        "url": "https://open.spotify.com/album/2TRMwS7hcYepMtwbU1QOd1"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 135800,
+      "name": "Rockamaroll",
+      "url": "https://open.spotify.com/track/5hWwB1t4DZHyyoFJ7O7oyl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "When We Get Married",
         "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
       },
@@ -708,9 +660,57 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 156049,
-      "name": "Wonder What Kind of Bag She's In",
-      "url": "https://open.spotify.com/track/5WBPxOgZd0PPx3DVylUCQE"
+      "duration_ms": 161413,
+      "name": "Tender (Was The Love We Knew)",
+      "url": "https://open.spotify.com/track/7M6mfBANj32qorIc9aAM4Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ben-Lee Recordings 1963-65",
+        "url": "https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 165813,
+      "name": "I'm Glad Your're My Girl",
+      "url": "https://open.spotify.com/track/2H6diTdJOS5SjxEvZJCa4q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When We Get Married",
+        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 166126,
+      "name": "I Didn't Know",
+      "url": "https://open.spotify.com/track/61j8TzAwSBSiSwHpJRuo68"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ben-Lee Recordings 1963-65",
+        "url": "https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 153786,
+      "name": "But You Belong to Me",
+      "url": "https://open.spotify.com/track/1gBgLPr9FPSNWcphljszz1"
     },
     {
       "added_at": null,

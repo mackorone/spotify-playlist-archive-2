@@ -4939,6 +4939,24 @@
     },
     {
       "album": {
+        "name": "fallin",
+        "url": "https://open.spotify.com/album/6spqu7rqcmI7Gc9HsDtfLx"
+      },
+      "artists": [
+        {
+          "name": "abelon",
+          "url": "https://open.spotify.com/artist/6RknJW6TTU6TQfTZDptOui"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202977,
+      "name": "fallin",
+      "url": "https://open.spotify.com/track/0FcTnflhVHisRm90hZaFnC"
+    },
+    {
+      "album": {
         "name": "Falling (D'Opera)",
         "url": "https://open.spotify.com/album/42hsP1tzWAXNo4kpD24csQ"
       },
@@ -19887,6 +19905,28 @@
     },
     {
       "album": {
+        "name": "What A Life",
+        "url": "https://open.spotify.com/album/6Ad7E2sBgst9CrKF6kUZf2"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Florence Arman",
+          "url": "https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189398,
+      "name": "What A Life (feat. Florence Arman)",
+      "url": "https://open.spotify.com/track/5zX4JjkoT2pgvlWPnjgVNQ"
+    },
+    {
+      "album": {
         "name": "what happens next",
         "url": "https://open.spotify.com/album/4kGPS2b7Z527m0RVAXGwCz"
       },
@@ -20878,6 +20918,28 @@
       "duration_ms": 215983,
       "name": "You",
       "url": "https://open.spotify.com/track/4UUA57IJP5b5N2lJEOJD3g"
+    },
+    {
+      "album": {
+        "name": "You & I (feat. Diana Goldberg)",
+        "url": "https://open.spotify.com/album/3f2HyLD5XQzfwkWGMo9xoY"
+      },
+      "artists": [
+        {
+          "name": "Tim Bell",
+          "url": "https://open.spotify.com/artist/13AFo4856ytys2f6kQqAlY"
+        },
+        {
+          "name": "Diana Goldberg",
+          "url": "https://open.spotify.com/artist/0FSc1VcYTT0NQ5u9f5Hmpk"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121818,
+      "name": "You & I (feat. Diana Goldberg)",
+      "url": "https://open.spotify.com/track/4iJZtPojK9D4Rn4wtZyyFg"
     },
     {
       "album": {

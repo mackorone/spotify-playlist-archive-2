@@ -2,9 +2,9 @@
 
 ### [RADAR SG & MY](https://open.spotify.com/playlist/37i9dQZF1DX8tjzQw0If3c)
 
-> Introducing RADAR Singapore & Malaysia Class of 2026\. Cover: Alpha
+> Introducing RADAR Singapore & Malaysia Class of 2026\. Cover: Celine Wanyi
 
-322 songs - 17 hr 34 min
+323 songs - 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Feel The Same](https://open.spotify.com/track/0b7U8X4OjpeJ3HHK7Cw6DN) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB), [ANNÉ](https://open.spotify.com/artist/0mI2naVcev6UnXkXKmG4kf) | [Feel The Same](https://open.spotify.com/album/5ccdTJgc6HTvHCGfrranhV) | 2:52 | 2024-06-27 | 2024-12-05 |
 | [Feel The Same](https://open.spotify.com/track/2e6RKDGy1H8eZXqAkMxZA2) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB), [ANNÉ](https://open.spotify.com/artist/0mI2naVcev6UnXkXKmG4kf) | [Feel The Same](https://open.spotify.com/album/7pIB5u9qoSnakys0SgUQho) | 2:52 | 2024-12-04 | 2025-04-16 |
 | [Find My Way](https://open.spotify.com/track/5HXyUHV7K2OmRoYQ0sVFa7) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F) | [HAVEN](https://open.spotify.com/album/2KTbD8VsM0CsyunwTvofAC) | 2:44 | 2025-02-13 | 2025-04-16 |
+| [Flowers in June](https://open.spotify.com/track/5KcPziZTjRQUiEHFv4zAwW) | [Celine Wanyi](https://open.spotify.com/artist/6TDH7ncjLQmNKM1SdbggnZ) | [Flowers in June](https://open.spotify.com/album/73dWhP9sRHPHmZj0AZIWM9) | 3:18 | 2026-06-25 |  |
 | [FOOLED](https://open.spotify.com/track/1VHJJ9e9cYiYZ2vTeYJCWw) | [Dominic Chin](https://open.spotify.com/artist/1fQk4DNRfj70qf362wV8GQ) | [FOOLED](https://open.spotify.com/album/6XKnNZ3GHLBXdHxD9NNpwW) | 3:38 | 2025-09-26 | 2026-04-07 |
 | [For it's You and Me](https://open.spotify.com/track/0OMNwTkKdMx0adtJZ7EdCZ) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [For it's You and Me](https://open.spotify.com/album/5l1ZgeL2iyryAajOQiGvA7) | 2:33 | 2025-02-13 | 2025-04-16 |
 | [FOR REAL](https://open.spotify.com/track/4kur5V464OTAgBXrGVsQNV) | [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK) | [FOR REAL](https://open.spotify.com/album/2TzyBYYqPp3ZARHD5z0vKL) | 2:41 | 2024-06-27 | 2025-10-17 |

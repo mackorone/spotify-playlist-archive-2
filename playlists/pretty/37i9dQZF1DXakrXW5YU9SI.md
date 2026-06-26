@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Słońce, leżak i letnia błogość w dźwiękach ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,932 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,944 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,13 +38,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 28 | [When I Get Drunk \(I Want You Boy\)](https://open.spotify.com/track/69AtEHHdDYKRgWlO0vwjUY) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [When I Get Drunk \(I Want You Boy\)](https://open.spotify.com/album/7Mjk8VDHv2RD1pEqbMQCd7) | 3:25 |
 | 29 | [we should talk](https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [everyone for ten minutes](https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o) | 3:04 |
 | 30 | [Dwa dni](https://open.spotify.com/track/51NPACvDHPcKsyagJ8y3xE) | [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m) | [ETER](https://open.spotify.com/album/1SzOjjlqWBxvyE1XcfFk3W) | 2:21 |
-| 31 | [wszystko na bursztynowo](https://open.spotify.com/track/36BxwhqydaC791m9yvsb9H) | [Hubert.](https://open.spotify.com/artist/7dlH4L7i8CtRUZMQDSuXqH) | [wszystko na bursztynowo](https://open.spotify.com/album/3p60S20bPwQwDxjHOgyXHT) | 3:27 |
-| 32 | [Stygnie lato](https://open.spotify.com/track/4XeZLZoNzLd1fKxpLTEqE0) | [Kuba i Kuba](https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh) | [Stygnie lato](https://open.spotify.com/album/2DGpH0QbyyUEZYRL88lQxn) | 3:01 |
+| 31 | [Stygnie lato](https://open.spotify.com/track/4XeZLZoNzLd1fKxpLTEqE0) | [Kuba i Kuba](https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh) | [Stygnie lato](https://open.spotify.com/album/2DGpH0QbyyUEZYRL88lQxn) | 3:01 |
+| 32 | [wszystko na bursztynowo](https://open.spotify.com/track/36BxwhqydaC791m9yvsb9H) | [Hubert.](https://open.spotify.com/artist/7dlH4L7i8CtRUZMQDSuXqH) | [wszystko na bursztynowo](https://open.spotify.com/album/3p60S20bPwQwDxjHOgyXHT) | 3:27 |
 | 33 | [Happy Now](https://open.spotify.com/track/3oDgRi2mzumNXRYWoizNOY) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [The Afterparty](https://open.spotify.com/album/3eqH5aQKPKLKD1kFNBczwl) | 2:42 |
-| 34 | [Don't Say That](https://open.spotify.com/track/3y8b3mpLNiQnHvbZU9s2o6) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Don't Say That](https://open.spotify.com/album/1KQv7UmfkzVmNP37rH9JQ6) | 3:30 |
-| 35 | [ZŁY](https://open.spotify.com/track/5ryN2m8kIwAofh31Hafej6) | [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq) | [lekko](https://open.spotify.com/album/6JsrQGjRiVxAFW9p5WMHYQ) | 2:38 |
-| 36 | [Gotham](https://open.spotify.com/track/0z96iKCMr5H0js13xzklJe) | [MECNER](https://open.spotify.com/artist/2JwBk7ukopCrUjaw2mHZQf) | [Gotham](https://open.spotify.com/album/7tAIDXIVVN2IzLOKDPqCEU) | 2:55 |
-| 37 | [Yeti](https://open.spotify.com/track/7DYO7Dj1RlPPnCpXpB5ynK) | [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH), [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [Yeti i W objęciach](https://open.spotify.com/album/6gp2qShAeyYIU02kQpso1u) | 3:20 |
+| 34 | [ZŁY](https://open.spotify.com/track/5ryN2m8kIwAofh31Hafej6) | [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq) | [lekko](https://open.spotify.com/album/6JsrQGjRiVxAFW9p5WMHYQ) | 2:38 |
+| 35 | [Don't Say That](https://open.spotify.com/track/3y8b3mpLNiQnHvbZU9s2o6) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Don't Say That](https://open.spotify.com/album/1KQv7UmfkzVmNP37rH9JQ6) | 3:30 |
+| 36 | [Yeti](https://open.spotify.com/track/7DYO7Dj1RlPPnCpXpB5ynK) | [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH), [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [Yeti i W objęciach](https://open.spotify.com/album/6gp2qShAeyYIU02kQpso1u) | 3:20 |
+| 37 | [Gotham](https://open.spotify.com/track/0z96iKCMr5H0js13xzklJe) | [MECNER](https://open.spotify.com/artist/2JwBk7ukopCrUjaw2mHZQf) | [Gotham](https://open.spotify.com/album/7tAIDXIVVN2IzLOKDPqCEU) | 2:55 |
 | 38 | [Nie ma miejsca jak dom](https://open.spotify.com/track/2W61aot3YavDVRABULNHAy) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX) | [Nie ma miejsca jak dom](https://open.spotify.com/album/2cMSGsICanADztWRLYbEZw) | 3:18 |
 | 39 | [Gecko](https://open.spotify.com/track/1pykMNRzTpl2C7vxfmR1Pc) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm), [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [How dare you tryna love me?](https://open.spotify.com/album/6XDkigtRmlZV90EjNAq9TW) | 2:46 |
 | 40 | [Without You](https://open.spotify.com/track/1EHIhtFlI9cFgAcKuuMGXu) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [Without You](https://open.spotify.com/album/6Elarrs52LqvI6bURFzhRU) | 3:57 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 45 | [Stumilowy las](https://open.spotify.com/track/02AehIZHv9EAaaSb1CC4rE) | [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N) | [Stumilowy las](https://open.spotify.com/album/2pdqY6uB2Zr9sWHbsZzOBd) | 4:42 |
 | 46 | [Czy będziemy się pamiętać?](https://open.spotify.com/track/4WYmfMKeHod1N8Ex321lER) | [Sarsa](https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx) | [Czy będziemy się pamiętać?](https://open.spotify.com/album/1kRRo9t5kgBQTvGnDqBVCR) | 2:50 |
 | 47 | [Optimist](https://open.spotify.com/track/5CKNSvLw4A72l8ZGWD31Jz) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Optimist](https://open.spotify.com/album/36iy6HOYe9tweVVEHJo51b) | 2:56 |
-| 48 | [Nie masz sił to płacz](https://open.spotify.com/track/5NIc6PrM1pmEiRCTRdUSgp) | [Daria ze Śląska](https://open.spotify.com/artist/4I27OgvXt7ILLX2AtbQHO2) | [Halo\. Co jest grane?](https://open.spotify.com/album/3erv5YTUmv5AvVTqnJTEjP) | 3:52 |
-| 49 | [glitter in the night](https://open.spotify.com/track/4JLB0VDIuNsOrZrAIlNri2) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [glitter in the night](https://open.spotify.com/album/561e1X8Xgfwm4RYct6abQ6) | 2:39 |
+| 48 | [glitter in the night](https://open.spotify.com/track/4JLB0VDIuNsOrZrAIlNri2) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [glitter in the night](https://open.spotify.com/album/561e1X8Xgfwm4RYct6abQ6) | 2:39 |
+| 49 | [Nie masz sił to płacz](https://open.spotify.com/track/5NIc6PrM1pmEiRCTRdUSgp) | [Daria ze Śląska](https://open.spotify.com/artist/4I27OgvXt7ILLX2AtbQHO2) | [Halo\. Co jest grane?](https://open.spotify.com/album/3erv5YTUmv5AvVTqnJTEjP) | 3:52 |
 | 50 | [Safari X](https://open.spotify.com/track/2o02L5fM30wexzQGaMPE4X) | [Piotr Zioła](https://open.spotify.com/artist/70W7rQt07eDkynzl9JqHAB), [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [Safari X](https://open.spotify.com/album/6GKw4IBcYGQc1zzmQ87SxC) | 4:25 |
 | 51 | [I'll Never Feel That Young Again](https://open.spotify.com/track/17nKILQNWELsNRGWuTGbpL) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [I'll Never Feel That Young Again](https://open.spotify.com/album/56BrmoyoywierPRlLk98uG) | 3:35 |
 | 52 | [Wiem, co było warto](https://open.spotify.com/track/0XsLHbzCALJc3CUcxIJ33g) | [Ania Karwan](https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4) | [Wiem, co było warto](https://open.spotify.com/album/5qUJoWyDu0FtlMXPO1ORIm) | 3:07 |

@@ -1,12 +1,12 @@
 {
   "description": "This is All Time Low. The essential tracks, all in one playlist.",
-  "num_followers": 178707,
+  "num_followers": 178715,
   "original_name": "This Is All Time Low",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajnMgAAAAABzCGbkFqqjkrAgu0kj+fJP",
+  "snapshot_id": "ajseAAAAAAAIzPtMJ/VBcg8Lm9kzsuGv",
   "tracks": [
     {
       "added_at": null,
@@ -99,22 +99,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Panic: It's Longer Now!",
-        "url": "https://open.spotify.com/album/7b3JowMC8FK0nToMlD4H1d"
+        "name": "Umbrella",
+        "url": "https://open.spotify.com/album/1CFjrFSA35xbgP134I8Xtq"
       },
       "artists": [
         {
           "name": "All Time Low",
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        },
-        {
-          "name": "Vic Fuentes",
-          "url": "https://open.spotify.com/artist/1cIpVfuKuPdekPuNqj3icx"
         }
       ],
-      "duration_ms": 213740,
-      "name": "A Love Like War (feat. Vic Fuentes)",
-      "url": "https://open.spotify.com/track/0TPF6uW7fhMXJPoBERqTy5"
+      "duration_ms": 229853,
+      "name": "Umbrella",
+      "url": "https://open.spotify.com/track/6ZUQhRkFJqiPsOucrXZwS6"
     },
     {
       "added_at": null,
@@ -135,18 +131,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Umbrella",
-        "url": "https://open.spotify.com/album/1CFjrFSA35xbgP134I8Xtq"
+        "name": "Don't Panic: It's Longer Now!",
+        "url": "https://open.spotify.com/album/7b3JowMC8FK0nToMlD4H1d"
       },
       "artists": [
         {
           "name": "All Time Low",
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        },
+        {
+          "name": "Vic Fuentes",
+          "url": "https://open.spotify.com/artist/1cIpVfuKuPdekPuNqj3icx"
         }
       ],
-      "duration_ms": 229853,
-      "name": "Umbrella",
-      "url": "https://open.spotify.com/track/6ZUQhRkFJqiPsOucrXZwS6"
+      "duration_ms": 213740,
+      "name": "A Love Like War (feat. Vic Fuentes)",
+      "url": "https://open.spotify.com/track/0TPF6uW7fhMXJPoBERqTy5"
     },
     {
       "added_at": null,
@@ -167,8 +167,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Future Hearts",
-        "url": "https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I"
+        "name": "Everyone's Talking!",
+        "url": "https://open.spotify.com/album/02l2P4R1Q2FJX0zAaWr1bl"
       },
       "artists": [
         {
@@ -176,9 +176,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 216689,
-      "name": "Kids In The Dark",
-      "url": "https://open.spotify.com/track/50oS45iNMFp7pKIQRAWIUP"
+      "duration_ms": 171553,
+      "name": "The Weather",
+      "url": "https://open.spotify.com/track/6LElFVShkmWQRVNBfj9Zsw"
     },
     {
       "added_at": null,
@@ -199,8 +199,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everyone's Talking!",
-        "url": "https://open.spotify.com/album/02l2P4R1Q2FJX0zAaWr1bl"
+        "name": "Future Hearts",
+        "url": "https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I"
       },
       "artists": [
         {
@@ -208,9 +208,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 171553,
-      "name": "The Weather",
-      "url": "https://open.spotify.com/track/6LElFVShkmWQRVNBfj9Zsw"
+      "duration_ms": 216689,
+      "name": "Kids In The Dark",
+      "url": "https://open.spotify.com/track/50oS45iNMFp7pKIQRAWIUP"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 159281,
-      "name": "Everyone's Talking",
-      "url": "https://open.spotify.com/track/7dU8KE0dkhacGphCn3MRm9"
+      "duration_ms": 172510,
+      "name": "SUCKERPUNCH",
+      "url": "https://open.spotify.com/track/3zbv1mZr0WtBpcF7x7YVqy"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 172510,
-      "name": "SUCKERPUNCH",
-      "url": "https://open.spotify.com/track/3zbv1mZr0WtBpcF7x7YVqy"
+      "duration_ms": 159281,
+      "name": "Everyone's Talking",
+      "url": "https://open.spotify.com/track/7dU8KE0dkhacGphCn3MRm9"
     },
     {
       "added_at": null,

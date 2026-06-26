@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WiFig.md) - [plain]
 
 > This is Aldous Harding\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,944 likes - 37 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,954 likes - 37 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WiFig.md) - [plain]
 | 23 | [Tick Tock](https://open.spotify.com/track/0Q7tKJdvKx6yyJ8qSf6elE) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Warm Chris](https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v) | 3:39 |
 | 24 | [Zoo Eyes](https://open.spotify.com/track/1FuiXO0j9DZh4uG5ywGNYL) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI) | 5:17 |
 | 25 | [Living The Classics](https://open.spotify.com/track/1KB6tYbLki88BjfsnPLuyq) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Party](https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K) | 2:44 |
-| 26 | [Small Bones of Courage](https://open.spotify.com/track/2mhiBVuP20RnLXNQqt7kOj) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Aldous Harding](https://open.spotify.com/album/2gJDTgluXw60rzJqdxuXjD) | 6:15 |
+| 26 | [Three Hours](https://open.spotify.com/track/01QUUwYGVbgIBGVpHdnhu2) | [John Parish](https://open.spotify.com/artist/1UAM4fJFTeyMZbhTVUKiXk), [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Three Hours](https://open.spotify.com/album/6uRl5exouSdzAStQAWZRu9) | 4:32 |
 | 27 | [Lawn](https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Warm Chris](https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v) | 3:37 |
-| 28 | [Three Hours](https://open.spotify.com/track/01QUUwYGVbgIBGVpHdnhu2) | [John Parish](https://open.spotify.com/artist/1UAM4fJFTeyMZbhTVUKiXk), [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Three Hours](https://open.spotify.com/album/6uRl5exouSdzAStQAWZRu9) | 4:32 |
+| 28 | [Small Bones of Courage](https://open.spotify.com/track/2mhiBVuP20RnLXNQqt7kOj) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Aldous Harding](https://open.spotify.com/album/2gJDTgluXw60rzJqdxuXjD) | 6:15 |
 | 29 | [What If Birds Aren't Singing They're Screaming](https://open.spotify.com/track/6Yo9G1UkzGgm3hLoVa9TC1) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Party](https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K) | 3:04 |
 | 30 | [Old Peel](https://open.spotify.com/track/0vuZebTvcwkstUpoo82lpG) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Old Peel](https://open.spotify.com/album/5SdjxVnwwn4w25boDjEmMR) | 3:16 |
 | 31 | [Warm Chris](https://open.spotify.com/track/0iEt07AuGxka9WpxOdyYsP) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Warm Chris](https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v) | 3:46 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WiFig.md) - [plain]
 | 36 | [Revival](https://open.spotify.com/track/0LpPr98XQhD3N7xfEOvVfD) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Revival](https://open.spotify.com/album/0r9WibVLIn1tZ7FxSKH3yn) | 2:17 |
 | 37 | [Elation](https://open.spotify.com/track/0TY3pVvegcVfdQ7nzF2KRP) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Elation](https://open.spotify.com/album/1lm0XRk446YYNyD8mFgunU) | 5:25 |
 
-Snapshot ID: `ajnMgAAAAABdSd8gkmzdvvKCguTjkaXa`
+Snapshot ID: `ajseAAAAAAB0A1UcXxkUHzPywIblG9sD`

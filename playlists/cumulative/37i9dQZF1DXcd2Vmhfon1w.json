@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Reality",
+  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Faenna, gldn hoe, l0rna, LaBlackie.",
   "name": "Rap Espa\u00f1ol",
   "tracks": [
     {
@@ -778,6 +778,28 @@
       "duration_ms": 163062,
       "name": "Al Final del D\u00eda",
       "url": "https://open.spotify.com/track/41ir6O2SvjUrs642RMkouF"
+    },
+    {
+      "album": {
+        "name": "Alano",
+        "url": "https://open.spotify.com/album/6gmckUgX1o56qoOeX8qsPS"
+      },
+      "artists": [
+        {
+          "name": "Al Safir",
+          "url": "https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl"
+        },
+        {
+          "name": "DistrictBeats",
+          "url": "https://open.spotify.com/artist/5ozh1mENQbB4whMtYBhKFe"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149769,
+      "name": "Alano",
+      "url": "https://open.spotify.com/track/5mOcBhCBwjE6MM1dFut7WK"
     },
     {
       "album": {
@@ -3945,6 +3967,36 @@
     },
     {
       "album": {
+        "name": "Cypher Vol.7",
+        "url": "https://open.spotify.com/album/6FM8PrdkbrXUKRCxL6P8Jj"
+      },
+      "artists": [
+        {
+          "name": "Faenna",
+          "url": "https://open.spotify.com/artist/2iLGzMc00PRgD5qP07bP2b"
+        },
+        {
+          "name": "l0rna",
+          "url": "https://open.spotify.com/artist/2kFBKRwutklbaGSKBpc6TS"
+        },
+        {
+          "name": "LaBlackie",
+          "url": "https://open.spotify.com/artist/7Mnggi1j35OsqH4Gkf3AZG"
+        },
+        {
+          "name": "gldn hoe",
+          "url": "https://open.spotify.com/artist/3p97tP9nnFR9ZkJEwkcZFP"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233333,
+      "name": "Cypher Vol.7",
+      "url": "https://open.spotify.com/track/0XjBv5lIhalNZgXF6ltjOG"
+    },
+    {
+      "album": {
         "name": "C\u00cdRCULO VICIOSO",
         "url": "https://open.spotify.com/album/1ScB2GKUreyU4eYkEDb5jq"
       },
@@ -5465,6 +5517,28 @@
     },
     {
       "album": {
+        "name": "Camisa de Fuerza",
+        "url": "https://open.spotify.com/album/2MKNpzPSc7jJF2ZmcxhqNc"
+      },
+      "artists": [
+        {
+          "name": "Kase.O",
+          "url": "https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux"
+        },
+        {
+          "name": "Harto Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/7q9zy1VD126XTDrWcnEqBQ"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260306,
+      "name": "Encantamiento",
+      "url": "https://open.spotify.com/track/5ryq2kLF7FQNJFMlc0dKxk"
+    },
+    {
+      "album": {
         "name": "Luces fuera",
         "url": "https://open.spotify.com/album/4ZdVjircdr00BoV0XoYgh9"
       },
@@ -5628,7 +5702,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 166773,
       "name": "ES AS\u00cd",
       "url": "https://open.spotify.com/track/7BJCw12eTZOambUbPxBrOq"
@@ -6050,7 +6124,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 139169,
       "name": "FELA",
       "url": "https://open.spotify.com/track/3GXfma5RfCzB7nJdvqjQQL"
@@ -6502,7 +6576,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 176745,
       "name": "Gambito de Dama",
       "url": "https://open.spotify.com/track/3rdquykQEyoAOuOjBRCCdn"
@@ -7574,7 +7648,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 198987,
       "name": "Jon Nieve",
       "url": "https://open.spotify.com/track/5cfgZ5HVuBdCgAq5dhjp9v"
@@ -9405,6 +9479,40 @@
     },
     {
       "album": {
+        "name": "Metamorfosis",
+        "url": "https://open.spotify.com/album/32xQ7d5MZWw1D0hW7EM61r"
+      },
+      "artists": [
+        {
+          "name": "Matasvandals",
+          "url": "https://open.spotify.com/artist/77WwIwmDkRo6Frks1A89KM"
+        },
+        {
+          "name": "Mauri",
+          "url": "https://open.spotify.com/artist/1HUtmqHzIj9AbYo1lVqk47"
+        },
+        {
+          "name": "Da Silva",
+          "url": "https://open.spotify.com/artist/5eS4H6PglMQ31lmjIZ2CZZ"
+        },
+        {
+          "name": "KR8Beatz",
+          "url": "https://open.spotify.com/artist/0fsGTARKfkdzdLvLCUVpXn"
+        },
+        {
+          "name": "Mxndxz",
+          "url": "https://open.spotify.com/artist/0N2E0YwshAvPOpw5wUn4e6"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250101,
+      "name": "Mala",
+      "url": "https://open.spotify.com/track/4a2XWY2QdeJOMPy9wouQfw"
+    },
+    {
+      "album": {
         "name": "El Diario del Loco",
         "url": "https://open.spotify.com/album/7syWwlM1w6tBZ98VmLxDq4"
       },
@@ -10736,7 +10844,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 183658,
       "name": "Mucho Gusto",
       "url": "https://open.spotify.com/track/3kabD1GCZGZg8KseX0KAfE"
@@ -11166,6 +11274,28 @@
       "duration_ms": 118894,
       "name": "No Es Extra\u00f1o",
       "url": "https://open.spotify.com/track/5nWHPhHiuVo51jy9P5MRxs"
+    },
+    {
+      "album": {
+        "name": "No Hard Feelings",
+        "url": "https://open.spotify.com/album/5HFqh7ByxzWqQG41FFg6zj"
+      },
+      "artists": [
+        {
+          "name": "Sara Socas",
+          "url": "https://open.spotify.com/artist/3mJRY2eQ5S0cCsZla7vy0d"
+        },
+        {
+          "name": "Santa Salut",
+          "url": "https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149881,
+      "name": "No Hard Feelings",
+      "url": "https://open.spotify.com/track/5AlUy9BAKk0MJNiRIZgAst"
     },
     {
       "album": {
@@ -11992,7 +12122,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 201818,
       "name": "Ori\u00f3n",
       "url": "https://open.spotify.com/track/6gFemPALTHVlnAz7P6sYrM"
@@ -12062,7 +12192,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 156354,
       "name": "Otro dia mas,Pt.4",
       "url": "https://open.spotify.com/track/35a898M4boS3sQfvyrQ46g"
@@ -12510,7 +12640,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 220909,
       "name": "Picholeiro",
       "url": "https://open.spotify.com/track/4LLI5Zjy2U14XL1fFBaGBe"
@@ -14605,6 +14735,24 @@
     },
     {
       "album": {
+        "name": "Si t\u00fa me vuelves a mirar",
+        "url": "https://open.spotify.com/album/1IiXeWXIwXdIiGHq7G51kO"
+      },
+      "artists": [
+        {
+          "name": "Juancho Marqu\u00e9s",
+          "url": "https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229306,
+      "name": "Si t\u00fa me vuelves a mirar",
+      "url": "https://open.spotify.com/track/1gV6Tju5lwvxsGF61fP0wk"
+    },
+    {
+      "album": {
         "name": "Si Vuelves Tarde",
         "url": "https://open.spotify.com/album/4ahcq4UXDopr8ArOjFYZX4"
       },
@@ -16270,6 +16418,24 @@
       "duration_ms": 170480,
       "name": "Tu Silueta",
       "url": "https://open.spotify.com/track/57f0ili5EzdZlEaSKcEg8p"
+    },
+    {
+      "album": {
+        "name": "Tu y Yo",
+        "url": "https://open.spotify.com/album/5eJ6pq91WtFYMuLb3w7x6f"
+      },
+      "artists": [
+        {
+          "name": "Cocco Lexa",
+          "url": "https://open.spotify.com/artist/5WMoWNq8DuL9pob4qu7mau"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119520,
+      "name": "Tu y Yo",
+      "url": "https://open.spotify.com/track/3EjI0udoAcOOnmGkxvzKLp"
     },
     {
       "album": {

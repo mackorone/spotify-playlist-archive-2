@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > In celebration of Black Music Month, we're highlighting Black women who are redefining pop on the global stage\. Click into the feed!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,140,314 likes - 150 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,140,381 likes - 150 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

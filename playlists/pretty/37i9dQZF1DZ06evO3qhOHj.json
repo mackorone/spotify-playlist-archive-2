@@ -1,12 +1,12 @@
 {
   "description": "This is Mr. Big. The essential tracks, all in one playlist.",
-  "num_followers": 30889,
+  "num_followers": 30890,
   "original_name": "This Is Mr. Big",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajnMgAAAAADkG4mncFgNElCf8eWyQlIv",
+  "snapshot_id": "ajseAAAAAADtnf2k+s3oPqwQ7+cNwloB",
   "tracks": [
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lean Into It [Expanded]",
-        "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7uV3SQQ8UOlvZOnEh1E8xi"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 239173,
-      "name": "Road to Ruin",
-      "url": "https://open.spotify.com/track/2mkrQ6styM2orpDSCTmfm8"
+      "duration_ms": 222506,
+      "name": "Strike Like Lightning",
+      "url": "https://open.spotify.com/track/58LtaOiGBPEeVbJUUxXFRE"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7uV3SQQ8UOlvZOnEh1E8xi"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 222506,
-      "name": "Strike Like Lightning",
-      "url": "https://open.spotify.com/track/58LtaOiGBPEeVbJUUxXFRE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live From The Living Room",
         "url": "https://open.spotify.com/album/59xrZMtRGj46AFad07qjLS"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 303960,
       "name": "Stranger In My Life",
       "url": "https://open.spotify.com/track/25Ft3uRiRsbvnsrF9vOJXv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lean Into It [Expanded]",
+        "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 239173,
+      "name": "Road to Ruin",
+      "url": "https://open.spotify.com/track/2mkrQ6styM2orpDSCTmfm8"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 200453,
-      "name": "Tears",
-      "url": "https://open.spotify.com/track/2dvxVshYOguKNlimauN4Mx"
+      "duration_ms": 226706,
+      "name": "The Chain",
+      "url": "https://open.spotify.com/track/4z0gMSL3Z1pIdt8Psi2P6D"
     },
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 226706,
-      "name": "The Chain",
-      "url": "https://open.spotify.com/track/4z0gMSL3Z1pIdt8Psi2P6D"
+      "duration_ms": 200453,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/2dvxVshYOguKNlimauN4Mx"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "What If...",
-        "url": "https://open.spotify.com/album/1HSKINJIwGJj6ECnx9gSiP"
+        "name": "Get Over It",
+        "url": "https://open.spotify.com/album/49pbcb2iALtFnSAZDcdBDE"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 234693,
-      "name": "As Far As I Can See",
-      "url": "https://open.spotify.com/track/7K3IcXuMFzd3gTZBZNBKxf"
+      "duration_ms": 251413,
+      "name": "Electrified",
+      "url": "https://open.spotify.com/track/4sRcPII8MiwTQGxptPdDVF"
     },
     {
       "added_at": null,
@@ -779,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Over It",
-        "url": "https://open.spotify.com/album/49pbcb2iALtFnSAZDcdBDE"
+        "name": "What If...",
+        "url": "https://open.spotify.com/album/1HSKINJIwGJj6ECnx9gSiP"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 251413,
-      "name": "Electrified",
-      "url": "https://open.spotify.com/track/4sRcPII8MiwTQGxptPdDVF"
+      "duration_ms": 234693,
+      "name": "As Far As I Can See",
+      "url": "https://open.spotify.com/track/7K3IcXuMFzd3gTZBZNBKxf"
     },
     {
       "added_at": null,

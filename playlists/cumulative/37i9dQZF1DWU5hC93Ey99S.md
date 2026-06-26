@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-1,039 songs - 2 day 7 hr 17 min
+1,042 songs - 2 day 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,6 +251,7 @@
 | [fall apart](https://open.spotify.com/track/2F7Lgq3RcsmvZ8xD4C6lry) | [Rommii](https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U), [Adam Pastel](https://open.spotify.com/artist/3tqVBzpvOtajAh0uwkHQoh) | [fall apart](https://open.spotify.com/album/1OA1Dsw90dmGEu00phJrGk) | 2:34 | 2023-09-28 | 2025-08-13 |
 | [Fall Into The Sky](https://open.spotify.com/track/5nZRKQHFHRS2Pp7KQRlYWC) | [Marinus](https://open.spotify.com/artist/0PuoByZ9ODmTJfp4WOCAlX) | [Fall Into The Sky](https://open.spotify.com/album/4Z48wBC5ExTP7smaj1HcvS) | 2:50 | 2026-03-26 |  |
 | [Fallback](https://open.spotify.com/track/0DkqFVtEp6A5rZuYqkKKhJ) | [Lucky Rose](https://open.spotify.com/artist/5ShkaitLUorYdZgJMqTF5E), [Sugar Jesus](https://open.spotify.com/artist/1cdXZUfRhXZ8DnwMV4CcS5), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Fallback](https://open.spotify.com/album/6wkJivPuzqrDhSOSoMTXQz) | 3:43 | 2024-04-18 | 2025-08-13 |
+| [fallin](https://open.spotify.com/track/0FcTnflhVHisRm90hZaFnC) | [abelon](https://open.spotify.com/artist/6RknJW6TTU6TQfTZDptOui) | [fallin](https://open.spotify.com/album/6spqu7rqcmI7Gc9HsDtfLx) | 3:22 | 2026-06-25 |  |
 | [Falling \(D'Opera\)](https://open.spotify.com/track/3xh3vEtbV8AVFpWKqfK3b7) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Falling \(D'Opera\)](https://open.spotify.com/album/42hsP1tzWAXNo4kpD24csQ) | 2:36 | 2024-10-24 | 2025-08-13 |
 | [Falling for You](https://open.spotify.com/track/06QGDM31PNF0MBD2WOBfef) | [Wacomo](https://open.spotify.com/artist/3QCB7sHyeE8BM8G5JqA1Z4) | [Falling for You](https://open.spotify.com/album/1j4s6sv6WFu86u052hrpTh) | 2:44 | 2024-08-15 | 2025-08-13 |
 | [Falling Into You](https://open.spotify.com/track/3ZHKnaw6nJCXGYVY1h63lK) | [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Kezano](https://open.spotify.com/artist/0Le6TvnuhTKjcrNYENXDX4) | [Falling Into You](https://open.spotify.com/album/5sLop69oN5zrq9KzVgEunR) | 3:09 | 2024-07-05 | 2025-05-02 |
@@ -981,6 +982,7 @@
 | [Weightless](https://open.spotify.com/track/0aruNrdbcZlqrGynYCyEBU) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC), [Arlo](https://open.spotify.com/artist/2Ur1MpOU6IZEVyPvs2IBUW), [Allegra Miles](https://open.spotify.com/artist/2b5HdZgVQ0DhkHrajBgcxu) | [Weightless](https://open.spotify.com/album/5MVi8CiWSQ3kCKs60H0Fj1) | 4:34 | 2025-12-08 |  |
 | [Weightless](https://open.spotify.com/track/3DoPDf9n2BF8uE37D6GZdY) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 4:29 | 2023-09-07 | 2024-01-06 |
 | [Welcome Home](https://open.spotify.com/track/0jkoLMLP2iI8x4VU3hIbIB) | [Propellar](https://open.spotify.com/artist/4fMMVo3egxRy4FQP8KLu1T) | [Welcome Home](https://open.spotify.com/album/4wgnFZm295rOQPS7gffkBZ) | 3:33 | 2025-04-17 |  |
+| [What A Life \(feat\. Florence Arman\)](https://open.spotify.com/track/5zX4JjkoT2pgvlWPnjgVNQ) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [What A Life](https://open.spotify.com/album/6Ad7E2sBgst9CrKF6kUZf2) | 3:09 | 2026-06-25 |  |
 | [what happens next](https://open.spotify.com/track/2yqtysUu4Zs8cr8S34Px3B) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa) | [what happens next](https://open.spotify.com/album/4kGPS2b7Z527m0RVAXGwCz) | 2:51 | 2024-09-26 | 2025-08-13 |
 | [What If](https://open.spotify.com/track/3vseyNLwyEmY8iRs1Jji4N) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [What If](https://open.spotify.com/album/3exQ4HL1e66YnZGd2bYNgz) | 3:25 | 2023-04-13 | 2023-07-21 |
 | [What If](https://open.spotify.com/track/6V2J1bvchhoi64ycvaxmDj) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI \(Mixtape\)](https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE) | 3:25 | 2023-07-07 | 2024-01-06 |
@@ -1028,6 +1030,7 @@
 | [Yet](https://open.spotify.com/track/4K2d0N0nL1HI4y2fz7qdIS) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Yet](https://open.spotify.com/album/6aGHDGc3r4PTdLshNImYgy) | 3:26 | 2024-04-11 | 2025-08-13 |
 | [You](https://open.spotify.com/track/3C2OYWQFRVEo4QoHZKTNBK) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [You](https://open.spotify.com/album/4ADw59fMHQFPDty2fjXQZ4) | 2:53 | 2024-11-14 | 2025-08-13 |
 | [You](https://open.spotify.com/track/4UUA57IJP5b5N2lJEOJD3g) | [Mondingo](https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV) | [You](https://open.spotify.com/album/05pQbTZE59ptAsv1hNtsTd) | 3:35 | 2025-01-16 | 2025-08-13 |
+| [You & I \(feat\. Diana Goldberg\)](https://open.spotify.com/track/4iJZtPojK9D4Rn4wtZyyFg) | [Tim Bell](https://open.spotify.com/artist/13AFo4856ytys2f6kQqAlY), [Diana Goldberg](https://open.spotify.com/artist/0FSc1VcYTT0NQ5u9f5Hmpk) | [You & I \(feat\. Diana Goldberg\)](https://open.spotify.com/album/3f2HyLD5XQzfwkWGMo9xoY) | 2:01 | 2026-06-25 |  |
 | [You & I \- Mansionair Remix](https://open.spotify.com/track/0t5WDA4jaAYWCacACgG0HK) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm), [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [You & I \(Mansionair Remix\)](https://open.spotify.com/album/63cTnK9bAANdtAryamtiJZ) | 3:57 | 2023-10-05 | 2025-08-13 |
 | [You \(I Don't Wanna Lose\)](https://open.spotify.com/track/1rc1hwQSJ28Bc0zOW4oMvM) | [Giorgio Gee](https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R), [vidi roca](https://open.spotify.com/artist/6jrFGWNf3MF89fhTbnCsBj) | [You \(I Don't Wanna Lose\)](https://open.spotify.com/album/17MvzoHw4hagHwM1JmWx3O) | 2:28 | 2025-04-24 |  |
 | [You again](https://open.spotify.com/track/7LhWNeUUlbdkzmeRY7WoCj) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [You again](https://open.spotify.com/album/1nh5G9NplczHOOODYGYOSL) | 2:48 | 2024-03-14 | 2025-08-13 |

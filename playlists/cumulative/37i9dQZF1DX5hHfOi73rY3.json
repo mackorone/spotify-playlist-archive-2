@@ -284,7 +284,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 298023,
       "name": "Back in the Streets",
       "url": "https://open.spotify.com/track/0UxnhnIwvPayOUU5JlCE6P"
@@ -822,6 +822,28 @@
       "duration_ms": 276495,
       "name": "Cash For Love",
       "url": "https://open.spotify.com/track/1QCjgRff7EzAtIUlOpWSJV"
+    },
+    {
+      "album": {
+        "name": "Chica",
+        "url": "https://open.spotify.com/album/3lFD0mEBqBfutBdgrVdzy9"
+      },
+      "artists": [
+        {
+          "name": "Ben Evers",
+          "url": "https://open.spotify.com/artist/5HFt8c24F9ZzN2rmLxKC43"
+        },
+        {
+          "name": "Najeh",
+          "url": "https://open.spotify.com/artist/07tasEZuZUfLr1NObB0Us7"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Chica",
+      "url": "https://open.spotify.com/track/4iUauxwhmi9baLkC1zYrI1"
     },
     {
       "album": {
@@ -1792,7 +1814,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-24",
+      "date_removed": null,
       "duration_ms": 179125,
       "name": "Gotta Move",
       "url": "https://open.spotify.com/track/1Q2d7NGkaxhwMnWQll7HL3"
@@ -3532,7 +3554,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 190588,
       "name": "Nice + Slow",
       "url": "https://open.spotify.com/track/3LmJbf5DILmqAF7F7syDys"
@@ -4904,7 +4926,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 210227,
       "name": "Teach You Desire",
       "url": "https://open.spotify.com/track/2i2BaQHXCWNFzDqxcyZVE0"
@@ -5440,6 +5462,24 @@
       "duration_ms": 207230,
       "name": "Up Front",
       "url": "https://open.spotify.com/track/74X66DXVuSLDEOp3sR8GFL"
+    },
+    {
+      "album": {
+        "name": "Upclose",
+        "url": "https://open.spotify.com/album/2tH2faPDF9YMaviCAAnOIr"
+      },
+      "artists": [
+        {
+          "name": "Pegassi",
+          "url": "https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225893,
+      "name": "Upclose",
+      "url": "https://open.spotify.com/track/3OaWtFEtRFGLyNLi7KniS8"
     },
     {
       "album": {

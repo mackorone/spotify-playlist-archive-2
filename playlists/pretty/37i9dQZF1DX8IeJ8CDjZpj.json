@@ -1,12 +1,12 @@
 {
   "description": "Celebremos que nuestro equipo sali\u00f3 vencedor. ",
-  "num_followers": 91568,
+  "num_followers": 91550,
   "original_name": "Nos Vamos al \u00c1ngel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALlRxAobYtkKBUw6dRvUsUCh11Bf",
+  "snapshot_id": "AAAAACUh4VQx2g+L/w3DuAQyJkM0wjjT",
   "tracks": [
     {
       "added_at": "2026-06-11 20:48:54",
@@ -273,6 +273,22 @@
       "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
     },
     {
+      "added_at": "2026-06-25 21:17:05",
+      "album": {
+        "name": "Lo Mejor en Bellas Artes - 40 Aniversario",
+        "url": "https://open.spotify.com/album/4hpY1ryuyFipmOovXGoT88"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 546546,
+      "name": "Hasta Que Te Conoc\u00ed - En Vivo [Desde el Instituto Nacional de Bellas Artes]",
+      "url": "https://open.spotify.com/track/6hNkhvhy5ersmVRGFTuIps"
+    },
+    {
       "added_at": "2026-06-11 20:48:54",
       "album": {
         "name": "Grandes Exitos \"Reinas y Brujas\"",
@@ -487,18 +503,18 @@
     {
       "added_at": "2026-06-11 20:48:54",
       "album": {
-        "name": "Gold Collection, Vol.1",
-        "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
+        "name": "Trayectoria",
+        "url": "https://open.spotify.com/album/4yr1klPd996H8VREqxZw7D"
       },
       "artists": [
         {
-          "name": "Banda Fresa Roja",
-          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
+          "name": "Caballo Dorado",
+          "url": "https://open.spotify.com/artist/38yOUctO9eek9ti5NWMQXm"
         }
       ],
-      "duration_ms": 181968,
-      "name": "Sal con Lim\u00f3n",
-      "url": "https://open.spotify.com/track/6arEdpIPcdyAPtvPcwZ9YD"
+      "duration_ms": 220960,
+      "name": "No rompas mi coraz\u00f3n - Achy Breaky Heart",
+      "url": "https://open.spotify.com/track/01sw4YF783cqydsJQbJCwT"
     },
     {
       "added_at": "2026-06-11 20:48:54",
@@ -519,18 +535,18 @@
     {
       "added_at": "2026-06-11 20:48:54",
       "album": {
-        "name": "Trayectoria",
-        "url": "https://open.spotify.com/album/4yr1klPd996H8VREqxZw7D"
+        "name": "Gold Collection, Vol.1",
+        "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
       },
       "artists": [
         {
-          "name": "Caballo Dorado",
-          "url": "https://open.spotify.com/artist/38yOUctO9eek9ti5NWMQXm"
+          "name": "Banda Fresa Roja",
+          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
         }
       ],
-      "duration_ms": 220960,
-      "name": "No rompas mi coraz\u00f3n - Achy Breaky Heart",
-      "url": "https://open.spotify.com/track/01sw4YF783cqydsJQbJCwT"
+      "duration_ms": 181968,
+      "name": "Sal con Lim\u00f3n",
+      "url": "https://open.spotify.com/track/6arEdpIPcdyAPtvPcwZ9YD"
     },
     {
       "added_at": "2026-06-11 20:48:54",
@@ -667,22 +683,6 @@
     {
       "added_at": "2026-06-11 20:48:54",
       "album": {
-        "name": "V\u00e1monos Pa'l R\u00edo",
-        "url": "https://open.spotify.com/album/1dAgTGIJZ1KjXJLMU6wfi9"
-      },
-      "artists": [
-        {
-          "name": "Los Pikadientes De Caborca",
-          "url": "https://open.spotify.com/artist/3aWnyANApsrS1yIpPu873P"
-        }
-      ],
-      "duration_ms": 104760,
-      "name": "La Cumbia del R\u00edo",
-      "url": "https://open.spotify.com/track/1Xrg7xC0pXOEErZ3NwMBia"
-    },
-    {
-      "added_at": "2026-06-11 20:48:54",
-      "album": {
         "name": "M\u00fasica de America",
         "url": "https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR"
       },
@@ -695,6 +695,22 @@
       "duration_ms": 179000,
       "name": "El son de la negra",
       "url": "https://open.spotify.com/track/4WppqUEIiLL4kyo406nnJN"
+    },
+    {
+      "added_at": "2026-06-11 20:48:54",
+      "album": {
+        "name": "V\u00e1monos Pa'l R\u00edo",
+        "url": "https://open.spotify.com/album/1dAgTGIJZ1KjXJLMU6wfi9"
+      },
+      "artists": [
+        {
+          "name": "Los Pikadientes De Caborca",
+          "url": "https://open.spotify.com/artist/3aWnyANApsrS1yIpPu873P"
+        }
+      ],
+      "duration_ms": 104760,
+      "name": "La Cumbia del R\u00edo",
+      "url": "https://open.spotify.com/track/1Xrg7xC0pXOEErZ3NwMBia"
     },
     {
       "added_at": "2026-06-11 20:48:54",
@@ -751,22 +767,6 @@
     {
       "added_at": "2026-06-11 20:48:54",
       "album": {
-        "name": "No Que No (Edici\u00f3n De Lujo)",
-        "url": "https://open.spotify.com/album/5wFfJdMGqQubs2UEerlVRR"
-      },
-      "artists": [
-        {
-          "name": "Pedro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
-        }
-      ],
-      "duration_ms": 161453,
-      "name": "El Mariachi Loco",
-      "url": "https://open.spotify.com/track/5p8MEea3AUX4d7azlnYHol"
-    },
-    {
-      "added_at": "2026-06-11 20:48:54",
-      "album": {
         "name": "M\u00fasica de America",
         "url": "https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR"
       },
@@ -779,6 +779,22 @@
       "duration_ms": 176906,
       "name": "Guadalajara",
       "url": "https://open.spotify.com/track/7bqkK6DMlXwcIHbSzLq1xx"
+    },
+    {
+      "added_at": "2026-06-11 20:48:54",
+      "album": {
+        "name": "No Que No (Edici\u00f3n De Lujo)",
+        "url": "https://open.spotify.com/album/5wFfJdMGqQubs2UEerlVRR"
+      },
+      "artists": [
+        {
+          "name": "Pedro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
+        }
+      ],
+      "duration_ms": 161453,
+      "name": "El Mariachi Loco",
+      "url": "https://open.spotify.com/track/5p8MEea3AUX4d7azlnYHol"
     },
     {
       "added_at": "2026-06-11 20:48:54",

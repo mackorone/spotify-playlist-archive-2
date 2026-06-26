@@ -4,7 +4,7 @@
 
 > Proudly Southern African Afropop gems\. Cover: Sjava, Emtee, Saudi, Ruff
 
-762 songs - 2 day 6 hr 4 min
+763 songs - 2 day 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,7 @@
 | [Gomora](https://open.spotify.com/track/3PurQ26uEqE10OXpGUM6Al) | [Blendor](https://open.spotify.com/artist/39o9oJa1NUK3WKgFn2mc4P) | [Umacashelana](https://open.spotify.com/album/5FhZB8gNSc6HxGVz6Fo7kg) | 4:05 | 2022-04-22 | 2022-05-06 |
 | [Goodbye My Love](https://open.spotify.com/track/42WeyWlyK5Ogj0kqb62OxA) | [Mawelele](https://open.spotify.com/artist/0RSqcZGU4Kf01zKcn4JhiE) | [ANSWERS](https://open.spotify.com/album/1j7hTvvLPYdVmAFg31l0az) | 3:42 | 2025-06-06 | 2026-04-11 |
 | [Gumbamane \(Remix\)](https://open.spotify.com/track/5oYmCiBPniSr92PEBlm3it) | [Thee Legacy](https://open.spotify.com/artist/5GADpBUVFmE7gRJAswAHiX) | [Isicathamiya for a New Millennium](https://open.spotify.com/album/3aQyjwYXLzhZGbXdjSzgLI) | 3:11 | 2023-08-31 | 2023-09-02 |
-| [Hallelujah \(feat\. Marcus Harvey & Sundile\)](https://open.spotify.com/track/1Q9IHpVfytrl6M5JIiyvWL) | [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop), [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6), [Sundile](https://open.spotify.com/artist/52IA2ZKjpv4G7zFBuoovjk) | [Therapy: The Other Side](https://open.spotify.com/album/62TVocHl2MDgxq5kLSoWDw) | 3:14 | 2025-10-03 |  |
+| [Hallelujah \(feat\. Marcus Harvey & Sundile\)](https://open.spotify.com/track/1Q9IHpVfytrl6M5JIiyvWL) | [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop), [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6), [Sundile](https://open.spotify.com/artist/52IA2ZKjpv4G7zFBuoovjk) | [Therapy: The Other Side](https://open.spotify.com/album/62TVocHl2MDgxq5kLSoWDw) | 3:14 | 2025-10-03 | 2026-06-26 |
 | [Hamba Nathi](https://open.spotify.com/track/3vanIz6AFdZLd9Z6kX4IWm) | [Brenda Mtambo](https://open.spotify.com/artist/1xq3iidMUB1FTy5c7WcfyC) | [Hamba Nathi](https://open.spotify.com/album/5yOUz0ioOyI8mC7CyFAZVx) | 5:32 | 2023-04-27 | 2023-05-12 |
 | [Hamba Naye](https://open.spotify.com/track/6hKfk07KnmzaShGS33ITy6) | [Cici](https://open.spotify.com/artist/3i9UjIGeZT2cRyltQrr8nj), [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Sukulila](https://open.spotify.com/album/3xbC7NEhRzkRVuGZK4P1aM) | 3:54 | 2023-08-31 | 2024-03-16 |
 | [Hamba Wena](https://open.spotify.com/track/0Yx0dpXq9K6vIkRWxPvKWI) | [Dr Dope](https://open.spotify.com/artist/511VpiGCdzuECpteBjWKuT), [Pro Tee](https://open.spotify.com/artist/0y4RBCciLIHdZESz40TaLy), [Qveen\-rsa](https://open.spotify.com/artist/6D1N5l5dWca4qiwcyBRzj5), [Mzwilili](https://open.spotify.com/artist/6hFXBf1EU52jzIb3x9BOq7), [Kitso Nave](https://open.spotify.com/artist/4I2gNmIO64o4EOzBIKfyfl) | [Hamba Wena](https://open.spotify.com/album/4VOqLcMcg7hDCPBhGNFPrl) | 5:08 | 2023-07-03 | 2024-05-11 |
@@ -555,6 +555,7 @@
 | [S'bali](https://open.spotify.com/track/3iCc4j2qlTvUmsVAtjpx2H) | [Intaba Yase Dubai](https://open.spotify.com/artist/2j6fdvCneiKmXX8rsYEoU6) | [S'bali](https://open.spotify.com/album/61qh07niMIakfZOmu0yuC2) | 5:00 | 2021-03-22 | 2022-07-29 |
 | [S'thandwasam](https://open.spotify.com/track/41Ja01RLcrxmoU18IecKJA) | [Philisiwe Ntintili](https://open.spotify.com/artist/1lTnVO0bKFKuWb9ddFmai9), [Novexbeats](https://open.spotify.com/artist/213bIAt6ywdlreUnYyV6Db) | [S'thandwasam](https://open.spotify.com/album/0xbXELr8inqTojtgjDRz9g) | 4:07 | 2023-07-14 | 2023-08-25 |
 | [SABA](https://open.spotify.com/track/6PouYYNwmZX4fD1gIoSD8N) | [Stilo Magolide](https://open.spotify.com/artist/77zNkBGPeehKXAXAXfUfnA) | [IMBUZI AYIBUZWA](https://open.spotify.com/album/1ZmWJlGLDS8WGhp2jaa1JW) | 4:20 | 2023-09-01 | 2023-10-13 |
+| [Sabawela](https://open.spotify.com/track/1dkGCFQ3JzgaKhchSMXLNV) | [Empro](https://open.spotify.com/artist/7qW54SKGCLpQmny8mOL9wT), [Danya Devs](https://open.spotify.com/artist/351dtAN3qmvZNfNrYP2gEs) | [Sabawela](https://open.spotify.com/album/6ttNznFPsKkkhSJ35UUxKR) | 3:06 | 2026-06-25 |  |
 | [Sabela](https://open.spotify.com/track/18CIBGXAkIeZhwzJt4uT2k) | [Sqiniseko SqinQ](https://open.spotify.com/artist/34AoRsBkoLEDSM1kBQwqxQ), [Danya Devs](https://open.spotify.com/artist/351dtAN3qmvZNfNrYP2gEs) | [Sabela](https://open.spotify.com/album/6kjGl8dtVWhzH8Cz8gL2ga) | 4:44 | 2026-05-29 |  |
 | [Sabela](https://open.spotify.com/track/1BuHQohZdOS9rlGrn313Rk) | [Vuyina](https://open.spotify.com/artist/7pJgT4zdoIemiYQjpD8QFw) | [Sabela](https://open.spotify.com/album/7nHrg0Ct3rGCQq9KeMUY6z) | 3:09 | 2023-02-09 | 2023-04-07 |
 | [SAFE SPACE](https://open.spotify.com/track/0SEvZ169RsCvISXPUdcVdt) | [Lungelo Manzi](https://open.spotify.com/artist/6veL3At7ABsR1p1Mp7ggT1) | [SAFE SPACE](https://open.spotify.com/album/42sIQEXqN9mAW6KuXsEo3s) | 3:41 | 2022-03-24 | 2022-04-01 |

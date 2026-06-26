@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Carnaval. The essential tracks, all in one playlist.",
-  "num_followers": 64781,
+  "num_followers": 64788,
   "original_name": "This Is Banda Carnaval",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajnMgAAAAABVorai3WPk8005uaSEVNDq",
+  "snapshot_id": "ajseAAAAAABfBwjkD5I6XBqr7M+5zo/t",
   "tracks": [
     {
       "added_at": null,
@@ -291,6 +291,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te So\u00f1\u00e9 (En Vivo)",
+        "url": "https://open.spotify.com/album/7DIYjfFkFIAfMBQF66NqKX"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 223566,
+      "name": "Te So\u00f1\u00e9 (En Vivo)",
+      "url": "https://open.spotify.com/track/2RGQaFUjKxEVBEFzma54YN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Como No Queriendo",
         "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
       },
@@ -331,26 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde Mazatl\u00e1n, Sinaloa (En Vivo)",
-        "url": "https://open.spotify.com/album/6VE5VAjHrptT2rWYr8xeIW"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 223566,
-      "name": "Te So\u00f1\u00e9 (En Vivo)",
-      "url": "https://open.spotify.com/track/6tfuAm5TeylFYDn2oZ6wuX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00e1ximo Nivel",
         "url": "https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE"
       },
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como No Queriendo",
-        "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 198306,
-      "name": "Segunda Opci\u00f3n",
-      "url": "https://open.spotify.com/track/3bvQCGDb6D66J7b0lzXsKG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Tiene Precio",
         "url": "https://open.spotify.com/album/5YvHY9xcYR1kjEm2Fpxu0B"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 183640,
       "name": "Si Se Trata De Ti",
       "url": "https://open.spotify.com/track/7Mdf5g453UuOPEwjlwc2X6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como No Queriendo",
+        "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 198306,
+      "name": "Segunda Opci\u00f3n",
+      "url": "https://open.spotify.com/track/3bvQCGDb6D66J7b0lzXsKG"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como No Queriendo",
-        "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 163253,
-      "name": "Ella Es Mi Mujer",
-      "url": "https://open.spotify.com/track/5WdjiXWPnfjgwFssJGFU4K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Guerra De Poder",
         "url": "https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc"
       },
@@ -467,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Como No Queriendo",
+        "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 163253,
+      "name": "Ella Es Mi Mujer",
+      "url": "https://open.spotify.com/track/5WdjiXWPnfjgwFssJGFU4K"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Vivo Desde El Rancho",
         "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
       },
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Ver A Qu\u00e9 Horas (En Vivo)",
-        "url": "https://open.spotify.com/album/3wEwmBFOd6wiZ6F0zXMy6a"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 153680,
-      "name": "A Ver A Qu\u00e9 Horas - En Vivo",
-      "url": "https://open.spotify.com/track/5uVPexjpKeTiL5RmMUDTcT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00e1ximo Nivel",
         "url": "https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 185160,
       "name": "\u00bfC\u00f3mo Le Digo?",
       "url": "https://open.spotify.com/track/7wzf8JSpGi3TQMQDN5JWw9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Ver A Qu\u00e9 Horas (En Vivo)",
+        "url": "https://open.spotify.com/album/3wEwmBFOd6wiZ6F0zXMy6a"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 153680,
+      "name": "A Ver A Qu\u00e9 Horas - En Vivo",
+      "url": "https://open.spotify.com/track/5uVPexjpKeTiL5RmMUDTcT"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puros Corridos",
-        "url": "https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 130906,
-      "name": "El Magnate",
-      "url": "https://open.spotify.com/track/22uW5mLiatfm466E6tNLvQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El N\u00famero 1",
         "url": "https://open.spotify.com/album/6DNKBX6yM88feUvaifEWfX"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 163666,
       "name": "El N\u00famero 1",
       "url": "https://open.spotify.com/track/3BaDh7fNIzR4XWZ96qhVc1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puros Corridos",
+        "url": "https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 130906,
+      "name": "El Magnate",
+      "url": "https://open.spotify.com/track/22uW5mLiatfm466E6tNLvQ"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
       "duration_ms": 215364,
       "name": "De Nuestro Amor No Queda Nada",
       "url": "https://open.spotify.com/track/3DvFmNLmpfBNxe1CC7uOGj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos, Rancheras Y Caballos En Vivo",
-        "url": "https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 181280,
-      "name": "El Tarasco - En Vivo",
-      "url": "https://open.spotify.com/track/59JBXKZfy7XjAz1eVpeFO7"
     },
     {
       "added_at": null,
@@ -743,6 +727,22 @@
       "duration_ms": 191226,
       "name": "Volver A Volar",
       "url": "https://open.spotify.com/track/1UTax2cvw1ehp87jkxbCXF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos, Rancheras Y Caballos En Vivo",
+        "url": "https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 181280,
+      "name": "El Tarasco - En Vivo",
+      "url": "https://open.spotify.com/track/59JBXKZfy7XjAz1eVpeFO7"
     },
     {
       "added_at": null,
@@ -887,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Tiene Precio",
-        "url": "https://open.spotify.com/album/5YvHY9xcYR1kjEm2Fpxu0B"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 146524,
-      "name": "Por Aqu\u00ed Pas\u00f3 Mar\u00eda",
-      "url": "https://open.spotify.com/track/5pYeQU77YuKzscy8YJvFx7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fibras Sensibles",
         "url": "https://open.spotify.com/album/1SIOva8bdGwBhujbFfWmUm"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 200720,
       "name": "Fibras Sensibles",
       "url": "https://open.spotify.com/track/3ecQDBEjejR0bXp2ZoeYTo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Tiene Precio",
+        "url": "https://open.spotify.com/album/5YvHY9xcYR1kjEm2Fpxu0B"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 146524,
+      "name": "Por Aqu\u00ed Pas\u00f3 Mar\u00eda",
+      "url": "https://open.spotify.com/track/5pYeQU77YuKzscy8YJvFx7"
     }
   ],
   "unique_name": "This Is Banda Carnaval",

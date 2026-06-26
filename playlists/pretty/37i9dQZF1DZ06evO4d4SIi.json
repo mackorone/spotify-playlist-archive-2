@@ -1,12 +1,12 @@
 {
   "description": "This is Jordan Davis. The essential tracks, all in one playlist.",
-  "num_followers": 57153,
+  "num_followers": 57178,
   "original_name": "This Is Jordan Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajnMgAAAAADAMp167BSQ89rlXJohb07T",
+  "snapshot_id": "ajseAAAAAAAFwa41uFd3TCyJd/BtqkST",
   "tracks": [
     {
       "added_at": null,
@@ -275,22 +275,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Among Friends",
-        "url": "https://open.spotify.com/album/0hxfUE2sJIElmXKdihbpnT"
+        "name": "Bluebird Days",
+        "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
       },
       "artists": [
         {
           "name": "Jordan Davis",
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        },
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
         }
       ],
-      "duration_ms": 221760,
-      "name": "Banks",
-      "url": "https://open.spotify.com/track/3ye6QIIvOq5doDr0HRgWUC"
+      "duration_ms": 161066,
+      "name": "Damn Good Time",
+      "url": "https://open.spotify.com/track/0ELJDwu2zTOFb2h4K1qaOE"
     },
     {
       "added_at": null,
@@ -327,18 +323,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bluebird Days",
-        "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
+        "name": "Among Friends",
+        "url": "https://open.spotify.com/album/0hxfUE2sJIElmXKdihbpnT"
       },
       "artists": [
         {
           "name": "Jordan Davis",
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        },
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
         }
       ],
-      "duration_ms": 161066,
-      "name": "Damn Good Time",
-      "url": "https://open.spotify.com/track/0ELJDwu2zTOFb2h4K1qaOE"
+      "duration_ms": 221760,
+      "name": "Banks",
+      "url": "https://open.spotify.com/track/3ye6QIIvOq5doDr0HRgWUC"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Learn The Hard Way",
-        "url": "https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 172946,
-      "name": "Her Way Or The Highway",
-      "url": "https://open.spotify.com/track/59SCat3LTL5d1SBOBRB43D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jordan Davis",
         "url": "https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c"
       },
@@ -507,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Learn The Hard Way",
+        "url": "https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 172946,
+      "name": "Her Way Or The Highway",
+      "url": "https://open.spotify.com/track/59SCat3LTL5d1SBOBRB43D"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Home State",
         "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
       },
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 187913,
-      "name": "So Do I",
-      "url": "https://open.spotify.com/track/0MjbiK4r82QTmDiJPvBngj"
+      "duration_ms": 210687,
+      "name": "Leaving New Orleans",
+      "url": "https://open.spotify.com/track/4CZ0nzD7AsWeSEElxKodqq"
     },
     {
       "added_at": null,

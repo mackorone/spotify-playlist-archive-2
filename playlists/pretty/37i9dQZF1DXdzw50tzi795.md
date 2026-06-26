@@ -2,26 +2,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzw50tzi795.md) - [plain]
 
 ### [ฉันฟังเพลงไทย](https://open.spotify.com/playlist/37i9dQZF1DXdzw50tzi795)
 
-> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: BLVCKHEART
+> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: PUN
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,728 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,749 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [เมื่อถูกค้นพบ \(Finally She Found.\)](https://open.spotify.com/track/7q9cMJ0oDZFZSnqatZNabo) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [เมื่อถูกค้นพบ \(Finally She Found.\)](https://open.spotify.com/album/5u0Pz8t52IOj4J7R3wsKlm) | 3:59 |
-| 2 | [ได้แค่เดินมาส่ง \(The Last Walk\)](https://open.spotify.com/track/1FhxX1Su9kwKFEqM4qqEJ6) | [GAVIN:D](https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22), [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [ROOM101](https://open.spotify.com/album/5KyBfveZb2nGL3Hl4qlwz3) | 3:47 |
-| 3 | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/track/4ntIPuXf6DpvrZExXrn5QA) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/album/1Uwz9ZHd0kCz4cqxNCUs7K) | 4:47 |
-| 4 | [Living Death](https://open.spotify.com/track/0ze2gwpSfT2leQALslUXId) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Living Death](https://open.spotify.com/album/13Lok3WGq1u7Kby0x9hF5Y) | 4:18 |
-| 5 | [เมื่อไหร่จะมี \(มีใจให้กัน\)](https://open.spotify.com/track/7L3sb4eqF8zfQU8nAekHPm) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [เมื่อไหร่จะมี \(มีใจให้กัน\)](https://open.spotify.com/album/1LEPOmRF1QztU3ZG8cflDv) | 3:34 |
-| 6 | [มือเปล่า \(PUT THE GUN DOWN\)](https://open.spotify.com/track/0bHItXcLtqCnlVx6dlflQi) | [ALIE BLACKCOBRA](https://open.spotify.com/artist/2kGEcklZxkQPpESUB3QZ0q) | [Angel Energy](https://open.spotify.com/album/2Rsqs9sglwPNsgP0pCJEnt) | 3:37 |
-| 7 | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/track/7zKxBR2LzgFMnVBX6d0ZhT) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/album/2K4KOfhgb6YLNdyVas8eq6) | 4:52 |
-| 8 | [เจิดจรัส](https://open.spotify.com/track/3xyNRloMm2i6sNAlnnxLFA) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [เจิดจรัส](https://open.spotify.com/album/3N9qCU7JxkpNW6n5QCakNJ) | 4:21 |
-| 9 | [รักให้เธอได้รู้ \(Proof.\)](https://open.spotify.com/track/0jmSojJLnjiQpGGM3HHlYS) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [รักให้เธอได้รู้ \(Proof.\)](https://open.spotify.com/album/0UEgkWQcEQ9pvIHUpuxbmH) | 3:22 |
-| 10 | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/track/63oA4hG0SqvsUFfaEhgqVX) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/album/51gTzozCry8vsoOpJikdqL) | 3:39 |
-| 11 | [ย้าย่ายะ](https://open.spotify.com/track/0FTAiWhYLMKZlzhMeMzRZy) | [อูโน่ หลาวทอง](https://open.spotify.com/artist/5wYhK6NENUwGiEejGnASQ8) | [ย้าย่ายะ](https://open.spotify.com/album/1QKUoPKIB65DyasIesCb73) | 3:40 |
-| 12 | [ไม่มีวันไหนที่ไม่คิดถึง \(starlost.\)](https://open.spotify.com/track/2L54tWSpB5yeAYvienaKTT) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [ไม่มีวันไหนที่ไม่คิดถึง \(starlost.\)](https://open.spotify.com/album/1JCH3jvq3lj4KeIpWwTj32) | 4:40 |
-| 13 | [ผมมีหัวใจจริงๆ \(For The Girl...\)](https://open.spotify.com/track/0yKr4gsqBjdZqrWhQp5Kny) | [T!NE](https://open.spotify.com/artist/325C5PNmvA8luRIOYy1dmQ) | [ผมมีหัวใจจริงๆ \(For The Girl...\)](https://open.spotify.com/album/4hnaPredSGZI91cmD8WqGB) | 3:31 |
-| 14 | [ขอแค่นี้ \(Forever n ever\)](https://open.spotify.com/track/6uS1yKSfktHNN7o4AradRV) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [While I'm away](https://open.spotify.com/album/5bDsVtGFlIsqnrWnOgIK7W) | 3:39 |
+| 1 | [Living Death](https://open.spotify.com/track/0ze2gwpSfT2leQALslUXId) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Living Death](https://open.spotify.com/album/13Lok3WGq1u7Kby0x9hF5Y) | 4:18 |
+| 2 | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/track/4ntIPuXf6DpvrZExXrn5QA) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/album/1Uwz9ZHd0kCz4cqxNCUs7K) | 4:47 |
+| 3 | [ได้แค่เดินมาส่ง \(The Last Walk\)](https://open.spotify.com/track/1FhxX1Su9kwKFEqM4qqEJ6) | [GAVIN:D](https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22), [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [ROOM101](https://open.spotify.com/album/5KyBfveZb2nGL3Hl4qlwz3) | 3:47 |
+| 4 | [เมื่อถูกค้นพบ \(Finally She Found.\)](https://open.spotify.com/track/7q9cMJ0oDZFZSnqatZNabo) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [เมื่อถูกค้นพบ \(Finally She Found.\)](https://open.spotify.com/album/5u0Pz8t52IOj4J7R3wsKlm) | 3:59 |
+| 5 | [ขอแค่นี้ \(Forever n ever\)](https://open.spotify.com/track/6uS1yKSfktHNN7o4AradRV) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [While I'm away](https://open.spotify.com/album/5bDsVtGFlIsqnrWnOgIK7W) | 3:39 |
+| 6 | [เมื่อไหร่จะมี \(มีใจให้กัน\)](https://open.spotify.com/track/7L3sb4eqF8zfQU8nAekHPm) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [เมื่อไหร่จะมี \(มีใจให้กัน\)](https://open.spotify.com/album/1LEPOmRF1QztU3ZG8cflDv) | 3:34 |
+| 7 | [มือเปล่า \(PUT THE GUN DOWN\)](https://open.spotify.com/track/0bHItXcLtqCnlVx6dlflQi) | [ALIE BLACKCOBRA](https://open.spotify.com/artist/2kGEcklZxkQPpESUB3QZ0q) | [Angel Energy](https://open.spotify.com/album/2Rsqs9sglwPNsgP0pCJEnt) | 3:37 |
+| 8 | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/track/7zKxBR2LzgFMnVBX6d0ZhT) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/album/2K4KOfhgb6YLNdyVas8eq6) | 4:52 |
+| 9 | [เจิดจรัส](https://open.spotify.com/track/3xyNRloMm2i6sNAlnnxLFA) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [เจิดจรัส](https://open.spotify.com/album/3N9qCU7JxkpNW6n5QCakNJ) | 4:21 |
+| 10 | [รักให้เธอได้รู้ \(Proof.\)](https://open.spotify.com/track/0jmSojJLnjiQpGGM3HHlYS) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [รักให้เธอได้รู้ \(Proof.\)](https://open.spotify.com/album/0UEgkWQcEQ9pvIHUpuxbmH) | 3:22 |
+| 11 | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/track/63oA4hG0SqvsUFfaEhgqVX) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/album/51gTzozCry8vsoOpJikdqL) | 3:39 |
+| 12 | [ย้าย่ายะ](https://open.spotify.com/track/0FTAiWhYLMKZlzhMeMzRZy) | [อูโน่ หลาวทอง](https://open.spotify.com/artist/5wYhK6NENUwGiEejGnASQ8) | [ย้าย่ายะ](https://open.spotify.com/album/1QKUoPKIB65DyasIesCb73) | 3:40 |
+| 13 | [ไม่มีวันไหนที่ไม่คิดถึง \(starlost.\)](https://open.spotify.com/track/2L54tWSpB5yeAYvienaKTT) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [ไม่มีวันไหนที่ไม่คิดถึง \(starlost.\)](https://open.spotify.com/album/1JCH3jvq3lj4KeIpWwTj32) | 4:40 |
+| 14 | [ผมมีหัวใจจริงๆ \(For The Girl...\)](https://open.spotify.com/track/0yKr4gsqBjdZqrWhQp5Kny) | [T!NE](https://open.spotify.com/artist/325C5PNmvA8luRIOYy1dmQ) | [ผมมีหัวใจจริงๆ \(For The Girl...\)](https://open.spotify.com/album/4hnaPredSGZI91cmD8WqGB) | 3:31 |
 | 15 | [อยากอินเพลงรัก](https://open.spotify.com/track/0ZK7WAqADNAc2zY7WVRDTl) | [Season Five](https://open.spotify.com/artist/2DWxd6CkiJVMnTqSbtd56H), [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [อยากอินเพลงรัก](https://open.spotify.com/album/6G3FvZ2OHWHyoG40SQhIbJ) | 3:22 |
 | 16 | [ฝากให้เขารัก](https://open.spotify.com/track/198pPjDG0juHRjechZrWer) | [Yes'sir Days](https://open.spotify.com/artist/5fWMZzHHJQmCVt3W2ejVbV) | [ฝากให้เขารัก](https://open.spotify.com/album/1jnegCzaepXCGuPhyqNtdd) | 4:16 |
 | 17 | [จากกันโดยสมบูรณ์](https://open.spotify.com/track/6SAcZT7H44417uxybshTEy) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [จากกันโดยสมบูรณ์](https://open.spotify.com/album/7rfPxZAEK7xLGgClLqPKlB) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzw50tzi795.md) - [plain]
 | 49 | [ของขวัญปีใหม่ \(Golden Night\)](https://open.spotify.com/track/43JyEMmiEB4LJDwMDnIqvz) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ของขวัญปีใหม่ \(Golden Night\)](https://open.spotify.com/album/4PmVt4yjh8yTVM031pigzp) | 3:59 |
 | 50 | [Hurry up!](https://open.spotify.com/track/4qe1nS4WjshQs40dosG8Nq) | [JayQ](https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6), [7Vibes](https://open.spotify.com/artist/1WJ1KSMt6Yuf1cQ0MVtqTC) | [Hurry up!](https://open.spotify.com/album/0YLmjPr1cUP4JpOVbHOFfR) | 2:43 |
 
-Snapshot ID: `AAAAAPpgp94hxPWXvQLhsTmd75i1YEiK`
+Snapshot ID: `AAAAAMqJF9YTFIwB8xLiRjxEFpQmIk6t`

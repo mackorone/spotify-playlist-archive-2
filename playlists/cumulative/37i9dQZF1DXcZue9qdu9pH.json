@@ -568,7 +568,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 208049,
       "name": "ControlS!",
       "url": "https://open.spotify.com/track/43ckrM6WEcb8dRYgzD54VE"
@@ -736,6 +736,28 @@
       "duration_ms": 183433,
       "name": "Divine Intervention - Acoustic",
       "url": "https://open.spotify.com/track/0ROiUmUgUIuTRjS6VBdwHU"
+    },
+    {
+      "album": {
+        "name": "TWARA",
+        "url": "https://open.spotify.com/album/3haz7nTuGcGygVVX4xDx3T"
+      },
+      "artists": [
+        {
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+        },
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147980,
+      "name": "DO BETTER",
+      "url": "https://open.spotify.com/track/50FquWWzjgH6oXvf10fDuX"
     },
     {
       "album": {
@@ -932,7 +954,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 343800,
       "name": "Fall",
       "url": "https://open.spotify.com/track/3F9tYNM8ssz7cCVDqDkSZz"
@@ -2633,6 +2655,28 @@
     },
     {
       "album": {
+        "name": "Sometimes Love",
+        "url": "https://open.spotify.com/album/7B2wlFa4gonKkpXkWBYMXc"
+      },
+      "artists": [
+        {
+          "name": "Somi",
+          "url": "https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA"
+        },
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307245,
+      "name": "Sometimes Love",
+      "url": "https://open.spotify.com/track/20KOIyeSqCrfWnUJhGlfKl"
+    },
+    {
+      "album": {
         "name": "Songea",
         "url": "https://open.spotify.com/album/1NszeKpCZuw1DSBBWQAPi0"
       },
@@ -2684,7 +2728,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 196571,
       "name": "Spoils",
       "url": "https://open.spotify.com/track/6p2GZQ2XvtzY1y02AvsA0J"
@@ -2706,6 +2750,24 @@
       "duration_ms": 132194,
       "name": "Still Ain't Free",
       "url": "https://open.spotify.com/track/4TFvHFpvWHFhP9TDt02ppl"
+    },
+    {
+      "album": {
+        "name": "Stop It",
+        "url": "https://open.spotify.com/album/2SsU7ZWMzTVM5y4Od5A0Xi"
+      },
+      "artists": [
+        {
+          "name": "tg.blk",
+          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159344,
+      "name": "Stop It",
+      "url": "https://open.spotify.com/track/4d1VFhVgEluNnHttOaZtCf"
     },
     {
       "album": {

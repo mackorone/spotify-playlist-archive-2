@@ -1,12 +1,12 @@
 {
   "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 552042,
+  "num_followers": 552114,
   "original_name": "This Is Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajnMgAAAAABqjsycA6ZKPKPkPpM0pbG7",
+  "snapshot_id": "ajseAAAAAABpXl3pci8PKiznFx0UkZgx",
   "tracks": [
     {
       "added_at": null,
@@ -159,8 +159,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jenni",
-        "url": "https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh"
+        "name": "La Gran Se\u00f1ora (En Vivo)",
+        "url": "https://open.spotify.com/album/10gxA0j90FN3wKfKOJWrqx"
       },
       "artists": [
         {
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 212902,
-      "name": "Culpable o Inocente",
-      "url": "https://open.spotify.com/track/59AAuV11OFaL8VX98tLxYx"
+      "duration_ms": 184026,
+      "name": "\u00c9l - Banda",
+      "url": "https://open.spotify.com/track/4SFqbs96DA1k3r86PuQuRT"
     },
     {
       "added_at": null,
@@ -191,8 +191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Gran Se\u00f1ora (En Vivo)",
-        "url": "https://open.spotify.com/album/10gxA0j90FN3wKfKOJWrqx"
+        "name": "Jenni",
+        "url": "https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 184026,
-      "name": "\u00c9l - Banda",
-      "url": "https://open.spotify.com/track/4SFqbs96DA1k3r86PuQuRT"
+      "duration_ms": 212902,
+      "name": "Culpable o Inocente",
+      "url": "https://open.spotify.com/track/59AAuV11OFaL8VX98tLxYx"
     },
     {
       "added_at": null,
@@ -519,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simplemente la Mejor",
-        "url": "https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu"
+        "name": "Parrandera, Rebelde y Atrevida (Deluxe)",
+        "url": "https://open.spotify.com/album/5PjhD3qNxs02Ut8149t827"
       },
       "artists": [
         {
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 224533,
-      "name": "Cuando Abras los Ojos",
-      "url": "https://open.spotify.com/track/7DgqG1GwFqEN5tsNpCbTEr"
+      "duration_ms": 167386,
+      "name": "La Mentada Contestada",
+      "url": "https://open.spotify.com/track/60mlbpRNxsypQZ9K1Igtlt"
     },
     {
       "added_at": null,
@@ -551,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parrandera, Rebelde y Atrevida (Deluxe)",
-        "url": "https://open.spotify.com/album/5PjhD3qNxs02Ut8149t827"
+        "name": "Simplemente la Mejor",
+        "url": "https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 167386,
-      "name": "La Mentada Contestada",
-      "url": "https://open.spotify.com/track/60mlbpRNxsypQZ9K1Igtlt"
+      "duration_ms": 224533,
+      "name": "Cuando Abras los Ojos",
+      "url": "https://open.spotify.com/track/7DgqG1GwFqEN5tsNpCbTEr"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
       "duration_ms": 180800,
       "name": "Jefa de Jefas",
       "url": "https://open.spotify.com/track/6Lwdlm1EPGrlZhh9BrL415"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Simplemente la Mejor",
-        "url": "https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 178840,
-      "name": "Querida Socia",
-      "url": "https://open.spotify.com/track/2RnicjjQqoaeY2YiiMxrPq"
     },
     {
       "added_at": null,
@@ -631,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Simplemente la Mejor",
+        "url": "https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 178840,
+      "name": "Querida Socia",
+      "url": "https://open.spotify.com/track/2RnicjjQqoaeY2YiiMxrPq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ajustando Cuentas",
         "url": "https://open.spotify.com/album/4sGlWWQx6V1fq8ct7T4aFV"
       },
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joyas Prestadas - Pop",
-        "url": "https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 233666,
-      "name": "Que Ganas de No Verte Nunca M\u00e1s - Pop",
-      "url": "https://open.spotify.com/track/7BcyzX3sgFJht2vhVrXYzl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Vida Loca",
         "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 156866,
       "name": "Dama Divina",
       "url": "https://open.spotify.com/track/4mznGgE31Oj2vDlrPNZLqx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joyas Prestadas - Pop",
+        "url": "https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 233666,
+      "name": "Que Ganas de No Verte Nunca M\u00e1s - Pop",
+      "url": "https://open.spotify.com/track/7BcyzX3sgFJht2vhVrXYzl"
     },
     {
       "added_at": null,

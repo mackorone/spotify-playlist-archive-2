@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK?si=O87CnBBVQa2U4Fc3osghig">Kalisway</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,203 likes - 110 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,399 likes - 110 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 109 | [Move on](https://open.spotify.com/track/2x3ysVnMpdIwtski9oYQPJ) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Move on](https://open.spotify.com/album/2nLoFygVWZrgN2Bxf3B40q) | 2:30 |
 | 110 | [raindance](https://open.spotify.com/track/127BebV29M41FmJqcl8k20) | [nomi.](https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4) | [raindance](https://open.spotify.com/album/5xSBMTCqNGDgmIoZgcfVGD) | 3:38 |
 
-Snapshot ID: `AAAAAO+1W0JQgvBlRZpMw8h3yld3XMwc`
+Snapshot ID: `AAAAAG2PczVG5Ox57LYGj4uGoe8VLDV6`

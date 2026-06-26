@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every week!",
-  "num_followers": 43401,
+  "num_followers": 43400,
   "original_name": "DIM MAK: IN ROTATION",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAau3dp8b7p4HkfRiI6X4HvkjowW9C1",
+  "snapshot_id": "AAAavO1CEj+FoOlQ+1OhPgnGrU8h/JCL",
   "tracks": [
+    {
+      "added_at": "2026-06-26 04:00:45",
+      "album": {
+        "name": "Currently On Earth",
+        "url": "https://open.spotify.com/album/7fxZTHkdRmh3axTjquZTiT"
+      },
+      "artists": [
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        }
+      ],
+      "duration_ms": 148363,
+      "name": "Bad Decisions",
+      "url": "https://open.spotify.com/track/5j2Frre1NAPZXRlPb9ZqPE"
+    },
     {
       "added_at": "2026-06-19 04:00:45",
       "album": {

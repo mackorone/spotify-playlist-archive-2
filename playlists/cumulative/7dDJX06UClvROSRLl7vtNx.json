@@ -6109,6 +6109,24 @@
     },
     {
       "album": {
+        "name": "Don't Wake Me Up",
+        "url": "https://open.spotify.com/album/7ErjMWFV94KMCUhElxBNgT"
+      },
+      "artists": [
+        {
+          "name": "Palmero",
+          "url": "https://open.spotify.com/artist/5hV5GLJ6kmWccJriPOPsOn"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Don't Wake Me Up",
+      "url": "https://open.spotify.com/track/4TarBt7QV14oURpe58STe8"
+    },
+    {
+      "album": {
         "name": "Don't Waste My Time",
         "url": "https://open.spotify.com/album/6JD71V9kfkWeA7K9h5Ajy7"
       },
@@ -9042,6 +9060,28 @@
       "duration_ms": 192786,
       "name": "Fresh Eyes",
       "url": "https://open.spotify.com/track/0RYjVsBEFZvWyzouOncb0C"
+    },
+    {
+      "album": {
+        "name": "Friday I\u2018m In Love",
+        "url": "https://open.spotify.com/album/7KVKlqh6PrpB63lu6xstwW"
+      },
+      "artists": [
+        {
+          "name": "KNJA",
+          "url": "https://open.spotify.com/artist/74hLdAwpDYOY02e9vw71f6"
+        },
+        {
+          "name": "Blevo",
+          "url": "https://open.spotify.com/artist/5Uu0ppV7jzY7ZR9xVCInHO"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129523,
+      "name": "Friday I\u2018m In Love",
+      "url": "https://open.spotify.com/track/76WCBPWg4x1Tqb9O8A0I8o"
     },
     {
       "album": {

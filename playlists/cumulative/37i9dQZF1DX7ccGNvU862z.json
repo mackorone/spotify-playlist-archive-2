@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: YUNGTARR",
+  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Ben Bizzy",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. ",
   "tracks": [
     {
@@ -2816,7 +2816,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 142784,
       "name": "Gim Me Luv",
       "url": "https://open.spotify.com/track/0PPYVvUh7t65U8acz6LHLZ"
@@ -4464,6 +4464,24 @@
       "duration_ms": 151759,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/2L1s9xXqvRYv8DpARRAjwK"
+    },
+    {
+      "album": {
+        "name": "MINT TEA",
+        "url": "https://open.spotify.com/album/0Y014VIujgb8yA8eVYYhOT"
+      },
+      "artists": [
+        {
+          "name": "Ben Bizzy",
+          "url": "https://open.spotify.com/artist/7IFeTLxFc5Qn00yznSbNO6"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180014,
+      "name": "MINT TEA",
+      "url": "https://open.spotify.com/track/1tj8d7hU2zu0gXkox7fodo"
     },
     {
       "album": {
@@ -14839,6 +14857,24 @@
     },
     {
       "album": {
+        "name": "ZAXLOVE",
+        "url": "https://open.spotify.com/album/3Aw1ZrgGL5RYJ3vngXbget"
+      },
+      "artists": [
+        {
+          "name": "PORZAX",
+          "url": "https://open.spotify.com/artist/4ykAAPcxGHz8z6N0muxbIP"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297520,
+      "name": "\u0e2b\u0e21\u0e32\u0e44\u0e21\u0e48\u0e21\u0e35\u0e40\u0e08\u0e49\u0e32\u0e02\u0e2d\u0e07",
+      "url": "https://open.spotify.com/track/3e1XS4ew4iuS2EdMFEWr7D"
+    },
+    {
+      "album": {
         "name": "PARAGON DEMON",
         "url": "https://open.spotify.com/album/5YNVxOuJPYy432DbTYMluj"
       },
@@ -16476,7 +16512,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 250637,
       "name": "\u0e40\u0e18\u0e2d\u0e23\u0e39\u0e49\u0e40\u0e1b\u0e25\u0e48\u0e32",
       "url": "https://open.spotify.com/track/48PXQVS6XxRvT1rXEq0sd7"

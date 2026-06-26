@@ -4,7 +4,7 @@
 
 > New music by Hamilton, DFZM, Ysa C, Daramola & more.
 
-12,341 songs - 26 day 18 hr 31 min
+12,342 songs - 26 day 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5903,6 +5903,7 @@
 | [LENTITO](https://open.spotify.com/track/4RMKNv1Bl3koY4Kys0G8Rb) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [LENTITO](https://open.spotify.com/album/4wIh0endOPhEFLXLVYQCR3) | 3:23 | 2022-09-30 | 2022-10-08 |
 | [Lento](https://open.spotify.com/track/7HKSD4sgEvIv22zVb3T8xN) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi), [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [Lento](https://open.spotify.com/album/4Mpvt6bZfXYAbngcdp6qSB) | 3:49 | 2024-10-25 | 2024-11-02 |
 | [lento](https://open.spotify.com/track/6y9gnJMwDfwJZrxyCd3Q6s) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3) | [idek](https://open.spotify.com/album/3WOcKu6D3jHEPkWW28SGN1) | 2:32 | 2024-03-01 | 2024-03-09 |
+| [Lento](https://open.spotify.com/track/5uWQZ1ePLnSar0TiVzhr3v) | [Ian Cordova](https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh) | [Lento](https://open.spotify.com/album/5y000MuZ68BHJNNTpEJwNL) | 2:26 | 2026-06-19 |  |
 | [Lento](https://open.spotify.com/track/5l80MVl9qHtLhnG63yINMA) | [Jamby El Favo](https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs) | [Lento](https://open.spotify.com/album/7mdFaDz52A5tjN3VaV8D9R) | 3:06 | 2023-06-23 | 2023-07-01 |
 | [Lento](https://open.spotify.com/track/24ntAnWA1WbHGsGvKmHho8) | [Katia Morales](https://open.spotify.com/artist/5vvGAPzhwxeJzYaNwARBXg) | [Lento](https://open.spotify.com/album/7tw3cUyAi4VH9lg7Zl3Cru) | 3:00 | 2022-05-14 | 2022-05-20 |
 | [Lento](https://open.spotify.com/track/6H7tS5QBrDzU1H79g10J1y) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Música Para Abrir El Cielo](https://open.spotify.com/album/373sjPmbcfb0MBTscza6S2) | 3:32 | 2025-06-27 | 2025-07-05 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajnMgAAAAACrt4a/PmaK4LzmMsy2xr8n",
+  "snapshot_id": "ajseAAAAAACDTvpePWXB6ZArlxlt5y+s",
   "tracks": [
     {
       "added_at": null,
@@ -163,22 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DIOSA",
-        "url": "https://open.spotify.com/album/2peVeEknLSziqoRn6OY6bZ"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 214564,
-      "name": "DIOSA",
-      "url": "https://open.spotify.com/track/25Hpxra07AbkK4l3SzwKyt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En La Fuga",
         "url": "https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 166256,
       "name": "Soy De Ambiente",
       "url": "https://open.spotify.com/track/0Zu3mHd7Oq5tCTctYlmBwJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DIOSA",
+        "url": "https://open.spotify.com/album/2peVeEknLSziqoRn6OY6bZ"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 214564,
+      "name": "DIOSA",
+      "url": "https://open.spotify.com/track/25Hpxra07AbkK4l3SzwKyt"
     },
     {
       "added_at": null,
@@ -231,22 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seguiremos Trabajando",
-        "url": "https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 182624,
-      "name": "Seguiremos Trabajando",
-      "url": "https://open.spotify.com/track/2IIM3kOZaaGAKbmhTbeBiF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En La Fuga",
         "url": "https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 176181,
       "name": "Recio Andamos",
       "url": "https://open.spotify.com/track/6MNSEAJ2acxLtDVC1DmBu8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seguiremos Trabajando",
+        "url": "https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 182624,
+      "name": "Seguiremos Trabajando",
+      "url": "https://open.spotify.com/track/2IIM3kOZaaGAKbmhTbeBiF"
     },
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seguiremos Trabajando",
-        "url": "https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 146499,
-      "name": "Playas",
-      "url": "https://open.spotify.com/track/7xVJ2ccRAQpUWL6fHPslqL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En La Fuga",
         "url": "https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 209962,
       "name": "Calorsitos Del Desierto",
       "url": "https://open.spotify.com/track/74NAHTRdV5EuABIWxCYK6A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seguiremos Trabajando",
+        "url": "https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 146499,
+      "name": "Playas",
+      "url": "https://open.spotify.com/track/7xVJ2ccRAQpUWL6fHPslqL"
     },
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seguiremos Trabajando",
-        "url": "https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 146249,
-      "name": "Gente De Negocio",
-      "url": "https://open.spotify.com/track/3rZXsyClbQZPN20u3h8ADk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En La Fuga",
         "url": "https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 164064,
       "name": "El Vivo Retrato (Ivan Archivaldo)",
       "url": "https://open.spotify.com/track/3gwyEB1bV3xdtl4gbfxAXt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seguiremos Trabajando",
+        "url": "https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 146249,
+      "name": "Gente De Negocio",
+      "url": "https://open.spotify.com/track/3rZXsyClbQZPN20u3h8ADk"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seguiremos Trabajando",
-        "url": "https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 212749,
-      "name": "L.A. Dank",
-      "url": "https://open.spotify.com/track/7ygyBnWDSAPAyrr6s66tCr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gente Chaka",
         "url": "https://open.spotify.com/album/2hJu97YCvQwIfJgx2nWtjB"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 212400,
       "name": "Gente Chaka",
       "url": "https://open.spotify.com/track/28qTpHSCXu4ATe4Lwjvhmf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seguiremos Trabajando",
+        "url": "https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 212749,
+      "name": "L.A. Dank",
+      "url": "https://open.spotify.com/track/7ygyBnWDSAPAyrr6s66tCr"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrk\u00e7e rap'in hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar. Kapak: Motive",
+  "description": "T\u00fcrk\u00e7e rap'in hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar. Kapak: UZI",
   "name": "NKVT",
   "tracks": [
     {
@@ -1993,6 +1993,24 @@
     },
     {
       "album": {
+        "name": "AYNEN",
+        "url": "https://open.spotify.com/album/4TzhkIgAQ1WkSTIcWB5HIa"
+      },
+      "artists": [
+        {
+          "name": "K\u00d6K$VL",
+          "url": "https://open.spotify.com/artist/5fO16dsHVrojWL2mPzcdpq"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117339,
+      "name": "AYNEN",
+      "url": "https://open.spotify.com/track/48H4oURRO8gcUkwv5Hgs4S"
+    },
+    {
+      "album": {
         "name": "ay\u0131k ol o\u011flum",
         "url": "https://open.spotify.com/album/0JDmz3DbuSBN0Mzbe1E5dj"
       },
@@ -3017,6 +3035,28 @@
     },
     {
       "album": {
+        "name": "BENI VUR",
+        "url": "https://open.spotify.com/album/7uGNZYMWg52mFQCYiJ6f1n"
+      },
+      "artists": [
+        {
+          "name": "Jefe",
+          "url": "https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE"
+        },
+        {
+          "name": "Pango",
+          "url": "https://open.spotify.com/artist/1wRU9DVyKSF1BCHE0PXDuE"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192126,
+      "name": "BENI VUR",
+      "url": "https://open.spotify.com/track/0JEi7rLZsqVBS9kbHXcN31"
+    },
+    {
+      "album": {
         "name": "Beni Yaln\u0131zl\u0131\u011fa Verme",
         "url": "https://open.spotify.com/album/4qq6jEmJE6MhvykNYfJnIV"
       },
@@ -3240,6 +3280,24 @@
       "duration_ms": 240000,
       "name": "Bi \u00c7are Yok Mu?",
       "url": "https://open.spotify.com/track/2tDtFKYXHGdVxtizAA5a2y"
+    },
+    {
+      "album": {
+        "name": "BIG TERORISTA",
+        "url": "https://open.spotify.com/album/2FFxo0hbrWFWhrI3c5IQwG"
+      },
+      "artists": [
+        {
+          "name": "Jeff Redd",
+          "url": "https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136800,
+      "name": "BIG TERORISTA",
+      "url": "https://open.spotify.com/track/0l3OXNDi239vKlhEBU1LbR"
     },
     {
       "album": {
@@ -5050,7 +5108,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 184421,
       "name": "DEL\u0130LER",
       "url": "https://open.spotify.com/track/6VkJ9RsCWgnnfMKuherGsB"
@@ -6578,7 +6636,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 110545,
       "name": "FRED PERRY",
       "url": "https://open.spotify.com/track/4AmLGwWkeiclifE1qA74oL"
@@ -6706,6 +6764,32 @@
       "duration_ms": 190442,
       "name": "GANG",
       "url": "https://open.spotify.com/track/4xMDN8uwikMBJrmJc9dqG3"
+    },
+    {
+      "album": {
+        "name": "GANG",
+        "url": "https://open.spotify.com/album/2YC2lOtQmlKiYlK7K2iBCL"
+      },
+      "artists": [
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/09WqkYnqWKUQAYSlEvaf6s"
+        },
+        {
+          "name": "Chiko",
+          "url": "https://open.spotify.com/artist/7Hw13rFlmgIGSKEaEIDZhS"
+        },
+        {
+          "name": "Cesiminho",
+          "url": "https://open.spotify.com/artist/6sh53iTqwntQpPhDxnvHDC"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173793,
+      "name": "GANG",
+      "url": "https://open.spotify.com/track/4lgyyBPxyM3Ztb46XNW8EN"
     },
     {
       "album": {
@@ -9886,7 +9970,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 145879,
       "name": "Kadeh",
       "url": "https://open.spotify.com/track/53GwZ2Dd04184MmW8NAeX7"
@@ -10210,7 +10294,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 125162,
       "name": "Kalk Hele - Official \u2018Polis\u2019 Soundtrack",
       "url": "https://open.spotify.com/track/73JK018WaI7X11XqIWZ6BV"
@@ -12958,7 +13042,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 136343,
       "name": "Ma\u015fallah",
       "url": "https://open.spotify.com/track/3nX8jHSQ0quuVUvVjqu22m"
@@ -13166,7 +13250,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 213986,
       "name": "Mia Vita",
       "url": "https://open.spotify.com/track/4NGe2XJQ5rL0w9YOu2Cyem"
@@ -14378,7 +14462,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 133090,
       "name": "Oldururum",
       "url": "https://open.spotify.com/track/10ueVnfmNGXi9oJtXkX49n"
@@ -15314,7 +15398,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 125000,
       "name": "PSS PSS",
       "url": "https://open.spotify.com/track/5CQem4aQAsjP47PGkfxiXt"
@@ -16651,6 +16735,28 @@
     },
     {
       "album": {
+        "name": "Say",
+        "url": "https://open.spotify.com/album/2gqMqf9niKqBUXYS15w9bv"
+      },
+      "artists": [
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+        },
+        {
+          "name": "FT Kings",
+          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144079,
+      "name": "Say",
+      "url": "https://open.spotify.com/track/7ePFgZKyrd38XLTOasoEjk"
+    },
+    {
+      "album": {
         "name": "Say Goodbye 2.0 (feat. Motive & Yung Kafa & K\u00fcc\u00fck Efendi)",
         "url": "https://open.spotify.com/album/5Vk7rj2j2qxfWzOFT1sXn5"
       },
@@ -17308,6 +17414,28 @@
       "duration_ms": 106712,
       "name": "SINKIDX",
       "url": "https://open.spotify.com/track/38UJvDFfS4b3kCkSY4WF1x"
+    },
+    {
+      "album": {
+        "name": "SIPANBABUR",
+        "url": "https://open.spotify.com/album/4Uu941etciEkCEBr1uwWw6"
+      },
+      "artists": [
+        {
+          "name": "Sefo",
+          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
+        },
+        {
+          "name": "SXFO",
+          "url": "https://open.spotify.com/artist/2sgjaKjFV1z56ZXESYnooS"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "SIPANBABUR",
+      "url": "https://open.spotify.com/track/79MU3uKBRS09D5T9pZooDY"
     },
     {
       "album": {
@@ -18507,6 +18635,24 @@
     },
     {
       "album": {
+        "name": "teketek",
+        "url": "https://open.spotify.com/album/3YAi11rTakD2KezHJqKTQe"
+      },
+      "artists": [
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149919,
+      "name": "teketek",
+      "url": "https://open.spotify.com/track/36gAnrrawFoMDhf00yFXJq"
+    },
+    {
+      "album": {
         "name": "Tekta\u015f",
         "url": "https://open.spotify.com/album/6N6G1CHA7CovdTgvhnCt9C"
       },
@@ -18862,6 +19008,28 @@
       "duration_ms": 168000,
       "name": "TUZAK",
       "url": "https://open.spotify.com/track/1vYjLlQ91DqZ9x5uH0sSx9"
+    },
+    {
+      "album": {
+        "name": "T\u00f6vbe Est",
+        "url": "https://open.spotify.com/album/3x5YyDtOCXmsf9f4eyGUdx"
+      },
+      "artists": [
+        {
+          "name": "Decrat",
+          "url": "https://open.spotify.com/artist/5ouX1Qz844h25lu0aXUaw5"
+        },
+        {
+          "name": "Zen-G",
+          "url": "https://open.spotify.com/artist/4HSiNCPhdU2snKaVJytlUM"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "T\u00f6vbe Est",
+      "url": "https://open.spotify.com/track/1zoFwNn0inaoNQ1KgOGyNO"
     },
     {
       "album": {
@@ -19845,6 +20013,32 @@
     },
     {
       "album": {
+        "name": "Yalanc\u0131 Deliler Sirkinde",
+        "url": "https://open.spotify.com/album/3MeSFltEDqQhyE29L73Bb0"
+      },
+      "artists": [
+        {
+          "name": "Levvera",
+          "url": "https://open.spotify.com/artist/0wlUg2BKydLiZ0ilbzTTkY"
+        },
+        {
+          "name": "\u00c7a\u011fr\u0131 Sinci",
+          "url": "https://open.spotify.com/artist/32d21ZV2sLX2sGdjefVMJg"
+        },
+        {
+          "name": "Ali Ece",
+          "url": "https://open.spotify.com/artist/2SzYIeKDEwpMoQzKH5InmK"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167999,
+      "name": "Yalanc\u0131 Deliler Sirki",
+      "url": "https://open.spotify.com/track/6SUnNrdVOPj2U4njyrhECm"
+    },
+    {
+      "album": {
         "name": "LORD OF THE MICS, Vol. 2",
         "url": "https://open.spotify.com/album/4GuTiymFPlDr5PlgOknVA4"
       },
@@ -20166,7 +20360,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 111660,
       "name": "YAZ GELD\u0130",
       "url": "https://open.spotify.com/track/2EMcEACoacj3CtLc3ajuTQ"

@@ -4056,7 +4056,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 194478,
       "name": "Hallelujah (feat. Marcus Harvey & Sundile)",
       "url": "https://open.spotify.com/track/1Q9IHpVfytrl6M5JIiyvWL"
@@ -11920,6 +11920,28 @@
       "duration_ms": 260032,
       "name": "SABA",
       "url": "https://open.spotify.com/track/6PouYYNwmZX4fD1gIoSD8N"
+    },
+    {
+      "album": {
+        "name": "Sabawela",
+        "url": "https://open.spotify.com/album/6ttNznFPsKkkhSJ35UUxKR"
+      },
+      "artists": [
+        {
+          "name": "Empro",
+          "url": "https://open.spotify.com/artist/7qW54SKGCLpQmny8mOL9wT"
+        },
+        {
+          "name": "Danya Devs",
+          "url": "https://open.spotify.com/artist/351dtAN3qmvZNfNrYP2gEs"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186482,
+      "name": "Sabawela",
+      "url": "https://open.spotify.com/track/1dkGCFQ3JzgaKhchSMXLNV"
     },
     {
       "album": {

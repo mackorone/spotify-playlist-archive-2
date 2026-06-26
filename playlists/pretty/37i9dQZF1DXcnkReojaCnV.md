@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcnkReojaCnV.md) - [plain]
 
 > <a href="spotify:artist:2gFsmDBM0hkoZPmrO5EdyO">Tedeschi Trucks Band</a> is taking over to share their blues favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,421 likes - 35 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,424 likes - 35 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

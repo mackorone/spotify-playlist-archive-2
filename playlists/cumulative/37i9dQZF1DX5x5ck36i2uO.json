@@ -405,6 +405,24 @@
     },
     {
       "album": {
+        "name": "Am I Trippin'?",
+        "url": "https://open.spotify.com/album/0U8JxnnjXex1ZYi2MK2adm"
+      },
+      "artists": [
+        {
+          "name": "Yung Blesh",
+          "url": "https://open.spotify.com/artist/4brsMLGzcBIcMFiow8fRfZ"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135210,
+      "name": "Believe Me",
+      "url": "https://open.spotify.com/track/7ePIsK7mHACLf3Yk4Emd2Q"
+    },
+    {
+      "album": {
         "name": "Black & White Film",
         "url": "https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa"
       },
@@ -2474,7 +2492,7 @@
       },
       "artists": [
         {
-          "name": "JUSTHIS",
+          "name": "\uc800\uc2a4\ub514\uc2a4 (JUSTHIS)",
           "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
         },
         {
@@ -2620,7 +2638,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 172225,
       "name": "paris and tokyo",
       "url": "https://open.spotify.com/track/6SMtaDw5xVGTPVexnw2eLM"

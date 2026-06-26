@@ -1,12 +1,12 @@
 {
   "description": "Classic Disney songs reimagined by your favorite popular artists.",
-  "num_followers": 38691,
+  "num_followers": 38693,
   "original_name": "Disney Reimagined",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMJupQ7+oxddC7r/M8WIgeKy2oEM",
+  "snapshot_id": "AAAAAOXPw2QCYf62j655+y6EqpU8DF6r",
   "tracks": [
     {
       "added_at": "2026-04-03 13:00:17",
@@ -133,6 +133,26 @@
       "url": "https://open.spotify.com/track/5PfDGxZXOnJLJvghTAtQJP"
     },
     {
+      "added_at": "2026-06-25 19:51:01",
+      "album": {
+        "name": "You've Got a Friend in Me",
+        "url": "https://open.spotify.com/album/1qzCfhOlnggHIGJNfDNfws"
+      },
+      "artists": [
+        {
+          "name": "Jordan Fisher",
+          "url": "https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2"
+        },
+        {
+          "name": "Olivia Holt",
+          "url": "https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf"
+        }
+      ],
+      "duration_ms": 128606,
+      "name": "You've Got a Friend in Me",
+      "url": "https://open.spotify.com/track/5yCPyI7CWSb6RzLupHLnnn"
+    },
+    {
       "added_at": "2026-04-03 13:00:17",
       "album": {
         "name": "Almost There",
@@ -171,22 +191,6 @@
     {
       "added_at": "2026-04-03 13:00:17",
       "album": {
-        "name": "You'll Be In My Heart",
-        "url": "https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 241776,
-      "name": "You'll Be in My Heart",
-      "url": "https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC"
-    },
-    {
-      "added_at": "2026-04-03 13:00:17",
-      "album": {
         "name": "Part of Your World (From \"A Whole New Sound\")",
         "url": "https://open.spotify.com/album/4rArDFN5s3R7Odlp0usxSg"
       },
@@ -203,22 +207,6 @@
       "duration_ms": 178823,
       "name": "Part of Your World - From \"A Whole New Sound\"",
       "url": "https://open.spotify.com/track/6XxEDKmaB3gukOlM5jNWCs"
-    },
-    {
-      "added_at": "2026-04-03 13:00:17",
-      "album": {
-        "name": "Disney Guitar: Grim Grinning Ghosts",
-        "url": "https://open.spotify.com/album/054i6SZs6LCR7hn8iVKJ0s"
-      },
-      "artists": [
-        {
-          "name": "Disney Peaceful Guitar",
-          "url": "https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX"
-        }
-      ],
-      "duration_ms": 179042,
-      "name": "Grim Grinning Ghosts",
-      "url": "https://open.spotify.com/track/1OsxTNbKvrdaXjmoGmltiP"
     },
     {
       "added_at": "2026-04-03 13:00:17",
@@ -263,22 +251,6 @@
       "duration_ms": 188827,
       "name": "Go the Distance - From \"A Whole New Sound\"",
       "url": "https://open.spotify.com/track/6NNYKnSo8Oix7oQeuz8jMm"
-    },
-    {
-      "added_at": "2026-04-03 13:00:17",
-      "album": {
-        "name": "Who Says",
-        "url": "https://open.spotify.com/album/4fExl4rIxqaqqnSMqVEhuJ"
-      },
-      "artists": [
-        {
-          "name": "Freya Skye",
-          "url": "https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn"
-        }
-      ],
-      "duration_ms": 171946,
-      "name": "Who Says",
-      "url": "https://open.spotify.com/track/1HZf9YOv3YgSBdnbaRhVXM"
     },
     {
       "added_at": "2026-04-03 13:00:17",
@@ -367,30 +339,6 @@
       "duration_ms": 166378,
       "name": "Can You Picture That? - From \"The Muppets Mayhem\"",
       "url": "https://open.spotify.com/track/4UzujGAgPblZR5QXeRbglm"
-    },
-    {
-      "added_at": "2026-04-03 13:00:17",
-      "album": {
-        "name": "Lilo & Stitch (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/682Q92eLz5C2AjMv5oYt4V"
-      },
-      "artists": [
-        {
-          "name": "Mark Keali'i Ho'omalu",
-          "url": "https://open.spotify.com/artist/7ysDgZ3JkblCgOsDTJWttt"
-        },
-        {
-          "name": "Kamehameha Schools Children's Chorus",
-          "url": "https://open.spotify.com/artist/5uOO6CI45847UsjUQsd2iS"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 151106,
-      "name": "He Lei P\u0101pahi No Lilo a me Stitch",
-      "url": "https://open.spotify.com/track/6dAn3QBtsg5to62lkaWT7M"
     },
     {
       "added_at": "2026-04-03 13:00:17",
@@ -739,22 +687,6 @@
     {
       "added_at": "2026-04-03 13:00:17",
       "album": {
-        "name": "Disney Peaceful Piano: Focus",
-        "url": "https://open.spotify.com/album/2M12PscQNEqhVaKd2wu1d9"
-      },
-      "artists": [
-        {
-          "name": "Disney Peaceful Piano",
-          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
-        }
-      ],
-      "duration_ms": 186568,
-      "name": "Movin' Right Along",
-      "url": "https://open.spotify.com/track/3B9y94mviI5jHtjiSv6UyP"
-    },
-    {
-      "added_at": "2026-04-03 13:00:17",
-      "album": {
         "name": "Cinderella (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx"
       },
@@ -855,22 +787,6 @@
       "duration_ms": 125533,
       "name": "Love Is an Open Door",
       "url": "https://open.spotify.com/track/68jg6wseZjKSJ0HUMjNS7C"
-    },
-    {
-      "added_at": "2026-04-03 13:00:17",
-      "album": {
-        "name": "This Christmas",
-        "url": "https://open.spotify.com/album/3zxI5nRTYcfLS0b1pkVGvZ"
-      },
-      "artists": [
-        {
-          "name": "DCappella",
-          "url": "https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm"
-        }
-      ],
-      "duration_ms": 151986,
-      "name": "This Christmas",
-      "url": "https://open.spotify.com/track/1XqOzrnKL3hPBwaAs8TFFz"
     },
     {
       "added_at": "2026-04-03 13:00:17",
@@ -1071,22 +987,6 @@
       "duration_ms": 177093,
       "name": "I2I",
       "url": "https://open.spotify.com/track/1wY19Sir08u9TzlCVn0kjj"
-    },
-    {
-      "added_at": "2026-04-03 13:00:17",
-      "album": {
-        "name": "Haunted Mansion (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7JNLw46VIKt7zqPxFA69l7"
-      },
-      "artists": [
-        {
-          "name": "Kris Bowers",
-          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
-        }
-      ],
-      "duration_ms": 92146,
-      "name": "Grim Grinning Ghosts (Dance Party)",
-      "url": "https://open.spotify.com/track/7raiG1962Kb1UyD8otwGXZ"
     },
     {
       "added_at": "2026-04-03 13:00:17",

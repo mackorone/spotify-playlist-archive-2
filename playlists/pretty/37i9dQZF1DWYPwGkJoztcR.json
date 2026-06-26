@@ -1,6 +1,6 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 397633,
+  "num_followers": 397635,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
-        "name": "Better Man",
-        "url": "https://open.spotify.com/album/3AoxpOQGQDnYI4aTvGV6UD"
-      },
-      "artists": [
-        {
-          "name": "Jim Gardner",
-          "url": "https://open.spotify.com/artist/2G6eENqmaNAqfkQKiG3dun"
-        }
-      ],
-      "duration_ms": 153973,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/1EbPdSGUieuXiUj6pThOOP"
-    },
-    {
-      "added_at": "2026-05-26 22:00:49",
-      "album": {
         "name": "Small Changes",
         "url": "https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 271930,
       "name": "One And Only",
       "url": "https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90"
+    },
+    {
+      "added_at": "2026-05-26 22:00:49",
+      "album": {
+        "name": "Better Man",
+        "url": "https://open.spotify.com/album/3AoxpOQGQDnYI4aTvGV6UD"
+      },
+      "artists": [
+        {
+          "name": "Jim Gardner",
+          "url": "https://open.spotify.com/artist/2G6eENqmaNAqfkQKiG3dun"
+        }
+      ],
+      "duration_ms": 153973,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/1EbPdSGUieuXiUj6pThOOP"
     },
     {
       "added_at": "2026-05-26 22:00:49",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
-        "name": "Light Over You",
-        "url": "https://open.spotify.com/album/6YjrJQg4SJlW02PtoZFghy"
-      },
-      "artists": [
-        {
-          "name": "Janna",
-          "url": "https://open.spotify.com/artist/3fBellqlNNu3nZdBxgQduS"
-        }
-      ],
-      "duration_ms": 176746,
-      "name": "Light Over You",
-      "url": "https://open.spotify.com/track/0GES2JIoKo7fwiQUviVOhN"
-    },
-    {
-      "added_at": "2026-05-26 22:00:49",
-      "album": {
         "name": "Guy From Outer Space",
         "url": "https://open.spotify.com/album/0SmDKRm8ipUPFzf9PtrUzk"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 163176,
       "name": "Guy From Outer Space",
       "url": "https://open.spotify.com/track/15i3dsbI648yXalkC7tlpK"
+    },
+    {
+      "added_at": "2026-05-26 22:00:49",
+      "album": {
+        "name": "Light Over You",
+        "url": "https://open.spotify.com/album/6YjrJQg4SJlW02PtoZFghy"
+      },
+      "artists": [
+        {
+          "name": "Janna",
+          "url": "https://open.spotify.com/artist/3fBellqlNNu3nZdBxgQduS"
+        }
+      ],
+      "duration_ms": 176746,
+      "name": "Light Over You",
+      "url": "https://open.spotify.com/track/0GES2JIoKo7fwiQUviVOhN"
     },
     {
       "added_at": "2026-05-26 22:00:49",
@@ -467,22 +467,6 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
-        "name": "Conversation",
-        "url": "https://open.spotify.com/album/2uiBton7Bsbn3rFABv8vDp"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 186438,
-      "name": "Conversation",
-      "url": "https://open.spotify.com/track/7xNTBpjd4aU98Roi43Gzzo"
-    },
-    {
-      "added_at": "2026-05-26 22:00:49",
-      "album": {
         "name": "Back on the Road",
         "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 186079,
       "name": "Walls",
       "url": "https://open.spotify.com/track/23maC3cddA5XAxmeVVxpr3"
+    },
+    {
+      "added_at": "2026-05-26 22:00:49",
+      "album": {
+        "name": "Conversation",
+        "url": "https://open.spotify.com/album/2uiBton7Bsbn3rFABv8vDp"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 186438,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/7xNTBpjd4aU98Roi43Gzzo"
     },
     {
       "added_at": "2026-05-26 22:00:49",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
+        "name": "What Makes A King",
+        "url": "https://open.spotify.com/album/59ZHtyohHl6rHbajav5ofK"
+      },
+      "artists": [
+        {
+          "name": "Marcel Kapteijn",
+          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
+        }
+      ],
+      "duration_ms": 168433,
+      "name": "What Makes A King",
+      "url": "https://open.spotify.com/track/0quGcjPmKx83IghLfgcS3P"
+    },
+    {
+      "added_at": "2026-05-26 22:00:49",
+      "album": {
         "name": "Heart of the Matter",
         "url": "https://open.spotify.com/album/0g8sy5xfRXLxvlgxYsfSEt"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 244472,
       "name": "Heart of the Matter",
       "url": "https://open.spotify.com/track/6OkmVYAiybfvlSjrGnCTPb"
-    },
-    {
-      "added_at": "2026-05-26 22:00:49",
-      "album": {
-        "name": "What Makes A King",
-        "url": "https://open.spotify.com/album/59ZHtyohHl6rHbajav5ofK"
-      },
-      "artists": [
-        {
-          "name": "Marcel Kapteijn",
-          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
-        }
-      ],
-      "duration_ms": 168433,
-      "name": "What Makes A King",
-      "url": "https://open.spotify.com/track/0quGcjPmKx83IghLfgcS3P"
     },
     {
       "added_at": "2026-05-26 22:00:49",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
-        "name": "Apple Tree",
-        "url": "https://open.spotify.com/album/1iKpZ2BXsPfibh7g897dgx"
-      },
-      "artists": [
-        {
-          "name": "Niels Geusebroek",
-          "url": "https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l"
-        }
-      ],
-      "duration_ms": 178336,
-      "name": "Apple Tree",
-      "url": "https://open.spotify.com/track/3F8qD0jYXjGweKRYv5CQRf"
-    },
-    {
-      "added_at": "2026-05-26 22:00:49",
-      "album": {
         "name": "Brotherhood",
         "url": "https://open.spotify.com/album/7haF1TCzyvqeqsb89lMlAT"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 236394,
       "name": "Brotherhood",
       "url": "https://open.spotify.com/track/2ETvqF6fCwAcGjI7OEZlRh"
+    },
+    {
+      "added_at": "2026-05-26 22:00:49",
+      "album": {
+        "name": "Apple Tree",
+        "url": "https://open.spotify.com/album/1iKpZ2BXsPfibh7g897dgx"
+      },
+      "artists": [
+        {
+          "name": "Niels Geusebroek",
+          "url": "https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l"
+        }
+      ],
+      "duration_ms": 178336,
+      "name": "Apple Tree",
+      "url": "https://open.spotify.com/track/3F8qD0jYXjGweKRYv5CQRf"
     },
     {
       "added_at": "2026-05-26 22:00:49",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
-        "name": "Rewind",
-        "url": "https://open.spotify.com/album/264U9Nc6nLZFf6n3FatCnc"
-      },
-      "artists": [
-        {
-          "name": "NYVE",
-          "url": "https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA"
-        }
-      ],
-      "duration_ms": 164493,
-      "name": "Rewind",
-      "url": "https://open.spotify.com/track/0jL1liKSwSLIfX7IdXt5jW"
-    },
-    {
-      "added_at": "2026-05-26 22:00:49",
-      "album": {
         "name": "Back to the River",
         "url": "https://open.spotify.com/album/6yaMZCMnX7lTWKLeyAhutG"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 197960,
       "name": "Toy Heart",
       "url": "https://open.spotify.com/track/0y9CKIUQGBPdeTU3Mjo389"
+    },
+    {
+      "added_at": "2026-05-26 22:00:49",
+      "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/264U9Nc6nLZFf6n3FatCnc"
+      },
+      "artists": [
+        {
+          "name": "NYVE",
+          "url": "https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA"
+        }
+      ],
+      "duration_ms": 164493,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/0jL1liKSwSLIfX7IdXt5jW"
     },
     {
       "added_at": "2026-05-26 22:00:49",

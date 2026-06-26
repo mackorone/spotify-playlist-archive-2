@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 | 52 | [Populaire](https://open.spotify.com/track/7IxOQnwvlxI7g1HFzGiFF7) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [Africa Jungle](https://open.spotify.com/album/3a4GHBBwkr3v9U27eJO2Iw) | 3:24 |
 | 53 | [M'en aller](https://open.spotify.com/track/7LlyQndi8Sebi4YRXz4nVc) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [En temps réel](https://open.spotify.com/album/1rs3ZOltQ78YblG2YMIvRI) | 2:46 |
 | 54 | [Terrain](https://open.spotify.com/track/6NsKnkuSupS2slL2UKDYMG) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Prime](https://open.spotify.com/album/2dF2ZByoSuH2ZZrzoGpjzQ) | 3:08 |
-| 55 | [Vie de reusta](https://open.spotify.com/track/2eEkL0gd9Qv0bHwNwykNQH) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Best Life](https://open.spotify.com/album/5pqeNqiOS8Y4BXU7YVxuQc) | 2:25 |
-| 56 | [Terminer](https://open.spotify.com/track/6fHYEeB30chvQLqEpm89pR) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [W](https://open.spotify.com/album/6pVRTrjpqoLf1vZC21yJC5) | 3:03 |
+| 55 | [Terminer](https://open.spotify.com/track/6fHYEeB30chvQLqEpm89pR) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [W](https://open.spotify.com/album/6pVRTrjpqoLf1vZC21yJC5) | 3:03 |
+| 56 | [Vie de reusta](https://open.spotify.com/track/2eEkL0gd9Qv0bHwNwykNQH) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Best Life](https://open.spotify.com/album/5pqeNqiOS8Y4BXU7YVxuQc) | 2:25 |
 | 57 | [Ton love](https://open.spotify.com/track/7d3tcVaz3RIEV4gzy21Kp7) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk), [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [W](https://open.spotify.com/album/6pVRTrjpqoLf1vZC21yJC5) | 2:18 |
 | 58 | [Ouais x4 / Wake Up](https://open.spotify.com/track/23JfoAyYt1CJvQQ6uaa7Ze) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Prime](https://open.spotify.com/album/2dF2ZByoSuH2ZZrzoGpjzQ) | 4:32 |
 | 59 | [Empire](https://open.spotify.com/track/7inZTYdMa0QXoyaIDxI612) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [LVDR](https://open.spotify.com/album/5RVH7GP0pwyS3KMnRurfj1) | 2:08 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 | 88 | [Par hasard](https://open.spotify.com/track/0u2AmL4idXpdOCOLAwiCd1) | [Rafal](https://open.spotify.com/artist/1po2usUvDtjw2UVI2bnV1h) | [Jukaï : Tome 1](https://open.spotify.com/album/5sqmCvklxhkUu63bGCPtT7) | 2:15 |
 | 89 | [fade up](https://open.spotify.com/track/6VhmOw8lERbTRs1Al7iy2z) | [Eliias](https://open.spotify.com/artist/36hWlixqFk1ZWlJQYaB5To) | [march 29](https://open.spotify.com/album/1DpoTfAnZAEEIqJ4zqcpJG) | 6:32 |
 
-Snapshot ID: `AcVHEAAAAAAbWSqXOzplIFpG+y2iMpIJ`
+Snapshot ID: `AcVMpgAAAAAg1RLKaYsvoSuph2eMS/Xp`

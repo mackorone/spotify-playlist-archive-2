@@ -2401,6 +2401,24 @@
     },
     {
       "album": {
+        "name": "f\u00fchlst du das auch",
+        "url": "https://open.spotify.com/album/2aAHDYWJ0tQzfmn1LsSq7a"
+      },
+      "artists": [
+        {
+          "name": "Mika No\u00e9",
+          "url": "https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118466,
+      "name": "f\u00fchlst du das auch",
+      "url": "https://open.spotify.com/track/6j1rG6MdgGf6axvaRXKgvf"
+    },
+    {
+      "album": {
         "name": "F\u00fcr immer Fr\u00fchling",
         "url": "https://open.spotify.com/album/5CiWnH7Pwp3re6czR6FLCN"
       },
@@ -3485,6 +3503,28 @@
     },
     {
       "album": {
+        "name": "KANN ES SO F\u00dcR IMMER SEIN?",
+        "url": "https://open.spotify.com/album/5Eo2YAztmntKoPIOOcmkSu"
+      },
+      "artists": [
+        {
+          "name": "FAYAN",
+          "url": "https://open.spotify.com/artist/3YTQuQvO2DwiO3AId4yjCF"
+        },
+        {
+          "name": "Dalton",
+          "url": "https://open.spotify.com/artist/4ccC3e6gKs6Yp7rZ9oKQMk"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143319,
+      "name": "KANN ES SO F\u00dcR IMMER SEIN?",
+      "url": "https://open.spotify.com/track/6fXdvYFcuqcFl04ZY7HnTH"
+    },
+    {
+      "album": {
         "name": "kann schon sein",
         "url": "https://open.spotify.com/album/5YCiVWuyvXjXlxKoyijNda"
       },
@@ -3846,7 +3886,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 146666,
       "name": "lieblingslied",
       "url": "https://open.spotify.com/track/0MCgv85fHMQd1bnJObN13K"
@@ -4434,7 +4474,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 157280,
       "name": "Midsommar",
       "url": "https://open.spotify.com/track/5FC1EYofuu7LkF8DJNuwG1"
@@ -4513,6 +4553,24 @@
     },
     {
       "album": {
+        "name": "Mitternacht",
+        "url": "https://open.spotify.com/album/0ihoedq5WZq5AXD0J8akm0"
+      },
+      "artists": [
+        {
+          "name": "George JR",
+          "url": "https://open.spotify.com/artist/1DEiVfNJKnAbTDbhKy1h3t"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115201,
+      "name": "Mitternacht",
+      "url": "https://open.spotify.com/track/1so5kgE9INqvJc91spGyO8"
+    },
+    {
+      "album": {
         "name": "Just The Beginning",
         "url": "https://open.spotify.com/album/55LUvkPPMUgwQVmypS3Wex"
       },
@@ -4586,7 +4644,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 164653,
       "name": "Morgen fr\u00fch",
       "url": "https://open.spotify.com/track/1ozUACLMVWbfXr6GxPmtD2"
@@ -5864,7 +5922,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-26",
       "duration_ms": 140428,
       "name": "Sch\u00f6n",
       "url": "https://open.spotify.com/track/0qcVNd4VcOqxfRisjPa6fu"
@@ -6476,6 +6534,24 @@
       "duration_ms": 166666,
       "name": "Song 11 ft Provinz",
       "url": "https://open.spotify.com/track/2D7sq6xJiipSwwZT6Lp90l"
+    },
+    {
+      "album": {
+        "name": "sonnenbrand.wav",
+        "url": "https://open.spotify.com/album/1NfSUyibRSx1WJbAYDibNt"
+      },
+      "artists": [
+        {
+          "name": "ramonski",
+          "url": "https://open.spotify.com/artist/5c68xeIPEWsKVqod15NMi2"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171983,
+      "name": "sonnenbrand.wav",
+      "url": "https://open.spotify.com/track/6lgf4EIOanb6FcXBTdbg6t"
     },
     {
       "album": {

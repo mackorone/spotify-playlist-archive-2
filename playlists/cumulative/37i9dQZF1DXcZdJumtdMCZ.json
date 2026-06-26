@@ -439,6 +439,36 @@
     },
     {
       "album": {
+        "name": "Angreze",
+        "url": "https://open.spotify.com/album/4GRXRVHu1g0S5jginuiG5Z"
+      },
+      "artists": [
+        {
+          "name": "Yogi",
+          "url": "https://open.spotify.com/artist/0QiCCpzEYPFaWqkWtDQTmH"
+        },
+        {
+          "name": "Navz-47",
+          "url": "https://open.spotify.com/artist/1COjjFgtQEz2oxPHF6XIuu"
+        },
+        {
+          "name": "Jords",
+          "url": "https://open.spotify.com/artist/7lhD6ETR0JNlpJWYycy3jx"
+        },
+        {
+          "name": "Star.One",
+          "url": "https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "Angreze",
+      "url": "https://open.spotify.com/track/4lVJxhc8ZCsEH1TSZMgbOl"
+    },
+    {
+      "album": {
         "name": "Anu",
         "url": "https://open.spotify.com/album/3moHanqoeuxCLUhtPs2Jqz"
       },

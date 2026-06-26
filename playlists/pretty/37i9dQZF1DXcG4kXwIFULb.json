@@ -1,6 +1,6 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 228591,
+  "num_followers": 228650,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "C\u00e9u",
-        "url": "https://open.spotify.com/album/17jh7tYL1hiAltz0DJlvLN"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9u",
-          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
-        }
-      ],
-      "duration_ms": 174653,
-      "name": "Malemolencia",
-      "url": "https://open.spotify.com/track/3voQ4FSnDNKEKuBNeJjAR5"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
         "name": "Breath From Another",
         "url": "https://open.spotify.com/album/5IjiTlH5NjwgFjfCxXlY0S"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 280866,
       "name": "That Girl",
       "url": "https://open.spotify.com/track/3YMaXtFpBiLRuZIiokJ9DR"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
+        "name": "C\u00e9u",
+        "url": "https://open.spotify.com/album/17jh7tYL1hiAltz0DJlvLN"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+        }
+      ],
+      "duration_ms": 174653,
+      "name": "Malemolencia",
+      "url": "https://open.spotify.com/track/3voQ4FSnDNKEKuBNeJjAR5"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "Cold Water Music",
-        "url": "https://open.spotify.com/album/6N5ST7D8lhiW1I5YfPDE5R"
-      },
-      "artists": [
-        {
-          "name": "Aim",
-          "url": "https://open.spotify.com/artist/1ILwJ5zliBLMsRARQJjOMp"
-        }
-      ],
-      "duration_ms": 344360,
-      "name": "Cold Water Music",
-      "url": "https://open.spotify.com/track/4aY26H8RJQ6zcvovm85GVg"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
         "name": "Permutation",
         "url": "https://open.spotify.com/album/7jxs0XY2yJS36PZCjUv4Hp"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 282573,
       "name": "Nova",
       "url": "https://open.spotify.com/track/0lcfJc4pG6xnNmrUlZ9232"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
+        "name": "Cold Water Music",
+        "url": "https://open.spotify.com/album/6N5ST7D8lhiW1I5YfPDE5R"
+      },
+      "artists": [
+        {
+          "name": "Aim",
+          "url": "https://open.spotify.com/artist/1ILwJ5zliBLMsRARQJjOMp"
+        }
+      ],
+      "duration_ms": 344360,
+      "name": "Cold Water Music",
+      "url": "https://open.spotify.com/track/4aY26H8RJQ6zcvovm85GVg"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "Radio Retaliation",
-        "url": "https://open.spotify.com/album/7JK0l9nae3EcV6C1lz4LlG"
-      },
-      "artists": [
-        {
-          "name": "Thievery Corporation",
-          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
-        }
-      ],
-      "duration_ms": 288933,
-      "name": "Sweet Tides",
-      "url": "https://open.spotify.com/track/5IapIlqooJJ0CmJmrEY8Ir"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
         "name": "Play & Play: The B Sides",
         "url": "https://open.spotify.com/album/0t4ItMJbYMYLzvEO7tzt0B"
       },
@@ -1279,18 +1263,34 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "Slip Into Something More Comfortable",
-        "url": "https://open.spotify.com/album/0e6fOjkQGCCWwtUXryzwJu"
+        "name": "Radio Retaliation",
+        "url": "https://open.spotify.com/album/7JK0l9nae3EcV6C1lz4LlG"
       },
       "artists": [
         {
-          "name": "Kinobe",
-          "url": "https://open.spotify.com/artist/468ohR5I3vI6JztrHL7exy"
+          "name": "Thievery Corporation",
+          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
         }
       ],
-      "duration_ms": 287776,
-      "name": "Slip Into Something More Comfortable - Stephen Hague 2016 Mix",
-      "url": "https://open.spotify.com/track/6l7PbHcApOcdXYbZlex1z4"
+      "duration_ms": 288933,
+      "name": "Sweet Tides",
+      "url": "https://open.spotify.com/track/5IapIlqooJJ0CmJmrEY8Ir"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
+        "name": "H\u00f4tel Costes",
+        "url": "https://open.spotify.com/album/7lp6VEaf4BefnCWv6Qfnf8"
+      },
+      "artists": [
+        {
+          "name": "De-Phazz",
+          "url": "https://open.spotify.com/artist/0WLS16S6MJvMgWXrUezleN"
+        }
+      ],
+      "duration_ms": 264253,
+      "name": "No jive",
+      "url": "https://open.spotify.com/track/222Ag8me5qQFQ5oDxigDiu"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
+        "name": "Slip Into Something More Comfortable",
+        "url": "https://open.spotify.com/album/0e6fOjkQGCCWwtUXryzwJu"
+      },
+      "artists": [
+        {
+          "name": "Kinobe",
+          "url": "https://open.spotify.com/artist/468ohR5I3vI6JztrHL7exy"
+        }
+      ],
+      "duration_ms": 287776,
+      "name": "Slip Into Something More Comfortable - Stephen Hague 2016 Mix",
+      "url": "https://open.spotify.com/track/6l7PbHcApOcdXYbZlex1z4"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
         "name": "Superluminal",
         "url": "https://open.spotify.com/album/3It8376G4eBhEraQbW3TNR"
       },
@@ -1339,6 +1355,22 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
+        "name": "The Mirror Conspiracy",
+        "url": "https://open.spotify.com/album/12PENKuzKH3r1Kv2rlCjZn"
+      },
+      "artists": [
+        {
+          "name": "Thievery Corporation",
+          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
+        }
+      ],
+      "duration_ms": 290826,
+      "name": "Lebanese Blonde",
+      "url": "https://open.spotify.com/track/488E8BWYDCDrL6vunOAzPy"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
         "name": "Endtroducing.....",
         "url": "https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l"
       },
@@ -1351,38 +1383,6 @@
       "duration_ms": 399026,
       "name": "Building Steam With A Grain Of Salt",
       "url": "https://open.spotify.com/track/4cucslsiEgezV2o900Ykg3"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
-        "name": "H\u00f4tel Costes",
-        "url": "https://open.spotify.com/album/7lp6VEaf4BefnCWv6Qfnf8"
-      },
-      "artists": [
-        {
-          "name": "De-Phazz",
-          "url": "https://open.spotify.com/artist/0WLS16S6MJvMgWXrUezleN"
-        }
-      ],
-      "duration_ms": 264253,
-      "name": "No jive",
-      "url": "https://open.spotify.com/track/222Ag8me5qQFQ5oDxigDiu"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
-        "name": "In A Space Outta Sound",
-        "url": "https://open.spotify.com/album/76IdrUoD3S7mXFww6H78Cf"
-      },
-      "artists": [
-        {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
-        }
-      ],
-      "duration_ms": 324173,
-      "name": "Flip Ya Lid",
-      "url": "https://open.spotify.com/track/5ftamIDoDRpEvlZinDuNNW"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "The Mirror Conspiracy",
-        "url": "https://open.spotify.com/album/12PENKuzKH3r1Kv2rlCjZn"
+        "name": "In A Space Outta Sound",
+        "url": "https://open.spotify.com/album/76IdrUoD3S7mXFww6H78Cf"
       },
       "artists": [
         {
-          "name": "Thievery Corporation",
-          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
         }
       ],
-      "duration_ms": 290826,
-      "name": "Lebanese Blonde",
-      "url": "https://open.spotify.com/track/488E8BWYDCDrL6vunOAzPy"
+      "duration_ms": 324173,
+      "name": "Flip Ya Lid",
+      "url": "https://open.spotify.com/track/5ftamIDoDRpEvlZinDuNNW"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
+        "name": "Maim That Tune",
+        "url": "https://open.spotify.com/album/1UruvVOmEgsZ8WNv8IxiQF"
+      },
+      "artists": [
+        {
+          "name": "Fila Brazillia",
+          "url": "https://open.spotify.com/artist/2wss0kNi7zdZTrxnCFxSQW"
+        }
+      ],
+      "duration_ms": 566146,
+      "name": "A Zed And Two L's",
+      "url": "https://open.spotify.com/track/0zaNoKovmrdck2PeLdGpeQ"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/0h6tPnAiO6Rp4aCAlA87jo"
       },
@@ -1535,6 +1551,22 @@
       "duration_ms": 259106,
       "name": "Riders On the Storm",
       "url": "https://open.spotify.com/track/3tYOKwQBtYebD0XPbY2vQ6"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
+        "name": "There Is Love in You (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6XoxeeeyZgzqUMzUBUSDG9"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 239432,
+      "name": "Angel Echoes",
+      "url": "https://open.spotify.com/track/0Zuw3doXy3H4HCfyb9cMK3"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1647,42 +1679,6 @@
       "duration_ms": 220813,
       "name": "Angelica",
       "url": "https://open.spotify.com/track/6AHW2n1EFK85tYC9922pFP"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
-        "name": "Nouvelle Vague",
-        "url": "https://open.spotify.com/album/4eTJmNY6X5VJ0v8d0x0lkh"
-      },
-      "artists": [
-        {
-          "name": "Nouvelle Vague",
-          "url": "https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0"
-        }
-      ],
-      "duration_ms": 198026,
-      "name": "Love Will Tear Us Apart",
-      "url": "https://open.spotify.com/track/6kVauIy0iOT2u1Gs8TBIqJ"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
-        "name": "Simple Science EP",
-        "url": "https://open.spotify.com/album/5DEFRRPdUj1kwNAq9RERHi"
-      },
-      "artists": [
-        {
-          "name": "Zero 7",
-          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
-        },
-        {
-          "name": "Danny Pratt",
-          "url": "https://open.spotify.com/artist/4UpaWG799gLccPzyPozzpo"
-        }
-      ],
-      "duration_ms": 463399,
-      "name": "Simple Science - 12\" Version",
-      "url": "https://open.spotify.com/track/1OQ3DVHPX1cXU4uUOvrKPH"
     }
   ],
   "unique_name": "Chillout Classics",

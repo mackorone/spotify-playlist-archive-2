@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qF0846GNk8.md) - [plain]
 
 > أجمد المهرجانات في مصر! الغلاف: عصام صاصا
 
-[Spotify](https://open.spotify.com/user/spotify) - 671,748 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 672,162 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qF0846GNk8.md) - [plain]
 | 15 | [متركزش وتتأمل وتبصبص \( انا مش صاحبك وحبيبك \)](https://open.spotify.com/track/4ZhqzpLGnqAtmxDVmm7yfV) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [متركزش وتتأمل وتبصبص \( انا مش صاحبك وحبيبك \)](https://open.spotify.com/album/6HvbrPMyFxaCSIypo8wogw) | 3:32 |
 | 16 | [الصدارة بيتى](https://open.spotify.com/track/1qQoYkAVwP0PjSqgKgqaHG) | [حمو المرشدي](https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY) | [الصدارة بيتى](https://open.spotify.com/album/52c3EJQaWAsE0GR4HVvclK) | 3:24 |
 | 17 | [مسجون](https://open.spotify.com/track/5HdwOCH19HtVJbLgcNrxdW) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [Kimo El Deeb](https://open.spotify.com/artist/49FPLRUHMBRiUIhtx3N07x) | [مسجون](https://open.spotify.com/album/6ltOLhg9IcvDwrtXxppZGE) | 5:03 |
-| 18 | [الجاي بتاعي](https://open.spotify.com/track/1TcblBVtkEEbH0kL67kIC3) | [Houda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [الجاي بتاعي](https://open.spotify.com/album/0qYlJKhHgr0h7vaxfFBD3Q) | 3:17 |
+| 18 | [الجاي بتاعي](https://open.spotify.com/track/1TcblBVtkEEbH0kL67kIC3) | [Houda](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [الجاي بتاعي](https://open.spotify.com/album/0qYlJKhHgr0h7vaxfFBD3Q) | 3:17 |
 | 19 | [دكن دكن هنا مفيش مكان](https://open.spotify.com/track/50x3nwdfvXWc8h0hUfKZU2) | [حمو رانجو](https://open.spotify.com/artist/1PKk0Y4YdcaolgA1jX9jRQ), [الصافي رايزو](https://open.spotify.com/artist/2kg6enclyL9breHTeJ9NuO) | [دكن دكن هنا مفيش مكان](https://open.spotify.com/album/30FVCyiVawvTRIVRN4lUtF) | 5:35 |
 | 20 | [لسه وحدانى](https://open.spotify.com/track/41ljJk2xNQxrz92cOQPebP) | [Team Omda](https://open.spotify.com/artist/1wut91Z0aLx8JiFdEbaZNm) | [لسه وحدانى](https://open.spotify.com/album/6veW4n1hS0d0Jfm1bncQJK) | 2:37 |
 | 21 | [من يوم ما سيرتي سمعت](https://open.spotify.com/track/4dT3AHcAllEX8aNoft3IPO) | [Ahmed Moza](https://open.spotify.com/artist/4vOfY5JSqJJPspHqGp4EZl), [Resha Costa](https://open.spotify.com/artist/5VXbENspI2Q0cRiVZ828U8), [Samara Now](https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0) | [من يوم ما سيرتي سمعت](https://open.spotify.com/album/0hu1fLi8RJojTZPk95L8nC) | 2:50 |

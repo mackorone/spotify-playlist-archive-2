@@ -1,6 +1,6 @@
 {
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
-  "num_followers": 600535,
+  "num_followers": 600566,
   "original_name": "Psytrance Supernova",
   "owner": {
     "name": "Spotify",
@@ -1119,6 +1119,26 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
+        "name": "Ecstasy of Gold (P.R.O.G. Remix)",
+        "url": "https://open.spotify.com/album/1RgK6wvA0ZUi9KDmlbseBo"
+      },
+      "artists": [
+        {
+          "name": "WHITENO1SE",
+          "url": "https://open.spotify.com/artist/0o6xglPZ7ZGNSIPBSwwau2"
+        },
+        {
+          "name": "P.R.O.G.",
+          "url": "https://open.spotify.com/artist/43WlFAeasc7FjUP2CkY83f"
+        }
+      ],
+      "duration_ms": 320571,
+      "name": "Ecstasy of Gold - P.R.O.G. Remix",
+      "url": "https://open.spotify.com/track/12RsxZLU2oVpHLu9yhNosu"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
         "name": "Shingara",
         "url": "https://open.spotify.com/album/45ykr0hh1ZI3hhyBMLNZWs"
       },
@@ -1139,26 +1159,6 @@
       "duration_ms": 317746,
       "name": "Shingara",
       "url": "https://open.spotify.com/track/06uh05Zu2UpLjnH6NydLUL"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
-        "name": "Ecstasy of Gold (P.R.O.G. Remix)",
-        "url": "https://open.spotify.com/album/1RgK6wvA0ZUi9KDmlbseBo"
-      },
-      "artists": [
-        {
-          "name": "WHITENO1SE",
-          "url": "https://open.spotify.com/artist/0o6xglPZ7ZGNSIPBSwwau2"
-        },
-        {
-          "name": "P.R.O.G.",
-          "url": "https://open.spotify.com/artist/43WlFAeasc7FjUP2CkY83f"
-        }
-      ],
-      "duration_ms": 320571,
-      "name": "Ecstasy of Gold - P.R.O.G. Remix",
-      "url": "https://open.spotify.com/track/12RsxZLU2oVpHLu9yhNosu"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
+        "name": "Shroomeez",
+        "url": "https://open.spotify.com/album/6WjT81kkedROKlbYj6SInQ"
+      },
+      "artists": [
+        {
+          "name": "Infected Mushroom",
+          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+        }
+      ],
+      "duration_ms": 390011,
+      "name": "You Wanna Stay",
+      "url": "https://open.spotify.com/track/1zCEQgOjjQRzGieDb3OVKh"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
         "name": "Behind",
         "url": "https://open.spotify.com/album/5Pi3BlWvAQUYvgGoedaLvt"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 273375,
       "name": "Behind",
       "url": "https://open.spotify.com/track/1kYEeWOIctxfaPSFFUkExZ"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
-        "name": "Shroomeez",
-        "url": "https://open.spotify.com/album/6WjT81kkedROKlbYj6SInQ"
-      },
-      "artists": [
-        {
-          "name": "Infected Mushroom",
-          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
-        }
-      ],
-      "duration_ms": 390011,
-      "name": "You Wanna Stay",
-      "url": "https://open.spotify.com/track/1zCEQgOjjQRzGieDb3OVKh"
     },
     {
       "added_at": "2025-08-15 04:00:20",

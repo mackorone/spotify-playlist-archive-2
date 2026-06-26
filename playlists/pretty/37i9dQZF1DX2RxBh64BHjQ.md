@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:0LGKNkqCNnflIi35z00rGu">PayGotti</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,727,933 likes - 101 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,727,834 likes - 101 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

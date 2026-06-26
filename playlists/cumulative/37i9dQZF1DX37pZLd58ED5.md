@@ -4,7 +4,7 @@
 
 > Solo beat e rime avvolgenti\. Cover: Tony Boy
 
-373 songs - 19 hr 3 min
+374 songs - 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,6 +329,7 @@
 | [Solletico \(feat\. Tedua & The Night Skinny\)](https://open.spotify.com/track/6gan8nbS78t2sUy0M9UpAX) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [Ossigeno \- EP](https://open.spotify.com/album/0eAgD8ueJfUud98yLZ612P) | 3:06 | 2022-04-28 | 2024-01-17 |
 | [Solo](https://open.spotify.com/track/2bb4acPdB8EXjUW2V7nRKc) | [Goya](https://open.spotify.com/artist/6SXFxaY2Eurl3rkwgJtjjv), [NIKENINJA](https://open.spotify.com/artist/1KoV9yk84kwbSefb2zr1Ty), [No Label](https://open.spotify.com/artist/7eSQIwqpU7HGvEQVgcMqQx) | [Simmetria](https://open.spotify.com/album/15SV0kOi1rhPFVsl37p0IY) | 3:45 | 2025-06-26 | 2025-07-25 |
 | [Solo \(feat\. Luchè\)](https://open.spotify.com/track/18jypjDXo1laFq8eiGTxr1) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Containers](https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc) | 2:46 | 2024-10-10 | 2024-12-14 |
+| [Solo io \(?\)](https://open.spotify.com/track/6k9oH7omqCL4ic6sX8BrKW) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [26](https://open.spotify.com/album/67SBrrE0LhCNEJpar5MQ0P) | 3:22 | 2026-06-25 |  |
 | [Solo Per Me \(feat\. Massimo Pericolo\)](https://open.spotify.com/track/0UKgEDJm4M54t50cbGGiUC) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [MM Vol\. 4](https://open.spotify.com/album/6u7PVqrCBPex6FSw8eb5ce) | 2:58 | 2022-04-28 | 2023-07-14 |
 | [SONO PERSA](https://open.spotify.com/track/1CfhwjK3SSRwLy4A7uOxb6) | [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [SONO PERSA](https://open.spotify.com/album/3Yf86Lnx0lY2yNuslp5OIp) | 2:51 | 2026-02-05 | 2026-04-17 |
 | [Sottovuoto](https://open.spotify.com/track/2oDlAuhJExJd7papr3cyBF) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [FERITE](https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz) | 2:47 | 2025-03-28 |  |
